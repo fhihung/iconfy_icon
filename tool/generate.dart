@@ -260,7 +260,7 @@ void main() async {
     }
 
     // Write file
-    final outputFile = File('${outputDir.path}/${categoryDartName}.g.dart');
+    final outputFile = File('${outputDir.path}/$categoryDartName.g.dart');
     outputFile.writeAsStringSync(buffer.toString());
     print('  ✅ Generated ${outputFile.path.split('/').last} (${icons.length} icons)');
   }
@@ -275,7 +275,7 @@ void main() async {
   entryBuffer.writeln();
 
   for (final name in categoryNames) {
-    entryBuffer.writeln("part '${name}.g.dart';");
+    entryBuffer.writeln("part '$name.g.dart';");
   }
   entryBuffer.writeln();
 
