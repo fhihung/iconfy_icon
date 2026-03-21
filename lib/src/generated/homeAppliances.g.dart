@@ -10,36 +10,68 @@ class _HomeAppliancesIcons {
 
   /// coat hanger
   _HomeAppliancesCoatHangerIcon get coatHanger => const _HomeAppliancesCoatHangerIcon();
+  /// coat hanger 1
+  _HomeAppliancesCoatHanger1Icon get coatHanger1 => const _HomeAppliancesCoatHanger1Icon();
+  /// coat hanger 2
+  _HomeAppliancesCoatHanger2Icon get coatHanger2 => const _HomeAppliancesCoatHanger2Icon();
+  /// coat hanger 3
+  _HomeAppliancesCoatHanger3Icon get coatHanger3 => const _HomeAppliancesCoatHanger3Icon();
+  /// coat hanger 4
+  _HomeAppliancesCoatHanger4Icon get coatHanger4 => const _HomeAppliancesCoatHanger4Icon();
+  /// coat hanger 5
+  _HomeAppliancesCoatHanger5Icon get coatHanger5 => const _HomeAppliancesCoatHanger5Icon();
   /// Bed side view
   _HomeAppliancesBedSideViewIcon get bedSideView => const _HomeAppliancesBedSideViewIcon();
   /// Bed love
   _HomeAppliancesBedLoveIcon get bedLove => const _HomeAppliancesBedLoveIcon();
+  /// Bed love 1
+  _HomeAppliancesBedLove1Icon get bedLove1 => const _HomeAppliancesBedLove1Icon();
   /// Pant Short
   _HomeAppliancesPantShortIcon get pantShort => const _HomeAppliancesPantShortIcon();
   /// Drawer
   _HomeAppliancesDrawerIcon get drawer => const _HomeAppliancesDrawerIcon();
+  /// Drawer 1
+  _HomeAppliancesDrawer1Icon get drawer1 => const _HomeAppliancesDrawer1Icon();
   /// Cooler
   _HomeAppliancesCoolerIcon get cooler => const _HomeAppliancesCoolerIcon();
   /// Double bed
   _HomeAppliancesDoubleBedIcon get doubleBed => const _HomeAppliancesDoubleBedIcon();
+  /// Double bed 1
+  _HomeAppliancesDoubleBed1Icon get doubleBed1 => const _HomeAppliancesDoubleBed1Icon();
+  /// Double bed 2
+  _HomeAppliancesDoubleBed2Icon get doubleBed2 => const _HomeAppliancesDoubleBed2Icon();
   /// vacuum cleaner
   _HomeAppliancesVacuumCleanerIcon get vacuumCleaner => const _HomeAppliancesVacuumCleanerIcon();
   /// Washing machine
   _HomeAppliancesWashingMachineIcon get washingMachine => const _HomeAppliancesWashingMachineIcon();
+  /// Washing machine 1
+  _HomeAppliancesWashingMachine1Icon get washingMachine1 => const _HomeAppliancesWashingMachine1Icon();
   /// Oven
   _HomeAppliancesOvenIcon get oven => const _HomeAppliancesOvenIcon();
+  /// Oven 1
+  _HomeAppliancesOven1Icon get oven1 => const _HomeAppliancesOven1Icon();
+  /// Oven 2
+  _HomeAppliancesOven2Icon get oven2 => const _HomeAppliancesOven2Icon();
   /// Bed sleeping
   _HomeAppliancesBedSleepingIcon get bedSleeping => const _HomeAppliancesBedSleepingIcon();
   /// Single bed
   _HomeAppliancesSingleBedIcon get singleBed => const _HomeAppliancesSingleBedIcon();
+  /// Single bed 1
+  _HomeAppliancesSingleBed1Icon get singleBed1 => const _HomeAppliancesSingleBed1Icon();
   /// Dresser
   _HomeAppliancesDresserIcon get dresser => const _HomeAppliancesDresserIcon();
+  /// Dresser 1
+  _HomeAppliancesDresser1Icon get dresser1 => const _HomeAppliancesDresser1Icon();
+  /// Dresser 2
+  _HomeAppliancesDresser2Icon get dresser2 => const _HomeAppliancesDresser2Icon();
   /// Fire extinguisher
   _HomeAppliancesFireExtinguisherIcon get fireExtinguisher => const _HomeAppliancesFireExtinguisherIcon();
   /// Panel
   _HomeAppliancesPanelIcon get panel => const _HomeAppliancesPanelIcon();
   /// Sofa
   _HomeAppliancesSofaIcon get sofa => const _HomeAppliancesSofaIcon();
+  /// Sofa 1
+  _HomeAppliancesSofa1Icon get sofa1 => const _HomeAppliancesSofa1Icon();
   /// Fridge
   _HomeAppliancesFridgeIcon get fridge => const _HomeAppliancesFridgeIcon();
   /// Weight
@@ -48,10 +80,28 @@ class _HomeAppliancesIcons {
   _HomeAppliancesBlanketIcon get blanket => const _HomeAppliancesBlanketIcon();
   /// Exit
   _HomeAppliancesExitIcon get exit => const _HomeAppliancesExitIcon();
+  /// Exit 1
+  _HomeAppliancesExit1Icon get exit1 => const _HomeAppliancesExit1Icon();
+  /// Exit 2
+  _HomeAppliancesExit2Icon get exit2 => const _HomeAppliancesExit2Icon();
+  /// Exit 3
+  _HomeAppliancesExit3Icon get exit3 => const _HomeAppliancesExit3Icon();
   /// Check in
   _HomeAppliancesCheckInIcon get checkIn => const _HomeAppliancesCheckInIcon();
+  /// Check in 1
+  _HomeAppliancesCheckIn1Icon get checkIn1 => const _HomeAppliancesCheckIn1Icon();
+  /// Check in 2
+  _HomeAppliancesCheckIn2Icon get checkIn2 => const _HomeAppliancesCheckIn2Icon();
+  /// Check in 3
+  _HomeAppliancesCheckIn3Icon get checkIn3 => const _HomeAppliancesCheckIn3Icon();
   /// Check out
   _HomeAppliancesCheckOutIcon get checkOut => const _HomeAppliancesCheckOutIcon();
+  /// Check out 1
+  _HomeAppliancesCheckOut1Icon get checkOut1 => const _HomeAppliancesCheckOut1Icon();
+  /// Check out 2
+  _HomeAppliancesCheckOut2Icon get checkOut2 => const _HomeAppliancesCheckOut2Icon();
+  /// Check out 3
+  _HomeAppliancesCheckOut3Icon get checkOut3 => const _HomeAppliancesCheckOut3Icon();
 }
 
 /// coat hanger icon with style variants.
@@ -79,7 +129,7 @@ class _HomeAppliancesCoatHangerBulk {
   /// coat hanger — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'coat hanger',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path d="M15.5164 12.0404L19.2955 13.6043L19.2974 13.6051C19.875 13.8491 20.2502 14.4139 20.2502 15.0369C20.2502 15.8808 19.5614 16.5733 18.705 16.5733H17.6808C17.6831 16.6109 17.6843 16.6488 17.6843 16.687V18.0733H18.705C20.3861 18.0733 21.7502 16.713 21.7502 15.0369C21.7502 13.8062 21.0093 12.6982 19.8775 12.2218L16.092 10.6553C16.4727 10.8147 16.6533 11.2521 16.4953 11.6339C16.3371 12.0163 15.8989 12.1982 15.5164 12.0404Z" fill="black"/> <path d="M6.31254 16.5731C6.31017 16.6108 6.30896 16.6488 6.30896 16.687V18.0731H5.28628C3.61211 18.0731 2.24988 16.7109 2.24988 15.0367V14.9472C2.24988 13.7338 2.97416 12.6198 4.10466 12.1493L6.75237 11.0257C6.37107 11.1875 6.19314 11.6278 6.35496 12.0091C6.51634 12.3893 6.95468 12.5673 7.33527 12.4078L4.68252 13.5335C4.12181 13.7662 3.74988 14.3267 3.74988 14.9472V15.0367C3.74988 15.8824 4.44054 16.5731 5.28628 16.5731H6.31254Z" fill="black"/> </g> <path d="M10.5722 6.10937C10.5722 5.18919 11.4375 4.46007 12.4293 4.71922C12.8836 4.84121 13.2754 5.22748 13.4021 5.68148C13.6261 6.48069 13.2024 7.19952 12.5478 7.45321L12.5427 7.4552C11.8037 7.74778 11.2681 8.44957 11.2681 9.29476V9.78122C11.2681 10.0847 11.4509 10.3582 11.7313 10.4742L15.5155 12.0402C15.8983 12.1986 16.3369 12.0167 16.4953 11.6339C16.6537 11.2512 16.4718 10.8125 16.0891 10.6542L12.7683 9.28001C12.7743 9.10527 12.8856 8.93351 13.093 8.85062C14.4349 8.32878 15.2876 6.85111 14.8467 5.2777C14.5764 4.31005 13.7802 3.52748 12.8148 3.26961L12.8116 3.26876C10.8523 2.7547 9.07216 4.22217 9.07216 6.10937C9.07216 6.52358 9.40795 6.85937 9.82216 6.85937C10.2364 6.85937 10.5722 6.52358 10.5722 6.10937Z" fill="black"/> <path d="M9.98863 11.2819C10.3699 11.12 10.5479 10.6798 10.386 10.2985C10.2242 9.91716 9.78394 9.73924 9.40264 9.90105L6.75237 11.0258C6.37107 11.1876 6.19314 11.6279 6.35496 12.0092C6.51677 12.3905 6.95705 12.5684 7.33835 12.4066L9.98863 11.2819Z" fill="black"/> <path d="M6.30896 16.6871C6.30896 15.7037 7.10588 14.9067 8.08934 14.9067H15.904C16.8874 14.9067 17.6843 15.7037 17.6843 16.6871V19.0552C17.6843 20.0387 16.8874 20.8356 15.904 20.8356H8.08934C7.10588 20.8356 6.30896 20.0387 6.30896 19.0552V16.6871Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M11.0458 9.54153C11.3382 9.37627 11.694 9.36884 11.9931 9.52175L20.0079 13.62C21.2153 14.1383 22 15.3271 22 16.6433C22 18.4611 20.527 19.9346 18.7096 19.9346H5.29038C3.47295 19.9346 2 18.4611 2 16.6433V16.5567C2 15.2559 2.76672 14.0794 3.95122 13.5512L11.0458 9.54153ZM11.5615 11.5474L4.8902 15.3179C4.85719 15.3365 4.82316 15.3533 4.78825 15.3681C4.31009 15.5706 4 16.0392 4 16.5567V16.6433C4 17.3571 4.57807 17.9346 5.29038 17.9346H18.7096C19.4219 17.9346 20 17.3571 20 16.6433C20 16.1215 19.6853 15.6506 19.2031 15.4511C19.1783 15.4409 19.1539 15.4296 19.13 15.4174L11.5615 11.5474Z" fill="black"/> <path d="M12.6877 6.10995C11.997 6.10995 11.5074 6.56507 11.4211 7.28739C11.249 8.72797 9.39829 8.72878 9.41964 7.21553C9.43854 5.87071 10.3924 4.66339 11.6464 4.22021C12.377 3.96203 13.2913 4.03695 13.9811 4.36974C15.0771 4.89847 15.6948 5.84674 15.7822 7.13471C15.8639 8.33876 15.2933 9.38775 14.1377 10.1579C13.9348 10.293 13.7845 10.4192 13.8034 10.4382C13.8225 10.4572 14.3958 10.7598 15.0775 11.1104C15.8612 11.5137 16.3684 11.8183 16.4571 11.939C16.6541 12.2072 16.6562 12.7576 16.4611 13.0211C16.2489 13.3077 15.8844 13.5341 15.6342 13.5347C15.493 13.535 14.7394 13.1918 13.4808 12.554L11.5445 11.5729L9.85396 12.5272C8.19751 13.4622 8.15626 13.4809 7.81314 13.4479C7.06595 13.3761 6.65132 12.5308 7.06469 11.9221C7.22991 11.6788 9.32733 10.45 11.8459 9.12104C12.5013 8.77518 13.1512 8.39857 13.2901 8.28406C13.773 7.88602 13.9036 7.26848 13.626 6.695C13.4394 6.30957 13.1192 6.10995 12.6877 6.10995Z" fill="black"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -94,7 +144,7 @@ class _HomeAppliancesCoatHangerBroken {
   /// coat hanger — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'coat hanger',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.9036 20.2097C16.6109 20.2097 17.184 19.6366 17.184 18.9293V16.5611C17.184 15.8538 16.6109 15.2808 15.9036 15.2808H8.08898C7.38165 15.2808 6.80859 15.8538 6.80859 16.5611V18.9293C6.80859 19.6366 7.38165 20.2097 8.08898 20.2097H12.9155" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.82227 5.98373C9.82227 4.57979 11.1455 3.48135 12.6214 3.86857C13.3316 4.0583 13.9261 4.64303 14.1246 5.35425C14.4573 6.54123 13.8181 7.63967 12.8189 8.0269C12.3422 8.21565 12.0182 8.65639 12.0182 9.16912V9.65559L19.5866 12.7875C20.4419 13.1475 21.0003 13.9842 21.0003 14.9114C21.0003 16.1713 19.9739 17.1978 18.7052 17.1978H17.1845" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.8071 17.1976H5.2864C4.02645 17.1976 3 16.1711 3 14.9112V14.8217C3 13.9042 3.54874 13.0665 4.39519 12.7152L9.69574 10.4658" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.8293 7.53034C9.8293 6.12343 11.1535 4.94126 12.6227 5.33045C13.3408 5.52115 13.8769 6.08743 14.0812 6.80159C14.4519 8.09661 13.764 9.00732 12.8241 9.57261C12.3843 9.83726 4.39816 14.2575 4.39816 14.2575C3.5507 14.6165 3 15.4474 3 16.3669V16.4535C3 17.7193 4.02551 18.7448 5.29038 18.7448H8.64519" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0549 12.0479L19.5853 14.3373C20.4415 14.6914 21 15.5272 21 16.4535C21 17.7193 19.9745 18.7448 18.7096 18.7448H12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -109,7 +159,7 @@ class _HomeAppliancesCoatHangerTwotone {
   /// coat hanger — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'coat hanger',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4036 20.2097H8.58898C7.88165 20.2097 7.30859 19.6366 7.30859 18.9293V16.5611C7.30859 15.8538 7.88165 15.2808 8.58898 15.2808H16.4036C17.1109 15.2808 17.684 15.8538 17.684 16.5611V18.9293C17.684 19.6366 17.1109 20.2097 16.4036 20.2097Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.3223 5.98373C10.3223 4.57979 11.6455 3.48135 13.1214 3.86857C13.8316 4.0583 14.4261 4.64303 14.6246 5.35425C14.9573 6.54123 14.3181 7.63967 13.3189 8.0269C12.8422 8.21565 12.5182 8.65639 12.5182 9.16912V9.65559L20.0866 12.7875C20.9419 13.1475 21.5003 13.9842 21.5003 14.9114C21.5003 16.1713 20.4739 17.1978 19.2052 17.1978H17.6845" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.3071 17.1976H5.7864C4.52645 17.1976 3.5 16.1711 3.5 14.9112V14.8217C3.5 13.9042 4.04874 13.0665 4.89519 12.7152L10.1957 10.4658" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.5549 12.0479L20.0853 14.3373C20.9415 14.6914 21.5 15.5272 21.5 16.4535C21.5 17.7193 20.4745 18.7448 19.2096 18.7448M5.79038 18.7448C4.52551 18.7448 3.5 17.7193 3.5 16.4535V16.3669C3.5 15.4474 4.0507 14.6165 4.89816 14.2575C4.89816 14.2575 12.8843 9.83726 13.3241 9.57261C14.264 9.00732 14.9519 8.09661 14.5812 6.80159C14.3769 6.08743 13.8408 5.52115 13.1227 5.33045C11.6535 4.94126 10.3293 6.12343 10.3293 7.53034" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.2093 18.7446H5.79004" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -124,7 +174,7 @@ class _HomeAppliancesCoatHangerOutline {
   /// coat hanger — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'coat hanger',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.08946 16.031C7.79635 16.031 7.55908 16.2683 7.55908 16.5614V18.9295C7.55908 19.2226 7.79635 19.4599 8.08946 19.4599H15.9041C16.1972 19.4599 16.4345 19.2226 16.4345 18.9295V16.5614C16.4345 16.2683 16.1972 16.031 15.9041 16.031H8.08946ZM6.05908 16.5614C6.05908 15.4399 6.96793 14.531 8.08946 14.531H15.9041C17.0256 14.531 17.9345 15.4399 17.9345 16.5614V18.9295C17.9345 20.051 17.0256 20.9599 15.9041 20.9599H8.08946C6.96793 20.9599 6.05908 20.051 6.05908 18.9295V16.5614Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4294 4.59349C11.4376 4.33433 10.5723 5.06345 10.5723 5.98363C10.5723 6.39785 10.2365 6.73363 9.82227 6.73363C9.40805 6.73363 9.07227 6.39785 9.07227 5.98363C9.07227 4.09644 10.8524 2.62897 12.8117 3.14303L12.815 3.14387C13.7805 3.40179 14.5768 4.18459 14.847 5.15247M12.4294 4.59349C12.8837 4.71548 13.2755 5.10175 13.4022 5.55574C13.6262 6.35496 13.2025 7.07379 12.5479 7.32748L12.5428 7.32946C11.8038 7.62205 11.2682 8.32384 11.2682 9.16902V9.65549C11.2682 9.95893 11.451 10.2325 11.7314 10.3485L19.2957 13.4786C19.2963 13.4789 19.2969 13.4791 19.2975 13.4794C19.8751 13.7234 20.2503 14.2882 20.2503 14.9113C20.2503 15.7552 19.5615 16.4477 18.7052 16.4477H17.1845C16.7703 16.4477 16.4345 16.7835 16.4345 17.1977C16.4345 17.6119 16.7703 17.9477 17.1845 17.9477H18.7052C20.3862 17.9477 21.7503 16.5873 21.7503 14.9113C21.7503 13.6806 21.0094 12.5725 19.8776 12.0961L12.7684 9.15427C12.7744 8.97953 12.8857 8.80777 13.0931 8.72488C14.4348 8.2031 15.2875 6.72566 14.847 5.15247" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3861 10.1728C10.548 10.5541 10.37 10.9944 9.98873 11.1562L4.68264 13.4079C4.12194 13.6406 3.75 14.2011 3.75 14.8216V14.9111C3.75 15.7568 4.44066 16.4475 5.2864 16.4475H6.8071C7.22131 16.4475 7.5571 16.7833 7.5571 17.1975C7.5571 17.6117 7.22131 17.9475 6.8071 17.9475H5.2864C3.61223 17.9475 2.25 16.5853 2.25 14.9111V14.8216C2.25 13.6082 2.97428 12.4942 4.10478 12.0237L9.40275 9.77537C9.78405 9.61355 10.2243 9.79148 10.3861 10.1728Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.7102 19.4942H5.29225C4.58589 19.4828 3.90471 19.2299 3.36199 18.7777C2.81927 18.3255 2.44772 17.7011 2.30913 17.0083C2.17054 16.3156 2.27326 15.5963 2.60021 14.9701C2.92716 14.3438 3.45864 13.8484 4.10625 13.5661C6.25425 12.3731 12.0873 9.14115 12.4393 8.92915C13.6953 8.17315 13.4392 7.29515 13.3612 7.00715C13.3029 6.78108 13.1863 6.57424 13.0231 6.40721C12.86 6.24019 12.6559 6.11881 12.4312 6.05515C12.2192 5.99729 11.9966 5.98976 11.7811 6.03317C11.5657 6.07657 11.3633 6.1697 11.1903 6.30515C11.0022 6.44939 10.8496 6.6346 10.7439 6.84669C10.6382 7.05878 10.5822 7.29219 10.5802 7.52915C10.5802 7.72807 10.5012 7.91883 10.3606 8.05948C10.2199 8.20013 10.0292 8.27915 9.83025 8.27915C9.63134 8.27915 9.44057 8.20013 9.29992 8.05948C9.15926 7.91883 9.08025 7.72807 9.08025 7.52915C9.08276 7.06268 9.1917 6.60294 9.39879 6.18495C9.60588 5.76696 9.90565 5.40175 10.2752 5.11715C10.6307 4.84206 11.0447 4.65267 11.4853 4.56369C11.9258 4.47472 12.3809 4.48856 12.8153 4.60415C13.2913 4.73342 13.7251 4.98518 14.0736 5.33433C14.422 5.68348 14.6729 6.11785 14.8013 6.59415C15.0042 7.28816 14.9559 8.03151 14.6649 8.69345C14.3739 9.35538 13.8588 9.89351 13.2102 10.2132C12.7642 10.4822 5.08725 14.7311 4.76125 14.9131C4.42296 15.0504 4.14179 15.2993 3.96443 15.6184C3.78706 15.9375 3.72416 16.3077 3.78617 16.6675C3.84817 17.0272 4.03136 17.355 4.30532 17.5963C4.57927 17.8376 4.92752 17.978 5.29225 17.9942H18.7102C19.0669 17.9944 19.4126 17.8709 19.6884 17.6447C19.9642 17.4185 20.153 17.1037 20.2226 16.7539C20.2922 16.4041 20.2383 16.0409 20.0701 15.7264C19.9019 15.4119 19.6298 15.1655 19.3003 15.0292L13.7692 12.7402C13.5888 12.6619 13.4464 12.5159 13.3726 12.3336C13.2988 12.1513 13.2995 11.9473 13.3746 11.7656C13.4498 11.5838 13.5933 11.4389 13.7743 11.3619C13.9553 11.285 14.1592 11.2822 14.3423 11.3542L19.8742 13.6442C20.5239 13.9136 21.0601 14.3999 21.3915 15.0203C21.7229 15.6407 21.8291 16.3568 21.6918 17.0466C21.5545 17.7364 21.1824 18.3573 20.6388 18.8036C20.0951 19.2499 19.4136 19.4939 18.7102 19.4942Z" fill="black"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -139,7 +189,7 @@ class _HomeAppliancesCoatHangerBold {
   /// coat hanger — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'coat hanger',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.705 16.5759H17.673C17.615 15.6459 16.848 14.9059 15.904 14.9059H8.089C7.145 14.9059 6.378 15.6459 6.32 16.5759H5.286C4.439 16.5759 3.75 15.8849 3.75 14.9449C3.75 14.3249 4.118 13.7679 4.698 13.5219L11.685 10.4399C11.701 10.4479 11.714 10.4609 11.73 10.4679L19.296 13.6069C19.875 13.8499 20.25 14.4109 20.25 15.0349C20.25 15.8849 19.557 16.5759 18.705 16.5759ZM19.874 12.2229L12.768 9.2739C12.777 9.0899 12.899 8.9279 13.092 8.8539C14.508 8.3009 15.262 6.7619 14.847 5.2729C14.578 4.3139 13.78 3.5279 12.813 3.2709C11.898 3.0269 10.954 3.2139 10.22 3.7769C9.49 4.3399 9.072 5.1869 9.072 6.1049C9.072 6.5189 9.408 6.8549 9.822 6.8549C10.236 6.8549 10.572 6.5189 10.572 6.1049C10.572 5.6569 10.777 5.2419 11.135 4.9669C11.501 4.6819 11.961 4.5979 12.428 4.7209C12.885 4.8429 13.276 5.2269 13.402 5.6769C13.641 6.5329 13.152 7.2209 12.555 7.4539C11.895 7.7029 11.442 8.2879 11.321 8.9609L4.102 12.1449C2.977 12.6229 2.25 13.7219 2.25 15.0349C2.25 16.7119 3.612 18.0759 5.286 18.0759H6.309V19.0549C6.309 20.0369 7.107 20.8359 8.089 20.8359H15.904C16.885 20.8359 17.684 20.0369 17.684 19.0549V18.0759H18.705C20.384 18.0759 21.75 16.7119 21.75 15.0349C21.75 13.8049 21.015 12.7029 19.874 12.2229Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.851 11.8194C8.546 13.1024 5.407 14.8404 4.882 15.1314C4.852 15.1474 4.821 15.1624 4.789 15.1754C4.31 15.3804 4 15.8474 4 16.3664C4 17.1634 4.579 17.7464 5.29 17.7464H18.71C19.421 17.7464 20 17.1634 20 16.4464C20 15.9314 19.682 15.4554 19.207 15.2614L10.851 11.8194ZM18.71 19.7464H5.29C3.476 19.7464 2 18.2654 2 16.4464C2 15.0634 2.766 13.8874 3.955 13.3584C7.156 11.5874 11.99 8.90439 12.301 8.71339C13.401 8.05739 13.197 7.34039 13.12 7.07039C13.007 6.67839 12.726 6.38739 12.368 6.29339C11.876 6.16439 11.514 6.36639 11.342 6.49839C11.02 6.74539 10.829 7.13039 10.829 7.52639C10.829 8.07939 10.381 8.52639 9.829 8.52639C9.277 8.52639 8.829 8.07939 8.829 7.52639C8.829 6.51239 9.312 5.53639 10.122 4.91339C10.912 4.30639 11.917 4.10539 12.88 4.35939C13.924 4.63439 14.732 5.44239 15.042 6.51939C15.49 8.09039 14.868 9.51239 13.336 10.4244C13.298 10.4484 13.209 10.4994 13.078 10.5744L19.966 13.4114C21.2 13.9154 22 15.1064 22 16.4464C22 18.2654 20.524 19.7464 18.71 19.7464Z" fill="black"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -154,7 +204,547 @@ class _HomeAppliancesCoatHangerLight {
   /// coat hanger — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'coat hanger',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.0549 12.0479L19.5853 14.3373C20.4415 14.6914 21 15.5272 21 16.4535C21 17.7193 19.9745 18.7448 18.7096 18.7448H5.29038C4.02551 18.7448 3 17.7193 3 16.4535V16.3669C3 15.4474 3.5507 14.6165 4.39816 14.2575C4.39816 14.2575 12.3843 9.83726 12.8241 9.57261C13.764 9.00732 14.4519 8.09661 14.0812 6.80159C13.8769 6.08742 13.3408 5.52115 12.6227 5.33045C11.1535 4.94126 9.8293 6.12342 9.8293 7.53034" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 1 icon with style variants.
+class _HomeAppliancesCoatHanger1Icon {
+  const _HomeAppliancesCoatHanger1Icon();
+
+  /// bold style
+  _HomeAppliancesCoatHanger1Bold get bold => const _HomeAppliancesCoatHanger1Bold();
+  /// bulk style
+  _HomeAppliancesCoatHanger1Bulk get bulk => const _HomeAppliancesCoatHanger1Bulk();
+  /// light style
+  _HomeAppliancesCoatHanger1Light get light => const _HomeAppliancesCoatHanger1Light();
+  /// outline style
+  _HomeAppliancesCoatHanger1Outline get outline => const _HomeAppliancesCoatHanger1Outline();
+  /// twoTone style
+  _HomeAppliancesCoatHanger1Twotone get twoTone => const _HomeAppliancesCoatHanger1Twotone();
+  /// broken style
+  _HomeAppliancesCoatHanger1Broken get broken => const _HomeAppliancesCoatHanger1Broken();
+}
+
+/// coat hanger 1 — bulk style variants.
+class _HomeAppliancesCoatHanger1Bulk {
+  const _HomeAppliancesCoatHanger1Bulk();
+
+  /// coat hanger 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M11.6407 10.4089C11.8831 10.3101 12.1545 10.3103 12.3968 10.4094L20.298 13.6424C21.3274 14.0631 22 15.0658 22 16.1775V16.8304C22 18.3423 20.7746 19.5701 19.2613 19.5701H4.73968C3.22573 19.5701 2 18.3426 2 16.8304V16.1795C2 15.0652 2.67449 14.0635 3.70466 13.6425L11.6407 10.4089ZM4.46073 15.4941V15.4941C4.18153 15.6084 4 15.8792 4 16.1795V16.8304C4 17.2388 4.33103 17.5701 4.73968 17.5701H19.2613C19.6686 17.5701 20 17.2392 20 16.8304V16.1775C20 15.8767 19.818 15.6067 19.542 15.494L12.0173 12.4151L4.46073 15.4941Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3379 4.49917C10.1534 4.76651 9.21328 5.67997 8.896 6.87177C8.70339 7.59521 8.81903 8.17486 9.21174 8.45453C9.71673 8.81412 10.4434 8.63705 10.6896 8.09446C10.9107 7.60715 10.825 7.12095 11.2711 6.72931C12.0173 6.07416 13.2105 6.61683 13.2105 7.61132C13.2105 8.19475 12.9945 8.4843 12.2787 8.86041C11.6295 9.20158 11.188 9.75475 11.0721 10.3721C11.0451 10.5162 10.9681 10.6635 10.9011 10.6994C10.834 10.7353 10.0454 11.0646 9.14864 11.4312C8.25178 11.7978 7.44828 12.1435 7.36304 12.1993C7.2778 12.2552 7.1525 12.4179 7.08456 12.561C6.77919 13.2046 7.26232 13.9913 7.96349 13.992C8.12178 13.9922 8.91785 13.7069 10.1181 13.2198L12.0217 12.4473L13.9121 13.2198C15.1894 13.7417 15.8827 14.0352 16.0647 14.0352C17.1645 14.0905 17.6142 12.7762 16.8118 12.2367C16.7136 12.132 15.952 11.871 14.8754 11.4357C13.9228 11.0506 13.1439 10.7197 13.1448 10.7004C13.1469 10.6519 13.3949 10.4904 13.6586 10.326C14.0557 10.0784 14.3748 9.87017 14.6487 9.48495C16.057 7.50433 14.8289 4.64355 12.2593 4.43915C11.9568 4.41505 11.6105 4.43768 11.3379 4.49917Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 1 — broken style variants.
+class _HomeAppliancesCoatHanger1Broken {
+  const _HomeAppliancesCoatHanger1Broken();
+
+  /// coat hanger 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.3097 18.5515H19.2613C20.2216 18.5515 21 17.7722 21 16.8118V16.159C21 15.4526 20.5729 14.8163 19.92 14.5497L12.0181 11.3164L4.08292 14.5497C3.42811 14.8172 3 15.4536 3 16.1609V16.8118C3 17.7722 3.77838 18.5515 4.73968 18.5515H8.37008" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0173 11.3164L12.0183 10.8299C12.0202 10.3172 12.3452 9.87155 12.8229 9.68377C13.8173 9.2936 14.4575 8.19706 14.1267 7.01101C13.9273 6.29587 13.3376 5.71696 12.6196 5.52723C11.1504 5.13901 9.82812 6.23555 9.82812 7.6415" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 1 — twoTone style variants.
+class _HomeAppliancesCoatHanger1Twotone {
+  const _HomeAppliancesCoatHanger1Twotone();
+
+  /// coat hanger 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5181 11.3164L4.58292 14.5497C3.92811 14.8172 3.5 15.4536 3.5 16.1609V16.8118C3.5 17.7722 4.27838 18.5515 5.23968 18.5515H19.7613C20.7216 18.5515 21.5 17.7722 21.5 16.8118V16.159C21.5 15.4526 21.0729 14.8163 20.42 14.5497L12.5181 11.3164Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5173 11.3164L12.5183 10.8299C12.5202 10.3172 12.8452 9.87155 13.3229 9.68377C14.3173 9.2936 14.9575 8.19706 14.6267 7.01101C14.4273 6.29587 13.8376 5.71696 13.1196 5.52723C11.6504 5.13901 10.3281 6.23555 10.3281 7.6415" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 1 — outline style variants.
+class _HomeAppliancesCoatHanger1Outline {
+  const _HomeAppliancesCoatHanger1Outline();
+
+  /// coat hanger 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.262 19.3018H4.74099C4.08093 19.3013 3.44804 19.0389 2.98122 18.5722C2.5144 18.1056 2.25178 17.4728 2.25098 16.8128V16.1618C2.24991 15.6668 2.39682 15.1828 2.67283 14.7719C2.94883 14.361 3.34134 14.042 3.79998 13.8558L11.736 10.6228C11.9176 10.5483 12.1213 10.5483 12.303 10.6228L20.203 13.8558C20.6604 14.0416 21.052 14.3598 21.3274 14.7696C21.6028 15.1793 21.7496 15.662 21.749 16.1558V16.8088C21.7493 17.469 21.4875 18.1024 21.0212 18.5698C20.5549 19.0372 19.9222 19.3005 19.262 19.3018ZM12.019 12.1268L4.36698 15.2448C4.18464 15.3189 4.0286 15.4458 3.91884 15.6091C3.80909 15.7725 3.75064 15.965 3.75098 16.1618V16.8128C3.75151 17.0751 3.85601 17.3265 4.04159 17.5119C4.22716 17.6973 4.47868 17.8015 4.74099 17.8018H19.262C19.5242 17.8015 19.7756 17.6972 19.961 17.5118C20.1464 17.3264 20.2507 17.075 20.251 16.8128V16.1598C20.2517 15.9635 20.1937 15.7715 20.0845 15.6085C19.9753 15.4454 19.8197 15.3188 19.638 15.2448L12.019 12.1268Z" fill="black"/> <path d="M12.0181 12.0673C11.9196 12.0672 11.8221 12.0476 11.7312 12.0098C11.6402 11.972 11.5576 11.9167 11.4881 11.8469C11.4185 11.7772 11.3634 11.6944 11.3258 11.6034C11.2883 11.5123 11.269 11.4148 11.2691 11.3163V10.8303C11.2722 10.4298 11.3961 10.0396 11.6246 9.71073C11.8532 9.38187 12.1758 9.12972 12.5501 8.9873C12.8899 8.85391 13.1668 8.59722 13.3255 8.26851C13.4842 7.93981 13.513 7.56331 13.4061 7.2143C13.3389 6.98415 13.214 6.77502 13.0432 6.60681C12.8723 6.4386 12.6613 6.3169 12.4301 6.2533C12.2113 6.19138 11.9811 6.18128 11.7577 6.2238C11.5343 6.26633 11.3239 6.36031 11.1431 6.4983C10.9672 6.63276 10.8248 6.80607 10.7269 7.0047C10.6291 7.20332 10.5785 7.42188 10.5791 7.6433C10.5791 7.84221 10.5001 8.03298 10.3595 8.17363C10.2188 8.31429 10.028 8.3933 9.82912 8.3933C9.6302 8.3933 9.43943 8.31429 9.29878 8.17363C9.15813 8.03298 9.07912 7.84221 9.07912 7.6433C9.07767 7.19214 9.18064 6.74677 9.37997 6.34203C9.57931 5.93729 9.86959 5.58417 10.2281 5.3103C10.5907 5.0321 11.0127 4.84158 11.4612 4.75362C11.9096 4.66566 12.3723 4.68267 12.8131 4.8033C13.2959 4.93578 13.7367 5.18984 14.0933 5.54121C14.4499 5.89258 14.7105 6.32952 14.8501 6.8103C15.0543 7.51708 14.988 8.27459 14.6641 8.93515C14.3402 9.5957 13.7819 10.112 13.0981 10.3833C13.0046 10.4172 12.9234 10.4783 12.8648 10.5586C12.8062 10.6389 12.7729 10.7349 12.7691 10.8343V11.3193C12.7686 11.518 12.6892 11.7084 12.5484 11.8487C12.4076 11.9889 12.2169 12.0676 12.0181 12.0673Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 1 — bold style variants.
+class _HomeAppliancesCoatHanger1Bold {
+  const _HomeAppliancesCoatHanger1Bold();
+
+  /// coat hanger 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20 16.8093C20 17.2173 19.668 17.5493 19.261 17.5493H4.74C4.332 17.5493 4 17.2173 4 16.8093V16.1593C4 15.8593 4.182 15.5903 4.46 15.4753L12.017 12.3993L19.539 15.4743C19.819 15.5893 20 15.8583 20 16.1593V16.8093ZM20.298 13.6233L13.096 10.6793C13.123 10.6523 13.15 10.6253 13.188 10.6103C14.719 10.0103 15.537 8.3463 15.089 6.7383C14.795 5.6943 13.926 4.8403 12.877 4.5633C11.892 4.3033 10.869 4.4993 10.075 5.1113C9.283 5.7203 8.828 6.6423 8.828 7.6393C8.828 8.1923 9.276 8.6393 9.828 8.6393C10.38 8.6393 10.828 8.1923 10.828 7.6393C10.828 7.2683 10.998 6.9243 11.294 6.6963C11.469 6.5613 11.84 6.3553 12.365 6.4963C12.739 6.5953 13.06 6.9113 13.164 7.2773C13.36 7.9843 12.958 8.5523 12.453 8.7503C11.648 9.0713 11.126 9.8003 11.048 10.6343L3.702 13.6243C2.668 14.0503 2 15.0453 2 16.1593V16.8093C2 18.3203 3.229 19.5493 4.74 19.5493H19.261C20.771 19.5493 22 18.3203 22 16.8093V16.1593C22 15.0453 21.333 14.0503 20.298 13.6233Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 1 — light style variants.
+class _HomeAppliancesCoatHanger1Light {
+  const _HomeAppliancesCoatHanger1Light();
+
+  /// coat hanger 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0181 11.3167L4.08292 14.5499C3.42811 14.8175 3 15.4538 3 16.1612V16.8121C3 17.7724 3.77838 18.5517 4.73968 18.5517H19.2613C20.2216 18.5517 21 17.7724 21 16.8121V16.1592C21 15.4528 20.5729 14.8165 19.92 14.5499L12.0181 11.3167Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0173 11.3164L12.0183 10.8299C12.0202 10.3172 12.3452 9.87155 12.8229 9.68377C13.8173 9.2936 14.4575 8.19706 14.1267 7.01101C13.9273 6.29587 13.3376 5.71696 12.6196 5.52723C11.1504 5.13901 9.82812 6.23555 9.82812 7.6415" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 2 icon with style variants.
+class _HomeAppliancesCoatHanger2Icon {
+  const _HomeAppliancesCoatHanger2Icon();
+
+  /// bold style
+  _HomeAppliancesCoatHanger2Bold get bold => const _HomeAppliancesCoatHanger2Bold();
+  /// bulk style
+  _HomeAppliancesCoatHanger2Bulk get bulk => const _HomeAppliancesCoatHanger2Bulk();
+  /// light style
+  _HomeAppliancesCoatHanger2Light get light => const _HomeAppliancesCoatHanger2Light();
+  /// outline style
+  _HomeAppliancesCoatHanger2Outline get outline => const _HomeAppliancesCoatHanger2Outline();
+  /// twoTone style
+  _HomeAppliancesCoatHanger2Twotone get twoTone => const _HomeAppliancesCoatHanger2Twotone();
+  /// broken style
+  _HomeAppliancesCoatHanger2Broken get broken => const _HomeAppliancesCoatHanger2Broken();
+}
+
+/// coat hanger 2 — bulk style variants.
+class _HomeAppliancesCoatHanger2Bulk {
+  const _HomeAppliancesCoatHanger2Bulk();
+
+  /// coat hanger 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M11.0946 10.8042C11.3058 10.294 11.8908 10.0516 12.401 10.2628L19.9675 13.3957C21.1978 13.9046 22 15.1052 22 16.436C22 18.2534 20.5265 19.7264 18.7086 19.7264H5.29038C3.47323 19.7264 2 18.2531 2 16.436V16.3494C2 15.0279 2.79131 13.8347 4.00807 13.3192L9.30927 11.0763C9.8179 10.8611 10.4047 11.099 10.6199 11.6076C10.8351 12.1163 10.5972 12.703 10.0886 12.9182L4.78825 15.1608C4.31009 15.3633 4 15.8319 4 16.3494V16.436C4 17.1486 4.5778 17.7264 5.29038 17.7264H18.7086C19.4225 17.7264 20 17.1483 20 16.436C20 15.9142 19.6853 15.4433 19.2031 15.2438L11.6359 12.1107C11.1257 11.8994 10.8833 11.3145 11.0946 10.8042Z" fill="black"/> <path d="M8.96344 6.55167C9.29837 5.46739 10.1763 4.63209 11.256 4.37042C13.9253 3.7236 16.1028 6.4324 14.9147 8.92189C14.6615 9.4523 14.0829 10.0501 13.5551 10.3265C13.3435 10.4372 13.1929 10.55 13.2203 10.5771C13.2478 10.6042 13.9627 10.9128 14.8092 11.263C15.6555 11.6131 16.4225 11.9484 16.5134 12.008C16.8379 12.2206 16.9738 12.8374 16.7789 13.2121C16.6 13.5559 16.3454 13.7343 15.9866 13.7673C15.6843 13.7949 15.4498 13.7147 13.5854 12.9448C12.3377 12.4297 11.4428 12.0198 11.3262 11.91C10.9896 11.5931 10.9032 10.9426 11.0981 10.1942C11.2741 9.51849 11.7314 8.95271 12.3153 8.68831C12.7618 8.48617 12.968 8.3096 13.1018 8.01509C13.5643 6.99671 12.6296 5.99619 11.5875 6.39422C11.1583 6.55812 10.9357 6.86811 10.8488 7.42297C10.741 8.11146 10.3912 8.48702 9.85848 8.48638C8.95819 8.48533 8.60322 7.71805 8.96344 6.55167Z" fill="black"/> <path d="M7.84891 11.6834C8.46616 11.4129 9.3953 11.0553 9.45309 11.0342C10.7345 10.7485 11.254 12.4673 9.94759 12.9831C9.67518 13.1217 9.29728 13.2886 8.76887 13.5142C7.80775 13.9247 7.30453 14.1184 6.98011 14.1566C6.00138 14.2914 5.47834 13.0414 6.23142 12.4485C6.46571 12.2506 7.20747 11.9645 7.84891 11.6834Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 2 — broken style variants.
+class _HomeAppliancesCoatHanger2Broken {
+  const _HomeAppliancesCoatHanger2Broken();
+
+  /// coat hanger 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.82812 7.48902C9.82812 6.08307 11.1514 4.98653 12.6206 5.37572C13.3386 5.56545 13.9282 6.14534 14.1277 6.86048C14.4575 8.04556 13.8173 9.1421 12.8229 9.53226C12.3452 9.71907 12.0202 10.1647 12.0193 10.6784L12.0183 11.1639L19.5851 14.2969C20.4413 14.6511 20.9998 15.4869 20.9998 16.4131C20.9998 17.678 19.9743 18.7035 18.7085 18.7035H13.1827" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.69892 11.9746L4.39816 14.2173C3.5507 14.5763 3 15.4073 3 16.3267V16.4133C3 17.6782 4.02551 18.7037 5.29038 18.7037H9.82832" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 2 — twoTone style variants.
+class _HomeAppliancesCoatHanger2Twotone {
+  const _HomeAppliancesCoatHanger2Twotone();
+
+  /// coat hanger 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.1989 11.9744L4.89816 14.2171C4.0507 14.5762 3.5 15.4071 3.5 16.3265V16.4131C3.5 17.678 4.52551 18.7035 5.79038 18.7035M19.2086 18.7035C20.4745 18.7035 21.5 17.678 21.5 16.4131C21.5 15.4869 20.9415 14.6511 20.0853 14.2969L12.5185 11.1639L12.5195 10.6784C12.5204 10.1647 12.8454 9.71907 13.3231 9.53226C14.3175 9.1421 14.9577 8.04556 14.6279 6.86048C14.4284 6.14534 13.8388 5.56545 13.1208 5.37572C11.6516 4.98653 10.3283 6.08307 10.3283 7.48902" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.79004 18.7036H19.2083" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 2 — outline style variants.
+class _HomeAppliancesCoatHanger2Outline {
+  const _HomeAppliancesCoatHanger2Outline();
+
+  /// coat hanger 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.709 19.4543H5.29004C4.58417 19.4422 3.90368 19.189 3.36159 18.7368C2.8195 18.2845 2.44844 17.6604 2.31003 16.9682C2.17162 16.2759 2.2742 15.5571 2.60073 14.9312C2.92726 14.3053 3.45808 13.8099 4.10504 13.5273L9.40505 11.2843C9.58831 11.2069 9.79484 11.2054 9.97919 11.2802C10.1635 11.3551 10.3106 11.5001 10.388 11.6833C10.4655 11.8666 10.467 12.0731 10.3921 12.2575C10.3173 12.4418 10.1723 12.5889 9.98905 12.6663L4.68904 14.9083C4.41016 15.0262 4.17222 15.2236 4.00502 15.476C3.83782 15.7284 3.74878 16.0246 3.74904 16.3273C3.74047 16.536 3.7738 16.7442 3.84706 16.9398C3.92032 17.1353 4.03203 17.3142 4.17559 17.4659C4.31914 17.6176 4.49164 17.7389 4.68288 17.8228C4.87412 17.9067 5.08024 17.9514 5.28905 17.9543H18.708C19.0643 17.954 19.4094 17.8303 19.6847 17.6042C19.96 17.3781 20.1485 17.0636 20.218 16.7142C20.2876 16.3648 20.2339 16.0021 20.0662 15.6878C19.8984 15.3735 19.627 15.127 19.2981 14.9903L11.73 11.8573C11.5929 11.8004 11.4757 11.7041 11.3933 11.5805C11.3109 11.457 11.267 11.3118 11.267 11.1633V10.6773C11.2693 10.2766 11.3929 9.88604 11.6215 9.55702C11.8502 9.22801 12.1733 8.97603 12.5481 8.83432C12.8876 8.70095 13.1642 8.44436 13.3227 8.11584C13.4812 7.78732 13.5099 7.41107 13.403 7.06232C13.3363 6.83195 13.2115 6.62259 13.0406 6.45431C12.8697 6.28603 12.6584 6.16448 12.4271 6.10132C12.2084 6.0387 11.9781 6.02816 11.7546 6.07053C11.5311 6.11291 11.3206 6.20701 11.14 6.34532C10.9643 6.47967 10.8219 6.65282 10.7241 6.85127C10.6262 7.04971 10.5756 7.26807 10.5761 7.48932C10.5761 7.68823 10.497 7.879 10.3564 8.01965C10.2157 8.16031 10.025 8.23932 9.82605 8.23932C9.62714 8.23932 9.43637 8.16031 9.29572 8.01965C9.15507 7.879 9.07605 7.68823 9.07605 7.48932C9.0746 7.03816 9.17758 6.59279 9.37691 6.18805C9.57624 5.78331 9.86653 5.43019 10.2251 5.15632C10.5881 4.87876 11.0104 4.68871 11.4589 4.60095C11.9074 4.51318 12.3701 4.53008 12.8111 4.65032C13.294 4.78325 13.7347 5.0377 14.0913 5.3894C14.4479 5.7411 14.7085 6.17831 14.8481 6.65932C15.0517 7.36533 14.9856 8.12185 14.6625 8.78183C14.3395 9.44181 13.7826 9.9581 13.1001 10.2303C13.009 10.2627 12.9295 10.321 12.8714 10.3982C12.8132 10.4754 12.779 10.5679 12.773 10.6643L19.873 13.6043C20.5227 13.8737 21.0588 14.36 21.3902 14.9803C21.7216 15.6005 21.8278 16.3165 21.6907 17.0063C21.5536 17.696 21.1816 18.317 20.6381 18.7633C20.0947 19.2097 19.4133 19.4539 18.7101 19.4543H18.709Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 2 — bold style variants.
+class _HomeAppliancesCoatHanger2Bold {
+  const _HomeAppliancesCoatHanger2Bold();
+
+  /// coat hanger 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.709 19.6993H5.29C3.476 19.6993 2 18.2223 2 16.4083C2 15.0073 2.788 13.8173 4.006 13.2993L9.309 11.0483C9.815 10.8333 10.404 11.0693 10.62 11.5783C10.835 12.0873 10.598 12.6743 10.09 12.8893L4.789 15.1393C4.31 15.3433 4 15.8103 4 16.3293C4 17.1203 4.579 17.6993 5.29 17.6993H18.709C19.421 17.6993 20 17.1203 20 16.4083C20 15.8933 19.682 15.4183 19.207 15.2243L11.635 12.0823C11.261 11.9273 11.017 11.5613 11.018 11.1563L11.019 10.6773C11.021 9.76032 11.584 8.94432 12.455 8.59932C12.958 8.40232 13.36 7.83432 13.165 7.12732C13.061 6.76032 12.74 6.44432 12.366 6.34532C11.838 6.20532 11.467 6.40932 11.292 6.54432C10.998 6.77132 10.828 7.11532 10.828 7.48832C10.828 8.04132 10.38 8.48832 9.828 8.48832C9.276 8.48832 8.828 8.04132 8.828 7.48832C8.828 6.48932 9.282 5.56732 10.073 4.95932C10.866 4.34932 11.89 4.15332 12.878 4.41232C13.928 4.68932 14.797 5.54432 15.091 6.58932C15.537 8.19632 14.719 9.85932 13.189 10.4603C13.152 10.4743 13.119 10.4963 13.093 10.5213L19.968 13.3753C21.2 13.8783 22 15.0693 22 16.4083C22 18.2223 20.523 19.6993 18.709 19.6993Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 2 — light style variants.
+class _HomeAppliancesCoatHanger2Light {
+  const _HomeAppliancesCoatHanger2Light();
+
+  /// coat hanger 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.69892 11.9744L4.39816 14.2171C3.5507 14.5762 3 15.4071 3 16.3265V16.4131C3 17.678 4.02551 18.7035 5.29038 18.7035H18.7086C19.9745 18.7035 21 17.678 21 16.4131C21 15.4869 20.4415 14.6511 19.5853 14.2969L12.0185 11.1639L12.0195 10.6784C12.0204 10.1647 12.3454 9.71907 12.8231 9.53226C13.8175 9.1421 14.4577 8.04556 14.1279 6.86048C13.9284 6.14534 13.3388 5.56545 12.6208 5.37572C11.1516 4.98653 9.82832 6.08307 9.82832 7.48902" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 3 icon with style variants.
+class _HomeAppliancesCoatHanger3Icon {
+  const _HomeAppliancesCoatHanger3Icon();
+
+  /// bold style
+  _HomeAppliancesCoatHanger3Bold get bold => const _HomeAppliancesCoatHanger3Bold();
+  /// bulk style
+  _HomeAppliancesCoatHanger3Bulk get bulk => const _HomeAppliancesCoatHanger3Bulk();
+  /// light style
+  _HomeAppliancesCoatHanger3Light get light => const _HomeAppliancesCoatHanger3Light();
+  /// outline style
+  _HomeAppliancesCoatHanger3Outline get outline => const _HomeAppliancesCoatHanger3Outline();
+  /// twoTone style
+  _HomeAppliancesCoatHanger3Twotone get twoTone => const _HomeAppliancesCoatHanger3Twotone();
+  /// broken style
+  _HomeAppliancesCoatHanger3Broken get broken => const _HomeAppliancesCoatHanger3Broken();
+}
+
+/// coat hanger 3 — bulk style variants.
+class _HomeAppliancesCoatHanger3Bulk {
+  const _HomeAppliancesCoatHanger3Bulk();
+
+  /// coat hanger 3 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path d="M15.5164 12.0404L19.2955 13.6043L19.2974 13.6051C19.875 13.8491 20.2502 14.4139 20.2502 15.0369C20.2502 15.8808 19.5614 16.5733 18.705 16.5733H17.6808C17.6831 16.6109 17.6843 16.6488 17.6843 16.687V18.0733H18.705C20.3861 18.0733 21.7502 16.713 21.7502 15.0369C21.7502 13.8062 21.0093 12.6982 19.8775 12.2218L16.092 10.6553C16.4727 10.8147 16.6533 11.2521 16.4953 11.6339C16.3371 12.0163 15.8989 12.1982 15.5164 12.0404Z" fill="black"/> <path d="M6.31254 16.5731C6.31017 16.6108 6.30896 16.6488 6.30896 16.687V18.0731H5.28628C3.61211 18.0731 2.24988 16.7109 2.24988 15.0367V14.9472C2.24988 13.7338 2.97416 12.6198 4.10466 12.1493L6.75237 11.0257C6.37107 11.1875 6.19314 11.6278 6.35496 12.0091C6.51634 12.3893 6.95468 12.5673 7.33527 12.4078L4.68252 13.5335C4.12181 13.7662 3.74988 14.3267 3.74988 14.9472V15.0367C3.74988 15.8824 4.44054 16.5731 5.28628 16.5731H6.31254Z" fill="black"/> </g> <path d="M10.5722 6.10937C10.5722 5.18919 11.4375 4.46007 12.4293 4.71922C12.8836 4.84121 13.2754 5.22748 13.4021 5.68148C13.6261 6.48069 13.2024 7.19952 12.5478 7.45321L12.5427 7.4552C11.8037 7.74778 11.2681 8.44957 11.2681 9.29476V9.78122C11.2681 10.0847 11.4509 10.3582 11.7313 10.4742L15.5155 12.0402C15.8983 12.1986 16.3369 12.0167 16.4953 11.6339C16.6537 11.2512 16.4718 10.8125 16.0891 10.6542L12.7683 9.28001C12.7743 9.10527 12.8856 8.93351 13.093 8.85062C14.4349 8.32878 15.2876 6.85111 14.8467 5.2777C14.5764 4.31005 13.7802 3.52748 12.8148 3.26961L12.8116 3.26876C10.8523 2.7547 9.07216 4.22217 9.07216 6.10937C9.07216 6.52358 9.40795 6.85937 9.82216 6.85937C10.2364 6.85937 10.5722 6.52358 10.5722 6.10937Z" fill="black"/> <path d="M9.98863 11.2819C10.3699 11.12 10.5479 10.6798 10.386 10.2985C10.2242 9.91716 9.78394 9.73924 9.40264 9.90105L6.75237 11.0258C6.37107 11.1876 6.19314 11.6279 6.35496 12.0092C6.51677 12.3905 6.95705 12.5684 7.33835 12.4066L9.98863 11.2819Z" fill="black"/> <path d="M6.30896 16.6871C6.30896 15.7037 7.10588 14.9067 8.08934 14.9067H15.904C16.8874 14.9067 17.6843 15.7037 17.6843 16.6871V19.0552C17.6843 20.0387 16.8874 20.8356 15.904 20.8356H8.08934C7.10588 20.8356 6.30896 20.0387 6.30896 19.0552V16.6871Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 3 — broken style variants.
+class _HomeAppliancesCoatHanger3Broken {
+  const _HomeAppliancesCoatHanger3Broken();
+
+  /// coat hanger 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.9036 20.2097C16.6109 20.2097 17.184 19.6366 17.184 18.9293V16.5611C17.184 15.8538 16.6109 15.2808 15.9036 15.2808H8.08898C7.38165 15.2808 6.80859 15.8538 6.80859 16.5611V18.9293C6.80859 19.6366 7.38165 20.2097 8.08898 20.2097H12.9155" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.82227 5.98373C9.82227 4.57979 11.1455 3.48135 12.6214 3.86857C13.3316 4.0583 13.9261 4.64303 14.1246 5.35425C14.4573 6.54123 13.8181 7.63967 12.8189 8.0269C12.3422 8.21565 12.0182 8.65639 12.0182 9.16912V9.65559L19.5866 12.7875C20.4419 13.1475 21.0003 13.9842 21.0003 14.9114C21.0003 16.1713 19.9739 17.1978 18.7052 17.1978H17.1845" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.8071 17.1976H5.2864C4.02645 17.1976 3 16.1711 3 14.9112V14.8217C3 13.9042 3.54874 13.0665 4.39519 12.7152L9.69574 10.4658" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 3 — twoTone style variants.
+class _HomeAppliancesCoatHanger3Twotone {
+  const _HomeAppliancesCoatHanger3Twotone();
+
+  /// coat hanger 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4036 20.2097H8.58898C7.88165 20.2097 7.30859 19.6366 7.30859 18.9293V16.5611C7.30859 15.8538 7.88165 15.2808 8.58898 15.2808H16.4036C17.1109 15.2808 17.684 15.8538 17.684 16.5611V18.9293C17.684 19.6366 17.1109 20.2097 16.4036 20.2097Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.3223 5.98373C10.3223 4.57979 11.6455 3.48135 13.1214 3.86857C13.8316 4.0583 14.4261 4.64303 14.6246 5.35425C14.9573 6.54123 14.3181 7.63967 13.3189 8.0269C12.8422 8.21565 12.5182 8.65639 12.5182 9.16912V9.65559L20.0866 12.7875C20.9419 13.1475 21.5003 13.9842 21.5003 14.9114C21.5003 16.1713 20.4739 17.1978 19.2052 17.1978H17.6845" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.3071 17.1976H5.7864C4.52645 17.1976 3.5 16.1711 3.5 14.9112V14.8217C3.5 13.9042 4.04874 13.0665 4.89519 12.7152L10.1957 10.4658" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 3 — outline style variants.
+class _HomeAppliancesCoatHanger3Outline {
+  const _HomeAppliancesCoatHanger3Outline();
+
+  /// coat hanger 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.08946 16.031C7.79635 16.031 7.55908 16.2683 7.55908 16.5614V18.9295C7.55908 19.2226 7.79635 19.4599 8.08946 19.4599H15.9041C16.1972 19.4599 16.4345 19.2226 16.4345 18.9295V16.5614C16.4345 16.2683 16.1972 16.031 15.9041 16.031H8.08946ZM6.05908 16.5614C6.05908 15.4399 6.96793 14.531 8.08946 14.531H15.9041C17.0256 14.531 17.9345 15.4399 17.9345 16.5614V18.9295C17.9345 20.051 17.0256 20.9599 15.9041 20.9599H8.08946C6.96793 20.9599 6.05908 20.051 6.05908 18.9295V16.5614Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4294 4.59349C11.4376 4.33433 10.5723 5.06345 10.5723 5.98363C10.5723 6.39785 10.2365 6.73363 9.82227 6.73363C9.40805 6.73363 9.07227 6.39785 9.07227 5.98363C9.07227 4.09644 10.8524 2.62897 12.8117 3.14303L12.815 3.14387C13.7805 3.40179 14.5768 4.18459 14.847 5.15247M12.4294 4.59349C12.8837 4.71548 13.2755 5.10175 13.4022 5.55574C13.6262 6.35496 13.2025 7.07379 12.5479 7.32748L12.5428 7.32946C11.8038 7.62205 11.2682 8.32384 11.2682 9.16902V9.65549C11.2682 9.95893 11.451 10.2325 11.7314 10.3485L19.2957 13.4786C19.2963 13.4789 19.2969 13.4791 19.2975 13.4794C19.8751 13.7234 20.2503 14.2882 20.2503 14.9113C20.2503 15.7552 19.5615 16.4477 18.7052 16.4477H17.1845C16.7703 16.4477 16.4345 16.7835 16.4345 17.1977C16.4345 17.6119 16.7703 17.9477 17.1845 17.9477H18.7052C20.3862 17.9477 21.7503 16.5873 21.7503 14.9113C21.7503 13.6806 21.0094 12.5725 19.8776 12.0961L12.7684 9.15427C12.7744 8.97953 12.8857 8.80777 13.0931 8.72488C14.4348 8.2031 15.2875 6.72566 14.847 5.15247" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3861 10.1728C10.548 10.5541 10.37 10.9944 9.98873 11.1562L4.68264 13.4079C4.12194 13.6406 3.75 14.2011 3.75 14.8216V14.9111C3.75 15.7568 4.44066 16.4475 5.2864 16.4475H6.8071C7.22131 16.4475 7.5571 16.7833 7.5571 17.1975C7.5571 17.6117 7.22131 17.9475 6.8071 17.9475H5.2864C3.61223 17.9475 2.25 16.5853 2.25 14.9111V14.8216C2.25 13.6082 2.97428 12.4942 4.10478 12.0237L9.40275 9.77537C9.78405 9.61355 10.2243 9.79148 10.3861 10.1728Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 3 — bold style variants.
+class _HomeAppliancesCoatHanger3Bold {
+  const _HomeAppliancesCoatHanger3Bold();
+
+  /// coat hanger 3 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.705 16.5759H17.673C17.615 15.6459 16.848 14.9059 15.904 14.9059H8.089C7.145 14.9059 6.378 15.6459 6.32 16.5759H5.286C4.439 16.5759 3.75 15.8849 3.75 14.9449C3.75 14.3249 4.118 13.7679 4.698 13.5219L11.685 10.4399C11.701 10.4479 11.714 10.4609 11.73 10.4679L19.296 13.6069C19.875 13.8499 20.25 14.4109 20.25 15.0349C20.25 15.8849 19.557 16.5759 18.705 16.5759ZM19.874 12.2229L12.768 9.2739C12.777 9.0899 12.899 8.9279 13.092 8.8539C14.508 8.3009 15.262 6.7619 14.847 5.2729C14.578 4.3139 13.78 3.5279 12.813 3.2709C11.898 3.0269 10.954 3.2139 10.22 3.7769C9.49 4.3399 9.072 5.1869 9.072 6.1049C9.072 6.5189 9.408 6.8549 9.822 6.8549C10.236 6.8549 10.572 6.5189 10.572 6.1049C10.572 5.6569 10.777 5.2419 11.135 4.9669C11.501 4.6819 11.961 4.5979 12.428 4.7209C12.885 4.8429 13.276 5.2269 13.402 5.6769C13.641 6.5329 13.152 7.2209 12.555 7.4539C11.895 7.7029 11.442 8.2879 11.321 8.9609L4.102 12.1449C2.977 12.6229 2.25 13.7219 2.25 15.0349C2.25 16.7119 3.612 18.0759 5.286 18.0759H6.309V19.0549C6.309 20.0369 7.107 20.8359 8.089 20.8359H15.904C16.885 20.8359 17.684 20.0369 17.684 19.0549V18.0759H18.705C20.384 18.0759 21.75 16.7119 21.75 15.0349C21.75 13.8049 21.015 12.7029 19.874 12.2229Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 3 — light style variants.
+class _HomeAppliancesCoatHanger3Light {
+  const _HomeAppliancesCoatHanger3Light();
+
+  /// coat hanger 3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 3',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9041 20.2099H8.08946C7.38214 20.2099 6.80908 19.6368 6.80908 18.9295V16.5614C6.80908 15.8541 7.38214 15.281 8.08946 15.281H15.9041C16.6114 15.281 17.1845 15.8541 17.1845 16.5614V18.9295C17.1845 19.6368 16.6114 20.2099 15.9041 20.2099Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.82227 5.98373C9.82227 4.57979 11.1455 3.48135 12.6214 3.86857C13.3316 4.0583 13.9261 4.64303 14.1246 5.35425C14.4573 6.54123 13.8181 7.63967 12.8189 8.0269C12.3422 8.21565 12.0182 8.65639 12.0182 9.16912V9.65559L19.5866 12.7875C20.4419 13.1475 21.0003 13.9842 21.0003 14.9114C21.0003 16.1713 19.9739 17.1978 18.7052 17.1978H17.1845" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.8071 17.1976H5.2864C4.02645 17.1976 3 16.1711 3 14.9112V14.8217C3 13.9042 3.54874 13.0665 4.39519 12.7152L9.69574 10.4658" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 4 icon with style variants.
+class _HomeAppliancesCoatHanger4Icon {
+  const _HomeAppliancesCoatHanger4Icon();
+
+  /// bold style
+  _HomeAppliancesCoatHanger4Bold get bold => const _HomeAppliancesCoatHanger4Bold();
+  /// bulk style
+  _HomeAppliancesCoatHanger4Bulk get bulk => const _HomeAppliancesCoatHanger4Bulk();
+  /// light style
+  _HomeAppliancesCoatHanger4Light get light => const _HomeAppliancesCoatHanger4Light();
+  /// outline style
+  _HomeAppliancesCoatHanger4Outline get outline => const _HomeAppliancesCoatHanger4Outline();
+  /// twoTone style
+  _HomeAppliancesCoatHanger4Twotone get twoTone => const _HomeAppliancesCoatHanger4Twotone();
+  /// broken style
+  _HomeAppliancesCoatHanger4Broken get broken => const _HomeAppliancesCoatHanger4Broken();
+}
+
+/// coat hanger 4 — bulk style variants.
+class _HomeAppliancesCoatHanger4Bulk {
+  const _HomeAppliancesCoatHanger4Bulk();
+
+  /// coat hanger 4 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path d="M15.7751 11.9481C15.9437 11.9197 16.1123 11.8928 16.2565 11.7835C16.5844 11.5358 16.6622 11.0856 16.4329 10.7359C16.3972 10.6813 16.3601 10.6281 16.323 10.5742C16.6301 10.6507 16.9093 10.8 17.1993 10.9202C18.0964 11.2925 18.9899 11.6728 19.8841 12.0516C21.0919 12.563 21.8447 13.7803 21.7783 15.1098C21.7054 16.5689 20.5733 17.8285 19.1527 18.004C18.4128 18.0958 17.6671 18.0266 16.9243 18.0383C16.9065 17.5305 16.9043 17.022 16.9251 16.5143C17.5022 16.5128 18.0785 16.5107 18.6556 16.5099C19.5556 16.5085 20.2227 15.9002 20.2719 14.9903C20.3069 14.3441 19.9577 13.7453 19.2934 13.4627C18.1871 12.9913 17.0765 12.5295 15.9687 12.0611C15.9008 12.0326 15.818 12.0239 15.7759 11.9474L15.7751 11.9481Z" fill="black"/> <path d="M7.0815 16.5028C7.10078 17.0193 7.09649 17.5358 7.08364 18.053C6.50725 18.0494 5.93087 18.0457 5.35448 18.0428C4.11744 18.0377 3.19108 17.4841 2.57755 16.3913C1.9826 15.3307 2.14544 13.7943 2.91896 12.8582C3.35321 12.3322 3.91888 12.0357 4.52383 11.7837C5.16164 11.5185 5.79302 11.2395 6.42797 10.967C6.46011 10.9532 6.49511 10.9466 6.5294 10.9372C6.5194 10.9576 6.51297 10.9809 6.49868 10.9969C6.28941 11.2307 6.22299 11.5017 6.32798 11.7975C6.43297 12.0933 6.65081 12.2616 6.9615 12.2987C6.98865 12.3016 7.01364 12.3213 7.03936 12.3337C7.02936 12.4073 6.96079 12.4007 6.91651 12.4204C6.16799 12.7453 5.41877 13.068 4.66811 13.39C3.97816 13.6857 3.61033 14.4339 3.75532 15.2513C3.87888 15.947 4.5274 16.5021 5.24378 16.5094C5.85659 16.5152 6.46869 16.505 7.0815 16.5028Z" fill="black"/> </g> <path d="M15.7751 11.9485C15.4658 11.8639 15.1738 11.734 14.8818 11.6041C14.7667 11.5529 14.6514 11.5016 14.5352 11.4532C13.7137 11.1115 12.8945 10.7641 12.0751 10.4165L11.7761 10.2898C11.4104 10.1346 11.2526 9.86943 11.2647 9.46367C11.267 9.38971 11.2671 9.31563 11.2672 9.24159C11.2677 9.00638 11.2681 8.77151 11.3355 8.54213C11.5254 7.89159 11.934 7.44576 12.5475 7.18205C13.4603 6.78939 13.7624 5.65587 13.166 4.8844C12.7896 4.3985 12.1432 4.20472 11.5611 4.40433C10.989 4.60029 10.5934 5.14447 10.5741 5.7615C10.5591 6.23501 10.2584 6.56429 9.83414 6.57085C9.4206 6.57667 9.08134 6.24449 9.07134 5.82269C9.03848 4.43347 10.0477 3.14696 11.3947 2.85994C13.3889 2.43523 15.1752 4.05903 14.953 6.12574C14.8316 7.25999 14.2259 8.07371 13.2096 8.55889L13.1846 8.57071C13.0461 8.6362 12.9112 8.69997 12.8296 8.84154C12.7425 8.99234 12.7611 9.04989 12.916 9.11545L13.9558 9.55362C14.6492 9.84568 15.3425 10.1377 16.0358 10.4311C16.106 10.4607 16.1733 10.4965 16.2405 10.5323C16.2677 10.5468 16.2949 10.5613 16.3222 10.5753C16.3361 10.5958 16.3501 10.6162 16.3642 10.6366C16.3871 10.6699 16.4101 10.7032 16.4322 10.7371C16.6615 11.0867 16.5836 11.5369 16.2558 11.7846C16.1158 11.8906 15.9536 11.9185 15.7895 11.9467L15.7744 11.9493L15.7751 11.9485Z" fill="black"/> <path d="M16.908 18.7503C16.9096 18.8763 16.9113 19.0023 16.9093 19.1282C16.8936 20.1386 16.2915 20.9298 15.3637 21.1542C15.2194 21.1891 15.0723 21.2088 14.9223 21.2081C13.9499 21.2077 12.9774 21.2077 12.005 21.2077C11.0326 21.2077 10.0602 21.2077 9.08774 21.2073C7.97711 21.2066 7.10146 20.3179 7.08932 19.18C7.08646 18.9293 7.08551 18.6787 7.08456 18.4281C7.08408 18.3028 7.08361 18.1775 7.08289 18.0523C7.09646 17.5358 7.10003 17.0193 7.08075 16.502C7.08503 16.25 7.10789 16.0038 7.29502 15.8114C7.45358 15.649 7.64856 15.5718 7.87283 15.5718L10.2278 15.5715C12.1909 15.5712 14.1539 15.5709 16.1172 15.5725C16.5772 15.5725 16.8836 15.8836 16.9079 16.3534C16.91 16.3935 16.9145 16.4331 16.919 16.473L16.9236 16.5144C16.9029 17.0222 16.905 17.5307 16.9229 18.0384C16.9019 18.2753 16.9049 18.5132 16.908 18.7503Z" fill="black"/> <path d="M7.01637 12.3215C7.02402 12.3258 7.03166 12.3302 7.03936 12.3339C7.07114 12.3241 7.10322 12.3161 7.13523 12.3074C7.20108 12.2894 7.26663 12.2715 7.32863 12.245C8.20713 11.8684 9.08564 11.4903 9.962 11.1071C10.3755 10.9258 10.5505 10.4901 10.3841 10.0865C10.2241 9.6968 9.79273 9.51978 9.38418 9.69534C9.14221 9.79924 8.89982 9.9022 8.65742 10.0052C7.94467 10.3079 7.23186 10.6107 6.5294 10.9374C6.52635 10.9436 6.52363 10.9501 6.52092 10.9566C6.51475 10.9714 6.50861 10.986 6.49869 10.9971C6.28871 11.2303 6.22228 11.5013 6.32799 11.7978C6.43298 12.0935 6.65082 12.2618 6.96151 12.299C6.98052 12.301 6.99848 12.3113 7.01637 12.3215Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 4 — broken style variants.
+class _HomeAppliancesCoatHanger4Broken {
+  const _HomeAppliancesCoatHanger4Broken();
+
+  /// coat hanger 4 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.82812 5.89228C9.82812 4.48634 11.1514 3.38882 12.6206 3.77801C13.3386 3.96774 13.9282 4.54764 14.1277 5.26277C14.4575 6.44785 13.8173 7.54439 12.8229 7.93455C12.3452 8.12234 12.0202 8.56796 12.0193 9.08072L12.0173 9.5672L19.5851 12.6992C20.4413 13.0534 20.9998 13.8891 20.9998 14.8154C20.9998 16.0813 19.9733 17.1068 18.7085 17.1068H13.6096" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.69892 10.377L4.39719 12.6197C3.54973 12.9787 3 13.8096 3 14.7291V14.8157C3 16.0815 4.02454 17.107 5.29038 17.107H10.6808" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.85352 19.0649C7.85352 19.7479 8.40714 20.3016 9.09016 20.3016H14.9076C15.5906 20.3016 16.1442 19.7479 16.1442 19.0649V17.2056" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 4 — twoTone style variants.
+class _HomeAppliancesCoatHanger4Twotone {
+  const _HomeAppliancesCoatHanger4Twotone();
+
+  /// coat hanger 4 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.1989 10.3767L4.89719 12.6194C4.04973 12.9784 3.5 13.8094 3.5 14.7288V14.8154C3.5 16.0813 4.52454 17.1068 5.79038 17.1068H19.2086C20.4735 17.1068 21.5 16.0813 21.5 14.8154C21.5 13.8891 20.9415 13.0534 20.0853 12.6992L12.5175 9.5672L12.5195 9.08072C12.5204 8.56796 12.8454 8.12234 13.3231 7.93455C14.3175 7.54439 14.9577 6.44785 14.6279 5.26277C14.4284 4.54764 13.8388 3.96774 13.1208 3.77801C11.6516 3.38882 10.3283 4.48634 10.3283 5.89228" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.35352 17.2056V19.0649C8.35352 19.7479 8.90714 20.3016 9.59016 20.3016H15.4076C16.0906 20.3016 16.6442 19.7479 16.6442 19.0649V17.2056" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 4 — outline style variants.
+class _HomeAppliancesCoatHanger4Outline {
+  const _HomeAppliancesCoatHanger4Outline();
+
+  /// coat hanger 4 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.7106 17.8571H5.29159C4.5859 17.8445 3.90571 17.5909 3.36392 17.1386C2.82214 16.6862 2.45131 16.0622 2.31296 15.3701C2.1746 14.6779 2.27706 13.9593 2.6033 13.3334C2.92955 12.7076 3.45999 12.212 4.1066 11.9291L9.40658 9.68608C9.4978 9.64444 9.59643 9.62152 9.69665 9.61866C9.79688 9.61581 9.89667 9.63308 9.99011 9.66945C10.0835 9.70583 10.1687 9.76057 10.2407 9.83044C10.3126 9.90031 10.3698 9.98389 10.4088 10.0762C10.4479 10.1686 10.468 10.2678 10.468 10.3681C10.4681 10.4684 10.448 10.5676 10.409 10.66C10.37 10.7524 10.3129 10.836 10.241 10.9059C10.1692 10.9758 10.084 11.0306 9.9906 11.0671L4.69058 13.3111C4.41188 13.4288 4.17412 13.6261 4.00708 13.8784C3.84004 14.1306 3.75117 14.4265 3.75159 14.7291C3.74288 14.9378 3.7761 15.1462 3.8493 15.3419C3.9225 15.5375 4.03419 15.7165 4.17776 15.8683C4.32133 16.0201 4.49387 16.1415 4.68518 16.2255C4.87649 16.3094 5.0827 16.3542 5.29159 16.3571H18.7106C19.0668 16.3568 19.412 16.233 19.6873 16.0069C19.9625 15.7808 20.151 15.4663 20.2205 15.1169C20.2901 14.7675 20.2364 14.4048 20.0687 14.0906C19.901 13.7763 19.6296 13.5298 19.3006 13.3931L11.7316 10.2601C11.5945 10.2032 11.4774 10.1069 11.3951 9.9833C11.3129 9.85974 11.2692 9.71452 11.2696 9.56608V9.07908C11.2721 8.67847 11.3958 8.28799 11.6244 7.95903C11.8531 7.63006 12.176 7.37803 12.5506 7.23608C12.8903 7.1029 13.167 6.84633 13.3256 6.51775C13.4841 6.18917 13.5127 5.81283 13.4056 5.46408C13.3389 5.23382 13.2143 5.02455 13.0435 4.85628C12.8728 4.68801 12.6618 4.56639 12.4306 4.50308C12.215 4.44108 11.9879 4.42991 11.7673 4.47046C11.5467 4.51101 11.3384 4.60217 11.159 4.73677C10.9795 4.87137 10.8337 5.04574 10.733 5.2462C10.6323 5.44666 10.5794 5.66775 10.5786 5.89208C10.5786 6.09099 10.4996 6.28176 10.3589 6.42241C10.2183 6.56306 10.0275 6.64208 9.82858 6.64208C9.62967 6.64208 9.4389 6.56306 9.29825 6.42241C9.1576 6.28176 9.07858 6.09099 9.07858 5.89208C9.0771 5.44081 9.18015 4.99533 9.37967 4.59056C9.57919 4.1858 9.86975 3.83274 10.2286 3.55908C10.5912 3.28105 11.0133 3.0907 11.4617 3.00292C11.9102 2.91514 12.3729 2.93231 12.8136 3.05308C13.4094 3.21809 13.9382 3.56649 14.3249 4.04888C14.7116 4.53128 14.9367 5.12318 14.9681 5.74065C14.9995 6.35812 14.8357 6.9698 14.5 7.48897C14.1643 8.00814 13.6736 8.40843 13.0976 8.63308C13.0065 8.6652 12.9269 8.72335 12.8686 8.80033C12.8102 8.8773 12.7758 8.96972 12.7696 9.06608L19.8696 12.0061C20.5198 12.2751 21.0567 12.7613 21.3885 13.3818C21.7204 14.0023 21.8269 14.7187 21.6897 15.4089C21.5525 16.0991 21.1802 16.7204 20.6362 17.1668C20.0922 17.6132 19.4103 17.8572 18.7066 17.8571H18.7106Z" fill="black"/> <path d="M14.9085 21.0521H9.09048C8.56375 21.0515 8.05876 20.842 7.6864 20.4694C7.31404 20.0969 7.10476 19.5918 7.10449 19.0651V17.2061C7.10449 17.0071 7.18351 16.8164 7.32416 16.6757C7.46481 16.5351 7.65558 16.4561 7.85449 16.4561C8.0534 16.4561 8.24417 16.5351 8.38483 16.6757C8.52548 16.8164 8.60449 17.0071 8.60449 17.2061V19.0651C8.60449 19.194 8.65565 19.3178 8.74677 19.4091C8.83788 19.5004 8.9615 19.5518 9.09048 19.5521H14.9085C15.0375 19.5518 15.1611 19.5004 15.2522 19.4091C15.3433 19.3178 15.3945 19.194 15.3945 19.0651V17.2061C15.3945 17.0071 15.4735 16.8164 15.6142 16.6757C15.7548 16.5351 15.9456 16.4561 16.1445 16.4561C16.3434 16.4561 16.5342 16.5351 16.6748 16.6757C16.8155 16.8164 16.8945 17.0071 16.8945 17.2061V19.0651C16.894 19.5917 16.6846 20.0966 16.3123 20.4691C15.94 20.8416 15.4351 21.0513 14.9085 21.0521Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 4 — bold style variants.
+class _HomeAppliancesCoatHanger4Bold {
+  const _HomeAppliancesCoatHanger4Bold();
+
+  /// coat hanger 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.643 17.986H18.709C20.386 17.986 21.75 16.622 21.75 14.945C21.75 13.702 21.012 12.597 19.872 12.132L12.768 9.19402C12.774 9.00502 12.899 8.83802 13.102 8.76102C14.531 8.18802 15.266 6.68402 14.849 5.18202C14.579 4.22102 13.779 3.43602 12.813 3.18102C11.904 2.93802 10.961 3.12202 10.228 3.68502C9.497 4.24802 9.078 5.09602 9.078 6.01502C9.078 6.42902 9.414 6.76502 9.828 6.76502C10.242 6.76502 10.578 6.42902 10.578 6.01502C10.578 5.56602 10.784 5.15002 11.142 4.87502C11.508 4.59302 11.963 4.50502 12.43 4.63102C12.886 4.75102 13.278 5.13602 13.405 5.58502C13.64 6.43502 13.15 7.12502 12.558 7.36402C11.882 7.61902 11.399 8.22002 11.292 8.91302C11.219 8.92102 11.145 8.94102 11.074 8.97202L4.104 12.055C2.977 12.533 2.25 13.631 2.25 14.945C2.25 16.622 3.613 17.986 5.29 17.986H7.35303V19.1852C7.35303 20.1452 8.13303 20.9252 9.09003 20.9252H14.908C15.865 20.9252 16.643 20.1452 16.643 19.1852V17.986ZM11.659 10.354L4.701 13.431C4.119 13.678 3.75 14.235 3.75 14.855C3.75 15.794 4.44 16.486 5.29 16.486H18.709C19.558 16.486 20.25 15.794 20.25 14.945C20.25 14.314 19.878 13.755 19.302 13.52L11.73 10.388L11.7183 10.3827C11.698 10.3734 11.6774 10.3641 11.659 10.354Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 4 — light style variants.
+class _HomeAppliancesCoatHanger4Light {
+  const _HomeAppliancesCoatHanger4Light();
+
+  /// coat hanger 4 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.69892 10.3767L4.39719 12.6194C3.54973 12.9784 3 13.8094 3 14.7288V14.8154C3 16.0813 4.02454 17.1068 5.29038 17.1068H18.7086C19.9735 17.1068 21 16.0813 21 14.8154C21 13.8891 20.4415 13.0534 19.5853 12.6992L12.0175 9.5672L12.0195 9.08072C12.0204 8.56796 12.3454 8.12234 12.8231 7.93455C13.8175 7.54439 14.4577 6.44785 14.1279 5.26277C13.9284 4.54764 13.3388 3.96774 12.6208 3.77801C11.1516 3.38882 9.82832 4.48634 9.82832 5.89228" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.85352 17.2056V19.0649C7.85352 19.7479 8.40714 20.3016 9.09016 20.3016H14.9076C15.5906 20.3016 16.1442 19.7479 16.1442 19.0649V17.2056" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 5 icon with style variants.
+class _HomeAppliancesCoatHanger5Icon {
+  const _HomeAppliancesCoatHanger5Icon();
+
+  /// bold style
+  _HomeAppliancesCoatHanger5Bold get bold => const _HomeAppliancesCoatHanger5Bold();
+  /// bulk style
+  _HomeAppliancesCoatHanger5Bulk get bulk => const _HomeAppliancesCoatHanger5Bulk();
+  /// light style
+  _HomeAppliancesCoatHanger5Light get light => const _HomeAppliancesCoatHanger5Light();
+  /// outline style
+  _HomeAppliancesCoatHanger5Outline get outline => const _HomeAppliancesCoatHanger5Outline();
+  /// twoTone style
+  _HomeAppliancesCoatHanger5Twotone get twoTone => const _HomeAppliancesCoatHanger5Twotone();
+  /// broken style
+  _HomeAppliancesCoatHanger5Broken get broken => const _HomeAppliancesCoatHanger5Broken();
+}
+
+/// coat hanger 5 — bulk style variants.
+class _HomeAppliancesCoatHanger5Bulk {
+  const _HomeAppliancesCoatHanger5Bulk();
+
+  /// coat hanger 5 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.972 8.56821C14.7262 9.23322 14.3416 9.78929 13.7566 10.1916C13.5542 10.3311 13.3329 10.4351 13.0837 10.5518C13.5298 10.7419 13.9514 10.9221 14.3744 11.1008C16.151 11.8505 17.9297 12.596 19.7035 13.3507C20.9998 13.9025 21.7544 15.251 21.6336 16.6231C21.4947 18.2058 20.2822 19.3579 18.9356 19.5501C18.7674 19.5743 18.6005 19.5836 18.4316 19.5836C14.1447 19.5836 9.85791 19.5836 5.57177 19.5836C3.65139 19.5836 2.19103 17.9524 2.37532 16.0001C2.49818 14.6943 3.16414 13.7694 4.34038 13.2503C6.01435 12.512 7.69879 11.7964 9.37904 11.0723C9.90538 10.8452 10.468 11.0688 10.69 11.5899C10.9106 12.1083 10.6719 12.685 10.1316 12.9192C8.9218 13.444 7.70996 13.9637 6.49881 14.4856C6.02901 14.6878 5.55712 14.8851 5.09081 15.0937C4.56516 15.3286 4.29361 15.785 4.32014 16.3639C4.34527 16.9107 4.6601 17.3472 5.15154 17.5195C5.29045 17.5686 5.43286 17.5864 5.57945 17.5864C9.86629 17.5864 14.1531 17.5864 18.4393 17.585C19.0452 17.585 19.5478 17.172 19.6574 16.5974C19.7747 15.9837 19.4773 15.4162 18.9063 15.1749C16.5035 14.1603 14.1008 13.1464 11.6973 12.1332C11.2582 11.9481 11.0418 11.6099 11.0383 11.1271C11.0342 10.6629 11.0383 10.203 11.2485 9.77291C11.5088 9.24034 11.913 8.87508 12.4491 8.64582C12.9064 8.45002 13.1479 8.0812 13.1514 7.57782C13.1549 7.0901 12.9294 6.72626 12.4896 6.52121C11.7497 6.17589 10.919 6.72555 10.8952 7.56998C10.8827 8.02994 10.6118 8.4073 10.2035 8.53474C9.79578 8.66148 9.35879 8.50626 9.10889 8.15098C8.90156 7.85621 8.90854 7.52228 8.95531 7.19334C9.15915 5.75794 10.126 4.73622 11.5165 4.4678C12.979 4.18585 14.4882 5.10433 14.9482 6.55538C14.9531 6.56962 14.9685 6.5803 14.9796 6.59312C15.1549 7.25243 15.1667 7.91032 14.9706 8.5675L14.972 8.56821Z" fill="black"/> <path d="M14.9811 6.59411C15.1563 7.25271 15.1681 7.91131 14.972 8.56848C15.1094 8.5692 15.2476 8.56943 15.3851 8.57038C15.6605 8.57228 15.9359 8.57418 16.2111 8.57418C17.7287 8.5756 19.2463 8.57703 20.7639 8.57418C21.4347 8.57347 21.8843 8.05086 21.7893 7.39226C21.7167 6.89386 21.2881 6.56135 20.7101 6.56135C18.8609 6.56064 17.0117 6.56064 15.1626 6.56207C15.1485 6.56207 15.134 6.56073 15.1194 6.55939C15.071 6.55492 15.0213 6.55033 14.9811 6.59411Z" fill="black" fill-opacity="0.4"/> <path d="M4.67136 8.5764C4.87889 8.57571 5.08645 8.57501 5.294 8.57501C5.49985 8.57501 5.7064 8.57521 5.91225 8.5754C6.3926 8.57585 6.87295 8.5763 7.3533 8.5743C7.84823 8.57217 8.23147 8.28737 8.35154 7.84237C8.53164 7.17309 8.06603 6.56931 7.33934 6.56361C6.25038 6.55507 5.16186 6.55746 4.07307 6.55985C3.80085 6.56045 3.52861 6.56105 3.25634 6.56148C2.93453 6.56219 2.64553 6.65831 2.43681 6.92246C2.18062 7.24571 2.12617 7.60883 2.2958 7.98833C2.46962 8.37779 2.79073 8.56576 3.2005 8.57217C3.69052 8.57967 4.18089 8.57804 4.67136 8.5764Z" fill="black" fill-opacity="0.4"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 5 — broken style variants.
+class _HomeAppliancesCoatHanger5Broken {
+  const _HomeAppliancesCoatHanger5Broken();
+
+  /// coat hanger 5 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.86816 7.57029C9.86816 6.18965 11.1671 5.11258 12.61 5.49495C13.3154 5.68079 13.8943 6.24997 14.0899 6.95246C14.4139 8.11709 13.7853 9.19319 12.8085 9.57654C12.3395 9.76043 12.0204 10.1983 12.0194 10.7023L12.0174 11.18L19.449 14.2555C20.2896 14.6039 20.8374 15.4241 20.8374 16.3338C20.8374 17.5763 19.8304 18.5833 18.5889 18.5833H15.2944" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.74032 11.9751L4.53399 14.1769C3.7021 14.5291 3.16113 15.3454 3.16113 16.2493V16.334C3.16113 17.5765 4.16815 18.5835 5.41063 18.5835H10.9995" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2642 7.56055H21M3 7.56055H7.31218" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 5 — twoTone style variants.
+class _HomeAppliancesCoatHanger5Twotone {
+  const _HomeAppliancesCoatHanger5Twotone();
+
+  /// coat hanger 5 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.2403 11.9749L5.03399 14.1767C4.2021 14.5289 3.66113 15.3453 3.66113 16.2491V16.3338C3.66113 17.5763 4.66815 18.5833 5.91063 18.5833H19.0885C20.33 18.5833 21.337 17.5763 21.337 16.3338C21.337 15.4241 20.7892 14.6039 19.9486 14.2555L12.5171 11.18L12.519 10.7023C12.52 10.1983 12.8391 9.76043 13.3081 9.57654C14.2849 9.19319 14.9135 8.11709 14.5895 6.95246C14.3939 6.24997 13.815 5.68079 13.1096 5.49495C11.6667 5.11258 10.3678 6.18965 10.3678 7.57029" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.7642 7.56055H21.5M3.5 7.56055H7.81218" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 5 — outline style variants.
+class _HomeAppliancesCoatHanger5Outline {
+  const _HomeAppliancesCoatHanger5Outline();
+
+  /// coat hanger 5 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.589 19.3359H5.41203C4.71554 19.3242 4.04404 19.0746 3.50907 18.6284C2.97411 18.1823 2.60789 17.5665 2.47132 16.8835C2.33476 16.2004 2.43604 15.4912 2.75834 14.8736C3.08065 14.2561 3.60459 13.7675 4.24305 13.4889L9.44905 11.2889C9.63231 11.2115 9.83883 11.21 10.0232 11.2848C10.2075 11.3596 10.3546 11.5046 10.432 11.6879C10.5095 11.8712 10.511 12.0777 10.4361 12.262C10.3613 12.4464 10.2163 12.5934 10.033 12.6709L4.82704 14.8709C4.55576 14.9858 4.32432 15.178 4.1616 15.4236C3.99888 15.6692 3.91207 15.9573 3.91203 16.2519C3.90373 16.4551 3.93623 16.6579 4.00761 16.8483C4.07899 17.0387 4.18782 17.2129 4.32765 17.3605C4.46747 17.5082 4.63548 17.6263 4.82173 17.708C5.00798 17.7896 5.20869 17.8331 5.41203 17.8359H18.589C18.9357 17.8354 19.2715 17.7149 19.5394 17.4948C19.8072 17.2747 19.9906 16.9686 20.0582 16.6286C20.1259 16.2886 20.0736 15.9356 19.9104 15.6298C19.7472 15.3239 19.4831 15.084 19.163 14.9509L11.7301 11.8759C11.5921 11.8185 11.4744 11.7212 11.392 11.5965C11.3097 11.4718 11.2666 11.3253 11.268 11.1759V10.6979C11.2707 10.3022 11.3929 9.91655 11.6186 9.59157C11.8444 9.26658 12.1631 9.01746 12.533 8.87689C12.8636 8.7475 13.1331 8.49792 13.2874 8.17819C13.4417 7.85846 13.4694 7.49221 13.365 7.15289C13.3005 6.92922 13.1797 6.72587 13.014 6.56232C12.8484 6.39878 12.6435 6.28052 12.419 6.21889C12.206 6.15731 11.9815 6.14676 11.7636 6.18811C11.5458 6.22946 11.3407 6.32154 11.165 6.45689C10.9941 6.58741 10.8557 6.75571 10.7606 6.94862C10.6656 7.14153 10.6164 7.35383 10.617 7.56889C10.617 7.7678 10.538 7.95857 10.3974 8.09922C10.2567 8.23987 10.066 8.31889 9.86705 8.31889C9.66813 8.31889 9.47736 8.23987 9.33671 8.09922C9.19606 7.95857 9.11705 7.7678 9.11705 7.56889C9.11572 7.124 9.2174 6.68485 9.41413 6.28582C9.61087 5.88679 9.89733 5.53872 10.251 5.26889C10.6085 4.99364 11.025 4.80521 11.4677 4.71844C11.9104 4.63167 12.3672 4.64894 12.802 4.76889C13.2787 4.89916 13.7138 5.14993 14.0655 5.49705C14.4171 5.84418 14.6736 6.27597 14.81 6.75089C15.0112 7.4481 14.9454 8.19521 14.6255 8.84655C14.3057 9.49789 13.7547 10.0067 13.08 10.2739C12.9955 10.304 12.9213 10.3576 12.8662 10.4285C12.8111 10.4994 12.7774 10.5845 12.7691 10.6739L19.735 13.5569C20.3752 13.8231 20.9034 14.3029 21.2298 14.9146C21.5562 15.5264 21.6607 16.2323 21.5254 16.9123C21.3901 17.5923 21.0234 18.2045 20.4877 18.6447C19.952 19.0849 19.2804 19.326 18.587 19.3269L18.589 19.3359Z" fill="black"/> <path d="M21 8.31445H14.264C14.0651 8.31445 13.8743 8.23544 13.7337 8.09479C13.593 7.95414 13.514 7.76337 13.514 7.56445C13.514 7.36554 13.593 7.17478 13.7337 7.03413C13.8743 6.89347 14.0651 6.81445 14.264 6.81445H21C21.1989 6.81445 21.3897 6.89347 21.5303 7.03413C21.671 7.17478 21.75 7.36554 21.75 7.56445C21.75 7.76337 21.671 7.95414 21.5303 8.09479C21.3897 8.23544 21.1989 8.31445 21 8.31445ZM7.31201 8.31445H3C2.80109 8.31445 2.61032 8.23544 2.46967 8.09479C2.32901 7.95414 2.25 7.76337 2.25 7.56445C2.25 7.36554 2.32901 7.17478 2.46967 7.03413C2.61032 6.89347 2.80109 6.81445 3 6.81445H7.31201C7.51092 6.81445 7.70166 6.89347 7.84232 7.03413C7.98297 7.17478 8.06201 7.36554 8.06201 7.56445C8.06201 7.76337 7.98297 7.95414 7.84232 8.09479C7.70166 8.23544 7.51092 8.31445 7.31201 8.31445Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 5 — bold style variants.
+class _HomeAppliancesCoatHanger5Bold {
+  const _HomeAppliancesCoatHanger5Bold();
+
+  /// coat hanger 5 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.41016 19.5827H18.5882C20.3792 19.5827 21.8362 18.1247 21.8362 16.3327C21.8362 15.0147 21.0502 13.8357 19.8302 13.3287L13.1062 10.5507C13.1262 10.5347 13.1512 10.5217 13.1782 10.5117C14.092 10.1458 14.7412 9.42539 15.0214 8.56226H21C21.552 8.56226 22 8.11526 22 7.56226C22 7.00926 21.552 6.56226 21 6.56226H15.0154C14.6935 5.57407 13.8818 4.80054 12.8642 4.52474C11.8912 4.26974 10.8812 4.46774 10.0982 5.07174C9.31616 5.67474 8.86816 6.58674 8.86816 7.57174C8.86816 8.12474 9.31516 8.57174 9.86816 8.57174C10.4202 8.57174 10.8682 8.12474 10.8682 7.57174C10.8682 7.21074 11.0332 6.87674 11.3202 6.65574C11.4892 6.52474 11.8522 6.32274 12.3492 6.45774C12.7132 6.55574 13.0262 6.86274 13.1252 7.21974C13.3252 7.93674 12.9082 8.46574 12.4492 8.64874C11.7422 8.92074 11.2372 9.50674 11.0752 10.2077L4.14516 13.2607C2.94016 13.7697 2.16016 14.9427 2.16016 16.3327C2.16016 18.1247 3.61816 19.5827 5.41016 19.5827ZM4.93716 15.0977L11.6812 12.1257L19.0652 15.1767C19.5342 15.3707 19.8362 15.8247 19.8362 16.3327C19.8362 17.0217 19.2772 17.5827 18.5882 17.5827H5.41016C4.72116 17.5827 4.16016 17.0217 4.16016 16.2527C4.16016 15.7497 4.45916 15.2987 4.93716 15.0977Z" fill="black"/> <path d="M3 8.56226H7.312C7.865 8.56226 8.312 8.11526 8.312 7.56226C8.312 7.00926 7.865 6.56226 7.312 6.56226H3C2.447 6.56226 2 7.00926 2 7.56226C2 8.11526 2.447 8.56226 3 8.56226Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// coat hanger 5 — light style variants.
+class _HomeAppliancesCoatHanger5Light {
+  const _HomeAppliancesCoatHanger5Light();
+
+  /// coat hanger 5 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'coat hanger 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.74081 11.9747L4.53447 14.1765C3.70259 14.5287 3.16162 15.345 3.16162 16.2489V16.3335C3.16162 17.576 4.16864 18.583 5.41112 18.583H18.589C19.8305 18.583 20.8375 17.576 20.8375 16.3335C20.8375 15.4238 20.2897 14.6036 19.4491 14.2553L12.0175 11.1797L12.0195 10.702C12.0205 10.198 12.3396 9.76019 12.8086 9.5763C13.7854 9.19295 14.414 8.11685 14.09 6.95221C13.8944 6.24973 13.3155 5.68055 12.6101 5.49471C11.1672 5.11233 9.86827 6.18941 9.86827 7.57004" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2642 7.56055H21M3 7.56055H7.31218" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -295,7 +885,7 @@ class _HomeAppliancesBedLoveBulk {
   /// Bed love — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Bed love',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path d="M6.76754 4.88086C6.76754 4.46665 6.43175 4.13086 6.01754 4.13086C5.60332 4.13086 5.26754 4.46665 5.26754 4.88086V7.39752C5.26727 7.40909 5.26727 7.4207 5.26754 7.43233V14.119C5.26754 14.5332 5.60332 14.869 6.01754 14.869C6.43175 14.869 6.76754 14.5332 6.76754 14.119V7.96201C8.47941 7.4303 9.90083 7.16153 10.409 7.09285C10.8195 7.03738 11.1073 6.65965 11.0518 6.24917C10.9963 5.83869 10.6186 5.55089 10.2081 5.60637C9.66446 5.67983 8.35822 5.92694 6.76754 6.39499V4.88086Z" fill="black"/> <path d="M20.3408 4.88086C20.3408 4.46665 20.005 4.13086 19.5908 4.13086C19.1766 4.13086 18.8408 4.46665 18.8408 4.88086V6.3947C17.2505 5.92684 15.9447 5.67982 15.4012 5.60637C14.9907 5.55089 14.613 5.83869 14.5575 6.24917C14.502 6.65965 14.7898 7.03738 15.2003 7.09285C15.7084 7.16151 17.1293 7.4302 18.8408 7.96171V14.119C18.8408 14.5332 19.1766 14.869 19.5908 14.869C20.005 14.869 20.3408 14.5332 20.3408 14.119V7.45681C20.3424 7.42873 20.3423 7.40077 20.3408 7.37303V4.88086Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5626 3.4359C13.345 3.45818 13.0992 3.53597 12.928 3.63679L12.8055 3.70893L12.6053 3.61074C12.3291 3.47532 12.1479 3.43468 11.8204 3.43468C11.4912 3.43468 11.236 3.48379 10.972 3.59791C10.4121 3.83996 10.024 4.26685 9.82515 4.85922C9.65472 5.36689 9.65984 5.98809 9.83871 6.51072C10.1102 7.30383 10.875 8.1345 11.9458 8.79928C12.5547 9.17732 12.7717 9.25349 12.9902 9.16586C13.137 9.10699 13.5276 8.88314 13.8332 8.68271C14.6065 8.17555 15.2583 7.50973 15.5967 6.88151C16.0391 6.05995 15.9914 4.99257 15.4801 4.2761C15.0587 3.68567 14.3135 3.35909 13.5626 3.4359ZM8.9106 11.1557C8.31945 11.2353 7.81505 11.6143 7.5666 12.1654C7.45343 12.4165 7.43267 12.5458 7.41698 13.0974L7.40249 13.6073H7.03039C6.10563 13.6073 5.5771 13.7526 4.90464 14.1915C4.07655 14.732 3.49217 15.6724 3.38228 16.641C3.3678 16.7688 3.35584 17.2893 3.35572 17.7975C3.35556 18.5294 3.36377 18.7617 3.39524 18.914C3.48194 19.3338 3.69278 19.7062 4.01131 20.0021C4.28711 20.2583 4.5376 20.3971 4.94495 20.5193C5.0902 20.5628 5.49427 20.5656 12.6116 20.5729C17.7667 20.5782 20.2054 20.572 20.3815 20.5533C21.3546 20.4497 22.1175 19.6974 22.2279 18.7324C22.2622 18.4327 22.2625 17.2843 22.2283 16.8347C22.1969 16.4198 22.1365 16.1488 21.9965 15.7937C21.8158 15.335 21.5479 14.9412 21.1713 14.5807C20.6831 14.1132 20.0833 13.7939 19.4617 13.6706C19.3276 13.644 19.0508 13.6229 18.7242 13.6142L18.2014 13.6003L18.2011 13.3263C18.2008 12.8728 18.1576 12.4962 18.0819 12.2863C17.8905 11.7556 17.4376 11.3402 16.8846 11.1878C16.7318 11.1458 16.5751 11.1416 15.1289 11.1416C13.3449 11.1416 13.3619 11.1401 12.9942 11.3328L12.8041 11.4324L12.6046 11.3321C12.2234 11.1406 12.2719 11.1452 10.5848 11.1391C9.75408 11.1361 9.00068 11.1435 8.9106 11.1557ZM11.9116 12.6509C12.032 12.6967 12.0565 12.7924 12.0565 13.2188V13.6073H10.4815H8.90657V13.2C8.90657 12.7644 8.92253 12.7012 9.04488 12.6518C9.122 12.6207 11.8298 12.6199 11.9116 12.6509ZM16.5729 12.664C16.6131 12.6848 16.6552 12.7225 16.6664 12.7479C16.6776 12.7733 16.6919 12.977 16.698 13.2007L16.7093 13.6073H15.1316H13.554V13.1922V12.7771L13.6294 12.7017L13.7049 12.6262H15.1024C16.2784 12.6262 16.5115 12.6322 16.5729 12.664Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path d="M5.92379 4.19531C6.338 4.19531 6.67379 4.5311 6.67379 4.94531V6.49313C8.26447 6.02508 9.57071 5.77798 10.1144 5.70451C10.5248 5.64904 10.9026 5.93683 10.958 6.34731C11.0135 6.75779 10.7257 7.13553 10.3152 7.191C9.80708 7.25967 8.38566 7.52845 6.67379 8.06016V12.2566C6.67379 12.6708 6.338 13.0066 5.92379 13.0066C5.50957 13.0066 5.17379 12.6708 5.17379 12.2566V7.53047C5.17352 7.51884 5.17352 7.50723 5.17379 7.49566V4.94531C5.17379 4.5311 5.50957 4.19531 5.92379 4.19531Z" fill="black"/> <path d="M20.248 4.94531C20.248 4.5311 19.9122 4.19531 19.498 4.19531C19.0838 4.19531 18.748 4.5311 18.748 4.94531V6.49313C17.1573 6.02508 15.8511 5.77798 15.3074 5.70451C14.8969 5.64904 14.5192 5.93683 14.4637 6.34731C14.4083 6.75779 14.6961 7.13553 15.1065 7.191C15.6147 7.25967 17.0361 7.52845 18.748 8.06016V12.2566C18.748 12.6708 19.0838 13.0066 19.498 13.0066C19.9122 13.0066 20.248 12.6708 20.248 12.2566V7.53047C20.2483 7.51884 20.2483 7.50724 20.248 7.49567V4.94531Z" fill="black"/> <path d="M20.248 18.2568C20.248 17.8426 19.9122 17.5068 19.498 17.5068C19.0838 17.5068 18.748 17.8426 18.748 18.2568V19.7788C18.748 20.193 19.0838 20.5288 19.498 20.5288C19.9122 20.5288 20.248 20.193 20.248 19.7788V18.2568Z" fill="black"/> <path d="M6.67379 18.2568C6.67379 17.8426 6.338 17.5068 5.92379 17.5068C5.50957 17.5068 5.17379 17.8426 5.17379 18.2568V19.7788C5.17379 20.193 5.50957 20.5288 5.92379 20.5288C6.338 20.5288 6.67379 20.193 6.67379 19.7788V18.2568Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4571 3.48619C13.2203 3.51717 13.0429 3.57433 12.862 3.67794L12.7168 3.76102L12.5618 3.67741C12.3117 3.54245 12.0723 3.48739 11.7355 3.48739C11.3517 3.48739 11.1408 3.53051 10.8318 3.67207C10.1779 3.97171 9.76975 4.52474 9.63575 5.29263C9.50359 6.05012 9.68968 6.72864 10.2255 7.44267C10.7052 8.08204 11.5814 8.78013 12.4063 9.18022C12.6952 9.32032 12.8015 9.31138 13.1558 9.11702C13.9835 8.66311 14.7014 8.07844 15.1752 7.47259C15.6031 6.92536 15.7902 6.45835 15.817 5.8701C15.8527 5.08884 15.6066 4.4405 15.1046 3.99312C14.6862 3.62018 14.0138 3.41329 13.4571 3.48619ZM5.99095 11.8092C5.52983 11.9098 5.21615 12.0468 4.76567 12.3446C3.91821 12.9048 3.35688 13.8327 3.25086 14.8486C3.22865 15.0617 3.21828 15.5851 3.22558 16.1266C3.23772 17.0248 3.23986 17.0491 3.32927 17.3048C3.57865 18.0178 4.12697 18.5138 4.85331 18.6832C5.04377 18.7276 5.99735 18.7336 12.707 18.7327C17.6077 18.732 20.4041 18.7198 20.5118 18.6986C21.1028 18.5824 21.6751 18.1593 21.9572 17.6301C22.1657 17.2389 22.1948 17.0321 22.1948 15.9403C22.1948 14.8525 22.1688 14.5791 22.0238 14.1424C21.6634 13.0565 20.7964 12.2164 19.6769 11.868C19.4092 11.8014 19.2586 11.7656 18.9649 11.7742L12.7904 11.7687C7.26838 11.7637 6.16953 11.7702 5.99095 11.8092Z" fill="black"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -310,7 +900,7 @@ class _HomeAppliancesBedLoveBroken {
   /// Bed love — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Bed love',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.3105 6.34961C9.70516 6.43142 7.99942 6.75904 6.01953 7.41504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3027 6.34961C15.9081 6.43142 17.6139 6.75904 19.5938 7.41504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8073 14.1191V13.3209C12.8073 12.9112 12.8073 12.7063 12.7482 12.5421C12.6472 12.2617 12.4264 12.0409 12.146 11.94C11.9818 11.8809 11.777 11.8809 11.3673 11.8809H9.58063C9.17094 11.8809 8.9661 11.8809 8.80189 11.94C8.52147 12.0409 8.3007 12.2617 8.19974 12.5421C8.14062 12.7063 8.14062 12.9112 8.14062 13.3209V14.1191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4733 14.1191V13.3209C17.4733 12.9112 17.4733 12.7063 17.4142 12.5421C17.3132 12.2617 17.0925 12.0409 16.812 11.94C16.6478 11.8809 16.443 11.8809 16.0333 11.8809H14.2466C13.837 11.8809 13.6321 11.8809 13.4679 11.94C13.1875 12.0409 12.9667 12.2617 12.8658 12.5421C12.8066 12.7063 12.8066 12.9112 12.8066 13.3209V14.1191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8076 20.1191H5.89459C5.44259 20.1191 5.21563 20.1191 5.02863 20.0736C4.44863 19.9321 3.99464 19.4787 3.85364 18.898C3.80764 18.7113 3.80762 18.4849 3.80762 18.0322C3.80762 17.1833 3.80762 16.7589 3.89362 16.4088C4.15862 15.32 5.00859 14.4698 6.0976 14.2044C6.4476 14.1191 6.87158 14.1191 7.72058 14.1191H17.8946C18.7436 14.1191 19.1686 14.1191 19.5186 14.2044C20.6066 14.4698 21.4576 15.32 21.7226 16.4088C21.8076 16.7589 21.8076 17.1833 21.8076 18.0322C21.8076 18.4846 21.8076 18.7114 21.7626 18.898C21.6206 19.4787 21.1676 19.9321 20.5866 20.0736C20.3996 20.1191 20.1736 20.1191 19.7206 20.1191H16.2641" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.5938 4.88001V14.1191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.01953 4.88001V14.1191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.322 6.26269C15.6192 5.33547 15.2741 4.27193 14.3026 3.95938C14.0515 3.87894 13.7844 3.85991 13.5246 3.90412C13.2649 3.94772 13.0187 4.12763 12.8074 4.28606C12.5956 4.12886 12.35 3.95017 12.0902 3.90657C11.8305 3.86236 11.564 3.88078 11.3122 3.95938C10.3414 4.275 9.99323 5.33547 10.2904 6.26269C10.7491 7.73273 12.8074 8.69434 12.8074 8.69434C12.8074 8.69434 14.835 7.74992 15.322 6.26269Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.2148 6.56885C9.60946 6.65066 7.90372 6.97828 5.92383 7.63428" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.207 6.56885C15.8124 6.65066 17.5182 6.97828 19.498 7.63428" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.709 18.3779H19.622C20.074 18.3779 20.301 18.3779 20.488 18.3324C21.068 18.1909 21.522 17.7375 21.663 17.1568C21.709 16.9701 21.709 16.7437 21.709 16.291C21.709 15.4421 21.709 15.0177 21.623 14.6676C21.358 13.5788 20.508 12.7286 19.419 12.4632C19.069 12.3779 18.645 12.3779 17.796 12.3779H7.62201C6.77301 12.3779 6.34799 12.3779 5.99799 12.4632C4.90999 12.7286 4.05901 13.5788 3.79401 14.6676C3.70901 15.0177 3.70898 15.4421 3.70898 16.291C3.70898 16.7434 3.70898 16.9702 3.75397 17.1568C3.89597 17.7375 4.34899 18.1909 4.92999 18.3324C5.11699 18.3779 5.34302 18.3779 5.79602 18.3779H9.25252" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.498 19.9011V18.3789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.92383 19.9011V18.3789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.498 5.06168V12.3789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.92383 5.06168V12.3789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.2272 6.48144C15.5244 5.55422 15.1793 4.49068 14.2079 4.17813C13.9568 4.09769 13.6897 4.07866 13.4299 4.12287C13.1702 4.16647 12.9239 4.34638 12.7127 4.50481C12.5009 4.34761 12.2552 4.16892 11.9955 4.12532C11.7357 4.08111 11.4692 4.09953 11.2175 4.17813C10.2467 4.49375 9.8985 5.55422 10.1957 6.48144C10.6544 7.95148 12.7127 8.91309 12.7127 8.91309C12.7127 8.91309 14.7403 7.96867 15.2272 6.48144Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -325,7 +915,7 @@ class _HomeAppliancesBedLoveTwotone {
   /// Bed love — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Bed love',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.30469 18.0322C3.30469 17.1833 3.30469 16.7589 3.38999 16.4088C3.65534 15.32 4.50551 14.4698 5.59439 14.2044C5.94442 14.1191 6.36886 14.1191 7.21773 14.1191H17.3916C18.2405 14.1191 18.665 14.1191 19.015 14.2044C20.1039 14.4698 20.954 15.32 21.2194 16.4088C21.3047 16.7589 21.3047 17.1833 21.3047 18.0322C21.3047 18.4849 21.3047 18.7113 21.2592 18.898C21.1177 19.4787 20.6642 19.9321 20.0835 20.0736C19.8968 20.1191 19.6705 20.1191 19.2177 20.1191H5.39164C4.93891 20.1191 4.71254 20.1191 4.52586 20.0736C3.94513 19.9321 3.4917 19.4787 3.35018 18.898C3.30469 18.7113 3.30469 18.4849 3.30469 18.0322Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.51953 14.119V4.88086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.0928 4.88086V14.119" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.81055 6.34961C9.20516 6.43142 7.49942 6.75904 5.51953 7.41504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.8027 6.34961C15.4081 6.43142 17.1139 6.75904 19.0938 7.41504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.3073 13.3209V14.1191M12.3073 13.3209C12.3073 12.9112 12.3073 12.7063 12.2482 12.5421C12.1472 12.2617 11.9264 12.0409 11.646 11.94C11.4818 11.8809 11.277 11.8809 10.8673 11.8809H9.08063C8.67094 11.8809 8.4661 11.8809 8.30189 11.94C8.02147 12.0409 7.8007 12.2617 7.69974 12.5421C7.64062 12.7063 7.64062 12.9112 7.64062 13.3209V14.1191H12.3073M12.3073 13.3209C12.3073 12.9112 12.3066 12.7063 12.3658 12.5421C12.4667 12.2617 12.6875 12.0409 12.9679 11.94C13.1321 11.8809 13.337 11.8809 13.7466 11.8809H15.5333C15.943 11.8809 16.1478 11.8809 16.312 11.94C16.5925 12.0409 16.8132 12.2617 16.9142 12.5421C16.9733 12.7063 16.9733 12.9112 16.9733 13.3209V14.1191H12.3073" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.821 6.26269C15.1182 5.33547 14.7731 4.27193 13.8017 3.95938C13.5505 3.87894 13.2834 3.85991 13.0237 3.90412C12.7639 3.94772 12.5177 4.12763 12.3064 4.28606C12.0946 4.12886 11.849 3.95017 11.5892 3.90657C11.3295 3.86236 11.063 3.88078 10.8112 3.95938C9.84042 4.275 9.49225 5.33547 9.78945 6.26269C10.2481 7.73273 12.3064 8.69434 12.3064 8.69434C12.3064 8.69434 14.334 7.74992 14.821 6.26269Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M18.998 18.3779V19.8999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.42383 18.3779V19.8999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.998 5.06641V12.3777" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.42383 5.06641V12.3777" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.71484 6.56885C9.10946 6.65066 7.40372 6.97828 5.42383 7.63428" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.707 6.56885C15.3124 6.65066 17.0182 6.97828 18.998 7.63428" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7263 6.48193C15.0235 5.55471 14.6784 4.49117 13.7069 4.17862C13.4558 4.09818 13.1887 4.07914 12.9289 4.12336C12.6692 4.16695 12.423 4.34687 12.2117 4.5053C11.9999 4.3481 11.7543 4.16941 11.4945 4.12581C11.2348 4.0816 10.9683 4.10002 10.7165 4.17862C9.74569 4.49424 9.39752 5.55471 9.69472 6.48193C10.1534 7.95197 12.2117 8.91357 12.2117 8.91357C12.2117 8.91357 14.2393 7.96916 14.7263 6.48193Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.20898 16.291C3.20898 15.4421 3.20901 15.0177 3.29401 14.6676C3.55901 13.5788 4.40999 12.7286 5.49799 12.4632C5.84799 12.3779 6.27301 12.3779 7.12201 12.3779H17.296C18.145 12.3779 18.569 12.3779 18.919 12.4632C20.008 12.7286 20.858 13.5788 21.123 14.6676C21.209 15.0177 21.209 15.4421 21.209 16.291C21.209 16.7437 21.209 16.9701 21.163 17.1568C21.022 17.7375 20.568 18.1909 19.988 18.3324C19.801 18.3779 19.574 18.3779 19.122 18.3779H5.29602C4.84302 18.3779 4.61699 18.3779 4.42999 18.3324C3.84899 18.1909 3.39597 17.7375 3.25397 17.1568C3.20897 16.9701 3.20898 16.7437 3.20898 16.291Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -340,7 +930,7 @@ class _HomeAppliancesBedLoveOutline {
   /// Bed love — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Bed love',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.80744 13.3689C6.84215 13.3689 6.87738 13.3689 6.91313 13.3689H17.087C17.1228 13.3689 17.158 13.3689 17.1927 13.3689C17.9395 13.3687 18.4488 13.3685 18.888 13.4756C20.2491 13.8073 21.3118 14.87 21.6435 16.2311C21.7505 16.6702 21.7503 17.1796 21.7501 17.9263C21.7501 17.961 21.7501 17.9962 21.7501 18.032C21.7501 18.0588 21.7501 18.0853 21.7501 18.1115C21.7505 18.4849 21.7507 18.7985 21.6833 19.0753C21.4754 19.9283 20.8094 20.5943 19.9565 20.8021C19.6797 20.8696 19.3661 20.8693 18.9926 20.869C18.9664 20.869 18.9399 20.8689 18.9131 20.8689H5.08705C5.06025 20.8689 5.03375 20.869 5.00755 20.869C4.6341 20.8693 4.32052 20.8696 4.04369 20.8021C3.19074 20.5943 2.52477 19.9283 2.31691 19.0753C2.24945 18.7985 2.24972 18.4849 2.25004 18.1114C2.25007 18.0853 2.25009 18.0588 2.25009 18.032C2.25009 17.9962 2.25008 17.961 2.25007 17.9263C2.24984 17.1796 2.24969 16.6702 2.35671 16.2311C2.68841 14.87 3.75112 13.8073 5.11222 13.4756C5.5514 13.3685 6.06072 13.3687 6.80744 13.3689ZM6.91313 14.8689C6.0203 14.8689 5.70783 14.8743 5.46737 14.9329C4.65071 15.1319 4.01308 15.7696 3.81406 16.5862C3.75547 16.8267 3.75009 17.1391 3.75009 18.032C3.75009 18.5287 3.75547 18.6431 3.77426 18.7202C3.84944 19.0287 4.09033 19.2696 4.39884 19.3448C4.47596 19.3636 4.59034 19.3689 5.08705 19.3689H18.9131C19.4098 19.3689 19.5242 19.3636 19.6013 19.3448C19.9099 19.2696 20.1507 19.0287 20.2259 18.7202C20.2447 18.6431 20.2501 18.5287 20.2501 18.032C20.2501 17.1391 20.2447 16.8267 20.1861 16.5862C19.9871 15.7696 19.3495 15.1319 18.5328 14.9329C18.2924 14.8743 17.9799 14.8689 17.087 14.8689H6.91313Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.21484 4.13086C5.62906 4.13086 5.96484 4.46665 5.96484 4.88086V14.119C5.96484 14.5332 5.62906 14.869 5.21484 14.869C4.80063 14.869 4.46484 14.5332 4.46484 14.119V4.88086C4.46484 4.46665 4.80063 4.13086 5.21484 4.13086Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7881 4.13086C19.2023 4.13086 19.5381 4.46665 19.5381 4.88086V14.119C19.5381 14.5332 19.2023 14.869 18.7881 14.869C18.3739 14.869 18.0381 14.5332 18.0381 14.119V4.88086C18.0381 4.46665 18.3739 4.13086 18.7881 4.13086Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.594 3.16461C12.9723 3.10036 13.3607 3.12819 13.7258 3.24513C15.2063 3.72146 15.6138 5.29616 15.2306 6.49162L15.2291 6.49607C14.912 7.46477 14.1284 8.18885 13.5239 8.63816C13.2092 8.8721 12.913 9.05336 12.6954 9.17641C12.5861 9.2382 12.4953 9.28602 12.4303 9.31913C12.3978 9.3357 12.3716 9.34863 12.3527 9.35783L12.3299 9.36884L12.3227 9.37223L12.3202 9.3734L12.3193 9.37384C12.3191 9.37393 12.3185 9.37421 12.0018 8.69434C11.6844 9.37384 11.6842 9.37376 11.684 9.37367L11.6827 9.37304L11.6802 9.37187L11.673 9.36847L11.65 9.35737C11.631 9.34808 11.6045 9.335 11.5717 9.31825C11.5061 9.28478 11.4144 9.23642 11.304 9.17404C11.0842 9.04983 10.7853 8.86709 10.4686 8.63219C9.86349 8.18343 9.07284 7.45682 8.76973 6.48885C8.38677 5.28969 8.8015 3.72509 10.2747 3.24613L10.2831 3.24341C10.6465 3.12995 11.0324 3.10299 11.4097 3.16708C11.6279 3.20385 11.8292 3.28945 12.0001 3.3839C12.1719 3.28827 12.3743 3.20163 12.594 3.16461ZM12.0018 8.69434L11.684 9.37367C11.8849 9.46754 12.1182 9.46748 12.3193 9.37384L12.0018 8.69434ZM12.0017 7.84519C12.1742 7.74584 12.3966 7.60705 12.6291 7.43429C13.1594 7.04015 13.6325 6.54925 13.8029 6.03153C14.0127 5.37378 13.7294 4.82234 13.2678 4.6735C13.131 4.62976 12.9857 4.61952 12.8449 4.64348L12.8432 4.64377C12.7947 4.65191 12.6938 4.70456 12.4518 4.88606C12.1863 5.08521 11.8214 5.08614 11.5549 4.88835C11.3109 4.70733 11.2107 4.65465 11.1605 4.64623L11.1588 4.64594C11.0182 4.62202 10.873 4.63145 10.7344 4.67399C10.2696 4.82781 9.98973 5.38078 10.199 6.03377L10.2008 6.03928C10.357 6.53998 10.8239 7.02824 11.3621 7.42737C11.5987 7.60287 11.826 7.74421 12.0017 7.84519Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.249 6.24926C10.1935 5.83877 9.81581 5.55098 9.40533 5.60645C8.75282 5.69463 7.00177 6.03294 4.97887 6.70319C4.58568 6.83346 4.37254 7.25782 4.50282 7.65101C4.63309 8.04421 5.05745 8.25734 5.45064 8.12707C7.38752 7.48532 9.04795 7.16839 9.60621 7.09294C10.0167 7.03747 10.3045 6.65974 10.249 6.24926Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7549 6.24926C13.8104 5.83877 14.1881 5.55098 14.5986 5.60645C15.2511 5.69463 17.0021 6.03294 19.025 6.70319C19.4182 6.83346 19.6314 7.25782 19.5011 7.65101C19.3708 8.04421 18.9465 8.25734 18.5533 8.12707C16.6164 7.48532 14.956 7.16839 14.3977 7.09294C13.9872 7.03747 13.6994 6.65974 13.7549 6.24926Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.69143 11.1308C8.71975 11.1308 8.74795 11.1309 8.77599 11.1309H10.5627C10.5907 11.1309 10.6189 11.1308 10.6472 11.1308C10.9675 11.1299 11.3029 11.129 11.5954 11.2344L11.3414 11.94L11.5954 11.2344C12.0862 11.411 12.4725 11.7974 12.6492 12.2881C12.7545 12.5807 12.7536 12.9161 12.7528 13.2364C12.7527 13.2647 12.7527 13.2929 12.7527 13.3209V14.1192C12.7527 14.5334 12.4169 14.8692 12.0027 14.8692C11.5884 14.8692 11.2527 14.5334 11.2527 14.1192V13.3209C11.2527 13.1071 11.2523 12.9797 11.2466 12.8845C11.2431 12.8252 11.2382 12.7998 11.2368 12.7933C11.2115 12.7256 11.158 12.6721 11.0902 12.6467C11.0838 12.6453 11.0584 12.6405 10.9991 12.637C10.9039 12.6312 10.7765 12.6309 10.5627 12.6309H8.77599C8.56214 12.6309 8.4348 12.6312 8.33957 12.637C8.28024 12.6405 8.25487 12.6453 8.24843 12.6467C8.18065 12.6721 8.12717 12.7256 8.10183 12.7933C8.1004 12.7998 8.0956 12.8252 8.09203 12.8845C8.08631 12.9797 8.08599 13.1071 8.08599 13.3209V14.1192C8.08599 14.5334 7.7502 14.8692 7.33599 14.8692C6.92178 14.8692 6.58599 14.5334 6.58599 14.1192V13.3209C6.58599 13.2929 6.58592 13.2647 6.58584 13.2364C6.58501 12.9161 6.58413 12.5807 6.68945 12.2881C6.86612 11.7974 7.25247 11.411 7.7432 11.2344C8.03574 11.129 8.37118 11.1299 8.69143 11.1308Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3574 11.1308C13.3858 11.1308 13.414 11.1309 13.442 11.1309H15.2287C15.2567 11.1309 15.2849 11.1308 15.3132 11.1308C15.6335 11.1299 15.9689 11.129 16.2615 11.2344L16.0074 11.94L16.2615 11.2344C16.7522 11.411 17.1385 11.7974 17.3152 12.2881C17.4205 12.5807 17.4197 12.9161 17.4188 13.2364C17.4187 13.2647 17.4187 13.2929 17.4187 13.3209V14.1192C17.4187 14.5334 17.0829 14.8692 16.6687 14.8692C16.2545 14.8692 15.9187 14.5334 15.9187 14.1192V13.3209C15.9187 13.1071 15.9184 12.9797 15.9126 12.8845C15.9091 12.8252 15.9043 12.7998 15.9028 12.7933C15.8775 12.7256 15.824 12.6721 15.7562 12.6467C15.7498 12.6453 15.7244 12.6405 15.6651 12.637C15.5699 12.6312 15.4425 12.6309 15.2287 12.6309H13.442C13.2282 12.6309 13.1008 12.6312 13.0056 12.637C12.9463 12.6405 12.9209 12.6453 12.9144 12.6467C12.8467 12.6721 12.7932 12.7256 12.7678 12.7933C12.7664 12.7998 12.7616 12.8252 12.758 12.8845C12.7523 12.9797 12.752 13.1071 12.752 13.3209V14.1192C12.752 14.5334 12.4162 14.8692 12.002 14.8692C11.5878 14.8692 11.252 14.5334 11.252 14.1192V13.3209C11.252 13.2929 11.2519 13.2647 11.2519 13.2364C11.251 12.9161 11.2501 12.5807 11.3555 12.2881C11.5321 11.7974 11.9185 11.411 12.4092 11.2344C12.7018 11.129 13.0372 11.1299 13.3574 11.1308Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.595 3.38385C12.9733 3.3196 13.3617 3.34743 13.7268 3.46436C15.2073 3.9407 15.6147 5.5154 15.2316 6.71085L15.2301 6.71531C14.913 7.684 14.1294 8.40809 13.5249 8.8574C13.2101 9.09134 12.914 9.2726 12.6964 9.39564C12.5871 9.45744 12.4963 9.50526 12.4313 9.53837C12.3988 9.55494 12.3726 9.56787 12.3537 9.57707L12.3308 9.58808L12.3237 9.59147L12.3212 9.59263L12.3202 9.59308C12.3201 9.59317 12.3195 9.59344 12.0028 8.91357C11.6853 9.59308 11.6852 9.593 11.685 9.59291L11.6836 9.59228L11.6812 9.59111L11.674 9.58771L11.651 9.57661C11.6319 9.56732 11.6055 9.55424 11.5727 9.53749C11.5071 9.50402 11.4154 9.45566 11.305 9.39327C11.0852 9.26907 10.7863 9.08633 10.4695 8.85142C9.86446 8.40267 9.07382 7.67606 8.77071 6.70809C8.38775 5.50893 8.80248 3.94433 10.2757 3.46537L10.2841 3.46265C10.6475 3.34919 11.0334 3.32223 11.4107 3.38632C11.6289 3.42309 11.8302 3.50869 12.0011 3.60314C12.1728 3.50751 12.3753 3.42086 12.595 3.38385ZM12.0028 8.91357L11.685 9.59291C11.8859 9.68678 12.1192 9.68672 12.3202 9.59308L12.0028 8.91357ZM12.0027 8.06443C12.1752 7.96508 12.3976 7.82629 12.6301 7.65353C13.1603 7.25939 13.6335 6.76849 13.8039 6.25077C14.0136 5.59302 13.7304 5.04158 13.2688 4.89274C13.132 4.84899 12.9867 4.83876 12.8459 4.86272L12.8442 4.86301C12.7957 4.87115 12.6948 4.9238 12.4528 5.1053C12.1873 5.30444 11.8224 5.30538 11.5559 5.10759C11.3119 4.92657 11.2116 4.87389 11.1614 4.86547L11.1597 4.86518C11.0192 4.84126 10.8739 4.85068 10.7354 4.89322C10.2705 5.04705 9.99071 5.60001 10.2 6.253L10.2018 6.25852C10.358 6.75921 10.8249 7.24748 11.3631 7.64661C11.5997 7.8221 11.827 7.96345 12.0027 8.06443Z" fill="black"/> <path d="M18.7871 13.1267C18.5882 13.1267 18.3974 13.0477 18.2568 12.907C18.1161 12.7664 18.0371 12.5756 18.0371 12.3767V5.0647C18.0371 4.86578 18.1161 4.67502 18.2568 4.53437C18.3974 4.39371 18.5882 4.3147 18.7871 4.3147C18.986 4.3147 19.1768 4.39371 19.3174 4.53437C19.4581 4.67502 19.5371 4.86578 19.5371 5.0647V12.3767C19.5371 12.5756 19.4581 12.7664 19.3174 12.907C19.1768 13.0477 18.986 13.1267 18.7871 13.1267Z" fill="black"/> <path d="M18.7871 20.6487C18.5882 20.6487 18.3974 20.5697 18.2568 20.429C18.1161 20.2884 18.0371 20.0976 18.0371 19.8987V18.3767C18.0371 18.1778 18.1161 17.987 18.2568 17.8464C18.3974 17.7057 18.5882 17.6267 18.7871 17.6267C18.986 17.6267 19.1768 17.7057 19.3174 17.8464C19.4581 17.987 19.5371 18.1778 19.5371 18.3767V19.8987C19.5371 20.0976 19.4581 20.2884 19.3174 20.429C19.1768 20.5697 18.986 20.6487 18.7871 20.6487Z" fill="black"/> <path d="M5.21094 13.1267C5.01203 13.1267 4.82126 13.0477 4.6806 12.907C4.53995 12.7664 4.46094 12.5756 4.46094 12.3767V5.0647C4.46094 4.86578 4.53995 4.67502 4.6806 4.53437C4.82126 4.39371 5.01203 4.3147 5.21094 4.3147C5.40985 4.3147 5.60059 4.39371 5.74124 4.53437C5.88189 4.67502 5.96094 4.86578 5.96094 5.0647V12.3767C5.96094 12.5756 5.88189 12.7664 5.74124 12.907C5.60059 13.0477 5.40985 13.1267 5.21094 13.1267Z" fill="black"/> <path d="M5.21094 20.6487C5.01203 20.6487 4.82126 20.5697 4.6806 20.429C4.53995 20.2884 4.46094 20.0976 4.46094 19.8987V18.3767C4.46094 18.1778 4.53995 17.987 4.6806 17.8464C4.82126 17.7057 5.01203 17.6267 5.21094 17.6267C5.40985 17.6267 5.60059 17.7057 5.74124 17.8464C5.88189 17.987 5.96094 18.1778 5.96094 18.3767V19.8987C5.96094 20.0976 5.88189 20.2884 5.74124 20.429C5.60059 20.5697 5.40985 20.6487 5.21094 20.6487Z" fill="black"/> <path d="M5.21125 8.38262C5.033 8.38269 4.86053 8.31928 4.7248 8.20375C4.58906 8.08821 4.49893 7.92811 4.47052 7.75214C4.44212 7.57618 4.47731 7.39584 4.5698 7.24347C4.66229 7.09109 4.80601 6.97664 4.97522 6.92062C6.41816 6.43412 7.89844 6.06623 9.40125 5.82062C9.50021 5.80444 9.6014 5.80826 9.69886 5.83187C9.79632 5.85548 9.88805 5.8984 9.96863 5.95808C10.0492 6.01776 10.117 6.093 10.168 6.17934C10.219 6.26568 10.2522 6.36137 10.2656 6.46075C10.2789 6.56013 10.2723 6.66119 10.2459 6.75794C10.2196 6.85469 10.1741 6.94518 10.1121 7.02404C10.0502 7.1029 9.97304 7.16855 9.88529 7.21708C9.79754 7.26562 9.70095 7.29607 9.60123 7.30662C8.19013 7.53791 6.80019 7.88371 5.44523 8.34062C5.36999 8.36713 5.291 8.38131 5.21125 8.38262Z" fill="black"/> <path d="M18.7877 8.38302C18.7078 8.3831 18.6284 8.37027 18.5527 8.34502C17.1974 7.88807 15.8071 7.54226 14.3957 7.31102C14.2959 7.30046 14.1993 7.27001 14.1116 7.22148C14.0238 7.17294 13.9467 7.1073 13.8848 7.02844C13.8229 6.94957 13.7773 6.85909 13.751 6.76234C13.7246 6.66558 13.7179 6.56453 13.7313 6.46515C13.7447 6.36576 13.7778 6.27007 13.8289 6.18373C13.8799 6.09739 13.9477 6.02216 14.0283 5.96247C14.1088 5.90279 14.2006 5.85988 14.298 5.83627C14.3955 5.81266 14.4967 5.80883 14.5957 5.82502C16.0982 6.07055 17.5781 6.43844 19.0207 6.92502C19.1898 6.98101 19.3335 7.09538 19.426 7.24765C19.5185 7.39992 19.5537 7.58014 19.5254 7.75604C19.4972 7.93195 19.4072 8.09204 19.2717 8.20765C19.1361 8.32327 18.9638 8.38685 18.7856 8.38702L18.7877 8.38302Z" fill="black"/> <path d="M18.9097 19.127H5.08772C4.73867 19.1459 4.38861 19.1237 4.04472 19.061C3.62585 18.9596 3.24301 18.7448 2.93819 18.4402C2.63336 18.1355 2.41834 17.7528 2.31673 17.334C2.25405 16.9898 2.23192 16.6394 2.25075 16.29C2.21676 15.6879 2.25232 15.0839 2.35673 14.49C2.51767 13.8215 2.86008 13.2104 3.34621 12.7241C3.83233 12.2378 4.44329 11.8952 5.11174 11.734C5.70559 11.6289 6.30961 11.593 6.91173 11.627H17.0877C17.6898 11.5928 18.2939 11.6287 18.8877 11.734C19.556 11.8952 20.1668 12.2377 20.6529 12.7238C21.139 13.2099 21.4815 13.8207 21.6427 14.489C21.7481 15.0828 21.784 15.6869 21.7497 16.289C21.769 16.6388 21.7464 16.9896 21.6827 17.334C21.5817 17.7525 21.3671 18.1351 21.0625 18.4394C20.758 18.7438 20.3753 18.9582 19.9567 19.059C19.6117 19.1232 19.2602 19.146 18.9097 19.127ZM6.90974 13.127C6.42681 13.1022 5.94258 13.1236 5.46373 13.191C5.06263 13.2877 4.69599 13.4931 4.40416 13.7848C4.11233 14.0764 3.90664 14.443 3.80974 14.844C3.74345 15.323 3.72237 15.8071 3.74675 16.29C3.73698 16.5203 3.74499 16.751 3.77074 16.98C3.80783 17.131 3.8856 17.2689 3.99562 17.3788C4.10564 17.4886 4.24369 17.5662 4.39473 17.603C4.62343 17.6288 4.85378 17.6368 5.08372 17.627H18.9097C19.14 17.6368 19.3707 17.6287 19.5997 17.603C19.7507 17.5659 19.8886 17.4881 19.9985 17.3781C20.1083 17.2681 20.1859 17.13 20.2227 16.979C20.2484 16.7503 20.2565 16.52 20.2467 16.29C20.2716 15.8074 20.2501 15.3235 20.1827 14.845C20.0861 14.4437 19.8805 14.0769 19.5887 13.7851C19.2968 13.4932 18.93 13.2877 18.5287 13.191C18.0502 13.1237 17.5663 13.1022 17.0837 13.127H6.90974Z" fill="black"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -355,7 +945,7 @@ class _HomeAppliancesBedLoveBold {
   /// Bed love — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Bed love',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1677 7.12887C10.9637 8.35887 12.5167 9.10587 12.5947 9.14187C12.6617 9.17287 12.7337 9.18887 12.8057 9.18887C12.8777 9.18887 12.9497 9.17287 13.0157 9.14287C13.0927 9.10587 14.6357 8.37087 15.4407 7.12787C16.025 7.22477 17.2451 7.47661 18.7023 7.92434C18.7859 7.95003 18.8427 8.02741 18.8427 8.11488V13.4219C18.8427 13.535 18.7489 13.6257 18.6358 13.6237C18.568 13.6225 18.4966 13.6217 18.4219 13.6211C18.3117 13.6202 18.2227 13.5308 18.2227 13.4207V13.3189C18.2227 12.8449 18.2227 12.5829 18.1197 12.2839C17.9417 11.7929 17.5577 11.4099 17.0687 11.2339C16.7807 11.1289 16.4997 11.1289 16.0337 11.1289H14.2477C13.7817 11.1289 13.5007 11.1289 13.2147 11.2329C13.0667 11.2859 12.9327 11.3629 12.8067 11.4509C12.6817 11.3629 12.5497 11.2869 12.4027 11.2339C12.1147 11.1289 11.8337 11.1289 11.3677 11.1289H9.58169C9.11569 11.1289 8.83469 11.1289 8.54869 11.2329C8.05469 11.4099 7.67169 11.7929 7.49269 12.2909C7.39069 12.5809 7.39069 12.8589 7.39069 13.3189V13.4207C7.39069 13.5308 7.30164 13.6202 7.19152 13.6211C7.11642 13.6217 7.04468 13.6225 6.97654 13.6237C6.86343 13.6257 6.76969 13.5351 6.76969 13.4219V8.11488C6.76969 8.02742 6.82651 7.95003 6.91012 7.92435C8.3643 7.47764 9.58146 7.22673 10.1677 7.12887ZM12.0567 13.4189C12.0567 13.5293 11.9671 13.6189 11.8567 13.6189H9.09069C8.98023 13.6189 8.89069 13.5293 8.89069 13.4189V13.3189C8.89069 13.0839 8.89069 12.8419 8.90669 12.7919C8.93069 12.7239 8.98569 12.6699 9.05269 12.6459C9.11469 12.6289 9.35169 12.6289 9.58169 12.6289H11.3677C11.5967 12.6289 11.8347 12.6289 11.8927 12.6449C11.9637 12.6689 12.0177 12.7249 12.0397 12.7839C12.0567 12.8369 12.0567 13.0819 12.0567 13.3189V13.4189ZM13.5567 13.3189C13.5567 13.0839 13.5567 12.8419 13.5727 12.7919C13.5967 12.7239 13.6517 12.6699 13.7187 12.6459C13.7807 12.6289 14.0177 12.6289 14.2477 12.6289H16.0337C16.2627 12.6289 16.5007 12.6289 16.5587 12.6449C16.6297 12.6689 16.6837 12.7249 16.7057 12.7839C16.7227 12.8369 16.7227 13.0819 16.7227 13.3189V13.4189C16.7227 13.5293 16.6331 13.6189 16.5227 13.6189H13.7567C13.6462 13.6189 13.5567 13.5293 13.5567 13.4189V13.3189ZM22.2057 16.2899C21.9567 15.2679 21.2687 14.4359 20.3427 13.9809V4.87887C20.3427 4.46487 20.0067 4.12887 19.5927 4.12887C19.1787 4.12887 18.8427 4.46487 18.8427 4.87887V6.13105C18.8427 6.26473 18.7139 6.36075 18.5855 6.32387C17.477 6.00573 16.5313 5.79941 15.9127 5.68887C15.9257 5.27487 15.8507 4.86587 15.6677 4.50987C15.4097 4.00887 14.9897 3.65387 14.4547 3.48287C14.1317 3.37987 13.7867 3.35487 13.4287 3.40787C13.1997 3.45187 12.9957 3.55387 12.8057 3.67587C12.6147 3.55287 12.4087 3.45187 12.1817 3.41687C11.8437 3.35387 11.4927 3.37687 11.1547 3.48487C10.2177 3.79287 9.66469 4.69287 9.69569 5.68987C9.07621 5.80132 8.13241 6.00679 7.0269 6.3239C6.89842 6.36076 6.76969 6.26475 6.76969 6.13108V4.87887C6.76969 4.46487 6.43369 4.12887 6.01969 4.12887C5.60569 4.12887 5.26969 4.46487 5.26969 4.87887V13.9789C4.34569 14.4309 3.65369 15.2649 3.40369 16.2899C3.30469 16.6999 3.30469 17.1439 3.30469 18.0299C3.30469 18.5049 3.30469 18.7679 3.36469 19.0179C3.55169 19.7819 4.14369 20.3699 4.89469 20.5509C5.14669 20.6189 5.39569 20.6189 5.89169 20.6189H19.7177C20.2147 20.6189 20.4637 20.6189 20.7017 20.5549C21.4677 20.3699 22.0597 19.7809 22.2457 19.0169C22.3047 18.7689 22.3047 18.5059 22.3047 18.0299C22.3047 17.1439 22.3047 16.6989 22.2057 16.2899Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.073 7.22517C10.868 8.45617 12.422 9.20217 12.501 9.23817C12.567 9.26917 12.64 9.28517 12.712 9.28517C12.783 9.28517 12.855 9.26917 12.922 9.23917C12.999 9.20317 14.54 8.46717 15.345 7.22417C15.9264 7.32108 17.1435 7.57009 18.6069 8.01399C18.6908 8.03946 18.748 8.11702 18.748 8.20475V11.5588C18.748 11.6717 18.6546 11.7622 18.5417 11.7603C18.3323 11.7567 18.0912 11.7562 17.796 11.7562H7.62198C7.32908 11.7562 7.08923 11.7567 6.88025 11.7603C6.76736 11.7622 6.67398 11.6717 6.67398 11.5588V8.20476C6.67398 8.11702 6.73116 8.03946 6.81512 8.01399C8.27545 7.57106 9.48968 7.32207 10.073 7.22517ZM22.109 14.4282C21.861 13.4052 21.172 12.5742 20.248 12.1182V4.94517C20.248 4.53117 19.912 4.19517 19.498 4.19517C19.084 4.19517 18.748 4.53117 18.748 4.94517V6.22251C18.748 6.35584 18.6199 6.45181 18.4916 6.41549C17.3786 6.10039 16.434 5.89477 15.816 5.78417C15.83 5.36817 15.756 4.95917 15.572 4.60317C15.314 4.10417 14.895 3.75017 14.359 3.57917C14.038 3.47617 13.686 3.44917 13.335 3.50517C13.102 3.55017 12.897 3.65317 12.712 3.77017C12.527 3.65417 12.318 3.55017 12.089 3.51417C11.755 3.45117 11.4 3.47317 11.064 3.57917C10.468 3.76917 10.007 4.19817 9.76698 4.78417C9.63998 5.09717 9.58998 5.43917 9.60098 5.78517C8.98306 5.89575 8.0405 6.10044 6.93053 6.41529C6.80221 6.45169 6.67398 6.35571 6.67398 6.22232V4.94517C6.67398 4.53117 6.33798 4.19517 5.92398 4.19517C5.50998 4.19517 5.17398 4.53117 5.17398 4.94517V12.1152C4.24898 12.5682 3.55698 13.4022 3.30698 14.4282C3.20898 14.8362 3.20898 15.2802 3.20898 16.1662C3.20898 16.6412 3.20898 16.9042 3.26798 17.1542C3.45598 17.9182 4.04798 18.5072 4.80198 18.6892C4.91698 18.7202 5.03498 18.7352 5.17398 18.7442V19.7752C5.17398 20.1892 5.50998 20.5252 5.92398 20.5252C6.33798 20.5252 6.67398 20.1892 6.67398 19.7752V18.9562C6.67398 18.8457 6.76353 18.7562 6.87398 18.7562H18.548C18.6584 18.7562 18.748 18.8457 18.748 18.9562V19.7752C18.748 20.1892 19.084 20.5252 19.498 20.5252C19.912 20.5252 20.248 20.1892 20.248 19.7752V18.7442C20.383 18.7362 20.497 18.7212 20.606 18.6922C21.371 18.5072 21.963 17.9172 22.149 17.1532C22.209 16.9052 22.209 16.6422 22.209 16.1662C22.209 15.2802 22.209 14.8352 22.109 14.4282Z" fill="black"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -370,6 +960,114 @@ class _HomeAppliancesBedLoveLight {
   /// Bed love — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Bed love',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.7891 5.06641V12.3777" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7891 18.3779V19.8999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.21484 5.06641V12.3777" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.21484 18.3779V19.8999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5173 6.48193C14.8145 5.55471 14.4694 4.49117 13.498 4.17862C13.2468 4.09818 12.9797 4.07914 12.72 4.12336C12.4602 4.16695 12.214 4.34687 12.0027 4.5053C11.7909 4.3481 11.5453 4.16941 11.2855 4.12581C11.0258 4.0816 10.7593 4.10002 10.5075 4.17862C9.53671 4.49424 9.18854 5.55471 9.48574 6.48193C9.94444 7.95197 12.0027 8.91357 12.0027 8.91357C12.0027 8.91357 14.0303 7.96916 14.5173 6.48193Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.50586 6.56885C8.90047 6.65066 7.19473 6.97828 5.21484 7.63428" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.498 6.56885C15.1034 6.65066 16.8092 6.97828 18.7891 7.63428" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 16.291C3 15.4421 3.00002 15.0177 3.08502 14.6676C3.35002 13.5788 4.201 12.7286 5.289 12.4632C5.639 12.3779 6.06402 12.3779 6.91302 12.3779H17.087C17.936 12.3779 18.36 12.3779 18.71 12.4632C19.799 12.7286 20.649 13.5788 20.914 14.6676C21 15.0177 21 15.4421 21 16.291C21 16.7437 21 16.9701 20.954 17.1568C20.813 17.7375 20.359 18.1909 19.779 18.3324C19.592 18.3779 19.365 18.3779 18.913 18.3779H5.08704C4.63404 18.3779 4.40801 18.3779 4.22101 18.3324C3.64001 18.1909 3.18698 17.7375 3.04498 17.1568C2.99998 16.9701 3 16.7437 3 16.291Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bed love 1 icon with style variants.
+class _HomeAppliancesBedLove1Icon {
+  const _HomeAppliancesBedLove1Icon();
+
+  /// bold style
+  _HomeAppliancesBedLove1Bold get bold => const _HomeAppliancesBedLove1Bold();
+  /// bulk style
+  _HomeAppliancesBedLove1Bulk get bulk => const _HomeAppliancesBedLove1Bulk();
+  /// light style
+  _HomeAppliancesBedLove1Light get light => const _HomeAppliancesBedLove1Light();
+  /// outline style
+  _HomeAppliancesBedLove1Outline get outline => const _HomeAppliancesBedLove1Outline();
+  /// twoTone style
+  _HomeAppliancesBedLove1Twotone get twoTone => const _HomeAppliancesBedLove1Twotone();
+  /// broken style
+  _HomeAppliancesBedLove1Broken get broken => const _HomeAppliancesBedLove1Broken();
+}
+
+/// Bed love 1 — bulk style variants.
+class _HomeAppliancesBedLove1Bulk {
+  const _HomeAppliancesBedLove1Bulk();
+
+  /// Bed love 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bed love 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path d="M6.76754 4.88086C6.76754 4.46665 6.43175 4.13086 6.01754 4.13086C5.60332 4.13086 5.26754 4.46665 5.26754 4.88086V7.39752C5.26727 7.40909 5.26727 7.4207 5.26754 7.43233V14.119C5.26754 14.5332 5.60332 14.869 6.01754 14.869C6.43175 14.869 6.76754 14.5332 6.76754 14.119V7.96201C8.47941 7.4303 9.90083 7.16153 10.409 7.09285C10.8195 7.03738 11.1073 6.65965 11.0518 6.24917C10.9963 5.83869 10.6186 5.55089 10.2081 5.60637C9.66446 5.67983 8.35822 5.92694 6.76754 6.39499V4.88086Z" fill="black"/> <path d="M20.3408 4.88086C20.3408 4.46665 20.005 4.13086 19.5908 4.13086C19.1766 4.13086 18.8408 4.46665 18.8408 4.88086V6.3947C17.2505 5.92684 15.9447 5.67982 15.4012 5.60637C14.9907 5.55089 14.613 5.83869 14.5575 6.24917C14.502 6.65965 14.7898 7.03738 15.2003 7.09285C15.7084 7.16151 17.1293 7.4302 18.8408 7.96171V14.119C18.8408 14.5332 19.1766 14.869 19.5908 14.869C20.005 14.869 20.3408 14.5332 20.3408 14.119V7.45681C20.3424 7.42873 20.3423 7.40077 20.3408 7.37303V4.88086Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5626 3.4359C13.345 3.45818 13.0992 3.53597 12.928 3.63679L12.8055 3.70893L12.6053 3.61074C12.3291 3.47532 12.1479 3.43468 11.8204 3.43468C11.4912 3.43468 11.236 3.48379 10.972 3.59791C10.4121 3.83996 10.024 4.26685 9.82515 4.85922C9.65472 5.36689 9.65984 5.98809 9.83871 6.51072C10.1102 7.30383 10.875 8.1345 11.9458 8.79928C12.5547 9.17732 12.7717 9.25349 12.9902 9.16586C13.137 9.10699 13.5276 8.88314 13.8332 8.68271C14.6065 8.17555 15.2583 7.50973 15.5967 6.88151C16.0391 6.05995 15.9914 4.99257 15.4801 4.2761C15.0587 3.68567 14.3135 3.35909 13.5626 3.4359ZM8.9106 11.1557C8.31945 11.2353 7.81505 11.6143 7.5666 12.1654C7.45343 12.4165 7.43267 12.5458 7.41698 13.0974L7.40249 13.6073H7.03039C6.10563 13.6073 5.5771 13.7526 4.90464 14.1915C4.07655 14.732 3.49217 15.6724 3.38228 16.641C3.3678 16.7688 3.35584 17.2893 3.35572 17.7975C3.35556 18.5294 3.36377 18.7617 3.39524 18.914C3.48194 19.3338 3.69278 19.7062 4.01131 20.0021C4.28711 20.2583 4.5376 20.3971 4.94495 20.5193C5.0902 20.5628 5.49427 20.5656 12.6116 20.5729C17.7667 20.5782 20.2054 20.572 20.3815 20.5533C21.3546 20.4497 22.1175 19.6974 22.2279 18.7324C22.2622 18.4327 22.2625 17.2843 22.2283 16.8347C22.1969 16.4198 22.1365 16.1488 21.9965 15.7937C21.8158 15.335 21.5479 14.9412 21.1713 14.5807C20.6831 14.1132 20.0833 13.7939 19.4617 13.6706C19.3276 13.644 19.0508 13.6229 18.7242 13.6142L18.2014 13.6003L18.2011 13.3263C18.2008 12.8728 18.1576 12.4962 18.0819 12.2863C17.8905 11.7556 17.4376 11.3402 16.8846 11.1878C16.7318 11.1458 16.5751 11.1416 15.1289 11.1416C13.3449 11.1416 13.3619 11.1401 12.9942 11.3328L12.8041 11.4324L12.6046 11.3321C12.2234 11.1406 12.2719 11.1452 10.5848 11.1391C9.75408 11.1361 9.00068 11.1435 8.9106 11.1557ZM11.9116 12.6509C12.032 12.6967 12.0565 12.7924 12.0565 13.2188V13.6073H10.4815H8.90657V13.2C8.90657 12.7644 8.92253 12.7012 9.04488 12.6518C9.122 12.6207 11.8298 12.6199 11.9116 12.6509ZM16.5729 12.664C16.6131 12.6848 16.6552 12.7225 16.6664 12.7479C16.6776 12.7733 16.6919 12.977 16.698 13.2007L16.7093 13.6073H15.1316H13.554V13.1922V12.7771L13.6294 12.7017L13.7049 12.6262H15.1024C16.2784 12.6262 16.5115 12.6322 16.5729 12.664Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bed love 1 — broken style variants.
+class _HomeAppliancesBedLove1Broken {
+  const _HomeAppliancesBedLove1Broken();
+
+  /// Bed love 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bed love 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.3105 6.34961C9.70516 6.43142 7.99942 6.75904 6.01953 7.41504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3027 6.34961C15.9081 6.43142 17.6139 6.75904 19.5938 7.41504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8073 14.1191V13.3209C12.8073 12.9112 12.8073 12.7063 12.7482 12.5421C12.6472 12.2617 12.4264 12.0409 12.146 11.94C11.9818 11.8809 11.777 11.8809 11.3673 11.8809H9.58063C9.17094 11.8809 8.9661 11.8809 8.80189 11.94C8.52147 12.0409 8.3007 12.2617 8.19974 12.5421C8.14062 12.7063 8.14062 12.9112 8.14062 13.3209V14.1191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4733 14.1191V13.3209C17.4733 12.9112 17.4733 12.7063 17.4142 12.5421C17.3132 12.2617 17.0925 12.0409 16.812 11.94C16.6478 11.8809 16.443 11.8809 16.0333 11.8809H14.2466C13.837 11.8809 13.6321 11.8809 13.4679 11.94C13.1875 12.0409 12.9667 12.2617 12.8658 12.5421C12.8066 12.7063 12.8066 12.9112 12.8066 13.3209V14.1191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8076 20.1191H5.89459C5.44259 20.1191 5.21563 20.1191 5.02863 20.0736C4.44863 19.9321 3.99464 19.4787 3.85364 18.898C3.80764 18.7113 3.80762 18.4849 3.80762 18.0322C3.80762 17.1833 3.80762 16.7589 3.89362 16.4088C4.15862 15.32 5.00859 14.4698 6.0976 14.2044C6.4476 14.1191 6.87158 14.1191 7.72058 14.1191H17.8946C18.7436 14.1191 19.1686 14.1191 19.5186 14.2044C20.6066 14.4698 21.4576 15.32 21.7226 16.4088C21.8076 16.7589 21.8076 17.1833 21.8076 18.0322C21.8076 18.4846 21.8076 18.7114 21.7626 18.898C21.6206 19.4787 21.1676 19.9321 20.5866 20.0736C20.3996 20.1191 20.1736 20.1191 19.7206 20.1191H16.2641" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.5938 4.88001V14.1191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.01953 4.88001V14.1191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.322 6.26269C15.6192 5.33547 15.2741 4.27193 14.3026 3.95938C14.0515 3.87894 13.7844 3.85991 13.5246 3.90412C13.2649 3.94772 13.0187 4.12763 12.8074 4.28606C12.5956 4.12886 12.35 3.95017 12.0902 3.90657C11.8305 3.86236 11.564 3.88078 11.3122 3.95938C10.3414 4.275 9.99323 5.33547 10.2904 6.26269C10.7491 7.73273 12.8074 8.69434 12.8074 8.69434C12.8074 8.69434 14.835 7.74992 15.322 6.26269Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bed love 1 — twoTone style variants.
+class _HomeAppliancesBedLove1Twotone {
+  const _HomeAppliancesBedLove1Twotone();
+
+  /// Bed love 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bed love 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.30469 18.0322C3.30469 17.1833 3.30469 16.7589 3.38999 16.4088C3.65534 15.32 4.50551 14.4698 5.59439 14.2044C5.94442 14.1191 6.36886 14.1191 7.21773 14.1191H17.3916C18.2405 14.1191 18.665 14.1191 19.015 14.2044C20.1039 14.4698 20.954 15.32 21.2194 16.4088C21.3047 16.7589 21.3047 17.1833 21.3047 18.0322C21.3047 18.4849 21.3047 18.7113 21.2592 18.898C21.1177 19.4787 20.6642 19.9321 20.0835 20.0736C19.8968 20.1191 19.6705 20.1191 19.2177 20.1191H5.39164C4.93891 20.1191 4.71254 20.1191 4.52586 20.0736C3.94513 19.9321 3.4917 19.4787 3.35018 18.898C3.30469 18.7113 3.30469 18.4849 3.30469 18.0322Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.51953 14.119V4.88086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.0928 4.88086V14.119" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.81055 6.34961C9.20516 6.43142 7.49942 6.75904 5.51953 7.41504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.8027 6.34961C15.4081 6.43142 17.1139 6.75904 19.0938 7.41504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.3073 13.3209V14.1191M12.3073 13.3209C12.3073 12.9112 12.3073 12.7063 12.2482 12.5421C12.1472 12.2617 11.9264 12.0409 11.646 11.94C11.4818 11.8809 11.277 11.8809 10.8673 11.8809H9.08063C8.67094 11.8809 8.4661 11.8809 8.30189 11.94C8.02147 12.0409 7.8007 12.2617 7.69974 12.5421C7.64062 12.7063 7.64062 12.9112 7.64062 13.3209V14.1191H12.3073M12.3073 13.3209C12.3073 12.9112 12.3066 12.7063 12.3658 12.5421C12.4667 12.2617 12.6875 12.0409 12.9679 11.94C13.1321 11.8809 13.337 11.8809 13.7466 11.8809H15.5333C15.943 11.8809 16.1478 11.8809 16.312 11.94C16.5925 12.0409 16.8132 12.2617 16.9142 12.5421C16.9733 12.7063 16.9733 12.9112 16.9733 13.3209V14.1191H12.3073" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.821 6.26269C15.1182 5.33547 14.7731 4.27193 13.8017 3.95938C13.5505 3.87894 13.2834 3.85991 13.0237 3.90412C12.7639 3.94772 12.5177 4.12763 12.3064 4.28606C12.0946 4.12886 11.849 3.95017 11.5892 3.90657C11.3295 3.86236 11.063 3.88078 10.8112 3.95938C9.84042 4.275 9.49225 5.33547 9.78945 6.26269C10.2481 7.73273 12.3064 8.69434 12.3064 8.69434C12.3064 8.69434 14.334 7.74992 14.821 6.26269Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bed love 1 — outline style variants.
+class _HomeAppliancesBedLove1Outline {
+  const _HomeAppliancesBedLove1Outline();
+
+  /// Bed love 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bed love 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.80744 13.3689C6.84215 13.3689 6.87738 13.3689 6.91313 13.3689H17.087C17.1228 13.3689 17.158 13.3689 17.1927 13.3689C17.9395 13.3687 18.4488 13.3685 18.888 13.4756C20.2491 13.8073 21.3118 14.87 21.6435 16.2311C21.7505 16.6702 21.7503 17.1796 21.7501 17.9263C21.7501 17.961 21.7501 17.9962 21.7501 18.032C21.7501 18.0588 21.7501 18.0853 21.7501 18.1115C21.7505 18.4849 21.7507 18.7985 21.6833 19.0753C21.4754 19.9283 20.8094 20.5943 19.9565 20.8021C19.6797 20.8696 19.3661 20.8693 18.9926 20.869C18.9664 20.869 18.9399 20.8689 18.9131 20.8689H5.08705C5.06025 20.8689 5.03375 20.869 5.00755 20.869C4.6341 20.8693 4.32052 20.8696 4.04369 20.8021C3.19074 20.5943 2.52477 19.9283 2.31691 19.0753C2.24945 18.7985 2.24972 18.4849 2.25004 18.1114C2.25007 18.0853 2.25009 18.0588 2.25009 18.032C2.25009 17.9962 2.25008 17.961 2.25007 17.9263C2.24984 17.1796 2.24969 16.6702 2.35671 16.2311C2.68841 14.87 3.75112 13.8073 5.11222 13.4756C5.5514 13.3685 6.06072 13.3687 6.80744 13.3689ZM6.91313 14.8689C6.0203 14.8689 5.70783 14.8743 5.46737 14.9329C4.65071 15.1319 4.01308 15.7696 3.81406 16.5862C3.75547 16.8267 3.75009 17.1391 3.75009 18.032C3.75009 18.5287 3.75547 18.6431 3.77426 18.7202C3.84944 19.0287 4.09033 19.2696 4.39884 19.3448C4.47596 19.3636 4.59034 19.3689 5.08705 19.3689H18.9131C19.4098 19.3689 19.5242 19.3636 19.6013 19.3448C19.9099 19.2696 20.1507 19.0287 20.2259 18.7202C20.2447 18.6431 20.2501 18.5287 20.2501 18.032C20.2501 17.1391 20.2447 16.8267 20.1861 16.5862C19.9871 15.7696 19.3495 15.1319 18.5328 14.9329C18.2924 14.8743 17.9799 14.8689 17.087 14.8689H6.91313Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.21484 4.13086C5.62906 4.13086 5.96484 4.46665 5.96484 4.88086V14.119C5.96484 14.5332 5.62906 14.869 5.21484 14.869C4.80063 14.869 4.46484 14.5332 4.46484 14.119V4.88086C4.46484 4.46665 4.80063 4.13086 5.21484 4.13086Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7881 4.13086C19.2023 4.13086 19.5381 4.46665 19.5381 4.88086V14.119C19.5381 14.5332 19.2023 14.869 18.7881 14.869C18.3739 14.869 18.0381 14.5332 18.0381 14.119V4.88086C18.0381 4.46665 18.3739 4.13086 18.7881 4.13086Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.594 3.16461C12.9723 3.10036 13.3607 3.12819 13.7258 3.24513C15.2063 3.72146 15.6138 5.29616 15.2306 6.49162L15.2291 6.49607C14.912 7.46477 14.1284 8.18885 13.5239 8.63816C13.2092 8.8721 12.913 9.05336 12.6954 9.17641C12.5861 9.2382 12.4953 9.28602 12.4303 9.31913C12.3978 9.3357 12.3716 9.34863 12.3527 9.35783L12.3299 9.36884L12.3227 9.37223L12.3202 9.3734L12.3193 9.37384C12.3191 9.37393 12.3185 9.37421 12.0018 8.69434C11.6844 9.37384 11.6842 9.37376 11.684 9.37367L11.6827 9.37304L11.6802 9.37187L11.673 9.36847L11.65 9.35737C11.631 9.34808 11.6045 9.335 11.5717 9.31825C11.5061 9.28478 11.4144 9.23642 11.304 9.17404C11.0842 9.04983 10.7853 8.86709 10.4686 8.63219C9.86349 8.18343 9.07284 7.45682 8.76973 6.48885C8.38677 5.28969 8.8015 3.72509 10.2747 3.24613L10.2831 3.24341C10.6465 3.12995 11.0324 3.10299 11.4097 3.16708C11.6279 3.20385 11.8292 3.28945 12.0001 3.3839C12.1719 3.28827 12.3743 3.20163 12.594 3.16461ZM12.0018 8.69434L11.684 9.37367C11.8849 9.46754 12.1182 9.46748 12.3193 9.37384L12.0018 8.69434ZM12.0017 7.84519C12.1742 7.74584 12.3966 7.60705 12.6291 7.43429C13.1594 7.04015 13.6325 6.54925 13.8029 6.03153C14.0127 5.37378 13.7294 4.82234 13.2678 4.6735C13.131 4.62976 12.9857 4.61952 12.8449 4.64348L12.8432 4.64377C12.7947 4.65191 12.6938 4.70456 12.4518 4.88606C12.1863 5.08521 11.8214 5.08614 11.5549 4.88835C11.3109 4.70733 11.2107 4.65465 11.1605 4.64623L11.1588 4.64594C11.0182 4.62202 10.873 4.63145 10.7344 4.67399C10.2696 4.82781 9.98973 5.38078 10.199 6.03377L10.2008 6.03928C10.357 6.53998 10.8239 7.02824 11.3621 7.42737C11.5987 7.60287 11.826 7.74421 12.0017 7.84519Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.249 6.24926C10.1935 5.83877 9.81581 5.55098 9.40533 5.60645C8.75282 5.69463 7.00177 6.03294 4.97887 6.70319C4.58568 6.83346 4.37254 7.25782 4.50282 7.65101C4.63309 8.04421 5.05745 8.25734 5.45064 8.12707C7.38752 7.48532 9.04795 7.16839 9.60621 7.09294C10.0167 7.03747 10.3045 6.65974 10.249 6.24926Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7549 6.24926C13.8104 5.83877 14.1881 5.55098 14.5986 5.60645C15.2511 5.69463 17.0021 6.03294 19.025 6.70319C19.4182 6.83346 19.6314 7.25782 19.5011 7.65101C19.3708 8.04421 18.9465 8.25734 18.5533 8.12707C16.6164 7.48532 14.956 7.16839 14.3977 7.09294C13.9872 7.03747 13.6994 6.65974 13.7549 6.24926Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.69143 11.1308C8.71975 11.1308 8.74795 11.1309 8.77599 11.1309H10.5627C10.5907 11.1309 10.6189 11.1308 10.6472 11.1308C10.9675 11.1299 11.3029 11.129 11.5954 11.2344L11.3414 11.94L11.5954 11.2344C12.0862 11.411 12.4725 11.7974 12.6492 12.2881C12.7545 12.5807 12.7536 12.9161 12.7528 13.2364C12.7527 13.2647 12.7527 13.2929 12.7527 13.3209V14.1192C12.7527 14.5334 12.4169 14.8692 12.0027 14.8692C11.5884 14.8692 11.2527 14.5334 11.2527 14.1192V13.3209C11.2527 13.1071 11.2523 12.9797 11.2466 12.8845C11.2431 12.8252 11.2382 12.7998 11.2368 12.7933C11.2115 12.7256 11.158 12.6721 11.0902 12.6467C11.0838 12.6453 11.0584 12.6405 10.9991 12.637C10.9039 12.6312 10.7765 12.6309 10.5627 12.6309H8.77599C8.56214 12.6309 8.4348 12.6312 8.33957 12.637C8.28024 12.6405 8.25487 12.6453 8.24843 12.6467C8.18065 12.6721 8.12717 12.7256 8.10183 12.7933C8.1004 12.7998 8.0956 12.8252 8.09203 12.8845C8.08631 12.9797 8.08599 13.1071 8.08599 13.3209V14.1192C8.08599 14.5334 7.7502 14.8692 7.33599 14.8692C6.92178 14.8692 6.58599 14.5334 6.58599 14.1192V13.3209C6.58599 13.2929 6.58592 13.2647 6.58584 13.2364C6.58501 12.9161 6.58413 12.5807 6.68945 12.2881C6.86612 11.7974 7.25247 11.411 7.7432 11.2344C8.03574 11.129 8.37118 11.1299 8.69143 11.1308Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3574 11.1308C13.3858 11.1308 13.414 11.1309 13.442 11.1309H15.2287C15.2567 11.1309 15.2849 11.1308 15.3132 11.1308C15.6335 11.1299 15.9689 11.129 16.2615 11.2344L16.0074 11.94L16.2615 11.2344C16.7522 11.411 17.1385 11.7974 17.3152 12.2881C17.4205 12.5807 17.4197 12.9161 17.4188 13.2364C17.4187 13.2647 17.4187 13.2929 17.4187 13.3209V14.1192C17.4187 14.5334 17.0829 14.8692 16.6687 14.8692C16.2545 14.8692 15.9187 14.5334 15.9187 14.1192V13.3209C15.9187 13.1071 15.9184 12.9797 15.9126 12.8845C15.9091 12.8252 15.9043 12.7998 15.9028 12.7933C15.8775 12.7256 15.824 12.6721 15.7562 12.6467C15.7498 12.6453 15.7244 12.6405 15.6651 12.637C15.5699 12.6312 15.4425 12.6309 15.2287 12.6309H13.442C13.2282 12.6309 13.1008 12.6312 13.0056 12.637C12.9463 12.6405 12.9209 12.6453 12.9144 12.6467C12.8467 12.6721 12.7932 12.7256 12.7678 12.7933C12.7664 12.7998 12.7616 12.8252 12.758 12.8845C12.7523 12.9797 12.752 13.1071 12.752 13.3209V14.1192C12.752 14.5334 12.4162 14.8692 12.002 14.8692C11.5878 14.8692 11.252 14.5334 11.252 14.1192V13.3209C11.252 13.2929 11.2519 13.2647 11.2519 13.2364C11.251 12.9161 11.2501 12.5807 11.3555 12.2881C11.5321 11.7974 11.9185 11.411 12.4092 11.2344C12.7018 11.129 13.0372 11.1299 13.3574 11.1308Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bed love 1 — bold style variants.
+class _HomeAppliancesBedLove1Bold {
+  const _HomeAppliancesBedLove1Bold();
+
+  /// Bed love 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bed love 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1677 7.12887C10.9637 8.35887 12.5167 9.10587 12.5947 9.14187C12.6617 9.17287 12.7337 9.18887 12.8057 9.18887C12.8777 9.18887 12.9497 9.17287 13.0157 9.14287C13.0927 9.10587 14.6357 8.37087 15.4407 7.12787C16.025 7.22477 17.2451 7.47661 18.7023 7.92434C18.7859 7.95003 18.8427 8.02741 18.8427 8.11488V13.4219C18.8427 13.535 18.7489 13.6257 18.6358 13.6237C18.568 13.6225 18.4966 13.6217 18.4219 13.6211C18.3117 13.6202 18.2227 13.5308 18.2227 13.4207V13.3189C18.2227 12.8449 18.2227 12.5829 18.1197 12.2839C17.9417 11.7929 17.5577 11.4099 17.0687 11.2339C16.7807 11.1289 16.4997 11.1289 16.0337 11.1289H14.2477C13.7817 11.1289 13.5007 11.1289 13.2147 11.2329C13.0667 11.2859 12.9327 11.3629 12.8067 11.4509C12.6817 11.3629 12.5497 11.2869 12.4027 11.2339C12.1147 11.1289 11.8337 11.1289 11.3677 11.1289H9.58169C9.11569 11.1289 8.83469 11.1289 8.54869 11.2329C8.05469 11.4099 7.67169 11.7929 7.49269 12.2909C7.39069 12.5809 7.39069 12.8589 7.39069 13.3189V13.4207C7.39069 13.5308 7.30164 13.6202 7.19152 13.6211C7.11642 13.6217 7.04468 13.6225 6.97654 13.6237C6.86343 13.6257 6.76969 13.5351 6.76969 13.4219V8.11488C6.76969 8.02742 6.82651 7.95003 6.91012 7.92435C8.3643 7.47764 9.58146 7.22673 10.1677 7.12887ZM12.0567 13.4189C12.0567 13.5293 11.9671 13.6189 11.8567 13.6189H9.09069C8.98023 13.6189 8.89069 13.5293 8.89069 13.4189V13.3189C8.89069 13.0839 8.89069 12.8419 8.90669 12.7919C8.93069 12.7239 8.98569 12.6699 9.05269 12.6459C9.11469 12.6289 9.35169 12.6289 9.58169 12.6289H11.3677C11.5967 12.6289 11.8347 12.6289 11.8927 12.6449C11.9637 12.6689 12.0177 12.7249 12.0397 12.7839C12.0567 12.8369 12.0567 13.0819 12.0567 13.3189V13.4189ZM13.5567 13.3189C13.5567 13.0839 13.5567 12.8419 13.5727 12.7919C13.5967 12.7239 13.6517 12.6699 13.7187 12.6459C13.7807 12.6289 14.0177 12.6289 14.2477 12.6289H16.0337C16.2627 12.6289 16.5007 12.6289 16.5587 12.6449C16.6297 12.6689 16.6837 12.7249 16.7057 12.7839C16.7227 12.8369 16.7227 13.0819 16.7227 13.3189V13.4189C16.7227 13.5293 16.6331 13.6189 16.5227 13.6189H13.7567C13.6462 13.6189 13.5567 13.5293 13.5567 13.4189V13.3189ZM22.2057 16.2899C21.9567 15.2679 21.2687 14.4359 20.3427 13.9809V4.87887C20.3427 4.46487 20.0067 4.12887 19.5927 4.12887C19.1787 4.12887 18.8427 4.46487 18.8427 4.87887V6.13105C18.8427 6.26473 18.7139 6.36075 18.5855 6.32387C17.477 6.00573 16.5313 5.79941 15.9127 5.68887C15.9257 5.27487 15.8507 4.86587 15.6677 4.50987C15.4097 4.00887 14.9897 3.65387 14.4547 3.48287C14.1317 3.37987 13.7867 3.35487 13.4287 3.40787C13.1997 3.45187 12.9957 3.55387 12.8057 3.67587C12.6147 3.55287 12.4087 3.45187 12.1817 3.41687C11.8437 3.35387 11.4927 3.37687 11.1547 3.48487C10.2177 3.79287 9.66469 4.69287 9.69569 5.68987C9.07621 5.80132 8.13241 6.00679 7.0269 6.3239C6.89842 6.36076 6.76969 6.26475 6.76969 6.13108V4.87887C6.76969 4.46487 6.43369 4.12887 6.01969 4.12887C5.60569 4.12887 5.26969 4.46487 5.26969 4.87887V13.9789C4.34569 14.4309 3.65369 15.2649 3.40369 16.2899C3.30469 16.6999 3.30469 17.1439 3.30469 18.0299C3.30469 18.5049 3.30469 18.7679 3.36469 19.0179C3.55169 19.7819 4.14369 20.3699 4.89469 20.5509C5.14669 20.6189 5.39569 20.6189 5.89169 20.6189H19.7177C20.2147 20.6189 20.4637 20.6189 20.7017 20.5549C21.4677 20.3699 22.0597 19.7809 22.2457 19.0169C22.3047 18.7689 22.3047 18.5059 22.3047 18.0299C22.3047 17.1439 22.3047 16.6989 22.2057 16.2899Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bed love 1 — light style variants.
+class _HomeAppliancesBedLove1Light {
+  const _HomeAppliancesBedLove1Light();
+
+  /// Bed love 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bed love 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 18.0322C3 17.1833 3 16.7589 3.0853 16.4088C3.35065 15.32 4.20083 14.4698 5.28971 14.2044C5.63973 14.1191 6.06417 14.1191 6.91304 14.1191H17.087C17.9358 14.1191 18.3603 14.1191 18.7103 14.2044C19.7992 14.4698 20.6493 15.32 20.9147 16.4088C21 16.7589 21 17.1833 21 18.0322C21 18.4849 21 18.7113 20.9545 18.898C20.813 19.4787 20.3596 19.9321 19.7788 20.0736C19.5921 20.1191 19.3658 20.1191 18.913 20.1191H5.08696C4.63422 20.1191 4.40786 20.1191 4.22118 20.0736C3.64044 19.9321 3.18701 19.4787 3.04549 18.898C3 18.7113 3 18.4849 3 18.0322Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.21484 14.119V4.88086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7881 4.88086V14.119" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5163 6.26269C14.8135 5.33547 14.4684 4.27193 13.497 3.95938C13.2458 3.87894 12.9787 3.85991 12.719 3.90412C12.4592 3.94772 12.213 4.12763 12.0018 4.28606C11.7899 4.12886 11.5443 3.95017 11.2845 3.90657C11.0248 3.86236 10.7583 3.88078 10.5065 3.95938C9.53573 4.275 9.18756 5.33547 9.48476 6.26269C9.94346 7.73273 12.0018 8.69434 12.0018 8.69434C12.0018 8.69434 14.0294 7.74992 14.5163 6.26269Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.50586 6.34961C8.90047 6.43142 7.19473 6.75904 5.21484 7.41504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.498 6.34961C15.1034 6.43142 16.8092 6.75904 18.7891 7.41504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0026 14.1191V13.3209C12.0026 12.9112 12.0026 12.7063 11.9435 12.5421C11.8425 12.2617 11.6218 12.0409 11.3413 11.94C11.1771 11.8809 10.9723 11.8809 10.5626 11.8809H8.77594C8.36625 11.8809 8.16141 11.8809 7.9972 11.94C7.71678 12.0409 7.49601 12.2617 7.39506 12.5421C7.33594 12.7063 7.33594 12.9112 7.33594 13.3209V14.1191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.6686 14.1191V13.3209C16.6686 12.9112 16.6686 12.7063 16.6095 12.5421C16.5085 12.2617 16.2878 12.0409 16.0074 11.94C15.8431 11.8809 15.6383 11.8809 15.2286 11.8809H13.442C13.0323 11.8809 12.8274 11.8809 12.6632 11.94C12.3828 12.0409 12.162 12.2617 12.0611 12.5421C12.002 12.7063 12.002 12.9112 12.002 13.3209V14.1191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.light,
@@ -511,7 +1209,7 @@ class _HomeAppliancesDrawerBulk {
   /// Drawer — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Drawer',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.849 11.25C21.0147 11.25 21.149 11.1157 21.149 10.95V8.03C21.149 4.722 19.026 2.5 15.866 2.5H8.13301C4.97401 2.5 2.85101 4.722 2.85101 8.03V10.95C2.85101 11.1157 2.98533 11.25 3.15101 11.25H20.849Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.15101 12.7495C2.98533 12.7495 2.85101 12.8838 2.85101 13.0495V15.9695C2.85101 19.2775 4.97401 21.4995 8.13301 21.4995H15.865C19.025 21.4995 21.149 19.2775 21.149 15.9695V13.0495C21.149 12.8838 21.0147 12.7495 20.849 12.7495H3.15101Z" fill="black"/> </g> <path d="M13.958 7.0293H10.045C9.63098 7.0293 9.29498 7.3653 9.29498 7.7793C9.29498 8.1933 9.63098 8.5293 10.045 8.5293H13.958C14.372 8.5293 14.708 8.1933 14.708 7.7793C14.708 7.3653 14.372 7.0293 13.958 7.0293Z" fill="black"/> <path d="M10.045 16.9688H13.958C14.372 16.9688 14.708 16.6328 14.708 16.2188C14.708 15.8048 14.372 15.4688 13.958 15.4688H10.045C9.63098 15.4688 9.29498 15.8048 9.29498 16.2188C9.29498 16.6328 9.63098 16.9688 10.045 16.9688Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path d="M21.4998 10.3258C21.4998 10.4915 21.3654 10.6258 21.1998 10.6258H2.79976C2.63407 10.6258 2.49976 10.4915 2.49976 10.3258V8.00582C2.49976 5.43882 4.15276 3.71582 6.61176 3.71582H17.3878C19.8478 3.71582 21.4998 5.43882 21.4998 8.00582V10.3258Z" fill="black"/> <path d="M2.50037 12.4255C2.50037 12.2598 2.63468 12.1255 2.80037 12.1255H21.2004C21.3661 12.1255 21.5004 12.2598 21.5004 12.4255V14.0055C21.5004 15.8595 20.6324 17.2615 19.2324 17.9075C18.6332 18.2292 18.2479 18.3366 17.3864 18.3055H6.61137C6.00251 18.3055 5.32001 18.1613 4.76813 17.9092L4.76737 17.9085C3.36737 17.2625 2.50037 15.8595 2.50037 14.0055V12.4255Z" fill="black"/> </g> <path d="M13.0307 7.07617H10.9707C10.5567 7.07617 10.2207 7.41217 10.2207 7.82617C10.2207 8.24017 10.5567 8.57617 10.9707 8.57617H13.0307C13.4447 8.57617 13.7807 8.24017 13.7807 7.82617C13.7807 7.41217 13.4447 7.07617 13.0307 7.07617Z" fill="black"/> <path d="M10.9703 15.2158H13.0303C13.4443 15.2158 13.7803 14.8798 13.7803 14.4658C13.7803 14.0518 13.4443 13.7158 13.0303 13.7158H10.9703C10.5563 13.7158 10.2203 14.0518 10.2203 14.4658C10.2203 14.8798 10.5563 15.2158 10.9703 15.2158Z" fill="black"/> <path d="M5.51807 20.2852C5.93228 20.2852 6.26807 19.9494 6.26807 19.5352V18.2779C5.71974 18.2407 5.21629 18.1145 4.76807 17.9097L4.76807 19.5352C4.76807 19.9494 5.10385 20.2852 5.51807 20.2852Z" fill="black"/> <path d="M19.2329 17.9092V19.5352C19.2329 19.9494 18.8971 20.2852 18.4829 20.2852C18.0687 20.2852 17.7329 19.9494 17.7329 19.5352V18.2778C18.2813 18.2405 18.7848 18.1141 19.2329 17.9092Z" fill="black"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -526,7 +1224,7 @@ class _HomeAppliancesDrawerBroken {
   /// Drawer — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Drawer',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.13275 3C5.1934 3 3.35059 5.08119 3.35059 8.02638V15.9736C3.35059 18.9188 5.18464 21 8.13275 21H15.865C18.814 21 20.6491 18.9188 20.6491 15.9736V8.02638C20.6491 5.08119 18.814 3 15.8659 3H11.5051" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.0449 7.77734H13.9582M10.0449 16.2224H13.9582" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.46484 12L17.8109 12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.9995 4.33691H17.3883C19.6145 4.33691 21 5.90827 21 8.13248V14.1338C21 16.357 19.6145 17.9284 17.3874 17.9284H6.6107C4.38454 17.9284 3 16.357 3 14.1338V8.13248C3 5.90827 4.39135 4.33691 6.6107 4.33691H8.51223" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.51758 19.6631V17.8027" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.4824 19.6631V17.8027" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.9707 14.5908H13.0305" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.9707 7.9502H13.0305" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.501H18.2392" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -541,7 +1239,7 @@ class _HomeAppliancesDrawerTwotone {
   /// Drawer — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Drawer',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.63275 3H16.3659C19.314 3 21.1491 5.08119 21.1491 8.02638V15.9736C21.1491 18.9188 19.314 21 16.365 21H8.63275C5.68464 21 3.85059 18.9188 3.85059 15.9736V8.02638C3.85059 5.08119 5.6934 3 8.63275 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.5449 7.77734H14.4582M10.5449 16.2224H14.4582" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.96484 12H21.0347" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.1107 4.33691H17.8883C20.1145 4.33691 21.5 5.90827 21.5 8.13248V14.1338C21.5 16.357 20.1145 17.9284 17.8874 17.9284H7.1107C4.88454 17.9284 3.5 16.357 3.5 14.1338V8.13248C3.5 5.90827 4.89135 4.33691 7.1107 4.33691Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.01758 19.6631V17.8027" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.9824 19.6631V17.8027" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.4707 14.5908H13.5305" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.4707 7.9502H13.5305" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.5 11.501H21.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -556,7 +1254,7 @@ class _HomeAppliancesDrawerOutline {
   /// Drawer — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Drawer',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.09078 3.89737C5.07527 2.84117 6.47728 2.25 8.13275 2.25H15.8659C17.5253 2.25 18.9279 2.84084 19.9119 3.89765C20.8903 4.94841 21.3991 6.39889 21.3991 8.02638V15.9736C21.3991 17.6011 20.8903 19.0516 19.9118 20.1024C18.9276 21.1592 17.5247 21.75 15.865 21.75H8.13275C6.47339 21.75 5.07097 21.1591 4.08716 20.1023C3.109 19.0515 2.60059 17.601 2.60059 15.9736V8.02638C2.60059 6.39806 3.11175 4.94771 4.09078 3.89737ZM5.18804 4.92012C4.51083 5.64666 4.10059 6.70951 4.10059 8.02638V15.9736C4.10059 17.2914 4.5092 18.3541 5.18509 19.0802C5.85534 19.8003 6.844 20.25 8.13275 20.25H15.865C17.1543 20.25 18.1435 19.8002 18.8141 19.0801C19.4903 18.354 19.8991 17.2913 19.8991 15.9736V8.02638C19.8991 6.70868 19.4903 5.64597 18.8142 4.91984C18.1436 4.19975 17.1547 3.75 15.8659 3.75H8.13275C6.84887 3.75 5.8598 4.19943 5.18804 4.92012Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.29492 7.77734C9.29492 7.36313 9.63071 7.02734 10.0449 7.02734H13.9582C14.3724 7.02734 14.7082 7.36313 14.7082 7.77734C14.7082 8.19156 14.3724 8.52734 13.9582 8.52734H10.0449C9.63071 8.52734 9.29492 8.19156 9.29492 7.77734ZM9.29492 16.2224C9.29492 15.8082 9.63071 15.4724 10.0449 15.4724H13.9582C14.3724 15.4724 14.7082 15.8082 14.7082 16.2224C14.7082 16.6367 14.3724 16.9724 13.9582 16.9724H10.0449C9.63071 16.9724 9.29492 16.6367 9.29492 16.2224Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.71484 12C2.71484 11.5858 3.05063 11.25 3.46484 11.25H20.5347C20.9489 11.25 21.2847 11.5858 21.2847 12C21.2847 12.4142 20.9489 12.75 20.5347 12.75H3.46484C3.05063 12.75 2.71484 12.4142 2.71484 12Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.42444 4.88926C4.20607 4.05062 5.31524 3.58691 6.6107 3.58691H17.3883C18.6867 3.58691 19.7964 4.05028 20.5779 4.88953C21.3537 5.72273 21.75 6.86552 21.75 8.13248V14.1338C21.75 15.4003 21.3536 16.5429 20.5777 17.376C19.7961 18.2151 18.6861 18.6784 17.3874 18.6784H6.6107C5.31234 18.6784 4.20278 18.215 3.42159 17.3758C2.64604 16.5427 2.25 15.4002 2.25 14.1338V8.13248C2.25 6.86469 2.64827 5.72205 3.42444 4.88926ZM4.52175 5.91197C4.0474 6.42091 3.75 7.17606 3.75 8.13248V14.1338C3.75 15.0906 4.04623 15.8454 4.51949 16.3538C4.98711 16.8561 5.6829 17.1784 6.6107 17.1784H17.3874C18.3158 17.1784 19.0121 16.856 19.48 16.3536C19.9536 15.8452 20.25 15.0905 20.25 14.1338V8.13248C20.25 7.17523 19.9536 6.42023 19.4801 5.9117C19.0122 5.40922 18.3161 5.08691 17.3883 5.08691H6.6107C5.68682 5.08691 4.99063 5.40888 4.52175 5.91197Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.51758 17.0527C5.93179 17.0527 6.26758 17.3885 6.26758 17.8027V19.6631C6.26758 20.0773 5.93179 20.4131 5.51758 20.4131C5.10336 20.4131 4.76758 20.0773 4.76758 19.6631V17.8027C4.76758 17.3885 5.10336 17.0527 5.51758 17.0527Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4824 17.0527C18.8966 17.0527 19.2324 17.3885 19.2324 17.8027V19.6631C19.2324 20.0773 18.8966 20.4131 18.4824 20.4131C18.0682 20.4131 17.7324 20.0773 17.7324 19.6631V17.8027C17.7324 17.3885 18.0682 17.0527 18.4824 17.0527Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.2207 14.5908C10.2207 14.1766 10.5565 13.8408 10.9707 13.8408H13.0305C13.4447 13.8408 13.7805 14.1766 13.7805 14.5908C13.7805 15.005 13.4447 15.3408 13.0305 15.3408H10.9707C10.5565 15.3408 10.2207 15.005 10.2207 14.5908Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.2207 7.9502C10.2207 7.53598 10.5565 7.2002 10.9707 7.2002H13.0305C13.4447 7.2002 13.7805 7.53598 13.7805 7.9502C13.7805 8.36441 13.4447 8.7002 13.0305 8.7002H10.9707C10.5565 8.7002 10.2207 8.36441 10.2207 7.9502Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 11.501C2.25 11.0868 2.58579 10.751 3 10.751H21C21.4142 10.751 21.75 11.0868 21.75 11.501C21.75 11.9152 21.4142 12.251 21 12.251H3C2.58579 12.251 2.25 11.9152 2.25 11.501Z" fill="black"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -571,7 +1269,7 @@ class _HomeAppliancesDrawerBold {
   /// Drawer — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Drawer',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.045 7.03H13.958C14.372 7.03 14.708 7.366 14.708 7.78C14.708 8.194 14.372 8.53 13.958 8.53H10.045C9.63101 8.53 9.29501 8.194 9.29501 7.78C9.29501 7.366 9.63101 7.03 10.045 7.03ZM20.849 11.25C21.0147 11.25 21.149 11.1157 21.149 10.95V8.03C21.149 4.722 19.026 2.5 15.866 2.5H8.13301C4.97401 2.5 2.85101 4.722 2.85101 8.03V10.95C2.85101 11.1157 2.98533 11.25 3.15101 11.25H20.849Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.958 16.9695H10.045C9.63101 16.9695 9.29501 16.6335 9.29501 16.2195C9.29501 15.8055 9.63101 15.4695 10.045 15.4695H13.958C14.372 15.4695 14.708 15.8055 14.708 16.2195C14.708 16.6335 14.372 16.9695 13.958 16.9695ZM3.15101 12.7495C2.98533 12.7495 2.85101 12.8838 2.85101 13.0495V15.9695C2.85101 19.2775 4.97401 21.4995 8.13301 21.4995H15.865C19.025 21.4995 21.149 19.2775 21.149 15.9695V13.0495C21.149 12.8838 21.0147 12.7495 20.849 12.7495H3.15101Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9708 7.07484H13.0308C13.4448 7.07484 13.7808 7.41084 13.7808 7.82484C13.7808 8.23884 13.4448 8.57484 13.0308 8.57484H10.9708C10.5568 8.57484 10.2208 8.23884 10.2208 7.82484C10.2208 7.41084 10.5568 7.07484 10.9708 7.07484ZM21.1998 10.6248C21.3654 10.6248 21.4998 10.4905 21.4998 10.3248V8.00484C21.4998 5.43784 19.8478 3.71484 17.3878 3.71484H6.61176C4.15276 3.71484 2.49976 5.43784 2.49976 8.00484V10.3248C2.49976 10.4905 2.63407 10.6248 2.79976 10.6248H21.1998Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0304 15.2145H10.9704C10.5564 15.2145 10.2204 14.8785 10.2204 14.4645C10.2204 14.0505 10.5564 13.7145 10.9704 13.7145H13.0304C13.4444 13.7145 13.7804 14.0505 13.7804 14.4645C13.7804 14.8785 13.4444 15.2145 13.0304 15.2145ZM2.80037 12.1245C2.63468 12.1245 2.50037 12.2588 2.50037 12.4245V14.0045C2.50037 15.8585 3.36737 17.2615 4.76737 17.9075V19.5335C4.76737 19.9475 5.10337 20.2835 5.51737 20.2835C5.93137 20.2835 6.26737 19.9475 6.26737 19.5335V18.2735C6.38337 18.2815 6.49137 18.3045 6.61137 18.3045H17.3864C17.5074 18.3045 17.6164 18.2815 17.7324 18.2735V19.5335C17.7324 19.9475 18.0684 20.2835 18.4824 20.2835C18.8964 20.2835 19.2324 19.9475 19.2324 19.5335V17.9065C20.6324 17.2605 21.5004 15.8585 21.5004 14.0045V12.4245C21.5004 12.2588 21.3661 12.1245 21.2004 12.1245H2.80037Z" fill="black"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -586,6 +1284,114 @@ class _HomeAppliancesDrawerLight {
   /// Drawer — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Drawer',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.6107 4.33691H17.3883C19.6145 4.33691 21 5.90827 21 8.13248V14.1338C21 16.357 19.6145 17.9284 17.3874 17.9284H6.6107C4.38454 17.9284 3 16.357 3 14.1338V8.13248C3 5.90827 4.39135 4.33691 6.6107 4.33691Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.51758 19.6631V17.8027" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.4824 19.6631V17.8027" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.9707 14.5908H13.0305" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.9707 7.9502H13.0305" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.501H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Drawer 1 icon with style variants.
+class _HomeAppliancesDrawer1Icon {
+  const _HomeAppliancesDrawer1Icon();
+
+  /// bold style
+  _HomeAppliancesDrawer1Bold get bold => const _HomeAppliancesDrawer1Bold();
+  /// bulk style
+  _HomeAppliancesDrawer1Bulk get bulk => const _HomeAppliancesDrawer1Bulk();
+  /// light style
+  _HomeAppliancesDrawer1Light get light => const _HomeAppliancesDrawer1Light();
+  /// outline style
+  _HomeAppliancesDrawer1Outline get outline => const _HomeAppliancesDrawer1Outline();
+  /// twoTone style
+  _HomeAppliancesDrawer1Twotone get twoTone => const _HomeAppliancesDrawer1Twotone();
+  /// broken style
+  _HomeAppliancesDrawer1Broken get broken => const _HomeAppliancesDrawer1Broken();
+}
+
+/// Drawer 1 — bulk style variants.
+class _HomeAppliancesDrawer1Bulk {
+  const _HomeAppliancesDrawer1Bulk();
+
+  /// Drawer 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Drawer 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.849 11.25C21.0147 11.25 21.149 11.1157 21.149 10.95V8.03C21.149 4.722 19.026 2.5 15.866 2.5H8.13301C4.97401 2.5 2.85101 4.722 2.85101 8.03V10.95C2.85101 11.1157 2.98533 11.25 3.15101 11.25H20.849Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.15101 12.7495C2.98533 12.7495 2.85101 12.8838 2.85101 13.0495V15.9695C2.85101 19.2775 4.97401 21.4995 8.13301 21.4995H15.865C19.025 21.4995 21.149 19.2775 21.149 15.9695V13.0495C21.149 12.8838 21.0147 12.7495 20.849 12.7495H3.15101Z" fill="black"/> </g> <path d="M13.958 7.0293H10.045C9.63098 7.0293 9.29498 7.3653 9.29498 7.7793C9.29498 8.1933 9.63098 8.5293 10.045 8.5293H13.958C14.372 8.5293 14.708 8.1933 14.708 7.7793C14.708 7.3653 14.372 7.0293 13.958 7.0293Z" fill="black"/> <path d="M10.045 16.9688H13.958C14.372 16.9688 14.708 16.6328 14.708 16.2188C14.708 15.8048 14.372 15.4688 13.958 15.4688H10.045C9.63098 15.4688 9.29498 15.8048 9.29498 16.2188C9.29498 16.6328 9.63098 16.9688 10.045 16.9688Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Drawer 1 — broken style variants.
+class _HomeAppliancesDrawer1Broken {
+  const _HomeAppliancesDrawer1Broken();
+
+  /// Drawer 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Drawer 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.13275 3C5.1934 3 3.35059 5.08119 3.35059 8.02638V15.9736C3.35059 18.9188 5.18464 21 8.13275 21H15.865C18.814 21 20.6491 18.9188 20.6491 15.9736V8.02638C20.6491 5.08119 18.814 3 15.8659 3H11.5051" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.0449 7.77734H13.9582M10.0449 16.2224H13.9582" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.46484 12L17.8109 12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Drawer 1 — twoTone style variants.
+class _HomeAppliancesDrawer1Twotone {
+  const _HomeAppliancesDrawer1Twotone();
+
+  /// Drawer 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Drawer 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.63275 3H16.3659C19.314 3 21.1491 5.08119 21.1491 8.02638V15.9736C21.1491 18.9188 19.314 21 16.365 21H8.63275C5.68464 21 3.85059 18.9188 3.85059 15.9736V8.02638C3.85059 5.08119 5.6934 3 8.63275 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.5449 7.77734H14.4582M10.5449 16.2224H14.4582" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.96484 12H21.0347" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Drawer 1 — outline style variants.
+class _HomeAppliancesDrawer1Outline {
+  const _HomeAppliancesDrawer1Outline();
+
+  /// Drawer 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Drawer 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.09078 3.89737C5.07527 2.84117 6.47728 2.25 8.13275 2.25H15.8659C17.5253 2.25 18.9279 2.84084 19.9119 3.89765C20.8903 4.94841 21.3991 6.39889 21.3991 8.02638V15.9736C21.3991 17.6011 20.8903 19.0516 19.9118 20.1024C18.9276 21.1592 17.5247 21.75 15.865 21.75H8.13275C6.47339 21.75 5.07097 21.1591 4.08716 20.1023C3.109 19.0515 2.60059 17.601 2.60059 15.9736V8.02638C2.60059 6.39806 3.11175 4.94771 4.09078 3.89737ZM5.18804 4.92012C4.51083 5.64666 4.10059 6.70951 4.10059 8.02638V15.9736C4.10059 17.2914 4.5092 18.3541 5.18509 19.0802C5.85534 19.8003 6.844 20.25 8.13275 20.25H15.865C17.1543 20.25 18.1435 19.8002 18.8141 19.0801C19.4903 18.354 19.8991 17.2913 19.8991 15.9736V8.02638C19.8991 6.70868 19.4903 5.64597 18.8142 4.91984C18.1436 4.19975 17.1547 3.75 15.8659 3.75H8.13275C6.84887 3.75 5.8598 4.19943 5.18804 4.92012Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.29492 7.77734C9.29492 7.36313 9.63071 7.02734 10.0449 7.02734H13.9582C14.3724 7.02734 14.7082 7.36313 14.7082 7.77734C14.7082 8.19156 14.3724 8.52734 13.9582 8.52734H10.0449C9.63071 8.52734 9.29492 8.19156 9.29492 7.77734ZM9.29492 16.2224C9.29492 15.8082 9.63071 15.4724 10.0449 15.4724H13.9582C14.3724 15.4724 14.7082 15.8082 14.7082 16.2224C14.7082 16.6367 14.3724 16.9724 13.9582 16.9724H10.0449C9.63071 16.9724 9.29492 16.6367 9.29492 16.2224Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.71484 12C2.71484 11.5858 3.05063 11.25 3.46484 11.25H20.5347C20.9489 11.25 21.2847 11.5858 21.2847 12C21.2847 12.4142 20.9489 12.75 20.5347 12.75H3.46484C3.05063 12.75 2.71484 12.4142 2.71484 12Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Drawer 1 — bold style variants.
+class _HomeAppliancesDrawer1Bold {
+  const _HomeAppliancesDrawer1Bold();
+
+  /// Drawer 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Drawer 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.045 7.03H13.958C14.372 7.03 14.708 7.366 14.708 7.78C14.708 8.194 14.372 8.53 13.958 8.53H10.045C9.63101 8.53 9.29501 8.194 9.29501 7.78C9.29501 7.366 9.63101 7.03 10.045 7.03ZM20.849 11.25C21.0147 11.25 21.149 11.1157 21.149 10.95V8.03C21.149 4.722 19.026 2.5 15.866 2.5H8.13301C4.97401 2.5 2.85101 4.722 2.85101 8.03V10.95C2.85101 11.1157 2.98533 11.25 3.15101 11.25H20.849Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.958 16.9695H10.045C9.63101 16.9695 9.29501 16.6335 9.29501 16.2195C9.29501 15.8055 9.63101 15.4695 10.045 15.4695H13.958C14.372 15.4695 14.708 15.8055 14.708 16.2195C14.708 16.6335 14.372 16.9695 13.958 16.9695ZM3.15101 12.7495C2.98533 12.7495 2.85101 12.8838 2.85101 13.0495V15.9695C2.85101 19.2775 4.97401 21.4995 8.13301 21.4995H15.865C19.025 21.4995 21.149 19.2775 21.149 15.9695V13.0495C21.149 12.8838 21.0147 12.7495 20.849 12.7495H3.15101Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Drawer 1 — light style variants.
+class _HomeAppliancesDrawer1Light {
+  const _HomeAppliancesDrawer1Light();
+
+  /// Drawer 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Drawer 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.13275 3H15.8659C18.814 3 20.6491 5.08119 20.6491 8.02638V15.9736C20.6491 18.9188 18.814 21 15.865 21H8.13275C5.18464 21 3.35059 18.9188 3.35059 15.9736V8.02638C3.35059 5.08119 5.1934 3 8.13275 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.0449 7.77734H13.9582M10.0449 16.2224H13.9582" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.46484 12H20.5347" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.light,
@@ -810,6 +1616,222 @@ class _HomeAppliancesDoubleBedLight {
 
 }
 
+/// Double bed 1 icon with style variants.
+class _HomeAppliancesDoubleBed1Icon {
+  const _HomeAppliancesDoubleBed1Icon();
+
+  /// bold style
+  _HomeAppliancesDoubleBed1Bold get bold => const _HomeAppliancesDoubleBed1Bold();
+  /// bulk style
+  _HomeAppliancesDoubleBed1Bulk get bulk => const _HomeAppliancesDoubleBed1Bulk();
+  /// light style
+  _HomeAppliancesDoubleBed1Light get light => const _HomeAppliancesDoubleBed1Light();
+  /// outline style
+  _HomeAppliancesDoubleBed1Outline get outline => const _HomeAppliancesDoubleBed1Outline();
+  /// twoTone style
+  _HomeAppliancesDoubleBed1Twotone get twoTone => const _HomeAppliancesDoubleBed1Twotone();
+  /// broken style
+  _HomeAppliancesDoubleBed1Broken get broken => const _HomeAppliancesDoubleBed1Broken();
+}
+
+/// Double bed 1 — bulk style variants.
+class _HomeAppliancesDoubleBed1Bulk {
+  const _HomeAppliancesDoubleBed1Bulk();
+
+  /// Double bed 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Double bed 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8415 13.1752C21.6085 12.5232 21.0965 12.0062 20.4145 11.7482C20.0335 11.6182 19.6405 11.6182 18.9265 11.6182H5.53447C4.82047 11.6182 4.42647 11.6182 4.02247 11.7572C3.36447 12.0062 2.85347 12.5232 2.62047 13.1712C2.48047 13.5552 2.48047 13.9502 2.48047 14.6682V19.3682C2.48047 19.7822 2.81647 20.1182 3.23047 20.1182C3.64447 20.1182 3.98047 19.7822 3.98047 19.3682V19.0782C3.98047 18.9677 4.07001 18.8782 4.18047 18.8782H20.2805C20.3909 18.8782 20.4805 18.9677 20.4805 19.0782V19.3682C20.4805 19.7822 20.8165 20.1182 21.2305 20.1182C21.6445 20.1182 21.9805 19.7822 21.9805 19.3682V14.6682C21.9805 13.9502 21.9805 13.5552 21.8415 13.1752Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M4.81177 10.6109H19.6518C19.9218 10.6109 20.1518 10.3809 20.1518 10.1109V6.89086C20.1518 6.12086 20.1518 5.73086 20.0218 5.37086C19.7918 4.74086 19.2918 4.24086 18.6718 4.02086C18.3018 3.88086 17.9118 3.88086 17.1318 3.88086H7.33177C6.55177 3.88086 6.16177 3.88086 5.80177 4.02086C5.17177 4.24086 4.67177 4.73086 4.44177 5.37086C4.31177 5.73086 4.31177 6.12086 4.31177 6.89086V10.1109C4.31177 10.3809 4.53177 10.6109 4.81177 10.6109Z" fill="black"/> <path d="M10.1618 7.93164H8.18176C7.77176 7.93164 7.43176 8.26164 7.43176 8.68164C7.43176 9.09164 7.77176 9.43164 8.18176 9.43164H10.1618C10.5718 9.43164 10.9118 9.09164 10.9118 8.68164C10.9118 8.26164 10.5718 7.93164 10.1618 7.93164Z" fill="black"/> <path d="M16.1618 7.93164H14.1818C13.7718 7.93164 13.4318 8.26164 13.4318 8.68164C13.4318 9.09164 13.7718 9.43164 14.1818 9.43164H16.1618C16.5718 9.43164 16.9118 9.09164 16.9118 8.68164C16.9118 8.26164 16.5718 7.93164 16.1618 7.93164Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Double bed 1 — broken style variants.
+class _HomeAppliancesDoubleBed1Broken {
+  const _HomeAppliancesDoubleBed1Broken();
+
+  /// Double bed 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Double bed 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.0176 12.119V7.18486C19.0176 6.52936 19.0176 6.20161 18.923 5.93888C18.7615 5.49021 18.4082 5.13698 17.9596 4.97545C17.6968 4.88086 17.3691 4.88086 16.7136 4.88086H12.2314" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.44531 12.119V7.18486C5.44531 6.52936 5.44531 6.20161 5.5399 5.93888C5.70143 5.49021 6.05467 5.13698 6.50333 4.97545C6.76607 4.88086 7.09382 4.88086 7.74931 4.88086H9.32339" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2324 9.58105H16.2095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.23047 9.58105H10.2076" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.2305 19.1191V14.4231C21.2305 13.7676 21.2305 13.4399 21.1359 13.1772C20.9743 12.7285 20.6211 12.3753 20.1724 12.2137C19.9097 12.1191 19.582 12.1191 18.9265 12.1191H5.53447C4.87897 12.1191 4.55122 12.1191 4.28849 12.2137C3.83982 12.3753 3.48659 12.7285 3.32506 13.1772C3.23047 13.4399 3.23047 13.7676 3.23047 14.4231V19.1191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.23047 17.8809H18.493" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Double bed 1 — twoTone style variants.
+class _HomeAppliancesDoubleBed1Twotone {
+  const _HomeAppliancesDoubleBed1Twotone();
+
+  /// Double bed 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Double bed 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M19.5176 12.119V7.18486C19.5176 6.52936 19.5176 6.20161 19.423 5.93888C19.2615 5.49021 18.9082 5.13698 18.4596 4.97545C18.1968 4.88086 17.8691 4.88086 17.2136 4.88086H8.24931C7.59382 4.88086 7.26607 4.88086 7.00333 4.97545C6.55467 5.13698 6.20143 5.49021 6.0399 5.93888C5.94531 6.20161 5.94531 6.52936 5.94531 7.18486V12.119" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.7324 9.58105H16.7095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.73047 9.58105H10.7076" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.7305 19.1191V14.4231C21.7305 13.7676 21.7305 13.4399 21.6359 13.1772C21.4743 12.7285 21.1211 12.3753 20.6724 12.2137C20.4097 12.1191 20.082 12.1191 19.4265 12.1191H6.03447C5.37897 12.1191 5.05122 12.1191 4.78849 12.2137C4.33982 12.3753 3.98659 12.7285 3.82506 13.1772C3.73047 13.4399 3.73047 13.7676 3.73047 14.4231V19.1191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.73047 17.8809H21.7305" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Double bed 1 — outline style variants.
+class _HomeAppliancesDoubleBed1Outline {
+  const _HomeAppliancesDoubleBed1Outline();
+
+  /// Double bed 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Double bed 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.40415 4.13071C7.44202 4.13076 7.48032 4.1308 7.51903 4.1308H16.4833C16.522 4.1308 16.5603 4.13076 16.5982 4.13071C17.1384 4.13003 17.5937 4.12946 17.9833 4.26973C18.6423 4.50698 19.1611 5.02579 19.3984 5.68477C19.5386 6.07439 19.5381 6.52968 19.5374 7.06992C19.5373 7.10779 19.5373 7.14609 19.5373 7.1848V12.1189C19.5373 12.5331 19.2015 12.8689 18.7873 12.8689C18.3731 12.8689 18.0373 12.5331 18.0373 12.1189V7.1848C18.0373 6.46477 18.0261 6.30141 17.987 6.19288L18.6927 5.93882L17.987 6.19287C17.9012 5.95452 17.7136 5.76687 17.4752 5.68105L17.7267 4.9826L17.4752 5.68105C17.3667 5.64198 17.2033 5.6308 16.4833 5.6308H7.51903C6.799 5.6308 6.63564 5.64198 6.5271 5.68105C6.28875 5.76687 6.1011 5.95452 6.01528 6.19288C5.97621 6.30141 5.96503 6.46477 5.96503 7.1848V12.1189C5.96503 12.5331 5.62925 12.8689 5.21503 12.8689C4.80082 12.8689 4.46503 12.5331 4.46503 12.1189V7.1848C4.46503 7.14609 4.46498 7.10779 4.46494 7.06992C4.46426 6.52968 4.46369 6.07439 4.60396 5.68477C4.84121 5.02579 5.36002 4.50698 6.019 4.26973C6.40862 4.12946 6.86391 4.13003 7.40415 4.13071Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.252 9.58105C13.252 9.16684 13.5877 8.83105 14.002 8.83105H15.979C16.3933 8.83105 16.729 9.16684 16.729 9.58105C16.729 9.99527 16.3933 10.3311 15.979 10.3311H14.002C13.5877 10.3311 13.252 9.99527 13.252 9.58105Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.25 9.58105C7.25 9.16684 7.58579 8.83105 8 8.83105H9.97709C10.3913 8.83105 10.7271 9.16684 10.7271 9.58105C10.7271 9.99527 10.3913 10.3311 9.97709 10.3311H8C7.58579 10.3311 7.25 9.99527 7.25 9.58105Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.1893 11.369C5.22718 11.369 5.26547 11.3691 5.30419 11.3691H18.6962C18.7349 11.3691 18.7732 11.369 18.8111 11.369C19.3513 11.3683 19.8066 11.3677 20.1962 11.508C20.8552 11.7453 21.374 12.2641 21.6113 12.9231C21.7515 13.3127 21.751 13.768 21.7503 14.3082C21.7502 14.3461 21.7502 14.3844 21.7502 14.4231V19.1191C21.7502 19.5333 21.4144 19.8691 21.0002 19.8691C20.586 19.8691 20.2502 19.5333 20.2502 19.1191V14.4231C20.2502 13.703 20.239 13.5397 20.1999 13.4312C20.1141 13.1928 19.9265 13.0051 19.6881 12.9193C19.5796 12.8803 19.4162 12.8691 18.6962 12.8691H5.30419C4.58415 12.8691 4.42079 12.8803 4.31226 12.9193C4.07391 13.0051 3.88625 13.1928 3.80044 13.4312C3.76136 13.5397 3.75019 13.703 3.75019 14.4231V19.1191C3.75019 19.5333 3.4144 19.8691 3.00019 19.8691C2.58597 19.8691 2.25019 19.5333 2.25019 19.1191V14.4231C2.25019 14.3844 2.25014 14.3461 2.25009 14.3082C2.24942 13.768 2.24885 13.3127 2.38912 12.9231C2.62636 12.2641 3.14518 11.7453 3.80415 11.508C4.19378 11.3677 4.64907 11.3683 5.1893 11.369Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 17.8809C2.25 17.4666 2.58579 17.1309 3 17.1309H21C21.4142 17.1309 21.75 17.4666 21.75 17.8809C21.75 18.2951 21.4142 18.6309 21 18.6309H3C2.58579 18.6309 2.25 18.2951 2.25 17.8809Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Double bed 1 — bold style variants.
+class _HomeAppliancesDoubleBed1Bold {
+  const _HomeAppliancesDoubleBed1Bold();
+
+  /// Double bed 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Double bed 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.18177 7.93086H10.1618C10.5718 7.93086 10.9118 8.26086 10.9118 8.68086C10.9118 9.09086 10.5718 9.43086 10.1618 9.43086H8.18177C7.77177 9.43086 7.43177 9.09086 7.43177 8.68086C7.43177 8.26086 7.77177 7.93086 8.18177 7.93086ZM14.1818 7.93086H16.1618C16.5718 7.93086 16.9118 8.26086 16.9118 8.68086C16.9118 9.09086 16.5718 9.43086 16.1618 9.43086H14.1818C13.7718 9.43086 13.4318 9.09086 13.4318 8.68086C13.4318 8.26086 13.7718 7.93086 14.1818 7.93086ZM4.81177 10.6109H19.6518C19.9218 10.6109 20.1518 10.3809 20.1518 10.1109V6.89086C20.1518 6.12086 20.1518 5.73086 20.0218 5.37086C19.7918 4.74086 19.2918 4.24086 18.6718 4.02086C18.3018 3.88086 17.9118 3.88086 17.1318 3.88086H7.33177C6.55177 3.88086 6.16177 3.88086 5.80177 4.02086C5.17177 4.24086 4.67177 4.73086 4.44177 5.37086C4.31177 5.73086 4.31177 6.12086 4.31177 6.89086V10.1109C4.31177 10.3809 4.53177 10.6109 4.81177 10.6109Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8415 13.1749C21.6085 12.5229 21.0965 12.0059 20.4145 11.7479C20.0335 11.6179 19.6405 11.6179 18.9265 11.6179H5.53447C4.82047 11.6179 4.42647 11.6179 4.02247 11.7569C3.36447 12.0059 2.85347 12.5229 2.62047 13.1709C2.48047 13.5549 2.48047 13.9499 2.48047 14.6679V19.3679C2.48047 19.7819 2.81647 20.1179 3.23047 20.1179C3.64447 20.1179 3.98047 19.7819 3.98047 19.3679V19.0779C3.98047 18.9675 4.07001 18.8779 4.18047 18.8779H20.2805C20.3909 18.8779 20.4805 18.9675 20.4805 19.0779V19.3679C20.4805 19.7819 20.8165 20.1179 21.2305 20.1179C21.6445 20.1179 21.9805 19.7819 21.9805 19.3679V14.6679C21.9805 13.9499 21.9805 13.5549 21.8415 13.1749Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Double bed 1 — light style variants.
+class _HomeAppliancesDoubleBed1Light {
+  const _HomeAppliancesDoubleBed1Light();
+
+  /// Double bed 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Double bed 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.7871 12.119V7.18486C18.7871 6.52936 18.7871 6.20161 18.6925 5.93888C18.531 5.49021 18.1778 5.13698 17.7291 4.97545C17.4664 4.88086 17.1386 4.88086 16.4831 4.88086H7.51884C6.86335 4.88086 6.5356 4.88086 6.27286 4.97545C5.8242 5.13698 5.47096 5.49021 5.30943 5.93888C5.21484 6.20161 5.21484 6.52936 5.21484 7.18486V12.119" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.002 9.58105H15.979" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8 9.58105H9.97709" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 19.1191V14.4231C21 13.7676 21 13.4399 20.9054 13.1772C20.7439 12.7285 20.3906 12.3753 19.942 12.2137C19.6792 12.1191 19.3515 12.1191 18.696 12.1191H5.304C4.6485 12.1191 4.32076 12.1191 4.05802 12.2137C3.60935 12.3753 3.25612 12.7285 3.09459 13.1772C3 13.4399 3 13.7676 3 14.4231V19.1191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 17.8809H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Double bed 2 icon with style variants.
+class _HomeAppliancesDoubleBed2Icon {
+  const _HomeAppliancesDoubleBed2Icon();
+
+  /// bold style
+  _HomeAppliancesDoubleBed2Bold get bold => const _HomeAppliancesDoubleBed2Bold();
+  /// bulk style
+  _HomeAppliancesDoubleBed2Bulk get bulk => const _HomeAppliancesDoubleBed2Bulk();
+  /// light style
+  _HomeAppliancesDoubleBed2Light get light => const _HomeAppliancesDoubleBed2Light();
+  /// outline style
+  _HomeAppliancesDoubleBed2Outline get outline => const _HomeAppliancesDoubleBed2Outline();
+  /// twoTone style
+  _HomeAppliancesDoubleBed2Twotone get twoTone => const _HomeAppliancesDoubleBed2Twotone();
+  /// broken style
+  _HomeAppliancesDoubleBed2Broken get broken => const _HomeAppliancesDoubleBed2Broken();
+}
+
+/// Double bed 2 — bulk style variants.
+class _HomeAppliancesDoubleBed2Bulk {
+  const _HomeAppliancesDoubleBed2Bulk();
+
+  /// Double bed 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Double bed 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7022 12.892C21.4872 12.294 21.0252 11.831 20.4302 11.619C20.0882 11.502 19.7312 11.502 19.0222 11.502H5.63017C4.92017 11.502 4.56417 11.502 4.21517 11.621C3.62517 11.832 3.16417 12.296 2.95117 12.891C2.82617 13.234 2.82617 13.59 2.82617 14.302V15.693C2.82617 16.41 2.82617 16.77 2.95017 17.112C3.16217 17.703 3.62317 18.163 4.20517 18.369C4.38217 18.436 4.56317 18.47 4.79117 18.486V19.562C4.79117 19.976 5.12717 20.312 5.54117 20.312C5.95517 20.312 6.29117 19.976 6.29117 19.562V18.702C6.29117 18.5915 6.38071 18.502 6.49117 18.502H18.1622C18.2726 18.502 18.3622 18.5915 18.3622 18.702V19.562C18.3622 19.976 18.6982 20.312 19.1122 20.312C19.5262 20.312 19.8622 19.976 19.8622 19.562V18.486C20.0872 18.471 20.2642 18.439 20.4352 18.373C21.0272 18.163 21.4892 17.704 21.7022 17.113C21.8262 16.77 21.8262 16.41 21.8262 15.693V14.302C21.8262 13.591 21.8262 13.234 21.7022 12.892Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M4.86865 10.4465H6.42874C6.52406 10.4465 6.60537 10.3789 6.62967 10.2868C6.94021 9.10886 8.0136 8.2375 9.28765 8.2375C10.5617 8.2375 11.6351 9.10886 11.9456 10.2868C11.9699 10.3789 12.0512 10.4465 12.1466 10.4465H12.5057C12.6011 10.4465 12.6824 10.3789 12.7067 10.2868C13.0172 9.10886 14.0906 8.2375 15.3647 8.2375C16.6387 8.2375 17.7121 9.10886 18.0226 10.2868C18.0469 10.3789 18.1282 10.4465 18.2236 10.4465H19.7837C20.0597 10.4465 20.2837 10.2225 20.2837 9.9465V6.7155C20.2837 5.9395 20.2837 5.5505 20.1507 5.1835C19.9257 4.5575 19.4327 4.0595 18.7827 3.8135C18.4167 3.6875 18.0267 3.6875 17.2517 3.6875H7.40065C6.62565 3.6875 6.23765 3.6875 5.85365 3.8185C5.21865 4.0595 4.72565 4.5575 4.50265 5.1815C4.36865 5.5505 4.36865 5.9385 4.36865 6.7155V9.9465C4.36865 10.2225 4.59265 10.4465 4.86865 10.4465Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Double bed 2 — broken style variants.
+class _HomeAppliancesDoubleBed2Broken {
+  const _HomeAppliancesDoubleBed2Broken();
+
+  /// Double bed 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Double bed 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.3271 11.7392V11.1504C12.3271 9.90775 13.3345 8.90039 14.5771 8.90039C15.8198 8.90039 16.8271 9.90775 16.8271 11.1504V11.7705" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.3271 11.1504C12.3271 9.90775 11.3198 8.90039 10.0771 8.90039C8.83451 8.90039 7.82715 9.90775 7.82715 11.1504V11.7609" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.3271 17.8203H5.48715C4.87262 17.8203 4.56536 17.8203 4.31904 17.7316C3.89842 17.5802 3.56726 17.249 3.41583 16.8284C3.32715 16.5821 3.32715 16.2748 3.32715 15.6603V13.9979C3.32715 13.3834 3.32715 13.0761 3.41583 12.8298C3.56726 12.4092 3.89842 12.078 4.31904 11.9266C4.56536 11.8379 4.87262 11.8379 5.48715 11.8379H19.1671C19.7817 11.8379 20.0889 11.8379 20.3353 11.9266C20.7559 12.078 21.087 12.4092 21.2385 12.8298C21.3271 13.0761 21.3271 13.3834 21.3271 13.9979V15.6603C21.3271 16.2748 21.3271 16.5821 21.2385 16.8284C21.087 17.249 20.7559 17.5802 20.3353 17.7316C20.0889 17.8203 19.7817 17.8203 19.1671 17.8203H15.7471" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.1123 11.8268V6.75961C19.1123 6.14508 19.1123 5.83782 19.0236 5.5915C18.8722 5.17088 18.541 4.83972 18.1204 4.68829C17.8741 4.59961 17.5668 4.59961 16.9523 4.59961H12.3367" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.54102 11.8268V6.75961C5.54102 6.14508 5.54102 5.83782 5.62969 5.5915C5.78113 5.17088 6.11229 4.83972 6.53291 4.68829C6.77922 4.59961 7.08649 4.59961 7.70102 4.59961H10.0383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.54102 19.4008V17.8379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.1123 19.4008V17.8379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Double bed 2 — twoTone style variants.
+class _HomeAppliancesDoubleBed2Twotone {
+  const _HomeAppliancesDoubleBed2Twotone();
+
+  /// Double bed 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Double bed 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.82617 14.1419C3.82617 13.4864 3.82617 13.1586 3.92076 12.8959C4.08229 12.4472 4.43553 12.094 4.88419 11.9325C5.14693 11.8379 5.47468 11.8379 6.13017 11.8379H19.5222C20.1777 11.8379 20.5054 11.8379 20.7682 11.9325C21.2168 12.094 21.5701 12.4472 21.7316 12.8959C21.8262 13.1586 21.8262 13.4864 21.8262 14.1419V15.5339C21.8262 16.1894 21.8262 16.5171 21.7316 16.7799C21.5701 17.2285 21.2168 17.5818 20.7682 17.7433C20.5054 17.8379 20.1777 17.8379 19.5222 17.8379H6.13017C5.47468 17.8379 5.14693 17.8379 4.88419 17.7433C4.43553 17.5818 4.08229 17.2285 3.92076 16.7799C3.82617 16.5171 3.82617 16.1894 3.82617 15.5339V14.1419Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.6124 19.3998V17.8379M6.04102 17.8379V19.3998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.6124 11.8382V6.9041C19.6124 6.2486 19.6124 5.92085 19.5179 5.65812C19.3563 5.20945 19.0031 4.85622 18.5544 4.69469C18.2917 4.6001 17.9639 4.6001 17.3084 4.6001H8.34502C7.68952 4.6001 7.36177 4.6001 7.09904 4.69469C6.65037 4.85622 6.29714 5.20945 6.13561 5.65812C6.04102 5.92085 6.04102 6.2486 6.04102 6.9041V11.8382" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8262 11.7387V11.1499C12.8262 9.90726 13.8335 8.8999 15.0762 8.8999C16.3188 8.8999 17.3262 9.90726 17.3262 11.1499V11.77" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8262 11.1499C12.8262 9.90726 11.8188 8.8999 10.5762 8.8999C9.33353 8.8999 8.32617 9.90726 8.32617 11.1499V11.7604" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Double bed 2 — outline style variants.
+class _HomeAppliancesDoubleBed2Outline {
+  const _HomeAppliancesDoubleBed2Outline();
+
+  /// Double bed 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Double bed 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.1893 11.088C5.22718 11.088 5.26547 11.0881 5.30419 11.0881H18.6962C18.7349 11.0881 18.7732 11.088 18.8111 11.088C19.3513 11.0873 19.8066 11.0867 20.1962 11.227C20.8552 11.4643 21.374 11.9831 21.6113 12.642C21.7515 13.0317 21.751 13.487 21.7503 14.0272C21.7502 14.0651 21.7502 14.1034 21.7502 14.1421V15.5341C21.7502 15.5728 21.7502 15.6111 21.7503 15.649C21.751 16.1892 21.7515 16.6445 21.6113 17.0341C21.374 17.6931 20.8552 18.2119 20.1962 18.4491C19.8066 18.5894 19.3513 18.5889 18.8111 18.5882C18.7732 18.5881 18.7349 18.5881 18.6962 18.5881H5.30419C5.26547 18.5881 5.22718 18.5881 5.18931 18.5882C4.64907 18.5889 4.19378 18.5894 3.80415 18.4491C3.14518 18.2119 2.62636 17.6931 2.38912 17.0341C2.24885 16.6445 2.24942 16.1892 2.25009 15.649C2.25014 15.6111 2.25019 15.5728 2.25019 15.5341V14.1421C2.25019 14.1034 2.25014 14.0651 2.25009 14.0272C2.24942 13.487 2.24885 13.0317 2.38912 12.642C2.62636 11.9831 3.14518 11.4643 3.80415 11.227C4.19378 11.0867 4.64907 11.0873 5.1893 11.088ZM5.30419 12.5881C4.58415 12.5881 4.42079 12.5993 4.31226 12.6383C4.07391 12.7241 3.88625 12.9118 3.80044 13.1502C3.76136 13.2587 3.75019 13.422 3.75019 14.1421V15.5341C3.75019 16.2541 3.76136 16.4175 3.80044 16.526C3.88625 16.7644 4.07391 16.952 4.31226 17.0378C4.42079 17.0769 4.58415 17.0881 5.30419 17.0881H18.6962C19.4162 17.0881 19.5796 17.0769 19.6881 17.0378C19.9265 16.952 20.1141 16.7644 20.1999 16.526C20.239 16.4175 20.2502 16.2541 20.2502 15.5341V14.1421C20.2502 13.422 20.239 13.2587 20.1999 13.1502C20.1141 12.9118 19.9265 12.7241 19.6881 12.6383C19.5796 12.5993 19.4162 12.5881 18.6962 12.5881H5.30419Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.21484 17.0879C5.62906 17.0879 5.96484 17.4237 5.96484 17.8379V19.3998C5.96484 19.814 5.62906 20.1498 5.21484 20.1498C4.80063 20.1498 4.46484 19.814 4.46484 19.3998V17.8379C4.46484 17.4237 4.80063 17.0879 5.21484 17.0879ZM18.7863 17.0879C19.2005 17.0879 19.5363 17.4237 19.5363 17.8379V19.3998C19.5363 19.814 19.2005 20.1498 18.7863 20.1498C18.3721 20.1498 18.0363 19.814 18.0363 19.3998V17.8379C18.0363 17.4237 18.3721 17.0879 18.7863 17.0879Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.40415 3.84995C7.44202 3.84999 7.48032 3.85004 7.51903 3.85004H16.4825C16.5212 3.85004 16.5595 3.84999 16.5973 3.84995C17.1376 3.84927 17.5929 3.8487 17.9825 3.98897L17.7311 4.68727L17.9825 3.98897C18.6415 4.22622 19.1603 4.74503 19.3975 5.40401C19.5378 5.79363 19.5372 6.24892 19.5366 6.78916C19.5365 6.82703 19.5365 6.86532 19.5365 6.90404V11.8381C19.5365 12.2523 19.2007 12.5881 18.7865 12.5881C18.3722 12.5881 18.0365 12.2523 18.0365 11.8381V6.90404C18.0365 6.18401 18.0253 6.02065 17.9862 5.91211C17.9004 5.67376 17.7127 5.4861 17.4744 5.40029L17.7284 4.69463L17.4744 5.40029C17.3659 5.36122 17.2025 5.35004 16.4825 5.35004H7.51903C6.799 5.35004 6.63564 5.36122 6.5271 5.40029C6.28875 5.48611 6.1011 5.67376 6.01528 5.91211C5.97621 6.02065 5.96503 6.184 5.96503 6.90404V11.8381C5.96503 12.2523 5.62925 12.5881 5.21503 12.5881C4.80082 12.5881 4.46503 12.2523 4.46503 11.8381V6.90404C4.46503 6.86532 4.46498 6.82703 4.46494 6.78916C4.46426 6.24892 4.46369 5.79363 4.60396 5.40401C4.84121 4.74503 5.36002 4.22622 6.019 3.98897C6.40862 3.8487 6.86391 3.84927 7.40415 3.84995Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.25 11.1499C11.25 9.49305 12.5931 8.1499 14.25 8.1499C15.9069 8.1499 17.25 9.49305 17.25 11.1499V11.77C17.25 12.1842 16.9142 12.52 16.5 12.52C16.0858 12.52 15.75 12.1842 15.75 11.77V11.1499C15.75 10.3215 15.0784 9.6499 14.25 9.6499C13.4216 9.6499 12.75 10.3215 12.75 11.1499V11.7387C12.75 12.1529 12.4142 12.4887 12 12.4887C11.5858 12.4887 11.25 12.1529 11.25 11.7387V11.1499Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.75 11.1499C6.75 9.49305 8.09315 8.1499 9.75 8.1499C11.4069 8.1499 12.75 9.49305 12.75 11.1499C12.75 11.5641 12.4142 11.8999 12 11.8999C11.5858 11.8999 11.25 11.5641 11.25 11.1499C11.25 10.3215 10.5784 9.6499 9.75 9.6499C8.92157 9.6499 8.25 10.3215 8.25 11.1499V11.7604C8.25 12.1746 7.91421 12.5104 7.5 12.5104C7.08579 12.5104 6.75 12.1746 6.75 11.7604V11.1499Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Double bed 2 — bold style variants.
+class _HomeAppliancesDoubleBed2Bold {
+  const _HomeAppliancesDoubleBed2Bold();
+
+  /// Double bed 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Double bed 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.86865 10.4465H6.42874C6.52406 10.4465 6.60537 10.3789 6.62967 10.2868C6.94021 9.10886 8.0136 8.2375 9.28765 8.2375C10.5617 8.2375 11.6351 9.10886 11.9456 10.2868C11.9699 10.3789 12.0512 10.4465 12.1466 10.4465H12.5057C12.6011 10.4465 12.6824 10.3789 12.7067 10.2868C13.0172 9.10886 14.0906 8.2375 15.3647 8.2375C16.6387 8.2375 17.7121 9.10886 18.0226 10.2868C18.0469 10.3789 18.1282 10.4465 18.2236 10.4465H19.7837C20.0597 10.4465 20.2837 10.2225 20.2837 9.9465V6.7155C20.2837 5.9395 20.2837 5.5505 20.1507 5.1835C19.9257 4.5575 19.4327 4.0595 18.7827 3.8135C18.4167 3.6875 18.0267 3.6875 17.2517 3.6875H7.40065C6.62565 3.6875 6.23765 3.6875 5.85365 3.8185C5.21865 4.0595 4.72565 4.5575 4.50265 5.1815C4.36865 5.5505 4.36865 5.9385 4.36865 6.7155V9.9465C4.36865 10.2225 4.59265 10.4465 4.86865 10.4465Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7022 12.891C21.4872 12.293 21.0252 11.83 20.4302 11.618C20.0882 11.501 19.7312 11.501 19.0222 11.501H5.63017C4.92017 11.501 4.56417 11.501 4.21517 11.62C3.62517 11.831 3.16417 12.295 2.95117 12.89C2.82617 13.233 2.82617 13.589 2.82617 14.301V15.692C2.82617 16.409 2.82617 16.769 2.95017 17.111C3.16217 17.702 3.62317 18.162 4.20517 18.368C4.38217 18.435 4.56317 18.469 4.79117 18.485V19.561C4.79117 19.975 5.12717 20.311 5.54117 20.311C5.95517 20.311 6.29117 19.975 6.29117 19.561V18.701C6.29117 18.5905 6.38071 18.501 6.49117 18.501H18.1622C18.2726 18.501 18.3622 18.5905 18.3622 18.701V19.561C18.3622 19.975 18.6982 20.311 19.1122 20.311C19.5262 20.311 19.8622 19.975 19.8622 19.561V18.485C20.0872 18.47 20.2642 18.438 20.4352 18.372C21.0272 18.162 21.4892 17.703 21.7022 17.112C21.8262 16.769 21.8262 16.409 21.8262 15.692V14.301C21.8262 13.59 21.8262 13.233 21.7022 12.891Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Double bed 2 — light style variants.
+class _HomeAppliancesDoubleBed2Light {
+  const _HomeAppliancesDoubleBed2Light();
+
+  /// Double bed 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Double bed 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 14.1421C3 13.4866 3 13.1589 3.09459 12.8962C3.25612 12.4475 3.60935 12.0943 4.05802 11.9327C4.32076 11.8381 4.6485 11.8381 5.304 11.8381H18.696C19.3515 11.8381 19.6792 11.8381 19.942 11.9327C20.3906 12.0943 20.7439 12.4475 20.9054 12.8962C21 13.1589 21 13.4866 21 14.1421V15.5341C21 16.1896 21 16.5174 20.9054 16.7801C20.7439 17.2288 20.3906 17.582 19.942 17.7435C19.6792 17.8381 19.3515 17.8381 18.696 17.8381H5.304C4.6485 17.8381 4.32076 17.8381 4.05802 17.7435C3.60935 17.582 3.25612 17.2288 3.09459 16.7801C3 16.5174 3 16.1896 3 15.5341V14.1421Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7863 19.3998V17.8379M5.21484 17.8379V19.3998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7863 11.8382V6.9041C18.7863 6.2486 18.7863 5.92085 18.6917 5.65812C18.5302 5.20945 18.1769 4.85622 17.7283 4.69469C17.4655 4.6001 17.1378 4.6001 16.4823 4.6001H7.51884C6.86335 4.6001 6.5356 4.6001 6.27286 4.69469C5.8242 4.85622 5.47096 5.20945 5.30943 5.65812C5.21484 5.92085 5.21484 6.2486 5.21484 6.9041V11.8382" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 11.7387V11.1499C12 9.90726 13.0074 8.8999 14.25 8.8999C15.4926 8.8999 16.5 9.90726 16.5 11.1499V11.77" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 11.1499C12 9.90726 10.9926 8.8999 9.75 8.8999C8.50736 8.8999 7.5 9.90726 7.5 11.1499V11.7604" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// vacuum cleaner icon with style variants.
 class _HomeAppliancesVacuumCleanerIcon {
   const _HomeAppliancesVacuumCleanerIcon();
@@ -1026,6 +2048,114 @@ class _HomeAppliancesWashingMachineLight {
 
 }
 
+/// Washing machine 1 icon with style variants.
+class _HomeAppliancesWashingMachine1Icon {
+  const _HomeAppliancesWashingMachine1Icon();
+
+  /// bold style
+  _HomeAppliancesWashingMachine1Bold get bold => const _HomeAppliancesWashingMachine1Bold();
+  /// bulk style
+  _HomeAppliancesWashingMachine1Bulk get bulk => const _HomeAppliancesWashingMachine1Bulk();
+  /// light style
+  _HomeAppliancesWashingMachine1Light get light => const _HomeAppliancesWashingMachine1Light();
+  /// outline style
+  _HomeAppliancesWashingMachine1Outline get outline => const _HomeAppliancesWashingMachine1Outline();
+  /// twoTone style
+  _HomeAppliancesWashingMachine1Twotone get twoTone => const _HomeAppliancesWashingMachine1Twotone();
+  /// broken style
+  _HomeAppliancesWashingMachine1Broken get broken => const _HomeAppliancesWashingMachine1Broken();
+}
+
+/// Washing machine 1 — bulk style variants.
+class _HomeAppliancesWashingMachine1Bulk {
+  const _HomeAppliancesWashingMachine1Bulk();
+
+  /// Washing machine 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Washing machine 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M8.20998 2.25H15.79C18.76 2.25 20.83 4.42 20.83 7.51V16.49C20.83 19.64 18.81 21.75 15.79 21.75H8.20998C5.19998 21.75 3.16998 19.64 3.16998 16.49V7.51C3.16998 4.37 5.19998 2.25 8.20998 2.25ZM19.11 7.73H4.88998C4.76848 7.73 4.66998 7.6315 4.66998 7.51C4.66998 5.23 6.05998 3.75 8.20998 3.75H15.79C17.94 3.75 19.33 5.23 19.33 7.51C19.33 7.6315 19.2315 7.73 19.11 7.73Z" fill="black"/> <path d="M12 10.4805C10.202 10.4805 8.6757 11.6444 8.1164 13.2558C8.06116 13.4149 8.22657 13.5504 8.38521 13.4937C8.42006 13.4813 8.4553 13.4695 8.49101 13.4585C8.66701 13.3955 8.84201 13.3585 9.03001 13.3205C10.07 13.1575 11.111 13.3955 11.963 13.9975C12.364 14.2855 12.577 14.3605 12.878 14.3605C13.179 14.3605 13.379 14.2855 13.768 13.9975C14.056 13.7965 14.357 13.6465 14.67 13.5205C14.9558 13.4141 15.2638 13.3235 15.5703 13.3052C15.7169 13.2965 15.8323 13.1536 15.776 13.0179C15.1596 11.5333 13.7102 10.4805 12 10.4805Z" fill="black"/> <path d="M11.08 18.6105C11.38 18.6805 11.68 18.7205 12 18.7205C13.989 18.7205 15.631 17.3022 16.0085 15.4175C16.0374 15.2731 15.897 15.1571 15.7566 15.2019C15.3741 15.3241 15.017 15.4389 14.6655 15.6715C14.6605 15.6748 14.6559 15.6786 14.6517 15.6828C14.6473 15.6872 14.6424 15.6912 14.6371 15.6946C14.1747 15.9933 13.6257 16.2405 12.878 16.2405C12.001 16.2405 11.399 15.9025 10.885 15.5265C10.434 15.2125 9.88201 15.0875 9.34301 15.1755C9.03001 15.2385 8.71701 15.3635 8.45401 15.5765C8.37924 15.6261 8.3024 15.6881 8.23062 15.755C8.14751 15.8325 8.1275 15.9542 8.16596 16.0611C8.19036 16.1289 8.21431 16.1962 8.24001 16.2605C8.27826 16.3561 8.32566 16.4517 8.37345 16.5474C8.3778 16.556 8.38505 16.565 8.39131 16.5724C8.40071 16.5836 8.40353 16.5972 8.41041 16.6101C8.51877 16.813 8.6547 17.0064 8.80001 17.1905C9.03001 17.4705 9.29001 17.7205 9.58001 17.9305C9.66001 17.9905 9.74001 18.0505 9.83001 18.1005L10.04 18.2205C10.13 18.2705 10.23 18.3205 10.33 18.3705C10.48 18.4305 10.63 18.4905 10.78 18.5305C10.87 18.5705 10.98 18.5905 11.08 18.6105Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4466 6.78516C16.0326 6.78516 15.6916 6.44916 15.6916 6.03516C15.6916 5.62116 16.0226 5.28516 16.4366 5.28516H16.4466C16.8606 5.28516 17.1966 5.62116 17.1966 6.03516C17.1966 6.44916 16.8606 6.78516 16.4466 6.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3816 6.78516C13.9676 6.78516 13.6266 6.44916 13.6266 6.03516C13.6266 5.62116 13.9576 5.28516 14.3716 5.28516H14.3816C14.7956 5.28516 15.1316 5.62116 15.1316 6.03516C15.1316 6.44916 14.7956 6.78516 14.3816 6.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.47149 6.78516H7.54749C7.13349 6.78516 6.79749 6.44916 6.79749 6.03516C6.79749 5.62116 7.13349 5.28516 7.54749 5.28516H9.47149C9.88549 5.28516 10.2215 5.62116 10.2215 6.03516C10.2215 6.44916 9.88549 6.78516 9.47149 6.78516Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Washing machine 1 — broken style variants.
+class _HomeAppliancesWashingMachine1Broken {
+  const _HomeAppliancesWashingMachine1Broken();
+
+  /// Washing machine 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Washing machine 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.9995 21H15.7863C18.4347 21 20.082 19.1319 20.082 16.4864V7.51362C20.082 4.86908 18.4347 3 15.7873 3H8.21267C5.573 3 3.91797 4.86908 3.91797 7.51362V16.4864C3.91797 19.1319 5.56521 21 8.21267 21H8.93747" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0003 11.2344C13.8587 11.2344 15.3658 12.7415 15.3658 14.5999C15.3658 16.4583 13.8587 17.9654 12.0003 17.9654C10.1419 17.9654 8.63477 16.4583 8.63477 14.5999C8.63477 12.7415 10.1419 11.2344 12.0003 11.2344Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3426 14.3286C14.9408 14.3682 14.5425 14.5104 14.1875 14.7607C13.8372 15.0108 13.5162 15.1917 13.036 15.1917C12.5557 15.1918 12.2343 15.0108 11.884 14.7607C11.6277 14.58 11.3489 14.4556 11.0625 14.3856" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.91797 8.48145H17.2668" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4277 6.03027H16.4377" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3633 6.03027H14.3733" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.53906 6.03027H9.46263" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Washing machine 1 — twoTone style variants.
+class _HomeAppliancesWashingMachine1Twotone {
+  const _HomeAppliancesWashingMachine1Twotone();
+
+  /// Washing machine 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Washing machine 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.71267 3H16.2873C18.9347 3 20.582 4.86908 20.582 7.51362V16.4864C20.582 19.1319 18.9347 21 16.2863 21H8.71267C6.06521 21 4.41797 19.1319 4.41797 16.4864V7.51362C4.41797 4.86908 6.073 3 8.71267 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.1875 15.1414C9.56793 14.7103 10.0787 14.4399 10.6003 14.3503C11.2016 14.2492 11.8427 14.3795 12.3837 14.7609C12.734 15.011 13.0554 15.192 13.5357 15.192C14.0159 15.1919 14.3369 15.011 14.6872 14.7609C15.0422 14.5106 15.4405 14.3684 15.8423 14.3289" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M4.41797 8.48145H20.5829" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.9277 6.03027H16.9377" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.8633 6.03027H14.8733" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.03906 6.03027H9.96263" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Washing machine 1 — outline style variants.
+class _HomeAppliancesWashingMachine1Outline {
+  const _HomeAppliancesWashingMachine1Outline();
+
+  /// Washing machine 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Washing machine 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.52634 3.75371C5.42641 2.78814 6.70655 2.25 8.21218 2.25H15.7868C17.2958 2.25 18.5764 2.78784 19.4759 3.75407C20.3697 4.71424 20.8315 6.03652 20.8315 7.51362V16.4864C20.8315 17.9639 20.3698 19.2863 19.4757 20.2464C18.5759 21.2125 17.2951 21.75 15.7858 21.75H8.21218C6.70326 21.75 5.4227 21.2125 4.52313 20.2463C3.62919 19.2862 3.16748 17.9639 3.16748 16.4864V7.51362C3.16748 6.03559 3.63172 4.71344 4.52634 3.75371ZM5.62356 4.7765C5.03075 5.41246 4.66748 6.34712 4.66748 7.51362V16.4864C4.66748 17.6544 5.02939 18.5888 5.62094 19.2242C6.20686 19.8535 7.07365 20.25 8.21218 20.25H15.7858C16.9249 20.25 17.7919 19.8534 18.3779 19.2241C18.9696 18.5888 19.3315 17.6544 19.3315 16.4864V7.51362C19.3315 6.34619 18.9696 5.41165 18.378 4.77615C17.792 4.1467 16.9252 3.75 15.7868 3.75H8.21218C7.07814 3.75 6.21093 4.1464 5.62356 4.7765ZM7.88412 14.5997C7.88412 12.3271 9.72704 10.4842 11.9996 10.4842C14.2722 10.4842 16.1151 12.3271 16.1151 14.5997C16.1151 16.8723 14.2722 18.7152 11.9996 18.7152C9.72704 18.7152 7.88412 16.8723 7.88412 14.5997ZM11.9996 11.9842C10.5555 11.9842 9.38412 13.1555 9.38412 14.5997C9.38412 16.0438 10.5555 17.2152 11.9996 17.2152C13.4438 17.2152 14.6151 16.0438 14.6151 14.5997C14.6151 13.1555 13.4438 11.9842 11.9996 11.9842Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.2259 15.0897C9.86862 15.1513 9.51357 15.3388 9.24981 15.6377C8.97571 15.9482 8.50176 15.9778 8.19121 15.7037C7.88066 15.4296 7.85111 14.9556 8.1252 14.6451C8.62202 14.0822 9.28809 13.7288 9.97339 13.6111L9.9758 13.6107L9.9758 13.6107C10.7676 13.4775 11.6097 13.65 12.3159 14.148L12.3195 14.1505L12.3195 14.1505C12.6235 14.3675 12.788 14.442 13.0356 14.442C13.2832 14.4419 13.4474 14.3675 13.7514 14.1505L13.755 14.1479L13.755 14.148C14.2178 13.8217 14.74 13.6345 15.2688 13.5824C15.681 13.5419 16.0481 13.8431 16.0887 14.2554C16.1293 14.6676 15.828 15.0347 15.4158 15.0752C15.1416 15.1022 14.8679 15.1991 14.6209 15.3728C14.2248 15.6554 13.7474 15.9418 13.0358 15.942C12.324 15.9421 11.8461 15.6554 11.45 15.3728C11.075 15.109 10.6358 15.0211 10.2259 15.0897Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.16797 8.48145C3.16797 8.06723 3.50376 7.73145 3.91797 7.73145H20.0829C20.4972 7.73145 20.8329 8.06723 20.8329 8.48145C20.8329 8.89566 20.4972 9.23145 20.0829 9.23145H3.91797C3.50376 9.23145 3.16797 8.89566 3.16797 8.48145Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6777 6.03027C15.6777 5.61606 16.0135 5.28027 16.4277 5.28027H16.4377C16.8519 5.28027 17.1877 5.61606 17.1877 6.03027C17.1877 6.44449 16.8519 6.78027 16.4377 6.78027H16.4277C16.0135 6.78027 15.6777 6.44449 15.6777 6.03027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6133 6.03027C13.6133 5.61606 13.9491 5.28027 14.3633 5.28027H14.3733C14.7875 5.28027 15.1233 5.61606 15.1233 6.03027C15.1233 6.44449 14.7875 6.78027 14.3733 6.78027H14.3633C13.9491 6.78027 13.6133 6.44449 13.6133 6.03027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.78906 6.03027C6.78906 5.61606 7.12485 5.28027 7.53906 5.28027H9.46263C9.87684 5.28027 10.2126 5.61606 10.2126 6.03027C10.2126 6.44449 9.87684 6.78027 9.46263 6.78027H7.53906C7.12485 6.78027 6.78906 6.44449 6.78906 6.03027Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Washing machine 1 — bold style variants.
+class _HomeAppliancesWashingMachine1Bold {
+  const _HomeAppliancesWashingMachine1Bold();
+
+  /// Washing machine 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Washing machine 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4466 6.78491C16.0326 6.78491 15.6916 6.44891 15.6916 6.03491C15.6916 5.62091 16.0226 5.28491 16.4366 5.28491H16.4466C16.8606 5.28491 17.1966 5.62091 17.1966 6.03491C17.1966 6.44891 16.8606 6.78491 16.4466 6.78491Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3816 6.78491C13.9676 6.78491 13.6266 6.44891 13.6266 6.03491C13.6266 5.62091 13.9576 5.28491 14.3716 5.28491H14.3816C14.7956 5.28491 15.1316 5.62091 15.1316 6.03491C15.1316 6.44891 14.7956 6.78491 14.3816 6.78491Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.47149 6.78491H7.54749C7.13349 6.78491 6.79749 6.44891 6.79749 6.03491C6.79749 5.62091 7.13349 5.28491 7.54749 5.28491H9.47149C9.88549 5.28491 10.2215 5.62091 10.2215 6.03491C10.2215 6.44891 9.88549 6.78491 9.47149 6.78491Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.33 7.51C19.33 7.6315 19.2315 7.73 19.11 7.73H4.88998C4.76848 7.73 4.66998 7.6315 4.66998 7.51C4.66998 5.23 6.05998 3.75 8.20998 3.75H15.79C17.94 3.75 19.33 5.23 19.33 7.51ZM8.38518 13.4932C8.22655 13.5499 8.06113 13.4144 8.11637 13.2553C8.67567 11.6439 10.2019 10.48 12 10.48C13.7102 10.48 15.1596 11.5328 15.7759 13.0175C15.8323 13.1531 15.7169 13.296 15.5702 13.3048C15.2638 13.3231 14.9558 13.4137 14.67 13.52C14.357 13.646 14.056 13.796 13.768 13.997C13.379 14.285 13.179 14.36 12.878 14.36C12.577 14.36 12.364 14.285 11.963 13.997C11.111 13.395 10.07 13.157 9.02998 13.32C8.84198 13.358 8.66698 13.395 8.49098 13.458C8.45527 13.469 8.42003 13.4808 8.38518 13.4932ZM12 18.72C11.68 18.72 11.38 18.68 11.08 18.61C10.98 18.59 10.87 18.57 10.78 18.53C10.63 18.49 10.48 18.43 10.33 18.37C10.23 18.32 10.13 18.27 10.04 18.22C9.96998 18.18 9.89998 18.14 9.82998 18.1C9.73998 18.05 9.65998 17.99 9.57998 17.93C9.28998 17.72 9.02998 17.47 8.79998 17.19C8.65467 17.0059 8.51874 16.8125 8.41038 16.6097C8.4035 16.5968 8.40068 16.5831 8.39128 16.5719C8.38502 16.5645 8.37777 16.5556 8.37343 16.5469C8.32563 16.4513 8.27823 16.3556 8.23998 16.26C8.21428 16.1957 8.19033 16.1285 8.16594 16.0606C8.12748 15.9537 8.14748 15.832 8.2306 15.7545C8.30237 15.6876 8.37921 15.6256 8.45398 15.576C8.71698 15.363 9.02998 15.238 9.34298 15.175C9.88198 15.087 10.434 15.212 10.885 15.526C11.399 15.902 12.001 16.24 12.878 16.24C13.6257 16.24 14.1747 15.9928 14.637 15.6941C14.6423 15.6907 14.6472 15.6868 14.6517 15.6823C14.6559 15.6781 14.6605 15.6743 14.6654 15.671C15.017 15.4384 15.3741 15.3236 15.7566 15.2015C15.8969 15.1567 16.0374 15.2726 16.0085 15.417C15.631 17.3018 13.9889 18.72 12 18.72ZM15.79 2.25H8.20998C5.19998 2.25 3.16998 4.37 3.16998 7.51V16.49C3.16998 19.64 5.19998 21.75 8.20998 21.75H15.79C18.81 21.75 20.83 19.64 20.83 16.49V7.51C20.83 4.42 18.76 2.25 15.79 2.25Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Washing machine 1 — light style variants.
+class _HomeAppliancesWashingMachine1Light {
+  const _HomeAppliancesWashingMachine1Light();
+
+  /// Washing machine 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Washing machine 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.21218 3H15.7868C18.4342 3 20.0815 4.86908 20.0815 7.51362V16.4864C20.0815 19.1319 18.4342 21 15.7858 21H8.21218C5.56472 21 3.91748 19.1319 3.91748 16.4864V7.51362C3.91748 4.86908 5.57251 3 8.21218 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0003 11.2344C13.8587 11.2344 15.3658 12.7415 15.3658 14.5999C15.3658 16.4583 13.8587 17.9654 12.0003 17.9654C10.1419 17.9654 8.63477 16.4583 8.63477 14.5999C8.63477 12.7415 10.1419 11.2344 12.0003 11.2344Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.6875 15.1414C9.06793 14.7103 9.57874 14.4399 10.1003 14.3503C10.7016 14.2492 11.3427 14.3795 11.8837 14.7609C12.234 15.011 12.5554 15.192 13.0357 15.192C13.5159 15.1919 13.8369 15.011 14.1872 14.7609C14.5422 14.5106 14.9405 14.3684 15.3423 14.3289" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.91797 8.48145H20.0829" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4277 6.03027H16.4377" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3633 6.03027H14.3733" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.53906 6.03027H9.46263" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Oven icon with style variants.
 class _HomeAppliancesOvenIcon {
   const _HomeAppliancesOvenIcon();
@@ -1051,7 +2181,7 @@ class _HomeAppliancesOvenBulk {
   /// Oven — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Oven',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M7.91004 2.25H16.09C18.71 2.25 20.83 4.38 20.83 6.99V17.01C20.83 19.63 18.71 21.75 16.09 21.75H7.91004C5.29004 21.75 3.17004 19.63 3.17004 17.01V6.99C3.17004 4.38 5.29004 2.25 7.91004 2.25ZM19.03 7.73H4.97004C4.80436 7.73 4.67004 7.59569 4.67004 7.43V6.99C4.67004 5.21 6.12004 3.75 7.91004 3.75H16.09C17.88 3.75 19.33 5.21 19.33 6.99V7.43C19.33 7.59569 19.1957 7.73 19.03 7.73Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.23485 6.78516H8.22485C7.81085 6.78516 7.47485 6.44916 7.47485 6.03516C7.47485 5.62116 7.81085 5.28516 8.22485 5.28516C8.63885 5.28516 8.97985 5.62116 8.97985 6.03516C8.97985 6.44916 8.64885 6.78516 8.23485 6.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7851 6.78516H15.7751C15.3611 6.78516 15.0251 6.44916 15.0251 6.03516C15.0251 5.62116 15.3611 5.28516 15.7751 5.28516C16.1891 5.28516 16.5301 5.62116 16.5301 6.03516C16.5301 6.44916 16.1991 6.78516 15.7851 6.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0098 6.78516H11.9998C11.5858 6.78516 11.2498 6.44916 11.2498 6.03516C11.2498 5.62116 11.5858 5.28516 11.9998 5.28516C12.4138 5.28516 12.7548 5.62116 12.7548 6.03516C12.7548 6.44916 12.4238 6.78516 12.0098 6.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0801 13.4297H8.93005C8.52005 13.4297 8.18005 13.0997 8.18005 12.6797C8.18005 12.2697 8.52005 11.9297 8.93005 11.9297H15.0801C15.4901 11.9297 15.8301 12.2697 15.8301 12.6797C15.8301 13.0997 15.4901 13.4297 15.0801 13.4297ZM15.0801 16.9297H8.93005C8.51005 16.9297 8.18005 16.5997 8.18005 16.1797C8.18005 15.7697 8.51005 15.4297 8.93005 15.4297H15.0801C15.4901 15.4297 15.8301 15.7697 15.8301 16.1797C15.8301 16.5997 15.4901 16.9297 15.0801 16.9297Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M7.91004 2.25H16.09C18.71 2.25 20.83 4.38 20.83 6.99V17.01C20.83 19.63 18.71 21.75 16.09 21.75H7.91004C5.29004 21.75 3.17004 19.63 3.17004 17.01V6.99C3.17004 4.38 5.29004 2.25 7.91004 2.25ZM19.03 7.73H4.97004C4.80436 7.73 4.67004 7.59569 4.67004 7.43V6.99C4.67004 5.21 6.12004 3.75 7.91004 3.75H16.09C17.88 3.75 19.33 5.21 19.33 6.99V7.43C19.33 7.59569 19.1957 7.73 19.03 7.73Z" fill="black"/> <path d="M15.7246 18.769C17.5929 18.769 18.2875 17.7391 18.2755 15.8229V13.6193C18.2755 11.7031 17.5929 10.6611 15.7246 10.6611H8.27542C6.41911 10.6611 5.72449 11.727 5.72449 13.6672V15.8229C5.72449 17.7391 6.41911 18.769 8.27542 18.769H15.7246Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.23485 6.78516H8.22485C7.81085 6.78516 7.47485 6.44916 7.47485 6.03516C7.47485 5.62116 7.81085 5.28516 8.22485 5.28516C8.63885 5.28516 8.97985 5.62116 8.97985 6.03516C8.97985 6.44916 8.64885 6.78516 8.23485 6.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7851 6.78516H15.7751C15.3611 6.78516 15.0251 6.44916 15.0251 6.03516C15.0251 5.62116 15.3611 5.28516 15.7751 5.28516C16.1891 5.28516 16.5301 5.62116 16.5301 6.03516C16.5301 6.44916 16.1991 6.78516 15.7851 6.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0098 6.78516H11.9998C11.5858 6.78516 11.2498 6.44916 11.2498 6.03516C11.2498 5.62116 11.5858 5.28516 11.9998 5.28516C12.4138 5.28516 12.7548 5.62116 12.7548 6.03516C12.7548 6.44916 12.4238 6.78516 12.0098 6.78516Z" fill="black"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -1066,7 +2196,7 @@ class _HomeAppliancesOvenBroken {
   /// Oven — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Oven',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0005 21H15.7873C18.4357 21 20.0829 19.1319 20.0829 16.4864V7.51362C20.0829 4.86908 18.4357 3 15.7882 3H8.21365C5.57397 3 3.91895 4.86908 3.91895 7.51362V16.4864C3.91895 19.1319 5.56619 21 8.21365 21H8.90895" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.23461 6.03027H8.22461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7854 6.03027H15.7754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.01 6.03027H12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.91797 8.48145H17.0148" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.0768 12.6772H8.93053M8.92578 16.1805H15.0779" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2847 21H16.0928C18.2966 21 20.0829 19.2136 20.0829 17.0108V6.98919C20.0829 4.78638 18.2966 3 16.0928 3H7.90716C5.70435 3 3.91797 4.78638 3.91797 6.98919V17.0108C3.91797 19.2136 5.70435 21 7.90716 21H8.85455" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.23461 6.03027H8.22461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7854 6.03027H15.7754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.01 6.03027H12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.0829 8.48145H3.91797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.1098 11.3301C16.6685 11.3301 17.2426 12.2038 17.2426 13.8014V15.6384C17.2474 17.236 16.6685 18.1049 15.1098 18.1049H8.89252C7.33868 18.1049 6.75977 17.236 6.75977 15.6384V13.8423C6.75977 12.2194 7.33868 11.3301 8.89252 11.3301H12.0012" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -1081,7 +2211,7 @@ class _HomeAppliancesOvenTwotone {
   /// Oven — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Oven',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.71365 3H16.2882C18.9357 3 20.5829 4.86908 20.5829 7.51362V16.4864C20.5829 19.1319 18.9357 21 16.2873 21H8.71365C6.06619 21 4.41895 19.1319 4.41895 16.4864V7.51362C4.41895 4.86908 6.07397 3 8.71365 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.73461 6.03027H8.72461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.2854 6.03027H16.2754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.51 6.03027H12.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.41797 8.48145H20.5829" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.5768 12.6772H9.43053M9.42578 16.1805H15.5779" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.5928 3H8.40716C6.20435 3 4.41797 4.78638 4.41797 6.98919V17.0108C4.41797 19.2136 6.20435 21 8.40716 21H16.5928C18.7966 21 20.5829 19.2136 20.5829 17.0108V6.98919C20.5829 4.78638 18.7966 3 16.5928 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.73461 6.03027H8.72461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.2854 6.03027H16.2754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.51 6.03027H12.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.5829 8.48145H4.41797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.6098 18.1049H9.39252C7.83868 18.1049 7.25977 17.236 7.25977 15.6384V13.8423C7.25977 12.2194 7.83868 11.3301 9.39252 11.3301H15.6098C17.1685 11.3301 17.7426 12.2038 17.7426 13.8014V15.6384C17.7474 17.236 17.1685 18.1049 15.6098 18.1049Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -1096,7 +2226,7 @@ class _HomeAppliancesOvenOutline {
   /// Oven — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Oven',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.52732 3.75371C5.42739 2.78814 6.70752 2.25 8.21316 2.25H15.7878C17.2968 2.25 18.5773 2.78784 19.4768 3.75407C20.3707 4.71424 20.8325 6.03652 20.8325 7.51362V16.4864C20.8325 17.9639 20.3707 19.2863 19.4766 20.2464C18.5769 21.2125 17.2961 21.75 15.7868 21.75H8.21316C6.70423 21.75 5.42367 21.2125 4.52411 20.2463C3.63017 19.2862 3.16846 17.9639 3.16846 16.4864V7.51362C3.16846 6.03559 3.6327 4.71344 4.52732 3.75371ZM5.62454 4.7765C5.03173 5.41246 4.66846 6.34712 4.66846 7.51362V16.4864C4.66846 17.6544 5.03037 18.5888 5.62192 19.2242C6.20784 19.8535 7.07463 20.25 8.21316 20.25H15.7868C16.9259 20.25 17.7929 19.8534 18.3789 19.2241C18.9706 18.5888 19.3325 17.6544 19.3325 16.4864V7.51362C19.3325 6.34619 18.9706 5.41165 18.379 4.77615C17.793 4.1467 16.9262 3.75 15.7878 3.75H8.21316C7.07912 3.75 6.21191 4.1464 5.62454 4.7765Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.47461 6.03027C7.47461 5.61606 7.8104 5.28027 8.22461 5.28027H8.23461C8.64882 5.28027 8.98461 5.61606 8.98461 6.03027C8.98461 6.44449 8.64882 6.78027 8.23461 6.78027H8.22461C7.8104 6.78027 7.47461 6.44449 7.47461 6.03027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0254 6.03027C15.0254 5.61606 15.3612 5.28027 15.7754 5.28027H15.7854C16.1996 5.28027 16.5354 5.61606 16.5354 6.03027C16.5354 6.44449 16.1996 6.78027 15.7854 6.78027H15.7754C15.3612 6.78027 15.0254 6.44449 15.0254 6.03027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.25 6.03027C11.25 5.61606 11.5858 5.28027 12 5.28027H12.01C12.4242 5.28027 12.76 5.61606 12.76 6.03027C12.76 6.44449 12.4242 6.78027 12.01 6.78027H12C11.5858 6.78027 11.25 6.44449 11.25 6.03027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.16797 8.48145C3.16797 8.06723 3.50376 7.73145 3.91797 7.73145H20.0829C20.4972 7.73145 20.8329 8.06723 20.8329 8.48145C20.8329 8.89566 20.4972 9.23145 20.0829 9.23145H3.91797C3.50376 9.23145 3.16797 8.89566 3.16797 8.48145Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.18053 12.6772C8.18053 12.263 8.51632 11.9272 8.93053 11.9272H15.0768C15.491 11.9272 15.8268 12.263 15.8268 12.6772C15.8268 13.0915 15.491 13.4272 15.0768 13.4272H8.93053C8.51632 13.4272 8.18053 13.0915 8.18053 12.6772ZM8.17578 16.1805C8.17578 15.7663 8.51157 15.4305 8.92578 15.4305H15.0779C15.4921 15.4305 15.8279 15.7663 15.8279 16.1805C15.8279 16.5947 15.4921 16.9305 15.0779 16.9305H8.92578C8.51157 16.9305 8.17578 16.5947 8.17578 16.1805Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.90667 3.75C6.11807 3.75 4.66748 5.20059 4.66748 6.98919V17.0108C4.66748 18.7994 6.11807 20.25 7.90667 20.25H16.0923C17.882 20.25 19.3325 18.7993 19.3325 17.0108V6.98919C19.3325 5.20071 17.882 3.75 16.0923 3.75H7.90667ZM3.16748 6.98919C3.16748 4.37216 5.28965 2.25 7.90667 2.25H16.0923C18.7102 2.25 20.8325 4.37205 20.8325 6.98919V17.0108C20.8325 19.628 18.7102 21.75 16.0923 21.75H7.90667C5.28965 21.75 3.16748 19.6278 3.16748 17.0108V6.98919Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.47461 6.03027C7.47461 5.61606 7.8104 5.28027 8.22461 5.28027H8.23461C8.64882 5.28027 8.98461 5.61606 8.98461 6.03027C8.98461 6.44449 8.64882 6.78027 8.23461 6.78027H8.22461C7.8104 6.78027 7.47461 6.44449 7.47461 6.03027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0254 6.03027C15.0254 5.61606 15.3612 5.28027 15.7754 5.28027H15.7854C16.1996 5.28027 16.5354 5.61606 16.5354 6.03027C16.5354 6.44449 16.1996 6.78027 15.7854 6.78027H15.7754C15.3612 6.78027 15.0254 6.44449 15.0254 6.03027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.25 6.03027C11.25 5.61606 11.5858 5.28027 12 5.28027H12.01C12.4242 5.28027 12.76 5.61606 12.76 6.03027C12.76 6.44449 12.4242 6.78027 12.01 6.78027H12C11.5858 6.78027 11.25 6.44449 11.25 6.03027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.16797 8.48145C3.16797 8.06723 3.50376 7.73145 3.91797 7.73145H20.0829C20.4972 7.73145 20.8329 8.06723 20.8329 8.48145C20.8329 8.89566 20.4972 9.23145 20.0829 9.23145H3.91797C3.50376 9.23145 3.16797 8.89566 3.16797 8.48145Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.82991 12.4451C7.64833 12.6729 7.50977 13.0938 7.50977 13.8423V15.6384C7.50977 16.3725 7.64775 16.7791 7.82539 16.9976C7.97541 17.1821 8.25552 17.3549 8.89252 17.3549H15.1098C15.7502 17.3549 16.031 17.1816 16.1806 16.9976C16.3575 16.78 16.4948 16.3745 16.4926 15.6407L16.4926 15.6384V13.8014C16.4926 13.0662 16.3554 12.6581 16.1777 12.4384C16.0281 12.2536 15.7487 12.0801 15.1098 12.0801H8.89252C8.26114 12.0801 7.98193 12.2544 7.82991 12.4451ZM6.657 11.5101C7.1829 10.8504 7.97007 10.5801 8.89252 10.5801H15.1098C16.0297 10.5801 16.8166 10.8434 17.3437 11.4949C17.8427 12.1115 17.9926 12.939 17.9926 13.8014V15.6374C17.9951 16.5008 17.8452 17.3279 17.3445 17.9439C16.8161 18.5937 16.0281 18.8549 15.1098 18.8549H8.89252C7.97569 18.8549 7.18942 18.5932 6.66151 17.9439C6.16124 17.3285 6.00977 16.5019 6.00977 15.6384V13.8423C6.00977 12.9679 6.16066 12.1327 6.657 11.5101Z" fill="black"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -1111,7 +2241,7 @@ class _HomeAppliancesOvenBold {
   /// Oven — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Oven',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.33 7.51C19.33 7.6315 19.2315 7.73 19.11 7.73H4.89004C4.76854 7.73 4.67004 7.6315 4.67004 7.51C4.67004 5.23 6.06004 3.75 8.21004 3.75H15.79C17.94 3.75 19.33 5.23 19.33 7.51ZM15.08 13.43H8.93004C8.52004 13.43 8.18004 13.1 8.18004 12.68C8.18004 12.27 8.52004 11.93 8.93004 11.93H15.08C15.49 11.93 15.83 12.27 15.83 12.68C15.83 13.1 15.49 13.43 15.08 13.43ZM15.08 16.93H8.93004C8.51004 16.93 8.18004 16.6 8.18004 16.18C8.18004 15.77 8.51004 15.43 8.93004 15.43H15.08C15.49 15.43 15.83 15.77 15.83 16.18C15.83 16.6 15.49 16.93 15.08 16.93ZM15.79 2.25H8.21004C5.24004 2.25 3.17004 4.42 3.17004 7.51V16.49C3.17004 19.64 5.20004 21.75 8.21004 21.75H15.79C18.8 21.75 20.83 19.64 20.83 16.49V7.51C20.83 4.37 18.81 2.25 15.79 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.23485 6.78491H8.22485C7.81085 6.78491 7.47485 6.44891 7.47485 6.03491C7.47485 5.62091 7.81085 5.28491 8.22485 5.28491C8.63885 5.28491 8.97985 5.62091 8.97985 6.03491C8.97985 6.44891 8.64885 6.78491 8.23485 6.78491Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7851 6.78491H15.7751C15.3611 6.78491 15.0251 6.44891 15.0251 6.03491C15.0251 5.62091 15.3611 5.28491 15.7751 5.28491C16.1891 5.28491 16.5301 5.62091 16.5301 6.03491C16.5301 6.44891 16.1991 6.78491 15.7851 6.78491Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0098 6.78491H11.9998C11.5858 6.78491 11.2498 6.44891 11.2498 6.03491C11.2498 5.62091 11.5858 5.28491 11.9998 5.28491C12.4138 5.28491 12.7548 5.62091 12.7548 6.03491C12.7548 6.44891 12.4238 6.78491 12.0098 6.78491Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.33 7.43C19.33 7.59569 19.1957 7.73 19.03 7.73H4.97004C4.80436 7.73 4.67004 7.59569 4.67004 7.43V6.99C4.67004 5.21 6.12004 3.75 7.91004 3.75H16.09C17.88 3.75 19.33 5.21 19.33 6.99V7.43ZM17.24 15.64C17.25 17.24 16.67 18.1 15.11 18.1H8.89004C7.34004 18.1 6.76004 17.24 6.76004 15.64V13.84C6.76004 12.22 7.34004 11.33 8.89004 11.33H15.11C16.67 11.33 17.24 12.2 17.24 13.8V15.64ZM16.09 2.25H7.91004C5.29004 2.25 3.17004 4.38 3.17004 6.99V17.01C3.17004 19.63 5.29004 21.75 7.91004 21.75H16.09C18.71 21.75 20.83 19.63 20.83 17.01V6.99C20.83 4.38 18.71 2.25 16.09 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.23485 6.78491H8.22485C7.81085 6.78491 7.47485 6.44891 7.47485 6.03491C7.47485 5.62091 7.81085 5.28491 8.22485 5.28491C8.63885 5.28491 8.97985 5.62091 8.97985 6.03491C8.97985 6.44891 8.64885 6.78491 8.23485 6.78491Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7851 6.78491H15.7751C15.3611 6.78491 15.0251 6.44891 15.0251 6.03491C15.0251 5.62091 15.3611 5.28491 15.7751 5.28491C16.1891 5.28491 16.5301 5.62091 16.5301 6.03491C16.5301 6.44891 16.1991 6.78491 15.7851 6.78491Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0098 6.78491H11.9998C11.5858 6.78491 11.2498 6.44891 11.2498 6.03491C11.2498 5.62091 11.5858 5.28491 11.9998 5.28491C12.4138 5.28491 12.7548 5.62091 12.7548 6.03491C12.7548 6.44891 12.4238 6.78491 12.0098 6.78491Z" fill="black"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -1126,7 +2256,223 @@ class _HomeAppliancesOvenLight {
   /// Oven — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Oven',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.0923 3H7.90667C5.70386 3 3.91748 4.78638 3.91748 6.98919V17.0108C3.91748 19.2136 5.70386 21 7.90667 21H16.0923C18.2961 21 20.0825 19.2136 20.0825 17.0108V6.98919C20.0825 4.78638 18.2961 3 16.0923 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.23461 6.03027H8.22461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7854 6.03027H15.7754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.01 6.03027H12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.0829 8.48145H3.91797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.1098 18.1049H8.89252C7.33868 18.1049 6.75977 17.236 6.75977 15.6384V13.8423C6.75977 12.2194 7.33868 11.3301 8.89252 11.3301H15.1098C16.6685 11.3301 17.2426 12.2038 17.2426 13.8014V15.6384C17.2474 17.236 16.6685 18.1049 15.1098 18.1049Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Oven 1 icon with style variants.
+class _HomeAppliancesOven1Icon {
+  const _HomeAppliancesOven1Icon();
+
+  /// bold style
+  _HomeAppliancesOven1Bold get bold => const _HomeAppliancesOven1Bold();
+  /// bulk style
+  _HomeAppliancesOven1Bulk get bulk => const _HomeAppliancesOven1Bulk();
+  /// light style
+  _HomeAppliancesOven1Light get light => const _HomeAppliancesOven1Light();
+  /// outline style
+  _HomeAppliancesOven1Outline get outline => const _HomeAppliancesOven1Outline();
+  /// twoTone style
+  _HomeAppliancesOven1Twotone get twoTone => const _HomeAppliancesOven1Twotone();
+  /// broken style
+  _HomeAppliancesOven1Broken get broken => const _HomeAppliancesOven1Broken();
+}
+
+/// Oven 1 — bulk style variants.
+class _HomeAppliancesOven1Bulk {
+  const _HomeAppliancesOven1Bulk();
+
+  /// Oven 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Oven 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M7.91004 2.25H16.09C18.71 2.25 20.83 4.38 20.83 6.99V17.01C20.83 19.63 18.71 21.75 16.09 21.75H7.91004C5.29004 21.75 3.17004 19.63 3.17004 17.01V6.99C3.17004 4.38 5.29004 2.25 7.91004 2.25ZM19.03 7.73H4.97004C4.80436 7.73 4.67004 7.59569 4.67004 7.43V6.99C4.67004 5.21 6.12004 3.75 7.91004 3.75H16.09C17.88 3.75 19.33 5.21 19.33 6.99V7.43C19.33 7.59569 19.1957 7.73 19.03 7.73Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.23485 6.78516H8.22485C7.81085 6.78516 7.47485 6.44916 7.47485 6.03516C7.47485 5.62116 7.81085 5.28516 8.22485 5.28516C8.63885 5.28516 8.97985 5.62116 8.97985 6.03516C8.97985 6.44916 8.64885 6.78516 8.23485 6.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7851 6.78516H15.7751C15.3611 6.78516 15.0251 6.44916 15.0251 6.03516C15.0251 5.62116 15.3611 5.28516 15.7751 5.28516C16.1891 5.28516 16.5301 5.62116 16.5301 6.03516C16.5301 6.44916 16.1991 6.78516 15.7851 6.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0098 6.78516H11.9998C11.5858 6.78516 11.2498 6.44916 11.2498 6.03516C11.2498 5.62116 11.5858 5.28516 11.9998 5.28516C12.4138 5.28516 12.7548 5.62116 12.7548 6.03516C12.7548 6.44916 12.4238 6.78516 12.0098 6.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0801 13.4297H8.93005C8.52005 13.4297 8.18005 13.0997 8.18005 12.6797C8.18005 12.2697 8.52005 11.9297 8.93005 11.9297H15.0801C15.4901 11.9297 15.8301 12.2697 15.8301 12.6797C15.8301 13.0997 15.4901 13.4297 15.0801 13.4297ZM15.0801 16.9297H8.93005C8.51005 16.9297 8.18005 16.5997 8.18005 16.1797C8.18005 15.7697 8.51005 15.4297 8.93005 15.4297H15.0801C15.4901 15.4297 15.8301 15.7697 15.8301 16.1797C15.8301 16.5997 15.4901 16.9297 15.0801 16.9297Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Oven 1 — broken style variants.
+class _HomeAppliancesOven1Broken {
+  const _HomeAppliancesOven1Broken();
+
+  /// Oven 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Oven 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0005 21H15.7873C18.4357 21 20.0829 19.1319 20.0829 16.4864V7.51362C20.0829 4.86908 18.4357 3 15.7882 3H8.21365C5.57397 3 3.91895 4.86908 3.91895 7.51362V16.4864C3.91895 19.1319 5.56619 21 8.21365 21H8.90895" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.23461 6.03027H8.22461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7854 6.03027H15.7754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.01 6.03027H12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.91797 8.48145H17.0148" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.0768 12.6772H8.93053M8.92578 16.1805H15.0779" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Oven 1 — twoTone style variants.
+class _HomeAppliancesOven1Twotone {
+  const _HomeAppliancesOven1Twotone();
+
+  /// Oven 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Oven 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.71365 3H16.2882C18.9357 3 20.5829 4.86908 20.5829 7.51362V16.4864C20.5829 19.1319 18.9357 21 16.2873 21H8.71365C6.06619 21 4.41895 19.1319 4.41895 16.4864V7.51362C4.41895 4.86908 6.07397 3 8.71365 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.73461 6.03027H8.72461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.2854 6.03027H16.2754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.51 6.03027H12.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.41797 8.48145H20.5829" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.5768 12.6772H9.43053M9.42578 16.1805H15.5779" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Oven 1 — outline style variants.
+class _HomeAppliancesOven1Outline {
+  const _HomeAppliancesOven1Outline();
+
+  /// Oven 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Oven 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.52732 3.75371C5.42739 2.78814 6.70752 2.25 8.21316 2.25H15.7878C17.2968 2.25 18.5773 2.78784 19.4768 3.75407C20.3707 4.71424 20.8325 6.03652 20.8325 7.51362V16.4864C20.8325 17.9639 20.3707 19.2863 19.4766 20.2464C18.5769 21.2125 17.2961 21.75 15.7868 21.75H8.21316C6.70423 21.75 5.42367 21.2125 4.52411 20.2463C3.63017 19.2862 3.16846 17.9639 3.16846 16.4864V7.51362C3.16846 6.03559 3.6327 4.71344 4.52732 3.75371ZM5.62454 4.7765C5.03173 5.41246 4.66846 6.34712 4.66846 7.51362V16.4864C4.66846 17.6544 5.03037 18.5888 5.62192 19.2242C6.20784 19.8535 7.07463 20.25 8.21316 20.25H15.7868C16.9259 20.25 17.7929 19.8534 18.3789 19.2241C18.9706 18.5888 19.3325 17.6544 19.3325 16.4864V7.51362C19.3325 6.34619 18.9706 5.41165 18.379 4.77615C17.793 4.1467 16.9262 3.75 15.7878 3.75H8.21316C7.07912 3.75 6.21191 4.1464 5.62454 4.7765Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.47461 6.03027C7.47461 5.61606 7.8104 5.28027 8.22461 5.28027H8.23461C8.64882 5.28027 8.98461 5.61606 8.98461 6.03027C8.98461 6.44449 8.64882 6.78027 8.23461 6.78027H8.22461C7.8104 6.78027 7.47461 6.44449 7.47461 6.03027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0254 6.03027C15.0254 5.61606 15.3612 5.28027 15.7754 5.28027H15.7854C16.1996 5.28027 16.5354 5.61606 16.5354 6.03027C16.5354 6.44449 16.1996 6.78027 15.7854 6.78027H15.7754C15.3612 6.78027 15.0254 6.44449 15.0254 6.03027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.25 6.03027C11.25 5.61606 11.5858 5.28027 12 5.28027H12.01C12.4242 5.28027 12.76 5.61606 12.76 6.03027C12.76 6.44449 12.4242 6.78027 12.01 6.78027H12C11.5858 6.78027 11.25 6.44449 11.25 6.03027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.16797 8.48145C3.16797 8.06723 3.50376 7.73145 3.91797 7.73145H20.0829C20.4972 7.73145 20.8329 8.06723 20.8329 8.48145C20.8329 8.89566 20.4972 9.23145 20.0829 9.23145H3.91797C3.50376 9.23145 3.16797 8.89566 3.16797 8.48145Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.18053 12.6772C8.18053 12.263 8.51632 11.9272 8.93053 11.9272H15.0768C15.491 11.9272 15.8268 12.263 15.8268 12.6772C15.8268 13.0915 15.491 13.4272 15.0768 13.4272H8.93053C8.51632 13.4272 8.18053 13.0915 8.18053 12.6772ZM8.17578 16.1805C8.17578 15.7663 8.51157 15.4305 8.92578 15.4305H15.0779C15.4921 15.4305 15.8279 15.7663 15.8279 16.1805C15.8279 16.5947 15.4921 16.9305 15.0779 16.9305H8.92578C8.51157 16.9305 8.17578 16.5947 8.17578 16.1805Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Oven 1 — bold style variants.
+class _HomeAppliancesOven1Bold {
+  const _HomeAppliancesOven1Bold();
+
+  /// Oven 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Oven 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.33 7.51C19.33 7.6315 19.2315 7.73 19.11 7.73H4.89004C4.76854 7.73 4.67004 7.6315 4.67004 7.51C4.67004 5.23 6.06004 3.75 8.21004 3.75H15.79C17.94 3.75 19.33 5.23 19.33 7.51ZM15.08 13.43H8.93004C8.52004 13.43 8.18004 13.1 8.18004 12.68C8.18004 12.27 8.52004 11.93 8.93004 11.93H15.08C15.49 11.93 15.83 12.27 15.83 12.68C15.83 13.1 15.49 13.43 15.08 13.43ZM15.08 16.93H8.93004C8.51004 16.93 8.18004 16.6 8.18004 16.18C8.18004 15.77 8.51004 15.43 8.93004 15.43H15.08C15.49 15.43 15.83 15.77 15.83 16.18C15.83 16.6 15.49 16.93 15.08 16.93ZM15.79 2.25H8.21004C5.24004 2.25 3.17004 4.42 3.17004 7.51V16.49C3.17004 19.64 5.20004 21.75 8.21004 21.75H15.79C18.8 21.75 20.83 19.64 20.83 16.49V7.51C20.83 4.37 18.81 2.25 15.79 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.23485 6.78491H8.22485C7.81085 6.78491 7.47485 6.44891 7.47485 6.03491C7.47485 5.62091 7.81085 5.28491 8.22485 5.28491C8.63885 5.28491 8.97985 5.62091 8.97985 6.03491C8.97985 6.44891 8.64885 6.78491 8.23485 6.78491Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7851 6.78491H15.7751C15.3611 6.78491 15.0251 6.44891 15.0251 6.03491C15.0251 5.62091 15.3611 5.28491 15.7751 5.28491C16.1891 5.28491 16.5301 5.62091 16.5301 6.03491C16.5301 6.44891 16.1991 6.78491 15.7851 6.78491Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0098 6.78491H11.9998C11.5858 6.78491 11.2498 6.44891 11.2498 6.03491C11.2498 5.62091 11.5858 5.28491 11.9998 5.28491C12.4138 5.28491 12.7548 5.62091 12.7548 6.03491C12.7548 6.44891 12.4238 6.78491 12.0098 6.78491Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Oven 1 — light style variants.
+class _HomeAppliancesOven1Light {
+  const _HomeAppliancesOven1Light();
+
+  /// Oven 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Oven 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.21316 3H15.7878C18.4352 3 20.0825 4.86908 20.0825 7.51362V16.4864C20.0825 19.1319 18.4352 21 15.7868 21H8.21316C5.5657 21 3.91846 19.1319 3.91846 16.4864V7.51362C3.91846 4.86908 5.57348 3 8.21316 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.23461 6.03027H8.22461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7854 6.03027H15.7754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.01 6.03027H12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.91797 8.48145H20.0829" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.0768 12.6772H8.93053M8.92578 16.1805H15.0779" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Oven 2 icon with style variants.
+class _HomeAppliancesOven2Icon {
+  const _HomeAppliancesOven2Icon();
+
+  /// bold style
+  _HomeAppliancesOven2Bold get bold => const _HomeAppliancesOven2Bold();
+  /// bulk style
+  _HomeAppliancesOven2Bulk get bulk => const _HomeAppliancesOven2Bulk();
+  /// light style
+  _HomeAppliancesOven2Light get light => const _HomeAppliancesOven2Light();
+  /// outline style
+  _HomeAppliancesOven2Outline get outline => const _HomeAppliancesOven2Outline();
+  /// twoTone style
+  _HomeAppliancesOven2Twotone get twoTone => const _HomeAppliancesOven2Twotone();
+  /// broken style
+  _HomeAppliancesOven2Broken get broken => const _HomeAppliancesOven2Broken();
+}
+
+/// Oven 2 — bulk style variants.
+class _HomeAppliancesOven2Bulk {
+  const _HomeAppliancesOven2Bulk();
+
+  /// Oven 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Oven 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M7.91004 2.25H16.09C18.71 2.25 20.83 4.38 20.83 6.99V17.01C20.83 19.63 18.71 21.75 16.09 21.75H7.91004C5.29004 21.75 3.17004 19.63 3.17004 17.01V6.99C3.17004 4.38 5.29004 2.25 7.91004 2.25ZM19.03 7.73H4.97004C4.80436 7.73 4.67004 7.59569 4.67004 7.43V6.99C4.67004 5.21 6.12004 3.75 7.91004 3.75H16.09C17.88 3.75 19.33 5.21 19.33 6.99V7.43C19.33 7.59569 19.1957 7.73 19.03 7.73Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.23485 6.78516H8.22485C7.81085 6.78516 7.47485 6.44916 7.47485 6.03516C7.47485 5.62116 7.81085 5.28516 8.22485 5.28516C8.63885 5.28516 8.97985 5.62116 8.97985 6.03516C8.97985 6.44916 8.64885 6.78516 8.23485 6.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7851 6.78516H15.7751C15.3611 6.78516 15.0251 6.44916 15.0251 6.03516C15.0251 5.62116 15.3611 5.28516 15.7751 5.28516C16.1891 5.28516 16.5301 5.62116 16.5301 6.03516C16.5301 6.44916 16.1991 6.78516 15.7851 6.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0098 6.78516H11.9998C11.5858 6.78516 11.2498 6.44916 11.2498 6.03516C11.2498 5.62116 11.5858 5.28516 11.9998 5.28516C12.4138 5.28516 12.7548 5.62116 12.7548 6.03516C12.7548 6.44916 12.4238 6.78516 12.0098 6.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.12 12.75H9.89001C9.48001 12.75 9.14001 12.42 9.14001 12C9.14001 11.59 9.48001 11.25 9.89001 11.25H14.12C14.53 11.25 14.87 11.59 14.87 12C14.87 12.42 14.53 12.75 14.12 12.75Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Oven 2 — broken style variants.
+class _HomeAppliancesOven2Broken {
+  const _HomeAppliancesOven2Broken();
+
+  /// Oven 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Oven 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.9995 21H8.21267C5.56521 21 3.91797 19.1319 3.91797 16.4864V7.51362C3.91797 4.86908 5.573 3 8.21267 3H15.7873C18.4347 3 20.082 4.86908 20.082 7.51362V16.4864C20.082 19.1319 18.4347 21 15.7863 21H14.9281" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.23461 6.03027H8.22461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7854 6.03027H15.7754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.01 6.03027H12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.91797 8.48145H17.2238" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1153 12H9.89258" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Oven 2 — twoTone style variants.
+class _HomeAppliancesOven2Twotone {
+  const _HomeAppliancesOven2Twotone();
+
+  /// Oven 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Oven 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.71267 3H16.2873C18.9347 3 20.582 4.86908 20.582 7.51362V16.4864C20.582 19.1319 18.9347 21 16.2863 21H8.71267C6.06521 21 4.41797 19.1319 4.41797 16.4864V7.51362C4.41797 4.86908 6.073 3 8.71267 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.73461 6.03027H8.72461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.2854 6.03027H16.2754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.51 6.03027H12.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.41797 8.48145H20.5829" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.6153 12H10.3926" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Oven 2 — outline style variants.
+class _HomeAppliancesOven2Outline {
+  const _HomeAppliancesOven2Outline();
+
+  /// Oven 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Oven 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.52634 3.75371C5.42641 2.78814 6.70655 2.25 8.21218 2.25H15.7868C17.2958 2.25 18.5764 2.78784 19.4759 3.75407C20.3697 4.71424 20.8315 6.03652 20.8315 7.51362V16.4864C20.8315 17.9639 20.3698 19.2863 19.4757 20.2464C18.5759 21.2125 17.2951 21.75 15.7858 21.75H8.21218C6.70326 21.75 5.4227 21.2125 4.52313 20.2463C3.62919 19.2862 3.16748 17.9639 3.16748 16.4864V7.51362C3.16748 6.03559 3.63172 4.71344 4.52634 3.75371ZM5.62356 4.7765C5.03075 5.41246 4.66748 6.34712 4.66748 7.51362V16.4864C4.66748 17.6544 5.02939 18.5888 5.62094 19.2242C6.20686 19.8535 7.07365 20.25 8.21218 20.25H15.7858C16.9249 20.25 17.7919 19.8534 18.3779 19.2241C18.9696 18.5888 19.3315 17.6544 19.3315 16.4864V7.51362C19.3315 6.34619 18.9696 5.41165 18.378 4.77615C17.792 4.1467 16.9252 3.75 15.7868 3.75H8.21218C7.07814 3.75 6.21093 4.1464 5.62356 4.7765Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.47461 6.03027C7.47461 5.61606 7.8104 5.28027 8.22461 5.28027H8.23461C8.64882 5.28027 8.98461 5.61606 8.98461 6.03027C8.98461 6.44449 8.64882 6.78027 8.23461 6.78027H8.22461C7.8104 6.78027 7.47461 6.44449 7.47461 6.03027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0254 6.03027C15.0254 5.61606 15.3612 5.28027 15.7754 5.28027H15.7854C16.1996 5.28027 16.5354 5.61606 16.5354 6.03027C16.5354 6.44449 16.1996 6.78027 15.7854 6.78027H15.7754C15.3612 6.78027 15.0254 6.44449 15.0254 6.03027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.25 6.03027C11.25 5.61606 11.5858 5.28027 12 5.28027H12.01C12.4242 5.28027 12.76 5.61606 12.76 6.03027C12.76 6.44449 12.4242 6.78027 12.01 6.78027H12C11.5858 6.78027 11.25 6.44449 11.25 6.03027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.16797 8.48145C3.16797 8.06723 3.50376 7.73145 3.91797 7.73145H20.0829C20.4972 7.73145 20.8329 8.06723 20.8329 8.48145C20.8329 8.89566 20.4972 9.23145 20.0829 9.23145H3.91797C3.50376 9.23145 3.16797 8.89566 3.16797 8.48145Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.14258 12C9.14258 11.5858 9.47836 11.25 9.89258 11.25H14.1153C14.5295 11.25 14.8653 11.5858 14.8653 12C14.8653 12.4142 14.5295 12.75 14.1153 12.75H9.89258C9.47836 12.75 9.14258 12.4142 9.14258 12Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Oven 2 — bold style variants.
+class _HomeAppliancesOven2Bold {
+  const _HomeAppliancesOven2Bold();
+
+  /// Oven 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Oven 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.33 7.51C19.33 7.6315 19.2315 7.73 19.11 7.73H4.89004C4.76854 7.73 4.67004 7.6315 4.67004 7.51C4.67004 5.23 6.06004 3.75 8.21004 3.75H15.79C17.94 3.75 19.33 5.23 19.33 7.51ZM14.12 12.75H9.89004C9.48004 12.75 9.14004 12.42 9.14004 12C9.14004 11.59 9.48004 11.25 9.89004 11.25H14.12C14.53 11.25 14.87 11.59 14.87 12C14.87 12.42 14.53 12.75 14.12 12.75ZM15.79 2.25H8.21004C5.24004 2.25 3.17004 4.42 3.17004 7.51V16.49C3.17004 19.64 5.20004 21.75 8.21004 21.75H15.79C18.8 21.75 20.83 19.64 20.83 16.49V7.51C20.83 4.37 18.8 2.25 15.79 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.23537 6.78491H8.22437C7.81037 6.78491 7.47437 6.44891 7.47437 6.03491C7.47437 5.62091 7.81037 5.28491 8.22437 5.28491C8.63837 5.28491 8.97937 5.62091 8.97937 6.03491C8.97937 6.44891 8.64937 6.78491 8.23537 6.78491Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7851 6.78491H15.7751C15.3611 6.78491 15.0251 6.44891 15.0251 6.03491C15.0251 5.62091 15.3611 5.28491 15.7751 5.28491C16.1891 5.28491 16.5301 5.62091 16.5301 6.03491C16.5301 6.44891 16.1991 6.78491 15.7851 6.78491Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0098 6.78491H11.9998C11.5858 6.78491 11.2498 6.44891 11.2498 6.03491C11.2498 5.62091 11.5858 5.28491 11.9998 5.28491C12.4138 5.28491 12.7548 5.62091 12.7548 6.03491C12.7548 6.44891 12.4238 6.78491 12.0098 6.78491Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Oven 2 — light style variants.
+class _HomeAppliancesOven2Light {
+  const _HomeAppliancesOven2Light();
+
+  /// Oven 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Oven 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.21218 3H15.7868C18.4342 3 20.0815 4.86908 20.0815 7.51362V16.4864C20.0815 19.1319 18.4342 21 15.7858 21H8.21218C5.56472 21 3.91748 19.1319 3.91748 16.4864V7.51362C3.91748 4.86908 5.57251 3 8.21218 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.23461 6.03027H8.22461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7854 6.03027H15.7754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.01 6.03027H12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.91797 8.48145H20.0829" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1153 12H9.89258" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -1267,7 +2613,7 @@ class _HomeAppliancesSingleBedBulk {
   /// Single bed — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Single bed',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8229 13.8868C21.5119 12.6128 20.5269 11.6248 19.2439 11.3078C18.8389 11.2148 18.3939 11.2148 17.5089 11.2148H7.33488C6.44988 11.2148 6.00588 11.2148 5.59188 11.3098C4.31788 11.6248 3.33187 12.6128 3.02087 13.8868C2.92188 14.2948 2.92188 14.7398 2.92188 15.6248C2.92188 16.1008 2.92188 16.3638 2.98088 16.6148C3.16788 17.3768 3.75987 17.9658 4.51388 18.1488C4.62987 18.1788 4.74787 18.1948 4.88688 18.2038V19.2748C4.88688 19.6888 5.22287 20.0248 5.63687 20.0248C6.05187 20.0248 6.38687 19.6888 6.38687 19.2748V18.2148H18.4579V19.2748C18.4579 19.6888 18.7939 20.0248 19.2079 20.0248C19.6219 20.0248 19.9579 19.6888 19.9579 19.2748V18.2038C20.0949 18.1948 20.2089 18.1808 20.3189 18.1518C21.0849 17.9648 21.6769 17.3758 21.8619 16.6128C21.9219 16.3648 21.9219 16.1018 21.9219 15.6248C21.9219 14.7398 21.9219 14.2948 21.8229 13.8868Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M5.63733 10.2146H19.2083C19.4843 10.2146 19.7083 9.99061 19.7083 9.71461V6.63461C19.7083 5.98561 19.7083 5.62861 19.5893 5.29461C19.3873 4.73261 18.9473 4.29461 18.3873 4.09461C18.0583 3.97461 17.7203 3.97461 17.0483 3.97461H7.79733C7.12433 3.97461 6.78633 3.97461 6.46033 4.09361C5.89733 4.29461 5.45833 4.73261 5.25333 5.29861C5.13733 5.62961 5.13733 5.98561 5.13733 6.63461V9.71461C5.13733 9.99061 5.36133 10.2146 5.63733 10.2146Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5108 12.9125C21.2968 12.3155 20.8358 11.8515 20.2388 11.6385C19.8968 11.5215 19.5408 11.5215 18.8308 11.5215H5.43877C4.72977 11.5215 4.37277 11.5215 4.02477 11.6415C3.43577 11.8505 2.97377 12.3135 2.75877 12.9105C2.63477 13.2535 2.63477 13.6105 2.63477 14.3215V15.7125C2.63477 16.4295 2.63477 16.7895 2.75877 17.1325C2.97177 17.7235 3.43377 18.1835 4.01377 18.3885C4.19177 18.4555 4.37277 18.4895 4.59977 18.5055V19.5815C4.59977 19.9955 4.93577 20.3315 5.34977 20.3315C5.76377 20.3315 6.09977 19.9955 6.09977 19.5815V18.5215H18.1708V19.5815C18.1708 19.9955 18.5068 20.3315 18.9208 20.3315C19.3348 20.3315 19.6708 19.9955 19.6708 19.5815V18.5055C19.8958 18.4895 20.0738 18.4575 20.2448 18.3915C20.8378 18.1825 21.2988 17.7225 21.5098 17.1335C21.6348 16.7895 21.6348 16.4295 21.6348 15.7125V14.3215C21.6348 13.6095 21.6348 13.2535 21.5108 12.9125Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M4.58447 10.499H7.93447C8.04493 10.499 8.13418 10.4094 8.13246 10.299C8.12645 9.91331 8.11752 9.50854 8.26947 9.15397C8.48647 8.64597 8.95047 8.24697 9.54047 8.05797C9.88547 7.95797 10.2375 7.95797 10.9385 7.95797H13.3315C14.0325 7.95797 14.3845 7.95797 14.7165 8.05397C15.3215 8.24797 15.7845 8.64697 16.0005 9.15597C16.1523 9.50944 16.1428 9.9141 16.1365 10.299C16.1348 10.4094 16.224 10.499 16.3345 10.499H19.6865C19.9625 10.499 20.1865 10.275 20.1865 9.99897V6.72797C20.1865 5.94197 20.1865 5.54897 20.0515 5.17997C19.8255 4.54597 19.3275 4.04297 18.6705 3.79397C18.2995 3.66797 17.9065 3.66797 17.1225 3.66797H7.14847C6.36347 3.66797 5.97047 3.66797 5.58447 3.79997C4.94347 4.04297 4.44647 4.54497 4.21847 5.17797C4.08447 5.54897 4.08447 5.94297 4.08447 6.72797V9.99897C4.08447 10.275 4.30847 10.499 4.58447 10.499Z" fill="black"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -1282,7 +2628,7 @@ class _HomeAppliancesSingleBedBroken {
   /// Single bed — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Single bed',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.4229 17.8379H19.3359C19.7879 17.8379 20.0148 17.8379 20.2018 17.7924C20.7818 17.6509 21.2358 17.1975 21.3768 16.6168C21.4228 16.4301 21.4229 16.2036 21.4229 15.7509C21.4229 14.9021 21.4229 14.4777 21.3369 14.1276C21.0719 13.0388 20.2219 12.1886 19.1329 11.9232C18.7829 11.8379 18.3589 11.8379 17.5099 11.8379H7.33588C6.48688 11.8379 6.06185 11.8379 5.71185 11.9232C4.62385 12.1886 3.77287 13.0388 3.50787 14.1276C3.42287 14.4777 3.42285 14.9021 3.42285 15.751C3.42285 16.2033 3.42285 16.4302 3.46783 16.6168C3.60983 17.1975 4.06286 17.6509 4.64386 17.7924C4.83086 17.8379 5.05689 17.8379 5.50989 17.8379H8.96638" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.63672 11.8268V6.75961C5.63672 6.14508 5.63672 5.83782 5.7254 5.5915C5.87683 5.17088 6.20799 4.83972 6.62861 4.68829C6.87493 4.59961 7.18219 4.59961 7.79672 4.59961H12.4124" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.208 11.8268V6.75961C19.208 6.14508 19.208 5.83782 19.1193 5.5915C18.9679 5.17088 18.6367 4.83972 18.2161 4.68829C17.9698 4.59961 17.6625 4.59961 17.048 4.59961H14.7107" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.208 19.4008V17.8379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.63672 19.4008V17.8379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.1348 17.8379H18.8308C19.4863 17.8379 19.814 17.8379 20.0767 17.7433C20.5254 17.5818 20.8786 17.2285 21.0402 16.7799C21.1348 16.5171 21.1348 16.1894 21.1348 15.5339V14.1419C21.1348 13.4864 21.1348 13.1586 21.0402 12.8959C20.8786 12.4472 20.5254 12.094 20.0767 11.9325C19.814 11.8379 19.4863 11.8379 18.8308 11.8379H5.43877C4.78327 11.8379 4.45552 11.8379 4.19279 11.9325C3.74412 12.094 3.39089 12.4472 3.22936 12.8959C3.13477 13.1586 3.13477 13.4864 3.13477 14.1419V15.5339C3.13477 16.1894 3.13477 16.5171 3.22936 16.7799C3.39089 17.2285 3.74412 17.5818 4.19279 17.7433C4.45552 17.8379 4.78327 17.8379 5.43877 17.8379H8.78677" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.9209 11.8268V6.75961C18.9209 6.14508 18.9209 5.83782 18.8322 5.5915C18.6808 5.17088 18.3496 4.83972 17.929 4.68829C17.6827 4.59961 17.3754 4.59961 16.7609 4.59961H12.1453" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.34863 11.8268V6.75961C5.34863 6.14508 5.34863 5.83782 5.43731 5.5915C5.58875 5.17088 5.9199 4.83972 6.34053 4.68829C6.58684 4.59961 6.89411 4.59961 7.50863 4.59961H9.8459" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.34863 19.4008V17.8379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.9209 19.4008V17.8379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.6348 11.8068V10.9041C15.6348 10.2486 15.6348 9.92085 15.5402 9.65812C15.3786 9.20945 15.0254 8.85622 14.5767 8.69469C14.314 8.6001 13.9863 8.6001 13.3308 8.6001H10.9388C10.2833 8.6001 9.95552 8.6001 9.69279 8.69469C9.24412 8.85622 8.89089 9.20945 8.72936 9.65812C8.63477 9.92085 8.63477 10.2486 8.63477 10.9041V11.8068" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -1297,7 +2643,7 @@ class _HomeAppliancesSingleBedTwotone {
   /// Single bed — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Single bed',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.92188 15.7509C3.92188 14.9021 3.92188 14.4776 4.00717 14.1276C4.27253 13.0387 5.1227 12.1885 6.21158 11.9232C6.56161 11.8379 6.98604 11.8379 7.83492 11.8379H18.0088C18.8577 11.8379 19.2821 11.8379 19.6322 11.9232C20.721 12.1885 21.5712 13.0387 21.8366 14.1276C21.9219 14.4776 21.9219 14.9021 21.9219 15.7509C21.9219 16.2037 21.9219 16.43 21.8764 16.6167C21.7349 17.1974 21.2814 17.6509 20.7007 17.7924C20.514 17.8379 20.2877 17.8379 19.8349 17.8379H6.00883C5.5561 17.8379 5.32973 17.8379 5.14305 17.7924C4.56232 17.6509 4.10889 17.1974 3.96737 16.6167C3.92188 16.43 3.92188 16.2037 3.92188 15.7509Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.7081 19.3998V18.2998M6.13672 18.2998V19.3998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.7081 11.8382V6.7601C19.7081 6.14557 19.7081 5.83831 19.6195 5.59199C19.468 5.17137 19.1369 4.84021 18.7163 4.68878C18.4699 4.6001 18.1627 4.6001 17.5481 4.6001H8.29672C7.68219 4.6001 7.37493 4.6001 7.12861 4.68878C6.70799 4.84021 6.37683 5.17137 6.2254 5.59199C6.13672 5.83831 6.13672 6.14557 6.13672 6.7601V11.8382" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.63477 14.1419C3.63477 13.4864 3.63477 13.1586 3.72936 12.8959C3.89089 12.4472 4.24412 12.094 4.69279 11.9325C4.95552 11.8379 5.28327 11.8379 5.93877 11.8379H19.3308C19.9863 11.8379 20.314 11.8379 20.5767 11.9325C21.0254 12.094 21.3786 12.4472 21.5402 12.8959C21.6348 13.1586 21.6348 13.4864 21.6348 14.1419V15.5339C21.6348 16.1894 21.6348 16.5171 21.5402 16.7799C21.3786 17.2285 21.0254 17.5818 20.5767 17.7433C20.314 17.8379 19.9863 17.8379 19.3308 17.8379H5.93877C5.28327 17.8379 4.95552 17.8379 4.69279 17.7433C4.24412 17.5818 3.89089 17.2285 3.72936 16.7799C3.63477 16.5171 3.63477 16.1894 3.63477 15.5339V14.1419Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.421 19.3998V17.8379M5.84961 17.8379V19.3998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.421 11.8382V6.9041C19.421 6.2486 19.421 5.92085 19.3264 5.65812C19.1649 5.20945 18.8117 4.85622 18.363 4.69469C18.1003 4.6001 17.7725 4.6001 17.117 4.6001H8.15361C7.49811 4.6001 7.17036 4.6001 6.90763 4.69469C6.45896 4.85622 6.10573 5.20945 5.9442 5.65812C5.84961 5.92085 5.84961 6.2486 5.84961 6.9041V11.8382" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.1348 11.8068V10.9041C16.1348 10.2486 16.1348 9.92085 16.0402 9.65812C15.8786 9.20945 15.5254 8.85622 15.0767 8.69469C14.814 8.6001 14.4863 8.6001 13.8308 8.6001H11.4388C10.7833 8.6001 10.4555 8.6001 10.1928 8.69469C9.74412 8.85622 9.39089 9.20945 9.22936 9.65812C9.13477 9.92085 9.13477 10.2486 9.13477 10.9041V11.8068" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -1312,7 +2658,7 @@ class _HomeAppliancesSingleBedOutline {
   /// Single bed — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Single bed',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.80742 11.0882C6.84214 11.0882 6.87737 11.0882 6.91313 11.0882H17.087C17.1228 11.0882 17.158 11.0882 17.1928 11.0882C17.9395 11.0879 18.4488 11.0878 18.888 11.1948C20.2491 11.5265 21.3118 12.5892 21.6435 13.9503C21.7505 14.3895 21.7503 14.8988 21.7501 15.6455C21.7501 15.6802 21.7501 15.7155 21.7501 15.7512C21.7501 15.778 21.7501 15.8045 21.7501 15.8307C21.7505 16.2042 21.7507 16.5177 21.6833 16.7946C21.4754 17.6475 20.8094 18.3135 19.9565 18.5214C19.6797 18.5888 19.3661 18.5885 18.9926 18.5882C18.9664 18.5882 18.9399 18.5882 18.9131 18.5882H5.08705C5.06026 18.5882 5.03378 18.5882 5.00759 18.5882C4.63412 18.5885 4.32053 18.5888 4.04369 18.5214C3.19074 18.3135 2.52477 17.6475 2.31691 16.7946C2.24945 16.5177 2.24972 16.2041 2.25004 15.8307C2.25007 15.8045 2.25009 15.778 2.25009 15.7512C2.25009 15.7155 2.25008 15.6802 2.25007 15.6455C2.24984 14.8988 2.24969 14.3895 2.35671 13.9503C2.6884 12.5892 3.75112 11.5265 5.11222 11.1948C5.55139 11.0878 6.06071 11.0879 6.80742 11.0882ZM6.91313 12.5882C6.0203 12.5882 5.70783 12.5936 5.46737 12.6521C4.65071 12.8512 4.01308 13.4888 3.81406 14.3055C3.75547 14.5459 3.75009 14.8584 3.75009 15.7512C3.75009 16.2479 3.75547 16.3623 3.77426 16.4394C3.84944 16.7479 4.09032 16.9888 4.39884 17.064C4.47596 17.0828 4.59035 17.0882 5.08705 17.0882H18.9131C19.4098 17.0882 19.5242 17.0828 19.6013 17.064C19.9099 16.9888 20.1507 16.7479 20.2259 16.4394C20.2447 16.3623 20.2501 16.2479 20.2501 15.7512C20.2501 14.8584 20.2447 14.5459 20.1861 14.3055C19.9871 13.4888 19.3495 12.8512 18.5328 12.6521C18.2924 12.5936 17.9799 12.5882 17.087 12.5882H6.91313Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.21484 17.5498C5.62906 17.5498 5.96484 17.8856 5.96484 18.2998V19.3998C5.96484 19.814 5.62906 20.1498 5.21484 20.1498C4.80063 20.1498 4.46484 19.814 4.46484 19.3998V18.2998C4.46484 17.8856 4.80063 17.5498 5.21484 17.5498ZM18.7863 17.5498C19.2005 17.5498 19.5363 17.8856 19.5363 18.2998V19.3998C19.5363 19.814 19.2005 20.1498 18.7863 20.1498C18.3721 20.1498 18.0363 19.814 18.0363 19.3998V18.2998C18.0363 17.8856 18.3721 17.5498 18.7863 17.5498Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.26408 3.84995C7.30063 3.85 7.33753 3.85005 7.3748 3.85005H16.6262C16.6635 3.85005 16.7004 3.85 16.737 3.84995C17.2398 3.84925 17.675 3.84865 18.0484 3.98307L17.7943 4.68873L18.0484 3.98307C18.6793 4.21022 19.1761 4.70696 19.4032 5.3379L18.6975 5.59195L19.4032 5.3379C19.5376 5.71127 19.537 6.14648 19.5363 6.64933C19.5363 6.68588 19.5362 6.72279 19.5362 6.76006V11.8381C19.5362 12.2524 19.2004 12.5882 18.7862 12.5882C18.372 12.5882 18.0362 12.2524 18.0362 11.8381V6.76006C18.0362 6.08099 18.0251 5.93811 17.9919 5.846L18.6899 5.59469L17.9919 5.846C17.9162 5.63569 17.7506 5.47011 17.5403 5.39439C17.4482 5.36123 17.3053 5.35005 16.6262 5.35005H7.3748C6.69573 5.35005 6.55286 5.36123 6.46075 5.39439C6.25044 5.47011 6.08486 5.63569 6.00914 5.846C5.97598 5.93811 5.9648 6.08099 5.9648 6.76005V11.8381C5.9648 12.2524 5.62901 12.5882 5.2148 12.5882C4.80059 12.5882 4.4648 12.2524 4.4648 11.8381V6.76005C4.4648 6.72279 4.46475 6.68588 4.4647 6.64933C4.464 6.14648 4.46339 5.71127 4.59782 5.33789C4.82497 4.70696 5.32171 4.21022 5.95264 3.98307C6.32602 3.84865 6.76122 3.84925 7.26408 3.84995Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.1893 11.088C5.22718 11.088 5.26547 11.0881 5.30419 11.0881H18.6962C18.7349 11.0881 18.7732 11.088 18.8111 11.088C19.3513 11.0873 19.8066 11.0867 20.1962 11.227C20.8552 11.4643 21.374 11.9831 21.6113 12.642C21.7515 13.0317 21.751 13.487 21.7503 14.0272C21.7502 14.0651 21.7502 14.1034 21.7502 14.1421V15.5341C21.7502 15.5728 21.7502 15.6111 21.7503 15.649C21.751 16.1892 21.7515 16.6445 21.6113 17.0341C21.374 17.6931 20.8552 18.2119 20.1962 18.4491C19.8066 18.5894 19.3513 18.5889 18.8111 18.5882C18.7732 18.5881 18.7349 18.5881 18.6962 18.5881H5.30419C5.26547 18.5881 5.22718 18.5881 5.18931 18.5882C4.64907 18.5889 4.19378 18.5894 3.80415 18.4491C3.14518 18.2119 2.62636 17.6931 2.38912 17.0341C2.24885 16.6445 2.24942 16.1892 2.25009 15.649C2.25014 15.6111 2.25019 15.5728 2.25019 15.5341V14.1421C2.25019 14.1034 2.25014 14.0651 2.25009 14.0272C2.24942 13.487 2.24885 13.0317 2.38912 12.642C2.62636 11.9831 3.14518 11.4643 3.80415 11.227C4.19378 11.0867 4.64907 11.0873 5.1893 11.088ZM5.30419 12.5881C4.58415 12.5881 4.42079 12.5993 4.31226 12.6383C4.07391 12.7241 3.88625 12.9118 3.80044 13.1502C3.76136 13.2587 3.75019 13.422 3.75019 14.1421V15.5341C3.75019 16.2541 3.76136 16.4175 3.80044 16.526C3.88625 16.7644 4.07391 16.952 4.31226 17.0378C4.42079 17.0769 4.58415 17.0881 5.30419 17.0881H18.6962C19.4162 17.0881 19.5796 17.0769 19.6881 17.0378C19.9265 16.952 20.1141 16.7644 20.1999 16.526C20.239 16.4175 20.2502 16.2541 20.2502 15.5341V14.1421C20.2502 13.422 20.239 13.2587 20.1999 13.1502C20.1141 12.9118 19.9265 12.7241 19.6881 12.6383C19.5796 12.5993 19.4162 12.5881 18.6962 12.5881H5.30419Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.21484 17.0879C5.62906 17.0879 5.96484 17.4237 5.96484 17.8379V19.3998C5.96484 19.814 5.62906 20.1498 5.21484 20.1498C4.80063 20.1498 4.46484 19.814 4.46484 19.3998V17.8379C4.46484 17.4237 4.80063 17.0879 5.21484 17.0879ZM18.7863 17.0879C19.2005 17.0879 19.5363 17.4237 19.5363 17.8379V19.3998C19.5363 19.814 19.2005 20.1498 18.7863 20.1498C18.3721 20.1498 18.0363 19.814 18.0363 19.3998V17.8379C18.0363 17.4237 18.3721 17.0879 18.7863 17.0879Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.40415 3.84995C7.44202 3.84999 7.48032 3.85004 7.51903 3.85004H16.4825C16.5212 3.85004 16.5595 3.84999 16.5973 3.84995C17.1376 3.84927 17.5929 3.8487 17.9825 3.98897L17.7311 4.68727L17.9825 3.98897C18.6415 4.22622 19.1603 4.74503 19.3975 5.40401C19.5378 5.79363 19.5372 6.24892 19.5366 6.78916C19.5365 6.82703 19.5365 6.86532 19.5365 6.90404V11.8381C19.5365 12.2523 19.2007 12.5881 18.7865 12.5881C18.3722 12.5881 18.0365 12.2523 18.0365 11.8381V6.90404C18.0365 6.18401 18.0253 6.02065 17.9862 5.91211C17.9004 5.67376 17.7127 5.4861 17.4744 5.40029L17.7284 4.69463L17.4744 5.40029C17.3659 5.36122 17.2025 5.35004 16.4825 5.35004H7.51903C6.799 5.35004 6.63564 5.36122 6.5271 5.40029C6.28875 5.48611 6.1011 5.67376 6.01528 5.91211C5.97621 6.02065 5.96503 6.184 5.96503 6.90404V11.8381C5.96503 12.2523 5.62925 12.5881 5.21503 12.5881C4.80082 12.5881 4.46503 12.2523 4.46503 11.8381V6.90404C4.46503 6.86532 4.46498 6.82703 4.46494 6.78916C4.46426 6.24892 4.46369 5.79363 4.60396 5.40401C4.84121 4.74503 5.36002 4.22622 6.019 3.98897C6.40862 3.8487 6.86391 3.84927 7.40415 3.84995Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.6893 7.84995C10.7272 7.84999 10.7655 7.85004 10.8042 7.85004H13.1962C13.2349 7.85004 13.2732 7.84999 13.3111 7.84995C13.8513 7.84927 14.3066 7.8487 14.6962 7.98897L14.4422 8.69463L14.6962 7.98897C15.3552 8.22622 15.874 8.74503 16.1113 9.40401L15.4056 9.65806L16.1113 9.40401C16.2515 9.79363 16.251 10.2489 16.2503 10.7892C16.2502 10.827 16.2502 10.8653 16.2502 10.904V11.8067C16.2502 12.2209 15.9144 12.5567 15.5002 12.5567C15.086 12.5567 14.7502 12.2209 14.7502 11.8067V10.904C14.7502 10.184 14.739 10.0206 14.6999 9.91211C14.6141 9.67376 14.4265 9.4861 14.1881 9.40029C14.0796 9.36122 13.9162 9.35004 13.1962 9.35004H10.8042C10.0842 9.35004 9.92079 9.36122 9.81226 9.40029C9.57391 9.4861 9.38625 9.67376 9.30044 9.91211C9.26136 10.0206 9.25019 10.184 9.25019 10.904V11.8067C9.25019 12.2209 8.9144 12.5567 8.50019 12.5567C8.08597 12.5567 7.75019 12.2209 7.75019 11.8067V10.904C7.75019 10.8653 7.75014 10.827 7.75009 10.7892C7.74942 10.2489 7.74885 9.79363 7.88912 9.40401C8.12636 8.74503 8.64518 8.22622 9.30415 7.98897C9.69378 7.8487 10.1491 7.84927 10.6893 7.84995Z" fill="black"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -1327,7 +2673,7 @@ class _HomeAppliancesSingleBedBold {
   /// Single bed — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Single bed',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8229 13.8866C21.5119 12.6126 20.5269 11.6246 19.2439 11.3076C18.8389 11.2146 18.3939 11.2146 17.5089 11.2146H7.33488C6.44988 11.2146 6.00588 11.2146 5.59188 11.3096C4.31788 11.6246 3.33187 12.6126 3.02087 13.8866C2.92188 14.2946 2.92188 14.7396 2.92188 15.6246C2.92188 16.1006 2.92188 16.3636 2.98088 16.6146C3.16788 17.3766 3.75987 17.9656 4.51388 18.1486C4.62987 18.1786 4.74787 18.1946 4.88688 18.2036V19.2746C4.88688 19.6886 5.22287 20.0246 5.63687 20.0246C6.05187 20.0246 6.38687 19.6886 6.38687 19.2746V18.2146H18.4579V19.2746C18.4579 19.6886 18.7939 20.0246 19.2079 20.0246C19.6219 20.0246 19.9579 19.6886 19.9579 19.2746V18.2036C20.0949 18.1946 20.2089 18.1806 20.3189 18.1516C21.0849 17.9646 21.6769 17.3756 21.8619 16.6126C21.9219 16.3646 21.9219 16.1016 21.9219 15.6246C21.9219 14.7396 21.9219 14.2946 21.8229 13.8866Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.63733 10.2146H19.2083C19.4843 10.2146 19.7083 9.99061 19.7083 9.71461V6.63461C19.7083 5.98561 19.7083 5.62861 19.5893 5.29461C19.3873 4.73261 18.9473 4.29461 18.3873 4.09461C18.0583 3.97461 17.7203 3.97461 17.0483 3.97461H7.79733C7.12433 3.97461 6.78633 3.97461 6.46033 4.09361C5.89733 4.29461 5.45833 4.73261 5.25333 5.29861C5.13733 5.62961 5.13733 5.98561 5.13733 6.63461V9.71461C5.13733 9.99061 5.36133 10.2146 5.63733 10.2146Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.58447 10.499H7.93447C8.04493 10.499 8.13418 10.4094 8.13246 10.299C8.12645 9.91331 8.11752 9.50854 8.26947 9.15397C8.48647 8.64597 8.95047 8.24697 9.54047 8.05797C9.88547 7.95797 10.2375 7.95797 10.9385 7.95797H13.3315C14.0325 7.95797 14.3845 7.95797 14.7165 8.05397C15.3215 8.24797 15.7845 8.64697 16.0005 9.15597C16.1523 9.50944 16.1428 9.9141 16.1365 10.299C16.1348 10.4094 16.224 10.499 16.3345 10.499H19.6865C19.9625 10.499 20.1865 10.275 20.1865 9.99897V6.72797C20.1865 5.94197 20.1865 5.54897 20.0515 5.17997C19.8255 4.54597 19.3275 4.04297 18.6705 3.79397C18.2995 3.66797 17.9065 3.66797 17.1225 3.66797H7.14847C6.36347 3.66797 5.97047 3.66797 5.58447 3.79997C4.94347 4.04297 4.44647 4.54497 4.21847 5.17797C4.08447 5.54897 4.08447 5.94297 4.08447 6.72797V9.99897C4.08447 10.275 4.30847 10.499 4.58447 10.499Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5108 12.912C21.2968 12.315 20.8358 11.851 20.2388 11.638C19.8968 11.521 19.5408 11.521 18.8308 11.521H5.43877C4.72977 11.521 4.37277 11.521 4.02477 11.641C3.43577 11.85 2.97377 12.313 2.75877 12.91C2.63477 13.253 2.63477 13.61 2.63477 14.321V15.712C2.63477 16.429 2.63477 16.789 2.75877 17.132C2.97177 17.723 3.43377 18.183 4.01377 18.388C4.19177 18.455 4.37277 18.489 4.59977 18.505V19.581C4.59977 19.995 4.93577 20.331 5.34977 20.331C5.76377 20.331 6.09977 19.995 6.09977 19.581V18.521H18.1708V19.581C18.1708 19.995 18.5068 20.331 18.9208 20.331C19.3348 20.331 19.6708 19.995 19.6708 19.581V18.505C19.8958 18.489 20.0738 18.457 20.2448 18.391C20.8378 18.182 21.2988 17.722 21.5098 17.133C21.6348 16.789 21.6348 16.429 21.6348 15.712V14.321C21.6348 13.609 21.6348 13.253 21.5108 12.912Z" fill="black"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -1342,6 +2688,114 @@ class _HomeAppliancesSingleBedLight {
   /// Single bed — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Single bed',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 14.1421C3 13.4866 3 13.1589 3.09459 12.8962C3.25612 12.4475 3.60935 12.0943 4.05802 11.9327C4.32076 11.8381 4.6485 11.8381 5.304 11.8381H18.696C19.3515 11.8381 19.6792 11.8381 19.942 11.9327C20.3906 12.0943 20.7439 12.4475 20.9054 12.8962C21 13.1589 21 13.4866 21 14.1421V15.5341C21 16.1896 21 16.5174 20.9054 16.7801C20.7439 17.2288 20.3906 17.582 19.942 17.7435C19.6792 17.8381 19.3515 17.8381 18.696 17.8381H5.304C4.6485 17.8381 4.32076 17.8381 4.05802 17.7435C3.60935 17.582 3.25612 17.2288 3.09459 16.7801C3 16.5174 3 16.1896 3 15.5341V14.1421Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7863 19.3998V17.8379M5.21484 17.8379V19.3998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7863 11.8382V6.9041C18.7863 6.2486 18.7863 5.92085 18.6917 5.65812C18.5302 5.20945 18.1769 4.85622 17.7283 4.69469C17.4655 4.6001 17.1378 4.6001 16.4823 4.6001H7.51884C6.86335 4.6001 6.5356 4.6001 6.27286 4.69469C5.8242 4.85622 5.47096 5.20945 5.30943 5.65812C5.21484 5.92085 5.21484 6.2486 5.21484 6.9041V11.8382" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.5 11.8068V10.9041C15.5 10.2486 15.5 9.92085 15.4054 9.65812C15.2439 9.20945 14.8906 8.85622 14.442 8.69469C14.1792 8.6001 13.8515 8.6001 13.196 8.6001H10.804C10.1485 8.6001 9.82076 8.6001 9.55802 8.69469C9.10935 8.85622 8.75612 9.20945 8.59459 9.65812C8.5 9.92085 8.5 10.2486 8.5 10.9041V11.8068" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Single bed 1 icon with style variants.
+class _HomeAppliancesSingleBed1Icon {
+  const _HomeAppliancesSingleBed1Icon();
+
+  /// bold style
+  _HomeAppliancesSingleBed1Bold get bold => const _HomeAppliancesSingleBed1Bold();
+  /// bulk style
+  _HomeAppliancesSingleBed1Bulk get bulk => const _HomeAppliancesSingleBed1Bulk();
+  /// light style
+  _HomeAppliancesSingleBed1Light get light => const _HomeAppliancesSingleBed1Light();
+  /// outline style
+  _HomeAppliancesSingleBed1Outline get outline => const _HomeAppliancesSingleBed1Outline();
+  /// twoTone style
+  _HomeAppliancesSingleBed1Twotone get twoTone => const _HomeAppliancesSingleBed1Twotone();
+  /// broken style
+  _HomeAppliancesSingleBed1Broken get broken => const _HomeAppliancesSingleBed1Broken();
+}
+
+/// Single bed 1 — bulk style variants.
+class _HomeAppliancesSingleBed1Bulk {
+  const _HomeAppliancesSingleBed1Bulk();
+
+  /// Single bed 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Single bed 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8229 13.8868C21.5119 12.6128 20.5269 11.6248 19.2439 11.3078C18.8389 11.2148 18.3939 11.2148 17.5089 11.2148H7.33488C6.44988 11.2148 6.00588 11.2148 5.59188 11.3098C4.31788 11.6248 3.33187 12.6128 3.02087 13.8868C2.92188 14.2948 2.92188 14.7398 2.92188 15.6248C2.92188 16.1008 2.92188 16.3638 2.98088 16.6148C3.16788 17.3768 3.75987 17.9658 4.51388 18.1488C4.62987 18.1788 4.74787 18.1948 4.88688 18.2038V19.2748C4.88688 19.6888 5.22287 20.0248 5.63687 20.0248C6.05187 20.0248 6.38687 19.6888 6.38687 19.2748V18.2148H18.4579V19.2748C18.4579 19.6888 18.7939 20.0248 19.2079 20.0248C19.6219 20.0248 19.9579 19.6888 19.9579 19.2748V18.2038C20.0949 18.1948 20.2089 18.1808 20.3189 18.1518C21.0849 17.9648 21.6769 17.3758 21.8619 16.6128C21.9219 16.3648 21.9219 16.1018 21.9219 15.6248C21.9219 14.7398 21.9219 14.2948 21.8229 13.8868Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M5.63733 10.2146H19.2083C19.4843 10.2146 19.7083 9.99061 19.7083 9.71461V6.63461C19.7083 5.98561 19.7083 5.62861 19.5893 5.29461C19.3873 4.73261 18.9473 4.29461 18.3873 4.09461C18.0583 3.97461 17.7203 3.97461 17.0483 3.97461H7.79733C7.12433 3.97461 6.78633 3.97461 6.46033 4.09361C5.89733 4.29461 5.45833 4.73261 5.25333 5.29861C5.13733 5.62961 5.13733 5.98561 5.13733 6.63461V9.71461C5.13733 9.99061 5.36133 10.2146 5.63733 10.2146Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Single bed 1 — broken style variants.
+class _HomeAppliancesSingleBed1Broken {
+  const _HomeAppliancesSingleBed1Broken();
+
+  /// Single bed 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Single bed 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.4229 17.8379H19.3359C19.7879 17.8379 20.0148 17.8379 20.2018 17.7924C20.7818 17.6509 21.2358 17.1975 21.3768 16.6168C21.4228 16.4301 21.4229 16.2036 21.4229 15.7509C21.4229 14.9021 21.4229 14.4777 21.3369 14.1276C21.0719 13.0388 20.2219 12.1886 19.1329 11.9232C18.7829 11.8379 18.3589 11.8379 17.5099 11.8379H7.33588C6.48688 11.8379 6.06185 11.8379 5.71185 11.9232C4.62385 12.1886 3.77287 13.0388 3.50787 14.1276C3.42287 14.4777 3.42285 14.9021 3.42285 15.751C3.42285 16.2033 3.42285 16.4302 3.46783 16.6168C3.60983 17.1975 4.06286 17.6509 4.64386 17.7924C4.83086 17.8379 5.05689 17.8379 5.50989 17.8379H8.96638" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.63672 11.8268V6.75961C5.63672 6.14508 5.63672 5.83782 5.7254 5.5915C5.87683 5.17088 6.20799 4.83972 6.62861 4.68829C6.87493 4.59961 7.18219 4.59961 7.79672 4.59961H12.4124" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.208 11.8268V6.75961C19.208 6.14508 19.208 5.83782 19.1193 5.5915C18.9679 5.17088 18.6367 4.83972 18.2161 4.68829C17.9698 4.59961 17.6625 4.59961 17.048 4.59961H14.7107" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.208 19.4008V17.8379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.63672 19.4008V17.8379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Single bed 1 — twoTone style variants.
+class _HomeAppliancesSingleBed1Twotone {
+  const _HomeAppliancesSingleBed1Twotone();
+
+  /// Single bed 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Single bed 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.92188 15.7509C3.92188 14.9021 3.92188 14.4776 4.00717 14.1276C4.27253 13.0387 5.1227 12.1885 6.21158 11.9232C6.56161 11.8379 6.98604 11.8379 7.83492 11.8379H18.0088C18.8577 11.8379 19.2821 11.8379 19.6322 11.9232C20.721 12.1885 21.5712 13.0387 21.8366 14.1276C21.9219 14.4776 21.9219 14.9021 21.9219 15.7509C21.9219 16.2037 21.9219 16.43 21.8764 16.6167C21.7349 17.1974 21.2814 17.6509 20.7007 17.7924C20.514 17.8379 20.2877 17.8379 19.8349 17.8379H6.00883C5.5561 17.8379 5.32973 17.8379 5.14305 17.7924C4.56232 17.6509 4.10889 17.1974 3.96737 16.6167C3.92188 16.43 3.92188 16.2037 3.92188 15.7509Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.7081 19.3998V18.2998M6.13672 18.2998V19.3998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.7081 11.8382V6.7601C19.7081 6.14557 19.7081 5.83831 19.6195 5.59199C19.468 5.17137 19.1369 4.84021 18.7163 4.68878C18.4699 4.6001 18.1627 4.6001 17.5481 4.6001H8.29672C7.68219 4.6001 7.37493 4.6001 7.12861 4.68878C6.70799 4.84021 6.37683 5.17137 6.2254 5.59199C6.13672 5.83831 6.13672 6.14557 6.13672 6.7601V11.8382" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Single bed 1 — outline style variants.
+class _HomeAppliancesSingleBed1Outline {
+  const _HomeAppliancesSingleBed1Outline();
+
+  /// Single bed 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Single bed 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.80742 11.0882C6.84214 11.0882 6.87737 11.0882 6.91313 11.0882H17.087C17.1228 11.0882 17.158 11.0882 17.1928 11.0882C17.9395 11.0879 18.4488 11.0878 18.888 11.1948C20.2491 11.5265 21.3118 12.5892 21.6435 13.9503C21.7505 14.3895 21.7503 14.8988 21.7501 15.6455C21.7501 15.6802 21.7501 15.7155 21.7501 15.7512C21.7501 15.778 21.7501 15.8045 21.7501 15.8307C21.7505 16.2042 21.7507 16.5177 21.6833 16.7946C21.4754 17.6475 20.8094 18.3135 19.9565 18.5214C19.6797 18.5888 19.3661 18.5885 18.9926 18.5882C18.9664 18.5882 18.9399 18.5882 18.9131 18.5882H5.08705C5.06026 18.5882 5.03378 18.5882 5.00759 18.5882C4.63412 18.5885 4.32053 18.5888 4.04369 18.5214C3.19074 18.3135 2.52477 17.6475 2.31691 16.7946C2.24945 16.5177 2.24972 16.2041 2.25004 15.8307C2.25007 15.8045 2.25009 15.778 2.25009 15.7512C2.25009 15.7155 2.25008 15.6802 2.25007 15.6455C2.24984 14.8988 2.24969 14.3895 2.35671 13.9503C2.6884 12.5892 3.75112 11.5265 5.11222 11.1948C5.55139 11.0878 6.06071 11.0879 6.80742 11.0882ZM6.91313 12.5882C6.0203 12.5882 5.70783 12.5936 5.46737 12.6521C4.65071 12.8512 4.01308 13.4888 3.81406 14.3055C3.75547 14.5459 3.75009 14.8584 3.75009 15.7512C3.75009 16.2479 3.75547 16.3623 3.77426 16.4394C3.84944 16.7479 4.09032 16.9888 4.39884 17.064C4.47596 17.0828 4.59035 17.0882 5.08705 17.0882H18.9131C19.4098 17.0882 19.5242 17.0828 19.6013 17.064C19.9099 16.9888 20.1507 16.7479 20.2259 16.4394C20.2447 16.3623 20.2501 16.2479 20.2501 15.7512C20.2501 14.8584 20.2447 14.5459 20.1861 14.3055C19.9871 13.4888 19.3495 12.8512 18.5328 12.6521C18.2924 12.5936 17.9799 12.5882 17.087 12.5882H6.91313Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.21484 17.5498C5.62906 17.5498 5.96484 17.8856 5.96484 18.2998V19.3998C5.96484 19.814 5.62906 20.1498 5.21484 20.1498C4.80063 20.1498 4.46484 19.814 4.46484 19.3998V18.2998C4.46484 17.8856 4.80063 17.5498 5.21484 17.5498ZM18.7863 17.5498C19.2005 17.5498 19.5363 17.8856 19.5363 18.2998V19.3998C19.5363 19.814 19.2005 20.1498 18.7863 20.1498C18.3721 20.1498 18.0363 19.814 18.0363 19.3998V18.2998C18.0363 17.8856 18.3721 17.5498 18.7863 17.5498Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.26408 3.84995C7.30063 3.85 7.33753 3.85005 7.3748 3.85005H16.6262C16.6635 3.85005 16.7004 3.85 16.737 3.84995C17.2398 3.84925 17.675 3.84865 18.0484 3.98307L17.7943 4.68873L18.0484 3.98307C18.6793 4.21022 19.1761 4.70696 19.4032 5.3379L18.6975 5.59195L19.4032 5.3379C19.5376 5.71127 19.537 6.14648 19.5363 6.64933C19.5363 6.68588 19.5362 6.72279 19.5362 6.76006V11.8381C19.5362 12.2524 19.2004 12.5882 18.7862 12.5882C18.372 12.5882 18.0362 12.2524 18.0362 11.8381V6.76006C18.0362 6.08099 18.0251 5.93811 17.9919 5.846L18.6899 5.59469L17.9919 5.846C17.9162 5.63569 17.7506 5.47011 17.5403 5.39439C17.4482 5.36123 17.3053 5.35005 16.6262 5.35005H7.3748C6.69573 5.35005 6.55286 5.36123 6.46075 5.39439C6.25044 5.47011 6.08486 5.63569 6.00914 5.846C5.97598 5.93811 5.9648 6.08099 5.9648 6.76005V11.8381C5.9648 12.2524 5.62901 12.5882 5.2148 12.5882C4.80059 12.5882 4.4648 12.2524 4.4648 11.8381V6.76005C4.4648 6.72279 4.46475 6.68588 4.4647 6.64933C4.464 6.14648 4.46339 5.71127 4.59782 5.33789C4.82497 4.70696 5.32171 4.21022 5.95264 3.98307C6.32602 3.84865 6.76122 3.84925 7.26408 3.84995Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Single bed 1 — bold style variants.
+class _HomeAppliancesSingleBed1Bold {
+  const _HomeAppliancesSingleBed1Bold();
+
+  /// Single bed 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Single bed 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8229 13.8866C21.5119 12.6126 20.5269 11.6246 19.2439 11.3076C18.8389 11.2146 18.3939 11.2146 17.5089 11.2146H7.33488C6.44988 11.2146 6.00588 11.2146 5.59188 11.3096C4.31788 11.6246 3.33187 12.6126 3.02087 13.8866C2.92188 14.2946 2.92188 14.7396 2.92188 15.6246C2.92188 16.1006 2.92188 16.3636 2.98088 16.6146C3.16788 17.3766 3.75987 17.9656 4.51388 18.1486C4.62987 18.1786 4.74787 18.1946 4.88688 18.2036V19.2746C4.88688 19.6886 5.22287 20.0246 5.63687 20.0246C6.05187 20.0246 6.38687 19.6886 6.38687 19.2746V18.2146H18.4579V19.2746C18.4579 19.6886 18.7939 20.0246 19.2079 20.0246C19.6219 20.0246 19.9579 19.6886 19.9579 19.2746V18.2036C20.0949 18.1946 20.2089 18.1806 20.3189 18.1516C21.0849 17.9646 21.6769 17.3756 21.8619 16.6126C21.9219 16.3646 21.9219 16.1016 21.9219 15.6246C21.9219 14.7396 21.9219 14.2946 21.8229 13.8866Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.63733 10.2146H19.2083C19.4843 10.2146 19.7083 9.99061 19.7083 9.71461V6.63461C19.7083 5.98561 19.7083 5.62861 19.5893 5.29461C19.3873 4.73261 18.9473 4.29461 18.3873 4.09461C18.0583 3.97461 17.7203 3.97461 17.0483 3.97461H7.79733C7.12433 3.97461 6.78633 3.97461 6.46033 4.09361C5.89733 4.29461 5.45833 4.73261 5.25333 5.29861C5.13733 5.62961 5.13733 5.98561 5.13733 6.63461V9.71461C5.13733 9.99061 5.36133 10.2146 5.63733 10.2146Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Single bed 1 — light style variants.
+class _HomeAppliancesSingleBed1Light {
+  const _HomeAppliancesSingleBed1Light();
+
+  /// Single bed 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Single bed 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 15.7512C3 14.9023 3 14.4779 3.0853 14.1278C3.35065 13.039 4.20083 12.1888 5.28971 11.9234C5.63973 11.8381 6.06417 11.8381 6.91304 11.8381H17.087C17.9358 11.8381 18.3603 11.8381 18.7103 11.9234C19.7992 12.1888 20.6493 13.039 20.9147 14.1278C21 14.4779 21 14.9023 21 15.7512C21 16.2039 21 16.4303 20.9545 16.617C20.813 17.1977 20.3596 17.6511 19.7788 17.7926C19.5921 17.8381 19.3658 17.8381 18.913 17.8381H5.08696C4.63422 17.8381 4.40786 17.8381 4.22118 17.7926C3.64044 17.6511 3.18701 17.1977 3.04549 16.617C3 16.4303 3 16.2039 3 15.7512Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7863 19.3998V18.2998M5.21484 18.2998V19.3998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7863 11.8382V6.7601C18.7863 6.14557 18.7863 5.83831 18.6976 5.59199C18.5462 5.17137 18.215 4.84021 17.7944 4.68878C17.5481 4.6001 17.2408 4.6001 16.6263 4.6001H7.37484C6.76032 4.6001 6.45305 4.6001 6.20674 4.68878C5.78611 4.84021 5.45496 5.17137 5.30352 5.59199C5.21484 5.83831 5.21484 6.14557 5.21484 6.7601V11.8382" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.light,
@@ -1451,6 +2905,222 @@ class _HomeAppliancesDresserLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Dresser',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.08553 3.00464H16.9136C18.9432 3.00464 20.2071 4.43784 20.2071 6.46553V15.9579C20.2071 17.9856 18.9432 19.4188 16.9126 19.4188H7.08553C5.0559 19.4188 3.79297 17.9856 3.79297 15.9579V6.46553C3.79297 4.43784 5.06174 3.00464 7.08553 3.00464Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9109 21.0001V19.3032M6.08789 21.0001V19.3032" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5405 10.0781V12.3461M9.45898 10.0781V12.3461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.998 19.421V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dresser 1 icon with style variants.
+class _HomeAppliancesDresser1Icon {
+  const _HomeAppliancesDresser1Icon();
+
+  /// bold style
+  _HomeAppliancesDresser1Bold get bold => const _HomeAppliancesDresser1Bold();
+  /// bulk style
+  _HomeAppliancesDresser1Bulk get bulk => const _HomeAppliancesDresser1Bulk();
+  /// light style
+  _HomeAppliancesDresser1Light get light => const _HomeAppliancesDresser1Light();
+  /// outline style
+  _HomeAppliancesDresser1Outline get outline => const _HomeAppliancesDresser1Outline();
+  /// twoTone style
+  _HomeAppliancesDresser1Twotone get twoTone => const _HomeAppliancesDresser1Twotone();
+  /// broken style
+  _HomeAppliancesDresser1Broken get broken => const _HomeAppliancesDresser1Broken();
+}
+
+/// Dresser 1 — bulk style variants.
+class _HomeAppliancesDresser1Bulk {
+  const _HomeAppliancesDresser1Bulk();
+
+  /// Dresser 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dresser 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.2463 2.8C11.2463 2.63431 11.112 2.5 10.9463 2.5H7.9003C5.9893 2.5 4.6543 3.893 4.6543 5.889V18.11C4.6543 20.137 5.9593 21.5 7.9003 21.5H10.9463C11.112 21.5 11.2463 21.3657 11.2463 21.2V2.8Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0986 2.5H13.0456C12.8799 2.5 12.7456 2.63431 12.7456 2.8V21.2C12.7456 21.3657 12.8799 21.5 13.0456 21.5H16.0976C18.0396 21.5 19.3456 20.137 19.3456 18.11V5.889C19.3456 3.893 18.0106 2.5 16.0986 2.5Z" fill="black"/> </g> <path d="M8.94739 13.0297C8.94739 13.4438 9.28339 13.7797 9.69739 13.7797C10.1114 13.7797 10.4474 13.4438 10.4474 13.0297V10.9688C10.4474 10.5548 10.1114 10.2188 9.69739 10.2188C9.28339 10.2188 8.94739 10.5548 8.94739 10.9688V13.0297Z" fill="black"/> <path d="M14.3037 13.7797C14.7177 13.7797 15.0537 13.4438 15.0537 13.0297V10.9688C15.0537 10.5548 14.7177 10.2188 14.3037 10.2188C13.8897 10.2188 13.5537 10.5548 13.5537 10.9688V13.0297C13.5537 13.4438 13.8897 13.7797 14.3037 13.7797Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dresser 1 — broken style variants.
+class _HomeAppliancesDresser1Broken {
+  const _HomeAppliancesDresser1Broken();
+
+  /// Dresser 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dresser 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.15332 13.5468V5.88779C5.15332 4.19579 6.21192 3 7.90003 3H16.0983C17.7913 3 18.846 4.19579 18.846 5.88779V18.1093C18.846 19.8013 17.7913 20.9962 16.0973 20.9962H7.90003C6.20608 20.9962 5.15332 19.8013 5.15332 18.1093V16.6022" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3037 10.9702V13.0261M9.69727 10.9702V13.0261" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9961 21.0001V5.91309" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dresser 1 — twoTone style variants.
+class _HomeAppliancesDresser1Twotone {
+  const _HomeAppliancesDresser1Twotone();
+
+  /// Dresser 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dresser 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.40003 3H16.5983C18.2913 3 19.346 4.19579 19.346 5.88779V18.1093C19.346 19.8013 18.2913 20.9962 16.5973 20.9962H8.40003C6.70608 20.9962 5.65332 19.8013 5.65332 18.1093V5.88779C5.65332 4.19579 6.71192 3 8.40003 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.8037 10.9702V13.0261M10.1973 10.9702V13.0261" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.4961 21.0001V3.00195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dresser 1 — outline style variants.
+class _HomeAppliancesDresser1Outline {
+  const _HomeAppliancesDresser1Outline();
+
+  /// Dresser 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dresser 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.34518 3.29809C5.97717 2.61989 6.87033 2.25 7.90027 2.25H16.0986C17.1304 2.25 18.0242 2.61956 18.6562 3.2983C19.2826 3.97101 19.5962 4.88681 19.5962 5.88779V18.1093C19.5962 19.1103 19.2825 20.026 18.6559 20.6985C18.0236 21.3771 17.1296 21.7462 16.0976 21.7462H7.90027C6.86816 21.7462 5.97454 21.377 5.34272 20.6983C4.71657 20.0256 4.40356 19.11 4.40356 18.1093V5.88779C4.40356 4.88608 4.71866 3.97042 5.34518 3.29809ZM6.44257 4.3207C6.11777 4.66926 5.90356 5.19749 5.90356 5.88779V18.1093C5.90356 18.8007 6.11694 19.3285 6.44065 19.6762C6.7587 20.0179 7.23843 20.2462 7.90027 20.2462H16.0976C16.7595 20.2462 17.2399 20.0179 17.5584 19.676C17.8826 19.3281 18.0962 18.8003 18.0962 18.1093V5.88779C18.0962 5.19677 17.8826 4.66867 17.5584 4.32049C17.2398 3.97833 16.7597 3.75 16.0986 3.75H7.90027C7.24211 3.75 6.76191 3.97801 6.44257 4.3207Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.69727 10.2202C10.1115 10.2202 10.4473 10.556 10.4473 10.9702V13.0261C10.4473 13.4403 10.1115 13.7761 9.69727 13.7761C9.28305 13.7761 8.94727 13.4403 8.94727 13.0261V10.9702C8.94727 10.556 9.28305 10.2202 9.69727 10.2202ZM14.3037 10.2202C14.7179 10.2202 15.0537 10.556 15.0537 10.9702V13.0261C15.0537 13.4403 14.7179 13.7761 14.3037 13.7761C13.8895 13.7761 13.5537 13.4403 13.5537 13.0261V10.9702C13.5537 10.556 13.8895 10.2202 14.3037 10.2202Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9961 2.25195C12.4103 2.25195 12.7461 2.58774 12.7461 3.00195V21.0001C12.7461 21.4143 12.4103 21.7501 11.9961 21.7501C11.5819 21.7501 11.2461 21.4143 11.2461 21.0001V3.00195C11.2461 2.58774 11.5819 2.25195 11.9961 2.25195Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dresser 1 — bold style variants.
+class _HomeAppliancesDresser1Bold {
+  const _HomeAppliancesDresser1Bold();
+
+  /// Dresser 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dresser 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.6973 13.78C9.2833 13.78 8.9473 13.444 8.9473 13.03V10.969C8.9473 10.555 9.2833 10.219 9.6973 10.219C10.1113 10.219 10.4473 10.555 10.4473 10.969V13.03C10.4473 13.444 10.1113 13.78 9.6973 13.78ZM11.2463 2.8C11.2463 2.63431 11.112 2.5 10.9463 2.5H7.9003C5.9893 2.5 4.6543 3.893 4.6543 5.889V18.11C4.6543 20.137 5.9593 21.5 7.9003 21.5H10.9463C11.112 21.5 11.2463 21.3657 11.2463 21.2V2.8Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0536 13.03C15.0536 13.444 14.7176 13.78 14.3036 13.78C13.8896 13.78 13.5536 13.444 13.5536 13.03V10.969C13.5536 10.555 13.8896 10.219 14.3036 10.219C14.7176 10.219 15.0536 10.555 15.0536 10.969V13.03ZM16.0986 2.5H13.0456C12.8799 2.5 12.7456 2.63431 12.7456 2.8V21.2C12.7456 21.3657 12.8799 21.5 13.0456 21.5H16.0976C18.0396 21.5 19.3456 20.137 19.3456 18.11V5.889C19.3456 3.893 18.0106 2.5 16.0986 2.5Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dresser 1 — light style variants.
+class _HomeAppliancesDresser1Light {
+  const _HomeAppliancesDresser1Light();
+
+  /// Dresser 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dresser 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.90052 3H16.0988C17.7918 3 18.8465 4.19579 18.8465 5.88779V18.1093C18.8465 19.8013 17.7918 20.9962 16.0978 20.9962H7.90052C6.20657 20.9962 5.15381 19.8013 5.15381 18.1093V5.88779C5.15381 4.19579 6.21241 3 7.90052 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3037 10.9702V13.0261M9.69727 10.9702V13.0261" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9961 21.0001V3.00195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dresser 2 icon with style variants.
+class _HomeAppliancesDresser2Icon {
+  const _HomeAppliancesDresser2Icon();
+
+  /// bold style
+  _HomeAppliancesDresser2Bold get bold => const _HomeAppliancesDresser2Bold();
+  /// bulk style
+  _HomeAppliancesDresser2Bulk get bulk => const _HomeAppliancesDresser2Bulk();
+  /// light style
+  _HomeAppliancesDresser2Light get light => const _HomeAppliancesDresser2Light();
+  /// outline style
+  _HomeAppliancesDresser2Outline get outline => const _HomeAppliancesDresser2Outline();
+  /// twoTone style
+  _HomeAppliancesDresser2Twotone get twoTone => const _HomeAppliancesDresser2Twotone();
+  /// broken style
+  _HomeAppliancesDresser2Broken get broken => const _HomeAppliancesDresser2Broken();
+}
+
+/// Dresser 2 — bulk style variants.
+class _HomeAppliancesDresser2Bulk {
+  const _HomeAppliancesDresser2Bulk();
+
+  /// Dresser 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dresser 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.786 19.1096H11.217C10.803 19.1096 10.467 18.7736 10.467 18.3596C10.467 17.9456 10.803 17.6096 11.217 17.6096H12.786C13.2 17.6096 13.536 17.9456 13.536 18.3596C13.536 18.7736 13.2 19.1096 12.786 19.1096ZM4.95198 16.8086C4.78629 16.8086 4.65198 16.9429 4.65198 17.1086V18.1096C4.65198 20.1366 5.95698 21.4996 7.89898 21.4996H16.099C18.012 21.4996 19.348 20.1056 19.348 18.1096V17.1086C19.348 16.9429 19.2137 16.8086 19.048 16.8086H4.95198Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9462 15.309C11.1119 15.309 11.2462 15.1747 11.2462 15.009V2.8C11.2462 2.63431 11.1119 2.5 10.9462 2.5H7.89922C5.98722 2.5 4.65222 3.893 4.65222 5.889V15.009C4.65222 15.1747 4.78654 15.309 4.95222 15.309H10.9462Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7455 15.009C12.7455 15.1747 12.8798 15.309 13.0455 15.309H19.0475C19.2132 15.309 19.3475 15.1747 19.3475 15.009V5.889C19.3475 3.893 18.0115 2.5 16.0995 2.5H13.0455C12.8798 2.5 12.7455 2.63431 12.7455 2.8V15.009Z" fill="black"/> </g> <path d="M9.69727 8.06836C9.28327 8.06836 8.94727 8.40436 8.94727 8.81836V10.3884C8.94727 10.8024 9.28327 11.1384 9.69727 11.1384C10.1113 11.1384 10.4473 10.8024 10.4473 10.3884V8.81836C10.4473 8.40436 10.1113 8.06836 9.69727 8.06836Z" fill="black"/> <path d="M15.0545 8.81836C15.0545 8.40436 14.7185 8.06836 14.3045 8.06836C13.8905 8.06836 13.5545 8.40436 13.5545 8.81836V10.3884C13.5545 10.8024 13.8905 11.1384 14.3045 11.1384C14.7185 11.1384 15.0545 10.8024 15.0545 10.3884V8.81836Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dresser 2 — broken style variants.
+class _HomeAppliancesDresser2Broken {
+  const _HomeAppliancesDresser2Broken();
+
+  /// Dresser 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dresser 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.15137 9.96705V18.1122C5.15137 19.8042 6.2051 21 7.89904 21H16.0983C17.7932 21 18.8479 19.8042 18.8479 18.1122V5.88778C18.8479 4.19578 17.7932 3 16.0993 3H7.89904C6.20996 3 5.15137 4.19578 5.15137 5.88778V6.91094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7862 18.3555H11.2168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.15234 16.0591H16.2534" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9961 16.0573V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3046 8.82275V10.3922M9.69727 8.82275V10.3922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dresser 2 — twoTone style variants.
+class _HomeAppliancesDresser2Twotone {
+  const _HomeAppliancesDresser2Twotone();
+
+  /// Dresser 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dresser 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.39904 3H16.5993C18.2932 3 19.3479 4.19578 19.3479 5.88778V18.1122C19.3479 19.8042 18.2932 21 16.5983 21H8.39904C6.7051 21 5.65137 19.8042 5.65137 18.1122V5.88778C5.65137 4.19578 6.70996 3 8.39904 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.2862 18.3555H11.7168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.65234 16.0591H19.3479M12.4961 16.0573V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.8046 8.82275V10.3922M10.1973 8.82275V10.3922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dresser 2 — outline style variants.
+class _HomeAppliancesDresser2Outline {
+  const _HomeAppliancesDresser2Outline();
+
+  /// Dresser 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dresser 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.34341 3.29802C5.97557 2.6198 6.86898 2.25 7.89929 2.25H16.0995C17.1317 2.25 18.0257 2.61948 18.6579 3.29823C19.2845 3.97096 19.5982 4.8868 19.5982 5.88778V18.1122C19.5982 19.1132 19.2844 20.0291 18.6577 20.7018C18.0253 21.3806 17.1311 21.75 16.0985 21.75H7.89929C6.86702 21.75 5.97322 21.3805 5.34126 20.7016C4.71495 20.0288 4.40161 19.113 4.40161 18.1122V5.88778C4.40161 4.88608 4.71671 3.97038 5.34341 3.29802ZM6.44067 4.32077C6.11581 4.6693 5.90161 5.19749 5.90161 5.88778V18.1122C5.90161 18.8034 6.11513 19.3315 6.43918 19.6796C6.75757 20.0216 7.23761 20.25 7.89929 20.25H16.0985C16.7608 20.25 17.2414 20.0215 17.5602 19.6794C17.8845 19.3312 18.0982 18.8032 18.0982 18.1122V5.88778C18.0982 5.19677 17.8845 4.66872 17.5602 4.32056C17.2416 3.97841 16.7612 3.75 16.0995 3.75H7.89929C7.24052 3.75 6.76008 3.97809 6.44067 4.32077Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.4668 18.3555C10.4668 17.9413 10.8026 17.6055 11.2168 17.6055H12.7862C13.2004 17.6055 13.5362 17.9413 13.5362 18.3555C13.5362 18.7697 13.2004 19.1055 12.7862 19.1055H11.2168C10.8026 19.1055 10.4668 18.7697 10.4668 18.3555Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.40234 16.0591C4.40234 15.6449 4.73813 15.3091 5.15234 15.3091H18.8479C19.2621 15.3091 19.5979 15.6449 19.5979 16.0591C19.5979 16.4733 19.2621 16.8091 18.8479 16.8091H5.15234C4.73813 16.8091 4.40234 16.4733 4.40234 16.0591Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9961 2.25C12.4103 2.25 12.7461 2.58579 12.7461 3V16.0573C12.7461 16.4715 12.4103 16.8073 11.9961 16.8073C11.5819 16.8073 11.2461 16.4715 11.2461 16.0573V3C11.2461 2.58579 11.5819 2.25 11.9961 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.69727 8.07275C10.1115 8.07275 10.4473 8.40854 10.4473 8.82275V10.3922C10.4473 10.8064 10.1115 11.1422 9.69727 11.1422C9.28305 11.1422 8.94727 10.8064 8.94727 10.3922V8.82275C8.94727 8.40854 9.28305 8.07275 9.69727 8.07275ZM14.3046 8.07275C14.7188 8.07275 15.0546 8.40854 15.0546 8.82275V10.3922C15.0546 10.8064 14.7188 11.1422 14.3046 11.1422C13.8904 11.1422 13.5546 10.8064 13.5546 10.3922V8.82275C13.5546 8.40854 13.8904 8.07275 14.3046 8.07275Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dresser 2 — bold style variants.
+class _HomeAppliancesDresser2Bold {
+  const _HomeAppliancesDresser2Bold();
+
+  /// Dresser 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dresser 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.94722 8.819C8.94722 8.405 9.28322 8.069 9.69722 8.069C10.1112 8.069 10.4472 8.405 10.4472 8.819V10.389C10.4472 10.803 10.1112 11.139 9.69722 11.139C9.28322 11.139 8.94722 10.803 8.94722 10.389V8.819ZM10.9462 15.309C11.1119 15.309 11.2462 15.1747 11.2462 15.009V2.8C11.2462 2.63431 11.1119 2.5 10.9462 2.5H7.89922C5.98722 2.5 4.65222 3.893 4.65222 5.889V15.009C4.65222 15.1747 4.78654 15.309 4.95222 15.309H10.9462Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3045 8.069C14.7185 8.069 15.0545 8.405 15.0545 8.819V10.389C15.0545 10.803 14.7185 11.139 14.3045 11.139C13.8905 11.139 13.5545 10.803 13.5545 10.389V8.819C13.5545 8.405 13.8905 8.069 14.3045 8.069ZM12.7455 15.009C12.7455 15.1747 12.8798 15.309 13.0455 15.309H19.0475C19.2132 15.309 19.3475 15.1747 19.3475 15.009V5.889C19.3475 3.893 18.0115 2.5 16.0995 2.5H13.0455C12.8798 2.5 12.7455 2.63431 12.7455 2.8V15.009Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.786 19.1101H11.217C10.803 19.1101 10.467 18.7741 10.467 18.3601C10.467 17.9461 10.803 17.6101 11.217 17.6101H12.786C13.2 17.6101 13.536 17.9461 13.536 18.3601C13.536 18.7741 13.2 19.1101 12.786 19.1101ZM4.95198 16.8091C4.78629 16.8091 4.65198 16.9434 4.65198 17.1091V18.1101C4.65198 20.1371 5.95698 21.5001 7.89898 21.5001H16.099C18.012 21.5001 19.348 20.1061 19.348 18.1101V17.1091C19.348 16.9434 19.2137 16.8091 19.048 16.8091H4.95198Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dresser 2 — light style variants.
+class _HomeAppliancesDresser2Light {
+  const _HomeAppliancesDresser2Light();
+
+  /// Dresser 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dresser 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.89904 3H16.0993C17.7932 3 18.8479 4.19578 18.8479 5.88778V18.1122C18.8479 19.8042 17.7932 21 16.0983 21H7.89904C6.2051 21 5.15137 19.8042 5.15137 18.1122V5.88778C5.15137 4.19578 6.20996 3 7.89904 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7862 18.3555H11.2168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.15234 16.0591H18.8479" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9961 16.0573V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3046 8.82275V10.3922M9.69727 8.82275V10.3922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -1775,6 +3445,114 @@ class _HomeAppliancesSofaLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Sofa',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.7013 18.9526L16.1926 20.4763" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.57053 18.9526L8.07919 20.4763" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.9939 10.6206V10.6206C17.8263 10.6245 16.8806 11.5702 16.8767 12.7378V13.5774C16.8767 14.1602 16.4048 14.6321 15.822 14.6321H8.18522C7.60339 14.6321 7.13053 14.1602 7.13053 13.5774V12.7407C7.12761 11.5712 6.17994 10.6245 5.01044 10.6206C3.90321 10.6206 3.00517 11.5177 3.00517 12.6249V12.6288C2.98668 13.4908 3.01781 14.3529 3.09857 15.211C3.25327 16.9848 4.67282 18.3839 6.44848 18.5133C7.27939 18.6427 10.6069 18.6427 11.9944 18.6427C13.3818 18.6427 17.0703 18.6145 17.5519 18.5113C19.3237 18.3771 20.7374 16.9809 20.8911 15.211C20.9729 14.3587 21.0089 13.5025 20.9982 12.6453C21.0079 11.5381 20.1186 10.6313 19.0104 10.6206H18.9939Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.10688 10.7005C5.0738 9.51251 5.11758 8.32258 5.23726 7.14043C5.36958 5.33461 6.79205 3.89073 8.59592 3.73409C10.8736 3.45387 13.1776 3.45387 15.4553 3.73409C17.2495 3.91214 18.6632 5.34337 18.8188 7.14043C18.9531 8.3216 18.9979 9.51251 18.9541 10.7005" stroke="black" stroke-width="1.5"/> <path d="M10.01 7.24414H10" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.0002 10.2441H9.99023" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.01 7.24414H14" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.01 10.2441H14" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Sofa 1 icon with style variants.
+class _HomeAppliancesSofa1Icon {
+  const _HomeAppliancesSofa1Icon();
+
+  /// bold style
+  _HomeAppliancesSofa1Bold get bold => const _HomeAppliancesSofa1Bold();
+  /// bulk style
+  _HomeAppliancesSofa1Bulk get bulk => const _HomeAppliancesSofa1Bulk();
+  /// light style
+  _HomeAppliancesSofa1Light get light => const _HomeAppliancesSofa1Light();
+  /// outline style
+  _HomeAppliancesSofa1Outline get outline => const _HomeAppliancesSofa1Outline();
+  /// twoTone style
+  _HomeAppliancesSofa1Twotone get twoTone => const _HomeAppliancesSofa1Twotone();
+  /// broken style
+  _HomeAppliancesSofa1Broken get broken => const _HomeAppliancesSofa1Broken();
+}
+
+/// Sofa 1 — bulk style variants.
+class _HomeAppliancesSofa1Bulk {
+  const _HomeAppliancesSofa1Bulk();
+
+  /// Sofa 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Sofa 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4125 11.3706C21.2295 10.7036 20.7215 10.1846 20.0465 9.98158C19.7725 9.90258 19.4885 9.90258 18.9235 9.90258C18.3735 9.90258 18.0975 9.90258 17.8285 9.98058C17.1745 10.1666 16.6485 10.6876 16.4555 11.3486C16.3785 11.6246 16.3785 11.8976 16.3785 12.4426V13.3526C16.3785 13.6556 16.1295 13.9026 15.8235 13.9026H8.18546C7.88046 13.9026 7.63246 13.6556 7.63246 13.3526V12.4526C7.63246 11.8846 7.63246 11.5996 7.54846 11.3166C7.35046 10.6686 6.84946 10.1696 6.21946 9.98658C5.93246 9.89258 5.64246 9.89258 5.06846 9.89258C4.51846 9.89258 4.21646 9.89258 3.94446 9.98158C3.29846 10.1706 2.78046 10.6926 2.59646 11.3426C2.51246 11.6276 2.51646 11.9236 2.52446 12.4586C2.54146 13.8016 2.56746 14.6666 2.60146 15.0256C2.77746 17.0536 4.38046 18.6326 6.37246 18.7766C6.57746 18.8086 6.91346 18.8326 7.33146 18.8516V20.2526C7.33146 20.6666 7.66746 21.0026 8.08146 21.0026C8.49546 21.0026 8.83146 20.6666 8.83146 20.2526V18.8926C9.79746 18.9086 10.9095 18.9126 11.9955 18.9126C12.0255 18.9126 13.8705 18.9106 15.4445 18.8816V20.2526C15.4445 20.6666 15.7805 21.0026 16.1945 21.0026C16.6085 21.0026 16.9445 20.6666 16.9445 20.2526V18.8366C17.2545 18.8216 17.4885 18.8036 17.5895 18.7816C19.6165 18.6336 21.2145 17.0536 21.3905 15.0316C21.4245 14.6776 21.4525 13.8186 21.4745 12.4816C21.4835 11.9456 21.4895 11.6506 21.4125 11.3706Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M6.53132 9.03805C7.45132 9.30805 8.21132 10.048 8.50132 11.028C8.63132 11.458 8.63132 11.828 8.63132 12.448V12.598C8.63132 12.7637 8.76563 12.898 8.93132 12.898H15.0813C15.247 12.898 15.3813 12.7637 15.3813 12.598V12.438C15.3813 11.848 15.3813 11.488 15.4913 11.078C15.7913 10.068 16.5613 9.29805 17.5513 9.01805C17.9513 8.89805 18.3213 8.89805 18.9213 8.89805C18.9979 8.89805 19.0715 8.89805 19.1422 8.89861C19.3152 8.89998 19.4613 8.76176 19.4613 8.58871V7.93805C19.4613 6.53805 19.4613 5.83805 19.2213 5.21805C18.8613 4.31805 18.1413 3.60805 17.2613 3.25805C16.6313 2.99805 15.9313 2.99805 14.5213 2.99805H9.54132C8.14132 2.99805 7.43132 2.99805 6.82132 3.25805C5.92132 3.60805 5.21132 4.31805 4.85132 5.21805C4.60132 5.83805 4.60132 6.53805 4.60132 7.93805V8.57585C4.60132 8.74996 4.7492 8.88924 4.9233 8.88831C4.97159 8.88805 5.02102 8.88805 5.07132 8.88805C5.68132 8.88805 6.09132 8.88805 6.53132 9.03805Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Sofa 1 — broken style variants.
+class _HomeAppliancesSofa1Broken {
+  const _HomeAppliancesSofa1Broken();
+
+  /// Sofa 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Sofa 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0039 14.6321H15.8223C16.4051 14.6321 16.877 14.1602 16.877 13.5774V12.666C16.877 12.1655 16.877 11.9151 16.9361 11.7109C17.0796 11.2147 17.4667 10.8285 17.9632 10.686C18.1675 10.6273 18.4192 10.6278 18.9225 10.6289C19.4412 10.63 19.7005 10.6305 19.9061 10.6909C20.4065 10.838 20.792 11.2307 20.9298 11.7338C20.9864 11.9404 20.9823 12.1923 20.974 12.6962C20.9573 13.7098 20.931 14.7984 20.8914 15.211C20.7377 16.9808 19.324 18.377 17.5522 18.5113C17.0706 18.6144 13.3821 18.6426 11.9946 18.6426C10.6072 18.6426 7.27969 18.6426 6.44879 18.5132C4.67313 18.3838 3.25358 16.9847 3.09888 15.211C3.05964 14.794 3.03648 13.6984 3.02304 12.6822C3.01632 12.1743 3.01296 11.9204 3.07418 11.7076C3.2141 11.221 3.59884 10.8315 4.08368 10.6857C4.29579 10.6219 4.55301 10.6221 5.06743 10.6226C5.59029 10.6232 5.85171 10.6235 6.06181 10.6865C6.54698 10.832 6.92299 11.2084 7.06803 11.6937C7.13084 11.9039 7.13084 12.1639 7.13084 12.6839V13.5774C7.13084 14.1602 7.6037 14.6321 8.18553 14.6321H9.13129" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.08008 18.7002V20.4764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1934 18.7002V20.4764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.10352 10.5956V8.17389C5.10352 6.83237 5.10352 6.16161 5.31419 5.62951C5.61913 4.85932 6.22895 4.2495 6.99914 3.94456C7.53123 3.73389 8.202 3.73389 9.54352 3.73389H14.522C15.8636 3.73389 16.5343 3.73389 17.0664 3.94456C17.8366 4.2495 18.4464 4.85932 18.7514 5.62951" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.9619 8.17383V10.5955" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Sofa 1 — twoTone style variants.
+class _HomeAppliancesSofa1Twotone {
+  const _HomeAppliancesSofa1Twotone();
+
+  /// Sofa 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Sofa 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.4225 10.6289C18.9192 10.6278 18.6675 10.6273 18.4632 10.686C17.9667 10.8285 17.5796 11.2147 17.4361 11.7109C17.377 11.9151 17.377 12.1654 17.377 12.666V13.5774C17.377 14.1602 16.9051 14.6321 16.3223 14.6321H8.68553C8.1037 14.6321 7.63084 14.1602 7.63084 13.5774V12.6839C7.63084 12.1639 7.63084 11.9039 7.56803 11.6937C7.42299 11.2084 7.04698 10.832 6.56181 10.6865C6.35171 10.6235 6.09029 10.6232 5.56743 10.6226C5.05301 10.6221 4.79579 10.6219 4.58368 10.6857C4.09884 10.8315 3.7141 11.221 3.57418 11.7076C3.51296 11.9204 3.51632 12.1743 3.52304 12.6822C3.53648 13.6984 3.55964 14.794 3.59888 15.211C3.75358 16.9847 5.17313 18.3838 6.94879 18.5132C7.7797 18.6426 11.1072 18.6426 12.4947 18.6426C13.8821 18.6426 17.5706 18.6144 18.0522 18.5113C19.824 18.377 21.2377 16.9808 21.3914 15.211C21.431 14.7984 21.4573 13.7098 21.474 12.6962C21.4823 12.1923 21.4864 11.9404 21.4298 11.7338C21.292 11.2307 20.9065 10.838 20.4061 10.6909C20.2005 10.6305 19.9412 10.63 19.4225 10.6289Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.58008 18.7002V20.4764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.6934 18.7002V20.4764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.462 10.5956V8.17389C19.462 6.83237 19.462 6.16161 19.2514 5.62951C18.9464 4.85932 18.3366 4.2495 17.5664 3.94456C17.0343 3.73389 16.3636 3.73389 15.022 3.73389H10.0435C8.702 3.73389 8.03123 3.73389 7.49914 3.94456C6.72895 4.2495 6.11913 4.85932 5.81419 5.62951C5.60352 6.16161 5.60352 6.83237 5.60352 8.17389V10.5956" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Sofa 1 — outline style variants.
+class _HomeAppliancesSofa1Outline {
+  const _HomeAppliancesSofa1Outline();
+
+  /// Sofa 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Sofa 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.97571 9.87249C5.00618 9.87256 5.03694 9.87263 5.06801 9.87266C5.09992 9.87269 5.13151 9.87269 5.16278 9.87268C5.59032 9.87262 5.95859 9.87257 6.2771 9.96811C7.00404 10.1862 7.56913 10.7518 7.78644 11.479C7.88165 11.7976 7.88122 12.1644 7.88072 12.5899C7.88068 12.6209 7.88064 12.6523 7.88064 12.684V13.5774C7.88064 13.7455 8.01727 13.8821 8.18533 13.8821H15.8221C15.9907 13.8821 16.1268 13.746 16.1268 13.5774V12.666C16.1268 12.6356 16.1268 12.6055 16.1267 12.5757C16.1263 12.1659 16.1259 11.8121 16.2154 11.5025C16.4306 10.7586 17.0116 10.1788 17.756 9.9651C18.0658 9.87617 18.421 9.87732 18.8329 9.87864C18.8629 9.87874 18.8932 9.87883 18.9239 9.8789C18.9557 9.87896 18.9872 9.87899 19.0184 9.87902C19.442 9.87942 19.8057 9.87975 20.1174 9.97138C20.8673 10.1918 21.4464 10.7818 21.6529 11.5356C21.7388 11.8489 21.7325 12.2051 21.7253 12.6177C21.7247 12.6477 21.7242 12.6779 21.7237 12.7085C21.7073 13.7053 21.6811 14.8276 21.6381 15.2793C21.4522 17.4006 19.7667 19.0758 17.6494 19.2559C17.437 19.2911 17.0744 19.3102 16.7051 19.3247C16.2618 19.3422 15.7059 19.3555 15.1259 19.3655C13.965 19.3855 12.6916 19.3926 11.9945 19.3926H11.993C11.2996 19.3926 10.1166 19.3926 9.0019 19.3764C7.93898 19.3609 6.85995 19.3304 6.36457 19.259C4.23645 19.0896 2.5387 17.4082 2.35174 15.2787C2.30911 14.8223 2.28614 13.6919 2.27291 12.6921C2.27251 12.6616 2.27207 12.6314 2.27164 12.6015C2.26564 12.1846 2.26042 11.8229 2.35319 11.5003C2.56357 10.7687 3.13844 10.1868 3.86744 9.96747C4.18894 9.87076 4.55402 9.87156 4.97571 9.87249ZM5.06647 11.3727C4.49863 11.3721 4.37903 11.38 4.29953 11.4039C4.05885 11.4763 3.86423 11.6733 3.79478 11.9148C3.77178 11.9948 3.76537 12.1119 3.77278 12.6723C3.78642 13.7031 3.8097 14.7614 3.84539 15.1407L3.84587 15.1458L3.84585 15.1458C3.96855 16.5527 5.09456 17.6626 6.50311 17.7652C6.5235 17.7667 6.54381 17.769 6.56401 17.7722C6.91494 17.8268 7.89138 17.86 9.02378 17.8765C10.1267 17.8926 11.3002 17.8926 11.9945 17.8926C12.6848 17.8926 13.9494 17.8856 15.1 17.8657C15.6757 17.8558 16.219 17.8427 16.6461 17.8259C16.86 17.8175 17.0402 17.8083 17.1787 17.7984C17.248 17.7935 17.3029 17.7887 17.3441 17.7842C17.3818 17.7801 17.3971 17.7774 17.3971 17.7774C17.3971 17.7775 17.3964 17.7776 17.395 17.7779C17.4281 17.7708 17.4616 17.766 17.4954 17.7634C18.9014 17.6569 20.0222 16.5492 20.1441 15.1461L20.1446 15.1394L20.1447 15.1394C20.1807 14.7639 20.207 13.7119 20.2239 12.6839C20.233 12.1276 20.2274 12.0092 20.2062 11.9319C20.1371 11.6796 19.9454 11.4843 19.6944 11.4105C19.6179 11.388 19.4938 11.3801 18.9207 11.3789C18.3649 11.3777 18.2462 11.385 18.1699 11.4069C17.9213 11.4782 17.7282 11.6709 17.6563 11.9193C17.6343 11.9957 17.6268 12.1133 17.6268 12.666V13.5774C17.6268 14.5744 16.8191 15.3821 15.8221 15.3821H8.18533C7.18974 15.3821 6.38064 14.5748 6.38064 13.5774V12.684C6.38064 12.1096 6.37269 11.987 6.34924 11.9085C6.27648 11.665 6.08954 11.4779 5.84613 11.4049C5.76775 11.3813 5.64401 11.3733 5.06647 11.3727Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.08008 17.9502C8.49429 17.9502 8.83008 18.286 8.83008 18.7002V20.4764C8.83008 20.8906 8.49429 21.2264 8.08008 21.2264C7.66586 21.2264 7.33008 20.8906 7.33008 20.4764V18.7002C7.33008 18.286 7.66586 17.9502 8.08008 17.9502Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.1934 17.9502C16.6076 17.9502 16.9434 18.286 16.9434 18.7002V20.4764C16.9434 20.8906 16.6076 21.2264 16.1934 21.2264C15.7791 21.2264 15.4434 20.8906 15.4434 20.4764V18.7002C15.4434 18.286 15.7791 17.9502 16.1934 17.9502Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.51797 2.98389H14.5476C15.1967 2.98388 15.7203 2.98388 16.1468 3.01183C16.5853 3.04056 16.9734 3.1011 17.3425 3.24723C18.3052 3.6284 19.0675 4.39068 19.4487 5.35342C19.5948 5.72248 19.6554 6.11065 19.6841 6.54913C19.712 6.97564 19.712 7.49924 19.712 8.14832V10.5956C19.712 11.0098 19.3762 11.3456 18.962 11.3456C18.5478 11.3456 18.212 11.0098 18.212 10.5956V8.17389C18.212 7.49329 18.2117 7.01889 18.1873 6.6472C18.1634 6.28189 18.1186 6.06864 18.054 5.90561C17.8253 5.32796 17.368 4.87059 16.7903 4.64189C16.6273 4.57734 16.414 4.53255 16.0487 4.50862C15.677 4.48426 15.2026 4.48389 14.522 4.48389H9.54352C8.86291 4.48389 8.38852 4.48426 8.01683 4.50862C7.65152 4.53255 7.43827 4.57734 7.27524 4.64189C6.69759 4.87059 6.24022 5.32796 6.01152 5.90561C5.94697 6.06864 5.90218 6.28189 5.87824 6.6472C5.85389 7.01889 5.85352 7.49329 5.85352 8.17389V10.5956C5.85352 11.0098 5.51773 11.3456 5.10352 11.3456C4.6893 11.3456 4.35352 11.0098 4.35352 10.5956L4.35352 8.14834C4.35351 7.49925 4.35351 6.97565 4.38145 6.54913C4.41019 6.11065 4.47073 5.72248 4.61685 5.35342C4.99803 4.39068 5.76031 3.6284 6.72305 3.24723C7.09211 3.1011 7.48028 3.04056 7.91876 3.01183C8.34527 2.98388 8.86888 2.98388 9.51797 2.98389Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Sofa 1 — bold style variants.
+class _HomeAppliancesSofa1Bold {
+  const _HomeAppliancesSofa1Bold();
+
+  /// Sofa 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Sofa 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.53132 9.03805C7.45132 9.30805 8.21132 10.048 8.50132 11.028C8.63132 11.458 8.63132 11.828 8.63132 12.448V12.598C8.63132 12.7637 8.76563 12.898 8.93132 12.898H15.0813C15.247 12.898 15.3813 12.7637 15.3813 12.598V12.438C15.3813 11.848 15.3813 11.488 15.4913 11.078C15.7913 10.068 16.5613 9.29805 17.5513 9.01805C17.9513 8.89805 18.3213 8.89805 18.9213 8.89805C18.9979 8.89805 19.0715 8.89805 19.1422 8.89861C19.3152 8.89998 19.4613 8.76176 19.4613 8.58871V7.93805C19.4613 6.53805 19.4613 5.83805 19.2213 5.21805C18.8613 4.31805 18.1413 3.60805 17.2613 3.25805C16.6313 2.99805 15.9313 2.99805 14.5213 2.99805H9.54132C8.14132 2.99805 7.43132 2.99805 6.82132 3.25805C5.92132 3.60805 5.21132 4.31805 4.85132 5.21805C4.60132 5.83805 4.60132 6.53805 4.60132 7.93805V8.57585C4.60132 8.74996 4.7492 8.88924 4.9233 8.88831C4.97159 8.88805 5.02102 8.88805 5.07132 8.88805C5.68132 8.88805 6.09132 8.88805 6.53132 9.03805Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4125 11.3703C21.2295 10.7033 20.7215 10.1843 20.0465 9.98133C19.7725 9.90233 19.4885 9.90233 18.9235 9.90233C18.3735 9.90233 18.0975 9.90233 17.8285 9.98033C17.1745 10.1663 16.6485 10.6873 16.4555 11.3483C16.3785 11.6243 16.3785 11.8973 16.3785 12.4423V13.3523C16.3785 13.6553 16.1295 13.9023 15.8235 13.9023H8.18546C7.88046 13.9023 7.63246 13.6553 7.63246 13.3523V12.4523C7.63246 11.8843 7.63246 11.5993 7.54846 11.3163C7.35046 10.6683 6.84946 10.1693 6.21946 9.98633C5.93246 9.89233 5.64246 9.89233 5.06846 9.89233C4.51846 9.89233 4.21646 9.89233 3.94446 9.98133C3.29846 10.1703 2.78046 10.6923 2.59646 11.3423C2.51246 11.6273 2.51646 11.9233 2.52446 12.4583C2.54146 13.8013 2.56746 14.6663 2.60146 15.0253C2.77746 17.0533 4.38046 18.6323 6.37246 18.7763C6.57746 18.8083 6.91346 18.8323 7.33146 18.8513V20.2523C7.33146 20.6663 7.66746 21.0023 8.08146 21.0023C8.49546 21.0023 8.83146 20.6663 8.83146 20.2523V18.8923C9.79746 18.9083 10.9095 18.9123 11.9955 18.9123C12.0255 18.9123 13.8705 18.9103 15.4445 18.8813V20.2523C15.4445 20.6663 15.7805 21.0023 16.1945 21.0023C16.6085 21.0023 16.9445 20.6663 16.9445 20.2523V18.8363C17.2545 18.8213 17.4885 18.8033 17.5895 18.7813C19.6165 18.6333 21.2145 17.0533 21.3905 15.0313C21.4245 14.6773 21.4525 13.8183 21.4745 12.4813C21.4835 11.9453 21.4895 11.6503 21.4125 11.3703Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Sofa 1 — light style variants.
+class _HomeAppliancesSofa1Light {
+  const _HomeAppliancesSofa1Light();
+
+  /// Sofa 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Sofa 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.922 10.6289C18.4187 10.6278 18.167 10.6273 17.9627 10.686C17.4662 10.8285 17.0791 11.2147 16.9356 11.7109C16.8765 11.9151 16.8765 12.1654 16.8765 12.666V13.5774C16.8765 14.1602 16.4046 14.6321 15.8218 14.6321H8.18504C7.60321 14.6321 7.13035 14.1602 7.13035 13.5774V12.6839C7.13035 12.1639 7.13035 11.9039 7.06754 11.6937C6.92251 11.2084 6.5465 10.832 6.06132 10.6865C5.85123 10.6235 5.5898 10.6232 5.06694 10.6226C4.55252 10.6221 4.2953 10.6219 4.08319 10.6857C3.59835 10.8315 3.21361 11.221 3.07369 11.7076C3.01248 11.9204 3.01583 12.1743 3.02255 12.6822C3.03599 13.6984 3.05915 14.794 3.09839 15.211C3.25309 16.9847 4.67264 18.3838 6.4483 18.5132C7.27921 18.6426 10.6067 18.6426 11.9942 18.6426C13.3816 18.6426 17.0701 18.6144 17.5517 18.5113C19.3235 18.377 20.7372 16.9808 20.891 15.211C20.9305 14.7984 20.9569 13.7098 20.9735 12.6962C20.9818 12.1923 20.9859 11.9404 20.9293 11.7338C20.7915 11.2307 20.406 10.838 19.9056 10.6909C19.7 10.6305 19.4407 10.63 18.922 10.6289Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.08008 18.7002V20.4764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1934 18.7002V20.4764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.962 10.5956V8.17389C18.962 6.83237 18.962 6.16161 18.7514 5.62951C18.4464 4.85932 17.8366 4.2495 17.0664 3.94456C16.5343 3.73389 15.8636 3.73389 14.522 3.73389H9.54352C8.202 3.73389 7.53123 3.73389 6.99914 3.94456C6.22895 4.2495 5.61913 4.85932 5.31419 5.62951C5.10352 6.16161 5.10352 6.83237 5.10352 8.17389V10.5956" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -2112,23 +3890,6 @@ class _HomeAppliancesExitIcon {
 
   /// light style
   _HomeAppliancesExitLight get light => const _HomeAppliancesExitLight();
-  /// outline style
-  _HomeAppliancesExitOutline get outline => const _HomeAppliancesExitOutline();
-}
-
-/// Exit — outline style variants.
-class _HomeAppliancesExitOutline {
-  const _HomeAppliancesExitOutline();
-
-  /// Exit — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Exit',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5039 10.3735C12.9181 10.3735 13.2539 10.7093 13.2539 11.1235V12.8763C13.2539 13.2905 12.9181 13.6263 12.5039 13.6263C12.0897 13.6263 11.7539 13.2905 11.7539 12.8763V11.1235C11.7539 10.7093 12.0897 10.3735 12.5039 10.3735Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5004 3.54101C11.3098 3.29389 10.1938 4.20228 10.1938 5.41568V18.5843C10.1938 19.7977 11.3098 20.7061 12.5004 20.459L17.7232 19.375C18.6129 19.1903 19.25 18.4073 19.25 17.5003V6.49969C19.25 5.59273 18.6129 4.80968 17.7232 4.62502L12.5004 3.54101ZM8.69385 5.41568C8.69385 3.24987 10.6848 1.63221 12.8053 2.07232L18.0281 3.15633C19.6131 3.4853 20.75 4.88104 20.75 6.49969V17.5003C20.75 19.119 19.6131 20.5147 18.0281 20.8437L12.8053 21.9277C10.6848 22.3678 8.69385 20.7502 8.69385 18.5843V5.41568Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.25 7.32677C3.25 5.55808 4.68472 4.12524 6.45336 4.12524H9.30548C9.71969 4.12524 10.0555 4.46103 10.0555 4.87524C10.0555 5.28946 9.71969 5.62524 9.30548 5.62524H6.45336C5.51209 5.62524 4.75 6.38757 4.75 7.32677V16.6731C4.75 17.6123 5.51209 18.3746 6.45336 18.3746H9.30548C9.71969 18.3746 10.0555 18.7104 10.0555 19.1246C10.0555 19.5388 9.71969 19.8746 9.30548 19.8746H6.45336C4.68472 19.8746 3.25 18.4418 3.25 16.6731V7.32677Z" fill="black"/> </svg>',
-    category: 'Home_Appliances',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Exit — light style variants.
@@ -2146,29 +3907,81 @@ class _HomeAppliancesExitLight {
 
 }
 
+/// Exit 1 icon with style variants.
+class _HomeAppliancesExit1Icon {
+  const _HomeAppliancesExit1Icon();
+
+  /// light style
+  _HomeAppliancesExit1Light get light => const _HomeAppliancesExit1Light();
+}
+
+/// Exit 1 — light style variants.
+class _HomeAppliancesExit1Light {
+  const _HomeAppliancesExit1Light();
+
+  /// Exit 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Exit 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5039 11.1235V12.8763" stroke="black" stroke-width="1.5" stroke-linecap="round"/> <path d="M9.44385 18.5843V5.41567C9.44385 3.72606 10.9973 2.46304 12.6529 2.80665L17.8757 3.89066C19.113 4.14748 20 5.23688 20 6.49968V17.5003C20 18.7631 19.113 19.8525 17.8757 20.1093L12.6529 21.1933C10.9973 21.537 9.44385 20.2739 9.44385 18.5843Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.30548 4.87524H6.45336C5.09841 4.87524 4 5.97283 4 7.32677V16.6731C4 18.027 5.09841 19.1246 6.45336 19.1246H9.30548" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Exit 2 icon with style variants.
+class _HomeAppliancesExit2Icon {
+  const _HomeAppliancesExit2Icon();
+
+  /// outline style
+  _HomeAppliancesExit2Outline get outline => const _HomeAppliancesExit2Outline();
+}
+
+/// Exit 2 — outline style variants.
+class _HomeAppliancesExit2Outline {
+  const _HomeAppliancesExit2Outline();
+
+  /// Exit 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Exit 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5039 10.3735C12.9181 10.3735 13.2539 10.7093 13.2539 11.1235V12.8763C13.2539 13.2905 12.9181 13.6263 12.5039 13.6263C12.0897 13.6263 11.7539 13.2905 11.7539 12.8763V11.1235C11.7539 10.7093 12.0897 10.3735 12.5039 10.3735Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5004 3.54101C11.3098 3.29389 10.1938 4.20228 10.1938 5.41568V18.5843C10.1938 19.7977 11.3098 20.7061 12.5004 20.459L17.7232 19.375C18.6129 19.1903 19.25 18.4073 19.25 17.5003V6.49969C19.25 5.59273 18.6129 4.80968 17.7232 4.62502L12.5004 3.54101ZM8.69385 5.41568C8.69385 3.24987 10.6848 1.63221 12.8053 2.07232L18.0281 3.15633C19.6131 3.4853 20.75 4.88104 20.75 6.49969V17.5003C20.75 19.119 19.6131 20.5147 18.0281 20.8437L12.8053 21.9277C10.6848 22.3678 8.69385 20.7502 8.69385 18.5843V5.41568Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.25 7.32677C3.25 5.55808 4.68472 4.12524 6.45336 4.12524H9.30548C9.71969 4.12524 10.0555 4.46103 10.0555 4.87524C10.0555 5.28946 9.71969 5.62524 9.30548 5.62524H6.45336C5.51209 5.62524 4.75 6.38757 4.75 7.32677V16.6731C4.75 17.6123 5.51209 18.3746 6.45336 18.3746H9.30548C9.71969 18.3746 10.0555 18.7104 10.0555 19.1246C10.0555 19.5388 9.71969 19.8746 9.30548 19.8746H6.45336C4.68472 19.8746 3.25 18.4418 3.25 16.6731V7.32677Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Exit 3 icon with style variants.
+class _HomeAppliancesExit3Icon {
+  const _HomeAppliancesExit3Icon();
+
+  /// outline style
+  _HomeAppliancesExit3Outline get outline => const _HomeAppliancesExit3Outline();
+}
+
+/// Exit 3 — outline style variants.
+class _HomeAppliancesExit3Outline {
+  const _HomeAppliancesExit3Outline();
+
+  /// Exit 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Exit 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.40862 3.5C6.47635 3.5 5.75 4.23429 5.75 5.10422L5.75 20.3158C5.75 20.73 5.41421 21.0658 5 21.0658C4.58579 21.0658 4.25 20.73 4.25 20.3158L4.25 5.10422C4.25 3.37375 5.68041 2 7.40862 2L16.5914 2C18.3196 2 19.75 3.37375 19.75 5.10422L19.75 17.437C19.75 17.8512 19.4142 18.187 19 18.187C18.5858 18.187 18.25 17.8512 18.25 17.437L18.25 5.10422C18.25 4.23429 17.5237 3.5 16.5914 3.5L7.40862 3.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.698 2.81692C17.767 2.39752 19.7499 3.93772 19.7499 6.05556V18.6921C19.7499 20.8099 17.767 22.3501 15.698 21.9307L10.5666 20.8905L10.7156 20.1555L10.5666 20.8905C9.01342 20.5757 7.87842 19.2327 7.87842 17.6519V7.09577C7.87842 5.51495 9.01342 4.17198 10.5666 3.85713L15.698 2.81692ZM18.2499 6.05556C18.2499 4.93074 17.1802 4.04697 15.996 4.28702L10.8646 5.32723C9.98644 5.50525 9.37842 6.25303 9.37842 7.09577V17.6519C9.37842 18.4946 9.98644 19.2424 10.8646 19.4204L15.996 20.4606C17.1802 20.7007 18.2499 19.8169 18.2499 18.6921V6.05556Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 10.783C12.4142 10.783 12.75 11.1187 12.75 11.533V13.2149C12.75 13.6291 12.4142 13.9649 12 13.9649C11.5858 13.9649 11.25 13.6291 11.25 13.2149V11.533C11.25 11.1187 11.5858 10.783 12 10.783Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Check in icon with style variants.
 class _HomeAppliancesCheckInIcon {
   const _HomeAppliancesCheckInIcon();
 
   /// light style
   _HomeAppliancesCheckInLight get light => const _HomeAppliancesCheckInLight();
-  /// outline style
-  _HomeAppliancesCheckInOutline get outline => const _HomeAppliancesCheckInOutline();
-}
-
-/// Check in — outline style variants.
-class _HomeAppliancesCheckInOutline {
-  const _HomeAppliancesCheckInOutline();
-
-  /// Check in — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Check in',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8818 10.3735C14.296 10.3735 14.6318 10.7093 14.6318 11.1235V12.8763C14.6318 13.2905 14.296 13.6263 13.8818 13.6263C13.4676 13.6263 13.1318 13.2905 13.1318 12.8763V11.1235C13.1318 10.7093 13.4676 10.3735 13.8818 10.3735Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8784 3.54101C12.6877 3.29389 11.5718 4.20228 11.5718 5.41568V18.5843C11.5718 19.7977 12.6877 20.7061 13.8784 20.459L19.1012 19.375C19.9908 19.1903 20.628 18.4073 20.628 17.5003V6.49969C20.628 5.59273 19.9908 4.80968 19.1012 4.62502L13.8784 3.54101ZM10.0718 5.41568C10.0718 3.24987 12.0628 1.63221 14.1832 2.07232L19.406 3.15633C20.991 3.4853 22.128 4.88104 22.128 6.49969V17.5003C22.128 19.119 20.991 20.5147 19.406 20.8437L14.1832 21.9277C12.0628 22.3678 10.0718 20.7502 10.0718 18.5843V5.41568Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.37793 15.9231C5.79214 15.9231 6.12793 16.2589 6.12793 16.6731C6.12793 17.6123 6.89002 18.3746 7.83129 18.3746H10.6834C11.0976 18.3746 11.4334 18.7104 11.4334 19.1246C11.4334 19.5388 11.0976 19.8746 10.6834 19.8746H7.83129C6.06265 19.8746 4.62793 18.4418 4.62793 16.6731C4.62793 16.2589 4.96372 15.9231 5.37793 15.9231Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.95093 9.47084C6.24318 9.1773 6.71805 9.17626 7.01159 9.4685L9.02008 11.4682C9.16143 11.6089 9.2409 11.8001 9.24092 11.9996C9.24094 12.1991 9.1615 12.3903 9.02017 12.5311L7.01168 14.5314C6.71819 14.8237 6.24332 14.8227 5.95102 14.5293C5.65872 14.2358 5.65969 13.7609 5.95318 13.4686L6.67504 12.7497H2.62256C2.20835 12.7497 1.87256 12.4139 1.87256 11.9997C1.87256 11.5854 2.20835 11.2497 2.62256 11.2497H6.6746L5.95327 10.5315C5.65973 10.2393 5.65868 9.76438 5.95093 9.47084Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.62793 7.32677C4.62793 5.55808 6.06265 4.12524 7.83129 4.12524H10.6834C11.0976 4.12524 11.4334 4.46103 11.4334 4.87524C11.4334 5.28946 11.0976 5.62524 10.6834 5.62524H7.83129C6.89002 5.62524 6.12793 6.38757 6.12793 7.32677C6.12793 7.74098 5.79214 8.07677 5.37793 8.07677C4.96372 8.07677 4.62793 7.74098 4.62793 7.32677Z" fill="black"/> </svg>',
-    category: 'Home_Appliances',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Check in — light style variants.
@@ -2186,29 +3999,81 @@ class _HomeAppliancesCheckInLight {
 
 }
 
+/// Check in 1 icon with style variants.
+class _HomeAppliancesCheckIn1Icon {
+  const _HomeAppliancesCheckIn1Icon();
+
+  /// light style
+  _HomeAppliancesCheckIn1Light get light => const _HomeAppliancesCheckIn1Light();
+}
+
+/// Check in 1 — light style variants.
+class _HomeAppliancesCheckIn1Light {
+  const _HomeAppliancesCheckIn1Light();
+
+  /// Check in 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Check in 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.8818 11.1235V12.8763" stroke="black" stroke-width="1.5" stroke-linecap="round"/> <path d="M10.8218 18.5843V5.41567C10.8218 3.72606 12.3753 2.46304 14.0308 2.80665L19.2536 3.89066C20.4909 4.14748 21.378 5.23688 21.378 6.49968V17.5003C21.378 18.7631 20.4909 19.8525 19.2536 20.1093L14.0308 21.1933C12.3753 21.537 10.8218 20.2739 10.8218 18.5843Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6834 19.1246H7.83129C6.47634 19.1246 5.37793 18.027 5.37793 16.6731" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.49092 11.9997H2.62256M8.49092 11.9997L6.48243 10M8.49092 11.9997L6.48243 14" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6834 4.87524H7.83129C6.47634 4.87524 5.37793 5.97283 5.37793 7.32677" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Check in 2 icon with style variants.
+class _HomeAppliancesCheckIn2Icon {
+  const _HomeAppliancesCheckIn2Icon();
+
+  /// outline style
+  _HomeAppliancesCheckIn2Outline get outline => const _HomeAppliancesCheckIn2Outline();
+}
+
+/// Check in 2 — outline style variants.
+class _HomeAppliancesCheckIn2Outline {
+  const _HomeAppliancesCheckIn2Outline();
+
+  /// Check in 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Check in 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.8152 9.56435C6.10745 9.27081 6.58232 9.26976 6.87586 9.56201L8.88436 11.5617C9.02571 11.7024 9.10518 11.8936 9.1052 12.0931C9.10521 12.2926 9.02578 12.4838 8.88445 12.6246L6.87595 14.6249C6.58247 14.9172 6.10759 14.9162 5.8153 14.6228C5.523 14.3293 5.52396 13.8544 5.81745 13.5621L6.53932 12.8432H2.86963C2.45542 12.8432 2.11963 12.5074 2.11963 12.0932C2.11963 11.6789 2.45542 11.3432 2.86963 11.3432H6.53887L5.81754 10.625C5.524 10.3328 5.52296 9.85789 5.8152 9.56435Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.53899 3.5C8.60672 3.5 7.88037 4.23429 7.88037 5.10422V6.90711C7.88037 7.32132 7.54458 7.65711 7.13037 7.65711C6.71616 7.65711 6.38037 7.32132 6.38037 6.90711L6.38037 5.10422C6.38037 3.37375 7.81078 2 9.53899 2L18.7218 2C20.45 2 21.8804 3.37375 21.8804 5.10422V17.437C21.8804 17.8512 21.5446 18.187 21.1304 18.187C20.7162 18.187 20.3804 17.8512 20.3804 17.437V5.10422C20.3804 4.23429 19.654 3.5 18.7218 3.5L9.53899 3.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.13037 16.7627C7.54458 16.7627 7.88037 17.0985 7.88037 17.5127L7.88037 20.3156C7.88037 20.7298 7.54458 21.0656 7.13037 21.0656C6.71616 21.0656 6.38037 20.7298 6.38037 20.3156L6.38037 17.5127C6.38037 17.0985 6.71616 16.7627 7.13037 16.7627Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1265 4.28702C19.3107 4.04697 20.3804 4.93074 20.3804 6.05556V18.6921C20.3804 19.8169 19.3107 20.7007 18.1265 20.4606L12.9951 19.4204C12.1169 19.2424 11.5089 18.4946 11.5089 17.6519V7.09577C11.5089 6.25303 12.1169 5.50525 12.9951 5.32723L18.1265 4.28702ZM21.8804 6.05556C21.8804 3.93772 19.8975 2.39752 17.8285 2.81692L12.6971 3.85713C11.1439 4.17198 10.0089 5.51495 10.0089 7.09577V17.6519C10.0089 19.2327 11.1439 20.5757 12.6971 20.8905L17.8285 21.9307C19.8975 22.3501 21.8804 20.8099 21.8804 18.6921V6.05556Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1304 10.783C14.5446 10.783 14.8804 11.1187 14.8804 11.533V13.2149C14.8804 13.6291 14.5446 13.9649 14.1304 13.9649C13.7162 13.9649 13.3804 13.6291 13.3804 13.2149V11.533C13.3804 11.1187 13.7162 10.783 14.1304 10.783Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Check in 3 icon with style variants.
+class _HomeAppliancesCheckIn3Icon {
+  const _HomeAppliancesCheckIn3Icon();
+
+  /// outline style
+  _HomeAppliancesCheckIn3Outline get outline => const _HomeAppliancesCheckIn3Outline();
+}
+
+/// Check in 3 — outline style variants.
+class _HomeAppliancesCheckIn3Outline {
+  const _HomeAppliancesCheckIn3Outline();
+
+  /// Check in 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Check in 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8818 10.3735C14.296 10.3735 14.6318 10.7093 14.6318 11.1235V12.8763C14.6318 13.2905 14.296 13.6263 13.8818 13.6263C13.4676 13.6263 13.1318 13.2905 13.1318 12.8763V11.1235C13.1318 10.7093 13.4676 10.3735 13.8818 10.3735Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8784 3.54101C12.6877 3.29389 11.5718 4.20228 11.5718 5.41568V18.5843C11.5718 19.7977 12.6877 20.7061 13.8784 20.459L19.1012 19.375C19.9908 19.1903 20.628 18.4073 20.628 17.5003V6.49969C20.628 5.59273 19.9908 4.80968 19.1012 4.62502L13.8784 3.54101ZM10.0718 5.41568C10.0718 3.24987 12.0628 1.63221 14.1832 2.07232L19.406 3.15633C20.991 3.4853 22.128 4.88104 22.128 6.49969V17.5003C22.128 19.119 20.991 20.5147 19.406 20.8437L14.1832 21.9277C12.0628 22.3678 10.0718 20.7502 10.0718 18.5843V5.41568Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.37793 15.9231C5.79214 15.9231 6.12793 16.2589 6.12793 16.6731C6.12793 17.6123 6.89002 18.3746 7.83129 18.3746H10.6834C11.0976 18.3746 11.4334 18.7104 11.4334 19.1246C11.4334 19.5388 11.0976 19.8746 10.6834 19.8746H7.83129C6.06265 19.8746 4.62793 18.4418 4.62793 16.6731C4.62793 16.2589 4.96372 15.9231 5.37793 15.9231Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.95093 9.47084C6.24318 9.1773 6.71805 9.17626 7.01159 9.4685L9.02008 11.4682C9.16143 11.6089 9.2409 11.8001 9.24092 11.9996C9.24094 12.1991 9.1615 12.3903 9.02017 12.5311L7.01168 14.5314C6.71819 14.8237 6.24332 14.8227 5.95102 14.5293C5.65872 14.2358 5.65969 13.7609 5.95318 13.4686L6.67504 12.7497H2.62256C2.20835 12.7497 1.87256 12.4139 1.87256 11.9997C1.87256 11.5854 2.20835 11.2497 2.62256 11.2497H6.6746L5.95327 10.5315C5.65973 10.2393 5.65868 9.76438 5.95093 9.47084Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.62793 7.32677C4.62793 5.55808 6.06265 4.12524 7.83129 4.12524H10.6834C11.0976 4.12524 11.4334 4.46103 11.4334 4.87524C11.4334 5.28946 11.0976 5.62524 10.6834 5.62524H7.83129C6.89002 5.62524 6.12793 6.38757 6.12793 7.32677C6.12793 7.74098 5.79214 8.07677 5.37793 8.07677C4.96372 8.07677 4.62793 7.74098 4.62793 7.32677Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Check out icon with style variants.
 class _HomeAppliancesCheckOutIcon {
   const _HomeAppliancesCheckOutIcon();
 
   /// light style
   _HomeAppliancesCheckOutLight get light => const _HomeAppliancesCheckOutLight();
-  /// outline style
-  _HomeAppliancesCheckOutOutline get outline => const _HomeAppliancesCheckOutOutline();
-}
-
-/// Check out — outline style variants.
-class _HomeAppliancesCheckOutOutline {
-  const _HomeAppliancesCheckOutOutline();
-
-  /// Check out — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Check out',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.40941 9.56435C5.11716 9.27081 4.64229 9.26976 4.34875 9.56201L2.34025 11.5617C2.1989 11.7024 2.11943 11.8936 2.11941 12.0931C2.1194 12.2926 2.19883 12.4838 2.34016 12.6246L4.34866 14.6249C4.64214 14.9172 5.11702 14.9162 5.40931 14.6228C5.70161 14.3293 5.70065 13.8544 5.40716 13.5621L4.68529 12.8432H8.35498C8.76919 12.8432 9.10498 12.5074 9.10498 12.0932C9.10498 11.6789 8.76919 11.3432 8.35498 11.3432H4.68574L5.40707 10.625C5.7006 10.3328 5.70165 9.85789 5.40941 9.56435Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.53899 3.5C8.60672 3.5 7.88037 4.23429 7.88037 5.10422V6.90711C7.88037 7.32132 7.54458 7.65711 7.13037 7.65711C6.71616 7.65711 6.38037 7.32132 6.38037 6.90711L6.38037 5.10422C6.38037 3.37375 7.81078 2 9.53899 2L18.7218 2C20.45 2 21.8804 3.37375 21.8804 5.10422V17.437C21.8804 17.8512 21.5446 18.187 21.1304 18.187C20.7162 18.187 20.3804 17.8512 20.3804 17.437V5.10422C20.3804 4.23429 19.654 3.5 18.7218 3.5L9.53899 3.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.13037 16.7627C7.54458 16.7627 7.88037 17.0985 7.88037 17.5127L7.88037 20.3156C7.88037 20.7298 7.54458 21.0656 7.13037 21.0656C6.71616 21.0656 6.38037 20.7298 6.38037 20.3156L6.38037 17.5127C6.38037 17.0985 6.71616 16.7627 7.13037 16.7627Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.8286 2.81692C19.8976 2.39752 21.8805 3.93772 21.8805 6.05556V18.6921C21.8805 20.8099 19.8976 22.3501 17.8286 21.9307L12.6972 20.8905L12.8462 20.1555L12.6972 20.8905C11.144 20.5757 10.009 19.2327 10.009 17.6519V7.09577C10.009 5.51495 11.144 4.17198 12.6972 3.85713L17.8286 2.81692ZM20.3805 6.05556C20.3805 4.93074 19.3108 4.04697 18.1266 4.28702L12.9952 5.32723C12.1171 5.50525 11.509 6.25303 11.509 7.09577V17.6519C11.509 18.4946 12.1171 19.2424 12.9952 19.4204L18.1266 20.4606C19.3108 20.7007 20.3805 19.8169 20.3805 18.6921V6.05556Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1304 10.783C14.5446 10.783 14.8804 11.1187 14.8804 11.533V13.2149C14.8804 13.6291 14.5446 13.9649 14.1304 13.9649C13.7162 13.9649 13.3804 13.6291 13.3804 13.2149V11.533C13.3804 11.1187 13.7162 10.783 14.1304 10.783Z" fill="black"/> </svg>',
-    category: 'Home_Appliances',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Check out — light style variants.
@@ -2221,6 +4086,75 @@ class _HomeAppliancesCheckOutLight {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2.8694 12.0932H8.35497M2.8694 12.0932L4.87789 10.0935M2.8694 12.0932L4.87789 14.0935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.1304 17.437V5.10422C21.1304 3.80402 20.052 2.75 18.7218 2.75L9.53899 2.75C8.20875 2.75 7.13037 3.80402 7.13037 5.10422L7.13037 6.90711" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.13037 20.3156L7.13037 17.5127" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.1302 18.692V6.05551C21.1302 4.43418 19.6039 3.22219 17.9774 3.55192L12.846 4.59213C11.6303 4.83856 10.7588 5.88394 10.7588 7.09571V17.6518C10.7588 18.8636 11.6303 19.909 12.846 20.1554L17.9774 21.1956C19.6039 21.5254 21.1302 20.3134 21.1302 18.692Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1304 11.533V13.2149" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
     category: 'Home_Appliances',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Check out 1 icon with style variants.
+class _HomeAppliancesCheckOut1Icon {
+  const _HomeAppliancesCheckOut1Icon();
+
+  /// light style
+  _HomeAppliancesCheckOut1Light get light => const _HomeAppliancesCheckOut1Light();
+}
+
+/// Check out 1 — light style variants.
+class _HomeAppliancesCheckOut1Light {
+  const _HomeAppliancesCheckOut1Light();
+
+  /// Check out 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Check out 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.8818 11.1235V12.8763" stroke="black" stroke-width="1.5" stroke-linecap="round"/> <path d="M10.8218 18.5843V5.41567C10.8218 3.72606 12.3753 2.46304 14.0308 2.80665L19.2536 3.89066C20.4909 4.14748 21.378 5.23688 21.378 6.49968V17.5003C21.378 18.7631 20.4909 19.8525 19.2536 20.1093L14.0308 21.1933C12.3753 21.537 10.8218 20.2739 10.8218 18.5843Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6834 19.1246H7.83129C6.47634 19.1246 5.37793 18.027 5.37793 16.6731" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M2.62236 11.9997H8.49072M2.62236 11.9997L4.63085 10M2.62236 11.9997L4.63085 14" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6834 4.87524H7.83129C6.47634 4.87524 5.37793 5.97283 5.37793 7.32677" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Check out 2 icon with style variants.
+class _HomeAppliancesCheckOut2Icon {
+  const _HomeAppliancesCheckOut2Icon();
+
+  /// outline style
+  _HomeAppliancesCheckOut2Outline get outline => const _HomeAppliancesCheckOut2Outline();
+}
+
+/// Check out 2 — outline style variants.
+class _HomeAppliancesCheckOut2Outline {
+  const _HomeAppliancesCheckOut2Outline();
+
+  /// Check out 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Check out 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.40941 9.56435C5.11716 9.27081 4.64229 9.26976 4.34875 9.56201L2.34025 11.5617C2.1989 11.7024 2.11943 11.8936 2.11941 12.0931C2.1194 12.2926 2.19883 12.4838 2.34016 12.6246L4.34866 14.6249C4.64214 14.9172 5.11702 14.9162 5.40931 14.6228C5.70161 14.3293 5.70065 13.8544 5.40716 13.5621L4.68529 12.8432H8.35498C8.76919 12.8432 9.10498 12.5074 9.10498 12.0932C9.10498 11.6789 8.76919 11.3432 8.35498 11.3432H4.68574L5.40707 10.625C5.7006 10.3328 5.70165 9.85789 5.40941 9.56435Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.53899 3.5C8.60672 3.5 7.88037 4.23429 7.88037 5.10422V6.90711C7.88037 7.32132 7.54458 7.65711 7.13037 7.65711C6.71616 7.65711 6.38037 7.32132 6.38037 6.90711L6.38037 5.10422C6.38037 3.37375 7.81078 2 9.53899 2L18.7218 2C20.45 2 21.8804 3.37375 21.8804 5.10422V17.437C21.8804 17.8512 21.5446 18.187 21.1304 18.187C20.7162 18.187 20.3804 17.8512 20.3804 17.437V5.10422C20.3804 4.23429 19.654 3.5 18.7218 3.5L9.53899 3.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.13037 16.7627C7.54458 16.7627 7.88037 17.0985 7.88037 17.5127L7.88037 20.3156C7.88037 20.7298 7.54458 21.0656 7.13037 21.0656C6.71616 21.0656 6.38037 20.7298 6.38037 20.3156L6.38037 17.5127C6.38037 17.0985 6.71616 16.7627 7.13037 16.7627Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.8286 2.81692C19.8976 2.39752 21.8805 3.93772 21.8805 6.05556V18.6921C21.8805 20.8099 19.8976 22.3501 17.8286 21.9307L12.6972 20.8905L12.8462 20.1555L12.6972 20.8905C11.144 20.5757 10.009 19.2327 10.009 17.6519V7.09577C10.009 5.51495 11.144 4.17198 12.6972 3.85713L17.8286 2.81692ZM20.3805 6.05556C20.3805 4.93074 19.3108 4.04697 18.1266 4.28702L12.9952 5.32723C12.1171 5.50525 11.509 6.25303 11.509 7.09577V17.6519C11.509 18.4946 12.1171 19.2424 12.9952 19.4204L18.1266 20.4606C19.3108 20.7007 20.3805 19.8169 20.3805 18.6921V6.05556Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1304 10.783C14.5446 10.783 14.8804 11.1187 14.8804 11.533V13.2149C14.8804 13.6291 14.5446 13.9649 14.1304 13.9649C13.7162 13.9649 13.3804 13.6291 13.3804 13.2149V11.533C13.3804 11.1187 13.7162 10.783 14.1304 10.783Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Check out 3 icon with style variants.
+class _HomeAppliancesCheckOut3Icon {
+  const _HomeAppliancesCheckOut3Icon();
+
+  /// outline style
+  _HomeAppliancesCheckOut3Outline get outline => const _HomeAppliancesCheckOut3Outline();
+}
+
+/// Check out 3 — outline style variants.
+class _HomeAppliancesCheckOut3Outline {
+  const _HomeAppliancesCheckOut3Outline();
+
+  /// Check out 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Check out 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8818 10.3735C14.296 10.3735 14.6318 10.7093 14.6318 11.1235V12.8763C14.6318 13.2905 14.296 13.6263 13.8818 13.6263C13.4676 13.6263 13.1318 13.2905 13.1318 12.8763V11.1235C13.1318 10.7093 13.4676 10.3735 13.8818 10.3735Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8784 3.54101C12.6877 3.29389 11.5718 4.20228 11.5718 5.41568V18.5843C11.5718 19.7977 12.6877 20.7061 13.8784 20.459L19.1012 19.375C19.9908 19.1903 20.628 18.4073 20.628 17.5003V6.49969C20.628 5.59273 19.9908 4.80968 19.1012 4.62502L13.8784 3.54101ZM10.0718 5.41568C10.0718 3.24987 12.0628 1.63221 14.1832 2.07232L19.406 3.15633C20.991 3.4853 22.128 4.88104 22.128 6.49969V17.5003C22.128 19.119 20.991 20.5147 19.406 20.8437L14.1832 21.9277C12.0628 22.3678 10.0718 20.7502 10.0718 18.5843V5.41568Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.37793 15.9231C5.79214 15.9231 6.12793 16.2589 6.12793 16.6731C6.12793 17.6123 6.89002 18.3746 7.83129 18.3746H10.6834C11.0976 18.3746 11.4334 18.7104 11.4334 19.1246C11.4334 19.5388 11.0976 19.8746 10.6834 19.8746H7.83129C6.06265 19.8746 4.62793 18.4418 4.62793 16.6731C4.62793 16.2589 4.96372 15.9231 5.37793 15.9231Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.16235 9.47084C4.87011 9.1773 4.39523 9.17626 4.1017 9.4685L2.0932 11.4682C1.95185 11.6089 1.87238 11.8001 1.87236 11.9996C1.87234 12.1991 1.95178 12.3903 2.09311 12.5311L4.1016 14.5314C4.39509 14.8237 4.86996 14.8227 5.16226 14.5293C5.45456 14.2358 5.45359 13.7609 5.16011 13.4686L4.43824 12.7497H8.49072C8.90494 12.7497 9.24072 12.4139 9.24072 11.9997C9.24072 11.5854 8.90494 11.2497 8.49072 11.2497H4.43868L5.16001 10.5315C5.45355 10.2393 5.4546 9.76438 5.16235 9.47084Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.62793 7.32677C4.62793 5.55808 6.06265 4.12524 7.83129 4.12524H10.6834C11.0976 4.12524 11.4334 4.46103 11.4334 4.87524C11.4334 5.28946 11.0976 5.62524 10.6834 5.62524H7.83129C6.89002 5.62524 6.12793 6.38757 6.12793 7.32677C6.12793 7.74098 5.79214 8.07677 5.37793 8.07677C4.96372 8.07677 4.62793 7.74098 4.62793 7.32677Z" fill="black"/> </svg>',
+    category: 'Home_Appliances',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 

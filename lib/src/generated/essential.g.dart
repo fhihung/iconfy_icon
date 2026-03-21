@@ -20,6 +20,10 @@ class _EssentialIcons {
   _EssentialDangerCircleIcon get dangerCircle => const _EssentialDangerCircleIcon();
   /// Arrow - Right
   _EssentialArrowRightIcon get arrowRight => const _EssentialArrowRightIcon();
+  /// Arrow - Right 1
+  _EssentialArrowRight1Icon get arrowRight1 => const _EssentialArrowRight1Icon();
+  /// Arrow - Right 2
+  _EssentialArrowRight2Icon get arrowRight2 => const _EssentialArrowRight2Icon();
   /// Chart
   _EssentialChartIcon get chart => const _EssentialChartIcon();
   /// User
@@ -28,24 +32,96 @@ class _EssentialIcons {
   _EssentialTickSquareIcon get tickSquare => const _EssentialTickSquareIcon();
   /// Arrow - Down
   _EssentialArrowDownIcon get arrowDown => const _EssentialArrowDownIcon();
+  /// Arrow - Down 1
+  _EssentialArrowDown1Icon get arrowDown1 => const _EssentialArrowDown1Icon();
+  /// Arrow - Down 2
+  _EssentialArrowDown2Icon get arrowDown2 => const _EssentialArrowDown2Icon();
   /// Bag
   _EssentialBagIcon get bag => const _EssentialBagIcon();
+  /// Bag 1
+  _EssentialBag1Icon get bag1 => const _EssentialBag1Icon();
+  /// Bag 2
+  _EssentialBag2Icon get bag2 => const _EssentialBag2Icon();
   /// Volume Up
   _EssentialVolumeUpIcon get volumeUp => const _EssentialVolumeUpIcon();
   /// Home
   _EssentialHomeIcon get home => const _EssentialHomeIcon();
+  /// Home 1
+  _EssentialHome1Icon get home1 => const _EssentialHome1Icon();
   /// More Circle
   _EssentialMoreCircleIcon get moreCircle => const _EssentialMoreCircleIcon();
   /// Filter
   _EssentialFilterIcon get filter => const _EssentialFilterIcon();
+  /// Filter 1
+  _EssentialFilter1Icon get filter1 => const _EssentialFilter1Icon();
   /// Logout
   _EssentialLogoutIcon get logout => const _EssentialLogoutIcon();
+  /// Logout 1
+  _EssentialLogout1Icon get logout1 => const _EssentialLogout1Icon();
   /// Shield Done
   _EssentialShieldDoneIcon get shieldDone => const _EssentialShieldDoneIcon();
   /// Ticket
   _EssentialTicketIcon get ticket => const _EssentialTicketIcon();
+  /// Ticket 1
+  _EssentialTicket1Icon get ticket1 => const _EssentialTicket1Icon();
+  /// Ticket 2
+  _EssentialTicket2Icon get ticket2 => const _EssentialTicket2Icon();
   /// Arrow - Left Circle
   _EssentialArrowLeftCircleIcon get arrowLeftCircle => const _EssentialArrowLeftCircleIcon();
+  /// Arrow - Left Circle 1
+  _EssentialArrowLeftCircle1Icon get arrowLeftCircle1 => const _EssentialArrowLeftCircle1Icon();
+  /// Arrow - Left Circle 2
+  _EssentialArrowLeftCircle2Icon get arrowLeftCircle2 => const _EssentialArrowLeftCircle2Icon();
+  /// Arrow - Left Circle 3
+  _EssentialArrowLeftCircle3Icon get arrowLeftCircle3 => const _EssentialArrowLeftCircle3Icon();
+  /// Arrow - Left Circle 4
+  _EssentialArrowLeftCircle4Icon get arrowLeftCircle4 => const _EssentialArrowLeftCircle4Icon();
+  /// Arrow - Left Circle 5
+  _EssentialArrowLeftCircle5Icon get arrowLeftCircle5 => const _EssentialArrowLeftCircle5Icon();
+  /// Arrow - Left Circle 6
+  _EssentialArrowLeftCircle6Icon get arrowLeftCircle6 => const _EssentialArrowLeftCircle6Icon();
+  /// Arrow - Left Circle 7
+  _EssentialArrowLeftCircle7Icon get arrowLeftCircle7 => const _EssentialArrowLeftCircle7Icon();
+  /// Arrow - Left Circle 8
+  _EssentialArrowLeftCircle8Icon get arrowLeftCircle8 => const _EssentialArrowLeftCircle8Icon();
+  /// Arrow - Left Circle 9
+  _EssentialArrowLeftCircle9Icon get arrowLeftCircle9 => const _EssentialArrowLeftCircle9Icon();
+  /// Arrow - Left Circle 10
+  _EssentialArrowLeftCircle10Icon get arrowLeftCircle10 => const _EssentialArrowLeftCircle10Icon();
+  /// Arrow - Left Circle 11
+  _EssentialArrowLeftCircle11Icon get arrowLeftCircle11 => const _EssentialArrowLeftCircle11Icon();
+  /// Arrow - Left Circle 12
+  _EssentialArrowLeftCircle12Icon get arrowLeftCircle12 => const _EssentialArrowLeftCircle12Icon();
+  /// Arrow - Left Circle 13
+  _EssentialArrowLeftCircle13Icon get arrowLeftCircle13 => const _EssentialArrowLeftCircle13Icon();
+  /// Arrow - Left Circle 14
+  _EssentialArrowLeftCircle14Icon get arrowLeftCircle14 => const _EssentialArrowLeftCircle14Icon();
+  /// Arrow - Left Circle 15
+  _EssentialArrowLeftCircle15Icon get arrowLeftCircle15 => const _EssentialArrowLeftCircle15Icon();
+  /// Arrow - Left Circle 16
+  _EssentialArrowLeftCircle16Icon get arrowLeftCircle16 => const _EssentialArrowLeftCircle16Icon();
+  /// Arrow - Left Circle 17
+  _EssentialArrowLeftCircle17Icon get arrowLeftCircle17 => const _EssentialArrowLeftCircle17Icon();
+  /// Arrow - Left Circle 18
+  _EssentialArrowLeftCircle18Icon get arrowLeftCircle18 => const _EssentialArrowLeftCircle18Icon();
+  /// Arrow - Left Circle 19
+  _EssentialArrowLeftCircle19Icon get arrowLeftCircle19 => const _EssentialArrowLeftCircle19Icon();
+  /// Arrow - Left Circle 20
+  _EssentialArrowLeftCircle20Icon get arrowLeftCircle20 => const _EssentialArrowLeftCircle20Icon();
+  /// Arrow - Left Circle 21
+  _EssentialArrowLeftCircle21Icon get arrowLeftCircle21 => const _EssentialArrowLeftCircle21Icon();
+  /// Arrow - Left Circle 22
+  _EssentialArrowLeftCircle22Icon get arrowLeftCircle22 => const _EssentialArrowLeftCircle22Icon();
+  /// Arrow - Left Circle 23
+  _EssentialArrowLeftCircle23Icon get arrowLeftCircle23 => const _EssentialArrowLeftCircle23Icon();
+  /// Arrow - Left Circle 24
+  _EssentialArrowLeftCircle24Icon get arrowLeftCircle24 => const _EssentialArrowLeftCircle24Icon();
+  /// Arrow - Left Circle 25
+  _EssentialArrowLeftCircle25Icon get arrowLeftCircle25 => const _EssentialArrowLeftCircle25Icon();
+  /// Arrow - Left Circle 26
+  _EssentialArrowLeftCircle26Icon get arrowLeftCircle26 => const _EssentialArrowLeftCircle26Icon();
+  /// Arrow - Left Circle 27
+  _EssentialArrowLeftCircle27Icon get arrowLeftCircle27 => const _EssentialArrowLeftCircle27Icon();
   /// Show
   _EssentialShowIcon get show => const _EssentialShowIcon();
   /// Lock
@@ -68,20 +144,30 @@ class _EssentialIcons {
   _EssentialAddUserIcon get addUser => const _EssentialAddUserIcon();
   /// Download
   _EssentialDownloadIcon get download => const _EssentialDownloadIcon();
+  /// Download 1
+  _EssentialDownload1Icon get download1 => const _EssentialDownload1Icon();
   /// Volume Off
   _EssentialVolumeOffIcon get volumeOff => const _EssentialVolumeOffIcon();
   /// Login
   _EssentialLoginIcon get login => const _EssentialLoginIcon();
+  /// Login 1
+  _EssentialLogin1Icon get login1 => const _EssentialLogin1Icon();
   /// Wallet
   _EssentialWalletIcon get wallet => const _EssentialWalletIcon();
   /// Arrow - Up
   _EssentialArrowUpIcon get arrowUp => const _EssentialArrowUpIcon();
+  /// Arrow - Up 1
+  _EssentialArrowUp1Icon get arrowUp1 => const _EssentialArrowUp1Icon();
+  /// Arrow - Up 2
+  _EssentialArrowUp2Icon get arrowUp2 => const _EssentialArrowUp2Icon();
   /// Work
   _EssentialWorkIcon get work => const _EssentialWorkIcon();
   /// Paper
   _EssentialPaperIcon get paper => const _EssentialPaperIcon();
   /// Voice
   _EssentialVoiceIcon get voice => const _EssentialVoiceIcon();
+  /// Voice 1
+  _EssentialVoice1Icon get voice1 => const _EssentialVoice1Icon();
   /// Category
   _EssentialCategoryIcon get category => const _EssentialCategoryIcon();
   /// Plus
@@ -96,6 +182,8 @@ class _EssentialIcons {
   _EssentialCallMissedIcon get callMissed => const _EssentialCallMissedIcon();
   /// Paper Upload
   _EssentialPaperUploadIcon get paperUpload => const _EssentialPaperUploadIcon();
+  /// Paper Upload 1
+  _EssentialPaperUpload1Icon get paperUpload1 => const _EssentialPaperUpload1Icon();
   /// Volume Down
   _EssentialVolumeDownIcon get volumeDown => const _EssentialVolumeDownIcon();
   /// Arrow - Up Circle
@@ -104,6 +192,8 @@ class _EssentialIcons {
   _EssentialHideIcon get hide => const _EssentialHideIcon();
   /// Image
   _EssentialImageIcon get image => const _EssentialImageIcon();
+  /// Image 1
+  _EssentialImage1Icon get image1 => const _EssentialImage1Icon();
   /// Time Circle
   _EssentialTimeCircleIcon get timeCircle => const _EssentialTimeCircleIcon();
   /// Call Silent
@@ -114,6 +204,8 @@ class _EssentialIcons {
   _EssentialI3UserIcon get i3User => const _EssentialI3UserIcon();
   /// Setting
   _EssentialSettingIcon get setting => const _EssentialSettingIcon();
+  /// Setting 1
+  _EssentialSetting1Icon get setting1 => const _EssentialSetting1Icon();
   /// Message
   _EssentialMessageIcon get message => const _EssentialMessageIcon();
   /// More Square
@@ -122,8 +214,14 @@ class _EssentialIcons {
   _EssentialPlayIcon get play => const _EssentialPlayIcon();
   /// Chat
   _EssentialChatIcon get chat => const _EssentialChatIcon();
+  /// Chat 1
+  _EssentialChat1Icon get chat1 => const _EssentialChat1Icon();
   /// Notification
   _EssentialNotificationIcon get notification => const _EssentialNotificationIcon();
+  /// Notification 1
+  _EssentialNotification1Icon get notification1 => const _EssentialNotification1Icon();
+  /// Notification 2
+  _EssentialNotification2Icon get notification2 => const _EssentialNotification2Icon();
   /// Send
   _EssentialSendIcon get send => const _EssentialSendIcon();
   /// Camera
@@ -134,8 +232,42 @@ class _EssentialIcons {
   _EssentialTicketStarIcon get ticketStar => const _EssentialTicketStarIcon();
   /// Star
   _EssentialStarIcon get star => const _EssentialStarIcon();
+  /// Star 1
+  _EssentialStar1Icon get star1 => const _EssentialStar1Icon();
+  /// Star 2
+  _EssentialStar2Icon get star2 => const _EssentialStar2Icon();
+  /// Star 3
+  _EssentialStar3Icon get star3 => const _EssentialStar3Icon();
+  /// Star 4
+  _EssentialStar4Icon get star4 => const _EssentialStar4Icon();
+  /// Star 5
+  _EssentialStar5Icon get star5 => const _EssentialStar5Icon();
+  /// Star 6
+  _EssentialStar6Icon get star6 => const _EssentialStar6Icon();
+  /// Star 7
+  _EssentialStar7Icon get star7 => const _EssentialStar7Icon();
+  /// Star 8
+  _EssentialStar8Icon get star8 => const _EssentialStar8Icon();
+  /// Star 9
+  _EssentialStar9Icon get star9 => const _EssentialStar9Icon();
+  /// Star 10
+  _EssentialStar10Icon get star10 => const _EssentialStar10Icon();
+  /// Star 11
+  _EssentialStar11Icon get star11 => const _EssentialStar11Icon();
+  /// Star 12
+  _EssentialStar12Icon get star12 => const _EssentialStar12Icon();
+  /// Star 13
+  _EssentialStar13Icon get star13 => const _EssentialStar13Icon();
+  /// Star 14
+  _EssentialStar14Icon get star14 => const _EssentialStar14Icon();
+  /// Star 15
+  _EssentialStar15Icon get star15 => const _EssentialStar15Icon();
+  /// Star 16
+  _EssentialStar16Icon get star16 => const _EssentialStar16Icon();
   /// Danger
   _EssentialDangerIcon get danger => const _EssentialDangerIcon();
+  /// Danger 1
+  _EssentialDanger1Icon get danger1 => const _EssentialDanger1Icon();
   /// Edit
   _EssentialEditIcon get edit => const _EssentialEditIcon();
   /// Edit Square
@@ -144,14 +276,22 @@ class _EssentialIcons {
   _EssentialUnlockIcon get unlock => const _EssentialUnlockIcon();
   /// Delete
   _EssentialDeleteIcon get delete => const _EssentialDeleteIcon();
+  /// Delete 1
+  _EssentialDelete1Icon get delete1 => const _EssentialDelete1Icon();
   /// Arrow - Left
   _EssentialArrowLeftIcon get arrowLeft => const _EssentialArrowLeftIcon();
+  /// Arrow - Left 1
+  _EssentialArrowLeft1Icon get arrowLeft1 => const _EssentialArrowLeft1Icon();
+  /// Arrow - Left 2
+  _EssentialArrowLeft2Icon get arrowLeft2 => const _EssentialArrowLeft2Icon();
   /// Arrow - Right Circle
   _EssentialArrowRightCircleIcon get arrowRightCircle => const _EssentialArrowRightCircleIcon();
   /// Call
   _EssentialCallIcon get call => const _EssentialCallIcon();
   /// Location
   _EssentialLocationIcon get location => const _EssentialLocationIcon();
+  /// Location 1
+  _EssentialLocation1Icon get location1 => const _EssentialLocation1Icon();
   /// Profile
   _EssentialProfileIcon get profile => const _EssentialProfileIcon();
   /// Video
@@ -166,6 +306,8 @@ class _EssentialIcons {
   _EssentialArrowDownSquareIcon get arrowDownSquare => const _EssentialArrowDownSquareIcon();
   /// Upload
   _EssentialUploadIcon get upload => const _EssentialUploadIcon();
+  /// Upload 1
+  _EssentialUpload1Icon get upload1 => const _EssentialUpload1Icon();
   /// Bookmark
   _EssentialBookmarkIcon get bookmark => const _EssentialBookmarkIcon();
   /// Password
@@ -182,24 +324,62 @@ class _EssentialIcons {
   _EssentialHeartIcon get heart => const _EssentialHeartIcon();
   /// Paper Download
   _EssentialPaperDownloadIcon get paperDownload => const _EssentialPaperDownloadIcon();
+  /// Paper Download 1
+  _EssentialPaperDownload1Icon get paperDownload1 => const _EssentialPaperDownload1Icon();
+  /// Arrow Down
+  _EssentialArrowDown3Icon get arrowDown3 => const _EssentialArrowDown3Icon();
   /// Arrow - Left Square
   _EssentialArrowLeftSquareIcon get arrowLeftSquare => const _EssentialArrowLeftSquareIcon();
+  /// Arrow Left
+  _EssentialArrowLeft3Icon get arrowLeft3 => const _EssentialArrowLeft3Icon();
   /// Info Circle
   _EssentialInfoCircleIcon get infoCircle => const _EssentialInfoCircleIcon();
+  /// Arrow Up
+  _EssentialArrowUp3Icon get arrowUp3 => const _EssentialArrowUp3Icon();
+  /// Arrow Right
+  _EssentialArrowRight3Icon get arrowRight3 => const _EssentialArrowRight3Icon();
   /// Sta 5r
   _EssentialSta5rIcon get sta5r => const _EssentialSta5rIcon();
   /// Face
   _EssentialFaceIcon get face => const _EssentialFaceIcon();
+  /// Face 1
+  _EssentialFace1Icon get face1 => const _EssentialFace1Icon();
+  /// Face 2
+  _EssentialFace2Icon get face2 => const _EssentialFace2Icon();
+  /// Face 3
+  _EssentialFace3Icon get face3 => const _EssentialFace3Icon();
+  /// Face 4
+  _EssentialFace4Icon get face4 => const _EssentialFace4Icon();
+  /// Face 5
+  _EssentialFace5Icon get face5 => const _EssentialFace5Icon();
+  /// Face 6
+  _EssentialFace6Icon get face6 => const _EssentialFace6Icon();
+  /// Face 7
+  _EssentialFace7Icon get face7 => const _EssentialFace7Icon();
+  /// Face 8
+  _EssentialFace8Icon get face8 => const _EssentialFace8Icon();
+  /// Face 9
+  _EssentialFace9Icon get face9 => const _EssentialFace9Icon();
+  /// Face 10
+  _EssentialFace10Icon get face10 => const _EssentialFace10Icon();
+  /// Face 11
+  _EssentialFace11Icon get face11 => const _EssentialFace11Icon();
   /// Bank Card
   _EssentialBankCardIcon get bankCard => const _EssentialBankCardIcon();
   /// QR code
   _EssentialQrCodeIcon get qrCode => const _EssentialQrCodeIcon();
   /// Heart fun
   _EssentialHeartFunIcon get heartFun => const _EssentialHeartFunIcon();
+  /// user
+  _EssentialUser1Icon get user1 => const _EssentialUser1Icon();
   /// Arrow - Up 2
-  _EssentialArrowUp2Icon get arrowUp2 => const _EssentialArrowUp2Icon();
+  _EssentialArrowUp21Icon get arrowUp21 => const _EssentialArrowUp21Icon();
+  /// Arrow - Up 2 1
+  _EssentialArrowUp211Icon get arrowUp211 => const _EssentialArrowUp211Icon();
   /// Info menu
   _EssentialInfoMenuIcon get infoMenu => const _EssentialInfoMenuIcon();
+  /// Info menu 1
+  _EssentialInfoMenu1Icon get infoMenu1 => const _EssentialInfoMenu1Icon();
   /// Danger Triangle
   _EssentialDangerTriangleIcon get dangerTriangle => const _EssentialDangerTriangleIcon();
 }
@@ -1273,7 +1453,7 @@ class _EssentialArrowRightBulk {
   /// Arrow - Right — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Arrow - Right',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3.71052 11.3408H12.1885C12.5807 11.3408 12.899 11.6591 12.899 12.0513C12.899 12.4435 12.5807 12.7619 12.1885 12.7619H3.71052C3.31831 12.7619 3 12.4435 3 12.0513C3 11.6591 3.31831 11.3408 3.71052 11.3408Z" fill="black"/> <path d="M12.189 6.60327C12.3217 6.60327 12.4524 6.64022 12.568 6.71222L20.0863 11.45C20.2928 11.5808 20.4188 11.8072 20.4188 12.0516C20.4188 12.296 20.2928 12.5225 20.0863 12.6532L12.568 17.391C12.3491 17.5284 12.0725 17.5369 11.8461 17.4109C11.6187 17.2858 11.4785 17.048 11.4785 16.7894V7.3138C11.4785 7.05517 11.6187 6.81738 11.8461 6.69232C11.9531 6.63264 12.0716 6.60327 12.189 6.60327Z" fill="black"/> </svg> ',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bulk/Arrow - Right</title>     <g id="Iconly/Bulk/Arrow---Right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Right" transform="translate(12.000000, 12.000000) rotate(-90.000000) translate(-12.000000, -12.000000) translate(6.000000, 3.000000)" fill="#000000" fill-rule="nonzero">             <path d="M4.80969341,5.20248239 L4.48254085,1.50325451 C4.48254085,0.673082751 5.16218102,1.37667655e-14 6.00044061,1.37667655e-14 C6.8387002,1.37667655e-14 7.51834037,0.673082751 7.51834037,1.50325451 L7.19118781,5.20248239 C7.19118781,5.85374723 6.6580503,6.38174083 6.00044061,6.38174083 C5.34172939,6.38174083 4.80969341,5.85374723 4.80969341,5.20248239" id="Fill-1" opacity="0.400000006"></path>             <path d="M4.86983661,17.6247318 C4.81145585,17.5669143 4.56471452,17.350917 4.3598311,17.1480103 C3.0765559,15.9643883 0.978153112,12.8738803 0.335964751,11.2571726 C0.23352304,11.0117211 0.0154213328,10.3910013 1.27897692e-13,10.0582781 C1.27897692e-13,9.74082738 0.0738020929,9.43755833 0.219203231,9.14847093 C0.422985129,8.7873844 0.744630072,8.49938789 1.12355425,8.34011709 C1.38571691,8.23866377 2.17330641,8.07939298 2.18762622,8.07939298 C3.04791628,7.92121308 4.44685148,7.8350323 5.99339086,7.8350323 C7.46502662,7.8350323 8.80668258,7.92121308 9.68129245,8.05102968 C9.69671379,8.06521133 10.6737654,8.22448213 11.0086286,8.39793457 C11.6210758,8.71538527 12,9.33610502 12,10.0004606 L12,10.0582781 C11.9856802,10.4913637 11.6056545,11.4011709 11.5924362,11.4011709 C10.9502478,12.9316978 8.95318524,15.9491158 7.62584909,17.162192 C7.62584909,17.162192 7.28437672,17.5047333 7.07178263,17.6530951 C6.76555902,17.884365 6.38663484,18 6.00771067,18 C5.58472554,18 5.19148155,17.8701834 4.86983661,17.6247318" id="Fill-4"></path>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -1334,15 +1514,6 @@ class _EssentialArrowRightTwotone {
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.curved,
-  );
-
-  /// Arrow - Right — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Arrow - Right',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Arrow - Right 3</title>     <g id="Iconly/Two-tone/Arrow---Right-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Right-3" transform="translate(12.000000, 12.000000) rotate(-90.000000) translate(-12.000000, -12.000000) translate(6.500000, 3.000000)" stroke="#000000" stroke-width="1.5">             <line x1="5.7513" y1="9.6998" x2="5.7513" y2="0.7498" id="Stroke-1" opacity="0.400000006"></line>             <polygon id="Stroke-3" points="0.7503 9.6998 5.7513 17.6368 10.7523 9.6998"></polygon>         </g>     </g> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
   );
 
   /// Arrow - Right — twoTone / sharp
@@ -1448,6 +1619,429 @@ class _EssentialArrowRightLight {
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Arrow - Right',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.1501 12L4.74988 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.7001 5.97541L19.7501 11.9994L13.7001 18.0244" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Right 1 icon with style variants.
+class _EssentialArrowRight1Icon {
+  const _EssentialArrowRight1Icon();
+
+  /// bold style
+  _EssentialArrowRight1Bold get bold => const _EssentialArrowRight1Bold();
+  /// bulk style
+  _EssentialArrowRight1Bulk get bulk => const _EssentialArrowRight1Bulk();
+  /// light style
+  _EssentialArrowRight1Light get light => const _EssentialArrowRight1Light();
+  /// outline style
+  _EssentialArrowRight1Outline get outline => const _EssentialArrowRight1Outline();
+  /// twoTone style
+  _EssentialArrowRight1Twotone get twoTone => const _EssentialArrowRight1Twotone();
+  /// broken style
+  _EssentialArrowRight1Broken get broken => const _EssentialArrowRight1Broken();
+}
+
+/// Arrow - Right 1 — bulk style variants.
+class _EssentialArrowRight1Bulk {
+  const _EssentialArrowRight1Bulk();
+
+  /// Arrow - Right 1 — bulk / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M16.7501 11.9999C16.7501 8.73376 10.5103 4.87878 9.25936 4.14001C9.01961 3.99792 8.7452 3.96765 8.49617 4.03308C8.25057 4.09753 8.02938 4.25525 7.89022 4.49109C7.60701 4.96375 7.76717 5.57898 8.24129 5.85974C10.8663 7.41296 14.7501 10.4379 14.7501 11.9999L16.7501 11.9999Z" fill="black"/> <path d="M14.7501 12C14.7501 12 14.7501 11.9999 14.7501 12C14.7501 13.56 10.8661 16.585 8.24112 18.14C7.76712 18.42 7.60712 19.033 7.89012 19.509C8.17112 19.984 8.78412 20.142 9.25912 19.86C10.5101 19.121 16.7501 15.266 16.7501 12C16.7501 11.9999 16.7501 12 16.7501 12L14.7501 12Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Right 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bulk/Arrow - Right 2</title>     <g id="Iconly/Bulk/Arrow---Right-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Right-2" transform="translate(12.000000, 12.000000) rotate(-90.000000) translate(-12.000000, -12.000000) translate(6.000000, 7.000000)" fill="#000000" fill-rule="nonzero">             <path d="M4.86724336,0.214334561 L9.08645432,7.06244425 C9.18045902,7.21581846 9.17145857,7.41217653 9.06045302,7.55578168 C8.55942797,8.20640094 8.05140257,8.7876599 7.62438122,9.1754915 C7.62438122,9.1754915 7.28236412,9.50959329 7.06535327,9.65417535 C6.76933847,9.88765583 6.38231912,10 6.00630032,10 C5.58427921,10 5.18525926,9.87690987 4.86624331,9.63170651 C4.80924046,9.57602288 4.55822791,9.36403432 4.35321766,9.16376863 C3.07715386,7.99538929 0.969048452,4.94548937 0.330016501,3.34141004 C0.227011351,3.10792955 0.0120006,2.48466365 1.39444012e-13,2.16130783 C1.39444012e-13,1.84967488 0.0680034002,1.54878789 0.217010851,1.25962377 C0.422021101,0.904030058 0.740037002,0.625611904 1.11705585,0.469306976 C1.37906895,0.368685678 2.16510826,0.213357655 2.18810941,0.213357655 C2.74913746,0.112736357 3.53717686,0.0375146103 4.45722286,0.000392189745 C4.62223111,-0.00644615088 4.78223911,0.0765908425 4.86724336,0.214334561" id="Fill-1"></path>             <path d="M7.13975699,0.672308002 C6.95274764,0.370444108 7.19175959,-0.00957224946 7.55077754,0.0050813376 C8.39281964,0.0412268524 9.13485674,0.103748824 9.68688434,0.179947477 C9.69888494,0.191670346 10.6779339,0.346998369 11.0089504,0.525772131 C11.6239812,0.837405083 12,1.44894812 12,2.10640572 L12,2.16111245 C11.9889994,2.58508957 11.6129806,3.48677362 11.5899795,3.48677362 C11.40097,3.94103482 11.080954,4.53401665 10.6959348,5.17193614 C10.5219261,5.45914644 10.0949047,5.46598478 9.91789589,5.17877448 L7.13975699,0.672308002 Z" id="Fill-4" opacity="0.400000006"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Right 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.33569 5.00003L15.7499 13.4142L17.1641 12L8.74991 3.58582L7.33569 5.00003Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M8.74991 20.4142L17.1641 12L15.7499 10.5858L7.33569 19L8.74991 20.4142Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Right 1 — broken style variants.
+class _EssentialArrowRight1Broken {
+  const _EssentialArrowRight1Broken();
+
+  /// Arrow - Right 1 — broken / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.539 17.1188C10.056 18.2268 8.75 18.9998 8.75 18.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.75 5.00012C8.75 5.00012 15.75 9.14412 15.75 12.0001C15.75 12.8281 15.162 13.7641 14.326 14.6761" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Right 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.5 5L12 8.5L12.875 9.375M15.5 12L8.5 19" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Right 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.75 5L15.75 12L8.75 19" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Right 1 — twoTone style variants.
+class _EssentialArrowRight1Twotone {
+  const _EssentialArrowRight1Twotone();
+
+  /// Arrow - Right 1 — twoTone / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.5 5C8.5 5 15.5 9.144 15.5 12C15.5 14.855 8.5 19 8.5 19" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Right 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Arrow - Right 2</title>     <g id="Iconly/Two-tone/Arrow---Right-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Right-2" transform="translate(12.000000, 12.000000) rotate(-90.000000) translate(-12.000000, -12.000000) translate(5.000000, 8.500000)" stroke="#000000" stroke-width="1.5">             <polyline id="Stroke-1" points="14 0 7 7 0 0"></polyline>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Right 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.75 19L15.75 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M15.75 12L8.75 5" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Right 1 — outline style variants.
+class _EssentialArrowRight1Outline {
+  const _EssentialArrowRight1Outline();
+
+  /// Arrow - Right 1 — outline / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.50076 19.7503C8.63076 19.7503 8.76176 19.7173 8.88176 19.6463C9.63576 19.1993 16.2498 15.1913 16.2498 12.0003C16.2498 8.81034 9.63676 4.80134 8.88176 4.35434C8.52676 4.14334 8.06476 4.26134 7.85476 4.61834C7.64376 4.97534 7.76176 5.43534 8.11776 5.64634C10.6818 7.16534 14.7498 10.2333 14.7498 12.0003C14.7498 13.7703 10.6818 16.8373 8.11776 18.3543C7.76176 18.5653 7.64376 19.0253 7.85476 19.3823C7.99476 19.6183 8.24376 19.7503 8.50076 19.7503" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Right 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Arrow - Right 2</title>     <g id="Iconly/Light-Outline/Arrow---Right-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Right-2" transform="translate(12.000000, 12.000000) rotate(-90.000000) translate(-12.000000, -12.000000) translate(4.000000, 7.500000)" fill="#000000" fill-rule="nonzero">             <path d="M0.469669914,0.469669914 C0.735936477,0.203403352 1.15260016,0.1791973 1.44621165,0.397051761 L1.53033009,0.469669914 L8,6.939 L14.4696699,0.469669914 C14.7359365,0.203403352 15.1526002,0.1791973 15.4462117,0.397051761 L15.5303301,0.469669914 C15.7965966,0.735936477 15.8208027,1.15260016 15.6029482,1.44621165 L15.5303301,1.53033009 L8.53033009,8.53033009 C8.26406352,8.79659665 7.84739984,8.8208027 7.55378835,8.60294824 L7.46966991,8.53033009 L0.469669914,1.53033009 C0.176776695,1.23743687 0.176776695,0.762563133 0.469669914,0.469669914 Z" id="Stroke-1"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Right 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.68933 19L14.6893 12L7.68933 5.00001L8.74999 3.93935L16.8107 12L8.74999 20.0607L7.68933 19Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Right 1 — bold style variants.
+class _EssentialArrowRight1Bold {
+  const _EssentialArrowRight1Bold();
+
+  /// Arrow - Right 1 — bold / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.75094 19.9997C8.40894 19.9997 8.07594 19.8247 7.88994 19.5097C7.60794 19.0337 7.76594 18.4207 8.23994 18.1397C10.8649 16.5837 14.7499 13.5567 14.7499 11.9997C14.7499 10.4397 10.8659 7.41374 8.23994 5.85974C7.76594 5.57874 7.60794 4.96574 7.88994 4.48974C8.17094 4.01574 8.78394 3.85874 9.25994 4.13974C10.5099 4.87974 16.7499 8.73774 16.7499 11.9997C16.7499 15.2607 10.5109 19.1197 9.25994 19.8597C9.09994 19.9547 8.92394 19.9997 8.75094 19.9997Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Right 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Arrow - Right 2</title>     <g id="Iconly/Bold/Arrow---Right-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Right-2" transform="translate(7.000000, 6.000000)" fill="#000000" fill-rule="nonzero">             <path d="M9.63078422,7.131 C9.57428154,7.189 9.36093522,7.437 9.16220166,7.641 C7.99707745,8.924 4.95762299,11.024 3.36678032,11.665 C3.12518266,11.768 2.51436922,11.986 2.18801754,12 C1.87530443,12 1.57720409,11.928 1.29274233,11.782 C0.938139308,11.578 0.653677545,11.257 0.497808086,10.878 C0.397467121,10.615 0.241597662,9.828 0.241597662,9.814 C0.0857282026,8.953 0,7.554 0,6.008 C0,4.535 0.0857282026,3.193 0.213346322,2.319 C0.227959084,2.305 0.383828544,1.327 0.554310765,0.992 C0.867023868,0.38 1.47783731,0 2.13151486,0 L2.18801754,0 C2.613736,0.015 3.5090112,0.395 3.5090112,0.409 C5.01412567,1.051 7.98343887,3.048 9.17681442,4.375 C9.17681442,4.375 9.51290794,4.716 9.65903556,4.929 C9.88699464,5.235 10,5.614 10,5.993 C10,6.416 9.87238188,6.81 9.63078422,7.131"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Right 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.74994 20.414L7.33594 19L14.3359 12L7.33594 5L8.74994 3.586L17.1639 12L8.74994 20.414Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Right 1 — light style variants.
+class _EssentialArrowRight1Light {
+  const _EssentialArrowRight1Light();
+
+  /// Arrow - Right 1 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.5 5C8.5 5 15.5 9.144 15.5 12C15.5 14.855 8.5 19 8.5 19" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Right 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Arrow - Right 2</title>     <g id="Iconly/Light/Arrow---Right-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Right-2" transform="translate(12.000000, 12.000000) rotate(-90.000000) translate(-12.000000, -12.000000) translate(5.000000, 8.500000)" stroke="#000000" stroke-width="1.5">             <polyline id="Stroke-1" points="14 0 7 7 0 0"></polyline>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Right 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Right 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.75 5L15.75 12L8.75 19" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Right 2 icon with style variants.
+class _EssentialArrowRight2Icon {
+  const _EssentialArrowRight2Icon();
+
+  /// bold style
+  _EssentialArrowRight2Bold get bold => const _EssentialArrowRight2Bold();
+  /// bulk style
+  _EssentialArrowRight2Bulk get bulk => const _EssentialArrowRight2Bulk();
+  /// light style
+  _EssentialArrowRight2Light get light => const _EssentialArrowRight2Light();
+  /// outline style
+  _EssentialArrowRight2Outline get outline => const _EssentialArrowRight2Outline();
+  /// twoTone style
+  _EssentialArrowRight2Twotone get twoTone => const _EssentialArrowRight2Twotone();
+  /// broken style
+  _EssentialArrowRight2Broken get broken => const _EssentialArrowRight2Broken();
+}
+
+/// Arrow - Right 2 — bulk style variants.
+class _EssentialArrowRight2Bulk {
+  const _EssentialArrowRight2Bulk();
+
+  /// Arrow - Right 2 — bulk / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0619 6.91145C12.5259 7.44645 12.3409 9.25845 12.2909 11.0034L12.2849 13.0034C12.3379 15.2404 12.5979 16.6104 13.0619 17.0744C13.6259 17.6374 14.5659 17.3484 15.3219 17.0344C16.8909 16.3834 21.4269 13.6374 21.4269 11.9924C21.4269 10.2974 16.6889 7.56045 15.2499 6.96345C14.4679 6.63845 13.5969 6.37845 13.0619 6.91145Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.29 11.0037L4.073 11.0037C3.52 11.0037 3.073 11.4507 3.073 12.0037C3.073 12.5567 3.52 13.0037 4.073 13.0037L12.284 13.0037L12.29 11.0037Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Right 2 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.2495 11L3.24975 11L3.24975 13L21.2495 13L21.2495 11Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.2504 13C16.5795 13 13.5903 9.78058 13.5903 6.33995L13.5903 5.33995L15.5903 5.33995L15.5903 6.33995C15.5903 8.71881 17.7264 11 20.2504 11L21.2504 11L21.2504 13L20.2504 13Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.2504 11C16.5795 11 13.5903 14.2194 13.5903 17.66L13.5903 18.66L15.5903 18.66L15.5903 17.66C15.5903 15.2812 17.7264 13 20.2504 13L21.2504 13L21.2504 11L20.2504 11Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Right 2 — broken style variants.
+class _EssentialArrowRight2Broken {
+  const _EssentialArrowRight2Broken();
+
+  /// Arrow - Right 2 — broken / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.8982 12.0028H3.94824" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.8216 13.9625C19.8186 13.1815 20.5516 12.4225 20.5516 11.9925C20.5516 10.7325 14.1876 6.72253 13.4656 7.44253C12.7436 8.16253 12.6746 15.7525 13.4656 16.5425C13.7666 16.8425 14.8586 16.4415 16.0996 15.7585" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Right 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.7 11.7487H3.75" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7002 6.74769V16.7497L20.6372 11.7487L16.6687 9.24819L15.6766 8.62307" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Right 2 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.782 11.9999H4.25" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M20.25 11.9999H10.291" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.5898 17.6599C14.5898 14.7499 17.1518 11.9999 20.2498 11.9999" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.5898 6.34021C14.5898 9.25021 17.1518 12.0002 20.2498 12.0002" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Right 2 — twoTone style variants.
+class _EssentialArrowRight2Twotone {
+  const _EssentialArrowRight2Twotone();
+
+  /// Arrow - Right 2 — twoTone / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.7 12.1061H3.75" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.3539 12.1002C20.3539 10.8442 13.9899 6.82919 13.2679 7.55119C12.5459 8.27319 12.4769 15.8582 13.2679 16.6492C14.0599 17.4402 20.3539 13.3552 20.3539 12.1002Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Right 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Arrow - Right 3</title>     <g id="Iconly/Two-tone/Arrow---Right-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Right-3" transform="translate(12.000000, 12.000000) rotate(-90.000000) translate(-12.000000, -12.000000) translate(6.500000, 3.000000)" stroke="#000000" stroke-width="1.5">             <line x1="5.7513" y1="9.6998" x2="5.7513" y2="0.7498" id="Stroke-1" opacity="0.400000006"></line>             <polygon id="Stroke-3" points="0.7503 9.6998 5.7513 17.6368 10.7523 9.6998"></polygon>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Right 2 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.249 12L4.24926 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.5894 17.66C14.5894 14.7503 17.1519 12 20.2494 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.5894 6.33995C14.5894 9.2497 17.1519 12 20.2494 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Right 2 — outline style variants.
+class _EssentialArrowRight2Outline {
+  const _EssentialArrowRight2Outline();
+
+  /// Arrow - Right 2 — outline / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8624 6.96008C14.4094 6.77208 13.9264 6.60608 13.4964 6.60608C13.1874 6.60608 12.9064 6.69108 12.6834 6.91508C12.2198 7.38049 11.9627 9.23913 11.9121 11.2499L3.69526 11.2499C3.28126 11.2499 2.94526 11.5859 2.94526 11.9999C2.94526 12.4139 3.28126 12.7499 3.69526 12.7499L11.9125 12.7499C11.9639 14.7564 12.2212 16.609 12.6844 17.0731C13.2484 17.6361 14.1814 17.3491 14.9344 17.0391C16.5074 16.3881 21.0544 13.6411 21.0544 11.9931C21.0544 10.2921 16.3044 7.55708 14.8624 6.96008ZM13.6844 8.12508C14.9804 8.36508 19.0474 11.0361 19.5334 11.9951C19.0494 12.9911 14.9814 15.6861 13.7084 15.8841C13.2954 14.6301 13.3024 9.32708 13.6844 8.12508Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Right 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Arrow - Right 3</title>     <g id="Iconly/Light-Outline/Arrow---Right-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Right-3" transform="translate(3.000000, 7.000000)" fill="#000000">             <path d="M10.0992,0.1148 L18.0372,5.1158 C18.2562,5.2538 18.3872,5.4928 18.3872,5.7508 C18.3872,6.0078 18.2562,6.2478 18.0372,6.3848 L10.0992,11.3858 C9.9782,11.4628 9.8392,11.5018 9.7002,11.5018 C9.5752,11.5018 9.4512,11.4698 9.3382,11.4078 C9.0982,11.2758 8.9502,11.0248 8.9502,10.7518 L8.9492,6.49999433 L0.7502,6.5004 C0.3362,6.5004 0.0002,6.1644 0.0002,5.7504 C0.0002,5.3364 0.3362,5.0004 0.7502,5.0004 L8.9492,4.99999433 L8.9502,0.7498 C8.9502,0.4758 9.0982,0.2248 9.3382,0.0928 C9.5772,-0.0382 9.8702,-0.0302 10.0992,0.1148 Z M10.4502,2.1088 L10.4500491,5.73521503 C10.4501495,5.74026466 10.4502,5.74532647 10.4502,5.7504 L10.4492,5.76499433 L10.4502,9.3918 L16.2302,5.7508 L10.4502,2.1088 Z" id="Combined-Shape"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Right 2 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.999 12.75L3.49926 12.75L3.49926 11.25L20.999 11.25L20.999 12.75Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.2494 11.25C16.7218 11.25 13.8394 14.3521 13.8394 17.66L13.8394 18.41L15.3394 18.41L15.3394 17.66C15.3394 15.1485 17.582 12.75 20.2494 12.75L20.9994 12.75L20.9994 11.25L20.2494 11.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.2494 12.75C16.7218 12.75 13.8394 9.64786 13.8394 6.33995L13.8394 5.58995L15.3394 5.58995L15.3394 6.33995C15.3394 8.85153 17.582 11.25 20.2494 11.25L20.9994 11.25L20.9994 12.75L20.2494 12.75Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Right 2 — bold style variants.
+class _EssentialArrowRight2Bold {
+  const _EssentialArrowRight2Bold();
+
+  /// Arrow - Right 2 — bold / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.2374 6.95723C14.4614 6.63623 13.5954 6.38023 13.0634 6.91423C12.6194 7.36023 12.3664 9.08723 12.3014 10.9992H4.07544C3.52244 10.9992 3.07544 11.4462 3.07544 11.9992C3.07544 12.5522 3.52244 12.9992 4.07544 12.9992H12.3024C12.3674 14.9072 12.6204 16.6282 13.0644 17.0722C13.2984 17.3062 13.5954 17.3942 13.9184 17.3942C14.3714 17.3942 14.8734 17.2202 15.3124 17.0382C16.8834 16.3882 21.4244 13.6422 21.4244 11.9922C21.4244 10.2892 16.6774 7.55423 15.2374 6.95723Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Right 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Arrow - Right 3</title>     <g id="Iconly/Bold/Arrow---Right-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Right-3" transform="translate(3.000000, 6.500000)" fill="#000000" fill-rule="nonzero">             <path d="M9.14147403,0.0898969919 C8.90747892,0.216135321 8.76159913,0.456179416 8.76159913,0.717263233 L8.76159913,4.78271124 L0.734294262,4.78271124 C0.328963829,4.78271124 0,5.10404517 0,5.49997447 C0,5.89590378 0.328963829,6.2172377 0.734294262,6.2172377 L8.76159913,6.2172377 L8.76159913,10.2826857 C8.76159913,10.5447259 8.90747892,10.78477 9.14147403,10.9100519 C9.37546913,11.0372466 9.66135436,11.0286395 9.887517,10.8899686 L17.6573293,6.10725734 C17.8707642,5.97528091 18,5.74671302 18,5.49997447 C18,5.25323592 17.8707642,5.02466803 17.6573293,4.8926916 L9.887517,0.109980362 C9.7680718,0.0372976881 9.63198259,0 9.49589339,0 C9.37449007,0 9.2521077,0.0306032313 9.14147403,0.0898969919"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Right 2 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.25 11C17.812 11 15.59 8.77903 15.59 6.34003V5.34003H13.59V6.34003C13.59 8.11403 14.368 9.77803 15.589 11H3.25V13H15.589C14.368 14.222 13.59 15.886 13.59 17.66V18.66H15.59V17.66C15.59 15.221 17.812 13 20.25 13H21.25V11H20.25Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Right 2 — light style variants.
+class _EssentialArrowRight2Light {
+  const _EssentialArrowRight2Light();
+
+  /// Arrow - Right 2 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.7 12.1061H3.75" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.3539 12.1002C20.3539 10.8442 13.9899 6.82919 13.2679 7.55119C12.5459 8.27319 12.4769 15.8582 13.2679 16.6492C14.0599 17.4402 20.3539 13.3552 20.3539 12.1002Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Right 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Arrow - Right 3</title>     <g id="Iconly/Light/Arrow---Right-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Right-3" transform="translate(12.000000, 12.000000) rotate(-90.000000) translate(-12.000000, -12.000000) translate(6.500000, 3.000000)" stroke="#000000" stroke-width="1.5">             <line x1="5.7513" y1="9.6998" x2="5.7513" y2="0.7498" id="Stroke-1"></line>             <polygon id="Stroke-3" points="0.7503 9.6998 5.7513 17.6368 10.7523 9.6998"></polygon>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Right 2 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Right 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.2497 12L4.24993 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.59 17.66C14.59 14.7503 17.1526 12 20.2501 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.59 6.33995C14.59 9.2497 17.1526 12 20.2501 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.sharp,
@@ -1726,15 +2320,6 @@ class _EssentialUserBulk {
 class _EssentialUserBroken {
   const _EssentialUserBroken();
 
-  /// User — broken / curved
-  IconfyIconData get curved => const IconfyIconData(
-    name: 'User',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.80851 21.2779C4.60651 20.9779 3.05151 20.2399 3.05151 18.6739C3.05151 16.4499 6.16851 14.4459 9.86051 14.4459C13.5325 14.4459 16.6685 16.4309 16.6685 18.6539C16.6685 20.8769 13.5525 21.4529 9.86051 21.4529" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.81488 3.78512C6.00188 4.57812 5.49588 5.68512 5.49588 6.91112C5.48688 9.31312 7.42788 11.2671 9.82888 11.2751H9.85988C12.2699 11.2751 14.2239 9.32112 14.2239 6.91112C14.2239 4.50112 12.2699 2.54712 9.85988 2.54712" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1023 10.0756C18.5053 9.70059 19.5393 8.42159 19.5393 6.89959C19.5403 5.31159 18.4133 3.98559 16.9153 3.67859" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7625 13.6506C19.7505 13.6506 21.4485 14.9986 21.4485 16.2016C21.4485 16.9106 20.8635 17.6386 19.9735 17.8476" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.broken,
-    type: IconfyType.curved,
-  );
-
   /// User — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'User',
@@ -1742,15 +2327,6 @@ class _EssentialUserBroken {
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
-  );
-
-  /// User — broken / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'User',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.22276 20.5147C5.07576 20.2497 3.99376 19.8317 2.99976 19.2257C3.97876 16.1317 6.63276 14.6987 9.76376 14.7067C12.8918 14.6987 15.5508 16.1347 16.5278 19.2257C14.5578 20.4267 12.2388 20.8897 9.76376 20.8837" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M19.0622 17.9458C19.9292 17.7438 20.7482 17.4258 21.5002 16.9678C20.7542 14.6068 18.7232 13.5108 16.3352 13.5168C14.8312 13.5128 13.4712 13.9448 12.4832 14.8538" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.7641 3.11633C12.1041 3.11633 14.0011 5.01333 14.0011 7.35333C14.0011 9.69333 12.1041 11.5903 9.7641 11.5903C7.4241 11.5903 5.5271 9.69333 5.5271 7.35333C5.5271 6.72133 5.6651 6.12133 5.9131 5.58333" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.9636 5.67014C14.5536 5.05214 15.3866 4.66614 16.3096 4.66614C18.0996 4.66614 19.5506 6.11714 19.5506 7.90714C19.5506 9.69814 18.0996 11.1491 16.3096 11.1491" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.broken,
-    type: IconfyType.sharp,
   );
 
 }
@@ -1768,24 +2344,6 @@ class _EssentialUserTwotone {
     type: IconfyType.curved,
   );
 
-  /// User — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'User',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/2 User</title>     <g id="Iconly/Two-tone/2-User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="2-User" transform="translate(2.000000, 2.500000)" stroke="#000000" stroke-width="1.5">             <path d="M7.5915,12.7068 C11.2805,12.7068 14.4335,13.2658 14.4335,15.4988 C14.4335,17.7318 11.3015,18.3068 7.5915,18.3068 C3.9015,18.3068 0.7495,17.7528 0.7495,15.5188 C0.7495,13.2848 3.8805,12.7068 7.5915,12.7068 Z" id="Stroke-1"></path>             <path d="M7.5915,9.5198 C5.1695,9.5198 3.2055,7.5568 3.2055,5.1348 C3.2055,2.7128 5.1695,0.7498 7.5915,0.7498 C10.0125,0.7498 11.976531,2.7128 11.976531,5.1348 C11.9855,7.5478 10.0355,9.5108 7.6225,9.5198 L7.5915,9.5198 Z" id="Stroke-3" opacity="0.400000006"></path>             <path d="M14.4831,8.3816 C16.0841,8.1566 17.3171,6.7826 17.3201,5.1196 C17.3201,3.4806 16.1251,2.1206 14.5581,1.8636" id="Stroke-5" opacity="0.400000006"></path>             <path d="M16.5954,12.2322 C18.1464,12.4632 19.2294,13.0072 19.2294,14.1272 C19.2294,14.8982 18.7194,15.3982 17.8954,15.7112" id="Stroke-7"></path>         </g>     </g> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-  /// User — twoTone / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'User',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.76408 14.7069C12.8915 14.6989 15.5507 16.1349 16.5282 19.226C14.558 20.4271 12.2389 20.8896 9.76408 20.8836C7.28921 20.8896 4.97016 20.4271 3 19.226C3.97857 16.1316 6.63327 14.6989 9.76408 14.7069Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M16.3353 18.2325C18.2251 18.2371 19.9959 17.8838 21.5003 16.9667C20.754 14.6064 18.7234 13.5099 16.3353 13.516C14.831 13.5122 13.4706 13.9439 12.4825 14.8533" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <circle cx="9.76409" cy="7.35259" r="4.23687" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M13.9642 5.67014C14.5545 5.05148 15.387 4.66602 16.3096 4.66602C18.0997 4.66602 19.5509 6.11718 19.5509 7.90729C19.5509 9.69739 18.0997 11.1486 16.3096 11.1486C15.2153 11.1486 14.2477 10.6063 13.6608 9.77575" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.sharp,
-  );
-
 }
 
 /// User — outline style variants.
@@ -1799,15 +2357,6 @@ class _EssentialUserOutline {
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.curved,
-  );
-
-  /// User — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'User',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/2 User</title>     <g id="Iconly/Light-Outline/2-User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="2-User" transform="translate(2.000000, 2.000000)" fill="#000000">             <path d="M7.5918,11.957 C10.8508,11.957 15.1838,12.324 15.1838,15.499 C15.1838,18.84352 10.1349096,19.0441912 7.969206,19.0562315 L7.1829025,19.0562358 C4.8737376,19.0442632 -0.0002,18.84472 -0.0002,15.519 C-0.0002,12.17072 5.0486904,11.9698232 7.214394,11.9577694 L7.4745932,11.9570285 C7.5151456,11.957 7.55424,11.957 7.5918,11.957 Z M7.5918,13.457 C4.8128,13.457 1.4998,13.814 1.4998,15.519 C1.4998,16.871 3.5498,17.557 7.5918,17.557 C11.6338,17.557 13.6838,16.864 13.6838,15.499 C13.6838,14.144 11.6338,13.457 7.5918,13.457 Z M16.7065,11.4899 C19.4125,11.8949 19.9795,13.1479 19.9795,14.1269 C19.9795,14.8559 19.6645,15.8429 18.1615,16.4119 C18.0745,16.4449 17.9845,16.4609 17.8955,16.4609 C17.5925,16.4609 17.3075,16.2759 17.1945,15.9769 C17.0475,15.5899 17.2425,15.1559 17.6295,15.0099 C18.4795,14.6879 18.4795,14.2949 18.4795,14.1269 C18.4795,13.5599 17.8085,13.1719 16.4855,12.9749 C16.0755,12.9129 15.7925,12.5309 15.8535,12.1219 C15.9155,11.7119 16.3045,11.4369 16.7065,11.4899 Z M7.5918,-1.77635684e-14 C10.4228,-1.77635684e-14 12.7268505,2.304 12.7268505,5.135 C12.7328,6.499 12.2038,7.787 11.2398,8.757 C10.2778,9.728 8.9928,10.265 7.6258,10.27 L7.5918,10.27 C4.7598,10.27 2.4558,7.966 2.4558,5.135 C2.4558,2.304 4.7598,-1.77635684e-14 7.5918,-1.77635684e-14 Z M14.6794,1.1238 C16.6444,1.4458 18.0704,3.1268 18.0704,5.1198 C18.0664,7.1248 16.5694,8.8468 14.5874,9.1248 C14.5524,9.1298 14.5174,9.1318 14.4824,9.1318 C14.1144,9.1318 13.7934,8.8608 13.7404,8.4858 C13.6834,8.0758 13.9684,7.6958 14.3784,7.6388 C15.6264,7.4638 16.5684,6.3808 16.5704,5.1188 C16.5704,3.8648 15.6724,2.8068 14.4374,2.6048 C14.0284,2.5368 13.7514,2.1518 13.8184,1.7428 C13.8854,1.3338 14.2724,1.0588 14.6794,1.1238 Z M7.5918,1.5 C5.5868,1.5 3.9558,3.131 3.9558,5.135 C3.9558,7.139 5.5868,8.77 7.5918,8.77 L7.6228,8.77 C8.5868,8.766 9.4948,8.387 10.1758,7.7 C10.8578,7.015 11.2308,6.104 11.2268318,5.138 C11.2268318,3.131 9.5958,1.5 7.5918,1.5 Z" id="Combined-Shape"></path>         </g>     </g> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
   );
 
   /// User — outline / sharp
@@ -1834,15 +2383,6 @@ class _EssentialUserBold {
     type: IconfyType.curved,
   );
 
-  /// User — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'User',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/2 User</title>     <g id="Iconly/Bold/2-User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="2-User" transform="translate(2.000000, 3.000000)" fill="#000000" fill-rule="nonzero">             <path d="M7.34933305,11.8577345 C11.3346657,11.8577345 14.6986661,12.4911257 14.6986661,14.940366 C14.6986661,17.3876899 11.3131392,18 7.34933305,18 L7.07860083,17.9990046 C3.2128289,17.9702716 -3.19744231e-14,17.3109443 -3.19744231e-14,14.9173685 C-3.19744231e-14,12.4700446 3.38552687,11.8577345 7.34933305,11.8577345 Z M13.5697005,10.3832075 C15.0853598,10.3544606 16.7155008,10.5585639 17.3172635,10.7022987 C18.5931962,10.9466478 19.4317501,11.4439701 19.779109,12.1693515 C20.0736303,12.7634552 20.0736303,13.453382 19.779109,14.0474857 C19.2477966,15.1705333 17.5335067,15.5317867 16.8671645,15.6247352 C16.7291994,15.6438998 16.6186317,15.528912 16.6333088,15.3928431 C16.9738184,12.2805064 14.2663754,10.8048295 13.5657866,10.4656155 C13.5364323,10.4493255 13.529583,10.4263279 13.5325184,10.4109962 C13.5344754,10.4014139 13.5471956,10.3860822 13.5697005,10.3832075 Z M7.34933305,-8.8817842e-16 C10.0489483,-8.8817842e-16 12.2123586,2.11865038 12.2123586,4.76241176 C12.2123586,7.40617314 10.0489483,9.52482353 7.34933305,9.52482353 C4.65069631,9.52482353 2.48630745,7.40617314 2.48630745,4.76241176 C2.48630745,2.11865038 4.65069631,-8.8817842e-16 7.34933305,-8.8817842e-16 Z M13.833889,0.79542817 C16.4415275,0.79542817 18.4884992,3.19675692 17.7908459,5.87118171 C17.3201989,7.67361562 15.6166723,8.87044707 13.7184289,8.82157725 C13.527626,8.81774432 13.3407371,8.79953792 13.1587406,8.76983274 C13.0276248,8.74683517 12.9610885,8.60214218 13.0364311,8.49482023 C13.7605033,7.45130586 14.1734202,6.19506404 14.1734202,4.84874844 C14.1734202,3.44206424 13.7233212,2.13216145 12.939562,1.0560672 C12.9141216,1.02252909 12.8955306,0.971742811 12.9209709,0.932455309 C12.9405405,0.901791893 12.9796795,0.884543722 13.0158831,0.876877868 C13.2800716,0.824175122 13.5511095,0.79542817 13.833889,0.79542817 Z" id="2-Friends"></path>         </g>     </g> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
   /// User — bold / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'User',
@@ -1865,15 +2405,6 @@ class _EssentialUserLight {
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.curved,
-  );
-
-  /// User — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'User',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/2 User</title>     <g id="Iconly/Light/2-User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="2-User" transform="translate(2.000000, 2.500000)" stroke="#000000" stroke-width="1.5">             <path d="M7.5915,12.7068 C11.2805,12.7068 14.4335,13.2658 14.4335,15.4988 C14.4335,17.7318 11.3015,18.3068 7.5915,18.3068 C3.9015,18.3068 0.7495,17.7528 0.7495,15.5188 C0.7495,13.2848 3.8805,12.7068 7.5915,12.7068 Z" id="Stroke-1"></path>             <path d="M7.5915,9.5198 C5.1695,9.5198 3.2055,7.5568 3.2055,5.1348 C3.2055,2.7128 5.1695,0.7498 7.5915,0.7498 C10.0125,0.7498 11.976531,2.7128 11.976531,5.1348 C11.9855,7.5478 10.0355,9.5108 7.6225,9.5198 L7.5915,9.5198 Z" id="Stroke-3"></path>             <path d="M14.4831,8.3816 C16.0841,8.1566 17.3171,6.7826 17.3201,5.1196 C17.3201,3.4806 16.1251,2.1206 14.5581,1.8636" id="Stroke-5"></path>             <path d="M16.5954,12.2322 C18.1464,12.4632 19.2294,13.0072 19.2294,14.1272 C19.2294,14.8982 18.7194,15.3982 17.8954,15.7112" id="Stroke-7"></path>         </g>     </g> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.light,
-    type: IconfyType.regular,
   );
 
   /// User — light / sharp
@@ -2128,7 +2659,7 @@ class _EssentialArrowDownBulk {
   /// Arrow - Down — bulk / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.2502 16.5001C15.5164 16.5001 19.3713 10.2603 20.1101 9.00936C20.2522 8.76961 20.2825 8.4952 20.217 8.24617C20.1526 8.00057 19.9949 7.77938 19.759 7.64022C19.2864 7.35701 18.6711 7.51717 18.3904 7.99129C16.8372 10.6163 13.8123 14.5001 12.2502 14.5001V16.5001Z" fill="black"/> <path d="M12.2501 14.5001C12.2501 14.5001 12.2502 14.5001 12.2501 14.5001C10.6901 14.5001 7.66514 10.6161 6.11014 7.99112C5.83014 7.51712 5.21714 7.35712 4.74114 7.64012C4.26614 7.92112 4.10814 8.53412 4.39014 9.00912C5.12914 10.2601 8.98414 16.5001 12.2501 16.5001C12.2502 16.5001 12.2501 16.5001 12.2501 16.5001V14.5001Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.2498 3.5C12.802 3.5 13.2498 3.94772 13.2498 4.5V19.5C13.2498 20.0523 12.802 20.5 12.2498 20.5C11.6975 20.5 11.2498 20.0523 11.2498 19.5V4.5C11.2498 3.94772 11.6975 3.5 12.2498 3.5Z" fill="black"/> <path d="M19.1548 13.9244C19.4168 13.4382 19.2352 12.8317 18.749 12.5696C18.4197 12.3921 18.0352 12.4183 17.7398 12.6048C17.5992 12.6935 17.4788 12.8187 17.3943 12.9754L17.3932 12.9773L17.3875 12.9878L17.3626 13.0331C17.34 13.0738 17.3058 13.1349 17.2608 13.2136C17.1709 13.371 17.0382 13.598 16.8701 13.8713C16.5327 14.4197 16.0584 15.1455 15.5054 15.8662C14.9479 16.5928 14.335 17.2819 13.7251 17.7802C13.0915 18.298 12.5949 18.4999 12.2515 18.4999C11.9075 18.4999 11.4103 18.2977 10.7765 17.7801C10.1662 17.2817 9.55304 16.5926 8.99528 15.866C8.44208 15.1453 7.96756 14.4196 7.63009 13.8712C7.46195 13.5979 7.32921 13.3709 7.2392 13.2135C7.19397 13.1344 7.14899 13.0551 7.10557 12.975C6.84337 12.4891 6.23697 12.3076 5.75095 12.5697C5.26482 12.8318 5.08322 13.4384 5.34533 13.9245C5.39644 14.0192 5.44957 14.1128 5.503 14.2062C5.60217 14.3797 5.74587 14.6253 5.92673 14.9193C6.28726 15.5052 6.80099 16.292 7.40879 17.0838C8.01203 17.8697 8.73258 18.6931 9.51137 19.3291C10.2665 19.9458 11.2136 20.4999 12.2515 20.4999C13.2892 20.4999 14.2359 19.9456 14.9906 19.3289C15.769 18.6929 16.4892 17.8695 17.0922 17.0836C17.6997 16.2918 18.2132 15.5051 18.5736 14.9191C18.7544 14.6252 18.8981 14.3796 18.9972 14.2061C19.0468 14.1194 19.0853 14.0505 19.1119 14.0026L19.1427 13.9467L19.1511 13.9312L19.1535 13.9267L19.1548 13.9244Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.curved,
@@ -2137,7 +2668,7 @@ class _EssentialArrowDownBulk {
   /// Arrow - Down — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bulk/Arrow - Down 2</title>     <g id="Iconly/Bulk/Arrow---Down-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Down-2" transform="translate(6.000000, 7.000000)" fill="#000000" fill-rule="nonzero">             <path d="M4.86724336,0.214334561 L9.08645432,7.06244425 C9.18045902,7.21581846 9.17145857,7.41217653 9.06045302,7.55578168 C8.55942797,8.20640094 8.05140257,8.7876599 7.62438122,9.1754915 C7.62438122,9.1754915 7.28236412,9.50959329 7.06535327,9.65417535 C6.76933847,9.88765583 6.38231912,10 6.00630032,10 C5.58427921,10 5.18525926,9.87690987 4.86624331,9.63170651 C4.80924046,9.57602288 4.55822791,9.36403432 4.35321766,9.16376863 C3.07715386,7.99538929 0.969048452,4.94548937 0.330016501,3.34141004 C0.227011351,3.10792955 0.0120006,2.48466365 1.39444012e-13,2.16130783 C1.39444012e-13,1.84967488 0.0680034002,1.54878789 0.217010851,1.25962377 C0.422021101,0.904030058 0.740037002,0.625611904 1.11705585,0.469306976 C1.37906895,0.368685678 2.16510826,0.213357655 2.18810941,0.213357655 C2.74913746,0.112736357 3.53717686,0.0375146103 4.45722286,0.000392189745 C4.62223111,-0.00644615088 4.78223911,0.0765908425 4.86724336,0.214334561" id="Fill-1"></path>             <path d="M7.13975699,0.672308002 C6.95274764,0.370444108 7.19175959,-0.00957224946 7.55077754,0.0050813376 C8.39281964,0.0412268524 9.13485674,0.103748824 9.68688434,0.179947477 C9.69888494,0.191670346 10.6779339,0.346998369 11.0089504,0.525772131 C11.6239812,0.837405083 12,1.44894812 12,2.10640572 L12,2.16111245 C11.9889994,2.58508957 11.6129806,3.48677362 11.5899795,3.48677362 C11.40097,3.94103482 11.080954,4.53401665 10.6959348,5.17193614 C10.5219261,5.45914644 10.0949047,5.46598478 9.91789589,5.17877448 L7.13975699,0.672308002 Z" id="Fill-4" opacity="0.400000006"></path>         </g>     </g> </svg>',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bulk/Arrow - Down</title>     <g id="Iconly/Bulk/Arrow---Down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Down" transform="translate(6.000000, 3.000000)" fill="#000000" fill-rule="nonzero">             <path d="M4.80969341,5.20248239 L4.48254085,1.50325451 C4.48254085,0.673082751 5.16218102,1.37667655e-14 6.00044061,1.37667655e-14 C6.8387002,1.37667655e-14 7.51834037,0.673082751 7.51834037,1.50325451 L7.19118781,5.20248239 C7.19118781,5.85374723 6.6580503,6.38174083 6.00044061,6.38174083 C5.34172939,6.38174083 4.80969341,5.85374723 4.80969341,5.20248239" id="Fill-1" opacity="0.400000006"></path>             <path d="M4.86983661,17.6247318 C4.81145585,17.5669143 4.56471452,17.350917 4.3598311,17.1480103 C3.0765559,15.9643883 0.978153112,12.8738803 0.335964751,11.2571726 C0.23352304,11.0117211 0.0154213328,10.3910013 1.27897692e-13,10.0582781 C1.27897692e-13,9.74082738 0.0738020929,9.43755833 0.219203231,9.14847093 C0.422985129,8.7873844 0.744630072,8.49938789 1.12355425,8.34011709 C1.38571691,8.23866377 2.17330641,8.07939298 2.18762622,8.07939298 C3.04791628,7.92121308 4.44685148,7.8350323 5.99339086,7.8350323 C7.46502662,7.8350323 8.80668258,7.92121308 9.68129245,8.05102968 C9.69671379,8.06521133 10.6737654,8.22448213 11.0086286,8.39793457 C11.6210758,8.71538527 12,9.33610502 12,10.0004606 L12,10.0582781 C11.9856802,10.4913637 11.6056545,11.4011709 11.5924362,11.4011709 C10.9502478,12.9316978 8.95318524,15.9491158 7.62584909,17.162192 C7.62584909,17.162192 7.28437672,17.5047333 7.07178263,17.6530951 C6.76555902,17.884365 6.38663484,18 6.00771067,18 C5.58472554,18 5.19148155,17.8701834 4.86983661,17.6247318" id="Fill-4"></path>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -2146,7 +2677,7 @@ class _EssentialArrowDownBulk {
   /// Arrow - Down — bulk / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.24991 7.08582L13.6641 15.5L12.2499 16.9142L3.83569 8.50003L5.24991 7.08582Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.6641 8.50003L12.2499 16.9142L10.8357 15.5L19.2499 7.08582L20.6641 8.50003Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.2498 3.29126V19.6915H11.2498V3.29126H13.2498Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.22842 11.8274L12.2504 17.8744L18.2714 11.8274L19.6887 13.2386L12.2505 20.7088L4.81128 13.2387L6.22842 11.8274Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.sharp,
@@ -2161,7 +2692,7 @@ class _EssentialArrowDownBroken {
   /// Arrow - Down — broken / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.13124 11.2889C6.02324 9.80588 5.25024 8.49988 5.25024 8.49988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.25 8.50012C19.25 8.50012 15.106 15.5001 12.25 15.5001C11.422 15.5001 10.486 14.9121 9.57397 14.0761" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2446 7.27288V4.49988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2446 19.5001V10.8771" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2751 13.4498C18.2751 13.4498 15.0151 19.4998 12.2551 19.4998C9.4851 19.4998 6.2251 13.4498 6.2251 13.4498" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.curved,
@@ -2170,7 +2701,7 @@ class _EssentialArrowDownBroken {
   /// Arrow - Down — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19 8.5L15.5 12L14.625 12.875M12 15.5L5 8.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2739 19.75V4.75" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2985 13.7002L15.2865 16.7252L14.5335 17.4814M12.2745 19.7502L6.24951 13.7002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -2179,7 +2710,7 @@ class _EssentialArrowDownBroken {
   /// Arrow - Down — broken / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.25 8.5L12.25 15.5L5.25 8.5" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2495 6.66712V4.50012" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2495 18.8997V10.4967" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M18.27 13.4498L12.25 19.4998L6.22998 13.4498" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.sharp,
@@ -2194,7 +2725,7 @@ class _EssentialArrowDownTwotone {
   /// Arrow - Down — twoTone / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19 8.5C19 8.5 14.856 15.5 12 15.5C9.145 15.5 5 8.5 5 8.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.2742 19.7501V4.75012" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2988 13.6998C18.2988 13.6998 15.0378 19.7498 12.2758 19.7498C9.51176 19.7498 6.24976 13.6998 6.24976 13.6998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.curved,
@@ -2203,7 +2734,7 @@ class _EssentialArrowDownTwotone {
   /// Arrow - Down — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Arrow - Down 2</title>     <g id="Iconly/Two-tone/Arrow---Down-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Down-2" transform="translate(5.000000, 8.500000)" stroke="#000000" stroke-width="1.5">             <polyline id="Stroke-1" points="14 0 7 7 0 0"></polyline>         </g>     </g> </svg>',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Arrow - Down</title>     <g id="Iconly/Two-tone/Arrow---Down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Down" transform="translate(5.500000, 4.000000)" stroke="#000000" stroke-width="1.5">             <line x1="6.7743" y1="15.75" x2="6.7743" y2="0.75" id="Stroke-1" opacity="0.400000006"></line>             <polyline id="Stroke-3" points="12.7987 9.7002 6.7747 15.7502 0.7497 9.7002"></polyline>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -2212,7 +2743,7 @@ class _EssentialArrowDownTwotone {
   /// Arrow - Down — twoTone / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.25 8.5L12.25 15.5" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M12.25 15.5L5.25 8.5" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.25 18.9001V4.49988" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M18.2746 13.4501L12.2506 19.5001L6.22559 13.4501" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.sharp,
@@ -2227,7 +2758,7 @@ class _EssentialArrowDownOutline {
   /// Arrow - Down — outline / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.7504 8.50085C19.7504 8.63085 19.7174 8.76185 19.6464 8.88185C19.1994 9.63585 15.1914 16.2498 12.0004 16.2498C8.81043 16.2498 4.80143 9.63685 4.35443 8.88185C4.14343 8.52685 4.26143 8.06485 4.61843 7.85485C4.97543 7.64385 5.43543 7.76185 5.64643 8.11785C7.16543 10.6818 10.2334 14.7498 12.0004 14.7498C13.7704 14.7498 16.8374 10.6818 18.3544 8.11785C18.5654 7.76185 19.0254 7.64385 19.3824 7.85485C19.6184 7.99485 19.7504 8.24385 19.7504 8.50085" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.684 13.8052C18.746 13.6932 18.774 13.5712 18.774 13.4512C18.774 13.1832 18.631 12.9262 18.38 12.7902C18.015 12.5942 17.56 12.7292 17.364 13.0942C16.349 14.9754 14.3574 17.8052 12.7498 18.5598L12.7498 4.49976C12.7498 4.08576 12.4138 3.74976 11.9998 3.74976C11.5858 3.74976 11.2498 4.08576 11.2498 4.49976L11.2498 18.5581C9.6406 17.8012 7.65019 14.9741 6.63505 13.0942C6.43805 12.7292 5.98405 12.5942 5.61905 12.7902C5.25505 12.9872 5.12005 13.4442 5.31505 13.8052C5.67005 14.4662 8.87905 20.2502 12.002 20.2502C15.1211 20.2502 18.329 14.4662 18.684 13.8052Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.curved,
@@ -2236,7 +2767,7 @@ class _EssentialArrowDownOutline {
   /// Arrow - Down — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Arrow - Down 2</title>     <g id="Iconly/Light-Outline/Arrow---Down-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Down-2" transform="translate(4.000000, 7.500000)" fill="#000000" fill-rule="nonzero">             <path d="M0.469669914,0.469669914 C0.735936477,0.203403352 1.15260016,0.1791973 1.44621165,0.397051761 L1.53033009,0.469669914 L8,6.939 L14.4696699,0.469669914 C14.7359365,0.203403352 15.1526002,0.1791973 15.4462117,0.397051761 L15.5303301,0.469669914 C15.7965966,0.735936477 15.8208027,1.15260016 15.6029482,1.44621165 L15.5303301,1.53033009 L8.53033009,8.53033009 C8.26406352,8.79659665 7.84739984,8.8208027 7.55378835,8.60294824 L7.46966991,8.53033009 L0.469669914,1.53033009 C0.176776695,1.23743687 0.176776695,0.762563133 0.469669914,0.469669914 Z" id="Stroke-1"></path>         </g>     </g> </svg>',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Arrow - Down</title>     <g id="Iconly/Light-Outline/Arrow---Down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Down" transform="translate(5.500000, 4.000000)" fill="#000000" fill-rule="nonzero">             <path d="M6.7743,0 C7.15399577,0 7.46779096,0.282153882 7.51745338,0.648229443 L7.5243,0.75 L7.52369999,13.934 L12.2672291,9.17101315 C12.559491,8.8774899 13.0343636,8.87646731 13.3278869,9.16872914 C13.5947262,9.43442171 13.6198294,9.8510323 13.4026077,10.1451122 L13.3301709,10.2293869 L7.30617086,16.2793869 C7.26764619,16.3180778 7.22595266,16.3516842 7.18192314,16.3802061 C7.16866934,16.388262 7.15511061,16.3964623 7.14128041,16.4042367 C7.12942435,16.4113875 7.11711275,16.4178493 7.10466728,16.4239454 C7.08655679,16.4324122 7.06784795,16.4406833 7.04875665,16.4481939 C7.03403731,16.4542967 7.01972109,16.4593926 7.00529186,16.4640405 C6.98739762,16.4695662 6.96832963,16.4749347 6.9489704,16.4795527 C6.93545418,16.4829859 6.9224453,16.4857056 6.90938559,16.4880773 C6.88995431,16.4914125 6.86984664,16.4942514 6.84949961,16.496277 C6.83398162,16.498026 6.81860624,16.4990792 6.80321635,16.4996611 C6.79388374,16.4998115 6.78411388,16.5 6.7743,16.5 L6.74524677,16.4996251 C6.73052671,16.4990502 6.71582035,16.4980441 6.70114827,16.4966069 L6.7743,16.5 C6.72697147,16.5 6.68066686,16.4956161 6.63577008,16.4872322 C6.62504705,16.4852879 6.6140387,16.482972 6.60307688,16.4804067 C6.58049893,16.475079 6.55875812,16.4689204 6.5374423,16.4618312 C6.52685318,16.4583516 6.51553869,16.4542993 6.5043075,16.4499668 C6.48174039,16.4412024 6.46022651,16.431675 6.43927187,16.4211951 C6.42941864,16.4163265 6.41910264,16.410874 6.40889183,16.4051642 C6.392234,16.3957917 6.37640388,16.3861371 6.36097334,16.3759271 C6.35005285,16.3687237 6.33868575,16.360746 6.32749818,16.3524163 L6.31885445,16.3459258 C6.29245569,16.3257196 6.26743874,16.3037989 6.24396991,16.2803301 L6.24327306,16.279431 L0.218273061,10.229431 C-0.074013127,9.93593197 -0.0730299537,9.46105925 0.22046904,9.16877306 C0.487286308,8.90305834 0.903999213,8.879715 1.19715903,9.09817688 L1.28112694,9.17096904 L6.02369999,13.932 L6.0243,0.75 C6.0243,0.335786438 6.36008644,0 6.7743,0 Z" id="Combined-Shape"></path>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -2245,7 +2776,7 @@ class _EssentialArrowDownOutline {
   /// Arrow - Down — outline / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.24999 7.43933L12.25 14.4393L19.25 7.43933L20.3107 8.49999L12.25 16.5607L4.18933 8.49999L5.24999 7.43933Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13 3.74988V19.6501H11.5V3.74988H13Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.22777 12.3894L12.2505 18.4372L18.2723 12.3894L19.3352 13.4478L12.2506 20.563L5.16492 13.4479L6.22777 12.3894Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.sharp,
@@ -2260,7 +2791,7 @@ class _EssentialArrowDownBold {
   /// Arrow - Down — bold / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2499 16.5001C8.9839 16.5001 5.1289 10.2601 4.3899 9.00906C4.1079 8.53406 4.2659 7.92106 4.7409 7.64006C5.2169 7.35706 5.8299 7.51706 6.1099 7.99106C7.6649 10.6161 10.6899 14.5001 12.2499 14.5001C13.8119 14.5001 16.8369 10.6161 18.3899 7.99106C18.6709 7.51706 19.2859 7.35706 19.7589 7.64006C20.2339 7.92006 20.3919 8.53306 20.1099 9.00906C19.3709 10.2601 15.5159 16.5001 12.2499 16.5001Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7496 12.57C18.2626 12.306 17.6566 12.49 17.3956 12.975C16.4346 14.757 14.6686 17.217 13.2446 18.133V4.5C13.2446 3.947 12.7976 3.5 12.2446 3.5C11.6916 3.5 11.2446 3.947 11.2446 4.5V18.128C9.8246 17.218 8.0916 14.802 7.1046 12.975C6.8426 12.49 6.2376 12.308 5.7506 12.57C5.2646 12.832 5.0826 13.438 5.3456 13.924C5.9346 15.02 9.0356 20.472 12.2336 20.497C12.2376 20.497 12.2406 20.5 12.2446 20.5C12.2456 20.5 12.2476 20.499 12.2486 20.499C12.2506 20.499 12.2526 20.5 12.2556 20.5C15.4506 20.5 18.5636 15.022 19.1546 13.924C19.4176 13.438 19.2356 12.832 18.7496 12.57Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.curved,
@@ -2269,7 +2800,7 @@ class _EssentialArrowDownBold {
   /// Arrow - Down — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Arrow - Down 2</title>     <g id="Iconly/Bold/Arrow---Down-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Down-2" transform="translate(6.000000, 7.000000)" fill="#000000" fill-rule="nonzero">             <path d="M4.869,9.63078422 C4.811,9.57428154 4.563,9.36093522 4.359,9.16220166 C3.076,7.99707745 0.976,4.95762299 0.335,3.36678032 C0.232,3.12518266 0.014,2.51436922 0,2.18801754 C0,1.87530443 0.072,1.57720409 0.218,1.29274233 C0.422,0.938139308 0.743,0.653677545 1.122,0.497808086 C1.385,0.397467121 2.172,0.241597662 2.186,0.241597662 C3.047,0.0857282026 4.446,0 5.992,0 C7.465,0 8.807,0.0857282026 9.681,0.213346322 C9.695,0.227959084 10.673,0.383828544 11.008,0.554310765 C11.62,0.867023868 12,1.47783731 12,2.13151486 L12,2.18801754 C11.985,2.613736 11.605,3.5090112 11.591,3.5090112 C10.949,5.01412567 8.952,7.98343887 7.625,9.17681442 C7.625,9.17681442 7.284,9.51290794 7.071,9.65903556 C6.765,9.88699464 6.386,10 6.007,10 C5.584,10 5.19,9.87238188 4.869,9.63078422"></path>         </g>     </g> </svg>',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Arrow - Down</title>     <g id="Iconly/Bold/Arrow---Down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Down" transform="translate(6.000000, 3.000000)" fill="#000000" fill-rule="nonzero">             <path d="M5.99339086,7.8350323 C7.46502662,7.8350323 8.80668258,7.92121308 9.68129245,8.05102968 C9.6834955,8.05305563 9.70532366,8.05804259 9.74210106,8.06560889 L9.99272582,8.11577976 C10.312696,8.18078507 10.7933594,8.28642943 11.0086286,8.39793457 C11.6210758,8.71538527 12,9.33610502 12,10.0004606 L12,10.0582781 C11.9856802,10.4913637 11.6056545,11.4011709 11.5924362,11.4011709 C10.9502478,12.9316978 8.95318524,15.9491158 7.62584909,17.162192 L7.58042219,17.2070489 C7.48044795,17.3048434 7.23713359,17.5377026 7.07178263,17.6530951 C6.76555902,17.884365 6.38663484,18 6.00771067,18 C5.58472554,18 5.19148155,17.8701834 4.86983661,17.6247318 C4.81145585,17.5669143 4.56471452,17.350917 4.3598311,17.1480103 C3.0765559,15.9643883 0.978153112,12.8738803 0.335964751,11.2571726 C0.23352304,11.0117211 0.0154213328,10.3910013 1.27897692e-13,10.0582781 C1.27897692e-13,9.74082738 0.0738020929,9.43755833 0.219203231,9.14847093 C0.422985129,8.7873844 0.744630072,8.49938789 1.12355425,8.34011709 C1.38571691,8.23866377 2.17330641,8.07939298 2.18762622,8.07939298 C3.04791628,7.92121308 4.44685148,7.8350323 5.99339086,7.8350323 Z M6.00044061,1.37667655e-14 C6.8387002,1.37667655e-14 7.51834037,0.673082751 7.51834037,1.50325451 L7.19118781,5.20248239 C7.19118781,5.85374723 6.6580503,6.38174083 6.00044061,6.38174083 C5.34172939,6.38174083 4.80969341,5.85374723 4.80969341,5.20248239 L4.48254085,1.50325451 C4.48254085,0.673082751 5.16218102,1.37667655e-14 6.00044061,1.37667655e-14 Z"></path>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -2278,7 +2809,7 @@ class _EssentialArrowDownBold {
   /// Arrow - Down — bold / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2499 16.914L3.83594 8.5L5.24994 7.086L12.2499 14.086L19.2499 7.086L20.6639 8.5L12.2499 16.914Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2654 11.827L13.2494 16.868V3.29102H11.2494V16.868L6.23441 11.827L4.81641 13.238L12.2494 20.709L19.6834 13.238L18.2654 11.827Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.sharp,
@@ -2293,7 +2824,7 @@ class _EssentialArrowDownLight {
   /// Arrow - Down — light / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19 8.5C19 8.5 14.856 15.5 12 15.5C9.145 15.5 5 8.5 5 8.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2742 19.7501V4.75012" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2988 13.6998C18.2988 13.6998 15.0378 19.7498 12.2758 19.7498C9.51176 19.7498 6.24976 13.6998 6.24976 13.6998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.curved,
@@ -2302,7 +2833,7 @@ class _EssentialArrowDownLight {
   /// Arrow - Down — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Arrow - Down',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Arrow - Down 2</title>     <g id="Iconly/Light/Arrow---Down-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Down-2" transform="translate(5.000000, 8.500000)" stroke="#000000" stroke-width="1.5">             <polyline id="Stroke-1" points="14 0 7 7 0 0"></polyline>         </g>     </g> </svg>',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Arrow - Down</title>     <g id="Iconly/Light/Arrow---Down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Down" transform="translate(5.500000, 4.000000)" stroke="#000000" stroke-width="1.5">             <line x1="6.7743" y1="15.75" x2="6.7743" y2="0.75" id="Stroke-1"></line>             <polyline id="Stroke-3" points="12.7987 9.7002 6.7747 15.7502 0.7497 9.7002"></polyline>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -2311,7 +2842,430 @@ class _EssentialArrowDownLight {
   /// Arrow - Down — light / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Arrow - Down',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2499 18.9001V4.49988" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M18.2745 13.4501L12.2505 19.5001L6.22546 13.4501" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Down 1 icon with style variants.
+class _EssentialArrowDown1Icon {
+  const _EssentialArrowDown1Icon();
+
+  /// bold style
+  _EssentialArrowDown1Bold get bold => const _EssentialArrowDown1Bold();
+  /// bulk style
+  _EssentialArrowDown1Bulk get bulk => const _EssentialArrowDown1Bulk();
+  /// light style
+  _EssentialArrowDown1Light get light => const _EssentialArrowDown1Light();
+  /// outline style
+  _EssentialArrowDown1Outline get outline => const _EssentialArrowDown1Outline();
+  /// twoTone style
+  _EssentialArrowDown1Twotone get twoTone => const _EssentialArrowDown1Twotone();
+  /// broken style
+  _EssentialArrowDown1Broken get broken => const _EssentialArrowDown1Broken();
+}
+
+/// Arrow - Down 1 — bulk style variants.
+class _EssentialArrowDown1Bulk {
+  const _EssentialArrowDown1Bulk();
+
+  /// Arrow - Down 1 — bulk / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.2502 16.5001C15.5164 16.5001 19.3713 10.2603 20.1101 9.00936C20.2522 8.76961 20.2825 8.4952 20.217 8.24617C20.1526 8.00057 19.9949 7.77938 19.759 7.64022C19.2864 7.35701 18.6711 7.51717 18.3904 7.99129C16.8372 10.6163 13.8123 14.5001 12.2502 14.5001V16.5001Z" fill="black"/> <path d="M12.2501 14.5001C12.2501 14.5001 12.2502 14.5001 12.2501 14.5001C10.6901 14.5001 7.66514 10.6161 6.11014 7.99112C5.83014 7.51712 5.21714 7.35712 4.74114 7.64012C4.26614 7.92112 4.10814 8.53412 4.39014 9.00912C5.12914 10.2601 8.98414 16.5001 12.2501 16.5001C12.2502 16.5001 12.2501 16.5001 12.2501 16.5001V14.5001Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Down 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bulk/Arrow - Down 2</title>     <g id="Iconly/Bulk/Arrow---Down-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Down-2" transform="translate(6.000000, 7.000000)" fill="#000000" fill-rule="nonzero">             <path d="M4.86724336,0.214334561 L9.08645432,7.06244425 C9.18045902,7.21581846 9.17145857,7.41217653 9.06045302,7.55578168 C8.55942797,8.20640094 8.05140257,8.7876599 7.62438122,9.1754915 C7.62438122,9.1754915 7.28236412,9.50959329 7.06535327,9.65417535 C6.76933847,9.88765583 6.38231912,10 6.00630032,10 C5.58427921,10 5.18525926,9.87690987 4.86624331,9.63170651 C4.80924046,9.57602288 4.55822791,9.36403432 4.35321766,9.16376863 C3.07715386,7.99538929 0.969048452,4.94548937 0.330016501,3.34141004 C0.227011351,3.10792955 0.0120006,2.48466365 1.39444012e-13,2.16130783 C1.39444012e-13,1.84967488 0.0680034002,1.54878789 0.217010851,1.25962377 C0.422021101,0.904030058 0.740037002,0.625611904 1.11705585,0.469306976 C1.37906895,0.368685678 2.16510826,0.213357655 2.18810941,0.213357655 C2.74913746,0.112736357 3.53717686,0.0375146103 4.45722286,0.000392189745 C4.62223111,-0.00644615088 4.78223911,0.0765908425 4.86724336,0.214334561" id="Fill-1"></path>             <path d="M7.13975699,0.672308002 C6.95274764,0.370444108 7.19175959,-0.00957224946 7.55077754,0.0050813376 C8.39281964,0.0412268524 9.13485674,0.103748824 9.68688434,0.179947477 C9.69888494,0.191670346 10.6779339,0.346998369 11.0089504,0.525772131 C11.6239812,0.837405083 12,1.44894812 12,2.10640572 L12,2.16111245 C11.9889994,2.58508957 11.6129806,3.48677362 11.5899795,3.48677362 C11.40097,3.94103482 11.080954,4.53401665 10.6959348,5.17193614 C10.5219261,5.45914644 10.0949047,5.46598478 9.91789589,5.17877448 L7.13975699,0.672308002 Z" id="Fill-4" opacity="0.400000006"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Down 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.24991 7.08582L13.6641 15.5L12.2499 16.9142L3.83569 8.50003L5.24991 7.08582Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.6641 8.50003L12.2499 16.9142L10.8357 15.5L19.2499 7.08582L20.6641 8.50003Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Down 1 — broken style variants.
+class _EssentialArrowDown1Broken {
+  const _EssentialArrowDown1Broken();
+
+  /// Arrow - Down 1 — broken / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.13124 11.2889C6.02324 9.80588 5.25024 8.49988 5.25024 8.49988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.25 8.50012C19.25 8.50012 15.106 15.5001 12.25 15.5001C11.422 15.5001 10.486 14.9121 9.57397 14.0761" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Down 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19 8.5L15.5 12L14.625 12.875M12 15.5L5 8.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Down 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Down 1',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.25 8.5L12.25 15.5L5.25 8.5" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Down 1 — twoTone style variants.
+class _EssentialArrowDown1Twotone {
+  const _EssentialArrowDown1Twotone();
+
+  /// Arrow - Down 1 — twoTone / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19 8.5C19 8.5 14.856 15.5 12 15.5C9.145 15.5 5 8.5 5 8.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Down 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Arrow - Down 2</title>     <g id="Iconly/Two-tone/Arrow---Down-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Down-2" transform="translate(5.000000, 8.500000)" stroke="#000000" stroke-width="1.5">             <polyline id="Stroke-1" points="14 0 7 7 0 0"></polyline>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Down 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.25 8.5L12.25 15.5" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M12.25 15.5L5.25 8.5" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Down 1 — outline style variants.
+class _EssentialArrowDown1Outline {
+  const _EssentialArrowDown1Outline();
+
+  /// Arrow - Down 1 — outline / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.7504 8.50085C19.7504 8.63085 19.7174 8.76185 19.6464 8.88185C19.1994 9.63585 15.1914 16.2498 12.0004 16.2498C8.81043 16.2498 4.80143 9.63685 4.35443 8.88185C4.14343 8.52685 4.26143 8.06485 4.61843 7.85485C4.97543 7.64385 5.43543 7.76185 5.64643 8.11785C7.16543 10.6818 10.2334 14.7498 12.0004 14.7498C13.7704 14.7498 16.8374 10.6818 18.3544 8.11785C18.5654 7.76185 19.0254 7.64385 19.3824 7.85485C19.6184 7.99485 19.7504 8.24385 19.7504 8.50085" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Down 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Arrow - Down 2</title>     <g id="Iconly/Light-Outline/Arrow---Down-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Down-2" transform="translate(4.000000, 7.500000)" fill="#000000" fill-rule="nonzero">             <path d="M0.469669914,0.469669914 C0.735936477,0.203403352 1.15260016,0.1791973 1.44621165,0.397051761 L1.53033009,0.469669914 L8,6.939 L14.4696699,0.469669914 C14.7359365,0.203403352 15.1526002,0.1791973 15.4462117,0.397051761 L15.5303301,0.469669914 C15.7965966,0.735936477 15.8208027,1.15260016 15.6029482,1.44621165 L15.5303301,1.53033009 L8.53033009,8.53033009 C8.26406352,8.79659665 7.84739984,8.8208027 7.55378835,8.60294824 L7.46966991,8.53033009 L0.469669914,1.53033009 C0.176776695,1.23743687 0.176776695,0.762563133 0.469669914,0.469669914 Z" id="Stroke-1"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Down 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.24999 7.43933L12.25 14.4393L19.25 7.43933L20.3107 8.49999L12.25 16.5607L4.18933 8.49999L5.24999 7.43933Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Down 1 — bold style variants.
+class _EssentialArrowDown1Bold {
+  const _EssentialArrowDown1Bold();
+
+  /// Arrow - Down 1 — bold / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2499 16.5001C8.9839 16.5001 5.1289 10.2601 4.3899 9.00906C4.1079 8.53406 4.2659 7.92106 4.7409 7.64006C5.2169 7.35706 5.8299 7.51706 6.1099 7.99106C7.6649 10.6161 10.6899 14.5001 12.2499 14.5001C13.8119 14.5001 16.8369 10.6161 18.3899 7.99106C18.6709 7.51706 19.2859 7.35706 19.7589 7.64006C20.2339 7.92006 20.3919 8.53306 20.1099 9.00906C19.3709 10.2601 15.5159 16.5001 12.2499 16.5001Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Down 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Arrow - Down 2</title>     <g id="Iconly/Bold/Arrow---Down-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Down-2" transform="translate(6.000000, 7.000000)" fill="#000000" fill-rule="nonzero">             <path d="M4.869,9.63078422 C4.811,9.57428154 4.563,9.36093522 4.359,9.16220166 C3.076,7.99707745 0.976,4.95762299 0.335,3.36678032 C0.232,3.12518266 0.014,2.51436922 0,2.18801754 C0,1.87530443 0.072,1.57720409 0.218,1.29274233 C0.422,0.938139308 0.743,0.653677545 1.122,0.497808086 C1.385,0.397467121 2.172,0.241597662 2.186,0.241597662 C3.047,0.0857282026 4.446,0 5.992,0 C7.465,0 8.807,0.0857282026 9.681,0.213346322 C9.695,0.227959084 10.673,0.383828544 11.008,0.554310765 C11.62,0.867023868 12,1.47783731 12,2.13151486 L12,2.18801754 C11.985,2.613736 11.605,3.5090112 11.591,3.5090112 C10.949,5.01412567 8.952,7.98343887 7.625,9.17681442 C7.625,9.17681442 7.284,9.51290794 7.071,9.65903556 C6.765,9.88699464 6.386,10 6.007,10 C5.584,10 5.19,9.87238188 4.869,9.63078422"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Down 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2499 16.914L3.83594 8.5L5.24994 7.086L12.2499 14.086L19.2499 7.086L20.6639 8.5L12.2499 16.914Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Down 1 — light style variants.
+class _EssentialArrowDown1Light {
+  const _EssentialArrowDown1Light();
+
+  /// Arrow - Down 1 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19 8.5C19 8.5 14.856 15.5 12 15.5C9.145 15.5 5 8.5 5 8.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Down 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Arrow - Down 2</title>     <g id="Iconly/Light/Arrow---Down-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Down-2" transform="translate(5.000000, 8.500000)" stroke="#000000" stroke-width="1.5">             <polyline id="Stroke-1" points="14 0 7 7 0 0"></polyline>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Down 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Down 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.25 8.5L12.25 15.5L5.25 8.5" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Down 2 icon with style variants.
+class _EssentialArrowDown2Icon {
+  const _EssentialArrowDown2Icon();
+
+  /// bold style
+  _EssentialArrowDown2Bold get bold => const _EssentialArrowDown2Bold();
+  /// bulk style
+  _EssentialArrowDown2Bulk get bulk => const _EssentialArrowDown2Bulk();
+  /// light style
+  _EssentialArrowDown2Light get light => const _EssentialArrowDown2Light();
+  /// outline style
+  _EssentialArrowDown2Outline get outline => const _EssentialArrowDown2Outline();
+  /// twoTone style
+  _EssentialArrowDown2Twotone get twoTone => const _EssentialArrowDown2Twotone();
+  /// broken style
+  _EssentialArrowDown2Broken get broken => const _EssentialArrowDown2Broken();
+}
+
+/// Arrow - Down 2 — bulk style variants.
+class _EssentialArrowDown2Bulk {
+  const _EssentialArrowDown2Bulk();
+
+  /// Arrow - Down 2 — bulk / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3386 12.8117C16.8036 12.2757 14.9916 12.0907 13.2466 12.0407L11.2466 12.0347C9.00955 12.0877 7.63955 12.3477 7.17555 12.8117C6.61255 13.3757 6.90155 14.3157 7.21555 15.0717C7.86655 16.6407 10.6126 21.1767 12.2576 21.1767C13.9526 21.1767 16.6896 16.4387 17.2866 14.9997C17.6116 14.2177 17.8716 13.3467 17.3386 12.8117Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.2473 12.0402V3.82324C13.2473 3.27024 12.8003 2.82324 12.2473 2.82324C11.6943 2.82324 11.2473 3.27024 11.2473 3.82324V12.0342L13.2473 12.0402Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Down 2 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M11.2499 20.9996L11.2499 2.99987L13.2499 2.99987L13.2499 20.9996L11.2499 20.9996Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.2499 20C13.2499 16.3291 10.0305 13.34 6.58983 13.34H5.58983V15.34H6.58983C8.96869 15.34 11.2499 17.476 11.2499 20V21H13.2499V20Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.2499 20C11.2499 16.3291 14.4693 13.34 17.9099 13.34H18.9099V15.34H17.9099C15.5311 15.34 13.2499 17.476 13.2499 20V21H11.2499V20Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Down 2 — broken style variants.
+class _EssentialArrowDown2Broken {
+  const _EssentialArrowDown2Broken();
+
+  /// Arrow - Down 2 — broken / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2522 12.6481V3.69812" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2125 18.5719C13.4315 19.5689 12.6725 20.3019 12.2425 20.3019C10.9825 20.3019 6.97253 13.9379 7.69253 13.2159C8.41253 12.4939 16.0025 12.4249 16.7925 13.2159C17.0925 13.5169 16.6915 14.6099 16.0085 15.8499" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Down 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2515 12.6998V3.74979" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2525 12.6998H7.25049L12.2515 20.6368L14.752 16.6683L15.3771 15.6762" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Down 2 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 6.53188V3.99988" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.25 19.9999V10.0409" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M6.58984 14.3402C9.49984 14.3402 12.2498 16.9022 12.2498 20.0002" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.91 14.3402C15 14.3402 12.25 16.9022 12.25 20.0002" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Down 2 — twoTone style variants.
+class _EssentialArrowDown2Twotone {
+  const _EssentialArrowDown2Twotone();
+
+  /// Arrow - Down 2 — twoTone / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M11.8938 12.7001V3.75012" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8998 20.3539C13.1558 20.3539 17.1708 13.9899 16.4488 13.2679C15.7268 12.5459 8.14181 12.4769 7.35081 13.2679C6.55981 14.0599 10.6448 20.3539 11.8998 20.3539Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Down 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Arrow - Down 3</title>     <g id="Iconly/Two-tone/Arrow---Down-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Down-3" transform="translate(6.500000, 3.000000)" stroke="#000000" stroke-width="1.5">             <line x1="5.7513" y1="9.6998" x2="5.7513" y2="0.7498" id="Stroke-1" opacity="0.400000006"></line>             <polygon id="Stroke-3" points="0.7503 9.6998 5.7513 17.6368 10.7523 9.6998"></polygon>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Down 2 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.2497 19.9996L12.2497 3.99987" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M6.58965 14.3398C9.49939 14.3398 12.2497 16.9024 12.2497 19.9999" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.9097 14.3398C15 14.3398 12.2497 16.9024 12.2497 19.9999" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Down 2 — outline style variants.
+class _EssentialArrowDown2Outline {
+  const _EssentialArrowDown2Outline();
+
+  /// Arrow - Down 2 — outline / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0398 14.8626C17.2278 14.4096 17.3938 13.9266 17.3938 13.4966C17.3938 13.1876 17.3088 12.9066 17.0848 12.6836C16.6194 12.22 14.7608 11.9628 12.75 11.9123L12.75 3.69542C12.75 3.28142 12.414 2.94542 12 2.94542C11.586 2.94542 11.25 3.28142 11.25 3.69542L11.25 11.9126C9.24346 11.9641 7.39095 12.2214 6.92683 12.6846C6.36383 13.2486 6.65083 14.1816 6.96083 14.9346C7.61183 16.5076 10.3588 21.0546 12.0068 21.0546C13.7078 21.0546 16.4428 16.3046 17.0398 14.8626ZM15.8748 13.6846C15.6348 14.9806 12.9638 19.0476 12.0048 19.5336C11.0088 19.0496 8.31383 14.9816 8.11583 13.7086C9.36983 13.2956 14.6728 13.3026 15.8748 13.6846Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Down 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Arrow - Down 3</title>     <g id="Iconly/Light-Outline/Arrow---Down-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Down-3" transform="translate(6.000000, 3.000000)">             <path d="M5.7512,0.0002 C6.1652,0.0002 6.5012,0.3362 6.5012,0.7502 L6.50104653,8.9502 L10.7526,8.9502 C11.0256,8.9502 11.2766,9.0982 11.4086,9.3382 C11.5416,9.5772 11.5326,9.8692 11.3866,10.0992 L6.3856,18.0362 C6.2486,18.2552 6.0086,18.3872 5.7516,18.3872 C5.4936,18.3872 5.2546,18.2552 5.1166,18.0362 L0.1156,10.0992 C-0.0304,9.8692 -0.0384,9.5772 0.0936,9.3382 C0.2256,9.0982 0.4766,8.9502 0.7506,8.9502 L5.00104653,8.9502 L5.0012,0.7502 C5.0012,0.3362 5.3372,0.0002 5.7512,0.0002 Z M9.3926,10.4502 L2.1096,10.4502 L5.7516,16.2292 L9.3926,10.4502 Z" id="Combined-Shape" fill="#000000"></path>             <g id="Group-5" transform="translate(0.000000, 8.386700)"></g>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Down 2 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4997 20.7496L11.4997 3.24987L12.9997 3.24987L12.9997 20.7496L11.4997 20.7496Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9997 19.9999C12.9997 16.4723 9.89755 13.5898 6.58965 13.5898H5.83965V15.0898H6.58965C9.10123 15.0898 11.4997 17.3325 11.4997 19.9999V20.7499H12.9997V19.9999Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4997 19.9999C11.4997 16.4723 14.6018 13.5898 17.9097 13.5898H18.6597V15.0898H17.9097C15.3982 15.0898 12.9997 17.3325 12.9997 19.9999V20.7499H11.4997V19.9999Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Down 2 — bold style variants.
+class _EssentialArrowDown2Bold {
+  const _EssentialArrowDown2Bold();
+
+  /// Arrow - Down 2 — bold / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3386 12.8115C16.8036 12.2755 14.9916 12.0905 13.2466 12.0405V3.82349C13.2466 3.27049 12.7996 2.82349 12.2466 2.82349C11.6936 2.82349 11.2466 3.27049 11.2466 3.82349V12.0345C9.00955 12.0875 7.63955 12.3475 7.17555 12.8115C6.61255 13.3755 6.90155 14.3155 7.21555 15.0715C7.86655 16.6405 10.6126 21.1765 12.2576 21.1765C13.9526 21.1765 16.6896 16.4385 17.2866 14.9995C17.6116 14.2175 17.8716 13.3465 17.3386 12.8115Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Down 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Arrow - Down 3</title>     <g id="Iconly/Bold/Arrow---Down-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Down-3" transform="translate(6.500000, 3.000000)" fill="#000000" fill-rule="nonzero">             <path d="M10.910103,9.14147403 C10.7838647,8.90747892 10.5438206,8.76159913 10.2827368,8.76159913 L6.21728876,8.76159913 L6.21728876,0.734294262 C6.21728876,0.328963829 5.89595483,0 5.50002553,0 C5.10409622,0 4.7827623,0.328963829 4.7827623,0.734294262 L4.7827623,8.76159913 L0.717314292,8.76159913 C0.455274124,8.76159913 0.215230029,8.90747892 0.0899480509,9.14147403 C-0.037246629,9.37546913 -0.0286394702,9.66135436 0.110031421,9.887517 L4.89274266,17.6573293 C5.02471909,17.8707642 5.25328698,18 5.50002553,18 C5.74676408,18 5.97533197,17.8707642 6.1073084,17.6573293 L10.8900196,9.887517 C10.9627023,9.7680718 11,9.63198259 11,9.49589339 C11,9.37449007 10.9693968,9.2521077 10.910103,9.14147403"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Down 2 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9101 13.34C16.1361 13.34 14.4711 14.118 13.2501 15.339V3H11.2501V15.339C10.0281 14.118 8.36309 13.34 6.59009 13.34H5.59009V15.34H6.59009C9.02809 15.34 11.2501 17.561 11.2501 20V21H13.2501V20C13.2501 17.561 15.4721 15.34 17.9101 15.34H18.9101V13.34H17.9101Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Down 2 — light style variants.
+class _EssentialArrowDown2Light {
+  const _EssentialArrowDown2Light();
+
+  /// Arrow - Down 2 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.8938 12.7001V3.75012" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8998 20.3539C13.1558 20.3539 17.1708 13.9899 16.4488 13.2679C15.7268 12.5459 8.14181 12.4769 7.35081 13.2679C6.55981 14.0599 10.6448 20.3539 11.8998 20.3539Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Down 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Arrow - Down 3</title>     <g id="Iconly/Light/Arrow---Down-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Down-3" transform="translate(6.500000, 3.000000)" stroke="#000000" stroke-width="1.5">             <line x1="5.7513" y1="9.6998" x2="5.7513" y2="0.7498" id="Stroke-1"></line>             <polygon id="Stroke-3" points="0.7503 9.6998 5.7513 17.6368 10.7523 9.6998"></polygon>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Down 2 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Down 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 19.9998L12.25 3.99999" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M6.58995 14.34C9.4997 14.34 12.25 16.9025 12.25 20" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.91 14.34C15.0003 14.34 12.25 16.9025 12.25 20" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.sharp,
@@ -2528,6 +3482,330 @@ class _EssentialBagLight {
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Bag',
     svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.7226 7.18852C16.7226 4.89436 14.8628 3.03458 12.5686 3.03458C11.4639 3.0299 10.4028 3.46548 9.61997 4.245C8.83715 5.02452 8.39708 6.08377 8.39709 7.18852" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M15.4197 11.518H15.3757" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.81226 11.518H9.76825" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.1216 7.39954L21.0101 22.0347L3.48987 22.0347L4.37845 7.39954L20.1216 7.39954Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Bag 1 icon with style variants.
+class _EssentialBag1Icon {
+  const _EssentialBag1Icon();
+
+  /// bold style
+  _EssentialBag1Bold get bold => const _EssentialBag1Bold();
+  /// bulk style
+  _EssentialBag1Bulk get bulk => const _EssentialBag1Bulk();
+  /// light style
+  _EssentialBag1Light get light => const _EssentialBag1Light();
+  /// outline style
+  _EssentialBag1Outline get outline => const _EssentialBag1Outline();
+  /// twoTone style
+  _EssentialBag1Twotone get twoTone => const _EssentialBag1Twotone();
+  /// broken style
+  _EssentialBag1Broken get broken => const _EssentialBag1Broken();
+}
+
+/// Bag 1 — bulk style variants.
+class _EssentialBag1Bulk {
+  const _EssentialBag1Bulk();
+
+  /// Bag 1 — bulk / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.71924 7.1229C7.72523 4.62077 9.75766 2.5969 12.2607 2.60169C14.7624 2.60768 16.7865 4.64056 16.7812 7.14222V10.1737C16.7812 10.5879 16.4455 10.9237 16.0312 10.9237C15.617 10.9237 15.2812 10.5879 15.2812 10.1737V7.14169L15.2812 7.1399C15.2852 5.46626 13.9315 4.10589 12.2578 4.10169C10.5833 4.09868 9.2237 5.45228 9.21924 7.12564V10.1737C9.21924 10.5879 8.88345 10.9237 8.46924 10.9237C8.05502 10.9237 7.71924 10.5879 7.71924 10.1737L7.71924 7.1229Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M4.89578 9.00122C6.44852 7.78592 8.85701 7.35071 12.25 7.35071C15.6429 7.35071 18.0514 7.78592 19.6041 9.00122C21.1949 10.2463 21.769 12.2069 21.769 14.9097C21.769 17.6121 21.1949 19.5724 19.6041 20.8173C18.0514 22.0325 15.6429 22.4677 12.25 22.4677C8.857 22.4677 6.44853 22.0325 4.89581 20.8173C3.30504 19.5724 2.73096 17.6121 2.73096 14.9097C2.73096 12.2069 3.30502 10.2463 4.89578 9.00122Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.curved,
+  );
+
+  /// Bag 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bulk/Bag 2</title>     <g id="Iconly/Bulk/Bag-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Bag-2" transform="translate(2.500000, 2.000000)" fill="#000000" fill-rule="nonzero">             <path d="M14.1203038,20 L4.87969616,20 C2.18923219,20 0,17.8310576 0,15.1645627 L0,9.83543733 C0,7.16894242 2.18923219,5 4.87969616,5 L14.1203038,5 C16.8107678,5 19,7.16894242 19,9.83543733 L19,15.1645627 C19,17.8310576 16.8107678,20 14.1203038,20" id="Fill-4" opacity="0.400000006"></path>             <path d="M13.2551313,8 C12.8439638,8 12.5102626,7.67633955 12.5102626,7.27754365 L12.5102626,4.35689344 C12.5102626,2.75111379 11.1635401,1.4449127 9.50893842,1.4449127 C8.74718605,1.4449127 7.94769367,1.74160144 7.37861399,2.28777845 C6.80854116,2.835882 6.49271684,3.56508128 6.48973736,4.34340759 L6.48973736,7.27754365 C6.48973736,7.67633955 6.1560362,8 5.74486868,8 C5.33370117,8 5,7.67633955 5,7.27754365 L5,4.35689344 C5.00496579,3.1730283 5.47770911,2.08067429 6.32983889,1.2628537 C7.1809755,0.443106562 8.28139484,0.0317880795 9.5119179,0 C11.9848819,0 14,1.95448525 14,4.35689344 L14,7.27754365 C14,7.67633955 13.6662988,8 13.2551313,8" id="Fill-1"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+  /// Bag 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M22.04 7.49866L20.9 21.8587H3.59996L2.45996 7.49866C8.82834 7.49866 14.2656 7.49866 22.04 7.49866Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2498 4.71057C10.041 4.71057 8.25049 6.50112 8.25049 8.70987V10.5718H6.75049V8.70987C6.75049 5.67269 9.21261 3.21057 12.2498 3.21057C15.287 3.21057 17.7491 5.67269 17.7491 8.70987V10.5718H16.2491V8.70987C16.2491 6.50112 14.4585 4.71057 12.2498 4.71057Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Bag 1 — broken style variants.
+class _EssentialBag1Broken {
+  const _EssentialBag1Broken();
+
+  /// Bag 1 — broken / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.0307 10.0488V7.01681C16.0357 4.92881 14.3468 3.23181 12.2587 3.22681C10.1697 3.22281 8.47375 4.91181 8.46875 6.99981V10.0488" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.25 21.8426C5.48596 21.8426 3.23096 20.0776 3.23096 14.7846C3.23096 9.49059 5.48596 7.72559 12.25 7.72559C19.014 7.72559 21.269 9.49059 21.269 14.7846C21.269 19.0356 19.814 21.0116 15.737 21.6236" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.curved,
+  );
+
+  /// Bag 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.7729 9.30504V6.27304C15.7729 4.18904 14.0839 2.50004 12.0009 2.50004C9.91694 2.49104 8.21994 4.17204 8.21094 6.25604V6.27304V9.30504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8 6.97433H7.25778C4.90569 6.97433 3 8.87933 3 11.2293V16.7453C3 19.0953 4.90569 21.0003 7.25778 21.0003H12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 6.97433H16.7422C19.0943 6.97433 21 8.87933 21 11.2293V16.7453C21 19.0953 19.0943 21.0003 16.7422 21.0003H15.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+  /// Bag 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17 9.684V8.572C17 5.949 14.873 3.823 12.25 3.823C9.62698 3.823 7.50098 5.949 7.50098 8.572V9.684" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/> <path d="M13.849 21.2463H20.437L21.5 7.89429H3L4.063 21.2463H8.469" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Bag 1 — twoTone style variants.
+class _EssentialBag1Twotone {
+  const _EssentialBag1Twotone();
+
+  /// Bag 1 — twoTone / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M15.7499 10.4717V7.43967C15.7549 5.35167 14.0659 3.65467 11.9779 3.64967C9.88887 3.64567 8.19287 5.33467 8.18787 7.42267V10.4717" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.94995 15.2074C2.94995 9.91344 5.20495 8.14844 11.969 8.14844C18.733 8.14844 20.988 9.91344 20.988 15.2074C20.988 20.5004 18.733 22.2654 11.969 22.2654C5.20495 22.2654 2.94995 20.5004 2.94995 15.2074Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.curved,
+  );
+
+  /// Bag 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Bag 2</title>     <g id="Iconly/Two-tone/Bag-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Bag-2" transform="translate(3.000000, 2.500000)" stroke="#000000" stroke-width="1.5">             <path d="M12.7729,6.80503597 L12.7729,3.77303597 C12.7729,1.68903597 11.0839,-1.42108547e-14 9.0009,-1.42108547e-14 C6.9169,-0.00896402892 5.2199,1.67203597 5.2109,3.75603597 L5.2109,3.77303597 L5.2109,6.80503597" id="Stroke-1" opacity="0.400000006"></path>             <path d="M13.7422153,18.500336 L4.2577847,18.500336 C1.90569395,18.500336 0,16.595336 0,14.245336 L0,8.72933597 C0,6.37933597 1.90569395,4.47433597 4.2577847,4.47433597 L13.7422153,4.47433597 C16.094306,4.47433597 18,6.37933597 18,8.72933597 L18,14.245336 C18,16.595336 16.094306,18.500336 13.7422153,18.500336 Z" id="Stroke-3"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+  /// Bag 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M16.9996 9.6842V8.5723C16.9996 5.94933 14.8732 3.823 12.2503 3.823C9.62731 3.823 7.50098 5.94933 7.50098 8.5723V9.6842" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.4369 21.2462L21.5 7.89367L3 7.89367L4.06307 21.2462L20.4369 21.2462Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Bag 1 — outline style variants.
+class _EssentialBag1Outline {
+  const _EssentialBag1Outline();
+
+  /// Bag 1 — outline / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.43787 7.4209C7.44386 4.91878 9.47628 2.8949 11.9793 2.8997C14.4811 2.90569 16.5052 4.93856 16.4999 7.44022C16.4999 7.44065 16.4999 7.44107 16.4999 7.44149L15.7499 7.4397L16.4999 7.44022V10.4717C16.4999 10.8859 16.1641 11.2217 15.7499 11.2217C15.3357 11.2217 14.9999 10.8859 14.9999 10.4717V7.4397L14.9999 7.4379C15.0039 5.76426 13.6501 4.4039 11.9764 4.39969C10.3019 4.39668 8.94233 5.75028 8.93787 7.42364V10.4717C8.93787 10.8859 8.60208 11.2217 8.18787 11.2217C7.77365 11.2217 7.43787 10.8859 7.43787 10.4717L7.43787 7.4209Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.38521 10.2834C4.24823 11.1733 3.69995 12.6443 3.69995 15.2075C3.69995 17.7702 4.2482 19.2409 5.38518 20.1307C6.57922 21.0652 8.60338 21.5155 11.969 21.5155C15.3345 21.5155 17.3587 21.0652 18.5527 20.1307C19.6897 19.2409 20.238 17.7702 20.238 15.2075C20.238 12.6443 19.6897 11.1733 18.5527 10.2834C17.3587 9.34881 15.3345 8.8985 11.969 8.8985C8.60338 8.8985 6.57924 9.34881 5.38521 10.2834ZM4.46069 9.10214C6.08517 7.83069 8.57053 7.3985 11.969 7.3985C15.3674 7.3985 17.8527 7.83069 19.4772 9.10214C21.1587 10.4182 21.738 12.4767 21.738 15.2075C21.738 17.9378 21.1587 19.996 19.4772 21.312C17.8527 22.5833 15.3674 23.0155 11.969 23.0155C8.57052 23.0155 6.08519 22.5833 4.46072 21.312C2.7792 19.996 2.19995 17.9378 2.19995 15.2075C2.19995 12.4767 2.77918 10.4182 4.46069 9.10214Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.curved,
+  );
+
+  /// Bag 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Bag 2</title>     <g id="Iconly/Light-Outline/Bag-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Bag-2" transform="translate(2.000000, 2.000000)" fill="#000000">             <path d="M9.7539,-0.0003 C12.2281931,-0.0003 14.245676,2.00256127 14.2726268,4.473582 L14.4918,4.4746 C17.2538,4.4746 19.4998,6.7196 19.4998,9.4796 L19.4998,14.9956 C19.4998,17.7546 17.2538,19.9996 14.4918,19.9996 L5.0078,19.9996 C2.2468,19.9996 -0.0002,17.7546 -0.0002,14.9956 L-0.0002,9.4796 C-0.0002,6.7196 2.2468,4.4746 5.0078,4.4746 L5.2118,4.4737 L5.21814119,4.27922267 C5.28094,3.14476222 5.74816667,2.10403333 6.5499,1.3107 C7.4079,0.4597 8.5599,0.0347 9.7539,-0.0003 Z M14.4918,5.9746 L14.2728,5.9737 L14.2729,7.5557 C14.2729,7.9697 13.9369,8.3057 13.5229,8.3057 C13.1089,8.3057 12.7729,7.9697 12.7729,7.5557 L12.7728,5.9737 L6.7108,5.9737 L6.7109,7.5557 C6.7109,7.9697 6.3749,8.3057 5.9609,8.3057 C5.5469,8.3057 5.2109,7.9697 5.2109,7.5557 L5.2108,5.9737 L5.0078,5.9746 C3.0738,5.9746 1.4998,7.5466 1.4998,9.4796 L1.4998,14.9956 C1.4998,16.9276 3.0738,18.4996 5.0078,18.4996 L14.4918,18.4996 C16.4258,18.4996 17.9998,16.9276 17.9998,14.9956 L17.9998,9.4796 C17.9998,7.5466 16.4258,5.9746 14.4918,5.9746 Z M9.7509,1.4997 C8.9399,1.5277 8.1799,1.8077 7.6059,2.3757 C7.04022919,2.93644337 6.72318276,3.67977027 6.7112294,4.47360141 L12.7708,4.4737 L12.7677626,4.34632678 C12.6757163,2.7615023 11.3583643,1.4997 9.7509,1.4997 Z" id="Combined-Shape"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+  /// Bag 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<svg width="25" height="26" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2503 5.073C10.0415 5.073 8.25098 6.86355 8.25098 9.0723V10.9342H6.75098V9.0723C6.75098 6.03512 9.2131 3.573 12.2503 3.573C15.2875 3.573 17.7496 6.03512 17.7496 9.0723V10.9342H16.2496V9.0723C16.2496 6.86355 14.459 5.073 12.2503 5.073Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.18791 7.64373L22.3121 7.64373L21.1296 22.4963L3.3704 22.4963L2.18791 7.64373ZM4.75573 20.9963L19.7443 20.9963L20.6879 9.14373L3.81208 9.14373L4.75573 20.9963Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Bag 1 — bold style variants.
+class _EssentialBag1Bold {
+  const _EssentialBag1Bold();
+
+  /// Bag 1 — bold / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.78 7.14468V7.76468C16.32 7.66468 15.82 7.57468 15.28 7.51468V7.14468C15.28 5.47468 13.93 4.10468 12.26 4.10468H12.25C10.58 4.10468 9.21997 5.46468 9.21997 7.12468V7.51468C8.67997 7.57468 8.17997 7.66468 7.71997 7.76468V7.12468C7.71997 4.63468 9.75997 2.60468 12.25 2.60468H12.26C14.76 2.61468 16.79 4.64468 16.78 7.14468Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.77 14.9147C21.77 20.4947 19.28 22.4647 12.25 22.4647C5.21998 22.4647 2.72998 20.4947 2.72998 14.9147C2.72998 10.7647 4.10997 8.60468 7.71997 7.76468L7.71998 10.1747C7.71998 10.5947 8.04998 10.9247 8.46998 10.9247C8.87998 10.9247 9.21998 10.5947 9.21998 10.1747L9.21997 7.51468C10.12 7.40468 11.13 7.35468 12.25 7.35468C13.37 7.35468 14.38 7.40468 15.28 7.51468L15.28 10.1747C15.28 10.5947 15.62 10.9247 16.03 10.9247C16.44 10.9247 16.78 10.5947 16.78 10.1747L16.78 7.76468C20.39 8.60468 21.77 10.7647 21.77 14.9147Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.curved,
+  );
+
+  /// Bag 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Bag 2</title>     <g id="Iconly/Bold/Bag-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Bag-2" transform="translate(2.500000, 2.000000)" fill="#000000" fill-rule="nonzero">             <path d="M9.50975359,0 C11.9286448,0 13.889117,2 13.9183778,4.47 L13.9183778,4.47 L14.1232033,4.47 C16.8151951,4.47 19,6.72 19,9.48 L19,9.48 L19,15 C19,17.76 16.8151951,20 14.1232033,20 L14.1232033,20 L4.87679671,20 C2.18480493,20 0,17.76 0,15 L0,15 L0,9.48 C0,6.72 2.18480493,4.47 4.87679671,4.47 L4.87679671,4.47 L5.08162218,4.47 C5.10112936,3.27 5.55954825,2.15 6.3886037,1.31 C7.22741273,0.46 8.30030801,0.03 9.50975359,0 Z M13.2063655,5.66 C12.8064682,5.66 12.474846,6 12.474846,6.41 L12.474846,6.41 L12.474846,7.57 C12.474846,7.98 12.8064682,8.32 13.2063655,8.32 C13.6160164,8.32 13.937885,7.98 13.937885,7.57 L13.937885,7.57 L13.937885,6.41 C13.937885,6 13.6160164,5.66 13.2063655,5.66 Z M5.70585216,5.66 C5.30595483,5.66 4.97433265,6 4.97433265,6.41 L4.97433265,6.41 L4.97433265,7.57 C4.97433265,7.98 5.30595483,8.32 5.70585216,8.32 C6.11550308,8.32 6.43737166,7.98 6.43737166,7.57 L6.43737166,7.57 L6.43737166,6.41 C6.43737166,6 6.11550308,5.66 5.70585216,5.66 Z M9.50975359,1.5 C8.7587269,1.5 7.97843943,1.81 7.41273101,2.38 C6.86652977,2.94 6.56416838,3.68 6.54466119,4.47 L6.54466119,4.47 L12.4553388,4.47 C12.426078,2.83 11.1190965,1.5 9.50975359,1.5 Z"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+  /// Bag 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.62 7.51464H16.07C15.57 5.88464 14.05 4.69464 12.25 4.69464C10.45 4.69464 8.92997 5.88464 8.42997 7.51464H6.87997C7.41997 5.04464 9.62997 3.19464 12.25 3.19464C14.87 3.19464 17.08 5.04464 17.62 7.51464Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.04 7.51464L20.9 21.8746H3.59996L2.45996 7.51464L6.87997 7.51464C6.78997 7.89464 6.74996 8.28464 6.74996 8.69464V10.5546H8.24996V8.69464C8.24996 8.28464 8.30997 7.89464 8.42997 7.51464H16.07C16.19 7.89464 16.25 8.28464 16.25 8.69464V10.5546H17.75V8.69464C17.75 8.28464 17.71 7.89464 17.62 7.51464L22.04 7.51464Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Bag 1 — light style variants.
+class _EssentialBag1Light {
+  const _EssentialBag1Light();
+
+  /// Bag 1 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.7499 9.47167V6.43967C15.7549 4.35167 14.0659 2.65467 11.9779 2.64967C9.88887 2.64567 8.19287 4.33467 8.18787 6.42267V9.47167" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.94995 14.2074C2.94995 8.91344 5.20495 7.14844 11.969 7.14844C18.733 7.14844 20.988 8.91344 20.988 14.2074C20.988 19.5004 18.733 21.2654 11.969 21.2654C5.20495 21.2654 2.94995 19.5004 2.94995 14.2074Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+  /// Bag 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Bag 2</title>     <g id="Iconly/Light/Bag-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Bag-2" transform="translate(3.000000, 2.500000)" stroke="#000000" stroke-width="1.5">             <path d="M12.7729,6.80503597 L12.7729,3.77303597 C12.7729,1.68903597 11.0839,-1.42108547e-14 9.0009,-1.42108547e-14 C6.9169,-0.00896402892 5.2199,1.67203597 5.2109,3.75603597 L5.2109,3.77303597 L5.2109,6.80503597" id="Stroke-1"></path>             <path d="M13.7422153,18.500336 L4.2577847,18.500336 C1.90569395,18.500336 0,16.595336 0,14.245336 L0,8.72933597 C0,6.37933597 1.90569395,4.47433597 4.2577847,4.47433597 L13.7422153,4.47433597 C16.094306,4.47433597 18,6.37933597 18,8.72933597 L18,14.245336 C18,16.595336 16.094306,18.500336 13.7422153,18.500336 Z" id="Stroke-3"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+  /// Bag 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Bag 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.9996 9.6842V8.5723C16.9996 5.94933 14.8732 3.823 12.2503 3.823C9.62731 3.823 7.50098 5.94933 7.50098 8.5723V9.6842" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.4369 21.2463L21.5 7.89379L3 7.89379L4.06307 21.2463L20.4369 21.2463Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Bag 2 icon with style variants.
+class _EssentialBag2Icon {
+  const _EssentialBag2Icon();
+
+  /// bold style
+  _EssentialBag2Bold get bold => const _EssentialBag2Bold();
+  /// bulk style
+  _EssentialBag2Bulk get bulk => const _EssentialBag2Bulk();
+  /// light style
+  _EssentialBag2Light get light => const _EssentialBag2Light();
+  /// outline style
+  _EssentialBag2Outline get outline => const _EssentialBag2Outline();
+  /// twoTone style
+  _EssentialBag2Twotone get twoTone => const _EssentialBag2Twotone();
+  /// broken style
+  _EssentialBag2Broken get broken => const _EssentialBag2Broken();
+}
+
+/// Bag 2 — bulk style variants.
+class _EssentialBag2Bulk {
+  const _EssentialBag2Bulk();
+
+  /// Bag 2 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Bag 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M2.5 6.95215V12.3921C2.5 17.7721 6.87 22.1421 12.25 22.1421C17.63 22.1421 22 17.7721 22 12.3921V6.95215H2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.48048 6.87493C7.49183 4.24547 9.63258 2.12481 12.2611 2.13529C14.8891 2.13617 17.0194 4.26727 17.0194 6.89625V10.8695H15.5194V6.89625C15.5194 5.0949 14.0595 3.63529 12.2595 3.63529H12.2563C10.4552 3.62751 8.98907 5.07973 8.98047 6.87988V10.8695H7.48047L7.48048 6.87493Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Bag 2 — broken style variants.
+class _EssentialBag2Broken {
+  const _EssentialBag2Broken();
+
+  /// Bag 2 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Bag 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.2695 9.90079V6.67779C16.2695 4.46179 14.4745 2.66679 12.2595 2.66679C10.0445 2.65679 8.24047 4.44379 8.23047 6.65979V6.67779V9.90079" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/> <path d="M16.282 20.6886C19.371 19.1906 21.5 16.0246 21.5 12.3606V7.42261H3V12.3606C3 17.4696 7.141 21.6106 12.25 21.6106" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Bag 2 — twoTone style variants.
+class _EssentialBag2Twotone {
+  const _EssentialBag2Twotone();
+
+  /// Bag 2 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Bag 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M16.2694 9.90072V6.6775C16.2694 4.46206 14.4739 2.66654 12.2595 2.66654C10.0441 2.65697 8.24004 4.44399 8.23047 6.65942V6.6775V9.90072" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 21.6107C17.3586 21.6107 21.5 17.4694 21.5 12.3607L21.5 7.42328L3 7.42328L3 12.3607C3 17.4694 7.14137 21.6107 12.25 21.6107V21.6107Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Bag 2 — outline style variants.
+class _EssentialBag2Outline {
+  const _EssentialBag2Outline();
+
+  /// Bag 2 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Bag 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.48048 7.15618C7.49183 4.52672 9.63258 2.40606 12.2611 2.41654C14.8891 2.41742 17.0194 4.54852 17.0194 7.1775V11.1507H15.5194V7.1775C15.5194 5.37615 14.0595 3.91654 12.2595 3.91654H12.2563C10.4552 3.90876 8.98907 5.36098 8.98047 7.16113V11.1507H7.48047L7.48048 7.15618Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 22.8608C6.72715 22.8608 2.25 18.3836 2.25 12.8608L2.25 7.17334L22.25 7.17334L22.25 12.8608C22.25 18.3836 17.7728 22.8608 12.25 22.8608ZM3.75 12.8608C3.75 17.5552 7.55558 21.3608 12.25 21.3608C16.9444 21.3608 20.75 17.5552 20.75 12.8608L20.75 8.67334L3.75 8.67334L3.75 12.8608Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Bag 2 — bold style variants.
+class _EssentialBag2Bold {
+  const _EssentialBag2Bold();
+
+  /// Bag 2 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Bag 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.98001 6.7837C8.99001 4.9937 10.45 3.5437 12.24 3.5437C14.09 3.5337 15.52 4.9937 15.52 6.8037V7.0437H17.02V6.8037C17.02 4.1737 14.88 2.0437 12.26 2.0437H12.24C9.63001 2.0437 7.49001 4.1637 7.48001 6.8037V7.0437H8.98001V6.7837Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.02 7.0437L17.02 10.7737H15.52L15.52 7.0437H8.98001L8.98 10.7737H7.48L7.48001 7.0437H2.5V12.4837C2.5 17.8637 6.87 22.2337 12.25 22.2337C17.63 22.2337 22 17.8637 22 12.4837V7.0437H17.02Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Bag 2 — light style variants.
+class _EssentialBag2Light {
+  const _EssentialBag2Light();
+
+  /// Bag 2 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Bag 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.2694 9.90072V6.6775C16.2694 4.46206 14.4739 2.66654 12.2595 2.66654C10.0441 2.65697 8.24004 4.44399 8.23047 6.65942V6.6775V9.90072" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 21.6108C17.3586 21.6108 21.5 17.4695 21.5 12.3608L21.5 7.4234L3 7.4234L3 12.3608C3 17.4695 7.14137 21.6108 12.25 21.6108V21.6108Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.sharp,
@@ -2794,7 +4072,7 @@ class _EssentialHomeBulk {
   /// Home — bulk / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Home',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.1469 2.33215L3.30688 8.68615V21.9452H21.1929V8.68315L12.1469 2.33215Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.2053 17.2744V12.1954H14.3273V17.2744H10.2053Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.25 2.00598L1.12598 11.538L2.10298 12.677L3.84298 11.186V21.994H20.66V11.188L22.397 12.677L23.374 11.538L12.25 2.00598Z" fill="black"/> <path d="M13 17.1069H11.5V12.1979H13V17.1069Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.sharp,
@@ -2827,7 +4105,7 @@ class _EssentialHomeBroken {
   /// Home — broken / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Home',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.7054 16.3097H14.8274V21.3887H20.6934V8.88567L12.1504 2.88867L3.8064 8.88567V21.3887H9.7054" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2.18408 11.3751L12.2501 2.75012L22.3161 11.3751" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.562 21.2498H20.16V10.1588" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M4.34277 10.1588V21.2498H12.0818" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2495 12.7047V16.1127" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.sharp,
@@ -2860,7 +4138,7 @@ class _EssentialHomeTwotone {
   /// Home — twoTone / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Home',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.70642 21.3887H3.80664V8.88605L12.1508 2.88867L20.6937 8.88605V21.3887H14.8281" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M9.70642 21.3887V16.3098H14.8281V21.3887" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2.18359 11.3755L12.2498 2.75L22.3159 11.3755" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M4.34277 10.1592V21.2501H20.1603V10.1592" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M12.2498 12.7048L12.2498 16.1132" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.sharp,
@@ -2893,7 +4171,7 @@ class _EssentialHomeOutline {
   /// Home — outline / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Home',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1457 2.46869L21.4437 8.99618V22.6386H14.0781V17.5597H10.4564V22.6386H3.05664V9.00146L12.1457 2.46869ZM12.1559 4.3086L4.55664 9.77059V21.1386H8.95642V16.0597H15.5781V21.1386H19.9437V9.77587L12.1559 4.3086Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2498 1.76233L23.3735 11.294L22.3975 12.433L12.2498 3.73769L2.10208 12.433L1.12607 11.294L12.2498 1.76233Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.09277 9.40918V20.5001H19.4103V9.40918H20.9103V22.0001H3.59277V9.40918H5.09277Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9998 11.9548L12.9998 16.8632L11.4998 16.8632L11.4998 11.9548L12.9998 11.9548Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.sharp,
@@ -2926,7 +4204,7 @@ class _EssentialHomeBold {
   /// Home — bold / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Home',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1469 2.33215L3.30688 8.68615V21.9452H10.2059V16.8662H14.3279V21.9452H21.1929V8.68315L12.1469 2.33215Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5 17.107H13V12.198H11.5V17.107ZM12.25 2.00598L1.12598 11.538L2.10298 12.677L3.84298 11.186V21.994H20.66V11.188L22.397 12.677L23.374 11.538L12.25 2.00598Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.sharp,
@@ -2959,6 +4237,114 @@ class _EssentialHomeLight {
   /// Home — light / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Home',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2.18384 11.3755L12.25 2.75L22.3162 11.3755" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M4.34302 10.1592V21.2501H20.1606V10.1592" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.25 12.7048L12.25 16.1132" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Home 1 icon with style variants.
+class _EssentialHome1Icon {
+  const _EssentialHome1Icon();
+
+  /// bold style
+  _EssentialHome1Bold get bold => const _EssentialHome1Bold();
+  /// bulk style
+  _EssentialHome1Bulk get bulk => const _EssentialHome1Bulk();
+  /// light style
+  _EssentialHome1Light get light => const _EssentialHome1Light();
+  /// outline style
+  _EssentialHome1Outline get outline => const _EssentialHome1Outline();
+  /// twoTone style
+  _EssentialHome1Twotone get twoTone => const _EssentialHome1Twotone();
+  /// broken style
+  _EssentialHome1Broken get broken => const _EssentialHome1Broken();
+}
+
+/// Home 1 — bulk style variants.
+class _EssentialHome1Bulk {
+  const _EssentialHome1Bulk();
+
+  /// Home 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Home 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.1469 2.33215L3.30688 8.68615V21.9452H21.1929V8.68315L12.1469 2.33215Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.2053 17.2744V12.1954H14.3273V17.2744H10.2053Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Home 1 — broken style variants.
+class _EssentialHome1Broken {
+  const _EssentialHome1Broken();
+
+  /// Home 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Home 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.7054 16.3097H14.8274V21.3887H20.6934V8.88567L12.1504 2.88867L3.8064 8.88567V21.3887H9.7054" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Home 1 — twoTone style variants.
+class _EssentialHome1Twotone {
+  const _EssentialHome1Twotone();
+
+  /// Home 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Home 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.70642 21.3887H3.80664V8.88605L12.1508 2.88867L20.6937 8.88605V21.3887H14.8281" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M9.70642 21.3887V16.3098H14.8281V21.3887" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Home 1 — outline style variants.
+class _EssentialHome1Outline {
+  const _EssentialHome1Outline();
+
+  /// Home 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Home 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1457 2.46869L21.4437 8.99618V22.6386H14.0781V17.5597H10.4564V22.6386H3.05664V9.00146L12.1457 2.46869ZM12.1559 4.3086L4.55664 9.77059V21.1386H8.95642V16.0597H15.5781V21.1386H19.9437V9.77587L12.1559 4.3086Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Home 1 — bold style variants.
+class _EssentialHome1Bold {
+  const _EssentialHome1Bold();
+
+  /// Home 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Home 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1469 2.33215L3.30688 8.68615V21.9452H10.2059V16.8662H14.3279V21.9452H21.1929V8.68315L12.1469 2.33215Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Home 1 — light style variants.
+class _EssentialHome1Light {
+  const _EssentialHome1Light();
+
+  /// Home 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Home 1',
     svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.70624 21.3887V16.3098H14.8279V21.3887H20.6935V8.88605L12.1506 2.88867L3.80646 8.88605V21.3887H9.70624Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
@@ -3390,6 +4776,222 @@ class _EssentialFilterLight {
 
 }
 
+/// Filter 1 icon with style variants.
+class _EssentialFilter1Icon {
+  const _EssentialFilter1Icon();
+
+  /// bold style
+  _EssentialFilter1Bold get bold => const _EssentialFilter1Bold();
+  /// bulk style
+  _EssentialFilter1Bulk get bulk => const _EssentialFilter1Bulk();
+  /// light style
+  _EssentialFilter1Light get light => const _EssentialFilter1Light();
+  /// outline style
+  _EssentialFilter1Outline get outline => const _EssentialFilter1Outline();
+  /// twoTone style
+  _EssentialFilter1Twotone get twoTone => const _EssentialFilter1Twotone();
+  /// broken style
+  _EssentialFilter1Broken get broken => const _EssentialFilter1Broken();
+}
+
+/// Filter 1 — bulk style variants.
+class _EssentialFilter1Bulk {
+  const _EssentialFilter1Bulk();
+
+  /// Filter 1 — bulk / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 3.10519H11.979C8.932 3.09419 6.72 3.10419 5.226 3.50919C3.537 3.96719 2.75 4.98319 2.75 6.70519C2.75 8.84278 4.67625 10.4806 6.53891 12.0643L6.54 12.0652C8.182 13.4592 9.733 14.7782 9.733 16.2032C9.733 19.6278 9.733 22.1032 12.25 22.1052V3.10519Z" fill="black"/> <path opacity="0.4" d="M12.2529 22.1052L12.25 3.10522H12.5181C15.574 3.1062 17.7781 3.10425 19.2729 3.50903C20.9619 3.96704 21.75 4.98315 21.75 6.70532C21.75 8.84302 19.823 10.4812 17.96 12.0652C16.3169 13.4592 14.7671 14.7781 14.7671 16.2034C14.7671 19.6292 14.7671 22.1052 12.2529 22.1052Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.curved,
+  );
+
+  /// Filter 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bulk/Filter 2</title>     <g id="Iconly/Bulk/Filter-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Filter-2" transform="translate(3.000000, 3.000000)" fill="#000000" fill-rule="nonzero">             <path d="M11.5714983,10.5941066 L17.4266023,4.72013663 C17.7929126,4.35182823 18,3.84877286 18,3.32375872 L18,1.60099369 C18,0.520023511 17.1423455,-1.59872116e-15 16.0844413,-1.59872116e-15 L1.91555869,-1.59872116e-15 C0.857654529,-1.59872116e-15 0,0.520023511 0,1.60099369 L0,3.35470062 C0,3.85176724 0.184620394,4.33086759 0.517718565,4.69418536 L5.89710751,10.5631647 C5.99869756,10.6739567 6.14033755,10.7368386 6.28979215,10.7378367 L11.1915125,10.7518236 C11.3331524,10.7528086 11.4699083,10.6969136 11.5714983,10.5941066" id="Fill-1"></path>             <path d="M6.05633038,10.6857346 L6.05633038,17.2903326 C6.05633038,17.5308809 6.17745699,17.7574554 6.37575297,17.8872118 C6.48906496,17.9620712 6.61995984,18 6.75085472,18 C6.8495143,18 6.94817388,17.9790394 7.03999566,17.9371181 L11.0059152,16.0885892 C11.2540294,15.9738047 11.4132523,15.7212789 11.4132523,15.4428018 L11.4132523,10.6857346 L6.05633038,10.6857346 Z" id="Fill-4" opacity="0.400000006"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+  /// Filter 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2.75 7.80302V3.39502H12.25V20.738L9.5 21.813V14.69L2.75 7.80302Z" fill="black"/> <path opacity="0.4" d="M15 14.69V19.663L12.25 20.738V3.39502H21.75V7.80302L15 14.69Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Filter 1 — broken style variants.
+class _EssentialFilter1Broken {
+  const _EssentialFilter1Broken();
+
+  /// Filter 1 — broken / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.695 3.06104C19.81 3.22704 21.25 3.83904 21.25 6.10104C21.25 9.82704 14.267 12.205 14.267 15.6C14.267 18.994 14.264 21 12.254 21C10.242 21 10.234 18.994 10.234 15.6C10.234 12.205 3.25 9.82704 3.25 6.10104C3.25 2.95304 6.04 3.00004 12.249 3.00004" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.curved,
+  );
+
+  /// Filter 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.53723 12.4211L8.5351 12.4243L3.68936 7.27177C3.24719 6.80158 3 6.17647 3 5.52644V4.5904C3 3.71286 3.70108 3 4.56517 3H12.0005" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.99902 16.0233V20.5952C9.99902 20.9007 10.3187 21.0957 10.584 20.9516L13.3435 19.4479C13.7601 19.2204 14.0201 18.7784 14.0201 18.2984V16.0114C14.0201 14.6691 14.539 13.3799 15.4659 12.4243L20.3117 7.27177C20.7528 6.80158 21 6.17647 21 5.52644V4.5904C21 3.71286 20.3 3 19.4359 3H15.7182" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+  /// Filter 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.101 4.01099H3.25V7.71499L10 14.602V21.197L14.5 19.438V14.602L21.25 7.71499V4.01099" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Filter 1 — twoTone style variants.
+class _EssentialFilter1Twotone {
+  const _EssentialFilter1Twotone();
+
+  /// Filter 1 — twoTone / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M11.1437 18.2788H4.67114" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.2051 18.2797C15.2051 20.3214 15.886 21.0014 17.9269 21.0014C19.9678 21.0014 20.6487 20.3214 20.6487 18.2797C20.6487 16.2379 19.9678 15.5579 17.9269 15.5579C15.886 15.5579 15.2051 16.2379 15.2051 18.2797Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.1768 7.79014H20.6484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1154 7.78881C10.1154 5.74791 9.43448 5.06702 7.39358 5.06702C5.35179 5.06702 4.6709 5.74791 4.6709 7.78881C4.6709 9.8306 5.35179 10.5106 7.39358 10.5106C9.43448 10.5106 10.1154 9.8306 10.1154 7.78881Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.curved,
+  );
+
+  /// Filter 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Filter 2</title>     <g id="Iconly/Two-tone/Filter-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Filter" transform="translate(3.000000, 3.000000)" stroke="#000000" stroke-width="1.5">             <path d="M1.56517107,0 C0.701077306,0 0,0.712864241 0,1.59040229 L0,2.52644287 C0,3.17647105 0.247188351,3.80158149 0.689357168,4.27176854 L5.53510122,9.42432527 L5.53723215,9.42107513 C6.47271221,10.3787833 6.99905292,11.6734228 6.99905292,13.0233146 L6.99905292,17.5951795 C6.99905292,17.9006928 7.31869303,18.0957012 7.58399432,17.9516117 L10.3435539,16.4478798 C10.7601515,16.2203699 11.0201255,15.7783508 11.0201255,15.2984133 L11.0201255,13.0113975 C11.0201255,11.6690893 11.5390079,10.3798667 12.4659642,9.42432527 L17.3117083,4.27176854 C17.7528116,3.80158149 18,3.17647105 18,2.52644287 L18,1.59040229 C18,0.712864241 17.2999882,0 16.4358944,0 L1.56517107,0 Z" id="Stroke-1"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+  /// Filter 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.875 11.1584L14.5 14.6017V19.4379L10 21.1966V14.6017L6.625 11.1584" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M17.875 11.1585L21.25 7.71525V4.01074H12.25H3.25V7.71525L6.625 11.1585" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Filter 1 — outline style variants.
+class _EssentialFilter1Outline {
+  const _EssentialFilter1Outline();
+
+  /// Filter 1 — outline / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.11344 5.15931C3.8993 5.42102 3.75 5.81864 3.75 6.49682C3.75 7.1828 4.06966 7.86521 4.67161 8.60072C5.27625 9.33952 6.09595 10.0496 6.9777 10.7993C7.02353 10.8383 7.06956 10.8774 7.11573 10.9166C7.93293 11.6108 8.79676 12.3447 9.46026 13.1133C10.1605 13.9245 10.7337 14.881 10.7337 15.9955C10.7337 17.7389 10.7424 18.9658 10.9628 19.7705C11.0674 20.1526 11.1988 20.3505 11.3253 20.458C11.4401 20.5557 11.6298 20.646 12.0037 20.646C12.3773 20.646 12.5661 20.5557 12.6801 20.4586C12.8058 20.3515 12.9367 20.1539 13.0408 19.7715C13.26 18.9664 13.2673 17.7394 13.2673 15.9955C13.2673 14.881 13.8405 13.9245 14.5406 13.1134C15.204 12.3447 16.0677 11.6109 16.8848 10.9167C16.9309 10.8774 16.977 10.8383 17.0228 10.7994C17.9044 10.0496 18.724 9.33956 19.3285 8.60076C19.9304 7.86526 20.25 7.18283 20.25 6.49682C20.25 5.81864 20.1007 5.42102 19.8866 5.15933C19.667 4.891 19.2944 4.66139 18.6405 4.49206C17.9835 4.32188 17.1175 4.23154 15.9962 4.1873C14.9431 4.14575 13.708 4.14587 12.2628 4.14602C12.1758 4.14603 12.088 4.14604 11.9995 4.14604C11.9109 4.14604 11.8232 4.14603 11.7361 4.14602C10.2912 4.14587 9.05635 4.14575 8.00338 4.1873C6.88223 4.23154 6.01634 4.32188 5.35935 4.49205C4.7056 4.66139 4.33301 4.89099 4.11344 5.15931ZM11.7231 2.64602C11.8145 2.64603 11.9067 2.64604 11.9995 2.64604C12.0923 2.64604 12.1844 2.64603 12.2759 2.64602C13.7077 2.64585 14.9713 2.64569 16.0553 2.68846C17.2038 2.73378 18.1998 2.82842 19.0166 3.03997C19.8366 3.25235 20.5497 3.60121 21.0474 4.20938C21.5505 4.82418 21.75 5.6011 21.75 6.49682C21.75 7.67398 21.1968 8.6862 20.4894 9.55069C19.7847 10.4119 18.8586 11.2072 17.9946 11.942C17.9604 11.9711 17.9264 12 17.8924 12.0288C17.043 12.751 16.2612 13.4156 15.6762 14.0934C15.067 14.7992 14.7673 15.4128 14.7673 15.9955L14.7673 16.091C14.7675 17.7026 14.7676 19.1393 14.4881 20.1656C14.3401 20.7092 14.0932 21.2252 13.6529 21.6004C13.2009 21.9855 12.6354 22.146 12.0037 22.146C11.3719 22.146 10.8062 21.9855 10.3538 21.6009C9.91289 21.2262 9.66497 20.7104 9.51606 20.1667C9.2336 19.1354 9.23366 17.6903 9.23372 16.0693L9.23372 15.9955C9.23372 15.4129 8.93403 14.7993 8.32478 14.0935C7.73969 13.4157 6.95777 12.751 6.10816 12.0289C6.07422 12 6.04017 11.9711 6.00602 11.9421C5.14184 11.2072 4.21561 10.4119 3.5108 9.55073C2.8033 8.68625 2.25 7.67402 2.25 6.49682C2.25 5.6011 2.44949 4.82419 2.95256 4.20939C3.45021 3.60122 4.16326 3.25236 4.98323 3.03997C5.79996 2.82842 6.79587 2.73378 7.94423 2.68846C9.02812 2.64569 10.2916 2.64585 11.7231 2.64602Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.curved,
+  );
+
+  /// Filter 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Filter 2</title>     <g id="Iconly/Light-Outline/Filter-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Filter-2" transform="translate(2.000000, 2.000000)" fill="#000000">             <path d="M6.7734,9.5987 C6.7914,9.6147 6.8084,9.6297 6.8254,9.6477 C7.9044,10.7537 8.4994,12.2187 8.4994,13.7737 L8.4994,17.7577 L10.7354,16.5397 C10.9114,16.4437 11.0204,16.2557 11.0204,16.0487 L11.0204,13.7617 C11.0204,12.2127 11.6094,10.7527 12.6784,9.6527 L17.5154,4.5077 C17.8284,4.1747 18.0004,3.7377 18.0004,3.2767 L18.0004,2.3407 C18.0004,1.8767 17.6344,1.4997 17.1864,1.4997 L2.3154,1.4997 C1.8664,1.4997 1.5004,1.8767 1.5004,2.3407 L1.5004,3.2767 C1.5004,3.7377 1.6724,4.1747 1.9854,4.5067 L6.7734,9.5987 Z M8.1464,19.5007 C7.9444,19.5007 7.7444,19.4467 7.5624,19.3387 C7.2104,19.1287 6.9994,18.7577 6.9994,18.3457 L6.9994,13.7737 C6.9994,12.6387 6.5764,11.5697 5.8054,10.7507 C5.7824,10.7317 5.7594,10.7107 5.7394,10.6887 L0.8934,5.5357 C0.3174,4.9237 0.0004,4.1207 0.0004,3.2767 L0.0004,2.3407 C0.0004,1.0497 1.0394,-0.0003 2.3154,-0.0003 L17.1864,-0.0003 C18.4614,-0.0003 19.5004,1.0497 19.5004,2.3407 L19.5004,3.2767 C19.5004,4.1197 19.1834,4.9217 18.6094,5.5347 L13.7624,10.6887 C12.9594,11.5167 12.5204,12.6057 12.5204,13.7617 L12.5204,16.0487 C12.5204,16.8047 12.1114,17.4967 11.4534,17.8567 L8.6924,19.3607 C8.5204,19.4537 8.3334,19.5007 8.1464,19.5007 L8.1464,19.5007 Z" id="Fill-1"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+  /// Filter 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<svg width="25" height="26" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.5 3.76074H22V8.52152L15.25 15.408V20.4501L9.25 22.7951V15.408L2.5 8.52152V3.76074ZM4 5.26074V7.90898L10.75 14.7955V20.5983L13.75 19.4258V14.7955L20.5 7.90897V5.26074H4Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Filter 1 — bold style variants.
+class _EssentialFilter1Bold {
+  const _EssentialFilter1Bold();
+
+  /// Filter 1 — bold / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.273 3.50895C17.778 3.10395 15.574 3.10595 12.518 3.10495H11.979C8.932 3.09395 6.72 3.10395 5.226 3.50895C3.537 3.96695 2.75 4.98295 2.75 6.70495C2.75 8.84295 4.677 10.4809 6.54 12.0649C8.182 13.4589 9.733 14.7779 9.733 16.2029C9.733 19.6289 9.733 22.1049 12.253 22.1049C14.767 22.1049 14.767 19.6289 14.767 16.2029C14.767 14.7779 16.317 13.4589 17.96 12.0649C19.823 10.4809 21.75 8.84295 21.75 6.70495C21.75 4.98295 20.962 3.96695 19.273 3.50895Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.curved,
+  );
+
+  /// Filter 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Filter 2</title>     <g id="Iconly/Bold/Filter-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Filter-2" transform="translate(2.000000, 2.000000)" fill="#000000" fill-rule="nonzero">             <path d="M7.28010296,13.8241391 L12.1346718,13.8389907 C12.4373745,13.8400513 12.6824196,14.0935341 12.6824196,14.4042891 L12.6824196,14.4042891 L12.6824196,17.1353269 C12.6824196,17.4471425 12.5053282,17.7292613 12.2293951,17.8597148 L12.2293951,17.8597148 L7.8227027,19.92894 C7.7197426,19.9766669 7.61060489,20 7.50146718,20 C7.35629344,20 7.21111969,19.9575761 7.08447876,19.8737889 C6.86311454,19.7274265 6.72926641,19.4750044 6.72926641,19.2045521 L6.72926641,19.2045521 L6.72926641,14.3894407 C6.72926641,14.0765645 6.97637066,13.8230818 7.28010296,13.8241391 L7.28010296,13.8241391 Z M17.8718147,3.55271368e-15 C19.047619,3.55271368e-15 20,0.981052431 20,2.19225446 L20,2.19225446 L20,3.72375685 C20,4.31132771 19.770399,4.87556543 19.362677,5.28707715 L19.362677,5.28707715 L12.8576577,11.8670223 C12.7454311,11.9815668 12.5930502,12.0452027 12.4355212,12.0441551 L12.4355212,12.0441551 L6.98893179,12.0271725 C6.82316602,12.0271725 6.66563707,11.9561125 6.55238095,11.8320226 L6.55238095,11.8320226 L0.574517375,5.25738043 C0.204890605,4.85117169 -2.13162821e-14,4.3145095 -2.13162821e-14,3.75769596 L-2.13162821e-14,3.75769596 L-2.13162821e-14,2.19331506 C-2.13162821e-14,0.982113028 0.952380952,3.55271368e-15 2.12818533,3.55271368e-15 L2.12818533,3.55271368e-15 Z"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+  /// Filter 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75 3.39502V7.80302L9.5 14.69V21.813L15 19.663V14.69L21.75 7.80302V3.39502H2.75Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Filter 1 — light style variants.
+class _EssentialFilter1Light {
+  const _EssentialFilter1Light();
+
+  /// Filter 1 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0037 21C9.99225 21 9.98372 18.9937 9.98372 15.5995C9.98372 12.2052 3 9.82718 3 6.10082C3 2.95304 5.79029 3.00004 11.9995 3.00004C18.2097 3.00004 21 2.95304 21 6.10082C21 9.82718 14.0173 12.2052 14.0173 15.5995C14.0173 18.9937 14.0141 21 12.0037 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+  /// Filter 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Filter 2</title>     <g id="Iconly/Light/Filter-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Filter" transform="translate(3.000000, 3.000000)" stroke="#000000" stroke-width="1.5">             <path d="M1.56517107,0 C0.701077306,0 0,0.712864241 0,1.59040229 L0,2.52644287 C0,3.17647105 0.247188351,3.80158149 0.689357168,4.27176854 L5.53510122,9.42432527 L5.53723215,9.42107513 C6.47271221,10.3787833 6.99905292,11.6734228 6.99905292,13.0233146 L6.99905292,17.5951795 C6.99905292,17.9006928 7.31869303,18.0957012 7.58399432,17.9516117 L10.3435539,16.4478798 C10.7601515,16.2203699 11.0201255,15.7783508 11.0201255,15.2984133 L11.0201255,13.0113975 C11.0201255,11.6690893 11.5390079,10.3798667 12.4659642,9.42432527 L17.3117083,4.27176854 C17.7528116,3.80158149 18,3.17647105 18,2.52644287 L18,1.59040229 C18,0.712864241 17.2999882,0 16.4358944,0 L1.56517107,0 Z" id="Stroke-1"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+  /// Filter 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Filter 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.25 4.01099H3.25V7.71549L10 14.602V21.1969L14.5 19.4382V14.602L21.25 7.71549V4.01099Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
 /// Logout icon with style variants.
 class _EssentialLogoutIcon {
   const _EssentialLogoutIcon();
@@ -3433,7 +5035,7 @@ class _EssentialLogoutBulk {
   /// Logout — bulk / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Logout',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.4233 2.38867H1.90332V21.8887H13.4233V2.38867Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8456 11.389C19.8336 11.388 18.0016 9.55597 18.0016 7.54297V6.79297H16.5016V7.54297C16.5016 9.01997 17.1766 10.4 18.2206 11.389L7.18029 11.3889V12.8889L18.2206 12.889C17.1766 13.878 16.5016 15.257 16.5016 16.734V17.484H18.0016V16.734C18.0016 14.722 19.8346 12.889 21.8466 12.889H22.5966V11.389H21.8456Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M2.30687 21.75L13.7681 21.75L13.7681 2.25L2.30687 2.25L2.30687 21.75Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.9601 11.2559L17.4241 8.72794L18.4831 7.66494L22.8371 12.0069L18.4811 16.3359L17.4241 15.2729L19.9561 12.7559L7.5447 12.7559L7.5447 11.2559L19.9601 11.2559Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.sharp,
@@ -3466,7 +5068,7 @@ class _EssentialLogoutBroken {
   /// Logout — broken / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Logout',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2.52515 14.0912V2.96021H13.0491V7.58521" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.0491 16.8357V21.4607H2.52515V18.1597" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M21.9749 12.2117H8.03491" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.3787 7.61548C17.3787 9.97848 19.4597 12.2115 21.9737 12.2115" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.3787 16.8067C17.3787 14.4447 19.4597 12.2117 21.9737 12.2117" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.0187 12H8.24072" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M18.479 8.7251L21.769 12.0001L18.479 15.2761" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.255 16.625V21.25H2.73096V2.75H13.255V7.375" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.sharp,
@@ -3499,7 +5101,7 @@ class _EssentialLogoutTwotone {
   /// Logout — twoTone / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Logout',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.0493 16.7637L13.0493 21.3887L2.52538 21.3887L2.52538 2.88867L13.0493 2.88867L13.0493 7.51367" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M21.9746 12.1396L8.03534 12.1396" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.3789 7.54414C17.3789 9.90662 19.4595 12.1396 21.9744 12.1396" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.3789 16.7352C17.3789 14.3727 19.4595 12.1396 21.9744 12.1396" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.019 11.9997L8.24121 11.9997" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M18.479 8.7251L21.7686 12.0001L18.479 15.2761" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M13.2554 16.625L13.2554 21.25L2.73144 21.25L2.73144 2.75L13.2554 2.75L13.2554 7.375" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.sharp,
@@ -3532,7 +5134,7 @@ class _EssentialLogoutOutline {
   /// Logout — outline / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Logout',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7993 2.63867L13.7993 8.76367L12.2993 8.76367L12.2993 4.13867L3.27538 4.13867L3.27538 21.1387L12.2993 21.1387L12.2993 16.5137L13.7993 16.5137L13.7993 22.6387L1.77538 22.6387L1.77538 2.63867L13.7993 2.63867Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.7246 11.8896L7.28534 11.8896L7.28534 13.3896L22.7246 13.3896L22.7246 11.8896Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.9744 13.3896C19.0294 13.3896 16.6289 10.8048 16.6289 8.04414L16.6289 7.29414L18.1289 7.29414L18.1289 8.04414C18.1289 10.0085 19.8896 11.8896 21.9744 11.8896L22.7244 11.8896L22.7244 13.3896L21.9744 13.3896Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.9744 11.8896C19.0294 11.8896 16.6289 14.4745 16.6289 17.2352L16.6289 17.9852L18.1289 17.9852L18.1289 17.2352C18.1289 15.2708 19.8896 13.3896 21.9744 13.3896L22.7244 13.3896L22.7244 11.8896L21.9744 11.8896Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.49121 11.7497L21.769 11.7497L21.769 13.2497L7.49121 13.2497L7.49121 11.7497Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4766 8.16443L22.8315 12.5L18.4768 16.8368L17.4183 15.774L20.7056 12.5001L17.4184 9.22745L18.4766 8.16443Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0054 2.5L14.0054 8.625L12.5054 8.625L12.5054 4L3.48144 4L3.48143 21L12.5054 21L12.5054 16.375L14.0054 16.375L14.0054 22.5L1.98143 22.5L1.98144 2.5L14.0054 2.5Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.sharp,
@@ -3565,7 +5167,7 @@ class _EssentialLogoutBold {
   /// Logout — bold / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Logout',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.16308 11.4087H13.4231V2.40869H1.90308V21.9087H13.4231V12.9087H7.16308V11.4087Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.846 11.4088C19.834 11.4078 18.002 9.57579 18.002 7.56279V6.81279H16.502V7.56279C16.502 9.03979 17.177 10.4198 18.221 11.4088L13.4231 11.4087V12.9087L18.221 12.9088C17.177 13.8978 16.502 15.2768 16.502 16.7538V17.5038H18.002V16.7538C18.002 14.7418 19.835 12.9088 21.847 12.9088H22.597V11.4088H21.846Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4809 7.6646L17.4229 8.7276L19.9569 11.2496H13.7549V12.7496H19.9569L17.4229 15.2736L18.4819 16.3366L22.8369 11.9996L18.4809 7.6646Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.49532 11.25L13.7549 11.2496L13.7553 2.25H2.23532V21.75H13.7553L13.7549 12.7496L7.49532 12.75V11.25Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.sharp,
@@ -3598,6 +5200,114 @@ class _EssentialLogoutLight {
   /// Logout — light / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Logout',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.019 11.9997L8.24121 11.9997" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M18.479 8.7251L21.7686 12.0001L18.479 15.2761" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.2554 16.625L13.2554 21.25L2.73144 21.25L2.73144 2.75L13.2554 2.75L13.2554 7.375" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Logout 1 icon with style variants.
+class _EssentialLogout1Icon {
+  const _EssentialLogout1Icon();
+
+  /// bold style
+  _EssentialLogout1Bold get bold => const _EssentialLogout1Bold();
+  /// bulk style
+  _EssentialLogout1Bulk get bulk => const _EssentialLogout1Bulk();
+  /// light style
+  _EssentialLogout1Light get light => const _EssentialLogout1Light();
+  /// outline style
+  _EssentialLogout1Outline get outline => const _EssentialLogout1Outline();
+  /// twoTone style
+  _EssentialLogout1Twotone get twoTone => const _EssentialLogout1Twotone();
+  /// broken style
+  _EssentialLogout1Broken get broken => const _EssentialLogout1Broken();
+}
+
+/// Logout 1 — bulk style variants.
+class _EssentialLogout1Bulk {
+  const _EssentialLogout1Bulk();
+
+  /// Logout 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Logout 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.4233 2.38867H1.90332V21.8887H13.4233V2.38867Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8456 11.389C19.8336 11.388 18.0016 9.55597 18.0016 7.54297V6.79297H16.5016V7.54297C16.5016 9.01997 17.1766 10.4 18.2206 11.389L7.18029 11.3889V12.8889L18.2206 12.889C17.1766 13.878 16.5016 15.257 16.5016 16.734V17.484H18.0016V16.734C18.0016 14.722 19.8346 12.889 21.8466 12.889H22.5966V11.389H21.8456Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Logout 1 — broken style variants.
+class _EssentialLogout1Broken {
+  const _EssentialLogout1Broken();
+
+  /// Logout 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Logout 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2.52515 14.0912V2.96021H13.0491V7.58521" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.0491 16.8357V21.4607H2.52515V18.1597" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M21.9749 12.2117H8.03491" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.3787 7.61548C17.3787 9.97848 19.4597 12.2115 21.9737 12.2115" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.3787 16.8067C17.3787 14.4447 19.4597 12.2117 21.9737 12.2117" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Logout 1 — twoTone style variants.
+class _EssentialLogout1Twotone {
+  const _EssentialLogout1Twotone();
+
+  /// Logout 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Logout 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.0493 16.7637L13.0493 21.3887L2.52538 21.3887L2.52538 2.88867L13.0493 2.88867L13.0493 7.51367" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M21.9746 12.1396L8.03534 12.1396" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.3789 7.54414C17.3789 9.90662 19.4595 12.1396 21.9744 12.1396" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.3789 16.7352C17.3789 14.3727 19.4595 12.1396 21.9744 12.1396" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Logout 1 — outline style variants.
+class _EssentialLogout1Outline {
+  const _EssentialLogout1Outline();
+
+  /// Logout 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Logout 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7993 2.63867L13.7993 8.76367L12.2993 8.76367L12.2993 4.13867L3.27538 4.13867L3.27538 21.1387L12.2993 21.1387L12.2993 16.5137L13.7993 16.5137L13.7993 22.6387L1.77538 22.6387L1.77538 2.63867L13.7993 2.63867Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.7246 11.8896L7.28534 11.8896L7.28534 13.3896L22.7246 13.3896L22.7246 11.8896Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.9744 13.3896C19.0294 13.3896 16.6289 10.8048 16.6289 8.04414L16.6289 7.29414L18.1289 7.29414L18.1289 8.04414C18.1289 10.0085 19.8896 11.8896 21.9744 11.8896L22.7244 11.8896L22.7244 13.3896L21.9744 13.3896Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.9744 11.8896C19.0294 11.8896 16.6289 14.4745 16.6289 17.2352L16.6289 17.9852L18.1289 17.9852L18.1289 17.2352C18.1289 15.2708 19.8896 13.3896 21.9744 13.3896L22.7244 13.3896L22.7244 11.8896L21.9744 11.8896Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Logout 1 — bold style variants.
+class _EssentialLogout1Bold {
+  const _EssentialLogout1Bold();
+
+  /// Logout 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Logout 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.16308 11.4087H13.4231V2.40869H1.90308V21.9087H13.4231V12.9087H7.16308V11.4087Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.846 11.4088C19.834 11.4078 18.002 9.57579 18.002 7.56279V6.81279H16.502V7.56279C16.502 9.03979 17.177 10.4198 18.221 11.4088L13.4231 11.4087V12.9087L18.221 12.9088C17.177 13.8978 16.502 15.2768 16.502 16.7538V17.5038H18.002V16.7538C18.002 14.7418 19.835 12.9088 21.847 12.9088H22.597V11.4088H21.846Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Logout 1 — light style variants.
+class _EssentialLogout1Light {
+  const _EssentialLogout1Light();
+
+  /// Logout 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Logout 1',
     svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.0493 16.7637L13.0493 21.3887L2.5254 21.3887L2.5254 2.88867L13.0493 2.88867L13.0493 7.51367" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M21.9746 12.1396L8.03535 12.1396" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.3789 7.54414C17.3789 9.90662 19.4595 12.1396 21.9744 12.1396" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.3789 16.7352C17.3789 14.3727 19.4595 12.1396 21.9744 12.1396" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
@@ -4009,15 +5719,6 @@ class _EssentialTicketBold {
 class _EssentialTicketLight {
   const _EssentialTicketLight();
 
-  /// Ticket — light / curved
-  IconfyIconData get curved => const IconfyIconData(
-    name: 'Ticket',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3C9.96385 3 9.77134 6.54652 8.55911 7.79957C7.34689 9.05263 3.5782 7.61992 3.05459 9.84403C2.53207 12.0693 5.92235 12.8243 6.34036 14.7334C6.76057 16.6426 4.68922 19.3249 6.45916 20.6598C8.22911 21.9936 10.1343 18.9747 12 18.9747C13.8656 18.9747 15.7709 21.9936 17.5408 20.6598C19.3108 19.3249 17.2405 16.6426 17.6596 14.7334C18.0787 12.8243 21.4679 12.0693 20.9454 9.84403C20.4229 7.61992 16.6531 9.05263 15.442 7.79957C14.2297 6.54652 14.0361 3 12 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.light,
-    type: IconfyType.curved,
-  );
-
   /// Ticket — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Ticket',
@@ -4038,6 +5739,52 @@ class _EssentialTicketLight {
 
 }
 
+/// Ticket 1 icon with style variants.
+class _EssentialTicket1Icon {
+  const _EssentialTicket1Icon();
+
+  /// light style
+  _EssentialTicket1Light get light => const _EssentialTicket1Light();
+}
+
+/// Ticket 1 — light style variants.
+class _EssentialTicket1Light {
+  const _EssentialTicket1Light();
+
+  /// Ticket 1 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Ticket 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3C9.96385 3 9.77134 6.54652 8.55911 7.79957C7.34689 9.05263 3.5782 7.61992 3.05459 9.84403C2.53207 12.0693 5.92235 12.8243 6.34036 14.7334C6.76057 16.6426 4.68922 19.3249 6.45916 20.6598C8.22911 21.9936 10.1343 18.9747 12 18.9747C13.8656 18.9747 15.7709 21.9936 17.5408 20.6598C19.3108 19.3249 17.2405 16.6426 17.6596 14.7334C18.0787 12.8243 21.4679 12.0693 20.9454 9.84403C20.4229 7.61992 16.6531 9.05263 15.442 7.79957C14.2297 6.54652 14.0361 3 12 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+}
+
+/// Ticket 2 icon with style variants.
+class _EssentialTicket2Icon {
+  const _EssentialTicket2Icon();
+
+  /// light style
+  _EssentialTicket2Light get light => const _EssentialTicket2Light();
+}
+
+/// Ticket 2 — light style variants.
+class _EssentialTicket2Light {
+  const _EssentialTicket2Light();
+
+  /// Ticket 2 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Ticket 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3C9.96385 3 9.77134 6.54652 8.55911 7.79957C7.34689 9.05263 3.5782 7.61992 3.05459 9.84403C2.53207 12.0693 5.92235 12.8243 6.34036 14.7334C6.76057 16.6426 4.68922 19.3249 6.45916 20.6598C8.22911 21.9936 10.1343 18.9747 12 18.9747C13.8656 18.9747 15.7709 21.9936 17.5408 20.6598C19.3108 19.3249 17.2405 16.6426 17.6596 14.7334C18.0787 12.8243 21.4679 12.0693 20.9454 9.84403C20.4229 7.61992 16.6531 9.05263 15.442 7.79957C14.2297 6.54652 14.0361 3 12 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+}
+
 /// Arrow - Left Circle icon with style variants.
 class _EssentialArrowLeftCircleIcon {
   const _EssentialArrowLeftCircleIcon();
@@ -4052,22 +5799,11 @@ class _EssentialArrowLeftCircleIcon {
   _EssentialArrowLeftCircleOutline get outline => const _EssentialArrowLeftCircleOutline();
   /// twoTone style
   _EssentialArrowLeftCircleTwotone get twoTone => const _EssentialArrowLeftCircleTwotone();
-  /// broken style
-  _EssentialArrowLeftCircleBroken get broken => const _EssentialArrowLeftCircleBroken();
 }
 
 /// Arrow - Left Circle — bulk style variants.
 class _EssentialArrowLeftCircleBulk {
   const _EssentialArrowLeftCircleBulk();
-
-  /// Arrow - Left Circle — bulk / curved
-  IconfyIconData get curved => const IconfyIconData(
-    name: 'Arrow - Left Circle',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.25 2.25C5.051 2.25 2.5 4.802 2.5 12C2.5 19.199 5.051 21.75 12.25 21.75C19.448 21.75 22 19.199 22 12C22 4.802 19.448 2.25 12.25 2.25Z" fill="black"/> <path d="M14.307 15.896C14.542 15.554 14.455 15.087 14.114 14.853C12.53 13.764 11.054 12.417 10.958 12.032C11.054 11.585 12.53 10.238 14.114 9.14798C14.456 8.91298 14.542 8.44598 14.307 8.10498C14.073 7.76398 13.608 7.67798 13.264 7.91198C11.843 8.88798 9.45996 10.718 9.45996 12.001C9.45996 13.285 11.843 15.114 13.264 16.089C13.394 16.178 13.542 16.221 13.688 16.221C13.927 16.221 14.162 16.108 14.307 15.896Z" fill="black"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.bulk,
-    type: IconfyType.curved,
-  );
 
   /// Arrow - Left Circle — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -4078,62 +5814,11 @@ class _EssentialArrowLeftCircleBulk {
     type: IconfyType.regular,
   );
 
-  /// Arrow - Left Circle — bulk / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'Arrow - Left Circle',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M22 12C22 17.376 17.626 21.75 12.25 21.75C6.874 21.75 2.5 17.376 2.5 12C2.5 6.624 6.874 2.25 12.25 2.25C17.626 2.25 22 6.624 22 12Z" fill="black"/> <path d="M13.6949 16.5298L9.14393 11.9998L13.6949 7.46978L14.7529 8.53278L11.2699 11.9998L14.7529 15.4668L13.6949 16.5298Z" fill="black"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.bulk,
-    type: IconfyType.sharp,
-  );
-
-}
-
-/// Arrow - Left Circle — broken style variants.
-class _EssentialArrowLeftCircleBroken {
-  const _EssentialArrowLeftCircleBroken();
-
-  /// Arrow - Left Circle — broken / curved
-  IconfyIconData get curved => const IconfyIconData(
-    name: 'Arrow - Left Circle',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.413 21.036C19.911 20.325 21.5 17.752 21.5 12C21.5 5.063 19.189 2.75 12.25 2.75C5.31 2.75 3 5.063 3 12C3 18.937 5.31 21.25 12.25 21.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6895 8.52917C13.6895 8.52917 10.2095 10.9212 10.2095 12.0012C10.2095 13.0812 13.6895 15.4712 13.6895 15.4712" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.broken,
-    type: IconfyType.curved,
-  );
-
-  /// Arrow - Left Circle — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Arrow - Left Circle',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2.75 12V7.916C2.75 4.889 4.635 2.75 7.665 2.75H16.334C19.364 2.75 21.25 4.889 21.25 7.916V16.084C21.25 19.111 19.364 21.25 16.334 21.25H7.665C4.645 21.25 2.75 19.111 2.75 16.084V15.3161" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.91394 11.9999L16.0859 11.9999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6777 15.7479L10.7367 14.8109L10.2662 14.3424M7.91373 11.9999L11.6777 8.25189" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-  /// Arrow - Left Circle — broken / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'Arrow - Left Circle',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.443 20.248C19.445 18.719 21.5 15.6 21.5 12C21.5 6.891 17.36 2.75 12.25 2.75C7.14 2.75 3 6.891 3 12C3 17.108 7.14 21.25 12.25 21.25" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.69 8.5293L10.21 12.0003L13.69 15.4713" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.broken,
-    type: IconfyType.sharp,
-  );
-
 }
 
 /// Arrow - Left Circle — twoTone style variants.
 class _EssentialArrowLeftCircleTwotone {
   const _EssentialArrowLeftCircleTwotone();
-
-  /// Arrow - Left Circle — twoTone / curved
-  IconfyIconData get curved => const IconfyIconData(
-    name: 'Arrow - Left Circle',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.91418 12.0001L16.0862 12.0001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6782 15.7521C11.6782 15.7521 7.91422 13.2241 7.91422 12.0001C7.91422 10.7761 11.6782 8.25208 11.6782 8.25208" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12 2.75012C5.063 2.75012 2.75 5.06312 2.75 12.0001C2.75 18.9371 5.063 21.2501 12 21.2501C18.937 21.2501 21.25 18.9371 21.25 12.0001C21.25 5.06312 18.937 2.75012 12 2.75012Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.curved,
-  );
 
   /// Arrow - Left Circle — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -4144,29 +5829,11 @@ class _EssentialArrowLeftCircleTwotone {
     type: IconfyType.regular,
   );
 
-  /// Arrow - Left Circle — twoTone / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'Arrow - Left Circle',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3 21.25L3 2.75L21.5 2.75L21.5 21.25L3 21.25Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> <path d="M8.9117 12L16.3359 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M11.9277 8.25205L8.16373 12L11.9277 15.748" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.sharp,
-  );
-
 }
 
 /// Arrow - Left Circle — outline style variants.
 class _EssentialArrowLeftCircleOutline {
   const _EssentialArrowLeftCircleOutline();
-
-  /// Arrow - Left Circle — outline / curved
-  IconfyIconData get curved => const IconfyIconData(
-    name: 'Arrow - Left Circle',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.6687 16.5021C11.5247 16.5021 11.3797 16.4611 11.2507 16.3741C10.0217 15.5471 7.15967 13.4651 7.15967 12.0001C7.15967 10.5351 10.0217 8.45507 11.2517 7.62907C11.5957 7.39807 12.0617 7.49007 12.2917 7.83407C12.5227 8.17807 12.4317 8.64407 12.0877 8.87507C10.9125 9.66499 9.80665 10.5824 9.18219 11.25H16.0802C16.4942 11.25 16.8302 11.586 16.8302 12C16.8302 12.414 16.4942 12.75 16.0802 12.75H9.17412C9.79716 13.4121 10.9077 14.3354 12.0887 15.1301C12.4327 15.3611 12.5227 15.8271 12.2917 16.1711C12.1477 16.3861 11.9097 16.5021 11.6687 16.5021Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2 12C2 19.383 4.617 22 12 22C19.383 22 22 19.383 22 12C22 4.617 19.383 2 12 2C4.617 2 2 4.617 2 12ZM3.5 12C3.5 5.486 5.486 3.5 12 3.5C18.514 3.5 20.5 5.486 20.5 12C20.5 18.514 18.514 20.5 12 20.5C5.486 20.5 3.5 18.514 3.5 12Z" fill="black"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.outline,
-    type: IconfyType.curved,
-  );
 
   /// Arrow - Left Circle — outline / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -4177,29 +5844,11 @@ class _EssentialArrowLeftCircleOutline {
     type: IconfyType.regular,
   );
 
-  /// Arrow - Left Circle — outline / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'Arrow - Left Circle',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.25 22L22.25 2L2.25 2L2.25 22L22.25 22ZM20.75 20.5L3.75 20.5L3.75 3.5L20.75 3.5L20.75 20.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0859 11.25L8.1617 11.25L8.1617 12.75L17.0859 12.75L17.0859 11.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9884 15.7458L9.22667 12.0001L12.9884 8.25432L11.93 7.1914L7.10082 12.0001L11.93 16.8087L12.9884 15.7458Z" fill="black"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.outline,
-    type: IconfyType.sharp,
-  );
-
 }
 
 /// Arrow - Left Circle — bold style variants.
 class _EssentialArrowLeftCircleBold {
   const _EssentialArrowLeftCircleBold();
-
-  /// Arrow - Left Circle — bold / curved
-  IconfyIconData get curved => const IconfyIconData(
-    name: 'Arrow - Left Circle',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.34 12.75H9.437C10.068 13.417 11.181 14.346 12.348 15.129C12.692 15.359 12.783 15.826 12.553 16.17C12.408 16.386 12.171 16.502 11.929 16.502C11.785 16.502 11.641 16.461 11.512 16.375C10.278 15.548 7.41 13.466 7.41 12C7.41 10.534 10.279 8.455 11.513 7.629C11.857 7.397 12.323 7.49 12.553 7.835C12.783 8.179 12.692 8.645 12.347 8.875C11.165 9.667 10.065 10.582 9.44 11.25H16.34C16.754 11.25 17.09 11.586 17.09 12C17.09 12.414 16.754 12.75 16.34 12.75ZM12.25 2.25C5.052 2.25 2.5 4.802 2.5 12C2.5 19.198 5.052 21.75 12.25 21.75C19.448 21.75 22 19.198 22 12C22 4.802 19.448 2.25 12.25 2.25Z" fill="black"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.bold,
-    type: IconfyType.curved,
-  );
 
   /// Arrow - Left Circle — bold / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -4210,29 +5859,11 @@ class _EssentialArrowLeftCircleBold {
     type: IconfyType.regular,
   );
 
-  /// Arrow - Left Circle — bold / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'Arrow - Left Circle',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.75 15.47L13.69 16.532L9.148 12L13.69 7.469L14.75 8.531L11.271 12L14.75 15.47ZM12.25 2.25C6.874 2.25 2.5 6.624 2.5 12C2.5 17.376 6.874 21.75 12.25 21.75C17.626 21.75 22 17.376 22 12C22 6.624 17.626 2.25 12.25 2.25Z" fill="black"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.bold,
-    type: IconfyType.sharp,
-  );
-
 }
 
 /// Arrow - Left Circle — light style variants.
 class _EssentialArrowLeftCircleLight {
   const _EssentialArrowLeftCircleLight();
-
-  /// Arrow - Left Circle — light / curved
-  IconfyIconData get curved => const IconfyIconData(
-    name: 'Arrow - Left Circle',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.91418 12.0001L16.0862 12.0001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6782 15.7521C11.6782 15.7521 7.91422 13.2241 7.91422 12.0001C7.91422 10.7761 11.6782 8.25208 11.6782 8.25208" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.75012C5.063 2.75012 2.75 5.06312 2.75 12.0001C2.75 18.9371 5.063 21.2501 12 21.2501C18.937 21.2501 21.25 18.9371 21.25 12.0001C21.25 5.06312 18.937 2.75012 12 2.75012Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.light,
-    type: IconfyType.curved,
-  );
 
   /// Arrow - Left Circle — light / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -4243,13 +5874,625 @@ class _EssentialArrowLeftCircleLight {
     type: IconfyType.regular,
   );
 
-  /// Arrow - Left Circle — light / sharp
+}
+
+/// Arrow - Left Circle 1 icon with style variants.
+class _EssentialArrowLeftCircle1Icon {
+  const _EssentialArrowLeftCircle1Icon();
+
+  /// broken style
+  _EssentialArrowLeftCircle1Broken get broken => const _EssentialArrowLeftCircle1Broken();
+}
+
+/// Arrow - Left Circle 1 — broken style variants.
+class _EssentialArrowLeftCircle1Broken {
+  const _EssentialArrowLeftCircle1Broken();
+
+  /// Arrow - Left Circle 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Left Circle 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2.75 12V7.916C2.75 4.889 4.635 2.75 7.665 2.75H16.334C19.364 2.75 21.25 4.889 21.25 7.916V16.084C21.25 19.111 19.364 21.25 16.334 21.25H7.665C4.645 21.25 2.75 19.111 2.75 16.084V15.3161" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.91394 11.9999L16.0859 11.9999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6777 15.7479L10.7367 14.8109L10.2662 14.3424M7.91373 11.9999L11.6777 8.25189" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Arrow - Left Circle 2 icon with style variants.
+class _EssentialArrowLeftCircle2Icon {
+  const _EssentialArrowLeftCircle2Icon();
+
+  /// broken style
+  _EssentialArrowLeftCircle2Broken get broken => const _EssentialArrowLeftCircle2Broken();
+}
+
+/// Arrow - Left Circle 2 — broken style variants.
+class _EssentialArrowLeftCircle2Broken {
+  const _EssentialArrowLeftCircle2Broken();
+
+  /// Arrow - Left Circle 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Left Circle 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.5649 8.5002C21.0065 9.57982 21.25 10.7616 21.25 12.0002C21.25 17.1082 17.108 21.2502 12 21.2502C6.892 21.2502 2.75 17.1082 2.75 12.0002C2.75 6.8912 6.892 2.7502 12 2.7502C14.3115 2.7502 16.4252 3.59821 18.0468 5.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.4424 8.52899L9.95638 12L13.4424 15.471" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Arrow - Left Circle 3 icon with style variants.
+class _EssentialArrowLeftCircle3Icon {
+  const _EssentialArrowLeftCircle3Icon();
+
+  /// bold style
+  _EssentialArrowLeftCircle3Bold get bold => const _EssentialArrowLeftCircle3Bold();
+}
+
+/// Arrow - Left Circle 3 — bold style variants.
+class _EssentialArrowLeftCircle3Bold {
+  const _EssentialArrowLeftCircle3Bold();
+
+  /// Arrow - Left Circle 3 — bold / sharp
   IconfyIconData get sharp => const IconfyIconData(
-    name: 'Arrow - Left Circle',
+    name: 'Arrow - Left Circle 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.75 15.47L13.69 16.532L9.148 12L13.69 7.469L14.75 8.531L11.271 12L14.75 15.47ZM12.25 2.25C6.874 2.25 2.5 6.624 2.5 12C2.5 17.376 6.874 21.75 12.25 21.75C17.626 21.75 22 17.376 22 12C22 6.624 17.626 2.25 12.25 2.25Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left Circle 4 icon with style variants.
+class _EssentialArrowLeftCircle4Icon {
+  const _EssentialArrowLeftCircle4Icon();
+
+  /// bold style
+  _EssentialArrowLeftCircle4Bold get bold => const _EssentialArrowLeftCircle4Bold();
+}
+
+/// Arrow - Left Circle 4 — bold style variants.
+class _EssentialArrowLeftCircle4Bold {
+  const _EssentialArrowLeftCircle4Bold();
+
+  /// Arrow - Left Circle 4 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left Circle 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.75 15.47L13.69 16.532L9.148 12L13.69 7.469L14.75 8.531L11.271 12L14.75 15.47ZM12.25 2.25C6.874 2.25 2.5 6.624 2.5 12C2.5 17.376 6.874 21.75 12.25 21.75C17.626 21.75 22 17.376 22 12C22 6.624 17.626 2.25 12.25 2.25Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left Circle 5 icon with style variants.
+class _EssentialArrowLeftCircle5Icon {
+  const _EssentialArrowLeftCircle5Icon();
+
+  /// bulk style
+  _EssentialArrowLeftCircle5Bulk get bulk => const _EssentialArrowLeftCircle5Bulk();
+}
+
+/// Arrow - Left Circle 5 — bulk style variants.
+class _EssentialArrowLeftCircle5Bulk {
+  const _EssentialArrowLeftCircle5Bulk();
+
+  /// Arrow - Left Circle 5 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left Circle 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M22 12C22 17.376 17.626 21.75 12.25 21.75C6.874 21.75 2.5 17.376 2.5 12C2.5 6.624 6.874 2.25 12.25 2.25C17.626 2.25 22 6.624 22 12Z" fill="black"/> <path d="M13.6949 16.5298L9.14393 11.9998L13.6949 7.46978L14.7529 8.53278L11.2699 11.9998L14.7529 15.4668L13.6949 16.5298Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left Circle 6 icon with style variants.
+class _EssentialArrowLeftCircle6Icon {
+  const _EssentialArrowLeftCircle6Icon();
+
+  /// bulk style
+  _EssentialArrowLeftCircle6Bulk get bulk => const _EssentialArrowLeftCircle6Bulk();
+}
+
+/// Arrow - Left Circle 6 — bulk style variants.
+class _EssentialArrowLeftCircle6Bulk {
+  const _EssentialArrowLeftCircle6Bulk();
+
+  /// Arrow - Left Circle 6 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left Circle 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M22 12C22 17.376 17.626 21.75 12.25 21.75C6.874 21.75 2.5 17.376 2.5 12C2.5 6.624 6.874 2.25 12.25 2.25C17.626 2.25 22 6.624 22 12Z" fill="black"/> <path d="M13.6949 16.5298L9.14393 11.9998L13.6949 7.46978L14.7529 8.53278L11.2699 11.9998L14.7529 15.4668L13.6949 16.5298Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left Circle 7 icon with style variants.
+class _EssentialArrowLeftCircle7Icon {
+  const _EssentialArrowLeftCircle7Icon();
+
+  /// light style
+  _EssentialArrowLeftCircle7Light get light => const _EssentialArrowLeftCircle7Light();
+}
+
+/// Arrow - Left Circle 7 — light style variants.
+class _EssentialArrowLeftCircle7Light {
+  const _EssentialArrowLeftCircle7Light();
+
+  /// Arrow - Left Circle 7 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left Circle 7',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3 21.25L3 2.75L21.5 2.75L21.5 21.25L3 21.25Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> <path d="M8.9117 12L16.3359 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M11.9277 8.25205L8.16373 12L11.9277 15.748" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left Circle 8 icon with style variants.
+class _EssentialArrowLeftCircle8Icon {
+  const _EssentialArrowLeftCircle8Icon();
+
+  /// light style
+  _EssentialArrowLeftCircle8Light get light => const _EssentialArrowLeftCircle8Light();
+}
+
+/// Arrow - Left Circle 8 — light style variants.
+class _EssentialArrowLeftCircle8Light {
+  const _EssentialArrowLeftCircle8Light();
+
+  /// Arrow - Left Circle 8 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left Circle 8',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3 21.25L3 2.75L21.5 2.75L21.5 21.25L3 21.25Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> <path d="M8.9117 12L16.3359 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M11.9277 8.25205L8.16373 12L11.9277 15.748" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left Circle 9 icon with style variants.
+class _EssentialArrowLeftCircle9Icon {
+  const _EssentialArrowLeftCircle9Icon();
+
+  /// outline style
+  _EssentialArrowLeftCircle9Outline get outline => const _EssentialArrowLeftCircle9Outline();
+}
+
+/// Arrow - Left Circle 9 — outline style variants.
+class _EssentialArrowLeftCircle9Outline {
+  const _EssentialArrowLeftCircle9Outline();
+
+  /// Arrow - Left Circle 9 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left Circle 9',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.25 22L22.25 2L2.25 2L2.25 22L22.25 22ZM20.75 20.5L3.75 20.5L3.75 3.5L20.75 3.5L20.75 20.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0859 11.25L8.1617 11.25L8.1617 12.75L17.0859 12.75L17.0859 11.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9884 15.7458L9.22667 12.0001L12.9884 8.25432L11.93 7.1914L7.10082 12.0001L11.93 16.8087L12.9884 15.7458Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left Circle 10 icon with style variants.
+class _EssentialArrowLeftCircle10Icon {
+  const _EssentialArrowLeftCircle10Icon();
+
+  /// outline style
+  _EssentialArrowLeftCircle10Outline get outline => const _EssentialArrowLeftCircle10Outline();
+}
+
+/// Arrow - Left Circle 10 — outline style variants.
+class _EssentialArrowLeftCircle10Outline {
+  const _EssentialArrowLeftCircle10Outline();
+
+  /// Arrow - Left Circle 10 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left Circle 10',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.25 22L22.25 2L2.25 2L2.25 22L22.25 22ZM20.75 20.5L3.75 20.5L3.75 3.5L20.75 3.5L20.75 20.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0859 11.25L8.1617 11.25L8.1617 12.75L17.0859 12.75L17.0859 11.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9884 15.7458L9.22667 12.0001L12.9884 8.25432L11.93 7.1914L7.10082 12.0001L11.93 16.8087L12.9884 15.7458Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left Circle 11 icon with style variants.
+class _EssentialArrowLeftCircle11Icon {
+  const _EssentialArrowLeftCircle11Icon();
+
+  /// twoTone style
+  _EssentialArrowLeftCircle11Twotone get twoTone => const _EssentialArrowLeftCircle11Twotone();
+}
+
+/// Arrow - Left Circle 11 — twoTone style variants.
+class _EssentialArrowLeftCircle11Twotone {
+  const _EssentialArrowLeftCircle11Twotone();
+
+  /// Arrow - Left Circle 11 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left Circle 11',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3 21.25L3 2.75L21.5 2.75L21.5 21.25L3 21.25Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> <path d="M8.9117 12L16.3359 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M11.9277 8.25205L8.16373 12L11.9277 15.748" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left Circle 12 icon with style variants.
+class _EssentialArrowLeftCircle12Icon {
+  const _EssentialArrowLeftCircle12Icon();
+
+  /// twoTone style
+  _EssentialArrowLeftCircle12Twotone get twoTone => const _EssentialArrowLeftCircle12Twotone();
+}
+
+/// Arrow - Left Circle 12 — twoTone style variants.
+class _EssentialArrowLeftCircle12Twotone {
+  const _EssentialArrowLeftCircle12Twotone();
+
+  /// Arrow - Left Circle 12 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left Circle 12',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.25 2.75C7.142 2.75 3 6.891 3 12C3 17.108 7.142 21.25 12.25 21.25C17.358 21.25 21.5 17.108 21.5 12C21.5 6.891 17.358 2.75 12.25 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.6924 8.52881L10.2064 11.9998L13.6924 15.4708" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left Circle 13 icon with style variants.
+class _EssentialArrowLeftCircle13Icon {
+  const _EssentialArrowLeftCircle13Icon();
+
+  /// broken style
+  _EssentialArrowLeftCircle13Broken get broken => const _EssentialArrowLeftCircle13Broken();
+}
+
+/// Arrow - Left Circle 13 — broken style variants.
+class _EssentialArrowLeftCircle13Broken {
+  const _EssentialArrowLeftCircle13Broken();
+
+  /// Arrow - Left Circle 13 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left Circle 13',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.443 20.248C19.445 18.719 21.5 15.6 21.5 12C21.5 6.891 17.36 2.75 12.25 2.75C7.14 2.75 3 6.891 3 12C3 17.108 7.14 21.25 12.25 21.25" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.69 8.5293L10.21 12.0003L13.69 15.4713" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left Circle 14 icon with style variants.
+class _EssentialArrowLeftCircle14Icon {
+  const _EssentialArrowLeftCircle14Icon();
+
+  /// broken style
+  _EssentialArrowLeftCircle14Broken get broken => const _EssentialArrowLeftCircle14Broken();
+}
+
+/// Arrow - Left Circle 14 — broken style variants.
+class _EssentialArrowLeftCircle14Broken {
+  const _EssentialArrowLeftCircle14Broken();
+
+  /// Arrow - Left Circle 14 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left Circle 14',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.443 20.248C19.445 18.719 21.5 15.6 21.5 12C21.5 6.891 17.36 2.75 12.25 2.75C7.14 2.75 3 6.891 3 12C3 17.108 7.14 21.25 12.25 21.25" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.69 8.5293L10.21 12.0003L13.69 15.4713" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left Circle 15 icon with style variants.
+class _EssentialArrowLeftCircle15Icon {
+  const _EssentialArrowLeftCircle15Icon();
+
+  /// bold style
+  _EssentialArrowLeftCircle15Bold get bold => const _EssentialArrowLeftCircle15Bold();
+}
+
+/// Arrow - Left Circle 15 — bold style variants.
+class _EssentialArrowLeftCircle15Bold {
+  const _EssentialArrowLeftCircle15Bold();
+
+  /// Arrow - Left Circle 15 — bold / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left Circle 15',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.34 12.75H9.437C10.068 13.417 11.181 14.346 12.348 15.129C12.692 15.359 12.783 15.826 12.553 16.17C12.408 16.386 12.171 16.502 11.929 16.502C11.785 16.502 11.641 16.461 11.512 16.375C10.278 15.548 7.41 13.466 7.41 12C7.41 10.534 10.279 8.455 11.513 7.629C11.857 7.397 12.323 7.49 12.553 7.835C12.783 8.179 12.692 8.645 12.347 8.875C11.165 9.667 10.065 10.582 9.44 11.25H16.34C16.754 11.25 17.09 11.586 17.09 12C17.09 12.414 16.754 12.75 16.34 12.75ZM12.25 2.25C5.052 2.25 2.5 4.802 2.5 12C2.5 19.198 5.052 21.75 12.25 21.75C19.448 21.75 22 19.198 22 12C22 4.802 19.448 2.25 12.25 2.25Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.curved,
+  );
+
+}
+
+/// Arrow - Left Circle 16 icon with style variants.
+class _EssentialArrowLeftCircle16Icon {
+  const _EssentialArrowLeftCircle16Icon();
+
+  /// bold style
+  _EssentialArrowLeftCircle16Bold get bold => const _EssentialArrowLeftCircle16Bold();
+}
+
+/// Arrow - Left Circle 16 — bold style variants.
+class _EssentialArrowLeftCircle16Bold {
+  const _EssentialArrowLeftCircle16Bold();
+
+  /// Arrow - Left Circle 16 — bold / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left Circle 16',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.34 12.75H9.437C10.068 13.417 11.181 14.346 12.348 15.129C12.692 15.359 12.783 15.826 12.553 16.17C12.408 16.386 12.171 16.502 11.929 16.502C11.785 16.502 11.641 16.461 11.512 16.375C10.278 15.548 7.41 13.466 7.41 12C7.41 10.534 10.279 8.455 11.513 7.629C11.857 7.397 12.323 7.49 12.553 7.835C12.783 8.179 12.692 8.645 12.347 8.875C11.165 9.667 10.065 10.582 9.44 11.25H16.34C16.754 11.25 17.09 11.586 17.09 12C17.09 12.414 16.754 12.75 16.34 12.75ZM12.25 2.25C5.052 2.25 2.5 4.802 2.5 12C2.5 19.198 5.052 21.75 12.25 21.75C19.448 21.75 22 19.198 22 12C22 4.802 19.448 2.25 12.25 2.25Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.curved,
+  );
+
+}
+
+/// Arrow - Left Circle 17 icon with style variants.
+class _EssentialArrowLeftCircle17Icon {
+  const _EssentialArrowLeftCircle17Icon();
+
+  /// bulk style
+  _EssentialArrowLeftCircle17Bulk get bulk => const _EssentialArrowLeftCircle17Bulk();
+}
+
+/// Arrow - Left Circle 17 — bulk style variants.
+class _EssentialArrowLeftCircle17Bulk {
+  const _EssentialArrowLeftCircle17Bulk();
+
+  /// Arrow - Left Circle 17 — bulk / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left Circle 17',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.25 2.25C5.052 2.25 2.5 4.802 2.5 12C2.5 19.198 5.052 21.75 12.25 21.75C19.448 21.75 22 19.198 22 12C22 4.802 19.448 2.25 12.25 2.25Z" fill="black"/> <path d="M9.43716 12.7502H16.3402C16.7542 12.7502 17.0902 12.4142 17.0902 12.0002C17.0902 11.5862 16.7542 11.2502 16.3402 11.2502H9.44016C10.0652 10.5822 11.1652 9.66721 12.3472 8.87521C12.6922 8.64521 12.7832 8.17921 12.5532 7.83521C12.3232 7.49021 11.8572 7.39721 11.5132 7.62921C10.2792 8.45521 7.41016 10.5342 7.41016 12.0002C7.41016 13.4662 10.2782 15.5482 11.5122 16.3752C11.6412 16.4612 11.7852 16.5022 11.9292 16.5022C12.1712 16.5022 12.4082 16.3862 12.5532 16.1702C12.7832 15.8262 12.6922 15.3592 12.3482 15.1292C11.1812 14.3462 10.0682 13.4172 9.43716 12.7502Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.curved,
+  );
+
+}
+
+/// Arrow - Left Circle 18 icon with style variants.
+class _EssentialArrowLeftCircle18Icon {
+  const _EssentialArrowLeftCircle18Icon();
+
+  /// bulk style
+  _EssentialArrowLeftCircle18Bulk get bulk => const _EssentialArrowLeftCircle18Bulk();
+}
+
+/// Arrow - Left Circle 18 — bulk style variants.
+class _EssentialArrowLeftCircle18Bulk {
+  const _EssentialArrowLeftCircle18Bulk();
+
+  /// Arrow - Left Circle 18 — bulk / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left Circle 18',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.25 2.25C5.051 2.25 2.5 4.802 2.5 12C2.5 19.199 5.051 21.75 12.25 21.75C19.448 21.75 22 19.199 22 12C22 4.802 19.448 2.25 12.25 2.25Z" fill="black"/> <path d="M14.307 15.896C14.542 15.554 14.455 15.087 14.114 14.853C12.53 13.764 11.054 12.417 10.958 12.032C11.054 11.585 12.53 10.238 14.114 9.14798C14.456 8.91298 14.542 8.44598 14.307 8.10498C14.073 7.76398 13.608 7.67798 13.264 7.91198C11.843 8.88798 9.45996 10.718 9.45996 12.001C9.45996 13.285 11.843 15.114 13.264 16.089C13.394 16.178 13.542 16.221 13.688 16.221C13.927 16.221 14.162 16.108 14.307 15.896Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.curved,
+  );
+
+}
+
+/// Arrow - Left Circle 19 icon with style variants.
+class _EssentialArrowLeftCircle19Icon {
+  const _EssentialArrowLeftCircle19Icon();
+
+  /// light style
+  _EssentialArrowLeftCircle19Light get light => const _EssentialArrowLeftCircle19Light();
+}
+
+/// Arrow - Left Circle 19 — light style variants.
+class _EssentialArrowLeftCircle19Light {
+  const _EssentialArrowLeftCircle19Light();
+
+  /// Arrow - Left Circle 19 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left Circle 19',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.25 12.2743L19.25 12.2743" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3003 18.2988C10.3003 18.2988 4.25029 15.0378 4.25029 12.2758C4.25029 9.51176 10.3003 6.24976 10.3003 6.24976" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+}
+
+/// Arrow - Left Circle 20 icon with style variants.
+class _EssentialArrowLeftCircle20Icon {
+  const _EssentialArrowLeftCircle20Icon();
+
+  /// light style
+  _EssentialArrowLeftCircle20Light get light => const _EssentialArrowLeftCircle20Light();
+}
+
+/// Arrow - Left Circle 20 — light style variants.
+class _EssentialArrowLeftCircle20Light {
+  const _EssentialArrowLeftCircle20Light();
+
+  /// Arrow - Left Circle 20 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left Circle 20',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.91418 12.0001L16.0862 12.0001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6782 15.7521C11.6782 15.7521 7.91422 13.2241 7.91422 12.0001C7.91422 10.7761 11.6782 8.25208 11.6782 8.25208" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.75012C5.063 2.75012 2.75 5.06312 2.75 12.0001C2.75 18.9371 5.063 21.2501 12 21.2501C18.937 21.2501 21.25 18.9371 21.25 12.0001C21.25 5.06312 18.937 2.75012 12 2.75012Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+}
+
+/// Arrow - Left Circle 21 icon with style variants.
+class _EssentialArrowLeftCircle21Icon {
+  const _EssentialArrowLeftCircle21Icon();
+
+  /// light style
+  _EssentialArrowLeftCircle21Light get light => const _EssentialArrowLeftCircle21Light();
+}
+
+/// Arrow - Left Circle 21 — light style variants.
+class _EssentialArrowLeftCircle21Light {
+  const _EssentialArrowLeftCircle21Light();
+
+  /// Arrow - Left Circle 21 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left Circle 21',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.91418 12.0001L16.0862 12.0001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6782 15.7521C11.6782 15.7521 7.91422 13.2241 7.91422 12.0001C7.91422 10.7761 11.6782 8.25208 11.6782 8.25208" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.75012C5.063 2.75012 2.75 5.06312 2.75 12.0001C2.75 18.9371 5.063 21.2501 12 21.2501C18.937 21.2501 21.25 18.9371 21.25 12.0001C21.25 5.06312 18.937 2.75012 12 2.75012Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+}
+
+/// Arrow - Left Circle 22 icon with style variants.
+class _EssentialArrowLeftCircle22Icon {
+  const _EssentialArrowLeftCircle22Icon();
+
+  /// outline style
+  _EssentialArrowLeftCircle22Outline get outline => const _EssentialArrowLeftCircle22Outline();
+}
+
+/// Arrow - Left Circle 22 — outline style variants.
+class _EssentialArrowLeftCircle22Outline {
+  const _EssentialArrowLeftCircle22Outline();
+
+  /// Arrow - Left Circle 22 — outline / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left Circle 22',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.6687 16.5021C11.5247 16.5021 11.3797 16.4611 11.2507 16.3741C10.0217 15.5471 7.15967 13.4651 7.15967 12.0001C7.15967 10.5351 10.0217 8.45507 11.2517 7.62907C11.5957 7.39807 12.0617 7.49007 12.2917 7.83407C12.5227 8.17807 12.4317 8.64407 12.0877 8.87507C10.9125 9.66499 9.80665 10.5824 9.18219 11.25H16.0802C16.4942 11.25 16.8302 11.586 16.8302 12C16.8302 12.414 16.4942 12.75 16.0802 12.75H9.17412C9.79716 13.4121 10.9077 14.3354 12.0887 15.1301C12.4327 15.3611 12.5227 15.8271 12.2917 16.1711C12.1477 16.3861 11.9097 16.5021 11.6687 16.5021Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2 12C2 19.383 4.617 22 12 22C19.383 22 22 19.383 22 12C22 4.617 19.383 2 12 2C4.617 2 2 4.617 2 12ZM3.5 12C3.5 5.486 5.486 3.5 12 3.5C18.514 3.5 20.5 5.486 20.5 12C20.5 18.514 18.514 20.5 12 20.5C5.486 20.5 3.5 18.514 3.5 12Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.curved,
+  );
+
+}
+
+/// Arrow - Left Circle 23 icon with style variants.
+class _EssentialArrowLeftCircle23Icon {
+  const _EssentialArrowLeftCircle23Icon();
+
+  /// outline style
+  _EssentialArrowLeftCircle23Outline get outline => const _EssentialArrowLeftCircle23Outline();
+}
+
+/// Arrow - Left Circle 23 — outline style variants.
+class _EssentialArrowLeftCircle23Outline {
+  const _EssentialArrowLeftCircle23Outline();
+
+  /// Arrow - Left Circle 23 — outline / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left Circle 23',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.0167 16.0896C13.1467 16.1786 13.2937 16.2206 13.4397 16.2206C13.6787 16.2206 13.9147 16.1066 14.0597 15.8946C14.2937 15.5526 14.2067 15.0856 13.8647 14.8516C12.2757 13.7646 10.7957 12.4176 10.6987 12.0316C10.7957 11.5846 12.2757 10.2376 13.8647 9.14764C14.2067 8.91364 14.2937 8.44764 14.0587 8.10564C13.8277 7.76464 13.3607 7.67764 13.0167 7.90964C11.5907 8.88764 9.20068 10.7176 9.20068 12.0006C9.20068 13.2846 11.5917 15.1136 13.0167 16.0896Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2 12C2 19.383 4.617 22 12 22C19.383 22 22 19.383 22 12C22 4.617 19.383 2 12 2C4.617 2 2 4.617 2 12ZM3.5 12C3.5 5.486 5.486 3.5 12 3.5C18.514 3.5 20.5 5.486 20.5 12C20.5 18.514 18.514 20.5 12 20.5C5.486 20.5 3.5 18.514 3.5 12Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.curved,
+  );
+
+}
+
+/// Arrow - Left Circle 24 icon with style variants.
+class _EssentialArrowLeftCircle24Icon {
+  const _EssentialArrowLeftCircle24Icon();
+
+  /// twoTone style
+  _EssentialArrowLeftCircle24Twotone get twoTone => const _EssentialArrowLeftCircle24Twotone();
+}
+
+/// Arrow - Left Circle 24 — twoTone style variants.
+class _EssentialArrowLeftCircle24Twotone {
+  const _EssentialArrowLeftCircle24Twotone();
+
+  /// Arrow - Left Circle 24 — twoTone / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left Circle 24',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.91418 12.0001L16.0862 12.0001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6782 15.7521C11.6782 15.7521 7.91422 13.2241 7.91422 12.0001C7.91422 10.7761 11.6782 8.25208 11.6782 8.25208" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12 2.75012C5.063 2.75012 2.75 5.06312 2.75 12.0001C2.75 18.9371 5.063 21.2501 12 21.2501C18.937 21.2501 21.25 18.9371 21.25 12.0001C21.25 5.06312 18.937 2.75012 12 2.75012Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.curved,
+  );
+
+}
+
+/// Arrow - Left Circle 25 icon with style variants.
+class _EssentialArrowLeftCircle25Icon {
+  const _EssentialArrowLeftCircle25Icon();
+
+  /// twoTone style
+  _EssentialArrowLeftCircle25Twotone get twoTone => const _EssentialArrowLeftCircle25Twotone();
+}
+
+/// Arrow - Left Circle 25 — twoTone style variants.
+class _EssentialArrowLeftCircle25Twotone {
+  const _EssentialArrowLeftCircle25Twotone();
+
+  /// Arrow - Left Circle 25 — twoTone / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left Circle 25',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12 2.75024C5.063 2.75024 2.75 5.06324 2.75 12.0002C2.75 18.9372 5.063 21.2502 12 21.2502C18.937 21.2502 21.25 18.9372 21.25 12.0002C21.25 5.06324 18.937 2.75024 12 2.75024Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.4419 8.52856C13.4419 8.52856 9.95589 10.9206 9.95589 12.0006C9.95589 13.0806 13.4419 15.4706 13.4419 15.4706" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.curved,
+  );
+
+}
+
+/// Arrow - Left Circle 26 icon with style variants.
+class _EssentialArrowLeftCircle26Icon {
+  const _EssentialArrowLeftCircle26Icon();
+
+  /// broken style
+  _EssentialArrowLeftCircle26Broken get broken => const _EssentialArrowLeftCircle26Broken();
+}
+
+/// Arrow - Left Circle 26 — broken style variants.
+class _EssentialArrowLeftCircle26Broken {
+  const _EssentialArrowLeftCircle26Broken();
+
+  /// Arrow - Left Circle 26 — broken / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left Circle 26',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.413 21.036C19.911 20.325 21.5 17.752 21.5 12C21.5 5.063 19.189 2.75 12.25 2.75C5.31 2.75 3 5.063 3 12C3 18.937 5.31 21.25 12.25 21.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6895 8.52917C13.6895 8.52917 10.2095 10.9212 10.2095 12.0012C10.2095 13.0812 13.6895 15.4712 13.6895 15.4712" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.curved,
+  );
+
+}
+
+/// Arrow - Left Circle 27 icon with style variants.
+class _EssentialArrowLeftCircle27Icon {
+  const _EssentialArrowLeftCircle27Icon();
+
+  /// broken style
+  _EssentialArrowLeftCircle27Broken get broken => const _EssentialArrowLeftCircle27Broken();
+}
+
+/// Arrow - Left Circle 27 — broken style variants.
+class _EssentialArrowLeftCircle27Broken {
+  const _EssentialArrowLeftCircle27Broken();
+
+  /// Arrow - Left Circle 27 — broken / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left Circle 27',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.413 21.036C19.911 20.325 21.5 17.752 21.5 12C21.5 5.063 19.189 2.75 12.25 2.75C5.31 2.75 3 5.063 3 12C3 18.937 5.31 21.25 12.25 21.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6895 8.52917C13.6895 8.52917 10.2095 10.9212 10.2095 12.0012C10.2095 13.0812 13.6895 15.4712 13.6895 15.4712" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.curved,
   );
 
 }
@@ -6448,7 +8691,7 @@ class _EssentialDownloadBulk {
   /// Download — bulk / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Download',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M2.5 21.2593L2.5 8.82874L22 8.82874L22 21.2593L2.5 21.2593Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5003 17.6836C11.4993 15.6716 9.6673 13.8396 7.6543 13.8396L6.9043 13.8396L6.9043 12.3396L7.6543 12.3396C9.1313 12.3396 10.5113 13.0146 11.5003 14.0586L11.5002 3.0183L13.0002 3.0183L13.0003 14.0586C13.9893 13.0146 15.3683 12.3396 16.8453 12.3396L17.5953 12.3396L17.5953 13.8396L16.8453 13.8396C14.8333 13.8396 13.0003 15.6726 13.0003 17.6846L13.0003 18.4346L11.5003 18.4346L11.5003 17.6836Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M2.5 8.92798V21.3751H22V8.92798H2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9941 14.8605L15.5221 12.3245L16.5851 13.3835L12.2431 17.7375L7.91406 13.3815L8.97706 12.3245L11.4941 14.8565V2.44511H12.9941V14.8605Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.sharp,
@@ -6481,7 +8724,7 @@ class _EssentialDownloadBroken {
   /// Download — broken / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Download',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.044 20.6215H3V9.1925H7.62" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.88 9.1925H21.5V20.6215H9.20898" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.25 17.5949V3.65588" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.65039 12.9996C10.0204 12.9996 12.2504 15.0796 12.2504 17.5946" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.85 12.9996C14.48 12.9996 12.25 15.0796 12.25 17.5946" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 15.9351V3.1571" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.98047 13.3949L12.2505 16.6849L15.5305 13.3949" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.88 9.41394H21.5V20.8429H3V9.41394H7.62" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.sharp,
@@ -6514,7 +8757,7 @@ class _EssentialDownloadTwotone {
   /// Download — twoTone / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Download',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M16.875 9.19287H21.5V20.6217H3V9.19287H7.625" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.25 17.5952L12.25 3.65594" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.65449 12.9995C10.017 12.9995 12.25 15.0801 12.25 17.595" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.8455 12.9995C14.483 12.9995 12.25 15.0801 12.25 17.595" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2497 15.935V3.15723" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.9751 13.395L12.2501 16.6846L15.5261 13.395" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M16.875 9.41406H21.5V20.8429H3V9.41406H7.625" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.sharp,
@@ -6547,7 +8790,7 @@ class _EssentialDownloadOutline {
   /// Download — outline / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Download',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 8.44287H8.375V9.94287H3.75V19.8717H20.75V9.94287H16.125V8.44287H22.25V21.3717H2.25V8.44287Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5 18.3452L11.5 2.90594L13 2.90594L13 18.3452L11.5 18.3452Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13 17.595C13 14.65 10.4151 12.2495 7.65449 12.2495L6.90449 12.2495L6.90449 13.7495L7.65449 13.7495C9.61881 13.7495 11.5 15.5102 11.5 17.595L11.5 18.345L13 18.345L13 17.595Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5 17.595C11.5 14.65 14.0849 12.2495 16.8455 12.2495L17.5955 12.2495L17.5955 13.7495L16.8455 13.7495C14.8812 13.7495 13 15.5102 13 17.595L13 18.345L11.5 18.345L11.5 17.595Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4997 2.40723V16.685H12.9997V2.40723H11.4997Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.91443 13.3926L12.25 17.7475L16.5868 13.3928L15.524 12.3344L12.2501 15.6216L8.97745 12.3344L7.91443 13.3926Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 8.66406H8.375V10.1641H3.75V20.0929H20.75V10.1641H16.125V8.66406H22.25V21.5929H2.25V8.66406Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.sharp,
@@ -6580,7 +8823,7 @@ class _EssentialDownloadBold {
   /// Download — bold / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Download',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13 8.81369V14.1037C13.98 13.0537 15.37 12.3737 16.85 12.3737H17.6V13.8737H16.85C14.83 13.8737 13 15.7037 13 17.7237V18.4737H11.5V17.7237C11.5 15.7037 9.67 13.8737 7.65 13.8737H6.9V12.3737H7.65C9.13 12.3737 10.52 13.0537 11.5 14.1037V8.81369H2.5V21.2437H22V8.81369H13Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5 8.81369H13V3.03369H11.5V8.81369Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5 8.92871H13V2.42871H11.5V8.92871Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13 8.92871V14.8887L15.53 12.3487L16.59 13.4087L12.25 17.7687L7.92 13.4087L8.98 12.3487L11.5 14.8887V8.92871H2.5V21.3587H22V8.92871H13Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.sharp,
@@ -6613,6 +8856,114 @@ class _EssentialDownloadLight {
   /// Download — light / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Download',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2497 15.935V3.15723" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.9751 13.395L12.2501 16.6846L15.5261 13.395" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.875 9.41406H21.5V20.8429H3V9.41406H7.625" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Download 1 icon with style variants.
+class _EssentialDownload1Icon {
+  const _EssentialDownload1Icon();
+
+  /// bold style
+  _EssentialDownload1Bold get bold => const _EssentialDownload1Bold();
+  /// bulk style
+  _EssentialDownload1Bulk get bulk => const _EssentialDownload1Bulk();
+  /// light style
+  _EssentialDownload1Light get light => const _EssentialDownload1Light();
+  /// outline style
+  _EssentialDownload1Outline get outline => const _EssentialDownload1Outline();
+  /// twoTone style
+  _EssentialDownload1Twotone get twoTone => const _EssentialDownload1Twotone();
+  /// broken style
+  _EssentialDownload1Broken get broken => const _EssentialDownload1Broken();
+}
+
+/// Download 1 — bulk style variants.
+class _EssentialDownload1Bulk {
+  const _EssentialDownload1Bulk();
+
+  /// Download 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Download 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M2.5 21.2593L2.5 8.82874L22 8.82874L22 21.2593L2.5 21.2593Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5003 17.6836C11.4993 15.6716 9.6673 13.8396 7.6543 13.8396L6.9043 13.8396L6.9043 12.3396L7.6543 12.3396C9.1313 12.3396 10.5113 13.0146 11.5003 14.0586L11.5002 3.0183L13.0002 3.0183L13.0003 14.0586C13.9893 13.0146 15.3683 12.3396 16.8453 12.3396L17.5953 12.3396L17.5953 13.8396L16.8453 13.8396C14.8333 13.8396 13.0003 15.6726 13.0003 17.6846L13.0003 18.4346L11.5003 18.4346L11.5003 17.6836Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Download 1 — broken style variants.
+class _EssentialDownload1Broken {
+  const _EssentialDownload1Broken();
+
+  /// Download 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Download 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.044 20.6215H3V9.1925H7.62" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.88 9.1925H21.5V20.6215H9.20898" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.25 17.5949V3.65588" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.65039 12.9996C10.0204 12.9996 12.2504 15.0796 12.2504 17.5946" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.85 12.9996C14.48 12.9996 12.25 15.0796 12.25 17.5946" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Download 1 — twoTone style variants.
+class _EssentialDownload1Twotone {
+  const _EssentialDownload1Twotone();
+
+  /// Download 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Download 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M16.875 9.19287H21.5V20.6217H3V9.19287H7.625" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.25 17.5952L12.25 3.65594" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.65449 12.9995C10.017 12.9995 12.25 15.0801 12.25 17.595" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.8455 12.9995C14.483 12.9995 12.25 15.0801 12.25 17.595" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Download 1 — outline style variants.
+class _EssentialDownload1Outline {
+  const _EssentialDownload1Outline();
+
+  /// Download 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Download 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 8.44287H8.375V9.94287H3.75V19.8717H20.75V9.94287H16.125V8.44287H22.25V21.3717H2.25V8.44287Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5 18.3452L11.5 2.90594L13 2.90594L13 18.3452L11.5 18.3452Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13 17.595C13 14.65 10.4151 12.2495 7.65449 12.2495L6.90449 12.2495L6.90449 13.7495L7.65449 13.7495C9.61881 13.7495 11.5 15.5102 11.5 17.595L11.5 18.345L13 18.345L13 17.595Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5 17.595C11.5 14.65 14.0849 12.2495 16.8455 12.2495L17.5955 12.2495L17.5955 13.7495L16.8455 13.7495C14.8812 13.7495 13 15.5102 13 17.595L13 18.345L11.5 18.345L11.5 17.595Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Download 1 — bold style variants.
+class _EssentialDownload1Bold {
+  const _EssentialDownload1Bold();
+
+  /// Download 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Download 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13 8.81369V14.1037C13.98 13.0537 15.37 12.3737 16.85 12.3737H17.6V13.8737H16.85C14.83 13.8737 13 15.7037 13 17.7237V18.4737H11.5V17.7237C11.5 15.7037 9.67 13.8737 7.65 13.8737H6.9V12.3737H7.65C9.13 12.3737 10.52 13.0537 11.5 14.1037V8.81369H2.5V21.2437H22V8.81369H13Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5 8.81369H13V3.03369H11.5V8.81369Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Download 1 — light style variants.
+class _EssentialDownload1Light {
+  const _EssentialDownload1Light();
+
+  /// Download 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Download 1',
     svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.875 9.19275H21.5V20.6216H3V9.19275H7.625" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.25 17.5951L12.25 3.65582" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.65449 12.9994C10.017 12.9994 12.25 15.08 12.25 17.5949" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.8455 12.9994C14.483 12.9994 12.25 15.08 12.25 17.5949" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
@@ -6880,7 +9231,7 @@ class _EssentialLoginBulk {
   /// Login — bulk / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Login',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.3705 2.38867H8.93994V21.8887H21.3705V2.38867Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.7948 11.389C15.7828 11.388 13.9508 9.55597 13.9508 7.54297V6.79297H12.4508V7.54297C12.4508 9.01997 13.1258 10.4 14.1698 11.389L3.12951 11.3889V12.8889L14.1698 12.889C13.1258 13.878 12.4508 15.257 12.4508 16.734V17.484H13.9508V16.734C13.9508 14.722 15.7838 12.889 17.7958 12.889H18.5458V11.389H17.7948Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M9.26765 21.75L21.7147 21.75L21.7147 2.25L9.26765 2.25L9.26765 21.75Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.2002 11.2559L12.6642 8.72794L13.7232 7.66494L18.0772 12.0069L13.7212 16.3359L12.6642 15.2729L15.1962 12.7559L2.78478 12.7559L2.78478 11.2559L15.2002 11.2559Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.sharp,
@@ -6913,7 +9264,7 @@ class _EssentialLoginBroken {
   /// Login — broken / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Login',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.7327 10.2351V21.4601H9.30371V16.8351" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.30371 7.58569V2.96069H20.7327V6.24969" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.7071 12.2107H3.76709" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.1108 16.8057C13.1108 14.4437 15.1908 12.2107 17.7058 12.2107" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.1108 7.6145C13.1108 9.9775 15.1908 12.2105 17.7058 12.2105" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.185 12H3.40698" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.6462 15.2751L16.9352 12.0001L13.6462 8.72412" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.66382 7.375V2.75H21.0928V21.25H9.66382V16.625" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.sharp,
@@ -6946,7 +9297,7 @@ class _EssentialLoginTwotone {
   /// Login — twoTone / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Login',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M9.3042 7.51367L9.3042 2.88867L20.733 2.88867L20.733 21.3887L9.3042 21.3887L9.3042 16.7637" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.7065 12.1387L3.76727 12.1387" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.1108 16.7342C13.1108 14.3717 15.1914 12.1387 17.7064 12.1387" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.1108 7.54316C13.1108 9.90564 15.1914 12.1387 17.7064 12.1387" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.185 12.0003L3.40723 12.0003" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.6455 15.2749L16.9351 11.9999L13.6455 8.72385" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M9.66406 7.375L9.66406 2.75L21.0929 2.75L21.0929 21.25L9.66406 21.25L9.66406 16.625" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.sharp,
@@ -6979,7 +9330,7 @@ class _EssentialLoginOutline {
   /// Login — outline / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Login',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.5542 22.6387L8.5542 16.5137L10.0542 16.5137L10.0542 21.1387L19.983 21.1387L19.983 4.13867L10.0542 4.13867L10.0542 8.76367L8.5542 8.76367L8.5542 2.63867L21.483 2.63867L21.483 22.6387L8.5542 22.6387Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4565 13.3887L3.01727 13.3887L3.01727 11.8887L18.4565 11.8887L18.4565 13.3887Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.7064 11.8887C14.7614 11.8887 12.3608 14.4735 12.3608 17.2342L12.3608 17.9842L13.8608 17.9842L13.8608 17.2342C13.8608 15.2699 15.6215 13.3887 17.7064 13.3887L18.4564 13.3887L18.4564 11.8887L17.7064 11.8887Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.7064 13.3887C14.7614 13.3887 12.3608 10.8038 12.3608 8.04316L12.3608 7.29316L13.8608 7.29316L13.8608 8.04316C13.8608 10.0075 15.6215 11.8887 17.7064 11.8887L18.4564 11.8887L18.4564 13.3887L17.7064 13.3887Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.65723 13.2503L16.935 13.2503L16.935 11.7503L2.65723 11.7503L2.65723 13.2503Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6432 16.8356L17.998 12.5L13.6433 8.16321L12.5849 9.22604L15.8721 12.4999L12.5849 15.7726L13.6432 16.8356Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.91406 22.5L8.91406 16.375L10.4141 16.375L10.4141 21L20.3429 21L20.3429 4L10.4141 4L10.4141 8.625L8.91406 8.625L8.91406 2.5L21.8429 2.5L21.8429 22.5L8.91406 22.5Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.sharp,
@@ -7012,7 +9363,7 @@ class _EssentialLoginBold {
   /// Login — bold / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Login',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.92499 2.40869V11.4087H14.215C13.165 10.4287 12.485 9.03869 12.485 7.55869V6.80869H13.985V7.55869C13.985 9.57869 15.815 11.4087 17.835 11.4087H18.585V12.9087H17.835C15.815 12.9087 13.985 14.7387 13.985 16.7487V17.4987H12.485V16.7487C12.485 15.2687 13.165 13.8887 14.215 12.9087H8.92499V21.9087H21.355V2.40869H8.92499Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.14502 12.9087H8.92499V11.4087H3.14502V12.9087Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.78491 12.75H9.28491V11.25H2.78491V12.75Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.28491 2.25V11.25H15.2449L12.7149 8.73L13.7649 7.66L18.1249 12L13.7649 16.34L12.7149 15.27L15.2449 12.75H9.28491V21.75H21.7149V2.25H9.28491Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.sharp,
@@ -7045,6 +9396,114 @@ class _EssentialLoginLight {
   /// Login — light / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Login',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.1849 12.0003L3.40717 12.0003" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.6454 15.2749L16.935 11.9999L13.6454 8.72385" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.664 7.375L9.664 2.75L21.0928 2.75L21.0928 21.25L9.664 21.25L9.664 16.625" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Login 1 icon with style variants.
+class _EssentialLogin1Icon {
+  const _EssentialLogin1Icon();
+
+  /// bold style
+  _EssentialLogin1Bold get bold => const _EssentialLogin1Bold();
+  /// bulk style
+  _EssentialLogin1Bulk get bulk => const _EssentialLogin1Bulk();
+  /// light style
+  _EssentialLogin1Light get light => const _EssentialLogin1Light();
+  /// outline style
+  _EssentialLogin1Outline get outline => const _EssentialLogin1Outline();
+  /// twoTone style
+  _EssentialLogin1Twotone get twoTone => const _EssentialLogin1Twotone();
+  /// broken style
+  _EssentialLogin1Broken get broken => const _EssentialLogin1Broken();
+}
+
+/// Login 1 — bulk style variants.
+class _EssentialLogin1Bulk {
+  const _EssentialLogin1Bulk();
+
+  /// Login 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Login 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.3705 2.38867H8.93994V21.8887H21.3705V2.38867Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.7948 11.389C15.7828 11.388 13.9508 9.55597 13.9508 7.54297V6.79297H12.4508V7.54297C12.4508 9.01997 13.1258 10.4 14.1698 11.389L3.12951 11.3889V12.8889L14.1698 12.889C13.1258 13.878 12.4508 15.257 12.4508 16.734V17.484H13.9508V16.734C13.9508 14.722 15.7838 12.889 17.7958 12.889H18.5458V11.389H17.7948Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Login 1 — broken style variants.
+class _EssentialLogin1Broken {
+  const _EssentialLogin1Broken();
+
+  /// Login 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Login 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.7327 10.2351V21.4601H9.30371V16.8351" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.30371 7.58569V2.96069H20.7327V6.24969" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.7071 12.2107H3.76709" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.1108 16.8057C13.1108 14.4437 15.1908 12.2107 17.7058 12.2107" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.1108 7.6145C13.1108 9.9775 15.1908 12.2105 17.7058 12.2105" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Login 1 — twoTone style variants.
+class _EssentialLogin1Twotone {
+  const _EssentialLogin1Twotone();
+
+  /// Login 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Login 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M9.3042 7.51367L9.3042 2.88867L20.733 2.88867L20.733 21.3887L9.3042 21.3887L9.3042 16.7637" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.7065 12.1387L3.76727 12.1387" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.1108 16.7342C13.1108 14.3717 15.1914 12.1387 17.7064 12.1387" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.1108 7.54316C13.1108 9.90564 15.1914 12.1387 17.7064 12.1387" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Login 1 — outline style variants.
+class _EssentialLogin1Outline {
+  const _EssentialLogin1Outline();
+
+  /// Login 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Login 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.5542 22.6387L8.5542 16.5137L10.0542 16.5137L10.0542 21.1387L19.983 21.1387L19.983 4.13867L10.0542 4.13867L10.0542 8.76367L8.5542 8.76367L8.5542 2.63867L21.483 2.63867L21.483 22.6387L8.5542 22.6387Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4565 13.3887L3.01727 13.3887L3.01727 11.8887L18.4565 11.8887L18.4565 13.3887Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.7064 11.8887C14.7614 11.8887 12.3608 14.4735 12.3608 17.2342L12.3608 17.9842L13.8608 17.9842L13.8608 17.2342C13.8608 15.2699 15.6215 13.3887 17.7064 13.3887L18.4564 13.3887L18.4564 11.8887L17.7064 11.8887Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.7064 13.3887C14.7614 13.3887 12.3608 10.8038 12.3608 8.04316L12.3608 7.29316L13.8608 7.29316L13.8608 8.04316C13.8608 10.0075 15.6215 11.8887 17.7064 11.8887L18.4564 11.8887L18.4564 13.3887L17.7064 13.3887Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Login 1 — bold style variants.
+class _EssentialLogin1Bold {
+  const _EssentialLogin1Bold();
+
+  /// Login 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Login 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.92499 2.40869V11.4087H14.215C13.165 10.4287 12.485 9.03869 12.485 7.55869V6.80869H13.985V7.55869C13.985 9.57869 15.815 11.4087 17.835 11.4087H18.585V12.9087H17.835C15.815 12.9087 13.985 14.7387 13.985 16.7487V17.4987H12.485V16.7487C12.485 15.2687 13.165 13.8887 14.215 12.9087H8.92499V21.9087H21.355V2.40869H8.92499Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.14502 12.9087H8.92499V11.4087H3.14502V12.9087Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Login 1 — light style variants.
+class _EssentialLogin1Light {
+  const _EssentialLogin1Light();
+
+  /// Login 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Login 1',
     svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.30405 7.51367L9.30405 2.88867L20.7329 2.88867L20.7329 21.3887L9.30405 21.3887L9.30405 16.7637" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.7064 12.1387L3.76712 12.1387" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.1107 16.7342C13.1107 14.3717 15.1913 12.1387 17.7062 12.1387" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.1107 7.54316C13.1107 9.90564 15.1913 12.1387 17.7062 12.1387" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
@@ -7478,6 +9937,420 @@ class _EssentialArrowUpLight {
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Arrow - Up',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2499 5.09988V19.5001" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M18.2745 10.5499L12.2505 4.49993L6.22552 10.5499" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Up 1 icon with style variants.
+class _EssentialArrowUp1Icon {
+  const _EssentialArrowUp1Icon();
+
+  /// bold style
+  _EssentialArrowUp1Bold get bold => const _EssentialArrowUp1Bold();
+  /// bulk style
+  _EssentialArrowUp1Bulk get bulk => const _EssentialArrowUp1Bulk();
+  /// light style
+  _EssentialArrowUp1Light get light => const _EssentialArrowUp1Light();
+  /// outline style
+  _EssentialArrowUp1Outline get outline => const _EssentialArrowUp1Outline();
+  /// twoTone style
+  _EssentialArrowUp1Twotone get twoTone => const _EssentialArrowUp1Twotone();
+  /// broken style
+  _EssentialArrowUp1Broken get broken => const _EssentialArrowUp1Broken();
+}
+
+/// Arrow - Up 1 — bulk style variants.
+class _EssentialArrowUp1Bulk {
+  const _EssentialArrowUp1Bulk();
+
+  /// Arrow - Up 1 — bulk / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.2502 7.50004C15.5164 7.50004 19.3713 13.7398 20.1101 14.9908C20.2522 15.2305 20.2825 15.5049 20.217 15.7539C20.1526 15.9996 19.9949 16.2207 19.759 16.3599C19.2864 16.6431 18.6711 16.483 18.3904 16.0088C16.8372 13.3838 13.8123 9.50004 12.2502 9.50004V7.50004Z" fill="black"/> <path d="M12.2501 9.5C12.2501 9.5 12.2502 9.5 12.2501 9.5C10.6901 9.5 7.66514 13.384 6.11014 16.009C5.83014 16.483 5.21714 16.643 4.74114 16.36C4.26614 16.079 4.10814 15.466 4.39014 14.991C5.12914 13.74 8.98414 7.5 12.2501 7.5C12.2502 7.5 12.2501 7.5 12.2501 7.5V9.5Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Up 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bulk/Arrow - Up 2</title>     <g id="Iconly/Bulk/Arrow---Up-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Up-2" transform="translate(12.000000, 12.000000) rotate(-180.000000) translate(-12.000000, -12.000000) translate(6.000000, 7.000000)" fill="#000000" fill-rule="nonzero">             <path d="M4.86724336,0.214334561 L9.08645432,7.06244425 C9.18045902,7.21581846 9.17145857,7.41217653 9.06045302,7.55578168 C8.55942797,8.20640094 8.05140257,8.7876599 7.62438122,9.1754915 C7.62438122,9.1754915 7.28236412,9.50959329 7.06535327,9.65417535 C6.76933847,9.88765583 6.38231912,10 6.00630032,10 C5.58427921,10 5.18525926,9.87690987 4.86624331,9.63170651 C4.80924046,9.57602288 4.55822791,9.36403432 4.35321766,9.16376863 C3.07715386,7.99538929 0.969048452,4.94548937 0.330016501,3.34141004 C0.227011351,3.10792955 0.0120006,2.48466365 1.39444012e-13,2.16130783 C1.39444012e-13,1.84967488 0.0680034002,1.54878789 0.217010851,1.25962377 C0.422021101,0.904030058 0.740037002,0.625611904 1.11705585,0.469306976 C1.37906895,0.368685678 2.16510826,0.213357655 2.18810941,0.213357655 C2.74913746,0.112736357 3.53717686,0.0375146103 4.45722286,0.000392189745 C4.62223111,-0.00644615088 4.78223911,0.0765908425 4.86724336,0.214334561" id="Fill-1"></path>             <path d="M7.13975699,0.672308002 C6.95274764,0.370444108 7.19175959,-0.00957224946 7.55077754,0.0050813376 C8.39281964,0.0412268524 9.13485674,0.103748824 9.68688434,0.179947477 C9.69888494,0.191670346 10.6779339,0.346998369 11.0089504,0.525772131 C11.6239812,0.837405083 12,1.44894812 12,2.10640572 L12,2.16111245 C11.9889994,2.58508957 11.6129806,3.48677362 11.5899795,3.48677362 C11.40097,3.94103482 11.080954,4.53401665 10.6959348,5.17193614 C10.5219261,5.45914644 10.0949047,5.46598478 9.91789589,5.17877448 L7.13975699,0.672308002 Z" id="Fill-4" opacity="0.400000006"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Up 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.24991 16.9142L13.6641 8.49997L12.2499 7.08576L3.83569 15.5L5.24991 16.9142Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.6641 15.5L12.2499 7.08576L10.8357 8.49997L19.2499 16.9142L20.6641 15.5Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Up 1 — broken style variants.
+class _EssentialArrowUp1Broken {
+  const _EssentialArrowUp1Broken();
+
+  /// Arrow - Up 1 — broken / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.3689 12.7111C18.4769 14.1941 19.2499 15.5001 19.2499 15.5001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.25024 15.4999C5.25024 15.4999 9.39424 8.49988 12.2502 8.49988C13.0782 8.49988 14.0142 9.08788 14.9262 9.92388" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Up 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5 15.5L12 8.5M19 15.5L15.5 12L14.625 11.125" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Up 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.25 15.5L12.25 8.5L5.25 15.5" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Up 1 — twoTone style variants.
+class _EssentialArrowUp1Twotone {
+  const _EssentialArrowUp1Twotone();
+
+  /// Arrow - Up 1 — twoTone / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5 15.5C5 15.5 9.144 8.5 12 8.5C14.855 8.5 19 15.5 19 15.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Up 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.25 15.5L12.25 8.5" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M12.25 8.5L19.25 15.5" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Up 1 — outline style variants.
+class _EssentialArrowUp1Outline {
+  const _EssentialArrowUp1Outline();
+
+  /// Arrow - Up 1 — outline / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.24981 15.4991C4.24981 15.3691 4.28281 15.2381 4.35381 15.1181C4.80081 14.3641 8.80881 7.75012 11.9998 7.75012C15.1898 7.75012 19.1988 14.3631 19.6458 15.1181C19.8568 15.4731 19.7388 15.9351 19.3818 16.1451C19.0248 16.3561 18.5648 16.2381 18.3538 15.8821C16.8348 13.3181 13.7668 9.25012 11.9998 9.25012C10.2298 9.25012 7.16281 13.3181 5.64581 15.8821C5.43481 16.2381 4.97481 16.3561 4.61781 16.1451C4.38181 16.0051 4.24981 15.7561 4.24981 15.4991" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Up 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Arrow - Up 2</title>     <g id="Iconly/Light-Outline/Arrow---Up-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Up-2" transform="translate(12.000000, 12.000000) rotate(-180.000000) translate(-12.000000, -12.000000) translate(4.000000, 7.500000)" fill="#000000" fill-rule="nonzero">             <path d="M0.469669914,0.469669914 C0.735936477,0.203403352 1.15260016,0.1791973 1.44621165,0.397051761 L1.53033009,0.469669914 L8,6.939 L14.4696699,0.469669914 C14.7359365,0.203403352 15.1526002,0.1791973 15.4462117,0.397051761 L15.5303301,0.469669914 C15.7965966,0.735936477 15.8208027,1.15260016 15.6029482,1.44621165 L15.5303301,1.53033009 L8.53033009,8.53033009 C8.26406352,8.79659665 7.84739984,8.8208027 7.55378835,8.60294824 L7.46966991,8.53033009 L0.469669914,1.53033009 C0.176776695,1.23743687 0.176776695,0.762563133 0.469669914,0.469669914 Z" id="Stroke-1"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Up 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.24999 16.5607L12.25 9.56067L19.25 16.5607L20.3107 15.5L12.25 7.43935L4.18933 15.5L5.24999 16.5607Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Up 1 — bold style variants.
+class _EssentialArrowUp1Bold {
+  const _EssentialArrowUp1Bold();
+
+  /// Arrow - Up 1 — bold / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.2489 16.4997C5.0759 16.4997 4.8999 16.4547 4.7409 16.3597C4.2659 16.0797 4.1079 15.4667 4.3899 14.9907C5.1289 13.7397 8.9839 7.49973 12.2499 7.49973C15.5159 7.49973 19.3709 13.7397 20.1099 14.9907C20.3919 15.4657 20.2339 16.0787 19.7589 16.3597C19.2859 16.6437 18.6709 16.4827 18.3899 16.0087C16.8349 13.3837 13.8099 9.49973 12.2499 9.49973C10.6869 9.49973 7.6629 13.3837 6.1099 16.0087C5.9239 16.3237 5.5909 16.4997 5.2489 16.4997Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Up 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Arrow - Up 2</title>     <g id="Iconly/Bold/Arrow---Up-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Up-2" transform="translate(6.000000, 7.000000)" fill="#000000" fill-rule="nonzero">             <path d="M7.131,0.369215782 C7.189,0.425718461 7.437,0.639064783 7.641,0.837798344 C8.924,2.00292255 11.024,5.04237701 11.665,6.63321968 C11.768,6.87481734 11.986,7.48563078 12,7.81198246 C12,8.12469557 11.928,8.42279591 11.782,8.70725767 C11.578,9.06186069 11.257,9.34632245 10.878,9.50219191 C10.615,9.60253288 9.828,9.75840234 9.814,9.75840234 C8.953,9.9142718 7.554,10 6.008,10 C4.535,10 3.193,9.9142718 2.319,9.78665368 C2.305,9.77204092 1.327,9.61617146 0.992,9.44568924 C0.38,9.13297613 0,8.52216269 0,7.86848514 L0,7.81198246 C0.015,7.386264 0.395,6.4909888 0.409,6.4909888 C1.051,4.98587433 3.048,2.01656113 4.375,0.823185582 C4.375,0.823185582 4.716,0.48709206 4.929,0.340964442 C5.235,0.113005358 5.614,0 5.993,0 C6.416,0 6.81,0.12761812 7.131,0.369215782"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Up 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.2499 16.914L12.2499 9.914L5.24994 16.914L3.83594 15.5L12.2499 7.086L20.6639 15.5L19.2499 16.914Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Up 1 — light style variants.
+class _EssentialArrowUp1Light {
+  const _EssentialArrowUp1Light();
+
+  /// Arrow - Up 1 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5 15.5C5 15.5 9.144 8.5 12 8.5C14.855 8.5 19 15.5 19 15.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Up 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Arrow - Up 2</title>     <g id="Iconly/Light/Arrow---Up-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Up-2" transform="translate(12.000000, 12.000000) rotate(-180.000000) translate(-12.000000, -12.000000) translate(5.000000, 8.500000)" stroke="#000000" stroke-width="1.5">             <polyline id="Stroke-1" points="14 0 7 7 0 0"></polyline>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Up 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Up 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.25 15.5L12.25 8.5L5.25 15.5" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Up 2 icon with style variants.
+class _EssentialArrowUp2Icon {
+  const _EssentialArrowUp2Icon();
+
+  /// bold style
+  _EssentialArrowUp2Bold get bold => const _EssentialArrowUp2Bold();
+  /// bulk style
+  _EssentialArrowUp2Bulk get bulk => const _EssentialArrowUp2Bulk();
+  /// light style
+  _EssentialArrowUp2Light get light => const _EssentialArrowUp2Light();
+  /// outline style
+  _EssentialArrowUp2Outline get outline => const _EssentialArrowUp2Outline();
+  /// twoTone style
+  _EssentialArrowUp2Twotone get twoTone => const _EssentialArrowUp2Twotone();
+  /// broken style
+  _EssentialArrowUp2Broken get broken => const _EssentialArrowUp2Broken();
+}
+
+/// Arrow - Up 2 — bulk style variants.
+class _EssentialArrowUp2Bulk {
+  const _EssentialArrowUp2Bulk();
+
+  /// Arrow - Up 2 — bulk / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3386 11.1882C16.8036 11.7242 14.9916 11.9092 13.2466 11.9592L11.2466 11.9652C9.00955 11.9122 7.63955 11.6522 7.17555 11.1882C6.61255 10.6242 6.90155 9.68421 7.21555 8.92821C7.86655 7.35921 10.6126 2.82321 12.2576 2.82321C13.9526 2.82321 16.6896 7.56121 17.2866 9.00021C17.6116 9.78221 17.8716 10.6532 17.3386 11.1882Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.2473 11.9596V20.1766C13.2473 20.7296 12.8003 21.1766 12.2473 21.1766C11.6943 21.1766 11.2473 20.7296 11.2473 20.1766V11.9656L13.2473 11.9596Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Up 2 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M11.2499 3.00049L11.2499 21.0002L13.2499 21.0002L13.2499 3.00049L11.2499 3.00049Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.2499 3.99962C13.2499 7.67054 10.0305 10.6597 6.58983 10.6597H5.58983V8.65967H6.58983C8.96869 8.65967 11.2499 6.52365 11.2499 3.99962V2.99962H13.2499V3.99962Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.2499 3.99962C11.2499 7.67054 14.4693 10.6597 17.9099 10.6597H18.9099V8.65967H17.9099C15.5311 8.65967 13.2499 6.52365 13.2499 3.99962V2.99962H11.2499V3.99962Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Up 2 — broken style variants.
+class _EssentialArrowUp2Broken {
+  const _EssentialArrowUp2Broken();
+
+  /// Arrow - Up 2 — broken / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2522 11.3518V20.3018" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2125 5.42812C13.4315 4.43112 12.6725 3.69812 12.2425 3.69812C10.9825 3.69812 6.97253 10.0621 7.69253 10.7841C8.41253 11.5061 16.0025 11.5751 16.7925 10.7841C17.0925 10.4831 16.6915 9.39012 16.0085 8.15012" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Up 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.7485 11.3002L11.7485 20.2502" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.74751 11.3002L16.7495 11.3002L11.7485 3.3632L9.24801 7.3317L8.62289 8.32383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Up 2 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 17.4679V19.9999" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.25 4.00012V13.9591" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M6.58984 9.66012C9.49984 9.66012 12.2498 7.09812 12.2498 4.00012" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.91 9.66012C15 9.66012 12.25 7.09812 12.25 4.00012" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Up 2 — twoTone style variants.
+class _EssentialArrowUp2Twotone {
+  const _EssentialArrowUp2Twotone();
+
+  /// Arrow - Up 2 — twoTone / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.1062 11.2999L12.1062 20.2499" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1002 3.64613C10.8442 3.64613 6.82919 10.0101 7.55119 10.7321C8.27319 11.4541 15.8582 11.5231 16.6492 10.7321C17.4402 9.94014 13.3552 3.64613 12.1002 3.64613Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Up 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Arrow - Up 3</title>     <g id="Iconly/Two-tone/Arrow---Up-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Up-3" transform="translate(12.000000, 12.000000) rotate(-180.000000) translate(-12.000000, -12.000000) translate(6.500000, 3.000000)" stroke="#000000" stroke-width="1.5">             <line x1="5.7513" y1="9.6998" x2="5.7513" y2="0.7498" id="Stroke-1" opacity="0.400000006"></line>             <polygon id="Stroke-3" points="0.7503 9.6998 5.7513 17.6368 10.7523 9.6998"></polygon>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Up 2 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.2495 4L12.2495 19.9998" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M6.58946 9.66016C9.49921 9.66016 12.2495 7.09758 12.2495 4.00011" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.9096 9.66016C14.9998 9.66016 12.2495 7.09758 12.2495 4.00011" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Up 2 — outline style variants.
+class _EssentialArrowUp2Outline {
+  const _EssentialArrowUp2Outline();
+
+  /// Arrow - Up 2 — outline / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.95993 9.13743C6.77193 9.59043 6.60593 10.0734 6.60593 10.5034C6.60593 10.8124 6.69093 11.0934 6.91493 11.3164C7.38034 11.7801 9.23898 12.0372 11.2498 12.0878L11.2498 20.3046C11.2498 20.7186 11.5858 21.0546 11.9998 21.0546C12.4138 21.0546 12.7498 20.7186 12.7498 20.3046L12.7498 12.0874C14.7563 12.036 16.6088 11.7787 17.0729 11.3154C17.6359 10.7514 17.3489 9.81843 17.0389 9.06543C16.3879 7.49243 13.6409 2.94543 11.9929 2.94543C10.2919 2.94543 7.55693 7.69543 6.95993 9.13743ZM8.12493 10.3154C8.36493 9.01943 11.0359 4.95243 11.9949 4.46643C12.9909 4.95043 15.6859 9.01843 15.8839 10.2914C14.6299 10.7044 9.32693 10.6974 8.12493 10.3154Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Up 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Arrow - Up 3</title>     <g id="Iconly/Light-Outline/Arrow---Up-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Up-3" transform="translate(12.000000, 12.500000) scale(1, -1) translate(-12.000000, -12.500000) translate(6.000000, 3.000000)" fill="#000000">             <path d="M5.7512,0.0002 C6.1652,0.0002 6.5012,0.3362 6.5012,0.7502 L6.50104653,8.9492 L10.7526,8.9502 C11.0256,8.9502 11.2766,9.0982 11.4086,9.3382 C11.5416,9.5772 11.5326,9.8692 11.3866,10.0992 L6.3856,18.0362 C6.2486,18.2552 6.0086,18.3872 5.7516,18.3872 C5.4936,18.3872 5.2546,18.2552 5.1166,18.0362 L0.1156,10.0992 C-0.0304,9.8692 -0.0384,9.5772 0.0936,9.3382 C0.2256,9.0982 0.4766,8.9502 0.7506,8.9502 L5.00104653,8.9492 L5.0012,0.7502 C5.0012,0.3362 5.3372,0.0002 5.7512,0.0002 Z M9.3926,10.4502 L5.76551491,10.4500659 C5.76075395,10.4501552 5.75598218,10.4502 5.7512,10.4502 L5.73604653,10.4492 L2.1096,10.4502 L5.7516,16.2292 L9.3926,10.4502 Z" id="Combined-Shape"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Up 2 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4995 3.25L11.4995 20.7498L12.9995 20.7498L12.9995 3.25L11.4995 3.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9995 4.00011C12.9995 7.52766 9.89737 10.4102 6.58947 10.4102H5.83947V8.91016H6.58947C9.10104 8.91016 11.4995 6.6675 11.4995 4.00011V3.25011H12.9995V4.00011Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4995 4.00011C11.4995 7.52766 14.6017 10.4102 17.9096 10.4102H18.6596V8.91016H17.9096C15.398 8.91016 12.9995 6.6675 12.9995 4.00011V3.25011H11.4995V4.00011Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Up 2 — bold style variants.
+class _EssentialArrowUp2Bold {
+  const _EssentialArrowUp2Bold();
+
+  /// Arrow - Up 2 — bold / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2846 8.92849C16.6336 7.35949 13.8876 2.82349 12.2426 2.82349C10.5476 2.82349 7.81061 7.56149 7.21361 9.00049C6.88861 9.78249 6.62861 10.6535 7.16161 11.1885C7.69661 11.7245 9.50861 11.9095 11.2536 11.9585V20.1765C11.2536 20.7295 11.7006 21.1765 12.2536 21.1765C12.8056 21.1765 13.2536 20.7295 13.2536 20.1765V11.9655C15.4906 11.9125 16.8606 11.6525 17.3246 11.1885C17.8876 10.6235 17.5976 9.68449 17.2846 8.92849Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Up 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Arrow - Up 3</title>     <g id="Iconly/Bold/Arrow---Up-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Up-3" transform="translate(6.500000, 3.000000)" fill="#000000" fill-rule="nonzero">             <path d="M0.0898969919,8.85852597 C0.216135321,9.09252108 0.456179416,9.23840087 0.717263233,9.23840087 L4.78271124,9.23840087 L4.78271124,17.2657057 C4.78271124,17.6710362 5.10404517,18 5.49997447,18 C5.89590378,18 6.2172377,17.6710362 6.2172377,17.2657057 L6.2172377,9.23840087 L10.2826857,9.23840087 C10.5447259,9.23840087 10.78477,9.09252108 10.9100519,8.85852597 C11.0372466,8.62453087 11.0286395,8.33864564 10.8899686,8.112483 L6.10725734,0.342670655 C5.97528091,0.12923579 5.74671302,0 5.49997447,0 C5.25323592,0 5.02466803,0.12923579 4.8926916,0.342670655 L0.109980362,8.112483 C0.0372976881,8.2319282 0,8.36801741 0,8.50410661 C0,8.62550993 0.0306032313,8.7478923 0.0898969919,8.85852597"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Up 2 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9101 8.66C15.4721 8.66 13.2501 6.439 13.2501 4V3H11.2501V4C11.2501 6.439 9.02809 8.66 6.59009 8.66H5.59009V10.66H6.59009C8.36309 10.66 10.0281 9.882 11.2501 8.661V21H13.2501V8.661C14.4711 9.882 16.1361 10.66 17.9101 10.66H18.9101V8.66H17.9101Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Up 2 — light style variants.
+class _EssentialArrowUp2Light {
+  const _EssentialArrowUp2Light();
+
+  /// Arrow - Up 2 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.1062 11.2999L12.1062 20.2499" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1002 3.64613C10.8442 3.64613 6.82919 10.0101 7.55119 10.7321C8.27319 11.4541 15.8582 11.5231 16.6492 10.7321C17.4402 9.94014 13.3552 3.64613 12.1002 3.64613Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Up 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Arrow - Up 3</title>     <g id="Iconly/Light/Arrow---Up-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Up-3" transform="translate(12.000000, 12.000000) rotate(-180.000000) translate(-12.000000, -12.000000) translate(6.500000, 3.000000)" stroke="#000000" stroke-width="1.5">             <line x1="5.7513" y1="9.6998" x2="5.7513" y2="0.7498" id="Stroke-1"></line>             <polygon id="Stroke-3" points="0.7503 9.6998 5.7513 17.6368 10.7523 9.6998"></polygon>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Up 2 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Up 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 4.00012L12.25 19.9999" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M6.58995 9.66028C9.4997 9.66028 12.25 7.0977 12.25 4.00023" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.91 9.66028C15.0003 9.66028 12.25 7.0977 12.25 4.00023" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.sharp,
@@ -8126,6 +10999,222 @@ class _EssentialVoiceLight {
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Voice',
     svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2502 22.104V17.7141" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.52949 22.104H14.9697" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M20.7549 12.6037V8.21387" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M3.74512 12.604V8.21411" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2504 17.7139C9.88378 17.7139 7.96484 15.7872 7.96484 13.4096V7.40945C7.96484 5.03185 9.88378 3.104 12.2504 3.104C14.6181 3.104 16.5359 5.03185 16.5359 7.40945V13.4096C16.5359 15.7872 14.6181 17.7139 12.2504 17.7139Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Voice 1 icon with style variants.
+class _EssentialVoice1Icon {
+  const _EssentialVoice1Icon();
+
+  /// bold style
+  _EssentialVoice1Bold get bold => const _EssentialVoice1Bold();
+  /// bulk style
+  _EssentialVoice1Bulk get bulk => const _EssentialVoice1Bulk();
+  /// light style
+  _EssentialVoice1Light get light => const _EssentialVoice1Light();
+  /// outline style
+  _EssentialVoice1Outline get outline => const _EssentialVoice1Outline();
+  /// twoTone style
+  _EssentialVoice1Twotone get twoTone => const _EssentialVoice1Twotone();
+  /// broken style
+  _EssentialVoice1Broken get broken => const _EssentialVoice1Broken();
+}
+
+/// Voice 1 — bulk style variants.
+class _EssentialVoice1Bulk {
+  const _EssentialVoice1Bulk();
+
+  /// Voice 1 — bulk / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0279 13.3245H5.47192C5.05792 13.3245 4.72192 13.6605 4.72192 14.0745C4.72192 14.4885 5.05792 14.8245 5.47192 14.8245H6.41692C6.75592 17.4695 8.85392 19.5685 11.4999 19.9065V21.5055C11.4999 21.9195 11.8359 22.2555 12.2499 22.2555C12.6639 22.2555 12.9999 21.9195 12.9999 21.5055V19.9075C15.6459 19.5685 17.7439 17.4695 18.0829 14.8245H19.0279C19.4419 14.8245 19.7779 14.4885 19.7779 14.0745C19.7779 13.6605 19.4419 13.3245 19.0279 13.3245Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.2535 2.95245C9.00353 2.95245 6.36353 5.59245 6.36353 8.84245V10.9825C6.36353 11.2625 6.58353 11.4825 6.86353 11.4825H17.6335C17.9135 11.4825 18.1335 11.2625 18.1335 10.9825V8.84245C18.1335 5.59245 15.4935 2.95245 12.2535 2.95245Z" fill="black"/> <path d="M10.7532 9.64238H13.7432C14.1532 9.64238 14.4932 9.30238 14.4932 8.89238C14.4932 8.48238 14.1532 8.14238 13.7432 8.14238H10.7532C10.3432 8.14238 10.0032 8.48238 10.0032 8.89238C10.0032 9.30238 10.3432 9.64238 10.7532 9.64238Z" fill="black"/> <path d="M12.7532 5.37238H11.7432C11.3332 5.37238 10.9932 5.71238 10.9932 6.12238C10.9932 6.53238 11.3332 6.87238 11.7432 6.87238H12.7532C13.1632 6.87238 13.5032 6.53238 13.5032 6.12238C13.5032 5.71238 13.1632 5.37238 12.7532 5.37238Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.curved,
+  );
+
+  /// Voice 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bulk/Voice 2</title>     <g id="Iconly/Bulk/Voice-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Voice-2" transform="translate(3.500000, 2.000000)" fill="#000000" fill-rule="nonzero">             <path d="M8.32504986,13.2171318 L8.6747564,13.2171318 C10.5986267,13.2171318 12.2309134,11.9849614 12.8053621,10.2763773 C12.8886717,10.0276473 12.6978346,9.77126403 12.4333751,9.77126403 L11.3561627,9.77126403 C11.0132372,9.77126403 10.7361844,9.49766098 10.7361844,9.15996212 C10.7361844,8.8213066 11.0132372,8.5467469 11.3561627,8.5467469 L12.4004388,8.5467469 C12.7462704,8.5467469 13.0262294,8.27027389 13.0262294,7.92874841 C13.0262294,7.58722293 12.7462704,7.31074992 12.4004388,7.31074992 L11.3561627,7.31074992 C11.0132372,7.31074992 10.7361844,7.03619022 10.7361844,6.69849136 C10.7361844,6.35983584 11.0132372,6.08527614 11.3561627,6.08527614 L12.4004388,6.08527614 C12.7462704,6.08527614 13.0262294,5.80880313 13.0262294,5.46727765 C13.0262294,5.12575217 12.7462704,4.84927916 12.4004388,4.84927916 L11.3561627,4.84927916 C11.0132372,4.84927916 10.7361844,4.57471946 10.7361844,4.23606394 C10.7361844,3.89836508 11.0132372,3.62380538 11.3561627,3.62380538 L12.4885919,3.62380538 C12.7482079,3.62380538 12.9342014,3.37890195 12.8644538,3.13112856 C12.3500655,1.32400915 10.669343,-1.77635684e-15 8.6747564,-1.77635684e-15 L8.32504986,-1.77635684e-15 C5.92166505,-1.77635684e-15 3.97357684,1.92287455 3.97357684,4.2972898 L3.97357684,8.91984196 C3.97357684,11.2933006 5.92166505,13.2171318 8.32504986,13.2171318" id="Fill-1"></path>             <path d="M16.0312838,7.82562111 C15.4965525,7.82562111 15.0625677,8.25324545 15.0625677,8.78227511 C15.0625677,12.3553778 12.1186392,15.2626494 8.50048436,15.2626494 C4.88136076,15.2626494 1.93743233,12.3553778 1.93743233,8.78227511 C1.93743233,8.25324545 1.50344749,7.82562111 0.968716166,7.82562111 C0.433984842,7.82562111 0,8.25324545 0,8.78227511 C0,13.0872181 3.29944726,16.6411878 7.53176819,17.1185581 L7.53176819,19.043346 C7.53176819,19.571419 7.96478432,20 8.50048436,20 C9.03521568,20 9.46920052,19.571419 9.46920052,19.043346 L9.46920052,17.1185581 C13.7005527,16.6411878 17,13.0872181 17,8.78227511 C17,8.25324545 16.5660152,7.82562111 16.0312838,7.82562111" id="Fill-3" opacity="0.400000006"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+  /// Voice 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.7779 11.147V11.897C18.7779 15.516 15.8489 18.46 12.2489 18.46C8.64992 18.46 5.72192 15.516 5.72192 11.897V11.147H4.22192V11.897C4.22192 16.088 7.42292 19.54 11.4979 19.922V22.731H12.9979V19.922C17.0749 19.541 20.2779 16.089 20.2779 11.897V11.147H18.7779Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.96 10.1771V11.6771H16.44V11.8671C16.44 14.1871 14.56 16.0771 12.25 16.0771C9.93005 16.0771 8.05005 14.1871 8.05005 11.8671V6.69705C8.05005 4.36705 9.93005 2.47705 12.25 2.47705C14.52 2.47705 16.37 4.29705 16.43 6.56705H13.04V8.06705H16.44V10.1771H11.96Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Voice 1 — broken style variants.
+class _EssentialVoice1Broken {
+  const _EssentialVoice1Broken();
+
+  /// Voice 1 — broken / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.86414 13.594C6.86414 16.569 9.27514 18.98 12.2511 18.98C15.2251 18.98 17.6361 16.569 17.6361 13.594" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.71865 4.29382C7.58265 5.28082 6.86365 6.73682 6.86365 8.36082V10.5018" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.6361 10.502V8.36098C17.6361 5.38598 15.2251 2.97498 12.2501 2.97498" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2506 21.025V18.98" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.47253 13.594H19.0275" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.7577 10.214H13.7427" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7514 7.44397H11.7484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.curved,
+  );
+
+  /// Voice 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0004 22V18.839" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0611 6.5V6.08095C16.0611 3.82732 14.2433 2 12.0003 2C9.75618 2 7.93848 3.82732 7.93848 6.08095V10.7682C7.93848 13.0218 9.75618 14.8481 12.0003 14.8481C14.2433 14.8481 16.0611 13.0218 16.0611 10.7682V10.3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20 10.8006C20 15.2394 16.418 18.8383 12 18.8383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4 10.8006C4 14.1737 6.06787 17.0618 9 18.2541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0688 6.75576H16.0584" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0703 10.0935H16.0604" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+  /// Voice 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.7883 7.43799H15.9403" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.7083 11.0488H15.9433" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2483 22.104V19.333" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.249 15.702C10.208 15.702 8.55396 14.041 8.55396 11.991V6.817C8.55396 4.767 10.208 3.104 12.249 3.104C14.291 3.104 15.945 4.767 15.945 6.817V11.991C15.945 14.041 14.291 15.702 12.249 15.702Z" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/> <path d="M19.5279 12.02C19.5279 16.059 16.2699 19.333 12.2489 19.333C8.22992 19.333 4.97192 16.059 4.97192 12.02" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Voice 1 — twoTone style variants.
+class _EssentialVoice1Twotone {
+  const _EssentialVoice1Twotone();
+
+  /// Voice 1 — twoTone / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.60376 14.2284C6.60376 17.2028 9.01486 19.6139 11.9903 19.6139C14.9647 19.6139 17.3758 17.2028 17.3758 14.2284" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.3757 11.1357V8.99444C17.3757 6.01999 14.9646 3.60889 11.9901 3.60889C9.01474 3.60889 6.60364 6.01999 6.60364 8.99444V11.1357" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M11.9903 21.6587V19.6143" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.21216 14.2284H18.7677" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.4974 10.8477H13.4823" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4911 8.07803H11.4879" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.curved,
+  );
+
+  /// Voice 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Voice 2</title>     <g id="Iconly/Two-tone/Voice-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Voice-2" transform="translate(4.000000, 2.000000)" stroke="#000000" stroke-width="1.5">             <path d="M0.714380952,8.932 C0.714380952,13.0215238 4.02866667,16.3358095 8.11819048,16.3358095 C12.2077143,16.3358095 15.5229524,13.0215238 15.5229524,8.932" id="Stroke-1" opacity="0.400000006"></path>             <line x1="8.11857143" y1="19.1468571" x2="8.11857143" y2="16.336381" id="Stroke-3" opacity="0.400000006"></line>             <path d="M8.24457143,12.584381 L7.99219048,12.584381 C5.9712381,12.584381 4.33219048,10.9462857 4.33219048,8.92438095 L4.33219048,4.37390476 C4.33219048,2.35295238 5.9712381,0.713904762 7.99219048,0.713904762 L8.24457143,0.713904762 C10.2664762,0.713904762 11.9045714,2.35295238 11.9045714,4.37390476 L11.9045714,8.92438095 C11.9045714,10.9462857 10.2664762,12.584381 8.24457143,12.584381 Z M10.0015238,4.87695238 L11.904381,4.87695238 M9.04914286,8.04847619 L11.904381,8.04847619" id="Combined-Shape"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+  /// Voice 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.7881 7.43804H15.9405" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M12.708 11.0489H15.9428" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M12.248 22.104V19.3326" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2482 15.7023C10.2075 15.7023 8.55273 14.0408 8.55273 11.9906V6.81664C8.55273 4.76641 10.2075 3.104 12.2482 3.104C14.2899 3.104 15.9437 4.76641 15.9437 6.81664V11.9906C15.9437 14.0408 14.2899 15.7023 12.2482 15.7023Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.5277 12.0201C19.5277 16.0584 16.2697 19.3324 12.2492 19.3324C8.22965 19.3324 4.97168 16.0584 4.97168 12.0201" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Voice 1 — outline style variants.
+class _EssentialVoice1Outline {
+  const _EssentialVoice1Outline();
+
+  /// Voice 1 — outline / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.60376 13.4784C7.01797 13.4784 7.35376 13.8141 7.35376 14.2284C7.35376 16.7885 9.42899 18.8639 11.9903 18.8639C14.5505 18.8639 16.6258 16.7886 16.6258 14.2284C16.6258 13.8141 16.9616 13.4784 17.3758 13.4784C17.79 13.4784 18.1258 13.8141 18.1258 14.2284C18.1258 17.617 15.3789 20.3639 11.9903 20.3639C8.60073 20.3639 5.85376 17.6171 5.85376 14.2284C5.85376 13.8141 6.18955 13.4784 6.60376 13.4784Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.85364 8.99444C5.85364 5.60569 8.60061 2.85889 11.9901 2.85889C15.3788 2.85889 18.1257 5.60577 18.1257 8.99444V11.1357C18.1257 11.55 17.7899 11.8857 17.3757 11.8857C16.9615 11.8857 16.6257 11.55 16.6257 11.1357V8.99444C16.6257 6.4342 14.5504 4.35889 11.9901 4.35889C9.42886 4.35889 7.35364 6.43429 7.35364 8.99444V11.1357C7.35364 11.55 7.01785 11.8857 6.60364 11.8857C6.18942 11.8857 5.85364 11.55 5.85364 11.1357V8.99444Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9902 18.8642C12.4044 18.8642 12.7402 19.2 12.7402 19.6142V21.6586C12.7402 22.0728 12.4044 22.4086 11.9902 22.4086C11.576 22.4086 11.2402 22.0728 11.2402 21.6586V19.6142C11.2402 19.2 11.576 18.8642 11.9902 18.8642Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.46216 14.2284C4.46216 13.8141 4.79794 13.4784 5.21216 13.4784H18.7677C19.1819 13.4784 19.5177 13.8141 19.5177 14.2284C19.5177 14.6426 19.1819 14.9784 18.7677 14.9784H5.21216C4.79794 14.9784 4.46216 14.6426 4.46216 14.2284Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.74744 10.8477C9.74744 10.4335 10.0832 10.0977 10.4974 10.0977H13.4823C13.8966 10.0977 14.2323 10.4335 14.2323 10.8477C14.2323 11.2619 13.8966 11.5977 13.4823 11.5977H10.4974C10.0832 11.5977 9.74744 11.2619 9.74744 10.8477Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.7379 8.07797C10.7379 7.66376 11.0737 7.32797 11.4879 7.32797H12.4911C12.9053 7.32797 13.2411 7.66376 13.2411 8.07797C13.2411 8.49219 12.9053 8.82797 12.4911 8.82797H11.4879C11.0737 8.82797 10.7379 8.49219 10.7379 8.07797Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.curved,
+  );
+
+  /// Voice 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Voice 2</title>     <g id="Iconly/Light-Outline/Voice-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Voice-2" transform="translate(3.000000, 1.000000)" fill="#000000">             <path d="M16.75,8.8009 C17.164,8.8009 17.5,9.1369 17.5,9.5509 C17.5,14.1430846 13.9753863,17.9234856 9.50030497,18.3068946 L9.5,20.75 C9.5,21.164 9.164,21.5 8.75,21.5 C8.336,21.5 8,21.164 8,20.75 L8.00069106,18.3069798 C3.52513666,17.9240465 0,14.1434253 0,9.5509 C0,9.1369 0.336,8.8009 0.75,8.8009 C1.164,8.8009 1.5,9.1369 1.5,9.5509 C1.5,13.5689 4.752,16.8389 8.75,16.8389 C12.748,16.8389 16,13.5689 16,9.5509 C16,9.1369 16.336,8.8009 16.75,8.8009 Z M8.75,-6.75015599e-14 C11.403,-6.75015599e-14 13.561,2.167 13.561,4.831 L13.561,9.519 C13.561,12.182 11.403,14.349 8.75,14.349 C6.097,14.349 3.938,12.182 3.938,9.519 L3.938,4.831 C3.938,2.167 6.097,-6.75015599e-14 8.75,-6.75015599e-14 Z M8.75,1.5 C6.924,1.5 5.438,2.994 5.438,4.831 L5.438,9.519 C5.438,11.354 6.924,12.849 8.75,12.849 C10.5510137,12.849 12.0202958,11.3946341 12.0601688,9.59413446 L9.8205,9.5938 C9.4065,9.5938 9.0705,9.2578 9.0705,8.8438 C9.0705,8.4298 9.4065,8.0938 9.8205,8.0938 L12.06,8.093 L12.06,6.255 L10.8186,6.2559 C10.4046,6.2559 10.0686,5.9199 10.0686,5.5059 C10.0686,5.0919 10.4046,4.7559 10.8186,4.7559 L12.058,4.755 L12.0557496,4.64223625 C11.9581807,2.89274197 10.5130345,1.5 8.75,1.5 Z" id="Combined-Shape"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+  /// Voice 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<svg width="25" height="26" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0381 7.18805H16.6905V8.68805H13.0381V7.18805Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.958 10.7989H16.6928V12.2989H11.958V10.7989Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.998 19.0826V23.354H11.498V19.0826H12.998Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2482 4.354C10.6249 4.354 9.30273 5.67734 9.30273 7.31664V12.4906C9.30273 14.1297 10.6247 15.4523 12.2482 15.4523C13.8726 15.4523 15.1937 14.1298 15.1937 12.4906V7.31664C15.1937 5.67722 13.8723 4.354 12.2482 4.354ZM7.80273 7.31664C7.80273 4.85547 9.78997 2.854 12.2482 2.854C14.7075 2.854 16.6937 4.8556 16.6937 7.31664V12.4906C16.6937 14.9519 14.7073 16.9523 12.2482 16.9523C9.79022 16.9523 7.80273 14.952 7.80273 12.4906V7.31664Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.72168 11.7702V12.5202C5.72168 16.1476 8.64726 19.0825 12.2492 19.0825C15.8522 19.0825 18.7777 16.1475 18.7777 12.5202V11.7702H20.2777V12.5202C20.2777 16.9693 16.6873 20.5825 12.2492 20.5825C7.81203 20.5825 4.22168 16.9692 4.22168 12.5202V11.7702H5.72168Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Voice 1 — bold style variants.
+class _EssentialVoice1Bold {
+  const _EssentialVoice1Bold();
+
+  /// Voice 1 — bold / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7438 9.64251H10.7538C10.3438 9.64251 10.0038 9.30251 10.0038 8.89251C10.0038 8.48251 10.3438 8.14251 10.7538 8.14251H13.7438C14.1538 8.14251 14.4938 8.48251 14.4938 8.89251C14.4938 9.30251 14.1538 9.64251 13.7438 9.64251ZM11.7438 5.37251H12.7538C13.1638 5.37251 13.5038 5.71251 13.5038 6.12251C13.5038 6.53251 13.1638 6.87251 12.7538 6.87251H11.7438C11.3338 6.87251 10.9938 6.53251 10.9938 6.12251C10.9938 5.71251 11.3338 5.37251 11.7438 5.37251ZM12.2538 2.95251C9.00382 2.95251 6.36382 5.59251 6.36382 8.84251V10.9825C6.36382 11.2625 6.58382 11.4825 6.86382 11.4825H17.6338C17.9138 11.4825 18.1338 11.2625 18.1338 10.9825V8.84251C18.1338 5.59251 15.4938 2.95251 12.2538 2.95251Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0279 13.3245H5.47192C5.05792 13.3245 4.72192 13.6605 4.72192 14.0745C4.72192 14.4885 5.05792 14.8245 5.47192 14.8245H6.41692C6.75592 17.4695 8.85392 19.5685 11.4999 19.9065V21.5055C11.4999 21.9195 11.8359 22.2555 12.2499 22.2555C12.6639 22.2555 12.9999 21.9195 12.9999 21.5055V19.9075C15.6459 19.5685 17.7439 17.4695 18.0829 14.8245H19.0279C19.4419 14.8245 19.7779 14.4885 19.7779 14.0745C19.7779 13.6605 19.4419 13.3245 19.0279 13.3245Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.curved,
+  );
+
+  /// Voice 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Voice 2</title>     <g id="Iconly/Bold/Voice-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Voice-2" transform="translate(3.500000, 2.000000)" fill="#000000" fill-rule="nonzero">             <path d="M16.0312838,7.82620341 C16.5660152,7.82620341 17,8.2538073 17,8.78281166 C17,13.0865922 13.7005527,16.6403918 9.46920052,17.1177393 L9.46920052,17.1177393 L9.46920052,19.0433918 C9.46920052,19.5714395 9.03521568,20 8.50048436,20 C7.96478432,20 7.53176819,19.5714395 7.53176819,19.0433918 L7.53176819,19.0433918 L7.53176819,17.1177393 C3.29944726,16.6403918 1.77635684e-14,13.0865922 1.77635684e-14,8.78281166 C1.77635684e-14,8.2538073 0.433984842,7.82620341 0.968716166,7.82620341 C1.50344749,7.82620341 1.93743233,8.2538073 1.93743233,8.78281166 C1.93743233,12.3557435 4.88136076,15.2628759 8.50048436,15.2628759 C12.1186392,15.2628759 15.0625677,12.3557435 15.0625677,8.78281166 C15.0625677,8.2538073 15.4965525,7.82620341 16.0312838,7.82620341 Z M8.6747564,-1.86517468e-14 C10.669343,-1.86517468e-14 12.3500655,1.32394582 12.8644538,3.1309788 C12.9351701,3.37874034 12.7482079,3.62458866 12.4885919,3.62458866 L12.4885919,3.62458866 L11.3561627,3.62458866 C11.0142059,3.62458866 10.7361844,3.89817862 10.7361844,4.23586133 L10.7361844,4.23586133 C10.7361844,4.57545726 11.0142059,4.84904722 11.3561627,4.84904722 L11.3561627,4.84904722 L12.4004388,4.84904722 C12.7462704,4.84904722 13.0271981,5.125507 13.0271981,5.46701615 C13.0271981,5.80852529 12.7462704,6.08498508 12.4004388,6.08498508 L12.4004388,6.08498508 L11.3561627,6.08498508 C11.0142059,6.08498508 10.7361844,6.35953164 10.7361844,6.69817097 C10.7361844,7.03585368 11.0142059,7.31040024 11.3561627,7.31040024 L11.3561627,7.31040024 L12.4004388,7.31040024 C12.7462704,7.31040024 13.0271981,7.58686003 13.0271981,7.92932578 C13.0271981,8.26987832 12.7462704,8.5463381 12.4004388,8.5463381 L12.4004388,8.5463381 L11.3561627,8.5463381 C11.0142059,8.5463381 10.7361844,8.82088467 10.7361844,9.15952399 C10.7361844,9.4972067 11.0142059,9.77079666 11.3561627,9.77079666 L11.3561627,9.77079666 L12.4333751,9.77079666 C12.6988034,9.77079666 12.8886717,10.0271677 12.8053621,10.2758858 C12.2309134,11.9843882 10.5995954,13.2164996 8.6747564,13.2164996 L8.6747564,13.2164996 L8.32504986,13.2164996 C5.92166505,13.2164996 3.97357684,11.2927604 3.97357684,8.92037193 L3.97357684,8.92037193 L3.97357684,4.29708426 C3.97357684,1.92373919 5.92166505,-1.86517468e-14 8.32504986,-1.86517468e-14 L8.32504986,-1.86517468e-14 Z"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+  /// Voice 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9601 10.177V11.677H16.4401V11.867C16.4401 14.187 14.5601 16.077 12.2501 16.077C9.93012 16.077 8.05012 14.187 8.05012 11.867V6.69699C8.05012 4.36699 9.93012 2.47699 12.2501 2.47699C14.5201 2.47699 16.3701 4.29699 16.4301 6.56699H13.0401V8.06699H16.4401V10.177H11.9601Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7779 11.147V11.897C18.7779 15.516 15.8489 18.46 12.2489 18.46C8.64992 18.46 5.72192 15.516 5.72192 11.897V11.147H4.22192V11.897C4.22192 16.088 7.42292 19.54 11.4979 19.922V22.731H12.9979V19.922C17.0749 19.541 20.2779 16.089 20.2779 11.897V11.147H18.7779Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Voice 1 — light style variants.
+class _EssentialVoice1Light {
+  const _EssentialVoice1Light();
+
+  /// Voice 1 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.60376 13.8324C6.60376 16.8068 9.01486 19.2179 11.9903 19.2179C14.9647 19.2179 17.3758 16.8068 17.3758 13.8324" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3757 10.7397V8.59844C17.3757 5.62399 14.9646 3.21289 11.9901 3.21289C9.01474 3.21289 6.60364 5.62399 6.60364 8.59844V10.7397" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9903 21.2627V19.2183" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.21216 13.8324H18.7677" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.4974 10.4517H13.4823" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4911 7.68203H11.4879" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+  /// Voice 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Voice 2</title>     <g id="Iconly/Light/Voice-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Voice-2" transform="translate(4.000000, 2.000000)" stroke="#000000" stroke-width="1.5">             <line x1="8.00020953" y1="20" x2="8.00020953" y2="16.8390306" id="Stroke-1"></line>             <path d="M8.00020953,12.8480829 L8.00020953,12.8480829 C5.75610267,12.8480829 3.93839707,11.0218152 3.93839707,8.76819031 L3.93839707,4.08094524 C3.93839707,1.82732033 5.75610267,-3.55271368e-15 8.00020953,-3.55271368e-15 C10.2432687,-3.55271368e-15 12.0609743,1.82732033 12.0609743,4.08094524 L12.0609743,8.76819031 C12.0609743,11.0218152 10.2432687,12.8480829 8.00020953,12.8480829 Z" id="Stroke-3"></path>             <path d="M16,8.80061051 C16,13.2394411 12.4180199,16.8382937 8,16.8382937 C3.58093243,16.8382937 7.10542736e-15,13.2394411 7.10542736e-15,8.80061051" id="Stroke-5"></path>             <line x1="10.0689366" y1="4.75576959" x2="12.0584599" y2="4.75576959" id="Stroke-7"></line>             <line x1="9.07040335" y1="8.09347122" x2="12.0604505" y2="8.09347122" id="Stroke-9"></line>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+  /// Voice 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Voice 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.7884 7.43804H15.9408" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.7083 11.0489H15.9431" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2484 22.104V19.3326" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2485 15.7023C10.2078 15.7023 8.55304 14.0408 8.55304 11.9906V6.81664C8.55304 4.76641 10.2078 3.104 12.2485 3.104C14.2902 3.104 15.944 4.76641 15.944 6.81664V11.9906C15.944 14.0408 14.2902 15.7023 12.2485 15.7023Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.528 12.0201C19.528 16.0584 16.27 19.3324 12.2495 19.3324C8.22995 19.3324 4.97198 16.0584 4.97198 12.0201" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.sharp,
@@ -9472,7 +12561,7 @@ class _EssentialPaperUploadBulk {
   /// Paper Upload — bulk / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Paper Upload',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.5401 8.47967V3.81967L19.0101 8.47967H14.5401ZM15.0301 2.38867H4.08008V21.8887H20.4201V8.00867L15.0301 2.38867Z" fill="black"/> <path d="M13.2653 13.5186H14.0153V12.0186H13.2653C12.3043 12.0186 11.4283 11.1426 11.4283 10.1816V9.43164H9.92831V10.1816C9.92831 11.1426 9.05231 12.0186 8.09131 12.0186H7.34131V13.5186H8.09131C8.75831 13.5186 9.39431 13.2996 9.92831 12.9316V18.7776H11.4283V12.9316C11.9633 13.2996 12.5993 13.5186 13.2653 13.5186Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.5401 8.341V3.681L19.0101 8.341H14.5401ZM15.0301 2.25H4.08008V21.75H20.4201V7.87L15.0301 2.25Z" fill="black"/> <path d="M7.71387 12.9421L11.1379 9.50315L14.5609 12.9431L13.4979 14.0011L11.8869 12.3821V17.9731H10.3869V12.3831L8.77587 14.0011L7.71387 12.9421Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.sharp,
@@ -9505,7 +12594,7 @@ class _EssentialPaperUploadBroken {
   /// Paper Upload — broken / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Paper Upload',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.91095 21.3887H19.925V8.20667L14.818 2.88867H4.57495V21.3887" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.3435 5.44238V8.78838H19.4505" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M11.1145 10.6196V18.4656" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.52759 13.2066C9.85759 13.2066 11.1146 12.0346 11.1146 10.6196" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.7015 13.2066C12.3715 13.2066 11.1145 12.0346 11.1145 10.6196" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.36395 21.25H19.925V8.068L14.818 2.75H4.57495V21.25" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.342 5.30469V8.64969H19.45" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M11.114 10.8057V16.8947" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.4777 12.6118L11.1137 10.2378L8.75073 12.6118" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.sharp,
@@ -9538,7 +12627,7 @@ class _EssentialPaperUploadTwotone {
   /// Paper Upload — twoTone / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Paper Upload',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8179 2.88867L4.5752 2.88867V21.3887H19.9245V8.20693L14.8179 2.88867Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.3428 3.44336V8.78878H19.4498" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <g opacity="0.4"> <path d="M11.1143 10.6196L11.1143 18.466" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.52746 13.2065C9.85729 13.2065 11.1143 12.0354 11.1143 10.6197" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.7011 13.2065C12.3712 13.2065 11.1143 12.0354 11.1143 10.6197" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </g> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8179 2.75L4.5752 2.75V21.25H19.9245V8.06826L14.8179 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M14.3425 3.30469V8.65011H19.4496" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M11.1142 10.8054V16.8948M13.4783 12.6118L11.1145 10.2379L8.7507 12.6118" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.sharp,
@@ -9571,7 +12660,7 @@ class _EssentialPaperUploadOutline {
   /// Paper Upload — outline / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Paper Upload',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.8252 2.63867H15.1375L20.6745 8.40515V22.6387H3.8252V2.63867ZM5.3252 4.13867V21.1387H19.1745V9.00871L14.4983 4.13867H5.3252Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0928 3.19336V8.53878H20.1998V10.0388H13.5928V3.19336H15.0928Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3643 10.3696L10.3643 19.716L11.8643 19.716L11.8643 10.3696L10.3643 10.3696Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8643 11.1197C11.8643 12.9655 10.2555 14.4565 8.52746 14.4565L7.77746 14.4565L7.77746 12.9565L8.52746 12.9565C9.45913 12.9565 10.3643 12.1053 10.3643 11.1197L10.3643 10.3697L11.8643 10.3697L11.8643 11.1197Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3643 11.1197C10.3643 12.9655 11.9731 14.4565 13.7011 14.4565L14.4511 14.4565L14.4511 12.9565L13.7011 12.9565C12.7694 12.9565 11.8643 12.1053 11.8643 11.1197L11.8643 10.3697L10.3643 10.3697L10.3643 11.1197Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.8252 2H15.1375L20.6745 7.76648V22H3.8252V2ZM5.3252 3.5V20.5H19.1745V8.37004L14.4983 3.5H5.3252Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0925 2.55469V7.90011H20.1996V9.40011H13.5925V2.55469H15.0925Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8642 10.0555V17.6448H10.3642V10.0555H11.8642Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1145 9.17505L14.5389 12.6141L13.476 13.6725L11.1145 11.3009L8.75296 13.6725L7.69005 12.6141L11.1145 9.17505Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.sharp,
@@ -9604,7 +12693,7 @@ class _EssentialPaperUploadBold {
   /// Paper Upload — bold / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Paper Upload',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5401 8.47967V3.81967L19.0101 8.47967H14.5401ZM14.0151 13.5187H13.2651C12.5991 13.5187 11.9631 13.2997 11.4281 12.9317V18.7777H9.92808V12.9317C9.39408 13.2997 8.75808 13.5187 8.09108 13.5187H7.34108V12.0187H8.09108C9.05208 12.0187 9.92808 11.1427 9.92808 10.1817V9.43167H11.4281V10.1817C11.4281 11.1427 12.3041 12.0187 13.2651 12.0187H14.0151V13.5187ZM15.0301 2.38867H4.08008V21.8887H20.4201V8.00867L15.0301 2.38867Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5401 8.341V3.681L19.0101 8.341H14.5401ZM13.5001 13.687L11.8871 12.068V17.66H10.3871V12.07L8.77608 13.687L7.71408 12.629L11.1381 9.19L14.5621 12.629L13.5001 13.687ZM15.0301 2.25H4.08008V21.75H20.4201V7.87L15.0301 2.25Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.sharp,
@@ -9637,6 +12726,114 @@ class _EssentialPaperUploadLight {
   /// Paper Upload — light / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Paper Upload',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8181 2.75L4.57535 2.75V21.25H19.9247V8.06826L14.8181 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.3427 3.30469V8.65011H19.4497" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M11.1145 10.8054V16.8948" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.4785 12.6118L11.1147 10.2379L8.75089 12.6118" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Paper Upload 1 icon with style variants.
+class _EssentialPaperUpload1Icon {
+  const _EssentialPaperUpload1Icon();
+
+  /// bold style
+  _EssentialPaperUpload1Bold get bold => const _EssentialPaperUpload1Bold();
+  /// bulk style
+  _EssentialPaperUpload1Bulk get bulk => const _EssentialPaperUpload1Bulk();
+  /// light style
+  _EssentialPaperUpload1Light get light => const _EssentialPaperUpload1Light();
+  /// outline style
+  _EssentialPaperUpload1Outline get outline => const _EssentialPaperUpload1Outline();
+  /// twoTone style
+  _EssentialPaperUpload1Twotone get twoTone => const _EssentialPaperUpload1Twotone();
+  /// broken style
+  _EssentialPaperUpload1Broken get broken => const _EssentialPaperUpload1Broken();
+}
+
+/// Paper Upload 1 — bulk style variants.
+class _EssentialPaperUpload1Bulk {
+  const _EssentialPaperUpload1Bulk();
+
+  /// Paper Upload 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Paper Upload 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.5401 8.47967V3.81967L19.0101 8.47967H14.5401ZM15.0301 2.38867H4.08008V21.8887H20.4201V8.00867L15.0301 2.38867Z" fill="black"/> <path d="M13.2653 13.5186H14.0153V12.0186H13.2653C12.3043 12.0186 11.4283 11.1426 11.4283 10.1816V9.43164H9.92831V10.1816C9.92831 11.1426 9.05231 12.0186 8.09131 12.0186H7.34131V13.5186H8.09131C8.75831 13.5186 9.39431 13.2996 9.92831 12.9316V18.7776H11.4283V12.9316C11.9633 13.2996 12.5993 13.5186 13.2653 13.5186Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Paper Upload 1 — broken style variants.
+class _EssentialPaperUpload1Broken {
+  const _EssentialPaperUpload1Broken();
+
+  /// Paper Upload 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Paper Upload 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.91095 21.3887H19.925V8.20667L14.818 2.88867H4.57495V21.3887" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.3435 5.44238V8.78838H19.4505" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M11.1145 10.6196V18.4656" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.52759 13.2066C9.85759 13.2066 11.1146 12.0346 11.1146 10.6196" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.7015 13.2066C12.3715 13.2066 11.1145 12.0346 11.1145 10.6196" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Paper Upload 1 — twoTone style variants.
+class _EssentialPaperUpload1Twotone {
+  const _EssentialPaperUpload1Twotone();
+
+  /// Paper Upload 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Paper Upload 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8179 2.88867L4.5752 2.88867V21.3887H19.9245V8.20693L14.8179 2.88867Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.3428 3.44336V8.78878H19.4498" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <g opacity="0.4"> <path d="M11.1143 10.6196L11.1143 18.466" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.52746 13.2065C9.85729 13.2065 11.1143 12.0354 11.1143 10.6197" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.7011 13.2065C12.3712 13.2065 11.1143 12.0354 11.1143 10.6197" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Paper Upload 1 — outline style variants.
+class _EssentialPaperUpload1Outline {
+  const _EssentialPaperUpload1Outline();
+
+  /// Paper Upload 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Paper Upload 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.8252 2.63867H15.1375L20.6745 8.40515V22.6387H3.8252V2.63867ZM5.3252 4.13867V21.1387H19.1745V9.00871L14.4983 4.13867H5.3252Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0928 3.19336V8.53878H20.1998V10.0388H13.5928V3.19336H15.0928Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3643 10.3696L10.3643 19.716L11.8643 19.716L11.8643 10.3696L10.3643 10.3696Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8643 11.1197C11.8643 12.9655 10.2555 14.4565 8.52746 14.4565L7.77746 14.4565L7.77746 12.9565L8.52746 12.9565C9.45913 12.9565 10.3643 12.1053 10.3643 11.1197L10.3643 10.3697L11.8643 10.3697L11.8643 11.1197Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3643 11.1197C10.3643 12.9655 11.9731 14.4565 13.7011 14.4565L14.4511 14.4565L14.4511 12.9565L13.7011 12.9565C12.7694 12.9565 11.8643 12.1053 11.8643 11.1197L11.8643 10.3697L10.3643 10.3697L10.3643 11.1197Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Paper Upload 1 — bold style variants.
+class _EssentialPaperUpload1Bold {
+  const _EssentialPaperUpload1Bold();
+
+  /// Paper Upload 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Paper Upload 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5401 8.47967V3.81967L19.0101 8.47967H14.5401ZM14.0151 13.5187H13.2651C12.5991 13.5187 11.9631 13.2997 11.4281 12.9317V18.7777H9.92808V12.9317C9.39408 13.2997 8.75808 13.5187 8.09108 13.5187H7.34108V12.0187H8.09108C9.05208 12.0187 9.92808 11.1427 9.92808 10.1817V9.43167H11.4281V10.1817C11.4281 11.1427 12.3041 12.0187 13.2651 12.0187H14.0151V13.5187ZM15.0301 2.38867H4.08008V21.8887H20.4201V8.00867L15.0301 2.38867Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Paper Upload 1 — light style variants.
+class _EssentialPaperUpload1Light {
+  const _EssentialPaperUpload1Light();
+
+  /// Paper Upload 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Paper Upload 1',
     svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8181 2.88867L4.57535 2.88867V21.3887H19.9247V8.20693L14.8181 2.88867Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.3429 3.44336V8.78878H19.45" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M11.1144 10.6196L11.1144 18.466" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.52761 13.2065C9.85744 13.2065 11.1144 12.0354 11.1144 10.6197" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.7012 13.2065C12.3714 13.2065 11.1144 12.0354 11.1144 10.6197" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
@@ -10318,7 +13515,7 @@ class _EssentialImageBulk {
   /// Image — bulk / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Image',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M6.726 15.2301C7.911 14.6741 8.869 15.0181 9.796 15.3521C10.495 15.6041 11.219 15.8641 12.22 15.8641C12.998 15.8641 13.457 15.1771 14.12 14.0431C14.78 12.9161 15.601 11.5131 17.259 11.5131C19.563 11.5131 20.991 12.9661 21.959 14.0371C21.984 13.5791 22 13.1051 22 12.6041C22 5.40513 19.448 2.85413 12.25 2.85413C5.052 2.85413 2.5 5.40513 2.5 12.6041C2.5 15.2891 2.856 17.3271 3.676 18.8281C4.192 17.8111 5.314 15.8931 6.726 15.2301Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4818 15.7358C21.3348 15.5848 21.1788 15.4118 21.0118 15.2248C20.1278 14.2398 19.0268 13.0128 17.2588 13.0128C16.5148 13.0128 16.0658 13.6888 15.4158 14.8008C14.7468 15.9438 13.9158 17.3648 12.2198 17.3648C10.9568 17.3648 10.0318 17.0318 9.2878 16.7628C8.4118 16.4468 7.9598 16.3068 7.3648 16.5878C6.2328 17.1198 5.0968 19.2658 4.7548 20.0478C4.7348 20.0958 4.7038 20.1348 4.6748 20.1768C6.2118 21.7158 8.6498 22.3538 12.2508 22.3538C18.2098 22.3538 20.9778 20.5958 21.7568 15.9098C21.6558 15.8718 21.5618 15.8178 21.4818 15.7358Z" fill="black"/> <path d="M11.3491 9.38807C11.3491 8.14207 10.3341 7.12708 9.08815 7.12708C7.84215 7.12708 6.82715 8.14207 6.82715 9.38807C6.82715 10.6341 7.84215 11.6481 9.08815 11.6481C10.3341 11.6481 11.3491 10.6341 11.3491 9.38807Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.25 2.854C5.051 2.854 2.5 5.406 2.5 12.604C2.5 19.802 5.051 22.354 12.25 22.354C19.448 22.354 22 19.802 22 12.604C22 5.406 19.448 2.854 12.25 2.854Z" fill="black"/> <path d="M17.5357 16.0499C17.7057 16.4279 18.1517 16.5979 18.5267 16.4269C18.9047 16.2579 19.0737 15.8159 18.9057 15.4379C18.7767 15.1479 17.5867 12.6029 15.6727 12.6029C14.555 12.6029 13.6791 13.6574 12.8313 14.6782L12.8307 14.6789L12.83 14.6798C12.4328 15.158 11.6945 16.0469 11.4107 16.0509C11.0077 16.0509 10.6977 15.8359 10.2267 15.4859C9.74173 15.1239 9.13873 14.6759 8.31473 14.6759C6.71373 14.6759 5.75273 16.5189 5.64873 16.7299C5.46473 17.0999 5.61573 17.5479 5.98473 17.7329C6.09273 17.7859 6.20673 17.8119 6.31873 17.8119C6.59373 17.8119 6.85973 17.6599 6.99073 17.3979C7.19173 16.9989 7.77973 16.1759 8.31473 16.1759C8.62573 16.1759 8.90373 16.3709 9.33173 16.6889L9.33225 16.6893C9.84816 17.0732 10.49 17.5509 11.4107 17.5509C12.3967 17.5509 13.1687 16.6209 13.9847 15.6369L13.9974 15.6217C14.5054 15.0117 15.2621 14.1029 15.6727 14.1029C16.4187 14.1029 17.2507 15.4139 17.5357 16.0499Z" fill="black"/> <path d="M10.8887 9.70888C10.8887 8.57488 9.96573 7.65188 8.83073 7.65088C7.69573 7.65088 6.77373 8.57388 6.77373 9.70888C6.77373 10.8439 7.69573 11.7669 8.83073 11.7669C9.96473 11.7669 10.8887 10.8439 10.8887 9.70888Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.curved,
@@ -10327,7 +13524,7 @@ class _EssentialImageBulk {
   /// Image — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Image',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bulk/Image 2</title>     <g id="Iconly/Bulk/Image-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Image-2" transform="translate(2.000000, 2.000000)" fill="#000000" fill-rule="nonzero">             <path d="M19.9998998,12.7023545 L19.9998998,14.0858894 C19.9998998,14.315476 19.9898798,14.5470678 19.9698397,14.7766544 C19.6892786,17.9357258 17.4948898,20 14.3285571,20 L5.67124248,20 C4.06803607,20 2.71533066,19.4796706 1.74338677,18.5362601 C1.36262525,18.1863662 1.04198397,17.7753159 0.791482966,17.304112 C1.12214429,16.9020848 1.49288577,16.4619603 1.85360721,16.0208332 C2.46482966,15.2889633 3.05601202,14.5661164 3.42675351,14.0959151 C3.97785571,13.4141732 5.43076152,11.619588 7.44478958,12.4617397 C7.85561122,12.6321752 8.21633267,12.87279 8.54699399,13.0833279 C9.35861723,13.6247111 9.6992986,13.785121 10.2704409,13.4743269 C10.9017034,13.133456 11.3125251,12.4617397 11.7433868,11.7599467 C11.9738477,11.3879963 12.2043086,11.0280767 12.4548096,10.6972314 C13.546994,9.27359403 15.2303607,8.89262065 16.6331663,9.73477234 C17.3345691,10.1558482 17.9357715,10.6872058 18.4968938,11.2275865 C18.6171343,11.3478939 18.7373747,11.4591782 18.8475952,11.56946 C18.9978958,11.7198442 19.4988978,12.221125 19.9998998,12.7023545" id="Fill-1"></path>             <path d="M14.3386774,7.10542736e-15 L5.67134269,7.10542736e-15 C2.2745491,7.10542736e-15 0,2.37607086 0,5.91411055 L0,14.0859897 C0,15.3181378 0.280561122,16.4119325 0.791583166,17.3042123 C1.12224449,16.9021851 1.49298597,16.4620606 1.85370741,16.0199309 C2.46492986,15.2890636 3.05611222,14.5662167 3.42685371,14.0960153 C3.97795591,13.4142735 5.43086172,11.6196883 7.44488978,12.46184 C7.85571142,12.6322755 8.21643287,12.8728902 8.54709419,13.0834282 C9.35871743,13.6248114 9.6993988,13.7852212 10.2705411,13.4734246 C10.9018036,13.1335562 11.3126253,12.46184 11.743487,11.7590444 C11.9739479,11.3880966 12.2044088,11.028177 12.4549098,10.6973317 C13.5470942,9.27369429 15.2304609,8.8927209 16.6332665,9.7348726 C17.3346693,10.1559484 17.9358717,10.6873061 18.496994,11.2276867 C18.6172345,11.3479941 18.7374749,11.4592785 18.8476954,11.5695602 C18.997996,11.7189419 19.498998,12.2202227 20,12.7024548 L20,5.91411055 C20,2.37607086 17.7254509,7.10542736e-15 14.3386774,7.10542736e-15" id="Fill-3" opacity="0.400000006"></path>             <path d="M9.45440882,6.79666548 C9.45440882,8.20526445 8.28106212,9.37826146 6.87324649,9.37826146 C5.46643287,9.37826146 4.29308617,8.20526445 4.29308617,6.79666548 C4.29308617,5.38906907 5.46643287,4.2150695 6.87324649,4.2150695 C8.28106212,4.2150695 9.45440882,5.38906907 9.45440882,6.79666548" id="Fill-5"></path>         </g>     </g> </svg>',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bulk/Image</title>     <g id="Iconly/Bulk/Image" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Image" transform="translate(2.000000, 2.000000)" fill="#000000" fill-rule="nonzero">             <path d="M14.3328156,20 L5.66618229,20 C2.27689532,20 0,17.6228892 0,14.0842812 L0,5.91672095 C0,2.37811294 2.27689532,0 5.66618229,0 L14.3338177,0 C17.7231047,0 20,2.37811294 20,5.91672095 L20,14.0842812 C20,17.6228892 17.7231047,20 14.3328156,20" id="Fill-1" opacity="0.400000006"></path>             <path d="M13.4284,11.0896 C13.6504,10.7986 14.4744,9.8886 15.5394,10.5366 C16.2184,10.9446 16.7894,11.4966 17.4004,12.0876 C17.6334,12.3136 17.8004,12.5716 17.9104,12.8466 C18.2434,13.6786 18.0704,14.6786 17.7144,15.5026 C17.2924,16.4836 16.4844,17.2246 15.4664,17.5486 C15.0144,17.6936 14.5404,17.7556 14.0674,17.7556 L14.0674,17.7556 L5.6864,17.7556 C4.8524,17.7556 4.1144,17.5616 3.5094,17.1976 C3.1304,16.9696 3.0634,16.4446 3.3444,16.1026 C3.8144,15.5326 4.2784,14.9606 4.7464,14.3836 C5.6384,13.2796 6.2394,12.9596 6.9074,13.2406 C7.1784,13.3566 7.4504,13.5316 7.7304,13.7156 C8.4764,14.2096 9.5134,14.8876 10.8794,14.1516 C11.8194,13.6376 12.3624,12.7556 12.8364,11.9916 C13.0304,11.6806 13.2144,11.3706 13.4284,11.0896 Z M6.76,4.189 C8.13,4.189 9.245,5.305 9.245,6.675 C9.245,8.045 8.13,9.16 6.76,9.16 C5.389,9.16 4.275,8.045 4.275,6.675 C4.275,5.305 5.389,4.189 6.76,4.189 Z" id="Combined-Shape"></path>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -10336,7 +13533,7 @@ class _EssentialImageBulk {
   /// Image — bulk / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Image',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M2.5 22.354H22V2.854H2.5V22.354Z" fill="black"/> <path d="M4.3679 20.803H20.2869L20.4929 20.411L14.9239 12.333L14.5139 12.33L10.6889 17.7L8.1979 15.616L7.8409 15.656L4.1709 20.4L4.3679 20.803Z" fill="black"/> <path d="M11.2029 9.17902C11.2019 7.90902 10.1669 6.87502 8.8959 6.87402C7.6259 6.87402 6.5919 7.90802 6.5919 9.17902C6.5919 10.451 7.6259 11.485 8.8959 11.485C10.1679 11.485 11.2029 10.451 11.2029 9.17902Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M2.5 22.354H22V2.854H2.5V22.354Z" fill="black"/> <path d="M18.742 19.0639L18.888 19.0319L19.069 18.8019L15.018 12.0069H14.656L11.693 15.9399L8.54102 14.3509L8.16202 14.3239L5.74902 18.7919L5.92102 19.0639H18.742Z" fill="black"/> <path d="M10.928 8.71592C10.928 7.52092 9.95402 6.54692 8.75702 6.54492C7.56102 6.54492 6.58702 7.51792 6.58702 8.71592C6.58702 9.91192 7.56102 10.8859 8.75702 10.8859C9.95402 10.8859 10.928 9.91192 10.928 8.71592Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.sharp,
@@ -10351,7 +13548,7 @@ class _EssentialImageBroken {
   /// Image — broken / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Image',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3 12C3 18.937 5.313 21.25 12.25 21.25C19.187 21.25 21.5 18.937 21.5 12C21.5 5.063 19.187 2.75 12.25 2.75C5.313 2.75 3 5.063 3 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.8491 8.78407C10.8491 9.75707 10.0611 10.5451 9.08815 10.5451C8.11615 10.5451 7.32715 9.75707 7.32715 8.78407C7.32715 7.81107 8.11615 7.02307 9.08815 7.02307" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.3702 14.6671C20.4892 13.7611 19.2432 11.9301 16.9542 11.9301C14.6652 11.9301 14.6152 15.9681 12.2792 15.9681C9.94219 15.9681 9.00119 14.5971 7.47819 15.3131C6.97519 15.5491 6.50319 16.0181 6.09619 16.5411" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.3208 16.4588C6.3208 16.4588 7.1328 14.8218 8.3148 14.8218C9.4968 14.8218 10.1008 16.1968 11.4108 16.1968C12.7198 16.1968 14.1888 12.7488 15.6728 12.7488C17.1548 12.7488 18.2208 15.1398 18.2208 15.1398" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3889 9.10475C10.3889 9.96475 9.69193 10.6628 8.83093 10.6628C7.97093 10.6628 7.27393 9.96475 7.27393 9.10475C7.27393 8.24475 7.97093 7.54675 8.83093 7.54675" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.781 20.972C19.997 20.179 21.5 17.592 21.5 12C21.5 5.063 19.187 2.75 12.25 2.75C5.313 2.75 3 5.063 3 12C3 18.937 5.313 21.25 12.25 21.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.curved,
@@ -10360,7 +13557,7 @@ class _EssentialImageBroken {
   /// Image — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Image',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.21 10.4999V7.8994C21.21 4.8794 19.32 2.7504 16.3 2.7504H7.65C4.64 2.7504 2.75 4.8794 2.75 7.8994V16.0504C2.75 19.0704 4.63 21.2004 7.65 21.2004H16.3C18.3252 21.2004 19.8423 20.2425 20.622 18.7007C21.4356 17.0918 20.9223 15.116 19.7844 13.7175C18.3096 11.9051 16.5424 11.4718 14.5 13.4999C12.5704 15.4159 12.5 15.9999 8.7893 14.7581C6.5 13.992 5.2813 16.4311 5.2813 16.4311" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3127 9.13309C10.3127 10.1021 9.52769 10.8871 8.55869 10.8871C7.58969 10.8871 6.80469 10.1021 6.80469 9.13309C6.80469 8.16409 7.58969 7.37909 8.55869 7.37909C9.52769 7.38009 10.3127 8.16409 10.3127 9.13309Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.975 21.2002H16.3C19.32 21.2002 21.21 19.0702 21.21 16.0502V7.8992C21.21 4.8792 19.32 2.7502 16.3 2.7502H7.65C4.64 2.7502 2.75 4.8792 2.75 7.8992V16.0502C2.75 19.0702 4.63 21.2002 7.65 21.2002H8.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.28125 16.4309L6.80925 14.8179C7.34025 14.2549 8.22525 14.2279 8.78925 14.7579C8.80625 14.7749 9.72625 15.7099 9.72625 15.7099C10.2813 16.2749 11.1883 16.2839 11.7533 15.7299C11.7903 15.6939 14.0872 12.9079 14.0872 12.9079C14.6792 12.1889 15.7422 12.0859 16.4622 12.6789C16.5102 12.7189 18.6803 14.9459 18.6803 14.9459" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3127 9.1331C10.3127 10.1021 9.52769 10.8871 8.55869 10.8871C7.58969 10.8871 6.80469 10.1021 6.80469 9.1331C6.80469 8.1641 7.58969 7.3791 8.55869 7.3791C9.52769 7.3801 10.3127 8.1641 10.3127 9.1331Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -10369,7 +13566,7 @@ class _EssentialImageBroken {
   /// Image — broken / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Image',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.89729 7.12354C10.0323 7.12454 10.9523 8.04454 10.9533 9.17854C10.9533 10.3145 10.0333 11.2345 8.89729 11.2345C7.76329 11.2345 6.84229 10.3145 6.84229 9.17854" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/> <path d="M5.51172 18.5068L7.39572 16.0018H7.50972L10.3357 18.5378H10.5407L14.8567 12.2568H15.0137L18.1867 16.7328" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M21.5 14.549V3.354H3V21.854H21.5V18.824" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.7661 18.7818L14.8761 12.2568H14.7801L11.7661 16.2578L8.42809 14.5738H8.31109L6.03809 18.7818L6.05809 18.8138H15.7041" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.75691 6.7959C9.81791 6.7969 10.6779 7.6549 10.6779 8.7159C10.6779 9.7769 9.81791 10.6369 8.75691 10.6369C7.69591 10.6369 6.83691 9.7769 6.83691 8.7159" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/> <path d="M21.5 7.478V3.354H3V21.854H21.5V11.329" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.sharp,
@@ -10384,7 +13581,7 @@ class _EssentialImageTwotone {
   /// Image — twoTone / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Image',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75 12.3961C2.75 19.3331 5.063 21.6461 12 21.6461C18.937 21.6461 21.25 19.3331 21.25 12.3961C21.25 5.45912 18.937 3.14612 12 3.14612C5.063 3.14612 2.75 5.45912 2.75 12.3961Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M10.5987 9.18019C10.5987 10.1532 9.81066 10.9412 8.83766 10.9412C7.86566 10.9412 7.07666 10.1532 7.07666 9.18019C7.07666 8.20719 7.86566 7.41919 8.83766 7.41919C9.81066 7.41919 10.5987 8.20719 10.5987 9.18019Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.1201 15.0626C20.2391 14.1566 18.9931 12.3256 16.7041 12.3256C14.4151 12.3256 14.3651 16.3636 12.0291 16.3636C9.69206 16.3636 8.75106 14.9926 7.22806 15.7086C5.70606 16.4236 4.46606 19.2696 4.46606 19.2696" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.07056 16.855C6.07056 16.855 6.88256 15.218 8.06456 15.218C9.24656 15.218 9.85056 16.593 11.1606 16.593C12.4696 16.593 13.9386 13.145 15.4226 13.145C16.9046 13.145 17.9706 15.536 17.9706 15.536" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M10.1392 9.50087C10.1392 10.3609 9.44217 11.0589 8.58117 11.0589C7.72117 11.0589 7.02417 10.3609 7.02417 9.50087C7.02417 8.64087 7.72117 7.94287 8.58117 7.94287C9.44217 7.94387 10.1392 8.64087 10.1392 9.50087Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75024 12.3961C2.75024 19.3331 5.06324 21.6461 12.0002 21.6461C18.9372 21.6461 21.2502 19.3331 21.2502 12.3961C21.2502 5.45912 18.9372 3.14612 12.0002 3.14612C5.06324 3.14612 2.75024 5.45912 2.75024 12.3961Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.curved,
@@ -10393,7 +13590,7 @@ class _EssentialImageTwotone {
   /// Image — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Image',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Image 2</title>     <g id="Iconly/Two-tone/Image-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Image-2" transform="translate(2.000000, 2.000000)" stroke="#000000" stroke-width="1.5">             <path d="M14.3027,0.7498 L5.6507,0.7498 C2.6387,0.7498 0.7497,2.8838 0.7497,5.9038 L0.7497,14.0498 C0.7497,17.0698 2.6307,19.2038 5.6507,19.2038 L14.2977,19.2038 C17.3227,19.2038 19.2027064,17.0698 19.2027064,14.0498 L19.2027064,5.9038 C19.2067,2.8838 17.3257,0.7498 14.3027,0.7498 Z" id="Stroke-1"></path>             <path d="M8.7031,6.785 C8.7031,7.805 7.8771,8.631 6.8571,8.631 C5.8381,8.631 5.0111,7.805 5.0111,6.785 C5.0111,5.765 5.8381,4.939 6.8571,4.939 C7.8761,4.94 8.7021,5.766 8.7031,6.785 Z" id="Stroke-3" opacity="0.400000006"></path>             <path d="M19.207,12.951 C18.284,12.001 16.509,10.082 14.579,10.082 C12.648,10.082 11.535,14.315 9.678,14.315 C7.821,14.315 6.134,12.401 4.646,13.628 C3.158,14.854 1.75,17.361 1.75,17.361" id="Stroke-5" opacity="0.400000006"></path>         </g>     </g> </svg>',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Image</title>     <g id="Iconly/Two-tone/Image" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Image" transform="translate(2.000000, 2.000000)" stroke="#000000" stroke-width="1.5">             <path d="M19.21,5.8992 L19.21,14.0502 C19.21,17.0702 17.32,19.2002 14.3,19.2002 L5.65,19.2002 C2.63,19.2002 0.75,17.0702 0.75,14.0502 L0.75,5.8992 C0.75,2.8792 2.64,0.7502 5.65,0.7502 L14.3,0.7502 C17.32,0.7502 19.21,2.8792 19.21,5.8992 Z" id="Stroke-1"></path>             <path d="M3.2813,14.4309 L4.8093,12.8179 C5.3403,12.2549 6.2253,12.2279 6.7893,12.7579 C6.8063,12.7749 7.7263,13.7099 7.7263,13.7099 C8.2813,14.2749 9.1883,14.2839 9.7533,13.7299 C9.7903,13.6939 12.0873,10.9079 12.0873,10.9079 C12.6793,10.1889 13.7423,10.0859 14.4623,10.6789 C14.5103,10.7189 16.6803,12.9459 16.6803,12.9459" id="Stroke-3" opacity="0.400000006"></path>             <path d="M8.3126,7.1331 C8.3126,8.1021 7.5276,8.8871 6.5586,8.8871 C5.5896,8.8871 4.8046,8.1021 4.8046,7.1331 C4.8046,6.1641 5.5896,5.3791 6.5586,5.3791 C7.5276,5.3801 8.3126,6.1641 8.3126,7.1331 Z" id="Stroke-5" opacity="0.400000006"></path>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -10402,7 +13599,7 @@ class _EssentialImageTwotone {
   /// Image — twoTone / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Image',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M10.9531 9.1792C10.9531 10.315 10.0333 11.2349 8.89746 11.2349C7.76273 11.2349 6.8418 10.315 6.8418 9.1792C6.8418 8.04335 7.76273 7.12354 8.89746 7.12354C10.0322 7.12465 10.952 8.04446 10.9531 9.1792Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.38559 21.3324L7.39508 16.0017H7.50874L10.3351 18.5382H10.5398L14.856 12.2573H15.0133L21.2691 21.0817" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 21.854L21.5 3.354L3 3.354L3 21.854L21.5 21.854Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.05762 18.8144H18.7411L18.7657 18.7821L14.8759 12.2573H14.7804L11.7655 16.2582L8.42777 14.5738H8.31122L6.03809 18.7822L6.05762 18.8144Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M10.678 8.71595C10.678 9.77696 9.81847 10.6365 8.75746 10.6365C7.69645 10.6365 6.83691 9.77696 6.83691 8.71595C6.83691 7.65495 7.69645 6.79541 8.75746 6.79541C9.81847 6.79651 10.678 7.65495 10.678 8.71595Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 21.854L21.5 3.354L3 3.354L3 21.854L21.5 21.854Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.sharp,
@@ -10417,7 +13614,7 @@ class _EssentialImageOutline {
   /// Image — outline / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Image',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.83693 11.6904C7.45193 11.6904 6.32593 10.5654 6.32593 9.18043C6.32593 7.79543 7.45193 6.66943 8.83693 6.66943C10.2219 6.66943 11.3479 7.79543 11.3479 9.18043C11.3479 10.5654 10.2219 11.6904 8.83693 11.6904ZM8.83693 8.16943C8.27893 8.16943 7.82593 8.62243 7.82593 9.18043C7.82593 9.73743 8.27893 10.1904 8.83693 10.1904C9.39493 10.1904 9.84793 9.73743 9.84793 9.18043C9.84793 8.62243 9.39493 8.16943 8.83693 8.16943Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8671 14.9995C21.9572 14.2067 22 13.3403 22 12.396C22 5.013 19.383 2.396 12 2.396C4.617 2.396 2 5.013 2 12.396C2 19.779 4.617 22.396 12 22.396C18.3151 22.396 21.1432 20.4813 21.8292 15.3071C21.8632 15.208 21.8758 15.103 21.8671 14.9995ZM12 3.896C5.486 3.896 3.5 5.882 3.5 12.396C3.5 14.7346 3.75598 16.4897 4.38559 17.7787C4.94241 16.8088 5.83627 15.5345 6.90781 15.031C8.02881 14.506 8.92881 14.829 9.79981 15.142L9.80242 15.1429C10.4466 15.3746 11.1121 15.614 12.0288 15.614C12.7368 15.614 13.1428 14.982 13.7458 13.951C14.3648 12.892 15.1348 11.576 16.7038 11.576C18.4161 11.576 19.6132 12.4308 20.4866 13.284C20.4956 12.9978 20.5 12.7019 20.5 12.396C20.5 5.882 18.514 3.896 12 3.896ZM20.3202 15.3049C20.267 15.2461 20.2125 15.1853 20.1566 15.1229L20.145 15.1099C19.3313 14.2033 18.3196 13.076 16.7038 13.076C16.0288 13.076 15.6328 13.696 15.0408 14.708C14.4139 15.7799 13.6336 17.114 12.0288 17.114C10.8504 17.114 9.98812 16.8038 9.2936 16.554L9.29081 16.553C8.46681 16.255 8.07981 16.136 7.54681 16.388C6.74958 16.7628 5.86354 18.1286 5.35679 19.1375C6.67131 20.4118 8.78372 20.896 12 20.896C17.4209 20.896 19.7059 19.5206 20.3202 15.3049Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.58093 11.8089C7.30893 11.8089 6.27393 10.7739 6.27393 9.50187C6.27393 8.22787 7.30893 7.19287 8.58093 7.19287C9.85393 7.19387 10.8889 8.22987 10.8889 9.50187C10.8889 10.7739 9.85293 11.8089 8.58093 11.8089ZM8.57993 8.69287C8.13593 8.69287 7.77393 9.05487 7.77393 9.50187C7.77393 9.94687 8.13593 10.3089 8.58093 10.3089C9.02693 10.3089 9.38893 9.94687 9.38893 9.50187C9.38893 9.05587 9.02593 8.69387 8.57993 8.69287Z" fill="black"/> <path d="M6.06878 17.604C5.95678 17.604 5.84178 17.579 5.73478 17.525C5.36478 17.34 5.21478 16.892 5.39778 16.522C5.50278 16.311 6.46278 14.468 8.06378 14.468C8.88778 14.468 9.49078 14.916 9.97578 15.278C10.4478 15.628 10.7568 15.843 11.1598 15.843C11.4448 15.839 12.1838 14.95 12.5808 14.471C13.4278 13.451 14.3048 12.395 15.4218 12.395C17.3358 12.395 18.5258 14.94 18.6548 15.23C18.8228 15.608 18.6538 16.05 18.2758 16.219C17.9008 16.39 17.4548 16.22 17.2848 15.842C16.9998 15.207 16.1678 13.895 15.4218 13.895C15.0097 13.895 14.2454 14.8147 13.7384 15.4247L13.7348 15.429C12.9178 16.414 12.1458 17.343 11.1598 17.343C10.2398 17.343 9.59678 16.865 9.08078 16.481C8.65278 16.164 8.37578 15.968 8.06378 15.968C7.52878 15.968 6.94178 16.792 6.74078 17.19C6.60878 17.453 6.34378 17.604 6.06878 17.604Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2 12.396C2 19.779 4.617 22.396 12 22.396C19.383 22.396 22 19.779 22 12.396C22 5.013 19.383 2.396 12 2.396C4.617 2.396 2 5.013 2 12.396ZM3.5 12.396C3.5 5.882 5.486 3.896 12 3.896C18.514 3.896 20.5 5.882 20.5 12.396C20.5 18.91 18.514 20.896 12 20.896C5.486 20.896 3.5 18.91 3.5 12.396Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.curved,
@@ -10426,7 +13623,7 @@ class _EssentialImageOutline {
   /// Image — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Image',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Image 2</title>     <g id="Iconly/Light-Outline/Image-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Image-2" transform="translate(2.000000, 2.000000)" fill="#000000">             <path d="M14.3024,-4.97379915e-14 C15.9104,-4.97379915e-14 17.2974,0.537 18.3124,1.554 C19.3734,2.616 19.9554,4.161 19.9534051,5.905 L19.9548652,12.9013999 C19.9566163,12.9283145 19.9569248,12.9553035 19.9557924,12.9822409 L19.9534051,14.05 C19.9534051,17.581 17.6804,19.954 14.2974,19.954 L5.6514,19.954 C2.2714,19.954 0.0004,17.581 0.0004,14.05 L0.0004,5.904 C0.0004,2.373 2.2714,-4.97379915e-14 5.6514,-4.97379915e-14 L14.3024,-4.97379915e-14 Z M14.579,10.8323 C13.991,10.8323 13.301,11.8053 12.69,12.6643 C11.852,13.8443 10.985,15.0653 9.679,15.0653 C8.796,15.0653 7.987,14.7253 7.274,14.4243 C6.14,13.9463 5.626,13.7933 5.123,14.2073 C4.11609675,15.0370355 3.12118213,16.547943 2.66402601,17.2914399 C3.38557607,18.0353708 4.4105602,18.454 5.6514,18.454 L14.2974,18.454 C16.8224,18.454 18.4534072,16.726 18.4534072,14.05 L18.4534,13.251 L18.4303424,13.2266964 C17.5549256,12.3247752 16.0432727,10.8323 14.579,10.8323 Z M14.3024,1.5 L5.6514,1.5 C3.1304,1.5 1.5004,3.229 1.5004,5.904 L1.5004,14.05 C1.5004,14.7185858 1.60214888,15.3279949 1.7941212,15.8660625 C2.37280951,14.992334 3.24679158,13.8093829 4.17,13.0493 C5.422,12.0193 6.77,12.5853 7.856,13.0423 C8.495,13.3113 9.099,13.5653 9.679,13.5653 C10.211,13.5653 10.878,12.6253 11.468,11.7963 C12.287,10.6403 13.217,9.3323 14.579,9.3323 C16.0737254,9.3323 17.427535,10.2508625 18.4544697,11.162441 L18.4534072,5.904 C18.4554,4.541 18.0394,3.403 17.2514,2.614 C16.5234,1.885 15.5044,1.5 14.3024,1.5 Z M6.8574,4.1895 C8.2884,4.1905 9.4524,5.3545 9.4534,6.7845 L9.4534,6.7855 C9.4534,8.2165 8.2894,9.3805 6.8574,9.3805 C5.4254,9.3805 4.2614,8.2165 4.2614,6.7855 C4.2614,5.3535 5.4254,4.1895 6.8574,4.1895 Z M6.8564,5.6895 C6.2524,5.6895 5.7614,6.1805 5.7614,6.7855 C5.7614,7.3895 6.2524,7.8805 6.8574,7.8805 C7.4614,7.8805 7.9534,7.3895 7.9534,6.7865 C7.9524,6.1815 7.4604,5.6905 6.8564,5.6895 Z" id="Combined-Shape"></path>         </g>     </g> </svg>',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Image</title>     <g id="Iconly/Light-Outline/Image" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Image" transform="translate(2.000000, 2.000000)" fill="#000000">             <path d="M14.3004,4.61852778e-14 C17.6854,4.61852778e-14 19.9604,2.371 19.9604,5.899 L19.9604,14.051 C19.9604,17.579 17.6854,19.95 14.3004,19.95 L5.6504,19.95 C2.2704,19.95 0.0004,17.579 0.0004,14.051 L0.0004,5.899 C0.0004,2.371 2.2704,4.61852778e-14 5.6504,4.61852778e-14 L14.3004,4.61852778e-14 Z M14.3004,1.5 L5.6504,1.5 C3.1294,1.5 1.5004,3.227 1.5004,5.899 L1.5004,14.051 C1.5004,16.724 3.1294,18.45 5.6504,18.45 L14.3004,18.45 C16.8274,18.45 18.4604,16.724 18.4604,14.051 L18.4604,5.899 C18.4604,3.227 16.8274,1.5 14.3004,1.5 Z M14.9394,10.0994 C14.9457235,10.1045471 14.9519606,10.1096725 14.9649838,10.121843 L14.9843089,10.1402815 C14.9882193,10.144069 14.992511,10.1482513 14.9972392,10.152885 L15.0530599,10.2083029 C15.2334112,10.3888749 15.7318706,10.8979588 17.2174,12.4234 C17.5064,12.7194 17.5014,13.1944 17.2044,13.4834 C16.9084,13.7744 16.4324,13.7654 16.1434,13.4694 C16.1434,13.4694 14.0944,11.3664 13.9484,11.2244 C13.7934,11.0974 13.5444,11.0234 13.2994,11.0474 C13.0504,11.0724 12.8264,11.1914 12.6674,11.3844 C10.3434,14.2034 10.3154,14.2304 10.2774,14.2674 C9.4194,15.1094 8.0344,15.0954 7.1914,14.2354 C7.1914,14.2354 6.2614,13.2914 6.2454,13.2724 C6.0144,13.0584 5.6024,13.0724 5.3554,13.3334 L3.8254,14.9464 C3.6774,15.1024 3.4794,15.1804 3.2814,15.1804 C3.0954,15.1804 2.9104,15.1124 2.7654,14.9744 C2.4644,14.6904 2.4524,14.2144 2.7374,13.9154 L4.2654,12.3024 C5.0744,11.4434 6.4394,11.4014 7.3024,12.2114 L8.2604,13.1834 C8.5274,13.4534 8.9614,13.4584 9.2294,13.1944 C9.3304,13.0754 11.5084,10.4304 11.5084,10.4304 C11.9224,9.9284 12.5064,9.6184 13.1554,9.5544 C13.8054,9.4974 14.4364,9.6864 14.9394,10.0994 Z M6.5586,4.6289 C7.9406,4.6299 9.0636,5.7539 9.0636,7.1329 C9.0636,8.5139 7.9396,9.6379 6.5586,9.6379 C5.1776,9.6379 4.0546,8.5139 4.0546,7.1329 C4.0546,5.7519 5.1776,4.6289 6.5586,4.6289 Z M6.5576,6.1289 C6.0046,6.1289 5.5546,6.5789 5.5546,7.1329 C5.5546,7.6869 6.0046,8.1379 6.5586,8.1379 C7.1126,8.1379 7.5636,7.6869 7.5636,7.1329 C7.5636,6.5799 7.1126,6.1299 6.5576,6.1289 Z" id="Combined-Shape"></path>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -10435,7 +13632,7 @@ class _EssentialImageOutline {
   /// Image — outline / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Image',
-    svgContent: '<svg width="25" height="26" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.89709 8.37354C8.17648 8.37374 7.5918 8.95795 7.5918 9.6792C7.5918 10.4006 8.17668 10.9849 8.89746 10.9849C9.61895 10.9849 10.2029 10.4011 10.2031 9.67965C10.2023 8.9588 9.61793 8.37444 8.89709 8.37354ZM6.0918 9.6792C6.0918 8.12887 7.34878 6.87354 8.89746 6.87354H8.8982C10.4466 6.87506 11.7016 8.13009 11.7031 9.67846L11.7031 9.6792C11.7031 11.2293 10.4475 12.4849 8.89746 12.4849C7.34878 12.4849 6.0918 11.2295 6.0918 9.6792Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4614 12.0073H15.401L22.3147 21.7598L21.091 22.6273L14.943 13.955L10.9344 19.7882H10.0479L7.54864 17.5453L3.53414 22.8826L2.33538 21.9809L7.02072 15.7517H7.79594L10.3272 18.0234L14.4614 12.0073Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 23.104L2.25 3.104L22.25 3.104L22.25 23.104L2.25 23.104ZM3.75 21.604L20.75 21.604L20.75 4.604L3.75 4.604L3.75 21.604Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="26" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4065 12.0073H15.3019L19.67 19.3344L19.1117 20.0644H5.63586L5.17376 19.3043L7.86391 14.3238H8.60629L11.5438 15.8062L14.4065 12.0073ZM14.761 14.0293L11.9872 17.7101L8.64944 16.0258L7.27826 18.5644H17.4647L14.761 14.0293Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.75708 8.04541C8.11046 8.04561 7.58691 8.56929 7.58691 9.21595C7.58691 9.86275 8.11066 10.3865 8.75746 10.3865C9.40425 10.3865 9.928 9.86275 9.928 9.21595C9.928 8.57 9.405 8.04629 8.75708 8.04541ZM6.08691 9.21595C6.08691 7.74073 7.28224 6.54541 8.75746 6.54541H8.75823C10.2321 6.54693 11.428 7.74003 11.428 9.21595C11.428 10.6912 10.2327 11.8865 8.75746 11.8865C7.28224 11.8865 6.08691 10.6912 6.08691 9.21595Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 23.104L2.25 3.104L22.25 3.104L22.25 23.104L2.25 23.104ZM3.75 21.604L20.75 21.604L20.75 4.604L3.75 4.604L3.75 21.604Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.sharp,
@@ -10450,7 +13647,7 @@ class _EssentialImageBold {
   /// Image — bold / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Image',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.088 7.12731C10.334 7.12731 11.349 8.14231 11.349 9.38831C11.349 10.6343 10.334 11.6483 9.088 11.6483C7.842 11.6483 6.827 10.6343 6.827 9.38831C6.827 8.14231 7.842 7.12731 9.088 7.12731ZM6.726 15.2303C7.911 14.6743 8.869 15.0183 9.796 15.3523C10.495 15.6043 11.219 15.8643 12.22 15.8643C12.998 15.8643 13.457 15.1773 14.12 14.0433C14.78 12.9163 15.601 11.5133 17.259 11.5133C19.563 11.5133 20.991 12.9663 21.959 14.0373C21.984 13.5793 22 13.1053 22 12.6043C22 5.40531 19.448 2.85431 12.25 2.85431C5.052 2.85431 2.5 5.40531 2.5 12.6043C2.5 15.2893 2.856 17.3273 3.676 18.8283C4.192 17.8113 5.314 15.8933 6.726 15.2303Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4815 15.7357C21.3345 15.5847 21.1785 15.4117 21.0115 15.2247C20.1275 14.2397 19.0265 13.0127 17.2585 13.0127C16.5145 13.0127 16.0655 13.6887 15.4155 14.8007C14.7465 15.9437 13.9155 17.3647 12.2195 17.3647C10.9565 17.3647 10.0315 17.0317 9.2875 16.7627C8.4115 16.4467 7.9595 16.3067 7.3645 16.5877C6.2325 17.1197 5.0965 19.2657 4.7545 20.0477C4.7345 20.0957 4.7035 20.1347 4.6745 20.1767C6.2115 21.7157 8.6495 22.3537 12.2505 22.3537C18.2095 22.3537 20.9775 20.5957 21.7565 15.9097C21.6555 15.8717 21.5615 15.8177 21.4815 15.7357Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.527 16.427C18.152 16.598 17.706 16.428 17.536 16.05C17.251 15.414 16.419 14.103 15.673 14.103C15.259 14.103 14.493 15.027 13.985 15.637C13.169 16.621 12.397 17.551 11.411 17.551C10.49 17.551 9.848 17.073 9.332 16.689C8.904 16.371 8.626 16.176 8.315 16.176C7.78 16.176 7.192 16.999 6.991 17.398C6.86 17.66 6.594 17.812 6.319 17.812C6.207 17.812 6.093 17.786 5.985 17.733C5.616 17.548 5.465 17.1 5.649 16.73C5.753 16.519 6.714 14.676 8.315 14.676C9.139 14.676 9.742 15.124 10.227 15.486C10.698 15.836 11.008 16.051 11.411 16.051C11.695 16.047 12.434 15.157 12.831 14.679C13.679 13.658 14.555 12.603 15.673 12.603C17.587 12.603 18.777 15.148 18.906 15.438C19.074 15.816 18.905 16.258 18.527 16.427ZM8.831 7.651C9.966 7.652 10.889 8.575 10.889 9.709C10.889 10.844 9.965 11.767 8.831 11.767C7.696 11.767 6.774 10.844 6.774 9.709C6.774 8.574 7.696 7.651 8.831 7.651ZM12.25 2.854C5.051 2.854 2.5 5.406 2.5 12.604C2.5 19.802 5.051 22.354 12.25 22.354C19.448 22.354 22 19.802 22 12.604C22 5.406 19.448 2.854 12.25 2.854Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.curved,
@@ -10459,7 +13656,7 @@ class _EssentialImageBold {
   /// Image — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Image',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Image 2</title>     <g id="Iconly/Bold/Image-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Image-2" transform="translate(1.999400, 2.000400)" fill="#000000" fill-rule="nonzero">             <path d="M14.354,0 C17.731,0 20,2.362 20,5.888 L20,5.888 L20,14.102 C20,14.253 19.973,14.388 19.965,14.534 C19.96,14.619 19.961,14.704 19.954,14.789 C19.95,14.827 19.939,14.862 19.935,14.9 C19.902,15.214 19.851,15.514 19.78,15.805 C19.762,15.883 19.741,15.958 19.72,16.034 C19.64,16.316 19.546,16.585 19.433,16.842 C19.4,16.914 19.364,16.983 19.33,17.054 C19.208,17.299 19.076,17.534 18.923,17.752 L18.923,17.752 L18.775,17.944 C18.616,18.15 18.45,18.347 18.262,18.526 C18.201,18.584 18.132,18.634 18.068,18.689 C17.875,18.855 17.678,19.014 17.461,19.15 C17.383,19.199 17.297,19.235 17.217,19.279 C16.996,19.401 16.773,19.52 16.53,19.612 C16.43,19.65 16.319,19.67 16.215,19.703 C15.976,19.777 15.74,19.854 15.483,19.898 C15.4183333,19.9093333 15.3517778,19.9173333 15.2842222,19.9235926 L14.874,19.953 C14.7,19.966 14.535,20 14.354,20 L14.354,20 L5.638,20 C5.262,20 4.903,19.962 4.556,19.905 C4.543,19.903 4.531,19.901 4.519,19.899 C3.166,19.666 2.043,19.013 1.256,18.028 C1.247,18.028 1.247,18.018 1.238,18.009 C0.447,17.013 1.77635684e-15,15.674 1.77635684e-15,14.102 L1.77635684e-15,14.102 L1.77635684e-15,5.888 C1.77635684e-15,2.362 2.271,0 5.638,0 L5.638,0 Z M14.354,1.395 L5.638,1.395 C3.061,1.395 1.396,3.162 1.396,5.888 L1.396,5.888 L1.396,14.102 C1.396,14.867 1.538,15.55 1.781,16.141 C1.812,16.104 3.749,13.742 3.758,13.734 C4.45,12.944 5.749,11.766 7.454,12.479 C7.864,12.649 8.224,12.888 8.554,13.098 C9.127,13.481 9.464,13.661 9.814,13.631 C9.959,13.611 10.095,13.568 10.224,13.488 C10.782,13.144 12.359,10.844 12.454,10.719 C13.544,9.299 15.224,8.919 16.624,9.759 C16.718,9.815 17.10175,10.07825 17.51775,10.37475 L17.8317734,10.6006406 C18.1437969,10.8273281 18.43775,11.04825 18.605,11.19 L18.605,11.19 L18.605,5.888 C18.605,3.162 16.94,1.395 14.354,1.395 L14.354,1.395 Z M6.47928217,3.9996 C7.17695659,3.9996 7.80873953,4.29297966 8.26125891,4.76103602 C8.71571628,5.21268628 9.0006,5.83515298 9.0006,6.5145585 C9.0006,7.86950928 7.86687907,8.9996 6.50544496,8.9996 C5.30873953,8.9996 4.2883907,8.12525142 4.05970853,6.99323057 C4.02191783,6.82337919 4.0006,6.64870249 4.0006,6.4682354 C4.0006,5.10363397 5.10912713,3.9996 6.47928217,3.9996 Z"></path>         </g>     </g> </svg>',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Image</title>     <g id="Iconly/Bold/Image" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Image" transform="translate(2.000000, 2.000000)" fill="#000000" fill-rule="nonzero">             <path d="M14.3338177,0 C17.7231047,0 20,2.37811294 20,5.91672095 L20,14.083279 C20,17.6218871 17.7231047,20 14.3328156,20 L5.66618229,20 C2.27689532,20 0,17.6218871 0,14.083279 L0,5.91672095 C0,2.37811294 2.27689532,0 5.66618229,0 L14.3338177,0 Z M15.4365921,10.5500516 C14.3646473,9.88132095 13.5370577,10.8204334 13.3138196,11.120743 C13.0986262,11.4107327 12.9136001,11.7306502 12.7185182,12.0505676 C12.2418748,12.8400413 11.6958467,13.750258 10.7506045,14.2796698 C9.37698673,15.0402477 8.33420365,14.3395253 7.58404341,13.8297214 C7.30248193,13.6398349 7.02896505,13.4602683 6.75645376,13.3405573 C6.0847285,13.0505676 5.48037689,13.380805 4.58340244,14.5201238 C4.11279253,15.1155831 3.64620492,15.7058824 3.17358386,16.2941176 C2.8910168,16.6460268 2.95839044,17.1888545 3.33950402,17.4241486 C3.94787794,17.7987616 4.68999357,18 5.52864457,18 L5.52864457,18 L13.9563832,18 C14.432021,18 14.9086643,17.9349845 15.363185,17.7863777 C16.3868621,17.4520124 17.1993681,16.6862745 17.6237215,15.6749226 C17.9817068,14.8245614 18.1556716,13.7925697 17.8208146,12.9339525 C17.7091955,12.6491228 17.5422698,12.3839009 17.3079704,12.1506708 C16.693563,11.5407637 16.1193787,10.9711042 15.4365921,10.5500516 Z M6.49885818,4 C5.12021248,4 4,5.12173038 4,6.5 C4,7.87826962 5.12021248,9 6.49885818,9 C7.87649831,9 8.99771636,7.87826962 8.99771636,6.5 C8.99771636,5.12173038 7.87649831,4 6.49885818,4 Z"></path>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -10468,7 +13665,7 @@ class _EssentialImageBold {
   /// Image — bold / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Image',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.287 20.803H4.368L4.171 20.4L7.841 15.656L8.198 15.616L10.689 17.7L14.514 12.33L14.924 12.333L20.493 20.411L20.287 20.803ZM8.896 6.874C10.167 6.875 11.202 7.909 11.203 9.179C11.203 10.451 10.168 11.485 8.896 11.485C7.626 11.485 6.592 10.451 6.592 9.179C6.592 7.908 7.626 6.874 8.896 6.874ZM2.5 22.354H22V2.854H2.5V22.354Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.888 19.032L18.742 19.064H5.921L5.749 18.792L8.162 14.324L8.541 14.351L11.693 15.94L14.656 12.007H15.018L19.069 18.802L18.888 19.032ZM8.757 6.545C9.954 6.547 10.928 7.521 10.928 8.716C10.928 9.912 9.954 10.886 8.757 10.886C7.561 10.886 6.587 9.912 6.587 8.716C6.587 7.518 7.561 6.545 8.757 6.545ZM2.5 22.354H22V2.854H2.5V22.354Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.sharp,
@@ -10483,7 +13680,7 @@ class _EssentialImageLight {
   /// Image — light / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Image',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75 12.0001C2.75 18.9371 5.063 21.2501 12 21.2501C18.937 21.2501 21.25 18.9371 21.25 12.0001C21.25 5.06312 18.937 2.75012 12 2.75012C5.063 2.75012 2.75 5.06312 2.75 12.0001Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5987 8.78419C10.5987 9.75719 9.81066 10.5452 8.83766 10.5452C7.86566 10.5452 7.07666 9.75719 7.07666 8.78419C7.07666 7.81119 7.86566 7.02319 8.83766 7.02319C9.81066 7.02319 10.5987 7.81119 10.5987 8.78419Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.1201 14.6666C20.2391 13.7606 18.9931 11.9296 16.7041 11.9296C14.4151 11.9296 14.3651 15.9676 12.0291 15.9676C9.69206 15.9676 8.75106 14.5966 7.22806 15.3126C5.70606 16.0276 4.46606 18.8736 4.46606 18.8736" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.07056 16.459C6.07056 16.459 6.88256 14.822 8.06456 14.822C9.24656 14.822 9.85056 16.197 11.1606 16.197C12.4696 16.197 13.9386 12.749 15.4226 12.749C16.9046 12.749 17.9706 15.14 17.9706 15.14" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1392 9.10487C10.1392 9.96487 9.44217 10.6629 8.58117 10.6629C7.72117 10.6629 7.02417 9.96487 7.02417 9.10487C7.02417 8.24487 7.72117 7.54688 8.58117 7.54688C9.44217 7.54788 10.1392 8.24487 10.1392 9.10487Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75024 12.0001C2.75024 18.9371 5.06324 21.2501 12.0002 21.2501C18.9372 21.2501 21.2502 18.9371 21.2502 12.0001C21.2502 5.06312 18.9372 2.75012 12.0002 2.75012C5.06324 2.75012 2.75024 5.06312 2.75024 12.0001Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.curved,
@@ -10492,7 +13689,7 @@ class _EssentialImageLight {
   /// Image — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Image',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Image 2</title>     <g id="Iconly/Light/Image-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Image-2" transform="translate(2.000000, 2.000000)" stroke="#000000" stroke-width="1.5">             <path d="M14.3027,0.7498 L5.6507,0.7498 C2.6387,0.7498 0.7497,2.8838 0.7497,5.9038 L0.7497,14.0498 C0.7497,17.0698 2.6307,19.2038 5.6507,19.2038 L14.2977,19.2038 C17.3227,19.2038 19.2027064,17.0698 19.2027064,14.0498 L19.2027064,5.9038 C19.2067,2.8838 17.3257,0.7498 14.3027,0.7498 Z" id="Stroke-1"></path>             <path d="M8.7031,6.785 C8.7031,7.805 7.8771,8.631 6.8571,8.631 C5.8381,8.631 5.0111,7.805 5.0111,6.785 C5.0111,5.765 5.8381,4.939 6.8571,4.939 C7.8761,4.94 8.7021,5.766 8.7031,6.785 Z" id="Stroke-3"></path>             <path d="M19.207,12.951 C18.284,12.001 16.509,10.082 14.579,10.082 C12.648,10.082 11.535,14.315 9.678,14.315 C7.821,14.315 6.134,12.401 4.646,13.628 C3.158,14.854 1.75,17.361 1.75,17.361" id="Stroke-5"></path>         </g>     </g> </svg>',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Image</title>     <g id="Iconly/Light/Image" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Image" transform="translate(2.000000, 2.000000)" stroke="#000000" stroke-width="1.5">             <path d="M19.21,5.8992 L19.21,14.0502 C19.21,17.0702 17.32,19.2002 14.3,19.2002 L5.65,19.2002 C2.63,19.2002 0.75,17.0702 0.75,14.0502 L0.75,5.8992 C0.75,2.8792 2.64,0.7502 5.65,0.7502 L14.3,0.7502 C17.32,0.7502 19.21,2.8792 19.21,5.8992 Z" id="Stroke-1"></path>             <path d="M3.2813,14.4309 L4.8093,12.8179 C5.3403,12.2549 6.2253,12.2279 6.7893,12.7579 C6.8063,12.7749 7.7263,13.7099 7.7263,13.7099 C8.2813,14.2749 9.1883,14.2839 9.7533,13.7299 C9.7903,13.6939 12.0873,10.9079 12.0873,10.9079 C12.6793,10.1889 13.7423,10.0859 14.4623,10.6789 C14.5103,10.7189 16.6803,12.9459 16.6803,12.9459" id="Stroke-3"></path>             <path d="M8.3126,7.1331 C8.3126,8.1021 7.5276,8.8871 6.5586,8.8871 C5.5896,8.8871 4.8046,8.1021 4.8046,7.1331 C4.8046,6.1641 5.5896,5.3791 6.5586,5.3791 C7.5276,5.3801 8.3126,6.1641 8.3126,7.1331 Z" id="Stroke-5"></path>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -10501,6 +13698,222 @@ class _EssentialImageLight {
   /// Image — light / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Image',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.05762 18.8144H18.7411L18.7657 18.7821L14.8759 12.2573H14.7804L11.7655 16.2582L8.42777 14.5738H8.31122L6.03809 18.7822L6.05762 18.8144Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.678 8.71595C10.678 9.77696 9.81847 10.6365 8.75746 10.6365C7.69645 10.6365 6.83691 9.77696 6.83691 8.71595C6.83691 7.65495 7.69645 6.79541 8.75746 6.79541C9.81847 6.79651 10.678 7.65495 10.678 8.71595Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 21.854L21.5 3.354L3 3.354L3 21.854L21.5 21.854Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Image 1 icon with style variants.
+class _EssentialImage1Icon {
+  const _EssentialImage1Icon();
+
+  /// bold style
+  _EssentialImage1Bold get bold => const _EssentialImage1Bold();
+  /// bulk style
+  _EssentialImage1Bulk get bulk => const _EssentialImage1Bulk();
+  /// light style
+  _EssentialImage1Light get light => const _EssentialImage1Light();
+  /// outline style
+  _EssentialImage1Outline get outline => const _EssentialImage1Outline();
+  /// twoTone style
+  _EssentialImage1Twotone get twoTone => const _EssentialImage1Twotone();
+  /// broken style
+  _EssentialImage1Broken get broken => const _EssentialImage1Broken();
+}
+
+/// Image 1 — bulk style variants.
+class _EssentialImage1Bulk {
+  const _EssentialImage1Bulk();
+
+  /// Image 1 — bulk / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M6.726 15.2301C7.911 14.6741 8.869 15.0181 9.796 15.3521C10.495 15.6041 11.219 15.8641 12.22 15.8641C12.998 15.8641 13.457 15.1771 14.12 14.0431C14.78 12.9161 15.601 11.5131 17.259 11.5131C19.563 11.5131 20.991 12.9661 21.959 14.0371C21.984 13.5791 22 13.1051 22 12.6041C22 5.40513 19.448 2.85413 12.25 2.85413C5.052 2.85413 2.5 5.40513 2.5 12.6041C2.5 15.2891 2.856 17.3271 3.676 18.8281C4.192 17.8111 5.314 15.8931 6.726 15.2301Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4818 15.7358C21.3348 15.5848 21.1788 15.4118 21.0118 15.2248C20.1278 14.2398 19.0268 13.0128 17.2588 13.0128C16.5148 13.0128 16.0658 13.6888 15.4158 14.8008C14.7468 15.9438 13.9158 17.3648 12.2198 17.3648C10.9568 17.3648 10.0318 17.0318 9.2878 16.7628C8.4118 16.4468 7.9598 16.3068 7.3648 16.5878C6.2328 17.1198 5.0968 19.2658 4.7548 20.0478C4.7348 20.0958 4.7038 20.1348 4.6748 20.1768C6.2118 21.7158 8.6498 22.3538 12.2508 22.3538C18.2098 22.3538 20.9778 20.5958 21.7568 15.9098C21.6558 15.8718 21.5618 15.8178 21.4818 15.7358Z" fill="black"/> <path d="M11.3491 9.38807C11.3491 8.14207 10.3341 7.12708 9.08815 7.12708C7.84215 7.12708 6.82715 8.14207 6.82715 9.38807C6.82715 10.6341 7.84215 11.6481 9.08815 11.6481C10.3341 11.6481 11.3491 10.6341 11.3491 9.38807Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.curved,
+  );
+
+  /// Image 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bulk/Image 2</title>     <g id="Iconly/Bulk/Image-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Image-2" transform="translate(2.000000, 2.000000)" fill="#000000" fill-rule="nonzero">             <path d="M19.9998998,12.7023545 L19.9998998,14.0858894 C19.9998998,14.315476 19.9898798,14.5470678 19.9698397,14.7766544 C19.6892786,17.9357258 17.4948898,20 14.3285571,20 L5.67124248,20 C4.06803607,20 2.71533066,19.4796706 1.74338677,18.5362601 C1.36262525,18.1863662 1.04198397,17.7753159 0.791482966,17.304112 C1.12214429,16.9020848 1.49288577,16.4619603 1.85360721,16.0208332 C2.46482966,15.2889633 3.05601202,14.5661164 3.42675351,14.0959151 C3.97785571,13.4141732 5.43076152,11.619588 7.44478958,12.4617397 C7.85561122,12.6321752 8.21633267,12.87279 8.54699399,13.0833279 C9.35861723,13.6247111 9.6992986,13.785121 10.2704409,13.4743269 C10.9017034,13.133456 11.3125251,12.4617397 11.7433868,11.7599467 C11.9738477,11.3879963 12.2043086,11.0280767 12.4548096,10.6972314 C13.546994,9.27359403 15.2303607,8.89262065 16.6331663,9.73477234 C17.3345691,10.1558482 17.9357715,10.6872058 18.4968938,11.2275865 C18.6171343,11.3478939 18.7373747,11.4591782 18.8475952,11.56946 C18.9978958,11.7198442 19.4988978,12.221125 19.9998998,12.7023545" id="Fill-1"></path>             <path d="M14.3386774,7.10542736e-15 L5.67134269,7.10542736e-15 C2.2745491,7.10542736e-15 0,2.37607086 0,5.91411055 L0,14.0859897 C0,15.3181378 0.280561122,16.4119325 0.791583166,17.3042123 C1.12224449,16.9021851 1.49298597,16.4620606 1.85370741,16.0199309 C2.46492986,15.2890636 3.05611222,14.5662167 3.42685371,14.0960153 C3.97795591,13.4142735 5.43086172,11.6196883 7.44488978,12.46184 C7.85571142,12.6322755 8.21643287,12.8728902 8.54709419,13.0834282 C9.35871743,13.6248114 9.6993988,13.7852212 10.2705411,13.4734246 C10.9018036,13.1335562 11.3126253,12.46184 11.743487,11.7590444 C11.9739479,11.3880966 12.2044088,11.028177 12.4549098,10.6973317 C13.5470942,9.27369429 15.2304609,8.8927209 16.6332665,9.7348726 C17.3346693,10.1559484 17.9358717,10.6873061 18.496994,11.2276867 C18.6172345,11.3479941 18.7374749,11.4592785 18.8476954,11.5695602 C18.997996,11.7189419 19.498998,12.2202227 20,12.7024548 L20,5.91411055 C20,2.37607086 17.7254509,7.10542736e-15 14.3386774,7.10542736e-15" id="Fill-3" opacity="0.400000006"></path>             <path d="M9.45440882,6.79666548 C9.45440882,8.20526445 8.28106212,9.37826146 6.87324649,9.37826146 C5.46643287,9.37826146 4.29308617,8.20526445 4.29308617,6.79666548 C4.29308617,5.38906907 5.46643287,4.2150695 6.87324649,4.2150695 C8.28106212,4.2150695 9.45440882,5.38906907 9.45440882,6.79666548" id="Fill-5"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+  /// Image 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M2.5 22.354H22V2.854H2.5V22.354Z" fill="black"/> <path d="M4.3679 20.803H20.2869L20.4929 20.411L14.9239 12.333L14.5139 12.33L10.6889 17.7L8.1979 15.616L7.8409 15.656L4.1709 20.4L4.3679 20.803Z" fill="black"/> <path d="M11.2029 9.17902C11.2019 7.90902 10.1669 6.87502 8.8959 6.87402C7.6259 6.87402 6.5919 7.90802 6.5919 9.17902C6.5919 10.451 7.6259 11.485 8.8959 11.485C10.1679 11.485 11.2029 10.451 11.2029 9.17902Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Image 1 — broken style variants.
+class _EssentialImage1Broken {
+  const _EssentialImage1Broken();
+
+  /// Image 1 — broken / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3 12C3 18.937 5.313 21.25 12.25 21.25C19.187 21.25 21.5 18.937 21.5 12C21.5 5.063 19.187 2.75 12.25 2.75C5.313 2.75 3 5.063 3 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.8491 8.78407C10.8491 9.75707 10.0611 10.5451 9.08815 10.5451C8.11615 10.5451 7.32715 9.75707 7.32715 8.78407C7.32715 7.81107 8.11615 7.02307 9.08815 7.02307" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.3702 14.6671C20.4892 13.7611 19.2432 11.9301 16.9542 11.9301C14.6652 11.9301 14.6152 15.9681 12.2792 15.9681C9.94219 15.9681 9.00119 14.5971 7.47819 15.3131C6.97519 15.5491 6.50319 16.0181 6.09619 16.5411" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.curved,
+  );
+
+  /// Image 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.21 10.4999V7.8994C21.21 4.8794 19.32 2.7504 16.3 2.7504H7.65C4.64 2.7504 2.75 4.8794 2.75 7.8994V16.0504C2.75 19.0704 4.63 21.2004 7.65 21.2004H16.3C18.3252 21.2004 19.8423 20.2425 20.622 18.7007C21.4356 17.0918 20.9223 15.116 19.7844 13.7175C18.3096 11.9051 16.5424 11.4718 14.5 13.4999C12.5704 15.4159 12.5 15.9999 8.7893 14.7581C6.5 13.992 5.2813 16.4311 5.2813 16.4311" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3127 9.13309C10.3127 10.1021 9.52769 10.8871 8.55869 10.8871C7.58969 10.8871 6.80469 10.1021 6.80469 9.13309C6.80469 8.16409 7.58969 7.37909 8.55869 7.37909C9.52769 7.38009 10.3127 8.16409 10.3127 9.13309Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+  /// Image 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.89729 7.12354C10.0323 7.12454 10.9523 8.04454 10.9533 9.17854C10.9533 10.3145 10.0333 11.2345 8.89729 11.2345C7.76329 11.2345 6.84229 10.3145 6.84229 9.17854" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/> <path d="M5.51172 18.5068L7.39572 16.0018H7.50972L10.3357 18.5378H10.5407L14.8567 12.2568H15.0137L18.1867 16.7328" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M21.5 14.549V3.354H3V21.854H21.5V18.824" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Image 1 — twoTone style variants.
+class _EssentialImage1Twotone {
+  const _EssentialImage1Twotone();
+
+  /// Image 1 — twoTone / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75 12.3961C2.75 19.3331 5.063 21.6461 12 21.6461C18.937 21.6461 21.25 19.3331 21.25 12.3961C21.25 5.45912 18.937 3.14612 12 3.14612C5.063 3.14612 2.75 5.45912 2.75 12.3961Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M10.5987 9.18019C10.5987 10.1532 9.81066 10.9412 8.83766 10.9412C7.86566 10.9412 7.07666 10.1532 7.07666 9.18019C7.07666 8.20719 7.86566 7.41919 8.83766 7.41919C9.81066 7.41919 10.5987 8.20719 10.5987 9.18019Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.1201 15.0626C20.2391 14.1566 18.9931 12.3256 16.7041 12.3256C14.4151 12.3256 14.3651 16.3636 12.0291 16.3636C9.69206 16.3636 8.75106 14.9926 7.22806 15.7086C5.70606 16.4236 4.46606 19.2696 4.46606 19.2696" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.curved,
+  );
+
+  /// Image 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Image 2</title>     <g id="Iconly/Two-tone/Image-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Image-2" transform="translate(2.000000, 2.000000)" stroke="#000000" stroke-width="1.5">             <path d="M14.3027,0.7498 L5.6507,0.7498 C2.6387,0.7498 0.7497,2.8838 0.7497,5.9038 L0.7497,14.0498 C0.7497,17.0698 2.6307,19.2038 5.6507,19.2038 L14.2977,19.2038 C17.3227,19.2038 19.2027064,17.0698 19.2027064,14.0498 L19.2027064,5.9038 C19.2067,2.8838 17.3257,0.7498 14.3027,0.7498 Z" id="Stroke-1"></path>             <path d="M8.7031,6.785 C8.7031,7.805 7.8771,8.631 6.8571,8.631 C5.8381,8.631 5.0111,7.805 5.0111,6.785 C5.0111,5.765 5.8381,4.939 6.8571,4.939 C7.8761,4.94 8.7021,5.766 8.7031,6.785 Z" id="Stroke-3" opacity="0.400000006"></path>             <path d="M19.207,12.951 C18.284,12.001 16.509,10.082 14.579,10.082 C12.648,10.082 11.535,14.315 9.678,14.315 C7.821,14.315 6.134,12.401 4.646,13.628 C3.158,14.854 1.75,17.361 1.75,17.361" id="Stroke-5" opacity="0.400000006"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+  /// Image 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M10.9531 9.1792C10.9531 10.315 10.0333 11.2349 8.89746 11.2349C7.76273 11.2349 6.8418 10.315 6.8418 9.1792C6.8418 8.04335 7.76273 7.12354 8.89746 7.12354C10.0322 7.12465 10.952 8.04446 10.9531 9.1792Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.38559 21.3324L7.39508 16.0017H7.50874L10.3351 18.5382H10.5398L14.856 12.2573H15.0133L21.2691 21.0817" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 21.854L21.5 3.354L3 3.354L3 21.854L21.5 21.854Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Image 1 — outline style variants.
+class _EssentialImage1Outline {
+  const _EssentialImage1Outline();
+
+  /// Image 1 — outline / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.83693 11.6904C7.45193 11.6904 6.32593 10.5654 6.32593 9.18043C6.32593 7.79543 7.45193 6.66943 8.83693 6.66943C10.2219 6.66943 11.3479 7.79543 11.3479 9.18043C11.3479 10.5654 10.2219 11.6904 8.83693 11.6904ZM8.83693 8.16943C8.27893 8.16943 7.82593 8.62243 7.82593 9.18043C7.82593 9.73743 8.27893 10.1904 8.83693 10.1904C9.39493 10.1904 9.84793 9.73743 9.84793 9.18043C9.84793 8.62243 9.39493 8.16943 8.83693 8.16943Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8671 14.9995C21.9572 14.2067 22 13.3403 22 12.396C22 5.013 19.383 2.396 12 2.396C4.617 2.396 2 5.013 2 12.396C2 19.779 4.617 22.396 12 22.396C18.3151 22.396 21.1432 20.4813 21.8292 15.3071C21.8632 15.208 21.8758 15.103 21.8671 14.9995ZM12 3.896C5.486 3.896 3.5 5.882 3.5 12.396C3.5 14.7346 3.75598 16.4897 4.38559 17.7787C4.94241 16.8088 5.83627 15.5345 6.90781 15.031C8.02881 14.506 8.92881 14.829 9.79981 15.142L9.80242 15.1429C10.4466 15.3746 11.1121 15.614 12.0288 15.614C12.7368 15.614 13.1428 14.982 13.7458 13.951C14.3648 12.892 15.1348 11.576 16.7038 11.576C18.4161 11.576 19.6132 12.4308 20.4866 13.284C20.4956 12.9978 20.5 12.7019 20.5 12.396C20.5 5.882 18.514 3.896 12 3.896ZM20.3202 15.3049C20.267 15.2461 20.2125 15.1853 20.1566 15.1229L20.145 15.1099C19.3313 14.2033 18.3196 13.076 16.7038 13.076C16.0288 13.076 15.6328 13.696 15.0408 14.708C14.4139 15.7799 13.6336 17.114 12.0288 17.114C10.8504 17.114 9.98812 16.8038 9.2936 16.554L9.29081 16.553C8.46681 16.255 8.07981 16.136 7.54681 16.388C6.74958 16.7628 5.86354 18.1286 5.35679 19.1375C6.67131 20.4118 8.78372 20.896 12 20.896C17.4209 20.896 19.7059 19.5206 20.3202 15.3049Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.curved,
+  );
+
+  /// Image 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Image 2</title>     <g id="Iconly/Light-Outline/Image-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Image-2" transform="translate(2.000000, 2.000000)" fill="#000000">             <path d="M14.3024,-4.97379915e-14 C15.9104,-4.97379915e-14 17.2974,0.537 18.3124,1.554 C19.3734,2.616 19.9554,4.161 19.9534051,5.905 L19.9548652,12.9013999 C19.9566163,12.9283145 19.9569248,12.9553035 19.9557924,12.9822409 L19.9534051,14.05 C19.9534051,17.581 17.6804,19.954 14.2974,19.954 L5.6514,19.954 C2.2714,19.954 0.0004,17.581 0.0004,14.05 L0.0004,5.904 C0.0004,2.373 2.2714,-4.97379915e-14 5.6514,-4.97379915e-14 L14.3024,-4.97379915e-14 Z M14.579,10.8323 C13.991,10.8323 13.301,11.8053 12.69,12.6643 C11.852,13.8443 10.985,15.0653 9.679,15.0653 C8.796,15.0653 7.987,14.7253 7.274,14.4243 C6.14,13.9463 5.626,13.7933 5.123,14.2073 C4.11609675,15.0370355 3.12118213,16.547943 2.66402601,17.2914399 C3.38557607,18.0353708 4.4105602,18.454 5.6514,18.454 L14.2974,18.454 C16.8224,18.454 18.4534072,16.726 18.4534072,14.05 L18.4534,13.251 L18.4303424,13.2266964 C17.5549256,12.3247752 16.0432727,10.8323 14.579,10.8323 Z M14.3024,1.5 L5.6514,1.5 C3.1304,1.5 1.5004,3.229 1.5004,5.904 L1.5004,14.05 C1.5004,14.7185858 1.60214888,15.3279949 1.7941212,15.8660625 C2.37280951,14.992334 3.24679158,13.8093829 4.17,13.0493 C5.422,12.0193 6.77,12.5853 7.856,13.0423 C8.495,13.3113 9.099,13.5653 9.679,13.5653 C10.211,13.5653 10.878,12.6253 11.468,11.7963 C12.287,10.6403 13.217,9.3323 14.579,9.3323 C16.0737254,9.3323 17.427535,10.2508625 18.4544697,11.162441 L18.4534072,5.904 C18.4554,4.541 18.0394,3.403 17.2514,2.614 C16.5234,1.885 15.5044,1.5 14.3024,1.5 Z M6.8574,4.1895 C8.2884,4.1905 9.4524,5.3545 9.4534,6.7845 L9.4534,6.7855 C9.4534,8.2165 8.2894,9.3805 6.8574,9.3805 C5.4254,9.3805 4.2614,8.2165 4.2614,6.7855 C4.2614,5.3535 5.4254,4.1895 6.8574,4.1895 Z M6.8564,5.6895 C6.2524,5.6895 5.7614,6.1805 5.7614,6.7855 C5.7614,7.3895 6.2524,7.8805 6.8574,7.8805 C7.4614,7.8805 7.9534,7.3895 7.9534,6.7865 C7.9524,6.1815 7.4604,5.6905 6.8564,5.6895 Z" id="Combined-Shape"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+  /// Image 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<svg width="25" height="26" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.89709 8.37354C8.17648 8.37374 7.5918 8.95795 7.5918 9.6792C7.5918 10.4006 8.17668 10.9849 8.89746 10.9849C9.61895 10.9849 10.2029 10.4011 10.2031 9.67965C10.2023 8.9588 9.61793 8.37444 8.89709 8.37354ZM6.0918 9.6792C6.0918 8.12887 7.34878 6.87354 8.89746 6.87354H8.8982C10.4466 6.87506 11.7016 8.13009 11.7031 9.67846L11.7031 9.6792C11.7031 11.2293 10.4475 12.4849 8.89746 12.4849C7.34878 12.4849 6.0918 11.2295 6.0918 9.6792Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4614 12.0073H15.401L22.3147 21.7598L21.091 22.6273L14.943 13.955L10.9344 19.7882H10.0479L7.54864 17.5453L3.53414 22.8826L2.33538 21.9809L7.02072 15.7517H7.79594L10.3272 18.0234L14.4614 12.0073Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 23.104L2.25 3.104L22.25 3.104L22.25 23.104L2.25 23.104ZM3.75 21.604L20.75 21.604L20.75 4.604L3.75 4.604L3.75 21.604Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Image 1 — bold style variants.
+class _EssentialImage1Bold {
+  const _EssentialImage1Bold();
+
+  /// Image 1 — bold / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.088 7.12731C10.334 7.12731 11.349 8.14231 11.349 9.38831C11.349 10.6343 10.334 11.6483 9.088 11.6483C7.842 11.6483 6.827 10.6343 6.827 9.38831C6.827 8.14231 7.842 7.12731 9.088 7.12731ZM6.726 15.2303C7.911 14.6743 8.869 15.0183 9.796 15.3523C10.495 15.6043 11.219 15.8643 12.22 15.8643C12.998 15.8643 13.457 15.1773 14.12 14.0433C14.78 12.9163 15.601 11.5133 17.259 11.5133C19.563 11.5133 20.991 12.9663 21.959 14.0373C21.984 13.5793 22 13.1053 22 12.6043C22 5.40531 19.448 2.85431 12.25 2.85431C5.052 2.85431 2.5 5.40531 2.5 12.6043C2.5 15.2893 2.856 17.3273 3.676 18.8283C4.192 17.8113 5.314 15.8933 6.726 15.2303Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4815 15.7357C21.3345 15.5847 21.1785 15.4117 21.0115 15.2247C20.1275 14.2397 19.0265 13.0127 17.2585 13.0127C16.5145 13.0127 16.0655 13.6887 15.4155 14.8007C14.7465 15.9437 13.9155 17.3647 12.2195 17.3647C10.9565 17.3647 10.0315 17.0317 9.2875 16.7627C8.4115 16.4467 7.9595 16.3067 7.3645 16.5877C6.2325 17.1197 5.0965 19.2657 4.7545 20.0477C4.7345 20.0957 4.7035 20.1347 4.6745 20.1767C6.2115 21.7157 8.6495 22.3537 12.2505 22.3537C18.2095 22.3537 20.9775 20.5957 21.7565 15.9097C21.6555 15.8717 21.5615 15.8177 21.4815 15.7357Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.curved,
+  );
+
+  /// Image 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Image 2</title>     <g id="Iconly/Bold/Image-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Image-2" transform="translate(1.999400, 2.000400)" fill="#000000" fill-rule="nonzero">             <path d="M14.354,0 C17.731,0 20,2.362 20,5.888 L20,5.888 L20,14.102 C20,14.253 19.973,14.388 19.965,14.534 C19.96,14.619 19.961,14.704 19.954,14.789 C19.95,14.827 19.939,14.862 19.935,14.9 C19.902,15.214 19.851,15.514 19.78,15.805 C19.762,15.883 19.741,15.958 19.72,16.034 C19.64,16.316 19.546,16.585 19.433,16.842 C19.4,16.914 19.364,16.983 19.33,17.054 C19.208,17.299 19.076,17.534 18.923,17.752 L18.923,17.752 L18.775,17.944 C18.616,18.15 18.45,18.347 18.262,18.526 C18.201,18.584 18.132,18.634 18.068,18.689 C17.875,18.855 17.678,19.014 17.461,19.15 C17.383,19.199 17.297,19.235 17.217,19.279 C16.996,19.401 16.773,19.52 16.53,19.612 C16.43,19.65 16.319,19.67 16.215,19.703 C15.976,19.777 15.74,19.854 15.483,19.898 C15.4183333,19.9093333 15.3517778,19.9173333 15.2842222,19.9235926 L14.874,19.953 C14.7,19.966 14.535,20 14.354,20 L14.354,20 L5.638,20 C5.262,20 4.903,19.962 4.556,19.905 C4.543,19.903 4.531,19.901 4.519,19.899 C3.166,19.666 2.043,19.013 1.256,18.028 C1.247,18.028 1.247,18.018 1.238,18.009 C0.447,17.013 1.77635684e-15,15.674 1.77635684e-15,14.102 L1.77635684e-15,14.102 L1.77635684e-15,5.888 C1.77635684e-15,2.362 2.271,0 5.638,0 L5.638,0 Z M14.354,1.395 L5.638,1.395 C3.061,1.395 1.396,3.162 1.396,5.888 L1.396,5.888 L1.396,14.102 C1.396,14.867 1.538,15.55 1.781,16.141 C1.812,16.104 3.749,13.742 3.758,13.734 C4.45,12.944 5.749,11.766 7.454,12.479 C7.864,12.649 8.224,12.888 8.554,13.098 C9.127,13.481 9.464,13.661 9.814,13.631 C9.959,13.611 10.095,13.568 10.224,13.488 C10.782,13.144 12.359,10.844 12.454,10.719 C13.544,9.299 15.224,8.919 16.624,9.759 C16.718,9.815 17.10175,10.07825 17.51775,10.37475 L17.8317734,10.6006406 C18.1437969,10.8273281 18.43775,11.04825 18.605,11.19 L18.605,11.19 L18.605,5.888 C18.605,3.162 16.94,1.395 14.354,1.395 L14.354,1.395 Z M6.47928217,3.9996 C7.17695659,3.9996 7.80873953,4.29297966 8.26125891,4.76103602 C8.71571628,5.21268628 9.0006,5.83515298 9.0006,6.5145585 C9.0006,7.86950928 7.86687907,8.9996 6.50544496,8.9996 C5.30873953,8.9996 4.2883907,8.12525142 4.05970853,6.99323057 C4.02191783,6.82337919 4.0006,6.64870249 4.0006,6.4682354 C4.0006,5.10363397 5.10912713,3.9996 6.47928217,3.9996 Z"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+  /// Image 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.287 20.803H4.368L4.171 20.4L7.841 15.656L8.198 15.616L10.689 17.7L14.514 12.33L14.924 12.333L20.493 20.411L20.287 20.803ZM8.896 6.874C10.167 6.875 11.202 7.909 11.203 9.179C11.203 10.451 10.168 11.485 8.896 11.485C7.626 11.485 6.592 10.451 6.592 9.179C6.592 7.908 7.626 6.874 8.896 6.874ZM2.5 22.354H22V2.854H2.5V22.354Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Image 1 — light style variants.
+class _EssentialImage1Light {
+  const _EssentialImage1Light();
+
+  /// Image 1 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75 12.0001C2.75 18.9371 5.063 21.2501 12 21.2501C18.937 21.2501 21.25 18.9371 21.25 12.0001C21.25 5.06312 18.937 2.75012 12 2.75012C5.063 2.75012 2.75 5.06312 2.75 12.0001Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5987 8.78419C10.5987 9.75719 9.81066 10.5452 8.83766 10.5452C7.86566 10.5452 7.07666 9.75719 7.07666 8.78419C7.07666 7.81119 7.86566 7.02319 8.83766 7.02319C9.81066 7.02319 10.5987 7.81119 10.5987 8.78419Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.1201 14.6666C20.2391 13.7606 18.9931 11.9296 16.7041 11.9296C14.4151 11.9296 14.3651 15.9676 12.0291 15.9676C9.69206 15.9676 8.75106 14.5966 7.22806 15.3126C5.70606 16.0276 4.46606 18.8736 4.46606 18.8736" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+  /// Image 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Image 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Image 2</title>     <g id="Iconly/Light/Image-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Image-2" transform="translate(2.000000, 2.000000)" stroke="#000000" stroke-width="1.5">             <path d="M14.3027,0.7498 L5.6507,0.7498 C2.6387,0.7498 0.7497,2.8838 0.7497,5.9038 L0.7497,14.0498 C0.7497,17.0698 2.6307,19.2038 5.6507,19.2038 L14.2977,19.2038 C17.3227,19.2038 19.2027064,17.0698 19.2027064,14.0498 L19.2027064,5.9038 C19.2067,2.8838 17.3257,0.7498 14.3027,0.7498 Z" id="Stroke-1"></path>             <path d="M8.7031,6.785 C8.7031,7.805 7.8771,8.631 6.8571,8.631 C5.8381,8.631 5.0111,7.805 5.0111,6.785 C5.0111,5.765 5.8381,4.939 6.8571,4.939 C7.8761,4.94 8.7021,5.766 8.7031,6.785 Z" id="Stroke-3"></path>             <path d="M19.207,12.951 C18.284,12.001 16.509,10.082 14.579,10.082 C12.648,10.082 11.535,14.315 9.678,14.315 C7.821,14.315 6.134,12.401 4.646,13.628 C3.158,14.854 1.75,17.361 1.75,17.361" id="Stroke-5"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+  /// Image 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Image 1',
     svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9531 9.1792C10.9531 10.315 10.0333 11.2349 8.89746 11.2349C7.76273 11.2349 6.8418 10.315 6.8418 9.1792C6.8418 8.04335 7.76273 7.12354 8.89746 7.12354C10.0322 7.12465 10.952 8.04446 10.9531 9.1792Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.3855 21.3324L7.39499 16.0017H7.50865L10.335 18.5382H10.5397L14.8559 12.2573H15.0132L21.269 21.0817" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 21.854L21.5 3.354L3 3.354L3 21.854L21.5 21.854Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
@@ -11249,7 +14662,7 @@ class _EssentialSettingBulk {
   /// Setting — bulk / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Setting',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.5391 2.97864H6.9611L1.6731 12.1386L6.9611 21.2986H17.5391L22.8271 12.1386L17.5391 2.97864Z" fill="black"/> <path d="M9.15112 12.1387C9.15112 13.8477 10.5421 15.2387 12.2511 15.2387C13.9601 15.2387 15.3511 13.8477 15.3511 12.1387C15.3511 10.4297 13.9601 9.0387 12.2511 9.0387C10.5421 9.0387 9.15112 10.4297 9.15112 12.1387Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.968 9.12695L19.168 8.00695L19.598 5.01995L14.622 2.14795L12.251 4.01395L9.87898 2.14795L4.90298 5.01995L5.33298 8.00695L2.53198 9.12695V14.8729L5.33398 15.9939L4.90398 18.9789L9.87998 21.8519L12.251 19.9869L14.621 21.8519L19.597 18.9789L19.167 15.9929L21.968 14.8729V9.12695Z" fill="black"/> <path d="M8.31274 12C8.31274 14.171 10.0787 15.937 12.2497 15.937C14.4207 15.937 16.1877 14.171 16.1877 12C16.1877 9.82901 14.4207 8.06201 12.2497 8.06201C10.0787 8.06201 8.31274 9.82901 8.31274 12Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.sharp,
@@ -11282,7 +14695,7 @@ class _EssentialSettingBroken {
   /// Setting — broken / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Setting',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2514 14.9887C10.6774 14.9887 9.40137 13.7127 9.40137 12.1387C9.40137 10.5647 10.6774 9.2887 12.2514 9.2887C13.8254 9.2887 15.1014 10.5647 15.1014 12.1387" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/> <path d="M7.25 3.47864H17.25L22.25 12.1386L17.25 20.7986H7.25L2.25 12.1386L5.316 6.82764" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.6032 13.5375C15.8182 13.0695 15.9382 12.5485 15.9382 12.0005C15.9382 9.9635 14.2872 8.3125 12.2502 8.3125C10.2142 8.3125 8.56323 9.9635 8.56323 12.0005C8.56323 14.0375 10.2142 15.6885 12.2502 15.6885" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M3.03198 9.466V14.535L5.88498 15.676L5.44698 18.716L9.83698 21.25L12.251 19.351L14.664 21.25L19.054 18.716L18.616 15.675L21.468 14.535V9.466L18.617 8.325L19.055 5.285L14.665 2.75L12.251 4.65L9.83598 2.75L5.44598 5.285L5.88398 8.325" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.sharp,
@@ -11315,7 +14728,7 @@ class _EssentialSettingTwotone {
   /// Setting — twoTone / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Setting',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle opacity="0.4" cx="12.2506" cy="12.1387" r="2.8499" transform="rotate(90 12.2506 12.1387)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M22.25 12.1388L17.25 20.799H7.25L2.25 12.1388L7.25 3.47852L17.25 3.47852L22.25 12.1388Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.2502 15.6875C14.2867 15.6875 15.9377 14.0365 15.9377 11.9999C15.9377 9.96335 14.2867 8.31238 12.2502 8.31238C10.2136 8.31238 8.56262 9.96335 8.56262 11.9999C8.56262 14.0365 10.2136 15.6875 12.2502 15.6875Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M19.0538 18.7156L18.6159 15.6753L21.4677 14.5345V9.46567L18.6169 8.32522L19.0549 5.28442L14.6652 2.75L12.2506 4.64979L9.8361 2.75L5.44636 5.28442L5.88427 8.32471L3.03223 9.46567V14.5345L5.88527 15.6759L5.44744 18.7156L9.83718 21.25L12.2506 19.3511L14.6641 21.25L19.0538 18.7156Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.sharp,
@@ -11348,7 +14761,7 @@ class _EssentialSettingOutline {
   /// Setting — outline / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Setting',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3505 12.6387C14.3505 11.479 13.4104 10.5388 12.2506 10.5388C11.0909 10.5388 10.1507 11.479 10.1507 12.6387C10.1507 13.7985 11.0909 14.7386 12.2506 14.7386C13.4104 14.7386 14.3505 13.7985 14.3505 12.6387ZM12.2506 9.03882C14.2388 9.03882 15.8505 10.6505 15.8505 12.6387C15.8505 14.6269 14.2388 16.2386 12.2506 16.2386C10.2624 16.2386 8.65071 14.6269 8.65071 12.6387C8.65071 10.6505 10.2624 9.03882 12.2506 9.03882Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.81699 3.22852L17.683 3.22852L23.116 12.6388L17.683 22.049H6.81698L1.38397 12.6388L6.81699 3.22852ZM7.68301 4.72852L3.11602 12.6388L7.68301 20.549H16.817L21.384 12.6388L16.817 4.72852L7.68301 4.72852Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2502 9.56238C10.6278 9.56238 9.31262 10.8776 9.31262 12.4999C9.31262 14.1223 10.6278 15.4375 12.2502 15.4375C13.8725 15.4375 15.1877 14.1223 15.1877 12.4999C15.1877 10.8776 13.8725 9.56238 12.2502 9.56238ZM7.81262 12.4999C7.81262 10.0491 9.79938 8.06238 12.2502 8.06238C14.701 8.06238 16.6877 10.0491 16.6877 12.4999C16.6877 14.9507 14.701 16.9375 12.2502 16.9375C9.79938 16.9375 7.81262 14.9507 7.81262 12.4999Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.90082 2.34662L12.2506 4.19548L14.6004 2.34662L19.8696 5.38879L19.4434 8.34807L22.2177 9.45793V15.5423L19.4424 16.6525L19.8686 19.6112L14.5994 22.6534L12.2506 20.8054L9.90191 22.6534L4.63272 19.6112L5.0588 16.653L2.28223 15.5423V9.45793L5.0578 8.34756L4.63163 5.38879L9.90082 2.34662ZM6.26109 6.18007L6.71073 9.30189L3.78223 10.4734V14.5268L6.71173 15.6987L6.26217 18.82L9.77245 20.8466L12.2506 18.8967L14.7288 20.8466L18.2391 18.82L17.7895 15.6982L20.7177 14.5268V10.4734L17.7905 9.3024L18.2402 6.18007L14.7299 4.15341L12.2506 6.10413L9.77137 4.15341L6.26109 6.18007Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.sharp,
@@ -11381,7 +14794,7 @@ class _EssentialSettingBold {
   /// Setting — bold / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Setting',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2511 15.2387C10.5421 15.2387 9.1511 13.8477 9.1511 12.1387C9.1511 10.4297 10.5421 9.0387 12.2511 9.0387C13.9601 9.0387 15.3511 10.4297 15.3511 12.1387C15.3511 13.8477 13.9601 15.2387 12.2511 15.2387ZM17.5391 2.9787H6.9611L1.6731 12.1387L6.9611 21.2987H17.5391L22.8271 12.1387L17.5391 2.9787Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 15.937C10.079 15.937 8.31298 14.171 8.31298 12C8.31298 9.82901 10.079 8.06201 12.25 8.06201C14.421 8.06201 16.188 9.82901 16.188 12C16.188 14.171 14.421 15.937 12.25 15.937ZM21.968 9.12701L19.168 8.00701L19.598 5.02001L14.622 2.14801L12.251 4.01401L9.87898 2.14801L4.90298 5.02001L5.33298 8.00701L2.53198 9.12701V14.873L5.33398 15.994L4.90398 18.979L9.87998 21.852L12.251 19.987L14.621 21.852L19.597 18.979L19.167 15.993L21.968 14.873V9.12701Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.sharp,
@@ -11414,6 +14827,114 @@ class _EssentialSettingLight {
   /// Setting — light / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Setting',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2503 15.6875C14.2869 15.6875 15.9379 14.0365 15.9379 11.9999C15.9379 9.96335 14.2869 8.31238 12.2503 8.31238C10.2138 8.31238 8.56281 9.96335 8.56281 11.9999C8.56281 14.0365 10.2138 15.6875 12.2503 15.6875Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M19.0539 18.7156L18.616 15.6753L21.4678 14.5345V9.46567L18.617 8.32522L19.055 5.28442L14.6652 2.75L12.2507 4.64979L9.83616 2.75L5.44642 5.28442L5.88433 8.32471L3.03229 9.46567V14.5345L5.88533 15.6759L5.4475 18.7156L9.83724 21.25L12.2507 19.3511L14.6642 21.25L19.0539 18.7156Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Setting 1 icon with style variants.
+class _EssentialSetting1Icon {
+  const _EssentialSetting1Icon();
+
+  /// bold style
+  _EssentialSetting1Bold get bold => const _EssentialSetting1Bold();
+  /// bulk style
+  _EssentialSetting1Bulk get bulk => const _EssentialSetting1Bulk();
+  /// light style
+  _EssentialSetting1Light get light => const _EssentialSetting1Light();
+  /// outline style
+  _EssentialSetting1Outline get outline => const _EssentialSetting1Outline();
+  /// twoTone style
+  _EssentialSetting1Twotone get twoTone => const _EssentialSetting1Twotone();
+  /// broken style
+  _EssentialSetting1Broken get broken => const _EssentialSetting1Broken();
+}
+
+/// Setting 1 — bulk style variants.
+class _EssentialSetting1Bulk {
+  const _EssentialSetting1Bulk();
+
+  /// Setting 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Setting 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.5391 2.97864H6.9611L1.6731 12.1386L6.9611 21.2986H17.5391L22.8271 12.1386L17.5391 2.97864Z" fill="black"/> <path d="M9.15112 12.1387C9.15112 13.8477 10.5421 15.2387 12.2511 15.2387C13.9601 15.2387 15.3511 13.8477 15.3511 12.1387C15.3511 10.4297 13.9601 9.0387 12.2511 9.0387C10.5421 9.0387 9.15112 10.4297 9.15112 12.1387Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Setting 1 — broken style variants.
+class _EssentialSetting1Broken {
+  const _EssentialSetting1Broken();
+
+  /// Setting 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Setting 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2514 14.9887C10.6774 14.9887 9.40137 13.7127 9.40137 12.1387C9.40137 10.5647 10.6774 9.2887 12.2514 9.2887C13.8254 9.2887 15.1014 10.5647 15.1014 12.1387" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/> <path d="M7.25 3.47864H17.25L22.25 12.1386L17.25 20.7986H7.25L2.25 12.1386L5.316 6.82764" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Setting 1 — twoTone style variants.
+class _EssentialSetting1Twotone {
+  const _EssentialSetting1Twotone();
+
+  /// Setting 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Setting 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle opacity="0.4" cx="12.2506" cy="12.1387" r="2.8499" transform="rotate(90 12.2506 12.1387)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M22.25 12.1388L17.25 20.799H7.25L2.25 12.1388L7.25 3.47852L17.25 3.47852L22.25 12.1388Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Setting 1 — outline style variants.
+class _EssentialSetting1Outline {
+  const _EssentialSetting1Outline();
+
+  /// Setting 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Setting 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3505 12.6387C14.3505 11.479 13.4104 10.5388 12.2506 10.5388C11.0909 10.5388 10.1507 11.479 10.1507 12.6387C10.1507 13.7985 11.0909 14.7386 12.2506 14.7386C13.4104 14.7386 14.3505 13.7985 14.3505 12.6387ZM12.2506 9.03882C14.2388 9.03882 15.8505 10.6505 15.8505 12.6387C15.8505 14.6269 14.2388 16.2386 12.2506 16.2386C10.2624 16.2386 8.65071 14.6269 8.65071 12.6387C8.65071 10.6505 10.2624 9.03882 12.2506 9.03882Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.81699 3.22852L17.683 3.22852L23.116 12.6388L17.683 22.049H6.81698L1.38397 12.6388L6.81699 3.22852ZM7.68301 4.72852L3.11602 12.6388L7.68301 20.549H16.817L21.384 12.6388L16.817 4.72852L7.68301 4.72852Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Setting 1 — bold style variants.
+class _EssentialSetting1Bold {
+  const _EssentialSetting1Bold();
+
+  /// Setting 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Setting 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2511 15.2387C10.5421 15.2387 9.1511 13.8477 9.1511 12.1387C9.1511 10.4297 10.5421 9.0387 12.2511 9.0387C13.9601 9.0387 15.3511 10.4297 15.3511 12.1387C15.3511 13.8477 13.9601 15.2387 12.2511 15.2387ZM17.5391 2.9787H6.9611L1.6731 12.1387L6.9611 21.2987H17.5391L22.8271 12.1387L17.5391 2.9787Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Setting 1 — light style variants.
+class _EssentialSetting1Light {
+  const _EssentialSetting1Light();
+
+  /// Setting 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Setting 1',
     svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle cx="12.2507" cy="12.1386" r="2.8499" transform="rotate(90 12.2507 12.1386)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M22.25 12.1386L17.25 20.7989H7.25L2.25 12.1386L7.25 3.47839L17.25 3.47839L22.25 12.1386Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
@@ -12104,7 +15625,7 @@ class _EssentialChatBulk {
   /// Chat — bulk / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Chat',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.1555 5.25821C17.3205 3.42321 14.8795 2.41321 12.2795 2.41321C9.68049 2.41321 7.23749 3.42421 5.40249 5.25921C3.56249 7.09921 2.55049 9.54321 2.55249 12.1442C2.55549 15.4952 2.50449 21.3382 2.50449 21.3382L2.50049 21.8472L3.00849 21.8432C3.06649 21.8422 8.81749 21.7912 12.0685 21.8622C12.1425 21.8632 12.2155 21.8642 12.2895 21.8642C14.8825 21.8642 17.3135 20.8572 19.1555 19.0152C22.9475 15.2222 22.9475 9.05121 19.1555 5.25821Z" fill="black"/> <path d="M16.7872 13.2701H15.1892V11.7701H16.7872V13.2701Z" fill="black"/> <path d="M13.0532 13.2701H11.4542V11.7701H13.0532V13.2701Z" fill="black"/> <path d="M9.31921 13.2701H7.72021V11.7701H9.31921V13.2701Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.3581 5.12005C17.5231 3.28505 15.0821 2.27405 12.4821 2.27405C9.8831 2.27405 7.4401 3.28505 5.6051 5.12105C3.7651 6.96005 2.7531 9.40505 2.7551 12.004C2.7551 14.64 4.1391 17.152 4.6411 17.976L2.2981 21.712L3.2111 21.704C3.2691 21.704 9.0211 21.654 12.2711 21.724C12.3441 21.725 12.4161 21.726 12.4881 21.726C15.0841 21.726 17.5161 20.719 19.3581 18.876C23.1501 15.083 23.1501 8.91305 19.3581 5.12005Z" fill="black"/> <path d="M16.9901 13.131H15.3921V11.631H16.9901V13.131Z" fill="black"/> <path d="M13.2561 13.131H11.6571V11.631H13.2561V13.131Z" fill="black"/> <path d="M9.5221 13.131H7.9231V11.631H9.5221V13.131Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.sharp,
@@ -12137,7 +15658,7 @@ class _EssentialChatBroken {
   /// Chat — broken / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Chat',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.748 3.26393C12.862 2.38093 16.35 3.16493 18.798 5.61293C22.404 9.21893 22.397 15.0619 18.798 18.6609C16.943 20.5169 14.501 21.4149 12.075 21.3619C8.779 21.2909 3 21.3429 3 21.3429C3 21.3429 3.051 15.4959 3.048 12.1429C3.046 9.78093 3.946 7.41893 5.752 5.61293" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.56512 12.52H8.46613" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2995 12.52H12.2005" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.0334 12.52H15.9354" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.798 5.47365C22.404 9.07965 22.397 14.9226 18.798 18.5226C16.943 20.3776 14.501 21.2756 12.075 21.2236C8.779 21.1526 3 21.2036 3 21.2036L5.025 17.9756C5.025 17.9756 3.048 15.0387 3.048 12.0047C3.046 9.64165 3.946 7.27965 5.752 5.47465C8.001 3.22465 11.129 2.38065 14.038 2.94265" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.56512 12.3806H8.46613" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2995 12.3806H12.2005" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.0334 12.3806H15.9354" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.sharp,
@@ -12170,7 +15691,7 @@ class _EssentialChatTwotone {
   /// Chat — twoTone / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Chat',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7981 18.6612C16.943 20.5165 14.5012 21.4148 12.0747 21.3624C8.7795 21.2911 3 21.3429 3 21.3429C3 21.3429 3.05068 15.4956 3.04819 12.1431C3.04644 9.78062 3.94595 7.4186 5.75162 5.61333C9.35096 2.01267 15.1987 2.01267 18.7981 5.61241C22.4039 9.21863 22.3974 15.0615 18.7981 18.6612Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> <path opacity="0.4" d="M8.56468 12.5195H8.46593" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M12.2989 12.5196H12.2002" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M16.0332 12.5195H15.9345" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7981 18.5225C16.943 20.3778 14.5012 21.2761 12.0747 21.2237C8.7795 21.1525 3 21.2042 3 21.2042L5.02533 17.9754C5.02533 17.9754 3.04819 15.0387 3.04819 12.0045C3.04644 9.64195 3.94595 7.27993 5.75162 5.47466C9.35096 1.874 15.1987 1.874 18.7981 5.47373C22.4039 9.07996 22.3974 14.9228 18.7981 18.5225Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> <path opacity="0.4" d="M8.56468 12.3808H8.46593" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M12.2989 12.3809H12.2002" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M16.0332 12.3808H15.9345" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.sharp,
@@ -12203,7 +15724,7 @@ class _EssentialChatOutline {
   /// Chat — outline / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Chat',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2677 6.64269C14.9613 3.3359 9.58847 3.3359 6.28204 6.64355C4.62282 8.30241 3.79657 10.4711 3.79819 12.6426C3.79943 14.3218 3.78737 16.6241 3.77501 18.5051C3.76883 19.4459 3.76257 20.2819 3.75785 20.8827L3.75621 21.0871C3.81761 21.0867 3.8822 21.0863 3.94981 21.0859C4.54389 21.0822 5.37036 21.0779 6.30002 21.0759C8.15728 21.0719 10.4337 21.0767 12.0909 21.1125C14.3214 21.1607 16.5632 20.3356 18.2677 18.6309C21.5745 15.3237 21.5803 9.95569 18.2677 6.64269ZM3 21.8428L2.25002 21.8363L2.2579 20.871C2.26261 20.2706 2.26886 19.4353 2.27504 18.4952C2.2874 16.6145 2.29943 14.317 2.29819 12.6437C2.29629 10.0902 3.26915 7.53475 5.22118 5.58308C5.22124 5.58303 5.22113 5.58314 5.22118 5.58308M5.22118 5.58308C9.11344 1.68956 15.4362 1.68946 19.3284 5.58209C23.2274 9.48154 23.2203 15.7992 19.3284 19.6915C17.3229 21.6972 14.6811 22.6689 12.0585 22.6122C10.4205 22.5768 8.15957 22.5719 6.30328 22.5759C5.37615 22.5779 4.5518 22.5821 3.95925 22.5859C3.663 22.5877 3.42473 22.5895 3.26059 22.5907L3.00771 22.5928L3 21.8428L3.00671 22.5928L2.24341 22.5996L2.25002 21.8363L3 21.8428" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.71594 12.2695H9.31468V13.7695H7.71594V12.2695Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4502 12.2696H13.0489V13.7696H11.4502V12.2696Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.1845 12.2695H16.7832V13.7695H15.1845V12.2695Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1245 2.37281C9.75314 2.56861 8.03934 3.26165 6.86324 4.09609C6.131 4.61562 4.9112 5.88308 4.40134 6.65431C3.21603 8.44675 2.61906 10.8299 2.84827 12.8538C3.00495 14.2366 3.59874 16.0701 4.29243 17.3133C4.42552 17.5518 4.53443 17.7911 4.53443 17.8451C4.53443 17.8991 4.02973 18.7519 3.41284 19.7401C2.79595 20.7283 2.26508 21.5815 2.23307 21.636C2.19462 21.7016 4.15369 21.7318 8.03705 21.7253C13.628 21.7158 13.9382 21.7058 14.7415 21.5086C20.3211 20.1382 23.5172 14.5016 21.8051 9.0515C20.3866 4.53625 15.8486 1.6986 11.1245 2.37281ZM14.0705 3.89059C17.3792 4.52357 19.9753 7.09001 20.6437 10.3887C20.9011 11.6587 20.8057 13.3202 20.4045 14.554C19.6977 16.7283 18.2607 18.3819 16.1785 19.4173C14.4989 20.2525 14.0596 20.3053 9.04697 20.2746L4.82935 20.2487L5.57555 19.0479L6.32177 17.8471L5.90625 17.1652C5.37548 16.2939 4.91566 15.2339 4.57892 14.1051C4.3615 13.3764 4.31126 13.0048 4.30383 12.0738C4.28569 9.77219 5.01139 7.94744 6.60301 6.29283C7.87127 4.97433 9.6253 4.05566 11.3227 3.82101C12.0144 3.72529 13.3888 3.76008 14.0705 3.89059ZM8.10197 12.4247V13.1721L8.86998 13.1431L9.63799 13.1142L9.66712 12.3958L9.69626 11.6774H8.89911H8.10197V12.4247ZM11.7686 12.4206V13.1638H12.5118H13.2551V12.4206V11.6774H12.5118H11.7686V12.4206ZM15.3566 12.3958L15.3857 13.1142L16.1537 13.1431L16.9217 13.1721V12.4247V11.6774H16.1246H15.3274L15.3566 12.3958Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.sharp,
@@ -12236,7 +15757,7 @@ class _EssentialChatBold {
   /// Chat — bold / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Chat',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.1895 13.2701H16.7875V11.7701H15.1895V13.2701ZM11.4545 13.2701H13.0535V11.7701H11.4545V13.2701ZM7.72049 13.2701H9.31949V11.7701H7.72049V13.2701ZM19.1555 5.25815C17.3205 3.42315 14.8795 2.41315 12.2795 2.41315C9.68049 2.41315 7.23749 3.42415 5.40249 5.25915C3.56249 7.09915 2.55049 9.54315 2.55249 12.1441C2.55549 15.4951 2.50449 21.3381 2.50449 21.3381L2.50049 21.8471L3.00849 21.8431C3.06649 21.8421 8.81749 21.7911 12.0685 21.8621C12.1425 21.8631 12.2155 21.8641 12.2895 21.8641C14.8825 21.8641 17.3135 20.8571 19.1555 19.0151C22.9475 15.2221 22.9475 9.05115 19.1555 5.25815Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3921 13.131H16.9901V11.631H15.3921V13.131ZM11.6571 13.131H13.2561V11.631H11.6571V13.131ZM7.9231 13.131H9.5221V11.631H7.9231V13.131ZM19.3581 5.11999C17.5231 3.28499 15.0821 2.27399 12.4821 2.27399C9.8831 2.27399 7.4401 3.28499 5.6051 5.12099C3.7651 6.95999 2.7531 9.40499 2.7551 12.004C2.7551 14.64 4.1391 17.152 4.6411 17.976L2.2981 21.712L3.2111 21.704C3.2691 21.704 9.0211 21.654 12.2711 21.724C12.3441 21.725 12.4161 21.726 12.4881 21.726C15.0841 21.726 17.5161 20.719 19.3581 18.876C23.1501 15.083 23.1501 8.91299 19.3581 5.11999Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.sharp,
@@ -12269,6 +15790,114 @@ class _EssentialChatLight {
   /// Chat — light / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Chat',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7981 18.5225C16.943 20.3778 14.5012 21.2761 12.0747 21.2237C8.7795 21.1525 3 21.2042 3 21.2042L5.02533 17.9754C5.02533 17.9754 3.04819 15.0387 3.04819 12.0045C3.04644 9.64195 3.94595 7.27993 5.75162 5.47466C9.35096 1.874 15.1987 1.874 18.7981 5.47373C22.4039 9.07996 22.3974 14.9228 18.7981 18.5225Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> <path d="M8.56455 12.3808H8.46581" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2989 12.3809H12.2002" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.0333 12.3808H15.9346" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Chat 1 icon with style variants.
+class _EssentialChat1Icon {
+  const _EssentialChat1Icon();
+
+  /// bold style
+  _EssentialChat1Bold get bold => const _EssentialChat1Bold();
+  /// bulk style
+  _EssentialChat1Bulk get bulk => const _EssentialChat1Bulk();
+  /// light style
+  _EssentialChat1Light get light => const _EssentialChat1Light();
+  /// outline style
+  _EssentialChat1Outline get outline => const _EssentialChat1Outline();
+  /// twoTone style
+  _EssentialChat1Twotone get twoTone => const _EssentialChat1Twotone();
+  /// broken style
+  _EssentialChat1Broken get broken => const _EssentialChat1Broken();
+}
+
+/// Chat 1 — bulk style variants.
+class _EssentialChat1Bulk {
+  const _EssentialChat1Bulk();
+
+  /// Chat 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Chat 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.1555 5.25821C17.3205 3.42321 14.8795 2.41321 12.2795 2.41321C9.68049 2.41321 7.23749 3.42421 5.40249 5.25921C3.56249 7.09921 2.55049 9.54321 2.55249 12.1442C2.55549 15.4952 2.50449 21.3382 2.50449 21.3382L2.50049 21.8472L3.00849 21.8432C3.06649 21.8422 8.81749 21.7912 12.0685 21.8622C12.1425 21.8632 12.2155 21.8642 12.2895 21.8642C14.8825 21.8642 17.3135 20.8572 19.1555 19.0152C22.9475 15.2222 22.9475 9.05121 19.1555 5.25821Z" fill="black"/> <path d="M16.7872 13.2701H15.1892V11.7701H16.7872V13.2701Z" fill="black"/> <path d="M13.0532 13.2701H11.4542V11.7701H13.0532V13.2701Z" fill="black"/> <path d="M9.31921 13.2701H7.72021V11.7701H9.31921V13.2701Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Chat 1 — broken style variants.
+class _EssentialChat1Broken {
+  const _EssentialChat1Broken();
+
+  /// Chat 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Chat 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.748 3.26393C12.862 2.38093 16.35 3.16493 18.798 5.61293C22.404 9.21893 22.397 15.0619 18.798 18.6609C16.943 20.5169 14.501 21.4149 12.075 21.3619C8.779 21.2909 3 21.3429 3 21.3429C3 21.3429 3.051 15.4959 3.048 12.1429C3.046 9.78093 3.946 7.41893 5.752 5.61293" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.56512 12.52H8.46613" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2995 12.52H12.2005" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.0334 12.52H15.9354" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Chat 1 — twoTone style variants.
+class _EssentialChat1Twotone {
+  const _EssentialChat1Twotone();
+
+  /// Chat 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Chat 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7981 18.6612C16.943 20.5165 14.5012 21.4148 12.0747 21.3624C8.7795 21.2911 3 21.3429 3 21.3429C3 21.3429 3.05068 15.4956 3.04819 12.1431C3.04644 9.78062 3.94595 7.4186 5.75162 5.61333C9.35096 2.01267 15.1987 2.01267 18.7981 5.61241C22.4039 9.21863 22.3974 15.0615 18.7981 18.6612Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> <path opacity="0.4" d="M8.56468 12.5195H8.46593" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M12.2989 12.5196H12.2002" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M16.0332 12.5195H15.9345" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Chat 1 — outline style variants.
+class _EssentialChat1Outline {
+  const _EssentialChat1Outline();
+
+  /// Chat 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Chat 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2677 6.64269C14.9613 3.3359 9.58847 3.3359 6.28204 6.64355C4.62282 8.30241 3.79657 10.4711 3.79819 12.6426C3.79943 14.3218 3.78737 16.6241 3.77501 18.5051C3.76883 19.4459 3.76257 20.2819 3.75785 20.8827L3.75621 21.0871C3.81761 21.0867 3.8822 21.0863 3.94981 21.0859C4.54389 21.0822 5.37036 21.0779 6.30002 21.0759C8.15728 21.0719 10.4337 21.0767 12.0909 21.1125C14.3214 21.1607 16.5632 20.3356 18.2677 18.6309C21.5745 15.3237 21.5803 9.95569 18.2677 6.64269ZM3 21.8428L2.25002 21.8363L2.2579 20.871C2.26261 20.2706 2.26886 19.4353 2.27504 18.4952C2.2874 16.6145 2.29943 14.317 2.29819 12.6437C2.29629 10.0902 3.26915 7.53475 5.22118 5.58308C5.22124 5.58303 5.22113 5.58314 5.22118 5.58308M5.22118 5.58308C9.11344 1.68956 15.4362 1.68946 19.3284 5.58209C23.2274 9.48154 23.2203 15.7992 19.3284 19.6915C17.3229 21.6972 14.6811 22.6689 12.0585 22.6122C10.4205 22.5768 8.15957 22.5719 6.30328 22.5759C5.37615 22.5779 4.5518 22.5821 3.95925 22.5859C3.663 22.5877 3.42473 22.5895 3.26059 22.5907L3.00771 22.5928L3 21.8428L3.00671 22.5928L2.24341 22.5996L2.25002 21.8363L3 21.8428" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.71594 12.2695H9.31468V13.7695H7.71594V12.2695Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4502 12.2696H13.0489V13.7696H11.4502V12.2696Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.1845 12.2695H16.7832V13.7695H15.1845V12.2695Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Chat 1 — bold style variants.
+class _EssentialChat1Bold {
+  const _EssentialChat1Bold();
+
+  /// Chat 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Chat 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.1895 13.2701H16.7875V11.7701H15.1895V13.2701ZM11.4545 13.2701H13.0535V11.7701H11.4545V13.2701ZM7.72049 13.2701H9.31949V11.7701H7.72049V13.2701ZM19.1555 5.25815C17.3205 3.42315 14.8795 2.41315 12.2795 2.41315C9.68049 2.41315 7.23749 3.42415 5.40249 5.25915C3.56249 7.09915 2.55049 9.54315 2.55249 12.1441C2.55549 15.4951 2.50449 21.3381 2.50449 21.3381L2.50049 21.8471L3.00849 21.8431C3.06649 21.8421 8.81749 21.7911 12.0685 21.8621C12.1425 21.8631 12.2155 21.8641 12.2895 21.8641C14.8825 21.8641 17.3135 20.8571 19.1555 19.0151C22.9475 15.2221 22.9475 9.05115 19.1555 5.25815Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Chat 1 — light style variants.
+class _EssentialChat1Light {
+  const _EssentialChat1Light();
+
+  /// Chat 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Chat 1',
     svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7981 18.6612C16.943 20.5165 14.5012 21.4148 12.0747 21.3624C8.7795 21.2911 3 21.3429 3 21.3429C3 21.3429 3.05068 15.4956 3.04819 12.1431C3.04644 9.78062 3.94595 7.4186 5.75162 5.61333C9.35096 2.01267 15.1987 2.01267 18.7981 5.61241C22.4039 9.21863 22.3974 15.0615 18.7981 18.6612Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> <path d="M8.56455 12.5195H8.46581" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2989 12.5196H12.2002" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.0333 12.5195H15.9346" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
@@ -12486,6 +16115,222 @@ class _EssentialNotificationLight {
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Notification',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.06222 8.93778C6.06222 5.52036 8.83258 2.75 12.25 2.75C15.6674 2.75 18.4378 5.52036 18.4378 8.93777V13.5184L20.0504 17.8572H4.44958L6.06222 13.5184V8.93778Z" stroke="black" stroke-width="1.5"/> <path d="M15.4177 17.8574V18.0834C15.4177 19.8323 13.9999 21.2501 12.251 21.2501C10.5021 21.2501 9.08435 19.8323 9.08435 18.0834V17.8574" stroke="black" stroke-width="1.5"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Notification 1 icon with style variants.
+class _EssentialNotification1Icon {
+  const _EssentialNotification1Icon();
+
+  /// bold style
+  _EssentialNotification1Bold get bold => const _EssentialNotification1Bold();
+  /// bulk style
+  _EssentialNotification1Bulk get bulk => const _EssentialNotification1Bulk();
+  /// light style
+  _EssentialNotification1Light get light => const _EssentialNotification1Light();
+  /// outline style
+  _EssentialNotification1Outline get outline => const _EssentialNotification1Outline();
+  /// twoTone style
+  _EssentialNotification1Twotone get twoTone => const _EssentialNotification1Twotone();
+  /// broken style
+  _EssentialNotification1Broken get broken => const _EssentialNotification1Broken();
+}
+
+/// Notification 1 — bulk style variants.
+class _EssentialNotification1Bulk {
+  const _EssentialNotification1Bulk();
+
+  /// Notification 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Notification 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.80259 18.8298C9.95057 20.057 10.9852 21.0142 12.2507 21.0142C13.5163 21.0142 14.5519 20.057 14.6999 18.8298H16.201C16.0471 20.8842 14.3434 22.5142 12.2507 22.5142C10.1581 22.5142 8.45535 20.8842 8.30151 18.8298H9.80259Z" fill="black"/> <path d="M13.0007 3.40381V1.76318H11.5007V3.40381H13.0007Z" fill="black"/> <path opacity="0.4" d="M9.80249 18.8301C9.80151 18.8218 9.80054 18.8135 9.79956 18.8052H14.7024C14.7014 18.8135 14.7004 18.8218 14.6995 18.8301H16.2007C16.2014 18.8218 16.2019 18.8135 16.2024 18.8052H21.1545L20.6145 18.021C19.5964 16.5439 19.0583 14.8164 19.0583 13.0244V10.231C19.0583 6.72998 16.4023 3.84033 13.0005 3.46533V3.40381H11.5005V3.46533C8.09839 3.84033 5.44141 6.72998 5.44141 10.231V13.0244C5.44141 14.8184 4.90356 16.5464 3.8855 18.021L3.34546 18.8052H8.29956C8.30005 18.8135 8.30054 18.8218 8.30127 18.8301H9.80249Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Notification 1 — broken style variants.
+class _EssentialNotification1Broken {
+  const _EssentialNotification1Broken();
+
+  /// Notification 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Notification 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.5586 13.3986C18.5586 15.2846 19.1326 17.1266 20.2026 18.6796H4.29761C5.36861 17.1266 5.94161 15.2846 5.94161 13.3986V10.6056C5.94161 7.12163 8.76561 4.29663 12.2506 4.29663C15.4016 4.29663 18.0136 6.60763 18.4836 9.62763" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2505 4.29667V2.13867" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M15.4802 18.6797V18.9097C15.4802 20.6927 14.0342 22.1387 12.2512 22.1387C10.4682 22.1387 9.02319 20.6927 9.02319 18.9097V18.6797" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Notification 1 — twoTone style variants.
+class _EssentialNotification1Twotone {
+  const _EssentialNotification1Twotone();
+
+  /// Notification 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Notification 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.94101 10.6057C5.94101 7.12148 8.76549 4.297 12.2497 4.297C15.7338 4.297 18.5583 7.12148 18.5583 10.6056V13.3988C18.5583 15.2851 19.1317 17.1268 20.2025 18.6798H4.29688C5.36762 17.1268 5.94101 15.2851 5.94101 13.3988V10.6057Z" stroke="black" stroke-width="1.5"/> <path opacity="0.4" d="M12.2498 4.297V2.13843" stroke="black" stroke-width="1.5"/> <path opacity="0.4" d="M15.4787 18.6797V18.9101C15.4787 20.6932 14.0333 22.1386 12.2502 22.1386C10.4671 22.1386 9.02168 20.6932 9.02168 18.9101V18.6797" stroke="black" stroke-width="1.5"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Notification 1 — outline style variants.
+class _EssentialNotification1Outline {
+  const _EssentialNotification1Outline();
+
+  /// Notification 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Notification 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4997 4.08637V2.63843H12.9997V4.08637C16.5455 4.46086 19.3083 7.4606 19.3083 11.1056V13.8988C19.3083 15.633 19.8355 17.3263 20.8199 18.754L21.6306 19.9298H2.86875L3.67942 18.754C4.66385 17.3263 5.19102 15.633 5.19102 13.8988V11.1057C5.19102 7.4606 7.95389 4.46086 11.4997 4.08637ZM12.2497 5.547C9.17971 5.547 6.69102 8.03569 6.69102 11.1057V13.8988C6.69102 15.4791 6.31861 17.0304 5.61209 18.4298H18.8872C18.1807 17.0304 17.8083 15.4791 17.8083 13.8988V11.1056C17.8083 8.03569 15.3196 5.547 12.2497 5.547Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.27168 19.4102V19.1797H9.77168V19.4102C9.77168 20.779 10.8813 21.8887 12.2502 21.8887C13.6191 21.8887 14.7287 20.779 14.7287 19.4102V19.1797H16.2287V19.4102C16.2287 21.6074 14.4475 23.3887 12.2502 23.3887C10.0529 23.3887 8.27168 21.6074 8.27168 19.4102Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Notification 1 — bold style variants.
+class _EssentialNotification1Bold {
+  const _EssentialNotification1Bold();
+
+  /// Notification 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Notification 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2505 21.0142C10.9765 21.0142 9.93646 20.0442 9.79946 18.8052H14.7025C14.5655 20.0442 13.5245 21.0142 12.2505 21.0142ZM21.1545 18.8052L20.6145 18.0212C19.5965 16.5442 19.0585 14.8162 19.0585 13.0242V10.2312C19.0585 6.73018 16.4025 3.84018 13.0005 3.46518V1.76318H11.5005V3.46518C8.09846 3.84018 5.44146 6.73018 5.44146 10.2312V13.0242C5.44146 14.8182 4.90346 16.5462 3.88546 18.0212L3.34546 18.8052H8.29946C8.44146 20.8712 10.1495 22.5142 12.2505 22.5142C14.3515 22.5142 16.0605 20.8712 16.2025 18.8052H21.1545Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Notification 1 — light style variants.
+class _EssentialNotification1Light {
+  const _EssentialNotification1Light();
+
+  /// Notification 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Notification 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 4.29702C15.7342 4.29702 18.5587 7.1215 18.5587 10.6057V13.3988C18.5587 15.2851 19.132 17.1269 20.2028 18.6798H4.29721C5.36796 17.1269 5.94135 15.2851 5.94135 13.3989V10.6057C5.94135 7.1215 8.76583 4.29702 12.25 4.29702ZM12.25 4.29702V2.13845" stroke="black" stroke-width="1.5"/> <path d="M15.4791 18.6797V18.9101C15.4791 20.6932 14.0337 22.1386 12.2506 22.1386C10.4675 22.1386 9.02206 20.6932 9.02206 18.9101V18.6797" stroke="black" stroke-width="1.5"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Notification 2 icon with style variants.
+class _EssentialNotification2Icon {
+  const _EssentialNotification2Icon();
+
+  /// bold style
+  _EssentialNotification2Bold get bold => const _EssentialNotification2Bold();
+  /// bulk style
+  _EssentialNotification2Bulk get bulk => const _EssentialNotification2Bulk();
+  /// light style
+  _EssentialNotification2Light get light => const _EssentialNotification2Light();
+  /// outline style
+  _EssentialNotification2Outline get outline => const _EssentialNotification2Outline();
+  /// twoTone style
+  _EssentialNotification2Twotone get twoTone => const _EssentialNotification2Twotone();
+  /// broken style
+  _EssentialNotification2Broken get broken => const _EssentialNotification2Broken();
+}
+
+/// Notification 2 — bulk style variants.
+class _EssentialNotification2Bulk {
+  const _EssentialNotification2Bulk();
+
+  /// Notification 2 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Notification 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M18.94 9.03863V13.4086L20.55 15.0486V18.4561H3.94995V15.0486L5.55995 13.4086V9.03863C5.55995 5.34863 8.55995 2.34863 12.25 2.34863C12.94 2.34863 13.6 2.44863 14.22 2.64863C13.85 3.24863 13.65 3.94863 13.65 4.69863C13.65 6.92863 15.46 8.72863 17.68 8.72863C18.11 8.72863 18.53 8.65863 18.92 8.53863C18.93 8.69863 18.94 8.86863 18.94 9.03863Z" fill="black"/> <path d="M18.6396 7.03857C18.3396 7.15869 18.0198 7.22852 17.6797 7.22852C16.2896 7.22852 15.1497 6.09863 15.1497 4.69873C15.1497 4.15869 15.3196 3.66895 15.5996 3.25879C16.0596 2.60889 16.8196 2.17871 17.6797 2.17871C19.0796 2.17871 20.2097 3.30859 20.2097 4.69873C20.2097 5.75879 19.5596 6.65869 18.6396 7.03857Z" fill="black"/> <path d="M16.1396 18.4585H14.6396C14.4998 19.6587 13.4897 20.5986 12.2498 20.5986C11.0098 20.5986 9.99976 19.6587 9.85962 18.4585H8.35962C8.50977 20.4888 10.1797 22.0986 12.2498 22.0986C14.3198 22.0986 15.9998 20.4888 16.1396 18.4585Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Notification 2 — broken style variants.
+class _EssentialNotification2Broken {
+  const _EssentialNotification2Broken();
+
+  /// Notification 2 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Notification 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.44946 15.4272V18.1312H20.0505V15.4272L18.4375 13.7922V10.2122" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2507 3.02417C8.83274 3.02417 6.06274 5.79417 6.06274 9.21217V13.7922" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M15.4172 18.1311V18.3571C15.4172 20.1061 14.0002 21.5241 12.2512 21.5241C10.5022 21.5241 9.08423 20.1061 9.08423 18.3571V18.1311" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M18.9334 5.09817C18.9334 6.39317 17.8834 7.44317 16.5884 7.44317C15.2934 7.44317 14.2444 6.39317 14.2444 5.09817C14.2444 3.80317 15.2934 2.75317 16.5884 2.75317" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Notification 2 — twoTone style variants.
+class _EssentialNotification2Twotone {
+  const _EssentialNotification2Twotone();
+
+  /// Notification 2 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Notification 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2496 2.88867C8.83222 2.88867 6.06186 5.65903 6.06186 9.07645V13.657L4.44922 15.2917V17.9959H20.05V15.2917L18.4374 13.657V9.07645" stroke="black" stroke-width="1.5"/> <path opacity="0.4" d="M15.4173 17.9961V18.2221C15.4173 19.971 13.9996 21.3888 12.2507 21.3888C10.5017 21.3888 9.08398 19.971 9.08398 18.2221V17.9961" stroke="black" stroke-width="1.5"/> <circle opacity="0.4" cx="16.5879" cy="4.96301" r="2.34473" stroke="black" stroke-width="1.5"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Notification 2 — outline style variants.
+class _EssentialNotification2Outline {
+  const _EssentialNotification2Outline();
+
+  /// Notification 2 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Notification 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.31186 9.57645C5.31186 5.74482 8.418 2.63867 12.2496 2.63867V4.13867C9.24643 4.13867 6.81186 6.57325 6.81186 9.57645V14.4647L5.19922 16.0993V17.7459H19.3V16.0993L17.6874 14.4647V9.57645H19.1874V13.8493L20.8 15.484V19.2459H3.69922V15.484L5.31186 13.8493V9.57645Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.33398 18.7221V18.4961H9.83398V18.7221C9.83398 20.0568 10.916 21.1388 12.2507 21.1388C13.5853 21.1388 14.6673 20.0568 14.6673 18.7221V18.4961H16.1673V18.7221C16.1673 20.8852 14.4138 22.6388 12.2507 22.6388C10.0875 22.6388 8.33398 20.8852 8.33398 18.7221Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5879 3.86829C15.7071 3.86829 14.9932 4.58227 14.9932 5.46301C14.9932 6.34376 15.7071 7.05774 16.5879 7.05774C17.4686 7.05774 18.1826 6.34376 18.1826 5.46301C18.1826 4.58227 17.4686 3.86829 16.5879 3.86829ZM13.4932 5.46301C13.4932 3.75384 14.8787 2.36829 16.5879 2.36829C18.2971 2.36829 19.6826 3.75384 19.6826 5.46301C19.6826 7.17218 18.2971 8.55774 16.5879 8.55774C14.8787 8.55774 13.4932 7.17218 13.4932 5.46301Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Notification 2 — bold style variants.
+class _EssentialNotification2Bold {
+  const _EssentialNotification2Bold();
+
+  /// Notification 2 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Notification 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 20.5986C11.01 20.5986 9.99995 19.6586 9.85995 18.4586H14.64C14.5 19.6586 13.49 20.5986 12.25 20.5986ZM18.94 13.4086V9.03865C18.94 8.86865 18.93 8.69865 18.92 8.53865C18.53 8.65865 18.11 8.72865 17.68 8.72865C15.46 8.72865 13.65 6.92865 13.65 4.69865C13.65 3.94865 13.85 3.24865 14.22 2.64865C13.6 2.44865 12.94 2.34865 12.25 2.34865C8.55995 2.34865 5.55995 5.34865 5.55995 9.03865V13.4086L3.94995 15.0486V18.4586H8.35995C8.50995 20.4886 10.18 22.0986 12.25 22.0986C14.32 22.0986 16 20.4886 16.14 18.4586H20.55V15.0486L18.94 13.4086Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.68 7.22865C18.02 7.22865 18.34 7.15865 18.64 7.03865C19.56 6.65865 20.21 5.75865 20.21 4.69865C20.21 3.30865 19.08 2.17865 17.68 2.17865C16.82 2.17865 16.06 2.60865 15.6 3.25865C15.32 3.66865 15.15 4.15865 15.15 4.69865C15.15 6.09865 16.29 7.22865 17.68 7.22865Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Notification 2 — light style variants.
+class _EssentialNotification2Light {
+  const _EssentialNotification2Light();
+
+  /// Notification 2 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Notification 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 3.0238C8.83259 3.0238 6.06222 5.79417 6.06222 9.21158V13.7922L4.44959 15.4268V18.131H20.0504V15.4268L18.4378 13.7922V9.21158" stroke="black" stroke-width="1.5"/> <path d="M15.4177 18.1312V18.3572C15.4177 20.1061 13.9999 21.5239 12.251 21.5239C10.5021 21.5239 9.08435 20.1061 9.08435 18.3572V18.1312" stroke="black" stroke-width="1.5"/> <circle cx="16.5883" cy="5.09814" r="2.34473" stroke="black" stroke-width="1.5"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.sharp,
@@ -13397,15 +17242,6 @@ class _EssentialStarBulk {
     type: IconfyType.regular,
   );
 
-  /// Star — bulk / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'Star',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.625 11.5156C17.265 10.3916 13.858 6.98456 12.734 2.62456L12.25 0.747559L11.766 2.62456C10.642 6.98456 7.23505 10.3916 2.87505 11.5156L0.998047 11.9996L2.87505 12.4846C7.23505 13.6086 10.642 17.0156 11.766 21.3746L12.25 23.2526L12.734 21.3746C13.858 17.0156 17.265 13.6086 21.625 12.4846L23.502 11.9996L21.625 11.5156Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0009 7.747C19.0009 6.585 20.2749 5.248 21.4999 5.248C20.3209 5.248 19.0009 3.897 19.0009 2.75C19.0009 3.897 17.6929 5.248 16.5029 5.248C17.6479 5.248 19.0009 6.578 19.0009 7.747Z" fill="black"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.bulk,
-    type: IconfyType.sharp,
-  );
-
 }
 
 /// Star — broken style variants.
@@ -13428,15 +17264,6 @@ class _EssentialStarBroken {
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
-  );
-
-  /// Star — broken / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'Star',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2498 2.88867V21.3887" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.15576 12.1387H2.99976" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M21.5002 12.1387H12.2742" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2737 12.1147L5.70972 18.6797" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M18.7911 5.59766L16.1941 8.19466" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M18.7907 18.6787L5.70972 5.59766" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.broken,
-    type: IconfyType.sharp,
   );
 
 }
@@ -13463,15 +17290,6 @@ class _EssentialStarTwotone {
     type: IconfyType.regular,
   );
 
-  /// Star — twoTone / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'Star',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.7832 12L20.2607 7.375L14.0166 8.94017L12.25 2.75L10.4834 8.94017L4.23926 7.375L8.71681 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M15.7832 12L20.2607 16.625L14.0166 15.0598L12.25 21.25L10.4834 15.0598L4.23926 16.625L8.71681 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.sharp,
-  );
-
 }
 
 /// Star — outline style variants.
@@ -13494,15 +17312,6 @@ class _EssentialStarOutline {
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
-  );
-
-  /// Star — outline / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'Star',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 0.0170898L14.5386 8.03616L22.6276 6.00856L16.8271 12L22.6276 17.9915L14.5386 15.9639L12.25 23.983L9.96149 15.9639L1.8725 17.9915L7.67295 12L1.8725 6.00856L9.96149 8.03616L12.25 0.0170898ZM12.25 5.48297L11.0054 9.84423L6.60608 8.7415L9.76073 12L6.60609 15.2586L11.0054 14.1558L12.25 18.5171L13.4947 14.1558L17.894 15.2586L14.7393 12L17.894 8.7415L13.4947 9.84423L12.25 5.48297Z" fill="black"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.outline,
-    type: IconfyType.sharp,
   );
 
 }
@@ -13529,15 +17338,6 @@ class _EssentialStarBold {
     type: IconfyType.regular,
   );
 
-  /// Star — bold / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'Star',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8389 6.46348L14.3669 8.33748L12.2499 0.930481L10.1329 8.33748L2.66089 6.46348L8.02389 12.0005L2.66089 17.5365L10.1329 15.6625L12.2499 23.0695L14.3669 15.6625L21.8389 17.5365L16.4769 12.0005L21.8389 6.46348Z" fill="black"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.bold,
-    type: IconfyType.sharp,
-  );
-
 }
 
 /// Star — light style variants.
@@ -13553,10 +17353,709 @@ class _EssentialStarLight {
     type: IconfyType.regular,
   );
 
-  /// Star — light / sharp
+}
+
+/// Star 1 icon with style variants.
+class _EssentialStar1Icon {
+  const _EssentialStar1Icon();
+
+  /// bold style
+  _EssentialStar1Bold get bold => const _EssentialStar1Bold();
+}
+
+/// Star 1 — bold style variants.
+class _EssentialStar1Bold {
+  const _EssentialStar1Bold();
+
+  /// Star 1 — bold / sharp
   IconfyIconData get sharp => const IconfyIconData(
-    name: 'Star',
+    name: 'Star 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.5 11.1387H14.664L20.205 5.59767L18.791 4.18367L13.25 9.72467V1.88867H11.25V9.72367L5.71 4.18367L4.296 5.59767L9.837 11.1387H2V13.1387H9.837L4.296 18.6797L5.71 20.0937L11.25 14.5537V22.3887H13.25V14.5517L18.791 20.0927L20.205 18.6787L14.665 13.1387H22.5V11.1387Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 2 icon with style variants.
+class _EssentialStar2Icon {
+  const _EssentialStar2Icon();
+
+  /// bold style
+  _EssentialStar2Bold get bold => const _EssentialStar2Bold();
+}
+
+/// Star 2 — bold style variants.
+class _EssentialStar2Bold {
+  const _EssentialStar2Bold();
+
+  /// Star 2 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.625 11.5155C17.265 10.3915 13.858 6.9845 12.734 2.6245L12.25 0.747498L11.766 2.6245C10.642 6.9845 7.23505 10.3915 2.87505 11.5155L0.998047 11.9995L2.87505 12.4845C7.23505 13.6085 10.642 17.0155 11.766 21.3745L12.25 23.2525L12.734 21.3745C13.858 17.0155 17.265 13.6085 21.625 12.4845L23.502 11.9995L21.625 11.5155Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0011 7.74691C19.0011 6.58491 20.2751 5.24791 21.5001 5.24791C20.3211 5.24791 19.0011 3.89691 19.0011 2.74991C19.0011 3.89691 17.6931 5.24791 16.5031 5.24791C17.6481 5.24791 19.0011 6.57791 19.0011 7.74691Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 3 icon with style variants.
+class _EssentialStar3Icon {
+  const _EssentialStar3Icon();
+
+  /// bulk style
+  _EssentialStar3Bulk get bulk => const _EssentialStar3Bulk();
+}
+
+/// Star 3 — bulk style variants.
+class _EssentialStar3Bulk {
+  const _EssentialStar3Bulk();
+
+  /// Star 3 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 3',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.2783 1.88867H11.2214V11.1104H2V13.1675H11.2214V22.3887H13.2783V13.1675H22.5V11.1104H13.2783V1.88867Z" fill="black"/> <path opacity="0.4" d="M20.2247 5.61801L18.7703 4.16357L12.2496 10.6843L5.72902 4.16375L4.27441 5.61836L10.795 12.1389L4.27459 18.6593L5.72902 20.1137L12.2494 13.5933L18.7701 20.114L20.2247 18.6594L13.704 12.1387L20.2247 5.61801Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 4 icon with style variants.
+class _EssentialStar4Icon {
+  const _EssentialStar4Icon();
+
+  /// bulk style
+  _EssentialStar4Bulk get bulk => const _EssentialStar4Bulk();
+}
+
+/// Star 4 — bulk style variants.
+class _EssentialStar4Bulk {
+  const _EssentialStar4Bulk();
+
+  /// Star 4 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.625 11.5156C17.265 10.3916 13.858 6.98456 12.734 2.62456L12.25 0.747559L11.766 2.62456C10.642 6.98456 7.23505 10.3916 2.87505 11.5156L0.998047 11.9996L2.87505 12.4846C7.23505 13.6086 10.642 17.0156 11.766 21.3746L12.25 23.2526L12.734 21.3746C13.858 17.0156 17.265 13.6086 21.625 12.4846L23.502 11.9996L21.625 11.5156Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0009 7.747C19.0009 6.585 20.2749 5.248 21.4999 5.248C20.3209 5.248 19.0009 3.897 19.0009 2.75C19.0009 3.897 17.6929 5.248 16.5029 5.248C17.6479 5.248 19.0009 6.578 19.0009 7.747Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 5 icon with style variants.
+class _EssentialStar5Icon {
+  const _EssentialStar5Icon();
+
+  /// light style
+  _EssentialStar5Light get light => const _EssentialStar5Light();
+}
+
+/// Star 5 — light style variants.
+class _EssentialStar5Light {
+  const _EssentialStar5Light();
+
+  /// Star 5 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 5',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 2.75C13.4203 7.28687 16.9631 10.8297 21.5 12C16.9631 13.1703 13.4203 16.7131 12.25 21.25C11.0797 16.7131 7.53687 13.1703 3 12C7.53687 10.8297 11.0797 7.28687 12.25 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> <path d="M19.0013 2.75C19.0013 3.8975 20.3206 5.24836 21.4996 5.24836C20.2752 5.24836 19.0013 6.58523 19.0013 7.74671C19.0013 6.57766 17.648 5.24836 16.5029 5.24836C17.6934 5.24836 19.0013 3.8975 19.0013 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 6 icon with style variants.
+class _EssentialStar6Icon {
+  const _EssentialStar6Icon();
+
+  /// light style
+  _EssentialStar6Light get light => const _EssentialStar6Light();
+}
+
+/// Star 6 — light style variants.
+class _EssentialStar6Light {
+  const _EssentialStar6Light();
+
+  /// Star 6 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 2.75C13.4203 7.28687 16.9631 10.8297 21.5 12C16.9631 13.1703 13.4203 16.7131 12.25 21.25C11.0797 16.7131 7.53687 13.1703 3 12C7.53687 10.8297 11.0797 7.28687 12.25 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> <path d="M19.0013 2.75C19.0013 3.8975 20.3206 5.24836 21.4996 5.24836C20.2752 5.24836 19.0013 6.58523 19.0013 7.74671C19.0013 6.57766 17.648 5.24836 16.5029 5.24836C17.6934 5.24836 19.0013 3.8975 19.0013 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 7 icon with style variants.
+class _EssentialStar7Icon {
+  const _EssentialStar7Icon();
+
+  /// outline style
+  _EssentialStar7Outline get outline => const _EssentialStar7Outline();
+}
+
+/// Star 7 — outline style variants.
+class _EssentialStar7Outline {
+  const _EssentialStar7Outline();
+
+  /// Star 7 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 7',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13 2.63867V22.6387H11.5V2.63867H13Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.25 13.3887L2.25 13.3887L2.25 11.8887L22.25 11.8887L22.25 13.3887Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.8517 6.09814L5.70954 20.2403L4.64888 19.1796L18.791 5.03748L19.8517 6.09814Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.791 20.2399L4.64888 6.09772L5.70954 5.03706L19.8517 19.1792L18.791 20.2399Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 8 icon with style variants.
+class _EssentialStar8Icon {
+  const _EssentialStar8Icon();
+
+  /// outline style
+  _EssentialStar8Outline get outline => const _EssentialStar8Outline();
+}
+
+/// Star 8 — outline style variants.
+class _EssentialStar8Outline {
+  const _EssentialStar8Outline();
+
+  /// Star 8 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 8',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 5.53189C10.8794 8.64093 8.3909 11.1294 5.28186 12.5001C8.3909 13.8708 10.8794 16.3592 12.2501 19.4683C13.6207 16.3592 16.1092 13.8708 19.2182 12.5001C16.1092 11.1294 13.6207 8.64093 12.25 5.53189ZM11.5238 3.06274L12.9763 3.06274C14.0784 7.33531 17.4148 10.6717 21.6874 11.7739V13.2263C17.4148 14.3284 14.0784 17.6649 12.9763 21.9374H11.5238C10.4217 17.6649 7.08528 14.3284 2.81271 13.2263L2.81271 11.7739C7.08528 10.6717 10.4217 7.33531 11.5238 3.06274Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.503 6.49845V4.99845C16.8312 4.99845 17.2754 4.79657 17.6653 4.40224C18.0564 4.00674 18.2513 3.56084 18.2513 3.25009H19.7513C19.7513 3.55883 19.9472 4.00452 20.3409 4.40144C20.7337 4.7975 21.1781 4.99845 21.4997 4.99845V6.49845C21.1492 6.49845 20.7058 6.70191 20.326 7.08799C19.9446 7.47578 19.7513 7.92191 19.7513 8.2468H18.2513C18.2513 7.93146 18.051 7.48686 17.6529 7.09121C17.2541 6.69493 16.8086 6.49845 16.503 6.49845ZM18.9905 6.33586C19.0751 6.23027 19.1642 6.13007 19.2566 6.03615C19.3584 5.9327 19.468 5.83276 19.5846 5.73845C19.4752 5.64884 19.372 5.55462 19.2759 5.45772C19.1816 5.3627 19.0901 5.26095 19.0031 5.15343C18.9166 5.26059 18.8257 5.36207 18.7319 5.45692C18.6305 5.55945 18.5212 5.6589 18.405 5.75305C18.5129 5.84061 18.615 5.93261 18.7102 6.02725C18.8069 6.12331 18.901 6.22651 18.9905 6.33586Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 9 icon with style variants.
+class _EssentialStar9Icon {
+  const _EssentialStar9Icon();
+
+  /// twoTone style
+  _EssentialStar9Twotone get twoTone => const _EssentialStar9Twotone();
+}
+
+/// Star 9 — twoTone style variants.
+class _EssentialStar9Twotone {
+  const _EssentialStar9Twotone();
+
+  /// Star 9 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 9',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 2.88867V21.3887" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M21.5 12.1387L3 12.1387" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M18.791 5.59814L5.70954 18.6796" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M18.791 18.6792L5.70954 5.59772" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 10 icon with style variants.
+class _EssentialStar10Icon {
+  const _EssentialStar10Icon();
+
+  /// twoTone style
+  _EssentialStar10Twotone get twoTone => const _EssentialStar10Twotone();
+}
+
+/// Star 10 — twoTone style variants.
+class _EssentialStar10Twotone {
+  const _EssentialStar10Twotone();
+
+  /// Star 10 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 10',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 2.75C13.4203 7.28687 16.9631 10.8297 21.5 12C16.9631 13.1703 13.4203 16.7131 12.25 21.25C11.0797 16.7131 7.53687 13.1703 3 12C7.53687 10.8297 11.0797 7.28687 12.25 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> <path opacity="0.4" d="M19.0013 2.75C19.0013 3.8975 20.3206 5.24836 21.4996 5.24836C20.2752 5.24836 19.0013 6.58523 19.0013 7.74671C19.0013 6.57766 17.648 5.24836 16.5029 5.24836C17.6934 5.24836 19.0013 3.8975 19.0013 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 11 icon with style variants.
+class _EssentialStar11Icon {
+  const _EssentialStar11Icon();
+
+  /// broken style
+  _EssentialStar11Broken get broken => const _EssentialStar11Broken();
+}
+
+/// Star 11 — broken style variants.
+class _EssentialStar11Broken {
+  const _EssentialStar11Broken();
+
+  /// Star 11 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 11',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2498 2.88867V21.3887" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.15576 12.1387H2.99976" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M21.5002 12.1387H12.2742" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2737 12.1147L5.70972 18.6797" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M18.7911 5.59766L16.1941 8.19466" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M18.7907 18.6787L5.70972 5.59766" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 12 icon with style variants.
+class _EssentialStar12Icon {
+  const _EssentialStar12Icon();
+
+  /// broken style
+  _EssentialStar12Broken get broken => const _EssentialStar12Broken();
+}
+
+/// Star 12 — broken style variants.
+class _EssentialStar12Broken {
+  const _EssentialStar12Broken();
+
+  /// Star 12 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 12',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.13 16.804C8.402 14.471 5.905 12.749 3 12C7.537 10.83 11.08 7.287 12.25 2.75C13.42 7.287 16.963 10.83 21.5 12C16.963 13.17 13.42 16.713 12.25 21.25" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="bevel"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19 2.75C19 3.898 20.32 5.248 21.499 5.248C20.274 5.248 19 6.585 19 7.747C19 6.578 17.647 5.248 16.502 5.248C17.692 5.248 19 3.898 19 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="bevel"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 13 icon with style variants.
+class _EssentialStar13Icon {
+  const _EssentialStar13Icon();
+
+  /// bold style
+  _EssentialStar13Bold get bold => const _EssentialStar13Bold();
+  /// bulk style
+  _EssentialStar13Bulk get bulk => const _EssentialStar13Bulk();
+  /// light style
+  _EssentialStar13Light get light => const _EssentialStar13Light();
+  /// outline style
+  _EssentialStar13Outline get outline => const _EssentialStar13Outline();
+  /// twoTone style
+  _EssentialStar13Twotone get twoTone => const _EssentialStar13Twotone();
+  /// broken style
+  _EssentialStar13Broken get broken => const _EssentialStar13Broken();
+}
+
+/// Star 13 — bulk style variants.
+class _EssentialStar13Bulk {
+  const _EssentialStar13Bulk();
+
+  /// Star 13 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 13',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2501 1.31006L9.36206 9.11306L1.56006 12.0001L9.36206 14.8871L12.2501 22.6901V1.31006Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.2499 1.31006L15.1379 9.11306L22.9399 12.0001L15.1379 14.8871L12.2499 22.6901V1.31006Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 13 — broken style variants.
+class _EssentialStar13Broken {
+  const _EssentialStar13Broken();
+
+  /// Star 13 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 13',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.577 10.5482L21.5 12.0002L14.75 14.4982L12.25 21.2502L9.75 14.4982" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M6.674 13.3599L3 11.9999L9.75 9.50188L12.25 2.74988L14.75 9.50188" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 13 — twoTone style variants.
+class _EssentialStar13Twotone {
+  const _EssentialStar13Twotone();
+
+  /// Star 13 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 13',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.4992 6.12583L12.25 2.75L9.75166 9.50166L3 12L9.75166 14.4983L11.0008 17.8742" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M13.4991 6.12573L14.7482 9.50156L21.4999 11.9999L14.7482 14.4982L12.2499 21.2499L11.0007 17.8741" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 13 — outline style variants.
+class _EssentialStar13Outline {
+  const _EssentialStar13Outline();
+
+  /// Star 13 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 13',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 0.588867L15.332 8.91798L23.6611 12L15.332 15.0821L12.25 23.4112L9.16794 15.0821L0.838837 12L9.16794 8.91798L12.25 0.588867ZM12.25 4.91118L10.3354 10.0854L5.16115 12L10.3354 13.9147L12.25 19.0889L14.1646 13.9147L19.3388 12L14.1646 10.0854L12.25 4.91118Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 13 — bold style variants.
+class _EssentialStar13Bold {
+  const _EssentialStar13Bold();
+
+  /// Star 13 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 13',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.1386 9.113L12.2496 1.31L9.36157 9.113L1.55957 12L9.36157 14.887L12.2496 22.69L15.1386 14.887L22.9406 12L15.1386 9.113Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 13 — light style variants.
+class _EssentialStar13Light {
+  const _EssentialStar13Light();
+
+  /// Star 13 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 13',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 2.75L14.7483 9.50166L21.5 12L14.7483 14.4983L12.25 21.25L9.75166 14.4983L3 12L9.75166 9.50166L12.25 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 14 icon with style variants.
+class _EssentialStar14Icon {
+  const _EssentialStar14Icon();
+
+  /// bold style
+  _EssentialStar14Bold get bold => const _EssentialStar14Bold();
+  /// bulk style
+  _EssentialStar14Bulk get bulk => const _EssentialStar14Bulk();
+  /// light style
+  _EssentialStar14Light get light => const _EssentialStar14Light();
+  /// outline style
+  _EssentialStar14Outline get outline => const _EssentialStar14Outline();
+  /// twoTone style
+  _EssentialStar14Twotone get twoTone => const _EssentialStar14Twotone();
+  /// broken style
+  _EssentialStar14Broken get broken => const _EssentialStar14Broken();
+}
+
+/// Star 14 — bulk style variants.
+class _EssentialStar14Bulk {
+  const _EssentialStar14Bulk();
+
+  /// Star 14 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 14',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2502 2.17102L9.80716 9.67902H1.91016L8.30216 14.32L5.86016 21.829L12.2502 17.188V2.17102Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.2498 2.17102L14.6928 9.67902H22.5898L16.1978 14.32L18.6398 21.829L12.2498 17.188V2.17102Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 14 — broken style variants.
+class _EssentialStar14Broken {
+  const _EssentialStar14Broken();
+
+  /// Star 14 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 14',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.80995 20.3669L8.88995 13.9749L3.44995 10.0249H10.17L12.25 3.63293L14.33 10.0249" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M17.3979 10.025H21.0499L15.6099 13.975L17.6899 20.367L12.2499 16.416L9.70288 18.266" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 14 — twoTone style variants.
+class _EssentialStar14Twotone {
+  const _EssentialStar14Twotone();
+
+  /// Star 14 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 14',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.6869 10.0249H14.3267L12.2499 3.6333L10.1732 10.0249H3.45264L8.88965 13.9751L7.85127 17.1709" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M17.687 10.0249H21.0473L15.6103 13.9751L17.687 20.3667L12.25 16.4165L6.81299 20.3667L7.85137 17.1709" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 14 — outline style variants.
+class _EssentialStar14Outline {
+  const _EssentialStar14Outline();
+
+  /// Star 14 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 14',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 0.322937L14.8717 8.39158H23.3555L16.4919 13.3783L19.1136 21.4469L12.25 16.4602L5.38641 21.4469L8.00807 13.3783L1.14447 8.39158H9.62834L12.25 0.322937ZM12.25 5.17704L10.7182 9.89158H5.761L9.77143 12.8053L8.23958 17.5199L12.25 14.6061L16.2604 17.5199L14.7286 12.8053L18.739 9.89158H13.7819L12.25 5.17704Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 14 — bold style variants.
+class _EssentialStar14Bold {
+  const _EssentialStar14Bold();
+
+  /// Star 14 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 14',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.5899 9.67902H14.6939L12.2499 2.17102L9.80691 9.67902H1.90991L8.30191 14.32L5.85991 21.829L12.2499 17.188L18.6409 21.829L16.1979 14.32L22.5899 9.67902Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 14 — light style variants.
+class _EssentialStar14Light {
+  const _EssentialStar14Light();
+
+  /// Star 14 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 14',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 2.75L14.3268 9.14159H21.0473L15.6103 13.0918L17.687 19.4834L12.25 15.5332L6.81299 19.4834L8.88974 13.0918L3.45273 9.14159H10.1732L12.25 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 15 icon with style variants.
+class _EssentialStar15Icon {
+  const _EssentialStar15Icon();
+
+  /// bold style
+  _EssentialStar15Bold get bold => const _EssentialStar15Bold();
+  /// bulk style
+  _EssentialStar15Bulk get bulk => const _EssentialStar15Bulk();
+  /// light style
+  _EssentialStar15Light get light => const _EssentialStar15Light();
+  /// outline style
+  _EssentialStar15Outline get outline => const _EssentialStar15Outline();
+  /// twoTone style
+  _EssentialStar15Twotone get twoTone => const _EssentialStar15Twotone();
+  /// broken style
+  _EssentialStar15Broken get broken => const _EssentialStar15Broken();
+}
+
+/// Star 15 — bulk style variants.
+class _EssentialStar15Bulk {
+  const _EssentialStar15Bulk();
+
+  /// Star 15 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 15',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2501 0.930542L10.1331 8.33754L2.66113 6.46354L8.02413 12.0005L2.66113 17.5365L10.1331 15.6625L12.2501 23.0695V0.930542Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.2499 0.930542L14.3669 8.33754L21.8389 6.46354L16.4759 12.0005L21.8389 17.5365L14.3669 15.6625L12.2499 23.0695V0.930542Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 15 — broken style variants.
+class _EssentialStar15Broken {
+  const _EssentialStar15Broken();
+
+  /// Star 15 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 15',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.1162 15.866L20.2602 16.625L15.7802 12L20.2602 7.375L14.0202 8.94L12.2502 2.75L10.4802 8.94" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.99999 8.318L4.23999 7.375L8.71999 12L4.23999 16.625L10.48 15.06L12.25 21.25L14.02 15.06" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 15 — twoTone style variants.
+class _EssentialStar15Twotone {
+  const _EssentialStar15Twotone();
+
+  /// Star 15 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 15',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.7832 12L20.2607 7.375L14.0166 8.94017L12.25 2.75L10.4834 8.94017L4.23926 7.375L8.71681 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M15.7832 12L20.2607 16.625L14.0166 15.0598L12.25 21.25L10.4834 15.0598L4.23926 16.625L8.71681 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 15 — outline style variants.
+class _EssentialStar15Outline {
+  const _EssentialStar15Outline();
+
+  /// Star 15 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 15',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 0.0170898L14.5386 8.03616L22.6276 6.00856L16.8271 12L22.6276 17.9915L14.5386 15.9639L12.25 23.983L9.96149 15.9639L1.8725 17.9915L7.67295 12L1.8725 6.00856L9.96149 8.03616L12.25 0.0170898ZM12.25 5.48297L11.0054 9.84423L6.60608 8.7415L9.76073 12L6.60609 15.2586L11.0054 14.1558L12.25 18.5171L13.4947 14.1558L17.894 15.2586L14.7393 12L17.894 8.7415L13.4947 9.84423L12.25 5.48297Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 15 — bold style variants.
+class _EssentialStar15Bold {
+  const _EssentialStar15Bold();
+
+  /// Star 15 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 15',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8389 6.46348L14.3669 8.33748L12.2499 0.930481L10.1329 8.33748L2.66089 6.46348L8.02389 12.0005L2.66089 17.5365L10.1329 15.6625L12.2499 23.0695L14.3669 15.6625L21.8389 17.5365L16.4769 12.0005L21.8389 6.46348Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 15 — light style variants.
+class _EssentialStar15Light {
+  const _EssentialStar15Light();
+
+  /// Star 15 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 15',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 2.75L14.0166 8.94017L20.2607 7.375L15.7832 12L20.2607 16.625L14.0166 15.0598L12.25 21.25L10.4834 15.0598L4.23927 16.625L8.71681 12L4.23927 7.375L10.4834 8.94017L12.25 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 16 icon with style variants.
+class _EssentialStar16Icon {
+  const _EssentialStar16Icon();
+
+  /// bold style
+  _EssentialStar16Bold get bold => const _EssentialStar16Bold();
+  /// bulk style
+  _EssentialStar16Bulk get bulk => const _EssentialStar16Bulk();
+  /// light style
+  _EssentialStar16Light get light => const _EssentialStar16Light();
+  /// outline style
+  _EssentialStar16Outline get outline => const _EssentialStar16Outline();
+  /// twoTone style
+  _EssentialStar16Twotone get twoTone => const _EssentialStar16Twotone();
+  /// broken style
+  _EssentialStar16Broken get broken => const _EssentialStar16Broken();
+}
+
+/// Star 16 — bulk style variants.
+class _EssentialStar16Bulk {
+  const _EssentialStar16Bulk();
+
+  /// Star 16 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 16',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.032 6.65396L12.25 1.48096V22.519L10.032 17.346L4.81103 19.44L6.90403 14.214L1.72803 12L6.90403 9.78596L4.81103 4.55996L10.032 6.65396Z" fill="black"/> <path opacity="0.4" d="M14.468 6.65396L12.25 1.48096V22.519L14.468 17.346L19.689 19.44L17.596 14.214L22.772 12L17.596 9.78596L19.689 4.55996L14.468 6.65396Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 16 — broken style variants.
+class _EssentialStar16Broken {
+  const _EssentialStar16Broken();
+
+  /// Star 16 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 16',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.55 13.9471L3 12.0001L7.55 10.0531L5.71 5.45912L10.3 7.30012L12.25 2.75012L14.2 7.30012L18.79 5.45912L16.95 10.0531L21.5 12.0001" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.95 13.9469L18.79 18.5409L14.2 16.6999L12.25 21.2499L10.3 16.6999L5.70996 18.5409" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 16 — twoTone style variants.
+class _EssentialStar16Twotone {
+  const _EssentialStar16Twotone();
+
+  /// Star 16 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 16',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.2251 12.9735L21.5 12L16.9502 10.0531L18.7907 5.45926L14.1969 7.29976L12.25 2.75L10.3031 7.29976L5.70926 5.45926L7.54976 10.0531L3 12L5.27488 12.9735" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M19.2251 12.9734L16.9503 13.9468L18.7908 18.5407L14.1969 16.7002L12.25 21.2499L10.3031 16.7002L5.70928 18.5407L7.54978 13.9468L5.2749 12.9734" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 16 — outline style variants.
+class _EssentialStar16Outline {
+  const _EssentialStar16Outline();
+
+  /// Star 16 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 16',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 0.843567L14.5981 6.33103L20.1388 4.11121L17.9189 9.65183L23.4064 12L17.9189 14.3481L20.1388 19.8888L14.5981 17.6689L12.25 23.1564L9.90183 17.6689L4.36121 19.8888L6.58103 14.3481L1.09357 12L6.58103 9.65183L4.36121 4.11121L9.90183 6.33103L12.25 0.843567ZM12.25 4.6564L10.7043 8.26846L7.05729 6.80729L8.51846 10.4543L4.9064 12L8.51846 13.5456L7.05729 17.1927L10.7043 15.7315L12.25 19.3436L13.7956 15.7315L17.4427 17.1927L15.9815 13.5456L19.5936 12L15.9815 10.4543L17.4427 6.80729L13.7956 8.26846L12.25 4.6564Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 16 — bold style variants.
+class _EssentialStar16Bold {
+  const _EssentialStar16Bold();
+
+  /// Star 16 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 16',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.7715 12L17.5955 9.78602L19.6885 4.56002L14.4675 6.65402L12.2505 1.48102L10.0325 6.65402L4.81152 4.56002L6.90452 9.78602L1.72852 12L6.90452 14.214L4.81152 19.44L10.0325 17.346L12.2505 22.519L14.4675 17.346L19.6885 19.44L17.5955 14.214L22.7715 12Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Star 16 — light style variants.
+class _EssentialStar16Light {
+  const _EssentialStar16Light();
+
+  /// Star 16 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Star 16',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 2.31055L14.1969 6.86031L18.7907 5.01981L16.9502 9.61364L21.5 11.5605L16.9502 13.5074L18.7907 18.1013L14.1969 16.2608L12.25 20.8105L10.3031 16.2608L5.70926 18.1013L7.54976 13.5074L3 11.5605L7.54976 9.61364L5.70926 5.01981L10.3031 6.86031L12.25 2.31055Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.sharp,
@@ -13767,6 +18266,29 @@ class _EssentialDangerLight {
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.sharp,
+  );
+
+}
+
+/// Danger 1 icon with style variants.
+class _EssentialDanger1Icon {
+  const _EssentialDanger1Icon();
+
+  /// light style
+  _EssentialDanger1Light get light => const _EssentialDanger1Light();
+}
+
+/// Danger 1 — light style variants.
+class _EssentialDanger1Light {
+  const _EssentialDanger1Light();
+
+  /// Danger 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Danger 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Danger Triangle</title>     <g id="Iconly/Light/Danger-Triangle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Danger-Triangle" transform="translate(2.000000, 3.000000)" stroke="#000000">             <path d="M2.814,17.4368 L17.197,17.4368 C18.779,17.4368 19.772,15.7268 18.986,14.3528 L11.8,1.7878 C11.009,0.4048 9.015,0.4038 8.223,1.7868 L1.025,14.3518 C0.239,15.7258 1.231,17.4368 2.814,17.4368 Z" id="Stroke-1" stroke-width="1.5"></path>             <line x1="10.0025" y1="10.4148" x2="10.0025" y2="7.3148" id="Stroke-3" stroke-width="1.5"></line>             <line x1="9.995" y1="13.5" x2="10.005" y2="13.5" id="Stroke-2" stroke-width="2"></line>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
   );
 
 }
@@ -14462,7 +18984,7 @@ class _EssentialDeleteBulk {
   /// Delete — bulk / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Delete',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M5.33358 22.0137L3.81958 6.21472H20.6806L19.1686 22.0137H5.33358Z" fill="black"/> <path d="M8.57973 6.21455L9.38573 3.76355H15.1167L15.9227 6.21455H17.5017L16.2017 2.26355H8.30073L7.00073 6.21455H8.57973Z" fill="black"/> <path d="M11.5017 17.3493H13.0017V10.8763H11.5017V17.3493Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M4.33008 7.63684L5.75008 22.4768H18.7501L20.1701 7.63684H4.33008Z" fill="black"/> <path d="M16.6065 4.16608H18.1875V5.66608H6.31152V4.16608H7.89252V2.73108H16.6065V4.16608Z" fill="black"/> <path d="M11.4995 18.1372H12.9995V11.9772H11.4995V18.1372Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.sharp,
@@ -14495,7 +19017,7 @@ class _EssentialDeleteBroken {
   /// Delete — broken / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Delete',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.7134 21.3885H5.78738L4.36938 6.58948H20.1304L19.1194 17.1505" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.7275 6.13579L15.6585 2.88879H8.84351" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2512 11.5026V16.4746" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.06201 3.604H16.438" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2495 12.854V17.507" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.26698 22.1038H6.20198L4.87598 8.25684H19.624L18.297 22.1038H12.221" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.sharp,
@@ -14528,7 +19050,7 @@ class _EssentialDeleteTwotone {
   /// Delete — twoTone / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Delete',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.36914 6.58984H20.1303L18.7129 21.389H5.78654L4.36914 6.58984Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M16.7268 6.13601L15.6581 2.88867H8.84314L7.77441 6.13601" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M12.251 11.5024L12.251 16.4753" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M4.87598 8.00659H19.6236L18.2973 21.854H6.20222L4.87598 8.00659Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.06171 3.354H16.4384" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2501 12.6035L12.2501 17.2566" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.sharp,
@@ -14561,7 +19083,7 @@ class _EssentialDeleteOutline {
   /// Delete — outline / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Delete',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.54388 6.33984H20.9556L19.3946 22.639H5.10494L3.54388 6.33984ZM5.19441 7.83984L6.46814 21.139H18.0314L19.3051 7.83984H5.19441Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.30037 2.63867H16.2008L17.6736 7.11396L16.2488 7.58288L15.1153 4.13867H9.38586L8.25233 7.58288L6.82751 7.11396L8.30037 2.63867Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.001 11.2524L13.001 17.7253L11.501 17.7253L11.501 11.2524L13.001 11.2524Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="26" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.05072 7.75662H20.4489L18.9789 23.104H5.52063L4.05072 7.75662ZM5.70125 9.25662L6.88383 21.604H17.6157L18.7983 9.25662H5.70125Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.31171 3.104H17.1884V4.604H7.31171V3.104Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0001 12.3535L13.0001 18.5066L11.5001 18.5066L11.5001 12.3535L13.0001 12.3535Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.sharp,
@@ -14594,7 +19116,7 @@ class _EssentialDeleteBold {
   /// Delete — bold / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Delete',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.57958 6.21467L9.38558 3.76367H15.1166L15.9226 6.21467H8.57958ZM11.5016 17.3497H13.0016V10.8767H11.5016V17.3497ZM17.5016 6.21467L16.2016 2.26367H8.30058L7.00058 6.21467H3.81958L5.33358 22.0137H19.1686L20.6806 6.21467H17.5016Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5001 18.137H13.0001V11.977H11.5001V18.137ZM4.33008 7.63698L5.75008 22.477H18.7501L20.1701 7.63698H4.33008Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1881 4.16608H16.6071V2.73108H7.89307V4.16608H6.31207V5.66608H18.1881V4.16608Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.sharp,
@@ -14627,6 +19149,114 @@ class _EssentialDeleteLight {
   /// Delete — light / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Delete',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.87622 8.00659H19.6238L18.2976 21.854H6.20246L4.87622 8.00659Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.06201 3.354H16.4387" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2502 12.6035L12.2502 17.2566" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Delete 1 icon with style variants.
+class _EssentialDelete1Icon {
+  const _EssentialDelete1Icon();
+
+  /// bold style
+  _EssentialDelete1Bold get bold => const _EssentialDelete1Bold();
+  /// bulk style
+  _EssentialDelete1Bulk get bulk => const _EssentialDelete1Bulk();
+  /// light style
+  _EssentialDelete1Light get light => const _EssentialDelete1Light();
+  /// outline style
+  _EssentialDelete1Outline get outline => const _EssentialDelete1Outline();
+  /// twoTone style
+  _EssentialDelete1Twotone get twoTone => const _EssentialDelete1Twotone();
+  /// broken style
+  _EssentialDelete1Broken get broken => const _EssentialDelete1Broken();
+}
+
+/// Delete 1 — bulk style variants.
+class _EssentialDelete1Bulk {
+  const _EssentialDelete1Bulk();
+
+  /// Delete 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Delete 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M5.33358 22.0137L3.81958 6.21472H20.6806L19.1686 22.0137H5.33358Z" fill="black"/> <path d="M8.57973 6.21455L9.38573 3.76355H15.1167L15.9227 6.21455H17.5017L16.2017 2.26355H8.30073L7.00073 6.21455H8.57973Z" fill="black"/> <path d="M11.5017 17.3493H13.0017V10.8763H11.5017V17.3493Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Delete 1 — broken style variants.
+class _EssentialDelete1Broken {
+  const _EssentialDelete1Broken();
+
+  /// Delete 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Delete 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.7134 21.3885H5.78738L4.36938 6.58948H20.1304L19.1194 17.1505" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.7275 6.13579L15.6585 2.88879H8.84351" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2512 11.5026V16.4746" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Delete 1 — twoTone style variants.
+class _EssentialDelete1Twotone {
+  const _EssentialDelete1Twotone();
+
+  /// Delete 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Delete 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.36914 6.58984H20.1303L18.7129 21.389H5.78654L4.36914 6.58984Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M16.7268 6.13601L15.6581 2.88867H8.84314L7.77441 6.13601" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M12.251 11.5024L12.251 16.4753" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Delete 1 — outline style variants.
+class _EssentialDelete1Outline {
+  const _EssentialDelete1Outline();
+
+  /// Delete 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Delete 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.54388 6.33984H20.9556L19.3946 22.639H5.10494L3.54388 6.33984ZM5.19441 7.83984L6.46814 21.139H18.0314L19.3051 7.83984H5.19441Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.30037 2.63867H16.2008L17.6736 7.11396L16.2488 7.58288L15.1153 4.13867H9.38586L8.25233 7.58288L6.82751 7.11396L8.30037 2.63867Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.001 11.2524L13.001 17.7253L11.501 17.7253L11.501 11.2524L13.001 11.2524Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Delete 1 — bold style variants.
+class _EssentialDelete1Bold {
+  const _EssentialDelete1Bold();
+
+  /// Delete 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Delete 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.57958 6.21467L9.38558 3.76367H15.1166L15.9226 6.21467H8.57958ZM11.5016 17.3497H13.0016V10.8767H11.5016V17.3497ZM17.5016 6.21467L16.2016 2.26367H8.30058L7.00058 6.21467H3.81958L5.33358 22.0137H19.1686L20.6806 6.21467H17.5016Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Delete 1 — light style variants.
+class _EssentialDelete1Light {
+  const _EssentialDelete1Light();
+
+  /// Delete 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Delete 1',
     svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.36938 6.58972H20.1306L18.7132 21.3888H5.78678L4.36938 6.58972Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.727 6.13589L15.6583 2.88855H8.84339L7.77466 6.13589" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2512 11.5023L12.2512 16.4752" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
@@ -14660,7 +19290,7 @@ class _EssentialArrowLeftBulk {
   /// Arrow - Left — bulk / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M7.74943 11.9999C7.74943 8.73377 13.9892 4.87878 15.2402 4.14001C15.4799 3.99792 15.7543 3.96765 16.0033 4.03308C16.2489 4.09753 16.4701 4.25525 16.6093 4.49109C16.8925 4.96375 16.7323 5.57898 16.2582 5.85974C13.6332 7.41296 9.74943 10.4379 9.74943 11.9999L7.74943 11.9999Z" fill="black"/> <path d="M9.75037 12C9.75037 12 9.75037 11.9999 9.75037 12C9.75037 13.56 13.6344 16.585 16.2594 18.14C16.7334 18.42 16.8934 19.033 16.6104 19.509C16.3294 19.984 15.7164 20.142 15.2414 19.86C13.9904 19.121 7.75037 15.266 7.75037 12C7.75037 11.9999 7.75037 12 7.75037 12L9.75037 12Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.75 12.0008C20.75 11.4485 20.3023 11.0008 19.75 11.0008L4.75 11.0008C4.19771 11.0008 3.75 11.4485 3.75 12.0008C3.75 12.5531 4.19771 13.0008 4.75 13.0008L19.75 13.0008C20.3023 13.0008 20.75 12.5531 20.75 12.0008Z" fill="black"/> <path d="M10.3261 5.09526C10.8123 4.83321 11.4188 5.01489 11.6809 5.50105C11.8583 5.83033 11.8322 6.2149 11.6457 6.51022C11.5569 6.65085 11.4318 6.77124 11.2751 6.8558L11.2731 6.85684L11.2627 6.86252L11.2174 6.88747C11.1767 6.91003 11.1156 6.94425 11.0369 6.98921C10.8795 7.0792 10.6525 7.21189 10.3792 7.37998C9.83075 7.71733 9.10502 8.19168 8.38432 8.74465C7.65769 9.30217 6.9686 9.91509 6.47026 10.525C5.95254 11.1586 5.75059 11.6552 5.75059 11.9985C5.75059 12.3426 5.95275 12.8397 6.47043 13.4736C6.96878 14.0838 7.65787 14.697 8.38449 15.2548C9.10518 15.808 9.83089 16.2825 10.3793 16.62C10.6526 16.7881 10.8796 16.9208 11.037 17.0109C11.1161 17.0561 11.1954 17.1011 11.2755 17.1445C11.7614 17.4067 11.9428 18.0131 11.6808 18.4991C11.4187 18.9852 10.8121 19.1668 10.326 18.9047C10.2313 18.8536 10.1377 18.8005 10.0442 18.7471C9.8708 18.6479 9.62514 18.5042 9.33122 18.3233C8.74529 17.9628 7.9585 17.4491 7.16669 16.8413C6.3808 16.238 5.5574 15.5175 4.92137 14.7387C4.30468 13.9836 3.75059 13.0365 3.75059 11.9985C3.75059 10.9609 4.30489 10.0141 4.92154 9.25946C5.55757 8.48109 6.38098 7.76088 7.16685 7.1579C7.95865 6.55038 8.74543 6.03685 9.33136 5.67644C9.62527 5.49566 9.87093 5.35201 10.0444 5.25287C10.1311 5.20327 10.2 5.16473 10.2479 5.13817L10.3038 5.10741L10.3193 5.09896L10.3238 5.09651L10.3261 5.09526Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.curved,
@@ -14669,7 +19299,7 @@ class _EssentialArrowLeftBulk {
   /// Arrow - Left — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bulk/Arrow - Left 2</title>     <g id="Iconly/Bulk/Arrow---Left-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Left-2" transform="translate(12.000000, 12.000000) rotate(-270.000000) translate(-12.000000, -12.000000) translate(6.000000, 7.000000)" fill="#000000" fill-rule="nonzero">             <path d="M4.86724336,0.214334561 L9.08645432,7.06244425 C9.18045902,7.21581846 9.17145857,7.41217653 9.06045302,7.55578168 C8.55942797,8.20640094 8.05140257,8.7876599 7.62438122,9.1754915 C7.62438122,9.1754915 7.28236412,9.50959329 7.06535327,9.65417535 C6.76933847,9.88765583 6.38231912,10 6.00630032,10 C5.58427921,10 5.18525926,9.87690987 4.86624331,9.63170651 C4.80924046,9.57602288 4.55822791,9.36403432 4.35321766,9.16376863 C3.07715386,7.99538929 0.969048452,4.94548937 0.330016501,3.34141004 C0.227011351,3.10792955 0.0120006,2.48466365 1.39444012e-13,2.16130783 C1.39444012e-13,1.84967488 0.0680034002,1.54878789 0.217010851,1.25962377 C0.422021101,0.904030058 0.740037002,0.625611904 1.11705585,0.469306976 C1.37906895,0.368685678 2.16510826,0.213357655 2.18810941,0.213357655 C2.74913746,0.112736357 3.53717686,0.0375146103 4.45722286,0.000392189745 C4.62223111,-0.00644615088 4.78223911,0.0765908425 4.86724336,0.214334561" id="Fill-1"></path>             <path d="M7.13975699,0.672308002 C6.95274764,0.370444108 7.19175959,-0.00957224946 7.55077754,0.0050813376 C8.39281964,0.0412268524 9.13485674,0.103748824 9.68688434,0.179947477 C9.69888494,0.191670346 10.6779339,0.346998369 11.0089504,0.525772131 C11.6239812,0.837405083 12,1.44894812 12,2.10640572 L12,2.16111245 C11.9889994,2.58508957 11.6129806,3.48677362 11.5899795,3.48677362 C11.40097,3.94103482 11.080954,4.53401665 10.6959348,5.17193614 C10.5219261,5.45914644 10.0949047,5.46598478 9.91789589,5.17877448 L7.13975699,0.672308002 Z" id="Fill-4" opacity="0.400000006"></path>         </g>     </g> </svg>',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bulk/Arrow - Left</title>     <g id="Iconly/Bulk/Arrow---Left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Left" transform="translate(12.000000, 12.000000) rotate(-270.000000) translate(-12.000000, -12.000000) translate(6.000000, 3.000000)" fill="#000000" fill-rule="nonzero">             <path d="M4.80969341,5.20248239 L4.48254085,1.50325451 C4.48254085,0.673082751 5.16218102,1.37667655e-14 6.00044061,1.37667655e-14 C6.8387002,1.37667655e-14 7.51834037,0.673082751 7.51834037,1.50325451 L7.19118781,5.20248239 C7.19118781,5.85374723 6.6580503,6.38174083 6.00044061,6.38174083 C5.34172939,6.38174083 4.80969341,5.85374723 4.80969341,5.20248239" id="Fill-1" opacity="0.400000006"></path>             <path d="M4.86983661,17.6247318 C4.81145585,17.5669143 4.56471452,17.350917 4.3598311,17.1480103 C3.0765559,15.9643883 0.978153112,12.8738803 0.335964751,11.2571726 C0.23352304,11.0117211 0.0154213328,10.3910013 1.27897692e-13,10.0582781 C1.27897692e-13,9.74082738 0.0738020929,9.43755833 0.219203231,9.14847093 C0.422985129,8.7873844 0.744630072,8.49938789 1.12355425,8.34011709 C1.38571691,8.23866377 2.17330641,8.07939298 2.18762622,8.07939298 C3.04791628,7.92121308 4.44685148,7.8350323 5.99339086,7.8350323 C7.46502662,7.8350323 8.80668258,7.92121308 9.68129245,8.05102968 C9.69671379,8.06521133 10.6737654,8.22448213 11.0086286,8.39793457 C11.6210758,8.71538527 12,9.33610502 12,10.0004606 L12,10.0582781 C11.9856802,10.4913637 11.6056545,11.4011709 11.5924362,11.4011709 C10.9502478,12.9316978 8.95318524,15.9491158 7.62584909,17.162192 C7.62584909,17.162192 7.28437672,17.5047333 7.07178263,17.6530951 C6.76555902,17.884365 6.38663484,18 6.00771067,18 C5.58472554,18 5.19148155,17.8701834 4.86983661,17.6247318" id="Fill-4"></path>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -14678,7 +19308,7 @@ class _EssentialArrowLeftBulk {
   /// Arrow - Left — bulk / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.25061 11L21.2504 11L21.2504 13L3.25061 13L3.25061 11Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.24974 13C7.92066 13 10.9098 9.78058 10.9098 6.33995L10.9098 5.33995L8.90979 5.33995L8.90979 6.33995C8.90979 8.71881 6.77377 11 4.24974 11L3.24974 11L3.24974 13L4.24974 13Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.24974 11C7.92066 11 10.9098 14.2194 10.9098 17.66L10.9098 18.66L8.90979 18.66L8.90979 17.66C8.90979 15.2812 6.77377 13 4.24974 13L3.24974 13L3.24974 11L4.24974 11Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.9588 12.9998L4.55856 12.9998L4.55856 10.9998L20.9588 10.9998L20.9588 12.9998Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4227 5.97842L6.37567 12.0004L12.4227 18.0214L11.0115 19.4387L3.54125 12.0005L11.0114 4.56128L12.4227 5.97842Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bulk,
     type: IconfyType.sharp,
@@ -14693,7 +19323,7 @@ class _EssentialArrowLeftBroken {
   /// Arrow - Left — broken / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.6016 11.9973H20.5516" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.67824 10.0375C4.68124 10.8185 3.94824 11.5775 3.94824 12.0075C3.94824 13.2675 10.3122 17.2775 11.0342 16.5575C11.7562 15.8375 11.8252 8.24754 11.0342 7.45754C10.7332 7.15754 9.64024 7.55854 8.40024 8.24154" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.9773 12.0051H19.7503" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.74976 12.0051H13.3728" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.8002 5.97498C10.8002 5.97498 4.75024 9.23498 4.75024 11.995C4.75024 14.765 10.8002 18.025 10.8002 18.025" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.curved,
@@ -14702,7 +19332,7 @@ class _EssentialArrowLeftBroken {
   /// Arrow - Left — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.3 12.2513L20.25 12.2513" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2998 17.2523L11.2998 7.25031L3.3628 12.2513L7.3313 14.7518L8.32343 15.3769" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.25 12.2743L19.25 12.2743" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.2998 18.2987L7.2748 15.2867L6.51855 14.5337M4.2498 12.2747L10.2998 6.24969" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -14711,7 +19341,7 @@ class _EssentialArrowLeftBroken {
   /// Arrow - Left — broken / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.7183 12.0001H20.2503" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M4.24951 12.0001H14.2085" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.90951 17.6601C9.90951 14.7501 7.34751 12.0001 4.24951 12.0001" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.90951 6.33997C9.90951 9.24997 7.34751 12 4.24951 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.583 12H19.75" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M5.35059 12H13.7536" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M10.8 5.97998L4.75 12L10.8 18.02" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.broken,
     type: IconfyType.sharp,
@@ -14726,7 +19356,7 @@ class _EssentialArrowLeftTwotone {
   /// Arrow - Left — twoTone / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M11.3 11.8939L20.25 11.8939" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.64613 11.8998C3.64613 13.1558 10.0101 17.1708 10.7321 16.4488C11.4541 15.7268 11.5231 8.14181 10.7321 7.35081C9.94014 6.55981 3.64613 10.6448 3.64613 11.8998Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M4.25 12.2743L19.25 12.2743" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3003 18.2988C10.3003 18.2988 4.25029 15.0378 4.25029 12.2758C4.25029 9.51176 10.3003 6.24976 10.3003 6.24976" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.curved,
@@ -14735,7 +19365,7 @@ class _EssentialArrowLeftTwotone {
   /// Arrow - Left — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Arrow - Left 2</title>     <g id="Iconly/Two-tone/Arrow---Left-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Left-2" transform="translate(12.000000, 12.000000) rotate(-270.000000) translate(-12.000000, -12.000000) translate(5.000000, 8.500000)" stroke="#000000" stroke-width="1.5">             <polyline id="Stroke-1" points="14 0 7 7 0 0"></polyline>         </g>     </g> </svg>',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Arrow - Left</title>     <g id="Iconly/Two-tone/Arrow---Left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Left" transform="translate(12.000000, 12.000000) rotate(-270.000000) translate(-12.000000, -12.000000) translate(5.500000, 4.000000)" stroke="#000000" stroke-width="1.5">             <line x1="6.7743" y1="15.75" x2="6.7743" y2="0.75" id="Stroke-1" opacity="0.400000006"></line>             <polyline id="Stroke-3" points="12.7987 9.7002 6.7747 15.7502 0.7497 9.7002"></polyline>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -14744,7 +19374,7 @@ class _EssentialArrowLeftTwotone {
   /// Arrow - Left — twoTone / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M4.24951 12L20.2493 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.90967 6.33995C9.90967 9.2497 7.34709 12 4.24962 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.90967 17.66C9.90967 14.7503 7.34709 12 4.24962 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M5.34976 12L19.75 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M10.7998 18.0246L4.7498 12.0006L10.7998 5.97559" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.sharp,
@@ -14759,7 +19389,7 @@ class _EssentialArrowLeftOutline {
   /// Arrow - Left — outline / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.13731 17.0399C9.59031 17.2279 10.0733 17.3939 10.5033 17.3939C10.8123 17.3939 11.0933 17.3089 11.3163 17.0849C11.7799 16.6195 12.0371 14.7609 12.0877 12.7501H20.3045C20.7185 12.7501 21.0545 12.4141 21.0545 12.0001C21.0545 11.5861 20.7185 11.2501 20.3045 11.2501H12.0873C12.0358 9.24358 11.7785 7.39107 11.3153 6.92695C10.7513 6.36395 9.81831 6.65095 9.06531 6.96095C7.49231 7.61195 2.94531 10.3589 2.94531 12.0069C2.94531 13.7079 7.69531 16.4429 9.13731 17.0399ZM10.3153 15.8749C9.01931 15.6349 4.95231 12.9639 4.46631 12.0049C4.95031 11.0089 9.01831 8.31395 10.2913 8.11595C10.7043 9.36995 10.6973 14.6729 10.3153 15.8749Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.195 18.6841C10.307 18.7461 10.429 18.7741 10.549 18.7741C10.817 18.7741 11.074 18.6311 11.21 18.3801C11.406 18.0151 11.271 17.5601 10.906 17.3641C9.0248 16.3491 6.19506 14.3574 5.44049 12.7498L19.5005 12.7498C19.9145 12.7498 20.2505 12.4138 20.2505 11.9998C20.2505 11.5858 19.9145 11.2498 19.5005 11.2498L5.4421 11.2498C6.19909 9.64066 9.02614 7.65025 10.906 6.63511C11.271 6.43811 11.406 5.98411 11.21 5.61911C11.013 5.25511 10.556 5.12011 10.195 5.31511C9.534 5.67011 3.75 8.87911 3.75 12.0021C3.75 15.1211 9.534 18.3291 10.195 18.6841Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.curved,
@@ -14768,7 +19398,7 @@ class _EssentialArrowLeftOutline {
   /// Arrow - Left — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Arrow - Left 3</title>     <g id="Iconly/Light-Outline/Arrow---Left-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Left-3" transform="translate(12.500000, 13.000000) scale(-1, 1) translate(-12.500000, -13.000000) translate(3.000000, 7.000000)" fill="#000000">             <path d="M10.0992,0.1148 L18.0372,5.1158 C18.2562,5.2538 18.3872,5.4928 18.3872,5.7508 C18.3872,6.0078 18.2562,6.2478 18.0372,6.3848 L10.0992,11.3858 C9.9782,11.4628 9.8392,11.5018 9.7002,11.5018 C9.5752,11.5018 9.4512,11.4698 9.3382,11.4078 C9.0982,11.2758 8.9502,11.0248 8.9502,10.7518 L8.9492,6.49999433 L0.7502,6.5004 C0.3362,6.5004 0.0002,6.1644 0.0002,5.7504 C0.0002,5.3364 0.3362,5.0004 0.7502,5.0004 L8.9492,4.99999433 L8.9502,0.7498 C8.9502,0.4758 9.0982,0.2248 9.3382,0.0928 C9.5772,-0.0382 9.8702,-0.0302 10.0992,0.1148 Z M10.4502,2.1088 L10.4500491,5.73521503 C10.4501495,5.74026466 10.4502,5.74532647 10.4502,5.7504 L10.4492,5.76499433 L10.4502,9.3918 L16.2302,5.7508 L10.4502,2.1088 Z" id="Combined-Shape"></path>         </g>     </g> </svg>',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Arrow - Left</title>     <g id="Iconly/Light-Outline/Arrow---Left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Left" transform="translate(11.500000, 12.500000) rotate(-270.000000) translate(-11.500000, -12.500000) translate(4.500000, 4.000000)" fill="#000000" fill-rule="nonzero">             <path d="M6.7743,0 C7.15399577,0 7.46779096,0.282153882 7.51745338,0.648229443 L7.5243,0.75 L7.52369999,13.934 L12.2672291,9.17101315 C12.559491,8.8774899 13.0343636,8.87646731 13.3278869,9.16872914 C13.5947262,9.43442171 13.6198294,9.8510323 13.4026077,10.1451122 L13.3301709,10.2293869 L7.30617086,16.2793869 C7.26764619,16.3180778 7.22595266,16.3516842 7.18192314,16.3802061 C7.16866934,16.388262 7.15511061,16.3964623 7.14128041,16.4042367 C7.12942435,16.4113875 7.11711275,16.4178493 7.10466728,16.4239454 C7.08655679,16.4324122 7.06784795,16.4406833 7.04875665,16.4481939 C7.03403731,16.4542967 7.01972109,16.4593926 7.00529186,16.4640405 C6.98739762,16.4695662 6.96832963,16.4749347 6.9489704,16.4795527 C6.93545418,16.4829859 6.9224453,16.4857056 6.90938559,16.4880773 C6.88995431,16.4914125 6.86984664,16.4942514 6.84949961,16.496277 C6.83398162,16.498026 6.81860624,16.4990792 6.80321635,16.4996611 C6.79388374,16.4998115 6.78411388,16.5 6.7743,16.5 L6.74524677,16.4996251 C6.73052671,16.4990502 6.71582035,16.4980441 6.70114827,16.4966069 L6.7743,16.5 C6.72697147,16.5 6.68066686,16.4956161 6.63577008,16.4872322 C6.62504705,16.4852879 6.6140387,16.482972 6.60307688,16.4804067 C6.58049893,16.475079 6.55875812,16.4689204 6.5374423,16.4618312 C6.52685318,16.4583516 6.51553869,16.4542993 6.5043075,16.4499668 C6.48174039,16.4412024 6.46022651,16.431675 6.43927187,16.4211951 C6.42941864,16.4163265 6.41910264,16.410874 6.40889183,16.4051642 C6.392234,16.3957917 6.37640388,16.3861371 6.36097334,16.3759271 C6.35005285,16.3687237 6.33868575,16.360746 6.32749818,16.3524163 L6.31885445,16.3459258 C6.29245569,16.3257196 6.26743874,16.3037989 6.24396991,16.2803301 L6.24327306,16.279431 L0.218273061,10.229431 C-0.074013127,9.93593197 -0.0730299537,9.46105925 0.22046904,9.16877306 C0.487286308,8.90305834 0.903999213,8.879715 1.19715903,9.09817688 L1.28112694,9.17096904 L6.02369999,13.932 L6.0243,0.75 C6.0243,0.335786438 6.36008644,0 6.7743,0 Z" id="Combined-Shape"></path>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -14777,7 +19407,7 @@ class _EssentialArrowLeftOutline {
   /// Arrow - Left — outline / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.49951 11.25L20.9993 11.25L20.9993 12.75L3.49951 12.75L3.49951 11.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.24962 12.75C7.77717 12.75 10.6597 9.64786 10.6597 6.33995L10.6597 5.58995L9.15967 5.58995L9.15967 6.33995C9.15967 8.85153 6.91701 11.25 4.24962 11.25L3.49962 11.25L3.49962 12.75L4.24962 12.75Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.24962 11.25C7.77717 11.25 10.6597 14.3521 10.6597 17.66L10.6597 18.41L9.15967 18.41L9.15967 17.66C9.15967 15.1485 6.91701 12.75 4.24962 12.75L3.49962 12.75L3.49962 11.25L4.24962 11.25Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.5 12.75L4.59976 12.75L4.59976 11.25L20.5 11.25L20.5 12.75Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8605 5.97777L5.81272 12.0005L11.8605 18.0223L10.8021 19.0852L3.68691 12.0006L10.802 4.91492L11.8605 5.97777Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.outline,
     type: IconfyType.sharp,
@@ -14792,7 +19422,7 @@ class _EssentialArrowLeftBold {
   /// Arrow - Left — bold / curved
   IconfyIconData get curved => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.425 11.0001H12.198C12.132 9.0921 11.879 7.3711 11.436 6.9271C10.873 6.3641 9.93995 6.6501 9.18795 6.9611C7.61695 7.6111 3.07495 10.3571 3.07495 12.0071C3.07495 13.7101 7.82195 16.4451 9.26295 17.0421C9.71395 17.2291 10.196 17.3941 10.624 17.3941C10.933 17.3941 11.214 17.3091 11.437 17.0851C11.881 16.6391 12.134 14.9121 12.199 13.0001H20.425C20.978 13.0001 21.425 12.5531 21.425 12.0001C21.425 11.4471 20.978 11.0001 20.425 11.0001Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.75 11.0004H6.117C7.023 9.58136 9.444 7.84436 11.274 6.85536C11.761 6.59336 11.941 5.98636 11.68 5.50136C11.417 5.01636 10.812 4.83236 10.325 5.09636C9.228 5.68736 3.755 8.80036 3.75 11.9984C3.75 11.9994 3.75 11.9994 3.75 12.0004V12.0024C3.75 15.1994 9.228 18.3124 10.325 18.9044C10.477 18.9864 10.639 19.0244 10.799 19.0244C11.154 19.0244 11.499 18.8344 11.68 18.4994C11.941 18.0144 11.761 17.4064 11.274 17.1454C9.443 16.1554 7.02 14.4184 6.115 13.0004H19.75C20.303 13.0004 20.75 12.5534 20.75 12.0004C20.75 11.4474 20.303 11.0004 19.75 11.0004Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.curved,
@@ -14801,7 +19431,7 @@ class _EssentialArrowLeftBold {
   /// Arrow - Left — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Arrow - Left 3</title>     <g id="Iconly/Bold/Arrow---Left-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Left-3" transform="translate(3.000000, 6.500000)" fill="#000000" fill-rule="nonzero">             <path d="M8.85852597,10.910103 C9.09252108,10.7838647 9.23840087,10.5438206 9.23840087,10.2827368 L9.23840087,6.21728876 L17.2657057,6.21728876 C17.6710362,6.21728876 18,5.89595483 18,5.50002553 C18,5.10409622 17.6710362,4.7827623 17.2657057,4.7827623 L9.23840087,4.7827623 L9.23840087,0.717314292 C9.23840087,0.455274124 9.09252108,0.215230029 8.85852597,0.0899480509 C8.62453087,-0.037246629 8.33864564,-0.0286394702 8.112483,0.110031421 L0.342670655,4.89274266 C0.12923579,5.02471909 0,5.25328698 0,5.50002553 C0,5.74676408 0.12923579,5.97533197 0.342670655,6.1073084 L8.112483,10.8900196 C8.2319282,10.9627023 8.36801741,11 8.50410661,11 C8.62550993,11 8.7478923,10.9693968 8.85852597,10.910103"></path>         </g>     </g> </svg>',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Arrow - Left</title>     <g id="Iconly/Bold/Arrow---Left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Left" transform="translate(3.000000, 6.000000)" fill="#000000" fill-rule="nonzero">             <path d="M10.1634443,5.63929534 L10.1649677,5.99339086 C10.1649677,7.46502662 10.0787869,8.80668258 9.94897032,9.68129245 L9.83524442,10.2251698 C9.77197246,10.5132183 9.68879165,10.841197 9.60206543,11.0086286 C9.28461473,11.6210758 8.66389498,12 7.9995394,12 L7.94172192,12 C7.50863626,11.9856802 6.59882911,11.6056545 6.59882911,11.5924362 C5.13484685,10.9781691 2.31045764,9.12428166 1.00599741,7.80261156 L0.626928643,7.40581327 C0.527663907,7.29827061 0.41614041,7.17099321 0.346904886,7.07178263 C0.115634962,6.76555902 1.77635684e-15,6.38663484 1.77635684e-15,6.00771067 C1.77635684e-15,5.58472554 0.129816608,5.19148155 0.375268179,4.86983661 L0.764727545,4.44952982 L0.851989673,4.3598311 C2.03561169,3.0765559 5.12611968,0.978153112 6.74282736,0.335964751 L6.98691531,0.242421287 C7.28063902,0.13713971 7.69217949,0.0115659996 7.94172192,0 C8.25917262,0 8.56244167,0.0738020929 8.85152907,0.219203231 C9.2126156,0.422985129 9.50061211,0.744630072 9.65988291,1.12355425 C9.76133623,1.38571691 9.92060702,2.17330641 9.92060702,2.18762622 C10.0666192,2.98174013 10.1512831,4.23481793 10.1634443,5.63929534 Z M18,6.00044061 C18,6.8387002 17.3269172,7.51834037 16.4967455,7.51834037 L12.7975176,7.19118781 C12.1462528,7.19118781 11.6182592,6.6580503 11.6182592,6.00044061 C11.6182592,5.34172939 12.1462528,4.80969341 12.7975176,4.80969341 L16.4967455,4.48254085 C17.3269172,4.48254085 18,5.16218102 18,6.00044061 Z"></path>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -14810,7 +19440,7 @@ class _EssentialArrowLeftBold {
   /// Arrow - Left — bold / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.25 11H8.911C10.132 9.77803 10.91 8.11403 10.91 6.34003V5.34003H8.91V6.34003C8.91 8.77903 6.688 11 4.25 11H3.25V13H4.25C6.688 13 8.91 15.221 8.91 17.66V18.66H10.91V17.66C10.91 15.886 10.132 14.222 8.911 13H21.25V11Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9585 10.9995H7.3805L12.4225 5.97852L11.0115 4.56152L3.5415 12.0005L11.0115 19.4385L12.4225 18.0215L7.3785 12.9995H20.9585V10.9995Z" fill="black"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.bold,
     type: IconfyType.sharp,
@@ -14822,19 +19452,10 @@ class _EssentialArrowLeftBold {
 class _EssentialArrowLeftLight {
   const _EssentialArrowLeftLight();
 
-  /// Arrow - Left — light / curved
-  IconfyIconData get curved => const IconfyIconData(
-    name: 'Arrow - Left',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.3 11.8939L20.25 11.8939" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.64613 11.8998C3.64613 13.1558 10.0101 17.1708 10.7321 16.4488C11.4541 15.7268 11.5231 8.14181 10.7321 7.35081C9.94014 6.55981 3.64613 10.6448 3.64613 11.8998Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.light,
-    type: IconfyType.curved,
-  );
-
   /// Arrow - Left — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Arrow - Left',
-    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Arrow - Left 3</title>     <g id="Iconly/Light/Arrow---Left-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Left-3" transform="translate(12.000000, 12.000000) rotate(-270.000000) translate(-12.000000, -12.000000) translate(6.500000, 3.000000)" stroke="#000000" stroke-width="1.5">             <line x1="5.7513" y1="9.6998" x2="5.7513" y2="0.7498" id="Stroke-1"></line>             <polygon id="Stroke-3" points="0.7503 9.6998 5.7513 17.6368 10.7523 9.6998"></polygon>         </g>     </g> </svg>',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Arrow - Left</title>     <g id="Iconly/Light/Arrow---Left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Left" transform="translate(12.000000, 12.000000) rotate(-270.000000) translate(-12.000000, -12.000000) translate(5.500000, 4.000000)" stroke="#000000" stroke-width="1.5">             <line x1="6.7743" y1="15.75" x2="6.7743" y2="0.75" id="Stroke-1"></line>             <polyline id="Stroke-3" points="12.7987 9.7002 6.7747 15.7502 0.7497 9.7002"></polyline>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -14843,6 +19464,411 @@ class _EssentialArrowLeftLight {
   /// Arrow - Left — light / sharp
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Arrow - Left',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.34994 11.9998L19.7502 11.9998" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M10.8 18.0243L4.74999 12.0003L10.8 5.97534" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left 1 icon with style variants.
+class _EssentialArrowLeft1Icon {
+  const _EssentialArrowLeft1Icon();
+
+  /// bold style
+  _EssentialArrowLeft1Bold get bold => const _EssentialArrowLeft1Bold();
+  /// bulk style
+  _EssentialArrowLeft1Bulk get bulk => const _EssentialArrowLeft1Bulk();
+  /// light style
+  _EssentialArrowLeft1Light get light => const _EssentialArrowLeft1Light();
+  /// outline style
+  _EssentialArrowLeft1Outline get outline => const _EssentialArrowLeft1Outline();
+  /// twoTone style
+  _EssentialArrowLeft1Twotone get twoTone => const _EssentialArrowLeft1Twotone();
+  /// broken style
+  _EssentialArrowLeft1Broken get broken => const _EssentialArrowLeft1Broken();
+}
+
+/// Arrow - Left 1 — bulk style variants.
+class _EssentialArrowLeft1Bulk {
+  const _EssentialArrowLeft1Bulk();
+
+  /// Arrow - Left 1 — bulk / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M7.74943 11.9999C7.74943 8.73377 13.9892 4.87878 15.2402 4.14001C15.4799 3.99792 15.7543 3.96765 16.0033 4.03308C16.2489 4.09753 16.4701 4.25525 16.6093 4.49109C16.8925 4.96375 16.7323 5.57898 16.2582 5.85974C13.6332 7.41296 9.74943 10.4379 9.74943 11.9999L7.74943 11.9999Z" fill="black"/> <path d="M9.75037 12C9.75037 12 9.75037 11.9999 9.75037 12C9.75037 13.56 13.6344 16.585 16.2594 18.14C16.7334 18.42 16.8934 19.033 16.6104 19.509C16.3294 19.984 15.7164 20.142 15.2414 19.86C13.9904 19.121 7.75037 15.266 7.75037 12C7.75037 11.9999 7.75037 12 7.75037 12L9.75037 12Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Left 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bulk/Arrow - Left 2</title>     <g id="Iconly/Bulk/Arrow---Left-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Left-2" transform="translate(12.000000, 12.000000) rotate(-270.000000) translate(-12.000000, -12.000000) translate(6.000000, 7.000000)" fill="#000000" fill-rule="nonzero">             <path d="M4.86724336,0.214334561 L9.08645432,7.06244425 C9.18045902,7.21581846 9.17145857,7.41217653 9.06045302,7.55578168 C8.55942797,8.20640094 8.05140257,8.7876599 7.62438122,9.1754915 C7.62438122,9.1754915 7.28236412,9.50959329 7.06535327,9.65417535 C6.76933847,9.88765583 6.38231912,10 6.00630032,10 C5.58427921,10 5.18525926,9.87690987 4.86624331,9.63170651 C4.80924046,9.57602288 4.55822791,9.36403432 4.35321766,9.16376863 C3.07715386,7.99538929 0.969048452,4.94548937 0.330016501,3.34141004 C0.227011351,3.10792955 0.0120006,2.48466365 1.39444012e-13,2.16130783 C1.39444012e-13,1.84967488 0.0680034002,1.54878789 0.217010851,1.25962377 C0.422021101,0.904030058 0.740037002,0.625611904 1.11705585,0.469306976 C1.37906895,0.368685678 2.16510826,0.213357655 2.18810941,0.213357655 C2.74913746,0.112736357 3.53717686,0.0375146103 4.45722286,0.000392189745 C4.62223111,-0.00644615088 4.78223911,0.0765908425 4.86724336,0.214334561" id="Fill-1"></path>             <path d="M7.13975699,0.672308002 C6.95274764,0.370444108 7.19175959,-0.00957224946 7.55077754,0.0050813376 C8.39281964,0.0412268524 9.13485674,0.103748824 9.68688434,0.179947477 C9.69888494,0.191670346 10.6779339,0.346998369 11.0089504,0.525772131 C11.6239812,0.837405083 12,1.44894812 12,2.10640572 L12,2.16111245 C11.9889994,2.58508957 11.6129806,3.48677362 11.5899795,3.48677362 C11.40097,3.94103482 11.080954,4.53401665 10.6959348,5.17193614 C10.5219261,5.45914644 10.0949047,5.46598478 9.91789589,5.17877448 L7.13975699,0.672308002 Z" id="Fill-4" opacity="0.400000006"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Left 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1641 5.00003L8.74991 13.4142L7.3357 12L15.7499 3.58582L17.1641 5.00003Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.7499 20.4142L7.3357 12L8.74991 10.5858L17.1641 19L15.7499 20.4142Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left 1 — broken style variants.
+class _EssentialArrowLeft1Broken {
+  const _EssentialArrowLeft1Broken();
+
+  /// Arrow - Left 1 — broken / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.9612 6.88112C14.4442 5.77312 15.7502 5.00012 15.7502 5.00012" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7498 18.9999C15.7498 18.9999 8.74976 14.8559 8.74976 11.9999C8.74976 11.1719 9.33776 10.2359 10.1738 9.32385" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Left 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.5 19L8.5 12M15.5 5L12 8.5L11.125 9.375" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Left 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.75 19L8.75 12L15.75 5" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left 1 — twoTone style variants.
+class _EssentialArrowLeft1Twotone {
+  const _EssentialArrowLeft1Twotone();
+
+  /// Arrow - Left 1 — twoTone / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.5 19C15.5 19 8.5 14.856 8.5 12C8.5 9.145 15.5 5 15.5 5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Left 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Arrow - Left 2</title>     <g id="Iconly/Two-tone/Arrow---Left-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Left-2" transform="translate(12.000000, 12.000000) rotate(-270.000000) translate(-12.000000, -12.000000) translate(5.000000, 8.500000)" stroke="#000000" stroke-width="1.5">             <polyline id="Stroke-1" points="14 0 7 7 0 0"></polyline>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Left 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.75 19L8.75 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M8.75 12L15.75 5" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left 1 — outline style variants.
+class _EssentialArrowLeft1Outline {
+  const _EssentialArrowLeft1Outline();
+
+  /// Arrow - Left 1 — outline / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4992 19.7503C15.3692 19.7503 15.2382 19.7173 15.1182 19.6463C14.3642 19.1993 7.75024 15.1913 7.75024 12.0003C7.75024 8.81031 14.3632 4.80131 15.1182 4.35431C15.4732 4.14331 15.9352 4.26131 16.1452 4.61831C16.3562 4.97531 16.2382 5.43531 15.8822 5.64631C13.3182 7.16531 9.25024 10.2333 9.25024 12.0003C9.25024 13.7703 13.3182 16.8373 15.8822 18.3543C16.2382 18.5653 16.3562 19.0253 16.1452 19.3823C16.0052 19.6183 15.7562 19.7503 15.4992 19.7503" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Left 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Arrow - Left 2</title>     <g id="Iconly/Light-Outline/Arrow---Left-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Left-2" transform="translate(12.000000, 12.000000) rotate(-270.000000) translate(-12.000000, -12.000000) translate(4.000000, 7.500000)" fill="#000000" fill-rule="nonzero">             <path d="M0.469669914,0.469669914 C0.735936477,0.203403352 1.15260016,0.1791973 1.44621165,0.397051761 L1.53033009,0.469669914 L8,6.939 L14.4696699,0.469669914 C14.7359365,0.203403352 15.1526002,0.1791973 15.4462117,0.397051761 L15.5303301,0.469669914 C15.7965966,0.735936477 15.8208027,1.15260016 15.6029482,1.44621165 L15.5303301,1.53033009 L8.53033009,8.53033009 C8.26406352,8.79659665 7.84739984,8.8208027 7.55378835,8.60294824 L7.46966991,8.53033009 L0.469669914,1.53033009 C0.176776695,1.23743687 0.176776695,0.762563133 0.469669914,0.469669914 Z" id="Stroke-1"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Left 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.8107 4.99999L9.81067 12L16.8107 19L15.75 20.0607L7.68935 12L15.75 3.93933L16.8107 4.99999Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left 1 — bold style variants.
+class _EssentialArrowLeft1Bold {
+  const _EssentialArrowLeft1Bold();
+
+  /// Arrow - Left 1 — bold / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.749 19.9997C15.576 19.9997 15.4 19.9547 15.24 19.8597C13.99 19.1197 7.75 15.2617 7.75 11.9997C7.75 8.73874 13.989 4.87974 15.24 4.13974C15.717 3.85874 16.33 4.01574 16.61 4.48974C16.892 4.96574 16.734 5.57874 16.26 5.85974C13.635 7.41574 9.75 10.4427 9.75 11.9997C9.75 13.5597 13.634 16.5857 16.26 18.1397C16.734 18.4207 16.892 19.0337 16.61 19.5097C16.424 19.8247 16.091 19.9997 15.749 19.9997Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Left 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Arrow - Left 2</title>     <g id="Iconly/Bold/Arrow---Left-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Left-2" transform="translate(7.000000, 6.000000)" fill="#000000" fill-rule="nonzero">             <path d="M0.369215782,4.869 C0.425718461,4.811 0.639064783,4.563 0.837798344,4.359 C2.00292255,3.076 5.04237701,0.976 6.63321968,0.335 C6.87481734,0.232 7.48563078,0.014 7.81198246,0 C8.12469557,0 8.42279591,0.072 8.70725767,0.218 C9.06186069,0.422 9.34632245,0.743 9.50219191,1.122 C9.60253288,1.385 9.75840234,2.172 9.75840234,2.186 C9.9142718,3.047 10,4.446 10,5.992 C10,7.465 9.9142718,8.807 9.78665368,9.681 C9.77204092,9.695 9.61617146,10.673 9.44568924,11.008 C9.13297613,11.62 8.52216269,12 7.86848514,12 L7.81198246,12 C7.386264,11.985 6.4909888,11.605 6.4909888,11.591 C4.98587433,10.949 2.01656113,8.952 0.823185582,7.625 C0.823185582,7.625 0.48709206,7.284 0.340964442,7.071 C0.113005358,6.765 -8.8817842e-16,6.386 -8.8817842e-16,6.007 C-8.8817842e-16,5.584 0.12761812,5.19 0.369215782,4.869"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Left 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7499 20.414L7.33594 12L15.7499 3.586L17.1639 5L10.1639 12L17.1639 19L15.7499 20.414Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left 1 — light style variants.
+class _EssentialArrowLeft1Light {
+  const _EssentialArrowLeft1Light();
+
+  /// Arrow - Left 1 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.5 19C15.5 19 8.5 14.856 8.5 12C8.5 9.145 15.5 5 15.5 5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Left 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Arrow - Left 2</title>     <g id="Iconly/Light/Arrow---Left-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Left-2" transform="translate(12.000000, 12.000000) rotate(-270.000000) translate(-12.000000, -12.000000) translate(5.000000, 8.500000)" stroke="#000000" stroke-width="1.5">             <polyline id="Stroke-1" points="14 0 7 7 0 0"></polyline>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Left 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.75 19L8.75 12L15.75 5" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left 2 icon with style variants.
+class _EssentialArrowLeft2Icon {
+  const _EssentialArrowLeft2Icon();
+
+  /// bold style
+  _EssentialArrowLeft2Bold get bold => const _EssentialArrowLeft2Bold();
+  /// bulk style
+  _EssentialArrowLeft2Bulk get bulk => const _EssentialArrowLeft2Bulk();
+  /// light style
+  _EssentialArrowLeft2Light get light => const _EssentialArrowLeft2Light();
+  /// outline style
+  _EssentialArrowLeft2Outline get outline => const _EssentialArrowLeft2Outline();
+  /// twoTone style
+  _EssentialArrowLeft2Twotone get twoTone => const _EssentialArrowLeft2Twotone();
+  /// broken style
+  _EssentialArrowLeft2Broken get broken => const _EssentialArrowLeft2Broken();
+}
+
+/// Arrow - Left 2 — bulk style variants.
+class _EssentialArrowLeft2Bulk {
+  const _EssentialArrowLeft2Bulk();
+
+  /// Arrow - Left 2 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.25061 11L21.2504 11L21.2504 13L3.25061 13L3.25061 11Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.24974 13C7.92066 13 10.9098 9.78058 10.9098 6.33995L10.9098 5.33995L8.90979 5.33995L8.90979 6.33995C8.90979 8.71881 6.77377 11 4.24974 11L3.24974 11L3.24974 13L4.24974 13Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.24974 11C7.92066 11 10.9098 14.2194 10.9098 17.66L10.9098 18.66L8.90979 18.66L8.90979 17.66C8.90979 15.2812 6.77377 13 4.24974 13L3.24974 13L3.24974 11L4.24974 11Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left 2 — broken style variants.
+class _EssentialArrowLeft2Broken {
+  const _EssentialArrowLeft2Broken();
+
+  /// Arrow - Left 2 — broken / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.6016 11.9973H20.5516" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.67824 10.0375C4.68124 10.8185 3.94824 11.5775 3.94824 12.0075C3.94824 13.2675 10.3122 17.2775 11.0342 16.5575C11.7562 15.8375 11.8252 8.24754 11.0342 7.45754C10.7332 7.15754 9.64024 7.55854 8.40024 8.24154" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Left 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Left 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.3 12.2513L20.25 12.2513" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2998 17.2523L11.2998 7.25031L3.3628 12.2513L7.3313 14.7518L8.32343 15.3769" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Left 2 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.7183 12.0001H20.2503" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M4.24951 12.0001H14.2085" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.90951 17.6601C9.90951 14.7501 7.34751 12.0001 4.24951 12.0001" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.90951 6.33997C9.90951 9.24997 7.34751 12 4.24951 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left 2 — twoTone style variants.
+class _EssentialArrowLeft2Twotone {
+  const _EssentialArrowLeft2Twotone();
+
+  /// Arrow - Left 2 — twoTone / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M11.3 11.8939L20.25 11.8939" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.64613 11.8998C3.64613 13.1558 10.0101 17.1708 10.7321 16.4488C11.4541 15.7268 11.5231 8.14181 10.7321 7.35081C9.94014 6.55981 3.64613 10.6448 3.64613 11.8998Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Left 2 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M4.24951 12L20.2493 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.90967 6.33995C9.90967 9.2497 7.34709 12 4.24962 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.90967 17.66C9.90967 14.7503 7.34709 12 4.24962 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left 2 — outline style variants.
+class _EssentialArrowLeft2Outline {
+  const _EssentialArrowLeft2Outline();
+
+  /// Arrow - Left 2 — outline / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.13731 17.0399C9.59031 17.2279 10.0733 17.3939 10.5033 17.3939C10.8123 17.3939 11.0933 17.3089 11.3163 17.0849C11.7799 16.6195 12.0371 14.7609 12.0877 12.7501H20.3045C20.7185 12.7501 21.0545 12.4141 21.0545 12.0001C21.0545 11.5861 20.7185 11.2501 20.3045 11.2501H12.0873C12.0358 9.24358 11.7785 7.39107 11.3153 6.92695C10.7513 6.36395 9.81831 6.65095 9.06531 6.96095C7.49231 7.61195 2.94531 10.3589 2.94531 12.0069C2.94531 13.7079 7.69531 16.4429 9.13731 17.0399ZM10.3153 15.8749C9.01931 15.6349 4.95231 12.9639 4.46631 12.0049C4.95031 11.0089 9.01831 8.31395 10.2913 8.11595C10.7043 9.36995 10.6973 14.6729 10.3153 15.8749Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Left 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Left 2',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/Arrow - Left 3</title>     <g id="Iconly/Light-Outline/Arrow---Left-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Left-3" transform="translate(12.500000, 13.000000) scale(-1, 1) translate(-12.500000, -13.000000) translate(3.000000, 7.000000)" fill="#000000">             <path d="M10.0992,0.1148 L18.0372,5.1158 C18.2562,5.2538 18.3872,5.4928 18.3872,5.7508 C18.3872,6.0078 18.2562,6.2478 18.0372,6.3848 L10.0992,11.3858 C9.9782,11.4628 9.8392,11.5018 9.7002,11.5018 C9.5752,11.5018 9.4512,11.4698 9.3382,11.4078 C9.0982,11.2758 8.9502,11.0248 8.9502,10.7518 L8.9492,6.49999433 L0.7502,6.5004 C0.3362,6.5004 0.0002,6.1644 0.0002,5.7504 C0.0002,5.3364 0.3362,5.0004 0.7502,5.0004 L8.9492,4.99999433 L8.9502,0.7498 C8.9502,0.4758 9.0982,0.2248 9.3382,0.0928 C9.5772,-0.0382 9.8702,-0.0302 10.0992,0.1148 Z M10.4502,2.1088 L10.4500491,5.73521503 C10.4501495,5.74026466 10.4502,5.74532647 10.4502,5.7504 L10.4492,5.76499433 L10.4502,9.3918 L16.2302,5.7508 L10.4502,2.1088 Z" id="Combined-Shape"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Left 2 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.49951 11.25L20.9993 11.25L20.9993 12.75L3.49951 12.75L3.49951 11.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.24962 12.75C7.77717 12.75 10.6597 9.64786 10.6597 6.33995L10.6597 5.58995L9.15967 5.58995L9.15967 6.33995C9.15967 8.85153 6.91701 11.25 4.24962 11.25L3.49962 11.25L3.49962 12.75L4.24962 12.75Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.24962 11.25C7.77717 11.25 10.6597 14.3521 10.6597 17.66L10.6597 18.41L9.15967 18.41L9.15967 17.66C9.15967 15.1485 6.91701 12.75 4.24962 12.75L3.49962 12.75L3.49962 11.25L4.24962 11.25Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left 2 — bold style variants.
+class _EssentialArrowLeft2Bold {
+  const _EssentialArrowLeft2Bold();
+
+  /// Arrow - Left 2 — bold / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.425 11.0001H12.198C12.132 9.0921 11.879 7.3711 11.436 6.9271C10.873 6.3641 9.93995 6.6501 9.18795 6.9611C7.61695 7.6111 3.07495 10.3571 3.07495 12.0071C3.07495 13.7101 7.82195 16.4451 9.26295 17.0421C9.71395 17.2291 10.196 17.3941 10.624 17.3941C10.933 17.3941 11.214 17.3091 11.437 17.0851C11.881 16.6391 12.134 14.9121 12.199 13.0001H20.425C20.978 13.0001 21.425 12.5531 21.425 12.0001C21.425 11.4471 20.978 11.0001 20.425 11.0001Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Left 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Left 2',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/Arrow - Left 3</title>     <g id="Iconly/Bold/Arrow---Left-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="Arrow---Left-3" transform="translate(3.000000, 6.500000)" fill="#000000" fill-rule="nonzero">             <path d="M8.85852597,10.910103 C9.09252108,10.7838647 9.23840087,10.5438206 9.23840087,10.2827368 L9.23840087,6.21728876 L17.2657057,6.21728876 C17.6710362,6.21728876 18,5.89595483 18,5.50002553 C18,5.10409622 17.6710362,4.7827623 17.2657057,4.7827623 L9.23840087,4.7827623 L9.23840087,0.717314292 C9.23840087,0.455274124 9.09252108,0.215230029 8.85852597,0.0899480509 C8.62453087,-0.037246629 8.33864564,-0.0286394702 8.112483,0.110031421 L0.342670655,4.89274266 C0.12923579,5.02471909 0,5.25328698 0,5.50002553 C0,5.74676408 0.12923579,5.97533197 0.342670655,6.1073084 L8.112483,10.8900196 C8.2319282,10.9627023 8.36801741,11 8.50410661,11 C8.62550993,11 8.7478923,10.9693968 8.85852597,10.910103"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Left 2 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.25 11H8.911C10.132 9.77803 10.91 8.11403 10.91 6.34003V5.34003H8.91V6.34003C8.91 8.77903 6.688 11 4.25 11H3.25V13H4.25C6.688 13 8.91 15.221 8.91 17.66V18.66H10.91V17.66C10.91 15.886 10.132 14.222 8.911 13H21.25V11Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow - Left 2 — light style variants.
+class _EssentialArrowLeft2Light {
+  const _EssentialArrowLeft2Light();
+
+  /// Arrow - Left 2 — light / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'Arrow - Left 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.3 11.8939L20.25 11.8939" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.64613 11.8998C3.64613 13.1558 10.0101 17.1708 10.7321 16.4488C11.4541 15.7268 11.5231 8.14181 10.7321 7.35081C9.94014 6.55981 3.64613 10.6448 3.64613 11.8998Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.curved,
+  );
+
+  /// Arrow - Left 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Left 2',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Arrow - Left 3</title>     <g id="Iconly/Light/Arrow---Left-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Left-3" transform="translate(12.000000, 12.000000) rotate(-270.000000) translate(-12.000000, -12.000000) translate(6.500000, 3.000000)" stroke="#000000" stroke-width="1.5">             <line x1="5.7513" y1="9.6998" x2="5.7513" y2="0.7498" id="Stroke-1"></line>             <polygon id="Stroke-3" points="0.7503 9.6998 5.7513 17.6368 10.7523 9.6998"></polygon>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+  /// Arrow - Left 2 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Arrow - Left 2',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.25012 12L20.2499 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.91028 6.33995C9.91028 9.2497 7.3477 12 4.25023 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.91028 17.66C9.91028 14.7503 7.3477 12 4.25023 12" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
@@ -15492,6 +20518,114 @@ class _EssentialLocationLight {
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Location',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7366 10.8064C14.7366 9.43255 13.6234 8.31934 12.2505 8.31934C10.8767 8.31934 9.76349 9.43255 9.76349 10.8064C9.76349 12.1792 10.8767 13.2924 12.2505 13.2924C13.6234 13.2924 14.7366 12.1792 14.7366 10.8064Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2496 21.25C12.2496 21.25 4.97373 16.5108 4.7904 10.5973C4.66167 6.4451 8.12944 2.75008 12.2496 2.75008C16.3697 2.75008 19.8366 6.44504 19.7097 10.5973C19.5253 16.632 12.2496 21.25 12.2496 21.25Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Location 1 icon with style variants.
+class _EssentialLocation1Icon {
+  const _EssentialLocation1Icon();
+
+  /// bold style
+  _EssentialLocation1Bold get bold => const _EssentialLocation1Bold();
+  /// bulk style
+  _EssentialLocation1Bulk get bulk => const _EssentialLocation1Bulk();
+  /// light style
+  _EssentialLocation1Light get light => const _EssentialLocation1Light();
+  /// outline style
+  _EssentialLocation1Outline get outline => const _EssentialLocation1Outline();
+  /// twoTone style
+  _EssentialLocation1Twotone get twoTone => const _EssentialLocation1Twotone();
+  /// broken style
+  _EssentialLocation1Broken get broken => const _EssentialLocation1Broken();
+}
+
+/// Location 1 — bulk style variants.
+class _EssentialLocation1Bulk {
+  const _EssentialLocation1Bulk();
+
+  /// Location 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Location 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.6814 4.25767C16.2004 2.72967 14.2714 1.88867 12.2494 1.88867C10.2274 1.88867 8.29744 2.73067 6.81544 4.25967C5.31144 5.81067 4.48544 7.89467 4.55044 9.97667C4.65444 13.3207 6.91644 15.7617 8.91244 17.9147C10.4354 19.5567 11.7494 20.9747 11.7494 22.3887H12.7494C12.7494 20.9307 14.0664 19.5307 15.5904 17.9087C17.5844 15.7877 19.8454 13.3837 19.9494 9.97667C20.0134 7.89367 19.1864 5.80867 17.6814 4.25767Z" fill="black"/> <path d="M9.60059 9.98887C9.60059 11.4499 10.7896 12.6389 12.2506 12.6389C13.7116 12.6389 14.9006 11.4499 14.9006 9.98887C14.9006 8.52787 13.7116 7.33887 12.2506 7.33887C10.7896 7.33887 9.60059 8.52787 9.60059 9.98887Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Location 1 — broken style variants.
+class _EssentialLocation1Broken {
+  const _EssentialLocation1Broken();
+
+  /// Location 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Location 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.6486 9.73887C14.6486 8.41287 13.5746 7.33887 12.2496 7.33887C10.9236 7.33887 9.84863 8.41287 9.84863 9.73887C9.84863 11.0639 10.9236 12.1389 12.2496 12.1389" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/> <path d="M6.04383 5.84867C7.30983 3.66767 9.64383 2.13867 12.2478 2.13867C16.2238 2.13867 19.5708 5.70467 19.4478 9.71267C19.2698 15.5367 12.2478 18.4397 12.2478 22.1387C12.2478 18.5357 5.22583 15.4197 5.04883 9.71267" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Location 1 — twoTone style variants.
+class _EssentialLocation1Twotone {
+  const _EssentialLocation1Twotone();
+
+  /// Location 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Location 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.6503 9.73927C14.6503 8.4133 13.5759 7.33887 12.2509 7.33887C10.9249 7.33887 9.85046 8.4133 9.85046 9.73927C9.85046 11.0643 10.9249 12.1387 12.2509 12.1387C13.5759 12.1387 14.6503 11.0643 14.6503 9.73927Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2495 22.1387C12.2495 18.5358 5.22717 15.4199 5.05023 9.71248C4.92598 5.70495 8.27293 2.13867 12.2495 2.13867C16.2261 2.13867 19.5722 5.70489 19.4497 9.71248C19.2718 15.537 12.2495 18.4394 12.2495 22.1387Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Location 1 — outline style variants.
+class _EssentialLocation1Outline {
+  const _EssentialLocation1Outline();
+
+  /// Location 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Location 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.10046 10.2392C9.10046 8.49902 10.5107 7.08881 12.2509 7.08881C13.9903 7.08881 15.4003 8.49922 15.4003 10.2392C15.4003 11.9784 13.9901 13.3886 12.2509 13.3886C10.5109 13.3886 9.10046 11.9786 9.10046 10.2392ZM12.2509 8.58881C11.3391 8.58881 10.6005 9.32745 10.6005 10.2392C10.6005 11.1498 11.3389 11.8886 12.2509 11.8886C13.1617 11.8886 13.9003 11.15 13.9003 10.2392C13.9003 9.32725 13.1615 8.58881 12.2509 8.58881Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2495 3.38867C8.71322 3.38867 5.6882 6.58767 5.79986 10.1892C5.87884 12.7368 7.48388 14.757 9.26953 16.7085C9.44886 16.9045 9.63097 17.1008 9.81318 17.2973C10.5078 18.0462 11.2036 18.7965 11.7511 19.5318C11.9255 19.7661 12.0913 20.0069 12.2417 20.2544C12.3964 19.9975 12.5679 19.7482 12.7491 19.5061C13.2994 18.7708 13.9995 18.0265 14.6964 17.2855C14.8764 17.0942 15.0562 16.9031 15.2331 16.7124C17.0152 14.7917 18.6205 12.7948 18.7001 10.1896C18.8101 6.58751 15.7856 3.38867 12.2495 3.38867ZM12.9995 22.6387C12.9995 21.9554 13.3239 21.2414 13.95 20.4049C14.4447 19.7439 15.0676 19.0813 15.7559 18.349C15.9437 18.1492 16.1364 17.9442 16.3327 17.7327C18.1062 15.8212 20.101 13.4547 20.1994 10.2354C20.3342 5.82228 16.6666 1.88867 12.2495 1.88867C7.83264 1.88867 4.16375 5.82223 4.30058 10.2357C4.39855 13.3956 6.39315 15.787 8.16291 17.7211C8.36125 17.9378 8.55603 18.148 8.7459 18.3528C9.43178 19.0928 10.0536 19.7637 10.5479 20.4276C11.1778 21.2737 11.4995 21.9821 11.4995 22.6387H12.9995Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Location 1 — bold style variants.
+class _EssentialLocation1Bold {
+  const _EssentialLocation1Bold();
+
+  /// Location 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Location 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2504 12.6387C10.7894 12.6387 9.60044 11.4497 9.60044 9.98867C9.60044 8.52767 10.7894 7.33867 12.2504 7.33867C13.7114 7.33867 14.9004 8.52767 14.9004 9.98867C14.9004 11.4497 13.7114 12.6387 12.2504 12.6387ZM17.6814 4.25767C16.2004 2.72967 14.2714 1.88867 12.2494 1.88867C10.2274 1.88867 8.29744 2.73067 6.81544 4.25967C5.31144 5.81067 4.48544 7.89467 4.55044 9.97667C4.65444 13.3207 6.91644 15.7617 8.91244 17.9147C10.4354 19.5567 11.7494 20.9747 11.7494 22.3887H12.7494C12.7494 20.9307 14.0664 19.5307 15.5904 17.9087C17.5844 15.7877 19.8454 13.3837 19.9494 9.97667C20.0134 7.89367 19.1864 5.80867 17.6814 4.25767Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Location 1 — light style variants.
+class _EssentialLocation1Light {
+  const _EssentialLocation1Light();
+
+  /// Location 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Location 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6505 9.73927C14.6505 8.4133 13.5761 7.33887 12.2511 7.33887C10.9251 7.33887 9.85065 8.4133 9.85065 9.73927C9.85065 11.0643 10.9251 12.1387 12.2511 12.1387C13.5761 12.1387 14.6505 11.0643 14.6505 9.73927Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2496 22.1387C12.2496 18.5358 5.22723 15.4199 5.05029 9.71248C4.92604 5.70495 8.273 2.13867 12.2496 2.13867C16.2262 2.13867 19.5722 5.70489 19.4498 9.71248C19.2718 15.537 12.2496 18.4394 12.2496 22.1387Z" stroke="black" stroke-width="1.5" stroke-linecap="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.sharp,
@@ -17004,6 +22138,114 @@ class _EssentialUploadLight {
   IconfyIconData get sharp => const IconfyIconData(
     name: 'Upload',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2497 3.23101L12.2497 16.0088" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.9751 5.771L12.2501 2.48143L15.5261 5.771" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.875 10.9946L21.5 10.9946L21.5 21.5186L3 21.5186L3 10.9946L7.625 10.9946" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Upload 1 icon with style variants.
+class _EssentialUpload1Icon {
+  const _EssentialUpload1Icon();
+
+  /// bold style
+  _EssentialUpload1Bold get bold => const _EssentialUpload1Bold();
+  /// bulk style
+  _EssentialUpload1Bulk get bulk => const _EssentialUpload1Bulk();
+  /// light style
+  _EssentialUpload1Light get light => const _EssentialUpload1Light();
+  /// outline style
+  _EssentialUpload1Outline get outline => const _EssentialUpload1Outline();
+  /// twoTone style
+  _EssentialUpload1Twotone get twoTone => const _EssentialUpload1Twotone();
+  /// broken style
+  _EssentialUpload1Broken get broken => const _EssentialUpload1Broken();
+}
+
+/// Upload 1 — bulk style variants.
+class _EssentialUpload1Bulk {
+  const _EssentialUpload1Bulk();
+
+  /// Upload 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Upload 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M2.5 10.9653L2.5 22.4853L22 22.4853L22 10.9653L2.5 10.9653Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5003 2.54301C11.4993 4.55501 9.6673 6.38701 7.6543 6.38701L6.9043 6.38701L6.9043 7.88701L7.6543 7.88701C9.1313 7.88701 10.5113 7.21201 11.5003 6.16801L11.5002 17.2083L13.0002 17.2083L13.0003 6.16801C13.9893 7.21201 15.3683 7.88701 16.8453 7.88701L17.5953 7.88701L17.5953 6.38701L16.8453 6.38701C14.8333 6.38701 13.0003 4.55401 13.0003 2.54201L13.0003 1.79201L11.5003 1.79201L11.5003 2.54301Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Upload 1 — broken style variants.
+class _EssentialUpload1Broken {
+  const _EssentialUpload1Broken();
+
+  /// Upload 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Upload 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.81276 21.8631H2.99976V11.3391H7.61976" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.8802 11.3391H21.5002V21.8631H9.73218" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.2498 2.41431V16.3533" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.65991 7.01031C10.0199 7.01031 12.2499 4.92931 12.2499 2.41431" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.8498 7.01031C14.4798 7.01031 12.2498 4.92931 12.2498 2.41431" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Upload 1 — twoTone style variants.
+class _EssentialUpload1Twotone {
+  const _EssentialUpload1Twotone();
+
+  /// Upload 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Upload 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M16.875 11.3394L21.5 11.3394L21.5 21.8633L3 21.8633L3 11.3394L7.625 11.3394" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.251 2.41406L12.251 16.3533" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.65547 7.00977C10.0179 7.00977 12.251 4.92916 12.251 2.41426" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.8465 7.00977C14.484 7.00977 12.251 4.92916 12.251 2.41426" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Upload 1 — outline style variants.
+class _EssentialUpload1Outline {
+  const _EssentialUpload1Outline();
+
+  /// Upload 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Upload 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 10.5894L8.375 10.5894L8.375 12.0894L3.75 12.0894L3.75 21.1133L20.75 21.1133L20.75 12.0894L16.125 12.0894V10.5894L22.25 10.5894L22.25 22.6133L2.25 22.6133L2.25 10.5894Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.501 1.66406L11.501 17.1033L13.001 17.1033L13.001 1.66406L11.501 1.66406Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.001 2.41426C13.001 5.35924 10.4161 7.75977 7.65547 7.75977L6.90547 7.75977L6.90547 6.25977L7.65547 6.25977C9.61978 6.25977 11.501 4.49907 11.501 2.41426L11.501 1.66426L13.001 1.66426L13.001 2.41426Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.501 2.41426C11.501 5.35924 14.0858 7.75977 16.8465 7.75977L17.5965 7.75977L17.5965 6.25977L16.8465 6.25977C14.8822 6.25977 13.001 4.49907 13.001 2.41426L13.001 1.66426L11.501 1.66426L11.501 2.41426Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Upload 1 — bold style variants.
+class _EssentialUpload1Bold {
+  const _EssentialUpload1Bold();
+
+  /// Upload 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Upload 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13 10.9688V17.2288H11.5V10.9688H2.5V22.4888H22V10.9688H13Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13 6.16745C13.99 7.21245 15.371 7.88845 16.85 7.88845H17.6V6.38845H16.85C14.835 6.38845 13 4.55545 13 2.54245V1.78845H11.5V2.54245C11.5 4.55545 9.67003 6.38845 7.66003 6.38845H6.91003V7.88845H7.66003C9.13503 7.88845 10.512 7.21445 11.5 6.17045L11.5 10.9688H13L13 6.16745Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Upload 1 — light style variants.
+class _EssentialUpload1Light {
+  const _EssentialUpload1Light();
+
+  /// Upload 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Upload 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.875 11.3394L21.5 11.3394L21.5 21.8633L3 21.8633L3 11.3394L7.625 11.3394" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M12.251 2.41406L12.251 16.3533" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.65547 7.00977C10.0179 7.00977 12.251 4.92916 12.251 2.41426" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.8465 7.00977C14.484 7.00977 12.251 4.92916 12.251 2.41426" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
     type: IconfyType.sharp,
@@ -18739,6 +23981,137 @@ class _EssentialPaperDownloadLight {
 
 }
 
+/// Paper Download 1 icon with style variants.
+class _EssentialPaperDownload1Icon {
+  const _EssentialPaperDownload1Icon();
+
+  /// bold style
+  _EssentialPaperDownload1Bold get bold => const _EssentialPaperDownload1Bold();
+  /// bulk style
+  _EssentialPaperDownload1Bulk get bulk => const _EssentialPaperDownload1Bulk();
+  /// light style
+  _EssentialPaperDownload1Light get light => const _EssentialPaperDownload1Light();
+  /// outline style
+  _EssentialPaperDownload1Outline get outline => const _EssentialPaperDownload1Outline();
+  /// twoTone style
+  _EssentialPaperDownload1Twotone get twoTone => const _EssentialPaperDownload1Twotone();
+  /// broken style
+  _EssentialPaperDownload1Broken get broken => const _EssentialPaperDownload1Broken();
+}
+
+/// Paper Download 1 — bulk style variants.
+class _EssentialPaperDownload1Bulk {
+  const _EssentialPaperDownload1Bulk();
+
+  /// Paper Download 1 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Paper Download 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.5401 8.47967V3.81967L19.0101 8.47967H14.5401ZM15.0301 2.38867H4.08008V21.8887H20.4201V8.00867L15.0301 2.38867Z" fill="black"/> <path d="M13.2653 16.1906H14.0153V14.6906H13.2653C12.5983 14.6906 11.9633 14.9106 11.4283 15.2776V9.43164H9.92831V15.2776C9.39431 14.9106 8.75831 14.6906 8.09131 14.6906H7.34131V16.1906H8.09131C9.05231 16.1906 9.92831 17.0666 9.92831 18.0276V18.7776H11.4283V18.0276C11.4283 17.0666 12.3043 16.1906 13.2653 16.1906Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Paper Download 1 — broken style variants.
+class _EssentialPaperDownload1Broken {
+  const _EssentialPaperDownload1Broken();
+
+  /// Paper Download 1 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Paper Download 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.86395 21.3887H19.925V8.20667L14.818 2.88867H4.57495V21.3887" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.342 5.44238V8.78838H19.449" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M11.113 17.6717V9.82568" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.52612 15.0845C9.85612 15.0845 11.1131 16.2555 11.1131 17.6715" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.7 15.0845C12.37 15.0845 11.113 16.2555 11.113 17.6715" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Paper Download 1 — twoTone style variants.
+class _EssentialPaperDownload1Twotone {
+  const _EssentialPaperDownload1Twotone();
+
+  /// Paper Download 1 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Paper Download 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8179 2.88867L4.5752 2.88867V21.3887H19.9245V8.20693L14.8179 2.88867Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.3418 3.44336V8.78878H19.4489" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <g opacity="0.4"> <path d="M11.1133 17.6719L11.1133 9.8255" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.52648 15.085C9.85632 15.085 11.1133 16.2561 11.1133 17.6718" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.7001 15.085C12.3702 15.085 11.1133 16.2561 11.1133 17.6718" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Paper Download 1 — outline style variants.
+class _EssentialPaperDownload1Outline {
+  const _EssentialPaperDownload1Outline();
+
+  /// Paper Download 1 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Paper Download 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.8252 2.63867H15.1375L20.6745 8.40515V22.6387H3.8252V2.63867ZM5.3252 4.13867V21.1387H19.1745V9.00871L14.4983 4.13867H5.3252Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0918 3.19336V8.53878H20.1989V10.0388H13.5918V3.19336H15.0918Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3633 18.9219L10.3633 9.5755L11.8633 9.5755L11.8633 18.9219L10.3633 18.9219Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8633 18.1718C11.8633 16.326 10.2545 14.835 8.52648 14.835L7.77648 14.835L7.77648 16.335L8.52648 16.335C9.45815 16.335 10.3633 17.1862 10.3633 18.1718L10.3633 18.9218L11.8633 18.9218L11.8633 18.1718Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3633 18.1718C10.3633 16.326 11.9721 14.835 13.7001 14.835L14.4501 14.835L14.4501 16.335L13.7001 16.335C12.7684 16.335 11.8633 17.1862 11.8633 18.1718L11.8633 18.9218L10.3633 18.9218L10.3633 18.1718Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Paper Download 1 — bold style variants.
+class _EssentialPaperDownload1Bold {
+  const _EssentialPaperDownload1Bold();
+
+  /// Paper Download 1 — bold / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Paper Download 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5401 8.47967V3.81967L19.0101 8.47967H14.5401ZM14.0151 16.1907H13.2651C12.3041 16.1907 11.4281 17.0667 11.4281 18.0277V18.7777H9.92808V18.0277C9.92808 17.0667 9.05208 16.1907 8.09108 16.1907H7.34108V14.6907H8.09108C8.75808 14.6907 9.39408 14.9107 9.92808 15.2777V9.43167H11.4281V15.2777C11.9631 14.9107 12.5981 14.6907 13.2651 14.6907H14.0151V16.1907ZM15.0301 2.38867H4.08008V21.8887H20.4201V8.00867L15.0301 2.38867Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Paper Download 1 — light style variants.
+class _EssentialPaperDownload1Light {
+  const _EssentialPaperDownload1Light();
+
+  /// Paper Download 1 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Paper Download 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8181 2.88867L4.57535 2.88867V21.3887H19.9247V8.20693L14.8181 2.88867Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M14.3419 3.44336V8.78878H19.449" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M11.1134 17.6719L11.1134 9.8255" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M8.52664 15.085C9.85647 15.085 11.1134 16.2561 11.1134 17.6718" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.7002 15.085C12.3704 15.085 11.1134 16.2561 11.1134 17.6718" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Arrow Down icon with style variants.
+class _EssentialArrowDown3Icon {
+  const _EssentialArrowDown3Icon();
+
+  /// bulk style
+  _EssentialArrowDown3Bulk get bulk => const _EssentialArrowDown3Bulk();
+}
+
+/// Arrow Down — bulk style variants.
+class _EssentialArrowDown3Bulk {
+  const _EssentialArrowDown3Bulk();
+
+  /// Arrow Down — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow Down',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.6593 3.71101V12.189C12.6593 12.5812 12.341 12.8995 11.9488 12.8995C11.5566 12.8995 11.2383 12.5812 11.2383 12.189V3.71101C11.2383 3.3188 11.5566 3.00049 11.9488 3.00049C12.341 3.00049 12.6593 3.3188 12.6593 3.71101Z" fill="black"/> <path d="M17.3967 12.1893C17.3967 12.3219 17.3598 12.4527 17.2878 12.5682L12.55 20.0866C12.4193 20.2931 12.1928 20.4191 11.9484 20.4191C11.704 20.4191 11.4776 20.2931 11.3468 20.0866L6.609 12.5682C6.47163 12.3494 6.46311 12.0728 6.58911 11.8463C6.71416 11.619 6.95195 11.4788 7.21058 11.4788H16.6862C16.9448 11.4788 17.1826 11.619 17.3077 11.8463C17.3674 11.9534 17.3967 12.0718 17.3967 12.1893Z" fill="black"/> </svg> ',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Arrow - Left Square icon with style variants.
 class _EssentialArrowLeftSquareIcon {
   const _EssentialArrowLeftSquareIcon();
@@ -18830,6 +24203,29 @@ class _EssentialArrowLeftSquareLight {
 
 }
 
+/// Arrow Left icon with style variants.
+class _EssentialArrowLeft3Icon {
+  const _EssentialArrowLeft3Icon();
+
+  /// bulk style
+  _EssentialArrowLeft3Bulk get bulk => const _EssentialArrowLeft3Bulk();
+}
+
+/// Arrow Left — bulk style variants.
+class _EssentialArrowLeft3Bulk {
+  const _EssentialArrowLeft3Bulk();
+
+  /// Arrow Left — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow Left',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.2891 12.6593H11.8111C11.4189 12.6593 11.1006 12.341 11.1006 11.9488C11.1006 11.5566 11.4189 11.2383 11.8111 11.2383H20.2891C20.6813 11.2383 20.9996 11.5566 20.9996 11.9488C20.9996 12.341 20.6813 12.6593 20.2891 12.6593Z" fill="black"/> <path d="M11.8109 17.3969C11.6782 17.3969 11.5475 17.36 11.4319 17.288L3.91358 12.5502C3.70705 12.4195 3.58105 12.193 3.58105 11.9486C3.58105 11.7042 3.70705 11.4778 3.91358 11.347L11.4319 6.60925C11.6508 6.47188 11.9274 6.46335 12.1538 6.58935C12.3812 6.71441 12.5214 6.9522 12.5214 7.21083V16.6864C12.5214 16.945 12.3812 17.1828 12.1538 17.3079C12.0468 17.3676 11.9283 17.3969 11.8109 17.3969Z" fill="black"/> </svg> ',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Info Circle icon with style variants.
 class _EssentialInfoCircleIcon {
   const _EssentialInfoCircleIcon();
@@ -18899,6 +24295,52 @@ class _EssentialInfoCircleLight {
     svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/Info Square</title>     <g id="Iconly/Light/Info-Square" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Info-Square" transform="translate(2.000000, 2.000000)" stroke="#000000">             <path d="M14.3341,0.7501 L5.6651,0.7501 C2.6441,0.7501 0.7501,2.8891 0.7501,5.9161 L0.7501,14.0841 C0.7501,17.1111 2.6351,19.2501 5.6651,19.2501 L14.3331,19.2501 C17.3641,19.2501 19.2501,17.1111 19.2501,14.0841 L19.2501,5.9161 C19.2501,2.8891 17.3641,0.7501 14.3341,0.7501 Z" id="Stroke-1" stroke-width="1.5"></path>             <line x1="9.9947" y1="14.0001" x2="9.9947" y2="10.0001" id="Stroke-3" stroke-width="1.5"></line>             <line x1="9.9899" y1="6.2043" x2="9.9999" y2="6.2043" id="Stroke-2" stroke-width="2"></line>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Arrow Up icon with style variants.
+class _EssentialArrowUp3Icon {
+  const _EssentialArrowUp3Icon();
+
+  /// bulk style
+  _EssentialArrowUp3Bulk get bulk => const _EssentialArrowUp3Bulk();
+}
+
+/// Arrow Up — bulk style variants.
+class _EssentialArrowUp3Bulk {
+  const _EssentialArrowUp3Bulk();
+
+  /// Arrow Up — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow Up',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M11.3408 20.2891V11.8111C11.3408 11.4189 11.6591 11.1006 12.0513 11.1006C12.4435 11.1006 12.7618 11.4189 12.7618 11.8111V20.2891C12.7618 20.6813 12.4435 20.9996 12.0513 20.9996C11.6591 20.9996 11.3408 20.6813 11.3408 20.2891Z" fill="black"/> <path d="M6.60352 11.8111C6.60352 11.6785 6.64047 11.5478 6.71247 11.4322L11.4502 3.91383C11.5809 3.7073 11.8074 3.5813 12.0518 3.5813C12.2962 3.5813 12.5226 3.7073 12.6534 3.91383L17.3912 11.4322C17.5285 11.651 17.5371 11.9276 17.4111 12.1541C17.286 12.3814 17.0482 12.5216 16.7896 12.5216H7.31405C7.05542 12.5216 6.81763 12.3814 6.69258 12.1541C6.63289 12.047 6.60352 11.9286 6.60352 11.8111Z" fill="black"/> </svg> ',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Arrow Right icon with style variants.
+class _EssentialArrowRight3Icon {
+  const _EssentialArrowRight3Icon();
+
+  /// bulk style
+  _EssentialArrowRight3Bulk get bulk => const _EssentialArrowRight3Bulk();
+}
+
+/// Arrow Right — bulk style variants.
+class _EssentialArrowRight3Bulk {
+  const _EssentialArrowRight3Bulk();
+
+  /// Arrow Right — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow Right',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3.71052 11.3408H12.1885C12.5807 11.3408 12.899 11.6591 12.899 12.0513C12.899 12.4435 12.5807 12.7619 12.1885 12.7619H3.71052C3.31831 12.7619 3 12.4435 3 12.0513C3 11.6591 3.31831 11.3408 3.71052 11.3408Z" fill="black"/> <path d="M12.189 6.60327C12.3217 6.60327 12.4524 6.64022 12.568 6.71222L20.0863 11.45C20.2928 11.5808 20.4188 11.8072 20.4188 12.0516C20.4188 12.296 20.2928 12.5225 20.0863 12.6532L12.568 17.391C12.3491 17.5284 12.0725 17.5369 11.8461 17.4109C11.6187 17.2858 11.4785 17.048 11.4785 16.7894V7.3138C11.4785 7.05517 11.6187 6.81738 11.8461 6.69232C11.9531 6.63264 12.0716 6.60327 12.189 6.60327Z" fill="black"/> </svg> ',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
     type: IconfyType.regular,
   );
 
@@ -19018,76 +24460,6 @@ class _EssentialFaceIcon {
 
   /// bold style
   _EssentialFaceBold get bold => const _EssentialFaceBold();
-  /// bulk style
-  _EssentialFaceBulk get bulk => const _EssentialFaceBulk();
-  /// light style
-  _EssentialFaceLight get light => const _EssentialFaceLight();
-  /// outline style
-  _EssentialFaceOutline get outline => const _EssentialFaceOutline();
-  /// twoTone style
-  _EssentialFaceTwotone get twoTone => const _EssentialFaceTwotone();
-  /// broken style
-  _EssentialFaceBroken get broken => const _EssentialFaceBroken();
-}
-
-/// Face — bulk style variants.
-class _EssentialFaceBulk {
-  const _EssentialFaceBulk();
-
-  /// Face — bulk / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'Face',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.25 2.38867C6.874 2.38867 2.5 6.76267 2.5 12.1387C2.5 17.5147 6.874 21.8887 12.25 21.8887C17.626 21.8887 22 17.5147 22 12.1387C22 6.76267 17.626 2.38867 12.25 2.38867Z" fill="black"/> <path d="M15.8956 12.0629H17.3956V10.5629H15.8856L15.8956 12.0629Z" fill="black"/> <path d="M9.52762 15.9609H14.2936V14.4609H10.6846L12.6176 7.90889L11.1786 7.48389L8.95762 15.0129L9.52762 15.9609Z" fill="black"/> <path d="M6.44262 12.0629H7.94262V10.5629H6.43262L6.44262 12.0629Z" fill="black"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.bulk,
-    type: IconfyType.sharp,
-  );
-
-}
-
-/// Face — broken style variants.
-class _EssentialFaceBroken {
-  const _EssentialFaceBroken();
-
-  /// Face — broken / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'Face',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 21.3887C7.141 21.3887 3 17.2477 3 12.1387C3 7.02967 7.141 2.88867 12.25 2.88867C17.359 2.88867 21.5 7.02967 21.5 12.1387C21.5 15.7087 19.477 18.8067 16.515 20.3487" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M11.6865 8.41553L9.77148 14.9085L9.95248 15.2105H13.5445" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.6366 11.3125H16.6466" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.18348 11.3125H7.19348" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.broken,
-    type: IconfyType.sharp,
-  );
-
-}
-
-/// Face — twoTone style variants.
-class _EssentialFaceTwotone {
-  const _EssentialFaceTwotone();
-
-  /// Face — twoTone / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'Face',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle cx="12.25" cy="12.1387" r="9.25" stroke="black" stroke-width="1.5"/> <path opacity="0.4" d="M11.6863 8.41602L9.77051 14.9092L9.95175 15.2112H13.5445" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.6357 11.313H16.6457" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.18262 11.313H7.19262" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.sharp,
-  );
-
-}
-
-/// Face — outline style variants.
-class _EssentialFaceOutline {
-  const _EssentialFaceOutline();
-
-  /// Face — outline / sharp
-  IconfyIconData get sharp => const IconfyIconData(
-    name: 'Face',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 4.13867C7.55558 4.13867 3.75 7.94425 3.75 12.6387C3.75 17.3331 7.55558 21.1387 12.25 21.1387C16.9444 21.1387 20.75 17.3331 20.75 12.6387C20.75 7.94425 16.9444 4.13867 12.25 4.13867ZM2.25 12.6387C2.25 7.11582 6.72715 2.63867 12.25 2.63867C17.7728 2.63867 22.25 7.11582 22.25 12.6387C22.25 18.1615 17.7728 22.6387 12.25 22.6387C6.72715 22.6387 2.25 18.1615 2.25 12.6387Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6179 8.40891L10.6847 14.9612H14.2945V16.4612H9.52719L8.95798 15.5128L11.1792 7.98444L12.6179 8.40891Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8857 11.063H17.3957V12.563H15.8857V11.063Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.43262 11.063H7.94262V12.563H6.43262V11.063Z" fill="black"/> </svg>',
-    category: 'Essential',
-    style: IconfyStyle.outline,
-    type: IconfyType.sharp,
-  );
-
 }
 
 /// Face — bold style variants.
@@ -19105,16 +24477,254 @@ class _EssentialFaceBold {
 
 }
 
-/// Face — light style variants.
-class _EssentialFaceLight {
-  const _EssentialFaceLight();
+/// Face 1 icon with style variants.
+class _EssentialFace1Icon {
+  const _EssentialFace1Icon();
 
-  /// Face — light / sharp
+  /// bold style
+  _EssentialFace1Bold get bold => const _EssentialFace1Bold();
+}
+
+/// Face 1 — bold style variants.
+class _EssentialFace1Bold {
+  const _EssentialFace1Bold();
+
+  /// Face 1 — bold / sharp
   IconfyIconData get sharp => const IconfyIconData(
-    name: 'Face',
+    name: 'Face 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.248 12.6897C17.248 15.4457 15.006 17.6877 12.25 17.6877C9.494 17.6877 7.252 15.4457 7.252 12.6897V11.9397H8.752V12.6897C8.752 14.6187 10.321 16.1877 12.25 16.1877C14.179 16.1877 15.748 14.6187 15.748 12.6897V11.9397H17.248V12.6897ZM12.25 2.38867C6.874 2.38867 2.5 6.76267 2.5 12.1387C2.5 17.5147 6.874 21.8887 12.25 21.8887C17.626 21.8887 22 17.5147 22 12.1387C22 6.76267 17.626 2.38867 12.25 2.38867Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Face 2 icon with style variants.
+class _EssentialFace2Icon {
+  const _EssentialFace2Icon();
+
+  /// bulk style
+  _EssentialFace2Bulk get bulk => const _EssentialFace2Bulk();
+}
+
+/// Face 2 — bulk style variants.
+class _EssentialFace2Bulk {
+  const _EssentialFace2Bulk();
+
+  /// Face 2 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Face 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.25 2.38867C6.874 2.38867 2.5 6.76267 2.5 12.1387C2.5 17.5147 6.874 21.8887 12.25 21.8887C17.626 21.8887 22 17.5147 22 12.1387C22 6.76267 17.626 2.38867 12.25 2.38867Z" fill="black"/> <path d="M12.25 17.6875C15.006 17.6875 17.248 15.4455 17.248 12.6895V11.9395H15.748V12.6895C15.748 14.6185 14.179 16.1875 12.25 16.1875C10.321 16.1875 8.75195 14.6185 8.75195 12.6895V11.9395H7.25195V12.6895C7.25195 15.4455 9.49395 17.6875 12.25 17.6875Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Face 3 icon with style variants.
+class _EssentialFace3Icon {
+  const _EssentialFace3Icon();
+
+  /// bulk style
+  _EssentialFace3Bulk get bulk => const _EssentialFace3Bulk();
+}
+
+/// Face 3 — bulk style variants.
+class _EssentialFace3Bulk {
+  const _EssentialFace3Bulk();
+
+  /// Face 3 — bulk / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Face 3',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.25 2.38867C6.874 2.38867 2.5 6.76267 2.5 12.1387C2.5 17.5147 6.874 21.8887 12.25 21.8887C17.626 21.8887 22 17.5147 22 12.1387C22 6.76267 17.626 2.38867 12.25 2.38867Z" fill="black"/> <path d="M15.8956 12.0629H17.3956V10.5629H15.8856L15.8956 12.0629Z" fill="black"/> <path d="M9.52762 15.9609H14.2936V14.4609H10.6846L12.6176 7.90889L11.1786 7.48389L8.95762 15.0129L9.52762 15.9609Z" fill="black"/> <path d="M6.44262 12.0629H7.94262V10.5629H6.43262L6.44262 12.0629Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bulk,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Face 4 icon with style variants.
+class _EssentialFace4Icon {
+  const _EssentialFace4Icon();
+
+  /// light style
+  _EssentialFace4Light get light => const _EssentialFace4Light();
+}
+
+/// Face 4 — light style variants.
+class _EssentialFace4Light {
+  const _EssentialFace4Light();
+
+  /// Face 4 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Face 4',
     svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle cx="12.25" cy="12.1387" r="9.25" stroke="black" stroke-width="1.5"/> <path d="M16.4976 12.6899C16.4976 15.036 14.5958 16.9378 12.2498 16.9378C9.90378 16.9378 8.00195 15.036 8.00195 12.6899" stroke="black" stroke-width="1.5"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Face 5 icon with style variants.
+class _EssentialFace5Icon {
+  const _EssentialFace5Icon();
+
+  /// light style
+  _EssentialFace5Light get light => const _EssentialFace5Light();
+}
+
+/// Face 5 — light style variants.
+class _EssentialFace5Light {
+  const _EssentialFace5Light();
+
+  /// Face 5 — light / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Face 5',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle cx="12.25" cy="12.1387" r="9.25" stroke="black" stroke-width="1.5"/> <path d="M16.4976 12.6899C16.4976 15.036 14.5958 16.9378 12.2498 16.9378C9.90378 16.9378 8.00195 15.036 8.00195 12.6899" stroke="black" stroke-width="1.5"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Face 6 icon with style variants.
+class _EssentialFace6Icon {
+  const _EssentialFace6Icon();
+
+  /// outline style
+  _EssentialFace6Outline get outline => const _EssentialFace6Outline();
+}
+
+/// Face 6 — outline style variants.
+class _EssentialFace6Outline {
+  const _EssentialFace6Outline();
+
+  /// Face 6 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Face 6',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 4.13867C7.55558 4.13867 3.75 7.94425 3.75 12.6387C3.75 17.3331 7.55558 21.1387 12.25 21.1387C16.9444 21.1387 20.75 17.3331 20.75 12.6387C20.75 7.94425 16.9444 4.13867 12.25 4.13867ZM2.25 12.6387C2.25 7.11582 6.72715 2.63867 12.25 2.63867C17.7728 2.63867 22.25 7.11582 22.25 12.6387C22.25 18.1615 17.7728 22.6387 12.25 22.6387C6.72715 22.6387 2.25 18.1615 2.25 12.6387Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.75195 13.1899C8.75195 15.1217 10.318 16.6878 12.2498 16.6878C14.1816 16.6878 15.7476 15.1217 15.7476 13.1899H17.2476C17.2476 15.9502 15.01 18.1878 12.2498 18.1878C9.48956 18.1878 7.25195 15.9502 7.25195 13.1899H8.75195Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Face 7 icon with style variants.
+class _EssentialFace7Icon {
+  const _EssentialFace7Icon();
+
+  /// outline style
+  _EssentialFace7Outline get outline => const _EssentialFace7Outline();
+}
+
+/// Face 7 — outline style variants.
+class _EssentialFace7Outline {
+  const _EssentialFace7Outline();
+
+  /// Face 7 — outline / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Face 7',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 4.13867C7.55558 4.13867 3.75 7.94425 3.75 12.6387C3.75 17.3331 7.55558 21.1387 12.25 21.1387C16.9444 21.1387 20.75 17.3331 20.75 12.6387C20.75 7.94425 16.9444 4.13867 12.25 4.13867ZM2.25 12.6387C2.25 7.11582 6.72715 2.63867 12.25 2.63867C17.7728 2.63867 22.25 7.11582 22.25 12.6387C22.25 18.1615 17.7728 22.6387 12.25 22.6387C6.72715 22.6387 2.25 18.1615 2.25 12.6387Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6179 8.40891L10.6847 14.9612H14.2945V16.4612H9.52719L8.95798 15.5128L11.1792 7.98444L12.6179 8.40891Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8857 11.063H17.3957V12.563H15.8857V11.063Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.43262 11.063H7.94262V12.563H6.43262V11.063Z" fill="black"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Face 8 icon with style variants.
+class _EssentialFace8Icon {
+  const _EssentialFace8Icon();
+
+  /// twoTone style
+  _EssentialFace8Twotone get twoTone => const _EssentialFace8Twotone();
+}
+
+/// Face 8 — twoTone style variants.
+class _EssentialFace8Twotone {
+  const _EssentialFace8Twotone();
+
+  /// Face 8 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Face 8',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle cx="12.25" cy="12.1387" r="9.25" stroke="black" stroke-width="1.5"/> <path d="M16.4976 12.6899C16.4976 15.036 14.5958 16.9378 12.2498 16.9378C9.90378 16.9378 8.00195 15.036 8.00195 12.6899" stroke="black" stroke-width="1.5"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Face 9 icon with style variants.
+class _EssentialFace9Icon {
+  const _EssentialFace9Icon();
+
+  /// twoTone style
+  _EssentialFace9Twotone get twoTone => const _EssentialFace9Twotone();
+}
+
+/// Face 9 — twoTone style variants.
+class _EssentialFace9Twotone {
+  const _EssentialFace9Twotone();
+
+  /// Face 9 — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Face 9',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle cx="12.25" cy="12.1387" r="9.25" stroke="black" stroke-width="1.5"/> <path opacity="0.4" d="M11.6863 8.41602L9.77051 14.9092L9.95175 15.2112H13.5445" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.6357 11.313H16.6457" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.18262 11.313H7.19262" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Face 10 icon with style variants.
+class _EssentialFace10Icon {
+  const _EssentialFace10Icon();
+
+  /// broken style
+  _EssentialFace10Broken get broken => const _EssentialFace10Broken();
+}
+
+/// Face 10 — broken style variants.
+class _EssentialFace10Broken {
+  const _EssentialFace10Broken();
+
+  /// Face 10 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Face 10',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 21.3887C7.141 21.3887 3 17.2477 3 12.1387C3 7.02967 7.141 2.88867 12.25 2.88867C17.359 2.88867 21.5 7.02967 21.5 12.1387C21.5 15.7087 19.477 18.8067 16.515 20.3487" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M11.6865 8.41553L9.77148 14.9085L9.95248 15.2105H13.5445" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.6366 11.3125H16.6466" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.18348 11.3125H7.19348" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// Face 11 icon with style variants.
+class _EssentialFace11Icon {
+  const _EssentialFace11Icon();
+
+  /// broken style
+  _EssentialFace11Broken get broken => const _EssentialFace11Broken();
+}
+
+/// Face 11 — broken style variants.
+class _EssentialFace11Broken {
+  const _EssentialFace11Broken();
+
+  /// Face 11 — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'Face 11',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 21.3887C7.141 21.3887 3 17.2477 3 12.1387C3 7.02967 7.141 2.88867 12.25 2.88867C17.359 2.88867 21.5 7.02967 21.5 12.1387C21.5 15.7087 19.477 18.8067 16.515 20.3487" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M11.6865 8.41553L9.77148 14.9085L9.95248 15.2105H13.5445" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M16.6366 11.3125H16.6466" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M7.18348 11.3125H7.19348" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
     type: IconfyType.sharp,
   );
 
@@ -19444,22 +25054,154 @@ class _EssentialHeartFunLight {
 
 }
 
+/// user icon with style variants.
+class _EssentialUser1Icon {
+  const _EssentialUser1Icon();
+
+  /// bold style
+  _EssentialUser1Bold get bold => const _EssentialUser1Bold();
+  /// light style
+  _EssentialUser1Light get light => const _EssentialUser1Light();
+  /// outline style
+  _EssentialUser1Outline get outline => const _EssentialUser1Outline();
+  /// twoTone style
+  _EssentialUser1Twotone get twoTone => const _EssentialUser1Twotone();
+  /// broken style
+  _EssentialUser1Broken get broken => const _EssentialUser1Broken();
+}
+
+/// user — broken style variants.
+class _EssentialUser1Broken {
+  const _EssentialUser1Broken();
+
+  /// user — broken / curved
+  IconfyIconData get curved => const IconfyIconData(
+    name: 'user',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.80851 21.2779C4.60651 20.9779 3.05151 20.2399 3.05151 18.6739C3.05151 16.4499 6.16851 14.4459 9.86051 14.4459C13.5325 14.4459 16.6685 16.4309 16.6685 18.6539C16.6685 20.8769 13.5525 21.4529 9.86051 21.4529" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.81488 3.78512C6.00188 4.57812 5.49588 5.68512 5.49588 6.91112C5.48688 9.31312 7.42788 11.2671 9.82888 11.2751H9.85988C12.2699 11.2751 14.2239 9.32112 14.2239 6.91112C14.2239 4.50112 12.2699 2.54712 9.85988 2.54712" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1023 10.0756C18.5053 9.70059 19.5393 8.42159 19.5393 6.89959C19.5403 5.31159 18.4133 3.98559 16.9153 3.67859" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7625 13.6506C19.7505 13.6506 21.4485 14.9986 21.4485 16.2016C21.4485 16.9106 20.8635 17.6386 19.9735 17.8476" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.curved,
+  );
+
+  /// user — broken / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'user',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.22276 20.5147C5.07576 20.2497 3.99376 19.8317 2.99976 19.2257C3.97876 16.1317 6.63276 14.6987 9.76376 14.7067C12.8918 14.6987 15.5508 16.1347 16.5278 19.2257C14.5578 20.4267 12.2388 20.8897 9.76376 20.8837" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M19.0622 17.9458C19.9292 17.7438 20.7482 17.4258 21.5002 16.9678C20.7542 14.6068 18.7232 13.5108 16.3352 13.5168C14.8312 13.5128 13.4712 13.9448 12.4832 14.8538" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M9.7641 3.11633C12.1041 3.11633 14.0011 5.01333 14.0011 7.35333C14.0011 9.69333 12.1041 11.5903 9.7641 11.5903C7.4241 11.5903 5.5271 9.69333 5.5271 7.35333C5.5271 6.72133 5.6651 6.12133 5.9131 5.58333" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path d="M13.9636 5.67014C14.5536 5.05214 15.3866 4.66614 16.3096 4.66614C18.0996 4.66614 19.5506 6.11714 19.5506 7.90714C19.5506 9.69814 18.0996 11.1491 16.3096 11.1491" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.broken,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// user — twoTone style variants.
+class _EssentialUser1Twotone {
+  const _EssentialUser1Twotone();
+
+  /// user — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'user',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/2 User</title>     <g id="Iconly/Two-tone/2-User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="2-User" transform="translate(2.000000, 2.500000)" stroke="#000000" stroke-width="1.5">             <path d="M7.5915,12.7068 C11.2805,12.7068 14.4335,13.2658 14.4335,15.4988 C14.4335,17.7318 11.3015,18.3068 7.5915,18.3068 C3.9015,18.3068 0.7495,17.7528 0.7495,15.5188 C0.7495,13.2848 3.8805,12.7068 7.5915,12.7068 Z" id="Stroke-1"></path>             <path d="M7.5915,9.5198 C5.1695,9.5198 3.2055,7.5568 3.2055,5.1348 C3.2055,2.7128 5.1695,0.7498 7.5915,0.7498 C10.0125,0.7498 11.976531,2.7128 11.976531,5.1348 C11.9855,7.5478 10.0355,9.5108 7.6225,9.5198 L7.5915,9.5198 Z" id="Stroke-3" opacity="0.400000006"></path>             <path d="M14.4831,8.3816 C16.0841,8.1566 17.3171,6.7826 17.3201,5.1196 C17.3201,3.4806 16.1251,2.1206 14.5581,1.8636" id="Stroke-5" opacity="0.400000006"></path>             <path d="M16.5954,12.2322 C18.1464,12.4632 19.2294,13.0072 19.2294,14.1272 C19.2294,14.8982 18.7194,15.3982 17.8954,15.7112" id="Stroke-7"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+  /// user — twoTone / sharp
+  IconfyIconData get sharp => const IconfyIconData(
+    name: 'user',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.76408 14.7069C12.8915 14.6989 15.5507 16.1349 16.5282 19.226C14.558 20.4271 12.2389 20.8896 9.76408 20.8836C7.28921 20.8896 4.97016 20.4271 3 19.226C3.97857 16.1316 6.63327 14.6989 9.76408 14.7069Z" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M16.3353 18.2325C18.2251 18.2371 19.9959 17.8838 21.5003 16.9667C20.754 14.6064 18.7234 13.5099 16.3353 13.516C14.831 13.5122 13.4706 13.9439 12.4825 14.8533" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <circle cx="9.76409" cy="7.35259" r="4.23687" stroke="black" stroke-width="1.5" stroke-linecap="square"/> <path opacity="0.4" d="M13.9642 5.67014C14.5545 5.05148 15.387 4.66602 16.3096 4.66602C18.0997 4.66602 19.5509 6.11718 19.5509 7.90729C19.5509 9.69739 18.0997 11.1486 16.3096 11.1486C15.2153 11.1486 14.2477 10.6063 13.6608 9.77575" stroke="black" stroke-width="1.5" stroke-linecap="square"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.sharp,
+  );
+
+}
+
+/// user — outline style variants.
+class _EssentialUser1Outline {
+  const _EssentialUser1Outline();
+
+  /// user — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'user',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light-Outline/2 User</title>     <g id="Iconly/Light-Outline/2-User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="2-User" transform="translate(2.000000, 2.000000)" fill="#000000">             <path d="M7.5918,11.957 C10.8508,11.957 15.1838,12.324 15.1838,15.499 C15.1838,18.84352 10.1349096,19.0441912 7.969206,19.0562315 L7.1829025,19.0562358 C4.8737376,19.0442632 -0.0002,18.84472 -0.0002,15.519 C-0.0002,12.17072 5.0486904,11.9698232 7.214394,11.9577694 L7.4745932,11.9570285 C7.5151456,11.957 7.55424,11.957 7.5918,11.957 Z M7.5918,13.457 C4.8128,13.457 1.4998,13.814 1.4998,15.519 C1.4998,16.871 3.5498,17.557 7.5918,17.557 C11.6338,17.557 13.6838,16.864 13.6838,15.499 C13.6838,14.144 11.6338,13.457 7.5918,13.457 Z M16.7065,11.4899 C19.4125,11.8949 19.9795,13.1479 19.9795,14.1269 C19.9795,14.8559 19.6645,15.8429 18.1615,16.4119 C18.0745,16.4449 17.9845,16.4609 17.8955,16.4609 C17.5925,16.4609 17.3075,16.2759 17.1945,15.9769 C17.0475,15.5899 17.2425,15.1559 17.6295,15.0099 C18.4795,14.6879 18.4795,14.2949 18.4795,14.1269 C18.4795,13.5599 17.8085,13.1719 16.4855,12.9749 C16.0755,12.9129 15.7925,12.5309 15.8535,12.1219 C15.9155,11.7119 16.3045,11.4369 16.7065,11.4899 Z M7.5918,-1.77635684e-14 C10.4228,-1.77635684e-14 12.7268505,2.304 12.7268505,5.135 C12.7328,6.499 12.2038,7.787 11.2398,8.757 C10.2778,9.728 8.9928,10.265 7.6258,10.27 L7.5918,10.27 C4.7598,10.27 2.4558,7.966 2.4558,5.135 C2.4558,2.304 4.7598,-1.77635684e-14 7.5918,-1.77635684e-14 Z M14.6794,1.1238 C16.6444,1.4458 18.0704,3.1268 18.0704,5.1198 C18.0664,7.1248 16.5694,8.8468 14.5874,9.1248 C14.5524,9.1298 14.5174,9.1318 14.4824,9.1318 C14.1144,9.1318 13.7934,8.8608 13.7404,8.4858 C13.6834,8.0758 13.9684,7.6958 14.3784,7.6388 C15.6264,7.4638 16.5684,6.3808 16.5704,5.1188 C16.5704,3.8648 15.6724,2.8068 14.4374,2.6048 C14.0284,2.5368 13.7514,2.1518 13.8184,1.7428 C13.8854,1.3338 14.2724,1.0588 14.6794,1.1238 Z M7.5918,1.5 C5.5868,1.5 3.9558,3.131 3.9558,5.135 C3.9558,7.139 5.5868,8.77 7.5918,8.77 L7.6228,8.77 C8.5868,8.766 9.4948,8.387 10.1758,7.7 C10.8578,7.015 11.2308,6.104 11.2268318,5.138 C11.2268318,3.131 9.5958,1.5 7.5918,1.5 Z" id="Combined-Shape"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// user — bold style variants.
+class _EssentialUser1Bold {
+  const _EssentialUser1Bold();
+
+  /// user — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'user',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Bold/2 User</title>     <g id="Iconly/Bold/2-User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">         <g id="2-User" transform="translate(2.000000, 3.000000)" fill="#000000" fill-rule="nonzero">             <path d="M7.34933305,11.8577345 C11.3346657,11.8577345 14.6986661,12.4911257 14.6986661,14.940366 C14.6986661,17.3876899 11.3131392,18 7.34933305,18 L7.07860083,17.9990046 C3.2128289,17.9702716 -3.19744231e-14,17.3109443 -3.19744231e-14,14.9173685 C-3.19744231e-14,12.4700446 3.38552687,11.8577345 7.34933305,11.8577345 Z M13.5697005,10.3832075 C15.0853598,10.3544606 16.7155008,10.5585639 17.3172635,10.7022987 C18.5931962,10.9466478 19.4317501,11.4439701 19.779109,12.1693515 C20.0736303,12.7634552 20.0736303,13.453382 19.779109,14.0474857 C19.2477966,15.1705333 17.5335067,15.5317867 16.8671645,15.6247352 C16.7291994,15.6438998 16.6186317,15.528912 16.6333088,15.3928431 C16.9738184,12.2805064 14.2663754,10.8048295 13.5657866,10.4656155 C13.5364323,10.4493255 13.529583,10.4263279 13.5325184,10.4109962 C13.5344754,10.4014139 13.5471956,10.3860822 13.5697005,10.3832075 Z M7.34933305,-8.8817842e-16 C10.0489483,-8.8817842e-16 12.2123586,2.11865038 12.2123586,4.76241176 C12.2123586,7.40617314 10.0489483,9.52482353 7.34933305,9.52482353 C4.65069631,9.52482353 2.48630745,7.40617314 2.48630745,4.76241176 C2.48630745,2.11865038 4.65069631,-8.8817842e-16 7.34933305,-8.8817842e-16 Z M13.833889,0.79542817 C16.4415275,0.79542817 18.4884992,3.19675692 17.7908459,5.87118171 C17.3201989,7.67361562 15.6166723,8.87044707 13.7184289,8.82157725 C13.527626,8.81774432 13.3407371,8.79953792 13.1587406,8.76983274 C13.0276248,8.74683517 12.9610885,8.60214218 13.0364311,8.49482023 C13.7605033,7.45130586 14.1734202,6.19506404 14.1734202,4.84874844 C14.1734202,3.44206424 13.7233212,2.13216145 12.939562,1.0560672 C12.9141216,1.02252909 12.8955306,0.971742811 12.9209709,0.932455309 C12.9405405,0.901791893 12.9796795,0.884543722 13.0158831,0.876877868 C13.2800716,0.824175122 13.5511095,0.79542817 13.833889,0.79542817 Z" id="2-Friends"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// user — light style variants.
+class _EssentialUser1Light {
+  const _EssentialUser1Light();
+
+  /// user — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'user',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Light/2 User</title>     <g id="Iconly/Light/2-User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="2-User" transform="translate(2.000000, 2.500000)" stroke="#000000" stroke-width="1.5">             <path d="M7.5915,12.7068 C11.2805,12.7068 14.4335,13.2658 14.4335,15.4988 C14.4335,17.7318 11.3015,18.3068 7.5915,18.3068 C3.9015,18.3068 0.7495,17.7528 0.7495,15.5188 C0.7495,13.2848 3.8805,12.7068 7.5915,12.7068 Z" id="Stroke-1"></path>             <path d="M7.5915,9.5198 C5.1695,9.5198 3.2055,7.5568 3.2055,5.1348 C3.2055,2.7128 5.1695,0.7498 7.5915,0.7498 C10.0125,0.7498 11.976531,2.7128 11.976531,5.1348 C11.9855,7.5478 10.0355,9.5108 7.6225,9.5198 L7.5915,9.5198 Z" id="Stroke-3"></path>             <path d="M14.4831,8.3816 C16.0841,8.1566 17.3171,6.7826 17.3201,5.1196 C17.3201,3.4806 16.1251,2.1206 14.5581,1.8636" id="Stroke-5"></path>             <path d="M16.5954,12.2322 C18.1464,12.4632 19.2294,13.0072 19.2294,14.1272 C19.2294,14.8982 18.7194,15.3982 17.8954,15.7112" id="Stroke-7"></path>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Arrow - Up 2 icon with style variants.
-class _EssentialArrowUp2Icon {
-  const _EssentialArrowUp2Icon();
+class _EssentialArrowUp21Icon {
+  const _EssentialArrowUp21Icon();
 
   /// twoTone style
-  _EssentialArrowUp2Twotone get twoTone => const _EssentialArrowUp2Twotone();
+  _EssentialArrowUp21Twotone get twoTone => const _EssentialArrowUp21Twotone();
 }
 
 /// Arrow - Up 2 — twoTone style variants.
-class _EssentialArrowUp2Twotone {
-  const _EssentialArrowUp2Twotone();
+class _EssentialArrowUp21Twotone {
+  const _EssentialArrowUp21Twotone();
 
   /// Arrow - Up 2 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Arrow - Up 2',
     svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Arrow - Up 2</title>     <g id="Iconly/Two-tone/Arrow---Up-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Up-2" transform="translate(12.000000, 12.000000) rotate(-180.000000) translate(-12.000000, -12.000000) translate(5.000000, 8.500000)" stroke="#000000" stroke-width="1.5">             <polyline id="Stroke-1" points="14 0 7 7 0 0"></polyline>         </g>     </g> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Arrow - Up 2 1 icon with style variants.
+class _EssentialArrowUp211Icon {
+  const _EssentialArrowUp211Icon();
+
+  /// twoTone style
+  _EssentialArrowUp211Twotone get twoTone => const _EssentialArrowUp211Twotone();
+}
+
+/// Arrow - Up 2 1 — twoTone style variants.
+class _EssentialArrowUp211Twotone {
+  const _EssentialArrowUp211Twotone();
+
+  /// Arrow - Up 2 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Arrow - Up 2 1',
+    svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">     <title>Iconly/Two-tone/Arrow - Right</title>     <g id="Iconly/Two-tone/Arrow---Right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">         <g id="Arrow---Right" transform="translate(12.000000, 12.000000) rotate(-90.000000) translate(-12.000000, -12.000000) translate(5.500000, 4.000000)" stroke="#000000" stroke-width="1.5">             <line x1="6.7743" y1="15.75" x2="6.7743" y2="0.75" id="Stroke-1" opacity="0.400000006"></line>             <polyline id="Stroke-3" points="12.7987 9.7002 6.7747 15.7502 0.7497 9.7002"></polyline>         </g>     </g> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -19482,6 +25224,29 @@ class _EssentialInfoMenuTwotone {
   /// Info menu — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Info menu',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 12C21.5 7.02908 17.4709 3 12.5 3C7.52908 3 3.5 7.02908 3.5 12C3.5 16.9709 7.52908 21 12.5 21C17.4709 21 21.5 16.9709 21.5 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3385 12.0283V12.0922M16.5977 12.042C16.5977 12.186 16.4809 12.3028 16.3369 12.3028C16.1929 12.3028 16.0762 12.186 16.0762 12.042C16.0762 11.898 16.1929 11.7812 16.3369 11.7812C16.4809 11.7812 16.5977 11.898 16.5977 12.042Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4381 12.0283V12.0922M12.6973 12.042C12.6973 12.186 12.5805 12.3028 12.4365 12.3028C12.2925 12.3028 12.1758 12.186 12.1758 12.042C12.1758 11.898 12.2925 11.7812 12.4365 11.7812C12.5805 11.7812 12.6973 11.898 12.6973 12.042Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.53768 12.0283V12.0922M8.79695 12.042C8.79695 12.186 8.68011 12.3028 8.53609 12.3028C8.39208 12.3028 8.27539 12.186 8.27539 12.042C8.27539 11.898 8.39208 11.7812 8.53609 11.7812C8.68011 11.7812 8.79695 11.898 8.79695 12.042Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Essential',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Info menu 1 icon with style variants.
+class _EssentialInfoMenu1Icon {
+  const _EssentialInfoMenu1Icon();
+
+  /// twoTone style
+  _EssentialInfoMenu1Twotone get twoTone => const _EssentialInfoMenu1Twotone();
+}
+
+/// Info menu 1 — twoTone style variants.
+class _EssentialInfoMenu1Twotone {
+  const _EssentialInfoMenu1Twotone();
+
+  /// Info menu 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Info menu 1',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 12C21.5 7.02908 17.4709 3 12.5 3C7.52908 3 3.5 7.02908 3.5 12C3.5 16.9709 7.52908 21 12.5 21C17.4709 21 21.5 16.9709 21.5 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3385 12.0283V12.0922M16.5977 12.042C16.5977 12.186 16.4809 12.3028 16.3369 12.3028C16.1929 12.3028 16.0762 12.186 16.0762 12.042C16.0762 11.898 16.1929 11.7812 16.3369 11.7812C16.4809 11.7812 16.5977 11.898 16.5977 12.042Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4381 12.0283V12.0922M12.6973 12.042C12.6973 12.186 12.5805 12.3028 12.4365 12.3028C12.2925 12.3028 12.1758 12.186 12.1758 12.042C12.1758 11.898 12.2925 11.7812 12.4365 11.7812C12.5805 11.7812 12.6973 11.898 12.6973 12.042Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.53768 12.0283V12.0922M8.79695 12.042C8.79695 12.186 8.68011 12.3028 8.53609 12.3028C8.39208 12.3028 8.27539 12.186 8.27539 12.042C8.27539 11.898 8.39208 11.7812 8.53609 11.7812C8.68011 11.7812 8.79695 11.898 8.79695 12.042Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Essential',
     style: IconfyStyle.twoTone,

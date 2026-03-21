@@ -12,14 +12,68 @@ class _DeliveryIcons {
   _DeliveryDeliveryBoxUpIcon get deliveryBoxUp => const _DeliveryDeliveryBoxUpIcon();
   /// Delivery Box shop
   _DeliveryDeliveryBoxShopIcon get deliveryBoxShop => const _DeliveryDeliveryBoxShopIcon();
+  /// Delivery Box shop 1
+  _DeliveryDeliveryBoxShop1Icon get deliveryBoxShop1 => const _DeliveryDeliveryBoxShop1Icon();
   /// Delivery sending
   _DeliveryDeliverySendingIcon get deliverySending => const _DeliveryDeliverySendingIcon();
   /// Delivery Box
   _DeliveryDeliveryBoxIcon get deliveryBox => const _DeliveryDeliveryBoxIcon();
+  /// Delivery Box 1
+  _DeliveryDeliveryBox1Icon get deliveryBox1 => const _DeliveryDeliveryBox1Icon();
+  /// Delivery Box 2
+  _DeliveryDeliveryBox2Icon get deliveryBox2 => const _DeliveryDeliveryBox2Icon();
+  /// Delivery Box 3
+  _DeliveryDeliveryBox3Icon get deliveryBox3 => const _DeliveryDeliveryBox3Icon();
+  /// Delivery Box 4
+  _DeliveryDeliveryBox4Icon get deliveryBox4 => const _DeliveryDeliveryBox4Icon();
+  /// Delivery Box 5
+  _DeliveryDeliveryBox5Icon get deliveryBox5 => const _DeliveryDeliveryBox5Icon();
+  /// Delivery Box 6
+  _DeliveryDeliveryBox6Icon get deliveryBox6 => const _DeliveryDeliveryBox6Icon();
+  /// Delivery Box 7
+  _DeliveryDeliveryBox7Icon get deliveryBox7 => const _DeliveryDeliveryBox7Icon();
+  /// Delivery Box 8
+  _DeliveryDeliveryBox8Icon get deliveryBox8 => const _DeliveryDeliveryBox8Icon();
+  /// Delivery Box 9
+  _DeliveryDeliveryBox9Icon get deliveryBox9 => const _DeliveryDeliveryBox9Icon();
+  /// Delivery Box 10
+  _DeliveryDeliveryBox10Icon get deliveryBox10 => const _DeliveryDeliveryBox10Icon();
+  /// Delivery Box 11
+  _DeliveryDeliveryBox11Icon get deliveryBox11 => const _DeliveryDeliveryBox11Icon();
+  /// Delivery Box 12
+  _DeliveryDeliveryBox12Icon get deliveryBox12 => const _DeliveryDeliveryBox12Icon();
+  /// Delivery Box 13
+  _DeliveryDeliveryBox13Icon get deliveryBox13 => const _DeliveryDeliveryBox13Icon();
+  /// Delivery Box 14
+  _DeliveryDeliveryBox14Icon get deliveryBox14 => const _DeliveryDeliveryBox14Icon();
+  /// Delivery Box 15
+  _DeliveryDeliveryBox15Icon get deliveryBox15 => const _DeliveryDeliveryBox15Icon();
+  /// Delivery Box 16
+  _DeliveryDeliveryBox16Icon get deliveryBox16 => const _DeliveryDeliveryBox16Icon();
+  /// Delivery Box 17
+  _DeliveryDeliveryBox17Icon get deliveryBox17 => const _DeliveryDeliveryBox17Icon();
+  /// Delivery Box 18
+  _DeliveryDeliveryBox18Icon get deliveryBox18 => const _DeliveryDeliveryBox18Icon();
+  /// Delivery Box 19
+  _DeliveryDeliveryBox19Icon get deliveryBox19 => const _DeliveryDeliveryBox19Icon();
+  /// Delivery Box 20
+  _DeliveryDeliveryBox20Icon get deliveryBox20 => const _DeliveryDeliveryBox20Icon();
+  /// Delivery Box 21
+  _DeliveryDeliveryBox21Icon get deliveryBox21 => const _DeliveryDeliveryBox21Icon();
+  /// Delivery Box 22
+  _DeliveryDeliveryBox22Icon get deliveryBox22 => const _DeliveryDeliveryBox22Icon();
+  /// Delivery Box 23
+  _DeliveryDeliveryBox23Icon get deliveryBox23 => const _DeliveryDeliveryBox23Icon();
+  /// Delivery Box 24
+  _DeliveryDeliveryBox24Icon get deliveryBox24 => const _DeliveryDeliveryBox24Icon();
+  /// Delivery Box 25
+  _DeliveryDeliveryBox25Icon get deliveryBox25 => const _DeliveryDeliveryBox25Icon();
   /// Delivery security
   _DeliveryDeliverySecurityIcon get deliverySecurity => const _DeliveryDeliverySecurityIcon();
   /// Delivery Clock Time
   _DeliveryDeliveryClockTimeIcon get deliveryClockTime => const _DeliveryDeliveryClockTimeIcon();
+  /// Delivery Clock Time 1
+  _DeliveryDeliveryClockTime1Icon get deliveryClockTime1 => const _DeliveryDeliveryClockTime1Icon();
   /// Delivery check
   _DeliveryDeliveryCheckIcon get deliveryCheck => const _DeliveryDeliveryCheckIcon();
   /// Post motor
@@ -32,8 +86,34 @@ class _DeliveryIcons {
   _DeliveryDeliveryEditIcon get deliveryEdit => const _DeliveryDeliveryEditIcon();
   /// Truck remove close
   _DeliveryTruckRemoveCloseIcon get truckRemoveClose => const _DeliveryTruckRemoveCloseIcon();
+  /// Truck remove close 1
+  _DeliveryTruckRemoveClose1Icon get truckRemoveClose1 => const _DeliveryTruckRemoveClose1Icon();
   /// Delivery Boxes
   _DeliveryDeliveryBoxesIcon get deliveryBoxes => const _DeliveryDeliveryBoxesIcon();
+  /// Delivery Boxes 1
+  _DeliveryDeliveryBoxes1Icon get deliveryBoxes1 => const _DeliveryDeliveryBoxes1Icon();
+  /// Delivery Boxes 2
+  _DeliveryDeliveryBoxes2Icon get deliveryBoxes2 => const _DeliveryDeliveryBoxes2Icon();
+  /// Delivery Boxes 3
+  _DeliveryDeliveryBoxes3Icon get deliveryBoxes3 => const _DeliveryDeliveryBoxes3Icon();
+  /// Delivery Boxes 4
+  _DeliveryDeliveryBoxes4Icon get deliveryBoxes4 => const _DeliveryDeliveryBoxes4Icon();
+  /// Delivery Boxes 5
+  _DeliveryDeliveryBoxes5Icon get deliveryBoxes5 => const _DeliveryDeliveryBoxes5Icon();
+  /// Delivery Boxes 6
+  _DeliveryDeliveryBoxes6Icon get deliveryBoxes6 => const _DeliveryDeliveryBoxes6Icon();
+  /// Delivery Boxes 7
+  _DeliveryDeliveryBoxes7Icon get deliveryBoxes7 => const _DeliveryDeliveryBoxes7Icon();
+  /// Delivery Boxes 8
+  _DeliveryDeliveryBoxes8Icon get deliveryBoxes8 => const _DeliveryDeliveryBoxes8Icon();
+  /// Delivery Boxes 9
+  _DeliveryDeliveryBoxes9Icon get deliveryBoxes9 => const _DeliveryDeliveryBoxes9Icon();
+  /// Delivery Boxes 10
+  _DeliveryDeliveryBoxes10Icon get deliveryBoxes10 => const _DeliveryDeliveryBoxes10Icon();
+  /// Delivery Boxes 11
+  _DeliveryDeliveryBoxes11Icon get deliveryBoxes11 => const _DeliveryDeliveryBoxes11Icon();
+  /// Delivery Boxes 12
+  _DeliveryDeliveryBoxes12Icon get deliveryBoxes12 => const _DeliveryDeliveryBoxes12Icon();
   /// Search Box
   _DeliverySearchBoxIcon get searchBox => const _DeliverySearchBoxIcon();
   /// Truck hide minus
@@ -52,14 +132,26 @@ class _DeliveryIcons {
   _DeliveryAirdropIcon get airdrop => const _DeliveryAirdropIcon();
   /// Delivery
   _DeliveryDeliveryIcon get delivery => const _DeliveryDeliveryIcon();
+  /// Delivery 1
+  _DeliveryDelivery1Icon get delivery1 => const _DeliveryDelivery1Icon();
+  /// Delivery 2
+  _DeliveryDelivery2Icon get delivery2 => const _DeliveryDelivery2Icon();
+  /// Delivery 3
+  _DeliveryDelivery3Icon get delivery3 => const _DeliveryDelivery3Icon();
+  /// Delivery 4
+  _DeliveryDelivery4Icon get delivery4 => const _DeliveryDelivery4Icon();
   /// Truck
   _DeliveryTruckIcon get truck => const _DeliveryTruckIcon();
+  /// Truck 1
+  _DeliveryTruck1Icon get truck1 => const _DeliveryTruck1Icon();
   /// Delivery cloud
   _DeliveryDeliveryCloudIcon get deliveryCloud => const _DeliveryDeliveryCloudIcon();
   /// Delivery Search
   _DeliveryDeliverySearchIcon get deliverySearch => const _DeliveryDeliverySearchIcon();
   /// Truck check complete
   _DeliveryTruckCheckCompleteIcon get truckCheckComplete => const _DeliveryTruckCheckCompleteIcon();
+  /// Truck check complete 1
+  _DeliveryTruckCheckComplete1Icon get truckCheckComplete1 => const _DeliveryTruckCheckComplete1Icon();
   /// Delivery Box down
   _DeliveryDeliveryBoxDownIcon get deliveryBoxDown => const _DeliveryDeliveryBoxDownIcon();
   /// Delivery add plus
@@ -74,6 +166,28 @@ class _DeliveryIcons {
   _DeliveryPostBankIcon get postBank => const _DeliveryPostBankIcon();
   /// Delivery Box change
   _DeliveryDeliveryBoxChangeIcon get deliveryBoxChange => const _DeliveryDeliveryBoxChangeIcon();
+  /// Delivery Box change 1
+  _DeliveryDeliveryBoxChange1Icon get deliveryBoxChange1 => const _DeliveryDeliveryBoxChange1Icon();
+  /// Delivery Box change 2
+  _DeliveryDeliveryBoxChange2Icon get deliveryBoxChange2 => const _DeliveryDeliveryBoxChange2Icon();
+  /// Delivery Box change 3
+  _DeliveryDeliveryBoxChange3Icon get deliveryBoxChange3 => const _DeliveryDeliveryBoxChange3Icon();
+  /// Delivery Box change 4
+  _DeliveryDeliveryBoxChange4Icon get deliveryBoxChange4 => const _DeliveryDeliveryBoxChange4Icon();
+  /// Delivery Box change 5
+  _DeliveryDeliveryBoxChange5Icon get deliveryBoxChange5 => const _DeliveryDeliveryBoxChange5Icon();
+  /// Delivery Box change 6
+  _DeliveryDeliveryBoxChange6Icon get deliveryBoxChange6 => const _DeliveryDeliveryBoxChange6Icon();
+  /// Delivery Box change 7
+  _DeliveryDeliveryBoxChange7Icon get deliveryBoxChange7 => const _DeliveryDeliveryBoxChange7Icon();
+  /// Delivery Box change 8
+  _DeliveryDeliveryBoxChange8Icon get deliveryBoxChange8 => const _DeliveryDeliveryBoxChange8Icon();
+  /// Delivery Box change 9
+  _DeliveryDeliveryBoxChange9Icon get deliveryBoxChange9 => const _DeliveryDeliveryBoxChange9Icon();
+  /// Delivery Box change 10
+  _DeliveryDeliveryBoxChange10Icon get deliveryBoxChange10 => const _DeliveryDeliveryBoxChange10Icon();
+  /// Delivery Box change 11
+  _DeliveryDeliveryBoxChange11Icon get deliveryBoxChange11 => const _DeliveryDeliveryBoxChange11Icon();
   /// Delivery close
   _DeliveryDeliveryCloseIcon get deliveryClose => const _DeliveryDeliveryCloseIcon();
   /// Delivery Box reload
@@ -82,6 +196,8 @@ class _DeliveryIcons {
   _DeliveryDeliveryHandIcon get deliveryHand => const _DeliveryDeliveryHandIcon();
   /// Delivery hand send
   _DeliveryDeliveryHandSendIcon get deliveryHandSend => const _DeliveryDeliveryHandSendIcon();
+  /// Truck check complete
+  _DeliveryTruckCheckComplete2Icon get truckCheckComplete2 => const _DeliveryTruckCheckComplete2Icon();
 }
 
 /// Delivery Box up icon with style variants.
@@ -300,6 +416,114 @@ class _DeliveryDeliveryBoxShopLight {
 
 }
 
+/// Delivery Box shop 1 icon with style variants.
+class _DeliveryDeliveryBoxShop1Icon {
+  const _DeliveryDeliveryBoxShop1Icon();
+
+  /// bold style
+  _DeliveryDeliveryBoxShop1Bold get bold => const _DeliveryDeliveryBoxShop1Bold();
+  /// bulk style
+  _DeliveryDeliveryBoxShop1Bulk get bulk => const _DeliveryDeliveryBoxShop1Bulk();
+  /// light style
+  _DeliveryDeliveryBoxShop1Light get light => const _DeliveryDeliveryBoxShop1Light();
+  /// outline style
+  _DeliveryDeliveryBoxShop1Outline get outline => const _DeliveryDeliveryBoxShop1Outline();
+  /// twoTone style
+  _DeliveryDeliveryBoxShop1Twotone get twoTone => const _DeliveryDeliveryBoxShop1Twotone();
+  /// broken style
+  _DeliveryDeliveryBoxShop1Broken get broken => const _DeliveryDeliveryBoxShop1Broken();
+}
+
+/// Delivery Box shop 1 — bulk style variants.
+class _DeliveryDeliveryBoxShop1Bulk {
+  const _DeliveryDeliveryBoxShop1Bulk();
+
+  /// Delivery Box shop 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box shop 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.0301 10.171C21.0301 11.141 20.7101 11.991 20.1201 12.581C19.5601 13.151 18.7901 13.441 17.9001 13.441L13.2501 13.461C11.4001 13.461 10.1101 12.121 10.1101 10.201L10.1001 5.82101C10.0901 4.85101 10.4201 3.99101 11.0101 3.40101C11.5279 2.8739 12.2254 2.57769 13.0312 2.53609C13.1411 2.53042 13.2306 2.61985 13.2312 2.72986L13.2501 6.01101C13.2501 6.25101 13.3601 6.48101 13.5601 6.62101C13.6901 6.71101 13.8401 6.76101 14.0001 6.76101C14.0801 6.76101 14.1601 6.75101 14.2301 6.72101L15.5701 6.28101L16.9001 6.71101C17.1301 6.79101 17.3801 6.75101 17.5701 6.61101C17.7701 6.46101 17.8801 6.24101 17.8801 6.00101V2.72101C17.8801 2.61055 17.9699 2.52043 18.0802 2.52614C19.8401 2.61713 21.0201 3.9114 21.0201 5.79101L21.0301 10.171Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2061 15.7259H9.30611C8.77211 15.7259 8.32111 15.3099 8.27611 14.7729L7.31511 3.32392C7.28711 2.98292 7.03211 2.70492 6.69611 2.64692L4.62211 2.28792C4.20911 2.21192 3.82511 2.48992 3.75411 2.89792C3.68411 3.30592 3.95711 3.69392 4.36511 3.76492L5.86911 4.02592L6.78111 14.8979C6.89011 16.2079 7.99611 17.2259 9.29811 17.2259H21.2061C21.6201 17.2259 21.9561 16.8899 21.9561 16.4759C21.9561 16.0619 21.6201 15.7259 21.2061 15.7259Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.75 4.97185L14.7408 2.73144C14.7404 2.62115 14.8293 2.5313 14.9396 2.53063L16.1696 2.52308C16.2802 2.5224 16.3704 2.61164 16.3708 2.72226L16.38 4.96185L15.8 4.78185C15.65 4.73185 15.49 4.73185 15.33 4.78185L14.75 4.97185Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.82719 19.2659C8.14819 19.2659 7.59619 19.8179 7.59619 20.4959C7.59619 21.1739 8.14819 21.7259 8.82719 21.7259C9.50619 21.7259 10.0592 21.1739 10.0592 20.4959C10.0592 19.8179 9.50619 19.2659 8.82719 19.2659Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.204 19.2659C19.525 19.2659 18.972 19.8179 18.972 20.4959C18.972 21.1739 19.525 21.7259 20.204 21.7259C20.883 21.7259 21.436 21.1739 21.436 20.4959C21.436 19.8179 20.883 19.2659 20.204 19.2659Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box shop 1 — broken style variants.
+class _DeliveryDeliveryBoxShop1Broken {
+  const _DeliveryDeliveryBoxShop1Broken();
+
+  /// Delivery Box shop 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box shop 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.2062 16.4543H9.325C8.38819 16.4573 7.60602 15.7389 7.5292 14.8051L7.04883 9.08203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.49316 3L6.5683 3.35916L6.80849 6.22071" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1239 3L17.1328 7.21812L15.5695 6.70832L13.9972 7.2271L13.9922 3.01397" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.2495 12.9357C11.6233 12.9397 10.6097 11.7944 10.6057 10.1702L10.5957 5.78848C10.5917 4.16428 11.6054 3.01498 13.2256 3.01098L17.8767 3.00001C19.5029 2.99602 20.5165 4.14134 20.5205 5.76553L20.5304 10.1473C20.5344 11.7715 19.5258 12.9208 17.8996 12.9248" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.83005 20.4444V20.5626M9.30881 20.4698C9.30881 20.7357 9.09305 20.9513 8.82711 20.9513C8.56117 20.9513 8.3457 20.7357 8.3457 20.4698C8.3457 20.2039 8.56117 19.9883 8.82711 19.9883C9.09305 19.9883 9.30881 20.2039 9.30881 20.4698Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.207 20.4444V20.5626M20.6858 20.4698C20.6858 20.7357 20.47 20.9513 20.2041 20.9513C19.9381 20.9513 19.7227 20.7357 19.7227 20.4698C19.7227 20.2039 19.9381 19.9883 20.2041 19.9883C20.47 19.9883 20.6858 20.2039 20.6858 20.4698Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box shop 1 — twoTone style variants.
+class _DeliveryDeliveryBoxShop1Twotone {
+  const _DeliveryDeliveryBoxShop1Twotone();
+
+  /// Delivery Box shop 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box shop 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3.64355 3L5.71869 3.35916L6.67944 14.8054C6.75626 15.7392 7.53843 16.4575 8.47524 16.4545H20.3564" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.2745 3L16.2835 7.21812L14.7201 6.70832L13.1478 7.2271L13.1428 3.01397" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0274 3.00001L12.3763 3.01098C10.7561 3.01498 9.74248 4.16428 9.74647 5.78848L9.75645 10.1702C9.76044 11.7944 10.7741 12.9397 12.4003 12.9357L17.0504 12.9248C18.6766 12.9208 19.6852 11.7715 19.6812 10.1473L19.6712 5.76553C19.6672 4.14134 18.6536 2.99602 17.0274 3.00001Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.98044 20.4444V20.5626M8.4592 20.4698C8.4592 20.7357 8.24344 20.9513 7.9775 20.9513C7.71156 20.9513 7.49609 20.7357 7.49609 20.4698C7.49609 20.2039 7.71156 19.9883 7.9775 19.9883C8.24344 19.9883 8.4592 20.2039 8.4592 20.4698Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.3571 20.4444V20.5626M19.8359 20.4698C19.8359 20.7357 19.6201 20.9513 19.3542 20.9513C19.0883 20.9513 18.8728 20.7357 18.8728 20.4698C18.8728 20.2039 19.0883 19.9883 19.3542 19.9883C19.6201 19.9883 19.8359 20.2039 19.8359 20.4698Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box shop 1 — outline style variants.
+class _DeliveryDeliveryBoxShop1Outline {
+  const _DeliveryDeliveryBoxShop1Outline();
+
+  /// Delivery Box shop 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box shop 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.36588 2.30214C3.49039 2.25283 3.63004 2.23623 3.77164 2.26064L5.84684 2.6205C6.18375 2.68056 6.43766 2.96035 6.46646 3.30068L7.42789 14.7406C7.47184 15.2904 7.92789 15.7103 8.47574 15.7006H20.3566C20.7707 15.7006 21.1066 16.0404 21.1066 16.4506C21.1066 16.8705 20.7707 17.2006 20.3566 17.2006H8.47769C7.14957 17.2103 6.04068 16.1903 5.93277 14.8705L5.02066 4.00185L3.51578 3.74062C3.10758 3.67031 2.83463 3.28066 2.90445 2.8705C2.95084 2.60293 3.13199 2.39492 3.36588 2.30214Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2726 2.25039C16.2892 2.25039 16.3058 2.25087 16.3219 2.25185L17.0255 2.25039C18.0246 2.25039 18.8918 2.60048 19.5055 3.26064C20.1149 3.91054 20.4186 4.80068 20.4215 5.76064L20.4318 10.1503C20.4338 11.1102 20.1335 12.0004 19.5275 12.6503C18.9157 13.3104 18.0504 13.6703 17.0529 13.6703L12.4025 13.6903C11.4035 13.6903 10.5368 13.3305 9.92252 12.6806C9.31363 12.0204 9.00846 11.1405 9.0065 10.1703L8.99674 5.79043C8.99478 4.8207 9.29654 3.94033 9.9025 3.28066C10.5148 2.6205 11.3786 2.26064 12.3747 2.26064H13.1427L16.2209 2.25234C16.2379 2.25136 16.255 2.25039 16.2726 2.25039ZM15.526 3.7538L13.8937 3.75722L13.8966 6.1913L14.4855 6.00039C14.6369 5.95058 14.8004 5.95058 14.9528 6.00039L15.5314 6.18935L15.526 3.7538ZM12.3937 3.76064H12.3786C11.7536 3.76064 11.3014 3.98037 11.0026 4.30068C10.6974 4.63027 10.4948 5.13027 10.4967 5.79043L10.5065 10.1703C10.5075 10.5766 10.5851 10.9188 10.716 11.1986C10.798 11.3729 10.9005 11.5233 11.0177 11.6503C11.3175 11.9701 11.7707 12.1903 12.3986 12.1903L17.0485 12.1703C17.6764 12.1703 18.1286 11.9603 18.4279 11.6303C18.7316 11.3104 18.9328 10.8104 18.9318 10.1503L18.9215 5.77041C18.9196 5.11025 18.7155 4.61025 18.4098 4.28066C18.1105 3.96035 17.6579 3.75039 17.0295 3.75039L17.0338 7.2206C17.0343 7.3456 17.0031 7.46523 16.9455 7.57119C16.8927 7.66835 16.818 7.7538 16.7248 7.8207C16.5304 7.9706 16.2795 8.01015 16.0514 7.93056L14.7233 7.49697L13.3825 7.94033C13.2663 7.97597 13.1442 7.98574 13.0265 7.96816C12.9132 7.95107 12.8044 7.90908 12.7087 7.84072C12.5138 7.69033 12.3986 7.4706 12.3976 7.23037L12.3937 3.76064Z" fill="black"/> <path d="M8.02457 19.1903C8.73453 19.1903 9.3068 19.7606 9.30875 20.4706C9.31168 21.1806 8.73648 21.7504 8.03189 21.7504C7.32144 21.7504 6.75064 21.1806 6.74869 20.4706C6.74869 19.7606 7.32144 19.1903 8.02457 19.1903Z" fill="black"/> <path d="M19.3405 19.1903C20.0504 19.1903 20.6217 19.7606 20.6247 20.4706C20.6266 21.1806 20.0514 21.7504 19.3478 21.7504C18.6379 21.7504 18.0656 21.1806 18.0636 20.4706C18.0656 19.7606 18.6344 19.1903 19.3405 19.1903Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box shop 1 — bold style variants.
+class _DeliveryDeliveryBoxShop1Bold {
+  const _DeliveryDeliveryBoxShop1Bold();
+
+  /// Delivery Box shop 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box shop 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2061 15.7254H9.30611C8.77211 15.7254 8.32111 15.3094 8.27611 14.7724L7.31511 3.32343C7.28711 2.98243 7.03211 2.70443 6.69611 2.64643L4.62211 2.28743C4.20911 2.21143 3.82511 2.48943 3.75411 2.89743C3.68411 3.30543 3.95711 3.69343 4.36511 3.76443L5.86911 4.02543L6.78111 14.8974C6.89011 16.2074 7.99611 17.2254 9.29811 17.2254H21.2061C21.6201 17.2254 21.9561 16.8894 21.9561 16.4754C21.9561 16.0614 21.6201 15.7254 21.2061 15.7254Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.75 4.97136L14.7408 2.73095C14.7404 2.62066 14.8293 2.53081 14.9396 2.53014L16.1696 2.52259C16.2802 2.52191 16.3704 2.61115 16.3708 2.72177L16.38 4.96136L15.8 4.78136C15.65 4.73136 15.49 4.73136 15.33 4.78136L14.75 4.97136Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0301 10.1712C21.0301 11.1412 20.7101 11.9912 20.1201 12.5812C19.5601 13.1512 18.7901 13.4412 17.9001 13.4412L13.2501 13.4612C11.4001 13.4612 10.1101 12.1212 10.1101 10.2012L10.1001 5.82124C10.0901 4.85124 10.4201 3.99124 11.0101 3.40124C11.5279 2.87413 12.2254 2.57792 13.0312 2.53632C13.1411 2.53065 13.2306 2.62008 13.2312 2.73009L13.2501 6.01124C13.2501 6.25124 13.3601 6.48124 13.5601 6.62124C13.6901 6.71124 13.8401 6.76124 14.0001 6.76124C14.0801 6.76124 14.1601 6.75124 14.2301 6.72124L15.5701 6.28124L16.9001 6.71124C17.1301 6.79124 17.3801 6.75124 17.5701 6.61124C17.7701 6.46124 17.8801 6.24124 17.8801 6.00124V2.72124C17.8801 2.61078 17.9699 2.52066 18.0802 2.52637C19.8401 2.61736 21.0201 3.91163 21.0201 5.79124L21.0301 10.1712Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.82719 19.2654C8.14819 19.2654 7.59619 19.8174 7.59619 20.4954C7.59619 21.1734 8.14819 21.7254 8.82719 21.7254C9.50619 21.7254 10.0592 21.1734 10.0592 20.4954C10.0592 19.8174 9.50619 19.2654 8.82719 19.2654Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.204 19.2654C19.525 19.2654 18.972 19.8174 18.972 20.4954C18.972 21.1734 19.525 21.7254 20.204 21.7254C20.883 21.7254 21.436 21.1734 21.436 20.4954C21.436 19.8174 20.883 19.2654 20.204 19.2654Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box shop 1 — light style variants.
+class _DeliveryDeliveryBoxShop1Light {
+  const _DeliveryDeliveryBoxShop1Light();
+
+  /// Delivery Box shop 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box shop 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.64355 3L5.71869 3.35916L6.67944 14.8054C6.75626 15.7392 7.53843 16.4575 8.47524 16.4545H20.3564" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2742 3L16.2832 7.21812L14.7199 6.70832L13.1476 7.2271L13.1426 3.01397" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0275 3.00001L12.3764 3.01098C10.7562 3.01498 9.7426 4.16428 9.74659 5.78848L9.75657 10.1702C9.76056 11.7944 10.7742 12.9397 12.4004 12.9357L17.0505 12.9248C18.6767 12.9208 19.6853 11.7715 19.6813 10.1473L19.6714 5.76553C19.6674 4.14134 18.6537 2.99602 17.0275 3.00001Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.98044 20.4444V20.5626M8.4592 20.4698C8.4592 20.7357 8.24344 20.9513 7.9775 20.9513C7.71156 20.9513 7.49609 20.7357 7.49609 20.4698C7.49609 20.2039 7.71156 19.9883 7.9775 19.9883C8.24344 19.9883 8.4592 20.2039 8.4592 20.4698Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.3574 20.4444V20.5626M19.8362 20.4698C19.8362 20.7357 19.6204 20.9513 19.3545 20.9513C19.0885 20.9513 18.873 20.7357 18.873 20.4698C18.873 20.2039 19.0885 19.9883 19.3545 19.9883C19.6204 19.9883 19.8362 20.2039 19.8362 20.4698Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Delivery sending icon with style variants.
 class _DeliveryDeliverySendingIcon {
   const _DeliveryDeliverySendingIcon();
@@ -448,7 +672,7 @@ class _DeliveryDeliveryBoxBroken {
   /// Delivery Box — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delivery Box',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2917 19.6634C12.2703 18.9473 11.67 18.383 10.949 18.4044C10.229 18.4258 9.66278 19.0232 9.68418 19.7393C9.70461 20.4564 10.3059 21.0197 11.0259 20.9993C11.7459 20.9779 12.3131 20.3795 12.2917 19.6634Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.93164 14.8521L10.4245 18.538" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.8125 6.73975L5.89367 7.35077L8.01058 12.5774" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2012 19.2162L20.1892 16.0142" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2457 15.9364C13.3097 16.2984 12.4642 15.8654 12.1003 14.9314L11.4581 13.2501C11.0933 12.316 11.4212 11.4316 12.361 11.0687L15.0484 10.0315C15.9883 9.6686 16.8299 10.1025 17.1938 11.0366L17.8369 12.7179C18.2008 13.6519 17.8739 14.5363 16.934 14.8993" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.4488 9.03262C10.5128 9.39457 9.6673 8.9616 9.30342 8.02755L8.66126 6.34627C8.2964 5.41223 8.62429 4.5278 9.56417 4.16489L12.2515 3.12771C13.1914 2.7648 14.033 3.19874 14.3969 4.13278L15.04 5.81406C15.4039 6.74713 15.077 7.63253 14.1371 7.99544" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9615 15.2696C20.9615 16.1385 20.4974 16.9421 19.7453 17.3761L14.0661 20.655C13.313 21.0899 12.3858 21.0899 11.6327 20.655L5.95351 17.3761C5.20141 16.9421 4.7373 16.1385 4.7373 15.2696V8.7118C4.7373 7.84197 5.20141 7.03927 5.95351 6.60435L11.6327 3.32546C12.3858 2.89151 13.313 2.89151 14.0661 3.32546L19.7453 6.60435C20.4974 7.03927 20.9615 7.84197 20.9615 8.7118V11.9907" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0478 12.2819V9.54198L11.2188 6.16992" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.07422 7.46484L12.8463 11.9609L20.6174 7.46484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8516 18.258V11.9541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Delivery',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -463,7 +687,7 @@ class _DeliveryDeliveryBoxTwotone {
   /// Delivery Box — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delivery Box',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2917 19.6634C12.2703 18.9473 11.67 18.383 10.949 18.4044C10.229 18.4258 9.66278 19.0232 9.68418 19.7393C9.70461 20.4564 10.3059 21.0197 11.0259 20.9993C11.7459 20.9779 12.3131 20.3795 12.2917 19.6634Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.8125 6.73975L5.89367 7.35077L10.4248 18.5379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2012 19.2162L20.1892 16.0142" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.934 14.8993L14.2457 15.9364C13.3097 16.2984 12.4642 15.8654 12.1003 14.9314L11.4581 13.2501C11.0933 12.316 11.4212 11.4316 12.361 11.0687L15.0484 10.0315C15.9883 9.6686 16.8299 10.1025 17.1938 11.0366L17.8369 12.7179C18.2008 13.6519 17.8739 14.5363 16.934 14.8993Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.1371 7.99544L11.4488 9.03262C10.5128 9.39457 9.6673 8.9616 9.30342 8.02755L8.66126 6.34627C8.2964 5.41223 8.62429 4.5278 9.56417 4.16489L12.2515 3.12771C13.1914 2.7648 14.033 3.19874 14.3969 4.13278L15.04 5.81406C15.4039 6.74713 15.077 7.63253 14.1371 7.99544Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.1119 8.7118V15.2696C20.1119 16.1385 19.6478 16.9421 18.8957 17.3761L13.2165 20.655C12.4634 21.0899 11.5362 21.0899 10.7831 20.655L5.1039 17.3761C4.3518 16.9421 3.8877 16.1385 3.8877 15.2696V8.7118C3.8877 7.84197 4.3518 7.03927 5.1039 6.60435L10.7831 3.32546C11.5362 2.89151 12.4634 2.89151 13.2165 3.32546L18.8957 6.60435C19.6478 7.03927 20.1119 7.84197 20.1119 8.7118Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.42578 5.0459L16.1978 9.54198V12.2818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.22461 7.46484L11.9967 11.9609L19.7677 7.46484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 20.9998V11.9541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -478,7 +702,7 @@ class _DeliveryDeliveryBoxOutline {
   /// Delivery Box — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delivery Box',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.2143 3.81957C13.0474 3.73918 12.8194 3.71226 12.5213 3.82737L9.83395 4.86454C9.83392 4.86456 9.83399 4.86453 9.83395 4.86454C9.53556 4.97979 9.3868 5.15211 9.31907 5.32083C9.2484 5.49686 9.23369 5.75136 9.35948 6.07339L9.36154 6.07866L10.0027 7.75744C10.1277 8.07695 10.3117 8.25625 10.4862 8.34015C10.6543 8.421 10.8826 8.44731 11.1779 8.3331L13.8666 7.29579C13.8665 7.29582 13.8666 7.29577 13.8666 7.29579C14.1645 7.18071 14.3132 7.0084 14.381 6.83941C14.4517 6.66294 14.4663 6.40816 14.3409 6.08656L14.3391 6.08203L13.6977 4.40504C13.6974 4.40439 13.6972 4.40375 13.6969 4.40311C13.5715 4.08234 13.3878 3.90317 13.2143 3.81957ZM13.8653 2.46821C14.4382 2.74419 14.8569 3.24846 15.0953 3.86053L15.097 3.86482L15.7393 5.54386C15.9769 6.15467 16.0096 6.80823 15.7732 7.39771C15.5335 7.99539 15.0487 8.44727 14.4069 8.6951L11.7189 9.73214C11.0784 9.97967 10.4156 9.9706 9.8362 9.69201C9.26339 9.4166 8.84309 8.91301 8.6042 8.29981L8.60239 8.29516L7.96119 6.61634C7.72312 6.00513 7.69039 5.3515 7.92706 4.76199C8.16701 4.16427 8.65222 3.7129 9.29364 3.46524L11.981 2.42806C11.9809 2.42807 11.981 2.42804 11.981 2.42806C12.6227 2.18029 13.2855 2.18886 13.8653 2.46821ZM3.09234 6.52855C3.20902 6.13111 3.6258 5.90352 4.02324 6.0202L6.10441 6.63122C6.32412 6.69573 6.50232 6.85706 6.58828 7.06929L10.8766 17.657C10.8934 17.6561 10.9102 17.6554 10.9271 17.6549C11.5364 17.6368 12.0926 17.8854 12.4816 18.2954L19.9089 15.3182C20.2934 15.1641 20.73 15.3508 20.8841 15.7353C21.0383 16.1198 20.8515 16.5564 20.467 16.7105L13.0426 19.6866C13.0516 20.8005 12.1633 21.716 11.0485 21.7491L11.0475 21.7492C9.91841 21.7812 8.96749 20.8969 8.93485 19.7614C8.91781 19.1862 9.13987 18.6613 9.51025 18.2792L5.33406 7.96836L3.60068 7.45945C3.20325 7.34277 2.97565 6.92599 3.09234 6.52855ZM10.6914 19.2388C10.5308 19.3395 10.4283 19.5189 10.4342 19.7171L10.4342 19.7181C10.4427 20.0165 10.6943 20.2586 11.005 20.2498C11.3146 20.24 11.5513 19.9835 11.5424 19.686C11.5335 19.3867 11.2815 19.1451 10.9717 19.1542C10.9127 19.156 10.8565 19.1667 10.804 19.1848C10.7729 19.203 10.7401 19.2192 10.7058 19.2331C10.701 19.2351 10.6962 19.2369 10.6914 19.2388ZM16.0116 10.7234C15.8447 10.643 15.6167 10.6161 15.3185 10.7312L12.6312 11.7684C12.6312 11.7684 12.6313 11.7684 12.6312 11.7684C12.3328 11.8836 12.1841 12.056 12.1163 12.2247C12.0457 12.4007 12.031 12.6552 12.1567 12.9772L12.1588 12.9825L12.8 14.6612C12.925 14.9808 13.1089 15.1601 13.2835 15.244C13.4516 15.3249 13.6798 15.3512 13.9752 15.237L16.6638 14.1996C16.6638 14.1997 16.6639 14.1996 16.6638 14.1996C16.962 14.0845 17.1106 13.9123 17.1783 13.7436C17.249 13.5673 17.2636 13.3125 17.1381 12.9902L17.1364 12.9859L16.4949 11.3089C16.4947 11.3082 16.4944 11.3076 16.4942 11.3069C16.3687 10.9862 16.1851 10.807 16.0116 10.7234ZM16.6626 9.37207C17.2354 9.64804 17.6542 10.1523 17.8926 10.7644L17.8943 10.7687L18.5357 12.4457C18.536 12.4464 18.5363 12.4472 18.5366 12.448C18.7741 13.059 18.8069 13.7125 18.5704 14.302C18.3307 14.8997 17.8457 15.3512 17.2041 15.599L14.5162 16.636C13.8755 16.8837 13.2131 16.8745 12.6335 16.5959C12.0607 16.3205 11.6404 15.8169 11.4015 15.2037L11.3997 15.199L10.7585 13.5202C10.5204 12.909 10.4877 12.2554 10.7243 11.6658C10.9643 11.0681 11.4495 10.6168 12.0909 10.3691L14.7782 9.33191C15.42 9.08411 16.0827 9.0927 16.6626 9.37207Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.4087 2.67562C11.3935 2.10813 12.6061 2.10813 13.591 2.67562L19.2707 5.95484C20.2542 6.52357 20.8619 7.57376 20.8619 8.7118V15.2696C20.8619 16.4064 20.2549 17.4577 19.2705 18.0257L13.5916 21.3044C13.5916 21.3044 13.5916 21.3044 13.5916 21.3044C13.1563 21.5558 12.6765 21.6961 12.1915 21.7254C12.1304 21.7414 12.0663 21.75 12.0002 21.75C11.9341 21.75 11.8701 21.7415 11.8091 21.7254C11.3238 21.6963 10.8437 21.556 10.4081 21.3045C10.4081 21.3045 10.4081 21.3045 10.4081 21.3045L4.72909 18.0257C3.74472 17.4577 3.1377 16.4064 3.1377 15.2696V8.7118C3.1377 8.16744 3.27663 7.64324 3.52923 7.18221C3.54212 7.15065 3.5573 7.1196 3.57486 7.08926C3.59553 7.05352 3.61871 7.02012 3.64403 6.98916C3.91375 6.56994 4.2824 6.21303 4.72846 5.95509L10.4087 2.67562ZM4.64334 8.57382C4.6396 8.61948 4.6377 8.6655 4.6377 8.7118V15.2696C4.6377 15.8705 4.95888 16.4265 5.47872 16.7264L11.1581 20.0054C11.1884 20.0229 11.2191 20.0394 11.2502 20.0549V12.3958L4.64334 8.57382ZM12.7502 12.3911V20.0545C12.781 20.0392 12.8114 20.0228 12.8414 20.0055L18.5207 16.7265C19.0405 16.4266 19.3619 15.8705 19.3619 15.2696V8.7118C19.3619 8.66396 19.3599 8.61642 19.3559 8.56926L16.9477 9.96254V12.2817C16.9477 12.6959 16.6119 13.0317 16.1977 13.0317C15.7835 13.0317 15.4477 12.6959 15.4477 12.2817V10.8304L12.7502 12.3911ZM16.1875 8.66941L18.5762 7.28741C18.558 7.27591 18.5395 7.26473 18.5207 7.25387L12.842 3.97529C12.3208 3.67494 11.679 3.6749 11.1578 3.97518C11.1577 3.97522 11.1578 3.97514 11.1578 3.97518L9.61381 4.86658L16.1875 8.66941ZM8.11456 5.73218L14.6898 9.53592L11.9961 11.0944L5.41948 7.28991C5.43904 7.27749 5.45891 7.26544 5.47907 7.25378C5.47898 7.25383 5.47916 7.25372 5.47907 7.25378L8.11456 5.73218Z" fill="black"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -508,9 +732,669 @@ class _DeliveryDeliveryBoxLight {
   /// Delivery Box — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delivery Box',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.1119 8.7118V15.2696C20.1119 16.1385 19.6478 16.9421 18.8957 17.3761L13.2165 20.655C12.4634 21.0899 11.5362 21.0899 10.7831 20.655L5.1039 17.3761C4.3518 16.9421 3.8877 16.1385 3.8877 15.2696V8.7118C3.8877 7.84197 4.3518 7.03927 5.1039 6.60435L10.7831 3.32546C11.5362 2.89151 12.4634 2.89151 13.2165 3.32546L18.8957 6.60435C19.6478 7.03927 20.1119 7.84197 20.1119 8.7118Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.42578 5.0459L16.1978 9.54198V12.2818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.22461 7.46484L11.9967 11.9609L19.7677 7.46484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 20.9998V11.9541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 1 icon with style variants.
+class _DeliveryDeliveryBox1Icon {
+  const _DeliveryDeliveryBox1Icon();
+
+  /// bold style
+  _DeliveryDeliveryBox1Bold get bold => const _DeliveryDeliveryBox1Bold();
+  /// bulk style
+  _DeliveryDeliveryBox1Bulk get bulk => const _DeliveryDeliveryBox1Bulk();
+  /// light style
+  _DeliveryDeliveryBox1Light get light => const _DeliveryDeliveryBox1Light();
+  /// outline style
+  _DeliveryDeliveryBox1Outline get outline => const _DeliveryDeliveryBox1Outline();
+  /// twoTone style
+  _DeliveryDeliveryBox1Twotone get twoTone => const _DeliveryDeliveryBox1Twotone();
+  /// broken style
+  _DeliveryDeliveryBox1Broken get broken => const _DeliveryDeliveryBox1Broken();
+}
+
+/// Delivery Box 1 — bulk style variants.
+class _DeliveryDeliveryBox1Bulk {
+  const _DeliveryDeliveryBox1Bulk();
+
+  /// Delivery Box 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0519 9.38002C9.92195 9.45879 9.92384 9.64801 10.0554 9.72415L12.7029 11.257C12.7959 11.3108 12.9105 11.3108 13.0035 11.257L20.4543 6.94299C20.5651 6.87886 20.5882 6.7282 20.4953 6.64015C20.344 6.49674 20.1785 6.36689 19.9942 6.25899L17.6396 4.90297C17.5764 4.86659 17.4985 4.86746 17.4361 4.90524L10.0519 9.38002Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.18057 8.63861C8.24381 8.67524 8.322 8.67447 8.3845 8.63658L15.7627 4.16443C15.8929 4.08556 15.8908 3.89605 15.7589 3.8201L14.3181 2.99002C13.4111 2.46002 12.2841 2.46102 11.3841 2.98902L5.70113 6.26002C5.51965 6.36678 5.3564 6.49481 5.2067 6.63618C5.11353 6.72417 5.13652 6.87508 5.24741 6.93932L8.18057 8.63861Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.0961 12.8131C12.0961 12.7061 12.039 12.6072 11.9464 12.5535L9.33129 11.039C9.19796 10.9618 9.03106 11.058 9.03106 11.2121V12.5602C9.03106 12.9742 8.69506 13.3102 8.28106 13.3102C7.86706 13.3102 7.53106 12.9742 7.53106 12.5602V10.1115C7.53106 10.0401 7.49303 9.97416 7.43126 9.9384L4.55805 8.27506C4.442 8.20788 4.29332 8.27166 4.27169 8.40399C4.25023 8.53527 4.23706 8.66834 4.23706 8.80318V15.3632C4.23706 16.4012 4.79806 17.3752 5.70506 17.9062L11.3811 21.1752C11.5313 21.2625 11.6877 21.3359 11.8478 21.3946C11.9712 21.4399 12.0961 21.3442 12.0961 21.2127V12.8131Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.7459 12.5609C13.6532 12.6146 13.5962 12.7135 13.5962 12.8205V21.2137C13.5962 21.345 13.7207 21.4407 13.8442 21.396C14.006 21.3373 14.1637 21.264 14.3152 21.1756L19.9982 17.9046C20.9012 17.3756 21.4622 16.4016 21.4622 15.3626V8.80259C21.4622 8.66923 21.4488 8.53797 21.4276 8.40841C21.4058 8.27581 21.2567 8.21165 21.1404 8.27899L13.7459 12.5609Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 1 — broken style variants.
+class _DeliveryDeliveryBox1Broken {
+  const _DeliveryDeliveryBox1Broken();
+
+  /// Delivery Box 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9615 15.2696C20.9615 16.1385 20.4974 16.9421 19.7453 17.3761L14.0661 20.655C13.313 21.0899 12.3858 21.0899 11.6327 20.655L5.95351 17.3761C5.20141 16.9421 4.7373 16.1385 4.7373 15.2696V8.7118C4.7373 7.84197 5.20141 7.03927 5.95351 6.60435L11.6327 3.32546C12.3858 2.89151 13.313 2.89151 14.0661 3.32546L19.7453 6.60435C20.4974 7.03927 20.9615 7.84197 20.9615 8.7118V11.9907" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6252 7.46484L12.8531 11.9609L5.08203 7.46484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8516 17.802L12.8516 11.9541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.65234 12.2821V9.54221L13.8361 6.54346" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 1 — twoTone style variants.
+class _DeliveryDeliveryBox1Twotone {
+  const _DeliveryDeliveryBox1Twotone();
+
+  /// Delivery Box 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.8877 8.7118V15.2696C3.8877 16.1385 4.3518 16.9421 5.1039 17.3761L10.7831 20.655C11.5362 21.0899 12.4634 21.0899 13.2165 20.655L18.8957 17.3761C19.6478 16.9421 20.1119 16.1385 20.1119 15.2696V8.7118C20.1119 7.84197 19.6478 7.03927 18.8957 6.60435L13.2165 3.32546C12.4634 2.89151 11.5362 2.89151 10.7831 3.32546L5.1039 6.60435C4.3518 7.03927 3.8877 7.84197 3.8877 8.7118Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.7756 7.46484L12.0035 11.9609L4.23242 7.46484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 20.9998V11.9541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.5748 5.0459L7.80273 9.54198V12.2818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 1 — outline style variants.
+class _DeliveryDeliveryBox1Outline {
+  const _DeliveryDeliveryBox1Outline();
+
+  /// Delivery Box 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1576 3.97529C11.1575 3.97533 11.1576 3.97525 11.1576 3.97529L5.47935 7.25362C5.47926 7.25367 5.47944 7.25356 5.47935 7.25362C5.46041 7.26457 5.44146 7.27602 5.42306 7.28764L7.81196 8.66977L14.386 4.86672L12.842 3.97529C12.3208 3.67494 11.6788 3.67502 11.1576 3.97529ZM15.8853 5.73232L9.30965 9.53628L12.0028 11.0944L18.5798 7.28968C18.5604 7.27738 18.5407 7.26544 18.5207 7.25387L15.8853 5.73232ZM20.3585 6.99364C20.0885 6.57249 19.7188 6.21395 19.2711 5.95509L13.5915 2.67594C12.6067 2.10844 11.3935 2.10813 10.4087 2.67562L4.7289 5.95484C3.74538 6.52357 3.1377 7.57376 3.1377 8.7118V15.2696C3.1377 16.4064 3.74472 17.4577 4.72909 18.0257L10.408 21.3044C10.408 21.3044 10.4081 21.3044 10.408 21.3044C10.8436 21.556 11.3238 21.6963 11.8091 21.7254C11.8701 21.7415 11.9341 21.75 12.0002 21.75C12.0663 21.75 12.1304 21.7414 12.1915 21.7254C12.6765 21.6961 13.1562 21.5558 13.5915 21.3045C13.5915 21.3045 13.5915 21.3045 13.5915 21.3045L19.2705 18.0257C20.2549 17.4577 20.8619 16.4064 20.8619 15.2696V8.7118C20.8619 8.16524 20.7218 7.63901 20.4673 7.17664C20.4549 7.147 20.4405 7.11781 20.424 7.08926C20.4043 7.05523 20.3824 7.02334 20.3585 6.99364ZM19.3562 8.5734L12.7502 12.395V20.0545C12.781 20.0392 12.8114 20.0228 12.8414 20.0055L18.5207 16.7265C19.0405 16.4266 19.3619 15.8705 19.3619 15.2696V8.7118C19.3619 8.66536 19.36 8.6192 19.3562 8.5734ZM11.2502 20.0549V12.392L8.55236 10.8311V12.2817C8.55236 12.6959 8.21658 13.0317 7.80236 13.0317C7.38815 13.0317 7.05236 12.6959 7.05236 12.2817V9.96326L4.64369 8.56968C4.63971 8.6167 4.6377 8.6641 4.6377 8.7118V15.2696C4.6377 15.8705 4.95888 16.4265 5.47872 16.7264L11.1581 20.0054C11.1884 20.0229 11.2191 20.0394 11.2502 20.0549Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 1 — bold style variants.
+class _DeliveryDeliveryBox1Bold {
+  const _DeliveryDeliveryBox1Bold();
+
+  /// Delivery Box 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0522 9.38002C9.92219 9.45879 9.92408 9.64801 10.0556 9.72415L12.7031 11.257C12.7961 11.3108 12.9108 11.3108 13.0037 11.257L20.4545 6.94299C20.5653 6.87886 20.5885 6.7282 20.4956 6.64015C20.3442 6.49674 20.1788 6.36689 19.9944 6.25899L17.6398 4.90297C17.5767 4.86659 17.4987 4.86746 17.4364 4.90524L10.0522 9.38002Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.18081 8.63861C8.24405 8.67524 8.32224 8.67447 8.38474 8.63658L15.763 4.16443C15.8931 4.08556 15.891 3.89605 15.7592 3.8201L14.3184 2.99002C13.4114 2.46002 12.2844 2.46102 11.3844 2.98902L5.70137 6.26002C5.51989 6.36678 5.35664 6.49481 5.20694 6.63618C5.11377 6.72417 5.13676 6.87508 5.24765 6.93932L8.18081 8.63861Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.746 12.5606C13.6533 12.6143 13.5963 12.7132 13.5963 12.8203V21.2134C13.5963 21.3447 13.7209 21.4404 13.8443 21.3957C14.0061 21.3371 14.1638 21.2637 14.3153 21.1753L19.9983 17.9043C20.9013 17.3753 21.4623 16.4013 21.4623 15.3623V8.80231C21.4623 8.66895 21.449 8.5377 21.4277 8.40813C21.4059 8.27553 21.2568 8.21137 21.1405 8.27871L13.746 12.5606Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0963 12.8122C12.0963 12.7052 12.0393 12.6063 11.9466 12.5526L9.33153 11.0382C9.1982 10.9609 9.0313 11.0571 9.0313 11.2112V12.5593C9.0313 12.9733 8.6953 13.3093 8.2813 13.3093C7.8673 13.3093 7.5313 12.9733 7.5313 12.5593V10.1106C7.5313 10.0392 7.49327 9.97327 7.43151 9.93751L4.55829 8.27416C4.44224 8.20698 4.29356 8.27076 4.27193 8.4031C4.25048 8.53438 4.2373 8.66744 4.2373 8.80228V15.3623C4.2373 16.4003 4.7983 17.3743 5.7053 17.9053L11.3813 21.1743C11.5315 21.2616 11.6879 21.335 11.8481 21.3937C11.9715 21.439 12.0963 21.3433 12.0963 21.2118V12.8122Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 1 — light style variants.
+class _DeliveryDeliveryBox1Light {
+  const _DeliveryDeliveryBox1Light();
+
+  /// Delivery Box 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.8877 8.7118V15.2696C3.8877 16.1385 4.3518 16.9421 5.1039 17.3761L10.7831 20.655C11.5362 21.0899 12.4634 21.0899 13.2165 20.655L18.8957 17.3761C19.6478 16.9421 20.1119 16.1385 20.1119 15.2696V8.7118C20.1119 7.84197 19.6478 7.03927 18.8957 6.60435L13.2165 3.32546C12.4634 2.89151 11.5362 2.89151 10.7831 3.32546L5.1039 6.60435C4.3518 7.03927 3.8877 7.84197 3.8877 8.7118Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.7756 7.46484L12.0035 11.9609L4.23242 7.46484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 20.9998V11.9541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.5748 5.0459L7.80273 9.54198V12.2818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 2 icon with style variants.
+class _DeliveryDeliveryBox2Icon {
+  const _DeliveryDeliveryBox2Icon();
+
+  /// broken style
+  _DeliveryDeliveryBox2Broken get broken => const _DeliveryDeliveryBox2Broken();
+}
+
+/// Delivery Box 2 — broken style variants.
+class _DeliveryDeliveryBox2Broken {
+  const _DeliveryDeliveryBox2Broken();
+
+  /// Delivery Box 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2917 19.6634C12.2703 18.9473 11.67 18.383 10.949 18.4044C10.229 18.4258 9.66278 19.0232 9.68418 19.7393C9.70461 20.4564 10.3059 21.0197 11.0259 20.9993C11.7459 20.9779 12.3131 20.3795 12.2917 19.6634Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.93164 14.8521L10.4245 18.538" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.8125 6.73975L5.89367 7.35077L8.01058 12.5774" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2012 19.2162L20.1892 16.0142" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2457 15.9364C13.3097 16.2984 12.4642 15.8654 12.1003 14.9314L11.4581 13.2501C11.0933 12.316 11.4212 11.4316 12.361 11.0687L15.0484 10.0315C15.9883 9.6686 16.8299 10.1025 17.1938 11.0366L17.8369 12.7179C18.2008 13.6519 17.8739 14.5363 16.934 14.8993" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.4488 9.03262C10.5128 9.39457 9.6673 8.9616 9.30342 8.02755L8.66126 6.34627C8.2964 5.41223 8.62429 4.5278 9.56417 4.16489L12.2515 3.12771C13.1914 2.7648 14.033 3.19874 14.3969 4.13278L15.04 5.81406C15.4039 6.74713 15.077 7.63253 14.1371 7.99544" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 3 icon with style variants.
+class _DeliveryDeliveryBox3Icon {
+  const _DeliveryDeliveryBox3Icon();
+
+  /// broken style
+  _DeliveryDeliveryBox3Broken get broken => const _DeliveryDeliveryBox3Broken();
+}
+
+/// Delivery Box 3 — broken style variants.
+class _DeliveryDeliveryBox3Broken {
+  const _DeliveryDeliveryBox3Broken();
+
+  /// Delivery Box 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2917 19.6634C12.2703 18.9473 11.67 18.383 10.949 18.4044C10.229 18.4258 9.66278 19.0232 9.68418 19.7393C9.70461 20.4564 10.3059 21.0197 11.0259 20.9993C11.7459 20.9779 12.3131 20.3795 12.2917 19.6634Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.15918 12.9443L10.4247 18.5379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.8125 6.73975L5.89367 7.35077L7.02644 10.1475" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2012 19.2162L20.1892 16.0142" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3668 9.12218L14.8969 5.52634C14.533 4.59229 13.6914 4.15835 12.7515 4.52127L10.0642 5.55844C9.12429 5.92136 8.7964 6.80578 9.16126 7.73983L12.1001 14.9315C12.464 15.8656 13.3095 16.2985 14.2455 15.9366L16.9338 14.8994C17.8736 14.5365 18.2006 13.6521 17.8367 12.718L17.284 11.366" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.79 7.67282L12.9653 7.21924" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 4 icon with style variants.
+class _DeliveryDeliveryBox4Icon {
+  const _DeliveryDeliveryBox4Icon();
+
+  /// broken style
+  _DeliveryDeliveryBox4Broken get broken => const _DeliveryDeliveryBox4Broken();
+}
+
+/// Delivery Box 4 — broken style variants.
+class _DeliveryDeliveryBox4Broken {
+  const _DeliveryDeliveryBox4Broken();
+
+  /// Delivery Box 4 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8202 19.3341C11.9011 18.5219 11.3057 17.7962 10.488 17.7145C9.67143 17.633 8.94397 18.2248 8.86303 19.037C8.78086 19.8502 9.3775 20.5749 10.194 20.6575C11.0105 20.739 11.7392 20.1463 11.8202 19.3341Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.1377 3.48779L6.35834 4.4946L8.36028 11.966" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.02734 14.4565L9.9171 17.7771" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.7969 18.8619L20.1635 16.6201" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.51953 8.65477L14.0978 6.89213C14.7056 6.72928 15.3303 7.08996 15.4931 7.69774L16.129 10.0707" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7646 12.4434L18.0363 17.1892" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 5 icon with style variants.
+class _DeliveryDeliveryBox5Icon {
+  const _DeliveryDeliveryBox5Icon();
+
+  /// broken style
+  _DeliveryDeliveryBox5Broken get broken => const _DeliveryDeliveryBox5Broken();
+}
+
+/// Delivery Box 5 — broken style variants.
+class _DeliveryDeliveryBox5Broken {
+  const _DeliveryDeliveryBox5Broken();
+
+  /// Delivery Box 5 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9615 15.2696C20.9615 16.1385 20.4974 16.9421 19.7453 17.3761L14.0661 20.655C13.313 21.0899 12.3858 21.0899 11.6327 20.655L5.95351 17.3761C5.20141 16.9421 4.7373 16.1385 4.7373 15.2696V8.7118C4.7373 7.84197 5.20141 7.03927 5.95351 6.60435L11.6327 3.32546C12.3858 2.89151 13.313 2.89151 14.0661 3.32546L19.7453 6.60435C20.4974 7.03927 20.9615 7.84197 20.9615 8.7118V11.9907" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.07422 7.46484L12.8463 11.9609L20.6174 7.46484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8516 17.2965V11.9541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 6 icon with style variants.
+class _DeliveryDeliveryBox6Icon {
+  const _DeliveryDeliveryBox6Icon();
+
+  /// bold style
+  _DeliveryDeliveryBox6Bold get bold => const _DeliveryDeliveryBox6Bold();
+}
+
+/// Delivery Box 6 — bold style variants.
+class _DeliveryDeliveryBox6Bold {
+  const _DeliveryDeliveryBox6Bold();
+
+  /// Delivery Box 6 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0048 20.1264C10.7448 20.1244 10.4418 19.9014 10.4338 19.5934C10.4268 19.3794 10.5468 19.1974 10.7208 19.1004C10.7358 19.0944 10.7458 19.0824 10.7598 19.0754C10.8238 19.0464 10.8938 19.0284 10.9688 19.0244H10.9838C11.2788 19.0244 11.5318 19.2654 11.5408 19.5574C11.5498 19.8624 11.3088 20.1174 11.0048 20.1264ZM20.8848 15.6054C20.7298 15.2214 20.2888 15.0354 19.9088 15.1894L12.4748 18.1774C12.0838 17.7664 11.5308 17.5104 10.9168 17.5254C10.9028 17.5264 10.8888 17.5314 10.8748 17.5314L6.58784 6.9444C6.50184 6.7314 6.32284 6.5704 6.10384 6.5054L4.02284 5.8964C3.62184 5.7794 3.20784 6.0074 3.09184 6.4044C2.97584 6.8024 3.20284 7.2184 3.60084 7.3354L5.33384 7.8434L9.51184 18.1614C9.14084 18.5464 8.91684 19.0684 8.93384 19.6374C8.96584 20.7454 9.88184 21.6264 10.9898 21.6264C11.0088 21.6264 11.0268 21.6264 11.0468 21.6254C12.1608 21.5934 13.0398 20.6754 13.0368 19.5674L20.4678 16.5814C20.8528 16.4274 21.0388 15.9904 20.8848 15.6054Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1817 10.4789C11.6177 10.6949 11.2027 11.0739 10.9807 11.5749C10.7517 12.0929 10.7557 12.7079 10.9907 13.3039L11.6327 14.9859C11.9917 15.9119 12.7427 16.4409 13.5997 16.4409C13.8677 16.4409 14.1457 16.3889 14.4257 16.2819L17.1117 15.2419C17.6757 15.0269 18.0897 14.6479 18.3117 14.1479C18.5397 13.6299 18.5367 13.0139 18.3027 12.4169L17.6597 10.7349C17.1907 9.52392 16.0467 8.98992 14.8667 9.43892L12.1817 10.4789Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.83605 8.08779C9.19605 9.00579 9.94705 9.53179 10.802 9.53179C11.069 9.53179 11.348 9.47979 11.627 9.37279L14.3151 8.34279C14.3151 8.34279 14.317 8.34179 14.319 8.34079C15.486 7.88179 15.975 6.71479 15.5061 5.50679L14.8621 3.82379C14.626 3.22079 14.2101 2.76379 13.6901 2.53679C13.1901 2.31779 12.628 2.31979 12.071 2.53879L9.38005 3.56979C8.21205 4.02979 7.72405 5.19679 8.19305 6.40379L8.83605 8.08779Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 7 icon with style variants.
+class _DeliveryDeliveryBox7Icon {
+  const _DeliveryDeliveryBox7Icon();
+
+  /// bold style
+  _DeliveryDeliveryBox7Bold get bold => const _DeliveryDeliveryBox7Bold();
+}
+
+/// Delivery Box 7 — bold style variants.
+class _DeliveryDeliveryBox7Bold {
+  const _DeliveryDeliveryBox7Bold();
+
+  /// Delivery Box 7 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0088 19.4243H10.9888C10.6888 19.4243 10.4388 19.1943 10.4288 18.8943C10.4188 18.6963 10.5278 18.5283 10.6848 18.4183C10.6918 18.4153 10.6978 18.4163 10.7048 18.4143C10.7048 18.4143 10.7068 18.4143 10.7088 18.4143C10.7388 18.3943 10.7588 18.3743 10.7888 18.3643C10.8488 18.3443 10.9088 18.3243 10.9688 18.3243H10.9788C11.1988 18.3243 11.3988 18.4643 11.4888 18.6543C11.4988 18.6643 11.4988 18.6643 11.4988 18.6743C11.5188 18.7343 11.5388 18.7943 11.5388 18.8643C11.5488 19.1643 11.3088 19.4243 11.0088 19.4243ZM20.8848 14.9093C20.7288 14.5243 20.2878 14.3383 19.9088 14.4933L12.4678 17.4833C12.0778 17.0643 11.5078 16.8143 10.9188 16.8243H10.8708L6.58784 6.24726C6.50184 6.03526 6.32284 5.87326 6.10284 5.80926L4.02184 5.19926C3.62284 5.08226 3.20784 5.31026 3.09184 5.70726C2.97584 6.10526 3.20284 6.52126 3.60084 6.63826L5.33384 7.14626L9.51084 17.4623L9.50884 17.4643C9.13884 17.8543 8.90884 18.3743 8.92884 18.9443C8.96884 20.0443 9.87884 20.9243 10.9888 20.9243H11.0488C12.1588 20.8943 13.0388 19.9743 13.0388 18.8743V18.8693L20.4678 15.8843C20.8528 15.7303 21.0388 15.2933 20.8848 14.9093Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.519 6.1445L12.699 5.69449C13.089 5.55449 13.519 5.74449 13.669 6.13449C13.809 6.51449 13.619 6.95449 13.229 7.09449L12.059 7.54449C11.969 7.5845 11.879 7.59449 11.789 7.59449C11.489 7.59449 11.199 7.41449 11.089 7.11449C10.939 6.73449 11.129 6.29449 11.519 6.1445ZM11.629 14.2945C11.999 15.2145 12.749 15.7445 13.599 15.7445C13.869 15.7445 14.149 15.6945 14.429 15.5845L17.109 14.5445C17.679 14.3345 18.089 13.9545 18.309 13.4545C18.539 12.9345 18.539 12.3145 18.299 11.7045L15.359 4.52449C14.889 3.31449 13.749 2.78449 12.569 3.23449L9.88897 4.27449C9.31897 4.48449 8.90897 4.86449 8.68897 5.36449C8.45897 5.87449 8.45897 6.4945 8.69897 7.1045L11.629 14.2945Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 8 icon with style variants.
+class _DeliveryDeliveryBox8Icon {
+  const _DeliveryDeliveryBox8Icon();
+
+  /// bold style
+  _DeliveryDeliveryBox8Bold get bold => const _DeliveryDeliveryBox8Bold();
+}
+
+/// Delivery Box 8 — bold style variants.
+class _DeliveryDeliveryBox8Bold {
+  const _DeliveryDeliveryBox8Bold();
+
+  /// Delivery Box 8 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0048 20.1264C10.7448 20.1244 10.4418 19.9014 10.4338 19.5934C10.4268 19.3794 10.5468 19.1974 10.7208 19.1004C10.7358 19.0944 10.7458 19.0824 10.7598 19.0754C10.8238 19.0464 10.8938 19.0284 10.9688 19.0244H10.9838C11.2788 19.0244 11.5318 19.2654 11.5408 19.5574C11.5498 19.8624 11.3088 20.1174 11.0048 20.1264ZM20.8848 15.6054C20.7298 15.2214 20.2888 15.0354 19.9088 15.1894L12.4748 18.1774C12.0838 17.7664 11.5308 17.5104 10.9168 17.5254C10.9028 17.5264 10.8888 17.5314 10.8748 17.5314L6.58784 6.9444C6.50184 6.7314 6.32284 6.5704 6.10384 6.5054L4.02284 5.8964C3.62184 5.7794 3.20784 6.0074 3.09184 6.4044C2.97584 6.8024 3.20284 7.2184 3.60084 7.3354L5.33384 7.8434L9.51184 18.1614C9.14084 18.5464 8.91684 19.0684 8.93384 19.6374C8.96584 20.7454 9.88184 21.6264 10.9898 21.6264C11.0088 21.6264 11.0268 21.6264 11.0468 21.6254C12.1608 21.5934 13.0398 20.6754 13.0368 19.5674L20.4678 16.5814C20.8528 16.4274 21.0388 15.9904 20.8848 15.6054Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1817 10.4789C11.6177 10.6949 11.2027 11.0739 10.9807 11.5749C10.7517 12.0929 10.7557 12.7079 10.9907 13.3039L11.6327 14.9859C11.9917 15.9119 12.7427 16.4409 13.5997 16.4409C13.8677 16.4409 14.1457 16.3889 14.4257 16.2819L17.1117 15.2419C17.6757 15.0269 18.0897 14.6479 18.3117 14.1479C18.5397 13.6299 18.5367 13.0139 18.3027 12.4169L17.6597 10.7349C17.1907 9.52392 16.0467 8.98992 14.8667 9.43892L12.1817 10.4789Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.83605 8.08779C9.19605 9.00579 9.94705 9.53179 10.802 9.53179C11.069 9.53179 11.348 9.47979 11.627 9.37279L14.3151 8.34279C14.3151 8.34279 14.317 8.34179 14.319 8.34079C15.486 7.88179 15.975 6.71479 15.5061 5.50679L14.8621 3.82379C14.626 3.22079 14.2101 2.76379 13.6901 2.53679C13.1901 2.31779 12.628 2.31979 12.071 2.53879L9.38005 3.56979C8.21205 4.02979 7.72405 5.19679 8.19305 6.40379L8.83605 8.08779Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 9 icon with style variants.
+class _DeliveryDeliveryBox9Icon {
+  const _DeliveryDeliveryBox9Icon();
+
+  /// bold style
+  _DeliveryDeliveryBox9Bold get bold => const _DeliveryDeliveryBox9Bold();
+}
+
+/// Delivery Box 9 — bold style variants.
+class _DeliveryDeliveryBox9Bold {
+  const _DeliveryDeliveryBox9Bold();
+
+  /// Delivery Box 9 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 9',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5953 11.396C12.7503 11.4857 12.9414 11.4857 13.0964 11.396L20.4551 7.13524C20.616 7.0421 20.6554 6.82528 20.5241 6.69375C20.3665 6.53595 20.1926 6.39359 19.9948 6.27807L14.3188 3.00907C13.4118 2.47907 12.2848 2.48007 11.3828 3.00807L5.70084 6.27907C5.50337 6.39545 5.32942 6.53835 5.17172 6.69685C5.04078 6.82844 5.08032 7.04488 5.24098 7.1379L12.5953 11.396Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8523 12.6919C13.6979 12.7813 13.6028 12.9462 13.6028 13.1246V21.1007C13.6028 21.2978 13.7904 21.4414 13.9723 21.3655C14.0898 21.3165 14.2049 21.2594 14.3168 21.1943L19.9988 17.9233C20.9018 17.3933 21.4618 16.4203 21.4618 15.3813V8.82134C21.4618 8.79677 21.461 8.77235 21.4596 8.74805C21.4475 8.54007 21.205 8.4348 21.0247 8.53918L13.8523 12.6919Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1028 13.1324C12.1028 12.954 12.0077 12.7891 11.8533 12.6997L4.67446 8.54276C4.49429 8.43843 4.25159 8.54347 4.23982 8.75133C4.23851 8.77449 4.23779 8.79775 4.23779 8.82113V15.3811C4.23779 16.4201 4.79879 17.3951 5.70479 17.9241L11.3808 21.1931C11.4953 21.2596 11.6133 21.3179 11.734 21.3678C11.9159 21.443 12.1028 21.2994 12.1028 21.1026V13.1324Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 10 icon with style variants.
+class _DeliveryDeliveryBox10Icon {
+  const _DeliveryDeliveryBox10Icon();
+
+  /// bulk style
+  _DeliveryDeliveryBox10Bulk get bulk => const _DeliveryDeliveryBox10Bulk();
+}
+
+/// Delivery Box 10 — bulk style variants.
+class _DeliveryDeliveryBox10Bulk {
+  const _DeliveryDeliveryBox10Bulk();
+
+  /// Delivery Box 10 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0046 20.1264C10.7446 20.1244 10.4416 19.9014 10.4336 19.5934C10.4266 19.3794 10.5466 19.1974 10.7206 19.1004C10.7356 19.0944 10.7456 19.0824 10.7596 19.0754C10.8236 19.0464 10.8936 19.0284 10.9686 19.0244H10.9836C11.2786 19.0244 11.5316 19.2654 11.5406 19.5574C11.5496 19.8624 11.3086 20.1174 11.0046 20.1264ZM20.8846 15.6054C20.7296 15.2214 20.2886 15.0354 19.9086 15.1894L12.4746 18.1774C12.0836 17.7664 11.5306 17.5104 10.9166 17.5254C10.9026 17.5264 10.8886 17.5314 10.8746 17.5314L6.58759 6.9444C6.50159 6.7314 6.32259 6.5704 6.10359 6.5054L4.02259 5.8964C3.62159 5.7794 3.20759 6.0074 3.09159 6.4044C2.97559 6.8024 3.20259 7.2184 3.60059 7.3354L5.33359 7.8434L9.51159 18.1614C9.14059 18.5464 8.91659 19.0684 8.93359 19.6374C8.96559 20.7454 9.88159 21.6264 10.9896 21.6264C11.0086 21.6264 11.0266 21.6264 11.0466 21.6254C12.1606 21.5934 13.0396 20.6754 13.0366 19.5674L20.4676 16.5814C20.8526 16.4274 21.0386 15.9904 20.8846 15.6054Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1814 10.4784C11.6174 10.6944 11.2024 11.0734 10.9804 11.5744C10.7514 12.0924 10.7554 12.7074 10.9904 13.3034L11.6324 14.9854C11.9914 15.9114 12.7424 16.4404 13.5994 16.4404C13.8674 16.4404 14.1454 16.3884 14.4254 16.2814L17.1114 15.2414C17.6754 15.0264 18.0894 14.6474 18.3114 14.1474C18.5394 13.6294 18.5364 13.0134 18.3024 12.4164L17.6594 10.7344C17.1904 9.52343 16.0464 8.98943 14.8664 9.43843L12.1814 10.4784Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.83581 8.0873C9.19581 9.0053 9.94681 9.5313 10.8018 9.5313C11.0688 9.5313 11.3478 9.4793 11.6268 9.3723L14.3148 8.3423C14.3148 8.3423 14.3168 8.3413 14.3188 8.3403C15.4858 7.8813 15.9748 6.7143 15.5058 5.5063L14.8618 3.8233C14.6258 3.2203 14.2098 2.7633 13.6898 2.5363C13.1898 2.3173 12.6278 2.3193 12.0708 2.5383L9.37981 3.5693C8.21181 4.0293 7.72381 5.1963 8.19281 6.4033L8.83581 8.0873Z" fill="black"/> </g> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 11 icon with style variants.
+class _DeliveryDeliveryBox11Icon {
+  const _DeliveryDeliveryBox11Icon();
+
+  /// bulk style
+  _DeliveryDeliveryBox11Bulk get bulk => const _DeliveryDeliveryBox11Bulk();
+}
+
+/// Delivery Box 11 — bulk style variants.
+class _DeliveryDeliveryBox11Bulk {
+  const _DeliveryDeliveryBox11Bulk();
+
+  /// Delivery Box 11 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 11',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.2157 17.8985C11.8582 17.3509 11.2637 16.9643 10.5621 16.8942C10.5331 16.8913 10.5042 16.889 10.4753 16.8872L8.00684 7.67462L13.9022 6.08779C14.9152 5.82479 15.9502 6.42379 16.2192 7.42879L18.5672 16.1928C18.5672 16.1928 21.6012 15.3837 12.2157 17.8985Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.45432 3.1026C3.62536 2.72535 4.06984 2.55818 4.44709 2.72922L6.66773 3.73603C6.87219 3.82873 7.02437 4.00814 7.08248 4.22499L10.4753 16.8871C10.5041 16.8889 10.533 16.8912 10.562 16.8941C11.2637 16.9642 11.8581 17.3508 12.2157 17.8984L19.9688 15.821C20.3689 15.7138 20.7802 15.9512 20.8874 16.3513C20.9946 16.7514 20.7571 17.1627 20.357 17.2699L12.5635 19.3582C12.4293 20.5744 11.3357 21.4512 10.119 21.3297L10.118 21.3296C8.89433 21.2058 7.99232 20.1178 8.1163 18.8881C8.18249 18.2254 8.53277 17.6617 9.03364 17.3024L5.72537 4.95575L3.8277 4.09537C3.45044 3.92433 3.28328 3.47985 3.45432 3.1026ZM10.1112 18.426C10.0931 18.4308 10.075 18.4349 10.0569 18.4384C9.81451 18.5383 9.63611 18.7639 9.60886 19.0373L9.60875 19.0383C9.56871 19.4346 9.85965 19.7955 10.2685 19.8372C10.6768 19.8777 11.034 19.5813 11.0734 19.1856C11.113 18.7883 10.8214 18.4275 10.413 18.3867C10.3404 18.3795 10.2694 18.3829 10.2015 18.3956C10.1724 18.4074 10.1423 18.4176 10.1112 18.426Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 12 icon with style variants.
+class _DeliveryDeliveryBox12Icon {
+  const _DeliveryDeliveryBox12Icon();
+
+  /// bulk style
+  _DeliveryDeliveryBox12Bulk get bulk => const _DeliveryDeliveryBox12Bulk();
+}
+
+/// Delivery Box 12 — bulk style variants.
+class _DeliveryDeliveryBox12Bulk {
+  const _DeliveryDeliveryBox12Bulk();
+
+  /// Delivery Box 12 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 12',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.852 12.6921C13.6976 12.7815 13.6025 12.9464 13.6025 13.1248V21.1008C13.6025 21.298 13.7901 21.4416 13.9721 21.3656C14.0896 21.3166 14.2046 21.2596 14.3165 21.1945L19.9985 17.9235C20.9015 17.3935 21.4615 16.4205 21.4615 15.3815V8.8215C21.4615 8.79693 21.4608 8.7725 21.4594 8.7482C21.4473 8.54023 21.2047 8.43496 21.0245 8.53934L13.852 12.6921Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1025 13.1325C12.1025 12.9541 12.0075 12.7892 11.8531 12.6998L4.67421 8.54292C4.49405 8.43859 4.25134 8.54363 4.23958 8.75149C4.23827 8.77465 4.23755 8.79791 4.23755 8.82128V15.3813C4.23755 16.4203 4.79855 17.3953 5.70455 17.9243L11.3805 21.1933C11.4951 21.2598 11.6131 21.3181 11.7338 21.3679C11.9156 21.4431 12.1025 21.2996 12.1025 21.1028V13.1325Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5953 11.3955C12.7503 11.4852 12.9414 11.4852 13.0964 11.3955L20.4551 7.13475C20.616 7.04162 20.6554 6.82479 20.5241 6.69326C20.3665 6.53546 20.1926 6.3931 19.9949 6.27758L14.3189 3.00858C13.4119 2.47858 12.2849 2.47958 11.3829 3.00758L5.70087 6.27858C5.5034 6.39496 5.32945 6.53786 5.17175 6.69636C5.04081 6.82795 5.08035 7.04439 5.24101 7.13741L12.5953 11.3955Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 13 icon with style variants.
+class _DeliveryDeliveryBox13Icon {
+  const _DeliveryDeliveryBox13Icon();
+
+  /// bulk style
+  _DeliveryDeliveryBox13Bulk get bulk => const _DeliveryDeliveryBox13Bulk();
+}
+
+/// Delivery Box 13 — bulk style variants.
+class _DeliveryDeliveryBox13Bulk {
+  const _DeliveryDeliveryBox13Bulk();
+
+  /// Delivery Box 13 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 13',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.2157 17.8985C11.8582 17.3509 11.2637 16.9643 10.5621 16.8942C10.5331 16.8913 10.5042 16.889 10.4753 16.8872L8.00684 7.67462L13.9022 6.08779C14.9152 5.82479 15.9502 6.42379 16.2192 7.42879L18.5672 16.1928C18.5672 16.1928 21.6012 15.3837 12.2157 17.8985Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.45432 3.1026C3.62536 2.72535 4.06984 2.55818 4.44709 2.72922L6.66773 3.73603C6.87219 3.82873 7.02437 4.00814 7.08248 4.22499L10.4753 16.8871C10.5041 16.8889 10.533 16.8912 10.562 16.8941C11.2637 16.9642 11.8581 17.3508 12.2157 17.8984L19.9688 15.821C20.3689 15.7138 20.7802 15.9512 20.8874 16.3513C20.9946 16.7514 20.7571 17.1627 20.357 17.2699L12.5635 19.3582C12.4293 20.5744 11.3357 21.4512 10.119 21.3297L10.118 21.3296C8.89433 21.2058 7.99232 20.1178 8.1163 18.8881C8.18249 18.2254 8.53277 17.6617 9.03364 17.3024L5.72537 4.95575L3.8277 4.09537C3.45044 3.92433 3.28328 3.47985 3.45432 3.1026ZM10.1112 18.426C10.0931 18.4308 10.075 18.4349 10.0569 18.4384C9.81451 18.5383 9.63611 18.7639 9.60886 19.0373L9.60875 19.0383C9.56871 19.4346 9.85965 19.7955 10.2685 19.8372C10.6768 19.8777 11.034 19.5813 11.0734 19.1856C11.113 18.7883 10.8214 18.4275 10.413 18.3867C10.3404 18.3795 10.2694 18.3829 10.2015 18.3956C10.1724 18.4074 10.1423 18.4176 10.1112 18.426Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 14 icon with style variants.
+class _DeliveryDeliveryBox14Icon {
+  const _DeliveryDeliveryBox14Icon();
+
+  /// light style
+  _DeliveryDeliveryBox14Light get light => const _DeliveryDeliveryBox14Light();
+}
+
+/// Delivery Box 14 — light style variants.
+class _DeliveryDeliveryBox14Light {
+  const _DeliveryDeliveryBox14Light();
+
+  /// Delivery Box 14 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 14',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2922 19.6636C12.2708 18.9475 11.6705 18.3832 10.9495 18.4046C10.2295 18.426 9.66326 19.0234 9.68467 19.7395C9.7051 20.4566 10.3064 21.0199 11.0264 20.9995C11.7464 20.9781 12.3136 20.3797 12.2922 19.6636Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.8125 6.73975L5.89367 7.35077L10.4248 18.5379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2012 19.2162L20.1892 16.0142" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.934 14.8993L14.2457 15.9364C13.3097 16.2984 12.4642 15.8654 12.1003 14.9314L11.4581 13.2501C11.0933 12.316 11.4212 11.4316 12.361 11.0687L15.0484 10.0315C15.9883 9.6686 16.8299 10.1025 17.1938 11.0366L17.8369 12.7179C18.2008 13.6519 17.8739 14.5363 16.934 14.8993Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1371 7.99544L11.4488 9.03262C10.5128 9.39457 9.6673 8.9616 9.30342 8.02755L8.66126 6.34627C8.2964 5.41223 8.62429 4.5278 9.56417 4.16489L12.2515 3.12771C13.1914 2.7648 14.033 3.19874 14.3969 4.13278L15.04 5.81406C15.4039 6.74713 15.077 7.63253 14.1371 7.99544Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 15 icon with style variants.
+class _DeliveryDeliveryBox15Icon {
+  const _DeliveryDeliveryBox15Icon();
+
+  /// light style
+  _DeliveryDeliveryBox15Light get light => const _DeliveryDeliveryBox15Light();
+}
+
+/// Delivery Box 15 — light style variants.
+class _DeliveryDeliveryBox15Light {
+  const _DeliveryDeliveryBox15Light();
+
+  /// Delivery Box 15 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 15',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.1119 8.7118V15.2696C20.1119 16.1385 19.6478 16.9421 18.8957 17.3761L13.2165 20.655C12.4634 21.0899 11.5362 21.0899 10.7831 20.655L5.1039 17.3761C4.3518 16.9421 3.8877 16.1385 3.8877 15.2696V8.7118C3.8877 7.84197 4.3518 7.03927 5.1039 6.60435L10.7831 3.32546C11.5362 2.89151 12.4634 2.89151 13.2165 3.32546L18.8957 6.60435C19.6478 7.03927 20.1119 7.84197 20.1119 8.7118Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.22461 7.46484L11.9967 11.9609L19.7677 7.46484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 20.9998V11.9541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 16 icon with style variants.
+class _DeliveryDeliveryBox16Icon {
+  const _DeliveryDeliveryBox16Icon();
+
+  /// light style
+  _DeliveryDeliveryBox16Light get light => const _DeliveryDeliveryBox16Light();
+}
+
+/// Delivery Box 16 — light style variants.
+class _DeliveryDeliveryBox16Light {
+  const _DeliveryDeliveryBox16Light();
+
+  /// Delivery Box 16 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 16',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2922 19.6636C12.2708 18.9475 11.6705 18.3832 10.9495 18.4046C10.2295 18.426 9.66326 19.0234 9.68467 19.7395C9.7051 20.4566 10.3064 21.0199 11.0264 20.9995C11.7464 20.9781 12.3136 20.3797 12.2922 19.6636Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.8125 6.73975L5.89367 7.35077L10.4248 18.5379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2012 19.2162L20.1892 16.0142" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.9338 14.8992L14.2455 15.9364C13.3095 16.2984 12.464 15.8654 12.1001 14.9313L9.16126 7.73964C8.7964 6.8056 9.12429 5.92118 10.0642 5.55826L12.7515 4.52108C13.6914 4.15817 14.533 4.59211 14.8969 5.52615L17.8367 12.7178C18.2006 13.6519 17.8736 14.5363 16.9338 14.8992Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.7905 7.67261L12.9658 7.21902" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 17 icon with style variants.
+class _DeliveryDeliveryBox17Icon {
+  const _DeliveryDeliveryBox17Icon();
+
+  /// light style
+  _DeliveryDeliveryBox17Light get light => const _DeliveryDeliveryBox17Light();
+}
+
+/// Delivery Box 17 — light style variants.
+class _DeliveryDeliveryBox17Light {
+  const _DeliveryDeliveryBox17Light();
+
+  /// Delivery Box 17 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 17',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.1119 8.7118V15.2696C20.1119 16.1385 19.6478 16.9421 18.8957 17.3761L13.2165 20.655C12.4634 21.0899 11.5362 21.0899 10.7831 20.655L5.1039 17.3761C4.3518 16.9421 3.8877 16.1385 3.8877 15.2696V8.7118C3.8877 7.84197 4.3518 7.03927 5.1039 6.60435L10.7831 3.32546C11.5362 2.89151 12.4634 2.89151 13.2165 3.32546L18.8957 6.60435C19.6478 7.03927 20.1119 7.84197 20.1119 8.7118Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.22461 7.46484L11.9967 11.9609L19.7677 7.46484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 20.9998V11.9541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 18 icon with style variants.
+class _DeliveryDeliveryBox18Icon {
+  const _DeliveryDeliveryBox18Icon();
+
+  /// outline style
+  _DeliveryDeliveryBox18Outline get outline => const _DeliveryDeliveryBox18Outline();
+}
+
+/// Delivery Box 18 — outline style variants.
+class _DeliveryDeliveryBox18Outline {
+  const _DeliveryDeliveryBox18Outline();
+
+  /// Delivery Box 18 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 18',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.2143 3.81957C13.0474 3.73918 12.8194 3.71226 12.5213 3.82737L9.83395 4.86454C9.83392 4.86456 9.83399 4.86453 9.83395 4.86454C9.53556 4.97979 9.3868 5.15211 9.31907 5.32083C9.2484 5.49686 9.23369 5.75136 9.35948 6.07339L9.36154 6.07866L10.0027 7.75744C10.1277 8.07695 10.3117 8.25625 10.4862 8.34015C10.6543 8.421 10.8826 8.44731 11.1779 8.3331L13.8666 7.29579C13.8665 7.29582 13.8666 7.29577 13.8666 7.29579C14.1645 7.18071 14.3132 7.0084 14.381 6.83941C14.4517 6.66294 14.4663 6.40816 14.3409 6.08656L14.3391 6.08203L13.6977 4.40504C13.6974 4.40439 13.6972 4.40375 13.6969 4.40311C13.5715 4.08234 13.3878 3.90317 13.2143 3.81957ZM13.8653 2.46821C14.4382 2.74419 14.8569 3.24846 15.0953 3.86053L15.097 3.86482L15.7393 5.54386C15.9769 6.15467 16.0096 6.80823 15.7732 7.39771C15.5335 7.99539 15.0487 8.44727 14.4069 8.6951L11.7189 9.73214C11.0784 9.97967 10.4156 9.9706 9.8362 9.69201C9.26339 9.4166 8.84309 8.91301 8.6042 8.29981L8.60239 8.29516L7.96119 6.61634C7.72312 6.00513 7.69039 5.3515 7.92706 4.76199C8.16701 4.16427 8.65222 3.7129 9.29364 3.46524L11.981 2.42806C11.9809 2.42807 11.981 2.42804 11.981 2.42806C12.6227 2.18029 13.2855 2.18886 13.8653 2.46821ZM3.09234 6.52855C3.20902 6.13111 3.6258 5.90352 4.02324 6.0202L6.10441 6.63122C6.32412 6.69573 6.50232 6.85706 6.58828 7.06929L10.8766 17.657C10.8934 17.6561 10.9102 17.6554 10.9271 17.6549C11.5364 17.6368 12.0926 17.8854 12.4816 18.2954L19.9089 15.3182C20.2934 15.1641 20.73 15.3508 20.8841 15.7353C21.0383 16.1198 20.8515 16.5564 20.467 16.7105L13.0426 19.6866C13.0516 20.8005 12.1633 21.716 11.0485 21.7491L11.0475 21.7492C9.91841 21.7812 8.96749 20.8969 8.93485 19.7614C8.91781 19.1862 9.13987 18.6613 9.51025 18.2792L5.33406 7.96836L3.60068 7.45945C3.20325 7.34277 2.97565 6.92599 3.09234 6.52855ZM10.6914 19.2388C10.5308 19.3395 10.4283 19.5189 10.4342 19.7171L10.4342 19.7181C10.4427 20.0165 10.6943 20.2586 11.005 20.2498C11.3146 20.24 11.5513 19.9835 11.5424 19.686C11.5335 19.3867 11.2815 19.1451 10.9717 19.1542C10.9127 19.156 10.8565 19.1667 10.804 19.1848C10.7729 19.203 10.7401 19.2192 10.7058 19.2331C10.701 19.2351 10.6962 19.2369 10.6914 19.2388ZM16.0116 10.7234C15.8447 10.643 15.6167 10.6161 15.3185 10.7312L12.6312 11.7684C12.6312 11.7684 12.6313 11.7684 12.6312 11.7684C12.3328 11.8836 12.1841 12.056 12.1163 12.2247C12.0457 12.4007 12.031 12.6552 12.1567 12.9772L12.1588 12.9825L12.8 14.6612C12.925 14.9808 13.1089 15.1601 13.2835 15.244C13.4516 15.3249 13.6798 15.3512 13.9752 15.237L16.6638 14.1996C16.6638 14.1997 16.6639 14.1996 16.6638 14.1996C16.962 14.0845 17.1106 13.9123 17.1783 13.7436C17.249 13.5673 17.2636 13.3125 17.1381 12.9902L17.1364 12.9859L16.4949 11.3089C16.4947 11.3082 16.4944 11.3076 16.4942 11.3069C16.3687 10.9862 16.1851 10.807 16.0116 10.7234ZM16.6626 9.37207C17.2354 9.64804 17.6542 10.1523 17.8926 10.7644L17.8943 10.7687L18.5357 12.4457C18.536 12.4464 18.5363 12.4472 18.5366 12.448C18.7741 13.059 18.8069 13.7125 18.5704 14.302C18.3307 14.8997 17.8457 15.3512 17.2041 15.599L14.5162 16.636C13.8755 16.8837 13.2131 16.8745 12.6335 16.5959C12.0607 16.3205 11.6404 15.8169 11.4015 15.2037L11.3997 15.199L10.7585 13.5202C10.5204 12.909 10.4877 12.2554 10.7243 11.6658C10.9643 11.0681 11.4495 10.6168 12.0909 10.3691L14.7782 9.33191C15.42 9.08411 16.0827 9.0927 16.6626 9.37207Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 19 icon with style variants.
+class _DeliveryDeliveryBox19Icon {
+  const _DeliveryDeliveryBox19Icon();
+
+  /// outline style
+  _DeliveryDeliveryBox19Outline get outline => const _DeliveryDeliveryBox19Outline();
+}
+
+/// Delivery Box 19 — outline style variants.
+class _DeliveryDeliveryBox19Outline {
+  const _DeliveryDeliveryBox19Outline();
+
+  /// Delivery Box 19 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 19',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9273 17.6549C12.0594 17.6213 13.008 18.5083 13.0419 19.6412C13.0758 20.7755 12.1786 21.7155 11.0487 21.7491L11.0477 21.7492C9.91857 21.7812 8.96766 20.8969 8.935 19.7614C8.90136 18.6273 9.79747 17.6885 10.9272 17.6549L10.9273 17.6549ZM8.935 19.7614C8.93499 19.7612 8.93499 19.761 8.93498 19.7608L9.68468 19.7395L8.93501 19.7619C8.93501 19.7617 8.935 19.7616 8.935 19.7614ZM10.9718 19.1542C10.6618 19.1635 10.4254 19.4192 10.4343 19.7171L10.4344 19.7181C10.4429 20.0163 10.6942 20.2583 11.0046 20.2498C11.3145 20.2403 11.5515 19.9837 11.5426 19.686C11.5336 19.3867 11.2816 19.1451 10.9718 19.1542" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.09283 6.52847C3.20951 6.13103 3.62629 5.90344 4.02373 6.02012L6.1049 6.63114C6.3246 6.69565 6.50281 6.85698 6.58877 7.06921L11.1199 18.2563C11.2754 18.6403 11.0902 19.0775 10.7063 19.233C10.3223 19.3885 9.88506 19.2034 9.72956 18.8194L5.33455 7.96828L3.60117 7.45937C3.20373 7.34269 2.97614 6.92591 3.09283 6.52847Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.8853 15.7351C21.0394 16.1196 20.8527 16.5562 20.4682 16.7103L12.4802 19.9123C12.0957 20.0665 11.6591 19.8797 11.505 19.4952C11.3509 19.1108 11.5376 18.6741 11.9221 18.52L19.9101 15.318C20.2946 15.1639 20.7312 15.3506 20.8853 15.7351Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7149 5.21295C13.5481 5.13256 13.32 5.10564 13.0219 5.22075L10.3346 6.25793C10.3346 6.25794 10.3346 6.25791 10.3346 6.25793C10.0362 6.37317 9.88745 6.5455 9.81972 6.71421C9.74941 6.88935 9.73449 7.14215 9.85821 7.46184L12.7993 14.6591C12.9243 14.9799 13.1086 15.1599 13.2835 15.244C13.4516 15.3248 13.6799 15.3511 13.9752 15.2369L16.6639 14.1996C16.962 14.0844 17.1106 13.9122 17.1783 13.7435C17.2486 13.5683 17.2635 13.3153 17.1402 12.9954L14.1982 5.79846C14.0728 5.47648 13.8888 5.29672 13.7149 5.21295ZM15.5936 5.24772C15.3547 4.63844 14.9369 4.13664 14.366 3.86159C13.7861 3.58224 13.1235 3.57363 12.4817 3.8214C12.4817 3.82141 12.4818 3.82138 12.4817 3.8214L9.7944 4.85858C9.15298 5.10625 8.66767 5.55765 8.42771 6.15537C8.19068 6.74579 8.22387 7.40052 8.46294 8.01254L11.4039 15.2098C11.6432 15.8202 12.0626 16.3213 12.6335 16.5958C13.2131 16.8745 13.8756 16.8837 14.5162 16.6359L17.204 15.599C17.8456 15.3512 18.3307 14.8997 18.5705 14.302C18.8073 13.7117 18.7741 13.0573 18.5358 12.4456L15.5936 5.24772Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6652 6.94896C13.8143 7.33539 13.622 7.76956 13.2355 7.91871L12.0603 8.37229C11.6739 8.52144 11.2397 8.32908 11.0905 7.94265C10.9414 7.55622 11.1338 7.12205 11.5202 6.9729L12.6954 6.51932C13.0819 6.37017 13.516 6.56253 13.6652 6.94896Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 20 icon with style variants.
+class _DeliveryDeliveryBox20Icon {
+  const _DeliveryDeliveryBox20Icon();
+
+  /// outline style
+  _DeliveryDeliveryBox20Outline get outline => const _DeliveryDeliveryBox20Outline();
+}
+
+/// Delivery Box 20 — outline style variants.
+class _DeliveryDeliveryBox20Outline {
+  const _DeliveryDeliveryBox20Outline();
+
+  /// Delivery Box 20 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 20',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.96659 18.9623C8.08926 17.734 9.1878 16.8461 10.4123 16.9684L10.4123 16.9684C11.6393 17.0909 12.5386 18.1814 12.4163 19.4085C12.2939 20.6371 11.1939 21.5262 9.96927 21.4039L9.96826 21.4038C8.74461 21.28 7.84261 20.192 7.96659 18.9623ZM10.2633 18.4609C9.85482 18.4202 9.49859 18.7157 9.45914 19.1115L9.45904 19.1126C9.419 19.5088 9.70994 19.8698 10.1187 19.9114C10.5271 19.9519 10.8843 19.6555 10.9237 19.2598C10.9633 18.8625 10.6717 18.5017 10.2633 18.4609" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.30412 3.17818C3.47516 2.80093 3.91963 2.63376 4.29688 2.8048L6.51753 3.81161C6.72199 3.90431 6.87417 4.08372 6.93227 4.30057L10.4913 17.583C10.5985 17.9831 10.3611 18.3943 9.96095 18.5015C9.56085 18.6087 9.1496 18.3713 9.0424 17.9712L5.57517 5.03132L3.67749 4.17095C3.30024 3.99991 3.13308 3.55543 3.30412 3.17818Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9219 19.0558C10.8147 18.6557 11.0521 18.2445 11.4522 18.1373L19.8188 15.8954C20.2189 15.7882 20.6302 16.0257 20.7374 16.4258C20.8446 16.8259 20.6072 17.2371 20.2071 17.3443L11.8405 19.5862C11.4404 19.6934 11.0291 19.4559 10.9219 19.0558Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6187 7.89174C14.5631 7.68407 14.3496 7.56082 14.1419 7.61647L7.56369 9.37911C7.16359 9.48631 6.75233 9.24888 6.64513 8.84878C6.53792 8.44868 6.77536 8.03742 7.17546 7.93022L13.7537 6.16758C14.7616 5.89752 15.7976 6.49564 16.0676 7.50351L18.6109 16.9952C18.7181 17.3953 18.4807 17.8066 18.0806 17.9138C17.6805 18.021 17.2692 17.7836 17.162 17.3835L14.6187 7.89174Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 21 icon with style variants.
+class _DeliveryDeliveryBox21Icon {
+  const _DeliveryDeliveryBox21Icon();
+
+  /// outline style
+  _DeliveryDeliveryBox21Outline get outline => const _DeliveryDeliveryBox21Outline();
+}
+
+/// Delivery Box 21 — outline style variants.
+class _DeliveryDeliveryBox21Outline {
+  const _DeliveryDeliveryBox21Outline();
+
+  /// Delivery Box 21 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 21',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.4087 2.67562C11.3935 2.10813 12.6061 2.10813 13.591 2.67562L19.2707 5.95484C20.2542 6.52357 20.8619 7.57376 20.8619 8.7118V15.2696C20.8619 16.4064 20.2549 17.4577 19.2705 18.0257L13.5916 21.3044C13.5916 21.3044 13.5916 21.3044 13.5916 21.3044C13.1563 21.5558 12.6765 21.6961 12.1915 21.7254C12.1304 21.7414 12.0663 21.75 12.0002 21.75C11.9341 21.75 11.8701 21.7415 11.8091 21.7254C11.3238 21.6963 10.8437 21.556 10.4081 21.3045C10.4081 21.3045 10.4081 21.3045 10.4081 21.3045L4.72909 18.0257C3.74472 17.4577 3.1377 16.4064 3.1377 15.2696V8.7118C3.1377 8.16744 3.27663 7.64324 3.52923 7.18221C3.54212 7.15065 3.5573 7.1196 3.57486 7.08926C3.59553 7.05352 3.61871 7.02012 3.64403 6.98916C3.91375 6.56994 4.2824 6.21303 4.72846 5.95509L10.4087 2.67562ZM4.64334 8.57382C4.6396 8.61948 4.6377 8.6655 4.6377 8.7118V15.2696C4.6377 15.8705 4.95888 16.4265 5.47872 16.7264L11.1581 20.0054C11.1884 20.0229 11.2191 20.0394 11.2502 20.0549V12.3958L4.64334 8.57382ZM12.7502 12.3911V20.0545C12.781 20.0392 12.8114 20.0228 12.8414 20.0055L18.5207 16.7265C19.0405 16.4266 19.3619 15.8705 19.3619 15.2696V8.7118C19.3619 8.66396 19.3599 8.61642 19.3559 8.56926L12.7502 12.3911ZM18.5762 7.28741C18.558 7.27591 18.5395 7.26473 18.5207 7.25387L12.842 3.97529C12.3208 3.67494 11.679 3.6749 11.1578 3.97518C11.1577 3.97522 11.1578 3.97514 11.1578 3.97518L5.47935 7.25362C5.47926 7.25367 5.47944 7.25356 5.47935 7.25362C5.45918 7.26528 5.43904 7.27749 5.41948 7.28991L11.9961 11.0944L18.5762 7.28741Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 22 icon with style variants.
+class _DeliveryDeliveryBox22Icon {
+  const _DeliveryDeliveryBox22Icon();
+
+  /// twoTone style
+  _DeliveryDeliveryBox22Twotone get twoTone => const _DeliveryDeliveryBox22Twotone();
+}
+
+/// Delivery Box 22 — twoTone style variants.
+class _DeliveryDeliveryBox22Twotone {
+  const _DeliveryDeliveryBox22Twotone();
+
+  /// Delivery Box 22 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 22',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2917 19.6634C12.2703 18.9473 11.67 18.383 10.949 18.4044C10.229 18.4258 9.66278 19.0232 9.68418 19.7393C9.70461 20.4564 10.3059 21.0197 11.0259 20.9993C11.7459 20.9779 12.3131 20.3795 12.2917 19.6634Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.8125 6.73975L5.89367 7.35077L10.4248 18.5379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2012 19.2162L20.1892 16.0142" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.934 14.8993L14.2457 15.9364C13.3097 16.2984 12.4642 15.8654 12.1003 14.9314L11.4581 13.2501C11.0933 12.316 11.4212 11.4316 12.361 11.0687L15.0484 10.0315C15.9883 9.6686 16.8299 10.1025 17.1938 11.0366L17.8369 12.7179C18.2008 13.6519 17.8739 14.5363 16.934 14.8993Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.1371 7.99544L11.4488 9.03262C10.5128 9.39457 9.6673 8.9616 9.30342 8.02755L8.66126 6.34627C8.2964 5.41223 8.62429 4.5278 9.56417 4.16489L12.2515 3.12771C13.1914 2.7648 14.033 3.19874 14.3969 4.13278L15.04 5.81406C15.4039 6.74713 15.077 7.63253 14.1371 7.99544Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 23 icon with style variants.
+class _DeliveryDeliveryBox23Icon {
+  const _DeliveryDeliveryBox23Icon();
+
+  /// twoTone style
+  _DeliveryDeliveryBox23Twotone get twoTone => const _DeliveryDeliveryBox23Twotone();
+}
+
+/// Delivery Box 23 — twoTone style variants.
+class _DeliveryDeliveryBox23Twotone {
+  const _DeliveryDeliveryBox23Twotone();
+
+  /// Delivery Box 23 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 23',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6698 19.334C11.7507 18.5218 11.1553 17.7962 10.3376 17.7145C9.52101 17.633 8.79355 18.2248 8.71262 19.037C8.63044 19.8502 9.22709 20.5749 10.0435 20.6575C10.8601 20.739 11.5888 20.1462 11.6698 19.334Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.9873 3.48779L6.20795 4.4946L9.76696 17.777" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6465 18.8618L20.0131 16.62" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.36957 8.65466L13.9478 6.89202C14.5556 6.72917 15.1803 7.08985 15.3432 7.69763L17.8865 17.1894" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 24 icon with style variants.
+class _DeliveryDeliveryBox24Icon {
+  const _DeliveryDeliveryBox24Icon();
+
+  /// twoTone style
+  _DeliveryDeliveryBox24Twotone get twoTone => const _DeliveryDeliveryBox24Twotone();
+}
+
+/// Delivery Box 24 — twoTone style variants.
+class _DeliveryDeliveryBox24Twotone {
+  const _DeliveryDeliveryBox24Twotone();
+
+  /// Delivery Box 24 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 24',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2921 19.6636C12.2707 18.9475 11.6704 18.3832 10.9494 18.4046C10.2294 18.426 9.66314 19.0234 9.68455 19.7395C9.70498 20.4565 10.3063 21.0199 11.0263 20.9995C11.7463 20.9781 12.3135 20.3797 12.2921 19.6636Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.8125 6.73975L5.89367 7.35077L10.4248 18.5379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2012 19.2162L20.1892 16.0142" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.9339 14.8992L14.2456 15.9364C13.3096 16.2984 12.4642 15.8654 12.1003 14.9314L9.16144 7.73966C8.79658 6.80561 9.12447 5.92119 10.0644 5.55828L12.7517 4.5211C13.6916 4.15818 14.5332 4.59212 14.8971 5.52617L17.8369 12.7179C18.2007 13.6519 17.8738 14.5363 16.9339 14.8992Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.7903 7.67259L12.9656 7.21901" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box 25 icon with style variants.
+class _DeliveryDeliveryBox25Icon {
+  const _DeliveryDeliveryBox25Icon();
+
+  /// twoTone style
+  _DeliveryDeliveryBox25Twotone get twoTone => const _DeliveryDeliveryBox25Twotone();
+}
+
+/// Delivery Box 25 — twoTone style variants.
+class _DeliveryDeliveryBox25Twotone {
+  const _DeliveryDeliveryBox25Twotone();
+
+  /// Delivery Box 25 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box 25',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2917 19.6634C12.2703 18.9473 11.67 18.383 10.949 18.4044C10.229 18.4258 9.66278 19.0232 9.68418 19.7393C9.70461 20.4564 10.3059 21.0197 11.0259 20.9993C11.7459 20.9779 12.3131 20.3795 12.2917 19.6634Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.8125 6.73975L5.89367 7.35077L10.4248 18.5379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2012 19.2162L20.1892 16.0142" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.934 14.8993L14.2457 15.9364C13.3097 16.2984 12.4642 15.8654 12.1003 14.9314L11.4581 13.2501C11.0933 12.316 11.4212 11.4316 12.361 11.0687L15.0484 10.0315C15.9883 9.6686 16.8299 10.1025 17.1938 11.0366L17.8369 12.7179C18.2008 13.6519 17.8739 14.5363 16.934 14.8993Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.1371 7.99544L11.4488 9.03262C10.5128 9.39457 9.6673 8.9616 9.30342 8.02755L8.66126 6.34627C8.2964 5.41223 8.62429 4.5278 9.56417 4.16489L12.2515 3.12771C13.1914 2.7648 14.033 3.19874 14.3969 4.13278L15.04 5.81406C15.4039 6.74713 15.077 7.63253 14.1371 7.99544Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -725,6 +1609,114 @@ class _DeliveryDeliveryClockTimeLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delivery Clock Time',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.7816 10.2776L20.7631 7.96283C20.7563 5.05648 18.9417 3.00734 16.0314 3.01415L7.70837 3.03361C4.80688 3.04042 2.99321 5.09832 3.00002 8.00467L3.01851 15.8471C3.02532 18.7544 4.83996 20.8035 7.75021 20.7967L11.1684 20.7772" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2009 20.9868C19.2987 20.9868 21.0005 19.285 21.0005 17.1863C21.0005 15.0875 19.2987 13.3857 17.2009 13.3857C15.1022 13.3857 13.4004 15.0875 13.4004 17.1863C13.4004 19.285 15.1022 20.9868 17.2009 20.9868Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2012 17.1869L18.2364 16.2148" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6846 3.01318L14.7011 9.60234L11.9028 8.68967L9.08883 9.61888L9.08008 3.03751" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Clock Time 1 icon with style variants.
+class _DeliveryDeliveryClockTime1Icon {
+  const _DeliveryDeliveryClockTime1Icon();
+
+  /// bold style
+  _DeliveryDeliveryClockTime1Bold get bold => const _DeliveryDeliveryClockTime1Bold();
+  /// bulk style
+  _DeliveryDeliveryClockTime1Bulk get bulk => const _DeliveryDeliveryClockTime1Bulk();
+  /// light style
+  _DeliveryDeliveryClockTime1Light get light => const _DeliveryDeliveryClockTime1Light();
+  /// outline style
+  _DeliveryDeliveryClockTime1Outline get outline => const _DeliveryDeliveryClockTime1Outline();
+  /// twoTone style
+  _DeliveryDeliveryClockTime1Twotone get twoTone => const _DeliveryDeliveryClockTime1Twotone();
+  /// broken style
+  _DeliveryDeliveryClockTime1Broken get broken => const _DeliveryDeliveryClockTime1Broken();
+}
+
+/// Delivery Clock Time 1 — bulk style variants.
+class _DeliveryDeliveryClockTime1Bulk {
+  const _DeliveryDeliveryClockTime1Bulk();
+
+  /// Delivery Clock Time 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Clock Time 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.7369 11.1989C19.5862 11.1989 20.3939 11.3653 21.1369 11.6634C21.343 11.7461 21.5763 11.5994 21.5758 11.3773L21.5669 7.36889C21.5569 5.72889 21.0069 4.27889 20.0169 3.28889C19.0769 2.35889 17.7869 1.85889 16.2969 1.85889H15.9577C15.7917 1.85889 15.6572 1.99365 15.6577 2.15962L15.6769 9.99889C15.6769 10.2389 15.5669 10.4689 15.3669 10.6089C15.1769 10.7489 14.9269 10.7889 14.6969 10.7189L12.0969 9.86889L9.48691 10.7289C9.40691 10.7589 9.32691 10.7689 9.24691 10.7689C9.08691 10.7689 8.93691 10.7189 8.80691 10.6289C8.61691 10.4889 8.49691 10.2589 8.49691 10.0189L8.48728 2.17852C8.48708 2.01298 8.35282 1.87889 8.18728 1.87889H7.84691C4.70691 1.88889 2.58691 4.10889 2.58691 7.38889V7.40889L2.60691 15.3489C2.60691 16.9389 3.09691 18.3089 4.02691 19.2989C4.98691 20.3189 6.30691 20.8589 7.86691 20.8589H7.89691L12.5366 20.8499C12.7654 20.8494 12.9112 20.6021 12.8155 20.3942C12.439 19.5761 12.2269 18.6658 12.2269 17.6989C12.2269 14.1089 15.1469 11.1989 18.7369 11.1989Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8599 8.36854C12.0099 8.31854 12.1729 8.31754 12.3269 8.36754L14.1749 8.96854L14.1625 2.16664C14.1622 2.00092 14.0276 1.86683 13.8618 1.86719L10.2876 1.87489C10.1221 1.87525 9.9881 2.00967 9.98828 2.17523L9.99594 8.98354L11.8599 8.36854Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.6734 20.6417C17.0524 20.6417 15.7344 19.3227 15.7344 17.7017C15.7344 16.0797 17.0524 14.7617 18.6734 14.7617C20.2944 14.7617 21.6124 16.0797 21.6124 17.7017C21.6124 19.3227 20.2944 20.6417 18.6734 20.6417ZM18.6734 13.2617C16.2254 13.2617 14.2344 15.2527 14.2344 17.7017C14.2344 20.1497 16.2254 22.1417 18.6734 22.1417C21.1214 22.1417 23.1124 20.1497 23.1124 17.7017C23.1124 15.2527 21.1214 13.2617 18.6734 13.2617Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.2017 18.0163L19.4037 17.5433V16.4713C19.4037 16.0573 19.0677 15.7213 18.6537 15.7213C18.2397 15.7213 17.9037 16.0573 17.9037 16.4713V17.9713C17.9037 18.2363 18.0437 18.4813 18.2717 18.6173L19.4377 19.3073C19.5567 19.3783 19.6887 19.4123 19.8187 19.4123C20.0757 19.4123 20.3247 19.2803 20.4657 19.0443C20.6767 18.6873 20.5577 18.2273 20.2017 18.0163Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Clock Time 1 — broken style variants.
+class _DeliveryDeliveryClockTime1Broken {
+  const _DeliveryDeliveryClockTime1Broken();
+
+  /// Delivery Clock Time 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Clock Time 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.86719 15.7402C3.87362 18.5198 5.60912 20.4793 8.39235 20.4729L12.1352 20.4546" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.8548 10.4134L20.8373 8.1995C20.8309 5.41994 19.0945 3.46038 16.3122 3.46681L8.35183 3.48518C5.57778 3.49161 3.8432 5.45943 3.84963 8.2399L3.85835 11.9901" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.0239 6.46782L15.0395 9.76889L12.3637 8.89655L9.67233 9.7845L9.66406 3.4917" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1602 20.5334C20.1979 20.5334 21.8498 18.8815 21.8498 16.8438C21.8498 14.8062 20.1979 13.1543 18.1602 13.1543C16.1226 13.1543 14.4707 14.8062 14.4707 16.8438C14.4707 18.8815 16.1226 20.5334 18.1602 20.5334Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.3068 17.8034L18.1406 17.1064V15.6069" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Clock Time 1 — twoTone style variants.
+class _DeliveryDeliveryClockTime1Twotone {
+  const _DeliveryDeliveryClockTime1Twotone();
+
+  /// Delivery Clock Time 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Clock Time 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.0052 10.4134L19.9877 8.19945C19.9813 5.41989 18.2449 3.46034 15.4626 3.46676L7.50222 3.48513C4.72817 3.49156 2.99359 5.45938 3.00002 8.23985L3.01746 15.7402C3.02389 18.5197 4.75939 20.4793 7.54262 20.4728L11.2854 20.4545" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.1743 3.46777L14.1899 9.76884L11.5141 8.89649L8.82272 9.78445L8.81445 3.49165" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3106 20.5334C19.3482 20.5334 21.0002 18.8815 21.0002 16.8438C21.0002 14.8062 19.3482 13.1543 17.3106 13.1543C15.273 13.1543 13.6211 14.8062 13.6211 16.8438C13.6211 18.8815 15.273 20.5334 17.3106 20.5334Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.4572 17.8034L17.291 17.1064V15.6069" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Clock Time 1 — outline style variants.
+class _DeliveryDeliveryClockTime1Outline {
+  const _DeliveryDeliveryClockTime1Outline();
+
+  /// Delivery Clock Time 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Clock Time 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.7377 8.19551C20.7377 8.19625 20.7377 8.19698 20.7377 8.19771L20.7552 10.4074C20.7584 10.8216 20.4253 11.1601 20.0111 11.1633C19.5969 11.1666 19.2585 10.8335 19.2552 10.4193L19.2378 8.20536L19.2377 8.20118C19.2349 6.96631 18.8496 5.97533 18.2184 5.30078C17.5929 4.63224 16.6702 4.21397 15.4643 4.21676L14.927 4.218L14.9408 9.76685C14.9414 10.0074 14.8266 10.2336 14.6321 10.3751C14.4376 10.5167 14.187 10.5563 13.9583 10.4818L11.5164 9.68567L9.05856 10.4966C8.83017 10.5719 8.57949 10.5332 8.38451 10.3924C8.18953 10.2516 8.07389 10.0258 8.07358 9.7853L8.06629 4.23383L7.50396 4.23513C7.50396 4.23513 7.50395 4.23513 7.50395 4.23513C6.30269 4.23791 5.38186 4.66015 4.75826 5.33231C4.12922 6.01035 3.74716 7.00354 3.75002 8.23811C3.75002 8.23811 3.75002 8.23811 3.75002 8.23812L3.76746 15.7384C3.77032 16.9734 4.15544 17.9644 4.78644 18.6389C5.41167 19.3072 6.33407 19.7255 7.54017 19.7228C7.54041 19.7228 7.54065 19.7228 7.54089 19.7228L11.2817 19.7045C11.696 19.7025 12.0334 20.0366 12.0354 20.4508C12.0375 20.865 11.7033 21.2024 11.2891 21.2045L7.5463 21.2228L7.54436 21.2228C5.96758 21.2265 4.63086 20.6682 3.69105 19.6636C2.75688 18.6651 2.27104 17.2865 2.26747 15.7419L2.25002 8.2416L2.25002 8.24158C2.24645 6.69568 2.72846 5.31473 3.65862 4.31213C4.59422 3.30366 5.9277 2.73877 7.50048 2.73513H7.50049L14.117 2.71987C14.1356 2.71844 14.1544 2.71769 14.1733 2.71765C14.1923 2.7176 14.2112 2.71826 14.2298 2.7196L15.4608 2.71676C17.0372 2.71312 18.3739 3.27143 19.3138 4.27595C20.2476 5.27398 20.7337 6.65172 20.7377 8.19551ZM13.427 4.22146L13.4382 8.73451L11.7475 8.1833C11.5955 8.13377 11.4318 8.13406 11.28 8.18413L9.57222 8.74756L9.56629 4.23037L13.427 4.22146ZM17.3105 13.9042C15.6871 13.9042 14.3709 15.2203 14.3709 16.8437C14.3709 18.4671 15.6871 19.7833 17.3105 19.7833C18.9338 19.7833 20.25 18.4671 20.25 16.8437C20.25 15.2203 18.9338 13.9042 17.3105 13.9042ZM12.8709 16.8437C12.8709 14.3919 14.8586 12.4042 17.3105 12.4042C19.7623 12.4042 21.75 14.3919 21.75 16.8437C21.75 19.2955 19.7623 21.2833 17.3105 21.2833C14.8586 21.2833 12.8709 19.2955 12.8709 16.8437ZM17.2903 14.8567C17.7046 14.8567 18.0403 15.1925 18.0403 15.6067V16.6807L18.8413 17.1594C19.1968 17.3719 19.3128 17.8324 19.1003 18.1879C18.8878 18.5435 18.4273 18.6595 18.0718 18.447L16.9056 17.75C16.679 17.6146 16.5403 17.3701 16.5403 17.1062V15.6067C16.5403 15.1925 16.8761 14.8567 17.2903 14.8567Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Clock Time 1 — bold style variants.
+class _DeliveryDeliveryClockTime1Bold {
+  const _DeliveryDeliveryClockTime1Bold();
+
+  /// Delivery Clock Time 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Clock Time 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.86 8.36833C12.01 8.31833 12.173 8.31733 12.327 8.36733L14.175 8.96833L14.1626 2.16643C14.1623 2.00071 14.0277 1.86662 13.8619 1.86698L10.2877 1.87469C10.1222 1.87504 9.98819 2.00946 9.98837 2.17502L9.99604 8.98333L11.86 8.36833Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7369 11.1989C19.5862 11.1989 20.3939 11.3653 21.1369 11.6634C21.343 11.7461 21.5763 11.5994 21.5758 11.3773L21.5669 7.36889C21.5569 5.72889 21.0069 4.27889 20.0169 3.28889C19.0769 2.35889 17.7869 1.85889 16.2969 1.85889H15.9577C15.7917 1.85889 15.6572 1.99365 15.6577 2.15962L15.6769 9.99889C15.6769 10.2389 15.5669 10.4689 15.3669 10.6089C15.1769 10.7489 14.9269 10.7889 14.6969 10.7189L12.0969 9.86889L9.48691 10.7289C9.40691 10.7589 9.32691 10.7689 9.24691 10.7689C9.08691 10.7689 8.93691 10.7189 8.80691 10.6289C8.61691 10.4889 8.49691 10.2589 8.49691 10.0189L8.48728 2.17852C8.48708 2.01298 8.35282 1.87889 8.18728 1.87889H7.84691C4.70691 1.88889 2.58691 4.10889 2.58691 7.38889V7.40889L2.60691 15.3489C2.60691 16.9389 3.09691 18.3089 4.02691 19.2989C4.98691 20.3189 6.30691 20.8589 7.86691 20.8589H7.89691L12.5366 20.8499C12.7654 20.8494 12.9112 20.6021 12.8155 20.3942C12.439 19.5761 12.2269 18.6658 12.2269 17.6989C12.2269 14.1089 15.1469 11.1989 18.7369 11.1989Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.6735 20.6415C17.0525 20.6415 15.7345 19.3225 15.7345 17.7015C15.7345 16.0795 17.0525 14.7615 18.6735 14.7615C20.2945 14.7615 21.6125 16.0795 21.6125 17.7015C21.6125 19.3225 20.2945 20.6415 18.6735 20.6415ZM18.6735 13.2615C16.2255 13.2615 14.2345 15.2525 14.2345 17.7015C14.2345 20.1495 16.2255 22.1415 18.6735 22.1415C21.1215 22.1415 23.1125 20.1495 23.1125 17.7015C23.1125 15.2525 21.1215 13.2615 18.6735 13.2615Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.2018 18.0161L19.4038 17.5431V16.4711C19.4038 16.0571 19.0678 15.7211 18.6538 15.7211C18.2398 15.7211 17.9038 16.0571 17.9038 16.4711V17.9711C17.9038 18.2361 18.0438 18.4811 18.2718 18.6171L19.4378 19.3071C19.5568 19.3781 19.6888 19.4121 19.8188 19.4121C20.0758 19.4121 20.3248 19.2801 20.4658 19.0441C20.6768 18.6871 20.5578 18.2271 20.2018 18.0161Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Clock Time 1 — light style variants.
+class _DeliveryDeliveryClockTime1Light {
+  const _DeliveryDeliveryClockTime1Light();
+
+  /// Delivery Clock Time 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Clock Time 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.0052 10.4134L19.9877 8.19945C19.9813 5.41989 18.2449 3.46034 15.4626 3.46676L7.50222 3.48513C4.72817 3.49156 2.99359 5.45938 3.00002 8.23985L3.01746 15.7402C3.02389 18.5197 4.75939 20.4793 7.54262 20.4728L11.2854 20.4545" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1743 3.46777L14.1899 9.76884L11.5141 8.89649L8.82272 9.78445L8.81445 3.49165" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3106 20.5334C19.3482 20.5334 21.0002 18.8815 21.0002 16.8438C21.0002 14.8062 19.3482 13.1543 17.3106 13.1543C15.273 13.1543 13.6211 14.8062 13.6211 16.8438C13.6211 18.8815 15.273 20.5334 17.3106 20.5334Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.4572 17.8034L17.291 17.1064V15.6069" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -1297,7 +2289,7 @@ class _DeliveryTruckRemoveCloseBulk {
   /// Truck remove close — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Truck remove close',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.919 17.4381H18.75C18.499 16.5701 17.811 15.8921 16.942 15.6421V10.1581L19.291 11.1961C19.872 11.4481 20.248 12.0251 20.248 12.6681H18.596C18.182 12.6681 17.846 13.0041 17.846 13.4181C17.846 13.8321 18.182 14.1681 18.596 14.1681H20.248V16.1081C20.248 16.8411 19.651 17.4381 18.919 17.4381ZM5.88195 18.2121V18.1931C5.88195 17.5531 6.41195 17.0321 7.05195 17.0321C7.67195 17.0321 8.18195 17.5121 8.22195 18.1331V18.1421C8.21195 18.1621 8.21195 18.1731 8.21195 18.1931C8.21195 18.2121 8.21195 18.2221 8.22195 18.2421V18.2521C8.22195 18.2621 8.22195 18.2621 8.21195 18.2721V18.2821C8.17195 18.8831 7.66195 19.3631 7.05195 19.3631C6.42195 19.3631 5.89195 18.8431 5.88195 18.2121ZM15.072 18.4921C15.042 18.3921 15.032 18.2921 15.032 18.1931C15.032 17.8431 15.192 17.5221 15.442 17.3131C15.642 17.1331 15.902 17.0321 16.192 17.0321C16.482 17.0321 16.742 17.1331 16.942 17.3031C17.2 17.5111 17.359 17.8271 17.361 18.1841L17.36 18.1881C17.36 18.1881 17.362 18.1921 17.362 18.1951C17.361 18.8341 16.841 19.3631 16.192 19.3631C15.652 19.3631 15.202 18.9921 15.072 18.4921ZM19.892 9.82211L16.942 8.51811V7.99211C16.942 6.43211 15.672 5.16211 14.112 5.16211H13.3187C13.1003 5.16211 12.9557 5.38801 13.0303 5.59324C13.0685 5.69797 13.1028 5.80426 13.132 5.91211C13.212 6.16211 13.272 6.41211 13.302 6.66211C13.372 7.01211 13.402 7.37311 13.402 7.73211C13.402 11.2421 10.542 14.0931 7.04195 14.0931C5.84195 14.0931 4.71195 13.7621 3.75195 13.1731C3.48195 13.0221 3.24195 12.8431 3.00195 12.6531C2.93561 12.5966 2.87048 12.5389 2.80655 12.4801C2.60304 12.2929 2.25195 12.4298 2.25195 12.7063V16.1131C2.25195 17.4621 3.20195 18.5931 4.47195 18.8731C4.78195 20.0121 5.81195 20.8631 7.05195 20.8631C8.26195 20.8631 9.28195 20.0531 9.61195 18.9431H13.642C13.962 20.0531 14.982 20.8631 16.192 20.8631C17.402 20.8631 18.422 20.0531 18.752 18.9431C18.753 18.9411 18.753 18.9381 18.753 18.9381H18.919C20.479 18.9381 21.748 17.6681 21.748 16.1081V12.6681C21.748 11.4271 21.018 10.3091 19.892 9.82211Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M6.87875 3.13672C4.33775 3.13672 2.27075 5.20472 2.27075 7.74672C2.27075 10.2827 4.33775 12.3467 6.87875 12.3467C9.41875 12.3467 11.4858 10.2827 11.4858 7.74672C11.4858 5.20472 9.41875 3.13672 6.87875 3.13672Z" fill="black"/> <path d="M8.42868 9.29856C8.72168 9.00556 8.72168 8.53056 8.42868 8.23756L7.93968 7.74856L8.43068 7.25656C8.72368 6.96356 8.72368 6.48856 8.43068 6.19556C8.13768 5.90356 7.66268 5.90356 7.36968 6.19556L6.87868 6.68756L6.38768 6.19656C6.09468 5.90456 5.61968 5.90456 5.32668 6.19656C5.03368 6.48956 5.03368 6.96456 5.32668 7.25756L5.81768 7.74856L5.32668 8.23856C5.03368 8.53156 5.03368 9.00656 5.32668 9.29956C5.47368 9.44556 5.66468 9.51956 5.85768 9.51956C6.04968 9.51956 6.24068 9.44556 6.38768 9.29956L6.87868 8.80856L7.36768 9.29856C7.66068 9.59156 8.13568 9.59156 8.42868 9.29856Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.25 11.6644H18.599C18.185 11.6644 17.849 12.0004 17.849 12.4144C17.849 12.8284 18.185 13.1644 18.599 13.1644H20.25V15.1004C20.25 15.8404 19.66 16.4304 18.92 16.4304H18.76C18.7592 16.4276 18.7584 16.4249 18.7576 16.4221L18.7563 16.4273C18.8268 16.6667 18.8647 16.9201 18.8647 17.1823C18.8647 17.445 18.8267 17.6987 18.756 17.9384L18.7573 17.9396C18.7582 17.9365 18.7591 17.9335 18.76 17.9304H18.92C20.48 17.9304 21.75 16.6604 21.75 15.1004V11.6604C21.75 10.4204 21.02 9.30039 19.9 8.82039L16.95 7.52039V6.98039C16.95 5.42039 15.68 4.15039 14.12 4.15039H5.05C3.51 4.15039 2.25 5.41039 2.25 6.95039V15.1004C2.25 16.4477 3.20624 17.5859 4.47254 17.8588C4.41606 17.6428 4.38599 17.4161 4.38599 17.1823C4.38599 15.7096 5.57991 14.5156 7.0527 14.5156C8.52548 14.5156 9.71941 15.7096 9.71941 17.1823C9.71941 17.4435 9.68187 17.6959 9.61189 17.9344H13.6388C13.5688 17.6959 13.5312 17.4435 13.5312 17.1823C13.5312 15.7096 14.7252 14.5156 16.198 14.5156C16.4591 14.5156 16.7115 14.5532 16.95 14.6231V9.16039L19.29 10.1904C19.88 10.4404 20.25 11.0204 20.25 11.6604V11.6644Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.0527 14.5156C5.57991 14.5156 4.38599 15.7096 4.38599 17.1823C4.38599 18.6551 5.57991 19.849 7.0527 19.849C8.52548 19.849 9.71941 18.6551 9.71941 17.1823C9.71941 15.7096 8.52548 14.5156 7.0527 14.5156ZM5.88599 17.1823C5.88599 16.538 6.40834 16.0156 7.0527 16.0156C7.69705 16.0156 8.21941 16.538 8.21941 17.1823C8.21941 17.8267 7.69705 18.349 7.0527 18.349C6.40834 18.349 5.88599 17.8267 5.88599 17.1823Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.198 14.5156C14.7252 14.5156 13.5312 15.7096 13.5312 17.1823C13.5312 18.6551 14.7252 19.849 16.198 19.849C17.6707 19.849 18.8647 18.6551 18.8647 17.1823C18.8647 15.7096 17.6707 14.5156 16.198 14.5156ZM15.0312 17.1823C15.0312 16.538 15.5536 16.0156 16.198 16.0156C16.8423 16.0156 17.3647 16.538 17.3647 17.1823C17.3647 17.8267 16.8423 18.349 16.198 18.349C15.5536 18.349 15.0312 17.8267 15.0312 17.1823Z" fill="black"/> <path d="M11.5789 12.3848C11.8719 12.0918 11.8719 11.6168 11.5789 11.3248L10.6589 10.4048L11.5789 9.48483C11.8719 9.19283 11.8719 8.71783 11.5789 8.42483C11.2859 8.13183 10.8109 8.13183 10.5179 8.42483L9.59794 9.34383L8.67794 8.42483C8.38494 8.13183 7.90994 8.13183 7.61794 8.42483C7.32494 8.71783 7.32494 9.19283 7.61794 9.48483L8.53794 10.4048L7.61794 11.3248C7.32494 11.6168 7.32494 12.0918 7.61794 12.3848C7.76394 12.5318 7.95594 12.6048 8.14794 12.6048C8.33994 12.6048 8.53194 12.5318 8.67794 12.3848L9.59794 11.4648L10.5179 12.3848C10.6649 12.5318 10.8569 12.6048 11.0489 12.6048C11.2409 12.6048 11.4319 12.5318 11.5789 12.3848Z" fill="black"/> </svg>',
     category: 'Delivery',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -1312,7 +2304,7 @@ class _DeliveryTruckRemoveCloseBroken {
   /// Truck remove close — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Truck remove close',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.1448 18.1748L5.08899 18.1743C3.94089 18.1743 3.01074 17.2442 3.01074 16.0961V13.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.97606 18.175C8.97606 17.1174 8.11888 16.2593 7.06029 16.2593C6.00268 16.2593 5.14453 17.1174 5.14453 18.175C5.14453 19.2327 6.00268 20.0908 7.06029 20.0908C8.11888 20.0908 8.97606 19.2327 8.97606 18.175Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1147 18.175C18.1147 17.1174 17.2575 16.2593 16.199 16.2593C15.1414 16.2593 14.2832 17.1174 14.2832 18.175C14.2832 19.2327 15.1414 20.0908 16.199 20.0908C17.2575 20.0908 18.1147 19.2327 18.1147 18.175Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0371 5.89844H14.121C15.2681 5.89844 16.1983 6.82859 16.1983 7.97669L16.1985 16.259" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.97461 18.1748H11.9953" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1152 18.1752L18.9216 18.1753C20.0687 18.1753 20.9989 17.2451 20.9989 16.097V12.6557C20.9989 11.7206 20.4472 10.8732 19.591 10.4957L18.2152 9.88867" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5996 13.4048H20.9999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.8578 11.6243C4.72701 11.6243 3 9.89631 3 7.76649C3 5.63668 4.72701 3.90967 6.8578 3.90967C8.98761 3.90967 10.7146 5.63668 10.7146 7.76649C10.7146 8.90285 10.223 9.92482 9.44084 10.631" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.99414 8.62888L7.71726 6.90576M5.99414 6.90576L7.71726 8.62888" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.0488 8.94678L8.14844 11.8471" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.0488 11.8471L8.14844 8.94678" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.197 15.2656C17.2556 15.2656 18.1137 16.1238 18.1137 17.1823C18.1137 18.2409 17.2556 19.099 16.197 19.099C15.1384 19.099 14.2803 18.2409 14.2803 17.1823C14.2803 16.1238 15.1384 15.2656 16.197 15.2656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.05343 15.2656C8.112 15.2656 8.97014 16.1238 8.97014 17.1823C8.97014 18.2409 8.112 19.099 7.05343 19.099C5.99486 19.099 5.13672 18.2409 5.13672 17.1823C5.13672 16.1238 5.99486 15.2656 7.05343 15.2656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1969 15.266L16.1971 6.98007C16.1971 5.83199 15.266 4.90088 14.1179 4.90088H9.58301" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.07919 17.1834C3.93111 17.1834 3 16.2523 3 15.1042V6.94894C3 5.8174 3.91749 4.90088 5.04806 4.90088H6.31552" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1133 17.1824L18.9205 17.1826C20.0686 17.1826 20.9997 16.2515 20.9997 15.1034V11.6601C20.9997 10.7241 20.4471 9.87573 19.5909 9.49822L18.2658 8.91357" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5977 12.4106H20.9989" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.96875 17.1826L12.2805 17.1833" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Delivery',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -1327,7 +2319,7 @@ class _DeliveryTruckRemoveCloseTwotone {
   /// Truck remove close — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Truck remove close',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.1448 18.1748L5.08899 18.1743C3.94089 18.1743 3.01074 17.2442 3.01074 16.0961V13.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1985 16.259L16.1983 7.97669C16.1983 6.82859 15.2681 5.89844 14.121 5.89844H13.0371" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.97461 18.1748H14.2827" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1152 18.1749L18.9216 18.175C20.0687 18.175 20.9988 17.2449 20.9988 16.0968V12.6554C20.9988 11.7204 20.4472 10.8729 19.591 10.4954L16.1992 8.99902" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.5996 13.4048H20.9999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.97606 18.175C8.97606 17.1174 8.11888 16.2593 7.06029 16.2593C6.00268 16.2593 5.14453 17.1174 5.14453 18.175C5.14453 19.2327 6.00268 20.0908 7.06029 20.0908C8.11888 20.0908 8.97606 19.2327 8.97606 18.175Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1147 18.175C18.1147 17.1174 17.2575 16.2593 16.199 16.2593C15.1414 16.2593 14.2832 17.1174 14.2832 18.175C14.2832 19.2327 15.1414 20.0908 16.199 20.0908C17.2575 20.0908 18.1147 19.2327 18.1147 18.175Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.8578 11.6243C8.98761 11.6243 10.7146 9.89631 10.7146 7.76649C10.7146 5.63668 8.98761 3.90967 6.8578 3.90967C4.72701 3.90967 3 5.63668 3 7.76649C3 9.89631 4.72701 11.6243 6.8578 11.6243Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.99414 8.62888L7.71726 6.90576M5.99414 6.90576L7.71726 8.62888" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.1968 15.266L16.1971 6.98007C16.1971 5.83199 15.266 4.90088 14.1179 4.90088H5.04806C3.91749 4.90088 3 5.8174 3 6.94894V15.1042C3 16.2523 3.93111 17.1834 5.07919 17.1834" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1133 17.1825L18.9206 17.1827C20.0686 17.1827 20.9997 16.2516 20.9997 15.1035V11.6602C20.9997 10.7243 20.4471 9.87585 19.5909 9.49835L16.1973 8.00098" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.5977 12.4106H20.9989" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.96875 17.1826H14.2795" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.197 15.2656C17.2556 15.2656 18.1137 16.1238 18.1137 17.1823C18.1137 18.2409 17.2556 19.099 16.197 19.099C15.1384 19.099 14.2803 18.2409 14.2803 17.1823C14.2803 16.1238 15.1384 15.2656 16.197 15.2656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.13681 17.1823C5.13681 16.1238 5.99495 15.2656 7.05352 15.2656C8.11209 15.2656 8.97023 16.1238 8.97023 17.1823C8.97023 18.2409 8.11209 19.099 7.05352 19.099C5.99495 19.099 5.13681 18.2409 5.13681 17.1823ZM5.13681 17.1823L5.08008 17.183" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M11.0488 8.94678L8.14844 11.8471M11.0488 11.8471L8.14844 8.94678" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -1342,7 +2334,7 @@ class _DeliveryTruckRemoveCloseOutline {
   /// Truck remove close — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Truck remove close',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.8578 4.65963C5.1411 4.65963 3.75 6.05097 3.75 7.76645C3.75 9.48218 5.14135 10.8742 6.8578 10.8742C8.57315 10.8742 9.96462 9.4823 9.96462 7.76645C9.96462 6.05085 8.5734 4.65963 6.8578 4.65963ZM2.25 7.76645C2.25 5.2223 4.31292 3.15963 6.8578 3.15963C9.40182 3.15963 11.4646 5.22242 11.4646 7.76645C11.4646 10.3102 9.40207 12.3742 6.8578 12.3742C4.31267 12.3742 2.25 10.3104 2.25 7.76645ZM12.2884 5.89831C12.2884 5.4841 12.6242 5.14831 13.0384 5.14831H14.1223C15.6839 5.14831 16.9496 6.41447 16.9496 7.97653C16.9496 7.97653 16.9496 7.97654 16.9496 7.97653L16.9496 8.50982L19.8939 9.80884C19.8939 9.80882 19.894 9.80886 19.8939 9.80884C21.0223 10.3064 21.7492 11.4233 21.7492 12.6551V13.3702C21.7497 13.3816 21.75 13.393 21.75 13.4046C21.75 13.4161 21.7497 13.4276 21.7492 13.439V16.0964C21.7492 17.6585 20.4835 18.9247 18.922 18.9247L18.7586 18.9247C18.4347 20.0314 17.4122 20.8404 16.1998 20.8404C14.9884 20.8404 13.9652 20.0315 13.6411 18.9246H9.61907C9.29518 20.0314 8.27268 20.8404 7.06027 20.8404C5.82511 20.8404 4.78566 19.9995 4.48331 18.8592C3.21203 18.5821 2.26045 17.4504 2.26045 16.0959V13.035C2.26045 12.6207 2.59624 12.285 3.01045 12.285C3.42467 12.285 3.76045 12.6207 3.76045 13.035V16.0959C3.76045 16.6339 4.07983 17.0968 4.53942 17.3057C4.89991 16.2603 5.89264 15.5088 7.06027 15.5088C8.27268 15.5088 9.29518 16.3178 9.61907 17.4246H13.6411C13.8956 16.5556 14.5808 15.8703 15.4498 15.6159L15.4496 9.01554C15.4493 9.00407 15.4493 8.99258 15.4496 8.98107L15.4496 7.97658C15.4496 7.24247 14.855 6.64831 14.1223 6.64831H13.0384C12.6242 6.64831 12.2884 6.31253 12.2884 5.89831ZM16.9496 10.1493L16.9498 15.6158C17.8193 15.8701 18.5044 16.5556 18.7587 17.4247L18.922 17.4247C18.9219 17.4247 18.922 17.4247 18.922 17.4247C19.6546 17.4246 20.2492 16.8305 20.2492 16.0964V14.1546H18.5997C18.1855 14.1546 17.8497 13.8188 17.8497 13.4046C17.8497 12.9904 18.1855 12.6546 18.5997 12.6546H20.2492C20.249 12.0166 19.8726 11.4388 19.2888 11.1814L16.9496 10.1493ZM5.46457 6.37515C5.75746 6.08226 6.23234 6.08226 6.52523 6.37515L6.85646 6.70638L7.18769 6.37515C7.48058 6.08226 7.95545 6.08226 8.24835 6.37515C8.54124 6.66804 8.54124 7.14292 8.24835 7.43581L7.91712 7.76704L8.24835 8.09827C8.54124 8.39116 8.54124 8.86603 8.24835 9.15893C7.95545 9.45182 7.48058 9.45182 7.18769 9.15893L6.85646 8.8277L6.52523 9.15893C6.23234 9.45182 5.75746 9.45182 5.46457 9.15893C5.17168 8.86603 5.17168 8.39116 5.46457 8.09827L5.7958 7.76704L5.46457 7.43581C5.17168 7.14292 5.17168 6.66804 5.46457 6.37515ZM7.06027 17.0088C6.41687 17.0088 5.89451 17.5312 5.89451 18.1746C5.89451 18.818 6.41687 19.3404 7.06027 19.3404C7.70439 19.3404 8.22603 18.8182 8.22603 18.1746C8.22603 17.531 7.70439 17.0088 7.06027 17.0088ZM16.1998 17.0088C15.5564 17.0088 15.0341 17.5312 15.0341 18.1746C15.0341 18.818 15.5564 19.3404 16.1998 19.3404C16.844 19.3404 17.3656 18.8182 17.3656 18.1746C17.3656 17.531 16.844 17.0088 16.1998 17.0088Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.04806 5.65072C4.33147 5.65072 3.75 6.23168 3.75 6.94878V15.104C3.75 15.6422 4.07013 16.1058 4.53028 16.3149C4.89031 15.2681 5.88363 14.5159 7.05264 14.5159C8.26502 14.5159 9.28843 15.3249 9.61243 16.4326H13.637C13.8915 15.5628 14.5771 14.8772 15.4469 14.6228L15.4471 6.97991C15.4471 6.97991 15.4471 6.97992 15.4471 6.97991C15.4471 6.24606 14.8517 5.65072 14.1179 5.65072H5.04806ZM16.9469 14.6228C17.8166 14.8772 18.5023 15.5629 18.7567 16.4327L18.9208 16.4328C18.9207 16.4328 18.9209 16.4328 18.9208 16.4328C19.6546 16.4327 20.25 15.8374 20.25 15.1036V13.1607H18.5985C18.1843 13.1607 17.8485 12.8249 17.8485 12.4107C17.8485 11.9965 18.1843 11.6607 18.5985 11.6607H20.25C20.25 11.0216 19.8725 10.4421 19.2886 10.1847L16.947 9.1515L16.9469 14.6228ZM16.9471 7.512L16.9471 6.97993C16.9471 5.41764 15.6802 4.15072 14.1179 4.15072H5.04806C3.50351 4.15072 2.25 5.40279 2.25 6.94878V15.104C2.25 16.459 3.20291 17.5917 4.47499 17.8685C4.77768 19.0089 5.81702 19.8493 7.05264 19.8493C8.26502 19.8493 9.28843 19.0402 9.61243 17.9326H13.637C13.961 19.0402 14.9845 19.8493 16.1968 19.8493C17.4092 19.8493 18.4325 19.0403 18.7566 17.9327L18.9206 17.9328C20.4829 17.9328 21.75 16.6659 21.75 15.1036V11.6603C21.75 10.4275 21.0223 9.30982 19.8939 8.81224C19.8939 8.81221 19.894 8.81227 19.8939 8.81224L16.9471 7.512ZM7.61756 8.41611C7.91045 8.12322 8.38533 8.12322 8.67822 8.41611L9.59807 9.33596L10.5179 8.41611C10.8108 8.12322 11.2857 8.12322 11.5786 8.41611C11.8715 8.709 11.8715 9.18388 11.5786 9.47677L10.6587 10.3966L11.5786 11.3165C11.8715 11.6094 11.8715 12.0842 11.5786 12.3771C11.2857 12.67 10.8108 12.67 10.5179 12.3771L9.59807 11.4573L8.67822 12.3771C8.38533 12.67 7.91045 12.67 7.61756 12.3771C7.32467 12.0842 7.32467 11.6094 7.61756 11.3165L8.53741 10.3966L7.61756 9.47677C7.32467 9.18388 7.32467 8.709 7.61756 8.41611ZM7.05264 16.0159C6.40828 16.0159 5.88593 16.5382 5.88593 17.1826C5.88593 17.8269 6.40828 18.3493 7.05264 18.3493C7.69699 18.3493 8.21935 17.8269 8.21935 17.1826C8.21935 16.5382 7.69699 16.0159 7.05264 16.0159ZM16.1968 16.0159C15.5525 16.0159 15.0301 16.5382 15.0301 17.1826C15.0301 17.8269 15.5525 18.3493 16.1968 18.3493C16.8412 18.3493 17.3635 17.8269 17.3635 17.1826C17.3635 16.5382 16.8412 16.0159 16.1968 16.0159Z" fill="black"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -1357,7 +2349,7 @@ class _DeliveryTruckRemoveCloseBold {
   /// Truck remove close — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Truck remove close',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.919 17.4382H18.75C18.499 16.5702 17.811 15.8922 16.942 15.6422V10.1582L19.291 11.1962C19.872 11.4482 20.248 12.0252 20.248 12.6682H18.596C18.182 12.6682 17.846 13.0042 17.846 13.4182C17.846 13.8322 18.182 14.1682 18.596 14.1682H20.248V16.1082C20.248 16.8412 19.651 17.4382 18.919 17.4382ZM5.88195 18.2122V18.1932C5.88195 17.5532 6.41195 17.0322 7.05195 17.0322C7.67195 17.0322 8.18195 17.5122 8.22195 18.1332V18.1422C8.21195 18.1622 8.21195 18.1732 8.21195 18.1932C8.21195 18.2122 8.21195 18.2222 8.22195 18.2422V18.2522C8.22195 18.2622 8.22195 18.2622 8.21195 18.2722V18.2822C8.17195 18.8832 7.66195 19.3632 7.05195 19.3632C6.42195 19.3632 5.89195 18.8432 5.88195 18.2122ZM15.072 18.4922C15.042 18.3922 15.032 18.2922 15.032 18.1932C15.032 17.8432 15.192 17.5222 15.442 17.3132C15.642 17.1332 15.902 17.0322 16.192 17.0322C16.482 17.0322 16.742 17.1332 16.942 17.3032C17.2 17.5112 17.359 17.8272 17.361 18.1842L17.36 18.1882C17.36 18.1882 17.362 18.1922 17.362 18.1952C17.361 18.8342 16.841 19.3632 16.192 19.3632C15.652 19.3632 15.202 18.9922 15.072 18.4922ZM19.892 9.82223L16.942 8.51823V7.99223C16.942 6.43223 15.672 5.16223 14.112 5.16223H13.3187C13.1003 5.16223 12.9557 5.38814 13.0303 5.59336C13.0685 5.69809 13.1028 5.80438 13.132 5.91223C13.212 6.16223 13.272 6.41223 13.302 6.66223C13.372 7.01223 13.402 7.37323 13.402 7.73223C13.402 11.2422 10.542 14.0932 7.04195 14.0932C5.84195 14.0932 4.71195 13.7622 3.75195 13.1732C3.48195 13.0222 3.24195 12.8432 3.00195 12.6532C2.93561 12.5967 2.87048 12.539 2.80655 12.4802C2.60304 12.293 2.25195 12.4299 2.25195 12.7064V16.1132C2.25195 17.4622 3.20195 18.5932 4.47195 18.8732C4.78195 20.0122 5.81195 20.8632 7.05195 20.8632C8.26195 20.8632 9.28195 20.0532 9.61195 18.9432H13.642C13.962 20.0532 14.982 20.8632 16.192 20.8632C17.402 20.8632 18.422 20.0532 18.752 18.9432C18.753 18.9412 18.753 18.9382 18.753 18.9382H18.919C20.479 18.9382 21.748 17.6682 21.748 16.1082V12.6682C21.748 11.4272 21.018 10.3092 19.892 9.82223Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.42875 8.23721C8.72175 8.53021 8.72175 9.00521 8.42875 9.29821C8.13575 9.59121 7.66075 9.59121 7.36775 9.29821L6.87875 8.80821L6.38775 9.29921C6.24075 9.44521 6.04975 9.51921 5.85775 9.51921C5.66475 9.51921 5.47375 9.44521 5.32675 9.29921C5.03375 9.00621 5.03375 8.53121 5.32675 8.23821L5.81775 7.74821L5.32675 7.25721C5.03375 6.96421 5.03375 6.48921 5.32675 6.19621C5.61975 5.90421 6.09475 5.90421 6.38775 6.19621L6.87875 6.68721L7.36975 6.19521C7.66275 5.90321 8.13775 5.90321 8.43075 6.19521C8.72375 6.48821 8.72375 6.96321 8.43075 7.25621L7.93975 7.74821L8.42875 8.23721ZM6.87875 3.13721C4.33775 3.13721 2.27075 5.20521 2.27075 7.74721C2.27075 10.2832 4.33775 12.3472 6.87875 12.3472C9.41875 12.3472 11.4858 10.2832 11.4858 7.74721C11.4858 5.20521 9.41875 3.13721 6.87875 3.13721Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.598 13.1639H20.25V15.1039C20.25 15.8369 19.654 16.4339 18.921 16.4339H18.751L18.75 16.4299C18.5 15.5699 17.82 14.8799 16.95 14.6299V9.1569L19.293 10.1929C19.874 10.4439 20.25 11.0209 20.25 11.6639H18.598C18.184 11.6639 17.848 11.9999 17.848 12.4139C17.848 12.8279 18.184 13.1639 18.598 13.1639ZM16.2 18.3499C15.65 18.3499 15.2 17.9799 15.07 17.4799C15.04 17.3799 15.03 17.2799 15.03 17.1799C15.03 16.8199 15.19 16.4999 15.45 16.2899C15.65 16.1199 15.91 16.0199 16.2 16.0199C16.49 16.0199 16.75 16.1199 16.95 16.2999C17.2 16.5099 17.36 16.8299 17.36 17.1799C17.36 17.8299 16.84 18.3499 16.2 18.3499ZM11.579 11.3239C11.872 11.6159 11.872 12.0909 11.579 12.3839C11.432 12.5309 11.241 12.6039 11.049 12.6039C10.857 12.6039 10.665 12.5309 10.518 12.3839L9.598 11.4639L8.678 12.3839C8.532 12.5309 8.34 12.6039 8.148 12.6039C7.956 12.6039 7.764 12.5309 7.618 12.3839C7.325 12.0909 7.325 11.6159 7.618 11.3239L8.538 10.4039L7.618 9.4839C7.325 9.1919 7.325 8.7169 7.618 8.4239C7.91 8.1309 8.385 8.1309 8.678 8.4239L9.598 9.3429L10.518 8.4239C10.811 8.1309 11.286 8.1309 11.579 8.4239C11.872 8.7169 11.872 9.1919 11.579 9.4839L10.659 10.4039L11.579 11.3239ZM8.219 17.1859C8.219 17.2139 8.219 17.2419 8.21 17.2699C8.17 17.8799 7.67 18.3499 7.05 18.3499C6.42 18.3499 5.9 17.8399 5.89 17.1999V17.1799C5.89 16.5399 6.41 16.0199 7.05 16.0199C7.7 16.0199 8.219 16.5389 8.22 17.1789C8.22 17.1789 8.219 17.1819 8.219 17.1839V17.1859ZM19.894 8.8179L16.95 7.5169V6.9799C16.95 5.4199 15.68 4.1499 14.12 4.1499H5.05C3.5 4.1499 2.25 5.4099 2.25 6.9499V15.0999C2.25 16.4499 3.21 17.5899 4.48 17.8599C4.77 18.9999 5.82 19.8499 7.05 19.8499C8.258 19.8499 9.287 19.0419 9.608 17.9339H13.641C13.963 19.0419 14.991 19.8499 16.2 19.8499C17.408 19.8499 18.427 19.0419 18.748 17.9339H18.921C20.481 17.9339 21.75 16.6639 21.75 15.1039V11.6639C21.75 10.4219 21.019 9.3039 19.894 8.8179Z" fill="black"/> </svg>',
     category: 'Delivery',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -1372,6 +2364,114 @@ class _DeliveryTruckRemoveCloseLight {
   /// Truck remove close — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Truck remove close',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.197 15.2659C17.2556 15.2659 18.1137 16.124 18.1137 17.1826C18.1137 18.2411 17.2556 19.0993 16.197 19.0993C15.1384 19.0993 14.2803 18.2411 14.2803 17.1826C14.2803 16.124 15.1384 15.2659 16.197 15.2659Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.13681 17.1823C5.13681 16.1238 5.99495 15.2656 7.05352 15.2656C8.11209 15.2656 8.97023 16.1238 8.97023 17.1823C8.97023 18.2409 8.11209 19.099 7.05352 19.099C5.99495 19.099 5.13681 18.2409 5.13681 17.1823ZM5.13681 17.1823L5.08008 17.183" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1968 15.266L16.1971 6.98007C16.1971 5.83199 15.266 4.90088 14.1179 4.90088H5.04806C3.91749 4.90088 3 5.8174 3 6.94894V15.1042C3 16.2523 3.93111 17.1834 5.07919 17.1834" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1133 17.1825L18.9206 17.1827C20.0686 17.1827 20.9997 16.2516 20.9997 15.1035V11.6602C20.9997 10.7243 20.4471 9.87585 19.5909 9.49835L16.1973 8.00098" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5977 12.4106H20.9989" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.96875 17.1826H14.2795" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.0488 8.94678L8.14844 11.8471" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.0488 11.8471L8.14844 8.94678" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck remove close 1 icon with style variants.
+class _DeliveryTruckRemoveClose1Icon {
+  const _DeliveryTruckRemoveClose1Icon();
+
+  /// bold style
+  _DeliveryTruckRemoveClose1Bold get bold => const _DeliveryTruckRemoveClose1Bold();
+  /// bulk style
+  _DeliveryTruckRemoveClose1Bulk get bulk => const _DeliveryTruckRemoveClose1Bulk();
+  /// light style
+  _DeliveryTruckRemoveClose1Light get light => const _DeliveryTruckRemoveClose1Light();
+  /// outline style
+  _DeliveryTruckRemoveClose1Outline get outline => const _DeliveryTruckRemoveClose1Outline();
+  /// twoTone style
+  _DeliveryTruckRemoveClose1Twotone get twoTone => const _DeliveryTruckRemoveClose1Twotone();
+  /// broken style
+  _DeliveryTruckRemoveClose1Broken get broken => const _DeliveryTruckRemoveClose1Broken();
+}
+
+/// Truck remove close 1 — bulk style variants.
+class _DeliveryTruckRemoveClose1Bulk {
+  const _DeliveryTruckRemoveClose1Bulk();
+
+  /// Truck remove close 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck remove close 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.919 17.4381H18.75C18.499 16.5701 17.811 15.8921 16.942 15.6421V10.1581L19.291 11.1961C19.872 11.4481 20.248 12.0251 20.248 12.6681H18.596C18.182 12.6681 17.846 13.0041 17.846 13.4181C17.846 13.8321 18.182 14.1681 18.596 14.1681H20.248V16.1081C20.248 16.8411 19.651 17.4381 18.919 17.4381ZM5.88195 18.2121V18.1931C5.88195 17.5531 6.41195 17.0321 7.05195 17.0321C7.67195 17.0321 8.18195 17.5121 8.22195 18.1331V18.1421C8.21195 18.1621 8.21195 18.1731 8.21195 18.1931C8.21195 18.2121 8.21195 18.2221 8.22195 18.2421V18.2521C8.22195 18.2621 8.22195 18.2621 8.21195 18.2721V18.2821C8.17195 18.8831 7.66195 19.3631 7.05195 19.3631C6.42195 19.3631 5.89195 18.8431 5.88195 18.2121ZM15.072 18.4921C15.042 18.3921 15.032 18.2921 15.032 18.1931C15.032 17.8431 15.192 17.5221 15.442 17.3131C15.642 17.1331 15.902 17.0321 16.192 17.0321C16.482 17.0321 16.742 17.1331 16.942 17.3031C17.2 17.5111 17.359 17.8271 17.361 18.1841L17.36 18.1881C17.36 18.1881 17.362 18.1921 17.362 18.1951C17.361 18.8341 16.841 19.3631 16.192 19.3631C15.652 19.3631 15.202 18.9921 15.072 18.4921ZM19.892 9.82211L16.942 8.51811V7.99211C16.942 6.43211 15.672 5.16211 14.112 5.16211H13.3187C13.1003 5.16211 12.9557 5.38801 13.0303 5.59324C13.0685 5.69797 13.1028 5.80426 13.132 5.91211C13.212 6.16211 13.272 6.41211 13.302 6.66211C13.372 7.01211 13.402 7.37311 13.402 7.73211C13.402 11.2421 10.542 14.0931 7.04195 14.0931C5.84195 14.0931 4.71195 13.7621 3.75195 13.1731C3.48195 13.0221 3.24195 12.8431 3.00195 12.6531C2.93561 12.5966 2.87048 12.5389 2.80655 12.4801C2.60304 12.2929 2.25195 12.4298 2.25195 12.7063V16.1131C2.25195 17.4621 3.20195 18.5931 4.47195 18.8731C4.78195 20.0121 5.81195 20.8631 7.05195 20.8631C8.26195 20.8631 9.28195 20.0531 9.61195 18.9431H13.642C13.962 20.0531 14.982 20.8631 16.192 20.8631C17.402 20.8631 18.422 20.0531 18.752 18.9431C18.753 18.9411 18.753 18.9381 18.753 18.9381H18.919C20.479 18.9381 21.748 17.6681 21.748 16.1081V12.6681C21.748 11.4271 21.018 10.3091 19.892 9.82211Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M6.87875 3.13672C4.33775 3.13672 2.27075 5.20472 2.27075 7.74672C2.27075 10.2827 4.33775 12.3467 6.87875 12.3467C9.41875 12.3467 11.4858 10.2827 11.4858 7.74672C11.4858 5.20472 9.41875 3.13672 6.87875 3.13672Z" fill="black"/> <path d="M8.42868 9.29856C8.72168 9.00556 8.72168 8.53056 8.42868 8.23756L7.93968 7.74856L8.43068 7.25656C8.72368 6.96356 8.72368 6.48856 8.43068 6.19556C8.13768 5.90356 7.66268 5.90356 7.36968 6.19556L6.87868 6.68756L6.38768 6.19656C6.09468 5.90456 5.61968 5.90456 5.32668 6.19656C5.03368 6.48956 5.03368 6.96456 5.32668 7.25756L5.81768 7.74856L5.32668 8.23856C5.03368 8.53156 5.03368 9.00656 5.32668 9.29956C5.47368 9.44556 5.66468 9.51956 5.85768 9.51956C6.04968 9.51956 6.24068 9.44556 6.38768 9.29956L6.87868 8.80856L7.36768 9.29856C7.66068 9.59156 8.13568 9.59156 8.42868 9.29856Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck remove close 1 — broken style variants.
+class _DeliveryTruckRemoveClose1Broken {
+  const _DeliveryTruckRemoveClose1Broken();
+
+  /// Truck remove close 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck remove close 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.1448 18.1748L5.08899 18.1743C3.94089 18.1743 3.01074 17.2442 3.01074 16.0961V13.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.97606 18.175C8.97606 17.1174 8.11888 16.2593 7.06029 16.2593C6.00268 16.2593 5.14453 17.1174 5.14453 18.175C5.14453 19.2327 6.00268 20.0908 7.06029 20.0908C8.11888 20.0908 8.97606 19.2327 8.97606 18.175Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1147 18.175C18.1147 17.1174 17.2575 16.2593 16.199 16.2593C15.1414 16.2593 14.2832 17.1174 14.2832 18.175C14.2832 19.2327 15.1414 20.0908 16.199 20.0908C17.2575 20.0908 18.1147 19.2327 18.1147 18.175Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0371 5.89844H14.121C15.2681 5.89844 16.1983 6.82859 16.1983 7.97669L16.1985 16.259" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.97461 18.1748H11.9953" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1152 18.1752L18.9216 18.1753C20.0687 18.1753 20.9989 17.2451 20.9989 16.097V12.6557C20.9989 11.7206 20.4472 10.8732 19.591 10.4957L18.2152 9.88867" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5996 13.4048H20.9999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.8578 11.6243C4.72701 11.6243 3 9.89631 3 7.76649C3 5.63668 4.72701 3.90967 6.8578 3.90967C8.98761 3.90967 10.7146 5.63668 10.7146 7.76649C10.7146 8.90285 10.223 9.92482 9.44084 10.631" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.99414 8.62888L7.71726 6.90576M5.99414 6.90576L7.71726 8.62888" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck remove close 1 — twoTone style variants.
+class _DeliveryTruckRemoveClose1Twotone {
+  const _DeliveryTruckRemoveClose1Twotone();
+
+  /// Truck remove close 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck remove close 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.1448 18.1748L5.08899 18.1743C3.94089 18.1743 3.01074 17.2442 3.01074 16.0961V13.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1985 16.259L16.1983 7.97669C16.1983 6.82859 15.2681 5.89844 14.121 5.89844H13.0371" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.97461 18.1748H14.2827" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1152 18.1749L18.9216 18.175C20.0687 18.175 20.9988 17.2449 20.9988 16.0968V12.6554C20.9988 11.7204 20.4472 10.8729 19.591 10.4954L16.1992 8.99902" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.5996 13.4048H20.9999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.97606 18.175C8.97606 17.1174 8.11888 16.2593 7.06029 16.2593C6.00268 16.2593 5.14453 17.1174 5.14453 18.175C5.14453 19.2327 6.00268 20.0908 7.06029 20.0908C8.11888 20.0908 8.97606 19.2327 8.97606 18.175Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1147 18.175C18.1147 17.1174 17.2575 16.2593 16.199 16.2593C15.1414 16.2593 14.2832 17.1174 14.2832 18.175C14.2832 19.2327 15.1414 20.0908 16.199 20.0908C17.2575 20.0908 18.1147 19.2327 18.1147 18.175Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.8578 11.6243C8.98761 11.6243 10.7146 9.89631 10.7146 7.76649C10.7146 5.63668 8.98761 3.90967 6.8578 3.90967C4.72701 3.90967 3 5.63668 3 7.76649C3 9.89631 4.72701 11.6243 6.8578 11.6243Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.99414 8.62888L7.71726 6.90576M5.99414 6.90576L7.71726 8.62888" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck remove close 1 — outline style variants.
+class _DeliveryTruckRemoveClose1Outline {
+  const _DeliveryTruckRemoveClose1Outline();
+
+  /// Truck remove close 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck remove close 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.8578 4.65963C5.1411 4.65963 3.75 6.05097 3.75 7.76645C3.75 9.48218 5.14135 10.8742 6.8578 10.8742C8.57315 10.8742 9.96462 9.4823 9.96462 7.76645C9.96462 6.05085 8.5734 4.65963 6.8578 4.65963ZM2.25 7.76645C2.25 5.2223 4.31292 3.15963 6.8578 3.15963C9.40182 3.15963 11.4646 5.22242 11.4646 7.76645C11.4646 10.3102 9.40207 12.3742 6.8578 12.3742C4.31267 12.3742 2.25 10.3104 2.25 7.76645ZM12.2884 5.89831C12.2884 5.4841 12.6242 5.14831 13.0384 5.14831H14.1223C15.6839 5.14831 16.9496 6.41447 16.9496 7.97653C16.9496 7.97653 16.9496 7.97654 16.9496 7.97653L16.9496 8.50982L19.8939 9.80884C19.8939 9.80882 19.894 9.80886 19.8939 9.80884C21.0223 10.3064 21.7492 11.4233 21.7492 12.6551V13.3702C21.7497 13.3816 21.75 13.393 21.75 13.4046C21.75 13.4161 21.7497 13.4276 21.7492 13.439V16.0964C21.7492 17.6585 20.4835 18.9247 18.922 18.9247L18.7586 18.9247C18.4347 20.0314 17.4122 20.8404 16.1998 20.8404C14.9884 20.8404 13.9652 20.0315 13.6411 18.9246H9.61907C9.29518 20.0314 8.27268 20.8404 7.06027 20.8404C5.82511 20.8404 4.78566 19.9995 4.48331 18.8592C3.21203 18.5821 2.26045 17.4504 2.26045 16.0959V13.035C2.26045 12.6207 2.59624 12.285 3.01045 12.285C3.42467 12.285 3.76045 12.6207 3.76045 13.035V16.0959C3.76045 16.6339 4.07983 17.0968 4.53942 17.3057C4.89991 16.2603 5.89264 15.5088 7.06027 15.5088C8.27268 15.5088 9.29518 16.3178 9.61907 17.4246H13.6411C13.8956 16.5556 14.5808 15.8703 15.4498 15.6159L15.4496 9.01554C15.4493 9.00407 15.4493 8.99258 15.4496 8.98107L15.4496 7.97658C15.4496 7.24247 14.855 6.64831 14.1223 6.64831H13.0384C12.6242 6.64831 12.2884 6.31253 12.2884 5.89831ZM16.9496 10.1493L16.9498 15.6158C17.8193 15.8701 18.5044 16.5556 18.7587 17.4247L18.922 17.4247C18.9219 17.4247 18.922 17.4247 18.922 17.4247C19.6546 17.4246 20.2492 16.8305 20.2492 16.0964V14.1546H18.5997C18.1855 14.1546 17.8497 13.8188 17.8497 13.4046C17.8497 12.9904 18.1855 12.6546 18.5997 12.6546H20.2492C20.249 12.0166 19.8726 11.4388 19.2888 11.1814L16.9496 10.1493ZM5.46457 6.37515C5.75746 6.08226 6.23234 6.08226 6.52523 6.37515L6.85646 6.70638L7.18769 6.37515C7.48058 6.08226 7.95545 6.08226 8.24835 6.37515C8.54124 6.66804 8.54124 7.14292 8.24835 7.43581L7.91712 7.76704L8.24835 8.09827C8.54124 8.39116 8.54124 8.86603 8.24835 9.15893C7.95545 9.45182 7.48058 9.45182 7.18769 9.15893L6.85646 8.8277L6.52523 9.15893C6.23234 9.45182 5.75746 9.45182 5.46457 9.15893C5.17168 8.86603 5.17168 8.39116 5.46457 8.09827L5.7958 7.76704L5.46457 7.43581C5.17168 7.14292 5.17168 6.66804 5.46457 6.37515ZM7.06027 17.0088C6.41687 17.0088 5.89451 17.5312 5.89451 18.1746C5.89451 18.818 6.41687 19.3404 7.06027 19.3404C7.70439 19.3404 8.22603 18.8182 8.22603 18.1746C8.22603 17.531 7.70439 17.0088 7.06027 17.0088ZM16.1998 17.0088C15.5564 17.0088 15.0341 17.5312 15.0341 18.1746C15.0341 18.818 15.5564 19.3404 16.1998 19.3404C16.844 19.3404 17.3656 18.8182 17.3656 18.1746C17.3656 17.531 16.844 17.0088 16.1998 17.0088Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck remove close 1 — bold style variants.
+class _DeliveryTruckRemoveClose1Bold {
+  const _DeliveryTruckRemoveClose1Bold();
+
+  /// Truck remove close 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck remove close 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.919 17.4382H18.75C18.499 16.5702 17.811 15.8922 16.942 15.6422V10.1582L19.291 11.1962C19.872 11.4482 20.248 12.0252 20.248 12.6682H18.596C18.182 12.6682 17.846 13.0042 17.846 13.4182C17.846 13.8322 18.182 14.1682 18.596 14.1682H20.248V16.1082C20.248 16.8412 19.651 17.4382 18.919 17.4382ZM5.88195 18.2122V18.1932C5.88195 17.5532 6.41195 17.0322 7.05195 17.0322C7.67195 17.0322 8.18195 17.5122 8.22195 18.1332V18.1422C8.21195 18.1622 8.21195 18.1732 8.21195 18.1932C8.21195 18.2122 8.21195 18.2222 8.22195 18.2422V18.2522C8.22195 18.2622 8.22195 18.2622 8.21195 18.2722V18.2822C8.17195 18.8832 7.66195 19.3632 7.05195 19.3632C6.42195 19.3632 5.89195 18.8432 5.88195 18.2122ZM15.072 18.4922C15.042 18.3922 15.032 18.2922 15.032 18.1932C15.032 17.8432 15.192 17.5222 15.442 17.3132C15.642 17.1332 15.902 17.0322 16.192 17.0322C16.482 17.0322 16.742 17.1332 16.942 17.3032C17.2 17.5112 17.359 17.8272 17.361 18.1842L17.36 18.1882C17.36 18.1882 17.362 18.1922 17.362 18.1952C17.361 18.8342 16.841 19.3632 16.192 19.3632C15.652 19.3632 15.202 18.9922 15.072 18.4922ZM19.892 9.82223L16.942 8.51823V7.99223C16.942 6.43223 15.672 5.16223 14.112 5.16223H13.3187C13.1003 5.16223 12.9557 5.38814 13.0303 5.59336C13.0685 5.69809 13.1028 5.80438 13.132 5.91223C13.212 6.16223 13.272 6.41223 13.302 6.66223C13.372 7.01223 13.402 7.37323 13.402 7.73223C13.402 11.2422 10.542 14.0932 7.04195 14.0932C5.84195 14.0932 4.71195 13.7622 3.75195 13.1732C3.48195 13.0222 3.24195 12.8432 3.00195 12.6532C2.93561 12.5967 2.87048 12.539 2.80655 12.4802C2.60304 12.293 2.25195 12.4299 2.25195 12.7064V16.1132C2.25195 17.4622 3.20195 18.5932 4.47195 18.8732C4.78195 20.0122 5.81195 20.8632 7.05195 20.8632C8.26195 20.8632 9.28195 20.0532 9.61195 18.9432H13.642C13.962 20.0532 14.982 20.8632 16.192 20.8632C17.402 20.8632 18.422 20.0532 18.752 18.9432C18.753 18.9412 18.753 18.9382 18.753 18.9382H18.919C20.479 18.9382 21.748 17.6682 21.748 16.1082V12.6682C21.748 11.4272 21.018 10.3092 19.892 9.82223Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.42875 8.23721C8.72175 8.53021 8.72175 9.00521 8.42875 9.29821C8.13575 9.59121 7.66075 9.59121 7.36775 9.29821L6.87875 8.80821L6.38775 9.29921C6.24075 9.44521 6.04975 9.51921 5.85775 9.51921C5.66475 9.51921 5.47375 9.44521 5.32675 9.29921C5.03375 9.00621 5.03375 8.53121 5.32675 8.23821L5.81775 7.74821L5.32675 7.25721C5.03375 6.96421 5.03375 6.48921 5.32675 6.19621C5.61975 5.90421 6.09475 5.90421 6.38775 6.19621L6.87875 6.68721L7.36975 6.19521C7.66275 5.90321 8.13775 5.90321 8.43075 6.19521C8.72375 6.48821 8.72375 6.96321 8.43075 7.25621L7.93975 7.74821L8.42875 8.23721ZM6.87875 3.13721C4.33775 3.13721 2.27075 5.20521 2.27075 7.74721C2.27075 10.2832 4.33775 12.3472 6.87875 12.3472C9.41875 12.3472 11.4858 10.2832 11.4858 7.74721C11.4858 5.20521 9.41875 3.13721 6.87875 3.13721Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck remove close 1 — light style variants.
+class _DeliveryTruckRemoveClose1Light {
+  const _DeliveryTruckRemoveClose1Light();
+
+  /// Truck remove close 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck remove close 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.14431 18.1746L5.0885 18.1741C3.94041 18.1741 3.01025 17.244 3.01025 16.0959V13.0349" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.97606 18.175C8.97606 17.1174 8.11888 16.2593 7.06029 16.2593C6.00268 16.2593 5.14453 17.1174 5.14453 18.175C5.14453 19.2327 6.00268 20.0908 7.06029 20.0908C8.11888 20.0908 8.97606 19.2327 8.97606 18.175Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1147 18.175C18.1147 17.1174 17.2575 16.2593 16.199 16.2593C15.1414 16.2593 14.2832 17.1174 14.2832 18.175C14.2832 19.2327 15.1414 20.0908 16.199 20.0908C17.2575 20.0908 18.1147 19.2327 18.1147 18.175Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1985 16.259L16.1983 7.97669C16.1983 6.82859 15.2681 5.89844 14.121 5.89844H13.0371" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.97461 18.1748H14.2827" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1152 18.1749L18.9216 18.175C20.0687 18.175 20.9988 17.2449 20.9988 16.0968V12.6554C20.9988 11.7204 20.4472 10.8729 19.591 10.4954L16.1992 8.99902" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5996 13.4048H20.9999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.8578 11.6243C8.98761 11.6243 10.7146 9.89631 10.7146 7.76649C10.7146 5.63668 8.98761 3.90967 6.8578 3.90967C4.72701 3.90967 3 5.63668 3 7.76649C3 9.89631 4.72701 11.6243 6.8578 11.6243Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.99414 8.62888L7.71726 6.90576M5.99414 6.90576L7.71726 8.62888" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.light,
@@ -1405,7 +2505,7 @@ class _DeliveryDeliveryBoxesBulk {
   /// Delivery Boxes — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delivery Boxes',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6231 4.77018C14.7741 4.72118 14.9361 4.72018 15.0901 4.76918L16.0401 5.07918L16.0311 2.00818L13.6541 2.01718L13.6581 5.08718L14.6231 4.77018Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4899 5.92854C21.4799 3.57854 19.9699 1.99854 17.7099 1.99854H17.5299L17.5399 6.10854C17.5399 6.34854 17.4299 6.57854 17.2299 6.71853C17.0399 6.85853 16.7899 6.89854 16.5599 6.82854L14.8599 6.26854L13.1399 6.83854C13.0699 6.85854 12.9899 6.86854 12.9099 6.86854C12.7499 6.86854 12.5999 6.82854 12.4699 6.72854C12.2799 6.58854 12.1599 6.36854 12.1599 6.12854L12.1499 2.01854H11.9599C10.8899 2.01854 9.96989 2.37854 9.28989 3.05854C8.57989 3.76854 8.18989 4.79854 8.19989 5.96854L8.20989 8.64854C8.20989 8.69744 8.21875 8.74635 8.23326 8.79204C8.25504 8.86066 8.32438 8.8984 8.39637 8.89818L11.5599 8.88854H11.5899C12.8999 8.88854 14.0999 9.36853 14.9599 10.2285C15.8799 11.1285 16.3799 12.4185 16.3799 13.8385L16.3899 18.5185C16.3899 18.8897 16.3573 19.2544 16.287 19.6074C16.2614 19.7354 16.3569 19.8585 16.4875 19.8585H17.7399C18.8099 19.8585 19.7299 19.5085 20.4099 18.8285C21.1099 18.1185 21.4999 17.0885 21.4999 15.9185L21.4899 5.92854Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.94024 12.708L9.62124 12.933L9.61571 10.5939C9.61545 10.4835 9.52579 10.3942 9.41539 10.3944L7.97123 10.3967C7.86078 10.3969 7.77138 10.4866 7.77155 10.597L7.77524 12.94L8.46824 12.709C8.62224 12.657 8.78724 12.658 8.94024 12.708Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.65401 19.2706H5.83401C5.42001 19.2706 5.08401 18.9346 5.08401 18.5206C5.08401 18.1066 5.42001 17.7706 5.83401 17.7706H7.65401C8.06801 17.7706 8.40401 18.1066 8.40401 18.5206C8.40401 18.9346 8.06801 19.2706 7.65401 19.2706ZM13.908 11.2906C13.314 10.7016 12.51 10.3906 11.584 10.3906H11.559L11.3151 10.3912C11.2046 10.3914 11.1152 10.4812 11.1155 10.5917L11.124 13.9686C11.125 14.2096 11.009 14.4366 10.814 14.5776C10.619 14.7196 10.366 14.7586 10.139 14.6826L8.70701 14.2106L7.26301 14.6916C7.18601 14.7176 7.10601 14.7306 7.02601 14.7306C6.87101 14.7306 6.71701 14.6826 6.58801 14.5896C6.39201 14.4486 6.27601 14.2226 6.27601 13.9816L6.27129 10.5998C6.27113 10.4893 6.18137 10.3998 6.07086 10.4001L5.80601 10.4006C4.86901 10.4006 4.05901 10.7156 3.46401 11.3126C2.84001 11.9386 2.49801 12.8476 2.50001 13.8716L2.51001 18.5416C2.51601 20.6106 3.85101 22.0006 5.83501 22.0006L11.585 21.9806C12.526 21.9806 13.338 21.6646 13.933 21.0676C14.555 20.4436 14.896 19.5396 14.893 18.5196L14.883 13.8396C14.881 12.8176 14.535 11.9126 13.908 11.2906Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.9596 12.5L15.7496 12.49C14.2796 12.49 13.3596 13.53 13.3596 15L13.3496 18.97C13.3396 20.44 14.2596 21.49 15.7296 21.49L19.9396 21.5C21.4196 21.5 22.3396 20.47 22.3396 18.99L22.3496 15.02C22.3496 13.55 21.4396 12.51 19.9596 12.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.96961 12.5L5.75961 12.49C4.27961 12.49 3.35961 13.53 3.35961 15L3.34961 18.97C3.34961 20.44 4.26961 21.49 5.72961 21.49L9.94961 21.5C11.4196 21.5 12.3396 20.47 12.3496 18.99V15.02C12.3596 13.55 11.4396 12.51 9.96961 12.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.7296 11.5L14.9496 11.51C16.4196 11.51 17.3396 10.47 17.3396 9L17.3496 5.03C17.3496 3.56 16.4396 2.51 14.9596 2.51L10.7496 2.5C9.27957 2.5 8.35957 3.53 8.35957 5.01L8.34957 8.98C8.33957 10.45 9.25957 11.49 10.7296 11.5Z" fill="black"/> </g> <path d="M16.8496 16.25H18.8496C19.2596 16.25 19.5996 15.92 19.5996 15.5C19.5996 15.09 19.2596 14.75 18.8496 14.75H16.8496C16.4296 14.75 16.0996 15.09 16.0996 15.5C16.0996 15.92 16.4296 16.25 16.8496 16.25Z" fill="black"/> <path d="M6.84961 16.25H8.84961C9.26961 16.25 9.59961 15.92 9.59961 15.5C9.59961 15.09 9.26961 14.75 8.84961 14.75H6.84961C6.43961 14.75 6.09961 15.09 6.09961 15.5C6.09961 15.92 6.43961 16.25 6.84961 16.25Z" fill="black"/> <path d="M13.8496 4.75H11.8496C11.4296 4.75 11.0996 5.09 11.0996 5.5C11.0996 5.92 11.4296 6.25 11.8496 6.25H13.8496C14.2596 6.25 14.5996 5.92 14.5996 5.5C14.5996 5.09 14.2596 4.75 13.8496 4.75Z" fill="black"/> </svg>',
     category: 'Delivery',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -1420,7 +2520,7 @@ class _DeliveryDeliveryBoxesBroken {
   /// Delivery Boxes — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delivery Boxes',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.01071 17.4823C3.01558 19.2171 4.09749 20.4391 5.83323 20.4352L11.5853 20.4235C13.322 20.4187 14.3981 19.1918 14.3942 17.458L14.3835 12.7791C14.3796 11.0453 13.2967 9.82327 11.561 9.82716L5.80793 9.83883C4.07804 9.84272 2.99612 11.0706 3.00001 12.8044L3.00536 15.1433" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.70993 9.70425L8.69728 7.01794C8.69241 5.00686 9.94752 3.58344 11.9547 3.57858L17.7136 3.56495C19.7266 3.56009 20.9827 4.97767 20.9866 6.98875L20.9934 11.9853" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.5859 20.4347L17.7418 20.421C19.7558 20.4162 21.005 18.9928 21.0002 16.9817L20.9968 14.4834" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.83398 17.458H7.65437" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3646 9.82715L10.3743 13.4173L8.70569 12.8734L7.02639 13.4271L7.02637 11.8607" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7932 6.03117V7.67765L14.857 7.04718L12.9101 7.68933L12.9043 3.58252" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.8413 18.4937C21.8374 19.9657 20.918 21.0038 19.445 20.9999L15.2303 20.9902C13.7612 20.9863 12.8428 19.9443 12.8457 18.4723L12.8554 14.5009C12.8584 13.0288 13.7778 11.9917 15.2508 11.9946L19.4654 12.0053C20.9394 12.0083 21.8539 13.0502 21.85 14.5223V15.5242" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3477 14.998H18.346" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.84962 18.4723C3.8467 19.9443 4.76513 20.9863 6.23423 20.9902L10.4489 20.9999C11.9219 21.0038 12.8413 19.9657 12.8452 18.4937L12.8539 14.5223C12.8578 13.0502 11.9433 12.0083 10.4693 12.0053L6.25466 11.9946C4.78167 11.9917 3.86226 13.0288 3.85935 14.5009V15.7275" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.35352 14.998H9.35188" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.8413 9.49907C16.8374 10.9711 15.918 12.0082 14.445 12.0053L10.2303 11.9956C8.76122 11.9917 7.84279 10.9497 7.84571 9.47766L7.85544 5.50623C7.85836 4.03421 8.77776 2.99709 10.2508 3.00001L14.4654 3.00974C15.9394 3.01363 16.8539 4.05562 16.85 5.52763V6.81939" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.3477 6.00439H13.346" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Delivery',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -1435,7 +2535,7 @@ class _DeliveryDeliveryBoxesTwotone {
   /// Delivery Boxes — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delivery Boxes',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.80793 9.83886L11.561 9.82718C13.2967 9.82329 14.3796 11.0453 14.3835 12.7791L14.3942 17.458C14.3981 19.1918 13.322 20.4187 11.5853 20.4235L5.83323 20.4352C4.09749 20.4391 3.01558 19.2171 3.01071 17.4823L3.00001 12.8044C2.99612 11.0706 4.07804 9.84275 5.80793 9.83886Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.83398 17.458H7.65437" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.3645 9.82715L10.3743 13.4173L8.70566 12.8734L7.02635 13.4271L7.02148 9.84174" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.586 20.4349L17.7418 20.4213C19.7558 20.4164 21.0051 18.993 21.0002 16.9819L20.9866 6.98875C20.9827 4.97767 19.7266 3.56009 17.7136 3.56495L11.9547 3.57858C9.94752 3.58344 8.69241 5.00686 8.69728 7.01794L8.70993 9.70425" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.7815 3.56494L16.7932 7.67759L14.857 7.04712L12.9101 7.68926L12.9043 3.58245" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.3803 20.9903L18.5949 21C20.0679 21.0039 20.9873 19.9658 20.9912 18.4938L21 14.5223C21.0039 13.0503 20.0893 12.0083 18.6154 12.0054L14.4007 11.9947C12.9277 11.9918 12.0083 13.0289 12.0054 14.5009L11.9957 18.4724C11.9928 19.9444 12.9112 20.9864 14.3803 20.9903Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.498 14.998H17.4964" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.38462 20.9902L9.59928 20.9999C11.0723 21.0038 11.9917 19.9657 11.9956 18.4937L12.0043 14.5223C12.0082 13.0502 11.0937 12.0083 9.61971 12.0053L5.40505 11.9946C3.93206 11.9917 3.01265 13.0288 3.00974 14.5009L3.00001 18.4723C2.99709 19.9443 3.91552 20.9863 5.38462 20.9902Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.50391 14.998H8.50227" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.38071 11.9956L13.5954 12.0053C15.0684 12.0082 15.9878 10.9711 15.9917 9.49907L16.0004 5.52763C16.0043 4.05562 15.0898 3.01363 13.6158 3.00974L9.40114 3.00001C7.92815 2.99709 7.00875 4.03421 7.00583 5.50623L6.9961 9.47766C6.99318 10.9497 7.91161 11.9917 9.38071 11.9956Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.498 6.00439H12.4964" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -1480,9 +2580,285 @@ class _DeliveryDeliveryBoxesLight {
   /// Delivery Boxes — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delivery Boxes',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.3802 20.9903L18.5949 21C20.0679 21.0039 20.9873 19.9658 20.9912 18.4938L20.9999 14.5223C21.0038 13.0503 20.0893 12.0083 18.6153 12.0054L14.4007 11.9947C12.9277 11.9918 12.0083 13.0289 12.0053 14.5009L11.9956 18.4724C11.9927 19.9444 12.9111 20.9864 14.3802 20.9903Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.498 14.998H17.4964" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.38462 20.9902L9.59928 20.9999C11.0723 21.0038 11.9917 19.9657 11.9956 18.4937L12.0043 14.5223C12.0082 13.0502 11.0937 12.0083 9.61971 12.0053L5.40505 11.9946C3.93206 11.9917 3.01265 13.0288 3.00974 14.5009L3.00001 18.4723C2.99709 19.9443 3.91552 20.9863 5.38462 20.9902Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.50391 14.998H8.50227" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.38071 11.9956L13.5954 12.0053C15.0684 12.0082 15.9878 10.9711 15.9917 9.49907L16.0004 5.52763C16.0043 4.05562 15.0898 3.01363 13.6158 3.00974L9.40114 3.00001C7.92815 2.99709 7.00875 4.03421 7.00583 5.50623L6.9961 9.47766C6.99318 10.9497 7.91161 11.9917 9.38071 11.9956Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.498 6.00439H12.4964" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Boxes 1 icon with style variants.
+class _DeliveryDeliveryBoxes1Icon {
+  const _DeliveryDeliveryBoxes1Icon();
+
+  /// broken style
+  _DeliveryDeliveryBoxes1Broken get broken => const _DeliveryDeliveryBoxes1Broken();
+}
+
+/// Delivery Boxes 1 — broken style variants.
+class _DeliveryDeliveryBoxes1Broken {
+  const _DeliveryDeliveryBoxes1Broken();
+
+  /// Delivery Boxes 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Boxes 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.01071 17.4823C3.01558 19.2171 4.09749 20.4391 5.83323 20.4352L11.5853 20.4235C13.322 20.4187 14.3981 19.1918 14.3942 17.458L14.3835 12.7791C14.3796 11.0453 13.2967 9.82327 11.561 9.82716L5.80793 9.83883C4.07804 9.84272 2.99612 11.0706 3.00001 12.8044L3.00536 15.1433" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.70993 9.70425L8.69728 7.01794C8.69241 5.00686 9.94752 3.58344 11.9547 3.57858L17.7136 3.56495C19.7266 3.56009 20.9827 4.97767 20.9866 6.98875L20.9934 11.9853" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.5859 20.4347L17.7418 20.421C19.7558 20.4162 21.005 18.9928 21.0002 16.9817L20.9968 14.4834" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.83398 17.458H7.65437" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3646 9.82715L10.3743 13.4173L8.70569 12.8734L7.02639 13.4271L7.02637 11.8607" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7932 6.03117V7.67765L14.857 7.04718L12.9101 7.68933L12.9043 3.58252" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Boxes 2 icon with style variants.
+class _DeliveryDeliveryBoxes2Icon {
+  const _DeliveryDeliveryBoxes2Icon();
+
+  /// broken style
+  _DeliveryDeliveryBoxes2Broken get broken => const _DeliveryDeliveryBoxes2Broken();
+}
+
+/// Delivery Boxes 2 — broken style variants.
+class _DeliveryDeliveryBoxes2Broken {
+  const _DeliveryDeliveryBoxes2Broken();
+
+  /// Delivery Boxes 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Boxes 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.312 20.5198C15.0763 20.5227 14.3047 19.6519 14.3017 18.4162L14.294 15.3726C14.291 14.1369 15.0617 13.2631 16.2945 13.2602L19.8313 13.2515C21.068 13.2486 21.8386 14.1194 21.8416 15.3541L21.8493 18.3987C21.8523 19.6334 21.0855 20.5081 19.8488 20.5111" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2695 16.0278H18.874" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3129 10.4929C15.0772 10.4958 14.3056 9.625 14.3027 8.39026L14.2949 5.60163C14.292 4.36591 15.0626 3.49118 16.2954 3.48923L19.8323 3.48048C21.069 3.47756 21.8396 4.3484 21.8425 5.58314L21.8503 8.37275C21.8532 9.60749 21.0865 10.4822 19.8498 10.4851" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2695 6.25684H18.874" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.85351 13.379L3.84962 8.57672C3.8467 7.34101 4.61732 6.46725 5.85012 6.46433L9.38699 6.45557C10.6237 6.45265 11.3943 7.32349 11.3972 8.55824L11.405 18.1637C11.4079 19.3985 10.6412 20.2732 9.4045 20.2761L5.86763 20.2839C4.63191 20.2868 3.86032 19.416 3.8574 18.1813L3.85546 16.7801" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.82422 9.54834H8.4287" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Boxes 3 icon with style variants.
+class _DeliveryDeliveryBoxes3Icon {
+  const _DeliveryDeliveryBoxes3Icon();
+
+  /// bold style
+  _DeliveryDeliveryBoxes3Bold get bold => const _DeliveryDeliveryBoxes3Bold();
+}
+
+/// Delivery Boxes 3 — bold style variants.
+class _DeliveryDeliveryBoxes3Bold {
+  const _DeliveryDeliveryBoxes3Bold();
+
+  /// Delivery Boxes 3 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Boxes 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6228 4.77018C14.7738 4.72118 14.9358 4.72018 15.0898 4.76918L16.0398 5.07918L16.0308 2.00818L13.6538 2.01718L13.6578 5.08718L14.6228 4.77018Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4897 5.92854C21.4797 3.57854 19.9697 1.99854 17.7097 1.99854H17.5297L17.5397 6.10854C17.5397 6.34854 17.4297 6.57854 17.2297 6.71853C17.0397 6.85853 16.7896 6.89854 16.5597 6.82854L14.8597 6.26854L13.1397 6.83854C13.0697 6.85854 12.9897 6.86854 12.9097 6.86854C12.7497 6.86854 12.5997 6.82854 12.4697 6.72854C12.2797 6.58854 12.1597 6.36854 12.1597 6.12854L12.1497 2.01854H11.9597C10.8896 2.01854 9.96965 2.37854 9.28965 3.05854C8.57965 3.76854 8.18965 4.79854 8.19965 5.96854L8.20965 8.64854C8.20965 8.69744 8.21851 8.74635 8.23302 8.79204C8.2548 8.86066 8.32413 8.8984 8.39612 8.89818L11.5597 8.88854H11.5897C12.8997 8.88854 14.0996 9.36853 14.9597 10.2285C15.8797 11.1285 16.3797 12.4185 16.3797 13.8385L16.3897 18.5185C16.3897 18.8897 16.3571 19.2544 16.2867 19.6074C16.2612 19.7354 16.3567 19.8585 16.4873 19.8585H17.7397C18.8097 19.8585 19.7297 19.5085 20.4097 18.8285C21.1097 18.1185 21.4997 17.0885 21.4997 15.9185L21.4897 5.92854Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.94024 12.7087L9.62124 12.9337L9.61571 10.5945C9.61545 10.4841 9.52579 10.3948 9.41539 10.395L7.97123 10.3973C7.86078 10.3975 7.77138 10.4872 7.77155 10.5976L7.77524 12.9407L8.46824 12.7097C8.62224 12.6577 8.78724 12.6587 8.94024 12.7087Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.65401 19.2712H5.83401C5.42001 19.2712 5.08401 18.9352 5.08401 18.5212C5.08401 18.1072 5.42001 17.7712 5.83401 17.7712H7.65401C8.06801 17.7712 8.40401 18.1072 8.40401 18.5212C8.40401 18.9352 8.06801 19.2712 7.65401 19.2712ZM13.908 11.2912C13.314 10.7022 12.51 10.3912 11.584 10.3912H11.559L11.3151 10.3918C11.2046 10.392 11.1152 10.4818 11.1155 10.5923L11.124 13.9692C11.125 14.2102 11.009 14.4372 10.814 14.5782C10.619 14.7202 10.366 14.7592 10.139 14.6832L8.70701 14.2112L7.26301 14.6922C7.18601 14.7182 7.10601 14.7312 7.02601 14.7312C6.87101 14.7312 6.71701 14.6832 6.58801 14.5902C6.39201 14.4492 6.27601 14.2232 6.27601 13.9822L6.27129 10.6004C6.27113 10.4899 6.18137 10.4004 6.07086 10.4007L5.80601 10.4012C4.86901 10.4012 4.05901 10.7162 3.46401 11.3132C2.84001 11.9392 2.49801 12.8482 2.50001 13.8722L2.51001 18.5422C2.51601 20.6112 3.85101 22.0012 5.83501 22.0012L11.585 21.9812C12.526 21.9812 13.338 21.6652 13.933 21.0682C14.555 20.4442 14.896 19.5402 14.893 18.5202L14.883 13.8402C14.881 12.8182 14.535 11.9132 13.908 11.2912Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Boxes 4 icon with style variants.
+class _DeliveryDeliveryBoxes4Icon {
+  const _DeliveryDeliveryBoxes4Icon();
+
+  /// bold style
+  _DeliveryDeliveryBoxes4Bold get bold => const _DeliveryDeliveryBoxes4Bold();
+}
+
+/// Delivery Boxes 4 — bold style variants.
+class _DeliveryDeliveryBoxes4Bold {
+  const _DeliveryDeliveryBoxes4Bold();
+
+  /// Delivery Boxes 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Boxes 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6228 4.77018C14.7738 4.72118 14.9358 4.72018 15.0898 4.76918L16.0398 5.07918L16.0308 2.00818L13.6538 2.01718L13.6578 5.08718L14.6228 4.77018Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4897 5.92854C21.4797 3.57854 19.9697 1.99854 17.7097 1.99854H17.5297L17.5397 6.10854C17.5397 6.34854 17.4297 6.57854 17.2297 6.71853C17.0397 6.85853 16.7896 6.89854 16.5597 6.82854L14.8597 6.26854L13.1397 6.83854C13.0697 6.85854 12.9897 6.86854 12.9097 6.86854C12.7497 6.86854 12.5997 6.82854 12.4697 6.72854C12.2797 6.58854 12.1597 6.36854 12.1597 6.12854L12.1497 2.01854H11.9597C10.8896 2.01854 9.96965 2.37854 9.28965 3.05854C8.57965 3.76854 8.18965 4.79854 8.19965 5.96854L8.20965 8.64854C8.20965 8.69744 8.21851 8.74635 8.23302 8.79204C8.2548 8.86066 8.32413 8.8984 8.39612 8.89818L11.5597 8.88854H11.5897C12.8997 8.88854 14.0996 9.36853 14.9597 10.2285C15.8797 11.1285 16.3797 12.4185 16.3797 13.8385L16.3897 18.5185C16.3897 18.8897 16.3571 19.2544 16.2867 19.6074C16.2612 19.7354 16.3567 19.8585 16.4873 19.8585H17.7397C18.8097 19.8585 19.7297 19.5085 20.4097 18.8285C21.1097 18.1185 21.4997 17.0885 21.4997 15.9185L21.4897 5.92854Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.94024 12.7087L9.62124 12.9337L9.61571 10.5945C9.61545 10.4841 9.52579 10.3948 9.41539 10.395L7.97123 10.3973C7.86078 10.3975 7.77138 10.4872 7.77155 10.5976L7.77524 12.9407L8.46824 12.7097C8.62224 12.6577 8.78724 12.6587 8.94024 12.7087Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.65401 19.2712H5.83401C5.42001 19.2712 5.08401 18.9352 5.08401 18.5212C5.08401 18.1072 5.42001 17.7712 5.83401 17.7712H7.65401C8.06801 17.7712 8.40401 18.1072 8.40401 18.5212C8.40401 18.9352 8.06801 19.2712 7.65401 19.2712ZM13.908 11.2912C13.314 10.7022 12.51 10.3912 11.584 10.3912H11.559L11.3151 10.3918C11.2046 10.392 11.1152 10.4818 11.1155 10.5923L11.124 13.9692C11.125 14.2102 11.009 14.4372 10.814 14.5782C10.619 14.7202 10.366 14.7592 10.139 14.6832L8.70701 14.2112L7.26301 14.6922C7.18601 14.7182 7.10601 14.7312 7.02601 14.7312C6.87101 14.7312 6.71701 14.6832 6.58801 14.5902C6.39201 14.4492 6.27601 14.2232 6.27601 13.9822L6.27129 10.6004C6.27113 10.4899 6.18137 10.4004 6.07086 10.4007L5.80601 10.4012C4.86901 10.4012 4.05901 10.7162 3.46401 11.3132C2.84001 11.9392 2.49801 12.8482 2.50001 13.8722L2.51001 18.5422C2.51601 20.6112 3.85101 22.0012 5.83501 22.0012L11.585 21.9812C12.526 21.9812 13.338 21.6652 13.933 21.0682C14.555 20.4442 14.896 19.5402 14.893 18.5202L14.883 13.8402C14.881 12.8182 14.535 11.9132 13.908 11.2912Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Boxes 5 icon with style variants.
+class _DeliveryDeliveryBoxes5Icon {
+  const _DeliveryDeliveryBoxes5Icon();
+
+  /// bulk style
+  _DeliveryDeliveryBoxes5Bulk get bulk => const _DeliveryDeliveryBoxes5Bulk();
+}
+
+/// Delivery Boxes 5 — bulk style variants.
+class _DeliveryDeliveryBoxes5Bulk {
+  const _DeliveryDeliveryBoxes5Bulk();
+
+  /// Delivery Boxes 5 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Boxes 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6231 4.77018C14.7741 4.72118 14.9361 4.72018 15.0901 4.76918L16.0401 5.07918L16.0311 2.00818L13.6541 2.01718L13.6581 5.08718L14.6231 4.77018Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4899 5.92854C21.4799 3.57854 19.9699 1.99854 17.7099 1.99854H17.5299L17.5399 6.10854C17.5399 6.34854 17.4299 6.57854 17.2299 6.71853C17.0399 6.85853 16.7899 6.89854 16.5599 6.82854L14.8599 6.26854L13.1399 6.83854C13.0699 6.85854 12.9899 6.86854 12.9099 6.86854C12.7499 6.86854 12.5999 6.82854 12.4699 6.72854C12.2799 6.58854 12.1599 6.36854 12.1599 6.12854L12.1499 2.01854H11.9599C10.8899 2.01854 9.96989 2.37854 9.28989 3.05854C8.57989 3.76854 8.18989 4.79854 8.19989 5.96854L8.20989 8.64854C8.20989 8.69744 8.21875 8.74635 8.23326 8.79204C8.25504 8.86066 8.32438 8.8984 8.39637 8.89818L11.5599 8.88854H11.5899C12.8999 8.88854 14.0999 9.36853 14.9599 10.2285C15.8799 11.1285 16.3799 12.4185 16.3799 13.8385L16.3899 18.5185C16.3899 18.8897 16.3573 19.2544 16.287 19.6074C16.2614 19.7354 16.3569 19.8585 16.4875 19.8585H17.7399C18.8099 19.8585 19.7299 19.5085 20.4099 18.8285C21.1099 18.1185 21.4999 17.0885 21.4999 15.9185L21.4899 5.92854Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.94024 12.708L9.62124 12.933L9.61571 10.5939C9.61545 10.4835 9.52579 10.3942 9.41539 10.3944L7.97123 10.3967C7.86078 10.3969 7.77138 10.4866 7.77155 10.597L7.77524 12.94L8.46824 12.709C8.62224 12.657 8.78724 12.658 8.94024 12.708Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.65401 19.2706H5.83401C5.42001 19.2706 5.08401 18.9346 5.08401 18.5206C5.08401 18.1066 5.42001 17.7706 5.83401 17.7706H7.65401C8.06801 17.7706 8.40401 18.1066 8.40401 18.5206C8.40401 18.9346 8.06801 19.2706 7.65401 19.2706ZM13.908 11.2906C13.314 10.7016 12.51 10.3906 11.584 10.3906H11.559L11.3151 10.3912C11.2046 10.3914 11.1152 10.4812 11.1155 10.5917L11.124 13.9686C11.125 14.2096 11.009 14.4366 10.814 14.5776C10.619 14.7196 10.366 14.7586 10.139 14.6826L8.70701 14.2106L7.26301 14.6916C7.18601 14.7176 7.10601 14.7306 7.02601 14.7306C6.87101 14.7306 6.71701 14.6826 6.58801 14.5896C6.39201 14.4486 6.27601 14.2226 6.27601 13.9816L6.27129 10.5998C6.27113 10.4893 6.18137 10.3998 6.07086 10.4001L5.80601 10.4006C4.86901 10.4006 4.05901 10.7156 3.46401 11.3126C2.84001 11.9386 2.49801 12.8476 2.50001 13.8716L2.51001 18.5416C2.51601 20.6106 3.85101 22.0006 5.83501 22.0006L11.585 21.9806C12.526 21.9806 13.338 21.6646 13.933 21.0676C14.555 20.4436 14.896 19.5396 14.893 18.5196L14.883 13.8396C14.881 12.8176 14.535 11.9126 13.908 11.2906Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Boxes 6 icon with style variants.
+class _DeliveryDeliveryBoxes6Icon {
+  const _DeliveryDeliveryBoxes6Icon();
+
+  /// bulk style
+  _DeliveryDeliveryBoxes6Bulk get bulk => const _DeliveryDeliveryBoxes6Bulk();
+}
+
+/// Delivery Boxes 6 — bulk style variants.
+class _DeliveryDeliveryBoxes6Bulk {
+  const _DeliveryDeliveryBoxes6Bulk();
+
+  /// Delivery Boxes 6 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Boxes 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6231 4.77018C14.7741 4.72118 14.9361 4.72018 15.0901 4.76918L16.0401 5.07918L16.0311 2.00818L13.6541 2.01718L13.6581 5.08718L14.6231 4.77018Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4899 5.92854C21.4799 3.57854 19.9699 1.99854 17.7099 1.99854H17.5299L17.5399 6.10854C17.5399 6.34854 17.4299 6.57854 17.2299 6.71853C17.0399 6.85853 16.7899 6.89854 16.5599 6.82854L14.8599 6.26854L13.1399 6.83854C13.0699 6.85854 12.9899 6.86854 12.9099 6.86854C12.7499 6.86854 12.5999 6.82854 12.4699 6.72854C12.2799 6.58854 12.1599 6.36854 12.1599 6.12854L12.1499 2.01854H11.9599C10.8899 2.01854 9.96989 2.37854 9.28989 3.05854C8.57989 3.76854 8.18989 4.79854 8.19989 5.96854L8.20989 8.64854C8.20989 8.69744 8.21875 8.74635 8.23326 8.79204C8.25504 8.86066 8.32438 8.8984 8.39637 8.89818L11.5599 8.88854H11.5899C12.8999 8.88854 14.0999 9.36853 14.9599 10.2285C15.8799 11.1285 16.3799 12.4185 16.3799 13.8385L16.3899 18.5185C16.3899 18.8897 16.3573 19.2544 16.287 19.6074C16.2614 19.7354 16.3569 19.8585 16.4875 19.8585H17.7399C18.8099 19.8585 19.7299 19.5085 20.4099 18.8285C21.1099 18.1185 21.4999 17.0885 21.4999 15.9185L21.4899 5.92854Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.94024 12.708L9.62124 12.933L9.61571 10.5939C9.61545 10.4835 9.52579 10.3942 9.41539 10.3944L7.97123 10.3967C7.86078 10.3969 7.77138 10.4866 7.77155 10.597L7.77524 12.94L8.46824 12.709C8.62224 12.657 8.78724 12.658 8.94024 12.708Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.65401 19.2706H5.83401C5.42001 19.2706 5.08401 18.9346 5.08401 18.5206C5.08401 18.1066 5.42001 17.7706 5.83401 17.7706H7.65401C8.06801 17.7706 8.40401 18.1066 8.40401 18.5206C8.40401 18.9346 8.06801 19.2706 7.65401 19.2706ZM13.908 11.2906C13.314 10.7016 12.51 10.3906 11.584 10.3906H11.559L11.3151 10.3912C11.2046 10.3914 11.1152 10.4812 11.1155 10.5917L11.124 13.9686C11.125 14.2096 11.009 14.4366 10.814 14.5776C10.619 14.7196 10.366 14.7586 10.139 14.6826L8.70701 14.2106L7.26301 14.6916C7.18601 14.7176 7.10601 14.7306 7.02601 14.7306C6.87101 14.7306 6.71701 14.6826 6.58801 14.5896C6.39201 14.4486 6.27601 14.2226 6.27601 13.9816L6.27129 10.5998C6.27113 10.4893 6.18137 10.3998 6.07086 10.4001L5.80601 10.4006C4.86901 10.4006 4.05901 10.7156 3.46401 11.3126C2.84001 11.9386 2.49801 12.8476 2.50001 13.8716L2.51001 18.5416C2.51601 20.6106 3.85101 22.0006 5.83501 22.0006L11.585 21.9806C12.526 21.9806 13.338 21.6646 13.933 21.0676C14.555 20.4436 14.896 19.5396 14.893 18.5196L14.883 13.8396C14.881 12.8176 14.535 11.9126 13.908 11.2906Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Boxes 7 icon with style variants.
+class _DeliveryDeliveryBoxes7Icon {
+  const _DeliveryDeliveryBoxes7Icon();
+
+  /// light style
+  _DeliveryDeliveryBoxes7Light get light => const _DeliveryDeliveryBoxes7Light();
+}
+
+/// Delivery Boxes 7 — light style variants.
+class _DeliveryDeliveryBoxes7Light {
+  const _DeliveryDeliveryBoxes7Light();
+
+  /// Delivery Boxes 7 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Boxes 7',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.80793 9.83886L11.561 9.82719C13.2967 9.8233 14.3796 11.0453 14.3835 12.7791L14.3942 17.458C14.3981 19.1918 13.322 20.4187 11.5853 20.4236L5.83323 20.4352C4.09749 20.4391 3.01558 19.2171 3.01071 17.4823L3.00001 12.8044C2.99612 11.0706 4.07804 9.84276 5.80793 9.83886Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.586 20.4349L17.7418 20.4213C19.7558 20.4164 21.0051 18.993 21.0002 16.9819L20.9866 6.98875C20.9827 4.97767 19.7266 3.56009 17.7136 3.56495L11.9547 3.57858C9.94752 3.58344 8.69241 5.00686 8.69728 7.01794L8.70993 9.70425" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.83398 17.458H7.65437" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3645 9.82715L10.3743 13.4173L8.70566 12.8734L7.02635 13.4271L7.02148 9.84174" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7815 3.56494L16.7932 7.67759L14.857 7.04712L12.9101 7.68926L12.9043 3.58245" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Boxes 8 icon with style variants.
+class _DeliveryDeliveryBoxes8Icon {
+  const _DeliveryDeliveryBoxes8Icon();
+
+  /// light style
+  _DeliveryDeliveryBoxes8Light get light => const _DeliveryDeliveryBoxes8Light();
+}
+
+/// Delivery Boxes 8 — light style variants.
+class _DeliveryDeliveryBoxes8Light {
+  const _DeliveryDeliveryBoxes8Light();
+
+  /// Delivery Boxes 8 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Boxes 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.80793 9.83886L11.561 9.82719C13.2967 9.8233 14.3796 11.0453 14.3835 12.7791L14.3942 17.458C14.3981 19.1918 13.322 20.4187 11.5853 20.4236L5.83323 20.4352C4.09749 20.4391 3.01558 19.2171 3.01071 17.4823L3.00001 12.8044C2.99612 11.0706 4.07804 9.84276 5.80793 9.83886Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.586 20.4349L17.7418 20.4213C19.7558 20.4164 21.0051 18.993 21.0002 16.9819L20.9866 6.98875C20.9827 4.97767 19.7266 3.56009 17.7136 3.56495L11.9547 3.57858C9.94752 3.58344 8.69241 5.00686 8.69728 7.01794L8.70993 9.70425" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.83398 17.458H7.65437" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3645 9.82715L10.3743 13.4173L8.70566 12.8734L7.02635 13.4271L7.02148 9.84174" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7815 3.56494L16.7932 7.67759L14.857 7.04712L12.9101 7.68926L12.9043 3.58245" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Boxes 9 icon with style variants.
+class _DeliveryDeliveryBoxes9Icon {
+  const _DeliveryDeliveryBoxes9Icon();
+
+  /// outline style
+  _DeliveryDeliveryBoxes9Outline get outline => const _DeliveryDeliveryBoxes9Outline();
+}
+
+/// Delivery Boxes 9 — outline style variants.
+class _DeliveryDeliveryBoxes9Outline {
+  const _DeliveryDeliveryBoxes9Outline();
+
+  /// Delivery Boxes 9 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Boxes 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.15382 16.8691C4.73975 16.8691 4.40382 17.209 4.40382 17.6191C4.40382 17.75 4.43653 17.8721 4.49391 17.978C4.54005 18.0635 4.60206 18.1387 4.67628 18.1992C4.80616 18.3057 4.97242 18.3691 5.15382 18.3691H6.97389C7.1797 18.3691 7.36622 18.2876 7.50172 18.1538C7.57911 18.0776 7.6399 17.9844 7.67823 17.8794C7.70777 17.7983 7.72389 17.7109 7.72389 17.6191C7.72389 17.209 7.38795 16.8691 6.97389 16.8691H5.15382Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.4878 21.0391L11.1021 21.0195C11.1323 21.0244 11.1631 21.0278 11.1943 21.0293H11.2398L17.3958 21.019C18.5879 21.019 19.6108 20.5889 20.3308 19.8091C21.0449 19.0391 21.4058 17.9893 21.4028 16.8291L21.3889 6.83887C21.387 5.6792 21.0217 4.62891 20.304 3.85938C19.5808 3.08936 18.5559 2.65918 17.3648 2.65918L16.4993 2.66211C16.4771 2.66016 16.4546 2.65918 16.4319 2.65918H16.4265L16.4067 2.66016L16.3892 2.66113L16.3745 2.6626L12.5559 2.6792H11.606C10.4158 2.6792 9.39478 3.10938 8.67481 3.88916C8.4004 4.18457 8.17799 4.521 8.00807 4.88916C7.91309 5.09521 7.83448 5.31104 7.77247 5.53516C7.6565 5.95459 7.59864 6.40283 7.59986 6.86914L7.60987 8.93555L6.67286 8.93945H5.45899C4.40797 8.93945 3.49879 9.31885 2.85694 10.0088C2.21974 10.6992 1.90089 11.6294 1.90284 12.6592L1.91383 17.3291C1.91676 18.3589 2.23878 19.2891 2.87794 19.9692C3.52271 20.6592 4.43482 21.0391 5.4878 21.0391ZM13.3079 4.17334L15.686 4.16504L15.6929 6.48877L14.742 6.1792C14.5899 6.12939 14.4268 6.12939 14.2749 6.1792L13.3113 6.50098L13.3079 4.17334ZM11.6089 4.1792L11.8079 4.17871L11.8128 7.53906C11.8128 7.7793 11.929 8.00928 12.1238 8.14941C12.3189 8.28906 12.5698 8.3291 12.7979 8.24902L14.5125 7.68555L16.2139 8.23926C16.4429 8.31885 16.6929 8.2793 16.8879 8.12891C17.0818 7.98926 17.1968 7.76904 17.1958 7.5293L17.186 4.15967L17.3679 4.15918C18.189 4.15918 18.7998 4.44922 19.209 4.87891C19.6228 5.3291 19.8879 5.98926 19.8889 6.83887L19.9028 16.8291C19.9048 17.6792 19.6428 18.3491 19.231 18.7891C18.8237 19.229 18.2149 19.519 17.3928 19.519L14.1782 19.5244C14.2654 19.3921 14.3433 19.2539 14.4121 19.1104C14.6699 18.5723 14.7981 17.959 14.7969 17.3091L14.7859 12.6289C14.7839 11.6094 14.4619 10.6689 13.8218 9.98926C13.1768 9.29883 12.2649 8.91943 11.2119 8.9292L10.0711 8.93115C10.0525 8.92969 10.0337 8.9292 10.0149 8.9292C9.99537 8.9292 9.97584 8.93018 9.9568 8.93164L9.10987 8.93311L9.09986 6.86914V6.85938C9.09986 6.01367 9.36231 5.34766 9.77393 4.90918C10.1819 4.46924 10.7908 4.1792 11.6089 4.1792ZM5.46192 10.4395L5.92481 10.4385L5.92896 13.2793C5.92896 13.519 6.04493 13.7393 6.23976 13.8892C6.43482 14.0293 6.68482 14.0591 6.91383 13.9893L8.36085 13.5156L9.79395 13.979C10.023 14.0591 10.2739 14.019 10.4678 13.8691C10.6629 13.729 10.7769 13.5093 10.7769 13.269L10.7691 10.4302L11.2149 10.4292C11.897 10.4292 12.3958 10.6592 12.7268 11.0088C13.0637 11.3691 13.2849 11.9189 13.2859 12.6289L13.2969 17.3091C13.2981 17.7871 13.1992 18.1929 13.0325 18.5166C12.9841 18.6104 12.9302 18.6973 12.8713 18.7769C12.8313 18.8311 12.7891 18.8818 12.7449 18.9292C12.4158 19.2793 11.9209 19.519 11.2368 19.519L5.48487 19.5391C4.80177 19.5391 4.30494 19.2993 3.97389 18.9492C3.63673 18.5894 3.41578 18.0391 3.41383 17.3291L3.40284 12.6494C3.40089 11.939 3.62086 11.3989 3.9568 11.0293C4.28687 10.6792 4.78297 10.4395 5.46192 10.4395ZM7.42481 10.436L9.26905 10.4326L9.27393 12.23L8.59083 12.0088C8.43873 11.959 8.27491 11.959 8.12281 12.0088L7.4275 12.2368L7.42481 10.436Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Boxes 10 icon with style variants.
+class _DeliveryDeliveryBoxes10Icon {
+  const _DeliveryDeliveryBoxes10Icon();
+
+  /// outline style
+  _DeliveryDeliveryBoxes10Outline get outline => const _DeliveryDeliveryBoxes10Outline();
+}
+
+/// Delivery Boxes 10 — outline style variants.
+class _DeliveryDeliveryBoxes10Outline {
+  const _DeliveryDeliveryBoxes10Outline();
+
+  /// Delivery Boxes 10 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Boxes 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.22413 9.55029C5.22413 9.12988 5.56007 8.80029 5.97413 8.80029H7.57814C7.8257 8.80029 8.04542 8.91846 8.18214 9.10303C8.27394 9.22705 8.32814 9.38135 8.32814 9.55029C8.32814 9.95996 7.9922 10.3003 7.57814 10.3003H5.97413C5.56007 10.3003 5.22413 9.95996 5.22413 9.55029Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.98683 6.55029C3.48878 6.01025 4.19581 5.71973 4.99806 5.70996H8.53517C8.75489 5.70752 8.96779 5.72705 9.17091 5.76807C9.71144 5.87744 10.186 6.1377 10.5532 6.52979C10.8794 6.87598 11.0962 7.30322 11.2075 7.77539C11.2666 8.02637 11.2964 8.28955 11.2969 8.56006L11.3052 18.1597C11.3067 18.6792 11.1973 19.1802 10.9736 19.6143C10.8657 19.8237 10.7315 20.0176 10.5698 20.1899C10.0669 20.73 9.35988 21.02 8.55616 21.0298H5.01905C4.21583 21.04 3.50685 20.75 3.00294 20.21C2.50294 19.6802 2.2588 18.96 2.25685 18.1802L2.25001 8.58008C2.24806 7.80029 2.49025 7.08008 2.98683 6.55029ZM4.08595 7.56982C3.89112 7.78027 3.74904 8.10986 3.75001 8.56982L3.75685 18.1802C3.75782 18.6401 3.90187 18.9697 4.09816 19.1802C4.28907 19.3901 4.58302 19.5298 5.01612 19.5298H8.55323C8.98585 19.5298 9.2798 19.3799 9.46925 19.1699C9.66505 18.96 9.80616 18.6299 9.80519 18.1699L9.79689 8.56006C9.79591 8.1001 9.65284 7.76025 9.45704 7.56006C9.2671 7.3501 8.97218 7.2002 8.53907 7.20996H5.00196C4.79298 7.21484 4.61622 7.25 4.46779 7.30908C4.31007 7.37207 4.18409 7.46143 4.08595 7.56982Z" fill="black"/> <path d="M15.668 6.26025C15.668 5.83984 16.0039 5.51025 16.418 5.51025H18.023C18.437 5.51025 18.773 5.83984 18.773 6.26025C18.773 6.66992 18.437 7.01025 18.023 7.01025H16.418C16.1553 7.01025 15.9243 6.87354 15.7901 6.66895C15.7129 6.55078 15.668 6.41016 15.668 6.26025Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4429 2.73975L18.98 2.72998C19.7832 2.72998 20.4922 3.02002 20.9971 3.56006C21.4961 4.08984 21.7402 4.81006 21.7422 5.58008L21.75 8.37012C21.751 9.14014 21.5112 9.85986 21.0142 10.3999C20.7329 10.7026 20.3872 10.9268 19.9961 11.0669C19.6895 11.1768 19.3545 11.2354 19.001 11.2397H15.4639C14.6611 11.2397 13.9522 10.96 13.4468 10.4199C12.9483 9.87988 12.7041 9.15967 12.7022 8.39014L12.6939 5.6001C12.6929 5.1333 12.7813 4.68506 12.9619 4.28418C13.0791 4.02344 13.2354 3.78271 13.4312 3.56982C13.9341 3.03027 14.6411 2.73975 15.4429 2.73975ZM18.9829 4.22998L15.4458 4.23975C15.0151 4.23975 14.7212 4.39014 14.5308 4.59033C14.417 4.7124 14.3213 4.87842 14.2612 5.08643C14.2183 5.23633 14.1934 5.40771 14.1939 5.6001L14.2022 8.39014C14.2031 8.8501 14.3462 9.17969 14.543 9.39014C14.7329 9.6001 15.0278 9.73975 15.4609 9.73975H18.9971C19.4302 9.72998 19.7251 9.58984 19.9141 9.37988C20.1089 9.16992 20.251 8.84033 20.25 8.37012L20.2422 5.59033V5.58008C20.2412 5.12012 20.0982 4.79004 19.9019 4.58008C19.7109 4.37988 19.416 4.22998 18.9829 4.22998Z" fill="black"/> <path d="M15.668 16.0298C15.668 15.6099 16.0039 15.2798 16.418 15.2798H18.023C18.437 15.2798 18.773 15.6099 18.773 16.0298C18.773 16.4399 18.437 16.7798 18.023 16.7798H16.418C16.0039 16.7798 15.668 16.4399 15.668 16.0298Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4429 12.5103L18.98 12.5C19.7832 12.5 20.4922 12.79 20.9971 13.3301C21.4961 13.8599 21.7402 14.5801 21.7422 15.3501L21.75 18.3999C21.751 19.1699 21.5112 19.8901 21.0142 20.4302C20.5122 20.9697 19.8052 21.2603 19.001 21.2603L15.4639 21.27C14.6611 21.27 13.9522 20.98 13.4468 20.4399C12.9483 19.9102 12.7041 19.1899 12.7022 18.4199L12.6939 15.3701C12.6919 14.6001 12.9341 13.8799 13.4312 13.3403C13.9341 12.8003 14.6411 12.5103 15.4429 12.5103ZM18.9829 14L15.4458 14.0103C15.0161 14.0103 14.7212 14.1602 14.5308 14.3599C14.335 14.5801 14.1929 14.9102 14.1939 15.3701L14.2022 18.4097C14.2031 18.8799 14.3462 19.21 14.543 19.4199C14.667 19.5508 14.8364 19.6602 15.0596 19.7202C15.1773 19.752 15.3106 19.77 15.46 19.77L18.9971 19.7603C19.4302 19.7603 19.7251 19.6099 19.9141 19.4097C20.1089 19.1997 20.251 18.8599 20.25 18.3999L20.2422 15.3599C20.2417 15.1299 20.2075 14.9336 20.1494 14.7681C20.0884 14.5957 20.002 14.4575 19.9019 14.3501C19.7954 14.2383 19.6567 14.1426 19.48 14.0796C19.3394 14.0293 19.1748 14 18.9829 14Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Boxes 11 icon with style variants.
+class _DeliveryDeliveryBoxes11Icon {
+  const _DeliveryDeliveryBoxes11Icon();
+
+  /// twoTone style
+  _DeliveryDeliveryBoxes11Twotone get twoTone => const _DeliveryDeliveryBoxes11Twotone();
+}
+
+/// Delivery Boxes 11 — twoTone style variants.
+class _DeliveryDeliveryBoxes11Twotone {
+  const _DeliveryDeliveryBoxes11Twotone();
+
+  /// Delivery Boxes 11 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Boxes 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.80793 9.83886L11.561 9.82718C13.2967 9.82329 14.3796 11.0453 14.3835 12.7791L14.3942 17.458C14.3981 19.1918 13.322 20.4187 11.5853 20.4235L5.83323 20.4352C4.09749 20.4391 3.01558 19.2171 3.01071 17.4823L3.00001 12.8044C2.99612 11.0706 4.07804 9.84275 5.80793 9.83886Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.83398 17.458H7.65437" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.3645 9.82715L10.3743 13.4173L8.70566 12.8734L7.02635 13.4271L7.02148 9.84174" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.586 20.4349L17.7418 20.4213C19.7558 20.4164 21.0051 18.993 21.0002 16.9819L20.9866 6.98875C20.9827 4.97767 19.7266 3.56009 17.7136 3.56495L11.9547 3.57858C9.94752 3.58344 8.69241 5.00686 8.69728 7.01794L8.70993 9.70425" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.7815 3.56494L16.7932 7.67759L14.857 7.04712L12.9101 7.68926L12.9043 3.58245" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Boxes 12 icon with style variants.
+class _DeliveryDeliveryBoxes12Icon {
+  const _DeliveryDeliveryBoxes12Icon();
+
+  /// twoTone style
+  _DeliveryDeliveryBoxes12Twotone get twoTone => const _DeliveryDeliveryBoxes12Twotone();
+}
+
+/// Delivery Boxes 12 — twoTone style variants.
+class _DeliveryDeliveryBoxes12Twotone {
+  const _DeliveryDeliveryBoxes12Twotone();
+
+  /// Delivery Boxes 12 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Boxes 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.4451 13.2601L18.982 13.2514C20.2186 13.2485 20.9893 14.1193 20.9922 15.354L21 18.3986C21.0029 19.6333 20.2362 20.5081 18.9995 20.511L15.4626 20.5197C14.2269 20.5226 13.4553 19.6518 13.4524 18.4161L13.4446 15.3725C13.4417 14.1368 14.2123 13.2631 15.4451 13.2601Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.4199 16.0278H18.0244" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4458 3.48923L18.9827 3.48048C20.2194 3.47756 20.99 4.3484 20.9929 5.58314L21.0007 8.37275C21.0036 9.60749 20.2369 10.4822 19.0002 10.4851L15.4633 10.4929C14.2276 10.4958 13.456 9.625 13.4531 8.39026L13.4453 5.60163C13.4424 4.36591 14.213 3.49118 15.4458 3.48923Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.4199 6.25684H18.0244" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.00051 6.46433L8.53738 6.45557C9.77407 6.45265 10.5447 7.32349 10.5476 8.55824L10.5554 18.1637C10.5583 19.3985 9.79158 20.2732 8.55489 20.2761L5.01802 20.2839C3.7823 20.2868 3.01071 19.416 3.00779 18.1813L3.00001 8.57672C2.99709 7.34101 3.76771 6.46725 5.00051 6.46433Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.97461 9.54834H7.57909" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -2377,7 +3753,7 @@ class _DeliveryDeliveryBulk {
   /// Delivery — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delivery',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7997 7.26514C11.9654 7.26514 12.0997 7.13082 12.0997 6.96514V2.81514C12.0997 2.64945 11.9654 2.51514 11.7997 2.51514H7.74669C6.39469 2.51514 5.19669 3.32914 4.69569 4.59014L3.84969 6.69914C3.82548 6.75932 3.80235 6.82015 3.78014 6.88147C3.71165 7.07065 3.8565 7.26514 4.0577 7.26514H11.7997Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5997 6.96514C13.5997 7.13082 13.734 7.26514 13.8997 7.26514H21.6525C21.8538 7.26514 21.9984 7.07064 21.9292 6.88163C21.9056 6.81688 21.8808 6.75239 21.8547 6.68814L21.0067 4.57914C20.5057 3.32614 19.3087 2.51514 17.9577 2.51514H13.8997C13.734 2.51514 13.5997 2.64945 13.5997 2.81514V6.96514Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.66385 8.76538C3.50651 8.76538 3.37404 8.88683 3.36641 9.04398C3.3635 9.10412 3.36164 9.16425 3.36164 9.22438L3.34964 16.9134C3.34164 19.7594 4.81664 21.4644 7.29464 21.4754L18.4256 21.4844C19.5456 21.4844 20.4556 21.1464 21.1276 20.4784C21.9146 19.6974 22.3316 18.4794 22.3356 16.9564L22.3496 9.24538C22.3496 9.17835 22.3477 9.1115 22.3447 9.04482C22.3376 8.88733 22.2053 8.76538 22.0477 8.76538H3.66385Z" fill="black"/> </g> <path d="M7.95264 13.2987H9.14964C9.56364 13.2987 9.89964 13.6347 9.89964 14.0487C9.89964 14.4627 9.56364 14.7987 9.14964 14.7987H7.95264C7.53864 14.7987 7.20264 14.4627 7.20264 14.0487C7.20264 13.6347 7.53864 13.2987 7.95264 13.2987Z" fill="black"/> <path d="M10.9486 17.6388H7.95264C7.53864 17.6388 7.20264 17.3027 7.20264 16.8888C7.20264 16.4748 7.53864 16.1388 7.95264 16.1388H10.9486C11.3626 16.1388 11.6986 16.4748 11.6986 16.8888C11.6986 17.3027 11.3626 17.6388 10.9486 17.6388Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.2716 14.5787C19.2716 15.4327 18.5766 16.1287 17.7226 16.1287H15.6606C14.8066 16.1287 14.1126 15.4327 14.1126 14.5787V12.5188C14.1126 11.6638 14.8066 10.9688 15.6606 10.9688H17.7226C18.5766 10.9688 19.2716 11.6638 19.2716 12.5188V14.5787ZM15.6604 14.6288L15.6124 14.5788L15.6604 12.4688L17.7714 12.5188L17.7224 14.6288H15.6604Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M22.3296 8.009C22.3256 6.369 21.7756 4.922 20.7816 3.933C19.8386 2.995 18.5526 2.5 17.0626 2.5H17.0396L16.7272 2.50102C16.5617 2.50156 16.4279 2.63605 16.4282 2.80157L16.4426 10.638C16.4426 10.879 16.3286 11.105 16.1336 11.246C15.9396 11.387 15.6896 11.427 15.4606 11.353L12.8626 10.509L10.2476 11.372C10.1706 11.398 10.0916 11.41 10.0126 11.41C9.85661 11.41 9.70361 11.362 9.57361 11.268C9.37861 11.127 9.26361 10.901 9.26261 10.661L9.25394 2.81861C9.25376 2.65269 9.11892 2.51842 8.953 2.51894L8.61461 2.52H8.61361C5.45761 2.531 3.34261 4.754 3.35061 8.051L3.36861 15.991C3.37261 17.581 3.86561 18.947 4.79561 19.943C5.74861 20.962 7.07661 21.5 8.63661 21.5H8.65861L17.0836 21.48C20.2396 21.469 22.3546 19.247 22.3486 15.949L22.3296 8.009Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.7616 9.62314L12.6256 9.00814C12.7756 8.95814 12.9386 8.95714 13.0926 9.00714L14.9406 9.60714L14.9272 2.80527C14.9268 2.63953 14.7922 2.50546 14.6264 2.50586L11.0532 2.51442C10.8877 2.51482 10.7537 2.64922 10.7539 2.81476L10.7616 9.62314Z" fill="black"/> </svg>',
     category: 'Delivery',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -2392,7 +3768,7 @@ class _DeliveryDeliveryBroken {
   /// Delivery — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delivery',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.8501 20.9776L18.4043 20.9854C20.7784 20.9913 21.8301 19.3197 21.836 16.9476L21.8496 9.23777C21.8506 8.42534 21.6949 7.61972 21.3913 6.86664L20.5429 4.76016C20.1187 3.70546 19.0951 3.01465 17.9577 3.01465H7.74736C6.60801 3.01465 5.5825 3.70838 5.16023 4.76697L4.31374 6.88318C4.01698 7.62556 3.86325 8.41853 3.86228 9.21734L3.84963 16.9135C3.8438 19.2857 4.92087 20.964 7.2959 20.9699L9.073 20.9738" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.95312 16.4778H10.9489M7.95312 13.6396H9.14988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6611 14.9699H17.7228C18.1636 14.9699 18.5217 14.6128 18.5217 14.1711V12.1094C18.5217 11.6686 18.1636 11.3115 17.7228 11.3115H15.6611C15.2204 11.3115 14.8633 11.6686 14.8633 12.1094V14.1711C14.8633 14.6128 15.2204 14.9699 15.6611 14.9699Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8496 8.00697V3.01465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.98633 8.00684H18.7151" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.65844 21C5.7127 21.0068 3.87587 18.9328 3.86907 15.99L3.8506 8.05179C3.8438 5.10994 5.67966 3.02723 8.61567 3.02043L17.0408 3.00002C19.9856 2.99321 21.8234 5.06718 21.8302 8.01L21.8486 15.9472C21.8554 18.8901 20.0283 20.9728 17.0826 20.9796L12.8705 20.9898" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.6767 7.00012L15.6932 10.6409L12.8612 9.71865L10.0127 10.6575L10.0039 3.02539" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Delivery',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -2407,7 +3783,7 @@ class _DeliveryDeliveryTwotone {
   /// Delivery — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delivery',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.31062 4.76692L3.46413 6.88314C3.16737 7.62551 3.01365 8.41849 3.01267 9.2173L3.00002 16.9135C2.99419 19.2856 4.07126 20.964 6.44629 20.9698L17.5547 20.9854C19.9288 20.9912 20.9805 19.3197 20.9864 16.9476L21 9.23773C21.001 8.4253 20.8453 7.61968 20.5417 6.8666L19.6933 4.76011C19.2691 3.70541 18.2455 3.0146 17.1081 3.0146H6.89775C5.7584 3.0146 4.73289 3.70833 4.31062 4.76692Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.10352 16.4778H10.0993M7.10352 13.6396H8.30027" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.8115 14.9699H16.8732C17.314 14.9699 17.672 14.6128 17.672 14.1711V12.1094C17.672 11.6686 17.314 11.3115 16.8732 11.3115H14.8115C14.3708 11.3115 14.0137 11.6686 14.0137 12.1094V14.1711C14.0137 14.6128 14.3708 14.9699 14.8115 14.9699Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12 8.00697V3.01465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.13672 8.00684H20.8623" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.76606 3.02043L16.1912 3.00002C19.1359 2.99321 20.9737 5.06718 20.9806 8.01L20.999 15.9472C21.0058 18.8901 19.1787 20.9728 16.233 20.9796L7.80883 21C4.86309 21.0068 3.02626 18.9328 3.01946 15.99L3.001 8.05179C2.99419 5.10994 4.83005 3.02723 7.76606 3.02043Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.8271 3L14.8436 10.6408L12.0116 9.71852L9.16304 10.6573L9.1543 3.02527" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -2422,7 +3798,7 @@ class _DeliveryDeliveryOutline {
   /// Delivery — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delivery',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.64896 15.8806C6.77494 15.7859 6.93217 15.7302 7.10209 15.7302H10.0982C10.5122 15.7302 10.8482 16.0598 10.8482 16.4802C10.8482 16.7219 10.731 16.9397 10.5498 17.0774C10.4244 17.1731 10.2676 17.2302 10.0982 17.2302H7.10209C6.68803 17.2302 6.35209 16.8899 6.35209 16.4802C6.35209 16.2327 6.46879 16.0164 6.64896 15.8806Z" fill="black"/> <path d="M6.35209 13.6399C6.35209 13.2297 6.68803 12.8899 7.10209 12.8899H8.29887C8.71293 12.8899 9.04887 13.2297 9.04887 13.6399C9.04887 14.05 8.71293 14.3899 8.29887 14.3899H7.10209C6.68803 14.3899 6.35209 14.05 6.35209 13.6399Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4219 14.1697C18.4219 15.03 17.7281 15.72 16.8741 15.72H14.8121C13.9561 15.72 13.2642 15.03 13.2642 14.1697V12.1101C13.2642 11.2502 13.9571 10.5603 14.8121 10.5603H16.8741C17.7271 10.5603 18.4219 11.2502 18.4219 12.1101V14.1697ZM16.8741 14.22C16.9009 14.22 16.9219 14.2 16.9219 14.1697V12.1101C16.9219 12.0803 16.9009 12.0603 16.8741 12.0603H14.8121C14.7984 12.0603 14.7862 12.0657 14.7774 12.0745C14.771 12.0808 14.7671 12.0891 14.7652 12.0994L14.7642 12.1047V12.1101V14.1697C14.7642 14.2 14.7862 14.22 14.8121 14.22H16.8741Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.76713 6.60034L3.6143 4.48999C4.14994 3.13989 5.45219 2.26001 6.89701 2.26001H17.1079C18.5513 2.26001 19.8501 3.13989 20.3892 4.48022L21.2369 6.59009C21.4317 7.07104 21.5718 7.57153 21.6558 8.08228C21.7188 8.46362 21.7505 8.85083 21.75 9.23999L21.7359 16.95C21.7329 18.2297 21.4493 19.4299 20.7481 20.3201C20.024 21.24 18.9341 21.74 17.5523 21.74L6.44389 21.72C5.06303 21.72 3.96928 21.22 3.24125 20.2898C2.5352 19.4001 2.24613 18.2 2.25004 16.9099L2.26225 9.21997C2.26322 8.32007 2.4351 7.44019 2.76713 6.60034ZM3.78178 8.76001C3.76908 8.91235 3.76225 9.06567 3.76225 9.21997L3.75004 16.9099V16.9197C3.74711 17.9998 3.99418 18.8303 4.41898 19.3601C4.8223 19.8801 5.45414 20.22 6.4473 20.22L17.5562 20.24C18.2349 20.24 18.7412 20.0808 19.1202 19.8206C19.295 19.7004 19.4429 19.5583 19.5679 19.4001C19.9878 18.8601 20.2329 18.0398 20.2359 16.95L20.25 9.23999C20.25 9.07935 20.2432 8.91919 20.2295 8.76001H3.78178ZM12.75 7.26001H19.8892C19.875 7.22339 19.8609 7.18677 19.8462 7.15015L18.9971 5.03979C18.687 4.27026 17.939 3.76001 17.1079 3.76001H12.75V7.26001ZM11.25 3.76001H6.89701C6.064 3.76001 5.31498 4.27026 5.00688 5.03979V5.05005L4.1602 7.15991C4.14701 7.19312 4.13432 7.22681 4.12162 7.26001H11.25V3.76001Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8969 2.25315C14.8736 2.25102 14.8499 2.24995 14.826 2.25C14.802 2.25005 14.7783 2.25123 14.7548 2.25349L7.76433 2.27043C7.7643 2.27043 7.76435 2.27043 7.76433 2.27043C6.1106 2.27428 4.71128 2.86798 3.73019 3.92533C2.75451 4.97685 2.24724 6.42687 2.251 8.05352L2.26946 15.9917C2.26946 15.9917 2.26946 15.9917 2.26946 15.9917C2.27322 17.6179 2.78446 19.0659 3.76431 20.1134C4.74982 21.167 6.15253 21.7538 7.81056 21.75L16.2347 21.7296C16.2347 21.7296 16.2347 21.7296 16.2347 21.7296C17.8927 21.7257 19.2927 21.1324 20.2733 20.0742C21.2483 19.0221 21.7528 17.5716 21.749 15.9455L21.7305 8.00826C21.7268 6.38201 21.2153 4.93402 20.2353 3.88652C19.2497 2.833 17.8471 2.24619 16.1895 2.25002L14.8969 2.25315ZM14.0793 3.75513L9.90572 3.76525L9.91243 9.62087L11.7774 9.00621C11.929 8.95624 12.0926 8.95596 12.2444 9.00539L14.092 9.60708L14.0793 3.75513ZM8.40573 3.76888L7.76788 3.77042C6.48562 3.77339 5.49889 4.22445 4.82976 4.9456C4.1552 5.67259 3.74795 6.73485 3.75099 8.05004C3.75099 8.05004 3.75099 8.05005 3.75099 8.05004L3.76946 15.9883C3.7725 17.3049 4.18308 18.3653 4.85978 19.0888C5.5308 19.8061 6.51935 20.2529 7.80701 20.25C7.80698 20.25 7.80704 20.25 7.80701 20.25L16.2312 20.2296C17.5188 20.2266 18.5054 19.7752 19.1731 19.0546C19.8464 18.328 20.2521 17.2657 20.249 15.949L20.2306 8.01174C20.2275 6.69518 19.8167 5.63477 19.1399 4.91128C18.4687 4.19382 17.4801 3.74706 16.193 3.75001C16.193 3.75001 16.193 3.75001 16.193 3.75001L15.5793 3.7515L15.5942 10.6392C15.5947 10.8797 15.4799 11.1058 15.2855 11.2473C15.0911 11.3887 14.8406 11.4284 14.6119 11.354L12.0136 10.5077L9.39838 11.3697C9.16999 11.4449 8.91934 11.4061 8.72441 11.2653C8.52948 11.1245 8.4139 10.8987 8.41362 10.6582L8.40573 3.76888Z" fill="black"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -2437,7 +3813,7 @@ class _DeliveryDeliveryBold {
   /// Delivery — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delivery',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6124 14.5784L15.6604 14.6284H17.7224L17.7714 12.5184L15.6604 12.4684L15.6124 14.5784Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7997 7.26514C11.9654 7.26514 12.0997 7.13082 12.0997 6.96514V2.81514C12.0997 2.64945 11.9654 2.51514 11.7997 2.51514H7.74669C6.39469 2.51514 5.19669 3.32914 4.69569 4.59014L3.84969 6.69914C3.82548 6.75932 3.80235 6.82015 3.78014 6.88147C3.71165 7.07065 3.8565 7.26514 4.0577 7.26514H11.7997Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5997 6.96514C13.5997 7.13082 13.734 7.26514 13.8997 7.26514H21.6525C21.8538 7.26514 21.9984 7.07064 21.9292 6.88163C21.9056 6.81688 21.8808 6.75239 21.8547 6.68814L21.0067 4.57914C20.5057 3.32614 19.3087 2.51514 17.9577 2.51514H13.8997C13.734 2.51514 13.5997 2.64945 13.5997 2.81514V6.96514Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.2716 14.5784C19.2716 15.4324 18.5766 16.1284 17.7226 16.1284H15.6606C14.8066 16.1284 14.1126 15.4324 14.1126 14.5784V12.5184C14.1126 11.6634 14.8066 10.9684 15.6606 10.9684H17.7226C18.5766 10.9684 19.2716 11.6634 19.2716 12.5184V14.5784ZM10.9486 17.6384H7.95264C7.53864 17.6384 7.20264 17.3024 7.20264 16.8884C7.20264 16.4744 7.53864 16.1384 7.95264 16.1384H10.9486C11.3626 16.1384 11.6986 16.4744 11.6986 16.8884C11.6986 17.3024 11.3626 17.6384 10.9486 17.6384ZM7.95264 13.2984H9.14964C9.56364 13.2984 9.89964 13.6344 9.89964 14.0484C9.89964 14.4624 9.56364 14.7984 9.14964 14.7984H7.95264C7.53864 14.7984 7.20264 14.4624 7.20264 14.0484C7.20264 13.6344 7.53864 13.2984 7.95264 13.2984ZM3.66385 8.76538C3.50651 8.76538 3.37404 8.88683 3.36641 9.04398C3.3635 9.10412 3.36164 9.16425 3.36164 9.22438L3.34964 16.9134C3.34164 19.7594 4.81664 21.4644 7.29464 21.4754L18.4256 21.4844C19.5456 21.4844 20.4556 21.1464 21.1276 20.4784C21.9146 19.6974 22.3316 18.4794 22.3356 16.9564L22.3496 9.24538C22.3496 9.17835 22.3477 9.1115 22.3447 9.04482C22.3376 8.88733 22.2053 8.76538 22.0477 8.76538H3.66385Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.7617 9.62276L12.6257 9.00776C12.7757 8.95776 12.9387 8.95676 13.0927 9.00676L14.9407 9.60676L14.9273 2.80489C14.927 2.63915 14.7923 2.50508 14.6266 2.50548L11.0533 2.51404C10.8878 2.51444 10.7539 2.64884 10.7541 2.81438L10.7617 9.62276Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.3296 8.009C22.3256 6.369 21.7756 4.922 20.7816 3.933C19.8386 2.995 18.5526 2.5 17.0626 2.5H17.0396L16.7272 2.50102C16.5617 2.50156 16.4279 2.63605 16.4282 2.80157L16.4426 10.638C16.4426 10.879 16.3286 11.105 16.1336 11.246C15.9396 11.387 15.6896 11.427 15.4606 11.353L12.8626 10.509L10.2476 11.372C10.1706 11.398 10.0916 11.41 10.0126 11.41C9.85661 11.41 9.70361 11.362 9.57361 11.268C9.37861 11.127 9.26361 10.901 9.26261 10.661L9.25394 2.81861C9.25376 2.65269 9.11892 2.51842 8.953 2.51894L8.61461 2.52H8.61361C5.45761 2.531 3.34261 4.754 3.35061 8.051L3.36861 15.991C3.37261 17.581 3.86561 18.947 4.79561 19.943C5.74861 20.962 7.07661 21.5 8.63661 21.5H8.65861L17.0836 21.48C20.2396 21.469 22.3546 19.247 22.3486 15.949L22.3296 8.009Z" fill="black"/> </svg>',
     category: 'Delivery',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -2452,6 +3828,438 @@ class _DeliveryDeliveryLight {
   /// Delivery — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delivery',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.76606 3.02043L16.1912 3.00002C19.1359 2.99321 20.9737 5.06718 20.9806 8.01L20.999 15.9472C21.0058 18.8901 19.1787 20.9728 16.233 20.9796L7.80883 21C4.86309 21.0068 3.02626 18.9328 3.01946 15.99L3.001 8.05179C2.99419 5.10994 4.83005 3.02723 7.76606 3.02043Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.8271 3L14.8436 10.6408L12.0116 9.71852L9.16304 10.6573L9.1543 3.02527" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 1 icon with style variants.
+class _DeliveryDelivery1Icon {
+  const _DeliveryDelivery1Icon();
+
+  /// bold style
+  _DeliveryDelivery1Bold get bold => const _DeliveryDelivery1Bold();
+  /// bulk style
+  _DeliveryDelivery1Bulk get bulk => const _DeliveryDelivery1Bulk();
+  /// light style
+  _DeliveryDelivery1Light get light => const _DeliveryDelivery1Light();
+  /// outline style
+  _DeliveryDelivery1Outline get outline => const _DeliveryDelivery1Outline();
+  /// twoTone style
+  _DeliveryDelivery1Twotone get twoTone => const _DeliveryDelivery1Twotone();
+  /// broken style
+  _DeliveryDelivery1Broken get broken => const _DeliveryDelivery1Broken();
+}
+
+/// Delivery 1 — bulk style variants.
+class _DeliveryDelivery1Bulk {
+  const _DeliveryDelivery1Bulk();
+
+  /// Delivery 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M22.3296 8.01C22.3196 6.37 21.7696 4.93 20.7796 3.94C19.8396 3 18.5496 2.5 17.0596 2.5H17.0396L16.7155 2.50523C16.5514 2.50787 16.4199 2.64184 16.4203 2.80593L16.4396 10.64C16.4396 10.88 16.3296 11.11 16.1296 11.25C15.9396 11.39 15.6896 11.43 15.4596 11.36L12.8596 10.51L10.2496 11.38C10.1696 11.4 10.0896 11.41 10.0096 11.41C9.84961 11.41 9.69961 11.37 9.56961 11.27C9.37961 11.13 9.25961 10.91 9.25961 10.67L9.24998 2.81963C9.24977 2.65409 9.11552 2.52 8.94998 2.52H8.60961C5.46961 2.54 3.34961 4.75 3.34961 8.04V8.06L3.36961 16C3.36961 17.59 3.85961 18.95 4.78961 19.95C5.74961 20.97 7.06961 21.5 8.62961 21.5H8.65961L17.0796 21.48C20.2396 21.47 22.3496 19.25 22.3496 15.95L22.3296 8.01Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.623 9.01112C12.773 8.96112 12.936 8.96012 13.09 9.01012L14.938 9.61112L14.9255 2.80922C14.9252 2.64349 14.7906 2.50941 14.6249 2.50977L11.0507 2.51747C10.8851 2.51783 10.7511 2.65225 10.7513 2.81781L10.759 9.62612L12.623 9.01112Z" fill="black"/> <path d="M11.1798 17.2291H8.08984C7.67984 17.2291 7.33984 16.8991 7.33984 16.4791C7.33984 16.0691 7.67984 15.7291 8.08984 15.7291H11.1798C11.5998 15.7291 11.9298 16.0691 11.9298 16.4791C11.9298 16.8991 11.5998 17.2291 11.1798 17.2291Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 1 — broken style variants.
+class _DeliveryDelivery1Broken {
+  const _DeliveryDelivery1Broken();
+
+  /// Delivery 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.0405 21C19.9855 21.0068 21.8233 18.9325 21.8301 15.9904L21.8486 8.05238C21.8554 5.1093 20.0195 3.02726 17.0833 3.02045L8.65779 3.00002C5.71277 2.99321 3.8759 5.06747 3.86811 8.00957L3.84963 15.9476C3.84282 18.8907 5.66996 20.9737 8.61596 20.9805H12.9733" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.09375 16.4805H11.1828" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.675 6.00009L15.6916 10.6414L12.8594 9.7181L10.0107 10.6579L10.002 3.02539" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 1 — twoTone style variants.
+class _DeliveryDelivery1Twotone {
+  const _DeliveryDelivery1Twotone();
+
+  /// Delivery 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.76586 3.02045L16.1913 3.00002C19.1364 2.99321 20.9732 5.06747 20.981 8.00957L20.9995 15.9476C21.0063 18.8907 19.1792 20.9737 16.2332 20.9805L7.80867 21C4.86365 21.0068 3.0258 18.9325 3.01899 15.9904L3.00051 8.05238C2.9937 5.1093 4.82959 3.02726 7.76586 3.02045Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.24414 16.4802H10.3332" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.8254 3L14.842 10.6413L12.0098 9.718L9.1611 10.6578L9.15234 3.0253" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 1 — outline style variants.
+class _DeliveryDelivery1Outline {
+  const _DeliveryDelivery1Outline();
+
+  /// Delivery 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8967 2.25315C14.8734 2.25102 14.8498 2.24995 14.8259 2.25C14.8018 2.25005 14.778 2.25124 14.7546 2.2535L7.76412 2.27045C7.7641 2.27045 7.76415 2.27045 7.76412 2.27045C6.11036 2.2743 4.71094 2.86778 3.72976 3.92517C2.75399 4.97672 2.24674 6.42692 2.25051 8.05412L2.26899 15.9922C2.27276 17.6181 2.78434 19.066 3.76433 20.1134C4.74994 21.1669 6.15266 21.7538 7.81041 21.75L16.2349 21.7305C17.8931 21.7267 19.2932 21.1333 20.2738 20.0749C21.2488 19.0227 21.7533 17.5721 21.7495 15.9459L21.731 8.00783C21.7267 6.38206 21.2152 4.93403 20.2354 3.88659C19.2499 2.8331 17.8474 2.24619 16.1896 2.25002L14.8967 2.25315ZM14.0791 3.75514L9.90524 3.76526L9.91196 9.62103L11.7769 9.00576C11.9286 8.9557 12.0924 8.95541 12.2443 9.00494L14.0918 9.60722L14.0791 3.75514ZM8.40524 3.7689L7.76768 3.77045C6.48521 3.77342 5.49842 4.22437 4.8293 4.94546C4.15476 5.6724 3.74746 6.73476 3.75051 8.05064C3.75051 8.05063 3.75051 8.05064 3.75051 8.05064L3.76899 15.9887C3.77204 17.3048 4.18278 18.3652 4.85968 19.0887C5.53094 19.8061 6.51966 20.253 7.80694 20.25L16.2314 20.2305C17.5192 20.2276 18.5058 19.7761 19.1735 19.0554C19.8469 18.3287 20.2526 17.2662 20.2495 15.9494L20.231 8.01156C20.2275 6.69522 19.8167 5.63483 19.1399 4.91131C18.4688 4.19387 17.4804 3.74706 16.1932 3.75001C16.1931 3.75001 16.1932 3.75001 16.1932 3.75001L15.5791 3.7515L15.594 10.6397C15.5945 10.8802 15.4797 11.1063 15.2852 11.2478C15.0907 11.3893 14.8402 11.4289 14.6116 11.3544L12.0132 10.5073L9.39812 11.3701C9.16971 11.4454 8.91901 11.4067 8.72402 11.2659C8.52904 11.125 8.41342 10.8992 8.41315 10.6587L8.40524 3.7689ZM6.49561 16.4802C6.49561 16.066 6.83139 15.7302 7.24561 15.7302H10.3346C10.7488 15.7302 11.0846 16.066 11.0846 16.4802C11.0846 16.8945 10.7488 17.2302 10.3346 17.2302H7.24561C6.83139 17.2302 6.49561 16.8945 6.49561 16.4802Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 1 — bold style variants.
+class _DeliveryDelivery1Bold {
+  const _DeliveryDelivery1Bold();
+
+  /// Delivery 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6227 9.01201C12.7727 8.96201 12.9357 8.96101 13.0897 9.01101L14.9377 9.61201L14.9253 2.81011C14.925 2.64438 14.7904 2.5103 14.6246 2.51066L11.0504 2.51836C10.8849 2.51872 10.7509 2.65314 10.7511 2.8187L10.7587 9.62701L12.6227 9.01201Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1796 17.23H8.08961C7.67961 17.23 7.33961 16.9 7.33961 16.48C7.33961 16.07 7.67961 15.73 8.08961 15.73H11.1796C11.5996 15.73 11.9296 16.07 11.9296 16.48C11.9296 16.9 11.5996 17.23 11.1796 17.23ZM22.3296 8.01C22.3196 6.37 21.7696 4.93 20.7796 3.94C19.8396 3 18.5496 2.5 17.0596 2.5H17.0396L16.7155 2.50523C16.5514 2.50787 16.4199 2.64184 16.4203 2.80593L16.4396 10.64C16.4396 10.88 16.3296 11.11 16.1296 11.25C15.9396 11.39 15.6896 11.43 15.4596 11.36L12.8596 10.51L10.2496 11.38C10.1696 11.4 10.0896 11.41 10.0096 11.41C9.84961 11.41 9.69961 11.37 9.56961 11.27C9.37961 11.13 9.25961 10.91 9.25961 10.67L9.24998 2.81963C9.24977 2.65409 9.11552 2.52 8.94998 2.52H8.60961C5.46961 2.54 3.34961 4.75 3.34961 8.04V8.06L3.36961 16C3.36961 17.59 3.85961 18.95 4.78961 19.95C5.74961 20.97 7.06961 21.5 8.62961 21.5H8.65961L17.0796 21.48C20.2396 21.47 22.3496 19.25 22.3496 15.95L22.3296 8.01Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 1 — light style variants.
+class _DeliveryDelivery1Light {
+  const _DeliveryDelivery1Light();
+
+  /// Delivery 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.76586 3.02045L16.1913 3.00002C19.1364 2.99321 20.9732 5.06747 20.981 8.00957L20.9995 15.9476C21.0063 18.8907 19.1792 20.9737 16.2332 20.9805L7.80867 21C4.86365 21.0068 3.0258 18.9325 3.01899 15.9904L3.00051 8.05238C2.9937 5.1093 4.82959 3.02726 7.76586 3.02045Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.24414 16.4802H10.3332" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.8254 3L14.842 10.6413L12.0098 9.718L9.1611 10.6578L9.15234 3.0253" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 2 icon with style variants.
+class _DeliveryDelivery2Icon {
+  const _DeliveryDelivery2Icon();
+
+  /// bold style
+  _DeliveryDelivery2Bold get bold => const _DeliveryDelivery2Bold();
+  /// bulk style
+  _DeliveryDelivery2Bulk get bulk => const _DeliveryDelivery2Bulk();
+  /// light style
+  _DeliveryDelivery2Light get light => const _DeliveryDelivery2Light();
+  /// outline style
+  _DeliveryDelivery2Outline get outline => const _DeliveryDelivery2Outline();
+  /// twoTone style
+  _DeliveryDelivery2Twotone get twoTone => const _DeliveryDelivery2Twotone();
+  /// broken style
+  _DeliveryDelivery2Broken get broken => const _DeliveryDelivery2Broken();
+}
+
+/// Delivery 2 — bulk style variants.
+class _DeliveryDelivery2Bulk {
+  const _DeliveryDelivery2Bulk();
+
+  /// Delivery 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2222 6.99605C16.2444 7.14277 16.3704 7.25125 16.5188 7.25125H21.6481C21.8501 7.25125 21.9953 7.05528 21.926 6.86558C21.9036 6.80453 21.8803 6.74374 21.8557 6.68325L21.0077 4.57425C20.5067 3.32025 19.3097 2.51025 17.9577 2.51025H15.8934C15.7099 2.51025 15.5694 2.67358 15.5968 2.85505L16.2222 6.99605Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.6656 8.75085C16.4999 8.75085 16.3656 8.88517 16.3656 9.05085V13.6359C16.3656 13.8819 16.2446 14.1129 16.0416 14.2519C15.9146 14.3399 15.7656 14.3859 15.6156 14.3859C15.5256 14.3859 15.4366 14.3699 15.3506 14.3369L12.8436 13.3909L10.3496 14.3369C10.1186 14.4239 9.86063 14.3939 9.65663 14.2529C9.45463 14.1129 9.33363 13.8819 9.33363 13.6359V9.05086C9.33363 8.88517 9.19932 8.75085 9.03363 8.75085H3.66423C3.50673 8.75085 3.37431 8.87255 3.36667 9.02986C3.3636 9.09305 3.36163 9.15612 3.36163 9.21885L3.34963 16.9089C3.34263 19.7549 4.81663 21.4599 7.29463 21.4699L18.4046 21.4899C20.8966 21.4899 22.3296 19.8359 22.3366 16.9509L22.3496 9.24085C22.3501 9.17066 22.3481 9.10066 22.3449 9.03076C22.3376 8.87308 22.205 8.75085 22.0472 8.75085H16.6656Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.17977 7.25125C9.32815 7.25125 9.45424 7.14277 9.4764 6.99605L10.1018 2.85505C10.1292 2.67358 9.98868 2.51025 9.80515 2.51025H7.74786C6.39686 2.51025 5.19886 3.32425 4.69586 4.58425L3.84986 6.69425C3.8268 6.75174 3.80474 6.80962 3.78356 6.86788C3.7148 7.0569 3.85954 7.25125 4.06068 7.25125H9.17977Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1088 11.8866L14.8658 12.5506V9.05061C14.8658 8.88492 14.7315 8.75061 14.5658 8.75061H11.1338C10.9681 8.75061 10.8338 8.88493 10.8338 9.05061V12.5486L12.5778 11.8866C12.7488 11.8216 12.9378 11.8226 13.1088 11.8866Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9293 2.50977C11.7809 2.50977 11.6548 2.61825 11.6326 2.76497L11.0072 6.90597C10.9798 7.08744 11.1203 7.25077 11.3039 7.25077H14.3955C14.579 7.25077 14.7195 7.08744 14.6921 6.90597L14.0667 2.76497C14.0445 2.61825 13.9185 2.50977 13.7701 2.50977H11.9293Z" fill="black"/> <path d="M10.4608 17.6196H7.46484C7.05084 17.6196 6.71484 17.2836 6.71484 16.8696C6.71484 16.4556 7.05084 16.1196 7.46484 16.1196H10.4608C10.8748 16.1196 11.2108 16.4556 11.2108 16.8696C11.2108 17.2836 10.8748 17.6196 10.4608 17.6196Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 2 — broken style variants.
+class _DeliveryDelivery2Broken {
+  const _DeliveryDelivery2Broken();
+
+  /// Delivery 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.8506 20.9781L18.4051 20.9859C20.7793 20.9917 21.8311 19.3201 21.8369 16.9479L21.8496 9.23762C21.8515 8.42514 21.6959 7.61948 21.3923 6.86636L20.5438 4.75976C20.1196 3.70501 19.0959 3.01416 17.9585 3.01416H7.74756C6.60815 3.01416 5.58259 3.70793 5.1603 4.76658L4.31377 6.8829C4.01699 7.62532 3.86326 8.41833 3.86228 9.21718L3.84963 16.9138C3.84379 19.286 4.92093 20.9645 7.29608 20.9703H8.70621" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.46484 16.8647H10.4608" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.98633 8.00684H21.7119" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1414 3.01416L10.2871 8.00661V13.229L12.8442 12.2637L15.412 13.229V8.00661L14.9849 5.51038" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 2 — twoTone style variants.
+class _DeliveryDelivery2Twotone {
+  const _DeliveryDelivery2Twotone();
+
+  /// Delivery 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.31069 4.76654L3.46416 6.88286C3.16738 7.62528 3.01365 8.41829 3.01267 9.21715L3.00002 16.9138C2.99419 19.286 4.07132 20.9645 6.44647 20.9703L17.5555 20.9859C19.9297 20.9917 20.9815 19.32 20.9873 16.9478L21 9.23758C21.0019 8.42511 20.8462 7.61944 20.5427 6.86632L19.6942 4.75973C19.2699 3.70497 18.2463 3.01412 17.1089 3.01412H6.89796C5.75854 3.01412 4.73298 3.70789 4.31069 4.76654Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.61523 16.8647H9.61117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.13672 8.00684H20.8623" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.7081 3.01416L14.5624 8.00661V13.229L11.9946 12.2637L9.4375 13.229V8.00661L10.2918 3.01416" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 2 — outline style variants.
+class _DeliveryDelivery2Outline {
+  const _DeliveryDelivery2Outline();
+
+  /// Delivery 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.86477 16.8601C5.86477 16.45 6.20022 16.1101 6.61477 16.1101H9.61037C10.0249 16.1101 10.3604 16.45 10.3604 16.8601C10.3604 17.1467 10.2041 17.3914 9.97317 17.5178C9.86574 17.5769 9.74221 17.6101 9.61037 17.6101H6.61477C6.20022 17.6101 5.86477 17.28 5.86477 16.8601Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.7676 6.60034L3.61428 4.48999C4.15041 3.13989 5.45217 2.26001 6.89797 2.26001H17.1089C18.5523 2.26001 19.8516 3.13989 20.3902 4.48022L21.2383 6.59009C21.5781 7.42993 21.752 8.32983 21.75 9.23999L21.7373 16.95C21.7344 18.2297 21.4502 19.4299 20.7495 20.3201C20.0254 21.24 18.9351 21.74 17.5537 21.74L6.44485 21.72C5.0635 21.72 3.96926 21.22 3.24172 20.2898C2.53518 19.4001 2.24709 18.2 2.25002 16.9099L2.26272 9.21997C2.26369 8.32007 2.43606 7.42993 2.7676 6.60034ZM5.00735 5.03979L5.00686 5.05005L4.16067 7.15991C4.14748 7.19312 4.13479 7.22681 4.12209 7.26001H8.77639L9.39651 3.76001H6.89797C6.06496 3.76001 5.31594 4.27026 5.00735 5.03979ZM10.9214 3.76001L10.2998 7.26001H13.6988L13.0772 3.76001H10.9214ZM14.6021 3.76001L15.2222 7.26001H19.8902C19.876 7.22339 19.8618 7.18677 19.8472 7.15015L18.9986 5.03979C18.6885 4.27026 17.9405 3.76001 17.1089 3.76001H14.6021ZM20.2305 8.76001H15.3115V13.2302C15.3115 13.4802 15.1909 13.7102 14.9888 13.8503C14.7862 13.99 14.5283 14.0198 14.2979 13.9299L11.9951 13.0691L9.70168 13.9299C9.47121 14.0198 9.21291 13.99 9.01028 13.8503C8.80764 13.7102 8.68703 13.4802 8.68703 13.2302V8.76001H3.78225C3.76955 8.91235 3.76272 9.06567 3.76272 9.21997L3.75002 16.9197C3.74758 17.9998 3.99465 18.8303 4.41946 19.3601C4.82229 19.8801 5.45461 20.22 6.44778 20.22L17.5572 20.24C18.5498 20.24 19.1729 19.9001 19.5698 19.4001C19.9898 18.8601 20.2349 18.0398 20.2373 16.95L20.25 9.23999C20.25 9.07935 20.2437 8.91919 20.2305 8.76001ZM10.187 8.76001V12.1453L11.729 11.5603C11.8994 11.5002 12.0874 11.5002 12.2578 11.5603L13.8115 12.1472V8.76001H10.187Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 2 — bold style variants.
+class _DeliveryDelivery2Bold {
+  const _DeliveryDelivery2Bold();
+
+  /// Delivery 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1086 11.8871L14.8656 12.5511V9.0511C14.8656 8.88541 14.7312 8.7511 14.5656 8.7511H11.1336C10.9679 8.7511 10.8336 8.88541 10.8336 9.0511V12.5491L12.5776 11.8871C12.7486 11.8221 12.9376 11.8231 13.1086 11.8871Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9291 2.51025C11.7807 2.51025 11.6546 2.61873 11.6324 2.76546L11.007 6.90645C10.9796 7.08793 11.1201 7.25125 11.3037 7.25125H14.3952C14.5788 7.25125 14.7193 7.08793 14.6919 6.90646L14.0665 2.76546C14.0443 2.61873 13.9182 2.51025 13.7699 2.51025H11.9291Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2222 6.9963C16.2444 7.14302 16.3704 7.2515 16.5188 7.2515H21.6481C21.8501 7.2515 21.9953 7.05553 21.926 6.86582C21.9036 6.80478 21.8803 6.74398 21.8557 6.6835L21.0077 4.5745C20.5067 3.3205 19.3097 2.5105 17.9577 2.5105H15.8934C15.7099 2.5105 15.5694 2.67382 15.5968 2.8553L16.2222 6.9963Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.4606 17.6201H7.46463C7.05063 17.6201 6.71463 17.2841 6.71463 16.8701C6.71463 16.4561 7.05063 16.1201 7.46463 16.1201H10.4606C10.8746 16.1201 11.2106 16.4561 11.2106 16.8701C11.2106 17.2841 10.8746 17.6201 10.4606 17.6201ZM16.6656 8.7511C16.4999 8.7511 16.3656 8.88541 16.3656 9.0511V13.6361C16.3656 13.8821 16.2446 14.1131 16.0416 14.2521C15.9146 14.3401 15.7656 14.3861 15.6156 14.3861C15.5256 14.3861 15.4366 14.3701 15.3506 14.3371L12.8436 13.3911L10.3496 14.3371C10.1186 14.4241 9.86063 14.3941 9.65663 14.2531C9.45463 14.1131 9.33363 13.8821 9.33363 13.6361V9.0511C9.33363 8.88541 9.19932 8.7511 9.03363 8.7511H3.66423C3.50673 8.7511 3.37431 8.87279 3.36667 9.03011C3.3636 9.0933 3.36163 9.15636 3.36163 9.2191L3.34963 16.9091C3.34263 19.7551 4.81663 21.4601 7.29463 21.4701L18.4046 21.4901C20.8966 21.4901 22.3296 19.8361 22.3366 16.9511L22.3496 9.2411C22.3501 9.17091 22.3481 9.1009 22.3449 9.031C22.3376 8.87332 22.205 8.7511 22.0472 8.7511H16.6656Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.17977 7.2515C9.32815 7.2515 9.45424 7.14302 9.4764 6.9963L10.1018 2.8553C10.1292 2.67382 9.98868 2.5105 9.80515 2.5105H7.74786C6.39686 2.5105 5.19886 3.3245 4.69586 4.5845L3.84986 6.6945C3.8268 6.75198 3.80474 6.80987 3.78356 6.86812C3.7148 7.05715 3.85954 7.2515 4.06068 7.2515H9.17977Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 2 — light style variants.
+class _DeliveryDelivery2Light {
+  const _DeliveryDelivery2Light();
+
+  /// Delivery 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.31069 4.76654L3.46416 6.88287C3.16738 7.62529 3.01365 8.4183 3.01267 9.21715L3.00002 16.9138C2.99419 19.286 4.07132 20.9645 6.44647 20.9703L17.5555 20.9859C19.9297 20.9917 20.9815 19.3201 20.9873 16.9478L21 9.23759C21.0019 8.42511 20.8462 7.61945 20.5427 6.86633L19.6942 4.75973C19.2699 3.70498 18.2463 3.01413 17.1089 3.01413H6.89796C5.75854 3.01413 4.73298 3.7079 4.31069 4.76654Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.61523 16.8647H9.61117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.13672 8.00684H20.8623" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.7081 3.01416L14.5624 8.00661V13.229L11.9946 12.2637L9.4375 13.229V8.00661L10.2918 3.01416" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 3 icon with style variants.
+class _DeliveryDelivery3Icon {
+  const _DeliveryDelivery3Icon();
+
+  /// bold style
+  _DeliveryDelivery3Bold get bold => const _DeliveryDelivery3Bold();
+  /// bulk style
+  _DeliveryDelivery3Bulk get bulk => const _DeliveryDelivery3Bulk();
+  /// light style
+  _DeliveryDelivery3Light get light => const _DeliveryDelivery3Light();
+  /// outline style
+  _DeliveryDelivery3Outline get outline => const _DeliveryDelivery3Outline();
+  /// twoTone style
+  _DeliveryDelivery3Twotone get twoTone => const _DeliveryDelivery3Twotone();
+  /// broken style
+  _DeliveryDelivery3Broken get broken => const _DeliveryDelivery3Broken();
+}
+
+/// Delivery 3 — bulk style variants.
+class _DeliveryDelivery3Bulk {
+  const _DeliveryDelivery3Bulk();
+
+  /// Delivery 3 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7996 7.26514C11.9653 7.26514 12.0996 7.13082 12.0996 6.96514V2.81514C12.0996 2.64945 11.9652 2.51514 11.7996 2.51514H7.74656C6.39456 2.51514 5.19656 3.32914 4.69556 4.59014L3.84956 6.69914C3.82536 6.75932 3.80223 6.82015 3.78002 6.88147C3.71153 7.07065 3.85638 7.26514 4.05758 7.26514H11.7996Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5995 6.96514C13.5995 7.13082 13.7339 7.26514 13.8995 7.26514H21.6523C21.8536 7.26514 21.9982 7.07064 21.929 6.88163C21.9054 6.81688 21.8806 6.75239 21.8545 6.68814L21.0065 4.57914C20.5055 3.32614 19.3085 2.51514 17.9575 2.51514H13.8995C13.7339 2.51514 13.5995 2.64945 13.5995 2.81514V6.96514Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.66467 8.76489C3.50658 8.76489 3.37374 8.88747 3.36628 9.04538C3.36347 9.10507 3.36164 9.16463 3.36164 9.22389L3.34964 16.9139C3.34164 19.7599 4.81664 21.4649 7.29464 21.4749L18.4256 21.4849C19.5456 21.4849 20.4546 21.1469 21.1276 20.4789C21.9136 19.6969 22.3316 18.4799 22.3356 16.9559L22.3496 9.24589C22.3496 9.17832 22.3477 9.11127 22.3447 9.04445C22.3376 8.88691 22.2053 8.76489 22.0476 8.76489H3.66467Z" fill="black"/> </g> <path d="M7.95459 17.2363H10.9506C11.3646 17.2363 11.7006 16.9003 11.7006 16.4863C11.7006 16.0723 11.3646 15.7363 10.9506 15.7363H7.95459C7.54059 15.7363 7.20459 16.0723 7.20459 16.4863C7.20459 16.9003 7.54059 17.2363 7.95459 17.2363Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 3 — broken style variants.
+class _DeliveryDelivery3Broken {
+  const _DeliveryDelivery3Broken();
+
+  /// Delivery 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.8501 20.9776L18.4043 20.9854C20.7784 20.9913 21.8301 19.3197 21.836 16.9476L21.8496 9.23777C21.8506 8.42534 21.6949 7.61972 21.3913 6.86664L20.5429 4.76016C20.1187 3.70546 19.0951 3.01465 17.9577 3.01465H7.74736C6.60801 3.01465 5.5825 3.70838 5.16023 4.76697L4.31374 6.88318C4.01698 7.62556 3.86325 8.41853 3.86228 9.21734L3.84963 16.9135C3.8438 19.2857 4.92087 20.964 7.2959 20.9699H8.61011" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.95508 16.4775H10.9509" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.98828 8.00684L18.7449 8.00684" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8496 8.00697V3.01465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 3 — twoTone style variants.
+class _DeliveryDelivery3Twotone {
+  const _DeliveryDelivery3Twotone();
+
+  /// Delivery 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.31062 4.76692L3.46413 6.88314C3.16737 7.62551 3.01365 8.41849 3.01267 9.2173L3.00002 16.9135C2.99419 19.2856 4.07126 20.964 6.44629 20.9698L17.5547 20.9854C19.9288 20.9912 20.9805 19.3197 20.9864 16.9476L21 9.23773C21.001 8.4253 20.8453 7.61968 20.5417 6.8666L19.6933 4.76011C19.2691 3.70541 18.2455 3.0146 17.1081 3.0146H6.89775C5.7584 3.0146 4.73289 3.70833 4.31062 4.76692Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.10547 16.4775H10.1012" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.13867 8.00684H20.8633" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12 8.00697V3.01465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 3 — outline style variants.
+class _DeliveryDelivery3Outline {
+  const _DeliveryDelivery3Outline();
+
+  /// Delivery 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.57912 15.9426C6.71438 15.8108 6.89992 15.7302 7.10451 15.7302H10.1006C10.5147 15.7302 10.8506 16.0598 10.8506 16.4802C10.8506 16.7136 10.7417 16.9246 10.5713 17.0627C10.4424 17.1672 10.2788 17.2302 10.1006 17.2302H7.10451C6.69045 17.2302 6.35451 16.8899 6.35451 16.4802C6.35451 16.2673 6.44045 16.0779 6.57912 15.9426Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.76809 6.60034L3.61428 4.48999C4.15041 3.13989 5.45217 2.26001 6.89797 2.26001H17.1079C18.5513 2.26001 19.8506 3.13989 20.3892 4.48022L21.2373 6.59009C21.5772 7.42993 21.751 8.32983 21.75 9.23999L21.7364 16.95C21.7334 18.2297 21.4492 19.4299 20.7486 20.3201C20.0244 21.24 18.9341 21.74 17.5528 21.74L6.44436 21.72C5.06301 21.72 3.96926 21.22 3.24172 20.2898C2.53518 19.4001 2.24709 18.2 2.25002 16.9099L2.26272 9.21997C2.26369 8.32007 2.43606 7.44019 2.76809 6.60034ZM5.00735 5.03979L5.00686 5.05005L4.16067 7.15991C4.14748 7.19312 4.13479 7.22681 4.12209 7.26001H11.25V3.76001H6.89797C6.06496 3.76001 5.31545 4.27026 5.00735 5.03979ZM12.75 3.76001V7.26001H19.8892C19.875 7.22339 19.8609 7.18677 19.8462 7.15015L18.9976 5.03979C18.6875 4.27026 17.94 3.76001 17.1079 3.76001H12.75ZM20.23 8.76001H3.78225C3.76955 8.91235 3.76272 9.06567 3.76272 9.21997L3.75002 16.9099V16.9197C3.74758 17.9998 3.99465 18.8303 4.41946 19.3601C4.82229 19.8801 5.45461 20.22 6.44729 20.22L17.5567 20.24C18.5493 20.24 19.1719 19.9001 19.5689 19.4001C19.9888 18.8601 20.2339 18.0398 20.2364 16.95L20.25 9.23999C20.25 9.07935 20.2437 8.91919 20.23 8.76001Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 3 — bold style variants.
+class _DeliveryDelivery3Bold {
+  const _DeliveryDelivery3Bold();
+
+  /// Delivery 3 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7996 7.26514C11.9653 7.26514 12.0996 7.13082 12.0996 6.96514V2.81514C12.0996 2.64945 11.9652 2.51514 11.7996 2.51514H7.74656C6.39456 2.51514 5.19656 3.32914 4.69556 4.59014L3.84956 6.69914C3.82536 6.75932 3.80223 6.82015 3.78002 6.88147C3.71153 7.07065 3.85638 7.26514 4.05758 7.26514H11.7996Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5995 6.96514C13.5995 7.13082 13.7339 7.26514 13.8995 7.26514H21.6523C21.8536 7.26514 21.9982 7.07064 21.929 6.88163C21.9054 6.81688 21.8806 6.75239 21.8545 6.68814L21.0065 4.57914C20.5055 3.32614 19.3085 2.51514 17.9575 2.51514H13.8995C13.7339 2.51514 13.5995 2.64945 13.5995 2.81514V6.96514Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9506 17.2349H7.95464C7.54064 17.2349 7.20464 16.8989 7.20464 16.4849C7.20464 16.0709 7.54064 15.7349 7.95464 15.7349H10.9506C11.3646 15.7349 11.7006 16.0709 11.7006 16.4849C11.7006 16.8989 11.3646 17.2349 10.9506 17.2349ZM3.66467 8.76489C3.50658 8.76489 3.37374 8.88747 3.36628 9.04538C3.36347 9.10507 3.36164 9.16463 3.36164 9.22389L3.34964 16.9139C3.34164 19.7599 4.81664 21.4649 7.29464 21.4749L18.4256 21.4849C19.5456 21.4849 20.4546 21.1469 21.1276 20.4789C21.9136 19.6969 22.3316 18.4799 22.3356 16.9559L22.3496 9.24589C22.3496 9.17832 22.3477 9.11127 22.3447 9.04445C22.3376 8.88691 22.2053 8.76489 22.0476 8.76489H3.66467Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 3 — light style variants.
+class _DeliveryDelivery3Light {
+  const _DeliveryDelivery3Light();
+
+  /// Delivery 3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.31062 4.76692L3.46413 6.88314C3.16737 7.62551 3.01365 8.41849 3.01267 9.2173L3.00002 16.9135C2.99419 19.2856 4.07126 20.964 6.44629 20.9698L17.5547 20.9854C19.9288 20.9912 20.9805 19.3197 20.9864 16.9476L21 9.23773C21.001 8.4253 20.8453 7.61968 20.5417 6.8666L19.6933 4.76011C19.2691 3.70541 18.2455 3.0146 17.1081 3.0146H6.89775C5.7584 3.0146 4.73289 3.70833 4.31062 4.76692Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.10547 16.4775H10.1012" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.13867 8.00684H20.8633" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 8.00697V3.01465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 4 icon with style variants.
+class _DeliveryDelivery4Icon {
+  const _DeliveryDelivery4Icon();
+
+  /// bold style
+  _DeliveryDelivery4Bold get bold => const _DeliveryDelivery4Bold();
+  /// bulk style
+  _DeliveryDelivery4Bulk get bulk => const _DeliveryDelivery4Bulk();
+  /// light style
+  _DeliveryDelivery4Light get light => const _DeliveryDelivery4Light();
+  /// outline style
+  _DeliveryDelivery4Outline get outline => const _DeliveryDelivery4Outline();
+  /// twoTone style
+  _DeliveryDelivery4Twotone get twoTone => const _DeliveryDelivery4Twotone();
+  /// broken style
+  _DeliveryDelivery4Broken get broken => const _DeliveryDelivery4Broken();
+}
+
+/// Delivery 4 — bulk style variants.
+class _DeliveryDelivery4Bulk {
+  const _DeliveryDelivery4Bulk();
+
+  /// Delivery 4 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7997 7.26514C11.9654 7.26514 12.0997 7.13082 12.0997 6.96514V2.81514C12.0997 2.64945 11.9654 2.51514 11.7997 2.51514H7.74669C6.39469 2.51514 5.19669 3.32914 4.69569 4.59014L3.84969 6.69914C3.82548 6.75932 3.80235 6.82015 3.78014 6.88147C3.71165 7.07065 3.8565 7.26514 4.0577 7.26514H11.7997Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5997 6.96514C13.5997 7.13082 13.734 7.26514 13.8997 7.26514H21.6525C21.8538 7.26514 21.9984 7.07064 21.9292 6.88163C21.9056 6.81688 21.8808 6.75239 21.8547 6.68814L21.0067 4.57914C20.5057 3.32614 19.3087 2.51514 17.9577 2.51514H13.8997C13.734 2.51514 13.5997 2.64945 13.5997 2.81514V6.96514Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.66385 8.76538C3.50651 8.76538 3.37404 8.88683 3.36641 9.04398C3.3635 9.10412 3.36164 9.16425 3.36164 9.22438L3.34964 16.9134C3.34164 19.7594 4.81664 21.4644 7.29464 21.4754L18.4256 21.4844C19.5456 21.4844 20.4556 21.1464 21.1276 20.4784C21.9146 19.6974 22.3316 18.4794 22.3356 16.9564L22.3496 9.24538C22.3496 9.17835 22.3477 9.1115 22.3447 9.04482C22.3376 8.88733 22.2053 8.76538 22.0477 8.76538H3.66385Z" fill="black"/> </g> <path d="M7.95264 13.2987H9.14964C9.56364 13.2987 9.89964 13.6347 9.89964 14.0487C9.89964 14.4627 9.56364 14.7987 9.14964 14.7987H7.95264C7.53864 14.7987 7.20264 14.4627 7.20264 14.0487C7.20264 13.6347 7.53864 13.2987 7.95264 13.2987Z" fill="black"/> <path d="M10.9486 17.6388H7.95264C7.53864 17.6388 7.20264 17.3027 7.20264 16.8888C7.20264 16.4748 7.53864 16.1388 7.95264 16.1388H10.9486C11.3626 16.1388 11.6986 16.4748 11.6986 16.8888C11.6986 17.3027 11.3626 17.6388 10.9486 17.6388Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.2716 14.5787C19.2716 15.4327 18.5766 16.1287 17.7226 16.1287H15.6606C14.8066 16.1287 14.1126 15.4327 14.1126 14.5787V12.5188C14.1126 11.6638 14.8066 10.9688 15.6606 10.9688H17.7226C18.5766 10.9688 19.2716 11.6638 19.2716 12.5188V14.5787ZM15.6604 14.6288L15.6124 14.5788L15.6604 12.4688L17.7714 12.5188L17.7224 14.6288H15.6604Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 4 — broken style variants.
+class _DeliveryDelivery4Broken {
+  const _DeliveryDelivery4Broken();
+
+  /// Delivery 4 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.8501 20.9776L18.4043 20.9854C20.7784 20.9913 21.8301 19.3197 21.836 16.9476L21.8496 9.23777C21.8506 8.42534 21.6949 7.61972 21.3913 6.86664L20.5429 4.76016C20.1187 3.70546 19.0951 3.01465 17.9577 3.01465H7.74736C6.60801 3.01465 5.5825 3.70838 5.16023 4.76697L4.31374 6.88318C4.01698 7.62556 3.86325 8.41853 3.86228 9.21734L3.84963 16.9135C3.8438 19.2857 4.92087 20.964 7.2959 20.9699L9.073 20.9738" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.95312 16.4778H10.9489M7.95312 13.6396H9.14988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6611 14.9699H17.7228C18.1636 14.9699 18.5217 14.6128 18.5217 14.1711V12.1094C18.5217 11.6686 18.1636 11.3115 17.7228 11.3115H15.6611C15.2204 11.3115 14.8633 11.6686 14.8633 12.1094V14.1711C14.8633 14.6128 15.2204 14.9699 15.6611 14.9699Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8496 8.00697V3.01465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.98633 8.00684H18.7151" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 4 — twoTone style variants.
+class _DeliveryDelivery4Twotone {
+  const _DeliveryDelivery4Twotone();
+
+  /// Delivery 4 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.31062 4.76692L3.46413 6.88314C3.16737 7.62551 3.01365 8.41849 3.01267 9.2173L3.00002 16.9135C2.99419 19.2856 4.07126 20.964 6.44629 20.9698L17.5547 20.9854C19.9288 20.9912 20.9805 19.3197 20.9864 16.9476L21 9.23773C21.001 8.4253 20.8453 7.61968 20.5417 6.8666L19.6933 4.76011C19.2691 3.70541 18.2455 3.0146 17.1081 3.0146H6.89775C5.7584 3.0146 4.73289 3.70833 4.31062 4.76692Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.10352 16.4778H10.0993M7.10352 13.6396H8.30027" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.8115 14.9699H16.8732C17.314 14.9699 17.672 14.6128 17.672 14.1711V12.1094C17.672 11.6686 17.314 11.3115 16.8732 11.3115H14.8115C14.3708 11.3115 14.0137 11.6686 14.0137 12.1094V14.1711C14.0137 14.6128 14.3708 14.9699 14.8115 14.9699Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12 8.00697V3.01465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.13672 8.00684H20.8623" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 4 — outline style variants.
+class _DeliveryDelivery4Outline {
+  const _DeliveryDelivery4Outline();
+
+  /// Delivery 4 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.64896 15.8806C6.77494 15.7859 6.93217 15.7302 7.10209 15.7302H10.0982C10.5122 15.7302 10.8482 16.0598 10.8482 16.4802C10.8482 16.7219 10.731 16.9397 10.5498 17.0774C10.4244 17.1731 10.2676 17.2302 10.0982 17.2302H7.10209C6.68803 17.2302 6.35209 16.8899 6.35209 16.4802C6.35209 16.2327 6.46879 16.0164 6.64896 15.8806Z" fill="black"/> <path d="M6.35209 13.6399C6.35209 13.2297 6.68803 12.8899 7.10209 12.8899H8.29887C8.71293 12.8899 9.04887 13.2297 9.04887 13.6399C9.04887 14.05 8.71293 14.3899 8.29887 14.3899H7.10209C6.68803 14.3899 6.35209 14.05 6.35209 13.6399Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4219 14.1697C18.4219 15.03 17.7281 15.72 16.8741 15.72H14.8121C13.9561 15.72 13.2642 15.03 13.2642 14.1697V12.1101C13.2642 11.2502 13.9571 10.5603 14.8121 10.5603H16.8741C17.7271 10.5603 18.4219 11.2502 18.4219 12.1101V14.1697ZM16.8741 14.22C16.9009 14.22 16.9219 14.2 16.9219 14.1697V12.1101C16.9219 12.0803 16.9009 12.0603 16.8741 12.0603H14.8121C14.7984 12.0603 14.7862 12.0657 14.7774 12.0745C14.771 12.0808 14.7671 12.0891 14.7652 12.0994L14.7642 12.1047V12.1101V14.1697C14.7642 14.2 14.7862 14.22 14.8121 14.22H16.8741Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.76713 6.60034L3.6143 4.48999C4.14994 3.13989 5.45219 2.26001 6.89701 2.26001H17.1079C18.5513 2.26001 19.8501 3.13989 20.3892 4.48022L21.2369 6.59009C21.4317 7.07104 21.5718 7.57153 21.6558 8.08228C21.7188 8.46362 21.7505 8.85083 21.75 9.23999L21.7359 16.95C21.7329 18.2297 21.4493 19.4299 20.7481 20.3201C20.024 21.24 18.9341 21.74 17.5523 21.74L6.44389 21.72C5.06303 21.72 3.96928 21.22 3.24125 20.2898C2.5352 19.4001 2.24613 18.2 2.25004 16.9099L2.26225 9.21997C2.26322 8.32007 2.4351 7.44019 2.76713 6.60034ZM3.78178 8.76001C3.76908 8.91235 3.76225 9.06567 3.76225 9.21997L3.75004 16.9099V16.9197C3.74711 17.9998 3.99418 18.8303 4.41898 19.3601C4.8223 19.8801 5.45414 20.22 6.4473 20.22L17.5562 20.24C18.2349 20.24 18.7412 20.0808 19.1202 19.8206C19.295 19.7004 19.4429 19.5583 19.5679 19.4001C19.9878 18.8601 20.2329 18.0398 20.2359 16.95L20.25 9.23999C20.25 9.07935 20.2432 8.91919 20.2295 8.76001H3.78178ZM12.75 7.26001H19.8892C19.875 7.22339 19.8609 7.18677 19.8462 7.15015L18.9971 5.03979C18.687 4.27026 17.939 3.76001 17.1079 3.76001H12.75V7.26001ZM11.25 3.76001H6.89701C6.064 3.76001 5.31498 4.27026 5.00688 5.03979V5.05005L4.1602 7.15991C4.14701 7.19312 4.13432 7.22681 4.12162 7.26001H11.25V3.76001Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 4 — bold style variants.
+class _DeliveryDelivery4Bold {
+  const _DeliveryDelivery4Bold();
+
+  /// Delivery 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6124 14.5784L15.6604 14.6284H17.7224L17.7714 12.5184L15.6604 12.4684L15.6124 14.5784Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7997 7.26514C11.9654 7.26514 12.0997 7.13082 12.0997 6.96514V2.81514C12.0997 2.64945 11.9654 2.51514 11.7997 2.51514H7.74669C6.39469 2.51514 5.19669 3.32914 4.69569 4.59014L3.84969 6.69914C3.82548 6.75932 3.80235 6.82015 3.78014 6.88147C3.71165 7.07065 3.8565 7.26514 4.0577 7.26514H11.7997Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5997 6.96514C13.5997 7.13082 13.734 7.26514 13.8997 7.26514H21.6525C21.8538 7.26514 21.9984 7.07064 21.9292 6.88163C21.9056 6.81688 21.8808 6.75239 21.8547 6.68814L21.0067 4.57914C20.5057 3.32614 19.3087 2.51514 17.9577 2.51514H13.8997C13.734 2.51514 13.5997 2.64945 13.5997 2.81514V6.96514Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.2716 14.5784C19.2716 15.4324 18.5766 16.1284 17.7226 16.1284H15.6606C14.8066 16.1284 14.1126 15.4324 14.1126 14.5784V12.5184C14.1126 11.6634 14.8066 10.9684 15.6606 10.9684H17.7226C18.5766 10.9684 19.2716 11.6634 19.2716 12.5184V14.5784ZM10.9486 17.6384H7.95264C7.53864 17.6384 7.20264 17.3024 7.20264 16.8884C7.20264 16.4744 7.53864 16.1384 7.95264 16.1384H10.9486C11.3626 16.1384 11.6986 16.4744 11.6986 16.8884C11.6986 17.3024 11.3626 17.6384 10.9486 17.6384ZM7.95264 13.2984H9.14964C9.56364 13.2984 9.89964 13.6344 9.89964 14.0484C9.89964 14.4624 9.56364 14.7984 9.14964 14.7984H7.95264C7.53864 14.7984 7.20264 14.4624 7.20264 14.0484C7.20264 13.6344 7.53864 13.2984 7.95264 13.2984ZM3.66385 8.76538C3.50651 8.76538 3.37404 8.88683 3.36641 9.04398C3.3635 9.10412 3.36164 9.16425 3.36164 9.22438L3.34964 16.9134C3.34164 19.7594 4.81664 21.4644 7.29464 21.4754L18.4256 21.4844C19.5456 21.4844 20.4556 21.1464 21.1276 20.4784C21.9146 19.6974 22.3316 18.4794 22.3356 16.9564L22.3496 9.24538C22.3496 9.17835 22.3477 9.1115 22.3447 9.04482C22.3376 8.88733 22.2053 8.76538 22.0477 8.76538H3.66385Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery 4 — light style variants.
+class _DeliveryDelivery4Light {
+  const _DeliveryDelivery4Light();
+
+  /// Delivery 4 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery 4',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.31062 4.76692L3.46413 6.88314C3.16737 7.62551 3.01365 8.41849 3.01267 9.2173L3.00002 16.9135C2.99419 19.2856 4.07126 20.964 6.44629 20.9698L17.5547 20.9854C19.9288 20.9912 20.9805 19.3197 20.9864 16.9476L21 9.23773C21.001 8.4253 20.8453 7.61968 20.5417 6.8666L19.6933 4.76011C19.2691 3.70541 18.2455 3.0146 17.1081 3.0146H6.89775C5.7584 3.0146 4.73289 3.70833 4.31062 4.76692Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.10352 16.4778H10.0993M7.10352 13.6396H8.30027" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8115 14.9699H16.8732C17.314 14.9699 17.672 14.6128 17.672 14.1711V12.1094C17.672 11.6686 17.314 11.3115 16.8732 11.3115H14.8115C14.3708 11.3115 14.0137 11.6686 14.0137 12.1094V14.1711C14.0137 14.6128 14.3708 14.9699 14.8115 14.9699Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 8.00697V3.01465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.13672 8.00684H20.8623" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.light,
@@ -2561,6 +4369,114 @@ class _DeliveryTruckLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Truck',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.197 15.2659C17.2556 15.2659 18.1137 16.124 18.1137 17.1826C18.1137 18.2411 17.2556 19.0993 16.197 19.0993C15.1384 19.0993 14.2803 18.2411 14.2803 17.1826C14.2803 16.124 15.1384 15.2659 16.197 15.2659Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.05343 15.2656C8.112 15.2656 8.97014 16.1238 8.97014 17.1823C8.97014 18.2409 8.112 19.099 7.05343 19.099C5.99486 19.099 5.13672 18.2409 5.13672 17.1823C5.13672 16.1238 5.99486 15.2656 7.05343 15.2656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1968 15.266L16.1971 6.98007C16.1971 5.83199 15.266 4.90088 14.1179 4.90088H5.04806C3.91749 4.90088 3 5.8174 3 6.94894V15.1042C3 16.2523 3.93111 17.1834 5.07919 17.1834" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1133 17.1825L18.9206 17.1827C20.0686 17.1827 20.9997 16.2516 20.9997 15.1035V11.6602C20.9997 10.7243 20.4471 9.87585 19.5909 9.49835L16.1973 8.00098" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5977 12.4106H20.9989" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.96875 17.1826L14.2805 17.1833" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck 1 icon with style variants.
+class _DeliveryTruck1Icon {
+  const _DeliveryTruck1Icon();
+
+  /// bold style
+  _DeliveryTruck1Bold get bold => const _DeliveryTruck1Bold();
+  /// bulk style
+  _DeliveryTruck1Bulk get bulk => const _DeliveryTruck1Bulk();
+  /// light style
+  _DeliveryTruck1Light get light => const _DeliveryTruck1Light();
+  /// outline style
+  _DeliveryTruck1Outline get outline => const _DeliveryTruck1Outline();
+  /// twoTone style
+  _DeliveryTruck1Twotone get twoTone => const _DeliveryTruck1Twotone();
+  /// broken style
+  _DeliveryTruck1Broken get broken => const _DeliveryTruck1Broken();
+}
+
+/// Truck 1 — bulk style variants.
+class _DeliveryTruck1Bulk {
+  const _DeliveryTruck1Bulk();
+
+  /// Truck 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.25 11.6644H18.599C18.185 11.6644 17.849 12.0004 17.849 12.4144C17.849 12.8284 18.185 13.1644 18.599 13.1644H20.25V15.1004C20.25 15.8404 19.66 16.4304 18.92 16.4304H18.76C18.7592 16.4276 18.7584 16.4249 18.7576 16.4221L18.7563 16.4273C18.8268 16.6667 18.8647 16.9201 18.8647 17.1823C18.8647 17.445 18.8267 17.6987 18.756 17.9384L18.7573 17.9396C18.7582 17.9365 18.7591 17.9335 18.76 17.9304H18.92C20.48 17.9304 21.75 16.6604 21.75 15.1004V11.6604C21.75 10.4204 21.02 9.30039 19.9 8.82039L16.95 7.52039V6.98039C16.95 5.42039 15.68 4.15039 14.12 4.15039H5.05C3.51 4.15039 2.25 5.41039 2.25 6.95039V15.1004C2.25 16.4477 3.20624 17.5859 4.47254 17.8588C4.41606 17.6428 4.38599 17.4161 4.38599 17.1823C4.38599 15.7096 5.57991 14.5156 7.0527 14.5156C8.52548 14.5156 9.71941 15.7096 9.71941 17.1823C9.71941 17.4435 9.68187 17.6959 9.61189 17.9344H13.6388C13.5688 17.6959 13.5312 17.4435 13.5312 17.1823C13.5312 15.7096 14.7252 14.5156 16.198 14.5156C16.4591 14.5156 16.7115 14.5532 16.95 14.6231V9.16039L19.29 10.1904C19.88 10.4404 20.25 11.0204 20.25 11.6604V11.6644Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.05245 14.5156C5.57967 14.5156 4.38574 15.7096 4.38574 17.1823C4.38574 18.6551 5.57967 19.849 7.05245 19.849C8.52523 19.849 9.71916 18.6551 9.71916 17.1823C9.71916 15.7096 8.52523 14.5156 7.05245 14.5156ZM5.88574 17.1823C5.88574 16.538 6.4081 16.0156 7.05245 16.0156C7.69681 16.0156 8.21916 16.538 8.21916 17.1823C8.21916 17.8267 7.69681 18.349 7.05245 18.349C6.4081 18.349 5.88574 17.8267 5.88574 17.1823Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.1977 14.5156C14.7249 14.5156 13.531 15.7096 13.531 17.1823C13.531 18.6551 14.7249 19.849 16.1977 19.849C17.6705 19.849 18.8644 18.6551 18.8644 17.1823C18.8644 15.7096 17.6705 14.5156 16.1977 14.5156ZM15.031 17.1823C15.031 16.538 15.5534 16.0156 16.1977 16.0156C16.8421 16.0156 17.3644 16.538 17.3644 17.1823C17.3644 17.8267 16.8421 18.349 16.1977 18.349C15.5534 18.349 15.031 17.8267 15.031 17.1823Z" fill="black"/> <path d="M8.96014 8.2207H5.39014C4.98014 8.2207 4.64014 7.8807 4.64014 7.4707C4.64014 7.0507 4.98014 6.7207 5.39014 6.7207H8.96014C9.37014 6.7207 9.71014 7.0507 9.71014 7.4707C9.71014 7.8807 9.37014 8.2207 8.96014 8.2207Z" fill="black"/> <path d="M6.73162 10.6094H2.16162C1.75162 10.6094 1.41162 10.2694 1.41162 9.85938C1.41162 9.43937 1.75162 9.10938 2.16162 9.10938H6.73162C7.14162 9.10938 7.48162 9.43937 7.48162 9.85938C7.48162 10.2694 7.14162 10.6094 6.73162 10.6094Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck 1 — broken style variants.
+class _DeliveryTruck1Broken {
+  const _DeliveryTruck1Broken();
+
+  /// Truck 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.13593 17.1832L5.07919 17.1831C3.93111 17.1831 3 16.252 3 15.104V12.5918" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.97014 17.1833C8.97014 16.1247 8.112 15.2666 7.05343 15.2666C5.99486 15.2666 5.13672 16.1247 5.13672 17.1833C5.13672 18.2419 5.99486 19.1 7.05343 19.1C8.112 19.1 8.97014 18.2419 8.97014 17.1833Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1127 17.1833C18.1127 16.1247 17.2546 15.2666 16.196 15.2666C15.1374 15.2666 14.2793 16.1247 14.2793 17.1833C14.2793 18.2419 15.1374 19.1 16.196 19.1C17.2546 19.1 18.1127 18.2419 18.1127 17.1833Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.96875 17.1831H11.633" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 4.90039H14.1179C15.266 4.90039 16.1971 5.8315 16.1971 6.97958L16.1968 15.2665" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.71963H7.45124M4.88794 7.31006H7.45166" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1133 17.1828L18.9205 17.183C20.0686 17.183 20.9997 16.2519 20.9997 15.1038V11.6606C20.9997 10.7246 20.4471 9.87618 19.5909 9.49867L18.1874 8.87939" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5977 12.4111H20.9989" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck 1 — twoTone style variants.
+class _DeliveryTruck1Twotone {
+  const _DeliveryTruck1Twotone();
+
+  /// Truck 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3 9.71963H7.45124M4.88794 7.31006H7.45166" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.13593 17.1832L5.07919 17.1831C3.93111 17.1831 3 16.252 3 15.104V12.5918" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.96875 17.1831H14.2795" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1968 15.2665L16.1971 6.97958C16.1971 5.8315 15.266 4.90039 14.1179 4.90039H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1133 17.183L18.9206 17.1832C20.0686 17.1832 20.9997 16.2521 20.9997 15.104V11.6607C20.9997 10.7247 20.4471 9.87634 19.5909 9.49883L16.1973 8.00146" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.5977 12.4111H20.9989" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.97014 17.1833C8.97014 16.1247 8.112 15.2666 7.05343 15.2666C5.99486 15.2666 5.13672 16.1247 5.13672 17.1833C5.13672 18.2419 5.99486 19.1 7.05343 19.1C8.112 19.1 8.97014 18.2419 8.97014 17.1833Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1127 17.1833C18.1127 16.1247 17.2546 15.2666 16.196 15.2666C15.1374 15.2666 14.2793 16.1247 14.2793 17.1833C14.2793 18.2419 15.1374 19.1 16.196 19.1C17.2546 19.1 18.1127 18.2419 18.1127 17.1833Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck 1 — outline style variants.
+class _DeliveryTruck1Outline {
+  const _DeliveryTruck1Outline();
+
+  /// Truck 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 4.90025C2.25 4.48603 2.58579 4.15025 3 4.15025H14.1179C15.6802 4.15025 16.9471 5.41714 16.9471 6.97944L16.9471 7.51248L19.8937 8.81263C19.8937 8.81261 19.8938 8.81266 19.8937 8.81263C21.0221 9.31021 21.75 10.428 21.75 11.6608V15.104C21.75 16.6663 20.4831 17.9332 18.9208 17.9332L18.7566 17.9332C18.4325 19.0408 17.4092 19.8498 16.1968 19.8498C14.9845 19.8498 13.961 19.0407 13.637 17.933H9.61243C9.28843 19.0407 8.26502 19.8498 7.05264 19.8498C5.81676 19.8498 4.77724 19.009 4.4748 17.8683C3.20281 17.5914 2.25 16.4587 2.25 15.1038V12.5917C2.25 12.1775 2.58579 11.8417 3 11.8417C3.41421 11.8417 3.75 12.1775 3.75 12.5917V15.1038C3.75 15.6421 4.07023 16.1058 4.53048 16.3147C4.89068 15.2683 5.88385 14.5163 7.05264 14.5163C8.26502 14.5163 9.28843 15.3254 9.61243 16.433H13.637C13.8915 15.5633 14.5771 14.8776 15.4469 14.6232L15.4471 6.97944C15.4471 6.97943 15.4471 6.97945 15.4471 6.97944C15.4471 6.24558 14.8517 5.65025 14.1179 5.65025H3C2.58579 5.65025 2.25 5.31446 2.25 4.90025ZM16.9469 14.6233C17.8166 14.8777 18.5023 15.5634 18.7567 16.4332L18.9208 16.4332C18.9207 16.4332 18.9209 16.4332 18.9208 16.4332C19.6546 16.4331 20.25 15.8379 20.25 15.104V13.1611H18.5985C18.1843 13.1611 17.8485 12.8254 17.8485 12.4111C17.8485 11.9969 18.1843 11.6611 18.5985 11.6611H20.25C20.25 11.022 19.8725 10.4426 19.2886 10.1851L16.947 9.15198L16.9469 14.6233ZM4.13794 7.30981C4.13794 6.8956 4.47373 6.55981 4.88794 6.55981H7.45166C7.86587 6.55981 8.20166 6.8956 8.20166 7.30981C8.20166 7.72403 7.86587 8.05981 7.45166 8.05981H4.88794C4.47373 8.05981 4.13794 7.72403 4.13794 7.30981ZM2.25 9.71938C2.25 9.30517 2.58579 8.96938 3 8.96938H7.45124C7.86546 8.96938 8.20124 9.30517 8.20124 9.71938C8.20124 10.1336 7.86546 10.4694 7.45124 10.4694H3C2.58579 10.4694 2.25 10.1336 2.25 9.71938ZM7.05264 16.0163C6.40828 16.0163 5.88593 16.5387 5.88593 17.183C5.88593 17.8274 6.40828 18.3498 7.05264 18.3498C7.69699 18.3498 8.21935 17.8274 8.21935 17.183C8.21935 16.5387 7.69699 16.0163 7.05264 16.0163ZM16.1968 16.0163C15.5525 16.0163 15.0301 16.5387 15.0301 17.183C15.0301 17.8274 15.5525 18.3498 16.1968 18.3498C16.8412 18.3498 17.3635 17.8274 17.3635 17.183C17.3635 16.5387 16.8412 16.0163 16.1968 16.0163Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck 1 — bold style variants.
+class _DeliveryTruck1Bold {
+  const _DeliveryTruck1Bold();
+
+  /// Truck 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.6 13.1599H20.25V15.0999C20.25 15.8399 19.65 16.4299 18.92 16.4299H18.75C18.5 15.5699 17.82 14.8799 16.95 14.6299V9.1599L19.29 10.1899C19.87 10.4399 20.25 11.0199 20.25 11.6599H18.6C18.18 11.6599 17.85 11.9999 17.85 12.4099C17.85 12.8299 18.18 13.1599 18.6 13.1599ZM16.2 18.3499C15.65 18.3499 15.2 17.9799 15.07 17.4799C15.04 17.3799 15.03 17.2799 15.03 17.1799C15.03 16.8199 15.19 16.4999 15.45 16.2899C15.65 16.1199 15.91 16.0199 16.2 16.0199C16.49 16.0199 16.75 16.1199 16.95 16.2999C17.2 16.5099 17.36 16.8299 17.36 17.1799C17.36 17.8299 16.84 18.3499 16.2 18.3499ZM8.96 8.2199H5.39C4.98 8.2199 4.64 7.8799 4.64 7.4699C4.64 7.0499 4.98 6.7199 5.39 6.7199H8.96C9.37 6.7199 9.71 7.0499 9.71 7.4699C9.71 7.8799 9.37 8.2199 8.96 8.2199ZM8.22 17.1899C8.22 17.2199 8.22 17.2399 8.21 17.2699C8.17 17.8799 7.67 18.3499 7.05 18.3499C6.42 18.3499 5.9 17.8399 5.89 17.1999V17.1799C5.89 16.5399 6.41 16.0199 7.05 16.0199C7.7 16.0199 8.22 16.5399 8.22 17.1799V17.1899ZM19.89 8.8199L16.95 7.5199V6.9799C16.95 5.4199 15.68 4.1499 14.12 4.1499H5.05C3.5 4.1499 2.25 5.4099 2.25 6.9499V9.07816C2.25 9.24452 2.38403 9.37913 2.55039 9.3782C3.41421 9.37336 5.90281 9.3599 6.84 9.3599C7.25 9.3599 7.59 9.6999 7.59 10.1099C7.59 10.5299 7.25 10.8599 6.84 10.8599C5.70337 10.8599 3.37833 10.8533 2.55072 10.8508C2.38467 10.8503 2.25 10.9848 2.25 11.1508V15.0999C2.25 16.4499 3.21 17.5899 4.48 17.8599C4.77 18.9999 5.82 19.8499 7.05 19.8499C8.26 19.8499 9.29 19.0399 9.61 17.9299H13.64C13.96 19.0399 14.99 19.8499 16.2 19.8499C17.41 19.8499 18.43 19.0399 18.75 17.9299H18.92C20.48 17.9299 21.75 16.6599 21.75 15.0999V11.6599C21.75 10.4199 21.02 9.2999 19.89 8.8199Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck 1 — light style variants.
+class _DeliveryTruck1Light {
+  const _DeliveryTruck1Light();
+
+  /// Truck 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.13593 17.183L5.07919 17.183C3.93111 17.183 3 16.2519 3 15.1038V12.5917" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.97014 17.1833C8.97014 16.1247 8.112 15.2666 7.05343 15.2666C5.99486 15.2666 5.13672 16.1247 5.13672 17.1833C5.13672 18.2419 5.99486 19.1 7.05343 19.1C8.112 19.1 8.97014 18.2419 8.97014 17.1833Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1127 17.1833C18.1127 16.1247 17.2546 15.2666 16.196 15.2666C15.1374 15.2666 14.2793 16.1247 14.2793 17.1833C14.2793 18.2419 15.1374 19.1 16.196 19.1C17.2546 19.1 18.1127 18.2419 18.1127 17.1833Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.96875 17.1831H14.2795" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1968 15.2665L16.1971 6.97958C16.1971 5.8315 15.266 4.90039 14.1179 4.90039H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.71963H7.45124M4.88794 7.31006H7.45166" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1133 17.183L18.9206 17.1832C20.0686 17.1832 20.9997 16.2521 20.9997 15.104V11.6607C20.9997 10.7247 20.4471 9.87634 19.5909 9.49883L16.1973 8.00146" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5977 12.4111H20.9989" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -2792,12 +4708,6 @@ class _DeliveryTruckCheckCompleteIcon {
   _DeliveryTruckCheckCompleteBold get bold => const _DeliveryTruckCheckCompleteBold();
   /// bulk style
   _DeliveryTruckCheckCompleteBulk get bulk => const _DeliveryTruckCheckCompleteBulk();
-  /// light style
-  _DeliveryTruckCheckCompleteLight get light => const _DeliveryTruckCheckCompleteLight();
-  /// outline style
-  _DeliveryTruckCheckCompleteOutline get outline => const _DeliveryTruckCheckCompleteOutline();
-  /// twoTone style
-  _DeliveryTruckCheckCompleteTwotone get twoTone => const _DeliveryTruckCheckCompleteTwotone();
   /// broken style
   _DeliveryTruckCheckCompleteBroken get broken => const _DeliveryTruckCheckCompleteBroken();
 }
@@ -2809,7 +4719,7 @@ class _DeliveryTruckCheckCompleteBulk {
   /// Truck check complete — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Truck check complete',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.919 17.4381H18.75C18.499 16.5701 17.811 15.8921 16.942 15.6421V10.1581L19.291 11.1961C19.872 11.4481 20.248 12.0251 20.248 12.6681H18.596C18.182 12.6681 17.846 13.0041 17.846 13.4181C17.846 13.8321 18.182 14.1681 18.596 14.1681H20.248V16.1081C20.248 16.8411 19.651 17.4381 18.919 17.4381ZM5.88195 18.2121V18.1931C5.88195 17.5531 6.41195 17.0321 7.05195 17.0321C7.67195 17.0321 8.18195 17.5121 8.22195 18.1331V18.1421C8.21195 18.1621 8.21195 18.1731 8.21195 18.1931C8.21195 18.2121 8.21195 18.2221 8.22195 18.2421V18.2521C8.22195 18.2621 8.22195 18.2621 8.21195 18.2721V18.2821C8.17195 18.8831 7.66195 19.3631 7.05195 19.3631C6.42195 19.3631 5.89195 18.8431 5.88195 18.2121ZM15.072 18.4921C15.042 18.3921 15.032 18.2921 15.032 18.1931C15.032 17.8431 15.192 17.5221 15.442 17.3131C15.642 17.1331 15.902 17.0321 16.192 17.0321C16.482 17.0321 16.742 17.1331 16.942 17.3031C17.2 17.5111 17.359 17.8271 17.361 18.1841L17.36 18.1881C17.36 18.1881 17.362 18.1921 17.362 18.1951C17.361 18.8341 16.841 19.3631 16.192 19.3631C15.652 19.3631 15.202 18.9921 15.072 18.4921ZM19.892 9.82211L16.942 8.51811V7.99211C16.942 6.43211 15.672 5.16211 14.112 5.16211H13.3187C13.1003 5.16211 12.9557 5.38801 13.0303 5.59324C13.0685 5.69797 13.1028 5.80426 13.132 5.91211C13.212 6.16211 13.272 6.41211 13.302 6.66211C13.372 7.01211 13.402 7.37311 13.402 7.73211C13.402 11.2421 10.542 14.0931 7.04195 14.0931C5.84195 14.0931 4.71195 13.7621 3.75195 13.1731C3.48195 13.0221 3.24195 12.8431 3.00195 12.6531C2.93561 12.5966 2.87048 12.5389 2.80655 12.4801C2.60304 12.2929 2.25195 12.4298 2.25195 12.7063V16.1131C2.25195 17.4621 3.20195 18.5931 4.47195 18.8731C4.78195 20.0121 5.81195 20.8631 7.05195 20.8631C8.26195 20.8631 9.28195 20.0531 9.61195 18.9431H13.642C13.962 20.0531 14.982 20.8631 16.192 20.8631C17.402 20.8631 18.422 20.0531 18.752 18.9431C18.753 18.9411 18.753 18.9381 18.753 18.9381H18.919C20.479 18.9381 21.748 17.6681 21.748 16.1081V12.6681C21.748 11.4271 21.018 10.3091 19.892 9.82211Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M6.87875 3.13672C4.33775 3.13672 2.27075 5.20472 2.27075 7.74672C2.27075 10.2827 4.33775 12.3467 6.87875 12.3467C9.41875 12.3467 11.4858 10.2827 11.4858 7.74672C11.4858 5.20472 9.41875 3.13672 6.87875 3.13672Z" fill="black"/> <path d="M4.7666 7.80424L6.02756 9.06423L8.99023 6.10059" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.25 11.6644H18.599C18.185 11.6644 17.849 12.0004 17.849 12.4144C17.849 12.8284 18.185 13.1644 18.599 13.1644H20.25V15.1004C20.25 15.8404 19.66 16.4304 18.92 16.4304H18.76C18.7592 16.4276 18.7584 16.4249 18.7576 16.4221L18.7563 16.4273C18.8268 16.6667 18.8647 16.9201 18.8647 17.1823C18.8647 17.445 18.8267 17.6987 18.756 17.9384L18.7573 17.9396C18.7582 17.9365 18.7591 17.9335 18.76 17.9304H18.92C20.48 17.9304 21.75 16.6604 21.75 15.1004V11.6604C21.75 10.4204 21.02 9.30039 19.9 8.82039L16.95 7.52039V6.98039C16.95 5.42039 15.68 4.15039 14.12 4.15039H5.05C3.51 4.15039 2.25 5.41039 2.25 6.95039V15.1004C2.25 16.4477 3.20624 17.5859 4.47254 17.8588C4.41606 17.6428 4.38599 17.4161 4.38599 17.1823C4.38599 15.7096 5.57991 14.5156 7.0527 14.5156C8.52548 14.5156 9.71941 15.7096 9.71941 17.1823C9.71941 17.4435 9.68187 17.6959 9.61189 17.9344H13.6388C13.5688 17.6959 13.5312 17.4435 13.5312 17.1823C13.5312 15.7096 14.7252 14.5156 16.198 14.5156C16.4591 14.5156 16.7115 14.5532 16.95 14.6231V9.16039L19.29 10.1904C19.88 10.4404 20.25 11.0204 20.25 11.6604V11.6644Z" fill="black"/> <path d="M9.03287 12.6548L11.8279 9.85484C12.1199 9.56184 12.1199 9.08684 11.8269 8.79384C11.5329 8.50084 11.0579 8.50084 10.7659 8.79484L8.50187 11.0638L7.55087 10.1138C7.25887 9.82184 6.78287 9.82084 6.48987 10.1148C6.19787 10.4078 6.19787 10.8828 6.49087 11.1758L7.97287 12.6558C8.11387 12.7958 8.30387 12.8748 8.50287 12.8748C8.70187 12.8748 8.89287 12.7948 9.03287 12.6548Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.0527 14.5156C5.57991 14.5156 4.38599 15.7096 4.38599 17.1823C4.38599 18.6551 5.57991 19.849 7.0527 19.849C8.52548 19.849 9.71941 18.6551 9.71941 17.1823C9.71941 15.7096 8.52548 14.5156 7.0527 14.5156ZM5.88599 17.1823C5.88599 16.538 6.40834 16.0156 7.0527 16.0156C7.69705 16.0156 8.21941 16.538 8.21941 17.1823C8.21941 17.8267 7.69705 18.349 7.0527 18.349C6.40834 18.349 5.88599 17.8267 5.88599 17.1823Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.198 14.5156C14.7252 14.5156 13.5312 15.7096 13.5312 17.1823C13.5312 18.6551 14.7252 19.849 16.198 19.849C17.6707 19.849 18.8647 18.6551 18.8647 17.1823C18.8647 15.7096 17.6707 14.5156 16.198 14.5156ZM15.0312 17.1823C15.0312 16.538 15.5536 16.0156 16.198 16.0156C16.8423 16.0156 17.3647 16.538 17.3647 17.1823C17.3647 17.8267 16.8423 18.349 16.198 18.349C15.5536 18.349 15.0312 17.8267 15.0312 17.1823Z" fill="black"/> </svg>',
     category: 'Delivery',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -2824,39 +4734,9 @@ class _DeliveryTruckCheckCompleteBroken {
   /// Truck check complete — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Truck check complete',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.97606 18.1746C8.97606 17.1169 8.11888 16.2588 7.06029 16.2588C6.00268 16.2588 5.14453 17.1169 5.14453 18.1746C5.14453 19.2322 6.00268 20.0903 7.06029 20.0903C8.11888 20.0903 8.97606 19.2322 8.97606 18.1746Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.8578 11.6243C4.72701 11.6243 3 9.89631 3 7.76649C3 5.63668 4.72701 3.90967 6.8578 3.90967C8.98761 3.90967 10.7146 5.63668 10.7146 7.76649C10.7146 8.92247 10.2059 9.96007 9.40008 10.6673" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.63867 7.21245L6.89963 8.47243L9.8623 5.50879" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1147 18.1746C18.1147 17.1169 17.2575 16.2588 16.199 16.2588C15.1414 16.2588 14.2832 17.1169 14.2832 18.1746C14.2832 19.2322 15.1414 20.0903 16.199 20.0903C17.2575 20.0903 18.1147 19.2322 18.1147 18.1746Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.97656 18.1748L12.1167 18.1748" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.14477 18.1748L5.08801 18.1743C3.93992 18.1743 3.00977 17.2442 3.00977 16.0961V13.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0391 5.89844H14.1229C15.2701 5.89844 16.2002 6.82859 16.2002 7.97669L16.2005 16.259" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1152 18.1743L18.9216 18.1744C20.0687 18.1744 20.9989 17.2442 20.9989 16.0961V12.6547C20.9989 11.7197 20.4472 10.8723 19.591 10.4948L18.2526 9.9043" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5996 13.4043H20.9999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.46094 10.6372L8.94274 12.118L11.737 9.32275" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.197 15.2656C17.2556 15.2656 18.1137 16.1238 18.1137 17.1823C18.1137 18.2409 17.2556 19.099 16.197 19.099C15.1384 19.099 14.2803 18.2409 14.2803 17.1823C14.2803 16.1238 15.1384 15.2656 16.197 15.2656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.05343 15.2656C8.112 15.2656 8.97014 16.1238 8.97014 17.1823C8.97014 18.2409 8.112 19.099 7.05343 19.099C5.99486 19.099 5.13672 18.2409 5.13672 17.1823C5.13672 16.1238 5.99486 15.2656 7.05343 15.2656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1969 15.266L16.1971 6.98007C16.1971 5.83199 15.266 4.90088 14.1179 4.90088H9.58301" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.07919 17.1834C3.93111 17.1834 3 16.2523 3 15.1042V6.94894C3 5.8174 3.91749 4.90088 5.04806 4.90088H6.31552" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1133 17.1824L18.9205 17.1826C20.0686 17.1826 20.9997 16.2515 20.9997 15.1034V11.6601C20.9997 10.7241 20.4471 9.87573 19.5909 9.49822L18.2658 8.91357" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5977 12.4106H20.9989" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.96875 17.1826L12.2805 17.1833" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Delivery',
     style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Truck check complete — twoTone style variants.
-class _DeliveryTruckCheckCompleteTwotone {
-  const _DeliveryTruckCheckCompleteTwotone();
-
-  /// Truck check complete — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Truck check complete',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.8578 11.6243C8.98761 11.6243 10.7146 9.89631 10.7146 7.76649C10.7146 5.63668 8.98761 3.90967 6.8578 3.90967C4.72701 3.90967 3 5.63668 3 7.76649C3 9.89631 4.72701 11.6243 6.8578 11.6243Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.63867 7.21245L6.89963 8.47243L9.8623 5.50879" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.97656 18.1748H14.2846" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.14477 18.1748L5.08801 18.1743C3.93992 18.1743 3.00977 17.2442 3.00977 16.0961V13.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2005 16.259L16.2002 7.97669C16.2002 6.82859 15.2701 5.89844 14.1229 5.89844H13.0391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1152 18.1745L18.9216 18.1745C20.0687 18.1745 20.9988 17.2444 20.9988 16.0963V12.6549C20.9988 11.7199 20.4472 10.8725 19.591 10.495L16.1992 8.99854" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.5996 13.4043H20.9999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.97606 18.1746C8.97606 17.1169 8.11888 16.2588 7.06029 16.2588C6.00268 16.2588 5.14453 17.1169 5.14453 18.1746C5.14453 19.2322 6.00268 20.0903 7.06029 20.0903C8.11888 20.0903 8.97606 19.2322 8.97606 18.1746Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1147 18.1746C18.1147 17.1169 17.2575 16.2588 16.199 16.2588C15.1414 16.2588 14.2832 17.1169 14.2832 18.1746C14.2832 19.2322 15.1414 20.0903 16.199 20.0903C17.2575 20.0903 18.1147 19.2322 18.1147 18.1746Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Delivery',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Truck check complete — outline style variants.
-class _DeliveryTruckCheckCompleteOutline {
-  const _DeliveryTruckCheckCompleteOutline();
-
-  /// Truck check complete — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Truck check complete',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.8578 4.65963C5.1411 4.65963 3.75 6.05097 3.75 7.76645C3.75 9.48218 5.14135 10.8742 6.8578 10.8742C8.57315 10.8742 9.96462 9.4823 9.96462 7.76645C9.96462 7.37949 9.89384 7.00903 9.76452 6.66731L7.42997 9.00263C7.13717 9.29553 6.66238 9.29566 6.36942 9.00292L5.10846 7.74294C4.81546 7.45016 4.81528 6.97528 5.10806 6.68228C5.40084 6.38927 5.87571 6.38909 6.16872 6.68187L6.89926 7.41185L8.89208 5.41837C8.34701 4.9457 7.63575 4.65963 6.8578 4.65963ZM2.25 7.76645C2.25 5.2223 4.31292 3.15963 6.8578 3.15963C9.40182 3.15963 11.4646 5.22242 11.4646 7.76645C11.4646 10.3102 9.40207 12.3742 6.8578 12.3742C4.31267 12.3742 2.25 10.3104 2.25 7.76645ZM12.2884 5.89831C12.2884 5.4841 12.6242 5.14831 13.0384 5.14831H14.1223C15.6839 5.14831 16.9496 6.41447 16.9496 7.97653C16.9496 7.97653 16.9496 7.97654 16.9496 7.97653L16.9496 8.50982L19.8939 9.80884C19.8939 9.80882 19.894 9.80886 19.8939 9.80884C21.0223 10.3064 21.7492 11.4233 21.7492 12.6551V13.3702C21.7497 13.3816 21.75 13.393 21.75 13.4046C21.75 13.4161 21.7497 13.4276 21.7492 13.439V16.0964C21.7492 17.6585 20.4835 18.9247 18.922 18.9247L18.7586 18.9247C18.4347 20.0314 17.4122 20.8404 16.1998 20.8404C14.9884 20.8404 13.9652 20.0315 13.6411 18.9246H9.61907C9.29518 20.0314 8.27268 20.8404 7.06027 20.8404C5.82519 20.8404 4.78579 19.9996 4.48337 18.8595C3.21158 18.5827 2.2595 17.4508 2.2595 16.0959V13.035C2.2595 12.6207 2.59529 12.285 3.0095 12.285C3.42372 12.285 3.7595 12.6207 3.7595 13.035V16.0959C3.7595 16.6342 4.07926 17.0974 4.5393 17.3061C4.89967 16.2604 5.89251 15.5088 7.06027 15.5088C8.27268 15.5088 9.29518 16.3178 9.61907 17.4246H13.6411C13.8956 16.5556 14.5808 15.8703 15.4498 15.6159L15.4496 9.01554C15.4493 9.00407 15.4493 8.99258 15.4496 8.98107L15.4496 7.97658C15.4496 7.24247 14.855 6.64831 14.1223 6.64831H13.0384C12.6242 6.64831 12.2884 6.31253 12.2884 5.89831ZM16.9496 10.1493L16.9498 15.6158C17.8193 15.8701 18.5044 16.5556 18.7587 17.4247L18.922 17.4247C18.9219 17.4247 18.922 17.4247 18.922 17.4247C19.6546 17.4246 20.2492 16.8305 20.2492 16.0964V14.1546H18.5997C18.1855 14.1546 17.8497 13.8188 17.8497 13.4046C17.8497 12.9904 18.1855 12.6546 18.5997 12.6546H20.2492C20.249 12.0166 19.8726 11.4388 19.2888 11.1814L16.9496 10.1493ZM7.06027 17.0088C6.41687 17.0088 5.89451 17.5312 5.89451 18.1746C5.89451 18.818 6.41687 19.3404 7.06027 19.3404C7.70439 19.3404 8.22603 18.8182 8.22603 18.1746C8.22603 17.531 7.70439 17.0088 7.06027 17.0088ZM16.1998 17.0088C15.5564 17.0088 15.0341 17.5312 15.0341 18.1746C15.0341 18.818 15.5564 19.3404 16.1998 19.3404C16.844 19.3404 17.3656 18.8182 17.3656 18.1746C17.3656 17.531 16.844 17.0088 16.1998 17.0088Z" fill="black"/> </svg> ',
-    category: 'Delivery',
-    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -2869,6 +4749,99 @@ class _DeliveryTruckCheckCompleteBold {
   /// Truck check complete — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Truck check complete',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.25 11.6639H18.599C18.185 11.6639 17.849 11.9999 17.849 12.4139C17.849 12.8279 18.185 13.1639 18.599 13.1639H20.25V15.0999C20.25 15.8399 19.66 16.4299 18.92 16.4299H18.76C18.51 15.5699 17.82 14.8799 16.95 14.6299V9.1599L19.29 10.1899C19.88 10.4399 20.25 11.0199 20.25 11.6599V11.6639ZM17.37 17.1299C17.36 17.1499 17.36 17.1599 17.36 17.1799C17.36 17.1999 17.36 17.2099 17.37 17.2299V17.2399C17.33 17.8699 16.82 18.3499 16.2 18.3499C15.65 18.3499 15.2 17.9799 15.07 17.4799C15.041 17.3819 15.031 17.2829 15.031 17.1849C15.031 17.1829 15.03 17.1809 15.03 17.1789C15.03 16.8199 15.19 16.4999 15.45 16.2899C15.65 16.1199 15.91 16.0199 16.2 16.0199C16.48 16.0199 16.75 16.1199 16.95 16.2999C17.19 16.4999 17.35 16.7799 17.37 17.1199V17.1299ZM11.828 9.8539L9.033 12.6539C8.893 12.7939 8.702 12.8739 8.503 12.8739C8.304 12.8739 8.114 12.7949 7.973 12.6549L6.491 11.1749C6.198 10.8819 6.198 10.4069 6.49 10.1139C6.783 9.8199 7.259 9.8209 7.551 10.1129L8.502 11.0629L10.766 8.7939C11.058 8.4999 11.533 8.4999 11.827 8.7929C12.12 9.0859 12.12 9.5609 11.828 9.8539ZM8.21 17.2699C8.17 17.8799 7.67 18.3499 7.05 18.3499C6.42 18.3499 5.9 17.8399 5.89 17.1999V17.1799C5.89 16.5399 6.41 16.0199 7.05 16.0199C7.7 16.0199 8.22 16.5399 8.22 17.1799C8.22 17.2099 8.22 17.2399 8.21 17.2699ZM19.9 8.8199L16.95 7.5199V6.9799C16.95 5.4199 15.68 4.1499 14.12 4.1499H5.05C3.51 4.1499 2.25 5.4099 2.25 6.9499V15.0999C2.25 16.4499 3.21 17.5899 4.48 17.8599C4.77 18.9999 5.82 19.8499 7.05 19.8499C8.268 19.8499 9.287 19.0419 9.608 17.9339H13.641C13.963 19.0419 14.992 19.8499 16.2 19.8499C17.41 19.8499 18.44 19.0399 18.76 17.9299H18.92C20.48 17.9299 21.75 16.6599 21.75 15.0999V11.6599C21.75 10.4199 21.02 9.2999 19.9 8.8199Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck check complete 1 icon with style variants.
+class _DeliveryTruckCheckComplete1Icon {
+  const _DeliveryTruckCheckComplete1Icon();
+
+  /// bold style
+  _DeliveryTruckCheckComplete1Bold get bold => const _DeliveryTruckCheckComplete1Bold();
+  /// bulk style
+  _DeliveryTruckCheckComplete1Bulk get bulk => const _DeliveryTruckCheckComplete1Bulk();
+  /// light style
+  _DeliveryTruckCheckComplete1Light get light => const _DeliveryTruckCheckComplete1Light();
+  /// outline style
+  _DeliveryTruckCheckComplete1Outline get outline => const _DeliveryTruckCheckComplete1Outline();
+  /// twoTone style
+  _DeliveryTruckCheckComplete1Twotone get twoTone => const _DeliveryTruckCheckComplete1Twotone();
+  /// broken style
+  _DeliveryTruckCheckComplete1Broken get broken => const _DeliveryTruckCheckComplete1Broken();
+}
+
+/// Truck check complete 1 — bulk style variants.
+class _DeliveryTruckCheckComplete1Bulk {
+  const _DeliveryTruckCheckComplete1Bulk();
+
+  /// Truck check complete 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck check complete 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.919 17.4381H18.75C18.499 16.5701 17.811 15.8921 16.942 15.6421V10.1581L19.291 11.1961C19.872 11.4481 20.248 12.0251 20.248 12.6681H18.596C18.182 12.6681 17.846 13.0041 17.846 13.4181C17.846 13.8321 18.182 14.1681 18.596 14.1681H20.248V16.1081C20.248 16.8411 19.651 17.4381 18.919 17.4381ZM5.88195 18.2121V18.1931C5.88195 17.5531 6.41195 17.0321 7.05195 17.0321C7.67195 17.0321 8.18195 17.5121 8.22195 18.1331V18.1421C8.21195 18.1621 8.21195 18.1731 8.21195 18.1931C8.21195 18.2121 8.21195 18.2221 8.22195 18.2421V18.2521C8.22195 18.2621 8.22195 18.2621 8.21195 18.2721V18.2821C8.17195 18.8831 7.66195 19.3631 7.05195 19.3631C6.42195 19.3631 5.89195 18.8431 5.88195 18.2121ZM15.072 18.4921C15.042 18.3921 15.032 18.2921 15.032 18.1931C15.032 17.8431 15.192 17.5221 15.442 17.3131C15.642 17.1331 15.902 17.0321 16.192 17.0321C16.482 17.0321 16.742 17.1331 16.942 17.3031C17.2 17.5111 17.359 17.8271 17.361 18.1841L17.36 18.1881C17.36 18.1881 17.362 18.1921 17.362 18.1951C17.361 18.8341 16.841 19.3631 16.192 19.3631C15.652 19.3631 15.202 18.9921 15.072 18.4921ZM19.892 9.82211L16.942 8.51811V7.99211C16.942 6.43211 15.672 5.16211 14.112 5.16211H13.3187C13.1003 5.16211 12.9557 5.38801 13.0303 5.59324C13.0685 5.69797 13.1028 5.80426 13.132 5.91211C13.212 6.16211 13.272 6.41211 13.302 6.66211C13.372 7.01211 13.402 7.37311 13.402 7.73211C13.402 11.2421 10.542 14.0931 7.04195 14.0931C5.84195 14.0931 4.71195 13.7621 3.75195 13.1731C3.48195 13.0221 3.24195 12.8431 3.00195 12.6531C2.93561 12.5966 2.87048 12.5389 2.80655 12.4801C2.60304 12.2929 2.25195 12.4298 2.25195 12.7063V16.1131C2.25195 17.4621 3.20195 18.5931 4.47195 18.8731C4.78195 20.0121 5.81195 20.8631 7.05195 20.8631C8.26195 20.8631 9.28195 20.0531 9.61195 18.9431H13.642C13.962 20.0531 14.982 20.8631 16.192 20.8631C17.402 20.8631 18.422 20.0531 18.752 18.9431C18.753 18.9411 18.753 18.9381 18.753 18.9381H18.919C20.479 18.9381 21.748 17.6681 21.748 16.1081V12.6681C21.748 11.4271 21.018 10.3091 19.892 9.82211Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M6.87875 3.13672C4.33775 3.13672 2.27075 5.20472 2.27075 7.74672C2.27075 10.2827 4.33775 12.3467 6.87875 12.3467C9.41875 12.3467 11.4858 10.2827 11.4858 7.74672C11.4858 5.20472 9.41875 3.13672 6.87875 3.13672Z" fill="black"/> <path d="M4.7666 7.80424L6.02756 9.06423L8.99023 6.10059" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck check complete 1 — broken style variants.
+class _DeliveryTruckCheckComplete1Broken {
+  const _DeliveryTruckCheckComplete1Broken();
+
+  /// Truck check complete 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck check complete 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.97606 18.1746C8.97606 17.1169 8.11888 16.2588 7.06029 16.2588C6.00268 16.2588 5.14453 17.1169 5.14453 18.1746C5.14453 19.2322 6.00268 20.0903 7.06029 20.0903C8.11888 20.0903 8.97606 19.2322 8.97606 18.1746Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.8578 11.6243C4.72701 11.6243 3 9.89631 3 7.76649C3 5.63668 4.72701 3.90967 6.8578 3.90967C8.98761 3.90967 10.7146 5.63668 10.7146 7.76649C10.7146 8.92247 10.2059 9.96007 9.40008 10.6673" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.63867 7.21245L6.89963 8.47243L9.8623 5.50879" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1147 18.1746C18.1147 17.1169 17.2575 16.2588 16.199 16.2588C15.1414 16.2588 14.2832 17.1169 14.2832 18.1746C14.2832 19.2322 15.1414 20.0903 16.199 20.0903C17.2575 20.0903 18.1147 19.2322 18.1147 18.1746Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.97656 18.1748L12.1167 18.1748" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.14477 18.1748L5.08801 18.1743C3.93992 18.1743 3.00977 17.2442 3.00977 16.0961V13.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0391 5.89844H14.1229C15.2701 5.89844 16.2002 6.82859 16.2002 7.97669L16.2005 16.259" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1152 18.1743L18.9216 18.1744C20.0687 18.1744 20.9989 17.2442 20.9989 16.0961V12.6547C20.9989 11.7197 20.4472 10.8723 19.591 10.4948L18.2526 9.9043" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5996 13.4043H20.9999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck check complete 1 — twoTone style variants.
+class _DeliveryTruckCheckComplete1Twotone {
+  const _DeliveryTruckCheckComplete1Twotone();
+
+  /// Truck check complete 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck check complete 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.8578 11.6243C8.98761 11.6243 10.7146 9.89631 10.7146 7.76649C10.7146 5.63668 8.98761 3.90967 6.8578 3.90967C4.72701 3.90967 3 5.63668 3 7.76649C3 9.89631 4.72701 11.6243 6.8578 11.6243Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.63867 7.21245L6.89963 8.47243L9.8623 5.50879" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.97656 18.1748H14.2846" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.14477 18.1748L5.08801 18.1743C3.93992 18.1743 3.00977 17.2442 3.00977 16.0961V13.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2005 16.259L16.2002 7.97669C16.2002 6.82859 15.2701 5.89844 14.1229 5.89844H13.0391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1152 18.1745L18.9216 18.1745C20.0687 18.1745 20.9988 17.2444 20.9988 16.0963V12.6549C20.9988 11.7199 20.4472 10.8725 19.591 10.495L16.1992 8.99854" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.5996 13.4043H20.9999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.97606 18.1746C8.97606 17.1169 8.11888 16.2588 7.06029 16.2588C6.00268 16.2588 5.14453 17.1169 5.14453 18.1746C5.14453 19.2322 6.00268 20.0903 7.06029 20.0903C8.11888 20.0903 8.97606 19.2322 8.97606 18.1746Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1147 18.1746C18.1147 17.1169 17.2575 16.2588 16.199 16.2588C15.1414 16.2588 14.2832 17.1169 14.2832 18.1746C14.2832 19.2322 15.1414 20.0903 16.199 20.0903C17.2575 20.0903 18.1147 19.2322 18.1147 18.1746Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck check complete 1 — outline style variants.
+class _DeliveryTruckCheckComplete1Outline {
+  const _DeliveryTruckCheckComplete1Outline();
+
+  /// Truck check complete 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck check complete 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.8578 4.65963C5.1411 4.65963 3.75 6.05097 3.75 7.76645C3.75 9.48218 5.14135 10.8742 6.8578 10.8742C8.57315 10.8742 9.96462 9.4823 9.96462 7.76645C9.96462 7.37949 9.89384 7.00903 9.76452 6.66731L7.42997 9.00263C7.13717 9.29553 6.66238 9.29566 6.36942 9.00292L5.10846 7.74294C4.81546 7.45016 4.81528 6.97528 5.10806 6.68228C5.40084 6.38927 5.87571 6.38909 6.16872 6.68187L6.89926 7.41185L8.89208 5.41837C8.34701 4.9457 7.63575 4.65963 6.8578 4.65963ZM2.25 7.76645C2.25 5.2223 4.31292 3.15963 6.8578 3.15963C9.40182 3.15963 11.4646 5.22242 11.4646 7.76645C11.4646 10.3102 9.40207 12.3742 6.8578 12.3742C4.31267 12.3742 2.25 10.3104 2.25 7.76645ZM12.2884 5.89831C12.2884 5.4841 12.6242 5.14831 13.0384 5.14831H14.1223C15.6839 5.14831 16.9496 6.41447 16.9496 7.97653C16.9496 7.97653 16.9496 7.97654 16.9496 7.97653L16.9496 8.50982L19.8939 9.80884C19.8939 9.80882 19.894 9.80886 19.8939 9.80884C21.0223 10.3064 21.7492 11.4233 21.7492 12.6551V13.3702C21.7497 13.3816 21.75 13.393 21.75 13.4046C21.75 13.4161 21.7497 13.4276 21.7492 13.439V16.0964C21.7492 17.6585 20.4835 18.9247 18.922 18.9247L18.7586 18.9247C18.4347 20.0314 17.4122 20.8404 16.1998 20.8404C14.9884 20.8404 13.9652 20.0315 13.6411 18.9246H9.61907C9.29518 20.0314 8.27268 20.8404 7.06027 20.8404C5.82519 20.8404 4.78579 19.9996 4.48337 18.8595C3.21158 18.5827 2.2595 17.4508 2.2595 16.0959V13.035C2.2595 12.6207 2.59529 12.285 3.0095 12.285C3.42372 12.285 3.7595 12.6207 3.7595 13.035V16.0959C3.7595 16.6342 4.07926 17.0974 4.5393 17.3061C4.89967 16.2604 5.89251 15.5088 7.06027 15.5088C8.27268 15.5088 9.29518 16.3178 9.61907 17.4246H13.6411C13.8956 16.5556 14.5808 15.8703 15.4498 15.6159L15.4496 9.01554C15.4493 9.00407 15.4493 8.99258 15.4496 8.98107L15.4496 7.97658C15.4496 7.24247 14.855 6.64831 14.1223 6.64831H13.0384C12.6242 6.64831 12.2884 6.31253 12.2884 5.89831ZM16.9496 10.1493L16.9498 15.6158C17.8193 15.8701 18.5044 16.5556 18.7587 17.4247L18.922 17.4247C18.9219 17.4247 18.922 17.4247 18.922 17.4247C19.6546 17.4246 20.2492 16.8305 20.2492 16.0964V14.1546H18.5997C18.1855 14.1546 17.8497 13.8188 17.8497 13.4046C17.8497 12.9904 18.1855 12.6546 18.5997 12.6546H20.2492C20.249 12.0166 19.8726 11.4388 19.2888 11.1814L16.9496 10.1493ZM7.06027 17.0088C6.41687 17.0088 5.89451 17.5312 5.89451 18.1746C5.89451 18.818 6.41687 19.3404 7.06027 19.3404C7.70439 19.3404 8.22603 18.8182 8.22603 18.1746C8.22603 17.531 7.70439 17.0088 7.06027 17.0088ZM16.1998 17.0088C15.5564 17.0088 15.0341 17.5312 15.0341 18.1746C15.0341 18.818 15.5564 19.3404 16.1998 19.3404C16.844 19.3404 17.3656 18.8182 17.3656 18.1746C17.3656 17.531 16.844 17.0088 16.1998 17.0088Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck check complete 1 — bold style variants.
+class _DeliveryTruckCheckComplete1Bold {
+  const _DeliveryTruckCheckComplete1Bold();
+
+  /// Truck check complete 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck check complete 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.919 17.4379H18.75C18.499 16.5699 17.81 15.8919 16.942 15.6419V10.1579L19.291 11.1959C19.872 11.4479 20.248 12.0249 20.248 12.6679H18.596C18.182 12.6679 17.846 13.0039 17.846 13.4179C17.846 13.8319 18.182 14.1679 18.596 14.1679H20.248V16.1079C20.248 16.8409 19.651 17.4379 18.919 17.4379ZM5.88195 18.2119V18.1929C5.88195 17.5529 6.41195 17.0319 7.05195 17.0319C7.67195 17.0319 8.17195 17.5019 8.22195 18.1229V18.1329C8.21195 18.1529 8.21195 18.1729 8.21195 18.1929C8.21195 18.2119 8.21195 18.2319 8.22195 18.2519C8.22195 18.2619 8.22195 18.2719 8.21195 18.2819C8.17195 18.8829 7.66195 19.3629 7.05195 19.3629C6.42195 19.3629 5.89195 18.8429 5.88195 18.2119ZM15.072 18.4919C15.042 18.3919 15.032 18.2919 15.032 18.1929C15.032 17.8429 15.192 17.5219 15.442 17.3129C15.642 17.1329 15.902 17.0319 16.192 17.0319C16.482 17.0319 16.742 17.1329 16.942 17.3029C17.2 17.5109 17.359 17.8279 17.361 18.1849L17.36 18.1879L17.362 18.1939C17.361 18.8329 16.841 19.3629 16.192 19.3629C15.652 19.3629 15.202 18.9919 15.072 18.4919ZM19.892 9.82187L16.942 8.51787V7.99187C16.942 6.43187 15.672 5.16187 14.112 5.16187H13.3187C13.1003 5.16187 12.9557 5.38777 13.0303 5.59299C13.0685 5.69772 13.1028 5.80401 13.132 5.91187C13.212 6.16187 13.272 6.41187 13.302 6.66187C13.372 7.01187 13.402 7.37286 13.402 7.73186C13.402 11.2419 10.542 14.0929 7.04195 14.0929C5.84195 14.0929 4.71195 13.7619 3.75195 13.1729C3.48195 13.0219 3.24195 12.8429 3.00195 12.6529C2.93561 12.5964 2.87048 12.5386 2.80655 12.4798C2.60304 12.2927 2.25195 12.4296 2.25195 12.7061V16.1129C2.25195 17.4619 3.20195 18.5929 4.47195 18.8729C4.78195 20.0119 5.81195 20.8629 7.05195 20.8629C8.26195 20.8629 9.28195 20.0529 9.61195 18.9429H13.642C13.962 20.0529 14.982 20.8629 16.192 20.8629C17.402 20.8629 18.422 20.0529 18.752 18.9429L18.753 18.9379H18.919C20.479 18.9379 21.748 17.6679 21.748 16.1079V12.6679C21.748 11.4269 21.018 10.3089 19.892 9.82187Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.42963 9.17672C7.28363 9.32272 7.09063 9.39572 6.89963 9.39572C6.70763 9.39572 6.51563 9.32272 6.36863 9.17672L4.72163 7.52972C4.42863 7.23772 4.42863 6.76172 4.72163 6.46872C5.01363 6.17672 5.48863 6.17572 5.78263 6.46872L6.89963 7.58572L9.84307 4.64321C9.96195 4.52437 9.96057 4.33026 9.83205 4.22192C9.03207 3.54761 8.00474 3.13672 6.87863 3.13672C4.33763 3.13672 2.27063 5.20472 2.27063 7.74672C2.27063 10.2827 4.33763 12.3467 6.87863 12.3467C9.41863 12.3467 11.4856 10.2827 11.4856 7.74672C11.4856 7.13371 11.3539 6.55593 11.132 6.02338C11.0538 5.83574 10.8116 5.79761 10.6678 5.9413L7.42963 9.17672Z" fill="black"/> </svg>',
     category: 'Delivery',
     style: IconfyStyle.bold,
@@ -2877,13 +4850,13 @@ class _DeliveryTruckCheckCompleteBold {
 
 }
 
-/// Truck check complete — light style variants.
-class _DeliveryTruckCheckCompleteLight {
-  const _DeliveryTruckCheckCompleteLight();
+/// Truck check complete 1 — light style variants.
+class _DeliveryTruckCheckComplete1Light {
+  const _DeliveryTruckCheckComplete1Light();
 
-  /// Truck check complete — light / regular
+  /// Truck check complete 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Truck check complete',
+    name: 'Truck check complete 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.97606 18.1746C8.97606 17.117 8.11888 16.2589 7.06029 16.2589C6.00268 16.2589 5.14453 17.117 5.14453 18.1746C5.14453 19.2322 6.00268 20.0904 7.06029 20.0904C8.11888 20.0904 8.97606 19.2322 8.97606 18.1746Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.8578 11.6243C8.98761 11.6243 10.7146 9.89631 10.7146 7.76649C10.7146 5.63668 8.98761 3.90967 6.8578 3.90967C4.72701 3.90967 3 5.63668 3 7.76649C3 9.89631 4.72701 11.6243 6.8578 11.6243Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.63867 7.21245L6.89963 8.47243L9.8623 5.50879" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1147 18.1746C18.1147 17.1169 17.2575 16.2588 16.199 16.2588C15.1414 16.2588 14.2832 17.1169 14.2832 18.1746C14.2832 19.2322 15.1414 20.0903 16.199 20.0903C17.2575 20.0903 18.1147 19.2322 18.1147 18.1746Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.97656 18.1748H14.2846" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.14477 18.1748L5.08801 18.1743C3.93992 18.1743 3.00977 17.2442 3.00977 16.0961V13.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2005 16.259L16.2002 7.97669C16.2002 6.82859 15.2701 5.89844 14.1229 5.89844H13.0391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1152 18.1745L18.9216 18.1745C20.0687 18.1745 20.9988 17.2444 20.9988 16.0963V12.6549C20.9988 11.7199 20.4472 10.8725 19.591 10.495L16.1992 8.99854" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5996 13.4043H20.9999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.light,
@@ -3544,33 +5517,8 @@ class _DeliveryPostBankLight {
 class _DeliveryDeliveryBoxChangeIcon {
   const _DeliveryDeliveryBoxChangeIcon();
 
-  /// bold style
-  _DeliveryDeliveryBoxChangeBold get bold => const _DeliveryDeliveryBoxChangeBold();
-  /// bulk style
-  _DeliveryDeliveryBoxChangeBulk get bulk => const _DeliveryDeliveryBoxChangeBulk();
-  /// light style
-  _DeliveryDeliveryBoxChangeLight get light => const _DeliveryDeliveryBoxChangeLight();
-  /// outline style
-  _DeliveryDeliveryBoxChangeOutline get outline => const _DeliveryDeliveryBoxChangeOutline();
-  /// twoTone style
-  _DeliveryDeliveryBoxChangeTwotone get twoTone => const _DeliveryDeliveryBoxChangeTwotone();
   /// broken style
   _DeliveryDeliveryBoxChangeBroken get broken => const _DeliveryDeliveryBoxChangeBroken();
-}
-
-/// Delivery Box change — bulk style variants.
-class _DeliveryDeliveryBoxChangeBulk {
-  const _DeliveryDeliveryBoxChangeBulk();
-
-  /// Delivery Box change — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Delivery Box change',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0678 7.14476L21.0758 7.13976L21.8558 6.61976C22.0858 6.45976 22.2158 6.18976 22.1858 5.90976C22.1558 5.62976 21.9658 5.38976 21.7058 5.28976L18.9758 4.23976C18.7458 4.14976 18.4858 4.17976 18.2858 4.31976C18.0758 4.44976 17.9558 4.67976 17.9558 4.92976L17.9358 7.80976C17.9358 8.08976 18.0858 8.34976 18.3258 8.47976C18.4358 8.53976 18.5558 8.56976 18.6858 8.56976C18.8258 8.56976 18.9758 8.52976 19.0958 8.43976L19.8058 7.96976L19.8118 7.96576C21.6108 11.0288 21.2118 15.0678 18.6138 17.6858C16.7588 19.5518 14.1048 20.3898 11.5088 19.9258C11.1048 19.8568 10.7128 20.1248 10.6388 20.5318C10.5668 20.9398 10.8378 21.3298 11.2458 21.4028C11.8048 21.5028 12.3658 21.5508 12.9248 21.5508C15.4378 21.5508 17.8768 20.5558 19.6788 18.7428C22.7788 15.6178 23.2428 10.7888 21.0678 7.14476Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.37551 15.5198C7.13551 15.3898 6.83551 15.3998 6.60551 15.5598L5.88951 16.0378C4.08851 12.9738 4.48651 8.93379 7.08551 6.31479C8.94051 4.44779 11.5965 3.60979 14.1895 4.07479C14.5995 4.14479 14.9865 3.87679 15.0605 3.46879C15.1325 3.06079 14.8615 2.67179 14.4545 2.59779C11.3775 2.04979 8.22451 3.04179 6.02051 5.25779C2.92051 8.38279 2.45651 13.2128 4.63151 16.8558L3.84551 17.3798C3.61551 17.5398 3.48551 17.8098 3.51551 18.0898C3.54551 18.3698 3.72551 18.6098 3.99551 18.7098L6.72551 19.7598C6.81551 19.7998 6.90551 19.8198 6.99551 19.8198C7.14551 19.8198 7.29551 19.7698 7.41551 19.6898C7.62551 19.5498 7.74551 19.3198 7.74551 19.0698L7.76551 16.1898C7.76551 15.9098 7.61551 15.6498 7.37551 15.5198Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3755 10.8398C11.3755 10.4298 11.7055 10.0898 12.1255 10.0898H13.6655C14.0855 10.0898 14.4255 10.4298 14.4255 10.8398C14.4255 11.2598 14.0855 11.5898 13.6655 11.5898H12.1255C11.7055 11.5898 11.3755 11.2598 11.3755 10.8398ZM14.5255 15.9898C15.9055 15.9898 16.8755 14.9898 16.8755 13.5598L16.8855 10.4798C16.8855 9.75977 16.6455 9.11977 16.2055 8.66977C15.7755 8.24977 15.2055 8.01977 14.5355 8.01977L11.2655 8.00977C9.88552 8.00977 8.91552 9.01977 8.91552 10.4498L8.90552 13.5298C8.90552 14.2498 9.14552 14.8898 9.58552 15.3298C10.0155 15.7598 10.5855 15.9798 11.2555 15.9798L14.5255 15.9898Z" fill="black"/> </svg>',
-    category: 'Delivery',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Delivery Box change — broken style variants.
@@ -3588,43 +5536,44 @@ class _DeliveryDeliveryBoxChangeBroken {
 
 }
 
-/// Delivery Box change — twoTone style variants.
-class _DeliveryDeliveryBoxChangeTwotone {
-  const _DeliveryDeliveryBoxChangeTwotone();
+/// Delivery Box change 1 icon with style variants.
+class _DeliveryDeliveryBoxChange1Icon {
+  const _DeliveryDeliveryBoxChange1Icon();
 
-  /// Delivery Box change — twoTone / regular
+  /// broken style
+  _DeliveryDeliveryBoxChange1Broken get broken => const _DeliveryDeliveryBoxChange1Broken();
+}
+
+/// Delivery Box change 1 — broken style variants.
+class _DeliveryDeliveryBoxChange1Broken {
+  const _DeliveryDeliveryBoxChange1Broken();
+
+  /// Delivery Box change 1 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Delivery Box change',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.5048 14.7637V18.1107C11.5048 18.5427 11.2742 18.9426 10.8996 19.1586L8.0011 20.8321C7.62651 21.0481 7.16532 21.0481 6.7917 20.8321L3.89224 19.1586C3.51862 18.9426 3.28802 18.5427 3.28802 18.1107V14.7637C3.28802 14.3317 3.51862 13.9318 3.89224 13.7158L6.7917 12.0423C7.16532 11.8263 7.62651 11.8263 8.0011 12.0423L10.8996 13.7158C11.2742 13.9318 11.5048 14.3317 11.5048 14.7637Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.7109 5.8834V9.23043C20.7109 9.66243 20.4803 10.0623 20.1057 10.2783L17.2072 11.9518C16.8326 12.1678 16.3714 12.1678 15.9978 11.9518L13.0984 10.2783C12.7247 10.0623 12.4941 9.66243 12.4941 9.23043V5.8834C12.4941 5.4514 12.7247 5.05151 13.0984 4.83551L15.9978 3.162C16.3714 2.946 16.8326 2.946 17.2072 3.162L20.1057 4.83551C20.4803 5.05151 20.7109 5.4514 20.7109 5.8834Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.6035 12.1198V7.53809" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6641 5.26416L16.6007 7.54092L20.5364 5.26416" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.45898 14.1445L7.39563 16.4213L11.3313 14.1445" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39648 21.0002V16.4185" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.28711 8.22194C3.28711 5.33805 5.62516 3 8.50905 3L7.88927 4.66767" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.7102 15.7769C20.7102 18.6607 18.3722 20.9988 15.4883 20.9988L16.1081 19.3311" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    name: 'Delivery Box change 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.3544 14.7638C12.3544 14.3318 12.1239 13.9319 11.7493 13.7159L8.85077 12.0424C8.47618 11.8264 8.01499 11.8264 7.64137 12.0424L4.74191 13.7159C4.36829 13.9319 4.1377 14.3318 4.1377 14.7638V18.1108C4.1377 18.5428 4.36829 18.9427 4.74191 19.1587L7.64137 20.8322C8.01499 21.0482 8.47618 21.0482 8.85077 20.8322L11.7493 19.1587C12.1239 18.9427 12.3544 18.5428 12.3544 18.1108" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.3438 5.8834C13.3438 5.4514 13.5743 5.05151 13.948 4.83551L16.8474 3.162C17.221 2.946 17.6822 2.946 18.0568 3.162L20.9553 4.83551C21.3299 5.05151 21.5605 5.4514 21.5605 5.8834V9.23043C21.5605 9.66243 21.3299 10.0623 20.9553 10.2783L18.0568 11.9518C17.6822 12.1678 17.221 12.1678 16.8474 11.9518L13.948 10.2783C13.5743 10.0623 13.3438 9.66243 13.3438 9.23043" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4531 12.1198V7.53809" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5137 5.26416L17.4503 7.54092L19.4182 6.40254" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.1813 14.1445L8.24567 16.4213L6.27734 15.2829" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.24609 21.0002V16.4185" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.13672 8.22194C4.13672 5.33805 6.47477 3 9.35866 3L8.73888 4.66767" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.5598 15.7769C21.5598 18.6607 19.2218 20.9988 16.3379 20.9988L16.9577 19.3311" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Delivery',
-    style: IconfyStyle.twoTone,
+    style: IconfyStyle.broken,
     type: IconfyType.regular,
   );
 
 }
 
-/// Delivery Box change — outline style variants.
-class _DeliveryDeliveryBoxChangeOutline {
-  const _DeliveryDeliveryBoxChangeOutline();
+/// Delivery Box change 2 icon with style variants.
+class _DeliveryDeliveryBoxChange2Icon {
+  const _DeliveryDeliveryBoxChange2Icon();
 
-  /// Delivery Box change — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Delivery Box change',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.3774 3.8947C5.45611 4.39624 4.03809 6.14358 4.03809 8.22194C4.03809 8.63616 3.7023 8.97194 3.28809 8.97194C2.87387 8.97194 2.53809 8.63616 2.53809 8.22194C2.53809 4.92384 5.21192 2.25 8.51003 2.25C8.75562 2.25 8.98566 2.37024 9.12584 2.5719C9.26603 2.77355 9.2986 3.03106 9.21305 3.26127L8.59326 4.92895C8.44897 5.31721 8.01724 5.51499 7.62897 5.37069C7.2407 5.2264 7.04293 4.79467 7.18723 4.4064L7.3774 3.8947ZM15.6237 2.51261C16.2298 2.16226 16.9768 2.16278 17.5829 2.51228L20.4814 4.18579C21.0884 4.53594 21.462 5.18382 21.462 5.8834V9.23043C21.462 9.93001 21.0887 10.5777 20.4818 10.9278L17.5833 12.6013C17.3164 12.7552 17.0218 12.8417 16.7243 12.8601C16.6851 12.8664 16.6448 12.8697 16.6037 12.8697C16.5629 12.8697 16.5229 12.8665 16.4839 12.8602C16.1858 12.842 15.8909 12.7557 15.6235 12.6011L12.7245 10.9279C12.1188 10.5777 11.7452 9.92992 11.7452 9.23043V5.8834C11.7452 5.54215 11.834 5.21327 11.9953 4.92525C12.0015 4.91298 12.0081 4.90082 12.0151 4.88876C12.0251 4.87143 12.0357 4.85465 12.0469 4.83843C12.2136 4.57362 12.444 4.34813 12.7241 4.18621L15.6237 2.51261C15.6237 2.51258 15.6236 2.51264 15.6237 2.51261ZM13.2452 6.4666V9.23043C13.2452 9.39485 13.3332 9.54704 13.4746 9.62889C13.4745 9.62885 13.4747 9.62893 13.4746 9.62889L15.8537 11.0021V7.97524L13.2452 6.4666ZM17.3537 7.972V11.0018L19.7318 9.62881C19.8738 9.54691 19.962 9.3947 19.962 9.23043V6.46316L17.3537 7.972ZM19.194 5.17452L16.6009 6.67458L14.0098 5.17601L16.3738 3.81157C16.5149 3.73002 16.6905 3.72925 16.8336 3.81167C16.8335 3.81165 16.8336 3.81169 16.8336 3.81167L19.194 5.17452ZM6.41638 11.393C7.02255 11.0425 7.76965 11.043 8.37581 11.3925L11.2743 13.0661C11.8815 13.4162 12.2548 14.064 12.2548 14.7637V18.1107C12.2548 18.8103 11.8816 19.4579 11.2747 19.8081C11.2745 19.8082 11.2748 19.808 11.2747 19.8081L8.37618 21.4816C8.10927 21.6355 7.81468 21.722 7.51719 21.7404C7.47793 21.7467 7.43766 21.75 7.39661 21.75C7.35581 21.75 7.31576 21.7467 7.27673 21.7405C6.97868 21.7223 6.68387 21.636 6.41647 21.4815C6.41644 21.4814 6.4165 21.4815 6.41647 21.4815L3.51738 19.8082C2.91166 19.458 2.53809 18.8102 2.53809 18.1107V14.7637C2.53809 14.0642 2.9112 13.4167 3.51692 13.0665L6.41638 11.393ZM8.14661 19.8821L10.5246 18.5091C10.6667 18.4272 10.7548 18.275 10.7548 18.1107V15.3445L8.14661 16.8534V19.8821ZM6.64661 16.8544V19.8824L4.26768 18.5093C4.12616 18.4275 4.03809 18.2752 4.03809 18.1107V15.3458L6.64661 16.8544ZM7.39572 15.5548L9.98781 14.0553L7.62652 12.692C7.48349 12.6095 7.30821 12.61 7.16714 12.6916L4.80365 14.0557L7.39572 15.5548ZM20.7121 15.0269C21.1263 15.0269 21.4621 15.3627 21.4621 15.7769C21.4621 19.075 18.7882 21.7489 15.4901 21.7489C15.2446 21.7489 15.0145 21.6286 14.8743 21.427C14.7341 21.2253 14.7016 20.9678 14.7871 20.7376L15.4069 19.0699C15.5512 18.6816 15.9829 18.4839 16.3712 18.6282C16.7595 18.7725 16.9572 19.2042 16.8129 19.5925L16.6228 20.1042C18.5441 19.6026 19.9621 17.8553 19.9621 15.7769C19.9621 15.3627 20.2979 15.0269 20.7121 15.0269Z" fill="black"/> </svg> ',
-    category: 'Delivery',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
+  /// bold style
+  _DeliveryDeliveryBoxChange2Bold get bold => const _DeliveryDeliveryBoxChange2Bold();
 }
 
-/// Delivery Box change — bold style variants.
-class _DeliveryDeliveryBoxChangeBold {
-  const _DeliveryDeliveryBoxChangeBold();
+/// Delivery Box change 2 — bold style variants.
+class _DeliveryDeliveryBoxChange2Bold {
+  const _DeliveryDeliveryBoxChange2Bold();
 
-  /// Delivery Box change — bold / regular
+  /// Delivery Box change 2 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Delivery Box change',
+    name: 'Delivery Box change 2',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.9992 5.94743C12.8417 5.85638 12.6448 5.94376 12.6448 6.12567V9.64567C12.6448 10.2757 12.9848 10.8557 13.5348 11.1757C14.2694 11.602 15.5791 12.3542 16.266 12.7483C16.466 12.863 16.7148 12.7185 16.7148 12.4879V8.26875C16.7148 8.16164 16.6577 8.06265 16.5649 8.00904L12.9992 5.94743Z" fill="black"/> <path d="M20.8937 4.29605C21.0941 4.41131 21.0943 4.70033 20.8941 4.81591L17.615 6.70903C17.5221 6.76262 17.4078 6.76262 17.315 6.70903L14.0366 4.81634C13.8362 4.70067 13.8366 4.41134 14.0373 4.29627L16.585 2.83563C17.125 2.51563 17.805 2.51563 18.355 2.83563L20.8937 4.29605Z" fill="black"/> <path d="M22.285 9.64579V6.12579C22.285 5.94374 22.088 5.85614 21.9303 5.94697L18.3653 7.99925C18.2723 8.05279 18.215 8.15194 18.215 8.25925V12.4886C18.215 12.719 18.4636 12.8635 18.6636 12.7491C19.3521 12.3549 20.6672 11.6015 21.405 11.1758C21.945 10.8558 22.285 10.2758 22.285 9.64579Z" fill="black"/> <path d="M11.6337 12.9178C11.8341 13.033 11.8343 13.322 11.6341 13.4376L8.35495 15.3307C8.26213 15.3843 8.14777 15.3843 8.05496 15.3307L4.77654 13.438C4.57619 13.3224 4.57662 13.033 4.77732 12.918L7.32495 11.4573C7.86495 11.1373 8.54495 11.1373 9.09495 11.4573L11.6337 12.9178Z" fill="black"/> <path d="M3.38477 14.7474C3.38477 14.5655 3.58166 14.4781 3.73914 14.5691L7.30492 16.6307C7.39766 16.6844 7.45477 16.7833 7.45477 16.8905V21.1096C7.45477 21.3402 7.20598 21.4847 7.00603 21.37C6.3191 20.9759 5.00941 20.2237 4.27477 19.7974C3.72477 19.4774 3.38477 18.8974 3.38477 18.2674V14.7474Z" fill="black"/> <path d="M13.025 18.2675V14.7475C13.025 14.5654 12.828 14.4778 12.6702 14.5687L9.10528 16.621C9.01228 16.6745 8.95496 16.7736 8.95496 16.881V21.1103C8.95496 21.3407 9.20358 21.4852 9.40354 21.3708C10.0921 20.9766 11.4072 20.2232 12.145 19.7975C12.685 19.4775 13.025 18.8975 13.025 18.2675Z" fill="black"/> <path d="M20.8146 15.7802C20.8146 15.3662 21.1506 15.0302 21.5646 15.0302C21.9786 15.0302 22.3146 15.3662 22.3146 15.7802C22.3146 19.0722 19.6356 21.7502 16.3426 21.7502C16.0976 21.7502 15.8676 21.6302 15.7266 21.4282C15.5866 21.2272 15.5546 20.9692 15.6396 20.7392L16.2596 19.0692C16.4046 18.6802 16.8356 18.4832 17.2236 18.6272C17.2587 18.6402 17.3242 18.673 17.3242 18.673C17.3811 18.7041 17.4326 18.7418 17.4782 18.7848L18.6241 19.6237C19.9346 18.8434 20.8146 17.4128 20.8146 15.7802Z" fill="black"/> <path d="M4.89164 8.22C4.89164 8.634 4.55564 8.97 4.14164 8.97C3.72764 8.97 3.39164 8.634 3.39164 8.22C3.39164 4.928 6.07064 2.25 9.36364 2.25C9.60864 2.25 9.83864 2.37 9.97964 2.572C10.1196 2.773 10.1516 3.031 10.0666 3.261L9.44664 4.931C9.30164 5.32 8.87064 5.517 8.48264 5.373C8.44748 5.35999 8.38196 5.32717 8.38196 5.32717C8.32515 5.2961 8.27363 5.25837 8.22803 5.21536L7.08214 4.37644C5.77156 5.15676 4.89164 6.58738 4.89164 8.22Z" fill="black"/> </svg>',
     category: 'Delivery',
     style: IconfyStyle.bold,
@@ -3633,16 +5582,208 @@ class _DeliveryDeliveryBoxChangeBold {
 
 }
 
-/// Delivery Box change — light style variants.
-class _DeliveryDeliveryBoxChangeLight {
-  const _DeliveryDeliveryBoxChangeLight();
+/// Delivery Box change 3 icon with style variants.
+class _DeliveryDeliveryBoxChange3Icon {
+  const _DeliveryDeliveryBoxChange3Icon();
 
-  /// Delivery Box change — light / regular
+  /// bold style
+  _DeliveryDeliveryBoxChange3Bold get bold => const _DeliveryDeliveryBoxChange3Bold();
+}
+
+/// Delivery Box change 3 — bold style variants.
+class _DeliveryDeliveryBoxChange3Bold {
+  const _DeliveryDeliveryBoxChange3Bold();
+
+  /// Delivery Box change 3 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Delivery Box change',
+    name: 'Delivery Box change 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.9992 5.94743C12.8417 5.85638 12.6448 5.94376 12.6448 6.12567V9.64567C12.6448 10.2757 12.9848 10.8557 13.5348 11.1757C14.2694 11.602 15.5791 12.3542 16.266 12.7483C16.466 12.863 16.7148 12.7185 16.7148 12.4879V8.26875C16.7148 8.16164 16.6577 8.06265 16.5649 8.00904L12.9992 5.94743Z" fill="black"/> <path d="M20.8937 4.29605C21.0941 4.41131 21.0943 4.70033 20.8941 4.81591L17.615 6.70903C17.5221 6.76262 17.4078 6.76262 17.315 6.70903L14.0366 4.81634C13.8362 4.70067 13.8366 4.41134 14.0373 4.29627L16.585 2.83563C17.125 2.51563 17.805 2.51563 18.355 2.83563L20.8937 4.29605Z" fill="black"/> <path d="M22.285 9.64579V6.12579C22.285 5.94374 22.088 5.85614 21.9303 5.94697L18.3653 7.99925C18.2723 8.05279 18.215 8.15194 18.215 8.25925V12.4886C18.215 12.719 18.4636 12.8635 18.6636 12.7491C19.3521 12.3549 20.6672 11.6015 21.405 11.1758C21.945 10.8558 22.285 10.2758 22.285 9.64579Z" fill="black"/> <path d="M11.6337 12.9178C11.8341 13.033 11.8343 13.322 11.6341 13.4376L8.35495 15.3307C8.26213 15.3843 8.14777 15.3843 8.05496 15.3307L4.77654 13.438C4.57619 13.3224 4.57662 13.033 4.77732 12.918L7.32495 11.4573C7.86495 11.1373 8.54495 11.1373 9.09495 11.4573L11.6337 12.9178Z" fill="black"/> <path d="M3.38477 14.7474C3.38477 14.5655 3.58166 14.4781 3.73914 14.5691L7.30492 16.6307C7.39766 16.6844 7.45477 16.7833 7.45477 16.8905V21.1096C7.45477 21.3402 7.20598 21.4847 7.00603 21.37C6.3191 20.9759 5.00941 20.2237 4.27477 19.7974C3.72477 19.4774 3.38477 18.8974 3.38477 18.2674V14.7474Z" fill="black"/> <path d="M13.025 18.2675V14.7475C13.025 14.5654 12.828 14.4778 12.6702 14.5687L9.10528 16.621C9.01228 16.6745 8.95496 16.7736 8.95496 16.881V21.1103C8.95496 21.3407 9.20358 21.4852 9.40354 21.3708C10.0921 20.9766 11.4072 20.2232 12.145 19.7975C12.685 19.4775 13.025 18.8975 13.025 18.2675Z" fill="black"/> <path d="M20.8146 15.7802C20.8146 15.3662 21.1506 15.0302 21.5646 15.0302C21.9786 15.0302 22.3146 15.3662 22.3146 15.7802C22.3146 19.0722 19.6356 21.7502 16.3426 21.7502C16.0976 21.7502 15.8676 21.6302 15.7266 21.4282C15.5866 21.2272 15.5546 20.9692 15.6396 20.7392L16.2596 19.0692C16.4046 18.6802 16.8356 18.4832 17.2236 18.6272C17.2587 18.6402 17.3242 18.673 17.3242 18.673C17.3811 18.7041 17.4326 18.7418 17.4782 18.7848L18.6241 19.6237C19.9346 18.8434 20.8146 17.4128 20.8146 15.7802Z" fill="black"/> <path d="M4.89164 8.22C4.89164 8.634 4.55564 8.97 4.14164 8.97C3.72764 8.97 3.39164 8.634 3.39164 8.22C3.39164 4.928 6.07064 2.25 9.36364 2.25C9.60864 2.25 9.83864 2.37 9.97964 2.572C10.1196 2.773 10.1516 3.031 10.0666 3.261L9.44664 4.931C9.30164 5.32 8.87064 5.517 8.48264 5.373C8.44748 5.35999 8.38196 5.32717 8.38196 5.32717C8.32515 5.2961 8.27363 5.25837 8.22803 5.21536L7.08214 4.37644C5.77156 5.15676 4.89164 6.58738 4.89164 8.22Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box change 4 icon with style variants.
+class _DeliveryDeliveryBoxChange4Icon {
+  const _DeliveryDeliveryBoxChange4Icon();
+
+  /// bulk style
+  _DeliveryDeliveryBoxChange4Bulk get bulk => const _DeliveryDeliveryBoxChange4Bulk();
+}
+
+/// Delivery Box change 4 — bulk style variants.
+class _DeliveryDeliveryBoxChange4Bulk {
+  const _DeliveryDeliveryBoxChange4Bulk();
+
+  /// Delivery Box change 4 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box change 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0678 7.14476L21.0758 7.13976L21.8558 6.61976C22.0858 6.45976 22.2158 6.18976 22.1858 5.90976C22.1558 5.62976 21.9658 5.38976 21.7058 5.28976L18.9758 4.23976C18.7458 4.14976 18.4858 4.17976 18.2858 4.31976C18.0758 4.44976 17.9558 4.67976 17.9558 4.92976L17.9358 7.80976C17.9358 8.08976 18.0858 8.34976 18.3258 8.47976C18.4358 8.53976 18.5558 8.56976 18.6858 8.56976C18.8258 8.56976 18.9758 8.52976 19.0958 8.43976L19.8058 7.96976L19.8118 7.96576C21.6108 11.0288 21.2118 15.0678 18.6138 17.6858C16.7588 19.5518 14.1048 20.3898 11.5088 19.9258C11.1048 19.8568 10.7128 20.1248 10.6388 20.5318C10.5668 20.9398 10.8378 21.3298 11.2458 21.4028C11.8048 21.5028 12.3658 21.5508 12.9248 21.5508C15.4378 21.5508 17.8768 20.5558 19.6788 18.7428C22.7788 15.6178 23.2428 10.7888 21.0678 7.14476Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.37551 15.5198C7.13551 15.3898 6.83551 15.3998 6.60551 15.5598L5.88951 16.0378C4.08851 12.9738 4.48651 8.93379 7.08551 6.31479C8.94051 4.44779 11.5965 3.60979 14.1895 4.07479C14.5995 4.14479 14.9865 3.87679 15.0605 3.46879C15.1325 3.06079 14.8615 2.67179 14.4545 2.59779C11.3775 2.04979 8.22451 3.04179 6.02051 5.25779C2.92051 8.38279 2.45651 13.2128 4.63151 16.8558L3.84551 17.3798C3.61551 17.5398 3.48551 17.8098 3.51551 18.0898C3.54551 18.3698 3.72551 18.6098 3.99551 18.7098L6.72551 19.7598C6.81551 19.7998 6.90551 19.8198 6.99551 19.8198C7.14551 19.8198 7.29551 19.7698 7.41551 19.6898C7.62551 19.5498 7.74551 19.3198 7.74551 19.0698L7.76551 16.1898C7.76551 15.9098 7.61551 15.6498 7.37551 15.5198Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3755 10.8398C11.3755 10.4298 11.7055 10.0898 12.1255 10.0898H13.6655C14.0855 10.0898 14.4255 10.4298 14.4255 10.8398C14.4255 11.2598 14.0855 11.5898 13.6655 11.5898H12.1255C11.7055 11.5898 11.3755 11.2598 11.3755 10.8398ZM14.5255 15.9898C15.9055 15.9898 16.8755 14.9898 16.8755 13.5598L16.8855 10.4798C16.8855 9.75977 16.6455 9.11977 16.2055 8.66977C15.7755 8.24977 15.2055 8.01977 14.5355 8.01977L11.2655 8.00977C9.88552 8.00977 8.91552 9.01977 8.91552 10.4498L8.90552 13.5298C8.90552 14.2498 9.14552 14.8898 9.58552 15.3298C10.0155 15.7598 10.5855 15.9798 11.2555 15.9798L14.5255 15.9898Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box change 5 icon with style variants.
+class _DeliveryDeliveryBoxChange5Icon {
+  const _DeliveryDeliveryBoxChange5Icon();
+
+  /// bulk style
+  _DeliveryDeliveryBoxChange5Bulk get bulk => const _DeliveryDeliveryBoxChange5Bulk();
+}
+
+/// Delivery Box change 5 — bulk style variants.
+class _DeliveryDeliveryBoxChange5Bulk {
+  const _DeliveryDeliveryBoxChange5Bulk();
+
+  /// Delivery Box change 5 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box change 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0678 7.14476L21.0758 7.13976L21.8558 6.61976C22.0858 6.45976 22.2158 6.18976 22.1858 5.90976C22.1558 5.62976 21.9658 5.38976 21.7058 5.28976L18.9758 4.23976C18.7458 4.14976 18.4858 4.17976 18.2858 4.31976C18.0758 4.44976 17.9558 4.67976 17.9558 4.92976L17.9358 7.80976C17.9358 8.08976 18.0858 8.34976 18.3258 8.47976C18.4358 8.53976 18.5558 8.56976 18.6858 8.56976C18.8258 8.56976 18.9758 8.52976 19.0958 8.43976L19.8058 7.96976L19.8118 7.96576C21.6108 11.0288 21.2118 15.0678 18.6138 17.6858C16.7588 19.5518 14.1048 20.3898 11.5088 19.9258C11.1048 19.8568 10.7128 20.1248 10.6388 20.5318C10.5668 20.9398 10.8378 21.3298 11.2458 21.4028C11.8048 21.5028 12.3658 21.5508 12.9248 21.5508C15.4378 21.5508 17.8768 20.5558 19.6788 18.7428C22.7788 15.6178 23.2428 10.7888 21.0678 7.14476Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.37551 15.5198C7.13551 15.3898 6.83551 15.3998 6.60551 15.5598L5.88951 16.0378C4.08851 12.9738 4.48651 8.93379 7.08551 6.31479C8.94051 4.44779 11.5965 3.60979 14.1895 4.07479C14.5995 4.14479 14.9865 3.87679 15.0605 3.46879C15.1325 3.06079 14.8615 2.67179 14.4545 2.59779C11.3775 2.04979 8.22451 3.04179 6.02051 5.25779C2.92051 8.38279 2.45651 13.2128 4.63151 16.8558L3.84551 17.3798C3.61551 17.5398 3.48551 17.8098 3.51551 18.0898C3.54551 18.3698 3.72551 18.6098 3.99551 18.7098L6.72551 19.7598C6.81551 19.7998 6.90551 19.8198 6.99551 19.8198C7.14551 19.8198 7.29551 19.7698 7.41551 19.6898C7.62551 19.5498 7.74551 19.3198 7.74551 19.0698L7.76551 16.1898C7.76551 15.9098 7.61551 15.6498 7.37551 15.5198Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3755 10.8398C11.3755 10.4298 11.7055 10.0898 12.1255 10.0898H13.6655C14.0855 10.0898 14.4255 10.4298 14.4255 10.8398C14.4255 11.2598 14.0855 11.5898 13.6655 11.5898H12.1255C11.7055 11.5898 11.3755 11.2598 11.3755 10.8398ZM14.5255 15.9898C15.9055 15.9898 16.8755 14.9898 16.8755 13.5598L16.8855 10.4798C16.8855 9.75977 16.6455 9.11977 16.2055 8.66977C15.7755 8.24977 15.2055 8.01977 14.5355 8.01977L11.2655 8.00977C9.88552 8.00977 8.91552 9.01977 8.91552 10.4498L8.90552 13.5298C8.90552 14.2498 9.14552 14.8898 9.58552 15.3298C10.0155 15.7598 10.5855 15.9798 11.2555 15.9798L14.5255 15.9898Z" fill="black"/> </svg>',
+    category: 'Delivery',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box change 6 icon with style variants.
+class _DeliveryDeliveryBoxChange6Icon {
+  const _DeliveryDeliveryBoxChange6Icon();
+
+  /// light style
+  _DeliveryDeliveryBoxChange6Light get light => const _DeliveryDeliveryBoxChange6Light();
+}
+
+/// Delivery Box change 6 — light style variants.
+class _DeliveryDeliveryBoxChange6Light {
+  const _DeliveryDeliveryBoxChange6Light();
+
+  /// Delivery Box change 6 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box change 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.0001 6.15767L18.3178 5.62451L17.7876 8.29223" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 17.8426L5.68231 18.3757L6.21255 15.708" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.66561 18.0508C2.36258 14.6329 2.38496 9.18465 5.74928 5.79406C7.85563 3.67118 10.7802 2.85199 13.518 3.34233" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3348 5.94922C21.6378 9.36705 21.6154 14.8153 18.2511 18.2059C16.1448 20.3288 13.2202 21.148 10.4824 20.6577" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3583 15.4826L13.6253 15.4904C14.7675 15.4933 15.4797 14.6887 15.4826 13.5475L15.4894 10.4692C15.4923 9.32897 14.7841 8.52048 13.6419 8.51853L10.3748 8.51075C9.23264 8.50783 8.52047 9.31243 8.51755 10.4536L8.50977 13.531C8.50782 14.6722 9.21999 15.4797 10.3583 15.4826Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2266 10.8389H12.7754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box change 7 icon with style variants.
+class _DeliveryDeliveryBoxChange7Icon {
+  const _DeliveryDeliveryBoxChange7Icon();
+
+  /// light style
+  _DeliveryDeliveryBoxChange7Light get light => const _DeliveryDeliveryBoxChange7Light();
+}
+
+/// Delivery Box change 7 — light style variants.
+class _DeliveryDeliveryBoxChange7Light {
+  const _DeliveryDeliveryBoxChange7Light();
+
+  /// Delivery Box change 7 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box change 7',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.5048 14.7637V18.1107C11.5048 18.5427 11.2742 18.9426 10.8996 19.1586L8.00116 20.8321C7.62657 21.0481 7.16538 21.0481 6.79176 20.8321L3.8923 19.1586C3.51868 18.9426 3.28809 18.5427 3.28809 18.1107V14.7637C3.28809 14.3317 3.51868 13.9318 3.8923 13.7158L6.79176 12.0423C7.16538 11.8263 7.62657 11.8263 8.00116 12.0423L10.8996 13.7158C11.2742 13.9318 11.5048 14.3317 11.5048 14.7637Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.7109 5.8834V9.23043C20.7109 9.66243 20.4803 10.0623 20.1057 10.2783L17.2072 11.9518C16.8326 12.1678 16.3714 12.1678 15.9978 11.9518L13.0984 10.2783C12.7247 10.0623 12.4941 9.66243 12.4941 9.23043V5.8834C12.4941 5.4514 12.7247 5.05151 13.0984 4.83551L15.9978 3.162C16.3714 2.946 16.8326 2.946 17.2072 3.162L20.1057 4.83551C20.4803 5.05151 20.7109 5.4514 20.7109 5.8834Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.6035 12.1198V7.53809" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6641 5.26416L16.6007 7.54092L20.5364 5.26416" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.45898 14.1445L7.39563 16.4213L11.3313 14.1445" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39648 21.0002V16.4185" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.28711 8.22194C3.28711 5.33805 5.62516 3 8.50905 3L7.88927 4.66767" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.7102 15.7769C20.7102 18.6607 18.3722 20.9988 15.4883 20.9988L16.1081 19.3311" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box change 8 icon with style variants.
+class _DeliveryDeliveryBoxChange8Icon {
+  const _DeliveryDeliveryBoxChange8Icon();
+
+  /// outline style
+  _DeliveryDeliveryBoxChange8Outline get outline => const _DeliveryDeliveryBoxChange8Outline();
+}
+
+/// Delivery Box change 8 — outline style variants.
+class _DeliveryDeliveryBoxChange8Outline {
+  const _DeliveryDeliveryBoxChange8Outline();
+
+  /// Delivery Box change 8 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box change 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.3774 3.8947C5.45611 4.39624 4.03809 6.14358 4.03809 8.22194C4.03809 8.63616 3.7023 8.97194 3.28809 8.97194C2.87387 8.97194 2.53809 8.63616 2.53809 8.22194C2.53809 4.92384 5.21192 2.25 8.51003 2.25C8.75562 2.25 8.98566 2.37024 9.12584 2.5719C9.26603 2.77355 9.2986 3.03106 9.21305 3.26127L8.59326 4.92895C8.44897 5.31721 8.01724 5.51499 7.62897 5.37069C7.2407 5.2264 7.04293 4.79467 7.18723 4.4064L7.3774 3.8947ZM15.6237 2.51261C16.2298 2.16226 16.9768 2.16278 17.5829 2.51228L20.4814 4.18579C21.0884 4.53594 21.462 5.18382 21.462 5.8834V9.23043C21.462 9.93001 21.0887 10.5777 20.4818 10.9278L17.5833 12.6013C17.3164 12.7552 17.0218 12.8417 16.7243 12.8601C16.6851 12.8664 16.6448 12.8697 16.6037 12.8697C16.5629 12.8697 16.5229 12.8665 16.4839 12.8602C16.1858 12.842 15.8909 12.7557 15.6235 12.6011L12.7245 10.9279C12.1188 10.5777 11.7452 9.92992 11.7452 9.23043V5.8834C11.7452 5.54215 11.834 5.21327 11.9953 4.92525C12.0015 4.91298 12.0081 4.90082 12.0151 4.88876C12.0251 4.87143 12.0357 4.85465 12.0469 4.83843C12.2136 4.57362 12.444 4.34813 12.7241 4.18621L15.6237 2.51261C15.6237 2.51258 15.6236 2.51264 15.6237 2.51261ZM13.2452 6.4666V9.23043C13.2452 9.39485 13.3332 9.54704 13.4746 9.62889C13.4745 9.62885 13.4747 9.62893 13.4746 9.62889L15.8537 11.0021V7.97524L13.2452 6.4666ZM17.3537 7.972V11.0018L19.7318 9.62881C19.8738 9.54691 19.962 9.3947 19.962 9.23043V6.46316L17.3537 7.972ZM19.194 5.17452L16.6009 6.67458L14.0098 5.17601L16.3738 3.81157C16.5149 3.73002 16.6905 3.72925 16.8336 3.81167C16.8335 3.81165 16.8336 3.81169 16.8336 3.81167L19.194 5.17452ZM6.41638 11.393C7.02255 11.0425 7.76965 11.043 8.37581 11.3925L11.2743 13.0661C11.8815 13.4162 12.2548 14.064 12.2548 14.7637V18.1107C12.2548 18.8103 11.8816 19.4579 11.2747 19.8081C11.2745 19.8082 11.2748 19.808 11.2747 19.8081L8.37618 21.4816C8.10927 21.6355 7.81468 21.722 7.51719 21.7404C7.47793 21.7467 7.43766 21.75 7.39661 21.75C7.35581 21.75 7.31576 21.7467 7.27673 21.7405C6.97868 21.7223 6.68387 21.636 6.41647 21.4815C6.41644 21.4814 6.4165 21.4815 6.41647 21.4815L3.51738 19.8082C2.91166 19.458 2.53809 18.8102 2.53809 18.1107V14.7637C2.53809 14.0642 2.9112 13.4167 3.51692 13.0665L6.41638 11.393ZM8.14661 19.8821L10.5246 18.5091C10.6667 18.4272 10.7548 18.275 10.7548 18.1107V15.3445L8.14661 16.8534V19.8821ZM6.64661 16.8544V19.8824L4.26768 18.5093C4.12616 18.4275 4.03809 18.2752 4.03809 18.1107V15.3458L6.64661 16.8544ZM7.39572 15.5548L9.98781 14.0553L7.62652 12.692C7.48349 12.6095 7.30821 12.61 7.16714 12.6916L4.80365 14.0557L7.39572 15.5548ZM20.7121 15.0269C21.1263 15.0269 21.4621 15.3627 21.4621 15.7769C21.4621 19.075 18.7882 21.7489 15.4901 21.7489C15.2446 21.7489 15.0145 21.6286 14.8743 21.427C14.7341 21.2253 14.7016 20.9678 14.7871 20.7376L15.4069 19.0699C15.5512 18.6816 15.9829 18.4839 16.3712 18.6282C16.7595 18.7725 16.9572 19.2042 16.8129 19.5925L16.6228 20.1042C18.5441 19.6026 19.9621 17.8553 19.9621 15.7769C19.9621 15.3627 20.2979 15.0269 20.7121 15.0269Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box change 9 icon with style variants.
+class _DeliveryDeliveryBoxChange9Icon {
+  const _DeliveryDeliveryBoxChange9Icon();
+
+  /// outline style
+  _DeliveryDeliveryBoxChange9Outline get outline => const _DeliveryDeliveryBoxChange9Outline();
+}
+
+/// Delivery Box change 9 — outline style variants.
+class _DeliveryDeliveryBoxChange9Outline {
+  const _DeliveryDeliveryBoxChange9Outline();
+
+  /// Delivery Box change 9 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box change 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.3774 3.8947C5.45611 4.39624 4.03809 6.14358 4.03809 8.22194C4.03809 8.63616 3.7023 8.97194 3.28809 8.97194C2.87387 8.97194 2.53809 8.63616 2.53809 8.22194C2.53809 4.92384 5.21192 2.25 8.51003 2.25C8.75562 2.25 8.98566 2.37024 9.12584 2.5719C9.26603 2.77355 9.2986 3.03106 9.21305 3.26127L8.59326 4.92895C8.44897 5.31721 8.01724 5.51499 7.62897 5.37069C7.2407 5.2264 7.04293 4.79467 7.18723 4.4064L7.3774 3.8947ZM15.6237 2.51261C16.2298 2.16226 16.9768 2.16278 17.5829 2.51228L20.4814 4.18579C21.0884 4.53594 21.462 5.18382 21.462 5.8834V9.23043C21.462 9.93001 21.0887 10.5777 20.4818 10.9278L17.5833 12.6013C17.3164 12.7552 17.0218 12.8417 16.7243 12.8601C16.6851 12.8664 16.6448 12.8697 16.6037 12.8697C16.5629 12.8697 16.5229 12.8665 16.4839 12.8602C16.1858 12.842 15.8909 12.7557 15.6235 12.6011L12.7245 10.9279C12.1188 10.5777 11.7452 9.92992 11.7452 9.23043V5.8834C11.7452 5.54215 11.834 5.21327 11.9953 4.92525C12.0015 4.91298 12.0081 4.90082 12.0151 4.88876C12.0251 4.87143 12.0357 4.85465 12.0469 4.83843C12.2136 4.57362 12.444 4.34813 12.7241 4.18621L15.6237 2.51261C15.6237 2.51258 15.6236 2.51264 15.6237 2.51261ZM13.2452 6.4666V9.23043C13.2452 9.39485 13.3332 9.54704 13.4746 9.62889C13.4745 9.62885 13.4747 9.62893 13.4746 9.62889L15.8537 11.0021V7.97524L13.2452 6.4666ZM17.3537 7.972V11.0018L19.7318 9.62881C19.8738 9.54691 19.962 9.3947 19.962 9.23043V6.46316L17.3537 7.972ZM19.194 5.17452L16.6009 6.67458L14.0098 5.17601L16.3738 3.81157C16.5149 3.73002 16.6905 3.72925 16.8336 3.81167C16.8335 3.81165 16.8336 3.81169 16.8336 3.81167L19.194 5.17452ZM6.41638 11.393C7.02255 11.0425 7.76965 11.043 8.37581 11.3925L11.2743 13.0661C11.8815 13.4162 12.2548 14.064 12.2548 14.7637V18.1107C12.2548 18.8103 11.8816 19.4579 11.2747 19.8081C11.2745 19.8082 11.2748 19.808 11.2747 19.8081L8.37618 21.4816C8.10927 21.6355 7.81468 21.722 7.51719 21.7404C7.47793 21.7467 7.43766 21.75 7.39661 21.75C7.35581 21.75 7.31576 21.7467 7.27673 21.7405C6.97868 21.7223 6.68387 21.636 6.41647 21.4815C6.41644 21.4814 6.4165 21.4815 6.41647 21.4815L3.51738 19.8082C2.91166 19.458 2.53809 18.8102 2.53809 18.1107V14.7637C2.53809 14.0642 2.9112 13.4167 3.51692 13.0665L6.41638 11.393ZM8.14661 19.8821L10.5246 18.5091C10.6667 18.4272 10.7548 18.275 10.7548 18.1107V15.3445L8.14661 16.8534V19.8821ZM6.64661 16.8544V19.8824L4.26768 18.5093C4.12616 18.4275 4.03809 18.2752 4.03809 18.1107V15.3458L6.64661 16.8544ZM7.39572 15.5548L9.98781 14.0553L7.62652 12.692C7.48349 12.6095 7.30821 12.61 7.16714 12.6916L4.80365 14.0557L7.39572 15.5548ZM20.7121 15.0269C21.1263 15.0269 21.4621 15.3627 21.4621 15.7769C21.4621 19.075 18.7882 21.7489 15.4901 21.7489C15.2446 21.7489 15.0145 21.6286 14.8743 21.427C14.7341 21.2253 14.7016 20.9678 14.7871 20.7376L15.4069 19.0699C15.5512 18.6816 15.9829 18.4839 16.3712 18.6282C16.7595 18.7725 16.9572 19.2042 16.8129 19.5925L16.6228 20.1042C18.5441 19.6026 19.9621 17.8553 19.9621 15.7769C19.9621 15.3627 20.2979 15.0269 20.7121 15.0269Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box change 10 icon with style variants.
+class _DeliveryDeliveryBoxChange10Icon {
+  const _DeliveryDeliveryBoxChange10Icon();
+
+  /// twoTone style
+  _DeliveryDeliveryBoxChange10Twotone get twoTone => const _DeliveryDeliveryBoxChange10Twotone();
+}
+
+/// Delivery Box change 10 — twoTone style variants.
+class _DeliveryDeliveryBoxChange10Twotone {
+  const _DeliveryDeliveryBoxChange10Twotone();
+
+  /// Delivery Box change 10 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box change 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.5048 14.7637V18.1107C11.5048 18.5427 11.2742 18.9426 10.8996 19.1586L8.0011 20.8321C7.62651 21.0481 7.16532 21.0481 6.7917 20.8321L3.89224 19.1586C3.51862 18.9426 3.28802 18.5427 3.28802 18.1107V14.7637C3.28802 14.3317 3.51862 13.9318 3.89224 13.7158L6.7917 12.0423C7.16532 11.8263 7.62651 11.8263 8.0011 12.0423L10.8996 13.7158C11.2742 13.9318 11.5048 14.3317 11.5048 14.7637Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.7109 5.8834V9.23043C20.7109 9.66243 20.4803 10.0623 20.1057 10.2783L17.2072 11.9518C16.8326 12.1678 16.3714 12.1678 15.9978 11.9518L13.0984 10.2783C12.7247 10.0623 12.4941 9.66243 12.4941 9.23043V5.8834C12.4941 5.4514 12.7247 5.05151 13.0984 4.83551L15.9978 3.162C16.3714 2.946 16.8326 2.946 17.2072 3.162L20.1057 4.83551C20.4803 5.05151 20.7109 5.4514 20.7109 5.8834Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.6035 12.1198V7.53809" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6641 5.26416L16.6007 7.54092L20.5364 5.26416" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.45898 14.1445L7.39563 16.4213L11.3313 14.1445" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39648 21.0002V16.4185" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.28711 8.22194C3.28711 5.33805 5.62516 3 8.50905 3L7.88927 4.66767" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.7102 15.7769C20.7102 18.6607 18.3722 20.9988 15.4883 20.9988L16.1081 19.3311" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delivery Box change 11 icon with style variants.
+class _DeliveryDeliveryBoxChange11Icon {
+  const _DeliveryDeliveryBoxChange11Icon();
+
+  /// twoTone style
+  _DeliveryDeliveryBoxChange11Twotone get twoTone => const _DeliveryDeliveryBoxChange11Twotone();
+}
+
+/// Delivery Box change 11 — twoTone style variants.
+class _DeliveryDeliveryBoxChange11Twotone {
+  const _DeliveryDeliveryBoxChange11Twotone();
+
+  /// Delivery Box change 11 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delivery Box change 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.5048 14.7637V18.1107C11.5048 18.5427 11.2742 18.9426 10.8996 19.1586L8.0011 20.8321C7.62651 21.0481 7.16532 21.0481 6.7917 20.8321L3.89224 19.1586C3.51862 18.9426 3.28802 18.5427 3.28802 18.1107V14.7637C3.28802 14.3317 3.51862 13.9318 3.89224 13.7158L6.7917 12.0423C7.16532 11.8263 7.62651 11.8263 8.0011 12.0423L10.8996 13.7158C11.2742 13.9318 11.5048 14.3317 11.5048 14.7637Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.7109 5.8834V9.23043C20.7109 9.66243 20.4803 10.0623 20.1057 10.2783L17.2072 11.9518C16.8326 12.1678 16.3714 12.1678 15.9978 11.9518L13.0984 10.2783C12.7247 10.0623 12.4941 9.66243 12.4941 9.23043V5.8834C12.4941 5.4514 12.7247 5.05151 13.0984 4.83551L15.9978 3.162C16.3714 2.946 16.8326 2.946 17.2072 3.162L20.1057 4.83551C20.4803 5.05151 20.7109 5.4514 20.7109 5.8834Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.6035 12.1198V7.53809" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6641 5.26416L16.6007 7.54092L20.5364 5.26416" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.45898 14.1445L7.39563 16.4213L11.3313 14.1445" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39648 21.0002V16.4185" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.28711 8.22194C3.28711 5.33805 5.62516 3 8.50905 3L7.88927 4.66767" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.7102 15.7769C20.7102 18.6607 18.3722 20.9988 15.4883 20.9988L16.1081 19.3311" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -3973,6 +6114,63 @@ class _DeliveryDeliveryHandSendOutline {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1514 14.1992C13.1514 14.8994 12.6016 15.4492 11.7988 15.4492L11.4463 15.4395L11.3184 15.4341L11.2095 15.4307C11.0791 15.4272 10.9458 15.4268 10.8101 15.4302C10.7251 15.4321 10.6396 15.4355 10.5537 15.4404L10.4302 15.4492H10.1812C9.76758 15.4492 9.43115 15.7793 9.43115 16.1992L9.43262 16.2437C9.43262 16.2754 9.43555 16.3066 9.44043 16.3389C9.50049 16.749 9.88135 17.0293 10.2915 16.9692L10.3867 16.9565L10.4551 16.9492H11.8052H11.832C12.1074 16.9595 12.4009 16.9658 12.6875 16.959C13.8594 16.9395 14.8623 16.4292 15.7124 15.8389C16.1401 15.5493 16.5464 15.2192 16.9253 14.9092C17.0547 14.8052 17.1802 14.7026 17.3032 14.6021L17.3223 14.5859L17.3896 14.5312C17.603 14.3579 17.8081 14.1914 18.0132 14.0391C18.4624 13.6992 19.0903 13.749 19.4883 14.1392C19.9302 14.5894 19.9292 15.3091 19.4883 15.749L19.334 15.9038C17.7979 17.4546 16.5312 18.7339 14.6265 19.479C11.8872 20.5391 9.34326 20.0391 6.30029 19.4395C5.77881 19.3389 5.27588 19.2769 4.78125 19.2388C4.31689 19.2031 3.85938 19.1885 3.39941 19.1831C3.1792 19.1802 2.9585 19.1792 2.73633 19.1792C2.32227 19.1792 1.98633 19.519 1.98633 19.9292C1.98633 20.3491 2.32227 20.6792 2.73633 20.6792C3.91553 20.6792 4.92236 20.6992 6.0083 20.9092L6.15186 20.937C9.08398 21.5181 12.0151 22.0991 15.1704 20.8789C17.3877 20.0083 18.8643 18.5146 20.3496 17.0117L20.5503 16.8091C21.5762 15.7793 21.5752 14.1191 20.5513 13.0889C20.4404 12.9775 20.3213 12.8779 20.1968 12.79C20.1182 12.7349 20.0371 12.6846 19.9546 12.6392L19.9395 6.53906C19.9375 5.23926 19.6206 4.10889 18.8574 3.28906C18.0854 2.46924 16.9746 2.09912 15.6475 2.09912L14.0186 2.10352C13.9917 2.10059 13.9644 2.09912 13.9365 2.09912C13.9077 2.09912 13.8799 2.10107 13.8521 2.104L9.91748 2.11914H8.13916C6.81445 2.11914 5.71338 2.49902 4.95654 3.3291C4.21045 4.14893 3.91016 5.28906 3.91357 6.5791L3.92822 12.4233C3.70996 12.563 3.49609 12.7056 3.28516 12.8486C3.13916 12.9478 2.99463 13.0469 2.85156 13.1455L2.65332 13.2822L2.4707 13.4067L2.31934 13.5088C1.97559 13.7393 1.88232 14.1992 2.11328 14.5488C2.34326 14.8892 2.80957 14.979 3.15332 14.749C4.98438 13.5288 6.32324 12.4692 8.2666 12.4189C9.55957 12.3892 10.8145 12.6294 12.1313 12.959C12.7612 13.1191 13.1514 13.6094 13.1514 14.1992ZM18.4395 6.54883L18.4536 12.3223C17.9805 12.3643 17.5151 12.5347 17.1113 12.8389C16.7891 13.0835 16.4634 13.3506 16.1489 13.6074L16.1367 13.6177L15.9766 13.749C15.6016 14.0591 15.2354 14.3491 14.8633 14.5991C14.7725 14.6621 14.6826 14.7222 14.5928 14.7793C14.6313 14.5947 14.6514 14.4009 14.6514 14.1992C14.6514 12.8691 13.7354 11.8188 12.4976 11.5088C11.1416 11.1689 9.72852 10.8794 8.23047 10.9189C7.18262 10.9443 6.26416 11.209 5.42627 11.5913L5.41357 6.5791C5.41309 6.38232 5.4209 6.19824 5.43652 6.02539C5.45557 5.8125 5.48682 5.61768 5.52832 5.43896C5.63916 4.96045 5.82617 4.60156 6.06543 4.33887C6.45557 3.90918 7.09424 3.61914 8.14258 3.61914L9.16846 3.61621L9.17334 8.2793C9.17383 8.34766 9.18359 8.41553 9.20166 8.48096C9.21777 8.53906 9.24072 8.59473 9.26953 8.64697C9.30029 8.70215 9.33789 8.75342 9.38184 8.7998C9.41309 8.83252 9.44727 8.8623 9.48438 8.88916C9.6792 9.0293 9.93018 9.06885 10.1582 8.98926L11.9448 8.39648L13.7173 8.979C13.9453 9.04883 14.1963 9.00928 14.3916 8.86914C14.4888 8.79883 14.5659 8.7085 14.6187 8.60449C14.6714 8.50098 14.6997 8.38379 14.6992 8.25879L14.6899 3.60156L15.6504 3.59912C15.9365 3.59912 16.1929 3.62012 16.4224 3.66016C16.5479 3.68164 16.6655 3.7085 16.7759 3.74072C17.2085 3.8667 17.5283 4.06934 17.7622 4.31934C18.1743 4.75928 18.4375 5.46924 18.4395 6.54883ZM13.1899 3.60547L10.6685 3.6123L10.6724 7.24316L11.7075 6.89941C11.8594 6.84912 12.0234 6.84912 12.1753 6.89941L13.1973 7.22998L13.1899 3.60547Z" fill="black"/> </svg> ',
     category: 'Delivery',
     style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck check complete icon with style variants.
+class _DeliveryTruckCheckComplete2Icon {
+  const _DeliveryTruckCheckComplete2Icon();
+
+  /// light style
+  _DeliveryTruckCheckComplete2Light get light => const _DeliveryTruckCheckComplete2Light();
+  /// outline style
+  _DeliveryTruckCheckComplete2Outline get outline => const _DeliveryTruckCheckComplete2Outline();
+  /// twoTone style
+  _DeliveryTruckCheckComplete2Twotone get twoTone => const _DeliveryTruckCheckComplete2Twotone();
+}
+
+/// Truck check complete — twoTone style variants.
+class _DeliveryTruckCheckComplete2Twotone {
+  const _DeliveryTruckCheckComplete2Twotone();
+
+  /// Truck check complete — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck check complete',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M7.46094 10.6372L8.94274 12.118L11.737 9.32275" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.9707 17.1821H14.2815" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1968 15.266L16.1971 6.98007C16.1971 5.83199 15.266 4.90088 14.1179 4.90088H5.04806C3.91749 4.90088 3 5.8174 3 6.94894V15.1042C3 16.2523 3.93111 17.1834 5.07919 17.1834" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1133 17.1825L18.9206 17.1827C20.0686 17.1827 20.9997 16.2516 20.9997 15.1035V11.6602C20.9997 10.7243 20.4471 9.87585 19.5909 9.49835L16.1973 8.00098" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.5977 12.4106H20.9989" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.05245 15.2656C8.11102 15.2656 8.96916 16.1238 8.96916 17.1823C8.96916 18.2409 8.11102 19.099 7.05245 19.099C5.99388 19.099 5.13574 18.2409 5.13574 17.1823C5.13574 16.1238 5.99388 15.2656 7.05245 15.2656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.198 15.2656C17.2565 15.2656 18.1147 16.1238 18.1147 17.1823C18.1147 18.2409 17.2565 19.099 16.198 19.099C15.1394 19.099 14.2812 18.2409 14.2812 17.1823C14.2812 16.1238 15.1394 15.2656 16.198 15.2656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck check complete — outline style variants.
+class _DeliveryTruckCheckComplete2Outline {
+  const _DeliveryTruckCheckComplete2Outline();
+
+  /// Truck check complete — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck check complete',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.04806 5.65072C4.33147 5.65072 3.75 6.23168 3.75 6.94878V15.104C3.75 15.6422 4.07013 16.1058 4.53028 16.3149C4.89031 15.2681 5.88363 14.5159 7.05264 14.5159C8.26502 14.5159 9.28843 15.3249 9.61243 16.4326H13.637C13.8915 15.5628 14.5771 14.8772 15.4469 14.6228L15.4471 6.97991C15.4471 6.97991 15.4471 6.97992 15.4471 6.97991C15.4471 6.24606 14.8517 5.65072 14.1179 5.65072H5.04806ZM16.9469 14.6228C17.8166 14.8772 18.5023 15.5629 18.7567 16.4327L18.9208 16.4328C18.9207 16.4328 18.9209 16.4328 18.9208 16.4328C19.6546 16.4327 20.25 15.8374 20.25 15.1036V13.1607H18.5985C18.1843 13.1607 17.8485 12.8249 17.8485 12.4107C17.8485 11.9965 18.1843 11.6607 18.5985 11.6607H20.25C20.25 11.0216 19.8725 10.4421 19.2886 10.1847L16.947 9.1515L16.9469 14.6228ZM16.9471 7.512L16.9471 6.97993C16.9471 5.41764 15.6802 4.15072 14.1179 4.15072H5.04806C3.50351 4.15072 2.25 5.40279 2.25 6.94878V15.104C2.25 16.459 3.20291 17.5917 4.47499 17.8685C4.77768 19.0089 5.81702 19.8493 7.05264 19.8493C8.26502 19.8493 9.28843 19.0402 9.61243 17.9326H13.637C13.961 19.0402 14.9845 19.8493 16.1968 19.8493C17.4092 19.8493 18.4325 19.0403 18.7566 17.9327L18.9206 17.9328C20.4829 17.9328 21.75 16.6659 21.75 15.1036V11.6603C21.75 10.4275 21.0223 9.30982 19.8939 8.81224C19.8939 8.81221 19.894 8.81227 19.8939 8.81224L16.9471 7.512ZM12.2663 8.79228C12.5593 9.08512 12.5594 9.55999 12.2665 9.85294L9.47221 12.6482C9.1794 12.9411 8.70459 12.9412 8.41163 12.6485L6.92983 11.1677C6.63684 10.8749 6.63668 10.4 6.92948 10.107C7.22228 9.81401 7.69715 9.81385 7.99014 10.1066L8.94152 11.0574L11.2057 8.79246C11.4985 8.49952 11.9734 8.49943 12.2663 8.79228ZM7.05264 16.0159C6.40828 16.0159 5.88593 16.5382 5.88593 17.1826C5.88593 17.8269 6.40828 18.3493 7.05264 18.3493C7.69699 18.3493 8.21935 17.8269 8.21935 17.1826C8.21935 16.5382 7.69699 16.0159 7.05264 16.0159ZM16.1968 16.0159C15.5525 16.0159 15.0301 16.5382 15.0301 17.1826C15.0301 17.8269 15.5525 18.3493 16.1968 18.3493C16.8412 18.3493 17.3635 17.8269 17.3635 17.1826C17.3635 16.5382 16.8412 16.0159 16.1968 16.0159Z" fill="black"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Truck check complete — light style variants.
+class _DeliveryTruckCheckComplete2Light {
+  const _DeliveryTruckCheckComplete2Light();
+
+  /// Truck check complete — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Truck check complete',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.05245 15.2659C8.11102 15.2659 8.96916 16.124 8.96916 17.1826C8.96916 18.2411 8.11102 19.0993 7.05245 19.0993C5.99388 19.0993 5.13574 18.2411 5.13574 17.1826C5.13574 16.124 5.99388 15.2659 7.05245 15.2659Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.198 15.2656C17.2565 15.2656 18.1147 16.1238 18.1147 17.1823C18.1147 18.2409 17.2565 19.099 16.198 19.099C15.1394 19.099 14.2812 18.2409 14.2812 17.1823C14.2812 16.1238 15.1394 15.2656 16.198 15.2656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.9707 17.1821H14.2815" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1968 15.266L16.1971 6.98007C16.1971 5.83199 15.266 4.90088 14.1179 4.90088H5.04806C3.91749 4.90088 3 5.8174 3 6.94894V15.1042C3 16.2523 3.93111 17.1834 5.07919 17.1834" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.46094 10.6372L8.94274 12.118L11.737 9.32275" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1133 17.1825L18.9206 17.1827C20.0686 17.1827 20.9997 16.2516 20.9997 15.1035V11.6602C20.9997 10.7243 20.4471 9.87585 19.5909 9.49835L16.1973 8.00098" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5977 12.4106H20.9989" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Delivery',
+    style: IconfyStyle.light,
     type: IconfyType.regular,
   );
 

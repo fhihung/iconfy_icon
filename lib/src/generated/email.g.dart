@@ -12,8 +12,44 @@ class _EmailIcons {
   _EmailEmailDownloadIcon get emailDownload => const _EmailEmailDownloadIcon();
   /// email
   _EmailEmailIcon get email => const _EmailEmailIcon();
+  /// email 1
+  _EmailEmail1Icon get email1 => const _EmailEmail1Icon();
+  /// email 2
+  _EmailEmail2Icon get email2 => const _EmailEmail2Icon();
+  /// email 3
+  _EmailEmail3Icon get email3 => const _EmailEmail3Icon();
+  /// email 4
+  _EmailEmail4Icon get email4 => const _EmailEmail4Icon();
+  /// email 5
+  _EmailEmail5Icon get email5 => const _EmailEmail5Icon();
+  /// email 6
+  _EmailEmail6Icon get email6 => const _EmailEmail6Icon();
+  /// email 7
+  _EmailEmail7Icon get email7 => const _EmailEmail7Icon();
+  /// email 8
+  _EmailEmail8Icon get email8 => const _EmailEmail8Icon();
+  /// email 9
+  _EmailEmail9Icon get email9 => const _EmailEmail9Icon();
+  /// email 10
+  _EmailEmail10Icon get email10 => const _EmailEmail10Icon();
+  /// email 11
+  _EmailEmail11Icon get email11 => const _EmailEmail11Icon();
+  /// email 12
+  _EmailEmail12Icon get email12 => const _EmailEmail12Icon();
+  /// email 13
+  _EmailEmail13Icon get email13 => const _EmailEmail13Icon();
+  /// email 14
+  _EmailEmail14Icon get email14 => const _EmailEmail14Icon();
+  /// email 15
+  _EmailEmail15Icon get email15 => const _EmailEmail15Icon();
+  /// email 16
+  _EmailEmail16Icon get email16 => const _EmailEmail16Icon();
+  /// email 17
+  _EmailEmail17Icon get email17 => const _EmailEmail17Icon();
   /// email refresh
   _EmailEmailRefreshIcon get emailRefresh => const _EmailEmailRefreshIcon();
+  /// email refresh 1
+  _EmailEmailRefresh1Icon get emailRefresh1 => const _EmailEmailRefresh1Icon();
   /// information
   _EmailInformationIcon get information => const _EmailInformationIcon();
   /// email edit
@@ -44,12 +80,20 @@ class _EmailIcons {
   _EmailEmailSortIcon get emailSort => const _EmailEmailSortIcon();
   /// email document
   _EmailEmailDocumentIcon get emailDocument => const _EmailEmailDocumentIcon();
+  /// email document 1
+  _EmailEmailDocument1Icon get emailDocument1 => const _EmailEmailDocument1Icon();
   /// email search
   _EmailEmailSearchIcon get emailSearch => const _EmailEmailSearchIcon();
   /// add username
   _EmailAddUsernameIcon get addUsername => const _EmailAddUsernameIcon();
   /// email open
   _EmailEmailOpenIcon get emailOpen => const _EmailEmailOpenIcon();
+  /// email open 1
+  _EmailEmailOpen1Icon get emailOpen1 => const _EmailEmailOpen1Icon();
+  /// email open 2
+  _EmailEmailOpen2Icon get emailOpen2 => const _EmailEmailOpen2Icon();
+  /// email open 3
+  _EmailEmailOpen3Icon get emailOpen3 => const _EmailEmailOpen3Icon();
   /// email open check
   _EmailEmailOpenCheckIcon get emailOpenCheck => const _EmailEmailOpenCheckIcon();
   /// email love like
@@ -70,8 +114,10 @@ class _EmailIcons {
   _EmailMentionIcon get mention => const _EmailMentionIcon();
   /// email notification
   _EmailEmailNotificationIcon get emailNotification => const _EmailEmailNotificationIcon();
+  /// email
+  _EmailEmail18Icon get email18 => const _EmailEmail18Icon();
   /// email open 1
-  _EmailEmailOpen1Icon get emailOpen1 => const _EmailEmailOpen1Icon();
+  _EmailEmailOpen11Icon get emailOpen11 => const _EmailEmailOpen11Icon();
 }
 
 /// email download icon with style variants.
@@ -186,93 +232,8 @@ class _EmailEmailDownloadLight {
 class _EmailEmailIcon {
   const _EmailEmailIcon();
 
-  /// bold style
-  _EmailEmailBold get bold => const _EmailEmailBold();
-  /// bulk style
-  _EmailEmailBulk get bulk => const _EmailEmailBulk();
   /// light style
   _EmailEmailLight get light => const _EmailEmailLight();
-  /// outline style
-  _EmailEmailOutline get outline => const _EmailEmailOutline();
-  /// twoTone style
-  _EmailEmailTwotone get twoTone => const _EmailEmailTwotone();
-  /// broken style
-  _EmailEmailBroken get broken => const _EmailEmailBroken();
-}
-
-/// email — bulk style variants.
-class _EmailEmailBulk {
-  const _EmailEmailBulk();
-
-  /// email — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'email',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.4 3.40039H7.6C4.7 3.40039 2.5 5.80039 2.5 8.90039V15.1004C2.5 16.7004 3.1 18.2004 4.1 19.2004C5 20.1004 6.2 20.6004 7.6 20.6004H16.4C17.7 20.6004 18.9 20.1004 19.9 19.2004C20.9 18.2004 21.5 16.7004 21.5 15.1004V8.90039C21.5 5.80039 19.3 3.40039 16.4 3.40039Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.8 9.79998L13.8 13C13.3 13.4 12.7 13.6 12 13.6C11.4 13.6 10.8 13.4 10.2 13L6.19996 9.69998C5.89996 9.39998 5.79996 8.99998 6.09996 8.59998C6.39996 8.19998 6.79996 8.19998 7.19996 8.49998L11.2 11.7C11.7 12.1 12.4 12.1 12.8 11.7L16.8 8.49998C17.1 8.19998 17.6 8.29998 17.9 8.59998C18.2 8.99998 18.1 9.49998 17.8 9.79998Z" fill="black"/> </svg>',
-    category: 'Email',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// email — broken style variants.
-class _EmailEmailBroken {
-  const _EmailEmailBroken();
-
-  /// email — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'email',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 20.6004H7.58173C4.84476 20.6072 3 18.3596 3 15.5944V9.41315C3 6.65088 4.84476 4.40039 7.58173 4.40039H16.4183C19.1552 4.40039 21 6.65088 21 9.41315V15.5944C21 18.3596 19.1552 20.6072 16.4183 20.6004H15.2175" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.5876 7.38086L14.1184 12.6412C12.9002 13.6092 11.1735 13.6092 9.95518 12.6412L3.43091 7.38086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Email',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// email — twoTone style variants.
-class _EmailEmailTwotone {
-  const _EmailEmailTwotone();
-
-  /// email — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'email',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 15.0944C21.5 17.8596 19.6552 20.1072 16.9183 20.1004H8.08173C5.34476 20.1072 3.5 17.8596 3.5 15.0944V8.91315C3.5 6.15088 5.34476 3.90039 8.08173 3.90039H16.9183C19.6552 3.90039 21.5 6.15088 21.5 8.91315V15.0944Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.8124 9.16602L13.8135 12.4177C13.0604 13.0161 11.9931 13.0161 11.24 12.4177L7.20703 9.16602" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Email',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// email — outline style variants.
-class _EmailEmailOutline {
-  const _EmailEmailOutline();
-
-  /// email — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'email',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.84707 6.40946C3.10706 6.08701 3.57923 6.03636 3.90168 6.29635L10.4238 11.5549C11.3677 12.3035 12.7045 12.3038 13.6488 11.5558L20.1145 6.29831C20.4359 6.03699 20.9082 6.08567 21.1696 6.40705C21.4309 6.72842 21.3822 7.20079 21.0608 7.46212L14.5851 12.7278C13.0936 13.9129 10.9801 13.9128 9.48863 12.7278L9.48445 12.7244L2.96018 7.46407C2.63773 7.20409 2.58708 6.73192 2.84707 6.40946Z" fill="black"/> <path d="M16.431 20.8499H7.56701C6.89159 20.8593 6.22114 20.733 5.59539 20.4787C4.96963 20.2243 4.40129 19.8469 3.92401 19.3689C3.37586 18.8018 2.94565 18.1316 2.65831 17.3971C2.37096 16.6626 2.23218 15.8784 2.25001 15.0899V8.9129C2.20606 8.18075 2.31067 7.44727 2.55756 6.7566C2.80445 6.06593 3.1885 5.43235 3.68662 4.89396C4.18474 4.35558 4.78662 3.92353 5.45606 3.62381C6.1255 3.32408 6.84865 3.16288 7.58201 3.1499H16.418C17.1514 3.16288 17.8745 3.32408 18.544 3.62381C19.2134 3.92353 19.8153 4.35558 20.3134 4.89396C20.8115 5.43235 21.1956 6.06593 21.4424 6.7566C21.6893 7.44727 21.794 8.18075 21.75 8.9129V15.0899C21.7673 15.8777 21.6283 16.6612 21.3409 17.395C21.0536 18.1287 20.6237 18.7983 20.076 19.3649C19.5988 19.8438 19.0303 20.222 18.4041 20.4771C17.778 20.7322 17.107 20.859 16.431 20.8499ZM7.58001 19.3499H16.429C16.9081 19.3582 17.384 19.2702 17.8284 19.091C18.2728 18.9119 18.6767 18.6452 19.016 18.3069C19.4241 17.8788 19.7432 17.3741 19.955 16.8219C20.1668 16.2697 20.2671 15.6811 20.25 15.0899V8.9129C20.25 6.4429 18.639 4.6499 16.418 4.6499H7.58201C5.36101 4.6499 3.75001 6.4429 3.75001 8.9129V15.0899C3.73345 15.6804 3.83396 16.2683 4.04575 16.8198C4.25755 17.3712 4.57643 17.8753 4.98401 18.3029C5.32308 18.641 5.72661 18.9076 6.17066 19.0867C6.61471 19.2659 7.09024 19.354 7.56901 19.3459L7.58001 19.3499Z" fill="black"/> </svg> ',
-    category: 'Email',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// email — bold style variants.
-class _EmailEmailBold {
-  const _EmailEmailBold();
-
-  /// email — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'email',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.499 6.84039L10.374 11.6194C11.379 12.3914 12.689 12.3974 13.62 11.6244L19.496 6.83039C19.739 7.29239 19.896 7.81839 19.956 8.39039L14.574 12.7814C13.845 13.3904 12.949 13.6934 12.039 13.6934C11.137 13.6934 10.222 13.3954 9.442 12.7954L4.042 8.40239C4.102 7.83039 4.257 7.30339 4.499 6.84039ZM21.5 8.89839C21.5 8.58839 21.468 8.29239 21.42 8.00239C21.389 7.78539 21.341 7.57839 21.288 7.37139C21.283 7.35239 21.281 7.33239 21.276 7.31339L21.273 7.31639C21.134 6.79539 20.945 6.30139 20.682 5.86139L20.689 5.85639C20.679 5.83939 20.666 5.82339 20.655 5.80639C20.649 5.79639 20.641 5.78739 20.635 5.77639C20.469 5.50839 20.278 5.26239 20.071 5.03239C20.051 5.01039 20.033 4.98739 20.013 4.96639C19.796 4.73439 19.561 4.52439 19.306 4.33939C19.288 4.32639 19.268 4.31439 19.25 4.30139C18.998 4.12339 18.732 3.96839 18.449 3.84039C18.435 3.83439 18.422 3.82639 18.408 3.81939C18.129 3.69739 17.835 3.60439 17.531 3.53539C17.471 3.52139 17.41 3.51039 17.348 3.49839C17.044 3.44139 16.734 3.40239 16.41 3.40139C16.406 3.40139 16.403 3.40039 16.4 3.40039H7.6C7.597 3.40039 7.594 3.40139 7.591 3.40139C7.25 3.40239 6.924 3.44339 6.608 3.50339C6.574 3.51039 6.54 3.51539 6.506 3.52339C5.122 3.81639 3.99 4.65239 3.288 5.85539L3.311 5.87439C3.049 6.31439 2.861 6.80839 2.723 7.32939L2.713 7.32139C2.7 7.37439 2.693 7.43139 2.68 7.48439C2.643 7.64639 2.607 7.80639 2.582 7.97339C2.534 8.27239 2.5 8.57739 2.5 8.89839V15.1004L2.501 15.1064C2.501 15.5084 2.539 15.8964 2.609 16.2694C2.616 16.3064 2.631 16.3404 2.639 16.3774C2.707 16.7094 2.795 17.0304 2.913 17.3324C2.981 17.5094 3.075 17.6674 3.158 17.8334C3.229 17.9714 3.288 18.1174 3.369 18.2474C3.541 18.5284 3.739 18.7824 3.955 19.0194C3.957 19.0214 3.958 19.0244 3.961 19.0264C4.01 19.0814 4.048 19.1484 4.1 19.2004C5 20.1004 6.2 20.6004 7.6 20.6004H16.4C16.73 20.6004 17.053 20.5674 17.368 20.5044C18.294 20.3344 19.099 19.9104 19.757 19.3094C19.803 19.2704 19.855 19.2414 19.9 19.2004C19.917 19.1834 19.929 19.1614 19.945 19.1444C20.913 18.1624 21.499 16.7554 21.5 15.1044V8.89839Z" fill="black"/> </svg>',
-    category: 'Email',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// email — light style variants.
@@ -285,6 +246,465 @@ class _EmailEmailLight {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 15.0944C21 17.8596 19.1552 20.1072 16.4183 20.1004H7.58173C4.84476 20.1072 3 17.8596 3 15.0944V8.91315C3 6.15088 4.84476 3.90039 7.58173 3.90039H16.4183C19.1552 3.90039 21 6.15088 21 8.91315V15.0944Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.5874 6.87988L14.1182 12.1402C12.8999 13.1082 11.1732 13.1082 9.95494 12.1402L3.43066 6.87988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Email',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 1 icon with style variants.
+class _EmailEmail1Icon {
+  const _EmailEmail1Icon();
+
+  /// light style
+  _EmailEmail1Light get light => const _EmailEmail1Light();
+}
+
+/// email 1 — light style variants.
+class _EmailEmail1Light {
+  const _EmailEmail1Light();
+
+  /// email 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 15.0944C21 17.8596 19.1552 20.1072 16.4183 20.1004H7.58173C4.84476 20.1072 3 17.8596 3 15.0944V8.91315C3 6.15088 4.84476 3.90039 7.58173 3.90039H16.4183C19.1552 3.90039 21 6.15088 21 8.91315V15.0944Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.5874 6.87988L14.1182 12.1402C12.8999 13.1082 11.1732 13.1082 9.95494 12.1402L3.43066 6.87988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 2 icon with style variants.
+class _EmailEmail2Icon {
+  const _EmailEmail2Icon();
+
+  /// light style
+  _EmailEmail2Light get light => const _EmailEmail2Light();
+}
+
+/// email 2 — light style variants.
+class _EmailEmail2Light {
+  const _EmailEmail2Light();
+
+  /// email 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 15.0944C21 17.8596 19.1552 20.1072 16.4183 20.1004H7.58173C4.84476 20.1072 3 17.8596 3 15.0944V8.91315C3 6.15088 4.84476 3.90039 7.58173 3.90039H16.4183C19.1552 3.90039 21 6.15088 21 8.91315V15.0944Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3124 9.16602L13.3135 12.4177C12.5604 13.0161 11.4931 13.0161 10.74 12.4177L6.70703 9.16602" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 3 icon with style variants.
+class _EmailEmail3Icon {
+  const _EmailEmail3Icon();
+
+  /// twoTone style
+  _EmailEmail3Twotone get twoTone => const _EmailEmail3Twotone();
+}
+
+/// email 3 — twoTone style variants.
+class _EmailEmail3Twotone {
+  const _EmailEmail3Twotone();
+
+  /// email 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.5 15.0944C21.5 17.8596 19.6552 20.1072 16.9183 20.1004H8.08173C5.34476 20.1072 3.5 17.8596 3.5 15.0944V8.91315C3.5 6.15088 5.34476 3.90039 8.08173 3.90039H16.9183C19.6552 3.90039 21.5 6.15088 21.5 8.91315V15.0944Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.1269 6.97363L14.6225 12.2626C13.3976 13.2358 11.6616 13.2358 10.4367 12.2626L3.87695 6.97363" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.18533 11.2539L3.87109 17.0255M21.1289 17.0263L15.8732 11.2547" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 4 icon with style variants.
+class _EmailEmail4Icon {
+  const _EmailEmail4Icon();
+
+  /// twoTone style
+  _EmailEmail4Twotone get twoTone => const _EmailEmail4Twotone();
+}
+
+/// email 4 — twoTone style variants.
+class _EmailEmail4Twotone {
+  const _EmailEmail4Twotone();
+
+  /// email 4 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 15.0944C21.5 17.8596 19.6552 20.1072 16.9183 20.1004H8.08173C5.34476 20.1072 3.5 17.8596 3.5 15.0944V8.91315C3.5 6.15088 5.34476 3.90039 8.08173 3.90039H16.9183C19.6552 3.90039 21.5 6.15088 21.5 8.91315V15.0944Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.8124 9.16602L13.8135 12.4177C13.0604 13.0161 11.9931 13.0161 11.24 12.4177L7.20703 9.16602" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 5 icon with style variants.
+class _EmailEmail5Icon {
+  const _EmailEmail5Icon();
+
+  /// twoTone style
+  _EmailEmail5Twotone get twoTone => const _EmailEmail5Twotone();
+}
+
+/// email 5 — twoTone style variants.
+class _EmailEmail5Twotone {
+  const _EmailEmail5Twotone();
+
+  /// email 5 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 15.0944C21.5 17.8596 19.6552 20.1072 16.9183 20.1004H8.08173C5.34476 20.1072 3.5 17.8596 3.5 15.0944V8.91315C3.5 6.15088 5.34476 3.90039 8.08173 3.90039H16.9183C19.6552 3.90039 21.5 6.15088 21.5 8.91315V15.0944Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.8124 9.16602L13.8135 12.4177C13.0604 13.0161 11.9931 13.0161 11.24 12.4177L7.20703 9.16602" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 6 icon with style variants.
+class _EmailEmail6Icon {
+  const _EmailEmail6Icon();
+
+  /// bold style
+  _EmailEmail6Bold get bold => const _EmailEmail6Bold();
+}
+
+/// email 6 — bold style variants.
+class _EmailEmail6Bold {
+  const _EmailEmail6Bold();
+
+  /// email 6 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.495 17.1874L15.144 12.4564L14.624 12.8814C13.892 13.4914 12.973 13.7964 12.052 13.7964C11.129 13.7964 10.206 13.4904 9.47 12.8764L8.893 12.4144L4.503 17.1824C4.243 16.6684 4.082 16.0884 4.034 15.4764L7.719 11.4744L4.032 8.52239C4.078 7.94239 4.222 7.40939 4.453 6.93739L10.419 11.7154C11.354 12.4944 12.747 12.4934 13.67 11.7244L19.54 6.92339C19.774 7.39639 19.92 7.93139 19.967 8.51239L16.307 11.5054L19.965 15.4834C19.916 16.0944 19.755 16.6744 19.495 17.1874ZM21.499 15.1074C21.499 15.1054 21.5 15.1034 21.5 15.1004V8.90039C21.5 8.89939 21.499 8.89739 21.499 8.89539C21.499 8.59239 21.467 8.30239 21.421 8.01839C21.394 7.82839 21.357 7.64539 21.313 7.46339C21.31 7.44839 21.308 7.43339 21.305 7.41839L21.301 7.42139C21.172 6.89439 20.983 6.39939 20.727 5.95339L20.734 5.94739C20.722 5.92839 20.708 5.91039 20.696 5.89139C20.648 5.80839 20.593 5.73139 20.54 5.65239C20.413 5.45939 20.275 5.27739 20.126 5.10539C20.081 5.05339 20.04 4.99839 19.993 4.94939C19.794 4.73739 19.577 4.54739 19.346 4.37439C19.296 4.33839 19.245 4.30539 19.195 4.27039C18.963 4.11039 18.721 3.96639 18.463 3.84839C18.443 3.83939 18.425 3.82839 18.406 3.81939C18.132 3.69839 17.843 3.60939 17.544 3.54039C17.477 3.52439 17.409 3.51139 17.341 3.49839C17.04 3.44139 16.731 3.40239 16.41 3.40139C16.406 3.40139 16.403 3.40039 16.4 3.40039H7.6C7.596 3.40039 7.594 3.40139 7.59 3.40139C7.252 3.40239 6.93 3.44339 6.616 3.50239C6.575 3.51039 6.535 3.51839 6.495 3.52739C5.079 3.83139 3.931 4.70839 3.236 5.96239L3.259 5.98039C3.006 6.42839 2.818 6.92139 2.69 7.44739L2.681 7.44039C2.672 7.48039 2.667 7.52339 2.658 7.56439C2.628 7.70139 2.602 7.84039 2.581 7.98239C2.534 8.27839 2.5 8.58139 2.5 8.89939V15.1004C2.5 15.1014 2.5 15.1024 2.5 15.1034C2.5 15.4394 2.536 15.7614 2.59 16.0754C2.627 16.3094 2.685 16.5314 2.747 16.7554C2.755 16.7864 2.76 16.8204 2.769 16.8504L2.773 16.8464C3.038 17.7554 3.479 18.5804 4.1 19.2004C4.662 19.7624 5.352 20.1464 6.123 20.3724C6.218 20.4014 6.311 20.4324 6.408 20.4554C6.527 20.4834 6.647 20.5064 6.77 20.5254C7.035 20.5684 7.306 20.5984 7.587 20.5994C7.591 20.5994 7.595 20.6004 7.6 20.6004H16.4C16.403 20.6004 16.407 20.5994 16.41 20.5994C16.724 20.5994 17.025 20.5634 17.319 20.5124C17.34 20.5084 17.362 20.5044 17.383 20.5004C18.336 20.3194 19.173 19.8854 19.838 19.2484C19.858 19.2304 19.88 19.2184 19.9 19.2004C19.936 19.1644 19.962 19.1164 19.997 19.0794C20.207 18.8574 20.404 18.6224 20.574 18.3614L20.573 18.3594C20.863 17.9084 21.067 17.3924 21.225 16.8524L21.237 16.8654C21.259 16.7874 21.27 16.7034 21.29 16.6244C21.333 16.4524 21.378 16.2844 21.406 16.1074C21.462 15.7854 21.499 15.4554 21.499 15.1074Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 7 icon with style variants.
+class _EmailEmail7Icon {
+  const _EmailEmail7Icon();
+
+  /// bold style
+  _EmailEmail7Bold get bold => const _EmailEmail7Bold();
+}
+
+/// email 7 — bold style variants.
+class _EmailEmail7Bold {
+  const _EmailEmail7Bold();
+
+  /// email 7 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.499 6.84039L10.374 11.6194C11.379 12.3914 12.689 12.3974 13.62 11.6244L19.496 6.83039C19.739 7.29239 19.896 7.81839 19.956 8.39039L14.574 12.7814C13.845 13.3904 12.949 13.6934 12.039 13.6934C11.137 13.6934 10.222 13.3954 9.442 12.7954L4.042 8.40239C4.102 7.83039 4.257 7.30339 4.499 6.84039ZM21.5 8.89839C21.5 8.58839 21.468 8.29239 21.42 8.00239C21.389 7.78539 21.341 7.57839 21.288 7.37139C21.283 7.35239 21.281 7.33239 21.276 7.31339L21.273 7.31639C21.134 6.79539 20.945 6.30139 20.682 5.86139L20.689 5.85639C20.679 5.83939 20.666 5.82339 20.655 5.80639C20.649 5.79639 20.641 5.78739 20.635 5.77639C20.469 5.50839 20.278 5.26239 20.071 5.03239C20.051 5.01039 20.033 4.98739 20.013 4.96639C19.796 4.73439 19.561 4.52439 19.306 4.33939C19.288 4.32639 19.268 4.31439 19.25 4.30139C18.998 4.12339 18.732 3.96839 18.449 3.84039C18.435 3.83439 18.422 3.82639 18.408 3.81939C18.129 3.69739 17.835 3.60439 17.531 3.53539C17.471 3.52139 17.41 3.51039 17.348 3.49839C17.044 3.44139 16.734 3.40239 16.41 3.40139C16.406 3.40139 16.403 3.40039 16.4 3.40039H7.6C7.597 3.40039 7.594 3.40139 7.591 3.40139C7.25 3.40239 6.924 3.44339 6.608 3.50339C6.574 3.51039 6.54 3.51539 6.506 3.52339C5.122 3.81639 3.99 4.65239 3.288 5.85539L3.311 5.87439C3.049 6.31439 2.861 6.80839 2.723 7.32939L2.713 7.32139C2.7 7.37439 2.693 7.43139 2.68 7.48439C2.643 7.64639 2.607 7.80639 2.582 7.97339C2.534 8.27239 2.5 8.57739 2.5 8.89839V15.1004L2.501 15.1064C2.501 15.5084 2.539 15.8964 2.609 16.2694C2.616 16.3064 2.631 16.3404 2.639 16.3774C2.707 16.7094 2.795 17.0304 2.913 17.3324C2.981 17.5094 3.075 17.6674 3.158 17.8334C3.229 17.9714 3.288 18.1174 3.369 18.2474C3.541 18.5284 3.739 18.7824 3.955 19.0194C3.957 19.0214 3.958 19.0244 3.961 19.0264C4.01 19.0814 4.048 19.1484 4.1 19.2004C5 20.1004 6.2 20.6004 7.6 20.6004H16.4C16.73 20.6004 17.053 20.5674 17.368 20.5044C18.294 20.3344 19.099 19.9104 19.757 19.3094C19.803 19.2704 19.855 19.2414 19.9 19.2004C19.917 19.1834 19.929 19.1614 19.945 19.1444C20.913 18.1624 21.499 16.7554 21.5 15.1044V8.89839Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 8 icon with style variants.
+class _EmailEmail8Icon {
+  const _EmailEmail8Icon();
+
+  /// bold style
+  _EmailEmail8Bold get bold => const _EmailEmail8Bold();
+}
+
+/// email 8 — bold style variants.
+class _EmailEmail8Bold {
+  const _EmailEmail8Bold();
+
+  /// email 8 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.8 9.80039L13.8 13.0004C13.3 13.4004 12.7 13.6004 12 13.6004C11.4 13.6004 10.8 13.4004 10.2 13.0004L6.2 9.70039C5.9 9.40039 5.8 9.00039 6.1 8.60039C6.4 8.20039 6.8 8.20039 7.2 8.50039L11.2 11.7004C11.7 12.1004 12.4 12.1004 12.8 11.7004L16.8 8.50039C17.1 8.20039 17.6 8.30039 17.9 8.60039C18.2 9.00039 18.1 9.50039 17.8 9.80039ZM16.4 3.40039H7.6C4.7 3.40039 2.5 5.80039 2.5 8.90039V15.1004C2.5 16.7004 3.1 18.2004 4.1 19.2004C5 20.1004 6.2 20.6004 7.6 20.6004H16.4C17.7 20.6004 18.9 20.1004 19.9 19.2004C20.9 18.2004 21.5 16.7004 21.5 15.1004V8.90039C21.5 5.80039 19.3 3.40039 16.4 3.40039Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 9 icon with style variants.
+class _EmailEmail9Icon {
+  const _EmailEmail9Icon();
+
+  /// bulk style
+  _EmailEmail9Bulk get bulk => const _EmailEmail9Bulk();
+}
+
+/// email 9 — bulk style variants.
+class _EmailEmail9Bulk {
+  const _EmailEmail9Bulk();
+
+  /// email 9 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.499 15.1074C21.499 15.1074 21.5 15.1034 21.5 15.1004V8.90039L21.499 8.89539C21.499 8.59239 21.467 8.30239 21.421 8.01839C21.394 7.82839 21.357 7.64539 21.313 7.46339C21.31 7.44839 21.308 7.43339 21.305 7.41839L21.301 7.42139C21.172 6.89439 20.983 6.39939 20.727 5.95339L20.734 5.94739C20.722 5.92839 20.708 5.91039 20.696 5.89139C20.648 5.80839 20.593 5.73139 20.54 5.65239C20.413 5.45939 20.275 5.27739 20.126 5.10539C20.081 5.05339 20.04 4.99839 19.993 4.94939C19.794 4.73739 19.577 4.54739 19.346 4.37439C19.296 4.33839 19.245 4.30539 19.195 4.27039C18.963 4.11039 18.721 3.96639 18.463 3.84839C18.443 3.83939 18.425 3.82839 18.406 3.81939C18.132 3.69839 17.843 3.60939 17.544 3.54039C17.477 3.52439 17.409 3.51139 17.341 3.49839C17.04 3.44139 16.731 3.40239 16.41 3.40139C16.406 3.40139 16.403 3.40039 16.4 3.40039H7.6C7.596 3.40039 7.594 3.40139 7.59 3.40139C7.252 3.40239 6.93 3.44339 6.616 3.50239C6.575 3.51039 6.535 3.51839 6.495 3.52739C5.079 3.83139 3.931 4.70839 3.236 5.96239L3.259 5.98039C3.006 6.42839 2.818 6.92139 2.69 7.44739L2.681 7.44039C2.672 7.48039 2.667 7.52339 2.658 7.56439C2.628 7.70139 2.602 7.84039 2.581 7.98239C2.534 8.27839 2.5 8.58139 2.5 8.89939V15.1004V15.1034C2.5 15.4394 2.536 15.7614 2.59 16.0754C2.627 16.3094 2.685 16.5314 2.747 16.7554C2.755 16.7864 2.76 16.8204 2.769 16.8504L2.773 16.8464C3.038 17.7554 3.479 18.5804 4.1 19.2004C4.662 19.7624 5.352 20.1464 6.123 20.3724C6.218 20.4014 6.311 20.4324 6.408 20.4554C6.527 20.4834 6.647 20.5064 6.77 20.5254C7.035 20.5684 7.306 20.5984 7.587 20.5994C7.591 20.5994 7.595 20.6004 7.6 20.6004H16.4C16.403 20.6004 16.407 20.5994 16.41 20.5994C16.724 20.5994 17.025 20.5634 17.319 20.5124C17.34 20.5084 17.362 20.5044 17.383 20.5004C18.336 20.3194 19.173 19.8854 19.838 19.2484C19.858 19.2304 19.88 19.2184 19.9 19.2004C19.936 19.1644 19.962 19.1164 19.997 19.0794C20.207 18.8574 20.404 18.6224 20.574 18.3614L20.573 18.3594C20.863 17.9084 21.067 17.3924 21.225 16.8524L21.237 16.8654C21.259 16.7874 21.27 16.7034 21.29 16.6244C21.333 16.4524 21.378 16.2844 21.406 16.1074C21.462 15.7854 21.499 15.4554 21.499 15.1074Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.495 17.1878L15.144 12.4568L14.624 12.8818C13.892 13.4918 12.973 13.7968 12.052 13.7968C11.129 13.7968 10.206 13.4908 9.46998 12.8768L8.89298 12.4148L4.50298 17.1828C4.24298 16.6688 4.08198 16.0888 4.03398 15.4768L7.71898 11.4748L4.03198 8.52283C4.07798 7.94283 4.22198 7.40983 4.45298 6.93783L10.419 11.7158C11.354 12.4948 12.747 12.4938 13.67 11.7248L19.54 6.92383C19.774 7.39683 19.92 7.93183 19.967 8.51283L16.307 11.5058L19.965 15.4838C19.916 16.0948 19.755 16.6748 19.495 17.1878Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 10 icon with style variants.
+class _EmailEmail10Icon {
+  const _EmailEmail10Icon();
+
+  /// bulk style
+  _EmailEmail10Bulk get bulk => const _EmailEmail10Bulk();
+}
+
+/// email 10 — bulk style variants.
+class _EmailEmail10Bulk {
+  const _EmailEmail10Bulk();
+
+  /// email 10 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.5 8.89839C21.5 8.58839 21.468 8.29239 21.42 8.00239C21.389 7.78539 21.341 7.57839 21.288 7.37139C21.283 7.35239 21.281 7.33239 21.276 7.31339L21.273 7.31639C21.134 6.79539 20.945 6.30139 20.682 5.86139L20.689 5.85639C20.679 5.83939 20.666 5.82339 20.655 5.80639C20.649 5.79639 20.641 5.78739 20.635 5.77639C20.469 5.50839 20.278 5.26239 20.071 5.03239C20.051 5.01039 20.033 4.98739 20.013 4.96639C19.796 4.73439 19.561 4.52439 19.306 4.33939C19.288 4.32639 19.268 4.31439 19.25 4.30139C18.998 4.12339 18.732 3.96839 18.449 3.84039C18.435 3.83439 18.422 3.82639 18.408 3.81939C18.129 3.69739 17.835 3.60439 17.531 3.53539C17.471 3.52139 17.41 3.51039 17.348 3.49839C17.044 3.44139 16.734 3.40239 16.41 3.40139C16.406 3.40139 16.403 3.40039 16.4 3.40039H7.6C7.597 3.40039 7.594 3.40139 7.591 3.40139C7.25 3.40239 6.924 3.44339 6.608 3.50339C6.574 3.51039 6.54 3.51539 6.506 3.52339C5.122 3.81639 3.99 4.65239 3.288 5.85539L3.311 5.87439C3.049 6.31439 2.861 6.80839 2.723 7.32939L2.713 7.32139C2.7 7.37439 2.693 7.43139 2.68 7.48439C2.643 7.64639 2.607 7.80639 2.582 7.97339C2.534 8.27239 2.5 8.57739 2.5 8.89839V15.1004L2.501 15.1064C2.501 15.5084 2.539 15.8964 2.609 16.2694C2.616 16.3064 2.631 16.3404 2.639 16.3774C2.707 16.7094 2.795 17.0304 2.913 17.3324C2.981 17.5094 3.075 17.6674 3.158 17.8334C3.229 17.9714 3.288 18.1174 3.369 18.2474C3.541 18.5284 3.739 18.7824 3.955 19.0194C3.957 19.0214 3.958 19.0244 3.961 19.0264C4.01 19.0814 4.048 19.1484 4.1 19.2004C5 20.1004 6.2 20.6004 7.6 20.6004H16.4C16.73 20.6004 17.053 20.5674 17.368 20.5044C18.294 20.3344 19.099 19.9104 19.757 19.3094C19.803 19.2704 19.855 19.2414 19.9 19.2004C19.917 19.1834 19.929 19.1614 19.945 19.1444C20.913 18.1624 21.499 16.7554 21.5 15.1044V8.89839Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.49899 6.84008L10.374 11.6191C11.379 12.3911 12.689 12.3971 13.62 11.6241L19.496 6.83008C19.739 7.29208 19.896 7.81808 19.956 8.39008L14.574 12.7811C13.845 13.3901 12.949 13.6931 12.039 13.6931C11.137 13.6931 10.222 13.3951 9.44199 12.7951L4.04199 8.40208C4.10199 7.83008 4.25699 7.30308 4.49899 6.84008Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 11 icon with style variants.
+class _EmailEmail11Icon {
+  const _EmailEmail11Icon();
+
+  /// bulk style
+  _EmailEmail11Bulk get bulk => const _EmailEmail11Bulk();
+}
+
+/// email 11 — bulk style variants.
+class _EmailEmail11Bulk {
+  const _EmailEmail11Bulk();
+
+  /// email 11 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.4 3.40039H7.6C4.7 3.40039 2.5 5.80039 2.5 8.90039V15.1004C2.5 16.7004 3.1 18.2004 4.1 19.2004C5 20.1004 6.2 20.6004 7.6 20.6004H16.4C17.7 20.6004 18.9 20.1004 19.9 19.2004C20.9 18.2004 21.5 16.7004 21.5 15.1004V8.90039C21.5 5.80039 19.3 3.40039 16.4 3.40039Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.8 9.79998L13.8 13C13.3 13.4 12.7 13.6 12 13.6C11.4 13.6 10.8 13.4 10.2 13L6.19996 9.69998C5.89996 9.39998 5.79996 8.99998 6.09996 8.59998C6.39996 8.19998 6.79996 8.19998 7.19996 8.49998L11.2 11.7C11.7 12.1 12.4 12.1 12.8 11.7L16.8 8.49998C17.1 8.19998 17.6 8.29998 17.9 8.59998C18.2 8.99998 18.1 9.49998 17.8 9.79998Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 12 icon with style variants.
+class _EmailEmail12Icon {
+  const _EmailEmail12Icon();
+
+  /// bold style
+  _EmailEmail12Bold get bold => const _EmailEmail12Bold();
+  /// bulk style
+  _EmailEmail12Bulk get bulk => const _EmailEmail12Bulk();
+  /// light style
+  _EmailEmail12Light get light => const _EmailEmail12Light();
+  /// twoTone style
+  _EmailEmail12Twotone get twoTone => const _EmailEmail12Twotone();
+  /// broken style
+  _EmailEmail12Broken get broken => const _EmailEmail12Broken();
+}
+
+/// email 12 — bulk style variants.
+class _EmailEmail12Bulk {
+  const _EmailEmail12Bulk();
+
+  /// email 12 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.4 3.40039H7.6C4.645 3.40039 2.5 5.71439 2.5 8.90039V15.1004C2.5 18.2354 4.692 20.6004 7.6 20.6004H16.4C19.355 20.6004 21.5 18.2864 21.5 15.1004V8.90039C21.5 5.76539 19.307 3.40039 16.4 3.40039Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.7979 15.7561C17.6549 15.8831 17.4779 15.9451 17.2999 15.9451C17.0939 15.9451 16.8879 15.8601 16.7389 15.6941L13.9419 12.5471L13.7689 12.6861C13.2249 13.0931 12.6069 13.2961 11.9929 13.2961C11.3839 13.2961 10.7779 13.0971 10.2489 12.6991L10.1079 12.5871L7.25194 15.7021C7.10494 15.8631 6.90194 15.9451 6.69894 15.9451C6.51794 15.9451 6.33594 15.8801 6.19294 15.7481C5.88694 15.4691 5.86594 14.9941 6.14694 14.6891L8.93394 11.6481L6.22994 9.4861C5.90694 9.2271 5.85494 8.7561 6.11294 8.4321C6.37394 8.1091 6.84494 8.0581 7.16794 8.3141L11.1679 11.5141C11.6799 11.8991 12.3159 11.8991 12.8499 11.5001L16.8309 8.3141C17.1549 8.0581 17.6259 8.1091 17.8859 8.4321C18.1449 8.7561 18.0919 9.2271 17.7689 9.4861L15.1149 11.6091L17.8599 14.6971C18.1359 15.0071 18.1079 15.4811 17.7979 15.7561Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 12 — broken style variants.
+class _EmailEmail12Broken {
+  const _EmailEmail12Broken();
+
+  /// email 12 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 20.1004H7.58173C4.84476 20.1004 3 17.8499 3 15.0876V8.90635C3 6.14116 4.84476 3.89359 7.58173 3.90041H16.4183C19.1552 3.89359 21 6.14116 21 8.90635V15.0876C21 17.8499 19.1552 20.1004 16.4183 20.1004H15.025" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3046 8.91016L13.3057 12.1618C12.5526 12.7602 11.4853 12.7602 10.7322 12.1618L6.69922 8.91016" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.96256 11.543L6.69531 15.0914M17.3056 15.0919L14.0743 11.5434" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 12 — twoTone style variants.
+class _EmailEmail12Twotone {
+  const _EmailEmail12Twotone();
+
+  /// email 12 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 12',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 15.0944C21.5 17.8596 19.6552 20.1072 16.9183 20.1004H8.08173C5.34476 20.1072 3.5 17.8596 3.5 15.0944V8.91315C3.5 6.15088 5.34476 3.90039 8.08173 3.90039H16.9183C19.6552 3.90039 21.5 6.15088 21.5 8.91315V15.0944Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.8046 8.91016L13.8057 12.1618C13.0526 12.7602 11.9853 12.7602 11.2322 12.1618L7.19922 8.91016" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.4626 11.542L7.19531 15.0904M17.8056 15.0909L14.5743 11.5425" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 12 — bold style variants.
+class _EmailEmail12Bold {
+  const _EmailEmail12Bold();
+
+  /// email 12 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.798 15.7564C17.655 15.8834 17.478 15.9454 17.3 15.9454C17.094 15.9454 16.888 15.8604 16.739 15.6944L13.942 12.5474L13.769 12.6864C13.225 13.0934 12.607 13.2964 11.993 13.2964C11.384 13.2964 10.778 13.0974 10.249 12.6994L10.108 12.5874L7.252 15.7024C7.105 15.8634 6.902 15.9454 6.699 15.9454C6.518 15.9454 6.336 15.8804 6.193 15.7484C5.887 15.4694 5.866 14.9944 6.147 14.6894L8.934 11.6484L6.23 9.48639C5.907 9.22739 5.855 8.75639 6.113 8.43239C6.374 8.10939 6.845 8.05839 7.168 8.31439L11.168 11.5144C11.68 11.8994 12.316 11.8994 12.85 11.5004L16.831 8.31439C17.155 8.05839 17.626 8.10939 17.886 8.43239C18.145 8.75639 18.092 9.22739 17.769 9.48639L15.115 11.6094L17.86 14.6974C18.136 15.0074 18.108 15.4814 17.798 15.7564ZM16.4 3.40039H7.6C4.645 3.40039 2.5 5.71439 2.5 8.90039V15.1004C2.5 18.2354 4.692 20.6004 7.6 20.6004H16.4C19.355 20.6004 21.5 18.2864 21.5 15.1004V8.90039C21.5 5.76539 19.307 3.40039 16.4 3.40039Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 12 — light style variants.
+class _EmailEmail12Light {
+  const _EmailEmail12Light();
+
+  /// email 12 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 15.0944C21 17.8596 19.1552 20.1072 16.4183 20.1004H7.58173C4.84476 20.1072 3 17.8596 3 15.0944V8.91315C3 6.15088 4.84476 3.90039 7.58173 3.90039H16.4183C19.1552 3.90039 21 6.15088 21 8.91315V15.0944Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3046 8.91016L13.3057 12.1618C12.5526 12.7602 11.4853 12.7602 10.7322 12.1618L6.69922 8.91016" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.96256 11.542L6.69531 15.0904M17.3056 15.0909L14.0743 11.5425" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 13 icon with style variants.
+class _EmailEmail13Icon {
+  const _EmailEmail13Icon();
+
+  /// broken style
+  _EmailEmail13Broken get broken => const _EmailEmail13Broken();
+}
+
+/// email 13 — broken style variants.
+class _EmailEmail13Broken {
+  const _EmailEmail13Broken();
+
+  /// email 13 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 13',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 20.6004H7.58173C4.84476 20.6072 3 18.3596 3 15.5944V9.41315C3 6.65088 4.84476 4.40039 7.58173 4.40039H16.4183C19.1552 4.40039 21 6.65088 21 9.41315V15.5944C21 18.3596 19.1552 20.6072 16.4183 20.6004H15.2175" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.5876 7.38086L14.1184 12.6412C12.9002 13.6092 11.1735 13.6092 9.95518 12.6412L3.43091 7.38086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 14 icon with style variants.
+class _EmailEmail14Icon {
+  const _EmailEmail14Icon();
+
+  /// broken style
+  _EmailEmail14Broken get broken => const _EmailEmail14Broken();
+}
+
+/// email 14 — broken style variants.
+class _EmailEmail14Broken {
+  const _EmailEmail14Broken();
+
+  /// email 14 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 14',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 20.1004H7.58173C4.84476 20.1072 3 17.8596 3 15.0944V8.91315C3 6.15088 4.84476 3.90039 7.58173 3.90039H16.4183C19.1552 3.90039 21 6.15088 21 8.91315V15.0944C21 17.8596 19.1552 20.1072 16.4183 20.1004H15.5836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3124 9.16602L13.3135 12.4177C12.5604 13.0161 11.4931 13.0161 10.74 12.4177L6.70703 9.16602" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 15 icon with style variants.
+class _EmailEmail15Icon {
+  const _EmailEmail15Icon();
+
+  /// broken style
+  _EmailEmail15Broken get broken => const _EmailEmail15Broken();
+}
+
+/// email 15 — broken style variants.
+class _EmailEmail15Broken {
+  const _EmailEmail15Broken();
+
+  /// email 15 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 15',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 20.6004H7.58173C4.84476 20.6072 3 18.3596 3 15.5944V9.41315C3 6.65088 4.84476 4.40039 7.58173 4.40039H16.4183C19.1552 4.40039 21 6.65088 21 9.41315V15.5944C21 18.3596 19.1552 20.6072 16.4183 20.6004H15.2175" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.5876 7.38086L14.1184 12.6412C12.9002 13.6092 11.1735 13.6092 9.95518 12.6412L3.43091 7.38086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 16 icon with style variants.
+class _EmailEmail16Icon {
+  const _EmailEmail16Icon();
+
+  /// outline style
+  _EmailEmail16Outline get outline => const _EmailEmail16Outline();
+}
+
+/// email 16 — outline style variants.
+class _EmailEmail16Outline {
+  const _EmailEmail16Outline();
+
+  /// email 16 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 16',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.84707 6.40946C3.10706 6.08701 3.57923 6.03636 3.90168 6.29635L10.4238 11.5549C11.3677 12.3035 12.7045 12.3038 13.6488 11.5558L20.1145 6.29831C20.4359 6.03699 20.9082 6.08567 21.1696 6.40705C21.4309 6.72842 21.3822 7.20079 21.0608 7.46212L14.5851 12.7278C13.0936 13.9129 10.9801 13.9128 9.48863 12.7278L9.48445 12.7244L2.96018 7.46407C2.63773 7.20409 2.58708 6.73192 2.84707 6.40946Z" fill="black"/> <path d="M16.431 20.8499H7.56701C6.89159 20.8593 6.22114 20.733 5.59539 20.4787C4.96963 20.2243 4.40129 19.8469 3.92401 19.3689C3.37586 18.8018 2.94565 18.1316 2.65831 17.3971C2.37096 16.6626 2.23218 15.8784 2.25001 15.0899V8.9129C2.20606 8.18075 2.31067 7.44727 2.55756 6.7566C2.80445 6.06593 3.1885 5.43235 3.68662 4.89396C4.18474 4.35558 4.78662 3.92353 5.45606 3.62381C6.1255 3.32408 6.84865 3.16288 7.58201 3.1499H16.418C17.1514 3.16288 17.8745 3.32408 18.544 3.62381C19.2134 3.92353 19.8153 4.35558 20.3134 4.89396C20.8115 5.43235 21.1956 6.06593 21.4424 6.7566C21.6893 7.44727 21.794 8.18075 21.75 8.9129V15.0899C21.7673 15.8777 21.6283 16.6612 21.3409 17.395C21.0536 18.1287 20.6237 18.7983 20.076 19.3649C19.5988 19.8438 19.0303 20.222 18.4041 20.4771C17.778 20.7322 17.107 20.859 16.431 20.8499ZM7.58001 19.3499H16.429C16.9081 19.3582 17.384 19.2702 17.8284 19.091C18.2728 18.9119 18.6767 18.6452 19.016 18.3069C19.4241 17.8788 19.7432 17.3741 19.955 16.8219C20.1668 16.2697 20.2671 15.6811 20.25 15.0899V8.9129C20.25 6.4429 18.639 4.6499 16.418 4.6499H7.58201C5.36101 4.6499 3.75001 6.4429 3.75001 8.9129V15.0899C3.73345 15.6804 3.83396 16.2683 4.04575 16.8198C4.25755 17.3712 4.57643 17.8753 4.98401 18.3029C5.32308 18.641 5.72661 18.9076 6.17066 19.0867C6.61471 19.2659 7.09024 19.354 7.56901 19.3459L7.58001 19.3499Z" fill="black"/> </svg> ',
+    category: 'Email',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email 17 icon with style variants.
+class _EmailEmail17Icon {
+  const _EmailEmail17Icon();
+
+  /// outline style
+  _EmailEmail17Outline get outline => const _EmailEmail17Outline();
+}
+
+/// email 17 — outline style variants.
+class _EmailEmail17Outline {
+  const _EmailEmail17Outline();
+
+  /// email 17 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email 17',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.431 20.8499H7.56701C6.89159 20.8593 6.22114 20.733 5.59539 20.4787C4.96963 20.2243 4.40129 19.8469 3.92401 19.3689C3.37586 18.8018 2.94565 18.1316 2.65831 17.3971C2.37096 16.6626 2.23218 15.8784 2.25001 15.0899V8.9129C2.20606 8.18075 2.31067 7.44727 2.55756 6.7566C2.80445 6.06593 3.1885 5.43235 3.68662 4.89396C4.18474 4.35558 4.78662 3.92353 5.45606 3.62381C6.1255 3.32408 6.84865 3.16288 7.58201 3.1499H16.418C17.1514 3.16288 17.8745 3.32408 18.544 3.62381C19.2134 3.92353 19.8153 4.35558 20.3134 4.89396C20.8115 5.43235 21.1956 6.06593 21.4424 6.7566C21.6893 7.44727 21.794 8.18075 21.75 8.9129V15.0899C21.7673 15.8777 21.6283 16.6612 21.3409 17.395C21.0536 18.1287 20.6237 18.7983 20.076 19.3649C19.5988 19.8438 19.0303 20.222 18.4041 20.4771C17.778 20.7322 17.107 20.859 16.431 20.8499ZM7.58001 19.3499H16.429C16.9081 19.3582 17.384 19.2702 17.8284 19.091C18.2728 18.9119 18.6767 18.6452 19.016 18.3069C19.4241 17.8788 19.7432 17.3741 19.955 16.8219C20.1668 16.2697 20.2671 15.6811 20.25 15.0899V8.9129C20.25 6.4429 18.639 4.6499 16.418 4.6499H7.58201C5.36101 4.6499 3.75001 6.4429 3.75001 8.9129V15.0899C3.73345 15.6804 3.83396 16.2683 4.04575 16.8198C4.25755 17.3712 4.57643 17.8753 4.98401 18.3029C5.32308 18.641 5.72661 18.9076 6.17066 19.0867C6.61471 19.2659 7.09024 19.354 7.56901 19.3459L7.58001 19.3499Z" fill="black"/> <path d="M12.0253 13.6188C11.3889 13.6185 10.7715 13.402 10.2743 13.0048L6.2363 9.74979C6.08142 9.62488 5.98249 9.44355 5.9613 9.2457C5.94011 9.04785 5.99839 8.84968 6.1233 8.69479C6.24822 8.53991 6.42955 8.44099 6.6274 8.4198C6.82525 8.39861 7.02342 8.45688 7.1783 8.58179L11.2113 11.8338C11.4435 12.0194 11.732 12.1206 12.0293 12.1206C12.3266 12.1206 12.6151 12.0194 12.8473 11.8338L16.8393 8.58779C16.9937 8.46221 17.1916 8.4031 17.3895 8.42344C17.5875 8.44379 17.7692 8.54194 17.8948 8.69629C18.0204 8.85065 18.0795 9.04857 18.0592 9.24652C18.0388 9.44446 17.9407 9.62621 17.7863 9.75179L13.7863 13.0038C13.2858 13.4021 12.665 13.6189 12.0253 13.6188Z" fill="black"/> </svg> ',
+    category: 'Email',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -391,6 +811,97 @@ class _EmailEmailRefreshLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'email refresh',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.2874 10.4351V8.82098C20.2874 6.16678 18.5156 4.00586 15.8867 4.00586H7.40065C4.77174 4.00586 3 6.16678 3 8.82098V14.7569C3 17.4121 4.77174 19.5721 7.40065 19.5643H11.5649" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3656 14.3267C15.4822 14.8618 14.8926 15.8319 14.8926 16.9401C14.8926 18.6262 16.2596 19.9932 17.9457 19.9932C19.6328 19.9932 20.9998 18.6262 20.9998 16.9401C20.9998 15.7463 20.3148 14.713 19.3175 14.2109" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.3184 15.9019V14.2119H20.9996" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7444 9.06348L12.9042 12.1866C12.1803 12.7607 11.1558 12.7607 10.4319 12.1866L6.55859 9.06348" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email refresh 1 icon with style variants.
+class _EmailEmailRefresh1Icon {
+  const _EmailEmailRefresh1Icon();
+
+  /// bold style
+  _EmailEmailRefresh1Bold get bold => const _EmailEmailRefresh1Bold();
+  /// bulk style
+  _EmailEmailRefresh1Bulk get bulk => const _EmailEmailRefresh1Bulk();
+  /// light style
+  _EmailEmailRefresh1Light get light => const _EmailEmailRefresh1Light();
+  /// twoTone style
+  _EmailEmailRefresh1Twotone get twoTone => const _EmailEmailRefresh1Twotone();
+  /// broken style
+  _EmailEmailRefresh1Broken get broken => const _EmailEmailRefresh1Broken();
+}
+
+/// email refresh 1 — bulk style variants.
+class _EmailEmailRefresh1Bulk {
+  const _EmailEmailRefresh1Bulk();
+
+  /// email refresh 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.775 2.625H6.975C4.075 2.625 1.875 5.025 1.875 8.125V14.325C1.875 15.925 2.475 17.425 3.475 18.425C4.375 19.325 5.575 19.825 6.975 19.825H12.8319C13.0441 19.825 13.1899 19.6102 13.1271 19.4074C12.9623 18.8752 12.875 18.3094 12.875 17.725C12.875 14.525 15.475 11.925 18.675 11.925C19.2954 11.925 19.8906 12.0199 20.4503 12.2047C20.6546 12.2721 20.875 12.1261 20.875 11.9109V8.125C20.775 5.025 18.575 2.625 15.775 2.625Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.075 9.02459L13.075 12.2246C12.575 12.6246 11.975 12.8246 11.275 12.8246C10.675 12.8246 10.075 12.6246 9.47499 12.2246L5.47499 8.92459C5.17499 8.62459 5.07499 8.22459 5.37499 7.82459C5.67499 7.42459 6.07499 7.42459 6.47499 7.72459L10.475 10.9246C10.975 11.3246 11.675 11.3246 12.075 10.9246L16.075 7.72459C16.375 7.42459 16.875 7.52459 17.175 7.82459C17.475 8.22459 17.375 8.72459 17.075 9.02459Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.9448 19.3946C19.5478 19.7916 18.9808 19.8746 18.5748 19.8746C17.3888 19.8746 16.4248 18.9106 16.4248 17.7246C16.4248 17.3106 16.0898 16.9746 15.6748 16.9746C15.2608 16.9746 14.9248 17.3106 14.9248 17.7246C14.9248 19.7376 16.5618 21.3746 18.5748 21.3746C19.5488 21.3746 20.4128 21.0476 21.0058 20.4556C21.2988 20.1626 21.2988 19.6876 21.0058 19.3946C20.7128 19.1016 20.2378 19.1016 19.9448 19.3946Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.475 14.0752C17.5 14.0752 16.637 14.4022 16.044 14.9952C15.751 15.2882 15.751 15.7622 16.044 16.0552C16.337 16.3482 16.812 16.3482 17.105 16.0552C17.502 15.6582 18.069 15.5752 18.475 15.5752C19.661 15.5752 20.625 16.5392 20.625 17.7242C20.625 18.1382 20.961 18.4742 21.375 18.4742C21.789 18.4742 22.125 18.1382 22.125 17.7242C22.125 15.7122 20.488 14.0752 18.475 14.0752Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email refresh 1 — broken style variants.
+class _EmailEmailRefresh1Broken {
+  const _EmailEmailRefresh1Broken();
+
+  /// email refresh 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.4765 19.5525H7.35502C4.75329 19.5593 3 17.4227 3 14.7947V8.91894C3 6.29289 4.75329 4.1543 7.35502 4.1543H8.06624" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.109 10.5175V8.91894C20.109 6.29289 18.3558 4.1543 15.754 4.1543H11.5547" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.6024 9.16016L12.802 12.2513C12.0849 12.8195 11.0711 12.8195 10.355 12.2513L6.52148 9.16016" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.0062 19.1124C19.4885 19.5697 18.8081 19.8468 18.0636 19.8468C16.4421 19.8468 15.127 18.5326 15.127 16.9102" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1211 14.7071C16.6387 14.2498 17.3192 13.9727 18.0636 13.9727C19.6852 13.9727 21.0003 15.2878 21.0003 16.9093" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email refresh 1 — twoTone style variants.
+class _EmailEmailRefresh1Twotone {
+  const _EmailEmailRefresh1Twotone();
+
+  /// email refresh 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email refresh 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.6087 10.5175V8.91894C20.6087 6.29289 18.8554 4.1543 16.2537 4.1543H7.85502C5.25329 4.1543 3.5 6.29289 3.5 8.91894V14.7947C3.5 17.4227 5.25329 19.5593 7.85502 19.5525H11.9765" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1024 9.16016L13.302 12.2513C12.5849 12.8195 11.5711 12.8195 10.855 12.2513L7.02148 9.16016" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.5062 19.1124C19.9885 19.5697 19.3081 19.8468 18.5636 19.8468C16.9421 19.8468 15.627 18.5326 15.627 16.9102" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.6211 14.7071C17.1387 14.2498 17.8192 13.9727 18.5636 13.9727C20.1852 13.9727 21.5003 15.2878 21.5003 16.9093" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email refresh 1 — bold style variants.
+class _EmailEmailRefresh1Bold {
+  const _EmailEmailRefresh1Bold();
+
+  /// email refresh 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.075 9.025L13.075 12.225C12.575 12.625 11.975 12.825 11.275 12.825C10.675 12.825 10.075 12.625 9.475 12.225L5.475 8.925C5.175 8.625 5.075 8.225 5.375 7.825C5.675 7.425 6.075 7.425 6.475 7.725L10.475 10.925C10.975 11.325 11.675 11.325 12.075 10.925L16.075 7.725C16.375 7.425 16.875 7.525 17.175 7.825C17.475 8.225 17.375 8.725 17.075 9.025ZM15.775 2.625H6.975C4.075 2.625 1.875 5.025 1.875 8.125V14.325C1.875 15.925 2.475 17.425 3.475 18.425C4.375 19.325 5.575 19.825 6.975 19.825H12.8319C13.0441 19.825 13.1899 19.6102 13.1271 19.4074C12.9623 18.8752 12.875 18.3094 12.875 17.725C12.875 14.525 15.475 11.925 18.675 11.925C19.2954 11.925 19.8906 12.0199 20.4503 12.2047C20.6546 12.2721 20.875 12.1261 20.875 11.9109V8.125C20.775 5.025 18.575 2.625 15.775 2.625Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.9448 19.3946C19.5478 19.7916 18.9808 19.8746 18.5748 19.8746C17.3888 19.8746 16.4248 18.9106 16.4248 17.7246C16.4248 17.3106 16.0898 16.9746 15.6748 16.9746C15.2608 16.9746 14.9248 17.3106 14.9248 17.7246C14.9248 19.7376 16.5618 21.3746 18.5748 21.3746C19.5488 21.3746 20.4128 21.0476 21.0058 20.4556C21.2988 20.1626 21.2988 19.6876 21.0058 19.3946C20.7128 19.1016 20.2378 19.1016 19.9448 19.3946Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.475 14.0752C17.5 14.0752 16.637 14.4022 16.044 14.9952C15.751 15.2882 15.751 15.7622 16.044 16.0552C16.337 16.3482 16.812 16.3482 17.105 16.0552C17.502 15.6582 18.069 15.5752 18.475 15.5752C19.661 15.5752 20.625 16.5392 20.625 17.7242C20.625 18.1382 20.961 18.4742 21.375 18.4742C21.789 18.4742 22.125 18.1382 22.125 17.7242C22.125 15.7122 20.488 14.0752 18.475 14.0752Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email refresh 1 — light style variants.
+class _EmailEmailRefresh1Light {
+  const _EmailEmailRefresh1Light();
+
+  /// email refresh 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.1087 10.5175V8.91894C20.1087 6.29289 18.3554 4.1543 15.7537 4.1543H7.35502C4.75329 4.1543 3 6.29289 3 8.91894V14.7947C3 17.4227 4.75329 19.5593 7.35502 19.5525H11.4765" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.6024 9.16016L12.802 12.2513C12.0849 12.8195 11.0711 12.8195 10.355 12.2513L6.52148 9.16016" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.0062 19.1124C19.4885 19.5697 18.8081 19.8468 18.0636 19.8468C16.4421 19.8468 15.127 18.5326 15.127 16.9102" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1211 14.7071C16.6387 14.2498 17.3192 13.9727 18.0636 13.9727C19.6852 13.9727 21.0003 15.2878 21.0003 16.9093" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Email',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -2001,6 +2512,97 @@ class _EmailEmailDocumentLight {
 
 }
 
+/// email document 1 icon with style variants.
+class _EmailEmailDocument1Icon {
+  const _EmailEmailDocument1Icon();
+
+  /// bold style
+  _EmailEmailDocument1Bold get bold => const _EmailEmailDocument1Bold();
+  /// light style
+  _EmailEmailDocument1Light get light => const _EmailEmailDocument1Light();
+  /// outline style
+  _EmailEmailDocument1Outline get outline => const _EmailEmailDocument1Outline();
+  /// twoTone style
+  _EmailEmailDocument1Twotone get twoTone => const _EmailEmailDocument1Twotone();
+  /// broken style
+  _EmailEmailDocument1Broken get broken => const _EmailEmailDocument1Broken();
+}
+
+/// email document 1 — broken style variants.
+class _EmailEmailDocument1Broken {
+  const _EmailEmailDocument1Broken();
+
+  /// email document 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email document 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.473 10.7695L13.0214 14.2596C12.3987 14.6585 11.6009 14.6585 10.9782 14.2596L5.52661 10.7695" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.46094 11.3366V5.42584C6.46094 4.11816 7.52051 3.05859 8.82818 3.05859H11.9967" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.165 3.05859C16.4727 3.05859 17.5235 4.11816 17.5323 5.41708L17.541 11.3366" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.64062 6.47656H14.3634M10.8758 9.65155H13.1283" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5177 5.21289C19.6378 5.68576 21 7.65408 21 10.0009V16.0489C21 18.7547 19.1932 20.9507 16.5146 20.942H11.9956" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.46378 5.21289C4.35341 5.68576 3 7.65408 3 10.0009V16.0489C3 18.7547 4.79805 20.9507 7.47665 20.942H8.29799" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email document 1 — twoTone style variants.
+class _EmailEmailDocument1Twotone {
+  const _EmailEmailDocument1Twotone();
+
+  /// email document 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email document 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.9727 10.7695L13.5212 14.2596C12.8985 14.6585 12.1006 14.6585 11.4779 14.2596L6.02637 10.7695" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.96094 11.3366V5.42584C6.96094 4.11816 8.02051 3.05859 9.32818 3.05859H15.6652C16.9728 3.05859 18.0236 4.11816 18.0324 5.41708L18.0412 11.3366" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.1406 6.47656H14.8634M11.3758 9.65155H13.6283" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.0177 5.21289C20.1378 5.68576 21.5 7.65408 21.5 10.0009V16.0489C21.5 18.7547 19.6932 20.9507 17.0146 20.942H7.97665C5.29805 20.9507 3.5 18.7547 3.5 16.0489V10.0009C3.5 7.65408 4.85341 5.68576 6.96378 5.21289" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email document 1 — outline style variants.
+class _EmailEmailDocument1Outline {
+  const _EmailEmailDocument1Outline();
+
+  /// email document 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email document 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0041 15.305C11.4985 15.3057 11.0032 15.1613 10.5771 14.889L5.12616 11.399C4.95854 11.2917 4.84039 11.1222 4.79773 10.9278C4.75506 10.7335 4.79134 10.5301 4.89862 10.3625C5.0059 10.1948 5.17543 10.0767 5.36981 10.034C5.56419 9.99139 5.76756 10.0277 5.93518 10.135L11.3862 13.626C11.5703 13.7435 11.7842 13.8059 12.0026 13.8059C12.2211 13.8059 12.435 13.7435 12.6191 13.626L18.0721 10.135C18.2398 10.0277 18.4431 9.99139 18.6375 10.034C18.7338 10.0552 18.8249 10.0951 18.9058 10.1514C18.9866 10.2078 19.0555 10.2795 19.1086 10.3625C19.1618 10.4455 19.198 10.5381 19.2153 10.6351C19.2326 10.7321 19.2307 10.8316 19.2096 10.9278C19.1885 11.0241 19.1486 11.1152 19.0922 11.1961C19.0359 11.2769 18.9642 11.3459 18.8812 11.399L13.4291 14.889C13.0038 15.1613 12.5092 15.3057 12.0041 15.305Z" fill="black"/> <path d="M17.5439 12.0876C17.3451 12.0876 17.1545 12.0087 17.0139 11.8683C16.8733 11.7278 16.7941 11.5373 16.7939 11.3386L16.7849 5.41957C16.7814 4.99242 16.6098 4.58384 16.3071 4.28244C16.0044 3.98104 15.595 3.81114 15.1678 3.80957H8.83087C8.40209 3.81036 7.99109 3.98112 7.68799 4.28441C7.38489 4.5877 7.2144 4.99879 7.21387 5.42757V11.3376C7.21387 11.5365 7.13485 11.7273 6.9942 11.8679C6.85355 12.0086 6.66278 12.0876 6.46387 12.0876C6.26495 12.0876 6.07419 12.0086 5.93353 11.8679C5.79288 11.7273 5.71387 11.5365 5.71387 11.3376V5.42757C5.71466 4.60105 6.04327 3.80858 6.62762 3.22404C7.21197 2.63951 8.00434 2.31063 8.83087 2.30957H15.1678C15.9907 2.31243 16.7793 2.63942 17.3628 3.21968C17.9462 3.79994 18.2775 4.58673 18.2849 5.40957L18.2939 11.3326C18.294 11.4311 18.2748 11.5286 18.2372 11.6197C18.1996 11.7107 18.1444 11.7935 18.0749 11.8632C18.0053 11.9329 17.9227 11.9883 17.8318 12.0261C17.7408 12.0639 17.6434 12.0834 17.5449 12.0836L17.5439 12.0876Z" fill="black"/> <path d="M13.1306 10.3986H10.8785C10.6796 10.3986 10.4889 10.3196 10.3482 10.179C10.2076 10.0383 10.1285 9.84755 10.1285 9.64864C10.1285 9.44972 10.2076 9.25895 10.3482 9.1183C10.4889 8.97765 10.6796 8.89864 10.8785 8.89864H13.1306C13.3295 8.89864 13.5202 8.97765 13.6609 9.1183C13.8015 9.25895 13.8806 9.44972 13.8806 9.64864C13.8806 9.84755 13.8015 10.0383 13.6609 10.179C13.5202 10.3196 13.3295 10.3986 13.1306 10.3986ZM14.3655 7.22363H9.64355C9.44464 7.22363 9.25387 7.14461 9.11322 7.00396C8.97257 6.86331 8.89355 6.67255 8.89355 6.47363C8.89355 6.27472 8.97257 6.08396 9.11322 5.94331C9.25387 5.80265 9.44464 5.72363 9.64355 5.72363H14.3655C14.5645 5.72363 14.7552 5.80265 14.8959 5.94331C15.0365 6.08396 15.1155 6.27472 15.1155 6.47363C15.1155 6.67255 15.0365 6.86331 14.8959 7.00396C14.7552 7.14461 14.5645 7.22363 14.3655 7.22363Z" fill="black"/> <path d="M7.46124 21.6881C6.80013 21.6974 6.14384 21.574 5.53131 21.3251C4.91877 21.0762 4.36247 20.7069 3.89526 20.2391C3.35775 19.6834 2.93584 19.0266 2.65399 18.3066C2.37213 17.5867 2.2359 16.818 2.25323 16.0451V9.99909C2.18478 8.75237 2.55112 7.52054 3.28973 6.51384C4.02834 5.50714 5.09343 4.78797 6.30322 4.47909C6.49736 4.43559 6.70086 4.471 6.86889 4.57752C7.03692 4.68404 7.15572 4.85295 7.19921 5.04709C7.24271 5.24123 7.20735 5.44469 7.10083 5.61272C6.9943 5.78076 6.82536 5.8996 6.63122 5.94309C5.75688 6.18277 4.99246 6.71773 4.46783 7.4571C3.9432 8.19647 3.69072 9.09466 3.75323 9.99909V16.0471C3.73686 16.6225 3.83445 17.1954 4.0404 17.7329C4.24635 18.2705 4.55659 18.7619 4.95324 19.1791C5.283 19.5068 5.6751 19.7652 6.10638 19.9388C6.53766 20.1125 6.99937 20.1979 7.46423 20.1901H16.5312C16.998 20.1981 17.4616 20.1124 17.8946 19.9381C18.3276 19.7637 18.7213 19.5043 19.0522 19.1751C19.4488 18.7587 19.7589 18.2679 19.9649 17.731C20.1709 17.1942 20.2685 16.6219 20.2523 16.0471V9.99909C20.3126 9.09192 20.0566 8.19188 19.5278 7.4523C18.999 6.71272 18.2302 6.17937 17.3522 5.94309C17.2561 5.92162 17.1651 5.88142 17.0845 5.8248C17.0039 5.76817 16.9353 5.69624 16.8825 5.61308C16.8297 5.52993 16.7939 5.43719 16.7769 5.34016C16.76 5.24314 16.7623 5.14372 16.7837 5.04759C16.8052 4.95146 16.8454 4.86051 16.902 4.77991C16.9587 4.69932 17.0306 4.63066 17.1138 4.57787C17.1969 4.52508 17.2896 4.48919 17.3867 4.47224C17.4837 4.45529 17.5831 4.45762 17.6793 4.47909C18.8918 4.78562 19.9603 5.50355 20.7024 6.51028C21.4446 7.51702 21.8142 8.75014 21.7482 9.99909V16.0471C21.7652 16.8195 21.6288 17.5875 21.3467 18.3068C21.0647 19.026 20.6427 19.6821 20.1052 20.2371C19.6368 20.7064 19.0789 21.0768 18.4647 21.3264C17.8504 21.576 17.1922 21.6997 16.5292 21.6901H7.45623L7.46124 21.6881Z" fill="black"/> </svg> ',
+    category: 'Email',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email document 1 — bold style variants.
+class _EmailEmailDocument1Bold {
+  const _EmailEmailDocument1Bold();
+
+  /// email document 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email document 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9 9.62461C13.9 10.0346 13.57 10.3746 13.15 10.3746H10.85C10.44 10.3746 10.1 10.0346 10.1 9.62461C10.1 9.21461 10.44 8.87461 10.85 8.87461H13.15C13.57 8.87461 13.9 9.21461 13.9 9.62461ZM9.64995 7.27461C9.23995 7.27461 8.89995 6.93461 8.89995 6.52461C8.89995 6.11461 9.23995 5.77461 9.64995 5.77461H14.35C14.77 5.77461 15.1 6.11461 15.1 6.52461C15.1 6.93461 14.77 7.27461 14.35 7.27461H9.64995ZM11.41 13.6946C11.77 13.9346 12.24 13.9346 12.59 13.7046L16.33 11.3246L16.7185 11.0737C16.7755 11.0369 16.81 10.9736 16.81 10.9057V4.12461C16.81 3.24461 16.03 2.47461 15.15 2.47461H8.84995C7.97995 2.47461 7.19995 3.24461 7.19995 4.12461V10.9045C7.19995 10.973 7.23508 11.0368 7.29302 11.0735L7.68995 11.3246L11.41 13.6946Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.5812 5.07284C18.4532 5.01211 18.31 5.10843 18.31 5.25007V9.84594C18.31 9.97668 18.4358 10.0716 18.5661 10.0824C18.7933 10.1013 19.009 10.2203 19.14 10.4241C19.36 10.7741 19.26 11.2341 18.91 11.4541L13.41 14.9541C12.99 15.2341 12.5 15.3741 12.01 15.3741C11.51 15.3741 11.01 15.2341 10.59 14.9441L5.1 11.4541C4.75 11.2341 4.65 10.7741 4.87 10.4241C5.00099 10.2203 5.21671 10.1013 5.44394 10.0824C5.57423 10.0716 5.7 9.97668 5.7 9.84594V5.25007C5.7 5.10843 5.55676 5.0121 5.42878 5.07282C3.64339 5.91983 2.5 7.79501 2.5 10.0241V16.1241C2.5 19.2041 4.65 21.5241 7.5 21.5241H16.5C19.36 21.5241 21.5 19.2041 21.5 16.1241V10.0241C21.5 7.79504 20.3657 5.91987 18.5812 5.07284Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email document 1 — light style variants.
+class _EmailEmailDocument1Light {
+  const _EmailEmailDocument1Light();
+
+  /// email document 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email document 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.4727 10.7695L13.0212 14.2596C12.3985 14.6585 11.6006 14.6585 10.9779 14.2596L5.52637 10.7695" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.46094 11.3366V5.42584C6.46094 4.11816 7.52051 3.05859 8.82818 3.05859H15.1652C16.4728 3.05859 17.5236 4.11816 17.5324 5.41708L17.5412 11.3366" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.64062 6.47656H14.3634M10.8758 9.65155H13.1283" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5177 5.21289C19.6378 5.68576 21 7.65408 21 10.0009V16.0489C21 18.7547 19.1932 20.9507 16.5146 20.942H7.47665C4.79805 20.9507 3 18.7547 3 16.0489V10.0009C3 7.65408 4.35341 5.68576 6.46378 5.21289" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// email search icon with style variants.
 class _EmailEmailSearchIcon {
   const _EmailEmailSearchIcon();
@@ -2227,8 +2829,6 @@ class _EmailEmailOpenIcon {
   _EmailEmailOpenBulk get bulk => const _EmailEmailOpenBulk();
   /// light style
   _EmailEmailOpenLight get light => const _EmailEmailOpenLight();
-  /// outline style
-  _EmailEmailOpenOutline get outline => const _EmailEmailOpenOutline();
   /// twoTone style
   _EmailEmailOpenTwotone get twoTone => const _EmailEmailOpenTwotone();
   /// broken style
@@ -2242,7 +2842,7 @@ class _EmailEmailOpenBulk {
   /// email open — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'email open',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.9 7.55L13.9 3.35C12.8 2.55 11.2 2.55 10.1 3.35L4.1 7.55C3.1 8.25 2.5 9.35 2.5 10.55V16.25C2.5 17.75 3 18.95 3.9 19.85C4.8 20.75 6.1 21.25 7.7 21.25H16.3C17.9 21.25 19.2 20.75 20.1 19.85C21 18.95 21.5 17.75 21.5 16.25V10.55C21.5 9.35 20.9 8.25 19.9 7.55Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.71 14.8498C14.68 14.8698 14.64 14.8998 14.6 14.9198C13.84 15.5498 12.99 15.8298 12.05 15.8398C12.04 15.8498 12.02 15.8498 12.01 15.8498H11.99C11.97 15.8498 11.96 15.8498 11.95 15.8398C11.01 15.8298 10.16 15.5498 9.39998 14.9198C9.35998 14.8998 9.31998 14.8698 9.28998 14.8498L3.98998 10.5498C3.87998 9.8698 4.04998 9.3698 4.50998 9.0498L10.21 13.6498C10.75 14.0898 11.38 14.3098 12 14.3198C12.62 14.3098 13.25 14.0898 13.79 13.6498L19.49 9.0498C19.88 9.4198 20.05 9.9198 20.01 10.5498L14.71 14.8498Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.04 7.56503L13.81 3.24503C13.79 3.23503 13.76 3.22503 13.74 3.20503C13.21 2.88503 12.61 2.71503 12 2.72503C11.39 2.71503 10.79 2.88503 10.26 3.20503C10.24 3.22503 10.21 3.23503 10.19 3.24503L3.96001 7.56503C3.00001 8.28503 2.45001 9.34503 2.45001 10.475V16.375C2.45001 19.395 4.40001 21.275 7.55001 21.275H16.45C19.6 21.275 21.55 19.395 21.55 16.375V10.475C21.55 9.34503 21.01 8.28503 20.04 7.56503Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.77 11.9147L13.77 15.1147C13.23 15.5147 12.61 15.7247 12 15.7247C11.39 15.7247 10.78 15.5247 10.25 15.1247L6.22999 11.9147C5.90999 11.6547 5.85999 11.1747 6.11999 10.8547C6.36999 10.5347 6.84999 10.4847 7.16999 10.7347L11.17 13.9347C11.68 14.3247 12.32 14.3247 12.85 13.9247L16.83 10.7347C17.16 10.4847 17.63 10.5347 17.89 10.8547C18.15 11.1747 18.09 11.6547 17.77 11.9147Z" fill="black"/> </svg>',
     category: 'Email',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -2257,7 +2857,7 @@ class _EmailEmailOpenBroken {
   /// email open — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'email open',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 20.761H7.58173C4.84476 20.7679 3 19.1352 3 16.37V10.5254C3 9.52321 3.48941 8.58429 4.31157 8.01218L10.4715 3.7204C11.3899 3.08018 12.6101 3.08018 13.5285 3.7204L19.6884 8.01218C20.5096 8.58429 21 9.52321 21 10.5254V16.37C21 19.1352 19.1552 20.7679 16.4183 20.761H15.4094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6201 9.04102L14.1216 14.3145C12.8976 15.2865 11.1609 15.2865 9.9281 14.3145L5.84106 11.0206" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 20.761H7.58173C4.84476 20.7679 3 19.1352 3 16.37V10.5254C3 9.52321 3.48941 8.58429 4.31157 8.01218L10.4715 3.7204C11.3899 3.08018 12.6101 3.08018 13.5285 3.7204L19.6884 8.01218C20.5096 8.58429 21 9.52321 21 10.5254V16.37C21 19.1352 19.1552 20.7679 16.4183 20.761H15.3099" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3027 11.3086L13.3038 14.5603C12.5507 15.1586 11.4833 15.1586 10.7302 14.5603L6.69727 11.3086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Email',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -2272,24 +2872,9 @@ class _EmailEmailOpenTwotone {
   /// email open — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'email open',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.5 10.5244C3.5 9.52223 3.98941 8.58331 4.81157 8.0112L10.9715 3.71942C11.8899 3.0792 13.1101 3.0792 14.0285 3.71942L20.1884 8.0112C21.0096 8.58331 21.5 9.52223 21.5 10.5244V16.369C21.5 19.1342 19.6552 20.7669 16.9183 20.7601H8.08173C5.34476 20.7669 3.5 19.1342 3.5 16.369V10.5244Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.88477 9.04102L10.428 14.3145C11.6608 15.2865 13.3975 15.2865 14.6215 14.3145L21.12 9.04102" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.5 10.5244C3.5 9.52223 3.98941 8.58331 4.81157 8.0112L10.9715 3.71942C11.8899 3.0792 13.1101 3.0792 14.0285 3.71942L20.1884 8.0112C21.0096 8.58331 21.5 9.52223 21.5 10.5244V16.369C21.5 19.1342 19.6552 20.7669 16.9183 20.7601H8.08173C5.34476 20.7669 3.5 19.1342 3.5 16.369V10.5244Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.8027 11.3086L13.8038 14.5603C13.0507 15.1586 11.9833 15.1586 11.2302 14.5603L7.19727 11.3086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Email',
     style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// email open — outline style variants.
-class _EmailEmailOpenOutline {
-  const _EmailEmailOpenOutline();
-
-  /// email open — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'email open',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.55754 21.5073C6.84211 21.5369 6.12796 21.4234 5.45692 21.1736C4.78588 20.9237 4.17143 20.5425 3.64954 20.0523C3.18156 19.5627 2.81653 18.9843 2.57606 18.3511C2.33559 17.718 2.22456 17.0431 2.24954 16.3663V10.5213C2.24946 9.90662 2.39801 9.30107 2.68253 8.75624C2.96705 8.21141 3.3791 7.74345 3.88354 7.39227L10.0425 3.10028C10.6174 2.7018 11.3001 2.48828 11.9995 2.48828C12.699 2.48828 13.3817 2.7018 13.9565 3.10028L20.1165 7.39328C20.6208 7.74436 21.0326 8.21217 21.317 8.75684C21.6013 9.3015 21.7497 9.90685 21.7495 10.5213V16.3663C21.7745 17.0431 21.6635 17.718 21.423 18.3511C21.1826 18.9843 20.8175 19.5627 20.3495 20.0523C19.8273 20.5427 19.2126 20.924 18.5412 21.1738C17.8698 21.4237 17.1553 21.537 16.4395 21.5073H7.55754ZM7.57754 20.0073H16.4335C16.9529 20.0344 17.4725 19.9583 17.9623 19.7832C18.452 19.6081 18.9021 19.3376 19.2865 18.9873C19.6133 18.6359 19.8666 18.2228 20.0316 17.7722C20.1967 17.3216 20.2701 16.8426 20.2475 16.3633V10.5183C20.2482 10.1452 20.1585 9.77745 19.9861 9.44656C19.8137 9.11568 19.5637 8.83147 19.2575 8.61827L13.0975 4.32527C12.7741 4.10213 12.3905 3.98264 11.9975 3.98264C11.6046 3.98264 11.221 4.10213 10.8975 4.32527L4.73754 8.61827C4.43135 8.83147 4.18136 9.11568 4.00895 9.44656C3.83654 9.77745 3.74685 10.1452 3.74754 10.5183V16.3633C3.72503 16.8426 3.79843 17.3216 3.96345 17.7722C4.12847 18.2228 4.38178 18.6359 4.70854 18.9873C5.49885 19.6823 6.52584 20.0474 7.57754 20.0073Z" fill="black"/> <path d="M12.0235 15.7944C11.0931 15.7937 10.1903 15.4787 9.46148 14.9004L2.91149 9.6224C2.75918 9.49679 2.66254 9.3162 2.64253 9.11979C2.62253 8.92338 2.68078 8.72701 2.80464 8.57327C2.92849 8.41953 3.10797 8.32083 3.30414 8.29858C3.50031 8.27633 3.69734 8.33231 3.85249 8.4544L10.3975 13.7274C10.8603 14.0956 11.4341 14.296 12.0255 14.296C12.6168 14.296 13.1907 14.0956 13.6535 13.7274L20.1455 8.46042C20.2218 8.39723 20.3099 8.34978 20.4046 8.32083C20.4993 8.29187 20.5989 8.28198 20.6975 8.29171C20.7961 8.30144 20.8917 8.33061 20.979 8.37753C21.0663 8.42445 21.1433 8.48818 21.2058 8.56506C21.2683 8.64194 21.3149 8.73045 21.343 8.82545C21.3711 8.92045 21.3801 9.02008 21.3695 9.11857C21.3588 9.21707 21.3288 9.31248 21.2811 9.3993C21.2334 9.48612 21.1689 9.56263 21.0915 9.6244L14.5915 14.8974C13.8618 15.4787 12.9564 15.7949 12.0235 15.7944Z" fill="black"/> </svg> ',
-    category: 'Email',
-    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -2302,7 +2887,7 @@ class _EmailEmailOpenBold {
   /// email open — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'email open',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.71 14.85C14.68 14.87 14.64 14.9 14.6 14.92C13.84 15.55 12.99 15.83 12.05 15.84C12.04 15.85 12.02 15.85 12.01 15.85H11.99C11.97 15.85 11.96 15.85 11.95 15.84C11.01 15.83 10.16 15.55 9.4 14.92C9.36 14.9 9.32 14.87 9.29 14.85L3.99 10.55C3.88 9.87 4.05 9.37 4.51 9.05L10.21 13.65C10.75 14.09 11.38 14.31 12 14.32C12.62 14.31 13.25 14.09 13.79 13.65L19.49 9.05C19.88 9.42 20.05 9.92 20.01 10.55L14.71 14.85ZM19.9 7.55L13.9 3.35C12.8 2.55 11.2 2.55 10.1 3.35L4.1 7.55C3.1 8.25 2.5 9.35 2.5 10.55V16.25C2.5 17.75 3 18.95 3.9 19.85C4.8 20.75 6.1 21.25 7.7 21.25H16.3C17.9 21.25 19.2 20.75 20.1 19.85C21 18.95 21.5 17.75 21.5 16.25V10.55C21.5 9.35 20.9 8.25 19.9 7.55Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.77 11.915L13.77 15.115C13.23 15.515 12.61 15.725 12 15.725C11.39 15.725 10.78 15.525 10.25 15.125L6.22995 11.915C5.90995 11.655 5.85995 11.175 6.11995 10.855C6.36995 10.535 6.84995 10.485 7.16995 10.735L11.17 13.935C11.68 14.325 12.32 14.325 12.85 13.925L16.83 10.735C17.16 10.485 17.63 10.535 17.89 10.855C18.15 11.175 18.09 11.655 17.77 11.915ZM20.04 7.56503L13.81 3.24503C13.79 3.23503 13.76 3.22503 13.74 3.20503C13.21 2.88503 12.61 2.71503 12 2.72503C11.39 2.71503 10.79 2.88503 10.26 3.20503C10.24 3.22503 10.21 3.23503 10.19 3.24503L3.95995 7.56503C2.99995 8.28503 2.44995 9.34503 2.44995 10.475V16.375C2.44995 19.395 4.39995 21.275 7.54995 21.275H16.45C19.6 21.275 21.55 19.395 21.55 16.375V10.475C21.55 9.34503 21.01 8.28503 20.04 7.56503Z" fill="black"/> </svg>',
     category: 'Email',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -2317,7 +2902,331 @@ class _EmailEmailOpenLight {
   /// email open — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'email open',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 10.5244C3 9.52223 3.48941 8.58331 4.31157 8.0112L10.4715 3.71942C11.3899 3.0792 12.6101 3.0792 13.5285 3.71942L19.6884 8.0112C20.5096 8.58331 21 9.52223 21 10.5244V16.369C21 19.1342 19.1552 20.7669 16.4183 20.7601H7.58173C4.84476 20.7669 3 19.1342 3 16.369V10.5244Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3027 11.3086L13.3038 14.5603C12.5507 15.1586 11.4833 15.1586 10.7302 14.5603L6.69727 11.3086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 1 icon with style variants.
+class _EmailEmailOpen1Icon {
+  const _EmailEmailOpen1Icon();
+
+  /// bold style
+  _EmailEmailOpen1Bold get bold => const _EmailEmailOpen1Bold();
+  /// bulk style
+  _EmailEmailOpen1Bulk get bulk => const _EmailEmailOpen1Bulk();
+  /// light style
+  _EmailEmailOpen1Light get light => const _EmailEmailOpen1Light();
+  /// outline style
+  _EmailEmailOpen1Outline get outline => const _EmailEmailOpen1Outline();
+  /// twoTone style
+  _EmailEmailOpen1Twotone get twoTone => const _EmailEmailOpen1Twotone();
+  /// broken style
+  _EmailEmailOpen1Broken get broken => const _EmailEmailOpen1Broken();
+}
+
+/// email open 1 — bulk style variants.
+class _EmailEmailOpen1Bulk {
+  const _EmailEmailOpen1Bulk();
+
+  /// email open 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.9 7.55L13.9 3.35C12.8 2.55 11.2 2.55 10.1 3.35L4.1 7.55C3.1 8.25 2.5 9.35 2.5 10.55V16.25C2.5 17.75 3 18.95 3.9 19.85C4.8 20.75 6.1 21.25 7.7 21.25H16.3C17.9 21.25 19.2 20.75 20.1 19.85C21 18.95 21.5 17.75 21.5 16.25V10.55C21.5 9.35 20.9 8.25 19.9 7.55Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.71 14.8498C14.68 14.8698 14.64 14.8998 14.6 14.9198C13.84 15.5498 12.99 15.8298 12.05 15.8398C12.04 15.8498 12.02 15.8498 12.01 15.8498H11.99C11.97 15.8498 11.96 15.8498 11.95 15.8398C11.01 15.8298 10.16 15.5498 9.39998 14.9198C9.35998 14.8998 9.31998 14.8698 9.28998 14.8498L3.98998 10.5498C3.87998 9.8698 4.04998 9.3698 4.50998 9.0498L10.21 13.6498C10.75 14.0898 11.38 14.3098 12 14.3198C12.62 14.3098 13.25 14.0898 13.79 13.6498L19.49 9.0498C19.88 9.4198 20.05 9.9198 20.01 10.5498L14.71 14.8498Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 1 — broken style variants.
+class _EmailEmailOpen1Broken {
+  const _EmailEmailOpen1Broken();
+
+  /// email open 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 20.761H7.58173C4.84476 20.7679 3 19.1352 3 16.37V10.5254C3 9.52321 3.48941 8.58429 4.31157 8.01218L10.4715 3.7204C11.3899 3.08018 12.6101 3.08018 13.5285 3.7204L19.6884 8.01218C20.5096 8.58429 21 9.52321 21 10.5254V16.37C21 19.1352 19.1552 20.7679 16.4183 20.761H15.4094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6201 9.04102L14.1216 14.3145C12.8976 15.2865 11.1609 15.2865 9.9281 14.3145L5.84106 11.0206" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 1 — twoTone style variants.
+class _EmailEmailOpen1Twotone {
+  const _EmailEmailOpen1Twotone();
+
+  /// email open 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.5 10.5244C3.5 9.52223 3.98941 8.58331 4.81157 8.0112L10.9715 3.71942C11.8899 3.0792 13.1101 3.0792 14.0285 3.71942L20.1884 8.0112C21.0096 8.58331 21.5 9.52223 21.5 10.5244V16.369C21.5 19.1342 19.6552 20.7669 16.9183 20.7601H8.08173C5.34476 20.7669 3.5 19.1342 3.5 16.369V10.5244Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.88477 9.04102L10.428 14.3145C11.6608 15.2865 13.3975 15.2865 14.6215 14.3145L21.12 9.04102" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 1 — outline style variants.
+class _EmailEmailOpen1Outline {
+  const _EmailEmailOpen1Outline();
+
+  /// email open 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.55754 21.5073C6.84211 21.5369 6.12796 21.4234 5.45692 21.1736C4.78588 20.9237 4.17143 20.5425 3.64954 20.0523C3.18156 19.5627 2.81653 18.9843 2.57606 18.3511C2.33559 17.718 2.22456 17.0431 2.24954 16.3663V10.5213C2.24946 9.90662 2.39801 9.30107 2.68253 8.75624C2.96705 8.21141 3.3791 7.74345 3.88354 7.39227L10.0425 3.10028C10.6174 2.7018 11.3001 2.48828 11.9995 2.48828C12.699 2.48828 13.3817 2.7018 13.9565 3.10028L20.1165 7.39328C20.6208 7.74436 21.0326 8.21217 21.317 8.75684C21.6013 9.3015 21.7497 9.90685 21.7495 10.5213V16.3663C21.7745 17.0431 21.6635 17.718 21.423 18.3511C21.1826 18.9843 20.8175 19.5627 20.3495 20.0523C19.8273 20.5427 19.2126 20.924 18.5412 21.1738C17.8698 21.4237 17.1553 21.537 16.4395 21.5073H7.55754ZM7.57754 20.0073H16.4335C16.9529 20.0344 17.4725 19.9583 17.9623 19.7832C18.452 19.6081 18.9021 19.3376 19.2865 18.9873C19.6133 18.6359 19.8666 18.2228 20.0316 17.7722C20.1967 17.3216 20.2701 16.8426 20.2475 16.3633V10.5183C20.2482 10.1452 20.1585 9.77745 19.9861 9.44656C19.8137 9.11568 19.5637 8.83147 19.2575 8.61827L13.0975 4.32527C12.7741 4.10213 12.3905 3.98264 11.9975 3.98264C11.6046 3.98264 11.221 4.10213 10.8975 4.32527L4.73754 8.61827C4.43135 8.83147 4.18136 9.11568 4.00895 9.44656C3.83654 9.77745 3.74685 10.1452 3.74754 10.5183V16.3633C3.72503 16.8426 3.79843 17.3216 3.96345 17.7722C4.12847 18.2228 4.38178 18.6359 4.70854 18.9873C5.49885 19.6823 6.52584 20.0474 7.57754 20.0073Z" fill="black"/> <path d="M12.0235 15.7944C11.0931 15.7937 10.1903 15.4787 9.46148 14.9004L2.91149 9.6224C2.75918 9.49679 2.66254 9.3162 2.64253 9.11979C2.62253 8.92338 2.68078 8.72701 2.80464 8.57327C2.92849 8.41953 3.10797 8.32083 3.30414 8.29858C3.50031 8.27633 3.69734 8.33231 3.85249 8.4544L10.3975 13.7274C10.8603 14.0956 11.4341 14.296 12.0255 14.296C12.6168 14.296 13.1907 14.0956 13.6535 13.7274L20.1455 8.46042C20.2218 8.39723 20.3099 8.34978 20.4046 8.32083C20.4993 8.29187 20.5989 8.28198 20.6975 8.29171C20.7961 8.30144 20.8917 8.33061 20.979 8.37753C21.0663 8.42445 21.1433 8.48818 21.2058 8.56506C21.2683 8.64194 21.3149 8.73045 21.343 8.82545C21.3711 8.92045 21.3801 9.02008 21.3695 9.11857C21.3588 9.21707 21.3288 9.31248 21.2811 9.3993C21.2334 9.48612 21.1689 9.56263 21.0915 9.6244L14.5915 14.8974C13.8618 15.4787 12.9564 15.7949 12.0235 15.7944Z" fill="black"/> </svg> ',
+    category: 'Email',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 1 — bold style variants.
+class _EmailEmailOpen1Bold {
+  const _EmailEmailOpen1Bold();
+
+  /// email open 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.71 14.85C14.68 14.87 14.64 14.9 14.6 14.92C13.84 15.55 12.99 15.83 12.05 15.84C12.04 15.85 12.02 15.85 12.01 15.85H11.99C11.97 15.85 11.96 15.85 11.95 15.84C11.01 15.83 10.16 15.55 9.4 14.92C9.36 14.9 9.32 14.87 9.29 14.85L3.99 10.55C3.88 9.87 4.05 9.37 4.51 9.05L10.21 13.65C10.75 14.09 11.38 14.31 12 14.32C12.62 14.31 13.25 14.09 13.79 13.65L19.49 9.05C19.88 9.42 20.05 9.92 20.01 10.55L14.71 14.85ZM19.9 7.55L13.9 3.35C12.8 2.55 11.2 2.55 10.1 3.35L4.1 7.55C3.1 8.25 2.5 9.35 2.5 10.55V16.25C2.5 17.75 3 18.95 3.9 19.85C4.8 20.75 6.1 21.25 7.7 21.25H16.3C17.9 21.25 19.2 20.75 20.1 19.85C21 18.95 21.5 17.75 21.5 16.25V10.55C21.5 9.35 20.9 8.25 19.9 7.55Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 1 — light style variants.
+class _EmailEmailOpen1Light {
+  const _EmailEmailOpen1Light();
+
+  /// email open 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 10.5244C3 9.52223 3.48941 8.58331 4.31157 8.0112L10.4715 3.71942C11.3899 3.0792 12.6101 3.0792 13.5285 3.71942L19.6884 8.0112C20.5096 8.58331 21 9.52223 21 10.5244V16.369C21 19.1342 19.1552 20.7669 16.4183 20.7601H7.58173C4.84476 20.7669 3 19.1342 3 16.369V10.5244Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.38477 9.04102L9.92801 14.3145C11.1608 15.2865 12.8975 15.2865 14.1215 14.3145L20.62 9.04102" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 2 icon with style variants.
+class _EmailEmailOpen2Icon {
+  const _EmailEmailOpen2Icon();
+
+  /// bold style
+  _EmailEmailOpen2Bold get bold => const _EmailEmailOpen2Bold();
+  /// bulk style
+  _EmailEmailOpen2Bulk get bulk => const _EmailEmailOpen2Bulk();
+  /// light style
+  _EmailEmailOpen2Light get light => const _EmailEmailOpen2Light();
+  /// outline style
+  _EmailEmailOpen2Outline get outline => const _EmailEmailOpen2Outline();
+  /// twoTone style
+  _EmailEmailOpen2Twotone get twoTone => const _EmailEmailOpen2Twotone();
+  /// broken style
+  _EmailEmailOpen2Broken get broken => const _EmailEmailOpen2Broken();
+}
+
+/// email open 2 — bulk style variants.
+class _EmailEmailOpen2Bulk {
+  const _EmailEmailOpen2Bulk();
+
+  /// email open 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.9 7.55L13.9 3.35C12.8 2.55 11.2 2.55 10.1 3.35L4.1 7.55C3.1 8.25 2.5 9.35 2.5 10.55V16.25C2.5 17.75 3 18.95 3.9 19.85C4.8 20.75 6.1 21.25 7.7 21.25H16.3C17.9 21.25 19.2 20.75 20.1 19.85C21 18.95 21.5 17.75 21.5 16.25V10.55C21.5 9.35 20.9 8.25 19.9 7.55Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6872 14.8656L14.71 14.85L20.01 10.55C20.05 9.92 19.88 9.42 19.49 9.05L17.48 10.66C17.08 9.33 15.93 8.5 14.31 8.5H9.68998C8.05998 8.5 6.90998 9.33 6.51998 10.67L4.50998 9.05C4.04998 9.37 3.87998 9.87 3.98998 10.55L9.28998 14.85L9.31276 14.8656C9.33886 14.8836 9.36942 14.9047 9.39998 14.92C10.16 15.55 11.01 15.83 11.95 15.84C11.96 15.85 11.97 15.85 11.99 15.85H12.01C12.02 15.85 12.04 15.85 12.05 15.84C12.99 15.83 13.84 15.55 14.6 14.92C14.6305 14.9047 14.6611 14.8836 14.6872 14.8656Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 2 — broken style variants.
+class _EmailEmailOpen2Broken {
+  const _EmailEmailOpen2Broken();
+
+  /// email open 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 20.761H7.58173C4.84476 20.7679 3 19.1352 3 16.37V10.5254C3 9.52321 3.48941 8.58429 4.31157 8.01218L10.4715 3.7204C11.3899 3.08018 12.6101 3.08018 13.5285 3.7204L19.6884 8.01218C20.5096 8.58429 21 9.52321 21 10.5254V16.37C21 19.1352 19.1552 20.7679 16.4183 20.761H15.695" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.38477 9.04102L9.92801 14.3145C11.1608 15.2865 12.8975 15.2865 14.1215 14.3145L20.62 9.04102" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.07617 12.0425C7.07617 10.4556 8.14255 9.53125 9.70417 9.53125H11.482" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2764 9.53125C15.8555 9.53125 16.9219 10.4556 16.9219 12.0425" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 2 — twoTone style variants.
+class _EmailEmailOpen2Twotone {
+  const _EmailEmailOpen2Twotone();
+
+  /// email open 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.5 10.5244C3.5 9.52223 3.98941 8.58331 4.81157 8.0112L10.9715 3.71942C11.8899 3.0792 13.1101 3.0792 14.0285 3.71942L20.1884 8.0112C21.0096 8.58331 21.5 9.52223 21.5 10.5244V16.369C21.5 19.1342 19.6552 20.7669 16.9183 20.7601H8.08173C5.34476 20.7669 3.5 19.1342 3.5 16.369V10.5244Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.88477 9.04102L10.428 14.3145C11.6608 15.2865 13.3975 15.2865 14.6215 14.3145L21.12 9.04102" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.57617 12.0425C7.57617 10.4556 8.64255 9.53125 10.2042 9.53125H14.7762C16.3553 9.53125 17.4217 10.4556 17.4217 12.0425" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 2 — outline style variants.
+class _EmailEmailOpen2Outline {
+  const _EmailEmailOpen2Outline();
+
+  /// email open 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.55756 21.5069C6.84204 21.5366 6.12782 21.423 5.45675 21.173C4.78568 20.923 4.17127 20.5415 3.64956 20.0509C3.18151 19.5616 2.81645 18.9834 2.57597 18.3504C2.33549 17.7174 2.22449 17.0426 2.24956 16.3659V10.5209C2.24923 9.90624 2.39767 9.3006 2.68221 8.75572C2.96675 8.21085 3.37894 7.74294 3.88357 7.39194L10.0416 3.09995C10.617 2.70197 11.3 2.48877 11.9996 2.48877C12.6992 2.48877 13.3822 2.70197 13.9576 3.09995L20.1166 7.39294C20.6208 7.74408 21.0326 8.21191 21.3169 8.75656C21.6012 9.30121 21.7497 9.90653 21.7496 10.5209V16.3659C21.7746 17.0426 21.6636 17.7174 21.4232 18.3504C21.1827 18.9834 20.8176 19.5616 20.3496 20.0509C19.8232 20.5419 19.2046 20.9234 18.5296 21.1733C17.8546 21.4232 17.1367 21.5366 16.4176 21.5069H7.55756ZM7.57757 20.0069H16.4336C16.9529 20.034 17.4725 19.9578 17.9622 19.7827C18.4519 19.6076 18.9021 19.3371 19.2866 18.9869C19.6132 18.6355 19.8665 18.2224 20.0315 17.7718C20.1965 17.3212 20.27 16.8423 20.2476 16.3629V10.5179C20.2485 10.1448 20.1589 9.77697 19.9865 9.44604C19.8141 9.11512 19.5639 8.83096 19.2576 8.61794L13.0976 4.32394C12.7741 4.1008 12.3905 3.98129 11.9976 3.98129C11.6046 3.98129 11.221 4.1008 10.8976 4.32394L4.73856 8.61694C4.43194 8.82979 4.18158 9.11389 4.00896 9.44484C3.83635 9.77579 3.74665 10.1437 3.74757 10.5169V16.3619C3.72516 16.8413 3.79862 17.3202 3.96363 17.7708C4.12864 18.2214 4.3819 18.6345 4.70856 18.9859C5.49338 19.6904 6.52417 20.0572 7.57757 20.0069Z" fill="black"/> <path d="M12.0235 15.7939C11.0932 15.793 10.1904 15.478 9.46149 14.8999L2.91149 9.62191C2.75918 9.4963 2.66254 9.31571 2.64253 9.1193C2.62253 8.9229 2.68077 8.72652 2.80463 8.57278C2.92849 8.41904 3.10797 8.32034 3.30414 8.29809C3.50031 8.27584 3.69733 8.33182 3.85248 8.45391L10.3965 13.7269C10.8595 14.095 11.4335 14.2953 12.025 14.2953C12.6165 14.2953 13.1905 14.095 13.6535 13.7269L20.1445 8.45993C20.2208 8.39675 20.3089 8.34929 20.4036 8.32034C20.4983 8.29138 20.5979 8.28149 20.6965 8.29123C20.7951 8.30096 20.8907 8.33012 20.978 8.37704C21.0653 8.42396 21.1424 8.48769 21.2048 8.56457C21.2673 8.64145 21.3139 8.72996 21.342 8.82496C21.3701 8.91997 21.3791 9.01959 21.3685 9.11808C21.3578 9.21658 21.3278 9.31199 21.2801 9.39882C21.2324 9.48564 21.1679 9.56214 21.0905 9.62391L14.5905 14.8969C13.861 15.4778 12.956 15.7941 12.0235 15.7939Z" fill="black"/> <path d="M16.9208 12.787C16.7219 12.787 16.5311 12.708 16.3905 12.5673C16.2498 12.4267 16.1708 12.2359 16.1708 12.037C16.1873 11.7893 16.1483 11.541 16.0566 11.3103C15.9649 11.0796 15.8228 10.8722 15.6407 10.7035C15.4586 10.5347 15.2411 10.4087 15.0041 10.3348C14.7671 10.2608 14.5166 10.2407 14.2708 10.276H9.69883C9.45448 10.2428 9.20581 10.2645 8.97091 10.3396C8.73601 10.4146 8.52078 10.541 8.3409 10.7097C8.16102 10.8784 8.02102 11.085 7.93105 11.3146C7.84109 11.5442 7.80344 11.791 7.82084 12.037C7.82084 12.2359 7.74181 12.4267 7.60116 12.5673C7.46051 12.708 7.26975 12.787 7.07084 12.787C6.87193 12.787 6.68116 12.708 6.5405 12.5673C6.39985 12.4267 6.32084 12.2359 6.32084 12.037C6.30324 11.594 6.3795 11.1522 6.54464 10.7408C6.70978 10.3293 6.96005 9.95739 7.27903 9.64945C7.59801 9.34152 7.9785 9.10451 8.39553 8.95397C8.81256 8.80343 9.25671 8.74278 9.69883 8.77598H14.2708C14.7144 8.74081 15.1605 8.79994 15.5796 8.94947C15.9987 9.099 16.3814 9.33555 16.7025 9.64358C17.0237 9.9516 17.276 10.3241 17.4429 10.7366C17.6098 11.1491 17.6875 11.5923 17.6708 12.037C17.6708 12.2359 17.5918 12.4267 17.4512 12.5673C17.3105 12.708 17.1197 12.787 16.9208 12.787Z" fill="black"/> </svg> ',
+    category: 'Email',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 2 — bold style variants.
+class _EmailEmailOpen2Bold {
+  const _EmailEmailOpen2Bold();
+
+  /// email open 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.71 14.85C14.68 14.87 14.64 14.9 14.6 14.92C13.84 15.55 12.99 15.83 12.05 15.84C12.04 15.85 12.02 15.85 12.01 15.85H11.99C11.97 15.85 11.96 15.85 11.95 15.84C11.01 15.83 10.16 15.55 9.4 14.92C9.36 14.9 9.32 14.87 9.29 14.85L3.99 10.55C3.88 9.87 4.05 9.37 4.51 9.05L6.52 10.67C6.91 9.33 8.06 8.5 9.69 8.5H14.31C15.93 8.5 17.08 9.33 17.48 10.66L19.49 9.05C19.88 9.42 20.05 9.92 20.01 10.55L14.71 14.85ZM19.9 7.55L13.9 3.35C12.8 2.55 11.2 2.55 10.1 3.35L4.1 7.55C3.1 8.25 2.5 9.35 2.5 10.55V16.25C2.5 17.75 3 18.95 3.9 19.85C4.8 20.75 6.1 21.25 7.7 21.25H16.3C17.9 21.25 19.2 20.75 20.1 19.85C21 18.95 21.5 17.75 21.5 16.25V10.55C21.5 9.35 20.9 8.25 19.9 7.55Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.15 11.7404L13.79 13.6504C13.25 14.0904 12.62 14.3104 12 14.3204C11.38 14.3104 10.75 14.0904 10.21 13.6504L7.85004 11.7404C7.85004 11.5504 7.87004 11.3704 7.90004 11.2204C7.91004 11.2204 7.91004 11.2204 7.91004 11.2104C8.13004 10.2904 8.91004 10.0604 9.44004 10.0104C9.53004 10.0004 14.47 10.0004 14.55 10.0104C15.08 10.0604 15.87 10.2904 16.09 11.2104V11.2204C16.13 11.3704 16.15 11.5504 16.15 11.7404Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 2 — light style variants.
+class _EmailEmailOpen2Light {
+  const _EmailEmailOpen2Light();
+
+  /// email open 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 10.5244C3 9.52223 3.48941 8.58331 4.31157 8.0112L10.4715 3.71942C11.3899 3.0792 12.6101 3.0792 13.5285 3.71942L19.6884 8.0112C20.5096 8.58331 21 9.52223 21 10.5244V16.369C21 19.1342 19.1552 20.7669 16.4183 20.7601H7.58173C4.84476 20.7669 3 19.1342 3 16.369V10.5244Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.38477 9.04102L9.92801 14.3145C11.1608 15.2865 12.8975 15.2865 14.1215 14.3145L20.62 9.04102" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.07617 12.0425C7.07617 10.4556 8.14255 9.53125 9.70417 9.53125H14.2762C15.8553 9.53125 16.9217 10.4556 16.9217 12.0425" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 3 icon with style variants.
+class _EmailEmailOpen3Icon {
+  const _EmailEmailOpen3Icon();
+
+  /// bold style
+  _EmailEmailOpen3Bold get bold => const _EmailEmailOpen3Bold();
+  /// bulk style
+  _EmailEmailOpen3Bulk get bulk => const _EmailEmailOpen3Bulk();
+  /// light style
+  _EmailEmailOpen3Light get light => const _EmailEmailOpen3Light();
+  /// outline style
+  _EmailEmailOpen3Outline get outline => const _EmailEmailOpen3Outline();
+  /// twoTone style
+  _EmailEmailOpen3Twotone get twoTone => const _EmailEmailOpen3Twotone();
+  /// broken style
+  _EmailEmailOpen3Broken get broken => const _EmailEmailOpen3Broken();
+}
+
+/// email open 3 — bulk style variants.
+class _EmailEmailOpen3Bulk {
+  const _EmailEmailOpen3Bulk();
+
+  /// email open 3 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.0365 7.56377L13.8095 3.24577C13.7875 3.23277 13.7635 3.22377 13.7415 3.21077C13.2105 2.88277 12.6115 2.71877 12.0005 2.72477C11.3885 2.71877 10.7895 2.88277 10.2595 3.21077C10.2365 3.22377 10.2135 3.23277 10.1905 3.24577L3.96349 7.56377C2.99549 8.28877 2.44849 9.34577 2.44849 10.4748V16.3748C2.44849 19.3978 4.40249 21.2748 7.54949 21.2748H16.4505C19.5975 21.2748 21.5515 19.3978 21.5515 16.3748V10.4748C21.5515 9.34577 21.0045 8.28877 20.0365 7.56377Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5625 12.2658L13.5625 15.4648C13.0685 15.8358 12.5065 16.0208 11.9465 16.0208C11.3895 16.0208 10.8345 15.8378 10.3505 15.4738L6.43251 12.2618C6.31751 12.1668 6.24951 12.0248 6.24951 11.8748C6.24951 9.9308 7.54451 8.6748 9.54951 8.6748H14.4505C16.4555 8.6748 17.7495 9.9308 17.7495 11.8748C17.7495 12.0278 17.6805 12.1708 17.5625 12.2658Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 3 — broken style variants.
+class _EmailEmailOpen3Broken {
+  const _EmailEmailOpen3Broken();
+
+  /// email open 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 20.761H16.4183C19.1552 20.7679 21 19.1352 21 16.37V10.5254C21 9.52321 20.5106 8.58429 19.6884 8.01218L13.5285 3.7204C12.6101 3.08018 11.3899 3.08018 10.4715 3.7204L4.31157 8.01218C3.48941 8.58429 3 9.52321 3 10.5254V16.37C3 19.1352 4.84476 20.7679 7.58173 20.761H8.33014" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4586 9.17969C16.1623 9.17969 17.3085 10.177 17.3085 11.8904L13.3037 15.1421C12.5506 15.7404 11.4833 15.7404 10.7302 15.1421L6.69141 11.8904C6.69141 10.177 7.8366 9.17969 9.52276 9.17969H11.4408" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 3 — twoTone style variants.
+class _EmailEmailOpen3Twotone {
+  const _EmailEmailOpen3Twotone();
+
+  /// email open 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.5 10.5244C3.5 9.52223 3.98941 8.58331 4.81157 8.0112L10.9715 3.71942C11.8899 3.0792 13.1101 3.0792 14.0285 3.71942L20.1884 8.0112C21.0106 8.58331 21.5 9.52223 21.5 10.5244V16.369C21.5 19.1342 19.6552 20.7669 16.9183 20.7601H8.08173C5.34476 20.7669 3.5 19.1342 3.5 16.369V10.5244Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M7.19141 11.8914C7.19141 10.178 8.3366 9.18066 10.0228 9.18066H14.9586C16.6623 9.18066 17.8085 10.178 17.8085 11.8914L13.8037 15.143C13.0506 15.7414 11.9833 15.7414 11.2302 15.143L7.19141 11.8914Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 3 — outline style variants.
+class _EmailEmailOpen3Outline {
+  const _EmailEmailOpen3Outline();
+
+  /// email open 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.5585 21.5073C6.8429 21.5371 6.1286 21.4237 5.45737 21.1739C4.78613 20.924 4.17148 20.5427 3.6495 20.0523C3.18152 19.5628 2.81649 18.9843 2.57602 18.3512C2.33555 17.7181 2.22456 17.0431 2.24954 16.3663V10.5213C2.24932 9.90653 2.39793 9.30083 2.68265 8.75595C2.96736 8.21107 3.37974 7.74321 3.88455 7.39232L10.0415 3.10033C10.6167 2.70181 11.2998 2.48828 11.9995 2.48828C12.6993 2.48828 13.3824 2.70181 13.9575 3.10033L20.1155 7.39333C20.6201 7.74411 21.0323 8.21183 21.3169 8.75655C21.6014 9.30126 21.7499 9.90676 21.7495 10.5213V16.3663C21.7745 17.0431 21.6635 17.7181 21.423 18.3512C21.1825 18.9843 20.8175 19.5628 20.3495 20.0523C19.8272 20.5428 19.2122 20.9241 18.5407 21.174C17.8691 21.4238 17.1544 21.5371 16.4385 21.5073H7.56253H7.5585ZM7.57754 20.0073H16.4335C16.9529 20.0344 17.4725 19.9582 17.9622 19.7831C18.4519 19.608 18.902 19.3375 19.2865 18.9873C19.6135 18.6361 19.867 18.223 20.032 17.7724C20.197 17.3217 20.2703 16.8427 20.2475 16.3633V10.5183C20.2485 10.1452 20.1589 9.77735 19.9865 9.44643C19.814 9.1155 19.5639 8.83134 19.2575 8.61832L13.0985 4.32433C12.775 4.10158 12.3913 3.98232 11.9985 3.98232C11.6057 3.98232 11.2221 4.10158 10.8985 4.32433L4.74051 8.61732C4.43401 8.8303 4.18374 9.11441 4.01114 9.44533C3.83854 9.77625 3.74879 10.1441 3.74954 10.5173V16.3623C3.72674 16.8417 3.80002 17.3207 3.96506 17.7714C4.13009 18.222 4.38355 18.6351 4.71054 18.9863C5.09497 19.3358 5.54485 19.6057 6.03421 19.7802C6.52357 19.9548 7.04271 20.0306 7.56155 20.0033L7.57754 20.0073Z" fill="black"/> <path d="M12.0123 16.342C11.3764 16.3417 10.7594 16.1256 10.2623 15.729L6.21828 12.473C6.13088 12.4028 6.06032 12.3139 6.01186 12.2128C5.9634 12.1117 5.93825 12.0011 5.93825 11.889C5.91932 11.419 6.00003 10.9503 6.175 10.5137C6.34998 10.0771 6.61525 9.68243 6.95351 9.3556C7.29177 9.02876 7.69535 8.77716 8.13771 8.61729C8.58007 8.45741 9.05123 8.3929 9.52028 8.42797H14.4563C14.9265 8.39152 15.3991 8.45494 15.843 8.61408C16.287 8.77322 16.6923 9.02447 17.0322 9.35132C17.3722 9.67818 17.6392 10.0732 17.8157 10.5106C17.9922 10.9479 18.0742 11.4177 18.0563 11.889C18.0563 12.0006 18.0313 12.1108 17.9832 12.2115C17.9351 12.3122 17.8651 12.4008 17.7783 12.471L13.7783 15.723C13.2771 16.1241 12.6542 16.3424 12.0123 16.342ZM7.45925 11.547L11.1983 14.557C11.4307 14.7425 11.7193 14.8436 12.0167 14.8436C12.3142 14.8436 12.6028 14.7425 12.8353 14.557L16.5353 11.557C16.5086 11.3127 16.4331 11.0763 16.3135 10.8617C16.1938 10.6471 16.0324 10.4587 15.8386 10.3075C15.6449 10.1564 15.4229 10.0457 15.1856 9.98185C14.9484 9.91802 14.7007 9.90243 14.4573 9.93596H9.52126C9.27963 9.90328 9.0339 9.91927 8.79854 9.98299C8.56318 10.0467 8.34298 10.1569 8.15084 10.307C7.95869 10.4571 7.79853 10.6441 7.67977 10.8571C7.561 11.07 7.48599 11.3046 7.45925 11.547Z" fill="black"/> </svg> ',
+    category: 'Email',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 3 — bold style variants.
+class _EmailEmailOpen3Bold {
+  const _EmailEmailOpen3Bold();
+
+  /// email open 3 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5625 12.2658L13.5625 15.4648C13.0685 15.8358 12.5065 16.0208 11.9465 16.0208C11.3895 16.0208 10.8345 15.8378 10.3505 15.4738L6.43249 12.2618C6.31749 12.1668 6.24949 12.0248 6.24949 11.8748C6.24949 9.93077 7.54449 8.67477 9.54949 8.67477H14.4505C16.4555 8.67477 17.7495 9.93077 17.7495 11.8748C17.7495 12.0278 17.6805 12.1708 17.5625 12.2658ZM20.0365 7.56377L13.8095 3.24577C13.7875 3.23277 13.7635 3.22377 13.7415 3.21077C13.2105 2.88277 12.6115 2.71877 12.0005 2.72477C11.3885 2.71877 10.7895 2.88277 10.2595 3.21077C10.2365 3.22377 10.2135 3.23277 10.1905 3.24577L3.96349 7.56377C2.99549 8.28877 2.44849 9.34577 2.44849 10.4748V16.3748C2.44849 19.3978 4.40249 21.2748 7.54949 21.2748H16.4505C19.5975 21.2748 21.5515 19.3978 21.5515 16.3748V10.4748C21.5515 9.34577 21.0045 8.28877 20.0365 7.56377Z" fill="black"/> </svg>',
+    category: 'Email',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 3 — light style variants.
+class _EmailEmailOpen3Light {
+  const _EmailEmailOpen3Light();
+
+  /// email open 3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email open 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 10.5244C3 9.52223 3.48941 8.58331 4.31157 8.0112L10.4715 3.71942C11.3899 3.0792 12.6101 3.0792 13.5285 3.71942L19.6884 8.0112C20.5106 8.58331 21 9.52223 21 10.5244V16.369C21 19.1342 19.1552 20.7669 16.4183 20.7601H7.58173C4.84476 20.7669 3 19.1342 3 16.369V10.5244Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.69141 11.8914C6.69141 10.178 7.8366 9.18066 9.52276 9.18066H14.4586C16.1623 9.18066 17.3085 10.178 17.3085 11.8914L13.3037 15.143C12.5506 15.7414 11.4833 15.7414 10.7302 15.143L6.69141 11.8914Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Email',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -3405,17 +4314,40 @@ class _EmailEmailNotificationLight {
 
 }
 
-/// email open 1 icon with style variants.
-class _EmailEmailOpen1Icon {
-  const _EmailEmailOpen1Icon();
+/// email icon with style variants.
+class _EmailEmail18Icon {
+  const _EmailEmail18Icon();
 
   /// outline style
-  _EmailEmailOpen1Outline get outline => const _EmailEmailOpen1Outline();
+  _EmailEmail18Outline get outline => const _EmailEmail18Outline();
+}
+
+/// email — outline style variants.
+class _EmailEmail18Outline {
+  const _EmailEmail18Outline();
+
+  /// email — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'email',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.79312 6.50288C3.05311 6.18043 3.52527 6.12979 3.84773 6.38977L10.4052 11.6769C11.3558 12.4307 12.702 12.431 13.6529 11.6778L20.1537 6.39173C20.4751 6.13041 20.9475 6.17909 21.2088 6.50047C21.4701 6.82184 21.4214 7.29422 21.1001 7.55554L14.5892 12.8498C13.0911 14.0401 10.9682 14.0401 9.47012 12.8498L9.46593 12.8464L2.90623 7.5575C2.58377 7.29751 2.53313 6.82534 2.79312 6.50288Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.19335 10.7022C9.49807 10.9827 9.51765 11.4572 9.23708 11.7619L3.92284 17.5335C3.64227 17.8382 3.1678 17.8578 2.86308 17.5772C2.55836 17.2967 2.53879 16.8222 2.81936 16.5175L8.1336 10.7459C8.41417 10.4412 8.88864 10.4216 9.19335 10.7022ZM14.8682 10.7001C15.1745 10.4213 15.6489 10.4435 15.9277 10.7497L21.1834 16.5213C21.4623 16.8276 21.4401 17.3019 21.1339 17.5808C20.8276 17.8597 20.3532 17.8375 20.0744 17.5312L14.8187 11.7596C14.5398 11.4534 14.562 10.979 14.8682 10.7001Z" fill="black"/> <path d="M16.431 20.8504H7.56701C6.89159 20.8598 6.22114 20.7335 5.59539 20.4791C4.96963 20.2248 4.40129 19.8474 3.92401 19.3694C3.37586 18.8023 2.94565 18.1321 2.65831 17.3976C2.37096 16.6631 2.23218 15.8789 2.25001 15.0904V8.91339C2.20606 8.18124 2.31067 7.44776 2.55756 6.75709C2.80445 6.06642 3.1885 5.43283 3.68662 4.89445C4.18474 4.35607 4.78662 3.92402 5.45606 3.62429C6.1255 3.32457 6.84865 3.16337 7.58201 3.15039H16.418C17.1514 3.16337 17.8745 3.32457 18.544 3.62429C19.2134 3.92402 19.8153 4.35607 20.3134 4.89445C20.8115 5.43283 21.1956 6.06642 21.4424 6.75709C21.6893 7.44776 21.794 8.18124 21.75 8.91339V15.0904C21.7673 15.8782 21.6283 16.6617 21.3409 17.3955C21.0536 18.1292 20.6237 18.7988 20.076 19.3654C19.5988 19.8443 19.0303 20.2225 18.4041 20.4776C17.778 20.7327 17.107 20.8595 16.431 20.8504ZM7.58001 19.3504H16.429C16.9081 19.3587 17.384 19.2707 17.8284 19.0915C18.2728 18.9124 18.6767 18.6457 19.016 18.3074C19.4241 17.8793 19.7432 17.3746 19.955 16.8224C20.1668 16.2702 20.2671 15.6816 20.25 15.0904V8.91339C20.25 6.44339 18.639 4.65039 16.418 4.65039H7.58201C5.36101 4.65039 3.75001 6.44339 3.75001 8.91339V15.0904C3.73345 15.6809 3.83396 16.2688 4.04575 16.8203C4.25755 17.3717 4.57643 17.8758 4.98401 18.3034C5.32308 18.6415 5.72661 18.908 6.17066 19.0872C6.61471 19.2664 7.09024 19.3545 7.56901 19.3464L7.58001 19.3504Z" fill="black"/> </svg> ',
+    category: 'Email',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// email open 1 icon with style variants.
+class _EmailEmailOpen11Icon {
+  const _EmailEmailOpen11Icon();
+
+  /// outline style
+  _EmailEmailOpen11Outline get outline => const _EmailEmailOpen11Outline();
 }
 
 /// email open 1 — outline style variants.
-class _EmailEmailOpen1Outline {
-  const _EmailEmailOpen1Outline();
+class _EmailEmailOpen11Outline {
+  const _EmailEmailOpen11Outline();
 
   /// email open 1 — outline / regular
   IconfyIconData get regular => const IconfyIconData(

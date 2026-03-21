@@ -24,10 +24,18 @@ class _ComputerTvIcons {
   _ComputerTvKeyboardCloseDownIcon get keyboardCloseDown => const _ComputerTvKeyboardCloseDownIcon();
   /// cpu processor
   _ComputerTvCpuProcessorIcon get cpuProcessor => const _ComputerTvCpuProcessorIcon();
+  /// cpu processor 1
+  _ComputerTvCpuProcessor1Icon get cpuProcessor1 => const _ComputerTvCpuProcessor1Icon();
+  /// cpu processor 2
+  _ComputerTvCpuProcessor2Icon get cpuProcessor2 => const _ComputerTvCpuProcessor2Icon();
   /// monitor
   _ComputerTvMonitorIcon get monitor => const _ComputerTvMonitorIcon();
+  /// monitor 1
+  _ComputerTvMonitor1Icon get monitor1 => const _ComputerTvMonitor1Icon();
   /// monitor display curved
   _ComputerTvMonitorDisplayCurvedIcon get monitorDisplayCurved => const _ComputerTvMonitorDisplayCurvedIcon();
+  /// monitor display curved 1
+  _ComputerTvMonitorDisplayCurved1Icon get monitorDisplayCurved1 => const _ComputerTvMonitorDisplayCurved1Icon();
   /// mac laptop notebook wifi network
   _ComputerTvMacLaptopNotebookWifiNetworkIcon get macLaptopNotebookWifiNetwork => const _ComputerTvMacLaptopNotebookWifiNetworkIcon();
   /// tv stand
@@ -36,6 +44,10 @@ class _ComputerTvIcons {
   _ComputerTvLeftClickMouseIcon get leftClickMouse => const _ComputerTvLeftClickMouseIcon();
   /// keyboard
   _ComputerTvKeyboardIcon get keyboard => const _ComputerTvKeyboardIcon();
+  /// keyboard 1
+  _ComputerTvKeyboard1Icon get keyboard1 => const _ComputerTvKeyboard1Icon();
+  /// keyboard 2
+  _ComputerTvKeyboard2Icon get keyboard2 => const _ComputerTvKeyboard2Icon();
   /// Monitor and case
   _ComputerTvMonitorAndCaseIcon get monitorAndCase => const _ComputerTvMonitorAndCaseIcon();
   /// mac laptop notebook
@@ -60,12 +72,16 @@ class _ComputerTvIcons {
   _ComputerTvWebcamCameraCloseIcon get webcamCameraClose => const _ComputerTvWebcamCameraCloseIcon();
   /// monitor display remove
   _ComputerTvMonitorDisplayRemoveIcon get monitorDisplayRemove => const _ComputerTvMonitorDisplayRemoveIcon();
+  /// monitor display remove 1
+  _ComputerTvMonitorDisplayRemove1Icon get monitorDisplayRemove1 => const _ComputerTvMonitorDisplayRemove1Icon();
   /// cable keyborad
   _ComputerTvCableKeyboradIcon get cableKeyborad => const _ComputerTvCableKeyboradIcon();
   /// computer case
   _ComputerTvComputerCaseIcon get computerCase => const _ComputerTvComputerCaseIcon();
   /// keyboard open up
   _ComputerTvKeyboardOpenUpIcon get keyboardOpenUp => const _ComputerTvKeyboardOpenUpIcon();
+  /// old tv antenna
+  _ComputerTvOldTvAntenna1Icon get oldTvAntenna1 => const _ComputerTvOldTvAntenna1Icon();
   /// imac
   _ComputerTvImacIcon get imac => const _ComputerTvImacIcon();
   /// old tv antenna error
@@ -74,12 +90,24 @@ class _ComputerTvIcons {
   _ComputerTvRightClickMouseIcon get rightClickMouse => const _ComputerTvRightClickMouseIcon();
   /// cpu processor refresh
   _ComputerTvCpuProcessorRefreshIcon get cpuProcessorRefresh => const _ComputerTvCpuProcessorRefreshIcon();
+  /// cpu processor refresh 1
+  _ComputerTvCpuProcessorRefresh1Icon get cpuProcessorRefresh1 => const _ComputerTvCpuProcessorRefresh1Icon();
   /// webcam camera
   _ComputerTvWebcamCameraIcon get webcamCamera => const _ComputerTvWebcamCameraIcon();
   /// mouse
   _ComputerTvMouseIcon get mouse => const _ComputerTvMouseIcon();
+  /// mouse 1
+  _ComputerTvMouse1Icon get mouse1 => const _ComputerTvMouse1Icon();
+  /// mouse 2
+  _ComputerTvMouse2Icon get mouse2 => const _ComputerTvMouse2Icon();
+  /// mouse 3
+  _ComputerTvMouse3Icon get mouse3 => const _ComputerTvMouse3Icon();
+  /// mouse 4
+  _ComputerTvMouse4Icon get mouse4 => const _ComputerTvMouse4Icon();
   /// monitor display stand
   _ComputerTvMonitorDisplayStandIcon get monitorDisplayStand => const _ComputerTvMonitorDisplayStandIcon();
+  /// monitor display stand 1
+  _ComputerTvMonitorDisplayStand1Icon get monitorDisplayStand1 => const _ComputerTvMonitorDisplayStand1Icon();
   /// monitor display refresh
   _ComputerTvMonitorDisplayRefreshIcon get monitorDisplayRefresh => const _ComputerTvMonitorDisplayRefreshIcon();
   /// mac notebook
@@ -90,6 +118,8 @@ class _ComputerTvIcons {
   _ComputerTvMicrosoftMouseIcon get microsoftMouse => const _ComputerTvMicrosoftMouseIcon();
   /// mac laptop notebook charge
   _ComputerTvMacLaptopNotebookChargeIcon get macLaptopNotebookCharge => const _ComputerTvMacLaptopNotebookChargeIcon();
+  /// cpu processor
+  _ComputerTvCpuProcessor3Icon get cpuProcessor3 => const _ComputerTvCpuProcessor3Icon();
 }
 
 /// monitor display icon with style variants.
@@ -441,7 +471,7 @@ class _ComputerTvOldTvAntennaBulk {
   /// Old tv antenna — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Old tv antenna',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.63 6.90869H16.98C19.47 6.90869 21.5 8.93869 21.5 11.4387V16.8987C21.5 19.3887 19.47 21.4187 16.98 21.4187H7.03C4.54 21.4187 2.5 19.3887 2.5 16.8987V11.4387C2.5 8.93869 4.54 6.90869 7.03 6.90869H10.29H13.63Z" fill="black"/> <path d="M17.89 11.2883C17.89 11.6983 18.23 12.0283 18.64 12.0283C19.05 12.0283 19.39 11.6883 19.39 11.2783C19.39 10.8583 19.05 10.5283 18.64 10.5283C18.23 10.5283 17.89 10.8583 17.89 11.2783V11.2883Z" fill="black"/> <path d="M17.89 14.1783C17.89 14.5883 18.23 14.9183 18.64 14.9183C19.05 14.9183 19.39 14.5783 19.39 14.1683C19.39 13.7483 19.05 13.4183 18.64 13.4183C18.23 13.4183 17.89 13.7483 17.89 14.1683V14.1783Z" fill="black"/> <path d="M17.89 17.0683C17.89 17.4783 18.23 17.8083 18.64 17.8083C19.05 17.8083 19.39 17.4683 19.39 17.0583C19.39 16.6383 19.05 16.3083 18.64 16.3083C18.23 16.3083 17.89 16.6383 17.89 17.0583V17.0683Z" fill="black"/> <path d="M14.01 18.7783C14.99 18.7783 15.79 17.9783 15.79 16.9983V11.3383C15.79 10.3583 14.99 9.54834 14.01 9.54834H6.4C5.42 9.54834 4.62 10.3583 4.62 11.3383V16.9983C4.62 17.9783 5.42 18.7783 6.4 18.7783H14.01Z" fill="black"/> <path d="M17.051 3.88965L13.681 6.90565H10.345L7.05397 3.88365C6.74797 3.60365 6.72797 3.12865 7.00897 2.82365C7.28997 2.51765 7.76297 2.49865 8.06797 2.77865L12.004 6.39365L16.051 2.77165C16.359 2.49465 16.833 2.52265 17.11 2.83065C17.386 3.13965 17.359 3.61365 17.051 3.88965Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.051 3.88965L13.681 6.90565H10.345L7.05397 3.88365C6.74797 3.60365 6.72797 3.12865 7.00897 2.82365C7.28997 2.51765 7.76297 2.49865 8.06797 2.77865L12.004 6.39365L16.051 2.77165C16.359 2.49465 16.833 2.52265 17.11 2.83065C17.386 3.13965 17.359 3.61365 17.051 3.88965Z" fill="black"/> <path opacity="0.4" d="M2.5 11.4348C2.5 8.93776 4.532 6.90576 7.029 6.90576H16.972C19.469 6.90576 21.5 8.93776 21.5 11.4348V16.8908C21.5 19.3878 19.469 21.4198 16.972 21.4198H7.029C4.532 21.4198 2.5 19.3878 2.5 16.8908V11.4348Z" fill="black"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -456,7 +486,7 @@ class _ComputerTvOldTvAntennaBroken {
   /// Old tv antenna — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Old tv antenna',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5005 20.7939H7.52908C5.30389 20.7939 3.5 18.99 3.5 16.7648V11.3084C3.5 9.08319 5.30389 7.2793 7.52908 7.2793H17.4719C19.6961 7.2793 21.5 9.08319 21.5 11.3084V16.7648C21.5 18.99 19.6961 20.7939 17.4719 20.7939H15.7391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.4844 16.9358V16.9258" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.4844 11.1565V11.1465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.4844 14.0471V14.0371" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.50147 10.0938C7.4059 10.0938 6.51758 10.9821 6.51758 12.0776V15.9948C6.51758 17.0914 7.4059 17.9797 8.50147 17.9797H13.7691C14.8647 17.9797 15.753 17.0914 15.753 15.9948V12.0776C15.753 10.9821 14.8647 10.0938 13.7691 10.0938H11.7127" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9961 3.20703L12.4436 7.28184L8.00586 3.20703" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5005 20.7939H7.52908C5.30389 20.7939 3.5 18.99 3.5 16.7648V11.3084C3.5 9.08319 5.30389 7.2793 7.52908 7.2793H17.4719C19.6961 7.2793 21.5 9.08319 21.5 11.3084V16.7648C21.5 18.99 19.6961 20.7939 17.4719 20.7939H15.9862" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0508 3.20508L12.4983 7.27989L8.06055 3.20508" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -471,7 +501,7 @@ class _ComputerTvOldTvAntennaTwotone {
   /// Old tv antenna — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Old tv antenna',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.9719 20.7939H7.02908C4.80389 20.7939 3 18.99 3 16.7648V11.3084C3 9.08319 4.80389 7.2793 7.02908 7.2793H16.9719C19.1961 7.2793 21 9.08319 21 11.3084V16.7648C21 18.99 19.1961 20.7939 16.9719 20.7939Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.9844 16.9368V16.9268" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.9844 11.1565V11.1465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.9844 14.0471V14.0371" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.2691 17.9797H8.00147C6.9059 17.9797 6.01758 17.0914 6.01758 15.9958V12.0786C6.01758 10.9821 6.9059 10.0938 8.00147 10.0938H13.2691C14.3647 10.0938 15.253 10.9821 15.253 12.0786V15.9958C15.253 17.0914 14.3647 17.9797 13.2691 17.9797Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.4961 3.20605L11.9436 7.28087L7.50586 3.20605" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.02908 20.7944H16.9719C19.1961 20.7944 21 18.9905 21 16.7653V11.3089C21 9.08368 19.1961 7.27979 16.9719 7.27979H7.02908C4.80389 7.27979 3 9.08368 3 11.3089V16.7653C3 18.9905 4.80389 20.7944 7.02908 20.7944Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.5508 3.20508L11.9983 7.27989L7.56055 3.20508" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Computer_&_TV',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -486,7 +516,7 @@ class _ComputerTvOldTvAntennaOutline {
   /// Old tv antenna — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Old tv antenna',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 11.3084C2.25 8.66897 4.38968 6.5293 7.02908 6.5293H16.9719C19.6104 6.5293 21.75 8.66909 21.75 11.3084V16.7648C21.75 19.4041 19.6104 21.5439 16.9719 21.5439H7.02908C4.38968 21.5439 2.25 19.4042 2.25 16.7648V11.3084ZM7.02908 8.0293C5.21811 8.0293 3.75 9.4974 3.75 11.3084V16.7648C3.75 18.5758 5.21811 20.0439 7.02908 20.0439H16.9719C18.7818 20.0439 20.25 18.5759 20.25 16.7648V11.3084C20.25 9.49728 18.7818 8.0293 16.9719 8.0293H7.02908Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9844 16.1768C18.3986 16.1768 18.7344 16.5125 18.7344 16.9268V16.9368C18.7344 17.351 18.3986 17.6868 17.9844 17.6868C17.5702 17.6868 17.2344 17.351 17.2344 16.9368V16.9268C17.2344 16.5125 17.5702 16.1768 17.9844 16.1768Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9844 10.3965C18.3986 10.3965 18.7344 10.7323 18.7344 11.1465V11.1565C18.7344 11.5707 18.3986 11.9065 17.9844 11.9065C17.5702 11.9065 17.2344 11.5707 17.2344 11.1565V11.1465C17.2344 10.7323 17.5702 10.3965 17.9844 10.3965Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9844 13.2871C18.3986 13.2871 18.7344 13.6229 18.7344 14.0371V14.0471C18.7344 14.4613 18.3986 14.7971 17.9844 14.7971C17.5702 14.7971 17.2344 14.4613 17.2344 14.0471V14.0371C17.2344 13.6229 17.5702 13.2871 17.9844 13.2871Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.26758 12.0786C5.26758 10.5681 6.49145 9.34375 8.00147 9.34375H13.2691C14.7792 9.34375 16.003 10.5681 16.003 12.0786V15.9958C16.003 17.5056 14.7789 18.7297 13.2691 18.7297H8.00147C6.49169 18.7297 5.26758 17.5056 5.26758 15.9958V12.0786ZM8.00147 10.8438C7.32036 10.8438 6.76758 11.396 6.76758 12.0786V15.9958C6.76758 16.6772 7.32012 17.2297 8.00147 17.2297H13.2691C13.9505 17.2297 14.503 16.6772 14.503 15.9958V12.0786C14.503 11.396 13.9503 10.8438 13.2691 10.8438H8.00147Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.055 2.70586C17.3312 3.0145 17.305 3.48865 16.9963 3.7649L12.4438 7.83971C12.1563 8.09702 11.7205 8.09425 11.4363 7.83331L6.9986 3.7585C6.6935 3.47835 6.67327 3.00391 6.95343 2.6988C7.23358 2.3937 7.70802 2.37347 8.01312 2.65362L11.95 6.26857L15.9959 2.64722C16.3046 2.37097 16.7787 2.39723 17.055 2.70586Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 11.3089C2.25 8.66946 4.38968 6.52979 7.02908 6.52979H16.9719C19.6104 6.52979 21.75 8.66958 21.75 11.3089V16.7653C21.75 19.4046 19.6104 21.5444 16.9719 21.5444H7.02908C4.38968 21.5444 2.25 19.4047 2.25 16.7653V11.3089ZM7.02908 8.02979C5.21811 8.02979 3.75 9.49789 3.75 11.3089V16.7653C3.75 18.5763 5.21811 20.0444 7.02908 20.0444H16.9719C18.7818 20.0444 20.25 18.5764 20.25 16.7653V11.3089C20.25 9.49777 18.7818 8.02979 16.9719 8.02979H7.02908Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1097 2.70489C17.3859 3.01353 17.3597 3.48767 17.051 3.76393L12.4985 7.83874C12.211 8.09605 11.7752 8.09328 11.491 7.83233L7.05329 3.75752C6.74819 3.47737 6.72796 3.00293 7.00811 2.69783C7.28826 2.39272 7.76271 2.3725 8.06781 2.65265L12.0047 6.26759L16.0506 2.64624C16.3593 2.36999 16.8334 2.39625 17.1097 2.70489Z" fill="black"/> </svg> ',
     category: 'Computer_&_TV',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -501,7 +531,7 @@ class _ComputerTvOldTvAntennaBold {
   /// Old tv antenna — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Old tv antenna',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.64 12.0286C18.23 12.0286 17.89 11.6986 17.89 11.2886V11.2786C17.89 10.8586 18.23 10.5286 18.64 10.5286C19.05 10.5286 19.39 10.8586 19.39 11.2786C19.39 11.6886 19.05 12.0286 18.64 12.0286ZM18.64 14.9186C18.23 14.9186 17.89 14.5886 17.89 14.1786V14.1686C17.89 13.7486 18.23 13.4186 18.64 13.4186C19.05 13.4186 19.39 13.7486 19.39 14.1686C19.39 14.5786 19.05 14.9186 18.64 14.9186ZM18.64 17.8086C18.23 17.8086 17.89 17.4786 17.89 17.0686V17.0586C17.89 16.6386 18.23 16.3086 18.64 16.3086C19.05 16.3086 19.39 16.6386 19.39 17.0586C19.39 17.4686 19.05 17.8086 18.64 17.8086ZM15.79 16.9986C15.79 17.9786 14.99 18.7786 14.01 18.7786H6.4C5.42 18.7786 4.62 17.9786 4.62 16.9986V11.3386C4.62 10.3586 5.42 9.54857 6.4 9.54857H14.01C14.99 9.54857 15.79 10.3586 15.79 11.3386V16.9986ZM16.98 6.90857H13.63L17 3.88857C17.31 3.61857 17.34 3.13857 17.06 2.83857C16.78 2.52857 16.31 2.49857 16 2.77857L11.95 6.39857L8.02 2.77857C7.71 2.49857 7.24 2.51857 6.96 2.82857C6.68 3.12857 6.7 3.60857 7 3.88857L10.29 6.90857H7.03C4.54 6.90857 2.5 8.93857 2.5 11.4386V16.8986C2.5 19.3886 4.54 21.4186 7.03 21.4186H16.98C19.47 21.4186 21.5 19.3886 21.5 16.8986V11.4386C21.5 8.93857 19.47 6.90857 16.98 6.90857Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.972 6.90565H13.681L17.051 3.88965C17.359 3.61365 17.386 3.13965 17.11 2.83065C16.833 2.52265 16.359 2.49465 16.051 2.77165L12.004 6.39365L8.068 2.77865C7.763 2.49865 7.29 2.51765 7.009 2.82365C6.728 3.12865 6.748 3.60365 7.054 3.88365L10.345 6.90565H7.029C4.532 6.90565 2.5 8.93765 2.5 11.4347V16.8907C2.5 19.3877 4.532 21.4197 7.029 21.4197H16.972C19.469 21.4197 21.5 19.3877 21.5 16.8907V11.4347C21.5 8.93765 19.469 6.90565 16.972 6.90565Z" fill="black"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -516,7 +546,7 @@ class _ComputerTvOldTvAntennaLight {
   /// Old tv antenna — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Old tv antenna',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.9719 20.7939H7.02908C4.80389 20.7939 3 18.99 3 16.7648V11.3084C3 9.08319 4.80389 7.2793 7.02908 7.2793H16.9719C19.1961 7.2793 21 9.08319 21 11.3084V16.7648C21 18.99 19.1961 20.7939 16.9719 20.7939Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9844 16.9358V16.9258" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9844 11.1565V11.1465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9844 14.0471V14.0371" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.2691 17.9797H8.00147C6.9059 17.9797 6.01758 17.0914 6.01758 15.9958V12.0786C6.01758 10.9821 6.9059 10.0938 8.00147 10.0938H13.2691C14.3647 10.0938 15.253 10.9821 15.253 12.0786V15.9958C15.253 17.0914 14.3647 17.9797 13.2691 17.9797Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4961 3.20703L11.9436 7.28184L7.50586 3.20703" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.02908 20.7939H16.9719C19.1961 20.7939 21 18.99 21 16.7648V11.3084C21 9.08319 19.1961 7.2793 16.9719 7.2793H7.02908C4.80389 7.2793 3 9.08319 3 11.3084V16.7648C3 18.99 4.80389 20.7939 7.02908 20.7939Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5508 3.20508L11.9983 7.27989L7.56055 3.20508" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -858,10 +888,6 @@ class _ComputerTvCpuProcessorIcon {
   _ComputerTvCpuProcessorBulk get bulk => const _ComputerTvCpuProcessorBulk();
   /// light style
   _ComputerTvCpuProcessorLight get light => const _ComputerTvCpuProcessorLight();
-  /// outline style
-  _ComputerTvCpuProcessorOutline get outline => const _ComputerTvCpuProcessorOutline();
-  /// twoTone style
-  _ComputerTvCpuProcessorTwotone get twoTone => const _ComputerTvCpuProcessorTwotone();
   /// broken style
   _ComputerTvCpuProcessorBroken get broken => const _ComputerTvCpuProcessorBroken();
 }
@@ -873,7 +899,7 @@ class _ComputerTvCpuProcessorBulk {
   /// cpu processor — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'cpu processor',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M8.51526 4.53467C6.30612 4.53467 4.51526 6.32553 4.51526 8.53467V15.4653C4.51526 17.6744 6.30612 19.4653 8.51526 19.4653H15.4846C17.6937 19.4653 19.4846 17.6744 19.4846 15.4653V8.53467C19.4846 6.32553 17.6937 4.53467 15.4846 4.53467H8.51526ZM15.6781 13.3188C15.6781 14.7027 14.74 15.6779 13.3932 15.6779H10.6068C9.26 15.6779 8.3219 14.7027 8.3219 13.3188V10.6809C8.3219 9.28774 9.26 8.32178 10.6068 8.32178H13.3932C14.74 8.32178 15.6781 9.28774 15.6781 10.6809V13.3188Z" fill="black"/> <path d="M9.61328 2.25293C10.0275 2.25293 10.3633 2.58872 10.3633 3.00293V4.53125H8.86328V3.00293C8.86328 2.58872 9.19907 2.25293 9.61328 2.25293Z" fill="black"/> <path d="M13.6372 3.00293V4.53125H15.1372V3.00293C15.1372 2.58872 14.8014 2.25293 14.3872 2.25293C13.973 2.25293 13.6372 2.58872 13.6372 3.00293Z" fill="black"/> <path d="M19.4845 10.3662V9.01824C19.4845 8.96736 19.4839 8.91668 19.4826 8.86621H20.9995C21.4137 8.86621 21.7495 9.202 21.7495 9.61621C21.7495 10.0304 21.4137 10.3662 20.9995 10.3662H19.4845Z" fill="black"/> <path d="M19.4845 14.9894C19.4845 15.0373 19.4839 15.085 19.4828 15.1325H20.9995C21.4137 15.1325 21.7495 14.7967 21.7495 14.3825C21.7495 13.9683 21.4137 13.6325 20.9995 13.6325H19.4845V14.9894Z" fill="black"/> <path d="M15.1372 19.4648V20.9966C15.1372 21.4108 14.8014 21.7466 14.3872 21.7466C13.973 21.7466 13.6372 21.4108 13.6372 20.9966V19.4648H15.1372Z" fill="black"/> <path d="M10.3633 19.4648H8.86328V20.9966C8.86328 21.4108 9.19907 21.7466 9.61328 21.7466C10.0275 21.7466 10.3633 21.4108 10.3633 20.9966V19.4648Z" fill="black"/> <path d="M4.50977 13.6335V14.9894C4.50977 15.0376 4.51035 15.0857 4.51151 15.1335H3C2.58579 15.1335 2.25 14.7977 2.25 14.3835C2.25 13.9693 2.58579 13.6335 3 13.6335H4.50977Z" fill="black"/> <path d="M4.50977 9.01824C4.50977 8.96768 4.51041 8.91733 4.51168 8.86719H3C2.58579 8.86719 2.25 9.20297 2.25 9.61719C2.25 10.0314 2.58579 10.3672 3 10.3672H4.50977V9.01824Z" fill="black"/> <path d="M10.6239 9.81299H13.3759C14.0789 9.81299 14.1849 10.372 14.1849 10.705V13.298C14.1849 13.629 14.0789 14.186 13.3759 14.186H10.6239C9.91787 14.186 9.81287 13.629 9.81287 13.298V10.705C9.81287 10.372 9.91787 9.81299 10.6239 9.81299Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M8.03125 4.03125C5.82211 4.03125 4.03125 5.82211 4.03125 8.03125V15.9748C4.03125 18.184 5.82211 19.9748 8.03125 19.9748H15.9652C18.1744 19.9748 19.9652 18.184 19.9652 15.9748V8.03125C19.9652 5.82211 18.1744 4.03125 15.9652 4.03125H8.03125ZM13.6699 16.3099C15.2699 16.3099 16.3099 15.3099 16.3099 13.7599V10.2399C16.3099 9.49994 16.0699 8.85994 15.6199 8.40994C15.1499 7.93994 14.4799 7.68994 13.6699 7.68994H10.3299C8.72994 7.68994 7.68994 8.68994 7.68994 10.2399V13.7299C7.68994 15.2999 8.72994 16.3099 10.3299 16.3099H13.6699Z" fill="black"/> <path d="M8.69922 3C8.69922 2.58579 8.36343 2.25 7.94922 2.25C7.53501 2.25 7.19922 2.58579 7.19922 3V4.18241C7.63733 4.07926 8.10552 4.0293 8.59488 4.0293H8.69922V3Z" fill="black"/> <path d="M3 7.2002H4.15569C4.07013 7.57869 4.02734 7.98295 4.02734 8.40891V8.7002H3C2.58579 8.7002 2.25 8.36441 2.25 7.9502C2.25 7.53598 2.58579 7.2002 3 7.2002Z" fill="black"/> <path d="M4.02734 11.2498H3C2.58579 11.2498 2.25 11.5856 2.25 11.9998C2.25 12.414 2.58579 12.7498 3 12.7498H4.02734V11.2498Z" fill="black"/> <path d="M3 15.2995H4.02734V15.5263C4.02734 15.9759 4.07369 16.4019 4.16642 16.7995H3C2.58579 16.7995 2.25 16.4637 2.25 16.0495C2.25 15.6353 2.58579 15.2995 3 15.2995Z" fill="black"/> <path d="M7.19922 19.8169V21.0002C7.19922 21.4144 7.53501 21.7502 7.94922 21.7502C8.36343 21.7502 8.69922 21.4144 8.69922 21.0002V19.9729H8.59488C8.10531 19.9729 7.63715 19.9219 7.19922 19.8169Z" fill="black"/> <path d="M11.2489 21.0002V19.9729H12.7489V21.0002C12.7489 21.4144 12.4131 21.7502 11.9989 21.7502C11.5846 21.7502 11.2489 21.4144 11.2489 21.0002Z" fill="black"/> <path d="M15.2985 19.9729V21.0002C15.2985 21.4144 15.6343 21.7502 16.0485 21.7502C16.4627 21.7502 16.7985 21.4144 16.7985 21.0002V19.8198C16.3605 19.923 15.8923 19.9729 15.4025 19.9729H15.2985Z" fill="black"/> <path d="M21.0002 16.7995H19.8423C19.9281 16.4196 19.971 16.014 19.971 15.5867V15.2995H21.0002C21.4144 15.2995 21.7502 15.6353 21.7502 16.0495C21.7502 16.4637 21.4144 16.7995 21.0002 16.7995Z" fill="black"/> <path d="M19.971 12.7498H21.0002C21.4144 12.7498 21.7502 12.414 21.7502 11.9998C21.7502 11.5856 21.4144 11.2498 21.0002 11.2498H19.971V12.7498Z" fill="black"/> <path d="M21.0002 8.7002H19.971L19.971 8.41095L19.971 8.40993C19.9721 7.98371 19.9304 7.57909 19.8458 7.2002H21.0002C21.4144 7.2002 21.7502 7.53598 21.7502 7.9502C21.7502 8.36441 21.4144 8.7002 21.0002 8.7002Z" fill="black"/> <path d="M16.7985 4.18007V3C16.7985 2.58579 16.4627 2.25 16.0485 2.25C15.6343 2.25 15.2985 2.58579 15.2985 3V4.0293H15.4101C15.897 4.0293 16.3627 4.07847 16.7985 4.18007Z" fill="black"/> <path d="M12.7489 3V4.0293H11.2489V3C11.2489 2.58579 11.5846 2.25 11.9989 2.25C12.4131 2.25 12.7489 2.58579 12.7489 3Z" fill="black"/> <path d="M10.3288 9.19482H13.6738C13.9518 9.19482 14.3308 9.24282 14.5598 9.47282C14.7248 9.63682 14.8068 9.89382 14.8058 10.2378V13.7618C14.8058 14.2118 14.6878 14.8078 13.6698 14.8078H10.3288C9.31185 14.8078 9.19385 14.1938 9.19385 13.7318V10.2378C9.19385 9.78982 9.31185 9.19482 10.3288 9.19482Z" fill="black"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -888,39 +914,9 @@ class _ComputerTvCpuProcessorBroken {
   /// cpu processor — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'cpu processor',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.124 9.0625C10.1657 9.0625 9.5625 9.7416 9.5625 10.7038V13.2966C9.5625 14.2559 10.1618 14.935 11.124 14.935H13.8764C14.8377 14.935 15.435 14.2559 15.435 13.2966V10.7038C15.435 9.7416 14.8377 9.0625 13.8764 9.0625" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.1133 20.9975V18.9766M14.8872 20.9975V18.9766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.52097 9.61719H3.5M5.52097 14.3835H3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.1133 5.02487V3.00391M14.8872 5.02487V3.00391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.4995 9.61719H19.4707M21.4995 14.3835H19.4707" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4727 9.60143V8.92234C19.4727 6.63768 18.055 5.02344 15.7694 5.02344H9.23162C6.95377 5.02344 5.52148 6.63768 5.52148 8.92234V11.8354" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4727 12.623V15.083C19.4727 17.3608 18.055 18.9741 15.7694 18.9741H9.23162C6.94696 18.9741 5.52148 17.3608 5.52148 15.083V14.4247" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.03516 9.68427V8.29961C5.03516 5.86328 6.55592 4.53711 8.99128 4.53711H12.5023" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9609 4.53711H16.013C18.4561 4.53711 19.9691 5.86328 19.9623 8.29961V9.54064" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4023 19.4652H16.005C18.4481 19.4652 19.9621 18.1322 19.9621 15.6958V11.998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4984 19.4647H8.99128C6.55592 19.4647 5.03516 18.1084 5.03516 15.6331V12.125" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5485 4.5373V3M12.4989 4.5373V3M8.44922 4.5373V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.44922 19.4629V21.0002M12.4989 19.4629V21.0002M16.5485 19.4629V21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.0373 7.94922H3.5M5.0373 11.9989H3.5M5.0373 16.0485H3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.9629 16.0485H21.5002M19.9629 11.9989H21.5002M19.9629 7.94922H21.5002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.829 8.44531C9.66823 8.44531 8.94336 9.07677 8.94336 10.2375V13.7325C8.94336 14.9117 9.66823 15.5578 10.829 15.5578H14.1702C15.3348 15.5578 16.0558 14.9224 16.0558 13.7617V10.2375C16.0597 9.07677 15.3378 8.44531 14.1741 8.44531" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// cpu processor — twoTone style variants.
-class _ComputerTvCpuProcessorTwotone {
-  const _ComputerTvCpuProcessorTwotone();
-
-  /// cpu processor — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'cpu processor',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.49153 4.53735H15.5135C17.9566 4.53735 19.4696 5.86352 19.4628 8.29986V15.6955C19.4628 18.1318 17.9489 19.4648 15.5057 19.4648H8.49153C6.05616 19.4648 4.5354 18.1084 4.5354 15.6332V8.29986C4.5354 5.86352 6.05616 4.53735 8.49153 4.53735Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.0485 4.5373V3M11.9989 4.5373V3M7.94922 4.5373V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.94922 19.4629V21.0002M11.9989 19.4629V21.0002M16.0485 19.4629V21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M4.5373 7.9502H3M4.5373 11.9998H3M4.5373 16.0495H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.4629 16.0495H21.0002M19.4629 11.9998H21.0002M19.4629 7.9502H21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.6741 8.44531H10.329C9.16823 8.44531 8.44336 9.07677 8.44336 10.2375V13.7325C8.44336 14.9117 9.16823 15.5578 10.329 15.5578H13.6702C14.8348 15.5578 15.5558 14.9224 15.5558 13.7617V10.2375C15.5597 9.07677 14.8378 8.44531 13.6741 8.44531Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Computer_&_TV',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// cpu processor — outline style variants.
-class _ComputerTvCpuProcessorOutline {
-  const _ComputerTvCpuProcessorOutline();
-
-  /// cpu processor — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'cpu processor',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.08976 4.95553C5.95081 4.15552 7.14316 3.78735 8.49159 3.78735H15.5136C16.8652 3.78735 18.0583 4.15519 18.9182 4.95621C19.7861 5.76474 20.2165 6.92334 20.2129 8.3009C20.2129 8.30125 20.2129 8.3016 20.2129 8.30195L19.4629 8.29986H20.2129V8.3009V15.6955C20.2129 17.0731 19.7802 18.2326 18.912 19.0422C18.0516 19.8446 16.8585 20.2148 15.5058 20.2148H8.49159C7.13887 20.2148 5.94483 19.8366 5.08449 19.0217C4.21805 18.201 3.78546 17.0276 3.78546 15.6332V8.29986C3.78546 6.92118 4.22051 5.76317 5.08976 4.95553ZM6.11076 6.05443C5.61079 6.51896 5.28546 7.2422 5.28546 8.29986V15.6332C5.28546 16.714 5.61325 17.4564 6.11603 17.9327C6.62492 18.4147 7.40895 18.7148 8.49159 18.7148H15.5058C16.5962 18.7148 17.3816 18.4184 17.889 17.9452C18.3886 17.4793 18.7129 16.7542 18.7129 15.6955V8.29986L18.7129 8.29776C18.7158 7.23945 18.3932 6.51718 17.8957 6.05375C17.39 5.5826 16.6051 5.28735 15.5136 5.28735H8.49159C7.40465 5.28735 6.61893 5.58227 6.11076 6.05443Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.94922 2.25C8.36343 2.25 8.69922 2.58579 8.69922 3V4.5373C8.69922 4.95152 8.36343 5.2873 7.94922 5.2873C7.53501 5.2873 7.19922 4.95152 7.19922 4.5373V3C7.19922 2.58579 7.53501 2.25 7.94922 2.25ZM11.9989 2.25C12.4131 2.25 12.7489 2.58579 12.7489 3V4.5373C12.7489 4.95152 12.4131 5.2873 11.9989 5.2873C11.5846 5.2873 11.2489 4.95152 11.2489 4.5373V3C11.2489 2.58579 11.5846 2.25 11.9989 2.25ZM16.0485 2.25C16.4627 2.25 16.7985 2.58579 16.7985 3V4.5373C16.7985 4.95152 16.4627 5.2873 16.0485 5.2873C15.6343 5.2873 15.2985 4.95152 15.2985 4.5373V3C15.2985 2.58579 15.6343 2.25 16.0485 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.94922 18.7129C8.36343 18.7129 8.69922 19.0487 8.69922 19.4629V21.0002C8.69922 21.4144 8.36343 21.7502 7.94922 21.7502C7.53501 21.7502 7.19922 21.4144 7.19922 21.0002V19.4629C7.19922 19.0487 7.53501 18.7129 7.94922 18.7129ZM11.9989 18.7129C12.4131 18.7129 12.7489 19.0487 12.7489 19.4629V21.0002C12.7489 21.4144 12.4131 21.7502 11.9989 21.7502C11.5846 21.7502 11.2489 21.4144 11.2489 21.0002V19.4629C11.2489 19.0487 11.5846 18.7129 11.9989 18.7129ZM16.0485 18.7129C16.4627 18.7129 16.7985 19.0487 16.7985 19.4629V21.0002C16.7985 21.4144 16.4627 21.7502 16.0485 21.7502C15.6343 21.7502 15.2985 21.4144 15.2985 21.0002V19.4629C15.2985 19.0487 15.6343 18.7129 16.0485 18.7129Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 7.9502C2.25 7.53598 2.58579 7.2002 3 7.2002H4.5373C4.95152 7.2002 5.2873 7.53598 5.2873 7.9502C5.2873 8.36441 4.95152 8.7002 4.5373 8.7002H3C2.58579 8.7002 2.25 8.36441 2.25 7.9502ZM2.25 11.9998C2.25 11.5856 2.58579 11.2498 3 11.2498H4.5373C4.95152 11.2498 5.2873 11.5856 5.2873 11.9998C5.2873 12.414 4.95152 12.7498 4.5373 12.7498H3C2.58579 12.7498 2.25 12.414 2.25 11.9998ZM2.25 16.0495C2.25 15.6353 2.58579 15.2995 3 15.2995H4.5373C4.95152 15.2995 5.2873 15.6353 5.2873 16.0495C5.2873 16.4637 4.95152 16.7995 4.5373 16.7995H3C2.58579 16.7995 2.25 16.4637 2.25 16.0495Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7129 7.9502C18.7129 7.53598 19.0487 7.2002 19.4629 7.2002H21.0002C21.4144 7.2002 21.7502 7.53598 21.7502 7.9502C21.7502 8.36441 21.4144 8.7002 21.0002 8.7002H19.4629C19.0487 8.7002 18.7129 8.36441 18.7129 7.9502ZM18.7129 11.9998C18.7129 11.5856 19.0487 11.2498 19.4629 11.2498H21.0002C21.4144 11.2498 21.7502 11.5856 21.7502 11.9998C21.7502 12.414 21.4144 12.7498 21.0002 12.7498H19.4629C19.0487 12.7498 18.7129 12.414 18.7129 11.9998ZM18.7129 16.0495C18.7129 15.6353 19.0487 15.2995 19.4629 15.2995H21.0002C21.4144 15.2995 21.7502 15.6353 21.7502 16.0495C21.7502 16.4637 21.4144 16.7995 21.0002 16.7995H19.4629C19.0487 16.7995 18.7129 16.4637 18.7129 16.0495Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.44059 8.35651C8.94338 7.8897 9.61805 7.69531 10.329 7.69531H13.6741C14.3859 7.69531 15.0613 7.88941 15.5638 8.35717C16.0744 8.83248 16.308 9.49856 16.3058 10.2387C16.3058 10.2391 16.3058 10.2396 16.3058 10.2401L15.5558 10.2375H16.3058V10.2387V13.7617C16.3058 14.5014 16.0715 15.1676 15.5613 15.6434C15.059 16.1121 14.3837 16.3078 13.6702 16.3078H10.329C9.61369 16.3078 8.93733 16.1073 8.43527 15.632C7.92705 15.1509 7.69336 14.479 7.69336 13.7325V10.2375C7.69336 9.49654 7.92951 8.83101 8.44059 8.35651ZM9.46119 9.45577C9.31964 9.58719 9.19336 9.81778 9.19336 10.2375V13.7325C9.19336 14.1652 9.3221 14.406 9.46651 14.5427C9.61707 14.6852 9.88353 14.8078 10.329 14.8078H13.6702C14.1214 14.8078 14.3889 14.6858 14.5382 14.5466C14.6797 14.4146 14.8058 14.1827 14.8058 13.7617V10.235C14.8072 9.81493 14.6818 9.58543 14.5418 9.45511C14.3934 9.31694 14.1259 9.19531 13.6741 9.19531H10.329C9.87916 9.19531 9.61102 9.31666 9.46119 9.45577Z" fill="black"/> </svg> ',
-    category: 'Computer_&_TV',
-    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -933,7 +929,7 @@ class _ComputerTvCpuProcessorBold {
   /// cpu processor — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'cpu processor',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3759 9.81299H10.6239C9.9179 9.81299 9.8129 10.372 9.8129 10.705V13.298C9.8129 13.629 9.9179 14.186 10.6239 14.186H13.3759C14.0789 14.186 14.1849 13.629 14.1849 13.298V10.705C14.1849 10.372 14.0789 9.81299 13.3759 9.81299Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.68 13.3C15.68 14.7 14.74 15.69 13.38 15.69H10.62C9.26 15.69 8.31 14.7 8.31 13.3V10.71C8.31 9.3 9.26 8.31 10.62 8.31H13.38C14.74 8.31 15.68 9.3 15.68 10.71V13.3ZM21 13.63H19.47V10.37H21C21.41 10.37 21.75 10.03 21.75 9.62C21.75 9.2 21.41 8.87 21 8.87H19.47C19.44 6.27 17.76 4.52 15.27 4.52H15.14V3C15.14 2.59 14.8 2.25 14.39 2.25C13.97 2.25 13.64 2.59 13.64 3V4.52H10.36V3C10.36 2.59 10.03 2.25 9.61 2.25C9.2 2.25 8.86 2.59 8.86 3V4.52H8.73C6.23 4.52 4.55 6.27 4.53 8.87H3C2.59 8.87 2.25 9.2 2.25 9.62C2.25 10.03 2.59 10.37 3 10.37H4.52V13.63H3C2.59 13.63 2.25 13.97 2.25 14.38C2.25 14.8 2.59 15.13 3 15.13H4.53C4.55 17.73 6.23 19.48 8.73 19.48H8.86V21C8.86 21.41 9.2 21.75 9.61 21.75C10.03 21.75 10.36 21.41 10.36 21V19.48H13.64V21C13.64 21.41 13.97 21.75 14.39 21.75C14.8 21.75 15.14 21.41 15.14 21V19.48H15.27C17.77 19.48 19.45 17.73 19.47 15.13H21C21.41 15.13 21.75 14.8 21.75 14.38C21.75 13.97 21.41 13.63 21 13.63Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6739 9.19482H10.3289C9.31191 9.19482 9.19391 9.78982 9.19391 10.2378V13.7318C9.19391 14.1938 9.31191 14.8078 10.3289 14.8078H13.6699C14.6879 14.8078 14.8059 14.2118 14.8059 13.7618V10.2378C14.8069 9.89382 14.7249 9.63682 14.5599 9.47282C14.3309 9.24282 13.9519 9.19482 13.6739 9.19482Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.31 13.76C16.31 15.31 15.27 16.31 13.67 16.31H10.33C8.73 16.31 7.69 15.3 7.69 13.73V10.24C7.69 8.69 8.73 7.69 10.33 7.69H13.67C14.48 7.69 15.15 7.94 15.62 8.41C16.07 8.86 16.31 9.5 16.31 10.24V13.76ZM21 12.75C21.41 12.75 21.75 12.41 21.75 12C21.75 11.59 21.41 11.25 21 11.25H19.96V8.7H21C21.41 8.7 21.75 8.36 21.75 7.95C21.75 7.54 21.41 7.2 21 7.2H19.84C19.68 6.42 19.35 5.74 18.84 5.23C18.32 4.71 17.62 4.37 16.8 4.19V3C16.8 2.59 16.46 2.25 16.05 2.25C15.63 2.25 15.3 2.59 15.3 3V4.04H12.75V3C12.75 2.59 12.41 2.25 12 2.25C11.58 2.25 11.25 2.59 11.25 3V4.04H8.7V3C8.7 2.59 8.36 2.25 7.95 2.25C7.54 2.25 7.2 2.59 7.2 3V4.19C5.56 4.54 4.48 5.6 4.15 7.2H3C2.59 7.2 2.25 7.54 2.25 7.95C2.25 8.36 2.59 8.7 3 8.7H4.04V11.25H3C2.59 11.25 2.25 11.59 2.25 12C2.25 12.41 2.59 12.75 3 12.75H4.04V15.3H3C2.59 15.3 2.25 15.63 2.25 16.05C2.25 16.46 2.59 16.8 3 16.8H4.17C4.51 18.4 5.57 19.46 7.2 19.81V21C7.2 21.41 7.54 21.75 7.95 21.75C8.36 21.75 8.7 21.41 8.7 21V19.96H11.25V21C11.25 21.41 11.58 21.75 12 21.75C12.41 21.75 12.75 21.41 12.75 21V19.96H15.3V21C15.3 21.41 15.63 21.75 16.05 21.75C16.46 21.75 16.8 21.41 16.8 21V19.82C18.44 19.46 19.52 18.4 19.84 16.8H21C21.41 16.8 21.75 16.46 21.75 16.05C21.75 15.63 21.41 15.3 21 15.3H19.96V12.75H21Z" fill="black"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -948,6 +944,222 @@ class _ComputerTvCpuProcessorLight {
   /// cpu processor — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'cpu processor',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.49128 4.53711H15.5133C17.9564 4.53711 19.4694 5.86328 19.4626 8.29961V15.6952C19.4626 18.1315 17.9486 19.4645 15.5055 19.4645H8.49128C6.05592 19.4645 4.53516 18.1082 4.53516 15.6329V8.29961C4.53516 5.86328 6.05592 4.53711 8.49128 4.53711Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0485 4.5373V3M11.9989 4.5373V3M7.94922 4.5373V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.94922 19.4629V21.0002M11.9989 19.4629V21.0002M16.0485 19.4629V21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.5373 7.94922H3M4.5373 11.9989H3M4.5373 16.0485H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4629 16.0485H21.0002M19.4629 11.9989H21.0002M19.4629 7.94922H21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6741 8.44531H10.329C9.16823 8.44531 8.44336 9.07677 8.44336 10.2375V13.7325C8.44336 14.9117 9.16823 15.5578 10.329 15.5578H13.6702C14.8348 15.5578 15.5558 14.9224 15.5558 13.7617V10.2375C15.5597 9.07677 14.8378 8.44531 13.6741 8.44531Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor 1 icon with style variants.
+class _ComputerTvCpuProcessor1Icon {
+  const _ComputerTvCpuProcessor1Icon();
+
+  /// bold style
+  _ComputerTvCpuProcessor1Bold get bold => const _ComputerTvCpuProcessor1Bold();
+  /// bulk style
+  _ComputerTvCpuProcessor1Bulk get bulk => const _ComputerTvCpuProcessor1Bulk();
+  /// light style
+  _ComputerTvCpuProcessor1Light get light => const _ComputerTvCpuProcessor1Light();
+  /// outline style
+  _ComputerTvCpuProcessor1Outline get outline => const _ComputerTvCpuProcessor1Outline();
+  /// twoTone style
+  _ComputerTvCpuProcessor1Twotone get twoTone => const _ComputerTvCpuProcessor1Twotone();
+  /// broken style
+  _ComputerTvCpuProcessor1Broken get broken => const _ComputerTvCpuProcessor1Broken();
+}
+
+/// cpu processor 1 — bulk style variants.
+class _ComputerTvCpuProcessor1Bulk {
+  const _ComputerTvCpuProcessor1Bulk();
+
+  /// cpu processor 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M8.51526 4.53467C6.30612 4.53467 4.51526 6.32553 4.51526 8.53467V15.4653C4.51526 17.6744 6.30612 19.4653 8.51526 19.4653H15.4846C17.6937 19.4653 19.4846 17.6744 19.4846 15.4653V8.53467C19.4846 6.32553 17.6937 4.53467 15.4846 4.53467H8.51526ZM15.9599 13.42C15.9599 14.91 14.9499 15.96 13.4999 15.96H10.4999C9.04992 15.96 8.03992 14.91 8.03992 13.42V10.58C8.03992 9.08004 9.04992 8.04004 10.4999 8.04004H13.4999C14.9499 8.04004 15.9599 9.08004 15.9599 10.58V13.42Z" fill="black"/> <path d="M9.61328 2.25293C10.0275 2.25293 10.3633 2.58872 10.3633 3.00293V4.53125H8.86328V3.00293C8.86328 2.58872 9.19907 2.25293 9.61328 2.25293Z" fill="black"/> <path d="M13.6372 3.00293V4.53125H15.1372V3.00293C15.1372 2.58872 14.8014 2.25293 14.3872 2.25293C13.973 2.25293 13.6372 2.58872 13.6372 3.00293Z" fill="black"/> <path d="M19.4845 10.3662V9.01824C19.4845 8.96736 19.4839 8.91668 19.4826 8.86621H20.9995C21.4137 8.86621 21.7495 9.202 21.7495 9.61621C21.7495 10.0304 21.4137 10.3662 20.9995 10.3662H19.4845Z" fill="black"/> <path d="M19.4845 14.9894C19.4845 15.0373 19.4839 15.085 19.4828 15.1325H20.9995C21.4137 15.1325 21.7495 14.7967 21.7495 14.3825C21.7495 13.9683 21.4137 13.6325 20.9995 13.6325H19.4845V14.9894Z" fill="black"/> <path d="M15.1372 19.4648V20.9966C15.1372 21.4108 14.8014 21.7466 14.3872 21.7466C13.973 21.7466 13.6372 21.4108 13.6372 20.9966V19.4648H15.1372Z" fill="black"/> <path d="M10.3633 19.4648H8.86328V20.9966C8.86328 21.4108 9.19907 21.7466 9.61328 21.7466C10.0275 21.7466 10.3633 21.4108 10.3633 20.9966V19.4648Z" fill="black"/> <path d="M4.51562 13.6335V14.9894C4.51562 15.0376 4.51621 15.0857 4.51737 15.1335H3C2.58579 15.1335 2.25 14.7977 2.25 14.3835C2.25 13.9693 2.58579 13.6335 3 13.6335H4.51562Z" fill="black"/> <path d="M4.51562 9.01824C4.51562 8.96768 4.51626 8.91733 4.51754 8.86719H3C2.58579 8.86719 2.25 9.20297 2.25 9.61719C2.25 10.0314 2.58579 10.3672 3 10.3672H4.51562V9.01824Z" fill="black"/> <path d="M13.5702 10.7341V9.54509C14.3642 9.58509 14.4582 10.2781 14.4582 10.5831V13.4181C14.4582 13.7311 14.3652 14.4591 13.5042 14.4591H12.0932V13.2631C12.0932 12.8491 11.7582 12.5131 11.3432 12.5131C10.9292 12.5131 10.5932 12.8491 10.5932 13.2631V14.4591H10.4952C9.63123 14.4591 9.53723 13.7311 9.53723 13.4181V10.5831C9.53723 10.2691 9.63123 9.53809 10.4952 9.53809H12.0702V10.7341C12.0702 11.1491 12.4062 11.4841 12.8202 11.4841C13.2342 11.4841 13.5702 11.1491 13.5702 10.7341Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor 1 — broken style variants.
+class _ComputerTvCpuProcessor1Broken {
+  const _ComputerTvCpuProcessor1Broken();
+
+  /// cpu processor 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.28711 13.4192C9.28711 14.468 9.94286 15.2103 10.9946 15.2103H14.0038C15.0555 15.2103 15.7084 14.468 15.7084 13.4192V10.5841C15.7084 9.53237 15.0555 8.78906 14.0038 8.78906H10.9946C9.94675 8.78906 9.28711 9.53237 9.28711 10.5841" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8438 13.2637V15.2105" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.3203 8.78906V10.7349" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.1133 20.9975V18.9766M14.8872 20.9975V18.9766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.52097 9.61719H3.5M5.52097 14.3835H3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.1133 5.02487V3.00391M14.8872 5.02487V3.00391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.4995 9.61719H19.4707M21.4995 14.3835H19.4707" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4727 9.60143V8.92234C19.4727 6.63768 18.055 5.02344 15.7694 5.02344H9.23162C6.95377 5.02344 5.52148 6.63768 5.52148 8.92234V11.8354" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4727 12.623V15.083C19.4727 17.3608 18.055 18.9741 15.7694 18.9741H9.23162C6.94696 18.9741 5.52148 17.3608 5.52148 15.083V14.4247" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor 1 — twoTone style variants.
+class _ComputerTvCpuProcessor1Twotone {
+  const _ComputerTvCpuProcessor1Twotone();
+
+  /// cpu processor 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.78711 13.4182C8.78711 14.467 9.44286 15.2094 10.4946 15.2094H13.5038C14.5555 15.2094 15.2084 14.467 15.2084 13.4182V10.5831C15.2084 9.5314 14.5555 8.78809 13.5038 8.78809H10.4946C9.44675 8.78809 8.78711 9.5314 8.78711 10.5831V13.4182Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M11.3438 13.2632V15.21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.8203 8.78906V10.7349" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.02148 15.0845C5.02148 17.3623 6.44696 18.9756 8.73162 18.9756H15.2694C17.555 18.9756 18.9727 17.3623 18.9727 15.0845V8.92331C18.9727 6.63866 17.555 5.02441 15.2694 5.02441H8.73162C6.45377 5.02441 5.02148 6.63866 5.02148 8.92331V15.0845Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.61328 20.9966V18.9756M14.3872 20.9966V18.9756" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.02097 9.61719H3M5.02097 14.3835H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.61328 5.0239V3.00293M14.3872 5.0239V3.00293" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.9995 9.61621H18.9707M20.9995 14.3825H18.9707" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor 1 — outline style variants.
+class _ComputerTvCpuProcessor1Outline {
+  const _ComputerTvCpuProcessor1Outline();
+
+  /// cpu processor 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.79642 9.80271C9.65128 9.95835 9.53711 10.2135 9.53711 10.5831V13.4182C9.53711 13.787 9.65067 14.0409 9.79489 14.1955C9.93361 14.3442 10.1539 14.4594 10.4946 14.4594H13.5038C13.8444 14.4594 14.0636 14.3443 14.2014 14.1962C14.345 14.0419 14.4584 13.7879 14.4584 13.4182V10.5831C14.4584 10.2114 14.3447 9.95635 14.2009 9.80159C14.063 9.65309 13.844 9.53809 13.5038 9.53809H10.4946C10.1568 9.53809 9.93619 9.65283 9.79642 9.80271ZM8.6994 8.7797C9.15141 8.295 9.78454 8.03809 10.4946 8.03809H13.5038C14.2153 8.03809 14.8486 8.29474 15.3001 8.78083C15.7457 9.26065 15.9584 9.90312 15.9584 10.5831V13.4182C15.9584 14.0973 15.7453 14.7389 15.2996 15.218C14.8481 15.7032 14.215 15.9594 13.5038 15.9594H10.4946C9.78354 15.9594 9.15009 15.7033 8.69801 15.2187C8.25142 14.7399 8.03711 14.0982 8.03711 13.4182V10.5831C8.03711 9.90107 8.25276 9.25865 8.6994 8.7797Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3438 12.5132C11.758 12.5132 12.0938 12.849 12.0938 13.2632V15.21C12.0938 15.6242 11.758 15.96 11.3438 15.96C10.9295 15.96 10.5938 15.6242 10.5938 15.21V13.2632C10.5938 12.849 10.9295 12.5132 11.3438 12.5132Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8203 8.03906C13.2345 8.03906 13.5703 8.37485 13.5703 8.78906V10.7349C13.5703 11.1491 13.2345 11.4849 12.8203 11.4849C12.4061 11.4849 12.0703 11.1491 12.0703 10.7349V8.78906C12.0703 8.37485 12.4061 8.03906 12.8203 8.03906Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.57081 6.62869C6.07886 7.1561 5.77148 7.9371 5.77148 8.92331V15.0845C5.77148 16.0677 6.07738 16.8465 6.56819 17.3726C7.05353 17.8928 7.77454 18.2256 8.73162 18.2256H15.2694C16.2268 18.2256 16.9457 17.8929 17.429 17.3734C17.9181 16.8477 18.2227 16.0688 18.2227 15.0845V8.92331C18.2227 7.93507 17.9177 7.15411 17.4286 6.62755C16.9453 6.10725 16.2267 5.77441 15.2694 5.77441H8.73162C7.77861 5.77441 7.05739 6.10703 6.57081 6.62869ZM5.47391 5.60555C6.27294 4.74892 7.40678 4.27441 8.73162 4.27441H15.2694C16.5977 4.27441 17.7307 4.7487 18.5276 5.60669C19.3188 6.45841 19.7227 7.6269 19.7227 8.92331V15.0845C19.7227 16.3781 19.3184 17.5447 18.5272 18.3951C17.7303 19.2517 16.5975 19.7256 15.2694 19.7256H8.73162C7.40404 19.7256 6.26999 19.2518 5.47142 18.3959C4.67833 17.5458 4.27148 16.3791 4.27148 15.0845V8.92331C4.27148 7.62487 4.68025 6.45642 5.47391 5.60555Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.61328 18.2256C10.0275 18.2256 10.3633 18.5614 10.3633 18.9756V20.9966C10.3633 21.4108 10.0275 21.7466 9.61328 21.7466C9.19907 21.7466 8.86328 21.4108 8.86328 20.9966V18.9756C8.86328 18.5614 9.19907 18.2256 9.61328 18.2256ZM14.3872 18.2256C14.8014 18.2256 15.1372 18.5614 15.1372 18.9756V20.9966C15.1372 21.4108 14.8014 21.7466 14.3872 21.7466C13.973 21.7466 13.6372 21.4108 13.6372 20.9966V18.9756C13.6372 18.5614 13.973 18.2256 14.3872 18.2256Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.61719C2.25 9.20297 2.58579 8.86719 3 8.86719H5.02097C5.43518 8.86719 5.77097 9.20297 5.77097 9.61719C5.77097 10.0314 5.43518 10.3672 5.02097 10.3672H3C2.58579 10.3672 2.25 10.0314 2.25 9.61719ZM2.25 14.3835C2.25 13.9693 2.58579 13.6335 3 13.6335H5.02097C5.43518 13.6335 5.77097 13.9693 5.77097 14.3835C5.77097 14.7977 5.43518 15.1335 5.02097 15.1335H3C2.58579 15.1335 2.25 14.7977 2.25 14.3835Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.61328 2.25293C10.0275 2.25293 10.3633 2.58872 10.3633 3.00293V5.0239C10.3633 5.43811 10.0275 5.7739 9.61328 5.7739C9.19907 5.7739 8.86328 5.43811 8.86328 5.0239V3.00293C8.86328 2.58872 9.19907 2.25293 9.61328 2.25293ZM14.3872 2.25293C14.8014 2.25293 15.1372 2.58872 15.1372 3.00293V5.0239C15.1372 5.43811 14.8014 5.7739 14.3872 5.7739C13.973 5.7739 13.6372 5.43811 13.6372 5.0239V3.00293C13.6372 2.58872 13.973 2.25293 14.3872 2.25293Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2207 9.61621C18.2207 9.202 18.5565 8.86621 18.9707 8.86621H20.9995C21.4137 8.86621 21.7495 9.202 21.7495 9.61621C21.7495 10.0304 21.4137 10.3662 20.9995 10.3662H18.9707C18.5565 10.3662 18.2207 10.0304 18.2207 9.61621ZM18.2207 14.3825C18.2207 13.9683 18.5565 13.6325 18.9707 13.6325H20.9995C21.4137 13.6325 21.7495 13.9683 21.7495 14.3825C21.7495 14.7967 21.4137 15.1325 20.9995 15.1325H18.9707C18.5565 15.1325 18.2207 14.7967 18.2207 14.3825Z" fill="black"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor 1 — bold style variants.
+class _ComputerTvCpuProcessor1Bold {
+  const _ComputerTvCpuProcessor1Bold();
+
+  /// cpu processor 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5702 9.54509V10.7341C13.5702 11.1491 13.2342 11.4841 12.8202 11.4841C12.4062 11.4841 12.0702 11.1491 12.0702 10.7341V9.53809H10.4952C9.6312 9.53809 9.5372 10.2691 9.5372 10.5831V13.4181C9.5372 13.7311 9.6312 14.4591 10.4952 14.4591H10.5932V13.2631C10.5932 12.8491 10.9292 12.5131 11.3432 12.5131C11.7582 12.5131 12.0932 12.8491 12.0932 13.2631V14.4591H13.5042C14.3652 14.4591 14.4582 13.7311 14.4582 13.4181V10.5831C14.4582 10.2781 14.3642 9.58509 13.5702 9.54509Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.96 13.42C15.96 14.91 14.95 15.96 13.5 15.96H10.5C9.05 15.96 8.04 14.91 8.04 13.42V10.58C8.04 9.08 9.05 8.04 10.5 8.04H13.5C14.95 8.04 15.96 9.08 15.96 10.58V13.42ZM21 13.63H19.47V10.37H21C21.41 10.37 21.75 10.03 21.75 9.62C21.75 9.2 21.41 8.87 21 8.87H19.47C19.44 6.27 17.76 4.52 15.27 4.52H15.14V3C15.14 2.59 14.8 2.25 14.39 2.25C13.97 2.25 13.64 2.59 13.64 3V4.52H10.36V3C10.36 2.59 10.03 2.25 9.61 2.25C9.2 2.25 8.86 2.59 8.86 3V4.52H8.73C6.23 4.52 4.55 6.27 4.53 8.87H3C2.59 8.87 2.25 9.2 2.25 9.62C2.25 10.03 2.59 10.37 3 10.37H4.52V13.63H3C2.59 13.63 2.25 13.97 2.25 14.38C2.25 14.8 2.59 15.13 3 15.13H4.53C4.55 17.73 6.23 19.48 8.73 19.48H8.86V21C8.86 21.41 9.2 21.75 9.61 21.75C10.03 21.75 10.36 21.41 10.36 21V19.48H13.64V21C13.64 21.41 13.97 21.75 14.39 21.75C14.8 21.75 15.14 21.41 15.14 21V19.48H15.27C17.77 19.48 19.45 17.73 19.47 15.13H21C21.41 15.13 21.75 14.8 21.75 14.38C21.75 13.97 21.41 13.63 21 13.63Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor 1 — light style variants.
+class _ComputerTvCpuProcessor1Light {
+  const _ComputerTvCpuProcessor1Light();
+
+  /// cpu processor 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.78711 13.4192C8.78711 14.468 9.44286 15.2103 10.4946 15.2103H13.5038C14.5555 15.2103 15.2084 14.468 15.2084 13.4192V10.5841C15.2084 9.53237 14.5555 8.78906 13.5038 8.78906H10.4946C9.44675 8.78906 8.78711 9.53237 8.78711 10.5841V13.4192Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.3438 13.2637V15.2105" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8203 8.78906V10.7349" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.02148 15.0835C5.02148 17.3614 6.44696 18.9746 8.73162 18.9746H15.2694C17.555 18.9746 18.9727 17.3614 18.9727 15.0835V8.92234C18.9727 6.63768 17.555 5.02344 15.2694 5.02344H8.73162C6.45377 5.02344 5.02148 6.63768 5.02148 8.92234V15.0835Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.61328 20.9975V18.9766M14.3872 20.9975V18.9766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.02097 9.61719H3M5.02097 14.3835H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.61328 5.02487V3.00391M14.3872 5.02487V3.00391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9995 9.61719H18.9707M20.9995 14.3835H18.9707" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor 2 icon with style variants.
+class _ComputerTvCpuProcessor2Icon {
+  const _ComputerTvCpuProcessor2Icon();
+
+  /// bold style
+  _ComputerTvCpuProcessor2Bold get bold => const _ComputerTvCpuProcessor2Bold();
+  /// bulk style
+  _ComputerTvCpuProcessor2Bulk get bulk => const _ComputerTvCpuProcessor2Bulk();
+  /// light style
+  _ComputerTvCpuProcessor2Light get light => const _ComputerTvCpuProcessor2Light();
+  /// outline style
+  _ComputerTvCpuProcessor2Outline get outline => const _ComputerTvCpuProcessor2Outline();
+  /// twoTone style
+  _ComputerTvCpuProcessor2Twotone get twoTone => const _ComputerTvCpuProcessor2Twotone();
+  /// broken style
+  _ComputerTvCpuProcessor2Broken get broken => const _ComputerTvCpuProcessor2Broken();
+}
+
+/// cpu processor 2 — bulk style variants.
+class _ComputerTvCpuProcessor2Bulk {
+  const _ComputerTvCpuProcessor2Bulk();
+
+  /// cpu processor 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M8.51526 4.53467C6.30612 4.53467 4.51526 6.32553 4.51526 8.53467V15.4653C4.51526 17.6744 6.30612 19.4653 8.51526 19.4653H15.4846C17.6937 19.4653 19.4846 17.6744 19.4846 15.4653V8.53467C19.4846 6.32553 17.6937 4.53467 15.4846 4.53467H8.51526ZM15.6781 13.3188C15.6781 14.7027 14.74 15.6779 13.3932 15.6779H10.6068C9.26 15.6779 8.3219 14.7027 8.3219 13.3188V10.6809C8.3219 9.28774 9.26 8.32178 10.6068 8.32178H13.3932C14.74 8.32178 15.6781 9.28774 15.6781 10.6809V13.3188Z" fill="black"/> <path d="M9.61328 2.25293C10.0275 2.25293 10.3633 2.58872 10.3633 3.00293V4.53125H8.86328V3.00293C8.86328 2.58872 9.19907 2.25293 9.61328 2.25293Z" fill="black"/> <path d="M13.6372 3.00293V4.53125H15.1372V3.00293C15.1372 2.58872 14.8014 2.25293 14.3872 2.25293C13.973 2.25293 13.6372 2.58872 13.6372 3.00293Z" fill="black"/> <path d="M19.4845 10.3662V9.01824C19.4845 8.96736 19.4839 8.91668 19.4826 8.86621H20.9995C21.4137 8.86621 21.7495 9.202 21.7495 9.61621C21.7495 10.0304 21.4137 10.3662 20.9995 10.3662H19.4845Z" fill="black"/> <path d="M19.4845 14.9894C19.4845 15.0373 19.4839 15.085 19.4828 15.1325H20.9995C21.4137 15.1325 21.7495 14.7967 21.7495 14.3825C21.7495 13.9683 21.4137 13.6325 20.9995 13.6325H19.4845V14.9894Z" fill="black"/> <path d="M15.1372 19.4648V20.9966C15.1372 21.4108 14.8014 21.7466 14.3872 21.7466C13.973 21.7466 13.6372 21.4108 13.6372 20.9966V19.4648H15.1372Z" fill="black"/> <path d="M10.3633 19.4648H8.86328V20.9966C8.86328 21.4108 9.19907 21.7466 9.61328 21.7466C10.0275 21.7466 10.3633 21.4108 10.3633 20.9966V19.4648Z" fill="black"/> <path d="M4.50977 13.6335V14.9894C4.50977 15.0376 4.51035 15.0857 4.51151 15.1335H3C2.58579 15.1335 2.25 14.7977 2.25 14.3835C2.25 13.9693 2.58579 13.6335 3 13.6335H4.50977Z" fill="black"/> <path d="M4.50977 9.01824C4.50977 8.96768 4.51041 8.91733 4.51168 8.86719H3C2.58579 8.86719 2.25 9.20297 2.25 9.61719C2.25 10.0314 2.58579 10.3672 3 10.3672H4.50977V9.01824Z" fill="black"/> <path d="M10.6239 9.81299H13.3759C14.0789 9.81299 14.1849 10.372 14.1849 10.705V13.298C14.1849 13.629 14.0789 14.186 13.3759 14.186H10.6239C9.91787 14.186 9.81287 13.629 9.81287 13.298V10.705C9.81287 10.372 9.91787 9.81299 10.6239 9.81299Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor 2 — broken style variants.
+class _ComputerTvCpuProcessor2Broken {
+  const _ComputerTvCpuProcessor2Broken();
+
+  /// cpu processor 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.124 9.0625C10.1657 9.0625 9.5625 9.7416 9.5625 10.7038V13.2966C9.5625 14.2559 10.1618 14.935 11.124 14.935H13.8764C14.8377 14.935 15.435 14.2559 15.435 13.2966V10.7038C15.435 9.7416 14.8377 9.0625 13.8764 9.0625" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.1133 20.9975V18.9766M14.8872 20.9975V18.9766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.52097 9.61719H3.5M5.52097 14.3835H3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.1133 5.02487V3.00391M14.8872 5.02487V3.00391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.4995 9.61719H19.4707M21.4995 14.3835H19.4707" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4727 9.60143V8.92234C19.4727 6.63768 18.055 5.02344 15.7694 5.02344H9.23162C6.95377 5.02344 5.52148 6.63768 5.52148 8.92234V11.8354" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4727 12.623V15.083C19.4727 17.3608 18.055 18.9741 15.7694 18.9741H9.23162C6.94696 18.9741 5.52148 17.3608 5.52148 15.083V14.4247" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor 2 — twoTone style variants.
+class _ComputerTvCpuProcessor2Twotone {
+  const _ComputerTvCpuProcessor2Twotone();
+
+  /// cpu processor 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M10.624 14.936C9.66182 14.936 9.0625 14.2569 9.0625 13.2976V10.7048C9.0625 9.74257 9.66571 9.06348 10.624 9.06348H13.3764C14.3377 9.06348 14.935 9.74257 14.935 10.7048V13.2976C14.935 14.2569 14.3377 14.936 13.3764 14.936H10.624Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.02148 15.0845C5.02148 17.3623 6.44696 18.9756 8.73162 18.9756H15.2694C17.555 18.9756 18.9727 17.3623 18.9727 15.0845V8.92331C18.9727 6.63866 17.555 5.02441 15.2694 5.02441H8.73162C6.45377 5.02441 5.02148 6.63866 5.02148 8.92331V15.0845Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.61328 20.9966V18.9756M14.3872 20.9966V18.9756" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.02097 9.61719H3M5.02097 14.3835H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.61328 5.0239V3.00293M14.3872 5.0239V3.00293" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.9995 9.61621H18.9707M20.9995 14.3825H18.9707" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor 2 — outline style variants.
+class _ComputerTvCpuProcessor2Outline {
+  const _ComputerTvCpuProcessor2Outline();
+
+  /// cpu processor 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0323 10.0349C9.9126 10.1632 9.8125 10.3798 9.8125 10.7048V13.2976C9.8125 13.6219 9.91205 13.8375 10.031 13.9651C10.1444 14.0867 10.3281 14.186 10.624 14.186H13.3764C13.6715 14.186 13.8543 14.0869 13.9671 13.9657C14.0856 13.8383 14.185 13.6225 14.185 13.2976V10.7048C14.185 10.3779 14.0852 10.1613 13.9668 10.0338C13.8541 9.91251 13.6715 9.81348 13.3764 9.81348H10.624C10.3308 9.81348 10.1467 9.91233 10.0323 10.0349ZM8.93549 9.01169C9.36231 8.55417 9.95899 8.31348 10.624 8.31348H13.3764C14.0426 8.31348 14.6393 8.55399 15.0656 9.0128C15.4862 9.46538 15.685 10.0695 15.685 10.7048V13.2976C15.685 13.932 15.4858 14.5354 15.0653 14.9874C14.6391 15.4455 14.0425 15.686 13.3764 15.686H10.624C9.95774 15.686 9.36071 15.4458 8.93389 14.988C8.51261 14.5362 8.3125 13.9327 8.3125 13.2976V10.7048C8.3125 10.0676 8.51401 9.46348 8.93549 9.01169Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.57081 6.62869C6.07886 7.1561 5.77148 7.9371 5.77148 8.92331V15.0845C5.77148 16.0677 6.07738 16.8465 6.56819 17.3726C7.05353 17.8928 7.77454 18.2256 8.73162 18.2256H15.2694C16.2268 18.2256 16.9457 17.8929 17.429 17.3734C17.9181 16.8477 18.2227 16.0688 18.2227 15.0845V8.92331C18.2227 7.93507 17.9177 7.15411 17.4286 6.62755C16.9453 6.10725 16.2267 5.77441 15.2694 5.77441H8.73162C7.77861 5.77441 7.05739 6.10703 6.57081 6.62869ZM5.47391 5.60555C6.27294 4.74892 7.40678 4.27441 8.73162 4.27441H15.2694C16.5977 4.27441 17.7307 4.7487 18.5276 5.60669C19.3188 6.45841 19.7227 7.6269 19.7227 8.92331V15.0845C19.7227 16.3781 19.3184 17.5447 18.5272 18.3951C17.7303 19.2517 16.5975 19.7256 15.2694 19.7256H8.73162C7.40404 19.7256 6.26999 19.2518 5.47142 18.3959C4.67833 17.5458 4.27148 16.3791 4.27148 15.0845V8.92331C4.27148 7.62487 4.68025 6.45642 5.47391 5.60555Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.61328 18.2256C10.0275 18.2256 10.3633 18.5614 10.3633 18.9756V20.9966C10.3633 21.4108 10.0275 21.7466 9.61328 21.7466C9.19907 21.7466 8.86328 21.4108 8.86328 20.9966V18.9756C8.86328 18.5614 9.19907 18.2256 9.61328 18.2256ZM14.3872 18.2256C14.8014 18.2256 15.1372 18.5614 15.1372 18.9756V20.9966C15.1372 21.4108 14.8014 21.7466 14.3872 21.7466C13.973 21.7466 13.6372 21.4108 13.6372 20.9966V18.9756C13.6372 18.5614 13.973 18.2256 14.3872 18.2256Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.61719C2.25 9.20297 2.58579 8.86719 3 8.86719H5.02097C5.43518 8.86719 5.77097 9.20297 5.77097 9.61719C5.77097 10.0314 5.43518 10.3672 5.02097 10.3672H3C2.58579 10.3672 2.25 10.0314 2.25 9.61719ZM2.25 14.3835C2.25 13.9693 2.58579 13.6335 3 13.6335H5.02097C5.43518 13.6335 5.77097 13.9693 5.77097 14.3835C5.77097 14.7977 5.43518 15.1335 5.02097 15.1335H3C2.58579 15.1335 2.25 14.7977 2.25 14.3835Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.61328 2.25293C10.0275 2.25293 10.3633 2.58872 10.3633 3.00293V5.0239C10.3633 5.43811 10.0275 5.7739 9.61328 5.7739C9.19907 5.7739 8.86328 5.43811 8.86328 5.0239V3.00293C8.86328 2.58872 9.19907 2.25293 9.61328 2.25293ZM14.3872 2.25293C14.8014 2.25293 15.1372 2.58872 15.1372 3.00293V5.0239C15.1372 5.43811 14.8014 5.7739 14.3872 5.7739C13.973 5.7739 13.6372 5.43811 13.6372 5.0239V3.00293C13.6372 2.58872 13.973 2.25293 14.3872 2.25293Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2207 9.61621C18.2207 9.202 18.5565 8.86621 18.9707 8.86621H20.9995C21.4137 8.86621 21.7495 9.202 21.7495 9.61621C21.7495 10.0304 21.4137 10.3662 20.9995 10.3662H18.9707C18.5565 10.3662 18.2207 10.0304 18.2207 9.61621ZM18.2207 14.3825C18.2207 13.9683 18.5565 13.6325 18.9707 13.6325H20.9995C21.4137 13.6325 21.7495 13.9683 21.7495 14.3825C21.7495 14.7967 21.4137 15.1325 20.9995 15.1325H18.9707C18.5565 15.1325 18.2207 14.7967 18.2207 14.3825Z" fill="black"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor 2 — bold style variants.
+class _ComputerTvCpuProcessor2Bold {
+  const _ComputerTvCpuProcessor2Bold();
+
+  /// cpu processor 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3759 9.81299H10.6239C9.9179 9.81299 9.8129 10.372 9.8129 10.705V13.298C9.8129 13.629 9.9179 14.186 10.6239 14.186H13.3759C14.0789 14.186 14.1849 13.629 14.1849 13.298V10.705C14.1849 10.372 14.0789 9.81299 13.3759 9.81299Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.68 13.3C15.68 14.7 14.74 15.69 13.38 15.69H10.62C9.26 15.69 8.31 14.7 8.31 13.3V10.71C8.31 9.3 9.26 8.31 10.62 8.31H13.38C14.74 8.31 15.68 9.3 15.68 10.71V13.3ZM21 13.63H19.47V10.37H21C21.41 10.37 21.75 10.03 21.75 9.62C21.75 9.2 21.41 8.87 21 8.87H19.47C19.44 6.27 17.76 4.52 15.27 4.52H15.14V3C15.14 2.59 14.8 2.25 14.39 2.25C13.97 2.25 13.64 2.59 13.64 3V4.52H10.36V3C10.36 2.59 10.03 2.25 9.61 2.25C9.2 2.25 8.86 2.59 8.86 3V4.52H8.73C6.23 4.52 4.55 6.27 4.53 8.87H3C2.59 8.87 2.25 9.2 2.25 9.62C2.25 10.03 2.59 10.37 3 10.37H4.52V13.63H3C2.59 13.63 2.25 13.97 2.25 14.38C2.25 14.8 2.59 15.13 3 15.13H4.53C4.55 17.73 6.23 19.48 8.73 19.48H8.86V21C8.86 21.41 9.2 21.75 9.61 21.75C10.03 21.75 10.36 21.41 10.36 21V19.48H13.64V21C13.64 21.41 13.97 21.75 14.39 21.75C14.8 21.75 15.14 21.41 15.14 21V19.48H15.27C17.77 19.48 19.45 17.73 19.47 15.13H21C21.41 15.13 21.75 14.8 21.75 14.38C21.75 13.97 21.41 13.63 21 13.63Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor 2 — light style variants.
+class _ComputerTvCpuProcessor2Light {
+  const _ComputerTvCpuProcessor2Light();
+
+  /// cpu processor 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor 2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.624 14.935C9.66182 14.935 9.0625 14.2559 9.0625 13.2966V10.7038C9.0625 9.7416 9.66571 9.0625 10.624 9.0625H13.3764C14.3377 9.0625 14.935 9.7416 14.935 10.7038V13.2966C14.935 14.2559 14.3377 14.935 13.3764 14.935H10.624Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.02148 15.0835C5.02148 17.3614 6.44696 18.9746 8.73162 18.9746H15.2694C17.555 18.9746 18.9727 17.3614 18.9727 15.0835V8.92234C18.9727 6.63768 17.555 5.02344 15.2694 5.02344H8.73162C6.45377 5.02344 5.02148 6.63768 5.02148 8.92234V15.0835Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.61328 20.9975V18.9766M14.3872 20.9975V18.9766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.02097 9.61719H3M5.02097 14.3835H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.61328 5.02487V3.00391M14.3872 5.02487V3.00391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9995 9.61719H18.9707M20.9995 14.3835H18.9707" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.light,
@@ -1064,6 +1276,114 @@ class _ComputerTvMonitorLight {
 
 }
 
+/// monitor 1 icon with style variants.
+class _ComputerTvMonitor1Icon {
+  const _ComputerTvMonitor1Icon();
+
+  /// bold style
+  _ComputerTvMonitor1Bold get bold => const _ComputerTvMonitor1Bold();
+  /// bulk style
+  _ComputerTvMonitor1Bulk get bulk => const _ComputerTvMonitor1Bulk();
+  /// light style
+  _ComputerTvMonitor1Light get light => const _ComputerTvMonitor1Light();
+  /// outline style
+  _ComputerTvMonitor1Outline get outline => const _ComputerTvMonitor1Outline();
+  /// twoTone style
+  _ComputerTvMonitor1Twotone get twoTone => const _ComputerTvMonitor1Twotone();
+  /// broken style
+  _ComputerTvMonitor1Broken get broken => const _ComputerTvMonitor1Broken();
+}
+
+/// monitor 1 — bulk style variants.
+class _ComputerTvMonitor1Bulk {
+  const _ComputerTvMonitor1Bulk();
+
+  /// monitor 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M7.028 2.6582H16.971C19.468 2.6582 21.5 4.6902 21.5 7.1882V12.6442C21.5 15.1412 19.468 17.1732 16.971 17.1732H7.028C4.531 17.1732 2.5 15.1412 2.5 12.6442V7.1882C2.5 4.6902 4.531 2.6582 7.028 2.6582Z" fill="black"/> <path d="M9.04205 17.1729L8.60805 19.8409H7.05505C6.64105 19.8409 6.30505 20.1769 6.30505 20.5909C6.30505 21.0049 6.64105 21.3409 7.05505 21.3409H16.9431C17.3571 21.3409 17.6931 21.0049 17.6931 20.5909C17.6931 20.1769 17.3571 19.8409 16.9431 19.8409H15.3911L14.9561 17.1729H13.4371L13.8711 19.8409H10.1281L10.5611 17.1729H9.04205Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor 1 — broken style variants.
+class _ComputerTvMonitor1Broken {
+  const _ComputerTvMonitor1Broken();
+
+  /// monitor 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.4995 3.2832H7.52811C5.30389 3.2832 3.5 5.0871 3.5 7.31228V12.7687C3.5 14.9939 5.30389 16.7978 7.52811 16.7978H17.4709C19.6961 16.7978 21.5 14.9939 21.5 12.7687V7.31228C21.5 5.0871 19.6961 3.2832 17.4709 3.2832H16.1939" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.55469 20.7168H17.443" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3834 16.8008L9.74609 20.718" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6152 16.8008L15.2525 20.718" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor 1 — twoTone style variants.
+class _ComputerTvMonitor1Twotone {
+  const _ComputerTvMonitor1Twotone();
+
+  /// monitor 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.9709 3.28369H7.02811C4.80389 3.28369 3 5.08758 3 7.31277V12.7692C3 14.9944 4.80389 16.7983 7.02811 16.7983H16.9709C19.1961 16.7983 21 14.9944 21 12.7692V7.31277C21 5.08758 19.1961 3.28369 16.9709 3.28369Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.05469 20.7163H16.943" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.88339 16.7998L9.24609 20.717" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.1152 16.7998L14.7525 20.717" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor 1 — outline style variants.
+class _ComputerTvMonitor1Outline {
+  const _ComputerTvMonitor1Outline();
+
+  /// monitor 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 7.31277C2.25 4.67349 4.38956 2.53369 7.02811 2.53369H16.9709C19.6103 2.53369 21.75 4.67337 21.75 7.31277V12.7692C21.75 15.4086 19.6103 17.5483 16.9709 17.5483H7.02811C4.38956 17.5483 2.25 15.4085 2.25 12.7692V7.31277ZM7.02811 4.03369C5.21822 4.03369 3.75 5.50168 3.75 7.31277V12.7692C3.75 14.5803 5.21822 16.0483 7.02811 16.0483H16.9709C18.7819 16.0483 20.25 14.5802 20.25 12.7692V7.31277C20.25 5.5018 18.7819 4.03369 16.9709 4.03369H7.02811Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.30469 20.7163C6.30469 20.3021 6.64047 19.9663 7.05469 19.9663H16.943C17.3572 19.9663 17.693 20.3021 17.693 20.7163C17.693 21.1305 17.3572 21.4663 16.943 21.4663H7.05469C6.64047 21.4663 6.30469 21.1305 6.30469 20.7163Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0038 16.0597C10.4127 16.1262 10.6902 16.5115 10.6236 16.9204L9.98635 20.8375C9.91984 21.2464 9.53449 21.5239 9.12565 21.4574C8.71681 21.3909 8.4393 21.0055 8.50582 20.5967L9.14312 16.6795C9.20963 16.2706 9.59498 15.9931 10.0038 16.0597Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9948 16.0597C14.4036 15.9931 14.789 16.2706 14.8555 16.6795L15.4928 20.5967C15.5593 21.0055 15.2818 21.3909 14.873 21.4574C14.4641 21.5239 14.0788 21.2464 14.0123 20.8375L13.375 16.9204C13.3084 16.5115 13.586 16.1262 13.9948 16.0597Z" fill="black"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor 1 — bold style variants.
+class _ComputerTvMonitor1Bold {
+  const _ComputerTvMonitor1Bold();
+
+  /// monitor 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.871 19.8412H10.128L10.561 17.1732H13.437L13.871 19.8412ZM16.971 2.6582H7.028C4.531 2.6582 2.5 4.6902 2.5 7.1882V12.6442C2.5 15.1412 4.531 17.1732 7.028 17.1732H9.042L8.608 19.8412H7.055C6.641 19.8412 6.305 20.1772 6.305 20.5912C6.305 21.0052 6.641 21.3412 7.055 21.3412H16.943C17.357 21.3412 17.693 21.0052 17.693 20.5912C17.693 20.1772 17.357 19.8412 16.943 19.8412H15.391L14.956 17.1732H16.971C19.468 17.1732 21.5 15.1412 21.5 12.6442V7.1882C21.5 4.6902 19.468 2.6582 16.971 2.6582Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor 1 — light style variants.
+class _ComputerTvMonitor1Light {
+  const _ComputerTvMonitor1Light();
+
+  /// monitor 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.9709 3.2832H7.02811C4.80389 3.2832 3 5.0871 3 7.31228V12.7687C3 14.9939 4.80389 16.7978 7.02811 16.7978H16.9709C19.1961 16.7978 21 14.9939 21 12.7687V7.31228C21 5.0871 19.1961 3.2832 16.9709 3.2832Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.05469 20.7168H16.943" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.88339 16.8008L9.24609 20.718" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1152 16.8008L14.7525 20.718" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// monitor display curved icon with style variants.
 class _ComputerTvMonitorDisplayCurvedIcon {
   const _ComputerTvMonitorDisplayCurvedIcon();
@@ -1089,7 +1409,7 @@ class _ComputerTvMonitorDisplayCurvedBulk {
   /// monitor display curved — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'monitor display curved',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.79904 18.7296V16.4516L10.299 16.3936V18.5526C11.442 18.4606 12.581 18.4636 13.713 18.5586V16.3936L15.213 16.4526V18.7416C15.901 18.8506 16.586 18.9846 17.267 19.1626C17.667 19.2686 17.907 19.6786 17.802 20.0786C17.713 20.4156 17.409 20.6386 17.077 20.6386C17.014 20.6386 16.949 20.6306 16.886 20.6136C13.655 19.7646 10.328 19.7656 6.99404 20.6146C6.59204 20.7176 6.18404 20.4756 6.08204 20.0736C5.98004 19.6726 6.22204 19.2636 6.62304 19.1616C7.34904 18.9766 8.07404 18.8396 8.79904 18.7296Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.329 3.48402C21.22 3.39002 21.075 3.34802 20.933 3.36502C15.007 4.17702 8.997 4.17702 3.067 3.36502C2.925 3.34802 2.78 3.39002 2.671 3.48402C2.562 3.57902 2.5 3.71602 2.5 3.86102V16.478C2.5 16.622 2.562 16.759 2.671 16.855C2.763 16.934 2.88 16.978 3 16.978C3.022 16.978 3.045 16.976 3.067 16.973C8.997 16.162 15.007 16.161 20.933 16.973C21.075 16.992 21.22 16.949 21.329 16.855C21.437 16.759 21.5 16.622 21.5 16.478V3.86102C21.5 3.71602 21.437 3.57902 21.329 3.48402Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.329 3.08949C21.22 2.99549 21.075 2.95349 20.933 2.97049C15.007 3.78249 8.997 3.78249 3.067 2.97049C2.925 2.95349 2.78 2.99549 2.671 3.08949C2.562 3.18449 2.5 3.32149 2.5 3.46649V16.0835C2.5 16.2275 2.562 16.3645 2.671 16.4605C2.763 16.5395 2.88 16.5835 3 16.5835C3.022 16.5835 3.045 16.5815 3.067 16.5785C8.997 15.7675 15.007 15.7665 20.933 16.5785C21.075 16.5975 21.22 16.5545 21.329 16.4605C21.437 16.3645 21.5 16.2275 21.5 16.0835V3.46649C21.5 3.32149 21.437 3.18449 21.329 3.08949Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2988 19.3118C13.7978 18.3928 10.1968 18.3918 6.59184 19.3108C6.36584 19.3688 6.17584 19.5108 6.05684 19.7118C5.93684 19.9128 5.90284 20.1478 5.96084 20.3738C6.01884 20.6008 6.15984 20.7918 6.36084 20.9108C6.49784 20.9928 6.65184 21.0338 6.80684 21.0338C6.87884 21.0338 6.95184 21.0248 7.02584 21.0058C10.3378 20.1618 13.6458 20.1608 16.8548 21.0048C16.9268 21.0238 17.0008 21.0338 17.0768 21.0338C17.4738 21.0338 17.8208 20.7648 17.9228 20.3808C18.0458 19.9148 17.7658 19.4348 17.2988 19.3118Z" fill="black"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -1104,7 +1424,7 @@ class _ComputerTvMonitorDisplayCurvedBroken {
   /// monitor display curved — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'monitor display curved',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.84447 4.54853C13.7307 4.70555 17.616 4.51815 21.5 3.98633V16.6029C15.5026 15.7817 9.50227 15.7817 3.5 16.6029V3.98633C4.63706 4.14189 5.77406 4.26799 6.91098 4.36461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.30859 20.0137C10.7568 19.1351 14.1797 19.1215 17.5764 20.0137" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.0488 19.5019V16.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9629 19.5116V16.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.5295 4.14682C18.1866 4.0453 19.8434 3.88113 21.5 3.6543V16.2708C15.5026 15.4496 9.50227 15.4496 3.5 16.2708V3.6543C6.61853 4.08095 9.73653 4.28594 12.8539 4.26925" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.30859 20.3477C10.7568 19.4691 14.1797 19.4554 17.5764 20.3477" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -1119,7 +1439,7 @@ class _ComputerTvMonitorDisplayCurvedTwotone {
   /// monitor display curved — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'monitor display curved',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3 3.98657V16.6031C9.00227 15.7819 15.0026 15.7819 21 16.6031V3.98657C15.0026 4.80776 9.00227 4.80776 3 3.98657Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.80859 20.0137C10.2568 19.1351 13.6797 19.1215 17.0764 20.0137" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.54883 19.5028V16.0361" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.4629 19.5116V16.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3 3.65405V16.2706C9.00227 15.4494 15.0026 15.4494 21 16.2706V3.65405C15.0026 4.47524 9.00227 4.47524 3 3.65405Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.80859 20.3467C10.2568 19.4681 13.6797 19.4545 17.0764 20.3467" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Computer_&_TV',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -1134,7 +1454,7 @@ class _ComputerTvMonitorDisplayCurvedOutline {
   /// monitor display curved — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'monitor display curved',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.493 3.42142C21.6563 3.56385 21.75 3.76992 21.75 3.98658V16.6031C21.75 16.8198 21.6563 17.0258 21.493 17.1683C21.3298 17.3107 21.1129 17.3756 20.8983 17.3462C14.9684 16.5342 9.0365 16.5342 3.10166 17.3462C2.88702 17.3756 2.67016 17.3107 2.50692 17.1682C2.34368 17.0258 2.25 16.8198 2.25 16.6031V3.98658C2.25 3.76993 2.34368 3.56387 2.50692 3.42145C2.67016 3.27902 2.88702 3.21413 3.10166 3.2435C9.0365 4.05546 14.9684 4.05545 20.8983 3.24351C21.1129 3.21412 21.3298 3.27899 21.493 3.42142ZM3.75 4.84072V15.749C9.2516 15.0667 14.7523 15.0666 20.25 15.7489V4.84081C14.7523 5.52306 9.2516 5.52302 3.75 4.84072Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.8858 20.7391C13.6169 19.8804 10.3234 19.8921 6.99377 20.7405C6.59238 20.8427 6.18408 20.6002 6.08181 20.1989C5.97954 19.7975 6.22202 19.3892 6.62341 19.2869C10.1902 18.3781 13.7425 18.3625 17.2669 19.2883C17.6675 19.3935 17.907 19.8036 17.8018 20.2042C17.6965 20.6048 17.2865 20.8443 16.8858 20.7391Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.54883 15.2861C9.96304 15.2861 10.2988 15.6219 10.2988 16.0361V19.5028C10.2988 19.917 9.96304 20.2528 9.54883 20.2528C9.13461 20.2528 8.79883 19.917 8.79883 19.5028V16.0361C8.79883 15.6219 9.13461 15.2861 9.54883 15.2861Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4629 15.2852C14.8771 15.2852 15.2129 15.6209 15.2129 16.0352V19.5116C15.2129 19.9258 14.8771 20.2616 14.4629 20.2616C14.0487 20.2616 13.7129 19.9258 13.7129 19.5116V16.0352C13.7129 15.6209 14.0487 15.2852 14.4629 15.2852Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.493 3.0889C21.6563 3.23133 21.75 3.4374 21.75 3.65406V16.2706C21.75 16.4873 21.6563 16.6933 21.493 16.8358C21.3298 16.9782 21.1129 17.0431 20.8983 17.0137C14.9684 16.2017 9.0365 16.2017 3.10166 17.0137C2.88702 17.043 2.67016 16.9782 2.50692 16.8357C2.34368 16.6933 2.25 16.4872 2.25 16.2706V3.65406C2.25 3.43741 2.34368 3.23136 2.50692 3.08893C2.67016 2.9465 2.88702 2.88161 3.10166 2.91098C9.0365 3.72294 14.9684 3.72293 20.8983 2.91099C21.1129 2.8816 21.3298 2.94647 21.493 3.0889ZM3.75 4.50821V15.4165C9.2516 14.7342 14.7523 14.7341 20.25 15.4164V4.50829C14.7523 5.19054 9.2516 5.1905 3.75 4.50821Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.8858 21.0721C13.6169 20.2134 10.3234 20.2251 6.99377 21.0735C6.59238 21.1757 6.18408 20.9333 6.08181 20.5319C5.97954 20.1305 6.22202 19.7222 6.62341 19.6199C10.1902 18.7111 13.7425 18.6955 17.2669 19.6213C17.6675 19.7265 17.907 20.1366 17.8018 20.5372C17.6965 20.9378 17.2865 21.1773 16.8858 21.0721Z" fill="black"/> </svg> ',
     category: 'Computer_&_TV',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -1149,7 +1469,7 @@ class _ComputerTvMonitorDisplayCurvedBold {
   /// monitor display curved — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'monitor display curved',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.713 18.5584C12.581 18.4634 11.442 18.4604 10.299 18.5524V16.3934C11.437 16.3634 12.575 16.3634 13.713 16.3934V18.5584ZM21.329 3.4844C21.221 3.3894 21.074 3.3474 20.933 3.3654C15.007 4.1764 8.997 4.1764 3.067 3.3654C2.924 3.3474 2.779 3.3894 2.671 3.4844C2.563 3.5794 2.5 3.7164 2.5 3.8604V16.4774C2.5 16.6224 2.563 16.7594 2.671 16.8544C2.763 16.9344 2.88 16.9774 3 16.9774C3.023 16.9774 3.045 16.9764 3.067 16.9734C4.971 16.7124 6.884 16.5454 8.799 16.4514V18.7294C8.074 18.8394 7.349 18.9764 6.623 19.1614C6.222 19.2634 5.98 19.6724 6.082 20.0734C6.184 20.4754 6.592 20.7174 6.994 20.6144C10.328 19.7654 13.655 19.7644 16.886 20.6134C16.949 20.6304 17.014 20.6384 17.077 20.6384C17.409 20.6384 17.713 20.4154 17.802 20.0784C17.907 19.6784 17.667 19.2684 17.267 19.1624C16.586 18.9844 15.901 18.8504 15.213 18.7414V16.4524C17.124 16.5454 19.033 16.7134 20.933 16.9734C21.074 16.9914 21.221 16.9484 21.329 16.8544C21.438 16.7594 21.5 16.6224 21.5 16.4774V3.8604C21.5 3.7164 21.438 3.5794 21.329 3.4844Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.329 3.08949C21.22 2.99549 21.075 2.95349 20.933 2.97049C15.007 3.78249 8.997 3.78249 3.067 2.97049C2.925 2.95349 2.78 2.99549 2.671 3.08949C2.562 3.18449 2.5 3.32149 2.5 3.46649V16.0835C2.5 16.2275 2.562 16.3645 2.671 16.4605C2.763 16.5395 2.88 16.5835 3 16.5835C3.022 16.5835 3.045 16.5815 3.067 16.5785C8.997 15.7675 15.007 15.7665 20.933 16.5785C21.075 16.5975 21.22 16.5545 21.329 16.4605C21.437 16.3645 21.5 16.2275 21.5 16.0835V3.46649C21.5 3.32149 21.437 3.18449 21.329 3.08949Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2988 19.3123C13.7978 18.3933 10.1968 18.3923 6.59181 19.3113C6.36581 19.3693 6.17581 19.5113 6.05681 19.7123C5.93681 19.9133 5.90281 20.1483 5.96081 20.3743C6.01881 20.6013 6.15981 20.7923 6.36081 20.9113C6.49781 20.9933 6.65181 21.0343 6.80681 21.0343C6.87881 21.0343 6.95181 21.0253 7.02581 21.0063C10.3378 20.1623 13.6458 20.1613 16.8548 21.0053C16.9268 21.0243 17.0008 21.0343 17.0768 21.0343C17.4738 21.0343 17.8208 20.7653 17.9228 20.3813C18.0458 19.9153 17.7658 19.4353 17.2988 19.3123Z" fill="black"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -1164,6 +1484,114 @@ class _ComputerTvMonitorDisplayCurvedLight {
   /// monitor display curved — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'monitor display curved',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3 3.6543V16.2708C9.00227 15.4496 15.0026 15.4496 21 16.2708V3.6543C15.0026 4.47549 9.00227 4.47549 3 3.6543Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.80859 20.3477C10.2568 19.4691 13.6797 19.4554 17.0764 20.3477" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display curved 1 icon with style variants.
+class _ComputerTvMonitorDisplayCurved1Icon {
+  const _ComputerTvMonitorDisplayCurved1Icon();
+
+  /// bold style
+  _ComputerTvMonitorDisplayCurved1Bold get bold => const _ComputerTvMonitorDisplayCurved1Bold();
+  /// bulk style
+  _ComputerTvMonitorDisplayCurved1Bulk get bulk => const _ComputerTvMonitorDisplayCurved1Bulk();
+  /// light style
+  _ComputerTvMonitorDisplayCurved1Light get light => const _ComputerTvMonitorDisplayCurved1Light();
+  /// outline style
+  _ComputerTvMonitorDisplayCurved1Outline get outline => const _ComputerTvMonitorDisplayCurved1Outline();
+  /// twoTone style
+  _ComputerTvMonitorDisplayCurved1Twotone get twoTone => const _ComputerTvMonitorDisplayCurved1Twotone();
+  /// broken style
+  _ComputerTvMonitorDisplayCurved1Broken get broken => const _ComputerTvMonitorDisplayCurved1Broken();
+}
+
+/// monitor display curved 1 — bulk style variants.
+class _ComputerTvMonitorDisplayCurved1Bulk {
+  const _ComputerTvMonitorDisplayCurved1Bulk();
+
+  /// monitor display curved 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display curved 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.79904 18.7296V16.4516L10.299 16.3936V18.5526C11.442 18.4606 12.581 18.4636 13.713 18.5586V16.3936L15.213 16.4526V18.7416C15.901 18.8506 16.586 18.9846 17.267 19.1626C17.667 19.2686 17.907 19.6786 17.802 20.0786C17.713 20.4156 17.409 20.6386 17.077 20.6386C17.014 20.6386 16.949 20.6306 16.886 20.6136C13.655 19.7646 10.328 19.7656 6.99404 20.6146C6.59204 20.7176 6.18404 20.4756 6.08204 20.0736C5.98004 19.6726 6.22204 19.2636 6.62304 19.1616C7.34904 18.9766 8.07404 18.8396 8.79904 18.7296Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.329 3.48402C21.22 3.39002 21.075 3.34802 20.933 3.36502C15.007 4.17702 8.997 4.17702 3.067 3.36502C2.925 3.34802 2.78 3.39002 2.671 3.48402C2.562 3.57902 2.5 3.71602 2.5 3.86102V16.478C2.5 16.622 2.562 16.759 2.671 16.855C2.763 16.934 2.88 16.978 3 16.978C3.022 16.978 3.045 16.976 3.067 16.973C8.997 16.162 15.007 16.161 20.933 16.973C21.075 16.992 21.22 16.949 21.329 16.855C21.437 16.759 21.5 16.622 21.5 16.478V3.86102C21.5 3.71602 21.437 3.57902 21.329 3.48402Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display curved 1 — broken style variants.
+class _ComputerTvMonitorDisplayCurved1Broken {
+  const _ComputerTvMonitorDisplayCurved1Broken();
+
+  /// monitor display curved 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display curved 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.84447 4.54853C13.7307 4.70555 17.616 4.51815 21.5 3.98633V16.6029C15.5026 15.7817 9.50227 15.7817 3.5 16.6029V3.98633C4.63706 4.14189 5.77406 4.26799 6.91098 4.36461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.30859 20.0137C10.7568 19.1351 14.1797 19.1215 17.5764 20.0137" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.0488 19.5019V16.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9629 19.5116V16.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display curved 1 — twoTone style variants.
+class _ComputerTvMonitorDisplayCurved1Twotone {
+  const _ComputerTvMonitorDisplayCurved1Twotone();
+
+  /// monitor display curved 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display curved 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3 3.98657V16.6031C9.00227 15.7819 15.0026 15.7819 21 16.6031V3.98657C15.0026 4.80776 9.00227 4.80776 3 3.98657Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.80859 20.0137C10.2568 19.1351 13.6797 19.1215 17.0764 20.0137" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.54883 19.5028V16.0361" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.4629 19.5116V16.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display curved 1 — outline style variants.
+class _ComputerTvMonitorDisplayCurved1Outline {
+  const _ComputerTvMonitorDisplayCurved1Outline();
+
+  /// monitor display curved 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display curved 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.493 3.42142C21.6563 3.56385 21.75 3.76992 21.75 3.98658V16.6031C21.75 16.8198 21.6563 17.0258 21.493 17.1683C21.3298 17.3107 21.1129 17.3756 20.8983 17.3462C14.9684 16.5342 9.0365 16.5342 3.10166 17.3462C2.88702 17.3756 2.67016 17.3107 2.50692 17.1682C2.34368 17.0258 2.25 16.8198 2.25 16.6031V3.98658C2.25 3.76993 2.34368 3.56387 2.50692 3.42145C2.67016 3.27902 2.88702 3.21413 3.10166 3.2435C9.0365 4.05546 14.9684 4.05545 20.8983 3.24351C21.1129 3.21412 21.3298 3.27899 21.493 3.42142ZM3.75 4.84072V15.749C9.2516 15.0667 14.7523 15.0666 20.25 15.7489V4.84081C14.7523 5.52306 9.2516 5.52302 3.75 4.84072Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.8858 20.7391C13.6169 19.8804 10.3234 19.8921 6.99377 20.7405C6.59238 20.8427 6.18408 20.6002 6.08181 20.1989C5.97954 19.7975 6.22202 19.3892 6.62341 19.2869C10.1902 18.3781 13.7425 18.3625 17.2669 19.2883C17.6675 19.3935 17.907 19.8036 17.8018 20.2042C17.6965 20.6048 17.2865 20.8443 16.8858 20.7391Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.54883 15.2861C9.96304 15.2861 10.2988 15.6219 10.2988 16.0361V19.5028C10.2988 19.917 9.96304 20.2528 9.54883 20.2528C9.13461 20.2528 8.79883 19.917 8.79883 19.5028V16.0361C8.79883 15.6219 9.13461 15.2861 9.54883 15.2861Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4629 15.2852C14.8771 15.2852 15.2129 15.6209 15.2129 16.0352V19.5116C15.2129 19.9258 14.8771 20.2616 14.4629 20.2616C14.0487 20.2616 13.7129 19.9258 13.7129 19.5116V16.0352C13.7129 15.6209 14.0487 15.2852 14.4629 15.2852Z" fill="black"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display curved 1 — bold style variants.
+class _ComputerTvMonitorDisplayCurved1Bold {
+  const _ComputerTvMonitorDisplayCurved1Bold();
+
+  /// monitor display curved 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display curved 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.713 18.5584C12.581 18.4634 11.442 18.4604 10.299 18.5524V16.3934C11.437 16.3634 12.575 16.3634 13.713 16.3934V18.5584ZM21.329 3.4844C21.221 3.3894 21.074 3.3474 20.933 3.3654C15.007 4.1764 8.997 4.1764 3.067 3.3654C2.924 3.3474 2.779 3.3894 2.671 3.4844C2.563 3.5794 2.5 3.7164 2.5 3.8604V16.4774C2.5 16.6224 2.563 16.7594 2.671 16.8544C2.763 16.9344 2.88 16.9774 3 16.9774C3.023 16.9774 3.045 16.9764 3.067 16.9734C4.971 16.7124 6.884 16.5454 8.799 16.4514V18.7294C8.074 18.8394 7.349 18.9764 6.623 19.1614C6.222 19.2634 5.98 19.6724 6.082 20.0734C6.184 20.4754 6.592 20.7174 6.994 20.6144C10.328 19.7654 13.655 19.7644 16.886 20.6134C16.949 20.6304 17.014 20.6384 17.077 20.6384C17.409 20.6384 17.713 20.4154 17.802 20.0784C17.907 19.6784 17.667 19.2684 17.267 19.1624C16.586 18.9844 15.901 18.8504 15.213 18.7414V16.4524C17.124 16.5454 19.033 16.7134 20.933 16.9734C21.074 16.9914 21.221 16.9484 21.329 16.8544C21.438 16.7594 21.5 16.6224 21.5 16.4774V3.8604C21.5 3.7164 21.438 3.5794 21.329 3.4844Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display curved 1 — light style variants.
+class _ComputerTvMonitorDisplayCurved1Light {
+  const _ComputerTvMonitorDisplayCurved1Light();
+
+  /// monitor display curved 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display curved 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3 3.98633V16.6029C9.00227 15.7817 15.0026 15.7817 21 16.6029V3.98633C15.0026 4.80752 9.00227 4.80752 3 3.98633Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.80859 20.0137C10.2568 19.1351 13.6797 19.1215 17.0764 20.0137" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.54883 19.5019V16.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4629 19.5116V16.0352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.light,
@@ -1597,6 +2025,222 @@ class _ComputerTvKeyboardLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'keyboard',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.2285 20.2496H7.76176C4.8156 20.2496 2.99031 18.6063 3.00004 15.5872V8.42221C3.00004 5.4021 4.82436 3.75 7.77051 3.75H16.2285C19.1659 3.75 21 5.43129 21 8.4981V15.5872C21 18.6063 19.1659 20.2496 16.2285 20.2496Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4477 16.1406H9.55078" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9958 12.0052V11.9834M11.9958 11.8691C11.9334 11.8691 11.8828 11.9197 11.8828 11.9819C11.8828 12.0443 11.9334 12.0949 11.9958 12.0949C12.0582 12.0949 12.1088 12.0443 12.1088 11.9819C12.1088 11.9197 12.0582 11.8691 11.9958 11.8691Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9958 8.61651V8.59476M11.9958 8.48047C11.9334 8.48047 11.8828 8.53104 11.8828 8.59324C11.8828 8.65566 11.9334 8.70622 11.9958 8.70622C12.0582 8.70622 12.1088 8.65566 12.1088 8.59324C12.1088 8.53104 12.0582 8.48047 11.9958 8.48047Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.54852 12.0052V11.9834M7.54853 11.8691C7.48611 11.8691 7.43555 11.9197 7.43555 11.9819C7.43555 12.0443 7.48611 12.0949 7.54853 12.0949C7.61095 12.0949 7.66151 12.0443 7.66151 11.9819C7.66151 11.9197 7.61095 11.8691 7.54853 11.8691Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.54852 8.61651V8.59476M7.54853 8.48047C7.48611 8.48047 7.43555 8.53104 7.43555 8.59324C7.43555 8.65566 7.48611 8.70622 7.54853 8.70622C7.61095 8.70622 7.66151 8.65566 7.66151 8.59324C7.66151 8.53104 7.61095 8.48047 7.54853 8.48047Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4509 12.0052V11.9834M16.4509 11.8691C16.3885 11.8691 16.3379 11.9197 16.3379 11.9819C16.3379 12.0443 16.3885 12.0949 16.4509 12.0949C16.5133 12.0949 16.5639 12.0443 16.5639 11.9819C16.5639 11.9197 16.5133 11.8691 16.4509 11.8691Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4509 8.61651V8.59476M16.4509 8.48047C16.3885 8.48047 16.3379 8.53104 16.3379 8.59324C16.3379 8.65566 16.3885 8.70622 16.4509 8.70622C16.5133 8.70622 16.5639 8.65566 16.5639 8.59324C16.5639 8.53104 16.5133 8.48047 16.4509 8.48047Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// keyboard 1 icon with style variants.
+class _ComputerTvKeyboard1Icon {
+  const _ComputerTvKeyboard1Icon();
+
+  /// bold style
+  _ComputerTvKeyboard1Bold get bold => const _ComputerTvKeyboard1Bold();
+  /// bulk style
+  _ComputerTvKeyboard1Bulk get bulk => const _ComputerTvKeyboard1Bulk();
+  /// light style
+  _ComputerTvKeyboard1Light get light => const _ComputerTvKeyboard1Light();
+  /// outline style
+  _ComputerTvKeyboard1Outline get outline => const _ComputerTvKeyboard1Outline();
+  /// twoTone style
+  _ComputerTvKeyboard1Twotone get twoTone => const _ComputerTvKeyboard1Twotone();
+  /// broken style
+  _ComputerTvKeyboard1Broken get broken => const _ComputerTvKeyboard1Broken();
+}
+
+/// keyboard 1 — bulk style variants.
+class _ComputerTvKeyboard1Bulk {
+  const _ComputerTvKeyboard1Bulk();
+
+  /// keyboard 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'keyboard 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.229 3.25H7.77104C4.47004 3.25 2.50004 5.184 2.50004 8.422V15.585C2.49504 17.148 2.96404 18.448 3.85704 19.343C4.77404 20.264 6.12504 20.75 7.76204 20.75H16.229C19.529 20.75 21.5 18.82 21.5 15.587V8.498C21.5 5.212 19.529 3.25 16.229 3.25Z" fill="black"/> <path d="M16.117 8.592C16.117 9.068 16.504 9.455 16.98 9.455C17.456 9.455 17.843 9.068 17.843 8.592C17.843 8.116 17.456 7.729 16.98 7.729C16.504 7.729 16.117 8.116 16.117 8.592Z" fill="black"/> <path d="M14.455 11.982C14.455 12.458 14.842 12.845 15.318 12.845C15.794 12.845 16.181 12.458 16.181 11.982C16.181 11.507 15.794 11.12 15.318 11.12C14.842 11.12 14.455 11.507 14.455 11.982Z" fill="black"/> <path d="M9.32805 16.893H14.673C15.087 16.893 15.423 16.557 15.423 16.143C15.423 15.729 15.087 15.393 14.673 15.393H9.32805C8.91405 15.393 8.57805 15.729 8.57805 16.143C8.57805 16.557 8.91405 16.893 9.32805 16.893Z" fill="black"/> <path d="M8.67105 11.12C8.19605 11.12 7.80905 11.507 7.80905 11.982C7.80905 12.458 8.19605 12.845 8.67105 12.845C9.14705 12.845 9.53505 12.458 9.53505 11.982C9.53505 11.507 9.14705 11.12 8.67105 11.12Z" fill="black"/> <path d="M6.14905 8.592C6.14905 9.068 6.53605 9.455 7.01205 9.455C7.48805 9.455 7.87505 9.068 7.87505 8.592C7.87505 8.116 7.48805 7.729 7.01205 7.729C6.53605 7.729 6.14905 8.116 6.14905 8.592Z" fill="black"/> <path d="M11.197 8.592C11.197 8.116 10.81 7.729 10.334 7.729C9.85805 7.729 9.47105 8.116 9.47105 8.592C9.47105 9.068 9.85805 9.455 10.334 9.455C10.81 9.455 11.197 9.068 11.197 8.592Z" fill="black"/> <path d="M12.859 11.982C12.859 11.507 12.472 11.12 11.996 11.12C11.52 11.12 11.133 11.507 11.133 11.982C11.133 12.458 11.52 12.845 11.996 12.845C12.472 12.845 12.859 12.458 12.859 11.982Z" fill="black"/> <path d="M14.519 8.592C14.519 8.116 14.132 7.729 13.656 7.729C13.18 7.729 12.793 8.116 12.793 8.592C12.793 9.068 13.18 9.455 13.656 9.455C14.132 9.455 14.519 9.068 14.519 8.592Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// keyboard 1 — broken style variants.
+class _ComputerTvKeyboard1Broken {
+  const _ComputerTvKeyboard1Broken();
+
+  /// keyboard 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'keyboard 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2785 20.2496H8.27051C5.32436 20.2496 3.50004 18.5975 3.50004 15.5774V8.41248C3.49031 5.39335 5.3156 3.75 8.26176 3.75H16.7285C19.6659 3.75 21.5 5.39335 21.5 8.41248V15.5015C21.5 18.5683 19.6659 20.2496 16.7285 20.2496H15.6309" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.1727 16.1426H9.82812" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1559 8.61651V8.59476M14.156 8.48047C14.0935 8.48047 14.043 8.53104 14.043 8.59324C14.043 8.65566 14.0935 8.70622 14.156 8.70622C14.2184 8.70622 14.2689 8.65566 14.2689 8.59324C14.2689 8.53104 14.2184 8.48047 14.156 8.48047Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.8337 8.61651V8.59476M10.8337 8.48047C10.7713 8.48047 10.7207 8.53104 10.7207 8.59324C10.7207 8.65566 10.7713 8.70622 10.8337 8.70622C10.8961 8.70622 10.9467 8.65566 10.9467 8.59324C10.9467 8.53104 10.8961 8.48047 10.8337 8.48047Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.51239 8.61651V8.59476M7.5124 8.48047C7.44998 8.48047 7.39941 8.53104 7.39941 8.59324C7.39941 8.65566 7.44998 8.70622 7.5124 8.70622C7.57481 8.70622 7.62538 8.65566 7.62538 8.59324C7.62538 8.53104 7.57481 8.48047 7.5124 8.48047Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4802 8.61651V8.59476M17.4802 8.48047C17.4178 8.48047 17.3672 8.53104 17.3672 8.59324C17.3672 8.65566 17.4178 8.70622 17.4802 8.70622C17.5426 8.70622 17.5932 8.65566 17.5932 8.59324C17.5932 8.53104 17.5426 8.48047 17.4802 8.48047Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4958 12.0052V11.9834M12.4958 11.8691C12.4334 11.8691 12.3828 11.9197 12.3828 11.9819C12.3828 12.0443 12.4334 12.0949 12.4958 12.0949C12.5582 12.0949 12.6088 12.0443 12.6088 11.9819C12.6088 11.9197 12.5582 11.8691 12.4958 11.8691Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.17157 12.0052V11.9834M9.17158 11.8691C9.10916 11.8691 9.05859 11.9197 9.05859 11.9819C9.05859 12.0443 9.10916 12.0949 9.17158 12.0949C9.23399 12.0949 9.28456 12.0443 9.28456 11.9819C9.28456 11.9197 9.23399 11.8691 9.17158 11.8691Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.8181 12.0052V11.9834M15.8181 11.8691C15.7556 11.8691 15.7051 11.9197 15.7051 11.9819C15.7051 12.0443 15.7556 12.0949 15.8181 12.0949C15.8805 12.0949 15.931 12.0443 15.931 11.9819C15.931 11.9197 15.8805 11.8691 15.8181 11.8691Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// keyboard 1 — twoTone style variants.
+class _ComputerTvKeyboard1Twotone {
+  const _ComputerTvKeyboard1Twotone();
+
+  /// keyboard 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'keyboard 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M7.76176 20.2499H16.2285C19.1659 20.2499 21 18.6065 21 15.5874V8.49834C21 5.43154 19.1659 3.75024 16.2285 3.75024H7.77051C4.82436 3.75024 3.00004 5.40235 3.00004 8.42245V15.5874C2.99031 18.6065 4.8156 20.2499 7.76176 20.2499Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6727 16.1426H9.32812" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6559 8.61553V8.59378M13.656 8.47949C13.5935 8.47949 13.543 8.53006 13.543 8.59226C13.543 8.65468 13.5935 8.70525 13.656 8.70525C13.7184 8.70525 13.7689 8.65468 13.7689 8.59226C13.7689 8.53006 13.7184 8.47949 13.656 8.47949Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3337 8.61553V8.59378M10.3337 8.47949C10.2713 8.47949 10.2207 8.53006 10.2207 8.59226C10.2207 8.65468 10.2713 8.70525 10.3337 8.70525C10.3961 8.70525 10.4467 8.65468 10.4467 8.59226C10.4467 8.53006 10.3961 8.47949 10.3337 8.47949Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.0119 8.61553V8.59378M7.01191 8.47949C6.94949 8.47949 6.89893 8.53006 6.89893 8.59226C6.89893 8.65468 6.94949 8.70525 7.01191 8.70525C7.07432 8.70525 7.12489 8.65468 7.12489 8.59226C7.12489 8.53006 7.07432 8.47949 7.01191 8.47949Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9802 8.61553V8.59378M16.9802 8.47949C16.9178 8.47949 16.8672 8.53006 16.8672 8.59226C16.8672 8.65468 16.9178 8.70525 16.9802 8.70525C17.0426 8.70525 17.0932 8.65468 17.0932 8.59226C17.0932 8.53006 17.0426 8.47949 16.9802 8.47949Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9958 12.0057V11.9839M11.9958 11.8696C11.9334 11.8696 11.8828 11.9202 11.8828 11.9824C11.8828 12.0448 11.9334 12.0954 11.9958 12.0954C12.0582 12.0954 12.1088 12.0448 12.1088 11.9824C12.1088 11.9202 12.0582 11.8696 11.9958 11.8696Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.67157 12.0057V11.9839M8.67158 11.8696C8.60916 11.8696 8.55859 11.9202 8.55859 11.9824C8.55859 12.0448 8.60916 12.0954 8.67158 12.0954C8.73399 12.0954 8.78456 12.0448 8.78456 11.9824C8.78456 11.9202 8.73399 11.8696 8.67158 11.8696Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3181 12.0057V11.9839M15.3181 11.8696C15.2556 11.8696 15.2051 11.9202 15.2051 11.9824C15.2051 12.0448 15.2556 12.0954 15.3181 12.0954C15.3805 12.0954 15.431 12.0448 15.431 11.9824C15.431 11.9202 15.3805 11.8696 15.3181 11.8696Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// keyboard 1 — outline style variants.
+class _ComputerTvKeyboard1Outline {
+  const _ComputerTvKeyboard1Outline();
+
+  /// keyboard 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'keyboard 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.76136 4.41249C4.76168 3.4532 6.16095 3.00024 7.77051 3.00024H16.2285C17.8377 3.00024 19.2382 3.46279 20.2389 4.4368C21.2429 5.414 21.75 6.81413 21.75 8.49834V15.5874C21.75 17.2513 21.2406 18.6321 20.2337 19.5933C19.2321 20.5494 17.8332 20.9999 16.2285 20.9999H7.76176C6.15339 20.9999 4.75368 20.5498 3.7538 19.5926C2.74876 18.6304 2.24493 17.2491 2.25004 15.5862V8.42245C2.25004 6.75931 2.7562 5.37642 3.76136 4.41249ZM4.79958 5.49512C4.15604 6.11227 3.75004 7.06549 3.75004 8.42245V15.5874L3.75003 15.5898C3.74567 16.9455 4.14963 17.895 4.79108 18.5091C5.43796 19.1283 6.42396 19.4999 7.76176 19.4999H16.2285C17.5613 19.4999 18.5481 19.1286 19.1979 18.5083C19.8424 17.8931 20.25 16.9426 20.25 15.5874V8.49834C20.25 7.11576 19.8401 6.14183 19.1927 5.51169C18.542 4.87834 17.5568 4.50024 16.2285 4.50024H7.77051C6.43392 4.50024 5.44795 4.87334 4.79958 5.49512Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.57812 16.1426C8.57812 15.7284 8.91391 15.3926 9.32812 15.3926H14.6727C15.0869 15.3926 15.4227 15.7284 15.4227 16.1426C15.4227 16.5568 15.0869 16.8926 14.6727 16.8926H9.32812C8.91391 16.8926 8.57812 16.5568 8.57812 16.1426Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.14648 8.59226C6.14648 8.11493 6.53375 7.72949 7.00947 7.72949C7.48518 7.72949 7.87245 8.11493 7.87245 8.59226C7.87245 9.06889 7.4861 9.45525 7.00947 9.45525C6.53284 9.45525 6.14648 9.06889 6.14648 8.59226Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.793 8.59226C12.793 8.11493 13.1802 7.72949 13.656 7.72949C14.1317 7.72949 14.5189 8.11493 14.5189 8.59226C14.5189 9.06889 14.1326 9.45525 13.656 9.45525C13.1793 9.45525 12.793 9.06889 12.793 8.59226Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.4707 8.59226C9.4707 8.11493 9.85797 7.72949 10.3337 7.72949C10.8094 7.72949 11.1967 8.11493 11.1967 8.59226C11.1967 9.06889 10.8103 9.45525 10.3337 9.45525C9.85706 9.45525 9.4707 9.06889 9.4707 8.59226Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.1172 8.59226C16.1172 8.11493 16.5045 7.72949 16.9802 7.72949C17.4559 7.72949 17.8432 8.11493 17.8432 8.59226C17.8432 9.06889 17.4568 9.45525 16.9802 9.45525C16.5035 9.45525 16.1172 9.06889 16.1172 8.59226Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1328 11.9824C11.1328 11.5051 11.5201 11.1196 11.9958 11.1196C12.4715 11.1196 12.8588 11.5051 12.8588 11.9824C12.8588 12.459 12.4724 12.8454 11.9958 12.8454C11.5192 12.8454 11.1328 12.459 11.1328 11.9824Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.80859 11.9824C7.80859 11.5051 8.19586 11.1196 8.67158 11.1196C9.14729 11.1196 9.53456 11.5051 9.53456 11.9824C9.53456 12.459 9.14821 12.8454 8.67158 12.8454C8.19495 12.8454 7.80859 12.459 7.80859 11.9824Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4551 11.9824C14.4551 11.5051 14.8423 11.1196 15.3181 11.1196C15.7938 11.1196 16.181 11.5051 16.181 11.9824C16.181 12.459 15.7947 12.8454 15.3181 12.8454C14.8414 12.8454 14.4551 12.459 14.4551 11.9824Z" fill="black"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// keyboard 1 — bold style variants.
+class _ComputerTvKeyboard1Bold {
+  const _ComputerTvKeyboard1Bold();
+
+  /// keyboard 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'keyboard 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.98 9.455C16.504 9.455 16.117 9.068 16.117 8.592C16.117 8.116 16.504 7.729 16.98 7.729C17.456 7.729 17.843 8.116 17.843 8.592C17.843 9.068 17.456 9.455 16.98 9.455ZM15.318 12.845C14.842 12.845 14.455 12.458 14.455 11.982C14.455 11.507 14.842 11.12 15.318 11.12C15.794 11.12 16.181 11.507 16.181 11.982C16.181 12.458 15.794 12.845 15.318 12.845ZM14.673 16.893H9.32804C8.91404 16.893 8.57804 16.557 8.57804 16.143C8.57804 15.729 8.91404 15.393 9.32804 15.393H14.673C15.087 15.393 15.423 15.729 15.423 16.143C15.423 16.557 15.087 16.893 14.673 16.893ZM7.80904 11.982C7.80904 11.507 8.19604 11.12 8.67104 11.12C9.14704 11.12 9.53504 11.507 9.53504 11.982C9.53504 12.458 9.14704 12.845 8.67104 12.845C8.19604 12.845 7.80904 12.458 7.80904 11.982ZM7.01204 9.455C6.53604 9.455 6.14904 9.068 6.14904 8.592C6.14904 8.116 6.53604 7.729 7.01204 7.729C7.48804 7.729 7.87504 8.116 7.87504 8.592C7.87504 9.068 7.48804 9.455 7.01204 9.455ZM10.334 7.729C10.81 7.729 11.197 8.116 11.197 8.592C11.197 9.068 10.81 9.455 10.334 9.455C9.85804 9.455 9.47104 9.068 9.47104 8.592C9.47104 8.116 9.85804 7.729 10.334 7.729ZM11.996 11.12C12.472 11.12 12.859 11.507 12.859 11.982C12.859 12.458 12.472 12.845 11.996 12.845C11.52 12.845 11.133 12.458 11.133 11.982C11.133 11.507 11.52 11.12 11.996 11.12ZM13.656 7.729C14.132 7.729 14.519 8.116 14.519 8.592C14.519 9.068 14.132 9.455 13.656 9.455C13.18 9.455 12.793 9.068 12.793 8.592C12.793 8.116 13.18 7.729 13.656 7.729ZM16.229 3.25H7.77104C4.47004 3.25 2.50004 5.184 2.50004 8.422V15.585C2.49504 17.148 2.96404 18.448 3.85704 19.343C4.77404 20.264 6.12504 20.75 7.76204 20.75H16.229C19.529 20.75 21.5 18.82 21.5 15.587V8.498C21.5 5.212 19.529 3.25 16.229 3.25Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// keyboard 1 — light style variants.
+class _ComputerTvKeyboard1Light {
+  const _ComputerTvKeyboard1Light();
+
+  /// keyboard 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'keyboard 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.76176 20.2496H16.2285C19.1659 20.2496 21 18.6063 21 15.5872V8.4981C21 5.43129 19.1659 3.75 16.2285 3.75H7.77051C4.82436 3.75 3.00004 5.4021 3.00004 8.42221V15.5872C2.99031 18.6063 4.8156 20.2496 7.76176 20.2496Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6727 16.1426H9.32812" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6559 8.61651V8.59476M13.656 8.48047C13.5935 8.48047 13.543 8.53104 13.543 8.59324C13.543 8.65566 13.5935 8.70622 13.656 8.70622C13.7184 8.70622 13.7689 8.65566 13.7689 8.59324C13.7689 8.53104 13.7184 8.48047 13.656 8.48047Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3337 8.61651V8.59476M10.3337 8.48047C10.2713 8.48047 10.2207 8.53104 10.2207 8.59324C10.2207 8.65566 10.2713 8.70622 10.3337 8.70622C10.3961 8.70622 10.4467 8.65566 10.4467 8.59324C10.4467 8.53104 10.3961 8.48047 10.3337 8.48047Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.01239 8.61651V8.59476M7.0124 8.48047C6.94998 8.48047 6.89941 8.53104 6.89941 8.59324C6.89941 8.65566 6.94998 8.70622 7.0124 8.70622C7.07481 8.70622 7.12538 8.65566 7.12538 8.59324C7.12538 8.53104 7.07481 8.48047 7.0124 8.48047Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9802 8.61651V8.59476M16.9802 8.48047C16.9178 8.48047 16.8672 8.53104 16.8672 8.59324C16.8672 8.65566 16.9178 8.70622 16.9802 8.70622C17.0426 8.70622 17.0932 8.65566 17.0932 8.59324C17.0932 8.53104 17.0426 8.48047 16.9802 8.48047Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9958 12.0052V11.9834M11.9958 11.8691C11.9334 11.8691 11.8828 11.9197 11.8828 11.9819C11.8828 12.0443 11.9334 12.0949 11.9958 12.0949C12.0582 12.0949 12.1088 12.0443 12.1088 11.9819C12.1088 11.9197 12.0582 11.8691 11.9958 11.8691Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.67157 12.0052V11.9834M8.67158 11.8691C8.60916 11.8691 8.55859 11.9197 8.55859 11.9819C8.55859 12.0443 8.60916 12.0949 8.67158 12.0949C8.73399 12.0949 8.78456 12.0443 8.78456 11.9819C8.78456 11.9197 8.73399 11.8691 8.67158 11.8691Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3181 12.0052V11.9834M15.3181 11.8691C15.2556 11.8691 15.2051 11.9197 15.2051 11.9819C15.2051 12.0443 15.2556 12.0949 15.3181 12.0949C15.3805 12.0949 15.431 12.0443 15.431 11.9819C15.431 11.9197 15.3805 11.8691 15.3181 11.8691Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// keyboard 2 icon with style variants.
+class _ComputerTvKeyboard2Icon {
+  const _ComputerTvKeyboard2Icon();
+
+  /// bold style
+  _ComputerTvKeyboard2Bold get bold => const _ComputerTvKeyboard2Bold();
+  /// bulk style
+  _ComputerTvKeyboard2Bulk get bulk => const _ComputerTvKeyboard2Bulk();
+  /// light style
+  _ComputerTvKeyboard2Light get light => const _ComputerTvKeyboard2Light();
+  /// outline style
+  _ComputerTvKeyboard2Outline get outline => const _ComputerTvKeyboard2Outline();
+  /// twoTone style
+  _ComputerTvKeyboard2Twotone get twoTone => const _ComputerTvKeyboard2Twotone();
+  /// broken style
+  _ComputerTvKeyboard2Broken get broken => const _ComputerTvKeyboard2Broken();
+}
+
+/// keyboard 2 — bulk style variants.
+class _ComputerTvKeyboard2Bulk {
+  const _ComputerTvKeyboard2Bulk();
+
+  /// keyboard 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'keyboard 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.228 4.39502H7.77104C4.47104 4.39502 2.50004 6.32902 2.50004 9.56702V14.441C2.49504 16.004 2.96404 17.303 3.85604 18.199C4.77304 19.119 6.12404 19.605 7.76204 19.605H16.228C19.529 19.605 21.5 17.675 21.5 14.443V9.64302C21.5 6.35702 19.529 4.39502 16.228 4.39502Z" fill="black"/> <path d="M16.253 8.83817C16.253 9.31517 16.641 9.70417 17.119 9.70417C17.597 9.70417 17.985 9.31517 17.985 8.83817C17.985 8.36017 17.597 7.97217 17.119 7.97217C16.641 7.97217 16.253 8.36017 16.253 8.83817Z" fill="black"/> <path d="M14.545 11.7172C14.545 12.1952 14.933 12.5842 15.411 12.5842C15.889 12.5842 16.277 12.1952 16.277 11.7172C16.277 11.2402 15.889 10.8522 15.411 10.8522C14.933 10.8522 14.545 11.2402 14.545 11.7172Z" fill="black"/> <path d="M9.17803 16.1442H14.823C15.237 16.1442 15.573 15.8082 15.573 15.3942C15.573 14.9802 15.237 14.6442 14.823 14.6442H9.17803C8.76403 14.6442 8.42803 14.9802 8.42803 15.3942C8.42803 15.8082 8.76403 16.1442 9.17803 16.1442Z" fill="black"/> <path d="M8.57903 10.8522C8.10103 10.8522 7.71303 11.2402 7.71303 11.7172C7.71303 12.1952 8.10103 12.5842 8.57903 12.5842C9.05603 12.5842 9.44503 12.1952 9.44503 11.7172C9.44503 11.2402 9.05603 10.8522 8.57903 10.8522Z" fill="black"/> <path d="M6.00403 8.83817C6.00403 9.31517 6.39203 9.70417 6.87003 9.70417C7.34803 9.70417 7.73603 9.31517 7.73603 8.83817C7.73603 8.36017 7.34803 7.97217 6.87003 7.97217C6.39203 7.97217 6.00403 8.36017 6.00403 8.83817Z" fill="black"/> <path d="M11.153 8.83817C11.153 8.36017 10.765 7.97217 10.287 7.97217C9.80903 7.97217 9.42103 8.36017 9.42103 8.83817C9.42103 9.31517 9.80903 9.70417 10.287 9.70417C10.765 9.70417 11.153 9.31517 11.153 8.83817Z" fill="black"/> <path d="M12.861 11.7172C12.861 11.2402 12.473 10.8522 11.995 10.8522C11.517 10.8522 11.129 11.2402 11.129 11.7172C11.129 12.1952 11.517 12.5842 11.995 12.5842C12.473 12.5842 12.861 12.1952 12.861 11.7172Z" fill="black"/> <path d="M14.568 8.83817C14.568 8.36017 14.181 7.97217 13.703 7.97217C13.225 7.97217 12.837 8.36017 12.837 8.83817C12.837 9.31517 13.225 9.70417 13.703 9.70417C14.181 9.70417 14.568 9.31517 14.568 8.83817Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// keyboard 2 — broken style variants.
+class _ComputerTvKeyboard2Broken {
+  const _ComputerTvKeyboard2Broken();
+
+  /// keyboard 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'keyboard 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.7285 4.89453C19.6659 4.89453 21.5 6.57582 21.5 9.64263V14.4423C21.5 17.4624 19.6659 19.1048 16.7285 19.1048H8.26176C5.3156 19.1048 3.49031 17.4624 3.50004 14.4423V9.56674C3.50004 6.54664 5.32436 4.89453 8.27051 4.89453H13.6576" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3229 15.3945H9.67773" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.37004 8.8625V8.84015M7.37005 8.72266C7.30589 8.72266 7.25391 8.77464 7.25391 8.83859C7.25391 8.90275 7.30589 8.95473 7.37005 8.95473C7.43422 8.95473 7.4862 8.90275 7.4862 8.83859C7.4862 8.77464 7.43422 8.72266 7.37005 8.72266Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2031 8.8625V8.84015M14.2031 8.72266C14.1389 8.72266 14.0869 8.77464 14.0869 8.83859C14.0869 8.90275 14.1389 8.95473 14.2031 8.95473C14.2672 8.95473 14.3192 8.90275 14.3192 8.83859C14.3192 8.77464 14.2672 8.72266 14.2031 8.72266Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.787 8.8625V8.84015M10.787 8.72266C10.7229 8.72266 10.6709 8.77464 10.6709 8.83859C10.6709 8.90275 10.7229 8.95473 10.787 8.95473C10.8512 8.95473 10.9032 8.90275 10.9032 8.83859C10.9032 8.77464 10.8512 8.72266 10.787 8.72266Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.6191 8.8625V8.84015M17.6191 8.72266C17.5549 8.72266 17.5029 8.77464 17.5029 8.83859C17.5029 8.90275 17.5549 8.95473 17.6191 8.95473C17.6832 8.95473 17.7352 8.90275 17.7352 8.83859C17.7352 8.77464 17.6832 8.72266 17.6191 8.72266Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.495 11.7414V11.7191M12.4951 11.6016C12.4309 11.6016 12.3789 11.6535 12.3789 11.7175C12.3789 11.7817 12.4309 11.8336 12.4951 11.8336C12.5592 11.8336 12.6112 11.7817 12.6112 11.7175C12.6112 11.6535 12.5592 11.6016 12.4951 11.6016Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.07903 11.7414V11.7191M9.07904 11.6016C9.01487 11.6016 8.96289 11.6535 8.96289 11.7175C8.96289 11.7817 9.01487 11.8336 9.07904 11.8336C9.1432 11.8336 9.19518 11.7817 9.19518 11.7175C9.19518 11.6535 9.1432 11.6016 9.07904 11.6016Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.9111 11.7414V11.7191M15.9111 11.6016C15.8469 11.6016 15.7949 11.6535 15.7949 11.7175C15.7949 11.7817 15.8469 11.8336 15.9111 11.8336C15.9752 11.8336 16.0272 11.7817 16.0272 11.7175C16.0272 11.6535 15.9752 11.6016 15.9111 11.6016Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// keyboard 2 — twoTone style variants.
+class _ComputerTvKeyboard2Twotone {
+  const _ComputerTvKeyboard2Twotone();
+
+  /// keyboard 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'keyboard 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M16.2285 19.105H7.76176C4.8156 19.105 2.99031 17.4626 3.00004 14.4425V9.56698C3.00004 6.54688 4.82436 4.89478 7.77051 4.89478H16.2285C19.1659 4.89478 21 6.57607 21 9.64287V14.4425C21 17.4626 19.1659 19.105 16.2285 19.105Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.8229 15.3938H9.17773" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.87004 8.86153V8.83917M6.87005 8.72168C6.80589 8.72168 6.75391 8.77366 6.75391 8.83761C6.75391 8.90177 6.80589 8.95376 6.87005 8.95376C6.93422 8.95376 6.9862 8.90177 6.9862 8.83761C6.9862 8.77366 6.93422 8.72168 6.87005 8.72168Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.7031 8.86153V8.83917M13.7031 8.72168C13.6389 8.72168 13.5869 8.77366 13.5869 8.83761C13.5869 8.90177 13.6389 8.95376 13.7031 8.95376C13.7672 8.95376 13.8192 8.90177 13.8192 8.83761C13.8192 8.77366 13.7672 8.72168 13.7031 8.72168Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.287 8.86153V8.83917M10.287 8.72168C10.2229 8.72168 10.1709 8.77366 10.1709 8.83761C10.1709 8.90177 10.2229 8.95376 10.287 8.95376C10.3512 8.95376 10.4032 8.90177 10.4032 8.83761C10.4032 8.77366 10.3512 8.72168 10.287 8.72168Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1191 8.86153V8.83917M17.1191 8.72168C17.0549 8.72168 17.0029 8.77366 17.0029 8.83761C17.0029 8.90177 17.0549 8.95376 17.1191 8.95376C17.1832 8.95376 17.2352 8.90177 17.2352 8.83761C17.2352 8.77366 17.1832 8.72168 17.1191 8.72168Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.995 11.7414V11.7191M11.9951 11.6016C11.9309 11.6016 11.8789 11.6535 11.8789 11.7175C11.8789 11.7817 11.9309 11.8336 11.9951 11.8336C12.0592 11.8336 12.1112 11.7817 12.1112 11.7175C12.1112 11.6535 12.0592 11.6016 11.9951 11.6016Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.57903 11.7414V11.7191M8.57904 11.6016C8.51487 11.6016 8.46289 11.6535 8.46289 11.7175C8.46289 11.7817 8.51487 11.8336 8.57904 11.8336C8.6432 11.8336 8.69518 11.7817 8.69518 11.7175C8.69518 11.6535 8.6432 11.6016 8.57904 11.6016Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4111 11.7414V11.7191M15.4111 11.6016C15.3469 11.6016 15.2949 11.6535 15.2949 11.7175C15.2949 11.7817 15.3469 11.8336 15.4111 11.8336C15.4752 11.8336 15.5272 11.7817 15.5272 11.7175C15.5272 11.6535 15.4752 11.6016 15.4111 11.6016Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// keyboard 2 — outline style variants.
+class _ComputerTvKeyboard2Outline {
+  const _ComputerTvKeyboard2Outline();
+
+  /// keyboard 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'keyboard 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.76136 5.55703C4.76168 4.59773 6.16095 4.14478 7.77051 4.14478H16.2285C17.8377 4.14478 19.2382 4.60732 20.2389 5.58133C21.2429 6.55853 21.75 7.95866 21.75 9.64287V14.4425C21.75 16.1069 21.2406 17.4877 20.2336 18.4488C19.232 19.4049 17.8331 19.855 16.2285 19.855H7.76176C6.15351 19.855 4.75377 19.4052 3.75384 18.4481C2.74872 17.4861 2.24493 16.1047 2.25004 14.4414V9.56698C2.25004 7.90384 2.7562 6.52096 3.76136 5.55703ZM4.79958 6.63966C4.15604 7.2568 3.75004 8.21002 3.75004 9.56698V14.4425L3.75003 14.445C3.74567 15.8012 4.14966 16.7506 4.79104 17.3645C5.43786 17.9836 6.42385 18.355 7.76176 18.355H16.2285C17.5614 18.355 18.5482 17.984 19.198 17.3638C19.8423 16.7487 20.25 15.7983 20.25 14.4425V9.64287C20.25 8.26029 19.8401 7.28636 19.1927 6.65622C18.542 6.02288 17.5568 5.64478 16.2285 5.64478H7.77051C6.43392 5.64478 5.44795 6.01788 4.79958 6.63966Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.42773 15.3938C8.42773 14.9796 8.76352 14.6438 9.17773 14.6438H14.8229C15.2371 14.6438 15.5729 14.9796 15.5729 15.3938C15.5729 15.808 15.2371 16.1438 14.8229 16.1438H9.17773C8.76352 16.1438 8.42773 15.808 8.42773 15.3938Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.00391 8.83761C6.00391 8.35853 6.39259 7.97168 6.87005 7.97168C7.34752 7.97168 7.7362 8.35854 7.7362 8.83761C7.7362 9.31598 7.34843 9.70376 6.87005 9.70376C6.39167 9.70376 6.00391 9.31598 6.00391 8.83761Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8369 8.83761C12.8369 8.35853 13.2256 7.97168 13.7031 7.97168C14.1805 7.97168 14.5692 8.35854 14.5692 8.83761C14.5692 9.31598 14.1814 9.70376 13.7031 9.70376C13.2247 9.70376 12.8369 9.31598 12.8369 8.83761Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.4209 8.83761C9.4209 8.35853 9.80958 7.97168 10.287 7.97168C10.7645 7.97168 11.1532 8.35854 11.1532 8.83761C11.1532 9.31598 10.7654 9.70376 10.287 9.70376C9.80867 9.70376 9.4209 9.31598 9.4209 8.83761Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2529 8.83761C16.2529 8.35853 16.6416 7.97168 17.1191 7.97168C17.5965 7.97168 17.9852 8.35854 17.9852 8.83761C17.9852 9.31598 17.5975 9.70376 17.1191 9.70376C16.6407 9.70376 16.2529 9.31598 16.2529 8.83761Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1289 11.7175C11.1289 11.2384 11.5176 10.8516 11.9951 10.8516C12.4725 10.8516 12.8612 11.2384 12.8612 11.7175C12.8612 12.1959 12.4734 12.5836 11.9951 12.5836C11.5167 12.5836 11.1289 12.1959 11.1289 11.7175Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.71289 11.7175C7.71289 11.2384 8.10158 10.8516 8.57904 10.8516C9.0565 10.8516 9.44518 11.2384 9.44518 11.7175C9.44518 12.1959 9.05742 12.5836 8.57904 12.5836C8.10066 12.5836 7.71289 12.1959 7.71289 11.7175Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5449 11.7175C14.5449 11.2384 14.9336 10.8516 15.4111 10.8516C15.8885 10.8516 16.2772 11.2384 16.2772 11.7175C16.2772 12.1959 15.8894 12.5836 15.4111 12.5836C14.9327 12.5836 14.5449 12.1959 14.5449 11.7175Z" fill="black"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// keyboard 2 — bold style variants.
+class _ComputerTvKeyboard2Bold {
+  const _ComputerTvKeyboard2Bold();
+
+  /// keyboard 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'keyboard 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.119 9.70402C16.641 9.70402 16.253 9.31502 16.253 8.83802C16.253 8.36002 16.641 7.97202 17.119 7.97202C17.597 7.97202 17.985 8.36002 17.985 8.83802C17.985 9.31502 17.597 9.70402 17.119 9.70402ZM15.411 12.584C14.933 12.584 14.545 12.195 14.545 11.717C14.545 11.24 14.933 10.852 15.411 10.852C15.889 10.852 16.277 11.24 16.277 11.717C16.277 12.195 15.889 12.584 15.411 12.584ZM14.823 16.144H9.17804C8.76404 16.144 8.42804 15.808 8.42804 15.394C8.42804 14.98 8.76404 14.644 9.17804 14.644H14.823C15.237 14.644 15.573 14.98 15.573 15.394C15.573 15.808 15.237 16.144 14.823 16.144ZM7.71304 11.717C7.71304 11.24 8.10104 10.852 8.57904 10.852C9.05604 10.852 9.44504 11.24 9.44504 11.717C9.44504 12.195 9.05604 12.584 8.57904 12.584C8.10104 12.584 7.71304 12.195 7.71304 11.717ZM6.87004 9.70402C6.39204 9.70402 6.00404 9.31502 6.00404 8.83802C6.00404 8.36002 6.39204 7.97202 6.87004 7.97202C7.34804 7.97202 7.73604 8.36002 7.73604 8.83802C7.73604 9.31502 7.34804 9.70402 6.87004 9.70402ZM10.287 7.97202C10.765 7.97202 11.153 8.36002 11.153 8.83802C11.153 9.31502 10.765 9.70402 10.287 9.70402C9.80904 9.70402 9.42104 9.31502 9.42104 8.83802C9.42104 8.36002 9.80904 7.97202 10.287 7.97202ZM11.995 10.852C12.473 10.852 12.861 11.24 12.861 11.717C12.861 12.195 12.473 12.584 11.995 12.584C11.517 12.584 11.129 12.195 11.129 11.717C11.129 11.24 11.517 10.852 11.995 10.852ZM13.703 7.97202C14.181 7.97202 14.568 8.36002 14.568 8.83802C14.568 9.31502 14.181 9.70402 13.703 9.70402C13.225 9.70402 12.837 9.31502 12.837 8.83802C12.837 8.36002 13.225 7.97202 13.703 7.97202ZM16.228 4.39502H7.77104C4.47104 4.39502 2.50004 6.32902 2.50004 9.56702V14.441C2.49504 16.004 2.96404 17.303 3.85604 18.199C4.77304 19.119 6.12404 19.605 7.76204 19.605H16.228C19.529 19.605 21.5 17.675 21.5 14.443V9.64302C21.5 6.35702 19.529 4.39502 16.228 4.39502Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// keyboard 2 — light style variants.
+class _ComputerTvKeyboard2Light {
+  const _ComputerTvKeyboard2Light();
+
+  /// keyboard 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'keyboard 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.2285 19.1048H7.76176C4.8156 19.1048 2.99031 17.4624 3.00004 14.4423V9.56674C3.00004 6.54664 4.82436 4.89453 7.77051 4.89453H16.2285C19.1659 4.89453 21 6.57582 21 9.64263V14.4423C21 17.4624 19.1659 19.1048 16.2285 19.1048Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.8229 15.3945H9.17773" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.87004 8.8625V8.84015M6.87005 8.72266C6.80589 8.72266 6.75391 8.77464 6.75391 8.83859C6.75391 8.90275 6.80589 8.95473 6.87005 8.95473C6.93422 8.95473 6.9862 8.90275 6.9862 8.83859C6.9862 8.77464 6.93422 8.72266 6.87005 8.72266Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.7031 8.8625V8.84015M13.7031 8.72266C13.6389 8.72266 13.5869 8.77464 13.5869 8.83859C13.5869 8.90275 13.6389 8.95473 13.7031 8.95473C13.7672 8.95473 13.8192 8.90275 13.8192 8.83859C13.8192 8.77464 13.7672 8.72266 13.7031 8.72266Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.287 8.8625V8.84015M10.287 8.72266C10.2229 8.72266 10.1709 8.77464 10.1709 8.83859C10.1709 8.90275 10.2229 8.95473 10.287 8.95473C10.3512 8.95473 10.4032 8.90275 10.4032 8.83859C10.4032 8.77464 10.3512 8.72266 10.287 8.72266Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1191 8.8625V8.84015M17.1191 8.72266C17.0549 8.72266 17.0029 8.77464 17.0029 8.83859C17.0029 8.90275 17.0549 8.95473 17.1191 8.95473C17.1832 8.95473 17.2352 8.90275 17.2352 8.83859C17.2352 8.77464 17.1832 8.72266 17.1191 8.72266Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.995 11.7414V11.7191M11.9951 11.6016C11.9309 11.6016 11.8789 11.6535 11.8789 11.7175C11.8789 11.7817 11.9309 11.8336 11.9951 11.8336C12.0592 11.8336 12.1112 11.7817 12.1112 11.7175C12.1112 11.6535 12.0592 11.6016 11.9951 11.6016Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.57903 11.7414V11.7191M8.57904 11.6016C8.51487 11.6016 8.46289 11.6535 8.46289 11.7175C8.46289 11.7817 8.51487 11.8336 8.57904 11.8336C8.6432 11.8336 8.69518 11.7817 8.69518 11.7175C8.69518 11.6535 8.6432 11.6016 8.57904 11.6016Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4111 11.7414V11.7191M15.4111 11.6016C15.3469 11.6016 15.2949 11.6535 15.2949 11.7175C15.2949 11.7817 15.3469 11.8336 15.4111 11.8336C15.4752 11.8336 15.5272 11.7817 15.5272 11.7175C15.5272 11.6535 15.4752 11.6016 15.4111 11.6016Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -2900,6 +3544,114 @@ class _ComputerTvMonitorDisplayRemoveLight {
 
 }
 
+/// monitor display remove 1 icon with style variants.
+class _ComputerTvMonitorDisplayRemove1Icon {
+  const _ComputerTvMonitorDisplayRemove1Icon();
+
+  /// bold style
+  _ComputerTvMonitorDisplayRemove1Bold get bold => const _ComputerTvMonitorDisplayRemove1Bold();
+  /// bulk style
+  _ComputerTvMonitorDisplayRemove1Bulk get bulk => const _ComputerTvMonitorDisplayRemove1Bulk();
+  /// light style
+  _ComputerTvMonitorDisplayRemove1Light get light => const _ComputerTvMonitorDisplayRemove1Light();
+  /// outline style
+  _ComputerTvMonitorDisplayRemove1Outline get outline => const _ComputerTvMonitorDisplayRemove1Outline();
+  /// twoTone style
+  _ComputerTvMonitorDisplayRemove1Twotone get twoTone => const _ComputerTvMonitorDisplayRemove1Twotone();
+  /// broken style
+  _ComputerTvMonitorDisplayRemove1Broken get broken => const _ComputerTvMonitorDisplayRemove1Broken();
+}
+
+/// monitor display remove 1 — bulk style variants.
+class _ComputerTvMonitorDisplayRemove1Bulk {
+  const _ComputerTvMonitorDisplayRemove1Bulk();
+
+  /// monitor display remove 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display remove 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.7643 4.05086C13.7643 7.35086 16.4443 10.0209 19.7343 10.0209C20.0369 10.0209 20.3345 9.99609 20.6238 9.95354C20.8111 9.92598 20.9843 10.0675 20.9843 10.2568V13.1109C20.9843 15.6109 18.9543 17.6409 16.4543 17.6409H6.51425C4.01425 17.6409 1.98425 15.6109 1.98425 13.1109V7.66086C1.98425 5.16086 4.01425 3.13086 6.51425 3.13086H13.4783C13.6676 3.13086 13.8097 3.30435 13.7904 3.49268C13.7715 3.67728 13.7643 3.86407 13.7643 4.05086Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2659 7.5442C21.0739 7.5442 20.8819 7.4712 20.7359 7.3242L19.3379 5.9272L17.9409 7.3242C17.6479 7.6172 17.1739 7.6172 16.8809 7.3242C16.5879 7.0312 16.5879 6.5572 16.8809 6.2642L18.2779 4.8672L16.8809 3.4692C16.5879 3.1762 16.5879 2.7022 16.8809 2.4092C17.1739 2.1162 17.6479 2.1162 17.9409 2.4092L19.3379 3.8062L20.7359 2.4092C21.0289 2.1162 21.5029 2.1162 21.7959 2.4092C22.0889 2.7022 22.0889 3.1762 21.7959 3.4692L20.3989 4.8672L21.7959 6.2642C22.0889 6.5572 22.0889 7.0312 21.7959 7.3242C21.6499 7.4712 21.4579 7.5442 21.2659 7.5442Z" fill="black"/> <path d="M8.52728 17.6426L8.09328 20.3106H6.54028C6.12628 20.3106 5.79028 20.6466 5.79028 21.0606C5.79028 21.4746 6.12628 21.8106 6.54028 21.8106H16.4283C16.8423 21.8106 17.1783 21.4746 17.1783 21.0606C17.1783 20.6466 16.8423 20.3106 16.4283 20.3106H14.8763L14.4413 17.6426H12.9223L13.3563 20.3106H9.61328L10.0463 17.6426H8.52728Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display remove 1 — broken style variants.
+class _ComputerTvMonitorDisplayRemove1Broken {
+  const _ComputerTvMonitorDisplayRemove1Broken();
+
+  /// monitor display remove 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display remove 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.5 13.0967C3.5 15.2568 5.25046 17.0072 7.41057 17.0072H17.061C19.2201 17.0072 20.9715 15.2568 20.9715 13.0967V10.4141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4474 3.89062H7.41057C5.25046 3.89062 3.5 5.64109 3.5 7.80119V10.4493" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.4996 3.18945L17.6445 7.04456M21.4996 7.04456L17.6445 3.18945" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.43555 20.8105H17.0334" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.1813 17.0078L9.5625 20.8094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2891 17.0078L14.9079 20.8094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display remove 1 — twoTone style variants.
+class _ComputerTvMonitorDisplayRemove1Twotone {
+  const _ComputerTvMonitorDisplayRemove1Twotone();
+
+  /// monitor display remove 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display remove 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.9474 3.89087H6.91057C4.75046 3.89087 3 5.64133 3 7.80144V13.0976C3 15.2577 4.75046 17.0081 6.91057 17.0081H16.561C18.7201 17.0081 20.4715 15.2577 20.4715 13.0976V10.415" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.9996 3.18945L17.1445 7.04456M20.9996 7.04456L17.1445 3.18945" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.93555 20.8105H16.5334" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.68134 17.0088L9.0625 20.8104" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.7891 17.0088L14.4079 20.8104" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display remove 1 — outline style variants.
+class _ComputerTvMonitorDisplayRemove1Outline {
+  const _ComputerTvMonitorDisplayRemove1Outline();
+
+  /// monitor display remove 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display remove 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 7.80144C2.25 5.22712 4.33625 3.14087 6.91057 3.14087H13.9474C14.3617 3.14087 14.6974 3.47666 14.6974 3.89087C14.6974 4.30508 14.3617 4.64087 13.9474 4.64087H6.91057C5.16468 4.64087 3.75 6.05555 3.75 7.80144V13.0976C3.75 14.8435 5.16468 16.2581 6.91057 16.2581H16.561C18.306 16.2581 19.7215 14.8434 19.7215 13.0976V10.415C19.7215 10.0008 20.0573 9.66497 20.4715 9.66497C20.8858 9.66497 21.2215 10.0008 21.2215 10.415V13.0976C21.2215 15.672 19.1342 17.7581 16.561 17.7581H6.91057C4.33625 17.7581 2.25 15.6719 2.25 13.0976V7.80144Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.6142 2.65912C16.9071 2.36623 17.382 2.36623 17.6749 2.65912L19.0721 4.05635L20.4693 2.65912C20.7622 2.36623 21.2371 2.36623 21.53 2.65912C21.8229 2.95202 21.8229 3.42689 21.53 3.71978L20.1327 5.11701L21.53 6.51423C21.8229 6.80712 21.8229 7.28199 21.53 7.57489C21.2371 7.86778 20.7622 7.86778 20.4693 7.57489L19.0721 6.17767L17.6749 7.57489C17.382 7.86778 16.9071 7.86778 16.6142 7.57489C16.3213 7.28199 16.3213 6.80712 16.6142 6.51423L18.0114 5.11701L16.6142 3.71978C16.3213 3.42689 16.3213 2.95202 16.6142 2.65912Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.18555 20.8105C6.18555 20.3963 6.52133 20.0605 6.93555 20.0605H16.5334C16.9476 20.0605 17.2834 20.3963 17.2834 20.8105C17.2834 21.2248 16.9476 21.5605 16.5334 21.5605H6.93555C6.52133 21.5605 6.18555 21.2248 6.18555 20.8105Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.80183 16.2686C10.2107 16.3352 10.4881 16.7206 10.4216 17.1294L9.80275 20.931C9.7362 21.3398 9.35082 21.6173 8.94199 21.5507C8.53316 21.4842 8.25568 21.0988 8.32224 20.69L8.94108 16.8884C9.00763 16.4796 9.393 16.2021 9.80183 16.2686Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6686 16.2686C14.0774 16.2021 14.4628 16.4796 14.5293 16.8884L15.1482 20.69C15.2147 21.0988 14.9372 21.4842 14.5284 21.5507C14.1196 21.6173 13.7342 21.3398 13.6676 20.931L13.0488 17.1294C12.9822 16.7206 13.2597 16.3352 13.6686 16.2686Z" fill="black"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display remove 1 — bold style variants.
+class _ComputerTvMonitorDisplayRemove1Bold {
+  const _ComputerTvMonitorDisplayRemove1Bold();
+
+  /// monitor display remove 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display remove 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.61425 20.3113L10.0443 17.6413H12.9243L13.3543 20.3113H9.61425ZM19.7343 10.0213C16.4443 10.0213 13.7643 7.35135 13.7643 4.05135C13.7643 3.86456 13.7715 3.67777 13.7904 3.49317C13.8097 3.30484 13.6676 3.13135 13.4783 3.13135H6.51425C4.01425 3.13135 1.98425 5.16135 1.98425 7.66135V13.1113C1.98425 15.6113 4.01425 17.6413 6.51425 17.6413H8.52425L8.09425 20.3113H6.53425C6.12425 20.3113 5.78425 20.6513 5.78425 21.0613C5.78425 21.4713 6.12425 21.8113 6.53425 21.8113H16.4243C16.8443 21.8113 17.1743 21.4713 17.1743 21.0613C17.1743 20.6513 16.8443 20.3113 16.4243 20.3113H14.8743L14.4443 17.6413H16.4543C18.9543 17.6413 20.9843 15.6113 20.9843 13.1113V10.2573C20.9843 10.068 20.8111 9.92647 20.6238 9.95403C20.3345 9.99658 20.0369 10.0213 19.7343 10.0213Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2659 7.5442C21.0739 7.5442 20.8819 7.4712 20.7359 7.3242L19.3379 5.9272L17.9409 7.3242C17.6479 7.6172 17.1739 7.6172 16.8809 7.3242C16.5879 7.0312 16.5879 6.5572 16.8809 6.2642L18.2779 4.8672L16.8809 3.4692C16.5879 3.1762 16.5879 2.7022 16.8809 2.4092C17.1739 2.1162 17.6479 2.1162 17.9409 2.4092L19.3379 3.8062L20.7359 2.4092C21.0289 2.1162 21.5029 2.1162 21.7959 2.4092C22.0889 2.7022 22.0889 3.1762 21.7959 3.4692L20.3989 4.8672L21.7959 6.2642C22.0889 6.5572 22.0889 7.0312 21.7959 7.3242C21.6499 7.4712 21.4579 7.5442 21.2659 7.5442Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display remove 1 — light style variants.
+class _ComputerTvMonitorDisplayRemove1Light {
+  const _ComputerTvMonitorDisplayRemove1Light();
+
+  /// monitor display remove 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display remove 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.9474 3.89062H6.91057C4.75046 3.89062 3 5.64109 3 7.80119V13.0973C3 15.2574 4.75046 17.0079 6.91057 17.0079H16.561C18.7201 17.0079 20.4715 15.2574 20.4715 13.0973V10.4147" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9996 3.18945L17.1445 7.04456M20.9996 7.04456L17.1445 3.18945" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.93555 20.8105H16.5334" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.68134 17.0078L9.0625 20.8094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.7891 17.0078L14.4079 20.8094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// cable keyborad icon with style variants.
 class _ComputerTvCableKeyboradIcon {
   const _ComputerTvCableKeyboradIcon();
@@ -3217,6 +3969,114 @@ class _ComputerTvKeyboardOpenUpLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'keyboard open up',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.67773 4.52008L11.9953 3L14.3233 4.52766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1143 20.9931H7.87815C5.01224 20.9931 3.23667 19.3955 3.24613 16.4576V11.7149C3.24613 8.77703 5.02076 7.16992 7.88667 7.16992H16.1143C18.9717 7.16992 20.7558 8.80542 20.7558 11.7887V16.4576C20.7558 19.3955 18.9717 20.9931 16.1143 20.9931Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.7453 17.3828H9.25391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.00946 11.0286V11.0069M7.00947 10.8926C6.94705 10.8926 6.89648 10.9431 6.89648 11.0053C6.89648 11.0678 6.94705 11.1183 7.00947 11.1183C7.07188 11.1183 7.12245 11.0678 7.12245 11.0053C7.12245 10.9431 7.07188 10.8926 7.00947 10.8926Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6559 11.0286V11.0069M13.656 10.8926C13.5935 10.8926 13.543 10.9431 13.543 11.0053C13.543 11.0678 13.5935 11.1183 13.656 11.1183C13.7184 11.1183 13.7689 11.0678 13.7689 11.0053C13.7689 10.9431 13.7184 10.8926 13.656 10.8926Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3337 11.0286V11.0069M10.3337 10.8926C10.2713 10.8926 10.2207 10.9431 10.2207 11.0053C10.2207 11.0678 10.2713 11.1183 10.3337 11.1183C10.3961 11.1183 10.4467 11.0678 10.4467 11.0053C10.4467 10.9431 10.3961 10.8926 10.3337 10.8926Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9802 11.0286V11.0069M16.9802 10.8926C16.9178 10.8926 16.8672 10.9431 16.8672 11.0053C16.8672 11.0678 16.9178 11.1183 16.9802 11.1183C17.0426 11.1183 17.0932 11.0678 17.0932 11.0053C17.0932 10.9431 17.0426 10.8926 16.9802 10.8926Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9958 13.8313V13.8096M11.9958 13.6953C11.9334 13.6953 11.8828 13.7459 11.8828 13.8081C11.8828 13.8705 11.9334 13.9211 11.9958 13.9211C12.0582 13.9211 12.1088 13.8705 12.1088 13.8081C12.1088 13.7459 12.0582 13.6953 11.9958 13.6953Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.67157 13.8313V13.8096M8.67158 13.6953C8.60916 13.6953 8.55859 13.7459 8.55859 13.8081C8.55859 13.8705 8.60916 13.9211 8.67158 13.9211C8.73399 13.9211 8.78456 13.8705 8.78456 13.8081C8.78456 13.7459 8.73399 13.6953 8.67158 13.6953Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3181 13.8313V13.8096M15.3181 13.6953C15.2556 13.6953 15.2051 13.7459 15.2051 13.8081C15.2051 13.8705 15.2556 13.9211 15.3181 13.9211C15.3805 13.9211 15.431 13.8705 15.431 13.8081C15.431 13.7459 15.3805 13.6953 15.3181 13.6953Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// old tv antenna icon with style variants.
+class _ComputerTvOldTvAntenna1Icon {
+  const _ComputerTvOldTvAntenna1Icon();
+
+  /// bold style
+  _ComputerTvOldTvAntenna1Bold get bold => const _ComputerTvOldTvAntenna1Bold();
+  /// bulk style
+  _ComputerTvOldTvAntenna1Bulk get bulk => const _ComputerTvOldTvAntenna1Bulk();
+  /// light style
+  _ComputerTvOldTvAntenna1Light get light => const _ComputerTvOldTvAntenna1Light();
+  /// outline style
+  _ComputerTvOldTvAntenna1Outline get outline => const _ComputerTvOldTvAntenna1Outline();
+  /// twoTone style
+  _ComputerTvOldTvAntenna1Twotone get twoTone => const _ComputerTvOldTvAntenna1Twotone();
+  /// broken style
+  _ComputerTvOldTvAntenna1Broken get broken => const _ComputerTvOldTvAntenna1Broken();
+}
+
+/// old tv antenna — bulk style variants.
+class _ComputerTvOldTvAntenna1Bulk {
+  const _ComputerTvOldTvAntenna1Bulk();
+
+  /// old tv antenna — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'old tv antenna',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.63 6.90869H16.98C19.47 6.90869 21.5 8.93869 21.5 11.4387V16.8987C21.5 19.3887 19.47 21.4187 16.98 21.4187H7.03C4.54 21.4187 2.5 19.3887 2.5 16.8987V11.4387C2.5 8.93869 4.54 6.90869 7.03 6.90869H10.29H13.63Z" fill="black"/> <path d="M17.89 11.2883C17.89 11.6983 18.23 12.0283 18.64 12.0283C19.05 12.0283 19.39 11.6883 19.39 11.2783C19.39 10.8583 19.05 10.5283 18.64 10.5283C18.23 10.5283 17.89 10.8583 17.89 11.2783V11.2883Z" fill="black"/> <path d="M17.89 14.1783C17.89 14.5883 18.23 14.9183 18.64 14.9183C19.05 14.9183 19.39 14.5783 19.39 14.1683C19.39 13.7483 19.05 13.4183 18.64 13.4183C18.23 13.4183 17.89 13.7483 17.89 14.1683V14.1783Z" fill="black"/> <path d="M17.89 17.0683C17.89 17.4783 18.23 17.8083 18.64 17.8083C19.05 17.8083 19.39 17.4683 19.39 17.0583C19.39 16.6383 19.05 16.3083 18.64 16.3083C18.23 16.3083 17.89 16.6383 17.89 17.0583V17.0683Z" fill="black"/> <path d="M14.01 18.7783C14.99 18.7783 15.79 17.9783 15.79 16.9983V11.3383C15.79 10.3583 14.99 9.54834 14.01 9.54834H6.4C5.42 9.54834 4.62 10.3583 4.62 11.3383V16.9983C4.62 17.9783 5.42 18.7783 6.4 18.7783H14.01Z" fill="black"/> <path d="M17.051 3.88965L13.681 6.90565H10.345L7.05397 3.88365C6.74797 3.60365 6.72797 3.12865 7.00897 2.82365C7.28997 2.51765 7.76297 2.49865 8.06797 2.77865L12.004 6.39365L16.051 2.77165C16.359 2.49465 16.833 2.52265 17.11 2.83065C17.386 3.13965 17.359 3.61365 17.051 3.88965Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// old tv antenna — broken style variants.
+class _ComputerTvOldTvAntenna1Broken {
+  const _ComputerTvOldTvAntenna1Broken();
+
+  /// old tv antenna — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'old tv antenna',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5005 20.7939H7.52908C5.30389 20.7939 3.5 18.99 3.5 16.7648V11.3084C3.5 9.08319 5.30389 7.2793 7.52908 7.2793H17.4719C19.6961 7.2793 21.5 9.08319 21.5 11.3084V16.7648C21.5 18.99 19.6961 20.7939 17.4719 20.7939H15.7391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.4844 16.9358V16.9258" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.4844 11.1565V11.1465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.4844 14.0471V14.0371" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.50147 10.0938C7.4059 10.0938 6.51758 10.9821 6.51758 12.0776V15.9948C6.51758 17.0914 7.4059 17.9797 8.50147 17.9797H13.7691C14.8647 17.9797 15.753 17.0914 15.753 15.9948V12.0776C15.753 10.9821 14.8647 10.0938 13.7691 10.0938H11.7127" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9961 3.20703L12.4436 7.28184L8.00586 3.20703" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// old tv antenna — twoTone style variants.
+class _ComputerTvOldTvAntenna1Twotone {
+  const _ComputerTvOldTvAntenna1Twotone();
+
+  /// old tv antenna — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'old tv antenna',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.9719 20.7939H7.02908C4.80389 20.7939 3 18.99 3 16.7648V11.3084C3 9.08319 4.80389 7.2793 7.02908 7.2793H16.9719C19.1961 7.2793 21 9.08319 21 11.3084V16.7648C21 18.99 19.1961 20.7939 16.9719 20.7939Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.9844 16.9368V16.9268" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.9844 11.1565V11.1465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.9844 14.0471V14.0371" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.2691 17.9797H8.00147C6.9059 17.9797 6.01758 17.0914 6.01758 15.9958V12.0786C6.01758 10.9821 6.9059 10.0938 8.00147 10.0938H13.2691C14.3647 10.0938 15.253 10.9821 15.253 12.0786V15.9958C15.253 17.0914 14.3647 17.9797 13.2691 17.9797Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.4961 3.20605L11.9436 7.28087L7.50586 3.20605" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// old tv antenna — outline style variants.
+class _ComputerTvOldTvAntenna1Outline {
+  const _ComputerTvOldTvAntenna1Outline();
+
+  /// old tv antenna — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'old tv antenna',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 11.3084C2.25 8.66897 4.38968 6.5293 7.02908 6.5293H16.9719C19.6104 6.5293 21.75 8.66909 21.75 11.3084V16.7648C21.75 19.4041 19.6104 21.5439 16.9719 21.5439H7.02908C4.38968 21.5439 2.25 19.4042 2.25 16.7648V11.3084ZM7.02908 8.0293C5.21811 8.0293 3.75 9.4974 3.75 11.3084V16.7648C3.75 18.5758 5.21811 20.0439 7.02908 20.0439H16.9719C18.7818 20.0439 20.25 18.5759 20.25 16.7648V11.3084C20.25 9.49728 18.7818 8.0293 16.9719 8.0293H7.02908Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9844 16.1768C18.3986 16.1768 18.7344 16.5125 18.7344 16.9268V16.9368C18.7344 17.351 18.3986 17.6868 17.9844 17.6868C17.5702 17.6868 17.2344 17.351 17.2344 16.9368V16.9268C17.2344 16.5125 17.5702 16.1768 17.9844 16.1768Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9844 10.3965C18.3986 10.3965 18.7344 10.7323 18.7344 11.1465V11.1565C18.7344 11.5707 18.3986 11.9065 17.9844 11.9065C17.5702 11.9065 17.2344 11.5707 17.2344 11.1565V11.1465C17.2344 10.7323 17.5702 10.3965 17.9844 10.3965Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9844 13.2871C18.3986 13.2871 18.7344 13.6229 18.7344 14.0371V14.0471C18.7344 14.4613 18.3986 14.7971 17.9844 14.7971C17.5702 14.7971 17.2344 14.4613 17.2344 14.0471V14.0371C17.2344 13.6229 17.5702 13.2871 17.9844 13.2871Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.26758 12.0786C5.26758 10.5681 6.49145 9.34375 8.00147 9.34375H13.2691C14.7792 9.34375 16.003 10.5681 16.003 12.0786V15.9958C16.003 17.5056 14.7789 18.7297 13.2691 18.7297H8.00147C6.49169 18.7297 5.26758 17.5056 5.26758 15.9958V12.0786ZM8.00147 10.8438C7.32036 10.8438 6.76758 11.396 6.76758 12.0786V15.9958C6.76758 16.6772 7.32012 17.2297 8.00147 17.2297H13.2691C13.9505 17.2297 14.503 16.6772 14.503 15.9958V12.0786C14.503 11.396 13.9503 10.8438 13.2691 10.8438H8.00147Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.055 2.70586C17.3312 3.0145 17.305 3.48865 16.9963 3.7649L12.4438 7.83971C12.1563 8.09702 11.7205 8.09425 11.4363 7.83331L6.9986 3.7585C6.6935 3.47835 6.67327 3.00391 6.95343 2.6988C7.23358 2.3937 7.70802 2.37347 8.01312 2.65362L11.95 6.26857L15.9959 2.64722C16.3046 2.37097 16.7787 2.39723 17.055 2.70586Z" fill="black"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// old tv antenna — bold style variants.
+class _ComputerTvOldTvAntenna1Bold {
+  const _ComputerTvOldTvAntenna1Bold();
+
+  /// old tv antenna — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'old tv antenna',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.64 12.0286C18.23 12.0286 17.89 11.6986 17.89 11.2886V11.2786C17.89 10.8586 18.23 10.5286 18.64 10.5286C19.05 10.5286 19.39 10.8586 19.39 11.2786C19.39 11.6886 19.05 12.0286 18.64 12.0286ZM18.64 14.9186C18.23 14.9186 17.89 14.5886 17.89 14.1786V14.1686C17.89 13.7486 18.23 13.4186 18.64 13.4186C19.05 13.4186 19.39 13.7486 19.39 14.1686C19.39 14.5786 19.05 14.9186 18.64 14.9186ZM18.64 17.8086C18.23 17.8086 17.89 17.4786 17.89 17.0686V17.0586C17.89 16.6386 18.23 16.3086 18.64 16.3086C19.05 16.3086 19.39 16.6386 19.39 17.0586C19.39 17.4686 19.05 17.8086 18.64 17.8086ZM15.79 16.9986C15.79 17.9786 14.99 18.7786 14.01 18.7786H6.4C5.42 18.7786 4.62 17.9786 4.62 16.9986V11.3386C4.62 10.3586 5.42 9.54857 6.4 9.54857H14.01C14.99 9.54857 15.79 10.3586 15.79 11.3386V16.9986ZM16.98 6.90857H13.63L17 3.88857C17.31 3.61857 17.34 3.13857 17.06 2.83857C16.78 2.52857 16.31 2.49857 16 2.77857L11.95 6.39857L8.02 2.77857C7.71 2.49857 7.24 2.51857 6.96 2.82857C6.68 3.12857 6.7 3.60857 7 3.88857L10.29 6.90857H7.03C4.54 6.90857 2.5 8.93857 2.5 11.4386V16.8986C2.5 19.3886 4.54 21.4186 7.03 21.4186H16.98C19.47 21.4186 21.5 19.3886 21.5 16.8986V11.4386C21.5 8.93857 19.47 6.90857 16.98 6.90857Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// old tv antenna — light style variants.
+class _ComputerTvOldTvAntenna1Light {
+  const _ComputerTvOldTvAntenna1Light();
+
+  /// old tv antenna — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'old tv antenna',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.9719 20.7939H7.02908C4.80389 20.7939 3 18.99 3 16.7648V11.3084C3 9.08319 4.80389 7.2793 7.02908 7.2793H16.9719C19.1961 7.2793 21 9.08319 21 11.3084V16.7648C21 18.99 19.1961 20.7939 16.9719 20.7939Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9844 16.9358V16.9258" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9844 11.1565V11.1465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9844 14.0471V14.0371" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.2691 17.9797H8.00147C6.9059 17.9797 6.01758 17.0914 6.01758 15.9958V12.0786C6.01758 10.9821 6.9059 10.0938 8.00147 10.0938H13.2691C14.3647 10.0938 15.253 10.9821 15.253 12.0786V15.9958C15.253 17.0914 14.3647 17.9797 13.2691 17.9797Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4961 3.20703L11.9436 7.28184L7.50586 3.20703" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -3656,6 +4516,114 @@ class _ComputerTvCpuProcessorRefreshLight {
 
 }
 
+/// cpu processor refresh 1 icon with style variants.
+class _ComputerTvCpuProcessorRefresh1Icon {
+  const _ComputerTvCpuProcessorRefresh1Icon();
+
+  /// bold style
+  _ComputerTvCpuProcessorRefresh1Bold get bold => const _ComputerTvCpuProcessorRefresh1Bold();
+  /// bulk style
+  _ComputerTvCpuProcessorRefresh1Bulk get bulk => const _ComputerTvCpuProcessorRefresh1Bulk();
+  /// light style
+  _ComputerTvCpuProcessorRefresh1Light get light => const _ComputerTvCpuProcessorRefresh1Light();
+  /// outline style
+  _ComputerTvCpuProcessorRefresh1Outline get outline => const _ComputerTvCpuProcessorRefresh1Outline();
+  /// twoTone style
+  _ComputerTvCpuProcessorRefresh1Twotone get twoTone => const _ComputerTvCpuProcessorRefresh1Twotone();
+  /// broken style
+  _ComputerTvCpuProcessorRefresh1Broken get broken => const _ComputerTvCpuProcessorRefresh1Broken();
+}
+
+/// cpu processor refresh 1 — bulk style variants.
+class _ComputerTvCpuProcessorRefresh1Bulk {
+  const _ComputerTvCpuProcessorRefresh1Bulk();
+
+  /// cpu processor refresh 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21 13.63H19.47V10.37H21C21.41 10.37 21.75 10.03 21.75 9.62C21.75 9.2 21.41 8.87 21 8.87H19.47C19.45 6.27 17.76 4.52 15.27 4.52H15.14V3C15.14 2.59 14.8 2.25 14.39 2.25C13.97 2.25 13.64 2.59 13.64 3V4.52H10.36V3C10.36 2.59 10.03 2.25 9.61 2.25C9.2 2.25 8.86 2.59 8.86 3V4.52H8.73C6.23 4.52 4.54 6.27 4.52 8.87H3C2.59 8.87 2.25 9.2 2.25 9.62C2.25 10.03 2.59 10.37 3 10.37H4.52V13.63H3C2.59 13.63 2.25 13.97 2.25 14.38C2.25 14.8 2.59 15.13 3 15.13H4.52C4.54 17.73 6.23 19.48 8.73 19.48H8.86V21C8.86 21.41 9.2 21.75 9.61 21.75C10.03 21.75 10.36 21.41 10.36 21V19.48H13.64V21C13.64 21.41 13.97 21.75 14.39 21.75C14.8 21.75 15.14 21.41 15.14 21V19.48H15.27C17.76 19.48 19.45 17.73 19.47 15.13H21C21.41 15.13 21.75 14.8 21.75 14.38C21.75 13.97 21.41 13.63 21 13.63Z" fill="black"/> <path d="M12 15.71C12.91 15.71 13.78 15.38 14.46 14.78C14.77 14.51 14.8 14.04 14.52 13.73C14.25 13.41 13.77 13.39 13.46 13.66C13.06 14.02 12.54 14.21 12 14.21C10.78 14.21 9.79004 13.22 9.79004 12C9.79004 11.59 9.45004 11.25 9.04004 11.25C8.62004 11.25 8.29004 11.59 8.29004 12C8.29004 14.05 9.95004 15.71 12 15.71Z" fill="black"/> <path d="M14.21 12C14.21 12.41 14.55 12.75 14.96 12.75C15.38 12.75 15.71 12.41 15.71 12C15.71 9.95004 14.05 8.29004 12 8.29004C11.09 8.29004 10.22 8.62004 9.54004 9.21004C9.23004 9.49004 9.20004 9.96004 9.48004 10.27C9.75004 10.58 10.22 10.61 10.54 10.34C10.94 9.98004 11.46 9.79004 12 9.79004C13.22 9.79004 14.21 10.78 14.21 12Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor refresh 1 — broken style variants.
+class _ComputerTvCpuProcessorRefresh1Broken {
+  const _ComputerTvCpuProcessorRefresh1Broken();
+
+  /// cpu processor refresh 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor refresh 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.4596 14.2224C13.9371 14.6836 13.2511 14.9638 12.499 14.9638C10.8624 14.9638 9.53516 13.6366 9.53516 12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.5391 9.7766C11.0616 9.31539 11.7476 9.03516 12.4997 9.03516C14.1363 9.03516 15.4635 10.3624 15.4635 11.999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.1133 20.9975V18.9766M14.8872 20.9975V18.9766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.52097 9.61719H3.5M5.52097 14.3835H3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.1133 5.02487V3.00391M14.8872 5.02487V3.00391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.4995 9.61719H19.4707M21.4995 14.3835H19.4707" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4727 9.60143V8.92234C19.4727 6.63768 18.055 5.02344 15.7694 5.02344H9.23162C6.95377 5.02344 5.52148 6.63768 5.52148 8.92234V11.8354" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4727 12.623V15.083C19.4727 17.3608 18.055 18.9741 15.7694 18.9741H9.23162C6.94696 18.9741 5.52148 17.3608 5.52148 15.083V14.4247" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor refresh 1 — twoTone style variants.
+class _ComputerTvCpuProcessorRefresh1Twotone {
+  const _ComputerTvCpuProcessorRefresh1Twotone();
+
+  /// cpu processor refresh 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.9596 14.2224C13.4371 14.6836 12.7511 14.9638 11.999 14.9638C10.3624 14.9638 9.03516 13.6366 9.03516 12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.0391 9.7766C10.5616 9.31539 11.2476 9.03516 11.9997 9.03516C13.6363 9.03516 14.9635 10.3624 14.9635 11.999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.02197 15.0845C5.02197 17.3623 6.44745 18.9756 8.73211 18.9756H15.2698C17.5555 18.9756 18.9732 17.3623 18.9732 15.0845V8.92331C18.9732 6.63866 17.5555 5.02441 15.2698 5.02441H8.73211C6.45426 5.02441 5.02197 6.63866 5.02197 8.92331V15.0845Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.61328 20.9966V18.9756M14.3872 20.9966V18.9756" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.02097 9.61719H3M5.02097 14.3835H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.61328 5.0239V3.00293M14.3872 5.0239V3.00293" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.9995 9.61621H18.9707M20.9995 14.3825H18.9707" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor refresh 1 — outline style variants.
+class _ComputerTvCpuProcessorRefresh1Outline {
+  const _ComputerTvCpuProcessorRefresh1Outline();
+
+  /// cpu processor refresh 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.03516 11.25C9.44937 11.25 9.78516 11.5858 9.78516 12C9.78516 13.2224 10.7766 14.2138 11.999 14.2138C12.5611 14.2138 13.0723 14.0052 13.4633 13.6601C13.7738 13.386 14.2478 13.4155 14.5219 13.7261C14.796 14.0366 14.7665 14.5106 14.4559 14.7847C13.8019 15.362 12.9411 15.7138 11.999 15.7138C9.94815 15.7138 8.28516 14.0508 8.28516 12C8.28516 11.5858 8.62094 11.25 9.03516 11.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9997 9.78516C11.4376 9.78516 10.9264 9.99376 10.5354 10.3389C10.2248 10.613 9.75089 10.5835 9.47678 10.2729C9.20267 9.96238 9.23221 9.48842 9.54275 9.21431C10.1968 8.63701 11.0576 8.28516 11.9997 8.28516C14.0505 8.28516 15.7135 9.94815 15.7135 11.999C15.7135 12.4132 15.3778 12.749 14.9635 12.749C14.5493 12.749 14.2135 12.4132 14.2135 11.999C14.2135 10.7766 13.2221 9.78516 11.9997 9.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.57139 6.62869C6.07944 7.1561 5.77206 7.9371 5.77206 8.92331V15.0845C5.77206 16.0677 6.07796 16.8465 6.56877 17.3726C7.05411 17.8928 7.77512 18.2256 8.7322 18.2256H15.2699C16.2274 18.2256 16.9463 17.8929 17.4296 17.3734C17.9186 16.8477 18.2233 16.0688 18.2233 15.0845V8.92331C18.2233 7.93507 17.9183 7.15411 17.4292 6.62755C16.9459 6.10725 16.2272 5.77441 15.2699 5.77441H8.7322C7.77919 5.77441 7.05797 6.10703 6.57139 6.62869ZM5.47449 5.60555C6.27352 4.74892 7.40736 4.27441 8.7322 4.27441H15.2699C16.5983 4.27441 17.7313 4.7487 18.5282 5.60669C19.3194 6.45841 19.7233 7.6269 19.7233 8.92331V15.0845C19.7233 16.3781 19.319 17.5447 18.5278 18.3951C17.7309 19.2517 16.5981 19.7256 15.2699 19.7256H8.7322C7.40462 19.7256 6.27057 19.2518 5.472 18.3959C4.67891 17.5458 4.27206 16.3791 4.27206 15.0845V8.92331C4.27206 7.62487 4.68083 6.45642 5.47449 5.60555Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.61328 18.2256C10.0275 18.2256 10.3633 18.5614 10.3633 18.9756V20.9966C10.3633 21.4108 10.0275 21.7466 9.61328 21.7466C9.19907 21.7466 8.86328 21.4108 8.86328 20.9966V18.9756C8.86328 18.5614 9.19907 18.2256 9.61328 18.2256ZM14.3872 18.2256C14.8014 18.2256 15.1372 18.5614 15.1372 18.9756V20.9966C15.1372 21.4108 14.8014 21.7466 14.3872 21.7466C13.973 21.7466 13.6372 21.4108 13.6372 20.9966V18.9756C13.6372 18.5614 13.973 18.2256 14.3872 18.2256Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.61719C2.25 9.20297 2.58579 8.86719 3 8.86719H5.02097C5.43518 8.86719 5.77097 9.20297 5.77097 9.61719C5.77097 10.0314 5.43518 10.3672 5.02097 10.3672H3C2.58579 10.3672 2.25 10.0314 2.25 9.61719ZM2.25 14.3835C2.25 13.9693 2.58579 13.6335 3 13.6335H5.02097C5.43518 13.6335 5.77097 13.9693 5.77097 14.3835C5.77097 14.7977 5.43518 15.1335 5.02097 15.1335H3C2.58579 15.1335 2.25 14.7977 2.25 14.3835Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.61328 2.25293C10.0275 2.25293 10.3633 2.58872 10.3633 3.00293V5.0239C10.3633 5.43811 10.0275 5.7739 9.61328 5.7739C9.19907 5.7739 8.86328 5.43811 8.86328 5.0239V3.00293C8.86328 2.58872 9.19907 2.25293 9.61328 2.25293ZM14.3872 2.25293C14.8014 2.25293 15.1372 2.58872 15.1372 3.00293V5.0239C15.1372 5.43811 14.8014 5.7739 14.3872 5.7739C13.973 5.7739 13.6372 5.43811 13.6372 5.0239V3.00293C13.6372 2.58872 13.973 2.25293 14.3872 2.25293Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2207 9.61621C18.2207 9.202 18.5565 8.86621 18.9707 8.86621H20.9995C21.4137 8.86621 21.7495 9.202 21.7495 9.61621C21.7495 10.0304 21.4137 10.3662 20.9995 10.3662H18.9707C18.5565 10.3662 18.2207 10.0304 18.2207 9.61621ZM18.2207 14.3825C18.2207 13.9683 18.5565 13.6325 18.9707 13.6325H20.9995C21.4137 13.6325 21.7495 13.9683 21.7495 14.3825C21.7495 14.7967 21.4137 15.1325 20.9995 15.1325H18.9707C18.5565 15.1325 18.2207 14.7967 18.2207 14.3825Z" fill="black"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor refresh 1 — bold style variants.
+class _ComputerTvCpuProcessorRefresh1Bold {
+  const _ComputerTvCpuProcessorRefresh1Bold();
+
+  /// cpu processor refresh 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.46 14.78C13.78 15.38 12.91 15.71 12 15.71C9.95 15.71 8.29 14.05 8.29 12C8.29 11.59 8.62 11.25 9.04 11.25C9.45 11.25 9.79 11.59 9.79 12C9.79 13.22 10.78 14.21 12 14.21C12.54 14.21 13.06 14.02 13.46 13.66C13.77 13.39 14.25 13.41 14.52 13.73C14.8 14.04 14.77 14.51 14.46 14.78ZM14.96 12.75C14.55 12.75 14.21 12.41 14.21 12C14.21 10.78 13.22 9.79 12 9.79C11.46 9.79 10.94 9.98 10.54 10.34C10.22 10.61 9.75 10.58 9.48 10.27C9.2 9.96 9.23 9.49 9.54 9.21C10.22 8.62 11.09 8.29 12 8.29C14.05 8.29 15.71 9.95 15.71 12C15.71 12.41 15.38 12.75 14.96 12.75ZM21 13.63H19.47V10.37H21C21.41 10.37 21.75 10.03 21.75 9.62C21.75 9.2 21.41 8.87 21 8.87H19.47C19.45 6.27 17.76 4.52 15.27 4.52H15.14V3C15.14 2.59 14.8 2.25 14.39 2.25C13.97 2.25 13.64 2.59 13.64 3V4.52H10.36V3C10.36 2.59 10.03 2.25 9.61 2.25C9.2 2.25 8.86 2.59 8.86 3V4.52H8.73C6.23 4.52 4.54 6.27 4.52 8.87H3C2.59 8.87 2.25 9.2 2.25 9.62C2.25 10.03 2.59 10.37 3 10.37H4.52V13.63H3C2.59 13.63 2.25 13.97 2.25 14.38C2.25 14.8 2.59 15.13 3 15.13H4.52C4.54 17.73 6.23 19.48 8.73 19.48H8.86V21C8.86 21.41 9.2 21.75 9.61 21.75C10.03 21.75 10.36 21.41 10.36 21V19.48H13.64V21C13.64 21.41 13.97 21.75 14.39 21.75C14.8 21.75 15.14 21.41 15.14 21V19.48H15.27C17.76 19.48 19.45 17.73 19.47 15.13H21C21.41 15.13 21.75 14.8 21.75 14.38C21.75 13.97 21.41 13.63 21 13.63Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor refresh 1 — light style variants.
+class _ComputerTvCpuProcessorRefresh1Light {
+  const _ComputerTvCpuProcessorRefresh1Light();
+
+  /// cpu processor refresh 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.9596 14.2224C13.4371 14.6836 12.7511 14.9638 11.999 14.9638C10.3624 14.9638 9.03516 13.6366 9.03516 12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.0391 9.7766C10.5616 9.31539 11.2476 9.03516 11.9997 9.03516C13.6363 9.03516 14.9635 10.3624 14.9635 11.999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.02246 15.0855C5.02246 17.3633 6.44794 18.9766 8.73259 18.9766H15.2703C17.556 18.9766 18.9737 17.3633 18.9737 15.0855V8.92429C18.9737 6.63963 17.556 5.02539 15.2703 5.02539H8.73259C6.45475 5.02539 5.02246 6.63963 5.02246 8.92429V15.0855Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.61328 20.9975V18.9766M14.3872 20.9975V18.9766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.02097 9.61719H3M5.02097 14.3835H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.61328 5.02487V3.00391M14.3872 5.02487V3.00391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9995 9.61719H18.9707M20.9995 14.3835H18.9707" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// webcam camera icon with style variants.
 class _ComputerTvWebcamCameraIcon {
   const _ComputerTvWebcamCameraIcon();
@@ -3789,7 +4757,7 @@ class _ComputerTvMouseBulk {
   /// mouse — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'mouse',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.1955 9.295C19.1945 5.548 15.9665 2.5 12.0005 2.5C10.0845 2.5 8.28047 3.203 6.92247 4.481C5.55547 5.765 4.80247 7.476 4.80347 9.297L4.80547 14.706C4.80547 18.452 8.03347 21.5 12.0015 21.5C13.9175 21.5 15.7205 20.797 17.0785 19.52C18.4445 18.235 19.1975 16.524 19.1965 14.703L19.1955 9.295Z" fill="black"/> <path d="M9.09949 10.923H14.9015C15.3155 10.923 15.6515 10.587 15.6515 10.173C15.6515 9.759 15.3155 9.423 14.9015 9.423H12.7525V7.271C12.7525 6.857 12.4165 6.521 12.0025 6.521C11.5885 6.521 11.2525 6.857 11.2525 7.271V9.423H9.09949C8.68549 9.423 8.34949 9.759 8.34949 10.173C8.34949 10.587 8.68549 10.923 9.09949 10.923Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.1946 9.295C19.1936 5.549 15.9656 2.5 11.9996 2.5C10.0826 2.5 8.27859 3.203 6.92059 4.481C5.55459 5.765 4.80259 7.476 4.80359 9.297L4.80559 14.706C4.80559 18.452 8.03259 21.5 12.0006 21.5C15.9686 21.5 19.1966 18.451 19.1966 14.703L19.1946 9.295Z" fill="black"/> <path d="M12.0016 10.4449C12.4156 10.4449 12.7516 10.1089 12.7516 9.69487V7.67188C12.7516 7.25787 12.4156 6.92188 12.0016 6.92188C11.5876 6.92188 11.2516 7.25787 11.2516 7.67188V9.69487C11.2516 10.1089 11.5876 10.4449 12.0016 10.4449Z" fill="black"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -3804,7 +4772,7 @@ class _ComputerTvMouseBroken {
   /// mouse — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'mouse',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.1967 14.7029C19.1977 18.1803 16.1999 21 12.5017 21C8.80436 21 5.80663 18.1823 5.80663 14.7058L5.80469 9.29708C5.80372 5.81968 8.80242 3 12.5007 3C16.197 3 19.1947 5.81773 19.1957 9.29514L19.1962 11.999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.502 7.27148V10.1719" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4014 10.1719H9.59961" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.502 7.67188V9.69469" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.1957 14.7049C19.1947 18.1823 16.197 21 12.4997 21C8.80144 21 5.80372 18.1803 5.80469 14.7029L5.80566 9.29416C5.80663 5.81773 8.80436 3 12.5017 3C16.1999 3 19.1977 5.81968 19.1967 9.29708V11.3876" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -3819,7 +4787,7 @@ class _ComputerTvMouseTwotone {
   /// mouse — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'mouse',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.6962 14.7029C18.6972 18.1803 15.6994 21 12.0012 21C8.30388 21 5.30615 18.1823 5.30615 14.7058L5.3042 9.29708C5.30323 5.81968 8.30193 3 12.0002 3C15.6965 3 18.6943 5.81773 18.6952 9.29514L18.6962 14.7029Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.002 7.27148V10.1719M14.9014 10.1729H9.09961" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0007 21C15.699 21 18.6967 18.1803 18.6967 14.7029L18.6947 9.29514C18.6938 5.81773 15.696 3 11.9997 3C8.30047 3 5.30274 5.81968 5.30371 9.29708L5.30566 14.7058C5.30566 18.1823 8.30339 21 12.0007 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.002 7.67188V9.69469" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Computer_&_TV',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -3834,7 +4802,7 @@ class _ComputerTvMouseOutline {
   /// mouse — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'mouse',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.5542 9.29729C4.5531 5.36263 7.93194 2.25 12.0002 2.25C16.0666 2.25 19.4441 5.36067 19.4452 9.29493L19.4462 14.7027C19.4462 14.7027 19.4462 14.7027 19.4462 14.7027C19.4473 18.6372 16.0696 21.75 12.0012 21.75C7.93409 21.75 4.5563 18.6396 4.55615 14.7061C4.55615 14.706 4.55615 14.7062 4.55615 14.7061L4.5542 9.29729ZM6.0542 9.29687C6.0542 9.29685 6.0542 9.29689 6.0542 9.29687L6.05615 14.7056C6.05615 17.7248 8.67375 20.25 12.0012 20.25C15.3293 20.25 17.947 17.7234 17.9462 14.7031L17.9452 9.29534C17.9452 9.29532 17.9452 9.29537 17.9452 9.29534C17.9443 6.27482 15.3264 3.75 12.0002 3.75C8.67194 3.75 6.05339 6.27675 6.0542 9.29687Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.002 6.52148C12.4162 6.52148 12.752 6.85727 12.752 7.27148V10.1719C12.752 10.5861 12.4162 10.9219 12.002 10.9219C11.5877 10.9219 11.252 10.5861 11.252 10.1719V7.27148C11.252 6.85727 11.5877 6.52148 12.002 6.52148Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.34961 10.1729C8.34961 9.75864 8.6854 9.42285 9.09961 9.42285H14.9014C15.3157 9.42285 15.6514 9.75864 15.6514 10.1729C15.6514 10.5871 15.3157 10.9229 14.9014 10.9229H9.09961C8.6854 10.9229 8.34961 10.5871 8.34961 10.1729Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.55371 9.29729C4.55261 5.3627 7.9304 2.25 11.9997 2.25C16.0661 2.25 19.4436 5.36064 19.4447 9.29487C19.4447 9.29485 19.4447 9.29489 19.4447 9.29487L19.4467 14.7026C19.4467 18.637 16.0691 21.75 12.0007 21.75C7.9336 21.75 4.55581 18.6396 4.55566 14.7061C4.55566 14.706 4.55566 14.7062 4.55566 14.7061L4.55371 9.29729ZM6.05371 9.29687C6.05371 9.29685 6.05371 9.29689 6.05371 9.29687L6.05566 14.7056C6.05566 17.7248 8.67326 20.25 12.0007 20.25C15.3287 20.25 17.9465 17.7236 17.9467 14.7032C17.9467 14.7031 17.9467 14.7033 17.9467 14.7032L17.9447 9.2954C17.9439 6.27485 15.326 3.75 11.9997 3.75C8.67055 3.75 6.0529 6.27668 6.05371 9.29687Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.002 6.92188C12.4162 6.92188 12.752 7.25766 12.752 7.67188V9.69469C12.752 10.1089 12.4162 10.4447 12.002 10.4447C11.5877 10.4447 11.252 10.1089 11.252 9.69469V7.67188C11.252 7.25766 11.5877 6.92188 12.002 6.92188Z" fill="black"/> </svg> ',
     category: 'Computer_&_TV',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -3849,7 +4817,7 @@ class _ComputerTvMouseBold {
   /// mouse — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'mouse',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9015 10.923H9.09947C8.68547 10.923 8.34947 10.587 8.34947 10.173C8.34947 9.759 8.68547 9.423 9.09947 9.423H11.2525V7.271C11.2525 6.857 11.5885 6.521 12.0025 6.521C12.4165 6.521 12.7525 6.857 12.7525 7.271V9.423H14.9015C15.3155 9.423 15.6515 9.759 15.6515 10.173C15.6515 10.587 15.3155 10.923 14.9015 10.923ZM19.1955 9.295C19.1945 5.548 15.9665 2.5 12.0005 2.5C10.0845 2.5 8.28047 3.203 6.92247 4.481C5.55547 5.765 4.80247 7.476 4.80347 9.297L4.80547 14.706C4.80547 18.452 8.03347 21.5 12.0015 21.5C13.9175 21.5 15.7205 20.797 17.0785 19.52C18.4445 18.235 19.1975 16.524 19.1965 14.703L19.1955 9.295Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7516 9.695C12.7516 10.109 12.4156 10.445 12.0016 10.445C11.5876 10.445 11.2516 10.109 11.2516 9.695V7.672C11.2516 7.258 11.5876 6.922 12.0016 6.922C12.4156 6.922 12.7516 7.258 12.7516 7.672V9.695ZM19.1946 9.295C19.1936 5.549 15.9656 2.5 11.9996 2.5C10.0826 2.5 8.27859 3.203 6.92059 4.481C5.55459 5.765 4.80259 7.476 4.80359 9.297L4.80559 14.706C4.80559 18.452 8.03259 21.5 12.0006 21.5C15.9686 21.5 19.1966 18.451 19.1966 14.703L19.1946 9.295Z" fill="black"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -3864,6 +4832,438 @@ class _ComputerTvMouseLight {
   /// mouse — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'mouse',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0007 21C15.699 21 18.6967 18.1803 18.6967 14.7029L18.6947 9.29514C18.6938 5.81773 15.696 3 11.9997 3C8.30047 3 5.30274 5.81968 5.30371 9.29708L5.30566 14.7058C5.30566 18.1823 8.30339 21 12.0007 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 7.67188V9.69469" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 1 icon with style variants.
+class _ComputerTvMouse1Icon {
+  const _ComputerTvMouse1Icon();
+
+  /// bold style
+  _ComputerTvMouse1Bold get bold => const _ComputerTvMouse1Bold();
+  /// bulk style
+  _ComputerTvMouse1Bulk get bulk => const _ComputerTvMouse1Bulk();
+  /// light style
+  _ComputerTvMouse1Light get light => const _ComputerTvMouse1Light();
+  /// outline style
+  _ComputerTvMouse1Outline get outline => const _ComputerTvMouse1Outline();
+  /// twoTone style
+  _ComputerTvMouse1Twotone get twoTone => const _ComputerTvMouse1Twotone();
+  /// broken style
+  _ComputerTvMouse1Broken get broken => const _ComputerTvMouse1Broken();
+}
+
+/// mouse 1 — bulk style variants.
+class _ComputerTvMouse1Bulk {
+  const _ComputerTvMouse1Bulk();
+
+  /// mouse 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.195 9.25786C19.194 5.85786 16.535 3.03403 13.0786 2.54048C12.9031 2.51541 12.75 2.65455 12.75 2.83185V5.57389C12.75 5.69599 12.8251 5.80397 12.9327 5.86168C13.5268 6.18035 13.933 6.80554 13.933 7.52586V9.19886C13.933 10.2409 13.085 11.0889 12.043 11.0889C11 11.0889 10.152 10.2409 10.152 9.19886V7.52586C10.152 6.83586 10.5265 6.23452 11.081 5.90514C11.1812 5.84558 11.25 5.7413 11.25 5.62467V2.83149C11.25 2.65431 11.0971 2.51522 10.9216 2.53997C9.41427 2.75263 8.02154 3.40862 6.92196 4.44386C5.55596 5.72786 4.80396 7.43886 4.80396 9.25986L4.80596 14.6689C4.80596 18.4149 8.03396 21.4629 12.001 21.4629C13.918 21.4629 15.721 20.7599 17.078 19.4829C18.445 18.1979 19.196 16.4869 19.196 14.6659L19.195 9.25786Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0431 9.58923C12.2581 9.58923 12.4331 9.41423 12.4331 9.19923V7.52623C12.4331 7.31123 12.2581 7.13623 12.0431 7.13623C11.8271 7.13623 11.6521 7.31123 11.6521 7.52623V9.19923C11.6521 9.41423 11.8271 9.58923 12.0431 9.58923Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 1 — broken style variants.
+class _ComputerTvMouse1Broken {
+  const _ComputerTvMouse1Broken();
+
+  /// mouse 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5427 10.3751C11.9132 10.3751 11.4023 9.86425 11.4023 9.23474V7.5622C11.4023 6.93269 11.9132 6.42188 12.5427 6.42188C13.1722 6.42188 13.683 6.93269 13.683 7.5622V9.23474C13.683 9.86425 13.1722 10.3751 12.5427 10.3751Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 3V6.30908" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.1957 9.29514C19.1947 5.81773 16.197 3 12.4997 3C8.80144 3 5.80372 5.81968 5.80469 9.29708L5.80566 14.7058C5.80663 18.1823 8.80436 21 12.5017 21C16.1999 21 19.1977 18.1803 19.1967 14.7029V12.6124" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 1 — twoTone style variants.
+class _ComputerTvMouse1Twotone {
+  const _ComputerTvMouse1Twotone();
+
+  /// mouse 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.6962 14.7029C18.6972 18.1803 15.6994 21 12.0012 21C8.30388 21 5.30615 18.1823 5.30615 14.7058L5.3042 9.29708C5.30323 5.81968 8.30082 3 11.9991 3C15.6964 3 18.6943 5.81773 18.6952 9.29514L18.6962 14.7029Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12 3V6.30908M12.0427 10.376C11.4132 10.376 10.9023 9.86523 10.9023 9.23572V7.56318C10.9023 6.93366 11.4132 6.42285 12.0427 6.42285C12.6722 6.42285 13.183 6.93366 13.183 7.56318V9.23572C13.183 9.86523 12.6722 10.376 12.0427 10.376Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 1 — outline style variants.
+class _ComputerTvMouse1Outline {
+  const _ComputerTvMouse1Outline();
+
+  /// mouse 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.5542 9.29729C4.5531 5.36279 7.93066 2.25 11.9991 2.25C16.0664 2.25 19.4441 5.36058 19.4452 9.29493L19.4462 14.7027C19.4462 14.7027 19.4462 14.7027 19.4462 14.7027C19.4473 18.6372 16.0696 21.75 12.0012 21.75C7.93409 21.75 4.5563 18.6396 4.55615 14.7061C4.55615 14.706 4.55615 14.7062 4.55615 14.7061L4.5542 9.29729ZM6.0542 9.29687C6.0542 9.29685 6.0542 9.29689 6.0542 9.29687L6.05615 14.7056C6.05615 17.7248 8.67375 20.25 12.0012 20.25C15.3293 20.25 17.947 17.7234 17.9462 14.7031L17.9452 9.29534C17.9452 9.29532 17.9452 9.29537 17.9452 9.29534C17.9443 6.27491 15.3264 3.75 11.9991 3.75C8.671 3.75 6.05339 6.27659 6.0542 9.29687Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0427 7.17285C11.8274 7.17285 11.6523 7.34788 11.6523 7.56318V9.23572C11.6523 9.45102 11.8274 9.62604 12.0427 9.62604C12.258 9.62604 12.433 9.45102 12.433 9.23572V7.56318C12.433 7.34788 12.258 7.17285 12.0427 7.17285ZM10.1523 7.56318C10.1523 6.51945 10.9989 5.67285 12.0427 5.67285C13.0864 5.67285 13.933 6.51945 13.933 7.56318V9.23572C13.933 10.2794 13.0864 11.126 12.0427 11.126C10.9989 11.126 10.1523 10.2794 10.1523 9.23572V7.56318Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.25C12.4142 2.25 12.75 2.58579 12.75 3V6.30908C12.75 6.72329 12.4142 7.05908 12 7.05908C11.5858 7.05908 11.25 6.72329 11.25 6.30908V3C11.25 2.58579 11.5858 2.25 12 2.25Z" fill="black"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 1 — bold style variants.
+class _ComputerTvMouse1Bold {
+  const _ComputerTvMouse1Bold();
+
+  /// mouse 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0431 9.58911C12.2581 9.58911 12.4331 9.41411 12.4331 9.19911V7.52611C12.4331 7.31111 12.2581 7.13611 12.0431 7.13611C11.8271 7.13611 11.6521 7.31111 11.6521 7.52611V9.19911C11.6521 9.41411 11.8271 9.58911 12.0431 9.58911Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.195 9.25786C19.194 5.85786 16.535 3.03403 13.0787 2.54048C12.9031 2.51541 12.75 2.65455 12.75 2.83185V5.57389C12.75 5.69599 12.8252 5.80397 12.9328 5.86168C13.5269 6.18035 13.933 6.80554 13.933 7.52586V9.19886C13.933 10.2409 13.085 11.0889 12.043 11.0889C11 11.0889 10.152 10.2409 10.152 9.19886V7.52586C10.152 6.83586 10.5266 6.23452 11.081 5.90514C11.1813 5.84558 11.25 5.7413 11.25 5.62467V2.83149C11.25 2.65431 11.0971 2.51522 10.9217 2.53997C9.41433 2.75263 8.02161 3.40862 6.92202 4.44386C5.55602 5.72786 4.80402 7.43886 4.80402 9.25986L4.80602 14.6689C4.80602 18.4149 8.03402 21.4629 12.001 21.4629C13.918 21.4629 15.721 20.7599 17.078 19.4829C18.445 18.1979 19.196 16.4869 19.196 14.6659L19.195 9.25786Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 1 — light style variants.
+class _ComputerTvMouse1Light {
+  const _ComputerTvMouse1Light();
+
+  /// mouse 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.6967 14.7029C18.6977 18.1803 15.6999 21 12.0017 21C8.30436 21 5.30663 18.1823 5.30663 14.7058L5.30469 9.29708C5.30371 5.81968 8.30131 3 11.9996 3C15.6969 3 18.6947 5.81773 18.6957 9.29514L18.6967 14.7029Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0427 10.3751C11.4132 10.3751 10.9023 9.86425 10.9023 9.23474V7.5622C10.9023 6.93269 11.4132 6.42188 12.0427 6.42188C12.6722 6.42188 13.183 6.93269 13.183 7.5622V9.23474C13.183 9.86425 12.6722 10.3751 12.0427 10.3751Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3V6.30908" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 2 icon with style variants.
+class _ComputerTvMouse2Icon {
+  const _ComputerTvMouse2Icon();
+
+  /// bold style
+  _ComputerTvMouse2Bold get bold => const _ComputerTvMouse2Bold();
+  /// bulk style
+  _ComputerTvMouse2Bulk get bulk => const _ComputerTvMouse2Bulk();
+  /// light style
+  _ComputerTvMouse2Light get light => const _ComputerTvMouse2Light();
+  /// outline style
+  _ComputerTvMouse2Outline get outline => const _ComputerTvMouse2Outline();
+  /// twoTone style
+  _ComputerTvMouse2Twotone get twoTone => const _ComputerTvMouse2Twotone();
+  /// broken style
+  _ComputerTvMouse2Broken get broken => const _ComputerTvMouse2Broken();
+}
+
+/// mouse 2 — bulk style variants.
+class _ComputerTvMouse2Bulk {
+  const _ComputerTvMouse2Bulk();
+
+  /// mouse 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.195 7.866C19.195 4.907 16.788 2.5 13.829 2.5H10.171C7.21096 2.5 4.80396 4.908 4.80396 7.867L4.80496 16.134C4.80496 19.093 7.21196 21.5 10.171 21.5H13.83C16.789 21.5 19.196 19.092 19.196 16.133L19.195 7.866Z" fill="black"/> <path d="M11.999 10.4449C12.413 10.4449 12.749 10.1089 12.749 9.69487V7.67188C12.749 7.25787 12.413 6.92188 11.999 6.92188C11.585 6.92188 11.249 7.25787 11.249 7.67188V9.69487C11.249 10.1089 11.585 10.4449 11.999 10.4449Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 2 — broken style variants.
+class _ComputerTvMouse2Broken {
+  const _ComputerTvMouse2Broken();
+
+  /// mouse 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.4996 7.67198V9.69479M19.1957 10.959V7.86584C19.1957 5.17849 17.0172 3 14.3299 3H10.6715C7.98317 3 5.80469 5.17849 5.80469 7.86681L5.80566 16.1342C5.80566 18.8215 7.98415 21 10.6715 21H14.3308C17.0182 21 19.1967 18.8205 19.1967 16.1332L19.1964 14.0664" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 2 — twoTone style variants.
+class _ComputerTvMouse2Twotone {
+  const _ComputerTvMouse2Twotone();
+
+  /// mouse 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M18.6952 7.86584L18.6962 16.1332C18.6962 18.8205 16.5177 21 13.8304 21H10.171C7.48366 21 5.30517 18.8215 5.30517 16.1342L5.3042 7.86681C5.3042 5.17849 7.48269 3 10.171 3H13.8294C16.5167 3 18.6952 5.17849 18.6952 7.86584Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 7.67188V9.69469" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 2 — outline style variants.
+class _ComputerTvMouse2Outline {
+  const _ComputerTvMouse2Outline();
+
+  /// mouse 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.5542 7.86681C4.5542 4.76427 7.06847 2.25 10.171 2.25H13.8294C16.9309 2.25 19.4452 4.76423 19.4452 7.86575C19.4452 7.86572 19.4452 7.86578 19.4452 7.86575L19.4462 16.1331C19.4462 19.2345 16.9321 21.75 13.8304 21.75H10.171C7.06947 21.75 4.55522 19.2358 4.55517 16.1343C4.55517 16.1342 4.55517 16.1343 4.55517 16.1343L4.5542 7.86681ZM6.0542 7.86681C6.0542 7.86678 6.0542 7.86684 6.0542 7.86681L6.05517 16.1341C6.05517 18.4072 7.89787 20.25 10.171 20.25H13.8304C16.1033 20.25 17.9462 18.4066 17.9462 16.1333C17.9462 16.1332 17.9462 16.1333 17.9462 16.1333L17.9452 7.86593C17.9452 5.59279 16.1025 3.75 13.8294 3.75H10.171C7.89693 3.75 6.05425 5.59274 6.0542 7.86681ZM11.9991 6.92198C12.4133 6.92198 12.7491 7.25777 12.7491 7.67198V9.69479C12.7491 10.109 12.4133 10.4448 11.9991 10.4448C11.5849 10.4448 11.2491 10.109 11.2491 9.69479V7.67198C11.2491 7.25777 11.5849 6.92198 11.9991 6.92198Z" fill="black"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 2 — bold style variants.
+class _ComputerTvMouse2Bold {
+  const _ComputerTvMouse2Bold();
+
+  /// mouse 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.749 9.695C12.749 10.109 12.413 10.445 11.999 10.445C11.585 10.445 11.249 10.109 11.249 9.695V7.672C11.249 7.258 11.585 6.922 11.999 6.922C12.413 6.922 12.749 7.258 12.749 7.672V9.695ZM19.195 7.866C19.195 4.907 16.788 2.5 13.829 2.5H10.171C7.21102 2.5 4.80402 4.908 4.80402 7.867L4.80502 16.134C4.80502 19.093 7.21202 21.5 10.171 21.5H13.83C16.789 21.5 19.196 19.092 19.196 16.133L19.195 7.866Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 2 — light style variants.
+class _ComputerTvMouse2Light {
+  const _ComputerTvMouse2Light();
+
+  /// mouse 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.9996 7.67198V9.69479M18.6967 16.1332L18.6957 7.86584C18.6957 5.17849 16.5172 3 13.8299 3H10.1715C7.48317 3 5.30469 5.17849 5.30469 7.86681L5.30566 16.1342C5.30566 18.8215 7.48415 21 10.1715 21H13.8308C16.5182 21 18.6967 18.8205 18.6967 16.1332Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 3 icon with style variants.
+class _ComputerTvMouse3Icon {
+  const _ComputerTvMouse3Icon();
+
+  /// bold style
+  _ComputerTvMouse3Bold get bold => const _ComputerTvMouse3Bold();
+  /// bulk style
+  _ComputerTvMouse3Bulk get bulk => const _ComputerTvMouse3Bulk();
+  /// light style
+  _ComputerTvMouse3Light get light => const _ComputerTvMouse3Light();
+  /// outline style
+  _ComputerTvMouse3Outline get outline => const _ComputerTvMouse3Outline();
+  /// twoTone style
+  _ComputerTvMouse3Twotone get twoTone => const _ComputerTvMouse3Twotone();
+  /// broken style
+  _ComputerTvMouse3Broken get broken => const _ComputerTvMouse3Broken();
+}
+
+/// mouse 3 — bulk style variants.
+class _ComputerTvMouse3Bulk {
+  const _ComputerTvMouse3Bulk();
+
+  /// mouse 3 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.0054 10.8862C12.0034 10.8862 12.0024 10.8872 12.0004 10.8872C11.9984 10.8872 11.9974 10.8862 11.9954 10.8862H5.10444C4.93873 10.8862 4.8044 11.0206 4.80444 11.1863L4.80536 14.6692C4.80536 18.4152 8.03236 21.4632 12.0004 21.4632C15.9684 21.4632 19.1964 18.4142 19.1964 14.6662L19.1954 11.1862C19.1954 11.0205 19.0611 10.8862 18.8954 10.8862H12.0054Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7506 9.08606C12.7506 9.25175 12.8849 9.38606 13.0506 9.38606H19.0666C19.1373 9.38606 19.1946 9.32876 19.1946 9.25806C19.1936 5.85807 16.5356 3.03424 13.0793 2.54068C12.9037 2.51562 12.7506 2.65475 12.7506 2.83206V9.08606Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9506 9.38606C11.1163 9.38606 11.2506 9.25175 11.2506 9.08606V2.83147C11.2506 2.65438 11.0978 2.51531 10.9225 2.53995C9.41414 2.75185 8.02127 3.40874 6.92159 4.44406C5.55559 5.72806 4.80259 7.43906 4.80359 9.26006C4.80359 9.32965 4.86 9.38606 4.92959 9.38606H10.9506Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 3 — broken style variants.
+class _ComputerTvMouse3Broken {
+  const _ComputerTvMouse3Broken();
+
+  /// mouse 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.1938 10.1431V9.29514C19.1928 5.81773 16.1951 3 12.4987 3C8.79949 3 5.80176 5.81968 5.80273 9.29708L5.80468 14.7058C5.80468 18.1823 8.80241 21 12.4997 21C16.198 21 19.1957 18.1803 19.1957 14.7029V13.3628" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.1967 10.1719H5.80469" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 5.94141V10.1745" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 3 — twoTone style variants.
+class _ComputerTvMouse3Twotone {
+  const _ComputerTvMouse3Twotone();
+
+  /// mouse 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.6962 14.7029C18.6962 18.1803 15.6985 21 12.0002 21C8.3029 21 5.30517 18.1823 5.30517 14.7058L5.30322 9.29708C5.30225 5.81968 8.29998 3 11.9992 3C15.6955 3 18.6933 5.81773 18.6942 9.29514L18.6962 14.7029Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.6967 10.1729H5.30469M12 3.01172V10.1738" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 3 — outline style variants.
+class _ComputerTvMouse3Outline {
+  const _ComputerTvMouse3Outline();
+
+  /// mouse 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.55322 9.29729C4.55212 5.3627 7.92992 2.25 11.9992 2.25C16.0656 2.25 19.4431 5.36064 19.4442 9.29487C19.4442 9.29485 19.4442 9.29489 19.4442 9.29487L19.4462 14.7026C19.4462 18.637 16.0687 21.75 12.0002 21.75C7.93312 21.75 4.55532 18.6396 4.55517 14.7061C4.55517 14.706 4.55517 14.7062 4.55517 14.7061L4.55322 9.29729ZM6.05322 9.29687C6.05322 9.29685 6.05322 9.29689 6.05322 9.29687L6.05517 14.7056C6.05517 17.7248 8.67277 20.25 12.0002 20.25C15.3282 20.25 17.946 17.7236 17.9462 14.7032C17.9462 14.7031 17.9462 14.7033 17.9462 14.7032L17.9442 9.2954C17.9434 6.27485 15.3255 3.75 11.9992 3.75C8.67006 3.75 6.05241 6.27668 6.05322 9.29687Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.55469 10.1729C4.55469 9.75864 4.89047 9.42285 5.30469 9.42285H18.6967C19.1109 9.42285 19.4467 9.75864 19.4467 10.1729C19.4467 10.5871 19.1109 10.9229 18.6967 10.9229H5.30469C4.89047 10.9229 4.55469 10.5871 4.55469 10.1729Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.26172C12.4142 2.26172 12.75 2.59751 12.75 3.01172V10.1738C12.75 10.588 12.4142 10.9238 12 10.9238C11.5858 10.9238 11.25 10.588 11.25 10.1738V3.01172C11.25 2.59751 11.5858 2.26172 12 2.26172Z" fill="black"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 3 — bold style variants.
+class _ComputerTvMouse3Bold {
+  const _ComputerTvMouse3Bold();
+
+  /// mouse 3 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7506 9.08606C12.7506 9.25175 12.8849 9.38606 13.0506 9.38606H19.0666C19.1373 9.38606 19.1946 9.32876 19.1946 9.25806C19.1936 5.85807 16.5356 3.03424 13.0793 2.54068C12.9037 2.51562 12.7506 2.65475 12.7506 2.83206V9.08606Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9506 9.38606C11.1163 9.38606 11.2506 9.25175 11.2506 9.08606V2.83147C11.2506 2.65438 11.0978 2.51531 10.9225 2.53995C9.41414 2.75185 8.02127 3.40874 6.92159 4.44406C5.55559 5.72806 4.80259 7.43906 4.80359 9.26006C4.80359 9.32965 4.86 9.38606 4.92959 9.38606H10.9506Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0054 10.8863C12.0034 10.8863 12.0024 10.8873 12.0004 10.8873C11.9984 10.8873 11.9974 10.8863 11.9954 10.8863H5.10446C4.93875 10.8863 4.80442 11.0207 4.80446 11.1864L4.80538 14.6693C4.80538 18.4153 8.03238 21.4633 12.0004 21.4633C15.9684 21.4633 19.1964 18.4143 19.1964 14.6663L19.1955 11.1862C19.1954 11.0206 19.0611 10.8863 18.8955 10.8863H12.0054Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 3 — light style variants.
+class _ComputerTvMouse3Light {
+  const _ComputerTvMouse3Light();
+
+  /// mouse 3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.6957 14.7029C18.6957 18.1803 15.698 21 11.9997 21C8.30241 21 5.30468 18.1823 5.30468 14.7058L5.30273 9.29708C5.30176 5.81968 8.29949 3 11.9987 3C15.6951 3 18.6928 5.81773 18.6938 9.29514L18.6957 14.7029Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.6967 10.1719H5.30469" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3.01172V10.1738" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 4 icon with style variants.
+class _ComputerTvMouse4Icon {
+  const _ComputerTvMouse4Icon();
+
+  /// bold style
+  _ComputerTvMouse4Bold get bold => const _ComputerTvMouse4Bold();
+  /// bulk style
+  _ComputerTvMouse4Bulk get bulk => const _ComputerTvMouse4Bulk();
+  /// light style
+  _ComputerTvMouse4Light get light => const _ComputerTvMouse4Light();
+  /// outline style
+  _ComputerTvMouse4Outline get outline => const _ComputerTvMouse4Outline();
+  /// twoTone style
+  _ComputerTvMouse4Twotone get twoTone => const _ComputerTvMouse4Twotone();
+  /// broken style
+  _ComputerTvMouse4Broken get broken => const _ComputerTvMouse4Broken();
+}
+
+/// mouse 4 — bulk style variants.
+class _ComputerTvMouse4Bulk {
+  const _ComputerTvMouse4Bulk();
+
+  /// mouse 4 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.1955 9.295C19.1945 5.548 15.9665 2.5 12.0005 2.5C10.0845 2.5 8.28047 3.203 6.92247 4.481C5.55547 5.765 4.80247 7.476 4.80347 9.297L4.80547 14.706C4.80547 18.452 8.03347 21.5 12.0015 21.5C13.9175 21.5 15.7205 20.797 17.0785 19.52C18.4445 18.235 19.1975 16.524 19.1965 14.703L19.1955 9.295Z" fill="black"/> <path d="M9.09949 10.923H14.9015C15.3155 10.923 15.6515 10.587 15.6515 10.173C15.6515 9.759 15.3155 9.423 14.9015 9.423H12.7525V7.271C12.7525 6.857 12.4165 6.521 12.0025 6.521C11.5885 6.521 11.2525 6.857 11.2525 7.271V9.423H9.09949C8.68549 9.423 8.34949 9.759 8.34949 10.173C8.34949 10.587 8.68549 10.923 9.09949 10.923Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 4 — broken style variants.
+class _ComputerTvMouse4Broken {
+  const _ComputerTvMouse4Broken();
+
+  /// mouse 4 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.1967 14.7029C19.1977 18.1803 16.1999 21 12.5017 21C8.80436 21 5.80663 18.1823 5.80663 14.7058L5.80469 9.29708C5.80372 5.81968 8.80242 3 12.5007 3C16.197 3 19.1947 5.81773 19.1957 9.29514L19.1962 11.999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.502 7.27148V10.1719" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4014 10.1719H9.59961" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 4 — twoTone style variants.
+class _ComputerTvMouse4Twotone {
+  const _ComputerTvMouse4Twotone();
+
+  /// mouse 4 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.6962 14.7029C18.6972 18.1803 15.6994 21 12.0012 21C8.30388 21 5.30615 18.1823 5.30615 14.7058L5.3042 9.29708C5.30323 5.81968 8.30193 3 12.0002 3C15.6965 3 18.6943 5.81773 18.6952 9.29514L18.6962 14.7029Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.002 7.27148V10.1719M14.9014 10.1729H9.09961" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 4 — outline style variants.
+class _ComputerTvMouse4Outline {
+  const _ComputerTvMouse4Outline();
+
+  /// mouse 4 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.5542 9.29729C4.5531 5.36263 7.93194 2.25 12.0002 2.25C16.0666 2.25 19.4441 5.36067 19.4452 9.29493L19.4462 14.7027C19.4462 14.7027 19.4462 14.7027 19.4462 14.7027C19.4473 18.6372 16.0696 21.75 12.0012 21.75C7.93409 21.75 4.5563 18.6396 4.55615 14.7061C4.55615 14.706 4.55615 14.7062 4.55615 14.7061L4.5542 9.29729ZM6.0542 9.29687C6.0542 9.29685 6.0542 9.29689 6.0542 9.29687L6.05615 14.7056C6.05615 17.7248 8.67375 20.25 12.0012 20.25C15.3293 20.25 17.947 17.7234 17.9462 14.7031L17.9452 9.29534C17.9452 9.29532 17.9452 9.29537 17.9452 9.29534C17.9443 6.27482 15.3264 3.75 12.0002 3.75C8.67194 3.75 6.05339 6.27675 6.0542 9.29687Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.002 6.52148C12.4162 6.52148 12.752 6.85727 12.752 7.27148V10.1719C12.752 10.5861 12.4162 10.9219 12.002 10.9219C11.5877 10.9219 11.252 10.5861 11.252 10.1719V7.27148C11.252 6.85727 11.5877 6.52148 12.002 6.52148Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.34961 10.1729C8.34961 9.75864 8.6854 9.42285 9.09961 9.42285H14.9014C15.3157 9.42285 15.6514 9.75864 15.6514 10.1729C15.6514 10.5871 15.3157 10.9229 14.9014 10.9229H9.09961C8.6854 10.9229 8.34961 10.5871 8.34961 10.1729Z" fill="black"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 4 — bold style variants.
+class _ComputerTvMouse4Bold {
+  const _ComputerTvMouse4Bold();
+
+  /// mouse 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9015 10.923H9.09947C8.68547 10.923 8.34947 10.587 8.34947 10.173C8.34947 9.759 8.68547 9.423 9.09947 9.423H11.2525V7.271C11.2525 6.857 11.5885 6.521 12.0025 6.521C12.4165 6.521 12.7525 6.857 12.7525 7.271V9.423H14.9015C15.3155 9.423 15.6515 9.759 15.6515 10.173C15.6515 10.587 15.3155 10.923 14.9015 10.923ZM19.1955 9.295C19.1945 5.548 15.9665 2.5 12.0005 2.5C10.0845 2.5 8.28047 3.203 6.92247 4.481C5.55547 5.765 4.80247 7.476 4.80347 9.297L4.80547 14.706C4.80547 18.452 8.03347 21.5 12.0015 21.5C13.9175 21.5 15.7205 20.797 17.0785 19.52C18.4445 18.235 19.1975 16.524 19.1965 14.703L19.1955 9.295Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// mouse 4 — light style variants.
+class _ComputerTvMouse4Light {
+  const _ComputerTvMouse4Light();
+
+  /// mouse 4 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'mouse 4',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.6967 14.7029C18.6977 18.1803 15.6999 21 12.0017 21C8.30436 21 5.30663 18.1823 5.30663 14.7058L5.30469 9.29708C5.30371 5.81968 8.30242 3 12.0007 3C15.697 3 18.6947 5.81773 18.6957 9.29514L18.6967 14.7029Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 7.27148V10.1719" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9014 10.1719H9.09961" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.light,
@@ -3897,7 +5297,7 @@ class _ComputerTvMonitorDisplayStandBulk {
   /// monitor display stand — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'monitor display stand',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.5 6.1643V12.3643H2.5V6.1643C2.5 4.2243 4.07 2.6543 6.01 2.6543H17.99C19.93 2.6543 21.5 4.2243 21.5 6.1643Z" fill="black"/> <path d="M21.49 13.8633H2.51001C2.61001 15.7033 4.14001 17.1733 6.01001 17.1733H17.99C19.86 17.1733 21.39 15.7033 21.49 13.8633Z" fill="black"/> <path d="M12.7499 17.1738V19.8438H15.9499C16.3599 19.8438 16.6999 20.1738 16.6999 20.5938C16.6999 21.0038 16.3599 21.3438 15.9499 21.3438H8.04993C7.63993 21.3438 7.29993 21.0038 7.29993 20.5938C7.29993 20.1738 7.63993 19.8438 8.04993 19.8438H11.2499V17.1738H12.7499Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.2501 19.8429V17.1729H12.7501V19.8429H15.9451C16.3591 19.8429 16.6951 20.1789 16.6951 20.5929C16.6951 21.0069 16.3591 21.3429 15.9451 21.3429H8.05505C7.64005 21.3429 7.30505 21.0069 7.30505 20.5929C7.30505 20.1789 7.64005 19.8429 8.05505 19.8429H11.2501Z" fill="black"/> <path opacity="0.4" d="M6.007 2.6582H17.994C19.928 2.6582 21.5 4.2312 21.5 6.1642V13.6652C21.5 15.5992 19.928 17.1732 17.994 17.1732H12.75H11.25H6.007C4.073 17.1732 2.5 15.5992 2.5 13.6652V6.1642C2.5 4.2312 4.073 2.6582 6.007 2.6582Z" fill="black"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -3912,7 +5312,7 @@ class _ComputerTvMonitorDisplayStandBroken {
   /// monitor display stand — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'monitor display stand',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5005 3.2832H18.4935C20.1544 3.2832 21.5 4.6298 21.5 6.28969V13.7903C21.5 15.4512 20.1544 16.7978 18.4935 16.7978H6.50746C4.84659 16.7978 3.5 15.4512 3.5 13.7903V6.28969C3.5 4.6298 4.84659 3.2832 6.50746 3.2832H9.0869" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.55469 20.7168H16.4445" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.5 13.2422H18.7038" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 17.0039V20.7168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5005 3.2832H18.4935C20.1544 3.2832 21.5 4.6298 21.5 6.28969V13.7903C21.5 15.4512 20.1544 16.7978 18.4935 16.7978H6.50746C4.84659 16.7978 3.5 15.4512 3.5 13.7903V6.28969C3.5 4.6298 4.84659 3.2832 6.50746 3.2832H8.80944" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.55469 20.7168H16.4445" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 17.0039V20.7168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -3927,7 +5327,7 @@ class _ComputerTvMonitorDisplayStandTwotone {
   /// monitor display stand — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'monitor display stand',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9935 3.28271H6.00746C4.34659 3.28271 3 4.62931 3 6.2892V13.7899C3 15.4507 4.34659 16.7973 6.00746 16.7973H17.9935C19.6544 16.7973 21 15.4507 21 13.7899V6.2892C21 4.62931 19.6544 3.28271 17.9935 3.28271Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 13.2432H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.05469 20.7168H15.9445M12 17.0039V20.7168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9935 3.28271H6.00746C4.34659 3.28271 3 4.62931 3 6.2892V13.7899C3 15.4507 4.34659 16.7973 6.00746 16.7973H17.9935C19.6544 16.7973 21 15.4507 21 13.7899V6.2892C21 4.62931 19.6544 3.28271 17.9935 3.28271Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.05469 20.7168H15.9445M12 17.0039V20.7168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Computer_&_TV',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -3942,7 +5342,7 @@ class _ComputerTvMonitorDisplayStandOutline {
   /// monitor display stand — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'monitor display stand',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 6.2892C2.25 4.21494 3.93254 2.53271 6.00746 2.53271H17.9935C20.0688 2.53271 21.75 4.21525 21.75 6.2892V13.7899C21.75 15.8646 20.0689 17.5473 17.9935 17.5473H6.00746C3.93238 17.5473 2.25 15.8649 2.25 13.7899V6.2892ZM6.00746 4.03271C4.76065 4.03271 3.75 5.04368 3.75 6.2892V13.7899C3.75 15.0365 4.76081 16.0473 6.00746 16.0473H17.9935C19.2398 16.0473 20.25 15.0368 20.25 13.7899V6.2892C20.25 5.04336 19.24 4.03271 17.9935 4.03271H6.00746Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.30469 20.7168C7.30469 20.3026 7.64047 19.9668 8.05469 19.9668H15.9445C16.3587 19.9668 16.6945 20.3026 16.6945 20.7168C16.6945 21.131 16.3587 21.4668 15.9445 21.4668H8.05469C7.64047 21.4668 7.30469 21.131 7.30469 20.7168Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 13.2432C2.25 12.829 2.58579 12.4932 3 12.4932H21C21.4142 12.4932 21.75 12.829 21.75 13.2432C21.75 13.6574 21.4142 13.9932 21 13.9932H3C2.58579 13.9932 2.25 13.6574 2.25 13.2432Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 16.2539C12.4142 16.2539 12.75 16.5897 12.75 17.0039V20.7168C12.75 21.131 12.4142 21.4668 12 21.4668C11.5858 21.4668 11.25 21.131 11.25 20.7168V17.0039C11.25 16.5897 11.5858 16.2539 12 16.2539Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 6.2892C2.25 4.21494 3.93254 2.53271 6.00746 2.53271H17.9935C20.0688 2.53271 21.75 4.21525 21.75 6.2892V13.7899C21.75 15.8646 20.0689 17.5473 17.9935 17.5473H6.00746C3.93238 17.5473 2.25 15.8649 2.25 13.7899V6.2892ZM6.00746 4.03271C4.76065 4.03271 3.75 5.04368 3.75 6.2892V13.7899C3.75 15.0365 4.76081 16.0473 6.00746 16.0473H17.9935C19.2398 16.0473 20.25 15.0368 20.25 13.7899V6.2892C20.25 5.04336 19.24 4.03271 17.9935 4.03271H6.00746Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.30469 20.7168C7.30469 20.3026 7.64047 19.9668 8.05469 19.9668H15.9445C16.3587 19.9668 16.6945 20.3026 16.6945 20.7168C16.6945 21.131 16.3587 21.4668 15.9445 21.4668H8.05469C7.64047 21.4668 7.30469 21.131 7.30469 20.7168Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 16.2539C12.4142 16.2539 12.75 16.5897 12.75 17.0039V20.7168C12.75 21.131 12.4142 21.4668 12 21.4668C11.5858 21.4668 11.25 21.131 11.25 20.7168V17.0039C11.25 16.5897 11.5858 16.2539 12 16.2539Z" fill="black"/> </svg> ',
     category: 'Computer_&_TV',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -3957,7 +5357,7 @@ class _ComputerTvMonitorDisplayStandBold {
   /// monitor display stand — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'monitor display stand',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.50995 13.8643H21.4899C21.3899 15.7043 19.8599 17.1743 17.9899 17.1743H12.7499V19.8443H15.9499C16.3599 19.8443 16.6999 20.1743 16.6999 20.5943C16.6999 21.0043 16.3599 21.3443 15.9499 21.3443H8.04995C7.63995 21.3443 7.29995 21.0043 7.29995 20.5943C7.29995 20.1743 7.63995 19.8443 8.04995 19.8443H11.2499V17.1743H6.00995C4.13995 17.1743 2.60995 15.7043 2.50995 13.8643Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 6.1643V12.3643H2.5V6.1643C2.5 4.2243 4.07 2.6543 6.01 2.6543H17.99C19.93 2.6543 21.5 4.2243 21.5 6.1643Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.994 2.6582H6.007C4.073 2.6582 2.5 4.2312 2.5 6.1642V13.6652C2.5 15.5992 4.073 17.1732 6.007 17.1732H11.25V19.8432H8.055C7.64 19.8432 7.305 20.1792 7.305 20.5932C7.305 21.0072 7.64 21.3432 8.055 21.3432H15.945C16.359 21.3432 16.695 21.0072 16.695 20.5932C16.695 20.1792 16.359 19.8432 15.945 19.8432H12.75V17.1732H17.994C19.928 17.1732 21.5 15.5992 21.5 13.6652V6.1642C21.5 4.2312 19.928 2.6582 17.994 2.6582Z" fill="black"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -3972,6 +5372,114 @@ class _ComputerTvMonitorDisplayStandLight {
   /// monitor display stand — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'monitor display stand',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9935 3.2832H6.00746C4.34659 3.2832 3 4.6298 3 6.28969V13.7903C3 15.4512 4.34659 16.7978 6.00746 16.7978H17.9935C19.6544 16.7978 21 15.4512 21 13.7903V6.28969C21 4.6298 19.6544 3.2832 17.9935 3.2832Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.05469 20.7168H15.9445" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 17.0039V20.7168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display stand 1 icon with style variants.
+class _ComputerTvMonitorDisplayStand1Icon {
+  const _ComputerTvMonitorDisplayStand1Icon();
+
+  /// bold style
+  _ComputerTvMonitorDisplayStand1Bold get bold => const _ComputerTvMonitorDisplayStand1Bold();
+  /// bulk style
+  _ComputerTvMonitorDisplayStand1Bulk get bulk => const _ComputerTvMonitorDisplayStand1Bulk();
+  /// light style
+  _ComputerTvMonitorDisplayStand1Light get light => const _ComputerTvMonitorDisplayStand1Light();
+  /// outline style
+  _ComputerTvMonitorDisplayStand1Outline get outline => const _ComputerTvMonitorDisplayStand1Outline();
+  /// twoTone style
+  _ComputerTvMonitorDisplayStand1Twotone get twoTone => const _ComputerTvMonitorDisplayStand1Twotone();
+  /// broken style
+  _ComputerTvMonitorDisplayStand1Broken get broken => const _ComputerTvMonitorDisplayStand1Broken();
+}
+
+/// monitor display stand 1 — bulk style variants.
+class _ComputerTvMonitorDisplayStand1Bulk {
+  const _ComputerTvMonitorDisplayStand1Bulk();
+
+  /// monitor display stand 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display stand 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.5 6.1643V12.3643H2.5V6.1643C2.5 4.2243 4.07 2.6543 6.01 2.6543H17.99C19.93 2.6543 21.5 4.2243 21.5 6.1643Z" fill="black"/> <path d="M21.49 13.8633H2.51001C2.61001 15.7033 4.14001 17.1733 6.01001 17.1733H17.99C19.86 17.1733 21.39 15.7033 21.49 13.8633Z" fill="black"/> <path d="M12.7499 17.1738V19.8438H15.9499C16.3599 19.8438 16.6999 20.1738 16.6999 20.5938C16.6999 21.0038 16.3599 21.3438 15.9499 21.3438H8.04993C7.63993 21.3438 7.29993 21.0038 7.29993 20.5938C7.29993 20.1738 7.63993 19.8438 8.04993 19.8438H11.2499V17.1738H12.7499Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display stand 1 — broken style variants.
+class _ComputerTvMonitorDisplayStand1Broken {
+  const _ComputerTvMonitorDisplayStand1Broken();
+
+  /// monitor display stand 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display stand 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5005 3.2832H18.4935C20.1544 3.2832 21.5 4.6298 21.5 6.28969V13.7903C21.5 15.4512 20.1544 16.7978 18.4935 16.7978H6.50746C4.84659 16.7978 3.5 15.4512 3.5 13.7903V6.28969C3.5 4.6298 4.84659 3.2832 6.50746 3.2832H9.0869" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.55469 20.7168H16.4445" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.5 13.2422H18.7038" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 17.0039V20.7168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display stand 1 — twoTone style variants.
+class _ComputerTvMonitorDisplayStand1Twotone {
+  const _ComputerTvMonitorDisplayStand1Twotone();
+
+  /// monitor display stand 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display stand 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9935 3.28271H6.00746C4.34659 3.28271 3 4.62931 3 6.2892V13.7899C3 15.4507 4.34659 16.7973 6.00746 16.7973H17.9935C19.6544 16.7973 21 15.4507 21 13.7899V6.2892C21 4.62931 19.6544 3.28271 17.9935 3.28271Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 13.2432H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.05469 20.7168H15.9445M12 17.0039V20.7168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display stand 1 — outline style variants.
+class _ComputerTvMonitorDisplayStand1Outline {
+  const _ComputerTvMonitorDisplayStand1Outline();
+
+  /// monitor display stand 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display stand 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 6.2892C2.25 4.21494 3.93254 2.53271 6.00746 2.53271H17.9935C20.0688 2.53271 21.75 4.21525 21.75 6.2892V13.7899C21.75 15.8646 20.0689 17.5473 17.9935 17.5473H6.00746C3.93238 17.5473 2.25 15.8649 2.25 13.7899V6.2892ZM6.00746 4.03271C4.76065 4.03271 3.75 5.04368 3.75 6.2892V13.7899C3.75 15.0365 4.76081 16.0473 6.00746 16.0473H17.9935C19.2398 16.0473 20.25 15.0368 20.25 13.7899V6.2892C20.25 5.04336 19.24 4.03271 17.9935 4.03271H6.00746Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.30469 20.7168C7.30469 20.3026 7.64047 19.9668 8.05469 19.9668H15.9445C16.3587 19.9668 16.6945 20.3026 16.6945 20.7168C16.6945 21.131 16.3587 21.4668 15.9445 21.4668H8.05469C7.64047 21.4668 7.30469 21.131 7.30469 20.7168Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 13.2432C2.25 12.829 2.58579 12.4932 3 12.4932H21C21.4142 12.4932 21.75 12.829 21.75 13.2432C21.75 13.6574 21.4142 13.9932 21 13.9932H3C2.58579 13.9932 2.25 13.6574 2.25 13.2432Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 16.2539C12.4142 16.2539 12.75 16.5897 12.75 17.0039V20.7168C12.75 21.131 12.4142 21.4668 12 21.4668C11.5858 21.4668 11.25 21.131 11.25 20.7168V17.0039C11.25 16.5897 11.5858 16.2539 12 16.2539Z" fill="black"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display stand 1 — bold style variants.
+class _ComputerTvMonitorDisplayStand1Bold {
+  const _ComputerTvMonitorDisplayStand1Bold();
+
+  /// monitor display stand 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display stand 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.50995 13.8643H21.4899C21.3899 15.7043 19.8599 17.1743 17.9899 17.1743H12.7499V19.8443H15.9499C16.3599 19.8443 16.6999 20.1743 16.6999 20.5943C16.6999 21.0043 16.3599 21.3443 15.9499 21.3443H8.04995C7.63995 21.3443 7.29995 21.0043 7.29995 20.5943C7.29995 20.1743 7.63995 19.8443 8.04995 19.8443H11.2499V17.1743H6.00995C4.13995 17.1743 2.60995 15.7043 2.50995 13.8643Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 6.1643V12.3643H2.5V6.1643C2.5 4.2243 4.07 2.6543 6.01 2.6543H17.99C19.93 2.6543 21.5 4.2243 21.5 6.1643Z" fill="black"/> </svg>',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// monitor display stand 1 — light style variants.
+class _ComputerTvMonitorDisplayStand1Light {
+  const _ComputerTvMonitorDisplayStand1Light();
+
+  /// monitor display stand 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'monitor display stand 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9935 3.2832H6.00746C4.34659 3.2832 3 4.6298 3 6.28969V13.7903C3 15.4512 4.34659 16.7978 6.00746 16.7978H17.9935C19.6544 16.7978 21 15.4512 21 13.7903V6.28969C21 4.6298 19.6544 3.2832 17.9935 3.2832Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.05469 20.7168H15.9445" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 13.2422H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 17.0039V20.7168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.light,
@@ -4515,6 +6023,46 @@ class _ComputerTvMacLaptopNotebookChargeLight {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.7562 6.99609L10.5273 9.20769H13.4765L12.2476 11.4193" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0243 3.98828C18.37 3.98828 19.4597 5.07801 19.4597 6.42362V14.4285L20.8856 17.5315C21.3273 18.737 20.4351 20.0145 19.1508 20.0145H4.84913C3.56579 20.0145 2.67261 18.738 3.11433 17.5315L4.54117 14.4285V6.42362C4.54117 5.07801 5.63186 3.98828 6.97651 3.98828H17.0243Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6934 17.2539H13.3087" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4431 14.4277H4.55859" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Computer_&_TV',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor icon with style variants.
+class _ComputerTvCpuProcessor3Icon {
+  const _ComputerTvCpuProcessor3Icon();
+
+  /// outline style
+  _ComputerTvCpuProcessor3Outline get outline => const _ComputerTvCpuProcessor3Outline();
+  /// twoTone style
+  _ComputerTvCpuProcessor3Twotone get twoTone => const _ComputerTvCpuProcessor3Twotone();
+}
+
+/// cpu processor — twoTone style variants.
+class _ComputerTvCpuProcessor3Twotone {
+  const _ComputerTvCpuProcessor3Twotone();
+
+  /// cpu processor — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.49153 4.53735H15.5135C17.9566 4.53735 19.4696 5.86352 19.4628 8.29986V15.6955C19.4628 18.1318 17.9489 19.4648 15.5057 19.4648H8.49153C6.05616 19.4648 4.5354 18.1084 4.5354 15.6332V8.29986C4.5354 5.86352 6.05616 4.53735 8.49153 4.53735Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.0485 4.5373V3M11.9989 4.5373V3M7.94922 4.5373V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.94922 19.4629V21.0002M11.9989 19.4629V21.0002M16.0485 19.4629V21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M4.5373 7.9502H3M4.5373 11.9998H3M4.5373 16.0495H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.4629 16.0495H21.0002M19.4629 11.9998H21.0002M19.4629 7.9502H21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.6741 8.44531H10.329C9.16823 8.44531 8.44336 9.07677 8.44336 10.2375V13.7325C8.44336 14.9117 9.16823 15.5578 10.329 15.5578H13.6702C14.8348 15.5578 15.5558 14.9224 15.5558 13.7617V10.2375C15.5597 9.07677 14.8378 8.44531 13.6741 8.44531Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// cpu processor — outline style variants.
+class _ComputerTvCpuProcessor3Outline {
+  const _ComputerTvCpuProcessor3Outline();
+
+  /// cpu processor — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'cpu processor',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.08976 4.95553C5.95081 4.15552 7.14316 3.78735 8.49159 3.78735H15.5136C16.8652 3.78735 18.0583 4.15519 18.9182 4.95621C19.7861 5.76474 20.2165 6.92334 20.2129 8.3009C20.2129 8.30125 20.2129 8.3016 20.2129 8.30195L19.4629 8.29986H20.2129V8.3009V15.6955C20.2129 17.0731 19.7802 18.2326 18.912 19.0422C18.0516 19.8446 16.8585 20.2148 15.5058 20.2148H8.49159C7.13887 20.2148 5.94483 19.8366 5.08449 19.0217C4.21805 18.201 3.78546 17.0276 3.78546 15.6332V8.29986C3.78546 6.92118 4.22051 5.76317 5.08976 4.95553ZM6.11076 6.05443C5.61079 6.51896 5.28546 7.2422 5.28546 8.29986V15.6332C5.28546 16.714 5.61325 17.4564 6.11603 17.9327C6.62492 18.4147 7.40895 18.7148 8.49159 18.7148H15.5058C16.5962 18.7148 17.3816 18.4184 17.889 17.9452C18.3886 17.4793 18.7129 16.7542 18.7129 15.6955V8.29986L18.7129 8.29776C18.7158 7.23945 18.3932 6.51718 17.8957 6.05375C17.39 5.5826 16.6051 5.28735 15.5136 5.28735H8.49159C7.40465 5.28735 6.61893 5.58227 6.11076 6.05443Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.94922 2.25C8.36343 2.25 8.69922 2.58579 8.69922 3V4.5373C8.69922 4.95152 8.36343 5.2873 7.94922 5.2873C7.53501 5.2873 7.19922 4.95152 7.19922 4.5373V3C7.19922 2.58579 7.53501 2.25 7.94922 2.25ZM11.9989 2.25C12.4131 2.25 12.7489 2.58579 12.7489 3V4.5373C12.7489 4.95152 12.4131 5.2873 11.9989 5.2873C11.5846 5.2873 11.2489 4.95152 11.2489 4.5373V3C11.2489 2.58579 11.5846 2.25 11.9989 2.25ZM16.0485 2.25C16.4627 2.25 16.7985 2.58579 16.7985 3V4.5373C16.7985 4.95152 16.4627 5.2873 16.0485 5.2873C15.6343 5.2873 15.2985 4.95152 15.2985 4.5373V3C15.2985 2.58579 15.6343 2.25 16.0485 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.94922 18.7129C8.36343 18.7129 8.69922 19.0487 8.69922 19.4629V21.0002C8.69922 21.4144 8.36343 21.7502 7.94922 21.7502C7.53501 21.7502 7.19922 21.4144 7.19922 21.0002V19.4629C7.19922 19.0487 7.53501 18.7129 7.94922 18.7129ZM11.9989 18.7129C12.4131 18.7129 12.7489 19.0487 12.7489 19.4629V21.0002C12.7489 21.4144 12.4131 21.7502 11.9989 21.7502C11.5846 21.7502 11.2489 21.4144 11.2489 21.0002V19.4629C11.2489 19.0487 11.5846 18.7129 11.9989 18.7129ZM16.0485 18.7129C16.4627 18.7129 16.7985 19.0487 16.7985 19.4629V21.0002C16.7985 21.4144 16.4627 21.7502 16.0485 21.7502C15.6343 21.7502 15.2985 21.4144 15.2985 21.0002V19.4629C15.2985 19.0487 15.6343 18.7129 16.0485 18.7129Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 7.9502C2.25 7.53598 2.58579 7.2002 3 7.2002H4.5373C4.95152 7.2002 5.2873 7.53598 5.2873 7.9502C5.2873 8.36441 4.95152 8.7002 4.5373 8.7002H3C2.58579 8.7002 2.25 8.36441 2.25 7.9502ZM2.25 11.9998C2.25 11.5856 2.58579 11.2498 3 11.2498H4.5373C4.95152 11.2498 5.2873 11.5856 5.2873 11.9998C5.2873 12.414 4.95152 12.7498 4.5373 12.7498H3C2.58579 12.7498 2.25 12.414 2.25 11.9998ZM2.25 16.0495C2.25 15.6353 2.58579 15.2995 3 15.2995H4.5373C4.95152 15.2995 5.2873 15.6353 5.2873 16.0495C5.2873 16.4637 4.95152 16.7995 4.5373 16.7995H3C2.58579 16.7995 2.25 16.4637 2.25 16.0495Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7129 7.9502C18.7129 7.53598 19.0487 7.2002 19.4629 7.2002H21.0002C21.4144 7.2002 21.7502 7.53598 21.7502 7.9502C21.7502 8.36441 21.4144 8.7002 21.0002 8.7002H19.4629C19.0487 8.7002 18.7129 8.36441 18.7129 7.9502ZM18.7129 11.9998C18.7129 11.5856 19.0487 11.2498 19.4629 11.2498H21.0002C21.4144 11.2498 21.7502 11.5856 21.7502 11.9998C21.7502 12.414 21.4144 12.7498 21.0002 12.7498H19.4629C19.0487 12.7498 18.7129 12.414 18.7129 11.9998ZM18.7129 16.0495C18.7129 15.6353 19.0487 15.2995 19.4629 15.2995H21.0002C21.4144 15.2995 21.7502 15.6353 21.7502 16.0495C21.7502 16.4637 21.4144 16.7995 21.0002 16.7995H19.4629C19.0487 16.7995 18.7129 16.4637 18.7129 16.0495Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.44059 8.35651C8.94338 7.8897 9.61805 7.69531 10.329 7.69531H13.6741C14.3859 7.69531 15.0613 7.88941 15.5638 8.35717C16.0744 8.83248 16.308 9.49856 16.3058 10.2387C16.3058 10.2391 16.3058 10.2396 16.3058 10.2401L15.5558 10.2375H16.3058V10.2387V13.7617C16.3058 14.5014 16.0715 15.1676 15.5613 15.6434C15.059 16.1121 14.3837 16.3078 13.6702 16.3078H10.329C9.61369 16.3078 8.93733 16.1073 8.43527 15.632C7.92705 15.1509 7.69336 14.479 7.69336 13.7325V10.2375C7.69336 9.49654 7.92951 8.83101 8.44059 8.35651ZM9.46119 9.45577C9.31964 9.58719 9.19336 9.81778 9.19336 10.2375V13.7325C9.19336 14.1652 9.3221 14.406 9.46651 14.5427C9.61707 14.6852 9.88353 14.8078 10.329 14.8078H13.6702C14.1214 14.8078 14.3889 14.6858 14.5382 14.5466C14.6797 14.4146 14.8058 14.1827 14.8058 13.7617V10.235C14.8072 9.81493 14.6818 9.58543 14.5418 9.45511C14.3934 9.31694 14.1259 9.19531 13.6741 9.19531H10.329C9.87916 9.19531 9.61102 9.31666 9.46119 9.45577Z" fill="black"/> </svg> ',
+    category: 'Computer_&_TV',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 

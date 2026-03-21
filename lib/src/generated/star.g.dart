@@ -10,26 +10,234 @@ class _StarIcons {
 
   /// Star circle
   _StarStarCircleIcon get starCircle => const _StarStarCircleIcon();
+  /// Star circle 1
+  _StarStarCircle1Icon get starCircle1 => const _StarStarCircle1Icon();
+  /// Star circle 2
+  _StarStarCircle2Icon get starCircle2 => const _StarStarCircle2Icon();
+  /// Star circle 3
+  _StarStarCircle3Icon get starCircle3 => const _StarStarCircle3Icon();
+  /// Star circle 4
+  _StarStarCircle4Icon get starCircle4 => const _StarStarCircle4Icon();
+  /// Star circle 5
+  _StarStarCircle5Icon get starCircle5 => const _StarStarCircle5Icon();
+  /// Star circle 6
+  _StarStarCircle6Icon get starCircle6 => const _StarStarCircle6Icon();
+  /// Star circle 7
+  _StarStarCircle7Icon get starCircle7 => const _StarStarCircle7Icon();
+  /// Star circle 8
+  _StarStarCircle8Icon get starCircle8 => const _StarStarCircle8Icon();
+  /// Star circle 9
+  _StarStarCircle9Icon get starCircle9 => const _StarStarCircle9Icon();
+  /// Star circle 10
+  _StarStarCircle10Icon get starCircle10 => const _StarStarCircle10Icon();
+  /// Star circle 11
+  _StarStarCircle11Icon get starCircle11 => const _StarStarCircle11Icon();
   /// star
   _StarStarIcon get star => const _StarStarIcon();
+  /// star 1
+  _StarStar1Icon get star1 => const _StarStar1Icon();
+  /// star 2
+  _StarStar2Icon get star2 => const _StarStar2Icon();
+  /// star 3
+  _StarStar3Icon get star3 => const _StarStar3Icon();
+  /// star 4
+  _StarStar4Icon get star4 => const _StarStar4Icon();
+  /// star 5
+  _StarStar5Icon get star5 => const _StarStar5Icon();
+  /// star 6
+  _StarStar6Icon get star6 => const _StarStar6Icon();
+  /// star 7
+  _StarStar7Icon get star7 => const _StarStar7Icon();
+  /// star 8
+  _StarStar8Icon get star8 => const _StarStar8Icon();
+  /// star 9
+  _StarStar9Icon get star9 => const _StarStar9Icon();
+  /// star 10
+  _StarStar10Icon get star10 => const _StarStar10Icon();
+  /// star 11
+  _StarStar11Icon get star11 => const _StarStar11Icon();
+  /// star 12
+  _StarStar12Icon get star12 => const _StarStar12Icon();
+  /// star 13
+  _StarStar13Icon get star13 => const _StarStar13Icon();
+  /// star 14
+  _StarStar14Icon get star14 => const _StarStar14Icon();
+  /// star 15
+  _StarStar15Icon get star15 => const _StarStar15Icon();
+  /// star 16
+  _StarStar16Icon get star16 => const _StarStar16Icon();
+  /// star 17
+  _StarStar17Icon get star17 => const _StarStar17Icon();
+  /// star 18
+  _StarStar18Icon get star18 => const _StarStar18Icon();
+  /// star 19
+  _StarStar19Icon get star19 => const _StarStar19Icon();
+  /// star 20
+  _StarStar20Icon get star20 => const _StarStar20Icon();
+  /// star 21
+  _StarStar21Icon get star21 => const _StarStar21Icon();
+  /// star 22
+  _StarStar22Icon get star22 => const _StarStar22Icon();
+  /// star 23
+  _StarStar23Icon get star23 => const _StarStar23Icon();
+  /// star 24
+  _StarStar24Icon get star24 => const _StarStar24Icon();
+  /// star 25
+  _StarStar25Icon get star25 => const _StarStar25Icon();
   /// stars
   _StarStarsIcon get stars => const _StarStarsIcon();
+  /// stars 1
+  _StarStars1Icon get stars1 => const _StarStars1Icon();
+  /// stars 2
+  _StarStars2Icon get stars2 => const _StarStars2Icon();
+  /// stars 3
+  _StarStars3Icon get stars3 => const _StarStars3Icon();
+  /// stars 4
+  _StarStars4Icon get stars4 => const _StarStars4Icon();
+  /// stars 5
+  _StarStars5Icon get stars5 => const _StarStars5Icon();
+  /// stars 6
+  _StarStars6Icon get stars6 => const _StarStars6Icon();
+  /// stars 7
+  _StarStars7Icon get stars7 => const _StarStars7Icon();
+  /// stars 8
+  _StarStars8Icon get stars8 => const _StarStars8Icon();
+  /// stars 9
+  _StarStars9Icon get stars9 => const _StarStars9Icon();
+  /// stars 10
+  _StarStars10Icon get stars10 => const _StarStars10Icon();
+  /// stars 11
+  _StarStars11Icon get stars11 => const _StarStars11Icon();
+  /// stars 12
+  _StarStars12Icon get stars12 => const _StarStars12Icon();
   /// star remove
   _StarStarRemoveIcon get starRemove => const _StarStarRemoveIcon();
   /// Star square
   _StarStarSquareIcon get starSquare => const _StarStarSquareIcon();
+  /// Star square 1
+  _StarStarSquare1Icon get starSquare1 => const _StarStarSquare1Icon();
+  /// Star square 2
+  _StarStarSquare2Icon get starSquare2 => const _StarStarSquare2Icon();
+  /// Star square 3
+  _StarStarSquare3Icon get starSquare3 => const _StarStarSquare3Icon();
+  /// Star square 4
+  _StarStarSquare4Icon get starSquare4 => const _StarStarSquare4Icon();
+  /// Star square 5
+  _StarStarSquare5Icon get starSquare5 => const _StarStarSquare5Icon();
+  /// Star square 6
+  _StarStarSquare6Icon get starSquare6 => const _StarStarSquare6Icon();
+  /// Star square 7
+  _StarStarSquare7Icon get starSquare7 => const _StarStarSquare7Icon();
+  /// Star square 8
+  _StarStarSquare8Icon get starSquare8 => const _StarStarSquare8Icon();
+  /// Star square 9
+  _StarStarSquare9Icon get starSquare9 => const _StarStarSquare9Icon();
+  /// Star square 10
+  _StarStarSquare10Icon get starSquare10 => const _StarStarSquare10Icon();
+  /// Star square 11
+  _StarStarSquare11Icon get starSquare11 => const _StarStarSquare11Icon();
+  /// Star square 12
+  _StarStarSquare12Icon get starSquare12 => const _StarStarSquare12Icon();
+  /// Star square 13
+  _StarStarSquare13Icon get starSquare13 => const _StarStarSquare13Icon();
+  /// Star square 14
+  _StarStarSquare14Icon get starSquare14 => const _StarStarSquare14Icon();
+  /// Star square 15
+  _StarStarSquare15Icon get starSquare15 => const _StarStarSquare15Icon();
+  /// Star square 16
+  _StarStarSquare16Icon get starSquare16 => const _StarStarSquare16Icon();
+  /// Star square 17
+  _StarStarSquare17Icon get starSquare17 => const _StarStarSquare17Icon();
+  /// Star square 18
+  _StarStarSquare18Icon get starSquare18 => const _StarStarSquare18Icon();
+  /// Star square 19
+  _StarStarSquare19Icon get starSquare19 => const _StarStarSquare19Icon();
+  /// Star square 20
+  _StarStarSquare20Icon get starSquare20 => const _StarStarSquare20Icon();
+  /// Star square 21
+  _StarStarSquare21Icon get starSquare21 => const _StarStarSquare21Icon();
   /// star glowing
   _StarStarGlowingIcon get starGlowing => const _StarStarGlowingIcon();
   /// comet
   _StarCometIcon get comet => const _StarCometIcon();
+  /// comet 1
+  _StarComet1Icon get comet1 => const _StarComet1Icon();
+  /// comet 2
+  _StarComet2Icon get comet2 => const _StarComet2Icon();
+  /// comet 3
+  _StarComet3Icon get comet3 => const _StarComet3Icon();
+  /// comet 4
+  _StarComet4Icon get comet4 => const _StarComet4Icon();
+  /// comet 5
+  _StarComet5Icon get comet5 => const _StarComet5Icon();
+  /// comet 6
+  _StarComet6Icon get comet6 => const _StarComet6Icon();
+  /// comet 7
+  _StarComet7Icon get comet7 => const _StarComet7Icon();
+  /// comet 8
+  _StarComet8Icon get comet8 => const _StarComet8Icon();
+  /// comet 9
+  _StarComet9Icon get comet9 => const _StarComet9Icon();
+  /// comet 10
+  _StarComet10Icon get comet10 => const _StarComet10Icon();
+  /// comet 11
+  _StarComet11Icon get comet11 => const _StarComet11Icon();
+  /// comet 12
+  _StarComet12Icon get comet12 => const _StarComet12Icon();
+  /// comet 13
+  _StarComet13Icon get comet13 => const _StarComet13Icon();
+  /// comet 14
+  _StarComet14Icon get comet14 => const _StarComet14Icon();
+  /// comet 15
+  _StarComet15Icon get comet15 => const _StarComet15Icon();
+  /// comet 16
+  _StarComet16Icon get comet16 => const _StarComet16Icon();
+  /// comet 17
+  _StarComet17Icon get comet17 => const _StarComet17Icon();
+  /// comet 18
+  _StarComet18Icon get comet18 => const _StarComet18Icon();
+  /// comet 19
+  _StarComet19Icon get comet19 => const _StarComet19Icon();
+  /// comet 20
+  _StarComet20Icon get comet20 => const _StarComet20Icon();
+  /// comet 21
+  _StarComet21Icon get comet21 => const _StarComet21Icon();
+  /// comet 22
+  _StarComet22Icon get comet22 => const _StarComet22Icon();
+  /// comet 23
+  _StarComet23Icon get comet23 => const _StarComet23Icon();
   /// star magic
   _StarStarMagicIcon get starMagic => const _StarStarMagicIcon();
   /// star magic glow
   _StarStarMagicGlowIcon get starMagicGlow => const _StarStarMagicGlowIcon();
   /// star progress
   _StarStarProgressIcon get starProgress => const _StarStarProgressIcon();
+  /// star progress 1
+  _StarStarProgress1Icon get starProgress1 => const _StarStarProgress1Icon();
+  /// star progress 2
+  _StarStarProgress2Icon get starProgress2 => const _StarStarProgress2Icon();
+  /// star progress 3
+  _StarStarProgress3Icon get starProgress3 => const _StarStarProgress3Icon();
+  /// star progress 4
+  _StarStarProgress4Icon get starProgress4 => const _StarStarProgress4Icon();
+  /// star progress 5
+  _StarStarProgress5Icon get starProgress5 => const _StarStarProgress5Icon();
+  /// star progress 6
+  _StarStarProgress6Icon get starProgress6 => const _StarStarProgress6Icon();
+  /// star progress 7
+  _StarStarProgress7Icon get starProgress7 => const _StarStarProgress7Icon();
+  /// star progress 8
+  _StarStarProgress8Icon get starProgress8 => const _StarStarProgress8Icon();
+  /// star progress 9
+  _StarStarProgress9Icon get starProgress9 => const _StarStarProgress9Icon();
+  /// star progress 10
+  _StarStarProgress10Icon get starProgress10 => const _StarStarProgress10Icon();
+  /// star progress 11
+  _StarStarProgress11Icon get starProgress11 => const _StarStarProgress11Icon();
   /// star drop
   _StarStarDropIcon get starDrop => const _StarStarDropIcon();
+  /// star drop 1
+  _StarStarDrop1Icon get starDrop1 => const _StarStarDrop1Icon();
   /// magic
   _StarMagicIcon get magic => const _StarMagicIcon();
   /// star emoji
@@ -50,6 +258,12 @@ class _StarIcons {
   _StarCelebrationStarsIcon get celebrationStars => const _StarCelebrationStarsIcon();
   /// Award Badge
   _StarAwardBadgeIcon get awardBadge => const _StarAwardBadgeIcon();
+  /// Award Badge  1
+  _StarAwardBadge1Icon get awardBadge1 => const _StarAwardBadge1Icon();
+  /// Award Badge  2
+  _StarAwardBadge2Icon get awardBadge2 => const _StarAwardBadge2Icon();
+  /// Award Badge  3
+  _StarAwardBadge3Icon get awardBadge3 => const _StarAwardBadge3Icon();
   /// star ranking
   _StarStarRankingIcon get starRanking => const _StarStarRankingIcon();
   /// Star list
@@ -64,6 +278,12 @@ class _StarIcons {
   _StarHalfStarRightIcon get halfStarRight => const _StarHalfStarRightIcon();
   /// star medal
   _StarStarMedalIcon get starMedal => const _StarStarMedalIcon();
+  /// star medal 1
+  _StarStarMedal1Icon get starMedal1 => const _StarStarMedal1Icon();
+  /// star medal 2
+  _StarStarMedal2Icon get starMedal2 => const _StarStarMedal2Icon();
+  /// star medal 3
+  _StarStarMedal3Icon get starMedal3 => const _StarStarMedal3Icon();
   /// wings and star
   _StarWingsAndStarIcon get wingsAndStar => const _StarWingsAndStarIcon();
   /// Review the Stars
@@ -84,48 +304,8 @@ class _StarIcons {
 class _StarStarCircleIcon {
   const _StarStarCircleIcon();
 
-  /// bold style
-  _StarStarCircleBold get bold => const _StarStarCircleBold();
-  /// bulk style
-  _StarStarCircleBulk get bulk => const _StarStarCircleBulk();
-  /// light style
-  _StarStarCircleLight get light => const _StarStarCircleLight();
-  /// outline style
-  _StarStarCircleOutline get outline => const _StarStarCircleOutline();
   /// twoTone style
   _StarStarCircleTwotone get twoTone => const _StarStarCircleTwotone();
-  /// broken style
-  _StarStarCircleBroken get broken => const _StarStarCircleBroken();
-}
-
-/// Star circle — bulk style variants.
-class _StarStarCircleBulk {
-  const _StarStarCircleBulk();
-
-  /// Star circle — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Star circle',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.556 4.73613L15.3077 8.23669C15.4812 8.58167 15.8137 8.81932 16.1961 8.87299L20.1154 9.4374C20.7507 9.5208 21.1973 10.1044 21.1139 10.7397C21.0794 10.9994 20.9577 11.2409 20.7689 11.423L17.9344 14.1464C17.6555 14.4118 17.528 14.798 17.5951 15.1775L18.2659 19.022C18.3694 19.6641 17.9324 20.2678 17.2904 20.3713C17.0374 20.4115 16.7787 20.3684 16.5525 20.2486L13.051 18.4337C12.706 18.2554 12.2968 18.2554 11.9519 18.4337L8.44843 20.2495C7.87442 20.5542 7.16244 20.3357 6.85771 19.7618C6.73793 19.5347 6.69479 19.276 6.736 19.023L7.4068 15.1775C7.47292 14.7989 7.34546 14.4128 7.06757 14.1473L4.23013 11.4239C3.7692 10.9793 3.75483 10.2452 4.19947 9.78336C4.38154 9.59458 4.62301 9.47288 4.88366 9.43836L8.803 8.87394C9.18535 8.82028 9.51786 8.58263 9.69227 8.23765L11.4469 4.73613C11.7487 4.15351 12.4655 3.9264 13.0481 4.22826C13.2657 4.34038 13.4429 4.51766 13.556 4.73613Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75 12.916C2.75 7.5319 7.11484 3.16602 12.5 3.16602C17.8852 3.16602 22.25 7.5319 22.25 12.916C22.25 18.3011 17.8851 22.666 12.5 22.666C7.11489 22.666 2.75 18.3011 2.75 12.916ZM12.5 4.66602C7.94336 4.66602 4.25 8.36023 4.25 12.916C4.25 17.4727 7.94331 21.166 12.5 21.166C17.0567 21.166 20.75 17.4727 20.75 12.916C20.75 8.36023 17.0566 4.66602 12.5 4.66602Z" fill="black"/> </svg>',
-    category: 'Star',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Star circle — broken style variants.
-class _StarStarCircleBroken {
-  const _StarStarCircleBroken();
-
-  /// Star circle — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Star circle',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.94843 20.2495L11.4519 18.4337C11.7968 18.2554 12.206 18.2554 12.551 18.4337L16.0525 20.2486C16.2787 20.3684 16.5374 20.4115 16.7904 20.3713C17.4324 20.2678 17.8694 19.6641 17.7659 19.022L17.0951 15.1775C17.028 14.798 17.1555 14.4118 17.4344 14.1464L20.2689 11.423C20.4577 11.2409 20.5794 10.9994 20.6139 10.7397C20.6973 10.1044 20.2507 9.5208 19.6154 9.4374L15.6961 8.87299C15.3137 8.81932 14.9812 8.58167 14.8077 8.23669L13.056 4.73613C12.9429 4.51766 12.7657 4.34038 12.5481 4.22826C11.9655 3.9264 11.2487 4.15351 10.9469 4.73613L9.19227 8.23765C9.01786 8.58263 8.68535 8.82028 8.303 8.87394L4.38366 9.43836C4.12301 9.47288 3.88154 9.59458 3.69947 9.78336C3.25483 10.2452 3.2692 10.9793 3.73013 11.4239L6.56757 14.1473" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.0289 7.29465C20.2623 8.83496 21 10.7894 21 12.916C21 17.8869 16.9709 21.916 12 21.916C7.0291 21.916 3 17.8869 3 12.916C3 7.94607 7.0291 3.91602 12 3.91602C13.6211 3.91602 15.1421 4.34464 16.4558 5.09471" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Star',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Star circle — twoTone style variants.
@@ -143,28 +323,44 @@ class _StarStarCircleTwotone {
 
 }
 
-/// Star circle — outline style variants.
-class _StarStarCircleOutline {
-  const _StarStarCircleOutline();
+/// Star circle 1 icon with style variants.
+class _StarStarCircle1Icon {
+  const _StarStarCircle1Icon();
 
-  /// Star circle — outline / regular
+  /// twoTone style
+  _StarStarCircle1Twotone get twoTone => const _StarStarCircle1Twotone();
+}
+
+/// Star circle 1 — twoTone style variants.
+class _StarStarCircle1Twotone {
+  const _StarStarCircle1Twotone();
+
+  /// Star circle 1 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Star circle',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6146 4.16178L9.8628 7.65765L9.8616 7.66004C9.57652 8.22392 9.03342 8.61232 8.40863 8.70047C8.40817 8.70054 8.40771 8.7006 8.40724 8.70067L4.48216 9.26591C4.38906 9.27824 4.30344 9.32162 4.23954 9.38777C4.08283 9.55085 4.08742 9.80996 4.25032 9.96764C4.25049 9.96781 4.25015 9.96748 4.25032 9.96764L7.0856 12.689C7.08588 12.6892 7.08615 12.6895 7.08642 12.6898C7.54425 13.1276 7.75483 13.765 7.64564 14.3903C7.64563 14.3904 7.64565 14.3903 7.64564 14.3903L6.97575 18.2307C6.96197 18.3195 6.97691 18.4117 7.02059 18.495C7.13149 18.7027 7.38917 18.7813 7.59675 18.6711L7.60329 18.6676L11.1068 16.8518C11.6677 16.562 12.3344 16.5615 12.8953 16.8514L16.4036 18.6698C16.486 18.7135 16.5798 18.7292 16.6718 18.7147C16.9041 18.6769 17.0612 18.4597 17.026 18.229L16.3566 14.392C16.3565 14.3917 16.3566 14.3923 16.3566 14.392C16.2461 13.7653 16.4566 13.1265 16.9159 12.6884C16.9163 12.688 16.9168 12.6876 16.9173 12.6871L19.7483 9.96713C19.7484 9.96703 19.7482 9.96723 19.7483 9.96713C19.8145 9.90316 19.858 9.81734 19.8703 9.72557C19.8997 9.49963 19.7407 9.29429 19.5178 9.26502L19.5085 9.2638L15.5918 8.69971C15.5913 8.69963 15.5907 8.69956 15.5902 8.69948C14.9658 8.61131 14.4219 8.22293 14.1377 7.65759L14.137 7.65633L12.3881 4.16145C12.3461 4.08195 12.2819 4.01879 12.2045 3.97892L12.2031 3.97819C11.989 3.86725 11.7267 3.94986 11.6146 4.16178ZM10.2809 3.47512C10.7734 2.52453 11.9426 2.15433 12.8924 2.64596C13.2487 2.82977 13.538 3.11979 13.7221 3.4754L13.7268 3.48447L15.4778 6.9838C15.4779 6.98398 15.4777 6.98361 15.4778 6.9838C15.5403 7.10763 15.6609 7.19471 15.8003 7.21427L15.803 7.21464L19.7182 7.77847C20.7629 7.91846 21.4944 8.87852 21.3575 9.9213L21.3574 9.92248C21.3006 10.3497 21.1006 10.7468 20.7896 11.0468L17.9515 13.7736C17.8542 13.8662 17.8105 13.9996 17.8337 14.1309L17.834 14.1326L18.5064 17.9867C18.676 19.0385 17.9599 20.0265 16.9098 20.1957L16.9082 20.196C16.4957 20.2616 16.0738 20.1917 15.7049 19.9972L12.2067 18.184C12.0778 18.1174 11.9253 18.1173 11.7963 18.1839C11.7963 18.1839 11.7964 18.1838 11.7963 18.1839L8.29646 19.9979C7.35696 20.4941 6.19347 20.1358 5.6953 19.1976L5.69433 19.1957C5.49935 18.826 5.42801 18.4023 5.49575 17.9864L5.49711 17.9781L6.16796 14.1326C6.19088 14.0014 6.14689 13.8667 6.04953 13.7737L6.04822 13.7724L3.21079 11.049L3.20943 11.0477C2.45107 10.3161 2.427 9.10776 3.15915 8.34722C3.45824 8.0371 3.85414 7.83704 4.28042 7.77949L8.1961 7.2156L8.19876 7.21522C8.33777 7.19571 8.45887 7.10932 8.52251 6.98413C8.52265 6.98384 8.52236 6.98442 8.52251 6.98413L10.2809 3.47512Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 12C2.25 6.61589 6.61484 2.25 12 2.25C17.3852 2.25 21.75 6.61589 21.75 12C21.75 17.3851 17.3851 21.75 12 21.75C6.61489 21.75 2.25 17.3851 2.25 12ZM12 3.75C7.44336 3.75 3.75 7.44421 3.75 12C3.75 16.5567 7.44331 20.25 12 20.25C16.5567 20.25 20.25 16.5567 20.25 12C20.25 7.44421 16.5566 3.75 12 3.75Z" fill="black"/> </svg> ',
+    name: 'Star circle 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 12.916C21.5 7.94607 17.4709 3.91602 12.5 3.91602C7.5291 3.91602 3.5 7.94607 3.5 12.916C3.5 17.8869 7.5291 21.916 12.5 21.916C17.4709 21.916 21.5 17.8869 21.5 12.916Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9617 9.63216L13.728 11.1636C13.8039 11.3145 13.9494 11.4184 14.1167 11.4419L15.8312 11.6888C16.1092 11.7253 16.3045 11.9806 16.2681 12.2586C16.253 12.3722 16.1997 12.4778 16.1172 12.5575L14.8771 13.7489C14.7551 13.865 14.6994 14.0339 14.7287 14.1999L15.0222 15.8818C15.0674 16.1627 14.8763 16.4268 14.5954 16.4721C14.4847 16.4897 14.3715 16.4708 14.2726 16.4184L12.7408 15.6244C12.5899 15.5465 12.4109 15.5465 12.26 15.6244L10.7273 16.4188C10.4762 16.5521 10.1647 16.4565 10.0314 16.2055C9.97901 16.1061 9.96014 15.9929 9.97816 15.8822L10.2716 14.1999C10.3005 14.0343 10.2448 13.8654 10.1232 13.7493L8.88192 12.5579C8.68028 12.3634 8.67399 12.0422 8.86851 11.8402C8.94816 11.7576 9.0538 11.7043 9.16782 11.6892L10.8824 11.4423C11.0497 11.4189 11.1951 11.3149 11.2714 11.164L12.039 9.63216C12.1711 9.37728 12.4847 9.27793 12.7395 9.40998C12.8347 9.45903 12.9123 9.53658 12.9617 9.63216Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Star',
-    style: IconfyStyle.outline,
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
 }
 
-/// Star circle — bold style variants.
-class _StarStarCircleBold {
-  const _StarStarCircleBold();
+/// Star circle 2 icon with style variants.
+class _StarStarCircle2Icon {
+  const _StarStarCircle2Icon();
 
-  /// Star circle — bold / regular
+  /// bold style
+  _StarStarCircle2Bold get bold => const _StarStarCircle2Bold();
+}
+
+/// Star circle 2 — bold style variants.
+class _StarStarCircle2Bold {
+  const _StarStarCircle2Bold();
+
+  /// Star circle 2 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Star circle',
+    name: 'Star circle 2',
     svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.734 18.834L17.095 15.176C17.028 14.796 17.155 14.406 17.434 14.146L20.127 11.552C20.202 11.997 20.25 12.45 20.25 12.916C20.25 15.237 19.282 17.334 17.734 18.834ZM8.084 20.175L11.452 18.426C11.797 18.256 12.206 18.256 12.551 18.426L15.916 20.175C14.75 20.806 13.416 21.166 12 21.166C10.584 21.166 9.25 20.806 8.084 20.175ZM3.75 12.916C3.75 12.45 3.798 11.997 3.872 11.553L6.568 14.146C6.845 14.406 6.973 14.796 6.907 15.176L6.267 18.836C4.718 17.335 3.75 15.238 3.75 12.916ZM10.944 4.74102L9.192 8.23602C9.018 8.57602 8.685 8.81602 8.303 8.86602L4.541 9.41302C5.718 6.91702 8.105 5.10602 10.944 4.74102ZM19.458 9.41302L15.696 8.86602C15.314 8.81602 14.981 8.57602 14.808 8.23602L13.059 4.74102C15.897 5.10702 18.282 6.91802 19.458 9.41302ZM12 3.16602C6.624 3.16602 2.25 7.54002 2.25 12.916C2.25 18.292 6.624 22.666 12 22.666C17.376 22.666 21.75 18.292 21.75 12.916C21.75 7.54002 17.376 3.16602 12 3.16602Z" fill="black"/> </svg>',
     category: 'Star',
     style: IconfyStyle.bold,
@@ -173,16 +369,208 @@ class _StarStarCircleBold {
 
 }
 
-/// Star circle — light style variants.
-class _StarStarCircleLight {
-  const _StarStarCircleLight();
+/// Star circle 3 icon with style variants.
+class _StarStarCircle3Icon {
+  const _StarStarCircle3Icon();
 
-  /// Star circle — light / regular
+  /// bold style
+  _StarStarCircle3Bold get bold => const _StarStarCircle3Bold();
+}
+
+/// Star circle 3 — bold style variants.
+class _StarStarCircle3Bold {
+  const _StarStarCircle3Bold();
+
+  /// Star circle 3 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Star circle',
+    name: 'Star circle 3',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5589 11.4939L11.9999 10.3789L11.4419 11.4929C11.2479 11.8749 10.8859 12.1309 10.4719 12.1809L9.25888 12.3579L10.1419 13.2039C10.4489 13.5079 10.5809 13.9119 10.5109 14.3219L10.2999 15.5329L11.4129 14.9509C11.6099 14.8589 11.8119 14.8139 12.0099 14.8139C12.1999 14.8139 12.3849 14.8559 12.5579 14.9359L13.7009 15.5329L13.4899 14.3249C13.4159 13.8979 13.5599 13.4729 13.8739 13.1899L14.7409 12.3579L13.5089 12.1779C13.1129 12.1309 12.7509 11.8739 12.5589 11.4939Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.14 13.094L14.991 14.197L15.261 15.747C15.317 16.09 15.233 16.437 15.032 16.71C14.831 16.984 14.536 17.16 14.201 17.208C14.141 17.219 14.077 17.225 14.012 17.225C13.823 17.225 13.62 17.178 13.436 17.086L12 16.336L10.575 17.081C9.958 17.401 9.194 17.166 8.87 16.559C8.74 16.31 8.694 16.027 8.738 15.755L9.01 14.197L7.863 13.097C7.363 12.602 7.352 11.805 7.831 11.313C8.048 11.095 8.319 10.964 8.601 10.939L10.156 10.711L10.869 9.28902C11.199 8.66402 11.964 8.42302 12.58 8.73802C12.807 8.85702 12.996 9.04102 13.118 9.26202C13.123 9.27102 13.128 9.28102 13.133 9.29002L13.845 10.711L15.44 10.944C16.119 11.041 16.601 11.674 16.512 12.353C16.473 12.637 16.341 12.899 16.14 13.094ZM12 3.41602C6.762 3.41602 2.5 7.67702 2.5 12.916C2.5 18.154 6.762 22.416 12 22.416C17.239 22.416 21.5 18.154 21.5 12.916C21.5 7.67702 17.239 3.41602 12 3.41602Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star circle 4 icon with style variants.
+class _StarStarCircle4Icon {
+  const _StarStarCircle4Icon();
+
+  /// bulk style
+  _StarStarCircle4Bulk get bulk => const _StarStarCircle4Bulk();
+}
+
+/// Star circle 4 — bulk style variants.
+class _StarStarCircle4Bulk {
+  const _StarStarCircle4Bulk();
+
+  /// Star circle 4 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star circle 4',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.5 3.41602C7.262 3.41602 3 7.67702 3 12.916C3 18.154 7.262 22.416 12.5 22.416C17.739 22.416 22 18.154 22 12.916C22 7.67702 17.739 3.41602 12.5 3.41602Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4908 14.1966L16.6398 13.0936C16.8408 12.8986 16.9728 12.6366 17.0118 12.3526C17.1008 11.6736 16.6188 11.0406 15.9398 10.9436L14.3448 10.7106L13.6328 9.28965L13.6253 9.27565L13.6178 9.26165C13.4958 9.04065 13.3068 8.85665 13.0798 8.73765C12.4638 8.42265 11.6988 8.66365 11.3688 9.28865L10.6558 10.7106L9.10079 10.9386C8.81879 10.9636 8.54779 11.0946 8.33079 11.3126C7.85179 11.8046 7.86279 12.6016 8.36279 13.0966L9.50979 14.1966L9.23779 15.7546C9.19379 16.0266 9.23979 16.3096 9.36979 16.5586C9.69379 17.1656 10.4578 17.4006 11.0748 17.0806L12.4998 16.3356L13.9358 17.0856C14.1198 17.1776 14.3228 17.2246 14.5118 17.2246C14.5768 17.2246 14.6408 17.2186 14.7008 17.2076C15.0358 17.1596 15.3308 16.9836 15.5318 16.7096C15.7328 16.4366 15.8168 16.0896 15.7608 15.7466L15.4908 14.1966ZM12.4997 10.3785L13.0587 11.4935C13.2507 11.8735 13.6127 12.1305 14.0087 12.1775L15.2407 12.3575L14.3737 13.1895C14.0597 13.4725 13.9157 13.8975 13.9897 14.3245L14.2007 15.5325L13.0577 14.9355C12.8847 14.8555 12.6997 14.8135 12.5097 14.8135C12.3117 14.8135 12.1097 14.8585 11.9127 14.9505L10.7997 15.5325L11.0107 14.3215C11.0807 13.9115 10.9487 13.5075 10.6417 13.2035L9.75867 12.3575L10.9717 12.1805C11.3857 12.1305 11.7477 11.8745 11.9417 11.4925L12.4997 10.3785Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star circle 5 icon with style variants.
+class _StarStarCircle5Icon {
+  const _StarStarCircle5Icon();
+
+  /// bulk style
+  _StarStarCircle5Bulk get bulk => const _StarStarCircle5Bulk();
+}
+
+/// Star circle 5 — bulk style variants.
+class _StarStarCircle5Bulk {
+  const _StarStarCircle5Bulk();
+
+  /// Star circle 5 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star circle 5',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.556 4.73613L15.3077 8.23669C15.4812 8.58167 15.8137 8.81932 16.1961 8.87299L20.1154 9.4374C20.7507 9.5208 21.1973 10.1044 21.1139 10.7397C21.0794 10.9994 20.9577 11.2409 20.7689 11.423L17.9344 14.1464C17.6555 14.4118 17.528 14.798 17.5951 15.1775L18.2659 19.022C18.3694 19.6641 17.9324 20.2678 17.2904 20.3713C17.0374 20.4115 16.7787 20.3684 16.5525 20.2486L13.051 18.4337C12.706 18.2554 12.2968 18.2554 11.9519 18.4337L8.44843 20.2495C7.87442 20.5542 7.16244 20.3357 6.85771 19.7618C6.73793 19.5347 6.69479 19.276 6.736 19.023L7.4068 15.1775C7.47292 14.7989 7.34546 14.4128 7.06757 14.1473L4.23013 11.4239C3.7692 10.9793 3.75483 10.2452 4.19947 9.78336C4.38154 9.59458 4.62301 9.47288 4.88366 9.43836L8.803 8.87394C9.18535 8.82028 9.51786 8.58263 9.69227 8.23765L11.4469 4.73613C11.7487 4.15351 12.4655 3.9264 13.0481 4.22826C13.2657 4.34038 13.4429 4.51766 13.556 4.73613Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75 12.916C2.75 7.5319 7.11484 3.16602 12.5 3.16602C17.8852 3.16602 22.25 7.5319 22.25 12.916C22.25 18.3011 17.8851 22.666 12.5 22.666C7.11489 22.666 2.75 18.3011 2.75 12.916ZM12.5 4.66602C7.94336 4.66602 4.25 8.36023 4.25 12.916C4.25 17.4727 7.94331 21.166 12.5 21.166C17.0567 21.166 20.75 17.4727 20.75 12.916C20.75 8.36023 17.0566 4.66602 12.5 4.66602Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star circle 6 icon with style variants.
+class _StarStarCircle6Icon {
+  const _StarStarCircle6Icon();
+
+  /// broken style
+  _StarStarCircle6Broken get broken => const _StarStarCircle6Broken();
+}
+
+/// Star circle 6 — broken style variants.
+class _StarStarCircle6Broken {
+  const _StarStarCircle6Broken();
+
+  /// Star circle 6 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star circle 6',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21.916C7.0291 21.916 3 17.8869 3 12.916C3 7.94607 7.0291 3.91602 12 3.91602C16.9709 3.91602 21 7.94607 21 12.916C21 16.8274 18.5054 20.1556 15.0204 21.3967" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4617 9.63216L13.228 11.1636C13.3039 11.3145 13.4494 11.4184 13.6167 11.4419L15.3312 11.6888C15.6092 11.7253 15.8045 11.9806 15.7681 12.2586C15.753 12.3722 15.6997 12.4778 15.6172 12.5575L14.3771 13.7489C14.2551 13.865 14.1994 14.0339 14.2287 14.1999L14.5222 15.8818C14.5674 16.1627 14.3763 16.4268 14.0954 16.4721C13.9847 16.4897 13.8715 16.4708 13.7726 16.4184L12.2408 15.6244C12.0899 15.5465 11.9109 15.5465 11.76 15.6244L10.2273 16.4188C9.97619 16.5521 9.66472 16.4565 9.53141 16.2055C9.47901 16.1061 9.46014 15.9929 9.47816 15.8822L9.77162 14.1999C9.80055 14.0343 9.74479 13.8654 9.62322 13.7493L8.38192 12.5579C8.18028 12.3634 8.17399 12.0422 8.36851 11.8402C8.44816 11.7576 8.5538 11.7043 8.66782 11.6892L10.3824 11.4423C10.5497 11.4189 10.6951 11.3149 10.7714 11.164L11.539 9.63216C11.6711 9.37728 11.9847 9.27793 12.2395 9.40998C12.3347 9.45903 12.4123 9.53658 12.4617 9.63216Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star circle 7 icon with style variants.
+class _StarStarCircle7Icon {
+  const _StarStarCircle7Icon();
+
+  /// broken style
+  _StarStarCircle7Broken get broken => const _StarStarCircle7Broken();
+}
+
+/// Star circle 7 — broken style variants.
+class _StarStarCircle7Broken {
+  const _StarStarCircle7Broken();
+
+  /// Star circle 7 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star circle 7',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.94843 20.2495L11.4519 18.4337C11.7968 18.2554 12.206 18.2554 12.551 18.4337L16.0525 20.2486C16.2787 20.3684 16.5374 20.4115 16.7904 20.3713C17.4324 20.2678 17.8694 19.6641 17.7659 19.022L17.0951 15.1775C17.028 14.798 17.1555 14.4118 17.4344 14.1464L20.2689 11.423C20.4577 11.2409 20.5794 10.9994 20.6139 10.7397C20.6973 10.1044 20.2507 9.5208 19.6154 9.4374L15.6961 8.87299C15.3137 8.81932 14.9812 8.58167 14.8077 8.23669L13.056 4.73613C12.9429 4.51766 12.7657 4.34038 12.5481 4.22826C11.9655 3.9264 11.2487 4.15351 10.9469 4.73613L9.19227 8.23765C9.01786 8.58263 8.68535 8.82028 8.303 8.87394L4.38366 9.43836C4.12301 9.47288 3.88154 9.59458 3.69947 9.78336C3.25483 10.2452 3.2692 10.9793 3.73013 11.4239L6.56757 14.1473" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.0289 7.29465C20.2623 8.83496 21 10.7894 21 12.916C21 17.8869 16.9709 21.916 12 21.916C7.0291 21.916 3 17.8869 3 12.916C3 7.94607 7.0291 3.91602 12 3.91602C13.6211 3.91602 15.1421 4.34464 16.4558 5.09471" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star circle 8 icon with style variants.
+class _StarStarCircle8Icon {
+  const _StarStarCircle8Icon();
+
+  /// light style
+  _StarStarCircle8Light get light => const _StarStarCircle8Light();
+}
+
+/// Star circle 8 — light style variants.
+class _StarStarCircle8Light {
+  const _StarStarCircle8Light();
+
+  /// Star circle 8 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star circle 8',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.056 3.82012L14.8077 7.32068C14.9812 7.66566 15.3137 7.90331 15.6961 7.95697L19.6154 8.52138C20.2507 8.60478 20.6973 9.18837 20.6139 9.8237C20.5794 10.0834 20.4577 10.3249 20.2689 10.5069L17.4343 13.2304C17.1555 13.4958 17.028 13.882 17.0951 14.2615L17.7659 18.106C17.8694 18.7481 17.4324 19.3518 16.7904 19.4553C16.5374 19.4955 16.2787 19.4524 16.0525 19.3326L12.551 17.5177C12.206 17.3394 11.7968 17.3394 11.4519 17.5177L7.94843 19.3335C7.37442 19.6382 6.66244 19.4197 6.35771 18.8458C6.23793 18.6187 6.19479 18.36 6.236 18.107L6.9068 14.2615C6.97292 13.8829 6.84546 13.4968 6.56757 13.2313L3.73013 10.5079C3.2692 10.0633 3.25483 9.32923 3.69947 8.86735C3.88154 8.67857 4.12301 8.55687 4.38366 8.52234L8.303 7.95793C8.68535 7.90427 9.01786 7.66661 9.19227 7.32164L10.9469 3.82012C11.2487 3.2375 11.9655 3.01039 12.5481 3.31224C12.7657 3.42436 12.9429 3.60164 13.056 3.82012Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 12C21 7.03005 16.9709 3 12 3C7.0291 3 3 7.03005 3 12C3 16.9709 7.0291 21 12 21C16.9709 21 21 16.9709 21 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Star',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star circle 9 icon with style variants.
+class _StarStarCircle9Icon {
+  const _StarStarCircle9Icon();
+
+  /// light style
+  _StarStarCircle9Light get light => const _StarStarCircle9Light();
+}
+
+/// Star circle 9 — light style variants.
+class _StarStarCircle9Light {
+  const _StarStarCircle9Light();
+
+  /// Star circle 9 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star circle 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 7.03005 16.9709 3 12 3C7.0291 3 3 7.03005 3 12C3 16.9709 7.0291 21 12 21C16.9709 21 21 16.9709 21 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4617 8.71614L13.228 10.2475C13.3039 10.3985 13.4494 10.5024 13.6167 10.5259L15.3312 10.7728C15.6092 10.8093 15.8045 11.0646 15.7681 11.3425C15.753 11.4561 15.6997 11.5618 15.6172 11.6414L14.3771 12.8328C14.2551 12.949 14.1994 13.1179 14.2287 13.2839L14.5222 14.9658C14.5674 15.2467 14.3763 15.5108 14.0954 15.5561C13.9847 15.5737 13.8715 15.5548 13.7726 15.5024L12.2408 14.7084C12.0899 14.6304 11.9109 14.6304 11.76 14.7084L10.2273 15.5028C9.97619 15.6361 9.66472 15.5405 9.53141 15.2894C9.47901 15.1901 9.46014 15.0769 9.47816 14.9662L9.77162 13.2839C9.80055 13.1183 9.74479 12.9494 9.62322 12.8333L8.38192 11.6419C8.18028 11.4473 8.17399 11.1262 8.36851 10.9242C8.44816 10.8416 8.5538 10.7883 8.66782 10.7732L10.3824 10.5263C10.5497 10.5028 10.6951 10.3989 10.7714 10.248L11.539 8.71614C11.6711 8.46126 11.9847 8.36191 12.2395 8.49396C12.3347 8.54301 12.4123 8.62057 12.4617 8.71614Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star circle 10 icon with style variants.
+class _StarStarCircle10Icon {
+  const _StarStarCircle10Icon();
+
+  /// outline style
+  _StarStarCircle10Outline get outline => const _StarStarCircle10Outline();
+}
+
+/// Star circle 10 — outline style variants.
+class _StarStarCircle10Outline {
+  const _StarStarCircle10Outline();
+
+  /// Star circle 10 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star circle 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 12C2.25 6.61589 6.61484 2.25 12 2.25C17.3852 2.25 21.75 6.61589 21.75 12C21.75 17.3851 17.3851 21.75 12 21.75C6.61489 21.75 2.25 17.3851 2.25 12ZM12 3.75C7.44336 3.75 3.75 7.44421 3.75 12C3.75 16.5567 7.44331 20.25 12 20.25C16.5567 20.25 20.25 16.5567 20.25 12C20.25 7.44421 16.5566 3.75 12 3.75Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0002 9.46989L12.558 10.5845C12.7446 10.9557 13.1014 11.2104 13.5108 11.2684C13.5113 11.2685 13.5119 11.2686 13.5124 11.2686L14.7388 11.4453L13.8585 12.2911C13.5562 12.5798 13.4173 13.0003 13.49 13.4135C13.49 13.4138 13.4901 13.4142 13.4902 13.4145L13.7005 14.6203L12.5859 14.0426C12.2191 13.853 11.7826 13.8526 11.4157 14.0421L10.2998 14.6205L10.5104 13.413C10.5104 13.4131 10.5104 13.4129 10.5104 13.413C10.5824 13.0005 10.4436 12.5802 10.1421 12.2917C10.1418 12.2915 10.1415 12.2912 10.1412 12.2909L9.26054 11.4456L10.4884 11.2688C10.8979 11.2108 11.2538 10.9561 11.4408 10.5864L12.0002 9.46989ZM12.584 7.82775C11.9618 7.50582 11.1958 7.74825 10.8731 8.37114L10.1565 9.80113L8.56418 10.0304C8.28467 10.0686 8.02525 10.1997 7.82867 10.4035C7.34665 10.9042 7.36214 11.7002 7.86121 12.1817L7.86257 12.183L9.0102 13.2845L8.73931 14.8374L8.73791 14.8457C8.69335 15.1193 8.74042 15.3974 8.86802 15.6394L8.86899 15.6412C9.19568 16.2565 9.95845 16.4919 10.575 16.1673L12.0004 15.4286L13.4252 16.1671C13.6668 16.2941 13.9431 16.3397 14.2132 16.2968L14.2148 16.2965C14.9037 16.1855 15.3739 15.5371 15.2626 14.8465L14.9901 13.284L16.1378 12.1813C16.3427 11.9837 16.4742 11.7225 16.5115 11.4413L16.5117 11.4401C16.6016 10.7549 16.1216 10.1232 15.4345 10.03L13.8431 9.80079L13.1324 8.38053L13.1278 8.37142C13.0074 8.13876 12.8178 7.94849 12.584 7.82775ZM14.9673 13.1534C14.9674 13.1539 14.9675 13.1545 14.9675 13.155Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star circle 11 icon with style variants.
+class _StarStarCircle11Icon {
+  const _StarStarCircle11Icon();
+
+  /// outline style
+  _StarStarCircle11Outline get outline => const _StarStarCircle11Outline();
+}
+
+/// Star circle 11 — outline style variants.
+class _StarStarCircle11Outline {
+  const _StarStarCircle11Outline();
+
+  /// Star circle 11 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star circle 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6146 4.16178L9.8628 7.65765L9.8616 7.66004C9.57652 8.22392 9.03342 8.61232 8.40863 8.70047C8.40817 8.70054 8.40771 8.7006 8.40724 8.70067L4.48216 9.26591C4.38906 9.27824 4.30344 9.32162 4.23954 9.38777C4.08283 9.55085 4.08742 9.80996 4.25032 9.96764C4.25049 9.96781 4.25015 9.96748 4.25032 9.96764L7.0856 12.689C7.08588 12.6892 7.08615 12.6895 7.08642 12.6898C7.54425 13.1276 7.75483 13.765 7.64564 14.3903C7.64563 14.3904 7.64565 14.3903 7.64564 14.3903L6.97575 18.2307C6.96197 18.3195 6.97691 18.4117 7.02059 18.495C7.13149 18.7027 7.38917 18.7813 7.59675 18.6711L7.60329 18.6676L11.1068 16.8518C11.6677 16.562 12.3344 16.5615 12.8953 16.8514L16.4036 18.6698C16.486 18.7135 16.5798 18.7292 16.6718 18.7147C16.9041 18.6769 17.0612 18.4597 17.026 18.229L16.3566 14.392C16.3565 14.3917 16.3566 14.3923 16.3566 14.392C16.2461 13.7653 16.4566 13.1265 16.9159 12.6884C16.9163 12.688 16.9168 12.6876 16.9173 12.6871L19.7483 9.96713C19.7484 9.96703 19.7482 9.96723 19.7483 9.96713C19.8145 9.90316 19.858 9.81734 19.8703 9.72557C19.8997 9.49963 19.7407 9.29429 19.5178 9.26502L19.5085 9.2638L15.5918 8.69971C15.5913 8.69963 15.5907 8.69956 15.5902 8.69948C14.9658 8.61131 14.4219 8.22293 14.1377 7.65759L14.137 7.65633L12.3881 4.16145C12.3461 4.08195 12.2819 4.01879 12.2045 3.97892L12.2031 3.97819C11.989 3.86725 11.7267 3.94986 11.6146 4.16178ZM10.2809 3.47512C10.7734 2.52453 11.9426 2.15433 12.8924 2.64596C13.2487 2.82977 13.538 3.11979 13.7221 3.4754L13.7268 3.48447L15.4778 6.9838C15.4779 6.98398 15.4777 6.98361 15.4778 6.9838C15.5403 7.10763 15.6609 7.19471 15.8003 7.21427L15.803 7.21464L19.7182 7.77847C20.7629 7.91846 21.4944 8.87852 21.3575 9.9213L21.3574 9.92248C21.3006 10.3497 21.1006 10.7468 20.7896 11.0468L17.9515 13.7736C17.8542 13.8662 17.8105 13.9996 17.8337 14.1309L17.834 14.1326L18.5064 17.9867C18.676 19.0385 17.9599 20.0265 16.9098 20.1957L16.9082 20.196C16.4957 20.2616 16.0738 20.1917 15.7049 19.9972L12.2067 18.184C12.0778 18.1174 11.9253 18.1173 11.7963 18.1839C11.7963 18.1839 11.7964 18.1838 11.7963 18.1839L8.29646 19.9979C7.35696 20.4941 6.19347 20.1358 5.6953 19.1976L5.69433 19.1957C5.49935 18.826 5.42801 18.4023 5.49575 17.9864L5.49711 17.9781L6.16796 14.1326C6.19088 14.0014 6.14689 13.8667 6.04953 13.7737L6.04822 13.7724L3.21079 11.049L3.20943 11.0477C2.45107 10.3161 2.427 9.10776 3.15915 8.34722C3.45824 8.0371 3.85414 7.83704 4.28042 7.77949L8.1961 7.2156L8.19876 7.21522C8.33777 7.19571 8.45887 7.10932 8.52251 6.98413C8.52265 6.98384 8.52236 6.98442 8.52251 6.98413L10.2809 3.47512Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 12C2.25 6.61589 6.61484 2.25 12 2.25C17.3852 2.25 21.75 6.61589 21.75 12C21.75 17.3851 17.3851 21.75 12 21.75C6.61489 21.75 2.25 17.3851 2.25 12ZM12 3.75C7.44336 3.75 3.75 7.44421 3.75 12C3.75 16.5567 7.44331 20.25 12 20.25C16.5567 20.25 20.25 16.5567 20.25 12C20.25 7.44421 16.5566 3.75 12 3.75Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -192,48 +580,8 @@ class _StarStarCircleLight {
 class _StarStarIcon {
   const _StarStarIcon();
 
-  /// bold style
-  _StarStarBold get bold => const _StarStarBold();
-  /// bulk style
-  _StarStarBulk get bulk => const _StarStarBulk();
-  /// light style
-  _StarStarLight get light => const _StarStarLight();
-  /// outline style
-  _StarStarOutline get outline => const _StarStarOutline();
   /// twoTone style
   _StarStarTwotone get twoTone => const _StarStarTwotone();
-  /// broken style
-  _StarStarBroken get broken => const _StarStarBroken();
-}
-
-/// star — bulk style variants.
-class _StarStarBulk {
-  const _StarStarBulk();
-
-  /// star — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'star',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.9656 4.08751C11.9656 3.88618 11.8595 3.7117 11.702 3.62219C11.5382 3.52916 11.3242 3.53335 11.1559 3.67842C10.9668 3.84141 10.8064 4.03821 10.6844 4.26798L10.6819 4.27293L10.6801 4.27629C10.6785 4.27939 10.6753 4.2856 10.6716 4.29377L8.80392 8.06693C8.72964 8.21512 8.59257 8.31339 8.42875 8.33397L4.24076 8.94351C3.88191 8.9928 3.55848 9.13652 3.29115 9.34553C3.12474 9.47565 3.07426 9.67458 3.12012 9.8498C3.16435 10.0188 3.29513 10.1611 3.475 10.218L11.2572 12.6794C11.6084 12.7905 11.9656 12.5259 11.9656 12.1546V4.08751Z" fill="black"/> <path d="M13.8101 3.68303C13.6424 3.53901 13.4294 3.53515 13.2665 3.6287C13.1101 3.71849 13.006 3.89231 13.006 4.09166V12.162C13.006 12.5339 13.3642 12.7986 13.7156 12.6864L21.479 10.2089C21.6591 10.1514 21.7897 10.0082 21.8331 9.83873C21.8783 9.66281 21.8262 9.4636 21.658 9.33472C21.3938 9.13247 21.0783 8.99656 20.7308 8.94514L16.5327 8.3341L16.5282 8.33353C16.3756 8.3142 16.2362 8.21544 16.1622 8.06856L14.2834 4.2797L14.281 4.27504C14.1593 4.04216 13.9977 3.8441 13.8101 3.68303Z" fill="black"/> <path d="M12.0507 15.1518C12.2692 14.8522 12.7133 14.8532 12.9304 15.1538L17.4759 21.4441C17.5969 21.6116 17.6113 21.8229 17.5264 21.9907C17.437 22.1676 17.2436 22.2793 17.0178 22.2347C16.8238 22.1963 16.6348 22.1288 16.4562 22.0335L16.4551 22.0329L12.7202 20.0851L12.7177 20.0838C12.5673 20.0032 12.3957 20.0033 12.2494 20.0817L12.2469 20.0831L8.50263 22.0356C8.22023 22.1918 7.90035 22.272 7.56822 22.272C7.41316 22.272 7.29558 22.1761 7.24378 22.0591C7.19328 21.945 7.20007 21.8021 7.28383 21.6873L12.0507 15.1518Z" fill="black"/> <g opacity="0.4"> <path d="M22.1814 11.9684C22.2988 11.7671 22.2572 11.5447 22.1194 11.4014C21.9888 11.2656 21.7847 11.2112 21.5876 11.2741L14.044 13.6819C13.6889 13.7953 13.5485 14.2266 13.768 14.5303L18.607 21.2266C18.678 21.3247 18.7879 21.37 18.8895 21.3694C18.9932 21.3687 19.1147 21.3182 19.1806 21.1952C19.3879 20.8091 19.4627 20.354 19.3908 19.9052L18.6745 15.7582L18.6743 15.7571C18.6475 15.6055 18.6987 15.448 18.8125 15.341L21.8465 12.3955C21.9786 12.2676 22.0907 12.1239 22.1814 11.9684Z" fill="black"/> <path d="M3.41824 11.301C3.21769 11.2376 3.01223 11.2959 2.88175 11.4328C2.74494 11.5763 2.70008 11.7997 2.81758 12.0039C2.89849 12.1445 2.9984 12.2772 3.11912 12.3949L6.14851 15.3279C6.26714 15.443 6.31668 15.5975 6.28901 15.7601L5.57239 19.9086L5.57198 19.911C5.51939 20.2345 5.54958 20.5505 5.64262 20.8411C5.70799 21.0451 5.87845 21.161 6.05899 21.1759C6.23315 21.1902 6.41153 21.112 6.52464 20.9569L11.2125 14.5291C11.4343 14.225 11.2935 13.7912 10.9365 13.6783L3.41824 11.301Z" fill="black"/> </g> </svg>',
-    category: 'Star',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// star — broken style variants.
-class _StarStarBroken {
-  const _StarStarBroken();
-
-  /// star — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'star',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.32845 14.9044L3.37045 12.0624C3.17345 11.8724 3.04644 11.6204 3.01045 11.3494C2.92345 10.6864 3.38945 10.0774 4.05245 9.99037L8.14245 9.40138C8.54145 9.34538 8.88845 9.09738 9.06945 8.73738L10.8975 5.08438C11.0155 4.85639 11.2005 4.67139 11.4275 4.55439C12.0355 4.23939 12.7835 4.47639 13.0985 5.08438L14.9295 8.73838C15.1115 9.09838 15.4584 9.34638 15.8574 9.40238L19.9475 9.99137C20.2195 10.0274 20.4714 10.1544 20.6614 10.3514C21.1254 10.8334 21.1104 11.5994 20.6294 12.0634L17.6684 14.9054C17.3784 15.1824 17.2454 15.5854 17.3144 15.9804L18.0145 19.9934C18.0575 20.2574 18.0124 20.5274 17.8874 20.7644C17.5694 21.3633 16.8265 21.5913 16.2275 21.2733L12.5714 19.3784C12.2114 19.1924 11.7844 19.1924 11.4244 19.3784L7.77045 21.2724C7.53445 21.3974 7.26445 21.4424 7.00045 21.4004C6.33045 21.2924 5.87444 20.6624 5.98244 19.9924" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 13.4189V19.2142" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.06836 10.8447L12.0648 13.696" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9087 10.8447L12.0283 13.6592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.48438 21.1938L15.3033 9.1875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4781 21.1939L8.72461 9.1875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Star',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// star — twoTone style variants.
@@ -243,6 +591,29 @@ class _StarStarTwotone {
   /// star — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'star',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3974 5.08438L9.56941 8.73738C9.38841 9.09738 9.04141 9.34538 8.64241 9.40138L4.55241 9.99037C3.88941 10.0774 3.4234 10.6864 3.5104 11.3494C3.5464 11.6204 3.67341 11.8724 3.87041 12.0624L6.82841 14.9044C7.11941 15.1814 7.25242 15.5844 7.18242 15.9804L6.4824 19.9924C6.3744 20.6624 6.83041 21.2924 7.50041 21.4004C7.76441 21.4424 8.03441 21.3974 8.27041 21.2724L11.9244 19.3784C12.2844 19.1924 12.7114 19.1924 13.0714 19.3784L16.7274 21.2733C17.3264 21.5913 18.0694 21.3633 18.3874 20.7644C18.5124 20.5274 18.5574 20.2574 18.5144 19.9934L17.8144 15.9804C17.7454 15.5854 17.8784 15.1824 18.1684 14.9054L21.1294 12.0634C21.6104 11.5994 21.6254 10.8334 21.1614 10.3514C20.9714 10.1544 20.7194 10.0274 20.4474 9.99137L16.3574 9.40238C15.9584 9.34638 15.6114 9.09838 15.4294 8.73838L13.5984 5.08438C13.2834 4.47639 12.5354 4.23939 11.9274 4.55439C11.7004 4.67139 11.5154 4.85639 11.3974 5.08438Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5 4.41504V19.2142M3.56836 10.8447L17.8533 15.3721M21.4082 10.8447L7.12324 15.3721M6.98438 21.1938L15.8033 9.1875M17.9785 21.1939L9.22502 9.1875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 1 icon with style variants.
+class _StarStar1Icon {
+  const _StarStar1Icon();
+
+  /// twoTone style
+  _StarStar1Twotone get twoTone => const _StarStar1Twotone();
+}
+
+/// star 1 — twoTone style variants.
+class _StarStar1Twotone {
+  const _StarStar1Twotone();
+
+  /// star 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 1',
     svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3974 5.08438L9.56941 8.73738C9.38841 9.09738 9.04141 9.34538 8.64241 9.40138L4.55241 9.99037C3.88941 10.0774 3.4234 10.6864 3.5104 11.3494C3.5464 11.6204 3.67341 11.8724 3.87041 12.0624L6.82841 14.9044C7.11941 15.1814 7.25242 15.5844 7.18242 15.9804L6.4824 19.9924C6.3744 20.6624 6.83041 21.2924 7.50041 21.4004C7.76441 21.4424 8.03441 21.3974 8.27041 21.2724L11.9244 19.3784C12.2844 19.1924 12.7114 19.1924 13.0714 19.3784L16.7274 21.2733C17.3264 21.5913 18.0694 21.3633 18.3874 20.7644C18.5124 20.5274 18.5574 20.2574 18.5144 19.9934L17.8144 15.9804C17.7454 15.5854 17.8784 15.1824 18.1684 14.9054L21.1294 12.0634C21.6104 11.5994 21.6254 10.8334 21.1614 10.3514C20.9714 10.1544 20.7194 10.0274 20.4474 9.99137L16.3574 9.40238C15.9584 9.34638 15.6114 9.09838 15.4294 8.73838L13.5984 5.08438C13.2834 4.47639 12.5354 4.23939 11.9274 4.55439C11.7004 4.67139 11.5154 4.85639 11.3974 5.08438Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5 4.41504V13.6885M3.56836 10.8454L12.5005 13.6514M21.4082 10.8446L12.5277 13.6504M6.98438 21.1943L12.4946 13.6954M17.9785 21.1935L12.5039 13.6846" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Star',
     style: IconfyStyle.twoTone,
@@ -251,28 +622,67 @@ class _StarStarTwotone {
 
 }
 
-/// star — outline style variants.
-class _StarStarOutline {
-  const _StarStarOutline();
+/// star 2 icon with style variants.
+class _StarStar2Icon {
+  const _StarStar2Icon();
 
-  /// star — outline / regular
+  /// twoTone style
+  _StarStar2Twotone get twoTone => const _StarStar2Twotone();
+}
+
+/// star 2 — twoTone style variants.
+class _StarStar2Twotone {
+  const _StarStar2Twotone();
+
+  /// star 2 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'star',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5693 4.50991L9.74111 8.15837L9.73991 8.16076C9.44724 8.73966 8.88967 9.13841 8.24824 9.2289C8.24777 9.22897 8.2473 9.22903 8.24683 9.2291L4.15107 9.81892C4.04663 9.83276 3.95049 9.88144 3.87866 9.95581C3.70259 10.139 3.7078 10.4301 3.89077 10.6071C3.89094 10.6073 3.89059 10.6069 3.89077 10.6071L6.84962 13.4471C6.84989 13.4473 6.85016 13.4476 6.85044 13.4478C7.32037 13.8972 7.5365 14.5514 7.42443 15.1933C7.42442 15.1933 7.42444 15.1932 7.42443 15.1933L6.72531 19.2012C6.70976 19.301 6.72659 19.4044 6.77551 19.4976C6.8997 19.7303 7.18835 19.8183 7.4209 19.6949L7.42744 19.6914L11.0835 17.7965C11.6594 17.4989 12.3439 17.4985 12.9199 17.7961L16.5806 19.6936C16.6728 19.7424 16.7779 19.76 16.8808 19.7439C17.1411 19.7016 17.3174 19.4581 17.2777 19.1994L16.579 15.1949C16.579 15.1946 16.5791 15.1953 16.579 15.1949C16.4657 14.5517 16.6817 13.8961 17.1531 13.4465C17.1536 13.446 17.154 13.4456 17.1545 13.4452L20.1089 10.6066C20.109 10.6065 20.1088 10.6067 20.1089 10.6066C20.1833 10.5347 20.2322 10.4383 20.246 10.3353C20.279 10.0816 20.1006 9.85089 19.85 9.81799L19.8407 9.81677L15.7533 9.2281C15.7529 9.22803 15.7524 9.22796 15.7519 9.2279C15.1107 9.13743 14.5523 8.73869 14.2605 8.15828L12.4347 4.50962C12.3877 4.42064 12.3158 4.34979 12.229 4.30505L12.2276 4.30432C11.9881 4.18025 11.6946 4.2727 11.5693 4.50991ZM12.9169 2.97209C11.9417 2.46731 10.7413 2.8474 10.2356 3.82336L8.40126 7.484C8.4011 7.4843 8.40094 7.48461 8.40079 7.48492C8.32954 7.6251 8.19398 7.72181 8.03835 7.74366L3.9494 8.33249C3.51175 8.39153 3.1058 8.59639 2.79875 8.91475C2.04725 9.6954 2.07145 10.9363 2.84988 11.6872L2.85124 11.6885L5.81224 14.5305L5.81355 14.5317C5.92301 14.6363 5.97258 14.7876 5.94678 14.9353L5.24673 18.9485L5.24533 18.9568C5.1758 19.3837 5.24901 19.8187 5.44921 20.1983L5.45018 20.2001C5.96162 21.1633 7.15612 21.5312 8.12063 21.0217L11.7729 19.1287C11.7727 19.1288 11.773 19.1286 11.7729 19.1287C11.9168 19.0545 12.0874 19.0544 12.2313 19.1287L15.8785 21.0192C15.8796 21.0197 15.8807 21.0203 15.8817 21.0209C16.2605 21.2206 16.6938 21.2925 17.1174 21.2251L17.1189 21.2248C18.1971 21.0511 18.9321 20.0368 18.758 18.957L18.0564 14.9355L18.0561 14.9338C18.03 14.786 18.0793 14.6358 18.1887 14.5316L21.1502 11.6862C21.4695 11.3783 21.6748 10.9707 21.7331 10.5322L21.7332 10.531C21.8737 9.46053 21.1228 8.47505 20.0504 8.33143L15.9645 7.74303L15.9618 7.74266C15.8057 7.72075 15.6708 7.62379 15.6008 7.4848C15.6009 7.48491 15.6008 7.48469 15.6008 7.4848L13.7733 3.83275L13.7687 3.82364C13.5797 3.45852 13.2826 3.16078 12.9169 2.97209Z" fill="black"/> </svg> ',
+    name: 'star 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5233 4.41521C12.0679 4.40766 11.6254 4.65237 11.4016 5.08438L9.57059 8.73838C9.38859 9.09838 9.0416 9.34638 8.6426 9.40238L4.55258 9.99137C4.28058 10.0274 4.0286 10.1544 3.8386 10.3514C3.3746 10.8334 3.38959 11.5994 3.87059 12.0634L6.83159 14.9054C7.12159 15.1824 7.2546 15.5854 7.1856 15.9804L6.48558 19.9934C6.44258 20.2574 6.4876 20.5274 6.6126 20.7644C6.9306 21.3633 7.67359 21.5913 8.27259 21.2733L11.9286 19.3784C12.1151 19.282 12.3195 19.2356 12.5233 19.2391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5234 4.41504C12.709 4.41811 12.8967 4.46304 13.0727 4.55422C13.2997 4.67122 13.4847 4.85622 13.6027 5.08421L15.4307 8.73721C15.6117 9.09721 15.9587 9.34521 16.3577 9.40121L20.4477 9.9902C21.1107 10.0772 21.5767 10.6862 21.4897 11.3492C21.4537 11.6202 21.3267 11.8722 21.1297 12.0622L18.1717 14.9042C17.8807 15.1812 17.7477 15.5842 17.8177 15.9802L18.5177 19.9922C18.6257 20.6622 18.1697 21.2922 17.4997 21.4002C17.2357 21.4422 16.9657 21.3972 16.7297 21.2722L13.0757 19.3782C12.9022 19.2886 12.7131 19.2421 12.5234 19.2389" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Star',
-    style: IconfyStyle.outline,
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
 }
 
-/// star — bold style variants.
-class _StarStarBold {
-  const _StarStarBold();
+/// star 3 icon with style variants.
+class _StarStar3Icon {
+  const _StarStar3Icon();
 
-  /// star — bold / regular
+  /// twoTone style
+  _StarStar3Twotone get twoTone => const _StarStar3Twotone();
+}
+
+/// star 3 — twoTone style variants.
+class _StarStar3Twotone {
+  const _StarStar3Twotone();
+
+  /// star 3 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'star',
+    name: 'star 3',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5233 4.41521C12.0679 4.40766 11.6254 4.65237 11.4016 5.08438L9.57059 8.73838C9.38859 9.09838 9.0416 9.34638 8.6426 9.40238L4.55258 9.99137C4.28058 10.0274 4.0286 10.1544 3.8386 10.3514C3.3746 10.8334 3.38959 11.5994 3.87059 12.0634L6.83159 14.9054C7.12159 15.1824 7.2546 15.5854 7.1856 15.9804L6.48558 19.9934C6.44258 20.2574 6.4876 20.5274 6.6126 20.7644C6.9306 21.3633 7.67359 21.5913 8.27259 21.2733L11.9286 19.3784C12.1151 19.282 12.3195 19.2356 12.5233 19.2391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5234 4.41504C12.709 4.41811 12.8967 4.46304 13.0727 4.55422C13.2997 4.67122 13.4847 4.85622 13.6027 5.08421L15.4307 8.73721C15.6117 9.09721 15.9587 9.34521 16.3577 9.40121L20.4477 9.9902C21.1107 10.0772 21.5767 10.6862 21.4897 11.3492C21.4537 11.6202 21.3267 11.8722 21.1297 12.0622L18.1717 14.9042C17.8807 15.1812 17.7477 15.5842 17.8177 15.9802L18.5177 19.9922C18.6257 20.6622 18.1697 21.2922 17.4997 21.4002C17.2357 21.4422 16.9657 21.3972 16.7297 21.2722L13.0757 19.3782C12.9022 19.2886 12.7131 19.2421 12.5234 19.2389" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 4 icon with style variants.
+class _StarStar4Icon {
+  const _StarStar4Icon();
+
+  /// bold style
+  _StarStar4Bold get bold => const _StarStar4Bold();
+}
+
+/// star 4 — bold style variants.
+class _StarStar4Bold {
+  const _StarStar4Bold();
+
+  /// star 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 4',
     svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.4655 4.08751C11.4655 3.88618 11.3594 3.7117 11.2019 3.62219C11.0381 3.52916 10.8241 3.53335 10.6558 3.67842C10.4668 3.84141 10.3063 4.03821 10.1843 4.26798L10.1818 4.27293L10.1801 4.27629C10.1784 4.27939 10.1752 4.2856 10.1715 4.29377L8.30385 8.06693C8.22957 8.21512 8.0925 8.31339 7.92868 8.33397L3.74068 8.94351C3.38183 8.9928 3.0584 9.13652 2.79108 9.34553C2.62466 9.47565 2.57419 9.67458 2.62005 9.8498C2.66428 10.0188 2.79506 10.1611 2.97492 10.218L10.7572 12.6794C11.1084 12.7905 11.4655 12.5259 11.4655 12.1546V4.08751Z" fill="black"/> <path d="M13.31 3.68325C13.1423 3.53922 12.9293 3.53536 12.7664 3.62892C12.61 3.71871 12.5059 3.89253 12.5059 4.09187V12.1622C12.5059 12.5341 12.8641 12.7988 13.2155 12.6866L20.9789 10.2091C21.159 10.1516 21.2895 10.0085 21.333 9.83895C21.3781 9.66302 21.3261 9.46381 21.1578 9.33493C20.8937 9.13268 20.5782 8.99678 20.2307 8.94536L16.0326 8.33431L16.0281 8.33374C15.8754 8.31441 15.7361 8.21565 15.6621 8.06877L13.7833 4.27992L13.7808 4.27525C13.6592 4.04238 13.4976 3.84431 13.31 3.68325Z" fill="black"/> <path d="M21.6814 11.9684C21.7988 11.767 21.7572 11.5447 21.6194 11.4013C21.4888 11.2655 21.2847 11.2112 21.0876 11.2741L13.544 13.6819C13.1889 13.7953 13.0485 14.2266 13.268 14.5303L18.107 21.2266C18.178 21.3247 18.2879 21.37 18.3895 21.3693C18.4932 21.3686 18.6147 21.3182 18.6806 21.1951C18.8879 20.8091 18.9627 20.354 18.8908 19.9052L18.1745 15.7582L18.1743 15.7571C18.1475 15.6055 18.1987 15.448 18.3125 15.341L21.3465 12.3955C21.4786 12.2676 21.5907 12.1239 21.6814 11.9684Z" fill="black"/> <path d="M2.91824 11.3009C2.71769 11.2375 2.51223 11.2959 2.38175 11.4328C2.24494 11.5763 2.20008 11.7997 2.31758 12.0039C2.39849 12.1444 2.4984 12.2772 2.61912 12.3949L5.64851 15.3279C5.76714 15.443 5.81668 15.5975 5.78901 15.7601L5.07239 19.9086L5.07198 19.911C5.01939 20.2345 5.04958 20.5505 5.14262 20.841C5.20799 21.0451 5.37845 21.161 5.55899 21.1759C5.73315 21.1902 5.91153 21.112 6.02464 20.9569L10.7125 14.529C10.9343 14.225 10.7935 13.7912 10.4365 13.6783L2.91824 11.3009Z" fill="black"/> <path d="M12.4303 15.154C12.2132 14.8535 11.7691 14.8525 11.5506 15.152L6.78371 21.6876C6.69995 21.8024 6.69317 21.9453 6.74366 22.0594C6.79546 22.1764 6.91304 22.2723 7.0681 22.2723C7.40024 22.2723 7.72011 22.1921 8.00251 22.0359L11.7468 20.0834L11.7493 20.082C11.8956 20.0036 12.0672 20.0034 12.2176 20.084L12.22 20.0853L15.955 22.0332L15.9561 22.0338C16.1347 22.1291 16.3237 22.1966 16.5177 22.2349C16.7435 22.2796 16.9369 22.1679 17.0263 21.991C17.1111 21.8232 17.0968 21.6119 16.9758 21.4444L12.4303 15.154Z" fill="black"/> </svg>',
     category: 'Star',
     style: IconfyStyle.bold,
@@ -281,16 +691,484 @@ class _StarStarBold {
 
 }
 
-/// star — light style variants.
-class _StarStarLight {
-  const _StarStarLight();
+/// star 5 icon with style variants.
+class _StarStar5Icon {
+  const _StarStar5Icon();
 
-  /// star — light / regular
+  /// bold style
+  _StarStar5Bold get bold => const _StarStar5Bold();
+}
+
+/// star 5 — bold style variants.
+class _StarStar5Bold {
+  const _StarStar5Bold();
+
+  /// star 5 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'star',
+    name: 'star 5',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5189 11.6149C12.5189 11.8081 12.7668 11.889 12.8817 11.7333L15.3782 8.3513C15.4228 8.29082 15.4297 8.21055 15.396 8.14342L13.5917 4.55078C13.4045 4.19665 13.1121 3.93036 12.7714 3.76978C12.6496 3.71234 12.5189 3.80822 12.5189 3.94245V11.6149Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.06332 16.1827C5.99188 16.2053 5.93898 16.2656 5.92612 16.3391L5.28011 20.0304C5.20717 20.4787 5.31477 20.9115 5.54567 21.2663C5.61593 21.3743 5.77 21.3685 5.84651 21.2648L10.3059 15.223C10.4211 15.067 10.2687 14.8554 10.0833 14.9139L6.06332 16.1827Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1404 21.2902C18.216 21.3934 18.3687 21.4005 18.4393 21.2938C18.6779 20.9333 18.7905 20.4788 18.7165 20.0252L18.0725 16.3468C18.0596 16.2733 18.0068 16.213 17.9353 16.1905L13.9249 14.9246C13.7399 14.8662 13.5876 15.077 13.7019 15.2331L18.1404 21.2902Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7449 12.2999C13.6298 12.4559 13.7822 12.6676 13.9675 12.609L21.3387 10.2822C21.4604 10.2438 21.516 10.1028 21.4384 10.0018C21.1578 9.63625 20.7478 9.39551 20.2782 9.3266L16.4751 8.78071C16.4017 8.77017 16.3285 8.80073 16.2846 8.86021L13.7449 12.2999Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1235 11.7132C11.238 11.8696 11.4867 11.7889 11.4867 11.5954V3.93379C11.4867 3.8001 11.3571 3.70458 11.2359 3.76227C10.893 3.92555 10.5916 4.20376 10.4069 4.54594C10.4049 4.54994 10.4019 4.55494 10.3998 4.55994L8.61931 8.11207C8.58578 8.17895 8.59251 8.25885 8.63676 8.31924L11.1235 11.7132Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8821 15.8579C12.7675 15.7015 12.5189 15.7822 12.5189 15.9757V19.9055C12.5189 19.9803 12.5608 20.0488 12.6275 20.0832L16.1209 21.8822C16.4305 22.0457 16.773 22.1116 17.1138 22.0795C17.2547 22.0662 17.3133 21.9051 17.2299 21.7913L12.8821 15.8579Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2996 13.5831C14.1127 13.6421 14.1127 13.9053 14.2996 13.9644L18.1461 15.1788C18.2163 15.2009 18.2931 15.1831 18.3461 15.1322L21.2653 12.3347C21.5036 12.1075 21.6654 11.8234 21.7444 11.5112C21.7794 11.3731 21.6439 11.264 21.5075 11.3071L14.2996 13.5831Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4867 15.9701C11.4867 15.7769 11.2388 15.696 11.1239 15.8517L6.74201 21.7875C6.65911 21.8998 6.71489 22.0593 6.85394 22.0754C7.20978 22.1164 7.57108 22.0502 7.87068 21.8853L11.3781 20.0792C11.4448 20.0448 11.4867 19.9763 11.4867 19.9016V15.9701Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0659 12.6273C10.2509 12.6857 10.4033 12.4749 10.289 12.3188L7.75129 8.85503C7.70743 8.79517 7.63394 8.76435 7.56029 8.77494L3.72652 9.32574C3.24272 9.39092 2.8345 9.64886 2.56094 10.0092C2.48413 10.1104 2.53975 10.2507 2.66118 10.2891L10.0659 12.6273Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.67667 13.9642C9.86357 13.9052 9.86358 13.6419 9.67669 13.5829L2.49077 11.3142C2.35502 11.2713 2.22021 11.3793 2.25578 11.5166C2.33554 11.8244 2.50126 12.1097 2.73424 12.3335L5.65445 15.1243C5.70751 15.175 5.78417 15.1928 5.85428 15.1706L9.67667 13.9642Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 6 icon with style variants.
+class _StarStar6Icon {
+  const _StarStar6Icon();
+
+  /// bold style
+  _StarStar6Bold get bold => const _StarStar6Bold();
+}
+
+/// star 6 — bold style variants.
+class _StarStar6Bold {
+  const _StarStar6Bold();
+
+  /// star 6 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2558 11.7761L14.1718 11.3361C13.9538 11.3071 13.7638 11.1711 13.6638 10.9721L12.2868 8.22313C12.1778 8.00414 12.0078 7.83214 11.7788 7.71214C11.4988 7.56614 11.1778 7.53714 10.8768 7.63213C10.5748 7.72814 10.3278 7.93714 10.1808 8.22114L8.8008 10.9711C8.6998 11.1701 8.5098 11.3071 8.2908 11.3361L5.2078 11.7761C4.9498 11.8141 4.7078 11.9401 4.5268 12.1291C4.3108 12.3511 4.1948 12.6441 4.1998 12.9541C4.2058 13.2661 4.3318 13.5571 4.5568 13.7741L6.7878 15.9151C6.9488 16.0691 7.0188 16.2821 6.9818 16.5011L6.4528 19.5241C6.4118 19.7751 6.4538 20.0291 6.5748 20.2611C6.8768 20.8261 7.5858 21.0501 8.1618 20.7551L10.9168 19.3261C11.1148 19.2231 11.3528 19.2231 11.5508 19.3261L14.2958 20.7411C14.4648 20.8371 14.6538 20.8851 14.8508 20.8851C14.9128 20.8851 14.9758 20.8801 15.0388 20.8711C15.3478 20.8211 15.6198 20.6541 15.8038 20.3991C15.9888 20.1431 16.0638 19.8321 16.0128 19.5211L15.4848 16.5001C15.4458 16.2831 15.5188 16.0601 15.6798 15.9141L17.9058 13.7661C18.0948 13.5881 18.2178 13.3471 18.2538 13.0861C18.3378 12.4521 17.8888 11.8641 17.2558 11.7761Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4208 5.58926C20.4118 5.25926 19.6148 4.46426 19.2888 3.46026C19.2218 3.25426 19.0298 3.11426 18.8138 3.11426C18.5968 3.11426 18.4048 3.25426 18.3378 3.46026C18.0108 4.46426 17.2138 5.25926 16.2068 5.58926C16.0008 5.65626 15.8618 5.84826 15.8618 6.06426C15.8618 6.28026 16.0008 6.47226 16.2068 6.53926C17.2138 6.86926 18.0108 7.66526 18.3378 8.66926C18.4048 8.87526 18.5968 9.01426 18.8138 9.01426C19.0298 9.01426 19.2218 8.87426 19.2888 8.66926C19.6148 7.66526 20.4118 6.86926 21.4208 6.53926C21.6268 6.47226 21.7658 6.28026 21.7658 6.06426C21.7658 5.84826 21.6268 5.65626 21.4208 5.58926Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.70113 8.76558C4.93613 8.04358 5.50913 7.47058 6.23513 7.23358C6.38313 7.18458 6.48413 7.04658 6.48413 6.89058C6.48413 6.73558 6.38313 6.59758 6.23513 6.54858C5.50913 6.31158 4.93613 5.73858 4.70113 5.01658C4.65313 4.86858 4.51513 4.76758 4.35913 4.76758C4.20313 4.76758 4.06513 4.86858 4.01613 5.01658C3.78113 5.73858 3.20713 6.31158 2.48213 6.54858C2.33413 6.59758 2.23413 6.73558 2.23413 6.89058C2.23413 7.04658 2.33413 7.18458 2.48213 7.23358C3.20713 7.47058 3.78113 8.04358 4.01613 8.76558C4.06513 8.91358 4.20313 9.01458 4.35913 9.01458C4.51513 9.01458 4.65313 8.91358 4.70113 8.76558Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 7 icon with style variants.
+class _StarStar7Icon {
+  const _StarStar7Icon();
+
+  /// bold style
+  _StarStar7Bold get bold => const _StarStar7Bold();
+}
+
+/// star 7 — bold style variants.
+class _StarStar7Bold {
+  const _StarStar7Bold();
+
+  /// star 7 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 7',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.0193 9.49552L15.9193 8.90452C15.6873 8.87552 15.4853 8.73052 15.3783 8.51652L13.5503 4.85652C13.5473 4.85252 13.5453 4.84852 13.5433 4.84352C13.3753 4.53252 13.1143 4.27152 12.7993 4.10452C11.9523 3.67352 10.9013 4.00552 10.4543 4.85652L8.62434 8.51552C8.51634 8.72952 8.31234 8.87552 8.07134 8.90552L3.98034 9.49552C3.58434 9.55452 3.23734 9.73052 2.97934 10.0025C2.66134 10.3315 2.49134 10.7655 2.50034 11.2235C2.50934 11.6815 2.69634 12.1065 3.02434 12.4205L5.99134 15.2765C6.15634 15.4305 6.23334 15.6655 6.19334 15.8945L5.49234 19.9125C5.43234 20.2875 5.49634 20.6745 5.67034 20.9945C5.88834 21.4045 6.25134 21.7035 6.69334 21.8395C6.86034 21.8905 7.03134 21.9155 7.20034 21.9155C7.47834 21.9155 7.75334 21.8475 8.00234 21.7145L11.6623 19.8225C11.8743 19.7095 12.1293 19.7095 12.3463 19.8245L15.9883 21.7085C16.3153 21.8885 16.6883 21.9535 17.0813 21.8935C18.0203 21.7395 18.6633 20.8495 18.5103 19.9045L17.8103 15.8945C17.7693 15.6585 17.8453 15.4275 18.0183 15.2615L20.9763 12.4205C21.2533 12.1535 21.4353 11.7965 21.4853 11.4155C21.6083 10.4835 20.9493 9.62152 20.0193 9.49552Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 8 icon with style variants.
+class _StarStar8Icon {
+  const _StarStar8Icon();
+
+  /// bulk style
+  _StarStar8Bulk get bulk => const _StarStar8Bulk();
+}
+
+/// star 8 — bulk style variants.
+class _StarStar8Bulk {
+  const _StarStar8Bulk();
+
+  /// star 8 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 8',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.7559 11.7761L14.6719 11.3361C14.4539 11.3071 14.2639 11.1711 14.1639 10.9721L12.7869 8.22314C12.6779 8.00414 12.5079 7.83214 12.2789 7.71214C11.9989 7.56614 11.6779 7.53713 11.3769 7.63213C11.0749 7.72813 10.8279 7.93714 10.6809 8.22114L9.30086 10.9711C9.19986 11.1701 9.00986 11.3071 8.79086 11.3361L5.70786 11.7761C5.44986 11.8141 5.20786 11.9401 5.02686 12.1291C4.81086 12.3511 4.69486 12.6441 4.69986 12.9541C4.70586 13.2661 4.83186 13.5571 5.05686 13.7741L7.28786 15.9151C7.44886 16.0691 7.51886 16.2821 7.48186 16.5011L6.95286 19.5241C6.91186 19.7751 6.95386 20.0291 7.07486 20.2611C7.37686 20.8261 8.08586 21.0501 8.66186 20.7551L11.4169 19.3261C11.6149 19.2231 11.8529 19.2231 12.0509 19.3261L14.7959 20.7411C14.9649 20.8371 15.1539 20.8851 15.3509 20.8851C15.4129 20.8851 15.4759 20.8801 15.5389 20.8711C15.8479 20.8211 16.1199 20.6541 16.3039 20.3991C16.4889 20.1431 16.5639 19.8321 16.5129 19.5211L15.9849 16.5001C15.9459 16.2831 16.0189 16.0601 16.1799 15.9141L18.4059 13.7661C18.5949 13.5881 18.7179 13.3471 18.7539 13.0861C18.8379 12.4521 18.3889 11.8641 17.7559 11.7761Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.9211 5.58926C20.9121 5.25926 20.1151 4.46426 19.7891 3.46026C19.7221 3.25426 19.5301 3.11426 19.3141 3.11426C19.0971 3.11426 18.9051 3.25426 18.8381 3.46026C18.5111 4.46426 17.7141 5.25926 16.7071 5.58926C16.5011 5.65626 16.3621 5.84826 16.3621 6.06426C16.3621 6.28026 16.5011 6.47226 16.7071 6.53926C17.7141 6.86926 18.5111 7.66526 18.8381 8.66926C18.9051 8.87526 19.0971 9.01426 19.3141 9.01426C19.5301 9.01426 19.7221 8.87426 19.7891 8.66926C20.1151 7.66526 20.9121 6.86926 21.9211 6.53926C22.1271 6.47226 22.2661 6.28026 22.2661 6.06426C22.2661 5.84826 22.1271 5.65626 21.9211 5.58926Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.20138 8.76558C5.43637 8.04358 6.00937 7.47058 6.73537 7.23358C6.88338 7.18458 6.98438 7.04658 6.98438 6.89058C6.98438 6.73558 6.88338 6.59758 6.73537 6.54858C6.00937 6.31158 5.43637 5.73858 5.20138 5.01658C5.15337 4.86858 5.01537 4.76758 4.85938 4.76758C4.70337 4.76758 4.56537 4.86858 4.51637 5.01658C4.28137 5.73858 3.70738 6.31158 2.98237 6.54858C2.83437 6.59758 2.73438 6.73558 2.73438 6.89058C2.73438 7.04658 2.83437 7.18458 2.98237 7.23358C3.70738 7.47058 4.28137 8.04358 4.51637 8.76558C4.56537 8.91358 4.70337 9.01458 4.85938 9.01458C5.01537 9.01458 5.15337 8.91358 5.20138 8.76558Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 9 icon with style variants.
+class _StarStar9Icon {
+  const _StarStar9Icon();
+
+  /// bulk style
+  _StarStar9Bulk get bulk => const _StarStar9Bulk();
+}
+
+/// star 9 — bulk style variants.
+class _StarStar9Bulk {
+  const _StarStar9Bulk();
+
+  /// star 9 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 9',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.7559 11.7761L14.6719 11.3361C14.4539 11.3071 14.2639 11.1711 14.1639 10.9721L12.7869 8.22314C12.6779 8.00414 12.5079 7.83214 12.2789 7.71214C11.9989 7.56614 11.6779 7.53713 11.3769 7.63213C11.0749 7.72813 10.8279 7.93714 10.6809 8.22114L9.30086 10.9711C9.19986 11.1701 9.00986 11.3071 8.79086 11.3361L5.70786 11.7761C5.44986 11.8141 5.20786 11.9401 5.02686 12.1291C4.81086 12.3511 4.69486 12.6441 4.69986 12.9541C4.70586 13.2661 4.83186 13.5571 5.05686 13.7741L7.28786 15.9151C7.44886 16.0691 7.51886 16.2821 7.48186 16.5011L6.95286 19.5241C6.91186 19.7751 6.95386 20.0291 7.07486 20.2611C7.37686 20.8261 8.08586 21.0501 8.66186 20.7551L11.4169 19.3261C11.6149 19.2231 11.8529 19.2231 12.0509 19.3261L14.7959 20.7411C14.9649 20.8371 15.1539 20.8851 15.3509 20.8851C15.4129 20.8851 15.4759 20.8801 15.5389 20.8711C15.8479 20.8211 16.1199 20.6541 16.3039 20.3991C16.4889 20.1431 16.5639 19.8321 16.5129 19.5211L15.9849 16.5001C15.9459 16.2831 16.0189 16.0601 16.1799 15.9141L18.4059 13.7661C18.5949 13.5881 18.7179 13.3471 18.7539 13.0861C18.8379 12.4521 18.3889 11.8641 17.7559 11.7761Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.9211 5.58926C20.9121 5.25926 20.1151 4.46426 19.7891 3.46026C19.7221 3.25426 19.5301 3.11426 19.3141 3.11426C19.0971 3.11426 18.9051 3.25426 18.8381 3.46026C18.5111 4.46426 17.7141 5.25926 16.7071 5.58926C16.5011 5.65626 16.3621 5.84826 16.3621 6.06426C16.3621 6.28026 16.5011 6.47226 16.7071 6.53926C17.7141 6.86926 18.5111 7.66526 18.8381 8.66926C18.9051 8.87526 19.0971 9.01426 19.3141 9.01426C19.5301 9.01426 19.7221 8.87426 19.7891 8.66926C20.1151 7.66526 20.9121 6.86926 21.9211 6.53926C22.1271 6.47226 22.2661 6.28026 22.2661 6.06426C22.2661 5.84826 22.1271 5.65626 21.9211 5.58926Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.20138 8.76558C5.43637 8.04358 6.00937 7.47058 6.73537 7.23358C6.88338 7.18458 6.98438 7.04658 6.98438 6.89058C6.98438 6.73558 6.88338 6.59758 6.73537 6.54858C6.00937 6.31158 5.43637 5.73858 5.20138 5.01658C5.15337 4.86858 5.01537 4.76758 4.85938 4.76758C4.70337 4.76758 4.56537 4.86858 4.51637 5.01658C4.28137 5.73858 3.70738 6.31158 2.98237 6.54858C2.83437 6.59758 2.73438 6.73558 2.73438 6.89058C2.73438 7.04658 2.83437 7.18458 2.98237 7.23358C3.70738 7.47058 4.28137 8.04358 4.51637 8.76558C4.56537 8.91358 4.70337 9.01458 4.85938 9.01458C5.01537 9.01458 5.15337 8.91358 5.20138 8.76558Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 10 icon with style variants.
+class _StarStar10Icon {
+  const _StarStar10Icon();
+
+  /// bulk style
+  _StarStar10Bulk get bulk => const _StarStar10Bulk();
+}
+
+/// star 10 — bulk style variants.
+class _StarStar10Bulk {
+  const _StarStar10Bulk();
+
+  /// star 10 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 10',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.5193 9.49552L16.4193 8.90452C16.1873 8.87552 15.9853 8.73052 15.8783 8.51652L14.0503 4.85652C14.0473 4.85252 14.0453 4.84852 14.0433 4.84352C13.8753 4.53252 13.6143 4.27152 13.2993 4.10452C12.4523 3.67352 11.4013 4.00552 10.9543 4.85652L9.12434 8.51552C9.01634 8.72952 8.81234 8.87552 8.57134 8.90552L4.48034 9.49552C4.08434 9.55452 3.73734 9.73052 3.47934 10.0025C3.16134 10.3315 2.99134 10.7655 3.00034 11.2235C3.00934 11.6815 3.19634 12.1065 3.52434 12.4205L6.49134 15.2765C6.65634 15.4305 6.73334 15.6655 6.69334 15.8945L5.99234 19.9125C5.93234 20.2875 5.99634 20.6745 6.17034 20.9945C6.38834 21.4045 6.75134 21.7035 7.19334 21.8395C7.36034 21.8905 7.53134 21.9155 7.70034 21.9155C7.97834 21.9155 8.25334 21.8475 8.50234 21.7145L12.1623 19.8225C12.3743 19.7095 12.6293 19.7095 12.8463 19.8245L16.4883 21.7085C16.8153 21.8885 17.1883 21.9535 17.5813 21.8935C18.5203 21.7395 19.1633 20.8495 19.0103 19.9045L18.3103 15.8945C18.2693 15.6585 18.3453 15.4275 18.5183 15.2615L21.4763 12.4205C21.7533 12.1535 21.9353 11.7965 21.9853 11.4155C22.1083 10.4835 21.4493 9.62152 20.5193 9.49552Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 11 icon with style variants.
+class _StarStar11Icon {
+  const _StarStar11Icon();
+
+  /// bulk style
+  _StarStar11Bulk get bulk => const _StarStar11Bulk();
+}
+
+/// star 11 — bulk style variants.
+class _StarStar11Bulk {
+  const _StarStar11Bulk();
+
+  /// star 11 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 11',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.9656 4.08751C11.9656 3.88618 11.8595 3.7117 11.702 3.62219C11.5382 3.52916 11.3242 3.53335 11.1559 3.67842C10.9668 3.84141 10.8064 4.03821 10.6844 4.26798L10.6819 4.27293L10.6801 4.27629C10.6785 4.27939 10.6753 4.2856 10.6716 4.29377L8.80392 8.06693C8.72964 8.21512 8.59257 8.31339 8.42875 8.33397L4.24076 8.94351C3.88191 8.9928 3.55848 9.13652 3.29115 9.34553C3.12474 9.47565 3.07426 9.67458 3.12012 9.8498C3.16435 10.0188 3.29513 10.1611 3.475 10.218L11.2572 12.6794C11.6084 12.7905 11.9656 12.5259 11.9656 12.1546V4.08751Z" fill="black"/> <path d="M13.8101 3.68303C13.6424 3.53901 13.4294 3.53515 13.2665 3.6287C13.1101 3.71849 13.006 3.89231 13.006 4.09166V12.162C13.006 12.5339 13.3642 12.7986 13.7156 12.6864L21.479 10.2089C21.6591 10.1514 21.7897 10.0082 21.8331 9.83873C21.8783 9.66281 21.8262 9.4636 21.658 9.33472C21.3938 9.13247 21.0783 8.99656 20.7308 8.94514L16.5327 8.3341L16.5282 8.33353C16.3756 8.3142 16.2362 8.21544 16.1622 8.06856L14.2834 4.2797L14.281 4.27504C14.1593 4.04216 13.9977 3.8441 13.8101 3.68303Z" fill="black"/> <path d="M12.0507 15.1518C12.2692 14.8522 12.7133 14.8532 12.9304 15.1538L17.4759 21.4441C17.5969 21.6116 17.6113 21.8229 17.5264 21.9907C17.437 22.1676 17.2436 22.2793 17.0178 22.2347C16.8238 22.1963 16.6348 22.1288 16.4562 22.0335L16.4551 22.0329L12.7202 20.0851L12.7177 20.0838C12.5673 20.0032 12.3957 20.0033 12.2494 20.0817L12.2469 20.0831L8.50263 22.0356C8.22023 22.1918 7.90035 22.272 7.56822 22.272C7.41316 22.272 7.29558 22.1761 7.24378 22.0591C7.19328 21.945 7.20007 21.8021 7.28383 21.6873L12.0507 15.1518Z" fill="black"/> <g opacity="0.4"> <path d="M22.1814 11.9684C22.2988 11.7671 22.2572 11.5447 22.1194 11.4014C21.9888 11.2656 21.7847 11.2112 21.5876 11.2741L14.044 13.6819C13.6889 13.7953 13.5485 14.2266 13.768 14.5303L18.607 21.2266C18.678 21.3247 18.7879 21.37 18.8895 21.3694C18.9932 21.3687 19.1147 21.3182 19.1806 21.1952C19.3879 20.8091 19.4627 20.354 19.3908 19.9052L18.6745 15.7582L18.6743 15.7571C18.6475 15.6055 18.6987 15.448 18.8125 15.341L21.8465 12.3955C21.9786 12.2676 22.0907 12.1239 22.1814 11.9684Z" fill="black"/> <path d="M3.41824 11.301C3.21769 11.2376 3.01223 11.2959 2.88175 11.4328C2.74494 11.5763 2.70008 11.7997 2.81758 12.0039C2.89849 12.1445 2.9984 12.2772 3.11912 12.3949L6.14851 15.3279C6.26714 15.443 6.31668 15.5975 6.28901 15.7601L5.57239 19.9086L5.57198 19.911C5.51939 20.2345 5.54958 20.5505 5.64262 20.8411C5.70799 21.0451 5.87845 21.161 6.05899 21.1759C6.23315 21.1902 6.41153 21.112 6.52464 20.9569L11.2125 14.5291C11.4343 14.225 11.2935 13.7912 10.9365 13.6783L3.41824 11.301Z" fill="black"/> </g> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 12 icon with style variants.
+class _StarStar12Icon {
+  const _StarStar12Icon();
+
+  /// broken style
+  _StarStar12Broken get broken => const _StarStar12Broken();
+}
+
+/// star 12 — broken style variants.
+class _StarStar12Broken {
+  const _StarStar12Broken();
+
+  /// star 12 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 12',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.05245 9.99023C3.38945 10.0773 2.92345 10.6863 3.01045 11.3493C3.04645 11.6203 3.17345 11.8723 3.37045 12.0623L6.32845 14.9043C6.61945 15.1813 6.75246 15.5843 6.68246 15.9803L5.98244 19.9923C5.87444 20.6623 6.33045 21.2923 7.00045 21.4003C7.26445 21.4423 7.53445 21.3973 7.77045 21.2723L11.4244 19.3783C11.7844 19.1923 12.2114 19.1923 12.5714 19.3783L16.2275 21.2732C16.8265 21.5912 17.5694 21.3632 17.8874 20.7643C18.0124 20.5273 18.0575 20.2573 18.0145 19.9933" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.06934 8.73738L10.8973 5.08438C11.0153 4.85639 11.2003 4.67139 11.4273 4.55439C12.0353 4.23939 12.7833 4.47639 13.0983 5.08438L14.9293 8.73838C15.1113 9.09838 15.4583 9.34638 15.8573 9.40238L19.9473 9.99137C20.2193 10.0274 20.4713 10.1544 20.6613 10.3514C21.1253 10.8334 21.1103 11.5994 20.6293 12.0634L17.6683 14.9054C17.3783 15.1824 17.2453 15.5854 17.3143 15.9804" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 4.41504V13.6885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.06836 10.8457L12.0005 13.6517" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4676 12.2471L12.0273 13.6499" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.48438 21.1948L9.23949 17.4453" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4785 21.1935L12.0039 13.6846" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 13 icon with style variants.
+class _StarStar13Icon {
+  const _StarStar13Icon();
+
+  /// broken style
+  _StarStar13Broken get broken => const _StarStar13Broken();
+}
+
+/// star 13 — broken style variants.
+class _StarStar13Broken {
+  const _StarStar13Broken();
+
+  /// star 13 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 13',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.32845 14.9044L3.37045 12.0624C3.17345 11.8724 3.04644 11.6204 3.01045 11.3494C2.92345 10.6864 3.38945 10.0774 4.05245 9.99037L8.14245 9.40138C8.54145 9.34538 8.88845 9.09738 9.06945 8.73738L10.8975 5.08438C11.0155 4.85639 11.2005 4.67139 11.4275 4.55439C12.0355 4.23939 12.7835 4.47639 13.0985 5.08438L14.9295 8.73838C15.1115 9.09838 15.4584 9.34638 15.8574 9.40238L19.9475 9.99137C20.2195 10.0274 20.4714 10.1544 20.6614 10.3514C21.1254 10.8334 21.1104 11.5994 20.6294 12.0634L17.6684 14.9054C17.3784 15.1824 17.2454 15.5854 17.3144 15.9804L18.0145 19.9934C18.0575 20.2574 18.0124 20.5274 17.8874 20.7644C17.5694 21.3633 16.8265 21.5913 16.2275 21.2733L12.5714 19.3784C12.2114 19.1924 11.7844 19.1924 11.4244 19.3784L7.77045 21.2724C7.53445 21.3974 7.26445 21.4424 7.00045 21.4004C6.33045 21.2924 5.87444 20.6624 5.98244 19.9924" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 13.4189V19.2142" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.06836 10.8447L12.0648 13.696" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9087 10.8447L12.0283 13.6592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.48438 21.1938L15.3033 9.1875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4781 21.1939L8.72461 9.1875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 14 icon with style variants.
+class _StarStar14Icon {
+  const _StarStar14Icon();
+
+  /// broken style
+  _StarStar14Broken get broken => const _StarStar14Broken();
+}
+
+/// star 14 — broken style variants.
+class _StarStar14Broken {
+  const _StarStar14Broken();
+
+  /// star 14 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 14',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.32845 14.9044L3.37045 12.0624C3.17345 11.8724 3.04644 11.6204 3.01045 11.3494C2.92345 10.6864 3.38945 10.0774 4.05245 9.99037L8.14245 9.40138C8.54145 9.34538 8.88845 9.09738 9.06945 8.73738L10.8975 5.08438C11.0155 4.85639 11.2005 4.67139 11.4275 4.55439C12.0355 4.23939 12.7835 4.47639 13.0985 5.08438L14.9295 8.73838C15.1115 9.09838 15.4584 9.34638 15.8574 9.40238L19.9475 9.99137C20.2195 10.0274 20.4714 10.1544 20.6614 10.3514C21.1254 10.8334 21.1104 11.5994 20.6294 12.0634L17.6684 14.9054C17.3784 15.1824 17.2454 15.5854 17.3144 15.9804L18.0145 19.9934C18.0575 20.2574 18.0124 20.5274 17.8874 20.7644C17.5694 21.3633 16.8265 21.5913 16.2275 21.2733L12.5714 19.3784C12.2114 19.1924 11.7844 19.1924 11.4244 19.3784L7.77045 21.2724C7.53445 21.3974 7.26445 21.4424 7.00045 21.4004C6.33045 21.2924 5.87444 20.6624 5.98244 19.9924" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 13.4189V19.2142" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.06836 10.8447L12.0648 13.696" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9087 10.8447L12.0283 13.6592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.48438 21.1938L15.3033 9.1875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4781 21.1939L8.72461 9.1875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 15 icon with style variants.
+class _StarStar15Icon {
+  const _StarStar15Icon();
+
+  /// broken style
+  _StarStar15Broken get broken => const _StarStar15Broken();
+}
+
+/// star 15 — broken style variants.
+class _StarStar15Broken {
+  const _StarStar15Broken();
+
+  /// star 15 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 15',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.98558 19.9934C5.94258 20.2574 5.9876 20.5274 6.1126 20.7644C6.4306 21.3633 7.17359 21.5913 7.77259 21.2733L11.4286 19.3784C11.7886 19.1924 12.2156 19.1924 12.5756 19.3784L16.2296 21.2724C16.4656 21.3974 16.7356 21.4424 16.9996 21.4004C17.6696 21.2924 18.1256 20.6624 18.0176 19.9924L17.3176 15.9804C17.2476 15.5844 17.3806 15.1814 17.6716 14.9044L20.6296 12.0624C20.8266 11.8724 20.9536 11.6204 20.9896 11.3494C21.0766 10.6864 20.6106 10.0774 19.9476 9.99037L15.8576 9.40138C15.4586 9.34538 15.1116 9.09738 14.9306 8.73738L13.1026 5.08438C12.9846 4.85639 12.7996 4.67139 12.5726 4.55439C11.9646 4.23939 11.2166 4.47639 10.9016 5.08438L9.07059 8.73838C8.88859 9.09838 8.5416 9.34638 8.1426 9.40238L4.05258 9.99137C3.78058 10.0274 3.5286 10.1544 3.3386 10.3514C2.8746 10.8334 2.88959 11.5994 3.37059 12.0634L6.33159 14.9054" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 16 icon with style variants.
+class _StarStar16Icon {
+  const _StarStar16Icon();
+
+  /// light style
+  _StarStar16Light get light => const _StarStar16Light();
+}
+
+/// star 16 — light style variants.
+class _StarStar16Light {
+  const _StarStar16Light();
+
+  /// star 16 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 16',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.8974 4.16836L9.06941 7.82136C8.88841 8.18136 8.54141 8.42936 8.14241 8.48536L4.05241 9.07435C3.38941 9.16138 2.9234 9.77038 3.0104 10.4334C3.0464 10.7044 3.17341 10.9564 3.37041 11.1464L6.32841 13.9884C6.61941 14.2654 6.75242 14.6684 6.68242 15.0644L5.9824 19.0764C5.8744 19.7464 6.33041 20.3764 7.00041 20.4844C7.26441 20.5264 7.53441 20.4814 7.77041 20.3564L11.4244 18.4624C11.7844 18.2764 12.2114 18.2764 12.5714 18.4624L16.2274 20.3573C16.8264 20.6753 17.5694 20.4473 17.8874 19.8484C18.0124 19.6114 18.0574 19.3414 18.0144 19.0774L17.3144 15.0644C17.2454 14.6694 17.3784 14.2664 17.6684 13.9894L20.6294 11.1474C21.1104 10.6834 21.1254 9.91738 20.6614 9.43538C20.4714 9.23838 20.2194 9.11138 19.9474 9.07535L15.8574 8.48636C15.4584 8.43036 15.1114 8.18236 14.9294 7.82236L13.0984 4.16836C12.7834 3.56037 12.0354 3.32337 11.4274 3.63837C11.2004 3.75537 11.0154 3.94037 10.8974 4.16836Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3.49902V12.7725" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.06836 9.92936L12.0005 12.7354" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9082 9.92862L12.0277 12.7344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.48438 20.2783L11.9946 12.7794" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4785 20.2775L12.0039 12.7686" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 17 icon with style variants.
+class _StarStar17Icon {
+  const _StarStar17Icon();
+
+  /// light style
+  _StarStar17Light get light => const _StarStar17Light();
+}
+
+/// star 17 — light style variants.
+class _StarStar17Light {
+  const _StarStar17Light();
+
+  /// star 17 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 17',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1026 4.16836L14.9306 7.82136C15.1116 8.18136 15.4586 8.42936 15.8576 8.48536L19.9476 9.07435C20.6106 9.16138 21.0766 9.77038 20.9896 10.4334C20.9536 10.7044 20.8266 10.9564 20.6296 11.1464L17.6716 13.9884C17.3806 14.2654 17.2476 14.6684 17.3176 15.0644L18.0176 19.0764C18.1256 19.7464 17.6696 20.3764 16.9996 20.4844C16.7356 20.5264 16.4656 20.4814 16.2296 20.3564L12.5756 18.4624C12.2156 18.2764 11.7886 18.2764 11.4286 18.4624L7.77259 20.3573C7.17359 20.6753 6.4306 20.4473 6.1126 19.8484C5.9876 19.6114 5.94258 19.3414 5.98558 19.0774L6.6856 15.0644C6.7546 14.6694 6.62159 14.2664 6.33159 13.9894L3.37059 11.1474C2.88959 10.6834 2.8746 9.91738 3.3386 9.43538C3.5286 9.23838 3.78058 9.11138 4.05258 9.07535L8.1426 8.48636C8.5416 8.43036 8.88859 8.18236 9.07059 7.82236L10.9016 4.16836C11.2166 3.56037 11.9646 3.32337 12.5726 3.63837C12.7996 3.75537 12.9846 3.94037 13.1026 4.16836Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Star',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 18 icon with style variants.
+class _StarStar18Icon {
+  const _StarStar18Icon();
+
+  /// light style
+  _StarStar18Light get light => const _StarStar18Light();
+}
+
+/// star 18 — light style variants.
+class _StarStar18Light {
+  const _StarStar18Light();
+
+  /// star 18 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 18',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7971 8.20675L13.1745 10.9594C13.3109 11.2306 13.5724 11.4175 13.8731 11.4597L16.955 11.9035C17.4545 11.9691 17.8057 12.428 17.7401 12.9276C17.713 13.1318 17.6173 13.3217 17.4689 13.4648L15.2399 15.6064C15.0207 15.8151 14.9204 16.1188 14.9732 16.4171L15.5007 19.4403C15.582 19.9451 15.2384 20.4199 14.7336 20.5012C14.5346 20.5329 14.3312 20.499 14.1534 20.4048L11.4 18.9776C11.1287 18.8375 10.807 18.8375 10.5357 18.9776L7.78082 20.4055C7.32946 20.6451 6.7696 20.4733 6.52998 20.022C6.43579 19.8434 6.40187 19.64 6.43427 19.441L6.96175 16.4171C7.01374 16.1195 6.91352 15.8158 6.695 15.6071L4.46382 13.4656C4.10138 13.116 4.09008 12.5388 4.43971 12.1756C4.58288 12.0271 4.77276 11.9314 4.97772 11.9043L8.05963 11.4605C8.36029 11.4183 8.62175 11.2314 8.7589 10.9601L10.1386 8.20675C10.3759 7.74862 10.9396 7.57003 11.3977 7.80739C11.5688 7.89556 11.7082 8.03496 11.7971 8.20675Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9998 5.93838C19.8367 6.31581 18.9252 7.22731 18.5478 8.39043C18.1703 7.22731 17.2588 6.31581 16.0957 5.93838C17.2588 5.56095 18.1703 4.64945 18.5478 3.48633C18.9252 4.64945 19.8367 5.56095 20.9998 5.93838Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.20735 5.93848V8.35655M5.41807 7.1474H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 19 icon with style variants.
+class _StarStar19Icon {
+  const _StarStar19Icon();
+
+  /// light style
+  _StarStar19Light get light => const _StarStar19Light();
+}
+
+/// star 19 — light style variants.
+class _StarStar19Light {
+  const _StarStar19Light();
+
+  /// star 19 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 19',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.1697 5.2618C9.81525 4.04258 10.7298 2.82422 11.9995 2.82422C13.2692 2.82422 14.1838 4.04258 13.8293 5.2618L11.9995 11.5552L10.1697 5.2618Z" stroke="#030303" stroke-width="1.5"/> <path d="M10.1697 18.7382C9.81525 19.9575 10.7298 21.1758 11.9995 21.1758C13.2692 21.1758 14.1838 19.9575 13.8293 18.7382L11.9995 12.4448L10.1697 18.7382Z" stroke="#030303" stroke-width="1.5"/> <path d="M16.9192 7.04656C17.7978 6.12996 19.3102 6.31282 19.9451 7.41242C20.5799 8.51202 19.9821 9.91325 18.7489 10.2159L12.3838 11.7779L16.9192 7.04656Z" stroke="#030303" stroke-width="1.5"/> <path d="M5.25047 13.785C4.01735 14.0876 3.41951 15.4888 4.05437 16.5884C4.68922 17.688 6.20164 17.8709 7.08027 16.9543L11.6156 12.2229L5.25047 13.785Z" stroke="#030303" stroke-width="1.5"/> <path d="M16.9192 16.954C17.7978 17.8706 19.3102 17.6878 19.9451 16.5882C20.5799 15.4886 19.9821 14.0873 18.7489 13.7847L12.3838 12.2227L16.9192 16.954Z" stroke="#030303" stroke-width="1.5"/> <path d="M5.25047 10.2159C4.01735 9.91325 3.41951 8.51202 4.05437 7.41242C4.68922 6.31282 6.20164 6.12996 7.08027 7.04656L11.6156 11.7779L5.25047 10.2159Z" stroke="#030303" stroke-width="1.5"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 20 icon with style variants.
+class _StarStar20Icon {
+  const _StarStar20Icon();
+
+  /// light style
+  _StarStar20Light get light => const _StarStar20Light();
+}
+
+/// star 20 — light style variants.
+class _StarStar20Light {
+  const _StarStar20Light();
+
+  /// star 20 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 20',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1026 4.16836L14.9306 7.82136C15.1116 8.18136 15.4586 8.42936 15.8576 8.48536L19.9476 9.07435C20.6106 9.16138 21.0766 9.77038 20.9896 10.4334C20.9536 10.7044 20.8266 10.9564 20.6296 11.1464L17.6716 13.9884C17.3806 14.2654 17.2476 14.6684 17.3176 15.0644L18.0176 19.0764C18.1256 19.7464 17.6696 20.3764 16.9996 20.4844C16.7356 20.5264 16.4656 20.4814 16.2296 20.3564L12.5756 18.4624C12.2156 18.2764 11.7886 18.2764 11.4286 18.4624L7.77259 20.3573C7.17359 20.6753 6.4306 20.4473 6.1126 19.8484C5.9876 19.6114 5.94258 19.3414 5.98558 19.0774L6.6856 15.0644C6.7546 14.6694 6.62159 14.2664 6.33159 13.9894L3.37059 11.1474C2.88959 10.6834 2.8746 9.91738 3.3386 9.43538C3.5286 9.23838 3.78058 9.11138 4.05258 9.07535L8.1426 8.48636C8.5416 8.43036 8.88859 8.18236 9.07059 7.82236L10.9016 4.16836C11.2166 3.56037 11.9646 3.32337 12.5726 3.63837C12.7996 3.75537 12.9846 3.94037 13.1026 4.16836Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 21 icon with style variants.
+class _StarStar21Icon {
+  const _StarStar21Icon();
+
+  /// outline style
+  _StarStar21Outline get outline => const _StarStar21Outline();
+}
+
+/// star 21 — outline style variants.
+class _StarStar21Outline {
+  const _StarStar21Outline();
+
+  /// star 21 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 21',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.806 8.54902L9.42942 11.2961L9.42822 11.2985C9.18044 11.7886 8.70848 12.1262 8.16547 12.203C8.16493 12.203 8.1644 12.2031 8.16387 12.2032L5.0762 12.6479C5.03881 12.6528 5.00478 12.6702 4.97977 12.696C4.91803 12.7604 4.91959 12.8628 4.9841 12.9254C4.98424 12.9256 4.98397 12.9253 4.9841 12.9254L7.21303 15.0648C7.21324 15.065 7.21281 15.0646 7.21303 15.0648C7.61165 15.4459 7.7957 16.0016 7.70055 16.5462L7.17413 19.5641C7.16896 19.5991 7.1747 19.6363 7.19288 19.6712C7.23868 19.7563 7.34422 19.7881 7.42914 19.743L7.43568 19.7396L10.1906 18.3118C10.6778 18.06 11.257 18.0596 11.7443 18.3113L14.5044 19.742C14.5385 19.76 14.5771 19.7666 14.615 19.7607C14.7103 19.7449 14.7742 19.6564 14.7607 19.5626L14.2346 16.5477C14.2346 16.5476 14.2347 16.5479 14.2346 16.5477C14.1383 16.002 14.3216 15.446 14.7214 15.0645C14.7218 15.0641 14.7223 15.0636 14.7228 15.0631L16.9482 12.925C16.9483 12.9249 16.9481 12.9251 16.9482 12.925C16.9741 12.8999 16.9917 12.8656 16.9966 12.8293C17.008 12.7392 16.9445 12.6586 16.8573 12.6472L16.848 12.6459L13.7688 12.2024C13.7683 12.2024 13.7677 12.2023 13.7672 12.2022C13.2244 12.1255 12.7516 11.7879 12.5045 11.2963L11.1295 8.5487C11.1117 8.51564 11.0852 8.49011 11.0541 8.47407L11.0527 8.47334C10.9629 8.42679 10.8534 8.46113 10.806 8.54902ZM11.742 7.14111C10.9167 6.71398 9.90066 7.03565 9.47265 7.86175L8.08956 10.6218C8.08969 10.6215 8.08944 10.622 8.08956 10.6218C8.0632 10.6733 8.01274 10.7097 7.95538 10.7178L4.87439 11.1614C4.50383 11.2116 4.16005 11.3852 3.89987 11.6549C3.26273 12.3168 3.28323 13.3688 3.94311 14.0054L3.94447 14.0067L6.17696 16.1495C6.21494 16.1858 6.23172 16.2378 6.22293 16.2881L5.69542 19.3122L5.69402 19.3205C5.63509 19.6823 5.6972 20.0507 5.86659 20.3719L5.86756 20.3737C6.30058 21.1893 7.31182 21.5009 8.12864 21.07L10.88 19.644C10.8799 19.644 10.88 19.6439 10.88 19.644C10.9351 19.6156 11.0003 19.6154 11.0554 19.6438C11.0553 19.6437 11.0555 19.6439 11.0554 19.6438L13.8057 21.0694C14.1263 21.2382 14.4929 21.299 14.8514 21.2419L14.8529 21.2417C15.7659 21.0945 16.3885 20.2356 16.2411 19.3209L15.712 16.2883L15.7117 16.2866C15.7028 16.2364 15.7194 16.1855 15.757 16.1496L17.9895 14.0047C18.2602 13.7436 18.4342 13.3981 18.4836 13.0264L18.4838 13.0252C18.6028 12.1182 17.9668 11.2829 17.0579 11.1606L13.9799 10.7174L13.9773 10.717C13.9196 10.7089 13.8702 10.6731 13.8448 10.6229C13.8449 10.6231 13.8448 10.6228 13.8448 10.6229L12.4678 7.87114L12.4632 7.86203C12.3033 7.55311 12.0518 7.30097 11.742 7.14111Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.548 2.73633C18.873 2.73633 19.1611 2.94568 19.2614 3.25484C19.5646 4.18941 20.297 4.92173 21.2315 5.225C21.5407 5.32532 21.75 5.61335 21.75 5.93838C21.75 6.2634 21.5407 6.55144 21.2315 6.65176C20.297 6.95503 19.5646 7.68735 19.2614 8.62192C19.1611 8.93107 18.873 9.14043 18.548 9.14043C18.223 9.14043 17.9349 8.93107 17.8346 8.62192C17.5313 7.68735 16.799 6.95503 15.8645 6.65176C15.5553 6.55144 15.3459 6.2634 15.3459 5.93838C15.3459 5.61335 15.5553 5.32532 15.8645 5.225C16.799 4.92173 17.5313 4.18941 17.8346 3.25484C17.9349 2.94568 18.223 2.73633 18.548 2.73633ZM17.6884 5.93838C18.0119 6.1853 18.3011 6.47444 18.548 6.79794C18.7949 6.47444 19.0841 6.1853 19.4076 5.93838C19.0841 5.69146 18.7949 5.40232 18.548 5.07882C18.3011 5.40232 18.0119 5.69146 17.6884 5.93838Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.20735 5.18848C4.62157 5.18848 4.95735 5.52426 4.95735 5.93848V6.3974H5.41807C5.83229 6.3974 6.16807 6.73319 6.16807 7.1474C6.16807 7.56161 5.83229 7.8974 5.41807 7.8974H4.95735V8.35655C4.95735 8.77076 4.62157 9.10655 4.20735 9.10655C3.79314 9.10655 3.45735 8.77076 3.45735 8.35655V7.8974H3C2.58579 7.8974 2.25 7.56161 2.25 7.1474C2.25 6.73319 2.58579 6.3974 3 6.3974H3.45735V5.93848C3.45735 5.52426 3.79314 5.18848 4.20735 5.18848Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 22 icon with style variants.
+class _StarStar22Icon {
+  const _StarStar22Icon();
+
+  /// outline style
+  _StarStar22Outline get outline => const _StarStar22Outline();
+}
+
+/// star 22 — outline style variants.
+class _StarStar22Outline {
+  const _StarStar22Outline();
+
+  /// star 22 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 22',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4307 4.50991L14.2589 8.15837L14.2601 8.16076C14.5528 8.73966 15.1103 9.13841 15.7518 9.2289C15.7522 9.22897 15.7527 9.22903 15.7532 9.2291L19.8489 9.81892C19.9534 9.83276 20.0495 9.88144 20.1213 9.95581C20.2974 10.139 20.2922 10.4301 20.1092 10.6071C20.1091 10.6073 20.1094 10.6069 20.1092 10.6071L17.1504 13.4471C17.1501 13.4473 17.1498 13.4476 17.1496 13.4478C16.6796 13.8972 16.4635 14.5514 16.5756 15.1933C16.5756 15.1933 16.5756 15.1932 16.5756 15.1933L17.2747 19.2012C17.2902 19.301 17.2734 19.4044 17.2245 19.4976C17.1003 19.7303 16.8116 19.8183 16.5791 19.6949L16.5726 19.6914L12.9165 17.7965C12.3406 17.4989 11.6561 17.4985 11.0801 17.7961L7.41936 19.6936C7.3272 19.7424 7.22211 19.76 7.11921 19.7439C6.85886 19.7016 6.6826 19.4581 6.72227 19.1994L7.42097 15.1949C7.42103 15.1946 7.42092 15.1953 7.42097 15.1949C7.53434 14.5517 7.3183 13.8961 6.84689 13.4465C6.84643 13.446 6.84598 13.4456 6.84552 13.4452L3.89106 10.6066C3.89096 10.6065 3.89117 10.6067 3.89106 10.6066C3.81666 10.5347 3.7678 10.4383 3.75396 10.3353C3.72099 10.0816 3.8994 9.85089 4.15003 9.81799L4.15933 9.81677L8.24666 9.2281C8.24713 9.22803 8.24761 9.22796 8.24809 9.2279C8.88926 9.13743 9.44767 8.73869 9.73949 8.15828L11.5653 4.50962C11.6123 4.42064 11.6842 4.34979 11.771 4.30505L11.7724 4.30432C12.0119 4.18025 12.3054 4.2727 12.4307 4.50991ZM11.0831 2.97209C12.0583 2.46731 13.2587 2.8474 13.7644 3.82336L15.5987 7.484C15.5989 7.4843 15.5991 7.48461 15.5992 7.48492C15.6705 7.6251 15.806 7.72181 15.9617 7.74366L20.0506 8.33249C20.4883 8.39153 20.8942 8.59639 21.2012 8.91475C21.9528 9.6954 21.9285 10.9363 21.1501 11.6872L21.1488 11.6885L18.1878 14.5305L18.1864 14.5317C18.077 14.6363 18.0274 14.7876 18.0532 14.9353L18.7533 18.9485L18.7547 18.9568C18.8242 19.3837 18.751 19.8187 18.5508 20.1983L18.5498 20.2001C18.0384 21.1633 16.8439 21.5312 15.8794 21.0217L12.2271 19.1287C12.2273 19.1288 12.227 19.1286 12.2271 19.1287C12.0832 19.0545 11.9126 19.0544 11.7687 19.1287L8.12146 21.0192C8.1204 21.0197 8.11934 21.0203 8.11827 21.0209C7.73948 21.2206 7.30618 21.2925 6.88258 21.2251L6.88106 21.2248C5.80295 21.0511 5.06792 20.0368 5.24197 18.957L5.94358 14.9355L5.94387 14.9338C5.97001 14.786 5.92072 14.6358 5.81132 14.5316L2.84976 11.6862C2.53049 11.3783 2.3252 10.9707 2.26694 10.5322L2.26678 10.531C2.12632 9.46053 2.8772 8.47505 3.94963 8.33143L8.03551 7.74303L8.03817 7.74266C8.19427 7.72075 8.32917 7.62379 8.39918 7.4848C8.39913 7.48491 8.39923 7.48469 8.39918 7.4848L10.2267 3.83275L10.2313 3.82364C10.4203 3.45852 10.7174 3.16078 11.0831 2.97209Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.74902C11.5858 2.74902 11.25 3.08481 11.25 3.49902V18.2982C11.25 18.7124 11.5858 19.0482 12 19.0482C12.4142 19.0482 12.75 18.7124 12.75 18.2982V3.49902C12.75 3.08481 12.4142 2.74902 12 2.74902Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.0682 14.6826C18.1934 14.2878 17.9747 13.8662 17.5799 13.7411L3.29491 9.21375C2.90005 9.08861 2.47851 9.30726 2.35336 9.70212C2.22822 10.097 2.44687 10.5185 2.84173 10.6437L17.1267 15.171C17.5216 15.2961 17.9431 15.0775 18.0682 14.6826Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.90833 14.6826C5.78319 14.2878 6.00183 13.8662 6.39669 13.7411L20.6817 9.21375C21.0765 9.08861 21.4981 9.30726 21.6232 9.70212C21.7483 10.097 21.5297 10.5185 21.1348 10.6437L6.84987 15.171C6.45501 15.2961 6.03347 15.0775 5.90833 14.6826Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7474 7.66701C16.0812 7.91222 16.1531 8.38163 15.9079 8.71547L7.08888 20.7218C6.84367 21.0556 6.37427 21.1275 6.04043 20.8823C5.7066 20.6371 5.63476 20.1676 5.87997 19.8338L14.6989 7.82748C14.9441 7.49365 15.4136 7.4218 15.7474 7.66701Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.28313 7.66544C7.94842 7.90946 7.87491 8.37861 8.11893 8.71332L16.8724 20.7197C17.1165 21.0544 17.5856 21.1279 17.9203 20.8839C18.255 20.6399 18.3285 20.1707 18.0845 19.836L9.331 7.82963C9.08698 7.49493 8.61783 7.42142 8.28313 7.66544Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 23 icon with style variants.
+class _StarStar23Icon {
+  const _StarStar23Icon();
+
+  /// outline style
+  _StarStar23Outline get outline => const _StarStar23Outline();
+}
+
+/// star 23 — outline style variants.
+class _StarStar23Outline {
+  const _StarStar23Outline();
+
+  /// star 23 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 23',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.806 8.54902L9.42942 11.2961L9.42822 11.2985C9.18044 11.7886 8.70848 12.1262 8.16547 12.203C8.16493 12.203 8.1644 12.2031 8.16387 12.2032L5.0762 12.6479C5.03881 12.6528 5.00478 12.6702 4.97977 12.696C4.91803 12.7604 4.91959 12.8628 4.9841 12.9254C4.98424 12.9256 4.98397 12.9253 4.9841 12.9254L7.21303 15.0648C7.21324 15.065 7.21281 15.0646 7.21303 15.0648C7.61165 15.4459 7.7957 16.0016 7.70055 16.5462L7.17413 19.5641C7.16896 19.5991 7.1747 19.6363 7.19288 19.6712C7.23868 19.7563 7.34422 19.7881 7.42914 19.743L7.43568 19.7396L10.1906 18.3118C10.6778 18.06 11.257 18.0596 11.7443 18.3113L14.5044 19.742C14.5385 19.76 14.5771 19.7666 14.615 19.7607C14.7103 19.7449 14.7742 19.6564 14.7607 19.5626L14.2346 16.5477C14.2346 16.5476 14.2347 16.5479 14.2346 16.5477C14.1383 16.002 14.3216 15.446 14.7214 15.0645C14.7218 15.0641 14.7223 15.0636 14.7228 15.0631L16.9482 12.925C16.9483 12.9249 16.9481 12.9251 16.9482 12.925C16.9741 12.8999 16.9917 12.8656 16.9966 12.8293C17.008 12.7392 16.9445 12.6586 16.8573 12.6472L16.848 12.6459L13.7688 12.2024C13.7683 12.2024 13.7677 12.2023 13.7672 12.2022C13.2244 12.1255 12.7516 11.7879 12.5045 11.2963L11.1295 8.5487C11.1117 8.51564 11.0852 8.49011 11.0541 8.47407L11.0527 8.47334C10.9629 8.42679 10.8534 8.46113 10.806 8.54902ZM11.742 7.14111C10.9167 6.71398 9.90066 7.03565 9.47265 7.86175L8.08956 10.6218C8.08969 10.6215 8.08944 10.622 8.08956 10.6218C8.0632 10.6733 8.01274 10.7097 7.95538 10.7178L4.87439 11.1614C4.50383 11.2116 4.16005 11.3852 3.89987 11.6549C3.26273 12.3168 3.28323 13.3688 3.94311 14.0054L3.94447 14.0067L6.17696 16.1495C6.21494 16.1858 6.23172 16.2378 6.22293 16.2881L5.69542 19.3122L5.69402 19.3205C5.63509 19.6823 5.6972 20.0507 5.86659 20.3719L5.86756 20.3737C6.30058 21.1893 7.31182 21.5009 8.12864 21.07L10.88 19.644C10.8799 19.644 10.88 19.6439 10.88 19.644C10.9351 19.6156 11.0003 19.6154 11.0554 19.6438C11.0553 19.6437 11.0555 19.6439 11.0554 19.6438L13.8057 21.0694C14.1263 21.2382 14.4929 21.299 14.8514 21.2419L14.8529 21.2417C15.7659 21.0945 16.3885 20.2356 16.2411 19.3209L15.712 16.2883L15.7117 16.2866C15.7028 16.2364 15.7194 16.1855 15.757 16.1496L17.9895 14.0047C18.2602 13.7436 18.4342 13.3981 18.4836 13.0264L18.4838 13.0252C18.6028 12.1182 17.9668 11.2829 17.0579 11.1606L13.9799 10.7174L13.9773 10.717C13.9196 10.7089 13.8702 10.6731 13.8448 10.6229C13.8449 10.6231 13.8448 10.6228 13.8448 10.6229L12.4678 7.87114L12.4632 7.86203C12.3033 7.55311 12.0518 7.30097 11.742 7.14111Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.548 2.73633C18.873 2.73633 19.1611 2.94568 19.2614 3.25484C19.5646 4.18941 20.297 4.92173 21.2315 5.225C21.5407 5.32532 21.75 5.61335 21.75 5.93838C21.75 6.2634 21.5407 6.55144 21.2315 6.65176C20.297 6.95503 19.5646 7.68735 19.2614 8.62192C19.1611 8.93107 18.873 9.14043 18.548 9.14043C18.223 9.14043 17.9349 8.93107 17.8346 8.62192C17.5313 7.68735 16.799 6.95503 15.8645 6.65176C15.5553 6.55144 15.3459 6.2634 15.3459 5.93838C15.3459 5.61335 15.5553 5.32532 15.8645 5.225C16.799 4.92173 17.5313 4.18941 17.8346 3.25484C17.9349 2.94568 18.223 2.73633 18.548 2.73633ZM17.6884 5.93838C18.0119 6.1853 18.3011 6.47444 18.548 6.79794C18.7949 6.47444 19.0841 6.1853 19.4076 5.93838C19.0841 5.69146 18.7949 5.40232 18.548 5.07882C18.3011 5.40232 18.0119 5.69146 17.6884 5.93838Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.20735 5.18848C4.62157 5.18848 4.95735 5.52426 4.95735 5.93848V6.3974H5.41807C5.83229 6.3974 6.16807 6.73319 6.16807 7.1474C6.16807 7.56161 5.83229 7.8974 5.41807 7.8974H4.95735V8.35655C4.95735 8.77076 4.62157 9.10655 4.20735 9.10655C3.79314 9.10655 3.45735 8.77076 3.45735 8.35655V7.8974H3C2.58579 7.8974 2.25 7.56161 2.25 7.1474C2.25 6.73319 2.58579 6.3974 3 6.3974H3.45735V5.93848C3.45735 5.52426 3.79314 5.18848 4.20735 5.18848Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 24 icon with style variants.
+class _StarStar24Icon {
+  const _StarStar24Icon();
+
+  /// outline style
+  _StarStar24Outline get outline => const _StarStar24Outline();
+}
+
+/// star 24 — outline style variants.
+class _StarStar24Outline {
+  const _StarStar24Outline();
+
+  /// star 24 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 24',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.44954 5.47119C8.95553 3.7721 10.2301 2.07422 11.9995 2.07422C13.769 2.07422 15.0435 3.77211 14.5495 5.47119L11.9995 14.2416L9.44954 5.47119ZM11.9995 3.57422C11.2295 3.57422 10.6749 4.31305 10.8899 5.05241L11.9995 8.86885L13.1091 5.05241C13.3241 4.31305 12.7695 3.57422 11.9995 3.57422Z" fill="#030303"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9995 9.75842L14.5495 18.5288C15.0435 20.2279 13.769 21.9258 11.9995 21.9258C10.2301 21.9258 8.95553 20.2279 9.44954 18.5288L11.9995 9.75842ZM11.9995 15.1312L10.8899 18.9476C10.6749 19.687 11.2295 20.4258 11.9995 20.4258C12.7695 20.4258 13.3241 19.687 13.1091 18.9476L11.9995 15.1312Z" fill="#030303"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.3778 6.52757C17.6022 5.2502 19.7099 5.50505 20.5946 7.03743C21.4793 8.56981 20.6462 10.5225 18.9277 10.9443L10.0574 13.1211L16.3778 6.52757ZM19.2956 7.78743C18.9106 7.12061 17.9934 7.00972 17.4606 7.56556L14.7103 10.4347L18.5702 9.48749C19.318 9.30397 19.6806 8.45424 19.2956 7.78743Z" fill="#030303"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9421 10.8797L7.62169 17.4732C6.39724 18.7506 4.28956 18.4958 3.40484 16.9634C2.52012 15.431 3.35326 13.4783 5.07171 13.0566L13.9421 10.8797ZM9.28916 13.5661L5.42921 14.5133C4.68143 14.6968 4.31889 15.5466 4.70388 16.2134C5.08886 16.8802 6.00602 16.9911 6.53884 16.4352L9.28916 13.5661Z" fill="#030303"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0574 10.8795L18.9277 13.0563C20.6462 13.478 21.4793 15.4308 20.5946 16.9631C19.7099 18.4955 17.6022 18.7504 16.3778 17.473L10.0574 10.8795ZM14.7103 13.5658L17.4606 16.435C17.9934 16.9908 18.9106 16.88 19.2956 16.2131C19.6806 15.5463 19.318 14.6966 18.5702 14.5131L14.7103 13.5658Z" fill="#030303"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.53884 7.56556C6.00602 7.00972 5.08886 7.12061 4.70387 7.78743C4.31889 8.45425 4.68143 9.30397 5.42921 9.48748L9.28916 10.4347L6.53884 7.56556ZM3.40484 7.03743C4.28956 5.50505 6.39724 5.2502 7.62169 6.52757L13.9421 13.1211L5.07171 10.9443C3.35326 10.5225 2.52012 8.56981 3.40484 7.03743Z" fill="#030303"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star 25 icon with style variants.
+class _StarStar25Icon {
+  const _StarStar25Icon();
+
+  /// outline style
+  _StarStar25Outline get outline => const _StarStar25Outline();
+}
+
+/// star 25 — outline style variants.
+class _StarStar25Outline {
+  const _StarStar25Outline();
+
+  /// star 25 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star 25',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5693 4.50991L9.74111 8.15837L9.73991 8.16076C9.44724 8.73966 8.88967 9.13841 8.24824 9.2289C8.24777 9.22897 8.2473 9.22903 8.24683 9.2291L4.15107 9.81892C4.04663 9.83276 3.95049 9.88144 3.87866 9.95581C3.70259 10.139 3.7078 10.4301 3.89077 10.6071C3.89094 10.6073 3.89059 10.6069 3.89077 10.6071L6.84962 13.4471C6.84989 13.4473 6.85016 13.4476 6.85044 13.4478C7.32037 13.8972 7.5365 14.5514 7.42443 15.1933C7.42442 15.1933 7.42444 15.1932 7.42443 15.1933L6.72531 19.2012C6.70976 19.301 6.72659 19.4044 6.77551 19.4976C6.8997 19.7303 7.18835 19.8183 7.4209 19.6949L7.42744 19.6914L11.0835 17.7965C11.6594 17.4989 12.3439 17.4985 12.9199 17.7961L16.5806 19.6936C16.6728 19.7424 16.7779 19.76 16.8808 19.7439C17.1411 19.7016 17.3174 19.4581 17.2777 19.1994L16.579 15.1949C16.579 15.1946 16.5791 15.1953 16.579 15.1949C16.4657 14.5517 16.6817 13.8961 17.1531 13.4465C17.1536 13.446 17.154 13.4456 17.1545 13.4452L20.1089 10.6066C20.109 10.6065 20.1088 10.6067 20.1089 10.6066C20.1833 10.5347 20.2322 10.4383 20.246 10.3353C20.279 10.0816 20.1006 9.85089 19.85 9.81799L19.8407 9.81677L15.7533 9.2281C15.7529 9.22803 15.7524 9.22796 15.7519 9.2279C15.1107 9.13743 14.5523 8.73869 14.2605 8.15828L12.4347 4.50962C12.3877 4.42064 12.3158 4.34979 12.229 4.30505L12.2276 4.30432C11.9881 4.18025 11.6946 4.2727 11.5693 4.50991ZM12.9169 2.97209C11.9417 2.46731 10.7413 2.8474 10.2356 3.82336L8.40126 7.484C8.4011 7.4843 8.40094 7.48461 8.40079 7.48492C8.32954 7.6251 8.19398 7.72181 8.03835 7.74366L3.9494 8.33249C3.51175 8.39153 3.1058 8.59639 2.79875 8.91475C2.04725 9.6954 2.07145 10.9363 2.84988 11.6872L2.85124 11.6885L5.81224 14.5305L5.81355 14.5317C5.92301 14.6363 5.97258 14.7876 5.94678 14.9353L5.24673 18.9485L5.24533 18.9568C5.1758 19.3837 5.24901 19.8187 5.44921 20.1983L5.45018 20.2001C5.96162 21.1633 7.15612 21.5312 8.12063 21.0217L11.7729 19.1287C11.7727 19.1288 11.773 19.1286 11.7729 19.1287C11.9168 19.0545 12.0874 19.0544 12.2313 19.1287L15.8785 21.0192C15.8796 21.0197 15.8807 21.0203 15.8817 21.0209C16.2605 21.2206 16.6938 21.2925 17.1174 21.2251L17.1189 21.2248C18.1971 21.0511 18.9321 20.0368 18.758 18.957L18.0564 14.9355L18.0561 14.9338C18.03 14.786 18.0793 14.6358 18.1887 14.5316L21.1502 11.6862C21.4695 11.3783 21.6748 10.9707 21.7331 10.5322L21.7332 10.531C21.8737 9.46053 21.1228 8.47505 20.0504 8.33143L15.9645 7.74303L15.9618 7.74266C15.8057 7.72075 15.6708 7.62379 15.6008 7.4848C15.6009 7.48491 15.6008 7.48469 15.6008 7.4848L13.7733 3.83275L13.7687 3.82364C13.5797 3.45852 13.2826 3.16078 12.9169 2.97209Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -300,48 +1178,8 @@ class _StarStarLight {
 class _StarStarsIcon {
   const _StarStarsIcon();
 
-  /// bold style
-  _StarStarsBold get bold => const _StarStarsBold();
-  /// bulk style
-  _StarStarsBulk get bulk => const _StarStarsBulk();
-  /// light style
-  _StarStarsLight get light => const _StarStarsLight();
-  /// outline style
-  _StarStarsOutline get outline => const _StarStarsOutline();
   /// twoTone style
   _StarStarsTwotone get twoTone => const _StarStarsTwotone();
-  /// broken style
-  _StarStarsBroken get broken => const _StarStarsBroken();
-}
-
-/// stars — bulk style variants.
-class _StarStarsBulk {
-  const _StarStarsBulk();
-
-  /// stars — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'stars',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.5484 8.55375L18.8064 7.38075C18.6944 7.33475 18.6104 7.23175 18.5854 7.10275L17.9944 4.22275C17.9934 4.22075 17.9934 4.21975 17.9924 4.21775C17.9344 3.94475 17.7904 3.69375 17.5694 3.48375C17.0064 2.97175 16.1244 3.01075 15.5994 3.58175L13.6424 5.78375C13.5584 5.87875 13.4414 5.92575 13.3074 5.90775L10.3674 5.55875C10.0514 5.51175 9.72444 5.57975 9.47744 5.74075C9.16244 5.92375 8.93944 6.22075 8.84944 6.57475C8.75744 6.93375 8.81243 7.30575 9.00343 7.62275L10.5334 10.1527C10.6004 10.2617 10.6064 10.3867 10.5544 10.5027L9.31943 13.1627C9.19443 13.4317 9.16144 13.7447 9.23044 14.0467C9.40244 14.7897 10.1484 15.2537 10.8834 15.0817L13.7934 14.4497C13.9134 14.4177 14.0384 14.4527 14.1354 14.5427L16.3234 16.5407C16.5434 16.7437 16.8194 16.8687 17.1234 16.9017C17.1714 16.9067 17.2204 16.9087 17.2684 16.9087C17.5844 16.9087 17.8894 16.8017 18.1384 16.5997C18.4264 16.3657 18.6054 16.0337 18.6434 15.6577L18.9044 12.7357C18.9154 12.6147 18.9824 12.5087 19.0944 12.4507L21.6914 11.0167C21.9584 10.8627 22.1694 10.6247 22.2864 10.3457C22.5744 9.65475 22.2434 8.84975 21.5484 8.55375Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1558 15.8155C13.089 15.7072 12.961 15.6528 12.8367 15.6798L11.0953 16.0587C9.84226 16.3497 8.55326 15.5517 8.25626 14.2727C8.13826 13.7497 8.19426 13.2087 8.41126 12.7407L9.13856 11.1736C9.19421 11.0537 9.16482 10.9115 9.06621 10.8235L7.72426 9.62569C7.47626 9.40869 7.16126 9.30569 6.83026 9.32569C6.49726 9.34869 6.19426 9.50169 5.98426 9.74669C5.80926 9.93769 5.70426 10.1807 5.68026 10.4497L5.47426 12.8697C5.46826 12.9397 5.42126 13.0117 5.35826 13.0477L3.22726 14.2697C2.64326 14.6057 2.43726 15.3507 2.76626 15.9287C2.90626 16.1757 3.12126 16.3667 3.36826 16.4647L5.64726 17.3927C5.70026 17.4117 5.74626 17.4697 5.76026 17.5347L6.25826 19.9097C6.38526 20.4857 6.88426 20.8747 7.47026 20.8747C7.55926 20.8747 7.65226 20.8647 7.74426 20.8457C8.00526 20.7777 8.23026 20.6407 8.39326 20.4497L10.0033 18.5897C10.0503 18.5327 10.1263 18.5037 10.2013 18.5097L12.6253 18.7487C12.9453 18.7867 13.2733 18.6987 13.5313 18.4947C13.7903 18.2907 13.9533 17.9957 13.9893 17.6637C14.0183 17.3967 13.9603 17.1327 13.8183 16.8897L13.1558 15.8155Z" fill="black"/> </svg>',
-    category: 'Star',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// stars — broken style variants.
-class _StarStarsBroken {
-  const _StarStarsBroken();
-
-  /// stars — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'stars',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.66989 19.6402C8.64625 19.7871 8.67091 19.9372 8.7408 20.0672C8.91656 20.3992 9.32765 20.5252 9.65963 20.3491L11.6823 19.3011C11.8817 19.1981 12.1181 19.1981 12.3175 19.3011L14.3402 20.3491C14.4707 20.4182 14.6208 20.4432 14.7667 20.4191C15.1377 20.3601 15.3896 20.0112 15.331 19.6402L14.9425 17.4191C14.9045 17.2001 14.9774 16.977 15.1388 16.8241L16.7761 15.2511C16.885 15.145 16.9559 15.006 16.9755 14.856C17.0238 14.4891 16.7658 14.1521 16.3989 14.1041L14.1346 13.778C13.9137 13.747 13.7215 13.61 13.6218 13.41L12.6094 11.3879C12.5446 11.2619 12.4419 11.16 12.3165 11.095C11.9794 10.92 11.5652 11.0519 11.3905 11.3879L10.377 13.41C10.2763 13.61 10.0851 13.747 9.86313 13.779L7.59891 14.1041C7.44988 14.124 7.31013 14.194 7.20426 14.3041C6.94834 14.5701 6.95654 14.994 7.22274 15.2511L8.86106 16.8241" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6683 13.2822C21.0362 13.3302 21.2942 13.6672 21.2459 14.0343C21.2253 14.1842 21.1554 14.3233 21.0454 14.4292L19.4082 16.0012C19.2479 16.1553 19.1749 16.3783 19.2129 16.5973L19.6004 18.8183C19.66 19.1893 19.4072 19.5374 19.0372 19.5974C18.8902 19.6204 18.7412 19.5963 18.6106 19.5274L17.4492 18.9253" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.1641 11.5573L15.6615 10.5663C15.8352 10.2293 16.2494 10.0982 16.5865 10.2722C16.7119 10.3382 16.8147 10.4403 16.8795 10.5663L17.8908 12.5883" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.36369 8.18878L8.68945 7.35782M11.9681 6.47433L11.9856 5.4043M14.5448 8.14809L15.3074 7.39801" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.83626 11.5573L8.3388 10.5663C8.16511 10.2293 7.75091 10.0982 7.4138 10.2722C7.28841 10.3382 7.18563 10.4403 7.12088 10.5663L6.10955 12.5883C6.00883 12.7873 5.81663 12.9253 5.59566 12.9563L3.33244 13.2823C2.96449 13.3303 2.70653 13.6673 2.75484 14.0344C2.77539 14.1843 2.84529 14.3234 2.95526 14.4293L4.59252 16.0013C4.75286 16.1554 4.82583 16.3784 4.7878 16.5973L4.40031 18.8184C4.3407 19.1894 4.59354 19.5374 4.96355 19.5975C5.11052 19.6205 5.25956 19.5964 5.39009 19.5275L6.55149 18.9254" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Star',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// stars — twoTone style variants.
@@ -359,28 +1197,44 @@ class _StarStarsTwotone {
 
 }
 
-/// stars — outline style variants.
-class _StarStarsOutline {
-  const _StarStarsOutline();
+/// stars 1 icon with style variants.
+class _StarStars1Icon {
+  const _StarStars1Icon();
 
-  /// stars — outline / regular
+  /// twoTone style
+  _StarStars1Twotone get twoTone => const _StarStars1Twotone();
+}
+
+/// stars 1 — twoTone style variants.
+class _StarStars1Twotone {
+  const _StarStars1Twotone();
+
+  /// stars 1 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'stars',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.34149 20.2664C9.08118 20.2663 8.82581 20.1953 8.60278 20.061C8.37975 19.9268 8.19748 19.7344 8.0755 19.5044C7.92854 19.2288 7.87651 18.9125 7.92749 18.6044L8.31549 16.3754L6.7015 14.8754C6.50897 14.6903 6.37251 14.4546 6.30786 14.1955C6.2432 13.9364 6.25295 13.6642 6.33597 13.4104C6.41898 13.1565 6.57191 12.9312 6.77719 12.7604C6.98247 12.5895 7.23178 12.48 7.49649 12.4444L9.75351 12.1204L10.7175 10.1354C10.8926 9.79542 11.1955 9.53888 11.5597 9.42224C11.9239 9.30559 12.3195 9.33839 12.6595 9.51341C12.925 9.64909 13.1407 9.86545 13.2755 10.1314V10.1314L14.2885 12.1534L16.5025 12.4414C16.8741 12.4929 17.2103 12.6893 17.4375 12.9877C17.6648 13.2862 17.7647 13.6625 17.7155 14.0344C17.6729 14.3516 17.525 14.6453 17.2955 14.8684L15.6555 16.4444L16.0665 18.5904C16.11 18.8532 16.0792 19.1228 15.9778 19.3691C15.8763 19.6153 15.7082 19.8283 15.4922 19.9842C15.2763 20.1401 15.0211 20.2326 14.7555 20.2514C14.4898 20.2701 14.2242 20.2144 13.9885 20.0904L11.9685 19.0444L10.0015 20.0924C9.79922 20.204 9.57247 20.2637 9.34149 20.2664V20.2664ZM11.9975 17.5614C12.2278 17.561 12.4548 17.6159 12.6595 17.7214L14.5595 18.7084L14.1965 16.6344C14.1561 16.4043 14.1736 16.1678 14.2472 15.9461C14.3209 15.7245 14.4485 15.5246 14.6185 15.3644L16.1515 13.8914L14.0215 13.6064C13.7922 13.5746 13.5741 13.4874 13.3863 13.3521C13.1984 13.2169 13.0464 13.0378 12.9435 12.8304L11.9585 10.8634L11.0405 12.8324C10.9367 13.039 10.7844 13.2173 10.5967 13.3523C10.409 13.4872 10.1914 13.5748 9.96249 13.6074L7.85449 13.9074L9.3735 15.3664C9.54176 15.5266 9.66777 15.726 9.74035 15.9467C9.81293 16.1674 9.82982 16.4026 9.78949 16.6314L9.42849 18.7044L11.3285 17.7184C11.5357 17.6132 11.7651 17.5594 11.9975 17.5614V17.5614Z" fill="black"/> <path d="M18.9245 19.4418C18.6927 19.4418 18.4644 19.3852 18.2595 19.2768L17.1015 18.6768C16.9316 18.5816 16.8054 18.4241 16.7495 18.2376C16.6937 18.051 16.7125 17.8501 16.8021 17.6772C16.8918 17.5043 17.0451 17.3731 17.2298 17.3112C17.4144 17.2494 17.6158 17.2618 17.7915 17.3458L18.8325 17.8848L18.4715 15.8118C18.4307 15.5826 18.4473 15.347 18.5199 15.1258C18.5925 14.9047 18.7188 14.7051 18.8875 14.5448L20.4245 13.0688L18.2975 12.7858C18.069 12.7536 17.8517 12.6666 17.6641 12.5321C17.4766 12.3977 17.3243 12.2198 17.2205 12.0138L16.2705 10.1138L15.8335 10.9818C15.7433 11.1579 15.587 11.2913 15.3988 11.3527C15.2107 11.4142 15.0058 11.3988 14.829 11.3098C14.6522 11.2209 14.5177 11.0656 14.4548 10.8779C14.392 10.6902 14.4059 10.4853 14.4935 10.3078L14.9935 9.31676C15.1135 9.08097 15.2964 8.88298 15.522 8.74469C15.7475 8.6064 16.0069 8.5332 16.2715 8.5332C16.5361 8.5332 16.7955 8.6064 17.021 8.74469C17.2466 8.88298 17.4295 9.08097 17.5495 9.31676L18.5635 11.3418L20.7765 11.6298C21.1484 11.6807 21.485 11.877 21.7125 12.1755C21.9401 12.4741 22.04 12.8507 21.9905 13.2228C21.9471 13.5412 21.7978 13.8356 21.5665 14.0588L19.9295 15.6318L20.3405 17.7788C20.3712 17.9647 20.3651 18.1548 20.3223 18.3383C20.2795 18.5218 20.201 18.6951 20.0912 18.8482C19.9815 19.0014 19.8426 19.1314 19.6825 19.2308C19.5225 19.3302 19.3444 19.3972 19.1585 19.4278C19.081 19.4385 19.0028 19.4432 18.9245 19.4418Z" fill="black"/> <path d="M9.36307 8.02491C9.2514 8.02505 9.14112 8.00025 9.04025 7.95233C8.93939 7.90441 8.85052 7.83457 8.78009 7.74791L8.10507 6.91691C7.98178 6.76233 7.92452 6.56532 7.94574 6.36874C7.96696 6.17216 8.06494 5.9919 8.21838 5.8672C8.37183 5.7425 8.56831 5.68343 8.76508 5.70285C8.96185 5.72227 9.14297 5.81861 9.26907 5.97091L9.94409 6.80191C10.0334 6.91186 10.0898 7.04486 10.1067 7.18552C10.1236 7.32619 10.1003 7.46876 10.0395 7.59673C9.9787 7.7247 9.88289 7.83284 9.76318 7.90861C9.64348 7.98439 9.50474 8.02471 9.36307 8.02491V8.02491ZM14.5431 7.98391C14.3942 7.98398 14.2486 7.93971 14.1249 7.85674C14.0012 7.77377 13.905 7.65586 13.8486 7.51803C13.7922 7.38019 13.7781 7.22869 13.8081 7.08281C13.8381 6.93693 13.9109 6.80328 14.0171 6.6989L14.7791 5.9489C14.8493 5.87983 14.9325 5.82527 15.0239 5.78834C15.1152 5.7514 15.2129 5.73283 15.3114 5.73366C15.41 5.7345 15.5074 5.75474 15.5981 5.79321C15.6888 5.83169 15.771 5.88765 15.8401 5.95791C15.9092 6.02816 15.9637 6.11134 16.0006 6.20268C16.0376 6.29402 16.0562 6.39175 16.0553 6.49027C16.0545 6.58879 16.0343 6.68619 15.9958 6.77689C15.9573 6.86759 15.9013 6.94983 15.8311 7.0189L15.0691 7.7689C14.9291 7.90752 14.7401 7.98547 14.5431 7.98591V7.98391ZM11.9661 6.3099H11.9531C11.7564 6.30649 11.569 6.22598 11.4311 6.08569C11.2933 5.94541 11.216 5.75658 11.2161 5.5599V5.5469L11.2341 4.4779C11.2358 4.27899 11.3165 4.08891 11.4583 3.94948C11.6002 3.81004 11.7917 3.73268 11.9906 3.7344C12.1895 3.73613 12.3796 3.8168 12.519 3.95867C12.6584 4.10054 12.7358 4.29199 12.7341 4.4909V4.5029L12.7161 5.5729C12.7124 5.76947 12.6318 5.95677 12.4916 6.09456C12.3513 6.23236 12.1627 6.30968 11.9661 6.3099V6.3099Z" fill="black"/> <path d="M5.07166 19.4412C4.86446 19.4421 4.65958 19.3977 4.47126 19.3113C4.28294 19.2249 4.1157 19.0985 3.98121 18.9408C3.84672 18.7832 3.74819 18.5982 3.69248 18.3986C3.63678 18.199 3.62525 17.9897 3.65867 17.7852L4.04667 15.5542L2.43467 14.0542C2.20284 13.8312 2.05338 13.5361 2.01066 13.2172C1.9858 13.0322 1.99777 12.8441 2.04585 12.6637C2.09393 12.4833 2.17719 12.3141 2.29084 12.166C2.40449 12.0179 2.54627 11.8937 2.70808 11.8005C2.86988 11.7074 3.04849 11.6471 3.23365 11.6232L5.48667 11.2982L6.44868 9.31424C6.60308 9.01006 6.86085 8.77088 7.17573 8.63965C7.4906 8.50842 7.84194 8.49374 8.16667 8.59824C8.34633 8.65508 8.51289 8.74714 8.65659 8.86904C8.8003 8.99094 8.91829 9.14025 9.00367 9.30824L9.50367 10.3082C9.5913 10.4857 9.60521 10.6907 9.54237 10.8784C9.47952 11.0661 9.345 11.2213 9.16816 11.3103C8.99132 11.3992 8.7865 11.4147 8.59834 11.3532C8.41017 11.2918 8.25393 11.1584 8.16367 10.9822L7.72266 10.1042L6.77766 12.0122C6.67346 12.2191 6.52072 12.3977 6.33247 12.5327C6.14421 12.6676 5.92605 12.755 5.69666 12.7872L3.57166 13.0852L5.10966 14.5402C5.27841 14.7009 5.40458 14.901 5.47685 15.1225C5.54911 15.344 5.5652 15.58 5.52366 15.8092L5.16065 17.8932L6.20466 17.3402C6.38034 17.2562 6.58179 17.2439 6.76643 17.3057C6.95107 17.3676 7.10442 17.4988 7.19404 17.6717C7.28366 17.8446 7.30252 18.0455 7.24665 18.2321C7.19078 18.4186 7.06456 18.5761 6.89466 18.6712L5.73365 19.2712C5.53018 19.3811 5.3029 19.4395 5.07166 19.4412Z" fill="black"/> </svg> ',
+    name: 'stars 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2471 4.70124L17.838 7.58398C17.8968 7.86823 18.092 8.1055 18.3592 8.21886L21.0954 9.39129C21.5405 9.57546 21.7513 10.0861 21.5671 10.5312C21.4915 10.7131 21.3562 10.8648 21.1837 10.9603L18.5955 12.3863C18.3413 12.5248 18.1736 12.7804 18.1485 13.069L17.8876 15.9913C17.8378 16.4776 17.403 16.831 16.9167 16.7812C16.7251 16.7612 16.5457 16.6796 16.4047 16.5486L14.2153 14.5494C13.9995 14.3528 13.7023 14.2732 13.4171 14.3355L10.5198 14.9724C10.0437 15.082 9.56925 14.7848 9.45964 14.3088C9.41684 14.1205 9.43586 13.9243 9.51501 13.7486L10.7503 11.0867C10.872 10.8247 10.8546 10.5195 10.7044 10.2727L9.17394 7.743C8.92575 7.33045 9.05814 6.79464 9.47087 6.54576C9.63982 6.4441 9.83884 6.40271 10.0348 6.42836L12.9906 6.7811C13.2787 6.81652 13.5664 6.70865 13.7602 6.49208L15.7156 4.29087C16.0481 3.92653 16.6128 3.90108 16.9771 4.23364C17.1133 4.35737 17.2075 4.5206 17.2471 4.70124Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.6047 14.5193C12.5055 14.7362 12.5208 14.9881 12.6459 15.1911L13.9162 17.2537C13.9981 17.39 14.0327 17.5491 14.0158 17.7075C13.9721 18.1084 13.6119 18.398 13.2109 18.3542L10.7741 18.1126C10.5343 18.0891 10.2984 18.1831 10.1405 18.3651L8.53918 20.216C8.43634 20.337 8.29711 20.4213 8.14203 20.4563C7.74814 20.5441 7.35752 20.2966 7.26964 19.9027L6.77284 17.5323C6.72431 17.2982 6.5621 17.1048 6.34035 17.0159L4.08055 16.0974C3.92989 16.0358 3.80424 15.9246 3.72468 15.7828C3.53062 15.4357 3.65393 14.9967 4.00101 14.8026L6.13058 13.5766C6.33865 13.4578 6.47572 13.2444 6.49643 13.0057L6.70178 10.5853C6.71676 10.4334 6.77821 10.2904 6.87784 10.1758C7.14433 9.86794 7.60971 9.83414 7.9176 10.1006L9.73366 11.7159C9.91347 11.8746 10.1598 11.9352 10.3925 11.8783" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Star',
-    style: IconfyStyle.outline,
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
 }
 
-/// stars — bold style variants.
-class _StarStarsBold {
-  const _StarStarsBold();
+/// stars 2 icon with style variants.
+class _StarStars2Icon {
+  const _StarStars2Icon();
 
-  /// stars — bold / regular
+  /// bold style
+  _StarStars2Bold get bold => const _StarStars2Bold();
+}
+
+/// stars 2 — bold style variants.
+class _StarStars2Bold {
+  const _StarStars2Bold();
+
+  /// stars 2 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'stars',
+    name: 'stars 2',
     svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3119 17.252L16.9449 15.686C17.0979 15.545 17.1959 15.353 17.2229 15.145C17.2899 14.639 16.9349 14.172 16.4339 14.104L14.1689 13.784C14.0299 13.765 13.9089 13.678 13.8459 13.55L12.8329 11.53C12.7489 11.361 12.6129 11.221 12.4289 11.118C11.9679 10.884 11.4019 11.069 11.1659 11.529L10.1539 13.549C10.0889 13.677 9.96794 13.765 9.82794 13.784L7.56594 14.104C7.35994 14.131 7.16794 14.229 7.02194 14.379C6.67094 14.752 6.68194 15.323 7.04994 15.682L8.68494 17.25C8.78894 17.353 8.83494 17.491 8.81094 17.628L8.42294 19.852C8.38994 20.057 8.42394 20.261 8.51994 20.44C8.63894 20.661 8.83494 20.822 9.07494 20.894C9.16294 20.92 9.25294 20.933 9.34194 20.933C9.49294 20.933 9.64194 20.896 9.77494 20.823L11.7939 19.775C11.9219 19.711 12.0759 19.711 12.2019 19.773L14.2229 20.822C14.3949 20.914 14.5949 20.947 14.8069 20.919C15.3129 20.837 15.6589 20.358 15.5769 19.848L15.1879 17.629C15.1639 17.491 15.2099 17.353 15.3119 17.252Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.9881 14.383C22.0391 14.009 21.9391 13.637 21.7081 13.335C21.4771 13.034 21.1441 12.84 20.7731 12.79L18.5611 12.506L17.5521 10.492C17.4241 10.231 17.2171 10.015 16.9241 9.852C16.2171 9.496 15.3501 9.779 14.9921 10.486L14.4941 11.475C14.3081 11.845 14.4571 12.296 14.8271 12.482C15.1961 12.67 15.6471 12.519 15.8341 12.149L16.2701 11.282L17.2201 13.177C17.4311 13.6 17.8361 13.891 18.3001 13.955L20.4081 14.253L18.8791 15.72C18.5441 16.053 18.3931 16.525 18.4741 16.981L18.8361 19.055L17.7941 18.516C17.4261 18.325 16.9731 18.469 16.7831 18.837C16.5921 19.205 16.7371 19.657 17.1041 19.848L18.2581 20.445C18.4611 20.552 18.6871 20.609 18.9291 20.609C19.0041 20.609 19.0801 20.603 19.1571 20.592C19.5331 20.531 19.8641 20.327 20.0881 20.017C20.3121 19.707 20.4021 19.329 20.3391 18.944L19.9271 16.793L21.5741 15.214C21.7991 14.989 21.9461 14.694 21.9881 14.383Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9549 7.47186H11.9679C12.3759 7.47186 12.7109 7.14386 12.7179 6.73486L12.7359 5.66486V5.65286C12.7359 5.24386 12.4089 4.90886 11.9979 4.90186C11.5749 4.87486 11.2429 5.22486 11.2359 5.63886L11.2179 6.70886V6.72186C11.2169 7.12986 11.5449 7.46486 11.9549 7.47186Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5448 9.15187C14.7348 9.15187 14.9248 9.07987 15.0708 8.93687L15.8328 8.18687C16.1278 7.89587 16.1318 7.42087 15.8418 7.12587C15.5508 6.83087 15.0758 6.82787 14.7808 7.11687L14.0188 7.86687C13.7238 8.15787 13.7198 8.63287 14.0098 8.92787C14.1568 9.07687 14.3508 9.15187 14.5448 9.15187Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.78263 8.91522C8.93063 9.09722 9.14663 9.19122 9.36463 9.19122C9.53163 9.19122 9.69863 9.13622 9.83763 9.02322C10.0196 8.87522 10.1146 8.65922 10.1146 8.44122C10.1146 8.27522 10.0586 8.10722 9.94563 7.96822L9.27063 7.13822C9.00863 6.81622 8.53563 6.76822 8.21563 7.03022C8.03363 7.17822 7.93863 7.39422 7.93863 7.61222C7.93863 7.77822 7.99363 7.94622 8.10763 8.08522L8.78263 8.91522Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.20594 18.5154L5.16394 19.0574L5.52494 16.9824C5.60694 16.5244 5.45594 16.0524 5.11094 15.7104L3.57594 14.2554L5.69694 13.9544C6.16394 13.8904 6.56793 13.5994 6.77893 13.1774L7.72794 11.2784L8.16594 12.1484C8.35193 12.5184 8.80394 12.6694 9.17294 12.4814C9.54293 12.2954 9.69194 11.8444 9.50594 11.4744L9.00594 10.4824C8.64994 9.77839 7.78294 9.49539 7.04694 9.86739C6.78294 10.0144 6.57594 10.2304 6.45094 10.4864L5.48994 12.4694L3.23094 12.7884C2.85594 12.8394 2.52194 13.0334 2.29094 13.3344C2.05994 13.6364 1.96094 14.0084 2.01194 14.3814C2.05294 14.6934 2.20094 14.9884 2.43594 15.2224L4.04794 16.7234L3.65994 18.9524C3.59794 19.3284 3.68794 19.7064 3.91194 20.0164C4.13594 20.3274 4.46594 20.5314 4.86194 20.5954C4.93194 20.6044 5.00194 20.6094 5.07194 20.6094C5.30794 20.6094 5.53593 20.5544 5.73494 20.4484L6.89494 19.8474C7.26294 19.6574 7.40694 19.2044 7.21694 18.8364C7.02594 18.4684 6.57493 18.3244 6.20594 18.5154Z" fill="black"/> </svg>',
     category: 'Star',
     style: IconfyStyle.bold,
@@ -389,16 +1243,316 @@ class _StarStarsBold {
 
 }
 
-/// stars — light style variants.
-class _StarStarsLight {
-  const _StarStarsLight();
+/// stars 3 icon with style variants.
+class _StarStars3Icon {
+  const _StarStars3Icon();
 
-  /// stars — light / regular
+  /// bold style
+  _StarStars3Bold get bold => const _StarStars3Bold();
+}
+
+/// stars 3 — bold style variants.
+class _StarStars3Bold {
+  const _StarStars3Bold();
+
+  /// stars 3 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'stars',
+    name: 'stars 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6558 15.8155C12.589 15.7072 12.461 15.6528 12.3367 15.6798L10.5953 16.0587C9.34226 16.3497 8.05326 15.5517 7.75626 14.2727C7.63826 13.7497 7.69426 13.2087 7.91126 12.7407L8.63856 11.1736C8.69421 11.0537 8.66482 10.9115 8.56621 10.8235L7.22426 9.62569C6.97626 9.40869 6.66126 9.30569 6.33026 9.32569C5.99726 9.34869 5.69426 9.50169 5.48426 9.74669C5.30926 9.93769 5.20426 10.1807 5.18026 10.4497L4.97426 12.8697C4.96826 12.9397 4.92126 13.0117 4.85826 13.0477L2.72726 14.2697C2.14326 14.6057 1.93726 15.3507 2.26626 15.9287C2.40626 16.1757 2.62126 16.3667 2.86826 16.4647L5.14726 17.3927C5.20026 17.4117 5.24626 17.4697 5.26026 17.5347L5.75826 19.9097C5.88526 20.4857 6.38426 20.8747 6.97026 20.8747C7.05926 20.8747 7.15226 20.8647 7.24426 20.8457C7.50526 20.7777 7.73026 20.6407 7.89326 20.4497L9.50326 18.5897C9.55026 18.5327 9.62626 18.5037 9.70126 18.5097L12.1253 18.7487C12.4453 18.7867 12.7733 18.6987 13.0313 18.4947C13.2903 18.2907 13.4533 17.9957 13.4893 17.6637C13.5183 17.3967 13.4603 17.1327 13.3183 16.8897L12.6558 15.8155Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0484 8.55375L18.3064 7.38075C18.1944 7.33475 18.1104 7.23175 18.0854 7.10275L17.4944 4.22275C17.4934 4.22075 17.4934 4.21975 17.4924 4.21775C17.4344 3.94475 17.2904 3.69375 17.0694 3.48375C16.5064 2.97175 15.6244 3.01075 15.0994 3.58175L13.1424 5.78375C13.0584 5.87875 12.9414 5.92575 12.8074 5.90775L9.86737 5.55875C9.55137 5.51175 9.22437 5.57975 8.97737 5.74075C8.66237 5.92375 8.43937 6.22075 8.34937 6.57475C8.25737 6.93375 8.31237 7.30575 8.50337 7.62275L10.0334 10.1527C10.1004 10.2617 10.1064 10.3867 10.0544 10.5027L8.81937 13.1627C8.69437 13.4317 8.66137 13.7447 8.73037 14.0467C8.90237 14.7897 9.64837 15.2537 10.3834 15.0817L13.2934 14.4497C13.4134 14.4177 13.5384 14.4527 13.6354 14.5427L15.8234 16.5407C16.0434 16.7437 16.3194 16.8687 16.6234 16.9017C16.6714 16.9067 16.7204 16.9087 16.7684 16.9087C17.0844 16.9087 17.3894 16.8017 17.6384 16.5997C17.9264 16.3657 18.1054 16.0337 18.1434 15.6577L18.4044 12.7357C18.4154 12.6147 18.4824 12.5087 18.5944 12.4507L21.1914 11.0167C21.4584 10.8627 21.6694 10.6247 21.7864 10.3457C22.0744 9.65475 21.7434 8.84975 21.0484 8.55375Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// stars 4 icon with style variants.
+class _StarStars4Icon {
+  const _StarStars4Icon();
+
+  /// bold style
+  _StarStars4Bold get bold => const _StarStars4Bold();
+  /// bulk style
+  _StarStars4Bulk get bulk => const _StarStars4Bulk();
+  /// light style
+  _StarStars4Light get light => const _StarStars4Light();
+  /// outline style
+  _StarStars4Outline get outline => const _StarStars4Outline();
+  /// twoTone style
+  _StarStars4Twotone get twoTone => const _StarStars4Twotone();
+  /// broken style
+  _StarStars4Broken get broken => const _StarStars4Broken();
+}
+
+/// stars 4 — bulk style variants.
+class _StarStars4Bulk {
+  const _StarStars4Bulk();
+
+  /// stars 4 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'stars 4',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3392 15.511L8.70824 15.283C8.62224 15.267 8.54824 15.215 8.51324 15.147L7.77924 13.677C7.77824 13.675 7.77624 13.673 7.77624 13.67C7.70624 13.541 7.59724 13.433 7.46024 13.358C7.28624 13.265 7.08624 13.247 6.89424 13.304C6.70124 13.364 6.54424 13.495 6.44824 13.677L5.71424 15.143C5.67724 15.215 5.60424 15.267 5.52824 15.282L3.87624 15.513C3.71124 15.544 3.56624 15.62 3.45624 15.734C3.31824 15.875 3.24524 16.062 3.25024 16.26C3.25424 16.457 3.33524 16.638 3.47324 16.768L4.66524 17.922C4.72124 17.974 4.74624 18.048 4.73224 18.126L4.45124 19.739C4.42624 19.893 4.45324 20.057 4.52824 20.205C4.62124 20.381 4.77624 20.509 4.96524 20.566C5.03724 20.588 5.11024 20.599 5.18224 20.599C5.30324 20.599 5.42224 20.569 5.53024 20.511L6.99224 19.754C7.06824 19.716 7.15824 19.717 7.22824 19.751L8.69524 20.511C8.84624 20.589 9.00824 20.614 9.15724 20.586C9.35324 20.556 9.52524 20.453 9.64224 20.294C9.75924 20.134 9.80624 19.937 9.77424 19.736L9.49424 18.127C9.48124 18.049 9.50524 17.973 9.56324 17.919L10.7432 16.776C10.8682 16.665 10.9492 16.51 10.9692 16.341C11.0212 15.937 10.7452 15.573 10.3392 15.511Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5179 16.7752C21.6419 16.6642 21.7219 16.5092 21.7439 16.3412C21.7959 15.9372 21.5199 15.5722 21.1119 15.5112L19.4819 15.2832C19.3949 15.2672 19.3209 15.2142 19.2859 15.1472L18.5519 13.6772L18.5499 13.6732C18.4819 13.5432 18.3729 13.4342 18.2329 13.3582C18.0569 13.2652 17.8579 13.2462 17.6669 13.3052C17.4749 13.3642 17.3179 13.4952 17.2219 13.6772L16.4879 15.1432C16.4509 15.2142 16.3759 15.2672 16.3029 15.2812L14.6499 15.5132C14.4849 15.5432 14.3389 15.6202 14.2299 15.7332C14.0919 15.8752 14.0179 16.0622 14.0229 16.2602C14.0269 16.4572 14.1079 16.6392 14.2469 16.7682L15.4389 17.9212C15.4959 17.9742 15.5199 18.0482 15.5059 18.1262L15.2239 19.7382C15.1989 19.8912 15.2259 20.0562 15.3019 20.2062C15.3949 20.3812 15.5509 20.5092 15.7399 20.5672C15.8109 20.5882 15.8839 20.5992 15.9559 20.5992C16.0769 20.5992 16.1969 20.5692 16.3049 20.5112L17.7659 19.7542C17.8399 19.7162 17.9309 19.7172 18.0009 19.7512L19.4679 20.5102C19.6159 20.5872 19.7839 20.6142 19.9299 20.5862C20.1259 20.5572 20.2989 20.4532 20.4159 20.2932C20.5339 20.1332 20.5809 19.9372 20.5479 19.7362L20.2679 18.1252C20.2539 18.0482 20.2789 17.9742 20.3369 17.9192L21.5179 16.7752Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5432 12.5467C14.7392 12.5177 14.9122 12.4137 15.0292 12.2547C15.1472 12.0947 15.1932 11.8977 15.1612 11.6967L14.8812 10.0887C14.8672 10.0077 14.8942 9.92768 14.9492 9.86968L16.1292 8.73668C16.2532 8.62867 16.3332 8.47368 16.3562 8.30067C16.4072 7.89768 16.1322 7.53268 15.7272 7.47167L14.0792 7.23168C14.0022 7.22168 13.9332 7.17268 13.8982 7.10868L13.1662 5.63868C13.1652 5.63568 13.1642 5.63368 13.1632 5.63168C13.0942 5.50367 12.9852 5.39568 12.8462 5.31868C12.6712 5.22568 12.4692 5.20768 12.2812 5.26568C12.0882 5.32468 11.9312 5.45568 11.8352 5.63768L11.1022 7.10368C11.0642 7.17568 10.9902 7.22768 10.9162 7.24268L9.26222 7.47368C9.09722 7.50467 8.95122 7.58167 8.84222 7.69567C8.70622 7.83467 8.63122 8.02667 8.63622 8.22268C8.64122 8.41968 8.72222 8.60068 8.86122 8.73067L10.0442 9.86368C10.1062 9.92768 10.1332 10.0067 10.1192 10.0867L9.83722 11.6977C9.81122 11.8517 9.83822 12.0167 9.91522 12.1667C10.0082 12.3417 10.1632 12.4697 10.3522 12.5267C10.4242 12.5487 10.4972 12.5597 10.5692 12.5597C10.6902 12.5597 10.8092 12.5297 10.9172 12.4717L12.3782 11.7147C12.4542 11.6777 12.5442 11.6767 12.6152 11.7127L14.0812 12.4707C14.2292 12.5477 14.3962 12.5767 14.5432 12.5467Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// stars 4 — broken style variants.
+class _StarStars4Broken {
+  const _StarStars4Broken();
+
+  /// stars 4 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'stars 4',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.19783 19.7785C4.18183 19.8845 4.19883 19.9935 4.24983 20.0879C4.37683 20.3282 4.67482 20.4197 4.91582 20.2922L6.38384 19.5313C6.52884 19.4564 6.69983 19.4564 6.84383 19.5313L8.31084 20.2922C8.40684 20.3419 8.51483 20.3603 8.62083 20.3428C8.88883 20.3 9.07182 20.047 9.02882 19.7775L8.74782 18.1672C8.72082 18.0085 8.77285 17.8461 8.88985 17.7351L10.0778 16.5938C10.1568 16.5179 10.2088 16.4167 10.2218 16.3077C10.2568 16.0421 10.0698 15.7969 9.80483 15.7618L8.16182 15.5254C8.00182 15.503 7.86284 15.4038 7.78984 15.2588L7.05583 13.7924C7.00783 13.701 6.93382 13.627 6.84282 13.5794C6.59882 13.4529 6.29884 13.5482 6.17284 13.7924L5.43684 15.2598C5.36384 15.4038 5.22483 15.504 5.06383 15.5264L3.42284 15.7618C3.31284 15.7774 3.21282 15.828 3.13582 15.9068C2.94982 16.1005 2.95584 16.4079 3.14784 16.5938L4.33684 17.7351" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.6642 17.7351L20.8521 16.5938C20.9301 16.5179 20.9822 16.4167 20.9962 16.3077C21.0312 16.0421 20.8442 15.7969 20.5782 15.7618L18.9362 15.5254C18.7752 15.503 18.6361 15.4038 18.5631 15.2588L17.8292 13.7924C17.7822 13.701 17.7082 13.627 17.6162 13.5794C17.3722 13.4529 17.0722 13.5482 16.9462 13.7924L16.2101 15.2598C16.1371 15.4038 15.9982 15.504 15.8382 15.5264L14.1962 15.7618C14.0862 15.7774 13.9862 15.828 13.9092 15.9068C13.7232 16.1005 13.7292 16.4079 13.9222 16.5938L15.1111 17.7351C15.2281 17.847 15.2811 18.0085 15.2531 18.1672L14.9721 19.7785C14.9551 19.8845 14.9732 19.9935 15.0232 20.0879C15.1512 20.3282 15.4482 20.4197 15.6902 20.2922L17.1572 19.5313C17.3022 19.4564 17.4732 19.4564 17.6172 19.5313L19.0851 20.2922C19.1801 20.3419 19.2882 20.3603 19.3942 20.3428C19.6632 20.3 19.8462 20.047 19.8032 19.7775" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.58504 11.7375C9.56804 11.8435 9.58604 11.9525 9.63704 12.0469C9.76404 12.2872 10.0621 12.3797 10.3031 12.2512L11.77 11.4903C11.915 11.4164 12.087 11.4164 12.231 11.4903L13.698 12.2512C13.793 12.3008 13.901 12.3193 14.007 12.3018C14.276 12.259 14.459 12.006 14.416 11.7365L14.1351 10.1261C14.1081 9.96753 14.1601 9.80503 14.2771 9.69413L15.465 8.55284C15.544 8.47694 15.5951 8.37573 15.6091 8.26673C15.6441 8.00113 15.4571 7.75683 15.1911 7.72083L13.5491 7.48443C13.3891 7.46203 13.249 7.36283 13.176 7.21783L12.443 5.75144C12.395 5.66004 12.3211 5.58603 12.2301 5.53833C11.9851 5.41183 11.686 5.50724 11.559 5.75144L10.8241 7.21873C10.7511 7.36283 10.611 7.46303 10.451 7.48543L8.80904 7.72083C8.70004 7.73643 8.59905 7.78703 8.52205 7.86583C8.33705 8.05943 8.34205 8.36694 8.53505 8.55374L9.72404 9.69413" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// stars 4 — twoTone style variants.
+class _StarStars4Twotone {
+  const _StarStars4Twotone();
+
+  /// stars 4 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'stars 4',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.55583 13.7924L8.28984 15.2588C8.36284 15.4038 8.50182 15.503 8.66182 15.5254L10.3048 15.7618C10.5698 15.7969 10.7568 16.0421 10.7218 16.3077C10.7088 16.4167 10.6568 16.5179 10.5778 16.5938L9.38985 17.7351C9.27285 17.8461 9.22082 18.0085 9.24782 18.1672L9.52882 19.7775C9.57182 20.047 9.38883 20.3 9.12083 20.3428C9.01483 20.3603 8.90684 20.3419 8.81084 20.2922L7.34383 19.5313C7.19983 19.4564 7.02884 19.4564 6.88384 19.5313L5.41582 20.2922C5.17482 20.4197 4.87683 20.3282 4.74983 20.0879C4.69883 19.9935 4.68183 19.8845 4.69783 19.7785L4.97884 18.1672C5.00784 18.0085 4.95384 17.847 4.83684 17.7351L3.64784 16.5938C3.45584 16.4079 3.44982 16.1005 3.63582 15.9068C3.71282 15.828 3.81284 15.7774 3.92284 15.7618L5.56383 15.5264C5.72483 15.504 5.86384 15.4038 5.93684 15.2598L6.67284 13.7924C6.79884 13.5482 7.09882 13.4529 7.34282 13.5794C7.43382 13.627 7.50783 13.701 7.55583 13.7924Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.3292 13.7924L19.0631 15.2588C19.1361 15.4038 19.2752 15.503 19.4362 15.5254L21.0782 15.7618C21.3442 15.7969 21.5312 16.0421 21.4962 16.3077C21.4822 16.4167 21.4301 16.5179 21.3521 16.5938L20.1642 17.7351C20.0472 17.8461 19.9942 18.0085 20.0222 18.1672L20.3032 19.7775C20.3462 20.047 20.1632 20.3 19.8942 20.3428C19.7882 20.3603 19.6801 20.3419 19.5851 20.2922L18.1172 19.5313C17.9732 19.4564 17.8022 19.4564 17.6572 19.5313L16.1902 20.2922C15.9482 20.4197 15.6512 20.3282 15.5232 20.0879C15.4732 19.9935 15.4551 19.8845 15.4721 19.7785L15.7531 18.1672C15.7811 18.0085 15.7281 17.847 15.6111 17.7351L14.4222 16.5938C14.2292 16.4079 14.2232 16.1005 14.4092 15.9068C14.4862 15.828 14.5862 15.7774 14.6962 15.7618L16.3382 15.5264C16.4982 15.504 16.6371 15.4038 16.7101 15.2598L17.4462 13.7924C17.5722 13.5482 17.8722 13.4529 18.1162 13.5794C18.2082 13.627 18.2822 13.701 18.3292 13.7924Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.943 5.75144L13.676 7.21783C13.749 7.36283 13.8891 7.46203 14.0491 7.48443L15.6911 7.72083C15.9571 7.75683 16.1441 8.00113 16.1091 8.26673C16.0951 8.37573 16.044 8.47694 15.965 8.55284L14.7771 9.69413C14.6601 9.80503 14.6081 9.96753 14.6351 10.1261L14.916 11.7365C14.959 12.006 14.776 12.259 14.507 12.3018C14.401 12.3193 14.293 12.3008 14.198 12.2512L12.731 11.4903C12.587 11.4164 12.415 11.4164 12.27 11.4903L10.8031 12.2512C10.5621 12.3797 10.264 12.2872 10.137 12.0469C10.086 11.9525 10.068 11.8435 10.085 11.7375L10.366 10.1261C10.394 9.96753 10.341 9.80603 10.224 9.69413L9.03505 8.55374C8.84205 8.36694 8.83705 8.05943 9.02205 7.86583C9.09905 7.78703 9.20004 7.73643 9.30904 7.72083L10.951 7.48543C11.111 7.46303 11.2511 7.36283 11.3241 7.21873L12.059 5.75144C12.186 5.50724 12.4851 5.41183 12.7301 5.53833C12.8211 5.58603 12.895 5.66004 12.943 5.75144Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// stars 4 — outline style variants.
+class _StarStars4Outline {
+  const _StarStars4Outline();
+
+  /// stars 4 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'stars 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.69051 20.1808C4.56575 20.1805 4.44172 20.1616 4.3225 20.1248C4.03737 20.0365 3.79347 19.8487 3.63525 19.5955C3.47702 19.3424 3.415 19.0409 3.4605 18.7458L3.7195 17.2578L2.63149 16.2148C2.46435 16.0538 2.34592 15.8489 2.28973 15.6237C2.23353 15.3984 2.24184 15.1619 2.31371 14.9412C2.38558 14.7205 2.51812 14.5244 2.69616 14.3755C2.8742 14.2265 3.09054 14.1306 3.32049 14.0988L4.8305 13.8828L5.50552 12.5358C5.58024 12.3884 5.68364 12.2573 5.80968 12.1503C5.93572 12.0434 6.08184 11.9626 6.23949 11.9128C6.39554 11.8621 6.5602 11.843 6.72372 11.857C6.88723 11.8709 7.04627 11.9174 7.19149 11.9938C7.41837 12.1109 7.60376 12.2949 7.7225 12.5208L7.73049 12.5368L8.4035 13.8808L9.91549 14.0988C10.1451 14.1313 10.361 14.2276 10.5385 14.3768C10.716 14.526 10.848 14.7221 10.9195 14.9427C10.9909 15.1633 10.9988 15.3996 10.9424 15.6245C10.886 15.8495 10.7675 16.054 10.6005 16.2148L9.51449 17.2568L9.77151 18.7268C9.80977 18.9549 9.78375 19.189 9.69634 19.403C9.60894 19.6171 9.4636 19.8025 9.27666 19.9386C9.08973 20.0746 8.8686 20.1559 8.63805 20.1732C8.40751 20.1906 8.17668 20.1434 7.97149 20.0368L6.6195 19.3368L5.2665 20.0368C5.0892 20.1313 4.89141 20.1808 4.69051 20.1808V20.1808ZM4.5725 18.7068H4.5675H4.5725ZM4.06249 15.5068L4.86251 16.2728C5.0098 16.4129 5.11992 16.5875 5.18294 16.7807C5.24597 16.974 5.2599 17.1799 5.2235 17.3798L5.0335 18.4688L6.04549 17.9438C6.22341 17.8519 6.42075 17.804 6.62099 17.804C6.82124 17.804 7.01858 17.8519 7.19649 17.9438L8.2065 18.4678L8.01549 17.3738C7.98161 17.1746 7.99717 16.9701 8.06081 16.7783C8.12446 16.5865 8.23426 16.4133 8.38052 16.2738L9.17449 15.5108L8.06152 15.3508C7.8629 15.3225 7.67408 15.2465 7.51125 15.1293C7.34842 15.0121 7.21639 14.8572 7.12649 14.6778L6.62051 13.6678L6.11349 14.6788C6.02304 14.8588 5.89024 15.014 5.72649 15.1313C5.56275 15.2485 5.373 15.3242 5.17351 15.3518L4.06249 15.5068Z" fill="black"/> <path d="M15.466 20.1812C15.2859 20.1817 15.1079 20.143 14.9442 20.068C14.7805 19.993 14.635 19.8833 14.5178 19.7466C14.4006 19.6099 14.3144 19.4494 14.2653 19.2762C14.2161 19.103 14.2051 18.9211 14.233 18.7432L14.492 17.2592L13.403 16.2162C13.2358 16.0551 13.1174 15.8503 13.0612 15.625C13.005 15.3998 13.0133 15.1633 13.0852 14.9426C13.1571 14.7218 13.2896 14.5258 13.4676 14.3768C13.6457 14.2279 13.862 14.132 14.092 14.1002L15.602 13.8842L16.277 12.5372C16.381 12.3326 16.5396 12.1607 16.7351 12.0404C16.9306 11.9201 17.1556 11.8561 17.3852 11.8555C17.6147 11.8549 17.84 11.9176 18.0362 12.0369C18.2324 12.1561 18.3918 12.3272 18.497 12.5312V12.5382L19.17 13.8832L20.682 14.1012C20.9112 14.1334 21.1268 14.2293 21.3043 14.378C21.4817 14.5267 21.6137 14.7223 21.6854 14.9424C21.7572 15.1625 21.7656 15.3983 21.7098 15.623C21.6541 15.8477 21.5363 16.0522 21.37 16.2132L20.282 17.2592L20.539 18.7302C20.5774 18.9588 20.5511 19.1936 20.4632 19.408C20.3753 19.6225 20.2293 19.8082 20.0415 19.9441C19.8537 20.0799 19.6317 20.1607 19.4005 20.1771C19.1693 20.1936 18.9381 20.1451 18.733 20.0372L17.385 19.3372L16.033 20.0372C15.8584 20.1302 15.6638 20.1796 15.466 20.1812V20.1812ZM14.831 15.5082L15.631 16.2742C15.7773 16.4145 15.8868 16.5888 15.9496 16.7816C16.0124 16.9743 16.0266 17.1796 15.991 17.3792L15.801 18.4702L16.812 17.9452C16.9899 17.8538 17.187 17.8061 17.387 17.8061C17.587 17.8061 17.7841 17.8538 17.962 17.9452L18.974 18.4702L18.783 17.3702C18.7484 17.1711 18.7635 16.9665 18.827 16.7746C18.8905 16.5827 19.0004 16.4094 19.147 16.2702L19.941 15.5072L18.829 15.3472C18.6306 15.3187 18.4419 15.2428 18.279 15.126C18.1161 15.0093 17.9837 14.855 17.893 14.6762L17.388 13.6652L16.88 14.6752C16.7895 14.8547 16.6569 15.0096 16.4936 15.1268C16.3302 15.244 16.141 15.32 15.942 15.3482L14.831 15.5082Z" fill="black"/> <path d="M10.0786 12.1407C9.85231 12.1405 9.63035 12.0787 9.43656 11.9619C9.24276 11.8451 9.08445 11.6777 8.97858 11.4777C8.85135 11.2392 8.80603 10.9655 8.84958 10.6987L9.10758 9.21871L8.01957 8.18071C7.78453 7.95309 7.64881 7.64193 7.64188 7.31482C7.63495 6.98771 7.75739 6.67107 7.98258 6.43371C8.17672 6.23437 8.43121 6.10467 8.70658 6.06471L10.2176 5.84771L10.8926 4.50171C10.9962 4.29725 11.1541 4.12532 11.3491 4.00477C11.544 3.88422 11.7684 3.81972 11.9976 3.81838C12.2268 3.81704 12.4519 3.87889 12.6483 3.99715C12.8446 4.1154 13.0046 4.28548 13.1106 4.48871L13.1166 4.50171L13.7896 5.84671L15.3016 6.06471C15.5316 6.09641 15.7481 6.19232 15.9261 6.34144C16.1041 6.49057 16.2365 6.68686 16.308 6.90779C16.3795 7.12872 16.3873 7.36534 16.3304 7.5905C16.2736 7.81565 16.1544 8.02021 15.9866 8.18071L14.9036 9.21871L15.1606 10.6877C15.1875 10.8496 15.1821 11.0152 15.1448 11.175C15.1076 11.3348 15.0391 11.4857 14.9435 11.619C14.8478 11.7523 14.7267 11.8654 14.5872 11.9519C14.4477 12.0383 14.2926 12.0964 14.1306 12.1227C13.8653 12.1665 13.593 12.1219 13.3556 11.9957L12.0056 11.2957L10.6536 11.9957C10.4768 12.0907 10.2793 12.1405 10.0786 12.1407V12.1407ZM9.44458 7.46771L10.2446 8.23371C10.3907 8.3732 10.5001 8.54654 10.5633 8.7384C10.6264 8.93026 10.6413 9.13473 10.6066 9.33371L10.4156 10.4277L11.4266 9.90271C11.6044 9.81225 11.8011 9.7651 12.0006 9.7651C12.2001 9.7651 12.3968 9.81225 12.5746 9.90271L13.5886 10.4287L13.3976 9.33471C13.3631 9.13448 13.3784 8.92883 13.4422 8.73593C13.5061 8.54303 13.6164 8.36883 13.7636 8.22871L14.5576 7.46671L13.4436 7.30671C13.2452 7.27818 13.0565 7.20232 12.8936 7.08553C12.7307 6.96874 12.5983 6.81446 12.5076 6.63571L12.0036 5.62471L11.4986 6.63571C11.4077 6.8151 11.2749 6.96994 11.1114 7.0871C10.948 7.20425 10.7587 7.28026 10.5596 7.30871L9.44458 7.46771Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// stars 4 — bold style variants.
+class _StarStars4Bold {
+  const _StarStars4Bold();
+
+  /// stars 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'stars 4',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.83912 15.512L8.20812 15.284C8.12212 15.268 8.04812 15.216 8.01312 15.148L7.27912 13.678C7.27812 13.676 7.27612 13.674 7.27612 13.671C7.20612 13.542 7.09712 13.434 6.96012 13.359C6.78612 13.266 6.58612 13.248 6.39412 13.305C6.20112 13.365 6.04412 13.496 5.94812 13.678L5.21412 15.144C5.17712 15.216 5.10412 15.268 5.02812 15.283L3.37612 15.514C3.21112 15.545 3.06612 15.621 2.95612 15.735C2.81812 15.876 2.74512 16.063 2.75012 16.261C2.75412 16.458 2.83512 16.639 2.97312 16.769L4.16512 17.923C4.22112 17.975 4.24612 18.049 4.23212 18.127L3.95112 19.74C3.92612 19.894 3.95312 20.058 4.02812 20.206C4.12112 20.382 4.27612 20.51 4.46512 20.567C4.53712 20.589 4.61012 20.6 4.68212 20.6C4.80312 20.6 4.92212 20.57 5.03012 20.512L6.49212 19.755C6.56812 19.717 6.65812 19.718 6.72812 19.752L8.19512 20.512C8.34612 20.59 8.50812 20.615 8.65712 20.587C8.85312 20.557 9.02512 20.454 9.14212 20.295C9.25912 20.135 9.30612 19.938 9.27412 19.737L8.99412 18.128C8.98112 18.05 9.00512 17.974 9.06312 17.92L10.2431 16.777C10.3681 16.666 10.4491 16.511 10.4691 16.342C10.5211 15.938 10.2451 15.574 9.83912 15.512Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0178 16.7762C21.1418 16.6652 21.2218 16.5102 21.2438 16.3422C21.2958 15.9382 21.0198 15.5732 20.6118 15.5122L18.9818 15.2842C18.8948 15.2682 18.8208 15.2152 18.7858 15.1482L18.0518 13.6782C18.0508 13.6772 18.0508 13.6752 18.0498 13.6742C17.9818 13.5442 17.8728 13.4352 17.7328 13.3592C17.5568 13.2662 17.3578 13.2472 17.1668 13.3062C16.9748 13.3652 16.8178 13.4962 16.7218 13.6782L15.9878 15.1442C15.9508 15.2152 15.8758 15.2682 15.8028 15.2822L14.1498 15.5142C13.9848 15.5442 13.8388 15.6212 13.7298 15.7342C13.5918 15.8762 13.5178 16.0632 13.5228 16.2612C13.5268 16.4582 13.6078 16.6402 13.7468 16.7692L14.9388 17.9222C14.9958 17.9752 15.0198 18.0492 15.0058 18.1272L14.7238 19.7392C14.6988 19.8922 14.7258 20.0572 14.8018 20.2072C14.8948 20.3822 15.0508 20.5102 15.2398 20.5682C15.3108 20.5892 15.3838 20.6002 15.4558 20.6002C15.5768 20.6002 15.6968 20.5702 15.8048 20.5122L17.2658 19.7552C17.3398 19.7172 17.4308 19.7182 17.5008 19.7522L18.9678 20.5112C19.1158 20.5882 19.2838 20.6152 19.4298 20.5872C19.6258 20.5582 19.7988 20.4542 19.9158 20.2942C20.0338 20.1342 20.0808 19.9382 20.0478 19.7372L19.7678 18.1262C19.7538 18.0492 19.7788 17.9752 19.8368 17.9202L21.0178 16.7762Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0432 12.5467C14.2392 12.5177 14.4122 12.4137 14.5292 12.2547C14.6472 12.0947 14.6932 11.8977 14.6612 11.6967L14.3812 10.0887C14.3672 10.0077 14.3942 9.92768 14.4492 9.86968L15.6292 8.73668C15.7532 8.62867 15.8332 8.47368 15.8562 8.30067C15.9072 7.89768 15.6322 7.53268 15.2272 7.47167L13.5792 7.23168C13.5022 7.22168 13.4332 7.17268 13.3982 7.10868L12.6662 5.63868C12.6652 5.63568 12.6642 5.63368 12.6632 5.63168C12.5942 5.50367 12.4852 5.39568 12.3462 5.31868C12.1712 5.22568 11.9692 5.20768 11.7812 5.26568C11.5882 5.32468 11.4312 5.45568 11.3352 5.63768L10.6022 7.10368C10.5642 7.17568 10.4902 7.22768 10.4162 7.24268L8.76222 7.47368C8.59722 7.50467 8.45122 7.58167 8.34222 7.69567C8.20622 7.83467 8.13122 8.02667 8.13622 8.22268C8.14122 8.41968 8.22222 8.60068 8.36122 8.73067L9.54422 9.86368C9.60622 9.92768 9.63322 10.0067 9.61922 10.0867L9.33722 11.6977C9.31122 11.8517 9.33822 12.0167 9.41522 12.1667C9.50822 12.3417 9.66322 12.4697 9.85222 12.5267C9.92422 12.5487 9.99722 12.5597 10.0692 12.5597C10.1902 12.5597 10.3092 12.5297 10.4172 12.4717L11.8782 11.7147C11.9542 11.6777 12.0442 11.6767 12.1152 11.7127L13.5812 12.4707C13.7292 12.5477 13.8962 12.5767 14.0432 12.5467Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// stars 4 — light style variants.
+class _StarStars4Light {
+  const _StarStars4Light();
+
+  /// stars 4 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'stars 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.05583 12.8764L7.78984 14.3428C7.86284 14.4878 8.00182 14.587 8.16182 14.6094L9.80483 14.8458C10.0698 14.8809 10.2568 15.1261 10.2218 15.3917C10.2088 15.5007 10.1568 15.6019 10.0778 15.6778L8.88985 16.8191C8.77285 16.9301 8.72082 17.0925 8.74782 17.2512L9.02882 18.8615C9.07182 19.131 8.88883 19.384 8.62083 19.4268C8.51483 19.4443 8.40684 19.4259 8.31084 19.3762L6.84383 18.6153C6.69983 18.5404 6.52884 18.5404 6.38384 18.6153L4.91582 19.3762C4.67482 19.5037 4.37683 19.4122 4.24983 19.1719C4.19883 19.0775 4.18183 18.9685 4.19783 18.8625L4.47884 17.2512C4.50784 17.0925 4.45384 16.931 4.33684 16.8191L3.14784 15.6778C2.95584 15.4919 2.94982 15.1845 3.13582 14.9908C3.21282 14.912 3.31284 14.8614 3.42284 14.8458L5.06383 14.6104C5.22483 14.588 5.36384 14.4878 5.43684 14.3438L6.17284 12.8764C6.29884 12.6322 6.59882 12.5369 6.84282 12.6634C6.93382 12.711 7.00783 12.785 7.05583 12.8764Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.8292 12.8764L18.5631 14.3428C18.6361 14.4878 18.7752 14.587 18.9362 14.6094L20.5782 14.8458C20.8442 14.8809 21.0312 15.1261 20.9962 15.3917C20.9822 15.5007 20.9301 15.6019 20.8521 15.6778L19.6642 16.8191C19.5472 16.9301 19.4942 17.0925 19.5222 17.2512L19.8032 18.8615C19.8462 19.131 19.6632 19.384 19.3942 19.4268C19.2882 19.4443 19.1801 19.4259 19.0851 19.3762L17.6172 18.6153C17.4732 18.5404 17.3022 18.5404 17.1572 18.6153L15.6902 19.3762C15.4482 19.5037 15.1512 19.4122 15.0232 19.1719C14.9732 19.0775 14.9551 18.9685 14.9721 18.8625L15.2531 17.2512C15.2811 17.0925 15.2281 16.931 15.1111 16.8191L13.9222 15.6778C13.7292 15.4919 13.7232 15.1845 13.9092 14.9908C13.9862 14.912 14.0862 14.8614 14.1962 14.8458L15.8382 14.6104C15.9982 14.588 16.1371 14.4878 16.2101 14.3438L16.9462 12.8764C17.0722 12.6322 17.3722 12.5369 17.6162 12.6634C17.7082 12.711 17.7822 12.785 17.8292 12.8764Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.443 4.83542L13.176 6.30181C13.249 6.44681 13.3891 6.54601 13.5491 6.56841L15.1911 6.80482C15.4571 6.84082 15.6441 7.08512 15.6091 7.35072C15.5951 7.45972 15.544 7.56092 15.465 7.63682L14.2771 8.77812C14.1601 8.88902 14.1081 9.05151 14.1351 9.21011L14.416 10.8205C14.459 11.09 14.276 11.343 14.007 11.3858C13.901 11.4033 13.793 11.3848 13.698 11.3352L12.231 10.5743C12.087 10.5004 11.915 10.5004 11.77 10.5743L10.3031 11.3352C10.0621 11.4637 9.76404 11.3712 9.63704 11.1309C9.58604 11.0365 9.56804 10.9275 9.58504 10.8215L9.86604 9.21011C9.89404 9.05151 9.84104 8.89002 9.72404 8.77812L8.53505 7.63772C8.34205 7.45092 8.33705 7.14342 8.52205 6.94982C8.59905 6.87102 8.70004 6.82042 8.80904 6.80482L10.451 6.56941C10.611 6.54701 10.7511 6.44681 10.8241 6.30271L11.559 4.83542C11.686 4.59122 11.9851 4.49582 12.2301 4.62232C12.3211 4.67002 12.395 4.74402 12.443 4.83542Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// stars 5 icon with style variants.
+class _StarStars5Icon {
+  const _StarStars5Icon();
+
+  /// bulk style
+  _StarStars5Bulk get bulk => const _StarStars5Bulk();
+}
+
+/// stars 5 — bulk style variants.
+class _StarStars5Bulk {
+  const _StarStars5Bulk();
+
+  /// stars 5 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'stars 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.5484 8.55375L18.8064 7.38075C18.6944 7.33475 18.6104 7.23175 18.5854 7.10275L17.9944 4.22275C17.9934 4.22075 17.9934 4.21975 17.9924 4.21775C17.9344 3.94475 17.7904 3.69375 17.5694 3.48375C17.0064 2.97175 16.1244 3.01075 15.5994 3.58175L13.6424 5.78375C13.5584 5.87875 13.4414 5.92575 13.3074 5.90775L10.3674 5.55875C10.0514 5.51175 9.72444 5.57975 9.47744 5.74075C9.16244 5.92375 8.93944 6.22075 8.84944 6.57475C8.75744 6.93375 8.81243 7.30575 9.00343 7.62275L10.5334 10.1527C10.6004 10.2617 10.6064 10.3867 10.5544 10.5027L9.31943 13.1627C9.19443 13.4317 9.16144 13.7447 9.23044 14.0467C9.40244 14.7897 10.1484 15.2537 10.8834 15.0817L13.7934 14.4497C13.9134 14.4177 14.0384 14.4527 14.1354 14.5427L16.3234 16.5407C16.5434 16.7437 16.8194 16.8687 17.1234 16.9017C17.1714 16.9067 17.2204 16.9087 17.2684 16.9087C17.5844 16.9087 17.8894 16.8017 18.1384 16.5997C18.4264 16.3657 18.6054 16.0337 18.6434 15.6577L18.9044 12.7357C18.9154 12.6147 18.9824 12.5087 19.0944 12.4507L21.6914 11.0167C21.9584 10.8627 22.1694 10.6247 22.2864 10.3457C22.5744 9.65475 22.2434 8.84975 21.5484 8.55375Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1558 15.8155C13.089 15.7072 12.961 15.6528 12.8367 15.6798L11.0953 16.0587C9.84226 16.3497 8.55326 15.5517 8.25626 14.2727C8.13826 13.7497 8.19426 13.2087 8.41126 12.7407L9.13856 11.1736C9.19421 11.0537 9.16482 10.9115 9.06621 10.8235L7.72426 9.62569C7.47626 9.40869 7.16126 9.30569 6.83026 9.32569C6.49726 9.34869 6.19426 9.50169 5.98426 9.74669C5.80926 9.93769 5.70426 10.1807 5.68026 10.4497L5.47426 12.8697C5.46826 12.9397 5.42126 13.0117 5.35826 13.0477L3.22726 14.2697C2.64326 14.6057 2.43726 15.3507 2.76626 15.9287C2.90626 16.1757 3.12126 16.3667 3.36826 16.4647L5.64726 17.3927C5.70026 17.4117 5.74626 17.4697 5.76026 17.5347L6.25826 19.9097C6.38526 20.4857 6.88426 20.8747 7.47026 20.8747C7.55926 20.8747 7.65226 20.8647 7.74426 20.8457C8.00526 20.7777 8.23026 20.6407 8.39326 20.4497L10.0033 18.5897C10.0503 18.5327 10.1263 18.5037 10.2013 18.5097L12.6253 18.7487C12.9453 18.7867 13.2733 18.6987 13.5313 18.4947C13.7903 18.2907 13.9533 17.9957 13.9893 17.6637C14.0183 17.3967 13.9603 17.1327 13.8183 16.8897L13.1558 15.8155Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// stars 6 icon with style variants.
+class _StarStars6Icon {
+  const _StarStars6Icon();
+
+  /// bulk style
+  _StarStars6Bulk get bulk => const _StarStars6Bulk();
+}
+
+/// stars 6 — bulk style variants.
+class _StarStars6Bulk {
+  const _StarStars6Bulk();
+
+  /// stars 6 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'stars 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.5484 8.55375L18.8064 7.38075C18.6944 7.33475 18.6104 7.23175 18.5854 7.10275L17.9944 4.22275C17.9934 4.22075 17.9934 4.21975 17.9924 4.21775C17.9344 3.94475 17.7904 3.69375 17.5694 3.48375C17.0064 2.97175 16.1244 3.01075 15.5994 3.58175L13.6424 5.78375C13.5584 5.87875 13.4414 5.92575 13.3074 5.90775L10.3674 5.55875C10.0514 5.51175 9.72444 5.57975 9.47744 5.74075C9.16244 5.92375 8.93944 6.22075 8.84944 6.57475C8.75744 6.93375 8.81243 7.30575 9.00343 7.62275L10.5334 10.1527C10.6004 10.2617 10.6064 10.3867 10.5544 10.5027L9.31943 13.1627C9.19443 13.4317 9.16144 13.7447 9.23044 14.0467C9.40244 14.7897 10.1484 15.2537 10.8834 15.0817L13.7934 14.4497C13.9134 14.4177 14.0384 14.4527 14.1354 14.5427L16.3234 16.5407C16.5434 16.7437 16.8194 16.8687 17.1234 16.9017C17.1714 16.9067 17.2204 16.9087 17.2684 16.9087C17.5844 16.9087 17.8894 16.8017 18.1384 16.5997C18.4264 16.3657 18.6054 16.0337 18.6434 15.6577L18.9044 12.7357C18.9154 12.6147 18.9824 12.5087 19.0944 12.4507L21.6914 11.0167C21.9584 10.8627 22.1694 10.6247 22.2864 10.3457C22.5744 9.65475 22.2434 8.84975 21.5484 8.55375Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1558 15.8155C13.089 15.7072 12.961 15.6528 12.8367 15.6798L11.0953 16.0587C9.84226 16.3497 8.55326 15.5517 8.25626 14.2727C8.13826 13.7497 8.19426 13.2087 8.41126 12.7407L9.13856 11.1736C9.19421 11.0537 9.16482 10.9115 9.06621 10.8235L7.72426 9.62569C7.47626 9.40869 7.16126 9.30569 6.83026 9.32569C6.49726 9.34869 6.19426 9.50169 5.98426 9.74669C5.80926 9.93769 5.70426 10.1807 5.68026 10.4497L5.47426 12.8697C5.46826 12.9397 5.42126 13.0117 5.35826 13.0477L3.22726 14.2697C2.64326 14.6057 2.43726 15.3507 2.76626 15.9287C2.90626 16.1757 3.12126 16.3667 3.36826 16.4647L5.64726 17.3927C5.70026 17.4117 5.74626 17.4697 5.76026 17.5347L6.25826 19.9097C6.38526 20.4857 6.88426 20.8747 7.47026 20.8747C7.55926 20.8747 7.65226 20.8647 7.74426 20.8457C8.00526 20.7777 8.23026 20.6407 8.39326 20.4497L10.0033 18.5897C10.0503 18.5327 10.1263 18.5037 10.2013 18.5097L12.6253 18.7487C12.9453 18.7867 13.2733 18.6987 13.5313 18.4947C13.7903 18.2907 13.9533 17.9957 13.9893 17.6637C14.0183 17.3967 13.9603 17.1327 13.8183 16.8897L13.1558 15.8155Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// stars 7 icon with style variants.
+class _StarStars7Icon {
+  const _StarStars7Icon();
+
+  /// broken style
+  _StarStars7Broken get broken => const _StarStars7Broken();
+}
+
+/// stars 7 — broken style variants.
+class _StarStars7Broken {
+  const _StarStars7Broken();
+
+  /// stars 7 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'stars 7',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.66989 19.6402C8.64625 19.7871 8.67091 19.9372 8.7408 20.0672C8.91656 20.3992 9.32765 20.5252 9.65963 20.3491L11.6823 19.3011C11.8817 19.1981 12.1181 19.1981 12.3175 19.3011L14.3402 20.3491C14.4707 20.4182 14.6208 20.4432 14.7667 20.4191C15.1377 20.3601 15.3896 20.0112 15.331 19.6402L14.9425 17.4191C14.9045 17.2001 14.9774 16.977 15.1388 16.8241L16.7761 15.2511C16.885 15.145 16.9559 15.006 16.9755 14.856C17.0238 14.4891 16.7658 14.1521 16.3989 14.1041L14.1346 13.778C13.9137 13.747 13.7215 13.61 13.6218 13.41L12.6094 11.3879C12.5446 11.2619 12.4419 11.16 12.3165 11.095C11.9794 10.92 11.5652 11.0519 11.3905 11.3879L10.377 13.41C10.2763 13.61 10.0851 13.747 9.86313 13.779L7.59891 14.1041C7.44988 14.124 7.31013 14.194 7.20426 14.3041C6.94834 14.5701 6.95654 14.994 7.22274 15.2511L8.86106 16.8241" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6683 13.2822C21.0362 13.3302 21.2942 13.6672 21.2459 14.0343C21.2253 14.1842 21.1554 14.3233 21.0454 14.4292L19.4082 16.0012C19.2479 16.1553 19.1749 16.3783 19.2129 16.5973L19.6004 18.8183C19.66 19.1893 19.4072 19.5374 19.0372 19.5974C18.8902 19.6204 18.7412 19.5963 18.6106 19.5274L17.4492 18.9253" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.1641 11.5573L15.6615 10.5663C15.8352 10.2293 16.2494 10.0982 16.5865 10.2722C16.7119 10.3382 16.8147 10.4403 16.8795 10.5663L17.8908 12.5883" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.36369 8.18878L8.68945 7.35782M11.9681 6.47433L11.9856 5.4043M14.5448 8.14809L15.3074 7.39801" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.83626 11.5573L8.3388 10.5663C8.16511 10.2293 7.75091 10.0982 7.4138 10.2722C7.28841 10.3382 7.18563 10.4403 7.12088 10.5663L6.10955 12.5883C6.00883 12.7873 5.81663 12.9253 5.59566 12.9563L3.33244 13.2823C2.96449 13.3303 2.70653 13.6673 2.75484 14.0344C2.77539 14.1843 2.84529 14.3234 2.95526 14.4293L4.59252 16.0013C4.75286 16.1554 4.82583 16.3784 4.7878 16.5973L4.40031 18.8184C4.3407 19.1894 4.59354 19.5374 4.96355 19.5975C5.11052 19.6205 5.25956 19.5964 5.39009 19.5275L6.55149 18.9254" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// stars 8 icon with style variants.
+class _StarStars8Icon {
+  const _StarStars8Icon();
+
+  /// broken style
+  _StarStars8Broken get broken => const _StarStars8Broken();
+}
+
+/// stars 8 — broken style variants.
+class _StarStars8Broken {
+  const _StarStars8Broken();
+
+  /// stars 8 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'stars 8',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.66989 19.6402C8.64625 19.7871 8.67091 19.9372 8.7408 20.0672C8.91656 20.3992 9.32765 20.5252 9.65963 20.3491L11.6823 19.3011C11.8817 19.1981 12.1181 19.1981 12.3175 19.3011L14.3402 20.3491C14.4707 20.4182 14.6208 20.4432 14.7667 20.4191C15.1377 20.3601 15.3896 20.0112 15.331 19.6402L14.9425 17.4191C14.9045 17.2001 14.9774 16.977 15.1388 16.8241L16.7761 15.2511C16.885 15.145 16.9559 15.006 16.9755 14.856C17.0238 14.4891 16.7658 14.1521 16.3989 14.1041L14.1346 13.778C13.9137 13.747 13.7215 13.61 13.6218 13.41L12.6094 11.3879C12.5446 11.2619 12.4419 11.16 12.3165 11.095C11.9794 10.92 11.5652 11.0519 11.3905 11.3879L10.377 13.41C10.2763 13.61 10.0851 13.747 9.86313 13.779L7.59891 14.1041C7.44988 14.124 7.31013 14.194 7.20426 14.3041C6.94834 14.5701 6.95654 14.994 7.22274 15.2511L8.86106 16.8241" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6683 13.2822C21.0362 13.3302 21.2942 13.6672 21.2459 14.0343C21.2253 14.1842 21.1554 14.3233 21.0454 14.4292L19.4082 16.0012C19.2479 16.1553 19.1749 16.3783 19.2129 16.5973L19.6004 18.8183C19.66 19.1893 19.4072 19.5374 19.0372 19.5974C18.8902 19.6204 18.7412 19.5963 18.6106 19.5274L17.4492 18.9253" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.1641 11.5573L15.6615 10.5663C15.8352 10.2293 16.2494 10.0982 16.5865 10.2722C16.7119 10.3382 16.8147 10.4403 16.8795 10.5663L17.8908 12.5883" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.36369 8.18878L8.68945 7.35782M11.9681 6.47433L11.9856 5.4043M14.5448 8.14809L15.3074 7.39801" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.83626 11.5573L8.3388 10.5663C8.16511 10.2293 7.75091 10.0982 7.4138 10.2722C7.28841 10.3382 7.18563 10.4403 7.12088 10.5663L6.10955 12.5883C6.00883 12.7873 5.81663 12.9253 5.59566 12.9563L3.33244 13.2823C2.96449 13.3303 2.70653 13.6673 2.75484 14.0344C2.77539 14.1843 2.84529 14.3234 2.95526 14.4293L4.59252 16.0013C4.75286 16.1554 4.82583 16.3784 4.7878 16.5973L4.40031 18.8184C4.3407 19.1894 4.59354 19.5374 4.96355 19.5975C5.11052 19.6205 5.25956 19.5964 5.39009 19.5275L6.55149 18.9254" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// stars 9 icon with style variants.
+class _StarStars9Icon {
+  const _StarStars9Icon();
+
+  /// light style
+  _StarStars9Light get light => const _StarStars9Light();
+}
+
+/// stars 9 — light style variants.
+class _StarStars9Light {
+  const _StarStars9Light();
+
+  /// stars 9 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'stars 9',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6094 10.4719L13.6218 12.494C13.7215 12.694 13.9137 12.831 14.1346 12.862L16.3989 13.188C16.7658 13.236 17.0238 13.5731 16.9755 13.94C16.9559 14.09 16.885 14.229 16.7761 14.3351L15.1388 15.9081C14.9774 16.061 14.9045 16.2841 14.9425 16.5031L15.331 18.7241C15.3896 19.0952 15.1377 19.4441 14.7667 19.5031C14.6208 19.5271 14.4707 19.5022 14.3402 19.4331L12.3175 18.3851C12.1181 18.2821 11.8817 18.2821 11.6823 18.3851L9.65963 19.4331C9.32765 19.6092 8.91656 19.4832 8.7408 19.1512C8.67091 19.0212 8.64625 18.8711 8.66989 18.7241L9.05735 16.5041C9.09537 16.2851 9.02242 16.061 8.86106 15.9081L7.22274 14.3351C6.95654 14.078 6.94834 13.654 7.20426 13.3881C7.31013 13.278 7.44988 13.208 7.59891 13.188L9.86313 12.8629C10.0851 12.831 10.2763 12.694 10.377 12.494L11.3905 10.4719C11.5652 10.1359 11.9794 10.0039 12.3165 10.179C12.4419 10.2439 12.5446 10.3459 12.6094 10.4719Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.1641 10.6413L15.6615 9.65027C15.8352 9.31325 16.2494 9.18221 16.5865 9.35621C16.7119 9.4222 16.8147 9.52426 16.8795 9.65027L17.8908 11.6722C17.9915 11.8713 18.1837 12.0093 18.4047 12.0403L20.6679 12.3663C21.0358 12.4143 21.2938 12.7513 21.2455 13.1183C21.2249 13.2683 21.155 13.4074 21.0451 13.5133L19.4078 15.0853C19.2475 15.2394 19.1745 15.4624 19.2125 15.6813L19.6 17.9024C19.6596 18.2734 19.4068 18.6214 19.0368 18.6815C18.8898 18.7045 18.7408 18.6804 18.6102 18.6115L17.4488 18.0094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5448 7.23207L15.3074 6.48199M9.36369 7.27277L8.68945 6.44181L9.36369 7.27277ZM11.9681 5.55831L11.9856 4.48828L11.9681 5.55831Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.83594 10.6413L8.33848 9.65027C8.16478 9.31325 7.75059 9.18221 7.41347 9.35621C7.28808 9.4222 7.1853 9.52426 7.12055 9.65027L6.10923 11.6722C6.0085 11.8713 5.81631 12.0093 5.59533 12.0403L3.33211 12.3663C2.96416 12.4143 2.70621 12.7513 2.75451 13.1183C2.77507 13.2683 2.84496 13.4074 2.95494 13.5133L4.59219 15.0853C4.75253 15.2394 4.82551 15.4624 4.78748 15.6813L4.39999 17.9024C4.34037 18.2734 4.59321 18.6214 4.96322 18.6815C5.11019 18.7045 5.25923 18.6804 5.38976 18.6115L6.55117 18.0094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Star',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// stars 10 icon with style variants.
+class _StarStars10Icon {
+  const _StarStars10Icon();
+
+  /// light style
+  _StarStars10Light get light => const _StarStars10Light();
+}
+
+/// stars 10 — light style variants.
+class _StarStars10Light {
+  const _StarStars10Light();
+
+  /// stars 10 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'stars 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.7471 4.70124L17.338 7.58398C17.3968 7.86823 17.592 8.1055 17.8592 8.21886L20.5954 9.39129C21.0405 9.57546 21.2513 10.0861 21.0671 10.5312C20.9915 10.7131 20.8562 10.8648 20.6837 10.9603L18.0955 12.3863C17.8413 12.5248 17.6736 12.7804 17.6485 13.069L17.3876 15.9913C17.3378 16.4776 16.903 16.831 16.4167 16.7812C16.2251 16.7612 16.0457 16.6796 15.9047 16.5486L13.7153 14.5494C13.4995 14.3528 13.2023 14.2732 12.9171 14.3355L10.0198 14.9724C9.54374 15.082 9.06925 14.7848 8.95964 14.3088C8.91684 14.1205 8.93586 13.9243 9.01501 13.7486L10.2503 11.0867C10.372 10.8247 10.3546 10.5195 10.2044 10.2727L8.67394 7.743C8.42575 7.33045 8.55814 6.79464 8.97087 6.54576C9.13982 6.4441 9.33884 6.40271 9.53483 6.42836L12.4906 6.7811C12.7787 6.81652 13.0664 6.70865 13.2602 6.49208L15.2156 4.29087C15.5481 3.92653 16.1128 3.90108 16.4771 4.23364C16.6133 4.35737 16.7075 4.5206 16.7471 4.70124Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.1047 14.5193C12.0055 14.7362 12.0208 14.9881 12.1459 15.1911L13.4162 17.2537C13.4981 17.39 13.5327 17.5491 13.5158 17.7075C13.4721 18.1084 13.1119 18.398 12.7109 18.3542L10.2741 18.1126C10.0343 18.0891 9.79844 18.1831 9.64054 18.3651L8.03918 20.216C7.93634 20.337 7.79711 20.4213 7.64203 20.4563C7.24814 20.5441 6.85752 20.2966 6.76964 19.9027L6.27284 17.5323C6.22431 17.2982 6.0621 17.1048 5.84035 17.0159L3.58055 16.0974C3.42989 16.0358 3.30424 15.9246 3.22468 15.7828C3.03062 15.4357 3.15393 14.9967 3.50101 14.8026L5.63058 13.5766C5.83865 13.4578 5.97572 13.2444 5.99643 13.0057L6.20178 10.5853C6.21676 10.4334 6.27821 10.2904 6.37784 10.1758C6.64433 9.86794 7.10971 9.83414 7.4176 10.1006L9.23366 11.7159C9.41347 11.8746 9.65975 11.9352 9.89249 11.8783" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// stars 11 icon with style variants.
+class _StarStars11Icon {
+  const _StarStars11Icon();
+
+  /// outline style
+  _StarStars11Outline get outline => const _StarStars11Outline();
+}
+
+/// stars 11 — outline style variants.
+class _StarStars11Outline {
+  const _StarStars11Outline();
+
+  /// stars 11 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'stars 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.34149 20.2664C9.08118 20.2663 8.82581 20.1953 8.60278 20.061C8.37975 19.9268 8.19748 19.7344 8.0755 19.5044C7.92854 19.2288 7.87651 18.9125 7.92749 18.6044L8.31549 16.3754L6.7015 14.8754C6.50897 14.6903 6.37251 14.4546 6.30786 14.1955C6.2432 13.9364 6.25295 13.6642 6.33597 13.4104C6.41898 13.1565 6.57191 12.9312 6.77719 12.7604C6.98247 12.5895 7.23178 12.48 7.49649 12.4444L9.75351 12.1204L10.7175 10.1354C10.8926 9.79542 11.1955 9.53888 11.5597 9.42224C11.9239 9.30559 12.3195 9.33839 12.6595 9.51341C12.925 9.64909 13.1407 9.86545 13.2755 10.1314V10.1314L14.2885 12.1534L16.5025 12.4414C16.8741 12.4929 17.2103 12.6893 17.4375 12.9877C17.6648 13.2862 17.7647 13.6625 17.7155 14.0344C17.6729 14.3516 17.525 14.6453 17.2955 14.8684L15.6555 16.4444L16.0665 18.5904C16.11 18.8532 16.0792 19.1228 15.9778 19.3691C15.8763 19.6153 15.7082 19.8283 15.4922 19.9842C15.2763 20.1401 15.0211 20.2326 14.7555 20.2514C14.4898 20.2701 14.2242 20.2144 13.9885 20.0904L11.9685 19.0444L10.0015 20.0924C9.79922 20.204 9.57247 20.2637 9.34149 20.2664V20.2664ZM11.9975 17.5614C12.2278 17.561 12.4548 17.6159 12.6595 17.7214L14.5595 18.7084L14.1965 16.6344C14.1561 16.4043 14.1736 16.1678 14.2472 15.9461C14.3209 15.7245 14.4485 15.5246 14.6185 15.3644L16.1515 13.8914L14.0215 13.6064C13.7922 13.5746 13.5741 13.4874 13.3863 13.3521C13.1984 13.2169 13.0464 13.0378 12.9435 12.8304L11.9585 10.8634L11.0405 12.8324C10.9367 13.039 10.7844 13.2173 10.5967 13.3523C10.409 13.4872 10.1914 13.5748 9.96249 13.6074L7.85449 13.9074L9.3735 15.3664C9.54176 15.5266 9.66777 15.726 9.74035 15.9467C9.81293 16.1674 9.82982 16.4026 9.78949 16.6314L9.42849 18.7044L11.3285 17.7184C11.5357 17.6132 11.7651 17.5594 11.9975 17.5614V17.5614Z" fill="black"/> <path d="M18.9245 19.4418C18.6927 19.4418 18.4644 19.3852 18.2595 19.2768L17.1015 18.6768C16.9316 18.5816 16.8054 18.4241 16.7495 18.2376C16.6937 18.051 16.7125 17.8501 16.8021 17.6772C16.8918 17.5043 17.0451 17.3731 17.2298 17.3112C17.4144 17.2494 17.6158 17.2618 17.7915 17.3458L18.8325 17.8848L18.4715 15.8118C18.4307 15.5826 18.4473 15.347 18.5199 15.1258C18.5925 14.9047 18.7188 14.7051 18.8875 14.5448L20.4245 13.0688L18.2975 12.7858C18.069 12.7536 17.8517 12.6666 17.6641 12.5321C17.4766 12.3977 17.3243 12.2198 17.2205 12.0138L16.2705 10.1138L15.8335 10.9818C15.7433 11.1579 15.587 11.2913 15.3988 11.3527C15.2107 11.4142 15.0058 11.3988 14.829 11.3098C14.6522 11.2209 14.5177 11.0656 14.4548 10.8779C14.392 10.6902 14.4059 10.4853 14.4935 10.3078L14.9935 9.31676C15.1135 9.08097 15.2964 8.88298 15.522 8.74469C15.7475 8.6064 16.0069 8.5332 16.2715 8.5332C16.5361 8.5332 16.7955 8.6064 17.021 8.74469C17.2466 8.88298 17.4295 9.08097 17.5495 9.31676L18.5635 11.3418L20.7765 11.6298C21.1484 11.6807 21.485 11.877 21.7125 12.1755C21.9401 12.4741 22.04 12.8507 21.9905 13.2228C21.9471 13.5412 21.7978 13.8356 21.5665 14.0588L19.9295 15.6318L20.3405 17.7788C20.3712 17.9647 20.3651 18.1548 20.3223 18.3383C20.2795 18.5218 20.201 18.6951 20.0912 18.8482C19.9815 19.0014 19.8426 19.1314 19.6825 19.2308C19.5225 19.3302 19.3444 19.3972 19.1585 19.4278C19.081 19.4385 19.0028 19.4432 18.9245 19.4418Z" fill="black"/> <path d="M9.36307 8.02491C9.2514 8.02505 9.14112 8.00025 9.04025 7.95233C8.93939 7.90441 8.85052 7.83457 8.78009 7.74791L8.10507 6.91691C7.98178 6.76233 7.92452 6.56532 7.94574 6.36874C7.96696 6.17216 8.06494 5.9919 8.21838 5.8672C8.37183 5.7425 8.56831 5.68343 8.76508 5.70285C8.96185 5.72227 9.14297 5.81861 9.26907 5.97091L9.94409 6.80191C10.0334 6.91186 10.0898 7.04486 10.1067 7.18552C10.1236 7.32619 10.1003 7.46876 10.0395 7.59673C9.9787 7.7247 9.88289 7.83284 9.76318 7.90861C9.64348 7.98439 9.50474 8.02471 9.36307 8.02491V8.02491ZM14.5431 7.98391C14.3942 7.98398 14.2486 7.93971 14.1249 7.85674C14.0012 7.77377 13.905 7.65586 13.8486 7.51803C13.7922 7.38019 13.7781 7.22869 13.8081 7.08281C13.8381 6.93693 13.9109 6.80328 14.0171 6.6989L14.7791 5.9489C14.8493 5.87983 14.9325 5.82527 15.0239 5.78834C15.1152 5.7514 15.2129 5.73283 15.3114 5.73366C15.41 5.7345 15.5074 5.75474 15.5981 5.79321C15.6888 5.83169 15.771 5.88765 15.8401 5.95791C15.9092 6.02816 15.9637 6.11134 16.0006 6.20268C16.0376 6.29402 16.0562 6.39175 16.0553 6.49027C16.0545 6.58879 16.0343 6.68619 15.9958 6.77689C15.9573 6.86759 15.9013 6.94983 15.8311 7.0189L15.0691 7.7689C14.9291 7.90752 14.7401 7.98547 14.5431 7.98591V7.98391ZM11.9661 6.3099H11.9531C11.7564 6.30649 11.569 6.22598 11.4311 6.08569C11.2933 5.94541 11.216 5.75658 11.2161 5.5599V5.5469L11.2341 4.4779C11.2358 4.27899 11.3165 4.08891 11.4583 3.94948C11.6002 3.81004 11.7917 3.73268 11.9906 3.7344C12.1895 3.73613 12.3796 3.8168 12.519 3.95867C12.6584 4.10054 12.7358 4.29199 12.7341 4.4909V4.5029L12.7161 5.5729C12.7124 5.76947 12.6318 5.95677 12.4916 6.09456C12.3513 6.23236 12.1627 6.30968 11.9661 6.3099V6.3099Z" fill="black"/> <path d="M5.07166 19.4412C4.86446 19.4421 4.65958 19.3977 4.47126 19.3113C4.28294 19.2249 4.1157 19.0985 3.98121 18.9408C3.84672 18.7832 3.74819 18.5982 3.69248 18.3986C3.63678 18.199 3.62525 17.9897 3.65867 17.7852L4.04667 15.5542L2.43467 14.0542C2.20284 13.8312 2.05338 13.5361 2.01066 13.2172C1.9858 13.0322 1.99777 12.8441 2.04585 12.6637C2.09393 12.4833 2.17719 12.3141 2.29084 12.166C2.40449 12.0179 2.54627 11.8937 2.70808 11.8005C2.86988 11.7074 3.04849 11.6471 3.23365 11.6232L5.48667 11.2982L6.44868 9.31424C6.60308 9.01006 6.86085 8.77088 7.17573 8.63965C7.4906 8.50842 7.84194 8.49374 8.16667 8.59824C8.34633 8.65508 8.51289 8.74714 8.65659 8.86904C8.8003 8.99094 8.91829 9.14025 9.00367 9.30824L9.50367 10.3082C9.5913 10.4857 9.60521 10.6907 9.54237 10.8784C9.47952 11.0661 9.345 11.2213 9.16816 11.3103C8.99132 11.3992 8.7865 11.4147 8.59834 11.3532C8.41017 11.2918 8.25393 11.1584 8.16367 10.9822L7.72266 10.1042L6.77766 12.0122C6.67346 12.2191 6.52072 12.3977 6.33247 12.5327C6.14421 12.6676 5.92605 12.755 5.69666 12.7872L3.57166 13.0852L5.10966 14.5402C5.27841 14.7009 5.40458 14.901 5.47685 15.1225C5.54911 15.344 5.5652 15.58 5.52366 15.8092L5.16065 17.8932L6.20466 17.3402C6.38034 17.2562 6.58179 17.2439 6.76643 17.3057C6.95107 17.3676 7.10442 17.4988 7.19404 17.6717C7.28366 17.8446 7.30252 18.0455 7.24665 18.2321C7.19078 18.4186 7.06456 18.5761 6.89466 18.6712L5.73365 19.2712C5.53018 19.3811 5.3029 19.4395 5.07166 19.4412Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// stars 12 icon with style variants.
+class _StarStars12Icon {
+  const _StarStars12Icon();
+
+  /// outline style
+  _StarStars12Outline get outline => const _StarStars12Outline();
+}
+
+/// stars 12 — outline style variants.
+class _StarStars12Outline {
+  const _StarStars12Outline();
+
+  /// stars 12 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'stars 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.34149 20.2664C9.08118 20.2663 8.82581 20.1953 8.60278 20.061C8.37975 19.9268 8.19748 19.7344 8.0755 19.5044C7.92854 19.2288 7.87651 18.9125 7.92749 18.6044L8.31549 16.3754L6.7015 14.8754C6.50897 14.6903 6.37251 14.4546 6.30786 14.1955C6.2432 13.9364 6.25295 13.6642 6.33597 13.4104C6.41898 13.1565 6.57191 12.9312 6.77719 12.7604C6.98247 12.5895 7.23178 12.48 7.49649 12.4444L9.75351 12.1204L10.7175 10.1354C10.8926 9.79542 11.1955 9.53888 11.5597 9.42224C11.9239 9.30559 12.3195 9.33839 12.6595 9.51341C12.925 9.64909 13.1407 9.86545 13.2755 10.1314V10.1314L14.2885 12.1534L16.5025 12.4414C16.8741 12.4929 17.2103 12.6893 17.4375 12.9877C17.6648 13.2862 17.7647 13.6625 17.7155 14.0344C17.6729 14.3516 17.525 14.6453 17.2955 14.8684L15.6555 16.4444L16.0665 18.5904C16.11 18.8532 16.0792 19.1228 15.9778 19.3691C15.8763 19.6153 15.7082 19.8283 15.4922 19.9842C15.2763 20.1401 15.0211 20.2326 14.7555 20.2514C14.4898 20.2701 14.2242 20.2144 13.9885 20.0904L11.9685 19.0444L10.0015 20.0924C9.79922 20.204 9.57247 20.2637 9.34149 20.2664V20.2664ZM11.9975 17.5614C12.2278 17.561 12.4548 17.6159 12.6595 17.7214L14.5595 18.7084L14.1965 16.6344C14.1561 16.4043 14.1736 16.1678 14.2472 15.9461C14.3209 15.7245 14.4485 15.5246 14.6185 15.3644L16.1515 13.8914L14.0215 13.6064C13.7922 13.5746 13.5741 13.4874 13.3863 13.3521C13.1984 13.2169 13.0464 13.0378 12.9435 12.8304L11.9585 10.8634L11.0405 12.8324C10.9367 13.039 10.7844 13.2173 10.5967 13.3523C10.409 13.4872 10.1914 13.5748 9.96249 13.6074L7.85449 13.9074L9.3735 15.3664C9.54176 15.5266 9.66777 15.726 9.74035 15.9467C9.81293 16.1674 9.82982 16.4026 9.78949 16.6314L9.42849 18.7044L11.3285 17.7184C11.5357 17.6132 11.7651 17.5594 11.9975 17.5614V17.5614Z" fill="black"/> <path d="M18.9245 19.4418C18.6927 19.4418 18.4644 19.3852 18.2595 19.2768L17.1015 18.6768C16.9316 18.5816 16.8054 18.4241 16.7495 18.2376C16.6937 18.051 16.7125 17.8501 16.8021 17.6772C16.8918 17.5043 17.0451 17.3731 17.2298 17.3112C17.4144 17.2494 17.6158 17.2618 17.7915 17.3458L18.8325 17.8848L18.4715 15.8118C18.4307 15.5826 18.4473 15.347 18.5199 15.1258C18.5925 14.9047 18.7188 14.7051 18.8875 14.5448L20.4245 13.0688L18.2975 12.7858C18.069 12.7536 17.8517 12.6666 17.6641 12.5321C17.4766 12.3977 17.3243 12.2198 17.2205 12.0138L16.2705 10.1138L15.8335 10.9818C15.7433 11.1579 15.587 11.2913 15.3988 11.3527C15.2107 11.4142 15.0058 11.3988 14.829 11.3098C14.6522 11.2209 14.5177 11.0656 14.4548 10.8779C14.392 10.6902 14.4059 10.4853 14.4935 10.3078L14.9935 9.31676C15.1135 9.08097 15.2964 8.88298 15.522 8.74469C15.7475 8.6064 16.0069 8.5332 16.2715 8.5332C16.5361 8.5332 16.7955 8.6064 17.021 8.74469C17.2466 8.88298 17.4295 9.08097 17.5495 9.31676L18.5635 11.3418L20.7765 11.6298C21.1484 11.6807 21.485 11.877 21.7125 12.1755C21.9401 12.4741 22.04 12.8507 21.9905 13.2228C21.9471 13.5412 21.7978 13.8356 21.5665 14.0588L19.9295 15.6318L20.3405 17.7788C20.3712 17.9647 20.3651 18.1548 20.3223 18.3383C20.2795 18.5218 20.201 18.6951 20.0912 18.8482C19.9815 19.0014 19.8426 19.1314 19.6825 19.2308C19.5225 19.3302 19.3444 19.3972 19.1585 19.4278C19.081 19.4385 19.0028 19.4432 18.9245 19.4418Z" fill="black"/> <path d="M9.36307 8.02491C9.2514 8.02505 9.14112 8.00025 9.04025 7.95233C8.93939 7.90441 8.85052 7.83457 8.78009 7.74791L8.10507 6.91691C7.98178 6.76233 7.92452 6.56532 7.94574 6.36874C7.96696 6.17216 8.06494 5.9919 8.21838 5.8672C8.37183 5.7425 8.56831 5.68343 8.76508 5.70285C8.96185 5.72227 9.14297 5.81861 9.26907 5.97091L9.94409 6.80191C10.0334 6.91186 10.0898 7.04486 10.1067 7.18552C10.1236 7.32619 10.1003 7.46876 10.0395 7.59673C9.9787 7.7247 9.88289 7.83284 9.76318 7.90861C9.64348 7.98439 9.50474 8.02471 9.36307 8.02491V8.02491ZM14.5431 7.98391C14.3942 7.98398 14.2486 7.93971 14.1249 7.85674C14.0012 7.77377 13.905 7.65586 13.8486 7.51803C13.7922 7.38019 13.7781 7.22869 13.8081 7.08281C13.8381 6.93693 13.9109 6.80328 14.0171 6.6989L14.7791 5.9489C14.8493 5.87983 14.9325 5.82527 15.0239 5.78834C15.1152 5.7514 15.2129 5.73283 15.3114 5.73366C15.41 5.7345 15.5074 5.75474 15.5981 5.79321C15.6888 5.83169 15.771 5.88765 15.8401 5.95791C15.9092 6.02816 15.9637 6.11134 16.0006 6.20268C16.0376 6.29402 16.0562 6.39175 16.0553 6.49027C16.0545 6.58879 16.0343 6.68619 15.9958 6.77689C15.9573 6.86759 15.9013 6.94983 15.8311 7.0189L15.0691 7.7689C14.9291 7.90752 14.7401 7.98547 14.5431 7.98591V7.98391ZM11.9661 6.3099H11.9531C11.7564 6.30649 11.569 6.22598 11.4311 6.08569C11.2933 5.94541 11.216 5.75658 11.2161 5.5599V5.5469L11.2341 4.4779C11.2358 4.27899 11.3165 4.08891 11.4583 3.94948C11.6002 3.81004 11.7917 3.73268 11.9906 3.7344C12.1895 3.73613 12.3796 3.8168 12.519 3.95867C12.6584 4.10054 12.7358 4.29199 12.7341 4.4909V4.5029L12.7161 5.5729C12.7124 5.76947 12.6318 5.95677 12.4916 6.09456C12.3513 6.23236 12.1627 6.30968 11.9661 6.3099V6.3099Z" fill="black"/> <path d="M5.07166 19.4412C4.86446 19.4421 4.65958 19.3977 4.47126 19.3113C4.28294 19.2249 4.1157 19.0985 3.98121 18.9408C3.84672 18.7832 3.74819 18.5982 3.69248 18.3986C3.63678 18.199 3.62525 17.9897 3.65867 17.7852L4.04667 15.5542L2.43467 14.0542C2.20284 13.8312 2.05338 13.5361 2.01066 13.2172C1.9858 13.0322 1.99777 12.8441 2.04585 12.6637C2.09393 12.4833 2.17719 12.3141 2.29084 12.166C2.40449 12.0179 2.54627 11.8937 2.70808 11.8005C2.86988 11.7074 3.04849 11.6471 3.23365 11.6232L5.48667 11.2982L6.44868 9.31424C6.60308 9.01006 6.86085 8.77088 7.17573 8.63965C7.4906 8.50842 7.84194 8.49374 8.16667 8.59824C8.34633 8.65508 8.51289 8.74714 8.65659 8.86904C8.8003 8.99094 8.91829 9.14025 9.00367 9.30824L9.50367 10.3082C9.5913 10.4857 9.60521 10.6907 9.54237 10.8784C9.47952 11.0661 9.345 11.2213 9.16816 11.3103C8.99132 11.3992 8.7865 11.4147 8.59834 11.3532C8.41017 11.2918 8.25393 11.1584 8.16367 10.9822L7.72266 10.1042L6.77766 12.0122C6.67346 12.2191 6.52072 12.3977 6.33247 12.5327C6.14421 12.6676 5.92605 12.755 5.69666 12.7872L3.57166 13.0852L5.10966 14.5402C5.27841 14.7009 5.40458 14.901 5.47685 15.1225C5.54911 15.344 5.5652 15.58 5.52366 15.8092L5.16065 17.8932L6.20466 17.3402C6.38034 17.2562 6.58179 17.2439 6.76643 17.3057C6.95107 17.3676 7.10442 17.4988 7.19404 17.6717C7.28366 17.8446 7.30252 18.0455 7.24665 18.2321C7.19078 18.4186 7.06456 18.5761 6.89466 18.6712L5.73365 19.2712C5.53018 19.3811 5.3029 19.4395 5.07166 19.4412Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -516,48 +1670,8 @@ class _StarStarRemoveLight {
 class _StarStarSquareIcon {
   const _StarStarSquareIcon();
 
-  /// bold style
-  _StarStarSquareBold get bold => const _StarStarSquareBold();
-  /// bulk style
-  _StarStarSquareBulk get bulk => const _StarStarSquareBulk();
-  /// light style
-  _StarStarSquareLight get light => const _StarStarSquareLight();
-  /// outline style
-  _StarStarSquareOutline get outline => const _StarStarSquareOutline();
   /// twoTone style
   _StarStarSquareTwotone get twoTone => const _StarStarSquareTwotone();
-  /// broken style
-  _StarStarSquareBroken get broken => const _StarStarSquareBroken();
-}
-
-/// Star square — bulk style variants.
-class _StarStarSquareBulk {
-  const _StarStarSquareBulk();
-
-  /// Star square — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Star square',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.94693 13.6967L4.75393 13.1677C4.59993 12.7447 4.54193 12.3127 4.54693 11.8867L3.09393 12.4197C2.37693 12.6817 1.88893 13.4107 2.02393 14.1617C2.16393 14.9497 2.83893 15.4577 3.55993 15.4577C3.73593 15.4577 3.91493 15.4267 4.08893 15.3637L5.60493 14.8087C5.32593 14.4827 5.09793 14.1127 4.94693 13.6967Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.2779 12.2352L10.5429 10.2112C10.3489 9.68222 10.2929 9.12822 10.3559 8.58422C10.3699 8.46422 10.2609 8.37222 10.1479 8.41322L7.25694 9.46422C5.89894 9.95922 5.19794 11.4612 5.69194 12.8202L5.88694 13.3552C6.12494 14.0122 6.60594 14.5362 7.24094 14.8302C7.59094 14.9922 7.96494 15.0742 8.33994 15.0742C8.64294 15.0742 8.94694 15.0202 9.23994 14.9142L12.1299 13.8632C12.2429 13.8222 12.2669 13.6812 12.1799 13.5992C11.7829 13.2232 11.4699 12.7642 11.2779 12.2352Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.9078 9.13313L21.4468 5.11313C21.3038 4.72213 21.0168 4.41013 20.6398 4.23513C20.2638 4.06113 19.8408 4.04213 19.4498 4.18513L13.0448 6.51513C12.3868 6.75413 11.8628 7.23613 11.5668 7.87113C11.2728 8.50513 11.2418 9.21313 11.4808 9.86513L12.2178 11.8951C12.4568 12.5521 12.9378 13.0761 13.5718 13.3701C13.9218 13.5321 14.2958 13.6141 14.6718 13.6141C14.9748 13.6141 15.2788 13.5611 15.5718 13.4541L21.9768 11.1241C22.7818 10.8311 23.1998 9.93813 22.9078 9.13313Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.8616 20.3941L13.8366 14.6541C13.7846 14.5571 13.6766 14.5081 13.5706 14.5381C12.9236 14.7261 10.7456 15.4471 10.2946 15.5971C10.2376 15.6151 10.1956 15.6541 10.1686 15.7071L7.70161 20.3941C7.50161 20.7641 7.64161 21.2141 8.01161 21.4041C8.38161 21.6041 8.83161 21.4641 9.02161 21.0941L11.4166 16.5531C11.4466 16.4961 11.5316 16.5171 11.5316 16.5811V20.7141C11.5316 21.1241 11.8616 21.4641 12.2816 21.4641C12.6916 21.4641 13.0316 21.1241 13.0316 20.7141V16.5921C13.0316 16.5281 13.1176 16.5071 13.1466 16.5631L15.5316 21.0941C15.6716 21.3441 15.9316 21.4941 16.2016 21.4941C16.3116 21.4941 16.4316 21.4641 16.5516 21.4041C16.9116 21.2141 17.0516 20.7641 16.8616 20.3941Z" fill="black"/> </svg>',
-    category: 'Star',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Star square — broken style variants.
-class _StarStarSquareBroken {
-  const _StarStarSquareBroken();
-
-  /// Star square — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Star square',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 11.9765V15.9501C3 18.8953 4.83405 20.9765 7.78216 20.9765H16.2159C19.165 20.9765 21 18.8953 21 15.9501V8.00293C21 5.05774 19.165 2.97656 16.2169 2.97656H7.78216C4.84281 2.97656 3 5.05774 3 8.00293V8.73037" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9081 15.3975C14.9289 15.5252 14.9071 15.6557 14.8467 15.7703C14.6929 16.0599 14.3337 16.1701 14.0441 16.0164L12.2763 15.1002C12.1023 15.0103 11.8958 15.0103 11.7218 15.1002L9.95501 16.016C9.8409 16.0764 9.71035 16.0982 9.5827 16.0778C9.25875 16.0256 9.03826 15.721 9.09048 15.3971L9.42895 13.4572C9.46279 13.2657 9.39848 13.0709 9.25778 12.937L7.82755 11.5628C7.7323 11.4709 7.67089 11.3491 7.65349 11.2181C7.61142 10.8975 7.83674 10.603 8.15731 10.561L10.1349 10.2762C10.3278 10.2491 10.4956 10.1292 10.5831 9.95513L11.4669 8.18887C11.524 8.07863 11.6134 7.98918 11.7232 7.93261C12.0172 7.7803 12.3788 7.8949 12.5312 8.18887L13.4165 9.95562C13.5045 10.1297 13.6722 10.2496 13.8652 10.2767L15.8427 10.5615C15.9742 10.5789 16.0961 10.6403 16.1879 10.7355C16.4123 10.9686 16.405 11.339 16.1725 11.5633L14.7408 12.9374" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 2.97656V5.58531" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 17.5703V20.9632" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9316 2.97656V7.93602M14.9316 18.1095V20.9765" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18 13.4875V20.6738M18 3.26465V8.58914" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Star',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Star square — twoTone style variants.
@@ -575,28 +1689,113 @@ class _StarStarSquareTwotone {
 
 }
 
-/// Star square — outline style variants.
-class _StarStarSquareOutline {
-  const _StarStarSquareOutline();
+/// Star square 1 icon with style variants.
+class _StarStarSquare1Icon {
+  const _StarStarSquare1Icon();
 
-  /// Star square — outline / regular
+  /// twoTone style
+  _StarStarSquare1Twotone get twoTone => const _StarStarSquare1Twotone();
+}
+
+/// Star square 1 — twoTone style variants.
+class _StarStarSquare1Twotone {
+  const _StarStarSquare1Twotone();
+
+  /// Star square 1 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Star square',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.83745 4.92012C4.16024 5.64666 3.75 6.7095 3.75 8.02637V15.9736C3.75 17.2914 4.15861 18.3541 4.83451 19.0802C5.50475 19.8002 6.49341 20.25 7.78216 20.25H16.2159C17.5052 20.25 18.4944 19.8002 19.165 19.0801C19.8412 18.354 20.25 17.2913 20.25 15.9736V8.02637C20.25 6.70867 19.8412 5.64596 19.1651 4.91983C18.4946 4.19975 17.5057 3.75 16.2169 3.75H7.78216C6.49828 3.75 5.50921 4.19943 4.83745 4.92012ZM3.7402 3.89736C4.72468 2.84117 6.12669 2.25 7.78216 2.25H16.2169C17.8762 2.25 19.2789 2.84084 20.2629 3.89765C21.2413 4.94841 21.75 6.39888 21.75 8.02637V15.9736C21.75 17.6011 21.2413 19.0516 20.2627 20.1024C19.2785 21.1592 17.8757 21.75 16.2159 21.75H7.78216C6.1228 21.75 4.72038 21.1591 3.73657 20.1022C2.75842 19.0514 2.25 17.601 2.25 15.9736V8.02637C2.25 6.39805 2.76117 4.94771 3.7402 3.89736Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0009 8.82475L12.7469 10.3155C12.9452 10.7099 13.3244 10.9806 13.7594 11.0421C13.76 11.0422 13.7605 11.0423 13.761 11.0424L15.4091 11.2797L14.2252 12.4172C14.2247 12.4177 14.2241 12.4182 14.2236 12.4187C13.9027 12.7252 13.7552 13.1716 13.8324 13.6102C13.8325 13.6105 13.8325 13.6109 13.8326 13.6112L14.1152 15.231L12.6235 14.4578C12.2335 14.2563 11.7695 14.2558 11.3795 14.4573L9.88643 15.2312L10.1693 13.6097C10.1693 13.6098 10.1693 13.6097 10.1693 13.6097C10.2457 13.1718 10.0983 12.7256 9.77806 12.4192C9.77781 12.419 9.77757 12.4188 9.77733 12.4185L8.59127 11.2802L10.2409 11.0426C10.6761 10.981 11.0543 10.7103 11.253 10.3175L12.0009 8.82475ZM12.6213 7.2898C11.96 6.94767 11.146 7.20534 10.803 7.8673L9.95023 9.56898L8.05382 9.84208C7.75679 9.88258 7.48113 10.0218 7.27231 10.2383C6.76046 10.77 6.77691 11.6153 7.30691 12.1265L7.30827 12.1278L8.6761 13.4407L8.35315 15.2921L8.35175 15.3004C8.30442 15.591 8.35438 15.8865 8.49002 16.1437L8.49099 16.1455C8.83814 16.7993 9.64872 17.0494 10.3038 16.7043L12.001 15.8247L13.6976 16.7041C13.9544 16.8391 14.2481 16.8877 14.5352 16.842L14.5367 16.8417C15.2688 16.7237 15.7683 16.0349 15.65 15.3012L15.3254 13.4402L16.6932 12.1261C16.9107 11.9163 17.0504 11.6389 17.0901 11.3403L17.0902 11.3391C17.1857 10.6112 16.6757 9.9404 15.946 9.84154L14.0505 9.56858L13.2039 7.87669L13.1992 7.86758C13.0712 7.62024 12.8697 7.41807 12.6213 7.2898Z" fill="black"/> </svg> ',
+    name: 'Star square 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.28216 2.97656H16.7169C19.665 2.97656 21.5 5.05774 21.5 8.00293V15.9501C21.5 18.8953 19.665 20.9765 16.7159 20.9765H8.28216C5.33405 20.9765 3.5 18.8953 3.5 15.9501V8.00293C3.5 5.05774 5.34281 2.97656 8.28216 2.97656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0332 8.18887L13.917 9.95513C14.0045 10.1292 14.1723 10.2491 14.3652 10.2762L16.3428 10.561C16.6634 10.603 16.8887 10.8975 16.8466 11.2181C16.8292 11.3491 16.7678 11.4709 16.6725 11.5628L15.2423 12.937C15.1016 13.0709 15.0373 13.2657 15.0711 13.4572L15.4096 15.3971C15.4618 15.721 15.2413 16.0256 14.9174 16.0778C14.7897 16.0982 14.6592 16.0764 14.5451 16.016L12.7783 15.1002C12.6043 15.0103 12.3978 15.0103 12.2238 15.1002L10.456 16.0164C10.1664 16.1701 9.80717 16.0599 9.65341 15.7703C9.59297 15.6557 9.57121 15.5252 9.592 15.3975L9.93046 13.4572C9.96383 13.2662 9.89952 13.0714 9.7593 12.9374L8.32762 11.5633C8.09505 11.339 8.0878 10.9686 8.31215 10.7355C8.40402 10.6403 8.52586 10.5789 8.65737 10.5615L10.6349 10.2767C10.8279 10.2496 10.9956 10.1297 11.0836 9.95562L11.9689 8.18887C12.1212 7.8949 12.4829 7.7803 12.7769 7.93261C12.8866 7.98918 12.9761 8.07863 13.0332 8.18887Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5 2.97656V5.58531" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5 17.5703V20.9631" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.4316 2.97656V7.93602M15.4316 20.9765V18.1095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.5 3.26465V8.58914M18.5 20.6738V13.4875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.56836 2.97656V7.93602M9.56836 20.9765V18.1095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.5 3.26465V8.58914M6.5 20.6738V13.4875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Star',
-    style: IconfyStyle.outline,
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
 }
 
-/// Star square — bold style variants.
-class _StarStarSquareBold {
-  const _StarStarSquareBold();
+/// Star square 2 icon with style variants.
+class _StarStarSquare2Icon {
+  const _StarStarSquare2Icon();
 
-  /// Star square — bold / regular
+  /// twoTone style
+  _StarStarSquare2Twotone get twoTone => const _StarStarSquare2Twotone();
+}
+
+/// Star square 2 — twoTone style variants.
+class _StarStarSquare2Twotone {
+  const _StarStarSquare2Twotone();
+
+  /// Star square 2 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Star square',
+    name: 'Star square 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.36035 20.8681L12.2783 13.4326L16.1963 20.8681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.2783 20.8387V13.4326" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9485 9.82396C11.5487 8.72543 12.1151 7.51078 13.2136 7.11095L19.618 4.77993C20.1673 4.58002 20.7746 4.86322 20.9745 5.41248L22.4358 9.42716C22.6357 9.97642 22.3525 10.5837 21.8032 10.7837L15.3988 13.1147C14.3003 13.5145 13.0856 12.9481 12.6858 11.8496L11.9485 9.82396Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.497 8.58301L7.42653 10.0646C6.32801 10.4644 5.7616 11.679 6.16143 12.7776L6.3543 13.3075C6.75413 14.406 7.96879 14.9724 9.06731 14.5726L13.1378 13.091" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.89785 12.0527L3.19431 13.0367C2.64767 13.2357 2.36582 13.8401 2.56479 14.3868C2.76375 14.9334 3.36817 15.2153 3.91481 15.0163L6.61835 14.0323" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 3 icon with style variants.
+class _StarStarSquare3Icon {
+  const _StarStarSquare3Icon();
+
+  /// twoTone style
+  _StarStarSquare3Twotone get twoTone => const _StarStarSquare3Twotone();
+}
+
+/// Star square 3 — twoTone style variants.
+class _StarStarSquare3Twotone {
+  const _StarStarSquare3Twotone();
+
+  /// Star square 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.28216 2.97656H16.7169C19.665 2.97656 21.5 5.05774 21.5 8.00293V15.9501C21.5 18.8953 19.665 20.9765 16.7159 20.9765H8.28216C5.33405 20.9765 3.5 18.8953 3.5 15.9501V8.00293C3.5 5.05774 5.34281 2.97656 8.28216 2.97656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0332 8.18887L13.917 9.95513C14.0045 10.1292 14.1723 10.2491 14.3652 10.2762L16.3428 10.561C16.6634 10.603 16.8887 10.8975 16.8466 11.2181C16.8292 11.3491 16.7678 11.4709 16.6725 11.5628L15.2423 12.937C15.1016 13.0709 15.0373 13.2657 15.0711 13.4572L15.4096 15.3971C15.4618 15.721 15.2413 16.0256 14.9174 16.0778C14.7897 16.0982 14.6592 16.0764 14.5451 16.016L12.7783 15.1002C12.6043 15.0103 12.3978 15.0103 12.2238 15.1002L10.456 16.0164C10.1664 16.1701 9.80717 16.0599 9.65341 15.7703C9.59297 15.6557 9.57121 15.5252 9.592 15.3975L9.93046 13.4572C9.96383 13.2662 9.89952 13.0714 9.7593 12.9374L8.32762 11.5633C8.09505 11.339 8.0878 10.9686 8.31215 10.7355C8.40402 10.6403 8.52586 10.5789 8.65737 10.5615L10.6349 10.2767C10.8279 10.2496 10.9956 10.1297 11.0836 9.95562L11.9689 8.18887C12.1212 7.8949 12.4829 7.7803 12.7769 7.93261C12.8866 7.98918 12.9761 8.07863 13.0332 8.18887Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5 2.97656V5.58531" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5 17.5703V20.9631" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.4316 2.97656V7.93602M15.4316 20.9765V18.1095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.5 3.26465V8.58914M18.5 20.6738V13.4875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 4 icon with style variants.
+class _StarStarSquare4Icon {
+  const _StarStarSquare4Icon();
+
+  /// bold style
+  _StarStarSquare4Bold get bold => const _StarStarSquare4Bold();
+}
+
+/// Star square 4 — bold style variants.
+class _StarStarSquare4Bold {
+  const _StarStarSquare4Bold();
+
+  /// Star square 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.25 15.97C20.25 17.494 19.694 18.689 18.75 19.427V13.51C18.75 13.096 18.414 12.76 18 12.76C17.586 12.76 17.25 13.096 17.25 13.51V20.127C16.924 20.2 16.583 20.25 16.216 20.25H15.682V18.13C15.682 17.716 15.346 17.38 14.932 17.38C14.518 17.38 14.182 17.716 14.182 18.13V20.25H12.75V17.59C12.75 17.176 12.414 16.84 12 16.84C11.586 16.84 11.25 17.176 11.25 17.59V20.25H7.782C5.333 20.25 3.75 18.57 3.75 15.97V8.02C3.75 5.426 5.333 3.75 7.782 3.75H11.25V5.61C11.25 6.024 11.586 6.36 12 6.36C12.414 6.36 12.75 6.024 12.75 5.61V3.75H14.182V7.96C14.182 8.374 14.518 8.71 14.932 8.71C15.346 8.71 15.682 8.374 15.682 7.96V3.75H16.217C16.584 3.75 16.924 3.799 17.25 3.872V8.61C17.25 9.024 17.586 9.36 18 9.36C18.414 9.36 18.75 9.024 18.75 8.61V4.57C19.694 5.307 20.25 6.499 20.25 8.02V15.97ZM18.354 2.63C18.252 2.574 18.141 2.536 18.017 2.533C17.46 2.363 16.867 2.25 16.217 2.25H7.782C4.473 2.25 2.25 4.569 2.25 8.02V15.97C2.25 19.427 4.473 21.75 7.782 21.75H16.216C19.526 21.75 21.75 19.427 21.75 15.97V8.02C21.75 5.382 20.444 3.415 18.354 2.63Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6253 10.4407L13.7793 10.1797C13.6733 10.1627 13.5803 10.0977 13.5333 10.0067L12.7073 8.35166C12.7073 8.35066 12.7063 8.34966 12.7053 8.34866C12.6313 8.20566 12.5163 8.08766 12.3643 8.00466C12.1753 7.90766 11.9603 7.88966 11.7603 7.95366C11.5573 8.01866 11.3923 8.15966 11.2943 8.35166L10.4683 10.0037C10.4193 10.0967 10.3273 10.1627 10.2233 10.1787L8.3723 10.4407C8.1903 10.4687 8.0313 10.5527 7.9173 10.6767C7.7723 10.8257 7.6943 11.0237 7.6983 11.2317C7.7023 11.4397 7.7873 11.6337 7.9373 11.7757L9.2783 13.0677C9.3503 13.1347 9.3853 13.2427 9.3683 13.3427L9.0503 15.1597C9.0233 15.3327 9.0533 15.5087 9.1323 15.6517C9.3353 16.0347 9.8143 16.1837 10.1973 15.9837L11.8493 15.1237C11.9443 15.0747 12.0573 15.0747 12.1523 15.1237L13.8033 15.9827C13.9163 16.0427 14.0413 16.0737 14.1693 16.0737C14.2103 16.0737 14.2533 16.0707 14.2953 16.0637C14.5033 16.0317 14.6853 15.9197 14.8093 15.7487C14.9343 15.5767 14.9853 15.3667 14.9503 15.1567L14.6343 13.3417C14.6163 13.2417 14.6503 13.1347 14.7253 13.0647L16.0613 11.7757C16.1883 11.6557 16.2713 11.4937 16.2953 11.3197C16.3233 11.1097 16.2663 10.9027 16.1373 10.7357C16.0093 10.5707 15.8263 10.4657 15.6253 10.4407Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 5 icon with style variants.
+class _StarStarSquare5Icon {
+  const _StarStarSquare5Icon();
+
+  /// bold style
+  _StarStarSquare5Bold get bold => const _StarStarSquare5Bold();
+}
+
+/// Star square 5 — bold style variants.
+class _StarStarSquare5Bold {
+  const _StarStarSquare5Bold();
+
+  /// Star square 5 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 5',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.25 15.97C20.25 17.494 19.694 18.689 18.75 19.427V13.51C18.75 13.096 18.414 12.76 18 12.76C17.586 12.76 17.25 13.096 17.25 13.51V20.127C16.924 20.2 16.583 20.25 16.216 20.25H15.682V18.13C15.682 17.716 15.346 17.38 14.932 17.38C14.518 17.38 14.182 17.716 14.182 18.13V20.25H12.75V17.59C12.75 17.176 12.414 16.84 12 16.84C11.586 16.84 11.25 17.176 11.25 17.59V20.25H9.818V18.13C9.818 17.716 9.482 17.38 9.068 17.38C8.654 17.38 8.318 17.716 8.318 18.13V20.25H7.782C7.415 20.25 7.076 20.2 6.75 20.128V13.51C6.75 13.096 6.414 12.76 6 12.76C5.586 12.76 5.25 13.096 5.25 13.51V19.428C4.306 18.689 3.75 17.495 3.75 15.97V8.02C3.75 6.499 4.306 5.307 5.25 4.57V8.61C5.25 9.024 5.586 9.36 6 9.36C6.414 9.36 6.75 9.024 6.75 8.61V3.871C7.076 3.799 7.415 3.75 7.782 3.75H8.318V7.96C8.318 8.374 8.654 8.71 9.068 8.71C9.482 8.71 9.818 8.374 9.818 7.96V3.75H11.25V5.61C11.25 6.024 11.586 6.36 12 6.36C12.414 6.36 12.75 6.024 12.75 5.61V3.75H14.182V7.96C14.182 8.374 14.518 8.71 14.932 8.71C15.346 8.71 15.682 8.374 15.682 7.96V3.75H16.217C16.584 3.75 16.924 3.799 17.25 3.872V8.61C17.25 9.024 17.586 9.36 18 9.36C18.414 9.36 18.75 9.024 18.75 8.61V4.57C19.694 5.307 20.25 6.499 20.25 8.02V15.97ZM18.354 2.63C18.252 2.574 18.141 2.536 18.017 2.533C17.46 2.363 16.867 2.25 16.217 2.25H7.782C7.132 2.25 6.539 2.363 5.981 2.533C5.858 2.537 5.748 2.574 5.647 2.63C3.556 3.415 2.25 5.381 2.25 8.02V15.97C2.25 19.427 4.473 21.75 7.782 21.75H16.216C19.526 21.75 21.75 19.427 21.75 15.97V8.02C21.75 5.382 20.444 3.415 18.354 2.63Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.5731 10.4624L13.7541 10.2054C13.6491 10.1884 13.5571 10.1244 13.5121 10.0344L12.6971 8.40338C12.6971 8.40238 12.6961 8.40138 12.6951 8.40038C12.6221 8.25938 12.5081 8.14337 12.3591 8.06138C12.1721 7.96638 11.9611 7.94838 11.7641 8.01238C11.5641 8.07538 11.4011 8.21338 11.3041 8.40338L10.4901 10.0324C10.4421 10.1234 10.3511 10.1884 10.2491 10.2044L8.42513 10.4624C8.24513 10.4904 8.08913 10.5724 7.97713 10.6954C7.83313 10.8424 7.75713 11.0364 7.76013 11.2424C7.76413 11.4474 7.84813 11.6384 7.99613 11.7784L9.31813 13.0524C9.38813 13.1184 9.42313 13.2234 9.40613 13.3234L9.09313 15.1144C9.06613 15.2844 9.09513 15.4574 9.17413 15.5984C9.37313 15.9754 9.84513 16.1234 10.2231 15.9254L11.8521 15.0784C11.9451 15.0294 12.0571 15.0294 12.1501 15.0774L13.7771 15.9254C13.8891 15.9844 14.0121 16.0144 14.1381 16.0144C14.1791 16.0144 14.2211 16.0114 14.2621 16.0044C14.4671 15.9724 14.6461 15.8624 14.7691 15.6934C14.8921 15.5244 14.9421 15.3174 14.9081 15.1104L14.5961 13.3214C14.5781 13.2234 14.6121 13.1184 14.6861 13.0494L16.0031 11.7784C16.1281 11.6604 16.2101 11.5004 16.2331 11.3284C16.2601 11.1224 16.2051 10.9184 16.0781 10.7534C15.9521 10.5904 15.7711 10.4874 15.5731 10.4624Z" fill="black"/> </svg>',
     category: 'Star',
     style: IconfyStyle.bold,
@@ -605,16 +1804,369 @@ class _StarStarSquareBold {
 
 }
 
-/// Star square — light style variants.
-class _StarStarSquareLight {
-  const _StarStarSquareLight();
+/// Star square 6 icon with style variants.
+class _StarStarSquare6Icon {
+  const _StarStarSquare6Icon();
 
-  /// Star square — light / regular
+  /// bold style
+  _StarStarSquare6Bold get bold => const _StarStarSquare6Bold();
+}
+
+/// Star square 6 — bold style variants.
+class _StarStarSquare6Bold {
+  const _StarStarSquare6Bold();
+
+  /// Star square 6 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Star square',
+    name: 'Star square 6',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.3618 20.3941L13.3368 14.6541C13.2848 14.5571 13.1768 14.5081 13.0708 14.5381C12.4238 14.7261 10.2458 15.4471 9.79479 15.5971C9.73779 15.6151 9.69579 15.6541 9.66879 15.7071L7.20179 20.3941C7.00179 20.7641 7.14179 21.2141 7.51179 21.4041C7.88179 21.6041 8.33179 21.4641 8.52179 21.0941L10.9168 16.5531C10.9468 16.4961 11.0318 16.5171 11.0318 16.5811V20.7141C11.0318 21.1241 11.3618 21.4641 11.7818 21.4641C12.1918 21.4641 12.5318 21.1241 12.5318 20.7141V16.5921C12.5318 16.5281 12.6178 16.5071 12.6468 16.5631L15.0318 21.0941C15.1718 21.3441 15.4318 21.4941 15.7018 21.4941C15.8118 21.4941 15.9318 21.4641 16.0518 21.4041C16.4118 21.2141 16.5518 20.7641 16.3618 20.3941Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.44669 13.6967L4.25369 13.1677C4.09969 12.7447 4.04169 12.3127 4.04669 11.8867L2.59369 12.4197C1.87669 12.6817 1.38869 13.4107 1.52369 14.1617C1.66369 14.9497 2.33869 15.4577 3.05969 15.4577C3.23569 15.4577 3.41469 15.4267 3.58869 15.3637L5.10469 14.8087C4.82569 14.4827 4.59769 14.1127 4.44669 13.6967Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.7777 12.2352L10.0427 10.2112C9.84869 9.68222 9.7927 9.12822 9.85569 8.58422C9.86969 8.46422 9.76069 8.37222 9.64769 8.41322L6.75669 9.46422C5.39869 9.95922 4.69769 11.4612 5.19169 12.8202L5.38669 13.3552C5.62469 14.0122 6.10569 14.5362 6.74069 14.8302C7.09069 14.9922 7.46469 15.0742 7.83969 15.0742C8.14269 15.0742 8.44669 15.0202 8.73969 14.9142L11.6297 13.8632C11.7427 13.8222 11.7667 13.6812 11.6797 13.5992C11.2827 13.2232 10.9697 12.7642 10.7777 12.2352Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.4076 9.13313L20.9466 5.11313C20.8036 4.72213 20.5166 4.41013 20.1396 4.23513C19.7636 4.06113 19.3406 4.04213 18.9496 4.18513L12.5446 6.51513C11.8866 6.75413 11.3626 7.23613 11.0666 7.87113C10.7726 8.50513 10.7416 9.21313 10.9806 9.86513L11.7176 11.8951C11.9566 12.5521 12.4376 13.0761 13.0716 13.3701C13.4216 13.5321 13.7956 13.6141 14.1716 13.6141C14.4746 13.6141 14.7786 13.5611 15.0716 13.4541L21.4766 11.1241C22.2816 10.8311 22.6996 9.93813 22.4076 9.13313Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 7 icon with style variants.
+class _StarStarSquare7Icon {
+  const _StarStarSquare7Icon();
+
+  /// bold style
+  _StarStarSquare7Bold get bold => const _StarStarSquare7Bold();
+}
+
+/// Star square 7 — bold style variants.
+class _StarStarSquare7Bold {
+  const _StarStarSquare7Bold();
+
+  /// Star square 7 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.25 15.97C20.25 17.494 19.694 18.689 18.75 19.427V13.51C18.75 13.096 18.414 12.76 18 12.76C17.586 12.76 17.25 13.096 17.25 13.51V20.127C16.924 20.2 16.583 20.25 16.216 20.25H15.682V18.13C15.682 17.716 15.346 17.38 14.932 17.38C14.518 17.38 14.182 17.716 14.182 18.13V20.25H12.75V17.59C12.75 17.176 12.414 16.84 12 16.84C11.586 16.84 11.25 17.176 11.25 17.59V20.25H9.818V18.13C9.818 17.716 9.482 17.38 9.068 17.38C8.654 17.38 8.318 17.716 8.318 18.13V20.25H7.782C7.415 20.25 7.076 20.2 6.75 20.128V13.51C6.75 13.096 6.414 12.76 6 12.76C5.586 12.76 5.25 13.096 5.25 13.51V19.428C4.306 18.689 3.75 17.495 3.75 15.97V8.02C3.75 6.499 4.306 5.307 5.25 4.57V8.61C5.25 9.024 5.586 9.36 6 9.36C6.414 9.36 6.75 9.024 6.75 8.61V3.871C7.076 3.799 7.415 3.75 7.782 3.75H8.318V7.96C8.318 8.374 8.654 8.71 9.068 8.71C9.482 8.71 9.818 8.374 9.818 7.96V3.75H11.25V5.61C11.25 6.024 11.586 6.36 12 6.36C12.414 6.36 12.75 6.024 12.75 5.61V3.75H14.182V7.96C14.182 8.374 14.518 8.71 14.932 8.71C15.346 8.71 15.682 8.374 15.682 7.96V3.75H16.217C16.584 3.75 16.924 3.799 17.25 3.872V8.61C17.25 9.024 17.586 9.36 18 9.36C18.414 9.36 18.75 9.024 18.75 8.61V4.57C19.694 5.307 20.25 6.499 20.25 8.02V15.97ZM18.354 2.63C18.252 2.574 18.141 2.536 18.017 2.533C17.46 2.363 16.867 2.25 16.217 2.25H7.782C7.132 2.25 6.539 2.363 5.981 2.533C5.858 2.537 5.748 2.574 5.647 2.63C3.556 3.415 2.25 5.381 2.25 8.02V15.97C2.25 19.427 4.473 21.75 7.782 21.75H16.216C19.526 21.75 21.75 19.427 21.75 15.97V8.02C21.75 5.382 20.444 3.415 18.354 2.63Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.5731 10.4624L13.7541 10.2054C13.6491 10.1884 13.5571 10.1244 13.5121 10.0344L12.6971 8.40338C12.6971 8.40238 12.6961 8.40138 12.6951 8.40038C12.6221 8.25938 12.5081 8.14337 12.3591 8.06138C12.1721 7.96638 11.9611 7.94838 11.7641 8.01238C11.5641 8.07538 11.4011 8.21338 11.3041 8.40338L10.4901 10.0324C10.4421 10.1234 10.3511 10.1884 10.2491 10.2044L8.42513 10.4624C8.24513 10.4904 8.08913 10.5724 7.97713 10.6954C7.83313 10.8424 7.75713 11.0364 7.76013 11.2424C7.76413 11.4474 7.84813 11.6384 7.99613 11.7784L9.31813 13.0524C9.38813 13.1184 9.42313 13.2234 9.40613 13.3234L9.09313 15.1144C9.06613 15.2844 9.09513 15.4574 9.17413 15.5984C9.37313 15.9754 9.84513 16.1234 10.2231 15.9254L11.8521 15.0784C11.9451 15.0294 12.0571 15.0294 12.1501 15.0774L13.7771 15.9254C13.8891 15.9844 14.0121 16.0144 14.1381 16.0144C14.1791 16.0144 14.2211 16.0114 14.2621 16.0044C14.4671 15.9724 14.6461 15.8624 14.7691 15.6934C14.8921 15.5244 14.9421 15.3174 14.9081 15.1104L14.5961 13.3214C14.5781 13.2234 14.6121 13.1184 14.6861 13.0494L16.0031 11.7784C16.1281 11.6604 16.2101 11.5004 16.2331 11.3284C16.2601 11.1224 16.2051 10.9184 16.0781 10.7534C15.9521 10.5904 15.7711 10.4874 15.5731 10.4624Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 8 icon with style variants.
+class _StarStarSquare8Icon {
+  const _StarStarSquare8Icon();
+
+  /// bulk style
+  _StarStarSquare8Bulk get bulk => const _StarStarSquare8Bulk();
+}
+
+/// Star square 8 — bulk style variants.
+class _StarStarSquare8Bulk {
+  const _StarStarSquare8Bulk();
+
+  /// Star square 8 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 8',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.94693 13.6967L4.75393 13.1677C4.59993 12.7447 4.54193 12.3127 4.54693 11.8867L3.09393 12.4197C2.37693 12.6817 1.88893 13.4107 2.02393 14.1617C2.16393 14.9497 2.83893 15.4577 3.55993 15.4577C3.73593 15.4577 3.91493 15.4267 4.08893 15.3637L5.60493 14.8087C5.32593 14.4827 5.09793 14.1127 4.94693 13.6967Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.2779 12.2352L10.5429 10.2112C10.3489 9.68222 10.2929 9.12822 10.3559 8.58422C10.3699 8.46422 10.2609 8.37222 10.1479 8.41322L7.25694 9.46422C5.89894 9.95922 5.19794 11.4612 5.69194 12.8202L5.88694 13.3552C6.12494 14.0122 6.60594 14.5362 7.24094 14.8302C7.59094 14.9922 7.96494 15.0742 8.33994 15.0742C8.64294 15.0742 8.94694 15.0202 9.23994 14.9142L12.1299 13.8632C12.2429 13.8222 12.2669 13.6812 12.1799 13.5992C11.7829 13.2232 11.4699 12.7642 11.2779 12.2352Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.9078 9.13313L21.4468 5.11313C21.3038 4.72213 21.0168 4.41013 20.6398 4.23513C20.2638 4.06113 19.8408 4.04213 19.4498 4.18513L13.0448 6.51513C12.3868 6.75413 11.8628 7.23613 11.5668 7.87113C11.2728 8.50513 11.2418 9.21313 11.4808 9.86513L12.2178 11.8951C12.4568 12.5521 12.9378 13.0761 13.5718 13.3701C13.9218 13.5321 14.2958 13.6141 14.6718 13.6141C14.9748 13.6141 15.2788 13.5611 15.5718 13.4541L21.9768 11.1241C22.7818 10.8311 23.1998 9.93813 22.9078 9.13313Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.8616 20.3941L13.8366 14.6541C13.7846 14.5571 13.6766 14.5081 13.5706 14.5381C12.9236 14.7261 10.7456 15.4471 10.2946 15.5971C10.2376 15.6151 10.1956 15.6541 10.1686 15.7071L7.70161 20.3941C7.50161 20.7641 7.64161 21.2141 8.01161 21.4041C8.38161 21.6041 8.83161 21.4641 9.02161 21.0941L11.4166 16.5531C11.4466 16.4961 11.5316 16.5171 11.5316 16.5811V20.7141C11.5316 21.1241 11.8616 21.4641 12.2816 21.4641C12.6916 21.4641 13.0316 21.1241 13.0316 20.7141V16.5921C13.0316 16.5281 13.1176 16.5071 13.1466 16.5631L15.5316 21.0941C15.6716 21.3441 15.9316 21.4941 16.2016 21.4941C16.3116 21.4941 16.4316 21.4641 16.5516 21.4041C16.9116 21.2141 17.0516 20.7641 16.8616 20.3941Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 9 icon with style variants.
+class _StarStarSquare9Icon {
+  const _StarStarSquare9Icon();
+
+  /// bulk style
+  _StarStarSquare9Bulk get bulk => const _StarStarSquare9Bulk();
+}
+
+/// Star square 9 — bulk style variants.
+class _StarStarSquare9Bulk {
+  const _StarStarSquare9Bulk();
+
+  /// Star square 9 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 9',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.75 15.97C20.75 17.494 20.194 18.689 19.25 19.427V13.51C19.25 13.096 18.914 12.76 18.5 12.76C18.086 12.76 17.75 13.096 17.75 13.51V20.127C17.424 20.2 17.083 20.25 16.716 20.25H16.182V18.13C16.182 17.716 15.846 17.38 15.432 17.38C15.018 17.38 14.682 17.716 14.682 18.13V20.25H13.25V17.59C13.25 17.176 12.914 16.84 12.5 16.84C12.086 16.84 11.75 17.176 11.75 17.59V20.25H10.318V18.13C10.318 17.716 9.982 17.38 9.568 17.38C9.154 17.38 8.818 17.716 8.818 18.13V20.25H8.282C7.915 20.25 7.576 20.2 7.25 20.128V13.51C7.25 13.096 6.914 12.76 6.5 12.76C6.086 12.76 5.75 13.096 5.75 13.51V19.428C4.806 18.689 4.25 17.495 4.25 15.97V8.02C4.25 6.499 4.806 5.307 5.75 4.57V8.61C5.75 9.024 6.086 9.36 6.5 9.36C6.914 9.36 7.25 9.024 7.25 8.61V3.871C7.576 3.799 7.915 3.75 8.282 3.75H8.818V7.96C8.818 8.374 9.154 8.71 9.568 8.71C9.982 8.71 10.318 8.374 10.318 7.96V3.75H11.75V5.61C11.75 6.024 12.086 6.36 12.5 6.36C12.914 6.36 13.25 6.024 13.25 5.61V3.75H14.682V7.96C14.682 8.374 15.018 8.71 15.432 8.71C15.846 8.71 16.182 8.374 16.182 7.96V3.75H16.717C17.084 3.75 17.424 3.799 17.75 3.872V8.61C17.75 9.024 18.086 9.36 18.5 9.36C18.914 9.36 19.25 9.024 19.25 8.61V4.57C20.194 5.307 20.75 6.499 20.75 8.02V15.97ZM18.854 2.63C18.752 2.574 18.641 2.536 18.517 2.533C17.96 2.363 17.367 2.25 16.717 2.25H8.282C7.632 2.25 7.039 2.363 6.481 2.533C6.358 2.537 6.248 2.574 6.147 2.63C4.056 3.415 2.75 5.381 2.75 8.02V15.97C2.75 19.427 4.973 21.75 8.282 21.75H16.716C20.026 21.75 22.25 19.427 22.25 15.97V8.02C22.25 5.382 20.944 3.415 18.854 2.63Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0729 10.4624L14.2539 10.2054C14.1489 10.1884 14.0569 10.1244 14.0119 10.0344L13.1969 8.40338L13.1949 8.40038C13.1219 8.25938 13.0079 8.14338 12.8589 8.06138C12.6719 7.96638 12.4609 7.94838 12.2639 8.01238C12.0639 8.07538 11.9009 8.21338 11.8039 8.40338L10.9899 10.0324C10.9419 10.1234 10.8509 10.1884 10.7489 10.2044L8.92485 10.4624C8.74485 10.4904 8.58885 10.5724 8.47685 10.6954C8.33285 10.8424 8.25685 11.0364 8.25985 11.2424C8.26385 11.4474 8.34785 11.6384 8.49585 11.7784L9.81785 13.0524C9.88785 13.1184 9.92285 13.2234 9.90585 13.3234L9.59285 15.1144C9.56585 15.2844 9.59485 15.4574 9.67385 15.5984C9.87285 15.9754 10.3449 16.1234 10.7229 15.9254L12.3519 15.0784C12.4449 15.0294 12.5569 15.0294 12.6499 15.0774L14.2769 15.9254C14.3889 15.9844 14.5119 16.0144 14.6379 16.0144C14.6789 16.0144 14.7209 16.0114 14.7619 16.0044C14.9669 15.9724 15.1459 15.8624 15.2689 15.6934C15.3919 15.5244 15.4419 15.3174 15.4079 15.1104L15.0959 13.3214C15.0779 13.2234 15.1119 13.1184 15.1859 13.0494L16.5029 11.7784C16.6279 11.6604 16.7099 11.5004 16.7329 11.3284C16.7599 11.1224 16.7049 10.9184 16.5779 10.7534C16.4519 10.5904 16.2709 10.4874 16.0729 10.4624Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 10 icon with style variants.
+class _StarStarSquare10Icon {
+  const _StarStarSquare10Icon();
+
+  /// bulk style
+  _StarStarSquare10Bulk get bulk => const _StarStarSquare10Bulk();
+}
+
+/// Star square 10 — bulk style variants.
+class _StarStarSquare10Bulk {
+  const _StarStarSquare10Bulk();
+
+  /// Star square 10 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 10',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.717 3.41602H8.282C5.123 3.41602 3 5.63402 3 8.93602V16.885C3 20.193 5.123 22.416 8.282 22.416H16.716C19.876 22.416 22 20.193 22 16.885V8.93602C22 5.63402 19.877 3.41602 16.717 3.41602Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8258 14.3551L17.1868 13.0411C17.4058 12.8341 17.5488 12.5561 17.5898 12.2531C17.6368 11.8961 17.5408 11.5431 17.3208 11.2581C17.1028 10.9751 16.7878 10.7951 16.4478 10.7531L14.5548 10.4851L13.7038 8.78909C13.7018 8.78609 13.6998 8.78308 13.6988 8.77908C13.5718 8.53608 13.3768 8.33808 13.1188 8.19808C12.7938 8.03308 12.4268 8.00408 12.0838 8.11508C11.7418 8.22608 11.4628 8.46408 11.2978 8.79008L10.4508 10.4841L8.54379 10.7541C8.25879 10.7981 7.98979 10.9311 7.76379 11.1541C7.26079 11.6931 7.28179 12.5401 7.80679 13.0361L9.17579 14.3551L8.85279 16.2091C8.80279 16.4991 8.85479 16.8121 8.99079 17.0571C9.33479 17.7071 10.1468 17.9581 10.8018 17.6211L12.5008 16.7371L14.1958 17.6201C14.3898 17.7211 14.6018 17.7731 14.8188 17.7731C14.8898 17.7731 14.9608 17.7681 15.0328 17.7571C15.3868 17.7021 15.6988 17.5111 15.9108 17.2191C16.1228 16.9261 16.2078 16.5691 16.1478 16.2071L15.8258 14.3551ZM12.5014 9.7364L13.2414 11.2114C13.4344 11.6094 13.8114 11.8884 14.2594 11.9574L15.9074 12.1904L14.7334 13.3244C14.4074 13.6254 14.2534 14.0864 14.3324 14.5244L14.6154 16.1464L13.1224 15.3684C12.9284 15.2684 12.7154 15.2184 12.5014 15.2184C12.2874 15.2184 12.0734 15.2684 11.8774 15.3694L10.3864 16.1464L10.6694 14.5244C10.7454 14.0844 10.5924 13.6254 10.2794 13.3354L9.09238 12.1904L10.7484 11.9564C11.1784 11.8904 11.5524 11.6214 11.7544 11.2304L12.5014 9.7364Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 11 icon with style variants.
+class _StarStarSquare11Icon {
+  const _StarStarSquare11Icon();
+
+  /// bulk style
+  _StarStarSquare11Bulk get bulk => const _StarStarSquare11Bulk();
+}
+
+/// Star square 11 — bulk style variants.
+class _StarStarSquare11Bulk {
+  const _StarStarSquare11Bulk();
+
+  /// Star square 11 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 11',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.75 15.97C20.75 17.494 20.194 18.689 19.25 19.427V13.51C19.25 13.096 18.914 12.76 18.5 12.76C18.086 12.76 17.75 13.096 17.75 13.51V20.127C17.424 20.2 17.083 20.25 16.716 20.25H16.182V18.13C16.182 17.716 15.846 17.38 15.432 17.38C15.018 17.38 14.682 17.716 14.682 18.13V20.25H13.25V17.59C13.25 17.176 12.914 16.84 12.5 16.84C12.086 16.84 11.75 17.176 11.75 17.59V20.25H8.282C5.833 20.25 4.25 18.57 4.25 15.97V8.02C4.25 5.426 5.833 3.75 8.282 3.75H11.75V5.61C11.75 6.024 12.086 6.36 12.5 6.36C12.914 6.36 13.25 6.024 13.25 5.61V3.75H14.682V7.96C14.682 8.374 15.018 8.71 15.432 8.71C15.846 8.71 16.182 8.374 16.182 7.96V3.75H16.717C17.084 3.75 17.424 3.799 17.75 3.872V8.61C17.75 9.024 18.086 9.36 18.5 9.36C18.914 9.36 19.25 9.024 19.25 8.61V4.57C20.194 5.307 20.75 6.499 20.75 8.02V15.97ZM18.854 2.63C18.752 2.574 18.641 2.536 18.517 2.533C17.96 2.363 17.367 2.25 16.717 2.25H8.282C4.973 2.25 2.75 4.569 2.75 8.02V15.97C2.75 19.427 4.973 21.75 8.282 21.75H16.716C20.026 21.75 22.25 19.427 22.25 15.97V8.02C22.25 5.382 20.944 3.415 18.854 2.63Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.1254 10.4407L14.2794 10.1797C14.1734 10.1627 14.0804 10.0977 14.0334 10.0067L13.2074 8.35166L13.2054 8.34866C13.1314 8.20566 13.0164 8.08766 12.8644 8.00466C12.6754 7.90766 12.4604 7.88966 12.2604 7.95366C12.0574 8.01866 11.8924 8.15966 11.7944 8.35166L10.9684 10.0037C10.9194 10.0967 10.8274 10.1627 10.7234 10.1787L8.87239 10.4407C8.69039 10.4687 8.53139 10.5527 8.41739 10.6767C8.27239 10.8257 8.19439 11.0237 8.19839 11.2317C8.20239 11.4397 8.28739 11.6337 8.43739 11.7757L9.77839 13.0677C9.85039 13.1347 9.88539 13.2427 9.86839 13.3427L9.55039 15.1597C9.52339 15.3327 9.55339 15.5087 9.63239 15.6517C9.83539 16.0347 10.3144 16.1837 10.6974 15.9837L12.3494 15.1237C12.4444 15.0747 12.5574 15.0747 12.6524 15.1237L14.3034 15.9827C14.4164 16.0427 14.5414 16.0737 14.6694 16.0737C14.7104 16.0737 14.7534 16.0707 14.7954 16.0637C15.0034 16.0317 15.1854 15.9197 15.3094 15.7487C15.4344 15.5767 15.4854 15.3667 15.4504 15.1567L15.1344 13.3417C15.1164 13.2417 15.1504 13.1347 15.2254 13.0647L16.5614 11.7757C16.6884 11.6557 16.7714 11.4937 16.7954 11.3197C16.8234 11.1097 16.7664 10.9027 16.6374 10.7357C16.5094 10.5707 16.3264 10.4657 16.1254 10.4407Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 12 icon with style variants.
+class _StarStarSquare12Icon {
+  const _StarStarSquare12Icon();
+
+  /// broken style
+  _StarStarSquare12Broken get broken => const _StarStarSquare12Broken();
+}
+
+/// Star square 12 — broken style variants.
+class _StarStarSquare12Broken {
+  const _StarStarSquare12Broken();
+
+  /// Star square 12 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 11.9765V15.9501C3 18.8953 4.83405 20.9765 7.78216 20.9765H16.2159C19.165 20.9765 21 18.8953 21 15.9501V8.00293C21 5.05774 19.165 2.97656 16.2169 2.97656H7.78216C4.84281 2.97656 3 5.05774 3 8.00293V8.73037" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9081 15.3975C14.9289 15.5252 14.9071 15.6557 14.8467 15.7703C14.6929 16.0599 14.3337 16.1701 14.0441 16.0164L12.2763 15.1002C12.1023 15.0103 11.8958 15.0103 11.7218 15.1002L9.95501 16.016C9.8409 16.0764 9.71035 16.0982 9.5827 16.0778C9.25875 16.0256 9.03826 15.721 9.09048 15.3971L9.42895 13.4572C9.46279 13.2657 9.39848 13.0709 9.25778 12.937L7.82755 11.5628C7.7323 11.4709 7.67089 11.3491 7.65349 11.2181C7.61142 10.8975 7.83674 10.603 8.15731 10.561L10.1349 10.2762C10.3278 10.2491 10.4956 10.1292 10.5831 9.95513L11.4669 8.18887C11.524 8.07863 11.6134 7.98918 11.7232 7.93261C12.0172 7.7803 12.3788 7.8949 12.5312 8.18887L13.4165 9.95562C13.5045 10.1297 13.6722 10.2496 13.8652 10.2767L15.8427 10.5615C15.9742 10.5789 16.0961 10.6403 16.1879 10.7355C16.4123 10.9686 16.405 11.339 16.1725 11.5633L14.7408 12.9374" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 2.97656V5.58531" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 17.5703V20.9632" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9316 2.97656V7.93602M14.9316 18.1095V20.9765" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18 13.4875V20.6738M18 3.26465V8.58914" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 13 icon with style variants.
+class _StarStarSquare13Icon {
+  const _StarStarSquare13Icon();
+
+  /// broken style
+  _StarStarSquare13Broken get broken => const _StarStarSquare13Broken();
+}
+
+/// Star square 13 — broken style variants.
+class _StarStarSquare13Broken {
+  const _StarStarSquare13Broken();
+
+  /// Star square 13 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 13',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12.4184V15.9501C21 18.8953 19.165 20.9765 16.2159 20.9765H7.78216C4.83405 20.9765 3 18.8953 3 15.9501V8.00293C3 5.05774 4.84281 2.97656 7.78216 2.97656H16.2169C19.165 2.97656 21 5.05774 21 8.00293V8.94582" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0451 16.016C14.1592 16.0764 14.2897 16.0982 14.4174 16.0778C14.7413 16.0256 14.9618 15.721 14.9096 15.3971L14.5711 13.4572C14.5373 13.2657 14.6016 13.0709 14.7423 12.937L16.1725 11.5628C16.2678 11.4709 16.3292 11.3491 16.3466 11.2181C16.3887 10.8975 16.1634 10.603 15.8428 10.561L13.8652 10.2762C13.6723 10.2491 13.5045 10.1292 13.417 9.95513L12.5332 8.18887C12.4761 8.07863 12.3866 7.98918 12.2769 7.93261C11.9829 7.7803 11.6212 7.8949 11.4689 8.18887L10.5836 9.95562C10.4956 10.1297 10.3279 10.2496 10.1349 10.2767L8.15737 10.5615C8.02586 10.5789 7.90402 10.6403 7.81215 10.7355C7.5878 10.9686 7.59505 11.339 7.82762 11.5633L9.2593 12.9374C9.39952 13.0714 9.46383 13.2662 9.43046 13.4572L9.092 15.3975C9.07121 15.5252 9.09297 15.6557 9.15341 15.7703C9.30717 16.0599 9.66641 16.1701 9.95604 16.0164L11.7238 15.1002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 2.97656V5.58531" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 17.5703V20.9632" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9316 2.97656V7.93602M14.9316 18.1095V20.9765" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18 13.4875V20.6738M18 3.26465V8.58914" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.06836 2.97656V7.93602M9.06836 18.1095V20.9765" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6 3.26465V8.58914M6 20.6738V13.4875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 14 icon with style variants.
+class _StarStarSquare14Icon {
+  const _StarStarSquare14Icon();
+
+  /// broken style
+  _StarStarSquare14Broken get broken => const _StarStarSquare14Broken();
+}
+
+/// Star square 14 — broken style variants.
+class _StarStarSquare14Broken {
+  const _StarStarSquare14Broken();
+
+  /// Star square 14 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 14',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.86035 20.8681L11.7783 13.4326L15.6963 20.8681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.7783 20.8387V13.4326" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.5027 11.075L21.3032 10.7837C21.8525 10.5837 22.1357 9.97642 21.9358 9.42716L20.4745 5.41248C20.2746 4.86322 19.6673 4.58002 19.118 4.77993L12.7136 7.11095C11.6151 7.51078 11.0487 8.72543 11.4485 9.82396L12.1858 11.8496C12.5856 12.9481 13.8003 13.5145 14.8988 13.1147L17.638 12.1177" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6378 13.0907L8.56731 14.5722C7.46879 14.972 6.25413 14.4056 5.8543 13.3071L5.66143 12.7772C5.2616 11.6787 5.82801 10.464 6.92653 10.0642L8.66719 9.43066" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.39785 12.0527L2.69431 13.0367C2.14767 13.2357 1.86582 13.8401 2.06479 14.3868C2.26375 14.9334 2.86817 15.2153 3.41481 15.0163L4.0907 14.7703" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 15 icon with style variants.
+class _StarStarSquare15Icon {
+  const _StarStarSquare15Icon();
+
+  /// broken style
+  _StarStarSquare15Broken get broken => const _StarStarSquare15Broken();
+}
+
+/// Star square 15 — broken style variants.
+class _StarStarSquare15Broken {
+  const _StarStarSquare15Broken();
+
+  /// Star square 15 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 15',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.999 21.916H7.78216C4.83405 21.916 3 19.8348 3 16.8896V8.94239C3 5.9972 4.84281 3.91602 7.78216 3.91602H16.2169C19.165 3.91602 21 5.9972 21 8.94239V16.8896C21 19.8348 19.165 21.916 16.2159 21.916H15.5242" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5332 9.12832L13.417 10.8946C13.5045 11.0686 13.6723 11.1886 13.8652 11.2156L15.8428 11.5004C16.1634 11.5425 16.3887 11.837 16.3466 12.1575C16.3292 12.2886 16.2678 12.4104 16.1725 12.5023L14.7423 13.8764C14.6016 14.0103 14.5373 14.2052 14.5711 14.3967L14.9096 16.3365C14.9618 16.6605 14.7413 16.9651 14.4174 17.0173C14.2897 17.0376 14.1592 17.0158 14.0451 16.9554L12.2783 16.0396C12.1043 15.9497 11.8978 15.9497 11.7238 16.0396L9.95604 16.9558C9.66641 17.1096 9.30717 16.9994 9.15341 16.7098C9.09297 16.5952 9.07121 16.4646 9.092 16.337L9.43046 14.3967C9.46383 14.2057 9.39952 14.0108 9.2593 13.8769L7.82762 12.5028C7.59505 12.2784 7.5878 11.908 7.81215 11.675C7.90402 11.5797 8.02586 11.5183 8.15737 11.5009L10.1349 11.2161C10.3279 11.189 10.4956 11.0691 10.5836 10.8951L11.4689 9.12832C11.6212 8.83435 11.9829 8.71976 12.2769 8.87206C12.3866 8.92863 12.4761 9.01808 12.5332 9.12832Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 16 icon with style variants.
+class _StarStarSquare16Icon {
+  const _StarStarSquare16Icon();
+
+  /// light style
+  _StarStarSquare16Light get light => const _StarStarSquare16Light();
+}
+
+/// Star square 16 — light style variants.
+class _StarStarSquare16Light {
+  const _StarStarSquare16Light();
+
+  /// Star square 16 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 16',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 2.97656H16.2169C19.165 2.97656 21 5.05774 21 8.00293V15.9501C21 18.8953 19.165 20.9765 16.2159 20.9765H7.78216C4.83405 20.9765 3 18.8953 3 15.9501V8.00293C3 5.05774 4.84281 2.97656 7.78216 2.97656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5332 8.18887L13.417 9.95513C13.5045 10.1292 13.6723 10.2491 13.8652 10.2762L15.8428 10.561C16.1634 10.603 16.3887 10.8975 16.3466 11.2181C16.3292 11.3491 16.2678 11.4709 16.1725 11.5628L14.7423 12.937C14.6016 13.0709 14.5373 13.2657 14.5711 13.4572L14.9096 15.3971C14.9618 15.721 14.7413 16.0256 14.4174 16.0778C14.2897 16.0982 14.1592 16.0764 14.0451 16.016L12.2783 15.1002C12.1043 15.0103 11.8978 15.0103 11.7238 15.1002L9.95604 16.0164C9.66641 16.1701 9.30717 16.0599 9.15341 15.7703C9.09297 15.6557 9.07121 15.5252 9.092 15.3975L9.43046 13.4572C9.46383 13.2662 9.39952 13.0714 9.2593 12.9374L7.82762 11.5633C7.59505 11.339 7.5878 10.9686 7.81215 10.7355C7.90402 10.6403 8.02586 10.5789 8.15737 10.5615L10.1349 10.2767C10.3279 10.2496 10.4956 10.1297 10.5836 9.95562L11.4689 8.18887C11.6212 7.8949 11.9829 7.7803 12.2769 7.93261C12.3866 7.98918 12.4761 8.07863 12.5332 8.18887Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 2.97656V5.58531" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 17.5703V20.9631" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9316 2.97656V7.93602M14.9316 20.9765V18.1095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18 3.26465V8.58914M18 20.6738V13.4875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.06836 2.97656V7.93602M9.06836 20.9765V18.1095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6 3.26465V8.58914M6 20.6738V13.4875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 17 icon with style variants.
+class _StarStarSquare17Icon {
+  const _StarStarSquare17Icon();
+
+  /// light style
+  _StarStarSquare17Light get light => const _StarStarSquare17Light();
+}
+
+/// Star square 17 — light style variants.
+class _StarStarSquare17Light {
+  const _StarStarSquare17Light();
+
+  /// Star square 17 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 17',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 2.97656H16.2169C19.165 2.97656 21 5.05774 21 8.00293V15.9501C21 18.8953 19.165 20.9765 16.2159 20.9765H7.78216C4.83405 20.9765 3 18.8953 3 15.9501V8.00293C3 5.05774 4.84281 2.97656 7.78216 2.97656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5332 8.18887L13.417 9.95513C13.5045 10.1292 13.6723 10.2491 13.8652 10.2762L15.8428 10.561C16.1634 10.603 16.3887 10.8975 16.3466 11.2181C16.3292 11.3491 16.2678 11.4709 16.1725 11.5628L14.7423 12.937C14.6016 13.0709 14.5373 13.2657 14.5711 13.4572L14.9096 15.3971C14.9618 15.721 14.7413 16.0256 14.4174 16.0778C14.2897 16.0982 14.1592 16.0764 14.0451 16.016L12.2783 15.1002C12.1043 15.0103 11.8978 15.0103 11.7238 15.1002L9.95604 16.0164C9.66641 16.1701 9.30717 16.0599 9.15341 15.7703C9.09297 15.6557 9.07121 15.5252 9.092 15.3975L9.43046 13.4572C9.46383 13.2662 9.39952 13.0714 9.2593 12.9374L7.82762 11.5633C7.59505 11.339 7.5878 10.9686 7.81215 10.7355C7.90402 10.6403 8.02586 10.5789 8.15737 10.5615L10.1349 10.2767C10.3279 10.2496 10.4956 10.1297 10.5836 9.95562L11.4689 8.18887C11.6212 7.8949 11.9829 7.7803 12.2769 7.93261C12.3866 7.98918 12.4761 8.07863 12.5332 8.18887Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 2.97656V5.58531" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 17.5703V20.9631" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9316 2.97656V7.93602M14.9316 20.9765V18.1095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18 3.26465V8.58914M18 20.6738V13.4875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.06836 2.97656V7.93602M9.06836 20.9765V18.1095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6 3.26465V8.58914M6 20.6738V13.4875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 18 icon with style variants.
+class _StarStarSquare18Icon {
+  const _StarStarSquare18Icon();
+
+  /// light style
+  _StarStarSquare18Light get light => const _StarStarSquare18Light();
+}
+
+/// Star square 18 — light style variants.
+class _StarStarSquare18Light {
+  const _StarStarSquare18Light();
+
+  /// Star square 18 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 18',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3H16.2169C19.165 3 21 5.08118 21 8.02637V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83405 21 3 18.9188 3 15.9736V8.02637C3 5.08118 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5332 8.2123L13.417 9.97857C13.5045 10.1526 13.6723 10.2725 13.8652 10.2996L15.8428 10.5844C16.1634 10.6265 16.3887 10.9209 16.3466 11.2415C16.3292 11.3725 16.2678 11.4944 16.1725 11.5863L14.7423 12.9604C14.6016 13.0943 14.5373 13.2892 14.5711 13.4807L14.9096 15.4205C14.9618 15.7444 14.7413 16.0491 14.4174 16.1013C14.2897 16.1216 14.1592 16.0998 14.0451 16.0394L12.2783 15.1236C12.1043 15.0337 11.8978 15.0337 11.7238 15.1236L9.95604 16.0398C9.66641 16.1936 9.30717 16.0833 9.15341 15.7938C9.09297 15.6792 9.07121 15.5486 9.092 15.421L9.43046 13.4807C9.46383 13.2897 9.39952 13.0948 9.2593 12.9609L7.82762 11.5867C7.59505 11.3624 7.5878 10.992 7.81215 10.759C7.90402 10.6637 8.02586 10.6023 8.15737 10.5849L10.1349 10.3001C10.3279 10.273 10.4956 10.1531 10.5836 9.97905L11.4689 8.2123C11.6212 7.91833 11.9829 7.80374 12.2769 7.95605C12.3866 8.01262 12.4761 8.10207 12.5332 8.2123Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Star',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 19 icon with style variants.
+class _StarStarSquare19Icon {
+  const _StarStarSquare19Icon();
+
+  /// outline style
+  _StarStarSquare19Outline get outline => const _StarStarSquare19Outline();
+}
+
+/// Star square 19 — outline style variants.
+class _StarStarSquare19Outline {
+  const _StarStarSquare19Outline();
+
+  /// Star square 19 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 19',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.83745 4.89668C4.16024 5.62322 3.75 6.68607 3.75 8.00293V15.9501C3.75 17.268 4.15861 18.3307 4.83451 19.0568C5.50475 19.7768 6.49341 20.2265 7.78216 20.2265H16.2159C17.5052 20.2265 18.4944 19.7767 19.165 19.0567C19.8412 18.3305 20.25 17.2678 20.25 15.9501V8.00293C20.25 6.68523 19.8412 5.62252 19.1651 4.8964C18.4946 4.17631 17.5057 3.72656 16.2169 3.72656H7.78216C6.49828 3.72656 5.50921 4.17599 4.83745 4.89668ZM3.7402 3.87392C4.72468 2.81773 6.12669 2.22656 7.78216 2.22656H16.2169C17.8762 2.22656 19.2789 2.81741 20.2629 3.87421C21.2413 4.92497 21.75 6.37545 21.75 8.00293V15.9501C21.75 17.5776 21.2413 19.0281 20.2627 20.0789C19.2785 21.1357 17.8757 21.7265 16.2159 21.7265H7.78216C6.1228 21.7265 4.72038 21.1357 3.73657 20.0788C2.75842 19.028 2.25 17.5775 2.25 15.9501V8.00293C2.25 6.37461 2.76117 4.92427 3.7402 3.87392Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0009 8.80131L12.7469 10.292C12.9452 10.6865 13.3244 10.9571 13.7594 11.0187C13.76 11.0188 13.7605 11.0188 13.761 11.0189L15.4091 11.2563L14.2252 12.3937C14.2247 12.3943 14.2241 12.3948 14.2236 12.3953C13.9027 12.7018 13.7552 13.1482 13.8324 13.5867C13.8325 13.5871 13.8325 13.5874 13.8326 13.5878L14.1152 15.2076L12.6235 14.4343C12.2335 14.2328 11.7695 14.2324 11.3795 14.4339L9.88643 15.2077L10.1693 13.5863C10.1693 13.5863 10.1693 13.5862 10.1693 13.5863C10.2457 13.1484 10.0983 12.7021 9.77806 12.3958C9.77781 12.3956 9.77757 12.3953 9.77733 12.3951L8.59127 11.2567L10.2409 11.0192C10.6761 10.9575 11.0543 10.6869 11.253 10.294L12.0009 8.80131ZM12.6213 7.26637C11.96 6.92423 11.146 7.1819 10.803 7.84386L9.95023 9.54555L8.05382 9.81864C7.75679 9.85914 7.48113 9.99838 7.27231 10.2149C6.76046 10.7466 6.77691 11.5918 7.30691 12.1031L7.30827 12.1044L8.6761 13.4173L8.35315 15.2687L8.35175 15.277C8.30442 15.5675 8.35438 15.8631 8.49002 16.1202L8.49099 16.1221C8.83814 16.7759 9.64872 17.026 10.3038 16.6809L12.001 15.8012L13.6976 16.6806C13.9544 16.8157 14.2481 16.8642 14.5352 16.8185L14.5367 16.8183C15.2688 16.7003 15.7683 16.0114 15.65 15.2777L15.3254 13.4168L16.6932 12.1027C16.9107 11.8929 17.0504 11.6154 17.0901 11.3169L17.0902 11.3157C17.1857 10.5878 16.6757 9.91696 15.946 9.81811L14.0505 9.54514L13.2039 7.85325L13.1992 7.84415C13.0712 7.5968 12.8697 7.39463 12.6213 7.26637Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.22656C12.4142 2.22656 12.75 2.56235 12.75 2.97656V5.58531C12.75 5.99952 12.4142 6.33531 12 6.33531C11.5858 6.33531 11.25 5.99952 11.25 5.58531V2.97656C11.25 2.56235 11.5858 2.22656 12 2.22656Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 16.8203C12.4142 16.8203 12.75 17.1561 12.75 17.5703V20.9632C12.75 21.3774 12.4142 21.7132 12 21.7132C11.5858 21.7132 11.25 21.3774 11.25 20.9632V17.5703C11.25 17.1561 11.5858 16.8203 12 16.8203Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9316 2.22656C15.3459 2.22656 15.6816 2.56235 15.6816 2.97656V7.93602C15.6816 8.35024 15.3459 8.68602 14.9316 8.68602C14.5174 8.68602 14.1816 8.35024 14.1816 7.93602V2.97656C14.1816 2.56235 14.5174 2.22656 14.9316 2.22656ZM14.9316 17.3595C15.3459 17.3595 15.6816 17.6953 15.6816 18.1095V20.9765C15.6816 21.3908 15.3459 21.7265 14.9316 21.7265C14.5174 21.7265 14.1816 21.3908 14.1816 20.9765V18.1095C14.1816 17.6953 14.5174 17.3595 14.9316 17.3595Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18 2.51465C18.4142 2.51465 18.75 2.85043 18.75 3.26465V8.58914C18.75 9.00335 18.4142 9.33914 18 9.33914C17.5858 9.33914 17.25 9.00335 17.25 8.58914V3.26465C17.25 2.85043 17.5858 2.51465 18 2.51465ZM18 12.7375C18.4142 12.7375 18.75 13.0733 18.75 13.4875V20.6738C18.75 21.088 18.4142 21.4238 18 21.4238C17.5858 21.4238 17.25 21.088 17.25 20.6738V13.4875C17.25 13.0733 17.5858 12.7375 18 12.7375Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 20 icon with style variants.
+class _StarStarSquare20Icon {
+  const _StarStarSquare20Icon();
+
+  /// outline style
+  _StarStarSquare20Outline get outline => const _StarStarSquare20Outline();
+}
+
+/// Star square 20 — outline style variants.
+class _StarStarSquare20Outline {
+  const _StarStarSquare20Outline();
+
+  /// Star square 20 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 20',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.83745 4.89668C4.16024 5.62322 3.75 6.68607 3.75 8.00293V15.9501C3.75 17.268 4.15861 18.3307 4.83451 19.0568C5.50475 19.7768 6.49341 20.2265 7.78216 20.2265H16.2159C17.5052 20.2265 18.4944 19.7767 19.165 19.0567C19.8412 18.3305 20.25 17.2678 20.25 15.9501V8.00293C20.25 6.68523 19.8412 5.62252 19.1651 4.8964C18.4946 4.17631 17.5057 3.72656 16.2169 3.72656H7.78216C6.49828 3.72656 5.50921 4.17599 4.83745 4.89668ZM3.7402 3.87392C4.72468 2.81773 6.12669 2.22656 7.78216 2.22656H16.2169C17.8762 2.22656 19.2789 2.81741 20.2629 3.87421C21.2413 4.92497 21.75 6.37545 21.75 8.00293V15.9501C21.75 17.5776 21.2413 19.0281 20.2627 20.0789C19.2785 21.1357 17.8757 21.7265 16.2159 21.7265H7.78216C6.1228 21.7265 4.72038 21.1357 3.73657 20.0788C2.75842 19.028 2.25 17.5775 2.25 15.9501V8.00293C2.25 6.37461 2.76117 4.92427 3.7402 3.87392Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0009 8.80131L12.7469 10.292C12.9452 10.6865 13.3244 10.9571 13.7594 11.0187C13.76 11.0188 13.7605 11.0188 13.761 11.0189L15.4091 11.2563L14.2252 12.3937C14.2247 12.3943 14.2241 12.3948 14.2236 12.3953C13.9027 12.7018 13.7552 13.1482 13.8324 13.5867C13.8325 13.5871 13.8325 13.5874 13.8326 13.5878L14.1152 15.2076L12.6235 14.4343C12.2335 14.2328 11.7695 14.2324 11.3795 14.4339L9.88643 15.2077L10.1693 13.5863C10.1693 13.5863 10.1693 13.5862 10.1693 13.5863C10.2457 13.1484 10.0983 12.7021 9.77806 12.3958C9.77781 12.3956 9.77757 12.3953 9.77733 12.3951L8.59127 11.2567L10.2409 11.0192C10.6761 10.9575 11.0543 10.6869 11.253 10.294L12.0009 8.80131ZM12.6213 7.26637C11.96 6.92423 11.146 7.1819 10.803 7.84386L9.95023 9.54555L8.05382 9.81864C7.75679 9.85914 7.48113 9.99838 7.27231 10.2149C6.76046 10.7466 6.77691 11.5918 7.30691 12.1031L7.30827 12.1044L8.6761 13.4173L8.35315 15.2687L8.35175 15.277C8.30442 15.5675 8.35438 15.8631 8.49002 16.1202L8.49099 16.1221C8.83814 16.7759 9.64872 17.026 10.3038 16.6809L12.001 15.8012L13.6976 16.6806C13.9544 16.8157 14.2481 16.8642 14.5352 16.8185L14.5367 16.8183C15.2688 16.7003 15.7683 16.0114 15.65 15.2777L15.3254 13.4168L16.6932 12.1027C16.9107 11.8929 17.0504 11.6154 17.0901 11.3169L17.0902 11.3157C17.1857 10.5878 16.6757 9.91696 15.946 9.81811L14.0505 9.54514L13.2039 7.85325L13.1992 7.84415C13.0712 7.5968 12.8697 7.39463 12.6213 7.26637Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.22656C12.4142 2.22656 12.75 2.56235 12.75 2.97656V5.58531C12.75 5.99952 12.4142 6.33531 12 6.33531C11.5858 6.33531 11.25 5.99952 11.25 5.58531V2.97656C11.25 2.56235 11.5858 2.22656 12 2.22656Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 16.8203C12.4142 16.8203 12.75 17.1561 12.75 17.5703V20.9632C12.75 21.3774 12.4142 21.7132 12 21.7132C11.5858 21.7132 11.25 21.3774 11.25 20.9632V17.5703C11.25 17.1561 11.5858 16.8203 12 16.8203Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9316 2.22656C15.3459 2.22656 15.6816 2.56235 15.6816 2.97656V7.93602C15.6816 8.35024 15.3459 8.68602 14.9316 8.68602C14.5174 8.68602 14.1816 8.35024 14.1816 7.93602V2.97656C14.1816 2.56235 14.5174 2.22656 14.9316 2.22656ZM14.9316 17.3595C15.3459 17.3595 15.6816 17.6953 15.6816 18.1095V20.9765C15.6816 21.3908 15.3459 21.7265 14.9316 21.7265C14.5174 21.7265 14.1816 21.3908 14.1816 20.9765V18.1095C14.1816 17.6953 14.5174 17.3595 14.9316 17.3595Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18 2.51465C18.4142 2.51465 18.75 2.85043 18.75 3.26465V8.58914C18.75 9.00335 18.4142 9.33914 18 9.33914C17.5858 9.33914 17.25 9.00335 17.25 8.58914V3.26465C17.25 2.85043 17.5858 2.51465 18 2.51465ZM18 12.7375C18.4142 12.7375 18.75 13.0733 18.75 13.4875V20.6738C18.75 21.088 18.4142 21.4238 18 21.4238C17.5858 21.4238 17.25 21.088 17.25 20.6738V13.4875C17.25 13.0733 17.5858 12.7375 18 12.7375Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.06836 2.22656C8.65415 2.22656 8.31836 2.56235 8.31836 2.97656V7.93602C8.31836 8.35024 8.65415 8.68602 9.06836 8.68602C9.48257 8.68602 9.81836 8.35024 9.81836 7.93602V2.97656C9.81836 2.56235 9.48257 2.22656 9.06836 2.22656ZM9.06836 17.3595C8.65415 17.3595 8.31836 17.6953 8.31836 18.1095V20.9765C8.31836 21.3908 8.65415 21.7265 9.06836 21.7265C9.48257 21.7265 9.81836 21.3908 9.81836 20.9765V18.1095C9.81836 17.6953 9.48257 17.3595 9.06836 17.3595Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6 2.51465C5.58579 2.51465 5.25 2.85043 5.25 3.26465V8.58914C5.25 9.00335 5.58579 9.33914 6 9.33914C6.41421 9.33914 6.75 9.00335 6.75 8.58914V3.26465C6.75 2.85043 6.41421 2.51465 6 2.51465ZM6 12.7375C5.58579 12.7375 5.25 13.0733 5.25 13.4875V20.6738C5.25 21.088 5.58579 21.4238 6 21.4238C6.41421 21.4238 6.75 21.088 6.75 20.6738V13.4875C6.75 13.0733 6.41421 12.7375 6 12.7375Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Star square 21 icon with style variants.
+class _StarStarSquare21Icon {
+  const _StarStarSquare21Icon();
+
+  /// outline style
+  _StarStarSquare21Outline get outline => const _StarStarSquare21Outline();
+}
+
+/// Star square 21 — outline style variants.
+class _StarStarSquare21Outline {
+  const _StarStarSquare21Outline();
+
+  /// Star square 21 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Star square 21',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.83745 4.92012C4.16024 5.64666 3.75 6.7095 3.75 8.02637V15.9736C3.75 17.2914 4.15861 18.3541 4.83451 19.0802C5.50475 19.8002 6.49341 20.25 7.78216 20.25H16.2159C17.5052 20.25 18.4944 19.8002 19.165 19.0801C19.8412 18.354 20.25 17.2913 20.25 15.9736V8.02637C20.25 6.70867 19.8412 5.64596 19.1651 4.91983C18.4946 4.19975 17.5057 3.75 16.2169 3.75H7.78216C6.49828 3.75 5.50921 4.19943 4.83745 4.92012ZM3.7402 3.89736C4.72468 2.84117 6.12669 2.25 7.78216 2.25H16.2169C17.8762 2.25 19.2789 2.84084 20.2629 3.89765C21.2413 4.94841 21.75 6.39888 21.75 8.02637V15.9736C21.75 17.6011 21.2413 19.0516 20.2627 20.1024C19.2785 21.1592 17.8757 21.75 16.2159 21.75H7.78216C6.1228 21.75 4.72038 21.1591 3.73657 20.1022C2.75842 19.0514 2.25 17.601 2.25 15.9736V8.02637C2.25 6.39805 2.76117 4.94771 3.7402 3.89736Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0009 8.82475L12.7469 10.3155C12.9452 10.7099 13.3244 10.9806 13.7594 11.0421C13.76 11.0422 13.7605 11.0423 13.761 11.0424L15.4091 11.2797L14.2252 12.4172C14.2247 12.4177 14.2241 12.4182 14.2236 12.4187C13.9027 12.7252 13.7552 13.1716 13.8324 13.6102C13.8325 13.6105 13.8325 13.6109 13.8326 13.6112L14.1152 15.231L12.6235 14.4578C12.2335 14.2563 11.7695 14.2558 11.3795 14.4573L9.88643 15.2312L10.1693 13.6097C10.1693 13.6098 10.1693 13.6097 10.1693 13.6097C10.2457 13.1718 10.0983 12.7256 9.77806 12.4192C9.77781 12.419 9.77757 12.4188 9.77733 12.4185L8.59127 11.2802L10.2409 11.0426C10.6761 10.981 11.0543 10.7103 11.253 10.3175L12.0009 8.82475ZM12.6213 7.2898C11.96 6.94767 11.146 7.20534 10.803 7.8673L9.95023 9.56898L8.05382 9.84208C7.75679 9.88258 7.48113 10.0218 7.27231 10.2383C6.76046 10.77 6.77691 11.6153 7.30691 12.1265L7.30827 12.1278L8.6761 13.4407L8.35315 15.2921L8.35175 15.3004C8.30442 15.591 8.35438 15.8865 8.49002 16.1437L8.49099 16.1455C8.83814 16.7993 9.64872 17.0494 10.3038 16.7043L12.001 15.8247L13.6976 16.7041C13.9544 16.8391 14.2481 16.8877 14.5352 16.842L14.5367 16.8417C15.2688 16.7237 15.7683 16.0349 15.65 15.3012L15.3254 13.4402L16.6932 12.1261C16.9107 11.9163 17.0504 11.6389 17.0901 11.3403L17.0902 11.3391C17.1857 10.6112 16.6757 9.9404 15.946 9.84154L14.0505 9.56858L13.2039 7.87669L13.1992 7.86758C13.0712 7.62024 12.8697 7.41807 12.6213 7.2898Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -732,44 +2284,8 @@ class _StarStarGlowingLight {
 class _StarCometIcon {
   const _StarCometIcon();
 
-  /// bold style
-  _StarCometBold get bold => const _StarCometBold();
-  /// bulk style
-  _StarCometBulk get bulk => const _StarCometBulk();
   /// twoTone style
   _StarCometTwotone get twoTone => const _StarCometTwotone();
-  /// broken style
-  _StarCometBroken get broken => const _StarCometBroken();
-}
-
-/// comet — bulk style variants.
-class _StarCometBulk {
-  const _StarCometBulk();
-
-  /// comet — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'comet',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.1909 7.94423C5.5079 7.70523 6.3119 8.47323 6.3419 8.50423C6.4389 8.60123 6.5669 8.65223 6.6979 8.65223C6.7789 8.65223 6.8599 8.63223 6.9349 8.59223C7.1309 8.48723 7.2329 8.26523 7.1869 8.04823C7.0209 7.27023 7.2329 6.48223 7.7659 5.88523C7.9109 5.72423 7.9349 5.48723 7.8259 5.30023C7.7169 5.11323 7.5029 5.01623 7.2879 5.06323C6.5219 5.22823 5.7159 5.01323 5.1299 4.48923C4.9689 4.34523 4.7329 4.32123 4.5449 4.43023C4.3579 4.53923 4.2629 4.75623 4.3079 4.96723C4.4729 5.73223 4.2569 6.53523 3.7309 7.11623C3.5869 7.27523 3.5599 7.50723 3.6639 7.69523C3.7679 7.88223 3.9789 7.97723 4.1909 7.94423Z" fill="black"/> <path d="M11.4049 11.7468C11.4507 11.0702 12.0215 10.5234 12.7204 10.5746C12.9796 10.5933 13.2234 10.6958 13.4195 10.8635L13.4247 10.868L15.2665 12.4863C15.3225 12.5352 15.3926 12.549 15.4557 12.5309L15.4575 12.5304L17.8054 11.8661C18.4705 11.6708 19.132 12.0829 19.3081 12.7298C19.38 12.9958 19.3637 13.2812 19.261 13.5379L18.3243 15.866L18.3234 15.8681C18.2909 15.9478 18.2997 16.0383 18.3431 16.1072L18.3437 16.1082L19.6628 18.2105C20.0135 18.7854 19.8582 19.5538 19.2911 19.9313L19.2902 19.9318C19.0654 20.0808 18.7981 20.1509 18.5287 20.1291L16.1117 19.9502C16.0448 19.9454 15.9728 19.9739 15.9209 20.04L14.3869 22.0009C13.9664 22.547 13.1869 22.6411 12.654 22.1954L12.6529 22.1945C12.4471 22.0213 12.3029 21.786 12.2398 21.5239L12.2386 21.5186L11.6801 19.0795C11.6607 18.9946 11.6048 18.9364 11.5443 18.913L11.5432 18.9125L9.27725 18.0286L9.27604 18.0281C8.64252 17.7791 8.34644 17.0599 8.57138 16.4335C8.66483 16.174 8.84142 15.9506 9.07625 15.803L11.1511 14.4725C11.2132 14.433 11.2617 14.3568 11.2673 14.2637L11.4049 11.7468Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.7206 5.95391C16.0394 6.54976 13.8338 7.87844 11.5279 9.83198C9.22724 11.781 7.31333 13.94 6.0787 15.8392C5.46043 16.7902 5.02742 17.6532 4.79457 18.3748C4.55476 19.1179 4.56178 19.6028 4.66651 19.8739C4.73349 20.0473 4.84749 20.1592 5.07613 20.2262C5.33948 20.3034 5.75244 20.3136 6.33427 20.1878C7.49293 19.9373 9.06558 19.2041 10.8388 18.0082C11.1822 17.7766 11.6484 17.8673 11.88 18.2107C12.1116 18.5541 12.0209 19.0202 11.6775 19.2518C9.82838 20.4989 8.07359 21.3464 6.65129 21.6539C5.94266 21.8071 5.25177 21.8408 4.65435 21.6657C4.02222 21.4805 3.51852 21.0647 3.26732 20.4145C2.97901 19.6683 3.08725 18.7812 3.36706 17.9141C3.65383 17.0255 4.15883 16.0403 4.8211 15.0216C6.14752 12.9813 8.16473 10.7153 10.5583 8.68748C12.9465 6.66417 15.3092 5.21713 17.2195 4.54009C18.1669 4.20428 19.0712 4.03318 19.8386 4.13075C20.6468 4.23352 21.3479 4.65052 21.6655 5.47247C22.1077 6.61699 21.965 8.26203 20.9559 10.025C20.7501 10.3845 20.2918 10.5091 19.9324 10.3034C19.5729 10.0976 19.4483 9.63936 19.654 9.27987C20.5095 7.7853 20.5005 6.61922 20.2663 6.01309C20.1909 5.81779 20.0419 5.66868 19.6493 5.61877C19.2159 5.56365 18.5688 5.65328 17.7206 5.95391Z" fill="black"/> </svg>',
-    category: 'Star',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// comet — broken style variants.
-class _StarCometBroken {
-  const _StarCometBroken();
-
-  /// comet — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'comet',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.9882 16.9681C19.064 17.4385 18.7439 17.8809 18.2735 17.9567C18.0881 17.9862 17.8985 17.9546 17.7328 17.8668L15.1674 16.537C14.9146 16.4064 14.6148 16.4064 14.3621 16.537L11.7952 17.8674C11.3746 18.0907 10.853 17.9306 10.6297 17.5102C10.5419 17.3438 10.5103 17.1542 10.5405 16.9688L11.032 14.1513C11.0804 13.874 10.9871 13.591 10.7834 13.3965L8.70453 11.4012C8.36682 11.0754 8.35629 10.5376 8.68206 10.1992C8.81546 10.0609 8.99239 9.97169 9.18336 9.9464L12.055 9.53286C12.3351 9.49355 12.5787 9.31943 12.7065 9.06667L13.992 6.50119C14.2132 6.07432 14.7384 5.90792 15.1653 6.12909C15.3246 6.21123 15.4545 6.34112 15.5374 6.50119L16.8208 9.06597C16.9479 9.31872 17.1915 9.49284 17.4717 9.53216L20.3433 9.94569C20.8087 10.0068 21.1359 10.4344 21.0749 10.8999C21.0496 11.0901 20.9604 11.2671 20.8221 11.4005L18.7453 13.3958" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.832 15.2217C8.26506 13.471 4.66198 15.5232 3.08226 16.7693C2.58651 14.751 3.23674 12.2956 4.70834 10.3672" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.77539 8.41525C8.55996 7.22567 10.866 6.71219 13.4826 7.50105" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Star',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// comet — twoTone style variants.
@@ -779,6 +2295,52 @@ class _StarCometTwotone {
   /// comet — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'comet',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4423 11.0921L15.2846 12.7109C15.4666 12.8702 15.7123 12.9257 15.9413 12.86L18.2918 12.195C18.6709 12.0825 19.0653 12.313 19.173 12.709C19.2168 12.8709 19.207 13.0444 19.1448 13.1998L18.208 15.5279C18.1153 15.7555 18.1374 16.0157 18.2678 16.2225L19.5836 18.3194C19.7985 18.6717 19.6989 19.1391 19.3616 19.3636C19.2286 19.4517 19.072 19.4922 18.9151 19.4791L16.4957 19.3001C16.2574 19.2828 16.0264 19.387 15.8751 19.5799L14.3395 21.543C14.0896 21.8689 13.6344 21.9213 13.3224 21.6604C13.1994 21.5569 13.112 21.4153 13.0736 21.2556L12.5151 18.8165C12.4602 18.5764 12.2941 18.3811 12.0725 18.2953L9.8066 17.4113C9.43797 17.2664 9.25095 16.8371 9.38943 16.4515C9.44622 16.2938 9.55291 16.1605 9.69166 16.0738L11.7671 14.7429C11.9699 14.6139 12.0997 14.3891 12.1141 14.1412L12.2514 11.6291C12.2798 11.2086 12.6292 10.8921 13.0318 10.9219C13.1819 10.9326 13.3252 10.992 13.4423 11.0921Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.6521 9.50111C21.5844 7.87232 21.6513 6.46676 21.3131 5.59144C20.527 3.55695 16.0843 5.13154 11.3902 9.10839C6.69605 13.0852 3.52795 17.9584 4.31404 19.9929C4.9504 21.6398 7.98292 20.9217 11.6053 18.4787" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.45036 7.55232C5.08448 6.84807 5.34418 5.88314 5.14607 4.95589C5.85004 5.59108 6.81486 5.84903 7.7425 5.6516C7.10731 6.35557 6.84868 7.32078 7.04679 8.24803" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 1 icon with style variants.
+class _StarComet1Icon {
+  const _StarComet1Icon();
+
+  /// twoTone style
+  _StarComet1Twotone get twoTone => const _StarComet1Twotone();
+}
+
+/// comet 1 — twoTone style variants.
+class _StarComet1Twotone {
+  const _StarComet1Twotone();
+
+  /// comet 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.7252 6.32733L17.0619 8.99851C17.1942 9.26175 17.448 9.4431 17.7397 9.48405L20.7305 9.91473C21.2153 9.97837 21.556 10.4237 21.4924 10.9085C21.4661 11.1067 21.3732 11.2909 21.2292 11.4299L19.0662 13.508C18.8534 13.7106 18.7561 14.0053 18.8073 14.2948L19.3192 17.2285C19.3982 17.7184 19.0647 18.1791 18.5748 18.2581C18.3818 18.2888 18.1843 18.2559 18.0118 18.1645L15.3398 16.7795C15.0766 16.6435 14.7644 16.6435 14.5011 16.7795L11.8277 18.1651C11.3897 18.3977 10.8464 18.231 10.6139 17.793C10.5225 17.6197 10.4896 17.4223 10.521 17.2292L11.0329 14.2948C11.0834 14.006 10.9861 13.7113 10.774 13.5087L8.60888 11.4306C8.25716 11.0913 8.24619 10.5312 8.58548 10.1787C8.72441 10.0347 8.90868 9.94181 9.10757 9.91546L12.0983 9.48478C12.3901 9.44383 12.6438 9.26248 12.7769 8.99924L14.1158 6.32733C14.3461 5.88275 14.8931 5.70945 15.3376 5.93979C15.5036 6.02534 15.6389 6.16062 15.7252 6.32733Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.42582 15.6227C7.44473 15.5476 6.42824 15.7749 5.4873 16.1374" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.50078 12.5476C4.18637 12.2357 4.93091 11.979 5.68482 11.8504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.81001 8.03187C6.4637 7.03102 8.40643 6.43238 10.4301 6.48823" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 2 icon with style variants.
+class _StarComet2Icon {
+  const _StarComet2Icon();
+
+  /// twoTone style
+  _StarComet2Twotone get twoTone => const _StarComet2Twotone();
+}
+
+/// comet 2 — twoTone style variants.
+class _StarComet2Twotone {
+  const _StarComet2Twotone();
+
+  /// comet 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 2',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M8.07365 8.73383L10.3451 10.473C10.57 10.6443 10.8635 10.6943 11.1322 10.6078L13.8879 9.72312C14.332 9.57546 14.8125 9.81516 14.9605 10.2592C15.0215 10.4418 15.0181 10.6388 14.9523 10.8193L13.9617 13.515C13.8636 13.7787 13.9035 14.074 14.0686 14.301L15.7402 16.6128C16.0132 17.0011 15.919 17.5382 15.531 17.8112C15.3772 17.9189 15.1941 17.9734 15.0069 17.9676L12.1254 17.8957C11.8419 17.8887 11.573 18.0202 11.4037 18.2471L9.6828 20.5617C9.40255 20.9451 8.86546 21.0293 8.48103 20.75C8.33062 20.639 8.21893 20.4824 8.16436 20.3034L7.37558 17.5623C7.29796 17.2922 7.08981 17.0786 6.8228 16.9933L4.08738 16.1123C3.6413 15.9681 3.39737 15.4897 3.54136 15.0444C3.60099 14.8621 3.72043 14.7048 3.88029 14.5991L6.27528 12.9738C6.50958 12.816 6.65162 12.5532 6.65552 12.2715L6.68737 9.40909C6.69952 8.92927 7.09804 8.55126 7.57807 8.56276C7.75585 8.56733 7.9301 8.6274 8.07365 8.73383Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.1194 3.08496L13.7053 4.49912M11.2285 6.97636L11.8076 6.39729" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2793 7.18443L18.5854 5.87793" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.4995 9.14746L20.7471 9.89982M17.1914 13.4554L19.0279 11.6189" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Star',
     style: IconfyStyle.twoTone,
@@ -787,16 +2349,484 @@ class _StarCometTwotone {
 
 }
 
-/// comet — bold style variants.
-class _StarCometBold {
-  const _StarCometBold();
+/// comet 3 icon with style variants.
+class _StarComet3Icon {
+  const _StarComet3Icon();
 
-  /// comet — bold / regular
+  /// twoTone style
+  _StarComet3Twotone get twoTone => const _StarComet3Twotone();
+}
+
+/// comet 3 — twoTone style variants.
+class _StarComet3Twotone {
+  const _StarComet3Twotone();
+
+  /// comet 3 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'comet',
+    name: 'comet 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.2414 3.29871L16.706 5.29597C16.8508 5.49271 17.0834 5.60561 17.3276 5.59846L19.8322 5.53407C20.2373 5.51858 20.5778 5.83513 20.5933 6.24026C20.5994 6.4059 20.5491 6.56945 20.4507 6.70307L18.9721 8.70288C18.8264 8.89807 18.7879 9.15248 18.8701 9.38204L19.697 11.7087C19.8297 12.0982 19.6213 12.5212 19.2319 12.6539C19.0784 12.7059 18.9124 12.7065 18.7586 12.6558L16.3818 11.8958C16.1477 11.8213 15.8925 11.8648 15.6962 12.0126L13.704 13.5174C13.3784 13.7685 12.9111 13.7078 12.66 13.3823C12.5612 13.2533 12.5068 13.0965 12.5056 12.9344L12.5154 10.4645C12.5164 10.2214 12.3959 9.9941 12.1944 9.85807L10.1353 8.4609C9.80052 8.23254 9.71357 7.77623 9.94182 7.4409C10.0353 7.30381 10.173 7.20225 10.3319 7.15302L12.7165 6.38456C12.9493 6.31046 13.1314 6.12691 13.2036 5.89321L13.9259 3.52281C14.0523 3.12735 14.4752 2.90953 14.8707 3.0359C15.0183 3.08272 15.1477 3.17446 15.2414 3.29871Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.4986 11.4037C10.0596 10.2857 5.75639 12.8848 4.37779 16.5611C2.49728 10.7967 7.53932 3.68643 13.6357 4.44681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.0869 18.1422C18.064 18.3084 18.9029 18.933 19.3414 19.8227C19.5075 18.8448 20.1322 18.0067 21.0219 17.5681C20.0439 17.4012 19.2059 16.7773 18.7673 15.8877C18.6013 16.8656 17.9756 17.703 17.0869 18.1422Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.27832 18.2481C8.82952 18.5454 10.1454 19.5685 10.8145 21.0005C11.1117 19.448 12.1349 18.1334 13.5669 17.4643C12.0143 17.1659 10.6998 16.144 10.0307 14.7119C9.73357 16.2644 8.70891 17.5779 7.27832 18.2481Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 4 icon with style variants.
+class _StarComet4Icon {
+  const _StarComet4Icon();
+
+  /// twoTone style
+  _StarComet4Twotone get twoTone => const _StarComet4Twotone();
+}
+
+/// comet 4 — twoTone style variants.
+class _StarComet4Twotone {
+  const _StarComet4Twotone();
+
+  /// comet 4 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6406 11.9913L13.9688 13.1585C14.1001 13.2733 14.2772 13.3133 14.4423 13.266L16.137 12.7865C16.4103 12.7054 16.6947 12.8716 16.7724 13.1571C16.8039 13.2738 16.7968 13.3989 16.752 13.511L16.0766 15.1895C16.0097 15.3536 16.0257 15.5412 16.1197 15.6903L17.0684 17.2021C17.2233 17.4562 17.1515 17.7931 16.9083 17.955C16.8124 18.0185 16.6995 18.0477 16.5864 18.0383L14.842 17.9092C14.6703 17.8967 14.5037 17.9719 14.3946 18.111L13.2874 19.5263C13.1073 19.7613 12.779 19.7991 12.5541 19.611C12.4655 19.5364 12.4024 19.4342 12.3747 19.3191L11.9721 17.5606C11.9325 17.3874 11.8127 17.2466 11.6529 17.1847L10.0193 16.5474C9.75348 16.4429 9.61864 16.1334 9.71848 15.8554C9.75943 15.7417 9.83635 15.6456 9.93639 15.5831L11.4328 14.6235C11.579 14.5305 11.6726 14.3684 11.683 14.1897L11.7819 12.3785C11.8024 12.0753 12.0543 11.8472 12.3446 11.8686C12.4528 11.8763 12.5561 11.9192 12.6406 11.9913Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.9713 15.4522C20.1964 14.9939 20.7586 14.0818 20.8537 13.2479C21.075 11.3096 17.5142 9.27311 12.9007 8.69935C8.28709 8.12558 4.36772 9.23177 4.14649 11.1701C3.99503 12.4972 5.61636 13.8703 8.13463 14.7884" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2532 7.94132C17.431 6.64546 16.8949 5.71787 16.206 5.23838C14.6047 4.12394 11.1226 6.29203 8.42846 10.0809C5.73431 13.8698 4.84835 17.8448 6.44961 18.9592C7.54593 19.7223 9.5239 18.9466 11.527 17.1655" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 5 icon with style variants.
+class _StarComet5Icon {
+  const _StarComet5Icon();
+
+  /// twoTone style
+  _StarComet5Twotone get twoTone => const _StarComet5Twotone();
+}
+
+/// comet 5 — twoTone style variants.
+class _StarComet5Twotone {
+  const _StarComet5Twotone();
+
+  /// comet 5 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6406 11.9913L13.9688 13.1585C14.1001 13.2733 14.2772 13.3133 14.4423 13.266L16.137 12.7865C16.4103 12.7054 16.6947 12.8716 16.7724 13.1571C16.8039 13.2738 16.7968 13.3989 16.752 13.511L16.0766 15.1895C16.0097 15.3536 16.0257 15.5412 16.1197 15.6903L17.0684 17.2021C17.2233 17.4562 17.1515 17.7931 16.9083 17.955C16.8124 18.0185 16.6995 18.0477 16.5864 18.0383L14.842 17.9092C14.6703 17.8967 14.5037 17.9719 14.3946 18.111L13.2874 19.5263C13.1073 19.7613 12.779 19.7991 12.5541 19.611C12.4655 19.5364 12.4024 19.4342 12.3747 19.3191L11.9721 17.5606C11.9325 17.3874 11.8127 17.2466 11.6529 17.1847L10.0193 16.5474C9.75348 16.4429 9.61864 16.1334 9.71848 15.8554C9.75943 15.7417 9.83635 15.6456 9.93639 15.5831L11.4328 14.6235C11.579 14.5305 11.6726 14.3684 11.683 14.1897L11.7819 12.3785C11.8024 12.0753 12.0543 11.8472 12.3446 11.8686C12.4528 11.8763 12.5561 11.9192 12.6406 11.9913Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.9713 15.4522C20.1964 14.9939 20.7586 14.0818 20.8537 13.2479C21.075 11.3096 17.5142 9.27311 12.9007 8.69935C8.28709 8.12558 4.36772 9.23177 4.14649 11.1701C3.99503 12.4972 5.61636 13.8703 8.13463 14.7884" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2532 7.94132C17.431 6.64546 16.8949 5.71787 16.206 5.23838C14.6047 4.12394 11.1226 6.29203 8.42846 10.0809C5.73431 13.8698 4.84835 17.8448 6.44961 18.9592C7.54593 19.7223 9.5239 18.9466 11.527 17.1655" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 6 icon with style variants.
+class _StarComet6Icon {
+  const _StarComet6Icon();
+
+  /// bold style
+  _StarComet6Bold get bold => const _StarComet6Bold();
+}
+
+/// comet 6 — bold style variants.
+class _StarComet6Bold {
+  const _StarComet6Bold();
+
+  /// comet 6 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.153 11.5548C21.34 11.3728 21.457 11.1428 21.49 10.8878C21.572 10.2608 21.144 9.69879 20.516 9.60779L17.524 9.17779C17.313 9.14879 17.13 9.01979 17.035 8.83379L15.699 6.16379C15.698 6.16279 15.698 6.16179 15.698 6.16179C15.592 5.95379 15.422 5.78279 15.202 5.66279C14.926 5.52079 14.612 5.49279 14.318 5.58779C14.024 5.68179 13.784 5.88579 13.642 6.16279L12.303 8.83179C12.207 9.01979 12.025 9.14879 11.812 9.17779L8.83199 9.61679C8.57199 9.64279 8.33099 9.76279 8.15499 9.95079C7.72099 10.3998 7.73499 11.1188 8.18499 11.5548L10.352 13.6368C10.502 13.7788 10.572 13.9908 10.536 14.1928L10.025 17.1348C9.98399 17.3798 10.026 17.6358 10.143 17.8528C10.35 18.2438 10.751 18.4678 11.164 18.4678C11.343 18.4678 11.524 18.4258 11.693 18.3368L14.369 16.9468C14.558 16.8448 14.783 16.8458 14.974 16.9478L17.636 18.3228C17.855 18.4478 18.106 18.4918 18.365 18.4518C18.99 18.3498 19.417 17.7598 19.315 17.1328L18.803 14.1908C18.767 13.9908 18.837 13.7788 18.989 13.6358L21.153 11.5548Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.22861 14.8175C7.20761 14.7425 6.11161 14.9355 4.96261 15.3865C4.57761 15.5385 4.38761 15.9735 4.53861 16.3595C4.65461 16.6545 4.93761 16.8355 5.23661 16.8355C5.32861 16.8355 5.42061 16.8185 5.51061 16.7835C6.44961 16.4145 7.32661 16.2575 8.12161 16.3135C8.54861 16.3555 8.89361 16.0325 8.92261 15.6195C8.95261 15.2065 8.64161 14.8475 8.22861 14.8175Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.1735 11.6676C6.1035 11.2596 5.7155 10.9906 5.3065 11.0556C4.5625 11.1846 3.7665 11.4386 2.9415 11.8116C2.5635 11.9816 2.3965 12.4256 2.5665 12.8036C2.6925 13.0806 2.9655 13.2446 3.2505 13.2446C3.3535 13.2446 3.4585 13.2236 3.5595 13.1786C4.2685 12.8576 4.9425 12.6406 5.5615 12.5346C5.9695 12.4636 6.2435 12.0756 6.1735 11.6676Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.55971 8.72556C4.69171 8.72556 4.82571 8.69056 4.94771 8.61756C6.58371 7.62756 8.38371 7.14256 10.1567 7.18456C10.5697 7.20556 10.9167 6.87156 10.9287 6.45756C10.9417 6.04356 10.6157 5.69856 10.2017 5.68556C8.14371 5.62856 6.05671 6.19456 4.17071 7.33356C3.81671 7.54856 3.70371 8.00956 3.91771 8.36356C4.05871 8.59656 4.30671 8.72556 4.55971 8.72556Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 7 icon with style variants.
+class _StarComet7Icon {
+  const _StarComet7Icon();
+
+  /// bold style
+  _StarComet7Bold get bold => const _StarComet7Bold();
+}
+
+/// comet 7 — bold style variants.
+class _StarComet7Bold {
+  const _StarComet7Bold();
+
+  /// comet 7 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5234 14.4055C13.4074 14.2445 13.3784 14.0405 13.4474 13.8575L14.4384 11.1565C14.5244 10.9205 14.5274 10.6625 14.4494 10.4315C14.2584 9.86652 13.6364 9.55352 13.0614 9.73352L10.3114 10.6225C10.1194 10.6805 9.90644 10.6425 9.74844 10.5235L7.47744 8.78352C7.47344 8.78052 7.47044 8.77852 7.46744 8.77652C7.28444 8.64952 7.06844 8.57452 6.83444 8.56152C6.19744 8.56452 5.70544 9.03852 5.68844 9.65852L5.65744 12.5185C5.65444 12.7195 5.55244 12.9075 5.38544 13.0145L2.99844 14.6395C2.79244 14.7685 2.63444 14.9725 2.55344 15.2155C2.46244 15.4995 2.48844 15.8015 2.62544 16.0635C2.75844 16.3225 2.98544 16.5125 3.26144 16.5995L5.99444 17.4785C6.18544 17.5435 6.33344 17.6935 6.38644 17.8815L7.17544 20.6245C7.24644 20.8555 7.39144 21.0615 7.58544 21.2035C7.77844 21.3445 8.00444 21.4185 8.23844 21.4185C8.29744 21.4185 8.35744 21.4135 8.41644 21.4045C8.70844 21.3575 8.96344 21.1985 9.13344 20.9615L10.8564 18.6495C10.9764 18.4865 11.1674 18.3885 11.3704 18.4015L14.2574 18.4715C14.5064 18.4715 14.7384 18.4005 14.9244 18.2665C15.1664 18.0985 15.3284 17.8455 15.3794 17.5535C15.4324 17.2595 15.3674 16.9635 15.1934 16.7155L13.5234 14.4055Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.956 5.50178C13.148 5.50178 13.341 5.42778 13.487 5.28078L14.901 3.86078C15.193 3.56778 15.192 3.09278 14.899 2.80078C14.606 2.50778 14.132 2.50978 13.839 2.80278L12.425 4.22278C12.133 4.51578 12.134 4.99078 12.427 5.28278C12.573 5.42878 12.765 5.50178 12.956 5.50178Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.4786 7.98162C10.6706 7.98162 10.8636 7.90862 11.0096 7.76162L11.5886 7.18162C11.8806 6.88862 11.8806 6.41362 11.5876 6.12062C11.2936 5.82762 10.8186 5.82862 10.5266 6.12162L9.94757 6.70162C9.65557 6.99462 9.65557 7.46962 9.94857 7.76262C10.0946 7.90862 10.2876 7.98162 10.4786 7.98162Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5302 8.18171C16.7212 8.18171 16.9132 8.10871 17.0592 7.96371L18.3652 6.66371C18.6582 6.37071 18.6602 5.89671 18.3672 5.60271C18.0742 5.30871 17.5992 5.30871 17.3062 5.59971L16.0012 6.89971C15.7082 7.19271 15.7062 7.66671 15.9992 7.96071C16.1452 8.10771 16.3382 8.18171 16.5302 8.18171Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2812 8.87162C20.9892 8.57862 20.5142 8.57762 20.2202 8.87062L19.4692 9.62062C19.1752 9.91362 19.1752 10.3876 19.4672 10.6816C19.6132 10.8286 19.8052 10.9016 19.9982 10.9016C20.1892 10.9016 20.3812 10.8286 20.5272 10.6826L21.2792 9.93262C21.5732 9.63962 21.5732 9.16462 21.2812 8.87162Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.7471 11.3419L15.9111 13.1819C15.6191 13.4749 15.6191 13.9499 15.9131 14.2419C16.0591 14.3879 16.2511 14.4619 16.4421 14.4619C16.6351 14.4619 16.8271 14.3879 16.9741 14.2409L18.8091 12.4019C19.1011 12.1079 19.1011 11.6339 18.8081 11.3409C18.5161 11.0489 18.0391 11.0489 17.7471 11.3419Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 8 icon with style variants.
+class _StarComet8Icon {
+  const _StarComet8Icon();
+
+  /// bold style
+  _StarComet8Bold get bold => const _StarComet8Bold();
+}
+
+/// comet 8 — bold style variants.
+class _StarComet8Bold {
+  const _StarComet8Bold();
+
+  /// comet 8 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.53622 10.7651C6.90922 11.4391 5.40822 12.6921 4.35822 14.1871C4.27122 12.0611 5.03722 9.82413 6.53922 8.00213C8.23222 5.95013 10.4912 4.89813 12.7852 5.04713L12.5892 5.69213C12.5412 5.85013 12.4242 5.96813 12.2642 6.01613L9.88022 6.78613C9.66322 6.85413 9.48322 6.98913 9.35822 7.17513C9.05322 7.63013 9.16722 8.23013 9.61922 8.54013L11.6832 9.94413C11.8112 10.0271 11.8902 10.1761 11.8902 10.3331V10.4241C10.9112 10.1611 9.75122 10.2611 8.53622 10.7651ZM18.9352 12.7611C19.1872 12.6771 19.3902 12.5001 19.5092 12.2631C19.6262 12.0261 19.6432 11.7561 19.5572 11.5001L18.7302 9.16913C18.6762 9.01813 18.7012 8.85513 18.7982 8.72313L20.2742 6.72513C20.4082 6.54813 20.4752 6.33413 20.4682 6.10413C20.4462 5.56613 20.0002 5.14013 19.4502 5.15413L16.9412 5.22413C16.7832 5.23413 16.6282 5.15313 16.5322 5.02613L15.0682 3.02613C14.9402 2.85013 14.7652 2.72813 14.5732 2.67713C14.3182 2.59213 14.0492 2.61413 13.8102 2.73513C13.5722 2.85613 13.3942 3.06313 13.3102 3.32113L13.2342 3.57313C10.3312 3.25613 7.47422 4.51113 5.38222 7.04813C3.07022 9.85113 2.26822 13.5371 3.29022 16.6671C3.38922 16.9701 3.66822 17.1771 3.98722 17.1841H4.00322C4.31522 17.1841 4.59622 16.9901 4.70522 16.6971C5.43822 14.7401 7.16722 12.9561 9.11022 12.1511C10.1662 11.7131 11.1272 11.6431 11.8132 11.9561C11.8362 11.9671 11.8602 11.9651 11.8832 11.9731L11.8802 12.8051C11.8812 13.0261 11.9512 13.2271 12.0862 13.4051C12.2472 13.6181 12.4812 13.7541 12.7442 13.7891C12.7892 13.7951 12.8342 13.7981 12.8782 13.7981C13.0952 13.7981 13.3062 13.7271 13.4802 13.5931L15.4732 12.0821C15.6002 11.9841 15.7682 11.9581 15.9302 12.0121L18.3062 12.7721C18.5222 12.8421 18.7422 12.8371 18.9352 12.7611Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.7325 16.9517C19.9115 16.8087 19.2045 16.2827 18.8395 15.5427C18.7445 15.3487 18.5445 15.2347 18.3195 15.2687C18.1045 15.3007 17.9345 15.4667 17.8985 15.6807C17.7605 16.4927 17.2345 17.1977 16.4895 17.5657C16.2955 17.6607 16.1855 17.8707 16.2155 18.0847C16.2475 18.2997 16.4125 18.4697 16.6255 18.5067C17.4465 18.6497 18.1535 19.1767 18.5175 19.9147C18.6025 20.0877 18.7775 20.1947 18.9655 20.1947C18.9895 20.1947 19.0135 20.1927 19.0385 20.1887C19.2535 20.1577 19.4225 19.9917 19.4595 19.7777C19.5965 18.9657 20.1235 18.2607 20.8685 17.8927C21.0615 17.7967 21.1715 17.5867 21.1415 17.3727C21.1105 17.1587 20.9455 16.9887 20.7325 16.9517Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.2842 16.842C11.8992 16.583 10.7122 15.66 10.1092 14.372C10.0172 14.176 9.81023 14.065 9.59423 14.088C9.37923 14.114 9.20623 14.277 9.16523 14.489C8.89823 15.881 7.97323 17.071 6.69223 17.671C6.49523 17.763 6.38123 17.97 6.40823 18.185C6.43423 18.4 6.59623 18.573 6.80923 18.614C8.20123 18.884 9.38923 19.807 9.98723 21.086C10.0702 21.263 10.2472 21.374 10.4402 21.374C10.4602 21.374 10.4812 21.372 10.5022 21.37C10.7172 21.343 10.8902 21.181 10.9312 20.968C11.1982 19.575 12.1222 18.386 13.4042 17.787C13.6002 17.695 13.7162 17.486 13.6882 17.271C13.6612 17.055 13.4982 16.882 13.2842 16.842Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 9 icon with style variants.
+class _StarComet9Icon {
+  const _StarComet9Icon();
+
+  /// bold style
+  _StarComet9Bold get bold => const _StarComet9Bold();
+}
+
+/// comet 9 — bold style variants.
+class _StarComet9Bold {
+  const _StarComet9Bold();
+
+  /// comet 9 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 9',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.1635 5.22098C20.9115 4.56998 20.4005 4.12898 19.6865 3.94798C17.6335 3.42498 13.9415 5.14598 10.0565 8.43998C5.73851 12.1 1.71651 17.453 2.76551 20.162C2.99951 20.77 3.46351 21.199 4.10451 21.4C4.37851 21.487 4.68551 21.529 5.02351 21.529C6.56551 21.529 8.73751 20.646 11.1755 19.005C11.2775 18.936 11.3495 18.844 11.4055 18.743C11.4095 18.756 11.4195 18.765 11.4225 18.778L11.9815 21.22C12.0315 21.432 12.1505 21.623 12.3125 21.755C12.4885 21.9 12.7025 21.978 12.9235 21.978C12.9605 21.978 12.9965 21.976 13.0335 21.971C13.2945 21.942 13.5275 21.807 13.6865 21.596L15.2215 19.638C15.3245 19.509 15.4765 19.438 15.6275 19.451L18.0505 19.633C18.2625 19.64 18.4745 19.59 18.6495 19.471C19.1005 19.177 19.2335 18.557 18.9465 18.09L17.6275 15.985C17.5425 15.855 17.5285 15.679 17.5905 15.526L18.5285 13.192C18.6105 12.982 18.6225 12.759 18.5645 12.548C18.4945 12.284 18.3215 12.061 18.0895 11.934C17.8665 11.811 17.6085 11.786 17.3755 11.862L15.0195 12.523C14.8745 12.565 14.7205 12.529 14.6005 12.425L12.7585 10.804L12.7555 10.802C12.5945 10.665 12.4025 10.586 12.2015 10.573C11.9465 10.554 11.6985 10.638 11.5025 10.806C11.2985 10.983 11.1715 11.242 11.1525 11.518L11.0155 14.027C11.0055 14.196 10.9205 14.344 10.7835 14.431L8.70651 15.763C8.51751 15.885 8.37851 16.059 8.30551 16.268C8.12151 16.784 8.37351 17.357 8.86651 17.545L9.98551 17.985C7.18051 19.805 5.31251 20.211 4.55551 19.97C4.35151 19.905 4.23451 19.802 4.16451 19.622C3.58251 18.119 6.25751 13.627 11.0265 9.58498C14.7745 6.40698 18.0355 5.07598 19.3175 5.40198C19.6185 5.47798 19.7125 5.62698 19.7645 5.76098C19.8825 6.06998 20.1895 7.21698 19.1525 9.02998C18.9475 9.38898 19.0715 9.84698 19.4315 10.054C19.7915 10.257 20.2495 10.135 20.4545 9.77398C21.3895 8.13898 21.6485 6.48098 21.1635 5.22098Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.6909 7.94423C5.0079 7.70523 5.8119 8.47323 5.8419 8.50423C5.9389 8.60123 6.0669 8.65223 6.1979 8.65223C6.2789 8.65223 6.3599 8.63223 6.4349 8.59223C6.6309 8.48723 6.7329 8.26523 6.6869 8.04823C6.5209 7.27023 6.7329 6.48223 7.2659 5.88523C7.4109 5.72423 7.4349 5.48723 7.3259 5.30023C7.2169 5.11323 7.0029 5.01623 6.7879 5.06323C6.0219 5.22823 5.2159 5.01323 4.6299 4.48923C4.4689 4.34523 4.2329 4.32123 4.0449 4.43023C3.8579 4.53923 3.7629 4.75623 3.8079 4.96723C3.9729 5.73223 3.7569 6.53523 3.2309 7.11623C3.0869 7.27523 3.0599 7.50723 3.1639 7.69523C3.2679 7.88223 3.4789 7.97723 3.6909 7.94423Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 10 icon with style variants.
+class _StarComet10Icon {
+  const _StarComet10Icon();
+
+  /// bold style
+  _StarComet10Bold get bold => const _StarComet10Bold();
+}
+
+/// comet 10 — bold style variants.
+class _StarComet10Bold {
+  const _StarComet10Bold();
+
+  /// comet 10 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.31635 9.4297C6.56135 10.4917 5.94335 11.5707 5.46835 12.6137C4.69235 12.0267 4.34435 11.4537 4.39135 11.0387C4.42135 10.7757 4.59635 10.5157 4.91135 10.2677C5.40735 9.8777 6.26835 9.5347 7.39935 9.3187C7.37235 9.3567 7.34335 9.3917 7.31635 9.4297ZM12.4933 7.7407C11.9403 7.6717 11.4013 7.6337 10.8703 7.6097C12.8303 5.7827 14.5903 5.1607 15.2773 5.6397C15.5533 5.8317 16.1763 6.4097 16.0093 7.6217C15.9533 8.0327 16.2403 8.4107 16.6503 8.4677C17.0663 8.5147 17.4393 8.2367 17.4963 7.8267C17.6903 6.4157 17.1813 5.1377 16.1353 4.4097C14.4453 3.2257 11.4703 4.5967 8.75835 7.6277C6.72335 7.7717 5.01935 8.2737 3.98335 9.0897C3.35135 9.5867 2.97735 10.2017 2.90135 10.8687C2.77335 11.9927 3.50835 13.1037 4.90535 14.0457C4.46635 15.3687 4.29835 16.5847 4.46635 17.5547C4.60435 18.3497 4.96835 18.9727 5.52235 19.3607C5.93235 19.6447 6.41835 19.7837 6.96035 19.7837C8.13235 19.7837 9.57135 19.1267 11.0833 17.8867L11.3893 19.2257C11.4463 19.4517 11.5723 19.6507 11.7323 19.7777C11.9173 19.9327 12.1433 20.0147 12.3783 20.0147C12.4143 20.0147 12.4493 20.0127 12.4853 20.0097C12.7603 19.9807 13.0073 19.8437 13.1813 19.6217L14.3043 18.1927L16.0433 18.3227C16.2753 18.3407 16.5123 18.2777 16.6823 18.1527C17.1513 17.8457 17.2903 17.2197 16.9923 16.7187L16.0413 15.1607L16.7143 13.4837C16.8013 13.2697 16.8153 13.0217 16.7543 12.8177C16.6833 12.5447 16.5113 12.3197 16.2703 12.1827C16.0323 12.0487 15.7563 12.0167 15.5003 12.0937L13.7983 12.5697L12.4703 11.3997L12.4593 11.3887C12.2983 11.2557 12.1013 11.1757 11.8783 11.1557C11.6143 11.1417 11.3463 11.2257 11.1403 11.4067C10.9283 11.5917 10.8013 11.8487 10.7833 12.1367L10.6633 13.9837L9.14835 14.9547C8.95335 15.0917 8.81735 15.2687 8.74835 15.4727C8.55835 15.9917 8.81835 16.5857 9.33835 16.8007L9.80935 16.9887C8.15635 18.2527 6.89835 18.4887 6.37935 18.1297C6.16035 17.9757 6.01335 17.6967 5.94535 17.2987C5.84235 16.7047 5.93835 15.8367 6.24535 14.8067C6.60035 14.9727 6.97435 15.1317 7.37835 15.2787C7.76035 15.4187 8.19735 15.2217 8.33835 14.8317C8.48135 14.4427 8.28135 14.0117 7.89135 13.8697C7.47135 13.7157 7.10635 13.5537 6.76535 13.3887C7.18635 12.4307 7.76735 11.3857 8.53935 10.2987C8.84535 9.8677 9.15635 9.4707 9.46635 9.0997C10.3313 9.0707 11.2783 9.1017 12.3093 9.2287C17.0283 9.8117 19.7413 11.7887 19.6083 12.9497C19.5703 13.2817 19.3583 14.0997 18.2073 14.5327C17.8193 14.6777 17.6233 15.1097 17.7683 15.4977C17.8813 15.7987 18.1673 15.9847 18.4703 15.9847C18.5583 15.9847 18.6473 15.9697 18.7343 15.9367C20.0703 15.4347 20.9553 14.3817 21.0983 13.1187C21.3763 10.6927 17.6763 8.3807 12.4933 7.7407Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 11 icon with style variants.
+class _StarComet11Icon {
+  const _StarComet11Icon();
+
+  /// bold style
+  _StarComet11Bold get bold => const _StarComet11Bold();
+}
+
+/// comet 11 — bold style variants.
+class _StarComet11Bold {
+  const _StarComet11Bold();
+
+  /// comet 11 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 11',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.91883 15.4331C3.89783 13.5191 4.83483 11.3641 6.41983 9.85808C7.50783 8.82508 9.80383 7.27308 13.1508 8.12308L12.7348 8.95608C12.6448 9.13208 12.4708 9.25408 12.2698 9.28308L9.40783 9.70208C9.15983 9.72708 8.92683 9.84308 8.75183 10.0271C8.54683 10.2411 8.43783 10.5211 8.44483 10.8171C8.45183 11.1101 8.57183 11.3811 8.78183 11.5801L10.8628 13.5821C11.0048 13.7151 11.0698 13.9121 11.0368 14.1071L11.0018 14.3071C8.80583 13.1931 6.04483 14.0751 3.91883 15.4331ZM21.2438 11.5821C21.4228 11.4131 21.5398 11.1831 21.5738 10.9321C21.6118 10.6391 21.5338 10.3501 21.3558 10.1191C21.1768 9.88808 20.9178 9.74008 20.6288 9.70308L17.7578 9.28308C17.5568 9.25408 17.3828 9.13208 17.2948 8.95808L16.0108 6.38808C16.0108 6.38808 16.0098 6.38708 16.0098 6.38608C15.9028 6.17608 15.7358 6.01108 15.5298 5.90808C15.2638 5.77008 14.9618 5.74408 14.6768 5.83308C14.3908 5.92208 14.1578 6.11908 14.0188 6.38808L13.8358 6.75508C10.7508 5.86608 7.67783 6.59408 5.38683 8.77008C3.06383 10.9771 1.94483 14.2641 2.60383 16.9491C2.66483 17.1971 2.84783 17.3961 3.08883 17.4791C3.16883 17.5071 3.25083 17.5201 3.33283 17.5201C3.49883 17.5201 3.66383 17.4641 3.79783 17.3581C5.36083 16.1221 8.56483 14.4111 10.6598 15.8391C10.6818 15.8541 10.7068 15.8561 10.7298 15.8691L10.5448 16.9271C10.5048 17.1581 10.5448 17.4061 10.6598 17.6271C10.9458 18.1671 11.6188 18.3741 12.1608 18.0921L14.7268 16.7631C14.9058 16.6691 15.1228 16.6681 15.3018 16.7621L17.8748 18.0951C18.0458 18.1781 18.2228 18.2201 18.3968 18.2201C18.4538 18.2201 18.5098 18.2151 18.5648 18.2061C19.1698 18.1031 19.5828 17.5311 19.4838 16.9271L18.9938 14.1071C18.9598 13.9111 19.0238 13.7151 19.1688 13.5801L21.2438 11.5821Z" fill="black"/> </svg>',
     category: 'Star',
     style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 12 icon with style variants.
+class _StarComet12Icon {
+  const _StarComet12Icon();
+
+  /// bulk style
+  _StarComet12Bulk get bulk => const _StarComet12Bulk();
+}
+
+/// comet 12 — bulk style variants.
+class _StarComet12Bulk {
+  const _StarComet12Bulk();
+
+  /// comet 12 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 12',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.6531 11.5548C21.8401 11.3728 21.9571 11.1428 21.9901 10.8878C22.0721 10.2608 21.6441 9.69879 21.0161 9.60779L18.0241 9.17779C17.8131 9.14879 17.6301 9.01979 17.5351 8.83379L16.1991 6.16379L16.1981 6.16179C16.0921 5.95379 15.9221 5.78279 15.7021 5.66279C15.4261 5.52079 15.1121 5.49279 14.8181 5.58779C14.5241 5.68179 14.2841 5.88579 14.1421 6.16279L12.8031 8.83179C12.7071 9.01979 12.5251 9.14879 12.3121 9.17779L9.33208 9.61679C9.07208 9.64279 8.83108 9.76279 8.65508 9.95079C8.22108 10.3998 8.23508 11.1188 8.68508 11.5548L10.8521 13.6368C11.0021 13.7788 11.0721 13.9908 11.0361 14.1928L10.5251 17.1348C10.4841 17.3798 10.5261 17.6358 10.6431 17.8528C10.8501 18.2438 11.2511 18.4678 11.6641 18.4678C11.8431 18.4678 12.0241 18.4258 12.1931 18.3368L14.8691 16.9468C15.0581 16.8448 15.2831 16.8458 15.4741 16.9478L18.1361 18.3228C18.3551 18.4478 18.6061 18.4918 18.8651 18.4518C19.4901 18.3498 19.9171 17.7598 19.8151 17.1328L19.3031 14.1908C19.2671 13.9908 19.3371 13.7788 19.4891 13.6358L21.6531 11.5548Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.72861 14.8175C7.70761 14.7425 6.61161 14.9355 5.46261 15.3865C5.07761 15.5385 4.88761 15.9735 5.03861 16.3595C5.15461 16.6545 5.43761 16.8355 5.73661 16.8355C5.82861 16.8355 5.92061 16.8185 6.01061 16.7835C6.94961 16.4145 7.82661 16.2575 8.62161 16.3135C9.04861 16.3555 9.39361 16.0325 9.42261 15.6195C9.45261 15.2065 9.14161 14.8475 8.72861 14.8175Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.6735 11.6676C6.6035 11.2596 6.2155 10.9906 5.8065 11.0556C5.0625 11.1846 4.2665 11.4386 3.4415 11.8116C3.0635 11.9816 2.8965 12.4256 3.0665 12.8036C3.1925 13.0806 3.4655 13.2446 3.7505 13.2446C3.8535 13.2446 3.9585 13.2236 4.0595 13.1786C4.7685 12.8576 5.4425 12.6406 6.0615 12.5346C6.4695 12.4636 6.7435 12.0756 6.6735 11.6676Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.05971 8.72556C5.19171 8.72556 5.32571 8.69056 5.44771 8.61756C7.08371 7.62756 8.88371 7.14256 10.6567 7.18456C11.0697 7.20556 11.4167 6.87156 11.4287 6.45756C11.4417 6.04356 11.1157 5.69856 10.7017 5.68556C8.64371 5.62856 6.55671 6.19456 4.67071 7.33356C4.31671 7.54856 4.20371 8.00956 4.41771 8.36356C4.55871 8.59656 4.80671 8.72556 5.05971 8.72556Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 13 icon with style variants.
+class _StarComet13Icon {
+  const _StarComet13Icon();
+
+  /// bulk style
+  _StarComet13Bulk get bulk => const _StarComet13Bulk();
+}
+
+/// comet 13 — bulk style variants.
+class _StarComet13Bulk {
+  const _StarComet13Bulk();
+
+  /// comet 13 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 13',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.0234 14.4045C13.9074 14.2435 13.8784 14.0395 13.9474 13.8565L14.9384 11.1555C15.0244 10.9195 15.0274 10.6615 14.9494 10.4305C14.7584 9.86555 14.1364 9.55255 13.5614 9.73255L10.8114 10.6215C10.6194 10.6795 10.4064 10.6415 10.2484 10.5225L7.97744 8.78255C7.97344 8.77955 7.97044 8.77755 7.96744 8.77555C7.78444 8.64855 7.56844 8.57355 7.33444 8.56055C6.69744 8.56355 6.20544 9.03755 6.18844 9.65755L6.15744 12.5175C6.15444 12.7185 6.05244 12.9065 5.88544 13.0135L3.49844 14.6385C3.29244 14.7675 3.13444 14.9715 3.05344 15.2145C2.96244 15.4985 2.98844 15.8005 3.12544 16.0625C3.25844 16.3215 3.48544 16.5115 3.76144 16.5985L6.49444 17.4775C6.68544 17.5425 6.83344 17.6925 6.88644 17.8805L7.67544 20.6235C7.74644 20.8545 7.89144 21.0605 8.08544 21.2025C8.27844 21.3435 8.50444 21.4175 8.73844 21.4175C8.79744 21.4175 8.85744 21.4125 8.91644 21.4035C9.20844 21.3565 9.46344 21.1975 9.63344 20.9605L11.3564 18.6485C11.4764 18.4855 11.6674 18.3875 11.8704 18.4005L14.7574 18.4705C15.0064 18.4705 15.2384 18.3995 15.4244 18.2655C15.6664 18.0975 15.8284 17.8445 15.8794 17.5525C15.9324 17.2585 15.8674 16.9625 15.6934 16.7145L14.0234 14.4045Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4559 5.50178C13.6479 5.50178 13.8409 5.42778 13.9869 5.28078L15.4009 3.86078C15.6929 3.56778 15.6919 3.09278 15.3989 2.80078C15.1059 2.50778 14.6319 2.50978 14.3389 2.80278L12.9249 4.22278C12.6329 4.51578 12.6339 4.99078 12.9269 5.28278C13.0729 5.42878 13.2649 5.50178 13.4559 5.50178Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9784 7.98162C11.1704 7.98162 11.3634 7.90862 11.5094 7.76162L12.0884 7.18162C12.3804 6.88862 12.3804 6.41362 12.0874 6.12062C11.7934 5.82762 11.3184 5.82862 11.0264 6.12162L10.4474 6.70162C10.1554 6.99462 10.1554 7.46962 10.4484 7.76262C10.5944 7.90862 10.7874 7.98162 10.9784 7.98162Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.03 8.18171C17.221 8.18171 17.413 8.10871 17.559 7.96371L18.865 6.66371C19.158 6.37071 19.16 5.89671 18.867 5.60271C18.574 5.30871 18.099 5.30871 17.806 5.59971L16.501 6.89971C16.208 7.19271 16.206 7.66671 16.499 7.96071C16.645 8.10771 16.838 8.18171 17.03 8.18171Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.781 8.87162C21.489 8.57862 21.014 8.57762 20.72 8.87062L19.969 9.62062C19.675 9.91362 19.675 10.3876 19.967 10.6816C20.113 10.8286 20.305 10.9016 20.498 10.9016C20.689 10.9016 20.881 10.8286 21.027 10.6826L21.779 9.93262C22.073 9.63962 22.073 9.16462 21.781 8.87162Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2469 11.3419L16.4109 13.1819C16.1189 13.4749 16.1189 13.9499 16.4129 14.2419C16.5589 14.3879 16.7509 14.4619 16.9419 14.4619C17.1349 14.4619 17.3269 14.3879 17.4739 14.2409L19.3089 12.4019C19.6009 12.1079 19.6009 11.6339 19.3079 11.3409C19.0159 11.0489 18.5389 11.0489 18.2469 11.3419Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 14 icon with style variants.
+class _StarComet14Icon {
+  const _StarComet14Icon();
+
+  /// bulk style
+  _StarComet14Bulk get bulk => const _StarComet14Bulk();
+}
+
+/// comet 14 — bulk style variants.
+class _StarComet14Bulk {
+  const _StarComet14Bulk();
+
+  /// comet 14 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 14',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.2851 5.04713L13.0891 5.69213C13.0411 5.85013 12.9241 5.96813 12.7641 6.01613L10.3801 6.78613C10.1631 6.85413 9.98314 6.98913 9.85814 7.17513C9.55314 7.63013 9.66714 8.23013 10.1191 8.54013L12.1831 9.94413C12.3111 10.0271 12.3901 10.1761 12.3901 10.3331V10.4241L12.3831 11.9731L12.3801 12.8051C12.3811 13.0261 12.4511 13.2271 12.5861 13.4051C12.7471 13.6181 12.9811 13.7541 13.2441 13.7891C13.2891 13.7951 13.3341 13.7981 13.3781 13.7981C13.5951 13.7981 13.8061 13.7271 13.9801 13.5931L15.9731 12.0821C16.1001 11.9841 16.2681 11.9581 16.4301 12.0121L18.8061 12.7721C19.0221 12.8421 19.2421 12.8371 19.4351 12.7611C19.6871 12.6771 19.8901 12.5001 20.0091 12.2631C20.1261 12.0261 20.1431 11.7561 20.0571 11.5001L19.2301 9.16913C19.1761 9.01813 19.2011 8.85513 19.2981 8.72313L20.7741 6.72513C20.9081 6.54813 20.9751 6.33413 20.9681 6.10413C20.9461 5.56613 20.5001 5.14013 19.9501 5.15413L17.4411 5.22413C17.2831 5.23413 17.1281 5.15313 17.0321 5.02613L15.5681 3.02613C15.4401 2.85013 15.2651 2.72813 15.0731 2.67713C14.8181 2.59213 14.5491 2.61413 14.3101 2.73513C14.0721 2.85613 13.8941 3.06313 13.8101 3.32113L13.7341 3.57313L13.2851 5.04713Z" fill="black"/> <path d="M4.85816 14.1867C5.90816 12.6917 7.40916 11.4387 9.03616 10.7647C10.2512 10.2607 11.4112 10.1607 12.3902 10.4237L12.3832 11.9727C12.3602 11.9647 12.3362 11.9667 12.3132 11.9557C11.6272 11.6427 10.6662 11.7127 9.61016 12.1507C7.66716 12.9557 5.93816 14.7397 5.20516 16.6967C5.09616 16.9897 4.81516 17.1837 4.50316 17.1837H4.48716C4.16816 17.1767 3.88916 16.9697 3.79016 16.6667C2.76816 13.5367 3.57016 9.85066 5.88216 7.04766C7.97416 4.51066 10.8312 3.25566 13.7342 3.57266L13.2852 5.04666C10.9912 4.89766 8.73216 5.94966 7.03916 8.00166C5.53716 9.82366 4.77116 12.0607 4.85816 14.1867Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2325 16.9517C20.4115 16.8087 19.7045 16.2827 19.3395 15.5427C19.2445 15.3487 19.0445 15.2347 18.8195 15.2687C18.6045 15.3007 18.4345 15.4667 18.3985 15.6807C18.2605 16.4927 17.7345 17.1977 16.9895 17.5657C16.7955 17.6607 16.6855 17.8707 16.7155 18.0847C16.7475 18.2997 16.9125 18.4697 17.1255 18.5067C17.9465 18.6497 18.6535 19.1767 19.0175 19.9147C19.1025 20.0877 19.2775 20.1947 19.4655 20.1947C19.4895 20.1947 19.5135 20.1927 19.5385 20.1887C19.7535 20.1577 19.9225 19.9917 19.9595 19.7777C20.0965 18.9657 20.6235 18.2607 21.3685 17.8927C21.5615 17.7967 21.6715 17.5867 21.6415 17.3727C21.6105 17.1587 21.4455 16.9887 21.2325 16.9517Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7842 16.842C12.3992 16.583 11.2122 15.66 10.6092 14.372C10.5172 14.176 10.3102 14.065 10.0942 14.088C9.87923 14.114 9.70623 14.277 9.66523 14.489C9.39823 15.881 8.47323 17.071 7.19223 17.671C6.99523 17.763 6.88123 17.97 6.90823 18.185C6.93423 18.4 7.09623 18.573 7.30923 18.614C8.70123 18.884 9.88923 19.807 10.4872 21.086C10.5702 21.263 10.7472 21.374 10.9402 21.374C10.9602 21.374 10.9812 21.372 11.0022 21.37C11.2172 21.343 11.3902 21.181 11.4312 20.968C11.6982 19.575 12.6222 18.386 13.9042 17.787C14.1002 17.695 14.2162 17.486 14.1882 17.271C14.1612 17.055 13.9982 16.882 13.7842 16.842Z" fill="black"/> </g> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 15 icon with style variants.
+class _StarComet15Icon {
+  const _StarComet15Icon();
+
+  /// bulk style
+  _StarComet15Bulk get bulk => const _StarComet15Bulk();
+}
+
+/// comet 15 — bulk style variants.
+class _StarComet15Bulk {
+  const _StarComet15Bulk();
+
+  /// comet 15 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 15',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.1909 7.94423C5.5079 7.70523 6.3119 8.47323 6.3419 8.50423C6.4389 8.60123 6.5669 8.65223 6.6979 8.65223C6.7789 8.65223 6.8599 8.63223 6.9349 8.59223C7.1309 8.48723 7.2329 8.26523 7.1869 8.04823C7.0209 7.27023 7.2329 6.48223 7.7659 5.88523C7.9109 5.72423 7.9349 5.48723 7.8259 5.30023C7.7169 5.11323 7.5029 5.01623 7.2879 5.06323C6.5219 5.22823 5.7159 5.01323 5.1299 4.48923C4.9689 4.34523 4.7329 4.32123 4.5449 4.43023C4.3579 4.53923 4.2629 4.75623 4.3079 4.96723C4.4729 5.73223 4.2569 6.53523 3.7309 7.11623C3.5869 7.27523 3.5599 7.50723 3.6639 7.69523C3.7679 7.88223 3.9789 7.97723 4.1909 7.94423Z" fill="black"/> <path d="M11.4049 11.7468C11.4507 11.0702 12.0215 10.5234 12.7204 10.5746C12.9796 10.5933 13.2234 10.6958 13.4195 10.8635L13.4247 10.868L15.2665 12.4863C15.3225 12.5352 15.3926 12.549 15.4557 12.5309L15.4575 12.5304L17.8054 11.8661C18.4705 11.6708 19.132 12.0829 19.3081 12.7298C19.38 12.9958 19.3637 13.2812 19.261 13.5379L18.3243 15.866L18.3234 15.8681C18.2909 15.9478 18.2997 16.0383 18.3431 16.1072L18.3437 16.1082L19.6628 18.2105C20.0135 18.7854 19.8582 19.5538 19.2911 19.9313L19.2902 19.9318C19.0654 20.0808 18.7981 20.1509 18.5287 20.1291L16.1117 19.9502C16.0448 19.9454 15.9728 19.9739 15.9209 20.04L14.3869 22.0009C13.9664 22.547 13.1869 22.6411 12.654 22.1954L12.6529 22.1945C12.4471 22.0213 12.3029 21.786 12.2398 21.5239L12.2386 21.5186L11.6801 19.0795C11.6607 18.9946 11.6048 18.9364 11.5443 18.913L11.5432 18.9125L9.27725 18.0286L9.27604 18.0281C8.64252 17.7791 8.34644 17.0599 8.57138 16.4335C8.66483 16.174 8.84142 15.9506 9.07625 15.803L11.1511 14.4725C11.2132 14.433 11.2617 14.3568 11.2673 14.2637L11.4049 11.7468Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.7206 5.95391C16.0394 6.54976 13.8338 7.87844 11.5279 9.83198C9.22724 11.781 7.31333 13.94 6.0787 15.8392C5.46043 16.7902 5.02742 17.6532 4.79457 18.3748C4.55476 19.1179 4.56178 19.6028 4.66651 19.8739C4.73349 20.0473 4.84749 20.1592 5.07613 20.2262C5.33948 20.3034 5.75244 20.3136 6.33427 20.1878C7.49293 19.9373 9.06558 19.2041 10.8388 18.0082C11.1822 17.7766 11.6484 17.8673 11.88 18.2107C12.1116 18.5541 12.0209 19.0202 11.6775 19.2518C9.82838 20.4989 8.07359 21.3464 6.65129 21.6539C5.94266 21.8071 5.25177 21.8408 4.65435 21.6657C4.02222 21.4805 3.51852 21.0647 3.26732 20.4145C2.97901 19.6683 3.08725 18.7812 3.36706 17.9141C3.65383 17.0255 4.15883 16.0403 4.8211 15.0216C6.14752 12.9813 8.16473 10.7153 10.5583 8.68748C12.9465 6.66417 15.3092 5.21713 17.2195 4.54009C18.1669 4.20428 19.0712 4.03318 19.8386 4.13075C20.6468 4.23352 21.3479 4.65052 21.6655 5.47247C22.1077 6.61699 21.965 8.26203 20.9559 10.025C20.7501 10.3845 20.2918 10.5091 19.9324 10.3034C19.5729 10.0976 19.4483 9.63936 19.654 9.27987C20.5095 7.7853 20.5005 6.61922 20.2663 6.01309C20.1909 5.81779 20.0419 5.66868 19.6493 5.61877C19.2159 5.56365 18.5688 5.65328 17.7206 5.95391Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 16 icon with style variants.
+class _StarComet16Icon {
+  const _StarComet16Icon();
+
+  /// bulk style
+  _StarComet16Bulk get bulk => const _StarComet16Bulk();
+}
+
+/// comet 16 — bulk style variants.
+class _StarComet16Bulk {
+  const _StarComet16Bulk();
+
+  /// comet 16 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 16',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.9933 7.7407C12.4403 7.6717 11.9013 7.6337 11.3703 7.6097C13.3303 5.7827 15.0903 5.1607 15.7773 5.6397C16.0533 5.8317 16.6763 6.4097 16.5093 7.6217C16.4533 8.0327 16.7403 8.4107 17.1503 8.4677C17.5663 8.5147 17.9393 8.2367 17.9963 7.8267C18.1903 6.4157 17.6813 5.1377 16.6353 4.4097C14.9453 3.2257 11.9703 4.5967 9.25828 7.6277C7.22328 7.7717 5.51928 8.2737 4.48328 9.0897C3.85128 9.5867 3.47728 10.2017 3.40128 10.8687C3.27328 11.9927 4.00828 13.1037 5.40528 14.0457C4.96628 15.3687 4.79828 16.5847 4.96628 17.5547C5.10428 18.3497 5.46828 18.9727 6.02228 19.3607C6.43228 19.6447 6.91828 19.7837 7.46028 19.7837C8.63228 19.7837 10.0713 19.1267 11.5833 17.8867L11.4531 17.168L10.3093 16.9887C8.65628 18.2527 7.39828 18.4887 6.87928 18.1297C6.66028 17.9757 6.51328 17.6967 6.44528 17.2987C6.34228 16.7047 6.43828 15.8367 6.74528 14.8067C7.10028 14.9727 7.47428 15.1317 7.87828 15.2787C8.26028 15.4187 8.69728 15.2217 8.83828 14.8317C8.98128 14.4427 8.78128 14.0117 8.39128 13.8697C7.97128 13.7157 7.60628 13.5537 7.26528 13.3887C7.68628 12.4307 8.26728 11.3857 9.03928 10.2987C9.34528 9.8677 9.65628 9.4707 9.96628 9.0997C10.8313 9.0707 11.7783 9.1017 12.8093 9.2287C17.5283 9.8117 20.2413 11.7887 20.1083 12.9497C20.0703 13.2817 19.8583 14.0997 18.7073 14.5327C18.3193 14.6777 18.1233 15.1097 18.2683 15.4977C18.3813 15.7987 18.6673 15.9847 18.9703 15.9847C19.0583 15.9847 19.1473 15.9697 19.2343 15.9367C20.5703 15.4347 21.4553 14.3817 21.5983 13.1187C21.8763 10.6927 18.1763 8.3807 12.9933 7.7407ZM5.96828 12.6137C6.44328 11.5707 7.06128 10.4917 7.81628 9.4297C7.82978 9.4107 7.84378 9.39245 7.85778 9.3742C7.87179 9.35595 7.88579 9.3377 7.89928 9.3187C6.76828 9.5347 5.90728 9.8777 5.41128 10.2677C5.09628 10.5157 4.92128 10.7757 4.89128 11.0387C4.84428 11.4537 5.19228 12.0267 5.96828 12.6137Z" fill="black"/> <path d="M11.8894 19.2248L11.5834 17.8858L11.4472 17.1751L10.3094 16.9878L9.83836 16.7998C9.31836 16.5848 9.05837 15.9908 9.24837 15.4718C9.31737 15.2678 9.45336 15.0908 9.64836 14.9538L11.1634 13.9828L11.2834 12.1358C11.3014 11.8478 11.4284 11.5908 11.6404 11.4058C11.8464 11.2248 12.1144 11.1408 12.3784 11.1548C12.6014 11.1748 12.7984 11.2548 12.9594 11.3878L12.9704 11.3988L14.2984 12.5688L16.0004 12.0928C16.2564 12.0158 16.5324 12.0478 16.7704 12.1818C17.0114 12.3188 17.1834 12.5438 17.2544 12.8168C17.3154 13.0208 17.3014 13.2688 17.2144 13.4828L16.5414 15.1598L17.4924 16.7178C17.7904 17.2188 17.6514 17.8448 17.1824 18.1518C17.0124 18.2768 16.7754 18.3398 16.5434 18.3218L14.8044 18.1918L13.6814 19.6208C13.5074 19.8428 13.2604 19.9798 12.9854 20.0088C12.9494 20.0118 12.9144 20.0138 12.8784 20.0138C12.6434 20.0138 12.4174 19.9318 12.2324 19.7768C12.0724 19.6498 11.9464 19.4508 11.8894 19.2248Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 17 icon with style variants.
+class _StarComet17Icon {
+  const _StarComet17Icon();
+
+  /// bulk style
+  _StarComet17Bulk get bulk => const _StarComet17Bulk();
+}
+
+/// comet 17 — bulk style variants.
+class _StarComet17Bulk {
+  const _StarComet17Bulk();
+
+  /// comet 17 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 17',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.1909 7.94423C5.5079 7.70523 6.3119 8.47323 6.3419 8.50423C6.4389 8.60123 6.5669 8.65223 6.6979 8.65223C6.7789 8.65223 6.8599 8.63223 6.9349 8.59223C7.1309 8.48723 7.2329 8.26523 7.1869 8.04823C7.0209 7.27023 7.2329 6.48223 7.7659 5.88523C7.9109 5.72423 7.9349 5.48723 7.8259 5.30023C7.7169 5.11323 7.5029 5.01623 7.2879 5.06323C6.5219 5.22823 5.7159 5.01323 5.1299 4.48923C4.9689 4.34523 4.7329 4.32123 4.5449 4.43023C4.3579 4.53923 4.2629 4.75623 4.3079 4.96723C4.4729 5.73223 4.2569 6.53523 3.7309 7.11623C3.5869 7.27523 3.5599 7.50723 3.6639 7.69523C3.7679 7.88223 3.9789 7.97723 4.1909 7.94423Z" fill="black"/> <path d="M11.4049 11.7468C11.4507 11.0702 12.0215 10.5234 12.7204 10.5746C12.9796 10.5933 13.2234 10.6958 13.4195 10.8635L13.4247 10.868L15.2665 12.4863C15.3225 12.5352 15.3926 12.549 15.4557 12.5309L15.4575 12.5304L17.8054 11.8661C18.4705 11.6708 19.132 12.0829 19.3081 12.7298C19.38 12.9958 19.3637 13.2812 19.261 13.5379L18.3243 15.866L18.3234 15.8681C18.2909 15.9478 18.2997 16.0383 18.3431 16.1072L18.3437 16.1082L19.6628 18.2105C20.0135 18.7854 19.8582 19.5538 19.2911 19.9313L19.2902 19.9318C19.0654 20.0808 18.7981 20.1509 18.5287 20.1291L16.1117 19.9502C16.0448 19.9454 15.9728 19.9739 15.9209 20.04L14.3869 22.0009C13.9664 22.547 13.1869 22.6411 12.654 22.1954L12.6529 22.1945C12.4471 22.0213 12.3029 21.786 12.2398 21.5239L12.2386 21.5186L11.6801 19.0795C11.6607 18.9946 11.6048 18.9364 11.5443 18.913L11.5432 18.9125L9.27725 18.0286L9.27604 18.0281C8.64252 17.7791 8.34644 17.0599 8.57138 16.4335C8.66483 16.174 8.84142 15.9506 9.07625 15.803L11.1511 14.4725C11.2132 14.433 11.2617 14.3568 11.2673 14.2637L11.4049 11.7468Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.7206 5.95391C16.0394 6.54976 13.8338 7.87844 11.5279 9.83198C9.22724 11.781 7.31333 13.94 6.0787 15.8392C5.46043 16.7902 5.02742 17.6532 4.79457 18.3748C4.55476 19.1179 4.56178 19.6028 4.66651 19.8739C4.73349 20.0473 4.84749 20.1592 5.07613 20.2262C5.33948 20.3034 5.75244 20.3136 6.33427 20.1878C7.49293 19.9373 9.06558 19.2041 10.8388 18.0082C11.1822 17.7766 11.6484 17.8673 11.88 18.2107C12.1116 18.5541 12.0209 19.0202 11.6775 19.2518C9.82838 20.4989 8.07359 21.3464 6.65129 21.6539C5.94266 21.8071 5.25177 21.8408 4.65435 21.6657C4.02222 21.4805 3.51852 21.0647 3.26732 20.4145C2.97901 19.6683 3.08725 18.7812 3.36706 17.9141C3.65383 17.0255 4.15883 16.0403 4.8211 15.0216C6.14752 12.9813 8.16473 10.7153 10.5583 8.68748C12.9465 6.66417 15.3092 5.21713 17.2195 4.54009C18.1669 4.20428 19.0712 4.03318 19.8386 4.13075C20.6468 4.23352 21.3479 4.65052 21.6655 5.47247C22.1077 6.61699 21.965 8.26203 20.9559 10.025C20.7501 10.3845 20.2918 10.5091 19.9324 10.3034C19.5729 10.0976 19.4483 9.63936 19.654 9.27987C20.5095 7.7853 20.5005 6.61922 20.2663 6.01309C20.1909 5.81779 20.0419 5.66868 19.6493 5.61877C19.2159 5.56365 18.5688 5.65328 17.7206 5.95391Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 18 icon with style variants.
+class _StarComet18Icon {
+  const _StarComet18Icon();
+
+  /// broken style
+  _StarComet18Broken get broken => const _StarComet18Broken();
+}
+
+/// comet 18 — broken style variants.
+class _StarComet18Broken {
+  const _StarComet18Broken();
+
+  /// comet 18 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 18',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.5662 13.508L20.7292 11.4299C20.8732 11.2909 20.9661 11.1067 20.9924 10.9085C21.056 10.4237 20.7153 9.97837 20.2305 9.91473L17.2397 9.48405C16.948 9.4431 16.6942 9.26175 16.5619 8.99851L15.2252 6.32733C15.1389 6.16062 15.0036 6.02534 14.8376 5.93979C14.3931 5.70945 13.8461 5.88275 13.6158 6.32733L12.2769 8.99924C12.1438 9.26248 11.8901 9.44383 11.5983 9.48478L8.60757 9.91546C8.40868 9.94181 8.22441 10.0347 8.08548 10.1787C7.74619 10.5312 7.75716 11.0913 8.10888 11.4306L10.274 13.5087C10.4861 13.7113 10.5834 14.006 10.5329 14.2948L10.021 17.2292C9.98959 17.4223 10.0225 17.6197 10.1139 17.793C10.3464 18.231 10.8897 18.3977 11.3277 18.1651L14.0011 16.7795C14.2644 16.6435 14.5766 16.6435 14.8398 16.7795L17.5118 18.1645C17.6843 18.2559 17.8818 18.2888 18.0748 18.2581C18.5647 18.1791 18.8982 17.7184 18.8192 17.2285" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.9873 16.1374C5.92824 15.7749 6.94473 15.5476 7.92582 15.6227" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.00098 12.5477C3.68657 12.2359 4.43111 11.9792 5.18502 11.8506" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.30957 8.03161C5.96326 7.03076 7.90599 6.43212 9.92965 6.48797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 19 icon with style variants.
+class _StarComet19Icon {
+  const _StarComet19Icon();
+
+  /// broken style
+  _StarComet19Broken get broken => const _StarComet19Broken();
+}
+
+/// comet 19 — broken style variants.
+class _StarComet19Broken {
+  const _StarComet19Broken();
+
+  /// comet 19 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 19',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.66436 20.3034C7.71893 20.4824 7.83062 20.639 7.98103 20.75C8.36546 21.0293 8.90255 20.9451 9.1828 20.5617L10.9037 18.2471C11.073 18.0202 11.3419 17.8887 11.6254 17.8957L14.5069 17.9676C14.6941 17.9734 14.8772 17.9189 15.031 17.8112C15.419 17.5382 15.5132 17.0011 15.2402 16.6128L13.5686 14.301C13.4035 14.074 13.3636 13.7787 13.4617 13.515L14.4523 10.8193C14.5181 10.6388 14.5215 10.4418 14.4605 10.2592C14.3125 9.81516 13.832 9.57546 13.3879 9.72312L10.6322 10.6078C10.3635 10.6943 10.07 10.6443 9.8451 10.473L7.57365 8.73383C7.4301 8.6274 7.25585 8.56733 7.07807 8.56276C6.59804 8.55126 6.19952 8.92927 6.18737 9.40909L6.15552 12.2715C6.15162 12.5532 6.00958 12.816 5.77528 12.9738L3.38029 14.5991C3.22043 14.7048 3.10099 14.8621 3.04136 15.0444C2.89737 15.4897 3.1413 15.9681 3.58738 16.1123L6.3228 16.9933" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6194 3.08496L13.2053 4.49912M11.3076 6.39729L10.7285 6.97636" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.0854 5.87793L16.7793 7.18443" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9995 9.14746L20.2471 9.89982M18.5279 11.6189L16.6914 13.4554" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 20 icon with style variants.
+class _StarComet20Icon {
+  const _StarComet20Icon();
+
+  /// broken style
+  _StarComet20Broken get broken => const _StarComet20Broken();
+}
+
+/// comet 20 — broken style variants.
+class _StarComet20Broken {
+  const _StarComet20Broken();
+
+  /// comet 20 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 20',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.708 15.5279L18.6448 13.1998C18.707 13.0444 18.7168 12.8709 18.673 12.709C18.5653 12.313 18.1709 12.0825 17.7918 12.195L15.4413 12.86C15.2123 12.9257 14.9666 12.8702 14.7846 12.7109L12.9423 11.0921C12.8252 10.992 12.6819 10.9326 12.5318 10.9219C12.1292 10.8921 11.7798 11.2086 11.7514 11.6291L11.6141 14.1412C11.5997 14.3891 11.4699 14.6139 11.2671 14.7429L9.19166 16.0738C9.05291 16.1605 8.94622 16.2938 8.88943 16.4515C8.75095 16.8371 8.93797 17.2664 9.3066 17.4113L11.5725 18.2953C11.7941 18.3811 11.9602 18.5764 12.0151 18.8165L12.5736 21.2556C12.612 21.4153 12.6994 21.5569 12.8224 21.6604C13.1344 21.9213 13.5896 21.8689 13.8395 21.543L15.3751 19.5799C15.5264 19.387 15.7574 19.2828 15.9957 19.3001L18.4151 19.4791C18.572 19.4922 18.7286 19.4517 18.8616 19.3636C19.1989 19.1391 19.2985 18.6717 19.0836 18.3194" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1053 18.4783C7.48292 20.9213 4.4504 21.6394 3.81404 19.9924C3.5654 19.3489 3.71236 18.4214 4.17808 17.3281" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.1529 9.50111C21.0852 7.87232 21.1521 6.46676 20.8138 5.59144C20.0277 3.55695 15.5851 5.13154 10.891 9.10839C8.9702 10.7357 7.30493 12.513 6.06152 14.1845" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.54663 8.2482C6.34852 7.32095 6.60715 6.35573 7.24234 5.65177C6.3147 5.8492 5.34987 5.59125 4.64591 4.95605C4.84402 5.8833 4.58432 6.84823 3.9502 7.55249" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 21 icon with style variants.
+class _StarComet21Icon {
+  const _StarComet21Icon();
+
+  /// broken style
+  _StarComet21Broken get broken => const _StarComet21Broken();
+}
+
+/// comet 21 — broken style variants.
+class _StarComet21Broken {
+  const _StarComet21Broken();
+
+  /// comet 21 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 21',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.4721 8.70288L19.9507 6.70307C20.0491 6.56945 20.0994 6.4059 20.0933 6.24026C20.0778 5.83513 19.7373 5.51858 19.3322 5.53407L16.8276 5.59846C16.5834 5.60561 16.3508 5.49271 16.206 5.29597L14.7414 3.29871C14.6477 3.17446 14.5183 3.08272 14.3707 3.0359C13.9752 2.90953 13.5523 3.12735 13.4259 3.52281L12.7036 5.89321C12.6314 6.12691 12.4493 6.31046 12.2165 6.38456L9.83191 7.15302C9.67301 7.20225 9.53533 7.30381 9.44182 7.4409C9.21357 7.77623 9.30052 8.23254 9.63525 8.4609L11.6944 9.85807C11.8959 9.9941 12.0164 10.2214 12.0154 10.4645L12.0056 12.9344C12.0068 13.0965 12.0612 13.2533 12.16 13.3823C12.4111 13.7078 12.8784 13.7685 13.204 13.5174L15.1962 12.0126C15.3925 11.8648 15.6477 11.8213 15.8818 11.8958L18.2586 12.6558C18.4124 12.7065 18.5784 12.7059 18.7319 12.6539C19.1213 12.5212 19.3297 12.0982 19.197 11.7087" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9986 11.4033C9.55956 10.2852 5.25639 12.8844 3.87779 16.5607C3.29093 14.7617 3.37826 12.8317 3.96143 11.0508" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.34961 8.28648C7.12787 5.75598 9.99157 4.05465 13.1357 4.44681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.8414 19.8227C18.4029 18.933 17.564 18.3084 16.5869 18.1422C17.4756 17.703 18.1013 16.8656 18.2673 15.8877C18.7059 16.7773 19.5439 17.4012 20.5219 17.5681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.77832 18.2481C8.20891 17.5779 9.23357 16.2644 9.5307 14.7119C10.1998 16.144 11.5143 17.1659 13.0669 17.4643C11.6349 18.1334 10.6117 19.448 10.3145 21.0005C10.0337 20.3994 9.63883 19.8703 9.16047 19.4368" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 22 icon with style variants.
+class _StarComet22Icon {
+  const _StarComet22Icon();
+
+  /// broken style
+  _StarComet22Broken get broken => const _StarComet22Broken();
+}
+
+/// comet 22 — broken style variants.
+class _StarComet22Broken {
+  const _StarComet22Broken();
+
+  /// comet 22 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 22',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.9882 16.9681C19.064 17.4385 18.7439 17.8809 18.2735 17.9567C18.0881 17.9862 17.8985 17.9546 17.7328 17.8668L15.1674 16.537C14.9146 16.4064 14.6148 16.4064 14.3621 16.537L11.7952 17.8674C11.3746 18.0907 10.853 17.9306 10.6297 17.5102C10.5419 17.3438 10.5103 17.1542 10.5405 16.9688L11.032 14.1513C11.0804 13.874 10.9871 13.591 10.7834 13.3965L8.70453 11.4012C8.36682 11.0754 8.35629 10.5376 8.68206 10.1992C8.81546 10.0609 8.99239 9.97169 9.18336 9.9464L12.055 9.53286C12.3351 9.49355 12.5787 9.31943 12.7065 9.06667L13.992 6.50119C14.2132 6.07432 14.7384 5.90792 15.1653 6.12909C15.3246 6.21123 15.4545 6.34112 15.5374 6.50119L16.8208 9.06597C16.9479 9.31872 17.1915 9.49284 17.4717 9.53216L20.3433 9.94569C20.8087 10.0068 21.1359 10.4344 21.0749 10.8999C21.0496 11.0901 20.9604 11.2671 20.8221 11.4005L18.7453 13.3958" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.832 15.2217C8.26506 13.471 4.66198 15.5232 3.08226 16.7693C2.58651 14.751 3.23674 12.2956 4.70834 10.3672" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.77539 8.41525C8.55996 7.22567 10.866 6.71219 13.4826 7.50105" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// comet 23 icon with style variants.
+class _StarComet23Icon {
+  const _StarComet23Icon();
+
+  /// broken style
+  _StarComet23Broken get broken => const _StarComet23Broken();
+}
+
+/// comet 23 — broken style variants.
+class _StarComet23Broken {
+  const _StarComet23Broken();
+
+  /// comet 23 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'comet 23',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.5766 15.1895L16.252 13.511C16.2968 13.3989 16.3039 13.2738 16.2724 13.1571C16.1947 12.8716 15.9103 12.7054 15.637 12.7865L13.9423 13.266C13.7772 13.3133 13.6001 13.2733 13.4688 13.1585L12.1406 11.9913C12.0561 11.9192 11.9528 11.8763 11.8446 11.8686C11.5543 11.8472 11.3024 12.0753 11.2819 12.3785L11.183 14.1897C11.1726 14.3684 11.079 14.5305 10.9328 14.6235L9.43639 15.5831C9.33635 15.6456 9.25943 15.7417 9.21848 15.8554C9.11864 16.1334 9.25348 16.4429 9.51925 16.5474L11.1529 17.1847C11.3127 17.2466 11.4325 17.3874 11.4721 17.5606L11.8747 19.3191C11.9024 19.4342 11.9655 19.5364 12.0541 19.611C12.279 19.7991 12.6073 19.7613 12.7874 19.5263L13.8946 18.111C14.0037 17.9719 14.1703 17.8967 14.342 17.9092L16.0864 18.0383C16.1995 18.0477 16.3124 18.0185 16.4083 17.955C16.6515 17.7931 16.7233 17.4562 16.5684 17.2021" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.63463 14.7884C5.11636 13.8703 3.49503 12.4972 3.64649 11.1701C3.85331 9.35798 7.29234 8.27317 11.5091 8.6084" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.4711 15.452C19.6962 14.9936 20.2583 14.0816 20.3535 13.2476C20.5299 11.7019 18.3014 10.0939 15.0518 9.21484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7534 7.9417C16.9312 6.64583 16.3951 5.71824 15.7062 5.23876C14.1049 4.12432 10.6228 6.29241 7.92864 10.0813C5.23449 13.8702 4.34853 17.8452 5.9498 18.9596C7.04611 19.7226 9.02408 18.947 11.0272 17.1659" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
     type: IconfyType.regular,
   );
 
@@ -1022,48 +3052,8 @@ class _StarStarMagicGlowLight {
 class _StarStarProgressIcon {
   const _StarStarProgressIcon();
 
-  /// bold style
-  _StarStarProgressBold get bold => const _StarStarProgressBold();
-  /// bulk style
-  _StarStarProgressBulk get bulk => const _StarStarProgressBulk();
-  /// light style
-  _StarStarProgressLight get light => const _StarStarProgressLight();
-  /// outline style
-  _StarStarProgressOutline get outline => const _StarStarProgressOutline();
   /// twoTone style
   _StarStarProgressTwotone get twoTone => const _StarStarProgressTwotone();
-  /// broken style
-  _StarStarProgressBroken get broken => const _StarStarProgressBroken();
-}
-
-/// star progress — bulk style variants.
-class _StarStarProgressBulk {
-  const _StarStarProgressBulk();
-
-  /// star progress — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'star progress',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.2402 20.1595V3.80093C13.0172 3.68315 12.7646 3.61914 12.5003 3.61914C11.9103 3.61914 11.3803 3.93914 11.1103 4.45914C11.1046 4.46489 11.1021 4.46733 11.1011 4.47027C11.1003 4.47245 11.1003 4.47489 11.1003 4.47914C11.0903 4.47914 11.0903 4.48914 11.0903 4.48914L8.93031 8.83914L4.09031 9.54914C3.49031 9.63914 3.01031 10.0491 2.83031 10.6191C2.64031 11.1891 2.79031 11.7991 3.23031 12.2191L6.72031 15.5991L5.90031 20.3791C5.80031 20.9691 6.03032 21.5591 6.51031 21.9091C6.79032 22.1091 7.12031 22.2091 7.44032 22.2091C7.69032 22.2091 7.94031 22.1591 8.17031 22.0391L12.5003 19.7791L13.2402 20.1595Z" fill="black"/> <path d="M13.2404 3.80078C13.5237 3.95041 13.7594 4.18683 13.9104 4.48899L14.3504 5.38899C14.5404 5.75899 14.3804 6.20899 14.0104 6.38899C13.7604 6.51899 13.4704 6.48899 13.2504 6.32899V18.479L14.2604 19.009C14.6304 19.199 14.7704 19.649 14.5804 20.019C14.3904 20.379 13.9304 20.529 13.5704 20.329L13.2404 20.1593V3.80078Z" fill="black"/> <path d="M16.7621 20.3051L17.5251 20.7051L17.6241 20.6381L17.4571 19.6781C17.3871 19.2691 17.6591 18.8811 18.0681 18.8101C18.4771 18.7381 18.8651 19.0131 18.9361 19.4211L19.1031 20.3841C19.2021 20.9731 18.9651 21.5571 18.4841 21.9091C18.2081 22.1101 17.8851 22.2131 17.5581 22.2131C17.3101 22.2131 17.0601 22.1541 16.8271 22.0341L16.0651 21.6331C15.6981 21.4411 15.5571 20.9871 15.7491 20.6201C15.9411 20.2551 16.3931 20.1121 16.7621 20.3051Z" fill="black"/> <path d="M18.4118 16.393L18.2768 15.605L18.6148 15.281C18.9148 14.994 18.9238 14.52 18.6378 14.22C18.3518 13.921 17.8788 13.911 17.5778 14.198L16.9518 14.797C16.7718 14.97 16.6888 15.22 16.7308 15.465L16.9328 16.646C16.9958 17.011 17.3128 17.269 17.6718 17.269C17.7138 17.269 17.7558 17.266 17.7988 17.258C18.2078 17.188 18.4818 16.801 18.4118 16.393Z" fill="black"/> <path d="M19.6957 10.8921C19.2857 10.8341 19.0007 10.4551 19.0567 10.0451C19.1147 9.63507 19.5007 9.35207 19.9047 9.40707L20.9097 9.54807C21.5067 9.63607 21.9917 10.0481 22.1747 10.6211C22.3577 11.1911 22.2037 11.8031 21.7727 12.2181L20.4927 13.4581C20.3467 13.5991 20.1597 13.6691 19.9707 13.6691C19.7747 13.6691 19.5797 13.5931 19.4317 13.4411C19.1437 13.1431 19.1517 12.6691 19.4497 12.3811L20.7297 11.1411L20.6947 11.0321L19.6957 10.8921Z" fill="black"/> <path d="M15.5191 7.74399C15.3321 7.37499 14.8821 7.22399 14.5131 7.40899C14.1421 7.59399 13.9921 8.04499 14.1771 8.41499L14.9021 9.86598C15.0111 10.085 15.2211 10.237 15.4631 10.272L16.8911 10.482C16.9281 10.488 16.9651 10.49 17.0011 10.49C17.3671 10.49 17.6881 10.222 17.7421 9.84899C17.8031 9.43899 17.5191 9.05799 17.1101 8.99798L16.0691 8.84499L15.5191 7.74399Z" fill="black"/> </svg>',
-    category: 'Star',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// star progress — broken style variants.
-class _StarStarProgressBroken {
-  const _StarStarProgressBroken();
-
-  /// star progress — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'star progress',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.8203 5.71865L11.2664 4.81865C11.5664 4.2154 12.4343 4.2154 12.7333 4.81865C12.5833 4.52189 12.2923 4.36859 12.0003 4.36859" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7344 4.81836L15.0724 9.53384L20.2994 10.2898C20.9714 10.3891 21.2384 11.2083 20.7534 11.6763L18.8624 13.5075" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9709 15.3389L17.8629 20.5142C17.9779 21.1807 17.275 21.6847 16.676 21.3694L12.0009 18.9304L10.5859 19.6679" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.30427 19.5518L6.13728 20.515C6.02328 21.1805 6.72523 21.6845 7.32423 21.3703L8.08723 20.9733" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.82831 16.5188L7.03033 15.3396L6.4043 14.7363" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.52896 12.9185L3.24899 11.677C2.76199 11.209 3.02996 10.3897 3.70096 10.2905L4.69998 10.1465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.5 9.74094L8.92798 9.53369L9.65198 8.07617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Star',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// star progress — twoTone style variants.
@@ -1073,6 +3063,29 @@ class _StarStarProgressTwotone {
   /// star progress — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'star progress',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.2339 4.81836L15.572 9.53384L20.799 10.2898C21.471 10.3891 21.7379 11.2083 21.2529 11.6763L17.4709 15.3386L18.3629 20.5139C18.4779 21.1804 17.775 21.6844 17.176 21.3691L12.5009 18.9301L11.0859 19.6676" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M11.3203 5.71865L11.7664 4.81865C12.0664 4.2154 12.9343 4.2154 13.2333 4.81865C13.0833 4.52189 12.7923 4.36859 12.5003 4.36859" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.80427 19.5518L6.63728 20.515C6.52328 21.1805 7.22523 21.6845 7.82423 21.3703L8.58723 20.9733" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.32831 16.5188L7.53033 15.3396L6.9043 14.7363" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.02896 12.9185L3.74899 11.677C3.26199 11.209 3.52996 10.3897 4.20096 10.2905L5.19998 10.1465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8 9.74094L9.42798 9.53369L10.152 8.07617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star progress 1 icon with style variants.
+class _StarStarProgress1Icon {
+  const _StarStarProgress1Icon();
+
+  /// twoTone style
+  _StarStarProgress1Twotone get twoTone => const _StarStarProgress1Twotone();
+}
+
+/// star progress 1 — twoTone style variants.
+class _StarStarProgress1Twotone {
+  const _StarStarProgress1Twotone();
+
+  /// star progress 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star progress 1',
     svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.3203 5.71865L11.7664 4.81865C12.0664 4.2154 12.9343 4.2154 13.2333 4.81865C13.0833 4.52189 12.7923 4.36859 12.5003 4.36859" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.2339 4.81836L15.572 9.53384L20.799 10.2898C21.471 10.3891 21.7379 11.2083 21.2529 11.6763L17.4709 15.3386L18.3629 20.5139C18.4779 21.1804 17.775 21.6844 17.176 21.3691L12.5009 18.9301L11.0859 19.6676" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 18.93V4.36816" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.80427 19.5518L6.63728 20.515C6.52328 21.1805 7.22523 21.6845 7.82423 21.3703L8.58723 20.9733" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.32831 16.5188L7.53033 15.3396L6.9043 14.7363" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.02896 12.9185L3.74899 11.677C3.26199 11.209 3.52996 10.3897 4.20096 10.2905L5.19998 10.1465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8 9.74094L9.42798 9.53369L10.152 8.07617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Star',
     style: IconfyStyle.twoTone,
@@ -1081,28 +3094,21 @@ class _StarStarProgressTwotone {
 
 }
 
-/// star progress — outline style variants.
-class _StarStarProgressOutline {
-  const _StarStarProgressOutline();
+/// star progress 2 icon with style variants.
+class _StarStarProgress2Icon {
+  const _StarStarProgress2Icon();
 
-  /// star progress — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'star progress',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5947 3.56867C11.1701 2.41163 12.8303 2.40948 13.4052 3.56956C13.5887 3.93966 13.4383 4.38842 13.069 4.57331C12.6996 4.7582 12.2502 4.60961 12.0639 4.24096C12.059 4.23118 12.0544 4.22538 12.051 4.22184C12.0476 4.21817 12.0437 4.21513 12.0393 4.2125C12.0298 4.20689 12.016 4.20257 12.0002 4.20257C11.9935 4.20257 11.9868 4.20248 11.9801 4.20231C11.9718 4.20416 11.965 4.20698 11.9602 4.20981C11.9547 4.21301 11.9468 4.21863 11.938 4.23633C11.9379 4.23642 11.938 4.23624 11.938 4.23633L11.4922 5.13568C11.3083 5.50681 10.8583 5.65857 10.4872 5.47463C10.1161 5.29069 9.9643 4.84072 10.1482 4.46959L10.5947 3.56867Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4007 3.23039C12.7718 3.04639 13.2218 3.19806 13.4058 3.56917L15.5689 7.93189L20.4085 8.63183C21.6838 8.82029 22.2154 10.3905 21.2741 11.2995C21.2739 11.2997 21.2743 11.2994 21.2741 11.2995L17.7773 14.6857L18.6019 19.4704C18.6019 19.4704 18.6019 19.4703 18.6019 19.4704C18.8244 20.7607 17.4669 21.7157 16.3279 21.1175C16.3274 21.1172 16.327 21.117 16.3265 21.1167L12.0007 18.8599L10.9325 19.4167C10.5652 19.6081 10.1122 19.4655 9.92076 19.0982C9.72932 18.7309 9.87188 18.2779 10.2392 18.0865L11.6542 17.349C11.8715 17.2357 12.1305 17.2358 12.3477 17.3491L17.0228 19.7881L17.0252 19.7894C17.045 19.7998 17.0564 19.7998 17.0631 19.7992C17.0729 19.7983 17.0861 19.7942 17.0992 19.7848C17.1123 19.7753 17.1193 19.765 17.1222 19.7582C17.1239 19.7544 17.1273 19.746 17.1237 19.7254L16.2318 14.55C16.1896 14.3056 16.271 14.0563 16.4491 13.8838L20.2321 10.2206C20.2468 10.2063 20.2488 10.1979 20.2496 10.1944C20.2511 10.1878 20.2516 10.1762 20.2468 10.1618C20.2421 10.1474 20.2344 10.1368 20.2273 10.1306C20.2225 10.1264 20.213 10.1194 20.1899 10.1158C20.1897 10.1158 20.1902 10.1159 20.1899 10.1158L14.9645 9.36008C14.7205 9.3248 14.5094 9.17184 14.3999 8.95097L12.0619 4.23549C11.8779 3.86438 12.0296 3.41438 12.4007 3.23039Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.70215C12.4142 2.70215 12.75 3.03793 12.75 3.45215V18.014C12.75 18.4282 12.4142 18.764 12 18.764C11.5858 18.764 11.25 18.4282 11.25 18.014V3.45215C11.25 3.03793 11.5858 2.70215 12 2.70215Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.43245 17.8968C6.84057 17.9675 7.11406 18.3557 7.0433 18.7639L6.87657 19.7256C6.87654 19.7257 6.87652 19.7259 6.8765 19.726C6.87313 19.746 6.87648 19.7544 6.8782 19.7583C6.8812 19.7652 6.88827 19.7757 6.90151 19.7852C6.91477 19.7948 6.92809 19.7989 6.93792 19.7998C6.94475 19.8004 6.95613 19.8004 6.9759 19.7901L6.97811 19.7889L6.97811 19.7889L7.74111 19.3919C8.10856 19.2007 8.56142 19.3436 8.75261 19.7111C8.9438 20.0785 8.80092 20.5314 8.43347 20.7226L7.67138 21.1191C6.53232 21.7153 5.17743 20.7605 5.3981 19.4723L5.39836 19.4708L5.39836 19.4708L5.56535 18.5076C5.63611 18.0995 6.02432 17.826 6.43245 17.8968Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.86425 13.2999C6.15168 13.0016 6.62647 12.9928 6.92473 13.2803L7.55077 13.8836C7.72957 14.0559 7.8115 14.3055 7.76956 14.5503L7.56754 15.7295C7.49759 16.1377 7.10993 16.412 6.70166 16.342C6.2934 16.2721 6.01913 15.8844 6.08908 15.4762L6.22408 14.6882L5.88387 14.3604C5.58561 14.0729 5.57682 13.5981 5.86425 13.2999Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.44229 9.12344C5.50138 9.53342 5.21694 9.91368 4.80696 9.97277L3.80985 10.1165C3.78721 10.12 3.77794 10.1269 3.77316 10.1311C3.76608 10.1373 3.75836 10.1478 3.75369 10.1621C3.74902 10.1764 3.74957 10.1878 3.75101 10.1941L3.75102 10.1941C3.75175 10.1973 3.75368 10.2058 3.76865 10.2202L3.77116 10.2226L3.77115 10.2226L5.05112 11.4641C5.34845 11.7525 5.35569 12.2273 5.0673 12.5246C4.77891 12.8219 4.30409 12.8292 4.00676 12.5408L2.72788 11.3004C1.78347 10.3907 2.31811 8.82073 3.59125 8.63251L3.59394 8.63211L3.59394 8.63212L4.59296 8.48812C5.00294 8.42902 5.3832 8.71347 5.44229 9.12344Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.98573 6.48844C10.3567 6.67272 10.508 7.12283 10.3238 7.49379L9.59977 8.95131C9.49024 9.17182 9.27946 9.32452 9.0358 9.35988L7.60782 9.56713C7.1979 9.62663 6.81737 9.34255 6.75787 8.93263C6.69838 8.52271 6.98246 8.14218 7.39237 8.08269L8.43128 7.9319L8.98038 6.82649C9.16465 6.45552 9.61476 6.30417 9.98573 6.48844Z" fill="black"/> </svg> ',
-    category: 'Star',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
+  /// bold style
+  _StarStarProgress2Bold get bold => const _StarStarProgress2Bold();
 }
 
-/// star progress — bold style variants.
-class _StarStarProgressBold {
-  const _StarStarProgressBold();
+/// star progress 2 — bold style variants.
+class _StarStarProgress2Bold {
+  const _StarStarProgress2Bold();
 
-  /// star progress — bold / regular
+  /// star progress 2 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'star progress',
+    name: 'star progress 2',
     svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.6696 10.6191C21.4896 10.0491 21.0096 9.63914 20.4096 9.54914L15.5696 8.83914L13.4096 4.48914C13.4096 4.48914 13.4096 4.47914 13.3996 4.47914C13.3996 4.46914 13.3996 4.46914 13.3896 4.45914C13.1196 3.93914 12.5896 3.61914 11.9996 3.61914C11.3996 3.61914 10.8596 3.94914 10.5896 4.48914L10.1496 5.38914C9.95962 5.75914 10.1196 6.20914 10.4896 6.38914C10.7396 6.51914 11.0296 6.48914 11.2496 6.32914V18.4791L10.2396 19.0091C9.86962 19.1991 9.72962 19.6491 9.91962 20.0191C10.1096 20.3791 10.5696 20.5291 10.9296 20.3291L11.9996 19.7791L16.3296 22.0391C16.5596 22.1591 16.8096 22.2091 17.0596 22.2091C17.3796 22.2091 17.7096 22.1091 17.9896 21.9091C18.4696 21.5591 18.6996 20.9691 18.5996 20.3791L17.7796 15.5991L21.2696 12.2191C21.7096 11.7991 21.8596 11.1891 21.6696 10.6191Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.73794 20.3053L6.97494 20.7053L6.87594 20.6383L7.04294 19.6783C7.11294 19.2693 6.84094 18.8813 6.43194 18.8103C6.02294 18.7383 5.63494 19.0133 5.56394 19.4213L5.39694 20.3843C5.29794 20.9733 5.53494 21.5573 6.01594 21.9093C6.29194 22.1103 6.61494 22.2133 6.94194 22.2133C7.18994 22.2133 7.43994 22.1543 7.67294 22.0343L8.43494 21.6333C8.80194 21.4413 8.94294 20.9873 8.75094 20.6203C8.55894 20.2553 8.10694 20.1123 7.73794 20.3053Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.22322 15.6052L6.08822 16.3932C6.01822 16.8012 6.29222 17.1882 6.70122 17.2582C6.74422 17.2662 6.78622 17.2692 6.82822 17.2692C7.18722 17.2692 7.50422 17.0112 7.56722 16.6462L7.76922 15.4652C7.81122 15.2202 7.72822 14.9702 7.54822 14.7972L6.92222 14.1982C6.62122 13.9112 6.14822 13.9212 5.86222 14.2202C5.57622 14.5202 5.58522 14.9942 5.88522 15.2812L6.22322 15.6052Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.80435 10.8922C5.21435 10.8342 5.49935 10.4552 5.44335 10.0452C5.38535 9.63522 4.99935 9.35222 4.59535 9.40722L3.59035 9.54822C2.99335 9.63622 2.50835 10.0482 2.32535 10.6212C2.14235 11.1912 2.29635 11.8032 2.72735 12.2182L4.00735 13.4582C4.15335 13.5992 4.34035 13.6692 4.52935 13.6692C4.72535 13.6692 4.92035 13.5932 5.06835 13.4412C5.35635 13.1432 5.34835 12.6692 5.05035 12.3812L3.77035 11.1412L3.80535 11.0322L4.80435 10.8922Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.98694 7.40913C9.61794 7.22413 9.16794 7.37513 8.98094 7.74413L8.43094 8.84513L7.38994 8.99813C6.98094 9.05813 6.69694 9.43913 6.75794 9.84913C6.81194 10.2221 7.13294 10.4901 7.49894 10.4901C7.53494 10.4901 7.57194 10.4881 7.60894 10.4821L9.03694 10.2721C9.27894 10.2371 9.48894 10.0851 9.59794 9.86613L10.3229 8.41513C10.5079 8.04513 10.3579 7.59413 9.98694 7.40913Z" fill="black"/> </svg>',
     category: 'Star',
     style: IconfyStyle.bold,
@@ -1111,16 +3117,208 @@ class _StarStarProgressBold {
 
 }
 
-/// star progress — light style variants.
-class _StarStarProgressLight {
-  const _StarStarProgressLight();
+/// star progress 3 icon with style variants.
+class _StarStarProgress3Icon {
+  const _StarStarProgress3Icon();
 
-  /// star progress — light / regular
+  /// bold style
+  _StarStarProgress3Bold get bold => const _StarStarProgress3Bold();
+}
+
+/// star progress 3 — bold style variants.
+class _StarStarProgress3Bold {
+  const _StarStarProgress3Bold();
+
+  /// star progress 3 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'star progress',
+    name: 'star progress 3',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.6696 10.6191C21.4896 10.0491 21.0096 9.63914 20.4096 9.54914L15.5696 8.83914L13.4096 4.48914C13.4096 4.48914 13.4096 4.47914 13.3996 4.47914C13.3996 4.46914 13.3996 4.46914 13.3896 4.45914C13.1196 3.93914 12.5896 3.61914 11.9996 3.61914C11.3996 3.61914 10.8596 3.94914 10.5896 4.48914L10.1496 5.38914C9.95962 5.75914 10.1196 6.20914 10.4896 6.38914C10.7396 6.51914 11.0296 6.48914 11.2496 6.32914V18.4791L10.2396 19.0091C9.86962 19.1991 9.72962 19.6491 9.91962 20.0191C10.1096 20.3791 10.5696 20.5291 10.9296 20.3291L11.9996 19.7791L16.3296 22.0391C16.5596 22.1591 16.8096 22.2091 17.0596 22.2091C17.3796 22.2091 17.7096 22.1091 17.9896 21.9091C18.4696 21.5591 18.6996 20.9691 18.5996 20.3791L17.7796 15.5991L21.2696 12.2191C21.7096 11.7991 21.8596 11.1891 21.6696 10.6191Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.73794 20.3053L6.97494 20.7053L6.87594 20.6383L7.04294 19.6783C7.11294 19.2693 6.84094 18.8813 6.43194 18.8103C6.02294 18.7383 5.63494 19.0133 5.56394 19.4213L5.39694 20.3843C5.29794 20.9733 5.53494 21.5573 6.01594 21.9093C6.29194 22.1103 6.61494 22.2133 6.94194 22.2133C7.18994 22.2133 7.43994 22.1543 7.67294 22.0343L8.43494 21.6333C8.80194 21.4413 8.94294 20.9873 8.75094 20.6203C8.55894 20.2553 8.10694 20.1123 7.73794 20.3053Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.22322 15.6052L6.08822 16.3932C6.01822 16.8012 6.29222 17.1882 6.70122 17.2582C6.74422 17.2662 6.78622 17.2692 6.82822 17.2692C7.18722 17.2692 7.50422 17.0112 7.56722 16.6462L7.76922 15.4652C7.81122 15.2202 7.72822 14.9702 7.54822 14.7972L6.92222 14.1982C6.62122 13.9112 6.14822 13.9212 5.86222 14.2202C5.57622 14.5202 5.58522 14.9942 5.88522 15.2812L6.22322 15.6052Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.80435 10.8922C5.21435 10.8342 5.49935 10.4552 5.44335 10.0452C5.38535 9.63522 4.99935 9.35222 4.59535 9.40722L3.59035 9.54822C2.99335 9.63622 2.50835 10.0482 2.32535 10.6212C2.14235 11.1912 2.29635 11.8032 2.72735 12.2182L4.00735 13.4582C4.15335 13.5992 4.34035 13.6692 4.52935 13.6692C4.72535 13.6692 4.92035 13.5932 5.06835 13.4412C5.35635 13.1432 5.34835 12.6692 5.05035 12.3812L3.77035 11.1412L3.80535 11.0322L4.80435 10.8922Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.98694 7.40913C9.61794 7.22413 9.16794 7.37513 8.98094 7.74413L8.43094 8.84513L7.38994 8.99813C6.98094 9.05813 6.69694 9.43913 6.75794 9.84913C6.81194 10.2221 7.13294 10.4901 7.49894 10.4901C7.53494 10.4901 7.57194 10.4881 7.60894 10.4821L9.03694 10.2721C9.27894 10.2371 9.48894 10.0851 9.59794 9.86613L10.3229 8.41513C10.5079 8.04513 10.3579 7.59413 9.98694 7.40913Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star progress 4 icon with style variants.
+class _StarStarProgress4Icon {
+  const _StarStarProgress4Icon();
+
+  /// bulk style
+  _StarStarProgress4Bulk get bulk => const _StarStarProgress4Bulk();
+}
+
+/// star progress 4 — bulk style variants.
+class _StarStarProgress4Bulk {
+  const _StarStarProgress4Bulk();
+
+  /// star progress 4 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star progress 4',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.2402 20.1595V3.80093C13.0172 3.68315 12.7646 3.61914 12.5003 3.61914C11.9103 3.61914 11.3803 3.93914 11.1103 4.45914C11.1046 4.46489 11.1021 4.46733 11.1011 4.47027C11.1003 4.47245 11.1003 4.47489 11.1003 4.47914C11.0903 4.47914 11.0903 4.48914 11.0903 4.48914L8.93031 8.83914L4.09031 9.54914C3.49031 9.63914 3.01031 10.0491 2.83031 10.6191C2.64031 11.1891 2.79031 11.7991 3.23031 12.2191L6.72031 15.5991L5.90031 20.3791C5.80031 20.9691 6.03032 21.5591 6.51031 21.9091C6.79032 22.1091 7.12031 22.2091 7.44032 22.2091C7.69032 22.2091 7.94031 22.1591 8.17031 22.0391L12.5003 19.7791L13.2402 20.1595Z" fill="black"/> <path d="M13.2404 3.80078C13.5237 3.95041 13.7594 4.18683 13.9104 4.48899L14.3504 5.38899C14.5404 5.75899 14.3804 6.20899 14.0104 6.38899C13.7604 6.51899 13.4704 6.48899 13.2504 6.32899V18.479L14.2604 19.009C14.6304 19.199 14.7704 19.649 14.5804 20.019C14.3904 20.379 13.9304 20.529 13.5704 20.329L13.2404 20.1593V3.80078Z" fill="black"/> <path d="M16.7621 20.3051L17.5251 20.7051L17.6241 20.6381L17.4571 19.6781C17.3871 19.2691 17.6591 18.8811 18.0681 18.8101C18.4771 18.7381 18.8651 19.0131 18.9361 19.4211L19.1031 20.3841C19.2021 20.9731 18.9651 21.5571 18.4841 21.9091C18.2081 22.1101 17.8851 22.2131 17.5581 22.2131C17.3101 22.2131 17.0601 22.1541 16.8271 22.0341L16.0651 21.6331C15.6981 21.4411 15.5571 20.9871 15.7491 20.6201C15.9411 20.2551 16.3931 20.1121 16.7621 20.3051Z" fill="black"/> <path d="M18.4118 16.393L18.2768 15.605L18.6148 15.281C18.9148 14.994 18.9238 14.52 18.6378 14.22C18.3518 13.921 17.8788 13.911 17.5778 14.198L16.9518 14.797C16.7718 14.97 16.6888 15.22 16.7308 15.465L16.9328 16.646C16.9958 17.011 17.3128 17.269 17.6718 17.269C17.7138 17.269 17.7558 17.266 17.7988 17.258C18.2078 17.188 18.4818 16.801 18.4118 16.393Z" fill="black"/> <path d="M19.6957 10.8921C19.2857 10.8341 19.0007 10.4551 19.0567 10.0451C19.1147 9.63507 19.5007 9.35207 19.9047 9.40707L20.9097 9.54807C21.5067 9.63607 21.9917 10.0481 22.1747 10.6211C22.3577 11.1911 22.2037 11.8031 21.7727 12.2181L20.4927 13.4581C20.3467 13.5991 20.1597 13.6691 19.9707 13.6691C19.7747 13.6691 19.5797 13.5931 19.4317 13.4411C19.1437 13.1431 19.1517 12.6691 19.4497 12.3811L20.7297 11.1411L20.6947 11.0321L19.6957 10.8921Z" fill="black"/> <path d="M15.5191 7.74399C15.3321 7.37499 14.8821 7.22399 14.5131 7.40899C14.1421 7.59399 13.9921 8.04499 14.1771 8.41499L14.9021 9.86598C15.0111 10.085 15.2211 10.237 15.4631 10.272L16.8911 10.482C16.9281 10.488 16.9651 10.49 17.0011 10.49C17.3671 10.49 17.6881 10.222 17.7421 9.84899C17.8031 9.43899 17.5191 9.05799 17.1101 8.99798L16.0691 8.84499L15.5191 7.74399Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star progress 5 icon with style variants.
+class _StarStarProgress5Icon {
+  const _StarStarProgress5Icon();
+
+  /// bulk style
+  _StarStarProgress5Bulk get bulk => const _StarStarProgress5Bulk();
+}
+
+/// star progress 5 — bulk style variants.
+class _StarStarProgress5Bulk {
+  const _StarStarProgress5Bulk();
+
+  /// star progress 5 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star progress 5',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.2402 20.1595V3.80093C13.0172 3.68315 12.7646 3.61914 12.5003 3.61914C11.9103 3.61914 11.3803 3.93914 11.1103 4.45914C11.1046 4.46489 11.1021 4.46733 11.1011 4.47027C11.1003 4.47245 11.1003 4.47489 11.1003 4.47914C11.0903 4.47914 11.0903 4.48914 11.0903 4.48914L8.93031 8.83914L4.09031 9.54914C3.49031 9.63914 3.01031 10.0491 2.83031 10.6191C2.64031 11.1891 2.79031 11.7991 3.23031 12.2191L6.72031 15.5991L5.90031 20.3791C5.80031 20.9691 6.03032 21.5591 6.51031 21.9091C6.79032 22.1091 7.12031 22.2091 7.44032 22.2091C7.69032 22.2091 7.94031 22.1591 8.17031 22.0391L12.5003 19.7791L13.2402 20.1595Z" fill="black"/> <path d="M13.2404 3.80078C13.5237 3.95041 13.7594 4.18683 13.9104 4.48899L14.3504 5.38899C14.5404 5.75899 14.3804 6.20899 14.0104 6.38899C13.7604 6.51899 13.4704 6.48899 13.2504 6.32899V18.479L14.2604 19.009C14.6304 19.199 14.7704 19.649 14.5804 20.019C14.3904 20.379 13.9304 20.529 13.5704 20.329L13.2404 20.1593V3.80078Z" fill="black"/> <path d="M16.7621 20.3051L17.5251 20.7051L17.6241 20.6381L17.4571 19.6781C17.3871 19.2691 17.6591 18.8811 18.0681 18.8101C18.4771 18.7381 18.8651 19.0131 18.9361 19.4211L19.1031 20.3841C19.2021 20.9731 18.9651 21.5571 18.4841 21.9091C18.2081 22.1101 17.8851 22.2131 17.5581 22.2131C17.3101 22.2131 17.0601 22.1541 16.8271 22.0341L16.0651 21.6331C15.6981 21.4411 15.5571 20.9871 15.7491 20.6201C15.9411 20.2551 16.3931 20.1121 16.7621 20.3051Z" fill="black"/> <path d="M18.4118 16.393L18.2768 15.605L18.6148 15.281C18.9148 14.994 18.9238 14.52 18.6378 14.22C18.3518 13.921 17.8788 13.911 17.5778 14.198L16.9518 14.797C16.7718 14.97 16.6888 15.22 16.7308 15.465L16.9328 16.646C16.9958 17.011 17.3128 17.269 17.6718 17.269C17.7138 17.269 17.7558 17.266 17.7988 17.258C18.2078 17.188 18.4818 16.801 18.4118 16.393Z" fill="black"/> <path d="M19.6957 10.8921C19.2857 10.8341 19.0007 10.4551 19.0567 10.0451C19.1147 9.63507 19.5007 9.35207 19.9047 9.40707L20.9097 9.54807C21.5067 9.63607 21.9917 10.0481 22.1747 10.6211C22.3577 11.1911 22.2037 11.8031 21.7727 12.2181L20.4927 13.4581C20.3467 13.5991 20.1597 13.6691 19.9707 13.6691C19.7747 13.6691 19.5797 13.5931 19.4317 13.4411C19.1437 13.1431 19.1517 12.6691 19.4497 12.3811L20.7297 11.1411L20.6947 11.0321L19.6957 10.8921Z" fill="black"/> <path d="M15.5191 7.74399C15.3321 7.37499 14.8821 7.22399 14.5131 7.40899C14.1421 7.59399 13.9921 8.04499 14.1771 8.41499L14.9021 9.86598C15.0111 10.085 15.2211 10.237 15.4631 10.272L16.8911 10.482C16.9281 10.488 16.9651 10.49 17.0011 10.49C17.3671 10.49 17.6881 10.222 17.7421 9.84899C17.8031 9.43899 17.5191 9.05799 17.1101 8.99798L16.0691 8.84499L15.5191 7.74399Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star progress 6 icon with style variants.
+class _StarStarProgress6Icon {
+  const _StarStarProgress6Icon();
+
+  /// broken style
+  _StarStarProgress6Broken get broken => const _StarStarProgress6Broken();
+}
+
+/// star progress 6 — broken style variants.
+class _StarStarProgress6Broken {
+  const _StarStarProgress6Broken();
+
+  /// star progress 6 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star progress 6',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.8203 5.71865L11.2664 4.81865C11.5664 4.2154 12.4343 4.2154 12.7333 4.81865C12.5833 4.52189 12.2923 4.36859 12.0003 4.36859" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7344 4.81836L15.0724 9.53384L20.2994 10.2898C20.9714 10.3891 21.2384 11.2083 20.7534 11.6763L18.8624 13.5075" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9709 15.3389L17.8629 20.5142C17.9779 21.1807 17.275 21.6847 16.676 21.3694L12.0009 18.9304L10.5859 19.6679" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.30427 19.5518L6.13728 20.515C6.02328 21.1805 6.72523 21.6845 7.32423 21.3703L8.08723 20.9733" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.82831 16.5188L7.03033 15.3396L6.4043 14.7363" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.52896 12.9185L3.24899 11.677C2.76199 11.209 3.02996 10.3897 3.70096 10.2905L4.69998 10.1465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.5 9.74094L8.92798 9.53369L9.65198 8.07617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star progress 7 icon with style variants.
+class _StarStarProgress7Icon {
+  const _StarStarProgress7Icon();
+
+  /// broken style
+  _StarStarProgress7Broken get broken => const _StarStarProgress7Broken();
+}
+
+/// star progress 7 — broken style variants.
+class _StarStarProgress7Broken {
+  const _StarStarProgress7Broken();
+
+  /// star progress 7 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star progress 7',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.8203 5.71865L11.2664 4.81865C11.5664 4.2154 12.4343 4.2154 12.7333 4.81865C12.5833 4.52189 12.2923 4.36859 12.0003 4.36859" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7344 4.81836L15.0724 9.53384L20.2994 10.2898C20.9714 10.3891 21.2384 11.2083 20.7534 11.6763L19.1753 13.2044" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9709 15.3389L17.8629 20.5142C17.9779 21.1807 17.275 21.6847 16.676 21.3694L12.0009 18.9304L10.5859 19.6679" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 16.2706V4.36816" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.30427 19.5518L6.13728 20.515C6.02328 21.1805 6.72523 21.6845 7.32423 21.3703L8.08723 20.9733" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.82831 16.5188L7.03033 15.3396L6.4043 14.7363" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.52896 12.9185L3.24899 11.677C2.76199 11.209 3.02996 10.3897 3.70096 10.2905L4.69998 10.1465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.5 9.74094L8.92798 9.53369L9.65198 8.07617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star progress 8 icon with style variants.
+class _StarStarProgress8Icon {
+  const _StarStarProgress8Icon();
+
+  /// light style
+  _StarStarProgress8Light get light => const _StarStarProgress8Light();
+}
+
+/// star progress 8 — light style variants.
+class _StarStarProgress8Light {
+  const _StarStarProgress8Light();
+
+  /// star progress 8 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star progress 8',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.8203 4.80263L11.2664 3.90263C11.5664 3.29938 12.4343 3.29938 12.7333 3.90263C12.5833 3.60587 12.2923 3.45257 12.0003 3.45257" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7339 3.90234L15.072 8.61782L20.299 9.37379C20.971 9.47309 21.2379 10.2923 20.7529 10.7603L16.9709 14.4226L17.8629 19.5979C17.9779 20.2644 17.275 20.7684 16.676 20.4531L12.0009 18.0141L10.5859 18.7516" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.30427 18.6357L6.13728 19.5989C6.02328 20.2644 6.72523 20.7684 7.32423 20.4542L8.08723 20.0572" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.82831 15.6028L7.03033 14.4236L6.4043 13.8203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.52896 12.0025L3.24899 10.761C2.76199 10.293 3.02996 9.47367 3.70096 9.37447L4.69998 9.23047" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.5 8.82493L8.92798 8.61768L9.65198 7.16016" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Star',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star progress 9 icon with style variants.
+class _StarStarProgress9Icon {
+  const _StarStarProgress9Icon();
+
+  /// light style
+  _StarStarProgress9Light get light => const _StarStarProgress9Light();
+}
+
+/// star progress 9 — light style variants.
+class _StarStarProgress9Light {
+  const _StarStarProgress9Light();
+
+  /// star progress 9 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star progress 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.8203 4.80263L11.2664 3.90263C11.5664 3.29938 12.4343 3.29938 12.7333 3.90263C12.5833 3.60587 12.2923 3.45257 12.0003 3.45257" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7339 3.90234L15.072 8.61782L20.299 9.37379C20.971 9.47309 21.2379 10.2923 20.7529 10.7603L16.9709 14.4226L17.8629 19.5979C17.9779 20.2644 17.275 20.7684 16.676 20.4531L12.0009 18.0141L10.5859 18.7516" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.30427 18.6357L6.13728 19.5989C6.02328 20.2644 6.72523 20.7684 7.32423 20.4542L8.08723 20.0572" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.82831 15.6028L7.03033 14.4236L6.4043 13.8203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.52896 12.0025L3.24899 10.761C2.76199 10.293 3.02996 9.47367 3.70096 9.37447L4.69998 9.23047" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.5 8.82493L8.92798 8.61768L9.65198 7.16016" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star progress 10 icon with style variants.
+class _StarStarProgress10Icon {
+  const _StarStarProgress10Icon();
+
+  /// outline style
+  _StarStarProgress10Outline get outline => const _StarStarProgress10Outline();
+}
+
+/// star progress 10 — outline style variants.
+class _StarStarProgress10Outline {
+  const _StarStarProgress10Outline();
+
+  /// star progress 10 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star progress 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5947 3.56867C11.1701 2.41163 12.8303 2.40948 13.4052 3.56956C13.5887 3.93966 13.4383 4.38842 13.069 4.57331C12.6996 4.7582 12.2502 4.60961 12.0639 4.24096C12.059 4.23118 12.0544 4.22538 12.051 4.22184C12.0476 4.21817 12.0437 4.21513 12.0393 4.2125C12.0298 4.20689 12.016 4.20257 12.0002 4.20257C11.9935 4.20257 11.9868 4.20248 11.9801 4.20231C11.9718 4.20416 11.965 4.20698 11.9602 4.20981C11.9547 4.21301 11.9468 4.21863 11.938 4.23633C11.9379 4.23642 11.938 4.23624 11.938 4.23633L11.4922 5.13568C11.3083 5.50681 10.8583 5.65857 10.4872 5.47463C10.1161 5.29069 9.9643 4.84072 10.1482 4.46959L10.5947 3.56867Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4007 3.23039C12.7718 3.04639 13.2218 3.19806 13.4058 3.56917L15.5689 7.93189L20.4085 8.63183C21.6838 8.82029 22.2154 10.3905 21.2741 11.2995C21.2739 11.2997 21.2743 11.2994 21.2741 11.2995L17.7773 14.6857L18.6019 19.4704C18.6019 19.4704 18.6019 19.4703 18.6019 19.4704C18.8244 20.7607 17.4669 21.7157 16.3279 21.1175C16.3274 21.1172 16.327 21.117 16.3265 21.1167L12.0007 18.8599L10.9325 19.4167C10.5652 19.6081 10.1122 19.4655 9.92076 19.0982C9.72932 18.7309 9.87188 18.2779 10.2392 18.0865L11.6542 17.349C11.8715 17.2357 12.1305 17.2358 12.3477 17.3491L17.0228 19.7881L17.0252 19.7894C17.045 19.7998 17.0564 19.7998 17.0631 19.7992C17.0729 19.7983 17.0861 19.7942 17.0992 19.7848C17.1123 19.7753 17.1193 19.765 17.1222 19.7582C17.1239 19.7544 17.1273 19.746 17.1237 19.7254L16.2318 14.55C16.1896 14.3056 16.271 14.0563 16.4491 13.8838L20.2321 10.2206C20.2468 10.2063 20.2488 10.1979 20.2496 10.1944C20.2511 10.1878 20.2516 10.1762 20.2468 10.1618C20.2421 10.1474 20.2344 10.1368 20.2273 10.1306C20.2225 10.1264 20.213 10.1194 20.1899 10.1158C20.1897 10.1158 20.1902 10.1159 20.1899 10.1158L14.9645 9.36008C14.7205 9.3248 14.5094 9.17184 14.3999 8.95097L12.0619 4.23549C11.8779 3.86438 12.0296 3.41438 12.4007 3.23039Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.43245 17.8968C6.84057 17.9675 7.11406 18.3557 7.0433 18.7639L6.87657 19.7256C6.87654 19.7257 6.87652 19.7259 6.8765 19.726C6.87313 19.746 6.87648 19.7544 6.8782 19.7583C6.8812 19.7652 6.88827 19.7757 6.90151 19.7852C6.91477 19.7948 6.92809 19.7989 6.93792 19.7998C6.94475 19.8004 6.95613 19.8004 6.9759 19.7901L6.97811 19.7889L6.97811 19.7889L7.74111 19.3919C8.10856 19.2007 8.56142 19.3436 8.75261 19.7111C8.9438 20.0785 8.80092 20.5314 8.43347 20.7226L7.67138 21.1191C6.53232 21.7153 5.17743 20.7605 5.3981 19.4723L5.39836 19.4708L5.39836 19.4708L5.56535 18.5076C5.63611 18.0995 6.02432 17.826 6.43245 17.8968Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.86425 13.2999C6.15168 13.0016 6.62647 12.9928 6.92473 13.2803L7.55077 13.8836C7.72957 14.0559 7.8115 14.3055 7.76956 14.5503L7.56754 15.7295C7.49759 16.1377 7.10993 16.412 6.70166 16.342C6.2934 16.2721 6.01913 15.8844 6.08908 15.4762L6.22408 14.6882L5.88387 14.3604C5.58561 14.0729 5.57682 13.5981 5.86425 13.2999Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.44229 9.12344C5.50138 9.53342 5.21694 9.91368 4.80696 9.97277L3.80985 10.1165C3.78721 10.12 3.77794 10.1269 3.77316 10.1311C3.76608 10.1373 3.75836 10.1478 3.75369 10.1621C3.74902 10.1764 3.74957 10.1878 3.75101 10.1941L3.75102 10.1941C3.75175 10.1973 3.75368 10.2058 3.76865 10.2202L3.77116 10.2226L3.77115 10.2226L5.05112 11.4641C5.34845 11.7525 5.35569 12.2273 5.0673 12.5246C4.77891 12.8219 4.30409 12.8292 4.00676 12.5408L2.72788 11.3004C1.78347 10.3907 2.31811 8.82073 3.59125 8.63251L3.59394 8.63211L3.59394 8.63212L4.59296 8.48812C5.00294 8.42902 5.3832 8.71347 5.44229 9.12344Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.98573 6.48844C10.3567 6.67272 10.508 7.12283 10.3238 7.49379L9.59977 8.95131C9.49024 9.17182 9.27946 9.32452 9.0358 9.35988L7.60782 9.56713C7.1979 9.62663 6.81737 9.34255 6.75787 8.93263C6.69838 8.52271 6.98246 8.14218 7.39237 8.08269L8.43128 7.9319L8.98038 6.82649C9.16465 6.45552 9.61476 6.30417 9.98573 6.48844Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star progress 11 icon with style variants.
+class _StarStarProgress11Icon {
+  const _StarStarProgress11Icon();
+
+  /// outline style
+  _StarStarProgress11Outline get outline => const _StarStarProgress11Outline();
+}
+
+/// star progress 11 — outline style variants.
+class _StarStarProgress11Outline {
+  const _StarStarProgress11Outline();
+
+  /// star progress 11 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star progress 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5947 3.56867C11.1701 2.41163 12.8303 2.40948 13.4052 3.56956C13.5887 3.93966 13.4383 4.38842 13.069 4.57331C12.6996 4.7582 12.2502 4.60961 12.0639 4.24096C12.059 4.23118 12.0544 4.22538 12.051 4.22184C12.0476 4.21817 12.0437 4.21513 12.0393 4.2125C12.0298 4.20689 12.016 4.20257 12.0002 4.20257C11.9935 4.20257 11.9868 4.20248 11.9801 4.20231C11.9718 4.20416 11.965 4.20698 11.9602 4.20981C11.9547 4.21301 11.9468 4.21863 11.938 4.23633C11.9379 4.23642 11.938 4.23624 11.938 4.23633L11.4922 5.13568C11.3083 5.50681 10.8583 5.65857 10.4872 5.47463C10.1161 5.29069 9.9643 4.84072 10.1482 4.46959L10.5947 3.56867Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4007 3.23039C12.7718 3.04639 13.2218 3.19806 13.4058 3.56917L15.5689 7.93189L20.4085 8.63183C21.6838 8.82029 22.2154 10.3905 21.2741 11.2995C21.2739 11.2997 21.2743 11.2994 21.2741 11.2995L17.7773 14.6857L18.6019 19.4704C18.6019 19.4704 18.6019 19.4703 18.6019 19.4704C18.8244 20.7607 17.4669 21.7157 16.3279 21.1175C16.3274 21.1172 16.327 21.117 16.3265 21.1167L12.0007 18.8599L10.9325 19.4167C10.5652 19.6081 10.1122 19.4655 9.92076 19.0982C9.72932 18.7309 9.87188 18.2779 10.2392 18.0865L11.6542 17.349C11.8715 17.2357 12.1305 17.2358 12.3477 17.3491L17.0228 19.7881L17.0252 19.7894C17.045 19.7998 17.0564 19.7998 17.0631 19.7992C17.0729 19.7983 17.0861 19.7942 17.0992 19.7848C17.1123 19.7753 17.1193 19.765 17.1222 19.7582C17.1239 19.7544 17.1273 19.746 17.1237 19.7254L16.2318 14.55C16.1896 14.3056 16.271 14.0563 16.4491 13.8838L20.2321 10.2206C20.2468 10.2063 20.2488 10.1979 20.2496 10.1944C20.2511 10.1878 20.2516 10.1762 20.2468 10.1618C20.2421 10.1474 20.2344 10.1368 20.2273 10.1306C20.2225 10.1264 20.213 10.1194 20.1899 10.1158C20.1897 10.1158 20.1902 10.1159 20.1899 10.1158L14.9645 9.36008C14.7205 9.3248 14.5094 9.17184 14.3999 8.95097L12.0619 4.23549C11.8779 3.86438 12.0296 3.41438 12.4007 3.23039Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.70215C12.4142 2.70215 12.75 3.03793 12.75 3.45215V18.014C12.75 18.4282 12.4142 18.764 12 18.764C11.5858 18.764 11.25 18.4282 11.25 18.014V3.45215C11.25 3.03793 11.5858 2.70215 12 2.70215Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.43245 17.8968C6.84057 17.9675 7.11406 18.3557 7.0433 18.7639L6.87657 19.7256C6.87654 19.7257 6.87652 19.7259 6.8765 19.726C6.87313 19.746 6.87648 19.7544 6.8782 19.7583C6.8812 19.7652 6.88827 19.7757 6.90151 19.7852C6.91477 19.7948 6.92809 19.7989 6.93792 19.7998C6.94475 19.8004 6.95613 19.8004 6.9759 19.7901L6.97811 19.7889L6.97811 19.7889L7.74111 19.3919C8.10856 19.2007 8.56142 19.3436 8.75261 19.7111C8.9438 20.0785 8.80092 20.5314 8.43347 20.7226L7.67138 21.1191C6.53232 21.7153 5.17743 20.7605 5.3981 19.4723L5.39836 19.4708L5.39836 19.4708L5.56535 18.5076C5.63611 18.0995 6.02432 17.826 6.43245 17.8968Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.86425 13.2999C6.15168 13.0016 6.62647 12.9928 6.92473 13.2803L7.55077 13.8836C7.72957 14.0559 7.8115 14.3055 7.76956 14.5503L7.56754 15.7295C7.49759 16.1377 7.10993 16.412 6.70166 16.342C6.2934 16.2721 6.01913 15.8844 6.08908 15.4762L6.22408 14.6882L5.88387 14.3604C5.58561 14.0729 5.57682 13.5981 5.86425 13.2999Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.44229 9.12344C5.50138 9.53342 5.21694 9.91368 4.80696 9.97277L3.80985 10.1165C3.78721 10.12 3.77794 10.1269 3.77316 10.1311C3.76608 10.1373 3.75836 10.1478 3.75369 10.1621C3.74902 10.1764 3.74957 10.1878 3.75101 10.1941L3.75102 10.1941C3.75175 10.1973 3.75368 10.2058 3.76865 10.2202L3.77116 10.2226L3.77115 10.2226L5.05112 11.4641C5.34845 11.7525 5.35569 12.2273 5.0673 12.5246C4.77891 12.8219 4.30409 12.8292 4.00676 12.5408L2.72788 11.3004C1.78347 10.3907 2.31811 8.82073 3.59125 8.63251L3.59394 8.63211L3.59394 8.63212L4.59296 8.48812C5.00294 8.42902 5.3832 8.71347 5.44229 9.12344Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.98573 6.48844C10.3567 6.67272 10.508 7.12283 10.3238 7.49379L9.59977 8.95131C9.49024 9.17182 9.27946 9.32452 9.0358 9.35988L7.60782 9.56713C7.1979 9.62663 6.81737 9.34255 6.75787 8.93263C6.69838 8.52271 6.98246 8.14218 7.39237 8.08269L8.43128 7.9319L8.98038 6.82649C9.16465 6.45552 9.61476 6.30417 9.98573 6.48844Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -1227,6 +3425,114 @@ class _StarStarDropLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'star drop',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8689 8.12619L14.3099 11.0052C14.4529 11.2893 14.7249 11.4849 15.0409 11.5296L18.2639 11.9937C18.7869 12.0618 19.1539 12.5415 19.0849 13.064C19.0569 13.278 18.957 13.4765 18.801 13.6263L16.4699 15.8661C16.2409 16.085 16.1359 16.4022 16.1909 16.7145L16.7429 19.8766C16.8279 20.4049 16.4679 20.9011 15.9409 20.9868C15.7319 21.0198 15.5189 20.9848 15.3329 20.8866L12.4539 19.3931C12.1689 19.2471 11.8329 19.2471 11.5499 19.3931L8.66796 20.8866C8.19596 21.1376 7.60994 20.9576 7.35894 20.4857C7.26094 20.2989 7.2259 20.0858 7.2589 19.8776L7.81194 16.7155C7.86594 16.4032 7.76091 16.085 7.53191 15.8671L5.19793 13.6273C4.81893 13.2615 4.8079 12.6573 5.1729 12.2778C5.3229 12.1221 5.52091 12.0219 5.73491 11.9937L8.95995 11.5306C9.27395 11.4858 9.54693 11.2903 9.68993 11.0062L11.1339 8.12619C11.3819 7.64749 11.972 7.45971 12.452 7.70879C12.631 7.80122 12.7769 7.94716 12.8689 8.12619Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.26758 4.04395V7.30239" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3V4.37089" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7324 4.04395V7.30239" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star drop 1 icon with style variants.
+class _StarStarDrop1Icon {
+  const _StarStarDrop1Icon();
+
+  /// bold style
+  _StarStarDrop1Bold get bold => const _StarStarDrop1Bold();
+  /// bulk style
+  _StarStarDrop1Bulk get bulk => const _StarStarDrop1Bulk();
+  /// light style
+  _StarStarDrop1Light get light => const _StarStarDrop1Light();
+  /// outline style
+  _StarStarDrop1Outline get outline => const _StarStarDrop1Outline();
+  /// twoTone style
+  _StarStarDrop1Twotone get twoTone => const _StarStarDrop1Twotone();
+  /// broken style
+  _StarStarDrop1Broken get broken => const _StarStarDrop1Broken();
+}
+
+/// star drop 1 — bulk style variants.
+class _StarStarDrop1Bulk {
+  const _StarStarDrop1Bulk();
+
+  /// star drop 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star drop 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.8017 13.7545L15.9677 12.3355C15.8347 12.2685 15.7417 12.1395 15.7217 11.9905L15.2667 8.81747C15.2247 8.49947 15.0777 8.20847 14.8377 7.97147C14.5587 7.70247 14.1867 7.56447 13.8087 7.56947C13.4247 7.57847 13.0667 7.73747 12.8027 8.01547L10.5927 10.3105C10.4957 10.4145 10.3507 10.4625 10.2087 10.4395L7.10575 9.90047C6.79975 9.84247 6.48375 9.88847 6.17375 10.0415C5.46675 10.4215 5.19775 11.3035 5.57075 12.0015L7.04075 14.8395C7.11175 14.9755 7.11175 15.1375 7.04275 15.2715L5.56975 18.1065C5.42375 18.3945 5.37375 18.7085 5.42375 19.0105C5.55075 19.7965 6.28975 20.3355 7.09675 20.2145L10.2197 19.6725C10.3537 19.6475 10.4977 19.6955 10.5977 19.7975L12.8047 22.0995C13.0277 22.3295 13.3257 22.4815 13.6497 22.5275C13.7137 22.5365 13.7797 22.5405 13.8437 22.5405C14.1557 22.5405 14.4577 22.4385 14.7117 22.2445C15.0197 22.0085 15.2167 21.6685 15.2657 21.2935L15.7227 18.1185C15.7427 17.9685 15.8297 17.8475 15.9677 17.7785L18.8017 16.3585L18.8057 16.3575C19.0647 16.2245 19.2857 16.0045 19.4357 15.7285C19.8037 15.0055 19.5207 14.1205 18.8017 13.7545Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.36523 7.59152C6.77923 7.59152 7.11523 7.25552 7.11523 6.84152V5.06152C7.11523 4.64752 6.77923 4.31152 6.36523 4.31152C5.95123 4.31152 5.61523 4.64752 5.61523 5.06152V6.84152C5.61523 7.25552 5.95123 7.59152 6.36523 7.59152Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.6348 10.0515C19.0488 10.0515 19.3848 9.71552 19.3848 9.30152V5.06152C19.3848 4.64752 19.0488 4.31152 18.6348 4.31152C18.2208 4.31152 17.8848 4.64752 17.8848 5.06152V9.30152C17.8848 9.71552 18.2208 10.0515 18.6348 10.0515Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5019 6.14199C12.9159 6.14199 13.2519 5.80599 13.2519 5.39199V4.04199C13.2519 3.62799 12.9159 3.29199 12.5019 3.29199C12.0879 3.29199 11.7519 3.62799 11.7519 4.04199V5.39199C11.7519 5.80599 12.0879 6.14199 12.5019 6.14199Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star drop 1 — broken style variants.
+class _StarStarDrop1Broken {
+  const _StarStarDrop1Broken();
+
+  /// star drop 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star drop 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.2422 17.2062L18.0762 15.7877C18.2522 15.6962 18.3962 15.5522 18.4882 15.3761C18.7322 14.9042 18.5482 14.3243 18.0762 14.0801L15.2412 12.6586C14.9622 12.5175 14.7692 12.249 14.7252 11.9386L14.2692 8.76484C14.2412 8.55371 14.1422 8.35912 13.9892 8.21123C13.6152 7.85123 13.0212 7.86194 12.6612 8.23652L10.4562 10.5337C10.2412 10.7594 9.92819 10.8625 9.62119 10.8081L6.50821 10.2651C6.30221 10.2321 6.09221 10.2661 5.90921 10.3634C5.44421 10.6105 5.26722 11.1865 5.51322 11.6516L6.98423 14.4888C7.12823 14.768 7.12823 15.0988 6.98423 15.379L5.51419 18.2142C5.41819 18.3971 5.38323 18.6063 5.41623 18.8106C5.49923 19.3312 5.98819 19.6843 6.50919 19.6016L9.62223 19.0578C9.92923 19.0042 10.2422 19.1074 10.4562 19.3331L12.6622 21.6273C12.8082 21.7811 13.0042 21.8793 13.2152 21.9076C13.7292 21.9757 14.2022 21.6137 14.2692 21.099" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.86328 4.94434V6.72096" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1328 4.94434V9.18059" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3.91602V5.26551" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star drop 1 — twoTone style variants.
+class _StarStarDrop1Twotone {
+  const _StarStarDrop1Twotone();
+
+  /// star drop 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star drop 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.5762 15.7877L15.7422 17.2062C15.4622 17.3473 15.2692 17.6149 15.2262 17.9252L14.7692 21.099C14.7022 21.6137 14.2292 21.9757 13.7152 21.9076C13.5042 21.8793 13.3082 21.7811 13.1622 21.6273L10.9562 19.3331C10.7422 19.1074 10.4292 19.0042 10.1222 19.0578L7.00919 19.6016C6.48819 19.6843 5.99923 19.3312 5.91623 18.8106C5.88323 18.6063 5.91819 18.3971 6.01419 18.2142L7.48423 15.379C7.62823 15.0988 7.62823 14.768 7.48423 14.4888L6.01322 11.6516C5.76722 11.1865 5.94421 10.6105 6.40921 10.3634C6.59221 10.2661 6.80221 10.2321 7.00821 10.2651L10.1212 10.8081C10.4282 10.8625 10.7412 10.7594 10.9562 10.5337L13.1612 8.23652C13.5212 7.86194 14.1152 7.85123 14.4892 8.21123C14.6422 8.35912 14.7412 8.55371 14.7692 8.76484L15.2252 11.9386C15.2692 12.249 15.4622 12.5175 15.7412 12.6586L18.5762 14.0801C19.0482 14.3243 19.2322 14.9042 18.9882 15.3761C18.8962 15.5522 18.7522 15.6962 18.5762 15.7877Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.36328 4.94434V6.72096" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.6328 4.94434V9.18059" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 3.91602V5.26551" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star drop 1 — outline style variants.
+class _StarStarDrop1Outline {
+  const _StarStarDrop1Outline();
+
+  /// star drop 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star drop 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.3484 21.7472C13.2729 21.7472 13.1974 21.7422 13.1225 21.7322C12.741 21.6819 12.3881 21.5027 12.1225 21.2242L9.92248 18.9342C9.90174 18.912 9.87581 18.8951 9.84704 18.8852C9.81827 18.8752 9.78751 18.8725 9.75744 18.8772L6.64544 19.4212C6.33211 19.4749 6.01001 19.4397 5.71569 19.3195C5.42138 19.1994 5.16667 18.9991 4.98046 18.7415C4.79425 18.4838 4.68403 18.1791 4.66229 17.8619C4.64054 17.5448 4.70817 17.2279 4.85748 16.9472L6.32543 14.1152C6.34156 14.0844 6.35003 14.0501 6.35003 14.0152C6.35003 13.9804 6.34156 13.9461 6.32543 13.9152L4.85345 11.0812C4.7054 10.8013 4.6385 10.4856 4.66027 10.1696C4.68204 9.85368 4.79163 9.5501 4.97668 9.29311C5.16173 9.03612 5.41491 8.83592 5.70764 8.71509C6.00037 8.59426 6.32103 8.5576 6.63348 8.60924L9.75646 9.15324C9.78581 9.15906 9.81616 9.15734 9.84466 9.14825C9.87317 9.13915 9.89893 9.12298 9.91949 9.10124L12.1265 6.80124C12.2801 6.64052 12.4642 6.51189 12.668 6.4228C12.8717 6.33371 13.0911 6.28594 13.3135 6.28224C13.7593 6.28035 14.1889 6.44966 14.5135 6.75524C14.7881 7.02267 14.9643 7.37507 15.0135 7.75524L15.4675 10.9192C15.4723 10.9524 15.485 10.984 15.5045 11.0113C15.5239 11.0386 15.5497 11.0609 15.5795 11.0762L18.4125 12.4972C18.6925 12.6401 18.9278 12.8575 19.0925 13.1253C19.2571 13.3932 19.3448 13.7013 19.3458 14.0157C19.3469 14.3301 19.2612 14.6387 19.0983 14.9077C18.9354 15.1766 18.7016 15.3955 18.4225 15.5402L18.4125 15.5452L15.5785 16.9642C15.5494 16.9787 15.5243 17 15.5053 17.0263C15.4863 17.0526 15.474 17.0831 15.4695 17.1152L15.0115 20.2932C14.956 20.6969 14.7566 21.067 14.4499 21.3352C14.1432 21.6035 13.7499 21.752 13.3425 21.7532L13.3484 21.7472ZM9.78948 17.3752C10.0173 17.3749 10.2427 17.4211 10.452 17.511C10.6613 17.6009 10.85 17.7327 11.0065 17.8982L13.2065 20.1882C13.2355 20.22 13.2748 20.2406 13.3174 20.2462C13.3667 20.252 13.4161 20.2382 13.4554 20.2079C13.4946 20.1777 13.5205 20.1333 13.5275 20.0842L13.9864 16.8992C14.025 16.6269 14.129 16.368 14.2896 16.1447C14.4502 15.9214 14.6625 15.7404 14.9084 15.6172L17.7364 14.2012C17.775 14.1812 17.8065 14.1498 17.8265 14.1112C17.8458 14.0605 17.8472 14.0047 17.8305 13.953C17.8138 13.9014 17.7799 13.857 17.7345 13.8272L14.9084 12.4102C14.6623 12.2861 14.4499 12.1044 14.2892 11.8805C14.1285 11.6566 14.0243 11.3971 13.9855 11.1242L13.5295 7.95224C13.5247 7.90643 13.5042 7.86369 13.4715 7.83124C13.4327 7.80233 13.3853 7.78722 13.3369 7.7883C13.2885 7.78939 13.2419 7.80661 13.2045 7.83724L11.0045 10.1372C10.8134 10.3374 10.5759 10.4872 10.313 10.5734C10.0501 10.6596 9.76994 10.6794 9.49749 10.6312L6.38549 10.0812C6.34528 10.0767 6.30462 10.084 6.26849 10.1022C6.24443 10.1143 6.223 10.131 6.20556 10.1515C6.18812 10.172 6.17502 10.1958 6.16699 10.2215C6.15896 10.2471 6.15621 10.2742 6.15887 10.3009C6.16153 10.3277 6.16957 10.3536 6.18249 10.3772L7.65649 13.2212C7.78122 13.4654 7.84625 13.7356 7.84625 14.0097C7.84625 14.2839 7.78122 14.5541 7.65649 14.7982L6.18646 17.6412C6.16395 17.6806 6.1555 17.7264 6.16247 17.7712C6.16673 17.798 6.1762 17.8236 6.19036 17.8467C6.20453 17.8697 6.22313 17.8898 6.24505 17.9056C6.26697 17.9215 6.29178 17.9329 6.31811 17.9392C6.34444 17.9455 6.37177 17.9465 6.39849 17.9422L9.49847 17.4002C9.59456 17.3835 9.69194 17.3751 9.78948 17.3752V17.3752Z" fill="black"/> <path d="M5.86914 6.55239C5.67023 6.55239 5.47946 6.47337 5.33881 6.33272C5.19815 6.19207 5.11914 6.0013 5.11914 5.80239V4.02539C5.11914 3.82648 5.19815 3.63571 5.33881 3.49506C5.47946 3.35441 5.67023 3.27539 5.86914 3.27539C6.06805 3.27539 6.25882 3.35441 6.39948 3.49506C6.54013 3.63571 6.61914 3.82648 6.61914 4.02539V5.80239C6.61914 6.0013 6.54013 6.19207 6.39948 6.33272C6.25882 6.47337 6.06805 6.55239 5.86914 6.55239V6.55239Z" fill="black"/> <path d="M18.1387 9.01239C17.9398 9.01239 17.749 8.93337 17.6083 8.79272C17.4677 8.65207 17.3887 8.4613 17.3887 8.26239V4.02539C17.3887 3.82648 17.4677 3.63571 17.6083 3.49506C17.749 3.35441 17.9398 3.27539 18.1387 3.27539C18.3376 3.27539 18.5284 3.35441 18.669 3.49506C18.8097 3.63571 18.8887 3.82648 18.8887 4.02539V8.26239C18.8887 8.4613 18.8097 8.65207 18.669 8.79272C18.5284 8.93337 18.3376 9.01239 18.1387 9.01239Z" fill="black"/> <path d="M12.0059 5.09707C11.8069 5.09707 11.6162 5.01805 11.4755 4.8774C11.3349 4.73675 11.2559 4.54598 11.2559 4.34707V2.99707C11.2559 2.79816 11.3349 2.60739 11.4755 2.46674C11.6162 2.32609 11.8069 2.24707 12.0059 2.24707C12.2048 2.24707 12.3955 2.32609 12.5362 2.46674C12.6768 2.60739 12.7559 2.79816 12.7559 2.99707V4.34707C12.7559 4.54598 12.6768 4.73675 12.5362 4.8774C12.3955 5.01805 12.2048 5.09707 12.0059 5.09707Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star drop 1 — bold style variants.
+class _StarStarDrop1Bold {
+  const _StarStarDrop1Bold();
+
+  /// star drop 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star drop 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.3018 13.7545L15.4678 12.3355C15.3348 12.2685 15.2418 12.1395 15.2218 11.9905L14.7668 8.81747C14.7248 8.49947 14.5778 8.20847 14.3378 7.97147C14.0588 7.70247 13.6868 7.56447 13.3088 7.56947C12.9248 7.57847 12.5668 7.73747 12.3028 8.01547L10.0928 10.3105C9.99581 10.4145 9.85081 10.4625 9.70881 10.4395L6.60581 9.90047C6.29981 9.84247 5.98381 9.88847 5.67381 10.0415C4.96681 10.4215 4.69781 11.3035 5.07081 12.0015L6.54081 14.8395C6.61181 14.9755 6.61181 15.1375 6.54281 15.2715L5.06981 18.1065C4.92381 18.3945 4.87381 18.7085 4.92381 19.0105C5.05081 19.7965 5.78981 20.3355 6.59681 20.2145L9.71981 19.6725C9.85381 19.6475 9.99781 19.6955 10.0978 19.7975L12.3048 22.0995C12.5278 22.3295 12.8258 22.4815 13.1498 22.5275C13.2138 22.5365 13.2798 22.5405 13.3438 22.5405C13.6558 22.5405 13.9578 22.4385 14.2118 22.2445C14.5198 22.0085 14.7168 21.6685 14.7658 21.2935L15.2228 18.1185C15.2428 17.9685 15.3298 17.8475 15.4678 17.7785L18.3018 16.3585L18.3058 16.3575C18.5648 16.2245 18.7858 16.0045 18.9358 15.7285C19.3038 15.0055 19.0208 14.1205 18.3018 13.7545Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.86536 7.59152C6.27936 7.59152 6.61536 7.25552 6.61536 6.84152V5.06152C6.61536 4.64752 6.27936 4.31152 5.86536 4.31152C5.45136 4.31152 5.11536 4.64752 5.11536 5.06152V6.84152C5.11536 7.25552 5.45136 7.59152 5.86536 7.59152Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1349 10.0515C18.5489 10.0515 18.8849 9.71552 18.8849 9.30152V5.06152C18.8849 4.64752 18.5489 4.31152 18.1349 4.31152C17.7209 4.31152 17.3849 4.64752 17.3849 5.06152V9.30152C17.3849 9.71552 17.7209 10.0515 18.1349 10.0515Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.002 6.14199C12.416 6.14199 12.752 5.80599 12.752 5.39199V4.04199C12.752 3.62799 12.416 3.29199 12.002 3.29199C11.588 3.29199 11.252 3.62799 11.252 4.04199V5.39199C11.252 5.80599 11.588 6.14199 12.002 6.14199Z" fill="black"/> </svg>',
+    category: 'Star',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star drop 1 — light style variants.
+class _StarStarDrop1Light {
+  const _StarStarDrop1Light();
+
+  /// star drop 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star drop 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.0762 14.8717L15.2422 16.2902C14.9622 16.4313 14.7692 16.6989 14.7262 17.0092L14.2692 20.183C14.2022 20.6977 13.7292 21.0597 13.2152 20.9916C13.0042 20.9633 12.8082 20.8651 12.6622 20.7113L10.4562 18.4171C10.2422 18.1914 9.92923 18.0882 9.62223 18.1418L6.50919 18.6856C5.98819 18.7683 5.49923 18.4152 5.41623 17.8946C5.38323 17.6903 5.41819 17.4811 5.51419 17.2982L6.98423 14.463C7.12823 14.1828 7.12823 13.852 6.98423 13.5728L5.51322 10.7356C5.26722 10.2705 5.44421 9.69448 5.90921 9.44738C6.09221 9.35008 6.30221 9.31608 6.50821 9.34908L9.62119 9.89208C9.92819 9.94648 10.2412 9.84338 10.4562 9.61768L12.6612 7.3205C13.0212 6.94592 13.6152 6.93521 13.9892 7.29521C14.1422 7.4431 14.2412 7.63769 14.2692 7.84882L14.7252 11.0226C14.7692 11.333 14.9622 11.6015 15.2412 11.7426L18.0762 13.1641C18.5482 13.4083 18.7322 13.9882 18.4882 14.4601C18.3962 14.6362 18.2522 14.7802 18.0762 14.8717Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.86328 4.02832V5.80494" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1328 4.02832V8.26457" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3V4.34949" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Star',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -2153,7 +4459,76 @@ class _StarAwardBadgeOutline {
   /// Award Badge — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Award Badge',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0014 13.4257L12.8326 15.0869C13.0362 15.4918 13.4254 15.7696 13.8721 15.8328C13.8726 15.8329 13.8731 15.833 13.8737 15.8331L15.7128 16.0979L14.3907 17.3681C14.3902 17.3686 14.3897 17.3691 14.3892 17.3696C14.0596 17.6843 13.9083 18.1426 13.9877 18.5928C13.9876 18.5926 13.9877 18.593 13.9877 18.5928L14.3031 20.4008L12.6406 19.539C12.2401 19.3321 11.7637 19.3316 11.3632 19.5386L9.69933 20.4009L10.0149 18.592C10.0149 18.5921 10.0149 18.592 10.0149 18.592C10.0933 18.1426 9.94199 17.6845 9.61328 17.3702C9.6135 17.3704 9.61306 17.37 9.61328 17.3702L8.28828 16.0984L10.1288 15.8334C10.5757 15.7701 10.9641 15.4923 11.168 15.0889L12.0014 13.4257ZM12.6383 11.9394C11.9594 11.588 11.1235 11.8526 10.7714 12.5323L9.85694 14.357L7.82278 14.65C7.51782 14.6915 7.23481 14.8344 7.02045 15.0567C6.49509 15.6025 6.51198 16.47 7.05598 16.9948L7.05734 16.9961L8.52491 18.4047L8.17837 20.3913L8.17697 20.3996C8.12839 20.6978 8.17966 21.0012 8.31894 21.2653L8.31991 21.2671C8.67633 21.9384 9.50856 22.1951 10.1811 21.8408L12.0015 20.8973L13.8211 21.8404C14.0848 21.9791 14.3864 22.029 14.6812 21.9821L14.6827 21.9819C15.4343 21.8607 15.9471 21.1535 15.8256 20.4003L15.4774 18.4042L16.9448 16.9943C17.1681 16.779 17.3115 16.4942 17.3522 16.1877L17.3524 16.1865C17.4504 15.4393 16.9268 14.7508 16.1777 14.6494L14.1445 14.3566L13.2363 12.5417L13.2317 12.5326C13.1002 12.2786 12.8934 12.0711 12.6383 11.9394ZM15.4249 18.4546L15.4258 18.4538Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.06641 4.75C5.06641 3.23122 6.29763 2 7.81641 2H16.1842C17.703 2 18.9342 3.23121 18.9342 4.75V8.19969C18.9342 9.24028 18.3469 10.1917 17.4166 10.6581L13.2327 12.7555C12.4571 13.1443 11.5435 13.1443 10.7679 12.7555L6.58401 10.6581C5.65376 10.1917 5.06641 9.24028 5.06641 8.19969V4.75ZM7.81641 3.5C7.12605 3.5 6.56641 4.05965 6.56641 4.75V8.19969C6.56641 8.67269 6.83338 9.10517 7.25623 9.31714L11.4401 11.4145C11.7927 11.5913 12.208 11.5913 12.5605 11.4145L16.7444 9.31714C17.1673 9.10517 17.4342 8.67269 17.4342 8.19969V4.75C17.4342 4.05964 16.8746 3.5 16.1842 3.5H7.81641Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0304 2.44111C17.2452 2.79526 17.1322 3.25651 16.7781 3.47132L6.45548 9.73255C6.10132 9.94737 5.64007 9.83441 5.42526 9.48026C5.21044 9.1261 5.3234 8.66486 5.67756 8.45004L16.0001 2.18881C16.3543 1.97399 16.8155 2.08695 17.0304 2.44111Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Award Badge  1 icon with style variants.
+class _StarAwardBadge1Icon {
+  const _StarAwardBadge1Icon();
+
+  /// outline style
+  _StarAwardBadge1Outline get outline => const _StarAwardBadge1Outline();
+}
+
+/// Award Badge  1 — outline style variants.
+class _StarAwardBadge1Outline {
+  const _StarAwardBadge1Outline();
+
+  /// Award Badge  1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Award Badge  1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.06641 4.64258C5.06641 3.12379 6.29763 1.89258 7.81641 1.89258H16.1842C17.703 1.89258 18.9342 3.12379 18.9342 4.64258V8.09227C18.9342 9.13286 18.3469 10.0843 17.4166 10.5507L13.2327 12.6481C12.4571 13.0369 11.5435 13.0369 10.7679 12.6481L6.58401 10.5507C5.65376 10.0843 5.06641 9.13286 5.06641 8.09227V4.64258ZM7.81641 3.39258C7.12605 3.39258 6.56641 3.95222 6.56641 4.64258V8.09227C6.56641 8.56527 6.83338 8.99775 7.25623 9.20972L11.4401 11.3071C11.7927 11.4839 12.208 11.4839 12.5605 11.3071L16.7444 9.20972C17.1673 8.99775 17.4342 8.56527 17.4342 8.09227V4.64258C17.4342 3.95222 16.8746 3.39258 16.1842 3.39258H7.81641Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0304 2.33369C17.2452 2.68784 17.1322 3.14909 16.7781 3.3639L6.45548 9.62513C6.10132 9.83995 5.64007 9.72699 5.42526 9.37283C5.21044 9.01868 5.3234 8.55743 5.67756 8.34262L16.0001 2.08139C16.3543 1.86657 16.8155 1.97953 17.0304 2.33369Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9999 16.2329C12.1481 16.5177 12.4201 16.7157 12.7337 16.771C12.5176 16.9967 12.4162 17.3097 12.4604 17.6206C12.1704 17.4764 11.8297 17.4764 11.5398 17.6207C11.5839 17.3099 11.4823 16.9968 11.2664 16.7711C11.5805 16.7155 11.8521 16.517 11.9999 16.2329ZM12.4745 14.27L12.1295 14.9359L12.4731 14.2692C12.6636 14.3674 12.8178 14.5222 12.9156 14.7112L12.9203 14.7203L13.2236 15.3266L13.9038 15.4245C14.463 15.5012 14.853 16.0154 14.7798 16.5728L14.7797 16.574C14.7493 16.8029 14.6422 17.0156 14.4753 17.1766L13.9869 17.6458L14.1035 18.3138C14.194 18.8753 13.8116 19.4023 13.2517 19.4925L13.2502 19.4928C13.031 19.5277 12.8068 19.4907 12.6107 19.3879L12.0002 19.0715L11.3895 19.388C10.8884 19.6511 10.269 19.4595 10.0036 18.9598L10.0027 18.9579C9.89915 18.7617 9.86076 18.5355 9.89704 18.3128L9.89839 18.3045L10.0133 17.6462L9.52555 17.178L9.52419 17.1767C9.11779 16.7847 9.1047 16.1368 9.49732 15.729C9.6572 15.5632 9.86841 15.4561 10.0954 15.4248L10.7763 15.3267L11.0849 14.7109C11.3471 14.205 11.9694 14.0083 12.4745 14.27Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9992 13.0537C9.91345 13.0537 8.22266 14.7445 8.22266 16.8302C8.22266 18.9159 9.91345 20.6067 11.9992 20.6067C14.0849 20.6067 15.7757 18.9159 15.7757 16.8302C15.7757 14.7445 14.0849 13.0537 11.9992 13.0537ZM6.72266 16.8302C6.72266 13.9161 9.08503 11.5537 11.9992 11.5537C14.9133 11.5537 17.2757 13.9161 17.2757 16.8302C17.2757 19.7443 14.9133 22.1067 11.9992 22.1067C9.08503 22.1067 6.72266 19.7443 6.72266 16.8302Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Award Badge  2 icon with style variants.
+class _StarAwardBadge2Icon {
+  const _StarAwardBadge2Icon();
+
+  /// outline style
+  _StarAwardBadge2Outline get outline => const _StarAwardBadge2Outline();
+}
+
+/// Award Badge  2 — outline style variants.
+class _StarAwardBadge2Outline {
+  const _StarAwardBadge2Outline();
+
+  /// Award Badge  2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Award Badge  2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0004 13.4663L12.8287 15.1217C13.0322 15.5263 13.4211 15.8039 13.8674 15.867C13.8679 15.8671 13.8684 15.8672 13.8689 15.8672L15.7015 16.1312L14.3841 17.3969C14.3836 17.3974 14.3831 17.3979 14.3826 17.3984C14.0534 17.7127 13.9022 18.1705 13.9814 18.6202C13.9815 18.6206 13.9815 18.6209 13.9816 18.6212L14.2958 20.4222L12.639 19.5634C12.2389 19.3567 11.7629 19.3562 11.3628 19.5629L9.70463 20.4223L10.0191 18.6197C10.0191 18.6198 10.0191 18.6197 10.0191 18.6197C10.0974 18.1707 9.94627 17.7131 9.6179 17.399C9.61765 17.3988 9.61741 17.3985 9.61717 17.3983L8.29748 16.1317L10.1316 15.8675C10.5781 15.8043 10.9661 15.5267 11.1699 15.1237L12.0004 13.4663ZM12.6368 11.9783C11.9584 11.6273 11.1233 11.8916 10.7714 12.5707L9.85908 14.3913L7.82956 14.6836C7.52487 14.7251 7.24211 14.8679 7.02793 15.0899C6.50302 15.6352 6.5199 16.502 7.06343 17.0263L7.06479 17.0276L8.529 18.433L8.18326 20.4151L8.18185 20.4234C8.13332 20.7213 8.18455 21.0245 8.3237 21.2883L8.32467 21.2901C8.68077 21.9608 9.51228 22.2173 10.1842 21.8633L12.0004 20.9219L13.816 21.863C14.0794 22.0015 14.3807 22.0514 14.6753 22.0045L14.6768 22.0043C15.4277 21.8832 15.94 21.1766 15.8187 20.4241L15.4713 18.4325L16.9343 17.0269L16.9354 17.0259C17.1584 16.8107 17.3017 16.5262 17.3424 16.22L17.3425 16.2188C17.4405 15.4722 16.9174 14.7843 16.1689 14.683L14.1404 14.3909L13.2342 12.5801L13.2296 12.571C13.0983 12.3172 12.8916 12.1099 12.6368 11.9783ZM15.4587 18.3601C15.4588 18.3607 15.4589 18.3612 15.459 18.3618Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.89844 3.72754C4.89844 2.76104 5.68194 1.97754 6.64844 1.97754H17.3516C18.3181 1.97754 19.1016 2.76104 19.1016 3.72754V5.61426C19.1016 9.53634 15.9221 12.7158 12 12.7158C8.07792 12.7158 4.89844 9.53634 4.89844 5.61426V3.72754ZM6.64844 3.47754C6.51037 3.47754 6.39844 3.58947 6.39844 3.72754V5.61426C6.39844 8.70792 8.90634 11.2158 12 11.2158C15.0937 11.2158 17.6016 8.70792 17.6016 5.61426V3.72754C17.6016 3.58947 17.4896 3.47754 17.3516 3.47754H6.64844Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.41797 1.97754C9.83218 1.97754 10.168 2.31333 10.168 2.72754V11.3452C10.168 11.7594 9.83218 12.0952 9.41797 12.0952C9.00376 12.0952 8.66797 11.7594 8.66797 11.3452V2.72754C8.66797 2.31333 9.00376 1.97754 9.41797 1.97754Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.584 1.97754C14.9982 1.97754 15.334 2.31333 15.334 2.72754V11.3452C15.334 11.7594 14.9982 12.0952 14.584 12.0952C14.1698 12.0952 13.834 11.7594 13.834 11.3452V2.72754C13.834 2.31333 14.1698 1.97754 14.584 1.97754Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Award Badge  3 icon with style variants.
+class _StarAwardBadge3Icon {
+  const _StarAwardBadge3Icon();
+
+  /// outline style
+  _StarAwardBadge3Outline get outline => const _StarAwardBadge3Outline();
+}
+
+/// Award Badge  3 — outline style variants.
+class _StarAwardBadge3Outline {
+  const _StarAwardBadge3Outline();
+
+  /// Award Badge  3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Award Badge  3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0014 13.4257L12.8326 15.0869C13.0362 15.4918 13.4254 15.7696 13.8721 15.8328C13.8726 15.8329 13.8731 15.833 13.8737 15.8331L15.7128 16.0979L14.3907 17.3681C14.3902 17.3686 14.3897 17.3691 14.3892 17.3696C14.0596 17.6843 13.9083 18.1426 13.9877 18.5928C13.9876 18.5926 13.9877 18.593 13.9877 18.5928L14.3031 20.4008L12.6406 19.539C12.2401 19.3321 11.7637 19.3316 11.3632 19.5386L9.69933 20.4009L10.0149 18.592C10.0149 18.5921 10.0149 18.592 10.0149 18.592C10.0933 18.1426 9.94199 17.6845 9.61328 17.3702C9.6135 17.3704 9.61306 17.37 9.61328 17.3702L8.28828 16.0984L10.1288 15.8334C10.5757 15.7701 10.9641 15.4923 11.168 15.0889L12.0014 13.4257ZM12.6383 11.9394C11.9594 11.588 11.1235 11.8526 10.7714 12.5323L9.85694 14.357L7.82278 14.65C7.51782 14.6915 7.23481 14.8344 7.02045 15.0567C6.49509 15.6025 6.51198 16.47 7.05598 16.9948L7.05734 16.9961L8.52491 18.4047L8.17837 20.3913L8.17697 20.3996C8.12839 20.6978 8.17966 21.0012 8.31894 21.2653L8.31991 21.2671C8.67633 21.9384 9.50856 22.1951 10.1811 21.8408L12.0015 20.8973L13.8211 21.8404C14.0848 21.9791 14.3864 22.029 14.6812 21.9821L14.6827 21.9819C15.4343 21.8607 15.9471 21.1535 15.8256 20.4003L15.4774 18.4042L16.9448 16.9943C17.1681 16.779 17.3115 16.4942 17.3522 16.1877L17.3524 16.1865C17.4504 15.4393 16.9268 14.7508 16.1777 14.6494L14.1445 14.3566L13.2363 12.5417L13.2317 12.5326C13.1002 12.2786 12.8934 12.0711 12.6383 11.9394ZM15.4249 18.4546L15.4258 18.4538Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.06641 4.75C5.06641 3.23122 6.29763 2 7.81641 2H16.1842C17.703 2 18.9342 3.23121 18.9342 4.75V8.19969C18.9342 9.24028 18.3469 10.1917 17.4166 10.6581L13.2327 12.7555C12.4571 13.1443 11.5435 13.1443 10.7679 12.7555L6.58401 10.6581C5.65376 10.1917 5.06641 9.24028 5.06641 8.19969V4.75ZM7.81641 3.5C7.12605 3.5 6.56641 4.05965 6.56641 4.75V8.19969C6.56641 8.67269 6.83338 9.10517 7.25623 9.31714L11.4401 11.4145C11.7927 11.5913 12.208 11.5913 12.5605 11.4145L16.7444 9.31714C17.1673 9.10517 17.4342 8.67269 17.4342 8.19969V4.75C17.4342 4.05964 16.8746 3.5 16.1842 3.5H7.81641Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0304 2.44111C17.2452 2.79526 17.1322 3.25651 16.7781 3.47132L6.45548 9.73255C6.10132 9.94737 5.64007 9.83441 5.42526 9.48026C5.21044 9.1261 5.3234 8.66486 5.67756 8.45004L16.0001 2.18881C16.3543 1.97399 16.8155 2.08695 17.0304 2.44111Z" fill="black"/> </svg> ',
     category: 'Star',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -2365,6 +4740,75 @@ class _StarStarMedalOutline {
   /// star medal — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'star medal',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.66523 3.67866L9.86315 6.09487C9.90116 6.58014 9.69921 7.0531 9.32336 7.36129C9.32293 7.36165 9.3225 7.362 9.32206 7.36235L7.44752 8.90721L9.79328 9.42843C9.79365 9.42851 9.79401 9.42859 9.79437 9.42867C10.2723 9.53402 10.6673 9.87038 10.8463 10.3274C10.8543 10.3478 10.8614 10.3686 10.8675 10.3896L11.7399 13.3609L12.943 10.5675C12.9569 10.5351 12.9731 10.5037 12.9915 10.4736C13.2444 10.0589 13.6822 9.79278 14.1667 9.75912L16.604 9.59302L15.0247 7.78876C15.0245 7.78853 15.0249 7.78898 15.0247 7.78876C14.7003 7.41925 14.5827 6.91275 14.7098 6.43932C14.71 6.43865 14.7102 6.43797 14.7104 6.4373L15.3255 4.11703L13.0912 5.0702C13.0907 5.07041 13.0902 5.07062 13.0897 5.07083C12.6433 5.26258 12.1297 5.22463 11.716 4.96599L9.66523 3.67866ZM9.55385 2.17503C9.86218 2.15347 10.1687 2.2287 10.4319 2.38895L10.4406 2.39426L12.5043 3.68978L14.7725 2.72216C15.518 2.39628 16.3847 2.73662 16.7124 3.47878L16.7129 3.47988C16.8468 3.78447 16.8741 4.12653 16.7892 4.44932L16.1629 6.81164L17.7649 8.64192C18.2979 9.26696 18.2217 10.2045 17.598 10.7364L17.5968 10.7374C17.3517 10.9455 17.0461 11.0684 16.7258 11.0882L14.2801 11.2549L13.0581 14.0923C13.0453 14.1221 13.0305 14.151 13.0139 14.1789C12.5945 14.8843 11.683 15.1153 10.9783 14.6962L10.9765 14.6952C10.7005 14.53 10.4837 14.2796 10.3616 13.9781C10.3523 13.9551 10.3441 13.9317 10.3371 13.9079L9.45082 10.8889L7.07056 10.36L7.06872 10.3596C6.27507 10.1812 5.77441 9.39362 5.9524 8.5981C6.02529 8.27379 6.20591 7.98329 6.46336 7.77453L8.36719 6.20555L8.1673 3.76535C8.11109 2.94281 8.73238 2.23159 9.55385 2.17503Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.07373 15.168C7.93566 15.168 7.82373 15.28 7.82373 15.418V18.5827C7.82373 18.9969 7.48794 19.3327 7.07373 19.3327C6.65952 19.3327 6.32373 18.9969 6.32373 18.5827V15.418C6.32373 14.4515 7.10723 13.668 8.07373 13.668H15.9287C16.8952 13.668 17.6787 14.4515 17.6787 15.418V18.5827C17.6787 18.9969 17.3429 19.3327 16.9287 19.3327C16.5145 19.3327 16.1787 18.9969 16.1787 18.5827V15.418C16.1787 15.28 16.0668 15.168 15.9287 15.168H8.07373Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.68281 20.5C5.6552 20.5 5.63281 20.4776 5.63281 20.45V19.5612C5.63281 19.5336 5.6552 19.5112 5.68281 19.5112H18.3176C18.3453 19.5112 18.3676 19.5336 18.3676 19.5612L18.3676 20.45C18.3676 20.4776 18.3453 20.5 18.3176 20.5H5.68281ZM4.13281 20.45C4.13281 21.306 4.82677 22 5.68281 22H18.3176C19.1737 22 19.8676 21.306 19.8676 20.45L19.8676 19.5612C19.8677 18.7052 19.1737 18.0112 18.3176 18.0112H5.68281C4.82677 18.0112 4.13281 18.7052 4.13281 19.5612V20.45Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.7139 16.543C10.7139 16.1288 11.0497 15.793 11.4639 15.793H12.54C12.9543 15.793 13.29 16.1288 13.29 16.543C13.29 16.9572 12.9543 17.293 12.54 17.293H11.4639C11.0497 17.293 10.7139 16.9572 10.7139 16.543Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star medal 1 icon with style variants.
+class _StarStarMedal1Icon {
+  const _StarStarMedal1Icon();
+
+  /// outline style
+  _StarStarMedal1Outline get outline => const _StarStarMedal1Outline();
+}
+
+/// star medal 1 — outline style variants.
+class _StarStarMedal1Outline {
+  const _StarStarMedal1Outline();
+
+  /// star medal 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star medal 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.02117 3.75791C8.98073 3.73406 8.93555 3.72377 8.89134 3.72688L8.88976 3.72699C8.76375 3.73561 8.6691 3.84345 8.67585 3.96822L8.93921 7.18331C8.98326 7.74565 8.74914 8.29376 8.31349 8.6508C8.31311 8.65111 8.31273 8.65143 8.31234 8.65174L5.78774 10.7323C5.7505 10.7623 5.72496 10.8036 5.7148 10.8485C5.69014 10.9596 5.75967 11.07 5.87124 11.0955C5.87148 11.0955 5.87101 11.0954 5.87124 11.0955L9.03465 11.7983C9.03491 11.7984 9.03439 11.7983 9.03465 11.7983C9.5877 11.9201 10.0454 12.3094 10.2525 12.838C10.2605 12.8584 10.2676 12.8792 10.2738 12.9002L11.459 16.9372C11.4772 16.9708 11.5046 17 11.5401 17.0215C11.6356 17.0777 11.7557 17.0539 11.8231 16.9704L13.4632 13.1622C13.4772 13.1298 13.4934 13.0985 13.5118 13.0684C13.8051 12.5874 14.3127 12.2788 14.8746 12.2398L18.1274 12.0181C18.1756 12.0153 18.2213 11.997 18.2581 11.966C18.3504 11.8868 18.3613 11.7495 18.2849 11.6574L16.1705 9.24176C16.1703 9.24154 16.1707 9.24198 16.1705 9.24176C15.7952 8.81441 15.6593 8.22872 15.8065 7.681C15.8067 7.68035 15.8069 7.67969 15.807 7.67903L16.6365 4.55021C16.6365 4.55007 16.6365 4.55035 16.6365 4.55021C16.6481 4.50561 16.6445 4.45687 16.6258 4.41407C16.5789 4.30858 16.4564 4.26247 16.3535 4.30791L16.3449 4.3117L13.3436 5.59199C13.3432 5.5922 13.3427 5.5924 13.3422 5.59261C12.8249 5.8149 12.2299 5.7709 11.7507 5.47136L9.02117 3.75791ZM8.78669 2.23054C9.14381 2.20554 9.499 2.29264 9.80417 2.47846L9.8129 2.48377L12.5458 4.19942C12.5459 4.1995 12.5457 4.19934 12.5458 4.19942C12.6062 4.23697 12.683 4.24334 12.7501 4.21441L12.7526 4.21335L15.7526 2.93354C16.6152 2.55585 17.6189 2.94948 17.9983 3.80881L17.9988 3.8099C18.1538 4.16242 18.1854 4.55835 18.0871 4.93182L17.2561 8.06678L17.2552 8.07014C17.2377 8.13462 17.2536 8.20188 17.297 8.25131L17.2981 8.25256L19.4244 10.6817C20.0417 11.4056 19.9535 12.4916 19.2309 13.1078L19.2297 13.1088C18.9455 13.3501 18.5913 13.4925 18.2198 13.5153L14.9786 13.7362C14.9785 13.7362 14.9787 13.7362 14.9786 13.7362C14.9136 13.7408 14.8538 13.7716 14.8127 13.8209L13.1747 17.6244C13.1618 17.6542 13.147 17.6832 13.1304 17.7111C12.6446 18.5281 11.589 18.7956 10.7726 18.3103L10.7708 18.3092C10.4508 18.1177 10.1998 17.8275 10.0585 17.4786C10.0491 17.4556 10.041 17.4322 10.034 17.4084L8.84726 13.3662C8.82043 13.3144 8.77162 13.2763 8.71284 13.2634L8.71106 13.263L5.54476 12.5595L5.54292 12.5591C4.62441 12.3526 4.0451 11.4412 4.25107 10.5206C4.33545 10.1451 4.54471 9.80876 4.84314 9.56705L7.36253 7.49077C7.41882 7.44471 7.44925 7.37381 7.44385 7.30129C7.44383 7.30101 7.44387 7.30157 7.44385 7.30129L7.17947 4.0738C7.11433 3.12045 7.83442 2.29605 8.78669 2.23054Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.16748 18.4957C7.16748 17.8077 7.72522 17.25 8.41322 17.25H15.5902C16.2782 17.25 16.836 17.8077 16.836 18.4957V21.2503C16.836 21.6646 16.5002 22.0003 16.086 22.0003C15.6718 22.0003 15.336 21.6646 15.336 21.2503V18.75H8.66748V21.2503C8.66748 21.6646 8.33169 22.0003 7.91748 22.0003C7.50327 22.0003 7.16748 21.6646 7.16748 21.2503V18.4957Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.43628 21.2501C5.43628 20.8358 5.77207 20.5001 6.18628 20.5001H17.8121C18.2263 20.5001 18.5621 20.8358 18.5621 21.2501C18.5621 21.6643 18.2263 22.0001 17.8121 22.0001H6.18628C5.77207 22.0001 5.43628 21.6643 5.43628 21.2501Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.3882 16.7604C18.6944 16.4813 18.7164 16.007 18.4373 15.7008L18.1656 15.4027C17.8866 15.0966 17.4123 15.0746 17.1061 15.3536C16.8 15.6327 16.778 16.107 17.057 16.4132L17.3287 16.7113C17.6077 17.0174 18.0821 17.0394 18.3882 16.7604Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.61078 16.7604C5.30465 16.4813 5.28267 16.007 5.56169 15.7008L5.83338 15.4027C6.1124 15.0966 6.58677 15.0746 6.89291 15.3536C7.19904 15.6327 7.22102 16.107 6.942 16.4132L6.67031 16.7113C6.39128 17.0174 5.91692 17.0394 5.61078 16.7604Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star medal 2 icon with style variants.
+class _StarStarMedal2Icon {
+  const _StarStarMedal2Icon();
+
+  /// outline style
+  _StarStarMedal2Outline get outline => const _StarStarMedal2Outline();
+}
+
+/// star medal 2 — outline style variants.
+class _StarStarMedal2Outline {
+  const _StarStarMedal2Outline();
+
+  /// star medal 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star medal 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.66728 16.1181C5.96018 16.411 5.96018 16.8859 5.66728 17.1788L5.65728 17.1888C5.36439 17.4817 4.88952 17.4817 4.59662 17.1888C4.30373 16.8959 4.30373 16.421 4.59662 16.1281L4.60662 16.1181C4.89952 15.8252 5.37439 15.8252 5.66728 16.1181Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.8212 15.6259C19.1141 15.333 19.589 15.333 19.8819 15.6259L19.8919 15.6359C20.1848 15.9288 20.1848 16.4037 19.8919 16.6966C19.599 16.9895 19.1241 16.9895 18.8312 16.6966L18.8212 16.6866C18.5283 16.3937 18.5283 15.9188 18.8212 15.6259Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.581 4.70209C5.87389 4.4092 6.34876 4.4092 6.64166 4.70209L6.65166 4.71209C6.94455 5.00498 6.94455 5.47986 6.65166 5.77275C6.35876 6.06565 5.88389 6.06565 5.591 5.77275L5.581 5.76275C5.2881 5.46986 5.2881 4.99499 5.581 4.70209Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4603 4.67963C18.7531 4.97252 18.7531 5.4474 18.4603 5.74029L18.4503 5.75029C18.1574 6.04318 17.6825 6.04318 17.3896 5.75029C17.0967 5.4574 17.0967 4.98252 17.3896 4.68963L17.3996 4.67963C17.6925 4.38674 18.1674 4.38674 18.4603 4.67963Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5098 2C12.924 2 13.2598 2.33579 13.2598 2.75V2.76C13.2598 3.17421 12.924 3.51 12.5098 3.51C12.0956 3.51 11.7598 3.17421 11.7598 2.76V2.75C11.7598 2.33579 12.0956 2 12.5098 2Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.9043 11.6055C2.9043 11.1913 3.24008 10.8555 3.6543 10.8555H3.6643C4.07851 10.8555 4.4143 11.1913 4.4143 11.6055C4.4143 12.0197 4.07851 12.3555 3.6643 12.3555H3.6543C3.24008 12.3555 2.9043 12.0197 2.9043 11.6055Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.5879 11.6055C19.5879 11.1913 19.9237 10.8555 20.3379 10.8555H20.3479C20.7621 10.8555 21.0979 11.1913 21.0979 11.6055C21.0979 12.0197 20.7621 12.3555 20.3479 12.3555H20.3379C19.9237 12.3555 19.5879 12.0197 19.5879 11.6055Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.69727 19.2948C6.69727 18.6089 7.25333 18.0528 7.93927 18.0528H16.0622C16.7481 18.0528 17.3042 18.6089 17.3042 19.2948L17.3042 21.2493C17.3042 21.6635 16.9684 21.9993 16.5542 21.9993C16.14 21.9993 15.8042 21.6635 15.8042 21.2493L15.8042 19.5528H8.19727L8.19728 21.2493C8.19728 21.6635 7.86149 21.9993 7.44728 21.9993C7.03307 21.9993 6.69728 21.6635 6.69728 21.2493L6.69727 19.2948Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.58203 16.8964C8.58203 16.3032 9.06292 15.8223 9.65613 15.8223H14.3483C14.9415 15.8223 15.4224 16.3032 15.4224 16.8964V18.3709C15.4224 18.7852 15.0866 19.1209 14.6724 19.1209C14.2582 19.1209 13.9224 18.7852 13.9224 18.3709V17.3223H10.082V18.3709C10.082 18.7852 9.74624 19.1209 9.33203 19.1209C8.91782 19.1209 8.58203 18.7852 8.58203 18.3709V16.8964Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.98242 21.25C4.98242 20.8358 5.31821 20.5 5.73242 20.5H18.2706C18.6848 20.5 19.0206 20.8358 19.0206 21.25C19.0206 21.6642 18.6848 22 18.2706 22H5.73242C5.31821 22 4.98242 21.6642 4.98242 21.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0008 7.30327L12.7444 8.78936C12.927 9.15256 13.2762 9.40179 13.6768 9.45848C13.6773 9.45854 13.6777 9.45861 13.6782 9.45867L15.3234 9.6956L14.1408 10.8319C14.1403 10.8323 14.1398 10.8328 14.1394 10.8332C13.8439 11.1154 13.7081 11.5264 13.7792 11.9301C13.7793 11.9304 13.7793 11.9307 13.7794 11.931L14.0615 13.5478L12.5741 12.7768C12.2149 12.5912 11.7876 12.5908 11.4284 12.7764L9.93981 13.5479L10.2221 11.9297C10.2221 11.9297 10.2221 11.9296 10.2221 11.9297C10.2925 11.5266 10.1567 11.1158 9.86194 10.8338C9.86173 10.8336 9.86151 10.8334 9.86129 10.8332L8.67656 9.69604L10.3232 9.45892C10.724 9.40216 11.0723 9.15295 11.2552 8.79115L12.0008 7.30327ZM12.5721 5.96745C11.9631 5.65231 11.2134 5.88962 10.8975 6.49926L10.0785 8.13366L8.25649 8.39604C7.98296 8.4333 7.72912 8.56151 7.53684 8.76087C7.06561 9.25038 7.08076 10.0285 7.56871 10.4992L7.56994 10.5004L8.8844 11.762L8.57402 13.5414L8.57276 13.5489C8.52919 13.8164 8.57518 14.0885 8.7001 14.3253L8.70097 14.327C9.02066 14.9291 9.76713 15.1594 10.3703 14.8415L12.0008 13.9964L13.6307 14.8413C13.8672 14.9656 14.1377 15.0104 14.4021 14.9683L14.4035 14.9681C15.0776 14.8594 15.5375 14.2251 15.4286 13.5495L15.1167 11.7616L16.4302 10.4997L16.4311 10.4988C16.6313 10.3057 16.76 10.0502 16.7965 9.77534L16.7966 9.77428C16.8846 9.10407 16.4149 8.48645 15.743 8.39553L13.9219 8.13328L13.1084 6.50769L13.1043 6.49951C12.9864 6.27172 12.8009 6.08556 12.5721 5.96745ZM15.1054 11.6966C15.1055 11.6971 15.1056 11.6976 15.1057 11.6981Z" fill="black"/> </svg> ',
+    category: 'Star',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// star medal 3 icon with style variants.
+class _StarStarMedal3Icon {
+  const _StarStarMedal3Icon();
+
+  /// outline style
+  _StarStarMedal3Outline get outline => const _StarStarMedal3Outline();
+}
+
+/// star medal 3 — outline style variants.
+class _StarStarMedal3Outline {
+  const _StarStarMedal3Outline();
+
+  /// star medal 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'star medal 3',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.66523 3.67866L9.86315 6.09487C9.90116 6.58014 9.69921 7.0531 9.32336 7.36129C9.32293 7.36165 9.3225 7.362 9.32206 7.36235L7.44752 8.90721L9.79328 9.42843C9.79365 9.42851 9.79401 9.42859 9.79437 9.42867C10.2723 9.53402 10.6673 9.87038 10.8463 10.3274C10.8543 10.3478 10.8614 10.3686 10.8675 10.3896L11.7399 13.3609L12.943 10.5675C12.9569 10.5351 12.9731 10.5037 12.9915 10.4736C13.2444 10.0589 13.6822 9.79278 14.1667 9.75912L16.604 9.59302L15.0247 7.78876C15.0245 7.78853 15.0249 7.78898 15.0247 7.78876C14.7003 7.41925 14.5827 6.91275 14.7098 6.43932C14.71 6.43865 14.7102 6.43797 14.7104 6.4373L15.3255 4.11703L13.0912 5.0702C13.0907 5.07041 13.0902 5.07062 13.0897 5.07083C12.6433 5.26258 12.1297 5.22463 11.716 4.96599L9.66523 3.67866ZM9.55385 2.17503C9.86218 2.15347 10.1687 2.2287 10.4319 2.38895L10.4406 2.39426L12.5043 3.68978L14.7725 2.72216C15.518 2.39628 16.3847 2.73662 16.7124 3.47878L16.7129 3.47988C16.8468 3.78447 16.8741 4.12653 16.7892 4.44932L16.1629 6.81164L17.7649 8.64192C18.2979 9.26696 18.2217 10.2045 17.598 10.7364L17.5968 10.7374C17.3517 10.9455 17.0461 11.0684 16.7258 11.0882L14.2801 11.2549L13.0581 14.0923C13.0453 14.1221 13.0305 14.151 13.0139 14.1789C12.5945 14.8843 11.683 15.1153 10.9783 14.6962L10.9765 14.6952C10.7005 14.53 10.4837 14.2796 10.3616 13.9781C10.3523 13.9551 10.3441 13.9317 10.3371 13.9079L9.45082 10.8889L7.07056 10.36L7.06872 10.3596C6.27507 10.1812 5.77441 9.39362 5.9524 8.5981C6.02529 8.27379 6.20591 7.98329 6.46336 7.77453L8.36719 6.20555L8.1673 3.76535C8.11109 2.94281 8.73238 2.23159 9.55385 2.17503Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.07373 15.168C7.93566 15.168 7.82373 15.28 7.82373 15.418V18.5827C7.82373 18.9969 7.48794 19.3327 7.07373 19.3327C6.65952 19.3327 6.32373 18.9969 6.32373 18.5827V15.418C6.32373 14.4515 7.10723 13.668 8.07373 13.668H15.9287C16.8952 13.668 17.6787 14.4515 17.6787 15.418V18.5827C17.6787 18.9969 17.3429 19.3327 16.9287 19.3327C16.5145 19.3327 16.1787 18.9969 16.1787 18.5827V15.418C16.1787 15.28 16.0668 15.168 15.9287 15.168H8.07373Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.68281 20.5C5.6552 20.5 5.63281 20.4776 5.63281 20.45V19.5612C5.63281 19.5336 5.6552 19.5112 5.68281 19.5112H18.3176C18.3453 19.5112 18.3676 19.5336 18.3676 19.5612L18.3676 20.45C18.3676 20.4776 18.3453 20.5 18.3176 20.5H5.68281ZM4.13281 20.45C4.13281 21.306 4.82677 22 5.68281 22H18.3176C19.1737 22 19.8676 21.306 19.8676 20.45L19.8676 19.5612C19.8677 18.7052 19.1737 18.0112 18.3176 18.0112H5.68281C4.82677 18.0112 4.13281 18.7052 4.13281 19.5612V20.45Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.7139 16.543C10.7139 16.1288 11.0497 15.793 11.4639 15.793H12.54C12.9543 15.793 13.29 16.1288 13.29 16.543C13.29 16.9572 12.9543 17.293 12.54 17.293H11.4639C11.0497 17.293 10.7139 16.9572 10.7139 16.543Z" fill="black"/> </svg> ',
     category: 'Star',
     style: IconfyStyle.outline,

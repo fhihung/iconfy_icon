@@ -20,6 +20,26 @@ class _SearchIcons {
   _SearchSearchCloudIcon get searchCloud => const _SearchSearchCloudIcon();
   /// Search check
   _SearchSearchCheckIcon get searchCheck => const _SearchSearchCheckIcon();
+  /// Search check 1
+  _SearchSearchCheck1Icon get searchCheck1 => const _SearchSearchCheck1Icon();
+  /// Search check 2
+  _SearchSearchCheck2Icon get searchCheck2 => const _SearchSearchCheck2Icon();
+  /// Search check 3
+  _SearchSearchCheck3Icon get searchCheck3 => const _SearchSearchCheck3Icon();
+  /// Search check 4
+  _SearchSearchCheck4Icon get searchCheck4 => const _SearchSearchCheck4Icon();
+  /// Search check 5
+  _SearchSearchCheck5Icon get searchCheck5 => const _SearchSearchCheck5Icon();
+  /// Search check 6
+  _SearchSearchCheck6Icon get searchCheck6 => const _SearchSearchCheck6Icon();
+  /// Search check 7
+  _SearchSearchCheck7Icon get searchCheck7 => const _SearchSearchCheck7Icon();
+  /// Search check 8
+  _SearchSearchCheck8Icon get searchCheck8 => const _SearchSearchCheck8Icon();
+  /// Search check 9
+  _SearchSearchCheck9Icon get searchCheck9 => const _SearchSearchCheck9Icon();
+  /// Search check 10
+  _SearchSearchCheck10Icon get searchCheck10 => const _SearchSearchCheck10Icon();
   /// Search security
   _SearchSearchSecurityIcon get searchSecurity => const _SearchSearchSecurityIcon();
   /// Search loading-2
@@ -54,6 +74,20 @@ class _SearchIcons {
   _SearchSearchBarIcon get searchBar => const _SearchSearchBarIcon();
   /// Search love
   _SearchSearchLoveIcon get searchLove => const _SearchSearchLoveIcon();
+  /// Search love 1
+  _SearchSearchLove1Icon get searchLove1 => const _SearchSearchLove1Icon();
+  /// Search love 2
+  _SearchSearchLove2Icon get searchLove2 => const _SearchSearchLove2Icon();
+  /// Search love 3
+  _SearchSearchLove3Icon get searchLove3 => const _SearchSearchLove3Icon();
+  /// Search love 4
+  _SearchSearchLove4Icon get searchLove4 => const _SearchSearchLove4Icon();
+  /// Search love 5
+  _SearchSearchLove5Icon get searchLove5 => const _SearchSearchLove5Icon();
+  /// Search love 6
+  _SearchSearchLove6Icon get searchLove6 => const _SearchSearchLove6Icon();
+  /// Search love 7
+  _SearchSearchLove7Icon get searchLove7 => const _SearchSearchLove7Icon();
   /// Target Search
   _SearchTargetSearchIcon get targetSearch => const _SearchTargetSearchIcon();
   /// Search gem
@@ -68,6 +102,30 @@ class _SearchIcons {
   _SearchSearchFilterIcon get searchFilter => const _SearchSearchFilterIcon();
   /// Search restart
   _SearchSearchRestartIcon get searchRestart => const _SearchSearchRestartIcon();
+  /// Search restart 1
+  _SearchSearchRestart1Icon get searchRestart1 => const _SearchSearchRestart1Icon();
+  /// Search restart 2
+  _SearchSearchRestart2Icon get searchRestart2 => const _SearchSearchRestart2Icon();
+  /// Search restart 3
+  _SearchSearchRestart3Icon get searchRestart3 => const _SearchSearchRestart3Icon();
+  /// Search restart 4
+  _SearchSearchRestart4Icon get searchRestart4 => const _SearchSearchRestart4Icon();
+  /// Search restart 5
+  _SearchSearchRestart5Icon get searchRestart5 => const _SearchSearchRestart5Icon();
+  /// Search restart 6
+  _SearchSearchRestart6Icon get searchRestart6 => const _SearchSearchRestart6Icon();
+  /// Search restart 7
+  _SearchSearchRestart7Icon get searchRestart7 => const _SearchSearchRestart7Icon();
+  /// Search restart 8
+  _SearchSearchRestart8Icon get searchRestart8 => const _SearchSearchRestart8Icon();
+  /// Search restart 9
+  _SearchSearchRestart9Icon get searchRestart9 => const _SearchSearchRestart9Icon();
+  /// Search restart 10
+  _SearchSearchRestart10Icon get searchRestart10 => const _SearchSearchRestart10Icon();
+  /// Search restart 11
+  _SearchSearchRestart11Icon get searchRestart11 => const _SearchSearchRestart11Icon();
+  /// Search restart 12
+  _SearchSearchRestart12Icon get searchRestart12 => const _SearchSearchRestart12Icon();
   /// Search Poker
   _SearchSearchPokerIcon get searchPoker => const _SearchSearchPokerIcon();
   /// Search discount percent
@@ -86,6 +144,8 @@ class _SearchIcons {
   _SearchSearchHideLineIcon get searchHideLine => const _SearchSearchHideLineIcon();
   /// Search scan
   _SearchSearchScanIcon get searchScan => const _SearchSearchScanIcon();
+  /// Search scan 1
+  _SearchSearchScan1Icon get searchScan1 => const _SearchSearchScan1Icon();
   /// Search menu hamburger
   _SearchSearchMenuHamburgerIcon get searchMenuHamburger => const _SearchSearchMenuHamburgerIcon();
   /// Search edit
@@ -104,8 +164,16 @@ class _SearchIcons {
   _SearchSearhHeartrate1Icon get searhHeartrate1 => const _SearchSearhHeartrate1Icon();
   /// Search settings
   _SearchSearchSettingsIcon get searchSettings => const _SearchSearchSettingsIcon();
+  /// Search settings 1
+  _SearchSearchSettings1Icon get searchSettings1 => const _SearchSearchSettings1Icon();
+  /// Search settings 2
+  _SearchSearchSettings21Icon get searchSettings21 => const _SearchSearchSettings21Icon();
   /// Search document text
   _SearchSearchDocumentTextIcon get searchDocumentText => const _SearchSearchDocumentTextIcon();
+  /// Search document text 1
+  _SearchSearchDocumentText1Icon get searchDocumentText1 => const _SearchSearchDocumentText1Icon();
+  /// Search document text 2
+  _SearchSearchDocumentText2Icon get searchDocumentText2 => const _SearchSearchDocumentText2Icon();
   /// Search chat
   _SearchSearchChatIcon get searchChat => const _SearchSearchChatIcon();
   /// zoom out
@@ -118,6 +186,8 @@ class _SearchIcons {
   _SearchSearchHeartrate1Icon get searchHeartrate1 => const _SearchSearchHeartrate1Icon();
   /// Search heartrate-2
   _SearchSearchHeartrate2Icon get searchHeartrate2 => const _SearchSearchHeartrate2Icon();
+  /// Zoom in
+  _SearchZoomIn1Icon get zoomIn1 => const _SearchZoomIn1Icon();
   /// Search heart love
   _SearchSearchHeartLoveIcon get searchHeartLove => const _SearchSearchHeartLoveIcon();
   /// search-3 plus
@@ -132,18 +202,42 @@ class _SearchIcons {
   _SearchSearch3LoveIcon get search3Love => const _SearchSearch3LoveIcon();
   /// Search-3 document text
   _SearchSearch3DocumentTextIcon get search3DocumentText => const _SearchSearch3DocumentTextIcon();
+  /// Zoom out
+  _SearchZoomOut1Icon get zoomOut1 => const _SearchZoomOut1Icon();
   /// search discount
   _SearchSearchDiscountIcon get searchDiscount => const _SearchSearchDiscountIcon();
   /// Search
   _SearchSearchIcon get search => const _SearchSearchIcon();
+  /// Search 1
+  _SearchSearch11Icon get search11 => const _SearchSearch11Icon();
+  /// Search 2
+  _SearchSearch21Icon get search21 => const _SearchSearch21Icon();
+  /// Search 3
+  _SearchSearch31Icon get search31 => const _SearchSearch31Icon();
+  /// Search 4
+  _SearchSearch4Icon get search4 => const _SearchSearch4Icon();
   /// Search love heart
   _SearchSearchLoveHeartIcon get searchLoveHeart => const _SearchSearchLoveHeartIcon();
   /// Search plus
   _SearchSearchPlusIcon get searchPlus => const _SearchSearchPlusIcon();
+  /// Reload search
+  _SearchReloadSearch1Icon get reloadSearch1 => const _SearchReloadSearch1Icon();
+  /// Search microscope
+  _SearchSearchMicroscope1Icon get searchMicroscope1 => const _SearchSearchMicroscope1Icon();
+  /// Search close
+  _SearchSearchClose1Icon get searchClose1 => const _SearchSearchClose1Icon();
+  /// Search not found
+  _SearchSearchNotFound1Icon get searchNotFound1 => const _SearchSearchNotFound1Icon();
+  /// Target search
+  _SearchTargetSearch1Icon get targetSearch1 => const _SearchTargetSearch1Icon();
   /// Search remove
   _SearchSearchRemoveIcon get searchRemove => const _SearchSearchRemoveIcon();
+  /// Search info
+  _SearchSearchInfo1Icon get searchInfo1 => const _SearchSearchInfo1Icon();
   /// Search line
   _SearchSearchLineIcon get searchLine => const _SearchSearchLineIcon();
+  /// Search discount
+  _SearchSearchDiscount1Icon get searchDiscount1 => const _SearchSearchDiscount1Icon();
 }
 
 /// Search dash icon with style variants.
@@ -372,8 +466,6 @@ class _SearchSearchInfoIcon {
   _SearchSearchInfoBulk get bulk => const _SearchSearchInfoBulk();
   /// light style
   _SearchSearchInfoLight get light => const _SearchSearchInfoLight();
-  /// outline style
-  _SearchSearchInfoOutline get outline => const _SearchSearchInfoOutline();
   /// twoTone style
   _SearchSearchInfoTwotone get twoTone => const _SearchSearchInfoTwotone();
   /// broken style
@@ -425,21 +517,6 @@ class _SearchSearchInfoTwotone {
 
 }
 
-/// Search info — outline style variants.
-class _SearchSearchInfoOutline {
-  const _SearchSearchInfoOutline();
-
-  /// Search info — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Search info',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6319 3.75C7.39704 3.75 3.96436 7.18268 3.96436 11.4175C3.96436 15.6525 7.39715 19.086 11.6319 19.086C13.6345 19.086 15.4577 18.3181 16.8234 17.0608C16.8256 17.0586 16.8278 17.0563 16.83 17.0541C16.8459 17.0382 16.8623 17.0232 16.8791 17.009C18.3689 15.61 19.2994 13.6224 19.2994 11.4175C19.2994 7.18268 15.8667 3.75 11.6319 3.75ZM18.4195 17.5803C19.8982 15.9522 20.7994 13.79 20.7994 11.4175C20.7994 6.35426 16.6951 2.25 11.6319 2.25C6.56861 2.25 2.46436 6.35426 2.46436 11.4175C2.46436 16.4807 6.5685 20.586 11.6319 20.586C13.7824 20.586 15.7599 19.8455 17.3234 18.6055L20.2564 21.531C20.5496 21.8235 21.0245 21.8229 21.317 21.5296C21.6095 21.2364 21.6089 20.7615 21.3157 20.469L18.4195 17.5803ZM11.6275 7.20868C12.0417 7.20868 12.3775 7.54446 12.3775 7.95868V8.03749C12.3775 8.4517 12.0417 8.78749 11.6275 8.78749C11.2133 8.78749 10.8775 8.4517 10.8775 8.03749V7.95868C10.8775 7.54446 11.2133 7.20868 11.6275 7.20868ZM11.6322 10.1006C12.0464 10.1006 12.3822 10.4364 12.3822 10.8506V14.8769C12.3822 15.2911 12.0464 15.6269 11.6322 15.6269C11.218 15.6269 10.8822 15.2911 10.8822 14.8769V10.8506C10.8822 10.4364 11.218 10.1006 11.6322 10.1006Z" fill="black"/> </svg> ',
-    category: 'Search',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Search info — bold style variants.
 class _SearchSearchInfoBold {
   const _SearchSearchInfoBold();
@@ -480,8 +557,6 @@ class _SearchReloadSearchIcon {
   _SearchReloadSearchBulk get bulk => const _SearchReloadSearchBulk();
   /// light style
   _SearchReloadSearchLight get light => const _SearchReloadSearchLight();
-  /// outline style
-  _SearchReloadSearchOutline get outline => const _SearchReloadSearchOutline();
   /// twoTone style
   _SearchReloadSearchTwotone get twoTone => const _SearchReloadSearchTwotone();
   /// broken style
@@ -528,21 +603,6 @@ class _SearchReloadSearchTwotone {
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.5 12.0067C21.4961 14.8603 20.1281 17.6683 17.5936 19.4128C13.5033 22.2266 7.9029 21.1982 5.08327 17.0991C2.26947 13.0088 3.30664 7.40359 7.39696 4.58979C11.4279 1.81686 16.9154 2.7723 19.7808 6.70306" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.7655 3.27539L19.966 6.68269L16.5781 6.88215" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2283 8.68652C13.8658 8.68652 15.1929 10.0136 15.1929 11.6511C15.1929 13.2886 13.8658 14.6167 12.2283 14.6167C10.5908 14.6167 9.26367 13.2886 9.26367 11.6511C9.26367 10.0136 10.5908 8.68652 12.2283 8.68652Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2461 13.8232L15.7386 15.3128" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </g> </svg>',
     category: 'Search',
     style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// reload Search — outline style variants.
-class _SearchReloadSearchOutline {
-  const _SearchReloadSearchOutline();
-
-  /// reload Search — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'reload Search',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.32211 5.2075C10.6025 2.9509 14.9353 3.38763 17.7045 6.0351L7.32211 5.2075ZM17.7045 6.0351L16.0339 6.13346C15.6204 6.1578 15.305 6.51274 15.3293 6.92624C15.3536 7.33974 15.7086 7.65521 16.1221 7.63086L19.2071 7.44923C19.2854 7.45699 19.365 7.45253 19.4428 7.43536L19.5099 7.43141C19.9234 7.40706 20.2389 7.05215 20.2146 6.63866L20.0141 3.23136C19.9898 2.81786 19.6349 2.50237 19.2214 2.5267C18.8079 2.55102 18.4924 2.90594 18.5167 3.31944L18.6052 4.82316C15.3285 1.80798 10.2954 1.3415 6.47197 3.97168C2.04049 7.02017 0.916803 13.0923 3.96543 17.524C7.02011 21.9648 13.0875 23.0788 17.5187 20.0305C20.2637 18.1412 21.7459 15.0985 21.7501 12.0075C21.7506 11.5933 21.4153 11.257 21.0011 11.2565C20.5869 11.2559 20.2506 11.5912 20.2501 12.0054C20.2465 14.6217 18.9926 17.195 16.6686 18.7947C12.9191 21.374 7.78586 20.4313 5.20126 16.6739C2.6223 12.9249 3.57295 7.78661 7.32211 5.2075M11.7283 9.43653C10.505 9.43653 9.51371 10.4279 9.51371 11.6511C9.51371 12.8747 10.5054 13.8667 11.7283 13.8667C12.3034 13.8667 12.8273 13.6474 13.2211 13.2877C13.2308 13.2781 13.2408 13.2689 13.2509 13.2599C13.6771 12.8561 13.9429 12.2847 13.9429 11.6511C13.9429 10.4279 12.9516 9.43653 11.7283 9.43653ZM14.7697 13.7848C15.1939 13.1809 15.4429 12.445 15.4429 11.6511C15.4429 9.59944 13.78 7.93653 11.7283 7.93653C9.67662 7.93653 8.01371 9.59944 8.01371 11.6511C8.01371 13.7025 9.6763 15.3667 11.7283 15.3667C12.4434 15.3667 13.1113 15.1646 13.6779 14.8144L14.709 15.8435C15.0022 16.1361 15.4771 16.1357 15.7697 15.8425C16.0623 15.5493 16.0618 15.0744 15.7687 14.7818L14.7697 13.7848Z" fill="black"/> </svg> ',
-    category: 'Search',
-    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -690,33 +750,8 @@ class _SearchSearchCloudLight {
 class _SearchSearchCheckIcon {
   const _SearchSearchCheckIcon();
 
-  /// bold style
-  _SearchSearchCheckBold get bold => const _SearchSearchCheckBold();
-  /// bulk style
-  _SearchSearchCheckBulk get bulk => const _SearchSearchCheckBulk();
-  /// light style
-  _SearchSearchCheckLight get light => const _SearchSearchCheckLight();
-  /// outline style
-  _SearchSearchCheckOutline get outline => const _SearchSearchCheckOutline();
-  /// twoTone style
-  _SearchSearchCheckTwotone get twoTone => const _SearchSearchCheckTwotone();
   /// broken style
   _SearchSearchCheckBroken get broken => const _SearchSearchCheckBroken();
-}
-
-/// Search check — bulk style variants.
-class _SearchSearchCheckBulk {
-  const _SearchSearchCheckBulk();
-
-  /// Search check — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Search check',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M11.1353 2.5C6.48533 2.5 2.71533 6.27 2.71533 10.92C2.71533 15.57 6.48533 19.34 11.1353 19.34C15.7753 19.34 19.5453 15.57 19.5453 10.92C19.5453 6.27 15.7753 2.5 11.1353 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6853 9.54141L10.8853 13.3314C10.7353 13.4814 10.5453 13.5514 10.3553 13.5514C10.1653 13.5514 9.97526 13.4814 9.82526 13.3314L7.92526 11.4314C7.63526 11.1414 7.63526 10.6714 7.92526 10.3714C8.21526 10.0814 8.68526 10.0814 8.98526 10.3714L10.3553 11.7414L13.6253 8.47141C13.9153 8.18141 14.3953 8.18141 14.6853 8.47141C14.9853 8.77141 14.9853 9.24141 14.6853 9.54141Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.991 19.791L19.008 17.812C18.617 17.422 17.983 17.422 17.594 17.814C17.203 18.205 17.204 18.839 17.595 19.229L19.579 21.207C19.774 21.401 20.03 21.499 20.285 21.499C20.541 21.499 20.798 21.401 20.993 21.205C21.383 20.814 21.382 20.181 20.991 19.791Z" fill="black"/> </svg>',
-    category: 'Search',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Search check — broken style variants.
@@ -734,13 +769,67 @@ class _SearchSearchCheckBroken {
 
 }
 
-/// Search check — twoTone style variants.
-class _SearchSearchCheckTwotone {
-  const _SearchSearchCheckTwotone();
+/// Search check 1 icon with style variants.
+class _SearchSearchCheck1Icon {
+  const _SearchSearchCheck1Icon();
 
-  /// Search check — twoTone / regular
+  /// light style
+  _SearchSearchCheck1Light get light => const _SearchSearchCheck1Light();
+}
+
+/// Search check 1 — light style variants.
+class _SearchSearchCheck1Light {
+  const _SearchSearchCheck1Light();
+
+  /// Search check 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Search check',
+    name: 'Search check 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.1275 19.2002C15.6012 19.2002 19.2276 15.5739 19.2276 11.1001C19.2276 6.62632 15.6012 3 11.1275 3C6.65366 3 3.02734 6.62632 3.02734 11.1001C3.02734 15.5739 6.65366 19.2002 11.1275 19.2002Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.75781 11.1041L10.5861 12.9314L14.2396 9.27686" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9723 19.4852C20.9723 20.3219 20.2941 21.0001 19.4573 21.0001C18.6206 21.0001 17.9414 20.3219 17.9414 19.4852C17.9414 18.6484 18.6206 17.9702 19.4573 17.9702C20.2941 17.9702 20.9723 18.6484 20.9723 19.4852Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search check 2 icon with style variants.
+class _SearchSearchCheck2Icon {
+  const _SearchSearchCheck2Icon();
+
+  /// light style
+  _SearchSearchCheck2Light get light => const _SearchSearchCheck2Light();
+}
+
+/// Search check 2 — light style variants.
+class _SearchSearchCheck2Light {
+  const _SearchSearchCheck2Light();
+
+  /// Search check 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search check 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.049 11.4171C20.049 6.76827 16.2807 3 11.6319 3C6.98312 3 3.21484 6.76827 3.21484 11.4171C3.21484 16.0659 6.98312 19.8351 11.6319 19.8351C16.2807 19.8351 20.049 16.0659 20.049 11.4171Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3613 17.584L20.7852 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.01172 11.4324L10.9139 13.3336L14.7152 9.53125" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search check 3 icon with style variants.
+class _SearchSearchCheck3Icon {
+  const _SearchSearchCheck3Icon();
+
+  /// twoTone style
+  _SearchSearchCheck3Twotone get twoTone => const _SearchSearchCheck3Twotone();
+}
+
+/// Search check 3 — twoTone style variants.
+class _SearchSearchCheck3Twotone {
+  const _SearchSearchCheck3Twotone();
+
+  /// Search check 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search check 3',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M9.25781 11.1041L11.0861 12.9314L14.7396 9.27686" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6275 19.2002C16.1012 19.2002 19.7276 15.5739 19.7276 11.1001C19.7276 6.62632 16.1012 3 11.6275 3C7.15366 3 3.52734 6.62632 3.52734 11.1001C3.52734 15.5739 7.15366 19.2002 11.6275 19.2002Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.4723 19.4852C21.4723 20.3219 20.7941 21.0001 19.9573 21.0001C19.1206 21.0001 18.4414 20.3219 18.4414 19.4852C18.4414 18.6484 19.1206 17.9702 19.9573 17.9702C20.7941 17.9702 21.4723 18.6484 21.4723 19.4852Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Search',
     style: IconfyStyle.twoTone,
@@ -749,28 +838,67 @@ class _SearchSearchCheckTwotone {
 
 }
 
-/// Search check — outline style variants.
-class _SearchSearchCheckOutline {
-  const _SearchSearchCheckOutline();
+/// Search check 4 icon with style variants.
+class _SearchSearchCheck4Icon {
+  const _SearchSearchCheck4Icon();
 
-  /// Search check — outline / regular
+  /// twoTone style
+  _SearchSearchCheck4Twotone get twoTone => const _SearchSearchCheck4Twotone();
+}
+
+/// Search check 4 — twoTone style variants.
+class _SearchSearchCheck4Twotone {
+  const _SearchSearchCheck4Twotone();
+
+  /// Search check 4 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Search check',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1275 3.75C7.06788 3.75 3.77734 7.04053 3.77734 11.1001C3.77734 15.1597 7.06788 18.4502 11.1275 18.4502C15.187 18.4502 18.4776 15.1597 18.4776 11.1001C18.4776 7.04053 15.187 3.75 11.1275 3.75ZM2.27734 11.1001C2.27734 6.21211 6.23945 2.25 11.1275 2.25C16.0155 2.25 19.9776 6.21211 19.9776 11.1001C19.9776 15.9881 16.0155 19.9502 11.1275 19.9502C6.23945 19.9502 2.27734 15.9881 2.27734 11.1001ZM14.769 8.7465C15.0619 9.03936 15.062 9.51423 14.7691 9.80716L11.1156 13.4617C10.8228 13.7546 10.3479 13.7547 10.055 13.4619L8.22675 11.6346C7.93378 11.3418 7.93366 10.867 8.22647 10.574C8.51929 10.281 8.99416 10.2809 9.28713 10.5737L10.585 11.8709L13.7083 8.74664C14.0012 8.45371 14.4761 8.45365 14.769 8.7465ZM19.4573 18.7201C19.0341 18.7201 18.6914 19.0631 18.6914 19.4851C18.6914 19.907 19.0341 20.25 19.4573 20.25C19.8799 20.25 20.2223 19.9076 20.2223 19.4851C20.2223 19.0625 19.8799 18.7201 19.4573 18.7201ZM17.1914 19.4851C17.1914 18.2334 18.207 17.2201 19.4573 17.2201C20.7083 17.2201 21.7223 18.2341 21.7223 19.4851C21.7223 20.736 20.7083 21.75 19.4573 21.75C18.207 21.75 17.1914 20.7367 17.1914 19.4851Z" fill="black"/> </svg> ',
+    name: 'Search check 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.549 11.4171C20.549 6.76827 16.7807 3 12.1319 3C7.48312 3 3.71484 6.76827 3.71484 11.4171C3.71484 16.0659 7.48312 19.8351 12.1319 19.8351C16.7807 19.8351 20.549 16.0659 20.549 11.4171Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.8604 17.584L21.2842 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.51172 11.4324L11.4139 13.3336L15.2152 9.53125" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Search',
-    style: IconfyStyle.outline,
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
 }
 
-/// Search check — bold style variants.
-class _SearchSearchCheckBold {
-  const _SearchSearchCheckBold();
+/// Search check 5 icon with style variants.
+class _SearchSearchCheck5Icon {
+  const _SearchSearchCheck5Icon();
 
-  /// Search check — bold / regular
+  /// bold style
+  _SearchSearchCheck5Bold get bold => const _SearchSearchCheck5Bold();
+}
+
+/// Search check 5 — bold style variants.
+class _SearchSearchCheck5Bold {
+  const _SearchSearchCheck5Bold();
+
+  /// Search check 5 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Search check',
+    name: 'Search check 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8948 9.945L11.2448 13.585C11.0948 13.735 10.9048 13.805 10.7148 13.805C10.5148 13.805 10.3248 13.735 10.1848 13.585L8.35478 11.755C8.05479 11.465 8.05479 10.995 8.35478 10.695C8.64478 10.405 9.12478 10.405 9.41478 10.695L10.7148 11.995L13.8348 8.875C14.1248 8.585 14.6048 8.585 14.8948 8.875C15.1848 9.175 15.1848 9.645 14.8948 9.945ZM11.2548 2.625C6.50479 2.625 2.65479 6.485 2.65479 11.225C2.65479 15.975 6.50479 19.825 11.2548 19.825C15.9948 19.825 19.8548 15.975 19.8548 11.225C19.8548 6.485 15.9948 2.625 11.2548 2.625Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.5848 17.8452C18.6048 17.8452 17.8148 18.6452 17.8148 19.6152C17.8148 20.5852 18.6048 21.3752 19.5848 21.3752C20.5548 21.3752 21.3448 20.5852 21.3448 19.6152C21.3448 18.6452 20.5548 17.8452 19.5848 17.8452Z" fill="black"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search check 6 icon with style variants.
+class _SearchSearchCheck6Icon {
+  const _SearchSearchCheck6Icon();
+
+  /// bold style
+  _SearchSearchCheck6Bold get bold => const _SearchSearchCheck6Bold();
+}
+
+/// Search check 6 — bold style variants.
+class _SearchSearchCheck6Bold {
+  const _SearchSearchCheck6Bold();
+
+  /// Search check 6 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search check 6',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6853 9.54098L10.8853 13.331C10.7353 13.481 10.5453 13.551 10.3553 13.551C10.1653 13.551 9.97533 13.481 9.82533 13.331L7.92533 11.431C7.63533 11.141 7.63533 10.671 7.92533 10.371C8.21533 10.081 8.68533 10.081 8.98533 10.371L10.3553 11.741L13.6253 8.47098C13.9153 8.18098 14.3953 8.18098 14.6853 8.47098C14.9853 8.77098 14.9853 9.24098 14.6853 9.54098ZM11.1353 2.50098C6.48533 2.50098 2.71533 6.27098 2.71533 10.921C2.71533 15.571 6.48533 19.341 11.1353 19.341C15.7753 19.341 19.5453 15.571 19.5453 10.921C19.5453 6.27098 15.7753 2.50098 11.1353 2.50098Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.991 19.7905L19.008 17.8115C18.617 17.4215 17.983 17.4215 17.594 17.8135C17.203 18.2045 17.204 18.8385 17.595 19.2285L19.579 21.2065C19.774 21.4005 20.03 21.4985 20.285 21.4985C20.541 21.4985 20.798 21.4005 20.993 21.2045C21.383 20.8135 21.382 20.1805 20.991 19.7905Z" fill="black"/> </svg>',
     category: 'Search',
     style: IconfyStyle.bold,
@@ -779,16 +907,93 @@ class _SearchSearchCheckBold {
 
 }
 
-/// Search check — light style variants.
-class _SearchSearchCheckLight {
-  const _SearchSearchCheckLight();
+/// Search check 7 icon with style variants.
+class _SearchSearchCheck7Icon {
+  const _SearchSearchCheck7Icon();
 
-  /// Search check — light / regular
+  /// bulk style
+  _SearchSearchCheck7Bulk get bulk => const _SearchSearchCheck7Bulk();
+}
+
+/// Search check 7 — bulk style variants.
+class _SearchSearchCheck7Bulk {
+  const _SearchSearchCheck7Bulk();
+
+  /// Search check 7 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Search check',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.049 11.4171C20.049 6.76827 16.2807 3 11.6319 3C6.98312 3 3.21484 6.76827 3.21484 11.4171C3.21484 16.0659 6.98312 19.8351 11.6319 19.8351C16.2807 19.8351 20.049 16.0659 20.049 11.4171Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3613 17.584L20.7852 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.01172 11.4324L10.9139 13.3336L14.7152 9.53125" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    name: 'Search check 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M11.2521 2.62305C6.5121 2.62305 2.6521 6.48305 2.6521 11.223C2.6521 15.973 6.5121 19.823 11.2521 19.823C16.0021 19.823 19.8521 15.973 19.8521 11.223C19.8521 6.48305 16.0021 2.62305 11.2521 2.62305Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8949 9.94473L11.2449 13.5847C11.0949 13.7347 10.9049 13.8047 10.7149 13.8047C10.5149 13.8047 10.3249 13.7347 10.1849 13.5847L8.35488 11.7547C8.05488 11.4647 8.05488 10.9947 8.35488 10.6947C8.64488 10.4047 9.12488 10.4047 9.41488 10.6947L10.7149 11.9947L13.8349 8.87473C14.1249 8.58473 14.6049 8.58473 14.8949 8.87473C15.1849 9.17473 15.1849 9.64473 14.8949 9.94473Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.5849 17.8449C18.6049 17.8449 17.8149 18.6449 17.8149 19.6149C17.8149 20.5849 18.6049 21.3749 19.5849 21.3749C20.5549 21.3749 21.3449 20.5849 21.3449 19.6149C21.3449 18.6449 20.5549 17.8449 19.5849 17.8449Z" fill="black"/> </svg>',
     category: 'Search',
-    style: IconfyStyle.light,
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search check 8 icon with style variants.
+class _SearchSearchCheck8Icon {
+  const _SearchSearchCheck8Icon();
+
+  /// bulk style
+  _SearchSearchCheck8Bulk get bulk => const _SearchSearchCheck8Bulk();
+}
+
+/// Search check 8 — bulk style variants.
+class _SearchSearchCheck8Bulk {
+  const _SearchSearchCheck8Bulk();
+
+  /// Search check 8 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search check 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M11.1353 2.5C6.48533 2.5 2.71533 6.27 2.71533 10.92C2.71533 15.57 6.48533 19.34 11.1353 19.34C15.7753 19.34 19.5453 15.57 19.5453 10.92C19.5453 6.27 15.7753 2.5 11.1353 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6853 9.54141L10.8853 13.3314C10.7353 13.4814 10.5453 13.5514 10.3553 13.5514C10.1653 13.5514 9.97526 13.4814 9.82526 13.3314L7.92526 11.4314C7.63526 11.1414 7.63526 10.6714 7.92526 10.3714C8.21526 10.0814 8.68526 10.0814 8.98526 10.3714L10.3553 11.7414L13.6253 8.47141C13.9153 8.18141 14.3953 8.18141 14.6853 8.47141C14.9853 8.77141 14.9853 9.24141 14.6853 9.54141Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.991 19.791L19.008 17.812C18.617 17.422 17.983 17.422 17.594 17.814C17.203 18.205 17.204 18.839 17.595 19.229L19.579 21.207C19.774 21.401 20.03 21.499 20.285 21.499C20.541 21.499 20.798 21.401 20.993 21.205C21.383 20.814 21.382 20.181 20.991 19.791Z" fill="black"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search check 9 icon with style variants.
+class _SearchSearchCheck9Icon {
+  const _SearchSearchCheck9Icon();
+
+  /// outline style
+  _SearchSearchCheck9Outline get outline => const _SearchSearchCheck9Outline();
+}
+
+/// Search check 9 — outline style variants.
+class _SearchSearchCheck9Outline {
+  const _SearchSearchCheck9Outline();
+
+  /// Search check 9 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search check 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1275 3.75C7.06788 3.75 3.77734 7.04053 3.77734 11.1001C3.77734 15.1597 7.06788 18.4502 11.1275 18.4502C15.187 18.4502 18.4776 15.1597 18.4776 11.1001C18.4776 7.04053 15.187 3.75 11.1275 3.75ZM2.27734 11.1001C2.27734 6.21211 6.23945 2.25 11.1275 2.25C16.0155 2.25 19.9776 6.21211 19.9776 11.1001C19.9776 15.9881 16.0155 19.9502 11.1275 19.9502C6.23945 19.9502 2.27734 15.9881 2.27734 11.1001ZM14.769 8.7465C15.0619 9.03936 15.062 9.51423 14.7691 9.80716L11.1156 13.4617C10.8228 13.7546 10.3479 13.7547 10.055 13.4619L8.22675 11.6346C7.93378 11.3418 7.93366 10.867 8.22647 10.574C8.51929 10.281 8.99416 10.2809 9.28713 10.5737L10.585 11.8709L13.7083 8.74664C14.0012 8.45371 14.4761 8.45365 14.769 8.7465ZM19.4573 18.7201C19.0341 18.7201 18.6914 19.0631 18.6914 19.4851C18.6914 19.907 19.0341 20.25 19.4573 20.25C19.8799 20.25 20.2223 19.9076 20.2223 19.4851C20.2223 19.0625 19.8799 18.7201 19.4573 18.7201ZM17.1914 19.4851C17.1914 18.2334 18.207 17.2201 19.4573 17.2201C20.7083 17.2201 21.7223 18.2341 21.7223 19.4851C21.7223 20.736 20.7083 21.75 19.4573 21.75C18.207 21.75 17.1914 20.7367 17.1914 19.4851Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search check 10 icon with style variants.
+class _SearchSearchCheck10Icon {
+  const _SearchSearchCheck10Icon();
+
+  /// outline style
+  _SearchSearchCheck10Outline get outline => const _SearchSearchCheck10Outline();
+}
+
+/// Search check 10 — outline style variants.
+class _SearchSearchCheck10Outline {
+  const _SearchSearchCheck10Outline();
+
+  /// Search check 10 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search check 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6324 3.75C7.39782 3.75 3.96533 7.18249 3.96533 11.4171C3.96533 15.6518 7.39793 19.0851 11.6324 19.0851C13.6405 19.0851 15.4682 18.313 16.835 17.0495C16.8456 17.0392 16.8563 17.0292 16.8673 17.0196C18.364 15.6201 19.2995 13.6278 19.2995 11.4171C19.2995 7.18249 15.867 3.75 11.6324 3.75ZM18.4192 17.5801C19.8982 15.952 20.7995 13.7897 20.7995 11.4171C20.7995 6.35406 16.6954 2.25 11.6324 2.25C6.56939 2.25 2.46533 6.35406 2.46533 11.4171C2.46533 16.48 6.56928 20.5851 11.6324 20.5851C13.7825 20.5851 15.7597 19.8448 17.323 18.6052L20.2554 21.5309C20.5486 21.8235 21.0235 21.823 21.316 21.5297C21.6086 21.2365 21.608 20.7616 21.3148 20.4691L18.4192 17.5801ZM15.2469 9.00097C15.5399 9.29383 15.5399 9.7687 15.2471 10.0616L11.4457 13.864C11.1529 14.1569 10.6781 14.157 10.3851 13.8642L8.48299 11.963C8.19002 11.6702 8.1899 11.1953 8.48272 10.9023C8.77553 10.6094 9.25041 10.6092 9.54338 10.9021L10.9151 12.2731L14.1863 9.00111C14.4791 8.70818 14.954 8.70812 15.2469 9.00097Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -1657,12 +1862,6 @@ class _SearchZoomInIcon {
   _SearchZoomInBulk get bulk => const _SearchZoomInBulk();
   /// light style
   _SearchZoomInLight get light => const _SearchZoomInLight();
-  /// outline style
-  _SearchZoomInOutline get outline => const _SearchZoomInOutline();
-  /// twoTone style
-  _SearchZoomInTwotone get twoTone => const _SearchZoomInTwotone();
-  /// broken style
-  _SearchZoomInBroken get broken => const _SearchZoomInBroken();
 }
 
 /// zoom in — bulk style variants.
@@ -1675,51 +1874,6 @@ class _SearchZoomInBulk {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M11.1353 2.5C6.48533 2.5 2.71533 6.27 2.71533 10.92C2.71533 15.57 6.48533 19.34 11.1353 19.34C15.7753 19.34 19.5453 15.57 19.5453 10.92C19.5453 6.27 15.7753 2.5 11.1353 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3529 11.6714H11.8929V13.1314C11.8929 13.5514 11.5529 13.8814 11.1429 13.8814C10.7229 13.8814 10.3929 13.5514 10.3929 13.1314V11.6714H8.92285C8.51285 11.6714 8.17285 11.3414 8.17285 10.9214C8.17285 10.5114 8.51285 10.1714 8.92285 10.1714H10.3929V8.71143C10.3929 8.30143 10.7229 7.96143 11.1429 7.96143C11.5529 7.96143 11.8929 8.30143 11.8929 8.71143V10.1714H13.3529C13.7629 10.1714 14.1029 10.5114 14.1029 10.9214C14.1029 11.3414 13.7629 11.6714 13.3529 11.6714Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9933 19.7907L19.0103 17.8117C18.6193 17.4217 17.9853 17.4217 17.5963 17.8137C17.2053 18.2047 17.2063 18.8387 17.5973 19.2287L19.5813 21.2067C19.7763 21.4007 20.0323 21.4987 20.2873 21.4987C20.5433 21.4987 20.8003 21.4007 20.9953 21.2047C21.3853 20.8137 21.3843 20.1807 20.9933 19.7907Z" fill="black"/> </svg>',
     category: 'Search',
     style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// zoom in — broken style variants.
-class _SearchZoomInBroken {
-  const _SearchZoomInBroken();
-
-  /// zoom in — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'zoom in',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.3613 17.584L20.7852 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.40039 11.4175H13.8235" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6123 9.20605L11.6123 13.6291" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.049 11.4171C20.049 16.0659 16.2807 19.8351 11.6319 19.8351C6.98312 19.8351 3.21484 16.0659 3.21484 11.4171C3.21484 6.76827 6.98312 3 11.6319 3C14.8948 3 17.7239 4.85639 19.1208 7.57067" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Search',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// zoom in — twoTone style variants.
-class _SearchZoomInTwotone {
-  const _SearchZoomInTwotone();
-
-  /// zoom in — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'zoom in',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.549 11.4171C20.549 6.76827 16.7807 3 12.1319 3C7.48312 3 3.71484 6.76827 3.71484 11.4171C3.71484 16.0659 7.48312 19.8351 12.1319 19.8351C16.7807 19.8351 20.549 16.0659 20.549 11.4171Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.8604 17.584L21.2842 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.91992 11.4175H14.343M12.1309 9.20605L12.1309 13.6291" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Search',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// zoom in — outline style variants.
-class _SearchZoomInOutline {
-  const _SearchZoomInOutline();
-
-  /// zoom in — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'zoom in',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6324 3.75C7.39782 3.75 3.96533 7.18249 3.96533 11.4171C3.96533 15.6518 7.39793 19.0851 11.6324 19.0851C13.6405 19.0851 15.4682 18.313 16.835 17.0495C16.8456 17.0392 16.8563 17.0292 16.8673 17.0196C18.364 15.6201 19.2995 13.6278 19.2995 11.4171C19.2995 7.18249 15.867 3.75 11.6324 3.75ZM18.4192 17.5801C19.8982 15.952 20.7995 13.7897 20.7995 11.4171C20.7995 6.35406 16.6954 2.25 11.6324 2.25C6.56939 2.25 2.46533 6.35406 2.46533 11.4171C2.46533 16.48 6.56928 20.5851 11.6324 20.5851C13.7825 20.5851 15.7597 19.8448 17.323 18.6052L20.2554 21.5309C20.5486 21.8235 21.0235 21.823 21.316 21.5297C21.6086 21.2365 21.608 20.7616 21.3148 20.4691L18.4192 17.5801ZM11.6318 8.43076C12.046 8.43076 12.3818 8.76655 12.3818 9.18076V10.6674H13.8688C14.283 10.6674 14.6188 11.0032 14.6188 11.4174C14.6188 11.8316 14.283 12.1674 13.8688 12.1674H12.3818V13.6544C12.3818 14.0686 12.046 14.4044 11.6318 14.4044C11.2176 14.4044 10.8818 14.0686 10.8818 13.6544V12.1674H9.39514C8.98093 12.1674 8.64514 11.8316 8.64514 11.4174C8.64514 11.0032 8.98093 10.6674 9.39514 10.6674H10.8818V9.18076C10.8818 8.76655 11.2176 8.43076 11.6318 8.43076Z" fill="black"/> </svg> ',
-    category: 'Search',
-    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -2339,59 +2493,8 @@ class _SearchSearchBarLight {
 class _SearchSearchLoveIcon {
   const _SearchSearchLoveIcon();
 
-  /// bold style
-  _SearchSearchLoveBold get bold => const _SearchSearchLoveBold();
-  /// bulk style
-  _SearchSearchLoveBulk get bulk => const _SearchSearchLoveBulk();
   /// light style
   _SearchSearchLoveLight get light => const _SearchSearchLoveLight();
-  /// outline style
-  _SearchSearchLoveOutline get outline => const _SearchSearchLoveOutline();
-}
-
-/// Search love — bulk style variants.
-class _SearchSearchLoveBulk {
-  const _SearchSearchLoveBulk();
-
-  /// Search love — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Search love',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M11.1353 2.5C6.48533 2.5 2.71533 6.27 2.71533 10.92C2.71533 15.57 6.48533 19.34 11.1353 19.34C15.7753 19.34 19.5453 15.57 19.5453 10.92C19.5453 6.27 15.7753 2.5 11.1353 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9899 19.7934L19.0069 17.8144C18.6159 17.4244 17.9819 17.4244 17.5929 17.8164C17.2019 18.2074 17.2029 18.8414 17.5939 19.2314L19.5779 21.2094C19.7729 21.4034 20.0289 21.5014 20.2839 21.5014C20.5399 21.5014 20.7969 21.4034 20.9919 21.2074C21.3819 20.8164 21.3809 20.1834 20.9899 19.7934Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4963 14.5089C11.7563 14.3689 14.0663 13.0589 14.6463 11.1989C15.1263 9.68895 14.4163 8.15895 13.0263 7.69895C12.4063 7.50895 11.7263 7.54895 11.1363 7.82895C10.5463 7.54895 9.87631 7.49895 9.23631 7.69895C8.13631 8.04895 7.46631 9.08895 7.46631 10.2489C7.46631 10.5589 7.51631 10.8789 7.61631 11.1989C8.21574 13.0464 10.4374 14.3241 10.761 14.5101L10.7763 14.5189C10.8863 14.5789 11.0063 14.6089 11.1363 14.6089C11.2563 14.6089 11.3863 14.5789 11.4963 14.5089ZM11.1363 12.9789C11.8263 12.5289 12.9363 11.6489 13.2163 10.7389C13.4163 10.1289 13.2563 9.34894 12.5663 9.12894C12.2363 9.02894 11.8663 9.08894 11.5763 9.29894C11.3063 9.49894 10.9463 9.48894 10.6763 9.29894C10.4063 9.08894 10.0363 9.01894 9.69628 9.12894C9.01628 9.34894 8.84628 10.1189 9.04628 10.7389C9.34628 11.6589 10.4463 12.5289 11.1363 12.9789Z" fill="black"/> </svg>',
-    category: 'Search',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Search love — outline style variants.
-class _SearchSearchLoveOutline {
-  const _SearchSearchLoveOutline();
-
-  /// Search love — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Search love',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1279 3.75C7.06837 3.75 3.77783 7.04053 3.77783 11.1001C3.77783 15.1597 7.06837 18.4502 11.1279 18.4502C15.1875 18.4502 18.4781 15.1597 18.4781 11.1001C18.4781 10.6859 18.8138 10.3501 19.2281 10.3501C19.6423 10.3501 19.9781 10.6859 19.9781 11.1001C19.9781 15.9881 16.016 19.9502 11.1279 19.9502C6.23994 19.9502 2.27783 15.9881 2.27783 11.1001C2.27783 6.21211 6.23994 2.25 11.1279 2.25C11.5422 2.25 11.8779 2.58579 11.8779 3C11.8779 3.41421 11.5422 3.75 11.1279 3.75ZM16.2914 4.14096C16.0283 3.9439 15.6867 3.88645 15.3746 3.98618C14.8479 4.15617 14.5445 4.77228 14.7726 5.48618C14.9576 6.06036 15.4841 6.63573 16.0631 7.10616C16.3132 7.30937 16.5528 7.47678 16.7401 7.59905C16.9295 7.47508 17.1722 7.30518 17.4251 7.09948C18.0089 6.62465 18.5317 6.05093 18.708 5.49032L18.7091 5.4868C18.9368 4.77486 18.6341 4.15793 18.106 3.98672C17.7937 3.88893 17.4522 3.94668 17.1881 4.1428C16.9217 4.34061 16.557 4.33987 16.2914 4.14096ZM16.382 9.13609L16.3807 9.1354L16.3783 9.13409L16.3712 9.13015L16.3478 9.11707C16.3283 9.10607 16.3011 9.09049 16.2671 9.07054C16.1991 9.03067 16.1037 8.97313 15.9887 8.89945C15.7595 8.75264 15.4478 8.53892 15.1172 8.27033C14.4821 7.75434 13.6675 6.94882 13.3445 5.94504L13.3441 5.94375C12.9421 4.68689 13.376 3.05395 14.9154 2.55821L14.9165 2.55783C15.524 2.3633 16.1756 2.40894 16.7424 2.67236C17.3069 2.41206 17.9545 2.36606 18.5593 2.55684L18.5634 2.55814C20.102 3.05312 20.5399 4.6838 20.1384 5.94199C19.8239 6.94027 19.0061 7.74706 18.3716 8.26315C18.0402 8.5327 17.7271 8.748 17.4969 8.89609C17.3813 8.97042 17.2855 9.02854 17.2172 9.06882C17.1831 9.08897 17.1557 9.10471 17.1362 9.11582L17.1127 9.12901L17.1056 9.13296L17.1033 9.13427L17.1024 9.13476C16.8866 9.25334 16.9256 8.13893 16.382 9.13609ZM16.382 9.13609C16.6063 9.25825 16.8784 9.25762 17.1024 9.13476C16.8866 9.25334 16.9256 8.13893 16.382 9.13609ZM19.4568 18.7201C19.0343 18.7201 18.6919 19.0625 18.6919 19.4851C18.6919 19.9076 19.0343 20.25 19.4568 20.25C19.8794 20.25 20.2218 19.9076 20.2218 19.4851C20.2218 19.0625 19.8794 18.7201 19.4568 18.7201ZM17.1919 19.4851C17.1919 18.2341 18.2058 17.2201 19.4568 17.2201C20.7078 17.2201 21.7218 18.2341 21.7218 19.4851C21.7218 20.736 20.7078 21.75 19.4568 21.75C18.2058 21.75 17.1919 20.736 17.1919 19.4851Z" fill="black"/> </svg> ',
-    category: 'Search',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Search love — bold style variants.
-class _SearchSearchLoveBold {
-  const _SearchSearchLoveBold();
-
-  /// Search love — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Search love',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.2163 10.7385C12.9363 11.6485 11.8263 12.5285 11.1363 12.9785C10.4463 12.5285 9.34628 11.6585 9.04628 10.7385C8.84628 10.1185 9.01628 9.34852 9.69628 9.12852C10.0363 9.01852 10.4063 9.08852 10.6763 9.29852C10.9463 9.48852 11.3063 9.49852 11.5763 9.29852C11.8663 9.08852 12.2363 9.02852 12.5663 9.12852C13.2563 9.34852 13.4163 10.1285 13.2163 10.7385Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6463 11.1985C14.0663 13.0585 11.7563 14.3685 11.4963 14.5085C11.3863 14.5785 11.2563 14.6085 11.1363 14.6085C11.0063 14.6085 10.8863 14.5785 10.7763 14.5185C10.5163 14.3685 8.22631 13.0785 7.61631 11.1985C7.51631 10.8785 7.46631 10.5585 7.46631 10.2485C7.46631 9.08854 8.13631 8.04853 9.23631 7.69853C9.87631 7.49854 10.5463 7.54853 11.1363 7.82854C11.7263 7.54853 12.4063 7.50853 13.0263 7.69853C14.4163 8.15854 15.1263 9.68853 14.6463 11.1985ZM11.1263 2.49854C6.47631 2.49854 2.71631 6.26854 2.71631 10.9185C2.71631 15.5685 6.47631 19.3385 11.1263 19.3385C15.7763 19.3385 19.5463 15.5685 19.5463 10.9185C19.5463 6.26854 15.7763 2.49854 11.1263 2.49854Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9899 19.793L19.0069 17.814C18.6159 17.424 17.9819 17.424 17.5929 17.816C17.2019 18.207 17.2029 18.841 17.5939 19.231L19.5779 21.209C19.7729 21.403 20.0289 21.501 20.2839 21.501C20.5399 21.501 20.7969 21.403 20.9919 21.207C21.3819 20.816 21.3809 20.183 20.9899 19.793Z" fill="black"/> </svg>',
-    category: 'Search',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Search love — light style variants.
@@ -2401,9 +2504,170 @@ class _SearchSearchLoveLight {
   /// Search love — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Search love',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.2276 11.1001C19.2276 15.5739 15.6012 19.2002 11.1275 19.2002C6.65366 19.2002 3.02734 15.5739 3.02734 11.1001C3.02734 6.62632 6.65366 3 11.1275 3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4563 21.0001C20.2931 21.0001 20.9713 20.3219 20.9713 19.4852C20.9713 18.6484 20.2931 17.9702 19.4563 17.9702C18.6196 17.9702 17.9414 18.6484 17.9414 19.4852C17.9414 20.3219 18.6196 21.0001 19.4563 21.0001Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.1453 3.27196C14.1119 3.60472 13.7432 4.72949 14.0584 5.71513C14.5663 7.29331 16.741 8.47744 16.741 8.47744C16.741 8.47744 18.9331 7.27482 19.4235 5.71513C19.7387 4.72949 19.368 3.60472 18.3337 3.27196C17.7908 3.10071 17.1983 3.20093 16.741 3.5405C16.2836 3.19801 15.6892 3.09779 15.1453 3.27196Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search love 1 icon with style variants.
+class _SearchSearchLove1Icon {
+  const _SearchSearchLove1Icon();
+
+  /// light style
+  _SearchSearchLove1Light get light => const _SearchSearchLove1Light();
+}
+
+/// Search love 1 — light style variants.
+class _SearchSearchLove1Light {
+  const _SearchSearchLove1Light();
+
+  /// Search love 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search love 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.0086 12.4848C19.4686 16.6297 15.924 19.8318 11.6321 19.8318C6.96562 19.8318 3.18359 16.0488 3.18359 11.3833C3.18359 7.07393 6.41102 3.51763 10.5813 3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3789 17.5713L20.8165 21.0001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0222 5.71229C14.6933 4.68384 15.0776 3.50846 16.1567 3.1611C16.7249 2.97915 17.3457 3.08326 17.8234 3.44132C18.3012 3.08715 18.92 2.98207 19.4872 3.1611C20.5663 3.50846 20.9535 4.68384 20.6247 5.71229C20.1119 7.34109 17.8234 8.59722 17.8234 8.59722C17.8234 8.59722 15.5524 7.36055 15.0222 5.71229Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Search',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search love 2 icon with style variants.
+class _SearchSearchLove2Icon {
+  const _SearchSearchLove2Icon();
+
+  /// bold style
+  _SearchSearchLove2Bold get bold => const _SearchSearchLove2Bold();
+}
+
+/// Search love 2 — bold style variants.
+class _SearchSearchLove2Bold {
+  const _SearchSearchLove2Bold();
+
+  /// Search love 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search love 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.7243 9.76137C19.0243 10.3314 18.3943 10.7014 18.1743 10.8214C17.7943 11.0314 17.3843 11.1314 16.9643 11.1314C16.5543 11.1314 16.1443 11.0314 15.7643 10.8314C15.2543 10.5514 12.6743 9.04137 11.9043 6.63137C11.5643 5.58137 11.6043 4.45137 12.0043 3.46137C12.1043 3.20137 12.2343 2.96137 12.3943 2.73137C12.0243 2.68137 11.6443 2.65137 11.2543 2.65137C6.5043 2.65137 2.6543 6.51137 2.6543 11.2514C2.6543 16.0014 6.5043 19.8514 11.2543 19.8514C15.9943 19.8514 19.8543 16.0014 19.8543 11.2514C19.8543 10.7414 19.8143 10.2414 19.7243 9.76137Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.5798 17.8757C18.6058 17.8757 17.8138 18.6697 17.8138 19.6457C17.8138 20.6157 18.6058 21.4057 19.5798 21.4057C20.5538 21.4057 21.3458 20.6157 21.3458 19.6457C21.3458 18.6697 20.5538 17.8757 19.5798 17.8757Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0154 4.68534C15.1264 4.41234 15.3214 4.22934 15.5944 4.14034C15.9104 4.04534 16.2544 4.10334 16.5184 4.29734C16.7844 4.49534 17.1474 4.49534 17.4124 4.29734C17.6764 4.10234 18.0224 4.04134 18.3294 4.14034C18.5754 4.21834 18.7594 4.37334 18.8754 4.60134C19.0264 4.89334 19.0474 5.28134 18.9314 5.64134C18.6624 6.49534 17.6224 7.32534 16.9634 7.75834C16.3094 7.33134 15.2774 6.50934 14.9954 5.63634C14.8924 5.31434 14.8994 4.96734 15.0154 4.68534ZM16.6054 9.29334C16.7174 9.35534 16.8414 9.38534 16.9654 9.38534C17.0904 9.38534 17.2154 9.35434 17.3284 9.29134C17.5784 9.15334 19.7984 7.88534 20.3614 6.09634C20.5984 5.35934 20.5434 4.56434 20.2094 3.91434C19.9124 3.33634 19.4074 2.90934 18.7824 2.70934C18.1794 2.52134 17.5314 2.56734 16.9654 2.82934C16.3994 2.56834 15.7494 2.52034 15.1454 2.70934L15.1404 2.71034C14.4434 2.93434 13.9054 3.43434 13.6254 4.11934C13.3754 4.73134 13.3554 5.43334 13.5684 6.09534C14.1524 7.90834 16.3564 9.15734 16.6054 9.29334Z" fill="black"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search love 3 icon with style variants.
+class _SearchSearchLove3Icon {
+  const _SearchSearchLove3Icon();
+
+  /// bold style
+  _SearchSearchLove3Bold get bold => const _SearchSearchLove3Bold();
+}
+
+/// Search love 3 — bold style variants.
+class _SearchSearchLove3Bold {
+  const _SearchSearchLove3Bold();
+
+  /// Search love 3 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search love 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.2163 10.7385C12.9363 11.6485 11.8263 12.5285 11.1363 12.9785C10.4463 12.5285 9.34628 11.6585 9.04628 10.7385C8.84628 10.1185 9.01628 9.34852 9.69628 9.12852C10.0363 9.01852 10.4063 9.08852 10.6763 9.29852C10.9463 9.48852 11.3063 9.49852 11.5763 9.29852C11.8663 9.08852 12.2363 9.02852 12.5663 9.12852C13.2563 9.34852 13.4163 10.1285 13.2163 10.7385Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6463 11.1985C14.0663 13.0585 11.7563 14.3685 11.4963 14.5085C11.3863 14.5785 11.2563 14.6085 11.1363 14.6085C11.0063 14.6085 10.8863 14.5785 10.7763 14.5185C10.5163 14.3685 8.22631 13.0785 7.61631 11.1985C7.51631 10.8785 7.46631 10.5585 7.46631 10.2485C7.46631 9.08854 8.13631 8.04853 9.23631 7.69853C9.87631 7.49854 10.5463 7.54853 11.1363 7.82854C11.7263 7.54853 12.4063 7.50853 13.0263 7.69853C14.4163 8.15854 15.1263 9.68853 14.6463 11.1985ZM11.1263 2.49854C6.47631 2.49854 2.71631 6.26854 2.71631 10.9185C2.71631 15.5685 6.47631 19.3385 11.1263 19.3385C15.7763 19.3385 19.5463 15.5685 19.5463 10.9185C19.5463 6.26854 15.7763 2.49854 11.1263 2.49854Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9899 19.793L19.0069 17.814C18.6159 17.424 17.9819 17.424 17.5929 17.816C17.2019 18.207 17.2029 18.841 17.5939 19.231L19.5779 21.209C19.7729 21.403 20.0289 21.501 20.2839 21.501C20.5399 21.501 20.7969 21.403 20.9919 21.207C21.3819 20.816 21.3809 20.183 20.9899 19.793Z" fill="black"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search love 4 icon with style variants.
+class _SearchSearchLove4Icon {
+  const _SearchSearchLove4Icon();
+
+  /// bulk style
+  _SearchSearchLove4Bulk get bulk => const _SearchSearchLove4Bulk();
+}
+
+/// Search love 4 — bulk style variants.
+class _SearchSearchLove4Bulk {
+  const _SearchSearchLove4Bulk();
+
+  /// Search love 4 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search love 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.7243 9.76137C19.0243 10.3314 18.3943 10.7014 18.1743 10.8214C17.7943 11.0314 17.3843 11.1314 16.9643 11.1314C16.5543 11.1314 16.1443 11.0314 15.7643 10.8314C15.2543 10.5514 12.6743 9.04137 11.9043 6.63137C11.5643 5.58137 11.6043 4.45137 12.0043 3.46137C12.1043 3.20137 12.2343 2.96137 12.3943 2.73137C12.0243 2.68137 11.6443 2.65137 11.2543 2.65137C6.5043 2.65137 2.6543 6.51137 2.6543 11.2514C2.6543 16.0014 6.5043 19.8514 11.2543 19.8514C15.9943 19.8514 19.8543 16.0014 19.8543 11.2514C19.8543 10.7414 19.8143 10.2414 19.7243 9.76137Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.5798 17.8748C18.6058 17.8748 17.8138 18.6688 17.8138 19.6448C17.8138 20.6148 18.6058 21.4048 19.5798 21.4048C20.5538 21.4048 21.3458 20.6148 21.3458 19.6448C21.3458 18.6688 20.5538 17.8748 19.5798 17.8748Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0154 4.68436C15.1264 4.41136 15.3214 4.22836 15.5944 4.13936C15.9104 4.04436 16.2544 4.10236 16.5184 4.29636C16.7844 4.49436 17.1474 4.49436 17.4124 4.29636C17.6764 4.10136 18.0224 4.04036 18.3294 4.13936C18.5754 4.21736 18.7594 4.37236 18.8754 4.60036C19.0264 4.89236 19.0474 5.28036 18.9314 5.64036C18.6624 6.49436 17.6224 7.32436 16.9634 7.75736C16.3094 7.33036 15.2774 6.50836 14.9954 5.63536C14.8924 5.31336 14.8994 4.96636 15.0154 4.68436ZM16.6054 9.29236C16.7174 9.35436 16.8414 9.38436 16.9654 9.38436C17.0904 9.38436 17.2154 9.35336 17.3284 9.29036C17.5784 9.15236 19.7984 7.88436 20.3614 6.09536C20.5984 5.35836 20.5434 4.56336 20.2094 3.91336C19.9124 3.33536 19.4074 2.90836 18.7824 2.70836C18.1794 2.52036 17.5314 2.56636 16.9654 2.82836C16.3994 2.56736 15.7494 2.51936 15.1454 2.70836L15.1404 2.70936C14.4434 2.93336 13.9054 3.43336 13.6254 4.11836C13.3754 4.73036 13.3554 5.43236 13.5684 6.09436C14.1524 7.90736 16.3564 9.15636 16.6054 9.29236Z" fill="black"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search love 5 icon with style variants.
+class _SearchSearchLove5Icon {
+  const _SearchSearchLove5Icon();
+
+  /// bulk style
+  _SearchSearchLove5Bulk get bulk => const _SearchSearchLove5Bulk();
+}
+
+/// Search love 5 — bulk style variants.
+class _SearchSearchLove5Bulk {
+  const _SearchSearchLove5Bulk();
+
+  /// Search love 5 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search love 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M11.1353 2.5C6.48533 2.5 2.71533 6.27 2.71533 10.92C2.71533 15.57 6.48533 19.34 11.1353 19.34C15.7753 19.34 19.5453 15.57 19.5453 10.92C19.5453 6.27 15.7753 2.5 11.1353 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9899 19.7934L19.0069 17.8144C18.6159 17.4244 17.9819 17.4244 17.5929 17.8164C17.2019 18.2074 17.2029 18.8414 17.5939 19.2314L19.5779 21.2094C19.7729 21.4034 20.0289 21.5014 20.2839 21.5014C20.5399 21.5014 20.7969 21.4034 20.9919 21.2074C21.3819 20.8164 21.3809 20.1834 20.9899 19.7934Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4963 14.5089C11.7563 14.3689 14.0663 13.0589 14.6463 11.1989C15.1263 9.68895 14.4163 8.15895 13.0263 7.69895C12.4063 7.50895 11.7263 7.54895 11.1363 7.82895C10.5463 7.54895 9.87631 7.49895 9.23631 7.69895C8.13631 8.04895 7.46631 9.08895 7.46631 10.2489C7.46631 10.5589 7.51631 10.8789 7.61631 11.1989C8.21574 13.0464 10.4374 14.3241 10.761 14.5101L10.7763 14.5189C10.8863 14.5789 11.0063 14.6089 11.1363 14.6089C11.2563 14.6089 11.3863 14.5789 11.4963 14.5089ZM11.1363 12.9789C11.8263 12.5289 12.9363 11.6489 13.2163 10.7389C13.4163 10.1289 13.2563 9.34894 12.5663 9.12894C12.2363 9.02894 11.8663 9.08894 11.5763 9.29894C11.3063 9.49894 10.9463 9.48894 10.6763 9.29894C10.4063 9.08894 10.0363 9.01894 9.69628 9.12894C9.01628 9.34894 8.84628 10.1189 9.04628 10.7389C9.34628 11.6589 10.4463 12.5289 11.1363 12.9789Z" fill="black"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search love 6 icon with style variants.
+class _SearchSearchLove6Icon {
+  const _SearchSearchLove6Icon();
+
+  /// outline style
+  _SearchSearchLove6Outline get outline => const _SearchSearchLove6Outline();
+}
+
+/// Search love 6 — outline style variants.
+class _SearchSearchLove6Outline {
+  const _SearchSearchLove6Outline();
+
+  /// Search love 6 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search love 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1279 3.75C7.06837 3.75 3.77783 7.04053 3.77783 11.1001C3.77783 15.1597 7.06837 18.4502 11.1279 18.4502C15.1875 18.4502 18.4781 15.1597 18.4781 11.1001C18.4781 10.6859 18.8138 10.3501 19.2281 10.3501C19.6423 10.3501 19.9781 10.6859 19.9781 11.1001C19.9781 15.9881 16.016 19.9502 11.1279 19.9502C6.23994 19.9502 2.27783 15.9881 2.27783 11.1001C2.27783 6.21211 6.23994 2.25 11.1279 2.25C11.5422 2.25 11.8779 2.58579 11.8779 3C11.8779 3.41421 11.5422 3.75 11.1279 3.75ZM16.2914 4.14096C16.0283 3.9439 15.6867 3.88645 15.3746 3.98618C14.8479 4.15617 14.5445 4.77228 14.7726 5.48618C14.9576 6.06036 15.4841 6.63573 16.0631 7.10616C16.3132 7.30937 16.5528 7.47678 16.7401 7.59905C16.9295 7.47508 17.1722 7.30518 17.4251 7.09948C18.0089 6.62465 18.5317 6.05093 18.708 5.49032L18.7091 5.4868C18.9368 4.77486 18.6341 4.15793 18.106 3.98672C17.7937 3.88893 17.4522 3.94668 17.1881 4.1428C16.9217 4.34061 16.557 4.33987 16.2914 4.14096ZM16.382 9.13609L16.3807 9.1354L16.3783 9.13409L16.3712 9.13015L16.3478 9.11707C16.3283 9.10607 16.3011 9.09049 16.2671 9.07054C16.1991 9.03067 16.1037 8.97313 15.9887 8.89945C15.7595 8.75264 15.4478 8.53892 15.1172 8.27033C14.4821 7.75434 13.6675 6.94882 13.3445 5.94504L13.3441 5.94375C12.9421 4.68689 13.376 3.05395 14.9154 2.55821L14.9165 2.55783C15.524 2.3633 16.1756 2.40894 16.7424 2.67236C17.3069 2.41206 17.9545 2.36606 18.5593 2.55684L18.5634 2.55814C20.102 3.05312 20.5399 4.6838 20.1384 5.94199C19.8239 6.94027 19.0061 7.74706 18.3716 8.26315C18.0402 8.5327 17.7271 8.748 17.4969 8.89609C17.3813 8.97042 17.2855 9.02854 17.2172 9.06882C17.1831 9.08897 17.1557 9.10471 17.1362 9.11582L17.1127 9.12901L17.1056 9.13296L17.1033 9.13427L17.1024 9.13476C16.8866 9.25334 16.9256 8.13893 16.382 9.13609ZM16.382 9.13609C16.6063 9.25825 16.8784 9.25762 17.1024 9.13476C16.8866 9.25334 16.9256 8.13893 16.382 9.13609ZM19.4568 18.7201C19.0343 18.7201 18.6919 19.0625 18.6919 19.4851C18.6919 19.9076 19.0343 20.25 19.4568 20.25C19.8794 20.25 20.2218 19.9076 20.2218 19.4851C20.2218 19.0625 19.8794 18.7201 19.4568 18.7201ZM17.1919 19.4851C17.1919 18.2341 18.2058 17.2201 19.4568 17.2201C20.7078 17.2201 21.7218 18.2341 21.7218 19.4851C21.7218 20.736 20.7078 21.75 19.4568 21.75C18.2058 21.75 17.1919 20.736 17.1919 19.4851Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search love 7 icon with style variants.
+class _SearchSearchLove7Icon {
+  const _SearchSearchLove7Icon();
+
+  /// outline style
+  _SearchSearchLove7Outline get outline => const _SearchSearchLove7Outline();
+}
+
+/// Search love 7 — outline style variants.
+class _SearchSearchLove7Outline {
+  const _SearchSearchLove7Outline();
+
+  /// Search love 7 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search love 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3251 2.90762C11.3761 3.31868 11.0842 3.69327 10.6732 3.74429C6.8738 4.21589 3.93311 7.45716 3.93311 11.3833C3.93311 15.6347 7.37941 19.0818 11.6316 19.0818C13.6332 19.0818 15.4568 18.3173 16.8261 17.0644C16.8332 17.0566 16.8405 17.049 16.8479 17.0415C16.8692 17.0202 16.8914 17.0004 16.9145 16.9822C18.1719 15.7951 19.0297 14.1892 19.2644 12.3879C19.3179 11.9771 19.6943 11.6875 20.105 11.741C20.5158 11.7946 20.8054 12.1709 20.7518 12.5816C20.5033 14.4894 19.6704 16.2138 18.4387 17.5689L21.3462 20.469C21.6395 20.7615 21.6401 21.2364 21.3475 21.5297C21.055 21.8229 20.5802 21.8235 20.2869 21.531L17.3424 18.594C15.7737 19.8385 13.7896 20.5818 11.6316 20.5818C6.55087 20.5818 2.43311 16.463 2.43311 11.3833C2.43311 6.69071 5.94726 2.81938 10.4884 2.25571C10.8995 2.20469 11.274 2.49656 11.3251 2.90762ZM17.3739 4.04139C17.0908 3.82923 16.7231 3.76742 16.3862 3.87513C15.8143 4.05962 15.4947 4.72587 15.7366 5.48321C15.9329 6.0924 16.489 6.6984 17.0949 7.19072C17.3652 7.41041 17.6238 7.59017 17.8227 7.71929C18.0237 7.5884 18.2855 7.40601 18.5587 7.18371C19.1693 6.68688 19.7221 6.0824 19.9095 5.487L19.9106 5.48378C20.152 4.72879 19.8325 4.0613 19.2597 3.87559C18.9234 3.7702 18.5554 3.83243 18.2703 4.04374C18.0039 4.24128 17.6393 4.24033 17.3739 4.04139ZM17.8237 8.59715C17.465 9.25582 17.4648 9.25573 17.4647 9.25564L17.4634 9.25494L17.4609 9.2536L17.4536 9.24955L17.4294 9.23602C17.4092 9.22461 17.3809 9.20844 17.3456 9.1877C17.2749 9.14625 17.1757 9.08639 17.056 9.0097C16.8174 8.85686 16.4929 8.63438 16.1489 8.35484C15.487 7.81694 14.6427 6.98075 14.3085 5.94192L14.3081 5.94065C13.8926 4.64157 14.3414 2.95755 15.9271 2.4471L15.9282 2.44675C16.5596 2.24458 17.2373 2.29347 17.8255 2.57122C18.4106 2.29743 19.084 2.24722 19.7132 2.4458L19.7173 2.44709C21.3007 2.95681 21.7549 4.63822 21.3398 5.93904C21.0141 6.9717 20.1668 7.8091 19.5053 8.34725C19.1605 8.6278 18.8347 8.85194 18.5951 9.00613C18.4749 9.0835 18.3752 9.14399 18.3043 9.18586C18.2688 9.20682 18.2404 9.22316 18.2201 9.23468L18.1959 9.24833L18.1886 9.2524L18.1861 9.25374L18.1852 9.25424C18.1851 9.25433 18.1846 9.25462 17.8237 8.59715ZM17.8237 8.59715L18.1852 9.25424C17.9612 9.37719 17.6891 9.37784 17.4647 9.25564L17.8237 8.59715Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -2419,8 +2683,6 @@ class _SearchTargetSearchIcon {
   _SearchTargetSearchBulk get bulk => const _SearchTargetSearchBulk();
   /// light style
   _SearchTargetSearchLight get light => const _SearchTargetSearchLight();
-  /// outline style
-  _SearchTargetSearchOutline get outline => const _SearchTargetSearchOutline();
   /// twoTone style
   _SearchTargetSearchTwotone get twoTone => const _SearchTargetSearchTwotone();
   /// broken style
@@ -2467,21 +2729,6 @@ class _SearchTargetSearchTwotone {
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.1 14.2298C13.674 14.2298 14.95 12.9538 14.95 11.3798C14.95 9.80577 13.674 8.52979 12.1 8.52979C10.526 8.52979 9.25 9.80577 9.25 11.3798C9.25 12.9538 10.526 14.2298 12.1 14.2298Z" stroke="black" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.54C4.01 6.16 6.66 3.51 10.04 2.75" stroke="black" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14 2.75C17.37 3.51 20.03 6.16 20.79 9.54" stroke="black" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.04 20.29C6.66 19.53 4.01 16.87 3.25 13.5" stroke="black" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.79 13.5C20.03 16.87 17.37 19.53 14 20.29" stroke="black" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.4902 17.9702L22.1502 21.6202" stroke="black" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Search',
     style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Target Search — outline style variants.
-class _SearchTargetSearchOutline {
-  const _SearchTargetSearchOutline();
-
-  /// Target Search — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Target Search',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5083 2.85035C12.5994 2.44628 13.0008 2.19256 13.4049 2.28366C16.8974 3.07107 19.6523 5.81601 20.44 9.31912C20.5309 9.72324 20.2769 10.1245 19.8728 10.2154C19.4687 10.3062 19.0674 10.0523 18.9765 9.64817C18.3164 6.71212 16.0041 4.40732 13.075 3.74694C12.6709 3.65584 12.4172 3.25442 12.5083 2.85035ZM10.2 2.85078C10.2909 3.2549 10.0369 3.65617 9.63279 3.74703C6.696 4.40734 4.39196 6.71138 3.73165 9.64817C3.64079 10.0523 3.23952 10.3062 2.8354 10.2154C2.43127 10.1245 2.17732 9.72324 2.26819 9.31912C3.05566 5.81675 5.80137 3.07104 9.30374 2.28357C9.70786 2.1927 10.1091 2.44665 10.2 2.85078ZM11.4259 9.2763C10.3427 9.2763 9.4652 10.1538 9.4652 11.237C9.4652 12.3202 10.3427 13.1977 11.4259 13.1977C12.5091 13.1977 13.3866 12.3202 13.3866 11.237C13.3866 10.1538 12.5091 9.2763 11.4259 9.2763ZM7.9652 11.237C7.9652 9.32538 9.51429 7.7763 11.4259 7.7763C13.3375 7.7763 14.8866 9.32538 14.8866 11.237C14.8866 13.1486 13.3375 14.6977 11.4259 14.6977C9.51429 14.6977 7.9652 13.1486 7.9652 11.237ZM2.83492 12.5237C3.23899 12.4325 3.64042 12.6862 3.73154 13.0903C4.39194 16.0186 6.69682 18.3318 9.63279 18.9919C10.0369 19.0828 10.2909 19.484 10.2 19.8882C10.1091 20.2923 9.70786 20.5462 9.30374 20.4554C5.80055 19.6677 3.05569 16.9117 2.26829 13.4203C2.17717 13.0162 2.43085 12.6148 2.83492 12.5237ZM19.8733 12.5237C20.2773 12.6148 20.531 13.0162 20.4399 13.4203C20.1042 14.9087 19.4114 16.263 18.4563 17.3882L21.5296 20.4537C21.8228 20.7462 21.8234 21.2211 21.5309 21.5144C21.2384 21.8076 20.7635 21.8082 20.4703 21.5157L17.3974 18.4506C16.2675 19.4162 14.9043 20.1168 13.4051 20.4552C13.001 20.5464 12.5995 20.2929 12.5083 19.8888C12.4171 19.4848 12.6707 19.0833 13.0748 18.9921C16.0034 18.3309 18.3164 16.0177 18.9766 13.0903C19.0678 12.6862 19.4692 12.4325 19.8733 12.5237Z" fill="black"/> </svg> ',
-    category: 'Search',
-    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -2726,8 +2973,6 @@ class _SearchSearchCloseIcon {
   _SearchSearchCloseBulk get bulk => const _SearchSearchCloseBulk();
   /// light style
   _SearchSearchCloseLight get light => const _SearchSearchCloseLight();
-  /// outline style
-  _SearchSearchCloseOutline get outline => const _SearchSearchCloseOutline();
   /// twoTone style
   _SearchSearchCloseTwotone get twoTone => const _SearchSearchCloseTwotone();
   /// broken style
@@ -2774,21 +3019,6 @@ class _SearchSearchCloseTwotone {
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.549 11.4171C20.549 6.76827 16.7807 3 12.1319 3C7.48312 3 3.71484 6.76827 3.71484 11.4171C3.71484 16.0659 7.48312 19.8351 12.1319 19.8351C16.7807 19.8351 20.549 16.0659 20.549 11.4171Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.8604 17.584L21.2842 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.4316 9.71875L13.8292 13.1163M13.8292 9.71875L10.4316 13.1163" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Search',
     style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Search-close — outline style variants.
-class _SearchSearchCloseOutline {
-  const _SearchSearchCloseOutline();
-
-  /// Search-close — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Search-close',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6324 3.75C7.39782 3.75 3.96533 7.18249 3.96533 11.4171C3.96533 15.6518 7.39793 19.0851 11.6324 19.0851C13.6405 19.0851 15.4682 18.313 16.835 17.0495C16.8456 17.0392 16.8563 17.0292 16.8673 17.0196C18.364 15.6201 19.2995 13.6278 19.2995 11.4171C19.2995 7.18249 15.867 3.75 11.6324 3.75ZM18.4192 17.5801C19.8982 15.952 20.7995 13.7897 20.7995 11.4171C20.7995 6.35406 16.6954 2.25 11.6324 2.25C6.56939 2.25 2.46533 6.35406 2.46533 11.4171C2.46533 16.48 6.56928 20.5851 11.6324 20.5851C13.7825 20.5851 15.7597 19.8448 17.323 18.6052L20.2554 21.5309C20.5486 21.8235 21.0235 21.823 21.316 21.5297C21.6086 21.2365 21.608 20.7616 21.3148 20.4691L18.4192 17.5801ZM9.4026 9.18822C9.6955 8.89533 10.1704 8.89533 10.4633 9.18822L11.6317 10.3567L12.8002 9.18822C13.0931 8.89533 13.5679 8.89533 13.8608 9.18822C14.1537 9.48111 14.1537 9.95599 13.8608 10.2489L12.6924 11.4173L13.8608 12.5858C14.1537 12.8787 14.1537 13.3536 13.8608 13.6465C13.5679 13.9393 13.0931 13.9393 12.8002 13.6465L11.6317 12.478L10.4633 13.6465C10.1704 13.9393 9.6955 13.9393 9.4026 13.6465C9.10971 13.3536 9.10971 12.8787 9.4026 12.5858L10.5711 11.4173L9.4026 10.2489C9.10971 9.95599 9.10971 9.48111 9.4026 9.18822Z" fill="black"/> </svg> ',
-    category: 'Search',
-    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -3044,63 +3274,8 @@ class _SearchSearchFilterLight {
 class _SearchSearchRestartIcon {
   const _SearchSearchRestartIcon();
 
-  /// bold style
-  _SearchSearchRestartBold get bold => const _SearchSearchRestartBold();
-  /// bulk style
-  _SearchSearchRestartBulk get bulk => const _SearchSearchRestartBulk();
-  /// light style
-  _SearchSearchRestartLight get light => const _SearchSearchRestartLight();
   /// outline style
   _SearchSearchRestartOutline get outline => const _SearchSearchRestartOutline();
-  /// twoTone style
-  _SearchSearchRestartTwotone get twoTone => const _SearchSearchRestartTwotone();
-  /// broken style
-  _SearchSearchRestartBroken get broken => const _SearchSearchRestartBroken();
-}
-
-/// Search restart — bulk style variants.
-class _SearchSearchRestartBulk {
-  const _SearchSearchRestartBulk();
-
-  /// Search restart — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Search restart',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M11.1353 2.5C6.48533 2.5 2.71533 6.27 2.71533 10.92C2.71533 15.57 6.48533 19.34 11.1353 19.34C15.7753 19.34 19.5453 15.57 19.5453 10.92C19.5453 6.27 15.7753 2.5 11.1353 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2641 11.7187C13.8541 11.7187 13.5141 11.3787 13.5141 10.9687C13.5141 9.58871 12.2541 8.50871 10.9041 8.69871L11.0641 8.77871C11.4241 8.96871 11.5741 9.41871 11.3841 9.78871C11.2041 10.1587 10.7441 10.2987 10.3741 10.1187L8.88409 9.35871C8.66409 9.23871 8.51409 9.02871 8.48409 8.77871C8.45409 8.52871 8.54409 8.28871 8.73409 8.11871C9.42409 7.50871 10.3141 7.17871 11.2341 7.17871C13.3241 7.17871 15.0141 8.87871 15.0141 10.9687C15.0141 11.3787 14.6841 11.7187 14.2641 11.7187ZM13.7341 13.7987C13.0441 14.4087 12.1541 14.7487 11.2341 14.7487C9.14409 14.7487 7.44409 13.0487 7.44409 10.9687C7.44409 10.5487 7.78409 10.2187 8.19409 10.2187C8.61409 10.2187 8.94409 10.5487 8.94409 10.9687C8.94409 12.2287 9.97409 13.2487 11.2341 13.2487C11.3441 13.2487 11.4541 13.2387 11.5641 13.2187L11.4041 13.1487C11.0341 12.9587 10.8941 12.5087 11.0841 12.1387C11.2641 11.7687 11.7241 11.6187 12.0841 11.8087L13.5841 12.5687C13.8041 12.6787 13.9541 12.8987 13.9841 13.1387C14.0141 13.3887 13.9241 13.6387 13.7341 13.7987Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9921 19.7932L19.0091 17.8142C18.6181 17.4242 17.9841 17.4242 17.5951 17.8162C17.2041 18.2072 17.2051 18.8412 17.5961 19.2312L19.5801 21.2092C19.7751 21.4032 20.0311 21.5012 20.2861 21.5012C20.5421 21.5012 20.7991 21.4032 20.9941 21.2072C21.3841 20.8162 21.3831 20.1832 20.9921 19.7932Z" fill="black"/> </svg>',
-    category: 'Search',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Search restart — broken style variants.
-class _SearchSearchRestartBroken {
-  const _SearchSearchRestartBroken();
-
-  /// Search restart — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Search restart',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.5947 17.3662L21.0001 20.7638" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 16.6925L5.91016 17.3658L6.57957 14.4712" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6831 6.22994L17.7729 5.55664L17.1035 8.45124" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7646 5.80273C19.2328 7.32174 19.9984 9.26971 20.0599 11.2362" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.4219 19.5585C12.9818 20.0158 15.7168 19.251 17.6871 17.2652C18.61 16.3349 19.264 15.2388 19.6494 14.0737" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.91647 17.1204C3.82965 14.9612 3.16229 11.9354 3.9186 9.22168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.99414 5.65789C7.96441 3.67303 10.6994 2.9073 13.2593 3.36459" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Search',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Search restart — twoTone style variants.
-class _SearchSearchRestartTwotone {
-  const _SearchSearchRestartTwotone();
-
-  /// Search restart — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Search restart',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.2352 12.7745C19.7137 16.7783 16.2898 19.8714 12.1429 19.8714C7.63599 19.8714 3.98242 16.2179 3.98242 11.71C3.98242 7.54756 7.09988 4.11194 11.128 3.61279" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.6973 17.688L21.0181 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.2038 7.62461C19.6697 8.50614 18.7015 9.0948 17.5962 9.0948C15.913 9.0948 14.5488 7.73067 14.5488 6.0474C14.5488 4.36413 15.913 3 17.5962 3C18.7872 3 19.8185 3.68304 20.3196 4.67841" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.6328 4.67743H20.32V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Search',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Search restart — outline style variants.
@@ -3118,13 +3293,205 @@ class _SearchSearchRestartOutline {
 
 }
 
-/// Search restart — bold style variants.
-class _SearchSearchRestartBold {
-  const _SearchSearchRestartBold();
+/// Search restart 1 icon with style variants.
+class _SearchSearchRestart1Icon {
+  const _SearchSearchRestart1Icon();
 
-  /// Search restart — bold / regular
+  /// light style
+  _SearchSearchRestart1Light get light => const _SearchSearchRestart1Light();
+}
+
+/// Search restart 1 — light style variants.
+class _SearchSearchRestart1Light {
+  const _SearchSearchRestart1Light();
+
+  /// Search restart 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Search restart',
+    name: 'Search restart 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.7036 12.8065C19.1841 16.7946 15.7739 19.875 11.6437 19.875C7.15545 19.875 3.5166 16.2361 3.5166 11.7469C3.5166 7.60021 6.6213 4.1793 10.6328 3.68115" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1758 17.7007L20.4829 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.6206 7.55247L19.1151 8.31138C18.58 8.78326 17.8765 9.07028 17.1069 9.07028C15.4305 9.07028 14.0723 7.71107 14.0723 6.03467" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5921 4.51781L15.0977 3.7589C15.6328 3.28702 16.3362 3 17.1058 3C18.7822 3 20.1405 4.35922 20.1405 6.03561" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search restart 2 icon with style variants.
+class _SearchSearchRestart2Icon {
+  const _SearchSearchRestart2Icon();
+
+  /// light style
+  _SearchSearchRestart2Light get light => const _SearchSearchRestart2Light();
+}
+
+/// Search restart 2 — light style variants.
+class _SearchSearchRestart2Light {
+  const _SearchSearchRestart2Light();
+
+  /// Search restart 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search restart 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.7036 12.8065C19.1841 16.7946 15.7739 19.875 11.6437 19.875C7.15545 19.875 3.5166 16.2361 3.5166 11.7469C3.5166 7.60021 6.6213 4.1793 10.6328 3.68115" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1758 17.7007L20.4829 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.6206 7.55247L19.1151 8.31138C18.58 8.78326 17.8765 9.07028 17.1069 9.07028C15.4305 9.07028 14.0723 7.71107 14.0723 6.03467" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5921 4.51781L15.0977 3.7589C15.6328 3.28702 16.3362 3 17.1058 3C18.7822 3 20.1405 4.35922 20.1405 6.03561" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search restart 3 icon with style variants.
+class _SearchSearchRestart3Icon {
+  const _SearchSearchRestart3Icon();
+
+  /// twoTone style
+  _SearchSearchRestart3Twotone get twoTone => const _SearchSearchRestart3Twotone();
+}
+
+/// Search restart 3 — twoTone style variants.
+class _SearchSearchRestart3Twotone {
+  const _SearchSearchRestart3Twotone();
+
+  /// Search restart 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search restart 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.2352 12.7745C19.7137 16.7783 16.2898 19.8714 12.1429 19.8714C7.63599 19.8714 3.98242 16.2179 3.98242 11.71C3.98242 7.54756 7.09988 4.11194 11.128 3.61279" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.6973 17.688L21.0181 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.2038 7.62461C19.6697 8.50614 18.7015 9.0948 17.5962 9.0948C15.913 9.0948 14.5488 7.73067 14.5488 6.0474C14.5488 4.36413 15.913 3 17.5962 3C18.7872 3 19.8185 3.68304 20.3196 4.67841" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.6328 4.67743H20.32V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search restart 4 icon with style variants.
+class _SearchSearchRestart4Icon {
+  const _SearchSearchRestart4Icon();
+
+  /// twoTone style
+  _SearchSearchRestart4Twotone get twoTone => const _SearchSearchRestart4Twotone();
+}
+
+/// Search restart 4 — twoTone style variants.
+class _SearchSearchRestart4Twotone {
+  const _SearchSearchRestart4Twotone();
+
+  /// Search restart 4 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search restart 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.5 16.6925L6.41016 17.3658L7.07957 14.4712" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.0947 17.3662L21.5001 20.7638" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.1831 6.22994L18.2729 5.55664L17.6035 8.45124" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2649 5.80273C21.3541 8.99895 21.3327 14.0944 18.1871 17.2653C16.2168 19.2512 13.4818 20.0159 10.9219 19.5586" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.41647 17.1205C3.32728 13.9243 3.34869 8.82881 6.49431 5.65789C8.46458 3.67303 11.1996 2.9073 13.7595 3.36459" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search restart 5 icon with style variants.
+class _SearchSearchRestart5Icon {
+  const _SearchSearchRestart5Icon();
+
+  /// twoTone style
+  _SearchSearchRestart5Twotone get twoTone => const _SearchSearchRestart5Twotone();
+}
+
+/// Search restart 5 — twoTone style variants.
+class _SearchSearchRestart5Twotone {
+  const _SearchSearchRestart5Twotone();
+
+  /// Search restart 5 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search restart 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.2036 12.8065C19.6841 16.7946 16.2739 19.875 12.1437 19.875C7.65545 19.875 4.0166 16.2361 4.0166 11.7469C4.0166 7.60021 7.1213 4.1793 11.1328 3.68115" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.6758 17.7007L20.9829 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.1206 7.55247L19.6151 8.31138C19.08 8.78326 18.3765 9.07028 17.6069 9.07028C15.9305 9.07028 14.5723 7.71107 14.5723 6.03467" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.0921 4.51781L15.5977 3.7589C16.1328 3.28702 16.8362 3 17.6058 3C19.2822 3 20.6405 4.35922 20.6405 6.03561" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search restart 6 icon with style variants.
+class _SearchSearchRestart6Icon {
+  const _SearchSearchRestart6Icon();
+
+  /// broken style
+  _SearchSearchRestart6Broken get broken => const _SearchSearchRestart6Broken();
+}
+
+/// Search restart 6 — broken style variants.
+class _SearchSearchRestart6Broken {
+  const _SearchSearchRestart6Broken();
+
+  /// Search restart 6 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search restart 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.7038 7.62461C19.1697 8.50614 18.2015 9.0948 17.0962 9.0948C15.413 9.0948 14.0488 7.73067 14.0488 6.0474C14.0488 4.36413 15.413 3 17.0962 3C18.2872 3 19.3185 3.68304 19.8196 4.67841" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1328 4.67743H19.82V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.7356 12.8921C19.2138 16.8966 15.7902 19.9888 11.6437 19.9888C8.57018 19.9888 5.89383 18.2903 4.50195 15.7806" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.48242 11.8278C3.48242 7.66448 6.60023 4.23005 10.6284 3.72998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1973 17.8057L20.5183 21.1178" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search restart 7 icon with style variants.
+class _SearchSearchRestart7Icon {
+  const _SearchSearchRestart7Icon();
+
+  /// broken style
+  _SearchSearchRestart7Broken get broken => const _SearchSearchRestart7Broken();
+}
+
+/// Search restart 7 — broken style variants.
+class _SearchSearchRestart7Broken {
+  const _SearchSearchRestart7Broken();
+
+  /// Search restart 7 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search restart 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.5947 17.3662L21.0001 20.7638" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 16.6925L5.91016 17.3658L6.57957 14.4712" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6831 6.22994L17.7729 5.55664L17.1035 8.45124" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7646 5.80273C19.2328 7.32174 19.9984 9.26971 20.0599 11.2362" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.4219 19.5585C12.9818 20.0158 15.7168 19.251 17.6871 17.2652C18.61 16.3349 19.264 15.2388 19.6494 14.0737" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.91647 17.1204C3.82965 14.9612 3.16229 11.9354 3.9186 9.22168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.99414 5.65789C7.96441 3.67303 10.6994 2.9073 13.2593 3.36459" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search restart 8 icon with style variants.
+class _SearchSearchRestart8Icon {
+  const _SearchSearchRestart8Icon();
+
+  /// broken style
+  _SearchSearchRestart8Broken get broken => const _SearchSearchRestart8Broken();
+}
+
+/// Search restart 8 — broken style variants.
+class _SearchSearchRestart8Broken {
+  const _SearchSearchRestart8Broken();
+
+  /// Search restart 8 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search restart 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.7041 12.8066C19.1845 16.7948 15.7743 19.8751 11.6441 19.8751C8.32975 19.8751 5.47854 17.8908 4.21387 15.045" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.5166 11.7469C3.5166 7.60021 6.6213 4.1793 10.6328 3.68115" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1758 17.7007L20.4829 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.6206 7.55247L19.1151 8.31138C18.58 8.78326 17.8765 9.07028 17.1069 9.07028C15.4305 9.07028 14.0723 7.71107 14.0723 6.03467" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5921 4.51781L15.0977 3.7589C15.6328 3.28702 16.3362 3 17.1058 3C18.7822 3 20.1405 4.35922 20.1405 6.03561" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search restart 9 icon with style variants.
+class _SearchSearchRestart9Icon {
+  const _SearchSearchRestart9Icon();
+
+  /// bold style
+  _SearchSearchRestart9Bold get bold => const _SearchSearchRestart9Bold();
+}
+
+/// Search restart 9 — bold style variants.
+class _SearchSearchRestart9Bold {
+  const _SearchSearchRestart9Bold();
+
+  /// Search restart 9 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search restart 9',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2639 11.7185C13.8539 11.7185 13.5139 11.3785 13.5139 10.9685C13.5139 9.58853 12.2539 8.50853 10.9039 8.69853L11.0639 8.77853C11.4239 8.96853 11.5739 9.41853 11.3839 9.78854C11.2039 10.1585 10.7439 10.2985 10.3739 10.1185L8.88387 9.35853C8.66387 9.23853 8.51387 9.02853 8.48387 8.77853C8.45387 8.52853 8.54387 8.28854 8.73387 8.11854C9.42387 7.50853 10.3139 7.17853 11.2339 7.17853C13.3239 7.17853 15.0139 8.87854 15.0139 10.9685C15.0139 11.3785 14.6839 11.7185 14.2639 11.7185ZM13.7339 13.7985C13.0439 14.4085 12.1539 14.7485 11.2339 14.7485C9.14387 14.7485 7.44387 13.0485 7.44387 10.9685C7.44387 10.5485 7.78387 10.2185 8.19387 10.2185C8.61387 10.2185 8.94387 10.5485 8.94387 10.9685C8.94387 12.2285 9.97387 13.2485 11.2339 13.2485C11.3439 13.2485 11.4539 13.2385 11.5639 13.2185L11.4039 13.1485C11.0339 12.9585 10.8939 12.5085 11.0839 12.1385C11.2639 11.7685 11.7239 11.6185 12.0839 11.8085L13.5839 12.5685C13.8039 12.6785 13.9539 12.8985 13.9839 13.1385C14.0139 13.3885 13.9239 13.6385 13.7339 13.7985ZM11.1339 2.49854C6.48387 2.49854 2.71387 6.26854 2.71387 10.9185C2.71387 15.5685 6.48387 19.3385 11.1339 19.3385C15.7839 19.3385 19.5539 15.5685 19.5539 10.9185C19.5539 6.26854 15.7839 2.49854 11.1339 2.49854Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9919 19.793L19.0089 17.814C18.6179 17.424 17.9839 17.424 17.5949 17.816C17.2039 18.207 17.2049 18.841 17.5959 19.231L19.5799 21.209C19.7749 21.403 20.0309 21.501 20.2859 21.501C20.5419 21.501 20.7989 21.403 20.9939 21.207C21.3839 20.816 21.3829 20.183 20.9919 19.793Z" fill="black"/> </svg>',
     category: 'Search',
     style: IconfyStyle.bold,
@@ -3133,16 +3500,70 @@ class _SearchSearchRestartBold {
 
 }
 
-/// Search restart — light style variants.
-class _SearchSearchRestartLight {
-  const _SearchSearchRestartLight();
+/// Search restart 10 icon with style variants.
+class _SearchSearchRestart10Icon {
+  const _SearchSearchRestart10Icon();
 
-  /// Search restart — light / regular
+  /// bold style
+  _SearchSearchRestart10Bold get bold => const _SearchSearchRestart10Bold();
+}
+
+/// Search restart 10 — bold style variants.
+class _SearchSearchRestart10Bold {
+  const _SearchSearchRestart10Bold();
+
+  /// Search restart 10 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Search restart',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.7036 12.8065C19.1841 16.7946 15.7739 19.875 11.6437 19.875C7.15545 19.875 3.5166 16.2361 3.5166 11.7469C3.5166 7.60021 6.6213 4.1793 10.6328 3.68115" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1758 17.7007L20.4829 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.6206 7.55247L19.1151 8.31138C18.58 8.78326 17.8765 9.07028 17.1069 9.07028C15.4305 9.07028 14.0723 7.71107 14.0723 6.03467" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5921 4.51781L15.0977 3.7589C15.6328 3.28702 16.3362 3 17.1058 3C18.7822 3 20.1405 4.35922 20.1405 6.03561" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    name: 'Search restart 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2639 11.7185C13.8539 11.7185 13.5139 11.3785 13.5139 10.9685C13.5139 9.58853 12.2539 8.50853 10.9039 8.69853L11.0639 8.77853C11.4239 8.96853 11.5739 9.41853 11.3839 9.78854C11.2039 10.1585 10.7439 10.2985 10.3739 10.1185L8.88387 9.35853C8.66387 9.23853 8.51387 9.02853 8.48387 8.77853C8.45387 8.52853 8.54387 8.28854 8.73387 8.11854C9.42387 7.50853 10.3139 7.17853 11.2339 7.17853C13.3239 7.17853 15.0139 8.87854 15.0139 10.9685C15.0139 11.3785 14.6839 11.7185 14.2639 11.7185ZM13.7339 13.7985C13.0439 14.4085 12.1539 14.7485 11.2339 14.7485C9.14387 14.7485 7.44387 13.0485 7.44387 10.9685C7.44387 10.5485 7.78387 10.2185 8.19387 10.2185C8.61387 10.2185 8.94387 10.5485 8.94387 10.9685C8.94387 12.2285 9.97387 13.2485 11.2339 13.2485C11.3439 13.2485 11.4539 13.2385 11.5639 13.2185L11.4039 13.1485C11.0339 12.9585 10.8939 12.5085 11.0839 12.1385C11.2639 11.7685 11.7239 11.6185 12.0839 11.8085L13.5839 12.5685C13.8039 12.6785 13.9539 12.8985 13.9839 13.1385C14.0139 13.3885 13.9239 13.6385 13.7339 13.7985ZM11.1339 2.49854C6.48387 2.49854 2.71387 6.26854 2.71387 10.9185C2.71387 15.5685 6.48387 19.3385 11.1339 19.3385C15.7839 19.3385 19.5539 15.5685 19.5539 10.9185C19.5539 6.26854 15.7839 2.49854 11.1339 2.49854Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9919 19.793L19.0089 17.814C18.6179 17.424 17.9839 17.424 17.5949 17.816C17.2039 18.207 17.2049 18.841 17.5959 19.231L19.5799 21.209C19.7749 21.403 20.0309 21.501 20.2859 21.501C20.5419 21.501 20.7989 21.403 20.9939 21.207C21.3839 20.816 21.3829 20.183 20.9919 19.793Z" fill="black"/> </svg>',
     category: 'Search',
-    style: IconfyStyle.light,
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search restart 11 icon with style variants.
+class _SearchSearchRestart11Icon {
+  const _SearchSearchRestart11Icon();
+
+  /// bulk style
+  _SearchSearchRestart11Bulk get bulk => const _SearchSearchRestart11Bulk();
+}
+
+/// Search restart 11 — bulk style variants.
+class _SearchSearchRestart11Bulk {
+  const _SearchSearchRestart11Bulk();
+
+  /// Search restart 11 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search restart 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M11.1353 2.5C6.48533 2.5 2.71533 6.27 2.71533 10.92C2.71533 15.57 6.48533 19.34 11.1353 19.34C15.7753 19.34 19.5453 15.57 19.5453 10.92C19.5453 6.27 15.7753 2.5 11.1353 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2641 11.7187C13.8541 11.7187 13.5141 11.3787 13.5141 10.9687C13.5141 9.58871 12.2541 8.50871 10.9041 8.69871L11.0641 8.77871C11.4241 8.96871 11.5741 9.41871 11.3841 9.78871C11.2041 10.1587 10.7441 10.2987 10.3741 10.1187L8.88409 9.35871C8.66409 9.23871 8.51409 9.02871 8.48409 8.77871C8.45409 8.52871 8.54409 8.28871 8.73409 8.11871C9.42409 7.50871 10.3141 7.17871 11.2341 7.17871C13.3241 7.17871 15.0141 8.87871 15.0141 10.9687C15.0141 11.3787 14.6841 11.7187 14.2641 11.7187ZM13.7341 13.7987C13.0441 14.4087 12.1541 14.7487 11.2341 14.7487C9.14409 14.7487 7.44409 13.0487 7.44409 10.9687C7.44409 10.5487 7.78409 10.2187 8.19409 10.2187C8.61409 10.2187 8.94409 10.5487 8.94409 10.9687C8.94409 12.2287 9.97409 13.2487 11.2341 13.2487C11.3441 13.2487 11.4541 13.2387 11.5641 13.2187L11.4041 13.1487C11.0341 12.9587 10.8941 12.5087 11.0841 12.1387C11.2641 11.7687 11.7241 11.6187 12.0841 11.8087L13.5841 12.5687C13.8041 12.6787 13.9541 12.8987 13.9841 13.1387C14.0141 13.3887 13.9241 13.6387 13.7341 13.7987Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9921 19.7932L19.0091 17.8142C18.6181 17.4242 17.9841 17.4242 17.5951 17.8162C17.2041 18.2072 17.2051 18.8412 17.5961 19.2312L19.5801 21.2092C19.7751 21.4032 20.0311 21.5012 20.2861 21.5012C20.5421 21.5012 20.7991 21.4032 20.9941 21.2072C21.3841 20.8162 21.3831 20.1832 20.9921 19.7932Z" fill="black"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search restart 12 icon with style variants.
+class _SearchSearchRestart12Icon {
+  const _SearchSearchRestart12Icon();
+
+  /// bulk style
+  _SearchSearchRestart12Bulk get bulk => const _SearchSearchRestart12Bulk();
+}
+
+/// Search restart 12 — bulk style variants.
+class _SearchSearchRestart12Bulk {
+  const _SearchSearchRestart12Bulk();
+
+  /// Search restart 12 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search restart 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M11.1353 2.5C6.48533 2.5 2.71533 6.27 2.71533 10.92C2.71533 15.57 6.48533 19.34 11.1353 19.34C15.7753 19.34 19.5453 15.57 19.5453 10.92C19.5453 6.27 15.7753 2.5 11.1353 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2641 11.7187C13.8541 11.7187 13.5141 11.3787 13.5141 10.9687C13.5141 9.58871 12.2541 8.50871 10.9041 8.69871L11.0641 8.77871C11.4241 8.96871 11.5741 9.41871 11.3841 9.78871C11.2041 10.1587 10.7441 10.2987 10.3741 10.1187L8.88409 9.35871C8.66409 9.23871 8.51409 9.02871 8.48409 8.77871C8.45409 8.52871 8.54409 8.28871 8.73409 8.11871C9.42409 7.50871 10.3141 7.17871 11.2341 7.17871C13.3241 7.17871 15.0141 8.87871 15.0141 10.9687C15.0141 11.3787 14.6841 11.7187 14.2641 11.7187ZM13.7341 13.7987C13.0441 14.4087 12.1541 14.7487 11.2341 14.7487C9.14409 14.7487 7.44409 13.0487 7.44409 10.9687C7.44409 10.5487 7.78409 10.2187 8.19409 10.2187C8.61409 10.2187 8.94409 10.5487 8.94409 10.9687C8.94409 12.2287 9.97409 13.2487 11.2341 13.2487C11.3441 13.2487 11.4541 13.2387 11.5641 13.2187L11.4041 13.1487C11.0341 12.9587 10.8941 12.5087 11.0841 12.1387C11.2641 11.7687 11.7241 11.6187 12.0841 11.8087L13.5841 12.5687C13.8041 12.6787 13.9541 12.8987 13.9841 13.1387C14.0141 13.3887 13.9241 13.6387 13.7341 13.7987Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9921 19.7932L19.0091 17.8142C18.6181 17.4242 17.9841 17.4242 17.5951 17.8162C17.2041 18.2072 17.2051 18.8412 17.5961 19.2312L19.5801 21.2092C19.7751 21.4032 20.0311 21.5012 20.2861 21.5012C20.5421 21.5012 20.7991 21.4032 20.9941 21.2072C21.3841 20.8162 21.3831 20.1832 20.9921 19.7932Z" fill="black"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.bulk,
     type: IconfyType.regular,
   );
 
@@ -3969,7 +4390,7 @@ class _SearchSearchScanBulk {
   /// Search scan — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Search scan',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.99976 9.21951C3.41376 9.21951 3.74976 8.88351 3.74976 8.46951V6.88951C3.74976 5.15751 5.15976 3.74951 6.89276 3.74951H8.18176C8.59576 3.74951 8.93176 3.41351 8.93176 2.99951C8.93176 2.58551 8.59576 2.24951 8.18176 2.24951H6.89276C4.33276 2.24951 2.24976 4.33051 2.24976 6.88951V8.46951C2.24976 8.88351 2.58576 9.21951 2.99976 9.21951Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.15012 20.2498H6.89212C5.16012 20.2498 3.75012 18.8418 3.75012 17.1098V15.5298C3.75012 15.1158 3.41412 14.7798 3.00012 14.7798C2.58612 14.7798 2.25012 15.1158 2.25012 15.5298V17.1098C2.25012 19.6688 4.33312 21.7498 6.89212 21.7498H8.15012C8.56412 21.7498 8.90012 21.4138 8.90012 20.9998C8.90012 20.5858 8.56412 20.2498 8.15012 20.2498Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9996 14.78C20.5856 14.78 20.2496 15.116 20.2496 15.53V17.11C20.2496 18.842 18.8406 20.25 17.1076 20.25H15.8176C15.4036 20.25 15.0676 20.586 15.0676 21C15.0676 21.414 15.4036 21.75 15.8176 21.75H17.1076C19.6676 21.75 21.7496 19.669 21.7496 17.11V15.53C21.7496 15.116 21.4136 14.78 20.9996 14.78Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1072 2.24976H15.8492C15.4352 2.24976 15.0992 2.58576 15.0992 2.99976C15.0992 3.41376 15.4352 3.74976 15.8492 3.74976H17.1072C18.8392 3.74976 20.2502 5.15776 20.2502 6.88976V8.46976C20.2502 8.88376 20.5862 9.21976 21.0002 9.21976C21.4142 9.21976 21.7502 8.88376 21.7502 8.46976V6.88976C21.7502 4.33076 19.6672 2.24976 17.1072 2.24976Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4031 7.25977C9.22415 7.25977 7.45215 9.03077 7.45215 11.2068C7.45215 13.3878 9.22415 15.1618 11.4031 15.1618C13.5811 15.1618 15.3531 13.3878 15.3531 11.2068C15.3531 9.03077 13.5811 7.25977 11.4031 7.25977Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9907 16.7193C16.1827 16.7193 16.3747 16.6463 16.5217 16.4983C16.8137 16.2053 16.8137 15.7313 16.5207 15.4383L15.6117 14.5313C15.3177 14.2393 14.8427 14.2383 14.5507 14.5323C14.2587 14.8253 14.2587 15.3003 14.5517 15.5933L15.4607 16.5003C15.6077 16.6463 15.7987 16.7193 15.9907 16.7193Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.15 20.25H6.893C5.16 20.25 3.75 18.842 3.75 17.11V15.53C3.75 15.116 3.414 14.78 3 14.78C2.586 14.78 2.25 15.116 2.25 15.53V17.11C2.25 19.669 4.333 21.75 6.893 21.75H8.15C8.564 21.75 8.9 21.414 8.9 21C8.9 20.586 8.564 20.25 8.15 20.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.18224 2.25H6.89324C4.33324 2.25 2.25024 4.331 2.25024 6.89V8.47C2.25024 8.884 2.58624 9.22 3.00024 9.22C3.41424 9.22 3.75024 8.884 3.75024 8.47V6.89C3.75024 5.158 5.16024 3.75 6.89324 3.75H8.18224C8.59624 3.75 8.93224 3.414 8.93224 3C8.93224 2.586 8.59624 2.25 8.18224 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1071 2.25H15.8501C15.4361 2.25 15.1001 2.586 15.1001 3C15.1001 3.414 15.4361 3.75 15.8501 3.75H17.1071C18.8401 3.75 20.2501 5.158 20.2501 6.89V8.47C20.2501 8.884 20.5861 9.22 21.0001 9.22C21.4141 9.22 21.7501 8.884 21.7501 8.47V6.89C21.7501 4.331 19.6671 2.25 17.1071 2.25Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.734 19.1553C19.442 18.8623 18.966 18.8623 18.673 19.1553C18.381 19.4483 18.381 19.9243 18.674 20.2163L19.769 21.3083C19.915 21.4553 20.107 21.5283 20.298 21.5283C20.49 21.5283 20.683 21.4553 20.829 21.3083C21.122 21.0153 21.122 20.5403 20.828 20.2483L19.734 19.1553Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.998 10.668C12.459 10.668 10.394 12.731 10.394 15.268C10.394 17.809 12.459 19.876 14.998 19.876C17.536 19.876 19.601 17.809 19.601 15.268C19.601 12.731 17.536 10.668 14.998 10.668Z" fill="black"/> </svg>',
     category: 'Search',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -3984,7 +4405,7 @@ class _SearchSearchScanBroken {
   /// Search scan — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Search scan',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 8.46907V6.89189C3 4.74259 4.74259 3 6.89286 3H8.18205" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 15.5308V17.1079C3 19.2572 4.74259 20.9998 6.89286 20.9998H8.14994" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0004 15.5308V17.1079C21.0004 19.2572 19.2578 20.9998 17.1075 20.9998H15.8184" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9995 8.46907V6.89189C20.9995 4.74259 19.257 3 17.1067 3H15.8496" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6805 8.1167C13.6002 8.1167 15.156 9.67248 15.156 11.5922C15.156 13.5118 13.6002 15.0676 11.6805 15.0676C9.76086 15.0676 8.20508 13.5118 8.20508 11.5922C8.20508 10.6648 8.56816 9.82233 9.15995 9.19917" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0449 14.1377L15.7943 15.8832" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 15.5308V17.1079C3 19.2572 4.74259 20.9998 6.89286 20.9998H8.14994" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 8.46907V6.89189C3 4.74259 4.74259 3 6.89286 3H8.18205" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9995 8.46907V6.89189C20.9995 4.74259 19.257 3 17.1067 3H15.8496" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.8295 10.9785C17.1072 10.9785 18.9539 12.8252 18.9539 15.1029C18.9539 17.3807 17.1072 19.2264 14.8295 19.2264C12.5518 19.2264 10.7051 17.3807 10.7051 15.1029C10.7051 13.9296 11.1952 12.8706 11.9818 12.1195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.6367 18.124L19.859 20.3424" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Search',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -3999,7 +4420,7 @@ class _SearchSearchScanTwotone {
   /// Search scan — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Search scan',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3.5 8.46907V6.89189C3.5 4.74259 5.24259 3 7.39286 3H8.68205" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.5 15.5308V17.1079C3.5 19.2572 5.24259 20.9998 7.39286 20.9998H8.64994" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.5004 15.5308V17.1079C21.5004 19.2572 19.7578 20.9998 17.6075 20.9998H16.3184" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.4995 8.46907V6.89189C21.4995 4.74259 19.757 3 17.6067 3H16.3496" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1805 8.1167C14.1002 8.1167 15.656 9.67248 15.656 11.5922C15.656 13.5118 14.1002 15.0676 12.1805 15.0676C10.2609 15.0676 8.70508 13.5118 8.70508 11.5922C8.70508 9.67248 10.2609 8.1167 12.1805 8.1167Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5449 14.1377L16.2943 15.8832" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3.5 15.5308V17.1079C3.5 19.2572 5.24259 20.9998 7.39286 20.9998H8.64994" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.5 8.46907V6.89189C3.5 4.74259 5.24259 3 7.39286 3H8.68205" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.4995 8.46907V6.89189C21.4995 4.74259 19.757 3 17.6067 3H16.3496" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4539 15.1029C19.4539 12.8252 17.6072 10.9785 15.3295 10.9785C13.0518 10.9785 11.2051 12.8252 11.2051 15.1029C11.2051 17.3807 13.0518 19.2264 15.3295 19.2264C17.6072 19.2264 19.4539 17.3807 19.4539 15.1029Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1367 18.124L20.359 20.3424" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Search',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -4014,7 +4435,7 @@ class _SearchSearchScanOutline {
   /// Search scan — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Search scan',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.89286 3.75006C5.15668 3.75006 3.75 5.15699 3.75 6.89195V8.46913C3.75 8.88335 3.41421 9.21913 3 9.21913C2.58579 9.21913 2.25 8.88335 2.25 8.46913V6.89195C2.25 4.32832 4.3285 2.25006 6.89286 2.25006H8.18205C8.59626 2.25006 8.93205 2.58585 8.93205 3.00006C8.93205 3.41427 8.59626 3.75006 8.18205 3.75006H6.89286ZM15.1001 3.00006C15.1001 2.58585 15.4359 2.25006 15.8501 2.25006H17.1071C19.6715 2.25006 21.75 4.32832 21.75 6.89195V8.46913C21.75 8.88335 21.4142 9.21913 21 9.21913C20.5858 9.21913 20.25 8.88335 20.25 8.46913V6.89195C20.25 5.15699 18.8433 3.75006 17.1071 3.75006H15.8501C15.4359 3.75006 15.1001 3.41427 15.1001 3.00006ZM11.6805 8.86671C10.175 8.86671 8.95502 10.0867 8.95502 11.5922C8.95502 13.0976 10.175 14.3176 11.6805 14.3176C12.3828 14.3176 13.0231 14.0521 13.5063 13.6159C13.5088 13.6133 13.5113 13.6107 13.5138 13.6082C13.5301 13.5919 13.5469 13.5765 13.5642 13.5621C14.0829 13.0659 14.4059 12.3668 14.4059 11.5922C14.4059 10.0867 13.1859 8.86671 11.6805 8.86671ZM15.0761 14.1075C15.5975 13.4048 15.9059 12.5345 15.9059 11.5922C15.9059 9.25828 14.0144 7.36671 11.6805 7.36671C9.34658 7.36671 7.45502 9.25828 7.45502 11.5922C7.45502 13.9261 9.34659 15.8176 11.6805 15.8176C12.5299 15.8176 13.3207 15.5671 13.983 15.1358L15.2644 16.4144C15.5576 16.7069 16.0325 16.7064 16.3251 16.4132C16.6176 16.12 16.6171 15.6451 16.3239 15.3525L15.0761 14.1075ZM3 14.7809C3.41421 14.7809 3.75 15.1167 3.75 15.5309V17.1081C3.75 18.843 5.15668 20.2499 6.89286 20.2499H8.14994C8.56415 20.2499 8.89994 20.5857 8.89994 20.9999C8.89994 21.4142 8.56415 21.7499 8.14994 21.7499H6.89286C4.3285 21.7499 2.25 19.6717 2.25 17.1081V15.5309C2.25 15.1167 2.58579 14.7809 3 14.7809ZM20.9998 14.7809C21.414 14.7809 21.7498 15.1167 21.7498 15.5309V17.1081C21.7498 19.6717 19.6713 21.7499 17.1069 21.7499H15.8178C15.4035 21.7499 15.0678 21.4142 15.0678 20.9999C15.0678 20.5857 15.4035 20.2499 15.8178 20.2499H17.1069C18.8431 20.2499 20.2498 18.843 20.2498 17.1081V15.5309C20.2498 15.1167 20.5856 14.7809 20.9998 14.7809Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.89286 3.75006C5.15668 3.75006 3.75 5.15699 3.75 6.89195V8.46913C3.75 8.88335 3.41421 9.21913 3 9.21913C2.58579 9.21913 2.25 8.88335 2.25 8.46913V6.89195C2.25 4.32832 4.3285 2.25006 6.89286 2.25006H8.18205C8.59626 2.25006 8.93205 2.58585 8.93205 3.00006C8.93205 3.41427 8.59626 3.75006 8.18205 3.75006H6.89286ZM15.1001 3.00006C15.1001 2.58585 15.4359 2.25006 15.8501 2.25006H17.1071C19.6715 2.25006 21.75 4.32832 21.75 6.89195V8.46913C21.75 8.88335 21.4142 9.21913 21 9.21913C20.5858 9.21913 20.25 8.88335 20.25 8.46913V6.89195C20.25 5.15699 18.8433 3.75006 17.1071 3.75006H15.8501C15.4359 3.75006 15.1001 3.41427 15.1001 3.00006ZM14.8303 11.7286C12.9668 11.7286 11.4559 13.2395 11.4559 15.103C11.4559 16.9663 12.9665 18.4765 14.8303 18.4765C15.7051 18.4765 16.5021 18.1438 17.1017 17.598C17.103 17.5966 17.1043 17.5953 17.1056 17.594C17.1205 17.579 17.136 17.5648 17.1518 17.5513C17.8003 16.9366 18.2047 16.0671 18.2047 15.103C18.2047 13.2395 16.6938 11.7286 14.8303 11.7286ZM18.6743 18.1002C19.3199 17.2736 19.7047 16.2334 19.7047 15.103C19.7047 12.4111 17.5222 10.2286 14.8303 10.2286C12.1383 10.2286 9.95586 12.4111 9.95586 15.103C9.95586 17.7952 12.1386 19.9765 14.8303 19.9765C15.8504 19.9765 16.7974 19.6632 17.5802 19.1275L19.3288 20.873C19.6219 21.1657 20.0968 21.1653 20.3894 20.8721C20.6821 20.579 20.6817 20.1041 20.3885 19.8115L18.6743 18.1002ZM3 14.7809C3.41421 14.7809 3.75 15.1167 3.75 15.5309V17.1081C3.75 18.843 5.15668 20.2499 6.89286 20.2499H8.14994C8.56415 20.2499 8.89994 20.5857 8.89994 20.9999C8.89994 21.4142 8.56415 21.7499 8.14994 21.7499H6.89286C4.3285 21.7499 2.25 19.6717 2.25 17.1081V15.5309C2.25 15.1167 2.58579 14.7809 3 14.7809Z" fill="black"/> </svg> ',
     category: 'Search',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -4029,7 +4450,7 @@ class _SearchSearchScanBold {
   /// Search scan — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Search scan',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3 9.21951C3.414 9.21951 3.75 8.88351 3.75 8.46951V6.88951C3.75 5.15751 5.16 3.74951 6.893 3.74951H8.182C8.596 3.74951 8.932 3.41351 8.932 2.99951C8.932 2.58551 8.596 2.24951 8.182 2.24951H6.893C4.333 2.24951 2.25 4.33051 2.25 6.88951V8.46951C2.25 8.88351 2.586 9.21951 3 9.21951Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.15037 20.2498H6.89237C5.16037 20.2498 3.75037 18.8418 3.75037 17.1098V15.5298C3.75037 15.1158 3.41437 14.7798 3.00037 14.7798C2.58637 14.7798 2.25037 15.1158 2.25037 15.5298V17.1098C2.25037 19.6688 4.33337 21.7498 6.89237 21.7498H8.15037C8.56437 21.7498 8.90037 21.4138 8.90037 20.9998C8.90037 20.5858 8.56437 20.2498 8.15037 20.2498Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9999 14.78C20.5859 14.78 20.2499 15.116 20.2499 15.53V17.11C20.2499 18.842 18.8409 20.25 17.1079 20.25H15.8179C15.4039 20.25 15.0679 20.586 15.0679 21C15.0679 21.414 15.4039 21.75 15.8179 21.75H17.1079C19.6679 21.75 21.7499 19.669 21.7499 17.11V15.53C21.7499 15.116 21.4139 14.78 20.9999 14.78Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1075 2.24976H15.8495C15.4355 2.24976 15.0995 2.58576 15.0995 2.99976C15.0995 3.41376 15.4355 3.74976 15.8495 3.74976H17.1075C18.8395 3.74976 20.2505 5.15776 20.2505 6.88976V8.46976C20.2505 8.88376 20.5865 9.21976 21.0005 9.21976C21.4145 9.21976 21.7505 8.88376 21.7505 8.46976V6.88976C21.7505 4.33076 19.6675 2.24976 17.1075 2.24976Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4034 7.26001C9.22439 7.26001 7.45239 9.03101 7.45239 11.207C7.45239 13.388 9.22439 15.162 11.4034 15.162C13.5814 15.162 15.3534 13.388 15.3534 11.207C15.3534 9.03101 13.5814 7.26001 11.4034 7.26001Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9909 16.7195C16.1829 16.7195 16.3749 16.6465 16.5219 16.4985C16.8139 16.2055 16.8139 15.7315 16.5209 15.4385L15.6119 14.5315C15.3179 14.2395 14.8429 14.2385 14.5509 14.5325C14.2589 14.8255 14.2589 15.3005 14.5519 15.5935L15.4609 16.5005C15.6079 16.6465 15.7989 16.7195 15.9909 16.7195Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.15 20.25H6.893C5.16 20.25 3.75 18.842 3.75 17.11V15.53C3.75 15.116 3.414 14.78 3 14.78C2.586 14.78 2.25 15.116 2.25 15.53V17.11C2.25 19.669 4.333 21.75 6.893 21.75H8.15C8.564 21.75 8.9 21.414 8.9 21C8.9 20.586 8.564 20.25 8.15 20.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.18224 2.25H6.89324C4.33324 2.25 2.25024 4.331 2.25024 6.89V8.47C2.25024 8.884 2.58624 9.22 3.00024 9.22C3.41424 9.22 3.75024 8.884 3.75024 8.47V6.89C3.75024 5.158 5.16024 3.75 6.89324 3.75H8.18224C8.59624 3.75 8.93224 3.414 8.93224 3C8.93224 2.586 8.59624 2.25 8.18224 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1071 2.25H15.8501C15.4361 2.25 15.1001 2.586 15.1001 3C15.1001 3.414 15.4361 3.75 15.8501 3.75H17.1071C18.8401 3.75 20.2501 5.158 20.2501 6.89V8.47C20.2501 8.884 20.5861 9.22 21.0001 9.22C21.4141 9.22 21.7501 8.884 21.7501 8.47V6.89C21.7501 4.331 19.6671 2.25 17.1071 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9982 10.6689C12.4592 10.6689 10.3942 12.7319 10.3942 15.2689C10.3942 17.8099 12.4592 19.8769 14.9982 19.8769C17.5362 19.8769 19.6012 17.8099 19.6012 15.2689C19.6012 12.7319 17.5362 10.6689 14.9982 10.6689Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.734 19.1563C19.442 18.8633 18.966 18.8633 18.673 19.1563C18.381 19.4493 18.381 19.9253 18.674 20.2173L19.769 21.3093C19.915 21.4563 20.107 21.5293 20.298 21.5293C20.49 21.5293 20.683 21.4563 20.829 21.3093C21.122 21.0163 21.122 20.5413 20.828 20.2493L19.734 19.1563Z" fill="black"/> </svg>',
     category: 'Search',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -4044,6 +4465,114 @@ class _SearchSearchScanLight {
   /// Search scan — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Search scan',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 15.5308V17.1079C3 19.2572 4.74259 20.9998 6.89286 20.9998H8.14994" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 8.46907V6.89189C3 4.74259 4.74259 3 6.89286 3H8.18205" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9995 8.46907V6.89189C20.9995 4.74259 19.257 3 17.1067 3H15.8496" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.9539 15.1029C18.9539 12.8252 17.1072 10.9785 14.8295 10.9785C12.5518 10.9785 10.7051 12.8252 10.7051 15.1029C10.7051 17.3807 12.5518 19.2264 14.8295 19.2264C17.1072 19.2264 18.9539 17.3807 18.9539 15.1029Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.6367 18.124L19.859 20.3424" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search scan 1 icon with style variants.
+class _SearchSearchScan1Icon {
+  const _SearchSearchScan1Icon();
+
+  /// bold style
+  _SearchSearchScan1Bold get bold => const _SearchSearchScan1Bold();
+  /// bulk style
+  _SearchSearchScan1Bulk get bulk => const _SearchSearchScan1Bulk();
+  /// light style
+  _SearchSearchScan1Light get light => const _SearchSearchScan1Light();
+  /// outline style
+  _SearchSearchScan1Outline get outline => const _SearchSearchScan1Outline();
+  /// twoTone style
+  _SearchSearchScan1Twotone get twoTone => const _SearchSearchScan1Twotone();
+  /// broken style
+  _SearchSearchScan1Broken get broken => const _SearchSearchScan1Broken();
+}
+
+/// Search scan 1 — bulk style variants.
+class _SearchSearchScan1Bulk {
+  const _SearchSearchScan1Bulk();
+
+  /// Search scan 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search scan 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.99976 9.21951C3.41376 9.21951 3.74976 8.88351 3.74976 8.46951V6.88951C3.74976 5.15751 5.15976 3.74951 6.89276 3.74951H8.18176C8.59576 3.74951 8.93176 3.41351 8.93176 2.99951C8.93176 2.58551 8.59576 2.24951 8.18176 2.24951H6.89276C4.33276 2.24951 2.24976 4.33051 2.24976 6.88951V8.46951C2.24976 8.88351 2.58576 9.21951 2.99976 9.21951Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.15012 20.2498H6.89212C5.16012 20.2498 3.75012 18.8418 3.75012 17.1098V15.5298C3.75012 15.1158 3.41412 14.7798 3.00012 14.7798C2.58612 14.7798 2.25012 15.1158 2.25012 15.5298V17.1098C2.25012 19.6688 4.33312 21.7498 6.89212 21.7498H8.15012C8.56412 21.7498 8.90012 21.4138 8.90012 20.9998C8.90012 20.5858 8.56412 20.2498 8.15012 20.2498Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9996 14.78C20.5856 14.78 20.2496 15.116 20.2496 15.53V17.11C20.2496 18.842 18.8406 20.25 17.1076 20.25H15.8176C15.4036 20.25 15.0676 20.586 15.0676 21C15.0676 21.414 15.4036 21.75 15.8176 21.75H17.1076C19.6676 21.75 21.7496 19.669 21.7496 17.11V15.53C21.7496 15.116 21.4136 14.78 20.9996 14.78Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1072 2.24976H15.8492C15.4352 2.24976 15.0992 2.58576 15.0992 2.99976C15.0992 3.41376 15.4352 3.74976 15.8492 3.74976H17.1072C18.8392 3.74976 20.2502 5.15776 20.2502 6.88976V8.46976C20.2502 8.88376 20.5862 9.21976 21.0002 9.21976C21.4142 9.21976 21.7502 8.88376 21.7502 8.46976V6.88976C21.7502 4.33076 19.6672 2.24976 17.1072 2.24976Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4031 7.25977C9.22415 7.25977 7.45215 9.03077 7.45215 11.2068C7.45215 13.3878 9.22415 15.1618 11.4031 15.1618C13.5811 15.1618 15.3531 13.3878 15.3531 11.2068C15.3531 9.03077 13.5811 7.25977 11.4031 7.25977Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9907 16.7193C16.1827 16.7193 16.3747 16.6463 16.5217 16.4983C16.8137 16.2053 16.8137 15.7313 16.5207 15.4383L15.6117 14.5313C15.3177 14.2393 14.8427 14.2383 14.5507 14.5323C14.2587 14.8253 14.2587 15.3003 14.5517 15.5933L15.4607 16.5003C15.6077 16.6463 15.7987 16.7193 15.9907 16.7193Z" fill="black"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search scan 1 — broken style variants.
+class _SearchSearchScan1Broken {
+  const _SearchSearchScan1Broken();
+
+  /// Search scan 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search scan 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 8.46907V6.89189C3 4.74259 4.74259 3 6.89286 3H8.18205" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 15.5308V17.1079C3 19.2572 4.74259 20.9998 6.89286 20.9998H8.14994" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0004 15.5308V17.1079C21.0004 19.2572 19.2578 20.9998 17.1075 20.9998H15.8184" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9995 8.46907V6.89189C20.9995 4.74259 19.257 3 17.1067 3H15.8496" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6805 8.1167C13.6002 8.1167 15.156 9.67248 15.156 11.5922C15.156 13.5118 13.6002 15.0676 11.6805 15.0676C9.76086 15.0676 8.20508 13.5118 8.20508 11.5922C8.20508 10.6648 8.56816 9.82233 9.15995 9.19917" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0449 14.1377L15.7943 15.8832" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search scan 1 — twoTone style variants.
+class _SearchSearchScan1Twotone {
+  const _SearchSearchScan1Twotone();
+
+  /// Search scan 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search scan 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3.5 8.46907V6.89189C3.5 4.74259 5.24259 3 7.39286 3H8.68205" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.5 15.5308V17.1079C3.5 19.2572 5.24259 20.9998 7.39286 20.9998H8.64994" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.5004 15.5308V17.1079C21.5004 19.2572 19.7578 20.9998 17.6075 20.9998H16.3184" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.4995 8.46907V6.89189C21.4995 4.74259 19.757 3 17.6067 3H16.3496" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1805 8.1167C14.1002 8.1167 15.656 9.67248 15.656 11.5922C15.656 13.5118 14.1002 15.0676 12.1805 15.0676C10.2609 15.0676 8.70508 13.5118 8.70508 11.5922C8.70508 9.67248 10.2609 8.1167 12.1805 8.1167Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5449 14.1377L16.2943 15.8832" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search scan 1 — outline style variants.
+class _SearchSearchScan1Outline {
+  const _SearchSearchScan1Outline();
+
+  /// Search scan 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search scan 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.89286 3.75006C5.15668 3.75006 3.75 5.15699 3.75 6.89195V8.46913C3.75 8.88335 3.41421 9.21913 3 9.21913C2.58579 9.21913 2.25 8.88335 2.25 8.46913V6.89195C2.25 4.32832 4.3285 2.25006 6.89286 2.25006H8.18205C8.59626 2.25006 8.93205 2.58585 8.93205 3.00006C8.93205 3.41427 8.59626 3.75006 8.18205 3.75006H6.89286ZM15.1001 3.00006C15.1001 2.58585 15.4359 2.25006 15.8501 2.25006H17.1071C19.6715 2.25006 21.75 4.32832 21.75 6.89195V8.46913C21.75 8.88335 21.4142 9.21913 21 9.21913C20.5858 9.21913 20.25 8.88335 20.25 8.46913V6.89195C20.25 5.15699 18.8433 3.75006 17.1071 3.75006H15.8501C15.4359 3.75006 15.1001 3.41427 15.1001 3.00006ZM11.6805 8.86671C10.175 8.86671 8.95502 10.0867 8.95502 11.5922C8.95502 13.0976 10.175 14.3176 11.6805 14.3176C12.3828 14.3176 13.0231 14.0521 13.5063 13.6159C13.5088 13.6133 13.5113 13.6107 13.5138 13.6082C13.5301 13.5919 13.5469 13.5765 13.5642 13.5621C14.0829 13.0659 14.4059 12.3668 14.4059 11.5922C14.4059 10.0867 13.1859 8.86671 11.6805 8.86671ZM15.0761 14.1075C15.5975 13.4048 15.9059 12.5345 15.9059 11.5922C15.9059 9.25828 14.0144 7.36671 11.6805 7.36671C9.34658 7.36671 7.45502 9.25828 7.45502 11.5922C7.45502 13.9261 9.34659 15.8176 11.6805 15.8176C12.5299 15.8176 13.3207 15.5671 13.983 15.1358L15.2644 16.4144C15.5576 16.7069 16.0325 16.7064 16.3251 16.4132C16.6176 16.12 16.6171 15.6451 16.3239 15.3525L15.0761 14.1075ZM3 14.7809C3.41421 14.7809 3.75 15.1167 3.75 15.5309V17.1081C3.75 18.843 5.15668 20.2499 6.89286 20.2499H8.14994C8.56415 20.2499 8.89994 20.5857 8.89994 20.9999C8.89994 21.4142 8.56415 21.7499 8.14994 21.7499H6.89286C4.3285 21.7499 2.25 19.6717 2.25 17.1081V15.5309C2.25 15.1167 2.58579 14.7809 3 14.7809ZM20.9998 14.7809C21.414 14.7809 21.7498 15.1167 21.7498 15.5309V17.1081C21.7498 19.6717 19.6713 21.7499 17.1069 21.7499H15.8178C15.4035 21.7499 15.0678 21.4142 15.0678 20.9999C15.0678 20.5857 15.4035 20.2499 15.8178 20.2499H17.1069C18.8431 20.2499 20.2498 18.843 20.2498 17.1081V15.5309C20.2498 15.1167 20.5856 14.7809 20.9998 14.7809Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search scan 1 — bold style variants.
+class _SearchSearchScan1Bold {
+  const _SearchSearchScan1Bold();
+
+  /// Search scan 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search scan 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3 9.21951C3.414 9.21951 3.75 8.88351 3.75 8.46951V6.88951C3.75 5.15751 5.16 3.74951 6.893 3.74951H8.182C8.596 3.74951 8.932 3.41351 8.932 2.99951C8.932 2.58551 8.596 2.24951 8.182 2.24951H6.893C4.333 2.24951 2.25 4.33051 2.25 6.88951V8.46951C2.25 8.88351 2.586 9.21951 3 9.21951Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.15037 20.2498H6.89237C5.16037 20.2498 3.75037 18.8418 3.75037 17.1098V15.5298C3.75037 15.1158 3.41437 14.7798 3.00037 14.7798C2.58637 14.7798 2.25037 15.1158 2.25037 15.5298V17.1098C2.25037 19.6688 4.33337 21.7498 6.89237 21.7498H8.15037C8.56437 21.7498 8.90037 21.4138 8.90037 20.9998C8.90037 20.5858 8.56437 20.2498 8.15037 20.2498Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9999 14.78C20.5859 14.78 20.2499 15.116 20.2499 15.53V17.11C20.2499 18.842 18.8409 20.25 17.1079 20.25H15.8179C15.4039 20.25 15.0679 20.586 15.0679 21C15.0679 21.414 15.4039 21.75 15.8179 21.75H17.1079C19.6679 21.75 21.7499 19.669 21.7499 17.11V15.53C21.7499 15.116 21.4139 14.78 20.9999 14.78Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1075 2.24976H15.8495C15.4355 2.24976 15.0995 2.58576 15.0995 2.99976C15.0995 3.41376 15.4355 3.74976 15.8495 3.74976H17.1075C18.8395 3.74976 20.2505 5.15776 20.2505 6.88976V8.46976C20.2505 8.88376 20.5865 9.21976 21.0005 9.21976C21.4145 9.21976 21.7505 8.88376 21.7505 8.46976V6.88976C21.7505 4.33076 19.6675 2.24976 17.1075 2.24976Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4034 7.26001C9.22439 7.26001 7.45239 9.03101 7.45239 11.207C7.45239 13.388 9.22439 15.162 11.4034 15.162C13.5814 15.162 15.3534 13.388 15.3534 11.207C15.3534 9.03101 13.5814 7.26001 11.4034 7.26001Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9909 16.7195C16.1829 16.7195 16.3749 16.6465 16.5219 16.4985C16.8139 16.2055 16.8139 15.7315 16.5209 15.4385L15.6119 14.5315C15.3179 14.2395 14.8429 14.2385 14.5509 14.5325C14.2589 14.8255 14.2589 15.3005 14.5519 15.5935L15.4609 16.5005C15.6079 16.6465 15.7989 16.7195 15.9909 16.7195Z" fill="black"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search scan 1 — light style variants.
+class _SearchSearchScan1Light {
+  const _SearchSearchScan1Light();
+
+  /// Search scan 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search scan 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 8.46907V6.89189C3 4.74259 4.74259 3 6.89286 3H8.18205" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 15.5308V17.1079C3 19.2572 4.74259 20.9998 6.89286 20.9998H8.14994" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0004 15.5308V17.1079C21.0004 19.2572 19.2578 20.9998 17.1075 20.9998H15.8184" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9995 8.46907V6.89189C20.9995 4.74259 19.257 3 17.1067 3H15.8496" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6805 8.1167C13.6002 8.1167 15.156 9.67248 15.156 11.5922C15.156 13.5118 13.6002 15.0676 11.6805 15.0676C9.76086 15.0676 8.20508 13.5118 8.20508 11.5922C8.20508 9.67248 9.76086 8.1167 11.6805 8.1167Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0449 14.1377L15.7943 15.8832" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Search',
     style: IconfyStyle.light,
@@ -4352,8 +4881,6 @@ class _SearchSearchMicroscopeIcon {
   _SearchSearchMicroscopeBulk get bulk => const _SearchSearchMicroscopeBulk();
   /// light style
   _SearchSearchMicroscopeLight get light => const _SearchSearchMicroscopeLight();
-  /// outline style
-  _SearchSearchMicroscopeOutline get outline => const _SearchSearchMicroscopeOutline();
   /// twoTone style
   _SearchSearchMicroscopeTwotone get twoTone => const _SearchSearchMicroscopeTwotone();
   /// broken style
@@ -4400,21 +4927,6 @@ class _SearchSearchMicroscopeTwotone {
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.46485 9.50461L7.4375 9.48438" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0983 16.064H14.0742" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5996 9.50439H17.6215" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8345 15.5112L10.3691 16.1631" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8582 11.2261L11.7246 12.3596" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.364 8.11598L9.23047 6.98242" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.03419 13.2026C9.03419 13.7933 8.55547 14.272 7.96485 14.272C7.37423 14.272 6.89648 13.7933 6.89648 13.2026C6.89648 12.612 7.37423 12.1333 7.96485 12.1333C8.55547 12.1333 9.03419 12.612 9.03419 13.2026Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6279 7.45215C15.6279 8.04277 15.1492 8.52149 14.5586 8.52149C13.969 8.52149 13.4902 8.04277 13.4902 7.45215C13.4902 6.86153 13.969 6.38281 14.5586 6.38281C15.1492 6.38281 15.6279 6.86153 15.6279 7.45215Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3447 12.7647C17.3447 13.3553 16.866 13.834 16.2754 13.834C15.6858 13.834 15.207 13.3553 15.207 12.7647C15.207 12.174 15.6858 11.6953 16.2754 11.6953C16.866 11.6953 17.3447 12.174 17.3447 12.7647Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.8613 17.584L21.2863 21.0002M12.1324 3C16.7814 3 20.5499 6.76847 20.5499 11.4175C20.5499 16.0666 16.7814 19.836 12.1324 19.836C7.48331 19.836 3.71484 16.0666 3.71484 11.4175C3.71484 6.76847 7.48331 3 12.1324 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Search',
     style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Search microscope — outline style variants.
-class _SearchSearchMicroscopeOutline {
-  const _SearchSearchMicroscopeOutline();
-
-  /// Search microscope — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Search microscope',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6319 3.75C7.39704 3.75 3.96436 7.18268 3.96436 11.4175C3.96436 15.6525 7.39715 19.086 11.6319 19.086C13.6345 19.086 15.4577 18.3181 16.8234 17.0608C16.8256 17.0586 16.8278 17.0563 16.83 17.0541C16.8459 17.0382 16.8623 17.0232 16.8791 17.009C18.3689 15.61 19.2994 13.6224 19.2994 11.4175C19.2994 7.18268 15.8667 3.75 11.6319 3.75ZM18.4195 17.5803C19.8982 15.9522 20.7994 13.79 20.7994 11.4175C20.7994 6.35426 16.6951 2.25 11.6319 2.25C6.56861 2.25 2.46436 6.35426 2.46436 11.4175C2.46436 16.4807 6.5685 20.586 11.6319 20.586C13.7824 20.586 15.7599 19.8455 17.3234 18.6055L20.2564 21.531C20.5496 21.8235 21.0245 21.8229 21.317 21.5296C21.6095 21.2364 21.6089 20.7615 21.3157 20.469L18.4195 17.5803ZM14.0575 7.13273C13.8825 7.13273 13.7391 7.27522 13.7391 7.45207C13.7391 7.62892 13.8825 7.77141 14.0575 7.77141C14.2339 7.77141 14.3768 7.62847 14.3768 7.45207C14.3768 7.27567 14.2339 7.13273 14.0575 7.13273ZM12.2391 7.45207C12.2391 6.44769 13.0532 5.63273 14.0575 5.63273C15.0623 5.63273 15.8768 6.44724 15.8768 7.45207C15.8768 8.4569 15.0623 9.27141 14.0575 9.27141C13.0532 9.27141 12.2391 8.45646 12.2391 7.45207ZM8.19902 6.45198C8.49191 6.15909 8.96679 6.15909 9.25968 6.45198L10.3932 7.58554C10.6861 7.87843 10.6861 8.35331 10.3932 8.6462C10.1003 8.93909 9.62547 8.93909 9.33258 8.6462L8.19902 7.51264C7.90613 7.21975 7.90613 6.74488 8.19902 6.45198ZM17.9435 9.24667C18.0644 9.64283 17.8413 10.062 17.4452 10.183L17.3177 10.2219C16.9216 10.3429 16.5024 10.1198 16.3814 9.72364C16.2604 9.32748 16.4835 8.90827 16.8797 8.78731L17.0071 8.74839C17.4033 8.62742 17.8225 8.85051 17.9435 9.24667ZM6.20304 9.14635C6.37941 8.77156 6.82621 8.61071 7.201 8.78708L7.28371 8.826C7.6585 9.00237 7.81935 9.44917 7.64298 9.82396C7.46661 10.1988 7.0198 10.3596 6.64501 10.1832L6.56231 10.1443C6.18752 9.96794 6.02667 9.52114 6.20304 9.14635ZM12.8875 10.6956C13.1804 10.9885 13.1804 11.4634 12.8875 11.7563L11.754 12.8898C11.4611 13.1827 10.9862 13.1827 10.6933 12.8898C10.4004 12.5969 10.4004 12.1221 10.6933 11.8292L11.8269 10.6956C12.1198 10.4027 12.5946 10.4027 12.8875 10.6956ZM15.7745 12.4453C15.5995 12.4453 15.4561 12.5878 15.4561 12.7647C15.4561 12.9415 15.5995 13.084 15.7745 13.084C15.9509 13.084 16.0939 12.9411 16.0939 12.7647C16.0939 12.5883 15.9509 12.4453 15.7745 12.4453ZM13.9561 12.7647C13.9561 11.7603 14.7702 10.9453 15.7745 10.9453C16.7793 10.9453 17.5939 11.7598 17.5939 12.7647C17.5939 13.7695 16.7793 14.584 15.7745 14.584C14.7702 14.584 13.9561 13.7691 13.9561 12.7647ZM7.46496 12.8834C7.28945 12.8834 7.1466 13.0254 7.1466 13.2027C7.1466 13.38 7.28945 13.5221 7.46496 13.5221C7.64136 13.5221 7.7843 13.3791 7.7843 13.2027C7.7843 13.0263 7.64136 12.8834 7.46496 12.8834ZM5.64659 13.2027C5.64659 12.1988 6.45924 11.3834 7.46496 11.3834C8.46979 11.3834 9.2843 12.1979 9.2843 13.2027C9.2843 14.2075 8.46979 15.0221 7.46496 15.0221C6.45924 15.0221 5.64659 14.2067 5.64659 13.2027ZM12.0192 15.2065C12.1876 15.5849 12.0173 16.0282 11.6389 16.1966L10.1735 16.8485C9.79505 17.0169 9.35177 16.8465 9.1834 16.4681C9.01503 16.0896 9.18534 15.6464 9.56379 15.478L11.0291 14.8261C11.4076 14.6577 11.8509 14.828 12.0192 15.2065ZM14.4396 16.0423C14.45 16.4564 14.1227 16.8004 13.7086 16.8108L13.5918 16.8137C13.1777 16.8241 12.8337 16.4968 12.8233 16.0827C12.813 15.6686 13.1403 15.3245 13.5543 15.3142L13.6711 15.3113C14.0852 15.3009 14.4293 15.6282 14.4396 16.0423Z" fill="black"/> </svg> ',
-    category: 'Search',
-    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -4676,8 +5188,6 @@ class _SearchSearchNotFoundIcon {
   _SearchSearchNotFoundBulk get bulk => const _SearchSearchNotFoundBulk();
   /// light style
   _SearchSearchNotFoundLight get light => const _SearchSearchNotFoundLight();
-  /// outline style
-  _SearchSearchNotFoundOutline get outline => const _SearchSearchNotFoundOutline();
   /// twoTone style
   _SearchSearchNotFoundTwotone get twoTone => const _SearchSearchNotFoundTwotone();
   /// broken style
@@ -4724,21 +5234,6 @@ class _SearchSearchNotFoundTwotone {
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M9.90137 14.2717C11.1327 13.0403 13.1291 13.0403 14.3605 14.2717" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.549 11.4171C20.549 6.76827 16.7807 3 12.1319 3C7.48312 3 3.71484 6.76827 3.71484 11.4171C3.71484 16.0659 7.48312 19.8351 12.1319 19.8351C16.7807 19.8351 20.549 16.0659 20.549 11.4171Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.8594 17.584L21.2842 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.72656 9.20752H9.74016M14.5237 9.20752H14.5373" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Search',
     style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Search not found — outline style variants.
-class _SearchSearchNotFoundOutline {
-  const _SearchSearchNotFoundOutline();
-
-  /// Search not found — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Search not found',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6324 3.75C7.39782 3.75 3.96533 7.18249 3.96533 11.4171C3.96533 15.6518 7.39793 19.0851 11.6324 19.0851C13.6348 19.0851 15.4578 18.3174 16.8234 17.0603C16.8254 17.0583 16.8273 17.0563 16.8293 17.0543C16.845 17.0386 16.8612 17.0237 16.8778 17.0097C18.3684 15.6107 19.2995 13.6226 19.2995 11.4171C19.2995 7.18249 15.867 3.75 11.6324 3.75ZM18.4189 17.5805C19.898 15.9524 20.7995 13.7899 20.7995 11.4171C20.7995 6.35406 16.6954 2.25 11.6324 2.25C6.56939 2.25 2.46533 6.35406 2.46533 11.4171C2.46533 16.48 6.56928 20.5851 11.6324 20.5851C13.7823 20.5851 15.7593 19.8449 17.3225 18.6056L20.2555 21.531C20.5487 21.8235 21.0236 21.8229 21.3161 21.5297C21.6086 21.2364 21.608 20.7615 21.3148 20.469L18.4189 17.5805ZM8.4 9.20737C8.4 8.79315 8.73579 8.45737 9.15 8.45737H9.15973C9.57395 8.45737 9.90973 8.79315 9.90973 9.20737C9.90973 9.62158 9.57395 9.95737 9.15973 9.95737H9.15C8.73579 9.95737 8.4 9.62158 8.4 9.20737ZM13.2648 9.20737C13.2648 8.79315 13.6006 8.45737 14.0148 8.45737H14.0245C14.4387 8.45737 14.7745 8.79315 14.7745 9.20737C14.7745 9.62158 14.4387 9.95737 14.0245 9.95737H14.0148C13.6006 9.95737 13.2648 9.62158 13.2648 9.20737ZM11.6325 13.9851C10.9766 13.9851 10.3623 14.3091 9.92601 14.8764C9.6735 15.2047 9.20263 15.2662 8.87428 15.0137C8.54593 14.7612 8.48445 14.2903 8.73696 13.962C9.42157 13.0717 10.4554 12.4851 11.6325 12.4851C12.8085 12.4851 13.8436 13.0716 14.5275 13.9625C14.7798 14.291 14.7179 14.7618 14.3893 15.0141C14.0608 15.2663 13.5899 15.2044 13.3377 14.8759C12.9027 14.3093 12.2877 13.9851 11.6325 13.9851Z" fill="black"/> </svg> ',
-    category: 'Search',
-    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -4841,8 +5336,6 @@ class _SearchSearchSettingsIcon {
   _SearchSearchSettingsBulk get bulk => const _SearchSearchSettingsBulk();
   /// light style
   _SearchSearchSettingsLight get light => const _SearchSearchSettingsLight();
-  /// outline style
-  _SearchSearchSettingsOutline get outline => const _SearchSearchSettingsOutline();
   /// twoTone style
   _SearchSearchSettingsTwotone get twoTone => const _SearchSearchSettingsTwotone();
   /// broken style
@@ -4894,21 +5387,6 @@ class _SearchSearchSettingsTwotone {
 
 }
 
-/// Search settings — outline style variants.
-class _SearchSearchSettingsOutline {
-  const _SearchSearchSettingsOutline();
-
-  /// Search settings — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Search settings',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3078 2.25154C13.7005 2.29865 14.7953 3.45928 14.7612 4.85125C14.7656 5.01907 14.8121 5.18061 14.8957 5.32113C14.9011 5.3301 14.9062 5.33918 14.9112 5.34837C15.2054 5.82411 15.8279 5.97892 16.3117 5.69274L16.3199 5.68791C17.5332 4.9908 19.0834 5.40618 19.7848 6.61845L19.7857 6.61993L20.3675 7.63085C20.3808 7.6539 20.3928 7.67757 20.4035 7.70176C21.0448 8.90326 20.6249 10.4039 19.4399 11.0934C19.0819 11.3018 18.6228 11.1804 18.4145 10.8224C18.2061 10.4644 18.3275 10.0053 18.6855 9.79695C19.1788 9.50988 19.3489 8.87908 19.0658 8.38196C19.0554 8.36376 19.0458 8.34517 19.0371 8.32626L18.4865 7.36966C18.4864 7.36945 18.4866 7.36987 18.4865 7.36966C18.1998 6.87496 17.5668 6.70385 17.0704 6.98673C15.8694 7.69347 14.3225 7.29611 13.6112 6.0973C13.605 6.08684 13.5991 6.07624 13.5934 6.0655C13.3787 5.69584 13.2665 5.27923 13.2611 4.85735C13.2609 4.84601 13.2611 4.83467 13.2614 4.82333C13.2801 4.24944 12.8292 3.7687 12.2546 3.7506L12.2407 3.75017C12.2404 3.75016 12.241 3.75017 12.2407 3.75017L12.2328 3.75001L11.0464 3.75C10.4789 3.75 10.0178 4.21108 10.0178 4.7786V4.80166C9.99846 6.19312 8.86362 7.30995 7.47213 7.30719L7.46636 7.30718C7.03428 7.303 6.61106 7.18502 6.23922 6.96609C5.7433 6.6828 5.11005 6.85346 4.82325 7.34857L4.81535 7.3619L4.19507 8.38349C3.91493 8.87957 4.08604 9.5102 4.58003 9.79602C5.36596 10.25 5.85054 11.0878 5.85054 11.9961C5.85054 12.9041 5.36616 13.7438 4.5785 14.1971L4.57734 14.1978C4.0845 14.4802 3.91391 15.1087 4.19645 15.6017C4.20186 15.6111 4.20706 15.6207 4.21205 15.6303L4.78895 16.6247L4.79691 16.6388C5.07214 17.1377 5.6967 17.322 6.19742 17.0554C6.2103 17.0478 6.22269 17.041 6.23444 17.0349C7.43548 16.3535 8.96333 16.765 9.65989 17.9603C9.66486 17.9689 9.66967 17.9775 9.6743 17.9862C9.88903 18.3552 10.0048 18.7744 10.009 19.2015L10.0091 19.2088C10.0091 19.7838 10.4757 20.25 11.0503 20.25H11.8812C12.2954 20.25 12.6312 20.5858 12.6312 21C12.6312 21.4142 12.2954 21.75 11.8812 21.75H11.0503C9.64927 21.75 8.51144 20.6152 8.50903 19.2132C8.50692 19.0468 8.46103 18.882 8.37545 18.7366C8.37277 18.7321 8.36565 18.7201 8.35825 18.7067C8.35708 18.7045 8.35581 18.7022 8.35445 18.6997C8.06521 18.2229 7.44667 18.0644 6.96389 18.3457C6.9545 18.3512 6.94499 18.3565 6.93536 18.3615C5.70913 19.0376 4.16755 18.5934 3.48778 17.3711L2.89992 16.3578C2.89259 16.3451 2.88563 16.3323 2.87905 16.3192C2.20735 15.1122 2.62897 13.5859 3.83091 12.8967C4.15212 12.7116 4.35054 12.3683 4.35054 11.9961C4.35054 11.6243 4.15238 11.2811 3.82951 11.0948C2.61724 10.3933 2.20123 8.84279 2.89833 7.62941L2.90757 7.61378L3.52951 6.58946C4.23266 5.38459 5.77892 4.97033 6.9906 5.66784L6.99841 5.67234C7.14417 5.7586 7.30969 5.80506 7.47803 5.80719C8.04523 5.80676 8.50751 5.35232 8.51778 4.78533V4.7786C8.51778 3.38265 9.65043 2.25 11.0464 2.25L12.2239 2.25C12.2407 2.24999 12.2722 2.24998 12.3078 2.25154ZM9.66279 17.9667C9.6617 17.9648 9.66171 17.9649 9.66279 17.9667V17.9667ZM11.6391 10.2777C10.6859 10.2777 9.91678 11.0466 9.91678 11.999C9.91678 12.7451 10.3963 13.382 11.0728 13.6097C11.4653 13.7419 11.6764 14.1673 11.5443 14.5598C11.4121 14.9524 10.9867 15.1635 10.5942 15.0313C9.32273 14.6033 8.41678 13.4051 8.41678 11.999C8.41678 10.2174 9.85825 8.77766 11.6391 8.77766C13.0451 8.77766 14.2432 9.68346 14.6713 10.9539C14.8036 11.3464 14.5927 11.7718 14.2001 11.9041C13.8076 12.0364 13.3822 11.8254 13.2499 11.4329C13.0222 10.7574 12.3853 10.2777 11.6391 10.2777ZM17.1191 14.5943C15.8684 14.5943 14.8539 15.6082 14.8539 16.8595C14.8539 18.1101 15.8686 19.1248 17.1191 19.1248C17.7073 19.1248 18.243 18.9006 18.6456 18.5332C18.6561 18.5228 18.6669 18.5128 18.6778 18.5032C19.113 18.0904 19.3843 17.5065 19.3843 16.8595C19.3843 15.608 18.3706 14.5943 17.1191 14.5943ZM20.1962 19.0299C20.6297 18.4164 20.8843 17.6676 20.8843 16.8595C20.8843 14.7796 19.199 13.0943 17.1191 13.0943C15.0403 13.0943 13.3539 14.7794 13.3539 16.8595C13.3539 18.9385 15.0401 20.6248 17.1191 20.6248C17.8478 20.6248 18.5281 20.4178 19.1044 20.0595L20.1601 21.1131C20.4533 21.4057 20.9281 21.4053 21.2207 21.1121C21.5133 20.8189 21.5129 20.344 21.2197 20.0514L20.1962 19.0299Z" fill="black"/> </svg> ',
-    category: 'Search',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Search settings — bold style variants.
 class _SearchSearchSettingsBold {
   const _SearchSearchSettingsBold();
@@ -4939,6 +5417,52 @@ class _SearchSearchSettingsLight {
 
 }
 
+/// Search settings 1 icon with style variants.
+class _SearchSearchSettings1Icon {
+  const _SearchSearchSettings1Icon();
+
+  /// outline style
+  _SearchSearchSettings1Outline get outline => const _SearchSearchSettings1Outline();
+}
+
+/// Search settings 1 — outline style variants.
+class _SearchSearchSettings1Outline {
+  const _SearchSearchSettings1Outline();
+
+  /// Search settings 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search settings 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3078 2.25154C13.7005 2.29865 14.7953 3.45928 14.7612 4.85125C14.7656 5.01907 14.8121 5.18061 14.8957 5.32113C14.9011 5.3301 14.9062 5.33918 14.9112 5.34837C15.2054 5.82411 15.8279 5.97892 16.3117 5.69274L16.3199 5.68791C17.5332 4.9908 19.0834 5.40618 19.7848 6.61845L19.7857 6.61993L20.3675 7.63085C20.3808 7.6539 20.3928 7.67757 20.4035 7.70176C21.0448 8.90326 20.6249 10.4039 19.4399 11.0934C19.0819 11.3018 18.6228 11.1804 18.4145 10.8224C18.2061 10.4644 18.3275 10.0053 18.6855 9.79695C19.1788 9.50988 19.3489 8.87908 19.0658 8.38196C19.0554 8.36376 19.0458 8.34517 19.0371 8.32626L18.4865 7.36966C18.4864 7.36945 18.4866 7.36987 18.4865 7.36966C18.1998 6.87496 17.5668 6.70385 17.0704 6.98673C15.8694 7.69347 14.3225 7.29611 13.6112 6.0973C13.605 6.08684 13.5991 6.07624 13.5934 6.0655C13.3787 5.69584 13.2665 5.27923 13.2611 4.85735C13.2609 4.84601 13.2611 4.83467 13.2614 4.82333C13.2801 4.24944 12.8292 3.7687 12.2546 3.7506L12.2407 3.75017C12.2404 3.75016 12.241 3.75017 12.2407 3.75017L12.2328 3.75001L11.0464 3.75C10.4789 3.75 10.0178 4.21108 10.0178 4.7786V4.80166C9.99846 6.19312 8.86362 7.30995 7.47213 7.30719L7.46636 7.30718C7.03428 7.303 6.61106 7.18502 6.23922 6.96609C5.7433 6.6828 5.11005 6.85346 4.82325 7.34857L4.81535 7.3619L4.19507 8.38349C3.91493 8.87957 4.08604 9.5102 4.58003 9.79602C5.36596 10.25 5.85054 11.0878 5.85054 11.9961C5.85054 12.9041 5.36616 13.7438 4.5785 14.1971L4.57734 14.1978C4.0845 14.4802 3.91391 15.1087 4.19645 15.6017C4.20186 15.6111 4.20706 15.6207 4.21205 15.6303L4.78895 16.6247L4.79691 16.6388C5.07214 17.1377 5.6967 17.322 6.19742 17.0554C6.2103 17.0478 6.22269 17.041 6.23444 17.0349C7.43548 16.3535 8.96333 16.765 9.65989 17.9603C9.66486 17.9689 9.66967 17.9775 9.6743 17.9862C9.88903 18.3552 10.0048 18.7744 10.009 19.2015L10.0091 19.2088C10.0091 19.7838 10.4757 20.25 11.0503 20.25H11.8812C12.2954 20.25 12.6312 20.5858 12.6312 21C12.6312 21.4142 12.2954 21.75 11.8812 21.75H11.0503C9.64927 21.75 8.51144 20.6152 8.50903 19.2132C8.50692 19.0468 8.46103 18.882 8.37545 18.7366C8.37277 18.7321 8.36565 18.7201 8.35825 18.7067C8.35708 18.7045 8.35581 18.7022 8.35445 18.6997C8.06521 18.2229 7.44667 18.0644 6.96389 18.3457C6.9545 18.3512 6.94499 18.3565 6.93536 18.3615C5.70913 19.0376 4.16755 18.5934 3.48778 17.3711L2.89992 16.3578C2.89259 16.3451 2.88563 16.3323 2.87905 16.3192C2.20735 15.1122 2.62897 13.5859 3.83091 12.8967C4.15212 12.7116 4.35054 12.3683 4.35054 11.9961C4.35054 11.6243 4.15238 11.2811 3.82951 11.0948C2.61724 10.3933 2.20123 8.84279 2.89833 7.62941L2.90757 7.61378L3.52951 6.58946C4.23266 5.38459 5.77892 4.97033 6.9906 5.66784L6.99841 5.67234C7.14417 5.7586 7.30969 5.80506 7.47803 5.80719C8.04523 5.80676 8.50751 5.35232 8.51778 4.78533V4.7786C8.51778 3.38265 9.65043 2.25 11.0464 2.25L12.2239 2.25C12.2407 2.24999 12.2722 2.24998 12.3078 2.25154ZM9.66279 17.9667C9.6617 17.9648 9.66171 17.9649 9.66279 17.9667V17.9667ZM11.6391 10.2777C10.6859 10.2777 9.91678 11.0466 9.91678 11.999C9.91678 12.7451 10.3963 13.382 11.0728 13.6097C11.4653 13.7419 11.6764 14.1673 11.5443 14.5598C11.4121 14.9524 10.9867 15.1635 10.5942 15.0313C9.32273 14.6033 8.41678 13.4051 8.41678 11.999C8.41678 10.2174 9.85825 8.77766 11.6391 8.77766C13.0451 8.77766 14.2432 9.68346 14.6713 10.9539C14.8036 11.3464 14.5927 11.7718 14.2001 11.9041C13.8076 12.0364 13.3822 11.8254 13.2499 11.4329C13.0222 10.7574 12.3853 10.2777 11.6391 10.2777ZM17.1191 14.5943C15.8684 14.5943 14.8539 15.6082 14.8539 16.8595C14.8539 18.1101 15.8686 19.1248 17.1191 19.1248C17.7073 19.1248 18.243 18.9006 18.6456 18.5332C18.6561 18.5228 18.6669 18.5128 18.6778 18.5032C19.113 18.0904 19.3843 17.5065 19.3843 16.8595C19.3843 15.608 18.3706 14.5943 17.1191 14.5943ZM20.1962 19.0299C20.6297 18.4164 20.8843 17.6676 20.8843 16.8595C20.8843 14.7796 19.199 13.0943 17.1191 13.0943C15.0403 13.0943 13.3539 14.7794 13.3539 16.8595C13.3539 18.9385 15.0401 20.6248 17.1191 20.6248C17.8478 20.6248 18.5281 20.4178 19.1044 20.0595L20.1601 21.1131C20.4533 21.4057 20.9281 21.4053 21.2207 21.1121C21.5133 20.8189 21.5129 20.344 21.2197 20.0514L20.1962 19.0299Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search settings 2 icon with style variants.
+class _SearchSearchSettings21Icon {
+  const _SearchSearchSettings21Icon();
+
+  /// outline style
+  _SearchSearchSettings21Outline get outline => const _SearchSearchSettings21Outline();
+}
+
+/// Search settings 2 — outline style variants.
+class _SearchSearchSettings21Outline {
+  const _SearchSearchSettings21Outline();
+
+  /// Search settings 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search settings 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3078 2.25154C13.7005 2.29865 14.7953 3.45928 14.7612 4.85125C14.7656 5.01907 14.8121 5.18061 14.8957 5.32113C14.9011 5.3301 14.9062 5.33918 14.9112 5.34837C15.2054 5.82411 15.8279 5.97892 16.3117 5.69274L16.3199 5.68791C17.5332 4.9908 19.0834 5.40618 19.7848 6.61845L19.7857 6.61993L20.3675 7.63085C20.3808 7.6539 20.3928 7.67757 20.4035 7.70176C21.0448 8.90326 20.6249 10.4039 19.4399 11.0934C19.0819 11.3018 18.6228 11.1804 18.4145 10.8224C18.2061 10.4644 18.3275 10.0053 18.6855 9.79695C19.1788 9.50988 19.3489 8.87908 19.0658 8.38196C19.0554 8.36376 19.0458 8.34517 19.0371 8.32626L18.4865 7.36966C18.4864 7.36945 18.4866 7.36987 18.4865 7.36966C18.1998 6.87496 17.5668 6.70385 17.0704 6.98673C15.8694 7.69347 14.3225 7.29611 13.6112 6.0973C13.605 6.08684 13.5991 6.07624 13.5934 6.0655C13.3787 5.69584 13.2665 5.27923 13.2611 4.85735C13.2609 4.84601 13.2611 4.83467 13.2614 4.82333C13.2801 4.24944 12.8292 3.7687 12.2546 3.7506L12.2407 3.75017C12.2404 3.75016 12.241 3.75017 12.2407 3.75017L12.2328 3.75001L11.0464 3.75C10.4789 3.75 10.0178 4.21108 10.0178 4.7786V4.80166C9.99846 6.19312 8.86362 7.30995 7.47213 7.30719L7.46636 7.30718C7.03428 7.303 6.61106 7.18502 6.23922 6.96609C5.7433 6.6828 5.11005 6.85346 4.82325 7.34857L4.81535 7.3619L4.19507 8.38349C3.91493 8.87957 4.08604 9.5102 4.58003 9.79602C5.36596 10.25 5.85054 11.0878 5.85054 11.9961C5.85054 12.9041 5.36616 13.7438 4.5785 14.1971L4.57734 14.1978C4.0845 14.4802 3.91391 15.1087 4.19645 15.6017C4.20186 15.6111 4.20706 15.6207 4.21205 15.6303L4.78895 16.6247L4.79691 16.6388C5.07214 17.1377 5.6967 17.322 6.19742 17.0554C6.2103 17.0478 6.22269 17.041 6.23444 17.0349C7.43548 16.3535 8.96333 16.765 9.65989 17.9603C9.66486 17.9689 9.66967 17.9775 9.6743 17.9862C9.88903 18.3552 10.0048 18.7744 10.009 19.2015L10.0091 19.2088C10.0091 19.7838 10.4757 20.25 11.0503 20.25H11.8812C12.2954 20.25 12.6312 20.5858 12.6312 21C12.6312 21.4142 12.2954 21.75 11.8812 21.75H11.0503C9.64927 21.75 8.51144 20.6152 8.50903 19.2132C8.50692 19.0468 8.46103 18.882 8.37545 18.7366C8.37277 18.7321 8.36565 18.7201 8.35825 18.7067C8.35708 18.7045 8.35581 18.7022 8.35445 18.6997C8.06521 18.2229 7.44667 18.0644 6.96389 18.3457C6.9545 18.3512 6.94499 18.3565 6.93536 18.3615C5.70913 19.0376 4.16755 18.5934 3.48778 17.3711L2.89992 16.3578C2.89259 16.3451 2.88563 16.3323 2.87905 16.3192C2.20735 15.1122 2.62897 13.5859 3.83091 12.8967C4.15212 12.7116 4.35054 12.3683 4.35054 11.9961C4.35054 11.6243 4.15238 11.2811 3.82951 11.0948C2.61724 10.3933 2.20123 8.84279 2.89833 7.62941L2.90757 7.61378L3.52951 6.58946C4.23266 5.38459 5.77892 4.97033 6.9906 5.66784L6.99841 5.67234C7.14417 5.7586 7.30969 5.80506 7.47803 5.80719C8.04523 5.80676 8.50751 5.35232 8.51778 4.78533V4.7786C8.51778 3.38265 9.65043 2.25 11.0464 2.25L12.2239 2.25C12.2407 2.24999 12.2722 2.24998 12.3078 2.25154ZM9.66279 17.9667C9.6617 17.9648 9.66171 17.9649 9.66279 17.9667V17.9667ZM11.6391 10.2777C10.6859 10.2777 9.91678 11.0466 9.91678 11.999C9.91678 12.7451 10.3963 13.382 11.0728 13.6097C11.4653 13.7419 11.6764 14.1673 11.5443 14.5598C11.4121 14.9524 10.9867 15.1635 10.5942 15.0313C9.32273 14.6033 8.41678 13.4051 8.41678 11.999C8.41678 10.2174 9.85825 8.77766 11.6391 8.77766C13.0451 8.77766 14.2432 9.68346 14.6713 10.9539C14.8036 11.3464 14.5927 11.7718 14.2001 11.9041C13.8076 12.0364 13.3822 11.8254 13.2499 11.4329C13.0222 10.7574 12.3853 10.2777 11.6391 10.2777ZM17.1191 14.5943C15.8684 14.5943 14.8539 15.6082 14.8539 16.8595C14.8539 18.1101 15.8686 19.1248 17.1191 19.1248C17.7073 19.1248 18.243 18.9006 18.6456 18.5332C18.6561 18.5228 18.6669 18.5128 18.6778 18.5032C19.113 18.0904 19.3843 17.5065 19.3843 16.8595C19.3843 15.608 18.3706 14.5943 17.1191 14.5943ZM20.1962 19.0299C20.6297 18.4164 20.8843 17.6676 20.8843 16.8595C20.8843 14.7796 19.199 13.0943 17.1191 13.0943C15.0403 13.0943 13.3539 14.7794 13.3539 16.8595C13.3539 18.9385 15.0401 20.6248 17.1191 20.6248C17.8478 20.6248 18.5281 20.4178 19.1044 20.0595L20.1601 21.1131C20.4533 21.4057 20.9281 21.4053 21.2207 21.1121C21.5133 20.8189 21.5129 20.344 21.2197 20.0514L20.1962 19.0299Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Search document text icon with style variants.
 class _SearchSearchDocumentTextIcon {
   const _SearchSearchDocumentTextIcon();
@@ -4951,8 +5475,6 @@ class _SearchSearchDocumentTextIcon {
   _SearchSearchDocumentTextLight get light => const _SearchSearchDocumentTextLight();
   /// outline style
   _SearchSearchDocumentTextOutline get outline => const _SearchSearchDocumentTextOutline();
-  /// twoTone style
-  _SearchSearchDocumentTextTwotone get twoTone => const _SearchSearchDocumentTextTwotone();
   /// broken style
   _SearchSearchDocumentTextBroken get broken => const _SearchSearchDocumentTextBroken();
 }
@@ -4982,21 +5504,6 @@ class _SearchSearchDocumentTextBroken {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 16.9705 16.971 20.9995 12.0005 20.9995C8.29003 20.9995 5.1036 18.7542 3.72656 15.5481" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 12C3 7.0295 7.03005 3.00049 12.0005 3.00049" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.2832 9.05715H18.1253M15.2832 5.58887H20.9683" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.585 19.1182L21.3446 22.879" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Search',
     style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Search document text — twoTone style variants.
-class _SearchSearchDocumentTextTwotone {
-  const _SearchSearchDocumentTextTwotone();
-
-  /// Search document text — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Search document text',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M19.7276 11.1001C19.7276 15.5739 16.1012 19.2002 11.6275 19.2002C7.15366 19.2002 3.52734 15.5739 3.52734 11.1001C3.52734 6.62632 7.15366 3 11.6275 3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.4723 19.4852C21.4723 20.3219 20.7941 21.0001 19.9573 21.0001C19.1206 21.0001 18.4414 20.3219 18.4414 19.4852C18.4414 18.6484 19.1206 17.9702 19.9573 17.9702C20.7941 17.9702 21.4723 18.6484 21.4723 19.4852Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2598 8.76647H16.8148M14.2598 5.64893H19.3699" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Search',
-    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -5042,6 +5549,52 @@ class _SearchSearchDocumentTextLight {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.2276 11.1001C19.2276 15.5739 15.6012 19.2002 11.1275 19.2002C6.65366 19.2002 3.02734 15.5739 3.02734 11.1001C3.02734 6.62632 6.65366 3 11.1275 3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9723 19.4852C20.9723 20.3219 20.2941 21.0001 19.4573 21.0001C18.6206 21.0001 17.9414 20.3219 17.9414 19.4852C17.9414 18.6484 18.6206 17.9702 19.4573 17.9702C20.2941 17.9702 20.9723 18.6484 20.9723 19.4852Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.7598 8.76647H16.3148M13.7598 5.64893H18.8699" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Search',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search document text 1 icon with style variants.
+class _SearchSearchDocumentText1Icon {
+  const _SearchSearchDocumentText1Icon();
+
+  /// twoTone style
+  _SearchSearchDocumentText1Twotone get twoTone => const _SearchSearchDocumentText1Twotone();
+}
+
+/// Search document text 1 — twoTone style variants.
+class _SearchSearchDocumentText1Twotone {
+  const _SearchSearchDocumentText1Twotone();
+
+  /// Search document text 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search document text 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M19.7276 11.1001C19.7276 15.5739 16.1012 19.2002 11.6275 19.2002C7.15366 19.2002 3.52734 15.5739 3.52734 11.1001C3.52734 6.62632 7.15366 3 11.6275 3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.4723 19.4852C21.4723 20.3219 20.7941 21.0001 19.9573 21.0001C19.1206 21.0001 18.4414 20.3219 18.4414 19.4852C18.4414 18.6484 19.1206 17.9702 19.9573 17.9702C20.7941 17.9702 21.4723 18.6484 21.4723 19.4852Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2598 8.76647H16.8148M14.2598 5.64893H19.3699" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search document text 2 icon with style variants.
+class _SearchSearchDocumentText2Icon {
+  const _SearchSearchDocumentText2Icon();
+
+  /// twoTone style
+  _SearchSearchDocumentText2Twotone get twoTone => const _SearchSearchDocumentText2Twotone();
+}
+
+/// Search document text 2 — twoTone style variants.
+class _SearchSearchDocumentText2Twotone {
+  const _SearchSearchDocumentText2Twotone();
+
+  /// Search document text 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search document text 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M19.7276 11.1001C19.7276 15.5739 16.1012 19.2002 11.6275 19.2002C7.15366 19.2002 3.52734 15.5739 3.52734 11.1001C3.52734 6.62632 7.15366 3 11.6275 3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.4723 19.4852C21.4723 20.3219 20.7941 21.0001 19.9573 21.0001C19.1206 21.0001 18.4414 20.3219 18.4414 19.4852C18.4414 18.6484 19.1206 17.9702 19.9573 17.9702C20.7941 17.9702 21.4723 18.6484 21.4723 19.4852Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2598 8.76647H16.8148M14.2598 5.64893H19.3699" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -5165,12 +5718,6 @@ class _SearchZoomOutIcon {
   _SearchZoomOutBulk get bulk => const _SearchZoomOutBulk();
   /// light style
   _SearchZoomOutLight get light => const _SearchZoomOutLight();
-  /// outline style
-  _SearchZoomOutOutline get outline => const _SearchZoomOutOutline();
-  /// twoTone style
-  _SearchZoomOutTwotone get twoTone => const _SearchZoomOutTwotone();
-  /// broken style
-  _SearchZoomOutBroken get broken => const _SearchZoomOutBroken();
 }
 
 /// zoom out — bulk style variants.
@@ -5183,51 +5730,6 @@ class _SearchZoomOutBulk {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M11.1353 2.5C6.48533 2.5 2.71533 6.27 2.71533 10.92C2.71533 15.57 6.48533 19.34 11.1353 19.34C15.7753 19.34 19.5453 15.57 19.5453 10.92C19.5453 6.27 15.7753 2.5 11.1353 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.347 11.6714H8.927C8.507 11.6714 8.177 11.3414 8.177 10.9214C8.177 10.5114 8.507 10.1714 8.927 10.1714H13.347C13.757 10.1714 14.097 10.5114 14.097 10.9214C14.097 11.3414 13.757 11.6714 13.347 11.6714Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9893 19.7907L19.0063 17.8117C18.6153 17.4217 17.9813 17.4217 17.5923 17.8137C17.2013 18.2047 17.2023 18.8387 17.5933 19.2287L19.5773 21.2067C19.7723 21.4007 20.0283 21.4987 20.2833 21.4987C20.5393 21.4987 20.7963 21.4007 20.9913 21.2047C21.3813 20.8137 21.3803 20.1807 20.9893 19.7907Z" fill="black"/> </svg>',
     category: 'Search',
     style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// zoom out — broken style variants.
-class _SearchZoomOutBroken {
-  const _SearchZoomOutBroken();
-
-  /// zoom out — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'zoom out',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.40039 11.4175H13.8235" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.21484 11.4171C3.21484 16.0659 6.98312 19.8351 11.6319 19.8351C16.2807 19.8351 20.049 16.0659 20.049 11.4171C20.049 6.76827 16.2807 3 11.6319 3C8.36901 3 5.53989 4.85639 4.14305 7.57067" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3604 17.584L20.7853 21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Search',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// zoom out — twoTone style variants.
-class _SearchZoomOutTwotone {
-  const _SearchZoomOutTwotone();
-
-  /// zoom out — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'zoom out',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1319 3C16.7807 3 20.549 6.76827 20.549 11.4171C20.549 16.0659 16.7807 19.8351 12.1319 19.8351C7.48312 19.8351 3.71484 16.0659 3.71484 11.4171C3.71484 6.76827 7.48312 3 12.1319 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.8604 17.584L21.2842 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.90039 11.4175H14.3235" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Search',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// zoom out — outline style variants.
-class _SearchZoomOutOutline {
-  const _SearchZoomOutOutline();
-
-  /// zoom out — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'zoom out',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6324 3.75C7.39782 3.75 3.96533 7.18249 3.96533 11.4171C3.96533 15.6518 7.39793 19.0851 11.6324 19.0851C13.6405 19.0851 15.4682 18.313 16.835 17.0495C16.8456 17.0392 16.8563 17.0292 16.8673 17.0196C18.364 15.6201 19.2995 13.6278 19.2995 11.4171C19.2995 7.18249 15.867 3.75 11.6324 3.75ZM18.4192 17.5801C19.8982 15.952 20.7995 13.7897 20.7995 11.4171C20.7995 6.35406 16.6954 2.25 11.6324 2.25C6.56939 2.25 2.46533 6.35406 2.46533 11.4171C2.46533 16.48 6.56928 20.5851 11.6324 20.5851C13.7825 20.5851 15.7597 19.8448 17.323 18.6052L20.2554 21.5309C20.5486 21.8235 21.0235 21.823 21.316 21.5297C21.6086 21.2365 21.608 20.7616 21.3148 20.4691L18.4192 17.5801ZM8.6518 11.4174C8.6518 11.0032 8.98758 10.6674 9.4018 10.6674H13.8249C14.2391 10.6674 14.5749 11.0032 14.5749 11.4174C14.5749 11.8316 14.2391 12.1674 13.8249 12.1674H9.4018C8.98758 12.1674 8.6518 11.8316 8.6518 11.4174Z" fill="black"/> </svg> ',
-    category: 'Search',
-    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -5542,6 +6044,63 @@ class _SearchSearchHeartrate2Outline {
 
 }
 
+/// Zoom in icon with style variants.
+class _SearchZoomIn1Icon {
+  const _SearchZoomIn1Icon();
+
+  /// outline style
+  _SearchZoomIn1Outline get outline => const _SearchZoomIn1Outline();
+  /// twoTone style
+  _SearchZoomIn1Twotone get twoTone => const _SearchZoomIn1Twotone();
+  /// broken style
+  _SearchZoomIn1Broken get broken => const _SearchZoomIn1Broken();
+}
+
+/// Zoom in — broken style variants.
+class _SearchZoomIn1Broken {
+  const _SearchZoomIn1Broken();
+
+  /// Zoom in — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Zoom in',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.3613 17.584L20.7852 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.40039 11.4175H13.8235" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6123 9.20605L11.6123 13.6291" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.049 11.4171C20.049 16.0659 16.2807 19.8351 11.6319 19.8351C6.98312 19.8351 3.21484 16.0659 3.21484 11.4171C3.21484 6.76827 6.98312 3 11.6319 3C14.8948 3 17.7239 4.85639 19.1208 7.57067" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Zoom in — twoTone style variants.
+class _SearchZoomIn1Twotone {
+  const _SearchZoomIn1Twotone();
+
+  /// Zoom in — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Zoom in',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.549 11.4171C20.549 6.76827 16.7807 3 12.1319 3C7.48312 3 3.71484 6.76827 3.71484 11.4171C3.71484 16.0659 7.48312 19.8351 12.1319 19.8351C16.7807 19.8351 20.549 16.0659 20.549 11.4171Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.8604 17.584L21.2842 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.91992 11.4175H14.343M12.1309 9.20605L12.1309 13.6291" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Zoom in — outline style variants.
+class _SearchZoomIn1Outline {
+  const _SearchZoomIn1Outline();
+
+  /// Zoom in — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Zoom in',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6324 3.75C7.39782 3.75 3.96533 7.18249 3.96533 11.4171C3.96533 15.6518 7.39793 19.0851 11.6324 19.0851C13.6405 19.0851 15.4682 18.313 16.835 17.0495C16.8456 17.0392 16.8563 17.0292 16.8673 17.0196C18.364 15.6201 19.2995 13.6278 19.2995 11.4171C19.2995 7.18249 15.867 3.75 11.6324 3.75ZM18.4192 17.5801C19.8982 15.952 20.7995 13.7897 20.7995 11.4171C20.7995 6.35406 16.6954 2.25 11.6324 2.25C6.56939 2.25 2.46533 6.35406 2.46533 11.4171C2.46533 16.48 6.56928 20.5851 11.6324 20.5851C13.7825 20.5851 15.7597 19.8448 17.323 18.6052L20.2554 21.5309C20.5486 21.8235 21.0235 21.823 21.316 21.5297C21.6086 21.2365 21.608 20.7616 21.3148 20.4691L18.4192 17.5801ZM11.6318 8.43076C12.046 8.43076 12.3818 8.76655 12.3818 9.18076V10.6674H13.8688C14.283 10.6674 14.6188 11.0032 14.6188 11.4174C14.6188 11.8316 14.283 12.1674 13.8688 12.1674H12.3818V13.6544C12.3818 14.0686 12.046 14.4044 11.6318 14.4044C11.2176 14.4044 10.8818 14.0686 10.8818 13.6544V12.1674H9.39514C8.98093 12.1674 8.64514 11.8316 8.64514 11.4174C8.64514 11.0032 8.98093 10.6674 9.39514 10.6674H10.8818V9.18076C10.8818 8.76655 11.2176 8.43076 11.6318 8.43076Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Search heart love icon with style variants.
 class _SearchSearchHeartLoveIcon {
   const _SearchSearchHeartLoveIcon();
@@ -5720,12 +6279,67 @@ class _SearchSearch3DocumentTextBroken {
 
 }
 
+/// Zoom out icon with style variants.
+class _SearchZoomOut1Icon {
+  const _SearchZoomOut1Icon();
+
+  /// outline style
+  _SearchZoomOut1Outline get outline => const _SearchZoomOut1Outline();
+  /// twoTone style
+  _SearchZoomOut1Twotone get twoTone => const _SearchZoomOut1Twotone();
+  /// broken style
+  _SearchZoomOut1Broken get broken => const _SearchZoomOut1Broken();
+}
+
+/// Zoom out — broken style variants.
+class _SearchZoomOut1Broken {
+  const _SearchZoomOut1Broken();
+
+  /// Zoom out — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Zoom out',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.40039 11.4175H13.8235" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.21484 11.4171C3.21484 16.0659 6.98312 19.8351 11.6319 19.8351C16.2807 19.8351 20.049 16.0659 20.049 11.4171C20.049 6.76827 16.2807 3 11.6319 3C8.36901 3 5.53989 4.85639 4.14305 7.57067" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3604 17.584L20.7853 21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Zoom out — twoTone style variants.
+class _SearchZoomOut1Twotone {
+  const _SearchZoomOut1Twotone();
+
+  /// Zoom out — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Zoom out',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1319 3C16.7807 3 20.549 6.76827 20.549 11.4171C20.549 16.0659 16.7807 19.8351 12.1319 19.8351C7.48312 19.8351 3.71484 16.0659 3.71484 11.4171C3.71484 6.76827 7.48312 3 12.1319 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.8604 17.584L21.2842 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.90039 11.4175H14.3235" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Zoom out — outline style variants.
+class _SearchZoomOut1Outline {
+  const _SearchZoomOut1Outline();
+
+  /// Zoom out — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Zoom out',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6324 3.75C7.39782 3.75 3.96533 7.18249 3.96533 11.4171C3.96533 15.6518 7.39793 19.0851 11.6324 19.0851C13.6405 19.0851 15.4682 18.313 16.835 17.0495C16.8456 17.0392 16.8563 17.0292 16.8673 17.0196C18.364 15.6201 19.2995 13.6278 19.2995 11.4171C19.2995 7.18249 15.867 3.75 11.6324 3.75ZM18.4192 17.5801C19.8982 15.952 20.7995 13.7897 20.7995 11.4171C20.7995 6.35406 16.6954 2.25 11.6324 2.25C6.56939 2.25 2.46533 6.35406 2.46533 11.4171C2.46533 16.48 6.56928 20.5851 11.6324 20.5851C13.7825 20.5851 15.7597 19.8448 17.323 18.6052L20.2554 21.5309C20.5486 21.8235 21.0235 21.823 21.316 21.5297C21.6086 21.2365 21.608 20.7616 21.3148 20.4691L18.4192 17.5801ZM8.6518 11.4174C8.6518 11.0032 8.98758 10.6674 9.4018 10.6674H13.8249C14.2391 10.6674 14.5749 11.0032 14.5749 11.4174C14.5749 11.8316 14.2391 12.1674 13.8249 12.1674H9.4018C8.98758 12.1674 8.6518 11.8316 8.6518 11.4174Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// search discount icon with style variants.
 class _SearchSearchDiscountIcon {
   const _SearchSearchDiscountIcon();
 
-  /// outline style
-  _SearchSearchDiscountOutline get outline => const _SearchSearchDiscountOutline();
   /// broken style
   _SearchSearchDiscountBroken get broken => const _SearchSearchDiscountBroken();
 }
@@ -5745,44 +6359,12 @@ class _SearchSearchDiscountBroken {
 
 }
 
-/// search discount — outline style variants.
-class _SearchSearchDiscountOutline {
-  const _SearchSearchDiscountOutline();
-
-  /// search discount — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'search discount',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6378 3.75C7.40054 3.75 3.96533 7.18521 3.96533 11.4225C3.96533 15.6597 7.40054 19.0949 11.6378 19.0949C13.6102 19.0949 15.4089 18.3506 16.7681 17.1274C16.7874 17.1024 16.8086 17.0783 16.8315 17.0554C16.8683 17.0185 16.9079 16.9862 16.9498 16.9586C18.4046 15.5623 19.3103 13.5981 19.3103 11.4225C19.3103 7.18521 15.8751 3.75 11.6378 3.75ZM18.4282 17.5889C19.9082 15.9601 20.8103 13.7966 20.8103 11.4225C20.8103 6.35678 16.7035 2.25 11.6378 2.25C6.57211 2.25 2.46533 6.35678 2.46533 11.4225C2.46533 16.4882 6.57211 20.5949 11.6378 20.5949C13.7891 20.5949 15.7675 19.8543 17.3318 18.614L20.2554 21.5309C20.5486 21.8235 21.0235 21.823 21.316 21.5297C21.6086 21.2365 21.6081 20.7616 21.3148 20.4691L18.4282 17.5889ZM14.3335 8.72707C14.6264 9.01997 14.6264 9.49484 14.3335 9.78773L10.004 14.1172C9.71112 14.4101 9.23625 14.4101 8.94336 14.1172C8.65046 13.8243 8.65046 13.3494 8.94336 13.0565L13.2728 8.72707C13.5657 8.43418 14.0406 8.43418 14.3335 8.72707ZM8.78069 9.31536C8.78069 8.90115 9.11648 8.56536 9.53069 8.56536H9.5842C9.99842 8.56536 10.3342 8.90115 10.3342 9.31536C10.3342 9.72957 9.99842 10.0654 9.5842 10.0654H9.53069C9.11648 10.0654 8.78069 9.72957 8.78069 9.31536ZM12.9762 13.5272C12.9762 13.113 13.312 12.7772 13.7262 12.7772H13.7953C14.2095 12.7772 14.5453 13.113 14.5453 13.5272C14.5453 13.9414 14.2095 14.2772 13.7953 14.2772H13.7262C13.312 14.2772 12.9762 13.9414 12.9762 13.5272Z" fill="black"/> </svg> ',
-    category: 'Search',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Search icon with style variants.
 class _SearchSearchIcon {
   const _SearchSearchIcon();
 
   /// light style
   _SearchSearchLight get light => const _SearchSearchLight();
-  /// twoTone style
-  _SearchSearchTwotone get twoTone => const _SearchSearchTwotone();
-}
-
-/// Search — twoTone style variants.
-class _SearchSearchTwotone {
-  const _SearchSearchTwotone();
-
-  /// Search — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Search',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.5499 11.4175C20.5499 6.76847 16.7814 3 12.1324 3C7.48331 3 3.71484 6.76847 3.71484 11.4175C3.71484 16.0666 7.48331 19.836 12.1324 19.836C16.7814 19.836 20.5499 16.0666 20.5499 11.4175Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.8604 17.584L21.2853 21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.832 6.74072C15.2302 7.16593 16.3356 8.25375 16.7841 9.64029" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Search',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Search — light style variants.
@@ -5792,9 +6374,101 @@ class _SearchSearchLight {
   /// Search — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Search',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.3606 17.5838L20.7856 21M11.6324 3C16.2814 3 20.0499 6.76847 20.0499 11.4175C20.0499 16.0666 16.2814 19.836 11.6324 19.836C6.98331 19.836 3.21484 16.0666 3.21484 11.4175C3.21484 6.76847 6.98331 3 11.6324 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.332 6.74072C14.7302 7.16593 15.8356 8.25375 16.2841 9.64029" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search 1 icon with style variants.
+class _SearchSearch11Icon {
+  const _SearchSearch11Icon();
+
+  /// light style
+  _SearchSearch11Light get light => const _SearchSearch11Light();
+}
+
+/// Search 1 — light style variants.
+class _SearchSearch11Light {
+  const _SearchSearch11Light();
+
+  /// Search 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.1275 19.2002C15.6012 19.2002 19.2276 15.5739 19.2276 11.1001C19.2276 6.62632 15.6012 3 11.1275 3C6.65366 3 3.02734 6.62632 3.02734 11.1001C3.02734 15.5739 6.65366 19.2002 11.1275 19.2002Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4573 21.0001C20.2941 21.0001 20.9723 20.3219 20.9723 19.4852C20.9723 18.6484 20.2941 17.9702 19.4573 17.9702C18.6206 17.9702 17.9414 18.6484 17.9414 19.4852C17.9414 20.3219 18.6206 21.0001 19.4573 21.0001Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Search',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search 2 icon with style variants.
+class _SearchSearch21Icon {
+  const _SearchSearch21Icon();
+
+  /// light style
+  _SearchSearch21Light get light => const _SearchSearch21Light();
+}
+
+/// Search 2 — light style variants.
+class _SearchSearch21Light {
+  const _SearchSearch21Light();
+
+  /// Search 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6324 3C16.2814 3 20.0499 6.76847 20.0499 11.4175C20.0499 16.0666 16.2814 19.836 11.6324 19.836C6.98331 19.836 3.21484 16.0666 3.21484 11.4175C3.21484 6.76847 6.98331 3 11.6324 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3613 17.584L20.7863 21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search 3 icon with style variants.
+class _SearchSearch31Icon {
+  const _SearchSearch31Icon();
+
+  /// twoTone style
+  _SearchSearch31Twotone get twoTone => const _SearchSearch31Twotone();
+}
+
+/// Search 3 — twoTone style variants.
+class _SearchSearch31Twotone {
+  const _SearchSearch31Twotone();
+
+  /// Search 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.5499 11.4175C20.5499 6.76847 16.7814 3 12.1324 3C7.48331 3 3.71484 6.76847 3.71484 11.4175C3.71484 16.0666 7.48331 19.836 12.1324 19.836C16.7814 19.836 20.5499 16.0666 20.5499 11.4175Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.8604 17.584L21.2853 21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.832 6.74072C15.2302 7.16593 16.3356 8.25375 16.7841 9.64029" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search 4 icon with style variants.
+class _SearchSearch4Icon {
+  const _SearchSearch4Icon();
+
+  /// twoTone style
+  _SearchSearch4Twotone get twoTone => const _SearchSearch4Twotone();
+}
+
+/// Search 4 — twoTone style variants.
+class _SearchSearch4Twotone {
+  const _SearchSearch4Twotone();
+
+  /// Search 4 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.5499 11.4175C20.5499 6.76847 16.7814 3 12.1324 3C7.48331 3 3.71484 6.76847 3.71484 11.4175C3.71484 16.0666 7.48331 19.836 12.1324 19.836C16.7814 19.836 20.5499 16.0666 20.5499 11.4175Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.8604 17.584L21.2853 21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.832 6.74072C15.2302 7.16593 16.3356 8.25375 16.7841 9.64029" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Search',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -5846,6 +6520,121 @@ class _SearchSearchPlusOutline {
 
 }
 
+/// Reload search icon with style variants.
+class _SearchReloadSearch1Icon {
+  const _SearchReloadSearch1Icon();
+
+  /// outline style
+  _SearchReloadSearch1Outline get outline => const _SearchReloadSearch1Outline();
+}
+
+/// Reload search — outline style variants.
+class _SearchReloadSearch1Outline {
+  const _SearchReloadSearch1Outline();
+
+  /// Reload search — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reload search',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.32211 5.2075C10.6025 2.9509 14.9353 3.38763 17.7045 6.0351L7.32211 5.2075ZM17.7045 6.0351L16.0339 6.13346C15.6204 6.1578 15.305 6.51274 15.3293 6.92624C15.3536 7.33974 15.7086 7.65521 16.1221 7.63086L19.2071 7.44923C19.2854 7.45699 19.365 7.45253 19.4428 7.43536L19.5099 7.43141C19.9234 7.40706 20.2389 7.05215 20.2146 6.63866L20.0141 3.23136C19.9898 2.81786 19.6349 2.50237 19.2214 2.5267C18.8079 2.55102 18.4924 2.90594 18.5167 3.31944L18.6052 4.82316C15.3285 1.80798 10.2954 1.3415 6.47197 3.97168C2.04049 7.02017 0.916803 13.0923 3.96543 17.524C7.02011 21.9648 13.0875 23.0788 17.5187 20.0305C20.2637 18.1412 21.7459 15.0985 21.7501 12.0075C21.7506 11.5933 21.4153 11.257 21.0011 11.2565C20.5869 11.2559 20.2506 11.5912 20.2501 12.0054C20.2465 14.6217 18.9926 17.195 16.6686 18.7947C12.9191 21.374 7.78586 20.4313 5.20126 16.6739C2.6223 12.9249 3.57295 7.78661 7.32211 5.2075M11.7283 9.43653C10.505 9.43653 9.51371 10.4279 9.51371 11.6511C9.51371 12.8747 10.5054 13.8667 11.7283 13.8667C12.3034 13.8667 12.8273 13.6474 13.2211 13.2877C13.2308 13.2781 13.2408 13.2689 13.2509 13.2599C13.6771 12.8561 13.9429 12.2847 13.9429 11.6511C13.9429 10.4279 12.9516 9.43653 11.7283 9.43653ZM14.7697 13.7848C15.1939 13.1809 15.4429 12.445 15.4429 11.6511C15.4429 9.59944 13.78 7.93653 11.7283 7.93653C9.67662 7.93653 8.01371 9.59944 8.01371 11.6511C8.01371 13.7025 9.6763 15.3667 11.7283 15.3667C12.4434 15.3667 13.1113 15.1646 13.6779 14.8144L14.709 15.8435C15.0022 16.1361 15.4771 16.1357 15.7697 15.8425C16.0623 15.5493 16.0618 15.0744 15.7687 14.7818L14.7697 13.7848Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search microscope icon with style variants.
+class _SearchSearchMicroscope1Icon {
+  const _SearchSearchMicroscope1Icon();
+
+  /// outline style
+  _SearchSearchMicroscope1Outline get outline => const _SearchSearchMicroscope1Outline();
+}
+
+/// Search microscope — outline style variants.
+class _SearchSearchMicroscope1Outline {
+  const _SearchSearchMicroscope1Outline();
+
+  /// Search microscope — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search microscope',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6319 3.75C7.39704 3.75 3.96436 7.18268 3.96436 11.4175C3.96436 15.6525 7.39715 19.086 11.6319 19.086C13.6345 19.086 15.4577 18.3181 16.8234 17.0608C16.8256 17.0586 16.8278 17.0563 16.83 17.0541C16.8459 17.0382 16.8623 17.0232 16.8791 17.009C18.3689 15.61 19.2994 13.6224 19.2994 11.4175C19.2994 7.18268 15.8667 3.75 11.6319 3.75ZM18.4195 17.5803C19.8982 15.9522 20.7994 13.79 20.7994 11.4175C20.7994 6.35426 16.6951 2.25 11.6319 2.25C6.56861 2.25 2.46436 6.35426 2.46436 11.4175C2.46436 16.4807 6.5685 20.586 11.6319 20.586C13.7824 20.586 15.7599 19.8455 17.3234 18.6055L20.2564 21.531C20.5496 21.8235 21.0245 21.8229 21.317 21.5296C21.6095 21.2364 21.6089 20.7615 21.3157 20.469L18.4195 17.5803ZM14.0575 7.13273C13.8825 7.13273 13.7391 7.27522 13.7391 7.45207C13.7391 7.62892 13.8825 7.77141 14.0575 7.77141C14.2339 7.77141 14.3768 7.62847 14.3768 7.45207C14.3768 7.27567 14.2339 7.13273 14.0575 7.13273ZM12.2391 7.45207C12.2391 6.44769 13.0532 5.63273 14.0575 5.63273C15.0623 5.63273 15.8768 6.44724 15.8768 7.45207C15.8768 8.4569 15.0623 9.27141 14.0575 9.27141C13.0532 9.27141 12.2391 8.45646 12.2391 7.45207ZM8.19902 6.45198C8.49191 6.15909 8.96679 6.15909 9.25968 6.45198L10.3932 7.58554C10.6861 7.87843 10.6861 8.35331 10.3932 8.6462C10.1003 8.93909 9.62547 8.93909 9.33258 8.6462L8.19902 7.51264C7.90613 7.21975 7.90613 6.74488 8.19902 6.45198ZM17.9435 9.24667C18.0644 9.64283 17.8413 10.062 17.4452 10.183L17.3177 10.2219C16.9216 10.3429 16.5024 10.1198 16.3814 9.72364C16.2604 9.32748 16.4835 8.90827 16.8797 8.78731L17.0071 8.74839C17.4033 8.62742 17.8225 8.85051 17.9435 9.24667ZM6.20304 9.14635C6.37941 8.77156 6.82621 8.61071 7.201 8.78708L7.28371 8.826C7.6585 9.00237 7.81935 9.44917 7.64298 9.82396C7.46661 10.1988 7.0198 10.3596 6.64501 10.1832L6.56231 10.1443C6.18752 9.96794 6.02667 9.52114 6.20304 9.14635ZM12.8875 10.6956C13.1804 10.9885 13.1804 11.4634 12.8875 11.7563L11.754 12.8898C11.4611 13.1827 10.9862 13.1827 10.6933 12.8898C10.4004 12.5969 10.4004 12.1221 10.6933 11.8292L11.8269 10.6956C12.1198 10.4027 12.5946 10.4027 12.8875 10.6956ZM15.7745 12.4453C15.5995 12.4453 15.4561 12.5878 15.4561 12.7647C15.4561 12.9415 15.5995 13.084 15.7745 13.084C15.9509 13.084 16.0939 12.9411 16.0939 12.7647C16.0939 12.5883 15.9509 12.4453 15.7745 12.4453ZM13.9561 12.7647C13.9561 11.7603 14.7702 10.9453 15.7745 10.9453C16.7793 10.9453 17.5939 11.7598 17.5939 12.7647C17.5939 13.7695 16.7793 14.584 15.7745 14.584C14.7702 14.584 13.9561 13.7691 13.9561 12.7647ZM7.46496 12.8834C7.28945 12.8834 7.1466 13.0254 7.1466 13.2027C7.1466 13.38 7.28945 13.5221 7.46496 13.5221C7.64136 13.5221 7.7843 13.3791 7.7843 13.2027C7.7843 13.0263 7.64136 12.8834 7.46496 12.8834ZM5.64659 13.2027C5.64659 12.1988 6.45924 11.3834 7.46496 11.3834C8.46979 11.3834 9.2843 12.1979 9.2843 13.2027C9.2843 14.2075 8.46979 15.0221 7.46496 15.0221C6.45924 15.0221 5.64659 14.2067 5.64659 13.2027ZM12.0192 15.2065C12.1876 15.5849 12.0173 16.0282 11.6389 16.1966L10.1735 16.8485C9.79505 17.0169 9.35177 16.8465 9.1834 16.4681C9.01503 16.0896 9.18534 15.6464 9.56379 15.478L11.0291 14.8261C11.4076 14.6577 11.8509 14.828 12.0192 15.2065ZM14.4396 16.0423C14.45 16.4564 14.1227 16.8004 13.7086 16.8108L13.5918 16.8137C13.1777 16.8241 12.8337 16.4968 12.8233 16.0827C12.813 15.6686 13.1403 15.3245 13.5543 15.3142L13.6711 15.3113C14.0852 15.3009 14.4293 15.6282 14.4396 16.0423Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search close icon with style variants.
+class _SearchSearchClose1Icon {
+  const _SearchSearchClose1Icon();
+
+  /// outline style
+  _SearchSearchClose1Outline get outline => const _SearchSearchClose1Outline();
+}
+
+/// Search close — outline style variants.
+class _SearchSearchClose1Outline {
+  const _SearchSearchClose1Outline();
+
+  /// Search close — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search close',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6324 3.75C7.39782 3.75 3.96533 7.18249 3.96533 11.4171C3.96533 15.6518 7.39793 19.0851 11.6324 19.0851C13.6405 19.0851 15.4682 18.313 16.835 17.0495C16.8456 17.0392 16.8563 17.0292 16.8673 17.0196C18.364 15.6201 19.2995 13.6278 19.2995 11.4171C19.2995 7.18249 15.867 3.75 11.6324 3.75ZM18.4192 17.5801C19.8982 15.952 20.7995 13.7897 20.7995 11.4171C20.7995 6.35406 16.6954 2.25 11.6324 2.25C6.56939 2.25 2.46533 6.35406 2.46533 11.4171C2.46533 16.48 6.56928 20.5851 11.6324 20.5851C13.7825 20.5851 15.7597 19.8448 17.323 18.6052L20.2554 21.5309C20.5486 21.8235 21.0235 21.823 21.316 21.5297C21.6086 21.2365 21.608 20.7616 21.3148 20.4691L18.4192 17.5801ZM9.4026 9.18822C9.6955 8.89533 10.1704 8.89533 10.4633 9.18822L11.6317 10.3567L12.8002 9.18822C13.0931 8.89533 13.5679 8.89533 13.8608 9.18822C14.1537 9.48111 14.1537 9.95599 13.8608 10.2489L12.6924 11.4173L13.8608 12.5858C14.1537 12.8787 14.1537 13.3536 13.8608 13.6465C13.5679 13.9393 13.0931 13.9393 12.8002 13.6465L11.6317 12.478L10.4633 13.6465C10.1704 13.9393 9.6955 13.9393 9.4026 13.6465C9.10971 13.3536 9.10971 12.8787 9.4026 12.5858L10.5711 11.4173L9.4026 10.2489C9.10971 9.95599 9.10971 9.48111 9.4026 9.18822Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search not found icon with style variants.
+class _SearchSearchNotFound1Icon {
+  const _SearchSearchNotFound1Icon();
+
+  /// outline style
+  _SearchSearchNotFound1Outline get outline => const _SearchSearchNotFound1Outline();
+}
+
+/// Search not found — outline style variants.
+class _SearchSearchNotFound1Outline {
+  const _SearchSearchNotFound1Outline();
+
+  /// Search not found — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search not found',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6324 3.75C7.39782 3.75 3.96533 7.18249 3.96533 11.4171C3.96533 15.6518 7.39793 19.0851 11.6324 19.0851C13.6348 19.0851 15.4578 18.3174 16.8234 17.0603C16.8254 17.0583 16.8273 17.0563 16.8293 17.0543C16.845 17.0386 16.8612 17.0237 16.8778 17.0097C18.3684 15.6107 19.2995 13.6226 19.2995 11.4171C19.2995 7.18249 15.867 3.75 11.6324 3.75ZM18.4189 17.5805C19.898 15.9524 20.7995 13.7899 20.7995 11.4171C20.7995 6.35406 16.6954 2.25 11.6324 2.25C6.56939 2.25 2.46533 6.35406 2.46533 11.4171C2.46533 16.48 6.56928 20.5851 11.6324 20.5851C13.7823 20.5851 15.7593 19.8449 17.3225 18.6056L20.2555 21.531C20.5487 21.8235 21.0236 21.8229 21.3161 21.5297C21.6086 21.2364 21.608 20.7615 21.3148 20.469L18.4189 17.5805ZM8.4 9.20737C8.4 8.79315 8.73579 8.45737 9.15 8.45737H9.15973C9.57395 8.45737 9.90973 8.79315 9.90973 9.20737C9.90973 9.62158 9.57395 9.95737 9.15973 9.95737H9.15C8.73579 9.95737 8.4 9.62158 8.4 9.20737ZM13.2648 9.20737C13.2648 8.79315 13.6006 8.45737 14.0148 8.45737H14.0245C14.4387 8.45737 14.7745 8.79315 14.7745 9.20737C14.7745 9.62158 14.4387 9.95737 14.0245 9.95737H14.0148C13.6006 9.95737 13.2648 9.62158 13.2648 9.20737ZM11.6325 13.9851C10.9766 13.9851 10.3623 14.3091 9.92601 14.8764C9.6735 15.2047 9.20263 15.2662 8.87428 15.0137C8.54593 14.7612 8.48445 14.2903 8.73696 13.962C9.42157 13.0717 10.4554 12.4851 11.6325 12.4851C12.8085 12.4851 13.8436 13.0716 14.5275 13.9625C14.7798 14.291 14.7179 14.7618 14.3893 15.0141C14.0608 15.2663 13.5899 15.2044 13.3377 14.8759C12.9027 14.3093 12.2877 13.9851 11.6325 13.9851Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Target search icon with style variants.
+class _SearchTargetSearch1Icon {
+  const _SearchTargetSearch1Icon();
+
+  /// outline style
+  _SearchTargetSearch1Outline get outline => const _SearchTargetSearch1Outline();
+}
+
+/// Target search — outline style variants.
+class _SearchTargetSearch1Outline {
+  const _SearchTargetSearch1Outline();
+
+  /// Target search — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Target search',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5083 2.85035C12.5994 2.44628 13.0008 2.19256 13.4049 2.28366C16.8974 3.07107 19.6523 5.81601 20.44 9.31912C20.5309 9.72324 20.2769 10.1245 19.8728 10.2154C19.4687 10.3062 19.0674 10.0523 18.9765 9.64817C18.3164 6.71212 16.0041 4.40732 13.075 3.74694C12.6709 3.65584 12.4172 3.25442 12.5083 2.85035ZM10.2 2.85078C10.2909 3.2549 10.0369 3.65617 9.63279 3.74703C6.696 4.40734 4.39196 6.71138 3.73165 9.64817C3.64079 10.0523 3.23952 10.3062 2.8354 10.2154C2.43127 10.1245 2.17732 9.72324 2.26819 9.31912C3.05566 5.81675 5.80137 3.07104 9.30374 2.28357C9.70786 2.1927 10.1091 2.44665 10.2 2.85078ZM11.4259 9.2763C10.3427 9.2763 9.4652 10.1538 9.4652 11.237C9.4652 12.3202 10.3427 13.1977 11.4259 13.1977C12.5091 13.1977 13.3866 12.3202 13.3866 11.237C13.3866 10.1538 12.5091 9.2763 11.4259 9.2763ZM7.9652 11.237C7.9652 9.32538 9.51429 7.7763 11.4259 7.7763C13.3375 7.7763 14.8866 9.32538 14.8866 11.237C14.8866 13.1486 13.3375 14.6977 11.4259 14.6977C9.51429 14.6977 7.9652 13.1486 7.9652 11.237ZM2.83492 12.5237C3.23899 12.4325 3.64042 12.6862 3.73154 13.0903C4.39194 16.0186 6.69682 18.3318 9.63279 18.9919C10.0369 19.0828 10.2909 19.484 10.2 19.8882C10.1091 20.2923 9.70786 20.5462 9.30374 20.4554C5.80055 19.6677 3.05569 16.9117 2.26829 13.4203C2.17717 13.0162 2.43085 12.6148 2.83492 12.5237ZM19.8733 12.5237C20.2773 12.6148 20.531 13.0162 20.4399 13.4203C20.1042 14.9087 19.4114 16.263 18.4563 17.3882L21.5296 20.4537C21.8228 20.7462 21.8234 21.2211 21.5309 21.5144C21.2384 21.8076 20.7635 21.8082 20.4703 21.5157L17.3974 18.4506C16.2675 19.4162 14.9043 20.1168 13.4051 20.4552C13.001 20.5464 12.5995 20.2929 12.5083 19.8888C12.4171 19.4848 12.6707 19.0833 13.0748 18.9921C16.0034 18.3309 18.3164 16.0177 18.9766 13.0903C19.0678 12.6862 19.4692 12.4325 19.8733 12.5237Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Search remove icon with style variants.
 class _SearchSearchRemoveIcon {
   const _SearchSearchRemoveIcon();
@@ -5869,6 +6658,29 @@ class _SearchSearchRemoveOutline {
 
 }
 
+/// Search info icon with style variants.
+class _SearchSearchInfo1Icon {
+  const _SearchSearchInfo1Icon();
+
+  /// outline style
+  _SearchSearchInfo1Outline get outline => const _SearchSearchInfo1Outline();
+}
+
+/// Search info — outline style variants.
+class _SearchSearchInfo1Outline {
+  const _SearchSearchInfo1Outline();
+
+  /// Search info — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search info',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6319 3.75C7.39704 3.75 3.96436 7.18268 3.96436 11.4175C3.96436 15.6525 7.39715 19.086 11.6319 19.086C13.6345 19.086 15.4577 18.3181 16.8234 17.0608C16.8256 17.0586 16.8278 17.0563 16.83 17.0541C16.8459 17.0382 16.8623 17.0232 16.8791 17.009C18.3689 15.61 19.2994 13.6224 19.2994 11.4175C19.2994 7.18268 15.8667 3.75 11.6319 3.75ZM18.4195 17.5803C19.8982 15.9522 20.7994 13.79 20.7994 11.4175C20.7994 6.35426 16.6951 2.25 11.6319 2.25C6.56861 2.25 2.46436 6.35426 2.46436 11.4175C2.46436 16.4807 6.5685 20.586 11.6319 20.586C13.7824 20.586 15.7599 19.8455 17.3234 18.6055L20.2564 21.531C20.5496 21.8235 21.0245 21.8229 21.317 21.5296C21.6095 21.2364 21.6089 20.7615 21.3157 20.469L18.4195 17.5803ZM11.6275 7.20868C12.0417 7.20868 12.3775 7.54446 12.3775 7.95868V8.03749C12.3775 8.4517 12.0417 8.78749 11.6275 8.78749C11.2133 8.78749 10.8775 8.4517 10.8775 8.03749V7.95868C10.8775 7.54446 11.2133 7.20868 11.6275 7.20868ZM11.6322 10.1006C12.0464 10.1006 12.3822 10.4364 12.3822 10.8506V14.8769C12.3822 15.2911 12.0464 15.6269 11.6322 15.6269C11.218 15.6269 10.8822 15.2911 10.8822 14.8769V10.8506C10.8822 10.4364 11.218 10.1006 11.6322 10.1006Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Search line icon with style variants.
 class _SearchSearchLineIcon {
   const _SearchSearchLineIcon();
@@ -5885,6 +6697,29 @@ class _SearchSearchLineOutline {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Search line',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1275 3.75C7.06788 3.75 3.77734 7.04053 3.77734 11.1001C3.77734 15.1597 7.06788 18.4502 11.1275 18.4502C15.187 18.4502 18.4776 15.1597 18.4776 11.1001C18.4776 7.04053 15.187 3.75 11.1275 3.75ZM2.27734 11.1001C2.27734 6.21211 6.23945 2.25 11.1275 2.25C16.0155 2.25 19.9776 6.21211 19.9776 11.1001C19.9776 15.9881 16.0155 19.9502 11.1275 19.9502C6.23945 19.9502 2.27734 15.9881 2.27734 11.1001ZM8.21788 11.0899C8.21788 10.6756 8.55367 10.3399 8.96788 10.3399H13.2675C13.6817 10.3399 14.0175 10.6756 14.0175 11.0899C14.0175 11.5041 13.6817 11.8399 13.2675 11.8399H8.96788C8.55367 11.8399 8.21788 11.5041 8.21788 11.0899ZM19.4573 18.7201C19.0341 18.7201 18.6914 19.0631 18.6914 19.4851C18.6914 19.907 19.0341 20.25 19.4573 20.25C19.8799 20.25 20.2223 19.9076 20.2223 19.4851C20.2223 19.0625 19.8799 18.7201 19.4573 18.7201ZM17.1914 19.4851C17.1914 18.2334 18.207 17.2201 19.4573 17.2201C20.7083 17.2201 21.7223 18.2341 21.7223 19.4851C21.7223 20.736 20.7083 21.75 19.4573 21.75C18.207 21.75 17.1914 20.7367 17.1914 19.4851Z" fill="black"/> </svg> ',
+    category: 'Search',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Search discount icon with style variants.
+class _SearchSearchDiscount1Icon {
+  const _SearchSearchDiscount1Icon();
+
+  /// outline style
+  _SearchSearchDiscount1Outline get outline => const _SearchSearchDiscount1Outline();
+}
+
+/// Search discount — outline style variants.
+class _SearchSearchDiscount1Outline {
+  const _SearchSearchDiscount1Outline();
+
+  /// Search discount — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Search discount',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6378 3.75C7.40054 3.75 3.96533 7.18521 3.96533 11.4225C3.96533 15.6597 7.40054 19.0949 11.6378 19.0949C13.6102 19.0949 15.4089 18.3506 16.7681 17.1274C16.7874 17.1024 16.8086 17.0783 16.8315 17.0554C16.8683 17.0185 16.9079 16.9862 16.9498 16.9586C18.4046 15.5623 19.3103 13.5981 19.3103 11.4225C19.3103 7.18521 15.8751 3.75 11.6378 3.75ZM18.4282 17.5889C19.9082 15.9601 20.8103 13.7966 20.8103 11.4225C20.8103 6.35678 16.7035 2.25 11.6378 2.25C6.57211 2.25 2.46533 6.35678 2.46533 11.4225C2.46533 16.4882 6.57211 20.5949 11.6378 20.5949C13.7891 20.5949 15.7675 19.8543 17.3318 18.614L20.2554 21.5309C20.5486 21.8235 21.0235 21.823 21.316 21.5297C21.6086 21.2365 21.6081 20.7616 21.3148 20.4691L18.4282 17.5889ZM14.3335 8.72707C14.6264 9.01997 14.6264 9.49484 14.3335 9.78773L10.004 14.1172C9.71112 14.4101 9.23625 14.4101 8.94336 14.1172C8.65046 13.8243 8.65046 13.3494 8.94336 13.0565L13.2728 8.72707C13.5657 8.43418 14.0406 8.43418 14.3335 8.72707ZM8.78069 9.31536C8.78069 8.90115 9.11648 8.56536 9.53069 8.56536H9.5842C9.99842 8.56536 10.3342 8.90115 10.3342 9.31536C10.3342 9.72957 9.99842 10.0654 9.5842 10.0654H9.53069C9.11648 10.0654 8.78069 9.72957 8.78069 9.31536ZM12.9762 13.5272C12.9762 13.113 13.312 12.7772 13.7262 12.7772H13.7953C14.2095 12.7772 14.5453 13.113 14.5453 13.5272C14.5453 13.9414 14.2095 14.2772 13.7953 14.2772H13.7262C13.312 14.2772 12.9762 13.9414 12.9762 13.5272Z" fill="black"/> </svg> ',
     category: 'Search',
     style: IconfyStyle.outline,
     type: IconfyType.regular,

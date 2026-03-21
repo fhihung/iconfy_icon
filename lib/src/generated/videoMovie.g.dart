@@ -24,12 +24,40 @@ class _VideoMovieIcons {
   _VideoMovieRecordVideoIcon get recordVideo => const _VideoMovieRecordVideoIcon();
   /// Cut tweezers
   _VideoMovieCutTweezersIcon get cutTweezers => const _VideoMovieCutTweezersIcon();
+  /// Cut tweezers 1
+  _VideoMovieCutTweezers1Icon get cutTweezers1 => const _VideoMovieCutTweezers1Icon();
   /// Forward 10s
   _VideoMovieForward10sIcon get forward10s => const _VideoMovieForward10sIcon();
+  /// Forward 10s 1
+  _VideoMovieForward10s1Icon get forward10s1 => const _VideoMovieForward10s1Icon();
   /// Screem zoom out
   _VideoMovieScreemZoomOutIcon get screemZoomOut => const _VideoMovieScreemZoomOutIcon();
+  /// Screem zoom out 1
+  _VideoMovieScreemZoomOut1Icon get screemZoomOut1 => const _VideoMovieScreemZoomOut1Icon();
   /// Reload play video
   _VideoMovieReloadPlayVideoIcon get reloadPlayVideo => const _VideoMovieReloadPlayVideoIcon();
+  /// Reload play video 1
+  _VideoMovieReloadPlayVideo1Icon get reloadPlayVideo1 => const _VideoMovieReloadPlayVideo1Icon();
+  /// Reload play video 2
+  _VideoMovieReloadPlayVideo2Icon get reloadPlayVideo2 => const _VideoMovieReloadPlayVideo2Icon();
+  /// Reload play video 3
+  _VideoMovieReloadPlayVideo3Icon get reloadPlayVideo3 => const _VideoMovieReloadPlayVideo3Icon();
+  /// Reload play video 4
+  _VideoMovieReloadPlayVideo4Icon get reloadPlayVideo4 => const _VideoMovieReloadPlayVideo4Icon();
+  /// Reload play video 5
+  _VideoMovieReloadPlayVideo5Icon get reloadPlayVideo5 => const _VideoMovieReloadPlayVideo5Icon();
+  /// Reload play video 6
+  _VideoMovieReloadPlayVideo6Icon get reloadPlayVideo6 => const _VideoMovieReloadPlayVideo6Icon();
+  /// Reload play video 7
+  _VideoMovieReloadPlayVideo7Icon get reloadPlayVideo7 => const _VideoMovieReloadPlayVideo7Icon();
+  /// Reload play video 8
+  _VideoMovieReloadPlayVideo8Icon get reloadPlayVideo8 => const _VideoMovieReloadPlayVideo8Icon();
+  /// Reload play video 9
+  _VideoMovieReloadPlayVideo9Icon get reloadPlayVideo9 => const _VideoMovieReloadPlayVideo9Icon();
+  /// Reload play video 10
+  _VideoMovieReloadPlayVideo10Icon get reloadPlayVideo10 => const _VideoMovieReloadPlayVideo10Icon();
+  /// Reload play video 11
+  _VideoMovieReloadPlayVideo11Icon get reloadPlayVideo11 => const _VideoMovieReloadPlayVideo11Icon();
   /// Video line
   _VideoMovieVideoLineIcon get videoLine => const _VideoMovieVideoLineIcon();
   /// Video chat
@@ -38,6 +66,10 @@ class _VideoMovieIcons {
   _VideoMovieVideoCameraAddIcon get videoCameraAdd => const _VideoMovieVideoCameraAddIcon();
   /// Reels
   _VideoMovieReelsIcon get reels => const _VideoMovieReelsIcon();
+  /// Reels 1
+  _VideoMovieReels1Icon get reels1 => const _VideoMovieReels1Icon();
+  /// Reels 2
+  _VideoMovieReels2Icon get reels2 => const _VideoMovieReels2Icon();
   /// Question Video
   _VideoMovieQuestionVideoIcon get questionVideo => const _VideoMovieQuestionVideoIcon();
   /// TV stand
@@ -48,6 +80,8 @@ class _VideoMovieIcons {
   _VideoMovieZoomInIcon get zoomIn => const _VideoMovieZoomInIcon();
   /// Video slides
   _VideoMovieVideoSlidesIcon get videoSlides => const _VideoMovieVideoSlidesIcon();
+  /// Video slides 1
+  _VideoMovieVideoSlides1Icon get videoSlides1 => const _VideoMovieVideoSlides1Icon();
   /// Video camera play
   _VideoMovieVideoCameraPlayIcon get videoCameraPlay => const _VideoMovieVideoCameraPlayIcon();
   /// Video slide progress
@@ -56,10 +90,16 @@ class _VideoMovieIcons {
   _VideoMovieStoryAddIcon get storyAdd => const _VideoMovieStoryAddIcon();
   /// Backward 15s
   _VideoMovieBackward15sIcon get backward15s => const _VideoMovieBackward15sIcon();
+  /// Backward 15s 1
+  _VideoMovieBackward15s1Icon get backward15s1 => const _VideoMovieBackward15s1Icon();
   /// Video playlist
   _VideoMovieVideoPlaylistIcon get videoPlaylist => const _VideoMovieVideoPlaylistIcon();
+  /// Video playlist 1
+  _VideoMovieVideoPlaylist1Icon get videoPlaylist1 => const _VideoMovieVideoPlaylist1Icon();
   /// Screen Size
   _VideoMovieScreenSizeIcon get screenSize => const _VideoMovieScreenSizeIcon();
+  /// Screen Size 1
+  _VideoMovieScreenSize1Icon get screenSize1 => const _VideoMovieScreenSize1Icon();
   /// 4K format
   _VideoMovieI4kFormatIcon get i4kFormat => const _VideoMovieI4kFormatIcon();
   /// Film check
@@ -68,32 +108,48 @@ class _VideoMovieIcons {
   _VideoMoviePictureInPictureIcon get pictureInPicture => const _VideoMoviePictureInPictureIcon();
   /// Movie
   _VideoMovieMovieIcon get movie => const _VideoMovieMovieIcon();
+  /// Movie 1
+  _VideoMovieMovie1Icon get movie1 => const _VideoMovieMovie1Icon();
   /// Dash up
   _VideoMovieDashUpIcon get dashUp => const _VideoMovieDashUpIcon();
   /// Forward 5s
   _VideoMovieForward5sIcon get forward5s => const _VideoMovieForward5sIcon();
+  /// Forward 5s 1
+  _VideoMovieForward5s1Icon get forward5s1 => const _VideoMovieForward5s1Icon();
   /// Vdeo tv
   _VideoMovieVdeoTvIcon get vdeoTv => const _VideoMovieVdeoTvIcon();
   /// movie reel
   _VideoMovieMovieReelIcon get movieReel => const _VideoMovieMovieReelIcon();
+  /// movie reel 1
+  _VideoMovieMovieReel1Icon get movieReel1 => const _VideoMovieMovieReel1Icon();
   /// Filter effect
   _VideoMovieFilterEffectIcon get filterEffect => const _VideoMovieFilterEffectIcon();
   /// Video camera
   _VideoMovieVideoCameraIcon get videoCamera => const _VideoMovieVideoCameraIcon();
+  /// Video camera 1
+  _VideoMovieVideoCamera1Icon get videoCamera1 => const _VideoMovieVideoCamera1Icon();
   /// Forward 15s
   _VideoMovieForward15sIcon get forward15s => const _VideoMovieForward15sIcon();
+  /// Forward 15s 1
+  _VideoMovieForward15s1Icon get forward15s1 => const _VideoMovieForward15s1Icon();
   /// Video camera disbale
   _VideoMovieVideoCameraDisbaleIcon get videoCameraDisbale => const _VideoMovieVideoCameraDisbaleIcon();
   /// Video cut trim
   _VideoMovieVideoCutTrimIcon get videoCutTrim => const _VideoMovieVideoCutTrimIcon();
+  /// Video cut trim 1
+  _VideoMovieVideoCutTrim1Icon get videoCutTrim1 => const _VideoMovieVideoCutTrim1Icon();
   /// Live tv
   _VideoMovieLiveTvIcon get liveTv => const _VideoMovieLiveTvIcon();
   /// Backward 5s
   _VideoMovieBackward5sIcon get backward5s => const _VideoMovieBackward5sIcon();
+  /// Backward 5s 1
+  _VideoMovieBackward5s1Icon get backward5s1 => const _VideoMovieBackward5s1Icon();
   /// Movie star
   _VideoMovieMovieStarIcon get movieStar => const _VideoMovieMovieStarIcon();
   /// Forward 30s
   _VideoMovieForward30sIcon get forward30s => const _VideoMovieForward30sIcon();
+  /// Forward 30s 1
+  _VideoMovieForward30s1Icon get forward30s1 => const _VideoMovieForward30s1Icon();
   /// Refresh play video
   _VideoMovieRefreshPlayVideoIcon get refreshPlayVideo => const _VideoMovieRefreshPlayVideoIcon();
   /// Hold record
@@ -108,20 +164,32 @@ class _VideoMovieIcons {
   _VideoMovieI4kDisplayIcon get i4kDisplay => const _VideoMovieI4kDisplayIcon();
   /// Loading play
   _VideoMovieLoadingPlayIcon get loadingPlay => const _VideoMovieLoadingPlayIcon();
+  /// Loading play 1
+  _VideoMovieLoadingPlay1Icon get loadingPlay1 => const _VideoMovieLoadingPlay1Icon();
   /// Gif format
   _VideoMovieGifFormatIcon get gifFormat => const _VideoMovieGifFormatIcon();
+  /// Gif format 1
+  _VideoMovieGifFormat1Icon get gifFormat1 => const _VideoMovieGifFormat1Icon();
   /// Camera video
   _VideoMovieCameraVideoIcon get cameraVideo => const _VideoMovieCameraVideoIcon();
   /// Backward 10s
   _VideoMovieBackward10sIcon get backward10s => const _VideoMovieBackward10sIcon();
+  /// Backward 10s 1
+  _VideoMovieBackward10s1Icon get backward10s1 => const _VideoMovieBackward10s1Icon();
   /// Video folder
   _VideoMovieVideoFolderIcon get videoFolder => const _VideoMovieVideoFolderIcon();
   /// Film
   _VideoMovieFilmIcon get film => const _VideoMovieFilmIcon();
+  /// Film 1
+  _VideoMovieFilm1Icon get film1 => const _VideoMovieFilm1Icon();
+  /// Film 2
+  _VideoMovieFilm2Icon get film2 => const _VideoMovieFilm2Icon();
   /// Reels like
   _VideoMovieReelsLikeIcon get reelsLike => const _VideoMovieReelsLikeIcon();
   /// Backward 30s
   _VideoMovieBackward30sIcon get backward30s => const _VideoMovieBackward30sIcon();
+  /// Backward 30s 1
+  _VideoMovieBackward30s1Icon get backward30s1 => const _VideoMovieBackward30s1Icon();
   /// Subtitle explore
   _VideoMovieSubtitleExploreIcon get subtitleExplore => const _VideoMovieSubtitleExploreIcon();
   /// HD display
@@ -1004,6 +1072,114 @@ class _VideoMovieCutTweezersLight {
 
 }
 
+/// Cut tweezers 1 icon with style variants.
+class _VideoMovieCutTweezers1Icon {
+  const _VideoMovieCutTweezers1Icon();
+
+  /// bold style
+  _VideoMovieCutTweezers1Bold get bold => const _VideoMovieCutTweezers1Bold();
+  /// bulk style
+  _VideoMovieCutTweezers1Bulk get bulk => const _VideoMovieCutTweezers1Bulk();
+  /// light style
+  _VideoMovieCutTweezers1Light get light => const _VideoMovieCutTweezers1Light();
+  /// outline style
+  _VideoMovieCutTweezers1Outline get outline => const _VideoMovieCutTweezers1Outline();
+  /// twoTone style
+  _VideoMovieCutTweezers1Twotone get twoTone => const _VideoMovieCutTweezers1Twotone();
+  /// broken style
+  _VideoMovieCutTweezers1Broken get broken => const _VideoMovieCutTweezers1Broken();
+}
+
+/// Cut tweezers 1 — bulk style variants.
+class _VideoMovieCutTweezers1Bulk {
+  const _VideoMovieCutTweezers1Bulk();
+
+  /// Cut tweezers 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Cut tweezers 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.05 2.5H8.61598C5.45698 2.5 3.33398 4.722 3.33398 8.03V15.97C3.33398 19.277 5.45698 21.5 8.61598 21.5H17.049C20.21 21.5 22.334 19.277 22.334 15.97V8.03C22.334 4.722 20.21 2.5 17.05 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.3963 16.7209C18.6773 16.4169 18.6603 15.9419 18.3563 15.6609L14.4113 12.0009L18.3563 8.34094C18.6603 8.05894 18.6773 7.58494 18.3963 7.28094C18.1153 6.97694 17.6383 6.95994 17.3363 7.24094L13.3093 10.9779L11.7723 9.55294C11.8843 9.27294 11.9503 8.96994 11.9503 8.64994C11.9503 7.30594 10.8553 6.21094 9.50931 6.21094C8.16531 6.21094 7.07031 7.30594 7.07031 8.64994C7.07031 9.99594 8.16531 11.0909 9.50931 11.0909C9.98931 11.0909 10.4343 10.9469 10.8113 10.7069L12.2063 12.0009L10.8123 13.2939C10.4343 13.0539 9.98931 12.9099 9.50931 12.9099C8.16531 12.9099 7.07031 14.0049 7.07031 15.3499C7.07031 16.6959 8.16531 17.7909 9.50931 17.7909C10.8553 17.7909 11.9503 16.6959 11.9503 15.3499C11.9503 15.0309 11.8843 14.7279 11.7723 14.4489L13.3093 13.0239L17.3363 16.7609C17.4803 16.8939 17.6643 16.9609 17.8463 16.9609C18.0473 16.9609 18.2493 16.8799 18.3963 16.7209ZM9.50964 14.4101C8.99164 14.4101 8.57064 14.8321 8.57064 15.3501C8.57064 15.8691 8.99164 16.2911 9.50964 16.2911C10.0286 16.2911 10.4496 15.8691 10.4496 15.3501C10.4496 14.8321 10.0286 14.4101 9.50964 14.4101ZM9.51003 7.7109C10.028 7.7109 10.45 8.1319 10.45 8.6499C10.45 9.1689 10.028 9.5899 9.51003 9.5899C8.99203 9.5899 8.57003 9.1689 8.57003 8.6499C8.57003 8.1319 8.99203 7.7109 9.51003 7.7109Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Cut tweezers 1 — broken style variants.
+class _VideoMovieCutTweezers1Broken {
+  const _VideoMovieCutTweezers1Broken();
+
+  /// Cut tweezers 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Cut tweezers 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.083 21H7.86615C4.91804 21 3.08398 18.9188 3.08398 15.9736V8.02638C3.08398 5.08119 4.9268 3 7.86615 3H16.3008C19.249 3 21.084 5.08119 21.084 8.02638V15.9736C21.084 18.9188 19.249 21 16.2999 21H15.6414" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.76134 13.6602C9.69442 13.6602 10.4514 14.4171 10.4514 15.3502C10.4514 16.2843 9.69442 17.0403 8.76134 17.0403C7.82826 17.0403 7.07129 16.2843 7.07129 15.3502C7.07129 14.4171 7.82826 13.6602 8.76134 13.6602Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.76134 6.96094C9.69442 6.96094 10.4514 7.71791 10.4514 8.65099C10.4514 9.58407 9.69442 10.341 8.76134 10.341C7.82826 10.341 7.07129 9.58407 7.07129 8.65099" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0972 16.2055L10.0801 9.69922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0972 7.79297L10.0801 14.2992" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Cut tweezers 1 — twoTone style variants.
+class _VideoMovieCutTweezers1Twotone {
+  const _VideoMovieCutTweezers1Twotone();
+
+  /// Cut tweezers 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Cut tweezers 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.11615 3H16.5508C19.499 3 21.334 5.08119 21.334 8.02638V15.9736C21.334 18.9188 19.499 21 16.5499 21H8.11615C5.16804 21 3.33398 18.9188 3.33398 15.9736V8.02638C3.33398 5.08119 5.1768 3 8.11615 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.01134 13.6602C9.94442 13.6602 10.7014 14.4171 10.7014 15.3502C10.7014 16.2843 9.94442 17.0403 9.01134 17.0403C8.07826 17.0403 7.32129 16.2843 7.32129 15.3502C7.32129 14.4171 8.07826 13.6602 9.01134 13.6602Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.01134 10.341C9.94442 10.341 10.7014 9.58407 10.7014 8.65099C10.7014 7.71791 9.94442 6.96094 9.01134 6.96094C8.07826 6.96094 7.32129 7.71791 7.32129 8.65099C7.32129 9.58407 8.07826 10.341 9.01134 10.341Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3472 16.2055L10.3301 9.69922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3472 7.79297L10.3301 14.2992" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Cut tweezers 1 — outline style variants.
+class _VideoMovieCutTweezers1Outline {
+  const _VideoMovieCutTweezers1Outline();
+
+  /// Cut tweezers 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Cut tweezers 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.7402 3.89737C4.72468 2.84117 6.12669 2.25 7.78216 2.25H16.2169C17.8762 2.25 19.2788 2.84084 20.2629 3.89765C21.2413 4.94841 21.75 6.39889 21.75 8.02638V15.9736C21.75 17.6011 21.2413 19.0516 20.2627 20.1024C19.2785 21.1592 17.8756 21.75 16.2159 21.75H7.78216C6.1228 21.75 4.72038 21.1591 3.73657 20.1023C2.75842 19.0515 2.25 17.601 2.25 15.9736V8.02638C2.25 6.39806 2.76117 4.94771 3.7402 3.89737ZM4.83745 4.92012C4.16024 5.64666 3.75 6.70951 3.75 8.02638V15.9736C3.75 17.2914 4.15861 18.3541 4.83451 19.0802C5.50475 19.8003 6.49341 20.25 7.78216 20.25H16.2159C17.5052 20.25 18.4944 19.8002 19.165 19.0801C19.8412 18.354 20.25 17.2913 20.25 15.9736V8.02638C20.25 6.70868 19.8412 5.64597 19.1651 4.91984C18.4946 4.19975 17.5056 3.75 16.2169 3.75H7.78216C6.49828 3.75 5.50921 4.19943 4.83745 4.92012Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.67638 14.4102C8.15751 14.4102 7.73633 14.8313 7.73633 15.3502C7.73633 15.8698 8.15723 16.2903 8.67638 16.2903C9.19553 16.2903 9.61644 15.8698 9.61644 15.3502C9.61644 14.8313 9.19525 14.4102 8.67638 14.4102ZM6.23633 15.3502C6.23633 14.0029 7.32909 12.9102 8.67638 12.9102C10.0237 12.9102 11.1164 14.0029 11.1164 15.3502C11.1164 16.6988 10.0234 17.7903 8.67638 17.7903C7.32937 17.7903 6.23633 16.6988 6.23633 15.3502Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.23633 8.65099C6.23633 7.3037 7.32909 6.21094 8.67638 6.21094C10.0237 6.21094 11.1164 7.3037 11.1164 8.65099C11.1164 9.99829 10.0237 11.091 8.67638 11.091C7.32909 11.091 6.23633 9.99829 6.23633 8.65099ZM8.67638 7.71094C8.15751 7.71094 7.73633 8.13212 7.73633 8.65099C7.73633 9.16986 8.15751 9.59105 8.67638 9.59105C9.19525 9.59105 9.61644 9.16986 9.61644 8.65099C9.61644 8.13212 9.19525 7.71094 8.67638 7.71094Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.44613 9.18929C9.72776 8.88555 10.2023 8.86762 10.506 9.14925L17.5231 15.6555C17.8269 15.9372 17.8448 16.4117 17.5631 16.7154C17.2815 17.0192 16.807 17.0371 16.5032 16.7555L9.48616 10.2492C9.18242 9.96756 9.1645 9.49303 9.44613 9.18929Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5631 7.28304C17.8448 7.58678 17.8269 8.06131 17.5231 8.34294L10.506 14.8492C10.2023 15.1308 9.72776 15.1129 9.44613 14.8092C9.1645 14.5054 9.18242 14.0309 9.48616 13.7493L16.5032 7.243C16.807 6.96137 17.2815 6.9793 17.5631 7.28304Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Cut tweezers 1 — bold style variants.
+class _VideoMovieCutTweezers1Bold {
+  const _VideoMovieCutTweezers1Bold();
+
+  /// Cut tweezers 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Cut tweezers 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.4497 8.64896C10.4497 8.13096 10.0277 7.70996 9.5097 7.70996C8.9917 7.70996 8.5697 8.13096 8.5697 8.64896C8.5697 9.16796 8.9917 9.58896 9.5097 9.58896C10.0277 9.58896 10.4497 9.16796 10.4497 8.64896Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.50931 14.4092C8.99131 14.4092 8.57031 14.8312 8.57031 15.3492C8.57031 15.8682 8.99131 16.2902 9.50931 16.2902C10.0283 16.2902 10.4493 15.8682 10.4493 15.3492C10.4493 14.8312 10.0283 14.4092 9.50931 14.4092Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.356 15.66C18.66 15.941 18.677 16.416 18.396 16.72C18.249 16.879 18.047 16.96 17.846 16.96C17.664 16.96 17.48 16.893 17.336 16.76L13.309 13.023L11.772 14.448C11.884 14.727 11.95 15.03 11.95 15.349C11.95 16.695 10.855 17.79 9.50898 17.79C8.16498 17.79 7.06998 16.695 7.06998 15.349C7.06998 14.004 8.16498 12.909 9.50898 12.909C9.98898 12.909 10.434 13.053 10.812 13.293L12.206 12L10.811 10.706C10.434 10.946 9.98898 11.09 9.50898 11.09C8.16498 11.09 7.06998 9.995 7.06998 8.649C7.06998 7.305 8.16498 6.21 9.50898 6.21C10.855 6.21 11.95 7.305 11.95 8.649C11.95 8.969 11.884 9.272 11.772 9.552L13.309 10.977L17.336 7.24C17.638 6.959 18.115 6.976 18.396 7.28C18.677 7.584 18.66 8.058 18.356 8.34L14.411 12L18.356 15.66ZM17.05 2.5H8.61598C5.45698 2.5 3.33398 4.722 3.33398 8.03V15.97C3.33398 19.277 5.45698 21.5 8.61598 21.5H17.049C20.21 21.5 22.334 19.277 22.334 15.97V8.03C22.334 4.722 20.21 2.5 17.05 2.5Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Cut tweezers 1 — light style variants.
+class _VideoMovieCutTweezers1Light {
+  const _VideoMovieCutTweezers1Light();
+
+  /// Cut tweezers 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Cut tweezers 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83405 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.67638 13.6602C9.60946 13.6602 10.3664 14.4171 10.3664 15.3502C10.3664 16.2843 9.60946 17.0403 8.67638 17.0403C7.7433 17.0403 6.98633 16.2843 6.98633 15.3502C6.98633 14.4171 7.7433 13.6602 8.67638 13.6602Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.67638 10.341C9.60946 10.341 10.3664 9.58407 10.3664 8.65099C10.3664 7.71791 9.60946 6.96094 8.67638 6.96094C7.7433 6.96094 6.98633 7.71791 6.98633 8.65099C6.98633 9.58407 7.7433 10.341 8.67638 10.341Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0132 16.2055L9.99609 9.69922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0132 7.79297L9.99609 14.2992" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Forward 10s icon with style variants.
 class _VideoMovieForward10sIcon {
   const _VideoMovieForward10sIcon();
@@ -1105,6 +1281,114 @@ class _VideoMovieForward10sLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Forward 10s',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.4977 11.8132C19.3985 7.34336 15.744 3.75018 11.2498 3.75018C6.6934 3.75018 3 7.44455 3 12C3 16.5564 6.6934 20.2498 11.2498 20.2498C14.0666 20.2498 16.5535 18.839 18.0421 16.6839" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.92578 14.6116V9.38672" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1855 14.7134C11.2991 14.7134 10.5801 13.9944 10.5801 13.108V10.8954C10.5801 10.0081 11.2991 9.28906 12.1855 9.28906C13.0719 9.28906 13.7909 10.0081 13.7909 10.8954V13.108C13.7909 13.9944 13.0719 14.7134 12.1855 14.7134Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9998 9.80078L19.7194 12.0211L17.5117 10.7475" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 10s 1 icon with style variants.
+class _VideoMovieForward10s1Icon {
+  const _VideoMovieForward10s1Icon();
+
+  /// bold style
+  _VideoMovieForward10s1Bold get bold => const _VideoMovieForward10s1Bold();
+  /// bulk style
+  _VideoMovieForward10s1Bulk get bulk => const _VideoMovieForward10s1Bulk();
+  /// light style
+  _VideoMovieForward10s1Light get light => const _VideoMovieForward10s1Light();
+  /// outline style
+  _VideoMovieForward10s1Outline get outline => const _VideoMovieForward10s1Outline();
+  /// twoTone style
+  _VideoMovieForward10s1Twotone get twoTone => const _VideoMovieForward10s1Twotone();
+  /// broken style
+  _VideoMovieForward10s1Broken get broken => const _VideoMovieForward10s1Broken();
+}
+
+/// Forward 10s 1 — bulk style variants.
+class _VideoMovieForward10s1Bulk {
+  const _VideoMovieForward10s1Bulk();
+
+  /// Forward 10s 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 10s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.7671 9.42731C18.4821 9.42831 18.2221 9.59131 18.0971 9.84731C17.9711 10.1023 18.0011 10.4073 18.1751 10.6333L19.6641 12.5763C19.6851 12.6033 19.7161 12.6153 19.7401 12.6383C19.7541 12.6533 19.7701 12.6633 19.7861 12.6763C19.8451 12.7273 19.9041 12.7743 19.9751 12.8043C20.0261 12.8273 20.0841 12.8323 20.1401 12.8423C20.1811 12.8493 20.2171 12.8703 20.2601 12.8703C20.2631 12.8703 20.2651 12.8683 20.2681 12.8683C20.2721 12.8683 20.2751 12.8703 20.2781 12.8703C20.5351 12.8703 20.7501 12.7333 20.8861 12.5363L22.3521 10.6213C22.5271 10.3953 22.5561 10.0883 22.4291 9.83231C22.3031 9.57631 22.0421 9.41531 21.7571 9.41531H21.7541L21.0281 9.41831V8.39031C21.0281 5.20731 18.9791 3.07031 15.9301 3.07031H8.26111C5.21111 3.07031 3.16211 5.20731 3.16211 8.39031V15.6113C3.16211 18.7923 5.21211 20.9303 8.26211 20.9303H15.9301C18.9791 20.9303 21.0281 18.7923 21.0281 15.6113C21.0281 15.1973 20.6921 14.8613 20.2781 14.8613C19.8641 14.8613 19.5281 15.1973 19.5281 15.6113C19.5281 17.9313 18.1161 19.4303 15.9301 19.4303H8.26211C6.07511 19.4303 4.66211 17.9313 4.66211 15.6113V8.39031C4.66211 6.07031 6.07511 4.57031 8.26111 4.57031H15.9301C18.1161 4.57031 19.5281 6.07031 19.5281 8.39031V9.42431L18.7671 9.42731Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.32227 9.44336V14.5634C8.32227 14.9774 8.65827 15.3134 9.07227 15.3134C9.48627 15.3134 9.82227 14.9774 9.82227 14.5634V9.44336C9.82227 9.02936 9.48627 8.69336 9.07227 8.69336C8.65827 8.69336 8.32227 9.02936 8.32227 9.44336Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0624 10.9237V13.0837C14.0624 13.5357 13.6944 13.9028 13.2414 13.9028C12.7884 13.9028 12.4194 13.5357 12.4194 13.0837V10.9237C12.4194 10.4657 12.7884 10.0938 13.2414 10.0938C13.6944 10.0938 14.0624 10.4657 14.0624 10.9237ZM10.9194 10.9237V13.0837C10.9194 14.3628 11.9614 15.4028 13.2414 15.4028C14.5214 15.4028 15.5624 14.3628 15.5624 13.0837V10.9237C15.5624 9.63875 14.5214 8.59375 13.2414 8.59375C11.9614 8.59375 10.9194 9.63875 10.9194 10.9237Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 10s 1 — broken style variants.
+class _VideoMovieForward10s1Broken {
+  const _VideoMovieForward10s1Broken();
+
+  /// Forward 10s 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 10s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.25977 14.5564V9.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4288 14.6533C11.5609 14.6533 10.8574 13.9499 10.8574 13.082V10.9161C10.8574 10.0472 11.5609 9.34375 12.4288 9.34375C13.2967 9.34375 14.0002 10.0472 14.0002 10.9161V13.082C14.0002 13.9499 13.2967 14.6533 12.4288 14.6533Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08362 8.38653C3.08362 5.70887 4.75229 3.81641 7.43287 3.81641H15.102C17.7748 3.81641 19.4503 5.70887 19.4503 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4503 15.6111C19.4503 18.2887 17.7826 20.1812 15.102 20.1812H7.43385C4.75229 20.1812 3.08362 18.2887 3.08362 15.6111V12.0273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.084 10.4648L19.4318 12.117L17.7894 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 10s 1 — twoTone style variants.
+class _VideoMovieForward10s1Twotone {
+  const _VideoMovieForward10s1Twotone();
+
+  /// Forward 10s 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 10s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.7006 15.6129C19.7006 18.2905 18.0329 20.183 15.3523 20.183H7.6842C5.00265 20.183 3.33398 18.2905 3.33398 15.6129V8.38652C3.33398 5.70886 5.00265 3.81641 7.68323 3.81641H15.3523C18.0251 3.81641 19.7006 5.70886 19.7006 8.38652V12.1169" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.50977 14.5564V9.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.6788 14.6533C11.8109 14.6533 11.1074 13.9499 11.1074 13.082V10.9161C11.1074 10.0472 11.8109 9.34375 12.6788 9.34375C13.5467 9.34375 14.2502 10.0472 14.2502 10.9161V13.082C14.2502 13.9499 13.5467 14.6533 12.6788 14.6533Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.3336 10.4648L19.6815 12.117L18.0391 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 10s 1 — outline style variants.
+class _VideoMovieForward10s1Outline {
+  const _VideoMovieForward10s1Outline();
+
+  /// Forward 10s 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 10s 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.71828 5.60845C4.11718 6.25397 3.75 7.20262 3.75 8.38652V15.6129C3.75 16.7968 4.11717 17.7454 4.71836 18.3909C5.31394 19.0304 6.19466 19.433 7.35022 19.433H15.0183C16.1733 19.433 17.0535 19.0304 17.6487 18.391C18.2496 17.7456 18.6166 16.7969 18.6166 15.6129C18.6166 15.1987 18.9524 14.8629 19.3666 14.8629C19.7808 14.8629 20.1166 15.1987 20.1166 15.6129C20.1166 17.1065 19.6497 18.4429 18.7466 19.4131C17.8379 20.3893 16.5439 20.933 15.0183 20.933H7.35022C5.82422 20.933 4.52984 20.3894 3.62069 19.4132C2.71716 18.4431 2.25 17.1066 2.25 15.6129V8.38652C2.25 6.89276 2.71716 5.55635 3.62053 4.58623C4.52952 3.61008 5.82366 3.06641 7.34924 3.06641H15.0183C16.5405 3.06641 17.834 3.61039 18.7434 4.58596C19.6472 5.55568 20.1166 6.89196 20.1166 8.38652V12.1169C20.1166 12.5312 19.7808 12.8669 19.3666 12.8669C18.9524 12.8669 18.6166 12.5312 18.6166 12.1169V8.38652C18.6166 7.20342 18.2482 6.25464 17.6461 5.60872C17.0495 4.96865 16.1689 4.56641 15.0183 4.56641H7.34924C6.19426 4.56641 5.31377 4.96897 4.71828 5.60845Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.17578 8.69141C8.58999 8.69141 8.92578 9.02719 8.92578 9.44141V14.5564C8.92578 14.9706 8.58999 15.3064 8.17578 15.3064C7.76157 15.3064 7.42578 14.9706 7.42578 14.5564V9.44141C7.42578 9.02719 7.76157 8.69141 8.17578 8.69141Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3448 10.0938C11.8914 10.0938 11.5234 10.4611 11.5234 10.9161V13.082C11.5234 13.5356 11.8911 13.9033 12.3448 13.9033C12.7985 13.9033 13.1662 13.5356 13.1662 13.082V10.9161C13.1662 10.4611 12.7982 10.0938 12.3448 10.0938ZM10.0234 10.9161C10.0234 9.63331 11.0624 8.59375 12.3448 8.59375C13.6272 8.59375 14.6662 9.63331 14.6662 10.9161V13.082C14.6662 14.3641 13.6269 15.4033 12.3448 15.4033C11.0627 15.4033 10.0234 14.3641 10.0234 13.082V10.9161Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5299 9.93451C21.8228 10.2274 21.8228 10.7023 21.5299 10.9952L19.8778 12.6473C19.5849 12.9402 19.11 12.9402 18.8171 12.6473L17.1747 11.0049C16.8819 10.712 16.8819 10.2371 17.1747 9.94424C17.4676 9.65135 17.9425 9.65135 18.2354 9.94424L19.3475 11.0563L20.4693 9.93451C20.7622 9.64162 21.237 9.64162 21.5299 9.93451Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 10s 1 — bold style variants.
+class _VideoMovieForward10s1Bold {
+  const _VideoMovieForward10s1Bold();
+
+  /// Forward 10s 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 10s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.32227 9.44043V14.5604C8.32227 14.9744 8.65827 15.3104 9.07227 15.3104C9.48627 15.3104 9.82227 14.9744 9.82227 14.5604V9.44043C9.82227 9.02643 9.48627 8.69043 9.07227 8.69043C8.65827 8.69043 8.32227 9.02643 8.32227 9.44043Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0624 10.9208V13.0808C14.0624 13.5328 13.6944 13.8998 13.2414 13.8998C12.7884 13.8998 12.4194 13.5328 12.4194 13.0808V10.9208C12.4194 10.4628 12.7884 10.0908 13.2414 10.0908C13.6944 10.0908 14.0624 10.4628 14.0624 10.9208ZM10.9194 10.9208V13.0808C10.9194 14.3598 11.9614 15.3998 13.2414 15.3998C14.5214 15.3998 15.5624 14.3598 15.5624 13.0808V10.9208C15.5624 9.63582 14.5214 8.59082 13.2414 8.59082C11.9614 8.59082 10.9194 9.63582 10.9194 10.9208Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7671 9.42731C18.4821 9.42831 18.2221 9.59131 18.0971 9.84731C17.9711 10.1023 18.0011 10.4073 18.1751 10.6333L19.6641 12.5763C19.6851 12.6033 19.7161 12.6153 19.7401 12.6383C19.7541 12.6533 19.7701 12.6633 19.7861 12.6763C19.8451 12.7273 19.9041 12.7743 19.9751 12.8043C20.0261 12.8273 20.0841 12.8323 20.1401 12.8423C20.1811 12.8493 20.2171 12.8703 20.2601 12.8703C20.2631 12.8703 20.2651 12.8683 20.2681 12.8683C20.2721 12.8683 20.2751 12.8703 20.2781 12.8703C20.5351 12.8703 20.7501 12.7333 20.8861 12.5363L22.3521 10.6213C22.5271 10.3953 22.5561 10.0883 22.4291 9.83231C22.3031 9.57631 22.0421 9.41531 21.7571 9.41531H21.7541L21.0281 9.41831V8.39031C21.0281 5.20731 18.9791 3.07031 15.9301 3.07031H8.26111C5.21111 3.07031 3.16211 5.20731 3.16211 8.39031V15.6113C3.16211 18.7923 5.21211 20.9303 8.26211 20.9303H15.9301C18.9791 20.9303 21.0281 18.7923 21.0281 15.6113C21.0281 15.1973 20.6921 14.8613 20.2781 14.8613C19.8641 14.8613 19.5281 15.1973 19.5281 15.6113C19.5281 17.9313 18.1161 19.4303 15.9301 19.4303H8.26211C6.07511 19.4303 4.66211 17.9313 4.66211 15.6113V8.39031C4.66211 6.07031 6.07511 4.57031 8.26111 4.57031H15.9301C18.1161 4.57031 19.5281 6.07031 19.5281 8.39031V9.42431L18.7671 9.42731Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 10s 1 — light style variants.
+class _VideoMovieForward10s1Light {
+  const _VideoMovieForward10s1Light();
+
+  /// Forward 10s 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 10s 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.3666 15.6129C19.3666 18.2905 17.6989 20.183 15.0183 20.183H7.35022C4.66867 20.183 3 18.2905 3 15.6129V8.38652C3 5.70886 4.66867 3.81641 7.34924 3.81641H15.0183C17.6911 3.81641 19.3666 5.70886 19.3666 8.38652V12.1169" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.17578 14.5564V9.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3448 14.6533C11.4769 14.6533 10.7734 13.9499 10.7734 13.082V10.9161C10.7734 10.0472 11.4769 9.34375 12.3448 9.34375C13.2127 9.34375 13.9162 10.0472 13.9162 10.9161V13.082C13.9162 13.9499 13.2127 14.6533 12.3448 14.6533Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9996 10.4648L19.3475 12.117L17.7051 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -1220,32 +1504,32 @@ class _VideoMovieScreemZoomOutLight {
 
 }
 
-/// Reload play video icon with style variants.
-class _VideoMovieReloadPlayVideoIcon {
-  const _VideoMovieReloadPlayVideoIcon();
+/// Screem zoom out 1 icon with style variants.
+class _VideoMovieScreemZoomOut1Icon {
+  const _VideoMovieScreemZoomOut1Icon();
 
   /// bold style
-  _VideoMovieReloadPlayVideoBold get bold => const _VideoMovieReloadPlayVideoBold();
+  _VideoMovieScreemZoomOut1Bold get bold => const _VideoMovieScreemZoomOut1Bold();
   /// bulk style
-  _VideoMovieReloadPlayVideoBulk get bulk => const _VideoMovieReloadPlayVideoBulk();
+  _VideoMovieScreemZoomOut1Bulk get bulk => const _VideoMovieScreemZoomOut1Bulk();
   /// light style
-  _VideoMovieReloadPlayVideoLight get light => const _VideoMovieReloadPlayVideoLight();
+  _VideoMovieScreemZoomOut1Light get light => const _VideoMovieScreemZoomOut1Light();
   /// outline style
-  _VideoMovieReloadPlayVideoOutline get outline => const _VideoMovieReloadPlayVideoOutline();
+  _VideoMovieScreemZoomOut1Outline get outline => const _VideoMovieScreemZoomOut1Outline();
   /// twoTone style
-  _VideoMovieReloadPlayVideoTwotone get twoTone => const _VideoMovieReloadPlayVideoTwotone();
+  _VideoMovieScreemZoomOut1Twotone get twoTone => const _VideoMovieScreemZoomOut1Twotone();
   /// broken style
-  _VideoMovieReloadPlayVideoBroken get broken => const _VideoMovieReloadPlayVideoBroken();
+  _VideoMovieScreemZoomOut1Broken get broken => const _VideoMovieScreemZoomOut1Broken();
 }
 
-/// Reload play video — bulk style variants.
-class _VideoMovieReloadPlayVideoBulk {
-  const _VideoMovieReloadPlayVideoBulk();
+/// Screem zoom out 1 — bulk style variants.
+class _VideoMovieScreemZoomOut1Bulk {
+  const _VideoMovieScreemZoomOut1Bulk();
 
-  /// Reload play video — bulk / regular
+  /// Screem zoom out 1 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Reload play video',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.58398 11.99C4.59198 7.446 8.29498 3.75 12.839 3.75C14.265 3.75 15.646 4.134 16.877 4.832C16.788 5.087 16.73 5.355 16.73 5.639C16.73 6.996 17.836 8.099 19.197 8.099C20.557 8.099 21.663 6.996 21.663 5.639C21.663 4.278 20.557 3.17 19.197 3.17C18.67 3.17 18.184 3.339 17.783 3.622C16.286 2.734 14.589 2.25 12.839 2.25C7.46998 2.25 3.09298 6.618 3.08398 11.988C3.08398 12.402 3.41798 12.738 3.83298 12.739C4.24698 12.739 4.58398 12.404 4.58398 11.99Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.833 11.25C21.419 11.25 21.083 11.586 21.083 12C21.083 16.549 17.384 20.25 12.838 20.25C11.428 20.25 10.063 19.873 8.84397 19.191C8.95697 18.908 9.02297 18.602 9.02297 18.28C9.02297 16.918 7.91597 15.81 6.55597 15.81C5.19597 15.81 4.08997 16.918 4.08997 18.28C4.08997 19.642 5.19597 20.75 6.55597 20.75C7.03897 20.75 7.48697 20.605 7.86797 20.364C9.36997 21.262 11.077 21.75 12.838 21.75C18.211 21.75 22.583 17.376 22.583 12C22.583 11.586 22.247 11.25 21.833 11.25Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3542 8.7949C10.8962 9.0559 10.6042 9.5139 10.5282 10.0929C10.3922 11.2909 10.3912 12.5619 10.5282 13.8809C10.5992 14.4529 10.8832 14.9129 11.3262 15.1769C11.5782 15.3259 11.8632 15.4009 12.1652 15.4009C12.4162 15.4009 12.6802 15.3489 12.9452 15.2439C13.9822 14.8259 14.9812 14.1989 15.8352 13.4319L15.8382 13.4289C16.2782 13.0259 16.5202 12.5149 16.5192 11.9859C16.5182 11.4589 16.2752 10.9489 15.8382 10.5509C15.0102 9.7939 14.0382 9.1839 12.9542 8.7399C12.4072 8.5069 11.8232 8.5259 11.3542 8.7949Z" fill="black"/> </svg>',
+    name: 'Screem zoom out 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.834 14.4092H19.324C17.076 14.4092 15.248 16.2392 15.248 18.4892V21.0002C15.248 21.5532 15.695 22.0002 16.248 22.0002C16.801 22.0002 17.248 21.5532 17.248 21.0002V18.4892C17.248 17.3432 18.18 16.4092 19.324 16.4092H21.834C22.387 16.4092 22.834 15.9622 22.834 15.4092C22.834 14.8562 22.387 14.4092 21.834 14.4092Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.41998 2C8.86698 2 8.41998 2.447 8.41998 3V5.51C8.41998 6.656 7.48798 7.59 6.34398 7.59H3.83398C3.28098 7.59 2.83398 8.037 2.83398 8.59C2.83398 9.143 3.28098 9.59 3.83398 9.59H6.34398C8.59198 9.59 10.42 7.76 10.42 5.51V3C10.42 2.447 9.97298 2 9.41998 2Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.34398 14.4092H3.83398C3.28098 14.4092 2.83398 14.8562 2.83398 15.4092C2.83398 15.9622 3.28098 16.4092 3.83398 16.4092H6.34398C7.48898 16.4092 8.41998 17.3432 8.41998 18.4892V21.0002C8.41998 21.5532 8.86698 22.0002 9.41998 22.0002C9.97298 22.0002 10.42 21.5532 10.42 21.0002V18.4892C10.42 16.2392 8.59198 14.4092 6.34398 14.4092Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.3245 9.59H21.8345C22.3875 9.59 22.8345 9.143 22.8345 8.59C22.8345 8.037 22.3875 7.59 21.8345 7.59H19.3245C18.1795 7.59 17.2485 6.656 17.2485 5.51V3C17.2485 2.447 16.8015 2 16.2485 2C15.6955 2 15.2485 2.447 15.2485 3V5.51C15.2485 7.76 17.0765 9.59 19.3245 9.59Z" fill="black"/> </g> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -1253,19 +1537,87 @@ class _VideoMovieReloadPlayVideoBulk {
 
 }
 
-/// Reload play video — broken style variants.
-class _VideoMovieReloadPlayVideoBroken {
-  const _VideoMovieReloadPlayVideoBroken();
+/// Screem zoom out 1 — broken style variants.
+class _VideoMovieScreemZoomOut1Broken {
+  const _VideoMovieScreemZoomOut1Broken();
 
-  /// Reload play video — broken / regular
+  /// Screem zoom out 1 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Reload play video',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.84082 18.2789C3.84082 19.3647 4.72136 20.2452 5.80719 20.2452C6.89303 20.2452 7.77356 19.3647 7.77356 18.2789C7.77356 17.193 6.89303 16.3125 5.80719 16.3125C4.72136 16.3125 3.84082 17.193 3.84082 18.2789Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4795 5.63825C16.4795 6.72408 17.36 7.60462 18.4459 7.60462C19.5317 7.60462 20.4122 6.72408 20.4122 5.63825C20.4122 4.55241 19.5317 3.67188 18.4459 3.67188C17.36 3.67188 16.4795 4.55241 16.4795 5.63825Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0889 3C13.8665 3 15.5244 3.51762 16.9138 4.40691" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08398 11.9866C3.09002 8.56182 5.0001 5.59161 7.81312 4.07422" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.084 11.9961C21.084 14.6935 19.9003 17.1139 18.0234 18.764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.2627 19.5938C8.6521 20.483 10.31 21.0007 12.0886 21.0007C13.2918 21.0007 14.4394 20.7646 15.4878 20.3363" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7523 13.0579C13.9963 13.7429 13.0505 14.3588 12.0104 14.7781C11.125 15.1264 10.3836 14.6915 10.2756 13.8197C10.1423 12.5335 10.1453 11.3027 10.2756 10.1536C10.3943 9.24678 11.2107 8.86245 12.0104 9.19813C13.035 9.61748 13.9535 10.1867 14.7523 10.9193C15.4343 11.5371 15.4509 12.4157 14.7523 13.0579Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    name: 'Screem zoom out 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.66989 21V18.4887C8.66989 16.7908 7.29311 15.4141 5.59428 15.4141H3.08398" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.498 21V18.4887C15.498 16.7908 16.8748 15.4141 18.5736 15.4141H21.0839" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.66989 3V5.51127C8.66989 7.2101 7.29311 8.58687 5.59428 8.58687H3.08398" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.498 3V5.51127C15.498 7.2101 16.8748 8.58687 18.5736 8.58687H21.0839" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
   );
 
+}
+
+/// Screem zoom out 1 — twoTone style variants.
+class _VideoMovieScreemZoomOut1Twotone {
+  const _VideoMovieScreemZoomOut1Twotone();
+
+  /// Screem zoom out 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Screem zoom out 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.91989 21V18.4887C8.91989 16.7908 7.54311 15.4141 5.84428 15.4141H3.33398" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.748 21V18.4887C15.748 16.7908 17.1248 15.4141 18.8236 15.4141H21.3339" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.91989 3V5.51127C8.91989 7.2101 7.54311 8.58687 5.84428 8.58687H3.33398" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.748 3V5.51127C15.748 7.2101 17.1248 8.58687 18.8236 8.58687H21.3339" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Screem zoom out 1 — outline style variants.
+class _VideoMovieScreemZoomOut1Outline {
+  const _VideoMovieScreemZoomOut1Outline();
+
+  /// Screem zoom out 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Screem zoom out 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 15.4141C2.25 14.9998 2.58579 14.6641 3 14.6641H5.5103C7.62319 14.6641 9.3359 16.3765 9.3359 18.4887V21C9.3359 21.4142 9.00011 21.75 8.5859 21.75C8.17169 21.75 7.8359 21.4142 7.8359 21V18.4887C7.8359 17.2052 6.79507 16.1641 5.5103 16.1641H3C2.58579 16.1641 2.25 15.8283 2.25 15.4141Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4897 16.1641C17.2049 16.1641 16.1641 17.2052 16.1641 18.4887V21C16.1641 21.4142 15.8283 21.75 15.4141 21.75C14.9998 21.75 14.6641 21.4142 14.6641 21V18.4887C14.6641 16.3765 16.3768 14.6641 18.4897 14.6641H21C21.4142 14.6641 21.75 14.9998 21.75 15.4141C21.75 15.8283 21.4142 16.1641 21 16.1641H18.4897Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.5859 2.25C9.00011 2.25 9.3359 2.58579 9.3359 3V5.51127C9.3359 7.62432 7.62334 9.33687 5.5103 9.33687H3C2.58579 9.33687 2.25 9.00109 2.25 8.58687C2.25 8.17266 2.58579 7.83687 3 7.83687H5.5103C6.79492 7.83687 7.8359 6.79589 7.8359 5.51127V3C7.8359 2.58579 8.17169 2.25 8.5859 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4141 2.25C15.8283 2.25 16.1641 2.58579 16.1641 3V5.51127C16.1641 6.79589 17.205 7.83687 18.4897 7.83687H21C21.4142 7.83687 21.75 8.17266 21.75 8.58687C21.75 9.00109 21.4142 9.33687 21 9.33687H18.4897C16.3766 9.33687 14.6641 7.62432 14.6641 5.51127V3C14.6641 2.58579 14.9998 2.25 15.4141 2.25Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Screem zoom out 1 — bold style variants.
+class _VideoMovieScreemZoomOut1Bold {
+  const _VideoMovieScreemZoomOut1Bold();
+
+  /// Screem zoom out 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Screem zoom out 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.34398 14.4092H3.83398C3.28098 14.4092 2.83398 14.8562 2.83398 15.4092C2.83398 15.9622 3.28098 16.4092 3.83398 16.4092H6.34398C7.48898 16.4092 8.41998 17.3432 8.41998 18.4892V21.0002C8.41998 21.5532 8.86698 22.0002 9.41998 22.0002C9.97298 22.0002 10.42 21.5532 10.42 21.0002V18.4892C10.42 16.2392 8.59198 14.4092 6.34398 14.4092Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8343 14.4092H19.3243C17.0763 14.4092 15.2483 16.2392 15.2483 18.4892V21.0002C15.2483 21.5532 15.6953 22.0002 16.2483 22.0002C16.8013 22.0002 17.2483 21.5532 17.2483 21.0002V18.4892C17.2483 17.3432 18.1803 16.4092 19.3243 16.4092H21.8343C22.3873 16.4092 22.8343 15.9622 22.8343 15.4092C22.8343 14.8562 22.3873 14.4092 21.8343 14.4092Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.42023 2C8.86723 2 8.42023 2.447 8.42023 3V5.51C8.42023 6.656 7.48823 7.59 6.34423 7.59H3.83423C3.28123 7.59 2.83423 8.037 2.83423 8.59C2.83423 9.143 3.28123 9.59 3.83423 9.59H6.34423C8.59223 9.59 10.4202 7.76 10.4202 5.51V3C10.4202 2.447 9.97323 2 9.42023 2Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.3245 9.59H21.8345C22.3875 9.59 22.8345 9.143 22.8345 8.59C22.8345 8.037 22.3875 7.59 21.8345 7.59H19.3245C18.1795 7.59 17.2485 6.656 17.2485 5.51V3C17.2485 2.447 16.8015 2 16.2485 2C15.6955 2 15.2485 2.447 15.2485 3V5.51C15.2485 7.76 17.0765 9.59 19.3245 9.59Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Screem zoom out 1 — light style variants.
+class _VideoMovieScreemZoomOut1Light {
+  const _VideoMovieScreemZoomOut1Light();
+
+  /// Screem zoom out 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Screem zoom out 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.5859 21V18.4887C8.5859 16.7909 7.20913 15.4141 5.5103 15.4141H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4141 21V18.4887C15.4141 16.7908 16.7908 15.4141 18.4897 15.4141H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.5859 3V5.51127C8.5859 7.2101 7.20913 8.58687 5.5103 8.58687H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4141 3V5.51127C15.4141 7.2101 16.7908 8.58687 18.4897 8.58687H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reload play video icon with style variants.
+class _VideoMovieReloadPlayVideoIcon {
+  const _VideoMovieReloadPlayVideoIcon();
+
+  /// twoTone style
+  _VideoMovieReloadPlayVideoTwotone get twoTone => const _VideoMovieReloadPlayVideoTwotone();
 }
 
 /// Reload play video — twoTone style variants.
@@ -1283,28 +1635,90 @@ class _VideoMovieReloadPlayVideoTwotone {
 
 }
 
-/// Reload play video — outline style variants.
-class _VideoMovieReloadPlayVideoOutline {
-  const _VideoMovieReloadPlayVideoOutline();
+/// Reload play video 1 icon with style variants.
+class _VideoMovieReloadPlayVideo1Icon {
+  const _VideoMovieReloadPlayVideo1Icon();
 
-  /// Reload play video — outline / regular
+  /// twoTone style
+  _VideoMovieReloadPlayVideo1Twotone get twoTone => const _VideoMovieReloadPlayVideo1Twotone();
+}
+
+/// Reload play video 1 — twoTone style variants.
+class _VideoMovieReloadPlayVideo1Twotone {
+  const _VideoMovieReloadPlayVideo1Twotone();
+
+  /// Reload play video 1 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Reload play video',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.0712 7.63915C15.8722 7.64499 15.6792 7.57158 15.5344 7.43505C15.3896 7.29852 15.305 7.11007 15.2992 6.91116C15.2933 6.71224 15.3667 6.51916 15.5033 6.37438C15.6398 6.2296 15.8282 6.14499 16.0271 6.13915L18.6672 5.98415L18.5112 3.32616C18.4994 3.12831 18.5664 2.93383 18.6976 2.78524C18.8287 2.63665 19.0134 2.54601 19.2111 2.53315C19.3094 2.5261 19.408 2.53871 19.5013 2.57023C19.5946 2.60175 19.6807 2.65155 19.7546 2.71673C19.8284 2.7819 19.8885 2.86115 19.9313 2.94982C19.9742 3.03849 19.999 3.13482 20.0042 3.23316L20.2041 6.64115C20.2157 6.83894 20.1486 7.03327 20.0174 7.1818C19.8863 7.33033 19.7018 7.42103 19.5042 7.43415L16.1152 7.63416L16.0712 7.63915Z" fill="black"/> <path d="M12.0054 21.7479C10.3379 21.7483 8.69822 21.321 7.2431 20.5067C5.78799 19.6925 4.56609 18.5185 3.69427 17.0971C2.82244 15.6757 2.32984 14.0544 2.26356 12.3883C2.19729 10.7222 2.55956 9.06689 3.31573 7.58076C4.0719 6.09462 5.19669 4.82732 6.58253 3.90005C7.96838 2.97277 9.56894 2.41652 11.2312 2.28451C12.8934 2.15249 14.5617 2.44911 16.0765 3.146C17.5914 3.8429 18.9021 4.91677 19.8834 6.26491C19.9414 6.3445 19.9832 6.43473 20.0064 6.53046C20.0296 6.6262 20.0336 6.72557 20.0184 6.82288C20.0032 6.9202 19.9689 7.01355 19.9176 7.09763C19.8663 7.18171 19.7989 7.25487 19.7194 7.31292C19.6398 7.37096 19.5495 7.41276 19.4538 7.43593C19.3581 7.45911 19.2587 7.46319 19.1614 7.44796C19.0641 7.43273 18.9707 7.39848 18.8866 7.34717C18.8026 7.29586 18.7294 7.2285 18.6714 7.14892C17.5173 5.56036 15.8344 4.43562 13.9253 3.9769C12.0161 3.51819 10.0059 3.7556 8.25617 4.64646C6.5064 5.53732 5.13184 7.02317 4.37963 8.83686C3.62742 10.6506 3.5469 12.6731 4.15257 14.5409C4.75823 16.4086 6.01033 17.999 7.68375 19.0261C9.35716 20.0533 11.3421 20.4497 13.2817 20.1442C15.2213 19.8387 16.9882 18.8513 18.2649 17.3595C19.5416 15.8677 20.2442 13.9694 20.2464 12.0059C20.2464 11.9075 20.2658 11.81 20.3035 11.719C20.3412 11.6281 20.3964 11.5455 20.4661 11.4759C20.5358 11.4064 20.6184 11.3512 20.7094 11.3136C20.8004 11.2761 20.8979 11.2568 20.9964 11.2569C21.0949 11.257 21.1924 11.2766 21.2833 11.3144C21.3742 11.3522 21.4568 11.4075 21.5264 11.4773C21.596 11.547 21.6511 11.6298 21.6887 11.7208C21.7262 11.8119 21.7455 11.9094 21.7454 12.0079C21.7409 14.5895 20.713 17.0641 18.887 18.8891C17.0611 20.7141 14.586 21.7407 12.0044 21.7439L12.0054 21.7479Z" fill="black"/> <path d="M11.161 15.9781C10.8033 15.9805 10.4516 15.8861 10.143 15.7051C9.86735 15.5362 9.635 15.3052 9.4645 15.0305C9.29399 14.7558 9.19007 14.4451 9.16101 14.1231C9.01143 12.7161 9.01143 11.2971 9.16101 9.89009C9.19127 9.5637 9.2985 9.24915 9.4739 8.97223C9.64929 8.69532 9.88786 8.46395 10.17 8.29711C10.4645 8.13576 10.7925 8.04525 11.128 8.03275C11.4635 8.02025 11.7974 8.08611 12.103 8.2251C13.2903 8.70994 14.382 9.40205 15.327 10.2691C15.5747 10.4844 15.7747 10.749 15.9142 11.046C16.0537 11.3431 16.1296 11.666 16.137 11.9941C16.131 12.3252 16.0559 12.6515 15.9166 12.952C15.7773 13.2524 15.5768 13.5205 15.328 13.7391V13.7391C14.3788 14.6044 13.2853 15.2966 12.097 15.7841C11.8002 15.9077 11.4825 15.9736 11.161 15.9781V15.9781ZM11.186 9.53209C11.0934 9.53028 11.002 9.55306 10.921 9.5981C10.8437 9.65114 10.7795 9.72115 10.7334 9.80278C10.6873 9.88442 10.6605 9.9755 10.655 10.0691C10.5175 11.3611 10.5175 12.6641 10.655 13.9561C10.661 14.046 10.6865 14.1335 10.7297 14.2126C10.7728 14.2917 10.8327 14.3604 10.905 14.4141C11.0045 14.4589 11.1129 14.4806 11.222 14.4776C11.331 14.4747 11.438 14.4472 11.535 14.3971C12.5561 13.9767 13.4959 13.3811 14.312 12.6371C14.4068 12.5586 14.4847 12.4617 14.5409 12.3522C14.5972 12.2427 14.6305 12.1229 14.639 12.0001C14.6304 11.879 14.5971 11.7609 14.5412 11.6531C14.4853 11.5452 14.408 11.45 14.314 11.3731C13.4965 10.6244 12.5525 10.0268 11.526 9.6081C11.4181 9.5606 11.3019 9.53478 11.184 9.53209H11.186Z" fill="black"/> </svg> ',
+    name: 'Reload play video 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.5982 3.27734L19.7992 6.68434L16.4102 6.88334" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.334 12.0047C21.33 14.8587 19.962 17.6667 17.427 19.4107C13.337 22.2247 7.73699 21.1957 4.91699 17.0977C2.10399 13.0067 3.13999 7.40075 7.23099 4.58775C11.262 1.81475 16.75 2.77075 19.615 6.70075" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.1603 13.1843C14.3303 13.9423 13.2933 14.6243 12.1523 15.0893C11.1813 15.4753 10.3673 14.9933 10.2483 14.0273C10.1033 12.6033 10.1063 11.2403 10.2483 9.96833C10.3783 8.96433 11.2743 8.53833 12.1523 8.91033C13.2753 9.37533 14.2843 10.0053 15.1603 10.8153C15.9093 11.5003 15.9263 12.4733 15.1603 13.1843Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
-    style: IconfyStyle.outline,
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
 }
 
-/// Reload play video — bold style variants.
-class _VideoMovieReloadPlayVideoBold {
-  const _VideoMovieReloadPlayVideoBold();
+/// Reload play video 2 icon with style variants.
+class _VideoMovieReloadPlayVideo2Icon {
+  const _VideoMovieReloadPlayVideo2Icon();
 
-  /// Reload play video — bold / regular
+  /// broken style
+  _VideoMovieReloadPlayVideo2Broken get broken => const _VideoMovieReloadPlayVideo2Broken();
+}
+
+/// Reload play video 2 — broken style variants.
+class _VideoMovieReloadPlayVideo2Broken {
+  const _VideoMovieReloadPlayVideo2Broken();
+
+  /// Reload play video 2 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Reload play video',
+    name: 'Reload play video 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.84082 18.2789C3.84082 19.3647 4.72136 20.2452 5.80719 20.2452C6.89303 20.2452 7.77356 19.3647 7.77356 18.2789C7.77356 17.193 6.89303 16.3125 5.80719 16.3125C4.72136 16.3125 3.84082 17.193 3.84082 18.2789Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4795 5.63825C16.4795 6.72408 17.36 7.60462 18.4459 7.60462C19.5317 7.60462 20.4122 6.72408 20.4122 5.63825C20.4122 4.55241 19.5317 3.67188 18.4459 3.67188C17.36 3.67188 16.4795 4.55241 16.4795 5.63825Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0889 3C13.8665 3 15.5244 3.51762 16.9138 4.40691" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08398 11.9866C3.09002 8.56182 5.0001 5.59161 7.81312 4.07422" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.084 11.9961C21.084 14.6935 19.9003 17.1139 18.0234 18.764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.2627 19.5938C8.6521 20.483 10.31 21.0007 12.0886 21.0007C13.2918 21.0007 14.4394 20.7646 15.4878 20.3363" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7523 13.0579C13.9963 13.7429 13.0505 14.3588 12.0104 14.7781C11.125 15.1264 10.3836 14.6915 10.2756 13.8197C10.1423 12.5335 10.1453 11.3027 10.2756 10.1536C10.3943 9.24678 11.2107 8.86245 12.0104 9.19813C13.035 9.61748 13.9535 10.1867 14.7523 10.9193C15.4343 11.5371 15.4509 12.4157 14.7523 13.0579Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reload play video 3 icon with style variants.
+class _VideoMovieReloadPlayVideo3Icon {
+  const _VideoMovieReloadPlayVideo3Icon();
+
+  /// broken style
+  _VideoMovieReloadPlayVideo3Broken get broken => const _VideoMovieReloadPlayVideo3Broken();
+}
+
+/// Reload play video 3 — broken style variants.
+class _VideoMovieReloadPlayVideo3Broken {
+  const _VideoMovieReloadPlayVideo3Broken();
+
+  /// Reload play video 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reload play video 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.3482 3.27734L19.5492 6.68434L16.1602 6.88334" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.66699 17.0977C1.85399 13.0067 2.88999 7.40075 6.98099 4.58775C11.012 1.81475 16.5 2.77075 19.365 6.70075" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0843 12.0039C21.0803 14.8579 19.7123 17.6659 17.1773 19.4099C14.0186 21.5831 9.95941 21.4643 6.97559 19.4099" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9103 13.1843C14.0803 13.9423 13.0433 14.6243 11.9023 15.0893C10.9313 15.4753 10.1173 14.9933 9.99825 14.0273C9.85325 12.6033 9.85625 11.2403 9.99825 9.96833C10.1283 8.96433 11.0243 8.53833 11.9023 8.91033C13.0253 9.37533 14.0343 10.0053 14.9103 10.8153C15.6593 11.5003 15.6763 12.4733 14.9103 13.1843Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reload play video 4 icon with style variants.
+class _VideoMovieReloadPlayVideo4Icon {
+  const _VideoMovieReloadPlayVideo4Icon();
+
+  /// bold style
+  _VideoMovieReloadPlayVideo4Bold get bold => const _VideoMovieReloadPlayVideo4Bold();
+}
+
+/// Reload play video 4 — bold style variants.
+class _VideoMovieReloadPlayVideo4Bold {
+  const _VideoMovieReloadPlayVideo4Bold();
+
+  /// Reload play video 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reload play video 4',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.58398 11.99C4.59198 7.446 8.29498 3.75 12.839 3.75C14.265 3.75 15.646 4.134 16.877 4.832C16.788 5.087 16.73 5.355 16.73 5.639C16.73 6.996 17.836 8.099 19.197 8.099C20.557 8.099 21.663 6.996 21.663 5.639C21.663 4.278 20.557 3.17 19.197 3.17C18.67 3.17 18.184 3.339 17.783 3.622C16.286 2.734 14.589 2.25 12.839 2.25C7.46998 2.25 3.09298 6.618 3.08398 11.988C3.08398 12.402 3.41798 12.738 3.83298 12.739C4.24698 12.739 4.58398 12.404 4.58398 11.99Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.833 11.25C21.419 11.25 21.083 11.586 21.083 12C21.083 16.549 17.384 20.25 12.838 20.25C11.428 20.25 10.063 19.873 8.84397 19.191C8.95697 18.908 9.02297 18.602 9.02297 18.28C9.02297 16.918 7.91597 15.81 6.55597 15.81C5.19597 15.81 4.08997 16.918 4.08997 18.28C4.08997 19.642 5.19597 20.75 6.55597 20.75C7.03897 20.75 7.48697 20.605 7.86797 20.364C9.36997 21.262 11.077 21.75 12.838 21.75C18.211 21.75 22.583 17.376 22.583 12C22.583 11.586 22.247 11.25 21.833 11.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3544 8.7949C10.8964 9.0559 10.6044 9.5139 10.5284 10.0929C10.3924 11.2909 10.3914 12.5619 10.5284 13.8809C10.5994 14.4529 10.8834 14.9129 11.3264 15.1769C11.5784 15.3259 11.8634 15.4009 12.1654 15.4009C12.4164 15.4009 12.6804 15.3489 12.9454 15.2439C13.9824 14.8259 14.9814 14.1989 15.8354 13.4319L15.8384 13.4289C16.2784 13.0259 16.5204 12.5149 16.5194 11.9859C16.5184 11.4589 16.2754 10.9489 15.8384 10.5509C15.0104 9.7939 14.0384 9.1839 12.9544 8.7399C12.4074 8.5069 11.8234 8.5259 11.3544 8.7949Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bold,
@@ -1313,16 +1727,162 @@ class _VideoMovieReloadPlayVideoBold {
 
 }
 
-/// Reload play video — light style variants.
-class _VideoMovieReloadPlayVideoLight {
-  const _VideoMovieReloadPlayVideoLight();
+/// Reload play video 5 icon with style variants.
+class _VideoMovieReloadPlayVideo5Icon {
+  const _VideoMovieReloadPlayVideo5Icon();
 
-  /// Reload play video — light / regular
+  /// bold style
+  _VideoMovieReloadPlayVideo5Bold get bold => const _VideoMovieReloadPlayVideo5Bold();
+}
+
+/// Reload play video 5 — bold style variants.
+class _VideoMovieReloadPlayVideo5Bold {
+  const _VideoMovieReloadPlayVideo5Bold();
+
+  /// Reload play video 5 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Reload play video',
+    name: 'Reload play video 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8367 11.2638C21.4227 11.2638 21.0867 11.5988 21.0857 12.0128C21.0817 14.7298 19.7427 17.2688 17.5037 18.8048C13.7547 21.3798 8.60966 20.4318 6.03666 16.6888C4.78966 14.8748 4.32366 12.6828 4.72466 10.5148C5.12566 8.34681 6.34466 6.46681 8.15866 5.22081C11.1347 3.16881 14.9297 3.31481 17.6867 5.33081L17.1457 5.94181C16.9607 6.15081 16.9067 6.44581 17.0067 6.70681C17.1077 6.96781 17.3437 7.15181 17.6217 7.18381L20.2147 7.48081C20.2437 7.48381 20.2727 7.48581 20.3007 7.48581C20.5067 7.48581 20.7067 7.39981 20.8487 7.24681C21.0107 7.07381 21.0817 6.83181 21.0377 6.59881L20.5437 3.93281C20.4907 3.65081 20.2827 3.42281 20.0067 3.34681C19.7317 3.27081 19.4347 3.35781 19.2447 3.57281L18.6897 4.19881C15.4217 1.72981 10.8677 1.52981 7.30766 3.98581C5.16466 5.45681 3.72266 7.67981 3.24966 10.2428C2.77566 12.8038 3.32666 15.3958 4.80066 17.5378C6.68666 20.2808 9.73767 21.7538 12.8407 21.7538C14.7447 21.7538 16.6687 21.1998 18.3527 20.0408C20.9987 18.2258 22.5817 15.2258 22.5857 12.0148C22.5867 11.6008 22.2507 11.2648 21.8367 11.2638Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1341 8.52356C10.6461 8.80456 10.3341 9.29956 10.2531 9.92756C10.1061 11.2436 10.1051 12.6456 10.2541 14.1056C10.3301 14.7246 10.6361 15.2196 11.1141 15.5026C11.3811 15.6596 11.6821 15.7386 12.0011 15.7386C12.2731 15.7386 12.5571 15.6806 12.8441 15.5656C13.9931 15.0926 15.0841 14.4006 15.9991 13.5626C16.0001 13.5616 16.0011 13.5606 16.0021 13.5596C16.4741 13.1226 16.7331 12.5676 16.7301 12.0006C16.7271 11.4346 16.4671 10.8896 16.0011 10.4656C15.1051 9.63756 14.0441 8.96356 12.8471 8.46156C12.2561 8.21356 11.6321 8.23756 11.1341 8.52356Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reload play video 6 icon with style variants.
+class _VideoMovieReloadPlayVideo6Icon {
+  const _VideoMovieReloadPlayVideo6Icon();
+
+  /// bulk style
+  _VideoMovieReloadPlayVideo6Bulk get bulk => const _VideoMovieReloadPlayVideo6Bulk();
+}
+
+/// Reload play video 6 — bulk style variants.
+class _VideoMovieReloadPlayVideo6Bulk {
+  const _VideoMovieReloadPlayVideo6Bulk();
+
+  /// Reload play video 6 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reload play video 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.58398 11.99C4.59198 7.446 8.29498 3.75 12.839 3.75C14.265 3.75 15.646 4.134 16.877 4.832C16.788 5.087 16.73 5.355 16.73 5.639C16.73 6.996 17.836 8.099 19.197 8.099C20.557 8.099 21.663 6.996 21.663 5.639C21.663 4.278 20.557 3.17 19.197 3.17C18.67 3.17 18.184 3.339 17.783 3.622C16.286 2.734 14.589 2.25 12.839 2.25C7.46998 2.25 3.09298 6.618 3.08398 11.988C3.08398 12.402 3.41798 12.738 3.83298 12.739C4.24698 12.739 4.58398 12.404 4.58398 11.99Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.833 11.25C21.419 11.25 21.083 11.586 21.083 12C21.083 16.549 17.384 20.25 12.838 20.25C11.428 20.25 10.063 19.873 8.84397 19.191C8.95697 18.908 9.02297 18.602 9.02297 18.28C9.02297 16.918 7.91597 15.81 6.55597 15.81C5.19597 15.81 4.08997 16.918 4.08997 18.28C4.08997 19.642 5.19597 20.75 6.55597 20.75C7.03897 20.75 7.48697 20.605 7.86797 20.364C9.36997 21.262 11.077 21.75 12.838 21.75C18.211 21.75 22.583 17.376 22.583 12C22.583 11.586 22.247 11.25 21.833 11.25Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3542 8.7949C10.8962 9.0559 10.6042 9.5139 10.5282 10.0929C10.3922 11.2909 10.3912 12.5619 10.5282 13.8809C10.5992 14.4529 10.8832 14.9129 11.3262 15.1769C11.5782 15.3259 11.8632 15.4009 12.1652 15.4009C12.4162 15.4009 12.6802 15.3489 12.9452 15.2439C13.9822 14.8259 14.9812 14.1989 15.8352 13.4319L15.8382 13.4289C16.2782 13.0259 16.5202 12.5149 16.5192 11.9859C16.5182 11.4589 16.2752 10.9489 15.8382 10.5509C15.0102 9.7939 14.0382 9.1839 12.9542 8.7399C12.4072 8.5069 11.8232 8.5259 11.3542 8.7949Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reload play video 7 icon with style variants.
+class _VideoMovieReloadPlayVideo7Icon {
+  const _VideoMovieReloadPlayVideo7Icon();
+
+  /// bulk style
+  _VideoMovieReloadPlayVideo7Bulk get bulk => const _VideoMovieReloadPlayVideo7Bulk();
+}
+
+/// Reload play video 7 — bulk style variants.
+class _VideoMovieReloadPlayVideo7Bulk {
+  const _VideoMovieReloadPlayVideo7Bulk();
+
+  /// Reload play video 7 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reload play video 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.8367 11.2638C21.4227 11.2638 21.0867 11.5988 21.0857 12.0128C21.0817 14.7298 19.7427 17.2688 17.5037 18.8048C13.7547 21.3798 8.60966 20.4318 6.03666 16.6888C4.78966 14.8748 4.32366 12.6828 4.72466 10.5148C5.12566 8.34681 6.34466 6.46681 8.15866 5.22081C11.1347 3.16881 14.9297 3.31481 17.6867 5.33081L17.1457 5.94181C16.9607 6.15081 16.9067 6.44581 17.0067 6.70681C17.1077 6.96781 17.3437 7.15181 17.6217 7.18381L20.2147 7.48081C20.2437 7.48381 20.2727 7.48581 20.3007 7.48581C20.5067 7.48581 20.7067 7.39981 20.8487 7.24681C21.0107 7.07381 21.0817 6.83181 21.0377 6.59881L20.5437 3.93281C20.4907 3.65081 20.2827 3.42281 20.0067 3.34681C19.7317 3.27081 19.4347 3.35781 19.2447 3.57281L18.6897 4.19881C15.4217 1.72981 10.8677 1.52981 7.30766 3.98581C5.16466 5.45681 3.72266 7.67981 3.24966 10.2428C2.77566 12.8038 3.32666 15.3958 4.80066 17.5378C6.68666 20.2808 9.73767 21.7538 12.8407 21.7538C14.7447 21.7538 16.6687 21.1998 18.3527 20.0408C20.9987 18.2258 22.5817 15.2258 22.5857 12.0148C22.5867 11.6008 22.2507 11.2648 21.8367 11.2638Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1341 8.52942C10.6461 8.81042 10.3341 9.30542 10.2531 9.93342C10.1061 11.2494 10.1051 12.6514 10.2541 14.1114C10.3301 14.7304 10.6361 15.2254 11.1141 15.5084C11.3811 15.6654 11.6821 15.7444 12.0011 15.7444C12.2731 15.7444 12.5571 15.6864 12.8441 15.5714C13.9931 15.0984 15.0841 14.4064 15.9991 13.5684L16.0021 13.5654C16.4741 13.1284 16.7331 12.5734 16.7301 12.0064C16.7271 11.4404 16.4671 10.8954 16.0011 10.4714C15.1051 9.64342 14.0441 8.96942 12.8471 8.46742C12.2561 8.21942 11.6321 8.24342 11.1341 8.52942Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reload play video 8 icon with style variants.
+class _VideoMovieReloadPlayVideo8Icon {
+  const _VideoMovieReloadPlayVideo8Icon();
+
+  /// light style
+  _VideoMovieReloadPlayVideo8Light get light => const _VideoMovieReloadPlayVideo8Light();
+}
+
+/// Reload play video 8 — light style variants.
+class _VideoMovieReloadPlayVideo8Light {
+  const _VideoMovieReloadPlayVideo8Light();
+
+  /// Reload play video 8 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reload play video 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.2642 3.27734L19.4652 6.68434L16.0762 6.88334" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 12.0047C20.996 14.8587 19.628 17.6667 17.093 19.4107C13.003 22.2247 7.403 21.1957 4.583 17.0977C1.77 13.0067 2.806 7.40075 6.897 4.58775C10.928 1.81475 16.416 2.77075 19.281 6.70075" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8263 13.1843C13.9963 13.9423 12.9593 14.6243 11.8183 15.0893C10.8473 15.4753 10.0333 14.9933 9.91427 14.0273C9.76927 12.6033 9.77227 11.2403 9.91427 9.96833C10.0443 8.96433 10.9403 8.53833 11.8183 8.91033C12.9413 9.37533 13.9503 10.0053 14.8263 10.8153C15.5753 11.5003 15.5923 12.4733 14.8263 13.1843Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reload play video 9 icon with style variants.
+class _VideoMovieReloadPlayVideo9Icon {
+  const _VideoMovieReloadPlayVideo9Icon();
+
+  /// light style
+  _VideoMovieReloadPlayVideo9Light get light => const _VideoMovieReloadPlayVideo9Light();
+}
+
+/// Reload play video 9 — light style variants.
+class _VideoMovieReloadPlayVideo9Light {
+  const _VideoMovieReloadPlayVideo9Light();
+
+  /// Reload play video 9 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reload play video 9',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.75586 18.2789C3.75586 19.3647 4.6364 20.2452 5.72223 20.2452C6.80807 20.2452 7.6886 19.3647 7.6886 18.2789C7.6886 17.193 6.80807 16.3125 5.72223 16.3125C4.6364 16.3125 3.75586 17.193 3.75586 18.2789Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.3965 5.63825C16.3965 6.72408 17.277 7.60462 18.3629 7.60462C19.4487 7.60462 20.3292 6.72408 20.3292 5.63825C20.3292 4.55241 19.4487 3.67188 18.3629 3.67188C17.277 3.67188 16.3965 4.55241 16.3965 5.63825Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.9873C3.00876 7.01447 7.03199 3 12.0048 3C13.7825 3 15.4404 3.51762 16.8298 4.40691" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9988 11.9961C20.9988 16.9689 16.9755 21 12.0037 21C10.2251 21 8.56714 20.4823 7.17773 19.593" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6673 13.0579C13.9113 13.7429 12.9656 14.3588 11.9255 14.7781C11.0401 15.1264 10.2987 14.6915 10.1907 13.8197C10.0574 12.5335 10.0603 11.3027 10.1907 10.1536C10.3094 9.24678 11.1257 8.86245 11.9255 9.19813C12.95 9.61748 13.8685 10.1867 14.6673 10.9193C15.3494 11.5371 15.3659 12.4157 14.6673 13.0579Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reload play video 10 icon with style variants.
+class _VideoMovieReloadPlayVideo10Icon {
+  const _VideoMovieReloadPlayVideo10Icon();
+
+  /// outline style
+  _VideoMovieReloadPlayVideo10Outline get outline => const _VideoMovieReloadPlayVideo10Outline();
+}
+
+/// Reload play video 10 — outline style variants.
+class _VideoMovieReloadPlayVideo10Outline {
+  const _VideoMovieReloadPlayVideo10Outline();
+
+  /// Reload play video 10 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reload play video 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.0712 7.63915C15.8722 7.64499 15.6792 7.57158 15.5344 7.43505C15.3896 7.29852 15.305 7.11007 15.2992 6.91116C15.2933 6.71224 15.3667 6.51916 15.5033 6.37438C15.6398 6.2296 15.8282 6.14499 16.0271 6.13915L18.6672 5.98415L18.5112 3.32616C18.4994 3.12831 18.5664 2.93383 18.6976 2.78524C18.8287 2.63665 19.0134 2.54601 19.2111 2.53315C19.3094 2.5261 19.408 2.53871 19.5013 2.57023C19.5946 2.60175 19.6807 2.65155 19.7546 2.71673C19.8284 2.7819 19.8885 2.86115 19.9313 2.94982C19.9742 3.03849 19.999 3.13482 20.0042 3.23316L20.2041 6.64115C20.2157 6.83894 20.1486 7.03327 20.0174 7.1818C19.8863 7.33033 19.7018 7.42103 19.5042 7.43415L16.1152 7.63416L16.0712 7.63915Z" fill="black"/> <path d="M12.0054 21.7479C10.3379 21.7483 8.69822 21.321 7.2431 20.5067C5.78799 19.6925 4.56609 18.5185 3.69427 17.0971C2.82244 15.6757 2.32984 14.0544 2.26356 12.3883C2.19729 10.7222 2.55956 9.06689 3.31573 7.58076C4.0719 6.09462 5.19669 4.82732 6.58253 3.90005C7.96838 2.97277 9.56894 2.41652 11.2312 2.28451C12.8934 2.15249 14.5617 2.44911 16.0765 3.146C17.5914 3.8429 18.9021 4.91677 19.8834 6.26491C19.9414 6.3445 19.9832 6.43473 20.0064 6.53046C20.0296 6.6262 20.0336 6.72557 20.0184 6.82288C20.0032 6.9202 19.9689 7.01355 19.9176 7.09763C19.8663 7.18171 19.7989 7.25487 19.7194 7.31292C19.6398 7.37096 19.5495 7.41276 19.4538 7.43593C19.3581 7.45911 19.2587 7.46319 19.1614 7.44796C19.0641 7.43273 18.9707 7.39848 18.8866 7.34717C18.8026 7.29586 18.7294 7.2285 18.6714 7.14892C17.5173 5.56036 15.8344 4.43562 13.9253 3.9769C12.0161 3.51819 10.0059 3.7556 8.25617 4.64646C6.5064 5.53732 5.13184 7.02317 4.37963 8.83686C3.62742 10.6506 3.5469 12.6731 4.15257 14.5409C4.75823 16.4086 6.01033 17.999 7.68375 19.0261C9.35716 20.0533 11.3421 20.4497 13.2817 20.1442C15.2213 19.8387 16.9882 18.8513 18.2649 17.3595C19.5416 15.8677 20.2442 13.9694 20.2464 12.0059C20.2464 11.9075 20.2658 11.81 20.3035 11.719C20.3412 11.6281 20.3964 11.5455 20.4661 11.4759C20.5358 11.4064 20.6184 11.3512 20.7094 11.3136C20.8004 11.2761 20.8979 11.2568 20.9964 11.2569C21.0949 11.257 21.1924 11.2766 21.2833 11.3144C21.3742 11.3522 21.4568 11.4075 21.5264 11.4773C21.596 11.547 21.6511 11.6298 21.6887 11.7208C21.7262 11.8119 21.7455 11.9094 21.7454 12.0079C21.7409 14.5895 20.713 17.0641 18.887 18.8891C17.0611 20.7141 14.586 21.7407 12.0044 21.7439L12.0054 21.7479Z" fill="black"/> <path d="M11.161 15.9781C10.8033 15.9805 10.4516 15.8861 10.143 15.7051C9.86735 15.5362 9.635 15.3052 9.4645 15.0305C9.29399 14.7558 9.19007 14.4451 9.16101 14.1231C9.01143 12.7161 9.01143 11.2971 9.16101 9.89009C9.19127 9.5637 9.2985 9.24915 9.4739 8.97223C9.64929 8.69532 9.88786 8.46395 10.17 8.29711C10.4645 8.13576 10.7925 8.04525 11.128 8.03275C11.4635 8.02025 11.7974 8.08611 12.103 8.2251C13.2903 8.70994 14.382 9.40205 15.327 10.2691C15.5747 10.4844 15.7747 10.749 15.9142 11.046C16.0537 11.3431 16.1296 11.666 16.137 11.9941C16.131 12.3252 16.0559 12.6515 15.9166 12.952C15.7773 13.2524 15.5768 13.5205 15.328 13.7391V13.7391C14.3788 14.6044 13.2853 15.2966 12.097 15.7841C11.8002 15.9077 11.4825 15.9736 11.161 15.9781V15.9781ZM11.186 9.53209C11.0934 9.53028 11.002 9.55306 10.921 9.5981C10.8437 9.65114 10.7795 9.72115 10.7334 9.80278C10.6873 9.88442 10.6605 9.9755 10.655 10.0691C10.5175 11.3611 10.5175 12.6641 10.655 13.9561C10.661 14.046 10.6865 14.1335 10.7297 14.2126C10.7728 14.2917 10.8327 14.3604 10.905 14.4141C11.0045 14.4589 11.1129 14.4806 11.222 14.4776C11.331 14.4747 11.438 14.4472 11.535 14.3971C12.5561 13.9767 13.4959 13.3811 14.312 12.6371C14.4068 12.5586 14.4847 12.4617 14.5409 12.3522C14.5972 12.2427 14.6305 12.1229 14.639 12.0001C14.6304 11.879 14.5971 11.7609 14.5412 11.6531C14.4853 11.5452 14.408 11.45 14.314 11.3731C13.4965 10.6244 12.5525 10.0268 11.526 9.6081C11.4181 9.5606 11.3019 9.53478 11.184 9.53209H11.186Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reload play video 11 icon with style variants.
+class _VideoMovieReloadPlayVideo11Icon {
+  const _VideoMovieReloadPlayVideo11Icon();
+
+  /// outline style
+  _VideoMovieReloadPlayVideo11Outline get outline => const _VideoMovieReloadPlayVideo11Outline();
+}
+
+/// Reload play video 11 — outline style variants.
+class _VideoMovieReloadPlayVideo11Outline {
+  const _VideoMovieReloadPlayVideo11Outline();
+
+  /// Reload play video 11 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reload play video 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.00586 18.2789C3.00586 16.7788 4.22218 15.5625 5.72223 15.5625C7.22228 15.5625 8.4386 16.7788 8.4386 18.2789C8.4386 19.7789 7.22228 20.9952 5.72223 20.9952C4.22218 20.9952 3.00586 19.7789 3.00586 18.2789ZM5.72223 17.0625C5.05061 17.0625 4.50586 17.6073 4.50586 18.2789C4.50586 18.9505 5.05061 19.4952 5.72223 19.4952C6.39385 19.4952 6.9386 18.9505 6.9386 18.2789C6.9386 17.6073 6.39385 17.0625 5.72223 17.0625Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6465 5.63825C15.6465 4.1382 16.8628 2.92188 18.3629 2.92188C19.8629 2.92188 21.0792 4.1382 21.0792 5.63825C21.0792 7.13829 19.8629 8.35462 18.3629 8.35462C16.8628 8.35462 15.6465 7.13829 15.6465 5.63825ZM18.3629 4.42188C17.6912 4.42188 17.1465 4.96663 17.1465 5.63825C17.1465 6.30987 17.6912 6.85462 18.3629 6.85462C19.0345 6.85462 19.5792 6.30987 19.5792 5.63825C19.5792 4.96663 19.0345 4.42188 18.3629 4.42188Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0048 3.75C7.4455 3.75 3.75803 7.42967 3.75 11.9886C3.74927 12.4029 3.41289 12.7381 2.99868 12.7373C2.58447 12.7366 2.24927 12.4002 2.25 11.986C2.25949 6.59927 6.61847 2.25 12.0048 2.25C13.9298 2.25 15.7275 2.81088 17.2341 3.77523C17.583 3.99852 17.6848 4.46236 17.4615 4.81123C17.2382 5.1601 16.7743 5.2619 16.4255 5.0386C15.1533 4.22436 13.6351 3.75 12.0048 3.75Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9989 11.2461C21.4131 11.2461 21.7489 11.5819 21.7489 11.9961C21.7489 17.3823 17.3907 21.75 12.0038 21.75C10.0779 21.75 8.2802 21.1891 6.77351 20.2247C6.42464 20.0014 6.32284 19.5376 6.54614 19.1887C6.76944 18.8399 7.23327 18.7381 7.58214 18.9614C8.85425 19.7756 10.3725 20.25 12.0038 20.25C16.5605 20.25 20.2489 16.5556 20.2489 11.9961C20.2489 11.5819 20.5846 11.2461 20.9989 11.2461Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9351 10.2454C10.8124 11.332 10.8088 12.503 10.9358 13.734C10.9662 13.9667 11.0641 14.0633 11.1343 14.1028C11.209 14.1448 11.3728 14.1889 11.6483 14.0812C12.5994 13.6972 13.4684 13.1316 14.1615 12.5041C14.3787 12.3037 14.4358 12.1175 14.4351 11.9836C14.4343 11.848 14.3737 11.6653 14.1638 11.4751L14.1604 11.472L14.1604 11.472C13.4315 10.8035 12.5898 10.2804 11.6414 9.89221L11.6352 9.88969L11.6352 9.88966C11.413 9.7964 11.246 9.8242 11.1514 9.8739C11.0686 9.91739 10.9666 10.0152 10.9351 10.2454ZM12.2124 8.50516C11.6357 8.26412 10.9961 8.2612 10.454 8.5459C9.89965 8.83701 9.53507 9.38358 9.44702 10.0562L9.44691 10.0562L9.44546 10.069C9.30851 11.276 9.30625 12.5613 9.44467 13.897L9.44637 13.9119C9.52495 14.5463 9.85061 15.1016 10.3988 15.4101C10.9429 15.7162 11.5918 15.7153 12.2001 15.476L12.2001 15.476L12.2059 15.4737C13.3327 15.0194 14.3532 14.3546 15.1709 13.6137L15.1709 13.6137L15.1749 13.61C15.6549 13.1688 15.9384 12.5954 15.935 11.9753C15.9317 11.3574 15.6437 10.7926 15.1727 10.3651C14.3051 9.56971 13.3113 8.95528 12.2124 8.50516Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -1677,7 +2237,7 @@ class _VideoMovieReelsBulk {
   /// Reels — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Reels',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.1598 7.54V16.46C21.1598 16.63 21.1498 16.79 21.1398 16.95C21.0998 17.49 20.9998 17.99 20.8398 18.45C20.2798 20.05 19.0098 21.13 17.2898 21.42C16.9898 21.47 16.6798 21.5 16.3498 21.5H7.64984C7.29984 21.5 6.96984 21.47 6.65984 21.42C4.96984 21.11 3.71984 20.04 3.15984 18.45C2.99984 18 2.89984 17.5 2.85984 16.96C2.84984 16.8 2.83984 16.63 2.83984 16.46V7.54C2.83984 7.37 2.84984 7.21 2.85984 7.05C2.89984 6.51 2.99984 6.01 3.15984 5.55C3.71984 3.97 4.96984 2.89 6.65984 2.58C6.96984 2.53 7.29984 2.5 7.64984 2.5H16.3498C16.6798 2.5 16.9898 2.53 17.2898 2.58C19.0098 2.87 20.2798 3.95 20.8398 5.55C20.9998 6.01 21.0998 6.51 21.1398 7.05C21.1498 7.21 21.1598 7.37 21.1598 7.54Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.85938 16.9602C2.89937 17.5002 2.99938 18.0002 3.15938 18.4502H6.65937V21.4202C6.96938 21.4702 7.29938 21.5002 7.64937 21.5002H8.15938V18.4502H11.2294V21.5002H12.7294V18.4502H15.7894V21.5002H16.3494C16.6794 21.5002 16.9894 21.4702 17.2894 21.4202V18.4502H20.8394C20.9994 17.9902 21.0994 17.4902 21.1394 16.9502H2.89937C2.88937 16.9502 2.86937 16.9502 2.85938 16.9602Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.1395 7.05C21.0995 6.51 20.9995 6.01 20.8395 5.55H17.2895V2.58C16.9895 2.53 16.6795 2.5 16.3495 2.5H15.7895V5.55H12.7295V2.5H11.2295V5.55H8.1595V2.5H7.6495C7.2995 2.5 6.9695 2.53 6.6595 2.58V5.55H3.1595C2.9995 6.01 2.8995 6.51 2.8595 7.05H21.1395Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9694 12.0006C13.9694 12.2006 13.8394 12.3706 13.7194 12.4806C12.9994 13.1206 12.1694 13.6406 11.3194 13.9806C11.1294 14.0606 10.9594 14.0606 10.8494 14.0006C10.7194 13.9306 10.6894 13.7606 10.6794 13.6806C10.5594 12.5106 10.5594 11.3806 10.6694 10.3406C10.6894 10.2206 10.7294 10.0806 10.8594 10.0006C10.9094 9.97064 10.9794 9.96064 11.0494 9.96064C11.1294 9.96064 11.2194 9.98064 11.3094 10.0106C12.2494 10.4106 13.0394 10.9006 13.7194 11.5206C13.8394 11.6306 13.9694 11.8006 13.9694 12.0006ZM10.1094 8.70064C9.59935 9.00064 9.26935 9.51064 9.18935 10.1606C9.04935 11.3206 9.04935 12.5606 9.18935 13.8506C9.26935 14.4806 9.57935 14.9906 10.0794 15.2906C10.3594 15.4606 10.6894 15.5406 11.0294 15.5406C11.2994 15.5406 11.5894 15.4906 11.8794 15.3806C12.8894 14.9706 13.8694 14.3506 14.7294 13.5906C14.7294 13.5906 14.7294 13.5806 14.7394 13.5806C15.2094 13.1406 15.4794 12.5806 15.4694 11.9906C15.4694 11.4106 15.2094 10.8506 14.7294 10.4206C13.9294 9.68064 12.9694 9.08064 11.8794 8.63064C11.2794 8.38064 10.6294 8.40064 10.1094 8.70064Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.0492 7.78V16.23C21.0492 19.38 19.0192 21.5 16.0092 21.5H7.99922C4.97922 21.5 2.94922 19.38 2.94922 16.23V7.78C2.94922 7.42 2.97922 7.07 3.02922 6.73C3.42922 4.19 5.28922 2.53 7.91922 2.5H16.0792C18.7092 2.53 20.5692 4.18 20.9692 6.73C21.0192 7.07 21.0492 7.42 21.0492 7.78Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.91922 2.5V6.73H3.02922C2.97922 7.07 2.94922 7.42 2.94922 7.78V8.23H21.0492V7.78C21.0492 7.42 21.0192 7.07 20.9692 6.73H16.0792V2.5H14.5792V6.73H9.41922V2.5H7.91922Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6252 14.5864C12.9252 15.2264 12.0952 15.7464 11.2252 16.0964C11.0252 16.1764 10.8552 16.1764 10.7552 16.1164C10.6352 16.0464 10.5952 15.8764 10.5852 15.7964C10.4652 14.6364 10.4652 13.5064 10.5752 12.4464C10.6052 12.2864 10.6652 12.1764 10.7552 12.1264C10.8152 12.0964 10.8752 12.0764 10.9452 12.0764C11.0352 12.0764 11.1252 12.0964 11.2152 12.1364C12.1252 12.5064 12.9352 13.0164 13.6352 13.6464C13.7452 13.7564 13.8752 13.9164 13.8752 14.1164C13.8852 14.3164 13.7452 14.4864 13.6252 14.5864ZM14.6352 12.5364C13.8152 11.7864 12.8552 11.1864 11.7952 10.7464C11.1852 10.4964 10.5352 10.5264 10.0052 10.8264C9.50523 11.1164 9.17523 11.6264 9.09523 12.2664C8.95523 13.4464 8.95523 14.6864 9.09523 15.9664C9.17523 16.6064 9.49523 17.1164 9.99523 17.4164C10.2752 17.5764 10.5952 17.6664 10.9252 17.6664C11.2052 17.6664 11.4952 17.6064 11.7852 17.4864C12.8152 17.0764 13.8052 16.4564 14.6352 15.6964C15.1052 15.2664 15.3752 14.7164 15.3752 14.1464V14.1164C15.3752 13.5264 15.1152 12.9664 14.6352 12.5364Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -1692,7 +2252,7 @@ class _VideoMovieReelsBroken {
   /// Reels — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Reels',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.58594 12V16.4639C3.58594 19.1218 5.24188 21 7.9027 21H16.5986C19.2516 21 20.9144 19.1218 20.9144 16.4639V7.53606C20.9144 4.87817 19.2594 3 16.5986 3H7.90368C5.24188 3 3.58594 4.87817 3.58594 7.53606V8.764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.94238 20.9773V17.3555M12.2289 20.9773V17.3555M16.5159 20.9773V17.3555" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.69922 17.3516H20.8035" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.8016 6.64844H3.69727" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.94238 3V6.6462M12.2289 3V6.6462M16.5159 3V6.6462" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8463 9.32293C11.0783 8.99934 10.2946 9.36873 10.1806 10.2391C10.0558 11.3414 10.0529 12.5227 10.1806 13.7576C10.2849 14.5949 10.9964 15.012 11.8463 14.6777C12.8443 14.2752 13.7508 13.6835 14.4769 13.0266C15.1475 12.4097 15.1319 11.5666 14.4769 10.974" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2505 21H16.2568C19.0492 21 20.7997 19.0234 20.7997 16.2251V7.77583C20.7997 4.97758 19.058 3 16.2568 3H8.24515C5.44398 3 3.70032 4.97758 3.70032 7.77583V16.2251C3.70032 19.0234 5.44398 21 8.24418 21H9.18683" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.7613 11.4675C10.9114 11.1322 10.1999 11.5503 10.0956 12.3875C9.96796 13.6224 9.97089 14.8037 10.0956 15.9061C10.2097 16.7764 10.9933 17.1458 11.7613 16.8222C12.7438 16.4197 13.6259 15.8739 14.3919 15.1712C15.0469 14.5776 15.0625 13.7345 14.3919 13.1185" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.70703 7.47656H20.7928" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.27344 7.47563V3M15.2266 7.47563V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -1707,7 +2267,7 @@ class _VideoMovieReelsTwotone {
   /// Reels — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Reels',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.8486 21H8.1527C5.49188 21 3.83594 19.1218 3.83594 16.4639V7.53606C3.83594 4.87817 5.49188 3 8.15368 3H16.8486C19.5094 3 21.1644 4.87817 21.1644 7.53606V16.4639C21.1644 19.1218 19.5016 21 16.8486 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.19287 20.9768V17.355M12.4794 20.9768V17.355M16.7663 20.9768V17.355M3.94922 17.3516H21.0535" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.0516 6.64917H3.94727M8.19189 3V6.6462M12.4784 3V6.6462M16.7654 3V6.6462" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7269 13.0266C14.0008 13.6835 13.0943 14.2752 12.0963 14.6777C11.2464 15.012 10.5349 14.5949 10.4306 13.7576C10.3029 12.5227 10.3058 11.3414 10.4306 10.2391C10.5446 9.36873 11.3283 8.99934 12.0963 9.32293C13.0788 9.72546 13.9608 10.2713 14.7269 10.974C15.3819 11.5666 15.3975 12.4097 14.7269 13.0266Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.5067 21H8.49405C5.69386 21 3.9502 19.0234 3.9502 16.2251V7.77583C3.9502 4.97758 5.69386 3 8.49503 3H16.5067C19.3079 3 21.0496 4.97758 21.0496 7.77583V16.2251C21.0496 19.0234 19.2991 21 16.5067 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6419 15.1712C13.9158 15.8281 13.0094 16.4197 12.0113 16.8222C11.1614 17.1575 10.4499 16.7394 10.3456 15.9022C10.218 14.6673 10.2209 13.486 10.3456 12.3836C10.4597 11.5133 11.2433 11.1439 12.0113 11.4675C12.9938 11.87 13.8759 12.4158 14.6419 13.1185C15.2969 13.7121 15.3125 14.5552 14.6419 15.1712Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.95703 7.47583H21.0428M9.52295 7.47563V3M15.4761 7.47563V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -1722,7 +2282,7 @@ class _VideoMovieReelsOutline {
   /// Reels — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Reels',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.94779 3.76017C4.85131 2.79002 6.13759 2.25 7.65368 2.25H16.3486C17.8643 2.25 19.1501 2.79009 20.0533 3.76031C20.9508 4.72445 21.4144 6.05235 21.4144 7.53606V16.4639C21.4144 17.9486 20.9483 19.2764 20.05 20.24C19.1463 21.2096 17.8609 21.75 16.3486 21.75H7.6527C6.13703 21.75 4.85099 21.2099 3.94763 20.2398C3.04989 19.2757 2.58594 17.9478 2.58594 16.4639V7.53606C2.58594 6.05223 3.04989 4.72429 3.94779 3.76017ZM5.04548 4.78247C4.44996 5.42191 4.08594 6.362 4.08594 7.53606V16.4639C4.08594 17.638 4.44996 18.5781 5.0454 19.2176C5.63521 19.851 6.50756 20.25 7.6527 20.25H16.3486C17.4894 20.25 18.3618 19.8513 18.9528 19.2173C19.5491 18.5775 19.9144 17.6372 19.9144 16.4639V7.53606C19.9144 6.36188 19.5505 5.42175 18.9553 4.78233C18.3658 4.14899 17.4937 3.75 16.3486 3.75H7.65368C6.50797 3.75 5.63538 4.14906 5.04548 4.78247Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.69141 16.6055C8.10562 16.6055 8.44141 16.9413 8.44141 17.3555V20.9773C8.44141 21.3915 8.10562 21.7273 7.69141 21.7273C7.27719 21.7273 6.94141 21.3915 6.94141 20.9773V17.3555C6.94141 16.9413 7.27719 16.6055 7.69141 16.6055ZM11.9779 16.6055C12.3921 16.6055 12.7279 16.9413 12.7279 17.3555V20.9773C12.7279 21.3915 12.3921 21.7273 11.9779 21.7273C11.5637 21.7273 11.2279 21.3915 11.2279 20.9773V17.3555C11.2279 16.9413 11.5637 16.6055 11.9779 16.6055ZM16.2649 16.6055C16.6791 16.6055 17.0149 16.9413 17.0149 17.3555V20.9773C17.0149 21.3915 16.6791 21.7273 16.2649 21.7273C15.8507 21.7273 15.5149 21.3915 15.5149 20.9773V17.3555C15.5149 16.9413 15.8507 16.6055 16.2649 16.6055Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.69922 17.3516C2.69922 16.9373 3.03501 16.6016 3.44922 16.6016H20.5535C20.9677 16.6016 21.3035 16.9373 21.3035 17.3516C21.3035 17.7658 20.9677 18.1016 20.5535 18.1016H3.44922C3.03501 18.1016 2.69922 17.7658 2.69922 17.3516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.69727 6.64844C2.69727 6.23422 3.03305 5.89844 3.44727 5.89844H20.5516C20.9658 5.89844 21.3016 6.23422 21.3016 6.64844C21.3016 7.06265 20.9658 7.39844 20.5516 7.39844H3.44727C3.03305 7.39844 2.69727 7.06265 2.69727 6.64844Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.69141 2.25C8.10562 2.25 8.44141 2.58579 8.44141 3V6.6462C8.44141 7.06041 8.10562 7.3962 7.69141 7.3962C7.27719 7.3962 6.94141 7.06041 6.94141 6.6462V3C6.94141 2.58579 7.27719 2.25 7.69141 2.25ZM11.9779 2.25C12.3921 2.25 12.7279 2.58579 12.7279 3V6.6462C12.7279 7.06041 12.3921 7.3962 11.9779 7.3962C11.5637 7.3962 11.2279 7.06041 11.2279 6.6462V3C11.2279 2.58579 11.5637 2.25 11.9779 2.25ZM16.2649 2.25C16.6791 2.25 17.0149 2.58579 17.0149 3V6.6462C17.0149 7.06041 16.6791 7.3962 16.2649 7.3962C15.8507 7.3962 15.5149 7.06041 15.5149 6.6462V3C15.5149 2.58579 15.8507 2.25 16.2649 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.675 10.3309C10.5579 11.3708 10.5544 12.4922 10.6757 13.6716C10.7042 13.8871 10.7936 13.9707 10.8516 14.0033C10.9139 14.0383 11.0613 14.0815 11.3191 13.9808C12.2275 13.6139 13.0574 13.0728 13.7212 12.4727C13.9243 12.285 13.9746 12.1138 13.974 11.9952C13.9733 11.875 13.9199 11.7076 13.7237 11.5301L13.7199 11.5267L13.7199 11.5267C13.024 10.8883 12.2188 10.3885 11.3119 10.0169L11.3051 10.0141L11.3051 10.0141C11.0989 9.92719 10.9484 9.95451 10.8668 9.99734C10.7968 10.0341 10.7042 10.119 10.675 10.3309ZM11.8838 8.63019C11.3229 8.39501 10.6992 8.39122 10.1696 8.66917C9.62789 8.95353 9.27269 9.48734 9.18696 10.1417L9.18685 10.1416L9.18536 10.1547C9.05407 11.3148 9.05179 12.5504 9.18458 13.8347L9.18636 13.8503C9.26318 14.4671 9.58034 15.0092 10.1161 15.3106C10.6479 15.6098 11.2804 15.6079 11.8708 15.3756L11.8708 15.3757L11.8768 15.3732C12.962 14.9356 13.9429 14.2949 14.7301 13.5828L14.7301 13.5828L14.7347 13.5785C15.2004 13.1501 15.4772 12.592 15.474 11.9871C15.4707 11.3843 15.1897 10.8346 14.7321 10.4197C13.8971 9.65411 12.9399 9.06328 11.8838 8.63019Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.12426 3.82747C5.06708 2.81495 6.41012 2.25 7.99601 2.25H16.0077C17.5936 2.25 18.9363 2.81498 19.8786 3.82764C20.8153 4.8342 21.3006 6.22201 21.3006 7.77583V16.2251C21.3006 17.78 20.8125 19.1674 19.8749 20.1733C18.9318 21.185 17.5896 21.75 16.0077 21.75H7.99503C6.40967 21.75 5.06689 21.1853 4.12418 20.1731C3.18707 19.1668 2.70117 17.7792 2.70117 16.2251V7.77583C2.70117 6.22179 3.18707 4.83396 4.12426 3.82747ZM5.22204 4.84967C4.58711 5.53154 4.20117 6.53162 4.20117 7.77583V16.2251C4.20117 17.4693 4.5871 18.4692 5.22188 19.1508C5.85105 19.8264 6.78019 20.25 7.99503 20.25H16.0077C17.2182 20.25 18.1474 19.8267 18.7777 19.1505C19.4134 18.4685 19.8006 17.4686 19.8006 16.2251V7.77583C19.8006 6.5314 19.415 5.5313 18.7805 4.8495C18.1517 4.17381 17.223 3.75 16.0077 3.75H7.99601C6.78072 3.75 5.85134 4.17384 5.22204 4.84967Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5891 12.4754C10.472 13.5153 10.4684 14.6367 10.5898 15.8161C10.6182 16.0318 10.7079 16.1157 10.7658 16.1483C10.828 16.1833 10.9751 16.2265 11.2327 16.1255C12.1415 15.7585 12.9715 15.2173 13.6355 14.6171C13.8385 14.4298 13.8887 14.2591 13.8881 14.1405C13.8874 14.0202 13.8339 13.8524 13.6373 13.6742L13.634 13.6712L13.634 13.6712C12.9381 13.0329 12.1329 12.533 11.226 12.1614L11.2191 12.1586L11.2192 12.1586C11.013 12.0717 10.8624 12.099 10.7808 12.1419C10.7109 12.1786 10.6182 12.2635 10.5891 12.4754ZM11.7979 10.7747C11.237 10.5395 10.6133 10.5358 10.0837 10.8137C9.54195 11.0981 9.18675 11.6319 9.10102 12.2862L9.10091 12.2862L9.09942 12.2993C8.96813 13.4594 8.96586 14.695 9.09864 15.9793L9.10042 15.9948C9.17722 16.6114 9.49426 17.1538 10.03 17.4554C10.562 17.7549 11.1948 17.753 11.7856 17.5199L11.7856 17.5199L11.7909 17.5178C12.8761 17.0801 13.8569 16.4395 14.6441 15.7273L14.6441 15.7273L14.6483 15.7235C15.1143 15.2954 15.3913 14.7373 15.388 14.1324C15.3848 13.5295 15.1038 12.9796 14.6464 12.5644C13.8113 11.7987 12.854 11.2078 11.7979 10.7747Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.70703 7.47656C2.70703 7.06235 3.04282 6.72656 3.45703 6.72656H20.5428C20.957 6.72656 21.2928 7.06235 21.2928 7.47656C21.2928 7.89078 20.957 8.22656 20.5428 8.22656H3.45703C3.04282 8.22656 2.70703 7.89078 2.70703 7.47656Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.02344 2.25C9.43765 2.25 9.77344 2.58579 9.77344 3V7.47563C9.77344 7.88985 9.43765 8.22563 9.02344 8.22563C8.60922 8.22563 8.27344 7.88985 8.27344 7.47563V3C8.27344 2.58579 8.60922 2.25 9.02344 2.25ZM14.9766 2.25C15.3908 2.25 15.7266 2.58579 15.7266 3V7.47563C15.7266 7.88985 15.3908 8.22563 14.9766 8.22563C14.5624 8.22563 14.2266 7.88985 14.2266 7.47563V3C14.2266 2.58579 14.5624 2.25 14.9766 2.25Z" fill="black"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -1737,7 +2297,7 @@ class _VideoMovieReelsBold {
   /// Reels — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Reels',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.1626 21.1993C8.1626 21.365 8.29691 21.4993 8.4626 21.4993H10.9266C11.0923 21.4993 11.2266 21.365 11.2266 21.1993V18.7453C11.2266 18.5796 11.0923 18.4453 10.9266 18.4453H8.4626C8.29691 18.4453 8.1626 18.5796 8.1626 18.7453V21.1993Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3073 10.0111C11.2183 9.97408 11.1303 9.95508 11.0513 9.95508C10.9783 9.95508 10.9123 9.97108 10.8583 10.0021C10.7333 10.0731 10.6893 10.2231 10.6753 10.3361C10.5563 11.3811 10.5573 12.5121 10.6773 13.6821C10.6873 13.7581 10.7243 13.9251 10.8473 13.9971C10.9553 14.0621 11.1293 14.0551 11.3253 13.9801C12.1673 13.6431 12.9983 13.1211 13.7223 12.4751C13.8383 12.3661 13.9743 12.1961 13.9743 11.9961C13.9733 11.7951 13.8363 11.6271 13.7213 11.5221C13.0373 10.8981 12.2483 10.4041 11.3073 10.0111Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.1626 5.254C8.1626 5.41969 8.29691 5.554 8.4626 5.554H10.9266C11.0923 5.554 11.2266 5.41969 11.2266 5.254V2.8C11.2266 2.63431 11.0923 2.5 10.9266 2.5H8.4626C8.29691 2.5 8.1626 2.63431 8.1626 2.8V5.254Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7369 13.5798C14.7339 13.5828 14.7309 13.5858 14.7269 13.5888C13.8739 14.3518 12.8869 14.9708 11.8749 15.3758C11.5879 15.4868 11.3019 15.5428 11.0289 15.5428C10.6869 15.5428 10.3639 15.4568 10.0779 15.2858C9.58194 14.9898 9.26594 14.4808 9.18694 13.8518C9.05294 12.5588 9.05394 11.3198 9.18594 10.1538C9.27094 9.5088 9.59694 8.9978 10.1079 8.7028C10.6299 8.4018 11.2769 8.37381 11.8839 8.6268C12.9729 9.0808 13.9309 9.68281 14.7329 10.4158C15.2089 10.8518 15.4719 11.4118 15.4739 11.9918C15.4759 12.5738 15.2139 13.1378 14.7369 13.5798ZM21.1639 7.3498C21.1639 7.18412 21.0296 7.0498 20.8639 7.0498H3.13594C2.97025 7.0498 2.83594 7.18412 2.83594 7.3498V16.6498C2.83594 16.8155 2.97025 16.9498 3.13594 16.9498H20.8639C21.0296 16.9498 21.1639 16.8155 21.1639 16.6498V7.3498Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7266 21.1993C12.7266 21.365 12.8609 21.4993 13.0266 21.4993H15.4906C15.6562 21.4993 15.7906 21.365 15.7906 21.1993V18.7453C15.7906 18.5796 15.6562 18.4453 15.4906 18.4453H13.0266C12.8609 18.4453 12.7266 18.5796 12.7266 18.7453V21.1993Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7266 5.254C12.7266 5.41969 12.8609 5.554 13.0266 5.554H15.4906C15.6562 5.554 15.7906 5.41969 15.7906 5.254V2.8C15.7906 2.63431 15.6562 2.5 15.4906 2.5H13.0266C12.8609 2.5 12.7266 2.63431 12.7266 2.8V5.254Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.66218 18.7463C6.66218 18.5806 6.52787 18.4463 6.36218 18.4463H3.5881C3.38114 18.4463 3.23673 18.6512 3.32178 18.8398C3.89161 20.1039 4.93889 20.9906 6.31187 21.3362C6.49297 21.3818 6.66218 21.2398 6.66218 21.0531V18.7463Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2911 5.25298C17.2911 5.41867 17.4255 5.55298 17.5911 5.55298H20.4123C20.6192 5.55298 20.7636 5.34813 20.6786 5.15949C20.1019 3.88063 19.0357 2.99096 17.6389 2.65497C17.4584 2.61156 17.2911 2.75324 17.2911 2.93887V5.25298Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5911 18.4463C17.4255 18.4463 17.2911 18.5806 17.2911 18.7463V21.0604C17.2911 21.246 17.4584 21.3877 17.6389 21.3443C19.0357 21.0083 20.1019 20.1186 20.6786 18.8398C20.7636 18.6511 20.6192 18.4463 20.4123 18.4463H17.5911Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.36218 5.55289C6.52787 5.55289 6.66218 5.41858 6.66218 5.25289V2.94608C6.66218 2.75934 6.49297 2.6174 6.31187 2.66299C4.93889 3.00859 3.89161 3.8953 3.32178 5.15934C3.23673 5.34802 3.38114 5.55289 3.5881 5.55289H6.36218Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70264 6.729C7.86833 6.729 8.00264 6.59516 8.00289 6.42947C8.00466 5.28401 8.01528 3.50418 8.01971 2.80072C8.02076 2.63426 7.88571 2.49916 7.71947 2.50791C5.41788 2.62906 3.60041 4.13289 3.10087 6.38398C3.06096 6.56385 3.20218 6.729 3.38642 6.729H7.70264Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5113 2.80072C14.5124 2.63426 14.3777 2.5 14.2113 2.5H9.78529C9.61882 2.5 9.48416 2.63426 9.48521 2.80072C9.48964 3.50398 9.50027 5.28309 9.50203 6.42947C9.50228 6.59515 9.63659 6.729 9.80228 6.729H14.1943C14.36 6.729 14.4943 6.59515 14.4945 6.42946C14.4963 5.28309 14.5069 3.50398 14.5113 2.80072Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9936 6.42949C15.9939 6.59517 16.1282 6.72902 16.2939 6.72902H20.6121C20.7963 6.72902 20.9375 6.56387 20.8976 6.384C20.3979 4.13107 18.5801 2.62793 16.277 2.50692C16.1108 2.49818 15.9757 2.63328 15.9768 2.79975C15.9812 3.50314 15.9918 5.2828 15.9936 6.42949Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6442 15.7245C13.8112 16.4815 12.8242 17.1005 11.7872 17.5155C11.4982 17.6305 11.2102 17.6885 10.9332 17.6885C10.5982 17.6885 10.2802 17.6045 9.99722 17.4375C9.49722 17.1415 9.17822 16.6285 9.09922 15.9915C8.96522 14.7115 8.96522 13.4725 9.09822 12.2955C9.18222 11.6555 9.51922 11.1285 10.0272 10.8405C10.5512 10.5415 11.1982 10.5215 11.8042 10.7805C12.8612 11.2105 13.8212 11.8135 14.6452 12.5665C15.1202 12.9945 15.3852 13.5545 15.3862 14.1395C15.3882 14.7245 15.1242 15.2875 14.6442 15.7245ZM3.24922 8.22949C3.08353 8.22949 2.94922 8.36381 2.94922 8.52949V16.2295C2.94922 19.3815 4.97622 21.4995 7.99322 21.4995H16.0062C19.0222 21.4995 21.0492 19.3815 21.0492 16.2295V8.52949C21.0492 8.36381 20.9149 8.22949 20.7492 8.22949H3.24922Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.2253 12.1636C11.1253 12.1216 11.0323 12.1006 10.9503 12.1006C10.8813 12.1006 10.8203 12.1146 10.7693 12.1436C10.6453 12.2146 10.6013 12.3636 10.5873 12.4766C10.4683 13.5326 10.4683 14.6626 10.5893 15.8206C10.6003 15.9016 10.6383 16.0726 10.7603 16.1456C10.8663 16.2076 11.0363 16.1996 11.2293 16.1226C12.1023 15.7726 12.9333 15.2516 13.6353 14.6146C13.7493 14.5096 13.8873 14.3436 13.8863 14.1426C13.8863 13.9426 13.7503 13.7786 13.6373 13.6776C12.9413 13.0406 12.1303 12.5326 11.2253 12.1636Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -1752,7 +2312,223 @@ class _VideoMovieReelsLight {
   /// Reels — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Reels',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.0077 21H7.99503C5.19484 21 3.45117 19.0234 3.45117 16.2251V7.77583C3.45117 4.97758 5.19484 3 7.99601 3H16.0077C18.8089 3 20.5506 4.97758 20.5506 7.77583V16.2251C20.5506 19.0234 18.8001 21 16.0077 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.141 15.1712C13.4148 15.8281 12.5084 16.4197 11.5104 16.8222C10.6605 17.1575 9.94896 16.7394 9.84467 15.9022C9.71699 14.6673 9.71991 13.486 9.84467 12.3836C9.9587 11.5133 10.7423 11.1439 11.5104 11.4675C12.4928 11.87 13.3749 12.4158 14.141 13.1185C14.7959 13.7121 14.8115 14.5552 14.141 15.1712Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.45703 7.47656H20.5428" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.02344 7.47563V3M14.9766 7.47563V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reels 1 icon with style variants.
+class _VideoMovieReels1Icon {
+  const _VideoMovieReels1Icon();
+
+  /// bold style
+  _VideoMovieReels1Bold get bold => const _VideoMovieReels1Bold();
+  /// bulk style
+  _VideoMovieReels1Bulk get bulk => const _VideoMovieReels1Bulk();
+  /// light style
+  _VideoMovieReels1Light get light => const _VideoMovieReels1Light();
+  /// outline style
+  _VideoMovieReels1Outline get outline => const _VideoMovieReels1Outline();
+  /// twoTone style
+  _VideoMovieReels1Twotone get twoTone => const _VideoMovieReels1Twotone();
+  /// broken style
+  _VideoMovieReels1Broken get broken => const _VideoMovieReels1Broken();
+}
+
+/// Reels 1 — bulk style variants.
+class _VideoMovieReels1Bulk {
+  const _VideoMovieReels1Bulk();
+
+  /// Reels 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reels 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.1598 7.54V16.46C21.1598 16.63 21.1498 16.79 21.1398 16.95C21.0998 17.49 20.9998 17.99 20.8398 18.45C20.2798 20.05 19.0098 21.13 17.2898 21.42C16.9898 21.47 16.6798 21.5 16.3498 21.5H7.64984C7.29984 21.5 6.96984 21.47 6.65984 21.42C4.96984 21.11 3.71984 20.04 3.15984 18.45C2.99984 18 2.89984 17.5 2.85984 16.96C2.84984 16.8 2.83984 16.63 2.83984 16.46V7.54C2.83984 7.37 2.84984 7.21 2.85984 7.05C2.89984 6.51 2.99984 6.01 3.15984 5.55C3.71984 3.97 4.96984 2.89 6.65984 2.58C6.96984 2.53 7.29984 2.5 7.64984 2.5H16.3498C16.6798 2.5 16.9898 2.53 17.2898 2.58C19.0098 2.87 20.2798 3.95 20.8398 5.55C20.9998 6.01 21.0998 6.51 21.1398 7.05C21.1498 7.21 21.1598 7.37 21.1598 7.54Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.85938 16.9602C2.89937 17.5002 2.99938 18.0002 3.15938 18.4502H6.65937V21.4202C6.96938 21.4702 7.29938 21.5002 7.64937 21.5002H8.15938V18.4502H11.2294V21.5002H12.7294V18.4502H15.7894V21.5002H16.3494C16.6794 21.5002 16.9894 21.4702 17.2894 21.4202V18.4502H20.8394C20.9994 17.9902 21.0994 17.4902 21.1394 16.9502H2.89937C2.88937 16.9502 2.86937 16.9502 2.85938 16.9602Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.1395 7.05C21.0995 6.51 20.9995 6.01 20.8395 5.55H17.2895V2.58C16.9895 2.53 16.6795 2.5 16.3495 2.5H15.7895V5.55H12.7295V2.5H11.2295V5.55H8.1595V2.5H7.6495C7.2995 2.5 6.9695 2.53 6.6595 2.58V5.55H3.1595C2.9995 6.01 2.8995 6.51 2.8595 7.05H21.1395Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9694 12.0006C13.9694 12.2006 13.8394 12.3706 13.7194 12.4806C12.9994 13.1206 12.1694 13.6406 11.3194 13.9806C11.1294 14.0606 10.9594 14.0606 10.8494 14.0006C10.7194 13.9306 10.6894 13.7606 10.6794 13.6806C10.5594 12.5106 10.5594 11.3806 10.6694 10.3406C10.6894 10.2206 10.7294 10.0806 10.8594 10.0006C10.9094 9.97064 10.9794 9.96064 11.0494 9.96064C11.1294 9.96064 11.2194 9.98064 11.3094 10.0106C12.2494 10.4106 13.0394 10.9006 13.7194 11.5206C13.8394 11.6306 13.9694 11.8006 13.9694 12.0006ZM10.1094 8.70064C9.59935 9.00064 9.26935 9.51064 9.18935 10.1606C9.04935 11.3206 9.04935 12.5606 9.18935 13.8506C9.26935 14.4806 9.57935 14.9906 10.0794 15.2906C10.3594 15.4606 10.6894 15.5406 11.0294 15.5406C11.2994 15.5406 11.5894 15.4906 11.8794 15.3806C12.8894 14.9706 13.8694 14.3506 14.7294 13.5906C14.7294 13.5906 14.7294 13.5806 14.7394 13.5806C15.2094 13.1406 15.4794 12.5806 15.4694 11.9906C15.4694 11.4106 15.2094 10.8506 14.7294 10.4206C13.9294 9.68064 12.9694 9.08064 11.8794 8.63064C11.2794 8.38064 10.6294 8.40064 10.1094 8.70064Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reels 1 — broken style variants.
+class _VideoMovieReels1Broken {
+  const _VideoMovieReels1Broken();
+
+  /// Reels 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reels 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.58594 12V16.4639C3.58594 19.1218 5.24188 21 7.9027 21H16.5986C19.2516 21 20.9144 19.1218 20.9144 16.4639V7.53606C20.9144 4.87817 19.2594 3 16.5986 3H7.90368C5.24188 3 3.58594 4.87817 3.58594 7.53606V8.764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.94238 20.9773V17.3555M12.2289 20.9773V17.3555M16.5159 20.9773V17.3555" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.69922 17.3516H20.8035" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.8016 6.64844H3.69727" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.94238 3V6.6462M12.2289 3V6.6462M16.5159 3V6.6462" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8463 9.32293C11.0783 8.99934 10.2946 9.36873 10.1806 10.2391C10.0558 11.3414 10.0529 12.5227 10.1806 13.7576C10.2849 14.5949 10.9964 15.012 11.8463 14.6777C12.8443 14.2752 13.7508 13.6835 14.4769 13.0266C15.1475 12.4097 15.1319 11.5666 14.4769 10.974" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reels 1 — twoTone style variants.
+class _VideoMovieReels1Twotone {
+  const _VideoMovieReels1Twotone();
+
+  /// Reels 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reels 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.8486 21H8.1527C5.49188 21 3.83594 19.1218 3.83594 16.4639V7.53606C3.83594 4.87817 5.49188 3 8.15368 3H16.8486C19.5094 3 21.1644 4.87817 21.1644 7.53606V16.4639C21.1644 19.1218 19.5016 21 16.8486 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.19287 20.9768V17.355M12.4794 20.9768V17.355M16.7663 20.9768V17.355M3.94922 17.3516H21.0535" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.0516 6.64917H3.94727M8.19189 3V6.6462M12.4784 3V6.6462M16.7654 3V6.6462" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7269 13.0266C14.0008 13.6835 13.0943 14.2752 12.0963 14.6777C11.2464 15.012 10.5349 14.5949 10.4306 13.7576C10.3029 12.5227 10.3058 11.3414 10.4306 10.2391C10.5446 9.36873 11.3283 8.99934 12.0963 9.32293C13.0788 9.72546 13.9608 10.2713 14.7269 10.974C15.3819 11.5666 15.3975 12.4097 14.7269 13.0266Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reels 1 — outline style variants.
+class _VideoMovieReels1Outline {
+  const _VideoMovieReels1Outline();
+
+  /// Reels 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reels 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.94779 3.76017C4.85131 2.79002 6.13759 2.25 7.65368 2.25H16.3486C17.8643 2.25 19.1501 2.79009 20.0533 3.76031C20.9508 4.72445 21.4144 6.05235 21.4144 7.53606V16.4639C21.4144 17.9486 20.9483 19.2764 20.05 20.24C19.1463 21.2096 17.8609 21.75 16.3486 21.75H7.6527C6.13703 21.75 4.85099 21.2099 3.94763 20.2398C3.04989 19.2757 2.58594 17.9478 2.58594 16.4639V7.53606C2.58594 6.05223 3.04989 4.72429 3.94779 3.76017ZM5.04548 4.78247C4.44996 5.42191 4.08594 6.362 4.08594 7.53606V16.4639C4.08594 17.638 4.44996 18.5781 5.0454 19.2176C5.63521 19.851 6.50756 20.25 7.6527 20.25H16.3486C17.4894 20.25 18.3618 19.8513 18.9528 19.2173C19.5491 18.5775 19.9144 17.6372 19.9144 16.4639V7.53606C19.9144 6.36188 19.5505 5.42175 18.9553 4.78233C18.3658 4.14899 17.4937 3.75 16.3486 3.75H7.65368C6.50797 3.75 5.63538 4.14906 5.04548 4.78247Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.69141 16.6055C8.10562 16.6055 8.44141 16.9413 8.44141 17.3555V20.9773C8.44141 21.3915 8.10562 21.7273 7.69141 21.7273C7.27719 21.7273 6.94141 21.3915 6.94141 20.9773V17.3555C6.94141 16.9413 7.27719 16.6055 7.69141 16.6055ZM11.9779 16.6055C12.3921 16.6055 12.7279 16.9413 12.7279 17.3555V20.9773C12.7279 21.3915 12.3921 21.7273 11.9779 21.7273C11.5637 21.7273 11.2279 21.3915 11.2279 20.9773V17.3555C11.2279 16.9413 11.5637 16.6055 11.9779 16.6055ZM16.2649 16.6055C16.6791 16.6055 17.0149 16.9413 17.0149 17.3555V20.9773C17.0149 21.3915 16.6791 21.7273 16.2649 21.7273C15.8507 21.7273 15.5149 21.3915 15.5149 20.9773V17.3555C15.5149 16.9413 15.8507 16.6055 16.2649 16.6055Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.69922 17.3516C2.69922 16.9373 3.03501 16.6016 3.44922 16.6016H20.5535C20.9677 16.6016 21.3035 16.9373 21.3035 17.3516C21.3035 17.7658 20.9677 18.1016 20.5535 18.1016H3.44922C3.03501 18.1016 2.69922 17.7658 2.69922 17.3516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.69727 6.64844C2.69727 6.23422 3.03305 5.89844 3.44727 5.89844H20.5516C20.9658 5.89844 21.3016 6.23422 21.3016 6.64844C21.3016 7.06265 20.9658 7.39844 20.5516 7.39844H3.44727C3.03305 7.39844 2.69727 7.06265 2.69727 6.64844Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.69141 2.25C8.10562 2.25 8.44141 2.58579 8.44141 3V6.6462C8.44141 7.06041 8.10562 7.3962 7.69141 7.3962C7.27719 7.3962 6.94141 7.06041 6.94141 6.6462V3C6.94141 2.58579 7.27719 2.25 7.69141 2.25ZM11.9779 2.25C12.3921 2.25 12.7279 2.58579 12.7279 3V6.6462C12.7279 7.06041 12.3921 7.3962 11.9779 7.3962C11.5637 7.3962 11.2279 7.06041 11.2279 6.6462V3C11.2279 2.58579 11.5637 2.25 11.9779 2.25ZM16.2649 2.25C16.6791 2.25 17.0149 2.58579 17.0149 3V6.6462C17.0149 7.06041 16.6791 7.3962 16.2649 7.3962C15.8507 7.3962 15.5149 7.06041 15.5149 6.6462V3C15.5149 2.58579 15.8507 2.25 16.2649 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.675 10.3309C10.5579 11.3708 10.5544 12.4922 10.6757 13.6716C10.7042 13.8871 10.7936 13.9707 10.8516 14.0033C10.9139 14.0383 11.0613 14.0815 11.3191 13.9808C12.2275 13.6139 13.0574 13.0728 13.7212 12.4727C13.9243 12.285 13.9746 12.1138 13.974 11.9952C13.9733 11.875 13.9199 11.7076 13.7237 11.5301L13.7199 11.5267L13.7199 11.5267C13.024 10.8883 12.2188 10.3885 11.3119 10.0169L11.3051 10.0141L11.3051 10.0141C11.0989 9.92719 10.9484 9.95451 10.8668 9.99734C10.7968 10.0341 10.7042 10.119 10.675 10.3309ZM11.8838 8.63019C11.3229 8.39501 10.6992 8.39122 10.1696 8.66917C9.62789 8.95353 9.27269 9.48734 9.18696 10.1417L9.18685 10.1416L9.18536 10.1547C9.05407 11.3148 9.05179 12.5504 9.18458 13.8347L9.18636 13.8503C9.26318 14.4671 9.58034 15.0092 10.1161 15.3106C10.6479 15.6098 11.2804 15.6079 11.8708 15.3756L11.8708 15.3757L11.8768 15.3732C12.962 14.9356 13.9429 14.2949 14.7301 13.5828L14.7301 13.5828L14.7347 13.5785C15.2004 13.1501 15.4772 12.592 15.474 11.9871C15.4707 11.3843 15.1897 10.8346 14.7321 10.4197C13.8971 9.65411 12.9399 9.06328 11.8838 8.63019Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reels 1 — bold style variants.
+class _VideoMovieReels1Bold {
+  const _VideoMovieReels1Bold();
+
+  /// Reels 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reels 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.1626 21.1993C8.1626 21.365 8.29691 21.4993 8.4626 21.4993H10.9266C11.0923 21.4993 11.2266 21.365 11.2266 21.1993V18.7453C11.2266 18.5796 11.0923 18.4453 10.9266 18.4453H8.4626C8.29691 18.4453 8.1626 18.5796 8.1626 18.7453V21.1993Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3073 10.0111C11.2183 9.97408 11.1303 9.95508 11.0513 9.95508C10.9783 9.95508 10.9123 9.97108 10.8583 10.0021C10.7333 10.0731 10.6893 10.2231 10.6753 10.3361C10.5563 11.3811 10.5573 12.5121 10.6773 13.6821C10.6873 13.7581 10.7243 13.9251 10.8473 13.9971C10.9553 14.0621 11.1293 14.0551 11.3253 13.9801C12.1673 13.6431 12.9983 13.1211 13.7223 12.4751C13.8383 12.3661 13.9743 12.1961 13.9743 11.9961C13.9733 11.7951 13.8363 11.6271 13.7213 11.5221C13.0373 10.8981 12.2483 10.4041 11.3073 10.0111Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.1626 5.254C8.1626 5.41969 8.29691 5.554 8.4626 5.554H10.9266C11.0923 5.554 11.2266 5.41969 11.2266 5.254V2.8C11.2266 2.63431 11.0923 2.5 10.9266 2.5H8.4626C8.29691 2.5 8.1626 2.63431 8.1626 2.8V5.254Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7369 13.5798C14.7339 13.5828 14.7309 13.5858 14.7269 13.5888C13.8739 14.3518 12.8869 14.9708 11.8749 15.3758C11.5879 15.4868 11.3019 15.5428 11.0289 15.5428C10.6869 15.5428 10.3639 15.4568 10.0779 15.2858C9.58194 14.9898 9.26594 14.4808 9.18694 13.8518C9.05294 12.5588 9.05394 11.3198 9.18594 10.1538C9.27094 9.5088 9.59694 8.9978 10.1079 8.7028C10.6299 8.4018 11.2769 8.37381 11.8839 8.6268C12.9729 9.0808 13.9309 9.68281 14.7329 10.4158C15.2089 10.8518 15.4719 11.4118 15.4739 11.9918C15.4759 12.5738 15.2139 13.1378 14.7369 13.5798ZM21.1639 7.3498C21.1639 7.18412 21.0296 7.0498 20.8639 7.0498H3.13594C2.97025 7.0498 2.83594 7.18412 2.83594 7.3498V16.6498C2.83594 16.8155 2.97025 16.9498 3.13594 16.9498H20.8639C21.0296 16.9498 21.1639 16.8155 21.1639 16.6498V7.3498Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7266 21.1993C12.7266 21.365 12.8609 21.4993 13.0266 21.4993H15.4906C15.6562 21.4993 15.7906 21.365 15.7906 21.1993V18.7453C15.7906 18.5796 15.6562 18.4453 15.4906 18.4453H13.0266C12.8609 18.4453 12.7266 18.5796 12.7266 18.7453V21.1993Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7266 5.254C12.7266 5.41969 12.8609 5.554 13.0266 5.554H15.4906C15.6562 5.554 15.7906 5.41969 15.7906 5.254V2.8C15.7906 2.63431 15.6562 2.5 15.4906 2.5H13.0266C12.8609 2.5 12.7266 2.63431 12.7266 2.8V5.254Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.66218 18.7463C6.66218 18.5806 6.52787 18.4463 6.36218 18.4463H3.5881C3.38114 18.4463 3.23673 18.6512 3.32178 18.8398C3.89161 20.1039 4.93889 20.9906 6.31187 21.3362C6.49297 21.3818 6.66218 21.2398 6.66218 21.0531V18.7463Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2911 5.25298C17.2911 5.41867 17.4255 5.55298 17.5911 5.55298H20.4123C20.6192 5.55298 20.7636 5.34813 20.6786 5.15949C20.1019 3.88063 19.0357 2.99096 17.6389 2.65497C17.4584 2.61156 17.2911 2.75324 17.2911 2.93887V5.25298Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5911 18.4463C17.4255 18.4463 17.2911 18.5806 17.2911 18.7463V21.0604C17.2911 21.246 17.4584 21.3877 17.6389 21.3443C19.0357 21.0083 20.1019 20.1186 20.6786 18.8398C20.7636 18.6511 20.6192 18.4463 20.4123 18.4463H17.5911Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.36218 5.55289C6.52787 5.55289 6.66218 5.41858 6.66218 5.25289V2.94608C6.66218 2.75934 6.49297 2.6174 6.31187 2.66299C4.93889 3.00859 3.89161 3.8953 3.32178 5.15934C3.23673 5.34802 3.38114 5.55289 3.5881 5.55289H6.36218Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reels 1 — light style variants.
+class _VideoMovieReels1Light {
+  const _VideoMovieReels1Light();
+
+  /// Reels 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reels 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.3486 21H7.6527C4.99188 21 3.33594 19.1218 3.33594 16.4639V7.53606C3.33594 4.87817 4.99188 3 7.65368 3H16.3486C19.0094 3 20.6644 4.87817 20.6644 7.53606V16.4639C20.6644 19.1218 19.0016 21 16.3486 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.69141 20.9773V17.3555M11.9779 20.9773V17.3555M16.2649 20.9773V17.3555" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.44922 17.3516H20.5535" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.5516 6.64844H3.44727" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.69141 3V6.6462M11.9779 3V6.6462M16.2649 3V6.6462" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2269 13.0266C13.5008 13.6835 12.5943 14.2752 11.5963 14.6777C10.7464 15.012 10.0349 14.5949 9.9306 13.7576C9.80292 12.5227 9.80585 11.3414 9.9306 10.2391C10.0446 9.36873 10.8283 8.99934 11.5963 9.32293C12.5788 9.72546 13.4608 10.2713 14.2269 10.974C14.8819 11.5666 14.8975 12.4097 14.2269 13.0266Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reels 2 icon with style variants.
+class _VideoMovieReels2Icon {
+  const _VideoMovieReels2Icon();
+
+  /// bold style
+  _VideoMovieReels2Bold get bold => const _VideoMovieReels2Bold();
+  /// bulk style
+  _VideoMovieReels2Bulk get bulk => const _VideoMovieReels2Bulk();
+  /// light style
+  _VideoMovieReels2Light get light => const _VideoMovieReels2Light();
+  /// outline style
+  _VideoMovieReels2Outline get outline => const _VideoMovieReels2Outline();
+  /// twoTone style
+  _VideoMovieReels2Twotone get twoTone => const _VideoMovieReels2Twotone();
+  /// broken style
+  _VideoMovieReels2Broken get broken => const _VideoMovieReels2Broken();
+}
+
+/// Reels 2 — bulk style variants.
+class _VideoMovieReels2Bulk {
+  const _VideoMovieReels2Bulk();
+
+  /// Reels 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reels 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.1598 7.46V16.46C21.1598 19.47 19.2298 21.5 16.3498 21.5H7.64984C4.76984 21.5 2.83984 19.47 2.83984 16.46V7.46C2.86984 5.31 3.87984 3.67 5.51984 2.94C5.95984 2.74 6.43984 2.6 6.95984 2.54C7.17984 2.51 7.40984 2.5 7.64984 2.5H16.4298C19.2398 2.54 21.1298 4.51 21.1598 7.46Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7699 14.73C13.0699 15.37 12.2399 15.89 11.3699 16.24C11.1699 16.32 10.9999 16.32 10.8999 16.26C10.7799 16.19 10.7399 16.02 10.7299 15.94C10.6099 14.78 10.6099 13.65 10.7199 12.59C10.7499 12.43 10.8099 12.32 10.8999 12.27C10.9599 12.24 11.0199 12.22 11.0899 12.22C11.1799 12.22 11.2699 12.24 11.3599 12.28C12.2699 12.65 13.0799 13.16 13.7799 13.79C13.8899 13.9 14.0199 14.06 14.0199 14.26C14.0299 14.46 13.8899 14.63 13.7699 14.73ZM14.7799 12.68C13.9599 11.93 12.9999 11.33 11.9399 10.89C11.3299 10.64 10.6799 10.67 10.1499 10.97C9.64989 11.26 9.31989 11.77 9.23989 12.41C9.09989 13.59 9.09989 14.83 9.23989 16.11C9.31989 16.75 9.63989 17.26 10.1399 17.56C10.4199 17.72 10.7399 17.81 11.0699 17.81C11.3499 17.81 11.6399 17.75 11.9299 17.63C12.9599 17.22 13.9499 16.6 14.7799 15.84C15.2499 15.41 15.5199 14.86 15.5199 14.29V14.26C15.5199 13.67 15.2599 13.11 14.7799 12.68Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.1598 7.46V8.96H2.83984V7.46H6.73984L5.51984 2.94C5.95984 2.74 6.43984 2.6 6.95984 2.54L8.29984 7.46H11.4898L10.1398 2.62C10.1298 2.58 10.1198 2.54 10.1198 2.5H11.6598L13.0498 7.46H16.2498L14.8998 2.62C14.8898 2.58 14.8798 2.54 14.8798 2.5H16.4298L17.8098 7.46H21.1598Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reels 2 — broken style variants.
+class _VideoMovieReels2Broken {
+  const _VideoMovieReels2Broken();
+
+  /// Reels 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reels 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2492 21H16.5967C19.2585 21 20.9144 19.1218 20.9144 16.4639V7.53606C20.9144 4.87817 19.2585 3 16.5976 3H7.90173C5.24871 3 3.58594 4.87817 3.58594 7.53606V16.4639C3.58594 19.1218 5.24091 21 7.90173 21H9.07546" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8981 11.588C11.13 11.2654 10.3464 11.6348 10.2324 12.5042C10.1076 13.6065 10.1047 14.7888 10.2324 16.0227C10.3367 16.8599 11.0482 17.2781 11.8981 16.9428C12.8961 16.5403 13.8025 15.9496 14.5287 15.2917C15.1992 14.6757 15.1836 13.8327 14.5287 13.2391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.8016 8.20703H3.69727" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.39866 8.20171L7.01172 3.07696M12.6747 8.20176L11.2264 3.00391M16.9598 8.20176L15.5114 3.00391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reels 2 — twoTone style variants.
+class _VideoMovieReels2Twotone {
+  const _VideoMovieReels2Twotone();
+
+  /// Reels 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reels 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.15173 3H16.8476C19.5085 3 21.1644 4.87817 21.1644 7.53606V16.4639C21.1644 19.1218 19.5085 21 16.8467 21H8.15173C5.49091 21 3.83594 19.1218 3.83594 16.4639V7.53606C3.83594 4.87817 5.49871 3 8.15173 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7787 15.2917C14.0525 15.9496 13.1461 16.5403 12.1481 16.9428C11.2982 17.2781 10.5867 16.8599 10.4824 16.0227C10.3547 14.7888 10.3576 13.6065 10.4824 12.5042C10.5964 11.6348 11.38 11.2654 12.1481 11.588C13.1305 11.9905 14.0126 12.5373 14.7787 13.2391C15.4336 13.8327 15.4492 14.6757 14.7787 15.2917Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.0516 8.20898H3.94727M8.64866 8.20171L7.26172 3.07696M12.9247 8.20176L11.4764 3.00391M17.2098 8.20176L15.7614 3.00391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reels 2 — outline style variants.
+class _VideoMovieReels2Outline {
+  const _VideoMovieReels2Outline();
+
+  /// Reels 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reels 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.95031 3.75995C4.85402 2.79039 6.13945 2.25 7.65173 2.25H16.3476C17.8633 2.25 19.1493 2.79007 20.0527 3.76022C20.9504 4.72432 21.4144 6.05223 21.4144 7.53606V16.4639C21.4144 17.9478 20.9504 19.2757 20.0525 20.2398C19.149 21.21 17.8627 21.75 16.3467 21.75H7.65173C6.13603 21.75 4.85019 21.2099 3.94706 20.2397C3.04957 19.2755 2.58594 17.9477 2.58594 16.4639V7.53606C2.58594 6.05142 3.05207 4.72365 3.95031 3.75995ZM5.04758 4.78269C4.45119 5.42255 4.08594 6.36281 4.08594 7.53606V16.4639C4.08594 17.6381 4.44979 18.5783 5.04499 19.2177C5.63455 19.851 6.5066 20.25 7.65173 20.25H16.3467C17.4924 20.25 18.365 19.8509 18.9549 19.2175C19.5504 18.5781 19.9144 17.638 19.9144 16.4639V7.53606C19.9144 6.362 19.5504 5.42188 18.9549 4.78242C18.3651 4.14901 17.4928 3.75 16.3476 3.75H7.65173C6.51098 3.75 5.63852 4.14869 5.04758 4.78269Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.7258 12.5961C10.6087 13.6359 10.6052 14.7583 10.7265 15.9367C10.755 16.1523 10.8446 16.2362 10.9025 16.2689C10.9647 16.3038 11.1118 16.347 11.3695 16.246C12.2786 15.8789 13.1086 15.3385 13.772 14.7378C13.9751 14.5505 14.0254 14.3797 14.0248 14.261C14.0241 14.1408 13.9706 13.9729 13.774 13.7948L13.7711 13.7921L13.7711 13.7921C13.0747 13.1542 12.2692 12.6534 11.3627 12.282L11.3566 12.2795L11.3566 12.2795C11.1504 12.1928 10.9995 12.2201 10.9175 12.2632C10.8473 12.3 10.7549 12.3849 10.7258 12.5961ZM11.9342 10.8951C11.3733 10.6605 10.7497 10.6572 10.2204 10.935C9.67899 11.2192 9.32355 11.7525 9.23776 12.4066L9.23764 12.4066L9.23614 12.4198C9.10485 13.5799 9.10257 14.8165 9.23537 16.0999L9.23714 16.1154C9.31394 16.732 9.63097 17.2744 10.1667 17.576C10.6987 17.8754 11.3315 17.8735 11.9223 17.6404L11.9223 17.6405L11.9276 17.6383C13.0124 17.2008 13.9935 16.5612 14.7813 15.8475L14.7813 15.8475L14.7851 15.844C15.2511 15.4159 15.528 14.8579 15.5247 14.2529C15.5215 13.6499 15.2404 13.1 14.7829 12.6847C13.9482 11.9204 12.9909 11.3284 11.9342 10.8951Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.69727 8.20703C2.69727 7.79282 3.03305 7.45703 3.44727 7.45703H20.5516C20.9658 7.45703 21.3016 7.79282 21.3016 8.20703C21.3016 8.62124 20.9658 8.95703 20.5516 8.95703H3.44727C3.03305 8.95703 2.69727 8.62124 2.69727 8.20703Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.7752 2.28162C11.1742 2.17044 11.5878 2.40377 11.699 2.80278L13.1474 8.00064C13.2585 8.39965 13.0252 8.81325 12.6262 8.92443C12.2272 9.03561 11.8136 8.80228 11.7024 8.40327L10.2541 3.20541C10.1429 2.8064 10.3762 2.3928 10.7752 2.28162ZM15.0603 2.28162C15.4593 2.17044 15.8729 2.40377 15.9841 2.80278L17.4324 8.00064C17.5436 8.39965 17.3103 8.81325 16.9113 8.92443C16.5123 9.03561 16.0987 8.80228 15.9875 8.40327L14.5391 3.20541C14.428 2.8064 14.6613 2.3928 15.0603 2.28162ZM6.56598 2.35319C6.96581 2.24498 7.37765 2.48139 7.48586 2.88122L8.8728 8.00598C8.98101 8.40581 8.7446 8.81765 8.34477 8.92586C7.94494 9.03407 7.5331 8.79766 7.42489 8.39783L6.03795 3.27308C5.92974 2.87325 6.16615 2.4614 6.56598 2.35319Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reels 2 — bold style variants.
+class _VideoMovieReels2Bold {
+  const _VideoMovieReels2Bold();
+
+  /// Reels 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reels 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.23769 7.23844C8.27311 7.3692 8.39177 7.46 8.52725 7.46H11.0927C11.2912 7.46 11.4353 7.27161 11.3823 7.08031C10.991 5.66608 10.3825 3.42727 10.1907 2.721C10.1552 2.59029 10.0367 2.5 9.90123 2.5H7.6517C7.53626 2.5 7.42484 2.50807 7.31503 2.51946C7.13312 2.53834 7.01357 2.71925 7.06138 2.89577L8.23769 7.23844Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9526 2.72095C14.9171 2.59027 14.7986 2.5 14.6631 2.5H12.0586C11.8601 2.5 11.7163 2.68931 11.7696 2.88052L12.9844 7.24052C13.0206 7.37025 13.1387 7.46 13.2734 7.46H15.8555C16.054 7.46 16.1981 7.27156 16.1451 7.08025C15.7532 5.66499 15.1444 3.427 14.9526 2.72095Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.7465 7.24035C17.7826 7.37009 17.9008 7.45984 18.0355 7.45984H20.854C21.0211 7.45984 21.1567 7.32298 21.1473 7.15616C20.9979 4.52343 19.3191 2.73029 16.8283 2.52582C16.6288 2.50944 16.4814 2.69991 16.5351 2.89275L17.7465 7.24035Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.35104 7.45922C6.54864 7.45922 6.69227 7.27149 6.6406 7.08076L5.61332 3.28941C5.56498 3.11103 5.36786 3.0178 5.20598 3.10696C3.82884 3.86546 2.95877 5.29903 2.85346 7.15554C2.844 7.32232 2.9796 7.45922 3.14666 7.45922H6.35104Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.365 12.2836C11.269 12.2446 11.177 12.2236 11.094 12.2236C11.021 12.2236 10.955 12.2396 10.903 12.2696C10.806 12.3256 10.746 12.4356 10.725 12.5966C10.607 13.6516 10.607 14.7816 10.727 15.9416C10.738 16.0216 10.776 16.1936 10.899 16.2656C11.005 16.3276 11.175 16.3196 11.368 16.2426C12.241 15.8936 13.073 15.3726 13.774 14.7346C13.889 14.6296 14.026 14.4626 14.025 14.2626C14.025 14.0616 13.889 13.8976 13.776 13.7956C13.078 13.1586 12.268 12.6506 11.365 12.2836Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7829 15.844C13.9499 16.601 12.9629 17.22 11.9259 17.635C11.6369 17.751 11.3489 17.809 11.0719 17.809C10.7379 17.809 10.4199 17.725 10.1369 17.558C9.63694 17.263 9.31694 16.749 9.23694 16.112C9.10394 14.829 9.10494 13.591 9.23594 12.416C9.32094 11.771 9.64594 11.263 10.1539 10.97C10.6769 10.669 11.3259 10.644 11.9359 10.897C12.9979 11.328 13.9579 11.931 14.7839 12.685C15.2589 13.114 15.5239 13.673 15.5249 14.258C15.5269 14.844 15.2629 15.407 14.7829 15.844ZM3.13594 8.95898C2.97025 8.95898 2.83594 9.0933 2.83594 9.25898V16.459C2.83594 19.474 4.77194 21.499 7.65194 21.499H16.3469C19.2289 21.499 21.1639 19.474 21.1639 16.459V9.25898C21.1639 9.0933 21.0296 8.95898 20.8639 8.95898H3.13594Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Reels 2 — light style variants.
+class _VideoMovieReels2Light {
+  const _VideoMovieReels2Light();
+
+  /// Reels 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Reels 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.65173 3H16.3476C19.0085 3 20.6644 4.87817 20.6644 7.53606V16.4639C20.6644 19.1218 19.0085 21 16.3467 21H7.65173C4.99091 21 3.33594 19.1218 3.33594 16.4639V7.53606C3.33594 4.87817 4.99871 3 7.65173 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2777 15.2917C13.5516 15.9496 12.6451 16.5403 11.6471 16.9428C10.7972 17.2781 10.0857 16.8599 9.98139 16.0227C9.85371 14.7888 9.85663 13.6065 9.98139 12.5042C10.0954 11.6348 10.879 11.2654 11.6471 11.588C12.6295 11.9905 13.5116 12.5373 14.2777 13.2391C14.9327 13.8327 14.9482 14.6757 14.2777 15.2917Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.5516 8.20703H3.44727" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.14866 8.20171L6.76172 3.07696M12.4247 8.20176L10.9764 3.00391M16.7098 8.20176L15.2614 3.00391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -2217,7 +2993,7 @@ class _VideoMovieVideoSlidesBulk {
   /// Video slides — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video slides',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.8344 3.4375H9.85437C7.85437 3.4375 6.23438 5.0675 6.23438 7.0575V16.9375C6.23438 18.9375 7.85437 20.5575 9.85437 20.5575H15.8344C17.8344 20.5575 19.4644 18.9375 19.4644 16.9375V7.0575C19.4644 5.0675 17.8344 3.4375 15.8344 3.4375Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.23534 6.92656C5.24021 6.70197 5.021 6.52626 4.82401 6.63423C3.94108 7.1182 3.33398 8.05928 3.33398 9.12623V14.8662C3.33398 15.9517 3.94255 16.8887 4.82722 17.3705C5.02369 17.4774 5.24106 17.3034 5.23566 17.0797C5.2345 17.0319 5.23398 16.9841 5.23398 16.9362V7.05623C5.23398 7.01298 5.23441 6.96972 5.23534 6.92656Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.8744 6.64639C20.6777 6.53718 20.4582 6.71286 20.4627 6.93781C20.4635 6.9769 20.4638 7.01627 20.4638 7.056V16.936C20.4638 16.9787 20.4634 17.0215 20.4625 17.0642C20.4577 17.2891 20.6777 17.4648 20.8744 17.3556C21.7439 16.8727 22.3338 15.9394 22.3338 14.866V9.126C22.3338 8.0612 21.7439 7.12913 20.8744 6.64639Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3903 13.4397C14.6811 14.0782 13.8325 14.617 12.934 14.9863C12.664 15.0863 12.404 15.1363 12.154 15.1363C11.844 15.1363 11.554 15.0563 11.294 14.8963C10.834 14.6263 10.554 14.1663 10.474 13.5963C10.364 12.4863 10.364 11.4163 10.474 10.4063C10.554 9.82635 10.854 9.35635 11.314 9.09635C11.794 8.81635 12.384 8.78635 12.934 9.01635C13.874 9.41635 14.714 9.93635 15.404 10.5663C15.834 10.9563 16.064 11.4663 16.074 11.9963C16.074 12.5248 15.8354 13.0334 15.4077 13.4329C15.4053 13.4351 15.4022 13.4363 15.3989 13.4363C15.3958 13.4363 15.3927 13.4375 15.3903 13.4397ZM14.5739 11.996C14.5639 11.856 14.4539 11.736 14.3939 11.676C13.8139 11.146 13.1539 10.736 12.3539 10.406C12.2939 10.376 12.2339 10.366 12.1739 10.366C12.1493 10.366 12.1248 10.3698 12.1025 10.375C12.0766 10.3811 12.0516 10.3926 12.0339 10.4126C11.9936 10.4583 11.9721 10.5288 11.9639 10.586C11.8639 11.476 11.8639 12.436 11.9639 13.426C11.9839 13.516 12.0139 13.586 12.0639 13.616C12.1039 13.646 12.2139 13.656 12.3739 13.586C13.1039 13.296 13.8039 12.856 14.3839 12.326C14.4739 12.246 14.5739 12.126 14.5739 11.996Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.7793 3.5H9.83928C7.85328 3.5 6.23828 5.115 6.23828 7.1V16.9C6.23828 18.885 7.85328 20.5 9.83928 20.5H15.7793C17.7653 20.5 19.3803 18.885 19.3803 16.9V7.1C19.3803 5.115 17.7653 3.5 15.7793 3.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.83398 6.71094C3.41998 6.71094 3.08398 7.04694 3.08398 7.46094V16.5309C3.08398 16.9449 3.41998 17.2809 3.83398 17.2809C4.24798 17.2809 4.58398 16.9449 4.58398 16.5309V7.46094C4.58398 7.04694 4.24798 6.71094 3.83398 6.71094Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.834 6.71094C21.42 6.71094 21.084 7.04694 21.084 7.46094V16.5309C21.084 16.9449 21.42 17.2809 21.834 17.2809C22.248 17.2809 22.584 16.9449 22.584 16.5309V7.46094C22.584 7.04694 22.248 6.71094 21.834 6.71094Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.316 13.424L15.314 13.427C14.597 14.076 13.748 14.61 12.858 14.967C12.599 15.07 12.34 15.122 12.09 15.122C11.788 15.122 11.499 15.046 11.241 14.895C10.791 14.63 10.492 14.152 10.421 13.583C10.307 12.48 10.307 11.423 10.42 10.427C10.498 9.83998 10.795 9.37698 11.258 9.10998C11.731 8.83798 12.316 8.81198 12.865 9.03698C13.772 9.40698 14.597 9.92598 15.313 10.575C15.74 10.959 15.978 11.462 15.981 11.989C15.983 12.52 15.747 13.028 15.316 13.424ZM12.113 10.3848C12.168 10.3848 12.23 10.3988 12.295 10.4248C13.043 10.7308 13.719 11.1538 14.308 11.6888C14.372 11.7458 14.48 11.8628 14.481 11.9968C14.481 12.0978 14.419 12.2108 14.304 12.3168C13.719 12.8478 13.025 13.2828 12.298 13.5738C12.148 13.6348 12.046 13.6268 12.002 13.6018C11.957 13.5748 11.922 13.4988 11.911 13.4128C11.81 12.4328 11.81 11.4848 11.909 10.6098C11.918 10.5378 11.943 10.4458 12.008 10.4088C12.036 10.3928 12.072 10.3848 12.113 10.3848Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -2232,7 +3008,7 @@ class _VideoMovieVideoSlidesBroken {
   /// Video slides — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video slides',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.09967 20.0638H15.0851C16.8111 20.0638 18.2102 18.6648 18.2102 16.9398V7.06256C18.2102 5.33658 16.8111 3.9375 15.0851 3.9375H9.09967C7.37368 3.9375 5.97461 5.33658 5.97461 7.06256V16.9398C5.97461 18.6648 7.37368 20.0638 9.09967 20.0638Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.97456 6.78516H5.42388C4.12989 6.78516 3.08398 7.83203 3.08398 9.13479V11.0317" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.97456 17.2197H5.42388C4.12989 17.2197 3.08398 16.165 3.08398 14.871V13.9336" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1934 6.78516H18.744C20.038 6.78516 21.0839 7.83203 21.0839 9.13479V10.5684" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1934 17.2196H18.744C20.038 17.2196 21.0839 16.1649 21.0839 14.8709V13.3711" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1408 12.8772C13.5201 13.4386 12.7456 13.9445 11.8923 14.288C11.1665 14.574 10.5585 14.2169 10.4689 13.5018C10.3609 12.4472 10.3629 11.4373 10.4689 10.4945C10.5662 9.75119 11.2366 9.43596 11.8923 9.71227C12.732 10.0557 13.486 10.5227 14.1408 11.123C14.7002 11.6299 14.7138 12.3499 14.1408 12.8772Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.13 13.0012V16.9016C18.13 18.6141 16.7416 20.0025 15.0291 20.0025H9.08915C7.37671 20.0025 5.98828 18.6141 5.98828 16.9016V7.10086C5.98828 5.38843 7.37671 4 9.08915 4H15.0291C16.7416 4 18.13 5.38843 18.13 7.10086V9.55105" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08398 7.46484V16.533" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.084 7.46484V16.533" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0593 12.8714C13.4434 13.4289 12.6747 13.93 11.8282 14.2715C11.1073 14.5556 10.504 14.2015 10.4155 13.4912C10.3085 12.4453 10.3104 11.4431 10.4155 10.5081C10.5128 9.76958 11.1773 9.45725 11.8282 9.73066C12.6611 10.0722 13.4093 10.5353 14.0593 11.1308C14.6148 11.6348 14.6275 12.3489 14.0593 12.8714Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -2247,7 +3023,7 @@ class _VideoMovieVideoSlidesTwotone {
   /// Video slides — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video slides',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.34967 20.0638H15.3351C17.0611 20.0638 18.4602 18.6648 18.4602 16.9398V7.06256C18.4602 5.33658 17.0611 3.9375 15.3351 3.9375H9.34967C7.62368 3.9375 6.22461 5.33658 6.22461 7.06256V16.9398C6.22461 18.6648 7.62368 20.0638 9.34967 20.0638Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.22456 17.2179H5.67388C4.37989 17.2179 3.33398 16.1632 3.33398 14.8692V9.13479C3.33398 7.83203 4.37989 6.78516 5.67388 6.78516H6.22456" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.4434 17.2179H18.994C20.288 17.2179 21.3339 16.1632 21.3339 14.8692V9.13479C21.3339 7.83203 20.288 6.78516 18.994 6.78516H18.4434" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3908 12.8772C13.7701 13.4386 12.9956 13.9445 12.1423 14.288C11.4165 14.574 10.8085 14.2169 10.7189 13.5018C10.6109 12.4472 10.6129 11.4373 10.7189 10.4945C10.8162 9.75119 11.4866 9.43596 12.1423 9.71227C12.982 10.0557 13.736 10.5227 14.3908 11.123C14.9502 11.6299 14.9638 12.3499 14.3908 12.8772Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M15.2791 20.0025H9.33915C7.62671 20.0025 6.23828 18.6141 6.23828 16.9016V7.10086C6.23828 5.38843 7.62671 4 9.33915 4H15.2791C16.9916 4 18.38 5.38843 18.38 7.10086V16.9016C18.38 18.6141 16.9916 20.0025 15.2791 20.0025Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.33398 7.46484V16.533" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.334 7.46484V16.533" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3093 12.8714C13.6934 13.4289 12.9247 13.93 12.0782 14.2715C11.3573 14.5556 10.754 14.2015 10.6655 13.4912C10.5585 12.4453 10.5604 11.4431 10.6655 10.5081C10.7628 9.76958 11.4273 9.45725 12.0782 9.73066C12.9111 10.0722 13.6593 10.5353 14.3093 11.1308C14.8648 11.6348 14.8775 12.3489 14.3093 12.8714Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -2262,7 +3038,7 @@ class _VideoMovieVideoSlidesOutline {
   /// Video slides — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video slides',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.01568 4.6875C7.70391 4.6875 6.64062 5.75079 6.64062 7.06256V16.9398C6.64062 18.2504 7.70376 19.3138 9.01568 19.3138H15.0012C16.3131 19.3138 17.3762 18.2504 17.3762 16.9398V7.06256C17.3762 5.75079 16.3129 4.6875 15.0012 4.6875H9.01568ZM5.14062 7.06256C5.14062 4.92236 6.87549 3.1875 9.01568 3.1875H15.0012C17.1414 3.1875 18.8762 4.92236 18.8762 7.06256V16.9398C18.8762 19.0791 17.1412 20.8138 15.0012 20.8138H9.01568C6.87564 20.8138 5.14062 19.0791 5.14062 16.9398V7.06256Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.3399 7.53516C4.46234 7.53516 3.75 8.24401 3.75 9.13479V14.8692C3.75 15.7527 4.46376 16.4679 5.3399 16.4679H5.89058C6.30479 16.4679 6.64058 16.8037 6.64058 17.2179C6.64058 17.6321 6.30479 17.9679 5.89058 17.9679H5.3399C3.62804 17.9679 2.25 16.5738 2.25 14.8692V9.13479C2.25 7.42005 3.62946 6.03516 5.3399 6.03516H5.89058C6.30479 6.03516 6.64058 6.37094 6.64058 6.78516C6.64058 7.19937 6.30479 7.53516 5.89058 7.53516H5.3399Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3594 6.78516C17.3594 6.37094 17.6952 6.03516 18.1094 6.03516H18.6601C20.3705 6.03516 21.75 7.42005 21.75 9.13479V14.8692C21.75 16.5738 20.3719 17.9679 18.6601 17.9679H18.1094C17.6952 17.9679 17.3594 17.6321 17.3594 17.2179C17.3594 16.8037 17.6952 16.4679 18.1094 16.4679H18.6601C19.5362 16.4679 20.25 15.7527 20.25 14.8692V9.13479C20.25 8.24401 19.5376 7.53516 18.6601 7.53516H18.1094C17.6952 7.53516 17.3594 7.19937 17.3594 6.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1294 10.5863C11.031 11.4663 11.0284 12.4163 11.1301 13.4156C11.1509 13.5693 11.2105 13.6081 11.2259 13.6167C11.2451 13.6276 11.3357 13.6675 11.5311 13.5911C12.2944 13.2834 12.9923 12.8281 13.5511 12.3234C13.7054 12.1805 13.7319 12.0626 13.7315 11.9966C13.7311 11.929 13.702 11.8136 13.5532 11.6788L13.55 11.6758L13.55 11.6758C12.9651 11.1397 12.288 10.7187 11.5244 10.4064L11.5171 10.4034L11.5171 10.4034C11.3671 10.3402 11.2728 10.3657 11.2354 10.3853C11.2154 10.3958 11.1967 10.4113 11.1796 10.4367C11.1628 10.4619 11.1403 10.5081 11.1294 10.5863ZM12.0956 9.01944C11.5908 8.80796 11.0238 8.80262 10.539 9.05673C10.0418 9.31735 9.7187 9.8058 9.6413 10.3971L9.64118 10.3971L9.63966 10.4106C9.52712 11.4111 9.52588 12.4749 9.63886 13.5782L9.64076 13.595C9.71031 14.1506 9.99793 14.6469 10.4902 14.9239C10.9787 15.1988 11.5545 15.1941 12.0833 14.9857L12.0834 14.9857L12.0884 14.9837C13.0293 14.605 13.8783 14.0499 14.5599 13.4335L14.5599 13.4335L14.5647 13.4291C14.9815 13.0455 15.2345 12.5405 15.2315 11.9883C15.2284 11.4381 14.9717 10.9407 14.5621 10.5688C13.8386 9.90581 13.0094 9.39362 12.0956 9.01944Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.1543 7.10086C5.1543 4.97422 6.87852 3.25 9.00516 3.25H14.9452C17.0718 3.25 18.796 4.97422 18.796 7.10086V16.9016C18.796 19.0283 17.0718 20.7525 14.9452 20.7525H9.00516C6.87852 20.7525 5.1543 19.0283 5.1543 16.9016V7.10086ZM9.00516 4.75C7.70694 4.75 6.6543 5.80265 6.6543 7.10086V16.9016C6.6543 18.1998 7.70694 19.2525 9.00516 19.2525H14.9452C16.2434 19.2525 17.296 18.1998 17.296 16.9016V7.10086C17.296 5.80265 16.2434 4.75 14.9452 4.75H9.00516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3 6.71484C3.41421 6.71484 3.75 7.05063 3.75 7.46484V16.533C3.75 16.9472 3.41421 17.283 3 17.283C2.58579 17.283 2.25 16.9472 2.25 16.533V7.46484C2.25 7.05063 2.58579 6.71484 3 6.71484Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21 6.71484C21.4142 6.71484 21.75 7.05063 21.75 7.46484V16.533C21.75 16.9472 21.4142 17.283 21 17.283C20.5858 17.283 20.25 16.9472 20.25 16.533V7.46484C20.25 7.05063 20.5858 6.71484 21 6.71484Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0759 10.6002C10.9785 11.4725 10.9759 12.4146 11.0766 13.4052C11.0971 13.5567 11.1554 13.5932 11.1685 13.6006C11.1856 13.6102 11.2736 13.6502 11.4668 13.5747C12.2241 13.2687 12.9162 12.8179 13.4695 12.3176C13.6216 12.177 13.647 12.0616 13.6467 11.998C13.6464 11.933 13.6185 11.8197 13.4714 11.6862L13.4686 11.6838L13.4686 11.6837C12.8886 11.1524 12.2171 10.7351 11.4597 10.4246L11.4538 10.4221L11.4538 10.4221C11.3059 10.36 11.214 10.3855 11.1787 10.404C11.1596 10.414 11.1417 10.4288 11.1252 10.4534C11.1089 10.4778 11.0868 10.5231 11.0759 10.6002ZM12.0315 9.03781C11.5293 8.82785 10.9648 8.82237 10.4819 9.07572C9.9867 9.33547 9.66542 9.82185 9.58792 10.4101L9.58619 10.4243C9.47464 11.4169 9.47338 12.4729 9.58539 13.5675L9.58726 13.584C9.65619 14.137 9.94218 14.6317 10.4329 14.9078C10.9197 15.1818 11.4931 15.1766 12.0192 14.9693L12.0192 14.9693L12.0249 14.967C12.9582 14.5905 13.8013 14.0405 14.4786 13.4274L14.4786 13.4274L14.4829 13.4235C14.8974 13.0424 15.1495 12.5401 15.1467 11.9903C15.1439 11.4422 14.8883 10.947 14.4806 10.5765C13.7617 9.91824 12.9383 9.40997 12.0315 9.03781Z" fill="black"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -2277,7 +3053,7 @@ class _VideoMovieVideoSlidesBold {
   /// Video slides — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video slides',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.23534 6.92782C5.24021 6.70324 5.021 6.52752 4.82401 6.6355C3.94108 7.11946 3.33398 8.06055 3.33398 9.1275V14.8675C3.33398 15.953 3.94255 16.89 4.82722 17.3717C5.02369 17.4787 5.24106 17.3046 5.23566 17.081C5.2345 17.0331 5.23398 16.9853 5.23398 16.9375V7.0575C5.23398 7.01425 5.23441 6.97099 5.23534 6.92782Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.8744 6.64765C20.6777 6.53844 20.4582 6.71413 20.4627 6.93908C20.4635 6.97816 20.4638 7.01754 20.4638 7.05727V16.9373C20.4638 16.98 20.4634 17.0228 20.4625 17.0654C20.4577 17.2904 20.6777 17.4661 20.8744 17.3569C21.7439 16.8739 22.3338 15.9407 22.3338 14.8673V9.12727C22.3338 8.06247 21.7439 7.1304 20.8744 6.64765Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3939 11.6772C14.4539 11.7372 14.5639 11.8572 14.5739 11.9972C14.5739 12.1272 14.4739 12.2472 14.3839 12.3272C13.8039 12.8572 13.1039 13.2972 12.3739 13.5872C12.2139 13.6572 12.1039 13.6472 12.0639 13.6172C12.0139 13.5872 11.9839 13.5172 11.9639 13.4272C11.8639 12.4372 11.8639 11.4772 11.9639 10.5872C11.9721 10.53 11.9936 10.4595 12.0339 10.4137C12.0516 10.3937 12.0766 10.3823 12.1025 10.3762C12.1248 10.371 12.1494 10.3672 12.1739 10.3672C12.2339 10.3672 12.2939 10.3772 12.3539 10.4072C13.1539 10.7372 13.8139 11.1472 14.3939 11.6772Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4077 13.434C15.4053 13.4363 15.4022 13.4375 15.399 13.4375C15.3958 13.4375 15.3927 13.4387 15.3903 13.4408C14.6811 14.0794 13.8325 14.6181 12.934 14.9875C12.664 15.0875 12.404 15.1375 12.154 15.1375C11.844 15.1375 11.554 15.0575 11.294 14.8975C10.834 14.6275 10.554 14.1675 10.474 13.5975C10.364 12.4875 10.364 11.4175 10.474 10.4075C10.554 9.8275 10.854 9.3575 11.314 9.0975C11.794 8.8175 12.384 8.7875 12.934 9.0175C13.874 9.4175 14.714 9.9375 15.404 10.5675C15.834 10.9575 16.064 11.4675 16.074 11.9975C16.074 12.526 15.8354 13.0346 15.4077 13.434ZM15.834 3.4375H9.85401C7.85401 3.4375 6.23401 5.0675 6.23401 7.0575V16.9375C6.23401 18.9375 7.85401 20.5575 9.85401 20.5575H15.834C17.834 20.5575 19.464 18.9375 19.464 16.9375V7.0575C19.464 5.0675 17.834 3.4375 15.834 3.4375Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.83398 6.70996C3.41998 6.70996 3.08398 7.04596 3.08398 7.45996V16.53C3.08398 16.944 3.41998 17.28 3.83398 17.28C4.24798 17.28 4.58398 16.944 4.58398 16.53V7.45996C4.58398 7.04596 4.24798 6.70996 3.83398 6.70996Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.834 6.70996C21.42 6.70996 21.084 7.04596 21.084 7.45996V16.53C21.084 16.944 21.42 17.28 21.834 17.28C22.248 17.28 22.584 16.944 22.584 16.53V7.45996C22.584 7.04596 22.248 6.70996 21.834 6.70996Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.295 10.4238C12.23 10.3978 12.168 10.3838 12.113 10.3838C12.072 10.3838 12.036 10.3918 12.008 10.4078C11.943 10.4448 11.918 10.5368 11.909 10.6088C11.81 11.4838 11.81 12.4318 11.911 13.4118C11.922 13.4978 11.957 13.5738 12.002 13.6008C12.046 13.6258 12.148 13.6338 12.298 13.5728C13.025 13.2818 13.719 12.8468 14.304 12.3158C14.419 12.2098 14.481 12.0968 14.481 11.9958C14.48 11.8618 14.372 11.7448 14.308 11.6878C13.719 11.1528 13.043 10.7298 12.295 10.4238Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.316 13.423L15.314 13.426C14.597 14.075 13.748 14.609 12.858 14.966C12.599 15.069 12.34 15.121 12.09 15.121C11.788 15.121 11.499 15.045 11.241 14.894C10.791 14.629 10.492 14.151 10.421 13.582C10.307 12.479 10.307 11.422 10.42 10.426C10.498 9.839 10.795 9.376 11.258 9.109C11.731 8.837 12.316 8.811 12.865 9.036C13.772 9.406 14.597 9.925 15.313 10.574C15.74 10.958 15.978 11.461 15.981 11.988C15.983 12.519 15.747 13.027 15.316 13.423ZM15.779 3.5H9.83904C7.85304 3.5 6.23804 5.115 6.23804 7.1V16.9C6.23804 18.885 7.85304 20.5 9.83904 20.5H15.779C17.765 20.5 19.38 18.885 19.38 16.9V7.1C19.38 5.115 17.765 3.5 15.779 3.5Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -2292,6 +3068,114 @@ class _VideoMovieVideoSlidesLight {
   /// Video slides — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video slides',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.9452 20.0025H9.00516C7.29273 20.0025 5.9043 18.6141 5.9043 16.9016V7.10086C5.9043 5.38843 7.29273 4 9.00516 4H14.9452C16.6576 4 18.046 5.38843 18.046 7.10086V16.9016C18.046 18.6141 16.6576 20.0025 14.9452 20.0025Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 7.46484V16.533" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 7.46484V16.533" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9753 12.8714C13.3594 13.4289 12.5907 13.93 11.7443 14.2715C11.0233 14.5556 10.42 14.2015 10.3315 13.4912C10.2245 12.4453 10.2264 11.4431 10.3315 10.5081C10.4288 9.76958 11.0933 9.45725 11.7443 9.73066C12.5771 10.0722 13.3253 10.5353 13.9753 11.1308C14.5308 11.6348 14.5435 12.3489 13.9753 12.8714Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video slides 1 icon with style variants.
+class _VideoMovieVideoSlides1Icon {
+  const _VideoMovieVideoSlides1Icon();
+
+  /// bold style
+  _VideoMovieVideoSlides1Bold get bold => const _VideoMovieVideoSlides1Bold();
+  /// bulk style
+  _VideoMovieVideoSlides1Bulk get bulk => const _VideoMovieVideoSlides1Bulk();
+  /// light style
+  _VideoMovieVideoSlides1Light get light => const _VideoMovieVideoSlides1Light();
+  /// outline style
+  _VideoMovieVideoSlides1Outline get outline => const _VideoMovieVideoSlides1Outline();
+  /// twoTone style
+  _VideoMovieVideoSlides1Twotone get twoTone => const _VideoMovieVideoSlides1Twotone();
+  /// broken style
+  _VideoMovieVideoSlides1Broken get broken => const _VideoMovieVideoSlides1Broken();
+}
+
+/// Video slides 1 — bulk style variants.
+class _VideoMovieVideoSlides1Bulk {
+  const _VideoMovieVideoSlides1Bulk();
+
+  /// Video slides 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video slides 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.8344 3.4375H9.85437C7.85437 3.4375 6.23438 5.0675 6.23438 7.0575V16.9375C6.23438 18.9375 7.85437 20.5575 9.85437 20.5575H15.8344C17.8344 20.5575 19.4644 18.9375 19.4644 16.9375V7.0575C19.4644 5.0675 17.8344 3.4375 15.8344 3.4375Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.23534 6.92656C5.24021 6.70197 5.021 6.52626 4.82401 6.63423C3.94108 7.1182 3.33398 8.05928 3.33398 9.12623V14.8662C3.33398 15.9517 3.94255 16.8887 4.82722 17.3705C5.02369 17.4774 5.24106 17.3034 5.23566 17.0797C5.2345 17.0319 5.23398 16.9841 5.23398 16.9362V7.05623C5.23398 7.01298 5.23441 6.96972 5.23534 6.92656Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.8744 6.64639C20.6777 6.53718 20.4582 6.71286 20.4627 6.93781C20.4635 6.9769 20.4638 7.01627 20.4638 7.056V16.936C20.4638 16.9787 20.4634 17.0215 20.4625 17.0642C20.4577 17.2891 20.6777 17.4648 20.8744 17.3556C21.7439 16.8727 22.3338 15.9394 22.3338 14.866V9.126C22.3338 8.0612 21.7439 7.12913 20.8744 6.64639Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3903 13.4397C14.6811 14.0782 13.8325 14.617 12.934 14.9863C12.664 15.0863 12.404 15.1363 12.154 15.1363C11.844 15.1363 11.554 15.0563 11.294 14.8963C10.834 14.6263 10.554 14.1663 10.474 13.5963C10.364 12.4863 10.364 11.4163 10.474 10.4063C10.554 9.82635 10.854 9.35635 11.314 9.09635C11.794 8.81635 12.384 8.78635 12.934 9.01635C13.874 9.41635 14.714 9.93635 15.404 10.5663C15.834 10.9563 16.064 11.4663 16.074 11.9963C16.074 12.5248 15.8354 13.0334 15.4077 13.4329C15.4053 13.4351 15.4022 13.4363 15.3989 13.4363C15.3958 13.4363 15.3927 13.4375 15.3903 13.4397ZM14.5739 11.996C14.5639 11.856 14.4539 11.736 14.3939 11.676C13.8139 11.146 13.1539 10.736 12.3539 10.406C12.2939 10.376 12.2339 10.366 12.1739 10.366C12.1493 10.366 12.1248 10.3698 12.1025 10.375C12.0766 10.3811 12.0516 10.3926 12.0339 10.4126C11.9936 10.4583 11.9721 10.5288 11.9639 10.586C11.8639 11.476 11.8639 12.436 11.9639 13.426C11.9839 13.516 12.0139 13.586 12.0639 13.616C12.1039 13.646 12.2139 13.656 12.3739 13.586C13.1039 13.296 13.8039 12.856 14.3839 12.326C14.4739 12.246 14.5739 12.126 14.5739 11.996Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video slides 1 — broken style variants.
+class _VideoMovieVideoSlides1Broken {
+  const _VideoMovieVideoSlides1Broken();
+
+  /// Video slides 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video slides 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.09967 20.0638H15.0851C16.8111 20.0638 18.2102 18.6648 18.2102 16.9398V7.06256C18.2102 5.33658 16.8111 3.9375 15.0851 3.9375H9.09967C7.37368 3.9375 5.97461 5.33658 5.97461 7.06256V16.9398C5.97461 18.6648 7.37368 20.0638 9.09967 20.0638Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.97456 6.78516H5.42388C4.12989 6.78516 3.08398 7.83203 3.08398 9.13479V11.0317" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.97456 17.2197H5.42388C4.12989 17.2197 3.08398 16.165 3.08398 14.871V13.9336" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1934 6.78516H18.744C20.038 6.78516 21.0839 7.83203 21.0839 9.13479V10.5684" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1934 17.2196H18.744C20.038 17.2196 21.0839 16.1649 21.0839 14.8709V13.3711" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1408 12.8772C13.5201 13.4386 12.7456 13.9445 11.8923 14.288C11.1665 14.574 10.5585 14.2169 10.4689 13.5018C10.3609 12.4472 10.3629 11.4373 10.4689 10.4945C10.5662 9.75119 11.2366 9.43596 11.8923 9.71227C12.732 10.0557 13.486 10.5227 14.1408 11.123C14.7002 11.6299 14.7138 12.3499 14.1408 12.8772Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video slides 1 — twoTone style variants.
+class _VideoMovieVideoSlides1Twotone {
+  const _VideoMovieVideoSlides1Twotone();
+
+  /// Video slides 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video slides 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.34967 20.0638H15.3351C17.0611 20.0638 18.4602 18.6648 18.4602 16.9398V7.06256C18.4602 5.33658 17.0611 3.9375 15.3351 3.9375H9.34967C7.62368 3.9375 6.22461 5.33658 6.22461 7.06256V16.9398C6.22461 18.6648 7.62368 20.0638 9.34967 20.0638Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.22456 17.2179H5.67388C4.37989 17.2179 3.33398 16.1632 3.33398 14.8692V9.13479C3.33398 7.83203 4.37989 6.78516 5.67388 6.78516H6.22456" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.4434 17.2179H18.994C20.288 17.2179 21.3339 16.1632 21.3339 14.8692V9.13479C21.3339 7.83203 20.288 6.78516 18.994 6.78516H18.4434" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3908 12.8772C13.7701 13.4386 12.9956 13.9445 12.1423 14.288C11.4165 14.574 10.8085 14.2169 10.7189 13.5018C10.6109 12.4472 10.6129 11.4373 10.7189 10.4945C10.8162 9.75119 11.4866 9.43596 12.1423 9.71227C12.982 10.0557 13.736 10.5227 14.3908 11.123C14.9502 11.6299 14.9638 12.3499 14.3908 12.8772Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video slides 1 — outline style variants.
+class _VideoMovieVideoSlides1Outline {
+  const _VideoMovieVideoSlides1Outline();
+
+  /// Video slides 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video slides 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.01568 4.6875C7.70391 4.6875 6.64062 5.75079 6.64062 7.06256V16.9398C6.64062 18.2504 7.70376 19.3138 9.01568 19.3138H15.0012C16.3131 19.3138 17.3762 18.2504 17.3762 16.9398V7.06256C17.3762 5.75079 16.3129 4.6875 15.0012 4.6875H9.01568ZM5.14062 7.06256C5.14062 4.92236 6.87549 3.1875 9.01568 3.1875H15.0012C17.1414 3.1875 18.8762 4.92236 18.8762 7.06256V16.9398C18.8762 19.0791 17.1412 20.8138 15.0012 20.8138H9.01568C6.87564 20.8138 5.14062 19.0791 5.14062 16.9398V7.06256Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.3399 7.53516C4.46234 7.53516 3.75 8.24401 3.75 9.13479V14.8692C3.75 15.7527 4.46376 16.4679 5.3399 16.4679H5.89058C6.30479 16.4679 6.64058 16.8037 6.64058 17.2179C6.64058 17.6321 6.30479 17.9679 5.89058 17.9679H5.3399C3.62804 17.9679 2.25 16.5738 2.25 14.8692V9.13479C2.25 7.42005 3.62946 6.03516 5.3399 6.03516H5.89058C6.30479 6.03516 6.64058 6.37094 6.64058 6.78516C6.64058 7.19937 6.30479 7.53516 5.89058 7.53516H5.3399Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3594 6.78516C17.3594 6.37094 17.6952 6.03516 18.1094 6.03516H18.6601C20.3705 6.03516 21.75 7.42005 21.75 9.13479V14.8692C21.75 16.5738 20.3719 17.9679 18.6601 17.9679H18.1094C17.6952 17.9679 17.3594 17.6321 17.3594 17.2179C17.3594 16.8037 17.6952 16.4679 18.1094 16.4679H18.6601C19.5362 16.4679 20.25 15.7527 20.25 14.8692V9.13479C20.25 8.24401 19.5376 7.53516 18.6601 7.53516H18.1094C17.6952 7.53516 17.3594 7.19937 17.3594 6.78516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1294 10.5863C11.031 11.4663 11.0284 12.4163 11.1301 13.4156C11.1509 13.5693 11.2105 13.6081 11.2259 13.6167C11.2451 13.6276 11.3357 13.6675 11.5311 13.5911C12.2944 13.2834 12.9923 12.8281 13.5511 12.3234C13.7054 12.1805 13.7319 12.0626 13.7315 11.9966C13.7311 11.929 13.702 11.8136 13.5532 11.6788L13.55 11.6758L13.55 11.6758C12.9651 11.1397 12.288 10.7187 11.5244 10.4064L11.5171 10.4034L11.5171 10.4034C11.3671 10.3402 11.2728 10.3657 11.2354 10.3853C11.2154 10.3958 11.1967 10.4113 11.1796 10.4367C11.1628 10.4619 11.1403 10.5081 11.1294 10.5863ZM12.0956 9.01944C11.5908 8.80796 11.0238 8.80262 10.539 9.05673C10.0418 9.31735 9.7187 9.8058 9.6413 10.3971L9.64118 10.3971L9.63966 10.4106C9.52712 11.4111 9.52588 12.4749 9.63886 13.5782L9.64076 13.595C9.71031 14.1506 9.99793 14.6469 10.4902 14.9239C10.9787 15.1988 11.5545 15.1941 12.0833 14.9857L12.0834 14.9857L12.0884 14.9837C13.0293 14.605 13.8783 14.0499 14.5599 13.4335L14.5599 13.4335L14.5647 13.4291C14.9815 13.0455 15.2345 12.5405 15.2315 11.9883C15.2284 11.4381 14.9717 10.9407 14.5621 10.5688C13.8386 9.90581 13.0094 9.39362 12.0956 9.01944Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video slides 1 — bold style variants.
+class _VideoMovieVideoSlides1Bold {
+  const _VideoMovieVideoSlides1Bold();
+
+  /// Video slides 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video slides 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.23534 6.92782C5.24021 6.70324 5.021 6.52752 4.82401 6.6355C3.94108 7.11946 3.33398 8.06055 3.33398 9.1275V14.8675C3.33398 15.953 3.94255 16.89 4.82722 17.3717C5.02369 17.4787 5.24106 17.3046 5.23566 17.081C5.2345 17.0331 5.23398 16.9853 5.23398 16.9375V7.0575C5.23398 7.01425 5.23441 6.97099 5.23534 6.92782Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.8744 6.64765C20.6777 6.53844 20.4582 6.71413 20.4627 6.93908C20.4635 6.97816 20.4638 7.01754 20.4638 7.05727V16.9373C20.4638 16.98 20.4634 17.0228 20.4625 17.0654C20.4577 17.2904 20.6777 17.4661 20.8744 17.3569C21.7439 16.8739 22.3338 15.9407 22.3338 14.8673V9.12727C22.3338 8.06247 21.7439 7.1304 20.8744 6.64765Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3939 11.6772C14.4539 11.7372 14.5639 11.8572 14.5739 11.9972C14.5739 12.1272 14.4739 12.2472 14.3839 12.3272C13.8039 12.8572 13.1039 13.2972 12.3739 13.5872C12.2139 13.6572 12.1039 13.6472 12.0639 13.6172C12.0139 13.5872 11.9839 13.5172 11.9639 13.4272C11.8639 12.4372 11.8639 11.4772 11.9639 10.5872C11.9721 10.53 11.9936 10.4595 12.0339 10.4137C12.0516 10.3937 12.0766 10.3823 12.1025 10.3762C12.1248 10.371 12.1494 10.3672 12.1739 10.3672C12.2339 10.3672 12.2939 10.3772 12.3539 10.4072C13.1539 10.7372 13.8139 11.1472 14.3939 11.6772Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4077 13.434C15.4053 13.4363 15.4022 13.4375 15.399 13.4375C15.3958 13.4375 15.3927 13.4387 15.3903 13.4408C14.6811 14.0794 13.8325 14.6181 12.934 14.9875C12.664 15.0875 12.404 15.1375 12.154 15.1375C11.844 15.1375 11.554 15.0575 11.294 14.8975C10.834 14.6275 10.554 14.1675 10.474 13.5975C10.364 12.4875 10.364 11.4175 10.474 10.4075C10.554 9.8275 10.854 9.3575 11.314 9.0975C11.794 8.8175 12.384 8.7875 12.934 9.0175C13.874 9.4175 14.714 9.9375 15.404 10.5675C15.834 10.9575 16.064 11.4675 16.074 11.9975C16.074 12.526 15.8354 13.0346 15.4077 13.434ZM15.834 3.4375H9.85401C7.85401 3.4375 6.23401 5.0675 6.23401 7.0575V16.9375C6.23401 18.9375 7.85401 20.5575 9.85401 20.5575H15.834C17.834 20.5575 19.464 18.9375 19.464 16.9375V7.0575C19.464 5.0675 17.834 3.4375 15.834 3.4375Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video slides 1 — light style variants.
+class _VideoMovieVideoSlides1Light {
+  const _VideoMovieVideoSlides1Light();
+
+  /// Video slides 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video slides 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.01568 20.0638H15.0012C16.7271 20.0638 18.1262 18.6648 18.1262 16.9398V7.06256C18.1262 5.33658 16.7271 3.9375 15.0012 3.9375H9.01568C7.2897 3.9375 5.89062 5.33658 5.89062 7.06256V16.9398C5.89062 18.6648 7.2897 20.0638 9.01568 20.0638Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.89058 17.2179H5.3399C4.0459 17.2179 3 16.1632 3 14.8692V9.13479C3 7.83203 4.0459 6.78516 5.3399 6.78516H5.89058" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1094 17.2179H18.6601C19.9541 17.2179 21 16.1632 21 14.8692V9.13479C21 7.83203 19.9541 6.78516 18.6601 6.78516H18.1094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0568 12.8772C13.4361 13.4386 12.6616 13.9445 11.8084 14.288C11.0825 14.574 10.4745 14.2169 10.385 13.5018C10.277 12.4472 10.2789 11.4373 10.385 10.4945C10.4822 9.75119 11.1526 9.43596 11.8084 9.71227C12.648 10.0557 13.402 10.5227 14.0568 11.123C14.6162 11.6299 14.6299 12.3499 14.0568 12.8772Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.light,
@@ -2732,6 +3616,114 @@ class _VideoMovieBackward15sLight {
 
 }
 
+/// Backward 15s 1 icon with style variants.
+class _VideoMovieBackward15s1Icon {
+  const _VideoMovieBackward15s1Icon();
+
+  /// bold style
+  _VideoMovieBackward15s1Bold get bold => const _VideoMovieBackward15s1Bold();
+  /// bulk style
+  _VideoMovieBackward15s1Bulk get bulk => const _VideoMovieBackward15s1Bulk();
+  /// light style
+  _VideoMovieBackward15s1Light get light => const _VideoMovieBackward15s1Light();
+  /// outline style
+  _VideoMovieBackward15s1Outline get outline => const _VideoMovieBackward15s1Outline();
+  /// twoTone style
+  _VideoMovieBackward15s1Twotone get twoTone => const _VideoMovieBackward15s1Twotone();
+  /// broken style
+  _VideoMovieBackward15s1Broken get broken => const _VideoMovieBackward15s1Broken();
+}
+
+/// Backward 15s 1 — bulk style variants.
+class _VideoMovieBackward15s1Bulk {
+  const _VideoMovieBackward15s1Bulk();
+
+  /// Backward 15s 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 15s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.4083 3.07031H9.73934C6.69034 3.07031 4.64134 5.20831 4.64134 8.39031V9.41931L3.91534 9.41631H3.91234C3.62734 9.41631 3.36634 9.57731 3.24034 9.83331C3.11334 10.0893 3.14234 10.3953 3.31734 10.6223L4.78434 12.5373C4.91934 12.7343 5.13434 12.8713 5.39134 12.8713C5.39434 12.8713 5.39734 12.8693 5.40134 12.8693C5.40434 12.8693 5.40634 12.8713 5.40934 12.8713C5.45234 12.8713 5.48934 12.8503 5.53034 12.8433C5.58534 12.8323 5.64334 12.8273 5.69434 12.8043C5.76534 12.7753 5.82434 12.7273 5.88434 12.6763C5.89934 12.6633 5.91634 12.6533 5.93034 12.6393C5.95334 12.6153 5.98434 12.6033 6.00534 12.5773L7.49434 10.6333C7.66834 10.4083 7.69834 10.1023 7.57334 9.84731C7.44734 9.59131 7.18734 9.42831 6.90234 9.42731L6.14134 9.42431V8.39031C6.14134 6.07031 7.55434 4.57031 9.73934 4.57031H17.4083C19.5953 4.57031 21.0073 6.07031 21.0073 8.39031V15.6113C21.0073 17.9313 19.5943 19.4303 17.4073 19.4303H9.73934C7.55434 19.4303 6.14134 17.9313 6.14134 15.6113C6.14134 15.1973 5.80534 14.8613 5.39134 14.8613C4.97734 14.8613 4.64134 15.1973 4.64134 15.6113C4.64134 18.7933 6.69034 20.9303 9.73934 20.9303H17.4073C20.4573 20.9303 22.5073 18.7933 22.5073 15.6113V8.39031C22.5073 5.20831 20.4583 3.07031 17.4083 3.07031Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4415 13.8075H13.6265C13.2125 13.8075 12.8765 14.1435 12.8765 14.5575C12.8765 14.9715 13.2125 15.3075 13.6265 15.3075H15.4415C16.5795 15.3075 17.5055 14.3785 17.5055 13.2375C17.5055 12.1015 16.5795 11.1775 15.4415 11.1775H14.3765V10.1875H16.5065C16.9205 10.1875 17.2565 9.8515 17.2565 9.4375C17.2565 9.0235 16.9205 8.6875 16.5065 8.6875H13.6265C13.2125 8.6875 12.8765 9.0235 12.8765 9.4375V11.9275C12.8765 12.3415 13.2125 12.6775 13.6265 12.6775H15.4415C15.7525 12.6775 16.0055 12.9285 16.0055 13.2375C16.0055 13.5515 15.7525 13.8075 15.4415 13.8075Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7695 14.5575V9.4375C11.7695 9.0235 11.4335 8.6875 11.0195 8.6875C10.6055 8.6875 10.2695 9.0235 10.2695 9.4375V14.5575C10.2695 14.9715 10.6055 15.3075 11.0195 15.3075C11.4335 15.3075 11.7695 14.9715 11.7695 14.5575Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 15s 1 — broken style variants.
+class _VideoMovieBackward15s1Broken {
+  const _VideoMovieBackward15s1Broken();
+
+  /// Backward 15s 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 15s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.9521 14.5564H14.7668C15.4926 14.5564 16.0813 13.9687 16.0813 13.2419C16.0813 12.517 15.4926 11.9284 14.7668 11.9284H12.9521V9.44141H15.8322" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3457 14.5564V9.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0844 8.38653C21.0844 5.70887 19.4157 3.81641 16.7352 3.81641H9.06606C6.39326 3.81641 4.71777 5.70887 4.71777 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.71777 15.6111C4.71777 18.2887 6.38547 20.1812 9.06606 20.1812H16.7342C19.4157 20.1812 21.0844 18.2887 21.0844 15.6111V12.0273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08398 10.4648L4.73612 12.117L6.37852 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 15s 1 — twoTone style variants.
+class _VideoMovieBackward15s1Twotone {
+  const _VideoMovieBackward15s1Twotone();
+
+  /// Backward 15s 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 15s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.96777 15.6129C4.96777 18.2906 6.63547 20.183 9.31606 20.183H16.9842C19.6657 20.183 21.3344 18.2906 21.3344 15.6129V8.38653C21.3344 5.70887 19.6657 3.81641 16.9852 3.81641H9.31606C6.64326 3.81641 4.96777 5.70887 4.96777 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.2021 14.5564H15.0168C15.7426 14.5564 16.3313 13.9687 16.3313 13.2419C16.3313 12.517 15.7426 11.9284 15.0168 11.9284H13.2021V9.44141H16.0822" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.5957 14.5564V9.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.33398 10.4648L4.98612 12.117L6.62852 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 15s 1 — outline style variants.
+class _VideoMovieBackward15s1Outline {
+  const _VideoMovieBackward15s1Outline();
+
+  /// Backward 15s 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 15s 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.25603 4.58597C6.16536 3.61039 7.4589 3.06641 8.9811 3.06641H16.6502C18.1758 3.06641 19.4699 3.61008 20.3789 4.58623C21.2823 5.55636 21.7494 6.89277 21.7494 8.38653V15.6129C21.7494 17.1067 21.2823 18.4431 20.3788 19.4133C19.4696 20.3894 18.1752 20.933 16.6492 20.933H8.9811C7.45549 20.933 6.16154 20.3894 5.25278 19.4131C4.34966 18.443 3.88281 17.1066 3.88281 15.6129C3.88281 15.1987 4.2186 14.8629 4.63281 14.8629C5.04703 14.8629 5.38281 15.1987 5.38281 15.6129C5.38281 16.7969 5.74982 17.7456 6.35069 18.3911C6.94592 19.0305 7.82612 19.433 8.9811 19.433H16.6492C17.8048 19.433 18.6855 19.0304 19.2811 18.3909C19.8823 17.7454 20.2494 16.7968 20.2494 15.6129V8.38653C20.2494 7.20263 19.8823 6.25398 19.2812 5.60846C18.6857 4.96897 17.8052 4.56641 16.6502 4.56641H8.9811C7.83049 4.56641 6.94989 4.96865 6.35328 5.60872C5.75122 6.25465 5.38281 7.20343 5.38281 8.38653V12.117C5.38281 12.5312 5.04703 12.867 4.63281 12.867C4.2186 12.867 3.88281 12.5312 3.88281 12.117V8.38653C3.88281 6.89197 4.35215 5.55569 5.25603 4.58597Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1191 9.44141C12.1191 9.02719 12.4549 8.69141 12.8691 8.69141H15.7492C16.1634 8.69141 16.4992 9.02719 16.4992 9.44141C16.4992 9.85562 16.1634 10.1914 15.7492 10.1914H13.6191V11.1784H14.6838C15.8235 11.1784 16.7483 12.1024 16.7483 13.2419C16.7483 14.3833 15.8235 15.3064 14.6838 15.3064H12.8691C12.4549 15.3064 12.1191 14.9706 12.1191 14.5564C12.1191 14.1422 12.4549 13.8064 12.8691 13.8064H14.6838C14.9958 13.8064 15.2483 13.5541 15.2483 13.2419C15.2483 12.9316 14.9958 12.6784 14.6838 12.6784H12.8691C12.4549 12.6784 12.1191 12.3426 12.1191 11.9284V9.44141Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.2617 8.69141C10.6759 8.69141 11.0117 9.02719 11.0117 9.44141V14.5564C11.0117 14.9706 10.6759 15.3064 10.2617 15.3064C9.84751 15.3064 9.51172 14.9706 9.51172 14.5564V9.44141C9.51172 9.02719 9.84751 8.69141 10.2617 8.69141Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.46967 9.93451C2.76256 9.64162 3.23744 9.64162 3.53033 9.93451L4.65213 11.0563L5.76421 9.94424C6.0571 9.65135 6.53197 9.65135 6.82487 9.94424C7.11776 10.2371 7.11776 10.712 6.82487 11.0049L5.18246 12.6473C5.04181 12.788 4.85105 12.867 4.65213 12.867C4.45322 12.867 4.26246 12.788 4.1218 12.6473L2.46967 10.9952C2.17678 10.7023 2.17678 10.2274 2.46967 9.93451Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 15s 1 — bold style variants.
+class _VideoMovieBackward15s1Bold {
+  const _VideoMovieBackward15s1Bold();
+
+  /// Backward 15s 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 15s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4083 3.07031H9.73934C6.69034 3.07031 4.64134 5.20831 4.64134 8.39031V9.41931L3.91534 9.41631H3.91234C3.62734 9.41631 3.36634 9.57731 3.24034 9.83331C3.11334 10.0893 3.14234 10.3953 3.31734 10.6223L4.78434 12.5373C4.91934 12.7343 5.13434 12.8713 5.39134 12.8713C5.39434 12.8713 5.39734 12.8693 5.40134 12.8693C5.40434 12.8693 5.40634 12.8713 5.40934 12.8713C5.45234 12.8713 5.48934 12.8503 5.53034 12.8433C5.58534 12.8323 5.64334 12.8273 5.69434 12.8043C5.76534 12.7753 5.82434 12.7273 5.88434 12.6763C5.89934 12.6633 5.91634 12.6533 5.93034 12.6393C5.95334 12.6153 5.98434 12.6033 6.00534 12.5773L7.49434 10.6333C7.66834 10.4083 7.69834 10.1023 7.57334 9.84731C7.44734 9.59131 7.18734 9.42831 6.90234 9.42731L6.14134 9.42431V8.39031C6.14134 6.07031 7.55434 4.57031 9.73934 4.57031H17.4083C19.5953 4.57031 21.0073 6.07031 21.0073 8.39031V15.6113C21.0073 17.9313 19.5943 19.4303 17.4073 19.4303H9.73934C7.55434 19.4303 6.14134 17.9313 6.14134 15.6113C6.14134 15.1973 5.80534 14.8613 5.39134 14.8613C4.97734 14.8613 4.64134 15.1973 4.64134 15.6113C4.64134 18.7933 6.69034 20.9303 9.73934 20.9303H17.4073C20.4573 20.9303 22.5073 18.7933 22.5073 15.6113V8.39031C22.5073 5.20831 20.4583 3.07031 17.4083 3.07031Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4426 13.8104H13.6276C13.2136 13.8104 12.8776 14.1464 12.8776 14.5604C12.8776 14.9744 13.2136 15.3104 13.6276 15.3104H15.4426C16.5806 15.3104 17.5066 14.3814 17.5066 13.2404C17.5066 12.1044 16.5806 11.1804 15.4426 11.1804H14.3776V10.1904H16.5076C16.9216 10.1904 17.2576 9.85443 17.2576 9.44043C17.2576 9.02643 16.9216 8.69043 16.5076 8.69043H13.6276C13.2136 8.69043 12.8776 9.02643 12.8776 9.44043V11.9304C12.8776 12.3444 13.2136 12.6804 13.6276 12.6804H15.4426C15.7536 12.6804 16.0066 12.9314 16.0066 13.2404C16.0066 13.5544 15.7536 13.8104 15.4426 13.8104Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7706 14.5604V9.44043C11.7706 9.02643 11.4346 8.69043 11.0206 8.69043C10.6066 8.69043 10.2706 9.02643 10.2706 9.44043V14.5604C10.2706 14.9744 10.6066 15.3104 11.0206 15.3104C11.4346 15.3104 11.7706 14.9744 11.7706 14.5604Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 15s 1 — light style variants.
+class _VideoMovieBackward15s1Light {
+  const _VideoMovieBackward15s1Light();
+
+  /// Backward 15s 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 15s 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.63281 15.6129C4.63281 18.2906 6.30051 20.183 8.9811 20.183H16.6492C19.3308 20.183 20.9994 18.2906 20.9994 15.6129V8.38653C20.9994 5.70887 19.3308 3.81641 16.6502 3.81641H8.9811C6.3083 3.81641 4.63281 5.70887 4.63281 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8691 14.5564H14.6838C15.4096 14.5564 15.9983 13.9687 15.9983 13.2419C15.9983 12.517 15.4096 11.9284 14.6838 11.9284H12.8691V9.44141H15.7492" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.2617 14.5564V9.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 10.4648L4.65213 12.117L6.29454 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Video playlist icon with style variants.
 class _VideoMovieVideoPlaylistIcon {
   const _VideoMovieVideoPlaylistIcon();
@@ -2757,7 +3749,7 @@ class _VideoMovieVideoPlaylistBulk {
   /// Video playlist — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video playlist',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.777 3.47656H6.81703C4.82703 3.47656 3.20703 5.09656 3.20703 7.08656V16.9066C3.20703 18.8966 4.82703 20.5166 6.81703 20.5166H12.777C14.757 20.5166 16.377 18.8966 16.377 16.9066V7.08656C16.377 5.09656 14.757 3.47656 12.777 3.47656Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7907 5.79688C18.3767 5.79688 18.0407 6.13287 18.0407 6.54688V17.4669C18.0407 17.8809 18.3767 18.2169 18.7907 18.2169C19.2047 18.2169 19.5407 17.8809 19.5407 17.4669V6.54688C19.5407 6.13287 19.2047 5.79688 18.7907 5.79688Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7107 8.17676C21.2967 8.17676 20.9607 8.51276 20.9607 8.92676V15.0868C20.9607 15.5008 21.2967 15.8368 21.7107 15.8368C22.1247 15.8368 22.4607 15.5008 22.4607 15.0868V8.92676C22.4607 8.51276 22.1247 8.17676 21.7107 8.17676Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4766 13.4314C11.7566 14.0814 10.9066 14.6114 10.0166 14.9714C9.75664 15.0714 9.49664 15.1314 9.24664 15.1314C8.94664 15.1314 8.65664 15.0514 8.39664 14.9014C7.94664 14.6314 7.64664 14.1514 7.57664 13.5914C7.46664 12.4714 7.46664 11.4114 7.57664 10.4214C7.65664 9.84136 7.94664 9.37136 8.41664 9.11136C8.88664 8.83136 9.47664 8.80136 10.0266 9.03136C10.9666 9.42136 11.7866 9.95136 12.4766 10.5814C12.9066 10.9614 13.1466 11.4714 13.1466 11.9914C13.1466 12.5314 12.9166 13.0314 12.4766 13.4314ZM11.6467 12.0018C11.6467 11.8718 11.5367 11.7518 11.4767 11.6918C10.8967 11.1618 10.2367 10.7518 9.44667 10.4218C9.38667 10.3918 9.32667 10.3818 9.27667 10.3818C9.22667 10.3818 9.19668 10.3918 9.16668 10.4018C9.09668 10.4418 9.07667 10.5318 9.06667 10.6018C8.96667 11.4818 8.96667 12.4318 9.06667 13.4218C9.07667 13.5018 9.11668 13.5818 9.15667 13.6118C9.20667 13.6318 9.30668 13.6418 9.45668 13.5818C10.1867 13.2918 10.8867 12.8518 11.4667 12.3218C11.5367 12.2618 11.6467 12.1418 11.6467 12.0018Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.2392 8.83594H6.75922C4.65922 8.83594 2.94922 10.5559 2.94922 12.6559V17.8059C2.94922 19.9159 4.65922 21.6259 6.75922 21.6259H17.2392C19.3392 21.6259 21.0492 19.9159 21.0492 17.8059V12.6559C21.0492 10.5559 19.3392 8.83594 17.2392 8.83594Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.18164 6.98535H17.8186C18.2326 6.98535 18.5686 6.64935 18.5686 6.23535C18.5686 5.82135 18.2326 5.48535 17.8186 5.48535H6.18164C5.76764 5.48535 5.43164 5.82135 5.43164 6.23535C5.43164 6.64935 5.76764 6.98535 6.18164 6.98535Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.71875 3.875H15.2808C15.6947 3.875 16.0308 3.539 16.0308 3.125C16.0308 2.711 15.6947 2.375 15.2808 2.375H8.71875C8.30475 2.375 7.96875 2.711 7.96875 3.125C7.96875 3.539 8.30475 3.875 8.71875 3.875Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5 16.6301H14.49C13.8 17.2601 12.97 17.7901 12.08 18.1501C11.82 18.2501 11.57 18.3001 11.32 18.3001C11.01 18.3001 10.72 18.2201 10.47 18.0601C10.02 17.8001 9.73998 17.3401 9.66998 16.7801C9.55998 15.6901 9.55998 14.6501 9.66998 13.6701C9.73998 13.1001 10.05 12.6301 10.5 12.3701C10.97 12.1001 11.55 12.0701 12.09 12.3001C12.98 12.6601 13.79 13.1701 14.49 13.8101C14.92 14.2001 15.15 14.7001 15.15 15.2201C15.15 15.7401 14.92 16.2401 14.5 16.6301ZM13.65 15.2204C13.65 15.1304 13.59 15.0204 13.48 14.9204C12.91 14.4004 12.25 13.9804 11.52 13.6904C11.45 13.6604 11.39 13.6504 11.34 13.6504C11.3 13.6504 11.27 13.6604 11.25 13.6704C11.19 13.7004 11.17 13.7904 11.16 13.8504C11.06 14.7104 11.06 15.6404 11.16 16.6104C11.17 16.6904 11.2 16.7504 11.24 16.7804C11.28 16.8004 11.38 16.8104 11.53 16.7504C12.24 16.4704 12.92 16.0404 13.48 15.5204C13.55 15.4604 13.65 15.3504 13.65 15.2204Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -2772,7 +3764,7 @@ class _VideoMovieVideoPlaylistBroken {
   /// Video playlist — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video playlist',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.08398 14.0002V16.9123C3.08398 18.6286 4.47534 20.0199 6.19166 20.0199H12.1453C13.8616 20.0199 15.253 18.6286 15.253 16.9123V7.08814C15.253 5.37182 13.8616 3.98047 12.1453 3.98047H6.19166C4.47534 3.98047 3.08398 5.37182 3.08398 7.08814V10.5442" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3471 12.8716C10.7302 13.4301 9.95864 13.9331 9.11118 14.2747C8.38826 14.5588 7.78405 14.2046 7.69551 13.4934C7.58751 12.4435 7.58945 11.4394 7.69551 10.5024C7.79183 9.76299 8.45832 9.44872 9.11118 9.7231C9.94599 10.0656 10.6952 10.5297 11.3471 11.1271C11.9036 11.6311 11.9172 12.3472 11.3471 12.8716Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.165 6.54297V17.4568" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.084 8.92188V15.0769" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2501 20.9984H7.01314C5.18299 20.9984 3.69922 19.5146 3.69922 17.6845V12.5278C3.69922 10.6986 5.18299 9.21484 7.01314 9.21484H17.4871C19.3163 9.21484 20.8 10.6986 20.8 12.5278V17.6845C20.8 19.5146 19.3163 20.9984 17.4871 20.9984H15.8686" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2394 15.9514C13.6352 16.4982 12.8812 16.9905 12.0503 17.3252C11.3429 17.6035 10.7513 17.2561 10.6647 16.5595C10.5587 15.532 10.5606 14.5493 10.6647 13.6318C10.7591 12.908 11.412 12.6005 12.0503 12.87C12.8675 13.2047 13.6012 13.6591 14.2394 14.2438C14.7843 14.7371 14.7969 15.4386 14.2394 15.9514Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.43164 6.11328H18.0683" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.96875 3H15.5304" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -2787,7 +3779,7 @@ class _VideoMovieVideoPlaylistTwotone {
   /// Video playlist — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video playlist',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.44166 20.0199H12.3953C14.1116 20.0199 15.503 18.6286 15.503 16.9123V7.08814C15.503 5.37182 14.1116 3.98047 12.3953 3.98047H6.44166C4.72534 3.98047 3.33398 5.37182 3.33398 7.08814V16.9123C3.33398 18.6286 4.72534 20.0199 6.44166 20.0199Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5971 12.8716C10.9802 13.4301 10.2086 13.9331 9.36118 14.2747C8.63826 14.5588 8.03405 14.2046 7.94551 13.4934C7.83751 12.4435 7.83945 11.4394 7.94551 10.5024C8.04183 9.76299 8.70832 9.44872 9.36118 9.7231C10.196 10.0656 10.9452 10.5297 11.5971 11.1271C12.1536 11.6311 12.1672 12.3472 11.5971 12.8716Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.415 6.54297V17.4568" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.334 8.92188V15.0769" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.05 17.6845V12.5278C21.05 10.6986 19.5663 9.21484 17.7371 9.21484H7.26314C5.43299 9.21484 3.94922 10.6986 3.94922 12.5278V17.6845C3.94922 19.5146 5.43299 20.9984 7.26314 20.9984H17.7371C19.5663 20.9984 21.05 19.5146 21.05 17.6845Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4894 15.9514C13.8852 16.4982 13.1312 16.9905 12.3003 17.3252C11.5929 17.6035 11.0013 17.2561 10.9147 16.5595C10.8087 15.532 10.8106 14.5493 10.9147 13.6318C11.0091 12.908 11.662 12.6005 12.3003 12.87C13.1175 13.2047 13.8512 13.6591 14.4894 14.2438C15.0343 14.7371 15.0469 15.4386 14.4894 15.9514Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.68164 6.11328H18.3183" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.21875 3H15.7804" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -2802,7 +3794,7 @@ class _VideoMovieVideoPlaylistOutline {
   /// Video playlist — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video playlist',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.10768 4.73047C4.80556 4.73047 3.75 5.78603 3.75 7.08814V16.9123C3.75 18.2144 4.80556 19.2699 6.10768 19.2699H12.0613C13.3634 19.2699 14.419 18.2144 14.419 16.9123V7.08814C14.419 5.78603 13.3634 4.73047 12.0613 4.73047H6.10768ZM2.25 7.08814C2.25 4.95761 3.97714 3.23047 6.10768 3.23047H12.0613C14.1918 3.23047 15.919 4.95761 15.919 7.08814V16.9123C15.919 19.0428 14.1918 20.7699 12.0613 20.7699H6.10768C3.97714 20.7699 2.25 19.0428 2.25 16.9123V7.08814Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.35592 10.5942C8.25757 11.4683 8.25492 12.4125 8.35663 13.4073C8.37706 13.5593 8.43556 13.5959 8.44898 13.6035C8.46666 13.6134 8.5557 13.6534 8.75021 13.5777C9.50819 13.2717 10.203 12.8192 10.7573 12.3178C10.9103 12.1763 10.936 12.0601 10.9356 11.9958C10.9352 11.9301 10.907 11.8164 10.7596 11.683L10.7564 11.68L10.7564 11.68C10.1743 11.1466 9.5017 10.7284 8.74253 10.4169L8.73661 10.4145L8.73662 10.4145C8.58809 10.3521 8.49543 10.3776 8.4594 10.3965C8.44002 10.4067 8.42188 10.4217 8.40532 10.4465C8.38888 10.4712 8.36671 10.5167 8.35592 10.5942ZM9.31457 9.0303C8.81103 8.81967 8.24539 8.81463 7.76191 9.06857C7.26627 9.3289 6.94458 9.81619 6.86781 10.4055L6.8677 10.4055L6.86628 10.4181C6.75366 11.4131 6.75243 12.4714 6.86546 13.5701L6.86727 13.586C6.9362 14.1397 7.22259 14.6348 7.71395 14.911C8.20117 15.1849 8.77496 15.1796 9.30152 14.9727L9.30153 14.9727L9.30753 14.9703C10.2421 14.5937 11.0882 14.0416 11.7665 13.4276L11.7665 13.4276L11.7708 13.4236C12.1863 13.0415 12.4386 12.5382 12.4356 11.9875C12.4326 11.4389 12.1765 10.9432 11.7683 10.5728C11.0477 9.9127 10.2233 9.40347 9.31457 9.0303Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.0801 5.79297C18.4943 5.79297 18.8301 6.12876 18.8301 6.54297V17.4568C18.8301 17.871 18.4943 18.2068 18.0801 18.2068C17.6659 18.2068 17.3301 17.871 17.3301 17.4568V6.54297C17.3301 6.12876 17.6659 5.79297 18.0801 5.79297Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21 8.17188C21.4142 8.17188 21.75 8.50766 21.75 8.92188V15.0769C21.75 15.4911 21.4142 15.8269 21 15.8269C20.5858 15.8269 20.25 15.4911 20.25 15.0769V8.92188C20.25 8.50766 20.5858 8.17188 21 8.17188Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.76314 9.96484C5.34706 9.96484 4.19922 11.113 4.19922 12.5278V17.6845C4.19922 19.1004 5.3472 20.2484 6.76314 20.2484H17.2371C18.6519 20.2484 19.8 19.1006 19.8 17.6845V12.5278C19.8 11.1128 18.6521 9.96484 17.2371 9.96484H6.76314ZM2.69922 12.5278C2.69922 10.2843 4.51892 8.46484 6.76314 8.46484H17.2371C19.4805 8.46484 21.3 10.2844 21.3 12.5278V17.6845C21.3 19.9287 19.4806 21.7484 17.2371 21.7484H6.76314C4.51878 21.7484 2.69922 19.9289 2.69922 17.6845V12.5278Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1591 13.7238C11.0627 14.5784 11.0601 15.5011 11.1598 16.4733C11.1793 16.6182 11.2344 16.6497 11.2427 16.6544C11.255 16.6613 11.3368 16.7009 11.5232 16.6282C12.2643 16.3292 12.9417 15.8875 13.4837 15.3975C13.6302 15.262 13.6531 15.1523 13.6528 15.0942C13.6525 15.0348 13.6272 14.9276 13.4861 14.7998L13.4828 14.7968L13.4828 14.7968C12.9143 14.276 12.2574 13.8676 11.516 13.564L11.5085 13.561L11.5085 13.5609C11.3676 13.5014 11.2823 13.5266 11.252 13.5425C11.2354 13.5512 11.2197 13.5641 11.2049 13.5861C11.1903 13.608 11.1694 13.6502 11.1591 13.7238ZM12.0879 12.1773C11.5916 11.969 11.0331 11.9635 10.5551 12.2142C10.0648 12.4714 9.74688 12.9532 9.67104 13.5349L9.67094 13.5348L9.66953 13.5473C9.55883 14.5229 9.5576 15.56 9.66871 16.6365L9.67048 16.652C9.73838 17.1983 10.0209 17.6879 10.5068 17.9615C10.9887 18.2328 11.5557 18.2274 12.0748 18.0231L12.0748 18.0231L12.0805 18.0209C12.9988 17.651 13.8274 17.1095 14.4927 16.5075L14.4927 16.5075L14.4971 16.5034C14.9064 16.127 15.1557 15.6303 15.1528 15.0864C15.15 14.5443 14.8972 14.0547 14.4945 13.6894C13.7877 13.0422 12.9791 12.5427 12.0879 12.1773Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.43164 6.11328C5.43164 5.69907 5.76743 5.36328 6.18164 5.36328H17.8183C18.2325 5.36328 18.5683 5.69907 18.5683 6.11328C18.5683 6.52749 18.2325 6.86328 17.8183 6.86328H6.18164C5.76743 6.86328 5.43164 6.52749 5.43164 6.11328Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.96875 3C7.96875 2.58579 8.30454 2.25 8.71875 2.25H15.2804C15.6946 2.25 16.0304 2.58579 16.0304 3C16.0304 3.41421 15.6946 3.75 15.2804 3.75H8.71875C8.30454 3.75 7.96875 3.41421 7.96875 3Z" fill="black"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -2817,7 +3809,7 @@ class _VideoMovieVideoPlaylistBold {
   /// Video playlist — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video playlist',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4771 11.687C11.5371 11.747 11.6471 11.867 11.6471 11.997C11.6471 12.137 11.5371 12.257 11.4671 12.317C10.8871 12.847 10.1871 13.287 9.45707 13.577C9.30707 13.637 9.20707 13.627 9.15707 13.607C9.11707 13.577 9.07707 13.497 9.06707 13.417C8.96707 12.427 8.96707 11.477 9.06707 10.597C9.07707 10.527 9.09707 10.437 9.16707 10.397C9.19707 10.387 9.22707 10.377 9.27707 10.377C9.32707 10.377 9.38707 10.387 9.44707 10.417C10.2371 10.747 10.8971 11.157 11.4771 11.687Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.477 13.4266C11.757 14.0766 10.907 14.6066 10.017 14.9666C9.75703 15.0666 9.49703 15.1266 9.24703 15.1266C8.94703 15.1266 8.65703 15.0466 8.39703 14.8966C7.94703 14.6266 7.64703 14.1466 7.57703 13.5866C7.46703 12.4666 7.46703 11.4066 7.57703 10.4166C7.65703 9.83656 7.94703 9.36656 8.41703 9.10656C8.88703 8.82656 9.47703 8.79656 10.027 9.02656C10.967 9.41656 11.787 9.94656 12.477 10.5766C12.907 10.9566 13.147 11.4666 13.147 11.9866C13.147 12.5266 12.917 13.0266 12.477 13.4266ZM12.777 3.47656H6.81703C4.82703 3.47656 3.20703 5.09656 3.20703 7.08656V16.9066C3.20703 18.8966 4.82703 20.5166 6.81703 20.5166H12.777C14.757 20.5166 16.377 18.8966 16.377 16.9066V7.08656C16.377 5.09656 14.757 3.47656 12.777 3.47656Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7911 5.79199C18.3771 5.79199 18.0411 6.12799 18.0411 6.54199V17.462C18.0411 17.876 18.3771 18.212 18.7911 18.212C19.2051 18.212 19.5411 17.876 19.5411 17.462V6.54199C19.5411 6.12799 19.2051 5.79199 18.7911 5.79199Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7111 8.17188C21.2971 8.17188 20.9611 8.50787 20.9611 8.92188V15.0819C20.9611 15.4959 21.2971 15.8319 21.7111 15.8319C22.1251 15.8319 22.4611 15.4959 22.4611 15.0819V8.92188C22.4611 8.50787 22.1251 8.17188 21.7111 8.17188Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4792 14.9204C13.5892 15.0204 13.6492 15.1304 13.6492 15.2204C13.6492 15.3504 13.5492 15.4604 13.4792 15.5204C12.9192 16.0404 12.2392 16.4704 11.5292 16.7504C11.3792 16.8104 11.2792 16.8004 11.2392 16.7804C11.1992 16.7504 11.1692 16.6904 11.1592 16.6104C11.0592 15.6404 11.0592 14.7104 11.1592 13.8504C11.1692 13.7904 11.1892 13.7004 11.2492 13.6704C11.2692 13.6604 11.2992 13.6504 11.3392 13.6504C11.3892 13.6504 11.4492 13.6604 11.5192 13.6904C12.2492 13.9804 12.9092 14.4004 13.4792 14.9204Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4992 16.6301H14.4892C13.7992 17.2601 12.9692 17.7901 12.0792 18.1501C11.8192 18.2501 11.5692 18.3001 11.3192 18.3001C11.0092 18.3001 10.7192 18.2201 10.4692 18.0601C10.0192 17.8001 9.73922 17.3401 9.66922 16.7801C9.55922 15.6901 9.55922 14.6501 9.66922 13.6701C9.73922 13.1001 10.0492 12.6301 10.4992 12.3701C10.9692 12.1001 11.5492 12.0701 12.0892 12.3001C12.9792 12.6601 13.7892 13.1701 14.4892 13.8101C14.9192 14.2001 15.1492 14.7001 15.1492 15.2201C15.1492 15.7401 14.9192 16.2401 14.4992 16.6301ZM17.2392 8.83008H6.75922C4.65922 8.83008 2.94922 10.5501 2.94922 12.6501V17.8001C2.94922 19.9101 4.65922 21.6201 6.75922 21.6201H17.2392C19.3392 21.6201 21.0492 19.9101 21.0492 17.8001V12.6501C21.0492 10.5501 19.3392 8.83008 17.2392 8.83008Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.18091 6.98535H17.8179C18.2319 6.98535 18.5679 6.64935 18.5679 6.23535C18.5679 5.82135 18.2319 5.48535 17.8179 5.48535H6.18091C5.76691 5.48535 5.43091 5.82135 5.43091 6.23535C5.43091 6.64935 5.76691 6.98535 6.18091 6.98535Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.71802 3.875H15.28C15.694 3.875 16.03 3.539 16.03 3.125C16.03 2.711 15.694 2.375 15.28 2.375H8.71802C8.30402 2.375 7.96802 2.711 7.96802 3.125C7.96802 3.539 8.30402 3.875 8.71802 3.875Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -2832,6 +3824,114 @@ class _VideoMovieVideoPlaylistLight {
   /// Video playlist — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video playlist',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.55 17.6845V12.5278C20.55 10.6986 19.0663 9.21484 17.2371 9.21484H6.76314C4.93299 9.21484 3.44922 10.6986 3.44922 12.5278V17.6845C3.44922 19.5146 4.93299 20.9984 6.76314 20.9984H17.2371C19.0663 20.9984 20.55 19.5146 20.55 17.6845Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9894 15.9514C13.3852 16.4982 12.6312 16.9905 11.8003 17.3252C11.0929 17.6035 10.5013 17.2561 10.4147 16.5595C10.3087 15.532 10.3106 14.5493 10.4147 13.6318C10.5091 12.908 11.162 12.6005 11.8003 12.87C12.6175 13.2047 13.3512 13.6591 13.9894 14.2438C14.5343 14.7371 14.5469 15.4386 13.9894 15.9514Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.18164 6.11328H17.8183" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.71875 3H15.2804" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video playlist 1 icon with style variants.
+class _VideoMovieVideoPlaylist1Icon {
+  const _VideoMovieVideoPlaylist1Icon();
+
+  /// bold style
+  _VideoMovieVideoPlaylist1Bold get bold => const _VideoMovieVideoPlaylist1Bold();
+  /// bulk style
+  _VideoMovieVideoPlaylist1Bulk get bulk => const _VideoMovieVideoPlaylist1Bulk();
+  /// light style
+  _VideoMovieVideoPlaylist1Light get light => const _VideoMovieVideoPlaylist1Light();
+  /// outline style
+  _VideoMovieVideoPlaylist1Outline get outline => const _VideoMovieVideoPlaylist1Outline();
+  /// twoTone style
+  _VideoMovieVideoPlaylist1Twotone get twoTone => const _VideoMovieVideoPlaylist1Twotone();
+  /// broken style
+  _VideoMovieVideoPlaylist1Broken get broken => const _VideoMovieVideoPlaylist1Broken();
+}
+
+/// Video playlist 1 — bulk style variants.
+class _VideoMovieVideoPlaylist1Bulk {
+  const _VideoMovieVideoPlaylist1Bulk();
+
+  /// Video playlist 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video playlist 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.777 3.47656H6.81703C4.82703 3.47656 3.20703 5.09656 3.20703 7.08656V16.9066C3.20703 18.8966 4.82703 20.5166 6.81703 20.5166H12.777C14.757 20.5166 16.377 18.8966 16.377 16.9066V7.08656C16.377 5.09656 14.757 3.47656 12.777 3.47656Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7907 5.79688C18.3767 5.79688 18.0407 6.13287 18.0407 6.54688V17.4669C18.0407 17.8809 18.3767 18.2169 18.7907 18.2169C19.2047 18.2169 19.5407 17.8809 19.5407 17.4669V6.54688C19.5407 6.13287 19.2047 5.79688 18.7907 5.79688Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7107 8.17676C21.2967 8.17676 20.9607 8.51276 20.9607 8.92676V15.0868C20.9607 15.5008 21.2967 15.8368 21.7107 15.8368C22.1247 15.8368 22.4607 15.5008 22.4607 15.0868V8.92676C22.4607 8.51276 22.1247 8.17676 21.7107 8.17676Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4766 13.4314C11.7566 14.0814 10.9066 14.6114 10.0166 14.9714C9.75664 15.0714 9.49664 15.1314 9.24664 15.1314C8.94664 15.1314 8.65664 15.0514 8.39664 14.9014C7.94664 14.6314 7.64664 14.1514 7.57664 13.5914C7.46664 12.4714 7.46664 11.4114 7.57664 10.4214C7.65664 9.84136 7.94664 9.37136 8.41664 9.11136C8.88664 8.83136 9.47664 8.80136 10.0266 9.03136C10.9666 9.42136 11.7866 9.95136 12.4766 10.5814C12.9066 10.9614 13.1466 11.4714 13.1466 11.9914C13.1466 12.5314 12.9166 13.0314 12.4766 13.4314ZM11.6467 12.0018C11.6467 11.8718 11.5367 11.7518 11.4767 11.6918C10.8967 11.1618 10.2367 10.7518 9.44667 10.4218C9.38667 10.3918 9.32667 10.3818 9.27667 10.3818C9.22667 10.3818 9.19668 10.3918 9.16668 10.4018C9.09668 10.4418 9.07667 10.5318 9.06667 10.6018C8.96667 11.4818 8.96667 12.4318 9.06667 13.4218C9.07667 13.5018 9.11668 13.5818 9.15667 13.6118C9.20667 13.6318 9.30668 13.6418 9.45668 13.5818C10.1867 13.2918 10.8867 12.8518 11.4667 12.3218C11.5367 12.2618 11.6467 12.1418 11.6467 12.0018Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video playlist 1 — broken style variants.
+class _VideoMovieVideoPlaylist1Broken {
+  const _VideoMovieVideoPlaylist1Broken();
+
+  /// Video playlist 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video playlist 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.08398 14.0002V16.9123C3.08398 18.6286 4.47534 20.0199 6.19166 20.0199H12.1453C13.8616 20.0199 15.253 18.6286 15.253 16.9123V7.08814C15.253 5.37182 13.8616 3.98047 12.1453 3.98047H6.19166C4.47534 3.98047 3.08398 5.37182 3.08398 7.08814V10.5442" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3471 12.8716C10.7302 13.4301 9.95864 13.9331 9.11118 14.2747C8.38826 14.5588 7.78405 14.2046 7.69551 13.4934C7.58751 12.4435 7.58945 11.4394 7.69551 10.5024C7.79183 9.76299 8.45832 9.44872 9.11118 9.7231C9.94599 10.0656 10.6952 10.5297 11.3471 11.1271C11.9036 11.6311 11.9172 12.3472 11.3471 12.8716Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.165 6.54297V17.4568" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.084 8.92188V15.0769" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video playlist 1 — twoTone style variants.
+class _VideoMovieVideoPlaylist1Twotone {
+  const _VideoMovieVideoPlaylist1Twotone();
+
+  /// Video playlist 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video playlist 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.44166 20.0199H12.3953C14.1116 20.0199 15.503 18.6286 15.503 16.9123V7.08814C15.503 5.37182 14.1116 3.98047 12.3953 3.98047H6.44166C4.72534 3.98047 3.33398 5.37182 3.33398 7.08814V16.9123C3.33398 18.6286 4.72534 20.0199 6.44166 20.0199Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5971 12.8716C10.9802 13.4301 10.2086 13.9331 9.36118 14.2747C8.63826 14.5588 8.03405 14.2046 7.94551 13.4934C7.83751 12.4435 7.83945 11.4394 7.94551 10.5024C8.04183 9.76299 8.70832 9.44872 9.36118 9.7231C10.196 10.0656 10.9452 10.5297 11.5971 11.1271C12.1536 11.6311 12.1672 12.3472 11.5971 12.8716Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.415 6.54297V17.4568" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.334 8.92188V15.0769" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video playlist 1 — outline style variants.
+class _VideoMovieVideoPlaylist1Outline {
+  const _VideoMovieVideoPlaylist1Outline();
+
+  /// Video playlist 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video playlist 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.10768 4.73047C4.80556 4.73047 3.75 5.78603 3.75 7.08814V16.9123C3.75 18.2144 4.80556 19.2699 6.10768 19.2699H12.0613C13.3634 19.2699 14.419 18.2144 14.419 16.9123V7.08814C14.419 5.78603 13.3634 4.73047 12.0613 4.73047H6.10768ZM2.25 7.08814C2.25 4.95761 3.97714 3.23047 6.10768 3.23047H12.0613C14.1918 3.23047 15.919 4.95761 15.919 7.08814V16.9123C15.919 19.0428 14.1918 20.7699 12.0613 20.7699H6.10768C3.97714 20.7699 2.25 19.0428 2.25 16.9123V7.08814Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.35592 10.5942C8.25757 11.4683 8.25492 12.4125 8.35663 13.4073C8.37706 13.5593 8.43556 13.5959 8.44898 13.6035C8.46666 13.6134 8.5557 13.6534 8.75021 13.5777C9.50819 13.2717 10.203 12.8192 10.7573 12.3178C10.9103 12.1763 10.936 12.0601 10.9356 11.9958C10.9352 11.9301 10.907 11.8164 10.7596 11.683L10.7564 11.68L10.7564 11.68C10.1743 11.1466 9.5017 10.7284 8.74253 10.4169L8.73661 10.4145L8.73662 10.4145C8.58809 10.3521 8.49543 10.3776 8.4594 10.3965C8.44002 10.4067 8.42188 10.4217 8.40532 10.4465C8.38888 10.4712 8.36671 10.5167 8.35592 10.5942ZM9.31457 9.0303C8.81103 8.81967 8.24539 8.81463 7.76191 9.06857C7.26627 9.3289 6.94458 9.81619 6.86781 10.4055L6.8677 10.4055L6.86628 10.4181C6.75366 11.4131 6.75243 12.4714 6.86546 13.5701L6.86727 13.586C6.9362 14.1397 7.22259 14.6348 7.71395 14.911C8.20117 15.1849 8.77496 15.1796 9.30152 14.9727L9.30153 14.9727L9.30753 14.9703C10.2421 14.5937 11.0882 14.0416 11.7665 13.4276L11.7665 13.4276L11.7708 13.4236C12.1863 13.0415 12.4386 12.5382 12.4356 11.9875C12.4326 11.4389 12.1765 10.9432 11.7683 10.5728C11.0477 9.9127 10.2233 9.40347 9.31457 9.0303Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.0801 5.79297C18.4943 5.79297 18.8301 6.12876 18.8301 6.54297V17.4568C18.8301 17.871 18.4943 18.2068 18.0801 18.2068C17.6659 18.2068 17.3301 17.871 17.3301 17.4568V6.54297C17.3301 6.12876 17.6659 5.79297 18.0801 5.79297Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21 8.17188C21.4142 8.17188 21.75 8.50766 21.75 8.92188V15.0769C21.75 15.4911 21.4142 15.8269 21 15.8269C20.5858 15.8269 20.25 15.4911 20.25 15.0769V8.92188C20.25 8.50766 20.5858 8.17188 21 8.17188Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video playlist 1 — bold style variants.
+class _VideoMovieVideoPlaylist1Bold {
+  const _VideoMovieVideoPlaylist1Bold();
+
+  /// Video playlist 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video playlist 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4771 11.687C11.5371 11.747 11.6471 11.867 11.6471 11.997C11.6471 12.137 11.5371 12.257 11.4671 12.317C10.8871 12.847 10.1871 13.287 9.45707 13.577C9.30707 13.637 9.20707 13.627 9.15707 13.607C9.11707 13.577 9.07707 13.497 9.06707 13.417C8.96707 12.427 8.96707 11.477 9.06707 10.597C9.07707 10.527 9.09707 10.437 9.16707 10.397C9.19707 10.387 9.22707 10.377 9.27707 10.377C9.32707 10.377 9.38707 10.387 9.44707 10.417C10.2371 10.747 10.8971 11.157 11.4771 11.687Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.477 13.4266C11.757 14.0766 10.907 14.6066 10.017 14.9666C9.75703 15.0666 9.49703 15.1266 9.24703 15.1266C8.94703 15.1266 8.65703 15.0466 8.39703 14.8966C7.94703 14.6266 7.64703 14.1466 7.57703 13.5866C7.46703 12.4666 7.46703 11.4066 7.57703 10.4166C7.65703 9.83656 7.94703 9.36656 8.41703 9.10656C8.88703 8.82656 9.47703 8.79656 10.027 9.02656C10.967 9.41656 11.787 9.94656 12.477 10.5766C12.907 10.9566 13.147 11.4666 13.147 11.9866C13.147 12.5266 12.917 13.0266 12.477 13.4266ZM12.777 3.47656H6.81703C4.82703 3.47656 3.20703 5.09656 3.20703 7.08656V16.9066C3.20703 18.8966 4.82703 20.5166 6.81703 20.5166H12.777C14.757 20.5166 16.377 18.8966 16.377 16.9066V7.08656C16.377 5.09656 14.757 3.47656 12.777 3.47656Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7911 5.79199C18.3771 5.79199 18.0411 6.12799 18.0411 6.54199V17.462C18.0411 17.876 18.3771 18.212 18.7911 18.212C19.2051 18.212 19.5411 17.876 19.5411 17.462V6.54199C19.5411 6.12799 19.2051 5.79199 18.7911 5.79199Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7111 8.17188C21.2971 8.17188 20.9611 8.50787 20.9611 8.92188V15.0819C20.9611 15.4959 21.2971 15.8319 21.7111 15.8319C22.1251 15.8319 22.4611 15.4959 22.4611 15.0819V8.92188C22.4611 8.50787 22.1251 8.17188 21.7111 8.17188Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video playlist 1 — light style variants.
+class _VideoMovieVideoPlaylist1Light {
+  const _VideoMovieVideoPlaylist1Light();
+
+  /// Video playlist 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video playlist 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.10768 20.0197H12.0613C13.7776 20.0197 15.169 18.6284 15.169 16.9121V7.08795C15.169 5.37162 13.7776 3.98027 12.0613 3.98027H6.10768C4.39135 3.98027 3 5.37162 3 7.08795V16.9121C3 18.6284 4.39135 20.0197 6.10768 20.0197Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.2631 12.8716C10.6462 13.4301 9.87466 13.9331 9.0272 14.2747C8.30428 14.5588 7.70006 14.2046 7.61152 13.4934C7.50352 12.4435 7.50547 11.4394 7.61152 10.5024C7.70785 9.76299 8.37433 9.44872 9.0272 9.7231C9.86201 10.0656 10.6112 10.5297 11.2631 11.1271C11.8196 11.6311 11.8333 12.3472 11.2631 12.8716Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.0801 6.54297V17.4568" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 8.92188V15.0769" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.light,
@@ -2941,6 +4041,114 @@ class _VideoMovieScreenSizeLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Screen Size',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 16.2178V7.78313C3 4.83503 5.08119 3 8.02638 3H15.9736C18.9188 3 21 4.83503 21 7.78313V16.2178C21 19.1659 18.9188 21 15.9736 21H8.02638C5.08119 21 3 19.1562 3 16.2178Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.8261 16.5722L8.82005 16.5741C8.04848 16.5761 7.42286 15.9495 7.42383 15.1779L7.42578 14.1719" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5722 14.1719L16.5741 15.1779C16.5761 15.9495 15.9505 16.5761 15.1789 16.5741L14.1719 16.5722" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.42773 9.82805L7.42579 8.822C7.42384 8.05043 8.04946 7.42481 8.82103 7.42578L9.82806 7.4287" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1738 7.42773L15.1799 7.42579C15.9514 7.42384 16.5771 8.04946 16.5761 8.82103L16.5742 9.82708" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Screen Size 1 icon with style variants.
+class _VideoMovieScreenSize1Icon {
+  const _VideoMovieScreenSize1Icon();
+
+  /// bold style
+  _VideoMovieScreenSize1Bold get bold => const _VideoMovieScreenSize1Bold();
+  /// bulk style
+  _VideoMovieScreenSize1Bulk get bulk => const _VideoMovieScreenSize1Bulk();
+  /// light style
+  _VideoMovieScreenSize1Light get light => const _VideoMovieScreenSize1Light();
+  /// outline style
+  _VideoMovieScreenSize1Outline get outline => const _VideoMovieScreenSize1Outline();
+  /// twoTone style
+  _VideoMovieScreenSize1Twotone get twoTone => const _VideoMovieScreenSize1Twotone();
+  /// broken style
+  _VideoMovieScreenSize1Broken get broken => const _VideoMovieScreenSize1Broken();
+}
+
+/// Screen Size 1 — bulk style variants.
+class _VideoMovieScreenSize1Bulk {
+  const _VideoMovieScreenSize1Bulk();
+
+  /// Screen Size 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Screen Size 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.834 14.4092C21.281 14.4092 20.834 14.8562 20.834 15.4092V17.9302C20.834 19.0712 19.902 20.0002 18.758 20.0002H16.248C15.695 20.0002 15.248 20.4472 15.248 21.0002C15.248 21.5532 15.695 22.0002 16.248 22.0002H18.758C21.006 22.0002 22.834 20.1742 22.834 17.9302V15.4092C22.834 14.8562 22.387 14.4092 21.834 14.4092Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.41998 2H6.90998C4.66198 2 2.83398 3.83 2.83398 6.08V8.59C2.83398 9.143 3.28098 9.59 3.83398 9.59C4.38698 9.59 4.83398 9.143 4.83398 8.59V6.08C4.83398 4.934 5.76598 4 6.90998 4H9.41998C9.97298 4 10.42 3.553 10.42 3C10.42 2.447 9.97298 2 9.41998 2Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.41998 19.9992H6.90998C5.76598 19.9992 4.83398 19.0702 4.83398 17.9292V15.4082C4.83398 14.8552 4.38698 14.4082 3.83398 14.4082C3.28098 14.4082 2.83398 14.8552 2.83398 15.4082V17.9292C2.83398 20.1732 4.66198 21.9992 6.90998 21.9992H9.41998C9.97298 21.9992 10.42 21.5522 10.42 20.9992C10.42 20.4462 9.97298 19.9992 9.41998 19.9992Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7578 2H16.2478C15.6948 2 15.2478 2.447 15.2478 3C15.2478 3.553 15.6948 4 16.2478 4H18.7578C19.9028 4 20.8338 4.934 20.8338 6.08V8.59C20.8338 9.143 21.2808 9.59 21.8338 9.59C22.3868 9.59 22.8338 9.143 22.8338 8.59V6.08C22.8338 3.83 21.0058 2 18.7578 2Z" fill="black"/> </g> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Screen Size 1 — broken style variants.
+class _VideoMovieScreenSize1Broken {
+  const _VideoMovieScreenSize1Broken();
+
+  /// Screen Size 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Screen Size 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.084 15.4141V17.9253C21.084 19.6231 19.7072 20.9998 18.0085 20.9998H15.4982" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08398 15.4141V17.9253C3.08398 19.6231 4.46072 20.9998 6.15951 20.9998H8.66974" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08398 8.58673V6.07552C3.08398 4.37674 4.46072 3 6.15951 3H8.66974" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0838 8.58673V6.07552C21.0838 4.37674 19.7071 3 18.0083 3H15.498" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Screen Size 1 — twoTone style variants.
+class _VideoMovieScreenSize1Twotone {
+  const _VideoMovieScreenSize1Twotone();
+
+  /// Screen Size 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Screen Size 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.3338 15.4141V17.9253C21.3338 19.6231 19.9571 20.9998 18.2583 20.9998H15.748" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.33398 15.4141V17.9253C3.33398 19.6231 4.71072 20.9998 6.40951 20.9998H8.91974" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.33398 8.58673V6.07552C3.33398 4.37674 4.71072 3 6.40951 3H8.91974" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.3338 8.58673V6.07552C21.3338 4.37674 19.9571 3 18.2583 3H15.748" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Screen Size 1 — outline style variants.
+class _VideoMovieScreenSize1Outline {
+  const _VideoMovieScreenSize1Outline();
+
+  /// Screen Size 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Screen Size 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9998 14.6641C21.414 14.6641 21.7498 14.9998 21.7498 15.4141V17.9253C21.7498 20.0374 20.0371 21.7498 17.9243 21.7498H15.4141C14.9998 21.7498 14.6641 21.414 14.6641 20.9998C14.6641 20.5856 14.9998 20.2498 15.4141 20.2498H17.9243C19.209 20.2498 20.2498 19.2087 20.2498 17.9253V15.4141C20.2498 14.9998 20.5856 14.6641 20.9998 14.6641Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3 14.6641C3.41421 14.6641 3.75 14.9998 3.75 15.4141V17.9253C3.75 19.2087 4.7908 20.2498 6.07552 20.2498H8.58575C8.99997 20.2498 9.33575 20.5856 9.33575 20.9998C9.33575 21.414 8.99997 21.7498 8.58575 21.7498H6.07552C3.96268 21.7498 2.25 20.0374 2.25 17.9253V15.4141C2.25 14.9998 2.58579 14.6641 3 14.6641Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.07552 3.75C4.79095 3.75 3.75 4.79095 3.75 6.07552V8.58673C3.75 9.00094 3.41421 9.33673 3 9.33673C2.58579 9.33673 2.25 9.00094 2.25 8.58673V6.07552C2.25 3.96252 3.96252 2.25 6.07552 2.25H8.58575C8.99997 2.25 9.33575 2.58579 9.33575 3C9.33575 3.41421 8.99997 3.75 8.58575 3.75H6.07552Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6641 3C14.6641 2.58579 14.9998 2.25 15.4141 2.25H17.9243C20.0373 2.25 21.7498 3.96252 21.7498 6.07552V8.58673C21.7498 9.00094 21.414 9.33673 20.9998 9.33673C20.5856 9.33673 20.2498 9.00094 20.2498 8.58673V6.07552C20.2498 4.79095 19.2089 3.75 17.9243 3.75H15.4141C14.9998 3.75 14.6641 3.41421 14.6641 3Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Screen Size 1 — bold style variants.
+class _VideoMovieScreenSize1Bold {
+  const _VideoMovieScreenSize1Bold();
+
+  /// Screen Size 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Screen Size 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.834 14.4092C21.281 14.4092 20.834 14.8562 20.834 15.4092V17.9302C20.834 19.0712 19.902 20.0002 18.758 20.0002H16.248C15.695 20.0002 15.248 20.4472 15.248 21.0002C15.248 21.5532 15.695 22.0002 16.248 22.0002H18.758C21.006 22.0002 22.834 20.1742 22.834 17.9302V15.4092C22.834 14.8562 22.387 14.4092 21.834 14.4092Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.41998 19.9992H6.90998C5.76598 19.9992 4.83398 19.0702 4.83398 17.9292V15.4082C4.83398 14.8552 4.38698 14.4082 3.83398 14.4082C3.28098 14.4082 2.83398 14.8552 2.83398 15.4082V17.9292C2.83398 20.1732 4.66198 21.9992 6.90998 21.9992H9.41998C9.97298 21.9992 10.42 21.5522 10.42 20.9992C10.42 20.4462 9.97298 19.9992 9.41998 19.9992Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.41998 2H6.90998C4.66198 2 2.83398 3.83 2.83398 6.08V8.59C2.83398 9.143 3.28098 9.59 3.83398 9.59C4.38698 9.59 4.83398 9.143 4.83398 8.59V6.08C4.83398 4.934 5.76598 4 6.90998 4H9.41998C9.97298 4 10.42 3.553 10.42 3C10.42 2.447 9.97298 2 9.41998 2Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7578 2H16.2478C15.6948 2 15.2478 2.447 15.2478 3C15.2478 3.553 15.6948 4 16.2478 4H18.7578C19.9028 4 20.8338 4.934 20.8338 6.08V8.59C20.8338 9.143 21.2808 9.59 21.8338 9.59C22.3868 9.59 22.8338 9.143 22.8338 8.59V6.08C22.8338 3.83 21.0058 2 18.7578 2Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Screen Size 1 — light style variants.
+class _VideoMovieScreenSize1Light {
+  const _VideoMovieScreenSize1Light();
+
+  /// Screen Size 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Screen Size 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9998 15.4142V17.9255C20.9998 19.6233 19.6231 21 17.9243 21H15.4141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 15.4141V17.9253C3 19.6231 4.37674 20.9998 6.07552 20.9998H8.58575" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 8.58673V6.07552C3 4.37674 4.37674 3 6.07552 3H8.58575" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9998 8.58673V6.07552C20.9998 4.37674 19.6231 3 17.9243 3H15.4141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -3297,7 +4505,7 @@ class _VideoMovieMovieBulk {
   /// Movie — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Movie',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.0492 7.78V16.23C21.0492 19.38 19.0192 21.5 16.0092 21.5H7.99922C4.97922 21.5 2.94922 19.38 2.94922 16.23V7.78C2.94922 7.42 2.97922 7.07 3.02922 6.73C3.42922 4.19 5.28922 2.53 7.91922 2.5H16.0792C18.7092 2.53 20.5692 4.18 20.9692 6.73C21.0192 7.07 21.0492 7.42 21.0492 7.78Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.1191 15.8701C16.1191 16.2401 15.8091 16.5501 15.4391 16.5501H13.2591C12.8891 16.5501 12.5791 16.2401 12.5791 15.8701V14.5501C12.5791 14.1701 12.8891 13.8701 13.2591 13.8701H15.4391C15.8091 13.8701 16.1191 14.1701 16.1191 14.5501V15.8701ZM15.4391 12.3701H13.2591C12.0591 12.3701 11.0791 13.3501 11.0791 14.5501V15.8701C11.0791 17.0701 12.0591 18.0501 13.2591 18.0501H15.4391C16.6391 18.0501 17.6191 17.0701 17.6191 15.8701V14.5501C17.6191 13.3501 16.6391 12.3701 15.4391 12.3701Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.91922 2.5V6.73H3.02922C2.97922 7.07 2.94922 7.42 2.94922 7.78V8.23H21.0492V7.78C21.0492 7.42 21.0192 7.07 20.9692 6.73H16.0792V2.5H14.5792V6.73H9.41922V2.5H7.91922Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0063 7.58557C19.0567 7.68834 19.1612 7.75348 19.2757 7.75348H21.9678C22.1425 7.75348 22.2809 7.60421 22.259 7.43087C21.9262 4.79175 20.0502 3.06348 17.3516 3.06348H17.2699C17.0479 3.06348 16.9028 3.29624 17.0005 3.49557L19.0063 7.58557Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.2252 3.2805C15.1684 3.16355 15.072 3.0625 14.9419 3.0625H12.2564C12.0344 3.0625 11.8893 3.29524 11.9871 3.49457L13.9929 7.58557C14.0433 7.68835 14.1478 7.7535 14.2622 7.7535H16.937C17.159 7.7535 17.3041 7.52076 17.2064 7.32144L15.2252 3.2805Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.99271 7.58463C9.04292 7.68792 9.14769 7.75348 9.26253 7.75348H11.9236C12.1456 7.75348 12.2907 7.52074 12.193 7.32141L10.2118 3.28048C10.1552 3.16398 10.059 3.06348 9.9295 3.06348H8.31679C7.94031 3.06348 7.58673 3.10816 7.24758 3.17862C7.06234 3.21711 6.9689 3.42112 7.05161 3.59128L8.99271 7.58463Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.92774 7.75363C7.14929 7.75363 7.29441 7.52175 7.19756 7.32249L5.65735 4.15361C5.57858 3.99155 5.37506 3.93443 5.23187 4.0438C4.23371 4.80616 3.5918 5.98141 3.41044 7.43153C3.38877 7.60485 3.52718 7.75363 3.70185 7.75363H6.92774Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.63398 9.25C3.4683 9.25 3.33398 9.38431 3.33398 9.55V15.72C3.33398 18.842 5.33598 20.939 8.31598 20.939H17.349C20.33 20.939 22.333 18.842 22.333 15.72V9.55C22.333 9.38431 22.1987 9.25 22.033 9.25H3.63398Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -3312,7 +4520,7 @@ class _VideoMovieMovieBroken {
   /// Movie — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Movie',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.70032 11.7582V7.77583C3.70032 4.97758 5.44398 3 8.24515 3H16.2568C19.058 3 20.7997 4.97758 20.7997 7.77583V16.2251C20.7997 19.0234 19.0492 21 16.2568 21H8.24418C5.44398 21 3.70032 19.0234 3.70032 16.2251V14.9473" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5128 13.1211C12.7224 13.1211 12.082 13.7614 12.082 14.5519V15.8677C12.082 16.6581 12.7224 17.2985 13.5128 17.2985H15.6892C16.4797 17.2985 17.12 16.6581 17.12 15.8677V14.5519C17.12 13.7614 16.4797 13.1211 15.6892 13.1211" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.27344 7.47563V3M15.2266 7.47563V5.44603" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.70703 7.47656H20.7928" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0825 20.4358H16.5986C19.3627 20.4358 21.083 18.4845 21.083 15.7243V8.274C21.083 5.51279 19.3627 3.5625 16.5996 3.5625H7.56644C4.81108 3.5625 3.08398 5.51279 3.08398 8.274V15.7243C3.08398 18.4845 4.80231 20.4358 7.56644 20.4358H8.76083" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08398 8.5H21.084" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.32951 8.49612L6.04004 3.79437M12.7713 8.49623L10.3541 3.56641M17.222 8.49623L14.8048 3.56641" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -3327,7 +4535,7 @@ class _VideoMovieMovieTwotone {
   /// Movie — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Movie',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.5067 21H8.49405C5.69386 21 3.9502 19.0234 3.9502 16.2251V7.77583C3.9502 4.97758 5.69386 3 8.49503 3H16.5067C19.3079 3 21.0496 4.97758 21.0496 7.77583V16.2251C21.0496 19.0234 19.2991 21 16.5067 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9392 17.2985H13.7628C12.9724 17.2985 12.332 16.6581 12.332 15.8677V14.5519C12.332 13.7614 12.9724 13.1211 13.7628 13.1211H15.9392C16.7297 13.1211 17.37 13.7614 17.37 14.5519V15.8677C17.37 16.6581 16.7297 17.2985 15.9392 17.2985Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.52344 7.47563V3M15.4766 7.47563V3M3.95703 7.47583H21.0428" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.81644 3.5625H16.8496C19.6127 3.5625 21.333 5.51279 21.333 8.274V15.7243C21.333 18.4845 19.6127 20.4358 16.8486 20.4358H7.81644C5.05231 20.4358 3.33398 18.4845 3.33398 15.7243V8.274C3.33398 5.51279 5.06108 3.5625 7.81644 3.5625Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.33398 8.50024H21.334M8.57951 8.49612L6.29004 3.79437M13.0213 8.49623L10.6041 3.56641M17.472 8.49623L15.0548 3.56641" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -3342,7 +4550,7 @@ class _VideoMovieMovieOutline {
   /// Movie — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Movie',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.12426 3.82747C5.06708 2.81495 6.41012 2.25 7.99601 2.25H16.0077C17.5936 2.25 18.9363 2.81498 19.8786 3.82764C20.8153 4.8342 21.3006 6.22201 21.3006 7.77583V16.2251C21.3006 17.78 20.8125 19.1674 19.8749 20.1733C18.9318 21.185 17.5896 21.75 16.0077 21.75H7.99503C6.40967 21.75 5.06689 21.1853 4.12418 20.1731C3.18707 19.1668 2.70117 17.7792 2.70117 16.2251V7.77583C2.70117 6.22179 3.18707 4.83396 4.12426 3.82747ZM5.22204 4.84967C4.58711 5.53154 4.20117 6.53162 4.20117 7.77583V16.2251C4.20117 17.4693 4.5871 18.4692 5.22188 19.1508C5.85105 19.8264 6.78019 20.25 7.99503 20.25H16.0077C17.2182 20.25 18.1474 19.8267 18.7777 19.1505C19.4134 18.4685 19.8006 17.4686 19.8006 16.2251V7.77583C19.8006 6.5314 19.415 5.5313 18.7805 4.8495C18.1517 4.17381 17.223 3.75 16.0077 3.75H7.99601C6.78072 3.75 5.85134 4.17384 5.22204 4.84967Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.2628 13.8711C12.8866 13.8711 12.582 14.1757 12.582 14.5519V15.8677C12.582 16.2439 12.8866 16.5485 13.2628 16.5485H15.4392C15.8155 16.5485 16.12 16.2439 16.12 15.8677V14.5519C16.12 14.1757 15.8155 13.8711 15.4392 13.8711H13.2628ZM11.082 14.5519C11.082 13.3472 12.0582 12.3711 13.2628 12.3711H15.4392C16.6439 12.3711 17.62 13.3472 17.62 14.5519V15.8677C17.62 17.0723 16.6439 18.0485 15.4392 18.0485H13.2628C12.0582 18.0485 11.082 17.0723 11.082 15.8677V14.5519Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.02344 2.25C9.43765 2.25 9.77344 2.58579 9.77344 3V7.47563C9.77344 7.88985 9.43765 8.22563 9.02344 8.22563C8.60922 8.22563 8.27344 7.88985 8.27344 7.47563V3C8.27344 2.58579 8.60922 2.25 9.02344 2.25ZM14.9766 2.25C15.3908 2.25 15.7266 2.58579 15.7266 3V7.47563C15.7266 7.88985 15.3908 8.22563 14.9766 8.22563C14.5624 8.22563 14.2266 7.88985 14.2266 7.47563V3C14.2266 2.58579 14.5624 2.25 14.9766 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.70703 7.47656C2.70703 7.06235 3.04282 6.72656 3.45703 6.72656H20.5428C20.957 6.72656 21.2928 7.06235 21.2928 7.47656C21.2928 7.89078 20.957 8.22656 20.5428 8.22656H3.45703C3.04282 8.22656 2.70703 7.89078 2.70703 7.47656Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.65934 4.37142C4.59194 3.3709 5.91905 2.8125 7.48246 2.8125H16.5156C18.0824 2.8125 19.4101 3.37059 20.3424 4.37167C21.269 5.36673 21.749 6.73851 21.749 8.274V15.7243C21.749 17.2594 21.269 18.6311 20.3422 19.6263C19.4099 20.6274 18.082 21.1858 16.5146 21.1858H7.48246C5.91507 21.1858 4.58754 20.6274 3.65566 19.6261C2.72944 18.6309 2.25 17.2591 2.25 15.7243V8.274C2.25 6.73773 2.7322 5.36608 3.65934 4.37142ZM4.75659 5.39418C4.13135 6.06496 3.75 7.04906 3.75 8.274V15.7243C3.75 16.9497 4.12972 17.9337 4.7537 18.6042C5.37201 19.2686 6.28571 19.6858 7.48246 19.6858H16.5146C17.7114 19.6858 18.6257 19.2685 19.2445 18.604C19.869 17.9335 20.249 16.9495 20.249 15.7243V8.274C20.249 7.04829 19.8689 6.06431 19.2446 5.39392C18.6259 4.72956 17.7119 4.3125 16.5156 4.3125H7.48246C6.2905 4.3125 5.37638 4.72925 4.75659 5.39418Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 8.5C2.25 8.08579 2.58579 7.75 3 7.75H21C21.4142 7.75 21.75 8.08579 21.75 8.5C21.75 8.91421 21.4142 9.25 21 9.25H3C2.58579 9.25 2.25 8.91421 2.25 8.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.93917 2.89317C10.3111 2.71081 10.7604 2.86448 10.9428 3.23639L13.3599 8.16622C13.5423 8.53813 13.3886 8.98746 13.0167 9.16981C12.6448 9.35216 12.1954 9.19849 12.0131 8.82658L9.59594 3.89676C9.41359 3.52484 9.56726 3.07552 9.93917 2.89317ZM14.3899 2.89317C14.7618 2.71081 15.2111 2.86448 15.3934 3.23639L17.8106 8.16622C17.993 8.53813 17.8393 8.98746 17.4674 9.16981C17.0955 9.35216 16.6461 9.19849 16.4638 8.82658L14.0466 3.89676C13.8643 3.52484 14.0179 3.07552 14.3899 2.89317ZM5.6269 3.12023C5.99931 2.93889 6.44821 3.09378 6.62955 3.46619L8.91903 8.16794C9.10037 8.54035 8.94548 8.98925 8.57307 9.1706C8.20066 9.35194 7.75176 9.19704 7.57042 8.82464L5.28094 4.12288C5.0996 3.75047 5.25449 3.30157 5.6269 3.12023Z" fill="black"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -3357,7 +4565,7 @@ class _VideoMovieMovieBold {
   /// Movie — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Movie',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.41943 6.429C9.41943 6.59469 9.55375 6.729 9.71943 6.729H14.2754C14.4411 6.729 14.5754 6.59469 14.5754 6.429V2.8C14.5754 2.63431 14.4411 2.5 14.2754 2.5H9.71943C9.55375 2.5 9.41943 2.63431 9.41943 2.8V6.429Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0762 6.42886C16.0762 6.59455 16.2105 6.72886 16.3762 6.72886H20.6114C20.7957 6.72886 20.9368 6.5637 20.8979 6.38364C20.4112 4.13329 18.7287 2.65865 16.3798 2.5167C16.2131 2.50662 16.0762 2.64228 16.0762 2.8093V6.42886Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.61989 6.72886C7.78557 6.72886 7.91989 6.59454 7.91989 6.42886V2.80954C7.91989 2.64242 7.78285 2.50673 7.61605 2.51694C5.26827 2.66063 3.5868 4.13438 3.10018 6.38362C3.06123 6.56369 3.20242 6.72886 3.38665 6.72886H7.61989Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6182 15.8695C17.6182 17.0715 16.6392 18.0495 15.4372 18.0495H13.2612C12.0582 18.0495 11.0802 17.0715 11.0802 15.8695V14.5495C11.0802 13.3475 12.0582 12.3695 13.2612 12.3695H15.4372C16.6392 12.3695 17.6182 13.3475 17.6182 14.5495V15.8695ZM3.24922 8.22852C3.08353 8.22852 2.94922 8.36283 2.94922 8.52852V16.2285C2.94922 19.3815 4.97622 21.4995 7.99322 21.4995H16.0062C19.0222 21.4995 21.0492 19.3815 21.0492 16.2285V8.52852C21.0492 8.36283 20.9149 8.22852 20.7492 8.22852H3.24922Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4376 13.8701H13.2606C12.8856 13.8701 12.5806 14.1751 12.5806 14.5501V15.8701C12.5806 16.2451 12.8856 16.5501 13.2606 16.5501H15.4376C15.8126 16.5501 16.1186 16.2451 16.1186 15.8701V14.5501C16.1186 14.1751 15.8126 13.8701 15.4376 13.8701Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0053 7.58557C19.0557 7.68834 19.1601 7.75348 19.2746 7.75348H21.9667C22.1415 7.75348 22.2798 7.60421 22.258 7.43087C21.9251 4.79175 20.0491 3.06348 17.3506 3.06348H17.2689C17.0468 3.06348 16.9017 3.29624 16.9995 3.49557L19.0053 7.58557Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.2242 3.2805C15.1674 3.16355 15.0709 3.0625 14.9409 3.0625H12.2554C12.0334 3.0625 11.8883 3.29524 11.986 3.49457L13.9918 7.58557C14.0422 7.68835 14.1467 7.7535 14.2612 7.7535H16.936C17.158 7.7535 17.3031 7.52076 17.2053 7.32144L15.2242 3.2805Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.99167 7.58463C9.04188 7.68792 9.14664 7.75348 9.26149 7.75348H11.9225C12.1445 7.75348 12.2896 7.52074 12.1919 7.32141L10.2107 3.28048C10.1542 3.16398 10.058 3.06348 9.92846 3.06348H8.31575C7.93927 3.06348 7.58569 3.10816 7.24654 3.17862C7.06129 3.21711 6.96786 3.42112 7.05057 3.59128L8.99167 7.58463Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.63398 9.25391C3.4683 9.25391 3.33398 9.38822 3.33398 9.55391V15.7239C3.33398 18.8459 5.33598 20.9429 8.31598 20.9429H17.349C20.33 20.9429 22.333 18.8459 22.333 15.7239V9.55391C22.333 9.38822 22.1987 9.25391 22.033 9.25391H3.63398Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.9267 7.75363C7.14825 7.75363 7.29337 7.52175 7.19652 7.32249L5.65631 4.15361C5.57754 3.99155 5.37402 3.93443 5.23082 4.0438C4.23267 4.80616 3.59076 5.98141 3.4094 7.43153C3.38773 7.60485 3.52614 7.75363 3.70081 7.75363H6.9267Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -3372,6 +4580,114 @@ class _VideoMovieMovieLight {
   /// Movie — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Movie',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.48246 3.5625H16.5156C19.2788 3.5625 20.999 5.51279 20.999 8.274V15.7243C20.999 18.4845 19.2788 20.4358 16.5146 20.4358H7.48246C4.71832 20.4358 3 18.4845 3 15.7243V8.274C3 5.51279 4.7271 3.5625 7.48246 3.5625Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 8.5H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.24455 8.49612L5.95508 3.79437M12.6863 8.49623L10.2692 3.56641M17.137 8.49623L14.7199 3.56641" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Movie 1 icon with style variants.
+class _VideoMovieMovie1Icon {
+  const _VideoMovieMovie1Icon();
+
+  /// bold style
+  _VideoMovieMovie1Bold get bold => const _VideoMovieMovie1Bold();
+  /// bulk style
+  _VideoMovieMovie1Bulk get bulk => const _VideoMovieMovie1Bulk();
+  /// light style
+  _VideoMovieMovie1Light get light => const _VideoMovieMovie1Light();
+  /// outline style
+  _VideoMovieMovie1Outline get outline => const _VideoMovieMovie1Outline();
+  /// twoTone style
+  _VideoMovieMovie1Twotone get twoTone => const _VideoMovieMovie1Twotone();
+  /// broken style
+  _VideoMovieMovie1Broken get broken => const _VideoMovieMovie1Broken();
+}
+
+/// Movie 1 — bulk style variants.
+class _VideoMovieMovie1Bulk {
+  const _VideoMovieMovie1Bulk();
+
+  /// Movie 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Movie 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.0492 7.78V16.23C21.0492 19.38 19.0192 21.5 16.0092 21.5H7.99922C4.97922 21.5 2.94922 19.38 2.94922 16.23V7.78C2.94922 7.42 2.97922 7.07 3.02922 6.73C3.42922 4.19 5.28922 2.53 7.91922 2.5H16.0792C18.7092 2.53 20.5692 4.18 20.9692 6.73C21.0192 7.07 21.0492 7.42 21.0492 7.78Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.1191 15.8701C16.1191 16.2401 15.8091 16.5501 15.4391 16.5501H13.2591C12.8891 16.5501 12.5791 16.2401 12.5791 15.8701V14.5501C12.5791 14.1701 12.8891 13.8701 13.2591 13.8701H15.4391C15.8091 13.8701 16.1191 14.1701 16.1191 14.5501V15.8701ZM15.4391 12.3701H13.2591C12.0591 12.3701 11.0791 13.3501 11.0791 14.5501V15.8701C11.0791 17.0701 12.0591 18.0501 13.2591 18.0501H15.4391C16.6391 18.0501 17.6191 17.0701 17.6191 15.8701V14.5501C17.6191 13.3501 16.6391 12.3701 15.4391 12.3701Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.91922 2.5V6.73H3.02922C2.97922 7.07 2.94922 7.42 2.94922 7.78V8.23H21.0492V7.78C21.0492 7.42 21.0192 7.07 20.9692 6.73H16.0792V2.5H14.5792V6.73H9.41922V2.5H7.91922Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Movie 1 — broken style variants.
+class _VideoMovieMovie1Broken {
+  const _VideoMovieMovie1Broken();
+
+  /// Movie 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Movie 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.70032 11.7582V7.77583C3.70032 4.97758 5.44398 3 8.24515 3H16.2568C19.058 3 20.7997 4.97758 20.7997 7.77583V16.2251C20.7997 19.0234 19.0492 21 16.2568 21H8.24418C5.44398 21 3.70032 19.0234 3.70032 16.2251V14.9473" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5128 13.1211C12.7224 13.1211 12.082 13.7614 12.082 14.5519V15.8677C12.082 16.6581 12.7224 17.2985 13.5128 17.2985H15.6892C16.4797 17.2985 17.12 16.6581 17.12 15.8677V14.5519C17.12 13.7614 16.4797 13.1211 15.6892 13.1211" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.27344 7.47563V3M15.2266 7.47563V5.44603" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.70703 7.47656H20.7928" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Movie 1 — twoTone style variants.
+class _VideoMovieMovie1Twotone {
+  const _VideoMovieMovie1Twotone();
+
+  /// Movie 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Movie 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.5067 21H8.49405C5.69386 21 3.9502 19.0234 3.9502 16.2251V7.77583C3.9502 4.97758 5.69386 3 8.49503 3H16.5067C19.3079 3 21.0496 4.97758 21.0496 7.77583V16.2251C21.0496 19.0234 19.2991 21 16.5067 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9392 17.2985H13.7628C12.9724 17.2985 12.332 16.6581 12.332 15.8677V14.5519C12.332 13.7614 12.9724 13.1211 13.7628 13.1211H15.9392C16.7297 13.1211 17.37 13.7614 17.37 14.5519V15.8677C17.37 16.6581 16.7297 17.2985 15.9392 17.2985Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.52344 7.47563V3M15.4766 7.47563V3M3.95703 7.47583H21.0428" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Movie 1 — outline style variants.
+class _VideoMovieMovie1Outline {
+  const _VideoMovieMovie1Outline();
+
+  /// Movie 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Movie 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.12426 3.82747C5.06708 2.81495 6.41012 2.25 7.99601 2.25H16.0077C17.5936 2.25 18.9363 2.81498 19.8786 3.82764C20.8153 4.8342 21.3006 6.22201 21.3006 7.77583V16.2251C21.3006 17.78 20.8125 19.1674 19.8749 20.1733C18.9318 21.185 17.5896 21.75 16.0077 21.75H7.99503C6.40967 21.75 5.06689 21.1853 4.12418 20.1731C3.18707 19.1668 2.70117 17.7792 2.70117 16.2251V7.77583C2.70117 6.22179 3.18707 4.83396 4.12426 3.82747ZM5.22204 4.84967C4.58711 5.53154 4.20117 6.53162 4.20117 7.77583V16.2251C4.20117 17.4693 4.5871 18.4692 5.22188 19.1508C5.85105 19.8264 6.78019 20.25 7.99503 20.25H16.0077C17.2182 20.25 18.1474 19.8267 18.7777 19.1505C19.4134 18.4685 19.8006 17.4686 19.8006 16.2251V7.77583C19.8006 6.5314 19.415 5.5313 18.7805 4.8495C18.1517 4.17381 17.223 3.75 16.0077 3.75H7.99601C6.78072 3.75 5.85134 4.17384 5.22204 4.84967Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.2628 13.8711C12.8866 13.8711 12.582 14.1757 12.582 14.5519V15.8677C12.582 16.2439 12.8866 16.5485 13.2628 16.5485H15.4392C15.8155 16.5485 16.12 16.2439 16.12 15.8677V14.5519C16.12 14.1757 15.8155 13.8711 15.4392 13.8711H13.2628ZM11.082 14.5519C11.082 13.3472 12.0582 12.3711 13.2628 12.3711H15.4392C16.6439 12.3711 17.62 13.3472 17.62 14.5519V15.8677C17.62 17.0723 16.6439 18.0485 15.4392 18.0485H13.2628C12.0582 18.0485 11.082 17.0723 11.082 15.8677V14.5519Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.02344 2.25C9.43765 2.25 9.77344 2.58579 9.77344 3V7.47563C9.77344 7.88985 9.43765 8.22563 9.02344 8.22563C8.60922 8.22563 8.27344 7.88985 8.27344 7.47563V3C8.27344 2.58579 8.60922 2.25 9.02344 2.25ZM14.9766 2.25C15.3908 2.25 15.7266 2.58579 15.7266 3V7.47563C15.7266 7.88985 15.3908 8.22563 14.9766 8.22563C14.5624 8.22563 14.2266 7.88985 14.2266 7.47563V3C14.2266 2.58579 14.5624 2.25 14.9766 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.70703 7.47656C2.70703 7.06235 3.04282 6.72656 3.45703 6.72656H20.5428C20.957 6.72656 21.2928 7.06235 21.2928 7.47656C21.2928 7.89078 20.957 8.22656 20.5428 8.22656H3.45703C3.04282 8.22656 2.70703 7.89078 2.70703 7.47656Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Movie 1 — bold style variants.
+class _VideoMovieMovie1Bold {
+  const _VideoMovieMovie1Bold();
+
+  /// Movie 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Movie 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.41943 6.429C9.41943 6.59469 9.55375 6.729 9.71943 6.729H14.2754C14.4411 6.729 14.5754 6.59469 14.5754 6.429V2.8C14.5754 2.63431 14.4411 2.5 14.2754 2.5H9.71943C9.55375 2.5 9.41943 2.63431 9.41943 2.8V6.429Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0762 6.42886C16.0762 6.59455 16.2105 6.72886 16.3762 6.72886H20.6114C20.7957 6.72886 20.9368 6.5637 20.8979 6.38364C20.4112 4.13329 18.7287 2.65865 16.3798 2.5167C16.2131 2.50662 16.0762 2.64228 16.0762 2.8093V6.42886Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.61989 6.72886C7.78557 6.72886 7.91989 6.59454 7.91989 6.42886V2.80954C7.91989 2.64242 7.78285 2.50673 7.61605 2.51694C5.26827 2.66063 3.5868 4.13438 3.10018 6.38362C3.06123 6.56369 3.20242 6.72886 3.38665 6.72886H7.61989Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6182 15.8695C17.6182 17.0715 16.6392 18.0495 15.4372 18.0495H13.2612C12.0582 18.0495 11.0802 17.0715 11.0802 15.8695V14.5495C11.0802 13.3475 12.0582 12.3695 13.2612 12.3695H15.4372C16.6392 12.3695 17.6182 13.3475 17.6182 14.5495V15.8695ZM3.24922 8.22852C3.08353 8.22852 2.94922 8.36283 2.94922 8.52852V16.2285C2.94922 19.3815 4.97622 21.4995 7.99322 21.4995H16.0062C19.0222 21.4995 21.0492 19.3815 21.0492 16.2285V8.52852C21.0492 8.36283 20.9149 8.22852 20.7492 8.22852H3.24922Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4376 13.8701H13.2606C12.8856 13.8701 12.5806 14.1751 12.5806 14.5501V15.8701C12.5806 16.2451 12.8856 16.5501 13.2606 16.5501H15.4376C15.8126 16.5501 16.1186 16.2451 16.1186 15.8701V14.5501C16.1186 14.1751 15.8126 13.8701 15.4376 13.8701Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Movie 1 — light style variants.
+class _VideoMovieMovie1Light {
+  const _VideoMovieMovie1Light();
+
+  /// Movie 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Movie 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.0077 21H7.99503C5.19484 21 3.45117 19.0234 3.45117 16.2251V7.77583C3.45117 4.97758 5.19484 3 7.99601 3H16.0077C18.8089 3 20.5506 4.97758 20.5506 7.77583V16.2251C20.5506 19.0234 18.8001 21 16.0077 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4392 17.2985H13.2628C12.4724 17.2985 11.832 16.6581 11.832 15.8677V14.5519C11.832 13.7614 12.4724 13.1211 13.2628 13.1211H15.4392C16.2297 13.1211 16.87 13.7614 16.87 14.5519V15.8677C16.87 16.6581 16.2297 17.2985 15.4392 17.2985Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.02344 7.47563V3M14.9766 7.47563V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.45703 7.47656H20.5428" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.light,
@@ -3596,6 +4912,114 @@ class _VideoMovieForward5sLight {
 
 }
 
+/// Forward 5s 1 icon with style variants.
+class _VideoMovieForward5s1Icon {
+  const _VideoMovieForward5s1Icon();
+
+  /// bold style
+  _VideoMovieForward5s1Bold get bold => const _VideoMovieForward5s1Bold();
+  /// bulk style
+  _VideoMovieForward5s1Bulk get bulk => const _VideoMovieForward5s1Bulk();
+  /// light style
+  _VideoMovieForward5s1Light get light => const _VideoMovieForward5s1Light();
+  /// outline style
+  _VideoMovieForward5s1Outline get outline => const _VideoMovieForward5s1Outline();
+  /// twoTone style
+  _VideoMovieForward5s1Twotone get twoTone => const _VideoMovieForward5s1Twotone();
+  /// broken style
+  _VideoMovieForward5s1Broken get broken => const _VideoMovieForward5s1Broken();
+}
+
+/// Forward 5s 1 — bulk style variants.
+class _VideoMovieForward5s1Bulk {
+  const _VideoMovieForward5s1Bulk();
+
+  /// Forward 5s 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 5s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.7671 9.42731C18.4821 9.42831 18.2221 9.59131 18.0971 9.84731C17.9711 10.1023 18.0011 10.4073 18.1751 10.6333L19.6641 12.5763C19.6851 12.6033 19.7161 12.6153 19.7401 12.6383C19.7541 12.6533 19.7701 12.6633 19.7861 12.6763C19.8451 12.7273 19.9041 12.7743 19.9751 12.8043C20.0261 12.8273 20.0841 12.8323 20.1401 12.8423C20.1811 12.8493 20.2171 12.8703 20.2601 12.8703C20.2631 12.8703 20.2651 12.8683 20.2681 12.8683C20.2721 12.8683 20.2751 12.8703 20.2781 12.8703C20.5351 12.8703 20.7501 12.7333 20.8861 12.5363L22.3521 10.6213C22.5271 10.3953 22.5561 10.0883 22.4291 9.83231C22.3031 9.57631 22.0421 9.41531 21.7571 9.41531H21.7541L21.0281 9.41831V8.39031C21.0281 5.20731 18.9791 3.07031 15.9301 3.07031H8.26111C5.21111 3.07031 3.16211 5.20731 3.16211 8.39031V15.6113C3.16211 18.7923 5.21211 20.9303 8.26211 20.9303H15.9301C18.9791 20.9303 21.0281 18.7923 21.0281 15.6113C21.0281 15.1973 20.6921 14.8613 20.2781 14.8613C19.8641 14.8613 19.5281 15.1973 19.5281 15.6113C19.5281 17.9313 18.1161 19.4303 15.9301 19.4303H8.26211C6.07511 19.4303 4.66211 17.9313 4.66211 15.6113V8.39031C4.66211 6.07031 6.07511 4.57031 8.26111 4.57031H15.9301C18.1161 4.57031 19.5281 6.07031 19.5281 8.39031V9.42431L18.7671 9.42731Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2176 13.9397H10.3516C9.93756 13.9397 9.60156 14.2757 9.60156 14.6897C9.60156 15.1037 9.93756 15.4397 10.3516 15.4397H12.2176C13.3766 15.4397 14.3196 14.4987 14.3196 13.3397C14.3196 12.1817 13.3766 11.2397 12.2176 11.2397H11.1016V10.1797H13.3136C13.7276 10.1797 14.0636 9.84369 14.0636 9.42969C14.0636 9.01569 13.7276 8.67969 13.3136 8.67969H10.3516C9.93756 8.67969 9.60156 9.01569 9.60156 9.42969V11.9897C9.60156 12.4037 9.93756 12.7397 10.3516 12.7397H12.2176C12.5496 12.7397 12.8196 13.0087 12.8196 13.3397C12.8196 13.6707 12.5496 13.9397 12.2176 13.9397Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 5s 1 — broken style variants.
+class _VideoMovieForward5s1Broken {
+  const _VideoMovieForward5s1Broken();
+
+  /// Forward 5s 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 5s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.49707 14.6896H11.3633C12.1095 14.6896 12.7147 14.0844 12.7147 13.3382C12.7147 12.5919 12.1095 11.9867 11.3633 11.9867H9.49707V9.42969H12.4588" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08362 8.38653C3.08362 5.70887 4.75229 3.81641 7.43287 3.81641H15.102C17.7748 3.81641 19.4503 5.70887 19.4503 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4503 15.6111C19.4503 18.2887 17.7826 20.1812 15.102 20.1812H7.43385C4.75229 20.1812 3.08362 18.2887 3.08362 15.6111V12.0273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.084 10.4648L19.4318 12.117L17.7894 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 5s 1 — twoTone style variants.
+class _VideoMovieForward5s1Twotone {
+  const _VideoMovieForward5s1Twotone();
+
+  /// Forward 5s 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 5s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.7006 15.6129C19.7006 18.2905 18.0329 20.183 15.3523 20.183H7.6842C5.00265 20.183 3.33398 18.2905 3.33398 15.6129V8.38652C3.33398 5.70886 5.00265 3.81641 7.68323 3.81641H15.3523C18.0251 3.81641 19.7006 5.70886 19.7006 8.38652V12.1169" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.3336 10.4648L19.6815 12.117L18.0391 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.74707 14.6896H11.6133C12.3595 14.6896 12.9647 14.0844 12.9647 13.3382C12.9647 12.5919 12.3595 11.9867 11.6133 11.9867H9.74707V9.42969H12.7088" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 5s 1 — outline style variants.
+class _VideoMovieForward5s1Outline {
+  const _VideoMovieForward5s1Outline();
+
+  /// Forward 5s 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 5s 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.71828 5.60845C4.11718 6.25397 3.75 7.20262 3.75 8.38652V15.6129C3.75 16.7968 4.11717 17.7454 4.71836 18.3909C5.31394 19.0304 6.19466 19.433 7.35022 19.433H15.0183C16.1733 19.433 17.0535 19.0304 17.6487 18.391C18.2496 17.7456 18.6166 16.7969 18.6166 15.6129C18.6166 15.1987 18.9524 14.8629 19.3666 14.8629C19.7808 14.8629 20.1166 15.1987 20.1166 15.6129C20.1166 17.1065 19.6497 18.4429 18.7466 19.4131C17.8379 20.3893 16.5439 20.933 15.0183 20.933H7.35022C5.82422 20.933 4.52984 20.3894 3.62069 19.4132C2.71716 18.4431 2.25 17.1066 2.25 15.6129V8.38652C2.25 6.89276 2.71716 5.55635 3.62053 4.58623C4.52952 3.61008 5.82366 3.06641 7.34924 3.06641H15.0183C16.5405 3.06641 17.834 3.61039 18.7434 4.58596C19.6472 5.55568 20.1166 6.89196 20.1166 8.38652V12.1169C20.1166 12.5312 19.7808 12.8669 19.3666 12.8669C18.9524 12.8669 18.6166 12.5312 18.6166 12.1169V8.38652C18.6166 7.20342 18.2482 6.25464 17.6461 5.60872C17.0495 4.96865 16.1689 4.56641 15.0183 4.56641H7.34924C6.19426 4.56641 5.31377 4.96897 4.71828 5.60845Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5299 9.93451C21.8228 10.2274 21.8228 10.7023 21.5299 10.9952L19.8778 12.6473C19.5849 12.9402 19.11 12.9402 18.8171 12.6473L17.1747 11.0049C16.8819 10.712 16.8819 10.2371 17.1747 9.94424C17.4676 9.65135 17.9425 9.65135 18.2354 9.94424L19.3475 11.0563L20.4693 9.93451C20.7622 9.64162 21.237 9.64162 21.5299 9.93451Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.66211 9.42969C8.66211 9.01547 8.9979 8.67969 9.41211 8.67969H12.3739C12.7881 8.67969 13.1239 9.01547 13.1239 9.42969C13.1239 9.8439 12.7881 10.1797 12.3739 10.1797H10.1621V11.2367H11.2783C12.4388 11.2367 13.3798 12.1777 13.3798 13.3382C13.3798 14.4987 12.4388 15.4396 11.2783 15.4396H9.41211C8.9979 15.4396 8.66211 15.1039 8.66211 14.6896C8.66211 14.2754 8.9979 13.9396 9.41211 13.9396H11.2783C11.6104 13.9396 11.8798 13.6702 11.8798 13.3382C11.8798 13.0061 11.6104 12.7367 11.2783 12.7367H9.41211C8.9979 12.7367 8.66211 12.4009 8.66211 11.9867V9.42969Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 5s 1 — bold style variants.
+class _VideoMovieForward5s1Bold {
+  const _VideoMovieForward5s1Bold();
+
+  /// Forward 5s 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 5s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2193 13.9407H10.3533C9.93927 13.9407 9.60327 14.2767 9.60327 14.6907C9.60327 15.1047 9.93927 15.4407 10.3533 15.4407H12.2193C13.3783 15.4407 14.3213 14.4997 14.3213 13.3407C14.3213 12.1827 13.3783 11.2407 12.2193 11.2407H11.1033V10.1807H13.3153C13.7293 10.1807 14.0653 9.84466 14.0653 9.43066C14.0653 9.01666 13.7293 8.68066 13.3153 8.68066H10.3533C9.93927 8.68066 9.60327 9.01666 9.60327 9.43066V11.9907C9.60327 12.4047 9.93927 12.7407 10.3533 12.7407H12.2193C12.5513 12.7407 12.8213 13.0097 12.8213 13.3407C12.8213 13.6717 12.5513 13.9407 12.2193 13.9407Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7671 9.42731C18.4821 9.42831 18.2221 9.59131 18.0971 9.84731C17.9711 10.1023 18.0011 10.4073 18.1751 10.6333L19.6641 12.5763C19.6851 12.6033 19.7161 12.6153 19.7401 12.6383C19.7541 12.6533 19.7701 12.6633 19.7861 12.6763C19.8451 12.7273 19.9041 12.7743 19.9751 12.8043C20.0261 12.8273 20.0841 12.8323 20.1401 12.8423C20.1811 12.8493 20.2171 12.8703 20.2601 12.8703C20.2631 12.8703 20.2651 12.8683 20.2681 12.8683C20.2721 12.8683 20.2751 12.8703 20.2781 12.8703C20.5351 12.8703 20.7501 12.7333 20.8861 12.5363L22.3521 10.6213C22.5271 10.3953 22.5561 10.0883 22.4291 9.83231C22.3031 9.57631 22.0421 9.41531 21.7571 9.41531H21.7541L21.0281 9.41831V8.39031C21.0281 5.20731 18.9791 3.07031 15.9301 3.07031H8.26111C5.21111 3.07031 3.16211 5.20731 3.16211 8.39031V15.6113C3.16211 18.7923 5.21211 20.9303 8.26211 20.9303H15.9301C18.9791 20.9303 21.0281 18.7923 21.0281 15.6113C21.0281 15.1973 20.6921 14.8613 20.2781 14.8613C19.8641 14.8613 19.5281 15.1973 19.5281 15.6113C19.5281 17.9313 18.1161 19.4303 15.9301 19.4303H8.26211C6.07511 19.4303 4.66211 17.9313 4.66211 15.6113V8.39031C4.66211 6.07031 6.07511 4.57031 8.26111 4.57031H15.9301C18.1161 4.57031 19.5281 6.07031 19.5281 8.39031V9.42431L18.7671 9.42731Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 5s 1 — light style variants.
+class _VideoMovieForward5s1Light {
+  const _VideoMovieForward5s1Light();
+
+  /// Forward 5s 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 5s 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.3666 15.6129C19.3666 18.2905 17.6989 20.183 15.0183 20.183H7.35022C4.66867 20.183 3 18.2905 3 15.6129V8.38652C3 5.70886 4.66867 3.81641 7.34924 3.81641H15.0183C17.6911 3.81641 19.3666 5.70886 19.3666 8.38652V12.1169" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9996 10.4648L19.3475 12.117L17.7051 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.41211 14.6896H11.2783C12.0246 14.6896 12.6298 14.0844 12.6298 13.3382C12.6298 12.5919 12.0246 11.9867 11.2783 11.9867H9.41211V9.42969H12.3739" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Vdeo tv icon with style variants.
 class _VideoMovieVdeoTvIcon {
   const _VideoMovieVdeoTvIcon();
@@ -3729,7 +5153,7 @@ class _VideoMovieMovieReelBulk {
   /// movie reel — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'movie reel',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M22.5806 11.7853C22.5806 16.8053 18.5006 20.8853 13.4906 20.8853C12.4506 20.8853 11.4506 20.7153 10.5206 20.3853C9.95062 20.1953 9.41063 19.9453 8.90063 19.6353C6.20063 18.0653 4.39062 15.1353 4.39062 11.7853C4.39062 6.77531 8.47063 2.69531 13.4906 2.69531C18.5006 2.69531 22.5806 6.77531 22.5806 11.7853Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4869 6.21875C12.5929 6.21875 11.8649 6.94575 11.8649 7.83875C11.8649 8.73775 12.5929 9.46875 13.4869 9.46875C14.3819 9.46875 15.1089 8.73775 15.1089 7.83875C15.1089 6.94575 14.3819 6.21875 13.4869 6.21875Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4869 14.0996C12.5929 14.0996 11.8649 14.8266 11.8649 15.7186C11.8649 16.6126 12.5929 17.3386 13.4869 17.3386C14.3819 17.3386 15.1089 16.6126 15.1089 15.7186C15.1089 14.8266 14.3819 14.0996 13.4869 14.0996Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.5479 10.1582C8.6529 10.1582 7.9259 10.8852 7.9259 11.7782C7.9259 12.6772 8.6529 13.4082 9.5479 13.4082C10.4429 13.4082 11.1699 12.6772 11.1699 11.7782C11.1699 10.8852 10.4429 10.1582 9.5479 10.1582Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4247 10.1582C16.5307 10.1582 15.8027 10.8852 15.8027 11.7782C15.8027 12.6772 16.5307 13.4082 17.4247 13.4082C18.3197 13.4082 19.0467 12.6772 19.0467 11.7782C19.0467 10.8852 18.3197 10.1582 17.4247 10.1582Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5201 20.3819C10.0701 20.7619 9.23005 21.3019 8.15005 21.3019C7.18005 21.3019 6.60005 20.8819 6.17005 20.5819C5.89005 20.3819 5.71005 20.2619 5.49005 20.2319C4.89005 20.1419 4.33005 20.6119 4.32005 20.6219C4.01005 20.8819 3.53005 20.8519 3.27005 20.5319C3.00005 20.2219 3.03005 19.7519 3.34005 19.4819C3.45005 19.3919 4.43005 18.5719 5.69005 18.7419C6.28005 18.8219 6.70005 19.1219 7.04005 19.3619C7.40005 19.6119 7.66005 19.8019 8.15005 19.8019C8.42005 19.8019 8.68005 19.7319 8.90005 19.6319C9.41005 19.9419 9.95005 20.1919 10.5201 20.3819Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M22.324 12.0028C22.324 15.4128 20.544 18.4128 17.864 20.1228C16.374 21.0728 14.594 21.6228 12.704 21.6228C7.40398 21.6228 3.08398 17.3128 3.08398 12.0028C3.08398 6.70281 7.40398 2.38281 12.704 2.38281C18.004 2.38281 22.324 6.70281 22.324 12.0028Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7065 14.4863C11.7645 14.4863 10.9985 15.2493 10.9985 16.1863C10.9985 17.1303 11.7645 17.8963 12.7065 17.8963C13.6475 17.8963 14.4135 17.1303 14.4135 16.1863C14.4135 15.2493 13.6475 14.4863 12.7065 14.4863Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.52441 10.2969C7.58241 10.2969 6.81641 11.0639 6.81641 12.0069C6.81641 12.9499 7.58241 13.7169 8.52441 13.7169C9.46541 13.7169 10.2314 12.9499 10.2314 12.0069C10.2314 11.0639 9.46541 10.2969 8.52441 10.2969Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7065 6.11719C11.7645 6.11719 10.9985 6.88419 10.9985 7.82619C10.9985 8.76319 11.7645 9.52619 12.7065 9.52619C13.6475 9.52619 14.4135 8.76319 14.4135 7.82619C14.4135 6.88419 13.6475 6.11719 12.7065 6.11719Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.8872 10.2969C15.9462 10.2969 15.1802 11.0639 15.1802 12.0069C15.1802 12.9499 15.9462 13.7169 16.8872 13.7169C17.8292 13.7169 18.5952 12.9499 18.5952 12.0069C18.5952 11.0639 17.8292 10.2969 16.8872 10.2969Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.5845 20.873C22.5845 21.293 22.2545 21.623 21.8345 21.623H12.7045C14.5945 21.623 16.3745 21.073 17.8645 20.123H21.8345C22.2545 20.123 22.5845 20.463 22.5845 20.873Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -3744,7 +5168,7 @@ class _VideoMovieMovieReelBroken {
   /// movie reel — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'movie reel',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.7369 3.44531C8.12688 3.44531 4.38965 7.18254 4.38965 11.7935C4.38965 16.4035 8.12688 20.1407 12.7369 20.1407C17.3469 20.1407 21.0841 16.4035 21.0841 11.7935C21.0841 8.45425 19.1241 5.57324 16.2919 4.23807" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.109 7.85335C14.109 7.09539 13.4951 6.48047 12.7371 6.48047C11.9792 6.48047 11.3652 7.09539 11.3652 7.85335C11.3652 8.6113 11.9792 9.22526 12.7371 9.22526" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.109 15.7313C14.109 16.4892 13.4951 17.1032 12.7371 17.1032C11.9792 17.1032 11.3652 16.4892 11.3652 15.7313C11.3652 14.9733 11.9792 14.3594 12.7371 14.3594" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.42676 11.7938C7.42676 12.5517 8.04071 13.1657 8.79866 13.1657C9.55662 13.1657 10.1706 12.5517 10.1706 11.7938C10.1706 11.0358 9.55662 10.4219 8.79866 10.4219" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.675 13.1657C17.433 13.1657 18.0469 12.5517 18.0469 11.7938C18.0469 11.0358 17.433 10.4219 16.675 10.4219C15.9171 10.4219 15.3031 11.0358 15.3031 11.7938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08398 20.0616C3.08398 20.0616 3.87988 19.3717 4.83535 19.4953C5.78985 19.6189 6.10413 20.5568 7.40014 20.5568C8.69518 20.5568 9.57378 19.5537 9.57378 19.5537" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.0912 4.77366C15.6413 3.74052 13.8673 3.13281 11.9515 3.13281C7.05463 3.13281 3.08398 7.10346 3.08398 12.0004C3.08398 16.8973 7.05463 20.8669 11.9515 20.8669C16.8484 20.8669 20.8191 16.8973 20.8191 12.0004C20.8191 10.2582 20.3165 8.63319 19.4484 7.26257" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9516 17.6415C12.7563 17.6415 13.4091 16.9887 13.4091 16.1841C13.4091 15.3794 12.7563 14.7266 11.9516 14.7266C11.147 14.7266 10.4941 15.3794 10.4941 16.1841" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.31152 12.0005C6.31152 12.8051 6.96438 13.458 7.76902 13.458C8.57365 13.458 9.22651 12.8051 9.22651 12.0005C9.22651 11.1949 8.57365 10.543 7.76902 10.543" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.4941 7.81687C10.4941 7.01223 11.147 6.35938 11.9516 6.35938C12.7563 6.35938 13.4091 7.01223 13.4091 7.81687C13.4091 8.62248 12.7563 9.27436 11.9516 9.27436" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5917 12.0005C17.5917 11.1958 16.9389 10.543 16.1343 10.543C15.3296 10.543 14.6768 11.1958 14.6768 12.0005C14.6768 12.8061 15.3296 13.458 16.1343 13.458" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9512 20.8672L21.0836 20.8672" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -3759,7 +5183,7 @@ class _VideoMovieMovieReelTwotone {
   /// movie reel — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'movie reel',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.63965 11.7935C4.63965 7.18254 8.37688 3.44531 12.9869 3.44531C17.5969 3.44531 21.3341 7.18254 21.3341 11.7935C21.3341 16.4035 17.5969 20.1407 12.9869 20.1407C8.37688 20.1407 4.63965 16.4035 4.63965 11.7935Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.9871 9.22526C13.7451 9.22526 14.359 8.6113 14.359 7.85335C14.359 7.09539 13.7451 6.48047 12.9871 6.48047C12.2292 6.48047 11.6152 7.09539 11.6152 7.85335C11.6152 8.6113 12.2292 9.22526 12.9871 9.22526Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.9871 17.1032C13.7451 17.1032 14.359 16.4892 14.359 15.7313C14.359 14.9733 13.7451 14.3594 12.9871 14.3594C12.2292 14.3594 11.6152 14.9733 11.6152 15.7313C11.6152 16.4892 12.2292 17.1032 12.9871 17.1032Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M7.67676 11.7938C7.67676 12.5517 8.29071 13.1657 9.04866 13.1657C9.80662 13.1657 10.4206 12.5517 10.4206 11.7938C10.4206 11.0358 9.80662 10.4219 9.04866 10.4219C8.29071 10.4219 7.67676 11.0358 7.67676 11.7938Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.5527 11.7938C15.5527 12.5517 16.1667 13.1657 16.9246 13.1657C17.6826 13.1657 18.2965 12.5517 18.2965 11.7938C18.2965 11.0358 17.6826 10.4219 16.9246 10.4219C16.1667 10.4219 15.5527 11.0358 15.5527 11.7938Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.33398 20.0616C3.33398 20.0616 4.12988 19.3717 5.08535 19.4953C6.03985 19.6189 6.35413 20.5568 7.65014 20.5568C8.94518 20.5568 9.82378 19.5537 9.82378 19.5537" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.0691 12.0004C21.0691 7.10346 17.0984 3.13281 12.2015 3.13281C7.30463 3.13281 3.33398 7.10346 3.33398 12.0004C3.33398 16.8973 7.30463 20.8669 12.2015 20.8669C17.0984 20.8669 21.0691 16.8973 21.0691 12.0004Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.2016 17.6415C11.397 17.6415 10.7441 16.9887 10.7441 16.1841C10.7441 15.3794 11.397 14.7266 12.2016 14.7266C13.0063 14.7266 13.6591 15.3794 13.6591 16.1841C13.6591 16.9887 13.0063 17.6415 12.2016 17.6415Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M9.47651 12.0005C9.47651 12.8051 8.82365 13.458 8.01902 13.458C7.21438 13.458 6.56152 12.8051 6.56152 12.0005C6.56152 11.1949 7.21438 10.543 8.01902 10.543C8.82365 10.543 9.47651 11.1949 9.47651 12.0005Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.2016 9.27436C11.397 9.27436 10.7441 8.62151 10.7441 7.81687C10.7441 7.01126 11.397 6.35938 12.2016 6.35938C13.0063 6.35938 13.6591 7.01126 13.6591 7.81687C13.6591 8.62151 13.0063 9.27436 12.2016 9.27436Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.8417 12.0005C17.8417 12.8051 17.1889 13.458 16.3843 13.458C15.5796 13.458 14.9268 12.8051 14.9268 12.0005C14.9268 11.1949 15.5796 10.543 16.3843 10.543C17.1889 10.543 17.8417 11.1949 17.8417 12.0005Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2012 20.8672L21.3336 20.8672" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -3774,7 +5198,7 @@ class _VideoMovieMovieReelOutline {
   /// movie reel — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'movie reel',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.6527 20.8953C10.8529 20.8953 9.09354 20.3616 7.59705 19.3617C6.10057 18.3618 4.93419 16.9405 4.24543 15.2777C3.55667 13.6149 3.37647 11.7852 3.72759 10.02C4.07872 8.25478 4.94541 6.6333 6.21807 5.36065C7.49073 4.08799 9.11219 3.22129 10.8774 2.87017C12.6426 2.51904 14.4723 2.69926 16.1352 3.38802C17.798 4.07678 19.2192 5.24316 20.2191 6.73964C21.219 8.23613 21.7527 9.9955 21.7527 11.7953C21.7509 14.2082 20.7915 16.5218 19.0854 18.228C17.3792 19.9341 15.0656 20.8935 12.6527 20.8953ZM12.6527 4.19533C11.1496 4.19533 9.68023 4.64106 8.43041 5.47616C7.1806 6.31125 6.20648 7.4982 5.63125 8.88692C5.05602 10.2756 4.90552 11.8037 5.19877 13.278C5.49202 14.7523 6.21585 16.1065 7.27873 17.1693C8.3416 18.2322 9.6958 18.956 11.1701 19.2493C12.6443 19.5425 14.1724 19.392 15.5611 18.8168C16.9499 18.2416 18.1368 17.2675 18.9719 16.0177C19.807 14.7678 20.2527 13.2984 20.2527 11.7953C20.2485 9.78179 19.4462 7.85209 18.0215 6.42916C16.5969 5.00623 14.6663 4.20618 12.6527 4.20434V4.19533Z" fill="black"/> <path d="M12.6513 9.9784C12.2316 9.9784 11.8213 9.85393 11.4724 9.62076C11.1234 9.38759 10.8514 9.05617 10.6908 8.66843C10.5302 8.28068 10.4882 7.85404 10.5701 7.44242C10.6519 7.03079 10.8541 6.65267 11.1508 6.3559C11.4476 6.05913 11.8257 5.85703 12.2373 5.77515C12.6489 5.69327 13.0756 5.7353 13.4634 5.89591C13.8511 6.05652 14.1825 6.3285 14.4157 6.67746C14.6488 7.02642 14.7733 7.43669 14.7733 7.85639C14.7725 8.41893 14.5487 8.95821 14.1509 9.35599C13.7531 9.75377 13.2138 9.9776 12.6513 9.9784ZM12.6513 7.2334C12.5283 7.2334 12.4081 7.26983 12.3058 7.33814C12.2036 7.40644 12.1238 7.50353 12.0767 7.61713C12.0296 7.73073 12.0173 7.85575 12.0412 7.97638C12.0651 8.09701 12.1242 8.20784 12.2111 8.29486C12.298 8.38189 12.4087 8.44119 12.5293 8.4653C12.6499 8.48942 12.775 8.47725 12.8886 8.43033C13.0023 8.38341 13.0995 8.30385 13.168 8.20169C13.2365 8.09954 13.2731 7.97936 13.2733 7.85639C13.273 7.69141 13.2074 7.53326 13.0909 7.41651C12.9743 7.29976 12.8163 7.23393 12.6513 7.2334V7.2334Z" fill="black"/> <path d="M12.6513 17.8534C12.2316 17.8534 11.8213 17.7289 11.4724 17.4958C11.1234 17.2626 10.8514 16.9312 10.6908 16.5434C10.5302 16.1557 10.4882 15.729 10.5701 15.3174C10.6519 14.9058 10.8541 14.5277 11.1508 14.2309C11.4476 13.9341 11.8257 13.732 12.2373 13.6501C12.6489 13.5683 13.0756 13.6103 13.4634 13.7709C13.8511 13.9315 14.1825 14.2035 14.4157 14.5525C14.6488 14.9014 14.7733 15.3117 14.7733 15.7314C14.7728 16.294 14.549 16.8334 14.1512 17.2313C13.7533 17.6291 13.2139 17.8528 12.6513 17.8534V17.8534ZM12.6513 15.1094C12.5283 15.1094 12.408 15.1459 12.3057 15.2142C12.2034 15.2826 12.1237 15.3797 12.0766 15.4933C12.0296 15.607 12.0172 15.7321 12.0412 15.8527C12.0652 15.9734 12.1245 16.0842 12.2115 16.1712C12.2985 16.2582 12.4093 16.3174 12.5299 16.3414C12.6506 16.3654 12.7757 16.3531 12.8893 16.306C13.003 16.259 13.1001 16.1792 13.1685 16.0769C13.2368 15.9746 13.2733 15.8544 13.2733 15.7314C13.273 15.5665 13.2074 15.4084 13.0908 15.2918C12.9742 15.1753 12.8162 15.1096 12.6513 15.1094Z" fill="black"/> <path d="M8.71381 13.9159C8.29412 13.9159 7.88384 13.7914 7.53488 13.5583C7.18592 13.3251 6.91394 12.9937 6.75333 12.6059C6.59272 12.2182 6.55069 11.7915 6.63257 11.3799C6.71445 10.9683 6.91655 10.5902 7.21332 10.2934C7.51009 9.99663 7.88819 9.79453 8.29982 9.71265C8.71145 9.63077 9.13812 9.6728 9.52587 9.83341C9.91361 9.99402 10.245 10.266 10.4782 10.615C10.7114 10.9639 10.8358 11.3742 10.8358 11.7939C10.835 12.3564 10.6112 12.8957 10.2134 13.2935C9.81563 13.6913 9.27635 13.9151 8.71381 13.9159ZM8.71381 11.1719C8.59079 11.1719 8.47053 11.2084 8.36824 11.2767C8.26596 11.3451 8.18622 11.4422 8.13915 11.5558C8.09207 11.6695 8.07976 11.7946 8.10376 11.9152C8.12776 12.0359 8.187 12.1467 8.27399 12.2337C8.36098 12.3207 8.4718 12.3799 8.59246 12.4039C8.71311 12.4279 8.83817 12.4156 8.95183 12.3685C9.06549 12.3215 9.16263 12.2417 9.23097 12.1394C9.29932 12.0371 9.3358 11.9169 9.3358 11.7939C9.33554 11.629 9.26993 11.4709 9.15334 11.3543C9.03675 11.2378 8.87869 11.1721 8.71381 11.1719Z" fill="black"/> <path d="M16.5927 13.9159C16.173 13.9159 15.7627 13.7914 15.4138 13.5583C15.0648 13.3251 14.7928 12.9937 14.6322 12.6059C14.4716 12.2182 14.4296 11.7915 14.5115 11.3799C14.5934 10.9683 14.7954 10.5902 15.0922 10.2934C15.389 9.99663 15.7671 9.79453 16.1787 9.71265C16.5903 9.63077 17.017 9.6728 17.4048 9.83341C17.7925 9.99402 18.1239 10.266 18.3571 10.615C18.5902 10.9639 18.7147 11.3742 18.7147 11.7939C18.7139 12.3564 18.4901 12.8957 18.0923 13.2935C17.6945 13.6913 17.1552 13.9151 16.5927 13.9159V13.9159ZM16.5927 11.1719C16.4697 11.1719 16.3494 11.2084 16.2471 11.2767C16.1448 11.3451 16.0651 11.4422 16.018 11.5558C15.971 11.6695 15.9587 11.7946 15.9827 11.9152C16.0067 12.0359 16.0659 12.1467 16.1529 12.2337C16.2399 12.3207 16.3507 12.3799 16.4713 12.4039C16.592 12.4279 16.7171 12.4156 16.8307 12.3685C16.9444 12.3215 17.0415 12.2417 17.1099 12.1394C17.1782 12.0371 17.2147 11.9169 17.2147 11.7939C17.2144 11.629 17.1488 11.4709 17.0322 11.3543C16.9156 11.2378 16.7576 11.1721 16.5927 11.1719Z" fill="black"/> <path d="M7.31437 21.3098C6.59216 21.303 5.89395 21.0497 5.33538 20.5918C5.14031 20.4202 4.90558 20.3 4.65238 20.2418C4.23055 20.2265 3.81754 20.3651 3.49038 20.6318C3.34013 20.7623 3.14421 20.8278 2.9457 20.8138C2.74719 20.7998 2.56236 20.7076 2.43188 20.5573C2.30139 20.4071 2.23593 20.2111 2.2499 20.0126C2.26387 19.8141 2.35612 19.6293 2.50637 19.4988C2.82802 19.2268 3.20022 19.021 3.6016 18.8931C4.00298 18.7653 4.42565 18.7179 4.84537 18.7538C5.34386 18.8381 5.81204 19.05 6.20437 19.3688C6.50953 19.6441 6.90346 19.8007 7.31437 19.8098C7.92757 19.771 8.50375 19.5029 8.92838 19.0588C9.06195 18.9174 9.24524 18.8334 9.43957 18.8246C9.6339 18.8157 9.82406 18.8827 9.96992 19.0115C10.1158 19.1402 10.2059 19.3206 10.2213 19.5145C10.2367 19.7084 10.1761 19.9007 10.0524 20.0508C9.34241 20.8165 8.35773 21.2692 7.31437 21.3098V21.3098Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8676 3.88281C7.38486 3.88281 3.75 7.51767 3.75 12.0004C3.75 16.4829 7.38475 20.1169 11.8676 20.1169C16.3504 20.1169 19.9851 16.4829 19.9851 12.0004C19.9851 7.51767 16.3502 3.88281 11.8676 3.88281ZM2.25 12.0004C2.25 6.68925 6.55643 2.38281 11.8676 2.38281C17.1787 2.38281 21.4851 6.68925 21.4851 12.0004C21.4851 17.3116 17.1786 21.6169 11.8676 21.6169C6.55654 21.6169 2.25 17.3116 2.25 12.0004Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8676 15.4766C11.4772 15.4766 11.1602 15.7936 11.1602 16.1841C11.1602 16.5745 11.4772 16.8915 11.8676 16.8915C12.2581 16.8915 12.5751 16.5745 12.5751 16.1841C12.5751 15.7936 12.2581 15.4766 11.8676 15.4766ZM9.66016 16.1841C9.66016 14.9652 10.6488 13.9766 11.8676 13.9766C13.0865 13.9766 14.0751 14.9652 14.0751 16.1841C14.0751 17.4029 13.0865 18.3915 11.8676 18.3915C10.6488 18.3915 9.66016 17.4029 9.66016 16.1841Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.68601 11.293C7.29526 11.293 6.97852 11.6094 6.97852 12.0005C6.97852 12.3909 7.29559 12.708 7.68601 12.708C8.07643 12.708 8.3935 12.3909 8.3935 12.0005C8.3935 11.6094 8.07676 11.293 7.68601 11.293ZM5.47852 12.0005C5.47852 10.7803 6.46748 9.79297 7.68601 9.79297C8.90453 9.79297 9.8935 10.7803 9.8935 12.0005C9.8935 13.2193 8.90486 14.208 7.68601 14.208C6.46716 14.208 5.47852 13.2193 5.47852 12.0005Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8676 7.10938C11.4769 7.10938 11.1602 7.4258 11.1602 7.81687C11.1602 8.20729 11.4772 8.52436 11.8676 8.52436C12.2581 8.52436 12.5751 8.20729 12.5751 7.81687C12.5751 7.4258 12.2584 7.10938 11.8676 7.10938ZM9.66016 7.81687C9.66016 6.59672 10.6491 5.60938 11.8676 5.60938C13.0862 5.60938 14.0751 6.59672 14.0751 7.81687C14.0751 9.03572 13.0865 10.0244 11.8676 10.0244C10.6488 10.0244 9.66016 9.03572 9.66016 7.81687Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0493 11.293C15.6585 11.293 15.3418 11.6094 15.3418 12.0005C15.3418 12.3909 15.6589 12.708 16.0493 12.708C16.4397 12.708 16.7568 12.3909 16.7568 12.0005C16.7568 11.6094 16.44 11.293 16.0493 11.293ZM13.8418 12.0005C13.8418 10.7803 14.8308 9.79297 16.0493 9.79297C17.2678 9.79297 18.2568 10.7803 18.2568 12.0005C18.2568 13.2193 17.2681 14.208 16.0493 14.208C14.8304 14.208 13.8418 13.2193 13.8418 12.0005Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1172 20.8672C11.1172 20.453 11.453 20.1172 11.8672 20.1172L20.9996 20.1172C21.4139 20.1172 21.7496 20.453 21.7496 20.8672C21.7496 21.2815 21.4138 21.6172 20.9996 21.6172L11.8672 21.6172C11.453 21.6172 11.1172 21.2814 11.1172 20.8672Z" fill="black"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -3789,7 +5213,7 @@ class _VideoMovieMovieReelBold {
   /// movie reel — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'movie reel',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4201 13.4153C16.5301 13.4153 15.8001 12.6853 15.8001 11.7853C15.8001 10.8953 16.5301 10.1653 17.4201 10.1653C18.3201 10.1653 19.0501 10.8953 19.0501 11.7853C19.0501 12.6853 18.3201 13.4153 17.4201 13.4153ZM13.4901 9.47531C12.5901 9.47531 11.8701 8.74531 11.8701 7.84531C11.8701 6.95531 12.5901 6.22531 13.4901 6.22531C14.3801 6.22531 15.1101 6.95531 15.1101 7.84531C15.1101 8.74531 14.3801 9.47531 13.4901 9.47531ZM13.4901 17.3453C12.5901 17.3453 11.8701 16.6253 11.8701 15.7253C11.8701 14.8353 12.5901 14.1053 13.4901 14.1053C14.3801 14.1053 15.1101 14.8353 15.1101 15.7253C15.1101 16.6253 14.3801 17.3453 13.4901 17.3453ZM9.55005 13.4153C8.65005 13.4153 7.93005 12.6853 7.93005 11.7853C7.93005 10.8953 8.65005 10.1653 9.55005 10.1653C10.4401 10.1653 11.1701 10.8953 11.1701 11.7853C11.1701 12.6853 10.4401 13.4153 9.55005 13.4153ZM13.4901 2.69531C8.47005 2.69531 4.39005 6.77531 4.39005 11.7853C4.39005 15.1353 6.21005 18.0553 8.91005 19.6453C8.68005 19.7353 8.43005 19.8053 8.15005 19.8053C7.66005 19.8053 7.40005 19.6253 7.04005 19.3653C6.70005 19.1253 6.28005 18.8353 5.69005 18.7553C4.43005 18.5753 3.45005 19.3953 3.34005 19.4953C3.03005 19.7653 3.00005 20.2353 3.27005 20.5453C3.53005 20.8553 4.01005 20.8953 4.32005 20.6253C4.33005 20.6253 4.89005 20.1553 5.49005 20.2453C5.71005 20.2753 5.89005 20.3853 6.17005 20.5953C6.60005 20.8953 7.18005 21.3053 8.15005 21.3053C9.24005 21.3053 10.0801 20.7653 10.5201 20.3853C11.4501 20.7053 12.4501 20.8853 13.4901 20.8853C18.5001 20.8853 22.5801 16.8053 22.5801 11.7853C22.5801 6.77531 18.5001 2.69531 13.4901 2.69531Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.176 12.0028C15.176 11.0598 15.942 10.2928 16.883 10.2928C17.825 10.2928 18.591 11.0598 18.591 12.0028C18.591 12.9458 17.825 13.7128 16.883 13.7128C15.942 13.7128 15.176 12.9458 15.176 12.0028ZM12.702 9.52281C11.76 9.52281 10.994 8.75981 10.994 7.82181C10.994 6.87981 11.76 6.11281 12.702 6.11281C13.644 6.11281 14.409 6.87981 14.409 7.82181C14.409 8.75981 13.644 9.52281 12.702 9.52281ZM12.702 17.8928C11.76 17.8928 10.994 17.1258 10.994 16.1828C10.994 15.2448 11.76 14.4818 12.702 14.4818C13.644 14.4818 14.409 15.2448 14.409 16.1828C14.409 17.1258 13.644 17.8928 12.702 17.8928ZM8.51998 13.7128C7.57798 13.7128 6.81198 12.9458 6.81198 12.0028C6.81198 11.0598 7.57798 10.2928 8.51998 10.2928C9.46198 10.2928 10.227 11.0598 10.227 12.0028C10.227 12.9458 9.46198 13.7128 8.51998 13.7128ZM21.834 20.1228H17.837C20.526 18.4158 22.319 15.4178 22.319 12.0028C22.319 6.69781 18.005 2.38281 12.702 2.38281C7.39898 2.38281 3.08398 6.69781 3.08398 12.0028C3.08398 17.3068 7.39798 21.6218 12.701 21.6228H21.834C22.248 21.6228 22.584 21.2868 22.584 20.8728C22.584 20.4588 22.248 20.1228 21.834 20.1228Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -3804,6 +5228,114 @@ class _VideoMovieMovieReelLight {
   /// movie reel — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'movie reel',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.7351 12.0005C20.7351 7.10355 16.7645 3.1329 11.8676 3.1329C6.97065 3.1329 3 7.10355 3 12.0005C3 16.8974 6.97065 20.867 11.8676 20.867C16.7645 20.867 20.7351 16.8974 20.7351 12.0005Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8676 17.6415C11.063 17.6415 10.4102 16.9887 10.4102 16.1841C10.4102 15.3794 11.063 14.7266 11.8676 14.7266C12.6723 14.7266 13.3251 15.3794 13.3251 16.1841C13.3251 16.9887 12.6723 17.6415 11.8676 17.6415Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.1435 12.0005C9.1435 12.8051 8.49065 13.458 7.68601 13.458C6.88137 13.458 6.22852 12.8051 6.22852 12.0005C6.22852 11.1949 6.88137 10.543 7.68601 10.543C8.49065 10.543 9.1435 11.1949 9.1435 12.0005Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8676 9.27436C11.063 9.27436 10.4102 8.62151 10.4102 7.81687C10.4102 7.01126 11.063 6.35938 11.8676 6.35938C12.6723 6.35938 13.3251 7.01126 13.3251 7.81687C13.3251 8.62151 12.6723 9.27436 11.8676 9.27436Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5068 12.0005C17.5068 12.8051 16.8539 13.458 16.0493 13.458C15.2447 13.458 14.5918 12.8051 14.5918 12.0005C14.5918 11.1949 15.2447 10.543 16.0493 10.543C16.8539 10.543 17.5068 11.1949 17.5068 12.0005Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8672 20.8672L20.9996 20.8672" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// movie reel 1 icon with style variants.
+class _VideoMovieMovieReel1Icon {
+  const _VideoMovieMovieReel1Icon();
+
+  /// bold style
+  _VideoMovieMovieReel1Bold get bold => const _VideoMovieMovieReel1Bold();
+  /// bulk style
+  _VideoMovieMovieReel1Bulk get bulk => const _VideoMovieMovieReel1Bulk();
+  /// light style
+  _VideoMovieMovieReel1Light get light => const _VideoMovieMovieReel1Light();
+  /// outline style
+  _VideoMovieMovieReel1Outline get outline => const _VideoMovieMovieReel1Outline();
+  /// twoTone style
+  _VideoMovieMovieReel1Twotone get twoTone => const _VideoMovieMovieReel1Twotone();
+  /// broken style
+  _VideoMovieMovieReel1Broken get broken => const _VideoMovieMovieReel1Broken();
+}
+
+/// movie reel 1 — bulk style variants.
+class _VideoMovieMovieReel1Bulk {
+  const _VideoMovieMovieReel1Bulk();
+
+  /// movie reel 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'movie reel 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M22.5806 11.7853C22.5806 16.8053 18.5006 20.8853 13.4906 20.8853C12.4506 20.8853 11.4506 20.7153 10.5206 20.3853C9.95062 20.1953 9.41063 19.9453 8.90063 19.6353C6.20063 18.0653 4.39062 15.1353 4.39062 11.7853C4.39062 6.77531 8.47063 2.69531 13.4906 2.69531C18.5006 2.69531 22.5806 6.77531 22.5806 11.7853Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4869 6.21875C12.5929 6.21875 11.8649 6.94575 11.8649 7.83875C11.8649 8.73775 12.5929 9.46875 13.4869 9.46875C14.3819 9.46875 15.1089 8.73775 15.1089 7.83875C15.1089 6.94575 14.3819 6.21875 13.4869 6.21875Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4869 14.0996C12.5929 14.0996 11.8649 14.8266 11.8649 15.7186C11.8649 16.6126 12.5929 17.3386 13.4869 17.3386C14.3819 17.3386 15.1089 16.6126 15.1089 15.7186C15.1089 14.8266 14.3819 14.0996 13.4869 14.0996Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.5479 10.1582C8.6529 10.1582 7.9259 10.8852 7.9259 11.7782C7.9259 12.6772 8.6529 13.4082 9.5479 13.4082C10.4429 13.4082 11.1699 12.6772 11.1699 11.7782C11.1699 10.8852 10.4429 10.1582 9.5479 10.1582Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4247 10.1582C16.5307 10.1582 15.8027 10.8852 15.8027 11.7782C15.8027 12.6772 16.5307 13.4082 17.4247 13.4082C18.3197 13.4082 19.0467 12.6772 19.0467 11.7782C19.0467 10.8852 18.3197 10.1582 17.4247 10.1582Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5201 20.3819C10.0701 20.7619 9.23005 21.3019 8.15005 21.3019C7.18005 21.3019 6.60005 20.8819 6.17005 20.5819C5.89005 20.3819 5.71005 20.2619 5.49005 20.2319C4.89005 20.1419 4.33005 20.6119 4.32005 20.6219C4.01005 20.8819 3.53005 20.8519 3.27005 20.5319C3.00005 20.2219 3.03005 19.7519 3.34005 19.4819C3.45005 19.3919 4.43005 18.5719 5.69005 18.7419C6.28005 18.8219 6.70005 19.1219 7.04005 19.3619C7.40005 19.6119 7.66005 19.8019 8.15005 19.8019C8.42005 19.8019 8.68005 19.7319 8.90005 19.6319C9.41005 19.9419 9.95005 20.1919 10.5201 20.3819Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// movie reel 1 — broken style variants.
+class _VideoMovieMovieReel1Broken {
+  const _VideoMovieMovieReel1Broken();
+
+  /// movie reel 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'movie reel 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.7369 3.44531C8.12688 3.44531 4.38965 7.18254 4.38965 11.7935C4.38965 16.4035 8.12688 20.1407 12.7369 20.1407C17.3469 20.1407 21.0841 16.4035 21.0841 11.7935C21.0841 8.45425 19.1241 5.57324 16.2919 4.23807" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.109 7.85335C14.109 7.09539 13.4951 6.48047 12.7371 6.48047C11.9792 6.48047 11.3652 7.09539 11.3652 7.85335C11.3652 8.6113 11.9792 9.22526 12.7371 9.22526" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.109 15.7313C14.109 16.4892 13.4951 17.1032 12.7371 17.1032C11.9792 17.1032 11.3652 16.4892 11.3652 15.7313C11.3652 14.9733 11.9792 14.3594 12.7371 14.3594" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.42676 11.7938C7.42676 12.5517 8.04071 13.1657 8.79866 13.1657C9.55662 13.1657 10.1706 12.5517 10.1706 11.7938C10.1706 11.0358 9.55662 10.4219 8.79866 10.4219" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.675 13.1657C17.433 13.1657 18.0469 12.5517 18.0469 11.7938C18.0469 11.0358 17.433 10.4219 16.675 10.4219C15.9171 10.4219 15.3031 11.0358 15.3031 11.7938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08398 20.0616C3.08398 20.0616 3.87988 19.3717 4.83535 19.4953C5.78985 19.6189 6.10413 20.5568 7.40014 20.5568C8.69518 20.5568 9.57378 19.5537 9.57378 19.5537" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// movie reel 1 — twoTone style variants.
+class _VideoMovieMovieReel1Twotone {
+  const _VideoMovieMovieReel1Twotone();
+
+  /// movie reel 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'movie reel 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.63965 11.7935C4.63965 7.18254 8.37688 3.44531 12.9869 3.44531C17.5969 3.44531 21.3341 7.18254 21.3341 11.7935C21.3341 16.4035 17.5969 20.1407 12.9869 20.1407C8.37688 20.1407 4.63965 16.4035 4.63965 11.7935Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.9871 9.22526C13.7451 9.22526 14.359 8.6113 14.359 7.85335C14.359 7.09539 13.7451 6.48047 12.9871 6.48047C12.2292 6.48047 11.6152 7.09539 11.6152 7.85335C11.6152 8.6113 12.2292 9.22526 12.9871 9.22526Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.9871 17.1032C13.7451 17.1032 14.359 16.4892 14.359 15.7313C14.359 14.9733 13.7451 14.3594 12.9871 14.3594C12.2292 14.3594 11.6152 14.9733 11.6152 15.7313C11.6152 16.4892 12.2292 17.1032 12.9871 17.1032Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M7.67676 11.7938C7.67676 12.5517 8.29071 13.1657 9.04866 13.1657C9.80662 13.1657 10.4206 12.5517 10.4206 11.7938C10.4206 11.0358 9.80662 10.4219 9.04866 10.4219C8.29071 10.4219 7.67676 11.0358 7.67676 11.7938Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.5527 11.7938C15.5527 12.5517 16.1667 13.1657 16.9246 13.1657C17.6826 13.1657 18.2965 12.5517 18.2965 11.7938C18.2965 11.0358 17.6826 10.4219 16.9246 10.4219C16.1667 10.4219 15.5527 11.0358 15.5527 11.7938Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.33398 20.0616C3.33398 20.0616 4.12988 19.3717 5.08535 19.4953C6.03985 19.6189 6.35413 20.5568 7.65014 20.5568C8.94518 20.5568 9.82378 19.5537 9.82378 19.5537" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// movie reel 1 — outline style variants.
+class _VideoMovieMovieReel1Outline {
+  const _VideoMovieMovieReel1Outline();
+
+  /// movie reel 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'movie reel 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.6527 20.8953C10.8529 20.8953 9.09354 20.3616 7.59705 19.3617C6.10057 18.3618 4.93419 16.9405 4.24543 15.2777C3.55667 13.6149 3.37647 11.7852 3.72759 10.02C4.07872 8.25478 4.94541 6.6333 6.21807 5.36065C7.49073 4.08799 9.11219 3.22129 10.8774 2.87017C12.6426 2.51904 14.4723 2.69926 16.1352 3.38802C17.798 4.07678 19.2192 5.24316 20.2191 6.73964C21.219 8.23613 21.7527 9.9955 21.7527 11.7953C21.7509 14.2082 20.7915 16.5218 19.0854 18.228C17.3792 19.9341 15.0656 20.8935 12.6527 20.8953ZM12.6527 4.19533C11.1496 4.19533 9.68023 4.64106 8.43041 5.47616C7.1806 6.31125 6.20648 7.4982 5.63125 8.88692C5.05602 10.2756 4.90552 11.8037 5.19877 13.278C5.49202 14.7523 6.21585 16.1065 7.27873 17.1693C8.3416 18.2322 9.6958 18.956 11.1701 19.2493C12.6443 19.5425 14.1724 19.392 15.5611 18.8168C16.9499 18.2416 18.1368 17.2675 18.9719 16.0177C19.807 14.7678 20.2527 13.2984 20.2527 11.7953C20.2485 9.78179 19.4462 7.85209 18.0215 6.42916C16.5969 5.00623 14.6663 4.20618 12.6527 4.20434V4.19533Z" fill="black"/> <path d="M12.6513 9.9784C12.2316 9.9784 11.8213 9.85393 11.4724 9.62076C11.1234 9.38759 10.8514 9.05617 10.6908 8.66843C10.5302 8.28068 10.4882 7.85404 10.5701 7.44242C10.6519 7.03079 10.8541 6.65267 11.1508 6.3559C11.4476 6.05913 11.8257 5.85703 12.2373 5.77515C12.6489 5.69327 13.0756 5.7353 13.4634 5.89591C13.8511 6.05652 14.1825 6.3285 14.4157 6.67746C14.6488 7.02642 14.7733 7.43669 14.7733 7.85639C14.7725 8.41893 14.5487 8.95821 14.1509 9.35599C13.7531 9.75377 13.2138 9.9776 12.6513 9.9784ZM12.6513 7.2334C12.5283 7.2334 12.4081 7.26983 12.3058 7.33814C12.2036 7.40644 12.1238 7.50353 12.0767 7.61713C12.0296 7.73073 12.0173 7.85575 12.0412 7.97638C12.0651 8.09701 12.1242 8.20784 12.2111 8.29486C12.298 8.38189 12.4087 8.44119 12.5293 8.4653C12.6499 8.48942 12.775 8.47725 12.8886 8.43033C13.0023 8.38341 13.0995 8.30385 13.168 8.20169C13.2365 8.09954 13.2731 7.97936 13.2733 7.85639C13.273 7.69141 13.2074 7.53326 13.0909 7.41651C12.9743 7.29976 12.8163 7.23393 12.6513 7.2334V7.2334Z" fill="black"/> <path d="M12.6513 17.8534C12.2316 17.8534 11.8213 17.7289 11.4724 17.4958C11.1234 17.2626 10.8514 16.9312 10.6908 16.5434C10.5302 16.1557 10.4882 15.729 10.5701 15.3174C10.6519 14.9058 10.8541 14.5277 11.1508 14.2309C11.4476 13.9341 11.8257 13.732 12.2373 13.6501C12.6489 13.5683 13.0756 13.6103 13.4634 13.7709C13.8511 13.9315 14.1825 14.2035 14.4157 14.5525C14.6488 14.9014 14.7733 15.3117 14.7733 15.7314C14.7728 16.294 14.549 16.8334 14.1512 17.2313C13.7533 17.6291 13.2139 17.8528 12.6513 17.8534V17.8534ZM12.6513 15.1094C12.5283 15.1094 12.408 15.1459 12.3057 15.2142C12.2034 15.2826 12.1237 15.3797 12.0766 15.4933C12.0296 15.607 12.0172 15.7321 12.0412 15.8527C12.0652 15.9734 12.1245 16.0842 12.2115 16.1712C12.2985 16.2582 12.4093 16.3174 12.5299 16.3414C12.6506 16.3654 12.7757 16.3531 12.8893 16.306C13.003 16.259 13.1001 16.1792 13.1685 16.0769C13.2368 15.9746 13.2733 15.8544 13.2733 15.7314C13.273 15.5665 13.2074 15.4084 13.0908 15.2918C12.9742 15.1753 12.8162 15.1096 12.6513 15.1094Z" fill="black"/> <path d="M8.71381 13.9159C8.29412 13.9159 7.88384 13.7914 7.53488 13.5583C7.18592 13.3251 6.91394 12.9937 6.75333 12.6059C6.59272 12.2182 6.55069 11.7915 6.63257 11.3799C6.71445 10.9683 6.91655 10.5902 7.21332 10.2934C7.51009 9.99663 7.88819 9.79453 8.29982 9.71265C8.71145 9.63077 9.13812 9.6728 9.52587 9.83341C9.91361 9.99402 10.245 10.266 10.4782 10.615C10.7114 10.9639 10.8358 11.3742 10.8358 11.7939C10.835 12.3564 10.6112 12.8957 10.2134 13.2935C9.81563 13.6913 9.27635 13.9151 8.71381 13.9159ZM8.71381 11.1719C8.59079 11.1719 8.47053 11.2084 8.36824 11.2767C8.26596 11.3451 8.18622 11.4422 8.13915 11.5558C8.09207 11.6695 8.07976 11.7946 8.10376 11.9152C8.12776 12.0359 8.187 12.1467 8.27399 12.2337C8.36098 12.3207 8.4718 12.3799 8.59246 12.4039C8.71311 12.4279 8.83817 12.4156 8.95183 12.3685C9.06549 12.3215 9.16263 12.2417 9.23097 12.1394C9.29932 12.0371 9.3358 11.9169 9.3358 11.7939C9.33554 11.629 9.26993 11.4709 9.15334 11.3543C9.03675 11.2378 8.87869 11.1721 8.71381 11.1719Z" fill="black"/> <path d="M16.5927 13.9159C16.173 13.9159 15.7627 13.7914 15.4138 13.5583C15.0648 13.3251 14.7928 12.9937 14.6322 12.6059C14.4716 12.2182 14.4296 11.7915 14.5115 11.3799C14.5934 10.9683 14.7954 10.5902 15.0922 10.2934C15.389 9.99663 15.7671 9.79453 16.1787 9.71265C16.5903 9.63077 17.017 9.6728 17.4048 9.83341C17.7925 9.99402 18.1239 10.266 18.3571 10.615C18.5902 10.9639 18.7147 11.3742 18.7147 11.7939C18.7139 12.3564 18.4901 12.8957 18.0923 13.2935C17.6945 13.6913 17.1552 13.9151 16.5927 13.9159V13.9159ZM16.5927 11.1719C16.4697 11.1719 16.3494 11.2084 16.2471 11.2767C16.1448 11.3451 16.0651 11.4422 16.018 11.5558C15.971 11.6695 15.9587 11.7946 15.9827 11.9152C16.0067 12.0359 16.0659 12.1467 16.1529 12.2337C16.2399 12.3207 16.3507 12.3799 16.4713 12.4039C16.592 12.4279 16.7171 12.4156 16.8307 12.3685C16.9444 12.3215 17.0415 12.2417 17.1099 12.1394C17.1782 12.0371 17.2147 11.9169 17.2147 11.7939C17.2144 11.629 17.1488 11.4709 17.0322 11.3543C16.9156 11.2378 16.7576 11.1721 16.5927 11.1719Z" fill="black"/> <path d="M7.31437 21.3098C6.59216 21.303 5.89395 21.0497 5.33538 20.5918C5.14031 20.4202 4.90558 20.3 4.65238 20.2418C4.23055 20.2265 3.81754 20.3651 3.49038 20.6318C3.34013 20.7623 3.14421 20.8278 2.9457 20.8138C2.74719 20.7998 2.56236 20.7076 2.43188 20.5573C2.30139 20.4071 2.23593 20.2111 2.2499 20.0126C2.26387 19.8141 2.35612 19.6293 2.50637 19.4988C2.82802 19.2268 3.20022 19.021 3.6016 18.8931C4.00298 18.7653 4.42565 18.7179 4.84537 18.7538C5.34386 18.8381 5.81204 19.05 6.20437 19.3688C6.50953 19.6441 6.90346 19.8007 7.31437 19.8098C7.92757 19.771 8.50375 19.5029 8.92838 19.0588C9.06195 18.9174 9.24524 18.8334 9.43957 18.8246C9.6339 18.8157 9.82406 18.8827 9.96992 19.0115C10.1158 19.1402 10.2059 19.3206 10.2213 19.5145C10.2367 19.7084 10.1761 19.9007 10.0524 20.0508C9.34241 20.8165 8.35773 21.2692 7.31437 21.3098V21.3098Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// movie reel 1 — bold style variants.
+class _VideoMovieMovieReel1Bold {
+  const _VideoMovieMovieReel1Bold();
+
+  /// movie reel 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'movie reel 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4201 13.4153C16.5301 13.4153 15.8001 12.6853 15.8001 11.7853C15.8001 10.8953 16.5301 10.1653 17.4201 10.1653C18.3201 10.1653 19.0501 10.8953 19.0501 11.7853C19.0501 12.6853 18.3201 13.4153 17.4201 13.4153ZM13.4901 9.47531C12.5901 9.47531 11.8701 8.74531 11.8701 7.84531C11.8701 6.95531 12.5901 6.22531 13.4901 6.22531C14.3801 6.22531 15.1101 6.95531 15.1101 7.84531C15.1101 8.74531 14.3801 9.47531 13.4901 9.47531ZM13.4901 17.3453C12.5901 17.3453 11.8701 16.6253 11.8701 15.7253C11.8701 14.8353 12.5901 14.1053 13.4901 14.1053C14.3801 14.1053 15.1101 14.8353 15.1101 15.7253C15.1101 16.6253 14.3801 17.3453 13.4901 17.3453ZM9.55005 13.4153C8.65005 13.4153 7.93005 12.6853 7.93005 11.7853C7.93005 10.8953 8.65005 10.1653 9.55005 10.1653C10.4401 10.1653 11.1701 10.8953 11.1701 11.7853C11.1701 12.6853 10.4401 13.4153 9.55005 13.4153ZM13.4901 2.69531C8.47005 2.69531 4.39005 6.77531 4.39005 11.7853C4.39005 15.1353 6.21005 18.0553 8.91005 19.6453C8.68005 19.7353 8.43005 19.8053 8.15005 19.8053C7.66005 19.8053 7.40005 19.6253 7.04005 19.3653C6.70005 19.1253 6.28005 18.8353 5.69005 18.7553C4.43005 18.5753 3.45005 19.3953 3.34005 19.4953C3.03005 19.7653 3.00005 20.2353 3.27005 20.5453C3.53005 20.8553 4.01005 20.8953 4.32005 20.6253C4.33005 20.6253 4.89005 20.1553 5.49005 20.2453C5.71005 20.2753 5.89005 20.3853 6.17005 20.5953C6.60005 20.8953 7.18005 21.3053 8.15005 21.3053C9.24005 21.3053 10.0801 20.7653 10.5201 20.3853C11.4501 20.7053 12.4501 20.8853 13.4901 20.8853C18.5001 20.8853 22.5801 16.8053 22.5801 11.7853C22.5801 6.77531 18.5001 2.69531 13.4901 2.69531Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// movie reel 1 — light style variants.
+class _VideoMovieMovieReel1Light {
+  const _VideoMovieMovieReel1Light();
+
+  /// movie reel 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'movie reel 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.30469 11.7935C4.30469 7.18254 8.04192 3.44531 12.6519 3.44531C17.2619 3.44531 20.9991 7.18254 20.9991 11.7935C20.9991 16.4035 17.2619 20.1407 12.6519 20.1407C8.04192 20.1407 4.30469 16.4035 4.30469 11.7935Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6532 9.22526C13.4111 9.22526 14.0251 8.6113 14.0251 7.85335C14.0251 7.09539 13.4111 6.48047 12.6532 6.48047C11.8952 6.48047 11.2812 7.09539 11.2812 7.85335C11.2812 8.6113 11.8952 9.22526 12.6532 9.22526Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6532 17.1032C13.4111 17.1032 14.0251 16.4892 14.0251 15.7313C14.0251 14.9733 13.4111 14.3594 12.6532 14.3594C11.8952 14.3594 11.2812 14.9733 11.2812 15.7313C11.2812 16.4892 11.8952 17.1032 12.6532 17.1032Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.3418 11.7938C7.3418 12.5517 7.95575 13.1657 8.7137 13.1657C9.47166 13.1657 10.0856 12.5517 10.0856 11.7938C10.0856 11.0358 9.47166 10.4219 8.7137 10.4219C7.95575 10.4219 7.3418 11.0358 7.3418 11.7938Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.2188 11.7938C15.2188 12.5517 15.8327 13.1657 16.5907 13.1657C17.3486 13.1657 17.9626 12.5517 17.9626 11.7938C17.9626 11.0358 17.3486 10.4219 16.5907 10.4219C15.8327 10.4219 15.2188 11.0358 15.2188 11.7938Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 20.0616C3 20.0616 3.7959 19.3717 4.75137 19.4953C5.70587 19.6189 6.02014 20.5568 7.31615 20.5568C8.6112 20.5568 9.4898 19.5537 9.4898 19.5537" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.light,
@@ -4028,6 +5560,114 @@ class _VideoMovieVideoCameraLight {
 
 }
 
+/// Video camera 1 icon with style variants.
+class _VideoMovieVideoCamera1Icon {
+  const _VideoMovieVideoCamera1Icon();
+
+  /// bold style
+  _VideoMovieVideoCamera1Bold get bold => const _VideoMovieVideoCamera1Bold();
+  /// bulk style
+  _VideoMovieVideoCamera1Bulk get bulk => const _VideoMovieVideoCamera1Bulk();
+  /// light style
+  _VideoMovieVideoCamera1Light get light => const _VideoMovieVideoCamera1Light();
+  /// outline style
+  _VideoMovieVideoCamera1Outline get outline => const _VideoMovieVideoCamera1Outline();
+  /// twoTone style
+  _VideoMovieVideoCamera1Twotone get twoTone => const _VideoMovieVideoCamera1Twotone();
+  /// broken style
+  _VideoMovieVideoCamera1Broken get broken => const _VideoMovieVideoCamera1Broken();
+}
+
+/// Video camera 1 — bulk style variants.
+class _VideoMovieVideoCamera1Bulk {
+  const _VideoMovieVideoCamera1Bulk();
+
+  /// Video camera 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video camera 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M5.51602 4.25H12.306C14.909 4.25 16.658 6.078 16.658 8.8V15.2C16.658 17.922 14.909 19.75 12.305 19.75H5.51602C2.91402 19.75 1.16602 17.922 1.16602 15.2V8.8C1.16602 6.078 2.91402 4.25 5.51602 4.25Z" fill="black"/> <path d="M19.576 6.81024C20.339 6.18624 21.47 6.29724 22.096 7.05924C22.36 7.37824 22.503 7.78424 22.502 8.19924L22.49 15.7972C22.487 16.7842 21.682 17.5862 20.696 17.5862C20.281 17.5862 19.878 17.4432 19.562 17.1822L18.3476 16.184C18.0915 15.9734 17.9731 15.6508 17.9898 15.3196C17.9919 15.2793 17.993 15.2386 17.993 15.1972V8.79624C17.993 8.75725 17.992 8.71876 17.9901 8.68067C17.9739 8.34843 18.0924 8.02491 18.3497 7.81419L19.576 6.81024Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.30094 15.5625H6.46094C6.05094 15.5625 5.71094 15.2325 5.71094 14.8125C5.71094 14.4025 6.05094 14.0625 6.46094 14.0625H9.30094C9.72094 14.0625 10.0509 14.4025 10.0509 14.8125C10.0509 15.2325 9.72094 15.5625 9.30094 15.5625Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video camera 1 — broken style variants.
+class _VideoMovieVideoCamera1Broken {
+  const _VideoMovieVideoCamera1Broken();
+
+  /// Video camera 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video camera 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.37305 14.9609H9.21421" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8892 19.2451C15.2633 19.2451 16.7412 17.5694 16.7412 15.1985V8.80051C16.7412 6.42963 15.2633 4.75391 12.8903 4.75391H6.09984C3.73329 4.75391 2.25 6.42963 2.25 8.80051V15.1985C2.25 17.5694 3.72572 19.2451 6.09984 19.2451H9.49453" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7344 14.0131L20.141 16.8013C20.6923 17.2532 21.5064 17.1721 21.9583 16.6207C22.1475 16.3894 22.2513 16.0996 22.2502 15.8012V12.5781" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7344 9.9922L20.128 7.2051C20.3583 7.0159 20.6469 6.91212 20.9442 6.91212C21.6578 6.90995 22.2362 7.48727 22.2383 8.2008L22.2413 9.10113" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video camera 1 — twoTone style variants.
+class _VideoMovieVideoCamera1Twotone {
+  const _VideoMovieVideoCamera1Twotone();
+
+  /// Video camera 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video camera 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1403 4.75391H6.34984C3.98329 4.75391 2.5 6.42963 2.5 8.80051V15.1985C2.5 17.5694 3.97572 19.2451 6.34984 19.2451H13.1392C15.5133 19.2451 16.9912 17.5694 16.9912 15.1985V8.80051C16.9912 6.42963 15.5133 4.75391 13.1403 4.75391Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.62305 14.9609H9.46421" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.9844 9.99068L20.391 7.20249C20.9423 6.75058 21.7564 6.83167 22.2083 7.38304C22.3975 7.61439 22.5013 7.90413 22.5002 8.20252L22.4883 15.8038C22.4862 16.5174 21.9078 17.0947 21.1942 17.0925C20.8969 17.0925 20.6083 16.9887 20.378 16.7995L16.9844 14.0124" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video camera 1 — outline style variants.
+class _VideoMovieVideoCamera1Outline {
+  const _VideoMovieVideoCamera1Outline();
+
+  /// Video camera 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video camera 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.37305 14.9609C5.37305 14.5467 5.70883 14.2109 6.12305 14.2109H8.96421C9.37842 14.2109 9.71421 14.5467 9.71421 14.9609C9.71421 15.3752 9.37842 15.7109 8.96421 15.7109H6.12305C5.70883 15.7109 5.37305 15.3752 5.37305 14.9609Z" fill="black"/> <path d="M12.6451 20.0013H5.8561C5.22862 20.0243 4.60338 19.9143 4.02145 19.6785C3.43951 19.4426 2.91409 19.0863 2.47964 18.633C2.04519 18.1797 1.71156 17.6395 1.50069 17.0481C1.28983 16.4567 1.20647 15.8273 1.25613 15.2013V8.80135C1.21423 8.17715 1.30295 7.55106 1.51662 6.96307C1.73029 6.37508 2.06423 5.83811 2.49709 5.38643C2.92995 4.93474 3.45223 4.57828 4.0306 4.33979C4.60897 4.10131 5.23068 3.98604 5.8561 4.00135H12.6461C13.2716 3.98604 13.8933 4.10131 14.4716 4.33979C15.05 4.57828 15.5723 4.93474 16.0051 5.38643C16.438 5.83811 16.7719 6.37508 16.9856 6.96307C17.1993 7.55106 17.288 8.17715 17.2461 8.80135V15.2013C17.288 15.8256 17.1993 16.4518 16.9856 17.0399C16.7718 17.6279 16.4378 18.1649 16.0048 18.6166C15.5719 19.0683 15.0495 19.4248 14.471 19.6632C13.8925 19.9016 13.2706 20.0168 12.6451 20.0013V20.0013ZM5.8561 5.50135C5.42725 5.48486 4.99989 5.56058 4.60281 5.72339C4.20572 5.8862 3.84819 6.1323 3.55434 6.4451C3.2605 6.7579 3.0372 7.13011 2.8995 7.53659C2.7618 7.94307 2.71289 8.37436 2.75613 8.80135V15.2013C2.70773 15.6294 2.753 16.0628 2.88882 16.4715C3.02463 16.8803 3.24771 17.2546 3.54262 17.5686C3.83754 17.8825 4.19722 18.1285 4.5967 18.2896C4.99619 18.4507 5.42591 18.5229 5.8561 18.5013H12.6451C13.0753 18.5228 13.5049 18.4504 13.9043 18.2893C14.3037 18.1281 14.6633 17.8821 14.9582 17.5682C15.2531 17.2543 15.4762 16.88 15.6121 16.4713C15.748 16.0627 15.7934 15.6293 15.7451 15.2013V8.80135C15.7934 8.37338 15.748 7.94003 15.6121 7.53135C15.4762 7.12266 15.2531 6.74841 14.9582 6.43451C14.6633 6.12061 14.3037 5.87457 13.9043 5.71344C13.5049 5.55231 13.0753 5.47994 12.6451 5.50135H5.8561Z" fill="black"/> <path d="M20.7078 17.8431C20.2334 17.8469 19.773 17.6829 19.4078 17.3801L16.0158 14.5931C15.9361 14.5319 15.8695 14.4552 15.82 14.3677C15.7705 14.2803 15.739 14.1837 15.7276 14.0839C15.7161 13.984 15.7248 13.8829 15.7532 13.7864C15.7816 13.69 15.8291 13.6003 15.8928 13.5226C15.9566 13.4449 16.0353 13.3808 16.1243 13.3341C16.2134 13.2874 16.3109 13.2591 16.4111 13.2509C16.5113 13.2426 16.6121 13.2546 16.7075 13.286C16.803 13.3175 16.8911 13.3679 16.9668 13.4341L20.3608 16.2211C20.4058 16.2646 20.4596 16.2981 20.5186 16.3191C20.5776 16.3401 20.6404 16.3483 20.7028 16.3431C20.7739 16.3436 20.8445 16.33 20.9104 16.3031C20.9762 16.2762 21.0361 16.2365 21.0865 16.1862C21.1369 16.136 21.1768 16.0763 21.204 16.0105C21.2312 15.9448 21.245 15.8743 21.2448 15.8031L21.2568 8.20309C21.2573 8.10041 21.2285 7.9997 21.1738 7.91279C21.1192 7.82587 21.0409 7.75635 20.9481 7.71237C20.8553 7.66839 20.7519 7.65178 20.65 7.66448C20.5481 7.67718 20.4519 7.71867 20.3728 7.78409L16.9658 10.5721C16.8899 10.6374 16.8017 10.6869 16.7064 10.7176C16.6112 10.7483 16.5107 10.7596 16.411 10.7509C16.3112 10.7422 16.2143 10.7136 16.1258 10.6668C16.0373 10.62 15.9591 10.5559 15.8957 10.4784C15.8324 10.4009 15.7851 10.3115 15.7569 10.2155C15.7286 10.1194 15.7199 10.0187 15.7312 9.91922C15.7424 9.81975 15.7735 9.72354 15.8226 9.63628C15.8716 9.54901 15.9376 9.47244 16.0167 9.41109L19.4227 6.62309C19.7219 6.37766 20.0847 6.22236 20.4687 6.1753C20.8528 6.12824 21.2422 6.19138 21.5918 6.35733C21.9413 6.52328 22.2364 6.78522 22.4427 7.11256C22.649 7.43991 22.7579 7.81917 22.7568 8.20609L22.7448 15.8061C22.7446 16.0737 22.6918 16.3387 22.5893 16.5859C22.4867 16.8331 22.3365 17.0577 22.1472 17.2469C21.9578 17.436 21.733 17.586 21.4857 17.6883C21.2384 17.7906 20.9734 17.8432 20.7058 17.8431H20.7078Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video camera 1 — bold style variants.
+class _VideoMovieVideoCamera1Bold {
+  const _VideoMovieVideoCamera1Bold();
+
+  /// Video camera 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video camera 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.2635 7.06413C21.6375 6.30213 20.5065 6.19113 19.7435 6.81513L18.5172 7.81907C18.2598 8.02979 18.1413 8.35331 18.1576 8.68555C18.1594 8.72365 18.1605 8.76213 18.1605 8.80113V15.2021C18.1605 15.2435 18.1593 15.2842 18.1573 15.3245C18.1405 15.6557 18.2589 15.9782 18.5151 16.1888L19.7295 17.1871C20.0455 17.4481 20.4485 17.5911 20.8635 17.5911C21.8495 17.5911 22.6545 16.7891 22.6575 15.8021L22.6695 8.20413C22.6705 7.78913 22.5275 7.38313 22.2635 7.06413Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.30203 15.56H6.46203C6.05203 15.56 5.71203 15.23 5.71203 14.81C5.71203 14.4 6.05203 14.06 6.46203 14.06H9.30203C9.72203 14.06 10.052 14.4 10.052 14.81C10.052 15.23 9.72203 15.56 9.30203 15.56ZM12.472 4.25H5.68203C3.08203 4.25 1.33203 6.08 1.33203 8.8V15.2C1.33203 17.92 3.08203 19.75 5.68203 19.75H12.472C15.072 19.75 16.822 17.92 16.822 15.2V8.8C16.822 6.08 15.072 4.25 12.472 4.25Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video camera 1 — light style variants.
+class _VideoMovieVideoCamera1Light {
+  const _VideoMovieVideoCamera1Light();
+
+  /// Video camera 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video camera 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6403 4.75391H5.84984C3.48329 4.75391 2 6.42963 2 8.80051V15.1985C2 17.5694 3.47572 19.2451 5.84984 19.2451H12.6392C15.0133 19.2451 16.4912 17.5694 16.4912 15.1985V8.80051C16.4912 6.42963 15.0133 4.75391 12.6403 4.75391Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.12305 14.9609H8.96421" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4844 9.99068L19.891 7.20249C20.4423 6.75058 21.2564 6.83167 21.7083 7.38304C21.8975 7.61439 22.0013 7.90413 22.0002 8.20252L21.9883 15.8038C21.9862 16.5174 21.4078 17.0947 20.6942 17.0925C20.3969 17.0925 20.1083 16.9887 19.878 16.7995L16.4844 14.0124" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Forward 15s icon with style variants.
 class _VideoMovieForward15sIcon {
   const _VideoMovieForward15sIcon();
@@ -4053,7 +5693,7 @@ class _VideoMovieForward15sBulk {
   /// Forward 15s — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Forward 15s',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.7661 9.42731C18.4811 9.42831 18.2211 9.59131 18.0961 9.84731C17.9701 10.1033 18.0001 10.4073 18.1741 10.6333L19.6641 12.5763C19.6841 12.6033 19.7161 12.6153 19.7391 12.6373C19.7531 12.6533 19.7711 12.6633 19.7871 12.6773C19.8461 12.7273 19.9041 12.7743 19.9751 12.8043C20.0261 12.8273 20.0831 12.8323 20.1391 12.8423C20.1801 12.8493 20.2171 12.8703 20.2591 12.8703C20.2621 12.8703 20.2651 12.8683 20.2681 12.8683C20.2711 12.8683 20.2741 12.8703 20.2781 12.8703C20.5321 12.8703 20.7461 12.7353 20.8811 12.5423L22.3521 10.6213C22.5261 10.3943 22.5551 10.0883 22.4281 9.83231C22.3001 9.57531 21.9911 9.41631 21.7531 9.41531L21.0281 9.41831V8.39031C21.0281 5.20731 18.9791 3.07031 15.9291 3.07031H8.26011C5.21011 3.07031 3.16211 5.20731 3.16211 8.39031V15.6113C3.16211 18.7923 5.21111 20.9303 8.26111 20.9303H15.9291C18.9791 20.9303 21.0281 18.7923 21.0281 15.6113C21.0281 15.1973 20.6921 14.8613 20.2781 14.8613C19.8641 14.8613 19.5281 15.1973 19.5281 15.6113C19.5281 17.9313 18.1161 19.4303 15.9291 19.4303H8.26111C6.07511 19.4303 4.66211 17.9313 4.66211 15.6113V8.39031C4.66211 6.07031 6.07411 4.57031 8.26011 4.57031H15.9291C18.1161 4.57031 19.5281 6.07031 19.5281 8.39031V9.42431L18.7661 9.42731Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3203 13.8075H11.5063C11.0913 13.8075 10.7563 14.1435 10.7563 14.5575C10.7563 14.9715 11.0913 15.3075 11.5063 15.3075H13.3203C14.4593 15.3075 15.3843 14.3785 15.3843 13.2375C15.3843 12.1015 14.4593 11.1775 13.3203 11.1775H12.2563V10.1875H14.3853C14.7993 10.1875 15.1353 9.8515 15.1353 9.4375C15.1353 9.0235 14.7993 8.6875 14.3853 8.6875H11.5063C11.0913 8.6875 10.7563 9.0235 10.7563 9.4375V11.9275C10.7563 12.3415 11.0913 12.6775 11.5063 12.6775H13.3203C13.6323 12.6775 13.8843 12.9285 13.8843 13.2375C13.8843 13.5515 13.6323 13.8075 13.3203 13.8075Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.14844 9.4375V14.5575C8.14844 14.9715 8.48444 15.3075 8.89844 15.3075C9.31244 15.3075 9.64844 14.9715 9.64844 14.5575V9.4375C9.64844 9.0235 9.31244 8.6875 8.89844 8.6875C8.48444 8.6875 8.14844 9.0235 8.14844 9.4375Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M22.1856 9.153C21.9896 8.956 21.6996 8.882 21.4336 8.965L20.8006 9.159C19.5976 5.593 16.2006 3 12.2656 3C7.30263 3 3.26562 7.037 3.26562 12C3.26562 16.963 7.30263 21 12.2656 21C15.2256 21 17.9956 19.544 19.6746 17.106C19.9106 16.764 19.8246 16.298 19.4836 16.063C19.1416 15.827 18.6756 15.914 18.4406 16.255C17.0396 18.287 14.7326 19.5 12.2656 19.5C8.12962 19.5 4.76562 16.135 4.76562 12C4.76562 7.864 8.12962 4.5 12.2656 4.5C15.5336 4.5 18.3536 6.646 19.3656 9.6L18.5816 9.84C18.3146 9.923 18.1156 10.144 18.0636 10.419C18.0116 10.692 18.1166 10.971 18.3346 11.145L20.3936 12.778C20.5276 12.884 20.6926 12.94 20.8596 12.94C20.9326 12.94 21.0066 12.929 21.0796 12.907C21.3146 12.836 21.4996 12.652 21.5746 12.417L22.3686 9.908C22.4526 9.642 22.3816 9.351 22.1856 9.153Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3867 13.8304H11.5327C11.1187 13.8304 10.7827 14.1664 10.7827 14.5804C10.7827 14.9944 11.1187 15.3304 11.5327 15.3304H13.3867C14.5397 15.3304 15.4787 14.3924 15.4787 13.2394C15.4787 12.0874 14.5397 11.1494 13.3867 11.1494H12.2827V10.1094H14.4747C14.8887 10.1094 15.2247 9.77338 15.2247 9.35938C15.2247 8.94537 14.8887 8.60938 14.4747 8.60938H11.5327C11.1187 8.60938 10.7827 8.94537 10.7827 9.35938V11.8994C10.7827 12.3134 11.1187 12.6494 11.5327 12.6494H13.3867C13.7127 12.6494 13.9787 12.9144 13.9787 13.2394C13.9787 13.5654 13.7127 13.8304 13.3867 13.8304Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.12109 9.36035V14.5814C8.12109 14.9954 8.45709 15.3314 8.87109 15.3314C9.28509 15.3314 9.62109 14.9954 9.62109 14.5814V9.36035C9.62109 8.94635 9.28509 8.61035 8.87109 8.61035C8.45709 8.61035 8.12109 8.94635 8.12109 9.36035Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -4068,7 +5708,7 @@ class _VideoMovieForward15sBroken {
   /// Forward 15s — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Forward 15s',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.6934 14.5564H12.508C13.2338 14.5564 13.8225 13.9687 13.8225 13.2419C13.8225 12.517 13.2338 11.9284 12.508 11.9284H10.6934V9.44141H13.5734" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.08691 14.5564V9.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08356 8.38653C3.08356 5.70887 4.75223 3.81641 7.43281 3.81641H15.1019C17.7747 3.81641 19.4502 5.70887 19.4502 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4502 15.6111C19.4502 18.2887 17.7825 20.1812 15.1019 20.1812H7.43379C4.75223 20.1812 3.08356 18.2887 3.08356 15.6111V12.0273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.084 10.4648L19.4318 12.117L17.7894 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.6133 14.6116H12.4668C13.2082 14.6116 13.8095 14.0103 13.8095 13.2698C13.8095 12.5275 13.2082 11.9271 12.4668 11.9271H10.6133V9.38672H13.5546" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.95117 14.6116V9.38672" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1261 16.6845C16.6375 18.8396 14.1506 20.2504 11.3338 20.2504C6.77738 20.2504 3.08398 16.557 3.08398 12.0006C3.08398 11.2896 3.17395 10.5997 3.34311 9.94141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.5814 11.813C19.4821 7.34318 15.8276 3.75 11.3335 3.75C8.64101 3.75 6.24989 5.04002 4.74414 7.03543" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0838 9.80078L19.8034 12.0211L17.5957 10.7475" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -4083,7 +5723,7 @@ class _VideoMovieForward15sTwotone {
   /// Forward 15s — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Forward 15s',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.7006 15.6129C19.7006 18.2905 18.0329 20.183 15.3523 20.183H7.6842C5.00265 20.183 3.33398 18.2905 3.33398 15.6129V8.38652C3.33398 5.70886 5.00265 3.81641 7.68323 3.81641H15.3523C18.0251 3.81641 19.7006 5.70886 19.7006 8.38652V12.1169" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.3336 10.4648L19.6815 12.117L18.0391 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.9434 14.5564H12.758C13.4838 14.5564 14.0725 13.9687 14.0725 13.2419C14.0725 12.517 13.4838 11.9284 12.758 11.9284H10.9434V9.44141H13.8234" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.33691 14.5564V9.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.8317 11.813C19.7324 7.34318 16.078 3.75 11.5838 3.75C7.02738 3.75 3.33398 7.44437 3.33398 11.9998C3.33398 16.5562 7.02738 20.2496 11.5838 20.2496C14.4006 20.2496 16.8875 18.8388 18.3761 16.6837" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.3338 9.80078L20.0534 12.0211L17.8457 10.7475" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.8633 14.6116H12.7168C13.4582 14.6116 14.0595 14.0103 14.0595 13.2698C14.0595 12.5275 13.4582 11.9271 12.7168 11.9271H10.8633V9.38672H13.8046" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.20117 14.6116V9.38672" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -4098,7 +5738,7 @@ class _VideoMovieForward15sOutline {
   /// Forward 15s — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Forward 15s',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.71828 5.60845C4.11718 6.25397 3.75 7.20262 3.75 8.38652V15.6129C3.75 16.7968 4.11717 17.7454 4.71836 18.3909C5.31394 19.0304 6.19466 19.433 7.35022 19.433H15.0183C16.1733 19.433 17.0535 19.0304 17.6487 18.391C18.2496 17.7456 18.6166 16.7969 18.6166 15.6129C18.6166 15.1987 18.9524 14.8629 19.3666 14.8629C19.7808 14.8629 20.1166 15.1987 20.1166 15.6129C20.1166 17.1065 19.6497 18.4429 18.7466 19.4131C17.8379 20.3893 16.5439 20.933 15.0183 20.933H7.35022C5.82422 20.933 4.52984 20.3894 3.62069 19.4132C2.71716 18.4431 2.25 17.1066 2.25 15.6129V8.38652C2.25 6.89276 2.71716 5.55635 3.62053 4.58623C4.52952 3.61008 5.82366 3.06641 7.34924 3.06641H15.0183C16.5405 3.06641 17.834 3.61039 18.7434 4.58596C19.6472 5.55568 20.1166 6.89196 20.1166 8.38652V12.1169C20.1166 12.5312 19.7808 12.8669 19.3666 12.8669C18.9524 12.8669 18.6166 12.5312 18.6166 12.1169V8.38652C18.6166 7.20342 18.2482 6.25464 17.6461 5.60872C17.0495 4.96865 16.1689 4.56641 15.0183 4.56641H7.34924C6.19426 4.56641 5.31377 4.96897 4.71828 5.60845Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5299 9.93451C21.8228 10.2274 21.8228 10.7023 21.5299 10.9952L19.8778 12.6473C19.5849 12.9402 19.11 12.9402 18.8171 12.6473L17.1747 11.0049C16.8819 10.712 16.8819 10.2371 17.1747 9.94424C17.4676 9.65135 17.9425 9.65135 18.2354 9.94424L19.3475 11.0563L20.4693 9.93451C20.7622 9.64162 21.237 9.64162 21.5299 9.93451Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.85938 9.44141C9.85938 9.02719 10.1952 8.69141 10.6094 8.69141H13.4894C13.9036 8.69141 14.2394 9.02719 14.2394 9.44141C14.2394 9.85562 13.9036 10.1914 13.4894 10.1914H11.3594V11.1784H12.424C13.5637 11.1784 14.4885 12.1024 14.4885 13.2419C14.4885 14.3833 13.5637 15.3064 12.424 15.3064H10.6094C10.1952 15.3064 9.85938 14.9706 9.85938 14.5564C9.85938 14.1422 10.1952 13.8064 10.6094 13.8064H12.424C12.736 13.8064 12.9885 13.5541 12.9885 13.2419C12.9885 12.9316 12.736 12.6784 12.424 12.6784H10.6094C10.1952 12.6784 9.85938 12.3426 9.85938 11.9284V9.44141Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.00195 8.69141C8.41617 8.69141 8.75195 9.02719 8.75195 9.44141V14.5564C8.75195 14.9706 8.41617 15.3064 8.00195 15.3064C7.58774 15.3064 7.25195 14.9706 7.25195 14.5564V9.44141C7.25195 9.02719 7.58774 8.69141 8.00195 8.69141Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 11.9998C2.25 7.03021 6.27913 3 11.2498 3C16.1526 3 20.1392 6.91982 20.2475 11.7964C20.2567 12.2105 19.9285 12.5536 19.5143 12.5628C19.1002 12.572 18.7571 12.2438 18.7479 11.8297C18.6577 7.76654 15.3353 4.5 11.2498 4.5C7.10767 4.5 3.75 7.85853 3.75 11.9998C3.75 16.142 7.10761 19.4996 11.2498 19.4996C13.81 19.4996 16.0705 18.2184 17.425 16.2574C17.6605 15.9166 18.1276 15.8312 18.4684 16.0666C18.8092 16.302 18.8946 16.7691 18.6592 17.11C17.0365 19.4593 14.3232 20.9996 11.2498 20.9996C6.27918 20.9996 2.25 16.9705 2.25 11.9998Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.3746 9.1512C21.7334 9.35813 21.8566 9.81676 21.6497 10.1756L20.3692 12.3959C20.2698 12.5682 20.1061 12.694 19.9139 12.7456C19.7218 12.7972 19.517 12.7703 19.3447 12.6709L17.1371 11.3973C16.7783 11.1903 16.6552 10.7316 16.8622 10.3728C17.0692 10.014 17.5278 9.89098 17.8866 10.098L19.4445 10.9967L20.3502 9.42623C20.5572 9.06741 21.0158 8.94427 21.3746 9.1512Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.7793 9.38672C9.7793 8.97251 10.1151 8.63672 10.5293 8.63672H13.4706C13.8848 8.63672 14.2206 8.97251 14.2206 9.38672C14.2206 9.80093 13.8848 10.1367 13.4706 10.1367H11.2793V11.1771H12.3828C13.5381 11.1771 14.4755 12.1129 14.4755 13.2698C14.4755 14.4248 13.5381 15.3616 12.3828 15.3616H10.5293C10.1151 15.3616 9.7793 15.0258 9.7793 14.6116C9.7793 14.1974 10.1151 13.8616 10.5293 13.8616H12.3828C12.7104 13.8616 12.9755 13.5957 12.9755 13.2698C12.9755 12.942 12.7104 12.6771 12.3828 12.6771H10.5293C10.1151 12.6771 9.7793 12.3414 9.7793 11.9271V9.38672Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.86719 8.63672C8.2814 8.63672 8.61719 8.97251 8.61719 9.38672V14.6116C8.61719 15.0258 8.2814 15.3616 7.86719 15.3616C7.45297 15.3616 7.11719 15.0258 7.11719 14.6116V9.38672C7.11719 8.97251 7.45297 8.63672 7.86719 8.63672Z" fill="black"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -4113,7 +5753,7 @@ class _VideoMovieForward15sBold {
   /// Forward 15s — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Forward 15s',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3199 13.8104H11.5059C11.0909 13.8104 10.7559 14.1464 10.7559 14.5604C10.7559 14.9744 11.0909 15.3104 11.5059 15.3104H13.3199C14.4589 15.3104 15.3839 14.3814 15.3839 13.2404C15.3839 12.1044 14.4589 11.1804 13.3199 11.1804H12.2559V10.1904H14.3849C14.7989 10.1904 15.1349 9.85443 15.1349 9.44043C15.1349 9.02643 14.7989 8.69043 14.3849 8.69043H11.5059C11.0909 8.69043 10.7559 9.02643 10.7559 9.44043V11.9304C10.7559 12.3444 11.0909 12.6804 11.5059 12.6804H13.3199C13.6319 12.6804 13.8839 12.9314 13.8839 13.2404C13.8839 13.5544 13.6319 13.8104 13.3199 13.8104Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.14795 9.44043V14.5604C8.14795 14.9744 8.48395 15.3104 8.89795 15.3104C9.31195 15.3104 9.64795 14.9744 9.64795 14.5604V9.44043C9.64795 9.02643 9.31195 8.69043 8.89795 8.69043C8.48395 8.69043 8.14795 9.02643 8.14795 9.44043Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7661 9.42731C18.4811 9.42831 18.2211 9.59131 18.0961 9.84731C17.9701 10.1033 18.0001 10.4073 18.1741 10.6333L19.6641 12.5763C19.6841 12.6033 19.7161 12.6153 19.7391 12.6373C19.7531 12.6533 19.7711 12.6633 19.7871 12.6773C19.8461 12.7273 19.9041 12.7743 19.9751 12.8043C20.0261 12.8273 20.0831 12.8323 20.1391 12.8423C20.1801 12.8493 20.2171 12.8703 20.2591 12.8703C20.2621 12.8703 20.2651 12.8683 20.2681 12.8683C20.2711 12.8683 20.2741 12.8703 20.2781 12.8703C20.5321 12.8703 20.7461 12.7353 20.8811 12.5423L22.3521 10.6213C22.5261 10.3943 22.5551 10.0883 22.4281 9.83231C22.3001 9.57531 21.9911 9.41631 21.7531 9.41531L21.0281 9.41831V8.39031C21.0281 5.20731 18.9791 3.07031 15.9291 3.07031H8.26011C5.21011 3.07031 3.16211 5.20731 3.16211 8.39031V15.6113C3.16211 18.7923 5.21111 20.9303 8.26111 20.9303H15.9291C18.9791 20.9303 21.0281 18.7923 21.0281 15.6113C21.0281 15.1973 20.6921 14.8613 20.2781 14.8613C19.8641 14.8613 19.5281 15.1973 19.5281 15.6113C19.5281 17.9313 18.1161 19.4303 15.9291 19.4303H8.26111C6.07511 19.4303 4.66211 17.9313 4.66211 15.6113V8.39031C4.66211 6.07031 6.07411 4.57031 8.26011 4.57031H15.9291C18.1161 4.57031 19.5281 6.07031 19.5281 8.39031V9.42431L18.7661 9.42731Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3867 13.8314H11.5327C11.1187 13.8314 10.7827 14.1674 10.7827 14.5814C10.7827 14.9954 11.1187 15.3314 11.5327 15.3314H13.3867C14.5397 15.3314 15.4787 14.3934 15.4787 13.2404C15.4787 12.0884 14.5397 11.1504 13.3867 11.1504H12.2827V10.1104H14.4747C14.8887 10.1104 15.2247 9.77435 15.2247 9.36035C15.2247 8.94635 14.8887 8.61035 14.4747 8.61035H11.5327C11.1187 8.61035 10.7827 8.94635 10.7827 9.36035V11.9004C10.7827 12.3144 11.1187 12.6504 11.5327 12.6504H13.3867C13.7127 12.6504 13.9787 12.9154 13.9787 13.2404C13.9787 13.5664 13.7127 13.8314 13.3867 13.8314Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.12109 9.36133V14.5823C8.12109 14.9963 8.45709 15.3323 8.87109 15.3323C9.28509 15.3323 9.62109 14.9963 9.62109 14.5823V9.36133C9.62109 8.94733 9.28509 8.61133 8.87109 8.61133C8.45709 8.61133 8.12109 8.94733 8.12109 9.36133Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.1856 9.153C21.9896 8.956 21.6996 8.882 21.4336 8.965L20.8006 9.159C19.5976 5.593 16.2006 3 12.2656 3C7.30263 3 3.26562 7.037 3.26562 12C3.26562 16.963 7.30263 21 12.2656 21C15.2256 21 17.9956 19.544 19.6746 17.106C19.9106 16.764 19.8246 16.298 19.4836 16.063C19.1416 15.827 18.6756 15.914 18.4406 16.255C17.0396 18.287 14.7326 19.5 12.2656 19.5C8.12962 19.5 4.76562 16.135 4.76562 12C4.76562 7.864 8.12962 4.5 12.2656 4.5C15.5336 4.5 18.3536 6.646 19.3656 9.6L18.5816 9.84C18.3146 9.923 18.1156 10.144 18.0636 10.419C18.0116 10.692 18.1166 10.971 18.3346 11.145L20.3936 12.778C20.5276 12.884 20.6926 12.94 20.8596 12.94C20.9326 12.94 21.0066 12.929 21.0796 12.907C21.3146 12.836 21.4996 12.652 21.5746 12.417L22.3686 9.908C22.4526 9.642 22.3816 9.351 22.1856 9.153Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -4128,6 +5768,114 @@ class _VideoMovieForward15sLight {
   /// Forward 15s — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Forward 15s',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.4977 11.8132C19.3985 7.34336 15.744 3.75018 11.2498 3.75018C6.6934 3.75018 3 7.44455 3 12C3 16.5564 6.6934 20.2498 11.2498 20.2498C14.0666 20.2498 16.5535 18.839 18.0421 16.6839" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9998 9.80078L19.7194 12.0211L17.5117 10.7475" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.5293 14.6116H12.3828C13.1242 14.6116 13.7255 14.0103 13.7255 13.2698C13.7255 12.5275 13.1242 11.9271 12.3828 11.9271H10.5293V9.38672H13.4706" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.86719 14.6116V9.38672" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 15s 1 icon with style variants.
+class _VideoMovieForward15s1Icon {
+  const _VideoMovieForward15s1Icon();
+
+  /// bold style
+  _VideoMovieForward15s1Bold get bold => const _VideoMovieForward15s1Bold();
+  /// bulk style
+  _VideoMovieForward15s1Bulk get bulk => const _VideoMovieForward15s1Bulk();
+  /// light style
+  _VideoMovieForward15s1Light get light => const _VideoMovieForward15s1Light();
+  /// outline style
+  _VideoMovieForward15s1Outline get outline => const _VideoMovieForward15s1Outline();
+  /// twoTone style
+  _VideoMovieForward15s1Twotone get twoTone => const _VideoMovieForward15s1Twotone();
+  /// broken style
+  _VideoMovieForward15s1Broken get broken => const _VideoMovieForward15s1Broken();
+}
+
+/// Forward 15s 1 — bulk style variants.
+class _VideoMovieForward15s1Bulk {
+  const _VideoMovieForward15s1Bulk();
+
+  /// Forward 15s 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 15s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.7661 9.42731C18.4811 9.42831 18.2211 9.59131 18.0961 9.84731C17.9701 10.1033 18.0001 10.4073 18.1741 10.6333L19.6641 12.5763C19.6841 12.6033 19.7161 12.6153 19.7391 12.6373C19.7531 12.6533 19.7711 12.6633 19.7871 12.6773C19.8461 12.7273 19.9041 12.7743 19.9751 12.8043C20.0261 12.8273 20.0831 12.8323 20.1391 12.8423C20.1801 12.8493 20.2171 12.8703 20.2591 12.8703C20.2621 12.8703 20.2651 12.8683 20.2681 12.8683C20.2711 12.8683 20.2741 12.8703 20.2781 12.8703C20.5321 12.8703 20.7461 12.7353 20.8811 12.5423L22.3521 10.6213C22.5261 10.3943 22.5551 10.0883 22.4281 9.83231C22.3001 9.57531 21.9911 9.41631 21.7531 9.41531L21.0281 9.41831V8.39031C21.0281 5.20731 18.9791 3.07031 15.9291 3.07031H8.26011C5.21011 3.07031 3.16211 5.20731 3.16211 8.39031V15.6113C3.16211 18.7923 5.21111 20.9303 8.26111 20.9303H15.9291C18.9791 20.9303 21.0281 18.7923 21.0281 15.6113C21.0281 15.1973 20.6921 14.8613 20.2781 14.8613C19.8641 14.8613 19.5281 15.1973 19.5281 15.6113C19.5281 17.9313 18.1161 19.4303 15.9291 19.4303H8.26111C6.07511 19.4303 4.66211 17.9313 4.66211 15.6113V8.39031C4.66211 6.07031 6.07411 4.57031 8.26011 4.57031H15.9291C18.1161 4.57031 19.5281 6.07031 19.5281 8.39031V9.42431L18.7661 9.42731Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3203 13.8075H11.5063C11.0913 13.8075 10.7563 14.1435 10.7563 14.5575C10.7563 14.9715 11.0913 15.3075 11.5063 15.3075H13.3203C14.4593 15.3075 15.3843 14.3785 15.3843 13.2375C15.3843 12.1015 14.4593 11.1775 13.3203 11.1775H12.2563V10.1875H14.3853C14.7993 10.1875 15.1353 9.8515 15.1353 9.4375C15.1353 9.0235 14.7993 8.6875 14.3853 8.6875H11.5063C11.0913 8.6875 10.7563 9.0235 10.7563 9.4375V11.9275C10.7563 12.3415 11.0913 12.6775 11.5063 12.6775H13.3203C13.6323 12.6775 13.8843 12.9285 13.8843 13.2375C13.8843 13.5515 13.6323 13.8075 13.3203 13.8075Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.14844 9.4375V14.5575C8.14844 14.9715 8.48444 15.3075 8.89844 15.3075C9.31244 15.3075 9.64844 14.9715 9.64844 14.5575V9.4375C9.64844 9.0235 9.31244 8.6875 8.89844 8.6875C8.48444 8.6875 8.14844 9.0235 8.14844 9.4375Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 15s 1 — broken style variants.
+class _VideoMovieForward15s1Broken {
+  const _VideoMovieForward15s1Broken();
+
+  /// Forward 15s 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 15s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.6934 14.5564H12.508C13.2338 14.5564 13.8225 13.9687 13.8225 13.2419C13.8225 12.517 13.2338 11.9284 12.508 11.9284H10.6934V9.44141H13.5734" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.08691 14.5564V9.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08356 8.38653C3.08356 5.70887 4.75223 3.81641 7.43281 3.81641H15.1019C17.7747 3.81641 19.4502 5.70887 19.4502 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4502 15.6111C19.4502 18.2887 17.7825 20.1812 15.1019 20.1812H7.43379C4.75223 20.1812 3.08356 18.2887 3.08356 15.6111V12.0273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.084 10.4648L19.4318 12.117L17.7894 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 15s 1 — twoTone style variants.
+class _VideoMovieForward15s1Twotone {
+  const _VideoMovieForward15s1Twotone();
+
+  /// Forward 15s 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 15s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.7006 15.6129C19.7006 18.2905 18.0329 20.183 15.3523 20.183H7.6842C5.00265 20.183 3.33398 18.2905 3.33398 15.6129V8.38652C3.33398 5.70886 5.00265 3.81641 7.68323 3.81641H15.3523C18.0251 3.81641 19.7006 5.70886 19.7006 8.38652V12.1169" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.3336 10.4648L19.6815 12.117L18.0391 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.9434 14.5564H12.758C13.4838 14.5564 14.0725 13.9687 14.0725 13.2419C14.0725 12.517 13.4838 11.9284 12.758 11.9284H10.9434V9.44141H13.8234" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.33691 14.5564V9.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 15s 1 — outline style variants.
+class _VideoMovieForward15s1Outline {
+  const _VideoMovieForward15s1Outline();
+
+  /// Forward 15s 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 15s 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.71828 5.60845C4.11718 6.25397 3.75 7.20262 3.75 8.38652V15.6129C3.75 16.7968 4.11717 17.7454 4.71836 18.3909C5.31394 19.0304 6.19466 19.433 7.35022 19.433H15.0183C16.1733 19.433 17.0535 19.0304 17.6487 18.391C18.2496 17.7456 18.6166 16.7969 18.6166 15.6129C18.6166 15.1987 18.9524 14.8629 19.3666 14.8629C19.7808 14.8629 20.1166 15.1987 20.1166 15.6129C20.1166 17.1065 19.6497 18.4429 18.7466 19.4131C17.8379 20.3893 16.5439 20.933 15.0183 20.933H7.35022C5.82422 20.933 4.52984 20.3894 3.62069 19.4132C2.71716 18.4431 2.25 17.1066 2.25 15.6129V8.38652C2.25 6.89276 2.71716 5.55635 3.62053 4.58623C4.52952 3.61008 5.82366 3.06641 7.34924 3.06641H15.0183C16.5405 3.06641 17.834 3.61039 18.7434 4.58596C19.6472 5.55568 20.1166 6.89196 20.1166 8.38652V12.1169C20.1166 12.5312 19.7808 12.8669 19.3666 12.8669C18.9524 12.8669 18.6166 12.5312 18.6166 12.1169V8.38652C18.6166 7.20342 18.2482 6.25464 17.6461 5.60872C17.0495 4.96865 16.1689 4.56641 15.0183 4.56641H7.34924C6.19426 4.56641 5.31377 4.96897 4.71828 5.60845Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5299 9.93451C21.8228 10.2274 21.8228 10.7023 21.5299 10.9952L19.8778 12.6473C19.5849 12.9402 19.11 12.9402 18.8171 12.6473L17.1747 11.0049C16.8819 10.712 16.8819 10.2371 17.1747 9.94424C17.4676 9.65135 17.9425 9.65135 18.2354 9.94424L19.3475 11.0563L20.4693 9.93451C20.7622 9.64162 21.237 9.64162 21.5299 9.93451Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.85938 9.44141C9.85938 9.02719 10.1952 8.69141 10.6094 8.69141H13.4894C13.9036 8.69141 14.2394 9.02719 14.2394 9.44141C14.2394 9.85562 13.9036 10.1914 13.4894 10.1914H11.3594V11.1784H12.424C13.5637 11.1784 14.4885 12.1024 14.4885 13.2419C14.4885 14.3833 13.5637 15.3064 12.424 15.3064H10.6094C10.1952 15.3064 9.85938 14.9706 9.85938 14.5564C9.85938 14.1422 10.1952 13.8064 10.6094 13.8064H12.424C12.736 13.8064 12.9885 13.5541 12.9885 13.2419C12.9885 12.9316 12.736 12.6784 12.424 12.6784H10.6094C10.1952 12.6784 9.85938 12.3426 9.85938 11.9284V9.44141Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.00195 8.69141C8.41617 8.69141 8.75195 9.02719 8.75195 9.44141V14.5564C8.75195 14.9706 8.41617 15.3064 8.00195 15.3064C7.58774 15.3064 7.25195 14.9706 7.25195 14.5564V9.44141C7.25195 9.02719 7.58774 8.69141 8.00195 8.69141Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 15s 1 — bold style variants.
+class _VideoMovieForward15s1Bold {
+  const _VideoMovieForward15s1Bold();
+
+  /// Forward 15s 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 15s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3199 13.8104H11.5059C11.0909 13.8104 10.7559 14.1464 10.7559 14.5604C10.7559 14.9744 11.0909 15.3104 11.5059 15.3104H13.3199C14.4589 15.3104 15.3839 14.3814 15.3839 13.2404C15.3839 12.1044 14.4589 11.1804 13.3199 11.1804H12.2559V10.1904H14.3849C14.7989 10.1904 15.1349 9.85443 15.1349 9.44043C15.1349 9.02643 14.7989 8.69043 14.3849 8.69043H11.5059C11.0909 8.69043 10.7559 9.02643 10.7559 9.44043V11.9304C10.7559 12.3444 11.0909 12.6804 11.5059 12.6804H13.3199C13.6319 12.6804 13.8839 12.9314 13.8839 13.2404C13.8839 13.5544 13.6319 13.8104 13.3199 13.8104Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.14795 9.44043V14.5604C8.14795 14.9744 8.48395 15.3104 8.89795 15.3104C9.31195 15.3104 9.64795 14.9744 9.64795 14.5604V9.44043C9.64795 9.02643 9.31195 8.69043 8.89795 8.69043C8.48395 8.69043 8.14795 9.02643 8.14795 9.44043Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7661 9.42731C18.4811 9.42831 18.2211 9.59131 18.0961 9.84731C17.9701 10.1033 18.0001 10.4073 18.1741 10.6333L19.6641 12.5763C19.6841 12.6033 19.7161 12.6153 19.7391 12.6373C19.7531 12.6533 19.7711 12.6633 19.7871 12.6773C19.8461 12.7273 19.9041 12.7743 19.9751 12.8043C20.0261 12.8273 20.0831 12.8323 20.1391 12.8423C20.1801 12.8493 20.2171 12.8703 20.2591 12.8703C20.2621 12.8703 20.2651 12.8683 20.2681 12.8683C20.2711 12.8683 20.2741 12.8703 20.2781 12.8703C20.5321 12.8703 20.7461 12.7353 20.8811 12.5423L22.3521 10.6213C22.5261 10.3943 22.5551 10.0883 22.4281 9.83231C22.3001 9.57531 21.9911 9.41631 21.7531 9.41531L21.0281 9.41831V8.39031C21.0281 5.20731 18.9791 3.07031 15.9291 3.07031H8.26011C5.21011 3.07031 3.16211 5.20731 3.16211 8.39031V15.6113C3.16211 18.7923 5.21111 20.9303 8.26111 20.9303H15.9291C18.9791 20.9303 21.0281 18.7923 21.0281 15.6113C21.0281 15.1973 20.6921 14.8613 20.2781 14.8613C19.8641 14.8613 19.5281 15.1973 19.5281 15.6113C19.5281 17.9313 18.1161 19.4303 15.9291 19.4303H8.26111C6.07511 19.4303 4.66211 17.9313 4.66211 15.6113V8.39031C4.66211 6.07031 6.07411 4.57031 8.26011 4.57031H15.9291C18.1161 4.57031 19.5281 6.07031 19.5281 8.39031V9.42431L18.7661 9.42731Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 15s 1 — light style variants.
+class _VideoMovieForward15s1Light {
+  const _VideoMovieForward15s1Light();
+
+  /// Forward 15s 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 15s 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.3666 15.6129C19.3666 18.2905 17.6989 20.183 15.0183 20.183H7.35022C4.66867 20.183 3 18.2905 3 15.6129V8.38652C3 5.70886 4.66867 3.81641 7.34924 3.81641H15.0183C17.6911 3.81641 19.3666 5.70886 19.3666 8.38652V12.1169" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9996 10.4648L19.3475 12.117L17.7051 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6094 14.5564H12.424C13.1498 14.5564 13.7385 13.9687 13.7385 13.2419C13.7385 12.517 13.1498 11.9284 12.424 11.9284H10.6094V9.44141H13.4894" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.00195 14.5564V9.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.light,
@@ -4269,7 +6017,7 @@ class _VideoMovieVideoCutTrimBulk {
   /// Video cut trim — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video cut trim',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M22.334 8.00094V16.0009C22.334 16.1209 22.334 16.2409 22.324 16.3509C22.164 19.1709 20.094 21.0409 17.064 21.0409H8.60398C5.58398 21.0409 3.50398 19.1709 3.34398 16.3509C3.33398 16.2409 3.33398 16.1209 3.33398 16.0009V8.00094C3.33398 7.88094 3.33398 7.77094 3.34398 7.65094C3.50398 4.82094 5.57398 2.96094 8.60398 2.96094H17.064C20.104 2.96094 22.164 4.82094 22.324 7.65094C22.334 7.77094 22.334 7.88094 22.334 8.00094Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.6441 14.8477C19.2241 14.8477 18.8941 15.1777 18.8941 15.5977C18.8941 16.0077 19.2241 16.3477 19.6441 16.3477H22.3241C22.3341 16.2377 22.3341 16.1177 22.3341 15.9977V14.8477H19.6441ZM16.5641 14.8477H14.3741C13.9641 14.8477 13.6241 15.1777 13.6241 15.5977C13.6241 16.0077 13.9641 16.3477 14.3741 16.3477H16.5641C16.9841 16.3477 17.3141 16.0077 17.3141 15.5977C17.3141 15.1777 16.9841 14.8477 16.5641 14.8477ZM11.2941 14.8477H9.10411C8.69411 14.8477 8.35411 15.1777 8.35411 15.5977C8.35411 16.0077 8.69411 16.3477 9.10411 16.3477H11.2941C11.7141 16.3477 12.0441 16.0077 12.0441 15.5977C12.0441 15.1777 11.7141 14.8477 11.2941 14.8477ZM6.03411 14.8477H3.33411V15.9977C3.33411 16.1177 3.33411 16.2377 3.34411 16.3477H6.03411C6.44411 16.3477 6.78411 16.0077 6.78411 15.5977C6.78411 15.1777 6.44411 14.8477 6.03411 14.8477Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.34398 7.64844H6.03398C6.44398 7.64844 6.78398 7.97844 6.78398 8.39844C6.78398 8.80844 6.44398 9.14844 6.03398 9.14844H3.33398L3.34398 7.64844ZM22.324 7.64844H19.644C19.224 7.64844 18.894 7.97844 18.894 8.39844C18.894 8.80844 19.224 9.14844 19.644 9.14844H22.334V7.99844C22.334 7.87844 22.334 7.76844 22.324 7.64844ZM16.564 7.64844H14.374C13.964 7.64844 13.624 7.97844 13.624 8.39844C13.624 8.80844 13.964 9.14844 14.374 9.14844H16.564C16.984 9.14844 17.314 8.80844 17.314 8.39844C17.314 7.97844 16.984 7.64844 16.564 7.64844ZM11.294 7.64844H9.10398C8.69398 7.64844 8.35398 7.97844 8.35398 8.39844C8.35398 8.80844 8.69398 9.14844 9.10398 9.14844H11.294C11.714 9.14844 12.044 8.80844 12.044 8.39844C12.044 7.97844 11.714 7.64844 11.294 7.64844Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.46 21.1637L7.54 21.1637C7.37 21.1637 7.21 21.1537 7.05 21.1437C6.51 21.1037 6.01 21.0037 5.55 20.8437C3.95 20.2837 2.87 19.0137 2.58 17.2937C2.53 16.9937 2.5 16.6837 2.5 16.3537L2.5 7.65375C2.5 7.30375 2.53 6.97375 2.58 6.66375C2.89 4.97375 3.96 3.72375 5.55 3.16375C6 3.00375 6.5 2.90375 7.04 2.86375C7.2 2.85375 7.37 2.84375 7.54 2.84375L16.46 2.84375C16.63 2.84375 16.79 2.85375 16.95 2.86375C17.49 2.90375 17.99 3.00375 18.45 3.16375C20.03 3.72375 21.11 4.97375 21.42 6.66375C21.47 6.97375 21.5 7.30375 21.5 7.65375L21.5 16.3538C21.5 16.6838 21.47 16.9937 21.42 17.2937C21.13 19.0138 20.05 20.2838 18.45 20.8437C17.99 21.0037 17.49 21.1037 16.95 21.1437C16.79 21.1537 16.63 21.1637 16.46 21.1637Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.04 2.85596C6.5 2.89596 6 2.99596 5.55 3.15596V6.65596H2.58C2.53 6.96596 2.5 7.29596 2.5 7.64596L2.5 8.15596L5.55 8.15596L5.55 11.226H2.5L2.5 12.726H5.55L5.55 15.786H2.5L2.5 16.346C2.5 16.676 2.53 16.986 2.58 17.286H5.55L5.55 20.836C6.01 20.996 6.51 21.096 7.05 21.136L7.05 2.89596C7.05 2.88596 7.05 2.86596 7.04 2.85596Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.9502 21.1361C17.4902 21.0961 17.9902 20.9961 18.4502 20.8361V17.2861H21.4202C21.4702 16.9861 21.5002 16.6761 21.5002 16.3461V15.7861H18.4502V12.7261L21.5002 12.7261V11.2261L18.4502 11.2261L18.4502 8.15608H21.5002V7.64608C21.5002 7.29608 21.4702 6.96608 21.4202 6.65608L18.4502 6.65608V3.15608C17.9902 2.99608 17.4902 2.89608 16.9502 2.85608L16.9502 21.1361Z" fill="black"/> <path d="M12.7501 21.1559H11.2501V18.8061C11.2501 18.3861 11.5901 18.0561 12.0001 18.0561C12.4201 18.0561 12.7501 18.3861 12.7501 18.8061V21.1559Z" fill="black"/> <path d="M12.7501 2.83594L12.7501 5.19609C12.7501 5.60609 12.4201 5.94609 12.0001 5.94609C11.5901 5.94609 11.2501 5.60609 11.2501 5.19609V2.83594H12.7501Z" fill="black"/> <path d="M12.7501 13.5361V15.7261C12.7501 16.1461 12.4201 16.4761 12.0001 16.4761C11.5901 16.4761 11.2501 16.1461 11.2501 15.7261V13.5361C11.2501 13.1261 11.5901 12.7861 12.0001 12.7861C12.4201 12.7861 12.7501 13.1261 12.7501 13.5361Z" fill="black"/> <path d="M12.7501 8.26609V10.4561C12.7501 10.8761 12.4201 11.2061 12.0001 11.2061C11.5901 11.2061 11.2501 10.8761 11.2501 10.4561V8.26609C11.2501 7.85609 11.5901 7.51609 12.0001 7.51609C12.4201 7.51609 12.7501 7.85609 12.7501 8.26609Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -4284,7 +6032,7 @@ class _VideoMovieVideoCutTrimBroken {
   /// Video cut trim — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video cut trim',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.084 3.46094H7.85253C5.05815 3.46094 3.08398 5.20159 3.08398 7.99888V16.0016C3.08398 18.7882 5.05815 20.5376 7.85253 20.5376H16.3154C19.1098 20.5376 21.084 18.7979 21.084 16.0016V7.99888C21.084 5.20159 19.1098 3.46094 16.3154 3.46094H15.598" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0789 15.5977H18.8878M15.8121 15.5977H13.621M10.5453 15.5977H8.3542M5.27903 15.5977H3.08789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0789 8.39844H18.8878M15.8121 8.39844H13.621M10.5453 8.39844H8.3542M5.27903 8.39844H3.08789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.96438 20.6649H7.78512C5.13079 20.6649 3.25 19.0001 3.25 16.3458V7.65114C3.25 4.98806 5.13079 3.33203 7.78512 3.33203H8.96438" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.5391 3.33203H16.7086C19.3727 3.33203 21.2447 4.98806 21.2447 7.65212V16.3458C21.2447 19.0099 19.3727 20.6649 16.7086 20.6649H15.5391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.25 13.9116V15.8245M12.25 18.6941V20.607M12.25 8.5214V10.4343M12.25 3.39062V5.30353" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.90039 3.44922V20.5535" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.27441 7.69141H6.89589M6.8984 11.9803H5.5166M3.27441 16.2647H6.89589" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5977 20.5535V3.44922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.1452 7.69531H17.6005M21.2493 11.9842H17.5957M19.1452 16.2686H17.6005" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -4299,7 +6047,7 @@ class _VideoMovieVideoCutTrimTwotone {
   /// Video cut trim — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video cut trim',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.33398 16.0016V7.99888C3.33398 5.20159 5.30815 3.46094 8.10253 3.46094H16.5654C19.3598 3.46094 21.334 5.20159 21.334 7.99888V16.0016C21.334 18.7979 19.3598 20.5376 16.5654 20.5376H8.10253C5.30815 20.5376 3.33398 18.7882 3.33398 16.0016Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.3289 15.5977H19.1378M16.0621 15.5977H13.871M10.7953 15.5977H8.6042M5.52903 15.5977H3.33789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.3289 8.39844H19.1378M16.0621 8.39844H13.871M10.7953 8.39844H8.6042M5.52903 8.39844H3.33789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.21438 20.6649H8.03512C5.38079 20.6649 3.5 19.0001 3.5 16.3458V7.65114C3.5 4.98806 5.38079 3.33203 8.03512 3.33203H9.21438" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7891 3.33203H16.9586C19.6227 3.33203 21.4947 4.98806 21.4947 7.65212V16.3458C21.4947 19.0099 19.6227 20.6649 16.9586 20.6649H15.7891" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 13.9116V15.8245M12.5 18.6941V20.607M12.5 8.5214V10.4343M12.5 3.39062V5.30353" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.15074 3.44922V20.5535M3.52481 7.69141H7.14629M7.1488 11.9803H3.52148M3.52481 16.2647H7.14629" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.8476 20.5535V3.44922M21.4963 7.69604H17.8505M21.4993 11.985H17.8457M21.4963 16.2694H17.8505" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -4314,7 +6062,7 @@ class _VideoMovieVideoCutTrimOutline {
   /// Video cut trim — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video cut trim',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.82528 4.13204C4.83046 3.19604 6.2165 2.71094 7.76854 2.71094H16.2315C17.7835 2.71094 19.1695 3.19604 20.1747 4.13204C21.186 5.07366 21.75 6.415 21.75 7.99888V16.0016C21.75 17.5851 21.1859 18.926 20.1746 19.8672C19.1694 20.8028 17.7834 21.2876 16.2315 21.2876H7.76854C6.21551 21.2876 4.82966 20.7997 3.82498 19.8632C2.81448 18.9212 2.25 17.5808 2.25 16.0016V7.99888C2.25 6.415 2.81405 5.07366 3.82528 4.13204ZM4.84748 5.22981C4.17303 5.85783 3.75 6.78546 3.75 7.99888V16.0016C3.75 17.209 4.1726 18.1366 4.84778 18.766C5.52878 19.4008 6.52719 19.7876 7.76854 19.7876H16.2315C17.4739 19.7876 18.4722 19.4025 19.1526 18.7692C19.827 18.1415 20.25 17.2144 20.25 16.0016V7.99888C20.25 6.78546 19.827 5.85783 19.1525 5.22981C18.472 4.59616 17.4738 4.21094 16.2315 4.21094H7.76854C6.52621 4.21094 5.52797 4.59616 4.84748 5.22981Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25391 15.5977C2.25391 15.1834 2.58969 14.8477 3.00391 14.8477H5.19504C5.60926 14.8477 5.94504 15.1834 5.94504 15.5977C5.94504 16.0119 5.60926 16.3477 5.19504 16.3477H3.00391C2.58969 16.3477 2.25391 16.0119 2.25391 15.5977ZM7.52022 15.5977C7.52022 15.1834 7.856 14.8477 8.27022 14.8477H10.4614C10.8756 14.8477 11.2114 15.1834 11.2114 15.5977C11.2114 16.0119 10.8756 16.3477 10.4614 16.3477H8.27022C7.856 16.3477 7.52022 16.0119 7.52022 15.5977ZM12.787 15.5977C12.787 15.1834 13.1228 14.8477 13.537 14.8477H15.7281C16.1424 14.8477 16.4781 15.1834 16.4781 15.5977C16.4781 16.0119 16.1424 16.3477 15.7281 16.3477H13.537C13.1228 16.3477 12.787 16.0119 12.787 15.5977ZM18.0538 15.5977C18.0538 15.1834 18.3896 14.8477 18.8038 14.8477H20.9949C21.4091 14.8477 21.7449 15.1834 21.7449 15.5977C21.7449 16.0119 21.4091 16.3477 20.9949 16.3477H18.8038C18.3896 16.3477 18.0538 16.0119 18.0538 15.5977Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25391 8.39844C2.25391 7.98422 2.58969 7.64844 3.00391 7.64844H5.19504C5.60926 7.64844 5.94504 7.98422 5.94504 8.39844C5.94504 8.81265 5.60926 9.14844 5.19504 9.14844H3.00391C2.58969 9.14844 2.25391 8.81265 2.25391 8.39844ZM7.52022 8.39844C7.52022 7.98422 7.856 7.64844 8.27022 7.64844H10.4614C10.8756 7.64844 11.2114 7.98422 11.2114 8.39844C11.2114 8.81265 10.8756 9.14844 10.4614 9.14844H8.27022C7.856 9.14844 7.52022 8.81265 7.52022 8.39844ZM12.787 8.39844C12.787 7.98422 13.1228 7.64844 13.537 7.64844H15.7281C16.1424 7.64844 16.4781 7.98422 16.4781 8.39844C16.4781 8.81265 16.1424 9.14844 15.7281 9.14844H13.537C13.1228 9.14844 12.787 8.81265 12.787 8.39844ZM18.0538 8.39844C18.0538 7.98422 18.3896 7.64844 18.8038 7.64844H20.9949C21.4091 7.64844 21.7449 7.98422 21.7449 8.39844C21.7449 8.81265 21.4091 9.14844 20.9949 9.14844H18.8038C18.3896 9.14844 18.0538 8.81265 18.0538 8.39844Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.78333 5.04178C4.14958 5.63199 3.75 6.505 3.75 7.65114V16.3458C3.75 17.487 4.14924 18.3605 4.78373 18.9523C5.42402 19.5494 6.36411 19.9149 7.53512 19.9149H8.71438C9.1286 19.9149 9.46438 20.2507 9.46438 20.6649C9.46438 21.0791 9.1286 21.4149 8.71438 21.4149H7.53512C6.0518 21.4149 4.72433 20.948 3.76064 20.0492C2.79115 19.145 2.25 17.8589 2.25 16.3458V7.65114C2.25 6.13421 2.79081 4.84766 3.76105 3.94409C4.72523 3.04614 6.05284 2.58203 7.53512 2.58203H8.71438C9.1286 2.58203 9.46438 2.91782 9.46438 3.33203C9.46438 3.74624 9.1286 4.08203 8.71438 4.08203H7.53512C6.36307 4.08203 5.42312 4.44594 4.78333 5.04178Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5391 3.33203C14.5391 2.91782 14.8748 2.58203 15.2891 2.58203H16.4586C17.9452 2.58203 19.2735 3.04582 20.2372 3.94456C21.2068 4.84883 21.7447 6.13582 21.7447 7.65212V16.3458C21.7447 17.8621 21.2068 19.1489 20.2371 20.053C19.2734 20.9514 17.9451 21.4149 16.4586 21.4149H15.2891C14.8748 21.4149 14.5391 21.0791 14.5391 20.6649C14.5391 20.2507 14.8748 19.9149 15.2891 19.9149H16.4586C17.6362 19.9149 18.5759 19.5509 19.2142 18.9558C19.8465 18.3663 20.2447 17.4935 20.2447 16.3458V7.65212C20.2447 6.50436 19.8465 5.6313 19.2141 5.04155C18.5758 4.44626 17.6361 4.08203 16.4586 4.08203H15.2891C14.8748 4.08203 14.5391 3.74624 14.5391 3.33203Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.64062C12.4142 2.64062 12.75 2.97641 12.75 3.39062V5.30353C12.75 5.71774 12.4142 6.05353 12 6.05353C11.5858 6.05353 11.25 5.71774 11.25 5.30353V3.39062C11.25 2.97641 11.5858 2.64062 12 2.64062ZM12 7.7714C12.4142 7.7714 12.75 8.10719 12.75 8.5214V10.4343C12.75 10.8485 12.4142 11.1843 12 11.1843C11.5858 11.1843 11.25 10.8485 11.25 10.4343V8.5214C11.25 8.10719 11.5858 7.7714 12 7.7714ZM12 13.1616C12.4142 13.1616 12.75 13.4974 12.75 13.9116V15.8245C12.75 16.2387 12.4142 16.5745 12 16.5745C11.5858 16.5745 11.25 16.2387 11.25 15.8245V13.9116C11.25 13.4974 11.5858 13.1616 12 13.1616ZM12 17.9441C12.4142 17.9441 12.75 18.2799 12.75 18.6941V20.607C12.75 21.0212 12.4142 21.357 12 21.357C11.5858 21.357 11.25 21.0212 11.25 20.607V18.6941C11.25 18.2799 11.5858 17.9441 12 17.9441Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.65039 2.69922C7.0646 2.69922 7.40039 3.03501 7.40039 3.44922V20.5535C7.40039 20.9677 7.0646 21.3035 6.65039 21.3035C6.23618 21.3035 5.90039 20.9677 5.90039 20.5535V3.44922C5.90039 3.03501 6.23618 2.69922 6.65039 2.69922Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.27481 7.69141C2.27481 7.27719 2.6106 6.94141 3.02481 6.94141H6.64629C7.0605 6.94141 7.39629 7.27719 7.39629 7.69141C7.39629 8.10562 7.0605 8.44141 6.64629 8.44141H3.02481C2.6106 8.44141 2.27481 8.10562 2.27481 7.69141ZM2.27148 11.9803C2.27148 11.5661 2.60727 11.2303 3.02148 11.2303H6.6488C7.06301 11.2303 7.3988 11.5661 7.3988 11.9803C7.3988 12.3945 7.06301 12.7303 6.6488 12.7303H3.02148C2.60727 12.7303 2.27148 12.3945 2.27148 11.9803ZM2.27481 16.2647C2.27481 15.8505 2.6106 15.5147 3.02481 15.5147H6.64629C7.0605 15.5147 7.39629 15.8505 7.39629 16.2647C7.39629 16.6789 7.0605 17.0147 6.64629 17.0147H3.02481C2.6106 17.0147 2.27481 16.6789 2.27481 16.2647Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3477 2.69922C17.7619 2.69922 18.0977 3.03501 18.0977 3.44922V20.5535C18.0977 20.9677 17.7619 21.3035 17.3477 21.3035C16.9334 21.3035 16.5977 20.9677 16.5977 20.5535V3.44922C16.5977 3.03501 16.9334 2.69922 17.3477 2.69922Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.6005 7.69531C16.6005 7.2811 16.9362 6.94531 17.3505 6.94531H20.9963C21.4105 6.94531 21.7463 7.2811 21.7463 7.69531C21.7463 8.10953 21.4105 8.44531 20.9963 8.44531H17.3505C16.9362 8.44531 16.6005 8.10953 16.6005 7.69531ZM16.5957 11.9842C16.5957 11.57 16.9315 11.2342 17.3457 11.2342H20.9993C21.4135 11.2342 21.7493 11.57 21.7493 11.9842C21.7493 12.3984 21.4135 12.7342 20.9993 12.7342H17.3457C16.9315 12.7342 16.5957 12.3984 16.5957 11.9842ZM16.6005 16.2686C16.6005 15.8544 16.9362 15.5186 17.3505 15.5186H20.9963C21.4105 15.5186 21.7463 15.8544 21.7463 16.2686C21.7463 16.6828 21.4105 17.0186 20.9963 17.0186H17.3505C16.9362 17.0186 16.6005 16.6828 16.6005 16.2686Z" fill="black"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -4329,7 +6077,7 @@ class _VideoMovieVideoCutTrimBold {
   /// Video cut trim — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video cut trim',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.562 9.14994H14.371C13.957 9.14994 13.621 8.81394 13.621 8.39994C13.621 7.98594 13.957 7.64994 14.371 7.64994H16.562C16.976 7.64994 17.312 7.98594 17.312 8.39994C17.312 8.81394 16.976 9.14994 16.562 9.14994ZM16.562 16.3499H14.371C13.957 16.3499 13.621 16.0139 13.621 15.5999C13.621 15.1859 13.957 14.8499 14.371 14.8499H16.562C16.976 14.8499 17.312 15.1859 17.312 15.5999C17.312 16.0139 16.976 16.3499 16.562 16.3499ZM11.295 9.14994H9.10398C8.68998 9.14994 8.35398 8.81394 8.35398 8.39994C8.35398 7.98594 8.68998 7.64994 9.10398 7.64994H11.295C11.709 7.64994 12.045 7.98594 12.045 8.39994C12.045 8.81394 11.709 9.14994 11.295 9.14994ZM11.295 16.3499H9.10398C8.68998 16.3499 8.35398 16.0139 8.35398 15.5999C8.35398 15.1859 8.68998 14.8499 9.10398 14.8499H11.295C11.709 14.8499 12.045 15.1859 12.045 15.5999C12.045 16.0139 11.709 16.3499 11.295 16.3499ZM19.638 16.3499C19.224 16.3499 18.888 16.0139 18.888 15.5999C18.888 15.1859 19.224 14.8499 19.638 14.8499H22.034C22.1997 14.8499 22.334 14.7156 22.334 14.5499V9.44994C22.334 9.28425 22.1997 9.14994 22.034 9.14994H19.638C19.224 9.14994 18.888 8.81394 18.888 8.39994C18.888 7.98594 19.224 7.64994 19.638 7.64994H21.9842C22.1567 7.64994 22.2944 7.50433 22.2753 7.33292C21.9825 4.696 19.9739 2.96094 17.065 2.96094H8.60298C5.69406 2.96094 3.68549 4.69595 3.39174 7.33282C3.37265 7.50427 3.51036 7.64994 3.68286 7.64994H6.02898C6.44298 7.64994 6.77898 7.98594 6.77898 8.39994C6.77898 8.81394 6.44298 9.14994 6.02898 9.14994H3.63398C3.4683 9.14994 3.33398 9.28425 3.33398 9.44994V14.5499C3.33398 14.7156 3.4683 14.8499 3.63398 14.8499H6.02898C6.44298 14.8499 6.77898 15.1859 6.77898 15.5999C6.77898 16.0139 6.44298 16.3499 6.02898 16.3499H3.68286C3.51035 16.3499 3.37264 16.4956 3.39173 16.667C3.68543 19.3049 5.69401 21.0409 8.60298 21.0409H17.065C19.974 21.0409 21.9825 19.3049 22.2762 16.667C22.2953 16.4956 22.1576 16.3499 21.9851 16.3499H19.638Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.50195 15.4694C2.50195 15.6351 2.63627 15.7694 2.80195 15.7694H5.28295C5.44864 15.7694 5.58295 15.6351 5.58295 15.4694V13.0344C5.58295 12.8687 5.44864 12.7344 5.28295 12.7344H2.80195C2.63627 12.7344 2.50195 12.8687 2.50195 13.0344V15.4694Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4175 6.39923C18.4175 6.56491 18.5518 6.69923 18.7175 6.69923H21.0549C21.2408 6.69923 21.3825 6.53153 21.3386 6.35093C20.9982 4.94993 20.0984 3.88371 18.8097 3.31179C18.6212 3.22811 18.4175 3.3725 18.4175 3.57879V6.39923Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.50195 10.9345C2.50195 11.1002 2.63627 11.2345 2.80195 11.2345H5.28295C5.44864 11.2345 5.58295 11.1002 5.58295 10.9345V8.48848C5.58295 8.32279 5.44864 8.18848 5.28295 8.18848H2.80195C2.63627 8.18848 2.50195 8.32279 2.50195 8.48848V10.9345Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.418 10.9342C18.418 11.0999 18.5523 11.2342 18.718 11.2342H21.197C21.3627 11.2342 21.497 11.0999 21.497 10.9342V8.49922C21.497 8.33353 21.3627 8.19922 21.197 8.19922H18.718C18.5523 8.19922 18.418 8.33353 18.418 8.49922V10.9342Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.418 15.4794C18.418 15.6451 18.5523 15.7794 18.718 15.7794H21.197C21.3627 15.7794 21.497 15.6451 21.497 15.4794V13.0334C21.497 12.8677 21.3627 12.7334 21.197 12.7334H18.718C18.5523 12.7334 18.418 12.8677 18.418 13.0334V15.4794Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.5825 17.5695C5.5825 17.4038 5.44818 17.2695 5.2825 17.2695H2.93666C2.75161 17.2695 2.61007 17.4358 2.65239 17.616C2.98574 19.0348 3.88894 20.1151 5.19046 20.6914C5.37899 20.7749 5.5825 20.6305 5.5825 20.4243V17.5695Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.2825 6.68825C5.44819 6.68825 5.5825 6.55394 5.5825 6.38825V3.57774C5.5825 3.37147 5.37885 3.22707 5.19028 3.31067C3.90367 3.88106 3.00412 4.94271 2.66128 6.33937C2.61691 6.52012 2.7587 6.68825 2.94482 6.68825H5.2825Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7514 10.3329C12.7514 10.7469 12.4154 11.0829 12.0014 11.0829C11.5874 11.0829 11.2514 10.7469 11.2514 10.3329V8.27894C11.2514 7.86494 11.5874 7.52894 12.0014 7.52894C12.4154 7.52894 12.7514 7.86494 12.7514 8.27894V10.3329ZM12.7514 16.1289C12.7514 16.5429 12.4154 16.8789 12.0014 16.8789C11.5874 16.8789 11.2514 16.5429 11.2514 16.1289V14.0749C11.2514 13.6609 11.5874 13.3249 12.0014 13.3249C12.4154 13.3249 12.7514 13.6609 12.7514 14.0749V16.1289ZM16.6299 21.1649C16.7958 21.1649 16.9302 21.0304 16.9299 20.8645L16.9174 11.9939C16.9174 11.9899 16.9154 11.9879 16.9154 11.9839C16.9154 11.9809 16.9174 11.9779 16.9174 11.9749V3.13594C16.9174 2.97025 16.7832 2.83594 16.6175 2.83594C15.8865 2.83594 14.0031 2.83594 13.0505 2.83594C12.8848 2.83594 12.7514 2.97025 12.7514 3.13594V4.81594C12.7514 5.22994 12.4154 5.56594 12.0014 5.56594C11.5874 5.56594 11.2514 5.22994 11.2514 4.81594V3.13594C11.2514 2.97025 11.1176 2.83594 10.9519 2.83594C10.1448 2.83594 8.13976 2.83594 7.38031 2.83594C7.21471 2.83594 7.08226 2.97012 7.08215 3.13572L7.06957 20.8647C7.06945 21.0305 7.2038 21.1649 7.36957 21.1649H10.9514C11.117 21.1649 11.2514 21.0306 11.2514 20.8649V19.2149C11.2514 18.8009 11.5874 18.4649 12.0014 18.4649C12.4154 18.4649 12.7514 18.8009 12.7514 19.2149V20.8649C12.7514 21.0306 12.8857 21.1649 13.0514 21.1649H16.6299Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7175 17.2803C18.5518 17.2803 18.4175 17.4146 18.4175 17.5803V20.423C18.4175 20.6292 18.621 20.7736 18.8096 20.6901C20.1069 20.1152 21.008 19.0399 21.3436 17.6273C21.3864 17.447 21.2448 17.2803 21.0595 17.2803H18.7175Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -4344,6 +6092,114 @@ class _VideoMovieVideoCutTrimLight {
   /// Video cut trim — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Video cut trim',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.71438 20.6649H7.53512C4.88079 20.6649 3 19.0001 3 16.3458V7.65114C3 4.98806 4.88079 3.33203 7.53512 3.33203H8.71438" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.2891 3.33203H16.4586C19.1227 3.33203 20.9947 4.98806 20.9947 7.65212V16.3458C20.9947 19.0099 19.1227 20.6649 16.4586 20.6649H15.2891" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 13.9116V15.8245M12 18.6941V20.607M12 8.5214V10.4343M12 3.39062V5.30353" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.65039 3.44922V20.5535" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.02481 7.69141H6.64629M6.6488 11.9803H3.02148M3.02481 16.2647H6.64629" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3477 20.5535V3.44922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9963 7.69531H17.3505M20.9993 11.9842H17.3457M20.9963 16.2686H17.3505" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video cut trim 1 icon with style variants.
+class _VideoMovieVideoCutTrim1Icon {
+  const _VideoMovieVideoCutTrim1Icon();
+
+  /// bold style
+  _VideoMovieVideoCutTrim1Bold get bold => const _VideoMovieVideoCutTrim1Bold();
+  /// bulk style
+  _VideoMovieVideoCutTrim1Bulk get bulk => const _VideoMovieVideoCutTrim1Bulk();
+  /// light style
+  _VideoMovieVideoCutTrim1Light get light => const _VideoMovieVideoCutTrim1Light();
+  /// outline style
+  _VideoMovieVideoCutTrim1Outline get outline => const _VideoMovieVideoCutTrim1Outline();
+  /// twoTone style
+  _VideoMovieVideoCutTrim1Twotone get twoTone => const _VideoMovieVideoCutTrim1Twotone();
+  /// broken style
+  _VideoMovieVideoCutTrim1Broken get broken => const _VideoMovieVideoCutTrim1Broken();
+}
+
+/// Video cut trim 1 — bulk style variants.
+class _VideoMovieVideoCutTrim1Bulk {
+  const _VideoMovieVideoCutTrim1Bulk();
+
+  /// Video cut trim 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video cut trim 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M22.334 8.00094V16.0009C22.334 16.1209 22.334 16.2409 22.324 16.3509C22.164 19.1709 20.094 21.0409 17.064 21.0409H8.60398C5.58398 21.0409 3.50398 19.1709 3.34398 16.3509C3.33398 16.2409 3.33398 16.1209 3.33398 16.0009V8.00094C3.33398 7.88094 3.33398 7.77094 3.34398 7.65094C3.50398 4.82094 5.57398 2.96094 8.60398 2.96094H17.064C20.104 2.96094 22.164 4.82094 22.324 7.65094C22.334 7.77094 22.334 7.88094 22.334 8.00094Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.6441 14.8477C19.2241 14.8477 18.8941 15.1777 18.8941 15.5977C18.8941 16.0077 19.2241 16.3477 19.6441 16.3477H22.3241C22.3341 16.2377 22.3341 16.1177 22.3341 15.9977V14.8477H19.6441ZM16.5641 14.8477H14.3741C13.9641 14.8477 13.6241 15.1777 13.6241 15.5977C13.6241 16.0077 13.9641 16.3477 14.3741 16.3477H16.5641C16.9841 16.3477 17.3141 16.0077 17.3141 15.5977C17.3141 15.1777 16.9841 14.8477 16.5641 14.8477ZM11.2941 14.8477H9.10411C8.69411 14.8477 8.35411 15.1777 8.35411 15.5977C8.35411 16.0077 8.69411 16.3477 9.10411 16.3477H11.2941C11.7141 16.3477 12.0441 16.0077 12.0441 15.5977C12.0441 15.1777 11.7141 14.8477 11.2941 14.8477ZM6.03411 14.8477H3.33411V15.9977C3.33411 16.1177 3.33411 16.2377 3.34411 16.3477H6.03411C6.44411 16.3477 6.78411 16.0077 6.78411 15.5977C6.78411 15.1777 6.44411 14.8477 6.03411 14.8477Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.34398 7.64844H6.03398C6.44398 7.64844 6.78398 7.97844 6.78398 8.39844C6.78398 8.80844 6.44398 9.14844 6.03398 9.14844H3.33398L3.34398 7.64844ZM22.324 7.64844H19.644C19.224 7.64844 18.894 7.97844 18.894 8.39844C18.894 8.80844 19.224 9.14844 19.644 9.14844H22.334V7.99844C22.334 7.87844 22.334 7.76844 22.324 7.64844ZM16.564 7.64844H14.374C13.964 7.64844 13.624 7.97844 13.624 8.39844C13.624 8.80844 13.964 9.14844 14.374 9.14844H16.564C16.984 9.14844 17.314 8.80844 17.314 8.39844C17.314 7.97844 16.984 7.64844 16.564 7.64844ZM11.294 7.64844H9.10398C8.69398 7.64844 8.35398 7.97844 8.35398 8.39844C8.35398 8.80844 8.69398 9.14844 9.10398 9.14844H11.294C11.714 9.14844 12.044 8.80844 12.044 8.39844C12.044 7.97844 11.714 7.64844 11.294 7.64844Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video cut trim 1 — broken style variants.
+class _VideoMovieVideoCutTrim1Broken {
+  const _VideoMovieVideoCutTrim1Broken();
+
+  /// Video cut trim 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video cut trim 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.084 3.46094H7.85253C5.05815 3.46094 3.08398 5.20159 3.08398 7.99888V16.0016C3.08398 18.7882 5.05815 20.5376 7.85253 20.5376H16.3154C19.1098 20.5376 21.084 18.7979 21.084 16.0016V7.99888C21.084 5.20159 19.1098 3.46094 16.3154 3.46094H15.598" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0789 15.5977H18.8878M15.8121 15.5977H13.621M10.5453 15.5977H8.3542M5.27903 15.5977H3.08789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0789 8.39844H18.8878M15.8121 8.39844H13.621M10.5453 8.39844H8.3542M5.27903 8.39844H3.08789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video cut trim 1 — twoTone style variants.
+class _VideoMovieVideoCutTrim1Twotone {
+  const _VideoMovieVideoCutTrim1Twotone();
+
+  /// Video cut trim 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video cut trim 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.33398 16.0016V7.99888C3.33398 5.20159 5.30815 3.46094 8.10253 3.46094H16.5654C19.3598 3.46094 21.334 5.20159 21.334 7.99888V16.0016C21.334 18.7979 19.3598 20.5376 16.5654 20.5376H8.10253C5.30815 20.5376 3.33398 18.7882 3.33398 16.0016Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.3289 15.5977H19.1378M16.0621 15.5977H13.871M10.7953 15.5977H8.6042M5.52903 15.5977H3.33789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.3289 8.39844H19.1378M16.0621 8.39844H13.871M10.7953 8.39844H8.6042M5.52903 8.39844H3.33789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video cut trim 1 — outline style variants.
+class _VideoMovieVideoCutTrim1Outline {
+  const _VideoMovieVideoCutTrim1Outline();
+
+  /// Video cut trim 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video cut trim 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.82528 4.13204C4.83046 3.19604 6.2165 2.71094 7.76854 2.71094H16.2315C17.7835 2.71094 19.1695 3.19604 20.1747 4.13204C21.186 5.07366 21.75 6.415 21.75 7.99888V16.0016C21.75 17.5851 21.1859 18.926 20.1746 19.8672C19.1694 20.8028 17.7834 21.2876 16.2315 21.2876H7.76854C6.21551 21.2876 4.82966 20.7997 3.82498 19.8632C2.81448 18.9212 2.25 17.5808 2.25 16.0016V7.99888C2.25 6.415 2.81405 5.07366 3.82528 4.13204ZM4.84748 5.22981C4.17303 5.85783 3.75 6.78546 3.75 7.99888V16.0016C3.75 17.209 4.1726 18.1366 4.84778 18.766C5.52878 19.4008 6.52719 19.7876 7.76854 19.7876H16.2315C17.4739 19.7876 18.4722 19.4025 19.1526 18.7692C19.827 18.1415 20.25 17.2144 20.25 16.0016V7.99888C20.25 6.78546 19.827 5.85783 19.1525 5.22981C18.472 4.59616 17.4738 4.21094 16.2315 4.21094H7.76854C6.52621 4.21094 5.52797 4.59616 4.84748 5.22981Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25391 15.5977C2.25391 15.1834 2.58969 14.8477 3.00391 14.8477H5.19504C5.60926 14.8477 5.94504 15.1834 5.94504 15.5977C5.94504 16.0119 5.60926 16.3477 5.19504 16.3477H3.00391C2.58969 16.3477 2.25391 16.0119 2.25391 15.5977ZM7.52022 15.5977C7.52022 15.1834 7.856 14.8477 8.27022 14.8477H10.4614C10.8756 14.8477 11.2114 15.1834 11.2114 15.5977C11.2114 16.0119 10.8756 16.3477 10.4614 16.3477H8.27022C7.856 16.3477 7.52022 16.0119 7.52022 15.5977ZM12.787 15.5977C12.787 15.1834 13.1228 14.8477 13.537 14.8477H15.7281C16.1424 14.8477 16.4781 15.1834 16.4781 15.5977C16.4781 16.0119 16.1424 16.3477 15.7281 16.3477H13.537C13.1228 16.3477 12.787 16.0119 12.787 15.5977ZM18.0538 15.5977C18.0538 15.1834 18.3896 14.8477 18.8038 14.8477H20.9949C21.4091 14.8477 21.7449 15.1834 21.7449 15.5977C21.7449 16.0119 21.4091 16.3477 20.9949 16.3477H18.8038C18.3896 16.3477 18.0538 16.0119 18.0538 15.5977Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25391 8.39844C2.25391 7.98422 2.58969 7.64844 3.00391 7.64844H5.19504C5.60926 7.64844 5.94504 7.98422 5.94504 8.39844C5.94504 8.81265 5.60926 9.14844 5.19504 9.14844H3.00391C2.58969 9.14844 2.25391 8.81265 2.25391 8.39844ZM7.52022 8.39844C7.52022 7.98422 7.856 7.64844 8.27022 7.64844H10.4614C10.8756 7.64844 11.2114 7.98422 11.2114 8.39844C11.2114 8.81265 10.8756 9.14844 10.4614 9.14844H8.27022C7.856 9.14844 7.52022 8.81265 7.52022 8.39844ZM12.787 8.39844C12.787 7.98422 13.1228 7.64844 13.537 7.64844H15.7281C16.1424 7.64844 16.4781 7.98422 16.4781 8.39844C16.4781 8.81265 16.1424 9.14844 15.7281 9.14844H13.537C13.1228 9.14844 12.787 8.81265 12.787 8.39844ZM18.0538 8.39844C18.0538 7.98422 18.3896 7.64844 18.8038 7.64844H20.9949C21.4091 7.64844 21.7449 7.98422 21.7449 8.39844C21.7449 8.81265 21.4091 9.14844 20.9949 9.14844H18.8038C18.3896 9.14844 18.0538 8.81265 18.0538 8.39844Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video cut trim 1 — bold style variants.
+class _VideoMovieVideoCutTrim1Bold {
+  const _VideoMovieVideoCutTrim1Bold();
+
+  /// Video cut trim 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video cut trim 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.562 9.14994H14.371C13.957 9.14994 13.621 8.81394 13.621 8.39994C13.621 7.98594 13.957 7.64994 14.371 7.64994H16.562C16.976 7.64994 17.312 7.98594 17.312 8.39994C17.312 8.81394 16.976 9.14994 16.562 9.14994ZM16.562 16.3499H14.371C13.957 16.3499 13.621 16.0139 13.621 15.5999C13.621 15.1859 13.957 14.8499 14.371 14.8499H16.562C16.976 14.8499 17.312 15.1859 17.312 15.5999C17.312 16.0139 16.976 16.3499 16.562 16.3499ZM11.295 9.14994H9.10398C8.68998 9.14994 8.35398 8.81394 8.35398 8.39994C8.35398 7.98594 8.68998 7.64994 9.10398 7.64994H11.295C11.709 7.64994 12.045 7.98594 12.045 8.39994C12.045 8.81394 11.709 9.14994 11.295 9.14994ZM11.295 16.3499H9.10398C8.68998 16.3499 8.35398 16.0139 8.35398 15.5999C8.35398 15.1859 8.68998 14.8499 9.10398 14.8499H11.295C11.709 14.8499 12.045 15.1859 12.045 15.5999C12.045 16.0139 11.709 16.3499 11.295 16.3499ZM19.638 16.3499C19.224 16.3499 18.888 16.0139 18.888 15.5999C18.888 15.1859 19.224 14.8499 19.638 14.8499H22.034C22.1997 14.8499 22.334 14.7156 22.334 14.5499V9.44994C22.334 9.28425 22.1997 9.14994 22.034 9.14994H19.638C19.224 9.14994 18.888 8.81394 18.888 8.39994C18.888 7.98594 19.224 7.64994 19.638 7.64994H21.9842C22.1567 7.64994 22.2944 7.50433 22.2753 7.33292C21.9825 4.696 19.9739 2.96094 17.065 2.96094H8.60298C5.69406 2.96094 3.68549 4.69595 3.39174 7.33282C3.37265 7.50427 3.51036 7.64994 3.68286 7.64994H6.02898C6.44298 7.64994 6.77898 7.98594 6.77898 8.39994C6.77898 8.81394 6.44298 9.14994 6.02898 9.14994H3.63398C3.4683 9.14994 3.33398 9.28425 3.33398 9.44994V14.5499C3.33398 14.7156 3.4683 14.8499 3.63398 14.8499H6.02898C6.44298 14.8499 6.77898 15.1859 6.77898 15.5999C6.77898 16.0139 6.44298 16.3499 6.02898 16.3499H3.68286C3.51035 16.3499 3.37264 16.4956 3.39173 16.667C3.68543 19.3049 5.69401 21.0409 8.60298 21.0409H17.065C19.974 21.0409 21.9825 19.3049 22.2762 16.667C22.2953 16.4956 22.1576 16.3499 21.9851 16.3499H19.638Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Video cut trim 1 — light style variants.
+class _VideoMovieVideoCutTrim1Light {
+  const _VideoMovieVideoCutTrim1Light();
+
+  /// Video cut trim 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Video cut trim 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 16.0016V7.99888C3 5.20159 4.97416 3.46094 7.76854 3.46094H16.2315C19.0258 3.46094 21 5.20159 21 7.99888V16.0016C21 18.7979 19.0258 20.5376 16.2315 20.5376H7.76854C4.97416 20.5376 3 18.7882 3 16.0016Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9949 15.5977H18.8038M15.7281 15.5977H13.537M10.4614 15.5977H8.27022M5.19504 15.5977H3.00391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9949 8.39844H18.8038M15.7281 8.39844H13.537M10.4614 8.39844H8.27022M5.19504 8.39844H3.00391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.light,
@@ -4568,6 +6424,114 @@ class _VideoMovieBackward5sLight {
 
 }
 
+/// Backward 5s 1 icon with style variants.
+class _VideoMovieBackward5s1Icon {
+  const _VideoMovieBackward5s1Icon();
+
+  /// bold style
+  _VideoMovieBackward5s1Bold get bold => const _VideoMovieBackward5s1Bold();
+  /// bulk style
+  _VideoMovieBackward5s1Bulk get bulk => const _VideoMovieBackward5s1Bulk();
+  /// light style
+  _VideoMovieBackward5s1Light get light => const _VideoMovieBackward5s1Light();
+  /// outline style
+  _VideoMovieBackward5s1Outline get outline => const _VideoMovieBackward5s1Outline();
+  /// twoTone style
+  _VideoMovieBackward5s1Twotone get twoTone => const _VideoMovieBackward5s1Twotone();
+  /// broken style
+  _VideoMovieBackward5s1Broken get broken => const _VideoMovieBackward5s1Broken();
+}
+
+/// Backward 5s 1 — bulk style variants.
+class _VideoMovieBackward5s1Bulk {
+  const _VideoMovieBackward5s1Bulk();
+
+  /// Backward 5s 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 5s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.4083 3.07031H9.73934C6.69034 3.07031 4.64134 5.20831 4.64134 8.39031V9.41931L3.91534 9.41631H3.91234C3.62734 9.41631 3.36634 9.57731 3.24034 9.83331C3.11334 10.0893 3.14234 10.3953 3.31734 10.6223L4.78434 12.5373C4.91934 12.7343 5.13434 12.8713 5.39134 12.8713C5.39434 12.8713 5.39734 12.8693 5.40134 12.8693C5.40434 12.8693 5.40634 12.8713 5.40934 12.8713C5.45234 12.8713 5.48934 12.8503 5.53034 12.8433C5.58534 12.8323 5.64334 12.8273 5.69434 12.8043C5.76534 12.7753 5.82434 12.7273 5.88434 12.6763C5.89934 12.6633 5.91634 12.6533 5.93034 12.6393C5.95334 12.6153 5.98434 12.6033 6.00534 12.5773L7.49434 10.6333C7.66834 10.4083 7.69834 10.1023 7.57334 9.84731C7.44734 9.59131 7.18734 9.42831 6.90234 9.42731L6.14134 9.42431V8.39031C6.14134 6.07031 7.55434 4.57031 9.73934 4.57031H17.4083C19.5953 4.57031 21.0073 6.07031 21.0073 8.39031V15.6113C21.0073 17.9313 19.5943 19.4303 17.4073 19.4303H9.73934C7.55434 19.4303 6.14134 17.9313 6.14134 15.6113C6.14134 15.1973 5.80534 14.8613 5.39134 14.8613C4.97734 14.8613 4.64134 15.1973 4.64134 15.6113C4.64134 18.7933 6.69034 20.9303 9.73934 20.9303H17.4073C20.4573 20.9303 22.5073 18.7933 22.5073 15.6113V8.39031C22.5073 5.20831 20.4583 3.07031 17.4083 3.07031Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0047 13.9397H12.1387C11.7247 13.9397 11.3887 14.2757 11.3887 14.6897C11.3887 15.1037 11.7247 15.4397 12.1387 15.4397H14.0047C15.1637 15.4397 16.1067 14.4987 16.1067 13.3397C16.1067 12.1817 15.1637 11.2397 14.0047 11.2397H12.8887V10.1797H15.1007C15.5147 10.1797 15.8507 9.84369 15.8507 9.42969C15.8507 9.01569 15.5147 8.67969 15.1007 8.67969H12.1387C11.7247 8.67969 11.3887 9.01569 11.3887 9.42969V11.9897C11.3887 12.4037 11.7247 12.7397 12.1387 12.7397H14.0047C14.3367 12.7397 14.6067 13.0087 14.6067 13.3397C14.6067 13.6707 14.3367 13.9397 14.0047 13.9397Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 5s 1 — broken style variants.
+class _VideoMovieBackward5s1Broken {
+  const _VideoMovieBackward5s1Broken();
+
+  /// Backward 5s 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 5s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.0844 8.38653C21.0844 5.70887 19.4157 3.81641 16.7352 3.81641H9.06606C6.39326 3.81641 4.71777 5.70887 4.71777 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.71777 15.6111C4.71777 18.2887 6.38547 20.1812 9.06606 20.1812H16.7342C19.4157 20.1812 21.0844 18.2887 21.0844 15.6111V12.0273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08398 10.4648L4.73612 12.117L6.37852 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.4531 14.6897H13.3193C14.0656 14.6897 14.6708 14.0845 14.6708 13.3382C14.6708 12.5919 14.0656 11.9867 13.3193 11.9867H11.4531V9.42969H14.4149" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 5s 1 — twoTone style variants.
+class _VideoMovieBackward5s1Twotone {
+  const _VideoMovieBackward5s1Twotone();
+
+  /// Backward 5s 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 5s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.96777 15.6129C4.96777 18.2906 6.63547 20.183 9.31606 20.183H16.9842C19.6657 20.183 21.3344 18.2906 21.3344 15.6129V8.38653C21.3344 5.70887 19.6657 3.81641 16.9852 3.81641H9.31606C6.64326 3.81641 4.96777 5.70887 4.96777 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.33398 10.4648L4.98612 12.117L6.62852 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M11.7031 14.6897H13.5693C14.3156 14.6897 14.9208 14.0845 14.9208 13.3382C14.9208 12.5919 14.3156 11.9867 13.5693 11.9867H11.7031V9.42969H14.6649" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 5s 1 — outline style variants.
+class _VideoMovieBackward5s1Outline {
+  const _VideoMovieBackward5s1Outline();
+
+  /// Backward 5s 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 5s 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.25603 4.58597C6.16536 3.61039 7.4589 3.06641 8.9811 3.06641H16.6502C18.1758 3.06641 19.4699 3.61008 20.3789 4.58623C21.2823 5.55636 21.7494 6.89277 21.7494 8.38653V15.6129C21.7494 17.1067 21.2823 18.4431 20.3788 19.4133C19.4696 20.3894 18.1752 20.933 16.6492 20.933H8.9811C7.45549 20.933 6.16154 20.3894 5.25278 19.4131C4.34966 18.443 3.88281 17.1066 3.88281 15.6129C3.88281 15.1987 4.2186 14.8629 4.63281 14.8629C5.04703 14.8629 5.38281 15.1987 5.38281 15.6129C5.38281 16.7969 5.74982 17.7456 6.35069 18.3911C6.94592 19.0305 7.82612 19.433 8.9811 19.433H16.6492C17.8048 19.433 18.6855 19.0304 19.2811 18.3909C19.8823 17.7454 20.2494 16.7968 20.2494 15.6129V8.38653C20.2494 7.20263 19.8823 6.25398 19.2812 5.60846C18.6857 4.96897 17.8052 4.56641 16.6502 4.56641H8.9811C7.83049 4.56641 6.94989 4.96865 6.35328 5.60872C5.75122 6.25465 5.38281 7.20343 5.38281 8.38653V12.117C5.38281 12.5312 5.04703 12.867 4.63281 12.867C4.2186 12.867 3.88281 12.5312 3.88281 12.117V8.38653C3.88281 6.89197 4.35215 5.55569 5.25603 4.58597Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.46967 9.93451C2.76256 9.64162 3.23744 9.64162 3.53033 9.93451L4.65213 11.0563L5.76421 9.94424C6.0571 9.65135 6.53197 9.65135 6.82487 9.94424C7.11776 10.2371 7.11776 10.712 6.82487 11.0049L5.18246 12.6473C5.04181 12.788 4.85105 12.867 4.65213 12.867C4.45322 12.867 4.26246 12.788 4.1218 12.6473L2.46967 10.9952C2.17678 10.7023 2.17678 10.2274 2.46967 9.93451Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.6191 9.42969C10.6191 9.01547 10.9549 8.67969 11.3691 8.67969H14.3309C14.7451 8.67969 15.0809 9.01547 15.0809 9.42969C15.0809 9.8439 14.7451 10.1797 14.3309 10.1797H12.1191V11.2367H13.2353C14.3958 11.2367 15.3368 12.1777 15.3368 13.3382C15.3368 14.4987 14.3958 15.4397 13.2353 15.4397H11.3691C10.9549 15.4397 10.6191 15.1039 10.6191 14.6897C10.6191 14.2754 10.9549 13.9397 11.3691 13.9397H13.2353C13.5674 13.9397 13.8368 13.6702 13.8368 13.3382C13.8368 13.0061 13.5674 12.7367 13.2353 12.7367H11.3691C10.9549 12.7367 10.6191 12.4009 10.6191 11.9867V9.42969Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 5s 1 — bold style variants.
+class _VideoMovieBackward5s1Bold {
+  const _VideoMovieBackward5s1Bold();
+
+  /// Backward 5s 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 5s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0055 13.9407H12.1395C11.7255 13.9407 11.3895 14.2767 11.3895 14.6907C11.3895 15.1047 11.7255 15.4407 12.1395 15.4407H14.0055C15.1645 15.4407 16.1075 14.4997 16.1075 13.3407C16.1075 12.1827 15.1645 11.2407 14.0055 11.2407H12.8895V10.1807H15.1015C15.5155 10.1807 15.8515 9.84466 15.8515 9.43066C15.8515 9.01666 15.5155 8.68066 15.1015 8.68066H12.1395C11.7255 8.68066 11.3895 9.01666 11.3895 9.43066V11.9907C11.3895 12.4047 11.7255 12.7407 12.1395 12.7407H14.0055C14.3375 12.7407 14.6075 13.0097 14.6075 13.3407C14.6075 13.6717 14.3375 13.9407 14.0055 13.9407Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4083 3.07031H9.73934C6.69034 3.07031 4.64134 5.20831 4.64134 8.39031V9.41931L3.91534 9.41631H3.91234C3.62734 9.41631 3.36634 9.57731 3.24034 9.83331C3.11334 10.0893 3.14234 10.3953 3.31734 10.6223L4.78434 12.5373C4.91934 12.7343 5.13434 12.8713 5.39134 12.8713C5.39434 12.8713 5.39734 12.8693 5.40134 12.8693C5.40434 12.8693 5.40634 12.8713 5.40934 12.8713C5.45234 12.8713 5.48934 12.8503 5.53034 12.8433C5.58534 12.8323 5.64334 12.8273 5.69434 12.8043C5.76534 12.7753 5.82434 12.7273 5.88434 12.6763C5.89934 12.6633 5.91634 12.6533 5.93034 12.6393C5.95334 12.6153 5.98434 12.6033 6.00534 12.5773L7.49434 10.6333C7.66834 10.4083 7.69834 10.1023 7.57334 9.84731C7.44734 9.59131 7.18734 9.42831 6.90234 9.42731L6.14134 9.42431V8.39031C6.14134 6.07031 7.55434 4.57031 9.73934 4.57031H17.4083C19.5953 4.57031 21.0073 6.07031 21.0073 8.39031V15.6113C21.0073 17.9313 19.5943 19.4303 17.4073 19.4303H9.73934C7.55434 19.4303 6.14134 17.9313 6.14134 15.6113C6.14134 15.1973 5.80534 14.8613 5.39134 14.8613C4.97734 14.8613 4.64134 15.1973 4.64134 15.6113C4.64134 18.7933 6.69034 20.9303 9.73934 20.9303H17.4073C20.4573 20.9303 22.5073 18.7933 22.5073 15.6113V8.39031C22.5073 5.20831 20.4583 3.07031 17.4083 3.07031Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 5s 1 — light style variants.
+class _VideoMovieBackward5s1Light {
+  const _VideoMovieBackward5s1Light();
+
+  /// Backward 5s 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 5s 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.63281 15.6129C4.63281 18.2906 6.30051 20.183 8.9811 20.183H16.6492C19.3308 20.183 20.9994 18.2906 20.9994 15.6129V8.38653C20.9994 5.70887 19.3308 3.81641 16.6502 3.81641H8.9811C6.3083 3.81641 4.63281 5.70887 4.63281 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 10.4648L4.65213 12.117L6.29454 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.3691 14.6897H13.2353C13.9816 14.6897 14.5868 14.0845 14.5868 13.3382C14.5868 12.5919 13.9816 11.9867 13.2353 11.9867H11.3691V9.42969H14.3309" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Movie star icon with style variants.
 class _VideoMovieMovieStarIcon {
   const _VideoMovieMovieStarIcon();
@@ -4777,6 +6741,114 @@ class _VideoMovieForward30sLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Forward 30s',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.4977 11.8132C19.3985 7.34336 15.744 3.75018 11.2498 3.75018C6.6934 3.75018 3 7.44455 3 12C3 16.5564 6.6934 20.2498 11.2498 20.2498C14.0666 20.2498 16.5535 18.839 18.0421 16.6839" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9998 9.80078L19.7194 12.0211L17.5117 10.7475" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.77539 10.5552C6.77539 9.7564 7.42339 9.10938 8.22123 9.10938C9.02003 9.10938 9.66706 9.7564 9.66706 10.5552C9.66706 11.353 9.02003 12.0001 8.22123 12.0001C9.01906 12.0001 9.66609 12.6478 9.66609 13.4456C9.66609 14.2435 9.01906 14.8915 8.22123 14.8915C7.42242 14.8915 6.77539 14.2435 6.77539 13.4456" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3903 14.8462C12.4591 14.8462 11.7051 14.0911 11.7051 13.161V10.8375C11.7051 9.90737 12.4591 9.15234 13.3903 9.15234C14.3214 9.15234 15.0754 9.90737 15.0754 10.8375V13.161C15.0754 14.0911 14.3214 14.8462 13.3903 14.8462Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 30s 1 icon with style variants.
+class _VideoMovieForward30s1Icon {
+  const _VideoMovieForward30s1Icon();
+
+  /// bold style
+  _VideoMovieForward30s1Bold get bold => const _VideoMovieForward30s1Bold();
+  /// bulk style
+  _VideoMovieForward30s1Bulk get bulk => const _VideoMovieForward30s1Bulk();
+  /// light style
+  _VideoMovieForward30s1Light get light => const _VideoMovieForward30s1Light();
+  /// outline style
+  _VideoMovieForward30s1Outline get outline => const _VideoMovieForward30s1Outline();
+  /// twoTone style
+  _VideoMovieForward30s1Twotone get twoTone => const _VideoMovieForward30s1Twotone();
+  /// broken style
+  _VideoMovieForward30s1Broken get broken => const _VideoMovieForward30s1Broken();
+}
+
+/// Forward 30s 1 — bulk style variants.
+class _VideoMovieForward30s1Bulk {
+  const _VideoMovieForward30s1Bulk();
+
+  /// Forward 30s 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 30s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.7661 9.42731C18.4811 9.42831 18.2211 9.59131 18.0961 9.84731C17.9701 10.1033 18.0001 10.4073 18.1741 10.6333L19.6641 12.5763C19.6841 12.6033 19.7161 12.6153 19.7391 12.6373C19.7531 12.6533 19.7711 12.6633 19.7871 12.6773C19.8461 12.7273 19.9041 12.7743 19.9751 12.8043C20.0261 12.8273 20.0831 12.8323 20.1391 12.8423C20.1801 12.8493 20.2171 12.8703 20.2591 12.8703C20.2621 12.8703 20.2651 12.8683 20.2681 12.8683C20.2711 12.8683 20.2741 12.8703 20.2781 12.8703C20.5321 12.8703 20.7461 12.7353 20.8811 12.5423L22.3521 10.6213C22.5261 10.3943 22.5551 10.0883 22.4281 9.83231C22.3011 9.57631 22.0411 9.41531 21.7561 9.41531H21.7531L21.0281 9.41831V8.39031C21.0281 5.20731 18.9791 3.07031 15.9291 3.07031H8.26011C5.21011 3.07031 3.16211 5.20731 3.16211 8.39031V15.6113C3.16211 18.7923 5.21111 20.9303 8.26111 20.9303H15.9291C18.9791 20.9303 21.0281 18.7923 21.0281 15.6113C21.0281 15.1973 20.6921 14.8613 20.2781 14.8613C19.8641 14.8613 19.5281 15.1973 19.5281 15.6113C19.5281 17.9313 18.1161 19.4303 15.9291 19.4303H8.26111C6.07511 19.4303 4.66211 17.9313 4.66211 15.6113V8.39031C4.66211 6.07031 6.07411 4.57031 8.26011 4.57031H15.9291C18.1161 4.57031 19.5281 6.07031 19.5281 8.39031V9.42431L18.7661 9.42731Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.92808 14.0084C8.59908 14.0084 8.33008 13.7384 8.33008 13.4074C8.33008 12.9934 7.99408 12.6574 7.58008 12.6574C7.16608 12.6574 6.83008 12.9934 6.83008 13.4074C6.83008 14.5664 7.77208 15.5084 8.92808 15.5084C10.0851 15.5084 11.0271 14.5664 11.0271 13.4074C11.0271 12.8944 10.8411 12.4234 10.5341 12.0584C10.8411 11.6934 11.0261 11.2224 11.0261 10.7084C11.0261 9.55037 10.0851 8.60938 8.92908 8.60938C7.77208 8.60938 6.83008 9.55037 6.83008 10.7084C6.83008 11.1224 7.16608 11.4584 7.58008 11.4584C7.99408 11.4584 8.33008 11.1224 8.33008 10.7084C8.33008 10.3774 8.59908 10.1094 8.92908 10.1094C9.25808 10.1094 9.52608 10.3774 9.52608 10.7084C9.52608 11.0394 9.25808 11.3084 8.92908 11.3084C8.51508 11.3084 8.17908 11.6444 8.17908 12.0584C8.17908 12.4724 8.51508 12.8084 8.92908 12.8084C9.25808 12.8084 9.52708 13.0764 9.52708 13.4074C9.52708 13.7384 9.25808 14.0084 8.92808 14.0084Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6762 13.1382C14.6762 13.5962 14.3082 13.9682 13.8552 13.9682C13.4022 13.9682 13.0332 13.5962 13.0332 13.1382V10.9782C13.0332 10.5262 13.4022 10.1582 13.8552 10.1582C14.3082 10.1582 14.6762 10.5262 14.6762 10.9782V13.1382ZM13.8552 8.6582C12.5742 8.6582 11.5332 9.6992 11.5332 10.9782V13.1382C11.5332 14.4232 12.5742 15.4682 13.8552 15.4682C15.1352 15.4682 16.1762 14.4232 16.1762 13.1382V10.9782C16.1762 9.6992 15.1352 8.6582 13.8552 8.6582Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 30s 1 — broken style variants.
+class _VideoMovieForward30s1Broken {
+  const _VideoMovieForward30s1Broken();
+
+  /// Forward 30s 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 30s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.75829 10.7109C6.75829 9.96653 7.36154 9.36328 8.10587 9.36328C8.85021 9.36328 9.45346 9.96653 9.45346 10.7109C9.45346 11.4552 8.85021 12.0594 8.10587 12.0594C8.85118 12.0594 9.45395 12.6627 9.45395 13.407C9.45395 14.1523 8.8507 14.7556 8.1054 14.7556C7.36106 14.7556 6.75781 14.1523 6.75781 13.407" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0333 14.7158C12.1654 14.7158 11.4619 14.0124 11.4619 13.1445V10.9776C11.4619 10.1097 12.1654 9.40625 13.0333 9.40625C13.9012 9.40625 14.6047 10.1097 14.6047 10.9776V13.1445C14.6047 14.0124 13.9012 14.7158 13.0333 14.7158Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08356 8.38653C3.08356 5.70887 4.75223 3.81641 7.43281 3.81641H15.1019C17.7747 3.81641 19.4502 5.70887 19.4502 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4502 15.6111C19.4502 18.2887 17.7825 20.1812 15.1019 20.1812H7.43379C4.75223 20.1812 3.08356 18.2887 3.08356 15.6111V12.0273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.084 10.4648L19.4318 12.117L17.7894 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 30s 1 — twoTone style variants.
+class _VideoMovieForward30s1Twotone {
+  const _VideoMovieForward30s1Twotone();
+
+  /// Forward 30s 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 30s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.7006 15.6129C19.7006 18.2905 18.0329 20.183 15.3523 20.183H7.6842C5.00265 20.183 3.33398 18.2905 3.33398 15.6129V8.38652C3.33398 5.70886 5.00265 3.81641 7.68323 3.81641H15.3523C18.0251 3.81641 19.7006 5.70886 19.7006 8.38652V12.1169" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.00829 10.7109C7.00829 9.96653 7.61154 9.36328 8.35587 9.36328C9.10021 9.36328 9.70346 9.96653 9.70346 10.7109C9.70346 11.4552 9.10021 12.0594 8.35587 12.0594C9.10118 12.0594 9.70395 12.6627 9.70395 13.407C9.70395 14.1523 9.1007 14.7556 8.3554 14.7556C7.61106 14.7556 7.00781 14.1523 7.00781 13.407" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.2833 14.7158C12.4154 14.7158 11.7119 14.0124 11.7119 13.1445V10.9776C11.7119 10.1097 12.4154 9.40625 13.2833 9.40625C14.1512 9.40625 14.8547 10.1097 14.8547 10.9776V13.1445C14.8547 14.0124 14.1512 14.7158 13.2833 14.7158Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.3336 10.4648L19.6815 12.117L18.0391 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 30s 1 — outline style variants.
+class _VideoMovieForward30s1Outline {
+  const _VideoMovieForward30s1Outline();
+
+  /// Forward 30s 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 30s 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.71828 5.60845C4.11718 6.25397 3.75 7.20262 3.75 8.38652V15.6129C3.75 16.7968 4.11717 17.7454 4.71836 18.3909C5.31394 19.0304 6.19466 19.433 7.35022 19.433H15.0183C16.1733 19.433 17.0535 19.0304 17.6487 18.391C18.2496 17.7456 18.6166 16.7969 18.6166 15.6129C18.6166 15.1987 18.9524 14.8629 19.3666 14.8629C19.7808 14.8629 20.1166 15.1987 20.1166 15.6129C20.1166 17.1065 19.6497 18.4429 18.7466 19.4131C17.8379 20.3893 16.5439 20.933 15.0183 20.933H7.35022C5.82422 20.933 4.52984 20.3894 3.62069 19.4132C2.71716 18.4431 2.25 17.1066 2.25 15.6129V8.38652C2.25 6.89276 2.71716 5.55635 3.62053 4.58623C4.52952 3.61008 5.82366 3.06641 7.34924 3.06641H15.0183C16.5405 3.06641 17.834 3.61039 18.7434 4.58596C19.6472 5.55568 20.1166 6.89196 20.1166 8.38652V12.1169C20.1166 12.5312 19.7808 12.8669 19.3666 12.8669C18.9524 12.8669 18.6166 12.5312 18.6166 12.1169V8.38652C18.6166 7.20342 18.2482 6.25464 17.6461 5.60872C17.0495 4.96865 16.1689 4.56641 15.0183 4.56641H7.34924C6.19426 4.56641 5.31377 4.96897 4.71828 5.60845Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.9243 10.7109C5.9243 9.55232 6.86334 8.61328 8.02189 8.61328C9.18043 8.61328 10.1195 9.55232 10.1195 10.7109C10.1195 11.2237 9.93537 11.694 9.62951 12.0588C9.93567 12.4233 10.12 12.8936 10.12 13.407C10.12 14.5665 9.18093 15.5056 8.02141 15.5056C6.86251 15.5056 5.92383 14.5662 5.92383 13.407C5.92383 12.9928 6.25961 12.657 6.67383 12.657C7.08804 12.657 7.42383 12.9928 7.42383 13.407C7.42383 13.7384 7.69164 14.0056 8.02141 14.0056C8.35251 14.0056 8.61997 13.7381 8.61997 13.407C8.61997 13.0769 8.35299 12.8094 8.02189 12.8094C7.60767 12.8094 7.27189 12.4736 7.27189 12.0594C7.27189 11.6452 7.60767 11.3094 8.02189 11.3094C8.3513 11.3094 8.61947 11.0417 8.61947 10.7109C8.61947 10.3807 8.35201 10.1133 8.02189 10.1133C7.69177 10.1133 7.4243 10.3807 7.4243 10.7109C7.4243 11.1251 7.08852 11.4609 6.6743 11.4609C6.26009 11.4609 5.9243 11.1251 5.9243 10.7109Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9483 10.1562C12.4946 10.1562 12.127 10.5239 12.127 10.9776V13.1445C12.127 13.5981 12.4946 13.9658 12.9483 13.9658C13.402 13.9658 13.7697 13.5981 13.7697 13.1445V10.9776C13.7697 10.5239 13.402 10.1562 12.9483 10.1562ZM10.627 10.9776C10.627 9.6955 11.6662 8.65625 12.9483 8.65625C14.2304 8.65625 15.2697 9.6955 15.2697 10.9776V13.1445C15.2697 14.4266 14.2304 15.4658 12.9483 15.4658C11.6662 15.4658 10.627 14.4266 10.627 13.1445V10.9776Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5299 9.93451C21.8228 10.2274 21.8228 10.7023 21.5299 10.9952L19.8778 12.6473C19.5849 12.9402 19.11 12.9402 18.8171 12.6473L17.1747 11.0049C16.8819 10.712 16.8819 10.2371 17.1747 9.94424C17.4676 9.65135 17.9425 9.65135 18.2354 9.94424L19.3475 11.0563L20.4693 9.93451C20.7622 9.64162 21.237 9.64162 21.5299 9.93451Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 30s 1 — bold style variants.
+class _VideoMovieForward30s1Bold {
+  const _VideoMovieForward30s1Bold();
+
+  /// Forward 30s 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 30s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.92918 14.0103C8.60018 14.0103 8.33118 13.7403 8.33118 13.4093C8.33118 12.9953 7.99518 12.6593 7.58118 12.6593C7.16718 12.6593 6.83118 12.9953 6.83118 13.4093C6.83118 14.5683 7.77318 15.5103 8.92918 15.5103C10.0862 15.5103 11.0282 14.5683 11.0282 13.4093C11.0282 12.8963 10.8422 12.4253 10.5352 12.0603C10.8422 11.6953 11.0272 11.2243 11.0272 10.7103C11.0272 9.55233 10.0862 8.61133 8.93018 8.61133C7.77318 8.61133 6.83118 9.55233 6.83118 10.7103C6.83118 11.1243 7.16718 11.4603 7.58118 11.4603C7.99518 11.4603 8.33118 11.1243 8.33118 10.7103C8.33118 10.3793 8.60018 10.1113 8.93018 10.1113C9.25918 10.1113 9.52718 10.3793 9.52718 10.7103C9.52718 11.0413 9.25918 11.3103 8.93018 11.3103C8.51618 11.3103 8.18018 11.6463 8.18018 12.0603C8.18018 12.4743 8.51618 12.8103 8.93018 12.8103C9.25918 12.8103 9.52818 13.0783 9.52818 13.4093C9.52818 13.7403 9.25918 14.0103 8.92918 14.0103Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6773 13.1402C14.6773 13.5982 14.3093 13.9702 13.8563 13.9702C13.4033 13.9702 13.0343 13.5982 13.0343 13.1402V10.9802C13.0343 10.5282 13.4033 10.1602 13.8563 10.1602C14.3093 10.1602 14.6773 10.5282 14.6773 10.9802V13.1402ZM13.8563 8.66016C12.5753 8.66016 11.5343 9.70116 11.5343 10.9802V13.1402C11.5343 14.4252 12.5753 15.4702 13.8563 15.4702C15.1363 15.4702 16.1773 14.4252 16.1773 13.1402V10.9802C16.1773 9.70116 15.1363 8.66016 13.8563 8.66016Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7661 9.42731C18.4811 9.42831 18.2211 9.59131 18.0961 9.84731C17.9701 10.1033 18.0001 10.4073 18.1741 10.6333L19.6641 12.5763C19.6841 12.6033 19.7161 12.6153 19.7391 12.6373C19.7531 12.6533 19.7711 12.6633 19.7871 12.6773C19.8461 12.7273 19.9041 12.7743 19.9751 12.8043C20.0261 12.8273 20.0831 12.8323 20.1391 12.8423C20.1801 12.8493 20.2171 12.8703 20.2591 12.8703C20.2621 12.8703 20.2651 12.8683 20.2681 12.8683C20.2711 12.8683 20.2741 12.8703 20.2781 12.8703C20.5321 12.8703 20.7461 12.7353 20.8811 12.5423L22.3521 10.6213C22.5261 10.3943 22.5551 10.0883 22.4281 9.83231C22.3011 9.57631 22.0411 9.41531 21.7561 9.41531H21.7531L21.0281 9.41831V8.39031C21.0281 5.20731 18.9791 3.07031 15.9291 3.07031H8.26011C5.21011 3.07031 3.16211 5.20731 3.16211 8.39031V15.6113C3.16211 18.7923 5.21111 20.9303 8.26111 20.9303H15.9291C18.9791 20.9303 21.0281 18.7923 21.0281 15.6113C21.0281 15.1973 20.6921 14.8613 20.2781 14.8613C19.8641 14.8613 19.5281 15.1973 19.5281 15.6113C19.5281 17.9313 18.1161 19.4303 15.9291 19.4303H8.26111C6.07511 19.4303 4.66211 17.9313 4.66211 15.6113V8.39031C4.66211 6.07031 6.07411 4.57031 8.26011 4.57031H15.9291C18.1161 4.57031 19.5281 6.07031 19.5281 8.39031V9.42431L18.7661 9.42731Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward 30s 1 — light style variants.
+class _VideoMovieForward30s1Light {
+  const _VideoMovieForward30s1Light();
+
+  /// Forward 30s 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward 30s 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.3666 15.6129C19.3666 18.2905 17.6989 20.183 15.0183 20.183H7.35022C4.66867 20.183 3 18.2905 3 15.6129V8.38652C3 5.70886 4.66867 3.81641 7.34924 3.81641H15.0183C17.6911 3.81641 19.3666 5.70886 19.3666 8.38652V12.1169" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.6743 10.7109C6.6743 9.96653 7.27755 9.36328 8.02189 9.36328C8.76622 9.36328 9.36947 9.96653 9.36947 10.7109C9.36947 11.4552 8.76622 12.0594 8.02189 12.0594C8.76719 12.0594 9.36997 12.6627 9.36997 13.407C9.36997 14.1523 8.76672 14.7556 8.02141 14.7556C7.27708 14.7556 6.67383 14.1523 6.67383 13.407" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9483 14.7158C12.0804 14.7158 11.377 14.0124 11.377 13.1445V10.9776C11.377 10.1097 12.0804 9.40625 12.9483 9.40625C13.8162 9.40625 14.5197 10.1097 14.5197 10.9776V13.1445C14.5197 14.0124 13.8162 14.7158 12.9483 14.7158Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9996 10.4648L19.3475 12.117L17.7051 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -5457,7 +7529,7 @@ class _VideoMovieLoadingPlayBulk {
   /// Loading play — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Loading play',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.91487 13.3261C4.32787 13.2961 4.63787 12.9351 4.60787 12.5221C4.53887 11.5961 4.63187 10.6611 4.88187 9.74612C4.99187 9.34712 4.75687 8.93312 4.35687 8.82412C3.95987 8.71912 3.54587 8.95012 3.43587 9.34912C3.13987 10.4301 3.03087 11.5351 3.11187 12.6341C3.14087 13.0271 3.46987 13.3281 3.85887 13.3281C3.87687 13.3281 3.89587 13.3271 3.91487 13.3261Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.61016 7.37808C5.83916 7.37808 6.06716 7.27308 6.21416 7.07308C6.60016 6.55108 7.04816 6.07208 7.54716 5.65008C7.86316 5.38408 7.90316 4.91008 7.63516 4.59408C7.36916 4.27708 6.89616 4.23808 6.57816 4.50608C5.99116 5.00208 5.46316 5.56608 5.00716 6.18308C4.76116 6.51608 4.83216 6.98508 5.16516 7.23208C5.29916 7.33008 5.45516 7.37808 5.61016 7.37808Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.24966 15.2751C5.08266 14.8961 4.64166 14.7261 4.26066 14.8911C3.88166 15.0581 3.70966 15.5021 3.87766 15.8801C4.60566 17.5311 5.77366 18.9471 7.25666 19.9741C7.38666 20.0651 7.53566 20.1081 7.68366 20.1081C7.92066 20.1081 8.15466 19.9961 8.29966 19.7851C8.53666 19.4451 8.45166 18.9771 8.11066 18.7421C6.85566 17.8721 5.86666 16.6721 5.24966 15.2751Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.932 18.4969C16.637 19.5099 15.091 20.1049 13.458 20.2199C12.645 20.2829 11.83 20.2239 11.035 20.0469C10.631 19.9549 10.229 20.2109 10.139 20.6139C10.049 21.0179 10.303 21.4199 10.707 21.5099C11.405 21.6659 12.115 21.7439 12.825 21.7439C13.073 21.7439 13.321 21.7349 13.569 21.7159C15.495 21.5799 17.324 20.8759 18.856 19.6789C19.182 19.4239 19.24 18.9519 18.985 18.6259C18.729 18.2979 18.258 18.2409 17.932 18.4969Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.446 2.2583C12.032 2.2743 11.71 2.6223 11.725 3.0353C11.741 3.4493 12.098 3.7953 12.504 3.7563C17.023 3.5913 20.898 7.1393 21.074 11.6853C21.137 13.3233 20.71 14.9263 19.842 16.3213C19.622 16.6723 19.73 17.1343 20.081 17.3543C20.204 17.4313 20.342 17.4673 20.477 17.4673C20.727 17.4673 20.972 17.3423 21.114 17.1133C22.143 15.4643 22.647 13.5683 22.573 11.6273C22.365 6.2553 17.836 2.0373 12.446 2.2583Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0366 15.374C11.2986 15.529 11.5956 15.607 11.9106 15.607C12.1746 15.607 12.4516 15.553 12.7306 15.442C13.8316 14.994 14.8866 14.325 15.7826 13.509L15.7866 13.506C16.2436 13.08 16.4946 12.542 16.4946 11.992C16.4936 11.441 16.2426 10.905 15.7846 10.481C14.9026 9.66997 13.8756 9.02097 12.7376 8.55997C12.1656 8.31497 11.5566 8.33797 11.0696 8.61497C10.5916 8.88997 10.2866 9.37197 10.2076 9.98297C10.0636 11.253 10.0636 12.608 10.2076 14.02C10.2816 14.619 10.5756 15.1 11.0366 15.374Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.6263 10.4602C21.5233 9.7752 21.3463 9.1082 21.1023 8.4862C20.7313 7.5092 20.2093 6.6072 19.5553 5.8142C19.1773 5.3422 18.7393 4.9012 18.2663 4.5122C17.4553 3.8192 16.5593 3.2782 15.6183 2.9102C14.9443 2.6282 14.2263 2.4292 13.4823 2.3192C13.0713 2.2652 12.6913 2.5432 12.6313 2.9522C12.5703 3.3622 12.8553 3.7432 13.2643 3.8042C13.8833 3.8952 14.4803 4.0602 15.0553 4.3002C15.8553 4.6132 16.6083 5.0682 17.3033 5.6612C17.7073 5.9942 18.0713 6.3602 18.3903 6.7602C18.9463 7.4352 19.3873 8.1942 19.7023 9.0252C19.9083 9.5522 20.0573 10.1092 20.1453 10.6922C20.2163 11.1252 20.2503 11.5542 20.2503 12.0022C20.2503 12.4512 20.2163 12.8792 20.1433 13.3202C20.0513 13.9342 19.8903 14.5142 19.6443 15.1082C19.3313 15.9052 18.8773 16.6582 18.2843 17.3562C17.9583 17.7552 17.5813 18.1282 17.1893 18.4402C16.5063 18.9992 15.7413 19.4432 14.9193 19.7612C14.3533 19.9752 13.7963 20.1222 13.2663 20.1992C12.8553 20.2592 12.5713 20.6392 12.6313 21.0492C12.6853 21.4232 13.0063 21.6912 13.3723 21.6912C13.4083 21.6912 13.4443 21.6892 13.4803 21.6842C14.1193 21.5912 14.7813 21.4162 15.4543 21.1622C16.4303 20.7852 17.3323 20.2612 18.1313 19.6072C18.5983 19.2352 19.0523 18.7862 19.4363 18.3172C20.1283 17.5022 20.6683 16.6062 21.0353 15.6692C21.3223 14.9742 21.5173 14.2782 21.6253 13.5532C21.7093 13.0402 21.7503 12.5332 21.7503 12.0022C21.7503 11.4722 21.7093 10.9642 21.6263 10.4602Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.6221 20.1984C10.0021 20.1074 9.40608 19.9424 8.84908 19.7094C8.75708 19.6704 8.65808 19.6504 8.55908 19.6504H8.54908C8.13508 19.6504 7.80408 19.9864 7.80408 20.4004C7.80408 20.7214 8.00808 20.9954 8.29308 21.1024C8.95908 21.3794 9.66908 21.5744 10.4031 21.6824C10.4401 21.6874 10.4771 21.6904 10.5141 21.6904C10.8801 21.6904 11.2001 21.4234 11.2551 21.0504C11.3151 20.6394 11.0311 20.2594 10.6221 20.1984Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.50977 17.2518C5.25177 16.9278 4.77677 16.8758 4.45577 17.1378C4.13277 17.3968 4.08177 17.8688 4.34177 18.1908C4.72577 18.6688 5.16077 19.1058 5.63477 19.4928C5.77477 19.6058 5.94177 19.6608 6.10877 19.6608C6.32577 19.6608 6.54177 19.5658 6.69077 19.3848C6.95077 19.0638 6.90377 18.5908 6.58177 18.3288C6.18877 18.0098 5.82777 17.6478 5.50977 17.2518Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.18655 14.9722C3.97255 14.4142 3.82255 13.8592 3.74155 13.3202C3.67955 12.9092 3.29055 12.6282 2.88855 12.6902C2.47855 12.7512 2.19655 13.1332 2.25855 13.5422C2.35555 14.1892 2.53355 14.8512 2.78655 15.5092C2.90055 15.8082 3.18455 15.9912 3.48655 15.9912C3.57655 15.9912 3.66655 15.9752 3.75455 15.9412C4.14155 15.7922 4.33455 15.3582 4.18655 14.9722Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.88682 11.312C2.92482 11.318 2.96282 11.321 3.00082 11.321C3.36582 11.321 3.68482 11.055 3.74082 10.684C3.83782 10.051 3.99982 9.467 4.23682 8.9C4.39582 8.518 4.21482 8.079 3.83182 7.919C3.45282 7.76 3.01082 7.941 2.85182 8.324C2.57282 8.995 2.37182 9.712 2.25882 10.458C2.19682 10.867 2.47782 11.25 2.88682 11.312Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.73928 4.39839C5.25428 4.80739 4.83428 5.22039 4.45428 5.66139C4.18228 5.97439 4.21828 6.44839 4.53128 6.71839C4.67328 6.84139 4.84728 6.90139 5.02128 6.90139C5.23128 6.90139 5.44128 6.81339 5.58928 6.64139C5.91728 6.26039 6.28328 5.90239 6.70628 5.54439C7.02328 5.27739 7.06228 4.80439 6.79628 4.48839C6.52928 4.17139 6.05528 4.13139 5.73928 4.39839Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.70115 4.30122C8.79315 4.30122 8.88715 4.28422 8.97715 4.24822C9.52515 4.03122 10.0781 3.88222 10.6201 3.80322C11.0301 3.74322 11.3141 3.36422 11.2551 2.95322C11.1961 2.54222 10.8091 2.26522 10.4051 2.31922C9.74715 2.41422 9.08115 2.59422 8.42515 2.85422C8.04015 3.00622 7.85115 3.44222 8.00415 3.82722C8.12015 4.12122 8.40215 4.30122 8.70115 4.30122Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8314 13.5115C15.2924 13.0795 15.5444 12.5355 15.5414 11.9805C15.5394 11.4275 15.2854 10.8915 14.8274 10.4695C13.9354 9.65154 12.9014 8.99654 11.7624 8.52654C11.1854 8.28354 10.5764 8.30654 10.0874 8.58854C9.60741 8.86454 9.30041 9.34954 9.22041 9.96254C9.07741 11.2485 9.07741 12.6105 9.22141 14.0195C9.29641 14.6245 9.59341 15.1115 10.0594 15.3885C10.3224 15.5455 10.6204 15.6235 10.9374 15.6235C11.2014 15.6235 11.4784 15.5705 11.7594 15.4595C12.8724 14.9975 13.9324 14.3255 14.8254 13.5185C14.8274 13.5155 14.8294 13.5135 14.8314 13.5115Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -5472,7 +7544,7 @@ class _VideoMovieLoadingPlayBroken {
   /// Loading play — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Loading play',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.40969 9.54688C3.14699 10.5101 3.03315 11.5288 3.11099 12.5806" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.86133 6.63001C5.28165 6.05693 5.76911 5.53737 6.313 5.07812" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.9338 19.3601C5.57748 18.4231 4.49261 17.1164 3.81445 15.5781" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6959 13.1414C13.8941 13.873 12.8939 14.5327 11.7915 14.9803C10.8546 15.3529 10.0684 14.8879 9.9536 13.9557C9.81349 12.5809 9.81641 11.2645 9.9536 10.0366C10.0791 9.06755 10.9441 8.65598 11.7915 9.01501C12.8764 9.46355 13.8494 10.0726 14.6959 10.8549C15.4188 11.5155 15.4363 12.4545 14.6959 13.1414Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.6451 19.0859C16.2888 20.1484 14.6143 20.8363 12.7666 20.9745C11.8569 21.0426 10.9686 20.9706 10.1221 20.7799" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.2755 8.28111C18.806 5.04991 15.4914 2.86163 11.7246 3.00681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.7285 16.7245C20.6382 15.2563 21.1452 13.5195 21.0741 11.6641" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.79883 20.3984H8.80856C9.42833 20.6563 10.086 20.8372 10.7632 20.9423" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.35792 18.9106C5.92885 18.5574 5.52896 18.1576 5.17578 17.7188" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.73648 15.2404C3.51756 14.6683 3.34535 14.0582 3.25 13.4297" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.79388 8.60547C3.53605 9.22524 3.35508 9.88296 3.25 10.5699" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.47308 4.97266C6.03428 5.33557 5.6344 5.72572 5.27148 6.1548" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.7628 3.05859C10.143 3.15394 9.533 3.31643 8.95117 3.54507" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.623 3.05859C14.3002 3.16367 14.9579 3.34464 15.5777 3.60248C16.4738 3.95469 17.3028 4.45965 18.0276 5.07942C18.4664 5.44233 18.8663 5.84222 19.2195 6.28102C19.8198 7.01463 20.3063 7.84456 20.6497 8.75038C20.8784 9.33124 21.0399 9.94225 21.1352 10.5708C21.2121 11.0388 21.25 11.5145 21.25 12.001C21.25 12.4875 21.2121 12.9643 21.1352 13.4313" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.1144 17.8242C18.7622 18.263 18.3516 18.6639 17.9128 19.0161C17.1792 19.6174 16.3405 20.1126 15.4347 20.4561C14.8529 20.675 14.2428 20.8462 13.623 20.9416" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8186 8.9927C10.9663 8.63076 10.0955 9.04524 9.96897 10.0201C9.83082 11.2568 9.8279 12.581 9.96897 13.9645C10.0848 14.9034 10.8748 15.3714 11.8186 14.9958C12.9277 14.5444 13.9347 13.8818 14.7413 13.1453C15.4856 12.4545 15.4691 11.5088 14.7413 10.8442" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -5487,7 +7559,7 @@ class _VideoMovieLoadingPlayTwotone {
   /// Loading play — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Loading play',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.65969 9.54688C3.39699 10.5101 3.28315 11.5288 3.36099 12.5806" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.11133 6.63001C5.53165 6.05693 6.01911 5.53737 6.563 5.07812" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.1838 19.3601C5.82748 18.4231 4.74261 17.1164 4.06445 15.5781" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.9459 13.1414C14.1441 13.873 13.1439 14.5327 12.0415 14.9803C11.1046 15.3529 10.3184 14.8879 10.2036 13.9557C10.0635 12.5809 10.0664 11.2645 10.2036 10.0366C10.3291 9.06755 11.1941 8.65598 12.0415 9.01501C13.1264 9.46355 14.0994 10.0726 14.9459 10.8549C15.6688 11.5155 15.6863 12.4545 14.9459 13.1414Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.8951 19.0859C16.5388 20.1484 14.8643 20.8363 13.0166 20.9745C12.1069 21.0426 11.2186 20.9706 10.3721 20.7799" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.9783 16.7238C20.888 15.2555 21.3949 13.5188 21.3239 11.6633C21.1322 6.69048 16.9475 2.81514 11.9746 3.00681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.04883 20.3984H9.05856C9.67833 20.6563 10.336 20.8372 11.0132 20.9423" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.60792 18.9106C6.17885 18.5574 5.77896 18.1576 5.42578 17.7188" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.98648 15.2404C3.76756 14.6683 3.59535 14.0582 3.5 13.4297" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.04388 8.60547C3.78605 9.22524 3.60508 9.88296 3.5 10.5699" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.72308 4.97266C6.28428 5.33557 5.8844 5.72572 5.52148 6.1548" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.0128 3.05859C10.393 3.15394 9.783 3.31643 9.20117 3.54507" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.873 3.05859C14.5502 3.16367 15.2079 3.34464 15.8277 3.60248C16.7238 3.95469 17.5528 4.45965 18.2776 5.07942C18.7164 5.44233 19.1163 5.84222 19.4695 6.28102C20.0698 7.01463 20.5563 7.84456 20.8997 8.75038C21.1284 9.33124 21.2899 9.94225 21.3852 10.5708C21.4621 11.0388 21.5 11.5145 21.5 12.001C21.5 12.4875 21.4621 12.9643 21.3852 13.4313C21.2811 14.1172 21.0992 14.7564 20.8423 15.3762V15.385C20.4891 16.282 19.9842 17.1022 19.3644 17.8261C19.0122 18.2649 18.6016 18.6658 18.1628 19.018C17.4292 19.6193 16.5905 20.1145 15.6847 20.458C15.1029 20.6769 14.4928 20.8481 13.873 20.9435" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.9913 13.1453C14.1847 13.8818 13.1777 14.5444 12.0686 14.9958C11.1248 15.3714 10.3348 14.9034 10.219 13.9645C10.0779 12.581 10.0808 11.2568 10.219 10.0201C10.3455 9.04524 11.2163 8.63076 12.0686 8.9927C13.1602 9.44415 14.14 10.0571 14.9913 10.8442C15.7191 11.5088 15.7356 12.4545 14.9913 13.1453Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -5502,7 +7574,7 @@ class _VideoMovieLoadingPlayOutline {
   /// Loading play — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Loading play',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.02632 13.3301C2.8371 13.3299 2.65496 13.2581 2.51643 13.1293C2.37789 13.0004 2.2932 12.8239 2.27932 12.6352C2.19931 11.5294 2.30854 10.4182 2.60232 9.34916C2.62655 9.25236 2.66986 9.16135 2.7297 9.08149C2.78954 9.00163 2.86471 8.93452 2.95082 8.88409C3.03693 8.83365 3.13224 8.80091 3.23117 8.78778C3.33009 8.77464 3.43064 8.78138 3.52693 8.8076C3.62321 8.83381 3.71329 8.87898 3.7919 8.94045C3.87051 9.00193 3.93606 9.07847 3.98471 9.1656C4.03336 9.25273 4.06414 9.3487 4.07524 9.44787C4.08633 9.54704 4.07752 9.64743 4.04933 9.74316C3.80079 10.6482 3.70813 11.589 3.77532 12.5252C3.78882 12.723 3.72353 12.9181 3.59371 13.068C3.46388 13.2179 3.28005 13.3103 3.08232 13.3252C3.06376 13.3278 3.04507 13.3295 3.02632 13.3301V13.3301Z" fill="black"/> <path d="M4.78071 7.38019C4.64244 7.37938 4.50708 7.34034 4.3896 7.26742C4.27213 7.19449 4.17709 7.09051 4.11501 6.96696C4.05292 6.84341 4.0262 6.7051 4.0378 6.56731C4.04939 6.42953 4.09885 6.29763 4.18071 6.18619C4.63665 5.56588 5.16431 5.00164 5.75271 4.50519C5.90468 4.37683 6.10142 4.31408 6.29965 4.33077C6.49787 4.34746 6.68135 4.44221 6.80971 4.59418C6.93807 4.74615 7.00082 4.94289 6.98413 5.14112C6.96743 5.33935 6.87268 5.52283 6.72071 5.65119C6.22245 6.07134 5.77568 6.54901 5.38971 7.07419C5.31958 7.16967 5.22783 7.24717 5.12197 7.30036C5.01612 7.35355 4.89917 7.38091 4.78071 7.38019Z" fill="black"/> <path d="M6.84944 20.113C6.6972 20.1131 6.54857 20.0667 6.42344 19.98C4.93971 18.952 3.77005 17.5328 3.04444 15.88C2.9671 15.6986 2.96435 15.494 3.03676 15.3105C3.10918 15.1271 3.25094 14.9796 3.43135 14.8999C3.61176 14.8202 3.8163 14.8148 4.00067 14.8848C4.18505 14.9548 4.33442 15.0947 4.41644 15.274C5.03111 16.672 6.02105 17.8724 7.27644 18.742C7.40802 18.833 7.50709 18.9636 7.55917 19.1148C7.61125 19.266 7.61363 19.43 7.56594 19.5826C7.51825 19.7353 7.423 19.8687 7.29409 19.9634C7.16519 20.0581 7.00939 20.1092 6.84944 20.109V20.113Z" fill="black"/> <path d="M11.0794 15.8643C10.7279 15.8675 10.3822 15.7748 10.0794 15.5963C9.81086 15.4312 9.58462 15.2057 9.4188 14.9376C9.25297 14.6695 9.15216 14.3663 9.12442 14.0523C8.97936 12.6915 8.97936 11.3191 9.12442 9.95828C9.15408 9.63906 9.259 9.33142 9.43057 9.06059C9.60214 8.78977 9.83547 8.56347 10.1114 8.40028C10.3992 8.24282 10.7197 8.15444 11.0476 8.14212C11.3754 8.1298 11.7016 8.19387 12.0004 8.32928C13.1496 8.79913 14.2064 9.46919 15.1214 10.3083C15.3687 10.5158 15.5675 10.775 15.7039 11.0675C15.8403 11.3601 15.911 11.679 15.911 12.0018C15.911 12.3246 15.8403 12.6435 15.7039 12.936C15.5675 13.2286 15.3687 13.4877 15.1214 13.6953V13.6953C14.2028 14.5339 13.1436 15.2041 11.9924 15.6753C11.7028 15.7955 11.393 15.8597 11.0794 15.8643V15.8643ZM11.1054 9.64128C11.0199 9.63951 10.9354 9.66021 10.8604 9.70129C10.7893 9.75067 10.7304 9.81558 10.6881 9.89113C10.6458 9.96667 10.6213 10.0508 10.6164 10.1373C10.4838 11.3828 10.4838 12.6388 10.6164 13.8843C10.622 13.967 10.6453 14.0475 10.6849 14.1203C10.7244 14.1931 10.7791 14.2566 10.8454 14.3063C10.9381 14.3472 11.0388 14.3667 11.1401 14.3634C11.2413 14.3601 11.3406 14.3341 11.4304 14.2873C12.4141 13.8836 13.3192 13.3102 14.1044 12.5933C14.1938 12.5195 14.2672 12.4282 14.32 12.3251C14.3728 12.2219 14.4039 12.109 14.4114 11.9933C14.4032 11.8801 14.3719 11.7698 14.3195 11.6692C14.267 11.5686 14.1945 11.4798 14.1064 11.4083C13.3192 10.687 12.4101 10.1114 11.4214 9.70828C11.3214 9.66564 11.2141 9.64288 11.1054 9.64128V9.64128Z" fill="black"/> <path d="M12.0077 21.7493C11.2897 21.7492 10.574 21.6691 9.87374 21.5103C9.77721 21.489 9.68584 21.4489 9.60488 21.3922C9.52392 21.3355 9.45497 21.2633 9.40199 21.1799C9.34901 21.0964 9.31305 21.0033 9.29617 20.906C9.27929 20.8086 9.28183 20.7088 9.30365 20.6124C9.32546 20.516 9.36611 20.4248 9.42327 20.3442C9.48042 20.2635 9.55296 20.195 9.6367 20.1425C9.72044 20.09 9.81373 20.0545 9.91121 20.0382C10.0087 20.0219 10.1085 20.025 10.2047 20.0473C10.9986 20.2273 11.815 20.2873 12.6267 20.2253C14.2564 20.1054 15.8135 19.5032 17.0997 18.4953C17.2562 18.3728 17.455 18.3174 17.6522 18.3414C17.8495 18.3654 18.0292 18.4668 18.1517 18.6233C18.2743 18.7798 18.3296 18.9785 18.3056 19.1758C18.2816 19.3731 18.1802 19.5528 18.0237 19.6753C16.5049 20.8674 14.6653 21.5797 12.7397 21.7213C12.4957 21.7403 12.2507 21.7493 12.0077 21.7493Z" fill="black"/> <path d="M19.6477 17.4761C19.514 17.4764 19.3826 17.4408 19.2673 17.3731C19.152 17.3054 19.0569 17.2081 18.9919 17.0913C18.9269 16.9744 18.8944 16.8423 18.8977 16.7086C18.901 16.575 18.94 16.4446 19.0107 16.3311C19.7971 15.0585 20.2226 13.5959 20.2413 12.1C20.2601 10.6041 19.8715 9.13129 19.1171 7.83937C18.3628 6.54744 17.2712 5.48509 15.9593 4.76614C14.6473 4.04719 13.1645 3.69874 11.6697 3.75813C11.5712 3.76187 11.4729 3.74619 11.3805 3.71196C11.2881 3.67772 11.2033 3.62562 11.131 3.55862C11.0587 3.49162 11.0003 3.41103 10.9592 3.32147C10.918 3.23191 10.8949 3.13512 10.8912 3.03663C10.8874 2.93814 10.9031 2.83987 10.9374 2.74745C10.9716 2.65502 11.0237 2.57024 11.0907 2.49795C11.1577 2.42566 11.2383 2.36727 11.3278 2.32612C11.4174 2.28497 11.5142 2.26187 11.6127 2.25813C13.3803 2.18586 15.1342 2.59658 16.6859 3.44615C18.2377 4.29572 19.5286 5.55203 20.42 7.0801C21.3115 8.60818 21.7697 10.3503 21.7455 12.1192C21.7213 13.8881 21.2156 15.617 20.2827 17.1201C20.2158 17.2286 20.1224 17.3182 20.0113 17.3805C19.9002 17.4428 19.775 17.4757 19.6477 17.4761Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.79883 20.3984C7.79883 19.9842 8.13461 19.6484 8.54883 19.6484H8.55856C8.65744 19.6484 8.75534 19.668 8.84663 19.706C9.40773 19.9394 10.007 20.1048 10.6282 20.2012C11.0375 20.2647 11.3179 20.648 11.2544 21.0573C11.1908 21.4666 10.8075 21.747 10.3982 21.6834C9.68851 21.5733 8.99474 21.3856 8.33566 21.1177C8.02529 21.0259 7.79883 20.7386 7.79883 20.3984Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.45555 17.1345C4.77823 16.8748 5.25035 16.9258 5.51007 17.2485C5.82967 17.6456 6.1931 18.0093 6.58459 18.3316C6.9044 18.5948 6.95025 19.0675 6.68701 19.3873C6.42377 19.7071 5.95111 19.753 5.63131 19.4897C5.16465 19.1056 4.72831 18.6696 4.34155 18.189C4.08183 17.8664 4.13287 17.3942 4.45555 17.1345Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.88761 12.6883C3.29714 12.6261 3.67949 12.9078 3.74162 13.3173C3.82779 13.8853 3.9845 14.4431 4.18705 14.9724C4.33508 15.3593 4.14148 15.7929 3.75462 15.9409C3.36776 16.089 2.93415 15.8954 2.78611 15.5085C2.55083 14.8936 2.36312 14.2313 2.25859 13.5423C2.19646 13.1328 2.47809 12.7504 2.88761 12.6883Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.83206 7.9132C4.2145 8.0723 4.39556 8.5113 4.23646 8.89374C4.0032 9.45444 3.83789 10.0532 3.74148 10.6835C3.67884 11.0929 3.29614 11.3741 2.88669 11.3114C2.47724 11.2488 2.19609 10.8661 2.25873 10.4567C2.37247 9.7131 2.56911 8.99643 2.85152 8.31759C3.01062 7.93515 3.44962 7.7541 3.83206 7.9132Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.80105 4.49468C7.06504 4.81388 7.02028 5.28664 6.70109 5.55062C6.29364 5.8876 5.926 6.24679 5.59414 6.63916C5.32664 6.95542 4.85342 6.99495 4.53716 6.72746C4.2209 6.45996 4.18137 5.98674 4.44886 5.67048C4.84282 5.2047 5.27495 4.78357 5.74511 4.39473C6.0643 4.13074 6.53706 4.17549 6.80105 4.49468Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.2543 2.94466C11.3173 3.35405 11.0365 3.73699 10.6271 3.79998C10.0604 3.88715 9.50426 4.03549 8.97568 4.24321C8.59017 4.39471 8.15484 4.205 8.00334 3.81949C7.85184 3.43397 8.04155 2.99864 8.42706 2.84714C9.06214 2.59757 9.72606 2.42095 10.399 2.31742C10.8084 2.25444 11.1913 2.53526 11.2543 2.94466Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.632 2.9437C12.6955 2.53438 13.0788 2.25406 13.4882 2.31757C14.2188 2.43095 14.9326 2.62655 15.6091 2.90727C16.5808 3.29011 17.4773 3.83673 18.2605 4.5055C18.7327 4.89661 19.1666 5.33005 19.5519 5.80846C20.2003 6.6013 20.7269 7.4992 21.0994 8.48017C21.3482 9.11305 21.523 9.77567 21.6262 10.4539C21.7094 10.962 21.7501 11.4769 21.7501 12.0011C21.7501 12.5252 21.7094 13.0411 21.6262 13.5485C21.516 14.2721 21.3259 14.9491 21.06 15.6033C21.0542 15.6224 21.0476 15.6412 21.0403 15.6598C20.6563 16.6352 20.1093 17.5236 19.4419 18.305C19.0544 18.7863 18.6077 19.2211 18.1354 19.6006C17.3426 20.2499 16.4347 20.7863 15.4507 21.1593L15.4489 21.16C14.8269 21.394 14.1664 21.5804 13.4872 21.6848C13.0778 21.7478 12.6949 21.467 12.6319 21.0576C12.5689 20.6482 12.8497 20.2653 13.2591 20.2023C13.8193 20.1161 14.3785 19.96 14.92 19.7563C15.746 19.443 16.5141 18.99 17.1875 18.438L17.1934 18.4332L17.1934 18.4332C17.5946 18.1112 17.9653 17.7484 18.2796 17.3567C18.2846 17.3506 18.2896 17.3445 18.2948 17.3384C18.8508 16.6891 19.3031 15.9587 19.6229 15.1648C19.6304 15.1392 19.6393 15.1139 19.6496 15.0892C19.8839 14.5238 20.0491 13.9431 20.1438 13.3188L20.1452 13.3096L20.1453 13.3096C20.2153 12.8844 20.2501 12.4485 20.2501 12.0011C20.2501 11.5539 20.2153 11.1189 20.1453 10.6924L20.1438 10.6834L20.1438 10.6834C20.0565 10.1077 19.909 9.55128 19.702 9.0252L19.6985 9.01641L19.6986 9.01639C19.3846 8.18838 18.9396 7.42873 18.3892 6.7561L18.3853 6.7514L18.3853 6.75139C18.0661 6.35474 17.7024 5.99052 17.2997 5.65748L17.2903 5.64964L17.2903 5.64956C16.6268 5.08219 15.8694 4.62129 15.0535 4.3006L15.0397 4.29505C14.4786 4.06163 13.8794 3.89623 13.2582 3.79983C12.8488 3.73632 12.5685 3.35301 12.632 2.9437Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.4625 10.1108C10.3319 11.2856 10.3283 12.5507 10.4632 13.8796C10.4981 14.1489 10.6125 14.2697 10.7027 14.3209C10.7962 14.374 10.9843 14.42 11.2878 14.3C12.3073 13.8845 13.2378 13.2728 13.9822 12.5936C14.2225 12.3698 14.2932 12.1539 14.2924 11.9887C14.2915 11.822 14.2173 11.6105 13.9846 11.3981L13.9812 11.3949L13.9812 11.3949C13.1994 10.672 12.2962 10.1056 11.281 9.68575L11.2744 9.68304L11.2744 9.68301C11.0277 9.57825 10.8364 9.60705 10.7219 9.66775C10.6183 9.72262 10.4986 9.84419 10.4625 10.1108ZM11.8572 8.30086C11.2525 8.04516 10.5839 8.04321 10.0194 8.34241C9.44354 8.64763 9.0656 9.21938 8.97423 9.92362L8.97411 9.92361L8.97264 9.93684C8.82809 11.2306 8.82583 12.6084 8.97187 14.0406L8.97364 14.0563C9.05562 14.7211 9.39293 15.302 9.96188 15.6252C10.528 15.9468 11.2061 15.9469 11.8449 15.6927L11.8449 15.6927L11.8503 15.6905C13.0468 15.2035 14.1284 14.4914 14.9961 13.6991L14.9961 13.6991L15.0005 13.695C15.5029 13.2287 15.7957 12.6271 15.7924 11.9811C15.7891 11.3368 15.4919 10.7439 14.9979 10.292C14.0782 9.4421 13.0234 8.7835 11.8572 8.30086Z" fill="black"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -5517,7 +7589,7 @@ class _VideoMovieLoadingPlayBold {
   /// Loading play — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Loading play',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.91487 13.3261C4.32787 13.2961 4.63787 12.9351 4.60787 12.5221C4.53887 11.5961 4.63187 10.6611 4.88187 9.74612C4.99187 9.34712 4.75687 8.93312 4.35687 8.82412C3.95987 8.71912 3.54587 8.95012 3.43587 9.34912C3.13987 10.4301 3.03087 11.5351 3.11187 12.6341C3.14087 13.0271 3.46987 13.3281 3.85887 13.3281C3.87687 13.3281 3.89587 13.3271 3.91487 13.3261Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.61016 7.37808C5.83916 7.37808 6.06716 7.27308 6.21416 7.07308C6.60016 6.55108 7.04816 6.07208 7.54716 5.65008C7.86316 5.38408 7.90316 4.91008 7.63516 4.59408C7.36916 4.27708 6.89616 4.23808 6.57816 4.50608C5.99116 5.00208 5.46316 5.56608 5.00716 6.18308C4.76116 6.51608 4.83216 6.98508 5.16516 7.23208C5.29916 7.33008 5.45516 7.37808 5.61016 7.37808Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.24966 15.2751C5.08266 14.8961 4.64166 14.7261 4.26066 14.8911C3.88166 15.0581 3.70966 15.5021 3.87766 15.8801C4.60566 17.5311 5.77366 18.9471 7.25666 19.9741C7.38666 20.0651 7.53566 20.1081 7.68366 20.1081C7.92066 20.1081 8.15466 19.9961 8.29966 19.7851C8.53666 19.4451 8.45166 18.9771 8.11066 18.7421C6.85566 17.8721 5.86666 16.6721 5.24966 15.2751Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0364 15.372C11.2984 15.527 11.5954 15.605 11.9104 15.605C12.1744 15.605 12.4514 15.551 12.7304 15.44C13.8314 14.992 14.8864 14.323 15.7824 13.507L15.7864 13.504C16.2434 13.078 16.4944 12.54 16.4944 11.99C16.4934 11.439 16.2424 10.903 15.7844 10.479C14.9024 9.66801 13.8754 9.01901 12.7374 8.55801C12.1654 8.31301 11.5564 8.33601 11.0694 8.61301C10.5914 8.88801 10.2864 9.37001 10.2074 9.98101C10.0634 11.251 10.0634 12.606 10.2074 14.018C10.2814 14.617 10.5754 15.098 11.0364 15.372Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.932 18.4969C16.637 19.5099 15.091 20.1049 13.458 20.2199C12.645 20.2829 11.83 20.2239 11.035 20.0469C10.631 19.9549 10.229 20.2109 10.139 20.6139C10.049 21.0179 10.303 21.4199 10.707 21.5099C11.405 21.6659 12.115 21.7439 12.825 21.7439C13.073 21.7439 13.321 21.7349 13.569 21.7159C15.495 21.5799 17.324 20.8759 18.856 19.6789C19.182 19.4239 19.24 18.9519 18.985 18.6259C18.729 18.2979 18.258 18.2409 17.932 18.4969Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.446 2.2583C12.032 2.2743 11.71 2.6223 11.725 3.0353C11.741 3.4493 12.098 3.7953 12.504 3.7563C17.023 3.5913 20.898 7.1393 21.074 11.6853C21.137 13.3233 20.71 14.9263 19.842 16.3213C19.622 16.6723 19.73 17.1343 20.081 17.3543C20.204 17.4313 20.342 17.4673 20.477 17.4673C20.727 17.4673 20.972 17.3423 21.114 17.1133C22.143 15.4643 22.647 13.5683 22.573 11.6273C22.365 6.2553 17.836 2.0373 12.446 2.2583Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.6221 20.1984C10.0021 20.1074 9.40608 19.9424 8.84908 19.7094C8.75708 19.6704 8.65808 19.6504 8.55908 19.6504H8.54908C8.13508 19.6504 7.80408 19.9864 7.80408 20.4004C7.80408 20.7214 8.00808 20.9954 8.29308 21.1024C8.95908 21.3794 9.66908 21.5744 10.4031 21.6824C10.4401 21.6874 10.4771 21.6904 10.5141 21.6904C10.8801 21.6904 11.2001 21.4234 11.2551 21.0504C11.3151 20.6394 11.0311 20.2594 10.6221 20.1984Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.50977 17.2518C5.25177 16.9278 4.77677 16.8758 4.45577 17.1378C4.13277 17.3968 4.08177 17.8688 4.34177 18.1908C4.72577 18.6688 5.16077 19.1058 5.63477 19.4928C5.77477 19.6058 5.94177 19.6608 6.10877 19.6608C6.32577 19.6608 6.54177 19.5658 6.69077 19.3848C6.95077 19.0638 6.90377 18.5908 6.58177 18.3288C6.18877 18.0098 5.82777 17.6478 5.50977 17.2518Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.18655 14.9722C3.97255 14.4142 3.82255 13.8592 3.74155 13.3202C3.67955 12.9092 3.29055 12.6282 2.88855 12.6902C2.47855 12.7512 2.19655 13.1332 2.25855 13.5422C2.35555 14.1892 2.53355 14.8512 2.78655 15.5092C2.90055 15.8082 3.18455 15.9912 3.48655 15.9912C3.57655 15.9912 3.66655 15.9752 3.75455 15.9412C4.14155 15.7922 4.33455 15.3582 4.18655 14.9722Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.88682 11.312C2.92482 11.318 2.96282 11.321 3.00082 11.321C3.36582 11.321 3.68482 11.055 3.74082 10.684C3.83782 10.051 3.99982 9.467 4.23682 8.9C4.39582 8.518 4.21482 8.079 3.83182 7.919C3.45282 7.76 3.01082 7.941 2.85182 8.324C2.57282 8.995 2.37182 9.712 2.25882 10.458C2.19682 10.867 2.47782 11.25 2.88682 11.312Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.73928 4.39839C5.25428 4.80739 4.83428 5.22039 4.45428 5.66139C4.18228 5.97439 4.21828 6.44839 4.53128 6.71839C4.67328 6.84139 4.84728 6.90139 5.02128 6.90139C5.23128 6.90139 5.44128 6.81339 5.58928 6.64139C5.91728 6.26039 6.28328 5.90239 6.70628 5.54439C7.02328 5.27739 7.06228 4.80439 6.79628 4.48839C6.52928 4.17139 6.05528 4.13139 5.73928 4.39839Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.70115 4.30122C8.79315 4.30122 8.88715 4.28422 8.97715 4.24822C9.52515 4.03122 10.0781 3.88222 10.6201 3.80322C11.0301 3.74322 11.3141 3.36422 11.2551 2.95322C11.1961 2.54222 10.8091 2.26522 10.4051 2.31922C9.74715 2.41422 9.08115 2.59422 8.42515 2.85422C8.04015 3.00622 7.85115 3.44222 8.00415 3.82722C8.12015 4.12122 8.40215 4.30122 8.70115 4.30122Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.626 10.4602C21.523 9.7752 21.346 9.1082 21.102 8.4862C20.731 7.5092 20.209 6.6072 19.555 5.8142C19.177 5.3422 18.739 4.9012 18.266 4.5122C17.455 3.8192 16.559 3.2782 15.618 2.9102C14.944 2.6282 14.226 2.4292 13.482 2.3192C13.071 2.2652 12.691 2.5432 12.631 2.9522C12.57 3.3622 12.855 3.7432 13.264 3.8042C13.883 3.8952 14.48 4.0602 15.055 4.3002C15.855 4.6132 16.608 5.0682 17.303 5.6612C17.707 5.9942 18.071 6.3602 18.39 6.7602C18.946 7.4352 19.387 8.1942 19.702 9.0252C19.908 9.5522 20.057 10.1092 20.145 10.6922C20.216 11.1252 20.25 11.5542 20.25 12.0022C20.25 12.4512 20.216 12.8792 20.143 13.3202C20.051 13.9342 19.89 14.5142 19.644 15.1082C19.331 15.9052 18.877 16.6582 18.284 17.3562C17.958 17.7552 17.581 18.1282 17.189 18.4402C16.506 18.9992 15.741 19.4432 14.919 19.7612C14.353 19.9752 13.796 20.1222 13.266 20.1992C12.855 20.2592 12.571 20.6392 12.631 21.0492C12.685 21.4232 13.006 21.6912 13.372 21.6912C13.408 21.6912 13.444 21.6892 13.48 21.6842C14.119 21.5912 14.781 21.4162 15.454 21.1622C16.43 20.7852 17.332 20.2612 18.131 19.6072C18.598 19.2352 19.052 18.7862 19.436 18.3172C20.128 17.5022 20.668 16.6062 21.035 15.6692C21.322 14.9742 21.517 14.2782 21.625 13.5532C21.709 13.0402 21.75 12.5332 21.75 12.0022C21.75 11.4722 21.709 10.9642 21.626 10.4602Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8321 13.5154C15.2931 13.0834 15.5451 12.5394 15.5421 11.9844C15.5401 11.4314 15.2861 10.8954 14.8281 10.4734C13.9361 9.65545 12.9021 9.00045 11.7631 8.53045C11.1861 8.28745 10.5771 8.31045 10.0881 8.59245C9.60814 8.86845 9.30114 9.35345 9.22114 9.96645C9.07814 11.2524 9.07814 12.6144 9.22214 14.0234C9.29714 14.6284 9.59414 15.1154 10.0601 15.3924C10.3231 15.5494 10.6211 15.6274 10.9381 15.6274C11.2021 15.6274 11.4791 15.5744 11.7601 15.4634C12.8731 15.0014 13.9331 14.3294 14.8261 13.5224C14.8281 13.5194 14.8301 13.5174 14.8321 13.5154Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -5532,6 +7604,114 @@ class _VideoMovieLoadingPlayLight {
   /// Loading play — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Loading play',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.54883 20.3984H8.55856C9.17833 20.6563 9.83605 20.8372 10.5132 20.9423" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.10792 18.9106C5.67885 18.5574 5.27896 18.1576 4.92578 17.7188" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.48648 15.2404C3.26756 14.6683 3.09535 14.0582 3 13.4297" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.54388 8.60547C3.28605 9.22524 3.10508 9.88296 3 10.5699" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.22308 4.97266C5.78428 5.33557 5.3844 5.72572 5.02148 6.1548" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.5128 3.05859C9.89304 3.15394 9.283 3.31643 8.70117 3.54507" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.373 3.05859C14.0502 3.16367 14.7079 3.34464 15.3277 3.60248C16.2238 3.95469 17.0528 4.45965 17.7776 5.07942C18.2164 5.44233 18.6163 5.84222 18.9695 6.28102C19.5698 7.01463 20.0563 7.84456 20.3997 8.75038C20.6284 9.33124 20.7899 9.94225 20.8852 10.5708C20.9621 11.0388 21 11.5145 21 12.001C21 12.4875 20.9621 12.9643 20.8852 13.4313C20.7811 14.1172 20.5992 14.7564 20.3423 15.3762V15.385C19.9891 16.282 19.4842 17.1022 18.8644 17.8261C18.5122 18.2649 18.1016 18.6658 17.6628 19.018C16.9292 19.6193 16.0905 20.1145 15.1847 20.458C14.6029 20.6769 13.9928 20.8481 13.373 20.9435" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4903 13.1453C13.6838 13.8818 12.6768 14.5444 11.5676 14.9958C10.6238 15.3714 9.83378 14.9034 9.718 13.9645C9.57692 12.581 9.57984 11.2568 9.718 10.0201C9.84448 9.04524 10.7153 8.63076 11.5676 8.9927C12.6592 9.44415 13.639 10.0571 14.4903 10.8442C15.2181 11.5088 15.2347 12.4545 14.4903 13.1453Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Loading play 1 icon with style variants.
+class _VideoMovieLoadingPlay1Icon {
+  const _VideoMovieLoadingPlay1Icon();
+
+  /// bold style
+  _VideoMovieLoadingPlay1Bold get bold => const _VideoMovieLoadingPlay1Bold();
+  /// bulk style
+  _VideoMovieLoadingPlay1Bulk get bulk => const _VideoMovieLoadingPlay1Bulk();
+  /// light style
+  _VideoMovieLoadingPlay1Light get light => const _VideoMovieLoadingPlay1Light();
+  /// outline style
+  _VideoMovieLoadingPlay1Outline get outline => const _VideoMovieLoadingPlay1Outline();
+  /// twoTone style
+  _VideoMovieLoadingPlay1Twotone get twoTone => const _VideoMovieLoadingPlay1Twotone();
+  /// broken style
+  _VideoMovieLoadingPlay1Broken get broken => const _VideoMovieLoadingPlay1Broken();
+}
+
+/// Loading play 1 — bulk style variants.
+class _VideoMovieLoadingPlay1Bulk {
+  const _VideoMovieLoadingPlay1Bulk();
+
+  /// Loading play 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Loading play 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.91487 13.3261C4.32787 13.2961 4.63787 12.9351 4.60787 12.5221C4.53887 11.5961 4.63187 10.6611 4.88187 9.74612C4.99187 9.34712 4.75687 8.93312 4.35687 8.82412C3.95987 8.71912 3.54587 8.95012 3.43587 9.34912C3.13987 10.4301 3.03087 11.5351 3.11187 12.6341C3.14087 13.0271 3.46987 13.3281 3.85887 13.3281C3.87687 13.3281 3.89587 13.3271 3.91487 13.3261Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.61016 7.37808C5.83916 7.37808 6.06716 7.27308 6.21416 7.07308C6.60016 6.55108 7.04816 6.07208 7.54716 5.65008C7.86316 5.38408 7.90316 4.91008 7.63516 4.59408C7.36916 4.27708 6.89616 4.23808 6.57816 4.50608C5.99116 5.00208 5.46316 5.56608 5.00716 6.18308C4.76116 6.51608 4.83216 6.98508 5.16516 7.23208C5.29916 7.33008 5.45516 7.37808 5.61016 7.37808Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.24966 15.2751C5.08266 14.8961 4.64166 14.7261 4.26066 14.8911C3.88166 15.0581 3.70966 15.5021 3.87766 15.8801C4.60566 17.5311 5.77366 18.9471 7.25666 19.9741C7.38666 20.0651 7.53566 20.1081 7.68366 20.1081C7.92066 20.1081 8.15466 19.9961 8.29966 19.7851C8.53666 19.4451 8.45166 18.9771 8.11066 18.7421C6.85566 17.8721 5.86666 16.6721 5.24966 15.2751Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.932 18.4969C16.637 19.5099 15.091 20.1049 13.458 20.2199C12.645 20.2829 11.83 20.2239 11.035 20.0469C10.631 19.9549 10.229 20.2109 10.139 20.6139C10.049 21.0179 10.303 21.4199 10.707 21.5099C11.405 21.6659 12.115 21.7439 12.825 21.7439C13.073 21.7439 13.321 21.7349 13.569 21.7159C15.495 21.5799 17.324 20.8759 18.856 19.6789C19.182 19.4239 19.24 18.9519 18.985 18.6259C18.729 18.2979 18.258 18.2409 17.932 18.4969Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.446 2.2583C12.032 2.2743 11.71 2.6223 11.725 3.0353C11.741 3.4493 12.098 3.7953 12.504 3.7563C17.023 3.5913 20.898 7.1393 21.074 11.6853C21.137 13.3233 20.71 14.9263 19.842 16.3213C19.622 16.6723 19.73 17.1343 20.081 17.3543C20.204 17.4313 20.342 17.4673 20.477 17.4673C20.727 17.4673 20.972 17.3423 21.114 17.1133C22.143 15.4643 22.647 13.5683 22.573 11.6273C22.365 6.2553 17.836 2.0373 12.446 2.2583Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0366 15.374C11.2986 15.529 11.5956 15.607 11.9106 15.607C12.1746 15.607 12.4516 15.553 12.7306 15.442C13.8316 14.994 14.8866 14.325 15.7826 13.509L15.7866 13.506C16.2436 13.08 16.4946 12.542 16.4946 11.992C16.4936 11.441 16.2426 10.905 15.7846 10.481C14.9026 9.66997 13.8756 9.02097 12.7376 8.55997C12.1656 8.31497 11.5566 8.33797 11.0696 8.61497C10.5916 8.88997 10.2866 9.37197 10.2076 9.98297C10.0636 11.253 10.0636 12.608 10.2076 14.02C10.2816 14.619 10.5756 15.1 11.0366 15.374Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Loading play 1 — broken style variants.
+class _VideoMovieLoadingPlay1Broken {
+  const _VideoMovieLoadingPlay1Broken();
+
+  /// Loading play 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Loading play 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.40969 9.54688C3.14699 10.5101 3.03315 11.5288 3.11099 12.5806" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.86133 6.63001C5.28165 6.05693 5.76911 5.53737 6.313 5.07812" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.9338 19.3601C5.57748 18.4231 4.49261 17.1164 3.81445 15.5781" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6959 13.1414C13.8941 13.873 12.8939 14.5327 11.7915 14.9803C10.8546 15.3529 10.0684 14.8879 9.9536 13.9557C9.81349 12.5809 9.81641 11.2645 9.9536 10.0366C10.0791 9.06755 10.9441 8.65598 11.7915 9.01501C12.8764 9.46355 13.8494 10.0726 14.6959 10.8549C15.4188 11.5155 15.4363 12.4545 14.6959 13.1414Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.6451 19.0859C16.2888 20.1484 14.6143 20.8363 12.7666 20.9745C11.8569 21.0426 10.9686 20.9706 10.1221 20.7799" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.2755 8.28111C18.806 5.04991 15.4914 2.86163 11.7246 3.00681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.7285 16.7245C20.6382 15.2563 21.1452 13.5195 21.0741 11.6641" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Loading play 1 — twoTone style variants.
+class _VideoMovieLoadingPlay1Twotone {
+  const _VideoMovieLoadingPlay1Twotone();
+
+  /// Loading play 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Loading play 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.65969 9.54688C3.39699 10.5101 3.28315 11.5288 3.36099 12.5806" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.11133 6.63001C5.53165 6.05693 6.01911 5.53737 6.563 5.07812" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.1838 19.3601C5.82748 18.4231 4.74261 17.1164 4.06445 15.5781" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.9459 13.1414C14.1441 13.873 13.1439 14.5327 12.0415 14.9803C11.1046 15.3529 10.3184 14.8879 10.2036 13.9557C10.0635 12.5809 10.0664 11.2645 10.2036 10.0366C10.3291 9.06755 11.1941 8.65598 12.0415 9.01501C13.1264 9.46355 14.0994 10.0726 14.9459 10.8549C15.6688 11.5155 15.6863 12.4545 14.9459 13.1414Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.8951 19.0859C16.5388 20.1484 14.8643 20.8363 13.0166 20.9745C12.1069 21.0426 11.2186 20.9706 10.3721 20.7799" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.9783 16.7238C20.888 15.2555 21.3949 13.5188 21.3239 11.6633C21.1322 6.69048 16.9475 2.81514 11.9746 3.00681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Loading play 1 — outline style variants.
+class _VideoMovieLoadingPlay1Outline {
+  const _VideoMovieLoadingPlay1Outline();
+
+  /// Loading play 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Loading play 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.02632 13.3301C2.8371 13.3299 2.65496 13.2581 2.51643 13.1293C2.37789 13.0004 2.2932 12.8239 2.27932 12.6352C2.19931 11.5294 2.30854 10.4182 2.60232 9.34916C2.62655 9.25236 2.66986 9.16135 2.7297 9.08149C2.78954 9.00163 2.86471 8.93452 2.95082 8.88409C3.03693 8.83365 3.13224 8.80091 3.23117 8.78778C3.33009 8.77464 3.43064 8.78138 3.52693 8.8076C3.62321 8.83381 3.71329 8.87898 3.7919 8.94045C3.87051 9.00193 3.93606 9.07847 3.98471 9.1656C4.03336 9.25273 4.06414 9.3487 4.07524 9.44787C4.08633 9.54704 4.07752 9.64743 4.04933 9.74316C3.80079 10.6482 3.70813 11.589 3.77532 12.5252C3.78882 12.723 3.72353 12.9181 3.59371 13.068C3.46388 13.2179 3.28005 13.3103 3.08232 13.3252C3.06376 13.3278 3.04507 13.3295 3.02632 13.3301V13.3301Z" fill="black"/> <path d="M4.78071 7.38019C4.64244 7.37938 4.50708 7.34034 4.3896 7.26742C4.27213 7.19449 4.17709 7.09051 4.11501 6.96696C4.05292 6.84341 4.0262 6.7051 4.0378 6.56731C4.04939 6.42953 4.09885 6.29763 4.18071 6.18619C4.63665 5.56588 5.16431 5.00164 5.75271 4.50519C5.90468 4.37683 6.10142 4.31408 6.29965 4.33077C6.49787 4.34746 6.68135 4.44221 6.80971 4.59418C6.93807 4.74615 7.00082 4.94289 6.98413 5.14112C6.96743 5.33935 6.87268 5.52283 6.72071 5.65119C6.22245 6.07134 5.77568 6.54901 5.38971 7.07419C5.31958 7.16967 5.22783 7.24717 5.12197 7.30036C5.01612 7.35355 4.89917 7.38091 4.78071 7.38019Z" fill="black"/> <path d="M6.84944 20.113C6.6972 20.1131 6.54857 20.0667 6.42344 19.98C4.93971 18.952 3.77005 17.5328 3.04444 15.88C2.9671 15.6986 2.96435 15.494 3.03676 15.3105C3.10918 15.1271 3.25094 14.9796 3.43135 14.8999C3.61176 14.8202 3.8163 14.8148 4.00067 14.8848C4.18505 14.9548 4.33442 15.0947 4.41644 15.274C5.03111 16.672 6.02105 17.8724 7.27644 18.742C7.40802 18.833 7.50709 18.9636 7.55917 19.1148C7.61125 19.266 7.61363 19.43 7.56594 19.5826C7.51825 19.7353 7.423 19.8687 7.29409 19.9634C7.16519 20.0581 7.00939 20.1092 6.84944 20.109V20.113Z" fill="black"/> <path d="M11.0794 15.8643C10.7279 15.8675 10.3822 15.7748 10.0794 15.5963C9.81086 15.4312 9.58462 15.2057 9.4188 14.9376C9.25297 14.6695 9.15216 14.3663 9.12442 14.0523C8.97936 12.6915 8.97936 11.3191 9.12442 9.95828C9.15408 9.63906 9.259 9.33142 9.43057 9.06059C9.60214 8.78977 9.83547 8.56347 10.1114 8.40028C10.3992 8.24282 10.7197 8.15444 11.0476 8.14212C11.3754 8.1298 11.7016 8.19387 12.0004 8.32928C13.1496 8.79913 14.2064 9.46919 15.1214 10.3083C15.3687 10.5158 15.5675 10.775 15.7039 11.0675C15.8403 11.3601 15.911 11.679 15.911 12.0018C15.911 12.3246 15.8403 12.6435 15.7039 12.936C15.5675 13.2286 15.3687 13.4877 15.1214 13.6953V13.6953C14.2028 14.5339 13.1436 15.2041 11.9924 15.6753C11.7028 15.7955 11.393 15.8597 11.0794 15.8643V15.8643ZM11.1054 9.64128C11.0199 9.63951 10.9354 9.66021 10.8604 9.70129C10.7893 9.75067 10.7304 9.81558 10.6881 9.89113C10.6458 9.96667 10.6213 10.0508 10.6164 10.1373C10.4838 11.3828 10.4838 12.6388 10.6164 13.8843C10.622 13.967 10.6453 14.0475 10.6849 14.1203C10.7244 14.1931 10.7791 14.2566 10.8454 14.3063C10.9381 14.3472 11.0388 14.3667 11.1401 14.3634C11.2413 14.3601 11.3406 14.3341 11.4304 14.2873C12.4141 13.8836 13.3192 13.3102 14.1044 12.5933C14.1938 12.5195 14.2672 12.4282 14.32 12.3251C14.3728 12.2219 14.4039 12.109 14.4114 11.9933C14.4032 11.8801 14.3719 11.7698 14.3195 11.6692C14.267 11.5686 14.1945 11.4798 14.1064 11.4083C13.3192 10.687 12.4101 10.1114 11.4214 9.70828C11.3214 9.66564 11.2141 9.64288 11.1054 9.64128V9.64128Z" fill="black"/> <path d="M12.0077 21.7493C11.2897 21.7492 10.574 21.6691 9.87374 21.5103C9.77721 21.489 9.68584 21.4489 9.60488 21.3922C9.52392 21.3355 9.45497 21.2633 9.40199 21.1799C9.34901 21.0964 9.31305 21.0033 9.29617 20.906C9.27929 20.8086 9.28183 20.7088 9.30365 20.6124C9.32546 20.516 9.36611 20.4248 9.42327 20.3442C9.48042 20.2635 9.55296 20.195 9.6367 20.1425C9.72044 20.09 9.81373 20.0545 9.91121 20.0382C10.0087 20.0219 10.1085 20.025 10.2047 20.0473C10.9986 20.2273 11.815 20.2873 12.6267 20.2253C14.2564 20.1054 15.8135 19.5032 17.0997 18.4953C17.2562 18.3728 17.455 18.3174 17.6522 18.3414C17.8495 18.3654 18.0292 18.4668 18.1517 18.6233C18.2743 18.7798 18.3296 18.9785 18.3056 19.1758C18.2816 19.3731 18.1802 19.5528 18.0237 19.6753C16.5049 20.8674 14.6653 21.5797 12.7397 21.7213C12.4957 21.7403 12.2507 21.7493 12.0077 21.7493Z" fill="black"/> <path d="M19.6477 17.4761C19.514 17.4764 19.3826 17.4408 19.2673 17.3731C19.152 17.3054 19.0569 17.2081 18.9919 17.0913C18.9269 16.9744 18.8944 16.8423 18.8977 16.7086C18.901 16.575 18.94 16.4446 19.0107 16.3311C19.7971 15.0585 20.2226 13.5959 20.2413 12.1C20.2601 10.6041 19.8715 9.13129 19.1171 7.83937C18.3628 6.54744 17.2712 5.48509 15.9593 4.76614C14.6473 4.04719 13.1645 3.69874 11.6697 3.75813C11.5712 3.76187 11.4729 3.74619 11.3805 3.71196C11.2881 3.67772 11.2033 3.62562 11.131 3.55862C11.0587 3.49162 11.0003 3.41103 10.9592 3.32147C10.918 3.23191 10.8949 3.13512 10.8912 3.03663C10.8874 2.93814 10.9031 2.83987 10.9374 2.74745C10.9716 2.65502 11.0237 2.57024 11.0907 2.49795C11.1577 2.42566 11.2383 2.36727 11.3278 2.32612C11.4174 2.28497 11.5142 2.26187 11.6127 2.25813C13.3803 2.18586 15.1342 2.59658 16.6859 3.44615C18.2377 4.29572 19.5286 5.55203 20.42 7.0801C21.3115 8.60818 21.7697 10.3503 21.7455 12.1192C21.7213 13.8881 21.2156 15.617 20.2827 17.1201C20.2158 17.2286 20.1224 17.3182 20.0113 17.3805C19.9002 17.4428 19.775 17.4757 19.6477 17.4761Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Loading play 1 — bold style variants.
+class _VideoMovieLoadingPlay1Bold {
+  const _VideoMovieLoadingPlay1Bold();
+
+  /// Loading play 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Loading play 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.91487 13.3261C4.32787 13.2961 4.63787 12.9351 4.60787 12.5221C4.53887 11.5961 4.63187 10.6611 4.88187 9.74612C4.99187 9.34712 4.75687 8.93312 4.35687 8.82412C3.95987 8.71912 3.54587 8.95012 3.43587 9.34912C3.13987 10.4301 3.03087 11.5351 3.11187 12.6341C3.14087 13.0271 3.46987 13.3281 3.85887 13.3281C3.87687 13.3281 3.89587 13.3271 3.91487 13.3261Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.61016 7.37808C5.83916 7.37808 6.06716 7.27308 6.21416 7.07308C6.60016 6.55108 7.04816 6.07208 7.54716 5.65008C7.86316 5.38408 7.90316 4.91008 7.63516 4.59408C7.36916 4.27708 6.89616 4.23808 6.57816 4.50608C5.99116 5.00208 5.46316 5.56608 5.00716 6.18308C4.76116 6.51608 4.83216 6.98508 5.16516 7.23208C5.29916 7.33008 5.45516 7.37808 5.61016 7.37808Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.24966 15.2751C5.08266 14.8961 4.64166 14.7261 4.26066 14.8911C3.88166 15.0581 3.70966 15.5021 3.87766 15.8801C4.60566 17.5311 5.77366 18.9471 7.25666 19.9741C7.38666 20.0651 7.53566 20.1081 7.68366 20.1081C7.92066 20.1081 8.15466 19.9961 8.29966 19.7851C8.53666 19.4451 8.45166 18.9771 8.11066 18.7421C6.85566 17.8721 5.86666 16.6721 5.24966 15.2751Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0364 15.372C11.2984 15.527 11.5954 15.605 11.9104 15.605C12.1744 15.605 12.4514 15.551 12.7304 15.44C13.8314 14.992 14.8864 14.323 15.7824 13.507L15.7864 13.504C16.2434 13.078 16.4944 12.54 16.4944 11.99C16.4934 11.439 16.2424 10.903 15.7844 10.479C14.9024 9.66801 13.8754 9.01901 12.7374 8.55801C12.1654 8.31301 11.5564 8.33601 11.0694 8.61301C10.5914 8.88801 10.2864 9.37001 10.2074 9.98101C10.0634 11.251 10.0634 12.606 10.2074 14.018C10.2814 14.617 10.5754 15.098 11.0364 15.372Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.932 18.4969C16.637 19.5099 15.091 20.1049 13.458 20.2199C12.645 20.2829 11.83 20.2239 11.035 20.0469C10.631 19.9549 10.229 20.2109 10.139 20.6139C10.049 21.0179 10.303 21.4199 10.707 21.5099C11.405 21.6659 12.115 21.7439 12.825 21.7439C13.073 21.7439 13.321 21.7349 13.569 21.7159C15.495 21.5799 17.324 20.8759 18.856 19.6789C19.182 19.4239 19.24 18.9519 18.985 18.6259C18.729 18.2979 18.258 18.2409 17.932 18.4969Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.446 2.2583C12.032 2.2743 11.71 2.6223 11.725 3.0353C11.741 3.4493 12.098 3.7953 12.504 3.7563C17.023 3.5913 20.898 7.1393 21.074 11.6853C21.137 13.3233 20.71 14.9263 19.842 16.3213C19.622 16.6723 19.73 17.1343 20.081 17.3543C20.204 17.4313 20.342 17.4673 20.477 17.4673C20.727 17.4673 20.972 17.3423 21.114 17.1133C22.143 15.4643 22.647 13.5683 22.573 11.6273C22.365 6.2553 17.836 2.0373 12.446 2.2583Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Loading play 1 — light style variants.
+class _VideoMovieLoadingPlay1Light {
+  const _VideoMovieLoadingPlay1Light();
+
+  /// Loading play 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Loading play 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.32473 9.54688C3.06203 10.5101 2.94819 11.5288 3.02603 12.5806" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.77734 6.63001C5.19767 6.05693 5.68512 5.53737 6.22902 5.07812" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.84981 19.3601C5.49349 18.4231 4.40863 17.1164 3.73047 15.5781" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6119 13.1414C13.8101 13.873 12.8099 14.5327 11.7076 14.9803C10.7706 15.3529 9.98442 14.8879 9.86961 13.9557C9.72951 12.5809 9.73243 11.2645 9.86961 10.0366C9.99513 9.06755 10.8601 8.65598 11.7076 9.01501C12.7924 9.46355 13.7654 10.0726 14.6119 10.8549C15.3348 11.5155 15.3523 12.4545 14.6119 13.1414Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5601 19.0859C16.2038 20.1484 14.5293 20.8363 12.6816 20.9745C11.7719 21.0426 10.8836 20.9706 10.0371 20.7799" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.6443 16.7238C20.554 15.2555 21.0609 13.5188 20.9899 11.6633C20.7982 6.69048 16.6135 2.81514 11.6406 3.00681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.light,
@@ -5565,7 +7745,7 @@ class _VideoMovieGifFormatBulk {
   /// Gif format — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Gif format',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.767 3.67188H6.90098C4.16898 3.67188 2.33398 5.58888 2.33398 8.44187V15.5419C2.33398 18.4009 4.16898 20.3219 6.90098 20.3219H18.766C21.498 20.3219 23.334 18.4009 23.334 15.5419V8.44187C23.334 5.58888 21.498 3.67188 18.767 3.67188Z" fill="black"/> <path d="M17.1099 9.86336H19.4749C19.8889 9.86336 20.2249 9.52736 20.2249 9.11336C20.2249 8.69936 19.8889 8.36336 19.4749 8.36336H16.3599C15.9459 8.36336 15.6099 8.69936 15.6099 9.11336V14.8734C15.6099 15.2874 15.9459 15.6234 16.3599 15.6234C16.7739 15.6234 17.1099 15.2874 17.1099 14.8734V13.2224H18.9959C19.4099 13.2224 19.7459 12.8864 19.7459 12.4724C19.7459 12.0584 19.4099 11.7224 18.9959 11.7224H17.1099V9.86336Z" fill="black"/> <path d="M13.3579 15.6234C13.7719 15.6234 14.1079 15.2874 14.1079 14.8734V9.11336C14.1079 8.69936 13.7719 8.36336 13.3579 8.36336C12.9439 8.36336 12.6079 8.69936 12.6079 9.11336V14.8734C12.6079 15.2874 12.9439 15.6234 13.3579 15.6234Z" fill="black"/> <path d="M8.94286 15.7034C10.4709 15.7034 11.3839 14.9224 11.3839 13.6134V11.9934C11.3839 11.5794 11.0479 11.2434 10.6339 11.2434H8.94286C8.52886 11.2434 8.19286 11.5794 8.19286 11.9934C8.19286 12.4074 8.52886 12.7434 8.94286 12.7434H9.88385V13.6134C9.88385 13.8764 9.88385 14.2034 8.94286 14.2034C8.39486 14.2034 7.91486 14.0044 7.55486 13.6284C7.13986 13.1964 6.91786 12.5564 6.94586 11.8744C6.97086 11.2744 7.24086 10.6994 7.68486 10.2944C8.07486 9.93836 8.56086 9.75936 9.05786 9.78236C9.35586 9.79636 9.64486 9.87336 9.91685 10.0114C10.2869 10.1974 10.7379 10.0504 10.9259 9.68236C11.1129 9.31236 10.9659 8.86136 10.5959 8.67436C10.1339 8.43936 9.63986 8.30736 9.13186 8.28436C8.24386 8.24636 7.36386 8.55736 6.67486 9.18436C5.93586 9.85736 5.48886 10.8144 5.44686 11.8114C5.40286 12.9014 5.77586 13.9414 6.47186 14.6674C7.11386 15.3354 7.99086 15.7034 8.94286 15.7034Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.767 3.67188H6.90098C4.16998 3.67188 2.33398 5.58887 2.33398 8.44287V15.5419C2.33398 18.4019 4.16998 20.3229 6.90098 20.3229H18.766C21.499 20.3229 23.334 18.4019 23.334 15.5419V8.44287C23.334 5.58887 21.499 3.67188 18.767 3.67188Z" fill="black"/> <path d="M18.163 10.5282C18.445 10.8332 18.92 10.8492 19.223 10.5662C19.526 10.2842 19.543 9.80919 19.262 9.50619C18.821 9.03319 18.267 8.75319 17.524 8.66819C16.3 8.66819 15.304 9.66419 15.304 10.8872V14.7372C15.304 15.1512 15.64 15.4872 16.054 15.4872C16.468 15.4872 16.804 15.1512 16.804 14.7372V13.2672H18.269C18.683 13.2672 19.019 12.9312 19.019 12.5172C19.019 12.1032 18.683 11.7672 18.269 11.7672H16.804V10.8872C16.804 10.4912 17.127 10.1682 17.433 10.1622C17.733 10.1992 17.965 10.3152 18.163 10.5282Z" fill="black"/> <path d="M13.277 9.74819C13.691 9.74819 14.027 9.41219 14.027 8.99819V8.98719C14.027 8.57319 13.691 8.24219 13.277 8.24219C12.863 8.24219 12.527 8.58419 12.527 8.99819C12.527 9.41219 12.863 9.74819 13.277 9.74819Z" fill="black"/> <path d="M13.277 15.4872C13.691 15.4872 14.027 15.1512 14.027 14.7372V11.6682C14.027 11.2532 13.691 10.9182 13.277 10.9182C12.863 10.9182 12.527 11.2532 12.527 11.6682V14.7372C12.527 15.1512 12.863 15.4872 13.277 15.4872Z" fill="black"/> <path d="M9.19098 15.4872C10.64 15.4872 11.505 14.7442 11.505 13.4982V11.9982C11.505 11.5842 11.169 11.2482 10.755 11.2482H9.19098C8.77698 11.2482 8.44098 11.5842 8.44098 11.9982C8.44098 12.4122 8.77698 12.7482 9.19098 12.7482H10.005V13.4982C10.005 13.7152 10.005 13.9872 9.19098 13.9872C8.69898 13.9872 8.26798 13.8092 7.94598 13.4722C7.57398 13.0852 7.37498 12.5072 7.40098 11.8892C7.42298 11.3522 7.66498 10.8342 8.06498 10.4692C8.41598 10.1502 8.85498 9.99219 9.28898 10.0062C9.56298 10.0212 9.82798 10.0902 10.077 10.2122C10.449 10.3932 10.899 10.2392 11.08 9.86719C11.262 9.49519 11.108 9.04519 10.736 8.86419C10.305 8.65319 9.84498 8.53419 9.36598 8.50819C8.52898 8.46019 7.70198 8.76919 7.05398 9.36119C6.36098 9.99419 5.94098 10.8922 5.90198 11.8272C5.85898 12.8512 6.20898 13.8302 6.86298 14.5102C7.46698 15.1402 8.29398 15.4872 9.19098 15.4872Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -5580,7 +7760,7 @@ class _VideoMovieGifFormatBroken {
   /// Gif format — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Gif format',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.084 19.8285H6.15101C3.65155 19.8285 2.08398 18.0588 2.08398 15.554V8.45125C2.08398 5.94746 3.64398 4.17773 6.15101 4.17773H18.0159C20.524 4.17773 22.084 5.94746 22.084 8.45125V15.554C22.084 18.0588 20.524 19.8285 18.017 19.8285H16.0505" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.724 9.125H15.6094V14.8764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.245 12.4805H15.6094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6074 9.125V14.8764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.50592 9.34501C9.15241 9.16987 8.75889 9.06284 8.34268 9.0423C6.79349 8.96447 5.51132 10.2996 5.44646 11.8488C5.37619 13.5526 6.507 14.9601 8.19241 14.9601C9.17943 14.9601 9.88322 14.6077 9.88322 13.6207V11.9991H8.19241" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.084 19.8285H6.15101C3.65155 19.8285 2.08398 18.0588 2.08398 15.554V8.45125C2.08398 5.94746 3.64398 4.17773 6.15101 4.17773H18.0159C20.524 4.17773 22.084 5.94746 22.084 8.45125V15.554C22.084 18.0588 20.524 19.8285 18.017 19.8285H16.0505" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.65696 9.54467C9.32939 9.38251 8.96615 9.28305 8.5802 9.26467C7.14777 9.19332 5.96182 10.4268 5.90236 11.8603C5.83642 13.4366 6.8829 14.7382 8.44182 14.7382C9.35533 14.7382 10.0061 14.4117 10.0061 13.4993V11.9998H8.44182" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5264 11.6725V14.7395M12.5264 8.99219V9.003" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9622 10.0245C17.6552 9.68608 17.2617 9.48175 16.7741 9.41797C15.9611 9.41797 15.3027 10.0774 15.3027 10.8904V14.738" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.519 12.5195H15.3027" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -5595,7 +7775,7 @@ class _VideoMovieGifFormatTwotone {
   /// Gif format — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Gif format',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.40101 4.17578H18.267C20.774 4.17578 22.334 5.94551 22.334 8.45038V15.5531C22.334 18.0569 20.774 19.8266 18.2659 19.8266H6.40101C3.89398 19.8266 2.33398 18.0569 2.33398 15.5531V8.45038C2.33398 5.94551 3.90155 4.17578 6.40101 4.17578Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.974 9.125H15.8594V14.8764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.495 12.4805H15.8594" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8574 9.125V14.8764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.75592 9.34501C9.40241 9.16987 9.00889 9.06284 8.59268 9.0423C7.04349 8.96447 5.76132 10.2996 5.69646 11.8488C5.62619 13.5526 6.757 14.9601 8.44241 14.9601C9.42943 14.9601 10.1332 14.6077 10.1332 13.6207V11.9991H8.44241" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.40101 4.17578H18.267C20.774 4.17578 22.334 5.94551 22.334 8.45038V15.5531C22.334 18.0569 20.774 19.8266 18.2659 19.8266H6.40101C3.89398 19.8266 2.33398 18.0569 2.33398 15.5531V8.45038C2.33398 5.94551 3.90155 4.17578 6.40101 4.17578Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.90696 9.54467C9.57939 9.38251 9.21615 9.28305 8.8302 9.26467C7.39777 9.19332 6.21182 10.4268 6.15236 11.8603C6.08642 13.4366 7.1329 14.7382 8.69182 14.7382C9.60533 14.7382 10.2561 14.4117 10.2561 13.4993V11.9998H8.69182" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7764 11.6725V14.7395M12.7764 8.99219V9.003" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2122 10.0245C17.9052 9.68608 17.5117 9.48175 17.0241 9.41797C16.2111 9.41797 15.5527 10.0774 15.5527 10.8904V14.738" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.769 12.5195H15.5527" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -5610,7 +7790,7 @@ class _VideoMovieGifFormatOutline {
   /// Gif format — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Gif format',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.54762 4.86234C3.4083 3.93908 4.63151 3.42578 6.06703 3.42578H17.933C19.3718 3.42578 20.5954 3.93876 21.4556 4.86271C22.3101 5.7806 22.75 7.04313 22.75 8.45038V15.5531C22.75 16.9599 22.31 18.2222 21.4553 19.1399C20.595 20.0637 19.3711 20.5766 17.9319 20.5766H6.06703C4.62823 20.5766 3.40463 20.0636 2.54448 19.1398C1.68997 18.2221 1.25 16.9599 1.25 15.5531V8.45038C1.25 7.04218 1.69238 5.77978 2.54762 4.86234ZM3.64481 5.88516C3.09141 6.47881 2.75 7.35371 2.75 8.45038V15.5531C2.75 16.6501 3.09003 17.5246 3.64227 18.1177C4.18888 18.7047 4.9988 19.0766 6.06703 19.0766H17.9319C19.0008 19.0766 19.8109 18.7046 20.3576 18.1176C20.91 17.5245 21.25 16.6501 21.25 15.5531V8.45038C21.25 7.35276 20.9099 6.47799 20.3577 5.8848C19.8111 5.29766 19.0012 4.92578 17.933 4.92578H6.06703C5.00308 4.92578 4.19278 5.29735 3.64481 5.88516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7754 9.125C14.7754 8.71079 15.1112 8.375 15.5254 8.375H18.64C19.0542 8.375 19.39 8.71079 19.39 9.125C19.39 9.53921 19.0542 9.875 18.64 9.875H16.2754V14.8764C16.2754 15.2906 15.9396 15.6264 15.5254 15.6264C15.1112 15.6264 14.7754 15.2906 14.7754 14.8764V9.125Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7754 12.4805C14.7754 12.0663 15.1112 11.7305 15.5254 11.7305H18.1611C18.5753 11.7305 18.9111 12.0663 18.9111 12.4805C18.9111 12.8947 18.5753 13.2305 18.1611 13.2305H15.5254C15.1112 13.2305 14.7754 12.8947 14.7754 12.4805Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5234 8.375C12.9377 8.375 13.2734 8.71079 13.2734 9.125V14.8764C13.2734 15.2906 12.9377 15.6264 12.5234 15.6264C12.1092 15.6264 11.7734 15.2906 11.7734 14.8764V9.125C11.7734 8.71079 12.1092 8.375 12.5234 8.375Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.61304 11.8175C4.69281 9.91237 6.27295 8.1919 8.29589 8.29333C8.81764 8.31913 9.31155 8.45348 9.75478 8.67306C10.1259 8.85694 10.2778 9.30689 10.0939 9.67805C9.91001 10.0492 9.46006 10.201 9.0889 10.0172C8.8252 9.88652 8.53219 9.80682 8.22163 9.79149C7.14643 9.73747 6.16182 10.687 6.11173 11.88C6.05573 13.2402 6.92762 14.2102 8.10833 14.2102C8.53497 14.2102 8.77509 14.1301 8.89108 14.0481C8.95999 13.9994 9.04914 13.912 9.04914 13.6208V12.7492H8.10833C7.69411 12.7492 7.35833 12.4134 7.35833 11.9992C7.35833 11.5849 7.69411 11.2492 8.10833 11.2492H9.79914C10.2134 11.2492 10.5491 11.5849 10.5491 11.9992V13.6208C10.5491 14.3166 10.2864 14.8989 9.75665 15.2732C9.274 15.6142 8.66872 15.7102 8.10833 15.7102C5.91829 15.7102 4.5286 13.8648 4.61304 11.8175Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.54762 4.86234C3.4083 3.93908 4.63151 3.42578 6.06703 3.42578H17.933C19.3718 3.42578 20.5954 3.93876 21.4556 4.86271C22.3101 5.7806 22.75 7.04313 22.75 8.45038V15.5531C22.75 16.9599 22.31 18.2222 21.4553 19.1399C20.595 20.0637 19.3711 20.5766 17.9319 20.5766H6.06703C4.62823 20.5766 3.40463 20.0636 2.54448 19.1398C1.68997 18.2221 1.25 16.9599 1.25 15.5531V8.45038C1.25 7.04218 1.69238 5.77978 2.54762 4.86234ZM3.64481 5.88516C3.09141 6.47881 2.75 7.35371 2.75 8.45038V15.5531C2.75 16.6501 3.09003 17.5246 3.64227 18.1177C4.18888 18.7047 4.9988 19.0766 6.06703 19.0766H17.9319C19.0008 19.0766 19.8109 18.7046 20.3576 18.1176C20.91 17.5245 21.25 16.6501 21.25 15.5531V8.45038C21.25 7.35276 20.9099 6.47799 20.3577 5.8848C19.8111 5.29766 19.0012 4.92578 17.933 4.92578H6.06703C5.00308 4.92578 4.19278 5.29735 3.64481 5.88516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.06991 11.8291C5.1443 10.0392 6.6284 8.42124 8.53359 8.51566C9.02657 8.53925 9.49032 8.66655 9.9066 8.87262C10.2778 9.05639 10.4298 9.5063 10.246 9.87751C10.0622 10.2487 9.61232 10.4007 9.24111 10.2169C9.00248 10.0988 8.74003 10.0272 8.46142 10.0139L8.45978 10.0138C7.5006 9.96606 6.61328 10.8148 6.56861 11.8915L6.5686 11.8918C6.51705 13.1239 7.30415 13.9883 8.35872 13.9883C8.74848 13.9883 8.957 13.9146 9.05061 13.8485C9.08886 13.8215 9.11188 13.7935 9.12929 13.7568C9.14844 13.7164 9.17304 13.6384 9.17304 13.4994V12.7499H8.35872C7.9445 12.7499 7.60872 12.4141 7.60872 11.9999C7.60872 11.5857 7.9445 11.2499 8.35872 11.2499H9.92304C10.3373 11.2499 10.673 11.5857 10.673 11.9999V13.4994C10.673 14.1579 10.4235 14.715 9.91629 15.0735C9.45611 15.3987 8.88247 15.4883 8.35872 15.4883C6.29554 15.4883 4.98969 13.7496 5.0699 11.8294" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4434 8.24219C12.8576 8.24219 13.1934 8.57797 13.1934 8.99219V9.003C13.1934 9.41721 12.8576 9.753 12.4434 9.753C12.0291 9.753 11.6934 9.41721 11.6934 9.003V8.99219C11.6934 8.57797 12.0291 8.24219 12.4434 8.24219ZM12.4434 10.9225C12.8576 10.9225 13.1934 11.2582 13.1934 11.6725V14.7395C13.1934 15.1537 12.8576 15.4895 12.4434 15.4895C12.0291 15.4895 11.6934 15.1537 11.6934 14.7395V11.6725C11.6934 11.2582 12.0291 10.9225 12.4434 10.9225Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4688 10.8904C14.4688 9.66393 15.4622 8.66797 16.6901 8.66797C16.7226 8.66797 16.7551 8.67009 16.7874 8.67431C17.4424 8.75999 18.0013 9.04395 18.4336 9.52048C18.712 9.82724 18.6889 10.3016 18.3822 10.5799C18.0754 10.8582 17.6011 10.8352 17.3228 10.5284C17.1512 10.3393 16.9381 10.2176 16.6452 10.1693C16.268 10.1926 15.9688 10.5061 15.9688 10.8904V14.738C15.9688 15.1522 15.633 15.488 15.2188 15.488C14.8045 15.488 14.4688 15.1522 14.4688 14.738V10.8904Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4688 12.5195C14.4688 12.1053 14.8045 11.7695 15.2188 11.7695H17.435C17.8492 11.7695 18.185 12.1053 18.185 12.5195C18.185 12.9337 17.8492 13.2695 17.435 13.2695H15.2188C14.8045 13.2695 14.4688 12.9337 14.4688 12.5195Z" fill="black"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -5625,7 +7805,7 @@ class _VideoMovieGifFormatBold {
   /// Gif format — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Gif format',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.474 9.86188H17.109V11.7209H18.995C19.409 11.7209 19.745 12.0569 19.745 12.4709C19.745 12.8849 19.409 13.2209 18.995 13.2209H17.109V14.8719C17.109 15.2859 16.773 15.6219 16.359 15.6219C15.945 15.6219 15.609 15.2859 15.609 14.8719V9.11188C15.609 8.69788 15.945 8.36188 16.359 8.36188H19.474C19.888 8.36188 20.224 8.69788 20.224 9.11188C20.224 9.52588 19.888 9.86188 19.474 9.86188ZM14.107 14.8719C14.107 15.2859 13.771 15.6219 13.357 15.6219C12.943 15.6219 12.607 15.2859 12.607 14.8719V9.11188C12.607 8.69788 12.943 8.36188 13.357 8.36188C13.771 8.36188 14.107 8.69788 14.107 9.11188V14.8719ZM11.383 13.6119C11.383 14.9209 10.47 15.7019 8.94198 15.7019C7.98998 15.7019 7.11298 15.3339 6.47098 14.6659C5.77498 13.9399 5.40198 12.8999 5.44598 11.8099C5.48798 10.8129 5.93498 9.85588 6.67398 9.18288C7.36298 8.55587 8.24298 8.24487 9.13098 8.28288C9.63898 8.30587 10.133 8.43788 10.595 8.67287C10.965 8.85988 11.112 9.31087 10.925 9.68087C10.737 10.0489 10.286 10.1959 9.91598 10.0099C9.64398 9.87188 9.35498 9.79488 9.05698 9.78088C8.55998 9.75787 8.07398 9.93687 7.68398 10.2929C7.23998 10.6979 6.96998 11.2729 6.94498 11.8729C6.91698 12.5549 7.13898 13.1949 7.55398 13.6269C7.91398 14.0029 8.39398 14.2019 8.94198 14.2019C9.88298 14.2019 9.88298 13.8749 9.88298 13.6119V12.7419H8.94198C8.52798 12.7419 8.19198 12.4059 8.19198 11.9919C8.19198 11.5779 8.52798 11.2419 8.94198 11.2419H10.633C11.047 11.2419 11.383 11.5779 11.383 11.9919V13.6119ZM18.767 3.67188H6.90098C4.16898 3.67188 2.33398 5.58888 2.33398 8.44187V15.5419C2.33398 18.4009 4.16898 20.3219 6.90098 20.3219H18.766C21.498 20.3219 23.334 18.4009 23.334 15.5419V8.44187C23.334 5.58888 21.498 3.67188 18.767 3.67188Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.223 10.5609C18.92 10.8439 18.445 10.8279 18.163 10.5229C17.965 10.3099 17.733 10.1939 17.433 10.1569C17.127 10.1629 16.804 10.4859 16.804 10.8819V11.7619H18.269C18.683 11.7619 19.019 12.0979 19.019 12.5119C19.019 12.9259 18.683 13.2619 18.269 13.2619H16.804V14.7319C16.804 15.1459 16.468 15.4819 16.054 15.4819C15.64 15.4819 15.304 15.1459 15.304 14.7319V10.8819C15.304 9.65888 16.3 8.66288 17.524 8.66288C18.267 8.74788 18.821 9.02787 19.262 9.50087C19.543 9.80387 19.526 10.2789 19.223 10.5609ZM14.027 8.99288C14.027 9.40688 13.691 9.74288 13.277 9.74288C12.863 9.74288 12.527 9.40688 12.527 8.99288C12.527 8.57888 12.863 8.23688 13.277 8.23688C13.691 8.23688 14.027 8.56787 14.027 8.98187V8.99288ZM14.027 14.7319C14.027 15.1459 13.691 15.4819 13.277 15.4819C12.863 15.4819 12.527 15.1459 12.527 14.7319V11.6629C12.527 11.2479 12.863 10.9129 13.277 10.9129C13.691 10.9129 14.027 11.2479 14.027 11.6629V14.7319ZM11.505 13.4929C11.505 14.7389 10.64 15.4819 9.19098 15.4819C8.29398 15.4819 7.46698 15.1349 6.86298 14.5049C6.20898 13.8249 5.85898 12.8459 5.90198 11.8219C5.94098 10.8869 6.36098 9.98888 7.05398 9.35588C7.70198 8.76388 8.52898 8.45487 9.36598 8.50288C9.84498 8.52888 10.305 8.64788 10.736 8.85888C11.108 9.03988 11.262 9.48988 11.08 9.86188C10.899 10.2339 10.449 10.3879 10.077 10.2069C9.82798 10.0849 9.56298 10.0159 9.28898 10.0009C8.85498 9.98688 8.41598 10.1449 8.06498 10.4639C7.66498 10.8289 7.42298 11.3469 7.40098 11.8839C7.37498 12.5019 7.57398 13.0799 7.94598 13.4669C8.26798 13.8039 8.69898 13.9819 9.19098 13.9819C10.005 13.9819 10.005 13.7099 10.005 13.4929V12.7429H9.19098C8.77698 12.7429 8.44098 12.4069 8.44098 11.9929C8.44098 11.5789 8.77698 11.2429 9.19098 11.2429H10.755C11.169 11.2429 11.505 11.5789 11.505 11.9929V13.4929ZM18.767 3.67188H6.90098C4.16998 3.67188 2.33398 5.58887 2.33398 8.44287V15.5419C2.33398 18.4019 4.16998 20.3229 6.90098 20.3229H18.766C21.499 20.3229 23.334 18.4019 23.334 15.5419V8.44287C23.334 5.58887 21.499 3.67188 18.767 3.67188Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -5640,6 +7820,114 @@ class _VideoMovieGifFormatLight {
   /// Gif format — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Gif format',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.06703 4.17578H17.933C20.44 4.17578 22 5.94551 22 8.45038V15.5531C22 18.0569 20.44 19.8266 17.9319 19.8266H6.06703C3.56 19.8266 2 18.0569 2 15.5531V8.45038C2 5.94551 3.56757 4.17578 6.06703 4.17578Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.572 9.54467C9.24443 9.38251 8.88118 9.28305 8.49524 9.26467C7.06281 9.19332 5.87686 10.4268 5.8174 11.8603C5.75145 13.4366 6.79794 14.7382 8.35686 14.7382C9.27037 14.7382 9.92119 14.4117 9.92119 13.4993V11.9998H8.35686" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4434 11.6725V14.7395M12.4434 8.99219V9.003" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.8782 10.0245C17.5712 9.68608 17.1777 9.48175 16.6901 9.41797C15.8771 9.41797 15.2188 10.0774 15.2188 10.8904V14.738" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.435 12.5195H15.2188" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Gif format 1 icon with style variants.
+class _VideoMovieGifFormat1Icon {
+  const _VideoMovieGifFormat1Icon();
+
+  /// bold style
+  _VideoMovieGifFormat1Bold get bold => const _VideoMovieGifFormat1Bold();
+  /// bulk style
+  _VideoMovieGifFormat1Bulk get bulk => const _VideoMovieGifFormat1Bulk();
+  /// light style
+  _VideoMovieGifFormat1Light get light => const _VideoMovieGifFormat1Light();
+  /// outline style
+  _VideoMovieGifFormat1Outline get outline => const _VideoMovieGifFormat1Outline();
+  /// twoTone style
+  _VideoMovieGifFormat1Twotone get twoTone => const _VideoMovieGifFormat1Twotone();
+  /// broken style
+  _VideoMovieGifFormat1Broken get broken => const _VideoMovieGifFormat1Broken();
+}
+
+/// Gif format 1 — bulk style variants.
+class _VideoMovieGifFormat1Bulk {
+  const _VideoMovieGifFormat1Bulk();
+
+  /// Gif format 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Gif format 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.767 3.67188H6.90098C4.16898 3.67188 2.33398 5.58888 2.33398 8.44187V15.5419C2.33398 18.4009 4.16898 20.3219 6.90098 20.3219H18.766C21.498 20.3219 23.334 18.4009 23.334 15.5419V8.44187C23.334 5.58888 21.498 3.67188 18.767 3.67188Z" fill="black"/> <path d="M17.1099 9.86336H19.4749C19.8889 9.86336 20.2249 9.52736 20.2249 9.11336C20.2249 8.69936 19.8889 8.36336 19.4749 8.36336H16.3599C15.9459 8.36336 15.6099 8.69936 15.6099 9.11336V14.8734C15.6099 15.2874 15.9459 15.6234 16.3599 15.6234C16.7739 15.6234 17.1099 15.2874 17.1099 14.8734V13.2224H18.9959C19.4099 13.2224 19.7459 12.8864 19.7459 12.4724C19.7459 12.0584 19.4099 11.7224 18.9959 11.7224H17.1099V9.86336Z" fill="black"/> <path d="M13.3579 15.6234C13.7719 15.6234 14.1079 15.2874 14.1079 14.8734V9.11336C14.1079 8.69936 13.7719 8.36336 13.3579 8.36336C12.9439 8.36336 12.6079 8.69936 12.6079 9.11336V14.8734C12.6079 15.2874 12.9439 15.6234 13.3579 15.6234Z" fill="black"/> <path d="M8.94286 15.7034C10.4709 15.7034 11.3839 14.9224 11.3839 13.6134V11.9934C11.3839 11.5794 11.0479 11.2434 10.6339 11.2434H8.94286C8.52886 11.2434 8.19286 11.5794 8.19286 11.9934C8.19286 12.4074 8.52886 12.7434 8.94286 12.7434H9.88385V13.6134C9.88385 13.8764 9.88385 14.2034 8.94286 14.2034C8.39486 14.2034 7.91486 14.0044 7.55486 13.6284C7.13986 13.1964 6.91786 12.5564 6.94586 11.8744C6.97086 11.2744 7.24086 10.6994 7.68486 10.2944C8.07486 9.93836 8.56086 9.75936 9.05786 9.78236C9.35586 9.79636 9.64486 9.87336 9.91685 10.0114C10.2869 10.1974 10.7379 10.0504 10.9259 9.68236C11.1129 9.31236 10.9659 8.86136 10.5959 8.67436C10.1339 8.43936 9.63986 8.30736 9.13186 8.28436C8.24386 8.24636 7.36386 8.55736 6.67486 9.18436C5.93586 9.85736 5.48886 10.8144 5.44686 11.8114C5.40286 12.9014 5.77586 13.9414 6.47186 14.6674C7.11386 15.3354 7.99086 15.7034 8.94286 15.7034Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Gif format 1 — broken style variants.
+class _VideoMovieGifFormat1Broken {
+  const _VideoMovieGifFormat1Broken();
+
+  /// Gif format 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Gif format 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.084 19.8285H6.15101C3.65155 19.8285 2.08398 18.0588 2.08398 15.554V8.45125C2.08398 5.94746 3.64398 4.17773 6.15101 4.17773H18.0159C20.524 4.17773 22.084 5.94746 22.084 8.45125V15.554C22.084 18.0588 20.524 19.8285 18.017 19.8285H16.0505" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.724 9.125H15.6094V14.8764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.245 12.4805H15.6094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6074 9.125V14.8764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.50592 9.34501C9.15241 9.16987 8.75889 9.06284 8.34268 9.0423C6.79349 8.96447 5.51132 10.2996 5.44646 11.8488C5.37619 13.5526 6.507 14.9601 8.19241 14.9601C9.17943 14.9601 9.88322 14.6077 9.88322 13.6207V11.9991H8.19241" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Gif format 1 — twoTone style variants.
+class _VideoMovieGifFormat1Twotone {
+  const _VideoMovieGifFormat1Twotone();
+
+  /// Gif format 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Gif format 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.40101 4.17578H18.267C20.774 4.17578 22.334 5.94551 22.334 8.45038V15.5531C22.334 18.0569 20.774 19.8266 18.2659 19.8266H6.40101C3.89398 19.8266 2.33398 18.0569 2.33398 15.5531V8.45038C2.33398 5.94551 3.90155 4.17578 6.40101 4.17578Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.974 9.125H15.8594V14.8764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.495 12.4805H15.8594" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8574 9.125V14.8764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.75592 9.34501C9.40241 9.16987 9.00889 9.06284 8.59268 9.0423C7.04349 8.96447 5.76132 10.2996 5.69646 11.8488C5.62619 13.5526 6.757 14.9601 8.44241 14.9601C9.42943 14.9601 10.1332 14.6077 10.1332 13.6207V11.9991H8.44241" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Gif format 1 — outline style variants.
+class _VideoMovieGifFormat1Outline {
+  const _VideoMovieGifFormat1Outline();
+
+  /// Gif format 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Gif format 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.54762 4.86234C3.4083 3.93908 4.63151 3.42578 6.06703 3.42578H17.933C19.3718 3.42578 20.5954 3.93876 21.4556 4.86271C22.3101 5.7806 22.75 7.04313 22.75 8.45038V15.5531C22.75 16.9599 22.31 18.2222 21.4553 19.1399C20.595 20.0637 19.3711 20.5766 17.9319 20.5766H6.06703C4.62823 20.5766 3.40463 20.0636 2.54448 19.1398C1.68997 18.2221 1.25 16.9599 1.25 15.5531V8.45038C1.25 7.04218 1.69238 5.77978 2.54762 4.86234ZM3.64481 5.88516C3.09141 6.47881 2.75 7.35371 2.75 8.45038V15.5531C2.75 16.6501 3.09003 17.5246 3.64227 18.1177C4.18888 18.7047 4.9988 19.0766 6.06703 19.0766H17.9319C19.0008 19.0766 19.8109 18.7046 20.3576 18.1176C20.91 17.5245 21.25 16.6501 21.25 15.5531V8.45038C21.25 7.35276 20.9099 6.47799 20.3577 5.8848C19.8111 5.29766 19.0012 4.92578 17.933 4.92578H6.06703C5.00308 4.92578 4.19278 5.29735 3.64481 5.88516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7754 9.125C14.7754 8.71079 15.1112 8.375 15.5254 8.375H18.64C19.0542 8.375 19.39 8.71079 19.39 9.125C19.39 9.53921 19.0542 9.875 18.64 9.875H16.2754V14.8764C16.2754 15.2906 15.9396 15.6264 15.5254 15.6264C15.1112 15.6264 14.7754 15.2906 14.7754 14.8764V9.125Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7754 12.4805C14.7754 12.0663 15.1112 11.7305 15.5254 11.7305H18.1611C18.5753 11.7305 18.9111 12.0663 18.9111 12.4805C18.9111 12.8947 18.5753 13.2305 18.1611 13.2305H15.5254C15.1112 13.2305 14.7754 12.8947 14.7754 12.4805Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5234 8.375C12.9377 8.375 13.2734 8.71079 13.2734 9.125V14.8764C13.2734 15.2906 12.9377 15.6264 12.5234 15.6264C12.1092 15.6264 11.7734 15.2906 11.7734 14.8764V9.125C11.7734 8.71079 12.1092 8.375 12.5234 8.375Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.61304 11.8175C4.69281 9.91237 6.27295 8.1919 8.29589 8.29333C8.81764 8.31913 9.31155 8.45348 9.75478 8.67306C10.1259 8.85694 10.2778 9.30689 10.0939 9.67805C9.91001 10.0492 9.46006 10.201 9.0889 10.0172C8.8252 9.88652 8.53219 9.80682 8.22163 9.79149C7.14643 9.73747 6.16182 10.687 6.11173 11.88C6.05573 13.2402 6.92762 14.2102 8.10833 14.2102C8.53497 14.2102 8.77509 14.1301 8.89108 14.0481C8.95999 13.9994 9.04914 13.912 9.04914 13.6208V12.7492H8.10833C7.69411 12.7492 7.35833 12.4134 7.35833 11.9992C7.35833 11.5849 7.69411 11.2492 8.10833 11.2492H9.79914C10.2134 11.2492 10.5491 11.5849 10.5491 11.9992V13.6208C10.5491 14.3166 10.2864 14.8989 9.75665 15.2732C9.274 15.6142 8.66872 15.7102 8.10833 15.7102C5.91829 15.7102 4.5286 13.8648 4.61304 11.8175Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Gif format 1 — bold style variants.
+class _VideoMovieGifFormat1Bold {
+  const _VideoMovieGifFormat1Bold();
+
+  /// Gif format 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Gif format 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.474 9.86188H17.109V11.7209H18.995C19.409 11.7209 19.745 12.0569 19.745 12.4709C19.745 12.8849 19.409 13.2209 18.995 13.2209H17.109V14.8719C17.109 15.2859 16.773 15.6219 16.359 15.6219C15.945 15.6219 15.609 15.2859 15.609 14.8719V9.11188C15.609 8.69788 15.945 8.36188 16.359 8.36188H19.474C19.888 8.36188 20.224 8.69788 20.224 9.11188C20.224 9.52588 19.888 9.86188 19.474 9.86188ZM14.107 14.8719C14.107 15.2859 13.771 15.6219 13.357 15.6219C12.943 15.6219 12.607 15.2859 12.607 14.8719V9.11188C12.607 8.69788 12.943 8.36188 13.357 8.36188C13.771 8.36188 14.107 8.69788 14.107 9.11188V14.8719ZM11.383 13.6119C11.383 14.9209 10.47 15.7019 8.94198 15.7019C7.98998 15.7019 7.11298 15.3339 6.47098 14.6659C5.77498 13.9399 5.40198 12.8999 5.44598 11.8099C5.48798 10.8129 5.93498 9.85588 6.67398 9.18288C7.36298 8.55587 8.24298 8.24487 9.13098 8.28288C9.63898 8.30587 10.133 8.43788 10.595 8.67287C10.965 8.85988 11.112 9.31087 10.925 9.68087C10.737 10.0489 10.286 10.1959 9.91598 10.0099C9.64398 9.87188 9.35498 9.79488 9.05698 9.78088C8.55998 9.75787 8.07398 9.93687 7.68398 10.2929C7.23998 10.6979 6.96998 11.2729 6.94498 11.8729C6.91698 12.5549 7.13898 13.1949 7.55398 13.6269C7.91398 14.0029 8.39398 14.2019 8.94198 14.2019C9.88298 14.2019 9.88298 13.8749 9.88298 13.6119V12.7419H8.94198C8.52798 12.7419 8.19198 12.4059 8.19198 11.9919C8.19198 11.5779 8.52798 11.2419 8.94198 11.2419H10.633C11.047 11.2419 11.383 11.5779 11.383 11.9919V13.6119ZM18.767 3.67188H6.90098C4.16898 3.67188 2.33398 5.58888 2.33398 8.44187V15.5419C2.33398 18.4009 4.16898 20.3219 6.90098 20.3219H18.766C21.498 20.3219 23.334 18.4009 23.334 15.5419V8.44187C23.334 5.58888 21.498 3.67188 18.767 3.67188Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Gif format 1 — light style variants.
+class _VideoMovieGifFormat1Light {
+  const _VideoMovieGifFormat1Light();
+
+  /// Gif format 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Gif format 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.06703 4.17578H17.933C20.44 4.17578 22 5.94551 22 8.45038V15.5531C22 18.0569 20.44 19.8266 17.9319 19.8266H6.06703C3.56 19.8266 2 18.0569 2 15.5531V8.45038C2 5.94551 3.56757 4.17578 6.06703 4.17578Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.64 9.125H15.5254V14.8764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1611 12.4805H15.5254" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5234 9.125V14.8764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.42193 9.34501C9.06842 9.16987 8.67491 9.06284 8.25869 9.0423C6.7095 8.96447 5.42734 10.2996 5.36247 11.8488C5.2922 13.5526 6.42302 14.9601 8.10842 14.9601C9.09545 14.9601 9.79923 14.6077 9.79923 13.6207V11.9991H8.10842" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.light,
@@ -5864,6 +8152,114 @@ class _VideoMovieBackward10sLight {
 
 }
 
+/// Backward 10s 1 icon with style variants.
+class _VideoMovieBackward10s1Icon {
+  const _VideoMovieBackward10s1Icon();
+
+  /// bold style
+  _VideoMovieBackward10s1Bold get bold => const _VideoMovieBackward10s1Bold();
+  /// bulk style
+  _VideoMovieBackward10s1Bulk get bulk => const _VideoMovieBackward10s1Bulk();
+  /// light style
+  _VideoMovieBackward10s1Light get light => const _VideoMovieBackward10s1Light();
+  /// outline style
+  _VideoMovieBackward10s1Outline get outline => const _VideoMovieBackward10s1Outline();
+  /// twoTone style
+  _VideoMovieBackward10s1Twotone get twoTone => const _VideoMovieBackward10s1Twotone();
+  /// broken style
+  _VideoMovieBackward10s1Broken get broken => const _VideoMovieBackward10s1Broken();
+}
+
+/// Backward 10s 1 — bulk style variants.
+class _VideoMovieBackward10s1Bulk {
+  const _VideoMovieBackward10s1Bulk();
+
+  /// Backward 10s 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 10s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.4083 3.07031H9.73934C6.69034 3.07031 4.64134 5.20831 4.64134 8.39031V9.41931L3.91534 9.41631H3.91234C3.62734 9.41631 3.36634 9.57731 3.24034 9.83331C3.11334 10.0893 3.14234 10.3953 3.31734 10.6223L4.78434 12.5373C4.91934 12.7343 5.13434 12.8713 5.39134 12.8713C5.39434 12.8713 5.39734 12.8693 5.40134 12.8693C5.40434 12.8693 5.40634 12.8713 5.40934 12.8713C5.45234 12.8713 5.48934 12.8503 5.53034 12.8433C5.58534 12.8323 5.64334 12.8273 5.69434 12.8043C5.76534 12.7753 5.82434 12.7273 5.88434 12.6763C5.89934 12.6633 5.91634 12.6533 5.93034 12.6393C5.95334 12.6153 5.98434 12.6033 6.00534 12.5773L7.49434 10.6333C7.66834 10.4083 7.69834 10.1023 7.57334 9.84731C7.44734 9.59131 7.18734 9.42831 6.90234 9.42731L6.14134 9.42431V8.39031C6.14134 6.07031 7.55434 4.57031 9.73934 4.57031H17.4083C19.5953 4.57031 21.0073 6.07031 21.0073 8.39031V15.6113C21.0073 17.9313 19.5943 19.4303 17.4073 19.4303H9.73934C7.55434 19.4303 6.14134 17.9313 6.14134 15.6113C6.14134 15.1973 5.80534 14.8613 5.39134 14.8613C4.97734 14.8613 4.64134 15.1973 4.64134 15.6113C4.64134 18.7933 6.69034 20.9303 9.73934 20.9303H17.4073C20.4573 20.9303 22.5073 18.7933 22.5073 15.6113V8.39031C22.5073 5.20831 20.4583 3.07031 17.4083 3.07031Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6172 14.5634V9.44336C11.6172 9.02936 11.2812 8.69336 10.8672 8.69336C10.4532 8.69336 10.1172 9.02936 10.1172 9.44336V14.5634C10.1172 14.9774 10.4532 15.3134 10.8672 15.3134C11.2812 15.3134 11.6172 14.9774 11.6172 14.5634Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2153 13.0837V10.9237C14.2153 10.4657 14.5833 10.0938 15.0363 10.0938C15.4883 10.0938 15.8573 10.4657 15.8573 10.9237V13.0837C15.8573 13.5357 15.4883 13.9028 15.0363 13.9028C14.5833 13.9028 14.2153 13.5357 14.2153 13.0837ZM17.3573 13.0837V10.9237C17.3573 9.63875 16.3163 8.59375 15.0363 8.59375C13.7563 8.59375 12.7153 9.63875 12.7153 10.9237V13.0837C12.7153 14.3628 13.7563 15.4028 15.0363 15.4028C16.3163 15.4028 17.3573 14.3628 17.3573 13.0837Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 10s 1 — broken style variants.
+class _VideoMovieBackward10s1Broken {
+  const _VideoMovieBackward10s1Broken();
+
+  /// Backward 10s 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 10s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.0844 8.38653C21.0844 5.70887 19.4157 3.81641 16.7352 3.81641H9.06606C6.39326 3.81641 4.71777 5.70887 4.71777 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.71777 15.6111C4.71777 18.2887 6.38547 20.1812 9.06606 20.1812H16.7342C19.4157 20.1812 21.0844 18.2887 21.0844 15.6111V12.0273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08398 10.4648L4.73612 12.117L6.37852 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.207 14.5564V9.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.377 14.6533C13.5091 14.6533 12.8057 13.9499 12.8057 13.082V10.9161C12.8057 10.0472 13.5091 9.34375 14.377 9.34375C15.2449 9.34375 15.9484 10.0472 15.9484 10.9161V13.082C15.9484 13.9499 15.2449 14.6533 14.377 14.6533Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 10s 1 — twoTone style variants.
+class _VideoMovieBackward10s1Twotone {
+  const _VideoMovieBackward10s1Twotone();
+
+  /// Backward 10s 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 10s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.96777 15.6129C4.96777 18.2906 6.63547 20.183 9.31606 20.183H16.9842C19.6657 20.183 21.3344 18.2906 21.3344 15.6129V8.38653C21.3344 5.70887 19.6657 3.81641 16.9852 3.81641H9.31606C6.64326 3.81641 4.96777 5.70887 4.96777 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.33398 10.4648L4.98612 12.117L6.62852 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.457 14.5564V9.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.627 14.6533C13.7591 14.6533 13.0557 13.9499 13.0557 13.082V10.9161C13.0557 10.0472 13.7591 9.34375 14.627 9.34375C15.4949 9.34375 16.1984 10.0472 16.1984 10.9161V13.082C16.1984 13.9499 15.4949 14.6533 14.627 14.6533Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 10s 1 — outline style variants.
+class _VideoMovieBackward10s1Outline {
+  const _VideoMovieBackward10s1Outline();
+
+  /// Backward 10s 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 10s 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.25603 4.58597C6.16536 3.61039 7.4589 3.06641 8.9811 3.06641H16.6502C18.1758 3.06641 19.4699 3.61008 20.3789 4.58623C21.2823 5.55636 21.7494 6.89277 21.7494 8.38653V15.6129C21.7494 17.1067 21.2823 18.4431 20.3788 19.4133C19.4696 20.3894 18.1752 20.933 16.6492 20.933H8.9811C7.45549 20.933 6.16154 20.3894 5.25278 19.4131C4.34966 18.443 3.88281 17.1066 3.88281 15.6129C3.88281 15.1987 4.2186 14.8629 4.63281 14.8629C5.04703 14.8629 5.38281 15.1987 5.38281 15.6129C5.38281 16.7969 5.74982 17.7456 6.35069 18.3911C6.94592 19.0305 7.82612 19.433 8.9811 19.433H16.6492C17.8048 19.433 18.6855 19.0304 19.2811 18.3909C19.8823 17.7454 20.2494 16.7968 20.2494 15.6129V8.38653C20.2494 7.20263 19.8823 6.25398 19.2812 5.60846C18.6857 4.96897 17.8052 4.56641 16.6502 4.56641H8.9811C7.83049 4.56641 6.94989 4.96865 6.35328 5.60872C5.75122 6.25465 5.38281 7.20343 5.38281 8.38653V12.117C5.38281 12.5312 5.04703 12.867 4.63281 12.867C4.2186 12.867 3.88281 12.5312 3.88281 12.117V8.38653C3.88281 6.89197 4.35215 5.55569 5.25603 4.58597Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.46967 9.93451C2.76256 9.64162 3.23744 9.64162 3.53033 9.93451L4.65213 11.0563L5.76421 9.94424C6.0571 9.65135 6.53197 9.65135 6.82487 9.94424C7.11776 10.2371 7.11776 10.712 6.82487 11.0049L5.18246 12.6473C5.04181 12.788 4.85105 12.867 4.65213 12.867C4.45322 12.867 4.26246 12.788 4.1218 12.6473L2.46967 10.9952C2.17678 10.7023 2.17678 10.2274 2.46967 9.93451Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.123 8.69141C10.5373 8.69141 10.873 9.02719 10.873 9.44141V14.5564C10.873 14.9706 10.5373 15.3064 10.123 15.3064C9.70883 15.3064 9.37305 14.9706 9.37305 14.5564V9.44141C9.37305 9.02719 9.70883 8.69141 10.123 8.69141Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2921 10.0938C13.8387 10.0938 13.4707 10.4611 13.4707 10.9161V13.082C13.4707 13.5357 13.8384 13.9033 14.2921 13.9033C14.7458 13.9033 15.1135 13.5357 15.1135 13.082V10.9161C15.1135 10.4611 14.7455 10.0938 14.2921 10.0938ZM11.9707 10.9161C11.9707 9.63331 13.0097 8.59375 14.2921 8.59375C15.5745 8.59375 16.6135 9.63331 16.6135 10.9161V13.082C16.6135 14.3641 15.5742 15.4033 14.2921 15.4033C13.01 15.4033 11.9707 14.3641 11.9707 13.082V10.9161Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 10s 1 — bold style variants.
+class _VideoMovieBackward10s1Bold {
+  const _VideoMovieBackward10s1Bold();
+
+  /// Backward 10s 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 10s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6178 14.5604V9.44043C11.6178 9.02643 11.2818 8.69043 10.8678 8.69043C10.4538 8.69043 10.1178 9.02643 10.1178 9.44043V14.5604C10.1178 14.9744 10.4538 15.3104 10.8678 15.3104C11.2818 15.3104 11.6178 14.9744 11.6178 14.5604Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2159 13.0808V10.9208C14.2159 10.4628 14.5839 10.0908 15.0369 10.0908C15.4889 10.0908 15.8579 10.4628 15.8579 10.9208V13.0808C15.8579 13.5328 15.4889 13.8998 15.0369 13.8998C14.5839 13.8998 14.2159 13.5328 14.2159 13.0808ZM17.3579 13.0808V10.9208C17.3579 9.63582 16.3169 8.59082 15.0369 8.59082C13.7569 8.59082 12.7159 9.63582 12.7159 10.9208V13.0808C12.7159 14.3598 13.7569 15.3998 15.0369 15.3998C16.3169 15.3998 17.3579 14.3598 17.3579 13.0808Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4083 3.07031H9.73934C6.69034 3.07031 4.64134 5.20831 4.64134 8.39031V9.41931L3.91534 9.41631H3.91234C3.62734 9.41631 3.36634 9.57731 3.24034 9.83331C3.11334 10.0893 3.14234 10.3953 3.31734 10.6223L4.78434 12.5373C4.91934 12.7343 5.13434 12.8713 5.39134 12.8713C5.39434 12.8713 5.39734 12.8693 5.40134 12.8693C5.40434 12.8693 5.40634 12.8713 5.40934 12.8713C5.45234 12.8713 5.48934 12.8503 5.53034 12.8433C5.58534 12.8323 5.64334 12.8273 5.69434 12.8043C5.76534 12.7753 5.82434 12.7273 5.88434 12.6763C5.89934 12.6633 5.91634 12.6533 5.93034 12.6393C5.95334 12.6153 5.98434 12.6033 6.00534 12.5773L7.49434 10.6333C7.66834 10.4083 7.69834 10.1023 7.57334 9.84731C7.44734 9.59131 7.18734 9.42831 6.90234 9.42731L6.14134 9.42431V8.39031C6.14134 6.07031 7.55434 4.57031 9.73934 4.57031H17.4083C19.5953 4.57031 21.0073 6.07031 21.0073 8.39031V15.6113C21.0073 17.9313 19.5943 19.4303 17.4073 19.4303H9.73934C7.55434 19.4303 6.14134 17.9313 6.14134 15.6113C6.14134 15.1973 5.80534 14.8613 5.39134 14.8613C4.97734 14.8613 4.64134 15.1973 4.64134 15.6113C4.64134 18.7933 6.69034 20.9303 9.73934 20.9303H17.4073C20.4573 20.9303 22.5073 18.7933 22.5073 15.6113V8.39031C22.5073 5.20831 20.4583 3.07031 17.4083 3.07031Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 10s 1 — light style variants.
+class _VideoMovieBackward10s1Light {
+  const _VideoMovieBackward10s1Light();
+
+  /// Backward 10s 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 10s 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.63281 15.6129C4.63281 18.2906 6.30051 20.183 8.9811 20.183H16.6492C19.3308 20.183 20.9994 18.2906 20.9994 15.6129V8.38653C20.9994 5.70887 19.3308 3.81641 16.6502 3.81641H8.9811C6.3083 3.81641 4.63281 5.70887 4.63281 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 10.4648L4.65213 12.117L6.29454 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.123 14.5564V9.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2921 14.6533C13.4242 14.6533 12.7207 13.9499 12.7207 13.082V10.9161C12.7207 10.0472 13.4242 9.34375 14.2921 9.34375C15.16 9.34375 15.8635 10.0472 15.8635 10.9161V13.082C15.8635 13.9499 15.16 14.6533 14.2921 14.6533Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Video folder icon with style variants.
 class _VideoMovieVideoFolderIcon {
   const _VideoMovieVideoFolderIcon();
@@ -6080,6 +8476,222 @@ class _VideoMovieFilmLight {
 
 }
 
+/// Film 1 icon with style variants.
+class _VideoMovieFilm1Icon {
+  const _VideoMovieFilm1Icon();
+
+  /// bold style
+  _VideoMovieFilm1Bold get bold => const _VideoMovieFilm1Bold();
+  /// bulk style
+  _VideoMovieFilm1Bulk get bulk => const _VideoMovieFilm1Bulk();
+  /// light style
+  _VideoMovieFilm1Light get light => const _VideoMovieFilm1Light();
+  /// outline style
+  _VideoMovieFilm1Outline get outline => const _VideoMovieFilm1Outline();
+  /// twoTone style
+  _VideoMovieFilm1Twotone get twoTone => const _VideoMovieFilm1Twotone();
+  /// broken style
+  _VideoMovieFilm1Broken get broken => const _VideoMovieFilm1Broken();
+}
+
+/// Film 1 — bulk style variants.
+class _VideoMovieFilm1Bulk {
+  const _VideoMovieFilm1Bulk();
+
+  /// Film 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Film 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.3791 7.48V16.52C21.3791 16.84 21.3591 17.14 21.2991 17.43C21.0291 19.23 19.9091 20.56 18.2491 21.16C17.7891 21.32 17.2891 21.43 16.7491 21.48C16.5591 21.49 16.3691 21.5 16.1691 21.5H7.82914C7.62914 21.5 7.43914 21.49 7.24914 21.48C6.70914 21.43 6.20914 21.32 5.74914 21.16C4.08914 20.56 2.96914 19.23 2.69914 17.43C2.63914 17.14 2.61914 16.84 2.61914 16.52V7.48C2.61914 7.07 2.65914 6.69 2.73914 6.32C3.06914 4.65 4.15914 3.41 5.74914 2.84C6.20914 2.68 6.70914 2.57 7.24914 2.52C7.43914 2.51 7.62914 2.5 7.82914 2.5H16.1691C16.3691 2.5 16.5591 2.51 16.7491 2.52C17.2891 2.57 17.7891 2.68 18.2491 2.84C19.8391 3.41 20.9291 4.65 21.2591 6.32C21.3391 6.69 21.3791 7.07 21.3791 7.48Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2491 7.82344V11.1234H21.3791V12.6234H18.2491V15.9334H21.3791V16.5234C21.3791 16.8434 21.3591 17.1434 21.2991 17.4334H18.2491V21.1634C17.7891 21.3234 17.2891 21.4334 16.7491 21.4834V12.6234H7.24914V21.4834C6.70914 21.4334 6.20914 21.3234 5.74914 21.1634V17.4334H2.69914C2.63914 17.1434 2.61914 16.8434 2.61914 16.5234V15.9334H5.74914V12.6234H2.61914V11.1234H5.74914V7.82344H2.61914V7.48344C2.61914 7.07344 2.65914 6.69344 2.73914 6.32344H5.74914V2.84344C6.20914 2.68344 6.70914 2.57344 7.24914 2.52344V11.1234H16.7491V2.52344C17.2891 2.57344 17.7891 2.68344 18.2491 2.84344V6.32344H21.2591C21.3391 6.69344 21.3791 7.07344 21.3791 7.48344V7.82344H18.2491Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Film 1 — broken style variants.
+class _VideoMovieFilm1Broken {
+  const _VideoMovieFilm1Broken();
+
+  /// Film 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Film 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2518 21H8.08258C5.32168 21 3.37073 19.2799 3.37073 16.5149V7.48304C3.37073 4.71911 5.32168 3 8.08258 3H16.421C19.1819 3 21.1328 4.72721 21.1328 7.48304V16.5159C21.1328 19.2799 19.1819 21 16.421 21H15.6842" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.36975 16.476H7.15624M3.36975 7.57031L7.15624 7.57031" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.16016 3.11719L7.16016 20.8843" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3398 20.8843L17.3398 3.11719" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.1055 16.476H17.3433M21.1055 7.57031L17.3433 7.57031" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6729 12.0234H3.36768M21.1055 12.0234H17.4361" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Film 1 — twoTone style variants.
+class _VideoMovieFilm1Twotone {
+  const _VideoMovieFilm1Twotone();
+
+  /// Film 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Film 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.61914 16.5172V7.4838C3.61914 4.72103 5.56998 3 8.33073 3H16.6686C19.4294 3 21.3802 4.72103 21.3802 7.48481V16.5172C21.3802 19.28 19.4294 21 16.6686 21H8.33073C5.56998 21 3.61914 19.2719 3.61914 16.5172Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.41016 3.11818V20.8833M17.5903 20.8833V3.11719M3.64453 7.52612H7.40651M3.64453 16.4309H7.40651M21.381 7.52612H17.5938M21.381 16.4309H17.5938M3.64453 11.978H21.3813" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Film 1 — outline style variants.
+class _VideoMovieFilm1Outline {
+  const _VideoMovieFilm1Outline();
+
+  /// Film 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Film 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.92851 3.65702C4.92358 2.73029 6.29535 2.25 7.83073 2.25H16.1686C17.704 2.25 19.0758 2.73029 20.0709 3.65719C21.072 4.58968 21.6302 5.91768 21.6302 7.48481V16.5172C21.6302 18.0839 21.0719 19.4115 20.0708 20.3436C19.0756 21.27 17.7039 21.75 16.1686 21.75H7.83073C6.29455 21.75 4.92291 21.2675 3.92824 20.3402C2.92774 19.4075 2.36914 18.0804 2.36914 16.5172V7.4838C2.36914 5.91709 2.92742 4.58935 3.92851 3.65702ZM4.9508 4.75471C4.28628 5.37359 3.86914 6.28774 3.86914 7.4838V16.5172C3.86914 17.7087 4.28596 18.623 4.95107 19.243C5.62201 19.8685 6.60617 20.25 7.83073 20.25H16.1686C17.3941 20.25 18.3782 19.87 19.0486 19.2457C19.7131 18.6271 20.1302 17.7133 20.1302 16.5172V7.48481C20.1302 6.28817 19.713 5.37376 19.0485 4.75479C18.378 4.13022 17.394 3.75 16.1686 3.75H7.83073C6.60536 3.75 5.62134 4.13023 4.9508 4.75471Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.91016 2.36719C7.32437 2.36719 7.66016 2.70297 7.66016 3.11719V20.8823C7.66016 21.2965 7.32437 21.6323 6.91016 21.6323C6.49594 21.6323 6.16016 21.2965 6.16016 20.8823V3.11719C6.16016 2.70297 6.49594 2.36719 6.91016 2.36719Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0898 2.36719C17.5041 2.36719 17.8398 2.70297 17.8398 3.11719V20.8833C17.8398 21.2975 17.5041 21.6333 17.0898 21.6333C16.6756 21.6333 16.3398 21.2975 16.3398 20.8833V3.11719C16.3398 2.70297 16.6756 2.36719 17.0898 2.36719Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.39453 7.52734C2.39453 7.11313 2.73032 6.77734 3.14453 6.77734H6.90651C7.32072 6.77734 7.65651 7.11313 7.65651 7.52734C7.65651 7.94156 7.32072 8.27734 6.90651 8.27734H3.14453C2.73032 8.27734 2.39453 7.94156 2.39453 7.52734ZM2.39453 16.4321C2.39453 16.0179 2.73032 15.6821 3.14453 15.6821H6.90651C7.32072 15.6821 7.65651 16.0179 7.65651 16.4321C7.65651 16.8463 7.32072 17.1821 6.90651 17.1821H3.14453C2.73032 17.1821 2.39453 16.8463 2.39453 16.4321Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.3438 7.52734C16.3438 7.11313 16.6795 6.77734 17.0938 6.77734H20.881C21.2953 6.77734 21.631 7.11313 21.631 7.52734C21.631 7.94156 21.2953 8.27734 20.881 8.27734H17.0938C16.6795 8.27734 16.3438 7.94156 16.3438 7.52734ZM16.3438 16.4321C16.3438 16.0179 16.6795 15.6821 17.0938 15.6821H20.881C21.2953 15.6821 21.631 16.0179 21.631 16.4321C21.631 16.8463 21.2953 17.1821 20.881 17.1821H17.0938C16.6795 17.1821 16.3438 16.8463 16.3438 16.4321Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.39453 11.9766C2.39453 11.5623 2.73032 11.2266 3.14453 11.2266H20.8813C21.2955 11.2266 21.6313 11.5623 21.6313 11.9766C21.6313 12.3908 21.2955 12.7266 20.8813 12.7266H3.14453C2.73032 12.7266 2.39453 12.3908 2.39453 11.9766Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Film 1 — bold style variants.
+class _VideoMovieFilm1Bold {
+  const _VideoMovieFilm1Bold();
+
+  /// Film 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Film 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2488 6.0137C18.2488 6.17939 18.3831 6.3137 18.5488 6.3137H20.8875C21.0776 6.3137 21.2202 6.13873 21.1686 5.95575C20.7895 4.60871 19.8998 3.57715 18.6437 3.00577C18.4548 2.91982 18.2488 3.06426 18.2488 3.27184V6.0137Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.24878 10.822C7.24878 10.9877 7.38309 11.122 7.54878 11.122H16.4488C16.6145 11.122 16.7488 10.9877 16.7488 10.822V2.82274C16.7488 2.66725 16.6302 2.53531 16.4756 2.51903C16.3756 2.50849 16.2745 2.5 16.1688 2.5H7.83078C7.72423 2.5 7.62264 2.50854 7.52211 2.51911C7.36743 2.53538 7.24878 2.66733 7.24878 2.82286V10.822Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2483 10.8215C18.2483 10.9872 18.3826 11.1215 18.5483 11.1215H21.0793C21.245 11.1215 21.3793 10.9872 21.3793 10.8215V8.11348C21.3793 7.94779 21.245 7.81348 21.0793 7.81348H18.5483C18.3826 7.81348 18.2483 7.94779 18.2483 8.11348V10.8215Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2493 15.6301C18.2493 15.7958 18.3836 15.9301 18.5493 15.9301H21.0803C21.246 15.9301 21.3803 15.7958 21.3803 15.6301V12.9211C21.3803 12.7554 21.246 12.6211 21.0803 12.6211H18.5493C18.3836 12.6211 18.2493 12.7554 18.2493 12.9211V15.6301Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.61914 15.6301C2.61914 15.7958 2.75346 15.9301 2.91914 15.9301H5.44914C5.61483 15.9301 5.74914 15.7958 5.74914 15.6301V12.9211C5.74914 12.7554 5.61483 12.6211 5.44914 12.6211H2.91914C2.75346 12.6211 2.61914 12.7554 2.61914 12.9211V15.6301Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.74881 17.7307C5.74881 17.565 5.61449 17.4307 5.44881 17.4307H3.05171C2.86743 17.4307 2.72609 17.5956 2.76645 17.7754C3.09794 19.2523 4.01748 20.3831 5.3537 20.9922C5.54265 21.0783 5.74881 20.9339 5.74881 20.7263V17.7307Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.7488 12.9221C16.7488 12.7564 16.6145 12.6221 16.4488 12.6221H7.54878C7.38309 12.6221 7.24878 12.7564 7.24878 12.9221V21.1772C7.24878 21.3327 7.36743 21.4647 7.52211 21.481C7.62264 21.4915 7.72423 21.5001 7.83078 21.5001H16.1688C16.2745 21.5001 16.3756 21.4916 16.4756 21.481C16.6302 21.4648 16.7488 21.3328 16.7488 21.1773V12.9221Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.5488 17.4307C18.3831 17.4307 18.2488 17.565 18.2488 17.7307V20.7274C18.2488 20.935 18.4549 21.0794 18.6438 20.9933C19.9809 20.3841 20.9006 19.2525 21.2321 17.7754C21.2725 17.5956 21.1312 17.4307 20.9469 17.4307H18.5488Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.61914 10.8215C2.61914 10.9872 2.75346 11.1215 2.91914 11.1215H5.44914C5.61483 11.1215 5.74914 10.9872 5.74914 10.8215V8.11348C5.74914 7.94779 5.61483 7.81348 5.44914 7.81348H2.91914C2.75346 7.81348 2.61914 7.94779 2.61914 8.11348V10.8215Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.4488 6.3137C5.61448 6.3137 5.7488 6.17939 5.7488 6.0137V3.27209C5.7488 3.06444 5.54268 2.92 5.35371 3.00609C4.0979 3.57814 3.20904 4.60957 2.82998 5.95571C2.77845 6.1387 2.92106 6.3137 3.11116 6.3137H5.4488Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Film 1 — light style variants.
+class _VideoMovieFilm1Light {
+  const _VideoMovieFilm1Light();
+
+  /// Film 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Film 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.11914 16.5172V7.4838C3.11914 4.72103 5.06998 3 7.83073 3H16.1686C18.9294 3 20.8802 4.72103 20.8802 7.48481V16.5172C20.8802 19.28 18.9294 21 16.1686 21H7.83073C5.06998 21 3.11914 19.2719 3.11914 16.5172Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.91016 3.11719V20.8823" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0898 20.8833V3.11719" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.14453 7.52734H6.90651M3.14453 16.4321H6.90651" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.881 7.52734H17.0938M20.881 16.4321H17.0938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.14453 11.9766H20.8813" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Film 2 icon with style variants.
+class _VideoMovieFilm2Icon {
+  const _VideoMovieFilm2Icon();
+
+  /// bold style
+  _VideoMovieFilm2Bold get bold => const _VideoMovieFilm2Bold();
+  /// bulk style
+  _VideoMovieFilm2Bulk get bulk => const _VideoMovieFilm2Bulk();
+  /// light style
+  _VideoMovieFilm2Light get light => const _VideoMovieFilm2Light();
+  /// outline style
+  _VideoMovieFilm2Outline get outline => const _VideoMovieFilm2Outline();
+  /// twoTone style
+  _VideoMovieFilm2Twotone get twoTone => const _VideoMovieFilm2Twotone();
+  /// broken style
+  _VideoMovieFilm2Broken get broken => const _VideoMovieFilm2Broken();
+}
+
+/// Film 2 — bulk style variants.
+class _VideoMovieFilm2Bulk {
+  const _VideoMovieFilm2Bulk();
+
+  /// Film 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Film 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.52 21.3772H7.48C7.16 21.3772 6.86 21.3572 6.57 21.2972C4.77 21.0272 3.44 19.9072 2.84 18.2472C2.68 17.7872 2.57 17.2872 2.52 16.7472C2.51 16.5572 2.5 16.3672 2.5 16.1672L2.5 7.82719C2.5 7.62719 2.51 7.43719 2.52 7.24719C2.57 6.70719 2.68 6.20719 2.84 5.74719C3.44 4.08719 4.77 2.96719 6.57 2.69719C6.86 2.63719 7.16 2.61719 7.48 2.61719L16.52 2.61719C16.93 2.61719 17.31 2.65719 17.68 2.73719C19.35 3.06719 20.59 4.15719 21.16 5.74719C21.32 6.20719 21.43 6.70719 21.48 7.24719C21.49 7.43719 21.5 7.62719 21.5 7.82719V16.1672C21.5 16.3672 21.49 16.5572 21.48 16.7472C21.43 17.2872 21.32 17.7872 21.16 18.2472C20.59 19.8372 19.35 20.9272 17.68 21.2572C17.31 21.3372 16.93 21.3772 16.52 21.3772Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.1795 18.2472H12.8795V21.3772H11.3795V18.2472H8.06953V21.3772H7.47953C7.15953 21.3772 6.85953 21.3572 6.56953 21.2972V18.2472H2.83953C2.67953 17.7872 2.56953 17.2872 2.51953 16.7472H11.3795V7.24719H2.51953C2.56953 6.70719 2.67953 6.20719 2.83953 5.74719L6.56953 5.74719V2.69719C6.85953 2.63719 7.15953 2.61719 7.47953 2.61719L8.06953 2.61719V5.74719L11.3795 5.74719V2.61719L12.8795 2.61719V5.74719L16.1795 5.74719V2.61719L16.5195 2.61719C16.9295 2.61719 17.3095 2.65719 17.6795 2.73719V5.74719L21.1595 5.74719C21.3195 6.20719 21.4295 6.70719 21.4795 7.24719L12.8795 7.24719V16.7472L21.4795 16.7472C21.4295 17.2872 21.3195 17.7872 21.1595 18.2472L17.6795 18.2472V21.2572C17.3095 21.3372 16.9295 21.3772 16.5195 21.3772H16.1795V18.2472Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Film 2 — broken style variants.
+class _VideoMovieFilm2Broken {
+  const _VideoMovieFilm2Broken();
+
+  /// Film 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Film 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.25 11.9982V16.1674C21.25 18.9283 19.5299 20.8793 16.7649 20.8793H7.73304C4.96911 20.8793 3.25 18.9283 3.25 16.1674V7.82904C3.25 5.06814 4.97721 3.11719 7.73304 3.11719H16.7659C19.5299 3.11719 21.25 5.06814 21.25 7.82904V8.56583" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7241 20.8802V17.0938M7.81836 20.8802V17.0938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.36621 17.0898H21.1334" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.1324 6.91016H3.36523" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7241 3.14453V6.90672M7.81836 3.14453V6.90672" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2715 10.5771V20.8823M12.2715 3.14453V6.81391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Film 2 — twoTone style variants.
+class _VideoMovieFilm2Twotone {
+  const _VideoMovieFilm2Twotone();
+
+  /// Film 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Film 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.98304 3.11719H17.0159C19.7799 3.11719 21.5 5.06814 21.5 7.82904V16.1674C21.5 18.9283 19.7799 20.8793 17.0149 20.8793H7.98304C5.21911 20.8793 3.5 18.9283 3.5 16.1674V7.82904C3.5 5.06814 5.22721 3.11719 7.98304 3.11719Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.9741 20.8819V17.0955M8.06836 20.8819V17.0955M3.61572 17.0913H21.3829M21.3824 6.91064H3.61523M16.9741 3.14453V6.90672M8.06836 3.14453V6.90672M12.5215 3.14453V20.8823" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Film 2 — outline style variants.
+class _VideoMovieFilm2Outline {
+  const _VideoMovieFilm2Outline();
+
+  /// Film 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Film 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.65945 3.92641C4.59211 2.92578 5.91936 2.36719 7.48304 2.36719H16.5159C18.0832 2.36719 19.411 2.92546 20.3433 3.92667C21.27 4.92185 21.75 6.2937 21.75 7.82904V16.1674C21.75 17.7028 21.27 19.0746 20.3432 20.0698C19.4107 21.0711 18.0826 21.6293 16.5149 21.6293H7.48304C5.91579 21.6293 4.58814 21.071 3.65608 20.0697C2.72967 19.0745 2.25 17.7026 2.25 16.1674V7.82904C2.25 6.2929 2.73224 4.92118 3.65945 3.92641ZM4.75672 4.94915C4.13136 5.62008 3.75 6.60428 3.75 7.82904V16.1674C3.75 17.3931 4.12989 18.3772 4.75401 19.0477C5.37249 19.7121 6.28636 20.1293 7.48304 20.1293H16.5149C17.7122 20.1293 18.6266 19.712 19.2455 19.0475C19.8699 18.377 20.25 17.393 20.25 16.1674V7.82904C20.25 6.60348 19.8699 5.6194 19.2456 4.94888C18.6268 4.28439 17.7126 3.86719 16.5159 3.86719H7.48304C6.29089 3.86719 5.37662 4.28407 4.75672 4.94915Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.56836 16.3438C7.98257 16.3438 8.31836 16.6795 8.31836 17.0938V20.8802C8.31836 21.2945 7.98257 21.6302 7.56836 21.6302C7.15415 21.6302 6.81836 21.2945 6.81836 20.8802V17.0938C6.81836 16.6795 7.15415 16.3438 7.56836 16.3438ZM16.4741 16.3438C16.8883 16.3438 17.2241 16.6795 17.2241 17.0938V20.8802C17.2241 21.2945 16.8883 21.6302 16.4741 21.6302C16.0599 21.6302 15.7241 21.2945 15.7241 20.8802V17.0938C15.7241 16.6795 16.0599 16.3438 16.4741 16.3438Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.36719 17.0898C2.36719 16.6756 2.70297 16.3398 3.11719 16.3398H20.8843C21.2985 16.3398 21.6343 16.6756 21.6343 17.0898C21.6343 17.5041 21.2985 17.8398 20.8843 17.8398H3.11719C2.70297 17.8398 2.36719 17.5041 2.36719 17.0898Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.36523 6.91016C2.36523 6.49594 2.70102 6.16016 3.11523 6.16016H20.8824C21.2966 6.16016 21.6324 6.49594 21.6324 6.91016C21.6324 7.32437 21.2966 7.66016 20.8824 7.66016H3.11523C2.70102 7.66016 2.36523 7.32437 2.36523 6.91016Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.56836 2.39453C7.98257 2.39453 8.31836 2.73032 8.31836 3.14453V6.90672C8.31836 7.32094 7.98257 7.65672 7.56836 7.65672C7.15415 7.65672 6.81836 7.32094 6.81836 6.90672V3.14453C6.81836 2.73032 7.15415 2.39453 7.56836 2.39453ZM16.4741 2.39453C16.8883 2.39453 17.2241 2.73032 17.2241 3.14453V6.90672C17.2241 7.32094 16.8883 7.65672 16.4741 7.65672C16.0599 7.65672 15.7241 7.32094 15.7241 6.90672V3.14453C15.7241 2.73032 16.0599 2.39453 16.4741 2.39453Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0215 2.39453C12.4357 2.39453 12.7715 2.73032 12.7715 3.14453V20.8823C12.7715 21.2965 12.4357 21.6323 12.0215 21.6323C11.6073 21.6323 11.2715 21.2965 11.2715 20.8823V3.14453C11.2715 2.73032 11.6073 2.39453 12.0215 2.39453Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Film 2 — bold style variants.
+class _VideoMovieFilm2Bold {
+  const _VideoMovieFilm2Bold();
+
+  /// Film 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Film 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.06763 21.0791C8.06763 21.2448 8.20194 21.3791 8.36763 21.3791H11.0766C11.2423 21.3791 11.3766 21.2448 11.3766 21.0791V18.5471C11.3766 18.3814 11.2423 18.2471 11.0766 18.2471H8.36763C8.20194 18.2471 8.06763 18.3814 8.06763 18.5471V21.0791Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.06763 5.44719C8.06763 5.61287 8.20194 5.74719 8.36763 5.74719H11.0766C11.2423 5.74719 11.3766 5.61287 11.3766 5.44719V2.91719C11.3766 2.7515 11.2423 2.61719 11.0766 2.61719H8.36763C8.20194 2.61719 8.06763 2.7515 8.06763 2.91719V5.44719Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8766 21.0791C12.8766 21.2448 13.0109 21.3791 13.1766 21.3791H15.8856C16.0513 21.3791 16.1856 21.2448 16.1856 21.0791V18.5471C16.1856 18.3814 16.0513 18.2471 15.8856 18.2471H13.1766C13.0109 18.2471 12.8766 18.3814 12.8766 18.5471V21.0791Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.377 7.54707C11.377 7.38138 11.2427 7.24707 11.077 7.24707H2.82286C2.66733 7.24707 2.53538 7.36572 2.51911 7.5204C2.50854 7.62094 2.5 7.72252 2.5 7.82907V16.1671C2.5 16.2728 2.50849 16.3739 2.51903 16.4739C2.53531 16.6285 2.66725 16.7471 2.82274 16.7471H11.077C11.2427 16.7471 11.377 16.6128 11.377 16.4471V7.54707Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8766 5.44719C12.8766 5.61287 13.0109 5.74719 13.1766 5.74719H15.8856C16.0513 5.74719 16.1856 5.61287 16.1856 5.44719V2.91719C16.1856 2.7515 16.0513 2.61719 15.8856 2.61719H13.1766C13.0109 2.61719 12.8766 2.7515 12.8766 2.91719V5.44719Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.56831 18.5471C6.56831 18.3814 6.434 18.2471 6.26831 18.2471H3.27238C3.06482 18.2471 2.9204 18.4531 3.00636 18.642C3.61483 19.9793 4.74645 20.8998 6.22359 21.2314C6.4034 21.2718 6.56831 21.1304 6.56831 20.9462V18.5471Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 16.1671V7.82907C21.5 7.72252 21.4914 7.62093 21.4808 7.5204C21.4646 7.36572 21.3326 7.24707 21.1771 7.24707H13.177C13.0113 7.24707 12.877 7.38138 12.877 7.54707V16.4471C12.877 16.6128 13.0113 16.7471 13.177 16.7471H21.1772C21.3327 16.7471 21.4646 16.6285 21.4809 16.4739C21.4915 16.3739 21.5 16.2728 21.5 16.1671Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9855 18.2471C17.8199 18.2471 17.6855 18.3814 17.6855 18.5471V20.8867C17.6855 21.0768 17.8605 21.2194 18.0435 21.1679C19.3899 20.7886 20.422 19.8982 20.9935 18.642C21.0794 18.4531 20.935 18.2471 20.7274 18.2471H17.9855Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6855 5.44721C17.6855 5.6129 17.8199 5.74721 17.9855 5.74721H20.7271C20.9347 5.74721 21.0792 5.54105 20.993 5.35208C20.421 4.09697 19.3896 3.20755 18.0435 2.82841C17.8605 2.77686 17.6855 2.91947 17.6855 3.10957V5.44721Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.26831 5.74624C6.434 5.74624 6.56831 5.61193 6.56831 5.44624V3.04917C6.56831 2.86488 6.40338 2.72354 6.22356 2.76393C4.74743 3.09546 3.61598 4.01498 3.00678 5.35114C2.92063 5.54008 3.06505 5.74624 3.27271 5.74624H6.26831Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Film 2 — light style variants.
+class _VideoMovieFilm2Light {
+  const _VideoMovieFilm2Light();
+
+  /// Film 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Film 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.48304 3.11719H16.5159C19.2799 3.11719 21 5.06814 21 7.82904V16.1674C21 18.9283 19.2799 20.8793 16.5149 20.8793H7.48304C4.71911 20.8793 3 18.9283 3 16.1674V7.82904C3 5.06814 4.72721 3.11719 7.48304 3.11719Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4741 20.8802V17.0938M7.56836 20.8802V17.0938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.11719 17.0898H20.8843" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.8824 6.91016H3.11523" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4741 3.14453V6.90672M7.56836 3.14453V6.90672" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0215 3.14453V20.8823" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Reels like icon with style variants.
 class _VideoMovieReelsLikeIcon {
   const _VideoMovieReelsLikeIcon();
@@ -6213,7 +8825,7 @@ class _VideoMovieBackward30sBulk {
   /// Backward 30s — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Backward 30s',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.4075 3.07031H9.73746C6.68846 3.07031 4.63946 5.20831 4.63946 8.39031V9.41931L3.91346 9.41631C3.60146 9.40331 3.36546 9.57531 3.23846 9.83331C3.11146 10.0893 3.14046 10.3953 3.31446 10.6223L4.78646 12.5423C4.92146 12.7363 5.13546 12.8713 5.38946 12.8713C5.39346 12.8713 5.39646 12.8693 5.39946 12.8693C5.40246 12.8693 5.40546 12.8713 5.40846 12.8713C5.45046 12.8713 5.48746 12.8503 5.52846 12.8433C5.58446 12.8323 5.64146 12.8273 5.69246 12.8043C5.76346 12.7753 5.82146 12.7283 5.88046 12.6773C5.89646 12.6643 5.91446 12.6533 5.92946 12.6383C5.95146 12.6153 5.98346 12.6033 6.00346 12.5773L7.49346 10.6333C7.66746 10.4083 7.69746 10.1033 7.57146 9.84731C7.44646 9.59131 7.18646 9.42831 6.90146 9.42731L6.13946 9.42431V8.39031C6.13946 6.07031 7.55246 4.57031 9.73746 4.57031H17.4075C19.5945 4.57031 21.0065 6.07031 21.0065 8.39031V15.6113C21.0065 17.9313 19.5935 19.4303 17.4055 19.4303H9.73746C7.55246 19.4303 6.13946 17.9313 6.13946 15.6113C6.13946 15.1973 5.80346 14.8613 5.38946 14.8613C4.97546 14.8613 4.63946 15.1973 4.63946 15.6113C4.63946 18.7933 6.68846 20.9303 9.73746 20.9303H17.4055C20.4565 20.9303 22.5065 18.7933 22.5065 15.6113V8.39031C22.5065 5.20831 20.4575 3.07031 17.4075 3.07031Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5668 14.0084C11.2378 14.0084 10.9688 13.7384 10.9688 13.4074C10.9688 12.9934 10.6328 12.6574 10.2188 12.6574C9.80475 12.6574 9.46875 12.9934 9.46875 13.4074C9.46875 14.5664 10.4108 15.5084 11.5668 15.5084C12.7238 15.5084 13.6658 14.5664 13.6658 13.4074C13.6658 12.8944 13.4798 12.4234 13.1728 12.0584C13.4798 11.6934 13.6648 11.2224 13.6648 10.7084C13.6648 9.55037 12.7238 8.60938 11.5677 8.60938C10.4108 8.60938 9.46875 9.55037 9.46875 10.7084C9.46875 11.1224 9.80475 11.4584 10.2188 11.4584C10.6328 11.4584 10.9688 11.1224 10.9688 10.7084C10.9688 10.3774 11.2377 10.1094 11.5677 10.1094C11.8967 10.1094 12.1648 10.3774 12.1648 10.7084C12.1648 11.0444 11.9028 11.3084 11.5677 11.3084C11.1537 11.3084 10.8177 11.6444 10.8177 12.0584C10.8177 12.4724 11.1537 12.8084 11.5677 12.8084C11.9028 12.8084 12.1658 13.0714 12.1658 13.4074C12.1658 13.7384 11.8968 14.0084 11.5668 14.0084Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6722 13.1382V10.9782C15.6722 10.5262 16.0402 10.1582 16.4932 10.1582C16.9462 10.1582 17.3152 10.5262 17.3152 10.9782V13.1382C17.3152 13.5962 16.9462 13.9682 16.4932 13.9682C16.0402 13.9682 15.6722 13.5962 15.6722 13.1382ZM18.8152 13.1382V10.9782C18.8152 9.6992 17.7742 8.6582 16.4932 8.6582C15.2132 8.6582 14.1722 9.6992 14.1722 10.9782V13.1382C14.1722 14.4232 15.2132 15.4682 16.4932 15.4682C17.7742 15.4682 18.8152 14.4232 18.8152 13.1382Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.5684 3C8.6344 3 5.2374 5.594 4.0344 9.159L3.4014 8.965C3.1354 8.883 2.8444 8.957 2.6494 9.153C2.4534 9.352 2.3824 9.642 2.4664 9.907L3.2594 12.416C3.3344 12.651 3.5194 12.835 3.7554 12.907C3.8274 12.93 3.9014 12.94 3.9744 12.94C4.1414 12.94 4.3064 12.885 4.4404 12.778L6.5004 11.146C6.7184 10.973 6.8234 10.692 6.7714 10.419C6.7194 10.146 6.5204 9.923 6.2544 9.841L5.4694 9.6C6.4814 6.646 9.3014 4.5 12.5684 4.5C16.7044 4.5 20.0684 7.864 20.0684 12C20.0684 16.136 16.7044 19.5 12.5684 19.5C10.1024 19.5 7.7954 18.287 6.3934 16.255C6.1594 15.914 5.6914 15.827 5.3504 16.063C5.0094 16.298 4.9234 16.766 5.1594 17.106C6.8394 19.545 9.6094 21 12.5684 21C17.5314 21 21.5684 16.963 21.5684 12C21.5684 7.037 17.5314 3 12.5684 3Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1901 14.1071C9.80614 14.1071 9.49414 13.7971 9.49414 13.4181C9.49414 13.0031 9.15814 12.6681 8.74414 12.6681C8.33014 12.6681 7.99414 13.0031 7.99414 13.4181C7.99414 14.6251 8.97914 15.6071 10.1901 15.6071C11.4011 15.6071 12.3851 14.6251 12.3851 13.4181C12.3851 12.8631 12.1801 12.3561 11.8411 11.9691C12.1801 11.5841 12.3851 11.0791 12.3851 10.5271C12.3851 9.31412 11.4011 8.32812 10.1901 8.32812C8.97914 8.32812 7.99414 9.31412 7.99414 10.5271C7.99414 10.9411 8.33014 11.2771 8.74414 11.2771C9.15814 11.2771 9.49414 10.9411 9.49414 10.5271C9.49414 10.1411 9.80614 9.82812 10.1901 9.82812C10.5741 9.82812 10.8851 10.1411 10.8851 10.5271C10.8851 10.9081 10.5741 11.2171 10.1901 11.2171C9.77614 11.2171 9.44014 11.5531 9.44014 11.9671C9.44014 12.3811 9.77614 12.7171 10.1901 12.7171C10.5741 12.7171 10.8851 13.0321 10.8851 13.4181C10.8851 13.7971 10.5741 14.1071 10.1901 14.1071Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4255 13.1262V10.8072C14.4255 10.2882 14.8455 9.86621 15.3615 9.86621C15.8765 9.86621 16.2955 10.2882 16.2955 10.8072V13.1262C16.2955 13.6452 15.8765 14.0662 15.3615 14.0662C14.8455 14.0662 14.4255 13.6452 14.4255 13.1262ZM17.7955 13.1262V10.8072C17.7955 9.46121 16.7035 8.36621 15.3615 8.36621C14.0185 8.36621 12.9255 9.46121 12.9255 10.8072V13.1262C12.9255 14.4722 14.0185 15.5662 15.3615 15.5662C16.7035 15.5662 17.7955 14.4722 17.7955 13.1262Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -6228,7 +8840,7 @@ class _VideoMovieBackward30sBroken {
   /// Backward 30s — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Backward 30s',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.56395 10.7109C9.56395 9.96653 10.1672 9.36328 10.9115 9.36328C11.6559 9.36328 12.2591 9.96653 12.2591 10.7109C12.2591 11.4552 11.6559 12.0594 10.9115 12.0594C11.6568 12.0594 12.2596 12.6627 12.2596 13.407C12.2596 14.1523 11.6564 14.7556 10.9111 14.7556C10.1667 14.7556 9.56348 14.1523 9.56348 13.407" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.838 14.7158C14.9701 14.7158 14.2666 14.0124 14.2666 13.1445V10.9776C14.2666 10.1097 14.9701 9.40625 15.838 9.40625C16.7059 9.40625 17.4094 10.1097 17.4094 10.9776V13.1445C17.4094 14.0124 16.7059 14.7158 15.838 14.7158Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0844 8.38653C21.0844 5.70887 19.4157 3.81641 16.7352 3.81641H9.06606C6.39326 3.81641 4.71777 5.70887 4.71777 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.71777 15.6111C4.71777 18.2887 6.38547 20.1812 9.06606 20.1812H16.7342C19.4157 20.1812 21.0844 18.2887 21.0844 15.6111V12.0273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08398 10.4648L4.73612 12.117L6.37852 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.17383 10.5552C9.17383 9.75639 9.82084 9.10938 10.6196 9.10938C11.4175 9.10938 12.0654 9.75639 12.0654 10.5552C12.0654 11.353 11.4175 12 10.6196 12C11.4175 12 12.0649 12.6477 12.0649 13.4455C12.0649 14.2433 11.4179 14.8913 10.6201 14.8913C9.82132 14.8913 9.1743 14.2433 9.1743 13.4455" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7896 14.846C14.8585 14.846 14.1045 14.091 14.1045 13.1609V10.8375C14.1045 9.90735 14.8585 9.15234 15.7896 9.15234C16.7208 9.15234 17.4748 9.90735 17.4748 10.8375V13.1609C17.4748 14.091 16.7208 14.846 15.7896 14.846Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.04187 16.6845C7.53052 18.8396 10.0174 20.2504 12.8342 20.2504C17.3906 20.2504 21.084 16.557 21.084 12.0006C21.084 11.2896 20.994 10.5997 20.8249 9.94141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.58661 11.813C4.68585 7.34318 8.34033 3.75 12.8345 3.75C15.527 3.75 17.9181 5.04002 19.4238 7.03543" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08417 9.80078L4.3646 12.0211L6.57227 10.7475" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -6243,7 +8855,7 @@ class _VideoMovieBackward30sTwotone {
   /// Backward 30s — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Backward 30s',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.96777 15.6129C4.96777 18.2906 6.63547 20.183 9.31606 20.183H16.9842C19.6657 20.183 21.3344 18.2906 21.3344 15.6129V8.38653C21.3344 5.70887 19.6657 3.81641 16.9852 3.81641H9.31606C6.64326 3.81641 4.96777 5.70887 4.96777 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.33398 10.4648L4.98612 12.117L6.62852 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.81395 10.7109C9.81395 9.96653 10.4172 9.36328 11.1615 9.36328C11.9059 9.36328 12.5091 9.96653 12.5091 10.7109C12.5091 11.4552 11.9059 12.0594 11.1615 12.0594C11.9068 12.0594 12.5096 12.6627 12.5096 13.407C12.5096 14.1523 11.9064 14.7556 11.1611 14.7556C10.4167 14.7556 9.81348 14.1523 9.81348 13.407" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.088 14.7158C15.2201 14.7158 14.5166 14.0124 14.5166 13.1445V10.9776C14.5166 10.1097 15.2201 9.40625 16.088 9.40625C16.9559 9.40625 17.6594 10.1097 17.6594 10.9776V13.1445C17.6594 14.0124 16.9559 14.7158 16.088 14.7158Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.00293 11.8128C5.10217 7.34311 8.75657 3.75 13.2506 3.75C17.807 3.75 21.5003 7.44429 21.5003 11.9996C21.5003 16.556 17.807 20.2493 13.2506 20.2493C10.4339 20.2493 7.94708 18.8385 6.45846 16.6834" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.5 9.80078L4.7804 12.0211L6.98803 10.7475" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.42383 10.5552C9.42383 9.75639 10.0708 9.10938 10.8696 9.10938C11.6675 9.10938 12.3154 9.75639 12.3154 10.5552C12.3154 11.353 11.6675 12 10.8696 12C11.6675 12 12.3149 12.6477 12.3149 13.4455C12.3149 14.2433 11.6679 14.8913 10.8701 14.8913C10.0713 14.8913 9.4243 14.2433 9.4243 13.4455" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.0396 14.846C15.1085 14.846 14.3545 14.091 14.3545 13.1609V10.8375C14.3545 9.90735 15.1085 9.15234 16.0396 9.15234C16.9708 9.15234 17.7248 9.90735 17.7248 10.8375V13.1609C17.7248 14.091 16.9708 14.846 16.0396 14.846Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -6258,7 +8870,7 @@ class _VideoMovieBackward30sOutline {
   /// Backward 30s — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Backward 30s',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.25603 4.58597C6.16536 3.61039 7.4589 3.06641 8.9811 3.06641H16.6502C18.1758 3.06641 19.4699 3.61008 20.3789 4.58623C21.2823 5.55636 21.7494 6.89277 21.7494 8.38653V15.6129C21.7494 17.1067 21.2823 18.4431 20.3788 19.4133C19.4696 20.3894 18.1752 20.933 16.6492 20.933H8.9811C7.45549 20.933 6.16154 20.3894 5.25278 19.4131C4.34966 18.443 3.88281 17.1066 3.88281 15.6129C3.88281 15.1987 4.2186 14.8629 4.63281 14.8629C5.04703 14.8629 5.38281 15.1987 5.38281 15.6129C5.38281 16.7969 5.74982 17.7456 6.35069 18.3911C6.94592 19.0305 7.82612 19.433 8.9811 19.433H16.6492C17.8048 19.433 18.6855 19.0304 19.2811 18.3909C19.8823 17.7454 20.2494 16.7968 20.2494 15.6129V8.38653C20.2494 7.20263 19.8823 6.25398 19.2812 5.60846C18.6857 4.96897 17.8052 4.56641 16.6502 4.56641H8.9811C7.83049 4.56641 6.94989 4.96865 6.35328 5.60872C5.75122 6.25465 5.38281 7.20343 5.38281 8.38653V12.117C5.38281 12.5312 5.04703 12.867 4.63281 12.867C4.2186 12.867 3.88281 12.5312 3.88281 12.117V8.38653C3.88281 6.89197 4.35215 5.55569 5.25603 4.58597Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.46967 9.93451C2.76256 9.64162 3.23744 9.64162 3.53033 9.93451L4.65213 11.0563L5.76421 9.94424C6.0571 9.65135 6.53197 9.65135 6.82487 9.94424C7.11776 10.2371 7.11776 10.712 6.82487 11.0049L5.18246 12.6473C5.04181 12.788 4.85105 12.867 4.65213 12.867C4.45322 12.867 4.26246 12.788 4.1218 12.6473L2.46967 10.9952C2.17678 10.7023 2.17678 10.2274 2.46967 9.93451Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.72899 10.7109C8.72899 9.55232 9.66803 8.61328 10.8266 8.61328C11.9851 8.61328 12.9242 9.55232 12.9242 10.7109C12.9242 11.2237 12.7401 11.694 12.4342 12.0588C12.7404 12.4233 12.9247 12.8936 12.9247 13.407C12.9247 14.5665 11.9856 15.5056 10.8261 15.5056C9.6672 15.5056 8.72852 14.5662 8.72852 13.407C8.72852 12.9928 9.0643 12.657 9.47852 12.657C9.89273 12.657 10.2285 12.9928 10.2285 13.407C10.2285 13.7385 10.4963 14.0056 10.8261 14.0056C11.1572 14.0056 11.4247 13.7381 11.4247 13.407C11.4247 13.0769 11.1577 12.8094 10.8266 12.8094C10.4124 12.8094 10.0766 12.4736 10.0766 12.0594C10.0766 11.6452 10.4124 11.3094 10.8266 11.3094C11.156 11.3094 11.4242 11.0417 11.4242 10.7109C11.4242 10.3807 11.1567 10.1133 10.8266 10.1133C10.4965 10.1133 10.229 10.3807 10.229 10.7109C10.229 11.1251 9.8932 11.4609 9.47899 11.4609C9.06478 11.4609 8.72899 11.1251 8.72899 10.7109Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.753 10.1562C15.2993 10.1562 14.9316 10.5239 14.9316 10.9776V13.1445C14.9316 13.5982 15.2993 13.9658 15.753 13.9658C16.2067 13.9658 16.5744 13.5982 16.5744 13.1445V10.9776C16.5744 10.5239 16.2067 10.1562 15.753 10.1562ZM13.4316 10.9776C13.4316 9.69551 14.4709 8.65625 15.753 8.65625C17.0351 8.65625 18.0744 9.69551 18.0744 10.9776V13.1445C18.0744 14.4266 17.0351 15.4658 15.753 15.4658C14.4709 15.4658 13.4316 14.4266 13.4316 13.1445V10.9776Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7497 4.5C8.66424 4.5 5.34198 7.76647 5.25177 11.8295C5.24258 12.2436 4.89942 12.5718 4.48531 12.5627C4.0712 12.5535 3.74295 12.2103 3.75214 11.7962C3.86041 6.91974 7.84696 3 12.7497 3C17.7203 3 21.7493 7.03014 21.7493 11.9996C21.7493 16.9702 17.7202 20.9993 12.7497 20.9993C9.67635 20.9993 6.96313 19.4589 5.3404 17.1097C5.10498 16.7689 5.19042 16.3017 5.53124 16.0663C5.87205 15.8309 6.33917 15.9164 6.57459 16.2572C7.92908 18.2181 10.1896 19.4993 12.7497 19.4993C16.8918 19.4993 20.2493 16.1418 20.2493 11.9996C20.2493 7.85845 16.8917 4.5 12.7497 4.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.62545 9.1512C2.98427 8.94427 3.4429 9.06741 3.64983 9.42623L4.5555 10.9967L6.11337 10.0979C6.47216 9.89096 6.93081 10.014 7.1378 10.3728C7.34478 10.7316 7.22172 11.1902 6.86294 11.3972L4.65531 12.6708C4.483 12.7702 4.27825 12.7971 4.08611 12.7455C3.89398 12.694 3.7302 12.5682 3.63082 12.3959L2.35042 10.1756C2.14349 9.81676 2.26663 9.35813 2.62545 9.1512Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.17383 10.5552C8.17383 9.34217 9.15663 8.35938 10.3696 8.35938C11.5813 8.35938 12.5654 9.34184 12.5654 10.5552C12.5654 11.1088 12.3603 11.6144 12.022 12.0004C12.36 12.3866 12.5649 12.8923 12.5649 13.4455C12.5649 14.6569 11.5828 15.6413 10.3701 15.6413C9.15677 15.6413 8.1743 14.6572 8.1743 13.4455C8.1743 13.0313 8.51009 12.6955 8.9243 12.6955C9.33852 12.6955 9.6743 13.0313 9.6743 13.4455C9.6743 13.8295 9.98586 14.1413 10.3701 14.1413C10.7531 14.1413 11.0649 13.8298 11.0649 13.4455C11.0649 13.0618 10.7531 12.75 10.3696 12.75C9.95542 12.75 9.61963 12.4142 9.61963 12C9.61963 11.5858 9.95542 11.25 10.3696 11.25C10.7539 11.25 11.0654 10.9381 11.0654 10.5552C11.0654 10.1709 10.7536 9.85938 10.3696 9.85938C9.98505 9.85938 9.67383 10.1706 9.67383 10.5552C9.67383 10.9694 9.33804 11.3052 8.92383 11.3052C8.50961 11.3052 8.17383 10.9694 8.17383 10.5552Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.5406 9.90234C15.024 9.90234 14.6055 10.3213 14.6055 10.8375V13.1609C14.6055 13.6771 15.024 14.096 15.5406 14.096C16.0572 14.096 16.4758 13.6771 16.4758 13.1609V10.8375C16.4758 10.3213 16.0572 9.90234 15.5406 9.90234ZM13.1055 10.8375C13.1055 9.49342 14.195 8.40234 15.5406 8.40234C16.8862 8.40234 17.9758 9.49342 17.9758 10.8375V13.1609C17.9758 14.505 16.8862 15.596 15.5406 15.596C14.195 15.596 13.1055 14.505 13.1055 13.1609V10.8375Z" fill="black"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -6273,7 +8885,7 @@ class _VideoMovieBackward30sBold {
   /// Backward 30s — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Backward 30s',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5657 14.0103C11.2367 14.0103 10.9677 13.7403 10.9677 13.4093C10.9677 12.9953 10.6317 12.6593 10.2177 12.6593C9.80365 12.6593 9.46765 12.9953 9.46765 13.4093C9.46765 14.5683 10.4097 15.5103 11.5657 15.5103C12.7227 15.5103 13.6647 14.5683 13.6647 13.4093C13.6647 12.8963 13.4787 12.4253 13.1717 12.0603C13.4787 11.6953 13.6637 11.2243 13.6637 10.7103C13.6637 9.55233 12.7227 8.61133 11.5667 8.61133C10.4097 8.61133 9.46765 9.55233 9.46765 10.7103C9.46765 11.1243 9.80365 11.4603 10.2177 11.4603C10.6317 11.4603 10.9677 11.1243 10.9677 10.7103C10.9677 10.3793 11.2367 10.1113 11.5667 10.1113C11.8957 10.1113 12.1637 10.3793 12.1637 10.7103C12.1637 11.0463 11.9017 11.3103 11.5667 11.3103C11.1527 11.3103 10.8167 11.6463 10.8167 12.0603C10.8167 12.4743 11.1527 12.8103 11.5667 12.8103C11.9017 12.8103 12.1647 13.0733 12.1647 13.4093C12.1647 13.7403 11.8957 14.0103 11.5657 14.0103Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6711 13.1402V10.9802C15.6711 10.5282 16.0391 10.1602 16.4921 10.1602C16.9451 10.1602 17.3141 10.5282 17.3141 10.9802V13.1402C17.3141 13.5982 16.9451 13.9702 16.4921 13.9702C16.0391 13.9702 15.6711 13.5982 15.6711 13.1402ZM18.8141 13.1402V10.9802C18.8141 9.70116 17.7731 8.66016 16.4921 8.66016C15.2121 8.66016 14.1711 9.70116 14.1711 10.9802V13.1402C14.1711 14.4252 15.2121 15.4702 16.4921 15.4702C17.7731 15.4702 18.8141 14.4252 18.8141 13.1402Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4075 3.07031H9.73746C6.68846 3.07031 4.63946 5.20831 4.63946 8.39031V9.41931L3.91346 9.41631C3.60146 9.40331 3.36546 9.57531 3.23846 9.83331C3.11146 10.0893 3.14046 10.3953 3.31446 10.6223L4.78646 12.5423C4.92146 12.7363 5.13546 12.8713 5.38946 12.8713C5.39346 12.8713 5.39646 12.8693 5.39946 12.8693C5.40246 12.8693 5.40546 12.8713 5.40846 12.8713C5.45046 12.8713 5.48746 12.8503 5.52846 12.8433C5.58446 12.8323 5.64146 12.8273 5.69246 12.8043C5.76346 12.7753 5.82146 12.7283 5.88046 12.6773C5.89646 12.6643 5.91446 12.6533 5.92946 12.6383C5.95146 12.6153 5.98346 12.6033 6.00346 12.5773L7.49346 10.6333C7.66746 10.4083 7.69746 10.1033 7.57146 9.84731C7.44646 9.59131 7.18646 9.42831 6.90146 9.42731L6.13946 9.42431V8.39031C6.13946 6.07031 7.55246 4.57031 9.73746 4.57031H17.4075C19.5945 4.57031 21.0065 6.07031 21.0065 8.39031V15.6113C21.0065 17.9313 19.5935 19.4303 17.4055 19.4303H9.73746C7.55246 19.4303 6.13946 17.9313 6.13946 15.6113C6.13946 15.1973 5.80346 14.8613 5.38946 14.8613C4.97546 14.8613 4.63946 15.1973 4.63946 15.6113C4.63946 18.7933 6.68846 20.9303 9.73746 20.9303H17.4055C20.4565 20.9303 22.5065 18.7933 22.5065 15.6113V8.39031C22.5065 5.20831 20.4575 3.07031 17.4075 3.07031Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1904 14.111C9.80639 14.111 9.49438 13.801 9.49438 13.422C9.49438 13.007 9.15838 12.672 8.74438 12.672C8.33038 12.672 7.99438 13.007 7.99438 13.422C7.99438 14.629 8.97938 15.611 10.1904 15.611C11.4014 15.611 12.3854 14.629 12.3854 13.422C12.3854 12.867 12.1804 12.36 11.8414 11.973C12.1804 11.588 12.3854 11.083 12.3854 10.531C12.3854 9.31803 11.4014 8.33203 10.1904 8.33203C8.97938 8.33203 7.99438 9.31803 7.99438 10.531C7.99438 10.945 8.33038 11.281 8.74438 11.281C9.15838 11.281 9.49438 10.945 9.49438 10.531C9.49438 10.145 9.80639 9.83203 10.1904 9.83203C10.5744 9.83203 10.8854 10.145 10.8854 10.531C10.8854 10.912 10.5744 11.221 10.1904 11.221C9.77638 11.221 9.44038 11.557 9.44038 11.971C9.44038 12.385 9.77638 12.721 10.1904 12.721C10.5744 12.721 10.8854 13.036 10.8854 13.422C10.8854 13.801 10.5744 14.111 10.1904 14.111Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4258 13.1301V10.8111C14.4258 10.2921 14.8458 9.87012 15.3618 9.87012C15.8768 9.87012 16.2958 10.2921 16.2958 10.8111V13.1301C16.2958 13.6491 15.8768 14.0701 15.3618 14.0701C14.8458 14.0701 14.4258 13.6491 14.4258 13.1301ZM17.7958 13.1301V10.8111C17.7958 9.46512 16.7038 8.37012 15.3618 8.37012C14.0188 8.37012 12.9258 9.46512 12.9258 10.8111V13.1301C12.9258 14.4761 14.0188 15.5701 15.3618 15.5701C16.7038 15.5701 17.7958 14.4761 17.7958 13.1301Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5684 3C8.6344 3 5.2374 5.594 4.0344 9.159L3.4014 8.965C3.1354 8.883 2.8444 8.957 2.6494 9.153C2.4534 9.352 2.3824 9.642 2.4664 9.907L3.2594 12.416C3.3344 12.651 3.5194 12.835 3.7554 12.907C3.8274 12.93 3.9014 12.94 3.9744 12.94C4.1414 12.94 4.3064 12.885 4.4404 12.778L6.5004 11.146C6.7184 10.973 6.8234 10.692 6.7714 10.419C6.7194 10.146 6.5204 9.923 6.2544 9.841L5.4694 9.6C6.4814 6.646 9.3014 4.5 12.5684 4.5C16.7044 4.5 20.0684 7.864 20.0684 12C20.0684 16.136 16.7044 19.5 12.5684 19.5C10.1024 19.5 7.7954 18.287 6.3934 16.255C6.1594 15.914 5.6914 15.827 5.3504 16.063C5.0094 16.298 4.9234 16.766 5.1594 17.106C6.8394 19.545 9.6094 21 12.5684 21C17.5314 21 21.5684 16.963 21.5684 12C21.5684 7.037 17.5314 3 12.5684 3Z" fill="black"/> </svg>',
     category: 'Video_&_Movie',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -6288,6 +8900,114 @@ class _VideoMovieBackward30sLight {
   /// Backward 30s — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Backward 30s',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.50195 11.8128C4.60119 7.34311 8.2556 3.75 12.7497 3.75C17.306 3.75 20.9993 7.44429 20.9993 11.9996C20.9993 16.556 17.306 20.2493 12.7497 20.2493C9.93296 20.2493 7.4461 18.8385 5.95749 16.6834" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.80078L4.2804 12.0211L6.48803 10.7475" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.92383 10.5552C8.92383 9.75639 9.57084 9.10938 10.3696 9.10938C11.1675 9.10938 11.8154 9.75639 11.8154 10.5552C11.8154 11.353 11.1675 12 10.3696 12C11.1675 12 11.8149 12.6477 11.8149 13.4455C11.8149 14.2433 11.1679 14.8913 10.3701 14.8913C9.57132 14.8913 8.9243 14.2433 8.9243 13.4455" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.5406 14.846C14.6095 14.846 13.8555 14.091 13.8555 13.1609V10.8375C13.8555 9.90735 14.6095 9.15234 15.5406 9.15234C16.4717 9.15234 17.2258 9.90735 17.2258 10.8375V13.1609C17.2258 14.091 16.4717 14.846 15.5406 14.846Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 30s 1 icon with style variants.
+class _VideoMovieBackward30s1Icon {
+  const _VideoMovieBackward30s1Icon();
+
+  /// bold style
+  _VideoMovieBackward30s1Bold get bold => const _VideoMovieBackward30s1Bold();
+  /// bulk style
+  _VideoMovieBackward30s1Bulk get bulk => const _VideoMovieBackward30s1Bulk();
+  /// light style
+  _VideoMovieBackward30s1Light get light => const _VideoMovieBackward30s1Light();
+  /// outline style
+  _VideoMovieBackward30s1Outline get outline => const _VideoMovieBackward30s1Outline();
+  /// twoTone style
+  _VideoMovieBackward30s1Twotone get twoTone => const _VideoMovieBackward30s1Twotone();
+  /// broken style
+  _VideoMovieBackward30s1Broken get broken => const _VideoMovieBackward30s1Broken();
+}
+
+/// Backward 30s 1 — bulk style variants.
+class _VideoMovieBackward30s1Bulk {
+  const _VideoMovieBackward30s1Bulk();
+
+  /// Backward 30s 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 30s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.4075 3.07031H9.73746C6.68846 3.07031 4.63946 5.20831 4.63946 8.39031V9.41931L3.91346 9.41631C3.60146 9.40331 3.36546 9.57531 3.23846 9.83331C3.11146 10.0893 3.14046 10.3953 3.31446 10.6223L4.78646 12.5423C4.92146 12.7363 5.13546 12.8713 5.38946 12.8713C5.39346 12.8713 5.39646 12.8693 5.39946 12.8693C5.40246 12.8693 5.40546 12.8713 5.40846 12.8713C5.45046 12.8713 5.48746 12.8503 5.52846 12.8433C5.58446 12.8323 5.64146 12.8273 5.69246 12.8043C5.76346 12.7753 5.82146 12.7283 5.88046 12.6773C5.89646 12.6643 5.91446 12.6533 5.92946 12.6383C5.95146 12.6153 5.98346 12.6033 6.00346 12.5773L7.49346 10.6333C7.66746 10.4083 7.69746 10.1033 7.57146 9.84731C7.44646 9.59131 7.18646 9.42831 6.90146 9.42731L6.13946 9.42431V8.39031C6.13946 6.07031 7.55246 4.57031 9.73746 4.57031H17.4075C19.5945 4.57031 21.0065 6.07031 21.0065 8.39031V15.6113C21.0065 17.9313 19.5935 19.4303 17.4055 19.4303H9.73746C7.55246 19.4303 6.13946 17.9313 6.13946 15.6113C6.13946 15.1973 5.80346 14.8613 5.38946 14.8613C4.97546 14.8613 4.63946 15.1973 4.63946 15.6113C4.63946 18.7933 6.68846 20.9303 9.73746 20.9303H17.4055C20.4565 20.9303 22.5065 18.7933 22.5065 15.6113V8.39031C22.5065 5.20831 20.4575 3.07031 17.4075 3.07031Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5668 14.0084C11.2378 14.0084 10.9688 13.7384 10.9688 13.4074C10.9688 12.9934 10.6328 12.6574 10.2188 12.6574C9.80475 12.6574 9.46875 12.9934 9.46875 13.4074C9.46875 14.5664 10.4108 15.5084 11.5668 15.5084C12.7238 15.5084 13.6658 14.5664 13.6658 13.4074C13.6658 12.8944 13.4798 12.4234 13.1728 12.0584C13.4798 11.6934 13.6648 11.2224 13.6648 10.7084C13.6648 9.55037 12.7238 8.60938 11.5677 8.60938C10.4108 8.60938 9.46875 9.55037 9.46875 10.7084C9.46875 11.1224 9.80475 11.4584 10.2188 11.4584C10.6328 11.4584 10.9688 11.1224 10.9688 10.7084C10.9688 10.3774 11.2377 10.1094 11.5677 10.1094C11.8967 10.1094 12.1648 10.3774 12.1648 10.7084C12.1648 11.0444 11.9028 11.3084 11.5677 11.3084C11.1537 11.3084 10.8177 11.6444 10.8177 12.0584C10.8177 12.4724 11.1537 12.8084 11.5677 12.8084C11.9028 12.8084 12.1658 13.0714 12.1658 13.4074C12.1658 13.7384 11.8968 14.0084 11.5668 14.0084Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6722 13.1382V10.9782C15.6722 10.5262 16.0402 10.1582 16.4932 10.1582C16.9462 10.1582 17.3152 10.5262 17.3152 10.9782V13.1382C17.3152 13.5962 16.9462 13.9682 16.4932 13.9682C16.0402 13.9682 15.6722 13.5962 15.6722 13.1382ZM18.8152 13.1382V10.9782C18.8152 9.6992 17.7742 8.6582 16.4932 8.6582C15.2132 8.6582 14.1722 9.6992 14.1722 10.9782V13.1382C14.1722 14.4232 15.2132 15.4682 16.4932 15.4682C17.7742 15.4682 18.8152 14.4232 18.8152 13.1382Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 30s 1 — broken style variants.
+class _VideoMovieBackward30s1Broken {
+  const _VideoMovieBackward30s1Broken();
+
+  /// Backward 30s 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 30s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.56395 10.7109C9.56395 9.96653 10.1672 9.36328 10.9115 9.36328C11.6559 9.36328 12.2591 9.96653 12.2591 10.7109C12.2591 11.4552 11.6559 12.0594 10.9115 12.0594C11.6568 12.0594 12.2596 12.6627 12.2596 13.407C12.2596 14.1523 11.6564 14.7556 10.9111 14.7556C10.1667 14.7556 9.56348 14.1523 9.56348 13.407" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.838 14.7158C14.9701 14.7158 14.2666 14.0124 14.2666 13.1445V10.9776C14.2666 10.1097 14.9701 9.40625 15.838 9.40625C16.7059 9.40625 17.4094 10.1097 17.4094 10.9776V13.1445C17.4094 14.0124 16.7059 14.7158 15.838 14.7158Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0844 8.38653C21.0844 5.70887 19.4157 3.81641 16.7352 3.81641H9.06606C6.39326 3.81641 4.71777 5.70887 4.71777 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.71777 15.6111C4.71777 18.2887 6.38547 20.1812 9.06606 20.1812H16.7342C19.4157 20.1812 21.0844 18.2887 21.0844 15.6111V12.0273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.08398 10.4648L4.73612 12.117L6.37852 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 30s 1 — twoTone style variants.
+class _VideoMovieBackward30s1Twotone {
+  const _VideoMovieBackward30s1Twotone();
+
+  /// Backward 30s 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 30s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.96777 15.6129C4.96777 18.2906 6.63547 20.183 9.31606 20.183H16.9842C19.6657 20.183 21.3344 18.2906 21.3344 15.6129V8.38653C21.3344 5.70887 19.6657 3.81641 16.9852 3.81641H9.31606C6.64326 3.81641 4.96777 5.70887 4.96777 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.33398 10.4648L4.98612 12.117L6.62852 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.81395 10.7109C9.81395 9.96653 10.4172 9.36328 11.1615 9.36328C11.9059 9.36328 12.5091 9.96653 12.5091 10.7109C12.5091 11.4552 11.9059 12.0594 11.1615 12.0594C11.9068 12.0594 12.5096 12.6627 12.5096 13.407C12.5096 14.1523 11.9064 14.7556 11.1611 14.7556C10.4167 14.7556 9.81348 14.1523 9.81348 13.407" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.088 14.7158C15.2201 14.7158 14.5166 14.0124 14.5166 13.1445V10.9776C14.5166 10.1097 15.2201 9.40625 16.088 9.40625C16.9559 9.40625 17.6594 10.1097 17.6594 10.9776V13.1445C17.6594 14.0124 16.9559 14.7158 16.088 14.7158Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 30s 1 — outline style variants.
+class _VideoMovieBackward30s1Outline {
+  const _VideoMovieBackward30s1Outline();
+
+  /// Backward 30s 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 30s 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.25603 4.58597C6.16536 3.61039 7.4589 3.06641 8.9811 3.06641H16.6502C18.1758 3.06641 19.4699 3.61008 20.3789 4.58623C21.2823 5.55636 21.7494 6.89277 21.7494 8.38653V15.6129C21.7494 17.1067 21.2823 18.4431 20.3788 19.4133C19.4696 20.3894 18.1752 20.933 16.6492 20.933H8.9811C7.45549 20.933 6.16154 20.3894 5.25278 19.4131C4.34966 18.443 3.88281 17.1066 3.88281 15.6129C3.88281 15.1987 4.2186 14.8629 4.63281 14.8629C5.04703 14.8629 5.38281 15.1987 5.38281 15.6129C5.38281 16.7969 5.74982 17.7456 6.35069 18.3911C6.94592 19.0305 7.82612 19.433 8.9811 19.433H16.6492C17.8048 19.433 18.6855 19.0304 19.2811 18.3909C19.8823 17.7454 20.2494 16.7968 20.2494 15.6129V8.38653C20.2494 7.20263 19.8823 6.25398 19.2812 5.60846C18.6857 4.96897 17.8052 4.56641 16.6502 4.56641H8.9811C7.83049 4.56641 6.94989 4.96865 6.35328 5.60872C5.75122 6.25465 5.38281 7.20343 5.38281 8.38653V12.117C5.38281 12.5312 5.04703 12.867 4.63281 12.867C4.2186 12.867 3.88281 12.5312 3.88281 12.117V8.38653C3.88281 6.89197 4.35215 5.55569 5.25603 4.58597Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.46967 9.93451C2.76256 9.64162 3.23744 9.64162 3.53033 9.93451L4.65213 11.0563L5.76421 9.94424C6.0571 9.65135 6.53197 9.65135 6.82487 9.94424C7.11776 10.2371 7.11776 10.712 6.82487 11.0049L5.18246 12.6473C5.04181 12.788 4.85105 12.867 4.65213 12.867C4.45322 12.867 4.26246 12.788 4.1218 12.6473L2.46967 10.9952C2.17678 10.7023 2.17678 10.2274 2.46967 9.93451Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.72899 10.7109C8.72899 9.55232 9.66803 8.61328 10.8266 8.61328C11.9851 8.61328 12.9242 9.55232 12.9242 10.7109C12.9242 11.2237 12.7401 11.694 12.4342 12.0588C12.7404 12.4233 12.9247 12.8936 12.9247 13.407C12.9247 14.5665 11.9856 15.5056 10.8261 15.5056C9.6672 15.5056 8.72852 14.5662 8.72852 13.407C8.72852 12.9928 9.0643 12.657 9.47852 12.657C9.89273 12.657 10.2285 12.9928 10.2285 13.407C10.2285 13.7385 10.4963 14.0056 10.8261 14.0056C11.1572 14.0056 11.4247 13.7381 11.4247 13.407C11.4247 13.0769 11.1577 12.8094 10.8266 12.8094C10.4124 12.8094 10.0766 12.4736 10.0766 12.0594C10.0766 11.6452 10.4124 11.3094 10.8266 11.3094C11.156 11.3094 11.4242 11.0417 11.4242 10.7109C11.4242 10.3807 11.1567 10.1133 10.8266 10.1133C10.4965 10.1133 10.229 10.3807 10.229 10.7109C10.229 11.1251 9.8932 11.4609 9.47899 11.4609C9.06478 11.4609 8.72899 11.1251 8.72899 10.7109Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.753 10.1562C15.2993 10.1562 14.9316 10.5239 14.9316 10.9776V13.1445C14.9316 13.5982 15.2993 13.9658 15.753 13.9658C16.2067 13.9658 16.5744 13.5982 16.5744 13.1445V10.9776C16.5744 10.5239 16.2067 10.1562 15.753 10.1562ZM13.4316 10.9776C13.4316 9.69551 14.4709 8.65625 15.753 8.65625C17.0351 8.65625 18.0744 9.69551 18.0744 10.9776V13.1445C18.0744 14.4266 17.0351 15.4658 15.753 15.4658C14.4709 15.4658 13.4316 14.4266 13.4316 13.1445V10.9776Z" fill="black"/> </svg> ',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 30s 1 — bold style variants.
+class _VideoMovieBackward30s1Bold {
+  const _VideoMovieBackward30s1Bold();
+
+  /// Backward 30s 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 30s 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5657 14.0103C11.2367 14.0103 10.9677 13.7403 10.9677 13.4093C10.9677 12.9953 10.6317 12.6593 10.2177 12.6593C9.80365 12.6593 9.46765 12.9953 9.46765 13.4093C9.46765 14.5683 10.4097 15.5103 11.5657 15.5103C12.7227 15.5103 13.6647 14.5683 13.6647 13.4093C13.6647 12.8963 13.4787 12.4253 13.1717 12.0603C13.4787 11.6953 13.6637 11.2243 13.6637 10.7103C13.6637 9.55233 12.7227 8.61133 11.5667 8.61133C10.4097 8.61133 9.46765 9.55233 9.46765 10.7103C9.46765 11.1243 9.80365 11.4603 10.2177 11.4603C10.6317 11.4603 10.9677 11.1243 10.9677 10.7103C10.9677 10.3793 11.2367 10.1113 11.5667 10.1113C11.8957 10.1113 12.1637 10.3793 12.1637 10.7103C12.1637 11.0463 11.9017 11.3103 11.5667 11.3103C11.1527 11.3103 10.8167 11.6463 10.8167 12.0603C10.8167 12.4743 11.1527 12.8103 11.5667 12.8103C11.9017 12.8103 12.1647 13.0733 12.1647 13.4093C12.1647 13.7403 11.8957 14.0103 11.5657 14.0103Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6711 13.1402V10.9802C15.6711 10.5282 16.0391 10.1602 16.4921 10.1602C16.9451 10.1602 17.3141 10.5282 17.3141 10.9802V13.1402C17.3141 13.5982 16.9451 13.9702 16.4921 13.9702C16.0391 13.9702 15.6711 13.5982 15.6711 13.1402ZM18.8141 13.1402V10.9802C18.8141 9.70116 17.7731 8.66016 16.4921 8.66016C15.2121 8.66016 14.1711 9.70116 14.1711 10.9802V13.1402C14.1711 14.4252 15.2121 15.4702 16.4921 15.4702C17.7731 15.4702 18.8141 14.4252 18.8141 13.1402Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4075 3.07031H9.73746C6.68846 3.07031 4.63946 5.20831 4.63946 8.39031V9.41931L3.91346 9.41631C3.60146 9.40331 3.36546 9.57531 3.23846 9.83331C3.11146 10.0893 3.14046 10.3953 3.31446 10.6223L4.78646 12.5423C4.92146 12.7363 5.13546 12.8713 5.38946 12.8713C5.39346 12.8713 5.39646 12.8693 5.39946 12.8693C5.40246 12.8693 5.40546 12.8713 5.40846 12.8713C5.45046 12.8713 5.48746 12.8503 5.52846 12.8433C5.58446 12.8323 5.64146 12.8273 5.69246 12.8043C5.76346 12.7753 5.82146 12.7283 5.88046 12.6773C5.89646 12.6643 5.91446 12.6533 5.92946 12.6383C5.95146 12.6153 5.98346 12.6033 6.00346 12.5773L7.49346 10.6333C7.66746 10.4083 7.69746 10.1033 7.57146 9.84731C7.44646 9.59131 7.18646 9.42831 6.90146 9.42731L6.13946 9.42431V8.39031C6.13946 6.07031 7.55246 4.57031 9.73746 4.57031H17.4075C19.5945 4.57031 21.0065 6.07031 21.0065 8.39031V15.6113C21.0065 17.9313 19.5935 19.4303 17.4055 19.4303H9.73746C7.55246 19.4303 6.13946 17.9313 6.13946 15.6113C6.13946 15.1973 5.80346 14.8613 5.38946 14.8613C4.97546 14.8613 4.63946 15.1973 4.63946 15.6113C4.63946 18.7933 6.68846 20.9303 9.73746 20.9303H17.4055C20.4565 20.9303 22.5065 18.7933 22.5065 15.6113V8.39031C22.5065 5.20831 20.4575 3.07031 17.4075 3.07031Z" fill="black"/> </svg>',
+    category: 'Video_&_Movie',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Backward 30s 1 — light style variants.
+class _VideoMovieBackward30s1Light {
+  const _VideoMovieBackward30s1Light();
+
+  /// Backward 30s 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Backward 30s 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.63281 15.6129C4.63281 18.2906 6.30051 20.183 8.9811 20.183H16.6492C19.3308 20.183 20.9994 18.2906 20.9994 15.6129V8.38653C20.9994 5.70887 19.3308 3.81641 16.6502 3.81641H8.9811C6.3083 3.81641 4.63281 5.70887 4.63281 8.38653V12.117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 10.4648L4.65213 12.117L6.29454 10.4746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.47899 10.7109C9.47899 9.96653 10.0822 9.36328 10.8266 9.36328C11.5709 9.36328 12.1742 9.96653 12.1742 10.7109C12.1742 11.4552 11.5709 12.0594 10.8266 12.0594C11.5719 12.0594 12.1747 12.6627 12.1747 13.407C12.1747 14.1523 11.5714 14.7556 10.8261 14.7556C10.0818 14.7556 9.47852 14.1523 9.47852 13.407" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.753 14.7158C14.8851 14.7158 14.1816 14.0124 14.1816 13.1445V10.9776C14.1816 10.1097 14.8851 9.40625 15.753 9.40625C16.6209 9.40625 17.3244 10.1097 17.3244 10.9776V13.1445C17.3244 14.0124 16.6209 14.7158 15.753 14.7158Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Video_&_Movie',
     style: IconfyStyle.light,

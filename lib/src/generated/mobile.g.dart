@@ -10,8 +10,32 @@ class _MobileIcons {
 
   /// Charge battery
   _MobileChargeBatteryIcon get chargeBattery => const _MobileChargeBatteryIcon();
+  /// Charge battery 1
+  _MobileChargeBattery1Icon get chargeBattery1 => const _MobileChargeBattery1Icon();
+  /// Charge battery 2
+  _MobileChargeBattery2Icon get chargeBattery2 => const _MobileChargeBattery2Icon();
+  /// Charge battery 3
+  _MobileChargeBattery3Icon get chargeBattery3 => const _MobileChargeBattery3Icon();
+  /// Charge battery 4
+  _MobileChargeBattery4Icon get chargeBattery4 => const _MobileChargeBattery4Icon();
+  /// Charge battery 5
+  _MobileChargeBattery5Icon get chargeBattery5 => const _MobileChargeBattery5Icon();
+  /// Charge battery 6
+  _MobileChargeBattery6Icon get chargeBattery6 => const _MobileChargeBattery6Icon();
+  /// Charge battery 7
+  _MobileChargeBattery7Icon get chargeBattery7 => const _MobileChargeBattery7Icon();
+  /// Charge battery 8
+  _MobileChargeBattery8Icon get chargeBattery8 => const _MobileChargeBattery8Icon();
+  /// Charge battery 9
+  _MobileChargeBattery9Icon get chargeBattery9 => const _MobileChargeBattery9Icon();
+  /// Charge battery 10
+  _MobileChargeBattery10Icon get chargeBattery10 => const _MobileChargeBattery10Icon();
+  /// Charge battery 11
+  _MobileChargeBattery11Icon get chargeBattery11 => const _MobileChargeBattery11Icon();
   /// Smart phone
   _MobileSmartPhoneIcon get smartPhone => const _MobileSmartPhoneIcon();
+  /// Smart phone 1
+  _MobileSmartPhone1Icon get smartPhone1 => const _MobileSmartPhone1Icon();
   /// Remove battery
   _MobileRemoveBatteryIcon get removeBattery => const _MobileRemoveBatteryIcon();
   /// Search phone
@@ -20,6 +44,14 @@ class _MobileIcons {
   _MobileMagsafeWirelessChargingIcon get magsafeWirelessCharging => const _MobileMagsafeWirelessChargingIcon();
   /// Phone ring vibration
   _MobilePhoneRingVibrationIcon get phoneRingVibration => const _MobilePhoneRingVibrationIcon();
+  /// Phone ring vibration 1
+  _MobilePhoneRingVibration1Icon get phoneRingVibration1 => const _MobilePhoneRingVibration1Icon();
+  /// Phone ring vibration 2
+  _MobilePhoneRingVibration2Icon get phoneRingVibration2 => const _MobilePhoneRingVibration2Icon();
+  /// Phone ring vibration 3
+  _MobilePhoneRingVibration3Icon get phoneRingVibration3 => const _MobilePhoneRingVibration3Icon();
+  /// Phone ring vibration 4
+  _MobilePhoneRingVibration4Icon get phoneRingVibration4 => const _MobilePhoneRingVibration4Icon();
   /// Low battery
   _MobileLowBatteryIcon get lowBattery => const _MobileLowBatteryIcon();
   /// update phone
@@ -30,6 +62,10 @@ class _MobileIcons {
   _MobileMediumBatteryIcon get mediumBattery => const _MobileMediumBatteryIcon();
   /// rotate phone
   _MobileRotatePhoneIcon get rotatePhone => const _MobileRotatePhoneIcon();
+  /// rotate phone 1
+  _MobileRotatePhone1Icon get rotatePhone1 => const _MobileRotatePhone1Icon();
+  /// rotate phone 2
+  _MobileRotatePhone2Icon get rotatePhone2 => const _MobileRotatePhone2Icon();
   /// Wifi phone
   _MobileWifiPhoneIcon get wifiPhone => const _MobileWifiPhoneIcon();
   /// Phone & tablet
@@ -56,48 +92,8 @@ class _MobileIcons {
 class _MobileChargeBatteryIcon {
   const _MobileChargeBatteryIcon();
 
-  /// bold style
-  _MobileChargeBatteryBold get bold => const _MobileChargeBatteryBold();
-  /// bulk style
-  _MobileChargeBatteryBulk get bulk => const _MobileChargeBatteryBulk();
-  /// light style
-  _MobileChargeBatteryLight get light => const _MobileChargeBatteryLight();
-  /// outline style
-  _MobileChargeBatteryOutline get outline => const _MobileChargeBatteryOutline();
   /// twoTone style
   _MobileChargeBatteryTwotone get twoTone => const _MobileChargeBatteryTwotone();
-  /// broken style
-  _MobileChargeBatteryBroken get broken => const _MobileChargeBatteryBroken();
-}
-
-/// Charge battery — bulk style variants.
-class _MobileChargeBatteryBulk {
-  const _MobileChargeBatteryBulk();
-
-  /// Charge battery — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Charge battery',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M7.4046 18.0777H15.1502C17.8368 18.0777 19.5142 16.5753 19.5142 13.8126V10.2672C19.5142 7.46121 17.8368 5.92383 15.1502 5.92383H7.41284C4.71804 5.92383 3.04886 7.43547 3.04886 10.1972V13.8126C3.04062 16.5753 4.70981 18.0777 7.4046 18.0777Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4085 12.0532L11.8075 15.0532C11.6725 15.3062 11.4135 15.4502 11.1445 15.4502C11.0255 15.4502 10.9055 15.4212 10.7925 15.3622C10.4265 15.1672 10.2895 14.7122 10.4835 14.3462L11.4965 12.4502H9.54654C9.28254 12.4502 9.03854 12.3112 8.90254 12.0862C8.76754 11.8602 8.75954 11.5802 8.88354 11.3472L10.4835 8.34723C10.6785 7.98123 11.1325 7.84423 11.4985 8.03823C11.8645 8.23323 12.0025 8.68723 11.8075 9.05223L10.7965 10.9502H12.7465C13.0095 10.9502 13.2545 11.0882 13.3895 11.3142C13.5245 11.5402 13.5325 11.8202 13.4085 12.0532Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1014 9.06445C18.1014 8.65024 18.4372 8.31445 18.8514 8.31445H19.6513C20.4464 8.31445 21.1475 8.54743 21.6204 9.13486C22.0651 9.68717 22.1955 10.4195 22.1955 11.1633V12.8719C22.1955 13.606 22.0644 14.3313 21.6159 14.8776C21.1412 15.4559 20.4413 15.6818 19.6513 15.6818H18.8592C18.445 15.6818 18.1092 15.346 18.1092 14.9318C18.1092 14.5176 18.445 14.1818 18.8592 14.1818H19.6513C20.1621 14.1818 20.3594 14.0443 20.4565 13.9259C20.58 13.7755 20.6955 13.4708 20.6955 12.8719V11.1633C20.6955 10.5506 20.5793 10.2336 20.4521 10.0756C20.3531 9.95268 20.157 9.81445 19.6513 9.81445H18.8514C18.4372 9.81445 18.1014 9.47867 18.1014 9.06445Z" fill="black"/> </svg>',
-    category: 'Mobile',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Charge battery — broken style variants.
-class _MobileChargeBatteryBroken {
-  const _MobileChargeBatteryBroken();
-
-  /// Charge battery — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Charge battery',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.077 20.8099H9.99892C7.41668 20.8177 6.01074 19.2561 6.01074 16.7371V12.9062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.374 10.1913V9.49565C17.374 6.98346 15.936 5.41504 13.3128 5.41504H9.99892C7.41668 5.41504 6.01074 6.98346 6.01074 9.49565" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5957 5.56668V4.77469C14.5957 3.48746 13.8611 3 12.5184 3H10.8284C9.51004 3 8.79102 3.48746 8.79102 4.77469V5.5589" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2299 15.4519V14.6469C18.2299 14.2645 17.9205 13.9551 17.5381 13.9551H12.682C12.3006 13.9551 11.9902 14.2645 11.9902 14.6469V15.7239C11.9902 17.5482 13.5557 19.0067 15.417 18.8296C16.2872 18.7466 17.0334 18.2892 17.5381 17.6312" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.1113 18.8447V20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.543 12.5664V13.9558M16.6804 12.5664V13.9355" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Mobile',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Charge battery — twoTone style variants.
@@ -115,28 +111,44 @@ class _MobileChargeBatteryTwotone {
 
 }
 
-/// Charge battery — outline style variants.
-class _MobileChargeBatteryOutline {
-  const _MobileChargeBatteryOutline();
+/// Charge battery 1 icon with style variants.
+class _MobileChargeBattery1Icon {
+  const _MobileChargeBattery1Icon();
 
-  /// Charge battery — outline / regular
+  /// twoTone style
+  _MobileChargeBattery1Twotone get twoTone => const _MobileChargeBattery1Twotone();
+}
+
+/// Charge battery 1 — twoTone style variants.
+class _MobileChargeBattery1Twotone {
+  const _MobileChargeBattery1Twotone();
+
+  /// Charge battery 1 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Charge battery',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.58783 6.75682C4.47634 5.90485 5.71381 5.50781 7.12349 5.50781H14.4344C15.8441 5.50781 17.0826 5.91318 17.9712 6.77813C18.8631 7.64628 19.3079 8.8854 19.3079 10.3618V13.7118C19.3079 15.1713 18.8608 16.3939 17.966 17.2482C17.0765 18.0974 15.8395 18.4918 14.4344 18.4918H7.11571C5.70737 18.4918 4.46962 18.0977 3.58147 17.2475C2.68815 16.3924 2.24591 15.1691 2.25003 13.7107V10.2957C2.25003 8.83769 2.69447 7.61342 3.58783 6.75682ZM4.62599 7.83951C4.09418 8.34945 3.75003 9.1441 3.75003 10.2957V13.7118L3.75003 13.714C3.74659 14.8656 4.08907 15.6569 4.61873 16.1639C5.15379 16.6762 5.97777 16.9918 7.11571 16.9918H14.4344C15.5678 16.9918 16.3926 16.6765 16.9302 16.1632C17.4625 15.6551 17.8079 14.8628 17.8079 13.7118V10.3618C17.8079 9.18688 17.4602 8.37399 16.9249 7.85298C16.3864 7.32877 15.5632 7.00781 14.4344 7.00781H7.12349C5.9869 7.00781 5.16264 7.32494 4.62599 7.83951Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6562 9.06445C17.6562 8.65024 17.992 8.31445 18.4062 8.31445H19.206C20.0015 8.31445 20.7027 8.54733 21.1756 9.13496C21.6201 9.68733 21.7502 10.4198 21.7502 11.1632V12.8717C21.7502 13.6055 21.6194 14.3308 21.1711 14.8772C20.6964 15.4557 19.9964 15.6815 19.206 15.6815H18.414C17.9998 15.6815 17.664 15.3457 17.664 14.9315C17.664 14.5173 17.9998 14.1815 18.414 14.1815H19.206C19.7175 14.1815 19.9146 14.0439 20.0115 13.9257C20.1348 13.7754 20.2502 13.4709 20.2502 12.8717V11.1632C20.2502 10.5502 20.1341 10.2333 20.007 10.0754C19.9083 9.95277 19.7124 9.81445 19.206 9.81445H18.4062C17.992 9.81445 17.6562 9.47867 17.6562 9.06445Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0212 8.12917C11.3851 8.32699 11.5198 8.78237 11.3219 9.14629L10.3102 11.0076H12.2616C12.5262 11.0076 12.7712 11.1471 12.9064 11.3746C13.0415 11.6021 13.0468 11.8839 12.9202 12.1163L11.3041 15.0839C11.106 15.4477 10.6505 15.582 10.2868 15.3839C9.92301 15.1857 9.78871 14.7303 9.98682 14.3665L10.9991 12.5076H9.04883C8.78432 12.5076 8.53937 12.3683 8.40418 12.1409C8.26899 11.9136 8.26356 11.6318 8.38989 11.3994L10.0041 8.42992C10.2019 8.066 10.6573 7.93135 11.0212 8.12917Z" fill="black"/> </svg> ',
+    name: 'Charge battery 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.5555 17.7418H7.2368C4.69053 17.7418 3.11334 16.3223 3.12112 13.7118V10.2957C3.12112 7.68614 4.69831 6.25781 7.24459 6.25781H14.5555C17.094 6.25781 18.679 7.71046 18.679 10.3618V13.7118C18.679 16.3223 17.094 17.7418 14.5555 17.7418Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.5273 9.06445H19.3271C20.629 9.06445 21.1213 9.80683 21.1213 11.1632V12.8717C21.1213 14.2047 20.629 14.9315 19.3271 14.9315H18.5351" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.7666 14.7252L12.3827 11.7576H9.16992L10.7841 8.78809" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Mobile',
-    style: IconfyStyle.outline,
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
 }
 
-/// Charge battery — bold style variants.
-class _MobileChargeBatteryBold {
-  const _MobileChargeBatteryBold();
+/// Charge battery 2 icon with style variants.
+class _MobileChargeBattery2Icon {
+  const _MobileChargeBattery2Icon();
 
-  /// Charge battery — bold / regular
+  /// bold style
+  _MobileChargeBattery2Bold get bold => const _MobileChargeBattery2Bold();
+}
+
+/// Charge battery 2 — bold style variants.
+class _MobileChargeBattery2Bold {
+  const _MobileChargeBattery2Bold();
+
+  /// Charge battery 2 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Charge battery',
+    name: 'Charge battery 2',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.90538 4.8C9.90538 4.166 9.99938 3.75 11.2554 3.75H12.9554C14.2024 3.75 14.3054 4.246 14.3054 4.8V5.021C14.1554 5.014 14.0114 4.994 13.8554 5H10.5554C10.3284 5 10.1194 5.03 9.90538 5.052V4.8ZM13.1945 20.8082C13.1901 20.7375 13.1484 20.6745 13.0857 20.6415C12.6923 20.4352 12.3153 20.195 11.9774 19.893C10.4298 18.5076 9.98738 16.6755 9.98738 14.7C9.98738 13.4756 10.6489 12.4444 11.6349 11.9054C11.6822 11.8796 11.718 11.8368 11.7356 11.7859C12.074 10.8072 12.993 10.1 14.0874 10.1C14.6964 10.1 15.2534 10.318 15.6874 10.679C16.1204 10.318 16.6784 10.1 17.2874 10.1C17.5591 10.1 17.8184 10.1466 18.0619 10.2287C18.2012 10.2758 18.3554 10.1781 18.3554 10.031V9.6C18.3554 8.123 17.9054 6.91 17.0544 6.092C16.6994 5.751 16.2734 5.501 15.8054 5.318V4.8C15.8054 4.033 15.5284 2.25 12.9554 2.25H11.2554C8.90038 2.25 8.40538 3.637 8.40538 4.8V5.435C6.86338 6.117 5.95538 7.578 5.95538 9.6V16.901C5.95538 19.78 7.63738 21.5 10.4554 21.5H13.0246C13.1399 21.5 13.2313 21.4027 13.2242 21.2876L13.1945 20.8082Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.5548 13.5896L18.5528 13.5886C18.4068 13.5296 18.2498 13.4996 18.0868 13.4996H18.0368V12.5996C18.0368 12.1856 17.7008 11.8496 17.2868 11.8496C16.8728 11.8496 16.5368 12.1856 16.5368 12.5996V13.4996H14.8368V12.5996C14.8368 12.1856 14.5008 11.8496 14.0868 11.8496C13.6728 11.8496 13.3368 12.1856 13.3368 12.5996V13.4996H13.1868C13.0248 13.4996 12.8678 13.5296 12.7198 13.5896C12.2748 13.7726 11.9868 14.2076 11.9868 14.7046L11.9968 15.7156C12.0508 17.4316 13.2948 18.8836 14.9368 19.2316V20.9996C14.9368 21.4136 15.2728 21.7496 15.6868 21.7496C16.1008 21.7496 16.4368 21.4136 16.4368 20.9996V19.2096C18.0268 18.8266 19.2238 17.3966 19.2778 15.7046L19.2868 14.6996C19.2868 14.2076 18.9998 13.7726 18.5548 13.5896Z" fill="black"/> </svg>',
     category: 'Mobile',
     style: IconfyStyle.bold,
@@ -145,16 +157,208 @@ class _MobileChargeBatteryBold {
 
 }
 
-/// Charge battery — light style variants.
-class _MobileChargeBatteryLight {
-  const _MobileChargeBatteryLight();
+/// Charge battery 3 icon with style variants.
+class _MobileChargeBattery3Icon {
+  const _MobileChargeBattery3Icon();
 
-  /// Charge battery — light / regular
+  /// bold style
+  _MobileChargeBattery3Bold get bold => const _MobileChargeBattery3Bold();
+}
+
+/// Charge battery 3 — bold style variants.
+class _MobileChargeBattery3Bold {
+  const _MobileChargeBattery3Bold();
+
+  /// Charge battery 3 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Charge battery',
+    name: 'Charge battery 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.90538 4.8C9.90538 4.166 9.99938 3.75 11.2554 3.75H12.9554C14.2024 3.75 14.3054 4.246 14.3054 4.8V5.021C14.1554 5.014 14.0114 4.994 13.8554 5H10.5554C10.3284 5 10.1194 5.03 9.90538 5.052V4.8ZM13.1945 20.8082C13.1901 20.7375 13.1484 20.6745 13.0857 20.6415C12.6923 20.4352 12.3153 20.195 11.9774 19.893C10.4298 18.5076 9.98738 16.6755 9.98738 14.7C9.98738 13.4756 10.6489 12.4444 11.6349 11.9054C11.6822 11.8796 11.718 11.8368 11.7356 11.7859C12.074 10.8072 12.993 10.1 14.0874 10.1C14.6964 10.1 15.2534 10.318 15.6874 10.679C16.1204 10.318 16.6784 10.1 17.2874 10.1C17.5591 10.1 17.8184 10.1466 18.0619 10.2287C18.2012 10.2758 18.3554 10.1781 18.3554 10.031V9.6C18.3554 8.123 17.9054 6.91 17.0544 6.092C16.6994 5.751 16.2734 5.501 15.8054 5.318V4.8C15.8054 4.033 15.5284 2.25 12.9554 2.25H11.2554C8.90038 2.25 8.40538 3.637 8.40538 4.8V5.435C6.86338 6.117 5.95538 7.578 5.95538 9.6V16.901C5.95538 19.78 7.63738 21.5 10.4554 21.5H13.0246C13.1399 21.5 13.2313 21.4027 13.2242 21.2876L13.1945 20.8082Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.5548 13.5896L18.5528 13.5886C18.4068 13.5296 18.2498 13.4996 18.0868 13.4996H18.0368V12.5996C18.0368 12.1856 17.7008 11.8496 17.2868 11.8496C16.8728 11.8496 16.5368 12.1856 16.5368 12.5996V13.4996H14.8368V12.5996C14.8368 12.1856 14.5008 11.8496 14.0868 11.8496C13.6728 11.8496 13.3368 12.1856 13.3368 12.5996V13.4996H13.1868C13.0248 13.4996 12.8678 13.5296 12.7198 13.5896C12.2748 13.7726 11.9868 14.2076 11.9868 14.7046L11.9968 15.7156C12.0508 17.4316 13.2948 18.8836 14.9368 19.2316V20.9996C14.9368 21.4136 15.2728 21.7496 15.6868 21.7496C16.1008 21.7496 16.4368 21.4136 16.4368 20.9996V19.2096C18.0268 18.8266 19.2238 17.3966 19.2778 15.7046L19.2868 14.6996C19.2868 14.2076 18.9998 13.7726 18.5548 13.5896Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Charge battery 4 icon with style variants.
+class _MobileChargeBattery4Icon {
+  const _MobileChargeBattery4Icon();
+
+  /// bulk style
+  _MobileChargeBattery4Bulk get bulk => const _MobileChargeBattery4Bulk();
+}
+
+/// Charge battery 4 — bulk style variants.
+class _MobileChargeBattery4Bulk {
+  const _MobileChargeBattery4Bulk();
+
+  /// Charge battery 4 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Charge battery 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M7.4046 18.0777H15.1502C17.8368 18.0777 19.5142 16.5753 19.5142 13.8126V10.2672C19.5142 7.46121 17.8368 5.92383 15.1502 5.92383H7.41284C4.71804 5.92383 3.04886 7.43547 3.04886 10.1972V13.8126C3.04062 16.5753 4.70981 18.0777 7.4046 18.0777Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4085 12.0532L11.8075 15.0532C11.6725 15.3062 11.4135 15.4502 11.1445 15.4502C11.0255 15.4502 10.9055 15.4212 10.7925 15.3622C10.4265 15.1672 10.2895 14.7122 10.4835 14.3462L11.4965 12.4502H9.54654C9.28254 12.4502 9.03854 12.3112 8.90254 12.0862C8.76754 11.8602 8.75954 11.5802 8.88354 11.3472L10.4835 8.34723C10.6785 7.98123 11.1325 7.84423 11.4985 8.03823C11.8645 8.23323 12.0025 8.68723 11.8075 9.05223L10.7965 10.9502H12.7465C13.0095 10.9502 13.2545 11.0882 13.3895 11.3142C13.5245 11.5402 13.5325 11.8202 13.4085 12.0532Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1014 9.06445C18.1014 8.65024 18.4372 8.31445 18.8514 8.31445H19.6513C20.4464 8.31445 21.1475 8.54743 21.6204 9.13486C22.0651 9.68717 22.1955 10.4195 22.1955 11.1633V12.8719C22.1955 13.606 22.0644 14.3313 21.6159 14.8776C21.1412 15.4559 20.4413 15.6818 19.6513 15.6818H18.8592C18.445 15.6818 18.1092 15.346 18.1092 14.9318C18.1092 14.5176 18.445 14.1818 18.8592 14.1818H19.6513C20.1621 14.1818 20.3594 14.0443 20.4565 13.9259C20.58 13.7755 20.6955 13.4708 20.6955 12.8719V11.1633C20.6955 10.5506 20.5793 10.2336 20.4521 10.0756C20.3531 9.95268 20.157 9.81445 19.6513 9.81445H18.8514C18.4372 9.81445 18.1014 9.47867 18.1014 9.06445Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Charge battery 5 icon with style variants.
+class _MobileChargeBattery5Icon {
+  const _MobileChargeBattery5Icon();
+
+  /// bulk style
+  _MobileChargeBattery5Bulk get bulk => const _MobileChargeBattery5Bulk();
+}
+
+/// Charge battery 5 — bulk style variants.
+class _MobileChargeBattery5Bulk {
+  const _MobileChargeBattery5Bulk();
+
+  /// Charge battery 5 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Charge battery 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M7.4046 18.0777H15.1502C17.8368 18.0777 19.5142 16.5753 19.5142 13.8126V10.2672C19.5142 7.46121 17.8368 5.92383 15.1502 5.92383H7.41284C4.71804 5.92383 3.04886 7.43547 3.04886 10.1972V13.8126C3.04062 16.5753 4.70981 18.0777 7.4046 18.0777Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4085 12.0532L11.8075 15.0532C11.6725 15.3062 11.4135 15.4502 11.1445 15.4502C11.0255 15.4502 10.9055 15.4212 10.7925 15.3622C10.4265 15.1672 10.2895 14.7122 10.4835 14.3462L11.4965 12.4502H9.54654C9.28254 12.4502 9.03854 12.3112 8.90254 12.0862C8.76754 11.8602 8.75954 11.5802 8.88354 11.3472L10.4835 8.34723C10.6785 7.98123 11.1325 7.84423 11.4985 8.03823C11.8645 8.23323 12.0025 8.68723 11.8075 9.05223L10.7965 10.9502H12.7465C13.0095 10.9502 13.2545 11.0882 13.3895 11.3142C13.5245 11.5402 13.5325 11.8202 13.4085 12.0532Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1014 9.06445C18.1014 8.65024 18.4372 8.31445 18.8514 8.31445H19.6513C20.4464 8.31445 21.1475 8.54743 21.6204 9.13486C22.0651 9.68717 22.1955 10.4195 22.1955 11.1633V12.8719C22.1955 13.606 22.0644 14.3313 21.6159 14.8776C21.1412 15.4559 20.4413 15.6818 19.6513 15.6818H18.8592C18.445 15.6818 18.1092 15.346 18.1092 14.9318C18.1092 14.5176 18.445 14.1818 18.8592 14.1818H19.6513C20.1621 14.1818 20.3594 14.0443 20.4565 13.9259C20.58 13.7755 20.6955 13.4708 20.6955 12.8719V11.1633C20.6955 10.5506 20.5793 10.2336 20.4521 10.0756C20.3531 9.95268 20.157 9.81445 19.6513 9.81445H18.8514C18.4372 9.81445 18.1014 9.47867 18.1014 9.06445Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Charge battery 6 icon with style variants.
+class _MobileChargeBattery6Icon {
+  const _MobileChargeBattery6Icon();
+
+  /// broken style
+  _MobileChargeBattery6Broken get broken => const _MobileChargeBattery6Broken();
+}
+
+/// Charge battery 6 — broken style variants.
+class _MobileChargeBattery6Broken {
+  const _MobileChargeBattery6Broken();
+
+  /// Charge battery 6 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Charge battery 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.077 20.8099H9.99892C7.41668 20.8177 6.01074 19.2561 6.01074 16.7371V12.9062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.374 10.1913V9.49565C17.374 6.98346 15.936 5.41504 13.3128 5.41504H9.99892C7.41668 5.41504 6.01074 6.98346 6.01074 9.49565" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5957 5.56668V4.77469C14.5957 3.48746 13.8611 3 12.5184 3H10.8284C9.51004 3 8.79102 3.48746 8.79102 4.77469V5.5589" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2299 15.4519V14.6469C18.2299 14.2645 17.9205 13.9551 17.5381 13.9551H12.682C12.3006 13.9551 11.9902 14.2645 11.9902 14.6469V15.7239C11.9902 17.5482 13.5557 19.0067 15.417 18.8296C16.2872 18.7466 17.0334 18.2892 17.5381 17.6312" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.1113 18.8447V20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.543 12.5664V13.9558M16.6804 12.5664V13.9355" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Charge battery 7 icon with style variants.
+class _MobileChargeBattery7Icon {
+  const _MobileChargeBattery7Icon();
+
+  /// broken style
+  _MobileChargeBattery7Broken get broken => const _MobileChargeBattery7Broken();
+}
+
+/// Charge battery 7 — broken style variants.
+class _MobileChargeBattery7Broken {
+  const _MobileChargeBattery7Broken();
+
+  /// Charge battery 7 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Charge battery 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.8962 17.7418H14.5555C17.094 17.7418 18.679 16.3223 18.679 13.7118V10.3618C18.679 7.71046 17.094 6.25781 14.5555 6.25781H7.24459C4.69831 6.25781 3.12112 7.68614 3.12112 10.2957V13.7118C3.11334 16.3223 4.69053 17.7418 7.2368 17.7418H7.7774" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5273 9.06445H19.3271C20.629 9.06445 21.1213 9.80683 21.1213 11.1632V12.8717C21.1213 14.2047 20.629 14.9315 19.3271 14.9315H18.5351" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.7666 14.7252L12.3827 11.7576H9.16992L10.7841 8.78809" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Charge battery 8 icon with style variants.
+class _MobileChargeBattery8Icon {
+  const _MobileChargeBattery8Icon();
+
+  /// light style
+  _MobileChargeBattery8Light get light => const _MobileChargeBattery8Light();
+}
+
+/// Charge battery 8 — light style variants.
+class _MobileChargeBattery8Light {
+  const _MobileChargeBattery8Light();
+
+  /// Charge battery 8 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Charge battery 8',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.4344 17.7418H7.11571C4.56944 17.7418 2.99224 16.3223 3.00003 13.7118V10.2957C3.00003 7.68614 4.57722 6.25781 7.12349 6.25781H14.4344C16.9729 6.25781 18.5579 7.71046 18.5579 10.3618V13.7118C18.5579 16.3223 16.9729 17.7418 14.4344 17.7418Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.4062 9.06445H19.206C20.5079 9.06445 21.0002 9.80683 21.0002 11.1632V12.8717C21.0002 14.2047 20.5079 14.9315 19.206 14.9315H18.414" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6455 14.7252L12.2616 11.7576H9.04883L10.663 8.78809" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Mobile',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Charge battery 9 icon with style variants.
+class _MobileChargeBattery9Icon {
+  const _MobileChargeBattery9Icon();
+
+  /// light style
+  _MobileChargeBattery9Light get light => const _MobileChargeBattery9Light();
+}
+
+/// Charge battery 9 — light style variants.
+class _MobileChargeBattery9Light {
+  const _MobileChargeBattery9Light();
+
+  /// Charge battery 9 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Charge battery 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.4344 17.7418H7.11571C4.56944 17.7418 2.99224 16.3223 3.00003 13.7118V10.2957C3.00003 7.68614 4.57722 6.25781 7.12349 6.25781H14.4344C16.9729 6.25781 18.5579 7.71046 18.5579 10.3618V13.7118C18.5579 16.3223 16.9729 17.7418 14.4344 17.7418Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.4062 9.06445H19.206C20.5079 9.06445 21.0002 9.80683 21.0002 11.1632V12.8717C21.0002 14.2047 20.5079 14.9315 19.206 14.9315H18.414" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6455 14.7252L12.2616 11.7576H9.04883L10.663 8.78809" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Charge battery 10 icon with style variants.
+class _MobileChargeBattery10Icon {
+  const _MobileChargeBattery10Icon();
+
+  /// outline style
+  _MobileChargeBattery10Outline get outline => const _MobileChargeBattery10Outline();
+}
+
+/// Charge battery 10 — outline style variants.
+class _MobileChargeBattery10Outline {
+  const _MobileChargeBattery10Outline();
+
+  /// Charge battery 10 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Charge battery 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.86064 21.5594C9.23595 21.5878 8.61186 21.4915 8.02482 21.276C7.43778 21.0605 6.89958 20.7302 6.44166 20.3043C5.99814 19.8263 5.65465 19.2643 5.43141 18.6516C5.20816 18.0389 5.10963 17.3877 5.14164 16.7364V9.49635C5.14164 6.51635 6.95665 4.66536 9.87965 4.66536H13.1936C13.8402 4.6141 14.4902 4.70406 15.0985 4.929C15.7068 5.15394 16.2589 5.50848 16.7166 5.96805C17.1743 6.42761 17.5265 6.9812 17.7489 7.59045C17.9713 8.1997 18.0586 8.85002 18.0046 9.49635V10.1963C18.0046 10.3953 17.9256 10.586 17.785 10.7267C17.6443 10.8673 17.4536 10.9463 17.2546 10.9463C17.0557 10.9463 16.865 10.8673 16.7243 10.7267C16.5837 10.586 16.5046 10.3953 16.5046 10.1963V9.49635C16.5572 9.04797 16.5079 8.5935 16.3604 8.16682C16.2129 7.74014 15.971 7.35226 15.6528 7.03207C15.3345 6.71189 14.9481 6.46765 14.5223 6.31758C14.0965 6.16751 13.6423 6.11549 13.1936 6.16536H9.88365C7.20765 6.16536 6.64564 7.97635 6.64564 9.49635V16.7364C6.61637 17.1899 6.67703 17.6448 6.82411 18.0749C6.97118 18.5049 7.20175 18.9017 7.50263 19.2424C7.82199 19.5291 8.19548 19.7491 8.60111 19.8894C9.00675 20.0298 9.43634 20.0875 9.86463 20.0594H10.9646C11.1636 20.0594 11.3543 20.1384 11.495 20.279C11.6356 20.4197 11.7146 20.6104 11.7146 20.8094C11.7146 21.0083 11.6356 21.199 11.495 21.3397C11.3543 21.4803 11.1636 21.5594 10.9646 21.5594H9.86463H9.86064Z" fill="black"/> <path d="M14.4837 6.317C14.2848 6.317 14.094 6.23799 13.9534 6.09734C13.8127 5.95668 13.7337 5.76591 13.7337 5.567V4.77501C13.7337 4.17501 13.6337 3.75 12.4057 3.75H10.7157C9.5157 3.75 9.42871 4.17501 9.42871 4.77501V5.55901C9.42871 5.75792 9.34967 5.94869 9.20901 6.08934C9.06836 6.22999 8.87762 6.30901 8.67871 6.30901C8.4798 6.30901 8.28903 6.22999 8.14838 6.08934C8.00772 5.94869 7.92871 5.75792 7.92871 5.55901V4.77501C7.92871 3.62301 8.4117 2.25 10.7157 2.25H12.4057C14.7427 2.25 15.2337 3.62301 15.2337 4.77501V5.567C15.2337 5.76591 15.1547 5.95668 15.014 6.09734C14.8734 6.23799 14.6826 6.317 14.4837 6.317V6.317Z" fill="black"/> <path d="M15.004 19.5941C14.495 19.5954 13.9907 19.4963 13.52 19.3024C13.0493 19.1085 12.6215 18.8236 12.2611 18.4641C11.9007 18.1046 11.6147 17.6776 11.4196 17.2074C11.2245 16.7372 11.124 16.2331 11.124 15.7241V14.6471C11.1246 14.2648 11.2767 13.8983 11.547 13.628C11.8173 13.3577 12.1838 13.2056 12.566 13.2051H17.422C17.8043 13.2056 18.1708 13.3577 18.4411 13.628C18.7114 13.8983 18.8635 14.2648 18.864 14.6471V15.5901C18.8742 16.5678 18.5237 17.515 17.8795 18.2505C17.2353 18.986 16.3426 19.4583 15.372 19.5771C15.25 19.5881 15.127 19.5941 15.004 19.5941ZM17.364 14.6471L12.564 14.7051L12.622 15.7241C12.6225 16.0544 12.6918 16.381 12.8256 16.683C12.9594 16.985 13.1547 17.2558 13.399 17.4781C13.6436 17.7028 13.9331 17.8729 14.2485 17.9772C14.5638 18.0816 14.8977 18.1176 15.228 18.0831C15.828 18.0026 16.3773 17.7038 16.7709 17.244C17.1646 16.7841 17.375 16.1953 17.362 15.5901L17.364 14.6471Z" fill="black"/> <path d="M14.9951 21.7497C14.7962 21.7497 14.6054 21.6707 14.4648 21.5301C14.3241 21.3894 14.2451 21.1986 14.2451 20.9997V18.8447C14.2451 18.6458 14.3241 18.455 14.4648 18.3144C14.6054 18.1737 14.7962 18.0947 14.9951 18.0947C15.194 18.0947 15.3848 18.1737 15.5255 18.3144C15.6661 18.455 15.7451 18.6458 15.7451 18.8447V20.9997C15.7451 21.1986 15.6661 21.3894 15.5255 21.5301C15.3848 21.6707 15.194 21.7497 14.9951 21.7497Z" fill="black"/> <path d="M16.5638 14.6582C16.3648 14.6582 16.1741 14.5792 16.0334 14.4385C15.8928 14.2979 15.8138 14.1071 15.8138 13.9082V12.5664C15.8138 12.3675 15.8928 12.1767 16.0334 12.0361C16.1741 11.8954 16.3648 11.8164 16.5638 11.8164C16.7627 11.8164 16.9534 11.8954 17.0941 12.0361C17.2347 12.1767 17.3138 12.3675 17.3138 12.5664V13.9082C17.3138 14.1071 17.2347 14.2979 17.0941 14.4385C16.9534 14.5792 16.7627 14.6582 16.5638 14.6582ZM13.4268 14.7064C13.2278 14.7064 13.0371 14.6274 12.8964 14.4867C12.7558 14.3461 12.6768 14.1553 12.6768 13.9564V12.5664C12.6768 12.3675 12.7558 12.1767 12.8964 12.0361C13.0371 11.8954 13.2278 11.8164 13.4268 11.8164C13.6257 11.8164 13.8164 11.8954 13.9571 12.0361C14.0977 12.1767 14.1768 12.3675 14.1768 12.5664V13.9564C14.1768 14.1553 14.0977 14.3461 13.9571 14.4867C13.8164 14.6274 13.6257 14.7064 13.4268 14.7064Z" fill="black"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Charge battery 11 icon with style variants.
+class _MobileChargeBattery11Icon {
+  const _MobileChargeBattery11Icon();
+
+  /// outline style
+  _MobileChargeBattery11Outline get outline => const _MobileChargeBattery11Outline();
+}
+
+/// Charge battery 11 — outline style variants.
+class _MobileChargeBattery11Outline {
+  const _MobileChargeBattery11Outline();
+
+  /// Charge battery 11 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Charge battery 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.58783 6.75682C4.47634 5.90485 5.71381 5.50781 7.12349 5.50781H14.4344C15.8441 5.50781 17.0826 5.91318 17.9712 6.77813C18.8631 7.64628 19.3079 8.8854 19.3079 10.3618V13.7118C19.3079 15.1713 18.8608 16.3939 17.966 17.2482C17.0765 18.0974 15.8395 18.4918 14.4344 18.4918H7.11571C5.70737 18.4918 4.46962 18.0977 3.58147 17.2475C2.68815 16.3924 2.24591 15.1691 2.25003 13.7107V10.2957C2.25003 8.83769 2.69447 7.61342 3.58783 6.75682ZM4.62599 7.83951C4.09418 8.34945 3.75003 9.1441 3.75003 10.2957V13.7118L3.75003 13.714C3.74659 14.8656 4.08907 15.6569 4.61873 16.1639C5.15379 16.6762 5.97777 16.9918 7.11571 16.9918H14.4344C15.5678 16.9918 16.3926 16.6765 16.9302 16.1632C17.4625 15.6551 17.8079 14.8628 17.8079 13.7118V10.3618C17.8079 9.18688 17.4602 8.37399 16.9249 7.85298C16.3864 7.32877 15.5632 7.00781 14.4344 7.00781H7.12349C5.9869 7.00781 5.16264 7.32494 4.62599 7.83951Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6562 9.06445C17.6562 8.65024 17.992 8.31445 18.4062 8.31445H19.206C20.0015 8.31445 20.7027 8.54733 21.1756 9.13496C21.6201 9.68733 21.7502 10.4198 21.7502 11.1632V12.8717C21.7502 13.6055 21.6194 14.3308 21.1711 14.8772C20.6964 15.4557 19.9964 15.6815 19.206 15.6815H18.414C17.9998 15.6815 17.664 15.3457 17.664 14.9315C17.664 14.5173 17.9998 14.1815 18.414 14.1815H19.206C19.7175 14.1815 19.9146 14.0439 20.0115 13.9257C20.1348 13.7754 20.2502 13.4709 20.2502 12.8717V11.1632C20.2502 10.5502 20.1341 10.2333 20.007 10.0754C19.9083 9.95277 19.7124 9.81445 19.206 9.81445H18.4062C17.992 9.81445 17.6562 9.47867 17.6562 9.06445Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0212 8.12917C11.3851 8.32699 11.5198 8.78237 11.3219 9.14629L10.3102 11.0076H12.2616C12.5262 11.0076 12.7712 11.1471 12.9064 11.3746C13.0415 11.6021 13.0468 11.8839 12.9202 12.1163L11.3041 15.0839C11.106 15.4477 10.6505 15.582 10.2868 15.3839C9.92301 15.1857 9.78871 14.7303 9.98682 14.3665L10.9991 12.5076H9.04883C8.78432 12.5076 8.53937 12.3683 8.40418 12.1409C8.26899 11.9136 8.26356 11.6318 8.38989 11.3994L10.0041 8.42992C10.2019 8.066 10.6573 7.93135 11.0212 8.12917Z" fill="black"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -185,7 +389,7 @@ class _MobileSmartPhoneBulk {
   /// Smart phone — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Smart phone',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.75 2.5H9.25002C6.99002 2.5 5.15002 4.34 5.15002 6.6V17.4C5.15002 19.66 6.99002 21.5 9.25002 21.5H14.75C17.01 21.5 18.85 19.66 18.85 17.4V6.6C18.85 4.34 17.01 2.5 14.75 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.95 18.15C11.44 18.15 11 17.71 11 17.2C11 16.69 11.44 16.25 11.95 16.25C12.46 16.25 12.9 16.69 12.9 17.2C12.9 17.71 12.46 18.15 11.95 18.15Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.75 2.5H9.25002C6.98902 2.5 5.15002 4.339 5.15002 6.599V17.4C5.15002 19.661 6.98902 21.5 9.25002 21.5H14.75C17.011 21.5 18.85 19.661 18.85 17.4V6.599C18.85 4.339 17.011 2.5 14.75 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4 7.4502H10.6C10.186 7.4502 9.85004 7.1142 9.85004 6.7002C9.85004 6.2862 10.186 5.9502 10.6 5.9502H13.4C13.814 5.9502 14.15 6.2862 14.15 6.7002C14.15 7.1142 13.814 7.4502 13.4 7.4502ZM12 18.1502C11.467 18.1502 11.05 17.7332 11.05 17.2002C11.05 16.6562 11.552 16.2502 12 16.2502C12.449 16.2502 12.95 16.6562 12.95 17.2002C12.95 17.7442 12.449 18.1502 12 18.1502Z" fill="black"/> </svg>',
     category: 'Mobile',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -200,7 +404,7 @@ class _MobileSmartPhoneBroken {
   /// Smart phone — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Smart phone',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.8748 11.4887V6.61751C18.8748 4.62 17.2548 3 15.2573 3H9.74154C7.74402 3 6.12402 4.62 6.12402 6.61849L6.125 17.3825C6.125 19.38 7.745 21 9.74251 21H15.2573C17.2558 21 18.8758 19.38 18.8758 17.3815L18.8756 14.6905" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5002 17.3306V17.2824M12.5002 17.0293C12.362 17.0293 12.25 17.1413 12.25 17.2791C12.25 17.4173 12.362 17.5293 12.5002 17.5293C12.6385 17.5293 12.7505 17.4173 12.7505 17.2791C12.7505 17.1413 12.6385 17.0293 12.5002 17.0293Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.8753 11.9995L18.8748 6.61751C18.8748 4.62 17.2548 3 15.2573 3H9.74154C7.74402 3 6.12402 4.62 6.12402 6.61849L6.125 17.3825C6.125 19.38 7.745 21 9.74251 21H15.2573C17.2558 21 18.8758 19.38 18.8758 17.3815V15.8251" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1094 6.68848H13.8931" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5002 17.3306V17.2824M12.5002 17.0293C12.362 17.0293 12.25 17.1413 12.25 17.2791C12.25 17.4173 12.362 17.5293 12.5002 17.5293C12.6385 17.5293 12.7505 17.4173 12.7505 17.2791C12.7505 17.1413 12.6385 17.0293 12.5002 17.0293Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Mobile',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -215,7 +419,7 @@ class _MobileSmartPhoneTwotone {
   /// Smart phone — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Smart phone',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.8758 17.3815L18.8748 6.61751C18.8748 4.62 17.2548 3 15.2573 3H9.74154C7.74402 3 6.12402 4.62 6.12402 6.61849L6.125 17.3825C6.125 19.38 7.745 21 9.74251 21H15.2573C17.2558 21 18.8758 19.38 18.8758 17.3815Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5002 17.3306V17.2824M12.5002 17.0293C12.362 17.0293 12.25 17.1413 12.25 17.2791C12.25 17.4173 12.362 17.5293 12.5002 17.5293C12.6385 17.5293 12.7505 17.4173 12.7505 17.2791C12.7505 17.1413 12.6385 17.0293 12.5002 17.0293Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M18.8748 6.61751L18.8758 17.3815C18.8758 19.38 17.2558 21 15.2573 21H9.74251C7.745 21 6.125 19.38 6.125 17.3825L6.12402 6.61849C6.12402 4.62 7.74402 3 9.74154 3H15.2573C17.2548 3 18.8748 4.62 18.8748 6.61751Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1094 6.68848H13.8931" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5002 17.3306V17.2824M12.5002 17.0293C12.362 17.0293 12.25 17.1413 12.25 17.2791C12.25 17.4173 12.362 17.5293 12.5002 17.5293C12.6385 17.5293 12.7505 17.4173 12.7505 17.2791C12.7505 17.1413 12.6385 17.0293 12.5002 17.0293Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Mobile',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -230,7 +434,7 @@ class _MobileSmartPhoneOutline {
   /// Smart phone — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Smart phone',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.87402 6.61849C4.87402 4.20592 6.82968 2.25 9.24154 2.25H14.7573C17.169 2.25 19.1248 4.20575 19.1248 6.61745C19.1248 6.61747 19.1248 6.61742 19.1248 6.61745L19.1258 17.3814C19.1258 19.7941 17.17 21.75 14.7573 21.75H9.24251C6.83081 21.75 4.87503 19.7942 4.875 17.3826C4.875 17.3825 4.875 17.3826 4.875 17.3826L4.87402 6.61849ZM6.37402 6.61849C6.37402 6.61851 6.37402 6.61846 6.37402 6.61849L6.375 17.3824C6.375 18.9657 7.65921 20.25 9.24251 20.25H14.7573C16.3416 20.25 17.6258 18.9658 17.6258 17.3816C17.6258 17.3816 17.6258 17.3816 17.6258 17.3816L17.6248 6.61758C17.6248 5.03428 16.3406 3.75 14.7573 3.75H9.24154C7.65839 3.75 6.37406 5.03411 6.37402 6.61849Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11 17.2791C11 16.7262 11.4487 16.2793 12.0002 16.2793C12.5518 16.2793 13.0005 16.7262 13.0005 17.2791C13.0005 17.8315 12.5527 18.2793 12.0002 18.2793C11.4478 18.2793 11 17.8315 11 17.2791Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.87402 6.61849C4.87402 4.20592 6.82968 2.25 9.24154 2.25H14.7573C17.169 2.25 19.1248 4.20575 19.1248 6.61745C19.1248 6.61747 19.1248 6.61742 19.1248 6.61745L19.1258 17.3814C19.1258 19.7941 17.17 21.75 14.7573 21.75H9.24251C6.83081 21.75 4.87503 19.7943 4.875 17.3826C4.875 17.3825 4.875 17.3826 4.875 17.3826L4.87402 6.61849ZM6.37402 6.61849C6.37402 6.61851 6.37402 6.61846 6.37402 6.61849L6.375 17.3824C6.375 18.9657 7.65921 20.25 9.24251 20.25H14.7573C16.3416 20.25 17.6258 18.9658 17.6258 17.3816C17.6258 17.3816 17.6258 17.3816 17.6258 17.3816L17.6248 6.61758C17.6248 5.03428 16.3406 3.75 14.7573 3.75H9.24154C7.65839 3.75 6.37406 5.03411 6.37402 6.61849Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.85938 6.68848C9.85938 6.27426 10.1952 5.93848 10.6094 5.93848H13.3931C13.8073 5.93848 14.1431 6.27426 14.1431 6.68848C14.1431 7.10269 13.8073 7.43848 13.3931 7.43848H10.6094C10.1952 7.43848 9.85938 7.10269 9.85938 6.68848Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11 17.2791C11 16.7262 11.4487 16.2793 12.0002 16.2793C12.5518 16.2793 13.0005 16.7262 13.0005 17.2791C13.0005 17.8315 12.5527 18.2793 12.0002 18.2793C11.4478 18.2793 11 17.8315 11 17.2791Z" fill="black"/> </svg> ',
     category: 'Mobile',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -245,7 +449,7 @@ class _MobileSmartPhoneBold {
   /// Smart phone — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Smart phone',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.95 18.15C11.44 18.15 11 17.71 11 17.2C11 16.69 11.44 16.25 11.95 16.25C12.46 16.25 12.9 16.69 12.9 17.2C12.9 17.71 12.46 18.15 11.95 18.15ZM14.75 2.5H9.25002C6.99002 2.5 5.15002 4.34 5.15002 6.6V17.4C5.15002 19.66 6.99002 21.5 9.25002 21.5H14.75C17.01 21.5 18.85 19.66 18.85 17.4V6.6C18.85 4.34 17.01 2.5 14.75 2.5Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4 7.45H10.6C10.186 7.45 9.85002 7.114 9.85002 6.7C9.85002 6.286 10.186 5.95 10.6 5.95H13.4C13.814 5.95 14.15 6.286 14.15 6.7C14.15 7.114 13.814 7.45 13.4 7.45ZM12 18.15C11.467 18.15 11.05 17.733 11.05 17.2C11.05 16.656 11.552 16.25 12 16.25C12.449 16.25 12.95 16.656 12.95 17.2C12.95 17.744 12.449 18.15 12 18.15ZM14.75 2.5H9.25002C6.98902 2.5 5.15002 4.339 5.15002 6.599V17.4C5.15002 19.661 6.98902 21.5 9.25002 21.5H14.75C17.011 21.5 18.85 19.661 18.85 17.4V6.599C18.85 4.339 17.011 2.5 14.75 2.5Z" fill="black"/> </svg>',
     category: 'Mobile',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -260,6 +464,114 @@ class _MobileSmartPhoneLight {
   /// Smart phone — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Smart phone',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.3748 6.61751L18.3758 17.3815C18.3758 19.38 16.7558 21 14.7573 21H9.24251C7.245 21 5.625 19.38 5.625 17.3825L5.62402 6.61849C5.62402 4.62 7.24402 3 9.24154 3H14.7573C16.7548 3 18.3748 4.62 18.3748 6.61751Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6094 6.68848H13.3931" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0002 17.3306V17.2824M12.0002 17.0293C11.862 17.0293 11.75 17.1413 11.75 17.2791C11.75 17.4173 11.862 17.5293 12.0002 17.5293C12.1385 17.5293 12.2505 17.4173 12.2505 17.2791C12.2505 17.1413 12.1385 17.0293 12.0002 17.0293Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Smart phone 1 icon with style variants.
+class _MobileSmartPhone1Icon {
+  const _MobileSmartPhone1Icon();
+
+  /// bold style
+  _MobileSmartPhone1Bold get bold => const _MobileSmartPhone1Bold();
+  /// bulk style
+  _MobileSmartPhone1Bulk get bulk => const _MobileSmartPhone1Bulk();
+  /// light style
+  _MobileSmartPhone1Light get light => const _MobileSmartPhone1Light();
+  /// outline style
+  _MobileSmartPhone1Outline get outline => const _MobileSmartPhone1Outline();
+  /// twoTone style
+  _MobileSmartPhone1Twotone get twoTone => const _MobileSmartPhone1Twotone();
+  /// broken style
+  _MobileSmartPhone1Broken get broken => const _MobileSmartPhone1Broken();
+}
+
+/// Smart phone 1 — bulk style variants.
+class _MobileSmartPhone1Bulk {
+  const _MobileSmartPhone1Bulk();
+
+  /// Smart phone 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Smart phone 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.75 2.5H9.25002C6.99002 2.5 5.15002 4.34 5.15002 6.6V17.4C5.15002 19.66 6.99002 21.5 9.25002 21.5H14.75C17.01 21.5 18.85 19.66 18.85 17.4V6.6C18.85 4.34 17.01 2.5 14.75 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.95 18.15C11.44 18.15 11 17.71 11 17.2C11 16.69 11.44 16.25 11.95 16.25C12.46 16.25 12.9 16.69 12.9 17.2C12.9 17.71 12.46 18.15 11.95 18.15Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Smart phone 1 — broken style variants.
+class _MobileSmartPhone1Broken {
+  const _MobileSmartPhone1Broken();
+
+  /// Smart phone 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Smart phone 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.8748 11.4887V6.61751C18.8748 4.62 17.2548 3 15.2573 3H9.74154C7.74402 3 6.12402 4.62 6.12402 6.61849L6.125 17.3825C6.125 19.38 7.745 21 9.74251 21H15.2573C17.2558 21 18.8758 19.38 18.8758 17.3815L18.8756 14.6905" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5002 17.3306V17.2824M12.5002 17.0293C12.362 17.0293 12.25 17.1413 12.25 17.2791C12.25 17.4173 12.362 17.5293 12.5002 17.5293C12.6385 17.5293 12.7505 17.4173 12.7505 17.2791C12.7505 17.1413 12.6385 17.0293 12.5002 17.0293Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Smart phone 1 — twoTone style variants.
+class _MobileSmartPhone1Twotone {
+  const _MobileSmartPhone1Twotone();
+
+  /// Smart phone 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Smart phone 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.8758 17.3815L18.8748 6.61751C18.8748 4.62 17.2548 3 15.2573 3H9.74154C7.74402 3 6.12402 4.62 6.12402 6.61849L6.125 17.3825C6.125 19.38 7.745 21 9.74251 21H15.2573C17.2558 21 18.8758 19.38 18.8758 17.3815Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5002 17.3306V17.2824M12.5002 17.0293C12.362 17.0293 12.25 17.1413 12.25 17.2791C12.25 17.4173 12.362 17.5293 12.5002 17.5293C12.6385 17.5293 12.7505 17.4173 12.7505 17.2791C12.7505 17.1413 12.6385 17.0293 12.5002 17.0293Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Smart phone 1 — outline style variants.
+class _MobileSmartPhone1Outline {
+  const _MobileSmartPhone1Outline();
+
+  /// Smart phone 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Smart phone 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.87402 6.61849C4.87402 4.20592 6.82968 2.25 9.24154 2.25H14.7573C17.169 2.25 19.1248 4.20575 19.1248 6.61745C19.1248 6.61747 19.1248 6.61742 19.1248 6.61745L19.1258 17.3814C19.1258 19.7941 17.17 21.75 14.7573 21.75H9.24251C6.83081 21.75 4.87503 19.7942 4.875 17.3826C4.875 17.3825 4.875 17.3826 4.875 17.3826L4.87402 6.61849ZM6.37402 6.61849C6.37402 6.61851 6.37402 6.61846 6.37402 6.61849L6.375 17.3824C6.375 18.9657 7.65921 20.25 9.24251 20.25H14.7573C16.3416 20.25 17.6258 18.9658 17.6258 17.3816C17.6258 17.3816 17.6258 17.3816 17.6258 17.3816L17.6248 6.61758C17.6248 5.03428 16.3406 3.75 14.7573 3.75H9.24154C7.65839 3.75 6.37406 5.03411 6.37402 6.61849Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11 17.2791C11 16.7262 11.4487 16.2793 12.0002 16.2793C12.5518 16.2793 13.0005 16.7262 13.0005 17.2791C13.0005 17.8315 12.5527 18.2793 12.0002 18.2793C11.4478 18.2793 11 17.8315 11 17.2791Z" fill="black"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Smart phone 1 — bold style variants.
+class _MobileSmartPhone1Bold {
+  const _MobileSmartPhone1Bold();
+
+  /// Smart phone 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Smart phone 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.95 18.15C11.44 18.15 11 17.71 11 17.2C11 16.69 11.44 16.25 11.95 16.25C12.46 16.25 12.9 16.69 12.9 17.2C12.9 17.71 12.46 18.15 11.95 18.15ZM14.75 2.5H9.25002C6.99002 2.5 5.15002 4.34 5.15002 6.6V17.4C5.15002 19.66 6.99002 21.5 9.25002 21.5H14.75C17.01 21.5 18.85 19.66 18.85 17.4V6.6C18.85 4.34 17.01 2.5 14.75 2.5Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Smart phone 1 — light style variants.
+class _MobileSmartPhone1Light {
+  const _MobileSmartPhone1Light();
+
+  /// Smart phone 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Smart phone 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.3758 17.3815L18.3748 6.61751C18.3748 4.62 16.7548 3 14.7573 3H9.24154C7.24402 3 5.62402 4.62 5.62402 6.61849L5.625 17.3825C5.625 19.38 7.245 21 9.24251 21H14.7573C16.7558 21 18.3758 19.38 18.3758 17.3815Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0002 17.3306V17.2824M12.0002 17.0293C11.862 17.0293 11.75 17.1413 11.75 17.2791C11.75 17.4173 11.862 17.5293 12.0002 17.5293C12.1385 17.5293 12.2505 17.4173 12.2505 17.2791C12.2505 17.1413 12.1385 17.0293 12.0002 17.0293Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Mobile',
     style: IconfyStyle.light,
@@ -693,6 +1005,438 @@ class _MobilePhoneRingVibrationLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Phone ring vibration',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5362 16.9853L17.5352 7.01377C17.5352 5.1623 16.035 3.66205 14.1835 3.66205H9.81608C7.9646 3.66205 6.46436 5.16327 6.46436 7.01377L6.46533 16.9862C6.46533 18.8367 7.96558 20.338 9.81705 20.338H14.1845C16.036 20.338 17.5362 18.8367 17.5362 16.9853Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.56575 14.5463C3.56575 14.5463 2.99951 13.5209 2.99951 12.0002C2.99951 10.4795 3.56575 9.45404 3.56575 9.45404" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.4336 14.5464C20.4336 14.5464 20.9998 13.5209 20.9998 12.0002C20.9998 10.4796 20.4336 9.4541 20.4336 9.4541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0002 16.8999V16.8518M12.0002 16.5986C11.862 16.5986 11.75 16.7106 11.75 16.8484C11.75 16.9866 11.862 17.0986 12.0002 17.0986C12.1385 17.0986 12.2505 16.9866 12.2505 16.8484C12.2505 16.7106 12.1385 16.5986 12.0002 16.5986Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 1 icon with style variants.
+class _MobilePhoneRingVibration1Icon {
+  const _MobilePhoneRingVibration1Icon();
+
+  /// bold style
+  _MobilePhoneRingVibration1Bold get bold => const _MobilePhoneRingVibration1Bold();
+  /// bulk style
+  _MobilePhoneRingVibration1Bulk get bulk => const _MobilePhoneRingVibration1Bulk();
+  /// light style
+  _MobilePhoneRingVibration1Light get light => const _MobilePhoneRingVibration1Light();
+  /// outline style
+  _MobilePhoneRingVibration1Outline get outline => const _MobilePhoneRingVibration1Outline();
+  /// twoTone style
+  _MobilePhoneRingVibration1Twotone get twoTone => const _MobilePhoneRingVibration1Twotone();
+  /// broken style
+  _MobilePhoneRingVibration1Broken get broken => const _MobilePhoneRingVibration1Broken();
+}
+
+/// Phone ring vibration 1 — bulk style variants.
+class _MobilePhoneRingVibration1Bulk {
+  const _MobilePhoneRingVibration1Bulk();
+
+  /// Phone ring vibration 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.59086 14.7198L3.79086 15.5197C3.49786 15.8127 3.49786 16.2867 3.79086 16.5798C3.93686 16.7268 4.12886 16.7998 4.32086 16.7998C4.51286 16.7998 4.70486 16.7268 4.85086 16.5798L5.65186 15.7808C5.94486 15.4878 5.94486 15.0128 5.65186 14.7198C5.35886 14.4268 4.88386 14.4268 4.59086 14.7198Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.85106 7.32034C4.55806 7.02734 4.08206 7.02734 3.79006 7.32034C3.49706 7.61334 3.49706 8.08834 3.79006 8.38134L4.59106 9.18034C4.73706 9.32734 4.92906 9.40034 5.12106 9.40034C5.31306 9.40034 5.50506 9.32734 5.65106 9.18034C5.94406 8.88734 5.94406 8.41334 5.65106 8.12034L4.85106 7.32034Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.6514 14.7198C20.3584 14.4268 19.8834 14.4268 19.5904 14.7198C19.2974 15.0128 19.2974 15.4878 19.5904 15.7808L20.3904 16.5798C20.5374 16.7268 20.7294 16.7998 20.9214 16.7998C21.1124 16.7998 21.3044 16.7268 21.4514 16.5798C21.7444 16.2867 21.7444 15.8127 21.4514 15.5197L20.6514 14.7198Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.1211 9.40034C20.3131 9.40034 20.5051 9.32734 20.6511 9.18034L21.4511 8.38034C21.7441 8.08834 21.7441 7.61334 21.4511 7.32034C21.1581 7.02734 20.6831 7.02734 20.3911 7.32034L19.5911 8.12034C19.2981 8.41334 19.2981 8.88734 19.5911 9.18034C19.7371 9.32734 19.9291 9.40034 20.1211 9.40034Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.72115 12.7002C5.13515 12.7002 5.47115 12.3642 5.47115 11.9502C5.47115 11.5362 5.13515 11.2002 4.72115 11.2002H3.62115C3.20715 11.2002 2.87115 11.5362 2.87115 11.9502C2.87115 12.3642 3.20715 12.7002 3.62115 12.7002H4.72115Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.6211 11.2002H20.5211C20.1071 11.2002 19.7711 11.5362 19.7711 11.9502C19.7711 12.3642 20.1071 12.7002 20.5211 12.7002H21.6211C22.0351 12.7002 22.3711 12.3642 22.3711 11.9502C22.3711 11.5362 22.0351 11.2002 21.6211 11.2002Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.721 3.25H10.621C8.56105 3.25 6.82104 4.99 6.82104 7.05V16.95C6.82104 19.01 8.56105 20.75 10.621 20.75H14.721C16.781 20.75 18.521 19.01 18.521 16.95V7.05C18.521 4.99 16.781 3.25 14.721 3.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5711 17.7506C12.0411 17.7506 11.6211 17.3306 11.6211 16.8006C11.6211 16.2606 12.1211 15.8506 12.5711 15.8506C13.1011 15.8506 13.5211 16.2706 13.5211 16.8006C13.5211 17.3406 13.0211 17.7506 12.5711 17.7506Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 1 — broken style variants.
+class _MobilePhoneRingVibration1Broken {
+  const _MobilePhoneRingVibration1Broken();
+
+  /// Phone ring vibration 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.4943 11.6488V7.03351C17.4943 5.18879 15.9998 3.69434 14.1551 3.69434H10.0862C8.24152 3.69434 6.74707 5.18976 6.74707 7.03351L6.74804 16.9673C6.74804 18.8111 8.2425 20.3055 10.0862 20.3055H14.1561C16.0008 20.3055 17.4953 18.8111 17.4953 16.9664L17.495 14.4832" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.62502 15.334L3.83984 16.1192" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.62502 8.68752L3.83984 7.90234" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.6172 15.334L20.4024 16.1192" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.6172 8.68752L20.4024 7.90234" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.2322 12.0068H3.12109" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.0098 12.0068H21.1209" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.1213 16.8999V16.8518M12.1213 16.5986C11.9831 16.5986 11.8711 16.7106 11.8711 16.8484C11.8711 16.9866 11.9831 17.0986 12.1213 17.0986C12.2596 17.0986 12.3716 16.9866 12.3716 16.8484C12.3716 16.7106 12.2596 16.5986 12.1213 16.5986Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 1 — twoTone style variants.
+class _MobilePhoneRingVibration1Twotone {
+  const _MobilePhoneRingVibration1Twotone();
+
+  /// Phone ring vibration 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.4953 16.9664L17.4943 7.03351C17.4943 5.18879 15.9998 3.69434 14.1551 3.69434H10.0862C8.24152 3.69434 6.74707 5.18976 6.74707 7.03351L6.74804 16.9673C6.74804 18.8111 8.2425 20.3055 10.0862 20.3055H14.1561C16.0008 20.3055 17.4953 18.8111 17.4953 16.9664Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.62502 15.334L3.83984 16.1192" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.62502 8.68752L3.83984 7.90234" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.6172 15.334L20.4024 16.1192" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.6172 8.68752L20.4024 7.90234" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.2322 12.0068H3.12109" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.0098 12.0068H21.1209" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.1213 16.8999V16.8518M12.1213 16.5986C11.9831 16.5986 11.8711 16.7106 11.8711 16.8484C11.8711 16.9866 11.9831 17.0986 12.1213 17.0986C12.2596 17.0986 12.3716 16.9866 12.3716 16.8484C12.3716 16.7106 12.2596 16.5986 12.1213 16.5986Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 1 — outline style variants.
+class _MobilePhoneRingVibration1Outline {
+  const _MobilePhoneRingVibration1Outline();
+
+  /// Phone ring vibration 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.0339 21.0543H9.96391C8.88063 21.0522 7.84237 20.6207 7.07666 19.8544C6.31095 19.0882 5.88023 18.0496 5.87891 16.9663V7.03531C5.88155 5.95156 6.31317 4.91293 7.07941 4.14651C7.84564 3.38008 8.88416 2.94822 9.96791 2.94531H14.0369C15.1211 2.94664 16.1606 3.378 16.9272 4.14477C17.6937 4.91153 18.1248 5.95107 18.1259 7.03531V16.9653C18.1248 18.05 17.6933 19.0899 16.926 19.8566C16.1588 20.6233 15.1186 21.054 14.0339 21.0543V21.0543ZM9.96391 4.44231C9.27751 4.44416 8.61986 4.71821 8.13525 5.20432C7.65064 5.69042 7.37864 6.34891 7.37891 7.03531V16.9693C7.37996 17.6554 7.65296 18.313 8.13808 18.7981C8.62319 19.2832 9.28085 19.5563 9.9669 19.5573H14.0369C14.7233 19.5565 15.3814 19.2835 15.8667 18.7981C16.3521 18.3128 16.6251 17.6547 16.6259 16.9683V7.03531C16.6254 6.34873 16.3525 5.69042 15.8671 5.20484C15.3817 4.71927 14.7235 4.44611 14.0369 4.44531L9.96391 4.44231Z" fill="black"/> <path d="M3.71808 16.8669C3.56984 16.8667 3.42496 16.8227 3.30174 16.7403C3.17853 16.6578 3.08252 16.5408 3.0258 16.4038C2.96909 16.2668 2.95424 16.1161 2.98313 15.9707C3.01201 15.8253 3.08332 15.6918 3.18808 15.5869L3.97308 14.8019C4.11526 14.6694 4.3033 14.5973 4.49761 14.6007C4.69191 14.6041 4.8773 14.6828 5.01471 14.8203C5.15212 14.9577 5.23083 15.1431 5.23425 15.3374C5.23768 15.5317 5.16556 15.7197 5.03308 15.8619L4.24808 16.6469C4.1787 16.7168 4.09612 16.7723 4.00514 16.81C3.91416 16.8478 3.81659 16.8671 3.71808 16.8669V16.8669Z" fill="black"/> <path d="M4.5043 9.43545C4.40588 9.43566 4.3084 9.41641 4.21745 9.37883C4.12649 9.34125 4.04386 9.28606 3.9743 9.21645L3.1893 8.43145C3.05261 8.29006 2.97693 8.10064 2.97854 7.90399C2.98016 7.70734 3.05894 7.5192 3.19793 7.38007C3.33692 7.24095 3.525 7.16199 3.72164 7.16019C3.91829 7.15839 4.10778 7.23389 4.24929 7.37045L5.0343 8.15545C5.13905 8.26034 5.21038 8.39391 5.23927 8.53931C5.26815 8.68471 5.2533 8.8354 5.19659 8.97237C5.13988 9.10933 5.04385 9.22642 4.92063 9.30884C4.79742 9.39126 4.65254 9.43532 4.5043 9.43545Z" fill="black"/> <path d="M20.278 16.8669C20.1795 16.8671 20.0819 16.8478 19.9909 16.81C19.9 16.7723 19.8174 16.7168 19.748 16.6469L18.963 15.8619C18.8305 15.7197 18.7584 15.5317 18.7618 15.3374C18.7653 15.1431 18.844 14.9577 18.9814 14.8203C19.1188 14.6828 19.3042 14.6041 19.4985 14.6007C19.6928 14.5973 19.8808 14.6694 20.023 14.8019L20.808 15.5869C20.9128 15.6918 20.9841 15.8253 21.013 15.9707C21.0419 16.1161 21.027 16.2668 20.9703 16.4038C20.9136 16.5408 20.8176 16.6578 20.6943 16.7403C20.5711 16.8227 20.4262 16.8667 20.278 16.8669Z" fill="black"/> <path d="M19.4954 9.43545C19.3472 9.43532 19.2023 9.39126 19.0791 9.30884C18.9559 9.22642 18.8599 9.10933 18.8031 8.97237C18.7464 8.8354 18.7316 8.68471 18.7605 8.53931C18.7894 8.39391 18.8607 8.26034 18.9654 8.15545L19.7504 7.37045C19.8919 7.23389 20.0814 7.15839 20.2781 7.16019C20.4747 7.16199 20.6628 7.24095 20.8018 7.38007C20.9408 7.5192 21.0196 7.70734 21.0212 7.90399C21.0228 8.10064 20.9471 8.29006 20.8104 8.43145L20.0254 9.21645C19.9559 9.28606 19.8732 9.34125 19.7823 9.37883C19.6913 9.41641 19.5939 9.43566 19.4954 9.43545V9.43545Z" fill="black"/> <path d="M4.11099 12.7549H3C2.80109 12.7549 2.61032 12.6759 2.46967 12.5352C2.32901 12.3946 2.25 12.2038 2.25 12.0049C2.25 11.806 2.32901 11.6152 2.46967 11.4745C2.61032 11.3339 2.80109 11.2549 3 11.2549H4.11099C4.3099 11.2549 4.50067 11.3339 4.64133 11.4745C4.78198 11.6152 4.86099 11.806 4.86099 12.0049C4.86099 12.2038 4.78198 12.3946 4.64133 12.5352C4.50067 12.6759 4.3099 12.7549 4.11099 12.7549Z" fill="black"/> <path d="M20.9997 12.7549H19.8887C19.6898 12.7549 19.499 12.6759 19.3584 12.5352C19.2177 12.3946 19.1387 12.2038 19.1387 12.0049C19.1387 11.806 19.2177 11.6152 19.3584 11.4745C19.499 11.3339 19.6898 11.2549 19.8887 11.2549H20.9997C21.1986 11.2549 21.3894 11.3339 21.53 11.4745C21.6707 11.6152 21.7497 11.806 21.7497 12.0049C21.7497 12.2038 21.6707 12.3946 21.53 12.5352C21.3894 12.6759 21.1986 12.7549 20.9997 12.7549V12.7549Z" fill="black"/> <path d="M12 17.8467C11.8022 17.8467 11.6089 17.788 11.4444 17.6782C11.28 17.5683 11.1518 17.4121 11.0761 17.2294C11.0004 17.0466 10.9806 16.8456 11.0192 16.6516C11.0578 16.4576 11.153 16.2794 11.2929 16.1396C11.4328 15.9997 11.6109 15.9045 11.8049 15.8659C11.9989 15.8273 12.2 15.8471 12.3827 15.9228C12.5654 15.9985 12.7216 16.1267 12.8315 16.2911C12.9414 16.4556 13 16.6489 13 16.8467C13 17.1119 12.8946 17.3662 12.7071 17.5538C12.5196 17.7413 12.2652 17.8467 12 17.8467Z" fill="black"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 1 — bold style variants.
+class _MobilePhoneRingVibration1Bold {
+  const _MobilePhoneRingVibration1Bold();
+
+  /// Phone ring vibration 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6309 17.7C12.1409 17.7 11.7209 17.26 11.7209 16.75C11.7209 16.24 12.1409 15.8 12.6309 15.8C13.1909 15.8 13.6209 16.22 13.6209 16.75C13.6209 17.29 13.1009 17.7 12.6309 17.7ZM14.7209 3.25H10.6209C8.56092 3.25 6.82092 4.99 6.82092 7.05V16.95C6.82092 19.01 8.56092 20.75 10.6209 20.75H14.7209C16.7809 20.75 18.5209 19.01 18.5209 16.95V7.05C18.5209 4.99 16.7809 3.25 14.7209 3.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.59079 14.7198L3.79079 15.5197C3.49779 15.8127 3.49779 16.2867 3.79079 16.5798C3.93679 16.7268 4.12879 16.7998 4.32079 16.7998C4.51279 16.7998 4.70479 16.7268 4.85079 16.5798L5.65179 15.7808C5.94479 15.4878 5.94479 15.0128 5.65179 14.7198C5.35879 14.4268 4.88379 14.4268 4.59079 14.7198Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.851 7.32034C4.558 7.02734 4.082 7.02734 3.79 7.32034C3.497 7.61334 3.497 8.08834 3.79 8.38134L4.591 9.18034C4.737 9.32734 4.929 9.40034 5.121 9.40034C5.313 9.40034 5.505 9.32734 5.651 9.18034C5.944 8.88734 5.944 8.41334 5.651 8.12034L4.851 7.32034Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.6513 14.7198C20.3583 14.4268 19.8833 14.4268 19.5903 14.7198C19.2973 15.0128 19.2973 15.4878 19.5903 15.7808L20.3903 16.5798C20.5373 16.7268 20.7293 16.7998 20.9213 16.7998C21.1123 16.7998 21.3043 16.7268 21.4513 16.5798C21.7443 16.2867 21.7443 15.8127 21.4513 15.5197L20.6513 14.7198Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.121 9.40034C20.313 9.40034 20.505 9.32734 20.651 9.18034L21.451 8.38034C21.744 8.08834 21.744 7.61334 21.451 7.32034C21.158 7.02734 20.683 7.02734 20.391 7.32034L19.591 8.12034C19.298 8.41334 19.298 8.88734 19.591 9.18034C19.737 9.32734 19.929 9.40034 20.121 9.40034Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.72109 12.7002C5.13509 12.7002 5.47109 12.3642 5.47109 11.9502C5.47109 11.5362 5.13509 11.2002 4.72109 11.2002H3.62109C3.20709 11.2002 2.87109 11.5362 2.87109 11.9502C2.87109 12.3642 3.20709 12.7002 3.62109 12.7002H4.72109Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.621 11.2002H20.521C20.107 11.2002 19.771 11.5362 19.771 11.9502C19.771 12.3642 20.107 12.7002 20.521 12.7002H21.621C22.035 12.7002 22.371 12.3642 22.371 11.9502C22.371 11.5362 22.035 11.2002 21.621 11.2002Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 1 — light style variants.
+class _MobilePhoneRingVibration1Light {
+  const _MobilePhoneRingVibration1Light();
+
+  /// Phone ring vibration 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3742 16.9664L17.3732 7.03357C17.3732 5.18885 15.8787 3.6944 14.034 3.6944H9.96515C8.12043 3.6944 6.62598 5.18982 6.62598 7.03357L6.62695 16.9674C6.62695 18.8112 8.1214 20.3056 9.96515 20.3056H14.035C15.8797 20.3056 17.3742 18.8112 17.3742 16.9664Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.50392 15.3345L3.71875 16.1196" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.50392 8.68752L3.71875 7.90234" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4961 15.334L20.2813 16.1192" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4961 8.68752L20.2813 7.90234" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.11111 12.0068H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.8887 12.0068H20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0002 16.8999V16.8518M12.0002 16.5986C11.862 16.5986 11.75 16.7106 11.75 16.8484C11.75 16.9866 11.862 17.0986 12.0002 17.0986C12.1385 17.0986 12.2505 16.9866 12.2505 16.8484C12.2505 16.7106 12.1385 16.5986 12.0002 16.5986Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 2 icon with style variants.
+class _MobilePhoneRingVibration2Icon {
+  const _MobilePhoneRingVibration2Icon();
+
+  /// bold style
+  _MobilePhoneRingVibration2Bold get bold => const _MobilePhoneRingVibration2Bold();
+  /// bulk style
+  _MobilePhoneRingVibration2Bulk get bulk => const _MobilePhoneRingVibration2Bulk();
+  /// light style
+  _MobilePhoneRingVibration2Light get light => const _MobilePhoneRingVibration2Light();
+  /// outline style
+  _MobilePhoneRingVibration2Outline get outline => const _MobilePhoneRingVibration2Outline();
+  /// twoTone style
+  _MobilePhoneRingVibration2Twotone get twoTone => const _MobilePhoneRingVibration2Twotone();
+  /// broken style
+  _MobilePhoneRingVibration2Broken get broken => const _MobilePhoneRingVibration2Broken();
+}
+
+/// Phone ring vibration 2 — bulk style variants.
+class _MobilePhoneRingVibration2Bulk {
+  const _MobilePhoneRingVibration2Bulk();
+
+  /// Phone ring vibration 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.62109 8.69531C3.20709 8.69531 2.87109 9.03131 2.87109 9.44531V14.7453C2.87109 15.1593 3.20709 15.4953 3.62109 15.4953C4.03509 15.4953 4.37109 15.1593 4.37109 14.7453V9.44531C4.37109 9.03131 4.03509 8.69531 3.62109 8.69531Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.6211 8.59473C21.2071 8.59473 20.8711 8.93073 20.8711 9.34473V14.6447C20.8711 15.0587 21.2071 15.3947 21.6211 15.3947C22.0351 15.3947 22.3711 15.0587 22.3711 14.6447V9.34473C22.3711 8.93073 22.0351 8.59473 21.6211 8.59473Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.1209 2.74512H10.3209C8.1309 2.74512 6.4209 4.45512 6.4209 6.64512V17.3451C6.4209 19.5351 8.1309 21.2451 10.3209 21.2451H15.0909C15.1609 21.2451 15.2209 21.2551 15.2809 21.2551C16.1909 21.2551 17.0709 20.8851 17.7709 20.2251C18.5609 19.4751 19.0209 18.4251 19.0209 17.3451V6.64512C19.0209 4.45512 17.3109 2.74512 15.1209 2.74512Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5711 17.7506C12.0411 17.7506 11.6211 17.3306 11.6211 16.8006C11.6211 16.2606 12.1211 15.8506 12.5711 15.8506C13.1011 15.8506 13.5211 16.2706 13.5211 16.8006C13.5211 17.3406 13.0211 17.7506 12.5711 17.7506Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 2 — broken style variants.
+class _MobilePhoneRingVibration2Broken {
+  const _MobilePhoneRingVibration2Broken();
+
+  /// Phone ring vibration 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.12109 9.37012L3.13861 14.6915" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.1035 9.30859L21.121 14.6299" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9271 10.9229V6.62234C17.9203 4.73764 16.3869 3.21391 14.5022 3.22073L9.68191 3.23629C7.79623 3.2431 6.27251 4.77656 6.27932 6.66223L6.31629 17.3789C6.32213 19.2646 7.85558 20.7873 9.74126 20.7805L14.5615 20.7649C16.4472 20.7581 17.9709 19.2247 17.9641 17.339L17.9549 13.7882" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.1389 17.1743V17.1262M12.1389 16.873C12.0007 16.873 11.8887 16.985 11.8887 17.1228C11.8887 17.2611 12.0007 17.373 12.1389 17.373C12.2771 17.373 12.3891 17.2611 12.3891 17.1228C12.3891 16.985 12.2771 16.873 12.1389 16.873Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 2 — twoTone style variants.
+class _MobilePhoneRingVibration2Twotone {
+  const _MobilePhoneRingVibration2Twotone();
+
+  /// Phone ring vibration 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3.12109 9.37012L3.13861 14.6915" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.1035 9.30859L21.121 14.6299" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9641 17.339L17.9271 6.62234C17.9203 4.73764 16.3869 3.21391 14.5022 3.22073L9.68191 3.23629C7.79623 3.2431 6.27251 4.77656 6.27932 6.66223L6.31629 17.3789C6.32213 19.2646 7.85558 20.7873 9.74126 20.7805L14.5615 20.7649C16.4472 20.7581 17.9709 19.2247 17.9641 17.339Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.1389 17.1743V17.1262M12.1389 16.873C12.0007 16.873 11.8887 16.985 11.8887 17.1228C11.8887 17.2611 12.0007 17.373 12.1389 17.373C12.2771 17.373 12.3891 17.2611 12.3891 17.1228C12.3891 16.985 12.2771 16.873 12.1389 16.873Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 2 — outline style variants.
+class _MobilePhoneRingVibration2Outline {
+  const _MobilePhoneRingVibration2Outline();
+
+  /// Phone ring vibration 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.01898 15.4372C2.82059 15.4372 2.63027 15.3586 2.4897 15.2186C2.34914 15.0786 2.26978 14.8886 2.26898 14.6902L2.25098 9.36821C2.25072 9.26972 2.26985 9.17214 2.3073 9.08105C2.34475 8.98995 2.39977 8.90713 2.46923 8.8373C2.53868 8.76747 2.62122 8.712 2.71212 8.67406C2.80301 8.63613 2.90049 8.61647 2.99898 8.61621V8.61621C3.19755 8.61621 3.388 8.69495 3.5286 8.83517C3.66919 8.97539 3.74845 9.16565 3.74898 9.36421L3.76697 14.6842C3.7675 14.7827 3.74859 14.8804 3.71131 14.9716C3.67403 15.0628 3.61912 15.1458 3.54973 15.2157C3.48034 15.2857 3.39782 15.3412 3.30692 15.3792C3.21601 15.4173 3.11851 15.4369 3.01998 15.4372H3.01898Z" fill="black"/> <path d="M21.0004 15.3796C20.8018 15.3796 20.6114 15.3009 20.4708 15.1607C20.3302 15.0204 20.2509 14.8302 20.2504 14.6316L20.2334 9.31062C20.2329 9.11161 20.3113 8.92053 20.4516 8.77934C20.5918 8.63816 20.7824 8.55841 20.9814 8.55762C21.18 8.55762 21.3704 8.63635 21.511 8.77657C21.6516 8.91679 21.7309 9.10705 21.7314 9.30561L21.7484 14.6276C21.7488 14.7261 21.7298 14.8236 21.6924 14.9147C21.6551 15.0058 21.6002 15.0886 21.5308 15.1585C21.4614 15.2283 21.3789 15.2838 21.2881 15.3217C21.1973 15.3597 21.0998 15.3794 21.0014 15.3796H21.0004Z" fill="black"/> <path d="M9.60818 21.5297C8.50659 21.5297 7.44994 21.093 6.66979 20.3153C5.88964 19.5376 5.44961 18.4823 5.44617 17.3807L5.40919 6.6637C5.40732 5.5599 5.84305 4.50037 6.62093 3.71724C7.39881 2.93411 8.45539 2.49126 9.55918 2.4857L14.3802 2.4707H14.3952C15.4961 2.47228 16.5517 2.90936 17.3315 3.68652C18.1113 4.46368 18.5519 5.51779 18.5572 6.61871L18.5942 17.3357C18.5979 18.44 18.1629 19.5006 17.3849 20.2842C16.6069 21.0679 15.5495 21.5105 14.4452 21.5147L9.62418 21.5297H9.60818ZM14.3952 3.9707H14.3852L9.56518 3.9857C8.8587 3.98914 8.18241 4.27255 7.68455 4.77379C7.18668 5.27503 6.90785 5.95322 6.90919 6.65971L6.94617 17.3757C6.94803 18.0806 7.22948 18.7559 7.72875 19.2535C8.22802 19.7511 8.90431 20.0302 9.60918 20.0297H9.61819L14.4402 20.0147C15.1463 20.0113 15.8222 19.7279 16.3198 19.2269C16.8173 18.7258 17.0958 18.0478 17.0942 17.3417L17.0572 6.6237C17.0537 5.91958 16.7719 5.24542 16.2732 4.74837C15.7744 4.25132 15.0993 3.97175 14.3952 3.9707Z" fill="black"/> <path d="M12.0186 18.123C12.5708 18.123 13.0186 17.6753 13.0186 17.123C13.0186 16.5708 12.5708 16.123 12.0186 16.123C11.4663 16.123 11.0186 16.5708 11.0186 17.123C11.0186 17.6753 11.4663 18.123 12.0186 18.123Z" fill="black"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 2 — bold style variants.
+class _MobilePhoneRingVibration2Bold {
+  const _MobilePhoneRingVibration2Bold();
+
+  /// Phone ring vibration 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.62109 8.69531C3.20709 8.69531 2.87109 9.03131 2.87109 9.44531V14.7453C2.87109 15.1593 3.20709 15.4953 3.62109 15.4953C4.03509 15.4953 4.37109 15.1593 4.37109 14.7453V9.44531C4.37109 9.03131 4.03509 8.69531 3.62109 8.69531Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.6211 8.59473C21.2071 8.59473 20.8711 8.93073 20.8711 9.34473V14.6447C20.8711 15.0587 21.2071 15.3947 21.6211 15.3947C22.0351 15.3947 22.3711 15.0587 22.3711 14.6447V9.34473C22.3711 8.93073 22.0351 8.59473 21.6211 8.59473Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.511 17.4151C13.401 17.8051 13.031 18.0951 12.621 18.0951C12.121 18.0951 11.691 17.6551 11.691 17.1451C11.691 16.6251 12.121 16.1951 12.621 16.1951C13.031 16.1951 13.371 16.4051 13.521 16.7351C13.621 16.9551 13.611 17.2051 13.511 17.4151ZM15.121 2.74512H10.321C8.13096 2.74512 6.42096 4.45512 6.42096 6.64512V17.3451C6.42096 19.5351 8.13096 21.2451 10.321 21.2451H15.091C15.161 21.2451 15.221 21.2551 15.281 21.2551C16.191 21.2551 17.071 20.8851 17.771 20.2251C18.561 19.4751 19.021 18.4251 19.021 17.3451V6.64512C19.021 4.45512 17.311 2.74512 15.121 2.74512Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 2 — light style variants.
+class _MobilePhoneRingVibration2Light {
+  const _MobilePhoneRingVibration2Light();
+
+  /// Phone ring vibration 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 9.36987L3.01751 14.6912" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9824 9.30859L20.9999 14.6299" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.843 17.339L17.806 6.62234C17.7992 4.73764 16.2658 3.21391 14.3811 3.22073L9.56081 3.23629C7.67514 3.2431 6.15141 4.77656 6.15823 6.66223L6.1952 17.3789C6.20104 19.2646 7.73449 20.7873 9.62017 20.7805L14.4404 20.7649C16.3261 20.7581 17.8498 19.2247 17.843 17.339Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0178 17.1743V17.1262M12.0178 16.873C11.8796 16.873 11.7676 16.985 11.7676 17.1228C11.7676 17.2611 11.8796 17.373 12.0178 17.373C12.1561 17.373 12.268 17.2611 12.268 17.1228C12.268 16.985 12.1561 16.873 12.0178 16.873Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 3 icon with style variants.
+class _MobilePhoneRingVibration3Icon {
+  const _MobilePhoneRingVibration3Icon();
+
+  /// bold style
+  _MobilePhoneRingVibration3Bold get bold => const _MobilePhoneRingVibration3Bold();
+  /// bulk style
+  _MobilePhoneRingVibration3Bulk get bulk => const _MobilePhoneRingVibration3Bulk();
+  /// light style
+  _MobilePhoneRingVibration3Light get light => const _MobilePhoneRingVibration3Light();
+  /// outline style
+  _MobilePhoneRingVibration3Outline get outline => const _MobilePhoneRingVibration3Outline();
+  /// twoTone style
+  _MobilePhoneRingVibration3Twotone get twoTone => const _MobilePhoneRingVibration3Twotone();
+  /// broken style
+  _MobilePhoneRingVibration3Broken get broken => const _MobilePhoneRingVibration3Broken();
+}
+
+/// Phone ring vibration 3 — bulk style variants.
+class _MobilePhoneRingVibration3Bulk {
+  const _MobilePhoneRingVibration3Bulk();
+
+  /// Phone ring vibration 3 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.39057 6.26767C4.99457 6.14567 4.57557 6.36967 4.45357 6.76467L2.95357 11.6647C2.83257 12.0617 3.05557 12.4807 3.45157 12.6017C3.52457 12.6237 3.59857 12.6347 3.67157 12.6347C3.99257 12.6347 4.28857 12.4267 4.38857 12.1047L5.88857 7.20467C6.00957 6.80767 5.78657 6.38867 5.39057 6.26767Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7904 11.4679C21.3944 11.3459 20.9754 11.5699 20.8534 11.9649L19.3534 16.8639C19.2324 17.2609 19.4554 17.6799 19.8514 17.8009C19.9244 17.8229 19.9984 17.8339 20.0714 17.8339C20.3924 17.8339 20.6884 17.6259 20.7884 17.3039L22.2884 12.4049C22.4094 12.0079 22.1864 11.5889 21.7904 11.4679Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.6906 6.06431C19.2306 5.14431 18.4606 4.48431 17.5206 4.20431L13.1106 2.80431C11.1106 2.21431 8.95063 3.33431 8.39063 5.23431L5.29063 15.0443C4.70063 17.0443 5.82063 19.2043 7.72063 19.7643L12.1006 21.1543C12.4906 21.2943 12.8906 21.3543 13.2906 21.3543C13.8706 21.3543 14.4506 21.2243 14.9906 20.9443C15.8906 20.4843 16.5706 19.6743 16.8506 18.7343L19.9506 8.92431C20.2306 7.98431 20.1306 6.94431 19.6906 6.06431Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0738 17.6363C10.5438 17.6363 10.1238 17.2163 10.1238 16.6863C10.1238 16.1463 10.6238 15.7363 11.0738 15.7363C11.6038 15.7363 12.0238 16.1563 12.0238 16.6863C12.0238 17.2263 11.5238 17.6363 11.0738 17.6363Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 3 — broken style variants.
+class _MobilePhoneRingVibration3Broken {
+  const _MobilePhoneRingVibration3Broken();
+
+  /// Phone ring vibration 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.9237 12.1991L19.0055 8.78503C19.5523 7.05995 18.5969 5.21812 16.8718 4.67131L12.4604 3.27315C10.7343 2.72635 8.89247 3.6818 8.34566 5.40688L5.238 15.2144C4.69119 16.9395 5.64665 18.7813 7.37172 19.3281L11.7832 20.7263C13.5092 21.2741 15.351 20.3176 15.8979 18.5926L17.0612 14.9211" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.66422 6.95801L3.12109 11.8277" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.1213 12.1738L19.5781 17.0435" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6447 16.7827V16.7346M10.6448 16.4814C10.5065 16.4814 10.3945 16.5934 10.3945 16.7312C10.3945 16.8694 10.5065 16.9814 10.6448 16.9814C10.783 16.9814 10.895 16.8694 10.895 16.7312C10.895 16.5934 10.783 16.4814 10.6448 16.4814Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 3 — twoTone style variants.
+class _MobilePhoneRingVibration3Twotone {
+  const _MobilePhoneRingVibration3Twotone();
+
+  /// Phone ring vibration 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8979 18.5926L19.0055 8.78503C19.5523 7.05995 18.5969 5.21812 16.8718 4.67131L12.4604 3.27315C10.7343 2.72635 8.89247 3.6818 8.34566 5.40688L5.238 15.2144C4.69119 16.9395 5.64665 18.7813 7.37172 19.3281L11.7832 20.7263C13.5092 21.2741 15.351 20.3176 15.8979 18.5926Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M4.66422 6.95801L3.12109 11.8277" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.1213 12.1738L19.5781 17.0435" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6447 16.7827V16.7346M10.6448 16.4814C10.5065 16.4814 10.3945 16.5934 10.3945 16.7312C10.3945 16.8694 10.5065 16.9814 10.6448 16.9814C10.783 16.9814 10.895 16.8694 10.895 16.7312C10.895 16.5934 10.783 16.4814 10.6448 16.4814Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 3 — outline style variants.
+class _MobilePhoneRingVibration3Outline {
+  const _MobilePhoneRingVibration3Outline();
+
+  /// Phone ring vibration 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.6559 21.6323C12.2412 21.6315 11.829 21.5671 11.4339 21.4413L7.02387 20.0413C6.0057 19.7188 5.15734 19.005 4.66544 18.057C4.17353 17.109 4.07838 16.0045 4.40088 14.9863L7.50888 5.17829C7.66855 4.67405 7.92599 4.20621 8.26654 3.80151C8.60709 3.39681 9.02406 3.06318 9.49359 2.81969C9.96313 2.57619 10.476 2.42759 11.003 2.3824C11.53 2.33721 12.0607 2.3963 12.5649 2.55629L16.9769 3.95629C17.9939 4.28037 18.841 4.99442 19.3325 5.94196C19.8239 6.8895 19.9198 7.99323 19.5989 9.01128L16.4909 18.8193C16.2323 19.6341 15.7215 20.3456 15.0322 20.8513C14.3429 21.3569 13.5107 21.6304 12.6559 21.6323V21.6323ZM11.3449 3.86929C10.8087 3.87055 10.2868 4.04207 9.85434 4.35911C9.42192 4.67614 9.10136 5.12231 8.93887 5.63329L5.83087 15.4323C5.62853 16.0712 5.68827 16.7643 5.99695 17.3592C6.30563 17.954 6.83797 18.4019 7.47687 18.6043L11.8879 20.0043C12.5269 20.2067 13.2202 20.1469 13.8152 19.8383C14.4102 19.5296 14.8583 18.9973 15.0609 18.3583L18.1689 8.55028C18.3701 7.9115 18.31 7.21898 18.0017 6.62443C17.6934 6.02988 17.162 5.58178 16.5239 5.37829L12.1109 3.97829C11.8629 3.90112 11.6046 3.86267 11.3449 3.86429V3.86929Z" fill="black"/> <path d="M2.99986 12.5732C2.92321 12.5728 2.84702 12.561 2.77385 12.5382C2.58417 12.478 2.42614 12.345 2.33446 12.1683C2.24277 11.9917 2.22494 11.7859 2.28487 11.5962L3.82787 6.72616C3.88794 6.53653 4.02087 6.37853 4.19743 6.28692C4.374 6.19531 4.57973 6.17758 4.76936 6.23765C4.95899 6.29773 5.11699 6.43067 5.2086 6.60724C5.30022 6.7838 5.31793 6.98953 5.25786 7.17916L3.71486 12.0492C3.66656 12.201 3.57127 12.3335 3.44276 12.4277C3.31426 12.5219 3.15918 12.5728 2.99986 12.5732V12.5732Z" fill="black"/> <path d="M19.4569 17.79C19.3802 17.7901 19.3039 17.7783 19.2309 17.755C19.0412 17.6948 18.8832 17.5618 18.7915 17.3851C18.6998 17.2085 18.682 17.0027 18.7419 16.813L20.2849 11.943C20.345 11.7533 20.4779 11.5953 20.6545 11.5037C20.831 11.4121 21.0368 11.3944 21.2264 11.4545C21.416 11.5145 21.574 11.6475 21.6656 11.824C21.7572 12.0006 21.775 12.2063 21.7149 12.396L20.1719 17.266C20.1239 17.4179 20.0287 17.5507 19.9001 17.6449C19.7715 17.7391 19.6163 17.7899 19.4569 17.79Z" fill="black"/> <path d="M10.5234 17.7271C11.0757 17.7271 11.5234 17.2793 11.5234 16.7271C11.5234 16.1748 11.0757 15.7271 10.5234 15.7271C9.97115 15.7271 9.52344 16.1748 9.52344 16.7271C9.52344 17.2793 9.97115 17.7271 10.5234 17.7271Z" fill="black"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 3 — bold style variants.
+class _MobilePhoneRingVibration3Bold {
+  const _MobilePhoneRingVibration3Bold();
+
+  /// Phone ring vibration 3 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0706 17.6343C10.5506 17.6343 10.1206 17.1943 10.1206 16.6843C10.1206 16.1743 10.5506 15.7343 11.0706 15.7343C11.5406 15.7343 12.0206 16.0243 12.0206 16.6843C12.0206 17.1943 11.5806 17.6343 11.0706 17.6343ZM19.6906 6.06431C19.2306 5.14431 18.4606 4.48431 17.5206 4.20431L13.1106 2.80431C11.1106 2.21431 8.95057 3.33431 8.39057 5.23431L5.29057 15.0443C4.70057 17.0443 5.82057 19.2043 7.72057 19.7643L12.1006 21.1543C12.4906 21.2943 12.8906 21.3543 13.2906 21.3543C13.8706 21.3543 14.4506 21.2243 14.9906 20.9443C15.8906 20.4843 16.5706 19.6743 16.8506 18.7343L19.9506 8.92431C20.2306 7.98431 20.1306 6.94431 19.6906 6.06431Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.39063 6.26767C4.99463 6.14567 4.57563 6.36967 4.45363 6.76467L2.95363 11.6647C2.83263 12.0617 3.05563 12.4807 3.45163 12.6017C3.52463 12.6237 3.59863 12.6347 3.67163 12.6347C3.99263 12.6347 4.28863 12.4267 4.38863 12.1047L5.88863 7.20467C6.00963 6.80767 5.78663 6.38867 5.39063 6.26767Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7905 11.4679C21.3945 11.3459 20.9755 11.5699 20.8535 11.9649L19.3535 16.8639C19.2325 17.2609 19.4555 17.6799 19.8515 17.8009C19.9245 17.8229 19.9985 17.8339 20.0715 17.8339C20.3925 17.8339 20.6885 17.6259 20.7885 17.3039L22.2885 12.4049C22.4095 12.0079 22.1865 11.5889 21.7905 11.4679Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 3 — light style variants.
+class _MobilePhoneRingVibration3Light {
+  const _MobilePhoneRingVibration3Light();
+
+  /// Phone ring vibration 3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7768 18.5927L18.8844 8.78515C19.4312 7.06007 18.4758 5.21824 16.7507 4.67143L12.3393 3.27328C10.6132 2.72647 8.77138 3.68192 8.22457 5.407L5.1169 15.2145C4.5701 16.9396 5.52555 18.7814 7.25063 19.3282L11.6621 20.7264C13.3881 21.2742 15.23 20.3178 15.7768 18.5927Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.54313 6.95801L3 11.8277" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0002 12.1738L19.457 17.0435" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.5237 16.7827V16.7346M10.5237 16.4814C10.3854 16.4814 10.2734 16.5934 10.2734 16.7312C10.2734 16.8694 10.3854 16.9814 10.5237 16.9814C10.6619 16.9814 10.7739 16.8694 10.7739 16.7312C10.7739 16.5934 10.6619 16.4814 10.5237 16.4814Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 4 icon with style variants.
+class _MobilePhoneRingVibration4Icon {
+  const _MobilePhoneRingVibration4Icon();
+
+  /// bold style
+  _MobilePhoneRingVibration4Bold get bold => const _MobilePhoneRingVibration4Bold();
+  /// bulk style
+  _MobilePhoneRingVibration4Bulk get bulk => const _MobilePhoneRingVibration4Bulk();
+  /// light style
+  _MobilePhoneRingVibration4Light get light => const _MobilePhoneRingVibration4Light();
+  /// outline style
+  _MobilePhoneRingVibration4Outline get outline => const _MobilePhoneRingVibration4Outline();
+  /// twoTone style
+  _MobilePhoneRingVibration4Twotone get twoTone => const _MobilePhoneRingVibration4Twotone();
+  /// broken style
+  _MobilePhoneRingVibration4Broken get broken => const _MobilePhoneRingVibration4Broken();
+}
+
+/// Phone ring vibration 4 — bulk style variants.
+class _MobilePhoneRingVibration4Bulk {
+  const _MobilePhoneRingVibration4Bulk();
+
+  /// Phone ring vibration 4 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.33955 11.6255L4.54155 10.4645L5.32655 9.3945C5.51255 9.1405 5.52055 8.7965 5.34555 8.5345L4.54555 7.3345C4.31555 6.9885 3.84955 6.8965 3.50555 7.1265C3.16055 7.3555 3.06755 7.8215 3.29755 8.1665L3.80655 8.9305L3.01655 10.0075C2.82755 10.2645 2.82255 10.6125 3.00355 10.8755L3.81155 12.0505L3.00355 13.2265C2.82755 13.4815 2.82755 13.8195 3.00355 14.0755L3.80255 15.2385L3.31455 15.9095C3.07055 16.2445 3.14555 16.7145 3.48055 16.9575C3.61255 17.0545 3.76755 17.1015 3.92055 17.1015C4.15255 17.1015 4.38155 16.9935 4.52755 16.7925L5.32755 15.6915C5.51455 15.4345 5.51955 15.0875 5.33955 14.8255L4.53155 13.6505L5.33955 12.4755C5.51555 12.2195 5.51555 11.8815 5.33955 11.6255Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.239 13.2255L21.431 12.0495L22.239 10.8745C22.42 10.6125 22.414 10.2635 22.225 10.0065L21.436 8.92954L21.945 8.16554C22.175 7.82154 22.082 7.35554 21.737 7.12554C21.391 6.89654 20.926 6.98954 20.697 7.33354L19.897 8.53454C19.722 8.79554 19.73 9.13954 19.917 9.39354L20.701 10.4635L19.903 11.6245C19.727 11.8805 19.727 12.2185 19.903 12.4745L20.711 13.6505L19.903 14.8255C19.723 15.0865 19.727 15.4335 19.915 15.6905L20.715 16.7905C20.861 16.9935 21.09 17.1005 21.322 17.1005C21.474 17.1005 21.629 17.0535 21.761 16.9565C22.097 16.7135 22.172 16.2455 21.927 15.9105L21.439 15.2385L22.239 14.0755C22.415 13.8195 22.415 13.4815 22.239 13.2255Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.9211 3.15039H10.3211C8.28109 3.15039 6.62109 4.85039 6.62109 6.95039V17.1504C6.62109 19.1904 8.32109 20.8504 10.4211 20.8504H15.0511C17.1111 20.7304 18.7211 19.0604 18.7211 17.0504V6.85039C18.7211 4.81039 17.0211 3.15039 14.9211 3.15039Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6211 17.7506C12.0911 17.7506 11.6711 17.3306 11.6711 16.8006C11.6711 16.2606 12.1711 15.8506 12.6211 15.8506C13.1511 15.8506 13.5711 16.2706 13.5711 16.8006C13.5711 17.3406 13.0711 17.7506 12.6211 17.7506Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 4 — broken style variants.
+class _MobilePhoneRingVibration4Broken {
+  const _MobilePhoneRingVibration4Broken();
+
+  /// Phone ring vibration 4 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.6563 10.5591V6.87309C17.6504 5.07586 16.1879 3.62309 14.3907 3.62892L9.79497 3.64449C7.99774 3.65033 6.54497 5.11283 6.55178 6.91104L6.58681 17.1271C6.59265 18.9244 8.05515 20.3762 9.85238 20.3703L14.4472 20.3548C16.2454 20.3489 17.6972 18.8864 17.6913 17.0892L17.6802 13.8366" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.40426 7.74609L4.19243 8.90111L3.12791 10.4463L4.18659 11.9993L3.12207 13.5504L4.18075 15.1063L3.43053 16.1951" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.839 7.74609L20.0508 8.90111L21.1153 10.4463L20.0566 11.9993L21.1211 13.5504L20.0625 15.1063L20.8127 16.1951" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.1369 16.9322V16.884M12.137 16.6309C11.9987 16.6309 11.8867 16.7429 11.8867 16.8806C11.8867 17.0189 11.9987 17.1309 12.137 17.1309C12.2752 17.1309 12.3872 17.0189 12.3872 16.8806C12.3872 16.7429 12.2752 16.6309 12.137 16.6309Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 4 — twoTone style variants.
+class _MobilePhoneRingVibration4Twotone {
+  const _MobilePhoneRingVibration4Twotone();
+
+  /// Phone ring vibration 4 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6913 17.0892L17.6563 6.87309C17.6504 5.07586 16.1879 3.62309 14.3907 3.62892L9.79497 3.64449C7.99774 3.65033 6.54497 5.11283 6.55178 6.91104L6.58681 17.1271C6.59265 18.9244 8.05515 20.3762 9.85238 20.3703L14.4472 20.3548C16.2454 20.3489 17.6972 18.8864 17.6913 17.0892Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.40426 7.74609L4.19243 8.90111L3.12791 10.4463L4.18659 11.9993L3.12207 13.5504L4.18075 15.1063L3.43053 16.1951" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.839 7.74609L20.0508 8.90111L21.1153 10.4463L20.0566 11.9993L21.1211 13.5504L20.0625 15.1063L20.8127 16.1951" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.1369 16.9322V16.884M12.137 16.6309C11.9987 16.6309 11.8867 16.7429 11.8867 16.8806C11.8867 17.0189 11.9987 17.1309 12.137 17.1309C12.2752 17.1309 12.3872 17.0189 12.3872 16.8806C12.3872 16.7429 12.2752 16.6309 12.137 16.6309Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 4 — outline style variants.
+class _MobilePhoneRingVibration4Outline {
+  const _MobilePhoneRingVibration4Outline();
+
+  /// Phone ring vibration 4 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.71876 21.1204C8.65963 21.1204 7.64373 20.7003 6.89387 19.9524C6.14402 19.2044 5.72141 18.1895 5.71876 17.1304L5.67876 6.91339C5.67626 6.38726 5.77758 5.86581 5.97691 5.3789C6.17625 4.89199 6.46971 4.44919 6.84044 4.07586C7.21117 3.70253 7.6519 3.40601 8.1374 3.20327C8.62291 3.00053 9.14362 2.89557 9.66975 2.89439L14.2698 2.87939H14.2828C15.3423 2.88018 16.3584 3.30046 17.1089 4.04835C17.8594 4.79623 18.2833 5.81087 18.2878 6.87039L18.3228 17.0864C18.3254 18.1482 17.9067 19.1676 17.1584 19.9209C16.4101 20.6743 15.3935 21.0999 14.3318 21.1044L9.73177 21.1204H9.71876ZM14.2788 4.37939H14.2718L9.67177 4.39439C9.3427 4.39505 9.01701 4.46066 8.71336 4.58746C8.40971 4.71427 8.13407 4.89977 7.90227 5.13334C7.67047 5.3669 7.48706 5.64393 7.36256 5.94854C7.23807 6.25314 7.17493 6.57933 7.17677 6.90839L7.21178 17.1244C7.21178 17.7874 7.47517 18.4233 7.94401 18.8922C8.41286 19.361 9.04874 19.6244 9.71178 19.6244H9.72078L14.3148 19.6084C14.9793 19.6065 15.6159 19.3409 16.0847 18.8699C16.5535 18.3988 16.8161 17.7609 16.8148 17.0964L16.7788 6.87539C16.7756 6.21369 16.5111 5.58006 16.0428 5.11253C15.5745 4.64501 14.9405 4.3815 14.2788 4.37939V4.37939Z" fill="black"/> <path d="M3.30881 16.9457C3.17211 16.9455 3.03809 16.908 2.92114 16.8372C2.8042 16.7664 2.70879 16.6651 2.6452 16.5441C2.58161 16.4231 2.55226 16.287 2.5603 16.1506C2.56834 16.0141 2.61347 15.8824 2.69083 15.7697L3.14981 15.1037L2.37982 13.9737C2.29461 13.8489 2.24902 13.7013 2.24902 13.5502C2.24902 13.3991 2.29461 13.2515 2.37982 13.1267L3.15381 11.9987L2.38382 10.8697C2.29839 10.7448 2.25269 10.597 2.25269 10.4457C2.25269 10.2944 2.29839 10.1466 2.38382 10.0217L3.15683 8.89973L2.65683 8.16973C2.54464 8.00543 2.5023 7.80329 2.53915 7.60778C2.576 7.41227 2.689 7.23941 2.8533 7.12723C3.0176 7.01504 3.21975 6.97271 3.41525 7.00957C3.61076 7.04642 3.78363 7.15943 3.89581 7.32373L4.68481 8.47873C4.77011 8.60367 4.81573 8.75144 4.81573 8.90272C4.81573 9.05401 4.77011 9.20178 4.68481 9.32673L3.9118 10.4487L4.68182 11.5777C4.76704 11.7025 4.81262 11.8501 4.81262 12.0012C4.81262 12.1523 4.76704 12.2999 4.68182 12.4247L3.90781 13.5537L4.67783 14.6847C4.76339 14.8096 4.80917 14.9574 4.80917 15.1087C4.80917 15.2601 4.76339 15.4079 4.67783 15.5327L3.92783 16.6217C3.85869 16.7219 3.7662 16.8038 3.65836 16.8602C3.55051 16.9167 3.43053 16.946 3.30881 16.9457V16.9457Z" fill="black"/> <path d="M20.6931 16.9456C20.5715 16.9459 20.4517 16.9165 20.344 16.8601C20.2363 16.8036 20.144 16.7217 20.0751 16.6216L19.3251 15.5376C19.2401 15.4125 19.1946 15.2648 19.1946 15.1136C19.1946 14.9624 19.2401 14.8146 19.3251 14.6896L20.0961 13.5586L19.3211 12.4296C19.236 12.3047 19.1905 12.1572 19.1905 12.0061C19.1905 11.855 19.236 11.7074 19.3211 11.5826L20.0901 10.4546L19.3181 9.33158C19.2324 9.20679 19.1865 9.05896 19.1865 8.90758C19.1865 8.7562 19.2324 8.60837 19.3181 8.48358L20.1061 7.32858C20.1604 7.24436 20.231 7.17187 20.3137 7.11538C20.3965 7.0589 20.4897 7.01958 20.588 6.99973C20.6862 6.97988 20.7873 6.97991 20.8855 6.99981C20.9837 7.01972 21.0769 7.05911 21.1597 7.11564C21.2424 7.17217 21.313 7.2447 21.3672 7.32895C21.4214 7.41321 21.4582 7.50747 21.4754 7.60618C21.4926 7.70489 21.4898 7.80604 21.4673 7.90367C21.4447 8.00129 21.4028 8.09341 21.3441 8.17458L20.8441 8.90458L21.6161 10.0266C21.7017 10.1514 21.7474 10.2992 21.7474 10.4506C21.7474 10.6019 21.7017 10.7497 21.6161 10.8746L20.8461 12.0036L21.6201 13.1316C21.7053 13.2564 21.7509 13.404 21.7509 13.5551C21.7509 13.7062 21.7053 13.8538 21.6201 13.9786L20.8511 15.1086L21.3091 15.7746C21.3864 15.8872 21.4315 16.0188 21.4396 16.1552C21.4477 16.2915 21.4184 16.4275 21.3549 16.5485C21.2915 16.6695 21.1962 16.7708 21.0794 16.8417C20.9626 16.9125 20.8287 16.9502 20.6921 16.9506L20.6931 16.9456Z" fill="black"/> <path d="M12.0166 17.8814C11.8188 17.8814 11.6255 17.8227 11.461 17.7128C11.2966 17.6029 11.1684 17.4468 11.0927 17.264C11.017 17.0813 10.9972 16.8802 11.0358 16.6863C11.0744 16.4923 11.1696 16.3141 11.3095 16.1742C11.4493 16.0344 11.6275 15.9391 11.8215 15.9006C12.0155 15.862 12.2166 15.8818 12.3993 15.9575C12.582 16.0332 12.7382 16.1613 12.8481 16.3258C12.958 16.4902 13.0166 16.6836 13.0166 16.8814C13.0166 17.1466 12.9112 17.4009 12.7237 17.5885C12.5362 17.776 12.2818 17.8814 12.0166 17.8814Z" fill="black"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 4 — bold style variants.
+class _MobilePhoneRingVibration4Bold {
+  const _MobilePhoneRingVibration4Bold();
+
+  /// Phone ring vibration 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6212 17.7004C12.1012 17.7004 11.6712 17.2604 11.6712 16.7504C11.6712 16.2404 12.1012 15.8004 12.6212 15.8004C13.0912 15.8004 13.5712 16.0904 13.5712 16.7504C13.5712 17.2604 13.1412 17.7004 12.6212 17.7004ZM14.9212 3.15039H10.3212C8.28115 3.15039 6.62115 4.85039 6.62115 6.95039V17.1504C6.62115 19.1904 8.32115 20.8504 10.4212 20.8504H15.0512C17.1112 20.7304 18.7212 19.0604 18.7212 17.0504V6.85039C18.7212 4.81039 17.0212 3.15039 14.9212 3.15039Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.33955 11.6255L4.54155 10.4645L5.32655 9.3945C5.51255 9.1405 5.52055 8.7965 5.34555 8.5345L4.54555 7.3345C4.31555 6.9885 3.84955 6.8965 3.50555 7.1265C3.16055 7.3555 3.06755 7.8215 3.29755 8.1665L3.80655 8.9305L3.01655 10.0075C2.82755 10.2645 2.82255 10.6125 3.00355 10.8755L3.81155 12.0505L3.00355 13.2265C2.82755 13.4815 2.82755 13.8195 3.00355 14.0755L3.80255 15.2385L3.31455 15.9095C3.07055 16.2445 3.14555 16.7145 3.48055 16.9575C3.61255 17.0545 3.76755 17.1015 3.92055 17.1015C4.15255 17.1015 4.38155 16.9935 4.52755 16.7925L5.32755 15.6915C5.51455 15.4345 5.51955 15.0875 5.33955 14.8255L4.53155 13.6505L5.33955 12.4755C5.51555 12.2195 5.51555 11.8815 5.33955 11.6255Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.239 13.2255L21.431 12.0495L22.239 10.8745C22.42 10.6125 22.414 10.2635 22.225 10.0065L21.436 8.92954L21.945 8.16554C22.175 7.82154 22.082 7.35554 21.737 7.12554C21.391 6.89654 20.926 6.98954 20.697 7.33354L19.897 8.53454C19.722 8.79554 19.73 9.13954 19.917 9.39354L20.701 10.4635L19.903 11.6245C19.727 11.8805 19.727 12.2185 19.903 12.4745L20.711 13.6505L19.903 14.8255C19.723 15.0865 19.727 15.4335 19.915 15.6905L20.715 16.7905C20.861 16.9935 21.09 17.1005 21.322 17.1005C21.474 17.1005 21.629 17.0535 21.761 16.9565C22.097 16.7135 22.172 16.2455 21.927 15.9105L21.439 15.2385L22.239 14.0755C22.415 13.8195 22.415 13.4815 22.239 13.2255Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Phone ring vibration 4 — light style variants.
+class _MobilePhoneRingVibration4Light {
+  const _MobilePhoneRingVibration4Light();
+
+  /// Phone ring vibration 4 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Phone ring vibration 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5697 17.0897L17.5347 6.87358C17.5289 5.07635 16.0664 3.62357 14.2691 3.62941L9.67339 3.64498C7.87616 3.65082 6.42339 5.11332 6.4302 6.91153L6.46523 17.1276C6.47107 18.9249 7.93357 20.3767 9.7308 20.3708L14.3256 20.3553C16.1238 20.3494 17.5756 18.8869 17.5697 17.0897Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.28267 7.74561L4.07085 8.90062L3.00633 10.4458L4.06501 11.9988L3.00049 13.5499L4.05917 15.1058L3.30895 16.1946" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.7179 7.74609L19.9297 8.90111L20.9942 10.4463L19.9355 11.9993L21 13.5504L19.9414 15.1063L20.6916 16.1951" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0158 16.9322V16.884M12.0159 16.6309C11.8776 16.6309 11.7656 16.7429 11.7656 16.8806C11.7656 17.0189 11.8776 17.1309 12.0159 17.1309C12.1541 17.1309 12.2661 17.0189 12.2661 16.8806C12.2661 16.7429 12.1541 16.6309 12.0159 16.6309Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Mobile',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -1157,7 +1901,7 @@ class _MobileRotatePhoneBulk {
   /// rotate phone — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'rotate phone',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.2684 20.2709C8.0974 19.9999 6.8114 19.2529 5.8304 18.2709C5.4314 17.8719 5.0704 17.4219 4.7654 16.9509C5.0014 16.9729 5.2584 16.8509 5.4124 16.6339C5.6514 16.2959 5.5704 15.8279 5.2324 15.5889L3.5324 14.3889C3.2784 14.2089 2.9394 14.2049 2.6824 14.3779C2.4234 14.5519 2.2994 14.8669 2.3694 15.1699C2.7054 16.6249 3.5794 18.1419 4.7694 19.3319C5.9584 20.5219 7.4764 21.3969 8.9314 21.7319C8.9884 21.7459 9.0444 21.7509 9.1004 21.7509C9.4424 21.7509 9.7504 21.5169 9.8304 21.1699C9.9234 20.7659 9.6724 20.3639 9.2684 20.2709Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.6307 8.83224C21.2947 7.37724 20.4207 5.86024 19.2307 4.67124C18.0407 3.48024 16.5237 2.60524 15.0687 2.27024C14.6657 2.17424 14.2617 2.42924 14.1687 2.83224C14.0757 3.23624 14.3277 3.63924 14.7317 3.73124C15.9027 4.00224 17.1877 4.74925 18.1697 5.73125C18.5687 6.13125 18.9297 6.58025 19.2347 7.05225C18.9917 7.02824 18.7407 7.15025 18.5877 7.36825C18.3487 7.70624 18.4287 8.17524 18.7677 8.41324L20.4667 9.61325C20.5967 9.70525 20.7487 9.75125 20.8997 9.75125C21.0457 9.75125 21.1917 9.70925 21.3177 9.62425C21.5757 9.45025 21.7007 9.13624 21.6307 8.83224Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.0498 11.5513L12.4498 3.95133C10.9598 2.46133 8.45981 2.45133 6.84981 3.95133L3.94981 6.85133C2.45981 8.34133 2.44981 10.8413 3.94981 12.4513L11.5498 20.0513C12.2898 20.8013 13.2898 21.1713 14.3098 21.1713C15.3198 21.1713 16.3498 20.8013 17.1498 20.0513L20.0498 17.1513C21.5398 15.6613 21.5498 13.1613 20.0698 11.5613C20.0598 11.5613 20.0598 11.5513 20.0498 11.5513Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.5998 16.5514C15.0698 16.5514 14.6498 16.1314 14.6498 15.6014C14.6498 15.0614 15.1498 14.6514 15.5998 14.6514C16.1298 14.6514 16.5498 15.0714 16.5498 15.6014C16.5498 16.1414 16.0498 16.5514 15.5998 16.5514Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.0801 6.575C14.0801 4.535 12.4201 2.875 10.3801 2.875H5.78008C3.70508 2.875 2.08008 4.5 2.08008 6.575V17.675C2.08008 19.75 3.70508 21.375 5.78008 21.375H10.3801C12.4551 21.375 14.0801 19.75 14.0801 17.675V6.575Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7598 16.5752C18.7598 16.9852 18.4198 17.3252 18.0098 17.3252C17.5898 17.3252 17.2598 16.9852 17.2598 16.5752V14.2752C17.2598 13.8652 17.5898 13.5252 18.0098 13.5252C18.4198 13.5252 18.7598 13.8652 18.7598 14.2752V16.5752ZM18.2198 9.36523H15.5098C15.3994 9.36523 15.3098 9.45478 15.3098 9.56523V17.6752C15.3098 18.9995 14.728 20.1614 13.798 20.9272C13.6381 21.0589 13.7261 21.3652 13.9333 21.3652H18.2198C20.2598 21.3652 21.9198 19.7052 21.9198 17.6652V13.0652C21.9198 10.9852 20.2998 9.36523 18.2198 9.36523Z" fill="black"/> <path d="M6.98022 7.4248H9.18022C9.59422 7.4248 9.93022 7.0888 9.93022 6.6748C9.93022 6.2608 9.59422 5.9248 9.18022 5.9248H6.98022C6.56622 5.9248 6.23022 6.2608 6.23022 6.6748C6.23022 7.0888 6.56622 7.4248 6.98022 7.4248Z" fill="black"/> <path d="M8.19822 19.0998C8.54922 19.0478 8.84522 18.7888 8.95722 18.4538C9.00322 18.3558 9.03022 18.2468 9.03022 18.1408C9.03022 17.6238 8.50322 17.2088 8.06722 17.2088C7.55922 17.2088 7.13022 17.6448 7.13022 18.1588C7.13022 18.6738 7.55922 19.1098 8.06722 19.1098C8.07322 19.1108 8.07722 19.1098 8.07722 19.1098C8.11822 19.1098 8.15922 19.1068 8.19822 19.0998Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4262 4.09148C17.3442 4.37848 18.0412 5.11948 18.3062 5.99748L18.0452 5.88648C17.6652 5.72448 17.2232 5.89948 17.0602 6.28048C16.8972 6.66148 17.0732 7.10248 17.4542 7.26548L18.8542 7.86448C18.9492 7.90448 19.0502 7.92548 19.1502 7.92548C19.2802 7.92548 19.4092 7.89148 19.5252 7.82448C19.7302 7.70548 19.8672 7.49749 19.8942 7.26348C20.1322 5.25048 18.8332 3.27248 16.8732 2.65948C16.4782 2.53548 16.0572 2.75648 15.9342 3.15248C15.8102 3.54748 16.0302 3.96848 16.4262 4.09148Z" fill="black"/> </svg>',
     category: 'Mobile',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -1172,7 +1916,7 @@ class _MobileRotatePhoneBroken {
   /// rotate phone — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'rotate phone',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.5816 9.33924L20.1882 11.9455C21.5318 13.2882 21.5318 15.4666 20.1882 16.8103L17.3102 19.6883C15.9675 21.031 13.789 21.031 12.4464 19.6883L4.81157 12.0545C3.46792 10.7108 3.46792 8.53335 4.8106 7.19067L7.68958 4.3117C9.03226 2.96902 11.2097 2.96902 12.5534 4.3117L15.3559 7.11381" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.55373 20.999C8.20813 20.6828 6.85183 19.9395 5.70569 18.7934C4.55955 17.6472 3.81329 16.287 3.5 14.9453L5.21629 16.0983" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4453 3C16.7909 3.31621 18.1472 4.05955 19.2934 5.20569C20.4395 6.35183 21.1858 7.71203 21.499 9.05373L19.7828 7.90078" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1447 15.6968V15.6486M16.1448 15.3955C16.0065 15.3955 15.8945 15.5075 15.8945 15.6453C15.8945 15.7835 16.0065 15.8955 16.1448 15.8955C16.283 15.8955 16.395 15.7835 16.395 15.6453C16.395 15.5075 16.283 15.3955 16.1448 15.3955Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.5 11.5563V6.45007C3.5 4.67732 4.93611 3.24121 6.70789 3.24121H11.2993C13.0711 3.24121 14.5072 4.67732 14.5072 6.4491L14.5082 17.5886C14.5082 19.3604 13.0721 20.7965 11.3003 20.7965H6.70886C4.93708 20.7965 3.50097 19.3604 3.50097 17.5886L3.50073 14.804" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.0557 6.38571L19.4626 7.00452C19.6504 5.28236 18.585 3.71296 16.998 3.20312" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.1348 20.796L18.294 20.795C20.0648 20.795 21.5009 19.3589 21.5009 17.5871V12.911C21.5009 11.1392 20.0648 9.70312 18.293 9.70312H16.8991" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2305 14.123V16.3764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.91992 6.51172H10.0896" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.00412 17.5474V17.4992M9.00414 17.2461C8.8659 17.2461 8.75391 17.3581 8.75391 17.4959C8.75391 17.6341 8.8659 17.7461 9.00414 17.7461C9.14238 17.7461 9.25437 17.6341 9.25437 17.4959C9.25437 17.3581 9.14238 17.2461 9.00414 17.2461Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Mobile',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -1187,7 +1931,7 @@ class _MobileRotatePhoneTwotone {
   /// rotate phone — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'rotate phone',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.1882 11.9455L12.5534 4.3117C11.2097 2.96902 9.03226 2.96902 7.68958 4.3117L4.8106 7.19067C3.46792 8.53335 3.46792 10.7108 4.81157 12.0545L12.4464 19.6883C13.789 21.031 15.9675 21.031 17.3102 19.6883L20.1882 16.8103C21.5318 15.4666 21.5318 13.2882 20.1882 11.9455Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.55373 20.999C8.20813 20.6828 6.85183 19.9395 5.70569 18.7934C4.55955 17.6472 3.81329 16.287 3.5 14.9453L5.21629 16.0983" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4453 3C16.7909 3.31621 18.1472 4.05955 19.2934 5.20569C20.4395 6.35183 21.1858 7.71203 21.499 9.05373L19.7828 7.90078" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1447 15.6968V15.6486M16.1448 15.3955C16.0065 15.3955 15.8945 15.5075 15.8945 15.6453C15.8945 15.7835 16.0065 15.8955 16.1448 15.8955C16.283 15.8955 16.395 15.7835 16.395 15.6453C16.395 15.5075 16.283 15.3955 16.1448 15.3955Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.5072 6.4491L14.5082 17.5886C14.5082 19.3604 13.0721 20.7965 11.3003 20.7965H6.70886C4.93708 20.7965 3.50097 19.3604 3.50097 17.5886L3.5 6.45007C3.5 4.67732 4.93611 3.24121 6.70789 3.24121H11.2993C13.0711 3.24121 14.5072 4.67732 14.5072 6.4491Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.0557 6.38571L19.4626 7.00452C19.6504 5.28236 18.585 3.71296 16.998 3.20312" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.1348 20.796L18.294 20.795C20.0648 20.795 21.5009 19.3589 21.5009 17.5871V12.911C21.5009 11.1392 20.0648 9.70312 18.293 9.70312L16.4308 9.7041" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.2305 14.123V16.3764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.91992 6.51172H10.0896" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.00412 17.5474V17.4992M9.00414 17.2461C8.8659 17.2461 8.75391 17.3581 8.75391 17.4959C8.75391 17.6341 8.8659 17.7461 9.00414 17.7461C9.14238 17.7461 9.25437 17.6341 9.25437 17.4959C9.25437 17.3581 9.14238 17.2461 9.00414 17.2461Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Mobile',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -1202,7 +1946,7 @@ class _MobileRotatePhoneOutline {
   /// rotate phone — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'rotate phone',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.3781 21.4434C13.8281 21.4445 13.2833 21.3369 12.775 21.1269C12.2667 20.9168 11.8049 20.6084 11.4161 20.2194L3.78113 12.5854C2.99583 11.7997 2.55469 10.7343 2.55469 9.62341C2.55469 8.51253 2.99583 7.44712 3.78113 6.66141L6.66013 3.78141C7.44714 2.99855 8.51206 2.55908 9.62213 2.55908C10.7322 2.55908 11.7971 2.99855 12.5841 3.78141L20.2191 11.4154C20.6084 11.8045 20.9172 12.2665 21.1279 12.775C21.3386 13.2835 21.4471 13.8285 21.4471 14.3789C21.4471 14.9293 21.3386 15.4743 21.1279 15.9828C20.9172 16.4913 20.6084 16.9533 20.2191 17.3424L17.3411 20.2204C16.9521 20.6094 16.4901 20.9176 15.9817 21.1275C15.4732 21.3374 14.9282 21.4448 14.3781 21.4434V21.4434ZM9.62113 4.0564C9.26829 4.05594 8.91883 4.12514 8.59279 4.26002C8.26674 4.3949 7.97053 4.59281 7.72113 4.84241L4.84113 7.72141C4.33771 8.22558 4.05495 8.90893 4.05495 9.62141C4.05495 10.3339 4.33771 11.0172 4.84113 11.5214L12.4761 19.1554C12.9882 19.6437 13.6686 19.9162 14.3761 19.9162C15.0837 19.9162 15.7641 19.6437 16.2761 19.1554L19.1541 16.2774C19.6576 15.7732 19.9403 15.0899 19.9403 14.3774C19.9403 13.6649 19.6576 12.9816 19.1541 12.4774V12.4774L11.5191 4.84441C11.2701 4.59469 10.9743 4.39655 10.6486 4.26133C10.3229 4.12611 9.97378 4.05647 9.62113 4.0564Z" fill="black"/> <path d="M9.05407 21.749C8.99614 21.7492 8.93841 21.7425 8.88207 21.729C7.28334 21.3337 5.82647 20.5005 4.67507 19.323C3.49688 18.1723 2.66386 16.7151 2.27007 15.116C2.23541 14.9694 2.24582 14.8156 2.29992 14.675C2.35402 14.5343 2.4493 14.4132 2.5733 14.3276C2.69731 14.2419 2.84427 14.1956 2.99499 14.1948C3.1457 14.194 3.29315 14.2387 3.41807 14.323L5.13507 15.476C5.29947 15.5874 5.4129 15.7596 5.4504 15.9546C5.48791 16.1496 5.44642 16.3516 5.33507 16.516C5.25467 16.6327 5.14324 16.7247 5.01336 16.7814C4.88348 16.8381 4.74032 16.8574 4.60007 16.837C4.92208 17.3525 5.30187 17.8296 5.73207 18.259C6.68611 19.2392 7.8948 19.9335 9.22207 20.264C9.40037 20.3071 9.55675 20.4139 9.6617 20.5644C9.76665 20.7148 9.81291 20.8985 9.79175 21.0807C9.77059 21.2629 9.68347 21.4311 9.54683 21.5534C9.4102 21.6758 9.2335 21.744 9.05007 21.745L9.05407 21.749Z" fill="black"/> <path d="M21.0003 9.8044C20.8513 9.80419 20.7058 9.75963 20.5823 9.6764L18.8663 8.5234C18.7248 8.42836 18.62 8.28796 18.569 8.12536C18.518 7.96275 18.5239 7.78762 18.5857 7.6288C18.6475 7.46999 18.7616 7.33698 18.9091 7.25165C19.0566 7.16633 19.2288 7.1338 19.3973 7.15941C19.0743 6.64407 18.6938 6.16702 18.2633 5.7374C17.309 4.75733 16.1005 4.06267 14.7733 3.7314C14.677 3.70925 14.586 3.66828 14.5056 3.61085C14.4251 3.55342 14.3569 3.48066 14.3046 3.39676C14.2524 3.31285 14.2173 3.21945 14.2013 3.12193C14.1853 3.02441 14.1887 2.92468 14.2114 2.82848C14.2341 2.73229 14.2755 2.64153 14.3334 2.56141C14.3912 2.48129 14.4644 2.41338 14.5485 2.36162C14.6327 2.30985 14.7263 2.27523 14.8239 2.25975C14.9215 2.24427 15.0212 2.24823 15.1173 2.27141C16.7152 2.66533 18.172 3.49636 19.3243 4.67141C20.503 5.8221 21.3361 7.27975 21.7293 8.87941C21.7551 8.98944 21.7556 9.10387 21.731 9.21415C21.7063 9.32443 21.657 9.42772 21.5868 9.51628C21.5166 9.60484 21.4273 9.67639 21.3256 9.72559C21.2238 9.77479 21.1123 9.80037 20.9993 9.80041L21.0003 9.8044Z" fill="black"/> <path d="M15.6445 16.645C15.4468 16.645 15.2534 16.5864 15.089 16.4765C14.9245 16.3666 14.7963 16.2104 14.7207 16.0277C14.645 15.845 14.6252 15.6439 14.6637 15.4499C14.7023 15.256 14.7976 15.0778 14.9374 14.9379C15.0773 14.7981 15.2555 14.7028 15.4494 14.6642C15.6434 14.6256 15.8445 14.6455 16.0272 14.7211C16.2099 14.7968 16.3661 14.925 16.476 15.0895C16.5859 15.2539 16.6445 15.4472 16.6445 15.645C16.6445 15.9102 16.5392 16.1646 16.3516 16.3521C16.1641 16.5397 15.9097 16.645 15.6445 16.645Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 6.44995C2.25 4.26313 4.02174 2.49109 6.20789 2.49109H10.7993C12.9853 2.49109 14.7572 4.26295 14.7572 6.44891C14.7572 6.44893 14.7572 6.44889 14.7572 6.44891L14.7582 17.5885C14.7582 19.7745 12.9863 21.5464 10.8003 21.5464H6.20886C4.02289 21.5464 2.25101 19.7746 2.25097 17.5886C2.25097 17.5886 2.25097 17.5886 2.25097 17.5886L2.25 6.44995ZM3.75 6.44995C3.75 6.44997 3.75 6.44993 3.75 6.44995L3.75097 17.5885C3.75097 18.946 4.85129 20.0464 6.20886 20.0464H10.8003C12.1579 20.0464 13.2582 18.9461 13.2582 17.5886C13.2582 17.5886 13.2582 17.5886 13.2582 17.5886L13.2572 6.44904C13.2572 5.09147 12.1569 3.99109 10.7993 3.99109H6.20789C4.85049 3.99109 3.75004 5.09129 3.75 6.44995Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.784 2.97368C15.9106 2.57931 16.3331 2.36233 16.7274 2.48903C18.6463 3.10551 19.9353 5.00218 19.7081 7.08578C19.6822 7.32334 19.5447 7.53434 19.3377 7.65388C19.1308 7.77343 18.8793 7.78722 18.6606 7.69101L17.2537 7.0722C16.8745 6.90543 16.7023 6.46287 16.8691 6.08371C17.0359 5.70455 17.4784 5.53238 17.8576 5.69914L18.1184 5.81388C17.8564 4.92722 17.1688 4.20635 16.2686 3.91714C15.8742 3.79044 15.6573 3.36804 15.784 2.97368Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.793 8.95312C19.979 8.95313 21.7509 10.725 21.7509 12.911V17.5871C21.7509 19.7729 19.9793 21.5449 17.7942 21.545C17.7942 21.545 17.7943 21.545 17.7942 21.545L14.635 21.546C14.2208 21.5461 13.8849 21.2104 13.8848 20.7962C13.8846 20.382 14.2203 20.0461 14.6345 20.046L17.7938 20.045C19.1502 20.045 20.2509 18.9448 20.2509 17.5871V12.911C20.2509 11.5536 19.1508 10.4533 17.7934 10.4531L15.9312 10.4541C15.5169 10.4543 15.181 10.1187 15.1808 9.70449C15.1805 9.29028 15.5162 8.95431 15.9304 8.9541L17.793 8.95312Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.7305 13.373C18.1447 13.373 18.4805 13.7088 18.4805 14.123V16.3764C18.4805 16.7907 18.1447 17.1264 17.7305 17.1264C17.3163 17.1264 16.9805 16.7907 16.9805 16.3764V14.123C16.9805 13.7088 17.3163 13.373 17.7305 13.373Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.66992 6.51172C6.66992 6.09751 7.00571 5.76172 7.41992 5.76172H9.58965C10.0039 5.76172 10.3396 6.09751 10.3396 6.51172C10.3396 6.92593 10.0039 7.26172 9.58965 7.26172H7.41992C7.00571 7.26172 6.66992 6.92593 6.66992 6.51172Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.50366 17.4959C7.50366 16.943 7.95236 16.4961 8.5039 16.4961C9.05543 16.4961 9.50413 16.943 9.50413 17.4959C9.50413 18.0483 9.05635 18.4961 8.5039 18.4961C7.95144 18.4961 7.50366 18.0483 7.50366 17.4959Z" fill="black"/> </svg> ',
     category: 'Mobile',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -1217,7 +1961,7 @@ class _MobileRotatePhoneBold {
   /// rotate phone — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'rotate phone',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.5998 16.5513C15.0698 16.5513 14.6498 16.1313 14.6498 15.6013C14.6498 15.0613 15.1498 14.6513 15.5998 14.6513C16.1298 14.6513 16.5498 15.0713 16.5498 15.6013C16.5498 16.1413 16.0498 16.5513 15.5998 16.5513ZM20.0498 11.5513L12.4498 3.95133C10.9598 2.46133 8.45981 2.45133 6.84981 3.95133L3.94981 6.85133C2.45981 8.34133 2.44981 10.8413 3.94981 12.4513L11.5498 20.0513C12.2898 20.8013 13.2898 21.1713 14.3098 21.1713C15.3198 21.1713 16.3498 20.8013 17.1498 20.0513L20.0498 17.1513C21.5398 15.6613 21.5498 13.1613 20.0698 11.5613C20.0598 11.5613 20.0598 11.5513 20.0498 11.5513Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.2684 20.2709C8.0974 19.9999 6.8114 19.2529 5.8304 18.2709C5.4314 17.8719 5.0704 17.4219 4.7654 16.9509C5.0014 16.9729 5.2584 16.8509 5.4124 16.6339C5.6514 16.2959 5.5704 15.8279 5.2324 15.5889L3.5324 14.3889C3.2784 14.2089 2.9394 14.2049 2.6824 14.3779C2.4234 14.5519 2.2994 14.8669 2.3694 15.1699C2.7054 16.6249 3.5794 18.1419 4.7694 19.3319C5.9584 20.5219 7.4764 21.3969 8.9314 21.7319C8.9884 21.7459 9.0444 21.7509 9.1004 21.7509C9.4424 21.7509 9.7504 21.5169 9.8304 21.1699C9.9234 20.7659 9.6724 20.3639 9.2684 20.2709Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.6307 8.83224C21.2947 7.37724 20.4207 5.86024 19.2307 4.67124C18.0407 3.48024 16.5237 2.60524 15.0687 2.27024C14.6657 2.17424 14.2617 2.42924 14.1687 2.83224C14.0757 3.23624 14.3277 3.63924 14.7317 3.73124C15.9027 4.00224 17.1877 4.74925 18.1697 5.73125C18.5687 6.13125 18.9297 6.58025 19.2347 7.05225C18.9917 7.02824 18.7407 7.15025 18.5877 7.36825C18.3487 7.70624 18.4287 8.17524 18.7677 8.41324L20.4667 9.61325C20.5967 9.70525 20.7487 9.75125 20.8997 9.75125C21.0457 9.75125 21.1917 9.70925 21.3177 9.62425C21.5757 9.45025 21.7007 9.13624 21.6307 8.83224Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4262 4.09148C17.3442 4.37848 18.0412 5.11948 18.3062 5.99748L18.0452 5.88648C17.6652 5.72448 17.2232 5.89948 17.0602 6.28048C16.8972 6.66148 17.0732 7.10248 17.4542 7.26548L18.8542 7.86448C18.9492 7.90448 19.0502 7.92548 19.1502 7.92548C19.2802 7.92548 19.4092 7.89148 19.5252 7.82448C19.7302 7.70548 19.8672 7.49749 19.8942 7.26348C20.1322 5.25048 18.8332 3.27248 16.8732 2.65948C16.4782 2.53548 16.0572 2.75648 15.9342 3.15248C15.8102 3.54748 16.0302 3.96848 16.4262 4.09148Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7598 16.5762C18.7598 16.9862 18.4198 17.3262 18.0098 17.3262C17.5898 17.3262 17.2598 16.9862 17.2598 16.5762V14.2762C17.2598 13.8662 17.5898 13.5262 18.0098 13.5262C18.4198 13.5262 18.7598 13.8662 18.7598 14.2762V16.5762ZM18.2198 9.36621H15.5098C15.3994 9.36621 15.3098 9.45575 15.3098 9.56621V17.6762C15.3098 19.0005 14.728 20.1624 13.7981 20.9282C13.6382 21.0599 13.7261 21.3662 13.9333 21.3662H18.2198C20.2598 21.3662 21.9198 19.7062 21.9198 17.6662V13.0662C21.9198 10.9862 20.2998 9.36621 18.2198 9.36621Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.18014 7.42598H6.98014C6.56614 7.42598 6.23014 7.08998 6.23014 6.67598C6.23014 6.26198 6.56614 5.92598 6.98014 5.92598H9.18014C9.59414 5.92598 9.93014 6.26198 9.93014 6.67598C9.93014 7.08998 9.59414 7.42598 9.18014 7.42598ZM8.95714 18.455C8.84514 18.79 8.54914 19.049 8.19814 19.101C8.15914 19.108 8.11814 19.111 8.07714 19.111C8.07714 19.111 8.07314 19.112 8.06714 19.111C7.55914 19.111 7.13014 18.675 7.13014 18.16C7.13014 17.646 7.55914 17.21 8.06714 17.21C8.50314 17.21 9.03014 17.625 9.03014 18.142C9.03014 18.248 9.00314 18.357 8.95714 18.455ZM14.0801 6.57598C14.0801 4.53598 12.4201 2.87598 10.3801 2.87598H5.78014C3.70514 2.87598 2.08014 4.50098 2.08014 6.57598V17.676C2.08014 19.751 3.70514 21.376 5.78014 21.376H10.3801C12.4551 21.376 14.0801 19.751 14.0801 17.676V6.57598Z" fill="black"/> </svg>',
     category: 'Mobile',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -1232,6 +1976,222 @@ class _MobileRotatePhoneLight {
   /// rotate phone — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'rotate phone',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.0072 6.44904L14.0082 17.5886C14.0082 19.3604 12.5721 20.7965 10.8003 20.7965H6.20886C4.43708 20.7965 3.00097 19.3604 3.00097 17.5886L3 6.45001C3 4.67726 4.43611 3.24115 6.20789 3.24115H10.7993C12.5711 3.24115 14.0072 4.67726 14.0072 6.44904Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5557 6.38571L18.9626 7.00452C19.1504 5.28236 18.085 3.71296 16.498 3.20312" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6348 20.796L17.794 20.795C19.5648 20.795 21.0009 19.3589 21.0009 17.5871V12.911C21.0009 11.1392 19.5648 9.70312 17.793 9.70312L15.9308 9.7041" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7305 14.123V16.3764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.41992 6.51172H9.58965" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.50412 17.5474V17.4992M8.50414 17.2461C8.3659 17.2461 8.25391 17.3581 8.25391 17.4959C8.25391 17.6341 8.3659 17.7461 8.50414 17.7461C8.64238 17.7461 8.75437 17.6341 8.75437 17.4959C8.75437 17.3581 8.64238 17.2461 8.50414 17.2461Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// rotate phone 1 icon with style variants.
+class _MobileRotatePhone1Icon {
+  const _MobileRotatePhone1Icon();
+
+  /// bold style
+  _MobileRotatePhone1Bold get bold => const _MobileRotatePhone1Bold();
+  /// bulk style
+  _MobileRotatePhone1Bulk get bulk => const _MobileRotatePhone1Bulk();
+  /// light style
+  _MobileRotatePhone1Light get light => const _MobileRotatePhone1Light();
+  /// outline style
+  _MobileRotatePhone1Outline get outline => const _MobileRotatePhone1Outline();
+  /// twoTone style
+  _MobileRotatePhone1Twotone get twoTone => const _MobileRotatePhone1Twotone();
+  /// broken style
+  _MobileRotatePhone1Broken get broken => const _MobileRotatePhone1Broken();
+}
+
+/// rotate phone 1 — bulk style variants.
+class _MobileRotatePhone1Bulk {
+  const _MobileRotatePhone1Bulk();
+
+  /// rotate phone 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'rotate phone 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.7432 15.4359C17.8818 15.3687 17.8823 15.1793 17.7447 15.1101C17.6019 15.0382 17.4365 14.9614 17.25 14.8846C15.97 14.3646 15.36 12.8946 15.89 11.6246C16.345 10.5103 17.5156 9.92203 18.6493 10.1319C18.7808 10.1562 18.91 10.0602 18.91 9.92644V6.57461C18.91 4.30461 17.07 2.47461 14.81 2.47461H9.30996C7.04996 2.47461 5.20996 4.30461 5.20996 6.57461V9.91976C5.20996 10.0525 5.33729 10.1483 5.46809 10.1254C6.6198 9.92388 7.79271 10.5389 8.22996 11.6646C8.72996 12.9546 8.08996 14.4046 6.80996 14.9046C6.62406 14.979 6.46072 15.0477 6.31696 15.1123C6.17117 15.1778 6.16906 15.3753 6.31377 15.4431C6.69957 15.624 7.19959 15.8148 7.8211 15.9828C7.91324 16.0078 8.00871 15.962 8.05684 15.8796C8.15663 15.7087 8.281 15.5536 8.42996 15.4046C9.40996 14.4346 10.99 14.4346 11.97 15.4046L13.5607 16.9954C13.6454 17.0801 13.7847 17.0713 13.8663 16.9835C14.2203 16.6025 14.6793 16.3295 15.23 16.2246C16.3522 16.0002 17.1842 15.7066 17.7432 15.4359Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6919 18.6871C12.6539 18.5951 12.5989 18.5121 12.5299 18.4431L10.7299 16.6441C10.4369 16.3511 9.96288 16.3511 9.66988 16.6441C9.37688 16.9371 9.37688 17.4111 9.66988 17.7041L10.1009 18.1351C6.17188 17.7691 3.74988 16.3171 3.74988 15.2741C3.74988 14.5921 4.60988 13.8811 6.17188 13.2731C6.55788 13.1231 6.74888 12.6881 6.59888 12.3031C6.44888 11.9161 6.01288 11.7281 5.62788 11.8751C3.38688 12.7471 2.24988 13.8911 2.24988 15.2741C2.24988 17.5371 5.59088 19.3001 10.2589 19.6551L9.66988 20.2441C9.37688 20.5371 9.37688 21.0121 9.66988 21.3051C9.81588 21.4511 10.0079 21.5241 10.1999 21.5241C10.3919 21.5241 10.5839 21.4511 10.7299 21.3051L12.5299 19.5041C12.5989 19.4351 12.6539 19.3521 12.6919 19.2601C12.7679 19.0771 12.7679 18.8701 12.6919 18.6871Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4851 11.8812C18.1071 11.7232 17.6651 11.9052 17.5061 12.2892C17.3481 12.6722 17.5311 13.1102 17.9151 13.2682C19.4211 13.8882 20.2501 14.6012 20.2501 15.2752C20.2501 16.1472 18.6381 17.3422 15.5571 17.9382C15.1511 18.0172 14.8841 18.4092 14.9641 18.8172C15.0331 19.1752 15.3471 19.4242 15.6991 19.4242C15.7471 19.4242 15.7951 19.4202 15.8421 19.4102C19.5421 18.6942 21.7501 17.1492 21.7501 15.2752C21.7501 13.9142 20.6511 12.7732 18.4851 11.8812Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4599 7.4248H10.6599C10.2499 7.4248 9.90991 7.0848 9.90991 6.6748C9.90991 6.2548 10.2499 5.9248 10.6599 5.9248H13.4599C13.8699 5.9248 14.2099 6.2548 14.2099 6.6748C14.2099 7.0848 13.8699 7.4248 13.4599 7.4248Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// rotate phone 1 — broken style variants.
+class _MobileRotatePhone1Broken {
+  const _MobileRotatePhone1Broken();
+
+  /// rotate phone 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'rotate phone 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.7236 17.3242L12.5613 19.1532L10.7148 20.9996" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5047 19.138C7.53126 19.138 3.50586 17.4675 3.50586 15.4247C3.50586 14.3503 4.61041 13.3828 6.36837 12.709" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7088 12.7383C20.4191 13.4121 21.4935 14.3698 21.4935 15.4248C21.4935 16.9251 19.3223 18.2241 16.2031 18.8085" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.706 15.2055L18.705 6.50035C18.705 4.56738 17.1376 3 15.2047 3H12.5371" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.86949 3C7.93555 3 6.36914 4.56738 6.36914 6.50035L6.37011 15.2065" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1914 6.56836H13.8838" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// rotate phone 1 — twoTone style variants.
+class _MobileRotatePhone1Twotone {
+  const _MobileRotatePhone1Twotone();
+
+  /// rotate phone 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'rotate phone 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.7236 17.3242L12.5613 19.1532L10.7148 20.9996" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5047 19.138C7.53126 19.138 3.50586 17.4675 3.50586 15.4247C3.50586 14.3503 4.61041 13.3828 6.36837 12.709" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.7088 12.7383C20.4191 13.4121 21.4935 14.3698 21.4935 15.4248C21.4935 16.9251 19.3223 18.2241 16.2031 18.8085" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7059 15.2055L18.705 6.50035C18.705 4.56738 17.1376 3 15.2046 3H9.86949C7.93555 3 6.36914 4.56738 6.36914 6.50035L6.37011 15.2065" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1914 6.56836H13.8838" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// rotate phone 1 — outline style variants.
+class _MobileRotatePhone1Outline {
+  const _MobileRotatePhone1Outline();
+
+  /// rotate phone 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'rotate phone 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.69176 16.7955C9.98395 16.5019 10.4588 16.5008 10.7524 16.793L12.5901 18.6219C12.7313 18.7625 12.8108 18.9534 12.811 19.1526C12.8113 19.3518 12.7322 19.543 12.5914 19.6838L10.7449 21.5303C10.452 21.8232 9.97716 21.8232 9.68427 21.5303C9.39138 21.2374 9.39138 20.7625 9.68427 20.4696L10.9991 19.1548L9.69429 17.8562C9.4007 17.564 9.39956 17.0891 9.69176 16.7955Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.56869 12.4405C6.71694 12.8273 6.52357 13.261 6.1368 13.4093C5.312 13.7254 4.69058 14.0926 4.28818 14.4662C3.88686 14.8388 3.75586 15.1641 3.75586 15.4246C3.75586 15.6709 3.87414 15.9766 4.23621 16.3298C4.60047 16.685 5.16647 17.04 5.92675 17.3542C7.44379 17.9813 9.59186 18.3879 12.0047 18.3879C12.4189 18.3879 12.7547 18.7237 12.7547 19.1379C12.7547 19.5521 12.4189 19.8879 12.0047 19.8879C9.44408 19.8879 7.09274 19.4593 5.35373 18.7405C4.48598 18.3818 3.73479 17.936 3.18886 17.4036C2.64076 16.869 2.25586 16.1998 2.25586 15.4246C2.25586 14.6108 2.67713 13.9151 3.26758 13.3669C3.85695 12.8197 4.66678 12.3663 5.59994 12.0086C5.98672 11.8604 6.42044 12.0537 6.56869 12.4405Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5109 12.4633C17.6627 12.0779 18.0982 11.8886 18.4836 12.0404C19.3931 12.3988 20.1827 12.8506 20.7573 13.3933C21.333 13.9369 21.7434 14.624 21.7434 15.4248C21.7434 16.5642 20.927 17.4612 19.9166 18.0953C18.8786 18.7468 17.4579 19.2427 15.8411 19.5456C15.434 19.6219 15.0421 19.3537 14.9658 18.9465C14.8896 18.5394 15.1578 18.1475 15.5649 18.0713C17.0673 17.7898 18.2918 17.3441 19.1192 16.8248C19.9742 16.2882 20.2434 15.7856 20.2434 15.4248C20.2434 15.1705 20.1166 14.8513 19.7275 14.4839C19.3374 14.1155 18.7346 13.7515 17.9338 13.436C17.5484 13.2842 17.3591 12.8487 17.5109 12.4633Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.11914 6.50035C5.11914 4.1533 7.0212 2.25 9.36949 2.25H14.7046C17.0518 2.25 18.9549 4.15312 18.955 6.50027C18.955 6.5003 18.955 6.50024 18.955 6.50027L18.9559 15.2055C18.956 15.6197 18.6202 15.9555 18.206 15.9555C17.7918 15.9556 17.456 15.6198 17.4559 15.2056L17.455 6.50044C17.455 4.98168 16.2234 3.75 14.7046 3.75H9.36949C7.84993 3.75 6.61919 4.98141 6.61914 6.50027C6.61914 6.5003 6.61914 6.50024 6.61914 6.50027L6.62011 15.2064C6.62016 15.6206 6.28441 15.9565 5.8702 15.9565C5.45598 15.9566 5.12016 15.6208 5.12011 15.2066L5.11914 6.50035Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.94141 6.56836C9.94141 6.15415 10.2772 5.81836 10.6914 5.81836H13.3838C13.798 5.81836 14.1338 6.15415 14.1338 6.56836C14.1338 6.98257 13.798 7.31836 13.3838 7.31836H10.6914C10.2772 7.31836 9.94141 6.98257 9.94141 6.56836Z" fill="black"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// rotate phone 1 — bold style variants.
+class _MobileRotatePhone1Bold {
+  const _MobileRotatePhone1Bold();
+
+  /// rotate phone 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'rotate phone 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4599 7.42461H10.6599C10.2499 7.42461 9.9099 7.08461 9.9099 6.67461C9.9099 6.25461 10.2499 5.92461 10.6599 5.92461H13.4599C13.8699 5.92461 14.2099 6.25461 14.2099 6.67461C14.2099 7.08461 13.8699 7.42461 13.4599 7.42461ZM17.7431 15.4359C17.8818 15.3687 17.8822 15.1793 17.7446 15.1101C17.6019 15.0382 17.4364 14.9614 17.2499 14.8846C15.9699 14.3646 15.3599 12.8946 15.8899 11.6246C16.3449 10.5103 17.5155 9.92203 18.6492 10.1319C18.7808 10.1562 18.9099 10.0602 18.9099 9.92644V6.57461C18.9099 4.30461 17.0699 2.47461 14.8099 2.47461H9.3099C7.0499 2.47461 5.2099 4.30461 5.2099 6.57461V9.91976C5.2099 10.0525 5.33723 10.1483 5.46803 10.1254C6.61974 9.92388 7.79265 10.5389 8.2299 11.6646C8.7299 12.9546 8.0899 14.4046 6.8099 14.9046C6.624 14.979 6.46066 15.0477 6.3169 15.1123C6.17111 15.1778 6.169 15.3753 6.31371 15.4431C6.69951 15.624 7.19953 15.8148 7.82104 15.9828C7.91318 16.0078 8.00865 15.962 8.05678 15.8796C8.15657 15.7087 8.28094 15.5536 8.4299 15.4046C9.4099 14.4346 10.9899 14.4346 11.9699 15.4046L13.5606 16.9954C13.6454 17.0801 13.7847 17.0713 13.8662 16.9835C14.2202 16.6025 14.6792 16.3295 15.2299 16.2246C16.3521 16.0002 17.1841 15.7066 17.7431 15.4359Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6919 18.6871C12.6539 18.5951 12.5989 18.5121 12.5299 18.4431L10.7299 16.6441C10.4369 16.3511 9.96288 16.3511 9.66988 16.6441C9.37688 16.9371 9.37688 17.4111 9.66988 17.7041L10.1009 18.1351C6.17188 17.7691 3.74988 16.3171 3.74988 15.2741C3.74988 14.5921 4.60988 13.8811 6.17188 13.2731C6.55788 13.1231 6.74888 12.6881 6.59888 12.3031C6.44888 11.9161 6.01288 11.7281 5.62788 11.8751C3.38688 12.7471 2.24988 13.8911 2.24988 15.2741C2.24988 17.5371 5.59088 19.3001 10.2589 19.6551L9.66988 20.2441C9.37688 20.5371 9.37688 21.0121 9.66988 21.3051C9.81588 21.4511 10.0079 21.5241 10.1999 21.5241C10.3919 21.5241 10.5839 21.4511 10.7299 21.3051L12.5299 19.5041C12.5989 19.4351 12.6539 19.3521 12.6919 19.2601C12.7679 19.0771 12.7679 18.8701 12.6919 18.6871Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4852 11.8812C18.1072 11.7232 17.6652 11.9052 17.5062 12.2892C17.3482 12.6722 17.5312 13.1102 17.9152 13.2682C19.4212 13.8882 20.2502 14.6012 20.2502 15.2752C20.2502 16.1472 18.6382 17.3422 15.5572 17.9382C15.1512 18.0172 14.8842 18.4092 14.9642 18.8172C15.0332 19.1752 15.3472 19.4242 15.6992 19.4242C15.7472 19.4242 15.7952 19.4202 15.8422 19.4102C19.5422 18.6942 21.7502 17.1492 21.7502 15.2752C21.7502 13.9142 20.6512 12.7732 18.4852 11.8812Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// rotate phone 1 — light style variants.
+class _MobileRotatePhone1Light {
+  const _MobileRotatePhone1Light();
+
+  /// rotate phone 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'rotate phone 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.2236 17.3246L12.0613 19.1536L10.2148 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0047 19.138C7.03126 19.138 3.00586 17.4675 3.00586 15.4247C3.00586 14.3503 4.11041 13.3828 5.86837 12.709" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2088 12.7383C19.9191 13.4121 20.9935 14.3698 20.9935 15.4248C20.9935 16.9251 18.8223 18.2241 15.7031 18.8085" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2059 15.2055L18.205 6.50035C18.205 4.56738 16.6376 3 14.7046 3H9.36949C7.43555 3 5.86914 4.56738 5.86914 6.50035L5.87011 15.2065" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6914 6.56836H13.3838" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// rotate phone 2 icon with style variants.
+class _MobileRotatePhone2Icon {
+  const _MobileRotatePhone2Icon();
+
+  /// bold style
+  _MobileRotatePhone2Bold get bold => const _MobileRotatePhone2Bold();
+  /// bulk style
+  _MobileRotatePhone2Bulk get bulk => const _MobileRotatePhone2Bulk();
+  /// light style
+  _MobileRotatePhone2Light get light => const _MobileRotatePhone2Light();
+  /// outline style
+  _MobileRotatePhone2Outline get outline => const _MobileRotatePhone2Outline();
+  /// twoTone style
+  _MobileRotatePhone2Twotone get twoTone => const _MobileRotatePhone2Twotone();
+  /// broken style
+  _MobileRotatePhone2Broken get broken => const _MobileRotatePhone2Broken();
+}
+
+/// rotate phone 2 — bulk style variants.
+class _MobileRotatePhone2Bulk {
+  const _MobileRotatePhone2Bulk();
+
+  /// rotate phone 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'rotate phone 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.2684 20.2709C8.0974 19.9999 6.8114 19.2529 5.8304 18.2709C5.4314 17.8719 5.0704 17.4219 4.7654 16.9509C5.0014 16.9729 5.2584 16.8509 5.4124 16.6339C5.6514 16.2959 5.5704 15.8279 5.2324 15.5889L3.5324 14.3889C3.2784 14.2089 2.9394 14.2049 2.6824 14.3779C2.4234 14.5519 2.2994 14.8669 2.3694 15.1699C2.7054 16.6249 3.5794 18.1419 4.7694 19.3319C5.9584 20.5219 7.4764 21.3969 8.9314 21.7319C8.9884 21.7459 9.0444 21.7509 9.1004 21.7509C9.4424 21.7509 9.7504 21.5169 9.8304 21.1699C9.9234 20.7659 9.6724 20.3639 9.2684 20.2709Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.6307 8.83224C21.2947 7.37724 20.4207 5.86024 19.2307 4.67124C18.0407 3.48024 16.5237 2.60524 15.0687 2.27024C14.6657 2.17424 14.2617 2.42924 14.1687 2.83224C14.0757 3.23624 14.3277 3.63924 14.7317 3.73124C15.9027 4.00224 17.1877 4.74925 18.1697 5.73125C18.5687 6.13125 18.9297 6.58025 19.2347 7.05225C18.9917 7.02824 18.7407 7.15025 18.5877 7.36825C18.3487 7.70624 18.4287 8.17524 18.7677 8.41324L20.4667 9.61325C20.5967 9.70525 20.7487 9.75125 20.8997 9.75125C21.0457 9.75125 21.1917 9.70925 21.3177 9.62425C21.5757 9.45025 21.7007 9.13624 21.6307 8.83224Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.0498 11.5513L12.4498 3.95133C10.9598 2.46133 8.45981 2.45133 6.84981 3.95133L3.94981 6.85133C2.45981 8.34133 2.44981 10.8413 3.94981 12.4513L11.5498 20.0513C12.2898 20.8013 13.2898 21.1713 14.3098 21.1713C15.3198 21.1713 16.3498 20.8013 17.1498 20.0513L20.0498 17.1513C21.5398 15.6613 21.5498 13.1613 20.0698 11.5613C20.0598 11.5613 20.0598 11.5513 20.0498 11.5513Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.5998 16.5514C15.0698 16.5514 14.6498 16.1314 14.6498 15.6014C14.6498 15.0614 15.1498 14.6514 15.5998 14.6514C16.1298 14.6514 16.5498 15.0714 16.5498 15.6014C16.5498 16.1414 16.0498 16.5514 15.5998 16.5514Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// rotate phone 2 — broken style variants.
+class _MobileRotatePhone2Broken {
+  const _MobileRotatePhone2Broken();
+
+  /// rotate phone 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'rotate phone 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.5816 9.33924L20.1882 11.9455C21.5318 13.2882 21.5318 15.4666 20.1882 16.8103L17.3102 19.6883C15.9675 21.031 13.789 21.031 12.4464 19.6883L4.81157 12.0545C3.46792 10.7108 3.46792 8.53335 4.8106 7.19067L7.68958 4.3117C9.03226 2.96902 11.2097 2.96902 12.5534 4.3117L15.3559 7.11381" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.55373 20.999C8.20813 20.6828 6.85183 19.9395 5.70569 18.7934C4.55955 17.6472 3.81329 16.287 3.5 14.9453L5.21629 16.0983" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4453 3C16.7909 3.31621 18.1472 4.05955 19.2934 5.20569C20.4395 6.35183 21.1858 7.71203 21.499 9.05373L19.7828 7.90078" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1447 15.6968V15.6486M16.1448 15.3955C16.0065 15.3955 15.8945 15.5075 15.8945 15.6453C15.8945 15.7835 16.0065 15.8955 16.1448 15.8955C16.283 15.8955 16.395 15.7835 16.395 15.6453C16.395 15.5075 16.283 15.3955 16.1448 15.3955Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// rotate phone 2 — twoTone style variants.
+class _MobileRotatePhone2Twotone {
+  const _MobileRotatePhone2Twotone();
+
+  /// rotate phone 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'rotate phone 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.1882 11.9455L12.5534 4.3117C11.2097 2.96902 9.03226 2.96902 7.68958 4.3117L4.8106 7.19067C3.46792 8.53335 3.46792 10.7108 4.81157 12.0545L12.4464 19.6883C13.789 21.031 15.9675 21.031 17.3102 19.6883L20.1882 16.8103C21.5318 15.4666 21.5318 13.2882 20.1882 11.9455Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.55373 20.999C8.20813 20.6828 6.85183 19.9395 5.70569 18.7934C4.55955 17.6472 3.81329 16.287 3.5 14.9453L5.21629 16.0983" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4453 3C16.7909 3.31621 18.1472 4.05955 19.2934 5.20569C20.4395 6.35183 21.1858 7.71203 21.499 9.05373L19.7828 7.90078" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1447 15.6968V15.6486M16.1448 15.3955C16.0065 15.3955 15.8945 15.5075 15.8945 15.6453C15.8945 15.7835 16.0065 15.8955 16.1448 15.8955C16.283 15.8955 16.395 15.7835 16.395 15.6453C16.395 15.5075 16.283 15.3955 16.1448 15.3955Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// rotate phone 2 — outline style variants.
+class _MobileRotatePhone2Outline {
+  const _MobileRotatePhone2Outline();
+
+  /// rotate phone 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'rotate phone 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.3781 21.4434C13.8281 21.4445 13.2833 21.3369 12.775 21.1269C12.2667 20.9168 11.8049 20.6084 11.4161 20.2194L3.78113 12.5854C2.99583 11.7997 2.55469 10.7343 2.55469 9.62341C2.55469 8.51253 2.99583 7.44712 3.78113 6.66141L6.66013 3.78141C7.44714 2.99855 8.51206 2.55908 9.62213 2.55908C10.7322 2.55908 11.7971 2.99855 12.5841 3.78141L20.2191 11.4154C20.6084 11.8045 20.9172 12.2665 21.1279 12.775C21.3386 13.2835 21.4471 13.8285 21.4471 14.3789C21.4471 14.9293 21.3386 15.4743 21.1279 15.9828C20.9172 16.4913 20.6084 16.9533 20.2191 17.3424L17.3411 20.2204C16.9521 20.6094 16.4901 20.9176 15.9817 21.1275C15.4732 21.3374 14.9282 21.4448 14.3781 21.4434V21.4434ZM9.62113 4.0564C9.26829 4.05594 8.91883 4.12514 8.59279 4.26002C8.26674 4.3949 7.97053 4.59281 7.72113 4.84241L4.84113 7.72141C4.33771 8.22558 4.05495 8.90893 4.05495 9.62141C4.05495 10.3339 4.33771 11.0172 4.84113 11.5214L12.4761 19.1554C12.9882 19.6437 13.6686 19.9162 14.3761 19.9162C15.0837 19.9162 15.7641 19.6437 16.2761 19.1554L19.1541 16.2774C19.6576 15.7732 19.9403 15.0899 19.9403 14.3774C19.9403 13.6649 19.6576 12.9816 19.1541 12.4774V12.4774L11.5191 4.84441C11.2701 4.59469 10.9743 4.39655 10.6486 4.26133C10.3229 4.12611 9.97378 4.05647 9.62113 4.0564Z" fill="black"/> <path d="M9.05407 21.749C8.99614 21.7492 8.93841 21.7425 8.88207 21.729C7.28334 21.3337 5.82647 20.5005 4.67507 19.323C3.49688 18.1723 2.66386 16.7151 2.27007 15.116C2.23541 14.9694 2.24582 14.8156 2.29992 14.675C2.35402 14.5343 2.4493 14.4132 2.5733 14.3276C2.69731 14.2419 2.84427 14.1956 2.99499 14.1948C3.1457 14.194 3.29315 14.2387 3.41807 14.323L5.13507 15.476C5.29947 15.5874 5.4129 15.7596 5.4504 15.9546C5.48791 16.1496 5.44642 16.3516 5.33507 16.516C5.25467 16.6327 5.14324 16.7247 5.01336 16.7814C4.88348 16.8381 4.74032 16.8574 4.60007 16.837C4.92208 17.3525 5.30187 17.8296 5.73207 18.259C6.68611 19.2392 7.8948 19.9335 9.22207 20.264C9.40037 20.3071 9.55675 20.4139 9.6617 20.5644C9.76665 20.7148 9.81291 20.8985 9.79175 21.0807C9.77059 21.2629 9.68347 21.4311 9.54683 21.5534C9.4102 21.6758 9.2335 21.744 9.05007 21.745L9.05407 21.749Z" fill="black"/> <path d="M21.0003 9.8044C20.8513 9.80419 20.7058 9.75963 20.5823 9.6764L18.8663 8.5234C18.7248 8.42836 18.62 8.28796 18.569 8.12536C18.518 7.96275 18.5239 7.78762 18.5857 7.6288C18.6475 7.46999 18.7616 7.33698 18.9091 7.25165C19.0566 7.16633 19.2288 7.1338 19.3973 7.15941C19.0743 6.64407 18.6938 6.16702 18.2633 5.7374C17.309 4.75733 16.1005 4.06267 14.7733 3.7314C14.677 3.70925 14.586 3.66828 14.5056 3.61085C14.4251 3.55342 14.3569 3.48066 14.3046 3.39676C14.2524 3.31285 14.2173 3.21945 14.2013 3.12193C14.1853 3.02441 14.1887 2.92468 14.2114 2.82848C14.2341 2.73229 14.2755 2.64153 14.3334 2.56141C14.3912 2.48129 14.4644 2.41338 14.5485 2.36162C14.6327 2.30985 14.7263 2.27523 14.8239 2.25975C14.9215 2.24427 15.0212 2.24823 15.1173 2.27141C16.7152 2.66533 18.172 3.49636 19.3243 4.67141C20.503 5.8221 21.3361 7.27975 21.7293 8.87941C21.7551 8.98944 21.7556 9.10387 21.731 9.21415C21.7063 9.32443 21.657 9.42772 21.5868 9.51628C21.5166 9.60484 21.4273 9.67639 21.3256 9.72559C21.2238 9.77479 21.1123 9.80037 20.9993 9.80041L21.0003 9.8044Z" fill="black"/> <path d="M15.6445 16.645C15.4468 16.645 15.2534 16.5864 15.089 16.4765C14.9245 16.3666 14.7963 16.2104 14.7207 16.0277C14.645 15.845 14.6252 15.6439 14.6637 15.4499C14.7023 15.256 14.7976 15.0778 14.9374 14.9379C15.0773 14.7981 15.2555 14.7028 15.4494 14.6642C15.6434 14.6256 15.8445 14.6455 16.0272 14.7211C16.2099 14.7968 16.3661 14.925 16.476 15.0895C16.5859 15.2539 16.6445 15.4472 16.6445 15.645C16.6445 15.9102 16.5392 16.1646 16.3516 16.3521C16.1641 16.5397 15.9097 16.645 15.6445 16.645Z" fill="black"/> </svg> ',
+    category: 'Mobile',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// rotate phone 2 — bold style variants.
+class _MobileRotatePhone2Bold {
+  const _MobileRotatePhone2Bold();
+
+  /// rotate phone 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'rotate phone 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.5998 16.5513C15.0698 16.5513 14.6498 16.1313 14.6498 15.6013C14.6498 15.0613 15.1498 14.6513 15.5998 14.6513C16.1298 14.6513 16.5498 15.0713 16.5498 15.6013C16.5498 16.1413 16.0498 16.5513 15.5998 16.5513ZM20.0498 11.5513L12.4498 3.95133C10.9598 2.46133 8.45981 2.45133 6.84981 3.95133L3.94981 6.85133C2.45981 8.34133 2.44981 10.8413 3.94981 12.4513L11.5498 20.0513C12.2898 20.8013 13.2898 21.1713 14.3098 21.1713C15.3198 21.1713 16.3498 20.8013 17.1498 20.0513L20.0498 17.1513C21.5398 15.6613 21.5498 13.1613 20.0698 11.5613C20.0598 11.5613 20.0598 11.5513 20.0498 11.5513Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.2684 20.2709C8.0974 19.9999 6.8114 19.2529 5.8304 18.2709C5.4314 17.8719 5.0704 17.4219 4.7654 16.9509C5.0014 16.9729 5.2584 16.8509 5.4124 16.6339C5.6514 16.2959 5.5704 15.8279 5.2324 15.5889L3.5324 14.3889C3.2784 14.2089 2.9394 14.2049 2.6824 14.3779C2.4234 14.5519 2.2994 14.8669 2.3694 15.1699C2.7054 16.6249 3.5794 18.1419 4.7694 19.3319C5.9584 20.5219 7.4764 21.3969 8.9314 21.7319C8.9884 21.7459 9.0444 21.7509 9.1004 21.7509C9.4424 21.7509 9.7504 21.5169 9.8304 21.1699C9.9234 20.7659 9.6724 20.3639 9.2684 20.2709Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.6307 8.83224C21.2947 7.37724 20.4207 5.86024 19.2307 4.67124C18.0407 3.48024 16.5237 2.60524 15.0687 2.27024C14.6657 2.17424 14.2617 2.42924 14.1687 2.83224C14.0757 3.23624 14.3277 3.63924 14.7317 3.73124C15.9027 4.00224 17.1877 4.74925 18.1697 5.73125C18.5687 6.13125 18.9297 6.58025 19.2347 7.05225C18.9917 7.02824 18.7407 7.15025 18.5877 7.36825C18.3487 7.70624 18.4287 8.17524 18.7677 8.41324L20.4667 9.61325C20.5967 9.70525 20.7487 9.75125 20.8997 9.75125C21.0457 9.75125 21.1917 9.70925 21.3177 9.62425C21.5757 9.45025 21.7007 9.13624 21.6307 8.83224Z" fill="black"/> </svg>',
+    category: 'Mobile',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// rotate phone 2 — light style variants.
+class _MobileRotatePhone2Light {
+  const _MobileRotatePhone2Light();
+
+  /// rotate phone 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'rotate phone 2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.6887 11.9453L12.0539 4.31151C10.7102 2.96883 8.53274 2.96883 7.19006 4.31151L4.31109 7.19049C2.96841 8.53317 2.96841 10.7106 4.31206 12.0543L11.9468 19.6881C13.2895 21.0308 15.468 21.0308 16.8107 19.6881L19.6887 16.8101C21.0323 15.4665 21.0323 13.288 19.6887 11.9453Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.05373 20.999C7.70813 20.6828 6.35183 19.9395 5.20569 18.7934C4.05955 17.6472 3.31329 16.287 3 14.9453L4.71629 16.0983" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9453 3C16.2909 3.31621 17.6472 4.05955 18.7934 5.20569C19.9395 6.35183 20.6858 7.71203 20.999 9.05373L19.2828 7.90078" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.6447 15.6968V15.6486M15.6448 15.3955C15.5065 15.3955 15.3945 15.5075 15.3945 15.6453C15.3945 15.7835 15.5065 15.8955 15.6448 15.8955C15.783 15.8955 15.895 15.7835 15.895 15.6453C15.895 15.5075 15.783 15.3955 15.6448 15.3955Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Mobile',
     style: IconfyStyle.light,

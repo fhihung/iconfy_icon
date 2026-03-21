@@ -12,8 +12,14 @@ class _GameIcons {
   _GameDiamondsPokerCardIcon get diamondsPokerCard => const _GameDiamondsPokerCardIcon();
   /// Handy game
   _GameHandyGameIcon get handyGame => const _GameHandyGameIcon();
+  /// Handy game 1
+  _GameHandyGame1Icon get handyGame1 => const _GameHandyGame1Icon();
   /// Heart poker card
   _GameHeartPokerCardIcon get heartPokerCard => const _GameHeartPokerCardIcon();
+  /// Heart poker card 1
+  _GameHeartPokerCard1Icon get heartPokerCard1 => const _GameHeartPokerCard1Icon();
+  /// Heart poker card 2
+  _GameHeartPokerCard2Icon get heartPokerCard2 => const _GameHeartPokerCard2Icon();
   /// Controller disconnected
   _GameControllerDisconnectedIcon get controllerDisconnected => const _GameControllerDisconnectedIcon();
   /// Remove controller
@@ -22,18 +28,30 @@ class _GameIcons {
   _GameWifiControllerIcon get wifiController => const _GameWifiControllerIcon();
   /// Diamonds symbols
   _GameDiamondsSymbolsIcon get diamondsSymbols => const _GameDiamondsSymbolsIcon();
+  /// Diamonds symbols 1
+  _GameDiamondsSymbols1Icon get diamondsSymbols1 => const _GameDiamondsSymbols1Icon();
+  /// Diamonds symbols 2
+  _GameDiamondsSymbols2Icon get diamondsSymbols2 => const _GameDiamondsSymbols2Icon();
   /// Controller error
   _GameControllerErrorIcon get controllerError => const _GameControllerErrorIcon();
   /// Spades poker card
   _GameSpadesPokerCardIcon get spadesPokerCard => const _GameSpadesPokerCardIcon();
   /// Heart symbols
   _GameHeartSymbolsIcon get heartSymbols => const _GameHeartSymbolsIcon();
+  /// Heart symbols 1
+  _GameHeartSymbols1Icon get heartSymbols1 => const _GameHeartSymbols1Icon();
+  /// Heart symbols 2
+  _GameHeartSymbols2Icon get heartSymbols2 => const _GameHeartSymbols2Icon();
   /// Xbox playstation
   _GameXboxPlaystationIcon get xboxPlaystation => const _GameXboxPlaystationIcon();
   /// Game objects
   _GameGameObjectsIcon get gameObjects => const _GameGameObjectsIcon();
   /// Spades symbols
   _GameSpadesSymbolsIcon get spadesSymbols => const _GameSpadesSymbolsIcon();
+  /// Spades symbols 1
+  _GameSpadesSymbols1Icon get spadesSymbols1 => const _GameSpadesSymbols1Icon();
+  /// Spades symbols 2
+  _GameSpadesSymbols2Icon get spadesSymbols2 => const _GameSpadesSymbols2Icon();
   /// dual shock controller
   _GameDualShockControllerIcon get dualShockController => const _GameDualShockControllerIcon();
   /// Charge controller
@@ -46,14 +64,32 @@ class _GameIcons {
   _GameCableControllerIcon get cableController => const _GameCableControllerIcon();
   /// Clubs symbols
   _GameClubsSymbolsIcon get clubsSymbols => const _GameClubsSymbolsIcon();
+  /// Clubs symbols 1
+  _GameClubsSymbols1Icon get clubsSymbols1 => const _GameClubsSymbols1Icon();
+  /// Clubs symbols 2
+  _GameClubsSymbols2Icon get clubsSymbols2 => const _GameClubsSymbols2Icon();
   /// controller
   _GameControllerIcon get controller => const _GameControllerIcon();
+  /// controller 1
+  _GameController1Icon get controller1 => const _GameController1Icon();
   /// bowed kite
   _GameBowedKiteIcon get bowedKite => const _GameBowedKiteIcon();
   /// flat kite
   _GameFlatKiteIcon get flatKite => const _GameFlatKiteIcon();
+  /// flat kite  1
+  _GameFlatKite1Icon get flatKite1 => const _GameFlatKite1Icon();
+  /// flat kite  2
+  _GameFlatKite2Icon get flatKite2 => const _GameFlatKite2Icon();
   /// Delta Kite
   _GameDeltaKiteIcon get deltaKite => const _GameDeltaKiteIcon();
+  /// Delta Kite  1
+  _GameDeltaKite1Icon get deltaKite1 => const _GameDeltaKite1Icon();
+  /// Delta Kite  2
+  _GameDeltaKite2Icon get deltaKite2 => const _GameDeltaKite2Icon();
+  /// Delta Kite  3
+  _GameDeltaKite3Icon get deltaKite3 => const _GameDeltaKite3Icon();
+  /// Wifi controller
+  _GameWifiController1Icon get wifiController1 => const _GameWifiController1Icon();
   /// R3 Button Circle Thin
   _GameR3ButtonCircleThinIcon get r3ButtonCircleThin => const _GameR3ButtonCircleThinIcon();
   /// Crown Slot Win
@@ -76,6 +112,8 @@ class _GameIcons {
   _GameDpadTouchCenteredIcon get dpadTouchCentered => const _GameDpadTouchCenteredIcon();
   /// Casino Gear Bold
   _GameCasinoGearBoldIcon get casinoGearBold => const _GameCasinoGearBoldIcon();
+  /// Casino Gear Bold  1
+  _GameCasinoGearBold1Icon get casinoGearBold1 => const _GameCasinoGearBold1Icon();
   /// L2 Button Rounded Bold
   _GameL2ButtonRoundedBoldIcon get l2ButtonRoundedBold => const _GameL2ButtonRoundedBoldIcon();
   /// Play Button Shielded
@@ -154,6 +192,8 @@ class _GameIcons {
   _GameKingCardIcon get kingCard => const _GameKingCardIcon();
   /// Button Y Circle
   _GameButtonYCircleIcon get buttonYCircle => const _GameButtonYCircleIcon();
+  /// bowed kite
+  _GameBowedKite1Icon get bowedKite1 => const _GameBowedKite1Icon();
   /// Dpad Touch Right
   _GameDpadTouchRightIcon get dpadTouchRight => const _GameDpadTouchRightIcon();
   /// Game Controller Pro
@@ -182,6 +222,14 @@ class _GameIcons {
   _GameDpadTouchButtonsIcon get dpadTouchButtons => const _GameDpadTouchButtonsIcon();
   /// PlayStation Minus Button
   _GamePlaystationMinusButtonIcon get playstationMinusButton => const _GamePlaystationMinusButtonIcon();
+  /// Delta Kite
+  _GameDeltaKite4Icon get deltaKite4 => const _GameDeltaKite4Icon();
+  /// Delta Kite 1
+  _GameDeltaKite11Icon get deltaKite11 => const _GameDeltaKite11Icon();
+  /// Delta Kite 2
+  _GameDeltaKite21Icon get deltaKite21 => const _GameDeltaKite21Icon();
+  /// Delta Kite 3
+  _GameDeltaKite31Icon get deltaKite31 => const _GameDeltaKite31Icon();
   /// Button Y Square
   _GameButtonYSquareIcon get buttonYSquare => const _GameButtonYSquareIcon();
   /// RT Trigger Button Xbox
@@ -250,6 +298,8 @@ class _GameIcons {
   _GameSwitchDpadHorizontalIcon get switchDpadHorizontal => const _GameSwitchDpadHorizontalIcon();
   /// Club card
   _GameClubCardIcon get clubCard => const _GameClubCardIcon();
+  /// Club card  1
+  _GameClubCard1Icon get clubCard1 => const _GameClubCard1Icon();
   /// Casino Gear Magic
   _GameCasinoGearMagicIcon get casinoGearMagic => const _GameCasinoGearMagicIcon();
   /// Arcade Stick Dual Button
@@ -298,6 +348,8 @@ class _GameIcons {
   _GameChipStackFlatIcon get chipStackFlat => const _GameChipStackFlatIcon();
   /// R2 Button Rounded Bold
   _GameR2ButtonRoundedBoldIcon get r2ButtonRoundedBold => const _GameR2ButtonRoundedBoldIcon();
+  /// R2 Button Rounded Bold  1
+  _GameR2ButtonRoundedBold1Icon get r2ButtonRoundedBold1 => const _GameR2ButtonRoundedBold1Icon();
   /// Roulette Double
   _GameRouletteDoubleIcon get rouletteDouble => const _GameRouletteDoubleIcon();
   /// Dice Slots
@@ -318,6 +370,8 @@ class _GameIcons {
   _GameArcadeStickSolidSecIcon get arcadeStickSolidSec => const _GameArcadeStickSolidSecIcon();
   /// Poker Chip
   _GamePokerChipIcon get pokerChip => const _GamePokerChipIcon();
+  /// Poker Chip  1
+  _GamePokerChip1Icon get pokerChip1 => const _GamePokerChip1Icon();
   /// Diamond Disabled
   _GameDiamondDisabledIcon get diamondDisabled => const _GameDiamondDisabledIcon();
   /// Clover Loop
@@ -368,6 +422,8 @@ class _GameIcons {
   _GameVerticalJoystickSlimIcon get verticalJoystickSlim => const _GameVerticalJoystickSlimIcon();
   /// Gamepad Classic Grip
   _GameGamepadClassicGripIcon get gamepadClassicGrip => const _GameGamepadClassicGripIcon();
+  /// Crown Win
+  _GameCrownWin1Icon get crownWin1 => const _GameCrownWin1Icon();
   /// Seven Icon shape
   _GameSevenIconShapeIcon get sevenIconShape => const _GameSevenIconShapeIcon();
   /// Arcade Stick Compact
@@ -404,6 +460,8 @@ class _GameIcons {
   _GameSevenIconSquareIcon get sevenIconSquare => const _GameSevenIconSquareIcon();
   /// PlayStation Circle
   _GamePlaystationCircleIcon get playstationCircle => const _GamePlaystationCircleIcon();
+  /// PlayStation Circle  1
+  _GamePlaystationCircle1Icon get playstationCircle1 => const _GamePlaystationCircle1Icon();
   /// Seven Icon circle mid
   _GameSevenIconCircleMidIcon get sevenIconCircleMid => const _GameSevenIconCircleMidIcon();
   /// Switch Direction Left
@@ -422,6 +480,8 @@ class _GameIcons {
   _GamePlaystationDockButtonIcon get playstationDockButton => const _GamePlaystationDockButtonIcon();
   /// PlayStation Square
   _GamePlaystationSquareIcon get playstationSquare => const _GamePlaystationSquareIcon();
+  /// PlayStation Square  1
+  _GamePlaystationSquare1Icon get playstationSquare1 => const _GamePlaystationSquare1Icon();
   /// L3 Analog Button Top
   _GameL3AnalogButtonTopIcon get l3AnalogButtonTop => const _GameL3AnalogButtonTopIcon();
   /// Win Badge
@@ -452,8 +512,16 @@ class _GameIcons {
   _GameGameControllerWiredIcon get gameControllerWired => const _GameGameControllerWiredIcon();
   /// Button B Square
   _GameButtonBSquareIcon get buttonBSquare => const _GameButtonBSquareIcon();
+  /// Triple Seven
+  _GameTripleSeven2Icon get tripleSeven2 => const _GameTripleSeven2Icon();
   /// Poker Chip diamond
   _GamePokerChipDiamondIcon get pokerChipDiamond => const _GamePokerChipDiamondIcon();
+  /// flat kite
+  _GameFlatKite3Icon get flatKite3 => const _GameFlatKite3Icon();
+  /// flat kite 1
+  _GameFlatKite11Icon get flatKite11 => const _GameFlatKite11Icon();
+  /// flat kite 2
+  _GameFlatKite21Icon get flatKite21 => const _GameFlatKite21Icon();
   /// Button A Circle
   _GameButtonACircleIcon get buttonACircle => const _GameButtonACircleIcon();
   /// Nintendo Circle N
@@ -522,6 +590,8 @@ class _GameIcons {
   _GameSwitchAnalogStickIcon get switchAnalogStick => const _GameSwitchAnalogStickIcon();
   /// PlayStation Triangle
   _GamePlaystationTriangleIcon get playstationTriangle => const _GamePlaystationTriangleIcon();
+  /// PlayStation Triangle  1
+  _GamePlaystationTriangle1Icon get playstationTriangle1 => const _GamePlaystationTriangle1Icon();
   /// Spade Circle
   _GameSpadeCircleIcon get spadeCircle => const _GameSpadeCircleIcon();
   /// Nintendo Square N
@@ -530,6 +600,8 @@ class _GameIcons {
   _GameRButtonSquareBoldIcon get rButtonSquareBold => const _GameRButtonSquareBoldIcon();
   /// PlayStation Cross
   _GamePlaystationCrossIcon get playstationCross => const _GamePlaystationCrossIcon();
+  /// PlayStation Cross  1
+  _GamePlaystationCross1Icon get playstationCross1 => const _GamePlaystationCross1Icon();
   /// LT Trigger Button
   _GameLtTriggerButtonIcon get ltTriggerButton => const _GameLtTriggerButtonIcon();
   /// Dpad Plus Solid
@@ -715,7 +787,7 @@ class _GameHandyGameBulk {
   /// Handy game — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Handy game',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6 18.2031C15.8 18.2031 15.99 18.1231 16.13 17.9831C16.27 17.8431 16.35 17.6531 16.35 17.4531C16.35 17.2531 16.27 17.0631 16.13 16.9231C16.06 16.8531 15.98 16.8031 15.89 16.7631C15.61 16.6431 15.28 16.7131 15.07 16.9231C14.93 17.0631 14.85 17.2531 14.85 17.4531C14.85 17.5531 14.87 17.6531 14.91 17.7431C14.95 17.8331 15 17.9131 15.07 17.9831C15.21 18.1231 15.4 18.2031 15.6 18.2031ZM14.1 16.1031C14.3 16.1031 14.49 16.0231 14.63 15.8831C14.7 15.8131 14.76 15.7331 14.79 15.6431C14.83 15.5431 14.85 15.4531 14.85 15.3531C14.85 15.1531 14.77 14.9631 14.63 14.8231C14.42 14.6131 14.09 14.5431 13.81 14.6631C13.72 14.7031 13.64 14.7531 13.57 14.8231C13.43 14.9631 13.35 15.1531 13.35 15.3531C13.35 15.5531 13.43 15.7431 13.57 15.8831C13.71 16.0231 13.9 16.1031 14.1 16.1031ZM10.45 17.0031H11C11.414 17.0031 11.75 16.6671 11.75 16.2531C11.75 15.8391 11.414 15.5031 11 15.5031H10.45V14.9531C10.45 14.5391 10.114 14.2031 9.70002 14.2031C9.28602 14.2031 8.95002 14.5391 8.95002 14.9531V15.5031H8.40002C7.98602 15.5031 7.65002 15.8391 7.65002 16.2531C7.65002 16.6671 7.98602 17.0031 8.40002 17.0031H8.95002V17.5531C8.95002 17.9671 9.28602 18.3031 9.70002 18.3031C10.114 18.3031 10.45 17.9671 10.45 17.5531V17.0031Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M8.7 2.5H15.3C17.812 2.5 19.5 4.268 19.5 6.9V17.1C19.5 19.732 17.812 21.5 15.3 21.5H8.7C6.188 21.5 4.5 19.732 4.5 17.1V6.9C4.5 4.268 6.188 2.5 8.7 2.5ZM14.6 11.5586C16.043 11.5586 17.05 10.5926 17.05 9.20859V7.40859C17.05 6.04659 16.062 5.05859 14.7 5.05859H9.39995C7.95795 5.05859 6.94995 6.02459 6.94995 7.40859V9.20859C6.94995 10.5926 7.95795 11.5586 9.39995 11.5586H14.6Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M4.8 11.1504C4.63432 11.1504 4.5 11.2847 4.5 11.4504V17.1004C4.5 19.7324 6.188 21.5004 8.7 21.5004H15.3C17.812 21.5004 19.5 19.7324 19.5 17.1004V11.4504C19.5 11.2847 19.3657 11.1504 19.2 11.1504H4.8Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.2 9.65C19.3657 9.65 19.5 9.51569 19.5 9.35V6.9C19.5 4.268 17.812 2.5 15.3 2.5H8.7C6.188 2.5 4.5 4.268 4.5 6.9V9.35C4.5 9.51569 4.63431 9.65 4.8 9.65H19.2Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.23 17.7312C16.09 17.8712 15.9 17.9512 15.7 17.9512C15.5 17.9512 15.31 17.8712 15.17 17.7312C15.03 17.5912 14.95 17.4012 14.95 17.2012C14.95 17.0012 15.03 16.8112 15.17 16.6712C15.45 16.3912 15.95 16.3912 16.23 16.6712C16.37 16.8112 16.45 17.0012 16.45 17.2012C16.45 17.4012 16.37 17.5912 16.23 17.7312ZM14.2 15.8512C14.1 15.8512 14 15.8312 13.91 15.7912C13.82 15.7512 13.74 15.7012 13.67 15.6312C13.53 15.4912 13.45 15.3012 13.45 15.1012C13.45 14.9012 13.53 14.7112 13.67 14.5712C13.74 14.5012 13.82 14.4512 13.91 14.4112C14.19 14.3012 14.52 14.3612 14.73 14.5712C14.87 14.7112 14.95 14.9012 14.95 15.1012C14.95 15.3012 14.87 15.4912 14.73 15.6312C14.59 15.7712 14.4 15.8512 14.2 15.8512ZM11.1 16.7512H10.55V17.3012C10.55 17.7152 10.214 18.0512 9.80002 18.0512C9.38602 18.0512 9.05002 17.7152 9.05002 17.3012V16.7512H8.40002C7.98602 16.7512 7.65002 16.4152 7.65002 16.0012C7.65002 15.5872 7.98602 15.2512 8.40002 15.2512H9.05002V14.7012C9.05002 14.2872 9.38602 13.9512 9.80002 13.9512C10.214 13.9512 10.55 14.2872 10.55 14.7012V15.2512H11.1C11.514 15.2512 11.85 15.5872 11.85 16.0012C11.85 16.4152 11.514 16.7512 11.1 16.7512Z" fill="black"/> </svg>',
     category: 'Game',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -730,7 +802,7 @@ class _GameHandyGameBroken {
   /// Handy game — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Handy game',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.293 3C17.595 3 19.0282 4.62486 19.0282 6.92497V17.075C19.0282 19.3751 17.595 21 15.292 21H8.70693C6.40487 21 4.97266 19.3751 4.97266 17.075V6.92497C4.97266 4.62486 6.41168 3 8.70693 3H12.4171" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.79988 14.6729V17.2843M11.1318 15.9793H8.4668" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2148 15.1367H14.2248" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7441 17.2451H15.7541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1431 11.3625C15.1142 11.3625 15.8001 10.7583 15.8001 9.78629V7.96489C15.8001 6.99678 15.1142 6.38867 14.1431 6.38867H9.85913C8.88907 6.38867 8.20312 6.99289 8.20312 7.96489V9.78629C8.20312 10.7583 8.88907 11.3625 9.85913 11.3625H11.3219" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.293 3C17.595 3 19.0282 4.62486 19.0282 6.92497V17.075C19.0282 19.3751 17.595 21 15.292 21H8.70693C6.40487 21 4.97266 19.3751 4.97266 17.075V6.92497C4.97266 4.62486 6.41168 3 8.70693 3H12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.79893 14.6729V17.2843M11.1318 15.9793H8.4668" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1895 15.1367H14.1995" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7188 17.2451H15.7287" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.93164 10.4053H19.027" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Game',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -745,7 +817,7 @@ class _GameHandyGameTwotone {
   /// Handy game — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Handy game',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M9.20693 3H15.793C18.095 3 19.5282 4.62486 19.5282 6.92497V17.075C19.5282 19.3751 18.095 21 15.792 21H9.20693C6.90487 21 5.47266 19.3751 5.47266 17.075V6.92497C5.47266 4.62486 6.91168 3 9.20693 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.2999 14.6729V17.2843M11.6318 15.9793H8.9668" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.7148 15.1367H14.7248" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2441 17.2451H16.2541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3001 7.96489V9.78629C16.3001 10.7583 15.6142 11.3625 14.6431 11.3625H10.3591C9.38907 11.3625 8.70312 10.7583 8.70312 9.78629V7.96489C8.70312 6.99289 9.38907 6.38867 10.3591 6.38867H14.6431C15.6142 6.38867 16.3001 6.99678 16.3001 7.96489Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.20693 3H15.793C18.095 3 19.5282 4.62486 19.5282 6.92497V17.075C19.5282 19.3751 18.095 21 15.792 21H9.20693C6.90487 21 5.47266 19.3751 5.47266 17.075V6.92497C5.47266 4.62486 6.91168 3 9.20693 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.2989 14.6729V17.2843M11.6318 15.9793H8.9668" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.6895 15.1367H14.6995" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.2188 17.2451H16.2288" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.47266 10.4053H19.5273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Game',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -760,7 +832,7 @@ class _GameHandyGameOutline {
   /// Handy game — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Handy game',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.42997 3.58855C6.23302 2.72706 7.37306 2.25 8.70644 2.25H15.2925C16.6288 2.25 17.7694 2.72674 18.5722 3.58881C19.3695 4.44486 19.7777 5.62001 19.7777 6.92497V17.075C19.7777 18.38 19.3695 19.5552 18.5721 20.4112C17.7691 21.2733 16.6282 21.75 15.2915 21.75H8.70644C7.37014 21.75 6.22969 21.2732 5.42708 20.4111C4.63012 19.555 4.22217 18.3799 4.22217 17.075V6.92497C4.22217 5.61921 4.63238 4.4442 5.42997 3.58855ZM6.5272 4.61134C6.03147 5.14315 5.72217 5.93063 5.72217 6.92497V17.075C5.72217 18.0703 6.03032 18.8577 6.52498 19.389C7.014 19.9143 7.74068 20.25 8.70644 20.25H15.2915C16.2579 20.25 16.9851 19.9142 17.4745 19.3889C17.9694 18.8575 18.2777 18.0702 18.2777 17.075V6.92497C18.2777 5.92983 17.9694 5.14249 17.4745 4.61108C16.9853 4.0857 16.2583 3.75 15.2925 3.75H8.70644C7.74457 3.75 7.01748 4.08537 6.5272 4.61134Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.79988 13.9229C10.2141 13.9229 10.5499 14.2586 10.5499 14.6729V15.2293H11.1318C11.546 15.2293 11.8818 15.5651 11.8818 15.9793C11.8818 16.3935 11.546 16.7293 11.1318 16.7293H10.5499V17.2843C10.5499 17.6985 10.2141 18.0343 9.79988 18.0343C9.38567 18.0343 9.04988 17.6985 9.04988 17.2843V16.7293H8.4668C8.05258 16.7293 7.7168 16.3935 7.7168 15.9793C7.7168 15.5651 8.05258 15.2293 8.4668 15.2293H9.04988V14.6729C9.04988 14.2586 9.38567 13.9229 9.79988 13.9229Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4648 15.1367C13.4648 14.7225 13.8006 14.3867 14.2148 14.3867H14.2248C14.6391 14.3867 14.9748 14.7225 14.9748 15.1367C14.9748 15.5509 14.6391 15.8867 14.2248 15.8867H14.2148C13.8006 15.8867 13.4648 15.5509 13.4648 15.1367Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9941 17.2451C14.9941 16.8309 15.3299 16.4951 15.7441 16.4951H15.7541C16.1684 16.4951 16.5041 16.8309 16.5041 17.2451C16.5041 17.6593 16.1684 17.9951 15.7541 17.9951H15.7441C15.3299 17.9951 14.9941 17.6593 14.9941 17.2451Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.15629 6.26336C8.61138 5.83965 9.21927 5.63867 9.85913 5.63867H14.1431C14.7845 5.63867 15.3925 5.84127 15.8472 6.26517C16.3077 6.69448 16.5501 7.29492 16.5501 7.96489V9.78629C16.5501 10.4575 16.3081 11.0585 15.8467 11.4879C15.3914 11.9116 14.7833 12.1125 14.1431 12.1125H9.85913C9.21927 12.1125 8.61138 11.9115 8.15629 11.4878C7.69513 11.0585 7.45312 10.4575 7.45312 9.78629V7.96489C7.45312 7.29365 7.69513 6.69272 8.15629 6.26336ZM9.17842 7.3612C9.05409 7.47695 8.95312 7.66413 8.95312 7.96489V9.78629C8.95312 10.0871 9.05409 10.2742 9.17842 10.39C9.30881 10.5114 9.52892 10.6125 9.85913 10.6125H14.1431C14.474 10.6125 14.6944 10.5113 14.8248 10.3899C14.9491 10.2742 15.0501 10.087 15.0501 9.78629V7.96489C15.0501 7.66674 14.9496 7.47908 14.8243 7.36231C14.6933 7.24013 14.4727 7.13867 14.1431 7.13867H9.85913C9.52892 7.13867 9.30881 7.2398 9.17842 7.3612Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.42997 3.58855C6.23302 2.72706 7.37306 2.25 8.70644 2.25H15.2925C16.6288 2.25 17.7694 2.72674 18.5722 3.58881C19.3695 4.44486 19.7777 5.62001 19.7777 6.92497V17.075C19.7777 18.38 19.3695 19.5552 18.5721 20.4112C17.7691 21.2733 16.6282 21.75 15.2915 21.75H8.70644C7.37014 21.75 6.22969 21.2732 5.42708 20.4111C4.63012 19.555 4.22217 18.3799 4.22217 17.075V6.92497C4.22217 5.61921 4.63238 4.4442 5.42997 3.58855ZM6.5272 4.61134C6.03147 5.14315 5.72217 5.93063 5.72217 6.92497V17.075C5.72217 18.0703 6.03032 18.8577 6.52498 19.389C7.014 19.9143 7.74068 20.25 8.70644 20.25H15.2915C16.2579 20.25 16.9851 19.9142 17.4745 19.3889C17.9694 18.8575 18.2777 18.0702 18.2777 17.075V6.92497C18.2777 5.92983 17.9694 5.14249 17.4745 4.61108C16.9853 4.0857 16.2583 3.75 15.2925 3.75H8.70644C7.74457 3.75 7.01748 4.08537 6.5272 4.61134Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.79893 13.9229C10.2131 13.9229 10.5489 14.2586 10.5489 14.6729V15.2293H11.1318C11.546 15.2293 11.8818 15.5651 11.8818 15.9793C11.8818 16.3935 11.546 16.7293 11.1318 16.7293H10.5489V17.2843C10.5489 17.6985 10.2131 18.0343 9.79893 18.0343C9.38472 18.0343 9.04893 17.6985 9.04893 17.2843V16.7293H8.4668C8.05258 16.7293 7.7168 16.3935 7.7168 15.9793C7.7168 15.5651 8.05258 15.2293 8.4668 15.2293H9.04893V14.6729C9.04893 14.2586 9.38472 13.9229 9.79893 13.9229Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4395 15.1367C13.4395 14.7225 13.7752 14.3867 14.1895 14.3867H14.1995C14.6137 14.3867 14.9495 14.7225 14.9495 15.1367C14.9495 15.5509 14.6137 15.8867 14.1995 15.8867H14.1895C13.7752 15.8867 13.4395 15.5509 13.4395 15.1367Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9688 17.2451C14.9688 16.8309 15.3045 16.4951 15.7188 16.4951H15.7287C16.143 16.4951 16.4787 16.8309 16.4787 17.2451C16.4787 17.6593 16.143 17.9951 15.7287 17.9951H15.7188C15.3045 17.9951 14.9688 17.6593 14.9688 17.2451Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.22266 10.4053C4.22266 9.99106 4.55844 9.65527 4.97266 9.65527H19.0273C19.4415 9.65527 19.7773 9.99106 19.7773 10.4053C19.7773 10.8195 19.4415 11.1553 19.0273 11.1553H4.97266C4.55844 11.1553 4.22266 10.8195 4.22266 10.4053Z" fill="black"/> </svg> ',
     category: 'Game',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -775,7 +847,7 @@ class _GameHandyGameBold {
   /// Handy game — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Handy game',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3 2.5H8.7C6.188 2.5 4.5 4.268 4.5 6.9V17.1C4.5 19.732 6.188 21.5 8.7 21.5H15.3C17.812 21.5 19.5 19.732 19.5 17.1V6.9C19.5 4.268 17.812 2.5 15.3 2.5ZM15.6 18.2034C15.8 18.2034 15.99 18.1234 16.13 17.9834C16.27 17.8434 16.35 17.6534 16.35 17.4534C16.35 17.2534 16.27 17.0634 16.13 16.9234C16.06 16.8534 15.98 16.8034 15.89 16.7634C15.61 16.6434 15.28 16.7134 15.07 16.9234C14.93 17.0634 14.85 17.2534 14.85 17.4534C14.85 17.5534 14.87 17.6534 14.91 17.7434C14.95 17.8334 15 17.9134 15.07 17.9834C15.21 18.1234 15.4 18.2034 15.6 18.2034ZM14.1 16.1034C14.3 16.1034 14.49 16.0234 14.63 15.8834C14.7 15.8134 14.76 15.7334 14.79 15.6434C14.83 15.5434 14.85 15.4534 14.85 15.3534C14.85 15.1534 14.77 14.9634 14.63 14.8234C14.42 14.6134 14.09 14.5434 13.81 14.6634C13.72 14.7034 13.64 14.7534 13.57 14.8234C13.43 14.9634 13.35 15.1534 13.35 15.3534C13.35 15.5534 13.43 15.7434 13.57 15.8834C13.71 16.0234 13.9 16.1034 14.1 16.1034ZM10.45 17.0034H11C11.414 17.0034 11.75 16.6674 11.75 16.2534C11.75 15.8394 11.414 15.5034 11 15.5034H10.45V14.9534C10.45 14.5394 10.114 14.2034 9.70002 14.2034C9.28602 14.2034 8.95002 14.5394 8.95002 14.9534V15.5034H8.40002C7.98602 15.5034 7.65002 15.8394 7.65002 16.2534C7.65002 16.6674 7.98602 17.0034 8.40002 17.0034H8.95002V17.5534C8.95002 17.9674 9.28602 18.3034 9.70002 18.3034C10.114 18.3034 10.45 17.9674 10.45 17.5534V17.0034ZM17.05 9.20768C17.05 10.5917 16.043 11.5577 14.6 11.5577H9.39995C7.95795 11.5577 6.94995 10.5917 6.94995 9.20768V7.40768C6.94995 6.02368 7.95795 5.05768 9.39995 5.05768H14.7C16.062 5.05768 17.05 6.04568 17.05 7.40768V9.20768Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.23 17.7304C16.09 17.8704 15.9 17.9504 15.7 17.9504C15.5 17.9504 15.31 17.8704 15.17 17.7304C15.03 17.5904 14.95 17.4004 14.95 17.2004C14.95 17.0004 15.03 16.8104 15.17 16.6704C15.45 16.3904 15.95 16.3904 16.23 16.6704C16.37 16.8104 16.45 17.0004 16.45 17.2004C16.45 17.4004 16.37 17.5904 16.23 17.7304ZM14.2 15.8504C14.1 15.8504 14 15.8304 13.91 15.7904C13.82 15.7504 13.74 15.7004 13.67 15.6304C13.53 15.4904 13.45 15.3004 13.45 15.1004C13.45 14.9004 13.53 14.7104 13.67 14.5704C13.74 14.5004 13.82 14.4504 13.91 14.4104C14.19 14.3004 14.52 14.3604 14.73 14.5704C14.87 14.7104 14.95 14.9004 14.95 15.1004C14.95 15.3004 14.87 15.4904 14.73 15.6304C14.59 15.7704 14.4 15.8504 14.2 15.8504ZM11.1 16.7504H10.55V17.3004C10.55 17.7144 10.214 18.0504 9.8 18.0504C9.386 18.0504 9.05 17.7144 9.05 17.3004V16.7504H8.4C7.986 16.7504 7.65 16.4144 7.65 16.0004C7.65 15.5864 7.986 15.2504 8.4 15.2504H9.05V14.7004C9.05 14.2864 9.386 13.9504 9.8 13.9504C10.214 13.9504 10.55 14.2864 10.55 14.7004V15.2504H11.1C11.514 15.2504 11.85 15.5864 11.85 16.0004C11.85 16.4144 11.514 16.7504 11.1 16.7504ZM4.8 11.1504C4.63432 11.1504 4.5 11.2847 4.5 11.4504V17.1004C4.5 19.7324 6.188 21.5004 8.7 21.5004H15.3C17.812 21.5004 19.5 19.7324 19.5 17.1004V11.4504C19.5 11.2847 19.3657 11.1504 19.2 11.1504H4.8Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.2 9.65C19.3657 9.65 19.5 9.51569 19.5 9.35V6.9C19.5 4.268 17.812 2.5 15.3 2.5H8.7C6.188 2.5 4.5 4.268 4.5 6.9V9.35C4.5 9.51569 4.63431 9.65 4.8 9.65H19.2Z" fill="black"/> </svg>',
     category: 'Game',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -790,6 +862,114 @@ class _GameHandyGameLight {
   /// Handy game — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Handy game',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.70693 3H15.293C17.595 3 19.0282 4.62486 19.0282 6.92497V17.075C19.0282 19.3751 17.595 21 15.292 21H8.70693C6.40487 21 4.97266 19.3751 4.97266 17.075V6.92497C4.97266 4.62486 6.41168 3 8.70693 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.79893 14.6729V17.2843M11.1318 15.9793H8.4668" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1895 15.1367H14.1995" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7188 17.2451H15.7288" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.97266 10.4053H19.0273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Handy game 1 icon with style variants.
+class _GameHandyGame1Icon {
+  const _GameHandyGame1Icon();
+
+  /// bold style
+  _GameHandyGame1Bold get bold => const _GameHandyGame1Bold();
+  /// bulk style
+  _GameHandyGame1Bulk get bulk => const _GameHandyGame1Bulk();
+  /// light style
+  _GameHandyGame1Light get light => const _GameHandyGame1Light();
+  /// outline style
+  _GameHandyGame1Outline get outline => const _GameHandyGame1Outline();
+  /// twoTone style
+  _GameHandyGame1Twotone get twoTone => const _GameHandyGame1Twotone();
+  /// broken style
+  _GameHandyGame1Broken get broken => const _GameHandyGame1Broken();
+}
+
+/// Handy game 1 — bulk style variants.
+class _GameHandyGame1Bulk {
+  const _GameHandyGame1Bulk();
+
+  /// Handy game 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Handy game 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6 18.2031C15.8 18.2031 15.99 18.1231 16.13 17.9831C16.27 17.8431 16.35 17.6531 16.35 17.4531C16.35 17.2531 16.27 17.0631 16.13 16.9231C16.06 16.8531 15.98 16.8031 15.89 16.7631C15.61 16.6431 15.28 16.7131 15.07 16.9231C14.93 17.0631 14.85 17.2531 14.85 17.4531C14.85 17.5531 14.87 17.6531 14.91 17.7431C14.95 17.8331 15 17.9131 15.07 17.9831C15.21 18.1231 15.4 18.2031 15.6 18.2031ZM14.1 16.1031C14.3 16.1031 14.49 16.0231 14.63 15.8831C14.7 15.8131 14.76 15.7331 14.79 15.6431C14.83 15.5431 14.85 15.4531 14.85 15.3531C14.85 15.1531 14.77 14.9631 14.63 14.8231C14.42 14.6131 14.09 14.5431 13.81 14.6631C13.72 14.7031 13.64 14.7531 13.57 14.8231C13.43 14.9631 13.35 15.1531 13.35 15.3531C13.35 15.5531 13.43 15.7431 13.57 15.8831C13.71 16.0231 13.9 16.1031 14.1 16.1031ZM10.45 17.0031H11C11.414 17.0031 11.75 16.6671 11.75 16.2531C11.75 15.8391 11.414 15.5031 11 15.5031H10.45V14.9531C10.45 14.5391 10.114 14.2031 9.70002 14.2031C9.28602 14.2031 8.95002 14.5391 8.95002 14.9531V15.5031H8.40002C7.98602 15.5031 7.65002 15.8391 7.65002 16.2531C7.65002 16.6671 7.98602 17.0031 8.40002 17.0031H8.95002V17.5531C8.95002 17.9671 9.28602 18.3031 9.70002 18.3031C10.114 18.3031 10.45 17.9671 10.45 17.5531V17.0031Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M8.7 2.5H15.3C17.812 2.5 19.5 4.268 19.5 6.9V17.1C19.5 19.732 17.812 21.5 15.3 21.5H8.7C6.188 21.5 4.5 19.732 4.5 17.1V6.9C4.5 4.268 6.188 2.5 8.7 2.5ZM14.6 11.5586C16.043 11.5586 17.05 10.5926 17.05 9.20859V7.40859C17.05 6.04659 16.062 5.05859 14.7 5.05859H9.39995C7.95795 5.05859 6.94995 6.02459 6.94995 7.40859V9.20859C6.94995 10.5926 7.95795 11.5586 9.39995 11.5586H14.6Z" fill="black"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Handy game 1 — broken style variants.
+class _GameHandyGame1Broken {
+  const _GameHandyGame1Broken();
+
+  /// Handy game 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Handy game 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.293 3C17.595 3 19.0282 4.62486 19.0282 6.92497V17.075C19.0282 19.3751 17.595 21 15.292 21H8.70693C6.40487 21 4.97266 19.3751 4.97266 17.075V6.92497C4.97266 4.62486 6.41168 3 8.70693 3H12.4171" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.79988 14.6729V17.2843M11.1318 15.9793H8.4668" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2148 15.1367H14.2248" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7441 17.2451H15.7541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1431 11.3625C15.1142 11.3625 15.8001 10.7583 15.8001 9.78629V7.96489C15.8001 6.99678 15.1142 6.38867 14.1431 6.38867H9.85913C8.88907 6.38867 8.20312 6.99289 8.20312 7.96489V9.78629C8.20312 10.7583 8.88907 11.3625 9.85913 11.3625H11.3219" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Handy game 1 — twoTone style variants.
+class _GameHandyGame1Twotone {
+  const _GameHandyGame1Twotone();
+
+  /// Handy game 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Handy game 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M9.20693 3H15.793C18.095 3 19.5282 4.62486 19.5282 6.92497V17.075C19.5282 19.3751 18.095 21 15.792 21H9.20693C6.90487 21 5.47266 19.3751 5.47266 17.075V6.92497C5.47266 4.62486 6.91168 3 9.20693 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.2999 14.6729V17.2843M11.6318 15.9793H8.9668" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.7148 15.1367H14.7248" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2441 17.2451H16.2541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3001 7.96489V9.78629C16.3001 10.7583 15.6142 11.3625 14.6431 11.3625H10.3591C9.38907 11.3625 8.70312 10.7583 8.70312 9.78629V7.96489C8.70312 6.99289 9.38907 6.38867 10.3591 6.38867H14.6431C15.6142 6.38867 16.3001 6.99678 16.3001 7.96489Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Handy game 1 — outline style variants.
+class _GameHandyGame1Outline {
+  const _GameHandyGame1Outline();
+
+  /// Handy game 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Handy game 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.42997 3.58855C6.23302 2.72706 7.37306 2.25 8.70644 2.25H15.2925C16.6288 2.25 17.7694 2.72674 18.5722 3.58881C19.3695 4.44486 19.7777 5.62001 19.7777 6.92497V17.075C19.7777 18.38 19.3695 19.5552 18.5721 20.4112C17.7691 21.2733 16.6282 21.75 15.2915 21.75H8.70644C7.37014 21.75 6.22969 21.2732 5.42708 20.4111C4.63012 19.555 4.22217 18.3799 4.22217 17.075V6.92497C4.22217 5.61921 4.63238 4.4442 5.42997 3.58855ZM6.5272 4.61134C6.03147 5.14315 5.72217 5.93063 5.72217 6.92497V17.075C5.72217 18.0703 6.03032 18.8577 6.52498 19.389C7.014 19.9143 7.74068 20.25 8.70644 20.25H15.2915C16.2579 20.25 16.9851 19.9142 17.4745 19.3889C17.9694 18.8575 18.2777 18.0702 18.2777 17.075V6.92497C18.2777 5.92983 17.9694 5.14249 17.4745 4.61108C16.9853 4.0857 16.2583 3.75 15.2925 3.75H8.70644C7.74457 3.75 7.01748 4.08537 6.5272 4.61134Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.79988 13.9229C10.2141 13.9229 10.5499 14.2586 10.5499 14.6729V15.2293H11.1318C11.546 15.2293 11.8818 15.5651 11.8818 15.9793C11.8818 16.3935 11.546 16.7293 11.1318 16.7293H10.5499V17.2843C10.5499 17.6985 10.2141 18.0343 9.79988 18.0343C9.38567 18.0343 9.04988 17.6985 9.04988 17.2843V16.7293H8.4668C8.05258 16.7293 7.7168 16.3935 7.7168 15.9793C7.7168 15.5651 8.05258 15.2293 8.4668 15.2293H9.04988V14.6729C9.04988 14.2586 9.38567 13.9229 9.79988 13.9229Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4648 15.1367C13.4648 14.7225 13.8006 14.3867 14.2148 14.3867H14.2248C14.6391 14.3867 14.9748 14.7225 14.9748 15.1367C14.9748 15.5509 14.6391 15.8867 14.2248 15.8867H14.2148C13.8006 15.8867 13.4648 15.5509 13.4648 15.1367Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9941 17.2451C14.9941 16.8309 15.3299 16.4951 15.7441 16.4951H15.7541C16.1684 16.4951 16.5041 16.8309 16.5041 17.2451C16.5041 17.6593 16.1684 17.9951 15.7541 17.9951H15.7441C15.3299 17.9951 14.9941 17.6593 14.9941 17.2451Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.15629 6.26336C8.61138 5.83965 9.21927 5.63867 9.85913 5.63867H14.1431C14.7845 5.63867 15.3925 5.84127 15.8472 6.26517C16.3077 6.69448 16.5501 7.29492 16.5501 7.96489V9.78629C16.5501 10.4575 16.3081 11.0585 15.8467 11.4879C15.3914 11.9116 14.7833 12.1125 14.1431 12.1125H9.85913C9.21927 12.1125 8.61138 11.9115 8.15629 11.4878C7.69513 11.0585 7.45312 10.4575 7.45312 9.78629V7.96489C7.45312 7.29365 7.69513 6.69272 8.15629 6.26336ZM9.17842 7.3612C9.05409 7.47695 8.95312 7.66413 8.95312 7.96489V9.78629C8.95312 10.0871 9.05409 10.2742 9.17842 10.39C9.30881 10.5114 9.52892 10.6125 9.85913 10.6125H14.1431C14.474 10.6125 14.6944 10.5113 14.8248 10.3899C14.9491 10.2742 15.0501 10.087 15.0501 9.78629V7.96489C15.0501 7.66674 14.9496 7.47908 14.8243 7.36231C14.6933 7.24013 14.4727 7.13867 14.1431 7.13867H9.85913C9.52892 7.13867 9.30881 7.2398 9.17842 7.3612Z" fill="black"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Handy game 1 — bold style variants.
+class _GameHandyGame1Bold {
+  const _GameHandyGame1Bold();
+
+  /// Handy game 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Handy game 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3 2.5H8.7C6.188 2.5 4.5 4.268 4.5 6.9V17.1C4.5 19.732 6.188 21.5 8.7 21.5H15.3C17.812 21.5 19.5 19.732 19.5 17.1V6.9C19.5 4.268 17.812 2.5 15.3 2.5ZM15.6 18.2034C15.8 18.2034 15.99 18.1234 16.13 17.9834C16.27 17.8434 16.35 17.6534 16.35 17.4534C16.35 17.2534 16.27 17.0634 16.13 16.9234C16.06 16.8534 15.98 16.8034 15.89 16.7634C15.61 16.6434 15.28 16.7134 15.07 16.9234C14.93 17.0634 14.85 17.2534 14.85 17.4534C14.85 17.5534 14.87 17.6534 14.91 17.7434C14.95 17.8334 15 17.9134 15.07 17.9834C15.21 18.1234 15.4 18.2034 15.6 18.2034ZM14.1 16.1034C14.3 16.1034 14.49 16.0234 14.63 15.8834C14.7 15.8134 14.76 15.7334 14.79 15.6434C14.83 15.5434 14.85 15.4534 14.85 15.3534C14.85 15.1534 14.77 14.9634 14.63 14.8234C14.42 14.6134 14.09 14.5434 13.81 14.6634C13.72 14.7034 13.64 14.7534 13.57 14.8234C13.43 14.9634 13.35 15.1534 13.35 15.3534C13.35 15.5534 13.43 15.7434 13.57 15.8834C13.71 16.0234 13.9 16.1034 14.1 16.1034ZM10.45 17.0034H11C11.414 17.0034 11.75 16.6674 11.75 16.2534C11.75 15.8394 11.414 15.5034 11 15.5034H10.45V14.9534C10.45 14.5394 10.114 14.2034 9.70002 14.2034C9.28602 14.2034 8.95002 14.5394 8.95002 14.9534V15.5034H8.40002C7.98602 15.5034 7.65002 15.8394 7.65002 16.2534C7.65002 16.6674 7.98602 17.0034 8.40002 17.0034H8.95002V17.5534C8.95002 17.9674 9.28602 18.3034 9.70002 18.3034C10.114 18.3034 10.45 17.9674 10.45 17.5534V17.0034ZM17.05 9.20768C17.05 10.5917 16.043 11.5577 14.6 11.5577H9.39995C7.95795 11.5577 6.94995 10.5917 6.94995 9.20768V7.40768C6.94995 6.02368 7.95795 5.05768 9.39995 5.05768H14.7C16.062 5.05768 17.05 6.04568 17.05 7.40768V9.20768Z" fill="black"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Handy game 1 — light style variants.
+class _GameHandyGame1Light {
+  const _GameHandyGame1Light();
+
+  /// Handy game 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Handy game 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.70693 3H15.293C17.595 3 19.0282 4.62486 19.0282 6.92497V17.075C19.0282 19.3751 17.595 21 15.292 21H8.70693C6.40487 21 4.97266 19.3751 4.97266 17.075V6.92497C4.97266 4.62486 6.41168 3 8.70693 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.79988 14.6729V17.2843M11.1318 15.9793H8.4668" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2148 15.1367H14.2248" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7441 17.2451H15.7541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.8001 7.96489V9.78629C15.8001 10.7583 15.1142 11.3625 14.1431 11.3625H9.85913C8.88907 11.3625 8.20312 10.7583 8.20312 9.78629V7.96489C8.20312 6.99289 8.88907 6.38867 9.85913 6.38867H14.1431C15.1142 6.38867 15.8001 6.99678 15.8001 7.96489Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Game',
     style: IconfyStyle.light,
@@ -806,8 +986,6 @@ class _GameHeartPokerCardIcon {
   _GameHeartPokerCardBold get bold => const _GameHeartPokerCardBold();
   /// bulk style
   _GameHeartPokerCardBulk get bulk => const _GameHeartPokerCardBulk();
-  /// light style
-  _GameHeartPokerCardLight get light => const _GameHeartPokerCardLight();
   /// outline style
   _GameHeartPokerCardOutline get outline => const _GameHeartPokerCardOutline();
   /// twoTone style
@@ -891,13 +1069,44 @@ class _GameHeartPokerCardBold {
 
 }
 
-/// Heart poker card — light style variants.
-class _GameHeartPokerCardLight {
-  const _GameHeartPokerCardLight();
+/// Heart poker card 1 icon with style variants.
+class _GameHeartPokerCard1Icon {
+  const _GameHeartPokerCard1Icon();
 
-  /// Heart poker card — light / regular
+  /// light style
+  _GameHeartPokerCard1Light get light => const _GameHeartPokerCard1Light();
+}
+
+/// Heart poker card 1 — light style variants.
+class _GameHeartPokerCard1Light {
+  const _GameHeartPokerCard1Light();
+
+  /// Heart poker card 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Heart poker card',
+    name: 'Heart poker card 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle cx="12" cy="12" r="6" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="12" cy="12" r="9" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 6L12 3M12 21L12 18" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.0049 11.9951L21.0049 11.9951M3.00488 11.9951L6.00488 11.9951" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2439 7.75389L18.3652 5.63257M5.63731 18.3605L7.75863 16.2392" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2511 16.2392L18.3725 18.3605M5.64453 5.63257L7.76585 7.75389" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="12" cy="12" r="1.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0619 10.9359L14.4761 9.52173M9.52637 14.4715L10.9406 13.0573M13.0688 13.0573L14.483 14.4715M9.53327 9.52173L10.9475 10.9359" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Heart poker card 2 icon with style variants.
+class _GameHeartPokerCard2Icon {
+  const _GameHeartPokerCard2Icon();
+
+  /// light style
+  _GameHeartPokerCard2Light get light => const _GameHeartPokerCard2Light();
+}
+
+/// Heart poker card 2 — light style variants.
+class _GameHeartPokerCard2Light {
+  const _GameHeartPokerCard2Light();
+
+  /// Heart poker card 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Heart poker card 2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle cx="12" cy="12" r="6" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="12" cy="12" r="9" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 6L12 3M12 21L12 18" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.0049 11.9951L21.0049 11.9951M3.00488 11.9951L6.00488 11.9951" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2439 7.75389L18.3652 5.63257M5.63731 18.3605L7.75863 16.2392" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2511 16.2392L18.3725 18.3605M5.64453 5.63257L7.76585 7.75389" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="12" cy="12" r="1.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0619 10.9359L14.4761 9.52173M9.52637 14.4715L10.9406 13.0573M13.0688 13.0573L14.483 14.4715M9.53327 9.52173L10.9475 10.9359" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Game',
     style: IconfyStyle.light,
@@ -1132,8 +1341,6 @@ class _GameWifiControllerIcon {
   _GameWifiControllerBulk get bulk => const _GameWifiControllerBulk();
   /// light style
   _GameWifiControllerLight get light => const _GameWifiControllerLight();
-  /// outline style
-  _GameWifiControllerOutline get outline => const _GameWifiControllerOutline();
   /// twoTone style
   _GameWifiControllerTwotone get twoTone => const _GameWifiControllerTwotone();
   /// broken style
@@ -1185,21 +1392,6 @@ class _GameWifiControllerTwotone {
 
 }
 
-/// Wifi controller — outline style variants.
-class _GameWifiControllerOutline {
-  const _GameWifiControllerOutline();
-
-  /// Wifi controller — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wifi controller',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.82486 21.3474C5.29043 21.3435 4.7609 21.245 4.26083 21.0564C2.17583 20.2074 2.23383 17.8364 2.25283 17.0564C2.25283 17.0164 2.37486 9.60142 5.69186 7.86742L5.85781 7.79042C6.58094 7.40151 7.3939 7.21031 8.21456 7.23612C9.03523 7.26193 9.83456 7.50384 10.5318 7.93742C11.7708 8.67542 12.0808 8.80242 13.4538 7.94542C14.1548 7.50662 14.9597 7.26171 15.7863 7.23571C16.6129 7.20971 17.4316 7.40354 18.1588 7.79742L18.2669 7.84642L18.3089 7.86742C21.6469 9.61242 21.7489 17.0184 21.7469 17.0914C21.7669 17.8354 21.8268 20.2054 19.7638 21.0464C19.1698 21.3003 18.5213 21.3999 17.8784 21.3361C17.2356 21.2723 16.6193 21.0471 16.0868 20.6814C15.7653 20.4331 15.482 20.139 15.2458 19.8084C15.0053 19.453 14.6856 19.1583 14.3119 18.9474C12.8148 18.4431 11.194 18.4413 9.69583 18.9424C9.29751 19.157 8.95791 19.466 8.70681 19.8424C8.49 20.1638 8.2218 20.4472 7.91287 20.6814C7.30736 21.1237 6.57461 21.3574 5.82486 21.3474ZM8.08883 8.72842C7.53027 8.74502 6.98296 8.88938 6.48886 9.15042L6.34286 9.21742C4.20786 10.3354 3.74284 16.0584 3.74984 17.0644C3.70284 18.9644 4.28583 19.4484 4.79983 19.6584C5.15374 19.8222 5.54398 19.8916 5.93264 19.8598C6.3213 19.8281 6.69517 19.6964 7.01785 19.4774C7.20485 19.3312 7.36606 19.1548 7.49484 18.9554C7.86805 18.4109 8.36407 17.9619 8.94284 17.6444C10.9049 16.8832 13.0808 16.8832 15.0429 17.6444C15.5927 17.9536 16.0669 18.3812 16.4309 18.8964C16.5834 19.1172 16.7673 19.3146 16.9768 19.4824C17.304 19.7021 17.6824 19.8332 18.0753 19.8632C18.4682 19.8932 18.8622 19.8209 19.2188 19.6534C19.7078 19.4534 20.2919 18.9724 20.2439 17.0984C20.2509 16.0644 19.7969 10.3704 17.6269 9.21042L17.5268 9.16542C17.0253 8.87809 16.4554 8.73169 15.8775 8.74173C15.2995 8.75176 14.7351 8.91785 14.2439 9.22242C12.3789 10.3884 11.4438 10.2374 9.76083 9.23042C9.26001 8.91307 8.68163 8.73942 8.08883 8.72842Z" fill="black"/> <path d="M14.5723 14.208C14.474 14.2085 14.3767 14.1897 14.2858 14.1525C14.1949 14.1153 14.1122 14.0605 14.0425 13.9913C13.9728 13.9221 13.9175 13.8398 13.8797 13.7491C13.8419 13.6585 13.8224 13.5612 13.8223 13.463V13.453C13.8233 13.3049 13.868 13.1604 13.951 13.0377C14.0341 12.915 14.1516 12.8197 14.2887 12.7637C14.4258 12.7077 14.5765 12.6935 14.7216 12.723C14.8668 12.7525 14.9999 12.8244 15.1043 12.9294C15.2087 13.0345 15.2796 13.1682 15.3082 13.3135C15.3367 13.4589 15.3216 13.6094 15.2646 13.7462C15.2077 13.8829 15.1116 13.9998 14.9884 14.0819C14.8652 14.1641 14.7204 14.208 14.5723 14.208Z" fill="black"/> <path d="M17.4414 14.208C17.3432 14.2085 17.2459 14.1897 17.155 14.1525C17.0641 14.1153 16.9814 14.0605 16.9117 13.9913C16.842 13.9221 16.7867 13.8398 16.7489 13.7491C16.7111 13.6585 16.6915 13.5612 16.6914 13.463V13.453C16.6924 13.3049 16.7372 13.1604 16.8203 13.0377C16.9033 12.915 17.0207 12.8197 17.1578 12.7637C17.295 12.7077 17.4456 12.6935 17.5908 12.723C17.7359 12.7525 17.8691 12.8244 17.9735 12.9294C18.0779 13.0345 18.1488 13.1682 18.1774 13.3135C18.2059 13.4589 18.1908 13.6094 18.1339 13.7462C18.0769 13.8829 17.9808 13.9998 17.8576 14.0819C17.7344 14.1641 17.5895 14.208 17.4414 14.208Z" fill="black"/> <path d="M16.0109 12.7734C15.8115 12.7734 15.6202 12.6946 15.4788 12.5541C15.3373 12.4136 15.2572 12.2228 15.2559 12.0234C15.2553 11.9252 15.2742 11.8279 15.3114 11.737C15.3486 11.6461 15.4034 11.5634 15.4726 11.4937C15.5418 11.424 15.6241 11.3687 15.7147 11.3309C15.8054 11.2931 15.9026 11.2736 16.0009 11.2734H16.0109C16.2098 11.2734 16.4006 11.3525 16.5412 11.4931C16.6819 11.6338 16.7609 11.8245 16.7609 12.0234C16.7609 12.2223 16.6819 12.4131 16.5412 12.5538C16.4006 12.6944 16.2098 12.7734 16.0109 12.7734Z" fill="black"/> <path d="M16.0109 15.6426C15.8115 15.6426 15.6202 15.5637 15.4788 15.4232C15.3373 15.2827 15.2572 15.0919 15.2559 14.8926C15.2553 14.7944 15.2742 14.697 15.3114 14.6061C15.3486 14.5152 15.4034 14.4325 15.4726 14.3628C15.5418 14.2932 15.6241 14.2378 15.7147 14.2C15.8054 14.1622 15.9026 14.1427 16.0009 14.1426H16.0109C16.2098 14.1426 16.4006 14.2216 16.5412 14.3622C16.6819 14.5029 16.7609 14.6937 16.7609 14.8926C16.7609 15.0915 16.6819 15.2823 16.5412 15.4229C16.4006 15.5636 16.2098 15.6426 16.0109 15.6426Z" fill="black"/> <path d="M7.99945 15.6366C7.80054 15.6366 7.60977 15.5576 7.46912 15.417C7.32846 15.2763 7.24945 15.0855 7.24945 14.8866V14.2016H6.56445C6.36554 14.2016 6.17477 14.1226 6.03412 13.982C5.89347 13.8413 5.81445 13.6505 5.81445 13.4516C5.81445 13.2527 5.89347 13.0619 6.03412 12.9213C6.17477 12.7806 6.36554 12.7016 6.56445 12.7016H7.24945V12.0156C7.24945 11.8167 7.32846 11.6259 7.46912 11.4853C7.60977 11.3446 7.80054 11.2656 7.99945 11.2656C8.19836 11.2656 8.38913 11.3446 8.52979 11.4853C8.67044 11.6259 8.74945 11.8167 8.74945 12.0156V12.7016H9.43347C9.63238 12.7016 9.82315 12.7806 9.96381 12.9213C10.1045 13.0619 10.1835 13.2527 10.1835 13.4516C10.1835 13.6505 10.1045 13.8413 9.96381 13.982C9.82315 14.1226 9.63238 14.2016 9.43347 14.2016H8.74945V14.8846C8.74971 14.9833 8.73051 15.081 8.69293 15.1723C8.65536 15.2635 8.60019 15.3464 8.53052 15.4162C8.46085 15.4861 8.37805 15.5415 8.28693 15.5793C8.1958 15.6172 8.09811 15.6366 7.99945 15.6366Z" fill="black"/> <path d="M13.1934 7.25956C13.095 7.25966 12.9975 7.24037 12.9066 7.2028C12.8156 7.16522 12.733 7.11009 12.6634 7.04056C12.4847 6.87024 12.2472 6.77523 12.0004 6.77523C11.7535 6.77523 11.5161 6.87024 11.3373 7.04056C11.1966 7.18126 11.0059 7.2603 10.8069 7.2603C10.6079 7.2603 10.4171 7.18126 10.2764 7.04056C10.1357 6.89987 10.0566 6.70904 10.0566 6.51006C10.0566 6.31109 10.1357 6.12026 10.2764 5.97956C10.7412 5.53693 11.3585 5.29004 12.0004 5.29004C12.6422 5.29004 13.2595 5.53693 13.7244 5.97956C13.8292 6.08451 13.9005 6.21818 13.9294 6.36367C13.9582 6.50916 13.9433 6.65994 13.8865 6.79695C13.8296 6.93395 13.7334 7.05103 13.61 7.13337C13.4867 7.21572 13.3417 7.25963 13.1934 7.25956Z" fill="black"/> <path d="M14.389 5.1314C14.2904 5.13157 14.1928 5.11232 14.1017 5.07474C14.0106 5.03717 13.9277 4.982 13.858 4.9124C13.3654 4.4207 12.698 4.14454 12.002 4.14454C11.3061 4.14454 10.6385 4.4207 10.146 4.9124C10.0053 5.05309 9.81445 5.13214 9.61548 5.13214C9.4165 5.13214 9.22572 5.05309 9.08502 4.9124C8.94432 4.7717 8.86523 4.58087 8.86523 4.3819C8.86523 4.18292 8.94432 3.99209 9.08502 3.8514C9.8594 3.07916 10.9084 2.64551 12.002 2.64551C13.0956 2.64551 14.1446 3.07916 14.919 3.8514C15.0238 3.95628 15.0951 4.08986 15.124 4.23526C15.1528 4.38066 15.138 4.53136 15.0813 4.66832C15.0246 4.80528 14.9286 4.92237 14.8054 5.00479C14.6821 5.08721 14.5372 5.13127 14.389 5.1314Z" fill="black"/> </svg> ',
-    category: 'Game',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Wifi controller — bold style variants.
 class _GameWifiControllerBold {
   const _GameWifiControllerBold();
@@ -1238,8 +1430,6 @@ class _GameDiamondsSymbolsIcon {
   _GameDiamondsSymbolsBold get bold => const _GameDiamondsSymbolsBold();
   /// bulk style
   _GameDiamondsSymbolsBulk get bulk => const _GameDiamondsSymbolsBulk();
-  /// light style
-  _GameDiamondsSymbolsLight get light => const _GameDiamondsSymbolsLight();
   /// outline style
   _GameDiamondsSymbolsOutline get outline => const _GameDiamondsSymbolsOutline();
   /// twoTone style
@@ -1323,13 +1513,44 @@ class _GameDiamondsSymbolsBold {
 
 }
 
-/// Diamonds symbols — light style variants.
-class _GameDiamondsSymbolsLight {
-  const _GameDiamondsSymbolsLight();
+/// Diamonds symbols 1 icon with style variants.
+class _GameDiamondsSymbols1Icon {
+  const _GameDiamondsSymbols1Icon();
 
-  /// Diamonds symbols — light / regular
+  /// light style
+  _GameDiamondsSymbols1Light get light => const _GameDiamondsSymbols1Light();
+}
+
+/// Diamonds symbols 1 — light style variants.
+class _GameDiamondsSymbols1Light {
+  const _GameDiamondsSymbols1Light();
+
+  /// Diamonds symbols 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Diamonds symbols',
+    name: 'Diamonds symbols 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.1649 3.85967C11.12 2.71341 12.8805 2.71345 13.8356 3.85975L19.3214 10.444C20.0571 11.3271 20.0597 12.609 19.3274 13.495L13.8416 20.1329C12.8862 21.289 11.1143 21.289 10.1588 20.133L4.67253 13.4951C3.9402 12.609 3.94276 11.327 4.67862 10.4439L10.1649 3.85967Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Diamonds symbols 2 icon with style variants.
+class _GameDiamondsSymbols2Icon {
+  const _GameDiamondsSymbols2Icon();
+
+  /// light style
+  _GameDiamondsSymbols2Light get light => const _GameDiamondsSymbols2Light();
+}
+
+/// Diamonds symbols 2 — light style variants.
+class _GameDiamondsSymbols2Light {
+  const _GameDiamondsSymbols2Light();
+
+  /// Diamonds symbols 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Diamonds symbols 2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.1649 3.85967C11.12 2.71341 12.8805 2.71345 13.8356 3.85975L19.3214 10.444C20.0572 11.3271 20.0597 12.609 19.3275 13.495L13.8417 20.1329C12.8863 21.289 11.1143 21.289 10.1588 20.133L4.67257 13.4951C3.94023 12.609 3.94279 11.327 4.67865 10.4439L10.1649 3.85967Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Game',
     style: IconfyStyle.light,
@@ -1562,8 +1783,6 @@ class _GameHeartSymbolsIcon {
   _GameHeartSymbolsBold get bold => const _GameHeartSymbolsBold();
   /// bulk style
   _GameHeartSymbolsBulk get bulk => const _GameHeartSymbolsBulk();
-  /// light style
-  _GameHeartSymbolsLight get light => const _GameHeartSymbolsLight();
   /// outline style
   _GameHeartSymbolsOutline get outline => const _GameHeartSymbolsOutline();
   /// twoTone style
@@ -1647,13 +1866,44 @@ class _GameHeartSymbolsBold {
 
 }
 
-/// Heart symbols — light style variants.
-class _GameHeartSymbolsLight {
-  const _GameHeartSymbolsLight();
+/// Heart symbols 1 icon with style variants.
+class _GameHeartSymbols1Icon {
+  const _GameHeartSymbols1Icon();
 
-  /// Heart symbols — light / regular
+  /// light style
+  _GameHeartSymbols1Light get light => const _GameHeartSymbols1Light();
+}
+
+/// Heart symbols 1 — light style variants.
+class _GameHeartSymbols1Light {
+  const _GameHeartSymbols1Light();
+
+  /// Heart symbols 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Heart symbols',
+    name: 'Heart symbols 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0017 5.92507C11.3979 5.24903 10.6225 4.72728 9.76648 4.42682C6.4652 3.25658 3.38047 5.59684 3.03157 8.87727C2.5431 13.8208 7.83511 16.8611 11.1366 19.572C11.5082 19.8819 12.0512 19.967 12.4989 19.7815C12.7138 19.7 12.8866 19.5452 13.0616 19.4014C16.3914 16.6725 21.6522 13.5358 20.9334 8.55669C20.401 5.07868 16.7703 3.12597 13.6389 4.67763C13.0203 4.98409 12.4606 5.40932 12.0017 5.92507Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Heart symbols 2 icon with style variants.
+class _GameHeartSymbols2Icon {
+  const _GameHeartSymbols2Icon();
+
+  /// light style
+  _GameHeartSymbols2Light get light => const _GameHeartSymbols2Light();
+}
+
+/// Heart symbols 2 — light style variants.
+class _GameHeartSymbols2Light {
+  const _GameHeartSymbols2Light();
+
+  /// Heart symbols 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Heart symbols 2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0017 5.92507C11.3979 5.24903 10.6225 4.72728 9.76648 4.42682C6.4652 3.25658 3.38047 5.59684 3.03157 8.87727C2.5431 13.8208 7.83511 16.8611 11.1366 19.572C11.5082 19.8819 12.0512 19.967 12.4989 19.7815C12.7138 19.7 12.8866 19.5452 13.0616 19.4014C16.3914 16.6725 21.6522 13.5358 20.9334 8.55669C20.401 5.07868 16.7703 3.12597 13.6389 4.67763C13.0203 4.98409 12.4606 5.40932 12.0017 5.92507Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Game',
     style: IconfyStyle.light,
@@ -1886,8 +2136,6 @@ class _GameSpadesSymbolsIcon {
   _GameSpadesSymbolsBold get bold => const _GameSpadesSymbolsBold();
   /// bulk style
   _GameSpadesSymbolsBulk get bulk => const _GameSpadesSymbolsBulk();
-  /// light style
-  _GameSpadesSymbolsLight get light => const _GameSpadesSymbolsLight();
   /// outline style
   _GameSpadesSymbolsOutline get outline => const _GameSpadesSymbolsOutline();
   /// twoTone style
@@ -1971,13 +2219,44 @@ class _GameSpadesSymbolsBold {
 
 }
 
-/// Spades symbols — light style variants.
-class _GameSpadesSymbolsLight {
-  const _GameSpadesSymbolsLight();
+/// Spades symbols 1 icon with style variants.
+class _GameSpadesSymbols1Icon {
+  const _GameSpadesSymbols1Icon();
 
-  /// Spades symbols — light / regular
+  /// light style
+  _GameSpadesSymbols1Light get light => const _GameSpadesSymbols1Light();
+}
+
+/// Spades symbols 1 — light style variants.
+class _GameSpadesSymbols1Light {
+  const _GameSpadesSymbols1Light();
+
+  /// Spades symbols 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Spades symbols',
+    name: 'Spades symbols 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.6056 16.6868C9.71159 17.2928 8.59159 17.7968 6.79259 17.3448C4.98359 16.9848 3.91459 15.0628 3.72959 13.3568C3.48259 11.0138 4.88059 9.09182 6.56659 7.64282L12.0036 2.96582L17.4406 7.64282C18.8796 8.79382 20.1126 10.4278 20.2766 12.3088C20.3186 12.7608 20.2976 13.2338 20.2256 13.6858C19.9486 15.3508 18.9096 16.9228 17.2146 17.3448C15.4256 17.7968 14.3156 17.3038 13.4216 16.7078C13.4002 18.292 14.2678 19.753 14.8058 20.5042C14.957 20.7154 14.8068 21.0338 14.5471 21.0338H9.46789C9.20852 21.0338 9.05841 20.7165 9.20931 20.5056C9.74984 19.75 10.6271 18.2753 10.6056 16.6868Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Spades symbols 2 icon with style variants.
+class _GameSpadesSymbols2Icon {
+  const _GameSpadesSymbols2Icon();
+
+  /// light style
+  _GameSpadesSymbols2Light get light => const _GameSpadesSymbols2Light();
+}
+
+/// Spades symbols 2 — light style variants.
+class _GameSpadesSymbols2Light {
+  const _GameSpadesSymbols2Light();
+
+  /// Spades symbols 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Spades symbols 2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.6056 16.6868C9.71159 17.2928 8.59159 17.7968 6.79259 17.3448C4.98359 16.9848 3.91459 15.0628 3.72959 13.3568C3.48259 11.0138 4.88059 9.09182 6.56659 7.64282L12.0036 2.96582L17.4406 7.64282C18.8796 8.79382 20.1126 10.4278 20.2766 12.3088C20.3186 12.7608 20.2976 13.2338 20.2256 13.6858C19.9486 15.3508 18.9096 16.9228 17.2146 17.3448C15.4256 17.7968 14.3156 17.3038 13.4216 16.7078C13.4002 18.292 14.2678 19.753 14.8058 20.5042C14.957 20.7154 14.8068 21.0338 14.5471 21.0338H9.46789C9.20852 21.0338 9.05841 20.7165 9.20931 20.5056C9.74984 19.75 10.6271 18.2753 10.6056 16.6868Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Game',
     style: IconfyStyle.light,
@@ -2534,8 +2813,6 @@ class _GameClubsSymbolsIcon {
   _GameClubsSymbolsBold get bold => const _GameClubsSymbolsBold();
   /// bulk style
   _GameClubsSymbolsBulk get bulk => const _GameClubsSymbolsBulk();
-  /// light style
-  _GameClubsSymbolsLight get light => const _GameClubsSymbolsLight();
   /// outline style
   _GameClubsSymbolsOutline get outline => const _GameClubsSymbolsOutline();
   /// twoTone style
@@ -2619,14 +2896,45 @@ class _GameClubsSymbolsBold {
 
 }
 
-/// Clubs symbols — light style variants.
-class _GameClubsSymbolsLight {
-  const _GameClubsSymbolsLight();
+/// Clubs symbols 1 icon with style variants.
+class _GameClubsSymbols1Icon {
+  const _GameClubsSymbols1Icon();
 
-  /// Clubs symbols — light / regular
+  /// light style
+  _GameClubsSymbols1Light get light => const _GameClubsSymbols1Light();
+}
+
+/// Clubs symbols 1 — light style variants.
+class _GameClubsSymbols1Light {
+  const _GameClubsSymbols1Light();
+
+  /// Clubs symbols 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Clubs symbols',
+    name: 'Clubs symbols 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3403 16.6656C9.51025 17.0556 8.68025 17.1356 8.05025 17.1556C6.51025 17.2156 5.02025 16.3656 4.33025 14.9656C3.33025 12.9456 4.31025 10.3956 6.42025 9.5656C7.26025 9.2456 8.20025 9.2156 9.05025 9.4856C8.02025 8.2856 7.79025 6.5356 8.52025 5.1156C9.33025 3.5256 11.2003 2.6656 12.9403 3.0956C14.2803 3.4256 15.3903 4.4756 15.7703 5.8056C16.1503 7.0856 15.8203 8.4556 14.9703 9.4756C15.8803 9.2456 16.8003 9.2356 17.6903 9.6156C19.5803 10.4256 20.5503 12.6756 19.8203 14.5956C19.2603 16.0956 17.7903 17.1256 16.1803 17.1356C15.5103 17.1456 14.5702 17.0656 13.6702 16.6656C13.7251 18.2633 14.6922 19.7153 15.2946 20.4701C15.4613 20.679 15.3133 21.0156 15.046 21.0156H8.95199C8.68508 21.0156 8.53724 20.68 8.70364 20.4713C9.30657 19.7151 10.2784 18.2587 10.3403 16.6656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clubs symbols 2 icon with style variants.
+class _GameClubsSymbols2Icon {
+  const _GameClubsSymbols2Icon();
+
+  /// light style
+  _GameClubsSymbols2Light get light => const _GameClubsSymbols2Light();
+}
+
+/// Clubs symbols 2 — light style variants.
+class _GameClubsSymbols2Light {
+  const _GameClubsSymbols2Light();
+
+  /// Clubs symbols 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clubs symbols 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3401 16.6656C9.51013 17.0556 8.68013 17.1356 8.05013 17.1556C6.51013 17.2156 5.02013 16.3656 4.33013 14.9656C3.33013 12.9456 4.31013 10.3956 6.42013 9.5656C7.26013 9.2456 8.20013 9.2156 9.05013 9.4856C8.02013 8.2856 7.79013 6.5356 8.52013 5.1156C9.33013 3.5256 11.2001 2.6656 12.9401 3.0956C14.2801 3.4256 15.3901 4.4756 15.7701 5.8056C16.1501 7.0856 15.8201 8.4556 14.9701 9.4756C15.8801 9.2456 16.8001 9.2356 17.6901 9.6156C19.5801 10.4256 20.5501 12.6756 19.8201 14.5956C19.2601 16.0956 17.7901 17.1256 16.1801 17.1356C15.5101 17.1456 14.5701 17.0656 13.6701 16.6656C13.725 18.2633 14.692 19.7153 15.2945 20.4701C15.4612 20.679 15.3131 21.0156 15.0459 21.0156H8.95187C8.68496 21.0156 8.53712 20.68 8.70351 20.4713C9.30645 19.7151 10.2783 18.2587 10.3401 16.6656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Game',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -2659,7 +2967,7 @@ class _GameControllerBulk {
   /// controller — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'controller',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M11.5 7.42188V7.42492H9.35005C5.60005 7.42492 2.55005 10.4749 2.55005 14.2249V14.3249C2.55005 18.0749 5.60005 21.1249 9.35005 21.1249H14.65C18.399 21.1249 21.45 18.0749 21.45 14.3249V14.2249C21.45 10.4749 18.399 7.42492 14.65 7.42492H13V7.42188H11.5Z" fill="black"/> <path d="M11.5 7.42196H13V6.725C13 5.214 11.86 4.075 10.35 4.075H9.34996C9.16196 4.075 8.89996 3.904 8.89996 3.625C8.89996 3.211 8.56396 2.875 8.14996 2.875C7.73596 2.875 7.39996 3.211 7.39996 3.625C7.39996 4.682 8.29296 5.575 9.34996 5.575H10.35C11.037 5.575 11.5 6.037 11.5 6.725V7.42196Z" fill="black"/> <path d="M15.863 15.5642C15.863 16.0072 16.222 16.3662 16.665 16.3662C17.108 16.3662 17.467 16.0072 17.467 15.5642C17.467 15.1222 17.108 14.7632 16.665 14.7632C16.222 14.7632 15.863 15.1222 15.863 15.5642Z" fill="black"/> <path d="M14.121 12.3932C14.121 12.8362 14.48 13.1952 14.922 13.1952C15.365 13.1952 15.724 12.8362 15.724 12.3932C15.724 11.9502 15.365 11.5912 14.922 11.5912C14.48 11.5912 14.121 11.9502 14.121 12.3932Z" fill="black"/> <path d="M9.89998 14.7742H10.85C11.264 14.7742 11.6 14.4382 11.6 14.0242C11.6 13.6102 11.264 13.2742 10.85 13.2742H9.89998V12.3242C9.89998 11.9102 9.56398 11.5742 9.14998 11.5742C8.73598 11.5742 8.39998 11.9102 8.39998 12.3242V13.2742H7.34998C6.93498 13.2742 6.59998 13.6102 6.59998 14.0242C6.59998 14.4382 6.93498 14.7742 7.34998 14.7742H8.39998V15.7242C8.39998 16.1382 8.73598 16.4742 9.14998 16.4742C9.56398 16.4742 9.89998 16.1382 9.89998 15.7242V14.7742Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.35 6.52539H16.1C19.08 6.52539 21.5 8.94539 21.5 11.9254V16.2254C21.5 19.2054 19.08 21.6254 16.1 21.6254H7.9C4.92 21.6254 2.5 19.2054 2.5 16.2254V11.9254C2.5 8.94539 4.92 6.52539 7.9 6.52539H11.85H13.35Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.63 16.5058C16.2 16.5058 15.86 16.1658 15.86 15.7458C15.86 15.3158 16.2 14.9758 16.63 14.9758C17.05 14.9758 17.39 15.3158 17.39 15.7458C17.39 16.1658 17.05 16.5058 16.63 16.5058ZM14.9 13.2958C14.47 13.2958 14.13 12.9558 14.13 12.5258C14.13 12.1058 14.47 11.7558 14.9 11.7558C15.32 11.7558 15.67 12.1058 15.67 12.5258C15.67 12.9558 15.32 13.2958 14.9 13.2958ZM10.9 14.8758H9.95V15.8258C9.95 16.2358 9.61 16.5758 9.2 16.5758C8.79 16.5758 8.45 16.2358 8.45 15.8258V14.8758H7.5C7.09 14.8758 6.75 14.5358 6.75 14.1258C6.75 13.7158 7.09 13.3758 7.5 13.3758H8.45V12.4258C8.45 12.0158 8.79 11.6758 9.2 11.6758C9.61 11.6758 9.95 12.0158 9.95 12.4258V13.3758H10.9C11.31 13.3758 11.65 13.7158 11.65 14.1258C11.65 14.5358 11.31 14.8758 10.9 14.8758Z" fill="black"/> <path d="M11.845 6.52808H13.345V6.225C13.345 4.714 12.205 3.575 10.695 3.575H9.695C9.507 3.575 9.245 3.404 9.245 3.125C9.245 2.711 8.90899 2.375 8.495 2.375C8.081 2.375 7.745 2.711 7.745 3.125C7.745 4.182 8.63799 5.075 9.695 5.075H10.695C11.382 5.075 11.845 5.537 11.845 6.225V6.52808Z" fill="black"/> </svg>',
     category: 'Game',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -2674,7 +2982,7 @@ class _GameControllerBroken {
   /// controller — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'controller',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.6591 20.5126C18.1609 20.5126 21 17.6735 21 14.1717V14.1192C21 10.6175 18.1609 7.7793 14.6591 7.7793H9.33989C5.83816 7.7793 3 10.6175 3 14.1192V14.1717C3 17.6735 5.83816 20.5126 9.33989 20.5126H11.3838" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5412 15.5127H16.5312" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9026 12.2832H14.8926" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.0985 12.1797V15.5647M10.8242 13.8719H7.37109" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.12695 3.4873C8.12695 4.15671 8.68057 4.69866 9.3636 4.69866H10.3181C11.3718 4.70255 12.2251 5.5393 12.229 6.57163V7.62828" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.1134 21.0001C18.8092 21.0001 20.9954 18.8139 20.9954 16.1181V11.8244C20.9954 9.12762 18.8092 6.94238 16.1134 6.94238H7.88593C5.18915 6.94238 3.00391 9.12762 3.00391 11.8244V16.1181C3.00391 18.8139 5.18915 21.0001 7.88593 21.0001H12.914" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5725 15.5977H16.5625" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9397 12.3818H14.9297" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.16241 12.2793V15.6481M10.8822 13.9641H7.44531" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.46484 3C8.46484 3.66617 9.01626 4.20592 9.69508 4.20592H10.6462C11.6946 4.20981 12.5436 5.04228 12.5484 6.07023V6.80718" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Game',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -2689,7 +2997,7 @@ class _GameControllerTwotone {
   /// controller — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'controller',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.83989 20.5126H15.1591C18.6609 20.5126 21.5 17.6735 21.5 14.1717V14.1192C21.5 10.6175 18.6609 7.7793 15.1591 7.7793H9.83989C6.33816 7.7793 3.5 10.6175 3.5 14.1192V14.1717C3.5 17.6735 6.33816 20.5126 9.83989 20.5126Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.0413 15.5127H17.0312" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.4026 12.2832H15.3926" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.5985 12.1797V15.5647M11.3242 13.8719H7.87109" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.62695 3.4873C8.62695 4.15671 9.18057 4.69866 9.8636 4.69866H10.8181C11.8718 4.70255 12.7251 5.5393 12.729 6.57163V7.62828" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.38593 6.94238H16.6134C19.3092 6.94238 21.4954 9.12762 21.4954 11.8244V16.1181C21.4954 18.8139 19.3092 21.0001 16.6134 21.0001H8.38593C5.68915 21.0001 3.50391 18.8139 3.50391 16.1181V11.8244C3.50391 9.12762 5.68915 6.94238 8.38593 6.94238Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.0725 15.5977H17.0625" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.4397 12.3818H15.4297" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.66241 12.2793V15.6481M11.3822 13.9641H7.94531" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.96484 3C8.96484 3.66617 9.51626 4.20592 10.1951 4.20592H11.1462C12.1946 4.20981 13.0436 5.04228 13.0484 6.07023V6.80718" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Game',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -2704,7 +3012,7 @@ class _GameControllerOutline {
   /// controller — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'controller',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.33989 8.52978C6.25238 8.52978 3.75 11.0322 3.75 14.1197V14.1722C3.75 17.2599 6.25253 19.7631 9.33989 19.7631H14.6591C17.7467 19.7631 20.25 17.2597 20.25 14.1722V14.1197C20.25 11.0323 17.7468 8.52978 14.6591 8.52978H9.33989ZM2.25 14.1197C2.25 10.2037 5.42395 7.02978 9.33989 7.02978H14.6591C18.5749 7.02978 21.75 10.2036 21.75 14.1197V14.1722C21.75 18.0882 18.5751 21.2631 14.6591 21.2631H9.33989C5.4238 21.2631 2.25 18.088 2.25 14.1722V14.1197Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7812 15.5127C15.7812 15.0985 16.117 14.7627 16.5312 14.7627H16.5412C16.9555 14.7627 17.2912 15.0985 17.2912 15.5127C17.2912 15.9269 16.9555 16.2627 16.5412 16.2627H16.5312C16.117 16.2627 15.7812 15.9269 15.7812 15.5127Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1426 12.2832C14.1426 11.869 14.4784 11.5332 14.8926 11.5332H14.9026C15.3168 11.5332 15.6526 11.869 15.6526 12.2832C15.6526 12.6974 15.3168 13.0332 14.9026 13.0332H14.8926C14.4784 13.0332 14.1426 12.6974 14.1426 12.2832Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.0985 11.4297C9.51271 11.4297 9.8485 11.7655 9.8485 12.1797V13.1219H10.8242C11.2384 13.1219 11.5742 13.4577 11.5742 13.8719C11.5742 14.2862 11.2384 14.6219 10.8242 14.6219H9.8485V15.5647C9.8485 15.9789 9.51271 16.3147 9.0985 16.3147C8.68429 16.3147 8.3485 15.9789 8.3485 15.5647V14.6219H7.37109C6.95688 14.6219 6.62109 14.2862 6.62109 13.8719C6.62109 13.4577 6.95688 13.1219 7.37109 13.1219H8.3485V12.1797C8.3485 11.7655 8.68429 11.4297 9.0985 11.4297Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.12695 2.7373C8.54117 2.7373 8.87695 3.07309 8.87695 3.4873C8.87695 3.72782 9.07996 3.94866 9.3636 3.94866H10.3209C11.7726 3.95402 12.9735 5.11055 12.979 6.5688L12.979 6.57163L12.979 7.62828C12.979 8.04249 12.6432 8.37828 12.229 8.37828C11.8148 8.37828 11.479 8.04249 11.479 7.62828V6.57324C11.4761 5.96775 10.9713 5.45171 10.3165 5.44866H9.3636C8.28119 5.44866 7.37695 4.5856 7.37695 3.4873C7.37695 3.07309 7.71274 2.7373 8.12695 2.7373Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25415 11.8243C2.25415 8.71332 4.77518 6.1923 7.88618 6.1923H16.1137C19.2236 6.1923 21.7457 8.71323 21.7457 11.8243V16.118C21.7457 19.228 19.2237 21.75 16.1137 21.75H7.88618C4.77508 21.75 2.25415 19.2279 2.25415 16.118V11.8243ZM7.88618 7.6923C5.60361 7.6923 3.75415 9.54175 3.75415 11.8243V16.118C3.75415 18.3997 5.6037 20.25 7.88618 20.25H16.1137C18.3953 20.25 20.2457 18.3996 20.2457 16.118V11.8243C20.2457 9.54185 18.3953 7.6923 16.1137 7.6923H7.88618Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8125 15.5977C15.8125 15.1834 16.1483 14.8477 16.5625 14.8477H16.5725C16.9867 14.8477 17.3225 15.1834 17.3225 15.5977C17.3225 16.0119 16.9867 16.3477 16.5725 16.3477H16.5625C16.1483 16.3477 15.8125 16.0119 15.8125 15.5977Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1797 12.3818C14.1797 11.9676 14.5155 11.6318 14.9297 11.6318H14.9397C15.3539 11.6318 15.6897 11.9676 15.6897 12.3818C15.6897 12.796 15.3539 13.1318 14.9397 13.1318H14.9297C14.5155 13.1318 14.1797 12.796 14.1797 12.3818Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.16241 11.5293C9.57662 11.5293 9.91241 11.8651 9.91241 12.2793V13.2141H10.8822C11.2964 13.2141 11.6322 13.5499 11.6322 13.9641C11.6322 14.3783 11.2964 14.7141 10.8822 14.7141H9.91241V15.6481C9.91241 16.0623 9.57662 16.3981 9.16241 16.3981C8.7482 16.3981 8.41241 16.0623 8.41241 15.6481V14.7141H7.44531C7.0311 14.7141 6.69531 14.3783 6.69531 13.9641C6.69531 13.5499 7.0311 13.2141 7.44531 13.2141H8.41241V12.2793C8.41241 11.8651 8.7482 11.5293 9.16241 11.5293Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.46484 2.25C8.87906 2.25 9.21484 2.58579 9.21484 3C9.21484 3.23761 9.41597 3.45592 9.69508 3.45592H10.649C12.0957 3.46129 13.2916 4.6137 13.2984 6.06668L13.2984 6.07023L13.2984 6.80718C13.2984 7.22139 12.9626 7.55718 12.5484 7.55718C12.1342 7.55718 11.7984 7.22139 11.7984 6.80718V6.07224C11.7947 5.47037 11.2935 4.95896 10.6446 4.95592H9.69508C8.61655 4.95592 7.71484 4.09474 7.71484 3C7.71484 2.58579 8.05063 2.25 8.46484 2.25Z" fill="black"/> </svg> ',
     category: 'Game',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -2719,7 +3027,7 @@ class _GameControllerBold {
   /// controller — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'controller',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.665 16.367C16.222 16.367 15.863 16.008 15.863 15.565C15.863 15.123 16.222 14.764 16.665 14.764C17.108 14.764 17.467 15.123 17.467 15.565C17.467 16.008 17.108 16.367 16.665 16.367ZM14.922 13.196C14.48 13.196 14.121 12.837 14.121 12.394C14.121 11.951 14.48 11.592 14.922 11.592C15.365 11.592 15.724 11.951 15.724 12.394C15.724 12.837 15.365 13.196 14.922 13.196ZM10.85 14.775H9.89999V15.725C9.89999 16.139 9.56399 16.475 9.14999 16.475C8.73599 16.475 8.39999 16.139 8.39999 15.725V14.775H7.34999C6.93499 14.775 6.59999 14.439 6.59999 14.025C6.59999 13.611 6.93499 13.275 7.34999 13.275H8.39999V12.325C8.39999 11.911 8.73599 11.575 9.14999 11.575C9.56399 11.575 9.89999 11.911 9.89999 12.325V13.275H10.85C11.264 13.275 11.6 13.611 11.6 14.025C11.6 14.439 11.264 14.775 10.85 14.775ZM14.65 7.425H13V6.725C13 5.214 11.86 4.075 10.35 4.075H9.34999C9.16199 4.075 8.89999 3.904 8.89999 3.625C8.89999 3.211 8.56399 2.875 8.14999 2.875C7.73599 2.875 7.39999 3.211 7.39999 3.625C7.39999 4.682 8.29299 5.575 9.34999 5.575H10.35C11.037 5.575 11.5 6.037 11.5 6.725V7.425H9.34999C5.59999 7.425 2.54999 10.475 2.54999 14.225V14.325C2.54999 18.075 5.59999 21.125 9.34999 21.125H14.65C18.399 21.125 21.45 18.075 21.45 14.325V14.225C21.45 10.475 18.399 7.425 14.65 7.425Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.63 16.505C16.2 16.505 15.86 16.165 15.86 15.745C15.86 15.315 16.2 14.975 16.63 14.975C17.05 14.975 17.39 15.315 17.39 15.745C17.39 16.165 17.05 16.505 16.63 16.505ZM14.9 13.295C14.47 13.295 14.13 12.955 14.13 12.525C14.13 12.105 14.47 11.755 14.9 11.755C15.32 11.755 15.67 12.105 15.67 12.525C15.67 12.955 15.32 13.295 14.9 13.295ZM10.9 14.875H9.95V15.825C9.95 16.235 9.61 16.575 9.2 16.575C8.79 16.575 8.45 16.235 8.45 15.825V14.875H7.5C7.09 14.875 6.75 14.535 6.75 14.125C6.75 13.715 7.09 13.375 7.5 13.375H8.45V12.425C8.45 12.015 8.79 11.675 9.2 11.675C9.61 11.675 9.95 12.015 9.95 12.425V13.375H10.9C11.31 13.375 11.65 13.715 11.65 14.125C11.65 14.535 11.31 14.875 10.9 14.875ZM16.1 6.525H13.35V6.225C13.35 4.765 12.16 3.575 10.7 3.575H9.7C9.51 3.575 9.25 3.405 9.25 3.125C9.25 2.715 8.91 2.375 8.5 2.375C8.09 2.375 7.75 2.715 7.75 3.125C7.75 4.185 8.64 5.075 9.7 5.075H10.7C11.25 5.075 11.85 5.515 11.85 6.225V6.525H7.9C4.92 6.525 2.5 8.945 2.5 11.925V16.225C2.5 19.205 4.92 21.625 7.9 21.625H16.1C19.08 21.625 21.5 19.205 21.5 16.225V11.925C21.5 8.945 19.08 6.525 16.1 6.525Z" fill="black"/> </svg>',
     category: 'Game',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -2734,6 +3042,114 @@ class _GameControllerLight {
   /// controller — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'controller',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.88593 6.94238H16.1134C18.8092 6.94238 20.9954 9.12762 20.9954 11.8244V16.1181C20.9954 18.8139 18.8092 21.0001 16.1134 21.0001H7.88593C5.18915 21.0001 3.00391 18.8139 3.00391 16.1181V11.8244C3.00391 9.12762 5.18915 6.94238 7.88593 6.94238Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5725 15.5977H16.5625" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9397 12.3818H14.9297" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.16241 12.2793V15.6481M10.8822 13.9641H7.44531" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.46484 3C8.46484 3.66617 9.01626 4.20592 9.69508 4.20592H10.6462C11.6946 4.20981 12.5436 5.04228 12.5484 6.07023V6.80718" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// controller 1 icon with style variants.
+class _GameController1Icon {
+  const _GameController1Icon();
+
+  /// bold style
+  _GameController1Bold get bold => const _GameController1Bold();
+  /// bulk style
+  _GameController1Bulk get bulk => const _GameController1Bulk();
+  /// light style
+  _GameController1Light get light => const _GameController1Light();
+  /// outline style
+  _GameController1Outline get outline => const _GameController1Outline();
+  /// twoTone style
+  _GameController1Twotone get twoTone => const _GameController1Twotone();
+  /// broken style
+  _GameController1Broken get broken => const _GameController1Broken();
+}
+
+/// controller 1 — bulk style variants.
+class _GameController1Bulk {
+  const _GameController1Bulk();
+
+  /// controller 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'controller 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M11.5 7.42188V7.42492H9.35005C5.60005 7.42492 2.55005 10.4749 2.55005 14.2249V14.3249C2.55005 18.0749 5.60005 21.1249 9.35005 21.1249H14.65C18.399 21.1249 21.45 18.0749 21.45 14.3249V14.2249C21.45 10.4749 18.399 7.42492 14.65 7.42492H13V7.42188H11.5Z" fill="black"/> <path d="M11.5 7.42196H13V6.725C13 5.214 11.86 4.075 10.35 4.075H9.34996C9.16196 4.075 8.89996 3.904 8.89996 3.625C8.89996 3.211 8.56396 2.875 8.14996 2.875C7.73596 2.875 7.39996 3.211 7.39996 3.625C7.39996 4.682 8.29296 5.575 9.34996 5.575H10.35C11.037 5.575 11.5 6.037 11.5 6.725V7.42196Z" fill="black"/> <path d="M15.863 15.5642C15.863 16.0072 16.222 16.3662 16.665 16.3662C17.108 16.3662 17.467 16.0072 17.467 15.5642C17.467 15.1222 17.108 14.7632 16.665 14.7632C16.222 14.7632 15.863 15.1222 15.863 15.5642Z" fill="black"/> <path d="M14.121 12.3932C14.121 12.8362 14.48 13.1952 14.922 13.1952C15.365 13.1952 15.724 12.8362 15.724 12.3932C15.724 11.9502 15.365 11.5912 14.922 11.5912C14.48 11.5912 14.121 11.9502 14.121 12.3932Z" fill="black"/> <path d="M9.89998 14.7742H10.85C11.264 14.7742 11.6 14.4382 11.6 14.0242C11.6 13.6102 11.264 13.2742 10.85 13.2742H9.89998V12.3242C9.89998 11.9102 9.56398 11.5742 9.14998 11.5742C8.73598 11.5742 8.39998 11.9102 8.39998 12.3242V13.2742H7.34998C6.93498 13.2742 6.59998 13.6102 6.59998 14.0242C6.59998 14.4382 6.93498 14.7742 7.34998 14.7742H8.39998V15.7242C8.39998 16.1382 8.73598 16.4742 9.14998 16.4742C9.56398 16.4742 9.89998 16.1382 9.89998 15.7242V14.7742Z" fill="black"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// controller 1 — broken style variants.
+class _GameController1Broken {
+  const _GameController1Broken();
+
+  /// controller 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'controller 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.6591 20.5126C18.1609 20.5126 21 17.6735 21 14.1717V14.1192C21 10.6175 18.1609 7.7793 14.6591 7.7793H9.33989C5.83816 7.7793 3 10.6175 3 14.1192V14.1717C3 17.6735 5.83816 20.5126 9.33989 20.5126H11.3838" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5412 15.5127H16.5312" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9026 12.2832H14.8926" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.0985 12.1797V15.5647M10.8242 13.8719H7.37109" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.12695 3.4873C8.12695 4.15671 8.68057 4.69866 9.3636 4.69866H10.3181C11.3718 4.70255 12.2251 5.5393 12.229 6.57163V7.62828" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// controller 1 — twoTone style variants.
+class _GameController1Twotone {
+  const _GameController1Twotone();
+
+  /// controller 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'controller 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.83989 20.5126H15.1591C18.6609 20.5126 21.5 17.6735 21.5 14.1717V14.1192C21.5 10.6175 18.6609 7.7793 15.1591 7.7793H9.83989C6.33816 7.7793 3.5 10.6175 3.5 14.1192V14.1717C3.5 17.6735 6.33816 20.5126 9.83989 20.5126Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.0413 15.5127H17.0312" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.4026 12.2832H15.3926" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.5985 12.1797V15.5647M11.3242 13.8719H7.87109" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.62695 3.4873C8.62695 4.15671 9.18057 4.69866 9.8636 4.69866H10.8181C11.8718 4.70255 12.7251 5.5393 12.729 6.57163V7.62828" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// controller 1 — outline style variants.
+class _GameController1Outline {
+  const _GameController1Outline();
+
+  /// controller 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'controller 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.33989 8.52978C6.25238 8.52978 3.75 11.0322 3.75 14.1197V14.1722C3.75 17.2599 6.25253 19.7631 9.33989 19.7631H14.6591C17.7467 19.7631 20.25 17.2597 20.25 14.1722V14.1197C20.25 11.0323 17.7468 8.52978 14.6591 8.52978H9.33989ZM2.25 14.1197C2.25 10.2037 5.42395 7.02978 9.33989 7.02978H14.6591C18.5749 7.02978 21.75 10.2036 21.75 14.1197V14.1722C21.75 18.0882 18.5751 21.2631 14.6591 21.2631H9.33989C5.4238 21.2631 2.25 18.088 2.25 14.1722V14.1197Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7812 15.5127C15.7812 15.0985 16.117 14.7627 16.5312 14.7627H16.5412C16.9555 14.7627 17.2912 15.0985 17.2912 15.5127C17.2912 15.9269 16.9555 16.2627 16.5412 16.2627H16.5312C16.117 16.2627 15.7812 15.9269 15.7812 15.5127Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1426 12.2832C14.1426 11.869 14.4784 11.5332 14.8926 11.5332H14.9026C15.3168 11.5332 15.6526 11.869 15.6526 12.2832C15.6526 12.6974 15.3168 13.0332 14.9026 13.0332H14.8926C14.4784 13.0332 14.1426 12.6974 14.1426 12.2832Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.0985 11.4297C9.51271 11.4297 9.8485 11.7655 9.8485 12.1797V13.1219H10.8242C11.2384 13.1219 11.5742 13.4577 11.5742 13.8719C11.5742 14.2862 11.2384 14.6219 10.8242 14.6219H9.8485V15.5647C9.8485 15.9789 9.51271 16.3147 9.0985 16.3147C8.68429 16.3147 8.3485 15.9789 8.3485 15.5647V14.6219H7.37109C6.95688 14.6219 6.62109 14.2862 6.62109 13.8719C6.62109 13.4577 6.95688 13.1219 7.37109 13.1219H8.3485V12.1797C8.3485 11.7655 8.68429 11.4297 9.0985 11.4297Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.12695 2.7373C8.54117 2.7373 8.87695 3.07309 8.87695 3.4873C8.87695 3.72782 9.07996 3.94866 9.3636 3.94866H10.3209C11.7726 3.95402 12.9735 5.11055 12.979 6.5688L12.979 6.57163L12.979 7.62828C12.979 8.04249 12.6432 8.37828 12.229 8.37828C11.8148 8.37828 11.479 8.04249 11.479 7.62828V6.57324C11.4761 5.96775 10.9713 5.45171 10.3165 5.44866H9.3636C8.28119 5.44866 7.37695 4.5856 7.37695 3.4873C7.37695 3.07309 7.71274 2.7373 8.12695 2.7373Z" fill="black"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// controller 1 — bold style variants.
+class _GameController1Bold {
+  const _GameController1Bold();
+
+  /// controller 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'controller 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.665 16.367C16.222 16.367 15.863 16.008 15.863 15.565C15.863 15.123 16.222 14.764 16.665 14.764C17.108 14.764 17.467 15.123 17.467 15.565C17.467 16.008 17.108 16.367 16.665 16.367ZM14.922 13.196C14.48 13.196 14.121 12.837 14.121 12.394C14.121 11.951 14.48 11.592 14.922 11.592C15.365 11.592 15.724 11.951 15.724 12.394C15.724 12.837 15.365 13.196 14.922 13.196ZM10.85 14.775H9.89999V15.725C9.89999 16.139 9.56399 16.475 9.14999 16.475C8.73599 16.475 8.39999 16.139 8.39999 15.725V14.775H7.34999C6.93499 14.775 6.59999 14.439 6.59999 14.025C6.59999 13.611 6.93499 13.275 7.34999 13.275H8.39999V12.325C8.39999 11.911 8.73599 11.575 9.14999 11.575C9.56399 11.575 9.89999 11.911 9.89999 12.325V13.275H10.85C11.264 13.275 11.6 13.611 11.6 14.025C11.6 14.439 11.264 14.775 10.85 14.775ZM14.65 7.425H13V6.725C13 5.214 11.86 4.075 10.35 4.075H9.34999C9.16199 4.075 8.89999 3.904 8.89999 3.625C8.89999 3.211 8.56399 2.875 8.14999 2.875C7.73599 2.875 7.39999 3.211 7.39999 3.625C7.39999 4.682 8.29299 5.575 9.34999 5.575H10.35C11.037 5.575 11.5 6.037 11.5 6.725V7.425H9.34999C5.59999 7.425 2.54999 10.475 2.54999 14.225V14.325C2.54999 18.075 5.59999 21.125 9.34999 21.125H14.65C18.399 21.125 21.45 18.075 21.45 14.325V14.225C21.45 10.475 18.399 7.425 14.65 7.425Z" fill="black"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// controller 1 — light style variants.
+class _GameController1Light {
+  const _GameController1Light();
+
+  /// controller 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'controller 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.33989 20.5126H14.6591C18.1609 20.5126 21 17.6735 21 14.1717V14.1192C21 10.6175 18.1609 7.7793 14.6591 7.7793H9.33989C5.83816 7.7793 3 10.6175 3 14.1192V14.1717C3 17.6735 5.83816 20.5126 9.33989 20.5126Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5413 15.5127H16.5312" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9026 12.2832H14.8926" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.0985 12.1797V15.5647M10.8242 13.8719H7.37109" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.12695 3.4873C8.12695 4.15671 8.68057 4.69866 9.3636 4.69866H10.3181C11.3718 4.70255 12.2251 5.5393 12.229 6.57163V7.62828" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Game',
     style: IconfyStyle.light,
@@ -2746,8 +3162,6 @@ class _GameControllerLight {
 class _GameBowedKiteIcon {
   const _GameBowedKiteIcon();
 
-  /// light style
-  _GameBowedKiteLight get light => const _GameBowedKiteLight();
   /// outline style
   _GameBowedKiteOutline get outline => const _GameBowedKiteOutline();
 }
@@ -2767,27 +3181,10 @@ class _GameBowedKiteOutline {
 
 }
 
-/// bowed kite — light style variants.
-class _GameBowedKiteLight {
-  const _GameBowedKiteLight();
-
-  /// bowed kite — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'bowed kite',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.4736 17.6348L9.57422 7.38955L17.335 4.55518L20.3304 12.2431L11.4736 17.6348Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.57227 7.39355C14.5503 7.9278 16.9187 9.08208 20.324 12.2406" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.4602 17.6851C11.4772 19.1283 10.3954 21.4333 5.89686 20.5865C4.53121 20.3294 3.50801 20.383 2.75 20.6205" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.86328 17.4042C8.19237 16.4454 9.51119 19.0628 11.4375 17.6577" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3301 4.55664L11.4961 17.5792" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.3418 2.4917H9.3318" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4167 17.9405C18.8802 17.7867 17.6614 17.7887 17.0774 19.0265" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.58157 11.0583C4.7962 10.2287 4.62665 9.56248 4.3186 9.06152" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Game',
-    style: IconfyStyle.light,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// flat kite icon with style variants.
 class _GameFlatKiteIcon {
   const _GameFlatKiteIcon();
 
-  /// light style
-  _GameFlatKiteLight get light => const _GameFlatKiteLight();
   /// outline style
   _GameFlatKiteOutline get outline => const _GameFlatKiteOutline();
 }
@@ -2807,16 +3204,47 @@ class _GameFlatKiteOutline {
 
 }
 
-/// flat kite — light style variants.
-class _GameFlatKiteLight {
-  const _GameFlatKiteLight();
+/// flat kite  1 icon with style variants.
+class _GameFlatKite1Icon {
+  const _GameFlatKite1Icon();
 
-  /// flat kite — light / regular
+  /// outline style
+  _GameFlatKite1Outline get outline => const _GameFlatKite1Outline();
+}
+
+/// flat kite  1 — outline style variants.
+class _GameFlatKite1Outline {
+  const _GameFlatKite1Outline();
+
+  /// flat kite  1 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'flat kite',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.52507 2.75L5.35449 9.97563L13.3861 17.1595L16.7511 6.92193L9.52507 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.12793 21.25C6.1284 20.3376 7.24452 18.8788 10.787 20.0265C13.2424 20.822 14.4206 19.1521 13.2957 17.0113" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.50488 9.95947L16.6156 6.98236" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.57129 2.91602L13.3877 17.1592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.6357 16.3101H18.6457" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.49512 15.4756H5.50512" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.751 2.75H16.761" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    name: 'flat kite  1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.258 2.18468C10.4812 1.99009 10.798 1.94504 11.0665 2.06968C12.3358 2.65869 14.1546 3.00567 15.9596 3.22016C17.2466 3.3731 18.463 3.45291 19.421 3.51576C19.8028 3.54082 20.1436 3.56318 20.4314 3.5864C20.7711 3.61381 21.0496 3.86678 21.1094 4.20226C21.7125 7.58308 20.4101 15.3786 11.1362 20.9332C10.7809 21.146 10.3202 21.0305 10.1074 20.6751C9.89458 20.3198 10.0101 19.8592 10.3655 19.6464C18.5615 14.7374 19.9667 8.12193 19.7063 5.03813C19.5995 5.03099 19.4874 5.02363 19.3705 5.01596C18.4051 4.95257 17.112 4.86766 15.7826 4.70968C14.4601 4.55252 13.0366 4.31712 11.783 3.9356C11.91 4.74402 11.9786 5.70093 11.9146 6.70464C11.8236 8.13104 11.4609 9.70347 10.5682 11.078C11.7477 11.8992 12.9547 13.4547 13.1437 15.4388C13.1829 15.8511 12.8805 16.2172 12.4682 16.2565C12.0558 16.2958 11.6897 15.9933 11.6504 15.581C11.4752 13.7403 10.0903 12.3839 9.17563 12.0085C8.9538 11.9174 8.78889 11.7257 8.73193 11.4928C8.67496 11.2599 8.73281 11.0138 8.88757 10.8306C9.89908 9.63344 10.3227 8.09782 10.4176 6.60917C10.5126 5.12044 10.2733 3.75043 10.0338 2.97005C9.94696 2.68697 10.0348 2.37927 10.258 2.18468Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.45189 14.5234C6.83071 12.9019 7.36406 11.2366 6.91942 9.91471C6.44385 8.50084 5.01293 7.89144 3.4067 8.12744C2.99688 8.18766 2.71348 8.56869 2.77369 8.97851C2.83391 9.38832 3.21494 9.67173 3.62475 9.61151C4.76847 9.44346 5.32701 9.88547 5.49769 10.3929C5.69829 10.9893 5.53815 12.1107 4.3011 13.5612C4.29507 13.5683 4.28917 13.5755 4.2834 13.5828C2.46294 15.8856 2.41558 18.6627 3.87962 20.4244C5.38048 22.2305 8.16382 22.6357 11.3201 20.832C11.6798 20.6265 11.8047 20.1683 11.5992 19.8087C11.3937 19.4491 10.9355 19.3241 10.5759 19.5296C7.8193 21.1049 5.91636 20.5284 5.03327 19.4657C4.11505 18.3608 3.98479 16.3872 5.45189 14.5234Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.7446 3.86557C21.0687 4.12357 21.1222 4.59541 20.8642 4.91946C19.1732 7.04342 17.6777 8.48758 15.932 9.56645C14.1915 10.6422 12.2475 11.3263 9.70879 11.9932C9.30817 12.0984 8.89809 11.8589 8.79286 11.4583C8.68763 11.0577 8.92709 10.6476 9.32771 10.5424C11.8146 9.88914 13.5906 9.25019 15.1434 8.29048C16.6911 7.33394 18.0624 6.03041 19.6907 3.98517C19.9487 3.66111 20.4206 3.60757 20.7446 3.86557Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1689 2.34986C10.4038 2.00866 10.8707 1.92245 11.2119 2.15731C13.2619 3.56833 15.4029 6.81363 15.9901 10.3799C16.5892 14.0184 15.5762 18.0617 11.2101 20.8695C10.8617 21.0936 10.3977 20.9928 10.1736 20.6444C9.94957 20.296 10.0504 19.832 10.3988 19.6079C14.1869 17.1718 15.0273 13.765 14.51 10.6236C13.9809 7.41005 12.036 4.54553 10.3614 3.39289C10.0202 3.15804 9.93404 2.69106 10.1689 2.34986Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.9987 18.8165C19.3433 19.0464 19.4362 19.5121 19.2063 19.8567C18.8616 20.3733 18.5533 20.7589 18.2001 21.0722C17.8427 21.3891 17.4716 21.6032 17.0428 21.8129C16.6707 21.9949 16.2215 21.8408 16.0396 21.4687C15.8576 21.0966 16.0117 20.6474 16.3838 20.4654C16.7553 20.2838 16.9913 20.1393 17.2048 19.95C17.4223 19.757 17.6484 19.4889 17.9586 19.0241C18.1885 18.6796 18.6542 18.5866 18.9987 18.8165Z" fill="black"/> </svg> ',
     category: 'Game',
-    style: IconfyStyle.light,
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// flat kite  2 icon with style variants.
+class _GameFlatKite2Icon {
+  const _GameFlatKite2Icon();
+
+  /// outline style
+  _GameFlatKite2Outline get outline => const _GameFlatKite2Outline();
+}
+
+/// flat kite  2 — outline style variants.
+class _GameFlatKite2Outline {
+  const _GameFlatKite2Outline();
+
+  /// flat kite  2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'flat kite  2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.2315 2C12.9911 2 12.7653 2.11526 12.6242 2.30995C10.723 4.93392 9.46537 6.04147 7.05393 7.87592C6.88928 8.00117 6.78368 8.18886 6.76211 8.39461C6.74053 8.60035 6.80489 8.80587 6.93997 8.96255C9.67067 12.13 10.8348 13.9992 12.5568 17.5474C12.6822 17.8058 12.9443 17.9699 13.2315 17.9699C13.5188 17.9699 13.7808 17.8058 13.9063 17.5474C15.6283 13.9992 16.7924 12.13 19.5231 8.96255C19.6582 8.80587 19.7226 8.60035 19.701 8.39461C19.6794 8.18886 19.5738 8.00117 19.4092 7.87592C16.9977 6.04147 15.7401 4.93392 13.8389 2.30995C13.6978 2.11526 13.472 2 13.2315 2ZM17.8721 8.58702C15.7512 11.1045 14.5759 12.9026 13.2315 15.5343C11.8872 12.9026 10.7119 11.1045 8.59095 8.58701C10.457 7.1388 11.6952 6.00915 13.2315 4.00585C14.7679 6.00915 16.0061 7.1388 17.8721 8.58702Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3214 16.4751C13.7327 16.5249 14.0257 16.8985 13.976 17.3097C13.9051 17.8966 13.6041 18.7137 12.9159 19.3362C12.1976 19.9859 11.1357 20.3527 9.70339 20.1293C7.51685 19.7884 6.98647 20.9801 6.98633 21.2502C6.98612 21.6644 6.65016 22 6.23595 21.9998C5.82173 21.9996 5.48612 21.6636 5.48633 21.2494C5.48709 19.7494 7.17372 18.2167 9.93449 18.6472C10.9758 18.8096 11.5668 18.5338 11.9096 18.2238C12.2826 17.8864 12.451 17.4264 12.4868 17.1297C12.5366 16.7185 12.9102 16.4254 13.3214 16.4751Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.8905 16.2281C19.3017 16.2778 19.5948 16.6514 19.5451 17.0627C19.4695 17.6879 19.162 18.5431 18.4774 19.2271C18.1843 19.5199 17.7095 19.5197 17.4167 19.2267C17.1239 18.9336 17.1241 18.4588 17.4172 18.166C17.8274 17.7561 18.0139 17.23 18.0559 16.8827C18.1056 16.4714 18.4793 16.1784 18.8905 16.2281Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.90234 8.49561C6.90234 8.08139 7.23813 7.74561 7.65234 7.74561H18.8096C19.2238 7.74561 19.5596 8.08139 19.5596 8.49561C19.5596 8.90982 19.2238 9.24561 18.8096 9.24561H7.65234C7.23813 9.24561 6.90234 8.90982 6.90234 8.49561Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.2305 2.16699C13.6447 2.16699 13.9805 2.50278 13.9805 2.91699L13.9805 17.2199C13.9805 17.6341 13.6447 17.9699 13.2305 17.9699C12.8163 17.9699 12.4805 17.6341 12.4805 17.2199L12.4805 2.91699C12.4805 2.50278 12.8163 2.16699 13.2305 2.16699Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.30078 12.9326C4.30078 12.5184 4.63657 12.1826 5.05078 12.1826H5.06078C5.47499 12.1826 5.81078 12.5184 5.81078 12.9326C5.81078 13.3468 5.47499 13.6826 5.06078 13.6826H5.05078C4.63657 13.6826 4.30078 13.3468 4.30078 12.9326Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.0508 3.4917C18.0508 3.07749 18.3866 2.7417 18.8008 2.7417H18.8108C19.225 2.7417 19.5608 3.07749 19.5608 3.4917C19.5608 3.90591 19.225 4.2417 18.8108 4.2417H18.8008C18.3866 4.2417 18.0508 3.90591 18.0508 3.4917Z" fill="black"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -2826,8 +3254,6 @@ class _GameFlatKiteLight {
 class _GameDeltaKiteIcon {
   const _GameDeltaKiteIcon();
 
-  /// light style
-  _GameDeltaKiteLight get light => const _GameDeltaKiteLight();
   /// outline style
   _GameDeltaKiteOutline get outline => const _GameDeltaKiteOutline();
 }
@@ -2839,6 +3265,52 @@ class _GameDeltaKiteOutline {
   /// Delta Kite — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Delta Kite',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7591 2.58649C21.9364 2.75075 22.0237 2.99041 21.9935 3.23025L20.2977 16.7234C20.2536 17.0739 19.971 17.3461 19.6191 17.377C19.2672 17.4079 18.9415 17.1891 18.837 16.8517C18.5163 15.8154 17.777 14.4596 16.6576 13.683C16.1116 13.3041 15.4793 13.0646 14.7462 13.0531C14.0098 13.0416 13.1177 13.2593 12.0556 13.8831C11.7617 14.0558 11.3883 14.0085 11.1467 13.768C10.9051 13.5276 10.856 13.1544 11.0273 12.8597C11.4213 12.1814 11.4601 11.5856 11.3053 11.0429C11.1425 10.4721 10.7457 9.89698 10.1612 9.34118C8.98671 8.22442 7.23875 7.36013 5.97313 6.91458C5.6551 6.80262 5.45087 6.4922 5.47394 6.15583C5.49701 5.81945 5.7417 5.53982 6.07204 5.47232L21.0993 2.4019C21.3361 2.35351 21.5817 2.42223 21.7591 2.58649ZM8.66316 6.47388C9.55348 6.95326 10.4564 7.55205 11.1948 8.25413C11.8902 8.91533 12.4852 9.71121 12.7477 10.6314C12.8615 11.0302 12.9093 11.4408 12.8825 11.8585C13.5411 11.641 14.1706 11.5439 14.7697 11.5533C15.8375 11.5701 16.7545 11.9245 17.5127 12.4506C18.1583 12.8985 18.6911 13.4716 19.1185 14.077L20.3748 4.08091L8.66316 6.47388Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7379 3.71458C15.149 3.66384 15.5234 3.95597 15.5741 4.36706C15.6712 5.15383 15.5582 6.55024 15.0835 8.1883C14.6037 9.84425 13.7399 11.7987 12.2861 13.6921C12.0338 14.0207 11.563 14.0825 11.2344 13.8303C10.9059 13.578 10.8441 13.1072 11.0963 12.7786C12.4218 11.0523 13.2079 9.2716 13.6428 7.77081C14.0829 6.25212 14.1495 5.0702 14.0854 4.5508C14.0347 4.13971 14.3268 3.76532 14.7379 3.71458Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.1948 9.13835C21.2792 9.54387 21.0188 9.94102 20.6133 10.0254C19.6574 10.2243 18.0247 10.6945 16.3795 11.3613C14.7162 12.0355 13.1372 12.8723 12.2111 13.7696C11.9136 14.0578 11.4388 14.0503 11.1506 13.7528C10.8623 13.4553 10.8698 12.9805 11.1673 12.6923C12.3093 11.5858 14.1126 10.6616 15.8161 9.97114C17.5379 9.27332 19.2568 8.77552 20.3077 8.55685C20.7132 8.47248 21.1104 8.73282 21.1948 9.13835Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.18733 9.36136C7.52918 9.59527 7.61742 10.0625 7.38352 10.4044C7.15186 10.7429 6.69182 10.832 6.35091 10.6065C6.35091 10.6065 6.34607 10.6036 6.34146 10.601C6.32739 10.5931 6.30262 10.5801 6.27024 10.5667C6.20075 10.538 6.12457 10.519 6.05591 10.5199C5.99992 10.5205 5.93945 10.5333 5.8658 10.5903C5.78398 10.6536 5.64411 10.8052 5.50505 11.158C5.20209 11.9266 4.70985 12.4293 4.02662 12.5678C3.42665 12.6894 2.84793 12.4851 2.46072 12.3233C2.07855 12.1636 1.89823 11.7243 2.05796 11.3421C2.2177 10.9599 2.65701 10.7796 3.03918 10.9393C3.39796 11.0893 3.60685 11.1224 3.72854 11.0977L3.73007 11.0974C3.77112 11.0892 3.93267 11.0567 4.10954 10.608C4.31837 10.0781 4.5971 9.67555 4.94749 9.40425C5.30606 9.12663 5.69142 9.02416 6.03776 9.01997C6.37145 9.01593 6.65412 9.10238 6.8429 9.18036C6.93966 9.22033 7.01887 9.26102 7.07651 9.29342C7.10551 9.30972 7.12957 9.32422 7.14821 9.33589C7.15755 9.34174 7.16557 9.3469 7.17222 9.35127L7.18118 9.35721L7.18489 9.3597L7.18733 9.36136Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4282 20.936C11.0171 20.8851 10.7243 20.5105 10.7752 20.0995C10.8257 19.6913 11.1953 19.4005 11.603 19.4463C11.6055 19.4465 11.6118 19.447 11.6215 19.4474C11.6429 19.4485 11.6796 19.4493 11.7272 19.447C11.8246 19.4424 11.9542 19.4253 12.088 19.379C12.3258 19.2969 12.6183 19.1154 12.771 18.591C13.0891 17.499 13.67 16.795 14.4555 16.5314C15.2065 16.2794 15.94 16.5013 16.4355 16.7991C16.7906 17.0124 16.9054 17.4732 16.6921 17.8282C16.4787 18.1833 16.0179 18.2981 15.6629 18.0848C15.405 17.9298 15.1348 17.8856 14.9328 17.9535C14.7653 18.0097 14.4439 18.2115 14.2112 19.0104C13.9043 20.0641 13.211 20.578 12.5779 20.7968C12.2763 20.901 11.9992 20.9358 11.7987 20.9453C11.6974 20.9502 11.6124 20.9487 11.5493 20.9457C11.5177 20.9442 11.4913 20.9422 11.4708 20.9404L11.4445 20.9379L11.4348 20.9368L11.4308 20.9363L11.4282 20.936Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.02976 14.301C8.9641 13.9703 9.97238 14.2672 10.5716 14.8355C10.8722 15.1205 10.8848 15.5953 10.5997 15.8958C10.3147 16.1964 9.84001 16.2089 9.53946 15.9239C9.31478 15.7108 8.88972 15.5878 8.53029 15.715C8.24202 15.8171 7.78412 16.1667 7.66971 17.3427C7.52865 18.7926 6.88135 19.766 5.89652 20.1322C4.96529 20.4786 3.95948 20.1887 3.28165 19.6288C2.9623 19.365 2.91727 18.8923 3.18107 18.5729C3.44487 18.2536 3.9176 18.2085 4.23695 18.4723C4.58908 18.7632 5.04201 18.8496 5.37365 18.7263C5.65169 18.6229 6.07138 18.2806 6.17675 17.1975C6.32797 15.6432 7.02426 14.6569 8.02976 14.301Z" fill="black"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delta Kite  1 icon with style variants.
+class _GameDeltaKite1Icon {
+  const _GameDeltaKite1Icon();
+
+  /// outline style
+  _GameDeltaKite1Outline get outline => const _GameDeltaKite1Outline();
+}
+
+/// Delta Kite  1 — outline style variants.
+class _GameDeltaKite1Outline {
+  const _GameDeltaKite1Outline();
+
+  /// Delta Kite  1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delta Kite  1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5274 2.00009C11.8029 1.7765 12.1973 1.7765 12.4728 2.00009C16.5994 5.34974 18.6109 7.39642 21.5034 11.3476C21.7204 11.6441 21.6907 12.0542 21.4331 12.3163C21.1756 12.5784 20.7661 12.6153 20.4658 12.4035C18.5608 11.0594 16.894 10.6249 15.6132 10.8368C14.374 11.0417 13.3359 11.8789 12.6956 13.4658C12.5812 13.7494 12.306 13.9352 12.0001 13.9352C11.6943 13.9352 11.4191 13.7494 11.3046 13.4658C10.6643 11.8789 9.62616 11.0418 8.3868 10.8368C7.10589 10.6249 5.43891 11.0594 3.53394 12.4035C3.23368 12.6153 2.82417 12.5784 2.56662 12.3163C2.30907 12.0542 2.27934 11.6441 2.4964 11.3476C5.3889 7.39639 7.40086 5.34971 11.5274 2.00009ZM5.73502 9.60863C6.74501 9.29531 7.72028 9.20615 8.63157 9.35687C10.0296 9.58809 11.1784 10.3669 12.0001 11.5827C12.8218 10.3669 13.9705 9.5881 15.3684 9.35688C16.2797 9.20615 17.2549 9.29531 18.2648 9.60864C16.4691 7.43708 14.732 5.79101 12.0001 3.55032C9.26822 5.79102 7.53081 7.4371 5.73502 9.60863Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.26967 4.84056C8.63447 4.64437 9.08925 4.78106 9.28544 5.14586C10.2726 6.98133 10.2948 8.88581 9.25965 10.5305C9.03902 10.881 8.57597 10.9864 8.22541 10.7657C7.87485 10.5451 7.76952 10.082 7.99015 9.73148C8.69786 8.60702 8.73297 7.28549 7.96437 5.85634C7.76817 5.49153 7.90486 5.03676 8.26967 4.84056Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.66 4.84056C15.2952 4.64437 14.8404 4.78106 14.6443 5.14586C13.6571 6.98133 13.6349 8.88581 14.67 10.5305C14.8907 10.881 15.3537 10.9864 15.7043 10.7657C16.0548 10.5451 16.1602 10.082 15.9395 9.73148C15.2318 8.60702 15.1967 7.28549 15.9653 5.85634C16.1615 5.49153 16.0248 5.03676 15.66 4.84056Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.992 22.1559C12.3997 22.0829 12.6711 21.6932 12.5981 21.2855C12.373 20.0276 12.5483 19.3679 12.7358 18.6625C12.743 18.6354 12.7502 18.6083 12.7574 18.5811C12.8605 18.1915 12.9738 17.7462 13.0002 17.2042C13.0268 16.6576 12.9644 16.0441 12.7591 15.2854C12.6508 14.8855 12.239 14.6492 11.8391 14.7574C11.4393 14.8656 11.2029 15.2775 11.3112 15.6773C11.4818 16.3078 11.5199 16.7636 11.5019 17.1313C11.4838 17.5036 11.4077 17.8178 11.3072 18.1975C11.301 18.2212 11.2946 18.2451 11.2883 18.269C11.0799 19.0542 10.8381 19.9653 11.1216 21.5497C11.1946 21.9574 11.5842 22.2288 11.992 22.1559Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.73508 19.1481C4.14758 19.1106 4.45152 18.7457 4.41394 18.3332C4.37176 17.8701 4.46867 17.6027 4.60865 17.2164C4.62274 17.1775 4.63727 17.1374 4.65214 17.0958C4.83569 16.582 4.99977 15.9765 4.74629 15.0487C4.63713 14.6491 4.22472 14.4137 3.82515 14.5229C3.42558 14.632 3.19016 15.0444 3.29932 15.444C3.44245 15.9679 3.36492 16.2403 3.23956 16.5912C3.22608 16.6289 3.21169 16.6681 3.19673 16.7088C3.04925 17.1102 2.84656 17.6617 2.92013 18.4693C2.95771 18.8818 3.32257 19.1857 3.73508 19.1481Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.9558 19.1481C20.3683 19.1106 20.6722 18.7457 20.6346 18.3332C20.5925 17.8701 20.6894 17.6027 20.8294 17.2164C20.8434 17.1775 20.858 17.1374 20.8728 17.0958C21.0564 16.582 21.2205 15.9765 20.967 15.0487C20.8578 14.6491 20.4454 14.4137 20.0458 14.5229C19.6463 14.632 19.4109 15.0444 19.52 15.444C19.6632 15.9679 19.5856 16.2403 19.4603 16.5912C19.4468 16.6289 19.4324 16.6681 19.4174 16.7088C19.27 17.1102 19.0673 17.6617 19.1408 18.4693C19.1784 18.8818 19.5433 19.1857 19.9558 19.1481Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 1.8324C12.4142 1.8324 12.75 2.16818 12.75 2.5824V13.1595C12.75 13.5738 12.4142 13.9095 12 13.9095C11.5858 13.9095 11.25 13.5738 11.25 13.1595V2.5824C11.25 2.16818 11.5858 1.8324 12 1.8324Z" fill="black"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delta Kite  2 icon with style variants.
+class _GameDeltaKite2Icon {
+  const _GameDeltaKite2Icon();
+
+  /// outline style
+  _GameDeltaKite2Outline get outline => const _GameDeltaKite2Outline();
+}
+
+/// Delta Kite  2 — outline style variants.
+class _GameDeltaKite2Outline {
+  const _GameDeltaKite2Outline();
+
+  /// Delta Kite  2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delta Kite  2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6633 2.07995C11.8753 1.97335 12.1252 1.97335 12.3372 2.07995C16.6311 4.23929 19.9558 8.09922 21.7263 12.6752C21.8456 12.9836 21.7489 13.3336 21.4883 13.5371C21.2277 13.7405 20.8646 13.7493 20.5944 13.5587C18.7454 12.2542 17.1235 12.17 15.8301 12.7098C14.4967 13.2663 13.3722 14.5452 12.6958 16.2217C12.5813 16.5053 12.3061 16.6911 12.0002 16.6911C11.6944 16.6911 11.4192 16.5053 11.3047 16.2217C10.6283 14.5452 9.50374 13.2663 8.17034 12.7098C6.87699 12.17 5.25505 12.2542 3.40605 13.5587C3.1359 13.7493 2.77282 13.7405 2.51221 13.5371C2.25159 13.3336 2.15491 12.9836 2.27421 12.6752C4.04463 8.09922 7.36937 4.23929 11.6633 2.07995ZM4.55183 11.268C6.04156 10.7364 7.47149 10.7927 8.74809 11.3255C10.0988 11.8893 11.203 12.9551 12.0002 14.2679C12.7975 12.9551 13.9017 11.8893 15.2524 11.3255C16.529 10.7927 17.9589 10.7364 19.4486 11.268C17.7513 7.99457 15.163 5.27856 12.0002 3.59446C8.83748 5.27856 6.24918 7.99457 4.55183 11.268Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0013 7.99737C11.2536 7.11379 10.1892 6.58611 9.11019 6.41222C7.63183 6.17397 5.98559 6.57846 4.94512 7.79902C4.67641 8.11425 4.71411 8.58762 5.02934 8.85633C5.34456 9.12505 5.81794 9.08734 6.08665 8.77212C6.71262 8.03779 7.78556 7.7181 8.87153 7.89311C9.94912 8.06677 10.8997 8.70625 11.3058 9.71273C11.4202 9.99637 11.6954 10.1821 12.0013 10.1821C12.3071 10.1821 12.5824 9.99637 12.6968 9.71273C13.1029 8.70625 14.0535 8.06677 15.131 7.89311C16.217 7.7181 17.29 8.03779 17.9159 8.77212C18.1846 9.08734 18.658 9.12505 18.9732 8.85633C19.2885 8.58762 19.3262 8.11425 19.0575 7.79902C18.017 6.57846 16.3707 6.17397 14.8924 6.41222C13.8133 6.58611 12.7489 7.11379 12.0013 7.99737Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7247 21.9524C12.1186 22.0806 12.5417 21.8651 12.6699 21.4712C12.9044 20.7503 13.0309 19.928 12.8484 18.6893C12.788 18.2795 12.4068 17.9962 11.9971 18.0566C11.5873 18.117 11.304 18.4982 11.3644 18.908C11.5131 19.9171 11.4066 20.5057 11.2435 21.0072C11.1153 21.4011 11.3308 21.8243 11.7247 21.9524Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.61539 19.5454C4.02789 19.5079 4.33183 19.143 4.29426 18.7305C4.25123 18.2582 4.3503 17.9849 4.49236 17.5929C4.50667 17.5534 4.52142 17.5127 4.5365 17.4705C4.72229 16.9504 4.88812 16.3385 4.63177 15.4002C4.5226 15.0006 4.11019 14.7652 3.71062 14.8744C3.31105 14.9835 3.07563 15.3959 3.1848 15.7955C3.33081 16.33 3.25152 16.6087 3.12392 16.9659C3.11024 17.0042 3.09563 17.0439 3.08045 17.0853C2.93088 17.4923 2.72604 18.0498 2.80044 18.8666C2.83802 19.2791 3.20288 19.583 3.61539 19.5454Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.0717 19.5454C20.4842 19.5079 20.7881 19.143 20.7506 18.7305C20.7075 18.2582 20.8066 17.9849 20.9487 17.5929C20.963 17.5534 20.9777 17.5127 20.9928 17.4705C21.1786 16.9504 21.3444 16.3385 21.0881 15.4002C20.9789 15.0006 20.5665 14.7652 20.1669 14.8744C19.7674 14.9835 19.5319 15.3959 19.6411 15.7955C19.7871 16.33 19.7078 16.6087 19.5802 16.9659C19.5665 17.0042 19.5519 17.0439 19.5367 17.0853C19.3872 17.4923 19.1823 18.0498 19.2567 18.8666C19.2943 19.2791 19.6592 19.583 20.0717 19.5454Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0012 2C12.4154 2 12.7512 2.33579 12.7512 2.75V15.8603C12.7512 16.2745 12.4154 16.6103 12.0012 16.6103C11.587 16.6103 11.2512 16.2745 11.2512 15.8603V2.75C11.2512 2.33579 11.587 2 12.0012 2Z" fill="black"/> </svg> ',
     category: 'Game',
     style: IconfyStyle.outline,
@@ -2847,16 +3319,47 @@ class _GameDeltaKiteOutline {
 
 }
 
-/// Delta Kite — light style variants.
-class _GameDeltaKiteLight {
-  const _GameDeltaKiteLight();
+/// Delta Kite  3 icon with style variants.
+class _GameDeltaKite3Icon {
+  const _GameDeltaKite3Icon();
 
-  /// Delta Kite — light / regular
+  /// outline style
+  _GameDeltaKite3Outline get outline => const _GameDeltaKite3Outline();
+}
+
+/// Delta Kite  3 — outline style variants.
+class _GameDeltaKite3Outline {
+  const _GameDeltaKite3Outline();
+
+  /// Delta Kite  3 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Delta Kite',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0002 2.75C7.88708 4.81841 4.68308 8.52744 2.97363 12.9458C7.02354 10.0885 10.543 12.3296 12.0002 15.9411C13.4574 12.3296 16.9768 10.0885 21.0268 12.9458C19.3173 8.52744 16.1133 4.81841 12.0002 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.51611 8.28561C7.18255 6.33073 10.9545 6.83724 12.0015 9.43214C13.0486 6.83724 16.8205 6.33073 18.4869 8.28561" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.1063 18.7986C12.272 19.9226 12.1554 20.628 11.9566 21.2392" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.5471 18.7986C3.41779 17.3791 4.3104 17.0707 3.90803 15.5979" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.0036 18.7986C19.8743 17.3791 20.7669 17.0707 20.3646 15.5979" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0015 2.75V15.8603" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    name: 'Delta Kite  3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.1764 3.56505L7.87432 4.72641C8.14945 4.87767 8.39565 5.04677 8.61752 5.26378C8.92303 5.56262 9.14169 5.91232 9.34787 6.33229C9.54364 6.73105 9.74867 7.23758 10.0057 7.87261L10.0287 7.92929C10.2091 8.37498 10.6 8.73413 11.1067 8.92126C11.9173 9.22069 12.5894 9.62154 13.1383 10.1794C13.6861 10.7362 14.0764 11.4142 14.3739 12.2183C14.5549 12.7078 14.9039 13.0858 15.3379 13.2626C15.3757 13.278 15.413 13.2932 15.45 13.3083C16.7452 13.8357 17.5878 14.1788 18.1819 14.775C18.4506 15.0446 18.6542 15.3477 18.8385 15.6963L20.1764 3.56505ZM20.7888 2.00391C21.323 2.00391 21.7541 2.44073 21.747 2.9749C21.7467 2.99906 21.7452 3.0232 21.7426 3.04722L20.1178 17.7796C20.0877 18.3097 19.6678 18.6076 19.3103 18.6684C18.9459 18.7304 18.446 18.5836 18.241 18.0809C18.2168 18.0215 18.1933 17.9637 18.1704 17.9074C17.9289 17.3145 17.7564 16.8911 17.5929 16.5561C17.4192 16.2002 17.2779 15.9929 17.1194 15.8338C16.7747 15.4879 16.256 15.2564 14.772 14.6517C13.9003 14.2966 13.2751 13.5716 12.967 12.7387C12.7233 12.0797 12.4324 11.6007 12.069 11.2314C11.7067 10.8631 11.2375 10.5687 10.5869 10.3283C9.74148 10.0161 8.99871 9.38249 8.63828 8.49216L8.63659 8.488C8.36077 7.80666 8.17314 7.34317 8.00139 6.99334C7.83392 6.65222 7.70468 6.46916 7.56865 6.3361C7.43175 6.2022 7.24709 6.07881 6.9071 5.9163C6.63275 5.78516 6.29775 5.64664 5.84702 5.46028C5.721 5.40817 5.58593 5.35232 5.44062 5.29185C4.9391 5.08314 4.79528 4.58146 4.86199 4.21556C4.92745 3.85652 5.23248 3.44162 5.76269 3.41908L20.7183 2.00723C20.7417 2.00501 20.7652 2.00391 20.7888 2.00391Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1544 5.32848C14.2984 5.71686 14.1003 6.14844 13.7119 6.29244L9.22163 7.95729C8.83325 8.10129 8.40168 7.90319 8.25768 7.51481C8.11368 7.12643 8.31179 6.69485 8.70016 6.55085L13.1904 4.886C13.5788 4.742 14.0104 4.9401 14.1544 5.32848Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4486 9.46351C18.8368 9.60798 19.0344 10.0398 18.8899 10.428L17.2458 14.8456C17.1014 15.2338 16.6695 15.4314 16.2813 15.2869C15.8931 15.1425 15.6956 14.7106 15.84 14.3224L17.4841 9.90482C17.6286 9.51662 18.0604 9.31904 18.4486 9.46351Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.464 2.28081C21.7569 2.57375 21.7568 3.04863 21.4638 3.34147L13.4052 11.397C13.1123 11.6899 12.6374 11.6898 12.3446 11.3968C12.0517 11.1039 12.0518 10.629 12.3448 10.3362L20.4034 2.28061C20.6963 1.98777 21.1712 1.98786 21.464 2.28081Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4397 10.612C13.6352 10.9772 13.4975 11.4317 13.1323 11.6271L11.164 12.6804C9.79716 13.4118 8.9557 14.8476 8.98559 16.3975C9.03648 19.0375 7.24451 21.3576 4.67738 21.9754C4.27467 22.0724 3.86963 21.8245 3.7727 21.4218C3.67578 21.0191 3.92367 20.614 4.32638 20.5171C6.20902 20.064 7.52319 18.3625 7.48586 16.4264C7.44512 14.313 8.59251 12.3551 10.4562 11.3578L12.4246 10.3045C12.7898 10.1091 13.2443 10.2468 13.4397 10.612Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.57542 10.2795C8.23506 8.97044 10.4885 8.70216 12.4091 9.58501C12.7854 9.75802 12.9503 10.2034 12.7773 10.5797C12.6043 10.9561 12.1589 11.1209 11.7826 10.9479C10.3741 10.3005 8.72151 10.4972 7.50439 11.4573C6.15419 12.5223 4.44001 12.882 2.84553 12.5422C2.44042 12.4559 2.182 12.0575 2.26834 11.6523C2.35468 11.2472 2.75308 10.9888 3.15819 11.0752C4.32932 11.3247 5.58576 11.0602 6.57542 10.2795Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7144 11.2063C14.0509 11.4479 14.1277 11.9165 13.8861 12.2529C12.7565 13.8257 12.8727 15.9725 14.1655 17.4141C14.4421 17.7225 14.4162 18.1967 14.1079 18.4732C13.7995 18.7498 13.3253 18.724 13.0488 18.4156C11.2859 16.4498 11.1274 13.5225 12.6678 11.3779C12.9094 11.0415 13.378 10.9646 13.7144 11.2063Z" fill="black"/> </svg> ',
     category: 'Game',
-    style: IconfyStyle.light,
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wifi controller icon with style variants.
+class _GameWifiController1Icon {
+  const _GameWifiController1Icon();
+
+  /// outline style
+  _GameWifiController1Outline get outline => const _GameWifiController1Outline();
+}
+
+/// Wifi controller — outline style variants.
+class _GameWifiController1Outline {
+  const _GameWifiController1Outline();
+
+  /// Wifi controller — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wifi controller',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.82486 21.3474C5.29043 21.3435 4.7609 21.245 4.26083 21.0564C2.17583 20.2074 2.23383 17.8364 2.25283 17.0564C2.25283 17.0164 2.37486 9.60142 5.69186 7.86742L5.85781 7.79042C6.58094 7.40151 7.3939 7.21031 8.21456 7.23612C9.03523 7.26193 9.83456 7.50384 10.5318 7.93742C11.7708 8.67542 12.0808 8.80242 13.4538 7.94542C14.1548 7.50662 14.9597 7.26171 15.7863 7.23571C16.6129 7.20971 17.4316 7.40354 18.1588 7.79742L18.2669 7.84642L18.3089 7.86742C21.6469 9.61242 21.7489 17.0184 21.7469 17.0914C21.7669 17.8354 21.8268 20.2054 19.7638 21.0464C19.1698 21.3003 18.5213 21.3999 17.8784 21.3361C17.2356 21.2723 16.6193 21.0471 16.0868 20.6814C15.7653 20.4331 15.482 20.139 15.2458 19.8084C15.0053 19.453 14.6856 19.1583 14.3119 18.9474C12.8148 18.4431 11.194 18.4413 9.69583 18.9424C9.29751 19.157 8.95791 19.466 8.70681 19.8424C8.49 20.1638 8.2218 20.4472 7.91287 20.6814C7.30736 21.1237 6.57461 21.3574 5.82486 21.3474ZM8.08883 8.72842C7.53027 8.74502 6.98296 8.88938 6.48886 9.15042L6.34286 9.21742C4.20786 10.3354 3.74284 16.0584 3.74984 17.0644C3.70284 18.9644 4.28583 19.4484 4.79983 19.6584C5.15374 19.8222 5.54398 19.8916 5.93264 19.8598C6.3213 19.8281 6.69517 19.6964 7.01785 19.4774C7.20485 19.3312 7.36606 19.1548 7.49484 18.9554C7.86805 18.4109 8.36407 17.9619 8.94284 17.6444C10.9049 16.8832 13.0808 16.8832 15.0429 17.6444C15.5927 17.9536 16.0669 18.3812 16.4309 18.8964C16.5834 19.1172 16.7673 19.3146 16.9768 19.4824C17.304 19.7021 17.6824 19.8332 18.0753 19.8632C18.4682 19.8932 18.8622 19.8209 19.2188 19.6534C19.7078 19.4534 20.2919 18.9724 20.2439 17.0984C20.2509 16.0644 19.7969 10.3704 17.6269 9.21042L17.5268 9.16542C17.0253 8.87809 16.4554 8.73169 15.8775 8.74173C15.2995 8.75176 14.7351 8.91785 14.2439 9.22242C12.3789 10.3884 11.4438 10.2374 9.76083 9.23042C9.26001 8.91307 8.68163 8.73942 8.08883 8.72842Z" fill="black"/> <path d="M14.5723 14.208C14.474 14.2085 14.3767 14.1897 14.2858 14.1525C14.1949 14.1153 14.1122 14.0605 14.0425 13.9913C13.9728 13.9221 13.9175 13.8398 13.8797 13.7491C13.8419 13.6585 13.8224 13.5612 13.8223 13.463V13.453C13.8233 13.3049 13.868 13.1604 13.951 13.0377C14.0341 12.915 14.1516 12.8197 14.2887 12.7637C14.4258 12.7077 14.5765 12.6935 14.7216 12.723C14.8668 12.7525 14.9999 12.8244 15.1043 12.9294C15.2087 13.0345 15.2796 13.1682 15.3082 13.3135C15.3367 13.4589 15.3216 13.6094 15.2646 13.7462C15.2077 13.8829 15.1116 13.9998 14.9884 14.0819C14.8652 14.1641 14.7204 14.208 14.5723 14.208Z" fill="black"/> <path d="M17.4414 14.208C17.3432 14.2085 17.2459 14.1897 17.155 14.1525C17.0641 14.1153 16.9814 14.0605 16.9117 13.9913C16.842 13.9221 16.7867 13.8398 16.7489 13.7491C16.7111 13.6585 16.6915 13.5612 16.6914 13.463V13.453C16.6924 13.3049 16.7372 13.1604 16.8203 13.0377C16.9033 12.915 17.0207 12.8197 17.1578 12.7637C17.295 12.7077 17.4456 12.6935 17.5908 12.723C17.7359 12.7525 17.8691 12.8244 17.9735 12.9294C18.0779 13.0345 18.1488 13.1682 18.1774 13.3135C18.2059 13.4589 18.1908 13.6094 18.1339 13.7462C18.0769 13.8829 17.9808 13.9998 17.8576 14.0819C17.7344 14.1641 17.5895 14.208 17.4414 14.208Z" fill="black"/> <path d="M16.0109 12.7734C15.8115 12.7734 15.6202 12.6946 15.4788 12.5541C15.3373 12.4136 15.2572 12.2228 15.2559 12.0234C15.2553 11.9252 15.2742 11.8279 15.3114 11.737C15.3486 11.6461 15.4034 11.5634 15.4726 11.4937C15.5418 11.424 15.6241 11.3687 15.7147 11.3309C15.8054 11.2931 15.9026 11.2736 16.0009 11.2734H16.0109C16.2098 11.2734 16.4006 11.3525 16.5412 11.4931C16.6819 11.6338 16.7609 11.8245 16.7609 12.0234C16.7609 12.2223 16.6819 12.4131 16.5412 12.5538C16.4006 12.6944 16.2098 12.7734 16.0109 12.7734Z" fill="black"/> <path d="M16.0109 15.6426C15.8115 15.6426 15.6202 15.5637 15.4788 15.4232C15.3373 15.2827 15.2572 15.0919 15.2559 14.8926C15.2553 14.7944 15.2742 14.697 15.3114 14.6061C15.3486 14.5152 15.4034 14.4325 15.4726 14.3628C15.5418 14.2932 15.6241 14.2378 15.7147 14.2C15.8054 14.1622 15.9026 14.1427 16.0009 14.1426H16.0109C16.2098 14.1426 16.4006 14.2216 16.5412 14.3622C16.6819 14.5029 16.7609 14.6937 16.7609 14.8926C16.7609 15.0915 16.6819 15.2823 16.5412 15.4229C16.4006 15.5636 16.2098 15.6426 16.0109 15.6426Z" fill="black"/> <path d="M7.99945 15.6366C7.80054 15.6366 7.60977 15.5576 7.46912 15.417C7.32846 15.2763 7.24945 15.0855 7.24945 14.8866V14.2016H6.56445C6.36554 14.2016 6.17477 14.1226 6.03412 13.982C5.89347 13.8413 5.81445 13.6505 5.81445 13.4516C5.81445 13.2527 5.89347 13.0619 6.03412 12.9213C6.17477 12.7806 6.36554 12.7016 6.56445 12.7016H7.24945V12.0156C7.24945 11.8167 7.32846 11.6259 7.46912 11.4853C7.60977 11.3446 7.80054 11.2656 7.99945 11.2656C8.19836 11.2656 8.38913 11.3446 8.52979 11.4853C8.67044 11.6259 8.74945 11.8167 8.74945 12.0156V12.7016H9.43347C9.63238 12.7016 9.82315 12.7806 9.96381 12.9213C10.1045 13.0619 10.1835 13.2527 10.1835 13.4516C10.1835 13.6505 10.1045 13.8413 9.96381 13.982C9.82315 14.1226 9.63238 14.2016 9.43347 14.2016H8.74945V14.8846C8.74971 14.9833 8.73051 15.081 8.69293 15.1723C8.65536 15.2635 8.60019 15.3464 8.53052 15.4162C8.46085 15.4861 8.37805 15.5415 8.28693 15.5793C8.1958 15.6172 8.09811 15.6366 7.99945 15.6366Z" fill="black"/> <path d="M13.1934 7.25956C13.095 7.25966 12.9975 7.24037 12.9066 7.2028C12.8156 7.16522 12.733 7.11009 12.6634 7.04056C12.4847 6.87024 12.2472 6.77523 12.0004 6.77523C11.7535 6.77523 11.5161 6.87024 11.3373 7.04056C11.1966 7.18126 11.0059 7.2603 10.8069 7.2603C10.6079 7.2603 10.4171 7.18126 10.2764 7.04056C10.1357 6.89987 10.0566 6.70904 10.0566 6.51006C10.0566 6.31109 10.1357 6.12026 10.2764 5.97956C10.7412 5.53693 11.3585 5.29004 12.0004 5.29004C12.6422 5.29004 13.2595 5.53693 13.7244 5.97956C13.8292 6.08451 13.9005 6.21818 13.9294 6.36367C13.9582 6.50916 13.9433 6.65994 13.8865 6.79695C13.8296 6.93395 13.7334 7.05103 13.61 7.13337C13.4867 7.21572 13.3417 7.25963 13.1934 7.25956Z" fill="black"/> <path d="M14.389 5.1314C14.2904 5.13157 14.1928 5.11232 14.1017 5.07474C14.0106 5.03717 13.9277 4.982 13.858 4.9124C13.3654 4.4207 12.698 4.14454 12.002 4.14454C11.3061 4.14454 10.6385 4.4207 10.146 4.9124C10.0053 5.05309 9.81445 5.13214 9.61548 5.13214C9.4165 5.13214 9.22572 5.05309 9.08502 4.9124C8.94432 4.7717 8.86523 4.58087 8.86523 4.3819C8.86523 4.18292 8.94432 3.99209 9.08502 3.8514C9.8594 3.07916 10.9084 2.64551 12.002 2.64551C13.0956 2.64551 14.1446 3.07916 14.919 3.8514C15.0238 3.95628 15.0951 4.08986 15.124 4.23526C15.1528 4.38066 15.138 4.53136 15.0813 4.66832C15.0246 4.80528 14.9286 4.92237 14.8054 5.00479C14.6821 5.08721 14.5372 5.13127 14.389 5.1314Z" fill="black"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -3015,7 +3518,7 @@ class _GameTripleSevenLight {
   /// Triple Seven — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Triple Seven',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.98779 10.2622H8.45045C7.92423 10.8471 7.02239 12.3835 6.87179 13.7388M10.7686 10.2622H13.2312C12.705 10.8471 11.8032 12.3835 11.6526 13.7388M15.5493 10.2622H18.012C17.4858 10.8471 16.5839 12.3835 16.4333 13.7388" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3838 7.5H5.61617C2.32379 7.5 1.93744 16.5 5.61617 16.5H18.3838C22.0626 16.5 21.6762 7.5 18.3838 7.5Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7825 7.49988C17.9963 6.2558 17.2932 4.44824 15.7388 4.44824H8.26132C6.70695 4.44824 6.00384 6.2558 6.21768 7.49988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7825 16.5001C17.9963 17.7442 17.2932 19.5518 15.7388 19.5518H8.26132C6.70695 19.5518 6.00384 17.7442 6.21768 16.5001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.3079 9.13967C10.1595 8.50188 9.1893 9.47537 8.88478 10.2337C8.82078 10.3931 8.67548 10.5149 8.50372 10.5149H7.60387C7.18399 10.5149 6.85186 10.1595 6.88034 9.74054L7.11631 6.26907C7.14218 5.88852 7.45841 5.59305 7.83984 5.59305H8.22101C8.62152 5.59305 8.94621 5.91774 8.94621 6.31825V6.34567C9.43865 5.76957 11.02 4.89615 13.4061 6.01118C14.8488 6.78978 16.1096 6.4898 16.7249 6.10032C16.906 5.98566 17.1611 5.97544 17.3127 6.12703L18.0693 6.88359C18.3558 7.17013 18.3497 7.63582 18.0706 7.92957C14.6716 11.5063 13.8618 15.4263 13.7938 17.7724C13.7819 18.1844 13.454 18.5267 13.0418 18.5267H9.76125C9.38061 18.5267 9.06178 18.2309 9.05939 17.8503C9.03021 13.2004 12.1563 10.242 13.7974 9.31568C13.4053 9.32793 12.6411 9.20345 12.3079 9.13967Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5748 13.6912H21C20.2681 14.5046 19.0138 16.6416 18.8043 18.5267" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 13.6912H6.42524C5.69333 14.5046 4.43899 16.6416 4.22952 18.5267" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Game',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -3108,6 +3611,29 @@ class _GameCasinoGearBoldLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Casino Gear Bold',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 15.4844C13.9245 15.4844 15.4844 13.9241 15.4844 12C15.4844 10.0755 13.9245 8.51562 12 8.51562C10.0755 8.51562 8.51562 10.0755 8.51562 12C8.51562 13.9241 10.0755 15.4844 12 15.4844Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.65137 20.688L10.068 18.7798C11.5735 19.0582 12.4153 19.0537 13.913 18.7798L14.3486 20.688" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.65137 3.3125L10.068 5.2207C11.5735 4.94226 12.4153 4.94674 13.913 5.2207L14.3486 3.3125" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.30204 14.3101L5.16289 13.7167C5.6745 15.1598 6.09932 15.8866 7.08539 17.0466L5.65064 18.378" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3493 5.62231L16.9051 6.9372C17.899 8.10179 18.316 8.8331 18.8276 10.2671L20.6979 9.69022" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.30204 9.69019L5.16289 10.2835C5.6745 8.84048 6.09932 8.11364 7.08539 6.95364L5.65064 5.62228" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3493 18.3779L16.9051 17.063C17.899 15.8985 18.316 15.1671 18.8276 13.7332L20.6979 14.31" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Casino Gear Bold  1 icon with style variants.
+class _GameCasinoGearBold1Icon {
+  const _GameCasinoGearBold1Icon();
+
+  /// light style
+  _GameCasinoGearBold1Light get light => const _GameCasinoGearBold1Light();
+}
+
+/// Casino Gear Bold  1 — light style variants.
+class _GameCasinoGearBold1Light {
+  const _GameCasinoGearBold1Light();
+
+  /// Casino Gear Bold  1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Casino Gear Bold  1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 15.4844C13.9245 15.4844 15.4844 13.9241 15.4844 12C15.4844 10.0755 13.9245 8.51562 12 8.51562C10.0755 8.51562 8.51562 10.0755 8.51562 12C8.51562 13.9241 10.0755 15.4844 12 15.4844Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.65137 20.6687L10.068 18.4148C11.5735 18.7437 12.4153 18.7384 13.913 18.4148L14.3486 20.6687" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.65137 3.40649L10.068 5.6604C11.5735 5.33152 12.4153 5.3368 13.913 5.6604L14.3486 3.40649" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.35092 14.3191L5.51115 13.5529C5.97909 15.0212 6.4046 15.7476 7.43365 16.8828L5.69952 18.387" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3004 5.68799L16.5568 7.17572C17.5944 8.31509 18.0107 9.04681 18.4793 10.5056L20.649 9.7559" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.35079 9.75586L5.51103 10.522C5.97896 9.05378 6.40448 8.32734 7.43353 7.19216L5.6994 5.68795" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3006 18.387L16.5569 16.8992C17.5945 15.7599 18.0109 15.0281 18.4794 13.5694L20.6492 14.3191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Game',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -4012,6 +4538,29 @@ class _GameButtonYCircleLight {
 
 }
 
+/// bowed kite icon with style variants.
+class _GameBowedKite1Icon {
+  const _GameBowedKite1Icon();
+
+  /// light style
+  _GameBowedKite1Light get light => const _GameBowedKite1Light();
+}
+
+/// bowed kite — light style variants.
+class _GameBowedKite1Light {
+  const _GameBowedKite1Light();
+
+  /// bowed kite — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'bowed kite',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.4736 17.6348L9.57422 7.38955L17.335 4.55518L20.3304 12.2431L11.4736 17.6348Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.57227 7.39355C14.5503 7.9278 16.9187 9.08208 20.324 12.2406" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.4602 17.6851C11.4772 19.1283 10.3954 21.4333 5.89686 20.5865C4.53121 20.3294 3.50801 20.383 2.75 20.6205" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.86328 17.4042C8.19237 16.4454 9.51119 19.0628 11.4375 17.6577" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3301 4.55664L11.4961 17.5792" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.3418 2.4917H9.3318" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4167 17.9405C18.8802 17.7867 17.6614 17.7887 17.0774 19.0265" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.58157 11.0583C4.7962 10.2287 4.62665 9.56248 4.3186 9.06152" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Dpad Touch Right icon with style variants.
 class _GameDpadTouchRightIcon {
   const _GameDpadTouchRightIcon();
@@ -4327,6 +4876,98 @@ class _GamePlaystationMinusButtonLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'PlayStation Minus Button',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 6.9711C3 5.60635 4.06025 4.5 5.36814 4.5H18.6319C19.9397 4.5 21 5.60635 21 6.9711V13.6304C21 16.8721 18.4816 19.5 15.375 19.5H8.625C5.5184 19.5 3 16.8721 3 13.6304V6.9711Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.37988 15.0291H16.5815" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delta Kite icon with style variants.
+class _GameDeltaKite4Icon {
+  const _GameDeltaKite4Icon();
+
+  /// light style
+  _GameDeltaKite4Light get light => const _GameDeltaKite4Light();
+}
+
+/// Delta Kite — light style variants.
+class _GameDeltaKite4Light {
+  const _GameDeltaKite4Light();
+
+  /// Delta Kite — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delta Kite',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0001 2.5824C7.91593 5.89759 5.95071 7.89864 3.10156 11.7906C7.09351 8.97421 10.5637 9.62539 12.0001 13.1852C13.4365 9.62539 16.9062 8.97421 20.8982 11.7906C18.049 7.89864 16.0843 5.89759 12.0001 2.5824Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.625 10.131C9.49641 8.74642 9.50286 7.13341 8.625 5.5011" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3047 10.131C14.4333 8.74642 14.4268 7.13341 15.3047 5.5011" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8599 21.4176C11.334 18.4787 12.7872 18.2598 12.0351 15.4813" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.66703 18.4012C3.53957 17.0021 4.41941 16.6981 4.0228 15.2464" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.8877 18.4012C19.7603 17.0021 20.6401 16.6981 20.2435 15.2464" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 13.1595V2.5824" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delta Kite 1 icon with style variants.
+class _GameDeltaKite11Icon {
+  const _GameDeltaKite11Icon();
+
+  /// light style
+  _GameDeltaKite11Light get light => const _GameDeltaKite11Light();
+}
+
+/// Delta Kite 1 — light style variants.
+class _GameDeltaKite11Light {
+  const _GameDeltaKite11Light();
+
+  /// Delta Kite 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delta Kite 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.2494 3.13672L6.22217 6.20714C8.86147 7.13628 13.6472 9.84294 11.6758 13.2364C16.2974 10.5216 18.8533 14.3676 19.5535 16.6299L21.2494 3.13672Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.83 4.45898C14.9912 5.76515 14.4707 9.61566 11.6914 13.2354" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.4607 9.29114C18.4539 9.7087 13.7575 11.2272 11.6895 13.2309" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.7646 9.98078C6.7646 9.98078 5.50312 9.11761 4.80734 10.8829C4.32524 12.1061 3.49598 11.943 2.75 11.6312" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.5196 20.1916C11.5196 20.1916 13.0316 20.3788 13.4912 18.8007C14.042 16.9098 15.2959 16.9892 16.0493 17.4419" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.75933 19.0505C4.78929 19.9013 6.67683 19.8031 6.92326 17.2701C7.18889 14.5397 9.23164 14.5983 10.0556 15.3797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delta Kite 2 icon with style variants.
+class _GameDeltaKite21Icon {
+  const _GameDeltaKite21Icon();
+
+  /// light style
+  _GameDeltaKite21Light get light => const _GameDeltaKite21Light();
+}
+
+/// Delta Kite 2 — light style variants.
+class _GameDeltaKite21Light {
+  const _GameDeltaKite21Light();
+
+  /// Delta Kite 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delta Kite 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0001 2.5824C7.91593 5.89759 5.95071 7.89864 3.10156 11.7906C7.09351 8.97421 10.5637 9.62539 12.0001 13.1852C13.4365 9.62539 16.9062 8.97421 20.8982 11.7906C18.049 7.89864 16.0843 5.89759 12.0001 2.5824Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.625 10.131C9.49641 8.74642 9.50286 7.13341 8.625 5.5011" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3047 10.131C14.4333 8.74642 14.4268 7.13341 15.3047 5.5011" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8599 21.4176C11.334 18.4787 12.7872 18.2598 12.0351 15.4813" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.66703 18.4012C3.53957 17.0021 4.41941 16.6981 4.0228 15.2464" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.8877 18.4012C19.7603 17.0021 20.6401 16.6981 20.2435 15.2464" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 13.1595V2.5824" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Delta Kite 3 icon with style variants.
+class _GameDeltaKite31Icon {
+  const _GameDeltaKite31Icon();
+
+  /// light style
+  _GameDeltaKite31Light get light => const _GameDeltaKite31Light();
+}
+
+/// Delta Kite 3 — light style variants.
+class _GameDeltaKite31Light {
+  const _GameDeltaKite31Light();
+
+  /// Delta Kite 3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Delta Kite 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0002 2.75C7.88708 4.81841 4.68308 8.52744 2.97363 12.9458C7.02354 10.0885 10.543 12.3296 12.0002 15.9411C13.4574 12.3296 16.9768 10.0885 21.0268 12.9458C19.3173 8.52744 16.1133 4.81841 12.0002 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.51611 8.28561C7.18255 6.33073 10.9545 6.83724 12.0015 9.43214C13.0486 6.83724 16.8205 6.33073 18.4869 8.28561" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.1063 18.7986C12.272 19.9226 12.1554 20.628 11.9566 21.2392" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.5471 18.7986C3.41779 17.3791 4.3104 17.0707 3.90803 15.5979" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.0036 18.7986C19.8743 17.3791 20.7669 17.0707 20.3646 15.5979" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0015 2.75V15.8603" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Game',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -5016,7 +5657,7 @@ class _GameCrownWinLight {
   /// Crown Win — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Crown Win',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.3838 9.37378H5.61617C2.32379 9.37378 1.93744 18.3738 5.61617 18.3738H18.3838C22.0626 18.3738 21.6762 9.37378 18.3838 9.37378Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.96484 21.0278H17.0351" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.19323 9.37378L6.91846 5.27143C7.90062 6.73202 10.292 8.231 12 4.72559C13.7081 8.231 16.0994 6.73202 17.0816 5.27143L15.8068 9.37378" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="11.9998" cy="3.84888" r="0.876709" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4995 15.6233V12.1243L17.6656 15.6233V12.1243" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.33447 12.1243L6.99416 15.6233L8.50406 12.807L10.014 15.6233L10.6738 12.1243" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.9663 12.1243V15.6022" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.18311 4.62801V8.32812H15.6831V4.62801L13.485 5.79058L11.9332 3.32812L10.3812 5.79058L8.18311 4.62801Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.27612 8.32812H4.27612" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.7239 8.32812L20.7239 8.32812" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.519 5.82812L19.2261 5.12102" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.4809 5.82812L4.77379 5.12102" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.6774 11.3816H5.32258C4.03985 11.3816 3 12.4214 3 13.7042V18.3493C3 19.6321 4.03985 20.6719 5.32258 20.6719H18.6774C19.9601 20.6719 21 19.6321 21 18.3493V13.7042C21 12.4214 19.9601 11.3816 18.6774 11.3816Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4994 17.7761V14.2771L17.6656 17.7761V14.2771" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.33441 14.2771L6.99409 17.7761L8.50399 14.9598L10.0139 17.7761L10.6738 14.2771" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.9662 14.2771V17.7551" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Game',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -5109,6 +5750,29 @@ class _GameClubCardLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Club card',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16 6V6.01" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8 18V18.01" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.973 13.4699C12.5 14.1699 13.2133 14.2641 13.6737 14.2749C14.3392 14.3012 14.9812 13.9364 15.277 13.3317C15.7079 12.4624 15.2865 11.3627 14.3765 11.0068C14.0178 10.8657 13.6107 10.8527 13.2434 10.9694C13.6885 10.4525 13.7883 9.69797 13.4735 9.08755C13.124 8.40144 12.3182 8.03239 11.5696 8.21744C10.9911 8.35719 10.5154 8.81069 10.3492 9.38262C10.1854 9.93667 10.3276 10.5286 10.6933 10.9674C10.3015 10.8662 9.9038 10.8636 9.52441 11.0263C8.70606 11.3748 8.29074 12.3436 8.6051 13.1728C8.84653 13.8181 9.48054 14.2638 10.1705 14.2682C10.6576 14.269 11.5 14.1699 11.973 13.4699ZM11.973 13.4699C11.973 15.4351 11.9766 15.8783 11.9766 15.8783" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.71946 3H15.2798C17.5728 3 19 4.6187 19 6.90941V17.0906C19 19.3813 17.5728 21 15.279 21H8.71946C6.42573 21 5 19.3813 5 17.0906V6.90941C5 4.6187 6.4333 3 8.71946 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Club card  1 icon with style variants.
+class _GameClubCard1Icon {
+  const _GameClubCard1Icon();
+
+  /// light style
+  _GameClubCard1Light get light => const _GameClubCard1Light();
+}
+
+/// Club card  1 — light style variants.
+class _GameClubCard1Light {
+  const _GameClubCard1Light();
+
+  /// Club card  1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Club card  1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.5 6V6.01" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.5 18V18.01" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.473 13.4699C11 14.1699 11.7133 14.2641 12.1737 14.2749C12.8392 14.3012 13.4812 13.9364 13.777 13.3317C14.2079 12.4624 13.7865 11.3627 12.8765 11.0068C12.5178 10.8657 12.1107 10.8527 11.7434 10.9694C12.1885 10.4525 12.2883 9.69797 11.9735 9.08755C11.624 8.40144 10.8182 8.03239 10.0696 8.21744C9.49113 8.35719 9.01543 8.81069 8.84915 9.38262C8.68543 9.93667 8.82759 10.5286 9.19332 10.9674C8.80146 10.8662 8.4038 10.8636 8.02441 11.0263C7.20606 11.3748 6.79074 12.3436 7.1051 13.1728C7.34653 13.8181 7.98054 14.2638 8.67055 14.2682C9.1576 14.269 10 14.1699 10.473 13.4699ZM10.473 13.4699C10.473 15.4351 10.4766 15.8783 10.4766 15.8783" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.21946 3H13.7798C16.0728 3 17.5 4.6187 17.5 6.90941V17.0906C17.5 19.3813 16.0728 21 13.779 21H7.21946C4.92573 21 3.5 19.3813 3.5 17.0906V6.90941C3.5 4.6187 4.9333 3 7.21946 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.2192 3H16.7796C19.0725 3 20.4998 4.6187 20.4998 6.90941V17.0906C20.4998 19.3813 19.0725 21 16.7788 21H10.2192" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Game',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -5660,6 +6324,29 @@ class _GameR2ButtonRoundedBoldLight {
   /// R2 Button Rounded Bold — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'R2 Button Rounded Bold',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2061 12.5258C12.2061 11.7855 12.807 11.1846 13.5473 11.1846C14.2876 11.1846 14.8885 11.7855 14.8885 12.5258C14.8885 12.9195 14.7849 13.1949 14.623 13.4719C14.2915 14.0392 13.7048 14.5875 13.2599 15.0625L12.207 16.1868H14.8885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.11133 16.1907V14.0568M7.11133 14.0568V11.2394L8.78806 11.1846C9.55421 11.1846 10.1799 11.7969 10.1964 12.5628C10.2135 13.3526 9.57798 14.002 8.78806 14.002L7.11133 14.0568ZM8.8274 14.0374L10.0684 16.1868" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.06722 18.5046C3.11438 19.8846 4.29124 21 5.72144 21H18.5399C19.9701 21 21.1314 19.8819 20.988 18.5082C20.3685 12.5748 17.5707 3 9.78887 3C2.65117 3 2.86722 12.6521 3.06722 18.5046Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// R2 Button Rounded Bold  1 icon with style variants.
+class _GameR2ButtonRoundedBold1Icon {
+  const _GameR2ButtonRoundedBold1Icon();
+
+  /// light style
+  _GameR2ButtonRoundedBold1Light get light => const _GameR2ButtonRoundedBold1Light();
+}
+
+/// R2 Button Rounded Bold  1 — light style variants.
+class _GameR2ButtonRoundedBold1Light {
+  const _GameR2ButtonRoundedBold1Light();
+
+  /// R2 Button Rounded Bold  1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'R2 Button Rounded Bold  1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.40833 9.49902V14.501H10.8999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.9093 10.8402C12.9093 10.0999 13.5102 9.49902 14.2505 9.49902C14.9908 9.49902 15.5918 10.0999 15.5918 10.8402C15.5918 11.234 15.4881 11.5093 15.3263 11.7863C14.9948 12.3536 14.4081 12.9019 13.9632 13.377L12.9102 14.5012H15.5918" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.78216 4.5H16.2169C19.165 4.5 21 6.58119 21 9.52638V14.4736C21 17.4188 19.165 19.5 16.2159 19.5H7.78216C4.83308 19.5 3 17.4188 3 14.4736V9.52638C3 6.58119 4.84281 4.5 7.78216 4.5Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Game',
     style: IconfyStyle.light,
@@ -5890,6 +6577,29 @@ class _GamePokerChipLight {
   /// Poker Chip — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Poker Chip',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle cx="12" cy="12.1313" r="6" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="12" cy="12.1313" r="9" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 6.13135L12 3.13135" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 21.1313L12 18.1313" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1988 9.12695L19.7969 7.62695" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.20808 16.627L6.80615 15.127" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1988 15.127L19.7969 16.627" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.20808 7.62695L6.80615 9.12695" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Poker Chip  1 icon with style variants.
+class _GamePokerChip1Icon {
+  const _GamePokerChip1Icon();
+
+  /// light style
+  _GamePokerChip1Light get light => const _GamePokerChip1Light();
+}
+
+/// Poker Chip  1 — light style variants.
+class _GamePokerChip1Light {
+  const _GamePokerChip1Light();
+
+  /// Poker Chip  1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Poker Chip  1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.96999 20.0497L9.3824 17.2339" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="12" cy="12" r="9" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="12.0002" cy="11.9999" r="5.85" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0302 3.9502L14.6178 6.76603" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0302 20.0497L14.6178 17.2339" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.96999 3.9502L9.3824 6.76603" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.95015 7.96997L6.76598 9.38239" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.0495 16.0301L17.2337 14.6177" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.95015 16.0301L6.76598 14.6177" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.0495 7.96997L17.2337 9.38239" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 10V14" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Game',
     style: IconfyStyle.light,
@@ -6473,6 +7183,29 @@ class _GameGamepadClassicGripLight {
 
 }
 
+/// Crown Win icon with style variants.
+class _GameCrownWin1Icon {
+  const _GameCrownWin1Icon();
+
+  /// light style
+  _GameCrownWin1Light get light => const _GameCrownWin1Light();
+}
+
+/// Crown Win — light style variants.
+class _GameCrownWin1Light {
+  const _GameCrownWin1Light();
+
+  /// Crown Win — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Crown Win',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.3838 9.37378H5.61617C2.32379 9.37378 1.93744 18.3738 5.61617 18.3738H18.3838C22.0626 18.3738 21.6762 9.37378 18.3838 9.37378Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.96484 21.0278H17.0351" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.19323 9.37378L6.91846 5.27143C7.90062 6.73202 10.292 8.231 12 4.72559C13.7081 8.231 16.0994 6.73202 17.0816 5.27143L15.8068 9.37378" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="11.9998" cy="3.84888" r="0.876709" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4995 15.6233V12.1243L17.6656 15.6233V12.1243" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.33447 12.1243L6.99416 15.6233L8.50406 12.807L10.014 15.6233L10.6738 12.1243" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.9663 12.1243V15.6022" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Seven Icon shape icon with style variants.
 class _GameSevenIconShapeIcon {
   const _GameSevenIconShapeIcon();
@@ -6887,6 +7620,29 @@ class _GamePlaystationCircleLight {
 
 }
 
+/// PlayStation Circle  1 icon with style variants.
+class _GamePlaystationCircle1Icon {
+  const _GamePlaystationCircle1Icon();
+
+  /// light style
+  _GamePlaystationCircle1Light get light => const _GamePlaystationCircle1Light();
+}
+
+/// PlayStation Circle  1 — light style variants.
+class _GamePlaystationCircle1Light {
+  const _GamePlaystationCircle1Light();
+
+  /// PlayStation Circle  1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'PlayStation Circle  1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.5 12C8.5 10.067 10.067 8.5 12 8.5C13.933 8.5 15.5 10.067 15.5 12C15.5 13.933 13.933 15.5 12 15.5C10.067 15.5 8.5 13.933 8.5 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Seven Icon circle mid icon with style variants.
 class _GameSevenIconCircleMidIcon {
   const _GameSevenIconCircleMidIcon();
@@ -7086,6 +7842,29 @@ class _GamePlaystationSquareLight {
   /// PlayStation Square — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'PlayStation Square',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <rect x="9" y="9" width="6" height="6" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// PlayStation Square  1 icon with style variants.
+class _GamePlaystationSquare1Icon {
+  const _GamePlaystationSquare1Icon();
+
+  /// light style
+  _GamePlaystationSquare1Light get light => const _GamePlaystationSquare1Light();
+}
+
+/// PlayStation Square  1 — light style variants.
+class _GamePlaystationSquare1Light {
+  const _GamePlaystationSquare1Light();
+
+  /// PlayStation Square  1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'PlayStation Square  1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <rect x="9" y="9" width="6" height="6" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Game',
     style: IconfyStyle.light,
@@ -7439,6 +8218,29 @@ class _GameButtonBSquareLight {
 
 }
 
+/// Triple Seven icon with style variants.
+class _GameTripleSeven2Icon {
+  const _GameTripleSeven2Icon();
+
+  /// light style
+  _GameTripleSeven2Light get light => const _GameTripleSeven2Light();
+}
+
+/// Triple Seven — light style variants.
+class _GameTripleSeven2Light {
+  const _GameTripleSeven2Light();
+
+  /// Triple Seven — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Triple Seven',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.98779 10.2622H8.45045C7.92423 10.8471 7.02239 12.3835 6.87179 13.7388M10.7686 10.2622H13.2312C12.705 10.8471 11.8032 12.3835 11.6526 13.7388M15.5493 10.2622H18.012C17.4858 10.8471 16.5839 12.3835 16.4333 13.7388" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3838 7.5H5.61617C2.32379 7.5 1.93744 16.5 5.61617 16.5H18.3838C22.0626 16.5 21.6762 7.5 18.3838 7.5Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7825 7.49988C17.9963 6.2558 17.2932 4.44824 15.7388 4.44824H8.26132C6.70695 4.44824 6.00384 6.2558 6.21768 7.49988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7825 16.5001C17.9963 17.7442 17.2932 19.5518 15.7388 19.5518H8.26132C6.70695 19.5518 6.00384 17.7442 6.21768 16.5001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Poker Chip diamond icon with style variants.
 class _GamePokerChipDiamondIcon {
   const _GamePokerChipDiamondIcon();
@@ -7455,6 +8257,75 @@ class _GamePokerChipDiamondLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Poker Chip diamond',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3789 15.8095V15.8095C13.3195 14.5522 14.3962 13.4028 15.5894 12.3822L15.6092 12.3652C15.7162 12.2737 15.7778 12.14 15.7778 11.9992C15.7778 11.8585 15.7162 11.7247 15.6092 11.6332L15.5894 11.6163C14.3962 10.5956 13.3195 9.44625 12.3789 8.18905V8.18905C12.2896 8.0696 12.1491 7.99927 12 7.99927C11.8508 7.99927 11.7104 8.0696 11.621 8.18905V8.18905C10.6804 9.44628 9.60369 10.5957 8.41052 11.6163L8.39071 11.6333C8.28375 11.7248 8.22217 11.8585 8.22217 11.9993C8.22217 12.1401 8.28375 12.2738 8.39071 12.3653L8.41052 12.3822C9.60369 13.4029 10.6804 14.5523 11.621 15.8095V15.8095C11.7104 15.929 11.8508 15.9993 12 15.9993C12.1491 15.9993 12.2896 15.9289 12.3789 15.8095V15.8095Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3639 5.63604C20.9379 8.21002 21.7079 12.0811 20.3149 15.4442C18.9219 18.8072 15.6401 21 12 21C8.35983 21 5.0781 18.8072 3.68507 15.4442C2.29204 12.0811 3.06205 8.21002 5.63603 5.63604C9.15075 2.12132 14.8492 2.12132 18.3639 5.63604" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// flat kite icon with style variants.
+class _GameFlatKite3Icon {
+  const _GameFlatKite3Icon();
+
+  /// light style
+  _GameFlatKite3Light get light => const _GameFlatKite3Light();
+}
+
+/// flat kite — light style variants.
+class _GameFlatKite3Light {
+  const _GameFlatKite3Light();
+
+  /// flat kite — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'flat kite',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.7508 20.2898C19.7613 14.893 20.9187 7.40392 20.3711 4.33397C18.4304 4.17738 13.5186 4.03444 10.7508 2.75C11.2789 4.47077 11.7602 8.59278 9.46045 11.3146C10.6031 11.7837 12.1925 13.3616 12.397 15.5099" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.9479 20.1807C5.03499 23.5597 1.57539 18.2175 4.87166 14.0478C7.49455 10.9722 6.26558 8.46536 3.51562 8.86942" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.51807 11.2677C14.5437 9.94765 16.9579 8.62147 20.2773 4.45227" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.7866 2.77515C14.5111 5.3388 18.9586 14.9948 10.8044 20.2388" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5825 19.4404C17.9276 20.4219 17.5137 20.7479 16.7134 21.1392" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// flat kite 1 icon with style variants.
+class _GameFlatKite11Icon {
+  const _GameFlatKite11Icon();
+
+  /// light style
+  _GameFlatKite11Light get light => const _GameFlatKite11Light();
+}
+
+/// flat kite 1 — light style variants.
+class _GameFlatKite11Light {
+  const _GameFlatKite11Light();
+
+  /// flat kite 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'flat kite 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.52507 2.75L5.35449 9.97563L13.3861 17.1595L16.7511 6.92193L9.52507 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.12793 21.25C6.1284 20.3376 7.24452 18.8788 10.787 20.0265C13.2424 20.822 14.4206 19.1521 13.2957 17.0113" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.50488 9.95947L16.6156 6.98236" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.57129 2.91602L13.3877 17.1592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.6357 16.3101H18.6457" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.49512 15.4756H5.50512" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.751 2.75H16.761" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// flat kite 2 icon with style variants.
+class _GameFlatKite21Icon {
+  const _GameFlatKite21Icon();
+
+  /// light style
+  _GameFlatKite21Light get light => const _GameFlatKite21Light();
+}
+
+/// flat kite 2 — light style variants.
+class _GameFlatKite21Light {
+  const _GameFlatKite21Light();
+
+  /// flat kite 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'flat kite 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.52507 2.75L5.35449 9.97563L13.3861 17.1595L16.7511 6.92193L9.52507 2.75Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.12793 21.25C6.1284 20.3376 7.24452 18.8788 10.787 20.0265C13.2424 20.822 14.4206 19.1521 13.2957 17.0113" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.50488 9.95947L16.6156 6.98236" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.57129 2.91602L13.3877 17.1592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.6357 16.3101H18.6457" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.49512 15.4756H5.50512" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.751 2.75H16.761" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Game',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -8244,6 +9115,29 @@ class _GamePlaystationTriangleLight {
 
 }
 
+/// PlayStation Triangle  1 icon with style variants.
+class _GamePlaystationTriangle1Icon {
+  const _GamePlaystationTriangle1Icon();
+
+  /// light style
+  _GamePlaystationTriangle1Light get light => const _GamePlaystationTriangle1Light();
+}
+
+/// PlayStation Triangle  1 — light style variants.
+class _GamePlaystationTriangle1Light {
+  const _GamePlaystationTriangle1Light();
+
+  /// PlayStation Triangle  1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'PlayStation Triangle  1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 8.34692L15.5 14.3469H8.5L12 8.34692Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Spade Circle icon with style variants.
 class _GameSpadeCircleIcon {
   const _GameSpadeCircleIcon();
@@ -8328,6 +9222,29 @@ class _GamePlaystationCrossLight {
   /// PlayStation Cross — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'PlayStation Cross',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9 15L12.0001 11.9998M12.0001 11.9998L15 9M12.0001 11.9998L15.0003 15M12.0001 11.9998L9.00031 9.00002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Game',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// PlayStation Cross  1 icon with style variants.
+class _GamePlaystationCross1Icon {
+  const _GamePlaystationCross1Icon();
+
+  /// light style
+  _GamePlaystationCross1Light get light => const _GamePlaystationCross1Light();
+}
+
+/// PlayStation Cross  1 — light style variants.
+class _GamePlaystationCross1Light {
+  const _GamePlaystationCross1Light();
+
+  /// PlayStation Cross  1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'PlayStation Cross  1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9 15L12.0001 11.9998M12.0001 11.9998L15 9M12.0001 11.9998L15.0003 15M12.0001 11.9998L9.00031 9.00002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Game',
     style: IconfyStyle.light,

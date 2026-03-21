@@ -10,14 +10,38 @@ class _ServerIcons {
 
   /// server rack
   _ServerServerRackIcon get serverRack => const _ServerServerRackIcon();
+  /// server rack 1
+  _ServerServerRack1Icon get serverRack1 => const _ServerServerRack1Icon();
+  /// server rack 2
+  _ServerServerRack2Icon get serverRack2 => const _ServerServerRack2Icon();
+  /// server rack 3
+  _ServerServerRack3Icon get serverRack3 => const _ServerServerRack3Icon();
   /// Servers connect
   _ServerServersConnectIcon get serversConnect => const _ServerServersConnectIcon();
+  /// Servers connect 1
+  _ServerServersConnect1Icon get serversConnect1 => const _ServerServersConnect1Icon();
+  /// Servers connect 2
+  _ServerServersConnect2Icon get serversConnect2 => const _ServerServersConnect2Icon();
+  /// Servers connect 3
+  _ServerServersConnect3Icon get serversConnect3 => const _ServerServersConnect3Icon();
+  /// Servers connect 4
+  _ServerServersConnect4Icon get serversConnect4 => const _ServerServersConnect4Icon();
+  /// Servers connect 5
+  _ServerServersConnect5Icon get serversConnect5 => const _ServerServersConnect5Icon();
   /// Server transfer
   _ServerServerTransferIcon get serverTransfer => const _ServerServerTransferIcon();
+  /// Server transfer 1
+  _ServerServerTransfer1Icon get serverTransfer1 => const _ServerServerTransfer1Icon();
   /// Server refresh
   _ServerServerRefreshIcon get serverRefresh => const _ServerServerRefreshIcon();
+  /// Server refresh 1
+  _ServerServerRefresh1Icon get serverRefresh1 => const _ServerServerRefresh1Icon();
+  /// Server refresh 2
+  _ServerServerRefresh2Icon get serverRefresh2 => const _ServerServerRefresh2Icon();
   /// Server privacy
   _ServerServerPrivacyIcon get serverPrivacy => const _ServerServerPrivacyIcon();
+  /// server-rack
+  _ServerServerRack4Icon get serverRack4 => const _ServerServerRack4Icon();
   /// Server charge
   _ServerServerChargeIcon get serverCharge => const _ServerServerChargeIcon();
   /// Server setting
@@ -26,6 +50,20 @@ class _ServerIcons {
   _ServerServersIcon get servers => const _ServerServersIcon();
   /// Server
   _ServerServerIcon get server => const _ServerServerIcon();
+  /// Server 1
+  _ServerServer1Icon get server1 => const _ServerServer1Icon();
+  /// Server 2
+  _ServerServer2Icon get server2 => const _ServerServer2Icon();
+  /// Server 3
+  _ServerServer3Icon get server3 => const _ServerServer3Icon();
+  /// Server 4
+  _ServerServer4Icon get server4 => const _ServerServer4Icon();
+  /// Server 5
+  _ServerServer5Icon get server5 => const _ServerServer5Icon();
+  /// Server 6
+  _ServerServer6Icon get server6 => const _ServerServer6Icon();
+  /// Server 7
+  _ServerServer7Icon get server7 => const _ServerServer7Icon();
   /// internet server
   _ServerInternetServerIcon get internetServer => const _ServerInternetServerIcon();
   /// Server search
@@ -46,8 +84,34 @@ class _ServerIcons {
   _ServerServerTreeIcon get serverTree => const _ServerServerTreeIcon();
   /// server connect
   _ServerServerConnectIcon get serverConnect => const _ServerServerConnectIcon();
+  /// server connect 1
+  _ServerServerConnect1Icon get serverConnect1 => const _ServerServerConnect1Icon();
+  /// server connect 2
+  _ServerServerConnect2Icon get serverConnect2 => const _ServerServerConnect2Icon();
+  /// server connect 3
+  _ServerServerConnect3Icon get serverConnect3 => const _ServerServerConnect3Icon();
+  /// server connect 4
+  _ServerServerConnect4Icon get serverConnect4 => const _ServerServerConnect4Icon();
+  /// server connect 5
+  _ServerServerConnect5Icon get serverConnect5 => const _ServerServerConnect5Icon();
+  /// server connect 6
+  _ServerServerConnect6Icon get serverConnect6 => const _ServerServerConnect6Icon();
+  /// server connect 7
+  _ServerServerConnect7Icon get serverConnect7 => const _ServerServerConnect7Icon();
+  /// server connect 8
+  _ServerServerConnect8Icon get serverConnect8 => const _ServerServerConnect8Icon();
+  /// server connect 9
+  _ServerServerConnect9Icon get serverConnect9 => const _ServerServerConnect9Icon();
+  /// server connect 10
+  _ServerServerConnect10Icon get serverConnect10 => const _ServerServerConnect10Icon();
+  /// server connect 11
+  _ServerServerConnect11Icon get serverConnect11 => const _ServerServerConnect11Icon();
   /// database server
   _ServerDatabaseServerIcon get databaseServer => const _ServerDatabaseServerIcon();
+  /// Server transfer
+  _ServerServerTransfer2Icon get serverTransfer2 => const _ServerServerTransfer2Icon();
+  /// Server
+  _ServerServer8Icon get server8 => const _ServerServer8Icon();
 }
 
 /// server rack icon with style variants.
@@ -158,12 +222,334 @@ class _ServerServerRackLight {
 
 }
 
+/// server rack 1 icon with style variants.
+class _ServerServerRack1Icon {
+  const _ServerServerRack1Icon();
+
+  /// bold style
+  _ServerServerRack1Bold get bold => const _ServerServerRack1Bold();
+  /// bulk style
+  _ServerServerRack1Bulk get bulk => const _ServerServerRack1Bulk();
+  /// light style
+  _ServerServerRack1Light get light => const _ServerServerRack1Light();
+  /// outline style
+  _ServerServerRack1Outline get outline => const _ServerServerRack1Outline();
+  /// twoTone style
+  _ServerServerRack1Twotone get twoTone => const _ServerServerRack1Twotone();
+  /// broken style
+  _ServerServerRack1Broken get broken => const _ServerServerRack1Broken();
+}
+
+/// server rack 1 — bulk style variants.
+class _ServerServerRack1Bulk {
+  const _ServerServerRack1Bulk();
+
+  /// server rack 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.05 13.0996H5.95005C4.08005 13.0996 2.55005 14.6296 2.55005 16.4996V18.0996C2.55005 19.9696 4.08005 21.4996 5.95005 21.4996H18.05C19.92 21.4996 21.45 19.9696 21.45 18.0996V16.4996C21.45 14.6296 19.92 13.0996 18.05 13.0996Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.05 2.5H5.95005C4.08005 2.5 2.55005 4.03 2.55005 5.9V7.5C2.55005 9.37 4.08005 10.9 5.95005 10.9H18.05C19.92 10.9 21.45 9.37 21.45 7.5V5.9C21.45 4.03 19.92 2.5 18.05 2.5Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.75 18.0498H13.15C12.74 18.0498 12.4 17.7098 12.4 17.2998C12.4 16.8898 12.74 16.5498 13.15 16.5498H16.75C17.16 16.5498 17.5 16.8898 17.5 17.2998C17.5 17.7098 17.16 18.0498 16.75 18.0498ZM7.94995 18.0498H7.44995C7.03995 18.0498 6.69995 17.7098 6.69995 17.2998C6.69995 16.8898 7.03995 16.5498 7.44995 16.5498H7.94995C8.35995 16.5498 8.69995 16.8898 8.69995 17.2998C8.69995 17.7098 8.35995 18.0498 7.94995 18.0498Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.75 7.4502H13.15C12.74 7.4502 12.4 7.1102 12.4 6.7002C12.4 6.2902 12.74 5.9502 13.15 5.9502H16.75C17.16 5.9502 17.5 6.2902 17.5 6.7002C17.5 7.1102 17.16 7.4502 16.75 7.4502ZM7.94995 7.4502H7.44995C7.03995 7.4502 6.69995 7.1102 6.69995 6.7002C6.69995 6.2902 7.03995 5.9502 7.44995 5.9502H7.94995C8.35995 5.9502 8.69995 6.2902 8.69995 6.7002C8.69995 7.1102 8.35995 7.4502 7.94995 7.4502Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 1 — broken style variants.
+class _ServerServerRack1Broken {
+  const _ServerServerRack1Broken();
+
+  /// server rack 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.0041 3H6.02734C4.37049 3 3.02734 4.34315 3.02734 6V7.38666C3.02734 9.04351 4.37049 10.3867 6.02735 10.3867H17.9726C19.6295 10.3867 20.9726 9.04351 20.9726 7.38666V6C20.9726 4.34315 19.6295 3 17.9726 3H15.1246" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.1558 6.69336H16.6308" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39062 6.69336H7.90937" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.0041 20.998H6.02734C4.37049 20.998 3.02734 19.6549 3.02734 17.998V16.6114C3.02734 14.9545 4.37049 13.6114 6.02735 13.6114H17.9726C19.6295 13.6114 20.9726 14.9545 20.9726 16.6114V17.998C20.9726 19.6549 19.6295 20.998 17.9726 20.998H15.1246" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.1558 17.3047H16.6308" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39062 17.3047H7.90937" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 1 — twoTone style variants.
+class _ServerServerRack1Twotone {
+  const _ServerServerRack1Twotone();
+
+  /// server rack 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.43739 20.9999H18.5626C20.1697 20.9999 21.4726 19.6971 21.4726 18.0899V16.5223C21.4726 14.9152 20.1697 13.6123 18.5626 13.6123H6.43739C4.83021 13.6123 3.52734 14.9152 3.52734 16.5223V18.0899C3.52734 19.6971 4.83021 20.9999 6.43739 20.9999Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.89062 17.3057H8.41346M13.6027 17.3057H17.1636" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.43739 10.3867H18.5626C20.1697 10.3867 21.4726 9.08379 21.4726 7.47662V5.91004C21.4726 4.30287 20.1697 3 18.5626 3H6.43739C4.83021 3 3.52734 4.30287 3.52734 5.91004V7.47661C3.52734 9.08379 4.83021 10.3867 6.43739 10.3867Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.89062 6.69336H8.41346M13.6027 6.69336H17.1636" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 1 — outline style variants.
+class _ServerServerRack1Outline {
+  const _ServerServerRack1Outline();
+
+  /// server rack 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.27734 16.5224C2.27734 14.501 3.916 12.8624 5.93739 12.8624H18.0626C20.0839 12.8624 21.7226 14.501 21.7226 16.5224V18.0899C21.7226 20.1113 20.0839 21.75 18.0626 21.75H5.93739C3.916 21.75 2.27734 20.1113 2.27734 18.09V16.5224ZM5.93739 14.3624C4.74443 14.3624 3.77734 15.3295 3.77734 16.5224V18.09C3.77734 19.2829 4.74443 20.25 5.93739 20.25H18.0626C19.2555 20.25 20.2226 19.2829 20.2226 18.0899V16.5224C20.2226 15.3294 19.2555 14.3624 18.0626 14.3624H5.93739Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.64062 17.3057C6.64062 16.8915 6.97641 16.5557 7.39062 16.5557H7.91346C8.32768 16.5557 8.66346 16.8915 8.66346 17.3057C8.66346 17.7199 8.32768 18.0557 7.91346 18.0557H7.39062C6.97641 18.0557 6.64062 17.7199 6.64062 17.3057ZM12.3527 17.3057C12.3527 16.8915 12.6885 16.5557 13.1027 16.5557H16.6636C17.0778 16.5557 17.4136 16.8915 17.4136 17.3057C17.4136 17.7199 17.0778 18.0557 16.6636 18.0557H13.1027C12.6885 18.0557 12.3527 17.7199 12.3527 17.3057Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.27734 5.91004C2.27734 3.88865 3.916 2.25 5.93739 2.25H18.0626C20.0839 2.25 21.7226 3.88866 21.7226 5.91004V7.47662C21.7226 9.498 20.0839 11.1367 18.0626 11.1367H5.93739C3.916 11.1367 2.27734 9.498 2.27734 7.47661V5.91004ZM5.93739 3.75C4.74443 3.75 3.77734 4.71708 3.77734 5.91004V7.47661C3.77734 8.66957 4.74443 9.63666 5.93739 9.63666H18.0626C19.2555 9.63666 20.2226 8.66957 20.2226 7.47662V5.91004C20.2226 4.71708 19.2555 3.75 18.0626 3.75H5.93739Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.64062 6.69336C6.64062 6.27915 6.97641 5.94336 7.39062 5.94336H7.91346C8.32768 5.94336 8.66346 6.27915 8.66346 6.69336C8.66346 7.10757 8.32768 7.44336 7.91346 7.44336H7.39062C6.97641 7.44336 6.64062 7.10757 6.64062 6.69336ZM12.3527 6.69336C12.3527 6.27915 12.6885 5.94336 13.1027 5.94336H16.6636C17.0778 5.94336 17.4136 6.27915 17.4136 6.69336C17.4136 7.10757 17.0778 7.44336 16.6636 7.44336H13.1027C12.6885 7.44336 12.3527 7.10757 12.3527 6.69336Z" fill="black"/> </svg> ',
+    category: 'Server',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 1 — bold style variants.
+class _ServerServerRack1Bold {
+  const _ServerServerRack1Bold();
+
+  /// server rack 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.75 18.0496H13.15C12.74 18.0496 12.4 17.7096 12.4 17.2996C12.4 16.8896 12.74 16.5496 13.15 16.5496H16.75C17.16 16.5496 17.5 16.8896 17.5 17.2996C17.5 17.7096 17.16 18.0496 16.75 18.0496ZM7.94999 18.0496H7.44999C7.03999 18.0496 6.69999 17.7096 6.69999 17.2996C6.69999 16.8896 7.03999 16.5496 7.44999 16.5496H7.94999C8.35999 16.5496 8.69999 16.8896 8.69999 17.2996C8.69999 17.7096 8.35999 18.0496 7.94999 18.0496ZM18.05 13.0996H5.94999C4.07999 13.0996 2.54999 14.6296 2.54999 16.4996V18.0996C2.54999 19.9696 4.07999 21.4996 5.94999 21.4996H18.05C19.92 21.4996 21.45 19.9696 21.45 18.0996V16.4996C21.45 14.6296 19.92 13.0996 18.05 13.0996Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.75 7.45H13.15C12.74 7.45 12.4 7.11 12.4 6.7C12.4 6.29 12.74 5.95 13.15 5.95H16.75C17.16 5.95 17.5 6.29 17.5 6.7C17.5 7.11 17.16 7.45 16.75 7.45ZM7.94999 7.45H7.44999C7.03999 7.45 6.69999 7.11 6.69999 6.7C6.69999 6.29 7.03999 5.95 7.44999 5.95H7.94999C8.35999 5.95 8.69999 6.29 8.69999 6.7C8.69999 7.11 8.35999 7.45 7.94999 7.45ZM18.05 2.5H5.94999C4.07999 2.5 2.54999 4.03 2.54999 5.9V7.5C2.54999 9.37 4.07999 10.9 5.94999 10.9H18.05C19.92 10.9 21.45 9.37 21.45 7.5V5.9C21.45 4.03 19.92 2.5 18.05 2.5Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 1 — light style variants.
+class _ServerServerRack1Light {
+  const _ServerServerRack1Light();
+
+  /// server rack 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.93739 20.9999H18.0626C19.6697 20.9999 20.9726 19.6971 20.9726 18.0899V16.5223C20.9726 14.9152 19.6697 13.6123 18.0626 13.6123H5.93739C4.33021 13.6123 3.02734 14.9152 3.02734 16.5223V18.0899C3.02734 19.6971 4.33021 20.9999 5.93739 20.9999Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39062 17.3057H7.91346M13.1027 17.3057H16.6636" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.93739 10.3867H18.0626C19.6697 10.3867 20.9726 9.08379 20.9726 7.47662V5.91004C20.9726 4.30287 19.6697 3 18.0626 3H5.93739C4.33021 3 3.02734 4.30287 3.02734 5.91004V7.47661C3.02734 9.08379 4.33021 10.3867 5.93739 10.3867Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39062 6.69336H7.91346M13.1027 6.69336H16.6636" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 2 icon with style variants.
+class _ServerServerRack2Icon {
+  const _ServerServerRack2Icon();
+
+  /// bold style
+  _ServerServerRack2Bold get bold => const _ServerServerRack2Bold();
+  /// bulk style
+  _ServerServerRack2Bulk get bulk => const _ServerServerRack2Bulk();
+  /// light style
+  _ServerServerRack2Light get light => const _ServerServerRack2Light();
+  /// outline style
+  _ServerServerRack2Outline get outline => const _ServerServerRack2Outline();
+  /// twoTone style
+  _ServerServerRack2Twotone get twoTone => const _ServerServerRack2Twotone();
+  /// broken style
+  _ServerServerRack2Broken get broken => const _ServerServerRack2Broken();
+}
+
+/// server rack 2 — bulk style variants.
+class _ServerServerRack2Bulk {
+  const _ServerServerRack2Bulk();
+
+  /// server rack 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.25 13.1006H16.7C16.5344 13.1006 16.4 13.2349 16.4 13.4006V21.2006C16.4 21.3663 16.5344 21.5006 16.7 21.5006H17.25C19.5301 21.5006 21.4501 19.5806 21.4501 17.3006C21.4501 15.0206 19.5301 13.1006 17.25 13.1006ZM6.75005 13.1006C4.47005 13.1006 2.55005 15.0206 2.55005 17.3006C2.55005 19.5806 4.47005 21.5006 6.75005 21.5006H14.6C14.7657 21.5006 14.9 21.3663 14.9 21.2006V13.4006C14.9 13.2349 14.7657 13.1006 14.6 13.1006H6.75005Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.25 2.5H16.7C16.5344 2.5 16.4 2.63431 16.4 2.8V10.6C16.4 10.7657 16.5344 10.9 16.7 10.9H17.25C19.5301 10.9 21.4501 8.98 21.4501 6.7C21.4501 4.42 19.5301 2.5 17.25 2.5ZM6.75005 2.5C4.47005 2.5 2.55005 4.42 2.55005 6.7C2.55005 8.98 4.47005 10.9 6.75005 10.9H14.6C14.7657 10.9 14.9 10.7657 14.9 10.6V2.8C14.9 2.63431 14.7657 2.5 14.6 2.5H6.75005Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.25 13.1006H16.7C16.5343 13.1006 16.4 13.2349 16.4 13.4006V21.2006C16.4 21.3663 16.5343 21.5006 16.7 21.5006H17.25C19.53 21.5006 21.45 19.5806 21.45 17.3006C21.45 15.0206 19.53 13.1006 17.25 13.1006ZM8.94995 18.0506H7.44995C7.03995 18.0506 6.69995 17.7106 6.69995 17.3006C6.69995 16.8906 7.03995 16.5506 7.44995 16.5506H8.94995C9.35995 16.5506 9.69995 16.8906 9.69995 17.3006C9.69995 17.7106 9.35995 18.0506 8.94995 18.0506Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.25 2.5H16.7C16.5343 2.5 16.4 2.63431 16.4 2.8V10.6C16.4 10.7657 16.5343 10.9 16.7 10.9H17.25C19.53 10.9 21.45 8.98 21.45 6.7C21.45 4.42 19.53 2.5 17.25 2.5ZM8.94995 7.45H7.44995C7.03995 7.45 6.69995 7.11 6.69995 6.7C6.69995 6.29 7.03995 5.95 7.44995 5.95H8.94995C9.35995 5.95 9.69995 6.29 9.69995 6.7C9.69995 7.11 9.35995 7.45 8.94995 7.45Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 2 — broken style variants.
+class _ServerServerRack2Broken {
+  const _ServerServerRack2Broken();
+
+  /// server rack 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.39453 17.3105H8.88605" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.3597 3H17.2739C19.312 3 20.9644 4.6524 20.9644 6.69051C20.9644 8.72863 19.312 10.381 17.2739 10.381H6.72567C4.68755 10.381 3.03516 8.72863 3.03516 6.69051C3.03516 4.6524 4.68755 3 6.72567 3H7.72269" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.3597 13.6191H17.2739C19.312 13.6191 20.9644 15.2715 20.9644 17.3097C20.9644 19.3478 19.312 21.0002 17.2739 21.0002H6.72567C4.68755 21.0002 3.03516 19.3478 3.03516 17.3097C3.03516 15.2715 4.68755 13.6191 6.72567 13.6191H7.72269" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.6484 5.75781V10.2787" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.6484 20.9994V16.4785" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39453 6.69141H8.88605" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 2 — twoTone style variants.
+class _ServerServerRack2Twotone {
+  const _ServerServerRack2Twotone();
+
+  /// server rack 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.22567 21.0002H17.7739C19.812 21.0002 21.4644 19.3478 21.4644 17.3097C21.4644 15.2715 19.812 13.6191 17.7739 13.6191H7.22567C5.18755 13.6191 3.53516 15.2715 3.53516 17.3097C3.53516 19.3478 5.18755 21.0002 7.22567 21.0002Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.1484 13.7227V20.8982" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.89453 17.3105H9.38605" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.22567 10.381H17.7739C19.812 10.381 21.4644 8.72863 21.4644 6.69051C21.4644 4.6524 19.812 3 17.7739 3H7.22567C5.18755 3 3.53516 4.6524 3.53516 6.69051C3.53516 8.72863 5.18755 10.381 7.22567 10.381Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.1484 3.10352V10.2791" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.89453 6.69043H9.38605" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 2 — outline style variants.
+class _ServerServerRack2Outline {
+  const _ServerServerRack2Outline();
+
+  /// server rack 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.72591 14.369C5.10201 14.369 3.7854 15.6856 3.7854 17.3095C3.7854 18.9334 5.10201 20.25 6.72591 20.25H17.2741C18.898 20.25 20.2146 18.9334 20.2146 17.3095C20.2146 15.6856 18.898 14.369 17.2741 14.369H6.72591ZM2.2854 17.3095C2.2854 14.8571 4.27358 12.869 6.72591 12.869H17.2741C19.7264 12.869 21.7146 14.8571 21.7146 17.3095C21.7146 19.7618 19.7264 21.75 17.2741 21.75H6.72591C4.27358 21.75 2.2854 19.7618 2.2854 17.3095Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6484 12.9727C16.0627 12.9727 16.3984 13.3084 16.3984 13.7227V20.8982C16.3984 21.3124 16.0627 21.6482 15.6484 21.6482C15.2342 21.6482 14.8984 21.3124 14.8984 20.8982V13.7227C14.8984 13.3084 15.2342 12.9727 15.6484 12.9727Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.64453 17.3105C6.64453 16.8963 6.98032 16.5605 7.39453 16.5605H8.88605C9.30026 16.5605 9.63605 16.8963 9.63605 17.3105C9.63605 17.7248 9.30026 18.0605 8.88605 18.0605H7.39453C6.98032 18.0605 6.64453 17.7248 6.64453 17.3105Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.72567 3.75C5.10177 3.75 3.78516 5.06661 3.78516 6.69051C3.78516 8.31441 5.10177 9.63102 6.72567 9.63102H17.2739C18.8978 9.63102 20.2144 8.31441 20.2144 6.69051C20.2144 5.06661 18.8978 3.75 17.2739 3.75H6.72567ZM2.28516 6.69051C2.28516 4.23818 4.27334 2.25 6.72567 2.25H17.2739C19.7262 2.25 21.7144 4.23818 21.7144 6.69051C21.7144 9.14284 19.7262 11.131 17.2739 11.131H6.72567C4.27334 11.131 2.28516 9.14284 2.28516 6.69051Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6484 2.35352C16.0627 2.35352 16.3984 2.6893 16.3984 3.10352V10.2791C16.3984 10.6933 16.0627 11.0291 15.6484 11.0291C15.2342 11.0291 14.8984 10.6933 14.8984 10.2791V3.10352C14.8984 2.6893 15.2342 2.35352 15.6484 2.35352Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.64453 6.69043C6.64453 6.27622 6.98032 5.94043 7.39453 5.94043H8.88605C9.30026 5.94043 9.63605 6.27622 9.63605 6.69043C9.63605 7.10464 9.30026 7.44043 8.88605 7.44043H7.39453C6.98032 7.44043 6.64453 7.10464 6.64453 6.69043Z" fill="black"/> </svg> ',
+    category: 'Server',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 2 — bold style variants.
+class _ServerServerRack2Bold {
+  const _ServerServerRack2Bold();
+
+  /// server rack 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.25 13.1006H16.7C16.5343 13.1006 16.4 13.2349 16.4 13.4006V21.2006C16.4 21.3663 16.5343 21.5006 16.7 21.5006H17.25C19.53 21.5006 21.45 19.5806 21.45 17.3006C21.45 15.0206 19.53 13.1006 17.25 13.1006ZM8.94999 18.0506H7.44999C7.03999 18.0506 6.69999 17.7106 6.69999 17.3006C6.69999 16.8906 7.03999 16.5506 7.44999 16.5506H8.94999C9.35999 16.5506 9.69999 16.8906 9.69999 17.3006C9.69999 17.7106 9.35999 18.0506 8.94999 18.0506ZM6.74999 13.1006C4.46999 13.1006 2.54999 15.0206 2.54999 17.3006C2.54999 19.5806 4.46999 21.5006 6.74999 21.5006H14.6C14.7657 21.5006 14.9 21.3663 14.9 21.2006V13.4006C14.9 13.2349 14.7657 13.1006 14.6 13.1006H6.74999Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.25 2.5H16.7C16.5343 2.5 16.4 2.63431 16.4 2.8V10.6C16.4 10.7657 16.5343 10.9 16.7 10.9H17.25C19.53 10.9 21.45 8.98 21.45 6.7C21.45 4.42 19.53 2.5 17.25 2.5ZM8.94999 7.45H7.44999C7.03999 7.45 6.69999 7.11 6.69999 6.7C6.69999 6.29 7.03999 5.95 7.44999 5.95H8.94999C9.35999 5.95 9.69999 6.29 9.69999 6.7C9.69999 7.11 9.35999 7.45 8.94999 7.45ZM6.74999 2.5C4.46999 2.5 2.54999 4.42 2.54999 6.7C2.54999 8.98 4.46999 10.9 6.74999 10.9H14.6C14.7657 10.9 14.9 10.7657 14.9 10.6V2.8C14.9 2.63431 14.7657 2.5 14.6 2.5H6.74999Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 2 — light style variants.
+class _ServerServerRack2Light {
+  const _ServerServerRack2Light();
+
+  /// server rack 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.72567 21.0002H17.2739C19.312 21.0002 20.9644 19.3478 20.9644 17.3097C20.9644 15.2715 19.312 13.6191 17.2739 13.6191H6.72567C4.68755 13.6191 3.03516 15.2715 3.03516 17.3097C3.03516 19.3478 4.68755 21.0002 6.72567 21.0002Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.6484 13.7227V20.8982" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39453 17.3105H8.88605" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.72567 10.381H17.2739C19.312 10.381 20.9644 8.72863 20.9644 6.69051C20.9644 4.6524 19.312 3 17.2739 3H6.72567C4.68755 3 3.03516 4.6524 3.03516 6.69051C3.03516 8.72863 4.68755 10.381 6.72567 10.381Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.6484 3.10352V10.2791" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39453 6.69043H8.88605" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 3 icon with style variants.
+class _ServerServerRack3Icon {
+  const _ServerServerRack3Icon();
+
+  /// bold style
+  _ServerServerRack3Bold get bold => const _ServerServerRack3Bold();
+  /// bulk style
+  _ServerServerRack3Bulk get bulk => const _ServerServerRack3Bulk();
+  /// light style
+  _ServerServerRack3Light get light => const _ServerServerRack3Light();
+  /// outline style
+  _ServerServerRack3Outline get outline => const _ServerServerRack3Outline();
+  /// twoTone style
+  _ServerServerRack3Twotone get twoTone => const _ServerServerRack3Twotone();
+  /// broken style
+  _ServerServerRack3Broken get broken => const _ServerServerRack3Broken();
+}
+
+/// server rack 3 — bulk style variants.
+class _ServerServerRack3Bulk {
+  const _ServerServerRack3Bulk();
+
+  /// server rack 3 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3 13.0996H6.7C4.42 13.0996 2.5 15.0196 2.5 17.2996C2.5 19.5796 4.42 21.4996 6.7 21.4996H17.3C19.58 21.4996 21.5 19.5796 21.5 17.2996C21.5 15.0196 19.58 13.0996 17.3 13.0996Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3 2.5H6.7C4.42 2.5 2.5 4.42 2.5 6.7C2.5 8.98 4.42 10.9 6.7 10.9H17.3C19.58 10.9 21.5 8.98 21.5 6.7C21.5 4.42 19.58 2.5 17.3 2.5Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.7 18.0498H13.1C12.69 18.0498 12.35 17.7098 12.35 17.2998C12.35 16.8898 12.69 16.5498 13.1 16.5498H16.7C17.11 16.5498 17.45 16.8898 17.45 17.2998C17.45 17.7098 17.11 18.0498 16.7 18.0498ZM7.90002 18.0498H7.40002C6.99002 18.0498 6.65002 17.7098 6.65002 17.2998C6.65002 16.8898 6.99002 16.5498 7.40002 16.5498H7.90002C8.31002 16.5498 8.65002 16.8898 8.65002 17.2998C8.65002 17.7098 8.31002 18.0498 7.90002 18.0498Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.7 7.4502H13.1C12.69 7.4502 12.35 7.1102 12.35 6.7002C12.35 6.2902 12.69 5.9502 13.1 5.9502H16.7C17.11 5.9502 17.45 6.2902 17.45 6.7002C17.45 7.1102 17.11 7.4502 16.7 7.4502ZM7.90002 7.4502H7.40002C6.99002 7.4502 6.65002 7.1102 6.65002 6.7002C6.65002 6.2902 6.99002 5.9502 7.40002 5.9502H7.90002C8.31002 5.9502 8.65002 6.2902 8.65002 6.7002C8.65002 7.1102 8.31002 7.4502 7.90002 7.4502Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 3 — broken style variants.
+class _ServerServerRack3Broken {
+  const _ServerServerRack3Broken();
+
+  /// server rack 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.72116 21.0009C4.68122 21.0009 3.02734 19.347 3.02734 17.3071C3.02734 15.2672 4.68122 13.6133 6.72116 13.6133H17.2788C19.3187 13.6133 20.9726 15.2672 20.9726 17.3071C20.9726 19.347 19.3187 21.0009 17.2788 21.0009H9.95419" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2788 10.3867C19.3187 10.3867 20.9726 8.73278 20.9726 6.69284C20.9726 4.6529 19.3187 3 17.2788 3H6.72116C4.68122 3 3.02734 4.6529 3.02734 6.69284C3.02734 8.73278 4.68122 10.3867 6.72116 10.3867H14.1425" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39062 17.3066H7.91346" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39062 6.69336H7.91346" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.1035 17.3066H16.6644" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.1035 6.69336H16.6644" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 3 — twoTone style variants.
+class _ServerServerRack3Twotone {
+  const _ServerServerRack3Twotone();
+
+  /// server rack 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.22116 20.9999H17.7788C19.8187 20.9999 21.4726 19.3461 21.4726 17.3061C21.4726 15.2662 19.8187 13.6123 17.7788 13.6123H7.22116C5.18122 13.6123 3.52734 15.2662 3.52734 17.3061C3.52734 19.3461 5.18122 20.9999 7.22116 20.9999Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.22116 10.3867H17.7788C19.8187 10.3867 21.4726 8.73278 21.4726 6.69284C21.4726 4.6529 19.8187 3 17.7788 3H7.22116C5.18122 3 3.52734 4.6529 3.52734 6.69284C3.52734 8.73278 5.18122 10.3867 7.22116 10.3867Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.89062 17.3057H8.41346" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.89062 6.69336H8.41346" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.6035 17.3057H17.1644" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.6035 6.69336H17.1644" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 3 — outline style variants.
+class _ServerServerRack3Outline {
+  const _ServerServerRack3Outline();
+
+  /// server rack 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.72116 14.3624C5.09543 14.3624 3.77734 15.6805 3.77734 17.3062C3.77734 18.9319 5.09543 20.25 6.72116 20.25H17.2788C18.9045 20.25 20.2226 18.9319 20.2226 17.3062C20.2226 15.6805 18.9045 14.3624 17.2788 14.3624H6.72116ZM2.27734 17.3062C2.27734 14.852 4.267 12.8624 6.72116 12.8624H17.2788C19.7329 12.8624 21.7226 14.852 21.7226 17.3062C21.7226 19.7603 19.7329 21.75 17.2788 21.75H6.72116C4.267 21.75 2.27734 19.7603 2.27734 17.3062Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.72116 3.75C5.09517 3.75 3.77734 5.06737 3.77734 6.69284C3.77734 8.31857 5.09543 9.63666 6.72116 9.63666H17.2788C18.9045 9.63666 20.2226 8.31857 20.2226 6.69284C20.2226 5.06737 18.9048 3.75 17.2788 3.75H6.72116ZM2.27734 6.69284C2.27734 4.23843 4.26726 2.25 6.72116 2.25H17.2788C19.7327 2.25 21.7226 4.23843 21.7226 6.69284C21.7226 9.147 19.7329 11.1367 17.2788 11.1367H6.72116C4.267 11.1367 2.27734 9.147 2.27734 6.69284Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.64062 17.3057C6.64062 16.8915 6.97641 16.5557 7.39062 16.5557H7.91346C8.32768 16.5557 8.66346 16.8915 8.66346 17.3057C8.66346 17.7199 8.32768 18.0557 7.91346 18.0557H7.39062C6.97641 18.0557 6.64062 17.7199 6.64062 17.3057Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.64062 6.69336C6.64062 6.27915 6.97641 5.94336 7.39062 5.94336H7.91346C8.32768 5.94336 8.66346 6.27915 8.66346 6.69336C8.66346 7.10757 8.32768 7.44336 7.91346 7.44336H7.39062C6.97641 7.44336 6.64062 7.10757 6.64062 6.69336Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3535 17.3057C12.3535 16.8915 12.6893 16.5557 13.1035 16.5557H16.6644C17.0786 16.5557 17.4144 16.8915 17.4144 17.3057C17.4144 17.7199 17.0786 18.0557 16.6644 18.0557H13.1035C12.6893 18.0557 12.3535 17.7199 12.3535 17.3057Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3535 6.69336C12.3535 6.27915 12.6893 5.94336 13.1035 5.94336H16.6644C17.0786 5.94336 17.4144 6.27915 17.4144 6.69336C17.4144 7.10757 17.0786 7.44336 16.6644 7.44336H13.1035C12.6893 7.44336 12.3535 7.10757 12.3535 6.69336Z" fill="black"/> </svg> ',
+    category: 'Server',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 3 — bold style variants.
+class _ServerServerRack3Bold {
+  const _ServerServerRack3Bold();
+
+  /// server rack 3 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.7 18.0496H13.1C12.69 18.0496 12.35 17.7096 12.35 17.2996C12.35 16.8896 12.69 16.5496 13.1 16.5496H16.7C17.11 16.5496 17.45 16.8896 17.45 17.2996C17.45 17.7096 17.11 18.0496 16.7 18.0496ZM7.9 18.0496H7.4C6.99 18.0496 6.65 17.7096 6.65 17.2996C6.65 16.8896 6.99 16.5496 7.4 16.5496H7.9C8.31 16.5496 8.65 16.8896 8.65 17.2996C8.65 17.7096 8.31 18.0496 7.9 18.0496ZM17.3 13.0996H6.7C4.42 13.0996 2.5 15.0196 2.5 17.2996C2.5 19.5796 4.42 21.4996 6.7 21.4996H17.3C19.58 21.4996 21.5 19.5796 21.5 17.2996C21.5 15.0196 19.58 13.0996 17.3 13.0996Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.7 7.45H13.1C12.69 7.45 12.35 7.11 12.35 6.7C12.35 6.29 12.69 5.95 13.1 5.95H16.7C17.11 5.95 17.45 6.29 17.45 6.7C17.45 7.11 17.11 7.45 16.7 7.45ZM7.9 7.45H7.4C6.99 7.45 6.65 7.11 6.65 6.7C6.65 6.29 6.99 5.95 7.4 5.95H7.9C8.31 5.95 8.65 6.29 8.65 6.7C8.65 7.11 8.31 7.45 7.9 7.45ZM17.3 2.5H6.7C4.42 2.5 2.5 4.42 2.5 6.7C2.5 8.98 4.42 10.9 6.7 10.9H17.3C19.58 10.9 21.5 8.98 21.5 6.7C21.5 4.42 19.58 2.5 17.3 2.5Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server rack 3 — light style variants.
+class _ServerServerRack3Light {
+  const _ServerServerRack3Light();
+
+  /// server rack 3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server rack 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.72116 20.9999H17.2788C19.3187 20.9999 20.9726 19.3461 20.9726 17.3061C20.9726 15.2662 19.3187 13.6123 17.2788 13.6123H6.72116C4.68122 13.6123 3.02734 15.2662 3.02734 17.3061C3.02734 19.3461 4.68122 20.9999 6.72116 20.9999Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.72116 10.3867H17.2788C19.3187 10.3867 20.9726 8.73278 20.9726 6.69284C20.9726 4.6529 19.3187 3 17.2788 3H6.72116C4.68122 3 3.02734 4.6529 3.02734 6.69284C3.02734 8.73278 4.68122 10.3867 6.72116 10.3867Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39062 17.3057H7.91346" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39062 6.69336H7.91346" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.1035 17.3057H16.6644" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.1035 6.69336H16.6644" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Servers connect icon with style variants.
 class _ServerServersConnectIcon {
   const _ServerServersConnectIcon();
 
-  /// bold style
-  _ServerServersConnectBold get bold => const _ServerServersConnectBold();
   /// bulk style
   _ServerServersConnectBulk get bulk => const _ServerServersConnectBulk();
   /// light style
@@ -183,7 +569,7 @@ class _ServerServersConnectBulk {
   /// Servers connect — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Servers connect',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2004 11.25C21.3661 11.25 21.5004 11.1157 21.5004 10.95V7.8C21.5004 4.63 19.2504 2.5 15.9004 2.5H8.00043C4.76143 2.5 2.50043 4.679 2.50043 7.8V10.95C2.50043 11.1157 2.63474 11.25 2.80043 11.25H21.2004Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.79963 12.75C2.63395 12.75 2.49963 12.8843 2.49963 13.05V16.2C2.49963 19.37 4.70963 21.5 7.99963 21.5H15.9996C19.2386 21.5 21.4996 19.321 21.4996 16.2V13.05C21.4996 12.8843 21.3653 12.75 21.1996 12.75H2.79963Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.40039 6.65039H7.90039C8.31439 6.65039 8.65039 6.98639 8.65039 7.40039C8.65039 7.81439 8.31439 8.15039 7.90039 8.15039H7.40039C6.98639 8.15039 6.65039 7.81439 6.65039 7.40039C6.65039 6.98639 6.98639 6.65039 7.40039 6.65039ZM12.0994 6.65039H16.5994C17.0134 6.65039 17.3494 6.98639 17.3494 7.40039C17.3494 7.81439 17.0134 8.15039 16.5994 8.15039H12.0994C11.6854 8.15039 11.3494 7.81439 11.3494 7.40039C11.3494 6.98639 11.6854 6.65039 12.0994 6.65039Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5996 17.3504H12.0996C11.6856 17.3504 11.3496 17.0144 11.3496 16.6004C11.3496 16.1864 11.6856 15.8504 12.0996 15.8504H16.5996C17.0136 15.8504 17.3496 16.1864 17.3496 16.6004C17.3496 17.0144 17.0136 17.3504 16.5996 17.3504ZM7.9006 17.3504H7.4006C6.9866 17.3504 6.6506 17.0144 6.6506 16.6004C6.6506 16.1864 6.9866 15.8504 7.4006 15.8504H7.9006C8.3146 15.8504 8.6506 16.1864 8.6506 16.6004C8.6506 17.0144 8.3146 17.3504 7.9006 17.3504Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.85 2.05469H6.15C4.83 2.05469 3.75 3.13469 3.75 4.45469V6.45469C3.75 7.28469 4.17 8.00469 4.8 8.44469C5.21 8.22469 5.66 8.09469 6.15 8.09469H17.85C18.34 8.09469 18.79 8.22469 19.2 8.44469C19.83 8.00469 20.25 7.28469 20.25 6.45469V4.45469C20.25 3.13469 19.17 2.05469 17.85 2.05469Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.85 9.10449H6.15C4.83 9.10449 3.75 10.1845 3.75 11.5045V13.5045C3.75 14.8345 4.83 15.9045 6.15 15.9045H11.3H12.8H17.85C19.17 15.9045 20.25 14.8345 20.25 13.5045V11.5045C20.25 10.1845 19.17 9.10449 17.85 9.10449Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.15002 6.20508H7.65002C7.24002 6.20508 6.90002 5.87508 6.90002 5.45508C6.90002 5.04508 7.24002 4.70508 7.65002 4.70508H8.15002C8.56002 4.70508 8.90002 5.04508 8.90002 5.45508C8.90002 5.87508 8.56002 6.20508 8.15002 6.20508Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.65002 13.2549H8.15002C8.56002 13.2549 8.90002 12.9249 8.90002 12.5049C8.90002 12.0949 8.56002 11.7549 8.15002 11.7549H7.65002C7.24002 11.7549 6.90002 12.0949 6.90002 12.5049C6.90002 12.9249 7.24002 13.2549 7.65002 13.2549Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3 15.9043V17.3743C10.6 17.6043 10.06 18.1443 9.82998 18.8443H5.84998C5.43998 18.8443 5.09998 19.1843 5.09998 19.5943C5.09998 20.0043 5.43998 20.3443 5.84998 20.3443H9.82998C10.14 21.2843 11 21.9443 12.05 21.9443C13.1 21.9443 13.96 21.2843 14.27 20.3443H18.25C18.66 20.3443 19 20.0043 19 19.5943C19 19.1843 18.66 18.8443 18.25 18.8443H14.27C14.04 18.1443 13.5 17.6043 12.8 17.3743V15.9043H11.3ZM12.05 20.4443C12.53 20.4443 12.9 20.0743 12.9 19.5943C12.9 19.1143 12.53 18.7443 12.05 18.7443C11.57 18.7443 11.2 19.1143 11.2 19.5943C11.2 20.0743 11.57 20.4443 12.05 20.4443Z" fill="black"/> </svg>',
     category: 'Server',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -198,7 +584,7 @@ class _ServerServersConnectBroken {
   /// Servers connect — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Servers connect',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.02638 3C5.08119 3 3 4.83405 3 7.78216V16.2159C3 19.165 5.08119 21 8.02638 21H15.9736C18.9188 21 21 19.165 21 16.2169V7.78216C21 4.84281 18.9188 3 15.9736 3H12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 16.1348H7.88577M12.1017 16.1348H16.6358" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 7.86523H7.88577M12.1017 7.86523H16.6358" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0481 12H3.02344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.4846 14.6947H6.16274C5.08803 14.6947 4.2168 13.8234 4.2168 12.7487C4.2168 12.0938 4.2168 11.4388 4.2168 10.7838C4.2168 9.70912 5.08803 8.83789 6.16274 8.83789H17.8384C18.9131 8.83789 19.7844 9.70912 19.7844 10.7838C19.7844 11.4388 19.7844 12.0938 19.7844 12.7487C19.7844 13.8234 18.9131 14.6947 17.8384 14.6947H16.9195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0006 2.98047H17.8384C18.9131 2.98047 19.7844 3.8517 19.7844 4.92641C19.7844 5.58138 19.7844 6.23634 19.7844 6.8913C19.7844 7.96601 18.9131 8.83724 17.8384 8.83724H6.16274C5.08803 8.83724 4.2168 7.96601 4.2168 6.8913C4.2168 6.23634 4.2168 5.58137 4.2168 4.92641C4.2168 3.8517 5.08803 2.98047 6.16274 2.98047H9.08166" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.62305 5.91016H8.10953" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.62305 11.7656H8.10953" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5917 19.3889C13.5917 20.2792 12.8726 21.0005 11.9853 21.0005C11.0979 21.0005 10.3789 20.2792 10.3789 19.3889C10.3789 18.4987 11.0979 17.7773 11.9853 17.7773C12.8726 17.7773 13.5917 18.4987 13.5917 19.3889Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5909 19.3888L18.2245 19.3887M10.3781 19.3888L5.74414 19.3887" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 17.7578V14.7148" stroke="black" stroke-width="1.5"/> </svg>',
     category: 'Server',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -213,7 +599,7 @@ class _ServerServersConnectTwotone {
   /// Servers connect — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Servers connect',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.5 7.78216V16.2169C21.5 19.165 19.4188 21 16.4736 21H8.52638C5.58119 21 3.5 19.165 3.5 16.2159V7.78216C3.5 4.83405 5.58119 3 8.52638 3H16.4736C19.4188 3 21.5 4.84281 21.5 7.78216Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.86328 16.1348H8.38577M12.6017 16.1348H17.1358" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.86328 7.86523H8.38577M12.6017 7.86523H17.1358" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.4767 12H3.52344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.7168 10.7838C4.7168 9.70912 5.58803 8.83789 6.66274 8.83789H18.3384C19.4131 8.83789 20.2844 9.70912 20.2844 10.7838C20.2844 11.4388 20.2844 12.0938 20.2844 12.7487C20.2844 13.8234 19.4131 14.6947 18.3384 14.6947H6.66274C5.58803 14.6947 4.7168 13.8234 4.7168 12.7487C4.7168 12.0938 4.7168 11.4388 4.7168 10.7838Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M4.7168 4.92739C4.7168 3.85267 5.58803 2.98145 6.66274 2.98145H18.3384C19.4131 2.98145 20.2844 3.85267 20.2844 4.92739C20.2844 5.58235 20.2844 6.23731 20.2844 6.89227C20.2844 7.96699 19.4131 8.83822 18.3384 8.83822H6.66274C5.58803 8.83822 4.7168 7.96699 4.7168 6.89227C4.7168 6.23731 4.7168 5.58235 4.7168 4.92739Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.12305 5.91016H8.60953" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.12305 11.7666H8.60953" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0917 19.388C14.0917 20.2782 13.3726 20.9995 12.4853 20.9995C11.5979 20.9995 10.8789 20.2782 10.8789 19.388C10.8789 18.4977 11.5979 17.7764 12.4853 17.7764C13.3726 17.7764 14.0917 18.4977 14.0917 19.388Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.0909 19.3888L18.7245 19.3887M10.8781 19.3888L6.24414 19.3887" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5 17.7568V14.7139" stroke="black" stroke-width="1.5"/> </svg>',
     category: 'Server',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -228,24 +614,9 @@ class _ServerServersConnectOutline {
   /// Servers connect — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Servers connect',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.89773 3.73657C4.94853 2.75842 6.39899 2.25 8.02638 2.25H15.9736C17.6019 2.25 19.0523 2.76117 20.1026 3.7402C21.1588 4.72468 21.75 6.12669 21.75 7.78216V16.2169C21.75 17.8762 21.1592 19.2788 20.1024 20.2629C19.0516 21.2413 17.6011 21.75 15.9736 21.75H8.02638C6.39889 21.75 4.94838 21.2413 3.89761 20.2627C2.8408 19.2785 2.25 17.8756 2.25 16.2159V7.78216C2.25 6.1228 2.84086 4.72038 3.89773 3.73657ZM4.91976 4.83451C4.19973 5.50475 3.75 6.49341 3.75 7.78216V16.2159C3.75 17.5052 4.1998 18.4944 4.91988 19.165C5.64599 19.8412 6.70868 20.25 8.02638 20.25H15.9736C17.2913 20.25 18.354 19.8412 19.0802 19.1651C19.8003 18.4946 20.25 17.5056 20.25 16.2169V7.78216C20.25 6.49828 19.8006 5.50921 19.0799 4.83745C18.3533 4.16024 17.2905 3.75 15.9736 3.75H8.02638C6.70857 3.75 5.64585 4.15861 4.91976 4.83451Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.61328 16.1348C6.61328 15.7206 6.94907 15.3848 7.36328 15.3848H7.88577C8.29998 15.3848 8.63577 15.7206 8.63577 16.1348C8.63577 16.549 8.29998 16.8848 7.88577 16.8848H7.36328C6.94907 16.8848 6.61328 16.549 6.61328 16.1348ZM11.3517 16.1348C11.3517 15.7206 11.6875 15.3848 12.1017 15.3848H16.6358C17.05 15.3848 17.3858 15.7206 17.3858 16.1348C17.3858 16.549 17.05 16.8848 16.6358 16.8848H12.1017C11.6875 16.8848 11.3517 16.549 11.3517 16.1348Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.61328 7.86523C6.61328 7.45102 6.94907 7.11523 7.36328 7.11523H7.88577C8.29998 7.11523 8.63577 7.45102 8.63577 7.86523C8.63577 8.27945 8.29998 8.61523 7.88577 8.61523H7.36328C6.94907 8.61523 6.61328 8.27945 6.61328 7.86523ZM11.3517 7.86523C11.3517 7.45102 11.6875 7.11523 12.1017 7.11523H16.6358C17.05 7.11523 17.3858 7.45102 17.3858 7.86523C17.3858 8.27945 17.05 8.61523 16.6358 8.61523H12.1017C11.6875 8.61523 11.3517 8.27945 11.3517 7.86523Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.27344 12C2.27344 11.5858 2.60922 11.25 3.02344 11.25H20.9767C21.3909 11.25 21.7267 11.5858 21.7267 12C21.7267 12.4142 21.3909 12.75 20.9767 12.75H3.02344C2.60922 12.75 2.27344 12.4142 2.27344 12Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.4668 10.7838C3.4668 9.29491 4.67381 8.08789 6.16274 8.08789H17.8384C19.3273 8.08789 20.5344 9.29491 20.5344 10.7838V12.7487C20.5344 14.2377 19.3273 15.4447 17.8384 15.4447H6.16274C4.67381 15.4447 3.4668 14.2376 3.4668 12.7487V10.7838ZM6.16274 9.58789C5.50224 9.58789 4.9668 10.1233 4.9668 10.7838V12.7487C4.9668 13.4092 5.50224 13.9447 6.16274 13.9447H17.8384C18.4989 13.9447 19.0344 13.4092 19.0344 12.7487V10.7838C19.0344 10.1233 18.4989 9.58789 17.8384 9.58789H6.16274Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.4668 4.92739C3.4668 3.43846 4.67381 2.23145 6.16274 2.23145H17.8384C19.3273 2.23145 20.5344 3.43846 20.5344 4.92739V6.89227C20.5344 8.38121 19.3273 9.58822 17.8384 9.58822H6.16274C4.67381 9.58822 3.4668 8.3812 3.4668 6.89227V4.92739ZM6.16274 3.73145C5.50224 3.73145 4.9668 4.26689 4.9668 4.92739V6.89227C4.9668 7.55278 5.50224 8.08822 6.16274 8.08822H17.8384C18.4989 8.08822 19.0344 7.55278 19.0344 6.89227V4.92739C19.0344 4.26689 18.4989 3.73145 17.8384 3.73145H6.16274Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.87305 5.91016C6.87305 5.49594 7.20883 5.16016 7.62305 5.16016H8.10953C8.52375 5.16016 8.85953 5.49594 8.85953 5.91016C8.85953 6.32437 8.52375 6.66016 8.10953 6.66016H7.62305C7.20883 6.66016 6.87305 6.32437 6.87305 5.91016Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.87305 11.7666C6.87305 11.3524 7.20883 11.0166 7.62305 11.0166H8.10953C8.52375 11.0166 8.85953 11.3524 8.85953 11.7666C8.85953 12.1808 8.52375 12.5166 8.10953 12.5166H7.62305C7.20883 12.5166 6.87305 12.1808 6.87305 11.7666Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9853 18.5264C11.5144 18.5264 11.1289 18.9096 11.1289 19.388C11.1289 19.8663 11.5144 20.2495 11.9853 20.2495C12.4561 20.2495 12.8417 19.8663 12.8417 19.388C12.8417 18.9096 12.4561 18.5264 11.9853 18.5264ZM9.62891 19.388C9.62891 18.0858 10.6814 17.0264 11.9853 17.0264C13.2891 17.0264 14.3417 18.0858 14.3417 19.388C14.3417 20.6901 13.2891 21.7495 11.9853 21.7495C10.6814 21.7495 9.62891 20.6901 9.62891 19.388Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.99414 19.3886C4.99415 18.9744 5.32995 18.6386 5.74416 18.6386L10.3781 18.6387C10.7923 18.6387 11.1281 18.9745 11.1281 19.3888C11.1281 19.803 10.7923 20.1387 10.3781 20.1387L5.74412 20.1386C5.32991 20.1386 4.99413 19.8028 4.99414 19.3886ZM13.5909 18.6387L18.2245 18.6386C18.6387 18.6386 18.9745 18.9744 18.9745 19.3886C18.9745 19.8028 18.6387 20.1386 18.2245 20.1386L13.5909 20.1387C13.1767 20.1387 12.8409 19.803 12.8409 19.3888C12.8409 18.9745 13.1766 18.6387 13.5909 18.6387Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.75 14.7139V17.7568H11.25V14.7139H12.75Z" fill="black"/> </svg> ',
     category: 'Server',
     style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Servers connect — bold style variants.
-class _ServerServersConnectBold {
-  const _ServerServersConnectBold();
-
-  /// Servers connect — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Servers connect',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.40043 6.65H7.90043C8.31443 6.65 8.65043 6.986 8.65043 7.4C8.65043 7.814 8.31443 8.15 7.90043 8.15H7.40043C6.98643 8.15 6.65043 7.814 6.65043 7.4C6.65043 6.986 6.98643 6.65 7.40043 6.65ZM12.0994 6.65H16.5994C17.0134 6.65 17.3494 6.986 17.3494 7.4C17.3494 7.814 17.0134 8.15 16.5994 8.15H12.0994C11.6854 8.15 11.3494 7.814 11.3494 7.4C11.3494 6.986 11.6854 6.65 12.0994 6.65ZM21.2004 11.25C21.3661 11.25 21.5004 11.1157 21.5004 10.95V7.8C21.5004 4.63 19.2504 2.5 15.9004 2.5H8.00043C4.76143 2.5 2.50043 4.679 2.50043 7.8V10.95C2.50043 11.1157 2.63474 11.25 2.80043 11.25H21.2004Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5996 17.35H12.0996C11.6856 17.35 11.3496 17.014 11.3496 16.6C11.3496 16.186 11.6856 15.85 12.0996 15.85H16.5996C17.0136 15.85 17.3496 16.186 17.3496 16.6C17.3496 17.014 17.0136 17.35 16.5996 17.35ZM7.90063 17.35H7.40063C6.98663 17.35 6.65063 17.014 6.65063 16.6C6.65063 16.186 6.98663 15.85 7.40063 15.85H7.90063C8.31463 15.85 8.65063 16.186 8.65063 16.6C8.65063 17.014 8.31463 17.35 7.90063 17.35ZM2.79963 12.75C2.63395 12.75 2.49963 12.8843 2.49963 13.05V16.2C2.49963 19.37 4.70963 21.5 7.99963 21.5H15.9996C19.2386 21.5 21.4996 19.321 21.4996 16.2V13.05C21.4996 12.8843 21.3653 12.75 21.1996 12.75H2.79963Z" fill="black"/> </svg>',
-    category: 'Server',
-    style: IconfyStyle.bold,
     type: IconfyType.regular,
   );
 
@@ -258,6 +629,376 @@ class _ServerServersConnectLight {
   /// Servers connect — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Servers connect',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.2168 10.7838C4.2168 9.70912 5.08803 8.83789 6.16274 8.83789H17.8384C18.9131 8.83789 19.7844 9.70912 19.7844 10.7838C19.7844 11.4388 19.7844 12.0938 19.7844 12.7487C19.7844 13.8234 18.9131 14.6947 17.8384 14.6947H6.16274C5.08803 14.6947 4.2168 13.8234 4.2168 12.7487C4.2168 12.0938 4.2168 11.4388 4.2168 10.7838Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.2168 4.92739C4.2168 3.85267 5.08803 2.98145 6.16274 2.98145H17.8384C18.9131 2.98145 19.7844 3.85267 19.7844 4.92739C19.7844 5.58235 19.7844 6.23731 19.7844 6.89227C19.7844 7.96699 18.9131 8.83822 17.8384 8.83822H6.16274C5.08803 8.83822 4.2168 7.96699 4.2168 6.89227C4.2168 6.23731 4.2168 5.58235 4.2168 4.92739Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.62305 5.91016H8.10953" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.62305 11.7666H8.10953" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5917 19.388C13.5917 20.2782 12.8726 20.9995 11.9853 20.9995C11.0979 20.9995 10.3789 20.2782 10.3789 19.388C10.3789 18.4977 11.0979 17.7764 11.9853 17.7764C12.8726 17.7764 13.5917 18.4977 13.5917 19.388Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5909 19.3888L18.2245 19.3887M10.3781 19.3888L5.74414 19.3887" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 17.7568V14.7139" stroke="black" stroke-width="1.5"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 1 icon with style variants.
+class _ServerServersConnect1Icon {
+  const _ServerServersConnect1Icon();
+
+  /// bold style
+  _ServerServersConnect1Bold get bold => const _ServerServersConnect1Bold();
+}
+
+/// Servers connect 1 — bold style variants.
+class _ServerServersConnect1Bold {
+  const _ServerServersConnect1Bold();
+
+  /// Servers connect 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.15 6.20469H7.65C7.24 6.20469 6.9 5.87469 6.9 5.45469C6.9 5.04469 7.24 4.70469 7.65 4.70469H8.15C8.56 4.70469 8.9 5.04469 8.9 5.45469C8.9 5.87469 8.56 6.20469 8.15 6.20469ZM17.85 2.05469H6.15C4.83 2.05469 3.75 3.13469 3.75 4.45469V6.45469C3.75 7.28469 4.17 8.00469 4.8 8.44469C5.21 8.22469 5.66 8.09469 6.15 8.09469H17.85C18.34 8.09469 18.79 8.22469 19.2 8.44469C19.83 8.00469 20.25 7.28469 20.25 6.45469V4.45469C20.25 3.13469 19.17 2.05469 17.85 2.05469Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9 19.5945C12.9 20.0745 12.53 20.4445 12.05 20.4445C11.57 20.4445 11.2 20.0745 11.2 19.5945C11.2 19.1145 11.57 18.7445 12.05 18.7445C12.53 18.7445 12.9 19.1145 12.9 19.5945ZM8.15 13.2545H7.65C7.24 13.2545 6.9 12.9245 6.9 12.5045C6.9 12.0945 7.24 11.7545 7.65 11.7545H8.15C8.56 11.7545 8.9 12.0945 8.9 12.5045C8.9 12.9245 8.56 13.2545 8.15 13.2545ZM17.85 9.10449H6.15C4.83 9.10449 3.75 10.1845 3.75 11.5045V13.5045C3.75 14.8345 4.83 15.9045 6.15 15.9045H11.3V17.3745C10.6 17.6045 10.06 18.1445 9.83 18.8445H5.85C5.44 18.8445 5.1 19.1845 5.1 19.5945C5.1 20.0045 5.44 20.3445 5.85 20.3445H9.83C10.14 21.2845 11 21.9445 12.05 21.9445C13.1 21.9445 13.96 21.2845 14.27 20.3445H18.25C18.66 20.3445 19 20.0045 19 19.5945C19 19.1845 18.66 18.8445 18.25 18.8445H14.27C14.04 18.1445 13.5 17.6045 12.8 17.3745V15.9045H17.85C19.17 15.9045 20.25 14.8345 20.25 13.5045V11.5045C20.25 10.1845 19.17 9.10449 17.85 9.10449Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 2 icon with style variants.
+class _ServerServersConnect2Icon {
+  const _ServerServersConnect2Icon();
+
+  /// bold style
+  _ServerServersConnect2Bold get bold => const _ServerServersConnect2Bold();
+}
+
+/// Servers connect 2 — bold style variants.
+class _ServerServersConnect2Bold {
+  const _ServerServersConnect2Bold();
+
+  /// Servers connect 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.25 18.2496H6.64999C6.23999 18.2496 5.89999 17.9096 5.89999 17.4996C5.89999 17.0896 6.23999 16.7496 6.64999 16.7496H11.25C11.66 16.7496 12 17.0896 12 17.4996C12 17.9096 11.66 18.2496 11.25 18.2496ZM18.55 13.5996H5.44999C3.73999 13.5996 2.54999 14.7496 2.54999 16.3996V18.5996C2.54999 20.2496 3.73999 21.3996 5.44999 21.3996H18.55C20.26 21.3996 21.45 20.2496 21.45 18.5996V16.3996C21.45 14.7496 20.26 13.5996 18.55 13.5996Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.15 7.24961H6.54999C6.13999 7.24961 5.79999 6.90961 5.79999 6.49961C5.79999 6.08961 6.13999 5.74961 6.54999 5.74961H11.15C11.56 5.74961 11.9 6.08961 11.9 6.49961C11.9 6.90961 11.56 7.24961 11.15 7.24961ZM18.55 2.59961H5.44999C3.73999 2.59961 2.54999 3.74961 2.54999 5.39961V7.59961C2.54999 9.24961 3.73999 10.3996 5.44999 10.3996H18.55C20.26 10.3996 21.45 9.24961 21.45 7.59961V5.39961C21.45 3.74961 20.26 2.59961 18.55 2.59961Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 3 icon with style variants.
+class _ServerServersConnect3Icon {
+  const _ServerServersConnect3Icon();
+
+  /// bold style
+  _ServerServersConnect3Bold get bold => const _ServerServersConnect3Bold();
+  /// bulk style
+  _ServerServersConnect3Bulk get bulk => const _ServerServersConnect3Bulk();
+  /// light style
+  _ServerServersConnect3Light get light => const _ServerServersConnect3Light();
+  /// outline style
+  _ServerServersConnect3Outline get outline => const _ServerServersConnect3Outline();
+  /// twoTone style
+  _ServerServersConnect3Twotone get twoTone => const _ServerServersConnect3Twotone();
+  /// broken style
+  _ServerServersConnect3Broken get broken => const _ServerServersConnect3Broken();
+}
+
+/// Servers connect 3 — bulk style variants.
+class _ServerServersConnect3Bulk {
+  const _ServerServersConnect3Bulk();
+
+  /// Servers connect 3 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.29 8.43555C5.48 8.33555 5.66 8.25555 5.86 8.18555C6.18 8.07555 6.51 7.99555 6.86 7.97555H6.87C6.96 7.96555 7.06 7.96555 7.15 7.96555H16.85C16.94 7.96555 17.04 7.96555 17.13 7.97555H17.14C17.48 8.00555 17.82 8.07555 18.13 8.19555H18.14C18.34 8.25555 18.53 8.33555 18.71 8.43555C19.64 7.82555 20.25 6.77555 20.25 5.58555C20.25 3.71555 18.72 2.18555 16.85 2.18555H7.15C5.28 2.18555 3.75 3.71555 3.75 5.58555C3.75 6.77555 4.36 7.82555 5.29 8.43555Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.59 9.54543C18.08 9.23543 17.49 9.06543 16.85 9.06543H7.15C6.51 9.06543 5.92 9.23543 5.41 9.54543C4.42 10.1354 3.75 11.2254 3.75 12.4654C3.75 13.5854 4.3 14.5854 5.15 15.2054C5.71 15.6254 6.4 15.8654 7.15 15.8654H11.3H12.8H16.85C17.6 15.8654 18.29 15.6254 18.85 15.2054C19.7 14.5854 20.25 13.5854 20.25 12.4654C20.25 11.2254 19.58 10.1354 18.59 9.54543Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.65002 4.74512H9.15002C9.56002 4.74512 9.90002 5.07512 9.90002 5.49512C9.90002 5.90512 9.56002 6.24512 9.15002 6.24512H7.65002C7.24002 6.24512 6.90002 5.90512 6.90002 5.49512C6.90002 5.07512 7.24002 4.74512 7.65002 4.74512Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.65002 13.215H9.15002C9.56002 13.215 9.90002 12.875 9.90002 12.465C9.90002 12.055 9.56002 11.715 9.15002 11.715H7.65002C7.24002 11.715 6.90002 12.055 6.90002 12.465C6.90002 12.875 7.24002 13.215 7.65002 13.215Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3 15.8652V17.2352C10.59 17.4652 10.05 18.0052 9.81998 18.7152H5.84998C5.43998 18.7152 5.09998 19.0552 5.09998 19.4652C5.09998 19.8752 5.43998 20.2152 5.84998 20.2152H9.81998C10.12 21.1552 10.99 21.8152 12.05 21.8152C13.11 21.8152 13.98 21.1552 14.28 20.2152H18.25C18.66 20.2152 19 19.8752 19 19.4652C19 19.0552 18.66 18.7152 18.25 18.7152H14.28C14.05 18.0052 13.51 17.4652 12.8 17.2352V15.8652H11.3ZM12.05 20.3152C12.53 20.3152 12.9 19.9452 12.9 19.4652C12.9 18.9852 12.53 18.6152 12.05 18.6152C11.57 18.6152 11.2 18.9852 11.2 19.4652C11.2 19.9452 11.57 20.3152 12.05 20.3152Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 3 — broken style variants.
+class _ServerServersConnect3Broken {
+  const _ServerServersConnect3Broken();
+
+  /// Servers connect 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6022 19.3979C13.6022 20.2832 12.8846 21.0009 11.9992 21.0009C11.1139 21.0009 10.3962 20.2832 10.3962 19.3979C10.3962 18.5126 11.1139 17.7949 11.9992 17.7949C12.8846 17.7949 13.6022 18.5126 13.6022 19.3979Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2243 19.4004H13.6006M10.3932 19.4004H5.77319" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.998 17.7905V14.9668" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.1841 3.14648H7.09413C5.50376 3.14648 4.21436 4.43588 4.21436 6.02625C4.21436 7.61663 5.50376 8.90602 7.09413 8.90602H16.9019C18.4922 8.90602 19.7816 7.61663 19.7816 6.02625C19.7816 4.43588 18.4922 3.14648 16.9019 3.14648H16.407" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.7816 11.786C19.7816 13.3764 18.4922 14.6658 16.9019 14.6658H7.09413C5.50376 14.6658 4.21436 13.3764 4.21436 11.786C4.21436 10.1956 5.50376 8.90625 7.09413 8.90625H13.1841" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.62305 5.92969H9.08252" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.62305 11.7852H9.08252" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 3 — twoTone style variants.
+class _ServerServersConnect3Twotone {
+  const _ServerServersConnect3Twotone();
+
+  /// Servers connect 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.63474 8.85645H17.3645C18.9765 8.85645 20.2834 10.1675 20.2834 11.7848C20.2834 13.4021 18.9765 14.7132 17.3645 14.7132H7.63474C6.02267 14.7132 4.71582 13.4021 4.71582 11.7848C4.71582 10.1675 6.02267 8.85645 7.63474 8.85645Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0917 19.388C14.0917 20.2782 13.3726 20.9995 12.4853 20.9995C11.5979 20.9995 10.8789 20.2782 10.8789 19.388C10.8789 18.4977 11.5979 17.7764 12.4853 17.7764C13.3726 17.7764 14.0917 18.4977 14.0917 19.388Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.0909 19.3878L18.7245 19.3877M10.8781 19.3878L6.24414 19.3877" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.4844 17.7714V14.7129" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.12305 11.7852H9.58251" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.63572 8.85677C6.02364 8.85677 4.7168 7.54569 4.7168 5.92839C4.7168 4.31108 6.02364 3 7.63572 3H17.3654C18.9775 3 20.2844 4.31108 20.2844 5.92839C20.2844 7.54569 18.9775 8.85677 17.3654 8.85677" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.12305 5.92871H9.58251" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 3 — outline style variants.
+class _ServerServersConnect3Outline {
+  const _ServerServersConnect3Outline();
+
+  /// Servers connect 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.46631 11.7851C3.46631 9.75591 5.10665 8.10675 7.13523 8.10675H16.865C18.8935 8.10675 20.5339 9.75591 20.5339 11.7851C20.5339 13.8144 18.8935 15.4635 16.865 15.4635H7.13523C5.10665 15.4635 3.46631 13.8144 3.46631 11.7851ZM7.13523 9.60675C5.93966 9.60675 4.96631 10.5798 4.96631 11.7851C4.96631 12.9905 5.93965 13.9635 7.13523 13.9635H16.865C18.0605 13.9635 19.0339 12.9905 19.0339 11.7851C19.0339 10.5798 18.0605 9.60675 16.865 9.60675H7.13523Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9853 18.5264C11.5144 18.5264 11.1289 18.9096 11.1289 19.388C11.1289 19.8663 11.5144 20.2495 11.9853 20.2495C12.4561 20.2495 12.8417 19.8663 12.8417 19.388C12.8417 18.9096 12.4561 18.5264 11.9853 18.5264ZM9.62891 19.388C9.62891 18.0858 10.6814 17.0264 11.9853 17.0264C13.2891 17.0264 14.3417 18.0858 14.3417 19.388C14.3417 20.6901 13.2891 21.7495 11.9853 21.7495C10.6814 21.7495 9.62891 20.6901 9.62891 19.388Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.99414 19.3877C4.99415 18.9735 5.32995 18.6377 5.74416 18.6377L10.3781 18.6378C10.7923 18.6378 11.1281 18.9736 11.1281 19.3878C11.1281 19.802 10.7923 20.1378 10.3781 20.1378L5.74412 20.1377C5.32991 20.1377 4.99413 19.8019 4.99414 19.3877ZM13.5909 18.6378L18.2245 18.6377C18.6387 18.6377 18.9745 18.9735 18.9745 19.3877C18.9745 19.8019 18.6387 20.1377 18.2245 20.1377L13.5909 20.1378C13.1767 20.1378 12.8409 19.802 12.8409 19.3878C12.8409 18.9736 13.1766 18.6378 13.5909 18.6378Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9844 13.9629C12.3986 13.9629 12.7344 14.2987 12.7344 14.7129V17.7714C12.7344 18.1856 12.3986 18.5214 11.9844 18.5214C11.5702 18.5214 11.2344 18.1856 11.2344 17.7714V14.7129C11.2344 14.2987 11.5702 13.9629 11.9844 13.9629Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.87305 11.7852C6.87305 11.3709 7.20883 11.0352 7.62305 11.0352H9.08251C9.49672 11.0352 9.83251 11.3709 9.83251 11.7852C9.83251 12.1994 9.49672 12.5352 9.08251 12.5352H7.62305C7.20883 12.5352 6.87305 12.1994 6.87305 11.7852Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.4668 5.92839C3.4668 3.89916 5.10714 2.25 7.13572 2.25H16.8654C18.894 2.25 20.5344 3.89916 20.5344 5.92839C20.5344 7.95761 18.894 9.60677 16.8654 9.60677C16.4512 9.60677 16.1154 9.27099 16.1154 8.85677C16.1154 8.44256 16.4512 8.10677 16.8654 8.10677C18.061 8.10677 19.0344 7.13377 19.0344 5.92839C19.0344 4.72301 18.061 3.75 16.8654 3.75H7.13572C5.94014 3.75 4.9668 4.72301 4.9668 5.92839C4.9668 7.13377 5.94014 8.10677 7.13572 8.10677C7.54993 8.10677 7.88572 8.44256 7.88572 8.85677C7.88572 9.27099 7.54993 9.60677 7.13572 9.60677C5.10714 9.60677 3.4668 7.95761 3.4668 5.92839Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.87305 5.92871C6.87305 5.5145 7.20883 5.17871 7.62305 5.17871H9.08251C9.49672 5.17871 9.83251 5.5145 9.83251 5.92871C9.83251 6.34292 9.49672 6.67871 9.08251 6.67871H7.62305C7.20883 6.67871 6.87305 6.34292 6.87305 5.92871Z" fill="black"/> </svg> ',
+    category: 'Server',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 3 — bold style variants.
+class _ServerServersConnect3Bold {
+  const _ServerServersConnect3Bold();
+
+  /// Servers connect 3 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.65 4.74555H9.15C9.56 4.74555 9.9 5.07555 9.9 5.49555C9.9 5.90555 9.56 6.24555 9.15 6.24555H7.65C7.24 6.24555 6.9 5.90555 6.9 5.49555C6.9 5.07555 7.24 4.74555 7.65 4.74555ZM5.29 8.43555C5.48 8.33555 5.66 8.25555 5.86 8.18555C6.18 8.07555 6.51 7.99555 6.86 7.97555H6.87C6.96 7.96555 7.06 7.96555 7.15 7.96555H16.85C16.94 7.96555 17.04 7.96555 17.13 7.97555H17.14C17.48 8.00555 17.82 8.07555 18.13 8.19555H18.14C18.34 8.25555 18.53 8.33555 18.71 8.43555C19.64 7.82555 20.25 6.77555 20.25 5.58555C20.25 3.71555 18.72 2.18555 16.85 2.18555H7.15C5.28 2.18555 3.75 3.71555 3.75 5.58555C3.75 6.77555 4.36 7.82555 5.29 8.43555Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9 19.4654C12.9 19.9454 12.53 20.3154 12.05 20.3154C11.57 20.3154 11.2 19.9454 11.2 19.4654C11.2 18.9854 11.57 18.6154 12.05 18.6154C12.53 18.6154 12.9 18.9854 12.9 19.4654ZM9.15 13.2154H7.65C7.24 13.2154 6.9 12.8754 6.9 12.4654C6.9 12.0554 7.24 11.7154 7.65 11.7154H9.15C9.56 11.7154 9.9 12.0554 9.9 12.4654C9.9 12.8754 9.56 13.2154 9.15 13.2154ZM18.59 9.54543C18.08 9.23543 17.49 9.06543 16.85 9.06543H7.15C6.51 9.06543 5.92 9.23543 5.41 9.54543C4.42 10.1354 3.75 11.2254 3.75 12.4654C3.75 13.5854 4.3 14.5854 5.15 15.2054C5.71 15.6254 6.4 15.8654 7.15 15.8654H11.3V17.2354C10.59 17.4654 10.05 18.0054 9.82 18.7154H5.85C5.44 18.7154 5.1 19.0554 5.1 19.4654C5.1 19.8754 5.44 20.2154 5.85 20.2154H9.82C10.12 21.1554 10.99 21.8154 12.05 21.8154C13.11 21.8154 13.98 21.1554 14.28 20.2154H18.25C18.66 20.2154 19 19.8754 19 19.4654C19 19.0554 18.66 18.7154 18.25 18.7154H14.28C14.05 18.0054 13.51 17.4654 12.8 17.2354V15.8654H16.85C17.6 15.8654 18.29 15.6254 18.85 15.2054C19.7 14.5854 20.25 13.5854 20.25 12.4654C20.25 11.2254 19.58 10.1354 18.59 9.54543Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 3 — light style variants.
+class _ServerServersConnect3Light {
+  const _ServerServersConnect3Light();
+
+  /// Servers connect 3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.13474 8.85645H16.8645C18.4765 8.85645 19.7834 10.1675 19.7834 11.7848C19.7834 13.4021 18.4765 14.7132 16.8645 14.7132H7.13474C5.52267 14.7132 4.21582 13.4021 4.21582 11.7848C4.21582 10.1675 5.52267 8.85645 7.13474 8.85645Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5917 19.388C13.5917 20.2782 12.8726 20.9995 11.9853 20.9995C11.0979 20.9995 10.3789 20.2782 10.3789 19.388C10.3789 18.4977 11.0979 17.7764 11.9853 17.7764C12.8726 17.7764 13.5917 18.4977 13.5917 19.388Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5909 19.3878L18.2245 19.3877M10.3781 19.3878L5.74414 19.3877" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9844 17.7714V14.7129" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.62305 11.7852H9.08251" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.13572 8.85677C5.52364 8.85677 4.2168 7.54569 4.2168 5.92839C4.2168 4.31108 5.52364 3 7.13572 3H16.8654C18.4775 3 19.7844 4.31108 19.7844 5.92839C19.7844 7.54569 18.4775 8.85677 16.8654 8.85677" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.62305 5.92871H9.08251" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 4 icon with style variants.
+class _ServerServersConnect4Icon {
+  const _ServerServersConnect4Icon();
+
+  /// bold style
+  _ServerServersConnect4Bold get bold => const _ServerServersConnect4Bold();
+  /// bulk style
+  _ServerServersConnect4Bulk get bulk => const _ServerServersConnect4Bulk();
+  /// light style
+  _ServerServersConnect4Light get light => const _ServerServersConnect4Light();
+  /// outline style
+  _ServerServersConnect4Outline get outline => const _ServerServersConnect4Outline();
+  /// twoTone style
+  _ServerServersConnect4Twotone get twoTone => const _ServerServersConnect4Twotone();
+  /// broken style
+  _ServerServersConnect4Broken get broken => const _ServerServersConnect4Broken();
+}
+
+/// Servers connect 4 — bulk style variants.
+class _ServerServersConnect4Bulk {
+  const _ServerServersConnect4Bulk();
+
+  /// Servers connect 4 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.85 2.18555H7.15C5.28 2.18555 3.75 3.71555 3.75 5.58555C3.75 6.71242 4.297 7.71375 5.14474 8.3348C5.23274 8.39926 5.34953 8.40322 5.44789 8.35604C5.58235 8.29154 5.71599 8.23595 5.86 8.18555C6.18 8.07555 6.51 7.99555 6.86 7.97555H6.87C6.96 7.96555 7.06 7.96555 7.15 7.96555H16.85C16.94 7.96555 17.04 7.96555 17.13 7.97555H17.14C17.48 8.00555 17.82 8.07555 18.13 8.19555H18.14C18.2812 8.23792 18.4175 8.29026 18.5487 8.35258C18.6495 8.40041 18.7691 8.3981 18.859 8.33207C19.7046 7.71082 20.25 6.71077 20.25 5.58555C20.25 3.71555 18.72 2.18555 16.85 2.18555Z" fill="black"/> <path d="M16.85 15.8654C17.6 15.8654 18.29 15.6254 18.85 15.2054C19.7 14.5854 20.25 13.5854 20.25 12.4654C20.25 11.2254 19.58 10.1354 18.59 9.54543C18.08 9.23543 17.49 9.06543 16.85 9.06543H7.15C6.51 9.06543 5.92 9.23543 5.41 9.54543C4.42 10.1354 3.75 11.2254 3.75 12.4654C3.75 13.5854 4.3 14.5854 5.15 15.2054C5.71 15.6254 6.4 15.8654 7.15 15.8654H11.3H12.8H16.85Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3 15.8652V17.2352C10.59 17.4652 10.05 18.0052 9.81998 18.7152H5.84998C5.43998 18.7152 5.09998 19.0552 5.09998 19.4652C5.09998 19.8752 5.43998 20.2152 5.84998 20.2152H9.81998C10.12 21.1552 10.99 21.8152 12.05 21.8152C13.11 21.8152 13.98 21.1552 14.28 20.2152H18.25C18.66 20.2152 19 19.8752 19 19.4652C19 19.0552 18.66 18.7152 18.25 18.7152H14.28C14.05 18.0052 13.51 17.4652 12.8 17.2352V15.8652H11.3ZM12.05 20.3152C12.53 20.3152 12.9 19.9452 12.9 19.4652C12.9 18.9852 12.53 18.6152 12.05 18.6152C11.57 18.6152 11.2 18.9852 11.2 19.4652C11.2 19.9452 11.57 20.3152 12.05 20.3152Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.08 6.23535C9.67001 6.23535 9.33001 5.89535 9.33001 5.48535C9.33001 5.07535 9.66001 4.73535 10.07 4.73535H10.08C10.49 4.73535 10.83 5.07535 10.83 5.48535C10.83 5.89535 10.49 6.23535 10.08 6.23535ZM7.65001 6.23535C7.23001 6.23535 6.89001 5.89535 6.89001 5.48535C6.89001 5.07535 7.22001 4.73535 7.64001 4.73535H7.65001C8.06001 4.73535 8.40001 5.07535 8.40001 5.48535C8.40001 5.89535 8.06001 6.23535 7.65001 6.23535Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.08 13.2252C9.67001 13.2252 9.33001 12.8852 9.33001 12.4752C9.33001 12.0652 9.66001 11.7252 10.07 11.7252H10.08C10.49 11.7252 10.83 12.0652 10.83 12.4752C10.83 12.8852 10.49 13.2252 10.08 13.2252ZM7.65001 13.2252C7.23001 13.2252 6.89001 12.8852 6.89001 12.4752C6.89001 12.0652 7.22001 11.7252 7.64001 11.7252H7.65001C8.06001 11.7252 8.40001 12.0652 8.40001 12.4752C8.40001 12.8852 8.06001 13.2252 7.65001 13.2252Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 4 — broken style variants.
+class _ServerServersConnect4Broken {
+  const _ServerServersConnect4Broken();
+
+  /// Servers connect 4 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.61816 5.95898H7.62816" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.61816 11.7852H7.62816" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.0603 5.95898H10.0703" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.0603 11.7852H10.0703" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6022 19.3979C13.6022 20.2832 12.8846 21.0009 11.9992 21.0009C11.1139 21.0009 10.3962 20.2832 10.3962 19.3979C10.3962 18.5126 11.1139 17.7949 11.9992 17.7949C12.8846 17.7949 13.6022 18.5126 13.6022 19.3979Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2243 19.4004H13.6006M10.3932 19.4004H5.77319" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.998 17.7899L11.998 14.7422" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.1841 3.14648H7.09413C5.50376 3.14648 4.21436 4.43588 4.21436 6.02625C4.21436 7.61663 5.50376 8.90602 7.09413 8.90602H16.9019C18.4922 8.90602 19.7816 7.61663 19.7816 6.02625C19.7816 4.43588 18.4922 3.14648 16.9019 3.14648H16.407" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.7816 11.786C19.7816 13.3764 18.4922 14.6658 16.9019 14.6658H7.09413C5.50376 14.6658 4.21436 13.3764 4.21436 11.786C4.21436 10.1956 5.50376 8.90625 7.09413 8.90625H13.1841" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 4 — twoTone style variants.
+class _ServerServersConnect4Twotone {
+  const _ServerServersConnect4Twotone();
+
+  /// Servers connect 4 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.63474 8.85645H17.3645C18.9765 8.85645 20.2834 10.1675 20.2834 11.7848C20.2834 13.4021 18.9765 14.7132 17.3645 14.7132H7.63474C6.02267 14.7132 4.71582 13.4021 4.71582 11.7848C4.71582 10.1675 6.02267 8.85645 7.63474 8.85645Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0917 19.388C14.0917 20.2782 13.3726 20.9995 12.4853 20.9995C11.5979 20.9995 10.8789 20.2782 10.8789 19.388C10.8789 18.4977 11.5979 17.7764 12.4853 17.7764C13.3726 17.7764 14.0917 18.4977 14.0917 19.388Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.0909 19.3878L18.7245 19.3877M10.8781 19.3878L6.24414 19.3877" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.12305 11.7852H8.13278M10.5555 11.7852H10.5652" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.4844 17.7714V14.7129" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.63572 8.85677C6.02364 8.85677 4.7168 7.54569 4.7168 5.92839C4.7168 4.31108 6.02364 3 7.63572 3H17.3654C18.9775 3 20.2844 4.31108 20.2844 5.92839C20.2844 7.54569 18.9775 8.85677 17.3654 8.85677" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.12305 5.92871H8.13278M10.5555 5.92871H10.5652" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 4 — outline style variants.
+class _ServerServersConnect4Outline {
+  const _ServerServersConnect4Outline();
+
+  /// Servers connect 4 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.46631 11.7851C3.46631 9.75591 5.10665 8.10675 7.13523 8.10675H16.865C18.8935 8.10675 20.5339 9.75591 20.5339 11.7851C20.5339 13.8144 18.8935 15.4635 16.865 15.4635H7.13523C5.10665 15.4635 3.46631 13.8144 3.46631 11.7851ZM7.13523 9.60675C5.93966 9.60675 4.96631 10.5798 4.96631 11.7851C4.96631 12.9905 5.93965 13.9635 7.13523 13.9635H16.865C18.0605 13.9635 19.0339 12.9905 19.0339 11.7851C19.0339 10.5798 18.0605 9.60675 16.865 9.60675H7.13523Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9853 18.5264C11.5144 18.5264 11.1289 18.9096 11.1289 19.388C11.1289 19.8663 11.5144 20.2495 11.9853 20.2495C12.4561 20.2495 12.8417 19.8663 12.8417 19.388C12.8417 18.9096 12.4561 18.5264 11.9853 18.5264ZM9.62891 19.388C9.62891 18.0858 10.6814 17.0264 11.9853 17.0264C13.2891 17.0264 14.3417 18.0858 14.3417 19.388C14.3417 20.6901 13.2891 21.7495 11.9853 21.7495C10.6814 21.7495 9.62891 20.6901 9.62891 19.388Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.99414 19.3877C4.99415 18.9735 5.32995 18.6377 5.74416 18.6377L10.3781 18.6378C10.7923 18.6378 11.1281 18.9736 11.1281 19.3878C11.1281 19.802 10.7923 20.1378 10.3781 20.1378L5.74412 20.1377C5.32991 20.1377 4.99413 19.8019 4.99414 19.3877ZM13.5909 18.6378L18.2245 18.6377C18.6387 18.6377 18.9745 18.9735 18.9745 19.3877C18.9745 19.8019 18.6387 20.1377 18.2245 20.1377L13.5909 20.1378C13.1767 20.1378 12.8409 19.802 12.8409 19.3878C12.8409 18.9736 13.1766 18.6378 13.5909 18.6378Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.87305 11.7852C6.87305 11.3709 7.20883 11.0352 7.62305 11.0352H7.63278C8.04699 11.0352 8.38278 11.3709 8.38278 11.7852C8.38278 12.1994 8.04699 12.5352 7.63278 12.5352H7.62305C7.20883 12.5352 6.87305 12.1994 6.87305 11.7852ZM9.30548 11.7852C9.30548 11.3709 9.64127 11.0352 10.0555 11.0352H10.0652C10.4794 11.0352 10.8152 11.3709 10.8152 11.7852C10.8152 12.1994 10.4794 12.5352 10.0652 12.5352H10.0555C9.64127 12.5352 9.30548 12.1994 9.30548 11.7852Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9844 13.9629C12.3986 13.9629 12.7344 14.2987 12.7344 14.7129V17.7714C12.7344 18.1856 12.3986 18.5214 11.9844 18.5214C11.5702 18.5214 11.2344 18.1856 11.2344 17.7714V14.7129C11.2344 14.2987 11.5702 13.9629 11.9844 13.9629Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.4668 5.92839C3.4668 3.89916 5.10714 2.25 7.13572 2.25H16.8654C18.894 2.25 20.5344 3.89916 20.5344 5.92839C20.5344 7.95761 18.894 9.60677 16.8654 9.60677C16.4512 9.60677 16.1154 9.27099 16.1154 8.85677C16.1154 8.44256 16.4512 8.10677 16.8654 8.10677C18.061 8.10677 19.0344 7.13377 19.0344 5.92839C19.0344 4.72301 18.061 3.75 16.8654 3.75H7.13572C5.94014 3.75 4.9668 4.72301 4.9668 5.92839C4.9668 7.13377 5.94014 8.10677 7.13572 8.10677C7.54993 8.10677 7.88572 8.44256 7.88572 8.85677C7.88572 9.27099 7.54993 9.60677 7.13572 9.60677C5.10714 9.60677 3.4668 7.95761 3.4668 5.92839Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.87305 5.92871C6.87305 5.5145 7.20883 5.17871 7.62305 5.17871H7.63278C8.04699 5.17871 8.38278 5.5145 8.38278 5.92871C8.38278 6.34292 8.04699 6.67871 7.63278 6.67871H7.62305C7.20883 6.67871 6.87305 6.34292 6.87305 5.92871ZM9.30548 5.92871C9.30548 5.5145 9.64127 5.17871 10.0555 5.17871H10.0652C10.4794 5.17871 10.8152 5.5145 10.8152 5.92871C10.8152 6.34292 10.4794 6.67871 10.0652 6.67871H10.0555C9.64127 6.67871 9.30548 6.34292 9.30548 5.92871Z" fill="black"/> </svg> ',
+    category: 'Server',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 4 — bold style variants.
+class _ServerServersConnect4Bold {
+  const _ServerServersConnect4Bold();
+
+  /// Servers connect 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.08 6.23555C9.67 6.23555 9.33 5.89555 9.33 5.48555C9.33 5.07555 9.66 4.73555 10.07 4.73555H10.08C10.49 4.73555 10.83 5.07555 10.83 5.48555C10.83 5.89555 10.49 6.23555 10.08 6.23555ZM7.65 6.23555C7.23 6.23555 6.89 5.89555 6.89 5.48555C6.89 5.07555 7.22 4.73555 7.64 4.73555H7.65C8.06 4.73555 8.4 5.07555 8.4 5.48555C8.4 5.89555 8.06 6.23555 7.65 6.23555ZM16.85 2.18555H7.15C5.28 2.18555 3.75 3.71555 3.75 5.58555C3.75 6.71242 4.297 7.71375 5.14474 8.3348C5.23274 8.39926 5.34953 8.40322 5.44789 8.35604C5.58235 8.29154 5.71599 8.23595 5.86 8.18555C6.18 8.07555 6.51 7.99555 6.86 7.97555H6.87C6.96 7.96555 7.06 7.96555 7.15 7.96555H16.85C16.94 7.96555 17.04 7.96555 17.13 7.97555H17.14C17.48 8.00555 17.82 8.07555 18.13 8.19555H18.14C18.2812 8.23792 18.4175 8.29026 18.5487 8.35258C18.6495 8.40041 18.7691 8.3981 18.859 8.33207C19.7046 7.71082 20.25 6.71077 20.25 5.58555C20.25 3.71555 18.72 2.18555 16.85 2.18555Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9 19.4654C12.9 19.9454 12.53 20.3154 12.05 20.3154C11.57 20.3154 11.2 19.9454 11.2 19.4654C11.2 18.9854 11.57 18.6154 12.05 18.6154C12.53 18.6154 12.9 18.9854 12.9 19.4654ZM10.08 13.2254C9.67 13.2254 9.33 12.8854 9.33 12.4754C9.33 12.0654 9.66 11.7254 10.07 11.7254H10.08C10.49 11.7254 10.83 12.0654 10.83 12.4754C10.83 12.8854 10.49 13.2254 10.08 13.2254ZM7.65 13.2254C7.23 13.2254 6.89 12.8854 6.89 12.4754C6.89 12.0654 7.22 11.7254 7.64 11.7254H7.65C8.06 11.7254 8.4 12.0654 8.4 12.4754C8.4 12.8854 8.06 13.2254 7.65 13.2254ZM16.85 15.8654C17.6 15.8654 18.29 15.6254 18.85 15.2054C19.7 14.5854 20.25 13.5854 20.25 12.4654C20.25 11.2254 19.58 10.1354 18.59 9.54543C18.08 9.23543 17.49 9.06543 16.85 9.06543H7.15C6.51 9.06543 5.92 9.23543 5.41 9.54543C4.42 10.1354 3.75 11.2254 3.75 12.4654C3.75 13.5854 4.3 14.5854 5.15 15.2054C5.71 15.6254 6.4 15.8654 7.15 15.8654H11.3V17.2354C10.59 17.4654 10.05 18.0054 9.82 18.7154H5.85C5.44 18.7154 5.1 19.0554 5.1 19.4654C5.1 19.8754 5.44 20.2154 5.85 20.2154H9.82C10.12 21.1554 10.99 21.8154 12.05 21.8154C13.11 21.8154 13.98 21.1554 14.28 20.2154H18.25C18.66 20.2154 19 19.8754 19 19.4654C19 19.0554 18.66 18.7154 18.25 18.7154H14.28C14.05 18.0054 13.51 17.4654 12.8 17.2354V15.8654H16.85Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 4 — light style variants.
+class _ServerServersConnect4Light {
+  const _ServerServersConnect4Light();
+
+  /// Servers connect 4 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.13474 8.85645H16.8645C18.4765 8.85645 19.7834 10.1675 19.7834 11.7848C19.7834 13.4021 18.4765 14.7132 16.8645 14.7132H7.13474C5.52267 14.7132 4.21582 13.4021 4.21582 11.7848C4.21582 10.1675 5.52267 8.85645 7.13474 8.85645Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5917 19.388C13.5917 20.2782 12.8726 20.9995 11.9853 20.9995C11.0979 20.9995 10.3789 20.2782 10.3789 19.388C10.3789 18.4977 11.0979 17.7764 11.9853 17.7764C12.8726 17.7764 13.5917 18.4977 13.5917 19.388Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5909 19.3878L18.2245 19.3877M10.3781 19.3878L5.74414 19.3877" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.62305 11.7852H7.63278M10.0555 11.7852H10.0652" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9844 17.7714V14.7129" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.13572 8.85677C5.52364 8.85677 4.2168 7.54569 4.2168 5.92839C4.2168 4.31108 5.52364 3 7.13572 3H16.8654C18.4775 3 19.7844 4.31108 19.7844 5.92839C19.7844 7.54569 18.4775 8.85677 16.8654 8.85677" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.62305 5.92871H7.63278M10.0555 5.92871H10.0652" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 5 icon with style variants.
+class _ServerServersConnect5Icon {
+  const _ServerServersConnect5Icon();
+
+  /// bold style
+  _ServerServersConnect5Bold get bold => const _ServerServersConnect5Bold();
+  /// bulk style
+  _ServerServersConnect5Bulk get bulk => const _ServerServersConnect5Bulk();
+  /// light style
+  _ServerServersConnect5Light get light => const _ServerServersConnect5Light();
+  /// outline style
+  _ServerServersConnect5Outline get outline => const _ServerServersConnect5Outline();
+  /// twoTone style
+  _ServerServersConnect5Twotone get twoTone => const _ServerServersConnect5Twotone();
+  /// broken style
+  _ServerServersConnect5Broken get broken => const _ServerServersConnect5Broken();
+}
+
+/// Servers connect 5 — bulk style variants.
+class _ServerServersConnect5Bulk {
+  const _ServerServersConnect5Bulk();
+
+  /// Servers connect 5 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2004 11.25C21.3661 11.25 21.5004 11.1157 21.5004 10.95V7.8C21.5004 4.63 19.2504 2.5 15.9004 2.5H8.00043C4.76143 2.5 2.50043 4.679 2.50043 7.8V10.95C2.50043 11.1157 2.63474 11.25 2.80043 11.25H21.2004Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.79963 12.75C2.63395 12.75 2.49963 12.8843 2.49963 13.05V16.2C2.49963 19.37 4.70963 21.5 7.99963 21.5H15.9996C19.2386 21.5 21.4996 19.321 21.4996 16.2V13.05C21.4996 12.8843 21.3653 12.75 21.1996 12.75H2.79963Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.40039 6.65039H7.90039C8.31439 6.65039 8.65039 6.98639 8.65039 7.40039C8.65039 7.81439 8.31439 8.15039 7.90039 8.15039H7.40039C6.98639 8.15039 6.65039 7.81439 6.65039 7.40039C6.65039 6.98639 6.98639 6.65039 7.40039 6.65039ZM12.0994 6.65039H16.5994C17.0134 6.65039 17.3494 6.98639 17.3494 7.40039C17.3494 7.81439 17.0134 8.15039 16.5994 8.15039H12.0994C11.6854 8.15039 11.3494 7.81439 11.3494 7.40039C11.3494 6.98639 11.6854 6.65039 12.0994 6.65039Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5996 17.3504H12.0996C11.6856 17.3504 11.3496 17.0144 11.3496 16.6004C11.3496 16.1864 11.6856 15.8504 12.0996 15.8504H16.5996C17.0136 15.8504 17.3496 16.1864 17.3496 16.6004C17.3496 17.0144 17.0136 17.3504 16.5996 17.3504ZM7.9006 17.3504H7.4006C6.9866 17.3504 6.6506 17.0144 6.6506 16.6004C6.6506 16.1864 6.9866 15.8504 7.4006 15.8504H7.9006C8.3146 15.8504 8.6506 16.1864 8.6506 16.6004C8.6506 17.0144 8.3146 17.3504 7.9006 17.3504Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 5 — broken style variants.
+class _ServerServersConnect5Broken {
+  const _ServerServersConnect5Broken();
+
+  /// Servers connect 5 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.02638 3C5.08119 3 3 4.83405 3 7.78216V16.2159C3 19.165 5.08119 21 8.02638 21H15.9736C18.9188 21 21 19.165 21 16.2169V7.78216C21 4.84281 18.9188 3 15.9736 3H12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 16.1348H7.88577M12.1017 16.1348H16.6358" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 7.86523H7.88577M12.1017 7.86523H16.6358" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0481 12H3.02344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 5 — twoTone style variants.
+class _ServerServersConnect5Twotone {
+  const _ServerServersConnect5Twotone();
+
+  /// Servers connect 5 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.5 7.78216V16.2169C21.5 19.165 19.4188 21 16.4736 21H8.52638C5.58119 21 3.5 19.165 3.5 16.2159V7.78216C3.5 4.83405 5.58119 3 8.52638 3H16.4736C19.4188 3 21.5 4.84281 21.5 7.78216Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.86328 16.1348H8.38577M12.6017 16.1348H17.1358" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.86328 7.86523H8.38577M12.6017 7.86523H17.1358" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.4767 12H3.52344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 5 — outline style variants.
+class _ServerServersConnect5Outline {
+  const _ServerServersConnect5Outline();
+
+  /// Servers connect 5 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.89773 3.73657C4.94853 2.75842 6.39899 2.25 8.02638 2.25H15.9736C17.6019 2.25 19.0523 2.76117 20.1026 3.7402C21.1588 4.72468 21.75 6.12669 21.75 7.78216V16.2169C21.75 17.8762 21.1592 19.2788 20.1024 20.2629C19.0516 21.2413 17.6011 21.75 15.9736 21.75H8.02638C6.39889 21.75 4.94838 21.2413 3.89761 20.2627C2.8408 19.2785 2.25 17.8756 2.25 16.2159V7.78216C2.25 6.1228 2.84086 4.72038 3.89773 3.73657ZM4.91976 4.83451C4.19973 5.50475 3.75 6.49341 3.75 7.78216V16.2159C3.75 17.5052 4.1998 18.4944 4.91988 19.165C5.64599 19.8412 6.70868 20.25 8.02638 20.25H15.9736C17.2913 20.25 18.354 19.8412 19.0802 19.1651C19.8003 18.4946 20.25 17.5056 20.25 16.2169V7.78216C20.25 6.49828 19.8006 5.50921 19.0799 4.83745C18.3533 4.16024 17.2905 3.75 15.9736 3.75H8.02638C6.70857 3.75 5.64585 4.15861 4.91976 4.83451Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.61328 16.1348C6.61328 15.7206 6.94907 15.3848 7.36328 15.3848H7.88577C8.29998 15.3848 8.63577 15.7206 8.63577 16.1348C8.63577 16.549 8.29998 16.8848 7.88577 16.8848H7.36328C6.94907 16.8848 6.61328 16.549 6.61328 16.1348ZM11.3517 16.1348C11.3517 15.7206 11.6875 15.3848 12.1017 15.3848H16.6358C17.05 15.3848 17.3858 15.7206 17.3858 16.1348C17.3858 16.549 17.05 16.8848 16.6358 16.8848H12.1017C11.6875 16.8848 11.3517 16.549 11.3517 16.1348Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.61328 7.86523C6.61328 7.45102 6.94907 7.11523 7.36328 7.11523H7.88577C8.29998 7.11523 8.63577 7.45102 8.63577 7.86523C8.63577 8.27945 8.29998 8.61523 7.88577 8.61523H7.36328C6.94907 8.61523 6.61328 8.27945 6.61328 7.86523ZM11.3517 7.86523C11.3517 7.45102 11.6875 7.11523 12.1017 7.11523H16.6358C17.05 7.11523 17.3858 7.45102 17.3858 7.86523C17.3858 8.27945 17.05 8.61523 16.6358 8.61523H12.1017C11.6875 8.61523 11.3517 8.27945 11.3517 7.86523Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.27344 12C2.27344 11.5858 2.60922 11.25 3.02344 11.25H20.9767C21.3909 11.25 21.7267 11.5858 21.7267 12C21.7267 12.4142 21.3909 12.75 20.9767 12.75H3.02344C2.60922 12.75 2.27344 12.4142 2.27344 12Z" fill="black"/> </svg> ',
+    category: 'Server',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 5 — bold style variants.
+class _ServerServersConnect5Bold {
+  const _ServerServersConnect5Bold();
+
+  /// Servers connect 5 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.40043 6.65H7.90043C8.31443 6.65 8.65043 6.986 8.65043 7.4C8.65043 7.814 8.31443 8.15 7.90043 8.15H7.40043C6.98643 8.15 6.65043 7.814 6.65043 7.4C6.65043 6.986 6.98643 6.65 7.40043 6.65ZM12.0994 6.65H16.5994C17.0134 6.65 17.3494 6.986 17.3494 7.4C17.3494 7.814 17.0134 8.15 16.5994 8.15H12.0994C11.6854 8.15 11.3494 7.814 11.3494 7.4C11.3494 6.986 11.6854 6.65 12.0994 6.65ZM21.2004 11.25C21.3661 11.25 21.5004 11.1157 21.5004 10.95V7.8C21.5004 4.63 19.2504 2.5 15.9004 2.5H8.00043C4.76143 2.5 2.50043 4.679 2.50043 7.8V10.95C2.50043 11.1157 2.63474 11.25 2.80043 11.25H21.2004Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5996 17.35H12.0996C11.6856 17.35 11.3496 17.014 11.3496 16.6C11.3496 16.186 11.6856 15.85 12.0996 15.85H16.5996C17.0136 15.85 17.3496 16.186 17.3496 16.6C17.3496 17.014 17.0136 17.35 16.5996 17.35ZM7.90063 17.35H7.40063C6.98663 17.35 6.65063 17.014 6.65063 16.6C6.65063 16.186 6.98663 15.85 7.40063 15.85H7.90063C8.31463 15.85 8.65063 16.186 8.65063 16.6C8.65063 17.014 8.31463 17.35 7.90063 17.35ZM2.79963 12.75C2.63395 12.75 2.49963 12.8843 2.49963 13.05V16.2C2.49963 19.37 4.70963 21.5 7.99963 21.5H15.9996C19.2386 21.5 21.4996 19.321 21.4996 16.2V13.05C21.4996 12.8843 21.3653 12.75 21.1996 12.75H2.79963Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Servers connect 5 — light style variants.
+class _ServerServersConnect5Light {
+  const _ServerServersConnect5Light();
+
+  /// Servers connect 5 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Servers connect 5',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 7.78216V16.2169C21 19.165 18.9188 21 15.9736 21H8.02638C5.08119 21 3 19.165 3 16.2159V7.78216C3 4.83405 5.08119 3 8.02638 3H15.9736C18.9188 3 21 4.84281 21 7.78216Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 16.1348H7.88577M12.1017 16.1348H16.6358" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 7.86523H7.88577M12.1017 7.86523H16.6358" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9767 12H3.02344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Server',
     style: IconfyStyle.light,
@@ -276,8 +1017,6 @@ class _ServerServerTransferIcon {
   _ServerServerTransferBulk get bulk => const _ServerServerTransferBulk();
   /// light style
   _ServerServerTransferLight get light => const _ServerServerTransferLight();
-  /// outline style
-  _ServerServerTransferOutline get outline => const _ServerServerTransferOutline();
   /// twoTone style
   _ServerServerTransferTwotone get twoTone => const _ServerServerTransferTwotone();
   /// broken style
@@ -329,21 +1068,6 @@ class _ServerServerTransferTwotone {
 
 }
 
-/// Server transfer — outline style variants.
-class _ServerServerTransferOutline {
-  const _ServerServerTransferOutline();
-
-  /// Server transfer — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Server transfer',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.89795 3.73655C4.94873 2.75841 6.39918 2.25 8.02653 2.25H15.9736C17.6019 2.25 19.0523 2.76116 20.1026 3.74017C21.1588 4.72464 21.7499 6.12664 21.7499 7.78208V11.3519C21.7499 11.7661 21.4141 12.1019 20.9999 12.1019C20.5857 12.1019 20.2499 11.7661 20.2499 11.3519V7.78208C20.2499 6.49822 19.8005 5.50918 19.0798 4.83743C18.3533 4.16023 17.2905 3.75 15.9736 3.75H8.02653C6.70875 3.75 5.64605 4.1586 4.91998 4.83448C4.19997 5.50472 3.75024 6.49335 3.75024 7.78208V16.2157C3.75024 17.505 4.20003 18.4941 4.9201 19.1647C5.6462 19.8409 6.70886 20.2497 8.02653 20.2497H10.1359C10.5501 20.2497 10.8859 20.5855 10.8859 20.9997C10.8859 21.4139 10.5501 21.7497 10.1359 21.7497H8.02653C6.39907 21.7497 4.94859 21.241 3.89783 20.2624C2.84103 19.2782 2.25024 17.8754 2.25024 16.2157V7.78208C2.25024 6.12275 2.84109 4.72034 3.89795 3.73655Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.27344 12C2.27344 11.5858 2.60922 11.25 3.02344 11.25H11.2469C11.6611 11.25 11.9969 11.5858 11.9969 12C11.9969 12.4142 11.6611 12.75 11.2469 12.75H3.02344C2.60922 12.75 2.27344 12.4142 2.27344 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.61328 16.1354C6.61328 15.7212 6.94907 15.3854 7.36328 15.3854H7.88576C8.29997 15.3854 8.63576 15.7212 8.63576 16.1354C8.63576 16.5496 8.29997 16.8854 7.88576 16.8854H7.36328C6.94907 16.8854 6.61328 16.5496 6.61328 16.1354Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.61328 7.86523C6.61328 7.45102 6.94907 7.11523 7.36328 7.11523H7.88576C8.29997 7.11523 8.63576 7.45102 8.63576 7.86523C8.63576 8.27945 8.29997 8.61523 7.88576 8.61523H7.36328C6.94907 8.61523 6.61328 8.27945 6.61328 7.86523ZM11.3516 7.86523C11.3516 7.45102 11.6874 7.11523 12.1016 7.11523H16.6356C17.0498 7.11523 17.3856 7.45102 17.3856 7.86523C17.3856 8.27945 17.0498 8.61523 16.6356 8.61523H12.1016C11.6874 8.61523 11.3516 8.27945 11.3516 7.86523Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.898 13.762C14.1886 13.4816 14.649 13.4817 14.9396 13.7621L16.5916 15.3568C16.8897 15.6445 16.898 16.1193 16.6104 16.4173C16.3227 16.7153 15.8479 16.7237 15.5499 16.4361L14.4185 15.344L13.2863 16.4362C12.9882 16.7238 12.5134 16.7153 12.2259 16.4171C11.9383 16.119 11.9468 15.6442 12.2449 15.3567L13.898 13.762Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5402 18.8846C21.8278 19.1827 21.8193 19.6575 21.5212 19.945L19.8681 21.5397C19.5775 21.8201 19.1171 21.82 18.8265 21.5396L17.1744 19.9449C16.8764 19.6572 16.868 19.1824 17.1557 18.8844C17.4434 18.5864 17.9182 18.578 18.2162 18.8657L19.3475 19.9577L20.4797 18.8655C20.7778 18.5779 21.2526 18.5865 21.5402 18.8846Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.418 13.5527C14.8322 13.5527 15.168 13.8885 15.168 14.3027V20.5248C15.168 20.939 14.8322 21.2748 14.418 21.2748C14.0038 21.2748 13.668 20.939 13.668 20.5248V14.3027C13.668 13.8885 14.0038 13.5527 14.418 13.5527Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.3477 14.0264C19.7619 14.0264 20.0977 14.3622 20.0977 14.7764V20.9984C20.0977 21.4126 19.7619 21.7484 19.3477 21.7484C18.9334 21.7484 18.5977 21.4126 18.5977 20.9984V14.7764C18.5977 14.3622 18.9334 14.0264 19.3477 14.0264Z" fill="black"/> </svg> ',
-    category: 'Server',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Server transfer — bold style variants.
 class _ServerServerTransferBold {
   const _ServerServerTransferBold();
@@ -367,6 +1091,114 @@ class _ServerServerTransferLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Server transfer',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9999 11.352V7.78214C20.9999 4.8428 18.9187 3 15.9736 3H8.02635C5.08118 3 3 4.83404 3 7.78214V16.2158C3 19.1649 5.08118 20.9999 8.02635 20.9999H11.1087" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 16.1357H7.88576" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 7.86523H7.88576M12.1017 7.86523H16.6357" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2199 12H3.02344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.1855 16.4316L15.3786 14.8438V20.9997" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9997 19.4128L18.8066 20.9997V14.8447" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server transfer 1 icon with style variants.
+class _ServerServerTransfer1Icon {
+  const _ServerServerTransfer1Icon();
+
+  /// bold style
+  _ServerServerTransfer1Bold get bold => const _ServerServerTransfer1Bold();
+  /// bulk style
+  _ServerServerTransfer1Bulk get bulk => const _ServerServerTransfer1Bulk();
+  /// light style
+  _ServerServerTransfer1Light get light => const _ServerServerTransfer1Light();
+  /// outline style
+  _ServerServerTransfer1Outline get outline => const _ServerServerTransfer1Outline();
+  /// twoTone style
+  _ServerServerTransfer1Twotone get twoTone => const _ServerServerTransfer1Twotone();
+  /// broken style
+  _ServerServerTransfer1Broken get broken => const _ServerServerTransfer1Broken();
+}
+
+/// Server transfer 1 — bulk style variants.
+class _ServerServerTransfer1Bulk {
+  const _ServerServerTransfer1Bulk();
+
+  /// Server transfer 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server transfer 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9842 10.3457C21.1499 10.3457 21.2842 10.2114 21.2842 10.0457V6.8957C21.2842 3.7257 19.0342 1.5957 15.6842 1.5957H7.78424C4.54524 1.5957 2.28424 3.7747 2.28424 6.8957V10.0457C2.28424 10.2114 2.41855 10.3457 2.58424 10.3457H20.9842Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.58345 11.8467C2.41776 11.8467 2.28345 11.981 2.28345 12.1467V15.2967C2.28345 18.4667 4.49345 20.5967 7.78345 20.5967H11.5669C11.7326 20.5967 11.8669 20.4624 11.8669 20.2967V19.0936C11.8669 18.9695 11.7898 18.8598 11.6781 18.8058C11.4106 18.6764 11.1618 18.4968 10.9458 18.2674C9.99977 17.2624 10.0478 15.6794 11.0538 14.7344L12.2742 13.5857C12.7207 12.9042 13.4911 12.4541 14.3669 12.4541C14.3837 12.4541 14.4004 12.4543 14.4171 12.4546C15.0498 12.4421 15.6863 12.6687 16.1798 13.1344L16.9208 13.8318C17.0563 13.9593 17.2734 13.9329 17.397 13.7939C17.8549 13.2786 18.5226 12.9541 19.2664 12.9541C19.7653 12.9541 20.2301 13.1002 20.6203 13.3519C20.8639 13.5091 21.2834 13.3504 21.2834 13.0605V12.1467C21.2834 11.981 21.1491 11.8467 20.9834 11.8467H2.58345Z" fill="black"/> </g> <path d="M16.1173 17.2191C15.9323 17.2191 15.7483 17.1521 15.6033 17.0151L15.117 16.5576V21.1541C15.117 21.5681 14.781 21.9041 14.367 21.9041C13.953 21.9041 13.617 21.5681 13.617 21.1541V16.6516L13.2303 17.0151C12.9293 17.2991 12.4543 17.2851 12.1713 16.9831C11.8873 16.6811 11.9013 16.2071 12.2033 15.9231L13.9033 14.3231C14.1923 14.0511 14.6413 14.0511 14.9303 14.3231L16.6313 15.9231C16.9323 16.2071 16.9473 16.6811 16.6633 16.9831C16.5153 17.1401 16.3163 17.2191 16.1173 17.2191Z" fill="black"/> <path d="M19.2664 22.4051C19.0814 22.4051 18.8974 22.3371 18.7524 22.2011L17.0524 20.6011C16.7504 20.3171 16.7364 19.8421 17.0204 19.5411C17.3054 19.2381 17.7794 19.2251 18.0794 19.5091L18.5164 19.92V15.4541C18.5164 15.0401 18.8524 14.7041 19.2664 14.7041C19.6804 14.7041 20.0164 15.0401 20.0164 15.4541V19.92L20.4534 19.5091C20.7534 19.2251 21.2284 19.2381 21.5124 19.5411C21.7964 19.8421 21.7824 20.3171 21.4804 20.6011L19.7804 22.2011C19.6354 22.3371 19.4514 22.4051 19.2664 22.4051Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.18433 5.74609H7.68433C8.09833 5.74609 8.43433 6.08209 8.43433 6.49609C8.43433 6.91009 8.09833 7.24609 7.68433 7.24609H7.18433C6.77033 7.24609 6.43433 6.91009 6.43433 6.49609C6.43433 6.08209 6.77033 5.74609 7.18433 5.74609ZM11.8833 5.74609H16.3833C16.7973 5.74609 17.1333 6.08209 17.1333 6.49609C17.1333 6.91009 16.7973 7.24609 16.3833 7.24609H11.8833C11.4693 7.24609 11.1333 6.91009 11.1333 6.49609C11.1333 6.08209 11.4693 5.74609 11.8833 5.74609Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.68453 16.4471H7.18453C6.77053 16.4471 6.43453 16.1111 6.43453 15.6971C6.43453 15.2831 6.77053 14.9471 7.18453 14.9471H7.68453C8.09853 14.9471 8.43453 15.2831 8.43453 15.6971C8.43453 16.1111 8.09853 16.4471 7.68453 16.4471Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server transfer 1 — broken style variants.
+class _ServerServerTransfer1Broken {
+  const _ServerServerTransfer1Broken();
+
+  /// Server transfer 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server transfer 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.02641 3C5.08127 3 3.00012 4.83402 3.00012 7.78208V16.2157C3.00012 19.1647 5.08127 20.9997 8.02641 20.9997H10.1358" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9998 11.3519V7.78208C20.9998 4.84278 18.9187 3 15.9736 3H12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2469 12H3.02344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 16.1348H7.88576" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 7.86523H7.88576M12.1016 7.86523H16.6356" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7656 15.8955L14.4187 14.3008L16.0708 15.8955" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0004 19.4062L19.3474 21.0009L17.6953 19.4062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.418 14.3027V20.5248" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.3477 20.9994V14.7773" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server transfer 1 — twoTone style variants.
+class _ServerServerTransfer1Twotone {
+  const _ServerServerTransfer1Twotone();
+
+  /// Server transfer 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server transfer 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.4997 11.3519V7.78208C21.4997 4.84278 19.4185 3 16.4734 3H8.52629C5.58115 3 3.5 4.83402 3.5 7.78208V16.2157C3.5 19.1647 5.58115 20.9997 8.52629 20.9997H10.6357" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.7469 12H3.52344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.86328 16.1357H8.38576" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.86328 7.86523H8.38576M12.6016 7.86523H17.1356" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.2656 15.8964L14.9187 14.3018L16.5708 15.8964M14.918 14.3027V20.5248" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.5004 19.4053L19.8474 20.9999L18.1953 19.4053M19.8477 20.9984V14.7764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server transfer 1 — outline style variants.
+class _ServerServerTransfer1Outline {
+  const _ServerServerTransfer1Outline();
+
+  /// Server transfer 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server transfer 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.89795 3.73655C4.94873 2.75841 6.39918 2.25 8.02653 2.25H15.9736C17.6019 2.25 19.0523 2.76116 20.1026 3.74017C21.1588 4.72464 21.7499 6.12664 21.7499 7.78208V11.3519C21.7499 11.7661 21.4141 12.1019 20.9999 12.1019C20.5857 12.1019 20.2499 11.7661 20.2499 11.3519V7.78208C20.2499 6.49822 19.8005 5.50918 19.0798 4.83743C18.3533 4.16023 17.2905 3.75 15.9736 3.75H8.02653C6.70875 3.75 5.64605 4.1586 4.91998 4.83448C4.19997 5.50472 3.75024 6.49335 3.75024 7.78208V16.2157C3.75024 17.505 4.20003 18.4941 4.9201 19.1647C5.6462 19.8409 6.70886 20.2497 8.02653 20.2497H10.1359C10.5501 20.2497 10.8859 20.5855 10.8859 20.9997C10.8859 21.4139 10.5501 21.7497 10.1359 21.7497H8.02653C6.39907 21.7497 4.94859 21.241 3.89783 20.2624C2.84103 19.2782 2.25024 17.8754 2.25024 16.2157V7.78208C2.25024 6.12275 2.84109 4.72034 3.89795 3.73655Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.27344 12C2.27344 11.5858 2.60922 11.25 3.02344 11.25H11.2469C11.6611 11.25 11.9969 11.5858 11.9969 12C11.9969 12.4142 11.6611 12.75 11.2469 12.75H3.02344C2.60922 12.75 2.27344 12.4142 2.27344 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.61328 16.1354C6.61328 15.7212 6.94907 15.3854 7.36328 15.3854H7.88576C8.29997 15.3854 8.63576 15.7212 8.63576 16.1354C8.63576 16.5496 8.29997 16.8854 7.88576 16.8854H7.36328C6.94907 16.8854 6.61328 16.5496 6.61328 16.1354Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.61328 7.86523C6.61328 7.45102 6.94907 7.11523 7.36328 7.11523H7.88576C8.29997 7.11523 8.63576 7.45102 8.63576 7.86523C8.63576 8.27945 8.29997 8.61523 7.88576 8.61523H7.36328C6.94907 8.61523 6.61328 8.27945 6.61328 7.86523ZM11.3516 7.86523C11.3516 7.45102 11.6874 7.11523 12.1016 7.11523H16.6356C17.0498 7.11523 17.3856 7.45102 17.3856 7.86523C17.3856 8.27945 17.0498 8.61523 16.6356 8.61523H12.1016C11.6874 8.61523 11.3516 8.27945 11.3516 7.86523Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.898 13.762C14.1886 13.4816 14.649 13.4817 14.9396 13.7621L16.5916 15.3568C16.8897 15.6445 16.898 16.1193 16.6104 16.4173C16.3227 16.7153 15.8479 16.7237 15.5499 16.4361L14.4185 15.344L13.2863 16.4362C12.9882 16.7238 12.5134 16.7153 12.2259 16.4171C11.9383 16.119 11.9468 15.6442 12.2449 15.3567L13.898 13.762Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5402 18.8846C21.8278 19.1827 21.8193 19.6575 21.5212 19.945L19.8681 21.5397C19.5775 21.8201 19.1171 21.82 18.8265 21.5396L17.1744 19.9449C16.8764 19.6572 16.868 19.1824 17.1557 18.8844C17.4434 18.5864 17.9182 18.578 18.2162 18.8657L19.3475 19.9577L20.4797 18.8655C20.7778 18.5779 21.2526 18.5865 21.5402 18.8846Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.418 13.5527C14.8322 13.5527 15.168 13.8885 15.168 14.3027V20.5248C15.168 20.939 14.8322 21.2748 14.418 21.2748C14.0038 21.2748 13.668 20.939 13.668 20.5248V14.3027C13.668 13.8885 14.0038 13.5527 14.418 13.5527Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.3477 14.0264C19.7619 14.0264 20.0977 14.3622 20.0977 14.7764V20.9984C20.0977 21.4126 19.7619 21.7484 19.3477 21.7484C18.9334 21.7484 18.5977 21.4126 18.5977 20.9984V14.7764C18.5977 14.3622 18.9334 14.0264 19.3477 14.0264Z" fill="black"/> </svg> ',
+    category: 'Server',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server transfer 1 — bold style variants.
+class _ServerServerTransfer1Bold {
+  const _ServerServerTransfer1Bold();
+
+  /// Server transfer 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server transfer 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9843 10.3457C21.15 10.3457 21.2843 10.2114 21.2843 10.0457V6.8957C21.2843 3.7257 19.0343 1.5957 15.6843 1.5957H7.7843C4.5453 1.5957 2.2843 3.7747 2.2843 6.8957V10.0457C2.2843 10.2114 2.41862 10.3457 2.5843 10.3457H20.9843ZM7.1843 5.7457H7.6843C8.0983 5.7457 8.4343 6.0817 8.4343 6.4957C8.4343 6.9097 8.0983 7.2457 7.6843 7.2457H7.1843C6.7703 7.2457 6.4343 6.9097 6.4343 6.4957C6.4343 6.0817 6.7703 5.7457 7.1843 5.7457ZM11.8833 5.7457H16.3833C16.7973 5.7457 17.1333 6.0817 17.1333 6.4957C17.1333 6.9097 16.7973 7.2457 16.3833 7.2457H11.8833C11.4693 7.2457 11.1333 6.9097 11.1333 6.4957C11.1333 6.0817 11.4693 5.7457 11.8833 5.7457Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.58351 11.8467C2.41782 11.8467 2.28351 11.981 2.28351 12.1467V15.2967C2.28351 18.4667 4.49351 20.5967 7.78351 20.5967H11.567C11.7327 20.5967 11.867 20.4624 11.867 20.2967V19.0936C11.867 18.9695 11.7898 18.8598 11.6781 18.8058C11.4107 18.6764 11.1618 18.4968 10.9458 18.2674C9.99983 17.2624 10.0478 15.6794 11.0538 14.7344L12.2743 13.5857C12.7207 12.9042 13.4912 12.4541 14.367 12.4541C14.3837 12.4541 14.4005 12.4543 14.4171 12.4546C15.0498 12.4421 15.6864 12.6687 16.1798 13.1344L16.9209 13.8318C17.0564 13.9593 17.2735 13.9329 17.3971 13.7939C17.855 13.2786 18.5227 12.9541 19.2664 12.9541C19.7654 12.9541 20.2302 13.1002 20.6203 13.3519C20.8639 13.5091 21.2835 13.3504 21.2835 13.0605V12.1467C21.2835 11.981 21.1492 11.8467 20.9835 11.8467H2.58351ZM7.68451 16.4467H7.18451C6.77051 16.4467 6.43451 16.1107 6.43451 15.6967C6.43451 15.2827 6.77051 14.9467 7.18451 14.9467H7.68451C8.09851 14.9467 8.43451 15.2827 8.43451 15.6967C8.43451 16.1107 8.09851 16.4467 7.68451 16.4467Z" fill="black"/> <path d="M16.1173 17.2191C15.9323 17.2191 15.7483 17.1521 15.6033 17.0151L15.117 16.5576V21.1541C15.117 21.5681 14.781 21.9041 14.367 21.9041C13.953 21.9041 13.617 21.5681 13.617 21.1541V16.6516L13.2303 17.0151C12.9293 17.2991 12.4543 17.2851 12.1713 16.9831C11.8873 16.6811 11.9013 16.2071 12.2033 15.9231L13.9033 14.3231C14.1923 14.0511 14.6413 14.0511 14.9303 14.3231L16.6313 15.9231C16.9323 16.2071 16.9473 16.6811 16.6633 16.9831C16.5153 17.1401 16.3163 17.2191 16.1173 17.2191Z" fill="black"/> <path d="M19.2664 22.4051C19.0814 22.4051 18.8974 22.3371 18.7524 22.2011L17.0524 20.6011C16.7504 20.3171 16.7364 19.8421 17.0204 19.5411C17.3054 19.2381 17.7794 19.2251 18.0794 19.5091L18.5164 19.92V15.4541C18.5164 15.0401 18.8524 14.7041 19.2664 14.7041C19.6804 14.7041 20.0164 15.0401 20.0164 15.4541V19.92L20.4534 19.5091C20.7534 19.2251 21.2284 19.2381 21.5124 19.5411C21.7964 19.8421 21.7824 20.3171 21.4804 20.6011L19.7804 22.2011C19.6354 22.3371 19.4514 22.4051 19.2664 22.4051Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server transfer 1 — light style variants.
+class _ServerServerTransfer1Light {
+  const _ServerServerTransfer1Light();
+
+  /// Server transfer 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server transfer 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9997 11.3519V7.78208C20.9997 4.84278 18.9185 3 15.9734 3H8.02629C5.08115 3 3 4.83402 3 7.78208V16.2157C3 19.1647 5.08115 20.9997 8.02629 20.9997H10.1357" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2469 12H3.02344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 16.1357H7.88576" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 7.86523H7.88576M12.1016 7.86523H16.6356" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7656 15.8964L14.4187 14.3018L16.0708 15.8964" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0004 19.4053L19.3474 20.9999L17.6953 19.4053" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.418 14.3027V20.5248" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.3477 20.9984V14.7764" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Server',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -482,6 +1314,222 @@ class _ServerServerRefreshLight {
 
 }
 
+/// Server refresh 1 icon with style variants.
+class _ServerServerRefresh1Icon {
+  const _ServerServerRefresh1Icon();
+
+  /// bold style
+  _ServerServerRefresh1Bold get bold => const _ServerServerRefresh1Bold();
+  /// bulk style
+  _ServerServerRefresh1Bulk get bulk => const _ServerServerRefresh1Bulk();
+  /// light style
+  _ServerServerRefresh1Light get light => const _ServerServerRefresh1Light();
+  /// outline style
+  _ServerServerRefresh1Outline get outline => const _ServerServerRefresh1Outline();
+  /// twoTone style
+  _ServerServerRefresh1Twotone get twoTone => const _ServerServerRefresh1Twotone();
+  /// broken style
+  _ServerServerRefresh1Broken get broken => const _ServerServerRefresh1Broken();
+}
+
+/// Server refresh 1 — bulk style variants.
+class _ServerServerRefresh1Bulk {
+  const _ServerServerRefresh1Bulk();
+
+  /// Server refresh 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7481 2.5H7.84814C4.60814 2.5 2.34814 4.68 2.34814 7.8V10.95C2.34814 11.1157 2.48246 11.25 2.64814 11.25H21.0481C21.2138 11.25 21.3481 11.1157 21.3481 10.95V7.8C21.3481 4.63 19.0981 2.5 15.7481 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1986 13.3657C13.42 13.1656 13.2865 12.75 12.988 12.75H2.64814C2.48246 12.75 2.34814 12.8843 2.34814 13.05V16.2C2.34814 19.37 4.55814 21.5 7.84814 21.5H11.5386C11.776 21.5 11.922 21.2355 11.8117 21.0253C11.354 20.1532 11.0981 19.1621 11.0981 18.1C11.0981 16.2222 11.9063 14.5341 13.1986 13.3657Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9019 13.6318C20.4879 13.6318 20.1519 13.9678 20.1519 14.3818V14.5328C19.5259 14.0878 18.6889 13.6988 17.6139 13.6988C16.1779 13.6988 14.8549 14.4898 14.2429 15.7138C14.0579 16.0848 14.2079 16.5348 14.5789 16.7198C14.9499 16.9058 15.3989 16.7558 15.5849 16.3848C15.9389 15.6758 16.7549 15.1988 17.6139 15.1988C18.1389 15.1988 18.5779 15.3478 18.9449 15.5428C18.5589 15.5738 18.2519 15.8878 18.2519 16.2818C18.2519 16.6958 18.5879 17.0318 19.0019 17.0318H20.9019C21.3159 17.0318 21.6519 16.6958 21.6519 16.2818V14.3818C21.6519 13.9678 21.3159 13.6318 20.9019 13.6318Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.678 18.494C20.316 18.293 19.86 18.423 19.658 18.786C19.267 19.489 18.407 20 17.614 20C17.197 20 16.825 19.836 16.505 19.623H16.648C17.062 19.623 17.398 19.287 17.398 18.873C17.398 18.459 17.062 18.123 16.648 18.123H14.748C14.334 18.123 13.998 18.459 13.998 18.873V20.673C13.998 21.087 14.334 21.423 14.748 21.423C15.14 21.423 15.452 21.119 15.485 20.735C16.043 21.15 16.757 21.5 17.614 21.5C18.94 21.5 20.32 20.683 20.97 19.514C21.171 19.152 21.04 18.695 20.678 18.494Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.448 8.15039H11.948C11.528 8.15039 11.198 7.81039 11.198 7.40039C11.198 6.99039 11.528 6.65039 11.948 6.65039H16.448C16.858 6.65039 17.198 6.99039 17.198 7.40039C17.198 7.81039 16.858 8.15039 16.448 8.15039ZM7.74805 8.15039H7.24805C6.82805 8.15039 6.49805 7.81039 6.49805 7.40039C6.49805 6.99039 6.82805 6.65039 7.24805 6.65039H7.74805C8.15805 6.65039 8.49805 6.99039 8.49805 7.40039C8.49805 7.81039 8.15805 8.15039 7.74805 8.15039Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.74805 17.3504H7.24805C6.82805 17.3504 6.49805 17.0104 6.49805 16.6004C6.49805 16.1904 6.82805 15.8504 7.24805 15.8504H7.74805C8.15805 15.8504 8.49805 16.1904 8.49805 16.6004C8.49805 17.0104 8.15805 17.3504 7.74805 17.3504Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server refresh 1 — broken style variants.
+class _ServerServerRefresh1Broken {
+  const _ServerServerRefresh1Broken();
+
+  /// Server refresh 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.02638 3C5.08119 3 3 4.83405 3 7.78216V16.2159C3 19.165 5.08119 21 8.02638 21H11.1088" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 11.352V7.78216C21 4.84281 18.9188 3 15.9736 3H12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 16.1348H7.88577" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.22 12H3.02344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 7.86523H7.88577M12.1008 7.86523H16.6348" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7272 18.9609H14.7812V20.7707" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.7545 14.2012V16.1471H18.8086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.3272 19.1439C19.7823 20.0877 18.7607 20.7201 17.5931 20.7201C15.8515 20.7201 14.7812 18.9688 14.7812 18.9688" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.8496 15.9922C15.3945 15.0387 16.4161 14.4062 17.5934 14.4062C19.7047 14.4062 20.7556 16.1576 20.7556 16.1576" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server refresh 1 — twoTone style variants.
+class _ServerServerRefresh1Twotone {
+  const _ServerServerRefresh1Twotone();
+
+  /// Server refresh 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server refresh 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.5 11.352V7.78216C21.5 4.84281 19.4188 3 16.4736 3H8.52638C5.58119 3 3.5 4.83405 3.5 7.78216V16.2159C3.5 19.165 5.58119 21 8.52638 21H11.6088" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.86328 16.1348H8.38577" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.72 12H3.52344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.86328 7.86523H8.38577M12.6008 7.86523H17.1348" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2272 18.96H15.2812V20.7697" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.2545 14.2012V16.1471H19.3086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.8272 19.1449C20.2823 20.0886 19.2607 20.7211 18.0931 20.7211C16.3515 20.7211 15.2812 18.9697 15.2812 18.9697" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3496 15.9922C15.8945 15.0387 16.9161 14.4062 18.0934 14.4062C20.2047 14.4062 21.2556 16.1576 21.2556 16.1576" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server refresh 1 — outline style variants.
+class _ServerServerRefresh1Outline {
+  const _ServerServerRefresh1Outline();
+
+  /// Server refresh 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.89773 3.73657C4.94853 2.75842 6.39899 2.25 8.02638 2.25H15.9736C17.6019 2.25 19.0523 2.76117 20.1026 3.7402C21.1588 4.72468 21.75 6.12669 21.75 7.78216V11.352C21.75 11.7662 21.4142 12.102 21 12.102C20.5858 12.102 20.25 11.7662 20.25 11.352V7.78216C20.25 6.49828 19.8006 5.50921 19.0799 4.83745C18.3533 4.16024 17.2905 3.75 15.9736 3.75H8.02638C6.70857 3.75 5.64585 4.15861 4.91976 4.83451C4.19973 5.50475 3.75 6.49341 3.75 7.78216V16.2159C3.75 17.5052 4.1998 18.4944 4.91988 19.165C5.64599 19.8412 6.70868 20.25 8.02638 20.25H11.1088C11.523 20.25 11.8588 20.5858 11.8588 21C11.8588 21.4142 11.523 21.75 11.1088 21.75H8.02638C6.39889 21.75 4.94838 21.2413 3.89761 20.2627C2.8408 19.2785 2.25 17.8756 2.25 16.2159V7.78216C2.25 6.1228 2.84086 4.72038 3.89773 3.73657Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.61328 16.1348C6.61328 15.7206 6.94907 15.3848 7.36328 15.3848H7.88577C8.29998 15.3848 8.63577 15.7206 8.63577 16.1348C8.63577 16.549 8.29998 16.8848 7.88577 16.8848H7.36328C6.94907 16.8848 6.61328 16.549 6.61328 16.1348Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.27344 12C2.27344 11.5858 2.60922 11.25 3.02344 11.25H12.22C12.6342 11.25 12.97 11.5858 12.97 12C12.97 12.4142 12.6342 12.75 12.22 12.75H3.02344C2.60922 12.75 2.27344 12.4142 2.27344 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.61328 7.86523C6.61328 7.45102 6.94907 7.11523 7.36328 7.11523H7.88577C8.29998 7.11523 8.63577 7.45102 8.63577 7.86523C8.63577 8.27945 8.29998 8.61523 7.88577 8.61523H7.36328C6.94907 8.61523 6.61328 8.27945 6.61328 7.86523ZM11.3508 7.86523C11.3508 7.45102 11.6866 7.11523 12.1008 7.11523H16.6348C17.049 7.11523 17.3848 7.45102 17.3848 7.86523C17.3848 8.27945 17.049 8.61523 16.6348 8.61523H12.1008C11.6866 8.61523 11.3508 8.27945 11.3508 7.86523Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0312 18.96C14.0312 18.5457 14.367 18.21 14.7812 18.21H16.7272C17.1414 18.21 17.4772 18.5457 17.4772 18.96C17.4772 19.3742 17.1414 19.71 16.7272 19.71H15.5312V20.7697C15.5312 21.1839 15.1955 21.5197 14.7812 21.5197C14.367 21.5197 14.0312 21.1839 14.0312 20.7697V18.96Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.7545 13.4512C21.1688 13.4512 21.5045 13.787 21.5045 14.2012V16.1471C21.5045 16.5613 21.1688 16.8971 20.7545 16.8971H18.8086C18.3944 16.8971 18.0586 16.5613 18.0586 16.1471C18.0586 15.7329 18.3944 15.3971 18.8086 15.3971H20.0045V14.2012C20.0045 13.787 20.3403 13.4512 20.7545 13.4512Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3903 18.3298C14.7429 18.1142 15.2033 18.2247 15.4199 18.5763L15.4243 18.5832C15.4292 18.5908 15.4379 18.6041 15.4503 18.6223C15.4753 18.6589 15.5148 18.7147 15.5681 18.7832C15.6755 18.9215 15.8341 19.1059 16.0366 19.2885C16.4513 19.6627 16.9821 19.9711 17.5932 19.9711C18.4837 19.9711 19.2622 19.4896 19.6778 18.7699C19.8849 18.4111 20.3436 18.2882 20.7023 18.4953C21.061 18.7024 21.1839 19.1611 20.9768 19.5198C20.3026 20.6876 19.0379 21.4711 17.5932 21.4711C16.4628 21.4711 15.5877 20.9038 15.0318 20.4022C14.749 20.1471 14.5312 19.8936 14.3835 19.7035C14.3093 19.6079 14.2516 19.5268 14.2112 19.4676C14.1909 19.438 14.175 19.4136 14.1633 19.3956L14.1491 19.3732L14.1444 19.3657L14.1427 19.3629L14.142 19.3618L14.1417 19.3613C14.1415 19.361 14.1414 19.3608 14.7814 18.9697L14.1414 19.3608C13.9254 19.0074 14.0368 18.5457 14.3903 18.3298Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5933 15.1562C16.6927 15.1562 15.9158 15.6378 15.5007 16.3643C15.2952 16.7239 14.837 16.8489 14.4774 16.6434C14.1178 16.4379 13.9928 15.9797 14.1983 15.6201C14.8729 14.4395 16.1393 13.6562 17.5933 13.6562C18.8706 13.6562 19.825 14.1892 20.4456 14.7052C20.7554 14.9628 20.9874 15.2201 21.1436 15.4151C21.2221 15.513 21.2823 15.5964 21.3246 15.658C21.3457 15.6889 21.3625 15.7143 21.3748 15.7336L21.3899 15.7576L21.3951 15.766L21.397 15.7692L21.3978 15.7705L21.3982 15.7712C21.3984 15.7714 21.3986 15.7717 20.7554 16.1576" fill="black"/> </svg> ',
+    category: 'Server',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server refresh 1 — bold style variants.
+class _ServerServerRefresh1Bold {
+  const _ServerServerRefresh1Bold();
+
+  /// Server refresh 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4481 8.15H11.9481C11.5281 8.15 11.1981 7.81 11.1981 7.4C11.1981 6.99 11.5281 6.65 11.9481 6.65H16.4481C16.8581 6.65 17.1981 6.99 17.1981 7.4C17.1981 7.81 16.8581 8.15 16.4481 8.15ZM7.74808 8.15H7.24808C6.82808 8.15 6.49808 7.81 6.49808 7.4C6.49808 6.99 6.82808 6.65 7.24808 6.65H7.74808C8.15808 6.65 8.49808 6.99 8.49808 7.4C8.49808 7.81 8.15808 8.15 7.74808 8.15ZM15.7481 2.5H7.84808C4.60808 2.5 2.34808 4.68 2.34808 7.8V10.95C2.34808 11.1157 2.4824 11.25 2.64808 11.25H21.0481C21.2138 11.25 21.3481 11.1157 21.3481 10.95V7.8C21.3481 4.63 19.0981 2.5 15.7481 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.74808 17.35H7.24808C6.82808 17.35 6.49808 17.01 6.49808 16.6C6.49808 16.19 6.82808 15.85 7.24808 15.85H7.74808C8.15808 15.85 8.49808 16.19 8.49808 16.6C8.49808 17.01 8.15808 17.35 7.74808 17.35ZM13.1986 13.3657C13.42 13.1656 13.2864 12.75 12.9879 12.75H2.64808C2.4824 12.75 2.34808 12.8843 2.34808 13.05V16.2C2.34808 19.37 4.55808 21.5 7.84808 21.5H11.5386C11.7759 21.5 11.9219 21.2355 11.8116 21.0253C11.3539 20.1532 11.0981 19.1621 11.0981 18.1C11.0981 16.2222 11.9062 14.5341 13.1986 13.3657Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9019 13.6318C20.4879 13.6318 20.1519 13.9678 20.1519 14.3818V14.5328C19.5259 14.0878 18.6889 13.6988 17.6139 13.6988C16.1779 13.6988 14.8549 14.4898 14.2429 15.7138C14.0579 16.0848 14.2079 16.5348 14.5789 16.7198C14.9499 16.9058 15.3989 16.7558 15.5849 16.3848C15.9389 15.6758 16.7549 15.1988 17.6139 15.1988C18.1389 15.1988 18.5779 15.3478 18.9449 15.5428C18.5589 15.5738 18.2519 15.8878 18.2519 16.2818C18.2519 16.6958 18.5879 17.0318 19.0019 17.0318H20.9019C21.3159 17.0318 21.6519 16.6958 21.6519 16.2818V14.3818C21.6519 13.9678 21.3159 13.6318 20.9019 13.6318Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.6781 18.494C20.3161 18.293 19.8601 18.423 19.6581 18.786C19.2671 19.489 18.4071 20 17.6141 20C17.1971 20 16.8251 19.836 16.5051 19.623H16.6481C17.0621 19.623 17.3981 19.287 17.3981 18.873C17.3981 18.459 17.0621 18.123 16.6481 18.123H14.7481C14.3341 18.123 13.9981 18.459 13.9981 18.873V20.673C13.9981 21.087 14.3341 21.423 14.7481 21.423C15.1401 21.423 15.4521 21.119 15.4851 20.735C16.0431 21.15 16.7571 21.5 17.6141 21.5C18.9401 21.5 20.3201 20.683 20.9701 19.514C21.1711 19.152 21.0401 18.695 20.6781 18.494Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server refresh 1 — light style variants.
+class _ServerServerRefresh1Light {
+  const _ServerServerRefresh1Light();
+
+  /// Server refresh 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 11.352V7.78216C21 4.84281 18.9188 3 15.9736 3H8.02638C5.08119 3 3 4.83405 3 7.78216V16.2159C3 19.165 5.08119 21 8.02638 21H11.1088" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 16.1348H7.88577" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.22 12H3.02344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 7.86523H7.88577M12.1008 7.86523H16.6348" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7272 18.96H14.7812V20.7697" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.7545 14.2012V16.1471H18.8086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.3272 19.1449C19.7823 20.0886 18.7607 20.7211 17.5931 20.7211C15.8515 20.7211 14.7812 18.9697 14.7812 18.9697" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.8496 15.9922C15.3945 15.0387 16.4161 14.4062 17.5934 14.4062C19.7047 14.4062 20.7556 16.1576 20.7556 16.1576" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server refresh 2 icon with style variants.
+class _ServerServerRefresh2Icon {
+  const _ServerServerRefresh2Icon();
+
+  /// bold style
+  _ServerServerRefresh2Bold get bold => const _ServerServerRefresh2Bold();
+  /// bulk style
+  _ServerServerRefresh2Bulk get bulk => const _ServerServerRefresh2Bulk();
+  /// light style
+  _ServerServerRefresh2Light get light => const _ServerServerRefresh2Light();
+  /// outline style
+  _ServerServerRefresh2Outline get outline => const _ServerServerRefresh2Outline();
+  /// twoTone style
+  _ServerServerRefresh2Twotone get twoTone => const _ServerServerRefresh2Twotone();
+  /// broken style
+  _ServerServerRefresh2Broken get broken => const _ServerServerRefresh2Broken();
+}
+
+/// Server refresh 2 — bulk style variants.
+class _ServerServerRefresh2Bulk {
+  const _ServerServerRefresh2Bulk();
+
+  /// Server refresh 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server refresh 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.76514 2.38867H15.6651C19.0151 2.38867 21.2651 4.51867 21.2651 7.68867V10.8387C21.2651 11.0044 21.1308 11.1387 20.9651 11.1387H2.56514C2.39945 11.1387 2.26514 11.0044 2.26514 10.8387V7.68867C2.26514 4.56867 4.52514 2.38867 7.76514 2.38867Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.26514 12.9387C2.26514 12.773 2.39945 12.6387 2.56514 12.6387H12.6639C12.9553 12.6387 13.0915 13.0339 12.8839 13.2383C11.7654 14.339 11.0751 15.8737 11.0751 17.5687C11.0751 18.7944 11.4324 19.9272 12.0503 20.8825C12.1869 21.0937 12.0425 21.3887 11.7909 21.3887H7.76514C4.47514 21.3887 2.26514 19.2587 2.26514 16.0887V12.9387Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8652 8.03906H16.3652C16.7752 8.03906 17.1152 7.69906 17.1152 7.28906C17.1152 6.87906 16.7752 6.53906 16.3652 6.53906H11.8652C11.4552 6.53906 11.1152 6.87906 11.1152 7.28906C11.1152 7.69906 11.4552 8.03906 11.8652 8.03906ZM7.16516 8.03906H7.66516C8.08516 8.03906 8.41516 7.69906 8.41516 7.28906C8.41516 6.87906 8.08516 6.53906 7.66516 6.53906H7.16516C6.75516 6.53906 6.41516 6.87906 6.41516 7.28906C6.41516 7.69906 6.75516 8.03906 7.16516 8.03906Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.16516 17.2391H7.66516C8.08516 17.2391 8.41516 16.8991 8.41516 16.4891C8.41516 16.0791 8.08516 15.7391 7.66516 15.7391H7.16516C6.75516 15.7391 6.41516 16.0791 6.41516 16.4891C6.41516 16.8991 6.75516 17.2391 7.16516 17.2391Z" fill="black"/> <path d="M19.3045 19.384C18.9795 19.655 18.3105 20.11 17.4855 20.11C15.9985 20.11 14.8345 18.946 14.8345 17.46C14.8345 17.046 14.4985 16.71 14.0845 16.71C13.6705 16.71 13.3345 17.046 13.3345 17.46C13.3345 19.787 15.1585 21.61 17.4855 21.61C18.7185 21.61 19.6775 21.026 20.2655 20.536C20.5835 20.271 20.6255 19.798 20.3615 19.48C20.0945 19.161 19.6215 19.12 19.3045 19.384Z" fill="black"/> <path d="M14.8058 14.284C15.3938 13.794 16.3538 13.21 17.5848 13.21C19.9118 13.21 21.7348 15.033 21.7348 17.36C21.7348 17.774 21.3988 18.11 20.9848 18.11C20.5708 18.11 20.2348 17.774 20.2348 17.36C20.2348 15.874 19.0708 14.71 17.5848 14.71C16.8018 14.71 16.1628 15.105 15.7648 15.436C15.4478 15.7 14.9738 15.659 14.7088 15.34C14.4428 15.022 14.4868 14.548 14.8058 14.284Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server refresh 2 — broken style variants.
+class _ServerServerRefresh2Broken {
+  const _ServerServerRefresh2Broken();
+
+  /// Server refresh 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server refresh 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.02638 3C5.08119 3 3 4.83405 3 7.78216V16.2159C3 19.165 5.08119 21 8.02638 21H11.1088" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 11.352V7.78216C21 4.84281 18.9188 3 15.9736 3H12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.22 12H3.02344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 16.1348H7.88577" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 7.86523H7.88577M12.1017 7.86523H16.6358" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.8393 20.1429C19.2351 20.676 18.4412 21 17.5713 21C15.6789 21 14.1445 19.4657 14.1445 17.5723" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3047 15.0017C15.9089 14.4685 16.7028 14.1445 17.5717 14.1445C19.4651 14.1445 20.9995 15.6789 20.9995 17.5723" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server refresh 2 — twoTone style variants.
+class _ServerServerRefresh2Twotone {
+  const _ServerServerRefresh2Twotone();
+
+  /// Server refresh 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server refresh 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.5 11.352V7.78216C21.5 4.84281 19.4188 3 16.4736 3H8.52638C5.58119 3 3.5 4.83405 3.5 7.78216V16.2159C3.5 19.165 5.58119 21 8.52638 21H11.6088" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.72 12H3.52344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.86328 16.1348H8.38577" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.86328 7.86523H8.38577M12.6017 7.86523H17.1358" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.3393 20.1429C19.7351 20.676 18.9412 21 18.0713 21C16.1789 21 14.6445 19.4657 14.6445 17.5723" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.8047 15.0017C16.4089 14.4685 17.2028 14.1445 18.0717 14.1445C19.9651 14.1445 21.4995 15.6789 21.4995 17.5723" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server refresh 2 — outline style variants.
+class _ServerServerRefresh2Outline {
+  const _ServerServerRefresh2Outline();
+
+  /// Server refresh 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server refresh 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.89773 3.73657C4.94853 2.75842 6.39899 2.25 8.02638 2.25H15.9736C17.6019 2.25 19.0523 2.76117 20.1026 3.7402C21.1588 4.72468 21.75 6.12669 21.75 7.78216V11.352C21.75 11.7662 21.4142 12.102 21 12.102C20.5858 12.102 20.25 11.7662 20.25 11.352V7.78216C20.25 6.49828 19.8006 5.50921 19.0799 4.83745C18.3533 4.16024 17.2905 3.75 15.9736 3.75H8.02638C6.70857 3.75 5.64585 4.15861 4.91976 4.83451C4.19973 5.50475 3.75 6.49341 3.75 7.78216V16.2159C3.75 17.5052 4.1998 18.4944 4.91988 19.165C5.64599 19.8412 6.70868 20.25 8.02638 20.25H11.1088C11.523 20.25 11.8588 20.5858 11.8588 21C11.8588 21.4142 11.523 21.75 11.1088 21.75H8.02638C6.39889 21.75 4.94838 21.2413 3.89761 20.2627C2.8408 19.2785 2.25 17.8756 2.25 16.2159V7.78216C2.25 6.1228 2.84086 4.72038 3.89773 3.73657Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.27344 12C2.27344 11.5858 2.60922 11.25 3.02344 11.25H12.22C12.6342 11.25 12.97 11.5858 12.97 12C12.97 12.4142 12.6342 12.75 12.22 12.75H3.02344C2.60922 12.75 2.27344 12.4142 2.27344 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.61328 16.1348C6.61328 15.7206 6.94907 15.3848 7.36328 15.3848H7.88577C8.29998 15.3848 8.63577 15.7206 8.63577 16.1348C8.63577 16.549 8.29998 16.8848 7.88577 16.8848H7.36328C6.94907 16.8848 6.61328 16.549 6.61328 16.1348Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.61328 7.86523C6.61328 7.45102 6.94907 7.11523 7.36328 7.11523H7.88577C8.29998 7.11523 8.63577 7.45102 8.63577 7.86523C8.63577 8.27945 8.29998 8.61523 7.88577 8.61523H7.36328C6.94907 8.61523 6.61328 8.27945 6.61328 7.86523ZM11.3517 7.86523C11.3517 7.45102 11.6875 7.11523 12.1017 7.11523H16.6358C17.05 7.11523 17.3858 7.45102 17.3858 7.86523C17.3858 8.27945 17.05 8.61523 16.6358 8.61523H12.1017C11.6875 8.61523 11.3517 8.27945 11.3517 7.86523Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1445 16.8223C14.5587 16.8223 14.8945 17.1581 14.8945 17.5723C14.8945 19.0516 16.0933 20.25 17.5713 20.25C18.2514 20.25 18.8705 19.9975 19.3431 19.5805C19.6537 19.3064 20.1276 19.336 20.4017 19.6466C20.6758 19.9572 20.6462 20.4311 20.3356 20.7052C19.5997 21.3546 18.631 21.75 17.5713 21.75C15.2646 21.75 13.3945 19.8797 13.3945 17.5723C13.3945 17.1581 13.7303 16.8223 14.1445 16.8223Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5717 14.8945C16.8928 14.8945 16.2736 15.147 15.8009 15.5641C15.4904 15.8381 15.0164 15.8085 14.7423 15.498C14.4683 15.1874 14.4979 14.7134 14.8085 14.4394C15.5442 13.7901 16.5129 13.3945 17.5717 13.3945C19.8793 13.3945 21.7495 15.2647 21.7495 17.5723C21.7495 17.9865 21.4137 18.3223 20.9995 18.3223C20.5853 18.3223 20.2495 17.9865 20.2495 17.5723C20.2495 16.0931 19.0509 14.8945 17.5717 14.8945Z" fill="black"/> </svg> ',
+    category: 'Server',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server refresh 2 — bold style variants.
+class _ServerServerRefresh2Bold {
+  const _ServerServerRefresh2Bold();
+
+  /// Server refresh 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server refresh 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.76514 2.38867H15.6651C19.0151 2.38867 21.2651 4.51867 21.2651 7.68867V10.8387C21.2651 11.0044 21.1308 11.1387 20.9651 11.1387H2.56514C2.39945 11.1387 2.26514 11.0044 2.26514 10.8387V7.68867C2.26514 4.56867 4.52514 2.38867 7.76514 2.38867ZM11.8651 8.03867H16.3651C16.7751 8.03867 17.1151 7.69867 17.1151 7.28867C17.1151 6.87867 16.7751 6.53867 16.3651 6.53867H11.8651C11.4551 6.53867 11.1151 6.87867 11.1151 7.28867C11.1151 7.69867 11.4551 8.03867 11.8651 8.03867ZM7.16514 8.03867H7.66514C8.08514 8.03867 8.41514 7.69867 8.41514 7.28867C8.41514 6.87867 8.08514 6.53867 7.66514 6.53867H7.16514C6.75514 6.53867 6.41514 6.87867 6.41514 7.28867C6.41514 7.69867 6.75514 8.03867 7.16514 8.03867Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.26514 12.9387C2.26514 12.773 2.39945 12.6387 2.56514 12.6387H12.6639C12.9553 12.6387 13.0915 13.0339 12.8839 13.2383C11.7654 14.339 11.0751 15.8737 11.0751 17.5687C11.0751 18.7944 11.4324 19.9272 12.0503 20.8825C12.1869 21.0937 12.0425 21.3887 11.7909 21.3887H7.76514C4.47514 21.3887 2.26514 19.2587 2.26514 16.0887V12.9387ZM7.16514 17.2387H7.66514C8.08514 17.2387 8.41514 16.8987 8.41514 16.4887C8.41514 16.0787 8.08514 15.7387 7.66514 15.7387H7.16514C6.75514 15.7387 6.41514 16.0787 6.41514 16.4887C6.41514 16.8987 6.75514 17.2387 7.16514 17.2387Z" fill="black"/> <path d="M19.3045 19.384C18.9795 19.655 18.3105 20.11 17.4855 20.11C15.9985 20.11 14.8345 18.946 14.8345 17.46C14.8345 17.046 14.4985 16.71 14.0845 16.71C13.6705 16.71 13.3345 17.046 13.3345 17.46C13.3345 19.787 15.1585 21.61 17.4855 21.61C18.7185 21.61 19.6775 21.026 20.2655 20.536C20.5835 20.271 20.6255 19.798 20.3615 19.48C20.0945 19.161 19.6215 19.12 19.3045 19.384Z" fill="black"/> <path d="M14.8058 14.284C15.3938 13.794 16.3538 13.21 17.5848 13.21C19.9118 13.21 21.7348 15.033 21.7348 17.36C21.7348 17.774 21.3988 18.11 20.9848 18.11C20.5708 18.11 20.2348 17.774 20.2348 17.36C20.2348 15.874 19.0708 14.71 17.5848 14.71C16.8018 14.71 16.1628 15.105 15.7648 15.436C15.4478 15.7 14.9738 15.659 14.7088 15.34C14.4428 15.022 14.4868 14.548 14.8058 14.284Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server refresh 2 — light style variants.
+class _ServerServerRefresh2Light {
+  const _ServerServerRefresh2Light();
+
+  /// Server refresh 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server refresh 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 11.352V7.78216C21 4.84281 18.9188 3 15.9736 3H8.02638C5.08119 3 3 4.83405 3 7.78216V16.2159C3 19.165 5.08119 21 8.02638 21H11.1088" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.22 12H3.02344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 16.1348H7.88577" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 7.86523H7.88577M12.1017 7.86523H16.6358" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.8393 20.1429C19.2351 20.676 18.4412 21 17.5713 21C15.6789 21 14.1445 19.4657 14.1445 17.5723" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3047 15.0017C15.9089 14.4685 16.7028 14.1445 17.5717 14.1445C19.4651 14.1445 20.9995 15.6789 20.9995 17.5723" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Server privacy icon with style variants.
 class _ServerServerPrivacyIcon {
   const _ServerServerPrivacyIcon();
@@ -583,6 +1631,114 @@ class _ServerServerPrivacyLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Server privacy',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 10.7838V7.78216C21 4.84281 18.9188 3 15.9736 3H8.02638C5.08119 3 3 4.83405 3 7.78216V16.2159C3 19.165 5.08119 21 8.02638 21H11.1088" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6365 20.6531C17.6365 20.6531 20.5729 19.7638 20.5729 17.3119C20.5729 14.861 20.6799 14.9388 20.4435 14.7014C20.2081 14.464 18.0218 13.7031 17.6365 13.7031C17.2512 13.7031 15.0639 14.4659 14.8285 14.7014C14.593 14.9369 14.7001 14.86 14.7001 17.3119C14.7001 19.7638 17.6365 20.6531 17.6365 20.6531Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36328 7.86523H7.88577M7.36328 16.1355H7.88577" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.1035 7.86523H16.6376" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.22 12H3.02344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server-rack icon with style variants.
+class _ServerServerRack4Icon {
+  const _ServerServerRack4Icon();
+
+  /// bold style
+  _ServerServerRack4Bold get bold => const _ServerServerRack4Bold();
+  /// bulk style
+  _ServerServerRack4Bulk get bulk => const _ServerServerRack4Bulk();
+  /// light style
+  _ServerServerRack4Light get light => const _ServerServerRack4Light();
+  /// outline style
+  _ServerServerRack4Outline get outline => const _ServerServerRack4Outline();
+  /// twoTone style
+  _ServerServerRack4Twotone get twoTone => const _ServerServerRack4Twotone();
+  /// broken style
+  _ServerServerRack4Broken get broken => const _ServerServerRack4Broken();
+}
+
+/// server-rack — bulk style variants.
+class _ServerServerRack4Bulk {
+  const _ServerServerRack4Bulk();
+
+  /// server-rack — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server-rack',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.5 13.5996H5.4C3.69 13.5996 2.5 14.7496 2.5 16.3996V18.5996C2.5 20.2496 3.69 21.3996 5.4 21.3996H18.6C20.31 21.3996 21.5 20.2496 21.5 18.5996V16.3996C21.5 14.7296 20.29 13.5996 18.5 13.5996Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.5 2.59961H5.4C3.69 2.59961 2.5 3.74961 2.5 5.39961V7.59961C2.5 9.24961 3.69 10.3996 5.4 10.3996H18.6C20.31 10.3996 21.5 9.24961 21.5 7.59961V5.39961C21.5 3.72961 20.29 2.59961 18.5 2.59961Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.59998 18.25H6.59998C6.18998 18.25 5.84998 17.91 5.84998 17.5C5.84998 17.09 6.18998 16.75 6.59998 16.75H7.59998C8.00998 16.75 8.34998 17.09 8.34998 17.5C8.34998 17.91 8.00998 18.25 7.59998 18.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.59998 7.25H6.59998C6.18998 7.25 5.84998 6.91 5.84998 6.5C5.84998 6.09 6.18998 5.75 6.59998 5.75H7.59998C8.00998 5.75 8.34998 6.09 8.34998 6.5C8.34998 6.91 8.00998 7.25 7.59998 7.25Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server-rack — broken style variants.
+class _ServerServerRack4Broken {
+  const _ServerServerRack4Broken();
+
+  /// server-rack — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server-rack',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11 20.9133H18.5608C19.9901 20.9133 21 20.024 21 18.5928V16.4123C21 14.9821 19.9901 14.0918 18.5608 14.0918H5.43924C4.00995 14.0918 3 14.986 3 16.4123V18.5928C3 20.024 4.00995 20.9133 5.43924 20.9133H7.71962" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13 3.08594H5.43924C4.00995 3.08594 3 3.97621 3 5.40648V7.58691C3 9.01718 4.00995 9.90745 5.43924 9.90745H18.5608C19.9901 9.90745 21 9.01718 21 7.58691V5.40648C21 3.9801 19.9901 3.08594 18.5608 3.08594H16.2804" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.58789 17.5039H7.56184" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.58789 6.49609H7.56184" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server-rack — twoTone style variants.
+class _ServerServerRack4Twotone {
+  const _ServerServerRack4Twotone();
+
+  /// server-rack — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server-rack',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 16.4133V18.5937C21.5 20.025 20.4901 20.9143 19.0608 20.9143H5.93924C4.50995 20.9143 3.5 20.025 3.5 18.5937V16.4133C3.5 14.983 4.50995 14.0928 5.93924 14.0928H19.0608C20.4901 14.0928 21.5 14.9869 21.5 16.4133Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.5 5.40648V7.58691C21.5 9.01718 20.4901 9.90745 19.0608 9.90745H5.93924C4.50995 9.90745 3.5 9.01718 3.5 7.58691V5.40648C3.5 3.97621 4.50995 3.08594 5.93924 3.08594H19.0608C20.4901 3.08594 21.5 3.9801 21.5 5.40648Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.08789 17.5039H8.06184" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.08789 6.49707H8.06184" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server-rack — outline style variants.
+class _ServerServerRack4Outline {
+  const _ServerServerRack4Outline();
+
+  /// server-rack — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server-rack',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.17261 14.1676C3.76609 13.6151 4.56976 13.3427 5.43924 13.3427H18.5608C19.4311 13.3427 20.2347 13.6166 20.8277 14.1694C21.4266 14.7276 21.75 15.5142 21.75 16.4132V18.5936C21.75 19.4945 21.427 20.2816 20.8273 20.8396C20.2337 21.392 19.43 21.6642 18.5608 21.6642H5.43924C4.56997 21.6642 3.76628 21.392 3.1727 20.8396C2.57301 20.2816 2.25 19.4945 2.25 18.5936V16.4132C2.25 15.5127 2.57308 14.7257 3.17261 14.1676ZM4.19466 15.2655C3.93189 15.5101 3.75 15.8834 3.75 16.4132V18.5936C3.75 19.124 3.93196 19.4972 4.19457 19.7416C4.46329 19.9916 4.87921 20.1642 5.43924 20.1642H18.5608C19.1208 20.1642 19.5367 19.9916 19.8054 19.7416C20.068 19.4972 20.25 19.124 20.25 18.5936V16.4132C20.25 15.8858 20.0684 15.5122 19.805 15.2667C19.5358 15.0157 19.1197 14.8427 18.5608 14.8427H5.43924C4.87943 14.8427 4.46348 15.0153 4.19466 15.2655Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.17261 3.1609C3.76609 2.60844 4.56976 2.33594 5.43924 2.33594H18.5608C19.4311 2.33594 20.2347 2.60992 20.8277 3.16266C21.4266 3.72087 21.75 4.50749 21.75 5.40648V7.58691C21.75 8.4874 21.4269 9.27439 20.8274 9.83249C20.2339 10.385 19.4302 10.6575 18.5608 10.6575H5.43924C4.56976 10.6575 3.76609 10.385 3.17261 9.83249C2.57308 9.27439 2.25 8.4874 2.25 7.58691V5.40648C2.25 4.50599 2.57308 3.719 3.17261 3.1609ZM4.19466 4.25882C3.93189 4.50342 3.75 4.87669 3.75 5.40648V7.58691C3.75 8.11669 3.93189 8.48997 4.19466 8.73457C4.46348 8.98481 4.87943 9.15745 5.43924 9.15745H18.5608C19.1206 9.15745 19.5365 8.98481 19.8053 8.73457C20.0681 8.48997 20.25 8.11669 20.25 7.58691V5.40648C20.25 4.87909 20.0684 4.50544 19.805 4.25997C19.5358 4.00904 19.1197 3.83594 18.5608 3.83594H5.43924C4.87943 3.83594 4.46348 4.00857 4.19466 4.25882Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.83789 17.5038C5.83789 17.0896 6.17368 16.7538 6.58789 16.7538H7.56184C7.97605 16.7538 8.31184 17.0896 8.31184 17.5038C8.31184 17.9181 7.97605 18.2538 7.56184 18.2538H6.58789C6.17368 18.2538 5.83789 17.9181 5.83789 17.5038Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.83789 6.49707C5.83789 6.08286 6.17368 5.74707 6.58789 5.74707H7.56184C7.97605 5.74707 8.31184 6.08286 8.31184 6.49707C8.31184 6.91128 7.97605 7.24707 7.56184 7.24707H6.58789C6.17368 7.24707 5.83789 6.91128 5.83789 6.49707Z" fill="black"/> </svg> ',
+    category: 'Server',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server-rack — bold style variants.
+class _ServerServerRack4Bold {
+  const _ServerServerRack4Bold();
+
+  /// server-rack — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server-rack',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.6 18.2496H6.6C6.19 18.2496 5.85 17.9096 5.85 17.4996C5.85 17.0896 6.19 16.7496 6.6 16.7496H7.6C8.01 16.7496 8.35 17.0896 8.35 17.4996C8.35 17.9096 8.01 18.2496 7.6 18.2496ZM18.5 13.5996H5.4C3.69 13.5996 2.5 14.7496 2.5 16.3996V18.5996C2.5 20.2496 3.69 21.3996 5.4 21.3996H18.6C20.31 21.3996 21.5 20.2496 21.5 18.5996V16.3996C21.5 14.7296 20.29 13.5996 18.5 13.5996Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.6 7.24961H6.6C6.19 7.24961 5.85 6.90961 5.85 6.49961C5.85 6.08961 6.19 5.74961 6.6 5.74961H7.6C8.01 5.74961 8.35 6.08961 8.35 6.49961C8.35 6.90961 8.01 7.24961 7.6 7.24961ZM18.5 2.59961H5.4C3.69 2.59961 2.5 3.74961 2.5 5.39961V7.59961C2.5 9.24961 3.69 10.3996 5.4 10.3996H18.6C20.31 10.3996 21.5 9.24961 21.5 7.59961V5.39961C21.5 3.72961 20.29 2.59961 18.5 2.59961Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server-rack — light style variants.
+class _ServerServerRack4Light {
+  const _ServerServerRack4Light();
+
+  /// server-rack — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server-rack',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 16.4133V18.5937C21 20.025 19.9901 20.9143 18.5608 20.9143H5.43924C4.00995 20.9143 3 20.025 3 18.5937V16.4133C3 14.983 4.00995 14.0928 5.43924 14.0928H18.5608C19.9901 14.0928 21 14.9869 21 16.4133Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 5.40648V7.58691C21 9.01718 19.9901 9.90745 18.5608 9.90745H5.43924C4.00995 9.90745 3 9.01718 3 7.58691V5.40648C3 3.97621 4.00995 3.08594 5.43924 3.08594H18.5608C19.9901 3.08594 21 3.9801 21 5.40648Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.58789 17.5039H7.56184" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.58789 6.49707H7.56184" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Server',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -837,14 +1993,8 @@ class _ServerServerIcon {
   _ServerServerBold get bold => const _ServerServerBold();
   /// bulk style
   _ServerServerBulk get bulk => const _ServerServerBulk();
-  /// light style
-  _ServerServerLight get light => const _ServerServerLight();
   /// outline style
   _ServerServerOutline get outline => const _ServerServerOutline();
-  /// twoTone style
-  _ServerServerTwotone get twoTone => const _ServerServerTwotone();
-  /// broken style
-  _ServerServerBroken get broken => const _ServerServerBroken();
 }
 
 /// Server — bulk style variants.
@@ -854,39 +2004,9 @@ class _ServerServerBulk {
   /// Server — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Server',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.37451 8.197H17.6255C19.3075 8.197 20.7245 6.78 20.7245 5.098C20.7245 3.416 19.3075 2 17.6255 2H6.37451C4.69251 2 3.27551 3.416 3.27551 5.098C3.27551 6.78 4.69251 8.197 6.37451 8.197Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6262 8.90137H6.37425C4.69225 8.90137 3.27625 10.3184 3.27625 12.0004C3.27625 13.6824 4.69225 15.0984 6.37425 15.0984H17.6262C19.3082 15.0984 20.7242 13.6824 20.7242 12.0004C20.7242 10.3184 19.3082 8.90137 17.6262 8.90137Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6262 15.8027H6.37425C4.69225 15.8027 3.27625 17.2197 3.27625 18.9017C3.27625 20.5837 4.69225 21.9997 6.37425 21.9997H17.6262C19.3082 21.9997 20.7242 20.5837 20.7242 18.9017C20.7242 17.2197 19.3082 15.8027 17.6262 15.8027Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.33352 4.28516C8.74552 4.28516 9.07952 4.61916 9.07952 5.03116C9.07952 5.44216 8.74552 5.77616 8.33352 5.77616C7.92152 5.77616 7.58752 5.44216 7.58752 5.03116C7.58752 4.61916 7.92152 4.28516 8.33352 4.28516ZM13.5345 4.29516H15.8615C16.2625 4.29516 16.5885 4.62016 16.5885 5.02216C16.5885 5.42316 16.2625 5.74916 15.8615 5.74916H13.5345C13.1325 5.74916 12.8075 5.42316 12.8075 5.02216C12.8075 4.62016 13.1325 4.29516 13.5345 4.29516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8613 12.6505H13.5343C13.1333 12.6505 12.8073 12.3245 12.8073 11.9235C12.8073 11.5225 13.1333 11.1965 13.5343 11.1965H15.8613C16.2623 11.1965 16.5883 11.5225 16.5883 11.9235C16.5883 12.3245 16.2623 12.6505 15.8613 12.6505ZM8.33326 12.6775C7.92126 12.6775 7.58826 12.3445 7.58826 11.9325C7.58826 11.5205 7.92126 11.1865 8.33326 11.1865C8.74526 11.1865 9.07926 11.5205 9.07926 11.9325C9.07926 12.3445 8.74526 12.6775 8.33326 12.6775Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8613 19.5519H13.5343C13.1333 19.5519 12.8073 19.2259 12.8073 18.8249C12.8073 18.4239 13.1333 18.0979 13.5343 18.0979H15.8613C16.2623 18.0979 16.5883 18.4239 16.5883 18.8249C16.5883 19.2259 16.2623 19.5519 15.8613 19.5519ZM8.33326 19.5789C7.92126 19.5789 7.58826 19.2459 7.58826 18.8339C7.58826 18.4219 7.92126 18.0889 8.33326 18.0889C8.74526 18.0889 9.07926 18.4219 9.07926 18.8339C9.07926 19.2459 8.74526 19.5789 8.33326 19.5789Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.3001 7.958C21.4106 7.958 21.5001 7.86846 21.5001 7.758V6.9C21.5001 4.433 19.5671 2.5 17.1001 2.5H6.90012C4.43312 2.5 2.50012 4.433 2.50012 6.9V7.758C2.50012 7.86846 2.58967 7.958 2.70012 7.958H21.3001Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.49988 14.302C2.49988 14.4124 2.58942 14.502 2.69988 14.502H21.2999C21.4103 14.502 21.4999 14.4124 21.4999 14.302V9.65898C21.4999 9.54853 21.4103 9.45898 21.2999 9.45898H2.69988C2.58942 9.45898 2.49988 9.54853 2.49988 9.65898V14.302Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.69988 16.002C2.58942 16.002 2.49988 16.0915 2.49988 16.202V17.1C2.49988 19.527 4.47388 21.5 6.89988 21.5H17.0999C19.5669 21.5 21.4999 19.568 21.4999 17.1V16.202C21.4999 16.0915 21.4103 16.002 21.2999 16.002H2.69988Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.3501 4.68652H7.8501C8.2641 4.68652 8.6001 5.02252 8.6001 5.43652C8.6001 5.85052 8.2641 6.18652 7.8501 6.18652H7.3501C6.9361 6.18652 6.6001 5.85052 6.6001 5.43652C6.6001 5.02252 6.9361 4.68652 7.3501 4.68652ZM13.0501 4.68652H16.6501C17.0641 4.68652 17.4001 5.02252 17.4001 5.43652C17.4001 5.85052 17.0641 6.18652 16.6501 6.18652H13.0501C12.6361 6.18652 12.3001 5.85052 12.3001 5.43652C12.3001 5.02252 12.6361 4.68652 13.0501 4.68652Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.6499 12.7295H13.0499C12.6359 12.7295 12.2999 12.3935 12.2999 11.9795C12.2999 11.5655 12.6359 11.2295 13.0499 11.2295H16.6499C17.0639 11.2295 17.3999 11.5655 17.3999 11.9795C17.3999 12.3935 17.0639 12.7295 16.6499 12.7295ZM7.84985 12.7295H7.34985C6.93585 12.7295 6.59985 12.3935 6.59985 11.9795C6.59985 11.5655 6.93585 11.2295 7.34985 11.2295H7.84985C8.26385 11.2295 8.59985 11.5655 8.59985 11.9795C8.59985 12.3935 8.26385 12.7295 7.84985 12.7295Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.6499 19.2725H13.0499C12.6359 19.2725 12.2999 18.9365 12.2999 18.5225C12.2999 18.1085 12.6359 17.7725 13.0499 17.7725H16.6499C17.0639 17.7725 17.3999 18.1085 17.3999 18.5225C17.3999 18.9365 17.0639 19.2725 16.6499 19.2725ZM7.84985 19.2725H7.34985C6.93585 19.2725 6.59985 18.9365 6.59985 18.5225C6.59985 18.1085 6.93585 17.7725 7.34985 17.7725H7.84985C8.26385 17.7725 8.59985 18.1085 8.59985 18.5225C8.59985 18.9365 8.26385 19.2725 7.84985 19.2725Z" fill="black"/> </svg>',
     category: 'Server',
     style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Server — broken style variants.
-class _ServerServerBroken {
-  const _ServerServerBroken();
-
-  /// Server — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Server',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.4007 3.00006H17.5251C19.1821 3.00006 20.5255 4.34345 20.5255 6.00042C20.5255 7.6574 19.1821 9 17.5251 9H6.49072C4.83374 9 3.49036 7.6574 3.49036 6.00042C3.49036 4.34345 4.83374 3.00006 6.49072 3.00006H7.43732" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.49036 11.9996C3.49036 10.3426 4.83374 9 6.49072 9H17.5251C19.1821 9 20.5255 10.3426 20.5255 11.9996C20.5255 13.6566 19.1821 14.9999 17.5251 14.9999H10.4007" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6152 20.9999H6.49072C4.83374 20.9999 3.49036 19.6566 3.49036 17.9996C3.49036 16.3426 4.83374 15 6.49072 15H17.5252C19.1821 15 20.5255 16.3426 20.5255 17.9996C20.5255 19.6566 19.1821 20.9999 17.5252 20.9999H16.5786" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0717 5.98828H15.4566" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.63452 5.98828H7.64452" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0717 12H15.4566" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.63452 12H7.64452" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0717 18H15.4566" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.63452 18H7.64452" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Server',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Server — twoTone style variants.
-class _ServerServerTwotone {
-  const _ServerServerTwotone();
-
-  /// Server — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Server',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7 9H18C19.6569 9 21 10.3431 21 12C21 13.6569 19.6569 15 18 15H7C5.34315 15 4 13.6569 4 12C4 10.3431 5.34315 9 7 9Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.13281 12H8.13458" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.5449 12H15.9453" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7 15H18C19.6569 15 21 16.3431 21 18C21 19.6569 19.6569 21 18 21H7C5.34315 21 4 19.6569 4 18C4 16.3431 5.34315 15 7 15Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.13281 18H8.13458" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.5449 18H15.9453" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7 3H18C19.6569 3 21 4.34315 21 6C21 7.65685 19.6569 9 18 9H7C5.34315 9 4 7.65685 4 6C4 4.34315 5.34315 3 7 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.13281 6H8.13458" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.5449 6H15.9453" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Server',
-    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -899,7 +2019,7 @@ class _ServerServerOutline {
   /// Server — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Server',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.89189 3.75C5.15667 3.75 3.75 5.15667 3.75 6.89189V17.1081C3.75 18.8433 5.15667 20.25 6.89189 20.25H17.1081C18.8433 20.25 20.25 18.8433 20.25 17.1081V6.89189C20.25 5.15667 18.8433 3.75 17.1081 3.75H6.89189ZM2.25 6.89189C2.25 4.32825 4.32825 2.25 6.89189 2.25H17.1081C19.6718 2.25 21.75 4.32824 21.75 6.89189V17.1081C21.75 19.6718 19.6718 21.75 17.1081 21.75H6.89189C4.32825 21.75 2.25 19.6718 2.25 17.1081V6.89189Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 8.98926C2.25 8.57504 2.58579 8.23926 3 8.23926H20.9893C21.4035 8.23926 21.7393 8.57504 21.7393 8.98926C21.7393 9.40347 21.4035 9.73926 20.9893 9.73926H3C2.58579 9.73926 2.25 9.40347 2.25 8.98926Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.28516 15.0322C2.28516 14.618 2.62094 14.2822 3.03516 14.2822H20.9885C21.4027 14.2822 21.7385 14.618 21.7385 15.0322C21.7385 15.4464 21.4027 15.7822 20.9885 15.7822H3.03516C2.62094 15.7822 2.28516 15.4464 2.28516 15.0322Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.56055 5.98145C6.56055 5.56723 6.89633 5.23145 7.31055 5.23145H7.83303C8.24725 5.23145 8.58303 5.56723 8.58303 5.98145C8.58303 6.39566 8.24725 6.73145 7.83303 6.73145H7.31055C6.89633 6.73145 6.56055 6.39566 6.56055 5.98145ZM12.272 5.98145C12.272 5.56723 12.6077 5.23145 13.022 5.23145H16.583C16.9973 5.23145 17.333 5.56723 17.333 5.98145C17.333 6.39566 16.9973 6.73145 16.583 6.73145H13.022C12.6077 6.73145 12.272 6.39566 12.272 5.98145Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.56055 18.0186C6.56055 17.6043 6.89633 17.2686 7.31055 17.2686H7.83303C8.24725 17.2686 8.58303 17.6043 8.58303 18.0186C8.58303 18.4328 8.24725 18.7686 7.83303 18.7686H7.31055C6.89633 18.7686 6.56055 18.4328 6.56055 18.0186ZM12.272 18.0186C12.272 17.6043 12.6077 17.2686 13.022 17.2686H16.583C16.9973 17.2686 17.333 17.6043 17.333 18.0186C17.333 18.4328 16.9973 18.7686 16.583 18.7686H13.022C12.6077 18.7686 12.272 18.4328 12.272 18.0186Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.56055 12.0859C6.56055 11.6717 6.89633 11.3359 7.31055 11.3359H7.83303C8.24725 11.3359 8.58303 11.6717 8.58303 12.0859C8.58303 12.5002 8.24725 12.8359 7.83303 12.8359H7.31055C6.89633 12.8359 6.56055 12.5002 6.56055 12.0859ZM12.272 12.0859C12.272 11.6717 12.6077 11.3359 13.022 11.3359H16.583C16.9973 11.3359 17.333 11.6717 17.333 12.0859C17.333 12.5002 16.9973 12.8359 16.583 12.8359H13.022C12.6077 12.8359 12.272 12.5002 12.272 12.0859Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.17261 14.1419C3.76609 13.5895 4.56976 13.317 5.43924 13.317H18.5608C19.4311 13.317 20.2347 13.5909 20.8277 14.1437C21.4266 14.7019 21.75 15.4885 21.75 16.3875V18.5679C21.75 19.4684 21.4269 20.2554 20.8274 20.8135C20.2339 21.366 19.4302 21.6385 18.5608 21.6385H5.43924C4.56976 21.6385 3.76609 21.366 3.17261 20.8135C2.57308 20.2554 2.25 19.4684 2.25 18.5679V16.3875C2.25 15.487 2.57308 14.7 3.17261 14.1419ZM4.19466 15.2398C3.93189 15.4844 3.75 15.8577 3.75 16.3875V18.5679C3.75 19.0977 3.93189 19.471 4.19466 19.7156C4.46348 19.9658 4.87943 20.1385 5.43924 20.1385H18.5608C19.1206 20.1385 19.5365 19.9658 19.8053 19.7156C20.0681 19.471 20.25 19.0977 20.25 18.5679V16.3875C20.25 15.8601 20.0684 15.4865 19.805 15.241C19.5358 14.9901 19.1197 14.817 18.5608 14.817H5.43924C4.87943 14.817 4.46348 14.9896 4.19466 15.2398Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.17261 3.18629C3.76609 2.63383 4.56976 2.36133 5.43924 2.36133H18.5608C19.4311 2.36133 20.2347 2.63531 20.8277 3.18805C21.4266 3.74626 21.75 4.53288 21.75 5.43187V7.6123C21.75 8.51279 21.4269 9.29978 20.8274 9.85788C20.2339 10.4103 19.4302 10.6828 18.5608 10.6828H5.43924C4.56976 10.6828 3.76609 10.4103 3.17261 9.85788C2.57308 9.29978 2.25 8.51279 2.25 7.6123V5.43187C2.25 4.53138 2.57308 3.74439 3.17261 3.18629ZM4.19466 4.28421C3.93189 4.52881 3.75 4.90208 3.75 5.43187V7.6123C3.75 8.14208 3.93189 8.51536 4.19466 8.75996C4.46348 9.0102 4.87943 9.18284 5.43924 9.18284H18.5608C19.1206 9.18284 19.5365 9.0102 19.8053 8.75996C20.0681 8.51536 20.25 8.14208 20.25 7.6123V5.43187C20.25 4.90448 20.0684 4.53083 19.805 4.28536C19.5358 4.03443 19.1197 3.86133 18.5608 3.86133H5.43924C4.87943 3.86133 4.46348 4.03397 4.19466 4.28421Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.94141 6.52246C5.94141 6.10825 6.27719 5.77246 6.69141 5.77246H11.2469C11.6611 5.77246 11.9969 6.10825 11.9969 6.52246C11.9969 6.93667 11.6611 7.27246 11.2469 7.27246H6.69141C6.27719 7.27246 5.94141 6.93667 5.94141 6.52246Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.94141 17.4775C5.94141 17.0633 6.27719 16.7275 6.69141 16.7275H11.2469C11.6611 16.7275 11.9969 17.0633 11.9969 17.4775C11.9969 17.8918 11.6611 18.2275 11.2469 18.2275H6.69141C6.27719 18.2275 5.94141 17.8918 5.94141 17.4775Z" fill="black"/> </svg> ',
     category: 'Server',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -914,6 +2034,145 @@ class _ServerServerBold {
   /// Server — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Server',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.35012 4.687H7.85012C8.26412 4.687 8.60012 5.023 8.60012 5.437C8.60012 5.851 8.26412 6.187 7.85012 6.187H7.35012C6.93612 6.187 6.60012 5.851 6.60012 5.437C6.60012 5.023 6.93612 4.687 7.35012 4.687ZM13.0501 4.687H16.6501C17.0641 4.687 17.4001 5.023 17.4001 5.437C17.4001 5.851 17.0641 6.187 16.6501 6.187H13.0501C12.6361 6.187 12.3001 5.851 12.3001 5.437C12.3001 5.023 12.6361 4.687 13.0501 4.687ZM21.3001 7.958C21.4106 7.958 21.5001 7.86846 21.5001 7.758V6.9C21.5001 4.433 19.5671 2.5 17.1001 2.5H6.90012C4.43312 2.5 2.50012 4.433 2.50012 6.9V7.758C2.50012 7.86846 2.58967 7.958 2.70012 7.958H21.3001Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.6499 12.73H13.0499C12.6359 12.73 12.2999 12.394 12.2999 11.98C12.2999 11.566 12.6359 11.23 13.0499 11.23H16.6499C17.0639 11.23 17.3999 11.566 17.3999 11.98C17.3999 12.394 17.0639 12.73 16.6499 12.73ZM7.84988 12.73H7.34988C6.93588 12.73 6.59988 12.394 6.59988 11.98C6.59988 11.566 6.93588 11.23 7.34988 11.23H7.84988C8.26388 11.23 8.59988 11.566 8.59988 11.98C8.59988 12.394 8.26388 12.73 7.84988 12.73ZM2.49988 14.302C2.49988 14.4124 2.58942 14.502 2.69988 14.502H21.2999C21.4103 14.502 21.4999 14.4124 21.4999 14.302V9.65898C21.4999 9.54853 21.4103 9.45898 21.2999 9.45898H2.69988C2.58942 9.45898 2.49988 9.54853 2.49988 9.65898V14.302Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.6499 19.273H13.0499C12.6359 19.273 12.2999 18.937 12.2999 18.523C12.2999 18.109 12.6359 17.773 13.0499 17.773H16.6499C17.0639 17.773 17.3999 18.109 17.3999 18.523C17.3999 18.937 17.0639 19.273 16.6499 19.273ZM7.84988 19.273H7.34988C6.93588 19.273 6.59988 18.937 6.59988 18.523C6.59988 18.109 6.93588 17.773 7.34988 17.773H7.84988C8.26388 17.773 8.59988 18.109 8.59988 18.523C8.59988 18.937 8.26388 19.273 7.84988 19.273ZM2.69988 16.002C2.58942 16.002 2.49988 16.0915 2.49988 16.202V17.1C2.49988 19.527 4.47388 21.5 6.89988 21.5H17.0999C19.5669 21.5 21.4999 19.568 21.4999 17.1V16.202C21.4999 16.0915 21.4103 16.002 21.2999 16.002H2.69988Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server 1 icon with style variants.
+class _ServerServer1Icon {
+  const _ServerServer1Icon();
+
+  /// light style
+  _ServerServer1Light get light => const _ServerServer1Light();
+}
+
+/// Server 1 — light style variants.
+class _ServerServer1Light {
+  const _ServerServer1Light();
+
+  /// Server 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 6.89189V17.1081C21 19.2575 19.2575 21 17.1081 21H6.89189C4.74246 21 3 19.2575 3 17.1081V6.89189C3 4.74246 4.74246 3 6.89189 3H17.1081C19.2575 3 21 4.74246 21 6.89189Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9893 8.98926H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9885 15.0322H3.03516" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.31055 5.98145H7.83303M13.022 5.98145H16.583" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.31055 18.0186H7.83303M13.022 18.0186H16.583" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.31055 12.0859H7.83303M13.022 12.0859H16.583" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server 2 icon with style variants.
+class _ServerServer2Icon {
+  const _ServerServer2Icon();
+
+  /// light style
+  _ServerServer2Light get light => const _ServerServer2Light();
+}
+
+/// Server 2 — light style variants.
+class _ServerServer2Light {
+  const _ServerServer2Light();
+
+  /// Server 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 6.89189V17.1081C21 19.2575 19.2575 21 17.1081 21H6.89189C4.74246 21 3 19.2575 3 17.1081V6.89189C3 4.74246 4.74246 3 6.89189 3H17.1081C19.2575 3 21 4.74246 21 6.89189Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9893 8.98926H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9885 15.0322H3.03516" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.31055 5.98145H7.83303M13.022 5.98145H16.583" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.31055 18.0186H7.83303M13.022 18.0186H16.583" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.31055 12.0859H7.83303M13.022 12.0859H16.583" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server 3 icon with style variants.
+class _ServerServer3Icon {
+  const _ServerServer3Icon();
+
+  /// bold style
+  _ServerServer3Bold get bold => const _ServerServer3Bold();
+  /// bulk style
+  _ServerServer3Bulk get bulk => const _ServerServer3Bulk();
+  /// light style
+  _ServerServer3Light get light => const _ServerServer3Light();
+  /// outline style
+  _ServerServer3Outline get outline => const _ServerServer3Outline();
+  /// twoTone style
+  _ServerServer3Twotone get twoTone => const _ServerServer3Twotone();
+  /// broken style
+  _ServerServer3Broken get broken => const _ServerServer3Broken();
+}
+
+/// Server 3 — bulk style variants.
+class _ServerServer3Bulk {
+  const _ServerServer3Bulk();
+
+  /// Server 3 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.37451 8.197H17.6255C19.3075 8.197 20.7245 6.78 20.7245 5.098C20.7245 3.416 19.3075 2 17.6255 2H6.37451C4.69251 2 3.27551 3.416 3.27551 5.098C3.27551 6.78 4.69251 8.197 6.37451 8.197Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6262 8.90137H6.37425C4.69225 8.90137 3.27625 10.3184 3.27625 12.0004C3.27625 13.6824 4.69225 15.0984 6.37425 15.0984H17.6262C19.3082 15.0984 20.7242 13.6824 20.7242 12.0004C20.7242 10.3184 19.3082 8.90137 17.6262 8.90137Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6262 15.8027H6.37425C4.69225 15.8027 3.27625 17.2197 3.27625 18.9017C3.27625 20.5837 4.69225 21.9997 6.37425 21.9997H17.6262C19.3082 21.9997 20.7242 20.5837 20.7242 18.9017C20.7242 17.2197 19.3082 15.8027 17.6262 15.8027Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.33352 4.28516C8.74552 4.28516 9.07952 4.61916 9.07952 5.03116C9.07952 5.44216 8.74552 5.77616 8.33352 5.77616C7.92152 5.77616 7.58752 5.44216 7.58752 5.03116C7.58752 4.61916 7.92152 4.28516 8.33352 4.28516ZM13.5345 4.29516H15.8615C16.2625 4.29516 16.5885 4.62016 16.5885 5.02216C16.5885 5.42316 16.2625 5.74916 15.8615 5.74916H13.5345C13.1325 5.74916 12.8075 5.42316 12.8075 5.02216C12.8075 4.62016 13.1325 4.29516 13.5345 4.29516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8613 12.6505H13.5343C13.1333 12.6505 12.8073 12.3245 12.8073 11.9235C12.8073 11.5225 13.1333 11.1965 13.5343 11.1965H15.8613C16.2623 11.1965 16.5883 11.5225 16.5883 11.9235C16.5883 12.3245 16.2623 12.6505 15.8613 12.6505ZM8.33326 12.6775C7.92126 12.6775 7.58826 12.3445 7.58826 11.9325C7.58826 11.5205 7.92126 11.1865 8.33326 11.1865C8.74526 11.1865 9.07926 11.5205 9.07926 11.9325C9.07926 12.3445 8.74526 12.6775 8.33326 12.6775Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8613 19.5519H13.5343C13.1333 19.5519 12.8073 19.2259 12.8073 18.8249C12.8073 18.4239 13.1333 18.0979 13.5343 18.0979H15.8613C16.2623 18.0979 16.5883 18.4239 16.5883 18.8249C16.5883 19.2259 16.2623 19.5519 15.8613 19.5519ZM8.33326 19.5789C7.92126 19.5789 7.58826 19.2459 7.58826 18.8339C7.58826 18.4219 7.92126 18.0889 8.33326 18.0889C8.74526 18.0889 9.07926 18.4219 9.07926 18.8339C9.07926 19.2459 8.74526 19.5789 8.33326 19.5789Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server 3 — broken style variants.
+class _ServerServer3Broken {
+  const _ServerServer3Broken();
+
+  /// Server 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.4007 3.00006H17.5251C19.1821 3.00006 20.5255 4.34345 20.5255 6.00042C20.5255 7.6574 19.1821 9 17.5251 9H6.49072C4.83374 9 3.49036 7.6574 3.49036 6.00042C3.49036 4.34345 4.83374 3.00006 6.49072 3.00006H7.43732" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.49036 11.9996C3.49036 10.3426 4.83374 9 6.49072 9H17.5251C19.1821 9 20.5255 10.3426 20.5255 11.9996C20.5255 13.6566 19.1821 14.9999 17.5251 14.9999H10.4007" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6152 20.9999H6.49072C4.83374 20.9999 3.49036 19.6566 3.49036 17.9996C3.49036 16.3426 4.83374 15 6.49072 15H17.5252C19.1821 15 20.5255 16.3426 20.5255 17.9996C20.5255 19.6566 19.1821 20.9999 17.5252 20.9999H16.5786" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0717 5.98828H15.4566" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.63452 5.98828H7.64452" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0717 12H15.4566" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.63452 12H7.64452" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0717 18H15.4566" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.63452 18H7.64452" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server 3 — twoTone style variants.
+class _ServerServer3Twotone {
+  const _ServerServer3Twotone();
+
+  /// Server 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7 9H18C19.6569 9 21 10.3431 21 12C21 13.6569 19.6569 15 18 15H7C5.34315 15 4 13.6569 4 12C4 10.3431 5.34315 9 7 9Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.13281 12H8.13458" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.5449 12H15.9453" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7 15H18C19.6569 15 21 16.3431 21 18C21 19.6569 19.6569 21 18 21H7C5.34315 21 4 19.6569 4 18C4 16.3431 5.34315 15 7 15Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.13281 18H8.13458" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.5449 18H15.9453" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7 3H18C19.6569 3 21 4.34315 21 6C21 7.65685 19.6569 9 18 9H7C5.34315 9 4 7.65685 4 6C4 4.34315 5.34315 3 7 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.13281 6H8.13458" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.5449 6H15.9453" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server 3 — outline style variants.
+class _ServerServer3Outline {
+  const _ServerServer3Outline();
+
+  /// Server 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75 12C2.75 9.92893 4.42893 8.25 6.5 8.25H17.5C19.5711 8.25 21.25 9.92893 21.25 12C21.25 14.0711 19.5711 15.75 17.5 15.75H6.5C4.42893 15.75 2.75 14.0711 2.75 12ZM6.5 9.75C5.25736 9.75 4.25 10.7574 4.25 12C4.25 13.2426 5.25736 14.25 6.5 14.25H17.5C18.7426 14.25 19.75 13.2426 19.75 12C19.75 10.7574 18.7426 9.75 17.5 9.75H6.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.88281 12C6.88281 11.5858 7.2186 11.25 7.63281 11.25H7.63458C8.04879 11.25 8.38458 11.5858 8.38458 12C8.38458 12.4142 8.04879 12.75 7.63458 12.75H7.63281C7.2186 12.75 6.88281 12.4142 6.88281 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2949 12C12.2949 11.5858 12.6307 11.25 13.0449 11.25H15.4453C15.8595 11.25 16.1953 11.5858 16.1953 12C16.1953 12.4142 15.8595 12.75 15.4453 12.75H13.0449C12.6307 12.75 12.2949 12.4142 12.2949 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75 18C2.75 15.9289 4.42893 14.25 6.5 14.25H17.5C19.5711 14.25 21.25 15.9289 21.25 18C21.25 20.0711 19.5711 21.75 17.5 21.75H6.5C4.42893 21.75 2.75 20.0711 2.75 18ZM6.5 15.75C5.25736 15.75 4.25 16.7574 4.25 18C4.25 19.2426 5.25736 20.25 6.5 20.25H17.5C18.7426 20.25 19.75 19.2426 19.75 18C19.75 16.7574 18.7426 15.75 17.5 15.75H6.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.88281 18C6.88281 17.5858 7.2186 17.25 7.63281 17.25H7.63458C8.04879 17.25 8.38458 17.5858 8.38458 18C8.38458 18.4142 8.04879 18.75 7.63458 18.75H7.63281C7.2186 18.75 6.88281 18.4142 6.88281 18Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2949 18C12.2949 17.5858 12.6307 17.25 13.0449 17.25H15.4453C15.8595 17.25 16.1953 17.5858 16.1953 18C16.1953 18.4142 15.8595 18.75 15.4453 18.75H13.0449C12.6307 18.75 12.2949 18.4142 12.2949 18Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75 6C2.75 3.92893 4.42893 2.25 6.5 2.25H17.5C19.5711 2.25 21.25 3.92893 21.25 6C21.25 8.07107 19.5711 9.75 17.5 9.75H6.5C4.42893 9.75 2.75 8.07107 2.75 6ZM6.5 3.75C5.25736 3.75 4.25 4.75736 4.25 6C4.25 7.24264 5.25736 8.25 6.5 8.25H17.5C18.7426 8.25 19.75 7.24264 19.75 6C19.75 4.75736 18.7426 3.75 17.5 3.75H6.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.88281 6C6.88281 5.58579 7.2186 5.25 7.63281 5.25H7.63458C8.04879 5.25 8.38458 5.58579 8.38458 6C8.38458 6.41421 8.04879 6.75 7.63458 6.75H7.63281C7.2186 6.75 6.88281 6.41421 6.88281 6Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2949 6C12.2949 5.58579 12.6307 5.25 13.0449 5.25H15.4453C15.8595 5.25 16.1953 5.58579 16.1953 6C16.1953 6.41421 15.8595 6.75 15.4453 6.75H13.0449C12.6307 6.75 12.2949 6.41421 12.2949 6Z" fill="black"/> </svg> ',
+    category: 'Server',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server 3 — bold style variants.
+class _ServerServer3Bold {
+  const _ServerServer3Bold();
+
+  /// Server 3 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server 3',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.33351 4.285C8.74551 4.285 9.07951 4.619 9.07951 5.031C9.07951 5.442 8.74551 5.776 8.33351 5.776C7.92151 5.776 7.58751 5.442 7.58751 5.031C7.58751 4.619 7.92151 4.285 8.33351 4.285ZM13.5345 4.295H15.8615C16.2625 4.295 16.5885 4.62 16.5885 5.022C16.5885 5.423 16.2625 5.749 15.8615 5.749H13.5345C13.1325 5.749 12.8075 5.423 12.8075 5.022C12.8075 4.62 13.1325 4.295 13.5345 4.295ZM6.37451 8.197H17.6255C19.3075 8.197 20.7245 6.78 20.7245 5.098C20.7245 3.416 19.3075 2 17.6255 2H6.37451C4.69251 2 3.27551 3.416 3.27551 5.098C3.27551 6.78 4.69251 8.197 6.37451 8.197Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8612 12.6504H13.5342C13.1332 12.6504 12.8072 12.3244 12.8072 11.9234C12.8072 11.5224 13.1332 11.1964 13.5342 11.1964H15.8612C16.2622 11.1964 16.5882 11.5224 16.5882 11.9234C16.5882 12.3244 16.2622 12.6504 15.8612 12.6504ZM8.33324 12.6774C7.92124 12.6774 7.58824 12.3444 7.58824 11.9324C7.58824 11.5204 7.92124 11.1864 8.33324 11.1864C8.74524 11.1864 9.07925 11.5204 9.07925 11.9324C9.07925 12.3444 8.74524 12.6774 8.33324 12.6774ZM17.6262 8.90137H6.37425C4.69225 8.90137 3.27625 10.3184 3.27625 12.0004C3.27625 13.6824 4.69225 15.0984 6.37425 15.0984H17.6262C19.3082 15.0984 20.7242 13.6824 20.7242 12.0004C20.7242 10.3184 19.3082 8.90137 17.6262 8.90137Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8612 19.5517H13.5342C13.1332 19.5517 12.8072 19.2257 12.8072 18.8247C12.8072 18.4237 13.1332 18.0977 13.5342 18.0977H15.8612C16.2622 18.0977 16.5882 18.4237 16.5882 18.8247C16.5882 19.2257 16.2622 19.5517 15.8612 19.5517ZM8.33324 19.5787C7.92124 19.5787 7.58824 19.2457 7.58824 18.8337C7.58824 18.4217 7.92124 18.0887 8.33324 18.0887C8.74524 18.0887 9.07925 18.4217 9.07925 18.8337C9.07925 19.2457 8.74524 19.5787 8.33324 19.5787ZM17.6262 15.8027H6.37425C4.69225 15.8027 3.27625 17.2197 3.27625 18.9017C3.27625 20.5837 4.69225 21.9997 6.37425 21.9997H17.6262C19.3082 21.9997 20.7242 20.5837 20.7242 18.9017C20.7242 17.2197 19.3082 15.8027 17.6262 15.8027Z" fill="black"/> </svg>',
     category: 'Server',
     style: IconfyStyle.bold,
@@ -922,16 +2181,108 @@ class _ServerServerBold {
 
 }
 
-/// Server — light style variants.
-class _ServerServerLight {
-  const _ServerServerLight();
+/// Server 3 — light style variants.
+class _ServerServer3Light {
+  const _ServerServer3Light();
 
-  /// Server — light / regular
+  /// Server 3 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Server',
+    name: 'Server 3',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.5 9H17.5C19.1569 9 20.5 10.3431 20.5 12C20.5 13.6569 19.1569 15 17.5 15H6.5C4.84315 15 3.5 13.6569 3.5 12C3.5 10.3431 4.84315 9 6.5 9Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.63281 12H7.63458" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0449 12H15.4453" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.5 15H17.5C19.1569 15 20.5 16.3431 20.5 18C20.5 19.6569 19.1569 21 17.5 21H6.5C4.84315 21 3.5 19.6569 3.5 18C3.5 16.3431 4.84315 15 6.5 15Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.63281 18H7.63458" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0449 18H15.4453" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.5 3H17.5C19.1569 3 20.5 4.34315 20.5 6C20.5 7.65685 19.1569 9 17.5 9H6.5C4.84315 9 3.5 7.65685 3.5 6C3.5 4.34315 4.84315 3 6.5 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.63281 6H7.63458" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0449 6H15.4453" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Server',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server 4 icon with style variants.
+class _ServerServer4Icon {
+  const _ServerServer4Icon();
+
+  /// twoTone style
+  _ServerServer4Twotone get twoTone => const _ServerServer4Twotone();
+}
+
+/// Server 4 — twoTone style variants.
+class _ServerServer4Twotone {
+  const _ServerServer4Twotone();
+
+  /// Server 4 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.5 6.89189V17.1081C21.5 19.2575 19.7575 21 17.6081 21H7.39189C5.24246 21 3.5 19.2575 3.5 17.1081V6.89189C3.5 4.74246 5.24246 3 7.39189 3H17.6081C19.7575 3 21.5 4.74246 21.5 6.89189Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.4893 8.98926H3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.4885 15.0322H3.53516" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.81055 5.98145H8.33303M13.522 5.98145H17.083" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.81055 18.0186H8.33303M13.522 18.0186H17.083" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.81055 12.0859H8.33303M13.522 12.0859H17.083" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server 5 icon with style variants.
+class _ServerServer5Icon {
+  const _ServerServer5Icon();
+
+  /// twoTone style
+  _ServerServer5Twotone get twoTone => const _ServerServer5Twotone();
+}
+
+/// Server 5 — twoTone style variants.
+class _ServerServer5Twotone {
+  const _ServerServer5Twotone();
+
+  /// Server 5 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 16.3879V18.5684C21.5 19.9986 20.4901 20.8889 19.0608 20.8889H5.93924C4.50995 20.8889 3.5 19.9986 3.5 18.5684V16.3879C3.5 14.9577 4.50995 14.0674 5.93924 14.0674H19.0608C20.4901 14.0674 21.5 14.9615 21.5 16.3879Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.5 5.43187V7.6123C21.5 9.04257 20.4901 9.93284 19.0608 9.93284H5.93924C4.50995 9.93284 3.5 9.04257 3.5 7.6123V5.43187C3.5 4.0016 4.50995 3.11133 5.93924 3.11133H19.0608C20.4901 3.11133 21.5 4.00549 21.5 5.43187Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.7469 6.52246H7.19141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.19141 17.4775H11.7469" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server 6 icon with style variants.
+class _ServerServer6Icon {
+  const _ServerServer6Icon();
+
+  /// broken style
+  _ServerServer6Broken get broken => const _ServerServer6Broken();
+}
+
+/// Server 6 — broken style variants.
+class _ServerServer6Broken {
+  const _ServerServer6Broken();
+
+  /// Server 6 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 3H6.89189C4.74246 3 3 4.74246 3 6.89189V17.1081C3 19.2575 4.74246 21 6.89189 21H17.1081C19.2575 21 21 19.2575 21 17.1081V6.89189C21 4.74246 19.2575 3 17.1081 3H15.5708" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9751 8.98828H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9885 15.0312H5.55688" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.31055 5.98047H7.83303M13.022 5.98047H16.583" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.31055 18.0195H7.83303M13.022 18.0195H16.583" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.31055 12.0859H7.83303M13.022 12.0859H16.583" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server 7 icon with style variants.
+class _ServerServer7Icon {
+  const _ServerServer7Icon();
+
+  /// broken style
+  _ServerServer7Broken get broken => const _ServerServer7Broken();
+}
+
+/// Server 7 — broken style variants.
+class _ServerServer7Broken {
+  const _ServerServer7Broken();
+
+  /// Server 7 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 20.8879H18.5608C19.9901 20.8879 21 19.9976 21 18.5674V16.3869C21 14.9567 19.9901 14.0664 18.5608 14.0664H5.43924C4.00995 14.0664 3 14.9606 3 16.3869V18.5674C3 19.9976 4.00995 20.8879 5.43924 20.8879H8.71962" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3.11133H5.43924C4.00995 3.11133 3 4.0016 3 5.43187V7.6123C3 9.04257 4.00995 9.93284 5.43924 9.93284H18.5608C19.9901 9.93284 21 9.04257 21 7.6123V5.43187C21 4.00549 19.9901 3.11133 18.5608 3.11133H15.2804" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2469 6.52344H6.69141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.69141 17.4766H11.2469" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.broken,
     type: IconfyType.regular,
   );
 
@@ -1913,93 +3264,8 @@ class _ServerServerTreeLight {
 class _ServerServerConnectIcon {
   const _ServerServerConnectIcon();
 
-  /// bold style
-  _ServerServerConnectBold get bold => const _ServerServerConnectBold();
-  /// bulk style
-  _ServerServerConnectBulk get bulk => const _ServerServerConnectBulk();
   /// light style
   _ServerServerConnectLight get light => const _ServerServerConnectLight();
-  /// outline style
-  _ServerServerConnectOutline get outline => const _ServerServerConnectOutline();
-  /// twoTone style
-  _ServerServerConnectTwotone get twoTone => const _ServerServerConnectTwotone();
-  /// broken style
-  _ServerServerConnectBroken get broken => const _ServerServerConnectBroken();
-}
-
-/// server connect — bulk style variants.
-class _ServerServerConnectBulk {
-  const _ServerServerConnectBulk();
-
-  /// server connect — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'server connect',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.3 12.275C19.58 12.275 21.5 10.355 21.5 8.075C21.5 5.795 19.58 3.875 17.3 3.875H6.7C4.42 3.875 2.5 5.795 2.5 8.075C2.5 10.355 4.42 12.275 6.7 12.275H11.25H12.75H17.3Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1 7.3252C12.69 7.3252 12.35 7.6652 12.35 8.0752C12.35 8.4852 12.69 8.8252 13.1 8.8252H16.7C17.11 8.8252 17.45 8.4852 17.45 8.0752C17.45 7.6652 17.11 7.3252 16.7 7.3252H13.1ZM7.40002 8.8252H7.90002C8.31002 8.8252 8.65002 8.4852 8.65002 8.0752C8.65002 7.6652 8.31002 7.3252 7.90002 7.3252H7.40002C6.99002 7.3252 6.65002 7.6652 6.65002 8.0752C6.65002 8.4852 6.99002 8.8252 7.40002 8.8252Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.25 12.2754V15.5554C10.55 15.7854 10.01 16.3254 9.77999 17.0254H5.79999C5.38999 17.0254 5.04999 17.3654 5.04999 17.7754C5.04999 18.1854 5.38999 18.5254 5.79999 18.5254H9.77999C10.09 19.4654 10.95 20.1254 12 20.1254C13.05 20.1254 13.91 19.4654 14.22 18.5254H18.2C18.61 18.5254 18.95 18.1854 18.95 17.7754C18.95 17.3654 18.61 17.0254 18.2 17.0254H14.22C13.99 16.3254 13.45 15.7854 12.75 15.5554V12.2754H11.25ZM12.01 18.6714C12.502 18.6714 12.902 18.2724 12.902 17.7794C12.902 17.2864 12.502 16.8864 12.01 16.8864C11.517 16.8864 11.117 17.2864 11.117 17.7794C11.117 18.2724 11.517 18.6714 12.01 18.6714Z" fill="black"/> </svg>',
-    category: 'Server',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// server connect — broken style variants.
-class _ServerServerConnectBroken {
-  const _ServerServerConnectBroken();
-
-  /// server connect — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'server connect',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 4.48828H6.70508C4.65892 4.48828 3 6.14623 3 8.19239C3 10.2386 4.65892 11.8975 6.70508 11.8975H17.2949C19.3411 11.8975 21 10.2386 21 8.19239C21 6.14623 19.3411 4.48828 17.2949 4.48828H15.2423" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.37695 8.19336H7.90138M13.1055 8.19336H16.6773" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6073 17.9052C13.6073 18.7926 12.8883 19.5116 12.0009 19.5116C11.1136 19.5116 10.3945 18.7926 10.3945 17.9052C10.3945 17.0179 11.1136 16.2988 12.0009 16.2988C12.8883 16.2988 13.6073 17.0179 13.6073 17.9052Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2401 17.9043H13.5825M10.4077 17.9043H5.75977" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 16.2928V12.0156" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Server',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// server connect — twoTone style variants.
-class _ServerServerConnectTwotone {
-  const _ServerServerConnectTwotone();
-
-  /// server connect — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'server connect',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.20508 11.8975H17.7949C19.8411 11.8975 21.5 10.2386 21.5 8.19239C21.5 6.14623 19.8411 4.48828 17.7949 4.48828H7.20508C5.15892 4.48828 3.5 6.14623 3.5 8.19239C3.5 10.2386 5.15892 11.8975 7.20508 11.8975Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.87695 8.19336H8.40138M13.6055 8.19336H17.1773" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1073 17.9052C14.1073 18.7926 13.3883 19.5116 12.5009 19.5116C11.6136 19.5116 10.8945 18.7926 10.8945 17.9052C10.8945 17.0179 11.6136 16.2988 12.5009 16.2988C13.3883 16.2988 14.1073 17.0179 14.1073 17.9052Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.7401 17.9043H14.0825M10.9077 17.9043H6.25977" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5 16.2938V12.0166" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Server',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// server connect — outline style variants.
-class _ServerServerConnectOutline {
-  const _ServerServerConnectOutline();
-
-  /// server connect — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'server connect',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.70508 5.23859C5.07288 5.23859 3.75 6.561 3.75 8.19269C3.75 9.82464 5.07313 11.1478 6.70508 11.1478H17.2949C18.9269 11.1478 20.25 9.82464 20.25 8.19269C20.25 6.561 18.9271 5.23859 17.2949 5.23859H6.70508ZM2.25 8.19269C2.25 5.73206 4.24496 3.73859 6.70508 3.73859H17.2949C19.755 3.73859 21.75 5.73206 21.75 8.19269C21.75 10.6531 19.7553 12.6478 17.2949 12.6478H6.70508C4.24471 12.6478 2.25 10.6531 2.25 8.19269Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.62695 8.19336C6.62695 7.77915 6.96274 7.44336 7.37695 7.44336H7.90138C8.3156 7.44336 8.65138 7.77915 8.65138 8.19336C8.65138 8.60757 8.3156 8.94336 7.90138 8.94336H7.37695C6.96274 8.94336 6.62695 8.60757 6.62695 8.19336ZM12.3555 8.19336C12.3555 7.77915 12.6913 7.44336 13.1055 7.44336H16.6773C17.0915 7.44336 17.4273 7.77915 17.4273 8.19336C17.4273 8.60757 17.0915 8.94336 16.6773 8.94336H13.1055C12.6913 8.94336 12.3555 8.60757 12.3555 8.19336Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0009 17.0488C11.5278 17.0488 11.1445 17.4321 11.1445 17.9052C11.1445 18.3783 11.5278 18.7616 12.0009 18.7616C12.474 18.7616 12.8573 18.3783 12.8573 17.9052C12.8573 17.4321 12.474 17.0488 12.0009 17.0488ZM9.64453 17.9052C9.64453 16.6036 10.6993 15.5488 12.0009 15.5488C13.3025 15.5488 14.3573 16.6036 14.3573 17.9052C14.3573 19.2068 13.3025 20.2616 12.0009 20.2616C10.6993 20.2616 9.64453 19.2068 9.64453 17.9052Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.00977 17.9043C5.00977 17.4901 5.34555 17.1543 5.75977 17.1543H10.4077C10.8219 17.1543 11.1577 17.4901 11.1577 17.9043C11.1577 18.3185 10.8219 18.6543 10.4077 18.6543H5.75977C5.34555 18.6543 5.00977 18.3185 5.00977 17.9043ZM12.8325 17.9043C12.8325 17.4901 13.1683 17.1543 13.5825 17.1543H18.2401C18.6543 17.1543 18.9901 17.4901 18.9901 17.9043C18.9901 18.3185 18.6543 18.6543 18.2401 18.6543H13.5825C13.1683 18.6543 12.8325 18.3185 12.8325 17.9043Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 11.2666C12.4142 11.2666 12.75 11.6024 12.75 12.0166V16.2938C12.75 16.708 12.4142 17.0438 12 17.0438C11.5858 17.0438 11.25 16.708 11.25 16.2938V12.0166C11.25 11.6024 11.5858 11.2666 12 11.2666Z" fill="black"/> </svg> ',
-    category: 'Server',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// server connect — bold style variants.
-class _ServerServerConnectBold {
-  const _ServerServerConnectBold();
-
-  /// server connect — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'server connect',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.35 8.075C12.35 7.665 12.69 7.325 13.1 7.325H16.7C17.11 7.325 17.45 7.665 17.45 8.075C17.45 8.485 17.11 8.825 16.7 8.825H13.1C12.69 8.825 12.35 8.485 12.35 8.075ZM12.902 17.779C12.902 18.272 12.502 18.671 12.01 18.671C11.517 18.671 11.117 18.272 11.117 17.779C11.117 17.286 11.517 16.886 12.01 16.886C12.502 16.886 12.902 17.286 12.902 17.779ZM7.9 8.825H7.4C6.99 8.825 6.65 8.485 6.65 8.075C6.65 7.665 6.99 7.325 7.4 7.325H7.9C8.31 7.325 8.65 7.665 8.65 8.075C8.65 8.485 8.31 8.825 7.9 8.825ZM17.3 12.275C19.58 12.275 21.5 10.355 21.5 8.075C21.5 5.795 19.58 3.875 17.3 3.875H6.7C4.42 3.875 2.5 5.795 2.5 8.075C2.5 10.355 4.42 12.275 6.7 12.275H11.25V15.555C10.55 15.785 10.01 16.325 9.78 17.025H5.8C5.39 17.025 5.05 17.365 5.05 17.775C5.05 18.185 5.39 18.525 5.8 18.525H9.78C10.09 19.465 10.95 20.125 12 20.125C13.05 20.125 13.91 19.465 14.22 18.525H18.2C18.61 18.525 18.95 18.185 18.95 17.775C18.95 17.365 18.61 17.025 18.2 17.025H14.22C13.99 16.325 13.45 15.785 12.75 15.555V12.275H17.3Z" fill="black"/> </svg>',
-    category: 'Server',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// server connect — light style variants.
@@ -2009,9 +3275,262 @@ class _ServerServerConnectLight {
   /// server connect — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'server connect',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.70508 11.8975H17.2949C19.3411 11.8975 21 10.2386 21 8.19239C21 6.14623 19.3411 4.48828 17.2949 4.48828H6.70508C4.65892 4.48828 3 6.14623 3 8.19239C3 10.2386 4.65892 11.8975 6.70508 11.8975Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.37695 8.19336H7.90138M13.1055 8.19336H16.6773" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6073 17.9052C13.6073 18.7926 12.8883 19.5116 12.0009 19.5116C11.1136 19.5116 10.3945 18.7926 10.3945 17.9052C10.3945 17.0179 11.1136 16.2988 12.0009 16.2988C12.8883 16.2988 13.6073 17.0179 13.6073 17.9052Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2401 17.9043H13.5825M10.4077 17.9043H5.75977" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 16.2938V12.0166" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server connect 1 icon with style variants.
+class _ServerServerConnect1Icon {
+  const _ServerServerConnect1Icon();
+
+  /// light style
+  _ServerServerConnect1Light get light => const _ServerServerConnect1Light();
+}
+
+/// server connect 1 — light style variants.
+class _ServerServerConnect1Light {
+  const _ServerServerConnect1Light();
+
+  /// server connect 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server connect 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21 9.42439V6.86936C21 5.44201 19.9901 4.54785 18.5608 4.54785H5.43924C4.00995 4.54785 3 5.43812 3 6.86936V9.42439C3 10.8556 4.00995 11.7449 5.43924 11.7449H18.5608C19.9901 11.7449 21 10.8556 21 9.42439Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2469 8.14746H6.69141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6344 17.8162C13.6344 18.7201 12.9018 19.4518 11.9988 19.4518C11.095 19.4518 10.3633 18.7201 10.3633 17.8162C10.3633 16.9133 11.095 16.1807 11.9988 16.1807C12.9018 16.1807 13.6344 16.9133 13.6344 17.8162Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3521 17.8169H13.6099M10.379 17.8169H5.64648M11.9993 16.1763V11.8223" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Server',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server connect 2 icon with style variants.
+class _ServerServerConnect2Icon {
+  const _ServerServerConnect2Icon();
+
+  /// bold style
+  _ServerServerConnect2Bold get bold => const _ServerServerConnect2Bold();
+}
+
+/// server connect 2 — bold style variants.
+class _ServerServerConnect2Bold {
+  const _ServerServerConnect2Bold();
+
+  /// server connect 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server connect 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.35 8.075C12.35 7.665 12.69 7.325 13.1 7.325H16.7C17.11 7.325 17.45 7.665 17.45 8.075C17.45 8.485 17.11 8.825 16.7 8.825H13.1C12.69 8.825 12.35 8.485 12.35 8.075ZM12.902 17.779C12.902 18.272 12.502 18.671 12.01 18.671C11.517 18.671 11.117 18.272 11.117 17.779C11.117 17.286 11.517 16.886 12.01 16.886C12.502 16.886 12.902 17.286 12.902 17.779ZM7.9 8.825H7.4C6.99 8.825 6.65 8.485 6.65 8.075C6.65 7.665 6.99 7.325 7.4 7.325H7.9C8.31 7.325 8.65 7.665 8.65 8.075C8.65 8.485 8.31 8.825 7.9 8.825ZM17.3 12.275C19.58 12.275 21.5 10.355 21.5 8.075C21.5 5.795 19.58 3.875 17.3 3.875H6.7C4.42 3.875 2.5 5.795 2.5 8.075C2.5 10.355 4.42 12.275 6.7 12.275H11.25V15.555C10.55 15.785 10.01 16.325 9.78 17.025H5.8C5.39 17.025 5.05 17.365 5.05 17.775C5.05 18.185 5.39 18.525 5.8 18.525H9.78C10.09 19.465 10.95 20.125 12 20.125C13.05 20.125 13.91 19.465 14.22 18.525H18.2C18.61 18.525 18.95 18.185 18.95 17.775C18.95 17.365 18.61 17.025 18.2 17.025H14.22C13.99 16.325 13.45 15.785 12.75 15.555V12.275H17.3Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server connect 3 icon with style variants.
+class _ServerServerConnect3Icon {
+  const _ServerServerConnect3Icon();
+
+  /// bold style
+  _ServerServerConnect3Bold get bold => const _ServerServerConnect3Bold();
+}
+
+/// server connect 3 — bold style variants.
+class _ServerServerConnect3Bold {
+  const _ServerServerConnect3Bold();
+
+  /// server connect 3 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server connect 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8 17.7248C12.8 18.2048 12.43 18.5748 11.95 18.5748C11.47 18.5748 11.1 18.2048 11.1 17.7248C11.1 17.2448 11.47 16.8748 11.95 16.8748C12.43 16.8748 12.8 17.2448 12.8 17.7248ZM11.15 8.7748H6.54999C6.13999 8.7748 5.79999 8.4348 5.79999 8.0248C5.79999 7.6148 6.13999 7.2748 6.54999 7.2748H11.15C11.56 7.2748 11.9 7.6148 11.9 8.0248C11.9 8.4348 11.56 8.7748 11.15 8.7748ZM18.55 3.9248H5.44999C3.73999 3.9248 2.54999 5.0748 2.54999 6.7248V9.3248C2.54999 10.9748 3.73999 12.1248 5.44999 12.1248H11.2V15.5048C10.5 15.7348 9.95999 16.2748 9.72999 16.9748H5.64999C5.23999 16.9748 4.89999 17.3148 4.89999 17.7248C4.89999 18.1348 5.23999 18.4748 5.64999 18.4748H9.72999C10.04 19.4148 10.9 20.0748 11.95 20.0748C13 20.0748 13.86 19.4148 14.17 18.4748H18.35C18.76 18.4748 19.1 18.1348 19.1 17.7248C19.1 17.3148 18.76 16.9748 18.35 16.9748H14.17C13.94 16.2748 13.4 15.7348 12.7 15.5048V12.1248H18.55C20.31 12.1248 21.45 11.0248 21.45 9.3248V6.7248C21.45 5.0748 20.26 3.9248 18.55 3.9248Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server connect 4 icon with style variants.
+class _ServerServerConnect4Icon {
+  const _ServerServerConnect4Icon();
+
+  /// bulk style
+  _ServerServerConnect4Bulk get bulk => const _ServerServerConnect4Bulk();
+}
+
+/// server connect 4 — bulk style variants.
+class _ServerServerConnect4Bulk {
+  const _ServerServerConnect4Bulk();
+
+  /// server connect 4 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server connect 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.3 12.275C19.58 12.275 21.5 10.355 21.5 8.075C21.5 5.795 19.58 3.875 17.3 3.875H6.7C4.42 3.875 2.5 5.795 2.5 8.075C2.5 10.355 4.42 12.275 6.7 12.275H11.25H12.75H17.3Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1 7.3252C12.69 7.3252 12.35 7.6652 12.35 8.0752C12.35 8.4852 12.69 8.8252 13.1 8.8252H16.7C17.11 8.8252 17.45 8.4852 17.45 8.0752C17.45 7.6652 17.11 7.3252 16.7 7.3252H13.1ZM7.40002 8.8252H7.90002C8.31002 8.8252 8.65002 8.4852 8.65002 8.0752C8.65002 7.6652 8.31002 7.3252 7.90002 7.3252H7.40002C6.99002 7.3252 6.65002 7.6652 6.65002 8.0752C6.65002 8.4852 6.99002 8.8252 7.40002 8.8252Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.25 12.2754V15.5554C10.55 15.7854 10.01 16.3254 9.77999 17.0254H5.79999C5.38999 17.0254 5.04999 17.3654 5.04999 17.7754C5.04999 18.1854 5.38999 18.5254 5.79999 18.5254H9.77999C10.09 19.4654 10.95 20.1254 12 20.1254C13.05 20.1254 13.91 19.4654 14.22 18.5254H18.2C18.61 18.5254 18.95 18.1854 18.95 17.7754C18.95 17.3654 18.61 17.0254 18.2 17.0254H14.22C13.99 16.3254 13.45 15.7854 12.75 15.5554V12.2754H11.25ZM12.01 18.6714C12.502 18.6714 12.902 18.2724 12.902 17.7794C12.902 17.2864 12.502 16.8864 12.01 16.8864C11.517 16.8864 11.117 17.2864 11.117 17.7794C11.117 18.2724 11.517 18.6714 12.01 18.6714Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server connect 5 icon with style variants.
+class _ServerServerConnect5Icon {
+  const _ServerServerConnect5Icon();
+
+  /// bulk style
+  _ServerServerConnect5Bulk get bulk => const _ServerServerConnect5Bulk();
+}
+
+/// server connect 5 — bulk style variants.
+class _ServerServerConnect5Bulk {
+  const _ServerServerConnect5Bulk();
+
+  /// server connect 5 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server connect 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.3 12.275C19.58 12.275 21.5 10.355 21.5 8.075C21.5 5.795 19.58 3.875 17.3 3.875H6.7C4.42 3.875 2.5 5.795 2.5 8.075C2.5 10.355 4.42 12.275 6.7 12.275H11.25H12.75H17.3Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1 7.3252C12.69 7.3252 12.35 7.6652 12.35 8.0752C12.35 8.4852 12.69 8.8252 13.1 8.8252H16.7C17.11 8.8252 17.45 8.4852 17.45 8.0752C17.45 7.6652 17.11 7.3252 16.7 7.3252H13.1ZM7.40002 8.8252H7.90002C8.31002 8.8252 8.65002 8.4852 8.65002 8.0752C8.65002 7.6652 8.31002 7.3252 7.90002 7.3252H7.40002C6.99002 7.3252 6.65002 7.6652 6.65002 8.0752C6.65002 8.4852 6.99002 8.8252 7.40002 8.8252Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.25 12.2754V15.5554C10.55 15.7854 10.01 16.3254 9.77999 17.0254H5.79999C5.38999 17.0254 5.04999 17.3654 5.04999 17.7754C5.04999 18.1854 5.38999 18.5254 5.79999 18.5254H9.77999C10.09 19.4654 10.95 20.1254 12 20.1254C13.05 20.1254 13.91 19.4654 14.22 18.5254H18.2C18.61 18.5254 18.95 18.1854 18.95 17.7754C18.95 17.3654 18.61 17.0254 18.2 17.0254H14.22C13.99 16.3254 13.45 15.7854 12.75 15.5554V12.2754H11.25ZM12.01 18.6714C12.502 18.6714 12.902 18.2724 12.902 17.7794C12.902 17.2864 12.502 16.8864 12.01 16.8864C11.517 16.8864 11.117 17.2864 11.117 17.7794C11.117 18.2724 11.517 18.6714 12.01 18.6714Z" fill="black"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server connect 6 icon with style variants.
+class _ServerServerConnect6Icon {
+  const _ServerServerConnect6Icon();
+
+  /// twoTone style
+  _ServerServerConnect6Twotone get twoTone => const _ServerServerConnect6Twotone();
+}
+
+/// server connect 6 — twoTone style variants.
+class _ServerServerConnect6Twotone {
+  const _ServerServerConnect6Twotone();
+
+  /// server connect 6 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server connect 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.20508 11.8975H17.7949C19.8411 11.8975 21.5 10.2386 21.5 8.19239C21.5 6.14623 19.8411 4.48828 17.7949 4.48828H7.20508C5.15892 4.48828 3.5 6.14623 3.5 8.19239C3.5 10.2386 5.15892 11.8975 7.20508 11.8975Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.87695 8.19336H8.40138M13.6055 8.19336H17.1773" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1073 17.9052C14.1073 18.7926 13.3883 19.5116 12.5009 19.5116C11.6136 19.5116 10.8945 18.7926 10.8945 17.9052C10.8945 17.0179 11.6136 16.2988 12.5009 16.2988C13.3883 16.2988 14.1073 17.0179 14.1073 17.9052Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.7401 17.9043H14.0825M10.9077 17.9043H6.25977" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5 16.2938V12.0166" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server connect 7 icon with style variants.
+class _ServerServerConnect7Icon {
+  const _ServerServerConnect7Icon();
+
+  /// twoTone style
+  _ServerServerConnect7Twotone get twoTone => const _ServerServerConnect7Twotone();
+}
+
+/// server connect 7 — twoTone style variants.
+class _ServerServerConnect7Twotone {
+  const _ServerServerConnect7Twotone();
+
+  /// server connect 7 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server connect 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 9.42439V6.86936C21.5 5.44201 20.4901 4.54785 19.0608 4.54785H5.93924C4.50995 4.54785 3.5 5.43812 3.5 6.86936V9.42439C3.5 10.8556 4.50995 11.7449 5.93924 11.7449H19.0608C20.4901 11.7449 21.5 10.8556 21.5 9.42439Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M11.7469 8.14746H7.19141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1344 17.8162C14.1344 18.7201 13.4018 19.4518 12.4988 19.4518C11.595 19.4518 10.8633 18.7201 10.8633 17.8162C10.8633 16.9133 11.595 16.1807 12.4988 16.1807C13.4018 16.1807 14.1344 16.9133 14.1344 17.8162Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.8521 17.8169H14.1099M10.879 17.8169H6.14648M12.4993 16.1763V11.8223" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server connect 8 icon with style variants.
+class _ServerServerConnect8Icon {
+  const _ServerServerConnect8Icon();
+
+  /// broken style
+  _ServerServerConnect8Broken get broken => const _ServerServerConnect8Broken();
+}
+
+/// server connect 8 — broken style variants.
+class _ServerServerConnect8Broken {
+  const _ServerServerConnect8Broken();
+
+  /// server connect 8 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server connect 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 4.48828H6.70508C4.65892 4.48828 3 6.14623 3 8.19239C3 10.2386 4.65892 11.8975 6.70508 11.8975H17.2949C19.3411 11.8975 21 10.2386 21 8.19239C21 6.14623 19.3411 4.48828 17.2949 4.48828H15.2423" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.37695 8.19336H7.90138M13.1055 8.19336H16.6773" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6073 17.9052C13.6073 18.7926 12.8883 19.5116 12.0009 19.5116C11.1136 19.5116 10.3945 18.7926 10.3945 17.9052C10.3945 17.0179 11.1136 16.2988 12.0009 16.2988C12.8883 16.2988 13.6073 17.0179 13.6073 17.9052Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2401 17.9043H13.5825M10.4077 17.9043H5.75977" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 16.2928V12.0156" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server connect 9 icon with style variants.
+class _ServerServerConnect9Icon {
+  const _ServerServerConnect9Icon();
+
+  /// broken style
+  _ServerServerConnect9Broken get broken => const _ServerServerConnect9Broken();
+}
+
+/// server connect 9 — broken style variants.
+class _ServerServerConnect9Broken {
+  const _ServerServerConnect9Broken();
+
+  /// server connect 9 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server connect 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13 4.54883H5.43924C4.00995 4.54883 3 5.4391 3 6.87034V9.42537C3 10.8566 4.00995 11.7459 5.43924 11.7459H18.5608C19.9901 11.7459 21 10.8566 21 9.42537V6.87034C21 5.44299 19.9901 4.54883 18.5608 4.54883H16.2804" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2469 8.14844H6.69141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6344 17.8153C13.6344 18.7191 12.9018 19.4508 11.9988 19.4508C11.095 19.4508 10.3633 18.7191 10.3633 17.8153C10.3633 16.9123 11.095 16.1797 11.9988 16.1797C12.9018 16.1797 13.6344 16.9123 13.6344 17.8153Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3521 17.8169H13.6099M10.379 17.8169H5.64648M11.9993 16.1763V11.8223" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Server',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server connect 10 icon with style variants.
+class _ServerServerConnect10Icon {
+  const _ServerServerConnect10Icon();
+
+  /// outline style
+  _ServerServerConnect10Outline get outline => const _ServerServerConnect10Outline();
+}
+
+/// server connect 10 — outline style variants.
+class _ServerServerConnect10Outline {
+  const _ServerServerConnect10Outline();
+
+  /// server connect 10 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server connect 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.70508 5.23859C5.07288 5.23859 3.75 6.561 3.75 8.19269C3.75 9.82464 5.07313 11.1478 6.70508 11.1478H17.2949C18.9269 11.1478 20.25 9.82464 20.25 8.19269C20.25 6.561 18.9271 5.23859 17.2949 5.23859H6.70508ZM2.25 8.19269C2.25 5.73206 4.24496 3.73859 6.70508 3.73859H17.2949C19.755 3.73859 21.75 5.73206 21.75 8.19269C21.75 10.6531 19.7553 12.6478 17.2949 12.6478H6.70508C4.24471 12.6478 2.25 10.6531 2.25 8.19269Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.62695 8.19336C6.62695 7.77915 6.96274 7.44336 7.37695 7.44336H7.90138C8.3156 7.44336 8.65138 7.77915 8.65138 8.19336C8.65138 8.60757 8.3156 8.94336 7.90138 8.94336H7.37695C6.96274 8.94336 6.62695 8.60757 6.62695 8.19336ZM12.3555 8.19336C12.3555 7.77915 12.6913 7.44336 13.1055 7.44336H16.6773C17.0915 7.44336 17.4273 7.77915 17.4273 8.19336C17.4273 8.60757 17.0915 8.94336 16.6773 8.94336H13.1055C12.6913 8.94336 12.3555 8.60757 12.3555 8.19336Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0009 17.0488C11.5278 17.0488 11.1445 17.4321 11.1445 17.9052C11.1445 18.3783 11.5278 18.7616 12.0009 18.7616C12.474 18.7616 12.8573 18.3783 12.8573 17.9052C12.8573 17.4321 12.474 17.0488 12.0009 17.0488ZM9.64453 17.9052C9.64453 16.6036 10.6993 15.5488 12.0009 15.5488C13.3025 15.5488 14.3573 16.6036 14.3573 17.9052C14.3573 19.2068 13.3025 20.2616 12.0009 20.2616C10.6993 20.2616 9.64453 19.2068 9.64453 17.9052Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.00977 17.9043C5.00977 17.4901 5.34555 17.1543 5.75977 17.1543H10.4077C10.8219 17.1543 11.1577 17.4901 11.1577 17.9043C11.1577 18.3185 10.8219 18.6543 10.4077 18.6543H5.75977C5.34555 18.6543 5.00977 18.3185 5.00977 17.9043ZM12.8325 17.9043C12.8325 17.4901 13.1683 17.1543 13.5825 17.1543H18.2401C18.6543 17.1543 18.9901 17.4901 18.9901 17.9043C18.9901 18.3185 18.6543 18.6543 18.2401 18.6543H13.5825C13.1683 18.6543 12.8325 18.3185 12.8325 17.9043Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 11.2666C12.4142 11.2666 12.75 11.6024 12.75 12.0166V16.2938C12.75 16.708 12.4142 17.0438 12 17.0438C11.5858 17.0438 11.25 16.708 11.25 16.2938V12.0166C11.25 11.6024 11.5858 11.2666 12 11.2666Z" fill="black"/> </svg> ',
+    category: 'Server',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// server connect 11 icon with style variants.
+class _ServerServerConnect11Icon {
+  const _ServerServerConnect11Icon();
+
+  /// outline style
+  _ServerServerConnect11Outline get outline => const _ServerServerConnect11Outline();
+}
+
+/// server connect 11 — outline style variants.
+class _ServerServerConnect11Outline {
+  const _ServerServerConnect11Outline();
+
+  /// server connect 11 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'server connect 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.17253 4.62313C3.76604 4.07048 4.56976 3.79797 5.43924 3.79797H18.5608C19.4311 3.79797 20.2347 4.07196 20.8278 4.6249C21.4267 5.18329 21.75 5.97016 21.75 6.86949V9.42451C21.75 10.3254 21.427 11.1125 20.8273 11.6705C20.2337 12.2229 19.43 12.4951 18.5608 12.4951H5.43924C4.56997 12.4951 3.76628 12.2229 3.1727 11.6705C2.57301 11.1125 2.25 10.3254 2.25 9.42451V6.86949C2.25 5.96866 2.57298 5.18142 3.17253 4.62313ZM4.19474 5.7209C3.93199 5.96556 3.75 6.33907 3.75 6.86949V9.42451C3.75 9.9549 3.93196 10.3281 4.19457 10.5725C4.46329 10.8225 4.87921 10.9951 5.43924 10.9951H18.5608C19.1208 10.9951 19.5367 10.8225 19.8054 10.5725C20.068 10.3281 20.25 9.9549 20.25 9.42451V6.86949C20.25 6.34146 20.0683 5.96758 19.8049 5.72205C19.5357 5.47107 19.1197 5.29797 18.5608 5.29797H5.43924C4.87943 5.29797 4.46353 5.47061 4.19474 5.7209Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.94141 8.14746C5.94141 7.73325 6.27719 7.39746 6.69141 7.39746H11.2469C11.6611 7.39746 11.9969 7.73325 11.9969 8.14746C11.9969 8.56167 11.6611 8.89746 11.2469 8.89746H6.69141C6.27719 8.89746 5.94141 8.56167 5.94141 8.14746Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9988 16.9307C11.5095 16.9307 11.1133 17.3272 11.1133 17.8162C11.1133 18.3059 11.5092 18.7018 11.9988 18.7018C12.4878 18.7018 12.8844 18.3056 12.8844 17.8162C12.8844 17.3275 12.4876 16.9307 11.9988 16.9307ZM9.61328 17.8162C9.61328 16.4994 10.6805 15.4307 11.9988 15.4307C13.316 15.4307 14.3844 16.4991 14.3844 17.8162C14.3844 19.1346 13.3157 20.2018 11.9988 20.2018C10.6807 20.2018 9.61328 19.1343 9.61328 17.8162Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9993 11.0723C12.4135 11.0723 12.7493 11.4081 12.7493 11.8223V16.1763C12.7493 16.5905 12.4135 16.9263 11.9993 16.9263C11.5851 16.9263 11.2493 16.5905 11.2493 16.1763V11.8223C11.2493 11.4081 11.5851 11.0723 11.9993 11.0723ZM4.89648 17.8169C4.89648 17.4027 5.23227 17.0669 5.64648 17.0669H10.379C10.7932 17.0669 11.129 17.4027 11.129 17.8169C11.129 18.2311 10.7932 18.5669 10.379 18.5669H5.64648C5.23227 18.5669 4.89648 18.2311 4.89648 17.8169ZM12.8599 17.8169C12.8599 17.4027 13.1956 17.0669 13.6098 17.0669H18.3521C18.7663 17.0669 19.1021 17.4027 19.1021 17.8169C19.1021 18.2311 18.7663 18.5669 18.3521 18.5669H13.6098C13.1956 18.5669 12.8599 18.2311 12.8599 17.8169Z" fill="black"/> </svg> ',
+    category: 'Server',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -2120,6 +3639,52 @@ class _ServerDatabaseServerLight {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.4248 5.60352V9.07356C5.4248 9.07356 5.4248 11.6759 12.0002 11.6759C18.5756 11.6759 18.5756 9.07356 18.5756 9.07356V5.60352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.42383 9.07324V12.5429C5.42383 12.5429 5.42383 15.1466 11.9992 15.1466C18.5746 15.1466 18.5746 12.5429 18.5746 12.5429V9.07324" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <ellipse cx="11.9992" cy="5.59745" rx="6.5754" ry="2.59745" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5945 19.4032C13.5945 20.2847 12.8794 20.9998 11.998 20.9998C11.1165 20.9998 10.4014 20.2847 10.4014 19.4032C10.4014 18.5217 11.1165 17.8066 11.998 17.8066C12.8794 17.8066 13.5945 18.5217 13.5945 19.4032Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2011 19.4033H13.5728M10.4183 19.4033H5.7998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.999 17.8016V15.1583" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Server',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server transfer icon with style variants.
+class _ServerServerTransfer2Icon {
+  const _ServerServerTransfer2Icon();
+
+  /// outline style
+  _ServerServerTransfer2Outline get outline => const _ServerServerTransfer2Outline();
+}
+
+/// Server transfer — outline style variants.
+class _ServerServerTransfer2Outline {
+  const _ServerServerTransfer2Outline();
+
+  /// Server transfer — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server transfer',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.89772 3.73663C4.94852 2.75848 6.39898 2.25006 8.02635 2.25006H15.9736C17.6019 2.25006 19.0522 2.76122 20.1026 3.74025C21.1587 4.72473 21.7499 6.12674 21.7499 7.7822V11.352C21.7499 11.7662 21.4141 12.102 20.9999 12.102C20.5857 12.102 20.2499 11.7662 20.2499 11.352V7.7822C20.2499 6.49832 19.8005 5.50926 19.0798 4.83751C18.3533 4.1603 17.2904 3.75006 15.9736 3.75006H8.02635C6.70856 3.75006 5.64584 4.15867 4.91975 4.83456C4.19973 5.5048 3.75 6.49346 3.75 7.7822V16.2159C3.75 17.5052 4.1998 18.4944 4.91987 19.165C5.64598 19.8412 6.70866 20.25 8.02635 20.25H11.1087C11.5229 20.25 11.8587 20.5858 11.8587 21C11.8587 21.4142 11.5229 21.75 11.1087 21.75H8.02635C6.39887 21.75 4.94837 21.2412 3.8976 20.2627C2.84079 19.2785 2.25 17.8756 2.25 16.2159V7.7822C2.25 6.12285 2.84086 4.72043 3.89772 3.73663Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.61328 16.1354C6.61328 15.7212 6.94907 15.3854 7.36328 15.3854H7.88576C8.29998 15.3854 8.63576 15.7212 8.63576 16.1354C8.63576 16.5497 8.29998 16.8854 7.88576 16.8854H7.36328C6.94907 16.8854 6.61328 16.5497 6.61328 16.1354Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.61328 7.86523C6.61328 7.45102 6.94907 7.11523 7.36328 7.11523H7.88576C8.29998 7.11523 8.63576 7.45102 8.63576 7.86523C8.63576 8.27945 8.29998 8.61523 7.88576 8.61523H7.36328C6.94907 8.61523 6.61328 8.27945 6.61328 7.86523ZM11.3517 7.86523C11.3517 7.45102 11.6875 7.11523 12.1017 7.11523H16.6357C17.0499 7.11523 17.3857 7.45102 17.3857 7.86523C17.3857 8.27945 17.0499 8.61523 16.6357 8.61523H12.1017C11.6875 8.61523 11.3517 8.27945 11.3517 7.86523Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.27344 12C2.27344 11.5858 2.60922 11.25 3.02344 11.25H12.2199C12.6341 11.25 12.9699 11.5858 12.9699 12C12.9699 12.4142 12.6341 12.75 12.2199 12.75H3.02344C2.60922 12.75 2.27344 12.4142 2.27344 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7197 14.1758C15.9707 14.3039 16.1287 14.5619 16.1287 14.8438V20.9997C16.1287 21.4139 15.7929 21.7497 15.3787 21.7497C14.9645 21.7497 14.6287 21.4139 14.6287 20.9997V16.3127L13.6254 17.0391C13.2899 17.282 12.821 17.207 12.5781 16.8715C12.3352 16.536 12.4103 16.0671 12.7458 15.8242L14.9388 14.2363C15.1671 14.071 15.4687 14.0476 15.7197 14.1758Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.8066 14.0947C19.2209 14.0947 19.5566 14.4305 19.5566 14.8447V19.5313L20.56 18.8052C20.8956 18.5624 21.3645 18.6376 21.6073 18.9731C21.8501 19.3087 21.775 19.7776 21.4394 20.0204L19.2463 21.6073C19.018 21.7725 18.7164 21.7958 18.4655 21.6677C18.2146 21.5395 18.0566 21.2815 18.0566 20.9997V14.8447C18.0566 14.4305 18.3924 14.0947 18.8066 14.0947Z" fill="black"/> </svg> ',
+    category: 'Server',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Server icon with style variants.
+class _ServerServer8Icon {
+  const _ServerServer8Icon();
+
+  /// outline style
+  _ServerServer8Outline get outline => const _ServerServer8Outline();
+}
+
+/// Server — outline style variants.
+class _ServerServer8Outline {
+  const _ServerServer8Outline();
+
+  /// Server — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Server',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.89189 3.75C5.15667 3.75 3.75 5.15667 3.75 6.89189V17.1081C3.75 18.8433 5.15667 20.25 6.89189 20.25H17.1081C18.8433 20.25 20.25 18.8433 20.25 17.1081V6.89189C20.25 5.15667 18.8433 3.75 17.1081 3.75H6.89189ZM2.25 6.89189C2.25 4.32825 4.32825 2.25 6.89189 2.25H17.1081C19.6718 2.25 21.75 4.32824 21.75 6.89189V17.1081C21.75 19.6718 19.6718 21.75 17.1081 21.75H6.89189C4.32825 21.75 2.25 19.6718 2.25 17.1081V6.89189Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 8.98926C2.25 8.57504 2.58579 8.23926 3 8.23926H20.9893C21.4035 8.23926 21.7393 8.57504 21.7393 8.98926C21.7393 9.40347 21.4035 9.73926 20.9893 9.73926H3C2.58579 9.73926 2.25 9.40347 2.25 8.98926Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.28516 15.0322C2.28516 14.618 2.62094 14.2822 3.03516 14.2822H20.9885C21.4027 14.2822 21.7385 14.618 21.7385 15.0322C21.7385 15.4464 21.4027 15.7822 20.9885 15.7822H3.03516C2.62094 15.7822 2.28516 15.4464 2.28516 15.0322Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.56055 5.98145C6.56055 5.56723 6.89633 5.23145 7.31055 5.23145H7.83303C8.24725 5.23145 8.58303 5.56723 8.58303 5.98145C8.58303 6.39566 8.24725 6.73145 7.83303 6.73145H7.31055C6.89633 6.73145 6.56055 6.39566 6.56055 5.98145ZM12.272 5.98145C12.272 5.56723 12.6077 5.23145 13.022 5.23145H16.583C16.9973 5.23145 17.333 5.56723 17.333 5.98145C17.333 6.39566 16.9973 6.73145 16.583 6.73145H13.022C12.6077 6.73145 12.272 6.39566 12.272 5.98145Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.56055 18.0186C6.56055 17.6043 6.89633 17.2686 7.31055 17.2686H7.83303C8.24725 17.2686 8.58303 17.6043 8.58303 18.0186C8.58303 18.4328 8.24725 18.7686 7.83303 18.7686H7.31055C6.89633 18.7686 6.56055 18.4328 6.56055 18.0186ZM12.272 18.0186C12.272 17.6043 12.6077 17.2686 13.022 17.2686H16.583C16.9973 17.2686 17.333 17.6043 17.333 18.0186C17.333 18.4328 16.9973 18.7686 16.583 18.7686H13.022C12.6077 18.7686 12.272 18.4328 12.272 18.0186Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.56055 12.0859C6.56055 11.6717 6.89633 11.3359 7.31055 11.3359H7.83303C8.24725 11.3359 8.58303 11.6717 8.58303 12.0859C8.58303 12.5002 8.24725 12.8359 7.83303 12.8359H7.31055C6.89633 12.8359 6.56055 12.5002 6.56055 12.0859ZM12.272 12.0859C12.272 11.6717 12.6077 11.3359 13.022 11.3359H16.583C16.9973 11.3359 17.333 11.6717 17.333 12.0859C17.333 12.5002 16.9973 12.8359 16.583 12.8359H13.022C12.6077 12.8359 12.272 12.5002 12.272 12.0859Z" fill="black"/> </svg> ',
+    category: 'Server',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 

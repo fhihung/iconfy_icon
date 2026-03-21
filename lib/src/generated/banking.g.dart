@@ -10,16 +10,236 @@ class _BankingIcons {
 
   /// Bank Card
   _BankingBankCardIcon get bankCard => const _BankingBankCardIcon();
+  /// Bank Card 1
+  _BankingBankCard1Icon get bankCard1 => const _BankingBankCard1Icon();
+  /// Bank Card 2
+  _BankingBankCard2Icon get bankCard2 => const _BankingBankCard2Icon();
+  /// Bank Card 3
+  _BankingBankCard3Icon get bankCard3 => const _BankingBankCard3Icon();
+  /// Bank Card 4
+  _BankingBankCard4Icon get bankCard4 => const _BankingBankCard4Icon();
+  /// Bank Card 5
+  _BankingBankCard5Icon get bankCard5 => const _BankingBankCard5Icon();
+  /// Bank Card 6
+  _BankingBankCard6Icon get bankCard6 => const _BankingBankCard6Icon();
+  /// Bank Card 7
+  _BankingBankCard7Icon get bankCard7 => const _BankingBankCard7Icon();
+  /// Bank Card 8
+  _BankingBankCard8Icon get bankCard8 => const _BankingBankCard8Icon();
+  /// Bank Card 9
+  _BankingBankCard9Icon get bankCard9 => const _BankingBankCard9Icon();
+  /// Bank Card 10
+  _BankingBankCard10Icon get bankCard10 => const _BankingBankCard10Icon();
+  /// Bank Card 11
+  _BankingBankCard11Icon get bankCard11 => const _BankingBankCard11Icon();
+  /// Bank Card 12
+  _BankingBankCard12Icon get bankCard12 => const _BankingBankCard12Icon();
+  /// Bank Card 13
+  _BankingBankCard13Icon get bankCard13 => const _BankingBankCard13Icon();
+  /// Bank Card 14
+  _BankingBankCard14Icon get bankCard14 => const _BankingBankCard14Icon();
+  /// Bank Card 15
+  _BankingBankCard15Icon get bankCard15 => const _BankingBankCard15Icon();
+  /// Bank Card 16
+  _BankingBankCard16Icon get bankCard16 => const _BankingBankCard16Icon();
+  /// Bank Card 17
+  _BankingBankCard17Icon get bankCard17 => const _BankingBankCard17Icon();
+  /// Bank Card 18
+  _BankingBankCard18Icon get bankCard18 => const _BankingBankCard18Icon();
+  /// Bank Card 19
+  _BankingBankCard19Icon get bankCard19 => const _BankingBankCard19Icon();
+  /// Bank Card 20
+  _BankingBankCard20Icon get bankCard20 => const _BankingBankCard20Icon();
+  /// Bank Card 21
+  _BankingBankCard21Icon get bankCard21 => const _BankingBankCard21Icon();
+  /// Bank Card 22
+  _BankingBankCard22Icon get bankCard22 => const _BankingBankCard22Icon();
+  /// Bank Card 23
+  _BankingBankCard23Icon get bankCard23 => const _BankingBankCard23Icon();
+  /// Bank Card 24
+  _BankingBankCard24Icon get bankCard24 => const _BankingBankCard24Icon();
+  /// Bank Card 25
+  _BankingBankCard25Icon get bankCard25 => const _BankingBankCard25Icon();
+  /// Bank Card 26
+  _BankingBankCard26Icon get bankCard26 => const _BankingBankCard26Icon();
+  /// Bank Card 27
+  _BankingBankCard27Icon get bankCard27 => const _BankingBankCard27Icon();
+  /// Bank Card 28
+  _BankingBankCard28Icon get bankCard28 => const _BankingBankCard28Icon();
+  /// Bank Card 29
+  _BankingBankCard29Icon get bankCard29 => const _BankingBankCard29Icon();
+  /// Bank Card 30
+  _BankingBankCard30Icon get bankCard30 => const _BankingBankCard30Icon();
+  /// Bank Card 31
+  _BankingBankCard31Icon get bankCard31 => const _BankingBankCard31Icon();
+  /// Bank Card 32
+  _BankingBankCard32Icon get bankCard32 => const _BankingBankCard32Icon();
+  /// Bank Card 33
+  _BankingBankCard33Icon get bankCard33 => const _BankingBankCard33Icon();
+  /// Bank Card 34
+  _BankingBankCard34Icon get bankCard34 => const _BankingBankCard34Icon();
+  /// Bank Card 35
+  _BankingBankCard35Icon get bankCard35 => const _BankingBankCard35Icon();
   /// Wallet
   _BankingWalletIcon get wallet => const _BankingWalletIcon();
+  /// Wallet 1
+  _BankingWallet1Icon get wallet1 => const _BankingWallet1Icon();
+  /// Wallet 2
+  _BankingWallet2Icon get wallet2 => const _BankingWallet2Icon();
+  /// Wallet 3
+  _BankingWallet3Icon get wallet3 => const _BankingWallet3Icon();
+  /// Wallet 4
+  _BankingWallet4Icon get wallet4 => const _BankingWallet4Icon();
+  /// Wallet 5
+  _BankingWallet5Icon get wallet5 => const _BankingWallet5Icon();
+  /// Wallet 6
+  _BankingWallet6Icon get wallet6 => const _BankingWallet6Icon();
+  /// Wallet 7
+  _BankingWallet7Icon get wallet7 => const _BankingWallet7Icon();
+  /// Wallet 8
+  _BankingWallet8Icon get wallet8 => const _BankingWallet8Icon();
+  /// Wallet 9
+  _BankingWallet9Icon get wallet9 => const _BankingWallet9Icon();
+  /// Wallet 10
+  _BankingWallet10Icon get wallet10 => const _BankingWallet10Icon();
+  /// Wallet 11
+  _BankingWallet11Icon get wallet11 => const _BankingWallet11Icon();
+  /// Wallet 12
+  _BankingWallet12Icon get wallet12 => const _BankingWallet12Icon();
+  /// Wallet 13
+  _BankingWallet13Icon get wallet13 => const _BankingWallet13Icon();
+  /// Wallet 14
+  _BankingWallet14Icon get wallet14 => const _BankingWallet14Icon();
+  /// Wallet 15
+  _BankingWallet15Icon get wallet15 => const _BankingWallet15Icon();
+  /// Wallet 16
+  _BankingWallet16Icon get wallet16 => const _BankingWallet16Icon();
+  /// Wallet 17
+  _BankingWallet17Icon get wallet17 => const _BankingWallet17Icon();
+  /// Wallet 18
+  _BankingWallet18Icon get wallet18 => const _BankingWallet18Icon();
+  /// Wallet 19
+  _BankingWallet19Icon get wallet19 => const _BankingWallet19Icon();
+  /// Wallet 20
+  _BankingWallet20Icon get wallet20 => const _BankingWallet20Icon();
+  /// Wallet 21
+  _BankingWallet21Icon get wallet21 => const _BankingWallet21Icon();
+  /// Wallet 22
+  _BankingWallet22Icon get wallet22 => const _BankingWallet22Icon();
+  /// Wallet 23
+  _BankingWallet23Icon get wallet23 => const _BankingWallet23Icon();
+  /// Wallet 24
+  _BankingWallet24Icon get wallet24 => const _BankingWallet24Icon();
+  /// Wallet 25
+  _BankingWallet25Icon get wallet25 => const _BankingWallet25Icon();
+  /// Wallet 26
+  _BankingWallet26Icon get wallet26 => const _BankingWallet26Icon();
+  /// Wallet 27
+  _BankingWallet27Icon get wallet27 => const _BankingWallet27Icon();
+  /// Wallet 28
+  _BankingWallet28Icon get wallet28 => const _BankingWallet28Icon();
+  /// Wallet 29
+  _BankingWallet29Icon get wallet29 => const _BankingWallet29Icon();
+  /// Wallet 30
+  _BankingWallet30Icon get wallet30 => const _BankingWallet30Icon();
+  /// Wallet 31
+  _BankingWallet31Icon get wallet31 => const _BankingWallet31Icon();
+  /// Wallet 32
+  _BankingWallet32Icon get wallet32 => const _BankingWallet32Icon();
+  /// Wallet 33
+  _BankingWallet33Icon get wallet33 => const _BankingWallet33Icon();
+  /// Wallet 34
+  _BankingWallet34Icon get wallet34 => const _BankingWallet34Icon();
+  /// Wallet 35
+  _BankingWallet35Icon get wallet35 => const _BankingWallet35Icon();
   /// Bank Card recieve
   _BankingBankCardRecieveIcon get bankCardRecieve => const _BankingBankCardRecieveIcon();
+  /// Bank Card recieve 1
+  _BankingBankCardRecieve1Icon get bankCardRecieve1 => const _BankingBankCardRecieve1Icon();
+  /// Bank Card recieve 2
+  _BankingBankCardRecieve2Icon get bankCardRecieve2 => const _BankingBankCardRecieve2Icon();
+  /// Bank Card recieve 3
+  _BankingBankCardRecieve3Icon get bankCardRecieve3 => const _BankingBankCardRecieve3Icon();
+  /// Bank Card recieve 4
+  _BankingBankCardRecieve4Icon get bankCardRecieve4 => const _BankingBankCardRecieve4Icon();
+  /// Bank Card recieve 5
+  _BankingBankCardRecieve5Icon get bankCardRecieve5 => const _BankingBankCardRecieve5Icon();
+  /// Bank Card recieve 6
+  _BankingBankCardRecieve6Icon get bankCardRecieve6 => const _BankingBankCardRecieve6Icon();
+  /// Bank Card recieve 7
+  _BankingBankCardRecieve7Icon get bankCardRecieve7 => const _BankingBankCardRecieve7Icon();
+  /// Bank Card recieve 8
+  _BankingBankCardRecieve8Icon get bankCardRecieve8 => const _BankingBankCardRecieve8Icon();
+  /// Bank Card recieve 9
+  _BankingBankCardRecieve9Icon get bankCardRecieve9 => const _BankingBankCardRecieve9Icon();
+  /// Bank Card recieve 10
+  _BankingBankCardRecieve10Icon get bankCardRecieve10 => const _BankingBankCardRecieve10Icon();
+  /// Bank Card recieve 11
+  _BankingBankCardRecieve11Icon get bankCardRecieve11 => const _BankingBankCardRecieve11Icon();
+  /// Bank Card recieve 12
+  _BankingBankCardRecieve12Icon get bankCardRecieve12 => const _BankingBankCardRecieve12Icon();
+  /// Bank Card recieve 13
+  _BankingBankCardRecieve13Icon get bankCardRecieve13 => const _BankingBankCardRecieve13Icon();
+  /// Bank Card recieve 14
+  _BankingBankCardRecieve14Icon get bankCardRecieve14 => const _BankingBankCardRecieve14Icon();
+  /// Bank Card recieve 15
+  _BankingBankCardRecieve15Icon get bankCardRecieve15 => const _BankingBankCardRecieve15Icon();
+  /// Bank Card recieve 16
+  _BankingBankCardRecieve16Icon get bankCardRecieve16 => const _BankingBankCardRecieve16Icon();
+  /// Bank Card recieve 17
+  _BankingBankCardRecieve17Icon get bankCardRecieve17 => const _BankingBankCardRecieve17Icon();
+  /// Bank Card recieve 18
+  _BankingBankCardRecieve18Icon get bankCardRecieve18 => const _BankingBankCardRecieve18Icon();
+  /// Bank Card recieve 19
+  _BankingBankCardRecieve19Icon get bankCardRecieve19 => const _BankingBankCardRecieve19Icon();
+  /// Bank Card recieve 20
+  _BankingBankCardRecieve20Icon get bankCardRecieve20 => const _BankingBankCardRecieve20Icon();
+  /// Bank Card recieve 21
+  _BankingBankCardRecieve21Icon get bankCardRecieve21 => const _BankingBankCardRecieve21Icon();
+  /// Bank Card recieve 22
+  _BankingBankCardRecieve22Icon get bankCardRecieve22 => const _BankingBankCardRecieve22Icon();
+  /// Bank Card recieve 23
+  _BankingBankCardRecieve23Icon get bankCardRecieve23 => const _BankingBankCardRecieve23Icon();
+  /// Bank Card recieve 24
+  _BankingBankCardRecieve24Icon get bankCardRecieve24 => const _BankingBankCardRecieve24Icon();
+  /// Bank Card recieve 25
+  _BankingBankCardRecieve25Icon get bankCardRecieve25 => const _BankingBankCardRecieve25Icon();
+  /// Bank Card recieve 26
+  _BankingBankCardRecieve26Icon get bankCardRecieve26 => const _BankingBankCardRecieve26Icon();
+  /// Bank Card recieve 27
+  _BankingBankCardRecieve27Icon get bankCardRecieve27 => const _BankingBankCardRecieve27Icon();
+  /// Bank Card recieve 28
+  _BankingBankCardRecieve28Icon get bankCardRecieve28 => const _BankingBankCardRecieve28Icon();
+  /// Bank Card recieve 29
+  _BankingBankCardRecieve29Icon get bankCardRecieve29 => const _BankingBankCardRecieve29Icon();
   /// Wallet add funds
   _BankingWalletAddFundsIcon get walletAddFunds => const _BankingWalletAddFundsIcon();
   /// Bank Carrd add
   _BankingBankCarrdAddIcon get bankCarrdAdd => const _BankingBankCarrdAddIcon();
   /// Bank Card double
   _BankingBankCardDoubleIcon get bankCardDouble => const _BankingBankCardDoubleIcon();
+  /// Bank Card double 1
+  _BankingBankCardDouble1Icon get bankCardDouble1 => const _BankingBankCardDouble1Icon();
+  /// Bank Card double 2
+  _BankingBankCardDouble2Icon get bankCardDouble2 => const _BankingBankCardDouble2Icon();
+  /// Bank Card double 3
+  _BankingBankCardDouble3Icon get bankCardDouble3 => const _BankingBankCardDouble3Icon();
+  /// Bank Card double 4
+  _BankingBankCardDouble4Icon get bankCardDouble4 => const _BankingBankCardDouble4Icon();
+  /// Bank Card double 5
+  _BankingBankCardDouble5Icon get bankCardDouble5 => const _BankingBankCardDouble5Icon();
+  /// Bank Card double 6
+  _BankingBankCardDouble6Icon get bankCardDouble6 => const _BankingBankCardDouble6Icon();
+  /// Bank Card double 7
+  _BankingBankCardDouble7Icon get bankCardDouble7 => const _BankingBankCardDouble7Icon();
+  /// Bank Card double 8
+  _BankingBankCardDouble8Icon get bankCardDouble8 => const _BankingBankCardDouble8Icon();
+  /// Bank Card double 9
+  _BankingBankCardDouble9Icon get bankCardDouble9 => const _BankingBankCardDouble9Icon();
+  /// Bank Card double 10
+  _BankingBankCardDouble10Icon get bankCardDouble10 => const _BankingBankCardDouble10Icon();
+  /// Bank Card double 11
+  _BankingBankCardDouble11Icon get bankCardDouble11 => const _BankingBankCardDouble11Icon();
   /// Wallet Search
   _BankingWalletSearchIcon get walletSearch => const _BankingWalletSearchIcon();
   /// Mobile card bank
@@ -28,6 +248,28 @@ class _BankingIcons {
   _BankingWalletLoveIcon get walletLove => const _BankingWalletLoveIcon();
   /// Master Card
   _BankingMasterCardIcon get masterCard => const _BankingMasterCardIcon();
+  /// Master Card 1
+  _BankingMasterCard1Icon get masterCard1 => const _BankingMasterCard1Icon();
+  /// Master Card 2
+  _BankingMasterCard2Icon get masterCard2 => const _BankingMasterCard2Icon();
+  /// Master Card 3
+  _BankingMasterCard3Icon get masterCard3 => const _BankingMasterCard3Icon();
+  /// Master Card 4
+  _BankingMasterCard4Icon get masterCard4 => const _BankingMasterCard4Icon();
+  /// Master Card 5
+  _BankingMasterCard5Icon get masterCard5 => const _BankingMasterCard5Icon();
+  /// Master Card 6
+  _BankingMasterCard6Icon get masterCard6 => const _BankingMasterCard6Icon();
+  /// Master Card 7
+  _BankingMasterCard7Icon get masterCard7 => const _BankingMasterCard7Icon();
+  /// Master Card 8
+  _BankingMasterCard8Icon get masterCard8 => const _BankingMasterCard8Icon();
+  /// Master Card 9
+  _BankingMasterCard9Icon get masterCard9 => const _BankingMasterCard9Icon();
+  /// Master Card 10
+  _BankingMasterCard10Icon get masterCard10 => const _BankingMasterCard10Icon();
+  /// Master Card 11
+  _BankingMasterCard11Icon get masterCard11 => const _BankingMasterCard11Icon();
   /// Wallet edit
   _BankingWalletEditIcon get walletEdit => const _BankingWalletEditIcon();
   /// Bank Carrd search
@@ -48,24 +290,180 @@ class _BankingIcons {
   _BankingWalletCheckIcon get walletCheck => const _BankingWalletCheckIcon();
   /// Bank Card swap
   _BankingBankCardSwapIcon get bankCardSwap => const _BankingBankCardSwapIcon();
+  /// Bank Card swap 1
+  _BankingBankCardSwap1Icon get bankCardSwap1 => const _BankingBankCardSwap1Icon();
+  /// Bank Card swap 2
+  _BankingBankCardSwap2Icon get bankCardSwap2 => const _BankingBankCardSwap2Icon();
+  /// Bank Card swap 3
+  _BankingBankCardSwap3Icon get bankCardSwap3 => const _BankingBankCardSwap3Icon();
+  /// Bank Card swap 4
+  _BankingBankCardSwap4Icon get bankCardSwap4 => const _BankingBankCardSwap4Icon();
+  /// Bank Card swap 5
+  _BankingBankCardSwap5Icon get bankCardSwap5 => const _BankingBankCardSwap5Icon();
+  /// Bank Card swap 6
+  _BankingBankCardSwap6Icon get bankCardSwap6 => const _BankingBankCardSwap6Icon();
+  /// Bank Card swap 7
+  _BankingBankCardSwap7Icon get bankCardSwap7 => const _BankingBankCardSwap7Icon();
+  /// Bank Card swap 8
+  _BankingBankCardSwap8Icon get bankCardSwap8 => const _BankingBankCardSwap8Icon();
+  /// Bank Card swap 9
+  _BankingBankCardSwap9Icon get bankCardSwap9 => const _BankingBankCardSwap9Icon();
+  /// Bank Card swap 10
+  _BankingBankCardSwap10Icon get bankCardSwap10 => const _BankingBankCardSwap10Icon();
+  /// Bank Card swap 11
+  _BankingBankCardSwap11Icon get bankCardSwap11 => const _BankingBankCardSwap11Icon();
   /// Wallet income
   _BankingWalletIncomeIcon get walletIncome => const _BankingWalletIncomeIcon();
+  /// Wallet income 1
+  _BankingWalletIncome1Icon get walletIncome1 => const _BankingWalletIncome1Icon();
+  /// Wallet income 2
+  _BankingWalletIncome2Icon get walletIncome2 => const _BankingWalletIncome2Icon();
+  /// Wallet income 3
+  _BankingWalletIncome3Icon get walletIncome3 => const _BankingWalletIncome3Icon();
+  /// Wallet income 4
+  _BankingWalletIncome4Icon get walletIncome4 => const _BankingWalletIncome4Icon();
+  /// Wallet income 5
+  _BankingWalletIncome5Icon get walletIncome5 => const _BankingWalletIncome5Icon();
+  /// Wallet income 6
+  _BankingWalletIncome6Icon get walletIncome6 => const _BankingWalletIncome6Icon();
+  /// Wallet income 7
+  _BankingWalletIncome7Icon get walletIncome7 => const _BankingWalletIncome7Icon();
+  /// Wallet income 8
+  _BankingWalletIncome8Icon get walletIncome8 => const _BankingWalletIncome8Icon();
+  /// Wallet income 9
+  _BankingWalletIncome9Icon get walletIncome9 => const _BankingWalletIncome9Icon();
+  /// Wallet income 10
+  _BankingWalletIncome10Icon get walletIncome10 => const _BankingWalletIncome10Icon();
+  /// Wallet income 11
+  _BankingWalletIncome11Icon get walletIncome11 => const _BankingWalletIncome11Icon();
+  /// Wallet income 12
+  _BankingWalletIncome12Icon get walletIncome12 => const _BankingWalletIncome12Icon();
+  /// Wallet income 13
+  _BankingWalletIncome13Icon get walletIncome13 => const _BankingWalletIncome13Icon();
+  /// Wallet income 14
+  _BankingWalletIncome14Icon get walletIncome14 => const _BankingWalletIncome14Icon();
+  /// Wallet income 15
+  _BankingWalletIncome15Icon get walletIncome15 => const _BankingWalletIncome15Icon();
+  /// Wallet income 16
+  _BankingWalletIncome16Icon get walletIncome16 => const _BankingWalletIncome16Icon();
+  /// Wallet income 17
+  _BankingWalletIncome17Icon get walletIncome17 => const _BankingWalletIncome17Icon();
   /// Wallet favorite
   _BankingWalletFavoriteIcon get walletFavorite => const _BankingWalletFavoriteIcon();
   /// Wallet menu
   _BankingWalletMenuIcon get walletMenu => const _BankingWalletMenuIcon();
   /// Safe box
   _BankingSafeBoxIcon get safeBox => const _BankingSafeBoxIcon();
+  /// Safe box 1
+  _BankingSafeBox1Icon get safeBox1 => const _BankingSafeBox1Icon();
+  /// Safe box 2
+  _BankingSafeBox2Icon get safeBox2 => const _BankingSafeBox2Icon();
+  /// Safe box 3
+  _BankingSafeBox3Icon get safeBox3 => const _BankingSafeBox3Icon();
+  /// Safe box 4
+  _BankingSafeBox4Icon get safeBox4 => const _BankingSafeBox4Icon();
+  /// Safe box 5
+  _BankingSafeBox5Icon get safeBox5 => const _BankingSafeBox5Icon();
+  /// Safe box 6
+  _BankingSafeBox6Icon get safeBox6 => const _BankingSafeBox6Icon();
+  /// Safe box 7
+  _BankingSafeBox7Icon get safeBox7 => const _BankingSafeBox7Icon();
+  /// Safe box 8
+  _BankingSafeBox8Icon get safeBox8 => const _BankingSafeBox8Icon();
+  /// Safe box 9
+  _BankingSafeBox9Icon get safeBox9 => const _BankingSafeBox9Icon();
+  /// Safe box 10
+  _BankingSafeBox10Icon get safeBox10 => const _BankingSafeBox10Icon();
+  /// Safe box 11
+  _BankingSafeBox11Icon get safeBox11 => const _BankingSafeBox11Icon();
   /// Scan Bank card
   _BankingScanBankCardIcon get scanBankCard => const _BankingScanBankCardIcon();
   /// Card wallet
   _BankingCardWalletIcon get cardWallet => const _BankingCardWalletIcon();
+  /// Card wallet 1
+  _BankingCardWallet1Icon get cardWallet1 => const _BankingCardWallet1Icon();
+  /// Card wallet 2
+  _BankingCardWallet2Icon get cardWallet2 => const _BankingCardWallet2Icon();
+  /// Card wallet 3
+  _BankingCardWallet3Icon get cardWallet3 => const _BankingCardWallet3Icon();
+  /// Card wallet 4
+  _BankingCardWallet4Icon get cardWallet4 => const _BankingCardWallet4Icon();
+  /// Card wallet 5
+  _BankingCardWallet5Icon get cardWallet5 => const _BankingCardWallet5Icon();
+  /// Card wallet 6
+  _BankingCardWallet6Icon get cardWallet6 => const _BankingCardWallet6Icon();
+  /// Card wallet 7
+  _BankingCardWallet7Icon get cardWallet7 => const _BankingCardWallet7Icon();
+  /// Card wallet 8
+  _BankingCardWallet8Icon get cardWallet8 => const _BankingCardWallet8Icon();
+  /// Card wallet 9
+  _BankingCardWallet9Icon get cardWallet9 => const _BankingCardWallet9Icon();
+  /// Card wallet 10
+  _BankingCardWallet10Icon get cardWallet10 => const _BankingCardWallet10Icon();
+  /// Card wallet 11
+  _BankingCardWallet11Icon get cardWallet11 => const _BankingCardWallet11Icon();
+  /// Card wallet 12
+  _BankingCardWallet12Icon get cardWallet12 => const _BankingCardWallet12Icon();
+  /// Card wallet 13
+  _BankingCardWallet13Icon get cardWallet13 => const _BankingCardWallet13Icon();
+  /// Card wallet 14
+  _BankingCardWallet14Icon get cardWallet14 => const _BankingCardWallet14Icon();
+  /// Card wallet 15
+  _BankingCardWallet15Icon get cardWallet15 => const _BankingCardWallet15Icon();
+  /// Card wallet 16
+  _BankingCardWallet16Icon get cardWallet16 => const _BankingCardWallet16Icon();
+  /// Card wallet 17
+  _BankingCardWallet17Icon get cardWallet17 => const _BankingCardWallet17Icon();
   /// Wallet reload
   _BankingWalletReloadIcon get walletReload => const _BankingWalletReloadIcon();
+  /// Wallet reload 1
+  _BankingWalletReload1Icon get walletReload1 => const _BankingWalletReload1Icon();
+  /// Wallet reload 2
+  _BankingWalletReload2Icon get walletReload2 => const _BankingWalletReload2Icon();
+  /// Wallet reload 3
+  _BankingWalletReload3Icon get walletReload3 => const _BankingWalletReload3Icon();
+  /// Wallet reload 4
+  _BankingWalletReload4Icon get walletReload4 => const _BankingWalletReload4Icon();
+  /// Wallet reload 5
+  _BankingWalletReload5Icon get walletReload5 => const _BankingWalletReload5Icon();
+  /// Wallet reload 6
+  _BankingWalletReload6Icon get walletReload6 => const _BankingWalletReload6Icon();
+  /// Wallet reload 7
+  _BankingWalletReload7Icon get walletReload7 => const _BankingWalletReload7Icon();
+  /// Wallet reload 8
+  _BankingWalletReload8Icon get walletReload8 => const _BankingWalletReload8Icon();
+  /// Wallet reload 9
+  _BankingWalletReload9Icon get walletReload9 => const _BankingWalletReload9Icon();
+  /// Wallet reload 10
+  _BankingWalletReload10Icon get walletReload10 => const _BankingWalletReload10Icon();
+  /// Wallet reload 11
+  _BankingWalletReload11Icon get walletReload11 => const _BankingWalletReload11Icon();
   /// Bank Card information
   _BankingBankCardInformationIcon get bankCardInformation => const _BankingBankCardInformationIcon();
   /// Wallet doublle
   _BankingWalletDoublleIcon get walletDoublle => const _BankingWalletDoublleIcon();
+  /// Wallet doublle 1
+  _BankingWalletDoublle1Icon get walletDoublle1 => const _BankingWalletDoublle1Icon();
+  /// Wallet doublle 2
+  _BankingWalletDoublle2Icon get walletDoublle2 => const _BankingWalletDoublle2Icon();
+  /// Wallet doublle 3
+  _BankingWalletDoublle3Icon get walletDoublle3 => const _BankingWalletDoublle3Icon();
+  /// Wallet doublle 4
+  _BankingWalletDoublle4Icon get walletDoublle4 => const _BankingWalletDoublle4Icon();
+  /// Wallet doublle 5
+  _BankingWalletDoublle5Icon get walletDoublle5 => const _BankingWalletDoublle5Icon();
+  /// Wallet doublle 6
+  _BankingWalletDoublle6Icon get walletDoublle6 => const _BankingWalletDoublle6Icon();
+  /// Wallet doublle 7
+  _BankingWalletDoublle7Icon get walletDoublle7 => const _BankingWalletDoublle7Icon();
+  /// Wallet doublle 8
+  _BankingWalletDoublle8Icon get walletDoublle8 => const _BankingWalletDoublle8Icon();
+  /// Wallet doublle 9
+  _BankingWalletDoublle9Icon get walletDoublle9 => const _BankingWalletDoublle9Icon();
+  /// Wallet doublle 10
+  _BankingWalletDoublle10Icon get walletDoublle10 => const _BankingWalletDoublle10Icon();
+  /// Wallet doublle 11
+  _BankingWalletDoublle11Icon get walletDoublle11 => const _BankingWalletDoublle11Icon();
   /// Bank Carrd time
   _BankingBankCarrdTimeIcon get bankCarrdTime => const _BankingBankCarrdTimeIcon();
   /// Bank Carrd check
@@ -76,10 +474,90 @@ class _BankingIcons {
   _BankingWalletCloseIcon get walletClose => const _BankingWalletCloseIcon();
   /// Bank Carrd refresh
   _BankingBankCarrdRefreshIcon get bankCarrdRefresh => const _BankingBankCarrdRefreshIcon();
+  /// Bank Carrd refresh 1
+  _BankingBankCarrdRefresh1Icon get bankCarrdRefresh1 => const _BankingBankCarrdRefresh1Icon();
+  /// Bank Carrd refresh 2
+  _BankingBankCarrdRefresh2Icon get bankCarrdRefresh2 => const _BankingBankCarrdRefresh2Icon();
+  /// Bank Carrd refresh 3
+  _BankingBankCarrdRefresh3Icon get bankCarrdRefresh3 => const _BankingBankCarrdRefresh3Icon();
+  /// Bank Carrd refresh 4
+  _BankingBankCarrdRefresh4Icon get bankCarrdRefresh4 => const _BankingBankCarrdRefresh4Icon();
+  /// Bank Carrd refresh 5
+  _BankingBankCarrdRefresh5Icon get bankCarrdRefresh5 => const _BankingBankCarrdRefresh5Icon();
+  /// Bank Carrd refresh 6
+  _BankingBankCarrdRefresh6Icon get bankCarrdRefresh6 => const _BankingBankCarrdRefresh6Icon();
+  /// Bank Carrd refresh 7
+  _BankingBankCarrdRefresh7Icon get bankCarrdRefresh7 => const _BankingBankCarrdRefresh7Icon();
+  /// Bank Carrd refresh 8
+  _BankingBankCarrdRefresh8Icon get bankCarrdRefresh8 => const _BankingBankCarrdRefresh8Icon();
+  /// Bank Carrd refresh 9
+  _BankingBankCarrdRefresh9Icon get bankCarrdRefresh9 => const _BankingBankCarrdRefresh9Icon();
+  /// Bank Carrd refresh 10
+  _BankingBankCarrdRefresh10Icon get bankCarrdRefresh10 => const _BankingBankCarrdRefresh10Icon();
+  /// Bank Carrd refresh 11
+  _BankingBankCarrdRefresh11Icon get bankCarrdRefresh11 => const _BankingBankCarrdRefresh11Icon();
   /// Wallet lock
   _BankingWalletLockIcon get walletLock => const _BankingWalletLockIcon();
   /// Bank Card send
   _BankingBankCardSendIcon get bankCardSend => const _BankingBankCardSendIcon();
+  /// Bank Card send 1
+  _BankingBankCardSend1Icon get bankCardSend1 => const _BankingBankCardSend1Icon();
+  /// Bank Card send 2
+  _BankingBankCardSend2Icon get bankCardSend2 => const _BankingBankCardSend2Icon();
+  /// Bank Card send 3
+  _BankingBankCardSend3Icon get bankCardSend3 => const _BankingBankCardSend3Icon();
+  /// Bank Card send 4
+  _BankingBankCardSend4Icon get bankCardSend4 => const _BankingBankCardSend4Icon();
+  /// Bank Card send 5
+  _BankingBankCardSend5Icon get bankCardSend5 => const _BankingBankCardSend5Icon();
+  /// Bank Card send 6
+  _BankingBankCardSend6Icon get bankCardSend6 => const _BankingBankCardSend6Icon();
+  /// Bank Card send 7
+  _BankingBankCardSend7Icon get bankCardSend7 => const _BankingBankCardSend7Icon();
+  /// Bank Card send 8
+  _BankingBankCardSend8Icon get bankCardSend8 => const _BankingBankCardSend8Icon();
+  /// Bank Card send 9
+  _BankingBankCardSend9Icon get bankCardSend9 => const _BankingBankCardSend9Icon();
+  /// Bank Card send 10
+  _BankingBankCardSend10Icon get bankCardSend10 => const _BankingBankCardSend10Icon();
+  /// Bank Card send 11
+  _BankingBankCardSend11Icon get bankCardSend11 => const _BankingBankCardSend11Icon();
+  /// Bank Card send 12
+  _BankingBankCardSend12Icon get bankCardSend12 => const _BankingBankCardSend12Icon();
+  /// Bank Card send 13
+  _BankingBankCardSend13Icon get bankCardSend13 => const _BankingBankCardSend13Icon();
+  /// Bank Card send 14
+  _BankingBankCardSend14Icon get bankCardSend14 => const _BankingBankCardSend14Icon();
+  /// Bank Card send 15
+  _BankingBankCardSend15Icon get bankCardSend15 => const _BankingBankCardSend15Icon();
+  /// Bank Card send 16
+  _BankingBankCardSend16Icon get bankCardSend16 => const _BankingBankCardSend16Icon();
+  /// Bank Card send 17
+  _BankingBankCardSend17Icon get bankCardSend17 => const _BankingBankCardSend17Icon();
+  /// Bank Card send 18
+  _BankingBankCardSend18Icon get bankCardSend18 => const _BankingBankCardSend18Icon();
+  /// Bank Card send 19
+  _BankingBankCardSend19Icon get bankCardSend19 => const _BankingBankCardSend19Icon();
+  /// Bank Card send 20
+  _BankingBankCardSend20Icon get bankCardSend20 => const _BankingBankCardSend20Icon();
+  /// Bank Card send 21
+  _BankingBankCardSend21Icon get bankCardSend21 => const _BankingBankCardSend21Icon();
+  /// Bank Card send 22
+  _BankingBankCardSend22Icon get bankCardSend22 => const _BankingBankCardSend22Icon();
+  /// Bank Card send 23
+  _BankingBankCardSend23Icon get bankCardSend23 => const _BankingBankCardSend23Icon();
+  /// Bank Card send 24
+  _BankingBankCardSend24Icon get bankCardSend24 => const _BankingBankCardSend24Icon();
+  /// Bank Card send 25
+  _BankingBankCardSend25Icon get bankCardSend25 => const _BankingBankCardSend25Icon();
+  /// Bank Card send 26
+  _BankingBankCardSend26Icon get bankCardSend26 => const _BankingBankCardSend26Icon();
+  /// Bank Card send 27
+  _BankingBankCardSend27Icon get bankCardSend27 => const _BankingBankCardSend27Icon();
+  /// Bank Card send 28
+  _BankingBankCardSend28Icon get bankCardSend28 => const _BankingBankCardSend28Icon();
+  /// Bank Card send 29
+  _BankingBankCardSend29Icon get bankCardSend29 => const _BankingBankCardSend29Icon();
   /// Bank Card remove
   _BankingBankCardRemoveIcon get bankCardRemove => const _BankingBankCardRemoveIcon();
   /// Bank Carrd gem
@@ -88,6 +566,40 @@ class _BankingIcons {
   _BankingWalletTransferIcon get walletTransfer => const _BankingWalletTransferIcon();
   /// Wallet out
   _BankingWalletOutIcon get walletOut => const _BankingWalletOutIcon();
+  /// Wallet out 1
+  _BankingWalletOut1Icon get walletOut1 => const _BankingWalletOut1Icon();
+  /// Wallet out 2
+  _BankingWalletOut2Icon get walletOut2 => const _BankingWalletOut2Icon();
+  /// Wallet out 3
+  _BankingWalletOut3Icon get walletOut3 => const _BankingWalletOut3Icon();
+  /// Wallet out 4
+  _BankingWalletOut4Icon get walletOut4 => const _BankingWalletOut4Icon();
+  /// Wallet out 5
+  _BankingWalletOut5Icon get walletOut5 => const _BankingWalletOut5Icon();
+  /// Wallet out 6
+  _BankingWalletOut6Icon get walletOut6 => const _BankingWalletOut6Icon();
+  /// Wallet out 7
+  _BankingWalletOut7Icon get walletOut7 => const _BankingWalletOut7Icon();
+  /// Wallet out 8
+  _BankingWalletOut8Icon get walletOut8 => const _BankingWalletOut8Icon();
+  /// Wallet out 9
+  _BankingWalletOut9Icon get walletOut9 => const _BankingWalletOut9Icon();
+  /// Wallet out 10
+  _BankingWalletOut10Icon get walletOut10 => const _BankingWalletOut10Icon();
+  /// Wallet out 11
+  _BankingWalletOut11Icon get walletOut11 => const _BankingWalletOut11Icon();
+  /// Wallet out 12
+  _BankingWalletOut12Icon get walletOut12 => const _BankingWalletOut12Icon();
+  /// Wallet out 13
+  _BankingWalletOut13Icon get walletOut13 => const _BankingWalletOut13Icon();
+  /// Wallet out 14
+  _BankingWalletOut14Icon get walletOut14 => const _BankingWalletOut14Icon();
+  /// Wallet out 15
+  _BankingWalletOut15Icon get walletOut15 => const _BankingWalletOut15Icon();
+  /// Wallet out 16
+  _BankingWalletOut16Icon get walletOut16 => const _BankingWalletOut16Icon();
+  /// Wallet out 17
+  _BankingWalletOut17Icon get walletOut17 => const _BankingWalletOut17Icon();
   /// Bank Carrd remove
   _BankingBankCarrdRemoveIcon get bankCarrdRemove => const _BankingBankCarrdRemoveIcon();
   /// Wallet clock
@@ -98,93 +610,8 @@ class _BankingIcons {
 class _BankingBankCardIcon {
   const _BankingBankCardIcon();
 
-  /// bold style
-  _BankingBankCardBold get bold => const _BankingBankCardBold();
-  /// bulk style
-  _BankingBankCardBulk get bulk => const _BankingBankCardBulk();
   /// light style
   _BankingBankCardLight get light => const _BankingBankCardLight();
-  /// outline style
-  _BankingBankCardOutline get outline => const _BankingBankCardOutline();
-  /// twoTone style
-  _BankingBankCardTwotone get twoTone => const _BankingBankCardTwotone();
-  /// broken style
-  _BankingBankCardBroken get broken => const _BankingBankCardBroken();
-}
-
-/// Bank Card — bulk style variants.
-class _BankingBankCardBulk {
-  const _BankingBankCardBulk();
-
-  /// Bank Card — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.699 9.08906C21.8647 9.08906 21.999 8.95475 21.999 8.78906V8.70906C21.999 5.91606 20.205 4.03906 17.535 4.03906H7.46398C4.79398 4.03906 3.00098 5.91606 3.00098 8.70906V8.78906C3.00098 8.95475 3.13529 9.08906 3.30098 9.08906H21.699Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.30098 10.5898C3.13529 10.5898 3.00098 10.7242 3.00098 10.8898V15.2898C3.00098 18.0828 4.79398 19.9598 7.46398 19.9598H17.534C20.205 19.9598 21.999 18.0828 21.999 15.2898V10.8898C21.999 10.7242 21.8647 10.5898 21.699 10.5898H3.30098Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card — broken style variants.
-class _BankingBankCardBroken {
-  const _BankingBankCardBroken();
-
-  /// Bank Card — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.5415 18.8356H7.21486C4.77076 18.8356 3.25 17.1105 3.25 14.6683V8.08131C3.25 5.63914 4.77757 3.91406 7.21486 3.91406H8.73243" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.25 11.3748V8.08131C21.25 5.63914 19.7292 3.91406 17.2851 3.91406H12.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.21191H18.2825" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.8331 13.3779H15.6661C14.5628 13.3779 13.871 14.1592 13.871 15.2655V18.2C13.871 19.3053 14.5589 20.0866 15.6661 20.0866H18.8331C19.9404 20.0866 20.6292 19.3053 20.6292 18.2V15.2655C20.6292 14.1592 19.9404 13.3779 18.8331 13.3779Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2498 20.0866V13.3779" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.871 16.7334H20.6292" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card — twoTone style variants.
-class _BankingBankCardTwotone {
-  const _BankingBankCardTwotone();
-
-  /// Bank Card — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0356 4.54102H6.96543C4.52936 4.54102 3.00195 6.26591 3.00195 8.70685V15.2942C3.00195 17.7361 4.52158 19.46 6.96543 19.46H17.0346C19.4795 19.46 21.0001 17.7361 21.0001 15.2942V8.70685C21.0001 6.26591 19.4795 4.54102 17.0356 4.54102Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.83479H20.9981" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.89911 15.1704H8.32728" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.783 15.1704H12.2111" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card — outline style variants.
-class _BankingBankCardOutline {
-  const _BankingBankCardOutline();
-
-  /// Bank Card — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.5197 5.19537C4.36249 4.29121 5.55993 3.78906 6.96389 3.78906H17.0351C18.4424 3.78906 19.6405 4.29086 20.483 5.19566C21.3199 6.09441 21.75 7.32987 21.75 8.70533V15.2933C21.75 16.6692 21.3199 17.9048 20.4828 18.8035C19.6401 19.7082 18.4417 20.2096 17.0342 20.2096H6.96389C5.55669 20.2096 4.35879 19.7081 3.51646 18.8033C2.67978 17.9046 2.25 16.6691 2.25 15.2933V8.70533C2.25 7.329 2.68236 6.09368 3.5197 5.19537ZM4.61695 6.21814C4.08142 6.79266 3.75 7.64048 3.75 8.70533V15.2933C3.75 16.3597 4.08011 17.2074 4.61435 17.7812C5.14294 18.349 5.92699 18.7096 6.96389 18.7096H17.0342C18.0717 18.7096 18.8562 18.349 19.3852 17.7811C19.9197 17.2072 20.25 16.3596 20.25 15.2933V8.70533C20.25 7.6396 19.9198 6.79193 19.3852 6.21784C18.8563 5.64981 18.0719 5.28906 17.0351 5.28906H6.96389C5.93153 5.28906 5.14702 5.64946 4.61695 6.21814Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.20068 9.51416C6.20068 9.09995 6.53647 8.76416 6.95068 8.76416H17.0482C17.4624 8.76416 17.7982 9.09995 17.7982 9.51416C17.7982 9.92837 17.4624 10.2642 17.0482 10.2642H6.95068C6.53647 10.2642 6.20068 9.92837 6.20068 9.51416Z" fill="black"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card — bold style variants.
-class _BankingBankCardBold {
-  const _BankingBankCardBold();
-
-  /// Bank Card — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.21 15.9194H10.782C10.368 15.9194 10.032 15.5834 10.032 15.1694C10.032 14.7554 10.368 14.4194 10.782 14.4194H12.21C12.624 14.4194 12.96 14.7554 12.96 15.1694C12.96 15.5834 12.624 15.9194 12.21 15.9194ZM8.32598 15.9194H6.89798C6.48398 15.9194 6.14798 15.5834 6.14798 15.1694C6.14798 14.7554 6.48398 14.4194 6.89798 14.4194H8.32598C8.73998 14.4194 9.07598 14.7554 9.07598 15.1694C9.07598 15.5834 8.73998 15.9194 8.32598 15.9194ZM2.80098 10.5894C2.63529 10.5894 2.50098 10.7237 2.50098 10.8894V15.2894C2.50098 18.0824 4.29498 19.9594 6.96398 19.9594H17.034C19.705 19.9594 21.499 18.0824 21.499 15.2894V10.8894C21.499 10.7237 21.3647 10.5894 21.199 10.5894H2.80098Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.1991 9.08906C21.3648 9.08906 21.4991 8.95475 21.4991 8.78906V8.70906C21.4991 5.91606 19.7051 4.03906 17.0351 4.03906H6.9641C4.2951 4.03906 2.5011 5.91606 2.5011 8.70906V8.78906C2.5011 8.95475 2.63541 9.08906 2.8011 9.08906H21.1991Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Bank Card — light style variants.
@@ -194,9 +621,814 @@ class _BankingBankCardLight {
   /// Bank Card — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Bank Card',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0351 4.53906H6.96389C4.52757 4.53906 3 6.26414 3 8.70533V15.2933C3 17.7355 4.51978 19.4596 6.96389 19.4596H17.0342C19.4792 19.4596 21 17.7355 21 15.2933V8.70533C21 6.26414 19.4792 4.53906 17.0351 4.53906Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.83414H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 1 icon with style variants.
+class _BankingBankCard1Icon {
+  const _BankingBankCard1Icon();
+
+  /// light style
+  _BankingBankCard1Light get light => const _BankingBankCard1Light();
+}
+
+/// Bank Card 1 — light style variants.
+class _BankingBankCard1Light {
+  const _BankingBankCard1Light();
+
+  /// Bank Card 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0351 4.53906H6.96389C4.52757 4.53906 3 6.26414 3 8.70533V15.2933C3 17.7355 4.51978 19.4596 6.96389 19.4596H17.0342C19.4792 19.4596 21 17.7355 21 15.2933V8.70533C21 6.26414 19.4792 4.53906 17.0351 4.53906Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.95117 9.51383H17.0487" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 2 icon with style variants.
+class _BankingBankCard2Icon {
+  const _BankingBankCard2Icon();
+
+  /// light style
+  _BankingBankCard2Light get light => const _BankingBankCard2Light();
+}
+
+/// Bank Card 2 — light style variants.
+class _BankingBankCard2Light {
+  const _BankingBankCard2Light();
+
+  /// Bank Card 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0356 4.53906H6.96543C4.52936 4.53906 3.00195 6.26396 3.00195 8.70489V15.2922C3.00195 17.7341 4.52158 19.458 6.96543 19.458H17.0346C19.4795 19.458 21.0001 17.7341 21.0001 15.2922V8.70489C21.0001 6.26396 19.4795 4.53906 17.0356 4.53906Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.83409H20.9981" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.89941 15.17H8.32759" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.7832 15.17H12.2114" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 3 icon with style variants.
+class _BankingBankCard3Icon {
+  const _BankingBankCard3Icon();
+
+  /// light style
+  _BankingBankCard3Light get light => const _BankingBankCard3Light();
+}
+
+/// Bank Card 3 — light style variants.
+class _BankingBankCard3Light {
+  const _BankingBankCard3Light();
+
+  /// Bank Card 3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 3',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0351 4.53906H6.96389C4.52757 4.53906 3 6.26414 3 8.70533V15.2933C3 17.7355 4.51978 19.4596 6.96389 19.4596H17.0342C19.4792 19.4596 21 17.7355 21 15.2933V8.70533C21 6.26414 19.4792 4.53906 17.0351 4.53906Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.83414H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.17676 15.1701H10.1453" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 4 icon with style variants.
+class _BankingBankCard4Icon {
+  const _BankingBankCard4Icon();
+
+  /// light style
+  _BankingBankCard4Light get light => const _BankingBankCard4Light();
+}
+
+/// Bank Card 4 — light style variants.
+class _BankingBankCard4Light {
+  const _BankingBankCard4Light();
+
+  /// Bank Card 4 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 20.4826H20.3841" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.8002 4.09329L4.63195 10.2616C3.14047 11.7531 3.26111 13.7456 4.75649 15.241L8.7902 19.2757C10.2856 20.771 12.2732 20.8956 13.7706 19.3992L19.9379 13.2319C21.4352 11.7346 21.3097 9.74691 19.8143 8.25154L15.7796 4.21685C14.2843 2.72148 12.2966 2.59695 10.8002 4.09329Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.44727 15.9343L16.4714 4.91016" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2734 16.6426L13.0918 14.8242" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 5 icon with style variants.
+class _BankingBankCard5Icon {
+  const _BankingBankCard5Icon();
+
+  /// light style
+  _BankingBankCard5Light get light => const _BankingBankCard5Light();
+}
+
+/// Bank Card 5 — light style variants.
+class _BankingBankCard5Light {
+  const _BankingBankCard5Light();
+
+  /// Bank Card 5 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 11.3748V8.08131C21 5.63914 19.4792 3.91406 17.0351 3.91406H6.96486C4.52757 3.91406 3 5.63914 3 8.08131V14.6683C3 17.1105 4.52076 18.8356 6.96486 18.8356H10.2915" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.21305H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.5833 13.3789H15.4162C14.3129 13.3789 13.6211 14.1602 13.6211 15.2665V18.201C13.6211 19.3063 14.309 20.0876 15.4162 20.0876H18.5833C19.6905 20.0876 20.3794 19.3063 20.3794 18.201V15.2665C20.3794 14.1602 19.6905 13.3789 18.5833 13.3789Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0002 20.0876V13.3789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6211 16.7326H20.3794" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 6 icon with style variants.
+class _BankingBankCard6Icon {
+  const _BankingBankCard6Icon();
+
+  /// broken style
+  _BankingBankCard6Broken get broken => const _BankingBankCard6Broken();
+}
+
+/// Bank Card 6 — broken style variants.
+class _BankingBankCard6Broken {
+  const _BankingBankCard6Broken();
+
+  /// Bank Card 6 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.5415 18.8356H7.21486C4.77076 18.8356 3.25 17.1105 3.25 14.6683V8.08131C3.25 5.63914 4.77757 3.91406 7.21486 3.91406H8.73243" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.25 11.3748V8.08131C21.25 5.63914 19.7292 3.91406 17.2851 3.91406H12.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.21191H18.2825" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.8331 13.3779H15.6661C14.5628 13.3779 13.871 14.1592 13.871 15.2655V18.2C13.871 19.3053 14.5589 20.0866 15.6661 20.0866H18.8331C19.9404 20.0866 20.6292 19.3053 20.6292 18.2V15.2655C20.6292 14.1592 19.9404 13.3779 18.8331 13.3779Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2498 20.0866V13.3779" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.871 16.7334H20.6292" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 7 icon with style variants.
+class _BankingBankCard7Icon {
+  const _BankingBankCard7Icon();
+
+  /// broken style
+  _BankingBankCard7Broken get broken => const _BankingBankCard7Broken();
+}
+
+/// Bank Card 7 — broken style variants.
+class _BankingBankCard7Broken {
+  const _BankingBankCard7Broken();
+
+  /// Bank Card 7 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.249 19.4596H7.21389C4.76978 19.4596 3.25 17.7355 3.25 15.2933V8.70533C3.25 6.26414 4.77757 4.53906 7.21389 4.53906H17.2851C19.7292 4.53906 21.25 6.26414 21.25 8.70533V15.2933C21.25 17.7355 19.7292 19.4596 17.2842 19.4596H16.0151" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.20081 9.51383H17.2983" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 8 icon with style variants.
+class _BankingBankCard8Icon {
+  const _BankingBankCard8Icon();
+
+  /// broken style
+  _BankingBankCard8Broken get broken => const _BankingBankCard8Broken();
+}
+
+/// Bank Card 8 — broken style variants.
+class _BankingBankCard8Broken {
+  const _BankingBankCard8Broken();
+
+  /// Bank Card 8 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 8',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2495 4.54102H7.21439C4.77053 4.54102 3.24994 6.26591 3.24994 8.70685V15.2942C3.24994 17.7361 4.77054 19.46 7.21536 19.46H17.2846C19.7284 19.46 21.248 17.7361 21.248 15.2942V8.70685C21.248 6.26591 19.7206 4.54102 17.2846 4.54102H15.767" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.25 9.83496H6.16284" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.14911 15.1699H8.57728" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.033 15.1699H12.4611" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 9 icon with style variants.
+class _BankingBankCard9Icon {
+  const _BankingBankCard9Icon();
+
+  /// broken style
+  _BankingBankCard9Broken get broken => const _BankingBankCard9Broken();
+}
+
+/// Bank Card 9 — broken style variants.
+class _BankingBankCard9Broken {
+  const _BankingBankCard9Broken();
+
+  /// Bank Card 9 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 9',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.25 20.4814H20.6341" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.96586 7.17939L11.05 4.09524C12.5463 2.5989 14.534 2.72343 16.0294 4.2188L20.0641 8.25349C21.5594 9.74886 21.685 11.7365 20.1876 13.2338L14.0203 19.4012C12.523 20.8975 10.5353 20.773 9.03996 19.2776L5.00624 15.2429C3.51087 13.7476 3.39023 11.755 4.88171 10.2635L5.92934 9.2159" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.69751 15.9344L14.5752 7.05664" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.5236 16.6446L13.3419 14.8262" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 10 icon with style variants.
+class _BankingBankCard10Icon {
+  const _BankingBankCard10Icon();
+
+  /// broken style
+  _BankingBankCard10Broken get broken => const _BankingBankCard10Broken();
+}
+
+/// Bank Card 10 — broken style variants.
+class _BankingBankCard10Broken {
+  const _BankingBankCard10Broken();
+
+  /// Bank Card 10 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 10',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.5415 18.8356H7.21486C4.77076 18.8356 3.25 17.1105 3.25 14.6683V8.08131C3.25 5.63914 4.77757 3.91406 7.21486 3.91406H8.73243" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.25 11.3748V8.08131C21.25 5.63914 19.7292 3.91406 17.2851 3.91406H12.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.21191H18.2825" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.8331 13.3779H15.6661C14.5628 13.3779 13.871 14.1592 13.871 15.2655V18.2C13.871 19.3053 14.5589 20.0866 15.6661 20.0866H18.8331C19.9404 20.0866 20.6292 19.3053 20.6292 18.2V15.2655C20.6292 14.1592 19.9404 13.3779 18.8331 13.3779Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2498 20.0866V13.3779" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.871 16.7334H20.6292" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 11 icon with style variants.
+class _BankingBankCard11Icon {
+  const _BankingBankCard11Icon();
+
+  /// broken style
+  _BankingBankCard11Broken get broken => const _BankingBankCard11Broken();
+}
+
+/// Bank Card 11 — broken style variants.
+class _BankingBankCard11Broken {
+  const _BankingBankCard11Broken();
+
+  /// Bank Card 11 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 11',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.249 19.4596H7.21389C4.76978 19.4596 3.25 17.7355 3.25 15.2933V8.70533C3.25 6.26414 4.77757 4.53906 7.21389 4.53906H17.2851C19.7292 4.53906 21.25 6.26414 21.25 8.70533V15.2933C21.25 17.7355 19.7292 19.4596 17.2842 19.4596H15.6329" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.83301H18.3278" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.427 15.1699H10.3955" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 12 icon with style variants.
+class _BankingBankCard12Icon {
+  const _BankingBankCard12Icon();
+
+  /// bold style
+  _BankingBankCard12Bold get bold => const _BankingBankCard12Bold();
+}
+
+/// Bank Card 12 — bold style variants.
+class _BankingBankCard12Bold {
+  const _BankingBankCard12Bold();
+
+  /// Bank Card 12 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.199 9.08906C21.3647 9.08906 21.499 8.95475 21.499 8.78906V8.70906C21.499 5.91606 19.705 4.03906 17.035 4.03906H6.96398C4.29398 4.03906 2.50098 5.91606 2.50098 8.70906V8.78906C2.50098 8.95475 2.63529 9.08906 2.80098 9.08906H21.199Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.80098 10.5894C2.63529 10.5894 2.50098 10.7237 2.50098 10.8894V15.2894C2.50098 18.0824 4.29398 19.9594 6.96398 19.9594H17.034C19.705 19.9594 21.499 18.0824 21.499 15.2894V10.8894C21.499 10.7237 21.3647 10.5894 21.199 10.5894H2.80098Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 13 icon with style variants.
+class _BankingBankCard13Icon {
+  const _BankingBankCard13Icon();
+
+  /// bold style
+  _BankingBankCard13Bold get bold => const _BankingBankCard13Bold();
+}
+
+/// Bank Card 13 — bold style variants.
+class _BankingBankCard13Bold {
+  const _BankingBankCard13Bold();
+
+  /// Bank Card 13 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 13',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.048 10.2591H6.95C6.536 10.2591 6.2 9.92306 6.2 9.50906C6.2 9.09506 6.536 8.75906 6.95 8.75906H17.048C17.462 8.75906 17.798 9.09506 17.798 9.50906C17.798 9.92306 17.462 10.2591 17.048 10.2591ZM17.035 4.03906H6.964C4.294 4.03906 2.5 5.91606 2.5 8.70906V15.2891C2.5 18.0821 4.294 19.9591 6.964 19.9591H17.034C19.705 19.9591 21.5 18.0821 21.5 15.2891V8.70906C21.5 5.91606 19.705 4.03906 17.035 4.03906Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 14 icon with style variants.
+class _BankingBankCard14Icon {
+  const _BankingBankCard14Icon();
+
+  /// bold style
+  _BankingBankCard14Bold get bold => const _BankingBankCard14Bold();
+}
+
+/// Bank Card 14 — bold style variants.
+class _BankingBankCard14Bold {
+  const _BankingBankCard14Bold();
+
+  /// Bank Card 14 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 14',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.21 15.9194H10.782C10.368 15.9194 10.032 15.5834 10.032 15.1694C10.032 14.7554 10.368 14.4194 10.782 14.4194H12.21C12.624 14.4194 12.96 14.7554 12.96 15.1694C12.96 15.5834 12.624 15.9194 12.21 15.9194ZM8.32598 15.9194H6.89798C6.48398 15.9194 6.14798 15.5834 6.14798 15.1694C6.14798 14.7554 6.48398 14.4194 6.89798 14.4194H8.32598C8.73998 14.4194 9.07598 14.7554 9.07598 15.1694C9.07598 15.5834 8.73998 15.9194 8.32598 15.9194ZM2.80098 10.5894C2.63529 10.5894 2.50098 10.7237 2.50098 10.8894V15.2894C2.50098 18.0824 4.29498 19.9594 6.96398 19.9594H17.034C19.705 19.9594 21.499 18.0824 21.499 15.2894V10.8894C21.499 10.7237 21.3647 10.5894 21.199 10.5894H2.80098Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.1991 9.08906C21.3648 9.08906 21.4991 8.95475 21.4991 8.78906V8.70906C21.4991 5.91606 19.7051 4.03906 17.0351 4.03906H6.9641C4.2951 4.03906 2.5011 5.91606 2.5011 8.70906V8.78906C2.5011 8.95475 2.63541 9.08906 2.8011 9.08906H21.1991Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 15 icon with style variants.
+class _BankingBankCard15Icon {
+  const _BankingBankCard15Icon();
+
+  /// bold style
+  _BankingBankCard15Bold get bold => const _BankingBankCard15Bold();
+}
+
+/// Bank Card 15 — bold style variants.
+class _BankingBankCard15Bold {
+  const _BankingBankCard15Bold();
+
+  /// Bank Card 15 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 15',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.48155 15.6567C4.59253 15.7797 4.78332 15.7794 4.90048 15.6623L16.2062 4.35947C16.3233 4.24232 16.3238 4.05179 16.2021 3.9394C15.4008 3.19977 14.4391 2.65234 13.3113 2.65234H13.3103C12.3103 2.65234 11.3633 3.07234 10.5713 3.86534L4.40235 10.0263C2.70235 11.7366 2.98473 13.9976 4.48155 15.6567Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7465 15.4805L11.9285 17.2915C11.7825 17.4365 11.5905 17.5095 11.3995 17.5095C11.2065 17.5095 11.0145 17.4365 10.8685 17.2895C10.5755 16.9955 10.5765 16.5205 10.8705 16.2285L12.6875 14.4185C12.9815 14.1265 13.4565 14.1265 13.7485 14.4195C14.0405 14.7135 14.0395 15.1885 13.7465 15.4805ZM20.5095 19.8495H14.9966C14.7293 19.8495 14.5955 19.5264 14.7844 19.3374L20.4155 13.7045C21.2435 12.8805 21.6605 11.8915 21.6225 10.8445C21.5865 9.83152 21.1265 8.85252 20.2925 8.01552L17.6916 5.41925C17.5744 5.30228 17.3846 5.30235 17.2675 5.41941L5.96056 16.7235C5.84342 16.8406 5.84338 17.0305 5.95996 17.1481C6.67758 17.8725 7.38519 18.613 8.1188 19.3218C8.31531 19.5117 8.18221 19.8495 7.90895 19.8495H3.12549C2.71149 19.8495 2.37549 20.1855 2.37549 20.5995C2.37549 21.0135 2.71149 21.3495 3.12549 21.3495H20.5095C20.9235 21.3495 21.2595 21.0135 21.2595 20.5995C21.2595 20.1855 20.9235 19.8495 20.5095 19.8495Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 16 icon with style variants.
+class _BankingBankCard16Icon {
+  const _BankingBankCard16Icon();
+
+  /// bold style
+  _BankingBankCard16Bold get bold => const _BankingBankCard16Bold();
+}
+
+/// Bank Card 16 — bold style variants.
+class _BankingBankCard16Bold {
+  const _BankingBankCard16Bold();
+
+  /// Bank Card 16 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 16',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.199 9.08906C21.3647 9.08906 21.499 8.95475 21.499 8.78906V8.70906C21.499 5.91606 19.705 4.03906 17.035 4.03906H6.96398C4.29398 4.03906 2.50098 5.91606 2.50098 8.70906V8.78906C2.50098 8.95475 2.63529 9.08906 2.80098 9.08906H21.199Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.80098 10.5894C2.63529 10.5894 2.50098 10.7237 2.50098 10.8894V15.2894C2.50098 18.0824 4.29398 19.9594 6.96398 19.9594H17.034C19.705 19.9594 21.499 18.0824 21.499 15.2894V10.8894C21.499 10.7237 21.3647 10.5894 21.199 10.5894H2.80098Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 17 icon with style variants.
+class _BankingBankCard17Icon {
+  const _BankingBankCard17Icon();
+
+  /// bold style
+  _BankingBankCard17Bold get bold => const _BankingBankCard17Bold();
+}
+
+/// Bank Card 17 — bold style variants.
+class _BankingBankCard17Bold {
+  const _BankingBankCard17Bold();
+
+  /// Bank Card 17 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 17',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2 9.07906C21.3657 9.07906 21.5 8.94475 21.5 8.77906V8.70906C21.5 5.91606 19.706 4.03906 17.035 4.03906H6.96403C4.29403 4.03906 2.50003 5.91606 2.50003 8.70906V8.77906C2.50003 8.94475 2.63435 9.07906 2.80003 9.07906H21.2Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1455 15.9191H7.17651C6.76251 15.9191 6.42651 15.5831 6.42651 15.1691C6.42651 14.7551 6.76251 14.4191 7.17651 14.4191H10.1455C10.5595 14.4191 10.8955 14.7551 10.8955 15.1691C10.8955 15.5831 10.5595 15.9191 10.1455 15.9191ZM2.79951 10.5791C2.63383 10.5791 2.49951 10.7134 2.49951 10.8791V15.2891C2.49951 18.0821 4.29351 19.9591 6.96351 19.9591H17.0345C19.7055 19.9591 21.4995 18.0821 21.4995 15.2891V10.8791C21.4995 10.7134 21.3652 10.5791 21.1995 10.5791H2.79951Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 18 icon with style variants.
+class _BankingBankCard18Icon {
+  const _BankingBankCard18Icon();
+
+  /// bulk style
+  _BankingBankCard18Bulk get bulk => const _BankingBankCard18Bulk();
+}
+
+/// Bank Card 18 — bulk style variants.
+class _BankingBankCard18Bulk {
+  const _BankingBankCard18Bulk();
+
+  /// Bank Card 18 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 18',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.699 9.08906C21.8647 9.08906 21.999 8.95475 21.999 8.78906V8.70906C21.999 5.91606 20.205 4.03906 17.535 4.03906H7.46398C4.79398 4.03906 3.00098 5.91606 3.00098 8.70906V8.78906C3.00098 8.95475 3.13529 9.08906 3.30098 9.08906H21.699Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.30098 10.5898C3.13529 10.5898 3.00098 10.7242 3.00098 10.8898V15.2898C3.00098 18.0828 4.79398 19.9598 7.46398 19.9598H17.534C20.205 19.9598 21.999 18.0828 21.999 15.2898V10.8898C21.999 10.7242 21.8647 10.5898 21.699 10.5898H3.30098Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 19 icon with style variants.
+class _BankingBankCard19Icon {
+  const _BankingBankCard19Icon();
+
+  /// bulk style
+  _BankingBankCard19Bulk get bulk => const _BankingBankCard19Bulk();
+}
+
+/// Bank Card 19 — bulk style variants.
+class _BankingBankCard19Bulk {
+  const _BankingBankCard19Bulk();
+
+  /// Bank Card 19 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 19',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.30098 10.5898C3.13529 10.5898 3.00098 10.7242 3.00098 10.8898V15.2898C3.00098 18.0828 4.79498 19.9598 7.46398 19.9598H17.534C20.205 19.9598 21.999 18.0828 21.999 15.2898V10.8898C21.999 10.7242 21.8647 10.5898 21.699 10.5898H3.30098Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.699 9.08906C21.8647 9.08906 21.999 8.95475 21.999 8.78906V8.70906C21.999 5.91606 20.205 4.03906 17.535 4.03906H7.46398C4.79498 4.03906 3.00098 5.91606 3.00098 8.70906V8.78906C3.00098 8.95475 3.13529 9.08906 3.30098 9.08906H21.699Z" fill="black"/> <path d="M11.2819 15.9219H12.7099C13.1239 15.9219 13.4599 15.5859 13.4599 15.1719C13.4599 14.7579 13.1239 14.4219 12.7099 14.4219H11.2819C10.8679 14.4219 10.5319 14.7579 10.5319 15.1719C10.5319 15.5859 10.8679 15.9219 11.2819 15.9219Z" fill="black"/> <path d="M7.39795 15.9219H8.82595C9.23995 15.9219 9.57595 15.5859 9.57595 15.1719C9.57595 14.7579 9.23995 14.4219 8.82595 14.4219H7.39795C6.98395 14.4219 6.64795 14.7579 6.64795 15.1719C6.64795 15.5859 6.98395 15.9219 7.39795 15.9219Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 20 icon with style variants.
+class _BankingBankCard20Icon {
+  const _BankingBankCard20Icon();
+
+  /// bulk style
+  _BankingBankCard20Bulk get bulk => const _BankingBankCard20Bulk();
+}
+
+/// Bank Card 20 — bulk style variants.
+class _BankingBankCard20Bulk {
+  const _BankingBankCard20Bulk();
+
+  /// Bank Card 20 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 20',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.535 4.03906H7.464C4.794 4.03906 3 5.91606 3 8.70906V15.2891C3 18.0821 4.794 19.9591 7.464 19.9591H17.534C20.205 19.9591 22 18.0821 22 15.2891V8.70906C22 5.91606 20.205 4.03906 17.535 4.03906Z" fill="black"/> <path d="M7.4502 10.2578H17.5482C17.9622 10.2578 18.2982 9.92181 18.2982 9.50781C18.2982 9.09381 17.9622 8.75781 17.5482 8.75781H7.4502C7.0362 8.75781 6.7002 9.09381 6.7002 9.50781C6.7002 9.92181 7.0362 10.2578 7.4502 10.2578Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 21 icon with style variants.
+class _BankingBankCard21Icon {
+  const _BankingBankCard21Icon();
+
+  /// bulk style
+  _BankingBankCard21Bulk get bulk => const _BankingBankCard21Bulk();
+}
+
+/// Bank Card 21 — bulk style variants.
+class _BankingBankCard21Bulk {
+  const _BankingBankCard21Bulk();
+
+  /// Bank Card 21 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 21',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M6.29928 16.803C6.19696 16.9053 6.19696 17.0712 6.29928 17.1735L9.02271 19.897C10.7476 21.6218 13.0146 21.6731 14.6635 20.0242L20.8829 13.8048C22.5324 12.1553 22.4812 9.88821 20.7563 8.16337L18.0329 5.43994C17.9306 5.33761 17.7647 5.33761 17.6624 5.43993L6.29928 16.803Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.7363 4.51337C16.8386 4.41105 16.8386 4.24515 16.7363 4.14283L16.6931 4.0996C14.9682 2.37476 12.7012 2.3235 11.0517 3.973L4.83222 10.1924C3.18334 11.8413 3.2346 14.1084 4.95944 15.8332L5.00267 15.8764C5.10499 15.9788 5.27088 15.9788 5.3732 15.8764L16.7363 4.51337Z" fill="black"/> <path d="M12.2999 17.4007L14.1334 15.5671C14.3891 15.3115 14.3891 14.8965 14.1334 14.6408C13.8778 14.3851 13.4628 14.3851 13.2071 14.6408L11.3736 16.4743C11.1179 16.73 11.1179 17.145 11.3736 17.4007C11.6292 17.6563 12.0442 17.6563 12.2999 17.4007Z" fill="black"/> <rect x="2.80347" y="19.8359" width="19.0101" height="1.5127" rx="0.756348" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 22 icon with style variants.
+class _BankingBankCard22Icon {
+  const _BankingBankCard22Icon();
+
+  /// bulk style
+  _BankingBankCard22Bulk get bulk => const _BankingBankCard22Bulk();
+}
+
+/// Bank Card 22 — bulk style variants.
+class _BankingBankCard22Bulk {
+  const _BankingBankCard22Bulk();
+
+  /// Bank Card 22 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 22',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.535 2.98438H7.46398C4.79398 2.98438 3.00098 4.86138 3.00098 7.65438V7.73438C3.00098 7.90006 3.13529 8.03438 3.30098 8.03438H21.699C21.8647 8.03438 21.999 7.90006 21.999 7.73438V7.65438C21.999 4.86138 20.205 2.98438 17.535 2.98438Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.5227 13.3047H18.6897V16.4037H21.8187V15.6957C21.8187 14.2877 20.8747 13.3047 19.5227 13.3047Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0608 15.6952V16.4032H17.1898V13.3042H16.3558C15.0038 13.3042 14.0608 14.2882 14.0608 15.6952Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0608 18.6248C14.0608 20.0318 15.0038 21.0148 16.3558 21.0148H17.1898V17.9028H14.0608V18.6248Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.6897 21.0148H19.5227C20.8747 21.0148 21.8187 20.0328 21.8187 18.6248V17.9038H18.6897V21.0148Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.00537 14.2312C3.00537 17.0312 4.79537 18.9012 7.46537 18.9012H11.7402C11.919 18.9012 12.0579 18.7458 12.0456 18.5674C11.9802 17.6196 12.0654 16.634 12.0654 15.6912C12.0654 13.1912 13.9054 11.3013 16.3554 11.3013H19.5254C20.2418 11.3013 20.9166 11.4674 21.4997 11.7631C21.7166 11.8732 21.9954 11.7255 21.9954 11.4823V9.83125C21.9954 9.66556 21.8611 9.53125 21.6954 9.53125H3.30537C3.13968 9.53125 3.00537 9.66556 3.00537 9.83125V14.2312Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 23 icon with style variants.
+class _BankingBankCard23Icon {
+  const _BankingBankCard23Icon();
+
+  /// bulk style
+  _BankingBankCard23Bulk get bulk => const _BankingBankCard23Bulk();
+}
+
+/// Bank Card 23 — bulk style variants.
+class _BankingBankCard23Bulk {
+  const _BankingBankCard23Bulk();
+
+  /// Bank Card 23 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 23',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.535 2.98438H7.46398C4.79398 2.98438 3.00098 4.86138 3.00098 7.65438V7.73438C3.00098 7.90006 3.13529 8.03438 3.30098 8.03438H21.699C21.8647 8.03438 21.999 7.90006 21.999 7.73438V7.65438C21.999 4.86138 20.205 2.98438 17.535 2.98438Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.5227 13.3047H18.6897V16.4037H21.8187V15.6957C21.8187 14.2877 20.8747 13.3047 19.5227 13.3047Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0608 15.6952V16.4032H17.1898V13.3042H16.3558C15.0038 13.3042 14.0608 14.2882 14.0608 15.6952Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0608 18.6248C14.0608 20.0318 15.0038 21.0148 16.3558 21.0148H17.1898V17.9028H14.0608V18.6248Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.6897 21.0148H19.5227C20.8747 21.0148 21.8187 20.0328 21.8187 18.6248V17.9038H18.6897V21.0148Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.00537 14.2312C3.00537 17.0312 4.79537 18.9012 7.46537 18.9012H11.7402C11.919 18.9012 12.0579 18.7458 12.0456 18.5674C11.9802 17.6196 12.0654 16.634 12.0654 15.6912C12.0654 13.1912 13.9054 11.3013 16.3554 11.3013H19.5254C20.2418 11.3013 20.9166 11.4674 21.4997 11.7631C21.7166 11.8732 21.9954 11.7255 21.9954 11.4823V9.83125C21.9954 9.66556 21.8611 9.53125 21.6954 9.53125H3.30537C3.13968 9.53125 3.00537 9.66556 3.00537 9.83125V14.2312Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 24 icon with style variants.
+class _BankingBankCard24Icon {
+  const _BankingBankCard24Icon();
+
+  /// outline style
+  _BankingBankCard24Outline get outline => const _BankingBankCard24Outline();
+}
+
+/// Bank Card 24 — outline style variants.
+class _BankingBankCard24Outline {
+  const _BankingBankCard24Outline();
+
+  /// Bank Card 24 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 24',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.51983 4.57049C4.36279 3.66615 5.5605 3.16406 6.96486 3.16406H17.0351C18.4424 3.16406 19.6405 3.66586 20.483 4.57083C21.3199 5.46973 21.75 6.70543 21.75 8.08131V11.3748C21.75 11.789 21.4142 12.1248 21 12.1248C20.5858 12.1248 20.25 11.789 20.25 11.3748V8.08131C20.25 7.01502 19.9197 6.1671 19.3852 5.59292C18.8563 5.0248 18.0719 4.66406 17.0351 4.66406H6.96486C5.93193 4.66406 5.14721 5.02451 4.61707 5.59326C4.08146 6.16786 3.75 7.0159 3.75 8.08131V14.6683C3.75 15.7346 4.08028 16.5825 4.61483 17.1567C5.14373 17.7248 5.92807 18.0856 6.96486 18.0856H10.2915C10.7057 18.0856 11.0415 18.4214 11.0415 18.8356C11.0415 19.2498 10.7057 19.5856 10.2915 19.5856H6.96486C5.55755 19.5856 4.35946 19.0838 3.51696 18.1788C2.68009 17.2799 2.25 16.0442 2.25 14.6683V8.08131C2.25 6.70455 2.68232 5.46897 3.51983 4.57049Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.21222C2.25 8.79801 2.58579 8.46222 3 8.46222H21C21.4142 8.46222 21.75 8.79801 21.75 9.21222C21.75 9.62643 21.4142 9.96222 21 9.96222H3C2.58579 9.96222 2.25 9.62643 2.25 9.21222Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5562 13.3954C14.0234 12.894 14.6787 12.6277 15.4162 12.6277H18.5833C19.3221 12.6277 19.978 12.8936 20.4454 13.3956C20.9072 13.8916 21.1294 14.5574 21.1294 15.2653V18.1998C21.1294 18.9074 20.9071 19.573 20.4453 20.0688C19.9779 20.5706 19.3221 20.8364 18.5833 20.8364H15.4162C14.6774 20.8364 14.0217 20.5706 13.5544 20.0686C13.0929 19.5727 12.8711 18.9071 12.8711 18.1998V15.2653C12.8711 14.5566 13.0944 13.8909 13.5562 13.3954ZM14.6536 14.418C14.4936 14.5896 14.3711 14.8678 14.3711 15.2653V18.1998C14.3711 18.5978 14.4932 18.8755 14.6525 19.0466C14.806 19.2116 15.0478 19.3364 15.4162 19.3364H18.5833C18.9517 19.3364 19.1939 19.2115 19.3477 19.0464C19.5072 18.8752 19.6294 18.5975 19.6294 18.1998V15.2653C19.6294 14.867 19.5071 14.589 19.3476 14.4178C19.1938 14.2526 18.9517 14.1277 18.5833 14.1277H15.4162C15.0504 14.1277 14.8081 14.2522 14.6536 14.418Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.9998 12.6277C17.414 12.6277 17.7498 12.9635 17.7498 13.3777V20.0864C17.7498 20.5006 17.414 20.8364 16.9998 20.8364C16.5855 20.8364 16.2498 20.5006 16.2498 20.0864V13.3777C16.2498 12.9635 16.5855 12.6277 16.9998 12.6277Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8711 16.7338C12.8711 16.3196 13.2069 15.9838 13.6211 15.9838H20.3794C20.7936 15.9838 21.1294 16.3196 21.1294 16.7338C21.1294 17.148 20.7936 17.4838 20.3794 17.4838H13.6211C13.2069 17.4838 12.8711 17.148 12.8711 16.7338Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 25 icon with style variants.
+class _BankingBankCard25Icon {
+  const _BankingBankCard25Icon();
+
+  /// outline style
+  _BankingBankCard25Outline get outline => const _BankingBankCard25Outline();
+}
+
+/// Bank Card 25 — outline style variants.
+class _BankingBankCard25Outline {
+  const _BankingBankCard25Outline();
+
+  /// Bank Card 25 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 25',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.51983 4.57049C4.36279 3.66615 5.5605 3.16406 6.96486 3.16406H17.0351C18.4424 3.16406 19.6405 3.66586 20.483 4.57083C21.3199 5.46973 21.75 6.70543 21.75 8.08131V11.3748C21.75 11.789 21.4142 12.1248 21 12.1248C20.5858 12.1248 20.25 11.789 20.25 11.3748V8.08131C20.25 7.01502 19.9197 6.1671 19.3852 5.59292C18.8563 5.0248 18.0719 4.66406 17.0351 4.66406H6.96486C5.93193 4.66406 5.14721 5.02451 4.61707 5.59326C4.08146 6.16786 3.75 7.0159 3.75 8.08131V14.6683C3.75 15.7346 4.08028 16.5825 4.61483 17.1567C5.14373 17.7248 5.92807 18.0856 6.96486 18.0856H10.2915C10.7057 18.0856 11.0415 18.4214 11.0415 18.8356C11.0415 19.2498 10.7057 19.5856 10.2915 19.5856H6.96486C5.55755 19.5856 4.35946 19.0838 3.51696 18.1788C2.68009 17.2799 2.25 16.0442 2.25 14.6683V8.08131C2.25 6.70455 2.68232 5.46897 3.51983 4.57049Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.21222C2.25 8.79801 2.58579 8.46222 3 8.46222H21C21.4142 8.46222 21.75 8.79801 21.75 9.21222C21.75 9.62643 21.4142 9.96222 21 9.96222H3C2.58579 9.96222 2.25 9.62643 2.25 9.21222Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5562 13.3954C14.0234 12.894 14.6787 12.6277 15.4162 12.6277H18.5833C19.3221 12.6277 19.978 12.8936 20.4454 13.3956C20.9072 13.8916 21.1294 14.5574 21.1294 15.2653V18.1998C21.1294 18.9074 20.9071 19.573 20.4453 20.0688C19.9779 20.5706 19.3221 20.8364 18.5833 20.8364H15.4162C14.6774 20.8364 14.0217 20.5706 13.5544 20.0686C13.0929 19.5727 12.8711 18.9071 12.8711 18.1998V15.2653C12.8711 14.5566 13.0944 13.8909 13.5562 13.3954ZM14.6536 14.418C14.4936 14.5896 14.3711 14.8678 14.3711 15.2653V18.1998C14.3711 18.5978 14.4932 18.8755 14.6525 19.0466C14.806 19.2116 15.0478 19.3364 15.4162 19.3364H18.5833C18.9517 19.3364 19.1939 19.2115 19.3477 19.0464C19.5072 18.8752 19.6294 18.5975 19.6294 18.1998V15.2653C19.6294 14.867 19.5071 14.589 19.3476 14.4178C19.1938 14.2526 18.9517 14.1277 18.5833 14.1277H15.4162C15.0504 14.1277 14.8081 14.2522 14.6536 14.418Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.9998 12.6277C17.414 12.6277 17.7498 12.9635 17.7498 13.3777V20.0864C17.7498 20.5006 17.414 20.8364 16.9998 20.8364C16.5855 20.8364 16.2498 20.5006 16.2498 20.0864V13.3777C16.2498 12.9635 16.5855 12.6277 16.9998 12.6277Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8711 16.7338C12.8711 16.3196 13.2069 15.9838 13.6211 15.9838H20.3794C20.7936 15.9838 21.1294 16.3196 21.1294 16.7338C21.1294 17.148 20.7936 17.4838 20.3794 17.4838H13.6211C13.2069 17.4838 12.8711 17.148 12.8711 16.7338Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 26 icon with style variants.
+class _BankingBankCard26Icon {
+  const _BankingBankCard26Icon();
+
+  /// outline style
+  _BankingBankCard26Outline get outline => const _BankingBankCard26Outline();
+}
+
+/// Bank Card 26 — outline style variants.
+class _BankingBankCard26Outline {
+  const _BankingBankCard26Outline();
+
+  /// Bank Card 26 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 26',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 20.4811C2.25 20.0669 2.58579 19.7311 3 19.7311H20.3841C20.7983 19.7311 21.1341 20.0669 21.1341 20.4811C21.1341 20.8953 20.7983 21.2311 20.3841 21.2311H3C2.58579 21.2311 2.25 20.8953 2.25 20.4811Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3168 2.28561C14.4093 2.32452 15.4525 2.83128 16.3097 3.68848L20.3444 7.72317C21.2015 8.58029 21.7086 9.62344 21.7476 10.7162C21.787 11.8172 21.3476 12.8846 20.468 13.7642L14.3007 19.9315L14.3005 19.9317C13.4209 20.8107 12.3536 21.25 11.2527 21.2108C10.16 21.1719 9.11685 20.6652 8.25963 19.8079L8.25957 19.8079L4.22592 15.7733C4.2259 15.7732 4.22588 15.7732 4.22586 15.7732C3.36805 14.9154 2.8628 13.8707 2.82438 12.7781C2.78567 11.6775 3.2242 10.6104 4.10139 9.73321L10.2697 3.56492C11.1488 2.68577 12.216 2.24641 13.3168 2.28561ZM13.2634 3.78466C12.6224 3.76184 11.9475 4.00839 11.3303 4.62558L5.16205 10.7939C4.54775 11.4082 4.30086 12.083 4.32345 12.7254C4.34632 13.3758 4.64905 14.0751 5.28658 14.7126L5.28665 14.7127L9.32029 18.7473C9.32032 18.7473 9.32034 18.7473 9.32036 18.7474C9.9585 19.3855 10.6568 19.6886 11.3061 19.7118C11.9472 19.7346 12.6223 19.488 13.24 18.8708C13.2401 18.8708 13.2401 18.8707 13.2402 18.8707L19.4073 12.7035C20.025 12.0858 20.2715 11.4107 20.2486 10.7697C20.2254 10.1205 19.922 9.42208 19.2838 8.78383L15.2491 4.74914C14.6109 4.11097 13.9126 3.80778 13.2634 3.78466Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.002 4.38031C17.2949 4.67321 17.2949 5.14808 17.002 5.44097L5.97784 16.4651C5.68495 16.758 5.21007 16.758 4.91718 16.4651C4.62429 16.1722 4.62429 15.6973 4.91718 15.4044L15.9413 4.38031C16.2342 4.08742 16.7091 4.08742 17.002 4.38031Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6224 14.2957C13.9153 14.5886 13.9153 15.0634 13.6224 15.3563L11.804 17.1747C11.5111 17.4676 11.0362 17.4676 10.7434 17.1747C10.4505 16.8818 10.4505 16.4069 10.7434 16.114L12.5617 14.2957C12.8546 14.0028 13.3295 14.0028 13.6224 14.2957Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 27 icon with style variants.
+class _BankingBankCard27Icon {
+  const _BankingBankCard27Icon();
+
+  /// outline style
+  _BankingBankCard27Outline get outline => const _BankingBankCard27Outline();
+}
+
+/// Bank Card 27 — outline style variants.
+class _BankingBankCard27Outline {
+  const _BankingBankCard27Outline();
+
+  /// Bank Card 27 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 27',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.52154 5.1972C4.36426 4.29311 5.5616 3.79102 6.96543 3.79102H17.0356C18.4428 3.79102 19.6408 4.29277 20.4832 5.19749C21.32 6.09617 21.7501 7.33152 21.7501 8.70685V15.2942C21.7501 16.6699 21.32 17.9053 20.483 18.804C19.6403 19.7086 18.4421 20.21 17.0346 20.21H6.96543C5.55835 20.21 4.36056 19.7085 3.5183 18.8038C2.6817 17.9052 2.25195 16.6698 2.25195 15.2942V8.70685C2.25195 7.33064 2.68428 6.09543 3.52154 5.1972ZM4.61879 6.21996C4.08333 6.79441 3.75195 7.64212 3.75195 8.70685V15.2942C3.75195 16.3604 4.08202 17.208 4.61619 17.7817C5.14471 18.3495 5.92865 18.71 6.96543 18.71H17.0346C18.072 18.71 18.8565 18.3494 19.3853 17.7816C19.9198 17.2078 20.2501 16.3603 20.2501 15.2942V8.70685C20.2501 7.64124 19.9199 6.79368 19.3854 6.21967C18.8565 5.65171 18.0723 5.29102 17.0356 5.29102H6.96543C5.93319 5.29102 5.14879 5.65137 4.61879 6.21996Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.83478C2.25 9.42056 2.58579 9.08478 3 9.08478H20.9981C21.4123 9.08478 21.7481 9.42056 21.7481 9.83478C21.7481 10.249 21.4123 10.5848 20.9981 10.5848H3C2.58579 10.5848 2.25 10.249 2.25 9.83478Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.14917 15.1704C6.14917 14.7562 6.48496 14.4204 6.89917 14.4204H8.32734C8.74156 14.4204 9.07734 14.7562 9.07734 15.1704C9.07734 15.5846 8.74156 15.9204 8.32734 15.9204H6.89917C6.48496 15.9204 6.14917 15.5846 6.14917 15.1704Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.033 15.1704C10.033 14.7562 10.3687 14.4204 10.783 14.4204H12.2111C12.6253 14.4204 12.9611 14.7562 12.9611 15.1704C12.9611 15.5846 12.6253 15.9204 12.2111 15.9204H10.783C10.3687 15.9204 10.033 15.5846 10.033 15.1704Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 28 icon with style variants.
+class _BankingBankCard28Icon {
+  const _BankingBankCard28Icon();
+
+  /// outline style
+  _BankingBankCard28Outline get outline => const _BankingBankCard28Outline();
+}
+
+/// Bank Card 28 — outline style variants.
+class _BankingBankCard28Outline {
+  const _BankingBankCard28Outline();
+
+  /// Bank Card 28 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 28',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.5197 5.19537C4.36249 4.29121 5.55993 3.78906 6.96389 3.78906H17.0351C18.4424 3.78906 19.6405 4.29086 20.483 5.19566C21.3199 6.09441 21.75 7.32987 21.75 8.70533V15.2933C21.75 16.6692 21.3199 17.9048 20.4828 18.8035C19.6401 19.7082 18.4417 20.2096 17.0342 20.2096H6.96389C5.55669 20.2096 4.35879 19.7081 3.51646 18.8033C2.67978 17.9046 2.25 16.6691 2.25 15.2933V8.70533C2.25 7.329 2.68236 6.09368 3.5197 5.19537ZM4.61695 6.21814C4.08142 6.79266 3.75 7.64048 3.75 8.70533V15.2933C3.75 16.3597 4.08011 17.2074 4.61435 17.7812C5.14294 18.349 5.92699 18.7096 6.96389 18.7096H17.0342C18.0717 18.7096 18.8562 18.349 19.3852 17.7811C19.9197 17.2072 20.25 16.3596 20.25 15.2933V8.70533C20.25 7.6396 19.9198 6.79193 19.3852 6.21784C18.8563 5.64981 18.0719 5.28906 17.0351 5.28906H6.96389C5.93153 5.28906 5.14702 5.64946 4.61695 6.21814Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.20068 9.51416C6.20068 9.09995 6.53647 8.76416 6.95068 8.76416H17.0482C17.4624 8.76416 17.7982 9.09995 17.7982 9.51416C17.7982 9.92837 17.4624 10.2642 17.0482 10.2642H6.95068C6.53647 10.2642 6.20068 9.92837 6.20068 9.51416Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 29 icon with style variants.
+class _BankingBankCard29Icon {
+  const _BankingBankCard29Icon();
+
+  /// outline style
+  _BankingBankCard29Outline get outline => const _BankingBankCard29Outline();
+}
+
+/// Bank Card 29 — outline style variants.
+class _BankingBankCard29Outline {
+  const _BankingBankCard29Outline();
+
+  /// Bank Card 29 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 29',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.5197 5.19537C4.36249 4.29121 5.55993 3.78906 6.96389 3.78906H17.0351C18.4424 3.78906 19.6405 4.29086 20.483 5.19566C21.3199 6.09441 21.75 7.32987 21.75 8.70533V15.2933C21.75 16.6692 21.3199 17.9048 20.4828 18.8035C19.6401 19.7082 18.4417 20.2096 17.0342 20.2096H6.96389C5.55669 20.2096 4.35879 19.7081 3.51646 18.8033C2.67978 17.9046 2.25 16.6691 2.25 15.2933V8.70533C2.25 7.329 2.68236 6.09368 3.5197 5.19537ZM4.61695 6.21814C4.08142 6.79266 3.75 7.64048 3.75 8.70533V15.2933C3.75 16.3597 4.08011 17.2074 4.61435 17.7812C5.14294 18.349 5.92699 18.7096 6.96389 18.7096H17.0342C18.0717 18.7096 18.8562 18.349 19.3852 17.7811C19.9197 17.2072 20.25 16.3596 20.25 15.2933V8.70533C20.25 7.6396 19.9198 6.79193 19.3852 6.21784C18.8563 5.64981 18.0719 5.28906 17.0351 5.28906H6.96389C5.93153 5.28906 5.14702 5.64946 4.61695 6.21814Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.83337C2.25 9.41916 2.58579 9.08337 3 9.08337H21C21.4142 9.08337 21.75 9.41916 21.75 9.83337C21.75 10.2476 21.4142 10.5834 21 10.5834H3C2.58579 10.5834 2.25 10.2476 2.25 9.83337Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.427 15.1696C6.427 14.7553 6.76279 14.4196 7.177 14.4196H10.1455C10.5598 14.4196 10.8955 14.7553 10.8955 15.1696C10.8955 15.5838 10.5598 15.9196 10.1455 15.9196H7.177C6.76279 15.9196 6.427 15.5838 6.427 15.1696Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 30 icon with style variants.
+class _BankingBankCard30Icon {
+  const _BankingBankCard30Icon();
+
+  /// twoTone style
+  _BankingBankCard30Twotone get twoTone => const _BankingBankCard30Twotone();
+}
+
+/// Bank Card 30 — twoTone style variants.
+class _BankingBankCard30Twotone {
+  const _BankingBankCard30Twotone();
+
+  /// Bank Card 30 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 30',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 11.3748V8.08131C21 5.63914 19.4792 3.91406 17.0351 3.91406H6.96486C4.52757 3.91406 3 5.63914 3 8.08131V14.6683C3 17.1105 4.52076 18.8356 6.96486 18.8356H10.2915" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.2122H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.5831 13.3777H15.4161C14.3128 13.3777 13.621 14.159 13.621 15.2653V18.1998C13.621 19.3051 14.3089 20.0864 15.4161 20.0864H18.5831C19.6904 20.0864 20.3792 19.3051 20.3792 18.1998V15.2653C20.3792 14.159 19.6904 13.3777 18.5831 13.3777Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.9998 20.0864V13.3777M13.621 16.7337H20.3792" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 31 icon with style variants.
+class _BankingBankCard31Icon {
+  const _BankingBankCard31Icon();
+
+  /// twoTone style
+  _BankingBankCard31Twotone get twoTone => const _BankingBankCard31Twotone();
+}
+
+/// Bank Card 31 — twoTone style variants.
+class _BankingBankCard31Twotone {
+  const _BankingBankCard31Twotone();
+
+  /// Bank Card 31 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 31',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0351 4.53906H6.96389C4.52757 4.53906 3 6.26414 3 8.70533V15.2933C3 17.7355 4.51978 19.4596 6.96389 19.4596H17.0342C19.4792 19.4596 21 17.7355 21 15.2933V8.70533C21 6.26414 19.4792 4.53906 17.0351 4.53906Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.83341H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 32 icon with style variants.
+class _BankingBankCard32Icon {
+  const _BankingBankCard32Icon();
+
+  /// twoTone style
+  _BankingBankCard32Twotone get twoTone => const _BankingBankCard32Twotone();
+}
+
+/// Bank Card 32 — twoTone style variants.
+class _BankingBankCard32Twotone {
+  const _BankingBankCard32Twotone();
+
+  /// Bank Card 32 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 32',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0351 4.53906H6.96389C4.52757 4.53906 3 6.26414 3 8.70533V15.2933C3 17.7355 4.51978 19.4596 6.96389 19.4596H17.0342C19.4792 19.4596 21 17.7355 21 15.2933V8.70533C21 6.26414 19.4792 4.53906 17.0351 4.53906Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.95081 9.51415H17.0483" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 33 icon with style variants.
+class _BankingBankCard33Icon {
+  const _BankingBankCard33Icon();
+
+  /// twoTone style
+  _BankingBankCard33Twotone get twoTone => const _BankingBankCard33Twotone();
+}
+
+/// Bank Card 33 — twoTone style variants.
+class _BankingBankCard33Twotone {
+  const _BankingBankCard33Twotone();
+
+  /// Bank Card 33 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 33',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0356 4.54102H6.96543C4.52936 4.54102 3.00195 6.26591 3.00195 8.70685V15.2942C3.00195 17.7361 4.52158 19.46 6.96543 19.46H17.0346C19.4795 19.46 21.0001 17.7361 21.0001 15.2942V8.70685C21.0001 6.26591 19.4795 4.54102 17.0356 4.54102Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.83479H20.9981" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.89911 15.1704H8.32728" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.783 15.1704H12.2111" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 34 icon with style variants.
+class _BankingBankCard34Icon {
+  const _BankingBankCard34Icon();
+
+  /// twoTone style
+  _BankingBankCard34Twotone get twoTone => const _BankingBankCard34Twotone();
+}
+
+/// Bank Card 34 — twoTone style variants.
+class _BankingBankCard34Twotone {
+  const _BankingBankCard34Twotone();
+
+  /// Bank Card 34 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 34',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0356 4.54102H6.96543C4.52936 4.54102 3.00195 6.26591 3.00195 8.70685V15.2942C3.00195 17.7361 4.52158 19.46 6.96543 19.46H17.0346C19.4795 19.46 21.0001 17.7361 21.0001 15.2942V8.70685C21.0001 6.26591 19.4795 4.54102 17.0356 4.54102Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.83479H20.9981" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.89911 15.1704H8.32728" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.783 15.1704H12.2111" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card 35 icon with style variants.
+class _BankingBankCard35Icon {
+  const _BankingBankCard35Icon();
+
+  /// twoTone style
+  _BankingBankCard35Twotone get twoTone => const _BankingBankCard35Twotone();
+}
+
+/// Bank Card 35 — twoTone style variants.
+class _BankingBankCard35Twotone {
+  const _BankingBankCard35Twotone();
+
+  /// Bank Card 35 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card 35',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0351 4.53906H6.96389C4.52757 4.53906 3 6.26414 3 8.70533V15.2933C3 17.7355 4.51978 19.4596 6.96389 19.4596H17.0342C19.4792 19.4596 21 17.7355 21 15.2933V8.70533C21 6.26414 19.4792 4.53906 17.0351 4.53906Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.83341H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.17694 15.1695H10.1455" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -206,93 +1438,8 @@ class _BankingBankCardLight {
 class _BankingWalletIcon {
   const _BankingWalletIcon();
 
-  /// bold style
-  _BankingWalletBold get bold => const _BankingWalletBold();
-  /// bulk style
-  _BankingWalletBulk get bulk => const _BankingWalletBulk();
   /// light style
   _BankingWalletLight get light => const _BankingWalletLight();
-  /// outline style
-  _BankingWalletOutline get outline => const _BankingWalletOutline();
-  /// twoTone style
-  _BankingWalletTwotone get twoTone => const _BankingWalletTwotone();
-  /// broken style
-  _BankingWalletBroken get broken => const _BankingWalletBroken();
-}
-
-/// Wallet — bulk style variants.
-class _BankingWalletBulk {
-  const _BankingWalletBulk();
-
-  /// Wallet — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.945 15.3381C14.435 15.3381 13.205 14.1081 13.205 12.5881V11.4081C13.205 9.88812 14.435 8.65812 15.945 8.65812C17.1255 8.65812 19.4365 8.6647 20.2678 8.66719C20.4364 8.66769 20.5729 8.52895 20.5595 8.36093C20.346 5.68508 18.1114 3.57812 15.385 3.57812H8.53496C5.66496 3.57812 3.33496 5.91813 3.33496 8.78813V15.2181C3.33496 18.0881 5.66496 20.4181 8.53496 20.4181H15.385C18.1118 20.4181 20.3558 18.3106 20.5606 15.6343C20.5734 15.4666 20.437 15.3286 20.2689 15.3291C19.4384 15.3315 17.126 15.3381 15.945 15.3381Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.7451 12.7102C16.3451 12.7102 16.0251 12.3902 16.0251 12.0002C16.0251 11.6102 16.3451 11.2902 16.7451 11.2902C17.1351 11.2902 17.4551 11.6102 17.4551 12.0002C17.4551 12.3902 17.1351 12.7102 16.7451 12.7102ZM20.4151 10.1602H15.9451C15.2551 10.1602 14.7051 10.7202 14.7051 11.4102V12.5902C14.7051 13.2802 15.2551 13.8402 15.9451 13.8402H20.4151C21.1051 13.8402 21.6651 13.2802 21.6651 12.5902V11.4102C21.6651 10.7202 21.1051 10.1602 20.4151 10.1602Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet — broken style variants.
-class _BankingWalletBroken {
-  const _BankingWalletBroken();
-
-  /// Wallet — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.5923 12.0022H15.5909" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.5018 14.403V15.2204C19.5018 17.8098 17.396 19.9156 14.7978 19.9156H7.95301C5.35482 19.9156 3.25 17.8098 3.25 15.2204V11.4697" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 8.78992C3.25 6.19173 5.35482 4.08594 7.95301 4.08594H14.7978C17.396 4.08594 19.5018 6.19173 19.5018 8.78992V9.58591" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.2255 14.4106C14.1979 14.4106 13.3649 13.5776 13.3649 12.55V11.4524C13.3649 10.4248 14.1979 9.5918 15.2255 9.5918H19.3894C20.417 9.5918 21.25 10.4248 21.25 11.4524V12.55C21.25 13.5776 20.417 14.4106 19.3894 14.4106H17.6009" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet — twoTone style variants.
-class _BankingWalletTwotone {
-  const _BankingWalletTwotone();
-
-  /// Wallet — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.9984 14.4053H17.1912C15.793 14.4053 14.6605 13.2718 14.6605 11.8736C14.6605 10.4764 15.793 9.3429 17.1912 9.3429H20.9984" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.8171H16.9937" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.6114V8.62339C3 5.89712 5.20962 3.6875 7.93589 3.6875H16.0641C18.7904 3.6875 21 5.89712 21 8.62339V15.3729C21 18.0992 18.7904 20.3088 16.0641 20.3088H11.6974" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.43795 17.5904H3M5.71748 20.3108V14.8729" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet — outline style variants.
-class _BankingWalletOutline {
-  const _BankingWalletOutline();
-
-  /// Wallet — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.646 10.0948C15.9639 10.0948 15.4121 10.6471 15.4121 11.3286V12.4232C15.4121 13.1048 15.9639 13.6571 16.646 13.6571H20.9999C21.4142 13.6571 21.7499 13.9929 21.7499 14.4071C21.7499 14.8213 21.4142 15.1571 20.9999 15.1571H16.646C15.135 15.1571 13.9121 13.9327 13.9121 12.4232V11.3286C13.9121 9.81912 15.135 8.59479 16.646 8.59479H20.9999C21.4142 8.59479 21.7499 8.93057 21.7499 9.34479C21.7499 9.759 21.4142 10.0948 20.9999 10.0948H16.646Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2434 11.819C16.2434 11.4048 16.5792 11.069 16.9934 11.069H16.9963C17.4106 11.069 17.7463 11.4048 17.7463 11.819C17.7463 12.2332 17.4106 12.569 16.9963 12.569H16.9934C16.5792 12.569 16.2434 12.2332 16.2434 11.819Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.9358 4.43945C5.6238 4.43945 3.75 6.31325 3.75 8.62526V15.3747C3.75 17.6867 5.6238 19.5605 7.9358 19.5605H16.0639C18.3759 19.5605 20.2497 17.6867 20.2497 15.3747V8.62526C20.2497 6.31325 18.3759 4.43945 16.0639 4.43945H7.9358ZM2.25 8.62526C2.25 5.48482 4.79537 2.93945 7.9358 2.93945H16.0639C19.2043 2.93945 21.7497 5.48482 21.7497 8.62526V15.3747C21.7497 18.5151 19.2043 21.0605 16.0639 21.0605H7.9358C4.79537 21.0605 2.25 18.5151 2.25 15.3747V8.62526Z" fill="black"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet — bold style variants.
-class _BankingWalletBold {
-  const _BankingWalletBold();
-
-  /// Wallet — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6365 11.9987C14.6365 12.7377 15.2375 13.3387 15.9765 13.3387H21.1995C21.3652 13.3387 21.4995 13.2044 21.4995 13.0387V10.9587C21.4995 10.793 21.3652 10.6587 21.1995 10.6587H15.9765C15.2375 10.6587 14.6365 11.2597 14.6365 11.9987Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.864 13.2085C8.864 13.6225 8.528 13.9585 8.114 13.9585C7.7 13.9585 7.364 13.6225 7.364 13.2085V10.7775C7.364 10.3635 7.7 10.0275 8.114 10.0275C8.528 10.0275 8.864 10.3635 8.864 10.7775V13.2085ZM15.976 14.8385C14.411 14.8385 13.136 13.5635 13.136 11.9985C13.136 10.4335 14.411 9.1585 15.976 9.1585H21.2C21.3657 9.1585 21.5 9.02419 21.5 8.8585V8.2585C21.5 5.4625 19.227 3.1875 16.433 3.1875H7.566C4.772 3.1875 2.5 5.4625 2.5 8.2585V15.7385C2.5 18.5345 4.772 20.8095 7.566 20.8095H16.433C19.227 20.8095 21.5 18.5345 21.5 15.7385V15.1385C21.5 14.9728 21.3657 14.8385 21.2 14.8385H15.976Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Wallet — light style variants.
@@ -302,9 +1449,814 @@ class _BankingWalletLight {
   /// Wallet — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Wallet',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.3424 12.0022H15.3411" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.2518 14.4047V15.2221C19.2518 17.8116 17.146 19.9173 14.5478 19.9173H7.70301C5.10482 19.9173 3 17.8116 3 15.2221V8.78992C3 6.19173 5.10482 4.08594 7.70301 4.08594H14.5478C17.146 4.08594 19.2518 6.19173 19.2518 8.78992V9.58591" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.1397 14.4126H14.9758C13.9482 14.4126 13.1152 13.5796 13.1152 12.552V11.4543C13.1152 10.4267 13.9482 9.59375 14.9758 9.59375H19.1397C20.1673 9.59375 21.0003 10.4267 21.0003 11.4543V12.552C21.0003 13.5796 20.1673 14.4126 19.1397 14.4126Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 1 icon with style variants.
+class _BankingWallet1Icon {
+  const _BankingWallet1Icon();
+
+  /// light style
+  _BankingWallet1Light get light => const _BankingWallet1Light();
+}
+
+/// Wallet 1 — light style variants.
+class _BankingWallet1Light {
+  const _BankingWallet1Light();
+
+  /// Wallet 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0002 8.72244V8.72479" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4548 5.05078H16.2052C18.8497 5.05078 21 7.20105 21 9.85532V15.9315C21 18.5848 18.8497 20.7351 16.2052 20.7351H7.80454C5.15124 20.7351 3 18.5848 3 15.9315V9.85532C3 7.20105 5.15124 5.05078 7.80454 5.05078H9.53351" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4613 5.16584V9.41871C14.4613 10.4685 13.611 11.3189 12.5611 11.3189H11.4393C10.3904 11.3189 9.53906 10.4685 9.53906 9.41871V5.16584C9.53906 4.116 10.3904 3.26562 11.4393 3.26562H12.5611C13.611 3.26562 14.4613 4.116 14.4613 5.16584Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 2 icon with style variants.
+class _BankingWallet2Icon {
+  const _BankingWallet2Icon();
+
+  /// light style
+  _BankingWallet2Light get light => const _BankingWallet2Light();
+}
+
+/// Wallet 2 — light style variants.
+class _BankingWallet2Light {
+  const _BankingWallet2Light();
+
+  /// Wallet 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9981 14.4061H17.1909C15.7927 14.4061 14.6602 13.2726 14.6602 11.8745C14.6602 10.4773 15.7927 9.34375 17.1909 9.34375H20.9981" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.8185H16.9936" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.6114V8.62339C3 5.89712 5.20962 3.6875 7.93589 3.6875H16.0641C18.7904 3.6875 21 5.89712 21 8.62339V15.3729C21 18.0992 18.7904 20.3088 16.0641 20.3088H11.6974" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.43795 17.592H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.71793 20.309V14.8711" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 3 icon with style variants.
+class _BankingWallet3Icon {
+  const _BankingWallet3Icon();
+
+  /// light style
+  _BankingWallet3Light get light => const _BankingWallet3Light();
+}
+
+/// Wallet 3 — light style variants.
+class _BankingWallet3Light {
+  const _BankingWallet3Light();
+
+  /// Wallet 3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9999 14.406H17.1928C15.7946 14.406 14.6621 13.2725 14.6621 11.8744C14.6621 10.4772 15.7946 9.34375 17.1928 9.34375H20.9999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.8185H16.9936" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.9358 3.6875H16.0639C18.7901 3.6875 20.9997 5.89708 20.9997 8.6233V15.3727C20.9997 18.0989 18.7901 20.3085 16.0639 20.3085H7.9358C5.20958 20.3085 3 18.0989 3 15.3727V8.6233C3 5.89708 5.20958 3.6875 7.9358 3.6875Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.2666 7.95913H12.3454" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 4 icon with style variants.
+class _BankingWallet4Icon {
+  const _BankingWallet4Icon();
+
+  /// light style
+  _BankingWallet4Light get light => const _BankingWallet4Light();
+}
+
+/// Wallet 4 — light style variants.
+class _BankingWallet4Light {
+  const _BankingWallet4Light();
+
+  /// Wallet 4 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9981 14.4061H17.1909C15.7927 14.4061 14.6602 13.2726 14.6602 11.8745C14.6602 10.4773 15.7927 9.34375 17.1909 9.34375H20.9981" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.8185H16.9936" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.6114V8.62339C3 5.89712 5.20962 3.6875 7.93589 3.6875H16.0641C18.7904 3.6875 21 5.89712 21 8.62339V15.3729C21 18.0992 18.7904 20.3088 16.0641 20.3088H11.6974" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.43795 17.592H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.71793 20.309V14.8711" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 5 icon with style variants.
+class _BankingWallet5Icon {
+  const _BankingWallet5Icon();
+
+  /// light style
+  _BankingWallet5Light get light => const _BankingWallet5Light();
+}
+
+/// Wallet 5 — light style variants.
+class _BankingWallet5Light {
+  const _BankingWallet5Light();
+
+  /// Wallet 5 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 5',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9999 14.406H16.646C15.5494 14.406 14.6621 13.5177 14.6621 12.4222V11.3276C14.6621 10.2321 15.5494 9.34375 16.646 9.34375H20.9999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.8185H16.9936" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.9358 3.6875H16.0639C18.7901 3.6875 20.9997 5.89708 20.9997 8.6233V15.3727C20.9997 18.0989 18.7901 20.3085 16.0639 20.3085H7.9358C5.20958 20.3085 3 18.0989 3 15.3727V8.6233C3 5.89708 5.20958 3.6875 7.9358 3.6875Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 6 icon with style variants.
+class _BankingWallet6Icon {
+  const _BankingWallet6Icon();
+
+  /// broken style
+  _BankingWallet6Broken get broken => const _BankingWallet6Broken();
+}
+
+/// Wallet 6 — broken style variants.
+class _BankingWallet6Broken {
+  const _BankingWallet6Broken();
+
+  /// Wallet 6 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.25 14.407H16.896C15.7995 14.407 14.9122 13.5187 14.9122 12.4232V11.3286C14.9122 10.233 15.7995 9.34473 16.896 9.34473H18.9107" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2463 11.8193H17.2434" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2498 20.3105H8.1858C5.45958 20.3105 3.25 18.1009 3.25 15.3747V8.62526C3.25 5.89904 5.45958 3.68945 8.1858 3.68945H16.3139C19.0401 3.68945 21.2497 5.89904 21.2497 8.62526V15.3747C21.2497 18.1009 19.0401 20.3105 16.3139 20.3105H15.9618" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 7 icon with style variants.
+class _BankingWallet7Icon {
+  const _BankingWallet7Icon();
+
+  /// broken style
+  _BankingWallet7Broken get broken => const _BankingWallet7Broken();
+}
+
+/// Wallet 7 — broken style variants.
+class _BankingWallet7Broken {
+  const _BankingWallet7Broken();
+
+  /// Wallet 7 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.5923 12.0022H15.5909" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.5018 14.403V15.2204C19.5018 17.8098 17.396 19.9156 14.7978 19.9156H7.95301C5.35482 19.9156 3.25 17.8098 3.25 15.2204V11.4697" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 8.78992C3.25 6.19173 5.35482 4.08594 7.95301 4.08594H14.7978C17.396 4.08594 19.5018 6.19173 19.5018 8.78992V9.58591" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.2255 14.4106C14.1979 14.4106 13.3649 13.5776 13.3649 12.55V11.4524C13.3649 10.4248 14.1979 9.5918 15.2255 9.5918H19.3894C20.417 9.5918 21.25 10.4248 21.25 11.4524V12.55C21.25 13.5776 20.417 14.4106 19.3894 14.4106H17.6009" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 8 icon with style variants.
+class _BankingWallet8Icon {
+  const _BankingWallet8Icon();
+
+  /// broken style
+  _BankingWallet8Broken get broken => const _BankingWallet8Broken();
+}
+
+/// Wallet 8 — broken style variants.
+class _BankingWallet8Broken {
+  const _BankingWallet8Broken();
+
+  /// Wallet 8 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 8',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 8.72342V8.72576" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.78351 5.05176H8.05454C5.40124 5.05176 3.25 7.20203 3.25 9.8563V15.9325C3.25 18.5858 5.40124 20.7361 8.05454 20.7361H12.2549" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.7051 5.05078H16.4555C19.1 5.05078 21.2503 7.20105 21.2503 9.85532V15.9315C21.2503 18.5848 19.1 20.7351 16.4555 20.7351H15.5112" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.7113 9.41871C14.7113 10.4685 13.861 11.3189 12.8111 11.3189H11.6893C10.6404 11.3189 9.78906 10.4685 9.78906 9.41871V5.16584C9.78906 4.116 10.6404 3.26562 11.6893 3.26562H12.8111C13.861 3.26562 14.7113 4.116 14.7113 5.16584V6.75747" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 9 icon with style variants.
+class _BankingWallet9Icon {
+  const _BankingWallet9Icon();
+
+  /// broken style
+  _BankingWallet9Broken get broken => const _BankingWallet9Broken();
+}
+
+/// Wallet 9 — broken style variants.
+class _BankingWallet9Broken {
+  const _BankingWallet9Broken();
+
+  /// Wallet 9 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 9',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.25 14.407H17.4428C16.0447 14.407 14.9122 13.2735 14.9122 11.8754C14.9122 10.4782 16.0447 9.34473 17.4428 9.34473H18.9872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2463 11.8193H17.2434" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.51617 7.95801H12.595" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2498 20.3085H8.1858C5.45958 20.3085 3.25 18.0989 3.25 15.3727V8.6233C3.25 5.89708 5.45958 3.6875 8.1858 3.6875H16.3139C19.0401 3.6875 21.2497 5.89708 21.2497 8.6233V15.3727C21.2497 18.0989 19.0401 20.3085 16.3139 20.3085H15.9618" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 10 icon with style variants.
+class _BankingWallet10Icon {
+  const _BankingWallet10Icon();
+
+  /// broken style
+  _BankingWallet10Broken get broken => const _BankingWallet10Broken();
+}
+
+/// Wallet 10 — broken style variants.
+class _BankingWallet10Broken {
+  const _BankingWallet10Broken();
+
+  /// Wallet 10 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 10',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.2495 14.0852H16.227C15.073 14.0852 14.137 13.1501 14.137 11.9962C14.137 10.8423 15.073 9.90723 16.227 9.90723H18.5608" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.25 20.3105H16.6838C19.2058 20.3105 21.25 18.2663 21.25 15.7444V8.25541C21.25 5.73347 19.2058 3.68925 16.6838 3.68925H7.81616C5.29422 3.68925 3.25 5.73347 3.25 8.25541V15.7444C3.25 18.2663 5.29422 20.3105 7.81616 20.3105H8.78185" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.36381 10.7812V13.2108" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 11 icon with style variants.
+class _BankingWallet11Icon {
+  const _BankingWallet11Icon();
+
+  /// broken style
+  _BankingWallet11Broken get broken => const _BankingWallet11Broken();
+}
+
+/// Wallet 11 — broken style variants.
+class _BankingWallet11Broken {
+  const _BankingWallet11Broken();
+
+  /// Wallet 11 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 11',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.2484 9.34277H17.4412C16.043 9.34277 14.9105 10.4763 14.9105 11.8744C14.9105 13.2716 16.043 14.4052 17.4412 14.4052H18.7244" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2466 11.8174H17.2437" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3141 3.6875C19.0404 3.6875 21.25 5.89712 21.25 8.62339V15.3729C21.25 18.0992 19.0404 20.3088 16.3141 20.3088H11.9474" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 11.6114V8.62339C3.25 5.89712 5.45962 3.6875 8.18589 3.6875H12.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.68795 17.5908H3.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.96747 20.311V14.873" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 12 icon with style variants.
+class _BankingWallet12Icon {
+  const _BankingWallet12Icon();
+
+  /// bold style
+  _BankingWallet12Bold get bold => const _BankingWallet12Bold();
+}
+
+/// Wallet 12 — bold style variants.
+class _BankingWallet12Bold {
+  const _BankingWallet12Bold();
+
+  /// Wallet 12 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2259 12.5718H17.2219C16.8079 12.5718 16.4719 12.2358 16.4719 11.8218C16.4719 11.4078 16.8079 11.0718 17.2219 11.0718C17.6359 11.0718 17.9739 11.4078 17.9739 11.8218C17.9739 12.2358 17.6399 12.5718 17.2259 12.5718ZM16.6469 10.0918C15.9659 10.0918 15.4129 10.6478 15.4129 11.3318V12.4218C15.4129 13.1048 15.9659 13.6618 16.6469 13.6618H21.1999C21.3656 13.6618 21.4999 13.5275 21.4999 13.3618V10.3918C21.4999 10.2261 21.3656 10.0918 21.1999 10.0918H16.6469Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9125 12.4214V11.3314C13.9125 9.82041 15.1395 8.59141 16.6465 8.59141H21.1963C21.3628 8.59141 21.4983 8.45549 21.488 8.28926C21.3107 5.44777 18.947 3.19141 16.0645 3.19141H7.93549C4.93849 3.19141 2.50049 5.63141 2.50049 8.63141V15.3714C2.50049 18.3714 4.93849 20.8124 7.93549 20.8124H16.0645C19.0864 20.8124 21.3466 18.3662 21.4929 15.4614C21.5013 15.2959 21.3662 15.1614 21.2005 15.1614H16.6465C15.1395 15.1614 13.9125 13.9324 13.9125 12.4214Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 13 icon with style variants.
+class _BankingWallet13Icon {
+  const _BankingWallet13Icon();
+
+  /// bold style
+  _BankingWallet13Bold get bold => const _BankingWallet13Bold();
+}
+
+/// Wallet 13 — bold style variants.
+class _BankingWallet13Bold {
+  const _BankingWallet13Bold();
+
+  /// Wallet 13 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 13',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.61 10.2747H11.39C10.67 10.2747 10.08 9.68469 10.08 8.96469V4.36469C10.08 3.64469 10.67 3.05469 11.39 3.05469H12.61C13.33 3.05469 13.92 3.64469 13.92 4.36469V8.96469C13.92 9.68469 13.33 10.2747 12.61 10.2747ZM12.75 8.42469C12.75 8.01469 12.41 7.68469 12 7.68469C11.59 7.68469 11.25 8.02469 11.25 8.43469C11.25 8.84469 11.59 9.18469 12 9.18469C12.41 9.18469 12.75 8.84469 12.75 8.43469V8.42469Z" fill="black"/> <path d="M15.42 4.55439C15.42 4.38871 15.5543 4.25439 15.72 4.25439H16.21C19.12 4.25439 21.5 6.63439 21.5 9.56439V15.6344C21.5 18.5644 19.12 20.9444 16.21 20.9444H7.8C4.88 20.9444 2.5 18.5644 2.5 15.6344V9.56439C2.5 6.63439 4.88 4.25439 7.8 4.25439H8.28C8.44569 4.25439 8.58 4.38871 8.58 4.55439V8.96439C8.58 10.5144 9.84 11.7744 11.39 11.7744H12.61C14.16 11.7744 15.42 10.5144 15.42 8.96439V4.55439Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 14 icon with style variants.
+class _BankingWallet14Icon {
+  const _BankingWallet14Icon();
+
+  /// bold style
+  _BankingWallet14Bold get bold => const _BankingWallet14Bold();
+}
+
+/// Wallet 14 — bold style variants.
+class _BankingWallet14Bold {
+  const _BankingWallet14Bold();
+
+  /// Wallet 14 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 14',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.445 15.3381C13.935 15.3381 12.705 14.1081 12.705 12.5881V11.4081C12.705 9.88812 13.935 8.65812 15.445 8.65812C16.6255 8.65812 18.9365 8.6647 19.7678 8.66719C19.9364 8.66769 20.0729 8.52895 20.0595 8.36093C19.846 5.68508 17.6114 3.57812 14.885 3.57812H8.03496C5.16496 3.57812 2.83496 5.91813 2.83496 8.78813V15.2181C2.83496 18.0881 5.16496 20.4181 8.03496 20.4181H14.885C17.6118 20.4181 19.8558 18.3106 20.0606 15.6343C20.0734 15.4666 19.937 15.3286 19.7689 15.3291C18.9384 15.3315 16.626 15.3381 15.445 15.3381Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.245 12.7082C15.845 12.7082 15.525 12.3882 15.525 11.9982C15.525 11.6082 15.845 11.2882 16.245 11.2882C16.635 11.2882 16.955 11.6082 16.955 11.9982C16.955 12.3882 16.635 12.7082 16.245 12.7082ZM19.915 10.1582H15.445C14.755 10.1582 14.205 10.7182 14.205 11.4082V12.5882C14.205 13.2782 14.755 13.8382 15.445 13.8382H19.915C20.605 13.8382 21.165 13.2782 21.165 12.5882V11.4082C21.165 10.7182 20.605 10.1582 19.915 10.1582Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 15 icon with style variants.
+class _BankingWallet15Icon {
+  const _BankingWallet15Icon();
+
+  /// bold style
+  _BankingWallet15Bold get bold => const _BankingWallet15Bold();
+}
+
+/// Wallet 15 — bold style variants.
+class _BankingWallet15Bold {
+  const _BankingWallet15Bold();
+
+  /// Wallet 15 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 15',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6365 11.9987C14.6365 12.7377 15.2375 13.3387 15.9765 13.3387H21.1995C21.3652 13.3387 21.4995 13.2044 21.4995 13.0387V10.9587C21.4995 10.793 21.3652 10.6587 21.1995 10.6587H15.9765C15.2375 10.6587 14.6365 11.2597 14.6365 11.9987Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.864 13.2085C8.864 13.6225 8.528 13.9585 8.114 13.9585C7.7 13.9585 7.364 13.6225 7.364 13.2085V10.7775C7.364 10.3635 7.7 10.0275 8.114 10.0275C8.528 10.0275 8.864 10.3635 8.864 10.7775V13.2085ZM15.976 14.8385C14.411 14.8385 13.136 13.5635 13.136 11.9985C13.136 10.4335 14.411 9.1585 15.976 9.1585H21.2C21.3657 9.1585 21.5 9.02419 21.5 8.8585V8.2585C21.5 5.4625 19.227 3.1875 16.433 3.1875H7.566C4.772 3.1875 2.5 5.4625 2.5 8.2585V15.7385C2.5 18.5345 4.772 20.8095 7.566 20.8095H16.433C19.227 20.8095 21.5 18.5345 21.5 15.7385V15.1385C21.5 14.9728 21.3657 14.8385 21.2 14.8385H15.976Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 16 icon with style variants.
+class _BankingWallet16Icon {
+  const _BankingWallet16Icon();
+
+  /// bold style
+  _BankingWallet16Bold get bold => const _BankingWallet16Bold();
+}
+
+/// Wallet 16 — bold style variants.
+class _BankingWallet16Bold {
+  const _BankingWallet16Bold();
+
+  /// Wallet 16 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 16',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2883 12.5689H17.2853C16.8713 12.5689 16.5353 12.2329 16.5353 11.8189C16.5353 11.4049 16.8713 11.0689 17.2853 11.0689C17.6993 11.0689 18.0363 11.4049 18.0363 11.8189C18.0363 12.2329 17.7023 12.5689 17.2883 12.5689ZM17.1933 10.0889C16.2113 10.0889 15.4123 10.8909 15.4123 11.8789C15.4123 12.8599 16.2113 13.6589 17.1933 13.6589H21.2003C21.366 13.6589 21.5003 13.5246 21.5003 13.3589V10.3889C21.5003 10.2232 21.366 10.0889 21.2003 10.0889H17.1933Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.345 8.7085H7.266C6.852 8.7085 6.516 8.3725 6.516 7.9585C6.516 7.5445 6.852 7.2085 7.266 7.2085H12.345C12.759 7.2085 13.095 7.5445 13.095 7.9585C13.095 8.3725 12.759 8.7085 12.345 8.7085ZM13.912 11.8785C13.912 10.0635 15.384 8.5885 17.194 8.5885H21.1958C21.3623 8.5885 21.4979 8.45259 21.4875 8.28636C21.3103 5.4448 18.9466 3.1875 16.065 3.1875H7.936C4.939 3.1875 2.5 5.6285 2.5 8.6285V15.3685C2.5 18.3685 4.939 20.8095 7.936 20.8095H16.065C19.087 20.8095 21.3461 18.3631 21.4925 15.4585C21.5008 15.293 21.3657 15.1585 21.2 15.1585H17.194C15.384 15.1585 13.912 13.6875 13.912 11.8785Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 17 icon with style variants.
+class _BankingWallet17Icon {
+  const _BankingWallet17Icon();
+
+  /// bold style
+  _BankingWallet17Bold get bold => const _BankingWallet17Bold();
+}
+
+/// Wallet 17 — bold style variants.
+class _BankingWallet17Bold {
+  const _BankingWallet17Bold();
+
+  /// Wallet 17 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 17',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.2756 10.919C19.2756 11.329 18.9456 11.669 18.5356 11.669H18.5256C18.1156 11.669 17.7756 11.329 17.7756 10.919C17.7756 10.509 18.1156 10.169 18.5256 10.169C18.9456 10.169 19.2756 10.509 19.2756 10.919ZM16.6556 10.979C16.6556 11.959 17.4556 12.759 18.4356 12.759H22.4456C22.6113 12.759 22.7456 12.6247 22.7456 12.459V9.48897C22.7456 9.32328 22.6113 9.18896 22.4456 9.18896H18.4356C17.4556 9.18896 16.6556 9.98897 16.6556 10.979Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.1555 10.9791C15.1555 9.16906 16.6255 7.68906 18.4355 7.68906H22.4424C22.6093 7.68906 22.745 7.55265 22.7341 7.38613C22.5497 4.54678 20.1935 2.28906 17.3055 2.28906H9.17548C6.18548 2.28906 3.74548 4.72906 3.74548 7.72906V12.3232C3.74548 12.5057 3.90851 12.6583 4.09105 12.6615C4.23398 12.6639 4.37798 12.6691 4.44901 12.6691C7.82901 12.6691 10.2855 15.3891 10.2855 18.7691C10.2855 19.0346 10.2669 19.2954 10.233 19.5516C10.2084 19.7381 10.3495 19.9091 10.5376 19.9091H17.3055C20.3281 19.9091 22.5915 17.4657 22.7379 14.559C22.7463 14.3935 22.6112 14.2591 22.4455 14.2591H18.4355C16.6255 14.2591 15.1555 12.7891 15.1555 10.9791Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.44239 17.4934H5.47139V15.5234C5.47139 15.1094 5.13539 14.7734 4.72139 14.7734C4.30739 14.7734 3.97139 15.1094 3.97139 15.5234V17.4934H2.00439C1.58939 17.4934 1.25439 17.8294 1.25439 18.2434C1.25439 18.6574 1.58939 18.9934 2.00439 18.9934H3.97139V20.9634C3.97139 21.3774 4.30739 21.7134 4.72139 21.7134C5.13539 21.7134 5.47139 21.3774 5.47139 20.9634V18.9934H7.44239C7.85639 18.9934 8.19239 18.6574 8.19239 18.2434C8.19239 17.8294 7.85639 17.4934 7.44239 17.4934Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 18 icon with style variants.
+class _BankingWallet18Icon {
+  const _BankingWallet18Icon();
+
+  /// bulk style
+  _BankingWallet18Bulk get bulk => const _BankingWallet18Bulk();
+}
+
+/// Wallet 18 — bulk style variants.
+class _BankingWallet18Bulk {
+  const _BankingWallet18Bulk();
+
+  /// Wallet 18 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 18',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.945 15.3381C14.435 15.3381 13.205 14.1081 13.205 12.5881V11.4081C13.205 9.88812 14.435 8.65812 15.945 8.65812C17.1255 8.65812 19.4365 8.6647 20.2678 8.66719C20.4364 8.66769 20.5729 8.52895 20.5595 8.36093C20.346 5.68508 18.1114 3.57812 15.385 3.57812H8.53496C5.66496 3.57812 3.33496 5.91813 3.33496 8.78813V15.2181C3.33496 18.0881 5.66496 20.4181 8.53496 20.4181H15.385C18.1118 20.4181 20.3558 18.3106 20.5606 15.6343C20.5734 15.4666 20.437 15.3286 20.2689 15.3291C19.4384 15.3315 17.126 15.3381 15.945 15.3381Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.7451 12.7102C16.3451 12.7102 16.0251 12.3902 16.0251 12.0002C16.0251 11.6102 16.3451 11.2902 16.7451 11.2902C17.1351 11.2902 17.4551 11.6102 17.4551 12.0002C17.4551 12.3902 17.1351 12.7102 16.7451 12.7102ZM20.4151 10.1602H15.9451C15.2551 10.1602 14.7051 10.7202 14.7051 11.4102V12.5902C14.7051 13.2802 15.2551 13.8402 15.9451 13.8402H20.4151C21.1051 13.8402 21.6651 13.2802 21.6651 12.5902V11.4102C21.6651 10.7202 21.1051 10.1602 20.4151 10.1602Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 19 icon with style variants.
+class _BankingWallet19Icon {
+  const _BankingWallet19Icon();
+
+  /// bulk style
+  _BankingWallet19Bulk get bulk => const _BankingWallet19Bulk();
+}
+
+/// Wallet 19 — bulk style variants.
+class _BankingWallet19Bulk {
+  const _BankingWallet19Bulk();
+
+  /// Wallet 19 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 19',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M15.92 4.55391C15.92 4.38822 16.0543 4.25391 16.22 4.25391H16.71C19.62 4.25391 22 6.63391 22 9.56391V15.6339C22 18.5639 19.62 20.9439 16.71 20.9439H8.3C5.38 20.9439 3 18.5639 3 15.6339V9.56391C3 6.63391 5.38 4.25391 8.3 4.25391H8.78C8.94569 4.25391 9.08 4.38822 9.08 4.55391V8.96391C9.08 10.5139 10.34 11.7739 11.89 11.7739H13.11C14.66 11.7739 15.92 10.5139 15.92 8.96391V4.55391Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1101 10.2747H11.8901C11.1701 10.2747 10.5801 9.68469 10.5801 8.96469V4.36469C10.5801 3.64469 11.1701 3.05469 11.8901 3.05469H13.1101C13.8301 3.05469 14.4201 3.64469 14.4201 4.36469V8.96469C14.4201 9.68469 13.8301 10.2747 13.1101 10.2747ZM13.2501 8.42469C13.2501 8.01469 12.9101 7.68469 12.5001 7.68469C12.0901 7.68469 11.7501 8.02469 11.7501 8.43469C11.7501 8.84469 12.0901 9.18469 12.5001 9.18469C12.9101 9.18469 13.2501 8.84469 13.2501 8.43469V8.42469Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 20 icon with style variants.
+class _BankingWallet20Icon {
+  const _BankingWallet20Icon();
+
+  /// bulk style
+  _BankingWallet20Bulk get bulk => const _BankingWallet20Bulk();
+}
+
+/// Wallet 20 — bulk style variants.
+class _BankingWallet20Bulk {
+  const _BankingWallet20Bulk();
+
+  /// Wallet 20 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 20',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.476 14.8385C14.911 14.8385 13.636 13.5635 13.636 11.9985C13.636 10.4335 14.911 9.1585 16.476 9.1585H21.7C21.8657 9.1585 22 9.02419 22 8.8585V8.2585C22 5.4625 19.727 3.1875 16.933 3.1875H8.066C5.272 3.1875 3 5.4625 3 8.2585V15.7385C3 18.5345 5.272 20.8095 8.066 20.8095H16.933C19.727 20.8095 22 18.5345 22 15.7385V15.1385C22 14.9728 21.8657 14.8385 21.7 14.8385H16.476Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.1365 12.0024C15.1365 12.7414 15.7375 13.3424 16.4765 13.3424H21.6995C21.8652 13.3424 21.9995 13.2081 21.9995 13.0424V10.9624C21.9995 10.7968 21.8652 10.6624 21.6995 10.6624H16.4765C15.7375 10.6624 15.1365 11.2634 15.1365 12.0024Z" fill="black"/> <path d="M9.36401 13.2122C9.36401 13.6262 9.02801 13.9622 8.61401 13.9622C8.20001 13.9622 7.86401 13.6262 7.86401 13.2122V10.7812C7.86401 10.3672 8.20001 10.0312 8.61401 10.0312C9.02801 10.0312 9.36401 10.3672 9.36401 10.7812V13.2122Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 21 icon with style variants.
+class _BankingWallet21Icon {
+  const _BankingWallet21Icon();
+
+  /// bulk style
+  _BankingWallet21Bulk get bulk => const _BankingWallet21Bulk();
+}
+
+/// Wallet 21 — bulk style variants.
+class _BankingWallet21Bulk {
+  const _BankingWallet21Bulk();
+
+  /// Wallet 21 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 21',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.4118 11.8785C14.4118 10.0635 15.8838 8.5885 17.6938 8.5885H21.6955C21.8621 8.5885 21.9976 8.45259 21.9872 8.28636C21.81 5.4448 19.4463 3.1875 16.5648 3.1875H8.43576C5.43876 3.1875 2.99976 5.6285 2.99976 8.6285V15.3685C2.99976 18.3685 5.43876 20.8095 8.43576 20.8095H16.5648C19.5867 20.8095 21.8459 18.3631 21.9922 15.4585C22.0005 15.293 21.8654 15.1585 21.6998 15.1585H17.6938C15.8838 15.1585 14.4118 13.6875 14.4118 11.8785Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.7882 12.5713H17.7852C17.3712 12.5713 17.0352 12.2353 17.0352 11.8213C17.0352 11.4073 17.3712 11.0713 17.7852 11.0713C18.1992 11.0713 18.5362 11.4073 18.5362 11.8213C18.5362 12.2353 18.2022 12.5713 17.7882 12.5713ZM17.6932 10.0913C16.7112 10.0913 15.9122 10.8933 15.9122 11.8813C15.9122 12.8623 16.7112 13.6613 17.6932 13.6613H21.7002C21.8658 13.6613 22.0002 13.527 22.0002 13.3613V10.3913C22.0002 10.2256 21.8658 10.0913 21.7002 10.0913H17.6932Z" fill="black"/> <path d="M12.8449 8.71094H7.76587C7.35187 8.71094 7.01587 8.37494 7.01587 7.96094C7.01587 7.54694 7.35187 7.21094 7.76587 7.21094H12.8449C13.2589 7.21094 13.5949 7.54694 13.5949 7.96094C13.5949 8.37494 13.2589 8.71094 12.8449 8.71094Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 22 icon with style variants.
+class _BankingWallet22Icon {
+  const _BankingWallet22Icon();
+
+  /// bulk style
+  _BankingWallet22Bulk get bulk => const _BankingWallet22Bulk();
+}
+
+/// Wallet 22 — bulk style variants.
+class _BankingWallet22Bulk {
+  const _BankingWallet22Bulk();
+
+  /// Wallet 22 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 22',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.6556 10.9791C15.6556 9.16906 17.1256 7.68906 18.9356 7.68906H22.9426C23.1094 7.68906 23.2451 7.55265 23.2343 7.38613C23.0498 4.54678 20.6936 2.28906 17.8056 2.28906H9.67561C6.68561 2.28906 4.24561 4.72906 4.24561 7.72906V12.3232C4.24561 12.5057 4.40864 12.6583 4.59117 12.6615C4.7341 12.6639 4.8781 12.6691 4.94913 12.6691C8.32913 12.6691 10.7856 15.3891 10.7856 18.7691C10.7856 19.0346 10.7671 19.2954 10.7332 19.5516C10.7085 19.7381 10.8496 19.9091 11.0377 19.9091H17.8056C20.8282 19.9091 23.0916 17.4657 23.2381 14.559C23.2464 14.3935 23.1113 14.2591 22.9456 14.2591H18.9356C17.1256 14.2591 15.6556 12.7891 15.6556 10.9791Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.7756 10.9175C19.7756 11.3275 19.4456 11.6675 19.0356 11.6675H19.0256C18.6156 11.6675 18.2756 11.3275 18.2756 10.9175C18.2756 10.5075 18.6156 10.1675 19.0256 10.1675C19.4456 10.1675 19.7756 10.5075 19.7756 10.9175ZM17.1556 10.9775C17.1556 11.9575 17.9556 12.7575 18.9356 12.7575H22.9456C23.1113 12.7575 23.2456 12.6232 23.2456 12.4575V9.4875C23.2456 9.32181 23.1113 9.1875 22.9456 9.1875H18.9356C17.9556 9.1875 17.1556 9.9875 17.1556 10.9775Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.94239 17.492H5.97139V15.522C5.97139 15.108 5.63539 14.772 5.22139 14.772C4.80739 14.772 4.47139 15.108 4.47139 15.522V17.492H2.50439C2.08939 17.492 1.75439 17.828 1.75439 18.242C1.75439 18.656 2.08939 18.992 2.50439 18.992H4.47139V20.962C4.47139 21.376 4.80739 21.712 5.22139 21.712C5.63539 21.712 5.97139 21.376 5.97139 20.962V18.992H7.94239C8.35639 18.992 8.69239 18.656 8.69239 18.242C8.69239 17.828 8.35639 17.492 7.94239 17.492Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 23 icon with style variants.
+class _BankingWallet23Icon {
+  const _BankingWallet23Icon();
+
+  /// bulk style
+  _BankingWallet23Bulk get bulk => const _BankingWallet23Bulk();
+}
+
+/// Wallet 23 — bulk style variants.
+class _BankingWallet23Bulk {
+  const _BankingWallet23Bulk();
+
+  /// Wallet 23 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 23',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.4122 12.4214V11.3314C14.4122 9.82041 15.6392 8.59141 17.1462 8.59141H21.696C21.8626 8.59141 21.9981 8.45549 21.9877 8.28926C21.8105 5.44777 19.4468 3.19141 16.5642 3.19141H8.43524C5.43824 3.19141 3.00024 5.63141 3.00024 8.63141V15.3714C3.00024 18.3714 5.43824 20.8124 8.43524 20.8124H16.5642C19.5862 20.8124 21.8463 18.3662 21.9927 15.4614C22.001 15.2959 21.8659 15.1614 21.7002 15.1614H17.1462C15.6392 15.1614 14.4122 13.9324 14.4122 12.4214Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.7256 12.5698H17.7216C17.3076 12.5698 16.9716 12.2338 16.9716 11.8198C16.9716 11.4058 17.3076 11.0698 17.7216 11.0698C18.1356 11.0698 18.4736 11.4058 18.4736 11.8198C18.4736 12.2338 18.1396 12.5698 17.7256 12.5698ZM17.1466 10.0898C16.4656 10.0898 15.9126 10.6458 15.9126 11.3298V12.4198C15.9126 13.1028 16.4656 13.6598 17.1466 13.6598H21.6996C21.8653 13.6598 21.9996 13.5255 21.9996 13.3598V10.3898C21.9996 10.2242 21.8653 10.0898 21.6996 10.0898H17.1466Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 24 icon with style variants.
+class _BankingWallet24Icon {
+  const _BankingWallet24Icon();
+
+  /// outline style
+  _BankingWallet24Outline get outline => const _BankingWallet24Outline();
+}
+
+/// Wallet 24 — outline style variants.
+class _BankingWallet24Outline {
+  const _BankingWallet24Outline();
+
+  /// Wallet 24 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 24',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1911 10.0929C16.2073 10.0929 15.4104 10.8904 15.4104 11.8736C15.4104 12.8579 16.2075 13.6553 17.1911 13.6553H20.9983C21.4126 13.6553 21.7483 13.9911 21.7483 14.4053C21.7483 14.8195 21.4126 15.1553 20.9983 15.1553H17.1911C15.3784 15.1553 13.9104 13.6856 13.9104 11.8736C13.9104 10.0624 15.3785 8.5929 17.1911 8.5929H20.9983C21.4126 8.5929 21.7483 8.92868 21.7483 9.3429C21.7483 9.75711 21.4126 10.0929 20.9983 10.0929H17.1911Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2437 11.8171C16.2437 11.4029 16.5794 11.0671 16.9937 11.0671H16.9966C17.4108 11.0671 17.7466 11.4029 17.7466 11.8171C17.7466 12.2314 17.4108 12.5671 16.9966 12.5671H16.9937C16.5794 12.5671 16.2437 12.2314 16.2437 11.8171Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.93589 4.4375C5.62384 4.4375 3.75 6.31134 3.75 8.62339V11.6114C3.75 12.0256 3.41421 12.3614 3 12.3614C2.58579 12.3614 2.25 12.0256 2.25 11.6114V8.62339C2.25 5.48291 4.79541 2.9375 7.93589 2.9375H16.0641C19.2046 2.9375 21.75 5.48291 21.75 8.62339V15.3729C21.75 18.5134 19.2046 21.0588 16.0641 21.0588H11.6974C11.2832 21.0588 10.9474 20.723 10.9474 20.3088C10.9474 19.8946 11.2832 19.5588 11.6974 19.5588H16.0641C18.3762 19.5588 20.25 17.685 20.25 15.3729V8.62339C20.25 6.31134 18.3762 4.4375 16.0641 4.4375H7.93589Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 17.5904C2.25 17.1762 2.58579 16.8404 3 16.8404H8.43795C8.85216 16.8404 9.18795 17.1762 9.18795 17.5904C9.18795 18.0046 8.85216 18.3404 8.43795 18.3404H3C2.58579 18.3404 2.25 18.0046 2.25 17.5904Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.71753 14.1229C6.13174 14.1229 6.46753 14.4587 6.46753 14.8729V20.3108C6.46753 20.725 6.13174 21.0608 5.71753 21.0608C5.30332 21.0608 4.96753 20.725 4.96753 20.3108V14.8729C4.96753 14.4587 5.30332 14.1229 5.71753 14.1229Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 25 icon with style variants.
+class _BankingWallet25Icon {
+  const _BankingWallet25Icon();
+
+  /// outline style
+  _BankingWallet25Outline get outline => const _BankingWallet25Outline();
+}
+
+/// Wallet 25 — outline style variants.
+class _BankingWallet25Outline {
+  const _BankingWallet25Outline();
+
+  /// Wallet 25 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 25',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1928 10.0948C16.209 10.0948 15.4121 10.8923 15.4121 11.8754C15.4121 12.8597 16.2092 13.6571 17.1928 13.6571H20.9999C21.4142 13.6571 21.7499 13.9929 21.7499 14.4071C21.7499 14.8213 21.4142 15.1571 20.9999 15.1571H17.1928C15.38 15.1571 13.9121 13.6874 13.9121 11.8754C13.9121 10.0643 15.3802 8.59479 17.1928 8.59479H20.9999C21.4142 8.59479 21.7499 8.93057 21.7499 9.34479C21.7499 9.759 21.4142 10.0948 20.9999 10.0948H17.1928Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2434 11.819C16.2434 11.4048 16.5792 11.069 16.9934 11.069H16.9963C17.4106 11.069 17.7463 11.4048 17.7463 11.819C17.7463 12.2332 17.4106 12.569 16.9963 12.569H16.9934C16.5792 12.569 16.2434 12.2332 16.2434 11.819Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.9358 4.43945C5.6238 4.43945 3.75 6.31325 3.75 8.62526V15.3747C3.75 17.6867 5.6238 19.5605 7.9358 19.5605H16.0639C18.3759 19.5605 20.2497 17.6867 20.2497 15.3747V8.62526C20.2497 6.31325 18.3759 4.43945 16.0639 4.43945H7.9358ZM2.25 8.62526C2.25 5.48482 4.79537 2.93945 7.9358 2.93945H16.0639C19.2043 2.93945 21.7497 5.48482 21.7497 8.62526V15.3747C21.7497 18.5151 19.2043 21.0605 16.0639 21.0605H7.9358C4.79537 21.0605 2.25 18.5151 2.25 15.3747V8.62526Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.51611 7.95752C6.51611 7.54331 6.8519 7.20752 7.26611 7.20752H12.3449C12.7592 7.20752 13.0949 7.54331 13.0949 7.95752C13.0949 8.37173 12.7592 8.70752 12.3449 8.70752H7.26611C6.8519 8.70752 6.51611 8.37173 6.51611 7.95752Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 26 icon with style variants.
+class _BankingWallet26Icon {
+  const _BankingWallet26Icon();
+
+  /// outline style
+  _BankingWallet26Outline get outline => const _BankingWallet26Outline();
+}
+
+/// Wallet 26 — outline style variants.
+class _BankingWallet26Outline {
+  const _BankingWallet26Outline();
+
+  /// Wallet 26 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 26',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5908 12.0018C14.5908 11.5876 14.9266 11.2518 15.3408 11.2518H15.3422C15.7564 11.2518 16.0922 11.5876 16.0922 12.0018C16.0922 12.416 15.7564 12.7518 15.3422 12.7518H15.3408C14.9266 12.7518 14.5908 12.416 14.5908 12.0018Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70301 4.83398C5.51924 4.83398 3.75 6.60379 3.75 8.78796V15.2202C3.75 17.3947 5.51833 19.1654 7.70301 19.1654H14.5478C16.7327 19.1654 18.5018 17.3945 18.5018 15.2202V14.4028C18.5018 13.9886 18.8376 13.6528 19.2518 13.6528C19.666 13.6528 20.0018 13.9886 20.0018 14.4028V15.2202C20.0018 18.2247 17.5593 20.6654 14.5478 20.6654H7.70301C4.69132 20.6654 2.25 18.2245 2.25 15.2202V8.78796C2.25 5.77577 4.69041 3.33398 7.70301 3.33398H14.5478C17.5602 3.33398 20.0018 5.77557 20.0018 8.78796V9.58396C20.0018 9.99818 19.666 10.334 19.2518 10.334C18.8376 10.334 18.5018 9.99818 18.5018 9.58396V8.78796C18.5018 6.60399 16.7318 4.83398 14.5478 4.83398H7.70301Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9756 10.3419C14.3622 10.3419 13.865 10.8391 13.865 11.4525V12.5502C13.865 13.1635 14.3622 13.6607 14.9756 13.6607H19.1395C19.7529 13.6607 20.25 13.1635 20.25 12.5502V11.4525C20.25 10.8391 19.7529 10.3419 19.1395 10.3419H14.9756ZM12.365 11.4525C12.365 10.0107 13.5338 8.84192 14.9756 8.84192H19.1395C20.5813 8.84192 21.75 10.0107 21.75 11.4525V12.5502C21.75 13.992 20.5813 15.1607 19.1395 15.1607H14.9756C13.5338 15.1607 12.365 13.992 12.365 12.5502V11.4525Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 27 icon with style variants.
+class _BankingWallet27Icon {
+  const _BankingWallet27Icon();
+
+  /// outline style
+  _BankingWallet27Outline get outline => const _BankingWallet27Outline();
+}
+
+/// Wallet 27 — outline style variants.
+class _BankingWallet27Outline {
+  const _BankingWallet27Outline();
+
+  /// Wallet 27 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 27',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 7.97327C12.4142 7.97327 12.75 8.30905 12.75 8.72327V8.72561C12.75 9.13983 12.4142 9.47561 12 9.47561C11.5858 9.47561 11.25 9.13983 11.25 8.72561V8.72327C11.25 8.30905 11.5858 7.97327 12 7.97327Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.80454 5.80194C5.56536 5.80194 3.75 7.61652 3.75 9.85648V15.9327C3.75 18.1716 5.56526 19.9863 7.80454 19.9863H16.2052C18.4346 19.9863 20.25 18.1727 20.25 15.9327V9.85648C20.25 7.61543 18.4345 5.80194 16.2052 5.80194H14.4548C14.0406 5.80194 13.7048 5.46615 13.7048 5.05194C13.7048 4.63773 14.0406 4.30194 14.4548 4.30194H16.2052C19.2649 4.30194 21.75 6.78899 21.75 9.85648V15.9327C21.75 18.9993 19.2648 21.4863 16.2052 21.4863H7.80454C4.73723 21.4863 2.25 19.0004 2.25 15.9327V9.85648C2.25 6.7879 4.73713 4.30194 7.80454 4.30194H9.53351C9.94773 4.30194 10.2835 4.63773 10.2835 5.05194C10.2835 5.46615 9.94773 5.80194 9.53351 5.80194H7.80454Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4393 4.01562C10.8044 4.01562 10.2891 4.53047 10.2891 5.16584V9.41871C10.2891 10.0541 10.8044 10.5689 11.4393 10.5689H12.5611C13.1967 10.5689 13.7113 10.0543 13.7113 9.41871V5.16584C13.7113 4.53022 13.1967 4.01562 12.5611 4.01562H11.4393ZM8.78906 5.16584C8.78906 3.70154 9.97645 2.51562 11.4393 2.51562H12.5611C14.0252 2.51562 15.2113 3.70179 15.2113 5.16584V9.41871C15.2113 10.8828 14.0252 12.0689 12.5611 12.0689H11.4393C9.97645 12.0689 8.78906 10.883 8.78906 9.41871V5.16584Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 28 icon with style variants.
+class _BankingWallet28Icon {
+  const _BankingWallet28Icon();
+
+  /// outline style
+  _BankingWallet28Outline get outline => const _BankingWallet28Outline();
+}
+
+/// Wallet 28 — outline style variants.
+class _BankingWallet28Outline {
+  const _BankingWallet28Outline();
+
+  /// Wallet 28 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 28',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9769 10.6573C15.2367 10.6573 14.637 11.257 14.637 11.9963C14.637 12.7356 15.2367 13.3353 15.9769 13.3353H20.9994C21.4136 13.3353 21.7494 13.6711 21.7494 14.0853C21.7494 14.4995 21.4136 14.8353 20.9994 14.8353H15.9769C14.4092 14.8353 13.137 13.5649 13.137 11.9963C13.137 10.4277 14.4092 9.15735 15.9769 9.15735H20.9994C21.4136 9.15735 21.7494 9.49314 21.7494 9.90735C21.7494 10.3216 21.4136 10.6573 20.9994 10.6573H15.9769Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 8.25562C2.25 5.31946 4.63 2.93945 7.56616 2.93945H16.4338C19.37 2.93945 21.75 5.31946 21.75 8.25562V15.7446C21.75 18.6807 19.37 21.0608 16.4338 21.0608H7.56616C4.63 21.0608 2.25 18.6807 2.25 15.7446V8.25562ZM7.56616 4.43945C5.45843 4.43945 3.75 6.14788 3.75 8.25562V15.7446C3.75 17.8523 5.45843 19.5608 7.56616 19.5608H16.4338C18.5416 19.5608 20.25 17.8523 20.25 15.7446V8.25562C20.25 6.14788 18.5416 4.43945 16.4338 4.43945H7.56616Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.11377 10.0315C8.52798 10.0315 8.86377 10.3673 8.86377 10.7815V13.211C8.86377 13.6252 8.52798 13.961 8.11377 13.961C7.69956 13.961 7.36377 13.6252 7.36377 13.211V10.7815C7.36377 10.3673 7.69956 10.0315 8.11377 10.0315Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 29 icon with style variants.
+class _BankingWallet29Icon {
+  const _BankingWallet29Icon();
+
+  /// outline style
+  _BankingWallet29Outline get outline => const _BankingWallet29Outline();
+}
+
+/// Wallet 29 — outline style variants.
+class _BankingWallet29Outline {
+  const _BankingWallet29Outline();
+
+  /// Wallet 29 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 29',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.646 10.0948C15.9639 10.0948 15.4121 10.6471 15.4121 11.3286V12.4232C15.4121 13.1048 15.9639 13.6571 16.646 13.6571H20.9999C21.4142 13.6571 21.7499 13.9929 21.7499 14.4071C21.7499 14.8213 21.4142 15.1571 20.9999 15.1571H16.646C15.135 15.1571 13.9121 13.9327 13.9121 12.4232V11.3286C13.9121 9.81912 15.135 8.59479 16.646 8.59479H20.9999C21.4142 8.59479 21.7499 8.93057 21.7499 9.34479C21.7499 9.759 21.4142 10.0948 20.9999 10.0948H16.646Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2434 11.819C16.2434 11.4048 16.5792 11.069 16.9934 11.069H16.9963C17.4106 11.069 17.7463 11.4048 17.7463 11.819C17.7463 12.2332 17.4106 12.569 16.9963 12.569H16.9934C16.5792 12.569 16.2434 12.2332 16.2434 11.819Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.9358 4.43945C5.6238 4.43945 3.75 6.31325 3.75 8.62526V15.3747C3.75 17.6867 5.6238 19.5605 7.9358 19.5605H16.0639C18.3759 19.5605 20.2497 17.6867 20.2497 15.3747V8.62526C20.2497 6.31325 18.3759 4.43945 16.0639 4.43945H7.9358ZM2.25 8.62526C2.25 5.48482 4.79537 2.93945 7.9358 2.93945H16.0639C19.2043 2.93945 21.7497 5.48482 21.7497 8.62526V15.3747C21.7497 18.5151 19.2043 21.0605 16.0639 21.0605H7.9358C4.79537 21.0605 2.25 18.5151 2.25 15.3747V8.62526Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 30 icon with style variants.
+class _BankingWallet30Icon {
+  const _BankingWallet30Icon();
+
+  /// twoTone style
+  _BankingWallet30Twotone get twoTone => const _BankingWallet30Twotone();
+}
+
+/// Wallet 30 — twoTone style variants.
+class _BankingWallet30Twotone {
+  const _BankingWallet30Twotone();
+
+  /// Wallet 30 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 30',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.9984 14.4053H17.1912C15.793 14.4053 14.6605 13.2718 14.6605 11.8736C14.6605 10.4764 15.793 9.3429 17.1912 9.3429H20.9984" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.8171H16.9937" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.6114V8.62339C3 5.89712 5.20962 3.6875 7.93589 3.6875H16.0641C18.7904 3.6875 21 5.89712 21 8.62339V15.3729C21 18.0992 18.7904 20.3088 16.0641 20.3088H11.6974" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.43795 17.5904H3M5.71748 20.3108V14.8729" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 31 icon with style variants.
+class _BankingWallet31Icon {
+  const _BankingWallet31Icon();
+
+  /// twoTone style
+  _BankingWallet31Twotone get twoTone => const _BankingWallet31Twotone();
+}
+
+/// Wallet 31 — twoTone style variants.
+class _BankingWallet31Twotone {
+  const _BankingWallet31Twotone();
+
+  /// Wallet 31 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 31',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.9984 14.4053H17.1912C15.793 14.4053 14.6605 13.2718 14.6605 11.8736C14.6605 10.4764 15.793 9.3429 17.1912 9.3429H20.9984" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.8171H16.9937" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.6114V8.62339C3 5.89712 5.20962 3.6875 7.93589 3.6875H16.0641C18.7904 3.6875 21 5.89712 21 8.62339V15.3729C21 18.0992 18.7904 20.3088 16.0641 20.3088H11.6974" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.43795 17.5904H3M5.71748 20.3108V14.8729" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 32 icon with style variants.
+class _BankingWallet32Icon {
+  const _BankingWallet32Icon();
+
+  /// twoTone style
+  _BankingWallet32Twotone get twoTone => const _BankingWallet32Twotone();
+}
+
+/// Wallet 32 — twoTone style variants.
+class _BankingWallet32Twotone {
+  const _BankingWallet32Twotone();
+
+  /// Wallet 32 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 32',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 8.72329V8.72563" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.4548 5.05194H16.2052C18.8497 5.05194 21 7.20221 21 9.85648V15.9327C21 18.586 18.8497 20.7363 16.2052 20.7363H7.80454C5.15124 20.7363 3 18.586 3 15.9327V9.85648C3 7.20221 5.15124 5.05194 7.80454 5.05194H9.53351" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4613 5.16584V9.41871C14.4613 10.4685 13.611 11.3189 12.5611 11.3189H11.4393C10.3904 11.3189 9.53906 10.4685 9.53906 9.41871V5.16584C9.53906 4.116 10.3904 3.26562 11.4393 3.26562H12.5611C13.611 3.26562 14.4613 4.116 14.4613 5.16584Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 33 icon with style variants.
+class _BankingWallet33Icon {
+  const _BankingWallet33Icon();
+
+  /// twoTone style
+  _BankingWallet33Twotone get twoTone => const _BankingWallet33Twotone();
+}
+
+/// Wallet 33 — twoTone style variants.
+class _BankingWallet33Twotone {
+  const _BankingWallet33Twotone();
+
+  /// Wallet 33 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 33',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.9995 14.0853H15.977C14.823 14.0853 13.887 13.1503 13.887 11.9963C13.887 10.8424 14.823 9.90736 15.977 9.90736H20.9995" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4338 3.68945H7.56616C5.04422 3.68945 3 5.73367 3 8.25562V15.7446C3 18.2665 5.04422 20.3108 7.56616 20.3108H16.4338C18.9558 20.3108 21 18.2665 21 15.7446V8.25562C21 5.73367 18.9558 3.68945 16.4338 3.68945Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.11381 10.7815V13.211" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 34 icon with style variants.
+class _BankingWallet34Icon {
+  const _BankingWallet34Icon();
+
+  /// twoTone style
+  _BankingWallet34Twotone get twoTone => const _BankingWallet34Twotone();
+}
+
+/// Wallet 34 — twoTone style variants.
+class _BankingWallet34Twotone {
+  const _BankingWallet34Twotone();
+
+  /// Wallet 34 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 34',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21 14.407H17.1928C15.7947 14.407 14.6622 13.2736 14.6622 11.8754C14.6622 10.4783 15.7947 9.34476 17.1928 9.34476H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9964 11.819H16.9934" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.9358 3.68945H16.0639C18.7901 3.68945 20.9997 5.89904 20.9997 8.62526V15.3747C20.9997 18.1009 18.7901 20.3105 16.0639 20.3105H7.9358C5.20958 20.3105 3 18.1009 3 15.3747V8.62526C3 5.89904 5.20958 3.68945 7.9358 3.68945Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.26617 7.95754H12.345" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet 35 icon with style variants.
+class _BankingWallet35Icon {
+  const _BankingWallet35Icon();
+
+  /// twoTone style
+  _BankingWallet35Twotone get twoTone => const _BankingWallet35Twotone();
+}
+
+/// Wallet 35 — twoTone style variants.
+class _BankingWallet35Twotone {
+  const _BankingWallet35Twotone();
+
+  /// Wallet 35 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet 35',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21 14.407H16.646C15.5495 14.407 14.6622 13.5187 14.6622 12.4232V11.3286C14.6622 10.2331 15.5495 9.34476 16.646 9.34476H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9964 11.819H16.9934" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.9358 3.68945H16.0639C18.7901 3.68945 20.9997 5.89904 20.9997 8.62526V15.3747C20.9997 18.1009 18.7901 20.3105 16.0639 20.3105H7.9358C5.20958 20.3105 3 18.1009 3 15.3747V8.62526C3 5.89904 5.20958 3.68945 7.9358 3.68945Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -314,93 +2266,8 @@ class _BankingWalletLight {
 class _BankingBankCardRecieveIcon {
   const _BankingBankCardRecieveIcon();
 
-  /// bold style
-  _BankingBankCardRecieveBold get bold => const _BankingBankCardRecieveBold();
-  /// bulk style
-  _BankingBankCardRecieveBulk get bulk => const _BankingBankCardRecieveBulk();
   /// light style
   _BankingBankCardRecieveLight get light => const _BankingBankCardRecieveLight();
-  /// outline style
-  _BankingBankCardRecieveOutline get outline => const _BankingBankCardRecieveOutline();
-  /// twoTone style
-  _BankingBankCardRecieveTwotone get twoTone => const _BankingBankCardRecieveTwotone();
-  /// broken style
-  _BankingBankCardRecieveBroken get broken => const _BankingBankCardRecieveBroken();
-}
-
-/// Bank Card recieve — bulk style variants.
-class _BankingBankCardRecieveBulk {
-  const _BankingBankCardRecieveBulk();
-
-  /// Bank Card recieve — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card recieve',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.30146 9.875C3.13578 9.875 3.00146 10.0093 3.00146 10.175V14.575C3.00146 17.375 4.79146 19.245 7.46146 19.245H7.79414C8.05127 19.245 8.2028 18.929 8.09152 18.6972C7.64498 17.7671 7.81207 16.6144 8.58146 15.845C8.94184 15.4846 9.39354 15.2577 9.86001 15.1642C10.0123 15.1337 10.1315 15.0059 10.1315 14.8506V13.865C10.1315 12.475 11.2515 11.365 12.6315 11.365C14.0115 11.365 15.1315 12.475 15.1315 13.865V14.8506C15.1315 15.0059 15.2506 15.1337 15.4028 15.1649C15.8693 15.2606 16.3211 15.4946 16.6815 15.855C17.4507 16.6242 17.6179 17.7697 17.1717 18.6973C17.0603 18.9291 17.2117 19.245 17.4688 19.245H17.5315C20.2015 19.245 22.0015 17.375 22.0015 14.575V10.175C22.0015 10.0093 21.8672 9.875 21.7015 9.875H3.30146Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.9965 7.99813C21.9965 5.20513 20.2025 3.32812 17.5325 3.32812H7.46153C4.79153 3.32812 2.99854 5.20513 2.99854 7.99813V8.07812C2.99854 8.24381 3.13285 8.37813 3.29854 8.37813H21.6965C21.8622 8.37813 21.9965 8.24381 21.9965 8.07812V7.99813Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3847 17.0918L13.3817 18.0968V13.8618C13.3817 13.4468 13.0457 13.1118 12.6317 13.1118C12.2177 13.1118 11.8817 13.4468 11.8817 13.8618V18.0978L10.8787 17.0918C10.5867 16.7978 10.1107 16.7978 9.81773 17.0898C9.52473 17.3828 9.52373 17.8578 9.81573 18.1508L12.0827 20.4238C12.2197 20.5738 12.4127 20.6708 12.6317 20.6708C12.8537 20.6708 13.0477 20.5698 13.1847 20.4168L15.4467 18.1508C15.7387 17.8578 15.7387 17.3828 15.4457 17.0898C15.1517 16.7978 14.6767 16.7958 14.3847 17.0918Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card recieve — broken style variants.
-class _BankingBankCardRecieveBroken {
-  const _BankingBankCardRecieveBroken();
-
-  /// Bank Card recieve — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card recieve',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.2491 11.6106V8.53521C21.2491 6.09414 19.7284 4.36914 17.2844 4.36914H7.21467C4.77749 4.36914 3.25 6.09414 3.25 8.53521" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1375 19.288H7.21467C4.77068 19.288 3.25 17.563 3.25 15.122V11.8281" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.20056 9.34388H17.2976" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.929 17.5831H21.2501" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9847 15.5352L14.929 17.5822L16.9847 19.6302" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card recieve — twoTone style variants.
-class _BankingBankCardRecieveTwotone {
-  const _BankingBankCardRecieveTwotone();
-
-  /// Bank Card recieve — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card recieve',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12.1973V8.70631C21 6.26414 19.4792 4.53906 17.0351 4.53906H6.96486C4.52757 4.53906 3 6.26414 3 8.70631V15.2933C3 17.7355 4.52076 19.4606 6.96486 19.4606H10.7137" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.83341H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.0999 16.9673H20.717M16.4369 14.6375L14.0999 16.9648L16.4369 19.2912" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card recieve — outline style variants.
-class _BankingBankCardRecieveOutline {
-  const _BankingBankCardRecieveOutline();
-
-  /// Bank Card recieve — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card recieve',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.51983 5.19549C4.36279 4.29115 5.5605 3.78906 6.96486 3.78906H17.0351C18.4424 3.78906 19.6405 4.29086 20.483 5.19583C21.3199 6.09473 21.75 7.33043 21.75 8.70631V12.1973C21.75 12.6115 21.4142 12.9473 21 12.9473C20.5858 12.9473 20.25 12.6115 20.25 12.1973V8.70631C20.25 7.64002 19.9197 6.7921 19.3852 6.21792C18.8563 5.6498 18.0719 5.28906 17.0351 5.28906H6.96486C5.93193 5.28906 5.14721 5.64951 4.61707 6.21826C4.08146 6.79286 3.75 7.6409 3.75 8.70631V15.2933C3.75 16.3596 4.08028 17.2075 4.61483 17.7817C5.14373 18.3498 5.92807 18.7106 6.96486 18.7106H10.7137C11.1279 18.7106 11.4637 19.0464 11.4637 19.4606C11.4637 19.8748 11.1279 20.2106 10.7137 20.2106H6.96486C5.55755 20.2106 4.35946 19.7088 3.51696 18.8038C2.68009 17.9049 2.25 16.6692 2.25 15.2933V8.70631C2.25 7.32955 2.68232 6.09397 3.51983 5.19549Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.83337C2.25 9.41916 2.58579 9.08337 3 9.08337H21C21.4142 9.08337 21.75 9.41916 21.75 9.83337C21.75 10.2476 21.4142 10.5834 21 10.5834H3C2.58579 10.5834 2.25 10.2476 2.25 9.83337Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3499 16.9673C13.3499 16.5531 13.6856 16.2173 14.0999 16.2173H20.717C21.1313 16.2173 21.467 16.5531 21.467 16.9673C21.467 17.3815 21.1313 17.7173 20.717 17.7173H14.0999C13.6856 17.7173 13.3499 17.3815 13.3499 16.9673Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.9684 14.1082C17.2607 14.4017 17.2597 14.8766 16.9662 15.1689L15.1628 16.9647L16.966 18.7596C17.2596 19.0519 17.2607 19.5267 16.9685 19.8203C16.6763 20.1139 16.2014 20.1149 15.9078 19.8227L13.5707 17.4963C13.4294 17.3556 13.3499 17.1644 13.3499 16.9649C13.3498 16.7654 13.4293 16.5741 13.5706 16.4334L15.9077 14.106C16.2012 13.8137 16.6761 13.8147 16.9684 14.1082Z" fill="black"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card recieve — bold style variants.
-class _BankingBankCardRecieveBold {
-  const _BankingBankCardRecieveBold();
-
-  /// Bank Card recieve — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card recieve',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0235 3.51953H6.9525C4.2835 3.51953 2.4895 5.39653 2.4895 8.18953V8.26953C2.4895 8.43522 2.62382 8.56953 2.7895 8.56953H21.1875C21.3532 8.56953 21.4875 8.43522 21.4875 8.26953V8.18953C21.4875 5.39653 19.6935 3.51953 17.0235 3.51953Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.48926 14.7693C2.48926 17.5623 4.28326 19.4393 6.95226 19.4393H11.8399C12.1078 19.4393 12.2413 19.1135 12.0812 18.8988C12.0024 18.7932 11.9304 18.6813 11.8673 18.5593C11.8363 18.4993 11.7973 18.4433 11.7713 18.3803C11.7263 18.2743 11.6983 18.1613 11.6683 18.0493C11.6563 18.0033 11.6363 17.9603 11.6263 17.9133C11.5933 17.7503 11.5753 17.5833 11.5753 17.4153C11.5753 17.2453 11.5933 17.0773 11.6263 16.9133C11.6373 16.8603 11.6583 16.8123 11.6723 16.7613C11.7013 16.6543 11.7283 16.5473 11.7703 16.4453C11.7973 16.3823 11.8353 16.3263 11.8663 16.2663C11.9103 16.1823 11.9493 16.0953 12.0023 16.0153C12.0283 15.9763 12.0633 15.9443 12.0913 15.9073C12.1603 15.8163 12.2273 15.7233 12.3093 15.6413L14.6463 13.3113C15.6243 12.3363 17.2073 12.3393 18.1823 13.3163C18.5543 13.6901 18.7768 14.152 18.8623 14.6345C18.8897 14.7898 19.0186 14.9124 19.1762 14.9083C19.8039 14.8921 20.4682 14.8372 21.0859 14.9508C21.2797 14.9865 21.4745 14.8524 21.4823 14.6555C21.5384 13.2313 21.494 11.7954 21.4879 10.3693C21.4872 10.2036 21.3529 10.0693 21.1873 10.0693H2.78926C2.62357 10.0693 2.48926 10.2037 2.48926 10.3693V14.7693Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.6934 16.6623H15.8894L16.9414 15.6133C17.2354 15.3203 17.2354 14.8463 16.9434 14.5533C16.6504 14.2593 16.1754 14.2593 15.8824 14.5513L13.5464 16.8813C13.4964 16.9303 13.4644 16.9923 13.4314 17.0523C13.4174 17.0763 13.3964 17.0953 13.3854 17.1213C13.3464 17.2123 13.3254 17.3113 13.3254 17.4133C13.3254 17.5143 13.3464 17.6133 13.3854 17.7043C13.3874 17.7093 13.3924 17.7123 13.3944 17.7173C13.4314 17.8013 13.4814 17.8793 13.5474 17.9443L15.8834 20.2653C16.0304 20.4103 16.2204 20.4823 16.4124 20.4823C16.6044 20.4823 16.7974 20.4083 16.9444 20.2613C17.2364 19.9673 17.2344 19.4923 16.9404 19.2003L15.8954 18.1623H20.6934C21.1074 18.1623 21.4434 17.8263 21.4434 17.4123C21.4434 16.9983 21.1074 16.6623 20.6934 16.6623Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Bank Card recieve — light style variants.
@@ -410,9 +2277,676 @@ class _BankingBankCardRecieveLight {
   /// Bank Card recieve — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Bank Card recieve',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.87891 14.9503C4.87891 17.1365 6.24003 18.6815 8.42911 18.6815H17.4471C19.6362 18.6815 20.9973 17.1365 20.9973 14.9503V9.05148C20.9973 6.86434 19.6362 5.32031 17.4471 5.32031H8.58672" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.0977 10.0646H21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.61914 14.8419H11.2772" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.8224 11.2438V5.91797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.64652 9.41406L4.82326 11.2451L3 9.41406" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.61914 14.8419H11.2772" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 1 icon with style variants.
+class _BankingBankCardRecieve1Icon {
+  const _BankingBankCardRecieve1Icon();
+
+  /// light style
+  _BankingBankCardRecieve1Light get light => const _BankingBankCardRecieve1Light();
+}
+
+/// Bank Card recieve 1 — light style variants.
+class _BankingBankCardRecieve1Light {
+  const _BankingBankCardRecieve1Light();
+
+  /// Bank Card recieve 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.0351 19.1159C19.4802 19.1159 21 17.3908 21 14.9496V8.36158C21 5.91942 19.4802 4.19531 17.0361 4.19531H6.96486C4.52854 4.19531 3 5.91942 3 8.36158V14.9496C3 17.3908 4.52076 19.1159 6.96486 19.1159" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0002 19.8077V13.7539" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.71582 17.5117L11.9994 19.805L14.2839 17.5117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.49039H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 2 icon with style variants.
+class _BankingBankCardRecieve2Icon {
+  const _BankingBankCardRecieve2Icon();
+
+  /// light style
+  _BankingBankCardRecieve2Light get light => const _BankingBankCardRecieve2Light();
+}
+
+/// Bank Card recieve 2 — light style variants.
+class _BankingBankCardRecieve2Light {
+  const _BankingBankCardRecieve2Light();
+
+  /// Bank Card recieve 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12.1973V8.70631C21 6.26414 19.4792 4.53906 17.0351 4.53906H6.96486C4.52757 4.53906 3 6.26414 3 8.70631V15.2933C3 17.7355 4.52076 19.4606 6.96486 19.4606H10.7137" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.83414H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.8457 17.0451H20.9993" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.8444 19.0545L13.8564 17.0434L16.8444 15.0312V19.0545Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.17871 15.1974H10.1473" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 3 icon with style variants.
+class _BankingBankCardRecieve3Icon {
+  const _BankingBankCardRecieve3Icon();
+
+  /// light style
+  _BankingBankCardRecieve3Light get light => const _BankingBankCardRecieve3Light();
+}
+
+/// Bank Card recieve 3 — light style variants.
+class _BankingBankCardRecieve3Light {
+  const _BankingBankCardRecieve3Light();
+
+  /// Bank Card recieve 3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9991 11.6087V8.53325C20.9991 6.09218 19.4784 4.36719 17.0344 4.36719H6.96467C4.52749 4.36719 3 6.09218 3 8.53325V15.1209C3 17.562 4.52068 19.287 6.96467 19.287H10.8875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.9502 9.34584H17.0472" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6787 17.5841H20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7345 15.5352L14.6787 17.5822L16.7345 19.6302" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 4 icon with style variants.
+class _BankingBankCardRecieve4Icon {
+  const _BankingBankCardRecieve4Icon();
+
+  /// light style
+  _BankingBankCardRecieve4Light get light => const _BankingBankCardRecieve4Light();
+}
+
+/// Bank Card recieve 4 — light style variants.
+class _BankingBankCardRecieve4Light {
+  const _BankingBankCardRecieve4Light();
+
+  /// Bank Card recieve 4 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12.1973V8.70631C21 6.26414 19.4792 4.53906 17.0351 4.53906H6.96486C4.52757 4.53906 3 6.26414 3 8.70631V15.2933C3 17.7355 4.52076 19.4606 6.96486 19.4606H10.7137" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.83414H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0996 16.967H20.7168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4367 14.6367L14.0996 16.9641L16.4367 19.2904" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 5 icon with style variants.
+class _BankingBankCardRecieve5Icon {
+  const _BankingBankCardRecieve5Icon();
+
+  /// broken style
+  _BankingBankCardRecieve5Broken get broken => const _BankingBankCardRecieve5Broken();
+}
+
+/// Bank Card recieve 5 — broken style variants.
+class _BankingBankCardRecieve5Broken {
+  const _BankingBankCardRecieve5Broken();
+
+  /// Bank Card recieve 5 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.2491 11.6106V8.53521C21.2491 6.09414 19.7284 4.36914 17.2844 4.36914H7.21467C4.77749 4.36914 3.25 6.09414 3.25 8.53521" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1375 19.288H7.21467C4.77068 19.288 3.25 17.563 3.25 15.122V11.8281" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.20056 9.34388H17.2976" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.929 17.5831H21.2501" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9847 15.5352L14.929 17.5822L16.9847 19.6302" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 6 icon with style variants.
+class _BankingBankCardRecieve6Icon {
+  const _BankingBankCardRecieve6Icon();
+
+  /// broken style
+  _BankingBankCardRecieve6Broken get broken => const _BankingBankCardRecieve6Broken();
+}
+
+/// Bank Card recieve 6 — broken style variants.
+class _BankingBankCardRecieve6Broken {
+  const _BankingBankCardRecieve6Broken();
+
+  /// Bank Card recieve 6 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.2851 19.1139C19.7302 19.1139 21.25 17.3888 21.25 14.9476V8.35963C21.25 5.91747 19.7302 4.19336 17.2861 4.19336H12.2505" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.21486 19.1159C4.77076 19.1159 3.25 17.3908 3.25 14.9496V8.36158C3.25 5.91942 4.77854 4.19531 7.21486 4.19531H9.01294" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.25 19.8058V13.752" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.96582 17.5107L12.2494 19.804L14.5339 17.5107" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.49121H17.8039" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 7 icon with style variants.
+class _BankingBankCardRecieve7Icon {
+  const _BankingBankCardRecieve7Icon();
+
+  /// broken style
+  _BankingBankCardRecieve7Broken get broken => const _BankingBankCardRecieve7Broken();
+}
+
+/// Bank Card recieve 7 — broken style variants.
+class _BankingBankCardRecieve7Broken {
+  const _BankingBankCardRecieve7Broken();
+
+  /// Bank Card recieve 7 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.25 12.1973V8.70631C21.25 6.26414 19.7292 4.53906 17.2851 4.53906H12.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.9637 19.4606H7.21486C4.77076 19.4606 3.25 17.7355 3.25 15.2933V8.70631C3.25 6.26414 4.77757 4.53906 7.21486 4.53906H8.74709" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.83301H17.7528" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3499 16.9668H20.967" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.6869 14.6377L14.3499 16.965L16.6869 19.2914" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 8 icon with style variants.
+class _BankingBankCardRecieve8Icon {
+  const _BankingBankCardRecieve8Icon();
+
+  /// broken style
+  _BankingBankCardRecieve8Broken get broken => const _BankingBankCardRecieve8Broken();
+}
+
+/// Bank Card recieve 8 — broken style variants.
+class _BankingBankCardRecieve8Broken {
+  const _BankingBankCardRecieve8Broken();
+
+  /// Bank Card recieve 8 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 8',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.9637 19.4606H7.21486C4.77076 19.4606 3.25 17.7355 3.25 15.2933V8.70631C3.25 6.26414 4.77757 4.53906 7.21486 4.53906H8.37629" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.25 12.1973V8.70631C21.25 6.26414 19.7292 4.53906 17.2851 4.53906H12.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.83301H21.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0958 17.043H21.2494" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0947 19.0564L14.1067 17.0453L17.0947 15.0332V19.0564Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.42883 15.1963H10.3974" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 9 icon with style variants.
+class _BankingBankCardRecieve9Icon {
+  const _BankingBankCardRecieve9Icon();
+
+  /// broken style
+  _BankingBankCardRecieve9Broken get broken => const _BankingBankCardRecieve9Broken();
+}
+
+/// Bank Card recieve 9 — broken style variants.
+class _BankingBankCardRecieve9Broken {
+  const _BankingBankCardRecieve9Broken();
+
+  /// Bank Card recieve 9 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 9',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.2491 11.6106V8.53521C21.2491 6.09414 19.7284 4.36914 17.2844 4.36914H7.21467C4.77749 4.36914 3.25 6.09414 3.25 8.53521" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1375 19.288H7.21467C4.77068 19.288 3.25 17.563 3.25 15.122V11.8281" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.20056 9.34388H17.2976" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.929 17.5831H21.2501" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9847 15.5352L14.929 17.5822L16.9847 19.6302" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 10 icon with style variants.
+class _BankingBankCardRecieve10Icon {
+  const _BankingBankCardRecieve10Icon();
+
+  /// bold style
+  _BankingBankCardRecieve10Bold get bold => const _BankingBankCardRecieve10Bold();
+}
+
+/// Bank Card recieve 10 — bold style variants.
+class _BankingBankCardRecieve10Bold {
+  const _BankingBankCardRecieve10Bold();
+
+  /// Bank Card recieve 10 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5697 4.57422H8.1797C7.9045 4.57422 7.64218 4.59569 7.39274 4.63581C7.19794 4.66714 7.10439 4.8842 7.17296 5.0692C7.27314 5.33948 7.3297 5.63214 7.3297 5.93422V6.79101C7.3297 6.92349 7.41727 7.03871 7.54073 7.08676C7.86252 7.212 8.16478 7.3993 8.4197 7.65422C8.79737 8.03189 9.03417 8.50112 9.11827 8.99099C9.1453 9.14845 9.27507 9.27422 9.43484 9.27422H21.4397C21.6054 9.27422 21.7397 9.1399 21.7397 8.97422V8.93422C21.7397 6.32422 20.0597 4.57422 17.5697 4.57422Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8398 14.9543C11.8398 15.3443 11.5298 15.6543 11.1498 15.6543H8.37983C7.98983 15.6543 7.67983 15.3443 7.67983 14.9543C7.67983 14.5743 7.98983 14.2543 8.37983 14.2543H11.1498C11.5298 14.2543 11.8398 14.5743 11.8398 14.9543ZM8.42983 11.1843L6.59983 13.0143C6.54983 13.0743 6.48983 13.1343 6.41983 13.1843C5.96983 13.5543 5.41983 13.7543 4.82983 13.7543C4.69157 13.7543 4.55331 13.7421 4.41745 13.7189C4.21417 13.6843 4.00983 13.8294 4.00983 14.0356V15.0643C4.00983 17.6743 5.68983 19.4243 8.17983 19.4243H17.5698C20.0598 19.4243 21.7398 17.6743 21.7398 15.0643V10.9743C21.7398 10.8086 21.6055 10.6743 21.4398 10.6743H8.98808C8.88357 10.6743 8.78747 10.7293 8.72886 10.8158C8.64004 10.9469 8.54037 11.0738 8.42983 11.1843Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.54402 11.9461C4.61402 11.9751 4.69002 11.9841 4.76602 11.9911C4.78902 11.9931 4.80902 12.0041 4.83202 12.0041C4.93302 12.0041 5.03202 11.9841 5.12302 11.9451C5.17702 11.9231 5.22002 11.8831 5.26702 11.8491C5.29902 11.8261 5.33602 11.8121 5.36402 11.7831L7.18702 9.95308C7.48002 9.66008 7.47902 9.18508 7.18602 8.89308C6.89202 8.60108 6.41702 8.60108 6.12502 8.89508L5.58202 9.44008V5.93408C5.58202 5.52008 5.24602 5.18408 4.83202 5.18408C4.41802 5.18408 4.08202 5.52008 4.08202 5.93408V9.43808L3.54102 8.89508C3.24902 8.60108 2.77402 8.60108 2.48002 8.89308C2.18702 9.18508 2.18602 9.66008 2.47902 9.95308L4.30002 11.7811C4.36902 11.8511 4.45202 11.9081 4.54402 11.9461Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 11 icon with style variants.
+class _BankingBankCardRecieve11Icon {
+  const _BankingBankCardRecieve11Icon();
+
+  /// bold style
+  _BankingBankCardRecieve11Bold get bold => const _BankingBankCardRecieve11Bold();
+}
+
+/// Bank Card recieve 11 — bold style variants.
+class _BankingBankCardRecieve11Bold {
+  const _BankingBankCardRecieve11Bold();
+
+  /// Bank Card recieve 11 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4965 7.99813C21.4965 5.20513 19.7025 3.32812 17.0325 3.32812H6.96153C4.29153 3.32812 2.49854 5.20513 2.49854 7.99813V8.07812C2.49854 8.24381 2.63285 8.37813 2.79854 8.37813H21.1965C21.3622 8.37813 21.4965 8.24381 21.4965 8.07812V7.99813Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.80122 9.87598C2.63553 9.87598 2.50122 10.0103 2.50122 10.176V14.576C2.50122 17.376 4.29122 19.246 6.96122 19.246H7.29389C7.55103 19.246 7.70256 18.9299 7.59127 18.6981C7.14473 17.7681 7.31183 16.6154 8.08122 15.846C8.4416 15.4856 8.89329 15.2587 9.35977 15.1652C9.51209 15.1347 9.63122 15.0069 9.63122 14.8516V13.866C9.63122 12.476 10.7512 11.366 12.1312 11.366C13.5112 11.366 14.6312 12.476 14.6312 13.866V14.8516C14.6312 15.0069 14.7504 15.1347 14.9026 15.1659C15.3691 15.2616 15.8208 15.4956 16.1812 15.856C16.9504 16.6252 17.1176 17.7707 16.6715 18.6983C16.56 18.93 16.7114 19.246 16.9685 19.246H17.0312C19.7012 19.246 21.5012 17.376 21.5012 14.576V10.176C21.5012 10.0103 21.3669 9.87598 21.2012 9.87598H2.80122Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8847 17.0918L12.8817 18.0968V13.8618C12.8817 13.4468 12.5457 13.1118 12.1317 13.1118C11.7177 13.1118 11.3817 13.4468 11.3817 13.8618V18.0978L10.3787 17.0918C10.0867 16.7978 9.61073 16.7978 9.31773 17.0898C9.02473 17.3828 9.02373 17.8578 9.31573 18.1508L11.5827 20.4238C11.7197 20.5738 11.9127 20.6708 12.1317 20.6708C12.3537 20.6708 12.5477 20.5698 12.6847 20.4168L14.9467 18.1508C15.2387 17.8578 15.2387 17.3828 14.9457 17.0898C14.6517 16.7978 14.1767 16.7958 13.8847 17.0918Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 12 icon with style variants.
+class _BankingBankCardRecieve12Icon {
+  const _BankingBankCardRecieve12Icon();
+
+  /// bold style
+  _BankingBankCardRecieve12Bold get bold => const _BankingBankCardRecieve12Bold();
+}
+
+/// Bank Card recieve 12 — bold style variants.
+class _BankingBankCardRecieve12Bold {
+  const _BankingBankCardRecieve12Bold();
+
+  /// Bank Card recieve 12 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.3009 8.54316C21.3009 5.69716 19.4729 3.78516 16.7519 3.78516H6.46695C3.74695 3.78516 1.91895 5.69716 1.91895 8.54316V8.63816C1.91895 8.80384 2.05326 8.93816 2.21895 8.93816H21.0009C21.1666 8.93816 21.3009 8.80384 21.3009 8.63816V8.54316Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.71595 15.8905H6.68495C6.27095 15.8905 5.93495 15.5545 5.93495 15.1405C5.93495 14.7265 6.27095 14.3905 6.68495 14.3905H9.71595C10.1299 14.3905 10.4659 14.7265 10.4659 15.1405C10.4659 15.5545 10.1299 15.8905 9.71595 15.8905ZM11.6889 17.7065C11.6879 16.8755 12.0999 16.0985 12.7889 15.6325L15.7769 13.6135C16.5429 13.0965 17.5329 13.0435 18.3489 13.4765C18.9427 13.7921 19.3611 14.3312 19.5493 14.9563C19.5905 15.0931 19.7117 15.1945 19.8546 15.1945H21.0009C21.1666 15.1945 21.3009 15.0602 21.3009 14.8945V10.7375C21.3009 10.5718 21.1666 10.4375 21.0009 10.4375H2.21894C2.05326 10.4375 1.91895 10.5718 1.91895 10.7375V15.2625C1.91895 18.1095 3.74695 20.0215 6.46695 20.0215H12.171C12.4672 20.0215 12.6008 19.6124 12.3965 19.398C11.9699 18.9504 11.6898 18.4069 11.6889 17.7065Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.3311 16.9442H17.9761C17.8105 16.9442 17.6761 16.8099 17.6761 16.6442V15.6842C17.6761 15.5002 17.5741 15.3302 17.4111 15.2432C17.2481 15.1562 17.0491 15.1682 16.8961 15.2702L13.9091 17.2902C13.7711 17.3822 13.6881 17.5382 13.6881 17.7052C13.6881 17.8712 13.7711 18.0262 13.9091 18.1192L16.8971 20.1302C16.9811 20.1862 17.0791 20.2152 17.1761 20.2152C17.2571 20.2152 17.3371 20.1952 17.4111 20.1562C17.5741 20.0692 17.6761 19.8992 17.6761 19.7152V18.7442C17.6761 18.5785 17.8105 18.4442 17.9761 18.4442H21.3311C21.7451 18.4442 22.0811 18.1082 22.0811 17.6942C22.0811 17.2802 21.7451 16.9442 21.3311 16.9442Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 13 icon with style variants.
+class _BankingBankCardRecieve13Icon {
+  const _BankingBankCardRecieve13Icon();
+
+  /// bold style
+  _BankingBankCardRecieve13Bold get bold => const _BankingBankCardRecieve13Bold();
+}
+
+/// Bank Card recieve 13 — bold style variants.
+class _BankingBankCardRecieve13Bold {
+  const _BankingBankCardRecieve13Bold();
+
+  /// Bank Card recieve 13 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 13',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.77686 9.99025C6.36286 9.99025 6.02686 9.65425 6.02686 9.24025C6.02686 8.82625 6.36286 8.49025 6.77686 8.49025H17.1069C17.5209 8.49025 17.8569 8.82625 17.8569 9.24025C17.8569 9.65425 17.5209 9.99025 17.1069 9.99025H6.77686ZM12.6749 19.0033C12.6579 18.9803 12.6369 18.9602 12.6209 18.9373C12.5579 18.8442 12.5099 18.7423 12.4609 18.6423C12.4379 18.5963 12.4089 18.5553 12.3889 18.5083C12.3369 18.3843 12.3009 18.2542 12.2699 18.1233C12.2629 18.0953 12.2509 18.0693 12.2449 18.0413C12.2109 17.8763 12.1929 17.7083 12.1929 17.5372C12.1929 17.3672 12.2119 17.2002 12.2449 17.0363C12.2469 17.0273 12.2509 17.0192 12.2529 17.0103C12.2859 16.8593 12.3299 16.7112 12.3899 16.5702C12.4099 16.5222 12.4399 16.4802 12.4629 16.4342C12.5519 16.2542 12.6639 16.0862 12.7949 15.9312C12.8399 15.8782 12.8779 15.8203 12.9269 15.7723C12.9289 15.7703 12.9299 15.7673 12.9319 15.7653L14.9879 13.7253C15.9679 12.7523 17.5509 12.7583 18.5239 13.7393C18.8281 14.0459 19.0354 14.411 19.1481 14.798C19.1885 14.9367 19.3105 15.0402 19.455 15.0402H21.0149C21.1007 15.0402 21.185 15.0458 21.2678 15.0558C21.4633 15.0794 21.6499 14.9384 21.6499 14.7415V8.42225C21.6499 5.57125 19.8189 3.65625 17.0939 3.65625H6.78986C4.06586 3.65625 2.23486 5.57125 2.23486 8.42225V15.1543C2.23486 18.0052 4.06586 19.9202 6.78986 19.9202H12.8138C13.0811 19.9202 13.2149 19.5969 13.0257 19.4079L12.9279 19.3103C12.8329 19.2163 12.7529 19.1103 12.6749 19.0033Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0151 16.7902H16.5131L17.2771 16.0322C17.5711 15.7402 17.5731 15.2662 17.2811 14.9722C16.9901 14.6792 16.5151 14.6752 16.2211 14.9682L14.1641 17.0082C14.0231 17.1482 13.9431 17.3402 13.9431 17.5392C13.9431 17.7392 14.0221 17.9312 14.1631 18.0712L16.2201 20.1212C16.3661 20.2672 16.5571 20.3402 16.7491 20.3402C16.9411 20.3402 17.1341 20.2672 17.2801 20.1192C17.5731 19.8262 17.5721 19.3522 17.2781 19.0592L16.5071 18.2902H21.0151C21.4291 18.2902 21.7651 17.9542 21.7651 17.5402C21.7651 17.1262 21.4291 16.7902 21.0151 16.7902Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 14 icon with style variants.
+class _BankingBankCardRecieve14Icon {
+  const _BankingBankCardRecieve14Icon();
+
+  /// bold style
+  _BankingBankCardRecieve14Bold get bold => const _BankingBankCardRecieve14Bold();
+}
+
+/// Bank Card recieve 14 — bold style variants.
+class _BankingBankCardRecieve14Bold {
+  const _BankingBankCardRecieve14Bold();
+
+  /// Bank Card recieve 14 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 14',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0235 3.51953H6.9525C4.2835 3.51953 2.4895 5.39653 2.4895 8.18953V8.26953C2.4895 8.43522 2.62382 8.56953 2.7895 8.56953H21.1875C21.3532 8.56953 21.4875 8.43522 21.4875 8.26953V8.18953C21.4875 5.39653 19.6935 3.51953 17.0235 3.51953Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.48926 14.7693C2.48926 17.5623 4.28326 19.4393 6.95226 19.4393H11.8399C12.1078 19.4393 12.2413 19.1135 12.0812 18.8988C12.0024 18.7932 11.9304 18.6813 11.8673 18.5593C11.8363 18.4993 11.7973 18.4433 11.7713 18.3803C11.7263 18.2743 11.6983 18.1613 11.6683 18.0493C11.6563 18.0033 11.6363 17.9603 11.6263 17.9133C11.5933 17.7503 11.5753 17.5833 11.5753 17.4153C11.5753 17.2453 11.5933 17.0773 11.6263 16.9133C11.6373 16.8603 11.6583 16.8123 11.6723 16.7613C11.7013 16.6543 11.7283 16.5473 11.7703 16.4453C11.7973 16.3823 11.8353 16.3263 11.8663 16.2663C11.9103 16.1823 11.9493 16.0953 12.0023 16.0153C12.0283 15.9763 12.0633 15.9443 12.0913 15.9073C12.1603 15.8163 12.2273 15.7233 12.3093 15.6413L14.6463 13.3113C15.6243 12.3363 17.2073 12.3393 18.1823 13.3163C18.5543 13.6901 18.7768 14.152 18.8623 14.6345C18.8897 14.7898 19.0186 14.9124 19.1762 14.9083C19.8039 14.8921 20.4682 14.8372 21.0859 14.9508C21.2797 14.9865 21.4745 14.8524 21.4823 14.6555C21.5384 13.2313 21.494 11.7954 21.4879 10.3693C21.4872 10.2036 21.3529 10.0693 21.1873 10.0693H2.78926C2.62357 10.0693 2.48926 10.2037 2.48926 10.3693V14.7693Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.6934 16.6623H15.8894L16.9414 15.6133C17.2354 15.3203 17.2354 14.8463 16.9434 14.5533C16.6504 14.2593 16.1754 14.2593 15.8824 14.5513L13.5464 16.8813C13.4964 16.9303 13.4644 16.9923 13.4314 17.0523C13.4174 17.0763 13.3964 17.0953 13.3854 17.1213C13.3464 17.2123 13.3254 17.3113 13.3254 17.4133C13.3254 17.5143 13.3464 17.6133 13.3854 17.7043C13.3874 17.7093 13.3924 17.7123 13.3944 17.7173C13.4314 17.8013 13.4814 17.8793 13.5474 17.9443L15.8834 20.2653C16.0304 20.4103 16.2204 20.4823 16.4124 20.4823C16.6044 20.4823 16.7974 20.4083 16.9444 20.2613C17.2364 19.9673 17.2344 19.4923 16.9404 19.2003L15.8954 18.1623H20.6934C21.1074 18.1623 21.4434 17.8263 21.4434 17.4123C21.4434 16.9983 21.1074 16.6623 20.6934 16.6623Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 15 icon with style variants.
+class _BankingBankCardRecieve15Icon {
+  const _BankingBankCardRecieve15Icon();
+
+  /// bulk style
+  _BankingBankCardRecieve15Bulk get bulk => const _BankingBankCardRecieve15Bulk();
+}
+
+/// Bank Card recieve 15 — bulk style variants.
+class _BankingBankCardRecieve15Bulk {
+  const _BankingBankCardRecieve15Bulk();
+
+  /// Bank Card recieve 15 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 15',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.30146 9.875C3.13578 9.875 3.00146 10.0093 3.00146 10.175V14.575C3.00146 17.375 4.79146 19.245 7.46146 19.245H7.79414C8.05127 19.245 8.2028 18.929 8.09152 18.6972C7.64498 17.7671 7.81207 16.6144 8.58146 15.845C8.94184 15.4846 9.39354 15.2577 9.86001 15.1642C10.0123 15.1337 10.1315 15.0059 10.1315 14.8506V13.865C10.1315 12.475 11.2515 11.365 12.6315 11.365C14.0115 11.365 15.1315 12.475 15.1315 13.865V14.8506C15.1315 15.0059 15.2506 15.1337 15.4028 15.1649C15.8693 15.2606 16.3211 15.4946 16.6815 15.855C17.4507 16.6242 17.6179 17.7697 17.1717 18.6973C17.0603 18.9291 17.2117 19.245 17.4688 19.245H17.5315C20.2015 19.245 22.0015 17.375 22.0015 14.575V10.175C22.0015 10.0093 21.8672 9.875 21.7015 9.875H3.30146Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.9965 7.99813C21.9965 5.20513 20.2025 3.32812 17.5325 3.32812H7.46153C4.79153 3.32812 2.99854 5.20513 2.99854 7.99813V8.07812C2.99854 8.24381 3.13285 8.37813 3.29854 8.37813H21.6965C21.8622 8.37813 21.9965 8.24381 21.9965 8.07812V7.99813Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3847 17.0918L13.3817 18.0968V13.8618C13.3817 13.4468 13.0457 13.1118 12.6317 13.1118C12.2177 13.1118 11.8817 13.4468 11.8817 13.8618V18.0978L10.8787 17.0918C10.5867 16.7978 10.1107 16.7978 9.81773 17.0898C9.52473 17.3828 9.52373 17.8578 9.81573 18.1508L12.0827 20.4238C12.2197 20.5738 12.4127 20.6708 12.6317 20.6708C12.8537 20.6708 13.0477 20.5698 13.1847 20.4168L15.4467 18.1508C15.7387 17.8578 15.7387 17.3828 15.4457 17.0898C15.1517 16.7978 14.6767 16.7958 14.3847 17.0918Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 16 icon with style variants.
+class _BankingBankCardRecieve16Icon {
+  const _BankingBankCardRecieve16Icon();
+
+  /// bulk style
+  _BankingBankCardRecieve16Bulk get bulk => const _BankingBankCardRecieve16Bulk();
+}
+
+/// Bank Card recieve 16 — bulk style variants.
+class _BankingBankCardRecieve16Bulk {
+  const _BankingBankCardRecieve16Bulk();
+
+  /// Bank Card recieve 16 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 16',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M10.2159 15.8905H7.18495C6.77095 15.8905 6.43495 15.5545 6.43495 15.1405C6.43495 14.7265 6.77095 14.3905 7.18495 14.3905H10.2159C10.6299 14.3905 10.9659 14.7265 10.9659 15.1405C10.9659 15.5545 10.6299 15.8905 10.2159 15.8905ZM12.1889 17.7065C12.1879 16.8755 12.5999 16.0985 13.2889 15.6325L16.2769 13.6135C17.0429 13.0965 18.0329 13.0435 18.8489 13.4765C19.4427 13.7921 19.8611 14.3312 20.0493 14.9563C20.0905 15.0931 20.2117 15.1945 20.3546 15.1945H21.5009C21.6666 15.1945 21.8009 15.0602 21.8009 14.8945V10.7375C21.8009 10.5718 21.6666 10.4375 21.5009 10.4375H2.71894C2.55326 10.4375 2.41895 10.5718 2.41895 10.7375V15.2625C2.41895 18.1095 4.24695 20.0215 6.96695 20.0215H12.671C12.9672 20.0215 13.1008 19.6124 12.8965 19.398C12.4699 18.9504 12.1898 18.4069 12.1889 17.7065Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8009 8.54316C21.8009 5.69716 19.9729 3.78516 17.2519 3.78516H6.96695C4.24695 3.78516 2.41895 5.69716 2.41895 8.54316V8.63816C2.41895 8.80384 2.55326 8.93816 2.71895 8.93816H21.5009C21.6666 8.93816 21.8009 8.80384 21.8009 8.63816V8.54316Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.8311 16.9442H18.4761C18.3105 16.9442 18.1761 16.8099 18.1761 16.6442V15.6842C18.1761 15.5002 18.0741 15.3302 17.9111 15.2432C17.7481 15.1562 17.5491 15.1682 17.3961 15.2702L14.4091 17.2902C14.2711 17.3822 14.1881 17.5382 14.1881 17.7052C14.1881 17.8712 14.2711 18.0262 14.4091 18.1192L17.3971 20.1302C17.4811 20.1862 17.5791 20.2152 17.6761 20.2152C17.7571 20.2152 17.8371 20.1952 17.9111 20.1562C18.0741 20.0692 18.1761 19.8992 18.1761 19.7152V18.7442C18.1761 18.5785 18.3105 18.4442 18.4761 18.4442H21.8311C22.2451 18.4442 22.5811 18.1082 22.5811 17.6942C22.5811 17.2802 22.2451 16.9442 21.8311 16.9442Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 17 icon with style variants.
+class _BankingBankCardRecieve17Icon {
+  const _BankingBankCardRecieve17Icon();
+
+  /// bulk style
+  _BankingBankCardRecieve17Bulk get bulk => const _BankingBankCardRecieve17Bulk();
+}
+
+/// Bank Card recieve 17 — bulk style variants.
+class _BankingBankCardRecieve17Bulk {
+  const _BankingBankCardRecieve17Bulk();
+
+  /// Bank Card recieve 17 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 17',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.0697 4.57422H8.6797C8.4045 4.57422 8.14218 4.59569 7.89274 4.63581C7.69794 4.66714 7.60439 4.8842 7.67296 5.0692C7.77314 5.33948 7.8297 5.63214 7.8297 5.93422V6.79101C7.8297 6.92349 7.91727 7.03871 8.04073 7.08676C8.36252 7.212 8.66478 7.3993 8.9197 7.65422C9.29737 8.03189 9.53417 8.50112 9.61827 8.99099C9.6453 9.14845 9.77507 9.27422 9.93484 9.27422H21.9397C22.1054 9.27422 22.2397 9.1399 22.2397 8.97422V8.93422C22.2397 6.32422 20.5597 4.57422 18.0697 4.57422Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.04402 11.9461C5.11402 11.9751 5.19002 11.9841 5.26602 11.9911C5.28902 11.9931 5.30902 12.0041 5.33202 12.0041C5.43302 12.0041 5.53202 11.9841 5.62302 11.9451C5.67702 11.9231 5.72002 11.8831 5.76702 11.8491C5.79902 11.8261 5.83602 11.8121 5.86402 11.7831L7.68702 9.95308C7.98002 9.66008 7.97902 9.18508 7.68602 8.89308C7.39202 8.60108 6.91702 8.60108 6.62502 8.89508L6.08202 9.44008V5.93408C6.08202 5.52008 5.74602 5.18408 5.33202 5.18408C4.91802 5.18408 4.58202 5.52008 4.58202 5.93408V9.43808L4.04102 8.89508C3.74902 8.60108 3.27402 8.60108 2.98002 8.89308C2.68702 9.18508 2.68602 9.66008 2.97902 9.95308L4.80002 11.7811C4.86902 11.8511 4.95202 11.9081 5.04402 11.9461Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.3398 14.9558C12.3398 15.3458 12.0298 15.6558 11.6498 15.6558H8.87977C8.48977 15.6558 8.17977 15.3458 8.17977 14.9558C8.17977 14.5758 8.48977 14.2558 8.87977 14.2558H11.6498C12.0298 14.2558 12.3398 14.5758 12.3398 14.9558ZM8.92977 11.1858L7.09977 13.0158C7.04977 13.0758 6.98977 13.1358 6.91977 13.1858C6.46977 13.5558 5.91977 13.7558 5.32977 13.7558C5.1915 13.7558 5.05324 13.7436 4.91739 13.7204C4.71411 13.6857 4.50977 13.8309 4.50977 14.0371V15.0658C4.50977 17.6758 6.18977 19.4258 8.67977 19.4258H18.0698C20.5598 19.4258 22.2398 17.6758 22.2398 15.0658V10.9758C22.2398 10.8101 22.1055 10.6758 21.9398 10.6758H9.48802C9.38351 10.6758 9.28741 10.7308 9.2288 10.8173C9.13998 10.9484 9.0403 11.0752 8.92977 11.1858Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 18 icon with style variants.
+class _BankingBankCardRecieve18Icon {
+  const _BankingBankCardRecieve18Icon();
+
+  /// bulk style
+  _BankingBankCardRecieve18Bulk get bulk => const _BankingBankCardRecieve18Bulk();
+}
+
+/// Bank Card recieve 18 — bulk style variants.
+class _BankingBankCardRecieve18Bulk {
+  const _BankingBankCardRecieve18Bulk();
+
+  /// Bank Card recieve 18 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 18',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.1749 19.0033C13.1579 18.9803 13.1369 18.9602 13.1209 18.9373C13.0579 18.8442 13.0099 18.7423 12.9609 18.6423C12.9379 18.5963 12.9089 18.5553 12.8889 18.5083C12.8369 18.3843 12.8009 18.2542 12.7699 18.1233C12.7629 18.0953 12.7509 18.0693 12.7449 18.0413C12.7109 17.8763 12.6929 17.7083 12.6929 17.5372C12.6929 17.3672 12.7119 17.2002 12.7449 17.0363C12.7469 17.0273 12.7509 17.0192 12.7529 17.0103C12.7859 16.8593 12.8299 16.7112 12.8899 16.5702C12.9099 16.5222 12.9399 16.4802 12.9629 16.4342C13.0519 16.2542 13.1639 16.0862 13.2949 15.9312C13.3399 15.8782 13.3779 15.8203 13.4269 15.7723C13.4289 15.7703 13.4299 15.7673 13.4319 15.7653L15.4879 13.7253C16.4679 12.7523 18.0509 12.7583 19.0239 13.7393C19.3281 14.0459 19.5354 14.411 19.6481 14.798C19.6885 14.9367 19.8105 15.0402 19.955 15.0402H21.5149C21.6007 15.0402 21.685 15.0458 21.7678 15.0558C21.9633 15.0794 22.1499 14.9384 22.1499 14.7415V8.42225C22.1499 5.57125 20.3189 3.65625 17.5939 3.65625H7.28986C4.56586 3.65625 2.73486 5.57125 2.73486 8.42225V15.1543C2.73486 18.0052 4.56586 19.9202 7.28986 19.9202H13.3138C13.5811 19.9202 13.7149 19.5969 13.5257 19.4079L13.4279 19.3103C13.3329 19.2163 13.2529 19.1103 13.1749 19.0033Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5151 16.7922H17.0131L17.7771 16.0342C18.0711 15.7422 18.0731 15.2682 17.7811 14.9742C17.4901 14.6812 17.0151 14.6772 16.7211 14.9702L14.6641 17.0102C14.5231 17.1502 14.4431 17.3422 14.4431 17.5412C14.4431 17.7412 14.5221 17.9332 14.6631 18.0732L16.7201 20.1232C16.8661 20.2692 17.0571 20.3422 17.2491 20.3422C17.4411 20.3422 17.6341 20.2692 17.7801 20.1212C18.0731 19.8282 18.0721 19.3542 17.7781 19.0612L17.0071 18.2922H21.5151C21.9291 18.2922 22.2651 17.9562 22.2651 17.5422C22.2651 17.1282 21.9291 16.7922 21.5151 16.7922Z" fill="black"/> <path d="M7.27686 9.99219C6.86286 9.99219 6.52686 9.65619 6.52686 9.24219C6.52686 8.82819 6.86286 8.49219 7.27686 8.49219H17.6069C18.0209 8.49219 18.3569 8.82819 18.3569 9.24219C18.3569 9.65619 18.0209 9.99219 17.6069 9.99219H7.27686Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 19 icon with style variants.
+class _BankingBankCardRecieve19Icon {
+  const _BankingBankCardRecieve19Icon();
+
+  /// bulk style
+  _BankingBankCardRecieve19Bulk get bulk => const _BankingBankCardRecieve19Bulk();
+}
+
+/// Bank Card recieve 19 — bulk style variants.
+class _BankingBankCardRecieve19Bulk {
+  const _BankingBankCardRecieve19Bulk();
+
+  /// Bank Card recieve 19 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 19',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M2.9895 14.7703C2.9895 17.5633 4.7835 19.4403 7.4525 19.4403H12.3402C12.608 19.4403 12.7415 19.1145 12.5814 18.8998C12.5026 18.7941 12.4306 18.6822 12.3675 18.5603C12.3365 18.5003 12.2975 18.4443 12.2715 18.3813C12.2265 18.2753 12.1985 18.1623 12.1685 18.0503C12.1565 18.0043 12.1365 17.9613 12.1265 17.9143C12.0935 17.7513 12.0755 17.5843 12.0755 17.4163C12.0755 17.2463 12.0935 17.0783 12.1265 16.9143C12.1375 16.8613 12.1585 16.8133 12.1725 16.7623C12.2015 16.6553 12.2285 16.5483 12.2705 16.4463C12.2975 16.3833 12.3355 16.3273 12.3665 16.2673C12.4105 16.1833 12.4495 16.0963 12.5025 16.0163C12.5285 15.9773 12.5635 15.9453 12.5915 15.9083C12.6605 15.8173 12.7275 15.7243 12.8095 15.6423L15.1465 13.3123C16.1245 12.3373 17.7075 12.3403 18.6825 13.3173C19.0545 13.691 19.2771 14.1529 19.3625 14.6355C19.39 14.7907 19.5188 14.9134 19.6765 14.9093C20.3041 14.893 20.9684 14.8382 21.5862 14.9518C21.78 14.9874 21.9747 14.8534 21.9825 14.6565C22.0386 13.2323 21.9942 11.7964 21.9882 10.3703C21.9875 10.2046 21.8532 10.0703 21.6875 10.0703H3.2895C3.12382 10.0703 2.9895 10.2046 2.9895 10.3703V14.7703Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5237 3.51953H7.45275C4.78375 3.51953 2.98975 5.39653 2.98975 8.18953V8.26953C2.98975 8.43522 3.12406 8.56953 3.28975 8.56953H21.6877C21.8534 8.56953 21.9877 8.43522 21.9877 8.26953V8.18953C21.9877 5.39653 20.1937 3.51953 17.5237 3.51953Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.1936 16.6623H16.3896L17.4416 15.6133C17.7356 15.3203 17.7356 14.8463 17.4436 14.5533C17.1506 14.2593 16.6756 14.2593 16.3826 14.5513L14.0466 16.8813C13.9966 16.9303 13.9646 16.9923 13.9316 17.0523C13.9176 17.0763 13.8966 17.0953 13.8856 17.1213C13.8466 17.2123 13.8256 17.3113 13.8256 17.4133C13.8256 17.5143 13.8466 17.6133 13.8856 17.7043C13.8876 17.7093 13.8926 17.7123 13.8946 17.7173C13.9316 17.8013 13.9816 17.8793 14.0476 17.9443L16.3836 20.2653C16.5306 20.4103 16.7206 20.4823 16.9126 20.4823C17.1046 20.4823 17.2976 20.4083 17.4446 20.2613C17.7366 19.9673 17.7346 19.4923 17.4406 19.2003L16.3956 18.1623H21.1936C21.6076 18.1623 21.9436 17.8263 21.9436 17.4123C21.9436 16.9983 21.6076 16.6623 21.1936 16.6623Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 20 icon with style variants.
+class _BankingBankCardRecieve20Icon {
+  const _BankingBankCardRecieve20Icon();
+
+  /// outline style
+  _BankingBankCardRecieve20Outline get outline => const _BankingBankCardRecieve20Outline();
+}
+
+/// Bank Card recieve 20 — outline style variants.
+class _BankingBankCardRecieve20Outline {
+  const _BankingBankCardRecieve20Outline();
+
+  /// Bank Card recieve 20 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 20',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.52032 4.84916C4.3634 3.94516 5.56105 3.44336 6.96486 3.44336H17.0361C18.4433 3.44336 19.6412 3.94484 20.4835 4.84964C21.3202 5.74838 21.75 6.98387 21.75 8.35963V14.9476C21.75 16.323 21.3202 17.5584 20.4834 18.4573C19.641 19.3621 18.4429 19.8639 17.0351 19.8639C16.6209 19.8639 16.2851 19.5281 16.2851 19.1139C16.2851 18.6997 16.6209 18.3639 17.0351 18.3639C18.0725 18.3639 18.8568 18.0031 19.3855 17.4352C19.9199 16.8611 20.25 16.0135 20.25 14.9476V8.35963C20.25 7.29322 19.9199 6.44559 19.3857 5.87172C18.8571 5.30393 18.073 4.94336 17.0361 4.94336H6.96486C5.93235 4.94336 5.14757 5.30362 4.6173 5.87221C4.08162 6.4466 3.75 7.29436 3.75 8.35963V14.9476C3.75 16.0134 4.08024 16.861 4.61479 17.4351C5.1437 18.0032 5.92806 18.3639 6.96486 18.3639C7.37908 18.3639 7.71486 18.6997 7.71486 19.1139C7.71486 19.5281 7.37908 19.8639 6.96486 19.8639C5.55756 19.8639 4.35949 19.3621 3.517 18.4573C2.68014 17.5585 2.25 16.3231 2.25 14.9476V8.35963C2.25 6.98274 2.68265 5.74736 3.52032 4.84916Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 13.0021C12.4142 13.0021 12.75 13.3379 12.75 13.7521V19.8059C12.75 20.2201 12.4142 20.5559 12 20.5559C11.5858 20.5559 11.25 20.2201 11.25 19.8059V13.7521C11.25 13.3379 11.5858 13.0021 12 13.0021Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.18662 16.9795C9.48013 16.6872 9.95501 16.6882 10.2473 16.9817L11.9995 18.7414L13.7526 16.9816C14.0449 16.6882 14.5198 16.6872 14.8132 16.9796C15.1067 17.2719 15.1076 17.7468 14.8153 18.0402L12.5307 20.3335C12.39 20.4748 12.1987 20.5542 11.9993 20.5542C11.7999 20.5542 11.6087 20.4747 11.4679 20.3334L9.18436 18.0401C8.89209 17.7466 8.8931 17.2717 9.18662 16.9795Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.49152C2.25 9.0773 2.58579 8.74152 3 8.74152H21C21.4142 8.74152 21.75 9.0773 21.75 9.49152C21.75 9.90573 21.4142 10.2415 21 10.2415H3C2.58579 10.2415 2.25 9.90573 2.25 9.49152Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 21 icon with style variants.
+class _BankingBankCardRecieve21Icon {
+  const _BankingBankCardRecieve21Icon();
+
+  /// outline style
+  _BankingBankCardRecieve21Outline get outline => const _BankingBankCardRecieve21Outline();
+}
+
+/// Bank Card recieve 21 — outline style variants.
+class _BankingBankCardRecieve21Outline {
+  const _BankingBankCardRecieve21Outline();
+
+  /// Bank Card recieve 21 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 21',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.83721 5.32031C7.83721 4.9061 8.173 4.57031 8.58721 4.57031H17.4476C18.7273 4.57031 19.8218 5.02676 20.5926 5.85466C21.3577 6.6765 21.7478 7.80323 21.7478 9.05148V14.9503C21.7478 16.1981 21.3577 17.3248 20.5926 18.1467C19.8219 18.9747 18.7274 19.4315 17.4476 19.4315H8.4296C7.14979 19.4315 6.05534 18.9747 5.28462 18.1467C4.51956 17.3248 4.12939 16.1981 4.12939 14.9503C4.12939 14.5361 4.46518 14.2003 4.87939 14.2003C5.29361 14.2003 5.62939 14.5361 5.62939 14.9503C5.62939 15.8886 5.91979 16.6276 6.38256 17.1247C6.83967 17.6158 7.52032 17.9315 8.4296 17.9315H17.4476C18.3569 17.9315 19.0376 17.6158 19.4947 17.1247C19.9574 16.6276 20.2478 15.8886 20.2478 14.9503V9.05148C20.2478 8.11259 19.9574 7.37374 19.4947 6.87678C19.0377 6.38588 18.3571 6.07031 17.4476 6.07031H8.58721C8.173 6.07031 7.83721 5.73453 7.83721 5.32031Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.34741 10.0633C9.34741 9.64908 9.6832 9.31329 10.0974 9.31329H21C21.4142 9.31329 21.75 9.64908 21.75 10.0633C21.75 10.4775 21.4142 10.8133 21 10.8133H10.0974C9.6832 10.8133 9.34741 10.4775 9.34741 10.0633Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.86914 14.8405C7.86914 14.4263 8.20493 14.0905 8.61914 14.0905H11.2772C11.6914 14.0905 12.0272 14.4263 12.0272 14.8405C12.0272 15.2547 11.6914 15.5905 11.2772 15.5905H8.61914C8.20493 15.5905 7.86914 15.2547 7.86914 14.8405Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.82227 5.16699C5.23648 5.16699 5.57227 5.50278 5.57227 5.91699V11.2428C5.57227 11.657 5.23648 11.9928 4.82227 11.9928C4.40805 11.9928 4.07227 11.657 4.07227 11.2428V5.91699C4.07227 5.50278 4.40805 5.16699 4.82227 5.16699Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.4708 8.88199C2.76432 8.58973 3.23919 8.59074 3.53146 8.88425L4.82326 10.1816L6.11506 8.88425C6.40733 8.59074 6.8822 8.58973 7.17572 8.88199C7.46924 9.17426 7.47025 9.64913 7.17798 9.94265L5.35472 11.7737C5.21398 11.915 5.02273 11.9945 4.82326 11.9945C4.62379 11.9945 4.43254 11.915 4.2918 11.7737L2.46854 9.94265C2.17627 9.64913 2.17728 9.17426 2.4708 8.88199Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.86914 14.8405C7.86914 14.4263 8.20493 14.0905 8.61914 14.0905H11.2772C11.6914 14.0905 12.0272 14.4263 12.0272 14.8405C12.0272 15.2547 11.6914 15.5905 11.2772 15.5905H8.61914C8.20493 15.5905 7.86914 15.2547 7.86914 14.8405Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 22 icon with style variants.
+class _BankingBankCardRecieve22Icon {
+  const _BankingBankCardRecieve22Icon();
+
+  /// outline style
+  _BankingBankCardRecieve22Outline get outline => const _BankingBankCardRecieve22Outline();
+}
+
+/// Bank Card recieve 22 — outline style variants.
+class _BankingBankCardRecieve22Outline {
+  const _BankingBankCardRecieve22Outline();
+
+  /// Bank Card recieve 22 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 22',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.51983 5.19549C4.36279 4.29115 5.5605 3.78906 6.96486 3.78906H17.0351C18.4424 3.78906 19.6405 4.29086 20.483 5.19583C21.3199 6.09473 21.75 7.33043 21.75 8.70631V12.1973C21.75 12.6115 21.4142 12.9473 21 12.9473C20.5858 12.9473 20.25 12.6115 20.25 12.1973V8.70631C20.25 7.64002 19.9197 6.7921 19.3852 6.21792C18.8563 5.6498 18.0719 5.28906 17.0351 5.28906H6.96486C5.93193 5.28906 5.14721 5.64951 4.61707 6.21826C4.08146 6.79286 3.75 7.6409 3.75 8.70631V15.2933C3.75 16.3596 4.08028 17.2075 4.61483 17.7817C5.14373 18.3498 5.92807 18.7106 6.96486 18.7106H10.7137C11.1279 18.7106 11.4637 19.0464 11.4637 19.4606C11.4637 19.8748 11.1279 20.2106 10.7137 20.2106H6.96486C5.55755 20.2106 4.35946 19.7088 3.51696 18.8038C2.68009 17.9049 2.25 16.6692 2.25 15.2933V8.70631C2.25 7.32955 2.68232 6.09397 3.51983 5.19549Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.83337C2.25 9.41916 2.58579 9.08337 3 9.08337H21C21.4142 9.08337 21.75 9.41916 21.75 9.83337C21.75 10.2476 21.4142 10.5834 21 10.5834H3C2.58579 10.5834 2.25 10.2476 2.25 9.83337Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0959 17.0433C16.0959 16.6291 16.4317 16.2933 16.8459 16.2933H20.9996C21.4138 16.2933 21.7496 16.6291 21.7496 17.0433C21.7496 17.4575 21.4138 17.7933 20.9996 17.7933H16.8459C16.4317 17.7933 16.0959 17.4575 16.0959 17.0433Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.197 14.3706C17.4418 14.5009 17.5947 14.7555 17.5947 15.0327V19.056C17.5947 19.3332 17.4418 19.5877 17.1971 19.718C16.9524 19.8483 16.6559 19.8329 16.4259 19.6782L13.4379 17.667C13.2309 17.5277 13.1067 17.2945 13.1067 17.0449C13.1067 16.7953 13.2308 16.5621 13.4378 16.4227L16.4258 14.4106C16.6557 14.2558 16.9523 14.2404 17.197 14.3706ZM15.1997 17.0447L16.0947 17.6471V16.442L15.1997 17.0447Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.42896 15.1962C6.42896 14.782 6.76474 14.4462 7.17896 14.4462H10.1475C10.5617 14.4462 10.8975 14.782 10.8975 15.1962C10.8975 15.6104 10.5617 15.9462 10.1475 15.9462H7.17896C6.76474 15.9462 6.42896 15.6104 6.42896 15.1962Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 23 icon with style variants.
+class _BankingBankCardRecieve23Icon {
+  const _BankingBankCardRecieve23Icon();
+
+  /// outline style
+  _BankingBankCardRecieve23Outline get outline => const _BankingBankCardRecieve23Outline();
+}
+
+/// Bank Card recieve 23 — outline style variants.
+class _BankingBankCardRecieve23Outline {
+  const _BankingBankCardRecieve23Outline();
+
+  /// Bank Card recieve 23 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 23',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.51982 5.02534C4.36273 4.1212 5.56037 3.61914 6.96467 3.61914H17.0344C18.4417 3.61914 19.6397 4.12092 20.4822 5.02568C21.319 5.9244 21.7491 7.15981 21.7491 8.53521V11.6106C21.7491 12.0248 21.4133 12.3606 20.9991 12.3606C20.5849 12.3606 20.2491 12.0248 20.2491 11.6106V8.53521C20.2491 7.46954 19.9189 6.62191 19.3844 6.04786C18.8555 5.47986 18.0712 5.11914 17.0344 5.11914H6.96467C5.93179 5.11914 5.1471 5.47958 4.61697 6.0482C4.0814 6.62268 3.75 7.47042 3.75 8.53521V15.1229C3.75 16.1886 4.08022 17.0362 4.61473 17.6102C5.14362 18.1782 5.92793 18.539 6.96467 18.539H10.8875C11.3017 18.539 11.6375 18.8747 11.6375 19.289C11.6375 19.7032 11.3017 20.039 10.8875 20.039H6.96467C5.55742 20.039 4.3594 19.5372 3.51695 18.6324C2.68012 17.7337 2.25 16.4983 2.25 15.1229V8.53521C2.25 7.15893 2.68235 5.92364 3.51982 5.02534Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.20068 9.34399C6.20068 8.92978 6.53647 8.59399 6.95068 8.59399H17.0477C17.4619 8.59399 17.7977 8.92978 17.7977 9.34399C17.7977 9.75821 17.4619 10.094 17.0477 10.094H6.95068C6.53647 10.094 6.20068 9.75821 6.20068 9.34399Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.929 17.5834C13.929 17.1692 14.2647 16.8334 14.679 16.8334H21.0001C21.4143 16.8334 21.7501 17.1692 21.7501 17.5834C21.7501 17.9976 21.4143 18.3334 21.0001 18.3334H14.679C14.2647 18.3334 13.929 17.9976 13.929 17.5834Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2662 15.0058C17.5585 15.2993 17.5575 15.7742 17.2639 16.0664L15.7418 17.5821L17.2641 19.0987C17.5575 19.391 17.5584 19.8659 17.2661 20.1593C16.9737 20.4528 16.4989 20.4537 16.2054 20.1614L14.1496 18.1133C14.0083 17.9726 13.9289 17.7814 13.929 17.5819C13.929 17.3825 14.0084 17.1913 14.1498 17.0505L16.2055 15.0035C16.4991 14.7112 16.9739 14.7123 17.2662 15.0058Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 24 icon with style variants.
+class _BankingBankCardRecieve24Icon {
+  const _BankingBankCardRecieve24Icon();
+
+  /// outline style
+  _BankingBankCardRecieve24Outline get outline => const _BankingBankCardRecieve24Outline();
+}
+
+/// Bank Card recieve 24 — outline style variants.
+class _BankingBankCardRecieve24Outline {
+  const _BankingBankCardRecieve24Outline();
+
+  /// Bank Card recieve 24 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 24',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.51983 5.19549C4.36279 4.29115 5.5605 3.78906 6.96486 3.78906H17.0351C18.4424 3.78906 19.6405 4.29086 20.483 5.19583C21.3199 6.09473 21.75 7.33043 21.75 8.70631V12.1973C21.75 12.6115 21.4142 12.9473 21 12.9473C20.5858 12.9473 20.25 12.6115 20.25 12.1973V8.70631C20.25 7.64002 19.9197 6.7921 19.3852 6.21792C18.8563 5.6498 18.0719 5.28906 17.0351 5.28906H6.96486C5.93193 5.28906 5.14721 5.64951 4.61707 6.21826C4.08146 6.79286 3.75 7.6409 3.75 8.70631V15.2933C3.75 16.3596 4.08028 17.2075 4.61483 17.7817C5.14373 18.3498 5.92807 18.7106 6.96486 18.7106H10.7137C11.1279 18.7106 11.4637 19.0464 11.4637 19.4606C11.4637 19.8748 11.1279 20.2106 10.7137 20.2106H6.96486C5.55755 20.2106 4.35946 19.7088 3.51696 18.8038C2.68009 17.9049 2.25 16.6692 2.25 15.2933V8.70631C2.25 7.32955 2.68232 6.09397 3.51983 5.19549Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.83337C2.25 9.41916 2.58579 9.08337 3 9.08337H21C21.4142 9.08337 21.75 9.41916 21.75 9.83337C21.75 10.2476 21.4142 10.5834 21 10.5834H3C2.58579 10.5834 2.25 10.2476 2.25 9.83337Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3499 16.9673C13.3499 16.5531 13.6856 16.2173 14.0999 16.2173H20.717C21.1313 16.2173 21.467 16.5531 21.467 16.9673C21.467 17.3815 21.1313 17.7173 20.717 17.7173H14.0999C13.6856 17.7173 13.3499 17.3815 13.3499 16.9673Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.9684 14.1082C17.2607 14.4017 17.2597 14.8766 16.9662 15.1689L15.1628 16.9647L16.966 18.7596C17.2596 19.0519 17.2607 19.5267 16.9685 19.8203C16.6763 20.1139 16.2014 20.1149 15.9078 19.8227L13.5707 17.4963C13.4294 17.3556 13.3499 17.1644 13.3499 16.9649C13.3498 16.7654 13.4293 16.5741 13.5706 16.4334L15.9077 14.106C16.2012 13.8137 16.6761 13.8147 16.9684 14.1082Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 25 icon with style variants.
+class _BankingBankCardRecieve25Icon {
+  const _BankingBankCardRecieve25Icon();
+
+  /// twoTone style
+  _BankingBankCardRecieve25Twotone get twoTone => const _BankingBankCardRecieve25Twotone();
+}
+
+/// Bank Card recieve 25 — twoTone style variants.
+class _BankingBankCardRecieve25Twotone {
+  const _BankingBankCardRecieve25Twotone();
+
+  /// Bank Card recieve 25 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 25',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.87933 14.9503C4.87933 17.1365 6.24045 18.6815 8.42953 18.6815H17.4476C19.6367 18.6815 20.9978 17.1365 20.9978 14.9503V9.05148C20.9978 6.86434 19.6367 5.32031 17.4476 5.32031H8.58715" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.0974 10.0633H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.61902 14.8405H11.277" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M4.82233 11.2428V5.91699M6.64652 9.41344L4.82326 11.2445L3 9.41344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.61902 14.8405H11.277" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 26 icon with style variants.
+class _BankingBankCardRecieve26Icon {
+  const _BankingBankCardRecieve26Icon();
+
+  /// twoTone style
+  _BankingBankCardRecieve26Twotone get twoTone => const _BankingBankCardRecieve26Twotone();
+}
+
+/// Bank Card recieve 26 — twoTone style variants.
+class _BankingBankCardRecieve26Twotone {
+  const _BankingBankCardRecieve26Twotone();
+
+  /// Bank Card recieve 26 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 26',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.0351 19.1139C19.4802 19.1139 21 17.3888 21 14.9476V8.35963C21 5.91747 19.4802 4.19336 17.0361 4.19336H6.96486C4.52854 4.19336 3 5.91747 3 8.35963V14.9476C3 17.3888 4.52076 19.1139 6.96486 19.1139" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12 19.8059V13.7521M9.71579 17.5109L11.9994 19.8042L14.2839 17.5109" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.4915H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 27 icon with style variants.
+class _BankingBankCardRecieve27Icon {
+  const _BankingBankCardRecieve27Icon();
+
+  /// twoTone style
+  _BankingBankCardRecieve27Twotone get twoTone => const _BankingBankCardRecieve27Twotone();
+}
+
+/// Bank Card recieve 27 — twoTone style variants.
+class _BankingBankCardRecieve27Twotone {
+  const _BankingBankCardRecieve27Twotone();
+
+  /// Bank Card recieve 27 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 27',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12.1973V8.70631C21 6.26414 19.4792 4.53906 17.0351 4.53906H6.96486C4.52757 4.53906 3 6.26414 3 8.70631V15.2933C3 17.7355 4.52076 19.4606 6.96486 19.4606H10.7137" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.83341H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.0999 16.9673H20.717M16.4369 14.6375L14.0999 16.9648L16.4369 19.2912" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 28 icon with style variants.
+class _BankingBankCardRecieve28Icon {
+  const _BankingBankCardRecieve28Icon();
+
+  /// twoTone style
+  _BankingBankCardRecieve28Twotone get twoTone => const _BankingBankCardRecieve28Twotone();
+}
+
+/// Bank Card recieve 28 — twoTone style variants.
+class _BankingBankCardRecieve28Twotone {
+  const _BankingBankCardRecieve28Twotone();
+
+  /// Bank Card recieve 28 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 28',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12.1973V8.70631C21 6.26414 19.4792 4.53906 17.0351 4.53906H6.96486C4.52757 4.53906 3 6.26414 3 8.70631V15.2933C3 17.7355 4.52076 19.4606 6.96486 19.4606H10.7137" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.8334H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.8459 17.0433H20.9995M16.8446 19.056L13.8566 17.0448L16.8446 15.0327V19.056Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.17883 15.1962H10.1474" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card recieve 29 icon with style variants.
+class _BankingBankCardRecieve29Icon {
+  const _BankingBankCardRecieve29Icon();
+
+  /// twoTone style
+  _BankingBankCardRecieve29Twotone get twoTone => const _BankingBankCardRecieve29Twotone();
+}
+
+/// Bank Card recieve 29 — twoTone style variants.
+class _BankingBankCardRecieve29Twotone {
+  const _BankingBankCardRecieve29Twotone();
+
+  /// Bank Card recieve 29 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card recieve 29',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12.1973V8.70631C21 6.26414 19.4792 4.53906 17.0351 4.53906H6.96486C4.52757 4.53906 3 6.26414 3 8.70631V15.2933C3 17.7355 4.52076 19.4606 6.96486 19.4606H10.7137" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.83341H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.0999 16.9673H20.717M16.4369 14.6375L14.0999 16.9648L16.4369 19.2912" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -638,93 +3172,8 @@ class _BankingBankCarrdAddLight {
 class _BankingBankCardDoubleIcon {
   const _BankingBankCardDoubleIcon();
 
-  /// bold style
-  _BankingBankCardDoubleBold get bold => const _BankingBankCardDoubleBold();
-  /// bulk style
-  _BankingBankCardDoubleBulk get bulk => const _BankingBankCardDoubleBulk();
   /// light style
   _BankingBankCardDoubleLight get light => const _BankingBankCardDoubleLight();
-  /// outline style
-  _BankingBankCardDoubleOutline get outline => const _BankingBankCardDoubleOutline();
-  /// twoTone style
-  _BankingBankCardDoubleTwotone get twoTone => const _BankingBankCardDoubleTwotone();
-  /// broken style
-  _BankingBankCardDoubleBroken get broken => const _BankingBankCardDoubleBroken();
-}
-
-/// Bank Card double — bulk style variants.
-class _BankingBankCardDoubleBulk {
-  const _BankingBankCardDoubleBulk();
-
-  /// Bank Card double — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card double',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.1755 7.34766H10.1235C7.69452 7.34766 6.06152 9.05566 6.06152 11.5977V17.5177C6.06152 20.0537 7.69452 21.7577 10.1235 21.7577H19.1745C21.6045 21.7577 23.2385 20.0537 23.2385 17.5177V11.5977C23.2385 9.05566 21.6055 7.34766 19.1755 7.34766Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.0621 11.6C5.0621 8.50896 7.1441 6.34996 10.1241 6.34996H17.822C18.0552 6.34996 18.1992 6.09544 18.0791 5.89549L17.1911 4.41696C15.8761 2.25196 13.5961 1.63296 11.5181 2.87896L3.7701 7.54896C1.6911 8.79996 1.1681 11.104 2.4721 13.287L4.5062 16.6114C4.66429 16.8698 5.0621 16.7577 5.0621 16.4548V11.6Z" fill="black"/> <path d="M19.1856 13.0696H10.1106C9.69659 13.0696 9.36059 12.7336 9.36059 12.3196C9.36059 11.9056 9.69659 11.5696 10.1106 11.5696H19.1856C19.5996 11.5696 19.9356 11.9056 19.9356 12.3196C19.9356 12.7336 19.5996 13.0696 19.1856 13.0696Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card double — broken style variants.
-class _BankingBankCardDoubleBroken {
-  const _BankingBankCardDoubleBroken();
-
-  /// Bank Card double — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card double',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.5393 7.93164H18.1046C20.0438 7.93164 21.2493 9.29675 21.2493 11.2369V16.4726C21.2493 18.403 20.0438 19.7778 18.1046 19.7778" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.95508 16.0664V16.4712C6.95508 18.4016 8.16938 19.7764 10.1095 19.7764H14.7664" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3957 4.2207H14.3937C16.3339 4.2207 17.5413 5.59068 17.5413 7.52888V12.7597C17.5413 14.6979 16.3339 16.0679 14.3927 16.0679H6.39764C4.45749 16.0679 3.25 14.6979 3.25 12.7597V7.52888C3.25 5.59068 4.46332 4.2207 6.39764 4.2207H7.21266" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 8.42578H14.3287" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card double — twoTone style variants.
-class _BankingBankCardDoubleTwotone {
-  const _BankingBankCardDoubleTwotone();
-
-  /// Bank Card double — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card double',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4371 7.58485H9.38574C7.19668 7.58485 5.82379 9.13503 5.82379 11.3295V17.2502C5.82379 19.4447 7.18911 20.9949 9.38574 20.9949H18.436C20.6337 20.9949 22.0001 19.4447 22.0001 17.2502V11.3295C22.0001 9.13503 20.6337 7.58485 18.4371 7.58485Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.37195 12.049H18.4471" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.0852 7.5817L16.4994 4.93861C15.3632 3.06737 13.3979 2.43606 11.5116 3.57329L3.76284 8.23679C1.88403 9.36537 1.50568 11.4009 2.63426 13.2873L5.69569 18.3529C5.83839 18.5983 5.99622 18.8189 6.17675 19.0167V19.0243" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card double — outline style variants.
-class _BankingBankCardDoubleOutline {
-  const _BankingBankCardDoubleOutline();
-
-  /// Bank Card double — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card double',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.23516 8.12288C7.00836 7.29327 8.10533 6.83484 9.38568 6.83484H18.437C19.7206 6.83484 20.8182 7.2929 21.5912 8.12318C22.3586 8.94741 22.7501 10.0775 22.7501 11.3295V17.2502C22.7501 18.5022 22.3586 19.6323 21.591 20.4566C20.8178 21.2869 19.7199 21.7448 18.4359 21.7448H9.38568C8.10211 21.7448 7.00467 21.2868 6.23193 20.4564C5.46486 19.6321 5.07373 18.5021 5.07373 17.2502V11.3295C5.07373 10.0765 5.4674 8.94664 6.23516 8.12288ZM7.33246 9.14559C6.8665 9.64553 6.57373 10.388 6.57373 11.3295V17.2502C6.57373 18.1928 6.86526 18.9351 7.33001 19.4345C7.78909 19.9278 8.47262 20.2448 9.38568 20.2448H18.4359C19.3497 20.2448 20.0338 19.9277 20.4933 19.4343C20.9584 18.9349 21.2501 18.1927 21.2501 17.2502V11.3295C21.2501 10.387 20.9584 9.64476 20.4933 9.14529C20.034 8.65187 19.3501 8.33484 18.437 8.33484H9.38568C8.47697 8.33484 7.79296 8.65149 7.33246 9.14559Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.62207 12.049C8.62207 11.6347 8.95786 11.299 9.37207 11.299H18.4472C18.8614 11.299 19.1972 11.6347 19.1972 12.049C19.1972 12.4632 18.8614 12.799 18.4472 12.799H9.37207C8.95786 12.799 8.62207 12.4632 8.62207 12.049Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4937 2.40689C15.5755 2.71752 16.4928 3.48282 17.1403 4.54935L17.1424 4.55271L18.7282 7.1958C18.9413 7.55099 18.8262 8.01168 18.471 8.2248C18.1158 8.43791 17.6551 8.32273 17.442 7.96755L15.8582 5.32784C15.8579 5.32733 15.8576 5.32682 15.8573 5.32631C15.3688 4.52251 14.7358 4.03703 14.0797 3.84862C13.4318 3.66258 12.6828 3.74285 11.8987 4.21557L4.14947 8.87937C3.36921 9.34806 2.94492 9.97244 2.80426 10.6339C2.66199 11.3029 2.79288 12.0911 3.27693 12.9008C3.2772 12.9013 3.27748 12.9018 3.27776 12.9022L6.34403 17.9759C6.46388 18.182 6.59097 18.3581 6.73063 18.5111C6.85673 18.6493 6.92664 18.8296 6.92664 19.0167V19.0242C6.92664 19.4384 6.59085 19.7742 6.17664 19.7742C5.92268 19.7742 5.69819 19.648 5.56251 19.4549C5.36828 19.2325 5.20006 18.992 5.05054 18.7356L1.99054 13.6723C1.34668 12.5962 1.10269 11.424 1.33707 10.3218C1.57315 9.21175 2.27798 8.25374 3.37653 7.59385L11.1242 2.93096C12.2263 2.2667 13.4035 2.09382 14.4937 2.40689Z" fill="black"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card double — bold style variants.
-class _BankingBankCardDoubleBold {
-  const _BankingBankCardDoubleBold();
-
-  /// Bank Card double — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card double',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4096 9.75938C20.9126 8.92538 20.0906 8.36438 19.0316 8.13738C18.8655 8.10139 18.7086 8.22793 18.7086 8.39788V12.4844C18.7086 15.3164 16.7976 17.2944 14.0596 17.2944H6.61039C6.38143 17.2944 6.24055 17.5392 6.38054 17.7204C6.87552 18.361 7.60198 18.8269 8.51761 19.0244L16.3356 20.7014C16.6386 20.7664 16.9346 20.7984 17.2206 20.7984C18.9396 20.7974 20.2876 19.6514 20.6976 17.7394L21.7956 12.6264C22.0236 11.5584 21.8906 10.5674 21.4096 9.75938Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3872 7.01312C17.3872 4.73512 15.9212 3.20312 13.7412 3.20312H5.74419C3.56219 3.20312 2.09619 4.73512 2.09619 7.01312C2.09619 7.09597 2.16335 7.16313 2.24619 7.16313H17.2372C17.32 7.16313 17.3872 7.09597 17.3872 7.01312Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3872 12.2436V8.96357C17.3872 8.79789 17.2529 8.66357 17.0872 8.66357H2.39619C2.23051 8.66357 2.09619 8.79789 2.09619 8.96357V12.2436C2.09619 14.5216 3.56219 16.0536 5.74419 16.0536H13.7402C15.9212 16.0536 17.3872 14.5216 17.3872 12.2436Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Bank Card double — light style variants.
@@ -737,6 +3186,259 @@ class _BankingBankCardDoubleLight {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4375 7.58594H9.38617C7.19711 7.58594 5.82422 9.13611 5.82422 11.3306V17.2513C5.82422 19.4458 7.18954 20.9959 9.38617 20.9959H18.4364C20.6341 20.9959 22.0005 19.4458 22.0005 17.2513V11.3306C22.0005 9.13611 20.6341 7.58594 18.4375 7.58594Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.37207 12.0483H18.4472" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.0852 7.58365L16.4994 4.94056C15.3632 3.06933 13.3979 2.43801 11.5116 3.57524L3.76284 8.23874C1.88403 9.36733 1.50568 11.4029 2.63426 13.2893L5.69569 18.3549C5.83839 18.6003 5.99622 18.8208 6.17675 19.0186V19.0262" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card double 1 icon with style variants.
+class _BankingBankCardDouble1Icon {
+  const _BankingBankCardDouble1Icon();
+
+  /// light style
+  _BankingBankCardDouble1Light get light => const _BankingBankCardDouble1Light();
+}
+
+/// Bank Card double 1 — light style variants.
+class _BankingBankCardDouble1Light {
+  const _BankingBankCardDouble1Light();
+
+  /// Bank Card double 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card double 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4375 7.58594H9.38617C7.19711 7.58594 5.82422 9.13611 5.82422 11.3306V17.2513C5.82422 19.4458 7.18954 20.9959 9.38617 20.9959H18.4364C20.6341 20.9959 22.0005 19.4458 22.0005 17.2513V11.3306C22.0005 9.13611 20.6341 7.58594 18.4375 7.58594Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.37207 12.0483H18.4472" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.0852 7.58365L16.4994 4.94056C15.3632 3.06933 13.3979 2.43801 11.5116 3.57524L3.76284 8.23874C1.88403 9.36733 1.50568 11.4029 2.63426 13.2893L5.69569 18.3549C5.83839 18.6003 5.99622 18.8208 6.17675 19.0186V19.0262" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card double 2 icon with style variants.
+class _BankingBankCardDouble2Icon {
+  const _BankingBankCardDouble2Icon();
+
+  /// broken style
+  _BankingBankCardDouble2Broken get broken => const _BankingBankCardDouble2Broken();
+}
+
+/// Bank Card double 2 — broken style variants.
+class _BankingBankCardDouble2Broken {
+  const _BankingBankCardDouble2Broken();
+
+  /// Bank Card double 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card double 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.5393 7.93164H18.1046C20.0438 7.93164 21.2493 9.29675 21.2493 11.2369V16.4726C21.2493 18.403 20.0438 19.7778 18.1046 19.7778" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.95508 16.0664V16.4712C6.95508 18.4016 8.16938 19.7764 10.1095 19.7764H14.7664" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3957 4.2207H14.3937C16.3339 4.2207 17.5413 5.59068 17.5413 7.52888V12.7597C17.5413 14.6979 16.3339 16.0679 14.3927 16.0679H6.39764C4.45749 16.0679 3.25 14.6979 3.25 12.7597V7.52888C3.25 5.59068 4.46332 4.2207 6.39764 4.2207H7.21266" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 8.42578H14.3287" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card double 3 icon with style variants.
+class _BankingBankCardDouble3Icon {
+  const _BankingBankCardDouble3Icon();
+
+  /// broken style
+  _BankingBankCardDouble3Broken get broken => const _BankingBankCardDouble3Broken();
+}
+
+/// Bank Card double 3 — broken style variants.
+class _BankingBankCardDouble3Broken {
+  const _BankingBankCardDouble3Broken();
+
+  /// Bank Card double 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card double 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.5393 7.93164H18.1046C20.0438 7.93164 21.2493 9.29675 21.2493 11.2369V16.4726C21.2493 18.403 20.0438 19.7778 18.1046 19.7778" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.95508 16.0664V16.4712C6.95508 18.4016 8.16938 19.7764 10.1095 19.7764H14.7664" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3957 4.2207H14.3937C16.3339 4.2207 17.5413 5.59068 17.5413 7.52888V12.7597C17.5413 14.6979 16.3339 16.0679 14.3927 16.0679H6.39764C4.45749 16.0679 3.25 14.6979 3.25 12.7597V7.52888C3.25 5.59068 4.46332 4.2207 6.39764 4.2207H7.21266" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 8.42578H14.3287" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card double 4 icon with style variants.
+class _BankingBankCardDouble4Icon {
+  const _BankingBankCardDouble4Icon();
+
+  /// bold style
+  _BankingBankCardDouble4Bold get bold => const _BankingBankCardDouble4Bold();
+}
+
+/// Bank Card double 4 — bold style variants.
+class _BankingBankCardDouble4Bold {
+  const _BankingBankCardDouble4Bold();
+
+  /// Bank Card double 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card double 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4096 9.75938C20.9126 8.92538 20.0906 8.36438 19.0316 8.13738C18.8655 8.10139 18.7086 8.22793 18.7086 8.39788V12.4844C18.7086 15.3164 16.7976 17.2944 14.0596 17.2944H6.61039C6.38143 17.2944 6.24055 17.5392 6.38054 17.7204C6.87552 18.361 7.60198 18.8269 8.51761 19.0244L16.3356 20.7014C16.6386 20.7664 16.9346 20.7984 17.2206 20.7984C18.9396 20.7974 20.2876 19.6514 20.6976 17.7394L21.7956 12.6264C22.0236 11.5584 21.8906 10.5674 21.4096 9.75938Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3872 7.01312C17.3872 4.73512 15.9212 3.20312 13.7412 3.20312H5.74419C3.56219 3.20312 2.09619 4.73512 2.09619 7.01312C2.09619 7.09597 2.16335 7.16313 2.24619 7.16313H17.2372C17.32 7.16313 17.3872 7.09597 17.3872 7.01312Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3872 12.2436V8.96357C17.3872 8.79789 17.2529 8.66357 17.0872 8.66357H2.39619C2.23051 8.66357 2.09619 8.79789 2.09619 8.96357V12.2436C2.09619 14.5216 3.56219 16.0536 5.74419 16.0536H13.7402C15.9212 16.0536 17.3872 14.5216 17.3872 12.2436Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card double 5 icon with style variants.
+class _BankingBankCardDouble5Icon {
+  const _BankingBankCardDouble5Icon();
+
+  /// bold style
+  _BankingBankCardDouble5Bold get bold => const _BankingBankCardDouble5Bold();
+}
+
+/// Bank Card double 5 — bold style variants.
+class _BankingBankCardDouble5Bold {
+  const _BankingBankCardDouble5Bold();
+
+  /// Bank Card double 5 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card double 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4096 9.75938C20.9126 8.92538 20.0906 8.36438 19.0316 8.13738C18.8655 8.10139 18.7086 8.22793 18.7086 8.39788V12.4844C18.7086 15.3164 16.7976 17.2944 14.0596 17.2944H6.61039C6.38143 17.2944 6.24055 17.5392 6.38054 17.7204C6.87552 18.361 7.60198 18.8269 8.51761 19.0244L16.3356 20.7014C16.6386 20.7664 16.9346 20.7984 17.2206 20.7984C18.9396 20.7974 20.2876 19.6514 20.6976 17.7394L21.7956 12.6264C22.0236 11.5584 21.8906 10.5674 21.4096 9.75938Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3872 7.01312C17.3872 4.73512 15.9212 3.20312 13.7412 3.20312H5.74419C3.56219 3.20312 2.09619 4.73512 2.09619 7.01312C2.09619 7.09597 2.16335 7.16313 2.24619 7.16313H17.2372C17.32 7.16313 17.3872 7.09597 17.3872 7.01312Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.3872 12.2436V8.96357C17.3872 8.79789 17.2529 8.66357 17.0872 8.66357H2.39619C2.23051 8.66357 2.09619 8.79789 2.09619 8.96357V12.2436C2.09619 14.5216 3.56219 16.0536 5.74419 16.0536H13.7402C15.9212 16.0536 17.3872 14.5216 17.3872 12.2436Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card double 6 icon with style variants.
+class _BankingBankCardDouble6Icon {
+  const _BankingBankCardDouble6Icon();
+
+  /// bulk style
+  _BankingBankCardDouble6Bulk get bulk => const _BankingBankCardDouble6Bulk();
+}
+
+/// Bank Card double 6 — bulk style variants.
+class _BankingBankCardDouble6Bulk {
+  const _BankingBankCardDouble6Bulk();
+
+  /// Bank Card double 6 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card double 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.1755 7.34766H10.1235C7.69452 7.34766 6.06152 9.05566 6.06152 11.5977V17.5177C6.06152 20.0537 7.69452 21.7577 10.1235 21.7577H19.1745C21.6045 21.7577 23.2385 20.0537 23.2385 17.5177V11.5977C23.2385 9.05566 21.6055 7.34766 19.1755 7.34766Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.0621 11.6C5.0621 8.50896 7.1441 6.34996 10.1241 6.34996H17.822C18.0552 6.34996 18.1992 6.09544 18.0791 5.89549L17.1911 4.41696C15.8761 2.25196 13.5961 1.63296 11.5181 2.87896L3.7701 7.54896C1.6911 8.79996 1.1681 11.104 2.4721 13.287L4.5062 16.6114C4.66429 16.8698 5.0621 16.7577 5.0621 16.4548V11.6Z" fill="black"/> <path d="M19.1856 13.0696H10.1106C9.69659 13.0696 9.36059 12.7336 9.36059 12.3196C9.36059 11.9056 9.69659 11.5696 10.1106 11.5696H19.1856C19.5996 11.5696 19.9356 11.9056 19.9356 12.3196C19.9356 12.7336 19.5996 13.0696 19.1856 13.0696Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card double 7 icon with style variants.
+class _BankingBankCardDouble7Icon {
+  const _BankingBankCardDouble7Icon();
+
+  /// bulk style
+  _BankingBankCardDouble7Bulk get bulk => const _BankingBankCardDouble7Bulk();
+}
+
+/// Bank Card double 7 — bulk style variants.
+class _BankingBankCardDouble7Bulk {
+  const _BankingBankCardDouble7Bulk();
+
+  /// Bank Card double 7 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card double 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.1755 7.34766H10.1235C7.69452 7.34766 6.06152 9.05566 6.06152 11.5977V17.5177C6.06152 20.0537 7.69452 21.7577 10.1235 21.7577H19.1745C21.6045 21.7577 23.2385 20.0537 23.2385 17.5177V11.5977C23.2385 9.05566 21.6055 7.34766 19.1755 7.34766Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.0621 11.6C5.0621 8.50896 7.1441 6.34996 10.1241 6.34996H17.822C18.0552 6.34996 18.1992 6.09544 18.0791 5.89549L17.1911 4.41696C15.8761 2.25196 13.5961 1.63296 11.5181 2.87896L3.7701 7.54896C1.6911 8.79996 1.1681 11.104 2.4721 13.287L4.5062 16.6114C4.66429 16.8698 5.0621 16.7577 5.0621 16.4548V11.6Z" fill="black"/> <path d="M19.1856 13.0696H10.1106C9.69659 13.0696 9.36059 12.7336 9.36059 12.3196C9.36059 11.9056 9.69659 11.5696 10.1106 11.5696H19.1856C19.5996 11.5696 19.9356 11.9056 19.9356 12.3196C19.9356 12.7336 19.5996 13.0696 19.1856 13.0696Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card double 8 icon with style variants.
+class _BankingBankCardDouble8Icon {
+  const _BankingBankCardDouble8Icon();
+
+  /// outline style
+  _BankingBankCardDouble8Outline get outline => const _BankingBankCardDouble8Outline();
+}
+
+/// Bank Card double 8 — outline style variants.
+class _BankingBankCardDouble8Outline {
+  const _BankingBankCardDouble8Outline();
+
+  /// Bank Card double 8 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card double 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.23516 8.12288C7.00836 7.29327 8.10533 6.83484 9.38568 6.83484H18.437C19.7206 6.83484 20.8182 7.2929 21.5912 8.12318C22.3586 8.94741 22.7501 10.0775 22.7501 11.3295V17.2502C22.7501 18.5022 22.3586 19.6323 21.591 20.4566C20.8178 21.2869 19.7199 21.7448 18.4359 21.7448H9.38568C8.10211 21.7448 7.00467 21.2868 6.23193 20.4564C5.46486 19.6321 5.07373 18.5021 5.07373 17.2502V11.3295C5.07373 10.0765 5.4674 8.94664 6.23516 8.12288ZM7.33246 9.14559C6.8665 9.64553 6.57373 10.388 6.57373 11.3295V17.2502C6.57373 18.1928 6.86526 18.9351 7.33001 19.4345C7.78909 19.9278 8.47262 20.2448 9.38568 20.2448H18.4359C19.3497 20.2448 20.0338 19.9277 20.4933 19.4343C20.9584 18.9349 21.2501 18.1927 21.2501 17.2502V11.3295C21.2501 10.387 20.9584 9.64476 20.4933 9.14529C20.034 8.65187 19.3501 8.33484 18.437 8.33484H9.38568C8.47697 8.33484 7.79296 8.65149 7.33246 9.14559Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.62207 12.049C8.62207 11.6347 8.95786 11.299 9.37207 11.299H18.4472C18.8614 11.299 19.1972 11.6347 19.1972 12.049C19.1972 12.4632 18.8614 12.799 18.4472 12.799H9.37207C8.95786 12.799 8.62207 12.4632 8.62207 12.049Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4937 2.40689C15.5755 2.71752 16.4928 3.48282 17.1403 4.54935L17.1424 4.55271L18.7282 7.1958C18.9413 7.55099 18.8262 8.01168 18.471 8.2248C18.1158 8.43791 17.6551 8.32273 17.442 7.96755L15.8582 5.32784C15.8579 5.32733 15.8576 5.32682 15.8573 5.32631C15.3688 4.52251 14.7358 4.03703 14.0797 3.84862C13.4318 3.66258 12.6828 3.74285 11.8987 4.21557L4.14947 8.87937C3.36921 9.34806 2.94492 9.97244 2.80426 10.6339C2.66199 11.3029 2.79288 12.0911 3.27693 12.9008C3.2772 12.9013 3.27748 12.9018 3.27776 12.9022L6.34403 17.9759C6.46388 18.182 6.59097 18.3581 6.73063 18.5111C6.85673 18.6493 6.92664 18.8296 6.92664 19.0167V19.0242C6.92664 19.4384 6.59085 19.7742 6.17664 19.7742C5.92268 19.7742 5.69819 19.648 5.56251 19.4549C5.36828 19.2325 5.20006 18.992 5.05054 18.7356L1.99054 13.6723C1.34668 12.5962 1.10269 11.424 1.33707 10.3218C1.57315 9.21175 2.27798 8.25374 3.37653 7.59385L11.1242 2.93096C12.2263 2.2667 13.4035 2.09382 14.4937 2.40689Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card double 9 icon with style variants.
+class _BankingBankCardDouble9Icon {
+  const _BankingBankCardDouble9Icon();
+
+  /// outline style
+  _BankingBankCardDouble9Outline get outline => const _BankingBankCardDouble9Outline();
+}
+
+/// Bank Card double 9 — outline style variants.
+class _BankingBankCardDouble9Outline {
+  const _BankingBankCardDouble9Outline();
+
+  /// Bank Card double 9 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card double 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.23516 8.12288C7.00836 7.29327 8.10533 6.83484 9.38568 6.83484H18.437C19.7206 6.83484 20.8182 7.2929 21.5912 8.12318C22.3586 8.94741 22.7501 10.0775 22.7501 11.3295V17.2502C22.7501 18.5022 22.3586 19.6323 21.591 20.4566C20.8178 21.2869 19.7199 21.7448 18.4359 21.7448H9.38568C8.10211 21.7448 7.00467 21.2868 6.23193 20.4564C5.46486 19.6321 5.07373 18.5021 5.07373 17.2502V11.3295C5.07373 10.0765 5.4674 8.94664 6.23516 8.12288ZM7.33246 9.14559C6.8665 9.64553 6.57373 10.388 6.57373 11.3295V17.2502C6.57373 18.1928 6.86526 18.9351 7.33001 19.4345C7.78909 19.9278 8.47262 20.2448 9.38568 20.2448H18.4359C19.3497 20.2448 20.0338 19.9277 20.4933 19.4343C20.9584 18.9349 21.2501 18.1927 21.2501 17.2502V11.3295C21.2501 10.387 20.9584 9.64476 20.4933 9.14529C20.034 8.65187 19.3501 8.33484 18.437 8.33484H9.38568C8.47697 8.33484 7.79296 8.65149 7.33246 9.14559Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.62207 12.049C8.62207 11.6347 8.95786 11.299 9.37207 11.299H18.4472C18.8614 11.299 19.1972 11.6347 19.1972 12.049C19.1972 12.4632 18.8614 12.799 18.4472 12.799H9.37207C8.95786 12.799 8.62207 12.4632 8.62207 12.049Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4937 2.40689C15.5755 2.71752 16.4928 3.48282 17.1403 4.54935L17.1424 4.55271L18.7282 7.1958C18.9413 7.55099 18.8262 8.01168 18.471 8.2248C18.1158 8.43791 17.6551 8.32273 17.442 7.96755L15.8582 5.32784C15.8579 5.32733 15.8576 5.32682 15.8573 5.32631C15.3688 4.52251 14.7358 4.03703 14.0797 3.84862C13.4318 3.66258 12.6828 3.74285 11.8987 4.21557L4.14947 8.87937C3.36921 9.34806 2.94492 9.97244 2.80426 10.6339C2.66199 11.3029 2.79288 12.0911 3.27693 12.9008C3.2772 12.9013 3.27748 12.9018 3.27776 12.9022L6.34403 17.9759C6.46388 18.182 6.59097 18.3581 6.73063 18.5111C6.85673 18.6493 6.92664 18.8296 6.92664 19.0167V19.0242C6.92664 19.4384 6.59085 19.7742 6.17664 19.7742C5.92268 19.7742 5.69819 19.648 5.56251 19.4549C5.36828 19.2325 5.20006 18.992 5.05054 18.7356L1.99054 13.6723C1.34668 12.5962 1.10269 11.424 1.33707 10.3218C1.57315 9.21175 2.27798 8.25374 3.37653 7.59385L11.1242 2.93096C12.2263 2.2667 13.4035 2.09382 14.4937 2.40689Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card double 10 icon with style variants.
+class _BankingBankCardDouble10Icon {
+  const _BankingBankCardDouble10Icon();
+
+  /// twoTone style
+  _BankingBankCardDouble10Twotone get twoTone => const _BankingBankCardDouble10Twotone();
+}
+
+/// Bank Card double 10 — twoTone style variants.
+class _BankingBankCardDouble10Twotone {
+  const _BankingBankCardDouble10Twotone();
+
+  /// Bank Card double 10 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card double 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M17.2893 7.93164H17.8546C19.7938 7.93164 20.9993 9.29675 20.9993 11.2369V16.4726C20.9993 18.403 19.7938 19.7778 17.8546 19.7778H9.85953C7.91938 19.7778 6.70508 18.403 6.70508 16.4726V16.0678" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1437 4.2207H6.14764C4.21332 4.2207 3 5.59068 3 7.52888V12.7597C3 14.6979 4.20749 16.0679 6.14764 16.0679H14.1427C16.0839 16.0679 17.2913 14.6979 17.2913 12.7597V7.52888C17.2913 5.59068 16.0839 4.2207 14.1437 4.2207Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 8.42595H17.2913" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card double 11 icon with style variants.
+class _BankingBankCardDouble11Icon {
+  const _BankingBankCardDouble11Icon();
+
+  /// twoTone style
+  _BankingBankCardDouble11Twotone get twoTone => const _BankingBankCardDouble11Twotone();
+}
+
+/// Bank Card double 11 — twoTone style variants.
+class _BankingBankCardDouble11Twotone {
+  const _BankingBankCardDouble11Twotone();
+
+  /// Bank Card double 11 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card double 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4371 7.58485H9.38574C7.19668 7.58485 5.82379 9.13503 5.82379 11.3295V17.2502C5.82379 19.4447 7.18911 20.9949 9.38574 20.9949H18.436C20.6337 20.9949 22.0001 19.4447 22.0001 17.2502V11.3295C22.0001 9.13503 20.6337 7.58485 18.4371 7.58485Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.37195 12.049H18.4471" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.0852 7.5817L16.4994 4.93861C15.3632 3.06737 13.3979 2.43606 11.5116 3.57329L3.76284 8.23679C1.88403 9.36537 1.50568 11.4009 2.63426 13.2873L5.69569 18.3529C5.83839 18.5983 5.99622 18.8189 6.17675 19.0167V19.0243" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -1070,93 +3772,8 @@ class _BankingWalletLoveLight {
 class _BankingMasterCardIcon {
   const _BankingMasterCardIcon();
 
-  /// bold style
-  _BankingMasterCardBold get bold => const _BankingMasterCardBold();
-  /// bulk style
-  _BankingMasterCardBulk get bulk => const _BankingMasterCardBulk();
   /// light style
   _BankingMasterCardLight get light => const _BankingMasterCardLight();
-  /// outline style
-  _BankingMasterCardOutline get outline => const _BankingMasterCardOutline();
-  /// twoTone style
-  _BankingMasterCardTwotone get twoTone => const _BankingMasterCardTwotone();
-  /// broken style
-  _BankingMasterCardBroken get broken => const _BankingMasterCardBroken();
-}
-
-/// Master Card — bulk style variants.
-class _BankingMasterCardBulk {
-  const _BankingMasterCardBulk();
-
-  /// Master Card — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Master Card',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.3 10.5781C3.13431 10.5781 3 10.7124 3 10.8781V15.2881C3 18.0811 4.794 19.9581 7.464 19.9581H17.534C20.205 19.9581 22 18.0811 22 15.2881V10.8781C22 10.7124 21.8657 10.5781 21.7 10.5781H3.3Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7 9.07906C21.8657 9.07906 22 8.94475 22 8.77906V8.70906C22 5.91606 20.206 4.03906 17.535 4.03906H7.464C4.794 4.03906 3 5.91606 3 8.70906V8.77906C3 8.94475 3.13431 9.07906 3.3 9.07906H21.7Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9008 17.3896C10.4768 17.3896 10.0838 17.2696 9.73779 17.0766C9.38679 17.2676 8.99379 17.3786 8.57979 17.3786C7.25079 17.3786 6.16879 16.2976 6.16879 14.9696C6.16879 13.6406 7.25079 12.5596 8.57979 12.5596C8.99179 12.5596 9.38779 12.6726 9.74379 12.8686C10.0888 12.6776 10.4798 12.5596 10.9008 12.5596C12.2318 12.5596 13.3138 13.6406 13.3138 14.9696C13.3138 16.3036 12.2318 17.3896 10.9008 17.3896ZM8.66469 14.0766C8.55369 14.3526 8.48869 14.6536 8.48869 14.9696C8.48869 15.2856 8.55369 15.5866 8.66369 15.8636C8.63469 15.8656 8.60969 15.8786 8.57969 15.8786C8.07769 15.8786 7.66869 15.4706 7.66869 14.9696C7.66869 14.4676 8.07769 14.0596 8.57969 14.0596C8.60969 14.0596 8.63569 14.0736 8.66469 14.0766ZM9.98877 14.9696C9.98877 14.4676 10.3978 14.0596 10.9008 14.0596C11.4038 14.0596 11.8138 14.4676 11.8138 14.9696C11.8138 15.4766 11.4038 15.8896 10.9008 15.8896C10.6608 15.8896 10.4458 15.7916 10.2828 15.6376C10.2828 15.6376 10.2818 15.6346 10.2798 15.6336C10.2728 15.6256 10.2618 15.6236 10.2538 15.6156C10.0898 15.4496 9.98877 15.2216 9.98877 14.9696Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Master Card — broken style variants.
-class _BankingMasterCardBroken {
-  const _BankingMasterCardBroken();
-
-  /// Master Card — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Master Card',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.251 4.54004H17.2861C19.7302 4.54004 21.25 6.26415 21.25 8.70631V15.2943C21.25 17.7355 19.7224 19.4606 17.2861 19.4606H7.21486C4.77076 19.4606 3.25 17.7355 3.25 15.2943V8.70631C3.25 6.26415 4.77076 4.54004 7.21584 4.54004H8.73341" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.83301H18.0568" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.49519 16.1584C9.18967 16.4571 8.78103 16.6323 8.32957 16.6323C7.41205 16.6323 6.6687 15.8889 6.6687 14.9714C6.6687 14.0529 7.41205 13.3105 8.32957 13.3105C8.78103 13.3105 9.18967 13.4857 9.49519 13.7834" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3137 14.9734C12.3137 15.8918 11.5693 16.6362 10.6509 16.6362C9.73334 16.6362 8.98901 15.8918 8.98901 14.9734C8.98901 14.0549 9.73334 13.3105 10.6509 13.3105C11.5693 13.3105 12.3137 14.0549 12.3137 14.9734Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Master Card — twoTone style variants.
-class _BankingMasterCardTwotone {
-  const _BankingMasterCardTwotone();
-
-  /// Master Card — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Master Card',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.5946 3.71094H6.40432C3.6973 3.71094 2 5.62769 2 8.34013V15.6601C2 18.3736 3.68865 20.2893 6.40432 20.2893H17.5935C20.3103 20.2893 22 18.3736 22 15.6601V8.34013C22 5.62769 20.3103 3.71094 17.5946 3.71094Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.2801 12.0018C13.2801 13.8094 11.8142 15.2753 10.0066 15.2753C8.19904 15.2753 6.73309 13.8094 6.73309 12.0018C6.73309 10.1942 8.19904 8.7283 10.0066 8.7283C11.8142 8.7283 13.2801 10.1942 13.2801 12.0018Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2666 12.0018C17.2666 13.8094 15.8007 15.2753 13.9931 15.2753C12.1856 15.2753 10.7196 13.8094 10.7196 12.0018C10.7196 10.1942 12.1856 8.7283 13.9931 8.7283C15.8007 8.7283 17.2666 10.1942 17.2666 12.0018Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Master Card — outline style variants.
-class _BankingMasterCardOutline {
-  const _BankingMasterCardOutline();
-
-  /// Master Card — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Master Card',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.5197 5.19537C4.36249 4.29121 5.55993 3.78906 6.96389 3.78906H17.0351C18.4424 3.78906 19.6405 4.29086 20.483 5.19566C21.3199 6.09441 21.75 7.32987 21.75 8.70533V15.2933C21.75 16.6692 21.3199 17.9048 20.4828 18.8035C19.6401 19.7082 18.4417 20.2096 17.0342 20.2096H6.96389C5.55669 20.2096 4.35879 19.7081 3.51646 18.8033C2.67978 17.9046 2.25 16.6691 2.25 15.2933V8.70533C2.25 7.329 2.68236 6.09368 3.5197 5.19537ZM4.61695 6.21814C4.08142 6.79266 3.75 7.64048 3.75 8.70533V15.2933C3.75 16.3597 4.08011 17.2074 4.61435 17.7812C5.14294 18.349 5.92699 18.7096 6.96389 18.7096H17.0342C18.0717 18.7096 18.8562 18.349 19.3852 17.7811C19.9197 17.2072 20.25 16.3596 20.25 15.2933V8.70533C20.25 7.6396 19.9198 6.79193 19.3852 6.21784C18.8563 5.64981 18.0719 5.28906 17.0351 5.28906H6.96389C5.93153 5.28906 5.14702 5.64946 4.61695 6.21814Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.83337C2.25 9.41916 2.58579 9.08337 3 9.08337H21C21.4142 9.08337 21.75 9.41916 21.75 9.83337C21.75 10.2476 21.4142 10.5834 21 10.5834H3C2.58579 10.5834 2.25 10.2476 2.25 9.83337Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.07957 14.061C7.57598 14.061 7.1687 14.4679 7.1687 14.9719C7.1687 15.4752 7.57627 15.8828 8.07957 15.8828C8.3308 15.8828 8.55243 15.7873 8.72087 15.6227C9.01704 15.3331 9.49189 15.3384 9.78146 15.6346C10.071 15.9308 10.0657 16.4056 9.76951 16.6952C9.32692 17.1279 8.73125 17.3828 8.07957 17.3828C6.74784 17.3828 5.6687 16.3036 5.6687 14.9719C5.6687 13.6389 6.74813 12.561 8.07957 12.561C8.73113 12.561 9.32635 12.8158 9.76863 13.2468C10.0653 13.5359 10.0714 14.0107 9.78232 14.3073C9.49323 14.604 9.01839 14.6101 8.72174 14.321C8.55299 14.1566 8.33092 14.061 8.07957 14.061Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.4009 14.061C9.89784 14.061 9.48901 14.4693 9.48901 14.9738C9.48901 15.4784 9.89784 15.8867 10.4009 15.8867C10.9051 15.8867 11.3137 15.4781 11.3137 14.9738C11.3137 14.4696 10.9051 14.061 10.4009 14.061ZM7.98901 14.9738C7.98901 13.6414 9.06884 12.561 10.4009 12.561C11.7336 12.561 12.8137 13.6411 12.8137 14.9738C12.8137 16.3065 11.7336 17.3867 10.4009 17.3867C9.06884 17.3867 7.98901 16.3063 7.98901 14.9738Z" fill="black"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Master Card — bold style variants.
-class _BankingMasterCardBold {
-  const _BankingMasterCardBold();
-
-  /// Master Card — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Master Card',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.9889 14.9696C7.9889 14.6536 8.0539 14.3526 8.1649 14.0766C8.1359 14.0736 8.1099 14.0596 8.0799 14.0596C7.5779 14.0596 7.1689 14.4676 7.1689 14.9696C7.1689 15.4706 7.5779 15.8786 8.0799 15.8786C8.1099 15.8786 8.1349 15.8656 8.1639 15.8636C8.0539 15.5866 7.9889 15.2856 7.9889 14.9696Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.401 14.0596C9.89798 14.0596 9.48898 14.4676 9.48898 14.9696C9.48898 15.2216 9.58998 15.4496 9.75398 15.6156C9.76198 15.6236 9.77298 15.6256 9.77998 15.6336C9.78198 15.6346 9.78298 15.6376 9.78298 15.6376C9.94598 15.7916 10.161 15.8896 10.401 15.8896C10.904 15.8896 11.314 15.4766 11.314 14.9696C11.314 14.4676 10.904 14.0596 10.401 14.0596Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2002 9.07906C21.3659 9.07906 21.5002 8.94475 21.5002 8.77906V8.70906C21.5002 5.91606 19.7062 4.03906 17.0352 4.03906H6.96421C4.29421 4.03906 2.50021 5.91606 2.50021 8.70906V8.77906C2.50021 8.94475 2.63453 9.07906 2.80021 9.07906H21.2002Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.401 17.3896C9.977 17.3896 9.584 17.2696 9.238 17.0766C8.887 17.2676 8.494 17.3786 8.08 17.3786C6.751 17.3786 5.669 16.2976 5.669 14.9696C5.669 13.6406 6.751 12.5596 8.08 12.5596C8.492 12.5596 8.888 12.6726 9.244 12.8686C9.589 12.6776 9.98 12.5596 10.401 12.5596C11.732 12.5596 12.814 13.6406 12.814 14.9696C12.814 16.3036 11.732 17.3896 10.401 17.3896ZM2.8 10.5786C2.63431 10.5786 2.5 10.7129 2.5 10.8786V15.2886C2.5 18.0816 4.294 19.9586 6.964 19.9586H17.034C19.705 19.9586 21.5 18.0816 21.5 15.2886V10.8786C21.5 10.7129 21.3657 10.5786 21.2 10.5786H2.8Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Master Card — light style variants.
@@ -1169,6 +3786,259 @@ class _BankingMasterCardLight {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5946 3.71094H6.40432C3.6973 3.71094 2 5.62769 2 8.34013V15.6601C2 18.3736 3.68865 20.2893 6.40432 20.2893H17.5935C20.3103 20.2893 22 18.3736 22 15.6601V8.34013C22 5.62769 20.3103 3.71094 17.5946 3.71094Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.2804 12.0001C13.2804 13.8076 11.8145 15.2736 10.0069 15.2736C8.19934 15.2736 6.7334 13.8076 6.7334 12.0001C6.7334 10.1925 8.19934 8.72656 10.0069 8.72656C11.8145 8.72656 13.2804 10.1925 13.2804 12.0001Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2668 12.0001C17.2668 13.8076 15.8008 15.2736 13.9932 15.2736C12.1857 15.2736 10.7197 13.8076 10.7197 12.0001C10.7197 10.1925 12.1857 8.72656 13.9932 8.72656C15.8008 8.72656 17.2668 10.1925 17.2668 12.0001Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Master Card 1 icon with style variants.
+class _BankingMasterCard1Icon {
+  const _BankingMasterCard1Icon();
+
+  /// light style
+  _BankingMasterCard1Light get light => const _BankingMasterCard1Light();
+}
+
+/// Master Card 1 — light style variants.
+class _BankingMasterCard1Light {
+  const _BankingMasterCard1Light();
+
+  /// Master Card 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Master Card 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0351 4.53906H6.96389C4.52757 4.53906 3 6.26414 3 8.70533V15.2933C3 17.7355 4.51978 19.4596 6.96389 19.4596H17.0342C19.4792 19.4596 21 17.7355 21 15.2933V8.70533C21 6.26414 19.4792 4.53906 17.0351 4.53906Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.83414H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.24543 16.1604C8.93992 16.4591 8.53127 16.6342 8.07981 16.6342C7.1623 16.6342 6.41895 15.8909 6.41895 14.9734C6.41895 14.0549 7.1623 13.3125 8.07981 13.3125C8.53127 13.3125 8.93992 13.4876 9.24543 13.7854" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0639 14.9753C12.0639 15.8938 11.3196 16.6381 10.4011 16.6381C9.48358 16.6381 8.73926 15.8938 8.73926 14.9753C8.73926 14.0568 9.48358 13.3125 10.4011 13.3125C11.3196 13.3125 12.0639 14.0568 12.0639 14.9753Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Master Card 2 icon with style variants.
+class _BankingMasterCard2Icon {
+  const _BankingMasterCard2Icon();
+
+  /// broken style
+  _BankingMasterCard2Broken get broken => const _BankingMasterCard2Broken();
+}
+
+/// Master Card 2 — broken style variants.
+class _BankingMasterCard2Broken {
+  const _BankingMasterCard2Broken();
+
+  /// Master Card 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Master Card 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.251 4.54004H17.2861C19.7302 4.54004 21.25 6.26415 21.25 8.70631V15.2943C21.25 17.7355 19.7224 19.4606 17.2861 19.4606H7.21486C4.77076 19.4606 3.25 17.7355 3.25 15.2943V8.70631C3.25 6.26415 4.77076 4.54004 7.21584 4.54004H8.73341" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.83301H18.0568" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.49519 16.1584C9.18967 16.4571 8.78103 16.6323 8.32957 16.6323C7.41205 16.6323 6.6687 15.8889 6.6687 14.9714C6.6687 14.0529 7.41205 13.3105 8.32957 13.3105C8.78103 13.3105 9.18967 13.4857 9.49519 13.7834" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3137 14.9734C12.3137 15.8918 11.5693 16.6362 10.6509 16.6362C9.73334 16.6362 8.98901 15.8918 8.98901 14.9734C8.98901 14.0549 9.73334 13.3105 10.6509 13.3105C11.5693 13.3105 12.3137 14.0549 12.3137 14.9734Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Master Card 3 icon with style variants.
+class _BankingMasterCard3Icon {
+  const _BankingMasterCard3Icon();
+
+  /// broken style
+  _BankingMasterCard3Broken get broken => const _BankingMasterCard3Broken();
+}
+
+/// Master Card 3 — broken style variants.
+class _BankingMasterCard3Broken {
+  const _BankingMasterCard3Broken();
+
+  /// Master Card 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Master Card 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.251 4.54004H17.2861C19.7302 4.54004 21.25 6.26415 21.25 8.70631V15.2943C21.25 17.7355 19.7224 19.4606 17.2861 19.4606H7.21486C4.77076 19.4606 3.25 17.7355 3.25 15.2943V8.70631C3.25 6.26415 4.77076 4.54004 7.21584 4.54004H8.73341" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.83301H18.0568" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.49519 16.1584C9.18967 16.4571 8.78103 16.6323 8.32957 16.6323C7.41205 16.6323 6.6687 15.8889 6.6687 14.9714C6.6687 14.0529 7.41205 13.3105 8.32957 13.3105C8.78103 13.3105 9.18967 13.4857 9.49519 13.7834" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3137 14.9734C12.3137 15.8918 11.5693 16.6362 10.6509 16.6362C9.73334 16.6362 8.98901 15.8918 8.98901 14.9734C8.98901 14.0549 9.73334 13.3105 10.6509 13.3105C11.5693 13.3105 12.3137 14.0549 12.3137 14.9734Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Master Card 4 icon with style variants.
+class _BankingMasterCard4Icon {
+  const _BankingMasterCard4Icon();
+
+  /// bold style
+  _BankingMasterCard4Bold get bold => const _BankingMasterCard4Bold();
+}
+
+/// Master Card 4 — bold style variants.
+class _BankingMasterCard4Bold {
+  const _BankingMasterCard4Bold();
+
+  /// Master Card 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Master Card 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.97015 12.0005C9.97015 11.1035 10.2762 10.2825 10.7752 9.61347C10.5312 9.53447 10.2762 9.48047 10.0072 9.48047C8.61515 9.48047 7.48315 10.6105 7.48315 12.0005C7.48315 13.3955 8.61515 14.5295 10.0072 14.5295C10.2772 14.5295 10.5332 14.4755 10.7772 14.3965C10.2772 13.7245 9.97015 12.9015 9.97015 12.0005Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4701 12.0006C11.4701 12.5796 11.6731 13.1066 12.0001 13.5336C12.3271 13.1066 12.5301 12.5796 12.5301 12.0006C12.5301 11.4236 12.3271 10.8986 12.0001 10.4736C11.6731 10.8986 11.4701 11.4236 11.4701 12.0006Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.993 9.48096C13.724 9.48096 13.469 9.53496 13.225 9.61296C13.724 10.282 14.03 11.103 14.03 12.001C14.03 12.901 13.723 13.725 13.223 14.397C13.467 14.476 13.723 14.53 13.993 14.53C15.385 14.53 16.516 13.395 16.516 12.001C16.516 10.611 15.385 9.48096 13.993 9.48096Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.993 16.0299C13.264 16.0299 12.59 15.8199 12 15.4799C11.41 15.8199 10.735 16.0299 10.007 16.0299C7.788 16.0299 5.983 14.2219 5.983 12.0009C5.983 9.78394 7.788 7.98094 10.007 7.98094C10.735 7.98094 11.41 8.19094 12 8.52994C12.59 8.19094 13.264 7.98094 13.993 7.98094C16.212 7.98094 18.016 9.78394 18.016 12.0009C18.016 14.2219 16.212 16.0299 13.993 16.0299ZM17.595 3.21094H6.404C3.471 3.21094 1.5 5.27194 1.5 8.34094V15.6609C1.5 18.7289 3.471 20.7909 6.404 20.7909H17.594C20.528 20.7909 22.5 18.7289 22.5 15.6609V8.34094C22.5 5.27194 20.528 3.21094 17.595 3.21094Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Master Card 5 icon with style variants.
+class _BankingMasterCard5Icon {
+  const _BankingMasterCard5Icon();
+
+  /// bold style
+  _BankingMasterCard5Bold get bold => const _BankingMasterCard5Bold();
+}
+
+/// Master Card 5 — bold style variants.
+class _BankingMasterCard5Bold {
+  const _BankingMasterCard5Bold();
+
+  /// Master Card 5 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Master Card 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.9889 14.9696C7.9889 14.6536 8.0539 14.3526 8.1649 14.0766C8.1359 14.0736 8.1099 14.0596 8.0799 14.0596C7.5779 14.0596 7.1689 14.4676 7.1689 14.9696C7.1689 15.4706 7.5779 15.8786 8.0799 15.8786C8.1099 15.8786 8.1349 15.8656 8.1639 15.8636C8.0539 15.5866 7.9889 15.2856 7.9889 14.9696Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.401 14.0596C9.89798 14.0596 9.48898 14.4676 9.48898 14.9696C9.48898 15.2216 9.58998 15.4496 9.75398 15.6156C9.76198 15.6236 9.77298 15.6256 9.77998 15.6336C9.78198 15.6346 9.78298 15.6376 9.78298 15.6376C9.94598 15.7916 10.161 15.8896 10.401 15.8896C10.904 15.8896 11.314 15.4766 11.314 14.9696C11.314 14.4676 10.904 14.0596 10.401 14.0596Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2002 9.07906C21.3659 9.07906 21.5002 8.94475 21.5002 8.77906V8.70906C21.5002 5.91606 19.7062 4.03906 17.0352 4.03906H6.96421C4.29421 4.03906 2.50021 5.91606 2.50021 8.70906V8.77906C2.50021 8.94475 2.63453 9.07906 2.80021 9.07906H21.2002Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.401 17.3896C9.977 17.3896 9.584 17.2696 9.238 17.0766C8.887 17.2676 8.494 17.3786 8.08 17.3786C6.751 17.3786 5.669 16.2976 5.669 14.9696C5.669 13.6406 6.751 12.5596 8.08 12.5596C8.492 12.5596 8.888 12.6726 9.244 12.8686C9.589 12.6776 9.98 12.5596 10.401 12.5596C11.732 12.5596 12.814 13.6406 12.814 14.9696C12.814 16.3036 11.732 17.3896 10.401 17.3896ZM2.8 10.5786C2.63431 10.5786 2.5 10.7129 2.5 10.8786V15.2886C2.5 18.0816 4.294 19.9586 6.964 19.9586H17.034C19.705 19.9586 21.5 18.0816 21.5 15.2886V10.8786C21.5 10.7129 21.3657 10.5786 21.2 10.5786H2.8Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Master Card 6 icon with style variants.
+class _BankingMasterCard6Icon {
+  const _BankingMasterCard6Icon();
+
+  /// bulk style
+  _BankingMasterCard6Bulk get bulk => const _BankingMasterCard6Bulk();
+}
+
+/// Master Card 6 — bulk style variants.
+class _BankingMasterCard6Bulk {
+  const _BankingMasterCard6Bulk();
+
+  /// Master Card 6 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Master Card 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.3 10.5781C3.13431 10.5781 3 10.7124 3 10.8781V15.2881C3 18.0811 4.794 19.9581 7.464 19.9581H17.534C20.205 19.9581 22 18.0811 22 15.2881V10.8781C22 10.7124 21.8657 10.5781 21.7 10.5781H3.3Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7 9.07906C21.8657 9.07906 22 8.94475 22 8.77906V8.70906C22 5.91606 20.206 4.03906 17.535 4.03906H7.464C4.794 4.03906 3 5.91606 3 8.70906V8.77906C3 8.94475 3.13431 9.07906 3.3 9.07906H21.7Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9008 17.3896C10.4768 17.3896 10.0838 17.2696 9.73779 17.0766C9.38679 17.2676 8.99379 17.3786 8.57979 17.3786C7.25079 17.3786 6.16879 16.2976 6.16879 14.9696C6.16879 13.6406 7.25079 12.5596 8.57979 12.5596C8.99179 12.5596 9.38779 12.6726 9.74379 12.8686C10.0888 12.6776 10.4798 12.5596 10.9008 12.5596C12.2318 12.5596 13.3138 13.6406 13.3138 14.9696C13.3138 16.3036 12.2318 17.3896 10.9008 17.3896ZM8.66469 14.0766C8.55369 14.3526 8.48869 14.6536 8.48869 14.9696C8.48869 15.2856 8.55369 15.5866 8.66369 15.8636C8.63469 15.8656 8.60969 15.8786 8.57969 15.8786C8.07769 15.8786 7.66869 15.4706 7.66869 14.9696C7.66869 14.4676 8.07769 14.0596 8.57969 14.0596C8.60969 14.0596 8.63569 14.0736 8.66469 14.0766ZM9.98877 14.9696C9.98877 14.4676 10.3978 14.0596 10.9008 14.0596C11.4038 14.0596 11.8138 14.4676 11.8138 14.9696C11.8138 15.4766 11.4038 15.8896 10.9008 15.8896C10.6608 15.8896 10.4458 15.7916 10.2828 15.6376C10.2828 15.6376 10.2818 15.6346 10.2798 15.6336C10.2728 15.6256 10.2618 15.6236 10.2538 15.6156C10.0898 15.4496 9.98877 15.2216 9.98877 14.9696Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Master Card 7 icon with style variants.
+class _BankingMasterCard7Icon {
+  const _BankingMasterCard7Icon();
+
+  /// bulk style
+  _BankingMasterCard7Bulk get bulk => const _BankingMasterCard7Bulk();
+}
+
+/// Master Card 7 — bulk style variants.
+class _BankingMasterCard7Bulk {
+  const _BankingMasterCard7Bulk();
+
+  /// Master Card 7 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Master Card 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.3 10.5781C3.13431 10.5781 3 10.7124 3 10.8781V15.2881C3 18.0811 4.794 19.9581 7.464 19.9581H17.534C20.205 19.9581 22 18.0811 22 15.2881V10.8781C22 10.7124 21.8657 10.5781 21.7 10.5781H3.3Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7 9.07906C21.8657 9.07906 22 8.94475 22 8.77906V8.70906C22 5.91606 20.206 4.03906 17.535 4.03906H7.464C4.794 4.03906 3 5.91606 3 8.70906V8.77906C3 8.94475 3.13431 9.07906 3.3 9.07906H21.7Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9008 17.3896C10.4768 17.3896 10.0838 17.2696 9.73779 17.0766C9.38679 17.2676 8.99379 17.3786 8.57979 17.3786C7.25079 17.3786 6.16879 16.2976 6.16879 14.9696C6.16879 13.6406 7.25079 12.5596 8.57979 12.5596C8.99179 12.5596 9.38779 12.6726 9.74379 12.8686C10.0888 12.6776 10.4798 12.5596 10.9008 12.5596C12.2318 12.5596 13.3138 13.6406 13.3138 14.9696C13.3138 16.3036 12.2318 17.3896 10.9008 17.3896ZM8.66469 14.0766C8.55369 14.3526 8.48869 14.6536 8.48869 14.9696C8.48869 15.2856 8.55369 15.5866 8.66369 15.8636C8.63469 15.8656 8.60969 15.8786 8.57969 15.8786C8.07769 15.8786 7.66869 15.4706 7.66869 14.9696C7.66869 14.4676 8.07769 14.0596 8.57969 14.0596C8.60969 14.0596 8.63569 14.0736 8.66469 14.0766ZM9.98877 14.9696C9.98877 14.4676 10.3978 14.0596 10.9008 14.0596C11.4038 14.0596 11.8138 14.4676 11.8138 14.9696C11.8138 15.4766 11.4038 15.8896 10.9008 15.8896C10.6608 15.8896 10.4458 15.7916 10.2828 15.6376C10.2828 15.6376 10.2818 15.6346 10.2798 15.6336C10.2728 15.6256 10.2618 15.6236 10.2538 15.6156C10.0898 15.4496 9.98877 15.2216 9.98877 14.9696Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Master Card 8 icon with style variants.
+class _BankingMasterCard8Icon {
+  const _BankingMasterCard8Icon();
+
+  /// outline style
+  _BankingMasterCard8Outline get outline => const _BankingMasterCard8Outline();
+}
+
+/// Master Card 8 — outline style variants.
+class _BankingMasterCard8Outline {
+  const _BankingMasterCard8Outline();
+
+  /// Master Card 8 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Master Card 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.6384 4.49699C3.55746 3.511 4.86501 2.96094 6.40432 2.96094H17.5946C19.1377 2.96094 20.4459 3.51065 21.3646 4.49728C22.2776 5.47786 22.75 6.82905 22.75 8.34013V15.6601C22.75 17.1717 22.2776 18.523 21.3643 19.5035C20.4454 20.49 19.1369 21.0393 17.5935 21.0393H6.40432C4.86134 21.0393 3.55333 20.4899 2.63484 19.5033C1.722 18.5228 1.25 17.1716 1.25 15.6601V8.34013C1.25 6.82817 1.7248 5.47713 2.6384 4.49699ZM3.73565 5.51975C3.12385 6.1761 2.75 7.13965 2.75 8.34013V15.6601C2.75 16.8622 3.12232 17.8256 3.73273 18.4812C4.33748 19.1309 5.23163 19.5393 6.40432 19.5393H17.5935C18.7668 19.5393 19.6616 19.1308 20.2667 18.4811C20.8775 17.8254 21.25 16.8621 21.25 15.6601V8.34013C21.25 7.13877 20.8775 6.17537 20.2668 5.51946C19.6617 4.8696 18.7672 4.46094 17.5946 4.46094H6.40432C5.23661 4.46094 4.342 4.86925 3.73565 5.51975Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0067 9.47827C8.61331 9.47827 7.48315 10.6084 7.48315 12.0018C7.48315 13.3951 8.61331 14.5253 10.0067 14.5253C11.4 14.5253 12.5302 13.3951 12.5302 12.0018C12.5302 10.6084 11.4 9.47827 10.0067 9.47827ZM5.98315 12.0018C5.98315 9.78 7.78489 7.97827 10.0067 7.97827C12.2284 7.97827 14.0302 9.78 14.0302 12.0018C14.0302 14.2236 12.2284 16.0253 10.0067 16.0253C7.78489 16.0253 5.98315 14.2236 5.98315 12.0018Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9932 9.47827C12.5999 9.47827 11.4697 10.6084 11.4697 12.0018C11.4697 13.3951 12.5999 14.5253 13.9932 14.5253C15.3866 14.5253 16.5168 13.3951 16.5168 12.0018C16.5168 10.6084 15.3866 9.47827 13.9932 9.47827ZM9.96973 12.0018C9.96973 9.78 11.7715 7.97827 13.9932 7.97827C16.215 7.97827 18.0168 9.78 18.0168 12.0018C18.0168 14.2236 16.215 16.0253 13.9932 16.0253C11.7715 16.0253 9.96973 14.2236 9.96973 12.0018Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Master Card 9 icon with style variants.
+class _BankingMasterCard9Icon {
+  const _BankingMasterCard9Icon();
+
+  /// outline style
+  _BankingMasterCard9Outline get outline => const _BankingMasterCard9Outline();
+}
+
+/// Master Card 9 — outline style variants.
+class _BankingMasterCard9Outline {
+  const _BankingMasterCard9Outline();
+
+  /// Master Card 9 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Master Card 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.5197 5.19537C4.36249 4.29121 5.55993 3.78906 6.96389 3.78906H17.0351C18.4424 3.78906 19.6405 4.29086 20.483 5.19566C21.3199 6.09441 21.75 7.32987 21.75 8.70533V15.2933C21.75 16.6692 21.3199 17.9048 20.4828 18.8035C19.6401 19.7082 18.4417 20.2096 17.0342 20.2096H6.96389C5.55669 20.2096 4.35879 19.7081 3.51646 18.8033C2.67978 17.9046 2.25 16.6691 2.25 15.2933V8.70533C2.25 7.329 2.68236 6.09368 3.5197 5.19537ZM4.61695 6.21814C4.08142 6.79266 3.75 7.64048 3.75 8.70533V15.2933C3.75 16.3597 4.08011 17.2074 4.61435 17.7812C5.14294 18.349 5.92699 18.7096 6.96389 18.7096H17.0342C18.0717 18.7096 18.8562 18.349 19.3852 17.7811C19.9197 17.2072 20.25 16.3596 20.25 15.2933V8.70533C20.25 7.6396 19.9198 6.79193 19.3852 6.21784C18.8563 5.64981 18.0719 5.28906 17.0351 5.28906H6.96389C5.93153 5.28906 5.14702 5.64946 4.61695 6.21814Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.83337C2.25 9.41916 2.58579 9.08337 3 9.08337H21C21.4142 9.08337 21.75 9.41916 21.75 9.83337C21.75 10.2476 21.4142 10.5834 21 10.5834H3C2.58579 10.5834 2.25 10.2476 2.25 9.83337Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.07957 14.061C7.57598 14.061 7.1687 14.4679 7.1687 14.9719C7.1687 15.4752 7.57627 15.8828 8.07957 15.8828C8.3308 15.8828 8.55243 15.7873 8.72087 15.6227C9.01704 15.3331 9.49189 15.3384 9.78146 15.6346C10.071 15.9308 10.0657 16.4056 9.76951 16.6952C9.32692 17.1279 8.73125 17.3828 8.07957 17.3828C6.74784 17.3828 5.6687 16.3036 5.6687 14.9719C5.6687 13.6389 6.74813 12.561 8.07957 12.561C8.73113 12.561 9.32635 12.8158 9.76863 13.2468C10.0653 13.5359 10.0714 14.0107 9.78232 14.3073C9.49323 14.604 9.01839 14.6101 8.72174 14.321C8.55299 14.1566 8.33092 14.061 8.07957 14.061Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.4009 14.061C9.89784 14.061 9.48901 14.4693 9.48901 14.9738C9.48901 15.4784 9.89784 15.8867 10.4009 15.8867C10.9051 15.8867 11.3137 15.4781 11.3137 14.9738C11.3137 14.4696 10.9051 14.061 10.4009 14.061ZM7.98901 14.9738C7.98901 13.6414 9.06884 12.561 10.4009 12.561C11.7336 12.561 12.8137 13.6411 12.8137 14.9738C12.8137 16.3065 11.7336 17.3867 10.4009 17.3867C9.06884 17.3867 7.98901 16.3063 7.98901 14.9738Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Master Card 10 icon with style variants.
+class _BankingMasterCard10Icon {
+  const _BankingMasterCard10Icon();
+
+  /// twoTone style
+  _BankingMasterCard10Twotone get twoTone => const _BankingMasterCard10Twotone();
+}
+
+/// Master Card 10 — twoTone style variants.
+class _BankingMasterCard10Twotone {
+  const _BankingMasterCard10Twotone();
+
+  /// Master Card 10 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Master Card 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.5946 3.71094H6.40432C3.6973 3.71094 2 5.62769 2 8.34013V15.6601C2 18.3736 3.68865 20.2893 6.40432 20.2893H17.5935C20.3103 20.2893 22 18.3736 22 15.6601V8.34013C22 5.62769 20.3103 3.71094 17.5946 3.71094Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.2801 12.0018C13.2801 13.8094 11.8142 15.2753 10.0066 15.2753C8.19904 15.2753 6.73309 13.8094 6.73309 12.0018C6.73309 10.1942 8.19904 8.7283 10.0066 8.7283C11.8142 8.7283 13.2801 10.1942 13.2801 12.0018Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2666 12.0018C17.2666 13.8094 15.8007 15.2753 13.9931 15.2753C12.1856 15.2753 10.7196 13.8094 10.7196 12.0018C10.7196 10.1942 12.1856 8.7283 13.9931 8.7283C15.8007 8.7283 17.2666 10.1942 17.2666 12.0018Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Master Card 11 icon with style variants.
+class _BankingMasterCard11Icon {
+  const _BankingMasterCard11Icon();
+
+  /// twoTone style
+  _BankingMasterCard11Twotone get twoTone => const _BankingMasterCard11Twotone();
+}
+
+/// Master Card 11 — twoTone style variants.
+class _BankingMasterCard11Twotone {
+  const _BankingMasterCard11Twotone();
+
+  /// Master Card 11 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Master Card 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0351 4.53906H6.96389C4.52757 4.53906 3 6.26414 3 8.70533V15.2933C3 17.7355 4.51978 19.4596 6.96389 19.4596H17.0342C19.4792 19.4596 21 17.7355 21 15.2933V8.70533C21 6.26414 19.4792 4.53906 17.0351 4.53906Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.83341H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.24519 16.1589C8.93967 16.4576 8.53103 16.6327 8.07957 16.6327C7.16205 16.6327 6.4187 15.8894 6.4187 14.9719C6.4187 14.0534 7.16205 13.311 8.07957 13.311C8.53103 13.311 8.93967 13.4862 9.24519 13.7839" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0637 14.9738C12.0637 15.8923 11.3193 16.6366 10.4009 16.6366C9.48334 16.6366 8.73901 15.8923 8.73901 14.9738C8.73901 14.0553 9.48334 13.311 10.4009 13.311C11.3193 13.311 12.0637 14.0553 12.0637 14.9738Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -2150,93 +5020,8 @@ class _BankingWalletCheckLight {
 class _BankingBankCardSwapIcon {
   const _BankingBankCardSwapIcon();
 
-  /// bold style
-  _BankingBankCardSwapBold get bold => const _BankingBankCardSwapBold();
-  /// bulk style
-  _BankingBankCardSwapBulk get bulk => const _BankingBankCardSwapBulk();
   /// light style
   _BankingBankCardSwapLight get light => const _BankingBankCardSwapLight();
-  /// outline style
-  _BankingBankCardSwapOutline get outline => const _BankingBankCardSwapOutline();
-  /// twoTone style
-  _BankingBankCardSwapTwotone get twoTone => const _BankingBankCardSwapTwotone();
-  /// broken style
-  _BankingBankCardSwapBroken get broken => const _BankingBankCardSwapBroken();
-}
-
-/// Bank Card swap — bulk style variants.
-class _BankingBankCardSwapBulk {
-  const _BankingBankCardSwapBulk();
-
-  /// Bank Card swap — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card swap',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.04358 14.713C3.01656 14.8832 3.15499 15.0287 3.32726 15.0287H12.7528C12.925 15.0287 13.0635 14.8832 13.0364 14.713C12.8369 13.4564 11.8837 12.6187 10.58 12.6187H5.50001C4.19634 12.6187 3.24316 13.4564 3.04358 14.713Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3 18.5383C3 20.0683 4.03 21.1383 5.5 21.1383H10.58C12.05 21.1383 13.08 20.0683 13.08 18.5383V16.8283C13.08 16.6626 12.9457 16.5283 12.78 16.5283H3.3C3.13432 16.5283 3 16.6626 3 16.8283V18.5383Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.5 2.89844H14.42C13.1156 2.89844 12.1535 3.74572 11.9613 5.00483C11.9354 5.17431 12.0736 5.31844 12.245 5.31844H21.6749C21.8464 5.31844 21.9846 5.17431 21.9587 5.00483C21.7665 3.74572 20.8044 2.89844 19.5 2.89844Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22 8.81836V7.11836C22 6.95267 21.8657 6.81836 21.7 6.81836H12.22C12.0543 6.81836 11.92 6.95267 11.92 7.11836V8.81836C11.92 10.3484 12.95 11.4184 14.42 11.4184H19.5C20.97 11.4184 22 10.3484 22 8.81836Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.25 8.47038C4.25 6.45738 5.62 4.75938 7.476 4.25937L7.301 4.72837C7.156 5.11637 7.354 5.54838 7.742 5.69338C8.131 5.83938 8.562 5.64037 8.707 5.25137L9.314 3.62038C9.4 3.39038 9.367 3.13238 9.228 2.93137C9.087 2.72937 8.857 2.60938 8.611 2.60938C5.379 2.60938 2.75 5.23837 2.75 8.47038C2.75 8.88438 3.086 9.22038 3.5 9.22038C3.914 9.22038 4.25 8.88438 4.25 8.47038Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 14.7788C21.086 14.7788 20.75 15.1148 20.75 15.5288C20.75 17.5428 19.379 19.2408 17.521 19.7408L17.699 19.2598C17.843 18.8718 17.645 18.4398 17.257 18.2968C16.87 18.1508 16.436 18.3498 16.293 18.7388L15.686 20.3798C15.601 20.6098 15.633 20.8678 15.773 21.0688C15.913 21.2698 16.144 21.3898 16.389 21.3898C19.621 21.3898 22.25 18.7608 22.25 15.5288C22.25 15.1148 21.914 14.7788 21.5 14.7788Z" fill="black"/> </g> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card swap — broken style variants.
-class _BankingBankCardSwapBroken {
-  const _BankingBankCardSwapBroken();
-
-  /// Bank Card swap — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card swap',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.8901 15.1729V17.2229C19.8901 19.0998 18.3693 20.6205 16.4934 20.6205" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5325 16.4549L19.8907 15.0967L21.25 16.4549" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.60876 8.82657V6.77652C4.60876 4.89966 6.12952 3.37891 8.00541 3.37891" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.96751 7.54492L4.60924 8.90319L3.25 7.54492" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3268 20.6406C11.5586 20.6406 12.3254 19.7707 12.3254 18.5398V15.2179C12.3254 13.9871 11.5586 13.1172 10.3268 13.1172H5.24858C4.02063 13.1172 3.25 13.9871 3.25 15.2179V18.5398C3.25 19.7707 4.01674 20.6406 5.24858 20.6406H7.78768" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.81445 15.7852H12.3253" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1734 10.9218C12.9415 10.9218 12.1748 10.052 12.1748 8.82108V5.49919C12.1748 4.26832 12.9454 3.39844 14.1734 3.39844H19.2516C20.4834 3.39844 21.2502 4.26832 21.2502 5.49919V8.82108C21.2502 10.052 20.4834 10.9218 19.2516 10.9218H16.7125" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.1748 6.07031H18.7771" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card swap — twoTone style variants.
-class _BankingBankCardSwapTwotone {
-  const _BankingBankCardSwapTwotone();
-
-  /// Bank Card swap — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card swap',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0764 13.0972H4.99848C3.77059 13.0972 3 13.9671 3 15.1979V18.5196C3 19.7504 3.7667 20.6202 4.99848 20.6202H10.0764C11.3082 20.6202 12.0749 19.7504 12.0749 18.5196V15.1979C12.0749 13.9671 11.3082 13.0972 10.0764 13.0972Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 15.7691H12.0749" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0004 3.37891H13.9224C12.6945 3.37891 11.924 4.24874 11.924 5.47955V8.80128C11.924 10.0321 12.6907 10.9019 13.9224 10.9019H19.0004C20.2322 10.9019 20.9989 10.0321 20.9989 8.80128V5.47955C20.9989 4.24874 20.2322 3.37891 19.0004 3.37891Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M11.924 6.04697H20.9989" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.6401 15.1724V17.2224C19.6401 19.0993 18.1193 20.62 16.2434 20.62" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2825 16.4546L19.6407 15.0964L21 16.4546" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M4.35876 8.82657V6.77652C4.35876 4.89966 5.87952 3.37891 7.75541 3.37891" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.71751 7.54443L4.35924 8.9027L3 7.54443" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card swap — outline style variants.
-class _BankingBankCardSwapOutline {
-  const _BankingBankCardSwapOutline();
-
-  /// Bank Card swap — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card swap',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.99021 13.1936C3.49266 12.6546 4.19873 12.3662 4.99858 12.3662H10.0768C10.8781 12.3662 11.5846 12.6543 12.087 13.194C12.5837 13.7276 12.8254 14.4467 12.8254 15.217V18.5389C12.8254 19.3091 12.5837 20.0282 12.087 20.5618C11.5846 21.1015 10.8781 21.3896 10.0768 21.3896H4.99858C4.1973 21.3896 3.4908 21.1015 2.98839 20.5618C2.49162 20.0282 2.25 19.3091 2.25 18.5389V15.217C2.25 14.4457 2.49319 13.7268 2.99021 13.1936ZM4.08741 14.2164C3.89213 14.4259 3.75 14.7574 3.75 15.217V18.5389C3.75 18.9994 3.89175 19.3308 4.08631 19.5398C4.27524 19.7427 4.56803 19.8896 4.99858 19.8896H10.0768C10.5073 19.8896 10.8001 19.7427 10.9891 19.5398C11.1836 19.3308 11.3254 18.9994 11.3254 18.5389V15.217C11.3254 14.7564 11.1836 14.425 10.9891 14.216C10.8001 14.0131 10.5073 13.8662 10.0768 13.8662H4.99858C4.57049 13.8662 4.27727 14.0128 4.08741 14.2164Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 15.7844C2.25 15.3701 2.58579 15.0344 3 15.0344H12.0754C12.4896 15.0344 12.8254 15.3701 12.8254 15.7844C12.8254 16.1986 12.4896 16.5344 12.0754 16.5344H3C2.58579 16.5344 2.25 16.1986 2.25 15.7844Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9145 3.47479C12.417 2.9358 13.123 2.6474 13.9229 2.6474H19.0011C19.8024 2.6474 20.5089 2.93547 21.0113 3.47518C21.5081 4.00883 21.7497 4.72787 21.7497 5.49815V8.82004C21.7497 9.59033 21.5081 10.3094 21.0113 10.843C20.5089 11.3827 19.8024 11.6708 19.0011 11.6708H13.9229C13.1216 11.6708 12.4151 11.3827 11.9127 10.843C11.4159 10.3094 11.1743 9.59033 11.1743 8.82004V5.49815C11.1743 4.72687 11.4175 4.00796 11.9145 3.47479ZM13.0117 4.4976C12.8164 4.7071 12.6743 5.03856 12.6743 5.49815V8.82004C12.6743 9.28063 12.8161 9.61197 13.0106 9.82098C13.1996 10.0239 13.4923 10.1708 13.9229 10.1708H19.0011C19.4317 10.1708 19.7244 10.0239 19.9134 9.82098C20.1079 9.61197 20.2497 9.28063 20.2497 8.82004V5.49815C20.2497 5.03756 20.1079 4.70623 19.9134 4.49722C19.7244 4.29427 19.4317 4.1474 19.0011 4.1474H13.9229C13.4948 4.1474 13.2016 4.29394 13.0117 4.4976Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1743 6.0694C11.1743 5.65518 11.5101 5.3194 11.9243 5.3194H20.9997C21.4139 5.3194 21.7497 5.65518 21.7497 6.0694C21.7497 6.48361 21.4139 6.8194 20.9997 6.8194H11.9243C11.5101 6.8194 11.1743 6.48361 11.1743 6.0694Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.97677 4.25842C5.11826 4.75781 3.75 6.45456 3.75 8.47065C3.75 8.88487 3.41421 9.22065 3 9.22065C2.58579 9.22065 2.25 8.88487 2.25 8.47065C2.25 5.23371 4.87433 2.60938 8.11128 2.60938C8.3569 2.60938 8.58695 2.72964 8.72713 2.93133C8.86732 3.13302 8.89986 3.39057 8.81424 3.62079L8.20708 5.25352C8.06271 5.64175 7.63094 5.83945 7.2427 5.69507C6.85446 5.5507 6.65677 5.11893 6.80115 4.73069L6.97677 4.25842Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21 14.7759C21.4142 14.7759 21.75 15.1117 21.75 15.5259C21.75 18.7629 19.1256 21.3872 15.8887 21.3872C15.6431 21.3872 15.413 21.2669 15.2728 21.0653C15.1326 20.8636 15.1001 20.606 15.1857 20.3758L15.7929 18.7431C15.9372 18.3548 16.369 18.1571 16.7573 18.3015C17.1455 18.4459 17.3432 18.8777 17.1988 19.2659L17.0232 19.7382C18.8817 19.2388 20.25 17.542 20.25 15.5259C20.25 15.1117 20.5857 14.7759 21 14.7759Z" fill="black"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card swap — bold style variants.
-class _BankingBankCardSwapBold {
-  const _BankingBankCardSwapBold();
-
-  /// Bank Card swap — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card swap',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.54132 14.706C2.51545 14.8755 2.65361 15.0196 2.82505 15.0196H12.255C12.4264 15.0196 12.5646 14.8755 12.5387 14.706C12.3465 13.4469 11.3844 12.5996 10.08 12.5996H5.00001C3.69559 12.5996 2.73351 13.4469 2.54132 14.706Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.5 18.5195C2.5 20.0495 3.53 21.1195 5 21.1195H10.08C11.55 21.1195 12.58 20.0495 12.58 18.5195V16.8195C12.58 16.6538 12.4457 16.5195 12.28 16.5195H2.8C2.63432 16.5195 2.5 16.6538 2.5 16.8195V18.5195Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4586 4.98579C21.4844 5.15527 21.3463 5.29939 21.1748 5.29939H11.7449C11.5735 5.29939 11.4353 5.15527 11.4612 4.98579C11.6534 3.72668 12.6155 2.87939 13.9199 2.87939H18.9999C20.3043 2.87939 21.2664 3.72668 21.4586 4.98579Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2 6.79932C21.3657 6.79932 21.5 6.93363 21.5 7.09932V8.79932C21.5 10.3293 20.47 11.3993 19 11.3993H13.92C12.45 11.3993 11.42 10.3293 11.42 8.79932V7.09932C11.42 6.93363 11.5543 6.79932 11.72 6.79932H21.2Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5283 15.9174L20.1693 14.5664C19.8783 14.2754 19.4033 14.2754 19.1123 14.5664L17.7543 15.9174C17.4603 16.2094 17.4583 16.6854 17.7503 16.9784C17.8963 17.1254 18.0903 17.1994 18.2823 17.1994C18.4733 17.1994 18.6653 17.1274 18.8103 16.9814L18.8893 16.9034V17.2204C18.8893 18.6814 17.7023 19.8694 16.2433 19.8694C15.8293 19.8694 15.4933 20.2054 15.4933 20.6194C15.4933 21.0334 15.8293 21.3694 16.2433 21.3694C18.5293 21.3694 20.3893 19.5084 20.3893 17.2204V16.9004L20.4713 16.9814C20.7653 17.2724 21.2403 17.2724 21.5323 16.9784C21.8243 16.6844 21.8223 16.2094 21.5283 15.9174Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.35926 9.64991C4.55826 9.64991 4.74926 9.57091 4.88926 9.42991L6.24826 8.06991C6.54126 7.77691 6.54126 7.30091 6.24826 7.00891C5.95426 6.71491 5.47926 6.71691 5.18726 7.00891L5.10926 7.08791V6.77891C5.10926 5.31791 6.29626 4.12891 7.75526 4.12891C8.16926 4.12891 8.50526 3.79391 8.50526 3.37891C8.50526 2.96491 8.16926 2.62891 7.75526 2.62891C5.46826 2.62891 3.60926 4.49091 3.60926 6.77891V7.08791L3.53026 7.00891C3.23826 6.71691 2.76326 6.71491 2.46926 7.00891C2.17626 7.30191 2.17626 7.77691 2.46926 8.06991L3.82926 9.42991C3.96926 9.57091 4.16026 9.64991 4.35926 9.64991Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Bank Card swap — light style variants.
@@ -2254,47 +5039,45 @@ class _BankingBankCardSwapLight {
 
 }
 
-/// Wallet income icon with style variants.
-class _BankingWalletIncomeIcon {
-  const _BankingWalletIncomeIcon();
+/// Bank Card swap 1 icon with style variants.
+class _BankingBankCardSwap1Icon {
+  const _BankingBankCardSwap1Icon();
 
-  /// bold style
-  _BankingWalletIncomeBold get bold => const _BankingWalletIncomeBold();
-  /// bulk style
-  _BankingWalletIncomeBulk get bulk => const _BankingWalletIncomeBulk();
   /// light style
-  _BankingWalletIncomeLight get light => const _BankingWalletIncomeLight();
-  /// outline style
-  _BankingWalletIncomeOutline get outline => const _BankingWalletIncomeOutline();
-  /// twoTone style
-  _BankingWalletIncomeTwotone get twoTone => const _BankingWalletIncomeTwotone();
-  /// broken style
-  _BankingWalletIncomeBroken get broken => const _BankingWalletIncomeBroken();
+  _BankingBankCardSwap1Light get light => const _BankingBankCardSwap1Light();
 }
 
-/// Wallet income — bulk style variants.
-class _BankingWalletIncomeBulk {
-  const _BankingWalletIncomeBulk();
+/// Bank Card swap 1 — light style variants.
+class _BankingBankCardSwap1Light {
+  const _BankingBankCardSwap1Light();
 
-  /// Wallet income — bulk / regular
+  /// Bank Card swap 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet income',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.205 12.5881C13.205 14.1081 14.435 15.3381 15.945 15.3381C17.126 15.3381 19.4384 15.3315 20.2689 15.3291C20.437 15.3286 20.5734 15.4666 20.5606 15.6343C20.3558 18.3106 18.1118 20.4181 15.385 20.4181H8.53496C5.66496 20.4181 3.33496 18.0881 3.33496 15.2181V8.78813C3.33496 5.91813 5.66496 3.57812 8.53496 3.57812H15.385C18.1114 3.57812 20.346 5.68508 20.5595 8.36093C20.5729 8.52895 20.4364 8.66769 20.2678 8.66719C19.4366 8.6647 17.1262 8.65812 15.945 8.65812C14.435 8.65812 13.205 9.88812 13.205 11.4081V12.5881Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9448 10.1602H20.4148C21.1048 10.1602 21.6648 10.7202 21.6648 11.4102V12.5902C21.6648 13.2802 21.1048 13.8402 20.4148 13.8402H15.9448C15.2548 13.8402 14.7048 13.2802 14.7048 12.5902V11.4102C14.7048 10.7202 15.2548 10.1602 15.9448 10.1602ZM16.0248 12.0002C16.0248 12.3902 16.3448 12.7102 16.7448 12.7102C17.1348 12.7102 17.4548 12.3902 17.4548 12.0002C17.4548 11.6102 17.1348 11.2902 16.7448 11.2902C16.3448 11.2902 16.0248 11.6102 16.0248 12.0002Z" fill="black"/> <path d="M8.68036 15.4004C8.26636 15.4004 7.93036 15.0644 7.93036 14.6504V11.1845L7.54735 11.5682C7.40135 11.7162 7.20835 11.7892 7.01635 11.7892C6.82535 11.7892 6.63335 11.7162 6.48735 11.5702C6.19335 11.2772 6.19335 10.8032 6.48535 10.5102L8.07767 8.91308C8.21436 8.72885 8.43349 8.60938 8.68036 8.60938C8.9235 8.60938 9.13974 8.72527 9.27681 8.90479L10.8784 10.5102C11.1704 10.8032 11.1704 11.2772 10.8764 11.5702C10.5844 11.8622 10.1084 11.8622 9.81635 11.5682L9.43036 11.1818V14.6504C9.43036 15.0644 9.09436 15.4004 8.68036 15.4004Z" fill="black"/> </svg>',
+    name: 'Bank Card swap 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0768 13.1172H4.99858C3.77063 13.1172 3 13.9871 3 15.2179V18.5398C3 19.7707 3.76674 20.6406 4.99858 20.6406H10.0768C11.3086 20.6406 12.0754 19.7707 12.0754 18.5398V15.2179C12.0754 13.9871 11.3086 13.1172 10.0768 13.1172Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 15.7834H12.0754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0016 3.39844H13.9234C12.6954 3.39844 11.9248 4.26832 11.9248 5.49919V8.82108C11.9248 10.052 12.6915 10.9218 13.9234 10.9218H19.0016C20.2334 10.9218 21.0002 10.052 21.0002 8.82108V5.49919C21.0002 4.26832 20.2334 3.39844 19.0016 3.39844Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9248 6.06854H21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 8.47065C3 5.64792 5.28854 3.35938 8.11128 3.35938L7.50411 4.9921" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9999 15.5273C20.9999 18.3501 18.7114 20.6386 15.8887 20.6386L16.4958 19.0059" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
-    style: IconfyStyle.bulk,
+    style: IconfyStyle.light,
     type: IconfyType.regular,
   );
 
 }
 
-/// Wallet income — broken style variants.
-class _BankingWalletIncomeBroken {
-  const _BankingWalletIncomeBroken();
+/// Bank Card swap 2 icon with style variants.
+class _BankingBankCardSwap2Icon {
+  const _BankingBankCardSwap2Icon();
 
-  /// Wallet income — broken / regular
+  /// broken style
+  _BankingBankCardSwap2Broken get broken => const _BankingBankCardSwap2Broken();
+}
+
+/// Bank Card swap 2 — broken style variants.
+class _BankingBankCardSwap2Broken {
+  const _BankingBankCardSwap2Broken();
+
+  /// Bank Card swap 2 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet income',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.7929 14.3602H17.4412C16.043 14.3602 14.9105 13.2267 14.9105 11.8286C14.9105 10.4314 16.043 9.29785 17.4412 9.29785H21.2484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2466 11.7725H17.2437" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8882 20.2639H16.3141C19.0404 20.2639 21.25 18.0543 21.25 15.328V8.57847C21.25 5.8522 19.0404 3.64258 16.3141 3.64258H15.6107" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 11.5645V8.57652C3.25 5.85025 5.45962 3.64062 8.18589 3.64062H12.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.68921 13.7559V20.3555" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3399 16.4179L7.68956 13.7559L5.03821 16.4179" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    name: 'Bank Card swap 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.8901 15.1729V17.2229C19.8901 19.0998 18.3693 20.6205 16.4934 20.6205" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5325 16.4549L19.8907 15.0967L21.25 16.4549" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.60876 8.82657V6.77652C4.60876 4.89966 6.12952 3.37891 8.00541 3.37891" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.96751 7.54492L4.60924 8.90319L3.25 7.54492" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3268 20.6406C11.5586 20.6406 12.3254 19.7707 12.3254 18.5398V15.2179C12.3254 13.9871 11.5586 13.1172 10.3268 13.1172H5.24858C4.02063 13.1172 3.25 13.9871 3.25 15.2179V18.5398C3.25 19.7707 4.01674 20.6406 5.24858 20.6406H7.78768" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.81445 15.7852H12.3253" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1734 10.9218C12.9415 10.9218 12.1748 10.052 12.1748 8.82108V5.49919C12.1748 4.26832 12.9454 3.39844 14.1734 3.39844H19.2516C20.4834 3.39844 21.2502 4.26832 21.2502 5.49919V8.82108C21.2502 10.052 20.4834 10.9218 19.2516 10.9218H16.7125" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.1748 6.07031H18.7771" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -2302,29 +5085,137 @@ class _BankingWalletIncomeBroken {
 
 }
 
-/// Wallet income — twoTone style variants.
-class _BankingWalletIncomeTwotone {
-  const _BankingWalletIncomeTwotone();
+/// Bank Card swap 3 icon with style variants.
+class _BankingBankCardSwap3Icon {
+  const _BankingBankCardSwap3Icon();
 
-  /// Wallet income — twoTone / regular
+  /// broken style
+  _BankingBankCardSwap3Broken get broken => const _BankingBankCardSwap3Broken();
+}
+
+/// Bank Card swap 3 — broken style variants.
+class _BankingBankCardSwap3Broken {
+  const _BankingBankCardSwap3Broken();
+
+  /// Bank Card swap 3 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet income',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.9975 14.4072H17.1902C15.7921 14.4072 14.6586 13.2737 14.6586 11.8756C14.6586 10.4784 15.7921 9.34486 17.1902 9.34486H20.9975" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.8191H16.9937" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.6133V8.62535C3 5.89907 5.20962 3.68945 7.93589 3.68945H16.0641C18.7904 3.68945 21 5.89907 21 8.62535V15.3749C21 18.1011 18.7904 20.3108 16.0641 20.3108H12.6383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.66638 15.6426L3 20.309M7.66638 15.6426L7.65913 19.3992M7.66638 15.6426L3.91026 15.6504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    name: 'Bank Card swap 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.8901 15.1729V17.2229C19.8901 19.0998 18.3693 20.6205 16.4934 20.6205" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5325 16.4549L19.8907 15.0967L21.25 16.4549" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.60876 8.82657V6.77652C4.60876 4.89966 6.12952 3.37891 8.00541 3.37891" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.96751 7.54492L4.60924 8.90319L3.25 7.54492" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3268 20.6406C11.5586 20.6406 12.3254 19.7707 12.3254 18.5398V15.2179C12.3254 13.9871 11.5586 13.1172 10.3268 13.1172H5.24858C4.02063 13.1172 3.25 13.9871 3.25 15.2179V18.5398C3.25 19.7707 4.01674 20.6406 5.24858 20.6406H7.78768" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.81445 15.7852H12.3253" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1734 10.9218C12.9415 10.9218 12.1748 10.052 12.1748 8.82108V5.49919C12.1748 4.26832 12.9454 3.39844 14.1734 3.39844H19.2516C20.4834 3.39844 21.2502 4.26832 21.2502 5.49919V8.82108C21.2502 10.052 20.4834 10.9218 19.2516 10.9218H16.7125" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.1748 6.07031H18.7771" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
-    style: IconfyStyle.twoTone,
+    style: IconfyStyle.broken,
     type: IconfyType.regular,
   );
 
 }
 
-/// Wallet income — outline style variants.
-class _BankingWalletIncomeOutline {
-  const _BankingWalletIncomeOutline();
+/// Bank Card swap 4 icon with style variants.
+class _BankingBankCardSwap4Icon {
+  const _BankingBankCardSwap4Icon();
 
-  /// Wallet income — outline / regular
+  /// bold style
+  _BankingBankCardSwap4Bold get bold => const _BankingBankCardSwap4Bold();
+}
+
+/// Bank Card swap 4 — bold style variants.
+class _BankingBankCardSwap4Bold {
+  const _BankingBankCardSwap4Bold();
+
+  /// Bank Card swap 4 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet income',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1904 10.0948C16.2062 10.0948 15.4087 10.8928 15.4087 11.8756C15.4087 12.8595 16.2064 13.6572 17.1904 13.6572H20.9976C21.4118 13.6572 21.7476 13.993 21.7476 14.4072C21.7476 14.8214 21.4118 15.1572 20.9976 15.1572H17.1904C15.378 15.1572 13.9087 13.6879 13.9087 11.8756C13.9087 10.064 15.3782 8.59485 17.1904 8.59485H20.9976C21.4118 8.59485 21.7476 8.93064 21.7476 9.34485C21.7476 9.75906 21.4118 10.0948 20.9976 10.0948H17.1904Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2437 11.8191C16.2437 11.4049 16.5794 11.0691 16.9937 11.0691H16.9966C17.4108 11.0691 17.7466 11.4049 17.7466 11.8191C17.7466 12.2333 17.4108 12.5691 16.9966 12.5691H16.9937C16.5794 12.5691 16.2437 12.2333 16.2437 11.8191Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.93589 4.43945C5.62384 4.43945 3.75 6.31329 3.75 8.62535V11.6133C3.75 12.0276 3.41421 12.3633 3 12.3633C2.58579 12.3633 2.25 12.0276 2.25 11.6133V8.62535C2.25 5.48486 4.79541 2.93945 7.93589 2.93945H16.0641C19.2046 2.93945 21.75 5.48486 21.75 8.62535V15.3749C21.75 18.5153 19.2046 21.0608 16.0641 21.0608H12.6383C12.2241 21.0608 11.8883 20.725 11.8883 20.3108C11.8883 19.8965 12.2241 19.5608 12.6383 19.5608H16.0641C18.3762 19.5608 20.25 17.6869 20.25 15.3749V8.62535C20.25 6.31329 18.3762 4.43945 16.0641 4.43945H7.93589Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.19671 15.1122C8.4896 15.4051 8.4896 15.88 8.19671 16.1729L3.53033 20.8393C3.23744 21.1322 2.76256 21.1322 2.46967 20.8393C2.17678 20.5464 2.17678 20.0715 2.46967 19.7786L7.13605 15.1122C7.42894 14.8194 7.90382 14.8194 8.19671 15.1122Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.19713 15.1122C8.33817 15.2533 8.41722 15.4447 8.4168 15.6441L8.40902 19.4008C8.40816 19.815 8.07168 20.1501 7.65747 20.1492C7.24325 20.1484 6.90816 19.8119 6.90902 19.3977L6.91525 16.3941L3.91171 16.4004C3.4975 16.4012 3.16102 16.0661 3.16016 15.6519C3.1593 15.2377 3.49439 14.9012 3.9086 14.9004L7.66525 14.8926C7.8647 14.8922 8.0561 14.9712 8.19713 15.1122Z" fill="black"/> </svg> ',
+    name: 'Bank Card swap 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.54132 14.706C2.51545 14.8755 2.65361 15.0196 2.82505 15.0196H12.255C12.4264 15.0196 12.5646 14.8755 12.5387 14.706C12.3465 13.4469 11.3844 12.5996 10.08 12.5996H5.00001C3.69559 12.5996 2.73351 13.4469 2.54132 14.706Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.5 18.5195C2.5 20.0495 3.53 21.1195 5 21.1195H10.08C11.55 21.1195 12.58 20.0495 12.58 18.5195V16.8195C12.58 16.6538 12.4457 16.5195 12.28 16.5195H2.8C2.63432 16.5195 2.5 16.6538 2.5 16.8195V18.5195Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4586 4.98579C21.4844 5.15527 21.3463 5.29939 21.1748 5.29939H11.7449C11.5735 5.29939 11.4353 5.15527 11.4612 4.98579C11.6534 3.72668 12.6155 2.87939 13.9199 2.87939H18.9999C20.3043 2.87939 21.2664 3.72668 21.4586 4.98579Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2 6.79932C21.3657 6.79932 21.5 6.93363 21.5 7.09932V8.79932C21.5 10.3293 20.47 11.3993 19 11.3993H13.92C12.45 11.3993 11.42 10.3293 11.42 8.79932V7.09932C11.42 6.93363 11.5543 6.79932 11.72 6.79932H21.2Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5283 15.9174L20.1693 14.5664C19.8783 14.2754 19.4033 14.2754 19.1123 14.5664L17.7543 15.9174C17.4603 16.2094 17.4583 16.6854 17.7503 16.9784C17.8963 17.1254 18.0903 17.1994 18.2823 17.1994C18.4733 17.1994 18.6653 17.1274 18.8103 16.9814L18.8893 16.9034V17.2204C18.8893 18.6814 17.7023 19.8694 16.2433 19.8694C15.8293 19.8694 15.4933 20.2054 15.4933 20.6194C15.4933 21.0334 15.8293 21.3694 16.2433 21.3694C18.5293 21.3694 20.3893 19.5084 20.3893 17.2204V16.9004L20.4713 16.9814C20.7653 17.2724 21.2403 17.2724 21.5323 16.9784C21.8243 16.6844 21.8223 16.2094 21.5283 15.9174Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.35926 9.64991C4.55826 9.64991 4.74926 9.57091 4.88926 9.42991L6.24826 8.06991C6.54126 7.77691 6.54126 7.30091 6.24826 7.00891C5.95426 6.71491 5.47926 6.71691 5.18726 7.00891L5.10926 7.08791V6.77891C5.10926 5.31791 6.29626 4.12891 7.75526 4.12891C8.16926 4.12891 8.50526 3.79391 8.50526 3.37891C8.50526 2.96491 8.16926 2.62891 7.75526 2.62891C5.46826 2.62891 3.60926 4.49091 3.60926 6.77891V7.08791L3.53026 7.00891C3.23826 6.71691 2.76326 6.71491 2.46926 7.00891C2.17626 7.30191 2.17626 7.77691 2.46926 8.06991L3.82926 9.42991C3.96926 9.57091 4.16026 9.64991 4.35926 9.64991Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card swap 5 icon with style variants.
+class _BankingBankCardSwap5Icon {
+  const _BankingBankCardSwap5Icon();
+
+  /// bold style
+  _BankingBankCardSwap5Bold get bold => const _BankingBankCardSwap5Bold();
+}
+
+/// Bank Card swap 5 — bold style variants.
+class _BankingBankCardSwap5Bold {
+  const _BankingBankCardSwap5Bold();
+
+  /// Bank Card swap 5 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card swap 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.54132 14.706C2.51545 14.8755 2.65361 15.0196 2.82505 15.0196H12.255C12.4264 15.0196 12.5646 14.8755 12.5387 14.706C12.3465 13.4469 11.3844 12.5996 10.08 12.5996H5.00001C3.69559 12.5996 2.73351 13.4469 2.54132 14.706Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.5 18.5195C2.5 20.0495 3.53 21.1195 5 21.1195H10.08C11.55 21.1195 12.58 20.0495 12.58 18.5195V16.8195C12.58 16.6538 12.4457 16.5195 12.28 16.5195H2.8C2.63432 16.5195 2.5 16.6538 2.5 16.8195V18.5195Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4586 4.98579C21.4844 5.15527 21.3463 5.29939 21.1748 5.29939H11.7449C11.5735 5.29939 11.4353 5.15527 11.4612 4.98579C11.6534 3.72668 12.6155 2.87939 13.9199 2.87939H18.9999C20.3043 2.87939 21.2664 3.72668 21.4586 4.98579Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2 6.79932C21.3657 6.79932 21.5 6.93363 21.5 7.09932V8.79932C21.5 10.3293 20.47 11.3993 19 11.3993H13.92C12.45 11.3993 11.42 10.3293 11.42 8.79932V7.09932C11.42 6.93363 11.5543 6.79932 11.72 6.79932H21.2Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5283 15.9174L20.1693 14.5664C19.8783 14.2754 19.4033 14.2754 19.1123 14.5664L17.7543 15.9174C17.4603 16.2094 17.4583 16.6854 17.7503 16.9784C17.8963 17.1254 18.0903 17.1994 18.2823 17.1994C18.4733 17.1994 18.6653 17.1274 18.8103 16.9814L18.8893 16.9034V17.2204C18.8893 18.6814 17.7023 19.8694 16.2433 19.8694C15.8293 19.8694 15.4933 20.2054 15.4933 20.6194C15.4933 21.0334 15.8293 21.3694 16.2433 21.3694C18.5293 21.3694 20.3893 19.5084 20.3893 17.2204V16.9004L20.4713 16.9814C20.7653 17.2724 21.2403 17.2724 21.5323 16.9784C21.8243 16.6844 21.8223 16.2094 21.5283 15.9174Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.35926 9.64991C4.55826 9.64991 4.74926 9.57091 4.88926 9.42991L6.24826 8.06991C6.54126 7.77691 6.54126 7.30091 6.24826 7.00891C5.95426 6.71491 5.47926 6.71691 5.18726 7.00891L5.10926 7.08791V6.77891C5.10926 5.31791 6.29626 4.12891 7.75526 4.12891C8.16926 4.12891 8.50526 3.79391 8.50526 3.37891C8.50526 2.96491 8.16926 2.62891 7.75526 2.62891C5.46826 2.62891 3.60926 4.49091 3.60926 6.77891V7.08791L3.53026 7.00891C3.23826 6.71691 2.76326 6.71491 2.46926 7.00891C2.17626 7.30191 2.17626 7.77691 2.46926 8.06991L3.82926 9.42991C3.96926 9.57091 4.16026 9.64991 4.35926 9.64991Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card swap 6 icon with style variants.
+class _BankingBankCardSwap6Icon {
+  const _BankingBankCardSwap6Icon();
+
+  /// bulk style
+  _BankingBankCardSwap6Bulk get bulk => const _BankingBankCardSwap6Bulk();
+}
+
+/// Bank Card swap 6 — bulk style variants.
+class _BankingBankCardSwap6Bulk {
+  const _BankingBankCardSwap6Bulk();
+
+  /// Bank Card swap 6 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card swap 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.04156 14.7055C3.01569 14.875 3.15385 15.0191 3.3253 15.0191H12.7552C12.9267 15.0191 13.0648 14.875 13.0389 14.7055C12.8468 13.4464 11.8847 12.5991 10.5803 12.5991H5.50025C4.19584 12.5991 3.23376 13.4464 3.04156 14.7055Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.00024 18.519C3.00024 20.049 4.03024 21.119 5.50024 21.119H10.5802C12.0502 21.119 13.0802 20.049 13.0802 18.519V16.819C13.0802 16.6534 12.9459 16.519 12.7802 16.519H3.30024C3.13456 16.519 3.00024 16.6534 3.00024 16.819V18.519Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.9588 4.9853C21.9847 5.15478 21.8465 5.29891 21.6751 5.29891H12.2452C12.0737 5.29891 11.9356 5.15478 11.9614 4.9853C12.1536 3.72619 13.1157 2.87891 14.4201 2.87891H19.5001C20.8045 2.87891 21.7666 3.72619 21.9588 4.9853Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7002 6.79883C21.8659 6.79883 22.0002 6.93314 22.0002 7.09883V8.79883C22.0002 10.3288 20.9702 11.3988 19.5002 11.3988H14.4202C12.9502 11.3988 11.9202 10.3288 11.9202 8.79883V7.09883C11.9202 6.93314 12.0545 6.79883 12.2202 6.79883H21.7002Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.0285 15.9174L20.6695 14.5664C20.3785 14.2754 19.9035 14.2754 19.6125 14.5664L18.2545 15.9174C17.9605 16.2094 17.9585 16.6854 18.2505 16.9784C18.3965 17.1254 18.5905 17.1994 18.7825 17.1994C18.9735 17.1994 19.1655 17.1274 19.3105 16.9814L19.3895 16.9034V17.2204C19.3895 18.6814 18.2025 19.8694 16.7435 19.8694C16.3295 19.8694 15.9935 20.2054 15.9935 20.6194C15.9935 21.0334 16.3295 21.3694 16.7435 21.3694C19.0295 21.3694 20.8895 19.5084 20.8895 17.2204V16.9004L20.9715 16.9814C21.2655 17.2724 21.7405 17.2724 22.0325 16.9784C22.3245 16.6844 22.3225 16.2094 22.0285 15.9174Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.85951 9.64991C5.05851 9.64991 5.24951 9.57091 5.38951 9.42991L6.74851 8.06991C7.04151 7.77691 7.04151 7.30091 6.74851 7.00891C6.45451 6.71491 5.97951 6.71691 5.68751 7.00891L5.60951 7.08791V6.77891C5.60951 5.31791 6.79651 4.12891 8.25551 4.12891C8.66951 4.12891 9.00551 3.79391 9.00551 3.37891C9.00551 2.96491 8.66951 2.62891 8.25551 2.62891C5.96851 2.62891 4.10951 4.49091 4.10951 6.77891V7.08791L4.03051 7.00891C3.73851 6.71691 3.26351 6.71491 2.96951 7.00891C2.67651 7.30191 2.67651 7.77691 2.96951 8.06991L4.32951 9.42991C4.46951 9.57091 4.66051 9.64991 4.85951 9.64991Z" fill="black"/> </g> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card swap 7 icon with style variants.
+class _BankingBankCardSwap7Icon {
+  const _BankingBankCardSwap7Icon();
+
+  /// bulk style
+  _BankingBankCardSwap7Bulk get bulk => const _BankingBankCardSwap7Bulk();
+}
+
+/// Bank Card swap 7 — bulk style variants.
+class _BankingBankCardSwap7Bulk {
+  const _BankingBankCardSwap7Bulk();
+
+  /// Bank Card swap 7 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card swap 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.04358 14.713C3.01656 14.8832 3.15499 15.0287 3.32726 15.0287H12.7528C12.925 15.0287 13.0635 14.8832 13.0364 14.713C12.8369 13.4564 11.8837 12.6187 10.58 12.6187H5.50001C4.19634 12.6187 3.24316 13.4564 3.04358 14.713Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3 18.5383C3 20.0683 4.03 21.1383 5.5 21.1383H10.58C12.05 21.1383 13.08 20.0683 13.08 18.5383V16.8283C13.08 16.6626 12.9457 16.5283 12.78 16.5283H3.3C3.13432 16.5283 3 16.6626 3 16.8283V18.5383Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.5 2.89844H14.42C13.1156 2.89844 12.1535 3.74572 11.9613 5.00483C11.9354 5.17431 12.0736 5.31844 12.245 5.31844H21.6749C21.8464 5.31844 21.9846 5.17431 21.9587 5.00483C21.7665 3.74572 20.8044 2.89844 19.5 2.89844Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22 8.81836V7.11836C22 6.95267 21.8657 6.81836 21.7 6.81836H12.22C12.0543 6.81836 11.92 6.95267 11.92 7.11836V8.81836C11.92 10.3484 12.95 11.4184 14.42 11.4184H19.5C20.97 11.4184 22 10.3484 22 8.81836Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.25 8.47038C4.25 6.45738 5.62 4.75938 7.476 4.25937L7.301 4.72837C7.156 5.11637 7.354 5.54838 7.742 5.69338C8.131 5.83938 8.562 5.64037 8.707 5.25137L9.314 3.62038C9.4 3.39038 9.367 3.13238 9.228 2.93137C9.087 2.72937 8.857 2.60938 8.611 2.60938C5.379 2.60938 2.75 5.23837 2.75 8.47038C2.75 8.88438 3.086 9.22038 3.5 9.22038C3.914 9.22038 4.25 8.88438 4.25 8.47038Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 14.7788C21.086 14.7788 20.75 15.1148 20.75 15.5288C20.75 17.5428 19.379 19.2408 17.521 19.7408L17.699 19.2598C17.843 18.8718 17.645 18.4398 17.257 18.2968C16.87 18.1508 16.436 18.3498 16.293 18.7388L15.686 20.3798C15.601 20.6098 15.633 20.8678 15.773 21.0688C15.913 21.2698 16.144 21.3898 16.389 21.3898C19.621 21.3898 22.25 18.7608 22.25 15.5288C22.25 15.1148 21.914 14.7788 21.5 14.7788Z" fill="black"/> </g> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card swap 8 icon with style variants.
+class _BankingBankCardSwap8Icon {
+  const _BankingBankCardSwap8Icon();
+
+  /// outline style
+  _BankingBankCardSwap8Outline get outline => const _BankingBankCardSwap8Outline();
+}
+
+/// Bank Card swap 8 — outline style variants.
+class _BankingBankCardSwap8Outline {
+  const _BankingBankCardSwap8Outline();
+
+  /// Bank Card swap 8 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card swap 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.99018 13.1746C3.49261 12.6356 4.19866 12.3472 4.99848 12.3472H10.0764C10.8777 12.3472 11.5842 12.6353 12.0865 13.175C12.5833 13.7086 12.8249 14.4276 12.8249 15.1979V18.5196C12.8249 19.2899 12.5833 20.0089 12.0865 20.5425C11.5842 21.0822 10.8777 21.3702 10.0764 21.3702H4.99848C4.19723 21.3702 3.49075 21.0822 2.98836 20.5425C2.49161 20.0089 2.25 19.2899 2.25 18.5196V15.1979C2.25 14.4266 2.49318 13.7077 2.99018 13.1746ZM4.08738 14.1974C3.89212 14.4069 3.75 14.7383 3.75 15.1979V18.5196C3.75 18.9802 3.89174 19.3115 4.08628 19.5205C4.27519 19.7234 4.56796 19.8702 4.99848 19.8702H10.0764C10.5069 19.8702 10.7997 19.7234 10.9886 19.5205C11.1832 19.3115 11.3249 18.9802 11.3249 18.5196V15.1979C11.3249 14.7373 11.1832 14.406 10.9886 14.197C10.7997 13.9941 10.5069 13.8472 10.0764 13.8472H4.99848C4.57042 13.8472 4.27722 13.9938 4.08738 14.1974Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 15.7691C2.25 15.3549 2.58579 15.0191 3 15.0191H12.0749C12.4891 15.0191 12.8249 15.3549 12.8249 15.7691C12.8249 16.1833 12.4891 16.5191 12.0749 16.5191H3C2.58579 16.5191 2.25 16.1833 2.25 15.7691Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9143 3.45627C12.4167 2.91729 13.1227 2.62891 13.9226 2.62891H19.0005C19.8017 2.62891 20.5082 2.91697 21.0106 3.45665C21.5074 3.99028 21.749 4.7093 21.749 5.47955V8.80128C21.749 9.57153 21.5074 10.2905 21.0106 10.8242C20.5082 11.3639 19.8017 11.6519 19.0005 11.6519H13.9226C13.1213 11.6519 12.4148 11.3639 11.9124 10.8242C11.4157 10.2905 11.1741 9.57153 11.1741 8.80128V5.47955C11.1741 4.7083 11.4173 3.98942 11.9143 3.45627ZM13.0115 4.47908C12.8162 4.68855 12.6741 5.01999 12.6741 5.47955V8.80128C12.6741 9.26183 12.8158 9.59314 13.0104 9.80213C13.1993 10.0051 13.492 10.1519 13.9226 10.1519H19.0005C19.431 10.1519 19.7238 10.0051 19.9127 9.80213C20.1072 9.59314 20.249 9.26183 20.249 8.80128V5.47955C20.249 5.019 20.1072 4.68769 19.9127 4.4787C19.7238 4.27576 19.431 4.12891 19.0005 4.12891H13.9226C13.4945 4.12891 13.2013 4.27544 13.0115 4.47908Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1741 6.047C11.1741 5.63278 11.5099 5.297 11.9241 5.297H20.999C21.4132 5.297 21.749 5.63278 21.749 6.047C21.749 6.46121 21.4132 6.797 20.999 6.797H11.9241C11.5099 6.797 11.1741 6.46121 11.1741 6.047Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.6401 14.4224C20.0543 14.4224 20.3901 14.7581 20.3901 15.1724V17.2224C20.3901 19.5133 18.5337 21.37 16.2434 21.37C15.8292 21.37 15.4934 21.0342 15.4934 20.62C15.4934 20.2058 15.8292 19.87 16.2434 19.87C17.7049 19.87 18.8901 18.6852 18.8901 17.2224V15.1724C18.8901 14.7581 19.2258 14.4224 19.6401 14.4224Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.1104 14.566C19.4032 14.2732 19.878 14.2731 20.1709 14.5659L21.5301 15.9241C21.8231 16.2169 21.8233 16.6918 21.5305 16.9848C21.2377 17.2778 20.7628 17.278 20.4698 16.9852L19.6409 16.1568L18.8128 16.985C18.5199 17.2779 18.045 17.2779 17.7521 16.985C17.4592 16.6921 17.4592 16.2172 17.7521 15.9243L19.1104 14.566Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.75529 4.12891C6.29375 4.12891 5.10864 5.31373 5.10864 6.77652V8.82657C5.10864 9.24079 4.77286 9.57657 4.35864 9.57657C3.94443 9.57657 3.60864 9.24079 3.60864 8.82657V6.77652C3.60864 4.48559 5.46504 2.62891 7.75529 2.62891C8.1695 2.62891 8.50529 2.96469 8.50529 3.37891C8.50529 3.79312 8.1695 4.12891 7.75529 4.12891Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.46948 7.01429C2.76227 6.7213 3.23714 6.72113 3.53014 7.01391L4.35905 7.84223L5.18718 7.0141C5.48007 6.72121 5.95495 6.72121 6.24784 7.0141C6.54073 7.307 6.54073 7.78187 6.24784 8.07476L4.88957 9.43303C4.59675 9.72585 4.12202 9.72594 3.8291 9.43322L2.46986 8.07495C2.17686 7.78217 2.17669 7.30729 2.46948 7.01429Z" fill="black"/> </svg> ',
     category: 'Banking',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -2332,19 +5223,81 @@ class _BankingWalletIncomeOutline {
 
 }
 
-/// Wallet income — bold style variants.
-class _BankingWalletIncomeBold {
-  const _BankingWalletIncomeBold();
+/// Bank Card swap 9 icon with style variants.
+class _BankingBankCardSwap9Icon {
+  const _BankingBankCardSwap9Icon();
 
-  /// Wallet income — bold / regular
+  /// outline style
+  _BankingBankCardSwap9Outline get outline => const _BankingBankCardSwap9Outline();
+}
+
+/// Bank Card swap 9 — outline style variants.
+class _BankingBankCardSwap9Outline {
+  const _BankingBankCardSwap9Outline();
+
+  /// Bank Card swap 9 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet income',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.705 12.5881C12.705 14.1081 13.935 15.3381 15.445 15.3381C16.626 15.3381 18.9384 15.3315 19.7689 15.3291C19.937 15.3286 20.0734 15.4666 20.0606 15.6343C19.8558 18.3106 17.6118 20.4181 14.885 20.4181H8.03496C5.16496 20.4181 2.83496 18.0881 2.83496 15.2181V8.78813C2.83496 5.91813 5.16496 3.57812 8.03496 3.57812H14.885C17.6114 3.57812 19.846 5.68508 20.0595 8.36093C20.0729 8.52895 19.9364 8.66769 19.7678 8.66719C18.9366 8.6647 16.6262 8.65812 15.445 8.65812C13.935 8.65812 12.705 9.88812 12.705 11.4081V12.5881ZM7.43048 14.6484C7.43048 15.0624 7.76648 15.3984 8.18048 15.3984C8.59448 15.3984 8.93048 15.0624 8.93048 14.6484V11.1799L9.31647 11.5662C9.60847 11.8602 10.0845 11.8602 10.3765 11.5682C10.6705 11.2752 10.6705 10.8012 10.3785 10.5082L8.77693 8.90284C8.63986 8.72332 8.42362 8.60742 8.18048 8.60742C7.93362 8.60742 7.71448 8.72689 7.57779 8.91113L5.98547 10.5082C5.69347 10.8012 5.69347 11.2752 5.98747 11.5682C6.13347 11.7142 6.32547 11.7872 6.51647 11.7872C6.70847 11.7872 6.90147 11.7142 7.04747 11.5662L7.43048 11.1825V14.6484Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.445 10.1582H19.915C20.605 10.1582 21.165 10.7182 21.165 11.4082V12.5882C21.165 13.2782 20.605 13.8382 19.915 13.8382H15.445C14.755 13.8382 14.205 13.2782 14.205 12.5882V11.4082C14.205 10.7182 14.755 10.1582 15.445 10.1582ZM15.525 11.9982C15.525 12.3882 15.845 12.7082 16.245 12.7082C16.635 12.7082 16.955 12.3882 16.955 11.9982C16.955 11.6082 16.635 11.2882 16.245 11.2882C15.845 11.2882 15.525 11.6082 15.525 11.9982Z" fill="black"/> </svg>',
+    name: 'Bank Card swap 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.99021 13.1936C3.49266 12.6546 4.19873 12.3662 4.99858 12.3662H10.0768C10.8781 12.3662 11.5846 12.6543 12.087 13.194C12.5837 13.7276 12.8254 14.4467 12.8254 15.217V18.5389C12.8254 19.3091 12.5837 20.0282 12.087 20.5618C11.5846 21.1015 10.8781 21.3896 10.0768 21.3896H4.99858C4.1973 21.3896 3.4908 21.1015 2.98839 20.5618C2.49162 20.0282 2.25 19.3091 2.25 18.5389V15.217C2.25 14.4457 2.49319 13.7268 2.99021 13.1936ZM4.08741 14.2164C3.89213 14.4259 3.75 14.7574 3.75 15.217V18.5389C3.75 18.9994 3.89175 19.3308 4.08631 19.5398C4.27524 19.7427 4.56803 19.8896 4.99858 19.8896H10.0768C10.5073 19.8896 10.8001 19.7427 10.9891 19.5398C11.1836 19.3308 11.3254 18.9994 11.3254 18.5389V15.217C11.3254 14.7564 11.1836 14.425 10.9891 14.216C10.8001 14.0131 10.5073 13.8662 10.0768 13.8662H4.99858C4.57049 13.8662 4.27727 14.0128 4.08741 14.2164Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 15.7844C2.25 15.3701 2.58579 15.0344 3 15.0344H12.0754C12.4896 15.0344 12.8254 15.3701 12.8254 15.7844C12.8254 16.1986 12.4896 16.5344 12.0754 16.5344H3C2.58579 16.5344 2.25 16.1986 2.25 15.7844Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9145 3.47479C12.417 2.9358 13.123 2.6474 13.9229 2.6474H19.0011C19.8024 2.6474 20.5089 2.93547 21.0113 3.47518C21.5081 4.00883 21.7497 4.72787 21.7497 5.49815V8.82004C21.7497 9.59033 21.5081 10.3094 21.0113 10.843C20.5089 11.3827 19.8024 11.6708 19.0011 11.6708H13.9229C13.1216 11.6708 12.4151 11.3827 11.9127 10.843C11.4159 10.3094 11.1743 9.59033 11.1743 8.82004V5.49815C11.1743 4.72687 11.4175 4.00796 11.9145 3.47479ZM13.0117 4.4976C12.8164 4.7071 12.6743 5.03856 12.6743 5.49815V8.82004C12.6743 9.28063 12.8161 9.61197 13.0106 9.82098C13.1996 10.0239 13.4923 10.1708 13.9229 10.1708H19.0011C19.4317 10.1708 19.7244 10.0239 19.9134 9.82098C20.1079 9.61197 20.2497 9.28063 20.2497 8.82004V5.49815C20.2497 5.03756 20.1079 4.70623 19.9134 4.49722C19.7244 4.29427 19.4317 4.1474 19.0011 4.1474H13.9229C13.4948 4.1474 13.2016 4.29394 13.0117 4.4976Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1743 6.0694C11.1743 5.65518 11.5101 5.3194 11.9243 5.3194H20.9997C21.4139 5.3194 21.7497 5.65518 21.7497 6.0694C21.7497 6.48361 21.4139 6.8194 20.9997 6.8194H11.9243C11.5101 6.8194 11.1743 6.48361 11.1743 6.0694Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.97677 4.25842C5.11826 4.75781 3.75 6.45456 3.75 8.47065C3.75 8.88487 3.41421 9.22065 3 9.22065C2.58579 9.22065 2.25 8.88487 2.25 8.47065C2.25 5.23371 4.87433 2.60938 8.11128 2.60938C8.3569 2.60938 8.58695 2.72964 8.72713 2.93133C8.86732 3.13302 8.89986 3.39057 8.81424 3.62079L8.20708 5.25352C8.06271 5.64175 7.63094 5.83945 7.2427 5.69507C6.85446 5.5507 6.65677 5.11893 6.80115 4.73069L6.97677 4.25842Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21 14.7759C21.4142 14.7759 21.75 15.1117 21.75 15.5259C21.75 18.7629 19.1256 21.3872 15.8887 21.3872C15.6431 21.3872 15.413 21.2669 15.2728 21.0653C15.1326 20.8636 15.1001 20.606 15.1857 20.3758L15.7929 18.7431C15.9372 18.3548 16.369 18.1571 16.7573 18.3015C17.1455 18.4459 17.3432 18.8777 17.1988 19.2659L17.0232 19.7382C18.8817 19.2388 20.25 17.542 20.25 15.5259C20.25 15.1117 20.5857 14.7759 21 14.7759Z" fill="black"/> </svg> ',
     category: 'Banking',
-    style: IconfyStyle.bold,
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
+}
+
+/// Bank Card swap 10 icon with style variants.
+class _BankingBankCardSwap10Icon {
+  const _BankingBankCardSwap10Icon();
+
+  /// twoTone style
+  _BankingBankCardSwap10Twotone get twoTone => const _BankingBankCardSwap10Twotone();
+}
+
+/// Bank Card swap 10 — twoTone style variants.
+class _BankingBankCardSwap10Twotone {
+  const _BankingBankCardSwap10Twotone();
+
+  /// Bank Card swap 10 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card swap 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0764 13.0972H4.99848C3.77059 13.0972 3 13.9671 3 15.1979V18.5196C3 19.7504 3.7667 20.6202 4.99848 20.6202H10.0764C11.3082 20.6202 12.0749 19.7504 12.0749 18.5196V15.1979C12.0749 13.9671 11.3082 13.0972 10.0764 13.0972Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 15.7691H12.0749" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0004 3.37891H13.9224C12.6945 3.37891 11.924 4.24874 11.924 5.47955V8.80128C11.924 10.0321 12.6907 10.9019 13.9224 10.9019H19.0004C20.2322 10.9019 20.9989 10.0321 20.9989 8.80128V5.47955C20.9989 4.24874 20.2322 3.37891 19.0004 3.37891Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M11.924 6.04697H20.9989" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.6401 15.1724V17.2224C19.6401 19.0993 18.1193 20.62 16.2434 20.62" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2825 16.4546L19.6407 15.0964L21 16.4546" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M4.35876 8.82657V6.77652C4.35876 4.89966 5.87952 3.37891 7.75541 3.37891" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.71751 7.54443L4.35924 8.9027L3 7.54443" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card swap 11 icon with style variants.
+class _BankingBankCardSwap11Icon {
+  const _BankingBankCardSwap11Icon();
+
+  /// twoTone style
+  _BankingBankCardSwap11Twotone get twoTone => const _BankingBankCardSwap11Twotone();
+}
+
+/// Bank Card swap 11 — twoTone style variants.
+class _BankingBankCardSwap11Twotone {
+  const _BankingBankCardSwap11Twotone();
+
+  /// Bank Card swap 11 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card swap 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0768 13.1162H4.99858C3.77063 13.1162 3 13.9861 3 15.2169V18.5388C3 19.7697 3.76674 20.6396 4.99858 20.6396H10.0768C11.3086 20.6396 12.0754 19.7697 12.0754 18.5388V15.2169C12.0754 13.9861 11.3086 13.1162 10.0768 13.1162Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 15.7844H12.0754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0012 3.39738H13.923C12.6951 3.39738 11.9244 4.26727 11.9244 5.49814V8.82003C11.9244 10.0509 12.6912 10.9208 13.923 10.9208H19.0012C20.2331 10.9208 20.9998 10.0509 20.9998 8.82003V5.49814C20.9998 4.26727 20.2331 3.39738 19.0012 3.39738Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M11.9244 6.0694H20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 8.47065C3 5.64792 5.28854 3.35938 8.11128 3.35938L7.50411 4.9921" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21 15.5259C21 18.3487 18.7115 20.6372 15.8887 20.6372L16.4959 19.0045" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income icon with style variants.
+class _BankingWalletIncomeIcon {
+  const _BankingWalletIncomeIcon();
+
+  /// light style
+  _BankingWalletIncomeLight get light => const _BankingWalletIncomeLight();
 }
 
 /// Wallet income — light style variants.
@@ -2357,6 +5310,397 @@ class _BankingWalletIncomeLight {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9981 14.3593H17.1909C15.7927 14.3593 14.6602 13.2257 14.6602 11.8276C14.6602 10.4304 15.7927 9.29688 17.1909 9.29688H20.9981" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.7716H16.9936" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.5645V8.57652C3 5.85025 5.20962 3.64062 7.93589 3.64062H16.0641C18.7904 3.64062 21 5.85025 21 8.57652V15.326C21 18.0523 18.7904 20.2619 16.0641 20.2619H12.6383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.43961 13.7578V20.3575" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.0898 16.4199L7.43944 13.7578L4.78809 16.4199" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 1 icon with style variants.
+class _BankingWalletIncome1Icon {
+  const _BankingWalletIncome1Icon();
+
+  /// light style
+  _BankingWalletIncome1Light get light => const _BankingWalletIncome1Light();
+}
+
+/// Wallet income 1 — light style variants.
+class _BankingWalletIncome1Light {
+  const _BankingWalletIncome1Light();
+
+  /// Wallet income 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9971 14.4061H17.1899C15.7917 14.4061 14.6582 13.2726 14.6582 11.8745C14.6582 10.4773 15.7917 9.34375 17.1899 9.34375H20.9971" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.8185H16.9936" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.6114V8.62339C3 5.89712 5.20962 3.6875 7.93589 3.6875H16.0641C18.7904 3.6875 21 5.89712 21 8.62339V15.3729C21 18.0992 18.7904 20.3088 16.0641 20.3088H12.6383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.66638 15.6406L3 20.307" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.65902 19.3973L7.66681 15.6406L3.91016 15.6484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 2 icon with style variants.
+class _BankingWalletIncome2Icon {
+  const _BankingWalletIncome2Icon();
+
+  /// light style
+  _BankingWalletIncome2Light get light => const _BankingWalletIncome2Light();
+}
+
+/// Wallet income 2 — light style variants.
+class _BankingWalletIncome2Light {
+  const _BankingWalletIncome2Light();
+
+  /// Wallet income 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9971 14.4061H17.1899C15.7917 14.4061 14.6582 13.2726 14.6582 11.8745C14.6582 10.4773 15.7917 9.34375 17.1899 9.34375H20.9971" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.8185H16.9936" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.6114V8.62339C3 5.89712 5.20962 3.6875 7.93589 3.6875H16.0641C18.7904 3.6875 21 5.89712 21 8.62339V15.3729C21 18.0992 18.7904 20.3088 16.0641 20.3088H12.6383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.66638 15.6406L3 20.307" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.65902 19.3973L7.66681 15.6406L3.91016 15.6484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 3 icon with style variants.
+class _BankingWalletIncome3Icon {
+  const _BankingWalletIncome3Icon();
+
+  /// broken style
+  _BankingWalletIncome3Broken get broken => const _BankingWalletIncome3Broken();
+}
+
+/// Wallet income 3 — broken style variants.
+class _BankingWalletIncome3Broken {
+  const _BankingWalletIncome3Broken();
+
+  /// Wallet income 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.7929 14.3602H17.4412C16.043 14.3602 14.9105 13.2267 14.9105 11.8286C14.9105 10.4314 16.043 9.29785 17.4412 9.29785H21.2484" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2466 11.7725H17.2437" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8882 20.2639H16.3141C19.0404 20.2639 21.25 18.0543 21.25 15.328V8.57847C21.25 5.8522 19.0404 3.64258 16.3141 3.64258H15.6107" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 11.5645V8.57652C3.25 5.85025 5.45962 3.64062 8.18589 3.64062H12.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.68921 13.7559V20.3555" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3399 16.4179L7.68956 13.7559L5.03821 16.4179" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 4 icon with style variants.
+class _BankingWalletIncome4Icon {
+  const _BankingWalletIncome4Icon();
+
+  /// broken style
+  _BankingWalletIncome4Broken get broken => const _BankingWalletIncome4Broken();
+}
+
+/// Wallet income 4 — broken style variants.
+class _BankingWalletIncome4Broken {
+  const _BankingWalletIncome4Broken();
+
+  /// Wallet income 4 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.2475 14.4071H17.4402C16.0421 14.4071 14.9086 13.2736 14.9086 11.8754C14.9086 10.4782 16.0421 9.34473 17.4402 9.34473H21.2475" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2466 11.8193H17.2437" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 11.6133V8.62535C3.25 5.89907 5.45962 3.68945 8.18589 3.68945H16.3141C19.0404 3.68945 21.25 5.89907 21.25 8.62535V15.3749C21.25 18.1011 19.0404 20.3108 16.3141 20.3108H12.8883" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.91638 15.6426L3.25 20.309" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.90914 19.3992L7.91693 15.6426L4.16028 15.6504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 5 icon with style variants.
+class _BankingWalletIncome5Icon {
+  const _BankingWalletIncome5Icon();
+
+  /// broken style
+  _BankingWalletIncome5Broken get broken => const _BankingWalletIncome5Broken();
+}
+
+/// Wallet income 5 — broken style variants.
+class _BankingWalletIncome5Broken {
+  const _BankingWalletIncome5Broken();
+
+  /// Wallet income 5 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.2475 14.4071H17.4402C16.0421 14.4071 14.9086 13.2736 14.9086 11.8754C14.9086 10.4782 16.0421 9.34473 17.4402 9.34473H21.2475" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2466 11.8193H17.2437" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 11.6133V8.62535C3.25 5.89907 5.45962 3.68945 8.18589 3.68945H16.3141C19.0404 3.68945 21.25 5.89907 21.25 8.62535V15.3749C21.25 18.1011 19.0404 20.3108 16.3141 20.3108H12.8883" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.91638 15.6426L3.25 20.309" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.90914 19.3992L7.91693 15.6426L4.16028 15.6504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 6 icon with style variants.
+class _BankingWalletIncome6Icon {
+  const _BankingWalletIncome6Icon();
+
+  /// bold style
+  _BankingWalletIncome6Bold get bold => const _BankingWalletIncome6Bold();
+}
+
+/// Wallet income 6 — bold style variants.
+class _BankingWalletIncome6Bold {
+  const _BankingWalletIncome6Bold();
+
+  /// Wallet income 6 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7455 11.333C18.7455 11.753 18.4055 12.083 17.9955 12.083C17.5755 12.083 17.2455 11.753 17.2455 11.333C17.2455 10.923 17.5755 10.583 17.9955 10.583C18.4055 10.583 18.7455 10.923 18.7455 11.333ZM16.1155 11.393C16.1155 12.373 16.9155 13.173 17.9055 13.173H21.9055C22.0712 13.173 22.2055 13.0387 22.2055 12.873V9.90303C22.2055 9.73734 22.0712 9.60303 21.9055 9.60303H17.9055C16.9155 9.60303 16.1155 10.403 16.1155 11.393Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6155 11.3931C14.6155 9.58312 16.0955 8.10313 17.9055 8.10313H21.9035C22.07 8.10313 22.2055 7.96733 22.1952 7.80118C22.0196 4.96136 19.6542 2.70312 16.7755 2.70312H8.64551C5.64551 2.70312 3.20551 5.14313 3.20551 8.14313V11.4423C3.20551 11.7391 3.67741 11.9227 3.93649 11.7778C4.32537 11.5604 4.77719 11.4431 5.19551 11.4431C5.60551 11.4431 6.00551 11.5431 6.67551 11.9331C6.77551 12.0131 6.87551 12.0931 6.96551 12.1831L9.61551 14.8531C10.5955 15.8231 10.5855 17.4131 9.60551 18.3831C9.16647 18.8306 8.59911 19.0714 8.0178 19.1054C7.84387 19.1156 7.69551 19.2514 7.69551 19.4256V19.9856C7.69551 20.1293 7.7973 20.2538 7.9396 20.2739C8.1722 20.3067 8.40885 20.3231 8.64551 20.3231H16.7755C19.795 20.3231 22.0516 17.8744 22.198 14.9731C22.2063 14.8076 22.0712 14.6731 21.9055 14.6731H17.9055C16.0955 14.6731 14.6155 13.2031 14.6155 11.3931Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.37619 17.1442C8.66919 16.8512 8.67119 16.3762 8.37919 16.0822L5.73019 13.4182C5.71419 13.4032 5.69319 13.3972 5.67619 13.3832C5.61819 13.3332 5.55819 13.2862 5.48719 13.2562C5.39619 13.2182 5.29819 13.1982 5.19719 13.1982C5.09719 13.1982 4.99919 13.2182 4.90819 13.2562C4.81719 13.2942 4.73519 13.3492 4.66719 13.4182H4.66619L2.01319 16.0832C1.72019 16.3772 1.72219 16.8522 2.01519 17.1442C2.16119 17.2902 2.35319 17.3632 2.54419 17.3632C2.73619 17.3632 2.92919 17.2902 3.07519 17.1422L4.44619 15.7652L4.44419 20.5492C4.44419 20.9632 4.78019 21.2992 5.19419 21.2992C5.60819 21.2992 5.94419 20.9632 5.94419 20.5492L5.94619 15.7652L7.31419 17.1412C7.60819 17.4332 8.08219 17.4362 8.37619 17.1442Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 7 icon with style variants.
+class _BankingWalletIncome7Icon {
+  const _BankingWalletIncome7Icon();
+
+  /// bold style
+  _BankingWalletIncome7Bold get bold => const _BankingWalletIncome7Bold();
+}
+
+/// Wallet income 7 — bold style variants.
+class _BankingWalletIncome7Bold {
+  const _BankingWalletIncome7Bold();
+
+  /// Wallet income 7 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.04 11.6885C18.04 12.1085 17.7 12.4385 17.29 12.4385C16.87 12.4385 16.54 12.1085 16.54 11.6885C16.54 11.2785 16.87 10.9385 17.29 10.9385C17.7 10.9385 18.04 11.2785 18.04 11.6885ZM15.41 11.7485C15.41 12.7285 16.21 13.5285 17.19 13.5285H21.2C21.3657 13.5285 21.5 13.3942 21.5 13.2285V10.2585C21.5 10.0928 21.3657 9.9585 21.2 9.9585H17.19C16.21 9.9585 15.41 10.7585 15.41 11.7485Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.91 11.7486C13.91 9.93859 15.38 8.45859 17.19 8.45859H21.198C21.3645 8.45859 21.4999 8.3228 21.4897 8.15665C21.3141 5.31683 18.9483 3.05859 16.06 3.05859H7.94C4.94 3.05859 2.5 5.49859 2.5 8.49859V13.0059C2.5 13.2716 2.83997 13.4253 3.07588 13.3032C3.41631 13.1271 3.80368 13.0286 4.21 13.0286L7.96 13.0186H7.97C8.46 13.0486 8.94 13.1786 9.35 13.4286C9.49 13.5286 9.62 13.6286 9.74 13.7486C10.03 14.0386 10.25 14.3986 10.36 14.7986C10.39 14.8686 10.41 14.9486 10.42 15.0386C10.45 15.1986 10.47 15.3586 10.47 15.5286L10.46 19.2886C10.46 19.6017 10.402 19.9003 10.2969 20.1735C10.21 20.3994 10.3606 20.6786 10.6026 20.6786H16.06C19.0826 20.6786 21.346 18.2352 21.4925 15.3286C21.5008 15.1631 21.3657 15.0286 21.2 15.0286H17.19C15.38 15.0286 13.91 13.5586 13.91 11.7486Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.66474 15.2346C8.62774 15.1436 8.57274 15.0596 8.50174 14.9886C8.43074 14.9176 8.34674 14.8626 8.25574 14.8256C8.16774 14.7896 8.07474 14.7726 7.98174 14.7706C7.97774 14.7706 7.97474 14.7686 7.97074 14.7686H7.96874L4.21274 14.7786C3.79774 14.7796 3.46374 15.1166 3.46374 15.5306C3.46474 15.9436 3.80074 16.2786 4.21374 16.2786H4.21574L6.15674 16.2736L2.77474 19.6586C2.48174 19.9516 2.48174 20.4256 2.77474 20.7186C2.92174 20.8656 3.11274 20.9386 3.30474 20.9386C3.49674 20.9386 3.68974 20.8656 3.83574 20.7186L7.21774 17.3346L7.21374 19.2766C7.21274 19.6916 7.54774 20.0276 7.96174 20.0286H7.96374C8.37674 20.0286 8.71274 19.6936 8.71374 19.2806L8.72074 15.5206C8.72074 15.4236 8.70174 15.3256 8.66474 15.2346Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 8 icon with style variants.
+class _BankingWalletIncome8Icon {
+  const _BankingWalletIncome8Icon();
+
+  /// bold style
+  _BankingWalletIncome8Bold get bold => const _BankingWalletIncome8Bold();
+}
+
+/// Wallet income 8 — bold style variants.
+class _BankingWalletIncome8Bold {
+  const _BankingWalletIncome8Bold();
+
+  /// Wallet income 8 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.705 12.5881C12.705 14.1081 13.935 15.3381 15.445 15.3381C16.626 15.3381 18.9384 15.3315 19.7689 15.3291C19.937 15.3286 20.0734 15.4666 20.0606 15.6343C19.8558 18.3106 17.6118 20.4181 14.885 20.4181H8.03496C5.16496 20.4181 2.83496 18.0881 2.83496 15.2181V8.78813C2.83496 5.91813 5.16496 3.57812 8.03496 3.57812H14.885C17.6114 3.57812 19.846 5.68508 20.0595 8.36093C20.0729 8.52895 19.9364 8.66769 19.7678 8.66719C18.9366 8.6647 16.6262 8.65812 15.445 8.65812C13.935 8.65812 12.705 9.88812 12.705 11.4081V12.5881ZM7.43048 14.6484C7.43048 15.0624 7.76648 15.3984 8.18048 15.3984C8.59448 15.3984 8.93048 15.0624 8.93048 14.6484V11.1799L9.31647 11.5662C9.60847 11.8602 10.0845 11.8602 10.3765 11.5682C10.6705 11.2752 10.6705 10.8012 10.3785 10.5082L8.77693 8.90284C8.63986 8.72332 8.42362 8.60742 8.18048 8.60742C7.93362 8.60742 7.71448 8.72689 7.57779 8.91113L5.98547 10.5082C5.69347 10.8012 5.69347 11.2752 5.98747 11.5682C6.13347 11.7142 6.32547 11.7872 6.51647 11.7872C6.70847 11.7872 6.90147 11.7142 7.04747 11.5662L7.43048 11.1825V14.6484Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.445 10.1582H19.915C20.605 10.1582 21.165 10.7182 21.165 11.4082V12.5882C21.165 13.2782 20.605 13.8382 19.915 13.8382H15.445C14.755 13.8382 14.205 13.2782 14.205 12.5882V11.4082C14.205 10.7182 14.755 10.1582 15.445 10.1582ZM15.525 11.9982C15.525 12.3882 15.845 12.7082 16.245 12.7082C16.635 12.7082 16.955 12.3882 16.955 11.9982C16.955 11.6082 16.635 11.2882 16.245 11.2882C15.845 11.2882 15.525 11.6082 15.525 11.9982Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 9 icon with style variants.
+class _BankingWalletIncome9Icon {
+  const _BankingWalletIncome9Icon();
+
+  /// bulk style
+  _BankingWalletIncome9Bulk get bulk => const _BankingWalletIncome9Bulk();
+}
+
+/// Wallet income 9 — bulk style variants.
+class _BankingWalletIncome9Bulk {
+  const _BankingWalletIncome9Bulk();
+
+  /// Wallet income 9 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 9',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.41 11.7486C14.41 9.93859 15.88 8.45859 17.69 8.45859H21.698C21.8645 8.45859 21.9999 8.3228 21.9897 8.15665C21.8141 5.31683 19.4483 3.05859 16.56 3.05859H8.44C5.44 3.05859 3 5.49859 3 8.49859V13.0059C3 13.2716 3.33997 13.4253 3.57588 13.3032C3.91631 13.1271 4.30368 13.0286 4.71 13.0286L8.46 13.0186H8.47C8.96 13.0486 9.44 13.1786 9.85 13.4286C9.99 13.5286 10.12 13.6286 10.24 13.7486C10.53 14.0386 10.75 14.3986 10.86 14.7986C10.89 14.8686 10.91 14.9486 10.92 15.0386C10.95 15.1986 10.97 15.3586 10.97 15.5286L10.96 19.2886C10.96 19.6017 10.902 19.9003 10.7969 20.1735C10.71 20.3994 10.8606 20.6786 11.1026 20.6786H16.56C19.5826 20.6786 21.846 18.2352 21.9925 15.3286C22.0008 15.1631 21.8657 15.0286 21.7 15.0286H17.69C15.88 15.0286 14.41 13.5586 14.41 11.7486Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.5399 11.6909C18.5399 12.1109 18.1999 12.4409 17.7899 12.4409C17.3699 12.4409 17.0399 12.1109 17.0399 11.6909C17.0399 11.2809 17.3699 10.9409 17.7899 10.9409C18.1999 10.9409 18.5399 11.2809 18.5399 11.6909ZM15.9099 11.7509C15.9099 12.7309 16.7099 13.5309 17.6899 13.5309H21.6999C21.8656 13.5309 21.9999 13.3966 21.9999 13.2309V10.2609C21.9999 10.0953 21.8656 9.96094 21.6999 9.96094H17.6899C16.7099 9.96094 15.9099 10.7609 15.9099 11.7509Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.16468 15.237C9.12768 15.146 9.07268 15.062 9.00168 14.991C8.93068 14.92 8.84668 14.865 8.75568 14.828C8.66768 14.792 8.57468 14.775 8.48168 14.773C8.47768 14.773 8.47468 14.771 8.47068 14.771H8.46868L4.71268 14.781C4.29768 14.782 3.96368 15.119 3.96368 15.533C3.96468 15.946 4.30068 16.281 4.71368 16.281H4.71568L6.65668 16.276L3.27468 19.661C2.98168 19.954 2.98168 20.428 3.27468 20.721C3.42168 20.868 3.61268 20.941 3.80468 20.941C3.99668 20.941 4.18968 20.868 4.33568 20.721L7.71768 17.337L7.71368 19.279C7.71268 19.694 8.04768 20.03 8.46168 20.031H8.46368C8.87668 20.031 9.21268 19.696 9.21368 19.283L9.22068 15.523C9.22068 15.426 9.20168 15.328 9.16468 15.237Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 10 icon with style variants.
+class _BankingWalletIncome10Icon {
+  const _BankingWalletIncome10Icon();
+
+  /// bulk style
+  _BankingWalletIncome10Bulk get bulk => const _BankingWalletIncome10Bulk();
+}
+
+/// Wallet income 10 — bulk style variants.
+class _BankingWalletIncome10Bulk {
+  const _BankingWalletIncome10Bulk();
+
+  /// Wallet income 10 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 10',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.205 12.5881C13.205 14.1081 14.435 15.3381 15.945 15.3381C17.126 15.3381 19.4384 15.3315 20.2689 15.3291C20.437 15.3286 20.5734 15.4666 20.5606 15.6343C20.3558 18.3106 18.1118 20.4181 15.385 20.4181H8.53496C5.66496 20.4181 3.33496 18.0881 3.33496 15.2181V8.78813C3.33496 5.91813 5.66496 3.57812 8.53496 3.57812H15.385C18.1114 3.57812 20.346 5.68508 20.5595 8.36093C20.5729 8.52895 20.4364 8.66769 20.2678 8.66719C19.4366 8.6647 17.1262 8.65812 15.945 8.65812C14.435 8.65812 13.205 9.88812 13.205 11.4081V12.5881Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9448 10.1602H20.4148C21.1048 10.1602 21.6648 10.7202 21.6648 11.4102V12.5902C21.6648 13.2802 21.1048 13.8402 20.4148 13.8402H15.9448C15.2548 13.8402 14.7048 13.2802 14.7048 12.5902V11.4102C14.7048 10.7202 15.2548 10.1602 15.9448 10.1602ZM16.0248 12.0002C16.0248 12.3902 16.3448 12.7102 16.7448 12.7102C17.1348 12.7102 17.4548 12.3902 17.4548 12.0002C17.4548 11.6102 17.1348 11.2902 16.7448 11.2902C16.3448 11.2902 16.0248 11.6102 16.0248 12.0002Z" fill="black"/> <path d="M8.68036 15.4004C8.26636 15.4004 7.93036 15.0644 7.93036 14.6504V11.1845L7.54735 11.5682C7.40135 11.7162 7.20835 11.7892 7.01635 11.7892C6.82535 11.7892 6.63335 11.7162 6.48735 11.5702C6.19335 11.2772 6.19335 10.8032 6.48535 10.5102L8.07767 8.91308C8.21436 8.72885 8.43349 8.60938 8.68036 8.60938C8.9235 8.60938 9.13974 8.72527 9.27681 8.90479L10.8784 10.5102C11.1704 10.8032 11.1704 11.2772 10.8764 11.5702C10.5844 11.8622 10.1084 11.8622 9.81635 11.5682L9.43036 11.1818V14.6504C9.43036 15.0644 9.09436 15.4004 8.68036 15.4004Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 11 icon with style variants.
+class _BankingWalletIncome11Icon {
+  const _BankingWalletIncome11Icon();
+
+  /// bulk style
+  _BankingWalletIncome11Bulk get bulk => const _BankingWalletIncome11Bulk();
+}
+
+/// Wallet income 11 — bulk style variants.
+class _BankingWalletIncome11Bulk {
+  const _BankingWalletIncome11Bulk();
+
+  /// Wallet income 11 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 11',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.1156 11.3931C15.1156 9.58312 16.5956 8.10313 18.4056 8.10313H22.4035C22.57 8.10313 22.7055 7.96733 22.6952 7.80118C22.5197 4.96136 20.1542 2.70312 17.2756 2.70312H9.14557C6.14557 2.70312 3.70557 5.14313 3.70557 8.14313V11.4423C3.70557 11.7391 4.17747 11.9227 4.43655 11.7778C4.82544 11.5604 5.27725 11.4431 5.69557 11.4431C6.10557 11.4431 6.50557 11.5431 7.17557 11.9331C7.27557 12.0131 7.37557 12.0931 7.46557 12.1831L10.1156 14.8531C11.0956 15.8231 11.0856 17.4131 10.1056 18.3831C9.66653 18.8306 9.09917 19.0714 8.51786 19.1054C8.34394 19.1156 8.19557 19.2514 8.19557 19.4256V19.9856C8.19557 20.1293 8.29736 20.2538 8.43966 20.2739C8.67226 20.3067 8.90892 20.3231 9.14557 20.3231H17.2756C20.2951 20.3231 22.5517 17.8744 22.698 14.9731C22.7064 14.8076 22.5713 14.6731 22.4056 14.6731H18.4056C16.5956 14.6731 15.1156 13.2031 15.1156 11.3931Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.2455 11.3316C19.2455 11.7516 18.9055 12.0816 18.4955 12.0816C18.0755 12.0816 17.7455 11.7516 17.7455 11.3316C17.7455 10.9216 18.0755 10.5816 18.4955 10.5816C18.9055 10.5816 19.2455 10.9216 19.2455 11.3316ZM16.6155 11.3916C16.6155 12.3716 17.4155 13.1716 18.4055 13.1716H22.4055C22.5712 13.1716 22.7055 13.0372 22.7055 12.8716V9.90156C22.7055 9.73588 22.5712 9.60156 22.4055 9.60156H18.4055C17.4155 9.60156 16.6155 10.4016 16.6155 11.3916Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.87619 17.1428C9.16919 16.8498 9.17119 16.3748 8.87919 16.0808L6.23019 13.4168C6.21419 13.4018 6.19319 13.3958 6.17619 13.3818C6.11819 13.3318 6.05819 13.2848 5.98719 13.2548C5.89619 13.2168 5.79819 13.1968 5.69719 13.1968C5.59719 13.1968 5.49919 13.2168 5.40819 13.2548C5.31719 13.2928 5.23519 13.3478 5.16719 13.4168H5.16619L2.51319 16.0818C2.22019 16.3758 2.22219 16.8508 2.51519 17.1428C2.66119 17.2888 2.85319 17.3618 3.04419 17.3618C3.23619 17.3618 3.42919 17.2888 3.57519 17.1408L4.94619 15.7638L4.94419 20.5478C4.94419 20.9618 5.28019 21.2978 5.69419 21.2978C6.10819 21.2978 6.44419 20.9618 6.44419 20.5478L6.44619 15.7638L7.81419 17.1398C8.10819 17.4318 8.58219 17.4348 8.87619 17.1428Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 12 icon with style variants.
+class _BankingWalletIncome12Icon {
+  const _BankingWalletIncome12Icon();
+
+  /// outline style
+  _BankingWalletIncome12Outline get outline => const _BankingWalletIncome12Outline();
+}
+
+/// Wallet income 12 — outline style variants.
+class _BankingWalletIncome12Outline {
+  const _BankingWalletIncome12Outline();
+
+  /// Wallet income 12 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.26855 8.6062C8.68277 8.6062 9.01855 8.94199 9.01855 9.3562V14.645C9.01855 15.0592 8.68277 15.395 8.26855 15.395C7.85434 15.395 7.51855 15.0592 7.51855 14.645V9.3562C7.51855 8.94199 7.85434 8.6062 8.26855 8.6062Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.26947 8.6062C8.46891 8.6062 8.66014 8.68564 8.80088 8.82695L10.4668 10.4997C10.7591 10.7932 10.7582 11.2681 10.4647 11.5604C10.1712 11.8527 9.6963 11.8517 9.40401 11.5582L8.26947 10.419L7.13493 11.5582C6.84263 11.8517 6.36776 11.8527 6.07427 11.5604C5.78078 11.2681 5.77981 10.7932 6.0721 10.4997L7.73806 8.82695C7.8788 8.68564 8.07002 8.6062 8.26947 8.6062Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5908 12.0018C14.5908 11.5876 14.9266 11.2518 15.3408 11.2518H15.3422C15.7564 11.2518 16.0922 11.5876 16.0922 12.0018C16.0922 12.416 15.7564 12.7518 15.3422 12.7518H15.3408C14.9266 12.7518 14.5908 12.416 14.5908 12.0018Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70301 4.83398C5.51924 4.83398 3.75 6.60379 3.75 8.78796V15.2202C3.75 17.3947 5.51833 19.1654 7.70301 19.1654H14.5478C16.7327 19.1654 18.5018 17.3945 18.5018 15.2202V14.4028C18.5018 13.9886 18.8376 13.6528 19.2518 13.6528C19.666 13.6528 20.0018 13.9886 20.0018 14.4028V15.2202C20.0018 18.2247 17.5593 20.6654 14.5478 20.6654H7.70301C4.69132 20.6654 2.25 18.2245 2.25 15.2202V8.78796C2.25 5.77577 4.69041 3.33398 7.70301 3.33398H14.5478C17.5602 3.33398 20.0018 5.77557 20.0018 8.78796V9.58396C20.0018 9.99818 19.666 10.334 19.2518 10.334C18.8376 10.334 18.5018 9.99818 18.5018 9.58396V8.78796C18.5018 6.60399 16.7318 4.83398 14.5478 4.83398H7.70301Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9756 10.3419C14.3622 10.3419 13.865 10.8391 13.865 11.4525V12.5502C13.865 13.1635 14.3622 13.6607 14.9756 13.6607H19.1395C19.7529 13.6607 20.25 13.1635 20.25 12.5502V11.4525C20.25 10.8391 19.7529 10.3419 19.1395 10.3419H14.9756ZM12.365 11.4525C12.365 10.0107 13.5338 8.84192 14.9756 8.84192H19.1395C20.5813 8.84192 21.75 10.0107 21.75 11.4525V12.5502C21.75 13.992 20.5813 15.1607 19.1395 15.1607H14.9756C13.5338 15.1607 12.365 13.992 12.365 12.5502V11.4525Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 13 icon with style variants.
+class _BankingWalletIncome13Icon {
+  const _BankingWalletIncome13Icon();
+
+  /// outline style
+  _BankingWalletIncome13Outline get outline => const _BankingWalletIncome13Outline();
+}
+
+/// Wallet income 13 — outline style variants.
+class _BankingWalletIncome13Outline {
+  const _BankingWalletIncome13Outline();
+
+  /// Wallet income 13 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 13',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.26855 8.6062C8.68277 8.6062 9.01855 8.94199 9.01855 9.3562V14.645C9.01855 15.0592 8.68277 15.395 8.26855 15.395C7.85434 15.395 7.51855 15.0592 7.51855 14.645V9.3562C7.51855 8.94199 7.85434 8.6062 8.26855 8.6062Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.26947 8.6062C8.46891 8.6062 8.66014 8.68564 8.80088 8.82695L10.4668 10.4997C10.7591 10.7932 10.7582 11.2681 10.4647 11.5604C10.1712 11.8527 9.6963 11.8517 9.40401 11.5582L8.26947 10.419L7.13493 11.5582C6.84263 11.8517 6.36776 11.8527 6.07427 11.5604C5.78078 11.2681 5.77981 10.7932 6.0721 10.4997L7.73806 8.82695C7.8788 8.68564 8.07002 8.6062 8.26947 8.6062Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5908 12.0018C14.5908 11.5876 14.9266 11.2518 15.3408 11.2518H15.3422C15.7564 11.2518 16.0922 11.5876 16.0922 12.0018C16.0922 12.416 15.7564 12.7518 15.3422 12.7518H15.3408C14.9266 12.7518 14.5908 12.416 14.5908 12.0018Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70301 4.83398C5.51924 4.83398 3.75 6.60379 3.75 8.78796V15.2202C3.75 17.3947 5.51833 19.1654 7.70301 19.1654H14.5478C16.7327 19.1654 18.5018 17.3945 18.5018 15.2202V14.4028C18.5018 13.9886 18.8376 13.6528 19.2518 13.6528C19.666 13.6528 20.0018 13.9886 20.0018 14.4028V15.2202C20.0018 18.2247 17.5593 20.6654 14.5478 20.6654H7.70301C4.69132 20.6654 2.25 18.2245 2.25 15.2202V8.78796C2.25 5.77577 4.69041 3.33398 7.70301 3.33398H14.5478C17.5602 3.33398 20.0018 5.77557 20.0018 8.78796V9.58396C20.0018 9.99818 19.666 10.334 19.2518 10.334C18.8376 10.334 18.5018 9.99818 18.5018 9.58396V8.78796C18.5018 6.60399 16.7318 4.83398 14.5478 4.83398H7.70301Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9756 10.3419C14.3622 10.3419 13.865 10.8391 13.865 11.4525V12.5502C13.865 13.1635 14.3622 13.6607 14.9756 13.6607H19.1395C19.7529 13.6607 20.25 13.1635 20.25 12.5502V11.4525C20.25 10.8391 19.7529 10.3419 19.1395 10.3419H14.9756ZM12.365 11.4525C12.365 10.0107 13.5338 8.84192 14.9756 8.84192H19.1395C20.5813 8.84192 21.75 10.0107 21.75 11.4525V12.5502C21.75 13.992 20.5813 15.1607 19.1395 15.1607H14.9756C13.5338 15.1607 12.365 13.992 12.365 12.5502V11.4525Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 14 icon with style variants.
+class _BankingWalletIncome14Icon {
+  const _BankingWalletIncome14Icon();
+
+  /// outline style
+  _BankingWalletIncome14Outline get outline => const _BankingWalletIncome14Outline();
+}
+
+/// Wallet income 14 — outline style variants.
+class _BankingWalletIncome14Outline {
+  const _BankingWalletIncome14Outline();
+
+  /// Wallet income 14 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 14',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1904 10.0948C16.2062 10.0948 15.4087 10.8928 15.4087 11.8756C15.4087 12.8595 16.2064 13.6572 17.1904 13.6572H20.9976C21.4118 13.6572 21.7476 13.993 21.7476 14.4072C21.7476 14.8214 21.4118 15.1572 20.9976 15.1572H17.1904C15.378 15.1572 13.9087 13.6879 13.9087 11.8756C13.9087 10.064 15.3782 8.59485 17.1904 8.59485H20.9976C21.4118 8.59485 21.7476 8.93064 21.7476 9.34485C21.7476 9.75906 21.4118 10.0948 20.9976 10.0948H17.1904Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2437 11.8191C16.2437 11.4049 16.5794 11.0691 16.9937 11.0691H16.9966C17.4108 11.0691 17.7466 11.4049 17.7466 11.8191C17.7466 12.2333 17.4108 12.5691 16.9966 12.5691H16.9937C16.5794 12.5691 16.2437 12.2333 16.2437 11.8191Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.93589 4.43945C5.62384 4.43945 3.75 6.31329 3.75 8.62535V11.6133C3.75 12.0276 3.41421 12.3633 3 12.3633C2.58579 12.3633 2.25 12.0276 2.25 11.6133V8.62535C2.25 5.48486 4.79541 2.93945 7.93589 2.93945H16.0641C19.2046 2.93945 21.75 5.48486 21.75 8.62535V15.3749C21.75 18.5153 19.2046 21.0608 16.0641 21.0608H12.6383C12.2241 21.0608 11.8883 20.725 11.8883 20.3108C11.8883 19.8965 12.2241 19.5608 12.6383 19.5608H16.0641C18.3762 19.5608 20.25 17.6869 20.25 15.3749V8.62535C20.25 6.31329 18.3762 4.43945 16.0641 4.43945H7.93589Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.19671 15.1122C8.4896 15.4051 8.4896 15.88 8.19671 16.1729L3.53033 20.8393C3.23744 21.1322 2.76256 21.1322 2.46967 20.8393C2.17678 20.5464 2.17678 20.0715 2.46967 19.7786L7.13605 15.1122C7.42894 14.8194 7.90382 14.8194 8.19671 15.1122Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.19713 15.1122C8.33817 15.2533 8.41722 15.4447 8.4168 15.6441L8.40902 19.4008C8.40816 19.815 8.07168 20.1501 7.65747 20.1492C7.24325 20.1484 6.90816 19.8119 6.90902 19.3977L6.91525 16.3941L3.91171 16.4004C3.4975 16.4012 3.16102 16.0661 3.16016 15.6519C3.1593 15.2377 3.49439 14.9012 3.9086 14.9004L7.66525 14.8926C7.8647 14.8922 8.0561 14.9712 8.19713 15.1122Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 15 icon with style variants.
+class _BankingWalletIncome15Icon {
+  const _BankingWalletIncome15Icon();
+
+  /// twoTone style
+  _BankingWalletIncome15Twotone get twoTone => const _BankingWalletIncome15Twotone();
+}
+
+/// Wallet income 15 — twoTone style variants.
+class _BankingWalletIncome15Twotone {
+  const _BankingWalletIncome15Twotone();
+
+  /// Wallet income 15 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 15',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.26841 9.35622V14.645" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.93542 11.029L8.26947 9.35622L6.60352 11.029" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3423 12.0018H15.3409" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.2518 14.4028V15.2202C19.2518 17.8096 17.146 19.9154 14.5478 19.9154H7.70301C5.10482 19.9154 3 17.8096 3 15.2202V8.78796C3 6.18978 5.10482 4.08398 7.70301 4.08398H14.5478C17.146 4.08398 19.2518 6.18978 19.2518 8.78796V9.58396" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.1394 14.4107H14.9755C13.9479 14.4107 13.1149 13.5777 13.1149 12.5501V11.4525C13.1149 10.4249 13.9479 9.5919 14.9755 9.5919H19.1394C20.167 9.5919 21 10.4249 21 11.4525V12.5501C21 13.5777 20.167 14.4107 19.1394 14.4107Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 16 icon with style variants.
+class _BankingWalletIncome16Icon {
+  const _BankingWalletIncome16Icon();
+
+  /// twoTone style
+  _BankingWalletIncome16Twotone get twoTone => const _BankingWalletIncome16Twotone();
+}
+
+/// Wallet income 16 — twoTone style variants.
+class _BankingWalletIncome16Twotone {
+  const _BankingWalletIncome16Twotone();
+
+  /// Wallet income 16 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 16',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.9975 14.4072H17.1902C15.7921 14.4072 14.6586 13.2737 14.6586 11.8756C14.6586 10.4784 15.7921 9.34486 17.1902 9.34486H20.9975" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.8191H16.9937" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.6133V8.62535C3 5.89907 5.20962 3.68945 7.93589 3.68945H16.0641C18.7904 3.68945 21 5.89907 21 8.62535V15.3749C21 18.1011 18.7904 20.3108 16.0641 20.3108H12.6383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.66638 15.6426L3 20.309M7.66638 15.6426L7.65913 19.3992M7.66638 15.6426L3.91026 15.6504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet income 17 icon with style variants.
+class _BankingWalletIncome17Icon {
+  const _BankingWalletIncome17Icon();
+
+  /// twoTone style
+  _BankingWalletIncome17Twotone get twoTone => const _BankingWalletIncome17Twotone();
+}
+
+/// Wallet income 17 — twoTone style variants.
+class _BankingWalletIncome17Twotone {
+  const _BankingWalletIncome17Twotone();
+
+  /// Wallet income 17 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet income 17',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.26841 9.35622V14.645" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.93542 11.029L8.26947 9.35622L6.60352 11.029" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3423 12.0018H15.3409" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.2518 14.4028V15.2202C19.2518 17.8096 17.146 19.9154 14.5478 19.9154H7.70301C5.10482 19.9154 3 17.8096 3 15.2202V8.78796C3 6.18978 5.10482 4.08398 7.70301 4.08398H14.5478C17.146 4.08398 19.2518 6.18978 19.2518 8.78796V9.58396" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.1394 14.4107H14.9755C13.9479 14.4107 13.1149 13.5777 13.1149 12.5501V11.4525C13.1149 10.4249 13.9479 9.5919 14.9755 9.5919H19.1394C20.167 9.5919 21 10.4249 21 11.4525V12.5501C21 13.5777 20.167 14.4107 19.1394 14.4107Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -2582,93 +5926,8 @@ class _BankingWalletMenuLight {
 class _BankingSafeBoxIcon {
   const _BankingSafeBoxIcon();
 
-  /// bold style
-  _BankingSafeBoxBold get bold => const _BankingSafeBoxBold();
-  /// bulk style
-  _BankingSafeBoxBulk get bulk => const _BankingSafeBoxBulk();
   /// light style
   _BankingSafeBoxLight get light => const _BankingSafeBoxLight();
-  /// outline style
-  _BankingSafeBoxOutline get outline => const _BankingSafeBoxOutline();
-  /// twoTone style
-  _BankingSafeBoxTwotone get twoTone => const _BankingSafeBoxTwotone();
-  /// broken style
-  _BankingSafeBoxBroken get broken => const _BankingSafeBoxBroken();
-}
-
-/// Safe box — bulk style variants.
-class _BankingSafeBoxBulk {
-  const _BankingSafeBoxBulk();
-
-  /// Safe box — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Safe box',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M22 7.47516V14.8952C22 16.9052 20.74 18.6152 18.97 19.2752C18.5 19.4652 18 19.5652 17.47 19.5752C17.42 19.5852 17.37 19.5852 17.32 19.5852H7.68C7.63 19.5852 7.59 19.5852 7.54 19.5752C7.01 19.5652 6.51 19.4652 6.04 19.2852C4.27 18.6252 3 16.9052 3 14.8952V7.47516C3 4.88516 5.1 2.78516 7.68 2.78516H17.32C19.9 2.78516 22 4.88516 22 7.47516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.502 12.6506C11.69 12.6506 11.03 11.9916 11.03 11.1816C11.03 10.3826 11.673 9.73256 12.468 9.71456C12.48 9.71456 12.489 9.72056 12.5 9.72056C12.512 9.72056 12.521 9.71456 12.533 9.71456C13.329 9.73156 13.972 10.3816 13.972 11.1816C13.972 11.9916 13.313 12.6506 12.502 12.6506ZM16.579 10.4316H15.364C15.093 9.39856 14.284 8.58956 13.25 8.31856V7.10156C13.25 6.68756 12.914 6.35156 12.5 6.35156C12.086 6.35156 11.75 6.68756 11.75 7.10156V8.31956C10.718 8.59156 9.90904 9.39956 9.63804 10.4316H8.42404C8.01004 10.4316 7.67404 10.7676 7.67404 11.1816C7.67404 11.5956 8.01004 11.9316 8.42404 11.9316H9.63804C9.90904 12.9626 10.718 13.7706 11.75 14.0426V15.2616C11.75 15.6756 12.086 16.0116 12.5 16.0116C12.914 16.0116 13.25 15.6756 13.25 15.2616V14.0436C14.283 13.7726 15.093 12.9646 15.364 11.9316H16.579C16.993 11.9316 17.329 11.5956 17.329 11.1816C17.329 10.7676 16.993 10.4316 16.579 10.4316Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.04004 20.4656C6.04004 20.8756 6.37004 21.2156 6.79004 21.2156C7.20004 21.2156 7.54004 20.8756 7.54004 20.4656V19.5756C7.01004 19.5656 6.51004 19.4656 6.04004 19.2856V20.4656Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4701 19.5759V20.4659C17.4701 20.8759 17.8001 21.2159 18.2201 21.2159C18.6301 21.2159 18.9701 20.8759 18.9701 20.4659V19.2759C18.5001 19.4659 18.0001 19.5659 17.4701 19.5759Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Safe box — broken style variants.
-class _BankingSafeBoxBroken {
-  const _BankingSafeBoxBroken();
-
-  /// Safe box — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Safe box',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2505 3.41406H7.43281C5.12297 3.41406 3.25 5.28606 3.25 7.5959V15.0304C3.25 17.3402 5.12297 19.2132 7.43281 19.2132H17.0672C19.378 19.2132 21.25 17.3402 21.25 15.0304V7.5959C21.25 5.28606 19.378 3.41406 17.0682 3.41406H15.8122" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.472 11.3121C14.472 12.539 13.4776 13.5324 12.2517 13.5324C11.0248 13.5324 10.0304 12.539 10.0304 11.3121C10.0304 10.0852 11.0248 9.0918 12.2517 9.0918C13.4776 9.0918 14.472 10.0852 14.472 11.3121Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.25 15.3887V13.5352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.25 9.09761V7.2334" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.0273 11.3117H8.17383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3289 11.3117H14.4753" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.53568 20.5856V19.1602" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9682 20.5856V19.1602" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Safe box — twoTone style variants.
-class _BankingSafeBoxTwotone {
-  const _BankingSafeBoxTwotone();
-
-  /// Safe box — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Safe box',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.8183 2.68945H7.18272C4.87282 2.68945 3 4.56227 3 6.87217V14.3066C3 16.6165 4.87282 18.4883 7.18272 18.4883H16.8173C19.1282 18.4883 21 16.6155 21 14.3056V6.87217C21 4.56227 19.1282 2.68945 16.8183 2.68945Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3687 20.8198H16.1058" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.89665 20.8198H5.63379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4119 7.36751V8.44161" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4119 12.7346V13.8087" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6188 8.97863L12.5459 9.51568" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2759 11.6622L17.2029 12.1992" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6188 12.1992L12.5459 11.6622" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2759 9.51568L17.2029 8.97863" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.9298 9.06784C16.7687 9.90674 16.7687 11.267 15.9298 12.1059C15.0909 12.9448 13.7316 12.9448 12.8927 12.1059C12.0548 11.267 12.0548 9.90674 12.8927 9.06784C13.7316 8.22993 15.0909 8.22993 15.9298 9.06784" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.29991 7.37517H7.90986C7.29637 7.37517 6.7995 7.87204 6.7995 8.48553V12.6888C6.7995 13.3013 7.29637 13.7992 7.90986 13.7992H8.29991" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Safe box — outline style variants.
-class _BankingSafeBoxOutline {
-  const _BankingSafeBoxOutline();
-
-  /// Safe box — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Safe box',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 7.5959C2.25 4.87162 4.45899 2.66406 7.18281 2.66406H16.8182C19.5422 2.66406 21.75 4.87185 21.75 7.5959V15.0304C21.75 17.7543 19.5423 19.9632 16.8172 19.9632H7.18281C4.45876 19.9632 2.25 17.7544 2.25 15.0304V7.5959ZM7.18281 4.16406C5.28696 4.16406 3.75 5.7005 3.75 7.5959V15.0304C3.75 16.926 5.28719 18.4632 7.18281 18.4632H16.8172C18.7137 18.4632 20.25 16.9261 20.25 15.0304V7.5959C20.25 5.70028 18.7138 4.16406 16.8182 4.16406H7.18281Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0018 9.84229C11.1887 9.84229 10.5305 10.5003 10.5305 11.3126C10.5305 12.1249 11.1887 12.7829 12.0018 12.7829C12.8138 12.7829 13.4721 12.1251 13.4721 11.3126C13.4721 10.5001 12.8138 9.84229 12.0018 9.84229ZM9.03052 11.3126C9.03052 9.67105 10.3611 8.34229 12.0018 8.34229C13.6418 8.34229 14.9721 9.67126 14.9721 11.3126C14.9721 12.954 13.6418 14.2829 12.0018 14.2829C10.3611 14.2829 9.03052 12.9542 9.03052 11.3126Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 12.7853C12.4142 12.7853 12.75 13.1211 12.75 13.5353V15.3888C12.75 15.803 12.4142 16.1388 12 16.1388C11.5858 16.1388 11.25 15.803 11.25 15.3888V13.5353C11.25 13.1211 11.5858 12.7853 12 12.7853Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 6.48376C12.4142 6.48376 12.75 6.81955 12.75 7.23376V9.09798C12.75 9.51219 12.4142 9.84798 12 9.84798C11.5858 9.84798 11.25 9.51219 11.25 9.09798V7.23376C11.25 6.81955 11.5858 6.48376 12 6.48376Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.17383 11.3119C7.17383 10.8977 7.50961 10.5619 7.92383 10.5619H9.77734C10.1916 10.5619 10.5273 10.8977 10.5273 11.3119C10.5273 11.7261 10.1916 12.0619 9.77734 12.0619H7.92383C7.50961 12.0619 7.17383 11.7261 7.17383 11.3119Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4753 11.3119C13.4753 10.8977 13.8111 10.5619 14.2253 10.5619H16.0789C16.4931 10.5619 16.8289 10.8977 16.8289 11.3119C16.8289 11.7261 16.4931 12.0619 16.0789 12.0619H14.2253C13.8111 12.0619 13.4753 11.7261 13.4753 11.3119Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.28564 18.4103C6.69986 18.4103 7.03564 18.7461 7.03564 19.1603V20.5857C7.03564 20.9999 6.69986 21.3357 6.28564 21.3357C5.87143 21.3357 5.53564 20.9999 5.53564 20.5857V19.1603C5.53564 18.7461 5.87143 18.4103 6.28564 18.4103Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.718 18.4103C18.1322 18.4103 18.468 18.7461 18.468 19.1603V20.5857C18.468 20.9999 18.1322 21.3357 17.718 21.3357C17.3038 21.3357 16.968 20.9999 16.968 20.5857V19.1603C16.968 18.7461 17.3038 18.4103 17.718 18.4103Z" fill="black"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Safe box — bold style variants.
-class _BankingSafeBoxBold {
-  const _BankingSafeBoxBold();
-
-  /// Safe box — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Safe box',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.3694 20.1899H16.1064C15.6924 20.1899 15.3564 20.5259 15.3564 20.9399C15.3564 21.3539 15.6924 21.6899 16.1064 21.6899H18.3694C18.7834 21.6899 19.1194 21.3539 19.1194 20.9399C19.1194 20.5259 18.7834 20.1899 18.3694 20.1899Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.89719 20.1899H5.63419C5.22019 20.1899 4.88419 20.5259 4.88419 20.9399C4.88419 21.3539 5.22019 21.6899 5.63419 21.6899H7.89719C8.31119 21.6899 8.64719 21.3539 8.64719 20.9399C8.64719 20.5259 8.31119 20.1899 7.89719 20.1899Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4119 9.31006C14.0389 9.31006 13.6879 9.45606 13.4239 9.72006C12.8799 10.2651 12.8799 11.1541 13.4239 11.7001C13.6949 11.9671 14.0519 12.1011 14.4099 12.1011L14.4119 12.1001H14.4139C14.7719 12.0991 15.1299 11.9651 15.4029 11.6961C15.9449 11.1541 15.9449 10.2661 15.3999 9.72006C15.1359 9.45606 14.7849 9.31006 14.4119 9.31006Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2 11.4496L17.581 11.6716C17.939 11.8806 18.06 12.3396 17.851 12.6976C17.712 12.9356 17.461 13.0696 17.203 13.0696C17.075 13.0696 16.945 13.0366 16.826 12.9686L16.463 12.7566L16.461 12.7596C16.089 13.1276 15.637 13.3626 15.162 13.4886V13.9306C15.162 14.3446 14.826 14.6806 14.412 14.6806C13.998 14.6806 13.662 14.3446 13.662 13.9306V13.4896C13.188 13.3636 12.737 13.1296 12.366 12.7626C12.364 12.7606 12.363 12.7576 12.361 12.7556L11.997 12.9686C11.878 13.0366 11.748 13.0696 11.62 13.0696C11.362 13.0696 11.111 12.9366 10.971 12.6976C10.763 12.3396 10.884 11.8806 11.242 11.6716L11.625 11.4486C11.498 10.9626 11.497 10.4556 11.625 9.97059L11.242 9.74859C10.884 9.54059 10.763 9.08059 10.971 8.72359C11.18 8.36459 11.639 8.24359 11.996 8.45159L12.36 8.66359L12.363 8.66059C12.725 8.29659 13.18 8.06559 13.662 7.94259V7.48959C13.662 7.07559 13.998 6.73959 14.412 6.73959C14.826 6.73959 15.162 7.07559 15.162 7.48959V7.94359C15.644 8.06659 16.098 8.29759 16.461 8.65959L16.464 8.66259L16.826 8.45159C17.185 8.24259 17.644 8.36559 17.852 8.72359C18.06 9.08159 17.938 9.54059 17.58 9.74859L17.2 9.96959C17.328 10.4556 17.328 10.9636 17.2 11.4496ZM7.91 13.1696H8.3C8.714 13.1696 9.05 13.5056 9.05 13.9196C9.05 14.3336 8.714 14.6696 8.3 14.6696H7.91C6.884 14.6696 6.049 13.8346 6.049 12.8086V8.60959C6.049 7.58459 6.884 6.74959 7.91 6.74959H8.3C8.714 6.74959 9.05 7.08559 9.05 7.49959C9.05 7.91359 8.714 8.24959 8.3 8.24959H7.91C7.708 8.24959 7.549 8.40759 7.549 8.60959V12.8086C7.549 13.0076 7.711 13.1696 7.91 13.1696ZM16.818 2.30859H7.183C4.601 2.30859 2.5 4.40859 2.5 6.98959V14.4306C2.5 17.0106 4.601 19.1096 7.183 19.1096H16.817C19.4 19.1096 21.5 17.0106 21.5 14.4306V6.98959C21.5 4.40859 19.4 2.30859 16.818 2.30859Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Safe box — light style variants.
@@ -2678,9 +5937,262 @@ class _BankingSafeBoxLight {
   /// Safe box — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Safe box',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.8183 2.6875H7.18272C4.87282 2.6875 3 4.56032 3 6.87022V14.3046C3 16.6145 4.87282 18.4864 7.18272 18.4864H16.8173C19.1282 18.4864 21 16.6136 21 14.3037V6.87022C21 4.56032 19.1282 2.6875 16.8183 2.6875Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3683 20.8181H16.1055" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.89665 20.8181H5.63379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4119 7.36719V8.44129" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4119 12.7344V13.8085" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6192 8.9793L12.5463 9.51635" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2755 11.6629L17.2026 12.1999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6192 12.1999L12.5463 11.6629" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2755 9.51635L17.2026 8.9793" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.9302 9.06594C16.7691 9.90483 16.7691 11.2651 15.9302 12.104C15.0913 12.9429 13.732 12.9429 12.8931 12.104C12.0552 11.2651 12.0552 9.90483 12.8931 9.06594C13.732 8.22802 15.0913 8.22802 15.9302 9.06594" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.30021 7.375H7.91017C7.29667 7.375 6.7998 7.87187 6.7998 8.48536V12.6887C6.7998 13.3012 7.29667 13.799 7.91017 13.799H8.30021" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Safe box 1 icon with style variants.
+class _BankingSafeBox1Icon {
+  const _BankingSafeBox1Icon();
+
+  /// light style
+  _BankingSafeBox1Light get light => const _BankingSafeBox1Light();
+}
+
+/// Safe box 1 — light style variants.
+class _BankingSafeBox1Light {
+  const _BankingSafeBox1Light();
+
+  /// Safe box 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Safe box 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.8182 3.41406H7.18281C4.87297 3.41406 3 5.28606 3 7.5959V15.0304C3 17.3402 4.87297 19.2132 7.18281 19.2132H16.8172C19.128 19.2132 21 17.3402 21 15.0304V7.5959C21 5.28606 19.128 3.41406 16.8182 3.41406Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2219 11.3141C14.2219 12.541 13.2275 13.5344 12.0016 13.5344C10.7747 13.5344 9.78027 12.541 9.78027 11.3141C9.78027 10.0872 10.7747 9.09375 12.0016 9.09375C13.2275 9.09375 14.2219 10.0872 14.2219 11.3141Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0002 15.3887V13.5352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0002 9.09859V7.23438" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.77734 11.3107H7.92383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0791 11.3107H14.2256" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.28531 20.5856V19.1602" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7179 20.5856V19.1602" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Safe box 2 icon with style variants.
+class _BankingSafeBox2Icon {
+  const _BankingSafeBox2Icon();
+
+  /// broken style
+  _BankingSafeBox2Broken get broken => const _BankingSafeBox2Broken();
+}
+
+/// Safe box 2 — broken style variants.
+class _BankingSafeBox2Broken {
+  const _BankingSafeBox2Broken();
+
+  /// Safe box 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Safe box 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2505 2.68945H7.43272C5.12282 2.68945 3.25 4.56227 3.25 6.87217V14.3066C3.25 16.6165 5.12282 18.4883 7.43272 18.4883H17.0673C19.3782 18.4883 21.25 16.6155 21.25 14.3056V6.87217C21.25 4.56227 19.3782 2.68945 17.0683 2.68945H15.6424" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.6187 20.8201H16.3558" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.14665 20.8201H5.88379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6619 7.36719V8.44129" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6619 12.7344V13.8085" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8689 8.97832L12.796 9.51537" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5259 11.6619L17.4529 12.199" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8689 12.199L12.796 11.6619" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5259 9.51537L17.4529 8.97832" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1798 9.06789C17.0187 9.90679 17.0187 11.2671 16.1798 12.1059C15.3409 12.9448 13.9816 12.9448 13.1427 12.1059C12.3048 11.2671 12.3048 9.90679 13.1427 9.06789C13.9816 8.22997 15.3409 8.22997 16.1798 9.06789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.54985 7.375H8.1598C7.54631 7.375 7.04944 7.87187 7.04944 8.48536V12.6887C7.04944 13.3012 7.54631 13.799 8.1598 13.799H8.54985" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Safe box 3 icon with style variants.
+class _BankingSafeBox3Icon {
+  const _BankingSafeBox3Icon();
+
+  /// broken style
+  _BankingSafeBox3Broken get broken => const _BankingSafeBox3Broken();
+}
+
+/// Safe box 3 — broken style variants.
+class _BankingSafeBox3Broken {
+  const _BankingSafeBox3Broken();
+
+  /// Safe box 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Safe box 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.2505 3.41406H7.43281C5.12297 3.41406 3.25 5.28606 3.25 7.5959V15.0304C3.25 17.3402 5.12297 19.2132 7.43281 19.2132H17.0672C19.378 19.2132 21.25 17.3402 21.25 15.0304V7.5959C21.25 5.28606 19.378 3.41406 17.0682 3.41406H15.8122" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.472 11.3121C14.472 12.539 13.4776 13.5324 12.2517 13.5324C11.0248 13.5324 10.0304 12.539 10.0304 11.3121C10.0304 10.0852 11.0248 9.0918 12.2517 9.0918C13.4776 9.0918 14.472 10.0852 14.472 11.3121Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.25 15.3887V13.5352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.25 9.09761V7.2334" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.0273 11.3117H8.17383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3289 11.3117H14.4753" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.53568 20.5856V19.1602" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9682 20.5856V19.1602" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Safe box 4 icon with style variants.
+class _BankingSafeBox4Icon {
+  const _BankingSafeBox4Icon();
+
+  /// bold style
+  _BankingSafeBox4Bold get bold => const _BankingSafeBox4Bold();
+}
+
+/// Safe box 4 — bold style variants.
+class _BankingSafeBox4Bold {
+  const _BankingSafeBox4Bold();
+
+  /// Safe box 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Safe box 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.3694 20.1899H16.1064C15.6924 20.1899 15.3564 20.5259 15.3564 20.9399C15.3564 21.3539 15.6924 21.6899 16.1064 21.6899H18.3694C18.7834 21.6899 19.1194 21.3539 19.1194 20.9399C19.1194 20.5259 18.7834 20.1899 18.3694 20.1899Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.89719 20.1899H5.63419C5.22019 20.1899 4.88419 20.5259 4.88419 20.9399C4.88419 21.3539 5.22019 21.6899 5.63419 21.6899H7.89719C8.31119 21.6899 8.64719 21.3539 8.64719 20.9399C8.64719 20.5259 8.31119 20.1899 7.89719 20.1899Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4119 9.31006C14.0389 9.31006 13.6879 9.45606 13.4239 9.72006C12.8799 10.2651 12.8799 11.1541 13.4239 11.7001C13.6949 11.9671 14.0519 12.1011 14.4099 12.1011L14.4119 12.1001H14.4139C14.7719 12.0991 15.1299 11.9651 15.4029 11.6961C15.9449 11.1541 15.9449 10.2661 15.3999 9.72006C15.1359 9.45606 14.7849 9.31006 14.4119 9.31006Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2 11.4496L17.581 11.6716C17.939 11.8806 18.06 12.3396 17.851 12.6976C17.712 12.9356 17.461 13.0696 17.203 13.0696C17.075 13.0696 16.945 13.0366 16.826 12.9686L16.463 12.7566L16.461 12.7596C16.089 13.1276 15.637 13.3626 15.162 13.4886V13.9306C15.162 14.3446 14.826 14.6806 14.412 14.6806C13.998 14.6806 13.662 14.3446 13.662 13.9306V13.4896C13.188 13.3636 12.737 13.1296 12.366 12.7626C12.364 12.7606 12.363 12.7576 12.361 12.7556L11.997 12.9686C11.878 13.0366 11.748 13.0696 11.62 13.0696C11.362 13.0696 11.111 12.9366 10.971 12.6976C10.763 12.3396 10.884 11.8806 11.242 11.6716L11.625 11.4486C11.498 10.9626 11.497 10.4556 11.625 9.97059L11.242 9.74859C10.884 9.54059 10.763 9.08059 10.971 8.72359C11.18 8.36459 11.639 8.24359 11.996 8.45159L12.36 8.66359L12.363 8.66059C12.725 8.29659 13.18 8.06559 13.662 7.94259V7.48959C13.662 7.07559 13.998 6.73959 14.412 6.73959C14.826 6.73959 15.162 7.07559 15.162 7.48959V7.94359C15.644 8.06659 16.098 8.29759 16.461 8.65959L16.464 8.66259L16.826 8.45159C17.185 8.24259 17.644 8.36559 17.852 8.72359C18.06 9.08159 17.938 9.54059 17.58 9.74859L17.2 9.96959C17.328 10.4556 17.328 10.9636 17.2 11.4496ZM7.91 13.1696H8.3C8.714 13.1696 9.05 13.5056 9.05 13.9196C9.05 14.3336 8.714 14.6696 8.3 14.6696H7.91C6.884 14.6696 6.049 13.8346 6.049 12.8086V8.60959C6.049 7.58459 6.884 6.74959 7.91 6.74959H8.3C8.714 6.74959 9.05 7.08559 9.05 7.49959C9.05 7.91359 8.714 8.24959 8.3 8.24959H7.91C7.708 8.24959 7.549 8.40759 7.549 8.60959V12.8086C7.549 13.0076 7.711 13.1696 7.91 13.1696ZM16.818 2.30859H7.183C4.601 2.30859 2.5 4.40859 2.5 6.98959V14.4306C2.5 17.0106 4.601 19.1096 7.183 19.1096H16.817C19.4 19.1096 21.5 17.0106 21.5 14.4306V6.98959C21.5 4.40859 19.4 2.30859 16.818 2.30859Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Safe box 5 icon with style variants.
+class _BankingSafeBox5Icon {
+  const _BankingSafeBox5Icon();
+
+  /// bold style
+  _BankingSafeBox5Bold get bold => const _BankingSafeBox5Bold();
+}
+
+/// Safe box 5 — bold style variants.
+class _BankingSafeBox5Bold {
+  const _BankingSafeBox5Bold();
+
+  /// Safe box 5 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Safe box 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.3694 20.1899H16.1064C15.6924 20.1899 15.3564 20.5259 15.3564 20.9399C15.3564 21.3539 15.6924 21.6899 16.1064 21.6899H18.3694C18.7834 21.6899 19.1194 21.3539 19.1194 20.9399C19.1194 20.5259 18.7834 20.1899 18.3694 20.1899Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.89719 20.1899H5.63419C5.22019 20.1899 4.88419 20.5259 4.88419 20.9399C4.88419 21.3539 5.22019 21.6899 5.63419 21.6899H7.89719C8.31119 21.6899 8.64719 21.3539 8.64719 20.9399C8.64719 20.5259 8.31119 20.1899 7.89719 20.1899Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4119 9.31006C14.0389 9.31006 13.6879 9.45606 13.4239 9.72006C12.8799 10.2651 12.8799 11.1541 13.4239 11.7001C13.6949 11.9671 14.0519 12.1011 14.4099 12.1011L14.4119 12.1001H14.4139C14.7719 12.0991 15.1299 11.9651 15.4029 11.6961C15.9449 11.1541 15.9449 10.2661 15.3999 9.72006C15.1359 9.45606 14.7849 9.31006 14.4119 9.31006Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2 11.4496L17.581 11.6716C17.939 11.8806 18.06 12.3396 17.851 12.6976C17.712 12.9356 17.461 13.0696 17.203 13.0696C17.075 13.0696 16.945 13.0366 16.826 12.9686L16.463 12.7566L16.461 12.7596C16.089 13.1276 15.637 13.3626 15.162 13.4886V13.9306C15.162 14.3446 14.826 14.6806 14.412 14.6806C13.998 14.6806 13.662 14.3446 13.662 13.9306V13.4896C13.188 13.3636 12.737 13.1296 12.366 12.7626C12.364 12.7606 12.363 12.7576 12.361 12.7556L11.997 12.9686C11.878 13.0366 11.748 13.0696 11.62 13.0696C11.362 13.0696 11.111 12.9366 10.971 12.6976C10.763 12.3396 10.884 11.8806 11.242 11.6716L11.625 11.4486C11.498 10.9626 11.497 10.4556 11.625 9.97059L11.242 9.74859C10.884 9.54059 10.763 9.08059 10.971 8.72359C11.18 8.36459 11.639 8.24359 11.996 8.45159L12.36 8.66359L12.363 8.66059C12.725 8.29659 13.18 8.06559 13.662 7.94259V7.48959C13.662 7.07559 13.998 6.73959 14.412 6.73959C14.826 6.73959 15.162 7.07559 15.162 7.48959V7.94359C15.644 8.06659 16.098 8.29759 16.461 8.65959L16.464 8.66259L16.826 8.45159C17.185 8.24259 17.644 8.36559 17.852 8.72359C18.06 9.08159 17.938 9.54059 17.58 9.74859L17.2 9.96959C17.328 10.4556 17.328 10.9636 17.2 11.4496ZM7.91 13.1696H8.3C8.714 13.1696 9.05 13.5056 9.05 13.9196C9.05 14.3336 8.714 14.6696 8.3 14.6696H7.91C6.884 14.6696 6.049 13.8346 6.049 12.8086V8.60959C6.049 7.58459 6.884 6.74959 7.91 6.74959H8.3C8.714 6.74959 9.05 7.08559 9.05 7.49959C9.05 7.91359 8.714 8.24959 8.3 8.24959H7.91C7.708 8.24959 7.549 8.40759 7.549 8.60959V12.8086C7.549 13.0076 7.711 13.1696 7.91 13.1696ZM16.818 2.30859H7.183C4.601 2.30859 2.5 4.40859 2.5 6.98959V14.4306C2.5 17.0106 4.601 19.1096 7.183 19.1096H16.817C19.4 19.1096 21.5 17.0106 21.5 14.4306V6.98959C21.5 4.40859 19.4 2.30859 16.818 2.30859Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Safe box 6 icon with style variants.
+class _BankingSafeBox6Icon {
+  const _BankingSafeBox6Icon();
+
+  /// bulk style
+  _BankingSafeBox6Bulk get bulk => const _BankingSafeBox6Bulk();
+}
+
+/// Safe box 6 — bulk style variants.
+class _BankingSafeBox6Bulk {
+  const _BankingSafeBox6Bulk();
+
+  /// Safe box 6 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Safe box 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M22 6.99859V14.4186C22 16.4286 20.74 18.1386 18.97 18.7986C18.5 18.9886 18 19.0886 17.47 19.0986C17.42 19.1086 17.37 19.1086 17.32 19.1086H7.68C7.63 19.1086 7.59 19.1086 7.54 19.0986C7.01 19.0886 6.51 18.9886 6.04 18.8086C4.27 18.1486 3 16.4286 3 14.4186V6.99859C3 4.40859 5.1 2.30859 7.68 2.30859H17.32C19.9 2.30859 22 4.40859 22 6.99859Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.8695 20.1925H16.6065C16.1925 20.1925 15.8565 20.5285 15.8565 20.9425C15.8565 21.3565 16.1925 21.6925 16.6065 21.6925H18.8695C19.2835 21.6925 19.6195 21.3565 19.6195 20.9425C19.6195 20.5285 19.2835 20.1925 18.8695 20.1925Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.39728 20.1925H6.13428C5.72028 20.1925 5.38428 20.5285 5.38428 20.9425C5.38428 21.3565 5.72028 21.6925 6.13428 21.6925H8.39728C8.81128 21.6925 9.14728 21.3565 9.14728 20.9425C9.14728 20.5285 8.81128 20.1925 8.39728 20.1925Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.0811 11.6742L17.7001 11.4522C17.8281 10.9662 17.8281 10.4582 17.7001 9.97219L18.0801 9.75119C18.4381 9.54319 18.5601 9.08419 18.3521 8.72619C18.1441 8.36819 17.6851 8.24519 17.3261 8.45419L16.9641 8.66519L16.9611 8.66219C16.5981 8.30019 16.1441 8.06919 15.6621 7.94619V7.49219C15.6621 7.07819 15.3261 6.74219 14.9121 6.74219C14.4981 6.74219 14.1621 7.07819 14.1621 7.49219V7.94519C13.6801 8.06819 13.2251 8.29919 12.8631 8.66319L12.8601 8.66619L12.4961 8.45419C12.1391 8.24619 11.6801 8.36719 11.4711 8.72619C11.2631 9.08319 11.3841 9.54319 11.7421 9.75119L12.1251 9.97319C11.9971 10.4582 11.9981 10.9652 12.1251 11.4512L11.7421 11.6742C11.3841 11.8832 11.2631 12.3422 11.4711 12.7002C11.6111 12.9392 11.8621 13.0722 12.1201 13.0722C12.2481 13.0722 12.3781 13.0392 12.4971 12.9712L12.8611 12.7582C12.8621 12.7592 12.8628 12.7604 12.8636 12.7617C12.8643 12.7629 12.8651 12.7642 12.8661 12.7652C13.2371 13.1322 13.6881 13.3662 14.1621 13.4922V13.9332C14.1621 14.3472 14.4981 14.6832 14.9121 14.6832C15.3261 14.6832 15.6621 14.3472 15.6621 13.9332V13.4912C16.1371 13.3652 16.5891 13.1302 16.9611 12.7622L16.9631 12.7592L17.3261 12.9712C17.4451 13.0392 17.5751 13.0722 17.7031 13.0722C17.9611 13.0722 18.2121 12.9382 18.3511 12.7002C18.5601 12.3422 18.4391 11.8832 18.0811 11.6742ZM8.80009 13.1722H8.41009C8.21109 13.1722 8.04909 13.0102 8.04909 12.8112V8.61219C8.04909 8.41019 8.20809 8.25219 8.41009 8.25219H8.80009C9.21409 8.25219 9.55009 7.91619 9.55009 7.50219C9.55009 7.08819 9.21409 6.75219 8.80009 6.75219H8.41009C7.38409 6.75219 6.54909 7.58719 6.54909 8.61219V12.8112C6.54909 13.8372 7.38409 14.6722 8.41009 14.6722H8.80009C9.21409 14.6722 9.55009 14.3362 9.55009 13.9222C9.55009 13.5082 9.21409 13.1722 8.80009 13.1722ZM13.924 9.72265C14.188 9.45865 14.539 9.31265 14.912 9.31265C15.285 9.31265 15.636 9.45865 15.9 9.72265C16.445 10.2687 16.445 11.1567 15.903 11.6987C15.63 11.9677 15.272 12.1017 14.914 12.1027H14.912L14.91 12.1037C14.552 12.1037 14.195 11.9697 13.924 11.7027C13.38 11.1567 13.38 10.2677 13.924 9.72265Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Safe box 7 icon with style variants.
+class _BankingSafeBox7Icon {
+  const _BankingSafeBox7Icon();
+
+  /// bulk style
+  _BankingSafeBox7Bulk get bulk => const _BankingSafeBox7Bulk();
+}
+
+/// Safe box 7 — bulk style variants.
+class _BankingSafeBox7Bulk {
+  const _BankingSafeBox7Bulk();
+
+  /// Safe box 7 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Safe box 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M22 7.47516V14.8952C22 16.9052 20.74 18.6152 18.97 19.2752C18.5 19.4652 18 19.5652 17.47 19.5752C17.42 19.5852 17.37 19.5852 17.32 19.5852H7.68C7.63 19.5852 7.59 19.5852 7.54 19.5752C7.01 19.5652 6.51 19.4652 6.04 19.2852C4.27 18.6252 3 16.9052 3 14.8952V7.47516C3 4.88516 5.1 2.78516 7.68 2.78516H17.32C19.9 2.78516 22 4.88516 22 7.47516Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.502 12.6506C11.69 12.6506 11.03 11.9916 11.03 11.1816C11.03 10.3826 11.673 9.73256 12.468 9.71456C12.48 9.71456 12.489 9.72056 12.5 9.72056C12.512 9.72056 12.521 9.71456 12.533 9.71456C13.329 9.73156 13.972 10.3816 13.972 11.1816C13.972 11.9916 13.313 12.6506 12.502 12.6506ZM16.579 10.4316H15.364C15.093 9.39856 14.284 8.58956 13.25 8.31856V7.10156C13.25 6.68756 12.914 6.35156 12.5 6.35156C12.086 6.35156 11.75 6.68756 11.75 7.10156V8.31956C10.718 8.59156 9.90904 9.39956 9.63804 10.4316H8.42404C8.01004 10.4316 7.67404 10.7676 7.67404 11.1816C7.67404 11.5956 8.01004 11.9316 8.42404 11.9316H9.63804C9.90904 12.9626 10.718 13.7706 11.75 14.0426V15.2616C11.75 15.6756 12.086 16.0116 12.5 16.0116C12.914 16.0116 13.25 15.6756 13.25 15.2616V14.0436C14.283 13.7726 15.093 12.9646 15.364 11.9316H16.579C16.993 11.9316 17.329 11.5956 17.329 11.1816C17.329 10.7676 16.993 10.4316 16.579 10.4316Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.04004 20.4656C6.04004 20.8756 6.37004 21.2156 6.79004 21.2156C7.20004 21.2156 7.54004 20.8756 7.54004 20.4656V19.5756C7.01004 19.5656 6.51004 19.4656 6.04004 19.2856V20.4656Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4701 19.5759V20.4659C17.4701 20.8759 17.8001 21.2159 18.2201 21.2159C18.6301 21.2159 18.9701 20.8759 18.9701 20.4659V19.2759C18.5001 19.4659 18.0001 19.5659 17.4701 19.5759Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Safe box 8 icon with style variants.
+class _BankingSafeBox8Icon {
+  const _BankingSafeBox8Icon();
+
+  /// outline style
+  _BankingSafeBox8Outline get outline => const _BankingSafeBox8Outline();
+}
+
+/// Safe box 8 — outline style variants.
+class _BankingSafeBox8Outline {
+  const _BankingSafeBox8Outline();
+
+  /// Safe box 8 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Safe box 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 6.87217C2.25 4.14806 4.4586 1.93945 7.18272 1.93945H16.8183C19.5426 1.93945 21.75 4.14828 21.75 6.87217V14.3056C21.75 17.0296 19.5425 19.2383 16.8173 19.2383H7.18272C4.45883 19.2383 2.25 17.0309 2.25 14.3066V6.87217ZM7.18272 3.43945C5.28703 3.43945 3.75 4.97648 3.75 6.87217V14.3066C3.75 16.2021 5.2868 17.7383 7.18272 17.7383H16.8173C18.7138 17.7383 20.25 16.2014 20.25 14.3056V6.87217C20.25 4.97625 18.7137 3.43945 16.8183 3.43945H7.18272Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3557 20.8198C15.3557 20.4056 15.6915 20.0698 16.1057 20.0698H18.3686C18.7828 20.0698 19.1186 20.4056 19.1186 20.8198C19.1186 21.234 18.7828 21.5698 18.3686 21.5698H16.1057C15.6915 21.5698 15.3557 21.234 15.3557 20.8198Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.88379 20.8198C4.88379 20.4056 5.21958 20.0698 5.63379 20.0698H7.89665C8.31087 20.0698 8.64665 20.4056 8.64665 20.8198C8.64665 21.234 8.31087 21.5698 7.89665 21.5698H5.63379C5.21958 21.5698 4.88379 21.234 4.88379 20.8198Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4119 6.61749C14.8261 6.61749 15.1619 6.95328 15.1619 7.36749V8.44159C15.1619 8.85581 14.8261 9.19159 14.4119 9.19159C13.9977 9.19159 13.6619 8.85581 13.6619 8.44159V7.36749C13.6619 6.95328 13.9977 6.61749 14.4119 6.61749Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4119 11.9846C14.8261 11.9846 15.1619 12.3204 15.1619 12.7346V13.8087C15.1619 14.2229 14.8261 14.5587 14.4119 14.5587C13.9977 14.5587 13.6619 14.2229 13.6619 13.8087V12.7346C13.6619 12.3204 13.9977 11.9846 14.4119 11.9846Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9698 8.6027C11.1774 8.24428 11.6363 8.12204 11.9947 8.32966L12.9218 8.86671C13.2802 9.07434 13.4025 9.53321 13.1948 9.89163C12.9872 10.25 12.5284 10.3723 12.1699 10.1647L11.2428 9.62762C10.8844 9.41999 10.7622 8.96112 10.9698 8.6027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6268 11.2862C15.8344 10.9278 16.2933 10.8056 16.6517 11.0132L17.5788 11.5502C17.9372 11.7579 18.0595 12.2167 17.8518 12.5752C17.6442 12.9336 17.1853 13.0558 16.8269 12.8482L15.8998 12.3111C15.5414 12.1035 15.4192 11.6447 15.6268 11.2862Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1948 11.2862C13.4025 11.6447 13.2802 12.1035 12.9218 12.3111L11.9947 12.8482C11.6363 13.0558 11.1774 12.9336 10.9698 12.5752C10.7622 12.2167 10.8844 11.7579 11.2428 11.5502L12.1699 11.0132C12.5284 10.8056 12.9872 10.9278 13.1948 11.2862Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.8518 8.6027C18.0595 8.96112 17.9372 9.41999 17.5788 9.62762L16.6517 10.1647C16.2933 10.3723 15.8344 10.25 15.6268 9.89163C15.4192 9.53321 15.5414 9.07434 15.8998 8.86671L16.8269 8.32966C17.1853 8.12204 17.6442 8.24428 17.8518 8.6027Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3995 9.59835C14.8536 9.05314 13.969 9.05307 13.4229 9.59816C12.8778 10.1442 12.8779 11.0298 13.4231 11.5757C13.4232 11.5758 13.4232 11.5758 13.4232 11.5759M16.4616 8.53906C17.5918 9.67098 17.5913 11.5049 16.46 12.6362C15.3282 13.768 13.4941 13.768 12.3623 12.6362L12.362 12.6359C11.2316 11.5042 11.2316 9.66953 12.362 8.53781L12.3626 8.53719L12.3626 8.53719C13.4943 7.40679 15.328 7.40679 16.4597 8.53719C16.4598 8.53729 16.4599 8.5374 16.46 8.5375M15.3995 9.59835C15.3996 9.59839 15.3996 9.59843 15.3997 9.59847C15.3996 9.59843 15.3996 9.59839 15.3995 9.59835ZM13.4232 11.5759C13.9693 12.1216 14.8534 12.1215 15.3993 11.5756C15.9452 11.0297 15.9453 10.1445 15.3997 9.59847" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.04956 8.48554C6.04956 7.45784 6.88222 6.62518 7.90992 6.62518H8.29997C8.71418 6.62518 9.04997 6.96097 9.04997 7.37518C9.04997 7.7894 8.71418 8.12518 8.29997 8.12518H7.90992C7.71064 8.12518 7.54956 8.28627 7.54956 8.48554V12.6888C7.54956 12.8876 7.71107 13.0492 7.90992 13.0492H8.29997C8.71418 13.0492 9.04997 13.385 9.04997 13.7992C9.04997 14.2134 8.71418 14.5492 8.29997 14.5492H7.90992C6.88179 14.5492 6.04956 13.7151 6.04956 12.6888V8.48554Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Safe box 9 icon with style variants.
+class _BankingSafeBox9Icon {
+  const _BankingSafeBox9Icon();
+
+  /// outline style
+  _BankingSafeBox9Outline get outline => const _BankingSafeBox9Outline();
+}
+
+/// Safe box 9 — outline style variants.
+class _BankingSafeBox9Outline {
+  const _BankingSafeBox9Outline();
+
+  /// Safe box 9 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Safe box 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 7.5959C2.25 4.87162 4.45899 2.66406 7.18281 2.66406H16.8182C19.5422 2.66406 21.75 4.87185 21.75 7.5959V15.0304C21.75 17.7543 19.5423 19.9632 16.8172 19.9632H7.18281C4.45876 19.9632 2.25 17.7544 2.25 15.0304V7.5959ZM7.18281 4.16406C5.28696 4.16406 3.75 5.7005 3.75 7.5959V15.0304C3.75 16.926 5.28719 18.4632 7.18281 18.4632H16.8172C18.7137 18.4632 20.25 16.9261 20.25 15.0304V7.5959C20.25 5.70028 18.7138 4.16406 16.8182 4.16406H7.18281Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0018 9.84229C11.1887 9.84229 10.5305 10.5003 10.5305 11.3126C10.5305 12.1249 11.1887 12.7829 12.0018 12.7829C12.8138 12.7829 13.4721 12.1251 13.4721 11.3126C13.4721 10.5001 12.8138 9.84229 12.0018 9.84229ZM9.03052 11.3126C9.03052 9.67105 10.3611 8.34229 12.0018 8.34229C13.6418 8.34229 14.9721 9.67126 14.9721 11.3126C14.9721 12.954 13.6418 14.2829 12.0018 14.2829C10.3611 14.2829 9.03052 12.9542 9.03052 11.3126Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 12.7853C12.4142 12.7853 12.75 13.1211 12.75 13.5353V15.3888C12.75 15.803 12.4142 16.1388 12 16.1388C11.5858 16.1388 11.25 15.803 11.25 15.3888V13.5353C11.25 13.1211 11.5858 12.7853 12 12.7853Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 6.48376C12.4142 6.48376 12.75 6.81955 12.75 7.23376V9.09798C12.75 9.51219 12.4142 9.84798 12 9.84798C11.5858 9.84798 11.25 9.51219 11.25 9.09798V7.23376C11.25 6.81955 11.5858 6.48376 12 6.48376Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.17383 11.3119C7.17383 10.8977 7.50961 10.5619 7.92383 10.5619H9.77734C10.1916 10.5619 10.5273 10.8977 10.5273 11.3119C10.5273 11.7261 10.1916 12.0619 9.77734 12.0619H7.92383C7.50961 12.0619 7.17383 11.7261 7.17383 11.3119Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4753 11.3119C13.4753 10.8977 13.8111 10.5619 14.2253 10.5619H16.0789C16.4931 10.5619 16.8289 10.8977 16.8289 11.3119C16.8289 11.7261 16.4931 12.0619 16.0789 12.0619H14.2253C13.8111 12.0619 13.4753 11.7261 13.4753 11.3119Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.28564 18.4103C6.69986 18.4103 7.03564 18.7461 7.03564 19.1603V20.5857C7.03564 20.9999 6.69986 21.3357 6.28564 21.3357C5.87143 21.3357 5.53564 20.9999 5.53564 20.5857V19.1603C5.53564 18.7461 5.87143 18.4103 6.28564 18.4103Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.718 18.4103C18.1322 18.4103 18.468 18.7461 18.468 19.1603V20.5857C18.468 20.9999 18.1322 21.3357 17.718 21.3357C17.3038 21.3357 16.968 20.9999 16.968 20.5857V19.1603C16.968 18.7461 17.3038 18.4103 17.718 18.4103Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Safe box 10 icon with style variants.
+class _BankingSafeBox10Icon {
+  const _BankingSafeBox10Icon();
+
+  /// twoTone style
+  _BankingSafeBox10Twotone get twoTone => const _BankingSafeBox10Twotone();
+}
+
+/// Safe box 10 — twoTone style variants.
+class _BankingSafeBox10Twotone {
+  const _BankingSafeBox10Twotone();
+
+  /// Safe box 10 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Safe box 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.8183 2.68945H7.18272C4.87282 2.68945 3 4.56227 3 6.87217V14.3066C3 16.6165 4.87282 18.4883 7.18272 18.4883H16.8173C19.1282 18.4883 21 16.6155 21 14.3056V6.87217C21 4.56227 19.1282 2.68945 16.8183 2.68945Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3687 20.8198H16.1058" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.89665 20.8198H5.63379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4119 7.36751V8.44161" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4119 12.7346V13.8087" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6188 8.97863L12.5459 9.51568" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2759 11.6622L17.2029 12.1992" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.6188 12.1992L12.5459 11.6622" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2759 9.51568L17.2029 8.97863" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.9298 9.06784C16.7687 9.90674 16.7687 11.267 15.9298 12.1059C15.0909 12.9448 13.7316 12.9448 12.8927 12.1059C12.0548 11.267 12.0548 9.90674 12.8927 9.06784C13.7316 8.22993 15.0909 8.22993 15.9298 9.06784" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.29991 7.37517H7.90986C7.29637 7.37517 6.7995 7.87204 6.7995 8.48553V12.6888C6.7995 13.3013 7.29637 13.7992 7.90986 13.7992H8.29991" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Safe box 11 icon with style variants.
+class _BankingSafeBox11Icon {
+  const _BankingSafeBox11Icon();
+
+  /// twoTone style
+  _BankingSafeBox11Twotone get twoTone => const _BankingSafeBox11Twotone();
+}
+
+/// Safe box 11 — twoTone style variants.
+class _BankingSafeBox11Twotone {
+  const _BankingSafeBox11Twotone();
+
+  /// Safe box 11 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Safe box 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.8182 3.41406H7.18281C4.87297 3.41406 3 5.28606 3 7.5959V15.0304C3 17.3402 4.87297 19.2132 7.18281 19.2132H16.8172C19.128 19.2132 21 17.3402 21 15.0304V7.5959C21 5.28606 19.128 3.41406 16.8182 3.41406Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.222 11.3126C14.222 12.5395 13.2276 13.5329 12.0017 13.5329C10.7748 13.5329 9.7804 12.5395 9.7804 11.3126C9.7804 10.0857 10.7748 9.09227 12.0017 9.09227C13.2276 9.09227 14.222 10.0857 14.222 11.3126Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12 15.3888V13.5353" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12 9.09795V7.23373" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.77728 11.3119H7.92377" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.0788 11.3119H14.2253" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.28568 20.5857V19.1603" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.7181 20.5857V19.1603" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -2798,93 +6310,8 @@ class _BankingScanBankCardLight {
 class _BankingCardWalletIcon {
   const _BankingCardWalletIcon();
 
-  /// bold style
-  _BankingCardWalletBold get bold => const _BankingCardWalletBold();
-  /// bulk style
-  _BankingCardWalletBulk get bulk => const _BankingCardWalletBulk();
   /// light style
   _BankingCardWalletLight get light => const _BankingCardWalletLight();
-  /// outline style
-  _BankingCardWalletOutline get outline => const _BankingCardWalletOutline();
-  /// twoTone style
-  _BankingCardWalletTwotone get twoTone => const _BankingCardWalletTwotone();
-  /// broken style
-  _BankingCardWalletBroken get broken => const _BankingCardWalletBroken();
-}
-
-/// Card wallet — bulk style variants.
-class _BankingCardWalletBulk {
-  const _BankingCardWalletBulk();
-
-  /// Card wallet — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Card wallet',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.75 9.62541C20.75 9.79109 20.6157 9.92541 20.45 9.92541H4.55C4.38431 9.92541 4.25 9.79109 4.25 9.62541V8.01141C4.25 6.04241 5.852 4.44141 7.82 4.44141H17.18C19.148 4.44141 20.75 6.04241 20.75 8.01141V9.62541ZM17.18 2.94141H7.82C5.024 2.94141 2.75 5.21541 2.75 8.01141V15.9914C2.75 18.7874 5.024 21.0624 7.82 21.0624H17.18C18.958 21.0624 20.519 20.1384 21.424 18.7494L21.494 18.7134V18.6214C21.964 17.8524 22.25 16.9574 22.25 15.9914V8.01141C22.25 5.21541 19.976 2.94141 17.18 2.94141Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4985 5.76335C10.4999 6.38884 8.00485 7.99173 6.87652 8.7175C6.70871 8.82543 6.78682 9.08435 6.98634 9.08435H17.4752C17.711 9.08435 17.8547 8.82475 17.7294 8.62495L16.6935 6.97335C15.5915 5.20735 13.2645 4.66535 11.4985 5.76335Z" fill="black"/> <path d="M14.896 14.8243C14.896 15.7023 15.606 16.4113 16.482 16.4113C17.358 16.4113 18.069 15.7023 18.069 14.8243C18.069 13.9473 17.358 13.2383 16.482 13.2383C15.606 13.2383 14.896 13.9473 14.896 14.8243Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Card wallet — broken style variants.
-class _BankingCardWalletBroken {
-  const _BankingCardWalletBroken();
-
-  /// Card wallet — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Card wallet',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 20.3105H7.57C5.18427 20.3105 3.25 18.3763 3.25 15.9905V8.00925C3.25 5.62352 5.18427 3.68925 7.57 3.68925H16.93C19.3157 3.68925 21.25 5.62352 21.25 8.00925V15.9905C21.25 18.3763 19.3157 20.3105 16.93 20.3105H15.2983" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0294 12.2193C15.0409 12.2193 14.2392 13.021 14.2392 14.0095C14.2392 14.9981 15.0409 15.7998 16.0294 15.7998C17.018 15.7998 17.8187 14.9981 17.8187 14.0095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.48242 9.34411H6.49215L6.50091 9.33438L11.5137 6.19363C13.0373 5.244 15.0592 5.70422 16.0185 7.23763L17.3924 9.42876" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.42887H21.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Card wallet — twoTone style variants.
-class _BankingCardWalletTwotone {
-  const _BankingCardWalletTwotone();
-
-  /// Card wallet — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Card wallet',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.32 3.68945H16.68C19.0657 3.68945 21 5.62372 21 8.00945V15.9908C21 18.3765 19.0657 20.3108 16.68 20.3108H7.32C4.93427 20.3108 3 18.3765 3 15.9908V8.00945C3 5.62372 4.93427 3.68945 7.32 3.68945Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5692 14.0084C17.5692 14.997 16.7675 15.7987 15.7789 15.7987C14.7904 15.7987 13.9896 14.997 13.9896 14.0084C13.9896 13.0199 14.7904 12.2182 15.7789 12.2182C16.7675 12.2182 17.5692 13.0199 17.5692 14.0084Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.23248 9.34393H6.24221L6.25097 9.3342L11.2637 6.19344C12.7874 5.24382 14.8092 5.70404 15.7686 7.23744L17.1424 9.42858" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.42847H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Card wallet — outline style variants.
-class _BankingCardWalletOutline {
-  const _BankingCardWalletOutline();
-
-  /// Card wallet — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Card wallet',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.68 21.0594H7.32001C5.97593 21.0576 4.68742 20.5228 3.73701 19.5724C2.78661 18.622 2.25185 17.3335 2.25 15.9895V8.01045C2.25159 6.6662 2.78623 5.37744 3.73666 4.42682C4.6871 3.47619 5.97576 2.94131 7.32001 2.93945H16.68C18.0243 2.94104 19.3131 3.47585 20.2636 4.42653C21.2141 5.37721 21.7487 6.66612 21.75 8.01045V15.9915C21.7479 17.3353 21.213 18.6234 20.2626 19.5734C19.3122 20.5235 18.0238 21.0579 16.68 21.0594V21.0594ZM7.32001 4.43745C6.37342 4.43878 5.46598 4.81546 4.79674 5.48489C4.12749 6.15433 3.75106 7.06186 3.75 8.00845V15.9895C3.75132 16.9359 4.12787 17.8431 4.79709 18.5124C5.46631 19.1816 6.37359 19.5581 7.32001 19.5594H16.68C17.6265 19.5584 18.5339 19.1819 19.2032 18.5126C19.8725 17.8434 20.2489 16.936 20.25 15.9895V8.01045C20.2492 7.06378 19.8729 6.15609 19.2036 5.4866C18.5342 4.81711 17.6267 4.44051 16.68 4.43945L7.32001 4.43745Z" fill="black"/> <path d="M15.7812 16.5507C15.2788 16.5507 14.7878 16.4017 14.3701 16.1226C13.9524 15.8435 13.6268 15.4468 13.4346 14.9827C13.2423 14.5186 13.192 14.0079 13.29 13.5152C13.388 13.0225 13.6299 12.5699 13.9852 12.2146C14.3404 11.8594 14.793 11.6175 15.2857 11.5195C15.7784 11.4215 16.2891 11.4718 16.7532 11.664C17.2174 11.8563 17.614 12.1818 17.8931 12.5995C18.1722 13.0172 18.3212 13.5083 18.3212 14.0107C18.3204 14.6841 18.0525 15.3297 17.5764 15.8059C17.1002 16.282 16.4546 16.5499 15.7812 16.5507V16.5507ZM15.7812 12.9707C15.5755 12.9707 15.3744 13.0317 15.2034 13.146C15.0324 13.2603 14.8991 13.4227 14.8204 13.6127C14.7417 13.8027 14.7211 14.0118 14.7612 14.2136C14.8013 14.4153 14.9004 14.6006 15.0458 14.7461C15.1913 14.8915 15.3766 14.9906 15.5783 15.0307C15.7801 15.0708 15.9892 15.0503 16.1792 14.9715C16.3692 14.8928 16.5317 14.7595 16.6459 14.5885C16.7602 14.4175 16.8212 14.2164 16.8212 14.0107C16.8212 13.7349 16.7116 13.4703 16.5166 13.2753C16.3216 13.0803 16.057 12.9707 15.7812 12.9707V12.9707Z" fill="black"/> <path d="M17.1433 10.1779C17.0159 10.1782 16.8906 10.146 16.7792 10.0844C16.6677 10.0229 16.5738 9.93385 16.5063 9.82587L15.1333 7.63588C14.7793 7.06941 14.2151 6.66645 13.5644 6.51535C12.9137 6.36426 12.2297 6.47737 11.6623 6.82988L6.67529 9.95287C6.54875 10.0421 6.39812 10.0909 6.24328 10.0929C6.04391 10.0929 5.85262 10.014 5.71118 9.87351C5.56973 9.733 5.48961 9.54224 5.48829 9.34287C5.48757 9.20863 5.52304 9.07667 5.59097 8.96088C5.65889 8.84509 5.75677 8.74975 5.87429 8.68488L10.8673 5.55788C11.7722 4.9955 12.8631 4.81465 13.9011 5.05493C14.9391 5.29522 15.8395 5.93705 16.4053 6.83988L17.7783 9.02887C17.8492 9.14242 17.8886 9.27288 17.8922 9.40673C17.8958 9.54057 17.8635 9.67294 17.7987 9.79013C17.734 9.90732 17.639 10.0051 17.5238 10.0732C17.4086 10.1414 17.2772 10.1775 17.1433 10.1779V10.1779Z" fill="black"/> <path d="M21 10.1777H3C2.80109 10.1777 2.61033 10.0987 2.46968 9.95807C2.32903 9.81742 2.25 9.62665 2.25 9.42773C2.25 9.22882 2.32903 9.03805 2.46968 8.8974C2.61033 8.75675 2.80109 8.67773 3 8.67773H21C21.1989 8.67773 21.3897 8.75675 21.5303 8.8974C21.671 9.03805 21.75 9.22882 21.75 9.42773C21.75 9.62665 21.671 9.81742 21.5303 9.95807C21.3897 10.0987 21.1989 10.1777 21 10.1777Z" fill="black"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Card wallet — bold style variants.
-class _BankingCardWalletBold {
-  const _BankingCardWalletBold();
-
-  /// Card wallet — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Card wallet',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0914 7.31104H9.90742C8.89042 7.31104 8.28342 7.96103 8.28342 9.05003V9.89104H15.7164V9.05003C15.7164 7.96103 15.1084 7.31104 14.0914 7.31104Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.32 11.391H5.679C5.265 11.391 4.929 11.055 4.929 10.641C4.929 10.227 5.265 9.891 5.679 9.891H6.784V9.05C6.784 7.143 8.069 5.811 9.908 5.811H14.091C15.931 5.811 17.216 7.143 17.216 9.05V9.891H18.32C18.734 9.891 19.07 10.227 19.07 10.641C19.07 11.055 18.734 11.391 18.32 11.391ZM14.333 17.44H9.666C9.252 17.44 8.916 17.104 8.916 16.69C8.916 16.276 9.252 15.94 9.666 15.94H14.333C14.747 15.94 15.083 16.276 15.083 16.69C15.083 17.104 14.747 17.44 14.333 17.44ZM16.216 2.5H7.782C4.622 2.5 2.5 4.722 2.5 8.03V15.971C2.5 19.279 4.622 21.5 7.782 21.5H16.216C19.376 21.5 21.5 19.279 21.5 15.971V8.03C21.5 4.722 19.377 2.5 16.216 2.5Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Card wallet — light style variants.
@@ -2894,9 +6321,400 @@ class _BankingCardWalletLight {
   /// Card wallet — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Card wallet',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.32 3.6875H16.68C19.0657 3.6875 21 5.62177 21 8.0075V15.9888C21 18.3745 19.0657 20.3088 16.68 20.3088H7.32C4.93427 20.3088 3 18.3745 3 15.9888V8.0075C3 5.62177 4.93427 3.6875 7.32 3.6875Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5688 14.009C17.5688 14.9976 16.7671 15.7993 15.7786 15.7993C14.79 15.7993 13.9893 14.9976 13.9893 14.009C13.9893 13.0205 14.79 12.2188 15.7786 12.2188C16.7671 12.2188 17.5688 13.0205 17.5688 14.009Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.23242 9.34314H6.24215L6.25091 9.33341L11.2637 6.19265C12.7873 5.24303 14.8092 5.70324 15.7685 7.23665L17.1424 9.42778" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.42789H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 1 icon with style variants.
+class _BankingCardWallet1Icon {
+  const _BankingCardWallet1Icon();
+
+  /// light style
+  _BankingCardWallet1Light get light => const _BankingCardWallet1Light();
+}
+
+/// Card wallet 1 — light style variants.
+class _BankingCardWallet1Light {
+  const _BankingCardWallet1Light();
+
+  /// Card wallet 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2169 3H7.78216C4.84281 3 3 5.08119 3 8.02638V15.9736C3 18.9188 4.83405 21 7.78216 21H16.2159C19.165 21 21 18.9188 21 15.9736V8.02638C21 5.08119 19.165 3 16.2169 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4661 10.6354V9.0494C16.4661 7.58995 15.5612 6.55859 14.092 6.55859H9.90823C8.44877 6.55859 7.53418 7.58995 7.53418 9.0494V10.6354" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.67969 10.6388H18.3206" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.66602 16.6896H14.3334" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 2 icon with style variants.
+class _BankingCardWallet2Icon {
+  const _BankingCardWallet2Icon();
+
+  /// light style
+  _BankingCardWallet2Light get light => const _BankingCardWallet2Light();
+}
+
+/// Card wallet 2 — light style variants.
+class _BankingCardWallet2Light {
+  const _BankingCardWallet2Light();
+
+  /// Card wallet 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.32 3.6875H16.68C19.0657 3.6875 21 5.62177 21 8.0075V15.9888C21 18.3745 19.0657 20.3088 16.68 20.3088H7.32C4.93427 20.3088 3 18.3745 3 15.9888V8.0075C3 5.62177 4.93427 3.6875 7.32 3.6875Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5669 11.9973C17.5669 12.9858 16.7651 13.7876 15.7766 13.7876C14.7881 13.7876 13.9873 12.9858 13.9873 11.9973C13.9873 11.0088 14.7881 10.207 15.7766 10.207C16.7651 10.207 17.5669 11.0088 17.5669 11.9973Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 3 icon with style variants.
+class _BankingCardWallet3Icon {
+  const _BankingCardWallet3Icon();
+
+  /// broken style
+  _BankingCardWallet3Broken get broken => const _BankingCardWallet3Broken();
+}
+
+/// Card wallet 3 — broken style variants.
+class _BankingCardWallet3Broken {
+  const _BankingCardWallet3Broken();
+
+  /// Card wallet 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 20.3105H7.57C5.18427 20.3105 3.25 18.3763 3.25 15.9905V8.00925C3.25 5.62352 5.18427 3.68925 7.57 3.68925H16.93C19.3157 3.68925 21.25 5.62352 21.25 8.00925V15.9905C21.25 18.3763 19.3157 20.3105 16.93 20.3105H15.2983" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0294 12.2193C15.0409 12.2193 14.2392 13.021 14.2392 14.0095C14.2392 14.9981 15.0409 15.7998 16.0294 15.7998C17.018 15.7998 17.8187 14.9981 17.8187 14.0095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.48242 9.34411H6.49215L6.50091 9.33438L11.5137 6.19363C13.0373 5.244 15.0592 5.70422 16.0185 7.23763L17.3924 9.42876" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.42887H21.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 4 icon with style variants.
+class _BankingCardWallet4Icon {
+  const _BankingCardWallet4Icon();
+
+  /// broken style
+  _BankingCardWallet4Broken get broken => const _BankingCardWallet4Broken();
+}
+
+/// Card wallet 4 — broken style variants.
+class _BankingCardWallet4Broken {
+  const _BankingCardWallet4Broken();
+
+  /// Card wallet 4 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.249 21H8.03216C5.08405 21 3.25 18.9188 3.25 15.9736V8.02638C3.25 5.08119 5.09281 3 8.03216 3H16.4669C19.415 3 21.25 5.08119 21.25 8.02638V15.9736C21.25 18.9188 19.415 21 16.4659 21H15.9192" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7161 10.6344V9.04843C16.7161 7.58897 15.8112 6.55762 14.342 6.55762H10.1582C8.69877 6.55762 7.78418 7.58897 7.78418 9.04843V10.6344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.92944 10.6398H18.5703" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.91638 16.6896H14.5837" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 5 icon with style variants.
+class _BankingCardWallet5Icon {
+  const _BankingCardWallet5Icon();
+
+  /// broken style
+  _BankingCardWallet5Broken get broken => const _BankingCardWallet5Broken();
+}
+
+/// Card wallet 5 — broken style variants.
+class _BankingCardWallet5Broken {
+  const _BankingCardWallet5Broken();
+
+  /// Card wallet 5 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 20.3105H7.57C5.18427 20.3105 3.25 18.3763 3.25 15.9905V8.00925C3.25 5.62352 5.18427 3.68925 7.57 3.68925H16.93C19.3157 3.68925 21.25 5.62352 21.25 8.00925V15.9905C21.25 18.3763 19.3157 20.3105 16.93 20.3105H15.2983" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0294 12.2193C15.0409 12.2193 14.2392 13.021 14.2392 14.0095C14.2392 14.9981 15.0409 15.7998 16.0294 15.7998C17.018 15.7998 17.8187 14.9981 17.8187 14.0095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.48242 9.34411H6.49215L6.50091 9.33438L11.5137 6.19363C13.0373 5.244 15.0592 5.70422 16.0185 7.23763L17.3924 9.42876" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.42887H21.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 6 icon with style variants.
+class _BankingCardWallet6Icon {
+  const _BankingCardWallet6Icon();
+
+  /// bold style
+  _BankingCardWallet6Bold get bold => const _BankingCardWallet6Bold();
+}
+
+/// Card wallet 6 — bold style variants.
+class _BankingCardWallet6Bold {
+  const _BankingCardWallet6Bold();
+
+  /// Card wallet 6 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.25 9.62541C20.25 9.79109 20.1157 9.92541 19.95 9.92541H4.05C3.88431 9.92541 3.75 9.79109 3.75 9.62541V8.01141C3.75 6.04241 5.352 4.44141 7.32 4.44141H16.68C18.648 4.44141 20.25 6.04241 20.25 8.01141V9.62541ZM15.982 16.4134C15.106 16.4134 14.396 15.7044 14.396 14.8264C14.396 13.9494 15.106 13.2404 15.982 13.2404C16.858 13.2404 17.569 13.9494 17.569 14.8264C17.569 15.7044 16.858 16.4134 15.982 16.4134ZM16.68 2.94141H7.32C4.524 2.94141 2.25 5.21541 2.25 8.01141V15.9914C2.25 18.7874 4.524 21.0624 7.32 21.0624H16.68C18.458 21.0624 20.019 20.1384 20.924 18.7494L20.994 18.7134V18.6214C21.464 17.8524 21.75 16.9574 21.75 15.9914V8.01141C21.75 5.21541 19.476 2.94141 16.68 2.94141Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9985 5.76726C9.99991 6.39275 7.50483 7.99564 6.37649 8.72141C6.20869 8.82934 6.28679 9.08825 6.48631 9.08825H16.9752C17.211 9.08825 17.3546 8.82865 17.2293 8.62885L16.1935 6.97726C15.0915 5.21126 12.7645 4.66926 10.9985 5.76726Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 7 icon with style variants.
+class _BankingCardWallet7Icon {
+  const _BankingCardWallet7Icon();
+
+  /// bold style
+  _BankingCardWallet7Bold get bold => const _BankingCardWallet7Bold();
+}
+
+/// Card wallet 7 — bold style variants.
+class _BankingCardWallet7Bold {
+  const _BankingCardWallet7Bold();
+
+  /// Card wallet 7 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0914 7.31104H9.90742C8.89042 7.31104 8.28342 7.96103 8.28342 9.05003V9.89104H15.7164V9.05003C15.7164 7.96103 15.1084 7.31104 14.0914 7.31104Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.32 11.391H5.679C5.265 11.391 4.929 11.055 4.929 10.641C4.929 10.227 5.265 9.891 5.679 9.891H6.784V9.05C6.784 7.143 8.069 5.811 9.908 5.811H14.091C15.931 5.811 17.216 7.143 17.216 9.05V9.891H18.32C18.734 9.891 19.07 10.227 19.07 10.641C19.07 11.055 18.734 11.391 18.32 11.391ZM14.333 17.44H9.666C9.252 17.44 8.916 17.104 8.916 16.69C8.916 16.276 9.252 15.94 9.666 15.94H14.333C14.747 15.94 15.083 16.276 15.083 16.69C15.083 17.104 14.747 17.44 14.333 17.44ZM16.216 2.5H7.782C4.622 2.5 2.5 4.722 2.5 8.03V15.971C2.5 19.279 4.622 21.5 7.782 21.5H16.216C19.376 21.5 21.5 19.279 21.5 15.971V8.03C21.5 4.722 19.377 2.5 16.216 2.5Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 8 icon with style variants.
+class _BankingCardWallet8Icon {
+  const _BankingCardWallet8Icon();
+
+  /// bold style
+  _BankingCardWallet8Bold get bold => const _BankingCardWallet8Bold();
+}
+
+/// Card wallet 8 — bold style variants.
+class _BankingCardWallet8Bold {
+  const _BankingCardWallet8Bold();
+
+  /// Card wallet 8 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.931 13.6384C15.028 13.6384 14.296 12.9074 14.296 12.0024C14.296 11.0974 15.028 10.3664 15.931 10.3664C16.835 10.3664 17.567 11.0974 17.567 12.0024C17.567 12.9074 16.835 13.6384 15.931 13.6384ZM16.68 3.19141H7.32C4.662 3.19141 2.5 5.35341 2.5 8.01241V15.9924C2.5 18.6504 4.662 20.8124 7.32 20.8124H16.68C19.338 20.8124 21.5 18.6504 21.5 15.9924V8.01241C21.5 5.35341 19.338 3.19141 16.68 3.19141Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 9 icon with style variants.
+class _BankingCardWallet9Icon {
+  const _BankingCardWallet9Icon();
+
+  /// bulk style
+  _BankingCardWallet9Bulk get bulk => const _BankingCardWallet9Bulk();
+}
+
+/// Card wallet 9 — bulk style variants.
+class _BankingCardWallet9Bulk {
+  const _BankingCardWallet9Bulk();
+
+  /// Card wallet 9 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 9',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.75 9.62541C20.75 9.79109 20.6157 9.92541 20.45 9.92541H4.55C4.38431 9.92541 4.25 9.79109 4.25 9.62541V8.01141C4.25 6.04241 5.852 4.44141 7.82 4.44141H17.18C19.148 4.44141 20.75 6.04241 20.75 8.01141V9.62541ZM17.18 2.94141H7.82C5.024 2.94141 2.75 5.21541 2.75 8.01141V15.9914C2.75 18.7874 5.024 21.0624 7.82 21.0624H17.18C18.958 21.0624 20.519 20.1384 21.424 18.7494L21.494 18.7134V18.6214C21.964 17.8524 22.25 16.9574 22.25 15.9914V8.01141C22.25 5.21541 19.976 2.94141 17.18 2.94141Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4985 5.76335C10.4999 6.38884 8.00485 7.99173 6.87652 8.7175C6.70871 8.82543 6.78682 9.08435 6.98634 9.08435H17.4752C17.711 9.08435 17.8547 8.82475 17.7294 8.62495L16.6935 6.97335C15.5915 5.20735 13.2645 4.66535 11.4985 5.76335Z" fill="black"/> <path d="M14.896 14.8243C14.896 15.7023 15.606 16.4113 16.482 16.4113C17.358 16.4113 18.069 15.7023 18.069 14.8243C18.069 13.9473 17.358 13.2383 16.482 13.2383C15.606 13.2383 14.896 13.9473 14.896 14.8243Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 10 icon with style variants.
+class _BankingCardWallet10Icon {
+  const _BankingCardWallet10Icon();
+
+  /// bulk style
+  _BankingCardWallet10Bulk get bulk => const _BankingCardWallet10Bulk();
+}
+
+/// Card wallet 10 — bulk style variants.
+class _BankingCardWallet10Bulk {
+  const _BankingCardWallet10Bulk();
+
+  /// Card wallet 10 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 10',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.18 3.19141H7.82C5.162 3.19141 3 5.35341 3 8.01241V15.9924C3 18.6504 5.162 20.8124 7.82 20.8124H17.18C19.838 20.8124 22 18.6504 22 15.9924V8.01241C22 5.35341 19.838 3.19141 17.18 3.19141Z" fill="black"/> <path d="M14.7959 11.9993C14.7959 12.9043 15.5279 13.6353 16.4309 13.6353C17.3349 13.6353 18.0669 12.9043 18.0669 11.9993C18.0669 11.0943 17.3349 10.3633 16.4309 10.3633C15.5279 10.3633 14.7959 11.0943 14.7959 11.9993Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 11 icon with style variants.
+class _BankingCardWallet11Icon {
+  const _BankingCardWallet11Icon();
+
+  /// bulk style
+  _BankingCardWallet11Bulk get bulk => const _BankingCardWallet11Bulk();
+}
+
+/// Card wallet 11 — bulk style variants.
+class _BankingCardWallet11Bulk {
+  const _BankingCardWallet11Bulk();
+
+  /// Card wallet 11 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 11',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.716 2.5H8.282C5.122 2.5 3 4.722 3 8.03V15.971C3 19.279 5.122 21.5 8.282 21.5H16.716C19.876 21.5 22 19.279 22 15.971V8.03C22 4.722 19.877 2.5 16.716 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.8197 11.3925H6.17871C5.76471 11.3925 5.42871 11.0565 5.42871 10.6425C5.42871 10.2285 5.76471 9.8925 6.17871 9.8925H7.28371V9.0515C7.28371 7.1445 8.56871 5.8125 10.4077 5.8125H14.5907C16.4307 5.8125 17.7157 7.1445 17.7157 9.0515V9.8925H18.8197C19.2337 9.8925 19.5697 10.2285 19.5697 10.6425C19.5697 11.0565 19.2337 11.3925 18.8197 11.3925ZM10.4071 7.31254H14.5911C15.6081 7.31254 16.2161 7.96253 16.2161 9.05153V9.89254H8.78313V9.05153C8.78313 7.96253 9.39013 7.31254 10.4071 7.31254Z" fill="black"/> <path d="M14.8327 17.4415H10.1657C9.75171 17.4415 9.41571 17.1055 9.41571 16.6915C9.41571 16.2775 9.75171 15.9415 10.1657 15.9415H14.8327C15.2467 15.9415 15.5827 16.2775 15.5827 16.6915C15.5827 17.1055 15.2467 17.4415 14.8327 17.4415Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 12 icon with style variants.
+class _BankingCardWallet12Icon {
+  const _BankingCardWallet12Icon();
+
+  /// outline style
+  _BankingCardWallet12Outline get outline => const _BankingCardWallet12Outline();
+}
+
+/// Card wallet 12 — outline style variants.
+class _BankingCardWallet12Outline {
+  const _BankingCardWallet12Outline();
+
+  /// Card wallet 12 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.68 21.0594H7.32001C5.97593 21.0576 4.68742 20.5228 3.73701 19.5724C2.78661 18.622 2.25185 17.3335 2.25 15.9895V8.01045C2.25159 6.6662 2.78623 5.37744 3.73666 4.42682C4.6871 3.47619 5.97576 2.94131 7.32001 2.93945H16.68C18.0243 2.94104 19.3131 3.47585 20.2636 4.42653C21.2141 5.37721 21.7487 6.66612 21.75 8.01045V15.9915C21.7479 17.3353 21.213 18.6234 20.2626 19.5734C19.3122 20.5235 18.0238 21.0579 16.68 21.0594V21.0594ZM7.32001 4.43745C6.37342 4.43878 5.46598 4.81546 4.79674 5.48489C4.12749 6.15433 3.75106 7.06186 3.75 8.00845V15.9895C3.75132 16.9359 4.12787 17.8431 4.79709 18.5124C5.46631 19.1816 6.37359 19.5581 7.32001 19.5594H16.68C17.6265 19.5584 18.5339 19.1819 19.2032 18.5126C19.8725 17.8434 20.2489 16.936 20.25 15.9895V8.01045C20.2492 7.06378 19.8729 6.15609 19.2036 5.4866C18.5342 4.81711 17.6267 4.44051 16.68 4.43945L7.32001 4.43745Z" fill="black"/> <path d="M15.7812 16.5507C15.2788 16.5507 14.7878 16.4017 14.3701 16.1226C13.9524 15.8435 13.6268 15.4468 13.4346 14.9827C13.2423 14.5186 13.192 14.0079 13.29 13.5152C13.388 13.0225 13.6299 12.5699 13.9852 12.2146C14.3404 11.8594 14.793 11.6175 15.2857 11.5195C15.7784 11.4215 16.2891 11.4718 16.7532 11.664C17.2174 11.8563 17.614 12.1818 17.8931 12.5995C18.1722 13.0172 18.3212 13.5083 18.3212 14.0107C18.3204 14.6841 18.0525 15.3297 17.5764 15.8059C17.1002 16.282 16.4546 16.5499 15.7812 16.5507V16.5507ZM15.7812 12.9707C15.5755 12.9707 15.3744 13.0317 15.2034 13.146C15.0324 13.2603 14.8991 13.4227 14.8204 13.6127C14.7417 13.8027 14.7211 14.0118 14.7612 14.2136C14.8013 14.4153 14.9004 14.6006 15.0458 14.7461C15.1913 14.8915 15.3766 14.9906 15.5783 15.0307C15.7801 15.0708 15.9892 15.0503 16.1792 14.9715C16.3692 14.8928 16.5317 14.7595 16.6459 14.5885C16.7602 14.4175 16.8212 14.2164 16.8212 14.0107C16.8212 13.7349 16.7116 13.4703 16.5166 13.2753C16.3216 13.0803 16.057 12.9707 15.7812 12.9707V12.9707Z" fill="black"/> <path d="M17.1433 10.1779C17.0159 10.1782 16.8906 10.146 16.7792 10.0844C16.6677 10.0229 16.5738 9.93385 16.5063 9.82587L15.1333 7.63588C14.7793 7.06941 14.2151 6.66645 13.5644 6.51535C12.9137 6.36426 12.2297 6.47737 11.6623 6.82988L6.67529 9.95287C6.54875 10.0421 6.39812 10.0909 6.24328 10.0929C6.04391 10.0929 5.85262 10.014 5.71118 9.87351C5.56973 9.733 5.48961 9.54224 5.48829 9.34287C5.48757 9.20863 5.52304 9.07667 5.59097 8.96088C5.65889 8.84509 5.75677 8.74975 5.87429 8.68488L10.8673 5.55788C11.7722 4.9955 12.8631 4.81465 13.9011 5.05493C14.9391 5.29522 15.8395 5.93705 16.4053 6.83988L17.7783 9.02887C17.8492 9.14242 17.8886 9.27288 17.8922 9.40673C17.8958 9.54057 17.8635 9.67294 17.7987 9.79013C17.734 9.90732 17.639 10.0051 17.5238 10.0732C17.4086 10.1414 17.2772 10.1775 17.1433 10.1779V10.1779Z" fill="black"/> <path d="M21 10.1777H3C2.80109 10.1777 2.61033 10.0987 2.46968 9.95807C2.32903 9.81742 2.25 9.62665 2.25 9.42773C2.25 9.22882 2.32903 9.03805 2.46968 8.8974C2.61033 8.75675 2.80109 8.67773 3 8.67773H21C21.1989 8.67773 21.3897 8.75675 21.5303 8.8974C21.671 9.03805 21.75 9.22882 21.75 9.42773C21.75 9.62665 21.671 9.81742 21.5303 9.95807C21.3897 10.0987 21.1989 10.1777 21 10.1777Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 13 icon with style variants.
+class _BankingCardWallet13Icon {
+  const _BankingCardWallet13Icon();
+
+  /// outline style
+  _BankingCardWallet13Outline get outline => const _BankingCardWallet13Outline();
+}
+
+/// Card wallet 13 — outline style variants.
+class _BankingCardWallet13Outline {
+  const _BankingCardWallet13Outline();
+
+  /// Card wallet 13 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 13',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.68 21.0594H7.32001C5.97593 21.0576 4.68742 20.5228 3.73701 19.5724C2.78661 18.622 2.25185 17.3335 2.25 15.9895V8.01045C2.25159 6.6662 2.78623 5.37744 3.73666 4.42682C4.6871 3.47619 5.97576 2.94131 7.32001 2.93945H16.68C18.0243 2.94104 19.3131 3.47585 20.2636 4.42653C21.2141 5.37721 21.7487 6.66612 21.75 8.01045V15.9915C21.7479 17.3353 21.213 18.6234 20.2626 19.5734C19.3122 20.5235 18.0238 21.0579 16.68 21.0594V21.0594ZM7.32001 4.43745C6.37342 4.43878 5.46598 4.81546 4.79674 5.48489C4.12749 6.15433 3.75106 7.06186 3.75 8.00845V15.9895C3.75132 16.9359 4.12787 17.8431 4.79709 18.5124C5.46631 19.1816 6.37359 19.5581 7.32001 19.5594H16.68C17.6265 19.5584 18.5339 19.1819 19.2032 18.5126C19.8725 17.8434 20.2489 16.936 20.25 15.9895V8.01045C20.2492 7.06378 19.8729 6.15609 19.2036 5.4866C18.5342 4.81711 17.6267 4.44051 16.68 4.43945L7.32001 4.43745Z" fill="black"/> <path d="M15.7812 16.5507C15.2788 16.5507 14.7878 16.4017 14.3701 16.1226C13.9524 15.8435 13.6268 15.4468 13.4346 14.9827C13.2423 14.5186 13.192 14.0079 13.29 13.5152C13.388 13.0225 13.6299 12.5699 13.9852 12.2146C14.3404 11.8594 14.793 11.6175 15.2857 11.5195C15.7784 11.4215 16.2891 11.4718 16.7532 11.664C17.2174 11.8563 17.614 12.1818 17.8931 12.5995C18.1722 13.0172 18.3212 13.5083 18.3212 14.0107C18.3204 14.6841 18.0525 15.3297 17.5764 15.8059C17.1002 16.282 16.4546 16.5499 15.7812 16.5507V16.5507ZM15.7812 12.9707C15.5755 12.9707 15.3744 13.0317 15.2034 13.146C15.0324 13.2603 14.8991 13.4227 14.8204 13.6127C14.7417 13.8027 14.7211 14.0118 14.7612 14.2136C14.8013 14.4153 14.9004 14.6006 15.0458 14.7461C15.1913 14.8915 15.3766 14.9906 15.5783 15.0307C15.7801 15.0708 15.9892 15.0503 16.1792 14.9715C16.3692 14.8928 16.5317 14.7595 16.6459 14.5885C16.7602 14.4175 16.8212 14.2164 16.8212 14.0107C16.8212 13.7349 16.7116 13.4703 16.5166 13.2753C16.3216 13.0803 16.057 12.9707 15.7812 12.9707V12.9707Z" fill="black"/> <path d="M17.1433 10.1779C17.0159 10.1782 16.8906 10.146 16.7792 10.0844C16.6677 10.0229 16.5738 9.93385 16.5063 9.82587L15.1333 7.63588C14.7793 7.06941 14.2151 6.66645 13.5644 6.51535C12.9137 6.36426 12.2297 6.47737 11.6623 6.82988L6.67529 9.95287C6.54875 10.0421 6.39812 10.0909 6.24328 10.0929C6.04391 10.0929 5.85262 10.014 5.71118 9.87351C5.56973 9.733 5.48961 9.54224 5.48829 9.34287C5.48757 9.20863 5.52304 9.07667 5.59097 8.96088C5.65889 8.84509 5.75677 8.74975 5.87429 8.68488L10.8673 5.55788C11.7722 4.9955 12.8631 4.81465 13.9011 5.05493C14.9391 5.29522 15.8395 5.93705 16.4053 6.83988L17.7783 9.02887C17.8492 9.14242 17.8886 9.27288 17.8922 9.40673C17.8958 9.54057 17.8635 9.67294 17.7987 9.79013C17.734 9.90732 17.639 10.0051 17.5238 10.0732C17.4086 10.1414 17.2772 10.1775 17.1433 10.1779V10.1779Z" fill="black"/> <path d="M21 10.1777H3C2.80109 10.1777 2.61033 10.0987 2.46968 9.95807C2.32903 9.81742 2.25 9.62665 2.25 9.42773C2.25 9.22882 2.32903 9.03805 2.46968 8.8974C2.61033 8.75675 2.80109 8.67773 3 8.67773H21C21.1989 8.67773 21.3897 8.75675 21.5303 8.8974C21.671 9.03805 21.75 9.22882 21.75 9.42773C21.75 9.62665 21.671 9.81742 21.5303 9.95807C21.3897 10.0987 21.1989 10.1777 21 10.1777Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 14 icon with style variants.
+class _BankingCardWallet14Icon {
+  const _BankingCardWallet14Icon();
+
+  /// outline style
+  _BankingCardWallet14Outline get outline => const _BankingCardWallet14Outline();
+}
+
+/// Card wallet 14 — outline style variants.
+class _BankingCardWallet14Outline {
+  const _BankingCardWallet14Outline();
+
+  /// Card wallet 14 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 14',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.7402 3.89737C4.72468 2.84117 6.12669 2.25 7.78216 2.25H16.2169C17.8762 2.25 19.2788 2.84084 20.2629 3.89765C21.2413 4.94841 21.75 6.39889 21.75 8.02638V15.9736C21.75 17.6011 21.2413 19.0516 20.2627 20.1024C19.2785 21.1592 17.8757 21.75 16.2159 21.75H7.78216C6.1228 21.75 4.72038 21.1591 3.73657 20.1023C2.75842 19.0515 2.25 17.601 2.25 15.9736V8.02638C2.25 6.39806 2.76117 4.94771 3.7402 3.89737ZM4.83745 4.92012C4.16024 5.64666 3.75 6.70951 3.75 8.02638V15.9736C3.75 17.2914 4.15861 18.3541 4.83451 19.0802C5.50475 19.8003 6.49341 20.25 7.78216 20.25H16.2159C17.5052 20.25 18.4944 19.8002 19.165 19.0801C19.8412 18.354 20.25 17.2913 20.25 15.9736V8.02638C20.25 6.70868 19.8412 5.64597 19.1651 4.91984C18.4946 4.19975 17.5056 3.75 16.2169 3.75H7.78216C6.49828 3.75 5.50921 4.19943 4.83745 4.92012Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.62572 6.7437C8.1933 6.13581 8.99317 5.80743 9.90823 5.80743H14.092C15.0108 5.80743 15.8116 6.13512 16.3789 6.74451C16.9404 7.34767 17.2161 8.16457 17.2161 9.04824V10.6342C17.2161 11.0484 16.8803 11.3842 16.4661 11.3842C16.0519 11.3842 15.7161 11.0484 15.7161 10.6342V9.04824C15.7161 8.47246 15.5393 8.04396 15.281 7.76658C15.0286 7.49542 14.6424 7.30743 14.092 7.30743H9.90823C9.36383 7.30743 8.97668 7.49473 8.7221 7.76739C8.46216 8.04578 8.28418 8.47456 8.28418 9.04824V10.6342C8.28418 11.0484 7.94839 11.3842 7.53418 11.3842C7.11997 11.3842 6.78418 11.0484 6.78418 10.6342V9.04824C6.78418 8.16247 7.06349 7.34584 7.62572 6.7437Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.92944 10.6393C4.92944 10.2251 5.26523 9.88934 5.67944 9.88934H18.3203C18.7345 9.88934 19.0703 10.2251 19.0703 10.6393C19.0703 11.0536 18.7345 11.3893 18.3203 11.3893H5.67944C5.26523 11.3893 4.92944 11.0536 4.92944 10.6393Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.9165 16.6901C8.9165 16.2758 9.25229 15.9401 9.6665 15.9401H14.3339C14.7481 15.9401 15.0839 16.2758 15.0839 16.6901C15.0839 17.1043 14.7481 17.4401 14.3339 17.4401H9.6665C9.25229 17.4401 8.9165 17.1043 8.9165 16.6901Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 15 icon with style variants.
+class _BankingCardWallet15Icon {
+  const _BankingCardWallet15Icon();
+
+  /// twoTone style
+  _BankingCardWallet15Twotone get twoTone => const _BankingCardWallet15Twotone();
+}
+
+/// Card wallet 15 — twoTone style variants.
+class _BankingCardWallet15Twotone {
+  const _BankingCardWallet15Twotone();
+
+  /// Card wallet 15 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 15',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.32 3.68945H16.68C19.0657 3.68945 21 5.62372 21 8.00945V15.9908C21 18.3765 19.0657 20.3108 16.68 20.3108H7.32C4.93427 20.3108 3 18.3765 3 15.9908V8.00945C3 5.62372 4.93427 3.68945 7.32 3.68945Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5692 14.0084C17.5692 14.997 16.7675 15.7987 15.7789 15.7987C14.7904 15.7987 13.9896 14.997 13.9896 14.0084C13.9896 13.0199 14.7904 12.2182 15.7789 12.2182C16.7675 12.2182 17.5692 13.0199 17.5692 14.0084Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.23248 9.34393H6.24221L6.25097 9.3342L11.2637 6.19344C12.7874 5.24382 14.8092 5.70404 15.7686 7.23744L17.1424 9.42858" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.42847H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 16 icon with style variants.
+class _BankingCardWallet16Icon {
+  const _BankingCardWallet16Icon();
+
+  /// twoTone style
+  _BankingCardWallet16Twotone get twoTone => const _BankingCardWallet16Twotone();
+}
+
+/// Card wallet 16 — twoTone style variants.
+class _BankingCardWallet16Twotone {
+  const _BankingCardWallet16Twotone();
+
+  /// Card wallet 16 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 16',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.2169 3H7.78216C4.84281 3 3 5.08119 3 8.02638V15.9736C3 18.9188 4.83405 21 7.78216 21H16.2159C19.165 21 21 18.9188 21 15.9736V8.02638C21 5.08119 19.165 3 16.2169 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4661 10.6342V9.04824C16.4661 7.58879 15.5612 6.55743 14.092 6.55743H9.90826C8.4488 6.55743 7.53421 7.58879 7.53421 9.04824V10.6342" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.67947 10.6394H18.3203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.66638 16.69H14.3337" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Card wallet 17 icon with style variants.
+class _BankingCardWallet17Icon {
+  const _BankingCardWallet17Icon();
+
+  /// twoTone style
+  _BankingCardWallet17Twotone get twoTone => const _BankingCardWallet17Twotone();
+}
+
+/// Card wallet 17 — twoTone style variants.
+class _BankingCardWallet17Twotone {
+  const _BankingCardWallet17Twotone();
+
+  /// Card wallet 17 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Card wallet 17',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.32 3.68945H16.68C19.0657 3.68945 21 5.62372 21 8.00945V15.9908C21 18.3765 19.0657 20.3108 16.68 20.3108H7.32C4.93427 20.3108 3 18.3765 3 15.9908V8.00945C3 5.62372 4.93427 3.68945 7.32 3.68945Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.5673 11.9979C17.5673 12.9864 16.7656 13.7882 15.777 13.7882C14.7885 13.7882 13.9877 12.9864 13.9877 11.9979C13.9877 11.0093 14.7885 10.2076 15.777 10.2076C16.7656 10.2076 17.5673 11.0093 17.5673 11.9979Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -2906,93 +6724,8 @@ class _BankingCardWalletLight {
 class _BankingWalletReloadIcon {
   const _BankingWalletReloadIcon();
 
-  /// bold style
-  _BankingWalletReloadBold get bold => const _BankingWalletReloadBold();
-  /// bulk style
-  _BankingWalletReloadBulk get bulk => const _BankingWalletReloadBulk();
   /// light style
   _BankingWalletReloadLight get light => const _BankingWalletReloadLight();
-  /// outline style
-  _BankingWalletReloadOutline get outline => const _BankingWalletReloadOutline();
-  /// twoTone style
-  _BankingWalletReloadTwotone get twoTone => const _BankingWalletReloadTwotone();
-  /// broken style
-  _BankingWalletReloadBroken get broken => const _BankingWalletReloadBroken();
-}
-
-/// Wallet reload — bulk style variants.
-class _BankingWalletReloadBulk {
-  const _BankingWalletReloadBulk();
-
-  /// Wallet reload — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet reload',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.0399 11.2212C15.0399 9.41125 16.5099 7.93125 18.3199 7.93125H22.3179C22.4843 7.93125 22.6198 7.79546 22.6096 7.6293C22.434 4.78949 20.0686 2.53125 17.1899 2.53125H9.05988C6.05988 2.53125 3.62988 4.97125 3.62988 7.97125V11.9114C3.62988 12.1401 3.87706 12.2868 4.08652 12.1949C4.78513 11.8882 5.56081 11.7212 6.36988 11.7212C6.93545 11.7212 7.49242 11.7986 8.01689 11.9613C8.09573 11.9858 8.18083 11.9785 8.25571 11.9438C8.56545 11.8001 8.90584 11.7212 9.26988 11.7212C10.6599 11.7212 11.7699 12.8412 11.7699 14.2212V15.8713C11.7799 16.0013 11.7799 16.1412 11.7599 16.2712C11.7399 16.4312 11.7099 16.6013 11.6599 16.7513C11.6299 16.8313 11.6099 16.9113 11.5699 16.9913C11.5399 17.0612 11.5099 17.1313 11.4699 17.2013C11.4281 17.2849 11.3781 17.3746 11.3219 17.4589C11.2392 17.5829 11.2278 17.7489 11.3041 17.877C11.6326 18.4288 11.7371 19.0909 11.5863 19.7258C11.5362 19.9366 11.6832 20.1612 11.8998 20.1612H17.1899C20.2144 20.1612 22.476 17.7077 22.6223 14.8012C22.6307 14.6357 22.4956 14.5013 22.3299 14.5013H18.3199C16.5099 14.5013 15.0399 13.0312 15.0399 11.2212Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4103 11.9097C18.0003 11.9097 17.6603 11.5797 17.6603 11.1597C17.6603 10.7497 18.0003 10.4097 18.4103 10.4097C18.8303 10.4097 19.1603 10.7497 19.1603 11.1597C19.1603 11.5797 18.8303 11.9097 18.4103 11.9097ZM18.3203 9.42969C17.3403 9.42969 16.5403 10.2397 16.5403 11.2197C16.5403 12.2097 17.3403 12.9997 18.3203 12.9997H22.3303C22.496 12.9997 22.6303 12.8654 22.6303 12.6997V9.72969C22.6303 9.564 22.496 9.42969 22.3303 9.42969H18.3203Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.27512 13.4692C8.89812 13.4692 8.59912 13.7522 8.54612 14.1152C7.91112 13.7032 7.16312 13.4692 6.37112 13.4692C4.16512 13.4692 2.37012 15.2632 2.37012 17.4692C2.37012 19.6752 4.16512 21.4692 6.37112 21.4692C7.78212 21.4692 9.06112 20.7472 9.79412 19.5382C10.0081 19.1842 9.89512 18.7232 9.54112 18.5082C9.18812 18.2942 8.72512 18.4062 8.51112 18.7612C8.05312 19.5182 7.25312 19.9692 6.37112 19.9692C4.99212 19.9692 3.87012 18.8482 3.87012 17.4692C3.87012 16.0902 4.99212 14.9692 6.37112 14.9692C6.77712 14.9692 7.15812 15.0832 7.50412 15.2602H7.47612C7.06212 15.2602 6.72612 15.5962 6.72612 16.0102C6.72612 16.4242 7.06212 16.7602 7.47612 16.7602H9.27512C9.28312 16.7602 9.29012 16.7552 9.29812 16.7552C9.35212 16.7542 9.40312 16.7372 9.45512 16.7242C9.50012 16.7122 9.54612 16.7062 9.58812 16.6872C9.59612 16.6832 9.60512 16.6842 9.61312 16.6802C9.65012 16.6622 9.67312 16.6312 9.70512 16.6082C9.74612 16.5792 9.78712 16.5532 9.82112 16.5162C9.85812 16.4772 9.88112 16.4332 9.90812 16.3882C9.93112 16.3502 9.95612 16.3162 9.97212 16.2752C9.99312 16.2192 9.99912 16.1622 10.0061 16.1032C10.0101 16.0712 10.0251 16.0432 10.0251 16.0102V14.2192C10.0251 13.8052 9.68912 13.4692 9.27512 13.4692Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet reload — broken style variants.
-class _BankingWalletReloadBroken {
-  const _BankingWalletReloadBroken();
-
-  /// Wallet reload — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet reload',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.8956 14.4071H17.4422C16.044 14.4071 14.9105 13.2736 14.9105 11.8754C14.9105 10.4782 16.044 9.34473 17.4422 9.34473H21.2494" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2466 11.8154H17.2437" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 10.6725V8.62535C3.25 5.89907 5.45962 3.68945 8.18589 3.68945H11.9949" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3138 3.6875C19.04 3.6875 21.2497 5.89712 21.2497 8.62339V15.3729C21.2497 18.0992 19.04 20.3088 16.3138 20.3088H12.8879" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.63638 14.6367C8.06524 14.1317 7.31411 13.8262 6.49195 13.8262C4.7007 13.8262 3.25 15.2778 3.25 17.0681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.34644 19.4988C4.91757 20.0038 5.66871 20.3093 6.49087 20.3093C8.28211 20.3093 9.73281 18.8577 9.73281 17.0674" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet reload — twoTone style variants.
-class _BankingWalletReloadTwotone {
-  const _BankingWalletReloadTwotone();
-
-  /// Wallet reload — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet reload',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.9984 14.1904H17.1912C15.793 14.1904 14.6605 13.0569 14.6605 11.6588C14.6605 10.2616 15.793 9.12806 17.1912 9.12806H20.9984" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.6023H16.9937" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 10.4557V8.40855C3 5.68228 5.20962 3.47266 7.93589 3.47266H16.0641C18.7904 3.47266 21 5.68228 21 8.40855V15.1581C21 17.8843 18.7904 20.094 16.0641 20.094H12.6383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.03243 18.9601C8.46227 19.9 7.42995 20.5285 6.2507 20.5285C4.45557 20.5285 3 19.073 3 17.2778C3 15.4817 4.45557 14.0271 6.2507 14.0271C7.52043 14.0271 8.62087 14.7549 9.156 15.8174" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.35556 15.8164H9.15459V14.0271" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet reload — outline style variants.
-class _BankingWalletReloadOutline {
-  const _BankingWalletReloadOutline();
-
-  /// Wallet reload — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet reload',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1911 9.87805C16.2073 9.87805 15.4104 10.6756 15.4104 11.6588C15.4104 12.6431 16.2075 13.4404 17.1911 13.4404H20.9983C21.4126 13.4404 21.7483 13.7762 21.7483 14.1904C21.7483 14.6046 21.4126 14.9404 20.9983 14.9404H17.1911C15.3784 14.9404 13.9104 13.4708 13.9104 11.6588C13.9104 9.84754 15.3785 8.37805 17.1911 8.37805H20.9983C21.4126 8.37805 21.7483 8.71384 21.7483 9.12805C21.7483 9.54227 21.4126 9.87805 20.9983 9.87805H17.1911Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2437 11.6023C16.2437 11.1881 16.5794 10.8523 16.9937 10.8523H16.9966C17.4108 10.8523 17.7466 11.1881 17.7466 11.6023C17.7466 12.0165 17.4108 12.3523 16.9966 12.3523H16.9937C16.5794 12.3523 16.2437 12.0165 16.2437 11.6023Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.93589 4.22266C5.62384 4.22266 3.75 6.09649 3.75 8.40855V10.4557C3.75 10.8699 3.41421 11.2057 3 11.2057C2.58579 11.2057 2.25 10.8699 2.25 10.4557V8.40855C2.25 5.26806 4.79541 2.72266 7.93589 2.72266H16.0641C19.2046 2.72266 21.75 5.26806 21.75 8.40855V15.1581C21.75 18.2985 19.2046 20.844 16.0641 20.844H12.6383C12.2241 20.844 11.8883 20.5082 11.8883 20.094C11.8883 19.6797 12.2241 19.344 12.6383 19.344H16.0641C18.3762 19.344 20.25 17.4701 20.25 15.1581V8.40855C20.25 6.09649 18.3762 4.22266 16.0641 4.22266H7.93589Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.2507 14.7772C4.86963 14.7772 3.75 15.8961 3.75 17.2779C3.75 18.6588 4.86978 19.7786 6.2507 19.7786C7.1566 19.7786 7.95109 19.2966 8.39119 18.5711C8.60603 18.217 9.06728 18.1041 9.42142 18.3189C9.77557 18.5337 9.8885 18.995 9.67367 19.3491C8.97345 20.5034 7.70329 21.2786 6.2507 21.2786C4.04135 21.2786 2.25 19.4872 2.25 17.2779C2.25 15.0674 4.0415 13.2772 6.2507 13.2772C7.81431 13.2772 9.1681 14.1742 9.82584 15.4801C10.0122 15.85 9.86331 16.3009 9.49337 16.4873C9.12343 16.6736 8.67249 16.5247 8.48616 16.1548C8.07363 15.3357 7.22656 14.7772 6.2507 14.7772Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.1545 13.2772C9.56871 13.2772 9.9045 13.6129 9.9045 14.0272V15.8165C9.9045 16.2307 9.56871 16.5665 9.1545 16.5665H7.35547C6.94126 16.5665 6.60547 16.2307 6.60547 15.8165C6.60547 15.4022 6.94126 15.0665 7.35547 15.0665H8.4045V14.0272C8.4045 13.6129 8.74028 13.2772 9.1545 13.2772Z" fill="black"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet reload — bold style variants.
-class _BankingWalletReloadBold {
-  const _BankingWalletReloadBold();
-
-  /// Wallet reload — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet reload',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.505 11.6104C18.505 12.0204 18.165 12.3604 17.755 12.3604C17.335 12.3604 17.005 12.0204 17.005 11.6104C17.005 11.2004 17.335 10.8604 17.755 10.8604C18.165 10.8604 18.505 11.2004 18.505 11.6104ZM15.875 11.6704C15.875 12.6504 16.675 13.4504 17.665 13.4504H21.665C21.8307 13.4504 21.965 13.3161 21.965 13.1504V10.1804C21.965 10.0147 21.8307 9.88037 21.665 9.88037H17.665C16.675 9.88037 15.875 10.6804 15.875 11.6704Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3751 11.6705C14.3751 9.85047 15.8551 8.38047 17.6651 8.38047H21.6631C21.8296 8.38047 21.9651 8.24468 21.9548 8.07852C21.7793 5.23871 19.4138 2.98047 16.5351 2.98047H8.40515C5.40515 2.98047 2.96515 5.42047 2.96515 8.42047V11.417C2.96515 11.6443 3.20919 11.7907 3.41746 11.6997C4.15334 11.3782 4.96532 11.2005 5.82515 11.2005C9.14515 11.2005 11.8351 13.8905 11.8351 17.2105C11.8351 18.2655 11.5617 19.2574 11.0853 20.1158C10.9681 20.327 11.1139 20.6005 11.3555 20.6005H16.5351C19.5546 20.6005 21.8113 18.1517 21.9576 15.2504C21.9659 15.085 21.8308 14.9505 21.6651 14.9505H17.6651C15.8551 14.9505 14.3751 13.4805 14.3751 11.6705Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.53516 17.0305C3.53516 15.6575 4.65316 14.5405 6.02716 14.5405C6.64116 14.5405 7.22416 14.7595 7.67116 15.1595C7.98016 15.4345 8.45316 15.4095 8.73016 15.1005C9.00616 14.7925 8.98016 14.3175 8.67116 14.0425C7.95016 13.3955 7.01116 13.0405 6.02716 13.0405C3.82616 13.0405 2.03516 14.8305 2.03516 17.0305C2.03516 17.4445 2.37116 17.7805 2.78516 17.7805C3.19916 17.7805 3.53516 17.4445 3.53516 17.0305Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.26806 16.2808C8.85406 16.2808 8.51806 16.6168 8.51806 17.0308C8.51806 18.4038 7.40006 19.5208 6.02606 19.5208C5.42206 19.5208 4.83606 19.2998 4.37606 18.8958C4.06406 18.6248 3.59006 18.6548 3.31806 18.9668C3.04506 19.2778 3.07606 19.7518 3.38806 20.0248C4.12106 20.6678 5.05806 21.0208 6.02606 21.0208C8.22706 21.0208 10.0181 19.2308 10.0181 17.0308C10.0181 16.6168 9.68206 16.2808 9.26806 16.2808Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Wallet reload — light style variants.
@@ -3005,6 +6738,259 @@ class _BankingWalletReloadLight {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9991 14.4061H17.1918C15.7937 14.4061 14.6602 13.2726 14.6602 11.8745C14.6602 10.4773 15.7937 9.34375 17.1918 9.34375H20.9991" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.8146H16.9936" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 10.6705V8.62339C3 5.89712 5.20962 3.6875 7.93589 3.6875H16.0641C18.7904 3.6875 21 5.89712 21 8.62339V15.3729C21 18.0992 18.7904 20.3088 16.0641 20.3088H12.6383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.38638 14.6347C7.81524 14.1297 7.06411 13.8242 6.24195 13.8242C4.4507 13.8242 3 15.2759 3 17.0662" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.09668 19.4979C4.66781 20.0028 5.41895 20.3084 6.24111 20.3084C8.03236 20.3084 9.48306 18.8567 9.48306 17.0664" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet reload 1 icon with style variants.
+class _BankingWalletReload1Icon {
+  const _BankingWalletReload1Icon();
+
+  /// light style
+  _BankingWalletReload1Light get light => const _BankingWalletReload1Light();
+}
+
+/// Wallet reload 1 — light style variants.
+class _BankingWalletReload1Light {
+  const _BankingWalletReload1Light();
+
+  /// Wallet reload 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet reload 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9991 14.4061H17.1918C15.7937 14.4061 14.6602 13.2726 14.6602 11.8745C14.6602 10.4773 15.7937 9.34375 17.1918 9.34375H20.9991" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.8146H16.9936" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 10.6705V8.62339C3 5.89712 5.20962 3.6875 7.93589 3.6875H16.0641C18.7904 3.6875 21 5.89712 21 8.62339V15.3729C21 18.0992 18.7904 20.3088 16.0641 20.3088H12.6383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.38638 14.6347C7.81524 14.1297 7.06411 13.8242 6.24195 13.8242C4.4507 13.8242 3 15.2759 3 17.0662" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.09668 19.4979C4.66781 20.0028 5.41895 20.3084 6.24111 20.3084C8.03236 20.3084 9.48306 18.8567 9.48306 17.0664" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet reload 2 icon with style variants.
+class _BankingWalletReload2Icon {
+  const _BankingWalletReload2Icon();
+
+  /// broken style
+  _BankingWalletReload2Broken get broken => const _BankingWalletReload2Broken();
+}
+
+/// Wallet reload 2 — broken style variants.
+class _BankingWalletReload2Broken {
+  const _BankingWalletReload2Broken();
+
+  /// Wallet reload 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet reload 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.8956 14.4071H17.4422C16.044 14.4071 14.9105 13.2736 14.9105 11.8754C14.9105 10.4782 16.044 9.34473 17.4422 9.34473H21.2494" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2466 11.8154H17.2437" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 10.6725V8.62535C3.25 5.89907 5.45962 3.68945 8.18589 3.68945H11.9949" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3138 3.6875C19.04 3.6875 21.2497 5.89712 21.2497 8.62339V15.3729C21.2497 18.0992 19.04 20.3088 16.3138 20.3088H12.8879" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.63638 14.6367C8.06524 14.1317 7.31411 13.8262 6.49195 13.8262C4.7007 13.8262 3.25 15.2778 3.25 17.0681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.34644 19.4988C4.91757 20.0038 5.66871 20.3093 6.49087 20.3093C8.28211 20.3093 9.73281 18.8577 9.73281 17.0674" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet reload 3 icon with style variants.
+class _BankingWalletReload3Icon {
+  const _BankingWalletReload3Icon();
+
+  /// broken style
+  _BankingWalletReload3Broken get broken => const _BankingWalletReload3Broken();
+}
+
+/// Wallet reload 3 — broken style variants.
+class _BankingWalletReload3Broken {
+  const _BankingWalletReload3Broken();
+
+  /// Wallet reload 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet reload 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.8956 14.4071H17.4422C16.044 14.4071 14.9105 13.2736 14.9105 11.8754C14.9105 10.4782 16.044 9.34473 17.4422 9.34473H21.2494" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2466 11.8154H17.2437" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 10.6725V8.62535C3.25 5.89907 5.45962 3.68945 8.18589 3.68945H11.9949" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3138 3.6875C19.04 3.6875 21.2497 5.89712 21.2497 8.62339V15.3729C21.2497 18.0992 19.04 20.3088 16.3138 20.3088H12.8879" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.63638 14.6367C8.06524 14.1317 7.31411 13.8262 6.49195 13.8262C4.7007 13.8262 3.25 15.2778 3.25 17.0681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.34644 19.4988C4.91757 20.0038 5.66871 20.3093 6.49087 20.3093C8.28211 20.3093 9.73281 18.8577 9.73281 17.0674" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet reload 4 icon with style variants.
+class _BankingWalletReload4Icon {
+  const _BankingWalletReload4Icon();
+
+  /// bold style
+  _BankingWalletReload4Bold get bold => const _BankingWalletReload4Bold();
+}
+
+/// Wallet reload 4 — bold style variants.
+class _BankingWalletReload4Bold {
+  const _BankingWalletReload4Bold();
+
+  /// Wallet reload 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet reload 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.505 11.6104C18.505 12.0204 18.165 12.3604 17.755 12.3604C17.335 12.3604 17.005 12.0204 17.005 11.6104C17.005 11.2004 17.335 10.8604 17.755 10.8604C18.165 10.8604 18.505 11.2004 18.505 11.6104ZM15.875 11.6704C15.875 12.6504 16.675 13.4504 17.665 13.4504H21.665C21.8307 13.4504 21.965 13.3161 21.965 13.1504V10.1804C21.965 10.0147 21.8307 9.88037 21.665 9.88037H17.665C16.675 9.88037 15.875 10.6804 15.875 11.6704Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3751 11.6705C14.3751 9.85047 15.8551 8.38047 17.6651 8.38047H21.6631C21.8296 8.38047 21.9651 8.24468 21.9548 8.07852C21.7793 5.23871 19.4138 2.98047 16.5351 2.98047H8.40515C5.40515 2.98047 2.96515 5.42047 2.96515 8.42047V11.417C2.96515 11.6443 3.20919 11.7907 3.41746 11.6997C4.15334 11.3782 4.96532 11.2005 5.82515 11.2005C9.14515 11.2005 11.8351 13.8905 11.8351 17.2105C11.8351 18.2655 11.5617 19.2574 11.0853 20.1158C10.9681 20.327 11.1139 20.6005 11.3555 20.6005H16.5351C19.5546 20.6005 21.8113 18.1517 21.9576 15.2504C21.9659 15.085 21.8308 14.9505 21.6651 14.9505H17.6651C15.8551 14.9505 14.3751 13.4805 14.3751 11.6705Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.53516 17.0305C3.53516 15.6575 4.65316 14.5405 6.02716 14.5405C6.64116 14.5405 7.22416 14.7595 7.67116 15.1595C7.98016 15.4345 8.45316 15.4095 8.73016 15.1005C9.00616 14.7925 8.98016 14.3175 8.67116 14.0425C7.95016 13.3955 7.01116 13.0405 6.02716 13.0405C3.82616 13.0405 2.03516 14.8305 2.03516 17.0305C2.03516 17.4445 2.37116 17.7805 2.78516 17.7805C3.19916 17.7805 3.53516 17.4445 3.53516 17.0305Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.26806 16.2808C8.85406 16.2808 8.51806 16.6168 8.51806 17.0308C8.51806 18.4038 7.40006 19.5208 6.02606 19.5208C5.42206 19.5208 4.83606 19.2998 4.37606 18.8958C4.06406 18.6248 3.59006 18.6548 3.31806 18.9668C3.04506 19.2778 3.07606 19.7518 3.38806 20.0248C4.12106 20.6678 5.05806 21.0208 6.02606 21.0208C8.22706 21.0208 10.0181 19.2308 10.0181 17.0308C10.0181 16.6168 9.68206 16.2808 9.26806 16.2808Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet reload 5 icon with style variants.
+class _BankingWalletReload5Icon {
+  const _BankingWalletReload5Icon();
+
+  /// bold style
+  _BankingWalletReload5Bold get bold => const _BankingWalletReload5Bold();
+}
+
+/// Wallet reload 5 — bold style variants.
+class _BankingWalletReload5Bold {
+  const _BankingWalletReload5Bold();
+
+  /// Wallet reload 5 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet reload 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9103 11.9112C17.5003 11.9112 17.1603 11.5812 17.1603 11.1612C17.1603 10.7512 17.5003 10.4112 17.9103 10.4112C18.3303 10.4112 18.6603 10.7512 18.6603 11.1612C18.6603 11.5812 18.3303 11.9112 17.9103 11.9112ZM17.8203 9.43115C16.8403 9.43115 16.0403 10.2412 16.0403 11.2212C16.0403 12.2112 16.8403 13.0012 17.8203 13.0012H21.8303C21.996 13.0012 22.1303 12.8668 22.1303 12.7012V9.73115C22.1303 9.56547 21.996 9.43115 21.8303 9.43115H17.8203Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5403 11.2212C14.5403 9.41125 16.0103 7.93125 17.8203 7.93125H21.8183C21.9848 7.93125 22.1203 7.79546 22.11 7.6293C21.9344 4.78949 19.569 2.53125 16.6903 2.53125H8.56031C5.56031 2.53125 3.13031 4.97125 3.13031 7.97125V11.9114C3.13031 12.1401 3.37749 12.2868 3.58694 12.1949C4.28556 11.8882 5.06124 11.7212 5.87031 11.7212C6.43588 11.7212 6.99285 11.7986 7.51732 11.9613C7.59615 11.9858 7.68126 11.9785 7.75614 11.9438C8.06588 11.8001 8.40627 11.7212 8.77031 11.7212C10.1603 11.7212 11.2703 12.8412 11.2703 14.2212V15.8713C11.2803 16.0013 11.2803 16.1412 11.2603 16.2712C11.2403 16.4312 11.2103 16.6013 11.1603 16.7513C11.1303 16.8313 11.1103 16.9113 11.0703 16.9913C11.0403 17.0612 11.0103 17.1313 10.9703 17.2013C10.9285 17.2849 10.8786 17.3746 10.8223 17.4589C10.7396 17.5829 10.7283 17.7489 10.8045 17.877C11.133 18.4288 11.2375 19.0909 11.0867 19.7258C11.0367 19.9366 11.1836 20.1612 11.4003 20.1612H16.6903C19.7149 20.1612 21.9764 17.7077 22.1228 14.8012C22.1311 14.6357 21.996 14.5013 21.8303 14.5013H17.8203C16.0103 14.5013 14.5403 13.0312 14.5403 11.2212Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.77512 13.4707C8.39812 13.4707 8.09912 13.7537 8.04612 14.1167C7.41112 13.7047 6.66312 13.4707 5.87112 13.4707C3.66512 13.4707 1.87012 15.2647 1.87012 17.4707C1.87012 19.6767 3.66512 21.4707 5.87112 21.4707C7.28212 21.4707 8.56112 20.7487 9.29412 19.5397C9.50812 19.1857 9.39512 18.7247 9.04112 18.5097C8.68812 18.2957 8.22512 18.4077 8.01112 18.7627C7.55312 19.5197 6.75312 19.9707 5.87112 19.9707C4.49212 19.9707 3.37012 18.8497 3.37012 17.4707C3.37012 16.0917 4.49212 14.9707 5.87112 14.9707C6.27712 14.9707 6.65812 15.0847 7.00412 15.2617H6.97612C6.56212 15.2617 6.22612 15.5977 6.22612 16.0117C6.22612 16.4257 6.56212 16.7617 6.97612 16.7617H8.77512C8.78312 16.7617 8.79012 16.7567 8.79812 16.7567C8.85212 16.7557 8.90312 16.7387 8.95512 16.7257C9.00012 16.7137 9.04612 16.7077 9.08812 16.6887C9.09612 16.6847 9.10512 16.6857 9.11312 16.6817C9.15012 16.6637 9.17312 16.6327 9.20512 16.6097C9.24612 16.5807 9.28712 16.5547 9.32112 16.5177C9.35812 16.4787 9.38112 16.4347 9.40812 16.3897C9.43112 16.3517 9.45612 16.3177 9.47212 16.2767C9.49312 16.2207 9.49912 16.1637 9.50612 16.1047C9.51012 16.0727 9.52512 16.0447 9.52512 16.0117V14.2207C9.52512 13.8067 9.18912 13.4707 8.77512 13.4707Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet reload 6 icon with style variants.
+class _BankingWalletReload6Icon {
+  const _BankingWalletReload6Icon();
+
+  /// bulk style
+  _BankingWalletReload6Bulk get bulk => const _BankingWalletReload6Bulk();
+}
+
+/// Wallet reload 6 — bulk style variants.
+class _BankingWalletReload6Bulk {
+  const _BankingWalletReload6Bulk();
+
+  /// Wallet reload 6 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet reload 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.0399 11.2212C15.0399 9.41125 16.5099 7.93125 18.3199 7.93125H22.3179C22.4843 7.93125 22.6198 7.79546 22.6096 7.6293C22.434 4.78949 20.0686 2.53125 17.1899 2.53125H9.05988C6.05988 2.53125 3.62988 4.97125 3.62988 7.97125V11.9114C3.62988 12.1401 3.87706 12.2868 4.08652 12.1949C4.78513 11.8882 5.56081 11.7212 6.36988 11.7212C6.93545 11.7212 7.49242 11.7986 8.01689 11.9613C8.09573 11.9858 8.18083 11.9785 8.25571 11.9438C8.56545 11.8001 8.90584 11.7212 9.26988 11.7212C10.6599 11.7212 11.7699 12.8412 11.7699 14.2212V15.8713C11.7799 16.0013 11.7799 16.1412 11.7599 16.2712C11.7399 16.4312 11.7099 16.6013 11.6599 16.7513C11.6299 16.8313 11.6099 16.9113 11.5699 16.9913C11.5399 17.0612 11.5099 17.1313 11.4699 17.2013C11.4281 17.2849 11.3781 17.3746 11.3219 17.4589C11.2392 17.5829 11.2278 17.7489 11.3041 17.877C11.6326 18.4288 11.7371 19.0909 11.5863 19.7258C11.5362 19.9366 11.6832 20.1612 11.8998 20.1612H17.1899C20.2144 20.1612 22.476 17.7077 22.6223 14.8012C22.6307 14.6357 22.4956 14.5013 22.3299 14.5013H18.3199C16.5099 14.5013 15.0399 13.0312 15.0399 11.2212Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4103 11.9097C18.0003 11.9097 17.6603 11.5797 17.6603 11.1597C17.6603 10.7497 18.0003 10.4097 18.4103 10.4097C18.8303 10.4097 19.1603 10.7497 19.1603 11.1597C19.1603 11.5797 18.8303 11.9097 18.4103 11.9097ZM18.3203 9.42969C17.3403 9.42969 16.5403 10.2397 16.5403 11.2197C16.5403 12.2097 17.3403 12.9997 18.3203 12.9997H22.3303C22.496 12.9997 22.6303 12.8654 22.6303 12.6997V9.72969C22.6303 9.564 22.496 9.42969 22.3303 9.42969H18.3203Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.27512 13.4692C8.89812 13.4692 8.59912 13.7522 8.54612 14.1152C7.91112 13.7032 7.16312 13.4692 6.37112 13.4692C4.16512 13.4692 2.37012 15.2632 2.37012 17.4692C2.37012 19.6752 4.16512 21.4692 6.37112 21.4692C7.78212 21.4692 9.06112 20.7472 9.79412 19.5382C10.0081 19.1842 9.89512 18.7232 9.54112 18.5082C9.18812 18.2942 8.72512 18.4062 8.51112 18.7612C8.05312 19.5182 7.25312 19.9692 6.37112 19.9692C4.99212 19.9692 3.87012 18.8482 3.87012 17.4692C3.87012 16.0902 4.99212 14.9692 6.37112 14.9692C6.77712 14.9692 7.15812 15.0832 7.50412 15.2602H7.47612C7.06212 15.2602 6.72612 15.5962 6.72612 16.0102C6.72612 16.4242 7.06212 16.7602 7.47612 16.7602H9.27512C9.28312 16.7602 9.29012 16.7552 9.29812 16.7552C9.35212 16.7542 9.40312 16.7372 9.45512 16.7242C9.50012 16.7122 9.54612 16.7062 9.58812 16.6872C9.59612 16.6832 9.60512 16.6842 9.61312 16.6802C9.65012 16.6622 9.67312 16.6312 9.70512 16.6082C9.74612 16.5792 9.78712 16.5532 9.82112 16.5162C9.85812 16.4772 9.88112 16.4332 9.90812 16.3882C9.93112 16.3502 9.95612 16.3162 9.97212 16.2752C9.99312 16.2192 9.99912 16.1622 10.0061 16.1032C10.0101 16.0712 10.0251 16.0432 10.0251 16.0102V14.2192C10.0251 13.8052 9.68912 13.4692 9.27512 13.4692Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet reload 7 icon with style variants.
+class _BankingWalletReload7Icon {
+  const _BankingWalletReload7Icon();
+
+  /// bulk style
+  _BankingWalletReload7Bulk get bulk => const _BankingWalletReload7Bulk();
+}
+
+/// Wallet reload 7 — bulk style variants.
+class _BankingWalletReload7Bulk {
+  const _BankingWalletReload7Bulk();
+
+  /// Wallet reload 7 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet reload 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.0399 11.2212C15.0399 9.41125 16.5099 7.93125 18.3199 7.93125H22.3179C22.4843 7.93125 22.6198 7.79546 22.6096 7.6293C22.434 4.78949 20.0686 2.53125 17.1899 2.53125H9.05988C6.05988 2.53125 3.62988 4.97125 3.62988 7.97125V11.9114C3.62988 12.1401 3.87706 12.2868 4.08652 12.1949C4.78513 11.8882 5.56081 11.7212 6.36988 11.7212C6.93545 11.7212 7.49242 11.7986 8.01689 11.9613C8.09573 11.9858 8.18083 11.9785 8.25571 11.9438C8.56545 11.8001 8.90584 11.7212 9.26988 11.7212C10.6599 11.7212 11.7699 12.8412 11.7699 14.2212V15.8713C11.7799 16.0013 11.7799 16.1412 11.7599 16.2712C11.7399 16.4312 11.7099 16.6013 11.6599 16.7513C11.6299 16.8313 11.6099 16.9113 11.5699 16.9913C11.5399 17.0612 11.5099 17.1313 11.4699 17.2013C11.4281 17.2849 11.3781 17.3746 11.3219 17.4589C11.2392 17.5829 11.2278 17.7489 11.3041 17.877C11.6326 18.4288 11.7371 19.0909 11.5863 19.7258C11.5362 19.9366 11.6832 20.1612 11.8998 20.1612H17.1899C20.2144 20.1612 22.476 17.7077 22.6223 14.8012C22.6307 14.6357 22.4956 14.5013 22.3299 14.5013H18.3199C16.5099 14.5013 15.0399 13.0312 15.0399 11.2212Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4103 11.9097C18.0003 11.9097 17.6603 11.5797 17.6603 11.1597C17.6603 10.7497 18.0003 10.4097 18.4103 10.4097C18.8303 10.4097 19.1603 10.7497 19.1603 11.1597C19.1603 11.5797 18.8303 11.9097 18.4103 11.9097ZM18.3203 9.42969C17.3403 9.42969 16.5403 10.2397 16.5403 11.2197C16.5403 12.2097 17.3403 12.9997 18.3203 12.9997H22.3303C22.496 12.9997 22.6303 12.8654 22.6303 12.6997V9.72969C22.6303 9.564 22.496 9.42969 22.3303 9.42969H18.3203Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.27512 13.4692C8.89812 13.4692 8.59912 13.7522 8.54612 14.1152C7.91112 13.7032 7.16312 13.4692 6.37112 13.4692C4.16512 13.4692 2.37012 15.2632 2.37012 17.4692C2.37012 19.6752 4.16512 21.4692 6.37112 21.4692C7.78212 21.4692 9.06112 20.7472 9.79412 19.5382C10.0081 19.1842 9.89512 18.7232 9.54112 18.5082C9.18812 18.2942 8.72512 18.4062 8.51112 18.7612C8.05312 19.5182 7.25312 19.9692 6.37112 19.9692C4.99212 19.9692 3.87012 18.8482 3.87012 17.4692C3.87012 16.0902 4.99212 14.9692 6.37112 14.9692C6.77712 14.9692 7.15812 15.0832 7.50412 15.2602H7.47612C7.06212 15.2602 6.72612 15.5962 6.72612 16.0102C6.72612 16.4242 7.06212 16.7602 7.47612 16.7602H9.27512C9.28312 16.7602 9.29012 16.7552 9.29812 16.7552C9.35212 16.7542 9.40312 16.7372 9.45512 16.7242C9.50012 16.7122 9.54612 16.7062 9.58812 16.6872C9.59612 16.6832 9.60512 16.6842 9.61312 16.6802C9.65012 16.6622 9.67312 16.6312 9.70512 16.6082C9.74612 16.5792 9.78712 16.5532 9.82112 16.5162C9.85812 16.4772 9.88112 16.4332 9.90812 16.3882C9.93112 16.3502 9.95612 16.3162 9.97212 16.2752C9.99312 16.2192 9.99912 16.1622 10.0061 16.1032C10.0101 16.0712 10.0251 16.0432 10.0251 16.0102V14.2192C10.0251 13.8052 9.68912 13.4692 9.27512 13.4692Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet reload 8 icon with style variants.
+class _BankingWalletReload8Icon {
+  const _BankingWalletReload8Icon();
+
+  /// outline style
+  _BankingWalletReload8Outline get outline => const _BankingWalletReload8Outline();
+}
+
+/// Wallet reload 8 — outline style variants.
+class _BankingWalletReload8Outline {
+  const _BankingWalletReload8Outline();
+
+  /// Wallet reload 8 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet reload 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1911 9.87805C16.2073 9.87805 15.4104 10.6756 15.4104 11.6588C15.4104 12.6431 16.2075 13.4404 17.1911 13.4404H20.9983C21.4126 13.4404 21.7483 13.7762 21.7483 14.1904C21.7483 14.6046 21.4126 14.9404 20.9983 14.9404H17.1911C15.3784 14.9404 13.9104 13.4708 13.9104 11.6588C13.9104 9.84754 15.3785 8.37805 17.1911 8.37805H20.9983C21.4126 8.37805 21.7483 8.71384 21.7483 9.12805C21.7483 9.54227 21.4126 9.87805 20.9983 9.87805H17.1911Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2437 11.6023C16.2437 11.1881 16.5794 10.8523 16.9937 10.8523H16.9966C17.4108 10.8523 17.7466 11.1881 17.7466 11.6023C17.7466 12.0165 17.4108 12.3523 16.9966 12.3523H16.9937C16.5794 12.3523 16.2437 12.0165 16.2437 11.6023Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.93589 4.22266C5.62384 4.22266 3.75 6.09649 3.75 8.40855V10.4557C3.75 10.8699 3.41421 11.2057 3 11.2057C2.58579 11.2057 2.25 10.8699 2.25 10.4557V8.40855C2.25 5.26806 4.79541 2.72266 7.93589 2.72266H16.0641C19.2046 2.72266 21.75 5.26806 21.75 8.40855V15.1581C21.75 18.2985 19.2046 20.844 16.0641 20.844H12.6383C12.2241 20.844 11.8883 20.5082 11.8883 20.094C11.8883 19.6797 12.2241 19.344 12.6383 19.344H16.0641C18.3762 19.344 20.25 17.4701 20.25 15.1581V8.40855C20.25 6.09649 18.3762 4.22266 16.0641 4.22266H7.93589Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.2507 14.7772C4.86963 14.7772 3.75 15.8961 3.75 17.2779C3.75 18.6588 4.86978 19.7786 6.2507 19.7786C7.1566 19.7786 7.95109 19.2966 8.39119 18.5711C8.60603 18.217 9.06728 18.1041 9.42142 18.3189C9.77557 18.5337 9.8885 18.995 9.67367 19.3491C8.97345 20.5034 7.70329 21.2786 6.2507 21.2786C4.04135 21.2786 2.25 19.4872 2.25 17.2779C2.25 15.0674 4.0415 13.2772 6.2507 13.2772C7.81431 13.2772 9.1681 14.1742 9.82584 15.4801C10.0122 15.85 9.86331 16.3009 9.49337 16.4873C9.12343 16.6736 8.67249 16.5247 8.48616 16.1548C8.07363 15.3357 7.22656 14.7772 6.2507 14.7772Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.1545 13.2772C9.56871 13.2772 9.9045 13.6129 9.9045 14.0272V15.8165C9.9045 16.2307 9.56871 16.5665 9.1545 16.5665H7.35547C6.94126 16.5665 6.60547 16.2307 6.60547 15.8165C6.60547 15.4022 6.94126 15.0665 7.35547 15.0665H8.4045V14.0272C8.4045 13.6129 8.74028 13.2772 9.1545 13.2772Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet reload 9 icon with style variants.
+class _BankingWalletReload9Icon {
+  const _BankingWalletReload9Icon();
+
+  /// outline style
+  _BankingWalletReload9Outline get outline => const _BankingWalletReload9Outline();
+}
+
+/// Wallet reload 9 — outline style variants.
+class _BankingWalletReload9Outline {
+  const _BankingWalletReload9Outline();
+
+  /// Wallet reload 9 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet reload 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1921 10.0948C16.2079 10.0948 15.4104 10.8928 15.4104 11.8756C15.4104 12.8595 16.2081 13.6572 17.1921 13.6572H20.9993C21.4135 13.6572 21.7493 13.993 21.7493 14.4072C21.7493 14.8214 21.4135 15.1572 20.9993 15.1572H17.1921C15.3797 15.1572 13.9104 13.6879 13.9104 11.8756C13.9104 10.064 15.3799 8.59485 17.1921 8.59485H20.9993C21.4135 8.59485 21.7493 8.93064 21.7493 9.34485C21.7493 9.75906 21.4135 10.0948 20.9993 10.0948H17.1921Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2437 11.8153C16.2437 11.4011 16.5794 11.0653 16.9937 11.0653H16.9966C17.4108 11.0653 17.7466 11.4011 17.7466 11.8153C17.7466 12.2295 17.4108 12.5653 16.9966 12.5653H16.9937C16.5794 12.5653 16.2437 12.2295 16.2437 11.8153Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.93589 4.43945C5.62384 4.43945 3.75 6.31329 3.75 8.62535V10.6725C3.75 11.0867 3.41421 11.4225 3 11.4225C2.58579 11.4225 2.25 11.0867 2.25 10.6725V8.62535C2.25 5.48486 4.79541 2.93945 7.93589 2.93945H16.0641C19.2046 2.93945 21.75 5.48486 21.75 8.62535V15.3749C21.75 18.5153 19.2046 21.0608 16.0641 21.0608H12.6383C12.2241 21.0608 11.8883 20.725 11.8883 20.3108C11.8883 19.8965 12.2241 19.5608 12.6383 19.5608H16.0641C18.3762 19.5608 20.25 17.6869 20.25 15.3749V8.62535C20.25 6.31329 18.3762 4.43945 16.0641 4.43945H7.93589Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 17.0678C2.25 14.8635 4.03634 13.0759 6.24195 13.0759C7.25334 13.0759 8.17967 13.4525 8.88316 14.0745C9.19348 14.3488 9.22262 14.8228 8.94825 15.1331C8.67389 15.4435 8.19991 15.4726 7.88959 15.1982C7.45081 14.8103 6.87487 14.5759 6.24195 14.5759C4.86506 14.5759 3.75 15.6916 3.75 17.0678C3.75 17.482 3.41421 17.8178 3 17.8178C2.58579 17.8178 2.25 17.482 2.25 17.0678Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.48282 16.3178C9.89704 16.3178 10.2328 16.6536 10.2328 17.0678C10.2328 19.2721 8.44648 21.0598 6.24088 21.0598C5.22948 21.0598 4.30315 20.6831 3.59966 20.0611C3.28934 19.7868 3.2602 19.3128 3.53457 19.0025C3.80894 18.6922 4.28291 18.663 4.59323 18.9374C5.03201 19.3253 5.60795 19.5598 6.24088 19.5598C7.61776 19.5598 8.73282 18.444 8.73282 17.0678C8.73282 16.6536 9.06861 16.3178 9.48282 16.3178Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet reload 10 icon with style variants.
+class _BankingWalletReload10Icon {
+  const _BankingWalletReload10Icon();
+
+  /// twoTone style
+  _BankingWalletReload10Twotone get twoTone => const _BankingWalletReload10Twotone();
+}
+
+/// Wallet reload 10 — twoTone style variants.
+class _BankingWalletReload10Twotone {
+  const _BankingWalletReload10Twotone();
+
+  /// Wallet reload 10 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet reload 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.9994 14.4072H17.1921C15.794 14.4072 14.6605 13.2737 14.6605 11.8756C14.6605 10.4784 15.794 9.34486 17.1921 9.34486H20.9994" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.8153H16.9937" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 10.6725V8.62535C3 5.89907 5.20962 3.68945 7.93589 3.68945H16.0641C18.7904 3.68945 21 5.89907 21 8.62535V15.3749C21 18.1011 18.7904 20.3108 16.0641 20.3108H12.6383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M4.09702 19.4997C4.66816 20.0047 5.41929 20.3102 6.24145 20.3102C8.0327 20.3102 9.4834 18.8586 9.4834 17.0683" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.38654 14.6364C7.8154 14.1314 7.06427 13.8259 6.2421 13.8259C4.45086 13.8259 3.00016 15.2776 3.00016 17.0678" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet reload 11 icon with style variants.
+class _BankingWalletReload11Icon {
+  const _BankingWalletReload11Icon();
+
+  /// twoTone style
+  _BankingWalletReload11Twotone get twoTone => const _BankingWalletReload11Twotone();
+}
+
+/// Wallet reload 11 — twoTone style variants.
+class _BankingWalletReload11Twotone {
+  const _BankingWalletReload11Twotone();
+
+  /// Wallet reload 11 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet reload 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.9984 14.1904H17.1912C15.793 14.1904 14.6605 13.0569 14.6605 11.6588C14.6605 10.2616 15.793 9.12806 17.1912 9.12806H20.9984" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.6023H16.9937" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 10.4557V8.40855C3 5.68228 5.20962 3.47266 7.93589 3.47266H16.0641C18.7904 3.47266 21 5.68228 21 8.40855V15.1581C21 17.8843 18.7904 20.094 16.0641 20.094H12.6383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.03243 18.9601C8.46227 19.9 7.42995 20.5285 6.2507 20.5285C4.45557 20.5285 3 19.073 3 17.2778C3 15.4817 4.45557 14.0271 6.2507 14.0271C7.52043 14.0271 8.62087 14.7549 9.156 15.8174" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.35556 15.8164H9.15459V14.0271" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -3122,93 +7108,8 @@ class _BankingBankCardInformationLight {
 class _BankingWalletDoublleIcon {
   const _BankingWalletDoublleIcon();
 
-  /// bold style
-  _BankingWalletDoublleBold get bold => const _BankingWalletDoublleBold();
-  /// bulk style
-  _BankingWalletDoublleBulk get bulk => const _BankingWalletDoublleBulk();
   /// light style
   _BankingWalletDoublleLight get light => const _BankingWalletDoublleLight();
-  /// outline style
-  _BankingWalletDoublleOutline get outline => const _BankingWalletDoublleOutline();
-  /// twoTone style
-  _BankingWalletDoublleTwotone get twoTone => const _BankingWalletDoublleTwotone();
-  /// broken style
-  _BankingWalletDoublleBroken get broken => const _BankingWalletDoublleBroken();
-}
-
-/// Wallet doublle — bulk style variants.
-class _BankingWalletDoublleBulk {
-  const _BankingWalletDoublleBulk();
-
-  /// Wallet doublle — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet doublle',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.351 4.84882H16.376C17.1852 4.84882 17.9593 4.99727 18.678 5.26265C18.7535 5.29052 18.8308 5.22412 18.8107 5.14624C18.2838 3.10507 16.7458 1.93826 14.822 2.22182L7.88405 3.22182C6.45526 3.42796 5.45209 4.36192 5.04869 5.75316C5.02346 5.8402 5.12047 5.90883 5.19765 5.86132C6.2289 5.22653 7.4173 4.8835 8.65905 4.87882L16.351 4.84882Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2677 14.2127C14.2677 12.4807 15.6797 11.0717 17.4147 11.0717H21.2007C21.3675 11.0717 21.5032 10.9352 21.4919 10.7688C21.309 8.08004 19.0639 5.95166 16.3337 5.95166H16.3137L8.62168 5.98166C7.24068 5.98666 5.94368 6.52966 4.97168 7.51066C3.99868 8.49166 3.46768 9.79266 3.47368 11.1737L3.49768 16.6737C3.50968 19.5167 5.82768 21.8217 8.67068 21.8217H8.69068L16.3847 21.7927C18.8516 21.7736 20.8957 20.0177 21.3949 17.7034C21.4335 17.5245 21.2926 17.3617 21.1096 17.3617H17.4147C15.6797 17.3617 14.2677 15.9487 14.2677 14.2127Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9515 14.1601C17.9515 14.5741 17.6175 14.9101 17.2035 14.9101H17.2005C16.7865 14.9101 16.4505 14.5741 16.4505 14.1601C16.4505 13.7461 16.7865 13.4101 17.2005 13.4101C17.6145 13.4101 17.9515 13.7461 17.9515 14.1601ZM15.7675 14.2111C15.7675 15.1201 16.5065 15.8601 17.4145 15.8601H21.2261C21.3923 15.8601 21.5268 15.725 21.5261 15.5587L21.5138 12.8688C21.5131 12.7036 21.379 12.5701 21.2138 12.5701H17.4145C16.5065 12.5701 15.7675 13.3061 15.7675 14.2111Z" fill="black"/> <path d="M12.8265 11.25H8.02051C7.60651 11.25 7.27051 10.914 7.27051 10.5C7.27051 10.086 7.60651 9.75 8.02051 9.75H12.8265C13.2405 9.75 13.5765 10.086 13.5765 10.5C13.5765 10.914 13.2405 11.25 12.8265 11.25Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet doublle — broken style variants.
-class _BankingWalletDoublleBroken {
-  const _BankingWalletDoublleBroken();
-
-  /// Wallet doublle — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet doublle',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.0485 11.4941H17.1631C15.8397 11.4941 14.7675 12.5664 14.7675 13.8897C14.7675 15.2121 15.8397 16.2844 17.1631 16.2844H20.7652" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9521 13.8359H16.9493" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2829 20.9832L16.1288 20.9667C18.7083 20.955 20.7896 18.8552 20.7789 16.2757L20.7546 10.7781C20.7429 8.19858 18.6431 6.11727 16.0636 6.12797L8.37183 6.16203C5.79233 6.1737 3.71005 8.2735 3.72173 10.853L3.74605 16.3506C3.75676 18.9291 5.85753 21.0114 8.43703 20.9997H9.15645" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.76941 10.1826H12.5752" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.04898 7.56904C5.03147 5.78937 5.85465 4.30161 7.66059 4.035L14.5993 3.03862C16.5745 2.74574 17.8647 4.15176 18.1576 6.13577L18.2296 6.57266" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet doublle — twoTone style variants.
-class _BankingWalletDoublleTwotone {
-  const _BankingWalletDoublleTwotone();
-
-  /// Wallet doublle — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet doublle',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.9998 15.9134H15.977C14.823 15.9134 13.8881 14.9784 13.8881 13.8244C13.8881 12.6703 14.823 11.7354 15.977 11.7354H20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.434 6.17537H7.56605C5.04392 6.17537 3 8.21929 3 10.7414V16.9059C3 19.4281 5.04392 21.472 7.56605 21.472H16.434C18.9561 21.472 21 19.4281 21 16.9059V10.7414C21 8.21929 18.9561 6.17537 16.434 6.17537Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.11405 12.6074V15.0364" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.285 6.54779L16.7326 4.06457C15.7742 2.53163 13.7517 2.07083 12.228 3.02111L7.2155 6.16174L7.20526 6.17198H7.19604" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet doublle — outline style variants.
-class _BankingWalletDoublleOutline {
-  const _BankingWalletDoublleOutline();
-
-  /// Wallet doublle — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet doublle',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.9132 12.2453C16.0039 12.2453 15.2676 12.982 15.2676 13.8899C15.2676 14.799 16.0041 15.5355 16.9132 15.5355H20.5153C20.9295 15.5355 21.2653 15.8713 21.2653 16.2855C21.2653 16.6997 20.9295 17.0355 20.5153 17.0355H16.9132C15.1756 17.0355 13.7676 15.6275 13.7676 13.8899C13.7676 12.1532 15.1758 10.7453 16.9132 10.7453H20.5153C20.9295 10.7453 21.2653 11.0811 21.2653 11.4953C21.2653 11.9095 20.9295 12.2453 20.5153 12.2453H16.9132Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9495 13.8364C15.9495 13.4222 16.2852 13.0864 16.6995 13.0864H16.7022C17.1164 13.0864 17.4522 13.4222 17.4522 13.8364C17.4522 14.2506 17.1164 14.5864 16.7022 14.5864H16.6995C16.2852 14.5864 15.9495 14.2506 15.9495 13.8364Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8169 6.87796C17.9823 6.86909 19.7448 8.61621 19.7546 10.7815ZM15.8169 6.87796L8.12523 6.91202C8.1252 6.91202 8.12525 6.91202 8.12523 6.91202C5.95968 6.92186 4.21192 8.68464 4.22172 10.8496L4.24605 16.3473C4.25503 18.5113 6.01828 20.2596 8.18363 20.2498L15.8754 20.2167C15.8755 20.2167 15.8754 20.2167 15.8754 20.2167C18.0407 20.2068 19.7879 18.4442 19.7789 16.2788L19.7546 10.7815M15.8105 5.37798C18.804 5.36556 21.241 7.78101 21.2546 10.7747L21.2789 16.2724C21.2913 19.2659 18.8759 21.7031 15.8822 21.7167L8.19042 21.7497C8.19037 21.7497 8.19048 21.7497 8.19042 21.7497C5.19692 21.7632 2.7586 19.3468 2.74606 16.3539M2.74606 16.3539L2.72174 10.8564C2.72174 10.8564 2.72174 10.8564 2.72174 10.8564C2.70822 7.86242 5.12505 5.42558 8.11844 5.41203L15.8105 5.37798" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.76953 10.1829C6.76953 9.76865 7.10532 9.43286 7.51953 9.43286H12.3253C12.7395 9.43286 13.0753 9.76865 13.0753 10.1829C13.0753 10.5971 12.7395 10.9329 12.3253 10.9329H7.51953C7.10532 10.9329 6.76953 10.5971 6.76953 10.1829Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2491 4.28291C15.8161 3.88078 15.2303 3.6662 14.4594 3.78051L14.456 3.781L7.52025 4.77696C7.51979 4.77703 7.51933 4.77709 7.51888 4.77716C6.81857 4.88088 6.34851 5.20721 6.04016 5.65804C5.71941 6.12698 5.54139 6.78152 5.54906 7.56166C5.55314 7.97586 5.22067 8.31493 4.80648 8.31901C4.39229 8.32308 4.05321 7.99062 4.04914 7.57642C4.0393 6.5769 4.26411 5.59772 4.80206 4.81121C5.3522 4.00688 6.1963 3.45616 7.30118 3.29304L7.3041 3.29261L14.2394 2.29673C14.24 2.29664 14.2406 2.29656 14.2412 2.29647C15.4448 2.11849 16.491 2.4605 17.2698 3.18382C18.0293 3.8892 18.4833 4.90695 18.6488 6.0198L18.7198 6.4507C18.7871 6.8594 18.5104 7.24532 18.1017 7.31268C17.693 7.38004 17.3071 7.10332 17.2397 6.69462L17.1657 6.24532C17.0375 5.37668 16.7002 4.70195 16.2491 4.28291Z" fill="black"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet doublle — bold style variants.
-class _BankingWalletDoublleBold {
-  const _BankingWalletDoublleBold();
-
-  /// Wallet doublle — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet doublle',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6725 4.80349C17.8511 4.83867 17.9959 4.64131 17.8996 4.48682L17.1571 3.29581C16.0561 1.53681 13.7251 0.998814 11.9621 2.09681L8.42863 4.31135C8.25848 4.41798 8.33403 4.68081 8.53484 4.68081H16.4341C16.8583 4.68081 17.2715 4.7245 17.6725 4.80349Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6379 14.3212C14.6379 15.0602 15.2389 15.6612 15.9769 15.6612H21.1999C21.3656 15.6612 21.4999 15.5269 21.4999 15.3612V13.2912C21.4999 13.1255 21.3656 12.9912 21.1999 12.9912H15.9769C15.2389 12.9912 14.6379 13.5882 14.6379 14.3212Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.86449 15.5412C8.86449 15.9552 8.52849 16.2912 8.11449 16.2912C7.70049 16.2912 7.36449 15.9552 7.36449 15.5412V13.1102C7.36449 12.6962 7.70049 12.3602 8.11449 12.3602C8.52849 12.3602 8.86449 12.6962 8.86449 13.1102V15.5412ZM16.6112 6.18115H7.56649C4.77249 6.18115 2.50049 8.45115 2.50049 11.2412V17.4112C2.50049 20.2012 4.77249 22.4722 7.56649 22.4722H16.6112C19.4578 22.4722 21.3623 20.1777 21.4933 17.4612C21.5013 17.2957 21.3662 17.1612 21.2005 17.1612H15.9765C14.4115 17.1612 13.1375 15.8872 13.1375 14.3212C13.1375 12.7612 14.4115 11.4912 15.9765 11.4912H21.2005C21.3662 11.4912 21.5013 11.3566 21.4933 11.1911C21.3623 8.47457 19.4576 6.18115 16.6112 6.18115Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Wallet doublle — light style variants.
@@ -3221,6 +7122,259 @@ class _BankingWalletDoublleLight {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.5153 16.2863H16.9132C15.5899 16.2863 14.5176 15.214 14.5176 13.8907C14.5176 12.5684 15.5899 11.4961 16.9132 11.4961H20.5153" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7025 13.8381H16.6998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.12183 6.163L15.8136 6.12895C18.3931 6.11824 20.4929 8.19955 20.5046 10.7791L20.5289 16.2767C20.5396 18.8562 18.4583 20.956 15.8788 20.9676L8.18703 21.0007C5.60753 21.0124 3.50676 18.9301 3.49605 16.3516L3.47173 10.854C3.46005 8.27448 5.54233 6.17468 8.12183 6.163Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.51953 10.1818H12.3253" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.7991 7.56904C4.78159 5.78937 5.60477 4.30161 7.41071 4.035L14.3494 3.03862C16.3246 2.74574 17.6149 4.15176 17.9077 6.13577L17.9798 6.57266" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet doublle 1 icon with style variants.
+class _BankingWalletDoublle1Icon {
+  const _BankingWalletDoublle1Icon();
+
+  /// light style
+  _BankingWalletDoublle1Light get light => const _BankingWalletDoublle1Light();
+}
+
+/// Wallet doublle 1 — light style variants.
+class _BankingWalletDoublle1Light {
+  const _BankingWalletDoublle1Light();
+
+  /// Wallet doublle 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet doublle 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9994 15.9123H15.9767C14.8226 15.9123 13.8877 14.9774 13.8877 13.8233C13.8877 12.6693 14.8226 11.7344 15.9767 11.7344H20.9994" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.434 6.17578H7.56605C5.04392 6.17578 3 8.2197 3 10.7418V16.9064C3 19.4285 5.04392 21.4724 7.56605 21.4724H16.434C18.9561 21.4724 21 19.4285 21 16.9064V10.7418C21 8.2197 18.9561 6.17578 16.434 6.17578Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.11357 12.6055V15.0344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2853 6.54779L16.7329 4.06457C15.7744 2.53163 13.752 2.07083 12.2283 3.02111L7.21575 6.16174L7.20551 6.17198H7.19629" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet doublle 2 icon with style variants.
+class _BankingWalletDoublle2Icon {
+  const _BankingWalletDoublle2Icon();
+
+  /// broken style
+  _BankingWalletDoublle2Broken get broken => const _BankingWalletDoublle2Broken();
+}
+
+/// Wallet doublle 2 — broken style variants.
+class _BankingWalletDoublle2Broken {
+  const _BankingWalletDoublle2Broken();
+
+  /// Wallet doublle 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet doublle 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.0485 11.4941H17.1631C15.8397 11.4941 14.7675 12.5664 14.7675 13.8897C14.7675 15.2121 15.8397 16.2844 17.1631 16.2844H20.7652" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9521 13.8359H16.9493" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2829 20.9832L16.1288 20.9667C18.7083 20.955 20.7896 18.8552 20.7789 16.2757L20.7546 10.7781C20.7429 8.19858 18.6431 6.11727 16.0636 6.12797L8.37183 6.16203C5.79233 6.1737 3.71005 8.2735 3.72173 10.853L3.74605 16.3506C3.75676 18.9291 5.85753 21.0114 8.43703 20.9997H9.15645" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.76941 10.1826H12.5752" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.04898 7.56904C5.03147 5.78937 5.85465 4.30161 7.66059 4.035L14.5993 3.03862C16.5745 2.74574 17.8647 4.15176 18.1576 6.13577L18.2296 6.57266" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet doublle 3 icon with style variants.
+class _BankingWalletDoublle3Icon {
+  const _BankingWalletDoublle3Icon();
+
+  /// broken style
+  _BankingWalletDoublle3Broken get broken => const _BankingWalletDoublle3Broken();
+}
+
+/// Wallet doublle 3 — broken style variants.
+class _BankingWalletDoublle3Broken {
+  const _BankingWalletDoublle3Broken();
+
+  /// Wallet doublle 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet doublle 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.2498 15.9133H16.227C15.073 15.9133 14.1381 14.9784 14.1381 13.8243C14.1381 12.6703 15.073 11.7354 16.227 11.7354H18.8617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.25 21.4724H16.684C19.2061 21.4724 21.25 19.4285 21.25 16.9064V10.7418C21.25 8.2197 19.2061 6.17578 16.684 6.17578H7.81605C5.29392 6.17578 3.25 8.2197 3.25 10.7418V16.9064C3.25 19.4285 5.29392 21.4724 7.81605 21.4724H8.89956" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.36405 12.6074V15.0364" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.535 6.54779L16.9826 4.06457C16.0242 2.53163 14.0017 2.07083 12.478 3.02111L7.4655 6.16174L7.45526 6.17198H7.44604" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet doublle 4 icon with style variants.
+class _BankingWalletDoublle4Icon {
+  const _BankingWalletDoublle4Icon();
+
+  /// bold style
+  _BankingWalletDoublle4Bold get bold => const _BankingWalletDoublle4Bold();
+}
+
+/// Wallet doublle 4 — bold style variants.
+class _BankingWalletDoublle4Bold {
+  const _BankingWalletDoublle4Bold();
+
+  /// Wallet doublle 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet doublle 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6725 4.80349C17.8511 4.83867 17.9959 4.64131 17.8996 4.48682L17.1571 3.29581C16.0561 1.53681 13.7251 0.998814 11.9621 2.09681L8.42863 4.31135C8.25848 4.41798 8.33403 4.68081 8.53484 4.68081H16.4341C16.8583 4.68081 17.2715 4.7245 17.6725 4.80349Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6379 14.3212C14.6379 15.0602 15.2389 15.6612 15.9769 15.6612H21.1999C21.3656 15.6612 21.4999 15.5269 21.4999 15.3612V13.2912C21.4999 13.1255 21.3656 12.9912 21.1999 12.9912H15.9769C15.2389 12.9912 14.6379 13.5882 14.6379 14.3212Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.86449 15.5412C8.86449 15.9552 8.52849 16.2912 8.11449 16.2912C7.70049 16.2912 7.36449 15.9552 7.36449 15.5412V13.1102C7.36449 12.6962 7.70049 12.3602 8.11449 12.3602C8.52849 12.3602 8.86449 12.6962 8.86449 13.1102V15.5412ZM16.6112 6.18115H7.56649C4.77249 6.18115 2.50049 8.45115 2.50049 11.2412V17.4112C2.50049 20.2012 4.77249 22.4722 7.56649 22.4722H16.6112C19.4578 22.4722 21.3623 20.1777 21.4933 17.4612C21.5013 17.2957 21.3662 17.1612 21.2005 17.1612H15.9765C14.4115 17.1612 13.1375 15.8872 13.1375 14.3212C13.1375 12.7612 14.4115 11.4912 15.9765 11.4912H21.2005C21.3662 11.4912 21.5013 11.3566 21.4933 11.1911C21.3623 8.47457 19.4576 6.18115 16.6112 6.18115Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet doublle 5 icon with style variants.
+class _BankingWalletDoublle5Icon {
+  const _BankingWalletDoublle5Icon();
+
+  /// bold style
+  _BankingWalletDoublle5Bold get bold => const _BankingWalletDoublle5Bold();
+}
+
+/// Wallet doublle 5 — bold style variants.
+class _BankingWalletDoublle5Bold {
+  const _BankingWalletDoublle5Bold();
+
+  /// Wallet doublle 5 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet doublle 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6725 4.80349C17.8511 4.83867 17.9959 4.64131 17.8996 4.48682L17.1571 3.29581C16.0561 1.53681 13.7251 0.998814 11.9621 2.09681L8.42863 4.31135C8.25848 4.41798 8.33403 4.68081 8.53484 4.68081H16.4341C16.8583 4.68081 17.2715 4.7245 17.6725 4.80349Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6379 14.3212C14.6379 15.0602 15.2389 15.6612 15.9769 15.6612H21.1999C21.3656 15.6612 21.4999 15.5269 21.4999 15.3612V13.2912C21.4999 13.1255 21.3656 12.9912 21.1999 12.9912H15.9769C15.2389 12.9912 14.6379 13.5882 14.6379 14.3212Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.86449 15.5412C8.86449 15.9552 8.52849 16.2912 8.11449 16.2912C7.70049 16.2912 7.36449 15.9552 7.36449 15.5412V13.1102C7.36449 12.6962 7.70049 12.3602 8.11449 12.3602C8.52849 12.3602 8.86449 12.6962 8.86449 13.1102V15.5412ZM16.6112 6.18115H7.56649C4.77249 6.18115 2.50049 8.45115 2.50049 11.2412V17.4112C2.50049 20.2012 4.77249 22.4722 7.56649 22.4722H16.6112C19.4578 22.4722 21.3623 20.1777 21.4933 17.4612C21.5013 17.2957 21.3662 17.1612 21.2005 17.1612H15.9765C14.4115 17.1612 13.1375 15.8872 13.1375 14.3212C13.1375 12.7612 14.4115 11.4912 15.9765 11.4912H21.2005C21.3662 11.4912 21.5013 11.3566 21.4933 11.1911C21.3623 8.47457 19.4576 6.18115 16.6112 6.18115Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet doublle 6 icon with style variants.
+class _BankingWalletDoublle6Icon {
+  const _BankingWalletDoublle6Icon();
+
+  /// bulk style
+  _BankingWalletDoublle6Bulk get bulk => const _BankingWalletDoublle6Bulk();
+}
+
+/// Wallet doublle 6 — bulk style variants.
+class _BankingWalletDoublle6Bulk {
+  const _BankingWalletDoublle6Bulk();
+
+  /// Wallet doublle 6 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet doublle 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.351 4.84882H16.376C17.1852 4.84882 17.9593 4.99727 18.678 5.26265C18.7535 5.29052 18.8308 5.22412 18.8107 5.14624C18.2838 3.10507 16.7458 1.93826 14.822 2.22182L7.88405 3.22182C6.45526 3.42796 5.45209 4.36192 5.04869 5.75316C5.02346 5.8402 5.12047 5.90883 5.19765 5.86132C6.2289 5.22653 7.4173 4.8835 8.65905 4.87882L16.351 4.84882Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2677 14.2127C14.2677 12.4807 15.6797 11.0717 17.4147 11.0717H21.2007C21.3675 11.0717 21.5032 10.9352 21.4919 10.7688C21.309 8.08004 19.0639 5.95166 16.3337 5.95166H16.3137L8.62168 5.98166C7.24068 5.98666 5.94368 6.52966 4.97168 7.51066C3.99868 8.49166 3.46768 9.79266 3.47368 11.1737L3.49768 16.6737C3.50968 19.5167 5.82768 21.8217 8.67068 21.8217H8.69068L16.3847 21.7927C18.8516 21.7736 20.8957 20.0177 21.3949 17.7034C21.4335 17.5245 21.2926 17.3617 21.1096 17.3617H17.4147C15.6797 17.3617 14.2677 15.9487 14.2677 14.2127Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9515 14.1601C17.9515 14.5741 17.6175 14.9101 17.2035 14.9101H17.2005C16.7865 14.9101 16.4505 14.5741 16.4505 14.1601C16.4505 13.7461 16.7865 13.4101 17.2005 13.4101C17.6145 13.4101 17.9515 13.7461 17.9515 14.1601ZM15.7675 14.2111C15.7675 15.1201 16.5065 15.8601 17.4145 15.8601H21.2261C21.3923 15.8601 21.5268 15.725 21.5261 15.5587L21.5138 12.8688C21.5131 12.7036 21.379 12.5701 21.2138 12.5701H17.4145C16.5065 12.5701 15.7675 13.3061 15.7675 14.2111Z" fill="black"/> <path d="M12.8265 11.25H8.02051C7.60651 11.25 7.27051 10.914 7.27051 10.5C7.27051 10.086 7.60651 9.75 8.02051 9.75H12.8265C13.2405 9.75 13.5765 10.086 13.5765 10.5C13.5765 10.914 13.2405 11.25 12.8265 11.25Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet doublle 7 icon with style variants.
+class _BankingWalletDoublle7Icon {
+  const _BankingWalletDoublle7Icon();
+
+  /// bulk style
+  _BankingWalletDoublle7Bulk get bulk => const _BankingWalletDoublle7Bulk();
+}
+
+/// Wallet doublle 7 — bulk style variants.
+class _BankingWalletDoublle7Bulk {
+  const _BankingWalletDoublle7Bulk();
+
+  /// Wallet doublle 7 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet doublle 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.1109 6.17969H8.06624C5.27224 6.17969 3.00024 8.44969 3.00024 11.2397V17.4097C3.00024 20.1997 5.27224 22.4707 8.06624 22.4707H17.1109C19.9575 22.4707 21.862 20.1763 21.993 17.4597C22.001 17.2942 21.8659 17.1597 21.7002 17.1597H16.4762C14.9112 17.1597 13.6372 15.8857 13.6372 14.3197C13.6372 12.7597 14.9112 11.4897 16.4762 11.4897H21.7002C21.8659 11.4897 22.001 11.3552 21.993 11.1897C21.862 8.47311 19.9574 6.17969 17.1109 6.17969Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.1722 4.80349C18.3509 4.83867 18.4956 4.64131 18.3993 4.48682L17.6569 3.29581C16.5559 1.53681 14.2249 0.998814 12.4619 2.09681L8.9284 4.31135C8.75825 4.41798 8.8338 4.68081 9.03461 4.68081H16.9339C17.3581 4.68081 17.7713 4.7245 18.1722 4.80349Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.1376 14.3212C15.1376 15.0602 15.7386 15.6612 16.4766 15.6612H21.6996C21.8653 15.6612 21.9996 15.5269 21.9996 15.3612V13.2912C21.9996 13.1255 21.8653 12.9912 21.6996 12.9912H16.4766C15.7386 12.9912 15.1376 13.5882 15.1376 14.3212Z" fill="black"/> <path d="M9.36426 15.5412C9.36426 15.9552 9.02826 16.2912 8.61426 16.2912C8.20026 16.2912 7.86426 15.9552 7.86426 15.5412V13.1102C7.86426 12.6962 8.20026 12.3602 8.61426 12.3602C9.02826 12.3602 9.36426 12.6962 9.36426 13.1102V15.5412Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet doublle 8 icon with style variants.
+class _BankingWalletDoublle8Icon {
+  const _BankingWalletDoublle8Icon();
+
+  /// outline style
+  _BankingWalletDoublle8Outline get outline => const _BankingWalletDoublle8Outline();
+}
+
+/// Wallet doublle 8 — outline style variants.
+class _BankingWalletDoublle8Outline {
+  const _BankingWalletDoublle8Outline();
+
+  /// Wallet doublle 8 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet doublle 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9772 12.4854C15.2373 12.4854 14.6382 13.0845 14.6382 13.8244C14.6382 14.5642 15.2373 15.1634 15.9772 15.1634H20.9999C21.4141 15.1634 21.7499 15.4991 21.7499 15.9134C21.7499 16.3276 21.4141 16.6634 20.9999 16.6634H15.9772C14.4089 16.6634 13.1382 15.3927 13.1382 13.8244C13.1382 12.2561 14.4089 10.9854 15.9772 10.9854H20.9999C21.4141 10.9854 21.7499 11.3212 21.7499 11.7354C21.7499 12.1496 21.4141 12.4854 20.9999 12.4854H15.9772Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 10.7414C2.25 7.80506 4.6297 5.42535 7.56605 5.42535H16.434C19.3703 5.42535 21.75 7.80506 21.75 10.7414V16.9059C21.75 19.8423 19.3703 22.222 16.434 22.222H7.56605C4.62971 22.222 2.25 19.8423 2.25 16.9059V10.7414ZM7.56605 6.92535C5.45813 6.92535 3.75 8.63349 3.75 10.7414V16.9059C3.75 19.0138 5.45813 20.722 7.56605 20.722H16.434C18.5419 20.722 20.25 19.0138 20.25 16.9059V10.7414C20.25 8.63349 18.5419 6.92535 16.434 6.92535H7.56605Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.11401 11.8574C8.52823 11.8574 8.86401 12.1932 8.86401 12.6074V15.0364C8.86401 15.4506 8.52823 15.7864 8.11401 15.7864C7.6998 15.7864 7.36401 15.4506 7.36401 15.0364V12.6074C7.36401 12.1932 7.6998 11.8574 8.11401 11.8574Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8311 2.38473C13.7052 1.21595 16.1902 1.78228 17.3686 3.66696L17.3686 3.66701L18.921 6.15023C19.1405 6.50145 19.0338 6.96418 18.6826 7.18375C18.3314 7.40332 17.8686 7.29659 17.6491 6.94537L16.0967 4.46219C16.0967 4.46218 16.0967 4.46216 16.0967 4.46215C15.3583 3.2812 13.7988 2.92587 12.6255 3.6571C12.6253 3.65723 12.6251 3.65736 12.6249 3.6575L7.6608 6.7678C7.53073 6.86725 7.37082 6.92199 7.20526 6.92199H7.19604C6.78183 6.92199 6.44604 6.5862 6.44604 6.17199C6.44604 5.88552 6.60665 5.63657 6.84272 5.51026L11.8298 2.38556L11.8311 2.38473Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet doublle 9 icon with style variants.
+class _BankingWalletDoublle9Icon {
+  const _BankingWalletDoublle9Icon();
+
+  /// outline style
+  _BankingWalletDoublle9Outline get outline => const _BankingWalletDoublle9Outline();
+}
+
+/// Wallet doublle 9 — outline style variants.
+class _BankingWalletDoublle9Outline {
+  const _BankingWalletDoublle9Outline();
+
+  /// Wallet doublle 9 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet doublle 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.9132 12.2453C16.0039 12.2453 15.2676 12.982 15.2676 13.8899C15.2676 14.799 16.0041 15.5355 16.9132 15.5355H20.5153C20.9295 15.5355 21.2653 15.8713 21.2653 16.2855C21.2653 16.6997 20.9295 17.0355 20.5153 17.0355H16.9132C15.1756 17.0355 13.7676 15.6275 13.7676 13.8899C13.7676 12.1532 15.1758 10.7453 16.9132 10.7453H20.5153C20.9295 10.7453 21.2653 11.0811 21.2653 11.4953C21.2653 11.9095 20.9295 12.2453 20.5153 12.2453H16.9132Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9495 13.8364C15.9495 13.4222 16.2852 13.0864 16.6995 13.0864H16.7022C17.1164 13.0864 17.4522 13.4222 17.4522 13.8364C17.4522 14.2506 17.1164 14.5864 16.7022 14.5864H16.6995C16.2852 14.5864 15.9495 14.2506 15.9495 13.8364Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8169 6.87796C17.9823 6.86909 19.7448 8.61621 19.7546 10.7815ZM15.8169 6.87796L8.12523 6.91202C8.1252 6.91202 8.12525 6.91202 8.12523 6.91202C5.95968 6.92186 4.21192 8.68464 4.22172 10.8496L4.24605 16.3473C4.25503 18.5113 6.01828 20.2596 8.18363 20.2498L15.8754 20.2167C15.8755 20.2167 15.8754 20.2167 15.8754 20.2167C18.0407 20.2068 19.7879 18.4442 19.7789 16.2788L19.7546 10.7815M15.8105 5.37798C18.804 5.36556 21.241 7.78101 21.2546 10.7747L21.2789 16.2724C21.2913 19.2659 18.8759 21.7031 15.8822 21.7167L8.19042 21.7497C8.19037 21.7497 8.19048 21.7497 8.19042 21.7497C5.19692 21.7632 2.7586 19.3468 2.74606 16.3539M2.74606 16.3539L2.72174 10.8564C2.72174 10.8564 2.72174 10.8564 2.72174 10.8564C2.70822 7.86242 5.12505 5.42558 8.11844 5.41203L15.8105 5.37798" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.76953 10.1829C6.76953 9.76865 7.10532 9.43286 7.51953 9.43286H12.3253C12.7395 9.43286 13.0753 9.76865 13.0753 10.1829C13.0753 10.5971 12.7395 10.9329 12.3253 10.9329H7.51953C7.10532 10.9329 6.76953 10.5971 6.76953 10.1829Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2491 4.28291C15.8161 3.88078 15.2303 3.6662 14.4594 3.78051L14.456 3.781L7.52025 4.77696C7.51979 4.77703 7.51933 4.77709 7.51888 4.77716C6.81857 4.88088 6.34851 5.20721 6.04016 5.65804C5.71941 6.12698 5.54139 6.78152 5.54906 7.56166C5.55314 7.97586 5.22067 8.31493 4.80648 8.31901C4.39229 8.32308 4.05321 7.99062 4.04914 7.57642C4.0393 6.5769 4.26411 5.59772 4.80206 4.81121C5.3522 4.00688 6.1963 3.45616 7.30118 3.29304L7.3041 3.29261L14.2394 2.29673C14.24 2.29664 14.2406 2.29656 14.2412 2.29647C15.4448 2.11849 16.491 2.4605 17.2698 3.18382C18.0293 3.8892 18.4833 4.90695 18.6488 6.0198L18.7198 6.4507C18.7871 6.8594 18.5104 7.24532 18.1017 7.31268C17.693 7.38004 17.3071 7.10332 17.2397 6.69462L17.1657 6.24532C17.0375 5.37668 16.7002 4.70195 16.2491 4.28291Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet doublle 10 icon with style variants.
+class _BankingWalletDoublle10Icon {
+  const _BankingWalletDoublle10Icon();
+
+  /// twoTone style
+  _BankingWalletDoublle10Twotone get twoTone => const _BankingWalletDoublle10Twotone();
+}
+
+/// Wallet doublle 10 — twoTone style variants.
+class _BankingWalletDoublle10Twotone {
+  const _BankingWalletDoublle10Twotone();
+
+  /// Wallet doublle 10 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet doublle 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.9998 15.9134H15.977C14.823 15.9134 13.8881 14.9784 13.8881 13.8244C13.8881 12.6703 14.823 11.7354 15.977 11.7354H20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.434 6.17537H7.56605C5.04392 6.17537 3 8.21929 3 10.7414V16.9059C3 19.4281 5.04392 21.472 7.56605 21.472H16.434C18.9561 21.472 21 19.4281 21 16.9059V10.7414C21 8.21929 18.9561 6.17537 16.434 6.17537Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.11405 12.6074V15.0364" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.285 6.54779L16.7326 4.06457C15.7742 2.53163 13.7517 2.07083 12.228 3.02111L7.2155 6.16174L7.20526 6.17198H7.19604" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet doublle 11 icon with style variants.
+class _BankingWalletDoublle11Icon {
+  const _BankingWalletDoublle11Icon();
+
+  /// twoTone style
+  _BankingWalletDoublle11Twotone get twoTone => const _BankingWalletDoublle11Twotone();
+}
+
+/// Wallet doublle 11 — twoTone style variants.
+class _BankingWalletDoublle11Twotone {
+  const _BankingWalletDoublle11Twotone();
+
+  /// Wallet doublle 11 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet doublle 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.9998 15.9134H15.977C14.823 15.9134 13.8881 14.9784 13.8881 13.8244C13.8881 12.6703 14.823 11.7354 15.977 11.7354H20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.434 6.17537H7.56605C5.04392 6.17537 3 8.21929 3 10.7414V16.9059C3 19.4281 5.04392 21.472 7.56605 21.472H16.434C18.9561 21.472 21 19.4281 21 16.9059V10.7414C21 8.21929 18.9561 6.17537 16.434 6.17537Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.11405 12.6074V15.0364" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.285 6.54779L16.7326 4.06457C15.7742 2.53163 13.7517 2.07083 12.228 3.02111L7.2155 6.16174L7.20526 6.17198H7.19604" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -3662,93 +7816,8 @@ class _BankingWalletCloseLight {
 class _BankingBankCarrdRefreshIcon {
   const _BankingBankCarrdRefreshIcon();
 
-  /// bold style
-  _BankingBankCarrdRefreshBold get bold => const _BankingBankCarrdRefreshBold();
-  /// bulk style
-  _BankingBankCarrdRefreshBulk get bulk => const _BankingBankCarrdRefreshBulk();
   /// light style
   _BankingBankCarrdRefreshLight get light => const _BankingBankCarrdRefreshLight();
-  /// outline style
-  _BankingBankCarrdRefreshOutline get outline => const _BankingBankCarrdRefreshOutline();
-  /// twoTone style
-  _BankingBankCarrdRefreshTwotone get twoTone => const _BankingBankCarrdRefreshTwotone();
-  /// broken style
-  _BankingBankCarrdRefreshBroken get broken => const _BankingBankCarrdRefreshBroken();
-}
-
-/// Bank Carrd refresh — bulk style variants.
-class _BankingBankCarrdRefreshBulk {
-  const _BankingBankCarrdRefreshBulk();
-
-  /// Bank Carrd refresh — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Carrd refresh',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.9968 7.93563C21.9968 5.14263 20.2028 3.26562 17.5328 3.26562H7.46178C4.79178 3.26562 2.99878 5.14263 2.99878 7.93563V8.01562C2.99878 8.18131 3.13309 8.31563 3.29878 8.31563H21.6968C21.8625 8.31563 21.9968 8.18131 21.9968 8.01562V7.93563Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6763 12.9321C16.9153 12.9321 16.1953 13.1511 15.5833 13.5391C15.5143 13.1961 15.2253 12.9321 14.8623 12.9321C14.4473 12.9321 14.1123 13.2681 14.1123 13.6821V15.4111C14.1123 15.4491 14.1273 15.4801 14.1333 15.5161C14.1403 15.5701 14.1453 15.6231 14.1653 15.6741C14.1823 15.7191 14.2093 15.7571 14.2343 15.7981C14.2603 15.8391 14.2813 15.8801 14.3143 15.9161C14.3513 15.9561 14.3963 15.9841 14.4413 16.0161C14.4703 16.0361 14.4923 16.0651 14.5253 16.0811C14.5323 16.0851 14.5403 16.0841 14.5483 16.0881C14.5913 16.1081 14.6393 16.1141 14.6873 16.1261C14.7383 16.1391 14.7873 16.1551 14.8383 16.1571C14.8473 16.1571 14.8533 16.1611 14.8623 16.1611H16.6053C17.0193 16.1611 17.3553 15.8261 17.3553 15.4111C17.3553 15.0201 17.0513 14.7081 16.6693 14.6741C16.9803 14.5301 17.3163 14.4321 17.6763 14.4321C18.9983 14.4321 20.0743 15.5091 20.0743 16.8321C20.0743 18.1561 18.9983 19.2321 17.6763 19.2321C16.8303 19.2321 16.0633 18.7981 15.6213 18.0721C15.4063 17.7181 14.9473 17.6051 14.5913 17.8211C14.2383 18.0361 14.1243 18.4961 14.3403 18.8511C15.0553 20.0291 16.3023 20.7321 17.6763 20.7321C19.8253 20.7321 21.5743 18.9831 21.5743 16.8321C21.5743 14.6821 19.8253 12.9321 17.6763 12.9321Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.30122 9.8125C3.13553 9.8125 3.00122 9.94681 3.00122 10.1125V14.5125C3.00122 17.3125 4.79122 19.1825 7.46122 19.1825H12.1854C12.3872 19.1825 12.5313 18.9865 12.5042 18.7866C12.4292 18.2325 12.5441 17.6733 12.8218 17.1977C12.8846 17.0901 12.887 16.9554 12.818 16.8516C12.7755 16.7878 12.735 16.7259 12.7238 16.7056C12.7083 16.6773 12.688 16.6517 12.6722 16.6236C12.6683 16.6166 12.6647 16.6095 12.6612 16.6025C12.6036 16.5065 12.5553 16.3921 12.5249 16.2858C12.5224 16.2771 12.5147 16.2698 12.5119 16.2612C12.5099 16.2551 12.51 16.2494 12.5078 16.2435C12.4594 16.116 12.4208 15.9793 12.4012 15.8425C12.3712 15.7025 12.3612 15.5525 12.3612 15.4125V13.6825C12.3612 12.3025 13.4812 11.1825 14.8612 11.1825C15.217 11.1825 15.557 11.2537 15.86 11.3891C15.9322 11.4213 16.0134 11.4288 16.0894 11.4068C16.5954 11.2599 17.134 11.1825 17.6812 11.1825C19.114 11.1825 20.4302 11.7244 21.4252 12.615C21.6345 12.8022 22.0012 12.6626 22.0012 12.3818V10.1125C22.0012 9.94681 21.8669 9.8125 21.7012 9.8125H3.30122Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Carrd refresh — broken style variants.
-class _BankingBankCarrdRefreshBroken {
-  const _BankingBankCarrdRefreshBroken();
-
-  /// Bank Carrd refresh — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Carrd refresh',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.1404 14.3047C15.7028 13.8085 16.4413 13.5068 17.2498 13.5068C19.0119 13.5068 20.4393 14.9352 20.4393 16.6962" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.3598 19.0869C18.7975 19.5831 18.059 19.8847 17.2504 19.8847C15.4884 19.8847 14.061 18.4564 14.061 16.6953" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.25 11.576V8.28248C21.25 5.84032 19.7292 4.11523 17.2851 4.11523H12.2495" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.5415 19.0387H7.21389C4.77076 19.0387 3.25 17.3136 3.25 14.8715V8.28443C3.25 5.84227 4.77757 4.11719 7.21389 4.11719H8.7317" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.41309H18.2308" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Carrd refresh — twoTone style variants.
-class _BankingBankCarrdRefreshTwotone {
-  const _BankingBankCarrdRefreshTwotone();
-
-  /// Bank Carrd refresh — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Carrd refresh',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M14.5103 18.3473C15.062 19.258 16.0632 19.8661 17.2054 19.8661C18.9441 19.8661 20.354 18.4563 20.354 16.7176C20.354 14.9779 18.9441 13.568 17.2054 13.568C15.9746 13.568 14.9092 14.2744 14.3906 15.3028" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1342 15.3019H14.3906V13.568" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 11.5955V8.30201C21 5.85985 19.4792 4.13477 17.0351 4.13477H6.96486C4.52757 4.13477 3 5.85985 3 8.30201V14.889C3 17.3312 4.52076 19.0563 6.96486 19.0563H10.2915" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.43291H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Carrd refresh — outline style variants.
-class _BankingBankCarrdRefreshOutline {
-  const _BankingBankCarrdRefreshOutline();
-
-  /// Bank Carrd refresh — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Carrd refresh',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7209 14.9652C14.3618 13.6942 15.6801 12.8181 17.2054 12.8181C19.3584 12.8181 21.1039 14.5638 21.1039 16.7176C21.1039 18.8705 19.3583 20.6161 17.2054 20.6161C15.7904 20.6161 14.5509 19.862 13.8687 18.7359C13.6541 18.3816 13.7673 17.9204 14.1216 17.7058C14.4759 17.4912 14.9371 17.6044 15.1517 17.9587C15.5729 18.654 16.3357 19.1161 17.2054 19.1161C18.5298 19.1161 19.6039 18.0421 19.6039 16.7176C19.6039 15.392 18.5297 14.3181 17.2054 14.3181C16.269 14.3181 15.4565 14.8547 15.0602 15.6406C14.8737 16.0104 14.4227 16.159 14.0529 15.9725C13.683 15.786 13.5344 15.335 13.7209 14.9652Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3906 12.8181C14.8048 12.8181 15.1406 13.1538 15.1406 13.5681V14.5519H16.1342C16.5484 14.5519 16.8842 14.8877 16.8842 15.3019C16.8842 15.7161 16.5484 16.0519 16.1342 16.0519H14.3906C13.9764 16.0519 13.6406 15.7161 13.6406 15.3019V13.5681C13.6406 13.1538 13.9764 12.8181 14.3906 12.8181Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.51983 4.79119C4.36279 3.88686 5.5605 3.38477 6.96486 3.38477H17.0351C18.4424 3.38477 19.6405 3.88657 20.483 4.79153C21.3199 5.69043 21.75 6.92614 21.75 8.30201V11.5955C21.75 12.0097 21.4142 12.3455 21 12.3455C20.5858 12.3455 20.25 12.0097 20.25 11.5955V8.30201C20.25 7.23572 19.9197 6.3878 19.3852 5.81362C18.8563 5.2455 18.0719 4.88477 17.0351 4.88477H6.96486C5.93193 4.88477 5.14721 5.24522 4.61707 5.81396C4.08146 6.38856 3.75 7.2366 3.75 8.30201V14.889C3.75 15.9553 4.08028 16.8032 4.61483 17.3774C5.14373 17.9455 5.92807 18.3063 6.96486 18.3063H10.2915C10.7057 18.3063 11.0415 18.6421 11.0415 19.0563C11.0415 19.4705 10.7057 19.8063 10.2915 19.8063H6.96486C5.55755 19.8063 4.35946 19.3045 3.51696 18.3995C2.68009 17.5006 2.25 16.2649 2.25 14.889V8.30201C2.25 6.92526 2.68232 5.68967 3.51983 4.79119Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.43292C2.25 9.01871 2.58579 8.68292 3 8.68292H21C21.4142 8.68292 21.75 9.01871 21.75 9.43292C21.75 9.84714 21.4142 10.1829 21 10.1829H3C2.58579 10.1829 2.25 9.84714 2.25 9.43292Z" fill="black"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Carrd refresh — bold style variants.
-class _BankingBankCarrdRefreshBold {
-  const _BankingBankCarrdRefreshBold();
-
-  /// Bank Carrd refresh — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Carrd refresh',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4965 7.93563C21.4965 5.14263 19.7025 3.26562 17.0325 3.26562H6.96153C4.29153 3.26562 2.49854 5.14263 2.49854 7.93563V8.01562C2.49854 8.18131 2.63285 8.31563 2.79854 8.31563H21.1965C21.3622 8.31563 21.4965 8.18131 21.4965 8.01562V7.93563Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.80104 9.81201C2.63535 9.81201 2.50104 9.94633 2.50104 10.112V14.512C2.50104 17.312 4.29104 19.182 6.96104 19.182H11.6852C11.887 19.182 12.0311 18.986 12.0041 18.7861C11.929 18.232 12.0439 17.6728 12.3216 17.1972C12.3844 17.0896 12.3869 16.9549 12.3178 16.8511C12.2753 16.7873 12.2348 16.7254 12.2237 16.7051C12.2081 16.6769 12.1878 16.6512 12.172 16.6231C12.1681 16.6161 12.1646 16.609 12.161 16.602C12.1035 16.506 12.0551 16.3916 12.0248 16.2853C12.0223 16.2766 12.0146 16.2693 12.0117 16.2607C12.0097 16.2546 12.0099 16.249 12.0076 16.243C11.9592 16.1155 11.9206 15.9788 11.901 15.842C11.871 15.702 11.861 15.552 11.861 15.412V13.682C11.861 12.302 12.981 11.182 14.361 11.182C14.7168 11.182 15.0568 11.2532 15.3598 11.3886C15.432 11.4208 15.5132 11.4283 15.5892 11.4063C16.0952 11.2594 16.6338 11.182 17.181 11.182C18.6138 11.182 19.93 11.7239 20.9251 12.6145C21.1343 12.8018 21.501 12.6622 21.501 12.3813V10.112C21.501 9.94633 21.3667 9.81201 21.201 9.81201H2.80104Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1761 12.9321C16.4151 12.9321 15.6951 13.1511 15.0831 13.5391C15.0141 13.1961 14.7251 12.9321 14.3621 12.9321C13.9471 12.9321 13.6121 13.2681 13.6121 13.6821V15.4111C13.6121 15.4491 13.6271 15.4801 13.6331 15.5161C13.6401 15.5701 13.6451 15.6231 13.6651 15.6741C13.6821 15.7191 13.7091 15.7571 13.7341 15.7981C13.7601 15.8391 13.7811 15.8801 13.8141 15.9161C13.8511 15.9561 13.8961 15.9841 13.9411 16.0161C13.9701 16.0361 13.9921 16.0651 14.0251 16.0811C14.0321 16.0851 14.0401 16.0841 14.0481 16.0881C14.0911 16.1081 14.1391 16.1141 14.1871 16.1261C14.2381 16.1391 14.2871 16.1551 14.3381 16.1571C14.3471 16.1571 14.3531 16.1611 14.3621 16.1611H16.1051C16.5191 16.1611 16.8551 15.8261 16.8551 15.4111C16.8551 15.0201 16.5511 14.7081 16.1691 14.6741C16.4801 14.5301 16.8161 14.4321 17.1761 14.4321C18.4981 14.4321 19.5741 15.5091 19.5741 16.8321C19.5741 18.1561 18.4981 19.2321 17.1761 19.2321C16.3301 19.2321 15.5631 18.7981 15.1211 18.0721C14.9061 17.7181 14.4471 17.6051 14.0911 17.8211C13.7381 18.0361 13.6241 18.4961 13.8401 18.8511C14.5551 20.0291 15.8021 20.7321 17.1761 20.7321C19.3251 20.7321 21.0741 18.9831 21.0741 16.8321C21.0741 14.6821 19.3251 12.9321 17.1761 12.9321Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Bank Carrd refresh — light style variants.
@@ -3758,9 +7827,262 @@ class _BankingBankCarrdRefreshLight {
   /// Bank Carrd refresh — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Bank Carrd refresh',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.5103 18.3456C15.062 19.2564 16.0632 19.8645 17.2054 19.8645C18.9441 19.8645 20.354 18.4546 20.354 16.7159C20.354 14.9762 18.9441 13.5664 17.2054 13.5664C15.9746 13.5664 14.9092 14.2728 14.3906 15.3012" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1342 15.3002H14.3906V13.5664" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 11.5936V8.30006C21 5.85789 19.4792 4.13281 17.0351 4.13281H6.96486C4.52757 4.13281 3 5.85789 3 8.30006V14.8871C3 17.3292 4.52076 19.0543 6.96486 19.0543H10.2915" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.4318H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Carrd refresh 1 icon with style variants.
+class _BankingBankCarrdRefresh1Icon {
+  const _BankingBankCarrdRefresh1Icon();
+
+  /// light style
+  _BankingBankCarrdRefresh1Light get light => const _BankingBankCarrdRefresh1Light();
+}
+
+/// Bank Carrd refresh 1 — light style variants.
+class _BankingBankCarrdRefresh1Light {
+  const _BankingBankCarrdRefresh1Light();
+
+  /// Bank Carrd refresh 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Carrd refresh 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.8906 14.3057C15.453 13.8094 16.1915 13.5078 17 13.5078C18.7621 13.5078 20.1894 14.9361 20.1894 16.6972" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.1094 19.0869C18.547 19.5831 17.8085 19.8847 17 19.8847C15.2379 19.8847 13.8105 18.4564 13.8105 16.6953" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 11.5779V8.28443C21 5.84227 19.4792 4.11719 17.0351 4.11719H6.96389C4.52757 4.11719 3 5.84227 3 8.28443V14.8715C3 17.3136 4.52076 19.0387 6.96389 19.0387H10.2915" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.41227H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Carrd refresh 2 icon with style variants.
+class _BankingBankCarrdRefresh2Icon {
+  const _BankingBankCarrdRefresh2Icon();
+
+  /// broken style
+  _BankingBankCarrdRefresh2Broken get broken => const _BankingBankCarrdRefresh2Broken();
+}
+
+/// Bank Carrd refresh 2 — broken style variants.
+class _BankingBankCarrdRefresh2Broken {
+  const _BankingBankCarrdRefresh2Broken();
+
+  /// Bank Carrd refresh 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Carrd refresh 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.7603 18.3476C15.312 19.2583 16.3132 19.8664 17.4554 19.8664C19.1941 19.8664 20.604 18.4566 20.604 16.7179C20.604 14.9782 19.1941 13.5684 17.4554 13.5684C16.2246 13.5684 15.1592 14.2747 14.6406 15.3032" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3842 15.3022H14.6406V13.5684" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.25 11.5955V8.30201C21.25 5.85985 19.7292 4.13477 17.2851 4.13477H12.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.5415 19.0543H7.21486C4.77076 19.0543 3.25 17.3292 3.25 14.8871V8.30006C3.25 5.85789 4.77757 4.13281 7.21486 4.13281H8.73243" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.43262L18.3467 9.43262" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Carrd refresh 3 icon with style variants.
+class _BankingBankCarrdRefresh3Icon {
+  const _BankingBankCarrdRefresh3Icon();
+
+  /// broken style
+  _BankingBankCarrdRefresh3Broken get broken => const _BankingBankCarrdRefresh3Broken();
+}
+
+/// Bank Carrd refresh 3 — broken style variants.
+class _BankingBankCarrdRefresh3Broken {
+  const _BankingBankCarrdRefresh3Broken();
+
+  /// Bank Carrd refresh 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Carrd refresh 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.1404 14.3047C15.7028 13.8085 16.4413 13.5068 17.2498 13.5068C19.0119 13.5068 20.4393 14.9352 20.4393 16.6962" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.3598 19.0869C18.7975 19.5831 18.059 19.8847 17.2504 19.8847C15.4884 19.8847 14.061 18.4564 14.061 16.6953" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.25 11.576V8.28248C21.25 5.84032 19.7292 4.11523 17.2851 4.11523H12.2495" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.5415 19.0387H7.21389C4.77076 19.0387 3.25 17.3136 3.25 14.8715V8.28443C3.25 5.84227 4.77757 4.11719 7.21389 4.11719H8.7317" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.41309H18.2308" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Carrd refresh 4 icon with style variants.
+class _BankingBankCarrdRefresh4Icon {
+  const _BankingBankCarrdRefresh4Icon();
+
+  /// bold style
+  _BankingBankCarrdRefresh4Bold get bold => const _BankingBankCarrdRefresh4Bold();
+}
+
+/// Bank Carrd refresh 4 — bold style variants.
+class _BankingBankCarrdRefresh4Bold {
+  const _BankingBankCarrdRefresh4Bold();
+
+  /// Bank Carrd refresh 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Carrd refresh 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4965 7.93563C21.4965 5.14263 19.7025 3.26562 17.0325 3.26562H6.96153C4.29153 3.26562 2.49854 5.14263 2.49854 7.93563V8.01562C2.49854 8.18131 2.63285 8.31563 2.79854 8.31563H21.1965C21.3622 8.31563 21.4965 8.18131 21.4965 8.01562V7.93563Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.80104 9.81201C2.63535 9.81201 2.50104 9.94633 2.50104 10.112V14.512C2.50104 17.312 4.29104 19.182 6.96104 19.182H11.6852C11.887 19.182 12.0311 18.986 12.0041 18.7861C11.929 18.232 12.0439 17.6728 12.3216 17.1972C12.3844 17.0896 12.3869 16.9549 12.3178 16.8511C12.2753 16.7873 12.2348 16.7254 12.2237 16.7051C12.2081 16.6769 12.1878 16.6512 12.172 16.6231C12.1681 16.6161 12.1646 16.609 12.161 16.602C12.1035 16.506 12.0551 16.3916 12.0248 16.2853C12.0223 16.2766 12.0146 16.2693 12.0117 16.2607C12.0097 16.2546 12.0099 16.249 12.0076 16.243C11.9592 16.1155 11.9206 15.9788 11.901 15.842C11.871 15.702 11.861 15.552 11.861 15.412V13.682C11.861 12.302 12.981 11.182 14.361 11.182C14.7168 11.182 15.0568 11.2532 15.3598 11.3886C15.432 11.4208 15.5132 11.4283 15.5892 11.4063C16.0952 11.2594 16.6338 11.182 17.181 11.182C18.6138 11.182 19.93 11.7239 20.9251 12.6145C21.1343 12.8018 21.501 12.6622 21.501 12.3813V10.112C21.501 9.94633 21.3667 9.81201 21.201 9.81201H2.80104Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1761 12.9321C16.4151 12.9321 15.6951 13.1511 15.0831 13.5391C15.0141 13.1961 14.7251 12.9321 14.3621 12.9321C13.9471 12.9321 13.6121 13.2681 13.6121 13.6821V15.4111C13.6121 15.4491 13.6271 15.4801 13.6331 15.5161C13.6401 15.5701 13.6451 15.6231 13.6651 15.6741C13.6821 15.7191 13.7091 15.7571 13.7341 15.7981C13.7601 15.8391 13.7811 15.8801 13.8141 15.9161C13.8511 15.9561 13.8961 15.9841 13.9411 16.0161C13.9701 16.0361 13.9921 16.0651 14.0251 16.0811C14.0321 16.0851 14.0401 16.0841 14.0481 16.0881C14.0911 16.1081 14.1391 16.1141 14.1871 16.1261C14.2381 16.1391 14.2871 16.1551 14.3381 16.1571C14.3471 16.1571 14.3531 16.1611 14.3621 16.1611H16.1051C16.5191 16.1611 16.8551 15.8261 16.8551 15.4111C16.8551 15.0201 16.5511 14.7081 16.1691 14.6741C16.4801 14.5301 16.8161 14.4321 17.1761 14.4321C18.4981 14.4321 19.5741 15.5091 19.5741 16.8321C19.5741 18.1561 18.4981 19.2321 17.1761 19.2321C16.3301 19.2321 15.5631 18.7981 15.1211 18.0721C14.9061 17.7181 14.4471 17.6051 14.0911 17.8211C13.7381 18.0361 13.6241 18.4961 13.8401 18.8511C14.5551 20.0291 15.8021 20.7321 17.1761 20.7321C19.3251 20.7321 21.0741 18.9831 21.0741 16.8321C21.0741 14.6821 19.3251 12.9321 17.1761 12.9321Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Carrd refresh 5 icon with style variants.
+class _BankingBankCarrdRefresh5Icon {
+  const _BankingBankCarrdRefresh5Icon();
+
+  /// bold style
+  _BankingBankCarrdRefresh5Bold get bold => const _BankingBankCarrdRefresh5Bold();
+}
+
+/// Bank Carrd refresh 5 — bold style variants.
+class _BankingBankCarrdRefresh5Bold {
+  const _BankingBankCarrdRefresh5Bold();
+
+  /// Bank Carrd refresh 5 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Carrd refresh 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4965 7.93563C21.4965 5.14263 19.7025 3.26562 17.0325 3.26562H6.96153C4.29153 3.26562 2.49854 5.14263 2.49854 7.93563V8.01562C2.49854 8.18131 2.63285 8.31563 2.79854 8.31563H21.1965C21.3622 8.31563 21.4965 8.18131 21.4965 8.01562V7.93563Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.80104 9.81201C2.63535 9.81201 2.50104 9.94633 2.50104 10.112V14.512C2.50104 17.312 4.29104 19.182 6.96104 19.182H11.6852C11.887 19.182 12.0311 18.986 12.0041 18.7861C11.929 18.232 12.0439 17.6728 12.3216 17.1972C12.3844 17.0896 12.3869 16.9549 12.3178 16.8511C12.2753 16.7873 12.2348 16.7254 12.2237 16.7051C12.2081 16.6769 12.1878 16.6512 12.172 16.6231C12.1681 16.6161 12.1646 16.609 12.161 16.602C12.1035 16.506 12.0551 16.3916 12.0248 16.2853C12.0223 16.2766 12.0146 16.2693 12.0117 16.2607C12.0097 16.2546 12.0099 16.249 12.0076 16.243C11.9592 16.1155 11.9206 15.9788 11.901 15.842C11.871 15.702 11.861 15.552 11.861 15.412V13.682C11.861 12.302 12.981 11.182 14.361 11.182C14.7168 11.182 15.0568 11.2532 15.3598 11.3886C15.432 11.4208 15.5132 11.4283 15.5892 11.4063C16.0952 11.2594 16.6338 11.182 17.181 11.182C18.6138 11.182 19.93 11.7239 20.9251 12.6145C21.1343 12.8018 21.501 12.6622 21.501 12.3813V10.112C21.501 9.94633 21.3667 9.81201 21.201 9.81201H2.80104Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1761 12.9321C16.4151 12.9321 15.6951 13.1511 15.0831 13.5391C15.0141 13.1961 14.7251 12.9321 14.3621 12.9321C13.9471 12.9321 13.6121 13.2681 13.6121 13.6821V15.4111C13.6121 15.4491 13.6271 15.4801 13.6331 15.5161C13.6401 15.5701 13.6451 15.6231 13.6651 15.6741C13.6821 15.7191 13.7091 15.7571 13.7341 15.7981C13.7601 15.8391 13.7811 15.8801 13.8141 15.9161C13.8511 15.9561 13.8961 15.9841 13.9411 16.0161C13.9701 16.0361 13.9921 16.0651 14.0251 16.0811C14.0321 16.0851 14.0401 16.0841 14.0481 16.0881C14.0911 16.1081 14.1391 16.1141 14.1871 16.1261C14.2381 16.1391 14.2871 16.1551 14.3381 16.1571C14.3471 16.1571 14.3531 16.1611 14.3621 16.1611H16.1051C16.5191 16.1611 16.8551 15.8261 16.8551 15.4111C16.8551 15.0201 16.5511 14.7081 16.1691 14.6741C16.4801 14.5301 16.8161 14.4321 17.1761 14.4321C18.4981 14.4321 19.5741 15.5091 19.5741 16.8321C19.5741 18.1561 18.4981 19.2321 17.1761 19.2321C16.3301 19.2321 15.5631 18.7981 15.1211 18.0721C14.9061 17.7181 14.4471 17.6051 14.0911 17.8211C13.7381 18.0361 13.6241 18.4961 13.8401 18.8511C14.5551 20.0291 15.8021 20.7321 17.1761 20.7321C19.3251 20.7321 21.0741 18.9831 21.0741 16.8321C21.0741 14.6821 19.3251 12.9321 17.1761 12.9321Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Carrd refresh 6 icon with style variants.
+class _BankingBankCarrdRefresh6Icon {
+  const _BankingBankCarrdRefresh6Icon();
+
+  /// bulk style
+  _BankingBankCarrdRefresh6Bulk get bulk => const _BankingBankCarrdRefresh6Bulk();
+}
+
+/// Bank Carrd refresh 6 — bulk style variants.
+class _BankingBankCarrdRefresh6Bulk {
+  const _BankingBankCarrdRefresh6Bulk();
+
+  /// Bank Carrd refresh 6 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Carrd refresh 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5362 3.125H7.4652C4.7952 3.125 3.0022 5.002 3.0022 7.795V7.875C3.0022 8.04069 3.13651 8.175 3.3022 8.175H21.7002C21.8659 8.175 22.0002 8.04069 22.0002 7.875V7.795C22.0002 5.002 20.2062 3.125 17.5362 3.125Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.8825 13.0029C16.9275 13.0029 16.0035 13.3489 15.2795 13.9769C14.9675 14.2479 14.9345 14.7219 15.2055 15.0349C15.4785 15.3469 15.9515 15.3799 16.2645 15.1089C16.7145 14.7189 17.2885 14.5029 17.8825 14.5029C19.2275 14.5029 20.3205 15.5979 20.3205 16.9429C20.3205 17.3569 20.6565 17.6929 21.0705 17.6929C21.4855 17.6929 21.8205 17.3569 21.8205 16.9429C21.8205 14.7709 20.0545 13.0029 17.8825 13.0029Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.4987 18.7674C19.0517 19.1584 18.4777 19.3724 17.8827 19.3724C16.5377 19.3724 15.4427 18.2834 15.4427 16.9434C15.4427 16.5294 15.1067 16.1934 14.6927 16.1934C14.2787 16.1934 13.9427 16.5294 13.9427 16.9434C13.9427 19.1104 15.7107 20.8724 17.8827 20.8724C18.8397 20.8724 19.7637 20.5274 20.4847 19.8984C20.7967 19.6254 20.8297 19.1524 20.5577 18.8394C20.2847 18.5274 19.8117 18.4954 19.4987 18.7674Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M2.99976 14.3719C2.99976 17.1619 4.79976 19.0419 7.46976 19.0419H11.6704C11.8732 19.0419 12.0177 18.8447 11.9707 18.6474C11.8634 18.1968 11.8098 17.7283 11.8098 17.2419C11.8098 13.7719 14.6198 10.9719 18.0798 10.9719C19.3344 10.9719 20.51 11.3384 21.4908 11.98C21.7022 12.1184 21.9998 11.974 21.9998 11.7213V9.97187C21.9998 9.80619 21.8654 9.67188 21.6998 9.67188H3.29976C3.13407 9.67188 2.99976 9.80619 2.99976 9.97188V14.3719Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Carrd refresh 7 icon with style variants.
+class _BankingBankCarrdRefresh7Icon {
+  const _BankingBankCarrdRefresh7Icon();
+
+  /// bulk style
+  _BankingBankCarrdRefresh7Bulk get bulk => const _BankingBankCarrdRefresh7Bulk();
+}
+
+/// Bank Carrd refresh 7 — bulk style variants.
+class _BankingBankCarrdRefresh7Bulk {
+  const _BankingBankCarrdRefresh7Bulk();
+
+  /// Bank Carrd refresh 7 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Carrd refresh 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.9968 7.93563C21.9968 5.14263 20.2028 3.26562 17.5328 3.26562H7.46178C4.79178 3.26562 2.99878 5.14263 2.99878 7.93563V8.01562C2.99878 8.18131 3.13309 8.31563 3.29878 8.31563H21.6968C21.8625 8.31563 21.9968 8.18131 21.9968 8.01562V7.93563Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6763 12.9321C16.9153 12.9321 16.1953 13.1511 15.5833 13.5391C15.5143 13.1961 15.2253 12.9321 14.8623 12.9321C14.4473 12.9321 14.1123 13.2681 14.1123 13.6821V15.4111C14.1123 15.4491 14.1273 15.4801 14.1333 15.5161C14.1403 15.5701 14.1453 15.6231 14.1653 15.6741C14.1823 15.7191 14.2093 15.7571 14.2343 15.7981C14.2603 15.8391 14.2813 15.8801 14.3143 15.9161C14.3513 15.9561 14.3963 15.9841 14.4413 16.0161C14.4703 16.0361 14.4923 16.0651 14.5253 16.0811C14.5323 16.0851 14.5403 16.0841 14.5483 16.0881C14.5913 16.1081 14.6393 16.1141 14.6873 16.1261C14.7383 16.1391 14.7873 16.1551 14.8383 16.1571C14.8473 16.1571 14.8533 16.1611 14.8623 16.1611H16.6053C17.0193 16.1611 17.3553 15.8261 17.3553 15.4111C17.3553 15.0201 17.0513 14.7081 16.6693 14.6741C16.9803 14.5301 17.3163 14.4321 17.6763 14.4321C18.9983 14.4321 20.0743 15.5091 20.0743 16.8321C20.0743 18.1561 18.9983 19.2321 17.6763 19.2321C16.8303 19.2321 16.0633 18.7981 15.6213 18.0721C15.4063 17.7181 14.9473 17.6051 14.5913 17.8211C14.2383 18.0361 14.1243 18.4961 14.3403 18.8511C15.0553 20.0291 16.3023 20.7321 17.6763 20.7321C19.8253 20.7321 21.5743 18.9831 21.5743 16.8321C21.5743 14.6821 19.8253 12.9321 17.6763 12.9321Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.30122 9.8125C3.13553 9.8125 3.00122 9.94681 3.00122 10.1125V14.5125C3.00122 17.3125 4.79122 19.1825 7.46122 19.1825H12.1854C12.3872 19.1825 12.5313 18.9865 12.5042 18.7866C12.4292 18.2325 12.5441 17.6733 12.8218 17.1977C12.8846 17.0901 12.887 16.9554 12.818 16.8516C12.7755 16.7878 12.735 16.7259 12.7238 16.7056C12.7083 16.6773 12.688 16.6517 12.6722 16.6236C12.6683 16.6166 12.6647 16.6095 12.6612 16.6025C12.6036 16.5065 12.5553 16.3921 12.5249 16.2858C12.5224 16.2771 12.5147 16.2698 12.5119 16.2612C12.5099 16.2551 12.51 16.2494 12.5078 16.2435C12.4594 16.116 12.4208 15.9793 12.4012 15.8425C12.3712 15.7025 12.3612 15.5525 12.3612 15.4125V13.6825C12.3612 12.3025 13.4812 11.1825 14.8612 11.1825C15.217 11.1825 15.557 11.2537 15.86 11.3891C15.9322 11.4213 16.0134 11.4288 16.0894 11.4068C16.5954 11.2599 17.134 11.1825 17.6812 11.1825C19.114 11.1825 20.4302 11.7244 21.4252 12.615C21.6345 12.8022 22.0012 12.6626 22.0012 12.3818V10.1125C22.0012 9.94681 21.8669 9.8125 21.7012 9.8125H3.30122Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Carrd refresh 8 icon with style variants.
+class _BankingBankCarrdRefresh8Icon {
+  const _BankingBankCarrdRefresh8Icon();
+
+  /// outline style
+  _BankingBankCarrdRefresh8Outline get outline => const _BankingBankCarrdRefresh8Outline();
+}
+
+/// Bank Carrd refresh 8 — outline style variants.
+class _BankingBankCarrdRefresh8Outline {
+  const _BankingBankCarrdRefresh8Outline();
+
+  /// Bank Carrd refresh 8 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Carrd refresh 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7209 14.9652C14.3618 13.6942 15.6801 12.8181 17.2054 12.8181C19.3584 12.8181 21.1039 14.5638 21.1039 16.7176C21.1039 18.8705 19.3583 20.6161 17.2054 20.6161C15.7904 20.6161 14.5509 19.862 13.8687 18.7359C13.6541 18.3816 13.7673 17.9204 14.1216 17.7058C14.4759 17.4912 14.9371 17.6044 15.1517 17.9587C15.5729 18.654 16.3357 19.1161 17.2054 19.1161C18.5298 19.1161 19.6039 18.0421 19.6039 16.7176C19.6039 15.392 18.5297 14.3181 17.2054 14.3181C16.269 14.3181 15.4565 14.8547 15.0602 15.6406C14.8737 16.0104 14.4227 16.159 14.0529 15.9725C13.683 15.786 13.5344 15.335 13.7209 14.9652Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3906 12.8181C14.8048 12.8181 15.1406 13.1538 15.1406 13.5681V14.5519H16.1342C16.5484 14.5519 16.8842 14.8877 16.8842 15.3019C16.8842 15.7161 16.5484 16.0519 16.1342 16.0519H14.3906C13.9764 16.0519 13.6406 15.7161 13.6406 15.3019V13.5681C13.6406 13.1538 13.9764 12.8181 14.3906 12.8181Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.51983 4.79119C4.36279 3.88686 5.5605 3.38477 6.96486 3.38477H17.0351C18.4424 3.38477 19.6405 3.88657 20.483 4.79153C21.3199 5.69043 21.75 6.92614 21.75 8.30201V11.5955C21.75 12.0097 21.4142 12.3455 21 12.3455C20.5858 12.3455 20.25 12.0097 20.25 11.5955V8.30201C20.25 7.23572 19.9197 6.3878 19.3852 5.81362C18.8563 5.2455 18.0719 4.88477 17.0351 4.88477H6.96486C5.93193 4.88477 5.14721 5.24522 4.61707 5.81396C4.08146 6.38856 3.75 7.2366 3.75 8.30201V14.889C3.75 15.9553 4.08028 16.8032 4.61483 17.3774C5.14373 17.9455 5.92807 18.3063 6.96486 18.3063H10.2915C10.7057 18.3063 11.0415 18.6421 11.0415 19.0563C11.0415 19.4705 10.7057 19.8063 10.2915 19.8063H6.96486C5.55755 19.8063 4.35946 19.3045 3.51696 18.3995C2.68009 17.5006 2.25 16.2649 2.25 14.889V8.30201C2.25 6.92526 2.68232 5.68967 3.51983 4.79119Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.43292C2.25 9.01871 2.58579 8.68292 3 8.68292H21C21.4142 8.68292 21.75 9.01871 21.75 9.43292C21.75 9.84714 21.4142 10.1829 21 10.1829H3C2.58579 10.1829 2.25 9.84714 2.25 9.43292Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Carrd refresh 9 icon with style variants.
+class _BankingBankCarrdRefresh9Icon {
+  const _BankingBankCarrdRefresh9Icon();
+
+  /// outline style
+  _BankingBankCarrdRefresh9Outline get outline => const _BankingBankCarrdRefresh9Outline();
+}
+
+/// Bank Carrd refresh 9 — outline style variants.
+class _BankingBankCarrdRefresh9Outline {
+  const _BankingBankCarrdRefresh9Outline();
+
+  /// Bank Carrd refresh 9 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Carrd refresh 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.9998 14.2567C16.3813 14.2567 15.8176 14.4867 15.3866 14.8669C15.076 15.141 14.6021 15.1114 14.328 14.8008C14.054 14.4902 14.0836 14.0162 14.3942 13.7422C15.088 13.13 16.0012 12.7567 16.9998 12.7567C19.1762 12.7567 20.9392 14.521 20.9392 16.6961C20.9392 17.1103 20.6034 17.4461 20.1892 17.4461C19.775 17.4461 19.4392 17.1103 19.4392 16.6961C19.4392 15.3491 18.3475 14.2567 16.9998 14.2567Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.811 15.9455C14.2252 15.9455 14.561 16.2813 14.561 16.6955C14.561 18.0425 15.6527 19.1349 17.0004 19.1349C17.6189 19.1349 18.1827 18.905 18.6136 18.5247C18.9242 18.2506 19.3982 18.2803 19.6722 18.5908C19.9463 18.9014 19.9167 19.3754 19.6061 19.6494C18.9123 20.2616 17.9991 20.6349 17.0004 20.6349C14.824 20.6349 13.061 18.8706 13.061 16.6955C13.061 16.2813 13.3968 15.9455 13.811 15.9455Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.51966 4.77171C4.36246 3.86738 5.55993 3.36523 6.96389 3.36523H17.0351C18.4424 3.36523 19.6405 3.86704 20.483 4.772C21.3199 5.6709 21.75 6.90661 21.75 8.28248V11.576C21.75 11.9902 21.4142 12.326 21 12.326C20.5858 12.326 20.25 11.9902 20.25 11.576V8.28248C20.25 7.21619 19.9197 6.36827 19.3852 5.79409C18.8563 5.22597 18.0719 4.86523 17.0351 4.86523H6.96389C5.93153 4.86523 5.14705 5.22563 4.61699 5.79438C4.08147 6.369 3.75 7.21706 3.75 8.28248V14.8695C3.75 15.9358 4.08029 16.7837 4.61475 17.3579C5.14357 17.9261 5.92767 18.2867 6.96389 18.2867H10.2915C10.7057 18.2867 11.0415 18.6225 11.0415 19.0367C11.0415 19.451 10.7057 19.7867 10.2915 19.7867H6.96389C5.55698 19.7867 4.35913 19.2849 3.51679 18.3799C2.68009 17.481 2.25 16.2454 2.25 14.8695V8.28248C2.25 6.90573 2.68232 5.67017 3.51966 4.77171Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.41339C2.25 8.99918 2.58579 8.66339 3 8.66339H21C21.4142 8.66339 21.75 8.99918 21.75 9.41339C21.75 9.8276 21.4142 10.1634 21 10.1634H3C2.58579 10.1634 2.25 9.8276 2.25 9.41339Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Carrd refresh 10 icon with style variants.
+class _BankingBankCarrdRefresh10Icon {
+  const _BankingBankCarrdRefresh10Icon();
+
+  /// twoTone style
+  _BankingBankCarrdRefresh10Twotone get twoTone => const _BankingBankCarrdRefresh10Twotone();
+}
+
+/// Bank Carrd refresh 10 — twoTone style variants.
+class _BankingBankCarrdRefresh10Twotone {
+  const _BankingBankCarrdRefresh10Twotone();
+
+  /// Bank Carrd refresh 10 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Carrd refresh 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M14.5103 18.3473C15.062 19.258 16.0632 19.8661 17.2054 19.8661C18.9441 19.8661 20.354 18.4563 20.354 16.7176C20.354 14.9779 18.9441 13.568 17.2054 13.568C15.9746 13.568 14.9092 14.2744 14.3906 15.3028" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1342 15.3019H14.3906V13.568" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 11.5955V8.30201C21 5.85985 19.4792 4.13477 17.0351 4.13477H6.96486C4.52757 4.13477 3 5.85985 3 8.30201V14.889C3 17.3312 4.52076 19.0563 6.96486 19.0563H10.2915" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.43291H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Carrd refresh 11 icon with style variants.
+class _BankingBankCarrdRefresh11Icon {
+  const _BankingBankCarrdRefresh11Icon();
+
+  /// twoTone style
+  _BankingBankCarrdRefresh11Twotone get twoTone => const _BankingBankCarrdRefresh11Twotone();
+}
+
+/// Bank Carrd refresh 11 — twoTone style variants.
+class _BankingBankCarrdRefresh11Twotone {
+  const _BankingBankCarrdRefresh11Twotone();
+
+  /// Bank Carrd refresh 11 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Carrd refresh 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M14.5103 18.3473C15.062 19.258 16.0632 19.8661 17.2054 19.8661C18.9441 19.8661 20.354 18.4563 20.354 16.7176C20.354 14.9779 18.9441 13.568 17.2054 13.568C15.9746 13.568 14.9092 14.2744 14.3906 15.3028" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1342 15.3019H14.3906V13.568" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 11.5955V8.30201C21 5.85985 19.4792 4.13477 17.0351 4.13477H6.96486C4.52757 4.13477 3 5.85985 3 8.30201V14.889C3 17.3312 4.52076 19.0563 6.96486 19.0563H10.2915" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.43291H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -3878,93 +8200,8 @@ class _BankingWalletLockLight {
 class _BankingBankCardSendIcon {
   const _BankingBankCardSendIcon();
 
-  /// bold style
-  _BankingBankCardSendBold get bold => const _BankingBankCardSendBold();
-  /// bulk style
-  _BankingBankCardSendBulk get bulk => const _BankingBankCardSendBulk();
   /// light style
   _BankingBankCardSendLight get light => const _BankingBankCardSendLight();
-  /// outline style
-  _BankingBankCardSendOutline get outline => const _BankingBankCardSendOutline();
-  /// twoTone style
-  _BankingBankCardSendTwotone get twoTone => const _BankingBankCardSendTwotone();
-  /// broken style
-  _BankingBankCardSendBroken get broken => const _BankingBankCardSendBroken();
-}
-
-/// Bank Card send — bulk style variants.
-class _BankingBankCardSendBulk {
-  const _BankingBankCardSendBulk();
-
-  /// Bank Card send — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card send',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.6939 17.5442C12.6939 16.1632 13.8129 15.0442 15.1939 15.0442H16.7528C16.8972 15.0442 17.0192 14.9406 17.0597 14.802C17.1726 14.4149 17.3805 14.0498 17.6839 13.7432C18.6569 12.7642 20.2399 12.7562 21.2199 13.7292L21.6385 14.1447C21.8278 14.3326 22.1499 14.1985 22.1499 13.9317V8.42616C22.1499 5.57516 20.3189 3.66016 17.5939 3.66016H7.28986C4.56586 3.66016 2.73486 5.57516 2.73486 8.42616V15.1582C2.73486 18.0092 4.56586 19.9242 7.28986 19.9242H13.1286C13.526 19.9242 13.7493 19.5868 13.3474 19.2198C12.9419 18.7788 12.6939 18.1921 12.6939 17.5442Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.2053 17.8332C22.2443 17.7412 22.2653 17.6422 22.2653 17.5412C22.2653 17.4402 22.2443 17.3412 22.2053 17.2502C22.2033 17.2452 22.1983 17.2412 22.1963 17.2362C22.1583 17.1532 22.1093 17.0752 22.0433 17.0092L19.9873 14.9692C19.6933 14.6762 19.2183 14.6802 18.9263 14.9732C18.6343 15.2672 18.6363 15.7422 18.9303 16.0342L19.6943 16.7922H15.1933C14.7793 16.7922 14.4433 17.1282 14.4433 17.5422C14.4433 17.9562 14.7793 18.2922 15.1933 18.2922H19.7003L18.9293 19.0602C18.6363 19.3532 18.6353 19.8282 18.9273 20.1212C19.0743 20.2682 19.2663 20.3412 19.4593 20.3412C19.6503 20.3412 19.8423 20.2682 19.9883 20.1232L22.0443 18.0732C22.0943 18.0232 22.1253 17.9622 22.1593 17.9012C22.1733 17.8772 22.1943 17.8592 22.2053 17.8332Z" fill="black"/> <path d="M7.27686 9.99219C6.86286 9.99219 6.52686 9.65619 6.52686 9.24219C6.52686 8.82819 6.86286 8.49219 7.27686 8.49219H17.6069C18.0209 8.49219 18.3569 8.82819 18.3569 9.24219C18.3569 9.65619 18.0209 9.99219 17.6069 9.99219H7.27686Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card send — broken style variants.
-class _BankingBankCardSendBroken {
-  const _BankingBankCardSendBroken();
-
-  /// Bank Card send — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card send',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.25 12.1973V8.70631C21.25 6.26414 19.7292 4.53906 17.2851 4.53906H12.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.9637 19.4606H7.21486C4.77076 19.4606 3.25 17.7355 3.25 15.2933V8.70631C3.25 6.26414 4.77757 4.53906 7.21486 4.53906H9.0011" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.83301H18.6021" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2621 17.043H14.1085" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2607 19.0564L21.2487 17.0453L18.2607 15.0332V19.0564Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.42694 15.1963H10.3955" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card send — twoTone style variants.
-class _BankingBankCardSendTwotone {
-  const _BankingBankCardSendTwotone();
-
-  /// Bank Card send — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card send',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.1706 14.9584C19.1706 17.1524 17.8046 18.7014 15.6096 18.7014H6.56201C4.36604 18.7014 3 17.1524 3 14.9584V9.04083C3 6.8468 4.36604 5.29688 6.56201 5.29688H14.7261" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.9371 10.0553H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.91464 14.8479H9.58153" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.91464 14.8479H9.58153" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.1698 5.89738V11.2409M17.3417 7.73433L19.1708 5.89738L21 7.73433" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card send — outline style variants.
-class _BankingBankCardSendOutline {
-  const _BankingBankCardSendOutline();
-
-  /// Bank Card send — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card send',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.51987 5.0254C4.36282 4.12123 5.5605 3.61914 6.96486 3.61914H17.0351C18.4424 3.61914 19.6405 4.12094 20.483 5.02574C21.3199 5.92449 21.75 7.15995 21.75 8.53541V11.611C21.75 12.0252 21.4142 12.361 21 12.361C20.5858 12.361 20.25 12.0252 20.25 11.611V8.53541C20.25 7.46968 19.9198 6.622 19.3852 6.04792C18.8563 5.47989 18.0719 5.11914 17.0351 5.11914H6.96486C5.93193 5.11914 5.14718 5.4796 4.61702 6.04826C4.08142 6.62277 3.75 7.47056 3.75 8.53541V15.1234C3.75 16.1891 4.08024 17.0368 4.61479 17.6109C5.1437 18.1789 5.92806 18.5397 6.96486 18.5397H11.7665C12.1807 18.5397 12.5165 18.8755 12.5165 19.2897C12.5165 19.7039 12.1807 20.0397 11.7665 20.0397H6.96486C5.55756 20.0397 4.35949 19.5379 3.517 18.6331C2.68014 17.7343 2.25 16.4989 2.25 15.1234V8.53541C2.25 7.15907 2.68237 5.92373 3.51987 5.0254Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.20068 9.34424C6.20068 8.93002 6.53647 8.59424 6.95068 8.59424H17.0482C17.4624 8.59424 17.7982 8.93002 17.7982 9.34424C17.7982 9.75845 17.4624 10.0942 17.0482 10.0942H6.95068C6.53647 10.0942 6.20068 9.75845 6.20068 9.34424Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9275 17.5841C13.9275 17.1699 14.2633 16.8341 14.6775 16.8341H20.9989C21.4131 16.8341 21.7489 17.1699 21.7489 17.5841C21.7489 17.9983 21.4131 18.3341 20.9989 18.3341H14.6775C14.2633 18.3341 13.9275 17.9983 13.9275 17.5841Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4124 15.0063C18.7047 14.7128 19.1795 14.7118 19.473 15.0041L21.5289 17.0512C21.6703 17.1919 21.7497 17.3831 21.7497 17.5826C21.7498 17.782 21.6704 17.9732 21.5291 18.114L19.4732 20.1621C19.1797 20.4544 18.7048 20.4535 18.4125 20.1601C18.1202 19.8666 18.1211 19.3918 18.4145 19.0994L19.9369 17.5828L18.4147 16.067C18.1211 15.7747 18.1201 15.2998 18.4124 15.0063Z" fill="black"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Bank Card send — bold style variants.
-class _BankingBankCardSendBold {
-  const _BankingBankCardSendBold();
-
-  /// Bank Card send — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Bank Card send',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4981 7.99813C21.4981 5.20513 19.7041 3.32812 17.0341 3.32812H6.96312C4.29312 3.32812 2.50012 5.20513 2.50012 7.99813V8.07812C2.50012 8.24381 2.63444 8.37813 2.80012 8.37813H21.1981C21.3638 8.37813 21.4981 8.24381 21.4981 8.07812V7.99813Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.8 9.87598C2.63431 9.87598 2.5 10.0103 2.5 10.176V14.576C2.5 17.376 4.29 19.246 6.96 19.246H9.32186C9.49204 19.246 9.63 19.108 9.63 18.9378C9.63 18.7783 9.50759 18.6471 9.35136 18.6146C8.88743 18.5182 8.43853 18.2862 8.08 17.936C7.11 16.956 7.1 15.376 8.08 14.396L10.2 12.276L10.36 12.106C10.42 12.046 10.48 11.996 10.54 11.936C10.67 11.836 10.81 11.746 10.95 11.666C11.31 11.476 11.72 11.376 12.13 11.376C12.55 11.376 12.95 11.476 13.31 11.666L13.72 11.936C13.79 11.986 13.85 12.046 13.9 12.106L14.06 12.276L16.19 14.396C17.16 15.376 17.16 16.956 16.18 17.926C15.8227 18.2833 15.3757 18.5094 14.9134 18.6043C14.7545 18.637 14.63 18.7703 14.63 18.9326C14.63 19.1057 14.7703 19.246 14.9434 19.246H17.03C19.7 19.246 21.5 17.376 21.5 14.576V10.176C21.5 10.0103 21.3657 9.87598 21.2 9.87598H2.8Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9476 15.6318L12.6866 13.3658C12.5486 13.2118 12.3546 13.1108 12.1326 13.1108C11.9136 13.1108 11.7216 13.2088 11.5836 13.3578L9.31762 15.6318C9.02562 15.9248 9.02662 16.3998 9.31962 16.6928C9.61262 16.9838 10.0876 16.9858 10.3806 16.6908L11.3826 15.6848V19.9208C11.3826 20.3348 11.7186 20.6708 12.1326 20.6708C12.5466 20.6708 12.8826 20.3348 12.8826 19.9208V15.6858L13.8856 16.6908C14.0326 16.8378 14.2246 16.9108 14.4166 16.9108C14.6086 16.9108 14.8006 16.8378 14.9466 16.6928C15.2396 16.3998 15.2396 15.9248 14.9476 15.6318Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Bank Card send — light style variants.
@@ -3974,9 +8211,676 @@ class _BankingBankCardSendLight {
   /// Bank Card send — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Bank Card send',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 11.609V8.53346C21 6.09227 19.4792 4.36719 17.0351 4.36719H6.96486C4.52757 4.36719 3 6.09227 3 8.53346V15.1215C3 17.5626 4.52076 19.2877 6.96486 19.2877H11.7665" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.95117 9.34586H17.0487" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9991 17.5841H14.6777" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.9434 15.5352L20.9993 17.5823L18.9434 19.6304" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 1 icon with style variants.
+class _BankingBankCardSend1Icon {
+  const _BankingBankCardSend1Icon();
+
+  /// light style
+  _BankingBankCardSend1Light get light => const _BankingBankCardSend1Light();
+}
+
+/// Bank Card send 1 — light style variants.
+class _BankingBankCardSend1Light {
+  const _BankingBankCardSend1Light();
+
+  /// Bank Card send 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.0351 19.1159C19.4802 19.1159 21 17.3908 21 14.9496V8.36158C21 5.91942 19.4802 4.19531 17.0361 4.19531H6.96486C4.52854 4.19531 3 5.91942 3 8.36158V14.9496C3 17.3908 4.52076 19.1159 6.96486 19.1159" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0002 13.75V19.8038" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.71582 16.0433L11.9994 13.75L14.2839 16.0433" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.4943H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 2 icon with style variants.
+class _BankingBankCardSend2Icon {
+  const _BankingBankCardSend2Icon();
+
+  /// light style
+  _BankingBankCardSend2Light get light => const _BankingBankCardSend2Light();
+}
+
+/// Bank Card send 2 — light style variants.
+class _BankingBankCardSend2Light {
+  const _BankingBankCardSend2Light();
+
+  /// Bank Card send 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12.1973V8.70631C21 6.26414 19.4792 4.53906 17.0351 4.53906H6.96486C4.52757 4.53906 3 6.26414 3 8.70631V15.2933C3 17.7355 4.52076 19.4606 6.96486 19.4606H10.7137" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.83414H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.7168 16.967H14.0996" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3809 14.6367L20.7179 16.9641L18.3809 19.2904" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 3 icon with style variants.
+class _BankingBankCardSend3Icon {
+  const _BankingBankCardSend3Icon();
+
+  /// light style
+  _BankingBankCardSend3Light get light => const _BankingBankCardSend3Light();
+}
+
+/// Bank Card send 3 — light style variants.
+class _BankingBankCardSend3Light {
+  const _BankingBankCardSend3Light();
+
+  /// Bank Card send 3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.1706 14.9584C19.1706 17.1524 17.8046 18.7014 15.6096 18.7014H6.56201C4.36604 18.7014 3 17.1524 3 14.9584V9.04083C3 6.8468 4.36604 5.29688 6.56201 5.29688H14.7261" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.9371 10.0568H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.91504 14.8498H9.58192" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.91504 14.8498H9.58192" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.1701 5.89844V11.2419" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3418 7.73539L19.171 5.89844L21.0001 7.73539" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 4 icon with style variants.
+class _BankingBankCardSend4Icon {
+  const _BankingBankCardSend4Icon();
+
+  /// light style
+  _BankingBankCardSend4Light get light => const _BankingBankCardSend4Light();
+}
+
+/// Bank Card send 4 — light style variants.
+class _BankingBankCardSend4Light {
+  const _BankingBankCardSend4Light();
+
+  /// Bank Card send 4 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.0351 19.1159C19.4802 19.1159 21 17.3908 21 14.9496V8.36158C21 5.91942 19.4802 4.19531 17.0361 4.19531H6.96486C4.52854 4.19531 3 5.91942 3 8.36158V14.9496C3 17.3908 4.52076 19.1159 6.96486 19.1159" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0002 13.75V19.8038" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.71582 16.0433L11.9994 13.75L14.2839 16.0433" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.4943H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 5 icon with style variants.
+class _BankingBankCardSend5Icon {
+  const _BankingBankCardSend5Icon();
+
+  /// broken style
+  _BankingBankCardSend5Broken get broken => const _BankingBankCardSend5Broken();
+}
+
+/// Bank Card send 5 — broken style variants.
+class _BankingBankCardSend5Broken {
+  const _BankingBankCardSend5Broken();
+
+  /// Bank Card send 5 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.25 11.611V8.53541C21.25 6.09422 19.7292 4.36914 17.2851 4.36914H7.21486C4.77757 4.36914 3.25 6.09422 3.25 8.53541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0165 19.2884H7.21486C4.77076 19.2884 3.25 17.5633 3.25 15.1221V11.8281" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.20081 9.34391H17.2983" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.249 17.5841H14.9276" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.1938 15.5352L21.2497 17.5823L19.1938 19.6304" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 6 icon with style variants.
+class _BankingBankCardSend6Icon {
+  const _BankingBankCardSend6Icon();
+
+  /// broken style
+  _BankingBankCardSend6Broken get broken => const _BankingBankCardSend6Broken();
+}
+
+/// Bank Card send 6 — broken style variants.
+class _BankingBankCardSend6Broken {
+  const _BankingBankCardSend6Broken();
+
+  /// Bank Card send 6 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.25 12.1973V8.70631C21.25 6.26414 19.7292 4.53906 17.2851 4.53906H12.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.9637 19.4606H7.21486C4.77076 19.4606 3.25 17.7355 3.25 15.2933V8.70631C3.25 6.26414 4.77757 4.53906 7.21486 4.53906H9.0011" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.83301H18.6021" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2621 17.043H14.1085" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2607 19.0564L21.2487 17.0453L18.2607 15.0332V19.0564Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.42694 15.1963H10.3955" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 7 icon with style variants.
+class _BankingBankCardSend7Icon {
+  const _BankingBankCardSend7Icon();
+
+  /// broken style
+  _BankingBankCardSend7Broken get broken => const _BankingBankCardSend7Broken();
+}
+
+/// Bank Card send 7 — broken style variants.
+class _BankingBankCardSend7Broken {
+  const _BankingBankCardSend7Broken();
+
+  /// Bank Card send 7 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.25 12.1973V8.70631C21.25 6.26414 19.7292 4.53906 17.2851 4.53906H12.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.9637 19.4606H7.21486C4.77076 19.4606 3.25 17.7355 3.25 15.2933V8.70631C3.25 6.26414 4.77757 4.53906 7.21486 4.53906H9.0011" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.83301H18.6021" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2621 17.043H14.1085" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2607 19.0564L21.2487 17.0453L18.2607 15.0332V19.0564Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.42694 15.1963H10.3955" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 8 icon with style variants.
+class _BankingBankCardSend8Icon {
+  const _BankingBankCardSend8Icon();
+
+  /// broken style
+  _BankingBankCardSend8Broken get broken => const _BankingBankCardSend8Broken();
+}
+
+/// Bank Card send 8 — broken style variants.
+class _BankingBankCardSend8Broken {
+  const _BankingBankCardSend8Broken();
+
+  /// Bank Card send 8 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 8',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.9761 5.29688H6.81201C4.61604 5.29688 3.25 6.8468 3.25 9.04083V14.9584C3.25 17.1524 4.61604 18.7014 6.81201 18.7014H8.0739" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4208 14.957C19.4208 17.1511 18.0547 18.7 15.8597 18.7H11.3359" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1871 10.0557H3.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.16467 14.8478H9.83156" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.16467 14.8477H9.83156" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.4207 5.89746V11.241" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5917 7.73441L19.4208 5.89746L21.25 7.73441" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 9 icon with style variants.
+class _BankingBankCardSend9Icon {
+  const _BankingBankCardSend9Icon();
+
+  /// broken style
+  _BankingBankCardSend9Broken get broken => const _BankingBankCardSend9Broken();
+}
+
+/// Bank Card send 9 — broken style variants.
+class _BankingBankCardSend9Broken {
+  const _BankingBankCardSend9Broken();
+
+  /// Bank Card send 9 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 9',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.2851 19.1159C19.7302 19.1159 21.25 17.3908 21.25 14.9496V8.36158C21.25 5.91942 19.7302 4.19531 17.2861 4.19531H13.2505" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.21486 19.1159C4.77076 19.1159 3.25 17.3908 3.25 14.9496V8.36158C3.25 5.91942 4.77854 4.19531 7.21486 4.19531H8.96516" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.25 13.75V19.8038" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.96582 16.0433L12.2494 13.75L14.5339 16.0433" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 9.49316H18.1325" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 10 icon with style variants.
+class _BankingBankCardSend10Icon {
+  const _BankingBankCardSend10Icon();
+
+  /// bold style
+  _BankingBankCardSend10Bold get bold => const _BankingBankCardSend10Bold();
+}
+
+/// Bank Card send 10 — bold style variants.
+class _BankingBankCardSend10Bold {
+  const _BankingBankCardSend10Bold();
+
+  /// Bank Card send 10 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.77686 9.99416C6.36286 9.99416 6.02686 9.65816 6.02686 9.24416C6.02686 8.83016 6.36286 8.49416 6.77686 8.49416H17.1069C17.5209 8.49416 17.8569 8.83016 17.8569 9.24416C17.8569 9.65816 17.5209 9.99416 17.1069 9.99416H6.77686ZM12.1939 17.5442C12.1939 16.1632 13.3129 15.0442 14.6939 15.0442H16.2528C16.3972 15.0442 16.5192 14.9406 16.5597 14.802C16.6726 14.4149 16.8805 14.0498 17.1839 13.7432C18.1569 12.7642 19.7399 12.7562 20.7199 13.7292L21.1385 14.1447C21.3278 14.3326 21.6499 14.1985 21.6499 13.9317V8.42616C21.6499 5.57516 19.8189 3.66016 17.0939 3.66016H6.78986C4.06586 3.66016 2.23486 5.57516 2.23486 8.42616V15.1582C2.23486 18.0092 4.06586 19.9242 6.78986 19.9242H12.6286C13.026 19.9242 13.2493 19.5868 12.8474 19.2198C12.4419 18.7788 12.1939 18.1921 12.1939 17.5442Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7053 17.8352C21.7443 17.7432 21.7653 17.6442 21.7653 17.5432C21.7653 17.4422 21.7443 17.3432 21.7053 17.2522C21.7033 17.2472 21.6983 17.2432 21.6963 17.2382C21.6583 17.1552 21.6093 17.0772 21.5433 17.0112L19.4873 14.9712C19.1933 14.6782 18.7183 14.6822 18.4263 14.9752C18.1343 15.2692 18.1363 15.7442 18.4303 16.0362L19.1943 16.7942H14.6933C14.2793 16.7942 13.9433 17.1302 13.9433 17.5442C13.9433 17.9582 14.2793 18.2942 14.6933 18.2942H19.2003L18.4293 19.0622C18.1363 19.3552 18.1353 19.8302 18.4273 20.1232C18.5743 20.2702 18.7663 20.3432 18.9593 20.3432C19.1503 20.3432 19.3423 20.2702 19.4883 20.1252L21.5443 18.0752C21.5943 18.0252 21.6253 17.9642 21.6593 17.9032C21.6733 17.8792 21.6943 17.8612 21.7053 17.8352Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 11 icon with style variants.
+class _BankingBankCardSend11Icon {
+  const _BankingBankCardSend11Icon();
+
+  /// bold style
+  _BankingBankCardSend11Bold get bold => const _BankingBankCardSend11Bold();
+}
+
+/// Bank Card send 11 — bold style variants.
+class _BankingBankCardSend11Bold {
+  const _BankingBankCardSend11Bold();
+
+  /// Bank Card send 11 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4259 8.54416C21.4259 5.69716 19.5979 3.78516 16.8769 3.78516H6.59195C3.87195 3.78516 2.04395 5.69716 2.04395 8.54416V8.63816C2.04395 8.80384 2.17826 8.93816 2.34395 8.93816H21.1259C21.2916 8.93816 21.4259 8.80384 21.4259 8.63816V8.54416Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.84095 15.8905H6.80995C6.39595 15.8905 6.05995 15.5545 6.05995 15.1405C6.05995 14.7265 6.39595 14.3905 6.80995 14.3905H9.84095C10.2549 14.3905 10.5909 14.7265 10.5909 15.1405C10.5909 15.5545 10.2549 15.8905 9.84095 15.8905ZM11.8139 17.6955C11.8139 16.3145 12.9329 15.1955 14.3139 15.1955H15.7897C15.9324 15.1955 16.0535 15.0943 16.0948 14.9577C16.2834 14.3324 16.701 13.7931 17.2949 13.4775C18.1109 13.0425 19.1009 13.0965 19.8669 13.6145L20.958 14.3515C21.1573 14.486 21.4259 14.3433 21.4259 14.1028V10.7375C21.4259 10.5718 21.2916 10.4375 21.1259 10.4375H2.34394C2.17826 10.4375 2.04395 10.5718 2.04395 10.7375V15.2635C2.04395 18.1105 3.87195 20.0225 6.59195 20.0225H11.8038C12.1363 20.0225 12.3694 19.2964 12.1927 19.0148C11.9527 18.6326 11.8139 18.1807 11.8139 17.6955Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7364 17.2909L18.7484 15.2709C18.5934 15.1679 18.3954 15.1559 18.2334 15.2439C18.0704 15.3309 17.9674 15.5009 17.9674 15.6859V16.6449C17.9674 16.8106 17.8331 16.9449 17.6674 16.9449H14.3134C13.8994 16.9449 13.5634 17.2809 13.5634 17.6949C13.5634 18.1089 13.8994 18.4449 14.3134 18.4449H17.6674C17.8331 18.4449 17.9674 18.5792 17.9674 18.7449V19.7159C17.9674 19.8999 18.0694 20.0699 18.2324 20.1569C18.3064 20.1959 18.3874 20.2159 18.4674 20.2159C18.5654 20.2159 18.6634 20.1869 18.7474 20.1309L21.7354 18.1199C21.8734 18.0269 21.9564 17.8719 21.9564 17.7059C21.9564 17.5389 21.8744 17.3839 21.7364 17.2909Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 12 icon with style variants.
+class _BankingBankCardSend12Icon {
+  const _BankingBankCardSend12Icon();
+
+  /// bold style
+  _BankingBankCardSend12Bold get bold => const _BankingBankCardSend12Bold();
+}
+
+/// Bank Card send 12 — bold style variants.
+class _BankingBankCardSend12Bold {
+  const _BankingBankCardSend12Bold();
+
+  /// Bank Card send 12 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0352 3.51953H6.96416C4.29516 3.51953 2.50116 5.39653 2.50116 8.18953V8.26953C2.50116 8.43522 2.63547 8.56953 2.80116 8.56953H21.1992C21.3648 8.56953 21.4992 8.43522 21.4992 8.26953V8.18953C21.4992 5.39653 19.7052 3.51953 17.0352 3.51953Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.50098 14.7693C2.50098 17.5623 4.29498 19.4393 6.96398 19.4393H11.7021C11.9936 19.4393 12.1522 19.0144 11.9924 18.7707C11.7364 18.3804 11.587 17.9145 11.587 17.4123C11.587 16.0313 12.706 14.9123 14.087 14.9123H15.6039C15.7616 14.9123 15.8905 14.7898 15.918 14.6345C16.0034 14.152 16.2259 13.6901 16.598 13.3163C17.572 12.3393 19.155 12.3363 20.134 13.3113L20.9872 14.162C21.1763 14.3506 21.499 14.2166 21.499 13.9496V10.3693C21.499 10.2037 21.3647 10.0693 21.199 10.0693H2.80098C2.63529 10.0693 2.50098 10.2037 2.50098 10.3693V14.7693Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.455 17.4133C21.455 17.3113 21.434 17.2123 21.395 17.1213C21.384 17.0953 21.363 17.0763 21.349 17.0523C21.316 16.9923 21.284 16.9303 21.234 16.8813L18.897 14.5513C18.604 14.2593 18.13 14.2593 17.837 14.5533C17.545 14.8463 17.545 15.3203 17.839 15.6133L18.89 16.6623H14.087C13.673 16.6623 13.337 16.9983 13.337 17.4123C13.337 17.8263 13.673 18.1623 14.087 18.1623H18.885L17.84 19.2003C17.546 19.4923 17.544 19.9673 17.836 20.2613C17.982 20.4083 18.176 20.4823 18.368 20.4823C18.559 20.4823 18.75 20.4103 18.896 20.2653L21.233 17.9443C21.299 17.8793 21.349 17.8013 21.386 17.7173C21.388 17.7123 21.393 17.7093 21.395 17.7043C21.434 17.6133 21.455 17.5143 21.455 17.4133Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 13 icon with style variants.
+class _BankingBankCardSend13Icon {
+  const _BankingBankCardSend13Icon();
+
+  /// bold style
+  _BankingBankCardSend13Bold get bold => const _BankingBankCardSend13Bold();
+}
+
+/// Bank Card send 13 — bold style variants.
+class _BankingBankCardSend13Bold {
+  const _BankingBankCardSend13Bold();
+
+  /// Bank Card send 13 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 13',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4678 6.00422L16.4047 5.06031C16.5751 4.88861 16.4815 4.60074 16.2401 4.58488C16.1342 4.57792 16.0266 4.57422 15.9178 4.57422H6.52777C4.03777 4.57422 2.36777 6.32422 2.36777 8.93422V8.97422C2.36777 9.1399 2.50208 9.27422 2.66777 9.27422H14.6416C14.8899 9.27422 15.0408 8.98022 14.9425 8.75213C14.5517 7.84473 14.7191 6.74456 15.4678 6.00422Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.49768 15.6543H6.72768C6.33768 15.6543 6.02768 15.3443 6.02768 14.9543C6.02768 14.5743 6.33768 14.2543 6.72768 14.2543H9.49768C9.87768 14.2543 10.1977 14.5743 10.1977 14.9543C10.1977 15.3443 9.87768 15.6543 9.49768 15.6543ZM16.5577 11.2543V10.9743C16.5577 10.8086 16.4234 10.6743 16.2577 10.6743H2.66768C2.50199 10.6743 2.36768 10.8086 2.36768 10.9743V15.0643C2.36768 17.6743 4.03768 19.4243 6.52768 19.4243H15.9177C18.4077 19.4243 20.0877 17.6743 20.0877 15.0643V13.993C20.0877 13.7767 19.8642 13.6306 19.6541 13.6823C19.4635 13.7291 19.2653 13.7543 19.0577 13.7543C17.6777 13.7543 16.5577 12.6343 16.5577 11.2543Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4137 7.23459L19.5907 5.40459C19.5867 5.40059 19.5807 5.39959 19.5767 5.39559C19.4417 5.26559 19.2597 5.18359 19.0587 5.18359C18.8497 5.18359 18.6617 5.26959 18.5257 5.40659L16.7047 7.23459C16.4127 7.52759 16.4137 8.00359 16.7067 8.29559C16.9997 8.58759 17.4747 8.58759 17.7677 8.29359L18.3087 7.75059V11.2546C18.3087 11.6686 18.6437 12.0046 19.0587 12.0046C19.4727 12.0046 19.8087 11.6686 19.8087 11.2546V7.74859L20.3517 8.29359C20.4977 8.44059 20.6897 8.51359 20.8827 8.51359C21.0737 8.51359 21.2657 8.44059 21.4117 8.29559C21.7057 8.00359 21.7057 7.52759 21.4137 7.23459Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 14 icon with style variants.
+class _BankingBankCardSend14Icon {
+  const _BankingBankCardSend14Icon();
+
+  /// bold style
+  _BankingBankCardSend14Bold get bold => const _BankingBankCardSend14Bold();
+}
+
+/// Bank Card send 14 — bold style variants.
+class _BankingBankCardSend14Bold {
+  const _BankingBankCardSend14Bold();
+
+  /// Bank Card send 14 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 14',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4981 7.99813C21.4981 5.20513 19.7041 3.32812 17.0341 3.32812H6.96312C4.29312 3.32812 2.50012 5.20513 2.50012 7.99813V8.07812C2.50012 8.24381 2.63444 8.37813 2.80012 8.37813H21.1981C21.3638 8.37813 21.4981 8.24381 21.4981 8.07812V7.99813Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.8 9.87598C2.63431 9.87598 2.5 10.0103 2.5 10.176V14.576C2.5 17.376 4.29 19.246 6.96 19.246H9.32186C9.49204 19.246 9.63 19.108 9.63 18.9378C9.63 18.7783 9.50759 18.6471 9.35136 18.6146C8.88743 18.5182 8.43853 18.2862 8.08 17.936C7.11 16.956 7.1 15.376 8.08 14.396L10.2 12.276L10.36 12.106C10.42 12.046 10.48 11.996 10.54 11.936C10.67 11.836 10.81 11.746 10.95 11.666C11.31 11.476 11.72 11.376 12.13 11.376C12.55 11.376 12.95 11.476 13.31 11.666L13.72 11.936C13.79 11.986 13.85 12.046 13.9 12.106L14.06 12.276L16.19 14.396C17.16 15.376 17.16 16.956 16.18 17.926C15.8227 18.2833 15.3757 18.5094 14.9134 18.6043C14.7545 18.637 14.63 18.7703 14.63 18.9326C14.63 19.1057 14.7703 19.246 14.9434 19.246H17.03C19.7 19.246 21.5 17.376 21.5 14.576V10.176C21.5 10.0103 21.3657 9.87598 21.2 9.87598H2.8Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9476 15.6318L12.6866 13.3658C12.5486 13.2118 12.3546 13.1108 12.1326 13.1108C11.9136 13.1108 11.7216 13.2088 11.5836 13.3578L9.31762 15.6318C9.02562 15.9248 9.02662 16.3998 9.31962 16.6928C9.61262 16.9838 10.0876 16.9858 10.3806 16.6908L11.3826 15.6848V19.9208C11.3826 20.3348 11.7186 20.6708 12.1326 20.6708C12.5466 20.6708 12.8826 20.3348 12.8826 19.9208V15.6858L13.8856 16.6908C14.0326 16.8378 14.2246 16.9108 14.4166 16.9108C14.6086 16.9108 14.8006 16.8378 14.9466 16.6928C15.2396 16.3998 15.2396 15.9248 14.9476 15.6318Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 15 icon with style variants.
+class _BankingBankCardSend15Icon {
+  const _BankingBankCardSend15Icon();
+
+  /// bulk style
+  _BankingBankCardSend15Bulk get bulk => const _BankingBankCardSend15Bulk();
+}
+
+/// Bank Card send 15 — bulk style variants.
+class _BankingBankCardSend15Bulk {
+  const _BankingBankCardSend15Bulk();
+
+  /// Bank Card send 15 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 15',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.6939 17.5442C12.6939 16.1632 13.8129 15.0442 15.1939 15.0442H16.7528C16.8972 15.0442 17.0192 14.9406 17.0597 14.802C17.1726 14.4149 17.3805 14.0498 17.6839 13.7432C18.6569 12.7642 20.2399 12.7562 21.2199 13.7292L21.6385 14.1447C21.8278 14.3326 22.1499 14.1985 22.1499 13.9317V8.42616C22.1499 5.57516 20.3189 3.66016 17.5939 3.66016H7.28986C4.56586 3.66016 2.73486 5.57516 2.73486 8.42616V15.1582C2.73486 18.0092 4.56586 19.9242 7.28986 19.9242H13.1286C13.526 19.9242 13.7493 19.5868 13.3474 19.2198C12.9419 18.7788 12.6939 18.1921 12.6939 17.5442Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.2053 17.8332C22.2443 17.7412 22.2653 17.6422 22.2653 17.5412C22.2653 17.4402 22.2443 17.3412 22.2053 17.2502C22.2033 17.2452 22.1983 17.2412 22.1963 17.2362C22.1583 17.1532 22.1093 17.0752 22.0433 17.0092L19.9873 14.9692C19.6933 14.6762 19.2183 14.6802 18.9263 14.9732C18.6343 15.2672 18.6363 15.7422 18.9303 16.0342L19.6943 16.7922H15.1933C14.7793 16.7922 14.4433 17.1282 14.4433 17.5422C14.4433 17.9562 14.7793 18.2922 15.1933 18.2922H19.7003L18.9293 19.0602C18.6363 19.3532 18.6353 19.8282 18.9273 20.1212C19.0743 20.2682 19.2663 20.3412 19.4593 20.3412C19.6503 20.3412 19.8423 20.2682 19.9883 20.1232L22.0443 18.0732C22.0943 18.0232 22.1253 17.9622 22.1593 17.9012C22.1733 17.8772 22.1943 17.8592 22.2053 17.8332Z" fill="black"/> <path d="M7.27686 9.99219C6.86286 9.99219 6.52686 9.65619 6.52686 9.24219C6.52686 8.82819 6.86286 8.49219 7.27686 8.49219H17.6069C18.0209 8.49219 18.3569 8.82819 18.3569 9.24219C18.3569 9.65619 18.0209 9.99219 17.6069 9.99219H7.27686Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 16 icon with style variants.
+class _BankingBankCardSend16Icon {
+  const _BankingBankCardSend16Icon();
+
+  /// bulk style
+  _BankingBankCardSend16Bulk get bulk => const _BankingBankCardSend16Bulk();
+}
+
+/// Bank Card send 16 — bulk style variants.
+class _BankingBankCardSend16Bulk {
+  const _BankingBankCardSend16Bulk();
+
+  /// Bank Card send 16 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 16',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M10.3407 15.8905H7.3097C6.8957 15.8905 6.5597 15.5545 6.5597 15.1405C6.5597 14.7265 6.8957 14.3905 7.3097 14.3905H10.3407C10.7547 14.3905 11.0907 14.7265 11.0907 15.1405C11.0907 15.5545 10.7547 15.8905 10.3407 15.8905ZM12.3137 17.6955C12.3137 16.3145 13.4327 15.1955 14.8137 15.1955H16.2894C16.4321 15.1955 16.5533 15.0943 16.5945 14.9577C16.7832 14.3324 17.2008 13.7931 17.7947 13.4775C18.6107 13.0425 19.6007 13.0965 20.3667 13.6145L21.4578 14.3515C21.657 14.486 21.9257 14.3433 21.9257 14.1028V10.7375C21.9257 10.5718 21.7914 10.4375 21.6257 10.4375H2.8437C2.67802 10.4375 2.5437 10.5718 2.5437 10.7375V15.2635C2.5437 18.1105 4.3717 20.0225 7.0917 20.0225H12.3036C12.636 20.0225 12.8692 19.2964 12.6924 19.0148C12.4525 18.6326 12.3137 18.1807 12.3137 17.6955Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.9259 8.54416C21.9259 5.69716 20.0979 3.78516 17.3769 3.78516H7.09195C4.37195 3.78516 2.54395 5.69716 2.54395 8.54416V8.63816C2.54395 8.80384 2.67826 8.93816 2.84395 8.93816H21.6259C21.7916 8.93816 21.9259 8.80384 21.9259 8.63816V8.54416Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.2364 17.2909L19.2484 15.2709C19.0934 15.1679 18.8954 15.1559 18.7334 15.2439C18.5704 15.3309 18.4674 15.5009 18.4674 15.6859V16.6449C18.4674 16.8106 18.3331 16.9449 18.1674 16.9449H14.8134C14.3994 16.9449 14.0634 17.2809 14.0634 17.6949C14.0634 18.1089 14.3994 18.4449 14.8134 18.4449H18.1674C18.3331 18.4449 18.4674 18.5792 18.4674 18.7449V19.7159C18.4674 19.8999 18.5694 20.0699 18.7324 20.1569C18.8064 20.1959 18.8874 20.2159 18.9674 20.2159C19.0654 20.2159 19.1634 20.1869 19.2474 20.1309L22.2354 18.1199C22.3734 18.0269 22.4564 17.8719 22.4564 17.7059C22.4564 17.5389 22.3744 17.3839 22.2364 17.2909Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 17 icon with style variants.
+class _BankingBankCardSend17Icon {
+  const _BankingBankCardSend17Icon();
+
+  /// bulk style
+  _BankingBankCardSend17Bulk get bulk => const _BankingBankCardSend17Bulk();
+}
+
+/// Bank Card send 17 — bulk style variants.
+class _BankingBankCardSend17Bulk {
+  const _BankingBankCardSend17Bulk();
+
+  /// Bank Card send 17 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 17',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9677 6.00422L16.9046 5.06031C17.075 4.88861 16.9814 4.60074 16.74 4.58488C16.6341 4.57792 16.5265 4.57422 16.4177 4.57422H7.02768C4.53768 4.57422 2.86768 6.32422 2.86768 8.93422V8.97422C2.86768 9.1399 3.00199 9.27422 3.16768 9.27422H15.1415C15.3898 9.27422 15.5407 8.98022 15.4424 8.75213C15.0516 7.84473 15.219 6.74456 15.9677 6.00422Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.9136 7.23459L20.0906 5.40459C20.0866 5.40059 20.0806 5.39959 20.0766 5.39559C19.9416 5.26559 19.7596 5.18359 19.5586 5.18359C19.3496 5.18359 19.1616 5.26959 19.0256 5.40659L17.2046 7.23459C16.9126 7.52759 16.9136 8.00359 17.2066 8.29559C17.4996 8.58759 17.9746 8.58759 18.2676 8.29359L18.8086 7.75059V11.2546C18.8086 11.6686 19.1436 12.0046 19.5586 12.0046C19.9726 12.0046 20.3086 11.6686 20.3086 11.2546V7.74859L20.8516 8.29359C20.9976 8.44059 21.1896 8.51359 21.3826 8.51359C21.5736 8.51359 21.7656 8.44059 21.9116 8.29559C22.2056 8.00359 22.2056 7.52759 21.9136 7.23459Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M9.99768 15.6558H7.22768C6.83768 15.6558 6.52768 15.3458 6.52768 14.9558C6.52768 14.5758 6.83768 14.2558 7.22768 14.2558H9.99768C10.3777 14.2558 10.6977 14.5758 10.6977 14.9558C10.6977 15.3458 10.3777 15.6558 9.99768 15.6558ZM17.0577 11.2558V10.9758C17.0577 10.8101 16.9234 10.6758 16.7577 10.6758H3.16768C3.00199 10.6758 2.86768 10.8101 2.86768 10.9758V15.0658C2.86768 17.6758 4.53768 19.4258 7.02768 19.4258H16.4177C18.9077 19.4258 20.5877 17.6758 20.5877 15.0658V13.9945C20.5877 13.7781 20.3642 13.632 20.1541 13.6837C19.9635 13.7306 19.7653 13.7558 19.5577 13.7558C18.1777 13.7558 17.0577 12.6358 17.0577 11.2558Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 18 icon with style variants.
+class _BankingBankCardSend18Icon {
+  const _BankingBankCardSend18Icon();
+
+  /// bulk style
+  _BankingBankCardSend18Bulk get bulk => const _BankingBankCardSend18Bulk();
+}
+
+/// Bank Card send 18 — bulk style variants.
+class _BankingBankCardSend18Bulk {
+  const _BankingBankCardSend18Bulk();
+
+  /// Bank Card send 18 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 18',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M10.3407 15.8905H7.3097C6.8957 15.8905 6.5597 15.5545 6.5597 15.1405C6.5597 14.7265 6.8957 14.3905 7.3097 14.3905H10.3407C10.7547 14.3905 11.0907 14.7265 11.0907 15.1405C11.0907 15.5545 10.7547 15.8905 10.3407 15.8905ZM12.3137 17.6955C12.3137 16.3145 13.4327 15.1955 14.8137 15.1955H16.2894C16.4321 15.1955 16.5533 15.0943 16.5945 14.9577C16.7832 14.3324 17.2008 13.7931 17.7947 13.4775C18.6107 13.0425 19.6007 13.0965 20.3667 13.6145L21.4578 14.3515C21.657 14.486 21.9257 14.3433 21.9257 14.1028V10.7375C21.9257 10.5718 21.7914 10.4375 21.6257 10.4375H2.8437C2.67802 10.4375 2.5437 10.5718 2.5437 10.7375V15.2635C2.5437 18.1105 4.3717 20.0225 7.0917 20.0225H12.3036C12.636 20.0225 12.8692 19.2964 12.6924 19.0148C12.4525 18.6326 12.3137 18.1807 12.3137 17.6955Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.9259 8.54416C21.9259 5.69716 20.0979 3.78516 17.3769 3.78516H7.09195C4.37195 3.78516 2.54395 5.69716 2.54395 8.54416V8.63816C2.54395 8.80384 2.67826 8.93816 2.84395 8.93816H21.6259C21.7916 8.93816 21.9259 8.80384 21.9259 8.63816V8.54416Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.2364 17.2909L19.2484 15.2709C19.0934 15.1679 18.8954 15.1559 18.7334 15.2439C18.5704 15.3309 18.4674 15.5009 18.4674 15.6859V16.6449C18.4674 16.8106 18.3331 16.9449 18.1674 16.9449H14.8134C14.3994 16.9449 14.0634 17.2809 14.0634 17.6949C14.0634 18.1089 14.3994 18.4449 14.8134 18.4449H18.1674C18.3331 18.4449 18.4674 18.5792 18.4674 18.7449V19.7159C18.4674 19.8999 18.5694 20.0699 18.7324 20.1569C18.8064 20.1959 18.8874 20.2159 18.9674 20.2159C19.0654 20.2159 19.1634 20.1869 19.2474 20.1309L22.2354 18.1199C22.3734 18.0269 22.4564 17.8719 22.4564 17.7059C22.4564 17.5389 22.3744 17.3839 22.2364 17.2909Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 19 icon with style variants.
+class _BankingBankCardSend19Icon {
+  const _BankingBankCardSend19Icon();
+
+  /// bulk style
+  _BankingBankCardSend19Bulk get bulk => const _BankingBankCardSend19Bulk();
+}
+
+/// Bank Card send 19 — bulk style variants.
+class _BankingBankCardSend19Bulk {
+  const _BankingBankCardSend19Bulk();
+
+  /// Bank Card send 19 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 19',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.3 9.875C3.13431 9.875 3 10.0093 3 10.175V14.575C3 17.375 4.79 19.245 7.46 19.245H9.82186C9.99204 19.245 10.13 19.107 10.13 18.9369C10.13 18.7773 10.0076 18.6461 9.85136 18.6136C9.38743 18.5172 8.93853 18.2852 8.58 17.935C7.61 16.955 7.6 15.375 8.58 14.395L10.7 12.275L10.86 12.105C10.92 12.045 10.98 11.995 11.04 11.935C11.17 11.835 11.31 11.745 11.45 11.665C11.81 11.475 12.22 11.375 12.63 11.375C13.05 11.375 13.45 11.475 13.81 11.665L14.22 11.935C14.29 11.985 14.35 12.045 14.4 12.105L14.56 12.275L16.69 14.395C17.66 15.375 17.66 16.955 16.68 17.925C16.3227 18.2823 15.8757 18.5084 15.4134 18.6033C15.2545 18.636 15.13 18.7694 15.13 18.9316C15.13 19.1047 15.2703 19.245 15.4434 19.245H17.53C20.2 19.245 22 17.375 22 14.575V10.175C22 10.0093 21.8657 9.875 21.7 9.875H3.3Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.998 7.99813C21.998 5.20513 20.204 3.32812 17.534 3.32812H7.463C4.793 3.32812 3 5.20513 3 7.99813V8.07812C3 8.24381 3.13431 8.37813 3.3 8.37813H21.698C21.8637 8.37813 21.998 8.24381 21.998 8.07812V7.99813Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4475 15.6318L13.1865 13.3658C13.0485 13.2118 12.8545 13.1108 12.6325 13.1108C12.4135 13.1108 12.2215 13.2088 12.0835 13.3578L9.8175 15.6318C9.5255 15.9248 9.5265 16.3998 9.8195 16.6928C10.1125 16.9838 10.5875 16.9858 10.8805 16.6908L11.8825 15.6848V19.9208C11.8825 20.3348 12.2185 20.6708 12.6325 20.6708C13.0465 20.6708 13.3825 20.3348 13.3825 19.9208V15.6858L14.3855 16.6908C14.5325 16.8378 14.7245 16.9108 14.9165 16.9108C15.1085 16.9108 15.3005 16.8378 15.4465 16.6928C15.7395 16.3998 15.7395 15.9248 15.4475 15.6318Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 20 icon with style variants.
+class _BankingBankCardSend20Icon {
+  const _BankingBankCardSend20Icon();
+
+  /// outline style
+  _BankingBankCardSend20Outline get outline => const _BankingBankCardSend20Outline();
+}
+
+/// Bank Card send 20 — outline style variants.
+class _BankingBankCardSend20Outline {
+  const _BankingBankCardSend20Outline();
+
+  /// Bank Card send 20 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 20',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.51987 5.0254C4.36282 4.12123 5.5605 3.61914 6.96486 3.61914H17.0351C18.4424 3.61914 19.6405 4.12094 20.483 5.02574C21.3199 5.92449 21.75 7.15995 21.75 8.53541V11.611C21.75 12.0252 21.4142 12.361 21 12.361C20.5858 12.361 20.25 12.0252 20.25 11.611V8.53541C20.25 7.46968 19.9198 6.622 19.3852 6.04792C18.8563 5.47989 18.0719 5.11914 17.0351 5.11914H6.96486C5.93193 5.11914 5.14718 5.4796 4.61702 6.04826C4.08142 6.62277 3.75 7.47056 3.75 8.53541V15.1234C3.75 16.1891 4.08024 17.0368 4.61479 17.6109C5.1437 18.1789 5.92806 18.5397 6.96486 18.5397H11.7665C12.1807 18.5397 12.5165 18.8755 12.5165 19.2897C12.5165 19.7039 12.1807 20.0397 11.7665 20.0397H6.96486C5.55756 20.0397 4.35949 19.5379 3.517 18.6331C2.68014 17.7343 2.25 16.4989 2.25 15.1234V8.53541C2.25 7.15907 2.68237 5.92373 3.51987 5.0254Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.20068 9.34424C6.20068 8.93002 6.53647 8.59424 6.95068 8.59424H17.0482C17.4624 8.59424 17.7982 8.93002 17.7982 9.34424C17.7982 9.75845 17.4624 10.0942 17.0482 10.0942H6.95068C6.53647 10.0942 6.20068 9.75845 6.20068 9.34424Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9275 17.5841C13.9275 17.1699 14.2633 16.8341 14.6775 16.8341H20.9989C21.4131 16.8341 21.7489 17.1699 21.7489 17.5841C21.7489 17.9983 21.4131 18.3341 20.9989 18.3341H14.6775C14.2633 18.3341 13.9275 17.9983 13.9275 17.5841Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4124 15.0063C18.7047 14.7128 19.1795 14.7118 19.473 15.0041L21.5289 17.0512C21.6703 17.1919 21.7497 17.3831 21.7497 17.5826C21.7498 17.782 21.6704 17.9732 21.5291 18.114L19.4732 20.1621C19.1797 20.4544 18.7048 20.4535 18.4125 20.1601C18.1202 19.8666 18.1211 19.3918 18.4145 19.0994L19.9369 17.5828L18.4147 16.067C18.1211 15.7747 18.1201 15.2998 18.4124 15.0063Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 21 icon with style variants.
+class _BankingBankCardSend21Icon {
+  const _BankingBankCardSend21Icon();
+
+  /// outline style
+  _BankingBankCardSend21Outline get outline => const _BankingBankCardSend21Outline();
+}
+
+/// Bank Card send 21 — outline style variants.
+class _BankingBankCardSend21Outline {
+  const _BankingBankCardSend21Outline();
+
+  /// Bank Card send 21 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 21',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.51987 5.0254C4.36282 4.12123 5.5605 3.61914 6.96486 3.61914H17.0351C18.4424 3.61914 19.6405 4.12094 20.483 5.02574C21.3199 5.92449 21.75 7.15995 21.75 8.53541V11.611C21.75 12.0252 21.4142 12.361 21 12.361C20.5858 12.361 20.25 12.0252 20.25 11.611V8.53541C20.25 7.46968 19.9198 6.622 19.3852 6.04792C18.8563 5.47989 18.0719 5.11914 17.0351 5.11914H6.96486C5.93193 5.11914 5.14718 5.4796 4.61702 6.04826C4.08142 6.62277 3.75 7.47056 3.75 8.53541V15.1234C3.75 16.1891 4.08024 17.0368 4.61479 17.6109C5.1437 18.1789 5.92806 18.5397 6.96486 18.5397H11.7665C12.1807 18.5397 12.5165 18.8755 12.5165 19.2897C12.5165 19.7039 12.1807 20.0397 11.7665 20.0397H6.96486C5.55756 20.0397 4.35949 19.5379 3.517 18.6331C2.68014 17.7343 2.25 16.4989 2.25 15.1234V8.53541C2.25 7.15907 2.68237 5.92373 3.51987 5.0254Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.20068 9.34424C6.20068 8.93002 6.53647 8.59424 6.95068 8.59424H17.0482C17.4624 8.59424 17.7982 8.93002 17.7982 9.34424C17.7982 9.75845 17.4624 10.0942 17.0482 10.0942H6.95068C6.53647 10.0942 6.20068 9.75845 6.20068 9.34424Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9275 17.5841C13.9275 17.1699 14.2633 16.8341 14.6775 16.8341H20.9989C21.4131 16.8341 21.7489 17.1699 21.7489 17.5841C21.7489 17.9983 21.4131 18.3341 20.9989 18.3341H14.6775C14.2633 18.3341 13.9275 17.9983 13.9275 17.5841Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4124 15.0063C18.7047 14.7128 19.1795 14.7118 19.473 15.0041L21.5289 17.0512C21.6703 17.1919 21.7497 17.3831 21.7497 17.5826C21.7498 17.782 21.6704 17.9732 21.5291 18.114L19.4732 20.1621C19.1797 20.4544 18.7048 20.4535 18.4125 20.1601C18.1202 19.8666 18.1211 19.3918 18.4145 19.0994L19.9369 17.5828L18.4147 16.067C18.1211 15.7747 18.1201 15.2998 18.4124 15.0063Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 22 icon with style variants.
+class _BankingBankCardSend22Icon {
+  const _BankingBankCardSend22Icon();
+
+  /// outline style
+  _BankingBankCardSend22Outline get outline => const _BankingBankCardSend22Outline();
+}
+
+/// Bank Card send 22 — outline style variants.
+class _BankingBankCardSend22Outline {
+  const _BankingBankCardSend22Outline();
+
+  /// Bank Card send 22 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 22',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.51983 5.19549C4.36279 4.29115 5.5605 3.78906 6.96486 3.78906H17.0351C18.4424 3.78906 19.6405 4.29086 20.483 5.19583C21.3199 6.09473 21.75 7.33043 21.75 8.70631V12.1973C21.75 12.6115 21.4142 12.9473 21 12.9473C20.5858 12.9473 20.25 12.6115 20.25 12.1973V8.70631C20.25 7.64002 19.9197 6.7921 19.3852 6.21792C18.8563 5.6498 18.0719 5.28906 17.0351 5.28906H6.96486C5.93193 5.28906 5.14721 5.64951 4.61707 6.21826C4.08146 6.79286 3.75 7.6409 3.75 8.70631V15.2933C3.75 16.3596 4.08028 17.2075 4.61483 17.7817C5.14373 18.3498 5.92807 18.7106 6.96486 18.7106H10.7137C11.1279 18.7106 11.4637 19.0464 11.4637 19.4606C11.4637 19.8748 11.1279 20.2106 10.7137 20.2106H6.96486C5.55755 20.2106 4.35946 19.7088 3.51696 18.8038C2.68009 17.9049 2.25 16.6692 2.25 15.2933V8.70631C2.25 7.32955 2.68232 6.09397 3.51983 5.19549Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.83337C2.25 9.41916 2.58579 9.08337 3 9.08337H21C21.4142 9.08337 21.75 9.41916 21.75 9.83337C21.75 10.2476 21.4142 10.5834 21 10.5834H3C2.58579 10.5834 2.25 10.2476 2.25 9.83337Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3499 16.9673C13.3499 16.5531 13.6856 16.2173 14.0999 16.2173H20.717C21.1313 16.2173 21.467 16.5531 21.467 16.9673C21.467 17.3815 21.1313 17.7173 20.717 17.7173H14.0999C13.6856 17.7173 13.3499 17.3815 13.3499 16.9673Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.8499 14.1082C18.1422 13.8147 18.6171 13.8137 18.9106 14.106L21.2477 16.4334C21.389 16.5741 21.4684 16.7654 21.4684 16.9649C21.4684 17.1644 21.3889 17.3556 21.2475 17.4963L18.9105 19.8227C18.6169 20.1149 18.142 20.1139 17.8498 19.8203C17.5576 19.5267 17.5587 19.0519 17.8522 18.7596L19.6554 16.9647L17.8521 15.1689C17.5586 14.8766 17.5576 14.4017 17.8499 14.1082Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 23 icon with style variants.
+class _BankingBankCardSend23Icon {
+  const _BankingBankCardSend23Icon();
+
+  /// outline style
+  _BankingBankCardSend23Outline get outline => const _BankingBankCardSend23Outline();
+}
+
+/// Bank Card send 23 — outline style variants.
+class _BankingBankCardSend23Outline {
+  const _BankingBankCardSend23Outline();
+
+  /// Bank Card send 23 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 23',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.52032 4.85111C4.3634 3.94711 5.56105 3.44531 6.96486 3.44531H17.0361C18.4433 3.44531 19.6412 3.9468 20.4835 4.8516C21.3202 5.75033 21.75 6.98583 21.75 8.36158V14.9496C21.75 16.3249 21.3202 17.5604 20.4834 18.4592C19.641 19.3641 18.4429 19.8659 17.0351 19.8659C16.6209 19.8659 16.2851 19.5301 16.2851 19.1159C16.2851 18.7016 16.6209 18.3659 17.0351 18.3659C18.0725 18.3659 18.8568 18.0051 19.3855 17.4371C19.9199 16.8631 20.25 16.0154 20.25 14.9496V8.36158C20.25 7.29518 19.9199 6.44754 19.3857 5.87368C18.8571 5.30588 18.073 4.94531 17.0361 4.94531H6.96486C5.93235 4.94531 5.14757 5.30557 4.6173 5.87416C4.08162 6.44855 3.75 7.29631 3.75 8.36158V14.9496C3.75 16.0153 4.08024 16.863 4.61479 17.4371C5.1437 18.0051 5.92806 18.3659 6.96486 18.3659C7.37908 18.3659 7.71486 18.7016 7.71486 19.1159C7.71486 19.5301 7.37908 19.8659 6.96486 19.8659C5.55756 19.8659 4.35949 19.3641 3.517 18.4593C2.68014 17.5605 2.25 16.325 2.25 14.9496V8.36158C2.25 6.98469 2.68265 5.74931 3.52032 4.85111Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 13.0002C12.4142 13.0002 12.75 13.336 12.75 13.7502V19.804C12.75 20.2182 12.4142 20.554 12 20.554C11.5858 20.554 11.25 20.2182 11.25 19.804V13.7502C11.25 13.336 11.5858 13.0002 12 13.0002Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9993 13.0002C12.1987 13.0002 12.39 13.0796 12.5307 13.2209L14.8153 15.5142C15.1076 15.8076 15.1067 16.2825 14.8132 16.5748C14.5198 16.8672 14.0449 16.8662 13.7526 16.5728L11.9995 14.813L10.2473 16.5727C9.95501 16.8662 9.48013 16.8672 9.18662 16.5749C8.8931 16.2827 8.89209 15.8078 9.18436 15.5143L11.4679 13.221C11.6087 13.0797 11.7999 13.0002 11.9993 13.0002Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 9.49347C2.25 9.07926 2.58579 8.74347 3 8.74347H21C21.4142 8.74347 21.75 9.07926 21.75 9.49347C21.75 9.90768 21.4142 10.2435 21 10.2435H3C2.58579 10.2435 2.25 9.90768 2.25 9.49347Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 24 icon with style variants.
+class _BankingBankCardSend24Icon {
+  const _BankingBankCardSend24Icon();
+
+  /// outline style
+  _BankingBankCardSend24Outline get outline => const _BankingBankCardSend24Outline();
+}
+
+/// Bank Card send 24 — outline style variants.
+class _BankingBankCardSend24Outline {
+  const _BankingBankCardSend24Outline();
+
+  /// Bank Card send 24 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 24',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.50647 6.85711C4.04162 7.35647 3.75 8.09857 3.75 9.04083V14.9584C3.75 15.9006 4.04161 16.6424 4.50638 17.1415C4.96552 17.6345 5.64914 17.9514 6.56201 17.9514H15.6096C16.5219 17.9514 17.2052 17.6346 17.6643 17.1416C18.129 16.6424 18.4206 15.9006 18.4206 14.9584C18.4206 14.5442 18.7564 14.2084 19.1706 14.2084C19.5848 14.2084 19.9206 14.5442 19.9206 14.9584C19.9206 16.2102 19.5292 17.3398 18.7621 18.1637C17.9894 18.9936 16.8923 19.4514 15.6096 19.4514H6.56201C5.27891 19.4514 4.18152 18.9937 3.40865 18.1637C2.64141 17.3399 2.25 16.2102 2.25 14.9584V9.04083C2.25 7.78906 2.6414 6.65918 3.40856 5.83507C4.18136 5.00489 5.27876 4.54688 6.56201 4.54688H14.7261C15.1403 4.54688 15.4761 4.88266 15.4761 5.29688C15.4761 5.71109 15.1403 6.04688 14.7261 6.04688H6.56201C5.64929 6.04688 4.96568 6.36382 4.50647 6.85711Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 10.0552C2.25 9.64102 2.58579 9.30524 3 9.30524H13.9371C14.3513 9.30524 14.6871 9.64102 14.6871 10.0552C14.6871 10.4695 14.3513 10.8052 13.9371 10.8052H3C2.58579 10.8052 2.25 10.4695 2.25 10.0552Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.16455 14.8478C6.16455 14.4336 6.50034 14.0978 6.91455 14.0978H9.58144C9.99565 14.0978 10.3314 14.4336 10.3314 14.8478C10.3314 15.2621 9.99565 15.5978 9.58144 15.5978H6.91455C6.50034 15.5978 6.16455 15.2621 6.16455 14.8478Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.16455 14.8478C6.16455 14.4336 6.50034 14.0978 6.91455 14.0978H9.58144C9.99565 14.0978 10.3314 14.4336 10.3314 14.8478C10.3314 15.2621 9.99565 15.5978 9.58144 15.5978H6.91455C6.50034 15.5978 6.16455 15.2621 6.16455 14.8478Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.1697 5.1474C19.5839 5.1474 19.9197 5.48319 19.9197 5.8974V11.2409C19.9197 11.6551 19.5839 11.9909 19.1697 11.9909C18.7555 11.9909 18.4197 11.6551 18.4197 11.2409V5.8974C18.4197 5.48319 18.7555 5.1474 19.1697 5.1474Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.1707 5.1474C19.3702 5.1474 19.5614 5.22686 19.7022 5.3682L21.5313 7.20515C21.8236 7.49866 21.8226 7.97353 21.5291 8.2658C21.2356 8.55808 20.7607 8.55707 20.4684 8.26355L19.1707 6.96032L17.873 8.26355C17.5807 8.55707 17.1059 8.55808 16.8123 8.2658C16.5188 7.97353 16.5178 7.49866 16.8101 7.20515L18.6393 5.3682C18.78 5.22686 18.9713 5.1474 19.1707 5.1474Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 25 icon with style variants.
+class _BankingBankCardSend25Icon {
+  const _BankingBankCardSend25Icon();
+
+  /// twoTone style
+  _BankingBankCardSend25Twotone get twoTone => const _BankingBankCardSend25Twotone();
+}
+
+/// Bank Card send 25 — twoTone style variants.
+class _BankingBankCardSend25Twotone {
+  const _BankingBankCardSend25Twotone();
+
+  /// Bank Card send 25 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 25',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12.1973V8.70631C21 6.26414 19.4792 4.53906 17.0351 4.53906H6.96486C4.52757 4.53906 3 6.26414 3 8.70631V15.2933C3 17.7355 4.52076 19.4606 6.96486 19.4606H10.7137" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.83341H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.0121 17.0433H13.8585M18.0108 19.056L20.9988 17.0448L18.0108 15.0327V19.056Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.17694 15.1962H10.1455" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 26 icon with style variants.
+class _BankingBankCardSend26Icon {
+  const _BankingBankCardSend26Icon();
+
+  /// twoTone style
+  _BankingBankCardSend26Twotone get twoTone => const _BankingBankCardSend26Twotone();
+}
+
+/// Bank Card send 26 — twoTone style variants.
+class _BankingBankCardSend26Twotone {
+  const _BankingBankCardSend26Twotone();
+
+  /// Bank Card send 26 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 26',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21 11.611V8.53541C21 6.09422 19.4792 4.36914 17.0351 4.36914H6.96486C4.52757 4.36914 3 6.09422 3 8.53541V15.1234C3 17.5646 4.52076 19.2897 6.96486 19.2897H11.7665" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.95081 9.34423H17.0483" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.999 17.5841H14.6776" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.9438 15.5355L20.9997 17.5827L18.9438 19.6308" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 27 icon with style variants.
+class _BankingBankCardSend27Icon {
+  const _BankingBankCardSend27Icon();
+
+  /// twoTone style
+  _BankingBankCardSend27Twotone get twoTone => const _BankingBankCardSend27Twotone();
+}
+
+/// Bank Card send 27 — twoTone style variants.
+class _BankingBankCardSend27Twotone {
+  const _BankingBankCardSend27Twotone();
+
+  /// Bank Card send 27 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 27',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12.1973V8.70631C21 6.26414 19.4792 4.53906 17.0351 4.53906H6.96486C4.52757 4.53906 3 6.26414 3 8.70631V15.2933C3 17.7355 4.52076 19.4606 6.96486 19.4606H10.7137" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 9.83341H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.717 16.9673H14.0999M18.3813 14.6375L20.7184 16.9648L18.3813 19.2912" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 28 icon with style variants.
+class _BankingBankCardSend28Icon {
+  const _BankingBankCardSend28Icon();
+
+  /// twoTone style
+  _BankingBankCardSend28Twotone get twoTone => const _BankingBankCardSend28Twotone();
+}
+
+/// Bank Card send 28 — twoTone style variants.
+class _BankingBankCardSend28Twotone {
+  const _BankingBankCardSend28Twotone();
+
+  /// Bank Card send 28 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 28',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.1706 14.9584C19.1706 17.1524 17.8046 18.7014 15.6096 18.7014H6.56201C4.36604 18.7014 3 17.1524 3 14.9584V9.04083C3 6.8468 4.36604 5.29688 6.56201 5.29688H14.7261" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.9371 10.0553H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.91464 14.8479H9.58153" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.91464 14.8479H9.58153" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.1698 5.89738V11.2409M17.3417 7.73433L19.1708 5.89738L21 7.73433" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Bank Card send 29 icon with style variants.
+class _BankingBankCardSend29Icon {
+  const _BankingBankCardSend29Icon();
+
+  /// twoTone style
+  _BankingBankCardSend29Twotone get twoTone => const _BankingBankCardSend29Twotone();
+}
+
+/// Bank Card send 29 — twoTone style variants.
+class _BankingBankCardSend29Twotone {
+  const _BankingBankCardSend29Twotone();
+
+  /// Bank Card send 29 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Bank Card send 29',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.1706 14.9584C19.1706 17.1524 17.8046 18.7014 15.6096 18.7014H6.56201C4.36604 18.7014 3 17.1524 3 14.9584V9.04083C3 6.8468 4.36604 5.29688 6.56201 5.29688H14.7261" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.9371 10.0553H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.91464 14.8479H9.58153" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.91464 14.8479H9.58153" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.1698 5.89738V11.2409M17.3417 7.73433L19.1708 5.89738L21 7.73433" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -4310,93 +9214,8 @@ class _BankingWalletTransferLight {
 class _BankingWalletOutIcon {
   const _BankingWalletOutIcon();
 
-  /// bold style
-  _BankingWalletOutBold get bold => const _BankingWalletOutBold();
-  /// bulk style
-  _BankingWalletOutBulk get bulk => const _BankingWalletOutBulk();
   /// light style
   _BankingWalletOutLight get light => const _BankingWalletOutLight();
-  /// outline style
-  _BankingWalletOutOutline get outline => const _BankingWalletOutOutline();
-  /// twoTone style
-  _BankingWalletOutTwotone get twoTone => const _BankingWalletOutTwotone();
-  /// broken style
-  _BankingWalletOutBroken get broken => const _BankingWalletOutBroken();
-}
-
-/// Wallet out — bulk style variants.
-class _BankingWalletOutBulk {
-  const _BankingWalletOutBulk();
-
-  /// Wallet out — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet out',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.205 12.5881C13.205 14.1081 14.435 15.3381 15.945 15.3381C17.126 15.3381 19.4384 15.3315 20.2689 15.3291C20.437 15.3286 20.5734 15.4666 20.5606 15.6343C20.3558 18.3106 18.1118 20.4181 15.385 20.4181H8.53496C5.66496 20.4181 3.33496 18.0881 3.33496 15.2181V8.78813C3.33496 5.91813 5.66496 3.57812 8.53496 3.57812H15.385C18.1114 3.57812 20.346 5.68508 20.5595 8.36093C20.5729 8.52895 20.4364 8.66769 20.2678 8.66719C19.4365 8.6647 17.1255 8.65812 15.945 8.65812C14.435 8.65812 13.205 9.88812 13.205 11.4081V12.5881Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9451 10.1602H20.4151C21.1051 10.1602 21.6651 10.7202 21.6651 11.4102V12.5902C21.6651 13.2802 21.1051 13.8402 20.4151 13.8402H15.9451C15.2551 13.8402 14.7051 13.2802 14.7051 12.5902V11.4102C14.7051 10.7202 15.2551 10.1602 15.9451 10.1602ZM16.0251 12.0002C16.0251 12.3902 16.3451 12.7102 16.7451 12.7102C17.1351 12.7102 17.4551 12.3902 17.4551 12.0002C17.4551 11.6102 17.1351 11.2902 16.7451 11.2902C16.3451 11.2902 16.0251 11.6102 16.0251 12.0002Z" fill="black"/> <path d="M7.92993 12.8255L7.54686 12.4415C7.25486 12.1475 6.78086 12.1475 6.48686 12.4395C6.19286 12.7325 6.19286 13.2065 6.48486 13.4995L8.07708 15.0964C8.21376 15.2808 8.43297 15.4004 8.67993 15.4004C8.92342 15.4004 9.13992 15.2842 9.27696 15.1042L10.8779 13.4995C11.1699 13.2065 11.1699 12.7325 10.8759 12.4395C10.5839 12.1475 10.1079 12.1475 9.81586 12.4415L9.42993 12.8281V9.35938C9.42993 8.94537 9.09393 8.60938 8.67993 8.60938C8.26593 8.60938 7.92993 8.94537 7.92993 9.35938V12.8255Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet out — broken style variants.
-class _BankingWalletOutBroken {
-  const _BankingWalletOutBroken();
-
-  /// Wallet out — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet out',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.2485 14.4071H17.4412C16.0431 14.4071 14.9105 13.2736 14.9105 11.8754C14.9105 10.4782 16.0431 9.34473 17.4412 9.34473H21.2485" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2448 11.8193H17.2418" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 11.6133V8.62535C3.25 5.89907 5.45962 3.68945 8.18589 3.68945H16.3141C19.0404 3.68945 21.25 5.89907 21.25 8.62535V15.3749C21.25 18.1011 19.0404 20.3108 16.3141 20.3108H12.8883" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 20.309L7.91638 15.6426" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.00665 20.3036L3.25 20.3113L3.25778 16.5547" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet out — twoTone style variants.
-class _BankingWalletOutTwotone {
-  const _BankingWalletOutTwotone();
-
-  /// Wallet out — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet out',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.26841 14.645V9.35622" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.93542 12.9711L8.26947 14.6439L6.60352 12.9711" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3423 12.0018H15.3409" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.2518 14.4028V15.2202C19.2518 17.8096 17.146 19.9154 14.5478 19.9154H7.70301C5.10482 19.9154 3 17.8096 3 15.2202V8.78796C3 6.18978 5.10482 4.08398 7.70301 4.08398H14.5478C17.146 4.08398 19.2518 6.18978 19.2518 8.78796V9.58396" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.1394 14.4107H14.9755C13.9479 14.4107 13.1149 13.5777 13.1149 12.5501V11.4525C13.1149 10.4249 13.9479 9.5919 14.9755 9.5919H19.1394C20.167 9.5919 21 10.4249 21 11.4525V12.5501C21 13.5777 20.167 14.4107 19.1394 14.4107Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet out — outline style variants.
-class _BankingWalletOutOutline {
-  const _BankingWalletOutOutline();
-
-  /// Wallet out — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet out',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1911 10.0245C16.2073 10.0245 15.4104 10.8221 15.4104 11.8052C15.4104 12.7896 16.2075 13.5869 17.1911 13.5869H20.9983C21.4126 13.5869 21.7483 13.9227 21.7483 14.3369C21.7483 14.7511 21.4126 15.0869 20.9983 15.0869H17.1911C15.3784 15.0869 13.9104 13.6172 13.9104 11.8052C13.9104 9.99402 15.3785 8.52454 17.1911 8.52454H20.9983C21.4126 8.52454 21.7483 8.86032 21.7483 9.27454C21.7483 9.68875 21.4126 10.0245 20.9983 10.0245H17.1911Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2437 11.7488C16.2437 11.3346 16.5794 10.9988 16.9937 10.9988H16.9966C17.4108 10.9988 17.7466 11.3346 17.7466 11.7488C17.7466 12.163 17.4108 12.4988 16.9966 12.4988H16.9937C16.5794 12.4988 16.2437 12.163 16.2437 11.7488Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.93589 4.36914C5.62384 4.36914 3.75 6.24298 3.75 8.55503V11.543C3.75 11.9572 3.41421 12.293 3 12.293C2.58579 12.293 2.25 11.9572 2.25 11.543V8.55503C2.25 5.41455 4.79541 2.86914 7.93589 2.86914H16.0641C19.2046 2.86914 21.75 5.41455 21.75 8.55503V15.3045C21.75 18.445 19.2046 20.9904 16.0641 20.9904H12.6383C12.2241 20.9904 11.8883 20.6547 11.8883 20.2404C11.8883 19.8262 12.2241 19.4904 12.6383 19.4904H16.0641C18.3762 19.4904 20.25 17.6166 20.25 15.3045V8.55503C20.25 6.24298 18.3762 4.36914 16.0641 4.36914H7.93589Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.77979 13.0322C7.194 13.0322 7.52979 13.368 7.52979 13.7822V20.3818C7.52979 20.7961 7.194 21.1318 6.77979 21.1318C6.36557 21.1318 6.02979 20.7961 6.02979 20.3818V13.7822C6.02979 13.368 6.36557 13.0322 6.77979 13.0322Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.60135 17.1883C3.89484 16.896 4.36971 16.8969 4.66201 17.1904L6.78187 19.3188L8.90085 17.1905C9.1931 16.897 9.66797 16.8959 9.96151 17.1882C10.255 17.4804 10.2561 17.9553 9.96384 18.2488L7.31346 20.9109C7.17273 21.0522 6.9815 21.1317 6.78204 21.1317C6.58258 21.1317 6.39132 21.0523 6.25057 20.911L3.59922 18.2489C3.30692 17.9554 3.30787 17.4806 3.60135 17.1883Z" fill="black"/> </svg> ',
-    category: 'Banking',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Wallet out — bold style variants.
-class _BankingWalletOutBold {
-  const _BankingWalletOutBold();
-
-  /// Wallet out — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Wallet out',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.28 12.4385C16.87 12.4385 16.53 12.1085 16.53 11.6885C16.53 11.2785 16.87 10.9385 17.28 10.9385C17.69 10.9385 18.03 11.2785 18.03 11.6885C18.03 12.1085 17.7 12.4385 17.28 12.4385ZM17.19 9.9585C16.21 9.9585 15.41 10.7585 15.41 11.7485C15.41 12.7285 16.21 13.5285 17.19 13.5285H21.2C21.3657 13.5285 21.5 13.3942 21.5 13.2285V10.2585C21.5 10.0928 21.3657 9.9585 21.2 9.9585H17.19Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.91 11.7486C13.91 9.93859 15.38 8.45859 17.19 8.45859H21.188C21.3545 8.45859 21.4899 8.3228 21.4797 8.15665C21.3041 5.31683 18.9387 3.05859 16.06 3.05859H7.93C4.93 3.05859 2.5 5.49859 2.5 8.49859V13.6417C2.5 13.8495 2.70748 13.995 2.91246 13.961C3.04051 13.9397 3.17302 13.9286 3.31 13.9286C3.86501 13.9286 4.50727 14.1296 4.94491 14.5157C5.08182 14.6365 5.2955 14.6531 5.42459 14.524L6.2 13.7486C7.17 12.7786 8.76 12.7786 9.73 13.7486C10.71 14.7286 10.71 16.3086 9.73 17.2886L8.93799 18.0806C8.81482 18.2038 8.82364 18.4047 8.93891 18.5353C9.32252 18.9699 9.55156 19.5443 9.56 20.1686C9.56 20.2199 9.55837 20.2705 9.55535 20.3202C9.54395 20.5077 9.68364 20.6786 9.87148 20.6786H16.06C19.0826 20.6786 21.346 18.2352 21.4925 15.3286C21.5008 15.1631 21.3657 15.0286 21.2 15.0286H17.19C15.38 15.0286 13.91 13.5586 13.91 11.7486Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.49629 14.9888C8.20329 14.6958 7.72829 14.6958 7.43529 14.9888L4.05329 18.3728L4.05829 16.4298C4.05929 16.0148 3.72429 15.6788 3.30929 15.6778C2.89529 15.6778 2.55929 16.0128 2.55829 16.4258L2.55029 20.1868C2.55029 20.2838 2.56929 20.3818 2.60629 20.4728C2.64329 20.5648 2.69829 20.6488 2.76929 20.7188C2.84029 20.7898 2.92429 20.8448 3.01529 20.8818C3.10629 20.9198 3.20329 20.9388 3.30029 20.9388H3.30229L7.05929 20.9278C7.47329 20.9268 7.80829 20.5908 7.80729 20.1758C7.80629 19.7618 7.47029 19.4278 7.05729 19.4278H7.05529L5.11529 19.4338L8.49629 16.0498C8.78929 15.7568 8.78929 15.2818 8.49629 14.9888Z" fill="black"/> </svg>',
-    category: 'Banking',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Wallet out — light style variants.
@@ -4409,6 +9228,397 @@ class _BankingWalletOutLight {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9981 14.3358H17.1909C15.7927 14.3358 14.6602 13.2023 14.6602 11.8041C14.6602 10.407 15.7927 9.27344 17.1909 9.27344H20.9981" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.7482H16.9936" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.5411V8.55308C3 5.82681 5.20962 3.61719 7.93589 3.61719H16.0641C18.7904 3.61719 21 5.82681 21 8.55308V15.3026C21 18.0289 18.7904 20.2385 16.0641 20.2385H12.6383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.77946 20.3809V13.7812" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.43259 17.7188L6.78221 20.3808L4.13086 17.7188" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Banking',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 1 icon with style variants.
+class _BankingWalletOut1Icon {
+  const _BankingWalletOut1Icon();
+
+  /// light style
+  _BankingWalletOut1Light get light => const _BankingWalletOut1Light();
+}
+
+/// Wallet out 1 — light style variants.
+class _BankingWalletOut1Light {
+  const _BankingWalletOut1Light();
+
+  /// Wallet out 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9981 14.4061H17.1909C15.7927 14.4061 14.6602 13.2726 14.6602 11.8745C14.6602 10.4773 15.7927 9.34375 17.1909 9.34375H20.9981" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9946 11.8185H16.9917" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.6114V8.62339C3 5.89712 5.20962 3.6875 7.93589 3.6875H16.0641C18.7904 3.6875 21 5.89712 21 8.62339V15.3729C21 18.0992 18.7904 20.3088 16.0641 20.3088H12.6383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 20.307L7.66638 15.6406" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.75665 20.3036L3 20.3113L3.00778 16.5547" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 2 icon with style variants.
+class _BankingWalletOut2Icon {
+  const _BankingWalletOut2Icon();
+
+  /// light style
+  _BankingWalletOut2Light get light => const _BankingWalletOut2Light();
+}
+
+/// Wallet out 2 — light style variants.
+class _BankingWalletOut2Light {
+  const _BankingWalletOut2Light();
+
+  /// Wallet out 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9981 14.3358H17.1909C15.7927 14.3358 14.6602 13.2023 14.6602 11.8041C14.6602 10.407 15.7927 9.27344 17.1909 9.27344H20.9981" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.7482H16.9936" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.5411V8.55308C3 5.82681 5.20962 3.61719 7.93589 3.61719H16.0641C18.7904 3.61719 21 5.82681 21 8.55308V15.3026C21 18.0289 18.7904 20.2385 16.0641 20.2385H12.6383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.77946 20.3809V13.7812" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.43259 17.7188L6.78221 20.3808L4.13086 17.7188" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 3 icon with style variants.
+class _BankingWalletOut3Icon {
+  const _BankingWalletOut3Icon();
+
+  /// broken style
+  _BankingWalletOut3Broken get broken => const _BankingWalletOut3Broken();
+}
+
+/// Wallet out 3 — broken style variants.
+class _BankingWalletOut3Broken {
+  const _BankingWalletOut3Broken();
+
+  /// Wallet out 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.2485 9.27441H17.4412C16.0431 9.27441 14.9105 10.4079 14.9105 11.8061C14.9105 13.2033 16.0431 14.3368 17.4412 14.3368H18.6625" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2466 11.749H17.2437" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3141 3.61914C19.0404 3.61914 21.25 5.82876 21.25 8.55503V15.3045C21.25 18.0308 19.0404 20.2404 16.3141 20.2404H12.8883" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 11.5411V8.55308C3.25 5.82681 5.45962 3.61719 8.18589 3.61719H12.8883" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.02979 20.3819V13.7822" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.68247 17.7197L7.03209 20.3818L4.38074 17.7197" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 4 icon with style variants.
+class _BankingWalletOut4Icon {
+  const _BankingWalletOut4Icon();
+
+  /// broken style
+  _BankingWalletOut4Broken get broken => const _BankingWalletOut4Broken();
+}
+
+/// Wallet out 4 — broken style variants.
+class _BankingWalletOut4Broken {
+  const _BankingWalletOut4Broken();
+
+  /// Wallet out 4 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.2485 14.4071H17.4412C16.0431 14.4071 14.9105 13.2736 14.9105 11.8754C14.9105 10.4782 16.0431 9.34473 17.4412 9.34473H21.2485" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2448 11.8193H17.2418" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 11.6133V8.62535C3.25 5.89907 5.45962 3.68945 8.18589 3.68945H16.3141C19.0404 3.68945 21.25 5.89907 21.25 8.62535V15.3749C21.25 18.1011 19.0404 20.3108 16.3141 20.3108H12.8883" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 20.309L7.91638 15.6426" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.00665 20.3036L3.25 20.3113L3.25778 16.5547" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 5 icon with style variants.
+class _BankingWalletOut5Icon {
+  const _BankingWalletOut5Icon();
+
+  /// broken style
+  _BankingWalletOut5Broken get broken => const _BankingWalletOut5Broken();
+}
+
+/// Wallet out 5 — broken style variants.
+class _BankingWalletOut5Broken {
+  const _BankingWalletOut5Broken();
+
+  /// Wallet out 5 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.51841 14.6453V9.35645" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.1854 12.9707L8.51947 14.6435L6.85352 12.9707" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.5923 12.0022H15.5909" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.25 8.78992C3.25 6.19173 5.35482 4.08594 7.95301 4.08594H14.7978C17.396 4.08594 19.5018 6.19173 19.5018 8.78992V9.58591" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.2258 14.4126C14.1982 14.4126 13.3652 13.5796 13.3652 12.552V11.4543C13.3652 10.4267 14.1982 9.59375 15.2258 9.59375H19.3897C20.4173 9.59375 21.2503 10.4267 21.2503 11.4543V12.552C21.2503 13.5796 20.4173 14.4126 19.3897 14.4126H17.6012" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.5018 14.402V15.2194C19.5018 17.8089 17.396 19.9146 14.7978 19.9146H7.95301C5.35482 19.9146 3.25 17.8089 3.25 15.2194V11.4688" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 6 icon with style variants.
+class _BankingWalletOut6Icon {
+  const _BankingWalletOut6Icon();
+
+  /// bold style
+  _BankingWalletOut6Bold get bold => const _BankingWalletOut6Bold();
+}
+
+/// Wallet out 6 — bold style variants.
+class _BankingWalletOut6Bold {
+  const _BankingWalletOut6Bold();
+
+  /// Wallet out 6 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7376 11.333C18.7376 11.753 18.4076 12.083 17.9976 12.083H17.9876C17.5776 12.083 17.2376 11.753 17.2376 11.333C17.2376 10.923 17.5776 10.583 17.9876 10.583C18.4076 10.583 18.7376 10.923 18.7376 11.333ZM16.1176 11.393C16.1176 12.373 16.9176 13.173 17.8976 13.173H21.9076C22.0733 13.173 22.2076 13.0387 22.2076 12.873V9.90303C22.2076 9.73734 22.0733 9.60303 21.9076 9.60303H17.8976C16.9176 9.60303 16.1176 10.403 16.1176 11.393Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6176 11.3931C14.6176 9.58312 16.0876 8.10313 17.8976 8.10313H21.9046C22.0715 8.10313 22.2071 7.96671 22.1963 7.8002C22.0119 4.96084 19.6556 2.70312 16.7676 2.70312H8.63764C5.64764 2.70312 3.20764 5.14313 3.20764 8.14313V11.5331C3.20764 11.8214 3.62249 11.9808 3.86675 11.8277C4.24885 11.5881 4.70208 11.4491 5.18764 11.4431H5.19764C6.57764 11.4431 7.68764 12.5631 7.69764 13.9431V15.075C7.69764 15.2476 7.84339 15.3829 8.01559 15.3948C8.59123 15.4345 9.16006 15.674 9.60764 16.1131C10.5876 17.0831 10.5876 18.6731 9.61764 19.6531L9.45977 19.811C9.27078 20 9.40463 20.3231 9.67191 20.3231H16.7676C19.7903 20.3231 22.0536 17.8797 22.2001 14.9731C22.2084 14.8076 22.0733 14.6731 21.9076 14.6731H17.8976C16.0876 14.6731 14.6176 13.2031 14.6176 11.3931Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.31361 17.3568L5.94561 18.7318L5.94261 13.9478C5.94261 13.5338 5.60661 13.1978 5.19261 13.1978C4.77861 13.1978 4.44261 13.5338 4.44261 13.9478L4.44561 18.7328L3.07361 17.3558C2.78161 17.0608 2.30761 17.0628 2.01361 17.3538C1.71961 17.6458 1.71861 18.1208 2.01161 18.4148L4.66461 21.0788H4.66561C4.73361 21.1478 4.81561 21.2028 4.90661 21.2408C4.99761 21.2788 5.09561 21.2988 5.19561 21.2988C5.21261 21.2988 5.22761 21.2908 5.24461 21.2898C5.32761 21.2838 5.40961 21.2728 5.48461 21.2408C5.57561 21.2028 5.65761 21.1478 5.72661 21.0788H5.72761L8.37661 18.4158C8.66861 18.1218 8.66761 17.6468 8.37461 17.3548C8.08161 17.0618 7.60561 17.0638 7.31361 17.3568Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 7 icon with style variants.
+class _BankingWalletOut7Icon {
+  const _BankingWalletOut7Icon();
+
+  /// bold style
+  _BankingWalletOut7Bold get bold => const _BankingWalletOut7Bold();
+}
+
+/// Wallet out 7 — bold style variants.
+class _BankingWalletOut7Bold {
+  const _BankingWalletOut7Bold();
+
+  /// Wallet out 7 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.28 12.4385C16.87 12.4385 16.53 12.1085 16.53 11.6885C16.53 11.2785 16.87 10.9385 17.28 10.9385C17.69 10.9385 18.03 11.2785 18.03 11.6885C18.03 12.1085 17.7 12.4385 17.28 12.4385ZM17.19 9.9585C16.21 9.9585 15.41 10.7585 15.41 11.7485C15.41 12.7285 16.21 13.5285 17.19 13.5285H21.2C21.3657 13.5285 21.5 13.3942 21.5 13.2285V10.2585C21.5 10.0928 21.3657 9.9585 21.2 9.9585H17.19Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.91 11.7486C13.91 9.93859 15.38 8.45859 17.19 8.45859H21.188C21.3545 8.45859 21.4899 8.3228 21.4797 8.15665C21.3041 5.31683 18.9387 3.05859 16.06 3.05859H7.93C4.93 3.05859 2.5 5.49859 2.5 8.49859V13.6417C2.5 13.8495 2.70748 13.995 2.91246 13.961C3.04051 13.9397 3.17302 13.9286 3.31 13.9286C3.86501 13.9286 4.50727 14.1296 4.94491 14.5157C5.08182 14.6365 5.2955 14.6531 5.42459 14.524L6.2 13.7486C7.17 12.7786 8.76 12.7786 9.73 13.7486C10.71 14.7286 10.71 16.3086 9.73 17.2886L8.93799 18.0806C8.81482 18.2038 8.82364 18.4047 8.93891 18.5353C9.32252 18.9699 9.55156 19.5443 9.56 20.1686C9.56 20.2199 9.55837 20.2705 9.55535 20.3202C9.54395 20.5077 9.68364 20.6786 9.87148 20.6786H16.06C19.0826 20.6786 21.346 18.2352 21.4925 15.3286C21.5008 15.1631 21.3657 15.0286 21.2 15.0286H17.19C15.38 15.0286 13.91 13.5586 13.91 11.7486Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.49629 14.9888C8.20329 14.6958 7.72829 14.6958 7.43529 14.9888L4.05329 18.3728L4.05829 16.4298C4.05929 16.0148 3.72429 15.6788 3.30929 15.6778C2.89529 15.6778 2.55929 16.0128 2.55829 16.4258L2.55029 20.1868C2.55029 20.2838 2.56929 20.3818 2.60629 20.4728C2.64329 20.5648 2.69829 20.6488 2.76929 20.7188C2.84029 20.7898 2.92429 20.8448 3.01529 20.8818C3.10629 20.9198 3.20329 20.9388 3.30029 20.9388H3.30229L7.05929 20.9278C7.47329 20.9268 7.80829 20.5908 7.80729 20.1758C7.80629 19.7618 7.47029 19.4278 7.05729 19.4278H7.05529L5.11529 19.4338L8.49629 16.0498C8.78929 15.7568 8.78929 15.2818 8.49629 14.9888Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 8 icon with style variants.
+class _BankingWalletOut8Icon {
+  const _BankingWalletOut8Icon();
+
+  /// bold style
+  _BankingWalletOut8Bold get bold => const _BankingWalletOut8Bold();
+}
+
+/// Wallet out 8 — bold style variants.
+class _BankingWalletOut8Bold {
+  const _BankingWalletOut8Bold();
+
+  /// Wallet out 8 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.705 12.5881C12.705 14.1081 13.935 15.3381 15.445 15.3381C16.626 15.3381 18.9384 15.3315 19.7689 15.3291C19.937 15.3286 20.0734 15.4666 20.0606 15.6343C19.8558 18.3106 17.6118 20.4181 14.885 20.4181H8.03496C5.16496 20.4181 2.83496 18.0881 2.83496 15.2181V8.78813C2.83496 5.91813 5.16496 3.57812 8.03496 3.57812H14.885C17.6114 3.57812 19.846 5.68508 20.0595 8.36093C20.0729 8.52895 19.9364 8.66769 19.7678 8.66719C18.9365 8.6647 16.6255 8.65812 15.445 8.65812C13.935 8.65812 12.705 9.88812 12.705 11.4081V12.5881ZM7.04674 12.4395L7.42981 12.8236V9.35742C7.42981 8.94342 7.76581 8.60742 8.17981 8.60742C8.59381 8.60742 8.92981 8.94342 8.92981 9.35742V12.8261L9.31574 12.4395C9.60774 12.1455 10.0837 12.1455 10.3757 12.4375C10.6697 12.7305 10.6697 13.2045 10.3777 13.4975L8.77684 15.1022C8.6398 15.2822 8.42329 15.3984 8.17981 15.3984C7.93285 15.3984 7.71364 15.2789 7.57696 15.0945L5.98474 13.4975C5.69274 13.2045 5.69274 12.7305 5.98674 12.4375C6.28074 12.1455 6.75474 12.1455 7.04674 12.4395Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.445 10.1582H19.915C20.605 10.1582 21.165 10.7182 21.165 11.4082V12.5882C21.165 13.2782 20.605 13.8382 19.915 13.8382H15.445C14.755 13.8382 14.205 13.2782 14.205 12.5882V11.4082C14.205 10.7182 14.755 10.1582 15.445 10.1582ZM15.525 11.9982C15.525 12.3882 15.845 12.7082 16.245 12.7082C16.635 12.7082 16.955 12.3882 16.955 11.9982C16.955 11.6082 16.635 11.2882 16.245 11.2882C15.845 11.2882 15.525 11.6082 15.525 11.9982Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 9 icon with style variants.
+class _BankingWalletOut9Icon {
+  const _BankingWalletOut9Icon();
+
+  /// bulk style
+  _BankingWalletOut9Bulk get bulk => const _BankingWalletOut9Bulk();
+}
+
+/// Wallet out 9 — bulk style variants.
+class _BankingWalletOut9Bulk {
+  const _BankingWalletOut9Bulk();
+
+  /// Wallet out 9 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 9',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.1175 11.3931C15.1175 9.58312 16.5875 8.10313 18.3975 8.10313H22.4045C22.5714 8.10313 22.707 7.96671 22.6962 7.8002C22.5118 4.96084 20.1555 2.70312 17.2675 2.70312H9.13752C6.14752 2.70312 3.70752 5.14313 3.70752 8.14313V11.5331C3.70752 11.8214 4.12237 11.9808 4.36662 11.8277C4.74873 11.5881 5.20195 11.4491 5.68752 11.4431H5.69752C7.07752 11.4431 8.18752 12.5631 8.19752 13.9431V15.075C8.19752 15.2476 8.34327 15.3829 8.51547 15.3948C9.09111 15.4345 9.65993 15.674 10.1075 16.1131C11.0875 17.0831 11.0875 18.6731 10.1175 19.6531L9.95965 19.811C9.77066 20 9.90451 20.3231 10.1718 20.3231H17.2675C20.2901 20.3231 22.5535 17.8797 22.7 14.9731C22.7083 14.8076 22.5732 14.6731 22.4075 14.6731H18.3975C16.5875 14.6731 15.1175 13.2031 15.1175 11.3931Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.2376 11.3316C19.2376 11.7516 18.9076 12.0816 18.4976 12.0816H18.4876C18.0776 12.0816 17.7376 11.7516 17.7376 11.3316C17.7376 10.9216 18.0776 10.5816 18.4876 10.5816C18.9076 10.5816 19.2376 10.9216 19.2376 11.3316ZM16.6176 11.3916C16.6176 12.3716 17.4176 13.1716 18.3976 13.1716H22.4076C22.5733 13.1716 22.7076 13.0372 22.7076 12.8716V9.90156C22.7076 9.73588 22.5733 9.60156 22.4076 9.60156H18.3976C17.4176 9.60156 16.6176 10.4016 16.6176 11.3916Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.81361 17.3553L6.44561 18.7303L6.44261 13.9463C6.44261 13.5323 6.10661 13.1963 5.69261 13.1963C5.27861 13.1963 4.94261 13.5323 4.94261 13.9463L4.94561 18.7313L3.57361 17.3543C3.28161 17.0593 2.80761 17.0613 2.51361 17.3523C2.21961 17.6443 2.21861 18.1193 2.51161 18.4133L5.16461 21.0773H5.16561C5.23361 21.1463 5.31561 21.2013 5.40661 21.2393C5.49761 21.2773 5.59561 21.2973 5.69561 21.2973C5.71261 21.2973 5.72761 21.2893 5.74461 21.2883C5.82761 21.2823 5.90961 21.2713 5.98461 21.2393C6.07561 21.2013 6.15761 21.1463 6.22661 21.0773H6.22761L8.87661 18.4143C9.16861 18.1203 9.16761 17.6453 8.87461 17.3533C8.58161 17.0603 8.10561 17.0623 7.81361 17.3553Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 10 icon with style variants.
+class _BankingWalletOut10Icon {
+  const _BankingWalletOut10Icon();
+
+  /// bulk style
+  _BankingWalletOut10Bulk get bulk => const _BankingWalletOut10Bulk();
+}
+
+/// Wallet out 10 — bulk style variants.
+class _BankingWalletOut10Bulk {
+  const _BankingWalletOut10Bulk();
+
+  /// Wallet out 10 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 10',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.41 11.7486C14.41 9.93859 15.88 8.45859 17.69 8.45859H21.688C21.8545 8.45859 21.9899 8.3228 21.9797 8.15665C21.8041 5.31683 19.4387 3.05859 16.56 3.05859H8.43C5.43 3.05859 3 5.49859 3 8.49859V13.6417C3 13.8495 3.20748 13.995 3.41246 13.961C3.54051 13.9397 3.67302 13.9286 3.81 13.9286C4.36501 13.9286 5.00727 14.1296 5.44491 14.5157C5.58182 14.6365 5.7955 14.6531 5.92459 14.524L6.7 13.7486C7.67 12.7786 9.26 12.7786 10.23 13.7486C11.21 14.7286 11.21 16.3086 10.23 17.2886L9.43799 18.0806C9.31482 18.2038 9.32364 18.4047 9.43891 18.5353C9.82252 18.9699 10.0516 19.5443 10.06 20.1686C10.06 20.2199 10.0584 20.2705 10.0553 20.3202C10.0439 20.5077 10.1836 20.6786 10.3715 20.6786H16.56C19.5826 20.6786 21.846 18.2352 21.9925 15.3286C22.0008 15.1631 21.8657 15.0286 21.7 15.0286H17.69C15.88 15.0286 14.41 13.5586 14.41 11.7486Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.78 12.4409C17.37 12.4409 17.03 12.1109 17.03 11.6909C17.03 11.2809 17.37 10.9409 17.78 10.9409C18.19 10.9409 18.53 11.2809 18.53 11.6909C18.53 12.1109 18.2 12.4409 17.78 12.4409ZM17.69 9.96094C16.71 9.96094 15.91 10.7609 15.91 11.7509C15.91 12.7309 16.71 13.5309 17.69 13.5309H21.7C21.8657 13.5309 22 13.3966 22 13.2309V10.2609C22 10.0953 21.8657 9.96094 21.7 9.96094H17.69Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.99629 14.9912C8.70329 14.6982 8.22829 14.6982 7.93529 14.9912L4.55329 18.3752L4.55829 16.4322C4.55929 16.0172 4.22429 15.6812 3.80929 15.6802C3.39529 15.6802 3.05929 16.0152 3.05829 16.4282L3.05029 20.1892C3.05029 20.2862 3.06929 20.3842 3.10629 20.4752C3.14329 20.5672 3.19829 20.6512 3.26929 20.7212C3.34029 20.7922 3.42429 20.8472 3.51529 20.8842C3.60629 20.9222 3.70329 20.9412 3.80029 20.9412H3.80229L7.55929 20.9302C7.97329 20.9292 8.30829 20.5932 8.30729 20.1782C8.30629 19.7642 7.97029 19.4302 7.55729 19.4302H7.55529L5.61529 19.4362L8.99629 16.0522C9.28929 15.7592 9.28929 15.2842 8.99629 14.9912Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 11 icon with style variants.
+class _BankingWalletOut11Icon {
+  const _BankingWalletOut11Icon();
+
+  /// bulk style
+  _BankingWalletOut11Bulk get bulk => const _BankingWalletOut11Bulk();
+}
+
+/// Wallet out 11 — bulk style variants.
+class _BankingWalletOut11Bulk {
+  const _BankingWalletOut11Bulk();
+
+  /// Wallet out 11 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 11',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.205 12.5881C13.205 14.1081 14.435 15.3381 15.945 15.3381C17.126 15.3381 19.4384 15.3315 20.2689 15.3291C20.437 15.3286 20.5734 15.4666 20.5606 15.6343C20.3558 18.3106 18.1118 20.4181 15.385 20.4181H8.53496C5.66496 20.4181 3.33496 18.0881 3.33496 15.2181V8.78813C3.33496 5.91813 5.66496 3.57812 8.53496 3.57812H15.385C18.1114 3.57812 20.346 5.68508 20.5595 8.36093C20.5729 8.52895 20.4364 8.66769 20.2678 8.66719C19.4365 8.6647 17.1255 8.65812 15.945 8.65812C14.435 8.65812 13.205 9.88812 13.205 11.4081V12.5881Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9451 10.1602H20.4151C21.1051 10.1602 21.6651 10.7202 21.6651 11.4102V12.5902C21.6651 13.2802 21.1051 13.8402 20.4151 13.8402H15.9451C15.2551 13.8402 14.7051 13.2802 14.7051 12.5902V11.4102C14.7051 10.7202 15.2551 10.1602 15.9451 10.1602ZM16.0251 12.0002C16.0251 12.3902 16.3451 12.7102 16.7451 12.7102C17.1351 12.7102 17.4551 12.3902 17.4551 12.0002C17.4551 11.6102 17.1351 11.2902 16.7451 11.2902C16.3451 11.2902 16.0251 11.6102 16.0251 12.0002Z" fill="black"/> <path d="M7.92993 12.8255L7.54686 12.4415C7.25486 12.1475 6.78086 12.1475 6.48686 12.4395C6.19286 12.7325 6.19286 13.2065 6.48486 13.4995L8.07708 15.0964C8.21376 15.2808 8.43297 15.4004 8.67993 15.4004C8.92342 15.4004 9.13992 15.2842 9.27696 15.1042L10.8779 13.4995C11.1699 13.2065 11.1699 12.7325 10.8759 12.4395C10.5839 12.1475 10.1079 12.1475 9.81586 12.4415L9.42993 12.8281V9.35938C9.42993 8.94537 9.09393 8.60938 8.67993 8.60938C8.26593 8.60938 7.92993 8.94537 7.92993 9.35938V12.8255Z" fill="black"/> </svg>',
+    category: 'Banking',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 12 icon with style variants.
+class _BankingWalletOut12Icon {
+  const _BankingWalletOut12Icon();
+
+  /// outline style
+  _BankingWalletOut12Outline get outline => const _BankingWalletOut12Outline();
+}
+
+/// Wallet out 12 — outline style variants.
+class _BankingWalletOut12Outline {
+  const _BankingWalletOut12Outline();
+
+  /// Wallet out 12 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1911 10.0245C16.2073 10.0245 15.4104 10.8221 15.4104 11.8052C15.4104 12.7896 16.2075 13.5869 17.1911 13.5869H20.9983C21.4126 13.5869 21.7483 13.9227 21.7483 14.3369C21.7483 14.7511 21.4126 15.0869 20.9983 15.0869H17.1911C15.3784 15.0869 13.9104 13.6172 13.9104 11.8052C13.9104 9.99402 15.3785 8.52454 17.1911 8.52454H20.9983C21.4126 8.52454 21.7483 8.86032 21.7483 9.27454C21.7483 9.68875 21.4126 10.0245 20.9983 10.0245H17.1911Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2437 11.7488C16.2437 11.3346 16.5794 10.9988 16.9937 10.9988H16.9966C17.4108 10.9988 17.7466 11.3346 17.7466 11.7488C17.7466 12.163 17.4108 12.4988 16.9966 12.4988H16.9937C16.5794 12.4988 16.2437 12.163 16.2437 11.7488Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.93589 4.36914C5.62384 4.36914 3.75 6.24298 3.75 8.55503V11.543C3.75 11.9572 3.41421 12.293 3 12.293C2.58579 12.293 2.25 11.9572 2.25 11.543V8.55503C2.25 5.41455 4.79541 2.86914 7.93589 2.86914H16.0641C19.2046 2.86914 21.75 5.41455 21.75 8.55503V15.3045C21.75 18.445 19.2046 20.9904 16.0641 20.9904H12.6383C12.2241 20.9904 11.8883 20.6547 11.8883 20.2404C11.8883 19.8262 12.2241 19.4904 12.6383 19.4904H16.0641C18.3762 19.4904 20.25 17.6166 20.25 15.3045V8.55503C20.25 6.24298 18.3762 4.36914 16.0641 4.36914H7.93589Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.77979 13.0322C7.194 13.0322 7.52979 13.368 7.52979 13.7822V20.3818C7.52979 20.7961 7.194 21.1318 6.77979 21.1318C6.36557 21.1318 6.02979 20.7961 6.02979 20.3818V13.7822C6.02979 13.368 6.36557 13.0322 6.77979 13.0322Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.60135 17.1883C3.89484 16.896 4.36971 16.8969 4.66201 17.1904L6.78187 19.3188L8.90085 17.1905C9.1931 16.897 9.66797 16.8959 9.96151 17.1882C10.255 17.4804 10.2561 17.9553 9.96384 18.2488L7.31346 20.9109C7.17273 21.0522 6.9815 21.1317 6.78204 21.1317C6.58258 21.1317 6.39132 21.0523 6.25057 20.911L3.59922 18.2489C3.30692 17.9554 3.30787 17.4806 3.60135 17.1883Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 13 icon with style variants.
+class _BankingWalletOut13Icon {
+  const _BankingWalletOut13Icon();
+
+  /// outline style
+  _BankingWalletOut13Outline get outline => const _BankingWalletOut13Outline();
+}
+
+/// Wallet out 13 — outline style variants.
+class _BankingWalletOut13Outline {
+  const _BankingWalletOut13Outline();
+
+  /// Wallet out 13 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 13',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.26855 8.6062C8.68277 8.6062 9.01855 8.94199 9.01855 9.3562V14.645C9.01855 15.0592 8.68277 15.395 8.26855 15.395C7.85434 15.395 7.51855 15.0592 7.51855 14.645V9.3562C7.51855 8.94199 7.85434 8.6062 8.26855 8.6062Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.07427 12.4397C6.36776 12.1474 6.84263 12.1484 7.13493 12.4419L8.26947 13.5811L9.40401 12.4419C9.6963 12.1484 10.1712 12.1474 10.4647 12.4397C10.7582 12.732 10.7591 13.2069 10.4668 13.5004L8.80088 15.1731C8.66014 15.3145 8.46891 15.3939 8.26947 15.3939C8.07002 15.3939 7.8788 15.3145 7.73806 15.1731L6.0721 13.5004C5.77981 13.2069 5.78078 12.732 6.07427 12.4397Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5908 12.0018C14.5908 11.5876 14.9266 11.2518 15.3408 11.2518H15.3422C15.7564 11.2518 16.0922 11.5876 16.0922 12.0018C16.0922 12.416 15.7564 12.7518 15.3422 12.7518H15.3408C14.9266 12.7518 14.5908 12.416 14.5908 12.0018Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70301 4.83398C5.51924 4.83398 3.75 6.60379 3.75 8.78796V15.2202C3.75 17.3947 5.51833 19.1654 7.70301 19.1654H14.5478C16.7327 19.1654 18.5018 17.3945 18.5018 15.2202V14.4028C18.5018 13.9886 18.8376 13.6528 19.2518 13.6528C19.666 13.6528 20.0018 13.9886 20.0018 14.4028V15.2202C20.0018 18.2247 17.5593 20.6654 14.5478 20.6654H7.70301C4.69132 20.6654 2.25 18.2245 2.25 15.2202V8.78796C2.25 5.77577 4.69041 3.33398 7.70301 3.33398H14.5478C17.5602 3.33398 20.0018 5.77557 20.0018 8.78796V9.58396C20.0018 9.99818 19.666 10.334 19.2518 10.334C18.8376 10.334 18.5018 9.99818 18.5018 9.58396V8.78796C18.5018 6.60399 16.7318 4.83398 14.5478 4.83398H7.70301Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9756 10.3419C14.3622 10.3419 13.865 10.8391 13.865 11.4525V12.5502C13.865 13.1635 14.3622 13.6607 14.9756 13.6607H19.1395C19.7529 13.6607 20.25 13.1635 20.25 12.5502V11.4525C20.25 10.8391 19.7529 10.3419 19.1395 10.3419H14.9756ZM12.365 11.4525C12.365 10.0107 13.5338 8.84192 14.9756 8.84192H19.1395C20.5813 8.84192 21.75 10.0107 21.75 11.4525V12.5502C21.75 13.992 20.5813 15.1607 19.1395 15.1607H14.9756C13.5338 15.1607 12.365 13.992 12.365 12.5502V11.4525Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 14 icon with style variants.
+class _BankingWalletOut14Icon {
+  const _BankingWalletOut14Icon();
+
+  /// outline style
+  _BankingWalletOut14Outline get outline => const _BankingWalletOut14Outline();
+}
+
+/// Wallet out 14 — outline style variants.
+class _BankingWalletOut14Outline {
+  const _BankingWalletOut14Outline();
+
+  /// Wallet out 14 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 14',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.26855 8.6062C8.68277 8.6062 9.01855 8.94199 9.01855 9.3562V14.645C9.01855 15.0592 8.68277 15.395 8.26855 15.395C7.85434 15.395 7.51855 15.0592 7.51855 14.645V9.3562C7.51855 8.94199 7.85434 8.6062 8.26855 8.6062Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.07427 12.4397C6.36776 12.1474 6.84263 12.1484 7.13493 12.4419L8.26947 13.5811L9.40401 12.4419C9.6963 12.1484 10.1712 12.1474 10.4647 12.4397C10.7582 12.732 10.7591 13.2069 10.4668 13.5004L8.80088 15.1731C8.66014 15.3145 8.46891 15.3939 8.26947 15.3939C8.07002 15.3939 7.8788 15.3145 7.73806 15.1731L6.0721 13.5004C5.77981 13.2069 5.78078 12.732 6.07427 12.4397Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5908 12.0018C14.5908 11.5876 14.9266 11.2518 15.3408 11.2518H15.3422C15.7564 11.2518 16.0922 11.5876 16.0922 12.0018C16.0922 12.416 15.7564 12.7518 15.3422 12.7518H15.3408C14.9266 12.7518 14.5908 12.416 14.5908 12.0018Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.70301 4.83398C5.51924 4.83398 3.75 6.60379 3.75 8.78796V15.2202C3.75 17.3947 5.51833 19.1654 7.70301 19.1654H14.5478C16.7327 19.1654 18.5018 17.3945 18.5018 15.2202V14.4028C18.5018 13.9886 18.8376 13.6528 19.2518 13.6528C19.666 13.6528 20.0018 13.9886 20.0018 14.4028V15.2202C20.0018 18.2247 17.5593 20.6654 14.5478 20.6654H7.70301C4.69132 20.6654 2.25 18.2245 2.25 15.2202V8.78796C2.25 5.77577 4.69041 3.33398 7.70301 3.33398H14.5478C17.5602 3.33398 20.0018 5.77557 20.0018 8.78796V9.58396C20.0018 9.99818 19.666 10.334 19.2518 10.334C18.8376 10.334 18.5018 9.99818 18.5018 9.58396V8.78796C18.5018 6.60399 16.7318 4.83398 14.5478 4.83398H7.70301Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9756 10.3419C14.3622 10.3419 13.865 10.8391 13.865 11.4525V12.5502C13.865 13.1635 14.3622 13.6607 14.9756 13.6607H19.1395C19.7529 13.6607 20.25 13.1635 20.25 12.5502V11.4525C20.25 10.8391 19.7529 10.3419 19.1395 10.3419H14.9756ZM12.365 11.4525C12.365 10.0107 13.5338 8.84192 14.9756 8.84192H19.1395C20.5813 8.84192 21.75 10.0107 21.75 11.4525V12.5502C21.75 13.992 20.5813 15.1607 19.1395 15.1607H14.9756C13.5338 15.1607 12.365 13.992 12.365 12.5502V11.4525Z" fill="black"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 15 icon with style variants.
+class _BankingWalletOut15Icon {
+  const _BankingWalletOut15Icon();
+
+  /// twoTone style
+  _BankingWalletOut15Twotone get twoTone => const _BankingWalletOut15Twotone();
+}
+
+/// Wallet out 15 — twoTone style variants.
+class _BankingWalletOut15Twotone {
+  const _BankingWalletOut15Twotone();
+
+  /// Wallet out 15 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 15',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.9984 14.3369H17.1912C15.793 14.3369 14.6605 13.2034 14.6605 11.8052C14.6605 10.4081 15.793 9.27455 17.1912 9.27455H20.9984" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9966 11.7488H16.9937" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.543V8.55503C3 5.82876 5.20962 3.61914 7.93589 3.61914H16.0641C18.7904 3.61914 21 5.82876 21 8.55503V15.3045C21 18.0308 18.7904 20.2404 16.0641 20.2404H12.6383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.77975 20.3818V13.7821M9.43241 17.7196L6.78203 20.3817L4.13068 17.7196" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 16 icon with style variants.
+class _BankingWalletOut16Icon {
+  const _BankingWalletOut16Icon();
+
+  /// twoTone style
+  _BankingWalletOut16Twotone get twoTone => const _BankingWalletOut16Twotone();
+}
+
+/// Wallet out 16 — twoTone style variants.
+class _BankingWalletOut16Twotone {
+  const _BankingWalletOut16Twotone();
+
+  /// Wallet out 16 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 16',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M20.9984 14.4072H17.1912C15.793 14.4072 14.6605 13.2737 14.6605 11.8756C14.6605 10.4784 15.793 9.34486 17.1912 9.34486H20.9984" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9947 11.8191H16.9918" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 11.6133V8.62535C3 5.89907 5.20962 3.68945 7.93589 3.68945H16.0641C18.7904 3.68945 21 5.89907 21 8.62535V15.3749C21 18.1011 18.7904 20.3108 16.0641 20.3108H12.6383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3 20.309L7.66638 15.6426M6.75665 20.3036L3 20.3114L3.00778 16.5547" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Wallet out 17 icon with style variants.
+class _BankingWalletOut17Icon {
+  const _BankingWalletOut17Icon();
+
+  /// twoTone style
+  _BankingWalletOut17Twotone get twoTone => const _BankingWalletOut17Twotone();
+}
+
+/// Wallet out 17 — twoTone style variants.
+class _BankingWalletOut17Twotone {
+  const _BankingWalletOut17Twotone();
+
+  /// Wallet out 17 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Wallet out 17',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.26841 14.645V9.35622" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.93542 12.9711L8.26947 14.6439L6.60352 12.9711" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3423 12.0018H15.3409" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.2518 14.4028V15.2202C19.2518 17.8096 17.146 19.9154 14.5478 19.9154H7.70301C5.10482 19.9154 3 17.8096 3 15.2202V8.78796C3 6.18978 5.10482 4.08398 7.70301 4.08398H14.5478C17.146 4.08398 19.2518 6.18978 19.2518 8.78796V9.58396" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.1394 14.4107H14.9755C13.9479 14.4107 13.1149 13.5777 13.1149 12.5501V11.4525C13.1149 10.4249 13.9479 9.5919 14.9755 9.5919H19.1394C20.167 9.5919 21 10.4249 21 11.4525V12.5501C21 13.5777 20.167 14.4107 19.1394 14.4107Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Banking',
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 

@@ -16,10 +16,24 @@ class _FinancialIcons {
   _FinancialRubleCircleIcon get rubleCircle => const _FinancialRubleCircleIcon();
   /// Money paper
   _FinancialMoneyPaperIcon get moneyPaper => const _FinancialMoneyPaperIcon();
+  /// Money paper 1
+  _FinancialMoneyPaper1Icon get moneyPaper1 => const _FinancialMoneyPaper1Icon();
+  /// Money paper 2
+  _FinancialMoneyPaper2Icon get moneyPaper2 => const _FinancialMoneyPaper2Icon();
+  /// Money paper 3
+  _FinancialMoneyPaper3Icon get moneyPaper3 => const _FinancialMoneyPaper3Icon();
+  /// Money paper 4
+  _FinancialMoneyPaper4Icon get moneyPaper4 => const _FinancialMoneyPaper4Icon();
+  /// Money paper 5
+  _FinancialMoneyPaper5Icon get moneyPaper5 => const _FinancialMoneyPaper5Icon();
   /// Dollar down
   _FinancialDollarDownIcon get dollarDown => const _FinancialDollarDownIcon();
   /// Coin swap
   _FinancialCoinSwapIcon get coinSwap => const _FinancialCoinSwapIcon();
+  /// Coin swap 1
+  _FinancialCoinSwap1Icon get coinSwap1 => const _FinancialCoinSwap1Icon();
+  /// Coin swap 2
+  _FinancialCoinSwap2Icon get coinSwap2 => const _FinancialCoinSwap2Icon();
   /// pound circle
   _FinancialPoundCircleIcon get poundCircle => const _FinancialPoundCircleIcon();
   /// yen circle
@@ -30,16 +44,24 @@ class _FinancialIcons {
   _FinancialDollarDocumentIcon get dollarDocument => const _FinancialDollarDocumentIcon();
   /// Dollar
   _FinancialDollarIcon get dollar => const _FinancialDollarIcon();
+  /// Dollar 1
+  _FinancialDollar1Icon get dollar1 => const _FinancialDollar1Icon();
   /// euro circle
   _FinancialEuroCircleIcon get euroCircle => const _FinancialEuroCircleIcon();
   /// Dollar circle
   _FinancialDollarCircleIcon get dollarCircle => const _FinancialDollarCircleIcon();
+  /// Dollar circle 1
+  _FinancialDollarCircle1Icon get dollarCircle1 => const _FinancialDollarCircle1Icon();
+  /// Dollar circle 2
+  _FinancialDollarCircle2Icon get dollarCircle2 => const _FinancialDollarCircle2Icon();
   /// Lira
   _FinancialLiraIcon get lira => const _FinancialLiraIcon();
   /// Money paper drop
   _FinancialMoneyPaperDropIcon get moneyPaperDrop => const _FinancialMoneyPaperDropIcon();
   /// Money paper upload
   _FinancialMoneyPaperUploadIcon get moneyPaperUpload => const _FinancialMoneyPaperUploadIcon();
+  /// Money paper upload 1
+  _FinancialMoneyPaperUpload1Icon get moneyPaperUpload1 => const _FinancialMoneyPaperUpload1Icon();
   /// ruble
   _FinancialRubleIcon get ruble => const _FinancialRubleIcon();
   /// Money paper block
@@ -50,8 +72,12 @@ class _FinancialIcons {
   _FinancialEuroIcon get euro => const _FinancialEuroIcon();
   /// Coins
   _FinancialCoinsIcon get coins => const _FinancialCoinsIcon();
+  /// Coins 1
+  _FinancialCoins1Icon get coins1 => const _FinancialCoins1Icon();
   /// Money paper send
   _FinancialMoneyPaperSendIcon get moneyPaperSend => const _FinancialMoneyPaperSendIcon();
+  /// Money paper send 1
+  _FinancialMoneyPaperSend1Icon get moneyPaperSend1 => const _FinancialMoneyPaperSend1Icon();
   /// Dollar receive
   _FinancialDollarReceiveIcon get dollarReceive => const _FinancialDollarReceiveIcon();
   /// Money paper total
@@ -60,14 +86,20 @@ class _FinancialIcons {
   _FinancialPoundIcon get pound => const _FinancialPoundIcon();
   /// Money paper refresh
   _FinancialMoneyPaperRefreshIcon get moneyPaperRefresh => const _FinancialMoneyPaperRefreshIcon();
+  /// Money paper refresh 1
+  _FinancialMoneyPaperRefresh1Icon get moneyPaperRefresh1 => const _FinancialMoneyPaperRefresh1Icon();
   /// Golds
   _FinancialGoldsIcon get golds => const _FinancialGoldsIcon();
   /// Money paper recieve
   _FinancialMoneyPaperRecieveIcon get moneyPaperRecieve => const _FinancialMoneyPaperRecieveIcon();
   /// Dollar badge
   _FinancialDollarBadgeIcon get dollarBadge => const _FinancialDollarBadgeIcon();
+  /// Dollar badge 1
+  _FinancialDollarBadge1Icon get dollarBadge1 => const _FinancialDollarBadge1Icon();
   /// Money paper download
   _FinancialMoneyPaperDownloadIcon get moneyPaperDownload => const _FinancialMoneyPaperDownloadIcon();
+  /// Money paper download 1
+  _FinancialMoneyPaperDownload1Icon get moneyPaperDownload1 => const _FinancialMoneyPaperDownload1Icon();
   /// rupee circle
   _FinancialRupeeCircleIcon get rupeeCircle => const _FinancialRupeeCircleIcon();
   /// Dollar add
@@ -86,6 +118,10 @@ class _FinancialIcons {
   _FinancialMoneyPaperLockIcon get moneyPaperLock => const _FinancialMoneyPaperLockIcon();
   /// Dollar square
   _FinancialDollarSquareIcon get dollarSquare => const _FinancialDollarSquareIcon();
+  /// Dollar square 1
+  _FinancialDollarSquare1Icon get dollarSquare1 => const _FinancialDollarSquare1Icon();
+  /// Dollar square 2
+  _FinancialDollarSquare2Icon get dollarSquare2 => const _FinancialDollarSquare2Icon();
   /// Dollar up
   _FinancialDollarUpIcon get dollarUp => const _FinancialDollarUpIcon();
   /// Charity coins
@@ -120,32 +156,60 @@ class _FinancialIcons {
   _FinancialMoneyPaperSearchIcon get moneyPaperSearch => const _FinancialMoneyPaperSearchIcon();
   /// Coin to card swap
   _FinancialCoinToCardSwapIcon get coinToCardSwap => const _FinancialCoinToCardSwapIcon();
+  /// Coin to card swap 1
+  _FinancialCoinToCardSwap1Icon get coinToCardSwap1 => const _FinancialCoinToCardSwap1Icon();
   /// Dollar remove
   _FinancialDollarRemoveIcon get dollarRemove => const _FinancialDollarRemoveIcon();
   /// rupee square
   _FinancialRupeeSquareIcon get rupeeSquare => const _FinancialRupeeSquareIcon();
   /// rial circle
   _FinancialRialCircleIcon get rialCircle => const _FinancialRialCircleIcon();
+  /// Savings Pig
+  _FinancialSavingsPig1Icon get savingsPig1 => const _FinancialSavingsPig1Icon();
+  /// Coin swap
+  _FinancialCoinSwap3Icon get coinSwap3 => const _FinancialCoinSwap3Icon();
   /// Money paper 6
   _FinancialMoneyPaper6Icon get moneyPaper6 => const _FinancialMoneyPaper6Icon();
+  /// Charity coins
+  _FinancialCharityCoins1Icon get charityCoins1 => const _FinancialCharityCoins1Icon();
+  /// Money paper send
+  _FinancialMoneyPaperSend2Icon get moneyPaperSend2 => const _FinancialMoneyPaperSend2Icon();
+  /// Money paper download
+  _FinancialMoneyPaperDownload2Icon get moneyPaperDownload2 => const _FinancialMoneyPaperDownload2Icon();
+  /// Money paper circle
+  _FinancialMoneyPaperCircle1Icon get moneyPaperCircle1 => const _FinancialMoneyPaperCircle1Icon();
   /// Coin to card swap 2
   _FinancialCoinToCardSwap2Icon get coinToCardSwap2 => const _FinancialCoinToCardSwap2Icon();
   /// Coins 2
   _FinancialCoins2Icon get coins2 => const _FinancialCoins2Icon();
+  /// Coin to card swap
+  _FinancialCoinToCardSwap3Icon get coinToCardSwap3 => const _FinancialCoinToCardSwap3Icon();
   /// Coins 1
-  _FinancialCoins1Icon get coins1 => const _FinancialCoins1Icon();
+  _FinancialCoins11Icon get coins11 => const _FinancialCoins11Icon();
+  /// Money paper
+  _FinancialMoneyPaper7Icon get moneyPaper7 => const _FinancialMoneyPaper7Icon();
   /// Coin swap 2
-  _FinancialCoinSwap2Icon get coinSwap2 => const _FinancialCoinSwap2Icon();
+  _FinancialCoinSwap21Icon get coinSwap21 => const _FinancialCoinSwap21Icon();
   /// Money paper 2
-  _FinancialMoneyPaper2Icon get moneyPaper2 => const _FinancialMoneyPaper2Icon();
+  _FinancialMoneyPaper21Icon get moneyPaper21 => const _FinancialMoneyPaper21Icon();
+  /// Money Bag
+  _FinancialMoneyBag1Icon get moneyBag1 => const _FinancialMoneyBag1Icon();
   /// Money paper 3
-  _FinancialMoneyPaper3Icon get moneyPaper3 => const _FinancialMoneyPaper3Icon();
+  _FinancialMoneyPaper31Icon get moneyPaper31 => const _FinancialMoneyPaper31Icon();
+  /// Golds
+  _FinancialGolds1Icon get golds1 => const _FinancialGolds1Icon();
   /// Coin swap 3
-  _FinancialCoinSwap3Icon get coinSwap3 => const _FinancialCoinSwap3Icon();
+  _FinancialCoinSwap31Icon get coinSwap31 => const _FinancialCoinSwap31Icon();
+  /// Money paper drop
+  _FinancialMoneyPaperDrop1Icon get moneyPaperDrop1 => const _FinancialMoneyPaperDrop1Icon();
+  /// Money Bag Dollar
+  _FinancialMoneyBagDollar1Icon get moneyBagDollar1 => const _FinancialMoneyBagDollar1Icon();
   /// Money paper 4
-  _FinancialMoneyPaper4Icon get moneyPaper4 => const _FinancialMoneyPaper4Icon();
+  _FinancialMoneyPaper41Icon get moneyPaper41 => const _FinancialMoneyPaper41Icon();
+  /// Dollar square
+  _FinancialDollarSquare3Icon get dollarSquare3 => const _FinancialDollarSquare3Icon();
   /// Money paper 5
-  _FinancialMoneyPaper5Icon get moneyPaper5 => const _FinancialMoneyPaper5Icon();
+  _FinancialMoneyPaper51Icon get moneyPaper51 => const _FinancialMoneyPaper51Icon();
 }
 
 /// Money paper remove icon with style variants.
@@ -480,10 +544,6 @@ class _FinancialMoneyPaperIcon {
   _FinancialMoneyPaperBold get bold => const _FinancialMoneyPaperBold();
   /// bulk style
   _FinancialMoneyPaperBulk get bulk => const _FinancialMoneyPaperBulk();
-  /// light style
-  _FinancialMoneyPaperLight get light => const _FinancialMoneyPaperLight();
-  /// outline style
-  _FinancialMoneyPaperOutline get outline => const _FinancialMoneyPaperOutline();
   /// twoTone style
   _FinancialMoneyPaperTwotone get twoTone => const _FinancialMoneyPaperTwotone();
   /// broken style
@@ -497,7 +557,7 @@ class _FinancialMoneyPaperBulk {
   /// Money paper — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Money paper',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.812 4.44922H6.188C3.982 4.44922 2.5 5.99622 2.5 8.29922V15.6992C2.5 18.0022 3.982 19.5492 6.188 19.5492H17.811C20.018 19.5492 21.5 18.0022 21.5 15.6992V8.29922C21.5 5.99622 20.018 4.44922 17.812 4.44922Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.3828 9.19922H17.7858C18.1998 9.19922 18.5358 8.86322 18.5358 8.44922C18.5358 8.03522 18.1998 7.69922 17.7858 7.69922H16.3828C15.9688 7.69922 15.6328 8.03522 15.6328 8.44922C15.6328 8.86322 15.9688 9.19922 16.3828 9.19922ZM8.96284 11.9992C8.96284 13.6762 10.3258 15.0392 12.0008 15.0392C13.6758 15.0392 15.0388 13.6762 15.0388 11.9992C15.0388 10.3222 13.6758 8.95922 12.0008 8.95922C10.3258 8.95922 8.96284 10.3222 8.96284 11.9992ZM6.21484 16.2992H7.61784C8.03184 16.2992 8.36784 15.9632 8.36784 15.5492C8.36784 15.1352 8.03184 14.7992 7.61784 14.7992H6.21484C5.80084 14.7992 5.46484 15.1352 5.46484 15.5492C5.46484 15.9632 5.80084 16.2992 6.21484 16.2992ZM10.4627 11.999C10.4627 11.149 11.1527 10.459 12.0007 10.459C12.8487 10.459 13.5387 11.149 13.5387 11.999C13.5387 12.849 12.8487 13.539 12.0007 13.539C11.1527 13.539 10.4627 12.849 10.4627 11.999Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.424 13.4602V7.23016C18.424 5.24416 17.144 3.91016 15.239 3.91016H5.45302C3.57902 3.91016 2.27002 5.27516 2.27002 7.23016V13.4602C2.27002 15.4152 3.57902 16.7802 5.45302 16.7802H15.238C17.143 16.7802 18.424 15.4462 18.424 13.4602Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3501 13.0213C8.87405 13.0213 7.67305 11.8243 7.67305 10.3513C7.67305 8.87333 8.87405 7.67133 10.3501 7.67133C11.8241 7.67133 13.0241 8.87333 13.0241 10.3513C13.0241 11.8243 11.8241 13.0213 10.3501 13.0213ZM9.17264 10.3518C9.17264 9.69985 9.70164 9.17085 10.3496 9.17085C10.9966 9.17085 11.5246 9.69985 11.5246 10.3518C11.5246 10.9968 10.9966 11.5218 10.3496 11.5218C9.70164 11.5218 9.17264 10.9968 9.17264 10.3518Z" fill="black"/> <path d="M6.65805 14.0903H5.47705C5.06305 14.0903 4.72705 13.7553 4.72705 13.3403C4.72705 12.9263 5.06305 12.5903 5.47705 12.5903H6.65805C7.07205 12.5903 7.40805 12.9263 7.40805 13.3403C7.40805 13.7553 7.07205 14.0903 6.65805 14.0903Z" fill="black"/> <path d="M14.0381 8.11133C13.6241 8.11133 13.2881 7.77533 13.2881 7.36133C13.2881 6.94733 13.6241 6.61133 14.0381 6.61133H15.2201C15.6341 6.61133 15.9701 6.94733 15.9701 7.36133C15.9701 7.77533 15.6341 8.11133 15.2201 8.11133H14.0381Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.6711 7.41661C19.5475 7.37375 19.4237 7.46948 19.4237 7.60031V13.4609C19.4237 15.9629 17.6627 17.7809 15.2377 17.7809H5.96929C5.83843 17.7809 5.74269 17.9047 5.78464 18.0286C6.21342 19.2953 7.29813 20.0899 8.76375 20.0899H18.5407C20.4477 20.0899 21.7297 18.7559 21.7297 16.7699V10.5399C21.7297 9.00871 20.9206 7.84992 19.6711 7.41661Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -512,7 +572,7 @@ class _FinancialMoneyPaperBroken {
   /// Money paper — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Money paper',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 19.0495H6.18843C4.22886 19.0495 3 17.6621 3 15.6986V8.30014C3 6.33668 4.22303 4.94922 6.18843 4.94922H17.8106C19.777 4.94922 21 6.33668 21 8.30014V15.6986C21 17.6621 19.777 19.0495 17.8116 19.0495H14.9058" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.21484 15.5488H7.61787" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7858 8.44922H16.3828" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0013 9.71094C10.7374 9.71094 9.71289 10.7345 9.71289 11.9984C9.71289 13.2623 10.7374 14.2859 12.0013 14.2859C13.2642 14.2859 14.2888 13.2623 14.2888 11.9984C14.2888 11.6311 14.2023 11.2841 14.0485 10.9766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.5761 4.64258H15.4687C17.1238 4.64258 18.1532 5.81016 18.1532 7.46325V13.6913C18.1532 15.3444 17.1238 16.5129 15.4678 16.5129H5.68348C4.02941 16.5129 3 15.3444 3 13.6913V7.46325C3 5.81016 4.03428 4.64258 5.68348 4.64258H6.91061" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1499 7.48438H18.3202C19.9714 7.48438 20.9998 8.65487 20.9998 10.306V16.5341C20.9998 18.1862 19.9714 19.3557 18.3105 19.3557H17.4229" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.84375 16.5332C5.84375 18.1853 6.87316 19.3548 8.53404 19.3548H13.4223" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.70703 13.5664H6.88823" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5044 10.5779C12.5044 9.5144 11.6423 8.65234 10.5788 8.65234C9.5144 8.65234 8.65234 9.5144 8.65234 10.5779C8.65234 11.6413 9.5144 12.5034 10.5788 12.5034" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4488 7.58984H14.2676" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -527,24 +587,9 @@ class _FinancialMoneyPaperTwotone {
   /// Money paper — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Money paper',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.68843 4.94922H18.3116C20.277 4.94922 21.5 6.33668 21.5 8.30014V15.6986C21.5 17.6621 20.277 19.0495 18.3106 19.0495H6.68843C4.72303 19.0495 3.5 17.6621 3.5 15.6986V8.30014C3.5 6.33668 4.72886 4.94922 6.68843 4.94922Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.71484 15.5488H8.11787" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2858 8.44922H16.8828" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7888 11.9984C14.7888 10.7345 13.7642 9.71094 12.5013 9.71094C11.2374 9.71094 10.2129 10.7345 10.2129 11.9984C10.2129 13.2623 11.2374 14.2859 12.5013 14.2859C13.7642 14.2859 14.7888 13.2623 14.7888 11.9984Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.18348 4.64258H15.9687C17.6238 4.64258 18.6532 5.81016 18.6532 7.46325V13.6913C18.6532 15.3444 17.6238 16.5129 15.9678 16.5129H6.18348C4.52941 16.5129 3.5 15.3444 3.5 13.6913V7.46325C3.5 5.81016 4.53428 4.64258 6.18348 4.64258Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.65 7.48438H18.8203C20.4714 7.48438 21.4999 8.65487 21.4999 10.306V16.5341C21.4999 18.1862 20.4714 19.3557 18.8106 19.3557H9.03404C7.37316 19.3557 6.34375 18.1862 6.34375 16.5341" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.20703 13.5664H7.38823" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0044 10.5779C13.0044 9.5144 12.1423 8.65234 11.0788 8.65234C10.0144 8.65234 9.15234 9.5144 9.15234 10.5779C9.15234 11.6413 10.0144 12.5034 11.0788 12.5034C12.1423 12.5034 13.0044 11.6413 13.0044 10.5779Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.9488 7.58984H14.7676" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Money paper — outline style variants.
-class _FinancialMoneyPaperOutline {
-  const _FinancialMoneyPaperOutline();
-
-  /// Money paper — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Money paper',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.17468 4.92191C3.79578 4.25563 4.67312 3.89288 5.68348 3.89288H15.4687C16.4814 3.89288 17.3594 4.25523 17.9805 4.9222C18.5959 5.58311 18.9032 6.48221 18.9032 7.46355V13.6916C18.9032 14.6729 18.5959 15.5722 17.9804 16.2334C17.3593 16.9006 16.481 17.2632 15.4678 17.2632H5.68348C4.67098 17.2632 3.79322 16.9004 3.1724 16.2332C2.55725 15.5721 2.25 14.6729 2.25 13.6916V7.46355C2.25 6.48128 2.55903 5.58235 3.17468 4.92191ZM4.2719 5.94471C3.95811 6.28133 3.75 6.79273 3.75 7.46355V13.6916C3.75 14.3634 3.95746 14.875 4.27053 15.2114C4.57793 15.5418 5.04192 15.7632 5.68348 15.7632H15.4678C16.1106 15.7632 16.575 15.5416 16.8826 15.2113C17.1958 14.8749 17.4032 14.3634 17.4032 13.6916V7.46355C17.4032 6.79181 17.1958 6.28057 16.8827 5.94442C16.5754 5.61432 16.1111 5.39288 15.4687 5.39288H5.68348C5.04464 5.39288 4.58024 5.61393 4.2719 5.94471Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4 7.48535C17.4 7.07114 17.7358 6.73535 18.15 6.73535H18.3203C19.3321 6.73535 20.2089 7.0992 20.8288 7.76658C21.4429 8.42775 21.7499 9.32667 21.7499 10.307V16.535C21.7499 17.5158 21.4429 18.4152 20.8268 19.0766C20.2051 19.7441 19.3258 20.1067 18.3106 20.1067H8.53404C7.51882 20.1067 6.63937 19.7441 6.01741 19.0768C5.40108 18.4154 5.09375 17.516 5.09375 16.535C5.09375 16.1208 5.42954 15.785 5.84375 15.785C6.25796 15.785 6.59375 16.1208 6.59375 16.535C6.59375 17.2062 6.80113 17.7176 7.11473 18.0541C7.42269 18.3845 7.88838 18.6067 8.53404 18.6067H18.3106C18.9562 18.6067 19.4216 18.3845 19.7292 18.0542C20.0426 17.7178 20.2499 17.2064 20.2499 16.535V10.307C20.2499 9.63618 20.0426 9.12427 19.7297 8.78741C19.4226 8.45675 18.9596 8.23535 18.3203 8.23535H18.15C17.7358 8.23535 17.4 7.89957 17.4 7.48535Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.95703 13.5655C4.95703 13.1513 5.29282 12.8155 5.70703 12.8155H6.88823C7.30244 12.8155 7.63823 13.1513 7.63823 13.5655C7.63823 13.9797 7.30244 14.3155 6.88823 14.3155H5.70703C5.29282 14.3155 4.95703 13.9797 4.95703 13.5655Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.90234 10.5777C7.90234 9.09976 9.10044 7.90216 10.5788 7.90216C12.0565 7.90216 13.2544 9.10001 13.2544 10.5777C13.2544 12.0554 12.0565 13.2532 10.5788 13.2532C9.10044 13.2532 7.90234 12.0556 7.90234 10.5777ZM10.5788 9.40216C9.92837 9.40216 9.40234 9.92868 9.40234 10.5777C9.40234 11.2267 9.92837 11.7532 10.5788 11.7532C11.2281 11.7532 11.7544 11.2269 11.7544 10.5777C11.7544 9.92843 11.2281 9.40216 10.5788 9.40216Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5176 7.58984C13.5176 7.17563 13.8534 6.83984 14.2676 6.83984H15.4488C15.863 6.83984 16.1988 7.17563 16.1988 7.58984C16.1988 8.00406 15.863 8.33984 15.4488 8.33984H14.2676C13.8534 8.33984 13.5176 8.00406 13.5176 7.58984Z" fill="black"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -557,6 +602,80 @@ class _FinancialMoneyPaperBold {
   /// Money paper — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Money paper',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.6712 7.41582C19.5476 7.37295 19.4238 7.46868 19.4238 7.59951V13.4601C19.4238 15.9621 17.6628 17.7801 15.2378 17.7801H5.96936C5.8385 17.7801 5.74275 17.9039 5.78471 18.0278C6.21349 19.2945 7.29819 20.0891 8.76382 20.0891H18.5408C20.4478 20.0891 21.7298 18.7551 21.7298 16.7691V10.5391C21.7298 9.00791 20.9207 7.84912 19.6712 7.41582Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3496 9.16968C9.70161 9.16968 9.17261 9.69868 9.17261 10.3507C9.17261 10.9957 9.70161 11.5207 10.3496 11.5207C10.9966 11.5207 11.5246 10.9957 11.5246 10.3507C11.5246 9.69868 10.9966 9.16968 10.3496 9.16968Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.038 8.11016C13.624 8.11016 13.288 7.77416 13.288 7.36016C13.288 6.94616 13.624 6.61016 14.038 6.61016H15.22C15.634 6.61016 15.97 6.94616 15.97 7.36016C15.97 7.77416 15.634 8.11016 15.22 8.11016H14.038ZM10.35 13.0202C8.87402 13.0202 7.67302 11.8232 7.67302 10.3502C7.67302 8.87216 8.87402 7.67016 10.35 7.67016C11.824 7.67016 13.024 8.87216 13.024 10.3502C13.024 11.8232 11.824 13.0202 10.35 13.0202ZM6.65802 14.0892H5.47702C5.06302 14.0892 4.72702 13.7542 4.72702 13.3392C4.72702 12.9252 5.06302 12.5892 5.47702 12.5892H6.65802C7.07202 12.5892 7.40802 12.9252 7.40802 13.3392C7.40802 13.7542 7.07202 14.0892 6.65802 14.0892ZM18.424 13.4602V7.23016C18.424 5.24416 17.144 3.91016 15.239 3.91016H5.45302C3.57902 3.91016 2.27002 5.27516 2.27002 7.23016V13.4602C2.27002 15.4152 3.57902 16.7802 5.45302 16.7802H15.238C17.143 16.7802 18.424 15.4462 18.424 13.4602Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 1 icon with style variants.
+class _FinancialMoneyPaper1Icon {
+  const _FinancialMoneyPaper1Icon();
+
+  /// bold style
+  _FinancialMoneyPaper1Bold get bold => const _FinancialMoneyPaper1Bold();
+  /// bulk style
+  _FinancialMoneyPaper1Bulk get bulk => const _FinancialMoneyPaper1Bulk();
+  /// twoTone style
+  _FinancialMoneyPaper1Twotone get twoTone => const _FinancialMoneyPaper1Twotone();
+  /// broken style
+  _FinancialMoneyPaper1Broken get broken => const _FinancialMoneyPaper1Broken();
+}
+
+/// Money paper 1 — bulk style variants.
+class _FinancialMoneyPaper1Bulk {
+  const _FinancialMoneyPaper1Bulk();
+
+  /// Money paper 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.812 4.44922H6.188C3.982 4.44922 2.5 5.99622 2.5 8.29922V15.6992C2.5 18.0022 3.982 19.5492 6.188 19.5492H17.811C20.018 19.5492 21.5 18.0022 21.5 15.6992V8.29922C21.5 5.99622 20.018 4.44922 17.812 4.44922Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.3828 9.19922H17.7858C18.1998 9.19922 18.5358 8.86322 18.5358 8.44922C18.5358 8.03522 18.1998 7.69922 17.7858 7.69922H16.3828C15.9688 7.69922 15.6328 8.03522 15.6328 8.44922C15.6328 8.86322 15.9688 9.19922 16.3828 9.19922ZM8.96284 11.9992C8.96284 13.6762 10.3258 15.0392 12.0008 15.0392C13.6758 15.0392 15.0388 13.6762 15.0388 11.9992C15.0388 10.3222 13.6758 8.95922 12.0008 8.95922C10.3258 8.95922 8.96284 10.3222 8.96284 11.9992ZM6.21484 16.2992H7.61784C8.03184 16.2992 8.36784 15.9632 8.36784 15.5492C8.36784 15.1352 8.03184 14.7992 7.61784 14.7992H6.21484C5.80084 14.7992 5.46484 15.1352 5.46484 15.5492C5.46484 15.9632 5.80084 16.2992 6.21484 16.2992ZM10.4627 11.999C10.4627 11.149 11.1527 10.459 12.0007 10.459C12.8487 10.459 13.5387 11.149 13.5387 11.999C13.5387 12.849 12.8487 13.539 12.0007 13.539C11.1527 13.539 10.4627 12.849 10.4627 11.999Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 1 — broken style variants.
+class _FinancialMoneyPaper1Broken {
+  const _FinancialMoneyPaper1Broken();
+
+  /// Money paper 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 19.0495H6.18843C4.22886 19.0495 3 17.6621 3 15.6986V8.30014C3 6.33668 4.22303 4.94922 6.18843 4.94922H17.8106C19.777 4.94922 21 6.33668 21 8.30014V15.6986C21 17.6621 19.777 19.0495 17.8116 19.0495H14.9058" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.21484 15.5488H7.61787" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7858 8.44922H16.3828" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0013 9.71094C10.7374 9.71094 9.71289 10.7345 9.71289 11.9984C9.71289 13.2623 10.7374 14.2859 12.0013 14.2859C13.2642 14.2859 14.2888 13.2623 14.2888 11.9984C14.2888 11.6311 14.2023 11.2841 14.0485 10.9766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 1 — twoTone style variants.
+class _FinancialMoneyPaper1Twotone {
+  const _FinancialMoneyPaper1Twotone();
+
+  /// Money paper 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.68843 4.94922H18.3116C20.277 4.94922 21.5 6.33668 21.5 8.30014V15.6986C21.5 17.6621 20.277 19.0495 18.3106 19.0495H6.68843C4.72303 19.0495 3.5 17.6621 3.5 15.6986V8.30014C3.5 6.33668 4.72886 4.94922 6.68843 4.94922Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.71484 15.5488H8.11787" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2858 8.44922H16.8828" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7888 11.9984C14.7888 10.7345 13.7642 9.71094 12.5013 9.71094C11.2374 9.71094 10.2129 10.7345 10.2129 11.9984C10.2129 13.2623 11.2374 14.2859 12.5013 14.2859C13.7642 14.2859 14.7888 13.2623 14.7888 11.9984Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 1 — bold style variants.
+class _FinancialMoneyPaper1Bold {
+  const _FinancialMoneyPaper1Bold();
+
+  /// Money paper 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.786 9.19922H16.383C15.969 9.19922 15.633 8.86322 15.633 8.44922C15.633 8.03522 15.969 7.69922 16.383 7.69922H17.786C18.2 7.69922 18.536 8.03522 18.536 8.44922C18.536 8.86322 18.2 9.19922 17.786 9.19922ZM12.001 15.0392C10.326 15.0392 8.963 13.6762 8.963 11.9992C8.963 10.3222 10.326 8.95922 12.001 8.95922C13.676 8.95922 15.039 10.3222 15.039 11.9992C15.039 13.6762 13.676 15.0392 12.001 15.0392ZM7.618 16.2992H6.215C5.801 16.2992 5.465 15.9632 5.465 15.5492C5.465 15.1352 5.801 14.7992 6.215 14.7992H7.618C8.032 14.7992 8.368 15.1352 8.368 15.5492C8.368 15.9632 8.032 16.2992 7.618 16.2992ZM17.812 4.44922H6.188C3.982 4.44922 2.5 5.99622 2.5 8.29922V15.6992C2.5 18.0022 3.982 19.5492 6.188 19.5492H17.811C20.017 19.5492 21.5 18.0022 21.5 15.6992V8.29922C21.5 5.99622 20.018 4.44922 17.812 4.44922Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0009 10.459C11.1529 10.459 10.4629 11.149 10.4629 11.999C10.4629 12.849 11.1529 13.539 12.0009 13.539C12.8489 13.539 13.5389 12.849 13.5389 11.999C13.5389 11.149 12.8489 10.459 12.0009 10.459Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bold,
@@ -565,16 +684,297 @@ class _FinancialMoneyPaperBold {
 
 }
 
-/// Money paper — light style variants.
-class _FinancialMoneyPaperLight {
-  const _FinancialMoneyPaperLight();
+/// Money paper 2 icon with style variants.
+class _FinancialMoneyPaper2Icon {
+  const _FinancialMoneyPaper2Icon();
 
-  /// Money paper — light / regular
+  /// bold style
+  _FinancialMoneyPaper2Bold get bold => const _FinancialMoneyPaper2Bold();
+  /// bulk style
+  _FinancialMoneyPaper2Bulk get bulk => const _FinancialMoneyPaper2Bulk();
+  /// twoTone style
+  _FinancialMoneyPaper2Twotone get twoTone => const _FinancialMoneyPaper2Twotone();
+  /// broken style
+  _FinancialMoneyPaper2Broken get broken => const _FinancialMoneyPaper2Broken();
+}
+
+/// Money paper 2 — bulk style variants.
+class _FinancialMoneyPaper2Bulk {
+  const _FinancialMoneyPaper2Bulk();
+
+  /// Money paper 2 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Money paper',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.68348 4.64288H15.4687C17.1238 4.64288 18.1532 5.81046 18.1532 7.46355V13.6916C18.1532 15.3447 17.1238 16.5132 15.4678 16.5132H5.68348C4.02941 16.5132 3 15.3447 3 13.6916V7.46355C3 5.81046 4.03428 4.64288 5.68348 4.64288Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.15 7.48535H18.3203C19.9714 7.48535 20.9999 8.65585 20.9999 10.307V16.535C20.9999 18.1872 19.9714 19.3567 18.3106 19.3567H8.53404C6.87316 19.3567 5.84375 18.1872 5.84375 16.535" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.70703 13.5655H6.88823" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5044 10.5777C12.5044 9.51422 11.6423 8.65216 10.5788 8.65216C9.5144 8.65216 8.65234 9.51422 8.65234 10.5777C8.65234 11.6412 9.5144 12.5032 10.5788 12.5032C11.6423 12.5032 12.5044 11.6412 12.5044 10.5777Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4488 7.58984H14.2676" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    name: 'Money paper 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.812 4.44922H6.188C3.982 4.44922 2.5 5.99622 2.5 8.29922V15.6992C2.5 18.0022 3.982 19.5492 6.188 19.5492H17.811C20.018 19.5492 21.5 18.0022 21.5 15.6992V8.29922C21.5 5.99622 20.018 4.44922 17.812 4.44922Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5712 8.70922C16.5712 9.12322 16.9072 9.45422 17.3212 9.45422C17.7352 9.45422 18.0712 9.11322 18.0712 8.69922C18.0712 8.28522 17.7352 7.94922 17.3212 7.94922C16.9072 7.94922 16.5712 8.28522 16.5712 8.69922V8.70922ZM8.9632 11.9992C8.9632 13.6762 10.3262 15.0392 12.0012 15.0392C13.6762 15.0392 15.0392 13.6762 15.0392 11.9992C15.0392 10.3222 13.6762 8.95922 12.0012 8.95922C10.3262 8.95922 8.9632 10.3222 8.9632 11.9992ZM5.9292 15.2992C5.9292 15.7132 6.2652 16.0442 6.6792 16.0442C7.0932 16.0442 7.4292 15.7032 7.4292 15.2892C7.4292 14.8752 7.0932 14.5392 6.6792 14.5392C6.2652 14.5392 5.9292 14.8752 5.9292 15.2892V15.2992ZM10.4635 11.9992C10.4635 11.1492 11.1535 10.4592 12.0015 10.4592C12.8495 10.4592 13.5395 11.1492 13.5395 11.9992C13.5395 12.8492 12.8495 13.5392 12.0015 13.5392C11.1535 13.5392 10.4635 12.8492 10.4635 11.9992Z" fill="black"/> </svg>',
     category: 'Financial',
-    style: IconfyStyle.light,
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 2 — broken style variants.
+class _FinancialMoneyPaper2Broken {
+  const _FinancialMoneyPaper2Broken();
+
+  /// Money paper 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.67871 15.303V15.293" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3213 8.70922V8.69922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 19.0495H6.18843C4.22886 19.0495 3 17.6621 3 15.6986V8.30014C3 6.33668 4.22303 4.94922 6.18843 4.94922H17.8106C19.777 4.94922 21 6.33668 21 8.30014V15.6986C21 17.6621 19.777 19.0495 17.8116 19.0495H14.9058" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0003 9.71094C13.2642 9.71094 14.2888 10.7345 14.2888 11.9984C14.2888 13.2623 13.2642 14.2859 12.0003 14.2859C10.7374 14.2859 9.71289 13.2623 9.71289 11.9984C9.71289 11.6311 9.79941 11.2841 9.95316 10.9766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 2 — twoTone style variants.
+class _FinancialMoneyPaper2Twotone {
+  const _FinancialMoneyPaper2Twotone();
+
+  /// Money paper 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.68843 4.94922H18.3116C20.277 4.94922 21.5 6.33668 21.5 8.30014V15.6986C21.5 17.6621 20.277 19.0495 18.3106 19.0495H6.68843C4.72303 19.0495 3.5 17.6621 3.5 15.6986V8.30014C3.5 6.33668 4.72886 4.94922 6.68843 4.94922Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.17871 15.303V15.293" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.8213 8.70922V8.69922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7888 12.0003C14.7888 10.7365 13.7642 9.71289 12.5013 9.71289C11.2374 9.71289 10.2129 10.7365 10.2129 12.0003C10.2129 13.2642 11.2374 14.2878 12.5013 14.2878C13.7642 14.2878 14.7888 13.2642 14.7888 12.0003Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 2 — bold style variants.
+class _FinancialMoneyPaper2Bold {
+  const _FinancialMoneyPaper2Bold();
+
+  /// Money paper 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.321 9.45422C16.907 9.45422 16.571 9.12322 16.571 8.70922V8.69922C16.571 8.28522 16.907 7.94922 17.321 7.94922C17.735 7.94922 18.071 8.28522 18.071 8.69922C18.071 9.11322 17.735 9.45422 17.321 9.45422ZM12.001 15.0392C10.326 15.0392 8.963 13.6762 8.963 11.9992C8.963 10.3222 10.326 8.95922 12.001 8.95922C13.676 8.95922 15.039 10.3222 15.039 11.9992C15.039 13.6762 13.676 15.0392 12.001 15.0392ZM6.679 16.0442C6.265 16.0442 5.929 15.7132 5.929 15.2992V15.2892C5.929 14.8752 6.265 14.5392 6.679 14.5392C7.093 14.5392 7.429 14.8752 7.429 15.2892C7.429 15.7032 7.093 16.0442 6.679 16.0442ZM17.812 4.44922H6.188C3.982 4.44922 2.5 5.99622 2.5 8.29922V15.6992C2.5 18.0022 3.982 19.5492 6.188 19.5492H17.811C20.018 19.5492 21.5 18.0022 21.5 15.6992V8.29922C21.5 5.99622 20.018 4.44922 17.812 4.44922Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0013 10.4592C11.1533 10.4592 10.4633 11.1492 10.4633 11.9992C10.4633 12.8492 11.1533 13.5392 12.0013 13.5392C12.8493 13.5392 13.5393 12.8492 13.5393 11.9992C13.5393 11.1492 12.8493 10.4592 12.0013 10.4592Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 3 icon with style variants.
+class _FinancialMoneyPaper3Icon {
+  const _FinancialMoneyPaper3Icon();
+
+  /// bold style
+  _FinancialMoneyPaper3Bold get bold => const _FinancialMoneyPaper3Bold();
+  /// bulk style
+  _FinancialMoneyPaper3Bulk get bulk => const _FinancialMoneyPaper3Bulk();
+  /// twoTone style
+  _FinancialMoneyPaper3Twotone get twoTone => const _FinancialMoneyPaper3Twotone();
+  /// broken style
+  _FinancialMoneyPaper3Broken get broken => const _FinancialMoneyPaper3Broken();
+}
+
+/// Money paper 3 — bulk style variants.
+class _FinancialMoneyPaper3Bulk {
+  const _FinancialMoneyPaper3Bulk();
+
+  /// Money paper 3 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.812 4.44922H6.188C3.982 4.44922 2.5 5.99622 2.5 8.29922V15.6992C2.5 18.0022 3.982 19.5492 6.188 19.5492H17.811C20.018 19.5492 21.5 18.0022 21.5 15.6992V8.29922C21.5 5.99622 20.018 4.44922 17.812 4.44922Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5719 12.0109C16.5719 12.4249 16.9079 12.7559 17.3219 12.7559C17.7359 12.7559 18.0719 12.4149 18.0719 12.0009C18.0719 11.5869 17.7359 11.2509 17.3219 11.2509C16.9079 11.2509 16.5719 11.5869 16.5719 12.0009V12.0109ZM8.96293 12.0009C8.96293 13.6779 10.3259 15.0409 12.0009 15.0409C13.6759 15.0409 15.0389 13.6779 15.0389 12.0009C15.0389 10.3239 13.6759 8.96094 12.0009 8.96094C10.3259 8.96094 8.96293 10.3239 8.96293 12.0009ZM5.92993 12.0109C5.92993 12.4249 6.26593 12.7559 6.67993 12.7559C7.09393 12.7559 7.42993 12.4149 7.42993 12.0009C7.42993 11.5869 7.09393 11.2509 6.67993 11.2509C6.26593 11.2509 5.92993 11.5869 5.92993 12.0009V12.0109ZM10.4632 12.0012C10.4632 11.1512 11.1532 10.4612 12.0012 10.4612C12.8492 10.4612 13.5392 11.1512 13.5392 12.0012C13.5392 12.8512 12.8492 13.5412 12.0012 13.5412C11.1532 13.5412 10.4632 12.8512 10.4632 12.0012Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 3 — broken style variants.
+class _FinancialMoneyPaper3Broken {
+  const _FinancialMoneyPaper3Broken();
+
+  /// Money paper 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.67969 12.0061V11.9961" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3223 12.0061V11.9961" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 19.0495H6.18843C4.22886 19.0495 3 17.6621 3 15.6986V8.30014C3 6.33668 4.22303 4.94922 6.18843 4.94922H17.8106C19.777 4.94922 21 6.33668 21 8.30014V15.6986C21 17.6621 19.777 19.0495 17.8116 19.0495H14.9058" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0013 9.71094C10.7374 9.71094 9.71289 10.7345 9.71289 11.9984C9.71289 13.2623 10.7374 14.2859 12.0013 14.2859C13.2642 14.2859 14.2888 13.2623 14.2888 11.9984C14.2888 11.6311 14.2023 11.2841 14.0485 10.9766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 3 — twoTone style variants.
+class _FinancialMoneyPaper3Twotone {
+  const _FinancialMoneyPaper3Twotone();
+
+  /// Money paper 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.68843 4.94922H18.3116C20.277 4.94922 21.5 6.33668 21.5 8.30014V15.6986C21.5 17.6621 20.277 19.0495 18.3106 19.0495H6.68843C4.72303 19.0495 3.5 17.6621 3.5 15.6986V8.30014C3.5 6.33668 4.72886 4.94922 6.68843 4.94922Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7888 12.0003C14.7888 10.7365 13.7642 9.71289 12.5013 9.71289C11.2374 9.71289 10.2129 10.7365 10.2129 12.0003C10.2129 13.2642 11.2374 14.2878 12.5013 14.2878C13.7642 14.2878 14.7888 13.2642 14.7888 12.0003Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.17969 12.0061V11.9961" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.8223 12.0061V11.9961" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 3 — bold style variants.
+class _FinancialMoneyPaper3Bold {
+  const _FinancialMoneyPaper3Bold();
+
+  /// Money paper 3 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0013 10.4595C11.1533 10.4595 10.4633 11.1495 10.4633 11.9995C10.4633 12.8495 11.1533 13.5395 12.0013 13.5395C12.8493 13.5395 13.5393 12.8495 13.5393 11.9995C13.5393 11.1495 12.8493 10.4595 12.0013 10.4595Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.322 12.7542C16.908 12.7542 16.572 12.4232 16.572 12.0092V11.9992C16.572 11.5852 16.908 11.2492 17.322 11.2492C17.736 11.2492 18.072 11.5852 18.072 11.9992C18.072 12.4132 17.736 12.7542 17.322 12.7542ZM12.001 15.0392C10.326 15.0392 8.963 13.6762 8.963 11.9992C8.963 10.3222 10.326 8.95922 12.001 8.95922C13.676 8.95922 15.039 10.3222 15.039 11.9992C15.039 13.6762 13.676 15.0392 12.001 15.0392ZM6.68 12.7542C6.266 12.7542 5.93 12.4232 5.93 12.0092V11.9992C5.93 11.5852 6.266 11.2492 6.68 11.2492C7.094 11.2492 7.43 11.5852 7.43 11.9992C7.43 12.4132 7.094 12.7542 6.68 12.7542ZM17.812 4.44922H6.188C3.982 4.44922 2.5 5.99622 2.5 8.29922V15.6992C2.5 18.0022 3.982 19.5492 6.188 19.5492H17.811C20.018 19.5492 21.5 18.0022 21.5 15.6992V8.29922C21.5 5.99622 20.018 4.44922 17.812 4.44922Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 4 icon with style variants.
+class _FinancialMoneyPaper4Icon {
+  const _FinancialMoneyPaper4Icon();
+
+  /// bold style
+  _FinancialMoneyPaper4Bold get bold => const _FinancialMoneyPaper4Bold();
+  /// bulk style
+  _FinancialMoneyPaper4Bulk get bulk => const _FinancialMoneyPaper4Bulk();
+  /// twoTone style
+  _FinancialMoneyPaper4Twotone get twoTone => const _FinancialMoneyPaper4Twotone();
+  /// broken style
+  _FinancialMoneyPaper4Broken get broken => const _FinancialMoneyPaper4Broken();
+}
+
+/// Money paper 4 — bulk style variants.
+class _FinancialMoneyPaper4Bulk {
+  const _FinancialMoneyPaper4Bulk();
+
+  /// Money paper 4 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.812 4.44922H6.188C3.982 4.44922 2.5 5.99622 2.5 8.29922V15.6992C2.5 18.0022 3.982 19.5492 6.188 19.5492H17.811C20.018 19.5492 21.5 18.0022 21.5 15.6992V8.29922C21.5 5.99622 20.018 4.44922 17.812 4.44922Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9991 15.0409C10.3241 15.0409 8.96106 13.6779 8.96106 12.0009C8.96106 10.3239 10.3241 8.96094 11.9991 8.96094C13.6741 8.96094 15.0371 10.3239 15.0371 12.0009C15.0371 13.6779 13.6741 15.0409 11.9991 15.0409ZM10.4611 12.0007C10.4611 11.1507 11.1511 10.4607 11.9991 10.4607C12.8471 10.4607 13.5371 11.1507 13.5371 12.0007C13.5371 12.8507 12.8471 13.5407 11.9991 13.5407C11.1511 13.5407 10.4611 12.8507 10.4611 12.0007Z" fill="black"/> <path d="M7.41406 12.7009C7.41406 13.1149 7.07806 13.4509 6.66406 13.4509C6.25006 13.4509 5.91406 13.1149 5.91406 12.7009V11.3009C5.91406 10.8869 6.25006 10.5509 6.66406 10.5509C7.07806 10.5509 7.41406 10.8869 7.41406 11.3009V12.7009Z" fill="black"/> <path d="M18.0861 12.7009C18.0861 13.1149 17.7501 13.4509 17.3361 13.4509C16.9221 13.4509 16.5861 13.1149 16.5861 12.7009V11.3009C16.5861 10.8869 16.9221 10.5509 17.3361 10.5509C17.7501 10.5509 18.0861 10.8869 18.0861 11.3009V12.7009Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 4 — broken style variants.
+class _FinancialMoneyPaper4Broken {
+  const _FinancialMoneyPaper4Broken();
+
+  /// Money paper 4 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.66406 11.2988V12.7019" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3359 12.7019V11.2988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 19.0495H6.18843C4.22886 19.0495 3 17.6621 3 15.6986V8.30014C3 6.33668 4.22303 4.94922 6.18843 4.94922H17.8106C19.777 4.94922 21 6.33668 21 8.30014V15.6986C21 17.6621 19.777 19.0495 17.8116 19.0495H14.9058" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0013 9.71094C10.7374 9.71094 9.71289 10.7345 9.71289 11.9984C9.71289 13.2623 10.7374 14.2859 12.0013 14.2859C13.2642 14.2859 14.2888 13.2623 14.2888 11.9984C14.2888 11.6311 14.2023 11.2841 14.0485 10.9766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 4 — twoTone style variants.
+class _FinancialMoneyPaper4Twotone {
+  const _FinancialMoneyPaper4Twotone();
+
+  /// Money paper 4 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.68843 4.94922H18.3116C20.277 4.94922 21.5 6.33668 21.5 8.30014V15.6986C21.5 17.6621 20.277 19.0495 18.3106 19.0495H6.68843C4.72303 19.0495 3.5 17.6621 3.5 15.6986V8.30014C3.5 6.33668 4.72886 4.94922 6.68843 4.94922Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.16406 11.2988V12.7019" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.8359 12.7019V11.2988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7868 12.0003C14.7868 10.7365 13.7623 9.71289 12.4994 9.71289C11.2355 9.71289 10.2109 10.7365 10.2109 12.0003C10.2109 13.2642 11.2355 14.2878 12.4994 14.2878C13.7623 14.2878 14.7868 13.2642 14.7868 12.0003Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 4 — bold style variants.
+class _FinancialMoneyPaper4Bold {
+  const _FinancialMoneyPaper4Bold();
+
+  /// Money paper 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9991 10.459C11.1511 10.459 10.4611 11.149 10.4611 11.999C10.4611 12.849 11.1511 13.539 11.9991 13.539C12.8471 13.539 13.5371 12.849 13.5371 11.999C13.5371 11.149 12.8471 10.459 11.9991 10.459Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.086 12.6992C18.086 13.1132 17.75 13.4492 17.336 13.4492C16.922 13.4492 16.586 13.1132 16.586 12.6992V11.2992C16.586 10.8852 16.922 10.5492 17.336 10.5492C17.75 10.5492 18.086 10.8852 18.086 11.2992V12.6992ZM11.999 15.0392C10.324 15.0392 8.961 13.6762 8.961 11.9992C8.961 10.3222 10.324 8.95922 11.999 8.95922C13.674 8.95922 15.037 10.3222 15.037 11.9992C15.037 13.6762 13.674 15.0392 11.999 15.0392ZM7.414 12.6992C7.414 13.1132 7.078 13.4492 6.664 13.4492C6.25 13.4492 5.914 13.1132 5.914 12.6992V11.2992C5.914 10.8852 6.25 10.5492 6.664 10.5492C7.078 10.5492 7.414 10.8852 7.414 11.2992V12.6992ZM17.812 4.44922H6.188C3.982 4.44922 2.5 5.99622 2.5 8.29922V15.6992C2.5 18.0022 3.982 19.5492 6.188 19.5492H17.811C20.018 19.5492 21.5 18.0022 21.5 15.6992V8.29922C21.5 5.99622 20.018 4.44922 17.812 4.44922Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 5 icon with style variants.
+class _FinancialMoneyPaper5Icon {
+  const _FinancialMoneyPaper5Icon();
+
+  /// bold style
+  _FinancialMoneyPaper5Bold get bold => const _FinancialMoneyPaper5Bold();
+  /// bulk style
+  _FinancialMoneyPaper5Bulk get bulk => const _FinancialMoneyPaper5Bulk();
+  /// twoTone style
+  _FinancialMoneyPaper5Twotone get twoTone => const _FinancialMoneyPaper5Twotone();
+  /// broken style
+  _FinancialMoneyPaper5Broken get broken => const _FinancialMoneyPaper5Broken();
+}
+
+/// Money paper 5 — bulk style variants.
+class _FinancialMoneyPaper5Bulk {
+  const _FinancialMoneyPaper5Bulk();
+
+  /// Money paper 5 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.4985 13.7552V10.2576L21.4961 8.14248C21.4954 8.11901 21.4946 8.09554 21.4936 8.07207C21.4056 6.0571 20.1434 4.68015 18.2636 4.48726L16.1062 4.44922H7.8887L5.73228 4.48755C3.85936 4.68193 2.60091 6.05167 2.50753 8.05734C2.50617 8.08656 2.50514 8.11578 2.50436 8.145L2.50146 10.2593V13.7522L2.50358 15.8304C2.55519 17.8987 3.82732 19.3158 5.73634 19.5117L7.88713 19.5492H16.106L18.2576 19.5121C20.1401 19.3213 21.4042 17.9452 21.4935 15.9296C21.4944 15.9085 21.4952 15.8875 21.4958 15.8664L21.4985 13.7552Z" fill="black"/> <path d="M6.31546 15.3662C5.38446 14.4306 4.12112 13.9746 2.84648 14.0622C2.66396 14.0747 2.50146 13.9351 2.50146 13.7522L2.50357 15.8184C2.50625 15.7018 2.59044 15.6015 2.70685 15.584C3.63345 15.4451 4.57515 15.7444 5.25495 16.427C6.02154 17.1908 6.30307 18.2744 6.02766 19.3127C5.99746 19.4266 5.89784 19.5048 5.78362 19.5125L7.87634 19.549C7.68939 19.5425 7.55292 19.3668 7.57932 19.1798C7.77508 17.7932 7.3218 16.3698 6.31546 15.3662Z" fill="black"/> <path d="M6.31846 8.64222C7.33243 7.61909 7.78326 6.19504 7.58081 4.82162C7.55311 4.63373 7.68973 4.45611 7.87769 4.44941L5.78002 4.4867C5.89233 4.49439 5.99072 4.57015 6.02192 4.68165C6.30637 5.69831 6.02049 6.8112 5.25495 7.58421C4.58398 8.25703 3.65631 8.55541 2.73941 8.42867C2.60474 8.41005 2.50758 8.29433 2.50434 8.15969L2.50146 10.2593C2.50146 10.0767 2.66327 9.93778 2.84536 9.95195C2.94655 9.95982 3.04762 9.96422 3.14846 9.96422C4.31946 9.96422 5.45846 9.50322 6.31846 8.64222Z" fill="black"/> <path d="M20.8535 9.96222C20.9534 9.96222 21.0538 9.95785 21.1544 9.95004C21.3365 9.93589 21.4985 10.0749 21.4985 10.2576L21.4961 8.15769C21.4927 8.29234 21.3952 8.40791 21.2604 8.4263C20.3433 8.55148 19.4185 8.25409 18.7495 7.58321C17.9772 6.81189 17.6884 5.69791 17.9744 4.68096C18.0057 4.56959 18.1041 4.49402 18.2164 4.48643L16.1171 4.44941C16.3051 4.45606 16.4418 4.63375 16.4141 4.82168C16.2114 6.19774 16.6669 7.62268 17.6875 8.64322C18.5445 9.50222 19.6835 9.96222 20.8535 9.96222Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0005 15.0392C10.3255 15.0392 8.96346 13.6762 8.96346 11.9992C8.96346 10.3222 10.3255 8.95922 12.0005 8.95922C13.6755 8.95922 15.0385 10.3222 15.0385 11.9992C15.0385 13.6762 13.6755 15.0392 12.0005 15.0392ZM10.4635 11.9992C10.4635 11.1492 11.1525 10.4592 12.0005 10.4592C12.8485 10.4592 13.5385 11.1492 13.5385 11.9992C13.5385 12.8492 12.8485 13.5392 12.0005 13.5392C11.1525 13.5392 10.4635 12.8492 10.4635 11.9992Z" fill="black"/> <path d="M17.6915 15.3622C16.6757 16.3651 16.2183 17.7898 16.4138 19.18C16.4401 19.3669 16.3036 19.5426 16.1167 19.549L18.211 19.5129C18.0967 19.5052 17.9971 19.4272 17.9667 19.3134C17.6897 18.2741 17.9744 17.1909 18.7495 16.425C19.4177 15.7542 20.3449 15.4568 21.2609 15.5827C21.3951 15.6012 21.4922 15.7161 21.4958 15.85L21.4985 13.7552C21.4985 13.9381 21.336 14.0777 21.1535 14.0651C19.8791 13.9773 18.6179 14.4312 17.6915 15.3622Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 5 — broken style variants.
+class _FinancialMoneyPaper5Broken {
+  const _FinancialMoneyPaper5Broken();
+
+  /// Money paper 5 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.8032 19.0502C16.3624 17.8534 16.6144 16.4582 17.5864 15.4959C18.5127 14.5687 19.8272 14.2991 20.9967 14.6767" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 14.6767C4.16076 14.2991 5.49277 14.5687 6.41904 15.4959C7.38229 16.4582 7.63429 17.8534 7.19353 19.0502" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.18477 4.94922C7.64402 6.13722 7.38229 7.54123 6.42001 8.51226C5.49277 9.43951 4.16173 9.70902 3 9.33151" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.8135 4.94922C16.3543 6.13722 16.616 7.54123 17.587 8.51226C18.5143 9.43951 19.8278 9.70902 20.9983 9.33151" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 4.94922H6.18843C4.22886 4.94922 3 6.33668 3 8.30014V15.6986C3 17.6621 4.22303 19.0495 6.18843 19.0495H17.8106C19.777 19.0495 21 17.6621 21 15.6986V8.30014C21 6.33668 19.777 4.94922 17.8116 4.94922H14.9058" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0013 14.2859C10.7374 14.2859 9.71289 13.2623 9.71289 11.9984C9.71289 10.7345 10.7374 9.71094 12.0013 9.71094C13.2642 9.71094 14.2888 10.7345 14.2888 11.9984C14.2888 12.3657 14.2023 12.7127 14.0485 13.0202" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 5 — twoTone style variants.
+class _FinancialMoneyPaper5Twotone {
+  const _FinancialMoneyPaper5Twotone();
+
+  /// Money paper 5 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.6904 4.95312H18.3116C20.277 4.95312 21.5001 6.34059 21.5001 8.30308V15.7006C21.5001 17.6641 20.277 19.0506 18.3107 19.0506H6.6904C4.72499 19.0506 3.50293 17.6641 3.50293 15.7006V8.30308C3.50293 6.34059 4.73083 4.95312 6.6904 4.95312Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.3032 19.0502C16.8624 17.8534 17.1144 16.4582 18.0864 15.4959C19.0127 14.5687 20.3272 14.2991 21.4967 14.6767" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.5 14.6767C4.66076 14.2991 5.99277 14.5687 6.91904 15.4959C7.88229 16.4582 8.13429 17.8534 7.69353 19.0502" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.68477 4.94922C8.14402 6.13722 7.88229 7.54123 6.92001 8.51226C5.99277 9.43951 4.66173 9.70902 3.5 9.33151" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.3135 4.94922C16.8543 6.13722 17.116 7.54123 18.087 8.51226C19.0143 9.43951 20.3278 9.70902 21.4983 9.33151" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7898 12.0023C14.7898 10.7394 13.7652 9.71484 12.5023 9.71484C11.2394 9.71484 10.2148 10.7394 10.2148 12.0023C10.2148 13.2652 11.2394 14.2898 12.5023 14.2898C13.7652 14.2898 14.7898 13.2652 14.7898 12.0023Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 5 — bold style variants.
+class _FinancialMoneyPaper5Bold {
+  const _FinancialMoneyPaper5Bold();
+
+  /// Money paper 5 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0005 15.0392C10.3255 15.0392 8.96346 13.6762 8.96346 11.9992C8.96346 10.3222 10.3255 8.95922 12.0005 8.95922C13.6755 8.95922 15.0385 10.3222 15.0385 11.9992C15.0385 13.6762 13.6755 15.0392 12.0005 15.0392ZM21.1535 14.0651C21.336 14.0777 21.4985 13.9381 21.4985 13.7552V10.2576C21.4985 10.0749 21.3365 9.93589 21.1544 9.95004C21.0538 9.95785 20.9534 9.96222 20.8535 9.96222C19.6835 9.96222 18.5445 9.50222 17.6875 8.64322C16.6669 7.62268 16.2114 6.19774 16.4141 4.82168C16.4423 4.63013 16.2998 4.44922 16.1062 4.44922H7.8887C7.6951 4.44922 7.55257 4.63009 7.58081 4.82162C7.78326 6.19504 7.33243 7.61909 6.31846 8.64222C5.45846 9.50322 4.31946 9.96422 3.14846 9.96422C3.04762 9.96422 2.94655 9.95982 2.84536 9.95195C2.66327 9.93778 2.50146 10.0767 2.50146 10.2593V13.7522C2.50146 13.9351 2.66396 14.0747 2.84648 14.0622C4.12112 13.9746 5.38446 14.4306 6.31546 15.3662C7.3218 16.3698 7.77508 17.7932 7.57932 19.1798C7.55241 19.3704 7.69467 19.5492 7.88713 19.5492H16.106C16.2984 19.5492 16.4406 19.3705 16.4138 19.18C16.2183 17.7898 16.6757 16.3651 17.6915 15.3622C18.6179 14.4312 19.8791 13.9773 21.1535 14.0651Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7495 7.58321C19.4185 8.25409 20.3433 8.55148 21.2604 8.4263C21.4003 8.40722 21.4999 8.28354 21.4961 8.14248C21.4954 8.11901 21.4946 8.09554 21.4936 8.07207C21.4056 6.0571 20.1434 4.68015 18.2636 4.48726C18.1326 4.47382 18.01 4.55421 17.9744 4.68096C17.6884 5.69791 17.9772 6.81189 18.7495 7.58321Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0005 10.4592C11.1525 10.4592 10.4635 11.1492 10.4635 11.9992C10.4635 12.8492 11.1525 13.5392 12.0005 13.5392C12.8485 13.5392 13.5385 12.8492 13.5385 11.9992C13.5385 11.1492 12.8485 10.4592 12.0005 10.4592Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.25495 16.427C4.57515 15.7444 3.63345 15.4451 2.70685 15.584C2.58647 15.6021 2.50055 15.7087 2.50358 15.8304C2.55519 17.8987 3.82732 19.3158 5.73634 19.5117C5.86946 19.5254 5.99335 19.4421 6.02766 19.3127C6.30307 18.2744 6.02154 17.1908 5.25495 16.427Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7495 16.425C17.9744 17.1909 17.6897 18.2741 17.9667 19.3134C18.0011 19.4424 18.1248 19.5255 18.2576 19.5121C20.1401 19.3213 21.4042 17.9452 21.4935 15.9296C21.4944 15.9085 21.4952 15.8875 21.4958 15.8664C21.5 15.7255 21.4005 15.6019 21.2609 15.5827C20.3449 15.4568 19.4177 15.7542 18.7495 16.425Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.25495 7.58421C6.02049 6.8112 6.30637 5.69831 6.02192 4.68165C5.98636 4.55457 5.86353 4.47393 5.73228 4.48755C3.85936 4.68193 2.60091 6.05167 2.50753 8.05734C2.50617 8.08656 2.50514 8.11578 2.50436 8.145C2.50059 8.28583 2.59986 8.40938 2.73941 8.42867C3.65631 8.55541 4.58398 8.25703 5.25495 7.58421Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
     type: IconfyType.regular,
   );
 
@@ -696,10 +1096,6 @@ class _FinancialCoinSwapIcon {
   _FinancialCoinSwapBold get bold => const _FinancialCoinSwapBold();
   /// bulk style
   _FinancialCoinSwapBulk get bulk => const _FinancialCoinSwapBulk();
-  /// light style
-  _FinancialCoinSwapLight get light => const _FinancialCoinSwapLight();
-  /// outline style
-  _FinancialCoinSwapOutline get outline => const _FinancialCoinSwapOutline();
   /// twoTone style
   _FinancialCoinSwapTwotone get twoTone => const _FinancialCoinSwapTwotone();
   /// broken style
@@ -751,21 +1147,6 @@ class _FinancialCoinSwapTwotone {
 
 }
 
-/// Coin swap — outline style variants.
-class _FinancialCoinSwapOutline {
-  const _FinancialCoinSwapOutline();
-
-  /// Coin swap — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Coin swap',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.2522 16.9905C2.2522 14.3618 4.38307 12.2309 7.01176 12.2309C9.6402 12.2309 11.7723 14.3615 11.7723 16.9905C11.7723 19.6194 9.6402 21.75 7.01176 21.75C4.38307 21.75 2.2522 19.6191 2.2522 16.9905ZM7.01176 13.7309C5.21149 13.7309 3.7522 15.1902 3.7522 16.9905C3.7522 18.7907 5.21149 20.25 7.01176 20.25C8.81227 20.25 10.2723 18.7905 10.2723 16.9905C10.2723 15.1904 8.81226 13.7309 7.01176 13.7309Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2266 7.00956C12.2266 4.38062 14.3587 2.25 16.9871 2.25C19.6158 2.25 21.7467 4.38087 21.7467 7.00956C21.7467 9.63825 19.6158 11.7691 16.9871 11.7691C14.3587 11.7691 12.2266 9.63849 12.2266 7.00956ZM16.9871 3.75C15.1866 3.75 13.7266 5.20954 13.7266 7.00956C13.7266 8.80957 15.1866 10.2691 16.9871 10.2691C18.7874 10.2691 20.2467 8.80982 20.2467 7.00956C20.2467 5.2093 18.7874 3.75 16.9871 3.75Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.26506 3.88857C5.24705 4.39343 3.75195 6.21909 3.75195 8.39335C3.75195 8.80757 3.41617 9.14335 3.00195 9.14335C2.58774 9.14335 2.25195 8.80757 2.25195 8.39335C2.25195 5.00084 5.00279 2.25 8.39531 2.25C8.64089 2.25 8.87091 2.37023 9.0111 2.57187C9.15129 2.77351 9.18388 3.03101 9.09835 3.26121L8.45812 4.98437C8.31385 5.37265 7.88214 5.57046 7.49386 5.4262C7.10558 5.28194 6.90777 4.85022 7.05203 4.46195L7.26506 3.88857Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9969 14.7949C21.4111 14.7949 21.7469 15.1307 21.7469 15.5449C21.7469 18.9374 18.996 21.6883 15.6035 21.6883C15.3579 21.6883 15.1279 21.568 14.9877 21.3664C14.8475 21.1648 14.8149 20.9073 14.9005 20.6771L15.5407 18.9539C15.685 18.5656 16.1167 18.3678 16.505 18.5121C16.8932 18.6563 17.0911 19.088 16.9468 19.4763L16.7338 20.0497C18.7518 19.5448 20.2469 17.7192 20.2469 15.5449C20.2469 15.1307 20.5827 14.7949 20.9969 14.7949Z" fill="black"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Coin swap — bold style variants.
 class _FinancialCoinSwapBold {
   const _FinancialCoinSwapBold();
@@ -781,16 +1162,149 @@ class _FinancialCoinSwapBold {
 
 }
 
-/// Coin swap — light style variants.
-class _FinancialCoinSwapLight {
-  const _FinancialCoinSwapLight();
+/// Coin swap 1 icon with style variants.
+class _FinancialCoinSwap1Icon {
+  const _FinancialCoinSwap1Icon();
 
-  /// Coin swap — light / regular
+  /// bold style
+  _FinancialCoinSwap1Bold get bold => const _FinancialCoinSwap1Bold();
+  /// bulk style
+  _FinancialCoinSwap1Bulk get bulk => const _FinancialCoinSwap1Bulk();
+  /// twoTone style
+  _FinancialCoinSwap1Twotone get twoTone => const _FinancialCoinSwap1Twotone();
+  /// broken style
+  _FinancialCoinSwap1Broken get broken => const _FinancialCoinSwap1Broken();
+}
+
+/// Coin swap 1 — bulk style variants.
+class _FinancialCoinSwap1Bulk {
+  const _FinancialCoinSwap1Bulk();
+
+  /// Coin swap 1 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Coin swap',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.00195 16.9905C3.00195 19.2049 4.79704 21 7.01151 21C9.22599 21 11.0221 19.2049 11.0221 16.9905C11.0221 14.776 9.22599 12.9809 7.01151 12.9809C4.79704 12.9809 3.00195 14.776 3.00195 16.9905Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9967 7.00956C20.9967 4.79508 19.2016 3 16.9871 3C14.7727 3 12.9766 4.79508 12.9766 7.00956C12.9766 9.22403 14.7727 11.0191 16.9871 11.0191C19.2016 11.0191 20.9967 9.22403 20.9967 7.00956Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.00195 8.39335C3.00195 5.41506 5.41701 3 8.39531 3L7.75507 4.72316" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9969 15.5449C20.9969 18.5232 18.5818 20.9383 15.6035 20.9383L16.2437 19.2151" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    name: 'Coin swap 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.6458 6.96C20.6458 4.77 18.8738 3 16.6878 3C14.5018 3 12.7288 4.77 12.7288 6.96C12.7288 9.14 14.5018 10.92 16.6878 10.92C18.8738 10.92 20.6458 9.14 20.6458 6.96Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.31176 13.0803C5.12576 13.0803 3.35376 14.8603 3.35376 17.0403C3.35376 19.2303 5.12576 21.0003 7.31176 21.0003C9.49776 21.0003 11.2708 19.2303 11.2708 17.0403C11.2708 14.8603 9.49776 13.0803 7.31176 13.0803Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.42462 9.799C4.64862 9.799 4.86062 9.699 5.00262 9.528L6.41762 7.819C6.60262 7.595 6.64262 7.283 6.51862 7.021C6.39462 6.758 6.13062 6.59 5.83962 6.59H5.17462V6.54C5.17462 5.002 6.42562 3.75 7.96262 3.75C8.37662 3.75 8.71262 3.414 8.71262 3C8.71262 2.586 8.37662 2.25 7.96262 2.25C5.59862 2.25 3.67462 4.175 3.67462 6.54V6.59H3.00862C2.71762 6.59 2.45362 6.758 2.32962 7.021C2.20562 7.284 2.24562 7.595 2.43162 7.819L3.84762 9.528C3.98962 9.699 4.20062 9.799 4.42462 9.799Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5691 16.1818L20.1531 14.4678C19.8681 14.1218 19.2821 14.1218 18.9971 14.4678L17.5821 16.1818C17.3961 16.4058 17.3581 16.7158 17.4811 16.9788C17.6051 17.2418 17.8701 17.4098 18.1601 17.4098H18.8251V17.4598C18.8251 18.9978 17.5741 20.2498 16.0371 20.2498C15.6231 20.2498 15.2871 20.5858 15.2871 20.9998C15.2871 21.4138 15.6231 21.7498 16.0371 21.7498C18.4011 21.7498 20.3251 19.8258 20.3251 17.4598V17.4098H20.9911C21.2811 17.4098 21.5461 17.2418 21.6701 16.9788C21.7941 16.7158 21.7541 16.4058 21.5691 16.1818Z" fill="black"/> </g> </svg>',
     category: 'Financial',
-    style: IconfyStyle.light,
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coin swap 1 — broken style variants.
+class _FinancialCoinSwap1Broken {
+  const _FinancialCoinSwap1Broken();
+
+  /// Coin swap 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coin swap 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.83979 7.33984L4.42479 8.75484L3.00879 7.33984" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.4248 8.674L4.4248 6.538C4.42481 4.584 6.00881 3 7.96281 3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.6885 3C14.5025 3 12.7295 4.772 12.7295 6.958C12.7295 9.144 14.5025 10.916 16.6885 10.916C18.8745 10.916 20.6465 9.144 20.6465 6.958C20.6465 6.05884 20.3467 5.22972 19.8416 4.56515" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.31249 21C9.49849 21 11.2715 19.228 11.2715 17.042C11.2715 14.856 9.49849 13.084 7.31249 13.084C5.12649 13.084 3.35449 14.856 3.35449 17.042C3.35449 18.2287 3.87668 19.2933 4.70381 20.0188" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1602 16.6591L19.5752 15.2441L20.9912 16.6591" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.5751 15.3262L19.5751 17.4622C19.5751 19.4162 17.9911 21.0002 16.0371 21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coin swap 1 — twoTone style variants.
+class _FinancialCoinSwap1Twotone {
+  const _FinancialCoinSwap1Twotone();
+
+  /// Coin swap 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coin swap 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.83984 7.33891L4.42484 8.75391L3.00884 7.33891" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.42489 8.67383L4.42489 6.53783C4.42489 4.58383 6.00889 2.99983 7.96289 2.99983" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.6465 6.95802C20.6465 4.77202 18.8745 3.00002 16.6885 3.00001C14.5025 3.00001 12.7295 4.77201 12.7295 6.95801C12.7295 9.14401 14.5025 10.916 16.6885 10.916C18.8745 10.916 20.6465 9.14402 20.6465 6.95802Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.35448 17.042C3.35448 19.228 5.12648 21 7.31248 21C9.49848 21 11.2715 19.228 11.2715 17.042C11.2715 14.856 9.49849 13.084 7.31249 13.084C5.12649 13.084 3.35449 14.856 3.35448 17.042Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1602 16.6591L19.5752 15.2441L20.9912 16.6591" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.5751 15.3242L19.5751 17.4602C19.5751 19.4142 17.9911 20.9982 16.0371 20.9982" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coin swap 1 — bold style variants.
+class _FinancialCoinSwap1Bold {
+  const _FinancialCoinSwap1Bold();
+
+  /// Coin swap 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coin swap 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.42462 9.799C4.64862 9.799 4.86062 9.699 5.00262 9.528L6.41762 7.819C6.60262 7.595 6.64262 7.283 6.51862 7.021C6.39462 6.758 6.13062 6.59 5.83962 6.59H5.17462V6.54C5.17462 5.002 6.42562 3.75 7.96262 3.75C8.37662 3.75 8.71262 3.414 8.71262 3C8.71262 2.586 8.37662 2.25 7.96262 2.25C5.59862 2.25 3.67462 4.175 3.67462 6.54V6.59H3.00862C2.71762 6.59 2.45362 6.758 2.32962 7.021C2.20562 7.284 2.24562 7.595 2.43162 7.819L3.84762 9.528C3.98962 9.699 4.20062 9.799 4.42462 9.799Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.6458 6.95976C20.6458 4.76976 18.8738 2.99976 16.6878 2.99976C14.5018 2.99976 12.7288 4.76976 12.7288 6.95976C12.7288 9.13976 14.5018 10.9198 16.6878 10.9198C18.8738 10.9198 20.6458 9.13976 20.6458 6.95976Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.31176 13.0801C5.12576 13.0801 3.35376 14.8601 3.35376 17.0401C3.35376 19.2301 5.12576 21.0001 7.31176 21.0001C9.49776 21.0001 11.2708 19.2301 11.2708 17.0401C11.2708 14.8601 9.49776 13.0801 7.31176 13.0801Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5691 16.1818L20.1531 14.4678C19.8681 14.1218 19.2821 14.1218 18.9971 14.4678L17.5821 16.1818C17.3961 16.4058 17.3581 16.7158 17.4811 16.9788C17.6051 17.2418 17.8701 17.4098 18.1601 17.4098H18.8251V17.4598C18.8251 18.9978 17.5741 20.2498 16.0371 20.2498C15.6231 20.2498 15.2871 20.5858 15.2871 20.9998C15.2871 21.4138 15.6231 21.7498 16.0371 21.7498C18.4011 21.7498 20.3251 19.8258 20.3251 17.4598V17.4098H20.9911C21.2811 17.4098 21.5461 17.2418 21.6701 16.9788C21.7941 16.7158 21.7541 16.4058 21.5691 16.1818Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coin swap 2 icon with style variants.
+class _FinancialCoinSwap2Icon {
+  const _FinancialCoinSwap2Icon();
+
+  /// bold style
+  _FinancialCoinSwap2Bold get bold => const _FinancialCoinSwap2Bold();
+  /// bulk style
+  _FinancialCoinSwap2Bulk get bulk => const _FinancialCoinSwap2Bulk();
+  /// twoTone style
+  _FinancialCoinSwap2Twotone get twoTone => const _FinancialCoinSwap2Twotone();
+  /// broken style
+  _FinancialCoinSwap2Broken get broken => const _FinancialCoinSwap2Broken();
+}
+
+/// Coin swap 2 — bulk style variants.
+class _FinancialCoinSwap2Bulk {
+  const _FinancialCoinSwap2Bulk();
+
+  /// Coin swap 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coin swap 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1924 16.6292C10.4324 16.6292 7.37441 13.5692 7.37441 9.80922C7.37441 9.66271 7.22829 9.56519 7.10243 9.64019C5.54695 10.5671 4.49341 12.2497 4.49341 14.1892C4.49341 17.1222 6.87941 19.5092 9.81041 19.5092C11.7504 19.5092 13.4322 18.4542 14.3593 16.8977C14.4333 16.7734 14.3371 16.6292 14.1924 16.6292Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1924 15.1293C17.1244 15.1293 19.5094 12.7423 19.5094 9.80928C19.5094 6.87528 17.1244 4.48828 14.1924 4.48828C11.2594 4.48828 8.87439 6.87528 8.87439 9.80928C8.87439 12.7423 11.2594 15.1293 14.1924 15.1293Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.4248 5.16329V5.76029C6.4248 6.04829 6.5898 6.31029 6.8488 6.43629C6.9518 6.48629 7.0638 6.51029 7.1748 6.51029C7.3408 6.51029 7.5058 6.45429 7.6408 6.34829L9.3798 4.96829C9.5598 4.82529 9.6638 4.60929 9.6638 4.38029C9.6638 4.15229 9.5598 3.93529 9.3798 3.79229L7.6408 2.41229C7.4148 2.23429 7.1068 2.19929 6.8488 2.32429C6.5898 2.45029 6.4248 2.71229 6.4248 3.00029V3.66329C4.2628 3.83229 2.5498 5.62529 2.5498 7.83029C2.5498 8.24429 2.8858 8.58029 3.2998 8.58029C3.7138 8.58029 4.0498 8.24429 4.0498 7.83029C4.0498 6.45229 5.0898 5.32629 6.4248 5.16329Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4501 16.1707C21.4501 15.7567 21.1141 15.4207 20.7001 15.4207C20.2861 15.4207 19.9501 15.7567 19.9501 16.1707C19.9501 17.5677 18.8811 18.7067 17.5191 18.8437V18.2397C17.5191 17.9497 17.3521 17.6867 17.0901 17.5627C16.8311 17.4387 16.5191 17.4757 16.2931 17.6607L14.6121 19.0417C14.4391 19.1847 14.3391 19.3967 14.3391 19.6207C14.3391 19.8457 14.4391 20.0587 14.6131 20.2007L16.2941 21.5807C16.4301 21.6927 16.5991 21.7507 16.7691 21.7507C16.8791 21.7507 16.9881 21.7277 17.0901 21.6787C17.3521 21.5547 17.5191 21.2907 17.5191 21.0007V20.3437C19.7081 20.2017 21.4501 18.3947 21.4501 16.1707Z" fill="black"/> </g> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coin swap 2 — broken style variants.
+class _FinancialCoinSwap2Broken {
+  const _FinancialCoinSwap2Broken();
+
+  /// Coin swap 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coin swap 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.53223 5.76031L8.91287 4.38064L7.53223 3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.8321 4.38086H6.74897C4.8439 4.38086 3.29883 5.92593 3.29883 7.83101" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4685 18.2402L15.0879 19.6209L16.4685 21.0005" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.166 19.6201H17.2491C19.1542 19.6201 20.6993 18.075 20.6993 16.1699" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.99219 14.1892C4.99219 11.5282 7.14926 9.37109 9.81033 9.37109C12.4714 9.37109 14.6285 11.5282 14.6285 14.1892C14.6285 16.8503 12.4714 19.0074 9.81033 19.0074C8.2841 19.0074 6.92366 18.2978 6.04089 17.1906" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.0093 9.81033C19.0093 12.4714 16.8523 14.6285 14.1912 14.6285C11.5301 14.6285 9.37305 12.4714 9.37305 9.81033C9.37305 7.14926 11.5301 4.99219 14.1912 4.99219C15.5311 4.99219 16.7432 5.53907 17.6165 6.4218" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coin swap 2 — twoTone style variants.
+class _FinancialCoinSwap2Twotone {
+  const _FinancialCoinSwap2Twotone();
+
+  /// Coin swap 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coin swap 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.03223 5.76031L9.41287 4.38064L8.03223 3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.3321 4.38086H7.24897C5.3439 4.38086 3.79883 5.92593 3.79883 7.83101" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9685 18.2402L15.5879 19.6209L16.9685 21.0005" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.666 19.6201H17.7491C19.6542 19.6201 21.1993 18.075 21.1993 16.1699" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.1285 14.1892C15.1285 16.8503 12.9714 19.0074 10.3103 19.0074C7.64926 19.0074 5.49219 16.8503 5.49219 14.1892C5.49219 11.5282 7.64926 9.37109 10.3103 9.37109C12.9714 9.37109 15.1285 11.5282 15.1285 14.1892Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.5093 9.81033C19.5093 12.4714 17.3523 14.6285 14.6912 14.6285C12.0301 14.6285 9.87305 12.4714 9.87305 9.81033C9.87305 7.14926 12.0301 4.99219 14.6912 4.99219C17.3523 4.99219 19.5093 7.14926 19.5093 9.81033Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coin swap 2 — bold style variants.
+class _FinancialCoinSwap2Bold {
+  const _FinancialCoinSwap2Bold();
+
+  /// Coin swap 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coin swap 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.4248 5.16329V5.76029C6.4248 6.04829 6.5898 6.31029 6.8488 6.43629C6.9518 6.48629 7.0638 6.51029 7.1748 6.51029C7.3408 6.51029 7.5058 6.45429 7.6408 6.34829L9.3798 4.96829C9.5598 4.82529 9.6638 4.60929 9.6638 4.38029C9.6638 4.15229 9.5598 3.93529 9.3798 3.79229L7.6408 2.41229C7.4148 2.23429 7.1068 2.19929 6.8488 2.32429C6.5898 2.45029 6.4248 2.71229 6.4248 3.00029V3.66329C4.2628 3.83229 2.5498 5.62529 2.5498 7.83029C2.5498 8.24429 2.8858 8.58029 3.2998 8.58029C3.7138 8.58029 4.0498 8.24429 4.0498 7.83029C4.0498 6.45229 5.0898 5.32629 6.4248 5.16329Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4501 16.1707C21.4501 15.7567 21.1141 15.4207 20.7001 15.4207C20.2861 15.4207 19.9501 15.7567 19.9501 16.1707C19.9501 17.5677 18.8811 18.7067 17.5191 18.8437V18.2397C17.5191 17.9497 17.3521 17.6867 17.0901 17.5627C16.8311 17.4387 16.5191 17.4757 16.2931 17.6607L14.6121 19.0417C14.4391 19.1847 14.3391 19.3967 14.3391 19.6207C14.3391 19.8457 14.4391 20.0587 14.6131 20.2007L16.2941 21.5807C16.4301 21.6927 16.5991 21.7507 16.7691 21.7507C16.8791 21.7507 16.9881 21.7277 17.0901 21.6787C17.3521 21.5547 17.5191 21.2907 17.5191 21.0007V20.3437C19.7081 20.2017 21.4501 18.3947 21.4501 16.1707Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1924 16.6304C10.4324 16.6304 7.37441 13.5704 7.37441 9.81045C7.37441 9.66393 7.22829 9.56641 7.10243 9.64141C5.54695 10.5683 4.49341 12.2509 4.49341 14.1904C4.49341 17.1234 6.87941 19.5104 9.81041 19.5104C11.7504 19.5104 13.4322 18.4554 14.3593 16.8989C14.4333 16.7746 14.3371 16.6304 14.1924 16.6304Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1924 15.1305C17.1244 15.1305 19.5094 12.7435 19.5094 9.8105C19.5094 6.8765 17.1244 4.4895 14.1924 4.4895C11.2594 4.4895 8.87439 6.8765 8.87439 9.8105C8.87439 12.7435 11.2594 15.1305 14.1924 15.1305Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
     type: IconfyType.regular,
   );
 
@@ -1253,7 +1767,7 @@ class _FinancialDollarBulk {
   /// Dollar — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Dollar',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.998 16.4305V13.2845V11.2845V7.9325V5.9325V5.0625C12.998 4.5095 12.55 4.0625 11.998 4.0625C11.446 4.0625 10.998 4.5095 10.998 5.0625V5.9445V7.9445V11.2705V13.2705V16.4325V18.4325V19.0625C10.998 19.6145 11.446 20.0625 11.998 20.0625C12.55 20.0625 12.998 19.6145 12.998 19.0625V18.4305V16.4305Z" fill="black"/> <path d="M14.5561 14.8516C14.5561 13.9916 13.8591 13.2926 12.9981 13.2836L10.9981 13.2696C9.03009 13.2026 7.44509 11.5886 7.44409 9.60264C7.44409 7.61964 9.02809 6.01064 10.9981 5.94364L12.9981 5.93164H13.3381C15.1121 5.93164 16.5551 7.37164 16.5551 9.14164V9.27064C16.5551 9.82364 16.1071 10.2706 15.5551 10.2706C15.0031 10.2706 14.5551 9.82364 14.5551 9.27064V9.14164C14.5551 8.47464 14.0091 7.93164 13.3381 7.93164L10.9981 7.94364C10.1311 8.00864 9.44409 8.72264 9.44409 9.60164C9.44409 10.4856 10.1321 11.2046 10.9981 11.2696L12.9981 11.2836C14.9611 11.2926 16.5561 12.8886 16.5561 14.8516C16.5561 16.8196 14.9611 18.4206 12.9981 18.4296L10.9981 18.4316H10.6621C8.88909 18.4316 7.44609 16.9866 7.44609 15.2116C7.44609 14.6586 7.89409 14.2116 8.44609 14.2116C8.99809 14.2116 9.44609 14.6586 9.44609 15.2116C9.44609 15.8846 9.99109 16.4316 10.6621 16.4316H10.9981L12.9981 16.4296C13.8591 16.4206 14.5561 15.7166 14.5561 14.8516Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.002 15.7325V13.0625V11.0625V8.4025V6.4025V5.0625C13.002 4.5095 12.554 4.0625 12.002 4.0625C11.45 4.0625 11.002 4.5095 11.002 5.0625V6.4025L11.002 8.4025V11.0625L11.002 13.0625V15.7325V17.7325V19.0625C11.002 19.6155 11.45 20.0625 12.002 20.0625C12.554 20.0625 13.002 19.6155 13.002 19.0625V17.7325V15.7325Z" fill="black"/> <path d="M13.002 15.7323H13.334C14.069 15.7323 14.667 15.1353 14.667 14.4023C14.667 13.6633 14.069 13.0623 13.334 13.0623H11.002H10.667C8.82901 13.0623 7.33301 11.5683 7.33301 9.73234C7.33301 7.89634 8.82901 6.40234 10.667 6.40234H13.002H15.001C15.553 6.40234 16.001 6.84934 16.001 7.40234C16.001 7.95534 15.553 8.40234 15.001 8.40234H11.002H10.667C9.93201 8.40234 9.33301 8.99934 9.33301 9.73234C9.33301 10.4653 9.93201 11.0623 10.667 11.0623H13.002H13.334C15.172 11.0623 16.667 12.5603 16.667 14.4023C16.667 16.2383 15.172 17.7323 13.334 17.7323H11.002H9.00001C8.44801 17.7323 8.00001 17.2853 8.00001 16.7323C8.00001 16.1793 8.44801 15.7323 9.00001 15.7323H13.002Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -1268,7 +1782,7 @@ class _FinancialDollarBroken {
   /// Dollar — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Dollar',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.5555 9.27037V9.1419C15.5555 7.91813 14.5632 6.92578 13.3386 6.92578H11.1225C9.64339 6.92578 8.44434 8.12402 8.44434 9.60308C8.44516 11.0821 9.64422 12.2804 11.1225 12.2804H11.9131" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.44629 15.2127C8.44629 16.4373 9.43864 17.4296 10.6624 17.4305H12.9831C14.4045 17.4305 15.5566 16.2784 15.5566 14.8561C15.5566 14.1527 15.2745 13.5153 14.8173 13.0508" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.998 5.0625V19.0625" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.6665 14.3982C15.6665 13.1094 14.6222 12.0643 13.3334 12.0643H10.6668C10.2157 12.0643 9.79451 11.9364 9.4375 11.7148" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9 16.7285H13.3334C13.7374 16.7285 14.1174 16.6259 14.4487 16.4453" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.33301 9.7315C8.33301 8.44267 9.37807 7.39844 10.6669 7.39844H15.0003" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 19.0625V5.0625" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -1283,7 +1797,7 @@ class _FinancialDollarTwotone {
   /// Dollar — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Dollar',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.0555 9.27037V9.1419C16.0555 7.91813 15.0632 6.92578 13.8386 6.92578H11.6225C10.1434 6.92578 8.94434 8.12402 8.94434 9.60308C8.94516 11.0821 10.1442 12.2804 11.6225 12.2804H13.4828C14.9042 12.2804 16.0563 13.4325 16.0563 14.8539C16.0563 16.2761 14.9042 17.4283 13.4828 17.4283H11.1621C9.93834 17.4274 8.94598 16.4351 8.94598 15.2105" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.498 5.0625V19.0625" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.50007 16.7295H13.8335C15.1223 16.7295 16.1665 15.6853 16.1665 14.3965C16.1665 13.1077 15.1223 12.0626 13.8335 12.0626H11.1669C9.87807 12.0626 8.83301 11.0184 8.83301 9.72954C8.83301 8.44072 9.87807 7.39648 11.1669 7.39648H15.5003" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.502 19.0625V5.0625" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -1298,7 +1812,7 @@ class _FinancialDollarOutline {
   /// Dollar — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Dollar',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.9823 18.1133H10.6613C9.87487 18.1123 9.12091 17.7993 8.56488 17.2431C8.00885 16.6869 7.69614 15.9328 7.69534 15.1463C7.69534 14.9474 7.77436 14.7566 7.91501 14.616C8.05566 14.4753 8.24643 14.3963 8.44534 14.3963C8.64426 14.3963 8.83503 14.4753 8.97568 14.616C9.11633 14.7566 9.19534 14.9474 9.19534 15.1463C9.19561 15.5351 9.3501 15.908 9.62494 16.183C9.89978 16.458 10.2725 16.6128 10.6613 16.6133H12.9823C13.4661 16.6133 13.93 16.4211 14.2721 16.0791C14.6142 15.737 14.8063 15.2731 14.8063 14.7893C14.8063 14.3056 14.6142 13.8416 14.2721 13.4995C13.93 13.1575 13.4661 12.9653 12.9823 12.9653H11.1213C10.2124 12.9653 9.34078 12.6043 8.69809 11.9616C8.0554 11.3189 7.69434 10.4472 7.69434 9.53833C7.69434 8.62943 8.0554 7.75774 8.69809 7.11505C9.34078 6.47236 10.2124 6.11133 11.1213 6.11133H13.3383C14.1249 6.11186 14.8791 6.42447 15.4354 6.98056C15.9917 7.53665 16.3045 8.29074 16.3053 9.0773V9.20532C16.3053 9.40423 16.2263 9.595 16.0857 9.73566C15.945 9.87631 15.7542 9.95532 15.5553 9.95532C15.3564 9.95532 15.1656 9.87631 15.025 9.73566C14.8843 9.595 14.8053 9.40423 14.8053 9.20532V9.0773C14.8048 8.68848 14.6501 8.31577 14.375 8.04092C14.1 7.76608 13.7272 7.61159 13.3383 7.61133H11.1213C10.6103 7.61133 10.1201 7.81434 9.75873 8.17572C9.39735 8.5371 9.19434 9.02726 9.19434 9.53833C9.19434 10.0494 9.39735 10.5395 9.75873 10.9009C10.1201 11.2623 10.6103 11.4653 11.1213 11.4653H12.9823C13.8639 11.4653 14.7094 11.8155 15.3328 12.4389C15.9561 13.0623 16.3063 13.9077 16.3063 14.7893C16.3063 15.6709 15.9561 16.5164 15.3328 17.1397C14.7094 17.7631 13.8639 18.1133 12.9823 18.1133V18.1133Z" fill="black"/> <path d="M11.999 19.75C11.8001 19.75 11.6093 19.671 11.4687 19.5303C11.328 19.3897 11.249 19.1989 11.249 19V5C11.249 4.80109 11.328 4.61032 11.4687 4.46967C11.6093 4.32901 11.8001 4.25 11.999 4.25C12.1979 4.25 12.3887 4.32901 12.5294 4.46967C12.67 4.61032 12.749 4.80109 12.749 5V19C12.749 19.1989 12.67 19.3897 12.5294 19.5303C12.3887 19.671 12.1979 19.75 11.999 19.75Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.6671 8.08386C9.79218 8.08386 9.08325 8.79266 9.08325 9.66692C9.08325 10.5412 9.79218 11.25 10.6671 11.25H13.3337C15.0371 11.25 16.4168 12.6312 16.4168 14.3339C16.4168 16.0369 15.0368 17.4169 13.3337 17.4169H9.00031C8.5861 17.4169 8.25031 17.0811 8.25031 16.6669C8.25031 16.2527 8.5861 15.9169 9.00031 15.9169H13.3337C14.2083 15.9169 14.9168 15.2085 14.9168 14.3339C14.9168 13.4589 14.208 12.75 13.3337 12.75H10.6671C8.96444 12.75 7.58325 11.3703 7.58325 9.66692C7.58325 7.96354 8.96444 6.58386 10.6671 6.58386H15.0005C15.4148 6.58386 15.7505 6.91965 15.7505 7.33386C15.7505 7.74808 15.4148 8.08386 15.0005 8.08386H10.6671Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.002 4.25C12.4162 4.25 12.752 4.58579 12.752 5V19C12.752 19.4142 12.4162 19.75 12.002 19.75C11.5877 19.75 11.252 19.4142 11.252 19V5C11.252 4.58579 11.5877 4.25 12.002 4.25Z" fill="black"/> </svg> ',
     category: 'Financial',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -1313,7 +1827,7 @@ class _FinancialDollarBold {
   /// Dollar — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Dollar',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9978 16.4305V13.2845C13.8588 13.2935 14.5558 13.9925 14.5558 14.8525C14.5558 15.7175 13.8588 16.4215 12.9978 16.4305ZM9.44385 9.6025C9.44385 8.7235 10.1308 8.0095 10.9978 7.9445V11.2705C10.1318 11.2055 9.44385 10.4865 9.44385 9.6025ZM16.5558 14.8525C16.5558 12.8895 14.9608 11.2935 12.9978 11.2845V7.9325H13.3378C14.0088 7.9325 14.5548 8.4755 14.5548 9.1425V9.2715C14.5548 9.8245 15.0028 10.2715 15.5548 10.2715C16.1068 10.2715 16.5548 9.8245 16.5548 9.2715V9.1425C16.5548 7.3725 15.1118 5.9325 13.3378 5.9325H12.9978V5.0625C12.9978 4.5095 12.5498 4.0625 11.9978 4.0625C11.4458 4.0625 10.9978 4.5095 10.9978 5.0625V5.9445C9.02785 6.0115 7.44385 7.6205 7.44385 9.6035C7.44485 11.5895 9.02985 13.2035 10.9978 13.2705V16.4325H10.6618C9.99085 16.4325 9.44585 15.8855 9.44585 15.2125C9.44585 14.6595 8.99785 14.2125 8.44585 14.2125C7.89385 14.2125 7.44585 14.6595 7.44585 15.2125C7.44585 16.9875 8.88885 18.4325 10.6618 18.4325H10.9978V19.0625C10.9978 19.6145 11.4458 20.0625 11.9978 20.0625C12.5498 20.0625 12.9978 19.6145 12.9978 19.0625V18.4305C14.9608 18.4215 16.5558 16.8205 16.5558 14.8525Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.334 15.7325H13.002V13.0625H13.334C14.069 13.0625 14.667 13.6635 14.667 14.4025C14.667 15.1355 14.069 15.7325 13.334 15.7325ZM10.667 11.0625C9.93201 11.0625 9.33301 10.4655 9.33301 9.7325C9.33301 8.9995 9.93201 8.4025 10.667 8.4025H11.002V11.0625H10.667ZM13.334 11.0625H13.002V8.4025H15.001C15.553 8.4025 16.001 7.9555 16.001 7.4025C16.001 6.8495 15.553 6.4025 15.001 6.4025H13.002V5.0625C13.002 4.5095 12.554 4.0625 12.002 4.0625C11.45 4.0625 11.002 4.5095 11.002 5.0625V6.4025H10.667C8.82901 6.4025 7.33301 7.8965 7.33301 9.7325C7.33301 11.5685 8.82901 13.0625 10.667 13.0625H11.002V15.7325H9.00001C8.44801 15.7325 8.00001 16.1795 8.00001 16.7325C8.00001 17.2855 8.44801 17.7325 9.00001 17.7325H11.002V19.0625C11.002 19.6155 11.45 20.0625 12.002 20.0625C12.554 20.0625 13.002 19.6155 13.002 19.0625V17.7325H13.334C15.172 17.7325 16.667 16.2385 16.667 14.4025C16.667 12.5605 15.172 11.0625 13.334 11.0625Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -1328,6 +1842,114 @@ class _FinancialDollarLight {
   /// Dollar — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Dollar',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.00007 16.6669H13.3335C14.6223 16.6669 15.6665 15.6227 15.6665 14.3339C15.6665 13.045 14.6223 12 13.3335 12H10.6669C9.37807 12 8.33301 10.9557 8.33301 9.66692C8.33301 8.3781 9.37807 7.33386 10.6669 7.33386H15.0003" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 19V5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar 1 icon with style variants.
+class _FinancialDollar1Icon {
+  const _FinancialDollar1Icon();
+
+  /// bold style
+  _FinancialDollar1Bold get bold => const _FinancialDollar1Bold();
+  /// bulk style
+  _FinancialDollar1Bulk get bulk => const _FinancialDollar1Bulk();
+  /// light style
+  _FinancialDollar1Light get light => const _FinancialDollar1Light();
+  /// outline style
+  _FinancialDollar1Outline get outline => const _FinancialDollar1Outline();
+  /// twoTone style
+  _FinancialDollar1Twotone get twoTone => const _FinancialDollar1Twotone();
+  /// broken style
+  _FinancialDollar1Broken get broken => const _FinancialDollar1Broken();
+}
+
+/// Dollar 1 — bulk style variants.
+class _FinancialDollar1Bulk {
+  const _FinancialDollar1Bulk();
+
+  /// Dollar 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.998 16.4305V13.2845V11.2845V7.9325V5.9325V5.0625C12.998 4.5095 12.55 4.0625 11.998 4.0625C11.446 4.0625 10.998 4.5095 10.998 5.0625V5.9445V7.9445V11.2705V13.2705V16.4325V18.4325V19.0625C10.998 19.6145 11.446 20.0625 11.998 20.0625C12.55 20.0625 12.998 19.6145 12.998 19.0625V18.4305V16.4305Z" fill="black"/> <path d="M14.5561 14.8516C14.5561 13.9916 13.8591 13.2926 12.9981 13.2836L10.9981 13.2696C9.03009 13.2026 7.44509 11.5886 7.44409 9.60264C7.44409 7.61964 9.02809 6.01064 10.9981 5.94364L12.9981 5.93164H13.3381C15.1121 5.93164 16.5551 7.37164 16.5551 9.14164V9.27064C16.5551 9.82364 16.1071 10.2706 15.5551 10.2706C15.0031 10.2706 14.5551 9.82364 14.5551 9.27064V9.14164C14.5551 8.47464 14.0091 7.93164 13.3381 7.93164L10.9981 7.94364C10.1311 8.00864 9.44409 8.72264 9.44409 9.60164C9.44409 10.4856 10.1321 11.2046 10.9981 11.2696L12.9981 11.2836C14.9611 11.2926 16.5561 12.8886 16.5561 14.8516C16.5561 16.8196 14.9611 18.4206 12.9981 18.4296L10.9981 18.4316H10.6621C8.88909 18.4316 7.44609 16.9866 7.44609 15.2116C7.44609 14.6586 7.89409 14.2116 8.44609 14.2116C8.99809 14.2116 9.44609 14.6586 9.44609 15.2116C9.44609 15.8846 9.99109 16.4316 10.6621 16.4316H10.9981L12.9981 16.4296C13.8591 16.4206 14.5561 15.7166 14.5561 14.8516Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar 1 — broken style variants.
+class _FinancialDollar1Broken {
+  const _FinancialDollar1Broken();
+
+  /// Dollar 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.5555 9.27037V9.1419C15.5555 7.91813 14.5632 6.92578 13.3386 6.92578H11.1225C9.64339 6.92578 8.44434 8.12402 8.44434 9.60308C8.44516 11.0821 9.64422 12.2804 11.1225 12.2804H11.9131" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.44629 15.2127C8.44629 16.4373 9.43864 17.4296 10.6624 17.4305H12.9831C14.4045 17.4305 15.5566 16.2784 15.5566 14.8561C15.5566 14.1527 15.2745 13.5153 14.8173 13.0508" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.998 5.0625V19.0625" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar 1 — twoTone style variants.
+class _FinancialDollar1Twotone {
+  const _FinancialDollar1Twotone();
+
+  /// Dollar 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.0555 9.27037V9.1419C16.0555 7.91813 15.0632 6.92578 13.8386 6.92578H11.6225C10.1434 6.92578 8.94434 8.12402 8.94434 9.60308C8.94516 11.0821 10.1442 12.2804 11.6225 12.2804H13.4828C14.9042 12.2804 16.0563 13.4325 16.0563 14.8539C16.0563 16.2761 14.9042 17.4283 13.4828 17.4283H11.1621C9.93834 17.4274 8.94598 16.4351 8.94598 15.2105" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.498 5.0625V19.0625" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar 1 — outline style variants.
+class _FinancialDollar1Outline {
+  const _FinancialDollar1Outline();
+
+  /// Dollar 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.9823 18.1133H10.6613C9.87487 18.1123 9.12091 17.7993 8.56488 17.2431C8.00885 16.6869 7.69614 15.9328 7.69534 15.1463C7.69534 14.9474 7.77436 14.7566 7.91501 14.616C8.05566 14.4753 8.24643 14.3963 8.44534 14.3963C8.64426 14.3963 8.83503 14.4753 8.97568 14.616C9.11633 14.7566 9.19534 14.9474 9.19534 15.1463C9.19561 15.5351 9.3501 15.908 9.62494 16.183C9.89978 16.458 10.2725 16.6128 10.6613 16.6133H12.9823C13.4661 16.6133 13.93 16.4211 14.2721 16.0791C14.6142 15.737 14.8063 15.2731 14.8063 14.7893C14.8063 14.3056 14.6142 13.8416 14.2721 13.4995C13.93 13.1575 13.4661 12.9653 12.9823 12.9653H11.1213C10.2124 12.9653 9.34078 12.6043 8.69809 11.9616C8.0554 11.3189 7.69434 10.4472 7.69434 9.53833C7.69434 8.62943 8.0554 7.75774 8.69809 7.11505C9.34078 6.47236 10.2124 6.11133 11.1213 6.11133H13.3383C14.1249 6.11186 14.8791 6.42447 15.4354 6.98056C15.9917 7.53665 16.3045 8.29074 16.3053 9.0773V9.20532C16.3053 9.40423 16.2263 9.595 16.0857 9.73566C15.945 9.87631 15.7542 9.95532 15.5553 9.95532C15.3564 9.95532 15.1656 9.87631 15.025 9.73566C14.8843 9.595 14.8053 9.40423 14.8053 9.20532V9.0773C14.8048 8.68848 14.6501 8.31577 14.375 8.04092C14.1 7.76608 13.7272 7.61159 13.3383 7.61133H11.1213C10.6103 7.61133 10.1201 7.81434 9.75873 8.17572C9.39735 8.5371 9.19434 9.02726 9.19434 9.53833C9.19434 10.0494 9.39735 10.5395 9.75873 10.9009C10.1201 11.2623 10.6103 11.4653 11.1213 11.4653H12.9823C13.8639 11.4653 14.7094 11.8155 15.3328 12.4389C15.9561 13.0623 16.3063 13.9077 16.3063 14.7893C16.3063 15.6709 15.9561 16.5164 15.3328 17.1397C14.7094 17.7631 13.8639 18.1133 12.9823 18.1133V18.1133Z" fill="black"/> <path d="M11.999 19.75C11.8001 19.75 11.6093 19.671 11.4687 19.5303C11.328 19.3897 11.249 19.1989 11.249 19V5C11.249 4.80109 11.328 4.61032 11.4687 4.46967C11.6093 4.32901 11.8001 4.25 11.999 4.25C12.1979 4.25 12.3887 4.32901 12.5294 4.46967C12.67 4.61032 12.749 4.80109 12.749 5V19C12.749 19.1989 12.67 19.3897 12.5294 19.5303C12.3887 19.671 12.1979 19.75 11.999 19.75Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar 1 — bold style variants.
+class _FinancialDollar1Bold {
+  const _FinancialDollar1Bold();
+
+  /// Dollar 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.9978 16.4305V13.2845C13.8588 13.2935 14.5558 13.9925 14.5558 14.8525C14.5558 15.7175 13.8588 16.4215 12.9978 16.4305ZM9.44385 9.6025C9.44385 8.7235 10.1308 8.0095 10.9978 7.9445V11.2705C10.1318 11.2055 9.44385 10.4865 9.44385 9.6025ZM16.5558 14.8525C16.5558 12.8895 14.9608 11.2935 12.9978 11.2845V7.9325H13.3378C14.0088 7.9325 14.5548 8.4755 14.5548 9.1425V9.2715C14.5548 9.8245 15.0028 10.2715 15.5548 10.2715C16.1068 10.2715 16.5548 9.8245 16.5548 9.2715V9.1425C16.5548 7.3725 15.1118 5.9325 13.3378 5.9325H12.9978V5.0625C12.9978 4.5095 12.5498 4.0625 11.9978 4.0625C11.4458 4.0625 10.9978 4.5095 10.9978 5.0625V5.9445C9.02785 6.0115 7.44385 7.6205 7.44385 9.6035C7.44485 11.5895 9.02985 13.2035 10.9978 13.2705V16.4325H10.6618C9.99085 16.4325 9.44585 15.8855 9.44585 15.2125C9.44585 14.6595 8.99785 14.2125 8.44585 14.2125C7.89385 14.2125 7.44585 14.6595 7.44585 15.2125C7.44585 16.9875 8.88885 18.4325 10.6618 18.4325H10.9978V19.0625C10.9978 19.6145 11.4458 20.0625 11.9978 20.0625C12.5498 20.0625 12.9978 19.6145 12.9978 19.0625V18.4305C14.9608 18.4215 16.5558 16.8205 16.5558 14.8525Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar 1 — light style variants.
+class _FinancialDollar1Light {
+  const _FinancialDollar1Light();
+
+  /// Dollar 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.555 9.20714V9.07867C15.555 7.8549 14.5627 6.86255 13.3381 6.86255H11.122C9.64291 6.86255 8.44385 8.06078 8.44385 9.53984C8.44467 11.0189 9.64373 12.2171 11.122 12.2171H12.9823C14.4037 12.2171 15.5558 13.3693 15.5558 14.7907C15.5558 16.2129 14.4037 17.365 12.9823 17.365H10.6616C9.43785 17.3642 8.44549 16.3718 8.44549 15.1473" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.998 5V19" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Financial',
     style: IconfyStyle.light,
@@ -1469,7 +2091,7 @@ class _FinancialDollarCircleBulk {
   /// Dollar circle — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Dollar circle',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12 2.5625C6.762 2.5625 2.5 6.8245 2.5 12.0625C2.5 17.3015 6.762 21.5625 12 21.5625C17.238 21.5625 21.5 17.3015 21.5 12.0625C21.5 6.8245 17.238 2.5625 12 2.5625Z" fill="black"/> <path d="M12.7539 16.1244V15.9054C13.9009 15.8094 14.8079 14.8554 14.8079 13.6844C14.8079 12.4484 13.8029 11.4434 12.5679 11.4434H11.4919C11.0509 11.4434 10.6929 11.0854 10.6929 10.6444C10.6929 10.2024 11.0509 9.84444 11.4919 9.84444H12.7749C13.0679 9.84444 13.3069 10.0824 13.3069 10.3744V10.4544C13.3069 10.8684 13.6429 11.1644 14.0569 11.1644C14.4709 11.1644 14.8069 10.7884 14.8069 10.3744C14.8069 9.25544 13.8959 8.34444 12.7749 8.34444H12.7539V8.02344C12.7539 7.60944 12.4179 7.27344 12.0039 7.27344C11.5899 7.27344 11.2539 7.60944 11.2539 8.02344V8.36844C10.0989 8.48944 9.19287 9.45744 9.19287 10.6444C9.19287 11.9124 10.2239 12.9434 11.4919 12.9434H12.5679C12.9759 12.9434 13.3079 13.2754 13.3079 13.6844C13.3079 14.0924 12.9759 14.4244 12.5679 14.4244H11.2259C10.9319 14.4244 10.6929 14.1824 10.6929 13.8844C10.6929 13.4704 10.3569 13.1344 9.94287 13.1344C9.52887 13.1344 9.19287 13.4704 9.19287 13.8844C9.19287 15.0094 10.1049 15.9244 11.2259 15.9244H11.2539V16.1244C11.2539 16.5384 11.5899 16.8744 12.0039 16.8744C12.4179 16.8744 12.7539 16.5384 12.7539 16.1244Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12 2.5625C6.762 2.5625 2.5 6.8235 2.5 12.0625C2.5 17.3005 6.762 21.5625 12 21.5625C17.238 21.5625 21.5 17.3005 21.5 12.0625C21.5 6.8235 17.238 2.5625 12 2.5625Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0191 15.9217H12.7501V16.1117C12.7501 16.5257 12.4141 16.8617 12.0001 16.8617C11.5861 16.8617 11.2501 16.5257 11.2501 16.1117V15.9217H10.7771C9.65614 15.9217 8.74414 15.0067 8.74414 13.8817C8.74414 13.4677 9.08014 13.1317 9.49414 13.1317C9.90814 13.1317 10.2441 13.4677 10.2441 13.8817C10.2441 14.1797 10.4831 14.4217 10.7771 14.4217H11.2501V12.9417H11.0431C9.77514 12.9417 8.74414 11.9097 8.74414 10.6417C8.74414 9.37272 9.77514 8.34172 11.0431 8.34172H11.2501V8.01172C11.2501 7.59772 11.5861 7.26172 12.0001 7.26172C12.4141 7.26172 12.7501 7.59772 12.7501 8.01172V8.34172H13.2251C14.3461 8.34172 15.2581 9.25272 15.2581 10.3717C15.2581 10.7857 14.9221 11.1617 14.5081 11.1617C14.0941 11.1617 13.7581 10.8657 13.7581 10.4517V10.3717C13.7581 10.0847 13.5141 9.84172 13.2251 9.84172H12.7501V11.4417H13.0191C14.2541 11.4417 15.2591 12.4457 15.2591 13.6817C15.2591 14.9167 14.2541 15.9217 13.0191 15.9217ZM10.244 10.6417C10.244 10.1997 10.603 9.84175 11.043 9.84175H11.25V11.4417H11.043C10.603 11.4417 10.244 11.0827 10.244 10.6417ZM12.7501 12.9414H13.0191C13.4271 12.9414 13.7591 13.2734 13.7591 13.6814C13.7591 14.0894 13.4271 14.4214 13.0191 14.4214H12.7501V12.9414Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -1484,7 +2106,7 @@ class _FinancialDollarCircleBroken {
   /// Dollar circle — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Dollar circle',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.0571 10.4481V10.3742C14.0571 9.66585 13.483 9.0918 12.7747 9.0918H11.4923C10.6371 9.0918 9.94336 9.78455 9.94336 10.6408C9.94336 11.496 10.6371 12.1897 11.4923 12.1897H12.5684C13.3906 12.1897 14.0581 12.8562 14.0581 13.6784C14.0581 14.5015 13.3906 15.168 12.5684 15.168H11.2257C10.5174 15.168 9.94336 14.593 9.94336 13.8847" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0039 16.116V15.1712M12.0039 9.08687V8.01562" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 21.0625C7.02908 21.0625 3 17.0334 3 12.0625C3 7.09158 7.02908 3.0625 12 3.0625C16.9709 3.0625 21 7.09158 21 12.0625C21 15.6637 18.8854 18.7707 15.8299 20.2094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.5079 10.4481V10.3742C14.5079 9.66585 13.9338 9.0918 13.2255 9.0918H11.0431C10.1879 9.0918 9.49414 9.78455 9.49414 10.6408C9.49414 11.496 10.1879 12.1897 11.0431 12.1897H13.0192C13.8414 12.1897 14.5088 12.8562 14.5088 13.6784C14.5088 14.5015 13.8414 15.168 13.0192 15.168H10.7765C10.0682 15.168 9.49414 14.593 9.49414 13.8847" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 8.01367V16.1137" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 21.0625C7.02908 21.0625 3 17.0334 3 12.0625C3 7.09158 7.02908 3.0625 12 3.0625C16.9709 3.0625 21 7.09158 21 12.0625C21 15.6637 18.8854 18.7707 15.8299 20.2094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -1499,7 +2121,7 @@ class _FinancialDollarCircleTwotone {
   /// Dollar circle — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Dollar circle',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 12.0625C21.5 7.09158 17.4709 3.0625 12.5 3.0625C7.52908 3.0625 3.5 7.09158 3.5 12.0625C3.5 17.0334 7.52908 21.0625 12.5 21.0625C17.4709 21.0625 21.5 17.0334 21.5 12.0625Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5571 10.4462V10.3722C14.5571 9.6639 13.983 9.08984 13.2747 9.08984H11.9923C11.1371 9.08984 10.4434 9.7826 10.4434 10.6388C10.4434 11.4941 11.1371 12.1878 11.9923 12.1878H13.0684C13.8906 12.1878 14.5581 12.8543 14.5581 13.6764C14.5581 14.4996 13.8906 15.1661 13.0684 15.1661H11.7257C11.0174 15.1661 10.4434 14.591 10.4434 13.8827" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5039 16.116V15.1712M12.5039 9.08687V8.01562" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 12.0625C21.5 7.09158 17.4709 3.0625 12.5 3.0625C7.52908 3.0625 3.5 7.09158 3.5 12.0625C3.5 17.0334 7.52908 21.0625 12.5 21.0625C17.4709 21.0625 21.5 17.0334 21.5 12.0625Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.0079 10.4462V10.3722C15.0079 9.6639 14.4338 9.08984 13.7255 9.08984H11.5431C10.6879 9.08984 9.99414 9.7826 9.99414 10.6388C9.99414 11.4941 10.6879 12.1878 11.5431 12.1878H13.5192C14.3414 12.1878 15.0088 12.8543 15.0088 13.6764C15.0088 14.4996 14.3414 15.1661 13.5192 15.1661H11.2765C10.5682 15.1661 9.99414 14.591 9.99414 13.8827" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 8.01172V16.1117" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -1514,7 +2136,7 @@ class _FinancialDollarCircleOutline {
   /// Dollar circle — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Dollar circle',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5567 7.44329 20.25 12 20.25C16.5567 20.25 20.25 16.5567 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3851 17.3851 21.75 12 21.75C6.61487 21.75 2.25 17.3851 2.25 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.19336 10.5767C9.19336 9.30595 10.2232 8.27771 11.4923 8.27771H12.7747C13.8972 8.27771 14.8071 9.18755 14.8071 10.3101V10.384C14.8071 10.7982 14.4713 11.134 14.0571 11.134C13.6429 11.134 13.3071 10.7982 13.3071 10.384V10.3101C13.3071 10.016 13.0688 9.77771 12.7747 9.77771H11.4923C11.051 9.77771 10.6934 10.135 10.6934 10.5767C10.6934 11.0177 11.0513 11.3757 11.4923 11.3757H12.5684C13.8042 11.3757 14.8081 12.3773 14.8081 13.6143C14.8081 14.852 13.8045 15.8539 12.5684 15.8539H11.2257C10.1025 15.8539 9.19336 14.9424 9.19336 13.8206C9.19336 13.4064 9.52915 13.0706 9.94336 13.0706C10.3576 13.0706 10.6934 13.4064 10.6934 13.8206C10.6934 14.1154 10.9324 14.3539 11.2257 14.3539H12.5684C12.9767 14.3539 13.3081 14.0229 13.3081 13.6143C13.3081 13.207 12.977 12.8757 12.5684 12.8757H11.4923C10.2229 12.8757 9.19336 11.8461 9.19336 10.5767Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0039 7.20215C12.4181 7.20215 12.7539 7.53793 12.7539 7.95215V9.02339C12.7539 9.43761 12.4181 9.77339 12.0039 9.77339C11.5897 9.77339 11.2539 9.43761 11.2539 9.02339V7.95215C11.2539 7.53793 11.5897 7.20215 12.0039 7.20215ZM12.0039 14.3577C12.4181 14.3577 12.7539 14.6935 12.7539 15.1077V16.0525C12.7539 16.4667 12.4181 16.8025 12.0039 16.8025C11.5897 16.8025 11.2539 16.4667 11.2539 16.0525V15.1077C11.2539 14.6935 11.5897 14.3577 12.0039 14.3577Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5567 7.44329 20.25 12 20.25C16.5567 20.25 20.25 16.5567 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3851 17.3851 21.75 12 21.75C6.61487 21.75 2.25 17.3851 2.25 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.74414 10.5773C8.74414 9.30656 9.77396 8.27832 11.0431 8.27832H13.2255C14.348 8.27832 15.2579 9.18816 15.2579 10.3107V10.3846C15.2579 10.7989 14.9221 11.1346 14.5079 11.1346C14.0937 11.1346 13.7579 10.7989 13.7579 10.3846V10.3107C13.7579 10.0166 13.5196 9.77832 13.2255 9.77832H11.0431C10.6018 9.77832 10.2441 10.1356 10.2441 10.5773C10.2441 11.0183 10.6021 11.3763 11.0431 11.3763H13.0192C14.255 11.3763 15.2588 12.3779 15.2588 13.6149C15.2588 14.8526 14.2553 15.8545 13.0192 15.8545H10.7765C9.65324 15.8545 8.74414 14.943 8.74414 13.8212C8.74414 13.407 9.07993 13.0712 9.49414 13.0712C9.90835 13.0712 10.2441 13.407 10.2441 13.8212C10.2441 14.116 10.4831 14.3545 10.7765 14.3545H13.0192C13.4275 14.3545 13.7588 14.0235 13.7588 13.6149C13.7588 13.2076 13.4278 12.8763 13.0192 12.8763H11.0431C9.77366 12.8763 8.74414 11.8468 8.74414 10.5773Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 7.2002C12.4142 7.2002 12.75 7.53598 12.75 7.9502V16.0502C12.75 16.4644 12.4142 16.8002 12 16.8002C11.5858 16.8002 11.25 16.4644 11.25 16.0502V7.9502C11.25 7.53598 11.5858 7.2002 12 7.2002Z" fill="black"/> </svg> ',
     category: 'Financial',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -1529,7 +2151,7 @@ class _FinancialDollarCircleBold {
   /// Dollar circle — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Dollar circle',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.754 15.9045V16.1235C12.754 16.5375 12.418 16.8735 12.004 16.8735C11.59 16.8735 11.254 16.5375 11.254 16.1235V15.9235H11.226C10.105 15.9235 9.193 15.0085 9.193 13.8835C9.193 13.4695 9.529 13.1335 9.943 13.1335C10.357 13.1335 10.693 13.4695 10.693 13.8835C10.693 14.1815 10.932 14.4235 11.226 14.4235H12.568C12.976 14.4235 13.308 14.0915 13.308 13.6835C13.308 13.2745 12.976 12.9425 12.568 12.9425H11.492C10.224 12.9425 9.193 11.9115 9.193 10.6435C9.193 9.4565 10.099 8.4885 11.254 8.3675V8.0225C11.254 7.6085 11.59 7.2725 12.004 7.2725C12.418 7.2725 12.754 7.6085 12.754 8.0225V8.3435H12.775C13.896 8.3435 14.807 9.2545 14.807 10.3735C14.807 10.7875 14.471 11.1635 14.057 11.1635C13.643 11.1635 13.307 10.8675 13.307 10.4535V10.3735C13.307 10.0815 13.068 9.8435 12.775 9.8435H11.492C11.051 9.8435 10.693 10.2015 10.693 10.6435C10.693 11.0845 11.051 11.4425 11.492 11.4425H12.568C13.803 11.4425 14.808 12.4475 14.808 13.6835C14.808 14.8545 13.901 15.8085 12.754 15.9045ZM12 2.5625C6.762 2.5625 2.5 6.8245 2.5 12.0625C2.5 17.3015 6.762 21.5625 12 21.5625C17.238 21.5625 21.5 17.3015 21.5 12.0625C21.5 6.8245 17.238 2.5625 12 2.5625Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0429 9.84253C10.6029 9.84253 10.2439 10.2005 10.2439 10.6425C10.2439 11.0835 10.6029 11.4425 11.0429 11.4425H11.2499V9.84253H11.0429Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.019 12.9421H12.75V14.4221H13.019C13.427 14.4221 13.759 14.0901 13.759 13.6821C13.759 13.2741 13.427 12.9421 13.019 12.9421Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.019 15.9225H12.75V16.1125C12.75 16.5265 12.414 16.8625 12 16.8625C11.586 16.8625 11.25 16.5265 11.25 16.1125V15.9225H10.777C9.656 15.9225 8.744 15.0075 8.744 13.8825C8.744 13.4685 9.08 13.1325 9.494 13.1325C9.908 13.1325 10.244 13.4685 10.244 13.8825C10.244 14.1805 10.483 14.4225 10.777 14.4225H11.25V12.9425H11.043C9.775 12.9425 8.744 11.9105 8.744 10.6425C8.744 9.3735 9.775 8.3425 11.043 8.3425H11.25V8.0125C11.25 7.5985 11.586 7.2625 12 7.2625C12.414 7.2625 12.75 7.5985 12.75 8.0125V8.3425H13.225C14.346 8.3425 15.258 9.2535 15.258 10.3725C15.258 10.7865 14.922 11.1625 14.508 11.1625C14.094 11.1625 13.758 10.8665 13.758 10.4525V10.3725C13.758 10.0855 13.514 9.8425 13.225 9.8425H12.75V11.4425H13.019C14.254 11.4425 15.259 12.4465 15.259 13.6825C15.259 14.9175 14.254 15.9225 13.019 15.9225ZM12 2.5625C6.762 2.5625 2.5 6.8235 2.5 12.0625C2.5 17.3005 6.762 21.5625 12 21.5625C17.238 21.5625 21.5 17.3005 21.5 12.0625C21.5 6.8235 17.238 2.5625 12 2.5625Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -1544,7 +2166,223 @@ class _FinancialDollarCircleLight {
   /// Dollar circle — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Dollar circle',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9709 7.02908 21 12 21C16.9709 21 21 16.9709 21 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5079 10.3846V10.3107C14.5079 9.60237 13.9338 9.02832 13.2255 9.02832H11.0431C10.1879 9.02832 9.49414 9.72108 9.49414 10.5773C9.49414 11.4325 10.1879 12.1263 11.0431 12.1263H13.0192C13.8414 12.1263 14.5088 12.7928 14.5088 13.6149C14.5088 14.4381 13.8414 15.1045 13.0192 15.1045H10.7765C10.0682 15.1045 9.49414 14.5295 9.49414 13.8212" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 7.9502V16.0502" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar circle 1 icon with style variants.
+class _FinancialDollarCircle1Icon {
+  const _FinancialDollarCircle1Icon();
+
+  /// bold style
+  _FinancialDollarCircle1Bold get bold => const _FinancialDollarCircle1Bold();
+  /// bulk style
+  _FinancialDollarCircle1Bulk get bulk => const _FinancialDollarCircle1Bulk();
+  /// light style
+  _FinancialDollarCircle1Light get light => const _FinancialDollarCircle1Light();
+  /// outline style
+  _FinancialDollarCircle1Outline get outline => const _FinancialDollarCircle1Outline();
+  /// twoTone style
+  _FinancialDollarCircle1Twotone get twoTone => const _FinancialDollarCircle1Twotone();
+  /// broken style
+  _FinancialDollarCircle1Broken get broken => const _FinancialDollarCircle1Broken();
+}
+
+/// Dollar circle 1 — bulk style variants.
+class _FinancialDollarCircle1Bulk {
+  const _FinancialDollarCircle1Bulk();
+
+  /// Dollar circle 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar circle 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12 2.5625C6.762 2.5625 2.5 6.8245 2.5 12.0625C2.5 17.3015 6.762 21.5625 12 21.5625C17.238 21.5625 21.5 17.3015 21.5 12.0625C21.5 6.8245 17.238 2.5625 12 2.5625Z" fill="black"/> <path d="M12.7539 16.1244V15.9054C13.9009 15.8094 14.8079 14.8554 14.8079 13.6844C14.8079 12.4484 13.8029 11.4434 12.5679 11.4434H11.4919C11.0509 11.4434 10.6929 11.0854 10.6929 10.6444C10.6929 10.2024 11.0509 9.84444 11.4919 9.84444H12.7749C13.0679 9.84444 13.3069 10.0824 13.3069 10.3744V10.4544C13.3069 10.8684 13.6429 11.1644 14.0569 11.1644C14.4709 11.1644 14.8069 10.7884 14.8069 10.3744C14.8069 9.25544 13.8959 8.34444 12.7749 8.34444H12.7539V8.02344C12.7539 7.60944 12.4179 7.27344 12.0039 7.27344C11.5899 7.27344 11.2539 7.60944 11.2539 8.02344V8.36844C10.0989 8.48944 9.19287 9.45744 9.19287 10.6444C9.19287 11.9124 10.2239 12.9434 11.4919 12.9434H12.5679C12.9759 12.9434 13.3079 13.2754 13.3079 13.6844C13.3079 14.0924 12.9759 14.4244 12.5679 14.4244H11.2259C10.9319 14.4244 10.6929 14.1824 10.6929 13.8844C10.6929 13.4704 10.3569 13.1344 9.94287 13.1344C9.52887 13.1344 9.19287 13.4704 9.19287 13.8844C9.19287 15.0094 10.1049 15.9244 11.2259 15.9244H11.2539V16.1244C11.2539 16.5384 11.5899 16.8744 12.0039 16.8744C12.4179 16.8744 12.7539 16.5384 12.7539 16.1244Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar circle 1 — broken style variants.
+class _FinancialDollarCircle1Broken {
+  const _FinancialDollarCircle1Broken();
+
+  /// Dollar circle 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar circle 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.0571 10.4481V10.3742C14.0571 9.66585 13.483 9.0918 12.7747 9.0918H11.4923C10.6371 9.0918 9.94336 9.78455 9.94336 10.6408C9.94336 11.496 10.6371 12.1897 11.4923 12.1897H12.5684C13.3906 12.1897 14.0581 12.8562 14.0581 13.6784C14.0581 14.5015 13.3906 15.168 12.5684 15.168H11.2257C10.5174 15.168 9.94336 14.593 9.94336 13.8847" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0039 16.116V15.1712M12.0039 9.08687V8.01562" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 21.0625C7.02908 21.0625 3 17.0334 3 12.0625C3 7.09158 7.02908 3.0625 12 3.0625C16.9709 3.0625 21 7.09158 21 12.0625C21 15.6637 18.8854 18.7707 15.8299 20.2094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar circle 1 — twoTone style variants.
+class _FinancialDollarCircle1Twotone {
+  const _FinancialDollarCircle1Twotone();
+
+  /// Dollar circle 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar circle 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 12.0625C21.5 7.09158 17.4709 3.0625 12.5 3.0625C7.52908 3.0625 3.5 7.09158 3.5 12.0625C3.5 17.0334 7.52908 21.0625 12.5 21.0625C17.4709 21.0625 21.5 17.0334 21.5 12.0625Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5571 10.4462V10.3722C14.5571 9.6639 13.983 9.08984 13.2747 9.08984H11.9923C11.1371 9.08984 10.4434 9.7826 10.4434 10.6388C10.4434 11.4941 11.1371 12.1878 11.9923 12.1878H13.0684C13.8906 12.1878 14.5581 12.8543 14.5581 13.6764C14.5581 14.4996 13.8906 15.1661 13.0684 15.1661H11.7257C11.0174 15.1661 10.4434 14.591 10.4434 13.8827" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5039 16.116V15.1712M12.5039 9.08687V8.01562" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar circle 1 — outline style variants.
+class _FinancialDollarCircle1Outline {
+  const _FinancialDollarCircle1Outline();
+
+  /// Dollar circle 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar circle 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5567 7.44329 20.25 12 20.25C16.5567 20.25 20.25 16.5567 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3851 17.3851 21.75 12 21.75C6.61487 21.75 2.25 17.3851 2.25 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.19336 10.5767C9.19336 9.30595 10.2232 8.27771 11.4923 8.27771H12.7747C13.8972 8.27771 14.8071 9.18755 14.8071 10.3101V10.384C14.8071 10.7982 14.4713 11.134 14.0571 11.134C13.6429 11.134 13.3071 10.7982 13.3071 10.384V10.3101C13.3071 10.016 13.0688 9.77771 12.7747 9.77771H11.4923C11.051 9.77771 10.6934 10.135 10.6934 10.5767C10.6934 11.0177 11.0513 11.3757 11.4923 11.3757H12.5684C13.8042 11.3757 14.8081 12.3773 14.8081 13.6143C14.8081 14.852 13.8045 15.8539 12.5684 15.8539H11.2257C10.1025 15.8539 9.19336 14.9424 9.19336 13.8206C9.19336 13.4064 9.52915 13.0706 9.94336 13.0706C10.3576 13.0706 10.6934 13.4064 10.6934 13.8206C10.6934 14.1154 10.9324 14.3539 11.2257 14.3539H12.5684C12.9767 14.3539 13.3081 14.0229 13.3081 13.6143C13.3081 13.207 12.977 12.8757 12.5684 12.8757H11.4923C10.2229 12.8757 9.19336 11.8461 9.19336 10.5767Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0039 7.20215C12.4181 7.20215 12.7539 7.53793 12.7539 7.95215V9.02339C12.7539 9.43761 12.4181 9.77339 12.0039 9.77339C11.5897 9.77339 11.2539 9.43761 11.2539 9.02339V7.95215C11.2539 7.53793 11.5897 7.20215 12.0039 7.20215ZM12.0039 14.3577C12.4181 14.3577 12.7539 14.6935 12.7539 15.1077V16.0525C12.7539 16.4667 12.4181 16.8025 12.0039 16.8025C11.5897 16.8025 11.2539 16.4667 11.2539 16.0525V15.1077C11.2539 14.6935 11.5897 14.3577 12.0039 14.3577Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar circle 1 — bold style variants.
+class _FinancialDollarCircle1Bold {
+  const _FinancialDollarCircle1Bold();
+
+  /// Dollar circle 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar circle 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.754 15.9045V16.1235C12.754 16.5375 12.418 16.8735 12.004 16.8735C11.59 16.8735 11.254 16.5375 11.254 16.1235V15.9235H11.226C10.105 15.9235 9.193 15.0085 9.193 13.8835C9.193 13.4695 9.529 13.1335 9.943 13.1335C10.357 13.1335 10.693 13.4695 10.693 13.8835C10.693 14.1815 10.932 14.4235 11.226 14.4235H12.568C12.976 14.4235 13.308 14.0915 13.308 13.6835C13.308 13.2745 12.976 12.9425 12.568 12.9425H11.492C10.224 12.9425 9.193 11.9115 9.193 10.6435C9.193 9.4565 10.099 8.4885 11.254 8.3675V8.0225C11.254 7.6085 11.59 7.2725 12.004 7.2725C12.418 7.2725 12.754 7.6085 12.754 8.0225V8.3435H12.775C13.896 8.3435 14.807 9.2545 14.807 10.3735C14.807 10.7875 14.471 11.1635 14.057 11.1635C13.643 11.1635 13.307 10.8675 13.307 10.4535V10.3735C13.307 10.0815 13.068 9.8435 12.775 9.8435H11.492C11.051 9.8435 10.693 10.2015 10.693 10.6435C10.693 11.0845 11.051 11.4425 11.492 11.4425H12.568C13.803 11.4425 14.808 12.4475 14.808 13.6835C14.808 14.8545 13.901 15.8085 12.754 15.9045ZM12 2.5625C6.762 2.5625 2.5 6.8245 2.5 12.0625C2.5 17.3015 6.762 21.5625 12 21.5625C17.238 21.5625 21.5 17.3015 21.5 12.0625C21.5 6.8245 17.238 2.5625 12 2.5625Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar circle 1 — light style variants.
+class _FinancialDollarCircle1Light {
+  const _FinancialDollarCircle1Light();
+
+  /// Dollar circle 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar circle 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9709 7.02908 21 12 21C16.9709 21 21 16.9709 21 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0571 10.384V10.3101C14.0571 9.60176 13.483 9.02771 12.7747 9.02771H11.4923C10.6371 9.02771 9.94336 9.72047 9.94336 10.5767C9.94336 11.4319 10.6371 12.1257 11.4923 12.1257H12.5684C13.3906 12.1257 14.0581 12.7921 14.0581 13.6143C14.0581 14.4374 13.3906 15.1039 12.5684 15.1039H11.2257C10.5174 15.1039 9.94336 14.5289 9.94336 13.8206" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0039 16.0525V15.1077M12.0039 9.02339V7.95215" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar circle 2 icon with style variants.
+class _FinancialDollarCircle2Icon {
+  const _FinancialDollarCircle2Icon();
+
+  /// bold style
+  _FinancialDollarCircle2Bold get bold => const _FinancialDollarCircle2Bold();
+  /// bulk style
+  _FinancialDollarCircle2Bulk get bulk => const _FinancialDollarCircle2Bulk();
+  /// light style
+  _FinancialDollarCircle2Light get light => const _FinancialDollarCircle2Light();
+  /// outline style
+  _FinancialDollarCircle2Outline get outline => const _FinancialDollarCircle2Outline();
+  /// twoTone style
+  _FinancialDollarCircle2Twotone get twoTone => const _FinancialDollarCircle2Twotone();
+  /// broken style
+  _FinancialDollarCircle2Broken get broken => const _FinancialDollarCircle2Broken();
+}
+
+/// Dollar circle 2 — bulk style variants.
+class _FinancialDollarCircle2Bulk {
+  const _FinancialDollarCircle2Bulk();
+
+  /// Dollar circle 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar circle 2',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12 2.5625C6.762 2.5625 2.5 6.8245 2.5 12.0625C2.5 17.3005 6.762 21.5625 12 21.5625C17.238 21.5625 21.5 17.3005 21.5 12.0625C21.5 6.8245 17.238 2.5625 12 2.5625Z" fill="black"/> <path d="M12.7501 15.6427H12.8081C14.0011 15.6427 14.9721 14.6737 14.9721 13.4827C14.9721 12.2907 14.0011 11.3227 12.8081 11.3227H11.1931C10.8271 11.3227 10.5291 11.0217 10.5291 10.6527C10.5291 10.2887 10.8271 9.99273 11.1931 9.99273H13.8181C14.2321 9.99273 14.5681 9.65673 14.5681 9.24273C14.5681 8.82873 14.2321 8.49273 13.8181 8.49273H12.7501V8.05273C12.7501 7.63873 12.4141 7.30273 12.0001 7.30273C11.5861 7.30273 11.2501 7.63873 11.2501 8.05273V8.49273H11.1931C9.99905 8.49273 9.02905 9.46073 9.02905 10.6527C9.02905 11.8487 9.99905 12.8227 11.1931 12.8227H12.8081C13.1741 12.8227 13.4721 13.1187 13.4721 13.4827C13.4721 13.8467 13.1741 14.1427 12.8081 14.1427H10.1831C9.76905 14.1427 9.43305 14.4787 9.43305 14.8927C9.43305 15.3067 9.76905 15.6427 10.1831 15.6427H11.2501V16.0827C11.2501 16.4967 11.5861 16.8327 12.0001 16.8327C12.4141 16.8327 12.7501 16.4967 12.7501 16.0827V15.6427Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar circle 2 — broken style variants.
+class _FinancialDollarCircle2Broken {
+  const _FinancialDollarCircle2Broken();
+
+  /// Dollar circle 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar circle 2',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.8181 9.23828H11.193C10.4117 9.23828 9.7793 9.87169 9.7793 10.652C9.7793 11.4323 10.4117 12.0657 11.193 12.0657H12.8082C13.5895 12.0657 14.2219 12.6991 14.2219 13.4795C14.2219 14.2608 13.5895 14.8932 12.8082 14.8932H10.1831" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 14.8947V16.0818M12 8.04688V9.2446" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 21.0625C7.02908 21.0625 3 17.0334 3 12.0625C3 7.09158 7.02908 3.0625 12 3.0625C16.9709 3.0625 21 7.09158 21 12.0625C21 15.6637 18.8854 18.7707 15.8299 20.2094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar circle 2 — twoTone style variants.
+class _FinancialDollarCircle2Twotone {
+  const _FinancialDollarCircle2Twotone();
+
+  /// Dollar circle 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar circle 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 12.0625C21.5 7.09158 17.4709 3.0625 12.5 3.0625C7.52908 3.0625 3.5 7.09158 3.5 12.0625C3.5 17.0334 7.52908 21.0625 12.5 21.0625C17.4709 21.0625 21.5 17.0334 21.5 12.0625Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3181 9.23828H11.693C10.9117 9.23828 10.2793 9.87169 10.2793 10.652C10.2793 11.4323 10.9117 12.0657 11.693 12.0657H13.3082C14.0895 12.0657 14.7219 12.6991 14.7219 13.4795C14.7219 14.2608 14.0895 14.8932 13.3082 14.8932H10.6831" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 14.8928V16.0798M12.5 8.04492V9.24265" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar circle 2 — outline style variants.
+class _FinancialDollarCircle2Outline {
+  const _FinancialDollarCircle2Outline();
+
+  /// Dollar circle 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar circle 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5567 7.44329 20.25 12 20.25C16.5567 20.25 20.25 16.5567 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3851 17.3851 21.75 12 21.75C6.61487 21.75 2.25 17.3851 2.25 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.0293 10.5895C9.0293 9.39531 9.99718 8.42578 11.193 8.42578H13.8181C14.2323 8.42578 14.5681 8.76157 14.5681 9.17578C14.5681 9.58999 14.2323 9.92578 13.8181 9.92578H11.193C10.8263 9.92578 10.5293 10.2231 10.5293 10.5895C10.5293 10.956 10.8263 11.2532 11.193 11.2532H12.8082C14.004 11.2532 14.9719 12.2228 14.9719 13.417C14.9719 14.6125 14.0037 15.5807 12.8082 15.5807H10.1831C9.76887 15.5807 9.43308 15.2449 9.43308 14.8307C9.43308 14.4165 9.76887 14.0807 10.1831 14.0807H12.8082C13.1752 14.0807 13.4719 13.7841 13.4719 13.417C13.4719 13.0505 13.1749 12.7532 12.8082 12.7532H11.193C9.99718 12.7532 9.0293 11.7837 9.0293 10.5895Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 7.23242C12.4142 7.23242 12.75 7.56821 12.75 7.98242V9.18015C12.75 9.59437 12.4142 9.93015 12 9.93015C11.5858 9.93015 11.25 9.59437 11.25 9.18015V7.98242C11.25 7.56821 11.5858 7.23242 12 7.23242ZM12 14.0803C12.4142 14.0803 12.75 14.4161 12.75 14.8303V16.0173C12.75 16.4315 12.4142 16.7673 12 16.7673C11.5858 16.7673 11.25 16.4315 11.25 16.0173V14.8303C11.25 14.4161 11.5858 14.0803 12 14.0803Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar circle 2 — bold style variants.
+class _FinancialDollarCircle2Bold {
+  const _FinancialDollarCircle2Bold();
+
+  /// Dollar circle 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar circle 2',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.808 15.6425H12.75V16.0825C12.75 16.4965 12.414 16.8325 12 16.8325C11.586 16.8325 11.25 16.4965 11.25 16.0825V15.6425H10.183C9.769 15.6425 9.433 15.3065 9.433 14.8925C9.433 14.4785 9.769 14.1425 10.183 14.1425H12.808C13.174 14.1425 13.472 13.8465 13.472 13.4825C13.472 13.1185 13.174 12.8225 12.808 12.8225H11.193C9.999 12.8225 9.029 11.8485 9.029 10.6525C9.029 9.4605 9.999 8.4925 11.193 8.4925H11.25V8.0525C11.25 7.6385 11.586 7.3025 12 7.3025C12.414 7.3025 12.75 7.6385 12.75 8.0525V8.4925H13.818C14.232 8.4925 14.568 8.8285 14.568 9.2425C14.568 9.6565 14.232 9.9925 13.818 9.9925H11.193C10.827 9.9925 10.529 10.2885 10.529 10.6525C10.529 11.0215 10.827 11.3225 11.193 11.3225H12.808C14.001 11.3225 14.972 12.2905 14.972 13.4825C14.972 14.6735 14.001 15.6425 12.808 15.6425ZM12 2.5625C6.762 2.5625 2.5 6.8245 2.5 12.0625C2.5 17.3005 6.762 21.5625 12 21.5625C17.238 21.5625 21.5 17.3005 21.5 12.0625C21.5 6.8245 17.238 2.5625 12 2.5625Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar circle 2 — light style variants.
+class _FinancialDollarCircle2Light {
+  const _FinancialDollarCircle2Light();
+
+  /// Dollar circle 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar circle 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9709 7.02908 21 12 21C16.9709 21 21 16.9709 21 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.8181 9.17578H11.193C10.4117 9.17578 9.7793 9.80919 9.7793 10.5895C9.7793 11.3698 10.4117 12.0032 11.193 12.0032H12.8082C13.5895 12.0032 14.2219 12.6366 14.2219 13.417C14.2219 14.1983 13.5895 14.8307 12.8082 14.8307H10.1831" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 14.8303V16.0173M12 7.98242V9.18015" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Financial',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -1670,8 +2508,6 @@ class _FinancialMoneyPaperDropIcon {
   _FinancialMoneyPaperDropBulk get bulk => const _FinancialMoneyPaperDropBulk();
   /// light style
   _FinancialMoneyPaperDropLight get light => const _FinancialMoneyPaperDropLight();
-  /// outline style
-  _FinancialMoneyPaperDropOutline get outline => const _FinancialMoneyPaperDropOutline();
   /// twoTone style
   _FinancialMoneyPaperDropTwotone get twoTone => const _FinancialMoneyPaperDropTwotone();
   /// broken style
@@ -1718,21 +2554,6 @@ class _FinancialMoneyPaperDropTwotone {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M17.6037 9.18164H6.3971C4.5016 9.18164 3.32227 10.5196 3.32227 12.4122V17.7698C3.32227 19.6633 4.5016 21.0003 6.39808 21.0003H17.6037C19.4982 21.0003 20.6776 19.6633 20.6776 17.7698V12.4122C20.6776 10.5196 19.4934 9.18164 17.6037 9.18164Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.42188 11.8418H7.77441" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5771 18.3418H16.2246" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.79297 15.0926C9.79297 13.8744 10.7806 12.8867 11.9989 12.8867C13.2171 12.8867 14.2048 13.8744 14.2048 15.0926C14.2048 16.3109 13.2171 17.2985 11.9989 17.2985C10.7806 17.2985 9.79297 16.3109 9.79297 15.0926Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.11719 6.33739V4.8457" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.8799 6.33739V4.8457" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.998 6.33756V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Money paper drop — outline style variants.
-class _FinancialMoneyPaperDropOutline {
-  const _FinancialMoneyPaperDropOutline();
-
-  /// Money paper drop — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Money paper drop',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.69775 10.598C4.31712 11.0067 4.07227 11.6205 4.07227 12.4119V17.7695C4.07227 18.5614 4.31716 19.1751 4.69775 19.5836C5.07274 19.9861 5.63483 20.25 6.39808 20.25H17.6037C18.3658 20.25 18.9274 19.9863 19.3022 19.5837C19.6827 19.1751 19.9276 18.5614 19.9276 17.7695V12.4119C19.9276 11.6213 19.682 11.0074 19.3006 10.5982C18.9247 10.1949 18.3628 9.93134 17.6037 9.93134H6.3971C5.63462 9.93134 5.07275 10.1953 4.69775 10.598ZM3.6 9.57577C4.28854 8.83635 5.26409 8.43134 6.3971 8.43134H17.6037C18.7343 8.43134 19.7093 8.8367 20.3979 9.57552C21.0811 10.3085 21.4276 11.3098 21.4276 12.4119V17.7695C21.4276 18.8711 21.0828 19.8726 20.4 20.6059C19.7115 21.3453 18.7362 21.75 17.6037 21.75H6.39808C5.26485 21.75 4.28903 21.3454 3.60023 20.6061C2.91704 19.8727 2.57227 18.8711 2.57227 17.7695V12.4119C2.57227 11.3107 2.91708 10.3091 3.6 9.57577Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.67188 11.8418C5.67188 11.4276 6.00766 11.0918 6.42188 11.0918H7.77441C8.18863 11.0918 8.52441 11.4276 8.52441 11.8418C8.52441 12.256 8.18863 12.5918 7.77441 12.5918H6.42188C6.00766 12.5918 5.67188 12.256 5.67188 11.8418Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4746 18.3418C15.4746 17.9276 15.8104 17.5918 16.2246 17.5918H17.5771C17.9914 17.5918 18.3271 17.9276 18.3271 18.3418C18.3271 18.756 17.9914 19.0918 17.5771 19.0918H16.2246C15.8104 19.0918 15.4746 18.756 15.4746 18.3418Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9989 13.6357C11.1948 13.6357 10.543 14.2876 10.543 15.0916C10.543 15.8957 11.1948 16.5476 11.9989 16.5476C12.8029 16.5476 13.4548 15.8957 13.4548 15.0916C13.4548 14.2876 12.8029 13.6357 11.9989 13.6357ZM9.04297 15.0916C9.04297 13.4592 10.3664 12.1357 11.9989 12.1357C13.6313 12.1357 14.9548 13.4592 14.9548 15.0916C14.9548 16.7241 13.6313 18.0476 11.9989 18.0476C10.3664 18.0476 9.04297 16.7241 9.04297 15.0916Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.11719 4.0954C8.5314 4.0954 8.86719 4.43118 8.86719 4.8454V6.33708C8.86719 6.7513 8.5314 7.08708 8.11719 7.08708C7.70297 7.08708 7.36719 6.7513 7.36719 6.33708V4.8454C7.36719 4.43118 7.70297 4.0954 8.11719 4.0954Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8799 4.0954C16.2941 4.0954 16.6299 4.43118 16.6299 4.8454V6.33708C16.6299 6.7513 16.2941 7.08708 15.8799 7.08708C15.4657 7.08708 15.1299 6.7513 15.1299 6.33708V4.8454C15.1299 4.43118 15.4657 4.0954 15.8799 4.0954Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.998 2.25C12.4123 2.25 12.748 2.58579 12.748 3V6.33756C12.748 6.75177 12.4123 7.08756 11.998 7.08756C11.5838 7.08756 11.248 6.75177 11.248 6.33756V3C11.248 2.58579 11.5838 2.25 11.998 2.25Z" fill="black"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -1793,7 +2614,7 @@ class _FinancialMoneyPaperUploadBulk {
   /// Money paper upload — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Money paper upload',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.603 8.79102H6.39602C4.25902 8.79102 2.82202 10.29 2.82202 12.521V17.881C2.82202 20.112 4.26002 21.611 6.39802 21.611H17.603C19.741 21.611 21.178 20.112 21.178 17.881V12.521C21.178 10.29 19.741 8.79102 17.603 8.79102Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.4781 5.85367L11.2511 5.07767V7.36067C11.2511 7.77467 11.5871 8.11067 12.0011 8.11067C12.4151 8.11067 12.7511 7.77467 12.7511 7.36067V5.07967L13.5231 5.85367C13.6691 6.00067 13.8621 6.07467 14.0541 6.07467C14.2461 6.07467 14.4371 6.00067 14.5831 5.85567C14.8771 5.56367 14.8771 5.08767 14.5851 4.79467L12.5341 2.73667C12.3981 2.59967 12.2101 2.51367 12.0011 2.51367C11.8001 2.51367 11.6181 2.59567 11.4831 2.72567C11.4791 2.72967 11.4731 2.73067 11.4691 2.73467L9.41614 4.79467C9.12414 5.08767 9.12414 5.56367 9.41714 5.85567C9.71114 6.14767 10.1861 6.14767 10.4781 5.85367Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9991 18.1612C10.3691 18.1612 9.04312 16.8332 9.04312 15.2012C9.04312 13.5742 10.3691 12.2512 11.9991 12.2512C13.6291 12.2512 14.9551 13.5742 14.9551 15.2012C14.9551 16.8332 13.6291 18.1612 11.9991 18.1612ZM10.5428 15.2011C10.5428 14.4011 11.1958 13.7511 11.9988 13.7511C12.8018 13.7511 13.4548 14.4011 13.4548 15.2011C13.4548 16.0061 12.8018 16.6611 11.9988 16.6611C11.1958 16.6611 10.5428 16.0061 10.5428 15.2011Z" fill="black"/> <path d="M17.5771 19.2012H16.2241C15.8101 19.2012 15.4741 18.8652 15.4741 18.4512C15.4741 18.0372 15.8101 17.7012 16.2241 17.7012H17.5771C17.9911 17.7012 18.3271 18.0372 18.3271 18.4512C18.3271 18.8652 17.9911 19.2012 17.5771 19.2012Z" fill="black"/> <path d="M7.77412 12.7012H6.42212C6.00812 12.7012 5.67212 12.3652 5.67212 11.9512C5.67212 11.5372 6.00812 11.2012 6.42212 11.2012H7.77412C8.18812 11.2012 8.52412 11.5372 8.52412 11.9512C8.52412 12.3652 8.18812 12.7012 7.77412 12.7012Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.462 9.10352H6.53804C4.44504 9.10352 3.04004 10.5705 3.04004 12.7545V17.9735C3.04004 20.1575 4.44604 21.6245 6.53904 21.6245H17.462C19.554 21.6245 20.96 20.1575 20.96 17.9735V12.7545C20.96 10.5705 19.554 9.10352 17.462 9.10352Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3813 5.665L11.1093 4.937V7.274C11.1093 7.688 11.4443 8.024 11.8593 8.024C12.2733 8.024 12.6093 7.688 12.6093 7.274V4.937L13.3373 5.665C13.4843 5.811 13.6753 5.885 13.8673 5.885C14.0593 5.885 14.2513 5.811 14.3983 5.665C14.6913 5.373 14.6913 4.897 14.3983 4.604L12.3903 2.595C12.3213 2.526 12.2393 2.471 12.1493 2.433C12.0583 2.395 11.9603 2.375 11.8603 2.375C11.7593 2.375 11.6613 2.395 11.5713 2.433C11.4803 2.471 11.3983 2.526 11.3293 2.595L9.32034 4.604C9.02734 4.897 9.02734 5.372 9.32034 5.665C9.61334 5.958 10.0883 5.958 10.3813 5.665Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.002 18.2634C10.402 18.2634 9.10101 16.9634 9.10101 15.3634C9.10101 13.7644 10.402 12.4644 12.002 12.4644C13.601 12.4644 14.903 13.7644 14.903 15.3634C14.903 16.9634 13.601 18.2634 12.002 18.2634ZM10.6015 15.3632C10.6015 14.5922 11.2295 13.9642 12.0015 13.9642C12.7735 13.9642 13.4025 14.5922 13.4025 15.3632C13.4025 16.1362 12.7735 16.7642 12.0015 16.7642C11.2295 16.7642 10.6015 16.1362 10.6015 15.3632Z" fill="black"/> <path d="M7.88001 12.9434H6.56201C6.14801 12.9434 5.81201 12.6074 5.81201 12.1934C5.81201 11.7794 6.14801 11.4434 6.56201 11.4434H7.88001C8.29401 11.4434 8.63001 11.7794 8.63001 12.1934C8.63001 12.6074 8.29401 12.9434 7.88001 12.9434Z" fill="black"/> <path d="M17.439 19.2834H16.121C15.707 19.2834 15.371 18.9474 15.371 18.5334C15.371 18.1194 15.707 17.7834 16.121 17.7834H17.439C17.853 17.7834 18.189 18.1194 18.189 18.5334C18.189 18.9474 17.853 19.2834 17.439 19.2834Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -1808,7 +2629,7 @@ class _FinancialMoneyPaperUploadBroken {
   /// Money paper upload — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Money paper upload',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.423 9.27734H17.5885C19.4721 9.27734 20.6533 10.6112 20.6533 12.4997V17.8421C20.6533 19.7296 19.478 21.0635 17.5885 21.0635H12.001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.07904 9.27734H6.4124C4.52296 9.27734 3.34668 10.6112 3.34668 12.4997V17.8421C3.34668 19.7296 4.52296 21.0635 6.41337 21.0635H8.4601" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.055 5.11637L12.0011 3.0625L9.94727 5.11637" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 8.8865V3.06445" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.4375 11.9297H7.78599" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5633 18.4102H16.2148" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0006 12.9688C13.2158 12.9688 14.2004 13.9534 14.2004 15.1686C14.2004 16.3838 13.2158 17.3684 12.0006 17.3684C10.7854 17.3684 9.80078 16.3838 9.80078 15.1686" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0009 20.9993H17.4631C19.3108 20.9993 20.4598 19.6946 20.4598 17.8499V12.626C20.4598 10.7803 19.3049 9.47656 17.4631 9.47656H6.53773C4.69008 9.47656 3.54004 10.7803 3.54004 12.626V17.8499C3.54004 19.6946 4.69008 20.9993 6.53871 20.9993H8.65121" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.5625 12.0703H7.88086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4395 18.4062H16.1211" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0018 13.0898C10.8148 13.0898 9.85156 14.0521 9.85156 15.2401C9.85156 16.4281 10.8148 17.3903 12.0018 17.3903C13.1898 17.3903 14.153 16.4281 14.153 15.2401" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.8679 5.00819L11.8598 3L9.85156 5.00819" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8599 3L11.8594 7.15454" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -1823,7 +2644,7 @@ class _FinancialMoneyPaperUploadTwotone {
   /// Money paper upload — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Money paper upload',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M16.9229 9.27539H18.0885C19.9721 9.27539 21.1532 10.6093 21.1532 12.4978V17.8401C21.1532 19.7276 19.9779 21.0615 18.0885 21.0615H6.91337C5.02296 21.0615 3.84668 19.7276 3.84668 17.8401V12.4978C3.84668 10.6093 5.02296 9.27539 6.9124 9.27539H8.57904" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.555 5.11637L12.5011 3.0625L10.4473 5.11637" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.502 8.88454V3.0625" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.9375 11.9277H8.28599" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.0633 18.4102H16.7148" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3008 15.1686C10.3008 13.9534 11.2854 12.9688 12.5006 12.9688C13.7158 12.9688 14.7004 13.9534 14.7004 15.1686C14.7004 16.3838 13.7158 17.3684 12.5006 17.3684C11.2854 17.3684 10.3008 16.3838 10.3008 15.1686Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M17.4631 9.47656H6.53773C4.69008 9.47656 3.54004 10.7803 3.54004 12.626V17.8499C3.54004 19.6946 4.69008 20.9993 6.53871 20.9993H17.4631C19.3108 20.9993 20.4598 19.6946 20.4598 17.8499V12.626C20.4598 10.7803 19.3049 9.47656 17.4631 9.47656Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.5625 12.0703H7.88086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4395 18.4062H16.1211" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.85156 15.2401C9.85156 14.0521 10.8148 13.0898 12.0018 13.0898C13.1898 13.0898 14.153 14.0521 14.153 15.2401C14.153 16.4281 13.1898 17.3903 12.0018 17.3903C10.8148 17.3903 9.85156 16.4281 9.85156 15.2401Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.8679 5.00819L11.8598 3L9.85156 5.00819" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8599 3L11.8594 7.15454" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -1838,7 +2659,7 @@ class _FinancialMoneyPaperUploadOutline {
   /// Money paper upload — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Money paper upload',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.71992 10.6279C4.34081 11.0351 4.09668 11.6468 4.09668 12.4362V17.7786C4.09668 18.5674 4.34075 19.1788 4.71993 19.5859C5.0935 19.987 5.65335 20.25 6.41337 20.25H17.5885C18.3479 20.25 18.9072 19.9871 19.2804 19.5861C19.6593 19.1791 19.9032 18.5676 19.9032 17.7786V12.4362C19.9032 11.6476 19.6584 11.0358 19.2785 10.6282C18.9042 10.2264 18.3445 9.96387 17.5885 9.96387H16.4229C16.0087 9.96387 15.6729 9.62808 15.6729 9.21387C15.6729 8.79965 16.0087 8.46387 16.4229 8.46387H17.5885C18.7161 8.46387 19.6888 8.86824 20.3759 9.60556C21.0575 10.337 21.4032 11.3363 21.4032 12.4362V17.7786C21.4032 18.8771 21.0595 19.8763 20.3784 20.6081C19.6916 21.346 18.7185 21.75 17.5885 21.75H6.41337C5.28298 21.75 4.30948 21.3461 3.62231 20.6083C2.94075 19.8766 2.59668 18.8773 2.59668 17.7786V12.4362C2.59668 11.3372 2.94069 10.3377 3.62208 9.60581C4.30909 8.8679 5.28238 8.46387 6.4124 8.46387H8.07904C8.49325 8.46387 8.82904 8.79965 8.82904 9.21387C8.82904 9.62808 8.49325 9.96387 8.07904 9.96387H6.4124C5.65298 9.96387 5.0934 10.2268 4.71992 10.6279Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0011 2.25C12.2 2.25 12.3908 2.32902 12.5315 2.46967L14.5853 4.52354C14.8782 4.81643 14.8782 5.2913 14.5853 5.5842C14.2924 5.87709 13.8176 5.87709 13.5247 5.5842L12.0011 4.06066L10.4776 5.5842C10.1847 5.87709 9.70983 5.87709 9.41694 5.5842C9.12404 5.2913 9.12404 4.81643 9.41694 4.52354L11.4708 2.46967C11.6115 2.32902 11.8022 2.25 12.0011 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.002 2.25098C12.4162 2.25098 12.752 2.58676 12.752 3.00098V8.82302C12.752 9.23723 12.4162 9.57302 12.002 9.57302C11.5877 9.57302 11.252 9.23723 11.252 8.82302V3.00098C11.252 2.58676 11.5877 2.25098 12.002 2.25098Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.6875 11.8652C5.6875 11.451 6.02329 11.1152 6.4375 11.1152H7.78599C8.2002 11.1152 8.53599 11.451 8.53599 11.8652C8.53599 12.2794 8.2002 12.6152 7.78599 12.6152H6.4375C6.02329 12.6152 5.6875 12.2794 5.6875 11.8652Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4648 18.3467C15.4648 17.9325 15.8006 17.5967 16.2148 17.5967H17.5633C17.9775 17.5967 18.3133 17.9325 18.3133 18.3467C18.3133 18.7609 17.9775 19.0967 17.5633 19.0967H16.2148C15.8006 19.0967 15.4648 18.7609 15.4648 18.3467Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0006 13.6562C11.1996 13.6562 10.5508 14.3051 10.5508 15.1061C10.5508 15.907 11.1996 16.5559 12.0006 16.5559C12.8016 16.5559 13.4504 15.907 13.4504 15.1061C13.4504 14.3051 12.8016 13.6562 12.0006 13.6562ZM9.05078 15.1061C9.05078 13.4766 10.3712 12.1562 12.0006 12.1562C13.63 12.1562 14.9504 13.4766 14.9504 15.1061C14.9504 16.7355 13.63 18.0559 12.0006 18.0559C10.3712 18.0559 9.05078 16.7355 9.05078 15.1061Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.89484 10.871C4.52757 11.2653 4.29004 11.8588 4.29004 12.6267V17.8505C4.29004 18.6179 4.52752 19.2114 4.89495 19.6059C5.25678 19.9943 5.79963 20.25 6.53871 20.25H17.4631C18.2016 20.25 18.7439 19.9944 19.1053 19.6061C19.4725 19.2116 19.7098 18.6181 19.7098 17.8505V12.6267C19.7098 11.8596 19.4716 11.266 19.1036 10.8713C18.741 10.4823 18.1983 10.2272 17.4631 10.2272H6.53773C5.79909 10.2272 5.2565 10.4827 4.89484 10.871ZM3.79719 9.84866C4.47246 9.12365 5.42872 8.72723 6.53773 8.72723H17.4631C18.5698 8.72723 19.5254 9.124 20.2007 9.8484C20.8706 10.567 21.2098 11.5481 21.2098 12.6267V17.8505C21.2098 18.9277 20.8726 19.9089 20.2033 20.628C19.5284 21.3532 18.5723 21.75 17.4631 21.75H6.53871C5.42915 21.75 4.47268 21.3533 3.79732 20.6282C3.12758 19.9092 2.79004 18.9279 2.79004 17.8505V12.6267C2.79004 11.5489 3.12753 10.5676 3.79719 9.84866Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.8125 12.0703C5.8125 11.6561 6.14829 11.3203 6.5625 11.3203H7.88086C8.29508 11.3203 8.63086 11.6561 8.63086 12.0703C8.63086 12.4845 8.29508 12.8203 7.88086 12.8203H6.5625C6.14829 12.8203 5.8125 12.4845 5.8125 12.0703Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3711 18.4072C15.3711 17.993 15.7069 17.6572 16.1211 17.6572H17.4395C17.8537 17.6572 18.1895 17.993 18.1895 18.4072C18.1895 18.8214 17.8537 19.1572 17.4395 19.1572H16.1211C15.7069 19.1572 15.3711 18.8214 15.3711 18.4072Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0018 13.8389C11.2288 13.8389 10.6016 14.4656 10.6016 15.2391C10.6016 16.0127 11.2288 16.6394 12.0018 16.6394C12.776 16.6394 13.403 16.0124 13.403 15.2391C13.403 14.4658 12.776 13.8389 12.0018 13.8389ZM9.10156 15.2391C9.10156 13.6367 10.4008 12.3389 12.0018 12.3389C13.6036 12.3389 14.903 13.6365 14.903 15.2391C14.903 16.8418 13.6036 18.1394 12.0018 18.1394C10.4008 18.1394 9.10156 16.8415 9.10156 15.2391Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3294 2.46967C11.6223 2.17678 12.0972 2.17678 12.3901 2.46967L14.3983 4.47786C14.6912 4.77075 14.6912 5.24563 14.3983 5.53852C14.1054 5.83141 13.6305 5.83141 13.3376 5.53852L11.8598 4.06066L10.3819 5.53852C10.089 5.83141 9.61413 5.83141 9.32123 5.53852C9.02834 5.24563 9.02834 4.77075 9.32123 4.47786L11.3294 2.46967Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.86 2.25C12.2742 2.25005 12.6099 2.58588 12.6099 3.00009L12.6094 7.15464C12.6093 7.56885 12.2735 7.90459 11.8593 7.90454C11.4451 7.90449 11.1093 7.56867 11.1094 7.15445L11.1099 2.99991C11.1099 2.58569 11.4458 2.24995 11.86 2.25Z" fill="black"/> </svg> ',
     category: 'Financial',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -1853,7 +2674,7 @@ class _FinancialMoneyPaperUploadBold {
   /// Money paper upload — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Money paper upload',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.478 5.85367L11.251 5.07767V7.36067C11.251 7.77467 11.587 8.11067 12.001 8.11067C12.415 8.11067 12.751 7.77467 12.751 7.36067V5.07967L13.523 5.85367C13.669 6.00067 13.862 6.07467 14.054 6.07467C14.246 6.07467 14.437 6.00067 14.583 5.85567C14.877 5.56367 14.877 5.08767 14.585 4.79467L12.534 2.73667C12.398 2.59967 12.21 2.51367 12.001 2.51367C11.8 2.51367 11.618 2.59567 11.483 2.72567C11.479 2.72967 11.473 2.73067 11.469 2.73467L9.41602 4.79467C9.12402 5.08767 9.12402 5.56367 9.41702 5.85567C9.71102 6.14767 10.186 6.14767 10.478 5.85367Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9985 13.7522C11.1955 13.7522 10.5425 14.4022 10.5425 15.2022C10.5425 16.0072 11.1955 16.6622 11.9985 16.6622C12.8015 16.6622 13.4545 16.0072 13.4545 15.2022C13.4545 14.4022 12.8015 13.7522 11.9985 13.7522Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5768 19.2022H16.2238C15.8098 19.2022 15.4738 18.8662 15.4738 18.4522C15.4738 18.0382 15.8098 17.7022 16.2238 17.7022H17.5768C17.9908 17.7022 18.3268 18.0382 18.3268 18.4522C18.3268 18.8662 17.9908 19.2022 17.5768 19.2022ZM11.9988 18.1622C10.3688 18.1622 9.04278 16.8342 9.04278 15.2022C9.04278 13.5752 10.3688 12.2522 11.9988 12.2522C13.6288 12.2522 14.9548 13.5752 14.9548 15.2022C14.9548 16.8342 13.6288 18.1622 11.9988 18.1622ZM7.77378 12.7022H6.42178C6.00778 12.7022 5.67178 12.3662 5.67178 11.9522C5.67178 11.5382 6.00778 11.2022 6.42178 11.2022H7.77378C8.18778 11.2022 8.52378 11.5382 8.52378 11.9522C8.52378 12.3662 8.18778 12.7022 7.77378 12.7022ZM17.6028 8.79224H6.39578C4.25878 8.79224 2.82178 10.2912 2.82178 12.5222V17.8822C2.82178 20.1132 4.25978 21.6122 6.39778 21.6122H17.6028C19.7408 21.6122 21.1778 20.1132 21.1778 17.8822V12.5222C21.1778 10.2912 19.7408 8.79224 17.6028 8.79224Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0016 13.9648C11.2296 13.9648 10.6016 14.5928 10.6016 15.3638C10.6016 16.1368 11.2296 16.7648 12.0016 16.7648C12.7736 16.7648 13.4026 16.1368 13.4026 15.3638C13.4026 14.5928 12.7736 13.9648 12.0016 13.9648Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.439 19.284H16.121C15.707 19.284 15.371 18.948 15.371 18.534C15.371 18.12 15.707 17.784 16.121 17.784H17.439C17.853 17.784 18.189 18.12 18.189 18.534C18.189 18.948 17.853 19.284 17.439 19.284ZM12.002 18.264C10.402 18.264 9.10104 16.964 9.10104 15.364C9.10104 13.765 10.402 12.465 12.002 12.465C13.601 12.465 14.903 13.765 14.903 15.364C14.903 16.964 13.601 18.264 12.002 18.264ZM7.88004 12.944H6.56204C6.14804 12.944 5.81204 12.608 5.81204 12.194C5.81204 11.78 6.14804 11.444 6.56204 11.444H7.88004C8.29404 11.444 8.63004 11.78 8.63004 12.194C8.63004 12.608 8.29404 12.944 7.88004 12.944ZM17.462 9.104H6.53804C4.44504 9.104 3.04004 10.571 3.04004 12.755V17.974C3.04004 20.158 4.44604 21.625 6.53904 21.625H17.462C19.554 21.625 20.96 20.158 20.96 17.974V12.755C20.96 10.571 19.554 9.104 17.462 9.104Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3813 5.665L11.1093 4.937V7.274C11.1093 7.688 11.4443 8.024 11.8593 8.024C12.2733 8.024 12.6093 7.688 12.6093 7.274V4.937L13.3373 5.665C13.4843 5.811 13.6753 5.885 13.8673 5.885C14.0593 5.885 14.2513 5.811 14.3983 5.665C14.6913 5.373 14.6913 4.897 14.3983 4.604L12.3903 2.595C12.3213 2.526 12.2393 2.471 12.1493 2.433C12.0583 2.395 11.9603 2.375 11.8603 2.375C11.7593 2.375 11.6613 2.395 11.5713 2.433C11.4803 2.471 11.3983 2.526 11.3293 2.595L9.32034 4.604C9.02734 4.897 9.02734 5.372 9.32034 5.665C9.61334 5.958 10.0883 5.958 10.3813 5.665Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -1868,6 +2689,114 @@ class _FinancialMoneyPaperUploadLight {
   /// Money paper upload — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Money paper upload',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.4631 9.47723H6.53773C4.69008 9.47723 3.54004 10.781 3.54004 12.6267V17.8505C3.54004 19.6953 4.69008 21 6.53871 21H17.4631C19.3108 21 20.4598 19.6953 20.4598 17.8505V12.6267C20.4598 10.781 19.3049 9.47723 17.4631 9.47723Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.5625 12.0703H7.88086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4395 18.4072H16.1211" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.85156 15.2391C9.85156 14.0511 10.8148 13.0889 12.0018 13.0889C13.1898 13.0889 14.153 14.0511 14.153 15.2391C14.153 16.4271 13.1898 17.3894 12.0018 17.3894C10.8148 17.3894 9.85156 16.4271 9.85156 15.2391Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.8679 5.00819L11.8598 3L9.85156 5.00819" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8599 3L11.8594 7.15454" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper upload 1 icon with style variants.
+class _FinancialMoneyPaperUpload1Icon {
+  const _FinancialMoneyPaperUpload1Icon();
+
+  /// bold style
+  _FinancialMoneyPaperUpload1Bold get bold => const _FinancialMoneyPaperUpload1Bold();
+  /// bulk style
+  _FinancialMoneyPaperUpload1Bulk get bulk => const _FinancialMoneyPaperUpload1Bulk();
+  /// light style
+  _FinancialMoneyPaperUpload1Light get light => const _FinancialMoneyPaperUpload1Light();
+  /// outline style
+  _FinancialMoneyPaperUpload1Outline get outline => const _FinancialMoneyPaperUpload1Outline();
+  /// twoTone style
+  _FinancialMoneyPaperUpload1Twotone get twoTone => const _FinancialMoneyPaperUpload1Twotone();
+  /// broken style
+  _FinancialMoneyPaperUpload1Broken get broken => const _FinancialMoneyPaperUpload1Broken();
+}
+
+/// Money paper upload 1 — bulk style variants.
+class _FinancialMoneyPaperUpload1Bulk {
+  const _FinancialMoneyPaperUpload1Bulk();
+
+  /// Money paper upload 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper upload 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.603 8.79102H6.39602C4.25902 8.79102 2.82202 10.29 2.82202 12.521V17.881C2.82202 20.112 4.26002 21.611 6.39802 21.611H17.603C19.741 21.611 21.178 20.112 21.178 17.881V12.521C21.178 10.29 19.741 8.79102 17.603 8.79102Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.4781 5.85367L11.2511 5.07767V7.36067C11.2511 7.77467 11.5871 8.11067 12.0011 8.11067C12.4151 8.11067 12.7511 7.77467 12.7511 7.36067V5.07967L13.5231 5.85367C13.6691 6.00067 13.8621 6.07467 14.0541 6.07467C14.2461 6.07467 14.4371 6.00067 14.5831 5.85567C14.8771 5.56367 14.8771 5.08767 14.5851 4.79467L12.5341 2.73667C12.3981 2.59967 12.2101 2.51367 12.0011 2.51367C11.8001 2.51367 11.6181 2.59567 11.4831 2.72567C11.4791 2.72967 11.4731 2.73067 11.4691 2.73467L9.41614 4.79467C9.12414 5.08767 9.12414 5.56367 9.41714 5.85567C9.71114 6.14767 10.1861 6.14767 10.4781 5.85367Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9991 18.1612C10.3691 18.1612 9.04312 16.8332 9.04312 15.2012C9.04312 13.5742 10.3691 12.2512 11.9991 12.2512C13.6291 12.2512 14.9551 13.5742 14.9551 15.2012C14.9551 16.8332 13.6291 18.1612 11.9991 18.1612ZM10.5428 15.2011C10.5428 14.4011 11.1958 13.7511 11.9988 13.7511C12.8018 13.7511 13.4548 14.4011 13.4548 15.2011C13.4548 16.0061 12.8018 16.6611 11.9988 16.6611C11.1958 16.6611 10.5428 16.0061 10.5428 15.2011Z" fill="black"/> <path d="M17.5771 19.2012H16.2241C15.8101 19.2012 15.4741 18.8652 15.4741 18.4512C15.4741 18.0372 15.8101 17.7012 16.2241 17.7012H17.5771C17.9911 17.7012 18.3271 18.0372 18.3271 18.4512C18.3271 18.8652 17.9911 19.2012 17.5771 19.2012Z" fill="black"/> <path d="M7.77412 12.7012H6.42212C6.00812 12.7012 5.67212 12.3652 5.67212 11.9512C5.67212 11.5372 6.00812 11.2012 6.42212 11.2012H7.77412C8.18812 11.2012 8.52412 11.5372 8.52412 11.9512C8.52412 12.3652 8.18812 12.7012 7.77412 12.7012Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper upload 1 — broken style variants.
+class _FinancialMoneyPaperUpload1Broken {
+  const _FinancialMoneyPaperUpload1Broken();
+
+  /// Money paper upload 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper upload 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.423 9.27734H17.5885C19.4721 9.27734 20.6533 10.6112 20.6533 12.4997V17.8421C20.6533 19.7296 19.478 21.0635 17.5885 21.0635H12.001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.07904 9.27734H6.4124C4.52296 9.27734 3.34668 10.6112 3.34668 12.4997V17.8421C3.34668 19.7296 4.52296 21.0635 6.41337 21.0635H8.4601" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.055 5.11637L12.0011 3.0625L9.94727 5.11637" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 8.8865V3.06445" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.4375 11.9297H7.78599" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5633 18.4102H16.2148" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0006 12.9688C13.2158 12.9688 14.2004 13.9534 14.2004 15.1686C14.2004 16.3838 13.2158 17.3684 12.0006 17.3684C10.7854 17.3684 9.80078 16.3838 9.80078 15.1686" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper upload 1 — twoTone style variants.
+class _FinancialMoneyPaperUpload1Twotone {
+  const _FinancialMoneyPaperUpload1Twotone();
+
+  /// Money paper upload 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper upload 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M16.9229 9.27539H18.0885C19.9721 9.27539 21.1532 10.6093 21.1532 12.4978V17.8401C21.1532 19.7276 19.9779 21.0615 18.0885 21.0615H6.91337C5.02296 21.0615 3.84668 19.7276 3.84668 17.8401V12.4978C3.84668 10.6093 5.02296 9.27539 6.9124 9.27539H8.57904" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.555 5.11637L12.5011 3.0625L10.4473 5.11637" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.502 8.88454V3.0625" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.9375 11.9277H8.28599" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.0633 18.4102H16.7148" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3008 15.1686C10.3008 13.9534 11.2854 12.9688 12.5006 12.9688C13.7158 12.9688 14.7004 13.9534 14.7004 15.1686C14.7004 16.3838 13.7158 17.3684 12.5006 17.3684C11.2854 17.3684 10.3008 16.3838 10.3008 15.1686Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper upload 1 — outline style variants.
+class _FinancialMoneyPaperUpload1Outline {
+  const _FinancialMoneyPaperUpload1Outline();
+
+  /// Money paper upload 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper upload 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.71992 10.6279C4.34081 11.0351 4.09668 11.6468 4.09668 12.4362V17.7786C4.09668 18.5674 4.34075 19.1788 4.71993 19.5859C5.0935 19.987 5.65335 20.25 6.41337 20.25H17.5885C18.3479 20.25 18.9072 19.9871 19.2804 19.5861C19.6593 19.1791 19.9032 18.5676 19.9032 17.7786V12.4362C19.9032 11.6476 19.6584 11.0358 19.2785 10.6282C18.9042 10.2264 18.3445 9.96387 17.5885 9.96387H16.4229C16.0087 9.96387 15.6729 9.62808 15.6729 9.21387C15.6729 8.79965 16.0087 8.46387 16.4229 8.46387H17.5885C18.7161 8.46387 19.6888 8.86824 20.3759 9.60556C21.0575 10.337 21.4032 11.3363 21.4032 12.4362V17.7786C21.4032 18.8771 21.0595 19.8763 20.3784 20.6081C19.6916 21.346 18.7185 21.75 17.5885 21.75H6.41337C5.28298 21.75 4.30948 21.3461 3.62231 20.6083C2.94075 19.8766 2.59668 18.8773 2.59668 17.7786V12.4362C2.59668 11.3372 2.94069 10.3377 3.62208 9.60581C4.30909 8.8679 5.28238 8.46387 6.4124 8.46387H8.07904C8.49325 8.46387 8.82904 8.79965 8.82904 9.21387C8.82904 9.62808 8.49325 9.96387 8.07904 9.96387H6.4124C5.65298 9.96387 5.0934 10.2268 4.71992 10.6279Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0011 2.25C12.2 2.25 12.3908 2.32902 12.5315 2.46967L14.5853 4.52354C14.8782 4.81643 14.8782 5.2913 14.5853 5.5842C14.2924 5.87709 13.8176 5.87709 13.5247 5.5842L12.0011 4.06066L10.4776 5.5842C10.1847 5.87709 9.70983 5.87709 9.41694 5.5842C9.12404 5.2913 9.12404 4.81643 9.41694 4.52354L11.4708 2.46967C11.6115 2.32902 11.8022 2.25 12.0011 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.002 2.25098C12.4162 2.25098 12.752 2.58676 12.752 3.00098V8.82302C12.752 9.23723 12.4162 9.57302 12.002 9.57302C11.5877 9.57302 11.252 9.23723 11.252 8.82302V3.00098C11.252 2.58676 11.5877 2.25098 12.002 2.25098Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.6875 11.8652C5.6875 11.451 6.02329 11.1152 6.4375 11.1152H7.78599C8.2002 11.1152 8.53599 11.451 8.53599 11.8652C8.53599 12.2794 8.2002 12.6152 7.78599 12.6152H6.4375C6.02329 12.6152 5.6875 12.2794 5.6875 11.8652Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4648 18.3467C15.4648 17.9325 15.8006 17.5967 16.2148 17.5967H17.5633C17.9775 17.5967 18.3133 17.9325 18.3133 18.3467C18.3133 18.7609 17.9775 19.0967 17.5633 19.0967H16.2148C15.8006 19.0967 15.4648 18.7609 15.4648 18.3467Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0006 13.6562C11.1996 13.6562 10.5508 14.3051 10.5508 15.1061C10.5508 15.907 11.1996 16.5559 12.0006 16.5559C12.8016 16.5559 13.4504 15.907 13.4504 15.1061C13.4504 14.3051 12.8016 13.6562 12.0006 13.6562ZM9.05078 15.1061C9.05078 13.4766 10.3712 12.1562 12.0006 12.1562C13.63 12.1562 14.9504 13.4766 14.9504 15.1061C14.9504 16.7355 13.63 18.0559 12.0006 18.0559C10.3712 18.0559 9.05078 16.7355 9.05078 15.1061Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper upload 1 — bold style variants.
+class _FinancialMoneyPaperUpload1Bold {
+  const _FinancialMoneyPaperUpload1Bold();
+
+  /// Money paper upload 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper upload 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.478 5.85367L11.251 5.07767V7.36067C11.251 7.77467 11.587 8.11067 12.001 8.11067C12.415 8.11067 12.751 7.77467 12.751 7.36067V5.07967L13.523 5.85367C13.669 6.00067 13.862 6.07467 14.054 6.07467C14.246 6.07467 14.437 6.00067 14.583 5.85567C14.877 5.56367 14.877 5.08767 14.585 4.79467L12.534 2.73667C12.398 2.59967 12.21 2.51367 12.001 2.51367C11.8 2.51367 11.618 2.59567 11.483 2.72567C11.479 2.72967 11.473 2.73067 11.469 2.73467L9.41602 4.79467C9.12402 5.08767 9.12402 5.56367 9.41702 5.85567C9.71102 6.14767 10.186 6.14767 10.478 5.85367Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9985 13.7522C11.1955 13.7522 10.5425 14.4022 10.5425 15.2022C10.5425 16.0072 11.1955 16.6622 11.9985 16.6622C12.8015 16.6622 13.4545 16.0072 13.4545 15.2022C13.4545 14.4022 12.8015 13.7522 11.9985 13.7522Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5768 19.2022H16.2238C15.8098 19.2022 15.4738 18.8662 15.4738 18.4522C15.4738 18.0382 15.8098 17.7022 16.2238 17.7022H17.5768C17.9908 17.7022 18.3268 18.0382 18.3268 18.4522C18.3268 18.8662 17.9908 19.2022 17.5768 19.2022ZM11.9988 18.1622C10.3688 18.1622 9.04278 16.8342 9.04278 15.2022C9.04278 13.5752 10.3688 12.2522 11.9988 12.2522C13.6288 12.2522 14.9548 13.5752 14.9548 15.2022C14.9548 16.8342 13.6288 18.1622 11.9988 18.1622ZM7.77378 12.7022H6.42178C6.00778 12.7022 5.67178 12.3662 5.67178 11.9522C5.67178 11.5382 6.00778 11.2022 6.42178 11.2022H7.77378C8.18778 11.2022 8.52378 11.5382 8.52378 11.9522C8.52378 12.3662 8.18778 12.7022 7.77378 12.7022ZM17.6028 8.79224H6.39578C4.25878 8.79224 2.82178 10.2912 2.82178 12.5222V17.8822C2.82178 20.1132 4.25978 21.6122 6.39778 21.6122H17.6028C19.7408 21.6122 21.1778 20.1132 21.1778 17.8822V12.5222C21.1778 10.2912 19.7408 8.79224 17.6028 8.79224Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper upload 1 — light style variants.
+class _FinancialMoneyPaperUpload1Light {
+  const _FinancialMoneyPaperUpload1Light();
+
+  /// Money paper upload 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper upload 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.4229 9.21387H17.5885C19.4721 9.21387 20.6532 10.5478 20.6532 12.4362V17.7786C20.6532 19.6661 19.4779 21 17.5885 21H6.41337C4.52296 21 3.34668 19.6661 3.34668 17.7786V12.4362C3.34668 10.5478 4.52296 9.21387 6.4124 9.21387H8.07904" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.055 5.05387L12.0011 3L9.94727 5.05387" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 8.82302V3.00098" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.4375 11.8652H7.78599" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5633 18.3467H16.2148" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.80078 15.1061C9.80078 13.8909 10.7854 12.9062 12.0006 12.9062C13.2158 12.9062 14.2004 13.8909 14.2004 15.1061C14.2004 16.3213 13.2158 17.3059 12.0006 17.3059C10.7854 17.3059 9.80078 16.3213 9.80078 15.1061Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Financial',
     style: IconfyStyle.light,
@@ -2382,6 +3311,80 @@ class _FinancialCoinsBold {
 
 }
 
+/// Coins 1 icon with style variants.
+class _FinancialCoins1Icon {
+  const _FinancialCoins1Icon();
+
+  /// bold style
+  _FinancialCoins1Bold get bold => const _FinancialCoins1Bold();
+  /// bulk style
+  _FinancialCoins1Bulk get bulk => const _FinancialCoins1Bulk();
+  /// twoTone style
+  _FinancialCoins1Twotone get twoTone => const _FinancialCoins1Twotone();
+  /// broken style
+  _FinancialCoins1Broken get broken => const _FinancialCoins1Broken();
+}
+
+/// Coins 1 — bulk style variants.
+class _FinancialCoins1Bulk {
+  const _FinancialCoins1Bulk();
+
+  /// Coins 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coins 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.3006 17.0862C19.2646 17.1132 19.2466 17.1282 19.2276 17.1412C19.0196 17.2742 18.8176 17.4232 18.6026 17.5352C17.8446 17.9342 17.0476 18.1192 16.2366 18.2282C15.7456 18.2942 15.2526 18.3152 14.7586 18.3112C14.2756 18.3082 13.7926 18.2782 13.3146 18.1942C12.9076 18.1212 12.5016 18.0282 12.0996 17.9172C11.6296 17.7872 11.1746 17.5912 10.7496 17.2932C10.6656 17.2342 10.5816 17.1722 10.4856 17.1022C10.4856 17.1532 10.4926 18.6982 10.4816 19.4352C10.4776 19.7772 10.5866 20.0302 10.7786 20.2422C11.0016 20.4882 11.2616 20.6532 11.5326 20.7892C12.0146 21.0312 12.5156 21.1772 13.0266 21.2812C13.5106 21.3792 13.9976 21.4342 14.4866 21.4522C15.3296 21.4832 16.1676 21.4252 16.9986 21.2292C17.4766 21.1162 17.9456 20.9642 18.3916 20.7132C18.6466 20.5702 18.8886 20.4002 19.0856 20.1402C19.2286 19.9512 19.3046 19.7312 19.3026 19.4592C19.2976 18.7082 19.3006 17.1402 19.3006 17.0862Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.7147 15.8406C10.9457 16.1306 11.2287 16.3106 11.5237 16.4626C11.9567 16.6856 12.4067 16.8246 12.8647 16.9296C13.3127 17.0326 13.7637 17.0956 14.2167 17.1246C15.0927 17.1816 15.9647 17.1356 16.8317 16.9506C17.3587 16.8386 17.8757 16.6796 18.3687 16.4066C18.6327 16.2616 18.8837 16.0876 19.0867 15.8206C19.2287 15.6336 19.3047 15.4166 19.3027 15.1476C19.2967 14.3906 19.2977 12.8176 19.2957 12.7796C19.1967 12.8506 19.1067 12.9186 19.0157 12.9806C18.3007 13.4596 17.5267 13.6796 16.7377 13.8216C16.3697 13.8876 15.9987 13.9266 15.6277 13.9576C14.9107 14.0176 14.1937 13.9896 13.4787 13.8936C12.9617 13.8236 12.4497 13.7126 11.9457 13.5436C11.5467 13.4096 11.1567 13.2436 10.7907 12.9946C10.6927 12.9276 10.5957 12.8546 10.4847 12.7756C10.4847 12.8256 10.4897 14.3876 10.4827 15.1336C10.4807 15.4196 10.5607 15.6476 10.7147 15.8406Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3981 9.75367C11.1411 9.89667 10.8961 10.0677 10.6991 10.3307C10.5351 10.5497 10.4391 10.7987 10.5081 11.1117C10.5521 11.3097 10.6511 11.4627 10.7691 11.5957C11.0231 11.8827 11.3241 12.0607 11.6361 12.2087C12.2001 12.4767 12.7861 12.6227 13.3801 12.7177C13.8811 12.7977 14.3851 12.8387 14.7911 12.8317C15.7391 12.8327 16.5791 12.7377 17.4071 12.4917C17.8201 12.3687 18.2231 12.2077 18.6001 11.9547C18.8071 11.8157 19.0011 11.6527 19.1511 11.4157C19.3491 11.1017 19.3521 10.7357 19.1501 10.4257C19.0811 10.3197 19.0011 10.2217 18.9151 10.1387C18.5951 9.82767 18.2241 9.64667 17.8441 9.49767C17.1681 9.23267 16.4721 9.10167 15.7681 9.04267C14.8081 8.96167 13.8521 9.00267 12.9021 9.21267C12.3861 9.32567 11.8801 9.48467 11.3981 9.75367Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.69713 11.6898C7.17713 11.6198 6.66713 11.5098 6.16713 11.3398C5.76713 11.2098 5.37713 11.0398 5.00713 10.7898C4.90713 10.7298 4.81713 10.6498 4.70713 10.5698V12.9298C4.69713 13.2198 4.77713 13.4498 4.93713 13.6398C5.16713 13.9298 5.44713 14.1098 5.74713 14.2598C6.17713 14.4798 6.62713 14.6198 7.08713 14.7298C7.53713 14.8298 7.98713 14.8898 8.43713 14.9198C8.71713 14.9398 8.99713 14.9498 9.27713 14.9398C9.28713 14.2398 9.28713 13.2698 9.28713 13.0198L9.27713 11.7798C8.75713 11.7998 8.22713 11.7598 7.69713 11.6898Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.53702 15.9897C7.12702 15.9197 6.71702 15.8297 6.31702 15.7197C5.84702 15.5897 5.39702 15.3897 4.96702 15.0897C4.88702 15.0297 4.79702 14.9697 4.70702 14.8997C4.70702 14.9497 4.70702 16.4997 4.69702 17.2297C4.69702 17.5797 4.80702 17.8297 4.99702 18.0397C5.21702 18.2897 5.47702 18.4497 5.74702 18.5897C6.23702 18.8297 6.73702 18.9797 7.24702 19.0797C7.72702 19.1797 8.21702 19.2297 8.70702 19.2497C8.89702 19.2597 9.08702 19.2597 9.27702 19.2597C9.28702 18.6097 9.28702 17.3297 9.28702 17.0197V16.0997C9.18702 16.1097 9.07702 16.1097 8.97702 16.1097C8.49702 16.1097 8.01702 16.0797 7.53702 15.9897Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4871 8.07981C12.8271 8.00981 13.1671 7.94981 13.5171 7.90981V6.30981C13.4171 6.38981 13.3271 6.44981 13.2371 6.51981C12.5171 6.98981 11.7471 7.20981 10.9571 7.35981C10.5871 7.41981 10.2171 7.45981 9.84713 7.48981C9.12713 7.54981 8.41713 7.52981 7.69713 7.42981C7.17713 7.35981 6.66713 7.24981 6.16713 7.07981C5.76713 6.94981 5.37713 6.77981 5.00713 6.52981C4.90713 6.45981 4.81713 6.38981 4.70713 6.30981V8.66981C4.69713 8.94981 4.77713 9.17981 4.93713 9.37981C5.16713 9.66981 5.44713 9.84981 5.74713 9.99981C6.17713 10.2198 6.62713 10.3598 7.08713 10.4698C7.53713 10.5698 7.98713 10.6298 8.43713 10.6598C8.72713 10.6798 9.01713 10.6898 9.29713 10.6798C9.30713 10.3498 9.40713 9.95981 9.69713 9.57981C10.0271 9.14981 10.4071 8.89981 10.7071 8.72981C11.2171 8.44981 11.7871 8.23981 12.4871 8.07981Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.98894 5.13082C5.24294 5.41782 5.54394 5.59582 5.85594 5.74382C6.41994 6.01182 7.00594 6.15782 7.59894 6.25282C8.10094 6.33382 8.60494 6.37382 9.01094 6.36682C9.95894 6.36782 10.7989 6.27282 11.6269 6.02682C12.0399 5.90382 12.4419 5.74282 12.8199 5.48982C13.0269 5.35082 13.2209 5.18782 13.3699 4.95082C13.5689 4.63682 13.5719 4.27082 13.3699 3.96082C13.3009 3.85482 13.2209 3.75682 13.1349 3.67382C12.8139 3.36282 12.4439 3.18182 12.0639 3.03282C11.3869 2.76782 10.6919 2.63682 9.98794 2.57782C9.02794 2.49682 8.07194 2.53782 7.12194 2.74782C6.60594 2.86082 6.09994 3.01982 5.61794 3.28882C5.36094 3.43282 5.11594 3.60282 4.91894 3.86582C4.75494 4.08482 4.65894 4.33382 4.72794 4.64682C4.77194 4.84482 4.87094 4.99782 4.98894 5.13082Z" fill="black"/> </g> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coins 1 — broken style variants.
+class _FinancialCoins1Broken {
+  const _FinancialCoins1Broken();
+
+  /// Coins 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coins 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.1865 15.084C10.1865 16.272 12.0527 17.2362 14.3548 17.2362C14.9194 17.2362 15.4577 17.1783 15.9487 17.0733" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5231 11.3203V18.8482C18.5231 20.0362 16.6569 20.9995 14.3538 20.9995C12.0517 20.9995 10.1855 20.0362 10.1855 18.8482V11.3203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.9882 9.33954C15.4864 9.22909 14.9339 9.16797 14.3538 9.16797C12.0517 9.16797 10.1855 10.1312 10.1855 11.3202C10.1855 12.5082 12.0517 13.4725 14.3538 13.4725C16.6569 13.4725 18.5231 12.5082 18.5231 11.3202C18.5231 11.1207 18.4705 10.9275 18.3722 10.7442" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.64584 11.0692C8.7747 11.0692 7.96584 10.9312 7.29688 10.6953" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.23969 14.7065C6.62915 14.4087 5.47656 13.6139 5.47656 12.6797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.47751 5.15234L5.47656 16.4438C5.47656 17.6327 7.34372 18.596 9.64581 18.596" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.8151 5.15234L13.8145 9.16875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.64483 3C11.9479 3 13.8141 3.96326 13.8141 5.15224C13.8141 6.34026 11.9479 7.30449 9.64483 7.30449C7.34275 7.30449 5.47656 6.34026 5.47656 5.15224C5.47656 4.55787 5.94292 4.01991 6.69695 3.63049" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coins 1 — twoTone style variants.
+class _FinancialCoins1Twotone {
+  const _FinancialCoins1Twotone();
+
+  /// Coins 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coins 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M19.024 15.084C19.024 16.272 17.1579 17.2362 14.8548 17.2362C12.5527 17.2362 10.6865 16.272 10.6865 15.084" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.0231 11.3203V18.8482C19.0231 20.0362 17.1569 20.9995 14.8538 20.9995C12.5517 20.9995 10.6855 20.0362 10.6855 18.8482V11.3203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0231 11.3202C19.0231 12.5082 17.1569 13.4725 14.8538 13.4725C12.5517 13.4725 10.6855 12.5082 10.6855 11.3202C10.6855 10.1312 12.5517 9.16797 14.8538 9.16797C17.1569 9.16797 19.0231 10.1312 19.0231 11.3202Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.1458 11.0683C7.84372 11.0683 5.97656 10.105 5.97656 8.91602" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.1458 14.8319C7.84372 14.8319 5.97656 13.8687 5.97656 12.6797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.97751 5.15234L5.97656 16.4438C5.97656 17.6327 7.84372 18.596 10.1458 18.596" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3151 5.15234L14.3145 9.16875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.3141 5.15224C14.3141 6.34026 12.4479 7.30449 10.1448 7.30449C7.84275 7.30449 5.97656 6.34026 5.97656 5.15224C5.97656 3.96326 7.84275 3 10.1448 3C12.4479 3 14.3141 3.96326 14.3141 5.15224Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coins 1 — bold style variants.
+class _FinancialCoins1Bold {
+  const _FinancialCoins1Bold();
+
+  /// Coins 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coins 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.69738 11.6898C7.17738 11.6198 6.66738 11.5098 6.16738 11.3398C5.76738 11.2098 5.37738 11.0398 5.00738 10.7898C4.90738 10.7298 4.81738 10.6498 4.70738 10.5698V12.9298C4.69738 13.2198 4.77738 13.4498 4.93738 13.6398C5.16738 13.9298 5.44738 14.1098 5.74738 14.2598C6.17738 14.4798 6.62738 14.6198 7.08738 14.7298C7.53738 14.8298 7.98738 14.8898 8.43738 14.9198C8.71738 14.9398 8.99738 14.9498 9.27738 14.9398C9.28738 14.2398 9.28738 13.2698 9.28738 13.0198L9.27738 11.7798C8.75738 11.7998 8.22738 11.7598 7.69738 11.6898Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.53727 15.9897C7.12727 15.9197 6.71727 15.8297 6.31727 15.7197C5.84727 15.5897 5.39727 15.3897 4.96727 15.0897C4.88727 15.0297 4.79727 14.9697 4.70727 14.8997C4.70727 14.9497 4.70727 16.4997 4.69727 17.2297C4.69727 17.5797 4.80727 17.8297 4.99727 18.0397C5.21727 18.2897 5.47727 18.4497 5.74727 18.5897C6.23727 18.8297 6.73727 18.9797 7.24727 19.0797C7.72727 19.1797 8.21727 19.2297 8.70727 19.2497C8.89727 19.2597 9.08727 19.2597 9.27727 19.2597C9.28727 18.6097 9.28727 17.3297 9.28727 17.0197V16.0997C9.18727 16.1097 9.07727 16.1097 8.97727 16.1097C8.49727 16.1097 8.01727 16.0797 7.53727 15.9897Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4874 8.07981C12.8274 8.00981 13.1674 7.94981 13.5174 7.90981V6.30981C13.4174 6.38981 13.3274 6.44981 13.2374 6.51981C12.5174 6.98981 11.7474 7.20981 10.9574 7.35981C10.5874 7.41981 10.2174 7.45981 9.84738 7.48981C9.12738 7.54981 8.41738 7.52981 7.69738 7.42981C7.17738 7.35981 6.66738 7.24981 6.16738 7.07981C5.76738 6.94981 5.37738 6.77981 5.00738 6.52981C4.90738 6.45981 4.81738 6.38981 4.70738 6.30981V8.66981C4.69738 8.94981 4.77738 9.17981 4.93738 9.37981C5.16738 9.66981 5.44738 9.84981 5.74738 9.99981C6.17738 10.2198 6.62738 10.3598 7.08738 10.4698C7.53738 10.5698 7.98738 10.6298 8.43738 10.6598C8.72738 10.6798 9.01738 10.6898 9.29738 10.6798C9.30738 10.3498 9.40738 9.95981 9.69738 9.57981C10.0274 9.14981 10.4074 8.89981 10.7074 8.72981C11.2174 8.44981 11.7874 8.23981 12.4874 8.07981Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.98919 5.13082C5.24319 5.41782 5.54419 5.59582 5.85619 5.74382C6.42019 6.01182 7.00619 6.15782 7.59919 6.25282C8.10119 6.33382 8.60519 6.37382 9.01119 6.36682C9.95919 6.36782 10.7992 6.27282 11.6272 6.02682C12.0402 5.90382 12.4422 5.74282 12.8202 5.48982C13.0272 5.35082 13.2212 5.18782 13.3702 4.95082C13.5692 4.63682 13.5722 4.27082 13.3702 3.96082C13.3012 3.85482 13.2212 3.75682 13.1352 3.67382C12.8142 3.36282 12.4442 3.18182 12.0642 3.03282C11.3872 2.76782 10.6922 2.63682 9.98819 2.57782C9.02819 2.49682 8.07219 2.53782 7.12219 2.74782C6.60619 2.86082 6.10019 3.01982 5.61819 3.28882C5.36119 3.43282 5.11619 3.60282 4.91919 3.86582C4.75519 4.08482 4.65919 4.33382 4.72819 4.64682C4.77219 4.84482 4.87119 4.99782 4.98919 5.13082Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.3008 17.0859C19.2648 17.1129 19.2468 17.1279 19.2278 17.1409C19.0198 17.2739 18.8178 17.4229 18.6028 17.5349C17.8448 17.9339 17.0478 18.1189 16.2368 18.2279C15.7458 18.2939 15.2528 18.3149 14.7588 18.3109C14.2758 18.3079 13.7928 18.2779 13.3148 18.1939C12.9078 18.1209 12.5018 18.0279 12.0998 17.9169C11.6298 17.7869 11.1748 17.5909 10.7498 17.2929C10.6658 17.2339 10.5818 17.1719 10.4858 17.1019C10.4858 17.1529 10.4928 18.6979 10.4818 19.4349C10.4778 19.7769 10.5868 20.0299 10.7788 20.2419C11.0018 20.4879 11.2618 20.6529 11.5328 20.7889C12.0148 21.0309 12.5158 21.1769 13.0268 21.2809C13.5108 21.3789 13.9978 21.4339 14.4868 21.4519C15.3298 21.4829 16.1678 21.4249 16.9988 21.2289C17.4768 21.1159 17.9458 20.9639 18.3918 20.7129C18.6468 20.5699 18.8888 20.3999 19.0858 20.1399C19.2288 19.9509 19.3048 19.7309 19.3028 19.4589C19.2978 18.7079 19.3008 17.1399 19.3008 17.0859Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.7149 15.8404C10.9459 16.1304 11.2289 16.3104 11.5239 16.4624C11.9569 16.6854 12.4069 16.8244 12.8649 16.9294C13.3129 17.0324 13.7639 17.0954 14.2169 17.1244C15.0929 17.1814 15.9649 17.1354 16.8319 16.9504C17.3589 16.8384 17.8759 16.6794 18.3689 16.4064C18.6329 16.2614 18.8839 16.0874 19.0869 15.8204C19.2289 15.6334 19.3049 15.4164 19.3029 15.1474C19.2969 14.3904 19.2979 12.8174 19.2959 12.7794C19.1969 12.8504 19.1069 12.9184 19.0159 12.9804C18.3009 13.4594 17.5269 13.6794 16.7379 13.8214C16.3699 13.8874 15.9989 13.9264 15.6279 13.9574C14.9109 14.0174 14.1939 13.9894 13.4789 13.8934C12.9619 13.8234 12.4499 13.7124 11.9459 13.5434C11.5469 13.4094 11.1569 13.2434 10.7909 12.9944C10.6929 12.9274 10.5959 12.8544 10.4849 12.7754C10.4849 12.8254 10.4899 14.3874 10.4829 15.1334C10.4809 15.4194 10.5609 15.6474 10.7149 15.8404Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3983 9.75342C11.1413 9.89642 10.8963 10.0674 10.6993 10.3304C10.5353 10.5494 10.4393 10.7984 10.5083 11.1114C10.5523 11.3094 10.6513 11.4624 10.7693 11.5954C11.0233 11.8824 11.3243 12.0604 11.6363 12.2084C12.2003 12.4764 12.7863 12.6224 13.3803 12.7174C13.8813 12.7974 14.3853 12.8384 14.7913 12.8314C15.7393 12.8324 16.5793 12.7374 17.4073 12.4914C17.8203 12.3684 18.2233 12.2074 18.6003 11.9544C18.8073 11.8154 19.0013 11.6524 19.1513 11.4154C19.3493 11.1014 19.3523 10.7354 19.1503 10.4254C19.0813 10.3194 19.0013 10.2214 18.9153 10.1384C18.5953 9.82742 18.2243 9.64642 17.8443 9.49742C17.1683 9.23242 16.4723 9.10142 15.7683 9.04242C14.8083 8.96142 13.8523 9.00242 12.9023 9.21242C12.3863 9.32542 11.8803 9.48442 11.3983 9.75342Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Money paper send icon with style variants.
 class _FinancialMoneyPaperSendIcon {
   const _FinancialMoneyPaperSendIcon();
@@ -2390,10 +3393,6 @@ class _FinancialMoneyPaperSendIcon {
   _FinancialMoneyPaperSendBold get bold => const _FinancialMoneyPaperSendBold();
   /// bulk style
   _FinancialMoneyPaperSendBulk get bulk => const _FinancialMoneyPaperSendBulk();
-  /// light style
-  _FinancialMoneyPaperSendLight get light => const _FinancialMoneyPaperSendLight();
-  /// outline style
-  _FinancialMoneyPaperSendOutline get outline => const _FinancialMoneyPaperSendOutline();
   /// twoTone style
   _FinancialMoneyPaperSendTwotone get twoTone => const _FinancialMoneyPaperSendTwotone();
   /// broken style
@@ -2407,7 +3406,7 @@ class _FinancialMoneyPaperSendBulk {
   /// Money paper send — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Money paper send',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.3786 11.6635C20.5168 11.6635 20.6541 11.6677 20.7904 11.6757C20.9679 11.6861 21.1216 11.548 21.1216 11.3702V7.62148C21.1216 5.31848 19.6406 3.77148 17.4336 3.77148H5.80958C3.60358 3.77148 2.12158 5.31848 2.12158 7.62148V15.0215C2.12158 17.3245 3.60358 18.8715 5.81058 18.8715H13.0048C13.1731 18.8715 13.3077 18.733 13.3103 18.5648C13.3124 18.42 13.3189 18.2761 13.331 18.1334C13.6375 14.5092 16.676 11.6635 20.3786 11.6635Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.6587 16.1575L19.5187 14.0215C19.4637 13.9665 19.3957 13.9295 19.3277 13.8945C19.3097 13.8855 19.2977 13.8705 19.2797 13.8625C19.1877 13.8245 19.0897 13.8035 18.9887 13.8035H18.9877C18.7887 13.8035 18.5977 13.8825 18.4577 14.0235L16.3277 16.1595C16.0357 16.4525 16.0357 16.9275 16.3297 17.2195C16.6237 17.5115 17.0977 17.5115 17.3897 17.2185L18.2387 16.3665V19.6025C18.2387 20.0165 18.5747 20.3525 18.9887 20.3525C19.4027 20.3525 19.7387 20.0165 19.7387 19.6025V16.3615L20.5977 17.2195C20.7447 17.3655 20.9367 17.4385 21.1287 17.4385C21.3207 17.4385 21.5127 17.3655 21.6597 17.2195C21.9517 16.9255 21.9517 16.4505 21.6587 16.1575Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6207 14.3615C9.94569 14.3615 8.58269 12.9985 8.58269 11.3215C8.58269 9.64448 9.94569 8.28148 11.6207 8.28148C13.2957 8.28148 14.6587 9.64448 14.6587 11.3215C14.6587 12.9985 13.2957 14.3615 11.6207 14.3615ZM10.0828 11.3215C10.0828 10.4715 10.7728 9.78149 11.6208 9.78149C12.4688 9.78149 13.1588 10.4715 13.1588 11.3215C13.1588 12.1715 12.4688 12.8615 11.6208 12.8615C10.7728 12.8615 10.0828 12.1715 10.0828 11.3215Z" fill="black"/> <path d="M7.23869 8.52148H5.83569C5.42169 8.52148 5.08569 8.18548 5.08569 7.77148C5.08569 7.35748 5.42169 7.02148 5.83569 7.02148H7.23869C7.65269 7.02148 7.98869 7.35748 7.98869 7.77148C7.98869 8.18548 7.65269 8.52148 7.23869 8.52148Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.2775 11.7593C20.3856 11.7593 20.4929 11.7627 20.5996 11.7684C20.7755 11.7779 20.9265 11.6406 20.9265 11.4645V7.7543C20.9265 5.4513 19.4455 3.9043 17.2385 3.9043H5.61451C3.40851 3.9043 1.92651 5.4513 1.92651 7.7543V15.1543C1.92651 17.4573 3.40851 19.0043 5.61551 19.0043H12.902C13.0717 19.0043 13.2063 18.8636 13.2069 18.6938C13.2071 18.6203 13.2088 18.5469 13.2125 18.4733C13.3999 14.7336 16.4912 11.7593 20.2775 11.7593Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.0134 16.9252C22.0024 16.8992 21.9804 16.8802 21.9664 16.8552C21.9334 16.7962 21.9034 16.7352 21.8544 16.6862L19.7184 14.5462C19.4264 14.2522 18.9504 14.2522 18.6584 14.5442C18.3644 14.8372 18.3644 15.3112 18.6564 15.6042L19.5154 16.4662H16.2734C15.8594 16.4662 15.5234 16.8022 15.5234 17.2162C15.5234 17.6302 15.8594 17.9662 16.2734 17.9662H19.5094L18.6584 18.8142C18.3644 19.1072 18.3644 19.5822 18.6564 19.8752C18.8024 20.0222 18.9954 20.0962 19.1874 20.0962C19.3784 20.0962 19.5704 20.0222 19.7164 19.8772L21.8524 17.7472C21.9944 17.6062 22.0734 17.4162 22.0734 17.2172C22.0734 17.1152 22.0524 17.0162 22.0134 16.9252Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4256 14.4943C9.75063 14.4943 8.38762 13.1313 8.38762 11.4543C8.38762 9.7773 9.75063 8.4143 11.4256 8.4143C13.1006 8.4143 14.4636 9.7773 14.4636 11.4543C14.4636 13.1313 13.1006 14.4943 11.4256 14.4943ZM9.88756 11.4543C9.88756 10.6043 10.5776 9.91431 11.4256 9.91431C12.2736 9.91431 12.9636 10.6043 12.9636 11.4543C12.9636 12.3043 12.2736 12.9943 11.4256 12.9943C10.5776 12.9943 9.88756 12.3043 9.88756 11.4543Z" fill="black"/> <path d="M7.04363 8.6543H5.64062C5.22662 8.6543 4.89062 8.3183 4.89062 7.9043C4.89062 7.4903 5.22662 7.1543 5.64062 7.1543H7.04363C7.45763 7.1543 7.79363 7.4903 7.79363 7.9043C7.79363 8.3183 7.45763 8.6543 7.04363 8.6543Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -2422,7 +3421,7 @@ class _FinancialMoneyPaperSendBroken {
   /// Money paper send — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Money paper send',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.3116 19.1136H6.18941C4.22303 19.1136 3 17.7261 3 15.7627V8.36419C3 6.40073 4.22303 5.01327 6.18843 5.01327L8.13001 5.01172" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0003 10.3627V8.36419C21.0003 6.40073 19.7715 5.01327 17.8119 5.01327L11.0361 5.01172" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7266 16.2011L18.8632 14.0645L20.9989 16.2011" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.8633 14.0645L18.8636 19.1142" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.21289 8.51562H7.61592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9984 9.77734C10.7355 9.77734 9.71094 10.8009 9.71094 12.0648C9.71094 13.3287 10.7355 14.3523 11.9984 14.3523C13.2623 14.3523 14.2868 13.3287 14.2868 12.0648" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.3116 19.0502H6.18941C4.22303 19.0502 3 17.6627 3 15.6992V12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 10.2986V8.30014C21 6.33668 19.7711 4.94922 17.8116 4.94922H6.18843C4.22303 4.94922 3 6.33668 3 8.30014V9.33002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.8086 14.3906L20.9452 16.5273L18.8086 18.6629" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9444 16.5254L15.8945 16.5257" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.21289 8.45117H7.61592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0003 9.71484C10.7374 9.71484 9.71289 10.7384 9.71289 12.0023C9.71289 13.2662 10.7374 14.2898 12.0003 14.2898C13.2642 14.2898 14.2888 13.2662 14.2888 12.0023" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -2437,24 +3436,9 @@ class _FinancialMoneyPaperSendTwotone {
   /// Money paper send — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Money paper send',
-    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.8116 19.112H6.68941C4.72303 19.112 3.5 17.7246 3.5 15.7611V8.36264C3.5 6.39918 4.72303 5.01172 6.68843 5.01172H18.3116C20.2711 5.01172 21.5 6.39918 21.5 8.36264V10.3611" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2266 16.1991L19.3632 14.0625L21.4989 16.1991" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.3633 14.0625L19.3636 19.1122" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.71289 8.51367H8.11592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.2109 12.0628C10.2109 10.799 11.2355 9.77539 12.4984 9.77539C13.7623 9.77539 14.7868 10.799 14.7868 12.0628C14.7868 13.3267 13.7623 14.3503 12.4984 14.3503C11.2355 14.3503 10.2109 13.3267 10.2109 12.0628Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.8116 19.0495H6.68941C4.72303 19.0495 3.5 17.6621 3.5 15.6986V8.30014C3.5 6.33668 4.72303 4.94922 6.68843 4.94922H18.3116C20.2711 4.94922 21.5 6.33668 21.5 8.30014V10.2986" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.3086 14.3906L21.4452 16.5273L19.3086 18.6629" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.4444 16.5254L16.3945 16.5257" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.71289 8.45117H8.11592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.2129 12.0023C10.2129 10.7384 11.2374 9.71484 12.5003 9.71484C13.7642 9.71484 14.7888 10.7384 14.7888 12.0023C14.7888 13.2662 13.7642 14.2898 12.5003 14.2898C11.2374 14.2898 10.2129 13.2662 10.2129 12.0023Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Money paper send — outline style variants.
-class _FinancialMoneyPaperSendOutline {
-  const _FinancialMoneyPaperSendOutline();
-
-  /// Money paper send — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Money paper send',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.40612 6.40005C4.00582 6.83001 3.75 7.47386 3.75 8.30075V15.6992C3.75 16.5261 4.00582 17.1699 4.40618 17.5999C4.80092 18.0238 5.39141 18.3002 6.18941 18.3002H13.3116C13.7258 18.3002 14.0616 18.6359 14.0616 19.0502C14.0616 19.4644 13.7258 19.8002 13.3116 19.8002H6.18941C5.02103 19.8002 4.01681 19.3828 3.30844 18.6221C2.6057 17.8675 2.25 16.8358 2.25 15.6992V8.30075C2.25 7.16418 2.60569 6.13257 3.30826 5.37794C4.01646 4.61725 5.02043 4.19983 6.18843 4.19983H17.8116C18.9771 4.19983 19.9807 4.61756 20.6892 5.37757C21.3923 6.13175 21.75 7.16324 21.75 8.30075V10.2992C21.75 10.7134 21.4142 11.0492 21 11.0492C20.5858 11.0492 20.25 10.7134 20.25 10.2992V8.30075C20.25 7.4748 19.9933 6.83082 19.592 6.40041C19.1962 5.97583 18.6056 5.69983 17.8116 5.69983H6.18843C5.39103 5.69983 4.80078 5.97614 4.40612 6.40005Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.8633 13.251C19.0622 13.251 19.253 13.3301 19.3937 13.4708L21.5293 15.6074C21.8222 15.9004 21.8221 16.3752 21.5291 16.6681C21.2361 16.9609 20.7613 16.9608 20.4684 16.6678L18.8631 15.0618L17.2569 16.668C16.964 16.9608 16.4891 16.9608 16.1962 16.668C15.9033 16.3751 15.9033 15.9002 16.1962 15.6073L18.3329 13.4706C18.4736 13.33 18.6644 13.251 18.8633 13.251Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.8632 13.251C19.2775 13.251 19.6133 13.5867 19.6133 14.0009L19.6136 19.0507C19.6136 19.4649 19.2778 19.8007 18.8636 19.8007C18.4494 19.8007 18.1136 19.465 18.1136 19.0507L18.1133 14.001C18.1133 13.5868 18.449 13.251 18.8632 13.251Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.46289 8.45117C5.46289 8.03696 5.79868 7.70117 6.21289 7.70117H7.61592C8.03013 7.70117 8.36592 8.03696 8.36592 8.45117C8.36592 8.86539 8.03013 9.20117 7.61592 9.20117H6.21289C5.79868 9.20117 5.46289 8.86539 5.46289 8.45117Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9984 10.4629C11.1495 10.4629 10.4609 11.1509 10.4609 12.0003C10.4609 12.8498 11.1495 13.5378 11.9984 13.5378C12.8485 13.5378 13.5368 12.8496 13.5368 12.0003C13.5368 11.1511 12.8485 10.4629 11.9984 10.4629ZM8.96094 12.0003C8.96094 10.322 10.3215 8.96289 11.9984 8.96289C13.6761 8.96289 15.0368 10.3218 15.0368 12.0003C15.0368 13.6789 13.6761 15.0378 11.9984 15.0378C10.3215 15.0378 8.96094 13.6787 8.96094 12.0003Z" fill="black"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -2467,6 +3451,99 @@ class _FinancialMoneyPaperSendBold {
   /// Money paper send — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Money paper send',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4257 9.91431C10.5777 9.91431 9.8877 10.6043 9.8877 11.4543C9.8877 12.3043 10.5777 12.9943 11.4257 12.9943C12.2737 12.9943 12.9637 12.3043 12.9637 11.4543C12.9637 10.6043 12.2737 9.91431 11.4257 9.91431Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4258 14.4943C9.75076 14.4943 8.38776 13.1313 8.38776 11.4543C8.38776 9.7773 9.75076 8.4143 11.4258 8.4143C13.1008 8.4143 14.4638 9.7773 14.4638 11.4543C14.4638 13.1313 13.1008 14.4943 11.4258 14.4943ZM7.04376 8.6543H5.64076C5.22676 8.6543 4.89076 8.3183 4.89076 7.9043C4.89076 7.4903 5.22676 7.1543 5.64076 7.1543H7.04376C7.45776 7.1543 7.79376 7.4903 7.79376 7.9043C7.79376 8.3183 7.45776 8.6543 7.04376 8.6543ZM20.2778 11.7593C20.3858 11.7593 20.4931 11.7627 20.5998 11.7684C20.7757 11.7779 20.9268 11.6406 20.9268 11.4645V7.7543C20.9268 5.4513 19.4458 3.9043 17.2388 3.9043H5.61476C3.40876 3.9043 1.92676 5.4513 1.92676 7.7543V15.1543C1.92676 17.4573 3.40876 19.0043 5.61576 19.0043H12.9022C13.072 19.0043 13.2065 18.8636 13.2071 18.6938C13.2074 18.6203 13.2091 18.5469 13.2128 18.4733C13.4002 14.7336 16.4915 11.7593 20.2778 11.7593Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.0136 16.9252C22.0026 16.8992 21.9806 16.8802 21.9666 16.8552C21.9336 16.7962 21.9036 16.7352 21.8546 16.6862L19.7186 14.5462C19.4266 14.2522 18.9506 14.2522 18.6586 14.5442C18.3646 14.8372 18.3646 15.3112 18.6566 15.6042L19.5156 16.4662H16.2736C15.8596 16.4662 15.5236 16.8022 15.5236 17.2162C15.5236 17.6302 15.8596 17.9662 16.2736 17.9662H19.5096L18.6586 18.8142C18.3646 19.1072 18.3646 19.5822 18.6566 19.8752C18.8026 20.0222 18.9956 20.0962 19.1876 20.0962C19.3786 20.0962 19.5706 20.0222 19.7166 19.8772L21.8526 17.7472C21.9946 17.6062 22.0736 17.4162 22.0736 17.2172C22.0736 17.1152 22.0526 17.0162 22.0136 16.9252Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper send 1 icon with style variants.
+class _FinancialMoneyPaperSend1Icon {
+  const _FinancialMoneyPaperSend1Icon();
+
+  /// bold style
+  _FinancialMoneyPaperSend1Bold get bold => const _FinancialMoneyPaperSend1Bold();
+  /// bulk style
+  _FinancialMoneyPaperSend1Bulk get bulk => const _FinancialMoneyPaperSend1Bulk();
+  /// light style
+  _FinancialMoneyPaperSend1Light get light => const _FinancialMoneyPaperSend1Light();
+  /// outline style
+  _FinancialMoneyPaperSend1Outline get outline => const _FinancialMoneyPaperSend1Outline();
+  /// twoTone style
+  _FinancialMoneyPaperSend1Twotone get twoTone => const _FinancialMoneyPaperSend1Twotone();
+  /// broken style
+  _FinancialMoneyPaperSend1Broken get broken => const _FinancialMoneyPaperSend1Broken();
+}
+
+/// Money paper send 1 — bulk style variants.
+class _FinancialMoneyPaperSend1Bulk {
+  const _FinancialMoneyPaperSend1Bulk();
+
+  /// Money paper send 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper send 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.3786 11.6635C20.5168 11.6635 20.6541 11.6677 20.7904 11.6757C20.9679 11.6861 21.1216 11.548 21.1216 11.3702V7.62148C21.1216 5.31848 19.6406 3.77148 17.4336 3.77148H5.80958C3.60358 3.77148 2.12158 5.31848 2.12158 7.62148V15.0215C2.12158 17.3245 3.60358 18.8715 5.81058 18.8715H13.0048C13.1731 18.8715 13.3077 18.733 13.3103 18.5648C13.3124 18.42 13.3189 18.2761 13.331 18.1334C13.6375 14.5092 16.676 11.6635 20.3786 11.6635Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.6587 16.1575L19.5187 14.0215C19.4637 13.9665 19.3957 13.9295 19.3277 13.8945C19.3097 13.8855 19.2977 13.8705 19.2797 13.8625C19.1877 13.8245 19.0897 13.8035 18.9887 13.8035H18.9877C18.7887 13.8035 18.5977 13.8825 18.4577 14.0235L16.3277 16.1595C16.0357 16.4525 16.0357 16.9275 16.3297 17.2195C16.6237 17.5115 17.0977 17.5115 17.3897 17.2185L18.2387 16.3665V19.6025C18.2387 20.0165 18.5747 20.3525 18.9887 20.3525C19.4027 20.3525 19.7387 20.0165 19.7387 19.6025V16.3615L20.5977 17.2195C20.7447 17.3655 20.9367 17.4385 21.1287 17.4385C21.3207 17.4385 21.5127 17.3655 21.6597 17.2195C21.9517 16.9255 21.9517 16.4505 21.6587 16.1575Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6207 14.3615C9.94569 14.3615 8.58269 12.9985 8.58269 11.3215C8.58269 9.64448 9.94569 8.28148 11.6207 8.28148C13.2957 8.28148 14.6587 9.64448 14.6587 11.3215C14.6587 12.9985 13.2957 14.3615 11.6207 14.3615ZM10.0828 11.3215C10.0828 10.4715 10.7728 9.78149 11.6208 9.78149C12.4688 9.78149 13.1588 10.4715 13.1588 11.3215C13.1588 12.1715 12.4688 12.8615 11.6208 12.8615C10.7728 12.8615 10.0828 12.1715 10.0828 11.3215Z" fill="black"/> <path d="M7.23869 8.52148H5.83569C5.42169 8.52148 5.08569 8.18548 5.08569 7.77148C5.08569 7.35748 5.42169 7.02148 5.83569 7.02148H7.23869C7.65269 7.02148 7.98869 7.35748 7.98869 7.77148C7.98869 8.18548 7.65269 8.52148 7.23869 8.52148Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper send 1 — broken style variants.
+class _FinancialMoneyPaperSend1Broken {
+  const _FinancialMoneyPaperSend1Broken();
+
+  /// Money paper send 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper send 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.3116 19.1136H6.18941C4.22303 19.1136 3 17.7261 3 15.7627V8.36419C3 6.40073 4.22303 5.01327 6.18843 5.01327L8.13001 5.01172" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0003 10.3627V8.36419C21.0003 6.40073 19.7715 5.01327 17.8119 5.01327L11.0361 5.01172" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7266 16.2011L18.8632 14.0645L20.9989 16.2011" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.8633 14.0645L18.8636 19.1142" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.21289 8.51562H7.61592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9984 9.77734C10.7355 9.77734 9.71094 10.8009 9.71094 12.0648C9.71094 13.3287 10.7355 14.3523 11.9984 14.3523C13.2623 14.3523 14.2868 13.3287 14.2868 12.0648" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper send 1 — twoTone style variants.
+class _FinancialMoneyPaperSend1Twotone {
+  const _FinancialMoneyPaperSend1Twotone();
+
+  /// Money paper send 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper send 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.8116 19.112H6.68941C4.72303 19.112 3.5 17.7246 3.5 15.7611V8.36264C3.5 6.39918 4.72303 5.01172 6.68843 5.01172H18.3116C20.2711 5.01172 21.5 6.39918 21.5 8.36264V10.3611" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2266 16.1991L19.3632 14.0625L21.4989 16.1991" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.3633 14.0625L19.3636 19.1122" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.71289 8.51367H8.11592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.2109 12.0628C10.2109 10.799 11.2355 9.77539 12.4984 9.77539C13.7623 9.77539 14.7868 10.799 14.7868 12.0628C14.7868 13.3267 13.7623 14.3503 12.4984 14.3503C11.2355 14.3503 10.2109 13.3267 10.2109 12.0628Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper send 1 — outline style variants.
+class _FinancialMoneyPaperSend1Outline {
+  const _FinancialMoneyPaperSend1Outline();
+
+  /// Money paper send 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper send 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.40612 6.40005C4.00582 6.83001 3.75 7.47386 3.75 8.30075V15.6992C3.75 16.5261 4.00582 17.1699 4.40618 17.5999C4.80092 18.0238 5.39141 18.3002 6.18941 18.3002H13.3116C13.7258 18.3002 14.0616 18.6359 14.0616 19.0502C14.0616 19.4644 13.7258 19.8002 13.3116 19.8002H6.18941C5.02103 19.8002 4.01681 19.3828 3.30844 18.6221C2.6057 17.8675 2.25 16.8358 2.25 15.6992V8.30075C2.25 7.16418 2.60569 6.13257 3.30826 5.37794C4.01646 4.61725 5.02043 4.19983 6.18843 4.19983H17.8116C18.9771 4.19983 19.9807 4.61756 20.6892 5.37757C21.3923 6.13175 21.75 7.16324 21.75 8.30075V10.2992C21.75 10.7134 21.4142 11.0492 21 11.0492C20.5858 11.0492 20.25 10.7134 20.25 10.2992V8.30075C20.25 7.4748 19.9933 6.83082 19.592 6.40041C19.1962 5.97583 18.6056 5.69983 17.8116 5.69983H6.18843C5.39103 5.69983 4.80078 5.97614 4.40612 6.40005Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.8633 13.251C19.0622 13.251 19.253 13.3301 19.3937 13.4708L21.5293 15.6074C21.8222 15.9004 21.8221 16.3752 21.5291 16.6681C21.2361 16.9609 20.7613 16.9608 20.4684 16.6678L18.8631 15.0618L17.2569 16.668C16.964 16.9608 16.4891 16.9608 16.1962 16.668C15.9033 16.3751 15.9033 15.9002 16.1962 15.6073L18.3329 13.4706C18.4736 13.33 18.6644 13.251 18.8633 13.251Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.8632 13.251C19.2775 13.251 19.6133 13.5867 19.6133 14.0009L19.6136 19.0507C19.6136 19.4649 19.2778 19.8007 18.8636 19.8007C18.4494 19.8007 18.1136 19.465 18.1136 19.0507L18.1133 14.001C18.1133 13.5868 18.449 13.251 18.8632 13.251Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.46289 8.45117C5.46289 8.03696 5.79868 7.70117 6.21289 7.70117H7.61592C8.03013 7.70117 8.36592 8.03696 8.36592 8.45117C8.36592 8.86539 8.03013 9.20117 7.61592 9.20117H6.21289C5.79868 9.20117 5.46289 8.86539 5.46289 8.45117Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9984 10.4629C11.1495 10.4629 10.4609 11.1509 10.4609 12.0003C10.4609 12.8498 11.1495 13.5378 11.9984 13.5378C12.8485 13.5378 13.5368 12.8496 13.5368 12.0003C13.5368 11.1511 12.8485 10.4629 11.9984 10.4629ZM8.96094 12.0003C8.96094 10.322 10.3215 8.96289 11.9984 8.96289C13.6761 8.96289 15.0368 10.3218 15.0368 12.0003C15.0368 13.6789 13.6761 15.0378 11.9984 15.0378C10.3215 15.0378 8.96094 13.6787 8.96094 12.0003Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper send 1 — bold style variants.
+class _FinancialMoneyPaperSend1Bold {
+  const _FinancialMoneyPaperSend1Bold();
+
+  /// Money paper send 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper send 1',
     svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6206 9.78149C10.7726 9.78149 10.0826 10.4715 10.0826 11.3215C10.0826 12.1715 10.7726 12.8615 11.6206 12.8615C12.4686 12.8615 13.1586 12.1715 13.1586 11.3215C13.1586 10.4715 12.4686 9.78149 11.6206 9.78149Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6206 14.3615C9.94558 14.3615 8.58258 12.9985 8.58258 11.3215C8.58258 9.64448 9.94558 8.28148 11.6206 8.28148C13.2956 8.28148 14.6586 9.64448 14.6586 11.3215C14.6586 12.9985 13.2956 14.3615 11.6206 14.3615ZM7.23858 8.52148H5.83558C5.42158 8.52148 5.08558 8.18548 5.08558 7.77148C5.08558 7.35748 5.42158 7.02148 5.83558 7.02148H7.23858C7.65258 7.02148 7.98858 7.35748 7.98858 7.77148C7.98858 8.18548 7.65258 8.52148 7.23858 8.52148ZM20.3786 11.6635C20.5168 11.6635 20.6541 11.6677 20.7904 11.6757C20.9679 11.6861 21.1216 11.548 21.1216 11.3702V7.62148C21.1216 5.31848 19.6406 3.77148 17.4336 3.77148H5.80958C3.60358 3.77148 2.12158 5.31848 2.12158 7.62148V15.0215C2.12158 17.3245 3.60358 18.8715 5.81058 18.8715H13.0048C13.1731 18.8715 13.3077 18.733 13.3103 18.5648C13.3124 18.42 13.3189 18.2761 13.331 18.1334C13.6375 14.5092 16.676 11.6635 20.3786 11.6635Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.6586 16.1575L19.5186 14.0215C19.4636 13.9665 19.3956 13.9295 19.3276 13.8945C19.3096 13.8855 19.2976 13.8705 19.2796 13.8625C19.1876 13.8245 19.0896 13.8035 18.9886 13.8035H18.9876C18.7886 13.8035 18.5976 13.8825 18.4576 14.0235L16.3276 16.1595C16.0356 16.4525 16.0356 16.9275 16.3296 17.2195C16.6236 17.5115 17.0976 17.5115 17.3896 17.2185L18.2386 16.3665V19.6025C18.2386 20.0165 18.5746 20.3525 18.9886 20.3525C19.4026 20.3525 19.7386 20.0165 19.7386 19.6025V16.3615L20.5976 17.2195C20.7446 17.3655 20.9366 17.4385 21.1286 17.4385C21.3206 17.4385 21.5126 17.3655 21.6596 17.2195C21.9516 16.9255 21.9516 16.4505 21.6586 16.1575Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bold,
@@ -2475,13 +3552,13 @@ class _FinancialMoneyPaperSendBold {
 
 }
 
-/// Money paper send — light style variants.
-class _FinancialMoneyPaperSendLight {
-  const _FinancialMoneyPaperSendLight();
+/// Money paper send 1 — light style variants.
+class _FinancialMoneyPaperSend1Light {
+  const _FinancialMoneyPaperSend1Light();
 
-  /// Money paper send — light / regular
+  /// Money paper send 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Money paper send',
+    name: 'Money paper send 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.3116 19.0502H6.18941C4.22303 19.0502 3 17.6627 3 15.6992V8.30075C3 6.33729 4.22303 4.94983 6.18843 4.94983H17.8116C19.7711 4.94983 21 6.33729 21 8.30075V10.2992" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7266 16.1376L18.8632 14.001L20.9989 16.1376" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.8633 14.001L18.8636 19.0507" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.21289 8.45117H7.61592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.71094 12.0003C9.71094 10.7365 10.7355 9.71289 11.9984 9.71289C13.2623 9.71289 14.2868 10.7365 14.2868 12.0003C14.2868 13.2642 13.2623 14.2878 11.9984 14.2878C10.7355 14.2878 9.71094 13.2642 9.71094 12.0003Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Financial',
     style: IconfyStyle.light,
@@ -2922,6 +3999,114 @@ class _FinancialMoneyPaperRefreshLight {
 
 }
 
+/// Money paper refresh 1 icon with style variants.
+class _FinancialMoneyPaperRefresh1Icon {
+  const _FinancialMoneyPaperRefresh1Icon();
+
+  /// bold style
+  _FinancialMoneyPaperRefresh1Bold get bold => const _FinancialMoneyPaperRefresh1Bold();
+  /// bulk style
+  _FinancialMoneyPaperRefresh1Bulk get bulk => const _FinancialMoneyPaperRefresh1Bulk();
+  /// light style
+  _FinancialMoneyPaperRefresh1Light get light => const _FinancialMoneyPaperRefresh1Light();
+  /// outline style
+  _FinancialMoneyPaperRefresh1Outline get outline => const _FinancialMoneyPaperRefresh1Outline();
+  /// twoTone style
+  _FinancialMoneyPaperRefresh1Twotone get twoTone => const _FinancialMoneyPaperRefresh1Twotone();
+  /// broken style
+  _FinancialMoneyPaperRefresh1Broken get broken => const _FinancialMoneyPaperRefresh1Broken();
+}
+
+/// Money paper refresh 1 — bulk style variants.
+class _FinancialMoneyPaperRefresh1Bulk {
+  const _FinancialMoneyPaperRefresh1Bulk();
+
+  /// Money paper refresh 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper refresh 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.5292 11.2829C19.7413 11.2829 19.9496 11.2965 20.1555 11.3186C20.3376 11.3381 20.5002 11.1985 20.5002 11.0153V7.06094C20.5002 4.75794 19.0182 3.21094 16.8112 3.21094H5.18724C2.98124 3.21094 1.50024 4.75794 1.50024 7.06094V14.4609C1.50024 16.7639 2.98224 18.3109 5.18824 18.3109H12.6255C12.7987 18.3109 12.9322 18.1649 12.9261 17.9918C12.9249 17.9576 12.9242 17.9234 12.9242 17.8889C12.9242 14.2409 15.8812 11.2829 19.5292 11.2829Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7482 18.0835C21.3922 17.8755 20.9322 17.9975 20.7242 18.3555C20.3592 18.9825 19.6822 19.3725 18.9542 19.3725C18.7612 19.3725 18.5842 19.3275 18.4152 19.2665C18.7162 19.1695 18.9382 18.8955 18.9382 18.5625C18.9382 18.1475 18.6022 17.8125 18.1882 17.8125H16.4672C16.4342 17.8125 16.4062 17.8265 16.3742 17.8305C16.3592 17.8325 16.3442 17.8365 16.3292 17.8395C16.2452 17.8565 16.1682 17.8825 16.0972 17.9235C16.0902 17.9275 16.0832 17.9275 16.0762 17.9315C16.0662 17.9375 16.0612 17.9485 16.0512 17.9545C15.9872 17.9985 15.9322 18.0475 15.8852 18.1085C15.8662 18.1315 15.8512 18.1555 15.8362 18.1805C15.8042 18.2325 15.7792 18.2855 15.7612 18.3455C15.7472 18.3885 15.7402 18.4315 15.7342 18.4775C15.7302 18.5065 15.7172 18.5315 15.7172 18.5625V20.1625C15.7172 20.5765 16.0532 20.9125 16.4672 20.9125C16.8242 20.9125 17.1092 20.6575 17.1852 20.3225C17.6632 20.6305 18.2542 20.8725 18.9542 20.8725C20.2152 20.8725 21.3902 20.1965 22.0202 19.1075C22.2282 18.7495 22.1062 18.2905 21.7482 18.0835Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.4837 16.1631C22.4867 16.1351 22.4997 16.1111 22.4997 16.0821V14.3621C22.4997 13.9481 22.1637 13.6121 21.7497 13.6121C21.3357 13.6121 20.9997 13.9481 20.9997 14.3621V14.3641C20.4707 14.0441 19.7917 13.7921 18.9537 13.7921C17.6867 13.7921 16.5077 14.4731 15.8767 15.5681C15.6707 15.9261 15.7937 16.3851 16.1537 16.5921C16.5127 16.7971 16.9717 16.6741 17.1777 16.3161C17.5457 15.6751 18.2107 15.2921 18.9537 15.2921C19.2317 15.2921 19.4747 15.3451 19.6987 15.4171C19.4527 15.5411 19.2797 15.7891 19.2797 16.0821C19.2797 16.4971 19.6147 16.8321 20.0297 16.8321H21.7127C21.7267 16.8331 21.7377 16.8421 21.7507 16.8421C21.8817 16.8421 22.0147 16.8081 22.1357 16.7361C22.1797 16.7101 22.2077 16.6701 22.2437 16.6371C22.2617 16.6221 22.2787 16.6081 22.2957 16.5901C22.3427 16.5391 22.3787 16.4831 22.4087 16.4221C22.4237 16.3941 22.4377 16.3671 22.4487 16.3371C22.4687 16.2801 22.4777 16.2231 22.4837 16.1631Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9994 13.8009C9.32436 13.8009 7.96136 12.4379 7.96136 10.7609C7.96136 9.08394 9.32436 7.72094 10.9994 7.72094C12.6744 7.72094 14.0374 9.08394 14.0374 10.7609C14.0374 12.4379 12.6744 13.8009 10.9994 13.8009ZM9.46142 10.7609C9.46142 9.91095 10.1514 9.22095 10.9994 9.22095C11.8474 9.22095 12.5374 9.91095 12.5374 10.7609C12.5374 11.6109 11.8474 12.3009 10.9994 12.3009C10.1514 12.3009 9.46142 11.6109 9.46142 10.7609Z" fill="black"/> <path d="M6.61736 7.96094H5.21436C4.80036 7.96094 4.46436 7.62494 4.46436 7.21094C4.46436 6.79694 4.80036 6.46094 5.21436 6.46094H6.61736C7.03136 6.46094 7.36736 6.79694 7.36736 7.21094C7.36736 7.62494 7.03136 7.96094 6.61736 7.96094Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper refresh 1 — broken style variants.
+class _FinancialMoneyPaperRefresh1Broken {
+  const _FinancialMoneyPaperRefresh1Broken();
+
+  /// Money paper refresh 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper refresh 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.4116 18.7351H6.18941C4.22303 18.7351 3 17.3476 3 15.3842V7.98568C3 6.02223 4.22303 4.63477 6.18843 4.63477H8.09422" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 9.98222V7.98373C21 6.02027 19.7711 4.63281 17.8116 4.63281H11" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.21289 8.13477H7.61592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9984 9.39453C10.7355 9.39453 9.71094 10.4181 9.71094 11.682C9.71094 12.9459 10.7355 13.9694 11.9984 13.9694C13.2623 13.9694 14.2868 12.9459 14.2868 11.682" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.438 17.8945H15.7168V19.4951" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0005 13.6855V15.4058H19.2793" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6216 18.057C20.1399 18.8919 19.236 19.4513 18.2037 19.4513C16.6635 19.4513 15.7168 17.9023 15.7168 17.9023" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7773 15.2692C16.2599 14.4257 17.1629 13.8672 18.2039 13.8672C20.0711 13.8672 21.0003 15.4152 21.0003 15.4152" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper refresh 1 — twoTone style variants.
+class _FinancialMoneyPaperRefresh1Twotone {
+  const _FinancialMoneyPaperRefresh1Twotone();
+
+  /// Money paper refresh 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper refresh 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.9116 18.7331H6.68941C4.72303 18.7331 3.5 17.3457 3.5 15.3822V7.98373C3.5 6.02027 4.72303 4.63281 6.68843 4.63281H18.3116C20.2711 4.63281 21.5 6.02027 21.5 7.98373V9.98222" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.71289 8.13281H8.11592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.2109 11.682C10.2109 10.4181 11.2355 9.39453 12.4984 9.39453C13.7623 9.39453 14.7868 10.4181 14.7868 11.682C14.7868 12.9459 13.7623 13.9694 12.4984 13.9694C11.2355 13.9694 10.2109 12.9459 10.2109 11.682Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.938 17.8926H16.2168V19.4931" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.5005 13.6836V15.4038H19.7793" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.1216 18.0551C20.6399 18.8899 19.736 19.4494 18.7037 19.4494C17.1635 19.4494 16.2168 17.9004 16.2168 17.9004" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2773 15.2692C16.7599 14.4257 17.6629 13.8672 18.7039 13.8672C20.5711 13.8672 21.5003 15.4152 21.5003 15.4152" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper refresh 1 — outline style variants.
+class _FinancialMoneyPaperRefresh1Outline {
+  const _FinancialMoneyPaperRefresh1Outline();
+
+  /// Money paper refresh 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.40612 6.02065C4.00582 6.45061 3.75 7.09447 3.75 7.92135V15.3198C3.75 16.1467 4.00582 16.7905 4.40618 17.2205C4.80092 17.6444 5.39141 17.9208 6.18941 17.9208H12.4116C12.8258 17.9208 13.1616 18.2565 13.1616 18.6708C13.1616 19.085 12.8258 19.4208 12.4116 19.4208H6.18941C5.02103 19.4208 4.01681 19.0034 3.30844 18.2427C2.6057 17.4881 2.25 16.4564 2.25 15.3198V7.92135C2.25 6.78478 2.60569 5.75317 3.30826 4.99854C4.01646 4.23785 5.02043 3.82043 6.18843 3.82043H17.8116C18.9771 3.82043 19.9807 4.23816 20.6892 4.99818C21.3923 5.75236 21.75 6.78384 21.75 7.92135V9.91984C21.75 10.3341 21.4142 10.6698 21 10.6698C20.5858 10.6698 20.25 10.3341 20.25 9.91984V7.92135C20.25 7.0954 19.9933 6.45143 19.592 6.02101C19.1962 5.59644 18.6056 5.32043 17.8116 5.32043H6.18843C5.39103 5.32043 4.80078 5.59674 4.40612 6.02065Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.46289 8.07129C5.46289 7.65708 5.79868 7.32129 6.21289 7.32129H7.61592C8.03013 7.32129 8.36592 7.65708 8.36592 8.07129C8.36592 8.4855 8.03013 8.82129 7.61592 8.82129H6.21289C5.79868 8.82129 5.46289 8.4855 5.46289 8.07129Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9984 10.082C11.1495 10.082 10.4609 10.77 10.4609 11.6195C10.4609 12.469 11.1495 13.1569 11.9984 13.1569C12.8485 13.1569 13.5368 12.4688 13.5368 11.6195C13.5368 10.7702 12.8485 10.082 11.9984 10.082ZM8.96094 11.6195C8.96094 9.94118 10.3215 8.58203 11.9984 8.58203C13.6761 8.58203 15.0368 9.94097 15.0368 11.6195C15.0368 13.298 13.6761 14.6569 11.9984 14.6569C10.3215 14.6569 8.96094 13.2978 8.96094 11.6195Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9668 17.8295C14.9668 17.4153 15.3026 17.0795 15.7168 17.0795H17.438C17.8522 17.0795 18.188 17.4153 18.188 17.8295C18.188 18.2437 17.8522 18.5795 17.438 18.5795H16.4668V19.43C16.4668 19.8442 16.131 20.18 15.7168 20.18C15.3026 20.18 14.9668 19.8442 14.9668 19.43V17.8295Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0005 12.8721C21.4147 12.8721 21.7505 13.2079 21.7505 13.6221V15.3423C21.7505 15.7565 21.4147 16.0923 21.0005 16.0923H19.2793C18.8651 16.0923 18.5293 15.7565 18.5293 15.3423C18.5293 14.9281 18.8651 14.5923 19.2793 14.5923H20.2505V13.6221C20.2505 13.2079 20.5863 12.8721 21.0005 12.8721Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3257 17.1979C15.6782 16.9825 16.1383 17.0927 16.355 17.4439L16.3552 17.4442L16.3583 17.449C16.3622 17.4552 16.3695 17.4663 16.3801 17.4818C16.4012 17.5128 16.4351 17.5607 16.4811 17.6198C16.5737 17.7391 16.7107 17.8981 16.8851 18.0555C17.2437 18.3791 17.6933 18.6368 18.2037 18.6368C18.9589 18.6368 19.6196 18.2284 19.9719 17.6178C20.1789 17.259 20.6376 17.1359 20.9964 17.3429C21.3551 17.5499 21.4782 18.0086 21.2712 18.3674C20.6602 19.4264 19.5132 20.1368 18.2037 20.1368C17.1739 20.1368 16.3801 19.6201 15.8803 19.1692C15.6255 18.9394 15.4295 18.7112 15.2965 18.54C15.2296 18.4539 15.1776 18.3808 15.1409 18.3271C15.1226 18.3002 15.108 18.2781 15.0974 18.2615L15.0842 18.2408L15.0798 18.2338L15.0782 18.2311L15.0775 18.23L15.0772 18.2295C15.077 18.2292 15.0769 18.229 15.7168 17.8379" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2038 14.5537C17.4393 14.5537 16.781 14.9615 16.4282 15.5782C16.2225 15.9377 15.7643 16.0624 15.4048 15.8568C15.0453 15.6511 14.9205 15.1929 15.1262 14.8333C15.7386 13.7629 16.8862 13.0537 18.2038 13.0537C19.3589 13.0537 20.2218 13.5358 20.7815 14.0009C21.0608 14.233 21.2701 14.4649 21.4111 14.6409C21.4819 14.7293 21.5365 14.8047 21.5749 14.8608C21.5942 14.8888 21.6095 14.9121 21.6208 14.9298L21.6349 14.9522L21.6398 14.9601L21.6417 14.9632L21.6425 14.9645L21.6428 14.9651C21.643 14.9654 21.6432 14.9657 21.0001 15.3517L21.6432 14.9657C21.8564 15.3209 21.7413 15.7816 21.3861 15.9948C21.0314 16.2077 20.5713 16.0931 20.3578 15.7389C20.3577 15.7387 20.3576 15.7385 20.3574 15.7383C20.3574 15.7383 20.3574 15.7383 20.3574 15.7382C20.3574 15.7382 20.3574 15.7382 20.3574 15.7382L20.3574 15.7383L20.3577 15.7387L20.3578 15.7389L20.3583 15.7397L20.3591 15.7411L20.3599 15.7423C20.36 15.7425 20.3593 15.7413 20.3577 15.7388C20.3545 15.7339 20.348 15.7239 20.3382 15.7096C20.3186 15.681 20.286 15.6355 20.2405 15.5788C20.1489 15.4645 20.0092 15.3094 19.8228 15.1545C19.4511 14.8457 18.9159 14.5537 18.2038 14.5537Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper refresh 1 — bold style variants.
+class _FinancialMoneyPaperRefresh1Bold {
+  const _FinancialMoneyPaperRefresh1Bold();
+
+  /// Money paper refresh 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper refresh 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9995 9.22095C10.1515 9.22095 9.46155 9.91095 9.46155 10.7609C9.46155 11.6109 10.1515 12.3009 10.9995 12.3009C11.8475 12.3009 12.5375 11.6109 12.5375 10.7609C12.5375 9.91095 11.8475 9.22095 10.9995 9.22095Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9995 13.8009C9.32449 13.8009 7.96149 12.4379 7.96149 10.7609C7.96149 9.08394 9.32449 7.72094 10.9995 7.72094C12.6745 7.72094 14.0375 9.08394 14.0375 10.7609C14.0375 12.4379 12.6745 13.8009 10.9995 13.8009ZM6.61749 7.96094H5.21449C4.80049 7.96094 4.46449 7.62494 4.46449 7.21094C4.46449 6.79694 4.80049 6.46094 5.21449 6.46094H6.61749C7.03149 6.46094 7.36749 6.79694 7.36749 7.21094C7.36749 7.62494 7.03149 7.96094 6.61749 7.96094ZM19.5295 11.2829C19.7415 11.2829 19.9498 11.2965 20.1558 11.3186C20.3379 11.3381 20.5005 11.1985 20.5005 11.0153V7.06094C20.5005 4.75794 19.0185 3.21094 16.8115 3.21094H5.18749C2.98149 3.21094 1.50049 4.75794 1.50049 7.06094V14.4609C1.50049 16.7639 2.98249 18.3109 5.18849 18.3109H12.6257C12.7989 18.3109 12.9325 18.1649 12.9264 17.9918C12.9252 17.9576 12.9245 17.9234 12.9245 17.8889C12.9245 14.2409 15.8815 11.2829 19.5295 11.2829Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7483 18.0835C21.3923 17.8755 20.9323 17.9975 20.7243 18.3555C20.3593 18.9825 19.6823 19.3725 18.9543 19.3725C18.7613 19.3725 18.5843 19.3275 18.4153 19.2665C18.7163 19.1695 18.9383 18.8955 18.9383 18.5625C18.9383 18.1475 18.6023 17.8125 18.1883 17.8125H16.4673C16.4343 17.8125 16.4063 17.8265 16.3743 17.8305C16.3593 17.8325 16.3443 17.8365 16.3293 17.8395C16.2453 17.8565 16.1683 17.8825 16.0973 17.9235C16.0903 17.9275 16.0833 17.9275 16.0763 17.9315C16.0663 17.9375 16.0613 17.9485 16.0513 17.9545C15.9873 17.9985 15.9323 18.0475 15.8853 18.1085C15.8663 18.1315 15.8513 18.1555 15.8363 18.1805C15.8043 18.2325 15.7793 18.2855 15.7613 18.3455C15.7473 18.3885 15.7403 18.4315 15.7343 18.4775C15.7303 18.5065 15.7173 18.5315 15.7173 18.5625V20.1625C15.7173 20.5765 16.0533 20.9125 16.4673 20.9125C16.8243 20.9125 17.1093 20.6575 17.1853 20.3225C17.6633 20.6305 18.2543 20.8725 18.9543 20.8725C20.2153 20.8725 21.3903 20.1965 22.0203 19.1075C22.2283 18.7495 22.1063 18.2905 21.7483 18.0835Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.4839 16.1631C22.4869 16.1351 22.4999 16.1111 22.4999 16.0821V14.3621C22.4999 13.9481 22.1639 13.6121 21.7499 13.6121C21.3359 13.6121 20.9999 13.9481 20.9999 14.3621V14.3641C20.4709 14.0441 19.7919 13.7921 18.9539 13.7921C17.6869 13.7921 16.5079 14.4731 15.8769 15.5681C15.6709 15.9261 15.7939 16.3851 16.1539 16.5921C16.5129 16.7971 16.9719 16.6741 17.1779 16.3161C17.5459 15.6751 18.2109 15.2921 18.9539 15.2921C19.2319 15.2921 19.4749 15.3451 19.6989 15.4171C19.4529 15.5411 19.2799 15.7891 19.2799 16.0821C19.2799 16.4971 19.6149 16.8321 20.0299 16.8321H21.7129C21.7269 16.8331 21.7379 16.8421 21.7509 16.8421C21.8819 16.8421 22.0149 16.8081 22.1359 16.7361C22.1799 16.7101 22.2079 16.6701 22.2439 16.6371C22.2619 16.6221 22.2789 16.6081 22.2959 16.5901C22.3429 16.5391 22.3789 16.4831 22.4089 16.4221C22.4239 16.3941 22.4379 16.3671 22.4489 16.3371C22.4689 16.2801 22.4779 16.2231 22.4839 16.1631Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper refresh 1 — light style variants.
+class _FinancialMoneyPaperRefresh1Light {
+  const _FinancialMoneyPaperRefresh1Light();
+
+  /// Money paper refresh 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.4116 18.6708H6.18941C4.22303 18.6708 3 17.2833 3 15.3198V7.92135C3 5.95789 4.22303 4.57043 6.18843 4.57043H17.8116C19.7711 4.57043 21 5.95789 21 7.92135V9.91984" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.21289 8.07129H7.61592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.71094 11.6195C9.71094 10.3556 10.7355 9.33203 11.9984 9.33203C13.2623 9.33203 14.2868 10.3556 14.2868 11.6195C14.2868 12.8834 13.2623 13.9069 11.9984 13.9069C10.7355 13.9069 9.71094 12.8834 9.71094 11.6195Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.438 17.8295H15.7168V19.43" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0005 13.6221V15.3423H19.2793" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6216 17.9926C20.1399 18.8274 19.236 19.3869 18.2037 19.3869C16.6635 19.3869 15.7168 17.8379 15.7168 17.8379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7773 15.2058C16.2599 14.3622 17.1629 13.8037 18.2039 13.8037C20.0711 13.8037 21.0003 15.3517 21.0003 15.3517" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Golds icon with style variants.
 class _FinancialGoldsIcon {
   const _FinancialGoldsIcon();
@@ -2930,10 +4115,6 @@ class _FinancialGoldsIcon {
   _FinancialGoldsBold get bold => const _FinancialGoldsBold();
   /// bulk style
   _FinancialGoldsBulk get bulk => const _FinancialGoldsBulk();
-  /// light style
-  _FinancialGoldsLight get light => const _FinancialGoldsLight();
-  /// outline style
-  _FinancialGoldsOutline get outline => const _FinancialGoldsOutline();
   /// twoTone style
   _FinancialGoldsTwotone get twoTone => const _FinancialGoldsTwotone();
   /// broken style
@@ -2985,21 +4166,6 @@ class _FinancialGoldsTwotone {
 
 }
 
-/// Golds — outline style variants.
-class _FinancialGoldsOutline {
-  const _FinancialGoldsOutline();
-
-  /// Golds — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Golds',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.38665 15.8183C4.38664 15.8184 4.38667 15.8182 4.38665 15.8183L3.75535 18.9991C3.7248 19.1542 3.84375 19.3001 4.00331 19.3001H9.66882C9.82822 19.3001 9.94671 19.1539 9.91603 19.0002L9.28548 15.8183C9.28547 15.8183 9.28549 15.8184 9.28548 15.8183C9.26195 15.7006 9.15858 15.6152 9.03738 15.6152H4.63378C4.51402 15.6152 4.4103 15.7002 4.38665 15.8183ZM2.91555 15.5253C3.0788 14.7056 3.79819 14.1152 4.63378 14.1152H9.03738C9.87351 14.1152 10.5932 14.7052 10.7566 15.5253L11.387 18.7065C11.387 18.7066 11.387 18.7064 11.387 18.7065C11.6032 19.7903 10.7722 20.8001 9.66882 20.8001H4.00331C2.89811 20.8001 2.0695 19.7901 2.28395 18.7076L2.91555 15.5253Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6796 15.8183C14.6796 15.8184 14.6796 15.8182 14.6796 15.8183L14.0483 18.9991C14.0178 19.1542 14.1367 19.3001 14.2963 19.3001H19.9618C20.1212 19.3001 20.2397 19.1539 20.209 19.0002L19.5784 15.8183C19.5784 15.8183 19.5785 15.8184 19.5784 15.8183C19.5549 15.7006 19.4515 15.6152 19.3303 15.6152H14.9268C14.807 15.6152 14.7033 15.7002 14.6796 15.8183ZM13.2085 15.5253C13.3718 14.7056 14.0912 14.1152 14.9268 14.1152H19.3303C20.1665 14.1152 20.8862 14.7052 21.0496 15.5253L21.68 18.7065C21.68 18.7066 21.6799 18.7064 21.68 18.7065C21.8962 19.7903 21.0652 20.8001 19.9618 20.8001H14.2963C13.1911 20.8001 12.3625 19.7901 12.5769 18.7076L13.2085 15.5253Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.15863 8.2148C9.15861 8.21488 9.15864 8.21472 9.15863 8.2148L8.52733 11.3956C8.49677 11.5506 8.61573 11.6966 8.77528 11.6966H14.4408C14.6002 11.6966 14.7187 11.5504 14.688 11.3967L14.0575 8.2148C14.0574 8.21475 14.0575 8.21485 14.0575 8.2148C14.0339 8.09705 13.9306 8.01172 13.8093 8.01172H9.40576C9.28599 8.01172 9.18227 8.09666 9.15863 8.2148ZM7.68752 7.9218C7.85077 7.10213 8.57016 6.51172 9.40576 6.51172H13.8093C14.6455 6.51172 15.3652 7.1017 15.5286 7.9218L16.159 11.103C16.159 11.1031 16.1589 11.1029 16.159 11.103C16.3752 12.1868 15.5442 13.1966 14.4408 13.1966H8.77528C7.67008 13.1966 6.84147 12.1866 7.05592 11.1041L7.68752 7.9218Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.83077 3.2002C5.15585 3.2002 5.44393 3.40963 5.5442 3.71886C5.72497 4.27633 6.16157 4.71294 6.71905 4.89371C7.02828 4.99398 7.23771 5.28205 7.23771 5.60714C7.23771 5.93222 7.02828 6.2203 6.71905 6.32057C6.16157 6.50133 5.72497 6.93794 5.5442 7.49541C5.44393 7.80465 5.15585 8.01408 4.83077 8.01408C4.50568 8.01408 4.21761 7.80465 4.11734 7.49541C3.93657 6.93794 3.49997 6.50133 2.94249 6.32057C2.63326 6.2203 2.42383 5.93222 2.42383 5.60714C2.42383 5.28205 2.63326 4.99398 2.94249 4.89371C3.49997 4.71294 3.93657 4.27633 4.11734 3.71886C4.21761 3.40963 4.50568 3.2002 4.83077 3.2002ZM4.62857 5.60714C4.69883 5.67161 4.7663 5.73907 4.83077 5.80934C4.89524 5.73907 4.96271 5.67161 5.03297 5.60714C4.96271 5.54266 4.89524 5.4752 4.83077 5.40494C4.7663 5.4752 4.69883 5.54266 4.62857 5.60714Z" fill="black"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Golds — bold style variants.
 class _FinancialGoldsBold {
   const _FinancialGoldsBold();
@@ -3010,21 +4176,6 @@ class _FinancialGoldsBold {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4705 18.7353L20.8405 15.5533C20.7005 14.8573 20.0805 14.3523 19.3665 14.3523H14.9635C14.2475 14.3523 13.6285 14.8583 13.4905 15.5543L12.8595 18.7343C12.7705 19.1783 12.8855 19.6333 13.1725 19.9833C13.4585 20.3323 13.8815 20.5323 14.3325 20.5323H19.9985C20.4495 20.5323 20.8715 20.3323 21.1585 19.9823C21.4455 19.6313 21.5595 19.1773 21.4705 18.7353Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5115 15.5535C10.3715 14.8575 9.75152 14.3525 9.03752 14.3525H4.63452C3.91852 14.3525 3.29952 14.8585 3.16052 15.5545L2.52852 18.7355C2.44152 19.1795 2.55552 19.6335 2.84352 19.9835C3.13052 20.3315 3.55352 20.5325 4.00352 20.5325H9.66952C10.1195 20.5325 10.5425 20.3315 10.8295 19.9825C11.1165 19.6315 11.2305 19.1775 11.1415 18.7355L10.5115 15.5535Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.81043 12.9324H14.4754C14.9264 12.9324 15.3494 12.7324 15.6354 12.3834C15.9224 12.0344 16.0374 11.5784 15.9484 11.1344L15.3174 7.95343C15.1784 7.25143 14.5584 6.74243 13.8444 6.74243H9.44043C8.72743 6.74243 8.10743 7.25143 7.96743 7.95343L7.33643 11.1344C7.24843 11.5784 7.36243 12.0344 7.64943 12.3834C7.93543 12.7324 8.35943 12.9324 8.81043 12.9324Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.02283 6.06925C3.65083 6.26925 4.14983 6.76525 4.35583 7.39725C4.42283 7.60325 4.61483 7.74225 4.83183 7.74225C5.04783 7.74225 5.23983 7.60325 5.30683 7.39725C5.51283 6.76525 6.01183 6.26925 6.63983 6.06925C6.84583 6.00425 6.98683 5.81225 6.98783 5.59525C6.98983 5.37925 6.85183 5.18625 6.64583 5.11825C6.00983 4.90725 5.50983 4.40625 5.30683 3.77925C5.17383 3.36525 4.48883 3.36525 4.35583 3.77925C4.15283 4.40725 3.65183 4.90725 3.01683 5.11825C2.81183 5.18625 2.67283 5.37925 2.67383 5.59525C2.67583 5.81225 2.81583 6.00425 3.02283 6.06925Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Golds — light style variants.
-class _FinancialGoldsLight {
-  const _FinancialGoldsLight();
-
-  /// Golds — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Golds',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.9977 20.0501H14.3322C13.6997 20.0501 13.2259 19.4722 13.3485 18.8534L13.98 15.6718C14.0734 15.2028 14.4849 14.8652 14.9626 14.8652H19.3662C19.8449 14.8652 20.2565 15.2028 20.3499 15.6718L20.9804 18.8534C21.1039 19.4722 20.6291 20.0501 19.9977 20.0501Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.66857 20.0501H4.00306C3.37064 20.0501 2.89681 19.4722 3.0194 18.8534L3.65085 15.6718C3.74425 15.2028 4.15581 14.8652 4.63353 14.8652H9.03713C9.51582 14.8652 9.92738 15.2028 10.0208 15.6718L10.6513 18.8534C10.7748 19.4722 10.3 20.0501 9.66857 20.0501Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4752 12.4476H8.8097C8.17728 12.4476 7.70345 11.8696 7.82604 11.2508L8.45749 8.06927C8.55089 7.60031 8.96245 7.2627 9.44018 7.2627H13.8438C14.3225 7.2627 14.734 7.60031 14.8274 8.06927L15.4579 11.2508C15.5815 11.8696 15.1067 12.4476 14.4752 12.4476Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.17383 5.60714C3.95998 5.86205 4.57586 6.47793 4.83077 7.26408C5.08568 6.47793 5.70156 5.86205 6.48771 5.60714C5.70156 5.35222 5.08568 4.73634 4.83077 3.9502C4.57586 4.73634 3.95998 5.35222 3.17383 5.60714Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.light,
     type: IconfyType.regular,
   );
 
@@ -3246,6 +4397,114 @@ class _FinancialDollarBadgeLight {
 
 }
 
+/// Dollar badge 1 icon with style variants.
+class _FinancialDollarBadge1Icon {
+  const _FinancialDollarBadge1Icon();
+
+  /// bold style
+  _FinancialDollarBadge1Bold get bold => const _FinancialDollarBadge1Bold();
+  /// bulk style
+  _FinancialDollarBadge1Bulk get bulk => const _FinancialDollarBadge1Bulk();
+  /// light style
+  _FinancialDollarBadge1Light get light => const _FinancialDollarBadge1Light();
+  /// outline style
+  _FinancialDollarBadge1Outline get outline => const _FinancialDollarBadge1Outline();
+  /// twoTone style
+  _FinancialDollarBadge1Twotone get twoTone => const _FinancialDollarBadge1Twotone();
+  /// broken style
+  _FinancialDollarBadge1Broken get broken => const _FinancialDollarBadge1Broken();
+}
+
+/// Dollar badge 1 — bulk style variants.
+class _FinancialDollarBadge1Bulk {
+  const _FinancialDollarBadge1Bulk();
+
+  /// Dollar badge 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar badge 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M7.47 17.8755C7.47 18.9055 6.64 19.7355 5.61 19.7355C5.606 19.7355 5.603 19.7375 5.599 19.7385C5.104 19.7345 4.643 19.5445 4.301 19.2015C3.946 18.8435 3.75 18.3745 3.75 17.8805V10.6395C3.75 10.4915 3.814 10.3635 3.92 10.2985C4.03 10.2315 4.118 10.2755 4.13 10.2815L4.793 10.6365C5.381 10.9385 6.072 10.9555 6.684 10.6865L7.47 10.3375V17.8755ZM20.87 3.71548C20.35 3.40548 19.72 3.37548 19.16 3.65548L18.52 4.00548C18.34 4.09548 18.12 4.10548 17.92 4.01548L16.07 3.18548C15.13 2.78548 14.09 2.78548 13.14 3.19548L11.29 4.01548C11.09 4.10548 10.88 4.10548 10.71 4.00548L10.04 3.64548C9.5 3.37548 8.87 3.40548 8.36 3.72548C7.8 4.06548 7.47 4.66548 7.47 5.33548V8.72448C7.421 8.73848 7.371 8.73848 7.324 8.76348L6.078 9.31448C5.879 9.40248 5.668 9.39848 5.492 9.30848L4.825 8.95148C4.285 8.67848 3.654 8.70348 3.135 9.01948C2.582 9.35948 2.25 9.96548 2.25 10.6395V17.8805C2.25 18.7735 2.601 19.6185 3.238 20.2585C3.868 20.8905 4.711 21.2395 5.614 21.2395C5.62 21.2395 5.626 21.2355 5.632 21.2355H17.75C20.21 21.2355 21.74 19.5455 21.74 16.8155L21.75 5.33548C21.75 4.66548 21.42 4.05548 20.87 3.71548Z" fill="black"/> <path d="M15.1861 15.4395V15.1825C16.2211 15.1445 17.0531 14.2955 17.0531 13.2505C17.0531 12.1855 16.1841 11.3195 15.1161 11.3195H13.7561C13.5191 11.3195 13.3191 11.1185 13.3191 10.8805C13.3191 10.6365 13.5151 10.4395 13.7561 10.4395H15.9631C16.3771 10.4395 16.7131 10.1035 16.7131 9.68945C16.7131 9.27545 16.3771 8.93945 15.9631 8.93945H15.1861V8.68945C15.1861 8.27545 14.8501 7.93945 14.4361 7.93945C14.0221 7.93945 13.6861 8.27545 13.6861 8.68945V8.94645C12.6511 8.98445 11.8191 9.83345 11.8191 10.8805C11.8191 11.9495 12.6881 12.8195 13.7561 12.8195H15.1161C15.3571 12.8195 15.5531 13.0125 15.5531 13.2505C15.5531 13.4925 15.3571 13.6895 15.1161 13.6895H12.9091C12.4951 13.6895 12.1591 14.0255 12.1591 14.4395C12.1591 14.8535 12.4951 15.1895 12.9091 15.1895H13.6861V15.4395C13.6861 15.8535 14.0221 16.1895 14.4361 16.1895C14.8501 16.1895 15.1861 15.8535 15.1861 15.4395Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar badge 1 — broken style variants.
+class _FinancialDollarBadge1Broken {
+  const _FinancialDollarBadge1Broken();
+
+  /// Dollar badge 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar badge 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9955 11.0788L20.9999 5.34064C20.9999 4.5107 20.2059 3.97167 19.5171 4.32486L18.8642 4.66929C18.475 4.87264 18.0255 4.8814 17.6188 4.70432L15.774 3.88313C15.0239 3.55719 14.1939 3.55719 13.4438 3.88313L11.599 4.70432C11.1923 4.8814 10.7418 4.87264 10.3536 4.66929L9.70074 4.32486C9.01188 3.97167 8.21793 4.51946 8.21793 5.34064V17.8842C8.21793 19.3232 7.05231 20.4889 5.61328 20.4889H17.7511C19.8352 20.4889 20.9911 19.0849 20.9911 16.8169L20.9933 13.9478" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.9631 9.68945H13.7564C13.1006 9.68945 12.5684 10.2217 12.5684 10.8775C12.5684 11.5342 13.1006 12.0655 13.7564 12.0655H15.1146C15.7704 12.0655 16.3026 12.5977 16.3026 13.2544C16.3026 13.9102 15.7704 14.4424 15.1146 14.4424H12.9079" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4355 14.4436V15.4409M14.4355 8.6875V9.69355" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.61341 20.489C4.88951 20.489 4.23665 20.1981 3.76865 19.7301C3.29189 19.2534 3 18.5995 3 17.8844V10.6367C3 9.80676 3.79492 9.26871 4.48378 9.62189L5.13665 9.96633C5.52487 10.1697 5.97535 10.1784 6.38108 10.0014" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar badge 1 — twoTone style variants.
+class _FinancialDollarBadge1Twotone {
+  const _FinancialDollarBadge1Twotone();
+
+  /// Dollar badge 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar badge 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.71793 5.33869V9.64604V17.8823C8.71793 19.3213 7.55231 20.4869 6.11328 20.4869H18.2511C20.3352 20.4869 21.4911 19.0829 21.4911 16.8149L21.4999 5.33869C21.4999 4.50875 20.7059 3.96972 20.0171 4.32291L19.3642 4.66734C18.975 4.87069 18.5255 4.87945 18.1188 4.70237L16.274 3.88118C15.5239 3.55523 14.6939 3.55523 13.9438 3.88118L12.099 4.70237C11.6923 4.87945 11.2418 4.87069 10.8536 4.66734L10.2007 4.32291C9.51188 3.96972 8.71793 4.5175 8.71793 5.33869Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4631 9.68945H14.2564C13.6006 9.68945 13.0684 10.2217 13.0684 10.8775C13.0684 11.5342 13.6006 12.0655 14.2564 12.0655H15.6146C16.2704 12.0655 16.8026 12.5977 16.8026 13.2544C16.8026 13.9102 16.2704 14.4424 15.6146 14.4424H13.4079" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9355 14.4417V15.439M14.9355 8.68555V9.6916" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.11341 20.4867C5.38951 20.4867 4.73665 20.1958 4.26865 19.7278C3.79189 19.251 3.5 18.5972 3.5 17.882V10.6344C3.5 9.80442 4.29492 9.26636 4.98378 9.61955L5.63665 9.96398C6.02487 10.1673 6.47535 10.1761 6.88108 9.99901L8.12649 9.44344C8.22281 9.39869 8.47092 9.5135 8.71805 9.64582" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar badge 1 — outline style variants.
+class _FinancialDollarBadge1Outline {
+  const _FinancialDollarBadge1Outline();
+
+  /// Dollar badge 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar badge 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.7484 21.1748H5.61035C5.41144 21.1748 5.22067 21.0958 5.08002 20.9551C4.93936 20.8145 4.86035 20.6237 4.86035 20.4248C4.86035 20.2259 4.93936 20.0351 5.08002 19.8944C5.22067 19.7538 5.41144 19.6748 5.61035 19.6748C6.10217 19.6742 6.57368 19.4786 6.92145 19.1309C7.26921 18.7831 7.46486 18.3116 7.46539 17.8198V5.27678C7.46133 4.95327 7.54094 4.63419 7.69653 4.35052C7.85212 4.06686 8.0784 3.82822 8.35339 3.65778C8.60521 3.50264 8.89281 3.41515 9.18835 3.40376C9.4839 3.39238 9.7774 3.45748 10.0404 3.59277L10.7004 3.94177C10.7929 3.98924 10.8951 4.01491 10.9991 4.01682C11.1031 4.01872 11.2061 3.99681 11.3004 3.95277L13.1404 3.13377C13.6025 2.93028 14.1019 2.8252 14.6069 2.8252C15.1118 2.8252 15.6112 2.93028 16.0734 3.13377L17.9244 3.95778C18.0178 4.00067 18.1198 4.02161 18.2226 4.01901C18.3254 4.01641 18.4262 3.99034 18.5174 3.94278L19.1674 3.60077C19.4314 3.4619 19.7271 3.39432 20.0252 3.40466C20.3233 3.41501 20.6136 3.50294 20.8674 3.65977C21.1423 3.83041 21.3684 4.06927 21.5236 4.35315C21.6789 4.63703 21.758 4.95625 21.7534 5.27977L21.7444 16.7568C21.7384 19.4808 20.2094 21.1748 17.7484 21.1748ZM8.40436 19.6748H17.7484C19.8074 19.6748 20.2384 18.0858 20.2384 16.7528L20.2474 5.27577C20.2507 5.20961 20.2371 5.14371 20.2076 5.08435C20.1782 5.02499 20.134 4.97417 20.0793 4.93677C20.0463 4.91512 20.0081 4.90286 19.9686 4.90128C19.9292 4.89969 19.89 4.90885 19.8553 4.92778L19.2114 5.26778C18.9206 5.41987 18.5992 5.50427 18.2712 5.51466C17.9433 5.52505 17.6172 5.46116 17.3174 5.32777L15.4673 4.50377C15.1951 4.38432 14.9011 4.32266 14.6039 4.32266C14.3066 4.32266 14.0126 4.38432 13.7404 4.50377L11.9004 5.32178C11.6 5.45644 11.273 5.52136 10.944 5.51166C10.6149 5.50196 10.2923 5.4179 10.0004 5.26578L9.34735 4.92078C9.3137 4.90436 9.27637 4.89702 9.23901 4.89948C9.20166 4.90193 9.16561 4.91409 9.1344 4.93477C9.07896 4.97161 9.03401 5.02223 9.00403 5.08167C8.97405 5.1411 8.96006 5.20729 8.96338 5.27377V17.8168C8.96513 18.4778 8.77055 19.1245 8.40436 19.6748V19.6748Z" fill="black"/> <path d="M15.1124 15.129H12.9055C12.7065 15.129 12.5158 15.05 12.3751 14.9093C12.2345 14.7686 12.1555 14.5779 12.1555 14.379C12.1555 14.1801 12.2345 13.9893 12.3751 13.8486C12.5158 13.708 12.7065 13.629 12.9055 13.629H15.1124C15.2287 13.629 15.3403 13.5828 15.4225 13.5005C15.5047 13.4183 15.551 13.3068 15.551 13.1905C15.551 13.0742 15.5047 12.9626 15.4225 12.8804C15.3403 12.7982 15.2287 12.752 15.1124 12.752H13.7534C13.2394 12.752 12.7465 12.5478 12.3831 12.1843C12.0196 11.8209 11.8154 11.328 11.8154 10.814C11.8154 10.3 12.0196 9.80705 12.3831 9.4436C12.7465 9.08016 13.2394 8.87598 13.7534 8.87598H15.9604C16.1594 8.87598 16.3501 8.95499 16.4908 9.09564C16.6314 9.23629 16.7104 9.42706 16.7104 9.62598C16.7104 9.82489 16.6314 10.0156 16.4908 10.1563C16.3501 10.2969 16.1594 10.376 15.9604 10.376H13.7534C13.6373 10.376 13.5259 10.4221 13.4437 10.5043C13.3616 10.5864 13.3154 10.6978 13.3154 10.814C13.3154 10.9301 13.3616 11.0415 13.4437 11.1237C13.5259 11.2058 13.6373 11.252 13.7534 11.252H15.1124C15.6265 11.252 16.1196 11.4562 16.4832 11.8197C16.8467 12.1833 17.051 12.6764 17.051 13.1905C17.051 13.7046 16.8467 14.1977 16.4832 14.5612C16.1196 14.9247 15.6265 15.129 15.1124 15.129V15.129Z" fill="black"/> <path d="M14.4346 16.1251C14.2357 16.1251 14.0449 16.046 13.9042 15.9054C13.7636 15.7647 13.6846 15.574 13.6846 15.3751V14.3751C13.6846 14.1762 13.7636 13.9854 13.9042 13.8447C14.0449 13.7041 14.2357 13.6251 14.4346 13.6251C14.6335 13.6251 14.8243 13.7041 14.9649 13.8447C15.1056 13.9854 15.1846 14.1762 15.1846 14.3751V15.3751C15.1846 15.574 15.1056 15.7647 14.9649 15.9054C14.8243 16.046 14.6335 16.1251 14.4346 16.1251V16.1251ZM14.4346 10.3781C14.2357 10.3781 14.0449 10.2991 13.9042 10.1584C13.7636 10.0177 13.6846 9.82698 13.6846 9.62807V8.62207C13.6846 8.42316 13.7636 8.23239 13.9042 8.09174C14.0449 7.95108 14.2357 7.87207 14.4346 7.87207C14.6335 7.87207 14.8243 7.95108 14.9649 8.09174C15.1056 8.23239 15.1846 8.42316 15.1846 8.62207V9.62807C15.1846 9.82698 15.1056 10.0177 14.9649 10.1584C14.8243 10.2991 14.6335 10.3781 14.4346 10.3781V10.3781Z" fill="black"/> <path d="M5.61024 21.1745C5.16909 21.1751 4.73215 21.0889 4.32435 20.9206C3.91656 20.7523 3.54596 20.5053 3.23365 20.1938C2.92134 19.8822 2.67347 19.5121 2.50422 19.1048C2.33498 18.6974 2.24766 18.2606 2.24727 17.8195V10.5715C2.2426 10.2481 2.32174 9.92898 2.477 9.64526C2.63227 9.36155 2.85836 9.12287 3.13325 8.95247C3.38569 8.7968 3.67421 8.70926 3.97059 8.6984C4.26697 8.68753 4.56113 8.75371 4.82429 8.89047L5.48329 9.23747C5.57572 9.28524 5.67785 9.31115 5.78187 9.31323C5.88589 9.31531 5.989 9.2935 6.08326 9.24947L7.32124 8.69547C7.53287 8.63231 7.75644 8.61987 7.97377 8.65913C8.1911 8.6984 8.39612 8.78826 8.57228 8.92146C8.65921 8.96789 8.73617 9.03098 8.79872 9.10713C8.86127 9.18329 8.90819 9.27103 8.93684 9.36533C8.96549 9.45962 8.97527 9.55864 8.96565 9.65672C8.95603 9.75481 8.92717 9.85003 8.88075 9.93697C8.83433 10.0239 8.77124 10.1008 8.69508 10.1634C8.61892 10.2259 8.5312 10.2729 8.4369 10.3015C8.3426 10.3302 8.2436 10.34 8.14552 10.3304C8.04744 10.3207 7.95218 10.2919 7.86525 10.2455C7.80125 10.2105 7.74924 10.1845 7.70924 10.1655L6.68824 10.6215C6.38772 10.7556 6.06085 10.8203 5.73188 10.8106C5.40292 10.8009 5.08038 10.7171 4.78828 10.5655L4.13429 10.2215C4.10046 10.2037 4.06242 10.1953 4.02424 10.1972C3.98606 10.1992 3.9491 10.2113 3.91725 10.2325C3.86243 10.2697 3.8182 10.3205 3.78877 10.3799C3.75934 10.4393 3.74573 10.5053 3.74928 10.5715V17.8195C3.7498 18.0636 3.79838 18.3052 3.89229 18.5306C3.98619 18.7559 4.12359 18.9606 4.29658 19.1328C4.46958 19.3051 4.67478 19.4416 4.90052 19.5345C5.12627 19.6274 5.36813 19.675 5.61226 19.6745C5.81117 19.6745 6.00194 19.7535 6.14259 19.8941C6.28324 20.0348 6.36226 20.2256 6.36226 20.4245C6.36226 20.6234 6.28324 20.8142 6.14259 20.9548C6.00194 21.0955 5.81117 21.1745 5.61226 21.1745H5.61024ZM7.93428 10.0635H7.92524H7.93428Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar badge 1 — bold style variants.
+class _FinancialDollarBadge1Bold {
+  const _FinancialDollarBadge1Bold();
+
+  /// Dollar badge 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar badge 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.186 15.1825V15.4395C15.186 15.8535 14.85 16.1895 14.436 16.1895C14.022 16.1895 13.686 15.8535 13.686 15.4395V15.1895H12.909C12.495 15.1895 12.159 14.8535 12.159 14.4395C12.159 14.0255 12.495 13.6895 12.909 13.6895H15.116C15.357 13.6895 15.553 13.4925 15.553 13.2505C15.553 13.0125 15.357 12.8195 15.116 12.8195H13.756C12.688 12.8195 11.819 11.9495 11.819 10.8805C11.819 9.83348 12.651 8.98448 13.686 8.94648V8.68948C13.686 8.27548 14.022 7.93948 14.436 7.93948C14.85 7.93948 15.186 8.27548 15.186 8.68948V8.93948H15.963C16.377 8.93948 16.713 9.27548 16.713 9.68948C16.713 10.1035 16.377 10.4395 15.963 10.4395H13.756C13.515 10.4395 13.319 10.6365 13.319 10.8805C13.319 11.1185 13.519 11.3195 13.756 11.3195H15.116C16.184 11.3195 17.053 12.1855 17.053 13.2505C17.053 14.2955 16.221 15.1445 15.186 15.1825ZM7.47 17.8755C7.47 18.9055 6.64 19.7355 5.61 19.7355C5.606 19.7355 5.603 19.7375 5.599 19.7385C5.104 19.7345 4.643 19.5445 4.301 19.2015C3.946 18.8435 3.75 18.3745 3.75 17.8805V10.6395C3.75 10.4915 3.814 10.3635 3.92 10.2985C4.03 10.2315 4.118 10.2755 4.13 10.2815L4.793 10.6365C5.381 10.9385 6.072 10.9555 6.684 10.6865L7.47 10.3375V17.8755ZM20.87 3.71548C20.35 3.40548 19.72 3.37548 19.16 3.65548L18.52 4.00548C18.34 4.09548 18.12 4.10548 17.92 4.01548L16.07 3.18548C15.13 2.78548 14.09 2.78548 13.14 3.19548L11.29 4.01548C11.09 4.10548 10.88 4.10548 10.71 4.00548L10.04 3.64548C9.5 3.37548 8.87 3.40548 8.36 3.72548C7.8 4.06548 7.47 4.66548 7.47 5.33548V8.72448C7.421 8.73848 7.371 8.73848 7.324 8.76348L6.078 9.31448C5.879 9.40248 5.668 9.39848 5.492 9.30848L4.825 8.95148C4.285 8.67848 3.654 8.70348 3.135 9.01948C2.582 9.35948 2.25 9.96548 2.25 10.6395V17.8805C2.25 18.7735 2.601 19.6185 3.238 20.2585C3.868 20.8905 4.711 21.2395 5.614 21.2395C5.62 21.2395 5.626 21.2355 5.632 21.2355H17.75C20.21 21.2355 21.74 19.5455 21.74 16.8155L21.75 5.33548C21.75 4.66548 21.42 4.05548 20.87 3.71548Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar badge 1 — light style variants.
+class _FinancialDollarBadge1Light {
+  const _FinancialDollarBadge1Light();
+
+  /// Dollar badge 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar badge 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.21793 5.27692V9.58428V17.8205C8.21793 19.2595 7.05231 20.4251 5.61328 20.4251H17.7511C19.8352 20.4251 20.9911 19.0211 20.9911 16.7531L20.9999 5.27692C20.9999 4.44698 20.2059 3.90795 19.5171 4.26114L18.8642 4.60557C18.475 4.80892 18.0255 4.81768 17.6188 4.6406L15.774 3.81941C15.0239 3.49346 14.1939 3.49346 13.4438 3.81941L11.599 4.6406C11.1923 4.81768 10.7418 4.80892 10.3536 4.60557L9.70074 4.26114C9.01188 3.90795 8.21793 4.45574 8.21793 5.27692Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.9631 9.62646H13.7564C13.1006 9.62646 12.5684 10.1587 12.5684 10.8145C12.5684 11.4712 13.1006 12.0025 13.7564 12.0025H15.1146C15.7704 12.0025 16.3026 12.5347 16.3026 13.1914C16.3026 13.8472 15.7704 14.3794 15.1146 14.3794H12.9079" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4355 14.3792V15.3765M14.4355 8.62305V9.6291" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.61341 20.4252C4.88951 20.4252 4.23665 20.1342 3.76865 19.6662C3.29189 19.1895 3 18.5356 3 17.8205V10.5728C3 9.74289 3.79492 9.20484 4.48378 9.55803L5.13665 9.90246C5.52487 10.1058 5.97535 10.1146 6.38108 9.93749L7.62649 9.38192C7.72281 9.33716 7.97092 9.45197 8.21805 9.5843" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Money paper download icon with style variants.
 class _FinancialMoneyPaperDownloadIcon {
   const _FinancialMoneyPaperDownloadIcon();
@@ -3254,10 +4513,6 @@ class _FinancialMoneyPaperDownloadIcon {
   _FinancialMoneyPaperDownloadBold get bold => const _FinancialMoneyPaperDownloadBold();
   /// bulk style
   _FinancialMoneyPaperDownloadBulk get bulk => const _FinancialMoneyPaperDownloadBulk();
-  /// light style
-  _FinancialMoneyPaperDownloadLight get light => const _FinancialMoneyPaperDownloadLight();
-  /// outline style
-  _FinancialMoneyPaperDownloadOutline get outline => const _FinancialMoneyPaperDownloadOutline();
   /// twoTone style
   _FinancialMoneyPaperDownloadTwotone get twoTone => const _FinancialMoneyPaperDownloadTwotone();
   /// broken style
@@ -3309,21 +4564,6 @@ class _FinancialMoneyPaperDownloadTwotone {
 
 }
 
-/// Money paper download — outline style variants.
-class _FinancialMoneyPaperDownloadOutline {
-  const _FinancialMoneyPaperDownloadOutline();
-
-  /// Money paper download — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Money paper download',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.71992 10.6279C4.34081 11.0351 4.09668 11.6468 4.09668 12.4362V17.7786C4.09668 18.5674 4.34075 19.1788 4.71993 19.5859C5.0935 19.987 5.65335 20.25 6.41337 20.25H17.5885C18.3479 20.25 18.9072 19.9871 19.2804 19.5861C19.6593 19.1791 19.9032 18.5676 19.9032 17.7786V12.4362C19.9032 11.6476 19.6584 11.0358 19.2785 10.6282C18.9042 10.2264 18.3445 9.96387 17.5885 9.96387H16.4229C16.0087 9.96387 15.6729 9.62808 15.6729 9.21387C15.6729 8.79965 16.0087 8.46387 16.4229 8.46387H17.5885C18.7161 8.46387 19.6888 8.86824 20.3759 9.60556C21.0575 10.337 21.4032 11.3363 21.4032 12.4362V17.7786C21.4032 18.8771 21.0595 19.8763 20.3784 20.6081C19.6916 21.346 18.7185 21.75 17.5885 21.75H6.41337C5.28298 21.75 4.30948 21.3461 3.62231 20.6083C2.94075 19.8766 2.59668 18.8773 2.59668 17.7786V12.4362C2.59668 11.3372 2.94069 10.3377 3.62208 9.60581C4.30909 8.8679 5.28238 8.46387 6.4124 8.46387H8.07904C8.49325 8.46387 8.82904 8.79965 8.82904 9.21387C8.82904 9.62808 8.49325 9.96387 8.07904 9.96387H6.4124C5.65298 9.96387 5.0934 10.2268 4.71992 10.6279Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.68945 11.8652C5.68945 11.451 6.02524 11.1152 6.43945 11.1152H7.78794C8.20215 11.1152 8.53794 11.451 8.53794 11.8652C8.53794 12.2794 8.20215 12.6152 7.78794 12.6152H6.43945C6.02524 12.6152 5.68945 12.2794 5.68945 11.8652Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4668 18.3467C15.4668 17.9325 15.8026 17.5967 16.2168 17.5967H17.5653C17.9795 17.5967 18.3153 17.9325 18.3153 18.3467C18.3153 18.7609 17.9795 19.0967 17.5653 19.0967H16.2168C15.8026 19.0967 15.4668 18.7609 15.4668 18.3467Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0025 13.6562C11.2016 13.6562 10.5527 14.3051 10.5527 15.1061C10.5527 15.907 11.2016 16.5559 12.0025 16.5559C12.8035 16.5559 13.4523 15.907 13.4523 15.1061C13.4523 14.3051 12.8035 13.6562 12.0025 13.6562ZM9.05273 15.1061C9.05273 13.4766 10.3731 12.1562 12.0025 12.1562C13.632 12.1562 14.9523 13.4766 14.9523 15.1061C14.9523 16.7355 13.632 18.0559 12.0025 18.0559C10.3731 18.0559 9.05273 16.7355 9.05273 15.1061Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.41694 6.23883C9.70983 5.94594 10.1847 5.94594 10.4776 6.23883L12.0011 7.76237L13.5247 6.23883C13.8176 5.94594 14.2924 5.94594 14.5853 6.23884C14.8782 6.53173 14.8782 7.0066 14.5853 7.2995L12.5315 9.35336C12.2386 9.64625 11.7637 9.64625 11.4708 9.35336L9.41694 7.2995C9.12404 7.0066 9.12404 6.53173 9.41694 6.23883Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.002 2.25C12.4162 2.25 12.752 2.58579 12.752 3V8.82204C12.752 9.23626 12.4162 9.57204 12.002 9.57204C11.5877 9.57204 11.252 9.23626 11.252 8.82204V3C11.252 2.58579 11.5877 2.25 12.002 2.25Z" fill="black"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Money paper download — bold style variants.
 class _FinancialMoneyPaperDownloadBold {
   const _FinancialMoneyPaperDownloadBold();
@@ -3339,13 +4579,106 @@ class _FinancialMoneyPaperDownloadBold {
 
 }
 
-/// Money paper download — light style variants.
-class _FinancialMoneyPaperDownloadLight {
-  const _FinancialMoneyPaperDownloadLight();
+/// Money paper download 1 icon with style variants.
+class _FinancialMoneyPaperDownload1Icon {
+  const _FinancialMoneyPaperDownload1Icon();
 
-  /// Money paper download — light / regular
+  /// bold style
+  _FinancialMoneyPaperDownload1Bold get bold => const _FinancialMoneyPaperDownload1Bold();
+  /// bulk style
+  _FinancialMoneyPaperDownload1Bulk get bulk => const _FinancialMoneyPaperDownload1Bulk();
+  /// light style
+  _FinancialMoneyPaperDownload1Light get light => const _FinancialMoneyPaperDownload1Light();
+  /// outline style
+  _FinancialMoneyPaperDownload1Outline get outline => const _FinancialMoneyPaperDownload1Outline();
+  /// twoTone style
+  _FinancialMoneyPaperDownload1Twotone get twoTone => const _FinancialMoneyPaperDownload1Twotone();
+  /// broken style
+  _FinancialMoneyPaperDownload1Broken get broken => const _FinancialMoneyPaperDownload1Broken();
+}
+
+/// Money paper download 1 — bulk style variants.
+class _FinancialMoneyPaperDownload1Bulk {
+  const _FinancialMoneyPaperDownload1Bulk();
+
+  /// Money paper download 1 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Money paper download',
+    name: 'Money paper download 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.603 8.79102H6.39602C4.25902 8.79102 2.82202 10.29 2.82202 12.521V17.881C2.82202 20.112 4.26002 21.611 6.39802 21.611H17.603C19.741 21.611 21.178 20.112 21.178 17.881V12.521C21.178 10.29 19.741 8.79102 17.603 8.79102Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4697 7.88967C11.4977 7.91767 11.5347 7.93167 11.5667 7.95467C11.6137 7.98967 11.6567 8.02867 11.7107 8.05167C11.8017 8.08967 11.9007 8.11067 12.0007 8.11067C12.0247 8.11067 12.0447 8.09867 12.0677 8.09667C12.1437 8.08967 12.2207 8.08167 12.2897 8.05267C12.3827 8.01367 12.4647 7.95767 12.5347 7.88767L14.5867 5.82867C14.8787 5.53567 14.8787 5.06167 14.5847 4.76867C14.2907 4.47767 13.8167 4.47567 13.5247 4.77067L12.7517 5.54467V3.26367C12.7517 2.84967 12.4157 2.51367 12.0017 2.51367C11.5877 2.51367 11.2517 2.84967 11.2517 3.26367V5.54667L10.4787 4.77067C10.1857 4.47567 9.71075 4.47767 9.41775 4.76867C9.12375 5.06067 9.12375 5.53567 9.41575 5.82867L11.4697 7.88967Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2251 19.202H17.5771C17.9911 19.202 18.3271 18.866 18.3271 18.452C18.3271 18.038 17.9911 17.702 17.5771 17.702H16.2251C15.8111 17.702 15.4751 18.038 15.4751 18.452C15.4751 18.866 15.8111 19.202 16.2251 19.202ZM9.04312 15.202C9.04312 16.834 10.3691 18.162 11.9991 18.162C13.6291 18.162 14.9551 16.834 14.9551 15.202C14.9551 13.575 13.6291 12.252 11.9991 12.252C10.3691 12.252 9.04312 13.575 9.04312 15.202ZM6.42212 12.702H7.77412C8.18812 12.702 8.52412 12.366 8.52412 11.952C8.52412 11.538 8.18812 11.202 7.77412 11.202H6.42212C6.00812 11.202 5.67212 11.538 5.67212 11.952C5.67212 12.366 6.00812 12.702 6.42212 12.702ZM10.5431 15.202C10.5431 14.402 11.1961 13.752 11.9991 13.752C12.8021 13.752 13.4551 14.402 13.4551 15.202C13.4551 16.007 12.8021 16.662 11.9991 16.662C11.1961 16.662 10.5431 16.007 10.5431 15.202Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper download 1 — broken style variants.
+class _FinancialMoneyPaperDownload1Broken {
+  const _FinancialMoneyPaperDownload1Broken();
+
+  /// Money paper download 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper download 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.43945 11.9297H7.78794" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5653 18.4102H16.2168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.94727 6.83203L12.0011 8.8859L14.055 6.83203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 3.0625V8.88454" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.423 9.27734H17.5885C19.4721 9.27734 20.6533 10.6112 20.6533 12.4997V17.8421C20.6533 19.7296 19.478 21.0635 17.5885 21.0635H12.001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.07904 9.27734H6.4124C4.52296 9.27734 3.34668 10.6112 3.34668 12.4997V17.8421C3.34668 19.7296 4.52296 21.0635 6.41337 21.0635H8.4601" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0006 12.9688C13.2158 12.9688 14.2004 13.9534 14.2004 15.1686C14.2004 16.3838 13.2158 17.3684 12.0006 17.3684C10.7854 17.3684 9.80078 16.3838 9.80078 15.1686" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper download 1 — twoTone style variants.
+class _FinancialMoneyPaperDownload1Twotone {
+  const _FinancialMoneyPaperDownload1Twotone();
+
+  /// Money paper download 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper download 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M16.9229 9.27539H18.0885C19.9721 9.27539 21.1532 10.6093 21.1532 12.4978V17.8401C21.1532 19.7276 19.9779 21.0615 18.0885 21.0615H6.91337C5.02296 21.0615 3.84668 19.7276 3.84668 17.8401V12.4978C3.84668 10.6093 5.02296 9.27539 6.9124 9.27539H8.57904" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.93945 11.9277H8.28794" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.0653 18.4102H16.7168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3027 15.1686C10.3027 13.9534 11.2873 12.9688 12.5025 12.9688C13.7177 12.9688 14.7023 13.9534 14.7023 15.1686C14.7023 16.3838 13.7177 17.3684 12.5025 17.3684C11.2873 17.3684 10.3027 16.3838 10.3027 15.1686Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.4473 6.83203L12.5011 8.8859L14.555 6.83203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.502 3.0625V8.88454" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper download 1 — outline style variants.
+class _FinancialMoneyPaperDownload1Outline {
+  const _FinancialMoneyPaperDownload1Outline();
+
+  /// Money paper download 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper download 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.71992 10.6279C4.34081 11.0351 4.09668 11.6468 4.09668 12.4362V17.7786C4.09668 18.5674 4.34075 19.1788 4.71993 19.5859C5.0935 19.987 5.65335 20.25 6.41337 20.25H17.5885C18.3479 20.25 18.9072 19.9871 19.2804 19.5861C19.6593 19.1791 19.9032 18.5676 19.9032 17.7786V12.4362C19.9032 11.6476 19.6584 11.0358 19.2785 10.6282C18.9042 10.2264 18.3445 9.96387 17.5885 9.96387H16.4229C16.0087 9.96387 15.6729 9.62808 15.6729 9.21387C15.6729 8.79965 16.0087 8.46387 16.4229 8.46387H17.5885C18.7161 8.46387 19.6888 8.86824 20.3759 9.60556C21.0575 10.337 21.4032 11.3363 21.4032 12.4362V17.7786C21.4032 18.8771 21.0595 19.8763 20.3784 20.6081C19.6916 21.346 18.7185 21.75 17.5885 21.75H6.41337C5.28298 21.75 4.30948 21.3461 3.62231 20.6083C2.94075 19.8766 2.59668 18.8773 2.59668 17.7786V12.4362C2.59668 11.3372 2.94069 10.3377 3.62208 9.60581C4.30909 8.8679 5.28238 8.46387 6.4124 8.46387H8.07904C8.49325 8.46387 8.82904 8.79965 8.82904 9.21387C8.82904 9.62808 8.49325 9.96387 8.07904 9.96387H6.4124C5.65298 9.96387 5.0934 10.2268 4.71992 10.6279Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.68945 11.8652C5.68945 11.451 6.02524 11.1152 6.43945 11.1152H7.78794C8.20215 11.1152 8.53794 11.451 8.53794 11.8652C8.53794 12.2794 8.20215 12.6152 7.78794 12.6152H6.43945C6.02524 12.6152 5.68945 12.2794 5.68945 11.8652Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4668 18.3467C15.4668 17.9325 15.8026 17.5967 16.2168 17.5967H17.5653C17.9795 17.5967 18.3153 17.9325 18.3153 18.3467C18.3153 18.7609 17.9795 19.0967 17.5653 19.0967H16.2168C15.8026 19.0967 15.4668 18.7609 15.4668 18.3467Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0025 13.6562C11.2016 13.6562 10.5527 14.3051 10.5527 15.1061C10.5527 15.907 11.2016 16.5559 12.0025 16.5559C12.8035 16.5559 13.4523 15.907 13.4523 15.1061C13.4523 14.3051 12.8035 13.6562 12.0025 13.6562ZM9.05273 15.1061C9.05273 13.4766 10.3731 12.1562 12.0025 12.1562C13.632 12.1562 14.9523 13.4766 14.9523 15.1061C14.9523 16.7355 13.632 18.0559 12.0025 18.0559C10.3731 18.0559 9.05273 16.7355 9.05273 15.1061Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.41694 6.23883C9.70983 5.94594 10.1847 5.94594 10.4776 6.23883L12.0011 7.76237L13.5247 6.23883C13.8176 5.94594 14.2924 5.94594 14.5853 6.23884C14.8782 6.53173 14.8782 7.0066 14.5853 7.2995L12.5315 9.35336C12.2386 9.64625 11.7637 9.64625 11.4708 9.35336L9.41694 7.2995C9.12404 7.0066 9.12404 6.53173 9.41694 6.23883Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.002 2.25C12.4162 2.25 12.752 2.58579 12.752 3V8.82204C12.752 9.23626 12.4162 9.57204 12.002 9.57204C11.5877 9.57204 11.252 9.23626 11.252 8.82204V3C11.252 2.58579 11.5877 2.25 12.002 2.25Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper download 1 — bold style variants.
+class _FinancialMoneyPaperDownload1Bold {
+  const _FinancialMoneyPaperDownload1Bold();
+
+  /// Money paper download 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper download 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4694 7.88967C11.4974 7.91767 11.5344 7.93167 11.5664 7.95467C11.6134 7.98967 11.6564 8.02867 11.7104 8.05167C11.8014 8.08967 11.9004 8.11067 12.0004 8.11067C12.0244 8.11067 12.0444 8.09867 12.0674 8.09667C12.1434 8.08967 12.2204 8.08167 12.2894 8.05267C12.3824 8.01367 12.4644 7.95767 12.5344 7.88767L14.5864 5.82867C14.8784 5.53567 14.8784 5.06167 14.5844 4.76867C14.2904 4.47767 13.8164 4.47567 13.5244 4.77067L12.7514 5.54467V3.26367C12.7514 2.84967 12.4154 2.51367 12.0014 2.51367C11.5874 2.51367 11.2514 2.84967 11.2514 3.26367V5.54667L10.4784 4.77067C10.1854 4.47567 9.71041 4.47767 9.41741 4.76867C9.12341 5.06067 9.12341 5.53567 9.41541 5.82867L11.4694 7.88967Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9987 13.752C11.1957 13.752 10.5427 14.402 10.5427 15.202C10.5427 16.007 11.1957 16.662 11.9987 16.662C12.8017 16.662 13.4547 16.007 13.4547 15.202C13.4547 14.402 12.8017 13.752 11.9987 13.752Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5768 19.202H16.2248C15.8108 19.202 15.4748 18.866 15.4748 18.452C15.4748 18.038 15.8108 17.702 16.2248 17.702H17.5768C17.9908 17.702 18.3268 18.038 18.3268 18.452C18.3268 18.866 17.9908 19.202 17.5768 19.202ZM11.9988 18.162C10.3688 18.162 9.04278 16.834 9.04278 15.202C9.04278 13.575 10.3688 12.252 11.9988 12.252C13.6288 12.252 14.9548 13.575 14.9548 15.202C14.9548 16.834 13.6288 18.162 11.9988 18.162ZM7.77378 12.702H6.42178C6.00778 12.702 5.67178 12.366 5.67178 11.952C5.67178 11.538 6.00778 11.202 6.42178 11.202H7.77378C8.18778 11.202 8.52378 11.538 8.52378 11.952C8.52378 12.366 8.18778 12.702 7.77378 12.702ZM17.6038 8.79199H6.39678C4.25878 8.79199 2.82178 10.291 2.82178 12.522V17.882C2.82178 20.113 4.25978 21.612 6.39778 21.612H17.6038C19.7418 21.612 21.1778 20.113 21.1778 17.882V12.522C21.1778 10.291 19.7418 8.79199 17.6038 8.79199Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper download 1 — light style variants.
+class _FinancialMoneyPaperDownload1Light {
+  const _FinancialMoneyPaperDownload1Light();
+
+  /// Money paper download 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper download 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.4229 9.21387H17.5885C19.4721 9.21387 20.6532 10.5478 20.6532 12.4362V17.7786C20.6532 19.6661 19.4779 21 17.5885 21H6.41337C4.52296 21 3.34668 19.6661 3.34668 17.7786V12.4362C3.34668 10.5478 4.52296 9.21387 6.4124 9.21387H8.07904" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.43945 11.8652H7.78794" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5653 18.3467H16.2168" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.80273 15.1061C9.80273 13.8909 10.7873 12.9062 12.0025 12.9062C13.2177 12.9062 14.2023 13.8909 14.2023 15.1061C14.2023 16.3213 13.2177 17.3059 12.0025 17.3059C10.7873 17.3059 9.80273 16.3213 9.80273 15.1061Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.94727 6.76917L12.0011 8.82303L14.055 6.76917" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 3V8.82204" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Financial',
     style: IconfyStyle.light,
@@ -4010,10 +5343,6 @@ class _FinancialMoneyBagIcon {
   _FinancialMoneyBagBold get bold => const _FinancialMoneyBagBold();
   /// bulk style
   _FinancialMoneyBagBulk get bulk => const _FinancialMoneyBagBulk();
-  /// light style
-  _FinancialMoneyBagLight get light => const _FinancialMoneyBagLight();
-  /// outline style
-  _FinancialMoneyBagOutline get outline => const _FinancialMoneyBagOutline();
   /// twoTone style
   _FinancialMoneyBagTwotone get twoTone => const _FinancialMoneyBagTwotone();
   /// broken style
@@ -4065,21 +5394,6 @@ class _FinancialMoneyBagTwotone {
 
 }
 
-/// Money Bag — outline style variants.
-class _FinancialMoneyBagOutline {
-  const _FinancialMoneyBagOutline();
-
-  /// Money Bag — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Money Bag',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.94105 3.26149C8.25818 2.24149 9.76496 1.95514 11.3614 2.57552C12.5974 3.05609 13.7642 3.38345 14.9804 3.31489C15.1509 3.3049 15.6062 3.25203 16.0508 3.19679C16.2664 3.17 16.4698 3.14391 16.6194 3.12451L16.7979 3.10121L16.8628 3.09265L16.8638 3.09252C17.1322 3.05686 17.399 3.16868 17.5618 3.38507C17.7247 3.60147 17.7582 3.88882 17.6495 4.13687L16.0037 7.89477C16.0797 8.01334 16.156 8.13221 16.2325 8.25136C16.8105 9.1517 17.3989 10.0684 17.9528 10.9902C17.9528 10.9902 17.9527 10.9901 17.9528 10.9902C19.067 12.8441 20.3797 15.2635 19.3467 17.8397C19.3467 17.8397 19.3468 17.8397 19.3467 17.8397C18.7449 19.3411 17.5715 20.3135 16.2385 20.9065C14.9144 21.4955 13.3999 21.728 12.0113 21.7499C12.0034 21.75 11.9955 21.75 11.9876 21.7499C10.5995 21.728 9.0852 21.4955 7.76126 20.9065C6.42836 20.3135 5.25499 19.3411 4.65313 17.8397C3.6202 15.2636 4.93284 12.8441 6.04712 10.9902C6.56594 10.1267 7.11748 9.26999 7.66016 8.42705C7.76635 8.26211 7.87219 8.0977 7.97739 7.93387L6.21144 4.62925C6.04572 4.31914 6.11768 3.93555 6.38452 3.70658L6.38602 3.7053L6.3884 3.70326L6.39588 3.69692L6.42209 3.67493C6.44471 3.65607 6.47783 3.62872 6.5226 3.59236C6.61213 3.51966 6.74871 3.41059 6.94105 3.26149ZM7.82806 4.47183L9.50756 7.61467C9.63534 7.8538 9.62412 8.14328 9.4782 8.3718C9.28903 8.66805 9.09965 8.96221 8.91099 9.25525C8.3719 10.0926 7.83868 10.9209 7.33288 11.7627C6.17823 13.6838 5.32122 15.4755 6.04538 17.2815C6.46611 18.3311 7.2956 19.0576 8.371 19.536C9.45197 20.017 10.7468 20.2289 11.9995 20.2499C13.2527 20.2289 14.5477 20.017 15.6288 19.536C16.7043 19.0576 17.5337 18.3312 17.9545 17.2815C18.6786 15.4755 17.8217 13.6839 16.6671 11.7628C16.1258 10.862 15.5528 9.96935 14.9763 9.07117C14.8255 8.83633 14.6745 8.6011 14.5238 8.36523C14.3889 8.15423 14.3683 7.88984 14.4687 7.66046L15.7458 4.74452C15.4694 4.77669 15.2122 4.80393 15.067 4.81239L15.0657 4.81246C13.5268 4.89941 12.1193 4.47956 10.8181 3.97366M7.82806 4.47183C7.83834 4.46384 7.84881 4.45571 7.85947 4.44745ZM7.85947 4.44745C8.79365 3.72412 9.75069 3.55891 10.8181 3.97366Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.11664 7.80949C8.20944 7.40581 8.61192 7.15379 9.01561 7.24659C11.0086 7.70473 12.9962 7.70473 14.9892 7.24659C15.3929 7.15379 15.7954 7.40581 15.8882 7.80949C15.981 8.21318 15.7289 8.61566 15.3253 8.70846C13.1111 9.21744 10.8937 9.21744 8.67955 8.70846C8.27587 8.61566 8.02384 8.21318 8.11664 7.80949Z" fill="black"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Money Bag — bold style variants.
 class _FinancialMoneyBagBold {
   const _FinancialMoneyBagBold();
@@ -4090,21 +5404,6 @@ class _FinancialMoneyBagBold {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.739 11.1248C17.2837 10.3643 16.8016 9.61071 16.3208 8.85998C16.2531 8.75415 16.1265 8.70198 16.0035 8.72773C14.6749 9.00579 13.3394 9.14784 12.003 9.14784C10.6655 9.14784 9.3289 9.00576 8.00007 8.72762C7.8773 8.70193 7.75099 8.75382 7.68314 8.85931C7.20078 9.60914 6.71936 10.3613 6.26204 11.1228C5.09004 13.0658 3.92004 15.3408 4.88504 17.7478C6.21304 21.0588 10.298 21.4768 12.007 21.5018C13.702 21.4768 17.787 21.0598 19.115 17.7478C20.08 15.3418 18.91 13.0658 17.739 11.1248Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.80395 7.08267C7.83918 7.14855 7.90814 7.17415 7.98072 7.19186C10.6009 7.78971 13.2566 7.80065 15.8781 7.2247C15.9704 7.20441 16.0467 7.14236 16.0851 7.05596C16.3269 6.5117 17.2217 4.49684 17.4207 4.04286C17.4937 3.87786 17.4717 3.68686 17.3627 3.54186C17.2547 3.39786 17.0767 3.32186 16.8987 3.34586C16.4767 3.40186 15.3117 3.54686 14.9947 3.56286C13.6027 3.64486 12.3357 3.22486 11.2687 2.80486C9.78872 2.23786 8.38572 2.45686 7.08872 3.46086C6.70072 3.76986 6.54572 3.90386 6.54572 3.90386C6.36972 4.05786 6.32272 4.31286 6.43272 4.51786L7.80395 7.08267Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Money Bag — light style variants.
-class _FinancialMoneyBagLight {
-  const _FinancialMoneyBagLight();
-
-  /// Money Bag — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Money Bag',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.6899 11.3764C7.37973 10.2283 8.12404 9.09873 8.84598 7.96815L6.87281 4.27576C6.87281 4.27576 7.02362 4.14635 7.40016 3.85446C8.52588 2.98269 9.75765 2.75696 11.0896 3.27458C12.3584 3.76787 13.6456 4.14149 15.0233 4.06365C15.4242 4.0403 16.9624 3.83598 16.9624 3.83598L15.1556 7.96134C15.8776 9.09095 16.6199 10.2283 17.3098 11.3764C18.4442 13.264 19.5291 15.3695 18.6505 17.5606C17.6279 20.1117 14.6448 20.9582 11.9993 21C9.35484 20.9582 6.37174 20.1117 5.34916 17.5606C4.47057 15.3695 5.55542 13.264 6.6899 11.3764Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.84766 7.97754C10.9512 8.4611 13.0538 8.4611 15.1573 7.97754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.light,
     type: IconfyType.regular,
   );
 
@@ -4226,10 +5525,6 @@ class _FinancialDollarSquareIcon {
   _FinancialDollarSquareBold get bold => const _FinancialDollarSquareBold();
   /// bulk style
   _FinancialDollarSquareBulk get bulk => const _FinancialDollarSquareBulk();
-  /// light style
-  _FinancialDollarSquareLight get light => const _FinancialDollarSquareLight();
-  /// outline style
-  _FinancialDollarSquareOutline get outline => const _FinancialDollarSquareOutline();
   /// twoTone style
   _FinancialDollarSquareTwotone get twoTone => const _FinancialDollarSquareTwotone();
   /// broken style
@@ -4281,21 +5576,6 @@ class _FinancialDollarSquareTwotone {
 
 }
 
-/// Dollar square — outline style variants.
-class _FinancialDollarSquareOutline {
-  const _FinancialDollarSquareOutline();
-
-  /// Dollar square — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Dollar square',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.73997 3.89765C4.7244 2.84134 6.12644 2.25 7.78221 2.25H16.2168C17.876 2.25 19.2786 2.84105 20.2627 3.8979C21.2411 4.94871 21.75 6.3992 21.75 8.02655V15.9744C21.75 17.6018 21.2411 19.0521 20.2625 20.1027C19.2782 21.1593 17.8754 21.75 16.2158 21.75H7.78221C6.12264 21.75 4.72019 21.1593 3.73641 20.1025C2.75827 19.0519 2.25 17.6016 2.25 15.9744V8.02655C2.25 6.39847 2.76102 4.9481 3.73997 3.89765ZM4.83732 4.92031C4.16014 5.64695 3.75 6.70986 3.75 8.02655V15.9744C3.75 17.2921 4.15849 18.3545 4.83429 19.0805C5.50444 19.8003 6.49309 20.25 7.78221 20.25H16.2158C17.505 20.25 18.4942 19.8003 19.1649 19.0803C19.8411 18.3543 20.25 17.2918 20.25 15.9744V8.02655C20.25 6.70913 19.8411 5.64634 19.1649 4.92007C18.4943 4.19984 17.5053 3.75 16.2168 3.75H7.78221C6.49809 3.75 5.50903 4.19955 4.83732 4.92031Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.59961 10.4955C8.59961 9.17691 9.66968 8.10742 10.9886 8.10742H13.2962C14.4598 8.10742 15.4018 9.05183 15.4018 10.214C15.4018 10.6282 15.066 10.964 14.6518 10.964C14.2376 10.964 13.9018 10.6282 13.9018 10.214C13.9018 9.87885 13.6299 9.60742 13.2962 9.60742H10.9886C10.4977 9.60742 10.0998 10.0057 10.0996 10.4951C10.1004 10.9865 10.4981 11.3835 10.9886 11.3835H13.0782C14.3623 11.3835 15.4028 12.424 15.4028 13.708C15.4028 14.9921 14.3623 16.0326 13.0782 16.0326H10.7072C9.54296 16.0326 8.60059 15.0885 8.60059 13.926C8.60059 13.5118 8.93637 13.176 9.35059 13.176C9.7648 13.176 10.1006 13.5118 10.1006 13.926C10.1006 14.2608 10.3721 14.5326 10.7072 14.5326H13.0782C13.5339 14.5326 13.9028 14.1637 13.9028 13.708C13.9028 13.2524 13.5339 12.8835 13.0782 12.8835H10.9886C9.66924 12.8835 8.60103 11.8147 8.59961 10.4963L8.59961 10.4955Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 6.96777C12.4142 6.96777 12.75 7.30356 12.75 7.71777V16.2824C12.75 16.6966 12.4142 17.0324 12 17.0324C11.5858 17.0324 11.25 16.6966 11.25 16.2824V7.71777C11.25 7.30356 11.5858 6.96777 12 6.96777Z" fill="black"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Dollar square — bold style variants.
 class _FinancialDollarSquareBold {
   const _FinancialDollarSquareBold();
@@ -4311,14 +5591,215 @@ class _FinancialDollarSquareBold {
 
 }
 
-/// Dollar square — light style variants.
-class _FinancialDollarSquareLight {
-  const _FinancialDollarSquareLight();
+/// Dollar square 1 icon with style variants.
+class _FinancialDollarSquare1Icon {
+  const _FinancialDollarSquare1Icon();
 
-  /// Dollar square — light / regular
+  /// bold style
+  _FinancialDollarSquare1Bold get bold => const _FinancialDollarSquare1Bold();
+  /// bulk style
+  _FinancialDollarSquare1Bulk get bulk => const _FinancialDollarSquare1Bulk();
+  /// light style
+  _FinancialDollarSquare1Light get light => const _FinancialDollarSquare1Light();
+  /// outline style
+  _FinancialDollarSquare1Outline get outline => const _FinancialDollarSquare1Outline();
+  /// twoTone style
+  _FinancialDollarSquare1Twotone get twoTone => const _FinancialDollarSquare1Twotone();
+  /// broken style
+  _FinancialDollarSquare1Broken get broken => const _FinancialDollarSquare1Broken();
+}
+
+/// Dollar square 1 — bulk style variants.
+class _FinancialDollarSquare1Bulk {
+  const _FinancialDollarSquare1Bulk();
+
+  /// Dollar square 1 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Dollar square',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78221 3H16.2168C19.1645 3 21 5.08177 21 8.02655V15.9744C21 18.9192 19.1645 21 16.2158 21H7.78221C4.83352 21 3 18.9192 3 15.9744V8.02655C3 5.08177 4.84232 3 7.78221 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6518 10.214C14.6518 9.46534 14.0448 8.85742 13.2962 8.85742H10.9886C10.0836 8.85742 9.34961 9.59142 9.34961 10.4955C9.35059 11.4005 10.0836 12.1335 10.9886 12.1335H13.0782C13.9481 12.1335 14.6528 12.8382 14.6528 13.708C14.6528 14.5779 13.9481 15.2826 13.0782 15.2826H10.7072C9.95753 15.2826 9.35059 14.6747 9.35059 13.926" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 7.71777V16.2824" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    name: 'Dollar square 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.217 2.5625H7.782C4.623 2.5625 2.5 4.7855 2.5 8.0925V16.0435C2.5 19.3445 4.623 21.5625 7.782 21.5625H16.216C19.376 21.5625 21.5 19.3445 21.5 16.0435V8.0925C21.5 4.7855 19.377 2.5625 16.217 2.5625Z" fill="black"/> <path d="M12.75 16.3522V16.0872C13.961 16.0082 14.925 15.0062 14.925 13.7722C14.925 12.4932 13.882 11.4532 12.601 11.4532H11.462C10.973 11.4532 10.574 11.0532 10.574 10.5622C10.574 10.0722 10.973 9.6722 11.462 9.6722H12.819C13.152 9.6722 13.424 9.9462 13.424 10.2832V10.3632C13.424 10.7772 13.76 11.0732 14.174 11.0732C14.588 11.0732 14.924 10.6972 14.924 10.2832C14.924 9.1192 13.979 8.1722 12.819 8.1722H12.75V7.7832C12.75 7.3692 12.414 7.0332 12 7.0332C11.586 7.0332 11.25 7.3692 11.25 7.7832V8.1942C10.034 8.3032 9.07397 9.3172 9.07397 10.5622C9.07397 11.8802 10.146 12.9532 11.462 12.9532H12.601C13.055 12.9532 13.425 13.3202 13.425 13.7722C13.425 14.2302 13.055 14.6022 12.601 14.6022H11.181C10.847 14.6022 10.575 14.3292 10.575 13.9922C10.575 13.5782 10.239 13.2422 9.82497 13.2422C9.41097 13.2422 9.07497 13.5782 9.07497 13.9922C9.07497 15.1562 10.02 16.1022 11.181 16.1022H11.25V16.3522C11.25 16.7662 11.586 17.1022 12 17.1022C12.414 17.1022 12.75 16.7662 12.75 16.3522Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar square 1 — broken style variants.
+class _FinancialDollarSquare1Broken {
+  const _FinancialDollarSquare1Broken();
+
+  /// Dollar square 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar square 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.1744 10.3566V10.2784C14.1744 9.52979 13.5675 8.92188 12.8188 8.92188H11.4623C10.5582 8.92188 9.82422 9.65587 9.82422 10.5599C9.82422 11.465 10.5582 12.198 11.4623 12.198H12.6009C13.4698 12.198 14.1754 12.9027 14.1754 13.7725C14.1754 14.6423 13.4698 15.347 12.6009 15.347H11.1808C10.4321 15.347 9.8252 14.7391 9.8252 13.9905" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 16.3509V15.352M12 8.91791V7.78516" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.999 21.0625H7.78216C4.83405 21.0625 3 18.9813 3 16.0361V8.08888C3 5.14369 4.84281 3.0625 7.78216 3.0625H16.2169C19.165 3.0625 21 5.14369 21 8.08888V16.0361C21 18.9813 19.165 21.0625 16.2159 21.0625H15.5501" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar square 1 — twoTone style variants.
+class _FinancialDollarSquare1Twotone {
+  const _FinancialDollarSquare1Twotone();
+
+  /// Dollar square 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar square 1',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.28221 3.0625H16.7168C19.6645 3.0625 21.5 5.14427 21.5 8.08905V16.0369C21.5 18.9817 19.6645 21.0625 16.7158 21.0625H8.28221C5.33352 21.0625 3.5 18.9817 3.5 16.0369V8.08905C3.5 5.14427 5.34232 3.0625 8.28221 3.0625Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6744 10.3547V10.2765C14.6744 9.52784 14.0675 8.91992 13.3188 8.91992H11.9623C11.0582 8.91992 10.3242 9.65392 10.3242 10.558C10.3242 11.463 11.0582 12.196 11.9623 12.196H13.1009C13.9698 12.196 14.6754 12.9007 14.6754 13.7705C14.6754 14.6404 13.9698 15.3451 13.1009 15.3451H11.6808C10.9321 15.3451 10.3252 14.7372 10.3252 13.9885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 16.349V15.3501M12.5 8.91596V7.7832" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar square 1 — outline style variants.
+class _FinancialDollarSquare1Outline {
+  const _FinancialDollarSquare1Outline();
+
+  /// Dollar square 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar square 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.73997 3.89765C4.7244 2.84134 6.12644 2.25 7.78221 2.25H16.2168C17.876 2.25 19.2786 2.84105 20.2627 3.8979C21.2411 4.94871 21.75 6.3992 21.75 8.02655V15.9744C21.75 17.6018 21.2411 19.0521 20.2625 20.1027C19.2782 21.1593 17.8754 21.75 16.2158 21.75H7.78221C6.12264 21.75 4.72019 21.1593 3.73641 20.1025C2.75827 19.0519 2.25 17.6016 2.25 15.9744V8.02655C2.25 6.39847 2.76102 4.9481 3.73997 3.89765ZM4.83732 4.92031C4.16014 5.64695 3.75 6.70986 3.75 8.02655V15.9744C3.75 17.2921 4.15849 18.3545 4.83429 19.0805C5.50444 19.8003 6.49309 20.25 7.78221 20.25H16.2158C17.505 20.25 18.4942 19.8003 19.1649 19.0803C19.8411 18.3543 20.25 17.2918 20.25 15.9744V8.02655C20.25 6.70913 19.8411 5.64634 19.1649 4.92007C18.4943 4.19984 17.5053 3.75 16.2168 3.75H7.78221C6.49809 3.75 5.50903 4.19955 4.83732 4.92031Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.07422 10.4955C9.07422 9.1772 10.144 8.10742 11.4623 8.10742H12.8188C13.9824 8.10742 14.9244 9.05183 14.9244 10.214V10.2922C14.9244 10.7064 14.5887 11.0422 14.1744 11.0422C13.7602 11.0422 13.4244 10.7064 13.4244 10.2922V10.214C13.4244 9.87885 13.1526 9.60742 12.8188 9.60742H11.4623C10.9724 9.60742 10.5742 10.0056 10.5742 10.4955C10.5742 10.986 10.9721 11.3835 11.4623 11.3835H12.6009C13.8837 11.3835 14.9254 12.4237 14.9254 13.708C14.9254 14.9924 13.8837 16.0326 12.6009 16.0326H11.1808C10.0172 16.0326 9.0752 15.0882 9.0752 13.926C9.0752 13.5118 9.41098 13.176 9.8252 13.176C10.2394 13.176 10.5752 13.5118 10.5752 13.926C10.5752 14.2611 10.8471 14.5326 11.1808 14.5326H12.6009C13.0559 14.5326 13.4254 14.1634 13.4254 13.708C13.4254 13.2527 13.0559 12.8835 12.6009 12.8835H11.4623C10.1443 12.8835 9.07422 11.815 9.07422 10.4955Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 6.9707C12.4142 6.9707 12.75 7.30649 12.75 7.7207V8.85346C12.75 9.26767 12.4142 9.60346 12 9.60346C11.5858 9.60346 11.25 9.26767 11.25 8.85346V7.7207C11.25 7.30649 11.5858 6.9707 12 6.9707ZM12 14.5376C12.4142 14.5376 12.75 14.8734 12.75 15.2876V16.2865C12.75 16.7007 12.4142 17.0365 12 17.0365C11.5858 17.0365 11.25 16.7007 11.25 16.2865V15.2876C11.25 14.8734 11.5858 14.5376 12 14.5376Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar square 1 — bold style variants.
+class _FinancialDollarSquare1Bold {
+  const _FinancialDollarSquare1Bold();
+
+  /// Dollar square 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar square 1',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.75 16.0875V16.3525C12.75 16.7665 12.414 17.1025 12 17.1025C11.586 17.1025 11.25 16.7665 11.25 16.3525V16.1025H11.181C10.02 16.1025 9.075 15.1565 9.075 13.9925C9.075 13.5785 9.411 13.2425 9.825 13.2425C10.239 13.2425 10.575 13.5785 10.575 13.9925C10.575 14.3295 10.847 14.6025 11.181 14.6025H12.601C13.055 14.6025 13.425 14.2305 13.425 13.7725C13.425 13.3205 13.055 12.9535 12.601 12.9535H11.462C10.146 12.9535 9.074 11.8805 9.074 10.5625C9.074 9.3175 10.034 8.3035 11.25 8.1945V7.7835C11.25 7.3695 11.586 7.0335 12 7.0335C12.414 7.0335 12.75 7.3695 12.75 7.7835V8.1725H12.819C13.979 8.1725 14.924 9.1195 14.924 10.2835C14.924 10.6975 14.588 11.0735 14.174 11.0735C13.76 11.0735 13.424 10.7775 13.424 10.3635V10.2835C13.424 9.9465 13.152 9.6725 12.819 9.6725H11.462C10.973 9.6725 10.574 10.0725 10.574 10.5625C10.574 11.0535 10.973 11.4535 11.462 11.4535H12.601C13.882 11.4535 14.925 12.4935 14.925 13.7725C14.925 15.0065 13.961 16.0085 12.75 16.0875ZM16.217 2.5625H7.782C4.623 2.5625 2.5 4.7855 2.5 8.0925V16.0435C2.5 19.3445 4.623 21.5625 7.782 21.5625H16.216C19.376 21.5625 21.5 19.3445 21.5 16.0435V8.0925C21.5 4.7855 19.377 2.5625 16.217 2.5625Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar square 1 — light style variants.
+class _FinancialDollarSquare1Light {
+  const _FinancialDollarSquare1Light();
+
+  /// Dollar square 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar square 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78221 3H16.2168C19.1645 3 21 5.08177 21 8.02655V15.9744C21 18.9192 19.1645 21 16.2158 21H7.78221C4.83352 21 3 18.9192 3 15.9744V8.02655C3 5.08177 4.84232 3 7.78221 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1744 10.2922V10.214C14.1744 9.46534 13.5675 8.85742 12.8188 8.85742H11.4623C10.5582 8.85742 9.82422 9.59142 9.82422 10.4955C9.82422 11.4005 10.5582 12.1335 11.4623 12.1335H12.6009C13.4698 12.1335 14.1754 12.8382 14.1754 13.708C14.1754 14.5779 13.4698 15.2826 12.6009 15.2826H11.1808C10.4321 15.2826 9.8252 14.6747 9.8252 13.926" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 16.2865V15.2876M12 8.85346V7.7207" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar square 2 icon with style variants.
+class _FinancialDollarSquare2Icon {
+  const _FinancialDollarSquare2Icon();
+
+  /// bold style
+  _FinancialDollarSquare2Bold get bold => const _FinancialDollarSquare2Bold();
+  /// bulk style
+  _FinancialDollarSquare2Bulk get bulk => const _FinancialDollarSquare2Bulk();
+  /// light style
+  _FinancialDollarSquare2Light get light => const _FinancialDollarSquare2Light();
+  /// outline style
+  _FinancialDollarSquare2Outline get outline => const _FinancialDollarSquare2Outline();
+  /// twoTone style
+  _FinancialDollarSquare2Twotone get twoTone => const _FinancialDollarSquare2Twotone();
+  /// broken style
+  _FinancialDollarSquare2Broken get broken => const _FinancialDollarSquare2Broken();
+}
+
+/// Dollar square 2 — bulk style variants.
+class _FinancialDollarSquare2Bulk {
+  const _FinancialDollarSquare2Bulk();
+
+  /// Dollar square 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar square 2',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.217 2.5625H7.783C4.623 2.5625 2.5 4.7855 2.5 8.0925V16.0425C2.5 19.3445 4.623 21.5625 7.783 21.5625H16.216C19.377 21.5625 21.5 19.3445 21.5 16.0425V8.0925C21.5 4.7855 19.377 2.5625 16.217 2.5625Z" fill="black"/> <path d="M12.75 15.682H12.816C14.018 15.682 14.996 14.704 14.996 13.502C14.996 12.3 14.018 11.322 12.816 11.322H11.181C10.806 11.322 10.502 11.017 10.502 10.642C10.502 10.267 10.806 9.96195 11.181 9.96195H13.837C14.251 9.96195 14.587 9.62595 14.587 9.21195C14.587 8.79795 14.251 8.46195 13.837 8.46195H12.75V8.00195C12.75 7.58795 12.414 7.25195 12 7.25195C11.586 7.25195 11.25 7.58795 11.25 8.00195V8.46195H11.181C9.97895 8.46195 9.00195 9.43995 9.00195 10.642C9.00195 11.844 9.97895 12.822 11.181 12.822H12.816C13.191 12.822 13.496 13.127 13.496 13.502C13.496 13.877 13.191 14.182 12.816 14.182H10.161C9.74695 14.182 9.41095 14.518 9.41095 14.932C9.41095 15.346 9.74695 15.682 10.161 15.682H11.25V16.132C11.25 16.546 11.586 16.882 12 16.882C12.414 16.882 12.75 16.546 12.75 16.132V15.682Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar square 2 — broken style variants.
+class _FinancialDollarSquare2Broken {
+  const _FinancialDollarSquare2Broken();
+
+  /// Dollar square 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar square 2',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.8375 9.20703H11.1822C10.3922 9.20703 9.75195 9.84725 9.75195 10.6373C9.75195 11.4264 10.3922 12.0666 11.1822 12.0666H12.8158C13.6059 12.0666 14.2461 12.7068 14.2461 13.4969C14.2461 14.286 13.6059 14.9262 12.8158 14.9262H10.1606" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 14.9267V16.1274M12 8V9.21135" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.999 21.0625H7.78216C4.83405 21.0625 3 18.9813 3 16.0361V8.08888C3 5.14369 4.84281 3.0625 7.78216 3.0625H16.2169C19.165 3.0625 21 5.14369 21 8.08888V16.0361C21 18.9813 19.165 21.0625 16.2159 21.0625H15.5501" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar square 2 — twoTone style variants.
+class _FinancialDollarSquare2Twotone {
+  const _FinancialDollarSquare2Twotone();
+
+  /// Dollar square 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar square 2',
+    svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.28313 3.0625H16.7178C19.6659 3.0625 21.5 5.14369 21.5 8.08888V16.0361C21.5 18.9813 19.6659 21.0625 16.7169 21.0625H8.28313C5.33503 21.0625 3.5 18.9813 3.5 16.0361V8.08888C3.5 5.14369 5.34378 3.0625 8.28313 3.0625Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3375 9.20703H11.6822C10.8922 9.20703 10.252 9.84725 10.252 10.6373C10.252 11.4264 10.8922 12.0666 11.6822 12.0666H13.3158C14.1059 12.0666 14.7461 12.7068 14.7461 13.4969C14.7461 14.286 14.1059 14.9262 13.3158 14.9262H10.6606" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 14.9267V16.1274M12.5 8V9.21135" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar square 2 — outline style variants.
+class _FinancialDollarSquare2Outline {
+  const _FinancialDollarSquare2Outline();
+
+  /// Dollar square 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar square 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.74076 3.89729C4.72547 2.84115 6.12768 2.25 7.78313 2.25H16.2178C17.8772 2.25 19.2796 2.84086 20.2634 3.89773C21.2416 4.94853 21.75 6.39899 21.75 8.02638V15.9736C21.75 17.601 21.2416 19.0515 20.2633 20.1023C19.2793 21.1592 17.8766 21.75 16.2169 21.75H7.78313C6.12379 21.75 4.72117 21.1592 3.73714 20.1024C2.75872 19.0516 2.25 17.6011 2.25 15.9736V8.02638C2.25 6.39795 2.76147 4.9476 3.74076 3.89729ZM4.83786 4.9202C4.16042 5.64678 3.75 6.70962 3.75 8.02638V15.9736C3.75 17.2913 4.15879 18.354 4.83492 19.0802C5.50542 19.8003 6.49437 20.25 7.78313 20.25H16.2169C17.5062 20.25 18.4951 19.8002 19.1654 19.0802C19.8414 18.3541 20.25 17.2914 20.25 15.9736V8.02638C20.25 6.70857 19.8414 5.64585 19.1655 4.91976C18.4952 4.19973 17.5066 3.75 16.2178 3.75H7.78313C6.49923 3.75 5.50988 4.19944 4.83786 4.9202Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.00195 10.5738C9.00195 9.36956 9.97796 8.39355 11.1822 8.39355H13.8375C14.2517 8.39355 14.5875 8.72934 14.5875 9.14355C14.5875 9.55777 14.2517 9.89355 13.8375 9.89355H11.1822C10.8064 9.89355 10.502 10.198 10.502 10.5738C10.502 10.9484 10.8061 11.2531 11.1822 11.2531H12.8158C14.0201 11.2531 14.9961 12.2291 14.9961 13.4334C14.9961 14.637 14.0198 15.6127 12.8158 15.6127H10.1606C9.74639 15.6127 9.4106 15.2769 9.4106 14.8627C9.4106 14.4485 9.74639 14.1127 10.1606 14.1127H12.8158C13.192 14.1127 13.4961 13.8079 13.4961 13.4334C13.4961 13.0576 13.1917 12.7531 12.8158 12.7531H11.1822C9.97829 12.7531 9.00195 11.7775 9.00195 10.5738Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 7.18652C12.4142 7.18652 12.75 7.52231 12.75 7.93652V9.14787C12.75 9.56209 12.4142 9.89787 12 9.89787C11.5858 9.89787 11.25 9.56209 11.25 9.14787V7.93652C11.25 7.52231 11.5858 7.18652 12 7.18652ZM12 14.1133C12.4142 14.1133 12.75 14.449 12.75 14.8633V16.0639C12.75 16.4781 12.4142 16.8139 12 16.8139C11.5858 16.8139 11.25 16.4781 11.25 16.0639V14.8633C11.25 14.449 11.5858 14.1133 12 14.1133Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar square 2 — bold style variants.
+class _FinancialDollarSquare2Bold {
+  const _FinancialDollarSquare2Bold();
+
+  /// Dollar square 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar square 2',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.816 15.6825H12.75V16.1325C12.75 16.5465 12.414 16.8825 12 16.8825C11.586 16.8825 11.25 16.5465 11.25 16.1325V15.6825H10.161C9.747 15.6825 9.411 15.3465 9.411 14.9325C9.411 14.5185 9.747 14.1825 10.161 14.1825H12.816C13.191 14.1825 13.496 13.8775 13.496 13.5025C13.496 13.1275 13.191 12.8225 12.816 12.8225H11.181C9.979 12.8225 9.002 11.8445 9.002 10.6425C9.002 9.4405 9.979 8.4625 11.181 8.4625H11.25V8.0025C11.25 7.5885 11.586 7.2525 12 7.2525C12.414 7.2525 12.75 7.5885 12.75 8.0025V8.4625H13.837C14.251 8.4625 14.587 8.7985 14.587 9.2125C14.587 9.6265 14.251 9.9625 13.837 9.9625H11.181C10.806 9.9625 10.502 10.2675 10.502 10.6425C10.502 11.0175 10.806 11.3225 11.181 11.3225H12.816C14.018 11.3225 14.996 12.3005 14.996 13.5025C14.996 14.7045 14.018 15.6825 12.816 15.6825ZM16.217 2.5625H7.783C4.623 2.5625 2.5 4.7855 2.5 8.0925V16.0425C2.5 19.3445 4.623 21.5625 7.783 21.5625H16.216C19.377 21.5625 21.5 19.3445 21.5 16.0425V8.0925C21.5 4.7855 19.377 2.5625 16.217 2.5625Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar square 2 — light style variants.
+class _FinancialDollarSquare2Light {
+  const _FinancialDollarSquare2Light();
+
+  /// Dollar square 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar square 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78313 3H16.2178C19.1659 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.1659 21 16.2169 21H7.78313C4.83503 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84378 3 7.78313 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.8375 9.14355H11.1822C10.3922 9.14355 9.75195 9.78377 9.75195 10.5738C9.75195 11.3629 10.3922 12.0031 11.1822 12.0031H12.8158C13.6059 12.0031 14.2461 12.6433 14.2461 13.4334C14.2461 14.2225 13.6059 14.8627 12.8158 14.8627H10.1606" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 14.8633V16.0639M12 7.93652V9.14787" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Financial',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -4442,10 +5923,6 @@ class _FinancialCharityCoinsIcon {
   _FinancialCharityCoinsBold get bold => const _FinancialCharityCoinsBold();
   /// bulk style
   _FinancialCharityCoinsBulk get bulk => const _FinancialCharityCoinsBulk();
-  /// light style
-  _FinancialCharityCoinsLight get light => const _FinancialCharityCoinsLight();
-  /// outline style
-  _FinancialCharityCoinsOutline get outline => const _FinancialCharityCoinsOutline();
   /// twoTone style
   _FinancialCharityCoinsTwotone get twoTone => const _FinancialCharityCoinsTwotone();
   /// broken style
@@ -4497,21 +5974,6 @@ class _FinancialCharityCoinsTwotone {
 
 }
 
-/// Charity coins — outline style variants.
-class _FinancialCharityCoinsOutline {
-  const _FinancialCharityCoinsOutline();
-
-  /// Charity coins — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Charity coins',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.1393 17.5747H10.6903C10.4914 17.5747 10.3006 17.4957 10.16 17.355C10.0193 17.2144 9.94032 17.0236 9.94032 16.8247C9.94032 16.6258 10.0193 16.435 10.16 16.2944C10.3006 16.1537 10.4914 16.0747 10.6903 16.0747H12.1393C12.2816 16.0855 12.4245 16.067 12.5593 16.0204C12.6941 15.9737 12.8179 15.8998 12.923 15.8034C13.0281 15.7069 13.1123 15.5899 13.1703 15.4595C13.2283 15.3292 13.2589 15.1884 13.2603 15.0457C13.2587 14.8028 13.1736 14.5678 13.0191 14.3802C12.8647 14.1926 12.6504 14.0639 12.4123 14.0157C11.2956 13.7012 10.1415 13.5388 8.98132 13.5327C7.50063 13.69 6.1021 14.2913 4.96932 15.2577L4.46032 15.6037C4.37853 15.6598 4.28644 15.6991 4.18936 15.7194C4.09229 15.7396 3.99215 15.7404 3.89476 15.7218C3.79737 15.7031 3.70466 15.6652 3.62198 15.6105C3.5393 15.5557 3.4683 15.4851 3.4131 15.4027C3.35789 15.3203 3.31957 15.2278 3.30035 15.1305C3.28113 15.0333 3.2814 14.9331 3.30114 14.8359C3.32087 14.7388 3.35969 14.6464 3.41533 14.5644C3.47098 14.4823 3.54235 14.412 3.62532 14.3577L4.12532 14.0187C5.49331 12.8831 7.17438 12.1904 8.94532 12.0327C10.2406 12.0407 11.5292 12.2182 12.7783 12.5607C13.3959 12.698 13.9399 13.0611 14.3038 13.5786C14.6676 14.0962 14.825 14.731 14.7451 15.3586C14.6653 15.9862 14.3539 16.5613 13.8721 16.9713C13.3902 17.3812 12.7726 17.5964 12.1403 17.5747H12.1393Z" fill="black"/> <path d="M11.589 21.7337C10.0495 21.683 8.51853 21.482 7.01804 21.1337C6.03549 20.9589 5.03756 20.8859 4.04004 20.9157C3.84113 20.9157 3.65036 20.8366 3.50971 20.696C3.36906 20.5553 3.29004 20.3646 3.29004 20.1657C3.29004 19.9667 3.36906 19.776 3.50971 19.6353C3.65036 19.4947 3.84113 19.4157 4.04004 19.4157C5.1118 19.385 6.18391 19.4627 7.24004 19.6477C9.94004 20.1807 12.203 20.6297 14.631 19.6847C16.2072 18.9623 17.6065 17.9043 18.731 16.5847L18.94 16.3737C19.1146 16.1971 19.2125 15.9589 19.2125 15.7107C19.2125 15.4624 19.1146 15.2242 18.94 15.0477C18.782 14.8906 18.5728 14.7956 18.3505 14.7798C18.1283 14.764 17.9077 14.8285 17.729 14.9617C17.472 15.1547 17.214 15.3667 16.953 15.5817C15.8758 16.6863 14.4565 17.394 12.926 17.5897C12.634 17.5957 12.347 17.5896 12.057 17.5746C11.6368 17.5446 11.2148 17.5527 10.796 17.5987C10.6985 17.6129 10.5992 17.6078 10.5036 17.5837C10.4081 17.5595 10.3183 17.5168 10.2392 17.4579C10.1602 17.399 10.0936 17.3252 10.0431 17.2405C9.9926 17.1559 9.95929 17.0622 9.94504 16.9647C9.93079 16.8672 9.93589 16.7678 9.96004 16.6723C9.98419 16.5767 10.0269 16.4869 10.0858 16.4078C10.1447 16.3288 10.2185 16.2622 10.3032 16.2117C10.3878 16.1612 10.4815 16.1279 10.579 16.1137C11.0888 16.0535 11.603 16.0408 12.115 16.0757C12.374 16.0857 12.633 16.0967 12.89 16.0897C14.0787 15.8801 15.1693 15.2964 16.003 14.4237C16.281 14.1957 16.556 13.9707 16.828 13.7657C17.3206 13.3981 17.934 13.2306 18.545 13.2969C19.156 13.3632 19.7192 13.6584 20.1214 14.1231C20.5236 14.5877 20.735 15.1874 20.7131 15.8016C20.6911 16.4158 20.4374 16.9989 20.003 17.4337L19.794 17.6437C18.5245 19.1155 16.9455 20.2887 15.17 21.0797C14.0284 21.5219 12.8133 21.7439 11.589 21.7337V21.7337Z" fill="black"/> <path d="M12.7829 9.16783C12.0971 9.16773 11.4267 8.96429 10.8565 8.58321C10.2863 8.20214 9.84183 7.66054 9.57939 7.02691C9.31694 6.39328 9.24827 5.69605 9.38204 5.02339C9.51581 4.35073 9.84603 3.73284 10.3309 3.24783C10.991 2.61771 11.8684 2.26611 12.7809 2.26611C13.6935 2.26611 14.5709 2.61771 15.2309 3.24783C15.743 3.75957 16.0804 4.41998 16.1949 5.13483C16.2115 5.23226 16.2087 5.332 16.1866 5.42833C16.1646 5.52466 16.1237 5.61568 16.0663 5.69615C16.0089 5.77662 15.9362 5.84496 15.8523 5.89724C15.7685 5.94952 15.6751 5.98472 15.5776 6.00079C15.4801 6.01687 15.3804 6.01351 15.2841 5.99092C15.1879 5.96833 15.0971 5.92695 15.017 5.86915C14.9368 5.81135 14.8689 5.73827 14.817 5.65413C14.7652 5.56998 14.7305 5.47643 14.7149 5.37883C14.6506 4.97386 14.4602 4.59947 14.1709 4.30883C13.7961 3.95092 13.2977 3.75121 12.7794 3.75121C12.2612 3.75121 11.7628 3.95092 11.3879 4.30883C11.0903 4.6064 10.8958 4.99157 10.8332 5.40779C10.7705 5.82401 10.843 6.24935 11.0399 6.62135C11.2368 6.99336 11.5478 7.29243 11.9272 7.47466C12.3066 7.65689 12.7345 7.71268 13.1479 7.63383C13.2447 7.61545 13.3442 7.61631 13.4406 7.63636C13.5371 7.65641 13.6286 7.69527 13.7101 7.7507C13.7915 7.80614 13.8612 7.87707 13.9153 7.95945C13.9693 8.04183 14.0066 8.13405 14.0249 8.23083C14.0433 8.32762 14.0425 8.42708 14.0224 8.52353C14.0024 8.61998 13.9635 8.71154 13.9081 8.79298C13.8526 8.87441 13.7817 8.94413 13.6993 8.99815C13.6169 9.05218 13.5247 9.08945 13.4279 9.10783C13.2153 9.14782 12.9993 9.1679 12.7829 9.16783V9.16783Z" fill="black"/> <path d="M15.969 11.3945C15.2831 11.3945 14.6126 11.1911 14.0423 10.81C13.472 10.429 13.0274 9.88734 12.765 9.25364C12.5025 8.61995 12.4338 7.92265 12.5676 7.24993C12.7014 6.5772 13.0317 5.95926 13.5167 5.47425C14.0017 4.98925 14.6197 4.65895 15.2924 4.52513C15.9651 4.39132 16.6624 4.46 17.2961 4.72248C17.9298 4.98497 18.4714 5.42947 18.8525 5.99978C19.2336 6.57009 19.437 7.2406 19.437 7.9265C19.4359 8.84595 19.0702 9.72743 18.4201 10.3776C17.7699 11.0277 16.8884 11.3934 15.969 11.3945V11.3945ZM15.969 5.9585C15.5797 5.9585 15.1993 6.07392 14.8756 6.29016C14.552 6.50641 14.2997 6.81378 14.1508 7.17338C14.0018 7.53299 13.9629 7.92868 14.0388 8.31044C14.1147 8.69219 14.3022 9.04286 14.5774 9.31809C14.8526 9.59332 15.2033 9.78075 15.585 9.85668C15.9668 9.93262 16.3625 9.89365 16.7221 9.74469C17.0817 9.59574 17.3891 9.3435 17.6053 9.01986C17.8216 8.69623 17.937 8.31573 17.937 7.9265C17.9364 7.40472 17.7289 6.90445 17.36 6.53549C16.991 6.16654 16.4908 5.95903 15.969 5.9585V5.9585Z" fill="black"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Charity coins — bold style variants.
 class _FinancialCharityCoinsBold {
   const _FinancialCharityCoinsBold();
@@ -4522,21 +5984,6 @@ class _FinancialCharityCoinsBold {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.004 13.8846C19.155 13.0376 17.79 12.9396 16.826 13.6576C16.558 13.8616 16.289 14.0826 16.015 14.3076C15.593 14.6556 15.163 15.0046 14.723 15.2966C14.74 15.1776 14.76 15.0596 14.76 14.9356C14.76 13.7516 13.963 12.7566 12.776 12.4576C11.597 12.1626 10.324 11.8956 8.94304 11.9256C6.96004 11.9756 5.51504 12.9626 4.11804 13.9166L3.62404 14.2526C3.28004 14.4846 3.18804 14.9496 3.41904 15.2936C3.65004 15.6386 4.11704 15.7286 4.46004 15.4986L4.96404 15.1556C6.29304 14.2476 7.44104 13.4646 8.98004 13.4256C10.183 13.3916 11.335 13.6426 12.411 13.9126C12.935 14.0446 13.26 14.4366 13.26 14.9356C13.26 15.5316 12.789 15.9656 12.139 15.9656H11.798C11.611 15.9606 11.422 15.9606 11.231 15.9656H10.689C10.335 15.9656 10.052 16.2166 9.97304 16.5466C9.96704 16.5676 9.96504 16.5896 9.96004 16.6116C9.95504 16.6466 9.93904 16.6786 9.93904 16.7156C9.93904 16.7376 9.95004 16.7566 9.95204 16.7786C9.95304 16.8086 9.94304 16.8366 9.94704 16.8666C9.95504 16.9176 9.98104 16.9596 9.99804 17.0056L9.99904 17.0086C10.119 17.3356 10.442 17.5526 10.801 17.4966C10.953 17.4746 11.113 17.4696 11.273 17.4656H11.799C11.885 17.4686 11.967 17.4686 12.055 17.4716C12.347 17.4836 12.637 17.4936 12.928 17.4866C14.562 17.4476 15.841 16.3946 16.969 15.4656C17.227 15.2536 17.48 15.0446 17.728 14.8566C18.096 14.5816 18.619 14.6216 18.942 14.9436C19.303 15.3086 19.303 15.9036 18.942 16.2666L18.734 16.4766C17.428 17.7926 16.3 18.9296 14.629 19.5756C12.201 20.5176 9.93404 20.0716 7.24004 19.5396C6.16404 19.3226 5.19504 19.3056 4.04004 19.3056C3.62604 19.3056 3.29004 19.6416 3.29004 20.0556C3.29004 20.4696 3.62604 20.8056 4.04004 20.8056C5.14604 20.8056 6.00204 20.8206 7.02004 21.0256C8.56704 21.3306 10.066 21.6256 11.589 21.6256C12.758 21.6256 13.941 21.4516 15.171 20.9746C17.14 20.2136 18.431 18.9106 19.799 17.5326L20.007 17.3226C20.945 16.3766 20.945 14.8346 20.004 13.8846Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8349 8.65305C11.7809 8.38505 11.7509 8.10905 11.7509 7.82605C11.7509 5.70805 13.3229 3.96705 15.3579 3.66705C15.2669 3.54605 15.1689 3.43005 15.0599 3.32305C14.4519 2.71105 13.6429 2.37305 12.7829 2.37305C11.9229 2.37305 11.1149 2.71105 10.5089 3.32205C9.89986 3.93005 9.56486 4.73705 9.56586 5.59705C9.56586 6.45605 9.90086 7.26305 10.5089 7.86905C10.8839 8.24405 11.3429 8.50005 11.8349 8.65305Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7512 7.82598C12.7512 9.59598 14.1942 11.035 15.9692 11.035C17.7432 11.035 19.1872 9.59598 19.1872 7.82598C19.1872 6.04998 17.7432 4.60498 15.9692 4.60498C14.1942 4.60498 12.7512 6.04998 12.7512 7.82598Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Charity coins — light style variants.
-class _FinancialCharityCoinsLight {
-  const _FinancialCharityCoinsLight();
-
-  /// Charity coins — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Charity coins',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.686 16.8436H12.1357C13.171 16.8436 14.0068 16.0992 14.0068 15.064C14.0068 14.2039 13.4249 13.516 12.5911 13.3068C11.3963 13.0071 10.2053 12.7716 8.95895 12.8018C6.98477 12.8505 5.60313 13.9509 4.03857 14.9988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6865 16.8765C11.4191 16.7694 12.1654 16.8774 12.9068 16.8599C14.6241 16.819 15.9698 15.3674 17.2765 14.3827C17.9449 13.8797 18.88 13.9468 19.4706 14.5393C20.1254 15.1981 20.1254 16.2644 19.4706 16.9232C18.0588 18.3398 16.8114 19.6553 14.8975 20.3986C12.2423 21.432 9.77868 20.9309 7.08936 20.3986C6.04924 20.1934 5.09085 20.1807 4.03711 20.1807" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.456 5.27508C15.3665 4.7341 15.1203 4.21355 14.7019 3.79614C13.6404 2.73462 11.9202 2.73462 10.8586 3.79614C9.79712 4.85767 9.79712 6.57888 10.8586 7.6404C11.5193 8.30106 12.4349 8.54917 13.2892 8.38765" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.6841 7.94508C18.6841 9.44639 17.4669 10.6626 15.9656 10.6626C14.4652 10.6626 13.248 9.44639 13.248 7.94508C13.248 6.44376 14.4652 5.22656 15.9656 5.22656C17.4669 5.22656 18.6841 6.44376 18.6841 7.94508Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.light,
     type: IconfyType.regular,
   );
 
@@ -5414,10 +6861,6 @@ class _FinancialMoneyPaperCircleIcon {
   _FinancialMoneyPaperCircleBold get bold => const _FinancialMoneyPaperCircleBold();
   /// bulk style
   _FinancialMoneyPaperCircleBulk get bulk => const _FinancialMoneyPaperCircleBulk();
-  /// light style
-  _FinancialMoneyPaperCircleLight get light => const _FinancialMoneyPaperCircleLight();
-  /// outline style
-  _FinancialMoneyPaperCircleOutline get outline => const _FinancialMoneyPaperCircleOutline();
   /// twoTone style
   _FinancialMoneyPaperCircleTwotone get twoTone => const _FinancialMoneyPaperCircleTwotone();
   /// broken style
@@ -5469,21 +6912,6 @@ class _FinancialMoneyPaperCircleTwotone {
 
 }
 
-/// Money paper circle — outline style variants.
-class _FinancialMoneyPaperCircleOutline {
-  const _FinancialMoneyPaperCircleOutline();
-
-  /// Money paper circle — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Money paper circle',
-    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.3125 3.91849C4.02061 3.15673 5.02417 2.73761 6.1904 2.73761H17.8116C18.9803 2.73761 19.9844 3.1564 20.6924 3.91873C21.3947 4.67484 21.7501 5.70816 21.7501 6.84638V11.2555C21.7501 11.6697 21.4143 12.0055 21.0001 12.0055C20.5859 12.0055 20.2501 11.6697 20.2501 11.2555V6.84638C20.2501 6.01695 19.994 5.37088 19.5933 4.93952C19.1985 4.51438 18.6084 4.23761 17.8116 4.23761H6.1904C5.39706 4.23761 4.80688 4.51404 4.41115 4.93976C4.00979 5.37152 3.75293 6.01773 3.75293 6.84638V14.2634C3.75293 15.0935 4.00893 15.7396 4.40924 16.1707C4.80375 16.5956 5.3935 16.8722 6.1904 16.8722H10.8107C11.2249 16.8722 11.5607 17.2079 11.5607 17.6222C11.5607 18.0364 11.2249 18.3722 10.8107 18.3722H6.1904C5.02189 18.3722 4.01791 17.9537 3.31003 17.1913C2.60796 16.4352 2.25293 15.4019 2.25293 14.2634V6.84638C2.25293 5.70738 2.61002 4.6742 3.3125 3.91849Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.88769 14.5874C5.16938 13.8664 4.1358 13.6551 3.23247 13.9497C2.83867 14.0781 2.41533 13.863 2.28691 13.4692C2.1585 13.0754 2.37364 12.652 2.76744 12.5236C4.18555 12.0612 5.81585 12.3902 6.95007 13.5285C8.12963 14.7102 8.43382 16.4202 7.8975 17.8803C7.75467 18.2691 7.3237 18.4685 6.93489 18.3257C6.54608 18.1829 6.34666 17.7519 6.48948 17.3631C6.83462 16.4235 6.63492 15.3358 5.88824 14.588L5.88769 14.5874Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.91493 2.78363C7.30141 2.63462 7.73551 2.82713 7.88452 3.21361C8.44882 4.67722 8.12515 6.39752 6.95339 7.58305L6.951 7.58547L6.951 7.58546C5.81594 8.72351 4.18677 9.05272 2.76762 8.59034C2.37378 8.46202 2.15854 8.03873 2.28685 7.6449C2.41517 7.25106 2.83846 7.03581 3.2323 7.16413C4.1361 7.4586 5.16834 7.24777 5.88772 6.52742C6.63954 5.76584 6.83895 4.6714 6.48494 3.75322C6.33593 3.36674 6.52844 2.93264 6.91493 2.78363Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0833 2.78363C17.4698 2.93264 17.6623 3.36674 17.5133 3.75322C17.1593 4.67138 17.3588 5.76498 18.118 6.5262C18.838 7.24805 19.8542 7.45896 20.7675 7.16362C21.1616 7.03617 21.5844 7.25235 21.7119 7.64647C21.8393 8.04059 21.6232 8.4634 21.229 8.59085C19.8014 9.05252 18.1905 8.72299 17.056 7.58546C15.8731 6.39952 15.5492 4.67772 16.1137 3.21361C16.2627 2.82713 16.6968 2.63462 17.0833 2.78363Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.96484 10.5542C8.96484 8.87563 10.3233 7.51074 12.0023 7.51074C13.6813 7.51074 15.0398 8.87563 15.0398 10.5542C15.0398 10.9684 14.704 11.3042 14.2898 11.3042C13.8756 11.3042 13.5398 10.9684 13.5398 10.5542C13.5398 9.70034 12.8492 9.01074 12.0023 9.01074C11.1555 9.01074 10.4648 9.70034 10.4648 10.5542C10.4648 11.4081 11.1555 12.0977 12.0023 12.0977C12.4165 12.0977 12.7523 12.4335 12.7523 12.8477C12.7523 13.2619 12.4165 13.5977 12.0023 13.5977C10.3233 13.5977 8.96484 12.2328 8.96484 10.5542Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.25 17.0698C13.25 14.7199 15.1516 12.8105 17.5 12.8105C19.8484 12.8105 21.75 14.7199 21.75 17.0698C21.75 19.4196 19.8484 21.329 17.5 21.329C15.1516 21.329 13.25 19.4196 13.25 17.0698ZM17.5 14.3105C15.9837 14.3105 14.75 15.5447 14.75 17.0698C14.75 18.5949 15.9837 19.829 17.5 19.829C19.0163 19.829 20.25 18.5949 20.25 17.0698C20.25 15.5447 19.0163 14.3105 17.5 14.3105Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5 15.7354C17.9142 15.7354 18.25 16.0711 18.25 16.4854V17.6551C18.25 18.0693 17.9142 18.4051 17.5 18.4051C17.0858 18.4051 16.75 18.0693 16.75 17.6551V16.4854C16.75 16.0711 17.0858 15.7354 17.5 15.7354Z" fill="black"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Money paper circle — bold style variants.
 class _FinancialMoneyPaperCircleBold {
   const _FinancialMoneyPaperCircleBold();
@@ -5499,21 +6927,6 @@ class _FinancialMoneyPaperCircleBold {
 
 }
 
-/// Money paper circle — light style variants.
-class _FinancialMoneyPaperCircleLight {
-  const _FinancialMoneyPaperCircleLight();
-
-  /// Money paper circle — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Money paper circle',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.8107 17.576H6.1904C4.22499 17.576 3.00293 16.1895 3.00293 14.226V6.82847C3.00293 4.86598 4.23083 3.47852 6.1904 3.47852H17.8116C19.777 3.47852 21.0001 4.86598 21.0001 6.82847V11.226" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 13.2019C4.16076 12.8244 5.49277 13.0939 6.41904 14.0212C7.38229 14.9834 7.63429 16.3787 7.19353 17.5755" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.18477 3.47424C7.64402 4.66225 7.38229 6.06625 6.42001 7.03728C5.49277 7.96453 4.16173 8.23405 3 7.85653" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.8135 3.47424C16.3543 4.66225 16.616 6.06625 17.587 7.03728C18.5143 7.96453 19.8278 8.23405 20.9983 7.85653" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2898 10.5265C14.2898 9.26362 13.2652 8.23907 12.0023 8.23907C10.7394 8.23907 9.71484 9.26362 9.71484 10.5265C9.71484 11.7895 10.7394 12.814 12.0023 12.814" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5 13.525C19.4324 13.525 21 15.0926 21 17.025C21 18.9573 19.4324 20.525 17.5 20.525C15.5676 20.525 14 18.9573 14 17.025C14 15.0926 15.5676 13.525 17.5 13.525Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5 16.4421V17.6087" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.light,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Money Bag Dollar icon with style variants.
 class _FinancialMoneyBagDollarIcon {
   const _FinancialMoneyBagDollarIcon();
@@ -5522,10 +6935,6 @@ class _FinancialMoneyBagDollarIcon {
   _FinancialMoneyBagDollarBold get bold => const _FinancialMoneyBagDollarBold();
   /// bulk style
   _FinancialMoneyBagDollarBulk get bulk => const _FinancialMoneyBagDollarBulk();
-  /// light style
-  _FinancialMoneyBagDollarLight get light => const _FinancialMoneyBagDollarLight();
-  /// outline style
-  _FinancialMoneyBagDollarOutline get outline => const _FinancialMoneyBagDollarOutline();
   /// twoTone style
   _FinancialMoneyBagDollarTwotone get twoTone => const _FinancialMoneyBagDollarTwotone();
   /// broken style
@@ -5577,21 +6986,6 @@ class _FinancialMoneyBagDollarTwotone {
 
 }
 
-/// Money Bag Dollar — outline style variants.
-class _FinancialMoneyBagDollarOutline {
-  const _FinancialMoneyBagDollarOutline();
-
-  /// Money Bag Dollar — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Money Bag Dollar',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.94105 3.26149C8.25818 2.24149 9.76496 1.95514 11.3614 2.57552C12.5974 3.05609 13.7642 3.38345 14.9804 3.31489C15.1509 3.3049 15.6062 3.25203 16.0508 3.19679C16.2664 3.17 16.4698 3.14391 16.6194 3.12451L16.7979 3.10121L16.8628 3.09265L16.8638 3.09252C17.1322 3.05686 17.399 3.16868 17.5618 3.38507C17.7247 3.60147 17.7582 3.88882 17.6495 4.13687L16.0037 7.89477C16.0797 8.01334 16.156 8.13221 16.2325 8.25136C16.8105 9.1517 17.3989 10.0684 17.9528 10.9902C17.9528 10.9902 17.9527 10.9901 17.9528 10.9902C19.067 12.8441 20.3797 15.2635 19.3467 17.8397C19.3467 17.8397 19.3468 17.8397 19.3467 17.8397C18.7449 19.3411 17.5715 20.3135 16.2385 20.9065C14.9144 21.4955 13.3999 21.728 12.0113 21.7499C12.0034 21.75 11.9955 21.75 11.9876 21.7499C10.5995 21.728 9.0852 21.4955 7.76126 20.9065C6.42836 20.3135 5.25499 19.3411 4.65313 17.8397C3.6202 15.2636 4.93284 12.8441 6.04712 10.9902C6.56594 10.1267 7.11748 9.26999 7.66016 8.42705C7.76635 8.26211 7.87219 8.0977 7.97739 7.93387L6.21144 4.62925C6.04572 4.31914 6.11768 3.93555 6.38452 3.70658L6.38602 3.7053L6.3884 3.70326L6.39588 3.69692L6.42209 3.67493C6.44471 3.65607 6.47783 3.62872 6.5226 3.59236C6.61213 3.51966 6.74871 3.41059 6.94105 3.26149ZM7.82806 4.47183L9.50756 7.61467C9.63534 7.8538 9.62412 8.14328 9.4782 8.3718C9.28903 8.66805 9.09965 8.96221 8.91099 9.25525C8.3719 10.0926 7.83868 10.9209 7.33288 11.7627C6.17823 13.6838 5.32122 15.4755 6.04538 17.2815C6.46611 18.3311 7.2956 19.0576 8.371 19.536C9.45197 20.017 10.7468 20.2289 11.9995 20.2499C13.2527 20.2289 14.5477 20.017 15.6288 19.536C16.7043 19.0576 17.5337 18.3312 17.9545 17.2815C18.6786 15.4755 17.8217 13.6839 16.6671 11.7628C16.1258 10.862 15.5528 9.96935 14.9763 9.07117C14.8255 8.83633 14.6745 8.6011 14.5238 8.36523C14.3889 8.15423 14.3683 7.88984 14.4687 7.66046L15.7458 4.74452C15.4694 4.77669 15.2122 4.80393 15.067 4.81239L15.0657 4.81246C13.5268 4.89941 12.1193 4.47956 10.8181 3.97366M7.82806 4.47183C7.83834 4.46384 7.84881 4.45571 7.85947 4.44745ZM7.85947 4.44745C8.79365 3.72412 9.75069 3.55891 10.8181 3.97366Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.57617 13.3979C9.57617 12.3951 10.3887 11.5825 11.3916 11.5825H13.3706C13.7848 11.5825 14.1206 11.9183 14.1206 12.3325C14.1206 12.7467 13.7848 13.0825 13.3706 13.0825H11.3916C11.2171 13.0825 11.0762 13.2235 11.0762 13.3979C11.0762 13.5732 11.218 13.7143 11.3916 13.7143H12.6097C13.6126 13.7143 14.4251 14.5268 14.4251 15.5297C14.4251 16.5325 13.6126 17.3451 12.6097 17.3451H10.6307C10.2165 17.3451 9.88071 17.0093 9.88071 16.5951C9.88071 16.1809 10.2165 15.8451 10.6307 15.8451H12.6097C12.7841 15.8451 12.9251 15.7041 12.9251 15.5297C12.9251 15.3552 12.7841 15.2143 12.6097 15.2143H11.3916C10.3878 15.2143 9.57617 14.3999 9.57617 13.3979Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 10.6826C12.4142 10.6826 12.75 11.0184 12.75 11.4326V12.3355C12.75 12.7497 12.4142 13.0855 12 13.0855C11.5858 13.0855 11.25 12.7497 11.25 12.3355V11.4326C11.25 11.0184 11.5858 10.6826 12 10.6826ZM12 15.8449C12.4142 15.8449 12.75 16.1807 12.75 16.5949V17.49C12.75 17.9043 12.4142 18.24 12 18.24C11.5858 18.24 11.25 17.9043 11.25 17.49V16.5949C11.25 16.1807 11.5858 15.8449 12 15.8449Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.11469 7.80949C8.20749 7.40581 8.60997 7.15379 9.01365 7.24659C11.0066 7.70473 12.9943 7.70473 14.9873 7.24659C15.3909 7.15379 15.7934 7.40581 15.8862 7.80949C15.979 8.21318 15.727 8.61566 15.3233 8.70846C13.1092 9.21744 10.8917 9.21744 8.6776 8.70846C8.27391 8.61566 8.02189 8.21318 8.11469 7.80949Z" fill="black"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Money Bag Dollar — bold style variants.
 class _FinancialMoneyBagDollarBold {
   const _FinancialMoneyBagDollarBold();
@@ -5602,21 +6996,6 @@ class _FinancialMoneyBagDollarBold {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.81648 7.10613C7.85817 7.18411 7.93219 7.23987 8.01881 7.25767C10.6237 7.7928 13.2565 7.80058 15.8624 7.28099C15.9577 7.26199 16.0374 7.19728 16.0764 7.10833L17.4212 4.04312C17.4932 3.87712 17.4712 3.68612 17.3632 3.54212C17.2542 3.39712 17.0762 3.32212 16.8982 3.34512C16.4762 3.40112 15.3112 3.54712 14.9942 3.56212C13.6002 3.64412 12.3362 3.22412 11.2682 2.80412C9.78824 2.23812 8.38524 2.45712 7.08824 3.46112C6.70024 3.76912 6.54524 3.90412 6.54524 3.90412C6.36924 4.05712 6.32224 4.31212 6.43224 4.51712L7.81648 7.10613Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.75 17.3369V17.4909C12.75 17.9049 12.414 18.2409 12 18.2409C11.586 18.2409 11.25 17.9049 11.25 17.4909V17.3509H10.631C10.217 17.3509 9.88104 17.0149 9.88104 16.6009C9.88104 16.1869 10.217 15.8509 10.631 15.8509H11.952C11.969 15.8499 11.983 15.8409 12 15.8409C12.017 15.8409 12.031 15.8499 12.048 15.8509H12.61C12.784 15.8509 12.925 15.7079 12.925 15.5319C12.925 15.3549 12.784 15.2119 12.61 15.2119H11.392C10.391 15.2119 9.57604 14.3989 9.57604 13.4009C9.57604 12.4469 10.316 11.6699 11.25 11.5959V11.4309C11.25 11.0169 11.586 10.6809 12 10.6809C12.414 10.6809 12.75 11.0169 12.75 11.4309V11.5819H13.371C13.785 11.5819 14.121 11.9179 14.121 12.3319C14.121 12.7459 13.785 13.0819 13.371 13.0819H12.048C12.031 13.0829 12.017 13.0909 12 13.0909C11.983 13.0909 11.969 13.0829 11.952 13.0819H11.392C11.218 13.0819 11.076 13.2249 11.076 13.4009C11.076 13.5749 11.215 13.7119 11.392 13.7119H12.61C13.611 13.7119 14.425 14.5279 14.425 15.5319C14.425 16.4869 13.685 17.2639 12.75 17.3369ZM17.739 11.1249C17.2922 10.3804 16.8212 9.64192 16.3509 8.90707C16.2841 8.80269 16.16 8.75034 16.0383 8.77393C14.6969 9.03405 13.3494 9.17189 12 9.17189C10.6524 9.17189 9.30575 9.03402 7.96514 8.7747C7.84378 8.75123 7.72 8.80332 7.65312 8.90727C7.18097 9.64114 6.70904 10.3774 6.26204 11.1239C5.09004 13.0659 3.92004 15.3409 4.88504 17.7479C6.21304 21.0579 10.297 21.4759 12.006 21.5019C13.702 21.4759 17.787 21.0589 19.115 17.7479C20.08 15.3409 18.91 13.0659 17.739 11.1249Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Money Bag Dollar — light style variants.
-class _FinancialMoneyBagDollarLight {
-  const _FinancialMoneyBagDollarLight();
-
-  /// Money Bag Dollar — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Money Bag Dollar',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.6899 11.3764C7.37973 10.2283 8.12404 9.09873 8.84598 7.96815L6.87281 4.27576C6.87281 4.27576 7.02362 4.14635 7.40016 3.85446C8.52588 2.98269 9.75765 2.75696 11.0896 3.27458C12.3584 3.76787 13.6456 4.14149 15.0233 4.06365C15.4242 4.0403 16.9624 3.83598 16.9624 3.83598L15.1556 7.96134C15.8776 9.09095 16.6199 10.2283 17.3098 11.3764C18.4442 13.264 19.5291 15.3695 18.6505 17.5606C17.6279 20.1117 14.6448 20.9582 11.9993 21C9.35484 20.9582 6.37174 20.1117 5.34916 17.5606C4.47057 15.3695 5.55542 13.264 6.6899 11.3764Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.3706 12.3325H11.3916C10.8029 12.3325 10.3262 12.8093 10.3262 13.3979C10.3262 13.9866 10.8029 14.4643 11.3916 14.4643H12.6097C13.1984 14.4643 13.6751 14.941 13.6751 15.5297C13.6751 16.1183 13.1984 16.5951 12.6097 16.5951H10.6307" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 16.5949V17.49M12 11.4326V12.3355" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.8457 7.97754C10.9492 8.4611 13.0518 8.4611 15.1554 7.97754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.light,
     type: IconfyType.regular,
   );
 
@@ -5850,8 +7229,6 @@ class _FinancialSavingsPigIcon {
   _FinancialSavingsPigLight get light => const _FinancialSavingsPigLight();
   /// twoTone style
   _FinancialSavingsPigTwotone get twoTone => const _FinancialSavingsPigTwotone();
-  /// broken style
-  _FinancialSavingsPigBroken get broken => const _FinancialSavingsPigBroken();
 }
 
 /// Savings Pig — bulk style variants.
@@ -5864,21 +7241,6 @@ class _FinancialSavingsPigBulk {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.9416 4.23296C14.4425 2.90765 11.3911 3.00918 8.83882 3.90336L6.00825 3.27775C5.84663 3.24203 5.6778 3.28861 5.55736 3.40215C5.43692 3.51569 5.38048 3.68148 5.40661 3.84492L5.79794 6.29211C5.70252 6.39746 5.57453 6.5431 5.43253 6.71634C5.15863 7.05051 4.81862 7.50419 4.56346 7.97877C4.44418 8.06646 4.31433 8.1508 4.16676 8.24664C4.04542 8.32546 3.91208 8.41207 3.7628 8.51471C3.42347 8.74802 3.04388 9.04008 2.76036 9.41921C2.72007 9.47308 2.69107 9.53452 2.67509 9.59986C2.49068 10.3538 2.46623 11.3239 2.53577 12.2576C2.60568 13.1964 2.7742 14.1449 3.00307 14.8674C3.01401 14.9019 3.02868 14.9352 3.04682 14.9666C3.44792 15.6606 4.09658 15.8819 4.56956 16.0433L4.60448 16.0552C5.10037 16.2248 5.41511 16.346 5.62885 16.6791C5.76412 17.0075 5.80588 17.446 5.84406 17.9707L5.84835 18.0299C5.86551 18.2673 5.88376 18.5196 5.91642 18.7545C5.95159 19.0074 6.00777 19.2763 6.11781 19.5161C6.12545 19.5327 6.13399 19.5489 6.14339 19.5646C6.88706 20.8052 8.4576 20.9841 9.61652 20.5933L9.62907 20.5889L9.64464 20.5829C9.94575 20.4607 10.2581 20.2363 10.5076 20.0571C10.5556 20.0226 10.6013 19.9898 10.6441 19.9597C10.7924 19.8555 10.9206 19.7713 11.037 19.7113C11.1552 19.6504 11.2317 19.6303 11.2771 19.6271C11.836 19.5874 12.2916 19.6 12.7898 19.6137C13.1028 19.6223 13.4326 19.6314 13.8154 19.6283L13.8174 19.6283C14.0259 19.6258 14.2391 19.7317 14.5521 19.9596C14.6008 19.9951 14.6585 20.0385 14.7199 20.0847C14.8227 20.162 14.9361 20.2474 15.0351 20.3163C15.2082 20.4368 15.4101 20.5615 15.638 20.6451C15.6498 20.6494 15.6617 20.6533 15.6738 20.6567C16.7924 20.9738 17.8849 20.7435 18.8065 19.9158C19.5152 19.2794 19.5216 18.3698 19.5236 17.7187L19.5238 17.6101C19.5243 17.2996 19.5247 17.0356 19.5609 16.7912C19.5997 16.5295 19.6742 16.339 19.8007 16.1929C19.8066 16.1862 19.8122 16.1793 19.8177 16.1722C22.8578 12.26 21.4412 6.4231 16.9416 4.23296Z" fill="black"/> <path d="M10.7911 8.02344C12.0203 7.34305 13.3766 7.35555 14.4863 8.01261C14.8428 8.22364 15.3028 8.10578 15.5138 7.74936C15.7248 7.39293 15.607 6.93292 15.2506 6.72189C13.6545 5.77689 11.7298 5.78941 10.0647 6.71106C9.70227 6.91164 9.57109 7.36804 9.77168 7.73045C9.97227 8.09285 10.4287 8.22403 10.7911 8.02344Z" fill="black"/> </svg> ',
     category: 'Financial',
     style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Savings Pig — broken style variants.
-class _FinancialSavingsPigBroken {
-  const _FinancialSavingsPigBroken();
-
-  /// Savings Pig — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Savings Pig',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.715 4.67878C14.3279 3.40931 11.3616 3.51584 8.87145 4.42267L5.90033 3.76599L6.3302 6.45422C6.3302 6.45422 5.42604 7.38013 4.95482 8.30937C4.45734 8.70007 3.62699 9.09522 3.16076 9.71867C2.82753 11.0811 3.05064 13.3619 3.47971 14.7164C4.0914 15.7748 5.4341 15.3895 6.07377 16.4479C6.44675 17.2972 6.25185 18.6094 6.57223 19.3075C7.14849 20.2689 8.4217 20.4686 9.45673 20.1195C10.0367 19.8843 10.6813 19.1681 11.2417 19.1283C12.163 19.063 12.89 19.1358 13.8113 19.1283C14.5834 19.119 15.1332 19.9274 15.8101 20.1757C16.765 20.4463 17.6795 20.2559 18.4724 19.5439C19.516 18.6067 18.5818 16.8361 19.4229 15.8655C21.1617 13.6278 21.3417 10.7085 20.2509 8.30937" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.4277 7.36725C11.8749 6.56623 13.5154 6.56622 14.8683 7.36725" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.broken,
     type: IconfyType.regular,
   );
 
@@ -6045,10 +7407,6 @@ class _FinancialCoinToCardSwapIcon {
   _FinancialCoinToCardSwapBold get bold => const _FinancialCoinToCardSwapBold();
   /// bulk style
   _FinancialCoinToCardSwapBulk get bulk => const _FinancialCoinToCardSwapBulk();
-  /// light style
-  _FinancialCoinToCardSwapLight get light => const _FinancialCoinToCardSwapLight();
-  /// outline style
-  _FinancialCoinToCardSwapOutline get outline => const _FinancialCoinToCardSwapOutline();
   /// twoTone style
   _FinancialCoinToCardSwapTwotone get twoTone => const _FinancialCoinToCardSwapTwotone();
   /// broken style
@@ -6062,7 +7420,7 @@ class _FinancialCoinToCardSwapBulk {
   /// Coin to card swap — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Coin to card swap',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5532 14.8062C12.5665 14.9197 12.4748 15.0157 12.3605 15.0157H2.72053C2.60623 15.0157 2.51452 14.9197 2.52779 14.8062C2.68171 13.4899 3.66046 12.5957 5.0005 12.5957H10.0805C11.4205 12.5957 12.3993 13.4899 12.5532 14.8062Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3805 16.5156C12.4909 16.5156 12.5805 16.6052 12.5805 16.7156V18.5156C12.5805 20.0456 11.5505 21.1156 10.0805 21.1156H5.00049C3.53049 21.1156 2.50049 20.0456 2.50049 18.5156V16.7156C2.50049 16.6052 2.59003 16.5156 2.70049 16.5156H12.3805Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.6685 7.13984C20.6685 5.03984 18.9665 3.33984 16.8685 3.33984C14.7695 3.33984 13.0685 5.03984 13.0685 7.13984C13.0685 9.23984 14.7695 10.9398 16.8685 10.9398C18.9665 10.9398 20.6685 9.23984 20.6685 7.13984Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.36088 9.91991C4.58288 9.91991 4.79388 9.82091 4.93588 9.65091L6.29388 8.02991C6.47988 7.80691 6.52088 7.49491 6.39788 7.23191C6.27488 6.96791 6.00888 6.79891 5.71788 6.79891H5.10788V6.76991C5.10788 5.31391 6.29588 4.12891 7.75488 4.12891C8.16888 4.12891 8.50488 3.79291 8.50488 3.37891C8.50488 2.96491 8.16888 2.62891 7.75488 2.62891C5.46788 2.62891 3.60788 4.48591 3.60788 6.76991V6.79891H3.00188C2.71088 6.79891 2.44488 6.96791 2.32188 7.23191C2.19888 7.49591 2.23988 7.80791 2.42688 8.02991L3.78688 9.65091C3.92788 9.82091 4.13888 9.91991 4.36088 9.91991Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5923 15.9911L20.2343 14.2291C19.9503 13.8601 19.3293 13.8601 19.0463 14.2291L17.6883 15.9911C17.5133 16.2181 17.4833 16.5231 17.6093 16.7801C17.7353 17.0371 17.9953 17.1991 18.2813 17.1991H18.8913V17.2191C18.8913 18.6801 17.7033 19.8691 16.2443 19.8691C15.8303 19.8691 15.4943 20.2051 15.4943 20.6191C15.4943 21.0331 15.8303 21.3691 16.2443 21.3691C18.5303 21.3691 20.3913 19.5071 20.3913 17.2191V17.1991H20.9983C21.2843 17.1991 21.5453 17.0371 21.6713 16.7801C21.7973 16.5231 21.7673 16.2181 21.5923 15.9911Z" fill="black"/> </g> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0257 14.5672C13.0374 14.6802 12.946 14.7751 12.8324 14.7751H2.7186C2.60503 14.7751 2.51362 14.6802 2.52526 14.5672C2.6692 13.1696 3.6894 12.2151 5.1005 12.2151H10.4505C11.8616 12.2151 12.8818 13.1696 13.0257 14.5672Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8505 16.2751C12.9609 16.2751 13.0505 16.3647 13.0505 16.4751V18.4251C13.0505 20.0251 11.9805 21.1351 10.4505 21.1351H5.10049C3.57049 21.1351 2.50049 20.0251 2.50049 18.4251V16.4751C2.50049 16.3647 2.59003 16.2751 2.70049 16.2751H12.8505Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0005 7.15938C21.0005 5.05938 19.2995 3.35938 17.2015 3.35938C15.1025 3.35938 13.4005 5.05938 13.4005 7.15938C13.4005 9.25937 15.1025 10.9594 17.2015 10.9594C19.2995 10.9594 21.0005 9.25937 21.0005 7.15938Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9995 14.781C20.5855 14.781 20.2495 15.117 20.2495 15.531C20.2495 17.199 19.3085 18.65 17.9295 19.384L17.0255 18.48C16.8455 18.299 16.5825 18.222 16.3355 18.278C16.0865 18.332 15.8815 18.51 15.7925 18.749L15.1865 20.379C15.1015 20.609 15.1335 20.867 15.2735 21.068C15.4145 21.27 15.6445 21.39 15.8895 21.39C19.1205 21.39 21.7495 18.761 21.7495 15.531C21.7495 15.117 21.4135 14.781 20.9995 14.781Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.75049 8.47033C3.75049 6.80233 4.69149 5.35133 6.07149 4.61733L6.97449 5.52033C7.15449 5.70133 7.41349 5.77733 7.66449 5.72233C7.91349 5.66833 8.11849 5.49133 8.20749 5.25133L8.81349 3.62233C8.89949 3.39233 8.86749 3.13533 8.72749 2.93333C8.58749 2.73133 8.35649 2.61133 8.11149 2.61133C4.87949 2.61133 2.25049 5.24033 2.25049 8.47033C2.25049 8.88433 2.58649 9.22033 3.00049 9.22033C3.41449 9.22033 3.75049 8.88433 3.75049 8.47033Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -6077,7 +7435,7 @@ class _FinancialCoinToCardSwapBroken {
   /// Coin to card swap — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Coin to card swap',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.71818 7.56445L4.35958 8.92306L3.00098 7.56445" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.35742 8.84567V6.79495C4.35742 4.91873 5.87772 3.39844 7.75393 3.39844" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2812 16.4719L19.6399 15.1133L20.9985 16.4719" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.6407 15.1914V17.2421C19.6407 19.1183 18.1204 20.6386 16.2441 20.6386" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.99945 20.6398C3.76705 20.6398 3 19.7702 3 18.5398V15.2182C3 13.9868 3.77099 13.1172 4.99945 13.1172H10.077C11.3094 13.1172 12.0754 13.9868 12.0754 15.2182V18.5398C12.0754 19.7702 11.3094 20.6398 10.077 20.6398H7.53821" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 15.7871H9.67293" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6679 7.15913C20.6679 5.06009 18.9662 3.35938 16.8681 3.35938C14.7691 3.35938 13.0684 5.06009 13.0684 7.15913C13.0684 9.25816 14.7691 10.9589 16.8681 10.9589C17.9216 10.9589 18.8751 10.5301 19.5634 9.83743" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.10423 20.6403C3.80733 20.6403 3.00098 19.7245 3.00098 18.4296V14.9334C3.00098 13.6375 3.81117 12.7227 5.10423 12.7227H10.4483C11.7452 12.7227 12.5515 13.6375 12.5515 14.9334V18.4296C12.5515 19.7245 11.7452 20.6403 10.4483 20.6403H7.77625" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 15.5332H10.0379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2008 3.36133C15.1024 3.36133 13.4004 5.06236 13.4004 7.16081C13.4004 9.25926 15.1024 10.9603 17.2008 10.9603C19.2993 10.9603 21.0003 9.25926 21.0003 7.16081C21.0003 6.07179 20.5422 5.0898 19.8081 4.39706" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9994 15.5273C20.9994 18.3496 18.7109 20.6381 15.8887 20.6381L16.4954 19.0052" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 8.47015C3 5.6479 5.28852 3.35938 8.11077 3.35938L7.50408 4.99225" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -6092,24 +7450,9 @@ class _FinancialCoinToCardSwapTwotone {
   /// Coin to card swap — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Coin to card swap',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.21818 7.56445L4.85958 8.92306L3.50098 7.56445" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.85742 8.84567V6.79495C4.85742 4.91873 6.37772 3.39844 8.25393 3.39844" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7812 16.4719L20.1399 15.1133L21.4985 16.4719" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.1407 15.1914V17.2421C20.1407 19.1183 18.6204 20.6386 16.7441 20.6386" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.577 13.1172H5.49945C4.27099 13.1172 3.5 13.9868 3.5 15.2182V18.5398C3.5 19.7702 4.26705 20.6398 5.49945 20.6398H10.577C11.8094 20.6398 12.5754 19.7702 12.5754 18.5398V15.2182C12.5754 13.9868 11.8094 13.1172 10.577 13.1172Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.5 15.7871H12.5754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.1679 7.15913C21.1679 5.06009 19.4662 3.35938 17.3681 3.35938C15.2691 3.35938 13.5684 5.06009 13.5684 7.15913C13.5684 9.25816 15.2691 10.9589 17.3681 10.9589C19.4662 10.9589 21.1679 9.25816 21.1679 7.15913Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9483 12.7227H5.60423C4.31117 12.7227 3.50098 13.6375 3.50098 14.9334V18.4296C3.50098 19.7245 4.30733 20.6403 5.60423 20.6403H10.9483C12.2452 20.6403 13.0515 19.7245 13.0515 18.4296V14.9334C13.0515 13.6375 12.2452 12.7227 10.9483 12.7227Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.5 15.5332H13.0515" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.5003 7.16081C21.5003 5.06236 19.7993 3.36133 17.7008 3.36133C15.6024 3.36133 13.9004 5.06236 13.9004 7.16081C13.9004 9.25926 15.6024 10.9603 17.7008 10.9603C19.7993 10.9603 21.5003 9.25926 21.5003 7.16081Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.4994 15.5273C21.4994 18.3496 19.2109 20.6381 16.3887 20.6381L16.9954 19.0052" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.5 8.47015C3.5 5.6479 5.78852 3.35938 8.61077 3.35938L8.00408 4.99225" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Coin to card swap — outline style variants.
-class _FinancialCoinToCardSwapOutline {
-  const _FinancialCoinToCardSwapOutline();
-
-  /// Coin to card swap — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Coin to card swap',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.01909 12.8304C3.53972 12.2718 4.27207 11.9724 5.10423 11.9724H10.4483C11.2819 11.9724 12.0146 12.2715 12.5352 12.8307C13.0501 13.3839 13.3015 14.1305 13.3015 14.9331V18.4293C13.3015 19.2315 13.05 19.978 12.5353 20.5312C12.0148 21.0905 11.2821 21.39 10.4483 21.39H5.10423C4.2704 21.39 3.53768 21.0905 3.01723 20.5312C2.50245 19.978 2.25098 19.2315 2.25098 18.4293V14.9331C2.25098 14.1296 2.5039 13.3831 3.01909 12.8304ZM4.11633 13.8531C3.90315 14.0818 3.75098 14.4407 3.75098 14.9331V18.4293C3.75098 18.922 3.90268 19.2808 4.1153 19.5093C4.32225 19.7317 4.64116 19.89 5.10423 19.89H10.4483C10.9113 19.89 11.2302 19.7317 11.4372 19.5093C11.6498 19.2808 11.8015 18.922 11.8015 18.4293V14.9331C11.8015 14.4398 11.6497 14.081 11.4373 13.8528C11.2304 13.6306 10.9116 13.4724 10.4483 13.4724H5.10423C4.64333 13.4724 4.32405 13.6303 4.11633 13.8531Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 15.5332C2.25 15.119 2.58579 14.7832 3 14.7832H12.5515C12.9657 14.7832 13.3015 15.119 13.3015 15.5332C13.3015 15.9474 12.9657 16.2832 12.5515 16.2832H3C2.58579 16.2832 2.25 15.9474 2.25 15.5332Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6504 7.16081C12.6504 4.6479 14.6884 2.61133 17.2008 2.61133C19.7135 2.61133 21.7503 4.64814 21.7503 7.16081C21.7503 9.67347 19.7135 11.7103 17.2008 11.7103C14.6884 11.7103 12.6504 9.67372 12.6504 7.16081ZM17.2008 4.11133C15.5163 4.11133 14.1504 5.47682 14.1504 7.16081C14.1504 8.8448 15.5163 10.2103 17.2008 10.2103C18.8851 10.2103 20.2503 8.84505 20.2503 7.16081C20.2503 5.47657 18.8851 4.11133 17.2008 4.11133Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9994 14.7783C21.4137 14.7783 21.7494 15.1141 21.7494 15.5283C21.7494 18.7648 19.1251 21.3891 15.8887 21.3891C15.6431 21.3891 15.4131 21.2689 15.2729 21.0672C15.1327 20.8656 15.1001 20.6081 15.1856 20.3779L15.7923 18.745C15.9366 18.3567 16.3683 18.1589 16.7566 18.3032C17.1449 18.4474 17.3427 18.8791 17.1984 19.2674L17.0228 19.7401C18.8811 19.2408 20.2494 17.5441 20.2494 15.5283C20.2494 15.1141 20.5852 14.7783 20.9994 14.7783Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.97666 4.25934C5.11834 4.75865 3.75 6.45536 3.75 8.47112C3.75 8.88534 3.41421 9.22112 3 9.22112C2.58579 9.22112 2.25 8.88534 2.25 8.47112C2.25 5.23466 4.87431 2.61035 8.11077 2.61035C8.35635 2.61035 8.58638 2.73058 8.72657 2.93222C8.86676 3.13386 8.89935 3.39136 8.81381 3.62156L8.20713 5.25444C8.06286 5.64272 7.63115 5.84053 7.24287 5.69627C6.85459 5.552 6.65678 5.12029 6.80104 4.73201L6.97666 4.25934Z" fill="black"/> </svg> ',
-    category: 'Financial',
-    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -6122,7 +7465,7 @@ class _FinancialCoinToCardSwapBold {
   /// Coin to card swap — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Coin to card swap',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.36063 9.91991C4.58263 9.91991 4.79363 9.82091 4.93563 9.65091L6.29363 8.02991C6.47963 7.80691 6.52063 7.49491 6.39763 7.23191C6.27463 6.96791 6.00863 6.79891 5.71763 6.79891H5.10763V6.76991C5.10763 5.31391 6.29563 4.12891 7.75463 4.12891C8.16863 4.12891 8.50463 3.79291 8.50463 3.37891C8.50463 2.96491 8.16863 2.62891 7.75463 2.62891C5.46763 2.62891 3.60763 4.48591 3.60763 6.76991V6.79891H3.00163C2.71063 6.79891 2.44463 6.96791 2.32163 7.23191C2.19863 7.49591 2.23963 7.80791 2.42663 8.02991L3.78663 9.65091C3.92763 9.82091 4.13863 9.91991 4.36063 9.91991Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.592 15.9911L20.234 14.2291C19.95 13.8601 19.329 13.8601 19.046 14.2291L17.688 15.9911C17.513 16.2181 17.483 16.5231 17.609 16.7801C17.735 17.0371 17.995 17.1991 18.281 17.1991H18.891V17.2191C18.891 18.6801 17.703 19.8691 16.244 19.8691C15.83 19.8691 15.494 20.2051 15.494 20.6191C15.494 21.0331 15.83 21.3691 16.244 21.3691C18.53 21.3691 20.391 19.5071 20.391 17.2191V17.1991H20.998C21.284 17.1991 21.545 17.0371 21.671 16.7801C21.797 16.5231 21.767 16.2181 21.592 15.9911Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.553 14.8054C12.5662 14.9189 12.4745 15.015 12.3602 15.015H2.72028C2.60599 15.015 2.51428 14.9189 2.52755 14.8054C2.68147 13.4892 3.66022 12.595 5.00025 12.595H10.0803C11.4203 12.595 12.399 13.4892 12.553 14.8054Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3802 16.5149C12.4907 16.5149 12.5802 16.6044 12.5802 16.7149V18.5149C12.5802 20.0449 11.5502 21.1149 10.0802 21.1149H5.00024C3.53024 21.1149 2.50024 20.0449 2.50024 18.5149V16.7149C2.50024 16.6044 2.58979 16.5149 2.70024 16.5149H12.3802Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.6682 7.13911C20.6682 5.03911 18.9662 3.33911 16.8682 3.33911C14.7692 3.33911 13.0682 5.03911 13.0682 7.13911C13.0682 9.23911 14.7692 10.9391 16.8682 10.9391C18.9662 10.9391 20.6682 9.23911 20.6682 7.13911Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0257 14.5682C13.0374 14.6812 12.946 14.7761 12.8324 14.7761H2.7186C2.60503 14.7761 2.51362 14.6812 2.52526 14.5682C2.6692 13.1706 3.6894 12.2161 5.1005 12.2161H10.4505C11.8616 12.2161 12.8818 13.1706 13.0257 14.5682Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8505 16.2761C12.9609 16.2761 13.0505 16.3657 13.0505 16.4761V18.4261C13.0505 20.0261 11.9805 21.1361 10.4505 21.1361H5.10049C3.57049 21.1361 2.50049 20.0261 2.50049 18.4261V16.4761C2.50049 16.3657 2.59003 16.2761 2.70049 16.2761H12.8505Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0005 7.16035C21.0005 5.06035 19.2995 3.36035 17.2015 3.36035C15.1025 3.36035 13.4005 5.06035 13.4005 7.16035C13.4005 9.26035 15.1025 10.9604 17.2015 10.9604C19.2995 10.9604 21.0005 9.26035 21.0005 7.16035Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9995 14.781C20.5855 14.781 20.2495 15.117 20.2495 15.531C20.2495 17.199 19.3085 18.65 17.9295 19.384L17.0255 18.48C16.8455 18.299 16.5825 18.222 16.3355 18.278C16.0865 18.332 15.8815 18.51 15.7925 18.749L15.1865 20.379C15.1015 20.609 15.1335 20.867 15.2735 21.068C15.4145 21.27 15.6445 21.39 15.8895 21.39C19.1205 21.39 21.7495 18.761 21.7495 15.531C21.7495 15.117 21.4135 14.781 20.9995 14.781Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.75049 8.47033C3.75049 6.80233 4.69149 5.35133 6.07149 4.61733L6.97449 5.52033C7.15449 5.70133 7.41349 5.77733 7.66449 5.72233C7.91349 5.66833 8.11849 5.49133 8.20749 5.25133L8.81349 3.62233C8.89949 3.39233 8.86749 3.13533 8.72749 2.93333C8.58749 2.73133 8.35649 2.61133 8.11149 2.61133C4.87949 2.61133 2.25049 5.24033 2.25049 8.47033C2.25049 8.88433 2.58649 9.22033 3.00049 9.22033C3.41449 9.22033 3.75049 8.88433 3.75049 8.47033Z" fill="black"/> </svg>',
     category: 'Financial',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -6130,16 +7473,75 @@ class _FinancialCoinToCardSwapBold {
 
 }
 
-/// Coin to card swap — light style variants.
-class _FinancialCoinToCardSwapLight {
-  const _FinancialCoinToCardSwapLight();
+/// Coin to card swap 1 icon with style variants.
+class _FinancialCoinToCardSwap1Icon {
+  const _FinancialCoinToCardSwap1Icon();
 
-  /// Coin to card swap — light / regular
+  /// bold style
+  _FinancialCoinToCardSwap1Bold get bold => const _FinancialCoinToCardSwap1Bold();
+  /// bulk style
+  _FinancialCoinToCardSwap1Bulk get bulk => const _FinancialCoinToCardSwap1Bulk();
+  /// twoTone style
+  _FinancialCoinToCardSwap1Twotone get twoTone => const _FinancialCoinToCardSwap1Twotone();
+  /// broken style
+  _FinancialCoinToCardSwap1Broken get broken => const _FinancialCoinToCardSwap1Broken();
+}
+
+/// Coin to card swap 1 — bulk style variants.
+class _FinancialCoinToCardSwap1Bulk {
+  const _FinancialCoinToCardSwap1Bulk();
+
+  /// Coin to card swap 1 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Coin to card swap',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.4483 12.7224H5.10423C3.81117 12.7224 3.00098 13.6372 3.00098 14.9331V18.4293C3.00098 19.7242 3.80733 20.64 5.10423 20.64H10.4483C11.7452 20.64 12.5515 19.7242 12.5515 18.4293V14.9331C12.5515 13.6372 11.7452 12.7224 10.4483 12.7224Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 15.5332H12.5515" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0003 7.16081C21.0003 5.06236 19.2993 3.36133 17.2008 3.36133C15.1024 3.36133 13.4004 5.06236 13.4004 7.16081C13.4004 9.25926 15.1024 10.9603 17.2008 10.9603C19.2993 10.9603 21.0003 9.25926 21.0003 7.16081Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9994 15.5283C20.9994 18.3506 18.7109 20.6391 15.8887 20.6391L16.4954 19.0062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 8.47112C3 5.64887 5.28852 3.36035 8.11077 3.36035L7.50408 4.99323" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    name: 'Coin to card swap 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5532 14.8062C12.5665 14.9197 12.4748 15.0157 12.3605 15.0157H2.72053C2.60623 15.0157 2.51452 14.9197 2.52779 14.8062C2.68171 13.4899 3.66046 12.5957 5.0005 12.5957H10.0805C11.4205 12.5957 12.3993 13.4899 12.5532 14.8062Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3805 16.5156C12.4909 16.5156 12.5805 16.6052 12.5805 16.7156V18.5156C12.5805 20.0456 11.5505 21.1156 10.0805 21.1156H5.00049C3.53049 21.1156 2.50049 20.0456 2.50049 18.5156V16.7156C2.50049 16.6052 2.59003 16.5156 2.70049 16.5156H12.3805Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.6685 7.13984C20.6685 5.03984 18.9665 3.33984 16.8685 3.33984C14.7695 3.33984 13.0685 5.03984 13.0685 7.13984C13.0685 9.23984 14.7695 10.9398 16.8685 10.9398C18.9665 10.9398 20.6685 9.23984 20.6685 7.13984Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.36088 9.91991C4.58288 9.91991 4.79388 9.82091 4.93588 9.65091L6.29388 8.02991C6.47988 7.80691 6.52088 7.49491 6.39788 7.23191C6.27488 6.96791 6.00888 6.79891 5.71788 6.79891H5.10788V6.76991C5.10788 5.31391 6.29588 4.12891 7.75488 4.12891C8.16888 4.12891 8.50488 3.79291 8.50488 3.37891C8.50488 2.96491 8.16888 2.62891 7.75488 2.62891C5.46788 2.62891 3.60788 4.48591 3.60788 6.76991V6.79891H3.00188C2.71088 6.79891 2.44488 6.96791 2.32188 7.23191C2.19888 7.49591 2.23988 7.80791 2.42688 8.02991L3.78688 9.65091C3.92788 9.82091 4.13888 9.91991 4.36088 9.91991Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5923 15.9911L20.2343 14.2291C19.9503 13.8601 19.3293 13.8601 19.0463 14.2291L17.6883 15.9911C17.5133 16.2181 17.4833 16.5231 17.6093 16.7801C17.7353 17.0371 17.9953 17.1991 18.2813 17.1991H18.8913V17.2191C18.8913 18.6801 17.7033 19.8691 16.2443 19.8691C15.8303 19.8691 15.4943 20.2051 15.4943 20.6191C15.4943 21.0331 15.8303 21.3691 16.2443 21.3691C18.5303 21.3691 20.3913 19.5071 20.3913 17.2191V17.1991H20.9983C21.2843 17.1991 21.5453 17.0371 21.6713 16.7801C21.7973 16.5231 21.7673 16.2181 21.5923 15.9911Z" fill="black"/> </g> </svg>',
     category: 'Financial',
-    style: IconfyStyle.light,
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coin to card swap 1 — broken style variants.
+class _FinancialCoinToCardSwap1Broken {
+  const _FinancialCoinToCardSwap1Broken();
+
+  /// Coin to card swap 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coin to card swap 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.71818 7.56445L4.35958 8.92306L3.00098 7.56445" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.35742 8.84567V6.79495C4.35742 4.91873 5.87772 3.39844 7.75393 3.39844" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2812 16.4719L19.6399 15.1133L20.9985 16.4719" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.6407 15.1914V17.2421C19.6407 19.1183 18.1204 20.6386 16.2441 20.6386" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.99945 20.6398C3.76705 20.6398 3 19.7702 3 18.5398V15.2182C3 13.9868 3.77099 13.1172 4.99945 13.1172H10.077C11.3094 13.1172 12.0754 13.9868 12.0754 15.2182V18.5398C12.0754 19.7702 11.3094 20.6398 10.077 20.6398H7.53821" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 15.7871H9.67293" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6679 7.15913C20.6679 5.06009 18.9662 3.35938 16.8681 3.35938C14.7691 3.35938 13.0684 5.06009 13.0684 7.15913C13.0684 9.25816 14.7691 10.9589 16.8681 10.9589C17.9216 10.9589 18.8751 10.5301 19.5634 9.83743" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coin to card swap 1 — twoTone style variants.
+class _FinancialCoinToCardSwap1Twotone {
+  const _FinancialCoinToCardSwap1Twotone();
+
+  /// Coin to card swap 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coin to card swap 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.21818 7.56445L4.85958 8.92306L3.50098 7.56445" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.85742 8.84567V6.79495C4.85742 4.91873 6.37772 3.39844 8.25393 3.39844" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7812 16.4719L20.1399 15.1133L21.4985 16.4719" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.1407 15.1914V17.2421C20.1407 19.1183 18.6204 20.6386 16.7441 20.6386" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.577 13.1172H5.49945C4.27099 13.1172 3.5 13.9868 3.5 15.2182V18.5398C3.5 19.7702 4.26705 20.6398 5.49945 20.6398H10.577C11.8094 20.6398 12.5754 19.7702 12.5754 18.5398V15.2182C12.5754 13.9868 11.8094 13.1172 10.577 13.1172Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.5 15.7871H12.5754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.1679 7.15913C21.1679 5.06009 19.4662 3.35938 17.3681 3.35938C15.2691 3.35938 13.5684 5.06009 13.5684 7.15913C13.5684 9.25816 15.2691 10.9589 17.3681 10.9589C19.4662 10.9589 21.1679 9.25816 21.1679 7.15913Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coin to card swap 1 — bold style variants.
+class _FinancialCoinToCardSwap1Bold {
+  const _FinancialCoinToCardSwap1Bold();
+
+  /// Coin to card swap 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coin to card swap 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.36063 9.91991C4.58263 9.91991 4.79363 9.82091 4.93563 9.65091L6.29363 8.02991C6.47963 7.80691 6.52063 7.49491 6.39763 7.23191C6.27463 6.96791 6.00863 6.79891 5.71763 6.79891H5.10763V6.76991C5.10763 5.31391 6.29563 4.12891 7.75463 4.12891C8.16863 4.12891 8.50463 3.79291 8.50463 3.37891C8.50463 2.96491 8.16863 2.62891 7.75463 2.62891C5.46763 2.62891 3.60763 4.48591 3.60763 6.76991V6.79891H3.00163C2.71063 6.79891 2.44463 6.96791 2.32163 7.23191C2.19863 7.49591 2.23963 7.80791 2.42663 8.02991L3.78663 9.65091C3.92763 9.82091 4.13863 9.91991 4.36063 9.91991Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.592 15.9911L20.234 14.2291C19.95 13.8601 19.329 13.8601 19.046 14.2291L17.688 15.9911C17.513 16.2181 17.483 16.5231 17.609 16.7801C17.735 17.0371 17.995 17.1991 18.281 17.1991H18.891V17.2191C18.891 18.6801 17.703 19.8691 16.244 19.8691C15.83 19.8691 15.494 20.2051 15.494 20.6191C15.494 21.0331 15.83 21.3691 16.244 21.3691C18.53 21.3691 20.391 19.5071 20.391 17.2191V17.1991H20.998C21.284 17.1991 21.545 17.0371 21.671 16.7801C21.797 16.5231 21.767 16.2181 21.592 15.9911Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.553 14.8054C12.5662 14.9189 12.4745 15.015 12.3602 15.015H2.72028C2.60599 15.015 2.51428 14.9189 2.52755 14.8054C2.68147 13.4892 3.66022 12.595 5.00025 12.595H10.0803C11.4203 12.595 12.399 13.4892 12.553 14.8054Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3802 16.5149C12.4907 16.5149 12.5802 16.6044 12.5802 16.7149V18.5149C12.5802 20.0449 11.5502 21.1149 10.0802 21.1149H5.00024C3.53024 21.1149 2.50024 20.0449 2.50024 18.5149V16.7149C2.50024 16.6044 2.58979 16.5149 2.70024 16.5149H12.3802Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.6682 7.13911C20.6682 5.03911 18.9662 3.33911 16.8682 3.33911C14.7692 3.33911 13.0682 5.03911 13.0682 7.13911C13.0682 9.23911 14.7692 10.9391 16.8682 10.9391C18.9662 10.9391 20.6682 9.23911 20.6682 7.13911Z" fill="black"/> </svg>',
+    category: 'Financial',
+    style: IconfyStyle.bold,
     type: IconfyType.regular,
   );
 
@@ -6469,6 +7871,69 @@ class _FinancialRialCircleLight {
 
 }
 
+/// Savings Pig icon with style variants.
+class _FinancialSavingsPig1Icon {
+  const _FinancialSavingsPig1Icon();
+
+  /// broken style
+  _FinancialSavingsPig1Broken get broken => const _FinancialSavingsPig1Broken();
+}
+
+/// Savings Pig — broken style variants.
+class _FinancialSavingsPig1Broken {
+  const _FinancialSavingsPig1Broken();
+
+  /// Savings Pig — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Savings Pig',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.715 4.67878C14.3279 3.40931 11.3616 3.51584 8.87145 4.42267L5.90033 3.76599L6.3302 6.45422C6.3302 6.45422 5.42604 7.38013 4.95482 8.30937C4.45734 8.70007 3.62699 9.09522 3.16076 9.71867C2.82753 11.0811 3.05064 13.3619 3.47971 14.7164C4.0914 15.7748 5.4341 15.3895 6.07377 16.4479C6.44675 17.2972 6.25185 18.6094 6.57223 19.3075C7.14849 20.2689 8.4217 20.4686 9.45673 20.1195C10.0367 19.8843 10.6813 19.1681 11.2417 19.1283C12.163 19.063 12.89 19.1358 13.8113 19.1283C14.5834 19.119 15.1332 19.9274 15.8101 20.1757C16.765 20.4463 17.6795 20.2559 18.4724 19.5439C19.516 18.6067 18.5818 16.8361 19.4229 15.8655C21.1617 13.6278 21.3417 10.7085 20.2509 8.30937" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.4277 7.36725C11.8749 6.56623 13.5154 6.56622 14.8683 7.36725" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coin swap icon with style variants.
+class _FinancialCoinSwap3Icon {
+  const _FinancialCoinSwap3Icon();
+
+  /// light style
+  _FinancialCoinSwap3Light get light => const _FinancialCoinSwap3Light();
+  /// outline style
+  _FinancialCoinSwap3Outline get outline => const _FinancialCoinSwap3Outline();
+}
+
+/// Coin swap — outline style variants.
+class _FinancialCoinSwap3Outline {
+  const _FinancialCoinSwap3Outline();
+
+  /// Coin swap — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coin swap',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.2522 16.9905C2.2522 14.3618 4.38307 12.2309 7.01176 12.2309C9.6402 12.2309 11.7723 14.3615 11.7723 16.9905C11.7723 19.6194 9.6402 21.75 7.01176 21.75C4.38307 21.75 2.2522 19.6191 2.2522 16.9905ZM7.01176 13.7309C5.21149 13.7309 3.7522 15.1902 3.7522 16.9905C3.7522 18.7907 5.21149 20.25 7.01176 20.25C8.81227 20.25 10.2723 18.7905 10.2723 16.9905C10.2723 15.1904 8.81226 13.7309 7.01176 13.7309Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2266 7.00956C12.2266 4.38062 14.3587 2.25 16.9871 2.25C19.6158 2.25 21.7467 4.38087 21.7467 7.00956C21.7467 9.63825 19.6158 11.7691 16.9871 11.7691C14.3587 11.7691 12.2266 9.63849 12.2266 7.00956ZM16.9871 3.75C15.1866 3.75 13.7266 5.20954 13.7266 7.00956C13.7266 8.80957 15.1866 10.2691 16.9871 10.2691C18.7874 10.2691 20.2467 8.80982 20.2467 7.00956C20.2467 5.2093 18.7874 3.75 16.9871 3.75Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.26506 3.88857C5.24705 4.39343 3.75195 6.21909 3.75195 8.39335C3.75195 8.80757 3.41617 9.14335 3.00195 9.14335C2.58774 9.14335 2.25195 8.80757 2.25195 8.39335C2.25195 5.00084 5.00279 2.25 8.39531 2.25C8.64089 2.25 8.87091 2.37023 9.0111 2.57187C9.15129 2.77351 9.18388 3.03101 9.09835 3.26121L8.45812 4.98437C8.31385 5.37265 7.88214 5.57046 7.49386 5.4262C7.10558 5.28194 6.90777 4.85022 7.05203 4.46195L7.26506 3.88857Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9969 14.7949C21.4111 14.7949 21.7469 15.1307 21.7469 15.5449C21.7469 18.9374 18.996 21.6883 15.6035 21.6883C15.3579 21.6883 15.1279 21.568 14.9877 21.3664C14.8475 21.1648 14.8149 20.9073 14.9005 20.6771L15.5407 18.9539C15.685 18.5656 16.1167 18.3678 16.505 18.5121C16.8932 18.6563 17.0911 19.088 16.9468 19.4763L16.7338 20.0497C18.7518 19.5448 20.2469 17.7192 20.2469 15.5449C20.2469 15.1307 20.5827 14.7949 20.9969 14.7949Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coin swap — light style variants.
+class _FinancialCoinSwap3Light {
+  const _FinancialCoinSwap3Light();
+
+  /// Coin swap — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coin swap',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.00195 16.9905C3.00195 19.2049 4.79704 21 7.01151 21C9.22599 21 11.0221 19.2049 11.0221 16.9905C11.0221 14.776 9.22599 12.9809 7.01151 12.9809C4.79704 12.9809 3.00195 14.776 3.00195 16.9905Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9967 7.00956C20.9967 4.79508 19.2016 3 16.9871 3C14.7727 3 12.9766 4.79508 12.9766 7.00956C12.9766 9.22403 14.7727 11.0191 16.9871 11.0191C19.2016 11.0191 20.9967 9.22403 20.9967 7.00956Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.00195 8.39335C3.00195 5.41506 5.41701 3 8.39531 3L7.75507 4.72316" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9969 15.5449C20.9969 18.5232 18.5818 20.9383 15.6035 20.9383L16.2437 19.2151" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Money paper 6 icon with style variants.
 class _FinancialMoneyPaper6Icon {
   const _FinancialMoneyPaper6Icon();
@@ -6502,6 +7967,166 @@ class _FinancialMoneyPaper6Light {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Money paper 6',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.1904 4.95319H17.8116C19.777 4.95319 21.0001 6.34065 21.0001 8.30314V15.7007C21.0001 17.6642 19.777 19.0506 17.8107 19.0506H6.1904C4.22499 19.0506 3.00293 17.6642 3.00293 15.7007V8.30314C3.00293 6.34065 4.23083 4.95319 6.1904 4.95319Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.8032 19.0502C16.3624 17.8534 16.6144 16.4582 17.5864 15.4959C18.5127 14.5687 19.8272 14.2991 20.9967 14.6767" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 14.6767C4.16076 14.2991 5.49277 14.5687 6.41904 15.4959C7.38229 16.4582 7.63429 17.8534 7.19353 19.0502" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.18477 4.94922C7.64402 6.13722 7.38229 7.54123 6.42001 8.51226C5.49277 9.43951 4.16173 9.70902 3 9.33151" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.8135 4.94922C16.3543 6.13722 16.616 7.54123 17.587 8.51226C18.5143 9.43951 19.8278 9.70902 20.9983 9.33151" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2898 12.0013C14.2898 10.7384 13.2652 9.71387 12.0023 9.71387C10.7394 9.71387 9.71484 10.7384 9.71484 12.0013C9.71484 13.2643 10.7394 14.2888 12.0023 14.2888C13.2652 14.2888 14.2898 13.2643 14.2898 12.0013Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Charity coins icon with style variants.
+class _FinancialCharityCoins1Icon {
+  const _FinancialCharityCoins1Icon();
+
+  /// light style
+  _FinancialCharityCoins1Light get light => const _FinancialCharityCoins1Light();
+  /// outline style
+  _FinancialCharityCoins1Outline get outline => const _FinancialCharityCoins1Outline();
+}
+
+/// Charity coins — outline style variants.
+class _FinancialCharityCoins1Outline {
+  const _FinancialCharityCoins1Outline();
+
+  /// Charity coins — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Charity coins',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.1393 17.5747H10.6903C10.4914 17.5747 10.3006 17.4957 10.16 17.355C10.0193 17.2144 9.94032 17.0236 9.94032 16.8247C9.94032 16.6258 10.0193 16.435 10.16 16.2944C10.3006 16.1537 10.4914 16.0747 10.6903 16.0747H12.1393C12.2816 16.0855 12.4245 16.067 12.5593 16.0204C12.6941 15.9737 12.8179 15.8998 12.923 15.8034C13.0281 15.7069 13.1123 15.5899 13.1703 15.4595C13.2283 15.3292 13.2589 15.1884 13.2603 15.0457C13.2587 14.8028 13.1736 14.5678 13.0191 14.3802C12.8647 14.1926 12.6504 14.0639 12.4123 14.0157C11.2956 13.7012 10.1415 13.5388 8.98132 13.5327C7.50063 13.69 6.1021 14.2913 4.96932 15.2577L4.46032 15.6037C4.37853 15.6598 4.28644 15.6991 4.18936 15.7194C4.09229 15.7396 3.99215 15.7404 3.89476 15.7218C3.79737 15.7031 3.70466 15.6652 3.62198 15.6105C3.5393 15.5557 3.4683 15.4851 3.4131 15.4027C3.35789 15.3203 3.31957 15.2278 3.30035 15.1305C3.28113 15.0333 3.2814 14.9331 3.30114 14.8359C3.32087 14.7388 3.35969 14.6464 3.41533 14.5644C3.47098 14.4823 3.54235 14.412 3.62532 14.3577L4.12532 14.0187C5.49331 12.8831 7.17438 12.1904 8.94532 12.0327C10.2406 12.0407 11.5292 12.2182 12.7783 12.5607C13.3959 12.698 13.9399 13.0611 14.3038 13.5786C14.6676 14.0962 14.825 14.731 14.7451 15.3586C14.6653 15.9862 14.3539 16.5613 13.8721 16.9713C13.3902 17.3812 12.7726 17.5964 12.1403 17.5747H12.1393Z" fill="black"/> <path d="M11.589 21.7337C10.0495 21.683 8.51853 21.482 7.01804 21.1337C6.03549 20.9589 5.03756 20.8859 4.04004 20.9157C3.84113 20.9157 3.65036 20.8366 3.50971 20.696C3.36906 20.5553 3.29004 20.3646 3.29004 20.1657C3.29004 19.9667 3.36906 19.776 3.50971 19.6353C3.65036 19.4947 3.84113 19.4157 4.04004 19.4157C5.1118 19.385 6.18391 19.4627 7.24004 19.6477C9.94004 20.1807 12.203 20.6297 14.631 19.6847C16.2072 18.9623 17.6065 17.9043 18.731 16.5847L18.94 16.3737C19.1146 16.1971 19.2125 15.9589 19.2125 15.7107C19.2125 15.4624 19.1146 15.2242 18.94 15.0477C18.782 14.8906 18.5728 14.7956 18.3505 14.7798C18.1283 14.764 17.9077 14.8285 17.729 14.9617C17.472 15.1547 17.214 15.3667 16.953 15.5817C15.8758 16.6863 14.4565 17.394 12.926 17.5897C12.634 17.5957 12.347 17.5896 12.057 17.5746C11.6368 17.5446 11.2148 17.5527 10.796 17.5987C10.6985 17.6129 10.5992 17.6078 10.5036 17.5837C10.4081 17.5595 10.3183 17.5168 10.2392 17.4579C10.1602 17.399 10.0936 17.3252 10.0431 17.2405C9.9926 17.1559 9.95929 17.0622 9.94504 16.9647C9.93079 16.8672 9.93589 16.7678 9.96004 16.6723C9.98419 16.5767 10.0269 16.4869 10.0858 16.4078C10.1447 16.3288 10.2185 16.2622 10.3032 16.2117C10.3878 16.1612 10.4815 16.1279 10.579 16.1137C11.0888 16.0535 11.603 16.0408 12.115 16.0757C12.374 16.0857 12.633 16.0967 12.89 16.0897C14.0787 15.8801 15.1693 15.2964 16.003 14.4237C16.281 14.1957 16.556 13.9707 16.828 13.7657C17.3206 13.3981 17.934 13.2306 18.545 13.2969C19.156 13.3632 19.7192 13.6584 20.1214 14.1231C20.5236 14.5877 20.735 15.1874 20.7131 15.8016C20.6911 16.4158 20.4374 16.9989 20.003 17.4337L19.794 17.6437C18.5245 19.1155 16.9455 20.2887 15.17 21.0797C14.0284 21.5219 12.8133 21.7439 11.589 21.7337V21.7337Z" fill="black"/> <path d="M12.7829 9.16783C12.0971 9.16773 11.4267 8.96429 10.8565 8.58321C10.2863 8.20214 9.84183 7.66054 9.57939 7.02691C9.31694 6.39328 9.24827 5.69605 9.38204 5.02339C9.51581 4.35073 9.84603 3.73284 10.3309 3.24783C10.991 2.61771 11.8684 2.26611 12.7809 2.26611C13.6935 2.26611 14.5709 2.61771 15.2309 3.24783C15.743 3.75957 16.0804 4.41998 16.1949 5.13483C16.2115 5.23226 16.2087 5.332 16.1866 5.42833C16.1646 5.52466 16.1237 5.61568 16.0663 5.69615C16.0089 5.77662 15.9362 5.84496 15.8523 5.89724C15.7685 5.94952 15.6751 5.98472 15.5776 6.00079C15.4801 6.01687 15.3804 6.01351 15.2841 5.99092C15.1879 5.96833 15.0971 5.92695 15.017 5.86915C14.9368 5.81135 14.8689 5.73827 14.817 5.65413C14.7652 5.56998 14.7305 5.47643 14.7149 5.37883C14.6506 4.97386 14.4602 4.59947 14.1709 4.30883C13.7961 3.95092 13.2977 3.75121 12.7794 3.75121C12.2612 3.75121 11.7628 3.95092 11.3879 4.30883C11.0903 4.6064 10.8958 4.99157 10.8332 5.40779C10.7705 5.82401 10.843 6.24935 11.0399 6.62135C11.2368 6.99336 11.5478 7.29243 11.9272 7.47466C12.3066 7.65689 12.7345 7.71268 13.1479 7.63383C13.2447 7.61545 13.3442 7.61631 13.4406 7.63636C13.5371 7.65641 13.6286 7.69527 13.7101 7.7507C13.7915 7.80614 13.8612 7.87707 13.9153 7.95945C13.9693 8.04183 14.0066 8.13405 14.0249 8.23083C14.0433 8.32762 14.0425 8.42708 14.0224 8.52353C14.0024 8.61998 13.9635 8.71154 13.9081 8.79298C13.8526 8.87441 13.7817 8.94413 13.6993 8.99815C13.6169 9.05218 13.5247 9.08945 13.4279 9.10783C13.2153 9.14782 12.9993 9.1679 12.7829 9.16783V9.16783Z" fill="black"/> <path d="M15.969 11.3945C15.2831 11.3945 14.6126 11.1911 14.0423 10.81C13.472 10.429 13.0274 9.88734 12.765 9.25364C12.5025 8.61995 12.4338 7.92265 12.5676 7.24993C12.7014 6.5772 13.0317 5.95926 13.5167 5.47425C14.0017 4.98925 14.6197 4.65895 15.2924 4.52513C15.9651 4.39132 16.6624 4.46 17.2961 4.72248C17.9298 4.98497 18.4714 5.42947 18.8525 5.99978C19.2336 6.57009 19.437 7.2406 19.437 7.9265C19.4359 8.84595 19.0702 9.72743 18.4201 10.3776C17.7699 11.0277 16.8884 11.3934 15.969 11.3945V11.3945ZM15.969 5.9585C15.5797 5.9585 15.1993 6.07392 14.8756 6.29016C14.552 6.50641 14.2997 6.81378 14.1508 7.17338C14.0018 7.53299 13.9629 7.92868 14.0388 8.31044C14.1147 8.69219 14.3022 9.04286 14.5774 9.31809C14.8526 9.59332 15.2033 9.78075 15.585 9.85668C15.9668 9.93262 16.3625 9.89365 16.7221 9.74469C17.0817 9.59574 17.3891 9.3435 17.6053 9.01986C17.8216 8.69623 17.937 8.31573 17.937 7.9265C17.9364 7.40472 17.7289 6.90445 17.36 6.53549C16.991 6.16654 16.4908 5.95903 15.969 5.9585V5.9585Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Charity coins — light style variants.
+class _FinancialCharityCoins1Light {
+  const _FinancialCharityCoins1Light();
+
+  /// Charity coins — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Charity coins',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.686 16.8436H12.1357C13.171 16.8436 14.0068 16.0992 14.0068 15.064C14.0068 14.2039 13.4249 13.516 12.5911 13.3068C11.3963 13.0071 10.2053 12.7716 8.95895 12.8018C6.98477 12.8505 5.60313 13.9509 4.03857 14.9988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6865 16.8765C11.4191 16.7694 12.1654 16.8774 12.9068 16.8599C14.6241 16.819 15.9698 15.3674 17.2765 14.3827C17.9449 13.8797 18.88 13.9468 19.4706 14.5393C20.1254 15.1981 20.1254 16.2644 19.4706 16.9232C18.0588 18.3398 16.8114 19.6553 14.8975 20.3986C12.2423 21.432 9.77868 20.9309 7.08936 20.3986C6.04924 20.1934 5.09085 20.1807 4.03711 20.1807" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.456 5.27508C15.3665 4.7341 15.1203 4.21355 14.7019 3.79614C13.6404 2.73462 11.9202 2.73462 10.8586 3.79614C9.79712 4.85767 9.79712 6.57888 10.8586 7.6404C11.5193 8.30106 12.4349 8.54917 13.2892 8.38765" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.6841 7.94508C18.6841 9.44639 17.4669 10.6626 15.9656 10.6626C14.4652 10.6626 13.248 9.44639 13.248 7.94508C13.248 6.44376 14.4652 5.22656 15.9656 5.22656C17.4669 5.22656 18.6841 6.44376 18.6841 7.94508Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper send icon with style variants.
+class _FinancialMoneyPaperSend2Icon {
+  const _FinancialMoneyPaperSend2Icon();
+
+  /// light style
+  _FinancialMoneyPaperSend2Light get light => const _FinancialMoneyPaperSend2Light();
+  /// outline style
+  _FinancialMoneyPaperSend2Outline get outline => const _FinancialMoneyPaperSend2Outline();
+}
+
+/// Money paper send — outline style variants.
+class _FinancialMoneyPaperSend2Outline {
+  const _FinancialMoneyPaperSend2Outline();
+
+  /// Money paper send — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper send',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.40612 6.40005C4.00582 6.83001 3.75 7.47386 3.75 8.30075V15.6992C3.75 16.5261 4.00582 17.1699 4.40618 17.5999C4.80092 18.0238 5.39141 18.3002 6.18941 18.3002H13.3116C13.7258 18.3002 14.0616 18.6359 14.0616 19.0502C14.0616 19.4644 13.7258 19.8002 13.3116 19.8002H6.18941C5.02103 19.8002 4.01681 19.3828 3.30844 18.6221C2.6057 17.8675 2.25 16.8358 2.25 15.6992V8.30075C2.25 7.16418 2.60569 6.13257 3.30826 5.37794C4.01646 4.61725 5.02043 4.19983 6.18843 4.19983H17.8116C18.9771 4.19983 19.9807 4.61756 20.6892 5.37757C21.3923 6.13175 21.75 7.16324 21.75 8.30075V10.2992C21.75 10.7134 21.4142 11.0492 21 11.0492C20.5858 11.0492 20.25 10.7134 20.25 10.2992V8.30075C20.25 7.4748 19.9933 6.83082 19.592 6.40041C19.1962 5.97583 18.6056 5.69983 17.8116 5.69983H6.18843C5.39103 5.69983 4.80078 5.97614 4.40612 6.40005Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2783 13.8593C18.5712 13.5664 19.046 13.5664 19.3389 13.8593L21.4756 15.996C21.6162 16.1366 21.6953 16.3274 21.6952 16.5264C21.6952 16.7253 21.6162 16.9161 21.4755 17.0567L19.3388 19.1924C19.0458 19.4853 18.571 19.4851 18.2781 19.1922C17.9853 18.8992 17.9854 18.4243 18.2784 18.1315L19.8845 16.5262L18.2783 14.92C17.9854 14.6271 17.9854 14.1522 18.2783 13.8593Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9444 17.2754L15.8946 17.2757C15.4804 17.2757 15.1446 16.9399 15.1445 16.5257C15.1445 16.1115 15.4803 15.7757 15.8945 15.7757L20.9444 15.7754C21.3586 15.7754 21.6944 16.1111 21.6944 16.5253C21.6944 16.9396 21.3587 17.2754 20.9444 17.2754Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.46289 8.45117C5.46289 8.03696 5.79868 7.70117 6.21289 7.70117H7.61592C8.03013 7.70117 8.36592 8.03696 8.36592 8.45117C8.36592 8.86539 8.03013 9.20117 7.61592 9.20117H6.21289C5.79868 9.20117 5.46289 8.86539 5.46289 8.45117Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0003 10.4639C11.1514 10.4639 10.4629 11.1519 10.4629 12.0013C10.4629 12.8508 11.1514 13.5388 12.0003 13.5388C12.8504 13.5388 13.5388 12.8506 13.5388 12.0013C13.5388 11.1521 12.8504 10.4639 12.0003 10.4639ZM8.96289 12.0013C8.96289 10.323 10.3234 8.96387 12.0003 8.96387C13.678 8.96387 15.0388 10.3228 15.0388 12.0013C15.0388 13.6798 13.678 15.0388 12.0003 15.0388C10.3234 15.0388 8.96289 13.6796 8.96289 12.0013Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper send — light style variants.
+class _FinancialMoneyPaperSend2Light {
+  const _FinancialMoneyPaperSend2Light();
+
+  /// Money paper send — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper send',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.3116 19.0502H6.18941C4.22303 19.0502 3 17.6627 3 15.6992V8.30075C3 6.33729 4.22303 4.94983 6.18843 4.94983H17.8116C19.7711 4.94983 21 6.33729 21 8.30075V10.2992" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.8086 14.3896L20.9452 16.5263L18.8086 18.662" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9444 16.5254L15.8945 16.5257" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.21289 8.45117H7.61592" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.71289 12.0013C9.71289 10.7374 10.7374 9.71387 12.0003 9.71387C13.2642 9.71387 14.2888 10.7374 14.2888 12.0013C14.2888 13.2652 13.2642 14.2888 12.0003 14.2888C10.7374 14.2888 9.71289 13.2652 9.71289 12.0013Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper download icon with style variants.
+class _FinancialMoneyPaperDownload2Icon {
+  const _FinancialMoneyPaperDownload2Icon();
+
+  /// light style
+  _FinancialMoneyPaperDownload2Light get light => const _FinancialMoneyPaperDownload2Light();
+  /// outline style
+  _FinancialMoneyPaperDownload2Outline get outline => const _FinancialMoneyPaperDownload2Outline();
+}
+
+/// Money paper download — outline style variants.
+class _FinancialMoneyPaperDownload2Outline {
+  const _FinancialMoneyPaperDownload2Outline();
+
+  /// Money paper download — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper download',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.89484 10.871C4.52757 11.2653 4.29004 11.8588 4.29004 12.6267V17.8505C4.29004 18.6179 4.52752 19.2114 4.89495 19.6059C5.25678 19.9943 5.79963 20.25 6.53871 20.25H17.4631C18.2016 20.25 18.7439 19.9944 19.1053 19.6061C19.4725 19.2116 19.7098 18.6181 19.7098 17.8505V12.6267C19.7098 11.8596 19.4716 11.266 19.1036 10.8713C18.741 10.4823 18.1983 10.2272 17.4631 10.2272H6.53773C5.79909 10.2272 5.2565 10.4827 4.89484 10.871ZM3.79719 9.84866C4.47246 9.12365 5.42872 8.72723 6.53773 8.72723H17.4631C18.5698 8.72723 19.5254 9.124 20.2007 9.8484C20.8706 10.567 21.2098 11.5481 21.2098 12.6267V17.8505C21.2098 18.9277 20.8726 19.9089 20.2033 20.628C19.5284 21.3532 18.5723 21.75 17.4631 21.75H6.53871C5.42915 21.75 4.47268 21.3533 3.79732 20.6282C3.12758 19.9092 2.79004 18.9279 2.79004 17.8505V12.6267C2.79004 11.5489 3.12753 10.5676 3.79719 9.84866Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.32123 4.61609C9.61413 4.3232 10.089 4.3232 10.3819 4.61609L11.8598 6.09395L13.3376 4.61609C13.6305 4.3232 14.1054 4.3232 14.3983 4.61609C14.6912 4.90899 14.6912 5.38386 14.3983 5.67675L12.3901 7.68494C12.2494 7.8256 12.0587 7.90461 11.8598 7.90461C11.6608 7.90461 11.4701 7.8256 11.3294 7.68495L9.32123 5.67675C9.02834 5.38386 9.02834 4.90899 9.32123 4.61609Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8593 2.25C12.2735 2.24995 12.6093 2.58569 12.6094 2.99991L12.6099 7.1545C12.6099 7.56872 12.2742 7.90455 11.86 7.9046C11.4458 7.90465 11.1099 7.5689 11.1099 7.15469L11.1094 3.00009C11.1093 2.58588 11.4451 2.25005 11.8593 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.8125 12.0703C5.8125 11.6561 6.14829 11.3203 6.5625 11.3203H7.88086C8.29508 11.3203 8.63086 11.6561 8.63086 12.0703C8.63086 12.4845 8.29508 12.8203 7.88086 12.8203H6.5625C6.14829 12.8203 5.8125 12.4845 5.8125 12.0703Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3711 18.4072C15.3711 17.993 15.7069 17.6572 16.1211 17.6572H17.4395C17.8537 17.6572 18.1895 17.993 18.1895 18.4072C18.1895 18.8214 17.8537 19.1572 17.4395 19.1572H16.1211C15.7069 19.1572 15.3711 18.8214 15.3711 18.4072Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper download — light style variants.
+class _FinancialMoneyPaperDownload2Light {
+  const _FinancialMoneyPaperDownload2Light();
+
+  /// Money paper download — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper download',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.4641 9.47754H6.53871C4.69106 9.47754 3.54102 10.7813 3.54102 12.627V17.8508C3.54102 19.6956 4.69106 21.0003 6.53968 21.0003H17.4641C19.3117 21.0003 20.4608 19.6956 20.4608 17.8508V12.627C20.4608 10.7813 19.3059 9.47754 17.4641 9.47754Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.85156 5.14642L11.8598 7.15461L13.8679 5.14642" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8599 7.1546L11.8594 3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.5625 12.0703H7.88086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4395 18.4072H16.1211" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.85156 15.2391C9.85156 14.0511 10.8148 13.0889 12.0018 13.0889C13.1898 13.0889 14.153 14.0511 14.153 15.2391C14.153 16.4271 13.1898 17.3894 12.0018 17.3894C10.8148 17.3894 9.85156 16.4271 9.85156 15.2391Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper circle icon with style variants.
+class _FinancialMoneyPaperCircle1Icon {
+  const _FinancialMoneyPaperCircle1Icon();
+
+  /// light style
+  _FinancialMoneyPaperCircle1Light get light => const _FinancialMoneyPaperCircle1Light();
+  /// outline style
+  _FinancialMoneyPaperCircle1Outline get outline => const _FinancialMoneyPaperCircle1Outline();
+}
+
+/// Money paper circle — outline style variants.
+class _FinancialMoneyPaperCircle1Outline {
+  const _FinancialMoneyPaperCircle1Outline();
+
+  /// Money paper circle — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper circle',
+    svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.3125 3.91849C4.02061 3.15673 5.02417 2.73761 6.1904 2.73761H17.8116C18.9803 2.73761 19.9844 3.1564 20.6924 3.91873C21.3947 4.67484 21.7501 5.70816 21.7501 6.84638V11.2555C21.7501 11.6697 21.4143 12.0055 21.0001 12.0055C20.5859 12.0055 20.2501 11.6697 20.2501 11.2555V6.84638C20.2501 6.01695 19.994 5.37088 19.5933 4.93952C19.1985 4.51438 18.6084 4.23761 17.8116 4.23761H6.1904C5.39706 4.23761 4.80688 4.51404 4.41115 4.93976C4.00979 5.37152 3.75293 6.01773 3.75293 6.84638V14.2634C3.75293 15.0935 4.00893 15.7396 4.40924 16.1707C4.80375 16.5956 5.3935 16.8722 6.1904 16.8722H10.8107C11.2249 16.8722 11.5607 17.2079 11.5607 17.6222C11.5607 18.0364 11.2249 18.3722 10.8107 18.3722H6.1904C5.02189 18.3722 4.01791 17.9537 3.31003 17.1913C2.60796 16.4352 2.25293 15.4019 2.25293 14.2634V6.84638C2.25293 5.70738 2.61002 4.6742 3.3125 3.91849Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.88769 14.5874C5.16938 13.8664 4.1358 13.6551 3.23247 13.9497C2.83867 14.0781 2.41533 13.863 2.28691 13.4692C2.1585 13.0754 2.37364 12.652 2.76744 12.5236C4.18555 12.0612 5.81585 12.3902 6.95007 13.5285C8.12963 14.7102 8.43382 16.4202 7.8975 17.8803C7.75467 18.2691 7.3237 18.4685 6.93489 18.3257C6.54608 18.1829 6.34666 17.7519 6.48948 17.3631C6.83462 16.4235 6.63492 15.3358 5.88824 14.588L5.88769 14.5874Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.91493 2.78363C7.30141 2.63462 7.73551 2.82713 7.88452 3.21361C8.44882 4.67722 8.12515 6.39752 6.95339 7.58305L6.951 7.58547L6.951 7.58546C5.81594 8.72351 4.18677 9.05272 2.76762 8.59034C2.37378 8.46202 2.15854 8.03873 2.28685 7.6449C2.41517 7.25106 2.83846 7.03581 3.2323 7.16413C4.1361 7.4586 5.16834 7.24777 5.88772 6.52742C6.63954 5.76584 6.83895 4.6714 6.48494 3.75322C6.33593 3.36674 6.52844 2.93264 6.91493 2.78363Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0833 2.78363C17.4698 2.93264 17.6623 3.36674 17.5133 3.75322C17.1593 4.67138 17.3588 5.76498 18.118 6.5262C18.838 7.24805 19.8542 7.45896 20.7675 7.16362C21.1616 7.03617 21.5844 7.25235 21.7119 7.64647C21.8393 8.04059 21.6232 8.4634 21.229 8.59085C19.8014 9.05252 18.1905 8.72299 17.056 7.58546C15.8731 6.39952 15.5492 4.67772 16.1137 3.21361C16.2627 2.82713 16.6968 2.63462 17.0833 2.78363Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.96484 10.5542C8.96484 8.87563 10.3233 7.51074 12.0023 7.51074C13.6813 7.51074 15.0398 8.87563 15.0398 10.5542C15.0398 10.9684 14.704 11.3042 14.2898 11.3042C13.8756 11.3042 13.5398 10.9684 13.5398 10.5542C13.5398 9.70034 12.8492 9.01074 12.0023 9.01074C11.1555 9.01074 10.4648 9.70034 10.4648 10.5542C10.4648 11.4081 11.1555 12.0977 12.0023 12.0977C12.4165 12.0977 12.7523 12.4335 12.7523 12.8477C12.7523 13.2619 12.4165 13.5977 12.0023 13.5977C10.3233 13.5977 8.96484 12.2328 8.96484 10.5542Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.25 17.0698C13.25 14.7199 15.1516 12.8105 17.5 12.8105C19.8484 12.8105 21.75 14.7199 21.75 17.0698C21.75 19.4196 19.8484 21.329 17.5 21.329C15.1516 21.329 13.25 19.4196 13.25 17.0698ZM17.5 14.3105C15.9837 14.3105 14.75 15.5447 14.75 17.0698C14.75 18.5949 15.9837 19.829 17.5 19.829C19.0163 19.829 20.25 18.5949 20.25 17.0698C20.25 15.5447 19.0163 14.3105 17.5 14.3105Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5 15.7354C17.9142 15.7354 18.25 16.0711 18.25 16.4854V17.6551C18.25 18.0693 17.9142 18.4051 17.5 18.4051C17.0858 18.4051 16.75 18.0693 16.75 17.6551V16.4854C16.75 16.0711 17.0858 15.7354 17.5 15.7354Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper circle — light style variants.
+class _FinancialMoneyPaperCircle1Light {
+  const _FinancialMoneyPaperCircle1Light();
+
+  /// Money paper circle — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper circle',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.8107 17.576H6.1904C4.22499 17.576 3.00293 16.1895 3.00293 14.226V6.82847C3.00293 4.86598 4.23083 3.47852 6.1904 3.47852H17.8116C19.777 3.47852 21.0001 4.86598 21.0001 6.82847V11.226" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 13.2019C4.16076 12.8244 5.49277 13.0939 6.41904 14.0212C7.38229 14.9834 7.63429 16.3787 7.19353 17.5755" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.18477 3.47424C7.64402 4.66225 7.38229 6.06625 6.42001 7.03728C5.49277 7.96453 4.16173 8.23405 3 7.85653" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.8135 3.47424C16.3543 4.66225 16.616 6.06625 17.587 7.03728C18.5143 7.96453 19.8278 8.23405 20.9983 7.85653" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2898 10.5265C14.2898 9.26362 13.2652 8.23907 12.0023 8.23907C10.7394 8.23907 9.71484 9.26362 9.71484 10.5265C9.71484 11.7895 10.7394 12.814 12.0023 12.814" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5 13.525C19.4324 13.525 21 15.0926 21 17.025C21 18.9573 19.4324 20.525 17.5 20.525C15.5676 20.525 14 18.9573 14 17.025C14 15.0926 15.5676 13.525 17.5 13.525Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5 16.4421V17.6087" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Financial',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -6589,19 +8214,59 @@ class _FinancialCoins2Light {
 
 }
 
-/// Coins 1 icon with style variants.
-class _FinancialCoins1Icon {
-  const _FinancialCoins1Icon();
+/// Coin to card swap icon with style variants.
+class _FinancialCoinToCardSwap3Icon {
+  const _FinancialCoinToCardSwap3Icon();
 
   /// light style
-  _FinancialCoins1Light get light => const _FinancialCoins1Light();
+  _FinancialCoinToCardSwap3Light get light => const _FinancialCoinToCardSwap3Light();
   /// outline style
-  _FinancialCoins1Outline get outline => const _FinancialCoins1Outline();
+  _FinancialCoinToCardSwap3Outline get outline => const _FinancialCoinToCardSwap3Outline();
+}
+
+/// Coin to card swap — outline style variants.
+class _FinancialCoinToCardSwap3Outline {
+  const _FinancialCoinToCardSwap3Outline();
+
+  /// Coin to card swap — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coin to card swap',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.01909 12.8304C3.53972 12.2718 4.27207 11.9724 5.10423 11.9724H10.4483C11.2819 11.9724 12.0146 12.2715 12.5352 12.8307C13.0501 13.3839 13.3015 14.1305 13.3015 14.9331V18.4293C13.3015 19.2315 13.05 19.978 12.5353 20.5312C12.0148 21.0905 11.2821 21.39 10.4483 21.39H5.10423C4.2704 21.39 3.53768 21.0905 3.01723 20.5312C2.50245 19.978 2.25098 19.2315 2.25098 18.4293V14.9331C2.25098 14.1296 2.5039 13.3831 3.01909 12.8304ZM4.11633 13.8531C3.90315 14.0818 3.75098 14.4407 3.75098 14.9331V18.4293C3.75098 18.922 3.90268 19.2808 4.1153 19.5093C4.32225 19.7317 4.64116 19.89 5.10423 19.89H10.4483C10.9113 19.89 11.2302 19.7317 11.4372 19.5093C11.6498 19.2808 11.8015 18.922 11.8015 18.4293V14.9331C11.8015 14.4398 11.6497 14.081 11.4373 13.8528C11.2304 13.6306 10.9116 13.4724 10.4483 13.4724H5.10423C4.64333 13.4724 4.32405 13.6303 4.11633 13.8531Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 15.5332C2.25 15.119 2.58579 14.7832 3 14.7832H12.5515C12.9657 14.7832 13.3015 15.119 13.3015 15.5332C13.3015 15.9474 12.9657 16.2832 12.5515 16.2832H3C2.58579 16.2832 2.25 15.9474 2.25 15.5332Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6504 7.16081C12.6504 4.6479 14.6884 2.61133 17.2008 2.61133C19.7135 2.61133 21.7503 4.64814 21.7503 7.16081C21.7503 9.67347 19.7135 11.7103 17.2008 11.7103C14.6884 11.7103 12.6504 9.67372 12.6504 7.16081ZM17.2008 4.11133C15.5163 4.11133 14.1504 5.47682 14.1504 7.16081C14.1504 8.8448 15.5163 10.2103 17.2008 10.2103C18.8851 10.2103 20.2503 8.84505 20.2503 7.16081C20.2503 5.47657 18.8851 4.11133 17.2008 4.11133Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9994 14.7783C21.4137 14.7783 21.7494 15.1141 21.7494 15.5283C21.7494 18.7648 19.1251 21.3891 15.8887 21.3891C15.6431 21.3891 15.4131 21.2689 15.2729 21.0672C15.1327 20.8656 15.1001 20.6081 15.1856 20.3779L15.7923 18.745C15.9366 18.3567 16.3683 18.1589 16.7566 18.3032C17.1449 18.4474 17.3427 18.8791 17.1984 19.2674L17.0228 19.7401C18.8811 19.2408 20.2494 17.5441 20.2494 15.5283C20.2494 15.1141 20.5852 14.7783 20.9994 14.7783Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.97666 4.25934C5.11834 4.75865 3.75 6.45536 3.75 8.47112C3.75 8.88534 3.41421 9.22112 3 9.22112C2.58579 9.22112 2.25 8.88534 2.25 8.47112C2.25 5.23466 4.87431 2.61035 8.11077 2.61035C8.35635 2.61035 8.58638 2.73058 8.72657 2.93222C8.86676 3.13386 8.89935 3.39136 8.81381 3.62156L8.20713 5.25444C8.06286 5.64272 7.63115 5.84053 7.24287 5.69627C6.85459 5.552 6.65678 5.12029 6.80104 4.73201L6.97666 4.25934Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coin to card swap — light style variants.
+class _FinancialCoinToCardSwap3Light {
+  const _FinancialCoinToCardSwap3Light();
+
+  /// Coin to card swap — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Coin to card swap',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.4483 12.7224H5.10423C3.81117 12.7224 3.00098 13.6372 3.00098 14.9331V18.4293C3.00098 19.7242 3.80733 20.64 5.10423 20.64H10.4483C11.7452 20.64 12.5515 19.7242 12.5515 18.4293V14.9331C12.5515 13.6372 11.7452 12.7224 10.4483 12.7224Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 15.5332H12.5515" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0003 7.16081C21.0003 5.06236 19.2993 3.36133 17.2008 3.36133C15.1024 3.36133 13.4004 5.06236 13.4004 7.16081C13.4004 9.25926 15.1024 10.9603 17.2008 10.9603C19.2993 10.9603 21.0003 9.25926 21.0003 7.16081Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9994 15.5283C20.9994 18.3506 18.7109 20.6391 15.8887 20.6391L16.4954 19.0062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 8.47112C3 5.64887 5.28852 3.36035 8.11077 3.36035L7.50408 4.99323" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coins 1 icon with style variants.
+class _FinancialCoins11Icon {
+  const _FinancialCoins11Icon();
+
+  /// light style
+  _FinancialCoins11Light get light => const _FinancialCoins11Light();
+  /// outline style
+  _FinancialCoins11Outline get outline => const _FinancialCoins11Outline();
 }
 
 /// Coins 1 — outline style variants.
-class _FinancialCoins1Outline {
-  const _FinancialCoins1Outline();
+class _FinancialCoins11Outline {
+  const _FinancialCoins11Outline();
 
   /// Coins 1 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -6615,8 +8280,8 @@ class _FinancialCoins1Outline {
 }
 
 /// Coins 1 — light style variants.
-class _FinancialCoins1Light {
-  const _FinancialCoins1Light();
+class _FinancialCoins11Light {
+  const _FinancialCoins11Light();
 
   /// Coins 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -6629,19 +8294,59 @@ class _FinancialCoins1Light {
 
 }
 
-/// Coin swap 2 icon with style variants.
-class _FinancialCoinSwap2Icon {
-  const _FinancialCoinSwap2Icon();
+/// Money paper icon with style variants.
+class _FinancialMoneyPaper7Icon {
+  const _FinancialMoneyPaper7Icon();
 
   /// light style
-  _FinancialCoinSwap2Light get light => const _FinancialCoinSwap2Light();
+  _FinancialMoneyPaper7Light get light => const _FinancialMoneyPaper7Light();
   /// outline style
-  _FinancialCoinSwap2Outline get outline => const _FinancialCoinSwap2Outline();
+  _FinancialMoneyPaper7Outline get outline => const _FinancialMoneyPaper7Outline();
+}
+
+/// Money paper — outline style variants.
+class _FinancialMoneyPaper7Outline {
+  const _FinancialMoneyPaper7Outline();
+
+  /// Money paper — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.17468 4.92191C3.79578 4.25563 4.67312 3.89288 5.68348 3.89288H15.4687C16.4814 3.89288 17.3594 4.25523 17.9805 4.9222C18.5959 5.58311 18.9032 6.48221 18.9032 7.46355V13.6916C18.9032 14.6729 18.5959 15.5722 17.9804 16.2334C17.3593 16.9006 16.481 17.2632 15.4678 17.2632H5.68348C4.67098 17.2632 3.79322 16.9004 3.1724 16.2332C2.55725 15.5721 2.25 14.6729 2.25 13.6916V7.46355C2.25 6.48128 2.55903 5.58235 3.17468 4.92191ZM4.2719 5.94471C3.95811 6.28133 3.75 6.79273 3.75 7.46355V13.6916C3.75 14.3634 3.95746 14.875 4.27053 15.2114C4.57793 15.5418 5.04192 15.7632 5.68348 15.7632H15.4678C16.1106 15.7632 16.575 15.5416 16.8826 15.2113C17.1958 14.8749 17.4032 14.3634 17.4032 13.6916V7.46355C17.4032 6.79181 17.1958 6.28057 16.8827 5.94442C16.5754 5.61432 16.1111 5.39288 15.4687 5.39288H5.68348C5.04464 5.39288 4.58024 5.61393 4.2719 5.94471Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4 7.48535C17.4 7.07114 17.7358 6.73535 18.15 6.73535H18.3203C19.3321 6.73535 20.2089 7.0992 20.8288 7.76658C21.4429 8.42775 21.7499 9.32667 21.7499 10.307V16.535C21.7499 17.5158 21.4429 18.4152 20.8268 19.0766C20.2051 19.7441 19.3258 20.1067 18.3106 20.1067H8.53404C7.51882 20.1067 6.63937 19.7441 6.01741 19.0768C5.40108 18.4154 5.09375 17.516 5.09375 16.535C5.09375 16.1208 5.42954 15.785 5.84375 15.785C6.25796 15.785 6.59375 16.1208 6.59375 16.535C6.59375 17.2062 6.80113 17.7176 7.11473 18.0541C7.42269 18.3845 7.88838 18.6067 8.53404 18.6067H18.3106C18.9562 18.6067 19.4216 18.3845 19.7292 18.0542C20.0426 17.7178 20.2499 17.2064 20.2499 16.535V10.307C20.2499 9.63618 20.0426 9.12427 19.7297 8.78741C19.4226 8.45675 18.9596 8.23535 18.3203 8.23535H18.15C17.7358 8.23535 17.4 7.89957 17.4 7.48535Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.95703 13.5655C4.95703 13.1513 5.29282 12.8155 5.70703 12.8155H6.88823C7.30244 12.8155 7.63823 13.1513 7.63823 13.5655C7.63823 13.9797 7.30244 14.3155 6.88823 14.3155H5.70703C5.29282 14.3155 4.95703 13.9797 4.95703 13.5655Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.90234 10.5777C7.90234 9.09976 9.10044 7.90216 10.5788 7.90216C12.0565 7.90216 13.2544 9.10001 13.2544 10.5777C13.2544 12.0554 12.0565 13.2532 10.5788 13.2532C9.10044 13.2532 7.90234 12.0556 7.90234 10.5777ZM10.5788 9.40216C9.92837 9.40216 9.40234 9.92868 9.40234 10.5777C9.40234 11.2267 9.92837 11.7532 10.5788 11.7532C11.2281 11.7532 11.7544 11.2269 11.7544 10.5777C11.7544 9.92843 11.2281 9.40216 10.5788 9.40216Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5176 7.58984C13.5176 7.17563 13.8534 6.83984 14.2676 6.83984H15.4488C15.863 6.83984 16.1988 7.17563 16.1988 7.58984C16.1988 8.00406 15.863 8.33984 15.4488 8.33984H14.2676C13.8534 8.33984 13.5176 8.00406 13.5176 7.58984Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper — light style variants.
+class _FinancialMoneyPaper7Light {
+  const _FinancialMoneyPaper7Light();
+
+  /// Money paper — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.68348 4.64288H15.4687C17.1238 4.64288 18.1532 5.81046 18.1532 7.46355V13.6916C18.1532 15.3447 17.1238 16.5132 15.4678 16.5132H5.68348C4.02941 16.5132 3 15.3447 3 13.6916V7.46355C3 5.81046 4.03428 4.64288 5.68348 4.64288Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.15 7.48535H18.3203C19.9714 7.48535 20.9999 8.65585 20.9999 10.307V16.535C20.9999 18.1872 19.9714 19.3567 18.3106 19.3567H8.53404C6.87316 19.3567 5.84375 18.1872 5.84375 16.535" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.70703 13.5655H6.88823" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5044 10.5777C12.5044 9.51422 11.6423 8.65216 10.5788 8.65216C9.5144 8.65216 8.65234 9.51422 8.65234 10.5777C8.65234 11.6412 9.5144 12.5032 10.5788 12.5032C11.6423 12.5032 12.5044 11.6412 12.5044 10.5777Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4488 7.58984H14.2676" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coin swap 2 icon with style variants.
+class _FinancialCoinSwap21Icon {
+  const _FinancialCoinSwap21Icon();
+
+  /// light style
+  _FinancialCoinSwap21Light get light => const _FinancialCoinSwap21Light();
+  /// outline style
+  _FinancialCoinSwap21Outline get outline => const _FinancialCoinSwap21Outline();
 }
 
 /// Coin swap 2 — outline style variants.
-class _FinancialCoinSwap2Outline {
-  const _FinancialCoinSwap2Outline();
+class _FinancialCoinSwap21Outline {
+  const _FinancialCoinSwap21Outline();
 
   /// Coin swap 2 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -6655,8 +8360,8 @@ class _FinancialCoinSwap2Outline {
 }
 
 /// Coin swap 2 — light style variants.
-class _FinancialCoinSwap2Light {
-  const _FinancialCoinSwap2Light();
+class _FinancialCoinSwap21Light {
+  const _FinancialCoinSwap21Light();
 
   /// Coin swap 2 — light / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -6670,18 +8375,18 @@ class _FinancialCoinSwap2Light {
 }
 
 /// Money paper 2 icon with style variants.
-class _FinancialMoneyPaper2Icon {
-  const _FinancialMoneyPaper2Icon();
+class _FinancialMoneyPaper21Icon {
+  const _FinancialMoneyPaper21Icon();
 
   /// light style
-  _FinancialMoneyPaper2Light get light => const _FinancialMoneyPaper2Light();
+  _FinancialMoneyPaper21Light get light => const _FinancialMoneyPaper21Light();
   /// outline style
-  _FinancialMoneyPaper2Outline get outline => const _FinancialMoneyPaper2Outline();
+  _FinancialMoneyPaper21Outline get outline => const _FinancialMoneyPaper21Outline();
 }
 
 /// Money paper 2 — outline style variants.
-class _FinancialMoneyPaper2Outline {
-  const _FinancialMoneyPaper2Outline();
+class _FinancialMoneyPaper21Outline {
+  const _FinancialMoneyPaper21Outline();
 
   /// Money paper 2 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -6695,8 +8400,8 @@ class _FinancialMoneyPaper2Outline {
 }
 
 /// Money paper 2 — light style variants.
-class _FinancialMoneyPaper2Light {
-  const _FinancialMoneyPaper2Light();
+class _FinancialMoneyPaper21Light {
+  const _FinancialMoneyPaper21Light();
 
   /// Money paper 2 — light / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -6709,19 +8414,59 @@ class _FinancialMoneyPaper2Light {
 
 }
 
-/// Money paper 3 icon with style variants.
-class _FinancialMoneyPaper3Icon {
-  const _FinancialMoneyPaper3Icon();
+/// Money Bag icon with style variants.
+class _FinancialMoneyBag1Icon {
+  const _FinancialMoneyBag1Icon();
 
   /// light style
-  _FinancialMoneyPaper3Light get light => const _FinancialMoneyPaper3Light();
+  _FinancialMoneyBag1Light get light => const _FinancialMoneyBag1Light();
   /// outline style
-  _FinancialMoneyPaper3Outline get outline => const _FinancialMoneyPaper3Outline();
+  _FinancialMoneyBag1Outline get outline => const _FinancialMoneyBag1Outline();
+}
+
+/// Money Bag — outline style variants.
+class _FinancialMoneyBag1Outline {
+  const _FinancialMoneyBag1Outline();
+
+  /// Money Bag — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money Bag',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.94105 3.26149C8.25818 2.24149 9.76496 1.95514 11.3614 2.57552C12.5974 3.05609 13.7642 3.38345 14.9804 3.31489C15.1509 3.3049 15.6062 3.25203 16.0508 3.19679C16.2664 3.17 16.4698 3.14391 16.6194 3.12451L16.7979 3.10121L16.8628 3.09265L16.8638 3.09252C17.1322 3.05686 17.399 3.16868 17.5618 3.38507C17.7247 3.60147 17.7582 3.88882 17.6495 4.13687L16.0037 7.89477C16.0797 8.01334 16.156 8.13221 16.2325 8.25136C16.8105 9.1517 17.3989 10.0684 17.9528 10.9902C17.9528 10.9902 17.9527 10.9901 17.9528 10.9902C19.067 12.8441 20.3797 15.2635 19.3467 17.8397C19.3467 17.8397 19.3468 17.8397 19.3467 17.8397C18.7449 19.3411 17.5715 20.3135 16.2385 20.9065C14.9144 21.4955 13.3999 21.728 12.0113 21.7499C12.0034 21.75 11.9955 21.75 11.9876 21.7499C10.5995 21.728 9.0852 21.4955 7.76126 20.9065C6.42836 20.3135 5.25499 19.3411 4.65313 17.8397C3.6202 15.2636 4.93284 12.8441 6.04712 10.9902C6.56594 10.1267 7.11748 9.26999 7.66016 8.42705C7.76635 8.26211 7.87219 8.0977 7.97739 7.93387L6.21144 4.62925C6.04572 4.31914 6.11768 3.93555 6.38452 3.70658L6.38602 3.7053L6.3884 3.70326L6.39588 3.69692L6.42209 3.67493C6.44471 3.65607 6.47783 3.62872 6.5226 3.59236C6.61213 3.51966 6.74871 3.41059 6.94105 3.26149ZM7.82806 4.47183L9.50756 7.61467C9.63534 7.8538 9.62412 8.14328 9.4782 8.3718C9.28903 8.66805 9.09965 8.96221 8.91099 9.25525C8.3719 10.0926 7.83868 10.9209 7.33288 11.7627C6.17823 13.6838 5.32122 15.4755 6.04538 17.2815C6.46611 18.3311 7.2956 19.0576 8.371 19.536C9.45197 20.017 10.7468 20.2289 11.9995 20.2499C13.2527 20.2289 14.5477 20.017 15.6288 19.536C16.7043 19.0576 17.5337 18.3312 17.9545 17.2815C18.6786 15.4755 17.8217 13.6839 16.6671 11.7628C16.1258 10.862 15.5528 9.96935 14.9763 9.07117C14.8255 8.83633 14.6745 8.6011 14.5238 8.36523C14.3889 8.15423 14.3683 7.88984 14.4687 7.66046L15.7458 4.74452C15.4694 4.77669 15.2122 4.80393 15.067 4.81239L15.0657 4.81246C13.5268 4.89941 12.1193 4.47956 10.8181 3.97366M7.82806 4.47183C7.83834 4.46384 7.84881 4.45571 7.85947 4.44745ZM7.85947 4.44745C8.79365 3.72412 9.75069 3.55891 10.8181 3.97366Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.11664 7.80949C8.20944 7.40581 8.61192 7.15379 9.01561 7.24659C11.0086 7.70473 12.9962 7.70473 14.9892 7.24659C15.3929 7.15379 15.7954 7.40581 15.8882 7.80949C15.981 8.21318 15.7289 8.61566 15.3253 8.70846C13.1111 9.21744 10.8937 9.21744 8.67955 8.70846C8.27587 8.61566 8.02384 8.21318 8.11664 7.80949Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money Bag — light style variants.
+class _FinancialMoneyBag1Light {
+  const _FinancialMoneyBag1Light();
+
+  /// Money Bag — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money Bag',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.6899 11.3764C7.37973 10.2283 8.12404 9.09873 8.84598 7.96815L6.87281 4.27576C6.87281 4.27576 7.02362 4.14635 7.40016 3.85446C8.52588 2.98269 9.75765 2.75696 11.0896 3.27458C12.3584 3.76787 13.6456 4.14149 15.0233 4.06365C15.4242 4.0403 16.9624 3.83598 16.9624 3.83598L15.1556 7.96134C15.8776 9.09095 16.6199 10.2283 17.3098 11.3764C18.4442 13.264 19.5291 15.3695 18.6505 17.5606C17.6279 20.1117 14.6448 20.9582 11.9993 21C9.35484 20.9582 6.37174 20.1117 5.34916 17.5606C4.47057 15.3695 5.55542 13.264 6.6899 11.3764Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.84766 7.97754C10.9512 8.4611 13.0538 8.4611 15.1573 7.97754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 3 icon with style variants.
+class _FinancialMoneyPaper31Icon {
+  const _FinancialMoneyPaper31Icon();
+
+  /// light style
+  _FinancialMoneyPaper31Light get light => const _FinancialMoneyPaper31Light();
+  /// outline style
+  _FinancialMoneyPaper31Outline get outline => const _FinancialMoneyPaper31Outline();
 }
 
 /// Money paper 3 — outline style variants.
-class _FinancialMoneyPaper3Outline {
-  const _FinancialMoneyPaper3Outline();
+class _FinancialMoneyPaper31Outline {
+  const _FinancialMoneyPaper31Outline();
 
   /// Money paper 3 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -6735,8 +8480,8 @@ class _FinancialMoneyPaper3Outline {
 }
 
 /// Money paper 3 — light style variants.
-class _FinancialMoneyPaper3Light {
-  const _FinancialMoneyPaper3Light();
+class _FinancialMoneyPaper31Light {
+  const _FinancialMoneyPaper31Light();
 
   /// Money paper 3 — light / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -6749,19 +8494,59 @@ class _FinancialMoneyPaper3Light {
 
 }
 
-/// Coin swap 3 icon with style variants.
-class _FinancialCoinSwap3Icon {
-  const _FinancialCoinSwap3Icon();
+/// Golds icon with style variants.
+class _FinancialGolds1Icon {
+  const _FinancialGolds1Icon();
 
   /// light style
-  _FinancialCoinSwap3Light get light => const _FinancialCoinSwap3Light();
+  _FinancialGolds1Light get light => const _FinancialGolds1Light();
   /// outline style
-  _FinancialCoinSwap3Outline get outline => const _FinancialCoinSwap3Outline();
+  _FinancialGolds1Outline get outline => const _FinancialGolds1Outline();
+}
+
+/// Golds — outline style variants.
+class _FinancialGolds1Outline {
+  const _FinancialGolds1Outline();
+
+  /// Golds — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Golds',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.38665 15.8183C4.38664 15.8184 4.38667 15.8182 4.38665 15.8183L3.75535 18.9991C3.7248 19.1542 3.84375 19.3001 4.00331 19.3001H9.66882C9.82822 19.3001 9.94671 19.1539 9.91603 19.0002L9.28548 15.8183C9.28547 15.8183 9.28549 15.8184 9.28548 15.8183C9.26195 15.7006 9.15858 15.6152 9.03738 15.6152H4.63378C4.51402 15.6152 4.4103 15.7002 4.38665 15.8183ZM2.91555 15.5253C3.0788 14.7056 3.79819 14.1152 4.63378 14.1152H9.03738C9.87351 14.1152 10.5932 14.7052 10.7566 15.5253L11.387 18.7065C11.387 18.7066 11.387 18.7064 11.387 18.7065C11.6032 19.7903 10.7722 20.8001 9.66882 20.8001H4.00331C2.89811 20.8001 2.0695 19.7901 2.28395 18.7076L2.91555 15.5253Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6796 15.8183C14.6796 15.8184 14.6796 15.8182 14.6796 15.8183L14.0483 18.9991C14.0178 19.1542 14.1367 19.3001 14.2963 19.3001H19.9618C20.1212 19.3001 20.2397 19.1539 20.209 19.0002L19.5784 15.8183C19.5784 15.8183 19.5785 15.8184 19.5784 15.8183C19.5549 15.7006 19.4515 15.6152 19.3303 15.6152H14.9268C14.807 15.6152 14.7033 15.7002 14.6796 15.8183ZM13.2085 15.5253C13.3718 14.7056 14.0912 14.1152 14.9268 14.1152H19.3303C20.1665 14.1152 20.8862 14.7052 21.0496 15.5253L21.68 18.7065C21.68 18.7066 21.6799 18.7064 21.68 18.7065C21.8962 19.7903 21.0652 20.8001 19.9618 20.8001H14.2963C13.1911 20.8001 12.3625 19.7901 12.5769 18.7076L13.2085 15.5253Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.15863 8.2148C9.15861 8.21488 9.15864 8.21472 9.15863 8.2148L8.52733 11.3956C8.49677 11.5506 8.61573 11.6966 8.77528 11.6966H14.4408C14.6002 11.6966 14.7187 11.5504 14.688 11.3967L14.0575 8.2148C14.0574 8.21475 14.0575 8.21485 14.0575 8.2148C14.0339 8.09705 13.9306 8.01172 13.8093 8.01172H9.40576C9.28599 8.01172 9.18227 8.09666 9.15863 8.2148ZM7.68752 7.9218C7.85077 7.10213 8.57016 6.51172 9.40576 6.51172H13.8093C14.6455 6.51172 15.3652 7.1017 15.5286 7.9218L16.159 11.103C16.159 11.1031 16.1589 11.1029 16.159 11.103C16.3752 12.1868 15.5442 13.1966 14.4408 13.1966H8.77528C7.67008 13.1966 6.84147 12.1866 7.05592 11.1041L7.68752 7.9218Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.83077 3.2002C5.15585 3.2002 5.44393 3.40963 5.5442 3.71886C5.72497 4.27633 6.16157 4.71294 6.71905 4.89371C7.02828 4.99398 7.23771 5.28205 7.23771 5.60714C7.23771 5.93222 7.02828 6.2203 6.71905 6.32057C6.16157 6.50133 5.72497 6.93794 5.5442 7.49541C5.44393 7.80465 5.15585 8.01408 4.83077 8.01408C4.50568 8.01408 4.21761 7.80465 4.11734 7.49541C3.93657 6.93794 3.49997 6.50133 2.94249 6.32057C2.63326 6.2203 2.42383 5.93222 2.42383 5.60714C2.42383 5.28205 2.63326 4.99398 2.94249 4.89371C3.49997 4.71294 3.93657 4.27633 4.11734 3.71886C4.21761 3.40963 4.50568 3.2002 4.83077 3.2002ZM4.62857 5.60714C4.69883 5.67161 4.7663 5.73907 4.83077 5.80934C4.89524 5.73907 4.96271 5.67161 5.03297 5.60714C4.96271 5.54266 4.89524 5.4752 4.83077 5.40494C4.7663 5.4752 4.69883 5.54266 4.62857 5.60714Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Golds — light style variants.
+class _FinancialGolds1Light {
+  const _FinancialGolds1Light();
+
+  /// Golds — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Golds',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.9977 20.0501H14.3322C13.6997 20.0501 13.2259 19.4722 13.3485 18.8534L13.98 15.6718C14.0734 15.2028 14.4849 14.8652 14.9626 14.8652H19.3662C19.8449 14.8652 20.2565 15.2028 20.3499 15.6718L20.9804 18.8534C21.1039 19.4722 20.6291 20.0501 19.9977 20.0501Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.66857 20.0501H4.00306C3.37064 20.0501 2.89681 19.4722 3.0194 18.8534L3.65085 15.6718C3.74425 15.2028 4.15581 14.8652 4.63353 14.8652H9.03713C9.51582 14.8652 9.92738 15.2028 10.0208 15.6718L10.6513 18.8534C10.7748 19.4722 10.3 20.0501 9.66857 20.0501Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4752 12.4476H8.8097C8.17728 12.4476 7.70345 11.8696 7.82604 11.2508L8.45749 8.06927C8.55089 7.60031 8.96245 7.2627 9.44018 7.2627H13.8438C14.3225 7.2627 14.734 7.60031 14.8274 8.06927L15.4579 11.2508C15.5815 11.8696 15.1067 12.4476 14.4752 12.4476Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.17383 5.60714C3.95998 5.86205 4.57586 6.47793 4.83077 7.26408C5.08568 6.47793 5.70156 5.86205 6.48771 5.60714C5.70156 5.35222 5.08568 4.73634 4.83077 3.9502C4.57586 4.73634 3.95998 5.35222 3.17383 5.60714Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Coin swap 3 icon with style variants.
+class _FinancialCoinSwap31Icon {
+  const _FinancialCoinSwap31Icon();
+
+  /// light style
+  _FinancialCoinSwap31Light get light => const _FinancialCoinSwap31Light();
+  /// outline style
+  _FinancialCoinSwap31Outline get outline => const _FinancialCoinSwap31Outline();
 }
 
 /// Coin swap 3 — outline style variants.
-class _FinancialCoinSwap3Outline {
-  const _FinancialCoinSwap3Outline();
+class _FinancialCoinSwap31Outline {
+  const _FinancialCoinSwap31Outline();
 
   /// Coin swap 3 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -6775,8 +8560,8 @@ class _FinancialCoinSwap3Outline {
 }
 
 /// Coin swap 3 — light style variants.
-class _FinancialCoinSwap3Light {
-  const _FinancialCoinSwap3Light();
+class _FinancialCoinSwap31Light {
+  const _FinancialCoinSwap31Light();
 
   /// Coin swap 3 — light / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -6789,19 +8574,82 @@ class _FinancialCoinSwap3Light {
 
 }
 
-/// Money paper 4 icon with style variants.
-class _FinancialMoneyPaper4Icon {
-  const _FinancialMoneyPaper4Icon();
+/// Money paper drop icon with style variants.
+class _FinancialMoneyPaperDrop1Icon {
+  const _FinancialMoneyPaperDrop1Icon();
+
+  /// outline style
+  _FinancialMoneyPaperDrop1Outline get outline => const _FinancialMoneyPaperDrop1Outline();
+}
+
+/// Money paper drop — outline style variants.
+class _FinancialMoneyPaperDrop1Outline {
+  const _FinancialMoneyPaperDrop1Outline();
+
+  /// Money paper drop — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money paper drop',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.69775 10.598C4.31712 11.0067 4.07227 11.6205 4.07227 12.4119V17.7695C4.07227 18.5614 4.31716 19.1751 4.69775 19.5836C5.07274 19.9861 5.63483 20.25 6.39808 20.25H17.6037C18.3658 20.25 18.9274 19.9863 19.3022 19.5837C19.6827 19.1751 19.9276 18.5614 19.9276 17.7695V12.4119C19.9276 11.6213 19.682 11.0074 19.3006 10.5982C18.9247 10.1949 18.3628 9.93134 17.6037 9.93134H6.3971C5.63462 9.93134 5.07275 10.1953 4.69775 10.598ZM3.6 9.57577C4.28854 8.83635 5.26409 8.43134 6.3971 8.43134H17.6037C18.7343 8.43134 19.7093 8.8367 20.3979 9.57552C21.0811 10.3085 21.4276 11.3098 21.4276 12.4119V17.7695C21.4276 18.8711 21.0828 19.8726 20.4 20.6059C19.7115 21.3453 18.7362 21.75 17.6037 21.75H6.39808C5.26485 21.75 4.28903 21.3454 3.60023 20.6061C2.91704 19.8727 2.57227 18.8711 2.57227 17.7695V12.4119C2.57227 11.3107 2.91708 10.3091 3.6 9.57577Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.67188 11.8418C5.67188 11.4276 6.00766 11.0918 6.42188 11.0918H7.77441C8.18863 11.0918 8.52441 11.4276 8.52441 11.8418C8.52441 12.256 8.18863 12.5918 7.77441 12.5918H6.42188C6.00766 12.5918 5.67188 12.256 5.67188 11.8418Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4746 18.3418C15.4746 17.9276 15.8104 17.5918 16.2246 17.5918H17.5771C17.9914 17.5918 18.3271 17.9276 18.3271 18.3418C18.3271 18.756 17.9914 19.0918 17.5771 19.0918H16.2246C15.8104 19.0918 15.4746 18.756 15.4746 18.3418Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9989 13.6357C11.1948 13.6357 10.543 14.2876 10.543 15.0916C10.543 15.8957 11.1948 16.5476 11.9989 16.5476C12.8029 16.5476 13.4548 15.8957 13.4548 15.0916C13.4548 14.2876 12.8029 13.6357 11.9989 13.6357ZM9.04297 15.0916C9.04297 13.4592 10.3664 12.1357 11.9989 12.1357C13.6313 12.1357 14.9548 13.4592 14.9548 15.0916C14.9548 16.7241 13.6313 18.0476 11.9989 18.0476C10.3664 18.0476 9.04297 16.7241 9.04297 15.0916Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.11719 4.0954C8.5314 4.0954 8.86719 4.43118 8.86719 4.8454V6.33708C8.86719 6.7513 8.5314 7.08708 8.11719 7.08708C7.70297 7.08708 7.36719 6.7513 7.36719 6.33708V4.8454C7.36719 4.43118 7.70297 4.0954 8.11719 4.0954Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8799 4.0954C16.2941 4.0954 16.6299 4.43118 16.6299 4.8454V6.33708C16.6299 6.7513 16.2941 7.08708 15.8799 7.08708C15.4657 7.08708 15.1299 6.7513 15.1299 6.33708V4.8454C15.1299 4.43118 15.4657 4.0954 15.8799 4.0954Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.998 2.25C12.4123 2.25 12.748 2.58579 12.748 3V6.33756C12.748 6.75177 12.4123 7.08756 11.998 7.08756C11.5838 7.08756 11.248 6.75177 11.248 6.33756V3C11.248 2.58579 11.5838 2.25 11.998 2.25Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money Bag Dollar icon with style variants.
+class _FinancialMoneyBagDollar1Icon {
+  const _FinancialMoneyBagDollar1Icon();
 
   /// light style
-  _FinancialMoneyPaper4Light get light => const _FinancialMoneyPaper4Light();
+  _FinancialMoneyBagDollar1Light get light => const _FinancialMoneyBagDollar1Light();
   /// outline style
-  _FinancialMoneyPaper4Outline get outline => const _FinancialMoneyPaper4Outline();
+  _FinancialMoneyBagDollar1Outline get outline => const _FinancialMoneyBagDollar1Outline();
+}
+
+/// Money Bag Dollar — outline style variants.
+class _FinancialMoneyBagDollar1Outline {
+  const _FinancialMoneyBagDollar1Outline();
+
+  /// Money Bag Dollar — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money Bag Dollar',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.94105 3.26149C8.25818 2.24149 9.76496 1.95514 11.3614 2.57552C12.5974 3.05609 13.7642 3.38345 14.9804 3.31489C15.1509 3.3049 15.6062 3.25203 16.0508 3.19679C16.2664 3.17 16.4698 3.14391 16.6194 3.12451L16.7979 3.10121L16.8628 3.09265L16.8638 3.09252C17.1322 3.05686 17.399 3.16868 17.5618 3.38507C17.7247 3.60147 17.7582 3.88882 17.6495 4.13687L16.0037 7.89477C16.0797 8.01334 16.156 8.13221 16.2325 8.25136C16.8105 9.1517 17.3989 10.0684 17.9528 10.9902C17.9528 10.9902 17.9527 10.9901 17.9528 10.9902C19.067 12.8441 20.3797 15.2635 19.3467 17.8397C19.3467 17.8397 19.3468 17.8397 19.3467 17.8397C18.7449 19.3411 17.5715 20.3135 16.2385 20.9065C14.9144 21.4955 13.3999 21.728 12.0113 21.7499C12.0034 21.75 11.9955 21.75 11.9876 21.7499C10.5995 21.728 9.0852 21.4955 7.76126 20.9065C6.42836 20.3135 5.25499 19.3411 4.65313 17.8397C3.6202 15.2636 4.93284 12.8441 6.04712 10.9902C6.56594 10.1267 7.11748 9.26999 7.66016 8.42705C7.76635 8.26211 7.87219 8.0977 7.97739 7.93387L6.21144 4.62925C6.04572 4.31914 6.11768 3.93555 6.38452 3.70658L6.38602 3.7053L6.3884 3.70326L6.39588 3.69692L6.42209 3.67493C6.44471 3.65607 6.47783 3.62872 6.5226 3.59236C6.61213 3.51966 6.74871 3.41059 6.94105 3.26149ZM7.82806 4.47183L9.50756 7.61467C9.63534 7.8538 9.62412 8.14328 9.4782 8.3718C9.28903 8.66805 9.09965 8.96221 8.91099 9.25525C8.3719 10.0926 7.83868 10.9209 7.33288 11.7627C6.17823 13.6838 5.32122 15.4755 6.04538 17.2815C6.46611 18.3311 7.2956 19.0576 8.371 19.536C9.45197 20.017 10.7468 20.2289 11.9995 20.2499C13.2527 20.2289 14.5477 20.017 15.6288 19.536C16.7043 19.0576 17.5337 18.3312 17.9545 17.2815C18.6786 15.4755 17.8217 13.6839 16.6671 11.7628C16.1258 10.862 15.5528 9.96935 14.9763 9.07117C14.8255 8.83633 14.6745 8.6011 14.5238 8.36523C14.3889 8.15423 14.3683 7.88984 14.4687 7.66046L15.7458 4.74452C15.4694 4.77669 15.2122 4.80393 15.067 4.81239L15.0657 4.81246C13.5268 4.89941 12.1193 4.47956 10.8181 3.97366M7.82806 4.47183C7.83834 4.46384 7.84881 4.45571 7.85947 4.44745ZM7.85947 4.44745C8.79365 3.72412 9.75069 3.55891 10.8181 3.97366Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.57617 13.3979C9.57617 12.3951 10.3887 11.5825 11.3916 11.5825H13.3706C13.7848 11.5825 14.1206 11.9183 14.1206 12.3325C14.1206 12.7467 13.7848 13.0825 13.3706 13.0825H11.3916C11.2171 13.0825 11.0762 13.2235 11.0762 13.3979C11.0762 13.5732 11.218 13.7143 11.3916 13.7143H12.6097C13.6126 13.7143 14.4251 14.5268 14.4251 15.5297C14.4251 16.5325 13.6126 17.3451 12.6097 17.3451H10.6307C10.2165 17.3451 9.88071 17.0093 9.88071 16.5951C9.88071 16.1809 10.2165 15.8451 10.6307 15.8451H12.6097C12.7841 15.8451 12.9251 15.7041 12.9251 15.5297C12.9251 15.3552 12.7841 15.2143 12.6097 15.2143H11.3916C10.3878 15.2143 9.57617 14.3999 9.57617 13.3979Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 10.6826C12.4142 10.6826 12.75 11.0184 12.75 11.4326V12.3355C12.75 12.7497 12.4142 13.0855 12 13.0855C11.5858 13.0855 11.25 12.7497 11.25 12.3355V11.4326C11.25 11.0184 11.5858 10.6826 12 10.6826ZM12 15.8449C12.4142 15.8449 12.75 16.1807 12.75 16.5949V17.49C12.75 17.9043 12.4142 18.24 12 18.24C11.5858 18.24 11.25 17.9043 11.25 17.49V16.5949C11.25 16.1807 11.5858 15.8449 12 15.8449Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.11469 7.80949C8.20749 7.40581 8.60997 7.15379 9.01365 7.24659C11.0066 7.70473 12.9943 7.70473 14.9873 7.24659C15.3909 7.15379 15.7934 7.40581 15.8862 7.80949C15.979 8.21318 15.727 8.61566 15.3233 8.70846C13.1092 9.21744 10.8917 9.21744 8.6776 8.70846C8.27391 8.61566 8.02189 8.21318 8.11469 7.80949Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money Bag Dollar — light style variants.
+class _FinancialMoneyBagDollar1Light {
+  const _FinancialMoneyBagDollar1Light();
+
+  /// Money Bag Dollar — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Money Bag Dollar',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.6899 11.3764C7.37973 10.2283 8.12404 9.09873 8.84598 7.96815L6.87281 4.27576C6.87281 4.27576 7.02362 4.14635 7.40016 3.85446C8.52588 2.98269 9.75765 2.75696 11.0896 3.27458C12.3584 3.76787 13.6456 4.14149 15.0233 4.06365C15.4242 4.0403 16.9624 3.83598 16.9624 3.83598L15.1556 7.96134C15.8776 9.09095 16.6199 10.2283 17.3098 11.3764C18.4442 13.264 19.5291 15.3695 18.6505 17.5606C17.6279 20.1117 14.6448 20.9582 11.9993 21C9.35484 20.9582 6.37174 20.1117 5.34916 17.5606C4.47057 15.3695 5.55542 13.264 6.6899 11.3764Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.3706 12.3325H11.3916C10.8029 12.3325 10.3262 12.8093 10.3262 13.3979C10.3262 13.9866 10.8029 14.4643 11.3916 14.4643H12.6097C13.1984 14.4643 13.6751 14.941 13.6751 15.5297C13.6751 16.1183 13.1984 16.5951 12.6097 16.5951H10.6307" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 16.5949V17.49M12 11.4326V12.3355" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.8457 7.97754C10.9492 8.4611 13.0518 8.4611 15.1554 7.97754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 4 icon with style variants.
+class _FinancialMoneyPaper41Icon {
+  const _FinancialMoneyPaper41Icon();
+
+  /// light style
+  _FinancialMoneyPaper41Light get light => const _FinancialMoneyPaper41Light();
+  /// outline style
+  _FinancialMoneyPaper41Outline get outline => const _FinancialMoneyPaper41Outline();
 }
 
 /// Money paper 4 — outline style variants.
-class _FinancialMoneyPaper4Outline {
-  const _FinancialMoneyPaper4Outline();
+class _FinancialMoneyPaper41Outline {
+  const _FinancialMoneyPaper41Outline();
 
   /// Money paper 4 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -6815,8 +8663,8 @@ class _FinancialMoneyPaper4Outline {
 }
 
 /// Money paper 4 — light style variants.
-class _FinancialMoneyPaper4Light {
-  const _FinancialMoneyPaper4Light();
+class _FinancialMoneyPaper41Light {
+  const _FinancialMoneyPaper41Light();
 
   /// Money paper 4 — light / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -6829,19 +8677,59 @@ class _FinancialMoneyPaper4Light {
 
 }
 
-/// Money paper 5 icon with style variants.
-class _FinancialMoneyPaper5Icon {
-  const _FinancialMoneyPaper5Icon();
+/// Dollar square icon with style variants.
+class _FinancialDollarSquare3Icon {
+  const _FinancialDollarSquare3Icon();
 
   /// light style
-  _FinancialMoneyPaper5Light get light => const _FinancialMoneyPaper5Light();
+  _FinancialDollarSquare3Light get light => const _FinancialDollarSquare3Light();
   /// outline style
-  _FinancialMoneyPaper5Outline get outline => const _FinancialMoneyPaper5Outline();
+  _FinancialDollarSquare3Outline get outline => const _FinancialDollarSquare3Outline();
+}
+
+/// Dollar square — outline style variants.
+class _FinancialDollarSquare3Outline {
+  const _FinancialDollarSquare3Outline();
+
+  /// Dollar square — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar square',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.73997 3.89765C4.7244 2.84134 6.12644 2.25 7.78221 2.25H16.2168C17.876 2.25 19.2786 2.84105 20.2627 3.8979C21.2411 4.94871 21.75 6.3992 21.75 8.02655V15.9744C21.75 17.6018 21.2411 19.0521 20.2625 20.1027C19.2782 21.1593 17.8754 21.75 16.2158 21.75H7.78221C6.12264 21.75 4.72019 21.1593 3.73641 20.1025C2.75827 19.0519 2.25 17.6016 2.25 15.9744V8.02655C2.25 6.39847 2.76102 4.9481 3.73997 3.89765ZM4.83732 4.92031C4.16014 5.64695 3.75 6.70986 3.75 8.02655V15.9744C3.75 17.2921 4.15849 18.3545 4.83429 19.0805C5.50444 19.8003 6.49309 20.25 7.78221 20.25H16.2158C17.505 20.25 18.4942 19.8003 19.1649 19.0803C19.8411 18.3543 20.25 17.2918 20.25 15.9744V8.02655C20.25 6.70913 19.8411 5.64634 19.1649 4.92007C18.4943 4.19984 17.5053 3.75 16.2168 3.75H7.78221C6.49809 3.75 5.50903 4.19955 4.83732 4.92031Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.59961 10.4955C8.59961 9.17691 9.66968 8.10742 10.9886 8.10742H13.2962C14.4598 8.10742 15.4018 9.05183 15.4018 10.214C15.4018 10.6282 15.066 10.964 14.6518 10.964C14.2376 10.964 13.9018 10.6282 13.9018 10.214C13.9018 9.87885 13.6299 9.60742 13.2962 9.60742H10.9886C10.4977 9.60742 10.0998 10.0057 10.0996 10.4951C10.1004 10.9865 10.4981 11.3835 10.9886 11.3835H13.0782C14.3623 11.3835 15.4028 12.424 15.4028 13.708C15.4028 14.9921 14.3623 16.0326 13.0782 16.0326H10.7072C9.54296 16.0326 8.60059 15.0885 8.60059 13.926C8.60059 13.5118 8.93637 13.176 9.35059 13.176C9.7648 13.176 10.1006 13.5118 10.1006 13.926C10.1006 14.2608 10.3721 14.5326 10.7072 14.5326H13.0782C13.5339 14.5326 13.9028 14.1637 13.9028 13.708C13.9028 13.2524 13.5339 12.8835 13.0782 12.8835H10.9886C9.66924 12.8835 8.60103 11.8147 8.59961 10.4963L8.59961 10.4955Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 6.96777C12.4142 6.96777 12.75 7.30356 12.75 7.71777V16.2824C12.75 16.6966 12.4142 17.0324 12 17.0324C11.5858 17.0324 11.25 16.6966 11.25 16.2824V7.71777C11.25 7.30356 11.5858 6.96777 12 6.96777Z" fill="black"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dollar square — light style variants.
+class _FinancialDollarSquare3Light {
+  const _FinancialDollarSquare3Light();
+
+  /// Dollar square — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dollar square',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78221 3H16.2168C19.1645 3 21 5.08177 21 8.02655V15.9744C21 18.9192 19.1645 21 16.2158 21H7.78221C4.83352 21 3 18.9192 3 15.9744V8.02655C3 5.08177 4.84232 3 7.78221 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6518 10.214C14.6518 9.46534 14.0448 8.85742 13.2962 8.85742H10.9886C10.0836 8.85742 9.34961 9.59142 9.34961 10.4955C9.35059 11.4005 10.0836 12.1335 10.9886 12.1335H13.0782C13.9481 12.1335 14.6528 12.8382 14.6528 13.708C14.6528 14.5779 13.9481 15.2826 13.0782 15.2826H10.7072C9.95753 15.2826 9.35059 14.6747 9.35059 13.926" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 7.71777V16.2824" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Financial',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Money paper 5 icon with style variants.
+class _FinancialMoneyPaper51Icon {
+  const _FinancialMoneyPaper51Icon();
+
+  /// light style
+  _FinancialMoneyPaper51Light get light => const _FinancialMoneyPaper51Light();
+  /// outline style
+  _FinancialMoneyPaper51Outline get outline => const _FinancialMoneyPaper51Outline();
 }
 
 /// Money paper 5 — outline style variants.
-class _FinancialMoneyPaper5Outline {
-  const _FinancialMoneyPaper5Outline();
+class _FinancialMoneyPaper51Outline {
+  const _FinancialMoneyPaper51Outline();
 
   /// Money paper 5 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -6855,8 +8743,8 @@ class _FinancialMoneyPaper5Outline {
 }
 
 /// Money paper 5 — light style variants.
-class _FinancialMoneyPaper5Light {
-  const _FinancialMoneyPaper5Light();
+class _FinancialMoneyPaper51Light {
+  const _FinancialMoneyPaper51Light();
 
   /// Money paper 5 — light / regular
   IconfyIconData get regular => const IconfyIconData(

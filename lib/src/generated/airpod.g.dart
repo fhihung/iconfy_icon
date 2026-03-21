@@ -18,6 +18,14 @@ class _AirpodIcons {
   _AirpodLeftAirpodProIcon get leftAirpodPro => const _AirpodLeftAirpodProIcon();
   /// Airpod case
   _AirpodAirpodCaseIcon get airpodCase => const _AirpodAirpodCaseIcon();
+  /// Airpod case 1
+  _AirpodAirpodCase1Icon get airpodCase1 => const _AirpodAirpodCase1Icon();
+  /// Airpod case 2
+  _AirpodAirpodCase2Icon get airpodCase2 => const _AirpodAirpodCase2Icon();
+  /// Airpod case 3
+  _AirpodAirpodCase3Icon get airpodCase3 => const _AirpodAirpodCase3Icon();
+  /// Airpod case 4
+  _AirpodAirpodCase4Icon get airpodCase4 => const _AirpodAirpodCase4Icon();
   /// Airpod
   _AirpodAirpodIcon get airpod => const _AirpodAirpodIcon();
   /// Airpod pro
@@ -26,6 +34,8 @@ class _AirpodIcons {
   _AirpodLeftAirpodIcon get leftAirpod => const _AirpodLeftAirpodIcon();
   /// Airpod pro case
   _AirpodAirpodProCaseIcon get airpodProCase => const _AirpodAirpodProCaseIcon();
+  /// Airpod pro case 1
+  _AirpodAirpodProCase1Icon get airpodProCase1 => const _AirpodAirpodProCase1Icon();
   /// Airpods Charge
   _AirpodAirpodsChargeIcon get airpodsCharge => const _AirpodAirpodsChargeIcon();
   /// Airpods low battery
@@ -36,24 +46,44 @@ class _AirpodIcons {
   _AirpodRightAirpodIcon get rightAirpod => const _AirpodRightAirpodIcon();
   /// Airpods full battery
   _AirpodAirpodsFullBatteryIcon get airpodsFullBattery => const _AirpodAirpodsFullBatteryIcon();
+  /// Airpods low battery
+  _AirpodAirpodsLowBattery1Icon get airpodsLowBattery1 => const _AirpodAirpodsLowBattery1Icon();
+  /// Left airpod
+  _AirpodLeftAirpod1Icon get leftAirpod1 => const _AirpodLeftAirpod1Icon();
   /// Airpod case 1
-  _AirpodAirpodCase1Icon get airpodCase1 => const _AirpodAirpodCase1Icon();
+  _AirpodAirpodCase11Icon get airpodCase11 => const _AirpodAirpodCase11Icon();
+  /// Airpods connected
+  _AirpodAirpodsConnected1Icon get airpodsConnected1 => const _AirpodAirpodsConnected1Icon();
+  /// Right airpod
+  _AirpodRightAirpod1Icon get rightAirpod1 => const _AirpodRightAirpod1Icon();
   /// Airpod pro case 2
   _AirpodAirpodProCase2Icon get airpodProCase2 => const _AirpodAirpodProCase2Icon();
+  /// Left airpod pro
+  _AirpodLeftAirpodPro1Icon get leftAirpodPro1 => const _AirpodLeftAirpodPro1Icon();
   /// Airpod 1
   _AirpodAirpod1Icon get airpod1 => const _AirpodAirpod1Icon();
   /// Airpod case 4
-  _AirpodAirpodCase4Icon get airpodCase4 => const _AirpodAirpodCase4Icon();
+  _AirpodAirpodCase41Icon get airpodCase41 => const _AirpodAirpodCase41Icon();
   /// Airpod case 5
   _AirpodAirpodCase5Icon get airpodCase5 => const _AirpodAirpodCase5Icon();
+  /// Airpod music
+  _AirpodAirpodMusic1Icon get airpodMusic1 => const _AirpodAirpodMusic1Icon();
+  /// Airpods Charge
+  _AirpodAirpodsCharge1Icon get airpodsCharge1 => const _AirpodAirpodsCharge1Icon();
   /// Airpod pro case 1
-  _AirpodAirpodProCase1Icon get airpodProCase1 => const _AirpodAirpodProCase1Icon();
+  _AirpodAirpodProCase11Icon get airpodProCase11 => const _AirpodAirpodProCase11Icon();
   /// Airpod pro 1
   _AirpodAirpodPro1Icon get airpodPro1 => const _AirpodAirpodPro1Icon();
   /// Airpod case 2
-  _AirpodAirpodCase2Icon get airpodCase2 => const _AirpodAirpodCase2Icon();
+  _AirpodAirpodCase21Icon get airpodCase21 => const _AirpodAirpodCase21Icon();
+  /// Right airpod pro
+  _AirpodRightAirpodPro1Icon get rightAirpodPro1 => const _AirpodRightAirpodPro1Icon();
+  /// Airpods disconnected
+  _AirpodAirpodsDisconnected1Icon get airpodsDisconnected1 => const _AirpodAirpodsDisconnected1Icon();
   /// Airpod case 3
-  _AirpodAirpodCase3Icon get airpodCase3 => const _AirpodAirpodCase3Icon();
+  _AirpodAirpodCase31Icon get airpodCase31 => const _AirpodAirpodCase31Icon();
+  /// Airpods full battery
+  _AirpodAirpodsFullBattery1Icon get airpodsFullBattery1 => const _AirpodAirpodsFullBattery1Icon();
 }
 
 /// Right airpod pro icon with style variants.
@@ -64,12 +94,8 @@ class _AirpodRightAirpodProIcon {
   _AirpodRightAirpodProBold get bold => const _AirpodRightAirpodProBold();
   /// bulk style
   _AirpodRightAirpodProBulk get bulk => const _AirpodRightAirpodProBulk();
-  /// light style
-  _AirpodRightAirpodProLight get light => const _AirpodRightAirpodProLight();
   /// outline style
   _AirpodRightAirpodProOutline get outline => const _AirpodRightAirpodProOutline();
-  /// twoTone style
-  _AirpodRightAirpodProTwotone get twoTone => const _AirpodRightAirpodProTwotone();
   /// broken style
   _AirpodRightAirpodProBroken get broken => const _AirpodRightAirpodProBroken();
 }
@@ -99,21 +125,6 @@ class _AirpodRightAirpodProBroken {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.041 8.52442V10.844C15.041 11.533 15.579 12.097 16.265 12.16C17.748 12.296 18.716 11.599 19.195 11.121C19.432 10.885 19.552 10.556 19.552 10.221V5.97396C19.552 5.60696 19.4 5.26296 19.134 5.00996C18.636 4.53596 17.688 3.89996 16.265 4.03096C15.579 4.09396 15.041 4.65696 15.041 5.34696V6.1265" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2645 7.4541H9.35449" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3026 11.641C14.2096 12.606 12.6856 13.199 10.9876 13.199C10.8256 13.199 10.6626 13.199 10.4996 13.176L11.9456 18.063C12.2446 19.291 11.5886 20.586 10.3476 20.921C9.20858 21.228 8.02759 20.622 7.61059 19.518C6.95194 17.7744 6.10991 15.3099 5.56055 12.7868" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.00998 8.931C4.80898 5.458 7.674 3 10.988 3C12.686 3 14.21 3.605 15.303 4.57" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Airpod',
     style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Right airpod pro — twoTone style variants.
-class _AirpodRightAirpodProTwotone {
-  const _AirpodRightAirpodProTwotone();
-
-  /// Right airpod pro — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Right airpod pro',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.1338 5.00996C18.6358 4.53596 17.6877 3.89996 16.2647 4.03096C15.5787 4.09396 15.0407 4.65696 15.0407 5.34696V10.844C15.0407 11.533 15.5787 12.097 16.2647 12.16C17.7477 12.296 18.7158 11.599 19.1948 11.121C19.4318 10.885 19.5518 10.556 19.5518 10.221V5.97396C19.5518 5.60696 19.3998 5.26296 19.1338 5.00996Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M11.2646 7.4541H9.35464" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.3027 11.641C14.2097 12.606 12.6857 13.199 10.9877 13.199C10.8257 13.199 10.6627 13.199 10.4997 13.176L11.9457 18.063C12.2447 19.291 11.5887 20.586 10.3477 20.921C9.20872 21.228 8.02772 20.622 7.61072 19.518C6.61272 16.876 5.1937 12.579 5.0097 8.931C4.8087 5.458 7.67373 3 10.9877 3C12.6857 3 14.2097 3.605 15.3027 4.57" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -149,21 +160,6 @@ class _AirpodRightAirpodProBold {
 
 }
 
-/// Right airpod pro — light style variants.
-class _AirpodRightAirpodProLight {
-  const _AirpodRightAirpodProLight();
-
-  /// Right airpod pro — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Right airpod pro',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.1338 5.00996C18.6358 4.53596 17.6877 3.89996 16.2647 4.03096C15.5787 4.09396 15.0407 4.65696 15.0407 5.34696V10.844C15.0407 11.533 15.5787 12.097 16.2647 12.16C17.7477 12.296 18.7158 11.599 19.1948 11.121C19.4318 10.885 19.5518 10.556 19.5518 10.221V5.97396C19.5518 5.60696 19.3998 5.26296 19.1338 5.00996Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2646 7.4541H9.35464" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3027 11.641C14.2097 12.606 12.6857 13.199 10.9877 13.199C10.8257 13.199 10.6627 13.199 10.4997 13.176L11.9457 18.063C12.2447 19.291 11.5887 20.586 10.3477 20.921C9.20872 21.228 8.02772 20.622 7.61072 19.518C6.61272 16.876 5.1937 12.579 5.0097 8.931C4.8087 5.458 7.67373 3 10.9877 3C12.6857 3 14.2097 3.605 15.3027 4.57" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.light,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Airpods disconnected icon with style variants.
 class _AirpodAirpodsDisconnectedIcon {
   const _AirpodAirpodsDisconnectedIcon();
@@ -172,12 +168,8 @@ class _AirpodAirpodsDisconnectedIcon {
   _AirpodAirpodsDisconnectedBold get bold => const _AirpodAirpodsDisconnectedBold();
   /// bulk style
   _AirpodAirpodsDisconnectedBulk get bulk => const _AirpodAirpodsDisconnectedBulk();
-  /// light style
-  _AirpodAirpodsDisconnectedLight get light => const _AirpodAirpodsDisconnectedLight();
   /// outline style
   _AirpodAirpodsDisconnectedOutline get outline => const _AirpodAirpodsDisconnectedOutline();
-  /// twoTone style
-  _AirpodAirpodsDisconnectedTwotone get twoTone => const _AirpodAirpodsDisconnectedTwotone();
   /// broken style
   _AirpodAirpodsDisconnectedBroken get broken => const _AirpodAirpodsDisconnectedBroken();
 }
@@ -207,21 +199,6 @@ class _AirpodAirpodsDisconnectedBroken {
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.789 15.4559V18.9516C10.789 19.7222 10.164 20.3468 9.39301 20.3468C8.62301 20.3468 7.99699 19.7222 7.99699 18.9516V13.4309H6.99001C5.73001 13.4309 4.573 12.8286 3.862 11.8926C3.619 11.5725 3.5 11.1745 3.5 10.7727V8.6769C3.5 8.27409 3.62101 7.87515 3.86301 7.55504C4.50101 6.71244 5.49299 6.15395 6.60899 6.09849C8.73099 6.00022 10.789 7.83819 10.789 9.96029V12.2081" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.05664 9.17139V10.3935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5117 17.9351L17.5697 16.8765M17.5697 16.8765L18.6277 15.8179M17.5697 16.8765L18.6277 17.9351M17.5697 16.8765L16.5117 15.8179" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5706 20.8062C15.3996 20.8062 13.6406 19.047 13.6406 16.8763C13.6406 14.7056 15.3996 12.9465 17.5706 12.9465C19.7416 12.9465 21.5006 14.7056 21.5006 16.8763C21.5006 17.8305 21.1608 18.7052 20.5954 19.3858" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0293 11.4891V6.86553C14.0293 4.74443 16.0873 2.9055 18.2093 3.00377C19.3253 3.0602 20.3163 3.61772 20.9553 4.46032C21.1983 4.7814 21.3173 5.17935 21.3173 5.58217V7.67796C21.3173 8.0798 21.1993 8.47775 20.9563 8.79786C20.2453 9.73387 19.0873 10.3362 17.8273 10.3362H16.8203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7627 6.07666V7.29872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Airpod',
     style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Airpods disconnected — twoTone style variants.
-class _AirpodAirpodsDisconnectedTwotone {
-  const _AirpodAirpodsDisconnectedTwotone();
-
-  /// Airpods disconnected — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Airpods disconnected',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3.362 11.8926C3.119 11.5725 3 11.1745 3 10.7727V8.67689C3 8.27408 3.12101 7.87515 3.36301 7.55504C4.00101 6.71244 4.99299 6.15395 6.10899 6.09849C8.23099 6.00022 10.289 7.83818 10.289 9.96028V18.9516C10.289 19.7222 9.66401 20.3468 8.89301 20.3468C8.12301 20.3468 7.49699 19.7222 7.49699 18.9516V13.4309H6.49001C5.23001 13.4309 4.073 12.8286 3.362 11.8926Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.55664 9.17139V10.3935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0117 17.9351L18.1277 15.8179M18.1277 17.9351L16.0117 15.8179" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0706 20.8062C19.2416 20.8062 21.0006 19.047 21.0006 16.8763C21.0006 14.7056 19.2416 12.9465 17.0706 12.9465C14.8996 12.9465 13.1406 14.7056 13.1406 16.8763C13.1406 19.047 14.8996 20.8062 17.0706 20.8062Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.5293 11.4891V6.86553C13.5293 4.74443 15.5873 2.9055 17.7093 3.00377C18.8253 3.0602 19.8163 3.61772 20.4553 4.46032C20.6983 4.7814 20.8173 5.17935 20.8173 5.58217V7.67796C20.8173 8.0798 20.6993 8.47775 20.4563 8.79786C19.7453 9.73387 18.5873 10.3362 17.3273 10.3362H16.3203V10.6845" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.2627 6.07666V7.29872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -257,21 +234,6 @@ class _AirpodAirpodsDisconnectedBold {
 
 }
 
-/// Airpods disconnected — light style variants.
-class _AirpodAirpodsDisconnectedLight {
-  const _AirpodAirpodsDisconnectedLight();
-
-  /// Airpods disconnected — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Airpods disconnected',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.362 11.8926C3.119 11.5725 3 11.1745 3 10.7727V8.6769C3 8.27409 3.12101 7.87515 3.36301 7.55504C4.00101 6.71244 4.99299 6.15395 6.10899 6.09849C8.23099 6.00022 10.289 7.83819 10.289 9.96029V18.9516C10.289 19.7222 9.66401 20.3468 8.89301 20.3468C8.12301 20.3468 7.49699 19.7222 7.49699 18.9516V13.4309H6.49001C5.23001 13.4309 4.073 12.8286 3.362 11.8926Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.55664 9.17139V10.3935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0117 17.9351L18.1277 15.8179M18.1277 17.9351L16.0117 15.8179" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0706 20.8062C19.2416 20.8062 21.0006 19.047 21.0006 16.8763C21.0006 14.7056 19.2416 12.9465 17.0706 12.9465C14.8996 12.9465 13.1406 14.7056 13.1406 16.8763C13.1406 19.047 14.8996 20.8062 17.0706 20.8062Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5293 11.4891V6.86553C13.5293 4.74443 15.5873 2.9055 17.7093 3.00377C18.8253 3.0602 19.8163 3.61772 20.4553 4.46032C20.6983 4.7814 20.8173 5.17935 20.8173 5.58217V7.67796C20.8173 8.0798 20.6993 8.47775 20.4563 8.79786C19.7453 9.73387 18.5873 10.3362 17.3273 10.3362H16.3203V10.6845" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2627 6.07666V7.29872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.light,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Airpods connected icon with style variants.
 class _AirpodAirpodsConnectedIcon {
   const _AirpodAirpodsConnectedIcon();
@@ -280,12 +242,8 @@ class _AirpodAirpodsConnectedIcon {
   _AirpodAirpodsConnectedBold get bold => const _AirpodAirpodsConnectedBold();
   /// bulk style
   _AirpodAirpodsConnectedBulk get bulk => const _AirpodAirpodsConnectedBulk();
-  /// light style
-  _AirpodAirpodsConnectedLight get light => const _AirpodAirpodsConnectedLight();
   /// outline style
   _AirpodAirpodsConnectedOutline get outline => const _AirpodAirpodsConnectedOutline();
-  /// twoTone style
-  _AirpodAirpodsConnectedTwotone get twoTone => const _AirpodAirpodsConnectedTwotone();
   /// broken style
   _AirpodAirpodsConnectedBroken get broken => const _AirpodAirpodsConnectedBroken();
 }
@@ -315,21 +273,6 @@ class _AirpodAirpodsConnectedBroken {
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.7886 15.4559V18.9516C10.7886 19.7222 10.1639 20.3468 9.3933 20.3468C8.6227 20.3468 7.9971 19.7222 7.9971 18.9516V13.4309H6.9901C5.7301 13.4309 4.5732 12.8286 3.8619 11.8926C3.6187 11.5725 3.5 11.1745 3.5 10.7727V8.6769C3.5 8.27409 3.6206 7.87515 3.8629 7.55504C4.5012 6.71244 5.4927 6.15395 6.6087 6.09849C8.7307 6.00022 10.7886 7.83819 10.7886 9.96029V12.2081" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.05664 9.17139V10.3935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0293 11.4891V6.86553C14.0293 4.74443 16.0872 2.9055 18.2093 3.00377C19.3253 3.0602 20.3167 3.61772 20.955 4.46032C21.1983 4.7814 21.3179 5.17935 21.3179 5.58217V7.67796C21.3179 8.0798 21.1992 8.47775 20.956 8.79786C20.2457 9.73387 19.0879 10.3362 17.8279 10.3362H16.8208" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7607 6.07666V7.29872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.5003 16.8763C21.5003 14.7056 19.7412 12.9465 17.5704 12.9465C15.3997 12.9465 13.6406 14.7056 13.6406 16.8763C13.6406 19.047 15.3997 20.8062 17.5704 20.8062C18.7895 20.8062 19.8787 20.2515 20.5994 19.3806" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0605 16.8244L16.9916 17.7566L18.9094 15.8378" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Airpod',
     style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Airpods connected — twoTone style variants.
-class _AirpodAirpodsConnectedTwotone {
-  const _AirpodAirpodsConnectedTwotone();
-
-  /// Airpods connected — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Airpods connected',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3.3619 11.8926C3.1187 11.5725 3 11.1745 3 10.7727V8.67689C3 8.27408 3.1206 7.87515 3.3629 7.55504C4.0012 6.71244 4.9927 6.15395 6.1087 6.09849C8.2307 6.00022 10.2886 7.83818 10.2886 9.96028V18.9516C10.2886 19.7222 9.6639 20.3468 8.8933 20.3468C8.1227 20.3468 7.4971 19.7222 7.4971 18.9516V13.4309H6.4901C5.2301 13.4309 4.0732 12.8286 3.3619 11.8926Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.55664 9.17139V10.3935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.5293 11.4891V6.86553C13.5293 4.74443 15.5872 2.9055 17.7093 3.00377C18.8253 3.0602 19.8167 3.61772 20.455 4.46032C20.6983 4.7814 20.8179 5.17935 20.8179 5.58217V7.67796C20.8179 8.0798 20.6992 8.47775 20.456 8.79786C19.7457 9.73387 18.5879 10.3362 17.3279 10.3362H16.3208V10.6845" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.2607 6.07666V7.29872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0704 20.8062C19.2412 20.8062 21.0003 19.047 21.0003 16.8763C21.0003 14.7056 19.2412 12.9465 17.0704 12.9465C14.8997 12.9465 13.1406 14.7056 13.1406 16.8763C13.1406 19.047 14.8997 20.8062 17.0704 20.8062Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.5605 16.8244L16.4916 17.7566L18.4094 15.8378" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -365,21 +308,6 @@ class _AirpodAirpodsConnectedBold {
 
 }
 
-/// Airpods connected — light style variants.
-class _AirpodAirpodsConnectedLight {
-  const _AirpodAirpodsConnectedLight();
-
-  /// Airpods connected — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Airpods connected',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.3619 11.8926C3.1187 11.5725 3 11.1745 3 10.7727V8.6769C3 8.27409 3.1206 7.87515 3.3629 7.55504C4.0012 6.71244 4.9927 6.15395 6.1087 6.09849C8.2307 6.00022 10.2886 7.83819 10.2886 9.96029V18.9516C10.2886 19.7222 9.6639 20.3468 8.8933 20.3468C8.1227 20.3468 7.4971 19.7222 7.4971 18.9516V13.4309H6.4901C5.2301 13.4309 4.0732 12.8286 3.3619 11.8926Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.55664 9.17139V10.3935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5293 11.4891V6.86553C13.5293 4.74443 15.5872 2.9055 17.7093 3.00377C18.8253 3.0602 19.8167 3.61772 20.455 4.46032C20.6983 4.7814 20.8179 5.17935 20.8179 5.58217V7.67796C20.8179 8.0798 20.6992 8.47775 20.456 8.79786C19.7457 9.73387 18.5879 10.3362 17.3279 10.3362H16.3208V10.6845" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2607 6.07666V7.29872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0704 20.8062C19.2412 20.8062 21.0003 19.047 21.0003 16.8763C21.0003 14.7056 19.2412 12.9465 17.0704 12.9465C14.8997 12.9465 13.1406 14.7056 13.1406 16.8763C13.1406 19.047 14.8997 20.8062 17.0704 20.8062Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.5605 16.8244L16.4916 17.7566L18.4094 15.8378" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.light,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Left airpod pro icon with style variants.
 class _AirpodLeftAirpodProIcon {
   const _AirpodLeftAirpodProIcon();
@@ -388,12 +316,8 @@ class _AirpodLeftAirpodProIcon {
   _AirpodLeftAirpodProBold get bold => const _AirpodLeftAirpodProBold();
   /// bulk style
   _AirpodLeftAirpodProBulk get bulk => const _AirpodLeftAirpodProBulk();
-  /// light style
-  _AirpodLeftAirpodProLight get light => const _AirpodLeftAirpodProLight();
   /// outline style
   _AirpodLeftAirpodProOutline get outline => const _AirpodLeftAirpodProOutline();
-  /// twoTone style
-  _AirpodLeftAirpodProTwotone get twoTone => const _AirpodLeftAirpodProTwotone();
   /// broken style
   _AirpodLeftAirpodProBroken get broken => const _AirpodLeftAirpodProBroken();
 }
@@ -423,21 +347,6 @@ class _AirpodLeftAirpodProBroken {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.51102 8.52455V10.8441C9.51102 11.5331 8.97302 12.0971 8.28702 12.1601C6.80402 12.2961 5.83599 11.5991 5.35699 11.1211C5.11999 10.8851 5 10.5561 5 10.2211V5.97408C5 5.60708 5.152 5.26309 5.418 5.01009C5.916 4.53609 6.86402 3.90008 8.28702 4.03108C8.97302 4.09408 9.51102 4.65708 9.51102 5.34708V6.12662" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.2871 7.4541H15.1971" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.24902 11.6411C10.342 12.6061 11.866 13.1991 13.564 13.1991C13.726 13.1991 13.889 13.1991 14.052 13.1761L12.606 18.0631C12.307 19.2911 12.963 20.5861 14.204 20.9211C15.343 21.2281 16.524 20.6221 16.941 19.5181C17.5997 17.7745 18.4417 15.31 18.9911 12.787" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.5421 8.931C19.7431 5.458 16.878 3 13.564 3C11.866 3 10.342 3.605 9.24902 4.57" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Airpod',
     style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Left airpod pro — twoTone style variants.
-class _AirpodLeftAirpodProTwotone {
-  const _AirpodLeftAirpodProTwotone();
-
-  /// Left airpod pro — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Left airpod pro',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.418 5.01C5.916 4.536 6.86402 3.9 8.28702 4.031C8.97302 4.094 9.51102 4.657 9.51102 5.347V10.844C9.51102 11.533 8.97302 12.097 8.28702 12.16C6.80402 12.296 5.83599 11.599 5.35699 11.121C5.11999 10.885 5 10.556 5 10.221V5.974C5 5.607 5.152 5.263 5.418 5.01Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.2871 7.4541H15.1971" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.24902 11.641C10.342 12.606 11.866 13.199 13.564 13.199C13.726 13.199 13.889 13.199 14.052 13.176L12.606 18.063C12.307 19.291 12.963 20.586 14.204 20.921C15.343 21.228 16.524 20.622 16.941 19.518C17.939 16.876 19.3581 12.579 19.5421 8.931C19.7431 5.458 16.878 3 13.564 3C11.866 3 10.342 3.605 9.24902 4.57" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -473,21 +382,6 @@ class _AirpodLeftAirpodProBold {
 
 }
 
-/// Left airpod pro — light style variants.
-class _AirpodLeftAirpodProLight {
-  const _AirpodLeftAirpodProLight();
-
-  /// Left airpod pro — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Left airpod pro',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.418 5.01001C5.916 4.53601 6.86402 3.9 8.28702 4.031C8.97302 4.094 9.51102 4.65701 9.51102 5.34701V10.844C9.51102 11.533 8.97302 12.097 8.28702 12.16C6.80402 12.296 5.83599 11.599 5.35699 11.121C5.11999 10.885 5 10.556 5 10.221V5.97401C5 5.60701 5.152 5.26301 5.418 5.01001Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.2871 7.4541H15.1971" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.24902 11.641C10.342 12.606 11.866 13.199 13.564 13.199C13.726 13.199 13.889 13.199 14.052 13.176L12.606 18.063C12.307 19.291 12.963 20.586 14.204 20.921C15.343 21.228 16.524 20.622 16.941 19.518C17.939 16.876 19.3581 12.579 19.5421 8.931C19.7431 5.458 16.878 3 13.564 3C11.866 3 10.342 3.605 9.24902 4.57" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.light,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Airpod case icon with style variants.
 class _AirpodAirpodCaseIcon {
   const _AirpodAirpodCaseIcon();
@@ -509,7 +403,7 @@ class _AirpodAirpodCaseBulk {
   /// Airpod case — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Airpod case',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.69873 7.3171C3.69873 4.65608 5.85596 2.5 8.51582 2.5H15.4842C18.1441 2.5 20.3013 4.65608 20.3013 7.3171V16.6819C20.3013 19.3428 18.1442 21.5 15.4842 21.5H8.51582C5.8558 21.5 3.69873 19.3428 3.69873 16.6819V7.3171Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.23584 8.16406C7.23584 7.74985 7.57163 7.41406 7.98584 7.41406H16.0128C16.4271 7.41406 16.7628 7.74985 16.7628 8.16406C16.7628 8.57828 16.4271 8.91406 16.0128 8.91406H7.98584C7.57163 8.91406 7.23584 8.57828 7.23584 8.16406ZM12.3653 11.3489C12.7292 11.5468 12.8638 12.0022 12.6659 12.3661L11.8724 13.8255H13.3886C13.6533 13.8255 13.8983 13.965 14.0335 14.1925C14.1686 14.42 14.1738 14.7019 14.0472 14.9343L12.65 17.499C12.4519 17.8628 11.9964 17.997 11.6326 17.7988C11.2689 17.6007 11.1347 17.1452 11.3328 16.7814L12.126 15.3255H10.6108C10.3463 15.3255 10.1013 15.1862 9.96617 14.9588C9.83099 14.7314 9.82558 14.4496 9.95195 14.2172L11.3482 11.6495C11.546 11.2856 12.0014 11.1511 12.3653 11.3489Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1454 9.19863H8.69643V8.15331H7.81365C6.70869 8.15331 5.69327 7.62448 5.06983 6.80419C4.85695 6.52288 4.7522 6.17403 4.7522 5.82171V3.9835C4.7522 3.63039 4.85779 3.28065 5.07068 2.99934C5.63076 2.26017 6.50003 1.77105 7.47912 1.72205C9.34015 1.63589 11.1454 3.24856 11.1454 5.10873V9.19863ZM7.04995 3.87899C7.38907 3.87899 7.66397 4.1539 7.66397 4.49301V5.50388C7.66397 5.84299 7.38907 6.1179 7.04995 6.1179C6.71084 6.1179 6.43594 5.84299 6.43594 5.50388V4.49301C6.43594 4.1539 6.71084 3.87899 7.04995 3.87899Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4534 5.10873V9.19863H15.9024V8.15331H16.7852C17.8902 8.15331 18.9056 7.62448 19.529 6.80419C19.7419 6.52288 19.8466 6.17403 19.8466 5.82171V3.9835C19.8466 3.63039 19.7411 3.28065 19.5282 2.99934C18.9681 2.26017 18.0988 1.77105 17.1197 1.72205C15.2587 1.63589 13.4534 3.24856 13.4534 5.10873ZM16.9349 4.49301C16.9349 4.1539 17.2098 3.87899 17.5489 3.87899C17.888 3.87899 18.1629 4.1539 18.1629 4.49301V5.50388C18.1629 5.84299 17.888 6.1179 17.5489 6.1179C17.2098 6.1179 16.9349 5.84299 16.9349 5.50388V4.49301Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M6.63995 9.78125C5.45779 9.78125 4.5 10.7397 4.5 11.9206V16.9363C4.5 19.457 6.54381 21.5003 9.06299 21.5003H15.621C18.1423 21.5003 20.184 19.4568 20.184 16.9363V11.9206C20.184 10.7399 19.2263 9.78125 18.045 9.78125H6.63995Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.3965 17.4046C11.3965 16.8826 11.8196 16.459 12.3421 16.459C12.864 16.459 13.2878 16.882 13.2878 17.4046C13.2878 17.9273 12.864 18.3503 12.3421 18.3503C11.8196 18.3503 11.3965 17.9267 11.3965 17.4046Z" fill="black"/> </svg>',
     category: 'Airpod',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -524,7 +418,7 @@ class _AirpodAirpodCaseBroken {
   /// Airpod case — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Airpod case',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.2855 21C17.6693 21 19.6026 19.0667 19.6026 16.6819V7.3171C19.6026 4.9323 17.6693 3 15.2855 3H8.31709C5.93329 3 4 4.9323 4 7.3171V16.6819C4 19.0667 5.93329 21 8.31709 21H11.8013" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.78711 8.16321H15.8141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.7927 17.14L13.1899 14.5753H10.4121L11.8083 12.0076" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.621 21C17.866 21 19.684 19.1806 19.684 16.936V11.9204C19.684 11.0156 18.95 10.281 18.045 10.281H6.63995C5.73395 10.281 5 11.0156 5 11.9204V16.936C5 19.1806 6.81999 21 9.06299 21H12.342" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1699 10.2823V5.80863C11.1699 4.27039 9.67594 2.93258 8.12994 3.00263C7.32094 3.04544 6.59989 3.44533 6.13989 4.06218C5.96689 4.29666 5.87891 4.58368 5.87891 4.87848V6.39921C5.87891 6.68526 5.96689 6.97228 6.13989 7.20676C6.65289 7.88491 7.4949 8.3276 8.4079 8.3276H9.13794V10.2823" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.5396 10.2823V8.3276H16.2786C17.1906 8.3276 18.0336 7.88491 18.5456 7.20676C18.7196 6.97228 18.8056 6.68526 18.8056 6.39921V4.87848C18.8056 4.58368 18.7196 4.29666 18.5456 4.06218C18.0846 3.44533 17.3636 3.04544 16.5476 3.00263C15.0096 2.93258 13.5156 4.27039 13.5156 5.80863V10.2823" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.3433 17.3935V17.4415M12.5378 17.4038C12.5378 17.5118 12.4501 17.5994 12.3421 17.5994C12.234 17.5994 12.1465 17.5118 12.1465 17.4038C12.1465 17.2957 12.234 17.2081 12.3421 17.2081C12.4501 17.2081 12.5378 17.2957 12.5378 17.4038Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Airpod',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -539,7 +433,7 @@ class _AirpodAirpodCaseOutline {
   /// Airpod case — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Airpod case',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.76532 3.75C6.79564 3.75 5.19824 5.34665 5.19824 7.31708V16.6819C5.19824 18.6526 6.79586 20.25 8.76532 20.25H15.7338C17.7032 20.25 19.3008 18.6526 19.3008 16.6819V7.31708C19.3008 5.34665 17.7034 3.75 15.7338 3.75H8.76532ZM3.69824 7.31708C3.69824 4.518 5.96744 2.25 8.76532 2.25H15.7338C18.5316 2.25 20.8008 4.518 20.8008 7.31708V16.6819C20.8008 19.4808 18.5319 21.75 15.7338 21.75H8.76532C5.96722 21.75 3.69824 19.4808 3.69824 16.6819V7.31708ZM7.48562 8.16322C7.48562 7.749 7.8214 7.41322 8.23562 7.41322H16.2626C16.6769 7.41322 17.0126 7.749 17.0126 8.16322C17.0126 8.57743 16.6769 8.91322 16.2626 8.91322H8.23562C7.8214 8.91322 7.48562 8.57743 7.48562 8.16322ZM12.6145 11.3487C12.9784 11.5466 13.113 12.002 12.9151 12.3659L12.1215 13.8253H13.6378C13.9025 13.8253 14.1475 13.9647 14.2826 14.1923C14.4178 14.4198 14.423 14.7017 14.2964 14.9341L12.8992 17.4988C12.7011 17.8626 12.2456 17.9968 11.8818 17.7986C11.5181 17.6005 11.3839 17.145 11.582 16.7812L12.3752 15.3253H10.86C10.5955 15.3253 10.3505 15.1859 10.2153 14.9585C10.0801 14.7312 10.0747 14.4494 10.2011 14.217L11.5973 11.6493C11.7952 11.2854 12.2506 11.1508 12.6145 11.3487Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8569 3.24941C14.5486 2.616 15.4953 2.20812 16.4902 2.25343L16.4954 2.25366L16.4954 2.25368C17.5361 2.30826 18.4622 2.81958 19.0547 3.61371L19.0557 3.615C19.3347 3.99073 19.4643 4.43814 19.4643 4.8785V6.39923C19.4643 6.83334 19.3334 7.2801 19.0557 7.65397L19.0522 7.65857L19.0522 7.65856C18.4034 8.51829 17.3458 9.0739 16.1981 9.0776V9.531H17.9526C19.2729 9.531 20.342 10.6017 20.342 11.9204V16.936C20.342 19.5946 18.188 21.75 15.5289 21.75H8.97125C6.31329 21.75 4.1582 19.5947 4.1582 16.936V11.9204C4.1582 10.6017 5.22731 9.531 6.54763 9.531H8.29551V9.07756C7.15113 9.07107 6.09752 8.51603 5.4496 7.65911L5.44452 7.65239L5.44455 7.65236C5.16992 7.28053 5.03709 6.83499 5.03709 6.39923V4.8785C5.03709 4.43648 5.16854 3.99032 5.44455 3.61661L5.4467 3.61371L5.44671 3.61371C6.03847 2.82053 6.96406 2.30844 7.99787 2.2537L8.00358 2.2534L8.00358 2.25342C9.00131 2.20821 9.95004 2.61527 10.6434 3.24887C11.3372 3.88283 11.828 4.79306 11.828 5.80864V9.531H12.6744V5.80864C12.6744 4.79332 13.1647 3.8833 13.8569 3.24941ZM13.3803 11.031C13.3949 11.0318 13.4096 11.0323 13.4244 11.0323C13.4392 11.0323 13.4539 11.0318 13.4684 11.031H15.4041C15.4186 11.0318 15.4333 11.0323 15.4481 11.0323C15.4629 11.0323 15.4776 11.0318 15.4922 11.031H17.9526C18.4439 11.031 18.842 11.4295 18.842 11.9204V16.936C18.842 18.7666 17.3591 20.25 15.5289 20.25H8.97125C7.14195 20.25 5.6582 18.7665 5.6582 16.936V11.9204C5.6582 11.4295 6.05631 11.031 6.54763 11.031H9.00145C9.01603 11.0318 9.03072 11.0323 9.04551 11.0323C9.06029 11.0323 9.07498 11.0318 9.08956 11.031H11.034C11.0485 11.0318 11.0632 11.0323 11.078 11.0323C11.0928 11.0323 11.1075 11.0318 11.1221 11.031H13.3803ZM10.328 9.531V5.80864C10.328 5.28599 10.0715 4.7582 9.63161 4.35621C9.19204 3.95455 8.62174 3.72782 8.07431 3.75175C7.49299 3.78339 6.97838 4.07016 6.65021 4.50902C6.5804 4.60415 6.53709 4.73156 6.53709 4.8785V6.39923C6.53709 6.53419 6.57855 6.6615 6.64899 6.75828C7.02305 7.25045 7.64447 7.57762 8.31579 7.57762H9.04551C9.45972 7.57762 9.79551 7.9134 9.79551 8.32762V9.531H10.328ZM14.6981 9.531H14.1744V5.80864C14.1744 5.28573 14.4308 4.75773 14.8699 4.35566C15.3088 3.95375 15.8769 3.72784 16.4194 3.75176C17.01 3.78349 17.5245 4.07147 17.852 4.51005C17.9209 4.60322 17.9643 4.7296 17.9643 4.8785V6.39923C17.9643 6.53625 17.9227 6.66271 17.853 6.75759C17.4802 7.24983 16.8586 7.57762 16.1866 7.57762H15.4481C15.0339 7.57762 14.6981 7.9134 14.6981 8.32762V9.531ZM12.2501 16.1653C12.6644 16.1653 13.0001 16.5011 13.0001 16.9153V16.9639C13.0001 17.3782 12.6644 17.7139 12.2501 17.7139C11.8359 17.7139 11.5001 17.3782 11.5001 16.9639V16.9153C11.5001 16.5011 11.8359 16.1653 12.2501 16.1653Z" fill="black"/> </svg>',
     category: 'Airpod',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -554,7 +448,303 @@ class _AirpodAirpodCaseBold {
   /// Airpod case — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Airpod case',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1454 9.19863H8.69643V8.15331H7.81365C6.70869 8.15331 5.69327 7.62448 5.06983 6.80419C4.85695 6.52288 4.7522 6.17403 4.7522 5.82171V3.9835C4.7522 3.63039 4.85779 3.28065 5.07068 2.99934C5.63076 2.26017 6.50003 1.77105 7.47912 1.72205C9.34015 1.63589 11.1454 3.24856 11.1454 5.10873V9.19863ZM7.04995 3.87899C7.38907 3.87899 7.66397 4.1539 7.66397 4.49301V5.50388C7.66397 5.84299 7.38907 6.1179 7.04995 6.1179C6.71084 6.1179 6.43594 5.84299 6.43594 5.50388V4.49301C6.43594 4.1539 6.71084 3.87899 7.04995 3.87899Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4534 5.10873V9.19863H15.9024V8.15331H16.7852C17.8902 8.15331 18.9056 7.62448 19.529 6.80419C19.7419 6.52288 19.8466 6.17403 19.8466 5.82171V3.9835C19.8466 3.63039 19.7411 3.28065 19.5282 2.99934C18.9681 2.26017 18.0988 1.77105 17.1197 1.72205C15.2587 1.63589 13.4534 3.24856 13.4534 5.10873ZM16.9349 4.49301C16.9349 4.1539 17.2098 3.87899 17.5489 3.87899C17.888 3.87899 18.1629 4.1539 18.1629 4.49301V5.50388C18.1629 5.84299 17.888 6.1179 17.5489 6.1179C17.2098 6.1179 16.9349 5.84299 16.9349 5.50388V4.49301Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.63995 9.78125C5.45779 9.78125 4.5 10.7397 4.5 11.9206V16.9363C4.5 19.457 6.54381 21.5003 9.06299 21.5003H15.621C18.1423 21.5003 20.184 19.4568 20.184 16.9363V11.9206C20.184 10.7399 19.2263 9.78125 18.045 9.78125H6.63995ZM11.3965 17.4046C11.3965 16.8826 11.8196 16.459 12.3421 16.459C12.864 16.459 13.2878 16.882 13.2878 17.4046C13.2878 17.9273 12.864 18.3503 12.3421 18.3503C11.8196 18.3503 11.3965 17.9267 11.3965 17.4046Z" fill="black"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 1 icon with style variants.
+class _AirpodAirpodCase1Icon {
+  const _AirpodAirpodCase1Icon();
+
+  /// bold style
+  _AirpodAirpodCase1Bold get bold => const _AirpodAirpodCase1Bold();
+  /// bulk style
+  _AirpodAirpodCase1Bulk get bulk => const _AirpodAirpodCase1Bulk();
+  /// outline style
+  _AirpodAirpodCase1Outline get outline => const _AirpodAirpodCase1Outline();
+  /// broken style
+  _AirpodAirpodCase1Broken get broken => const _AirpodAirpodCase1Broken();
+}
+
+/// Airpod case 1 — bulk style variants.
+class _AirpodAirpodCase1Bulk {
+  const _AirpodAirpodCase1Bulk();
+
+  /// Airpod case 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.69849 7.31708C3.69849 4.65606 5.85641 2.5 8.51544 2.5H15.4844C18.1445 2.5 20.3015 4.65613 20.3015 7.31708V8.05066H16.8275C16.5656 7.31831 15.8656 6.79492 15.0428 6.79492H8.95679C8.13492 6.79492 7.43432 7.3182 7.17208 8.05066H3.69849V7.31708Z" fill="black"/> <path opacity="0.4" d="M3.69849 9.32812V16.6819C3.69849 19.3428 5.85626 21.5 8.51544 21.5H15.4844C18.1447 21.5 20.3015 19.3427 20.3015 16.6819V9.32812H16.8274C16.5654 10.0604 15.8658 10.5845 15.0428 10.5845H8.95679C8.13473 10.5845 7.43446 10.0605 7.1722 9.32812H3.69849Z" fill="black"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 1 — broken style variants.
+class _AirpodAirpodCase1Broken {
+  const _AirpodAirpodCase1Broken();
+
+  /// Airpod case 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.2859 21C17.6699 21 19.603 19.0667 19.603 16.6819V7.31708C19.603 4.93232 17.6699 3 15.2859 3H8.31696C5.93396 3 4 4.93232 4 7.31708V16.6819C4 19.0667 5.93396 21 8.31696 21H11.8015" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.7583 7.2948C7.9883 7.2948 7.36328 7.91848 7.36328 8.68907C7.36328 9.45967 7.9883 10.0843 8.7583 10.0843H14.8443C15.6153 10.0843 16.2393 9.45967 16.2393 8.68907C16.2393 7.91848 15.6153 7.2948 14.8443 7.2948H11.8013" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.6039 8.68958H16.2439M7.36389 8.68958H4.00391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 1 — outline style variants.
+class _AirpodAirpodCase1Outline {
+  const _AirpodAirpodCase1Outline();
+
+  /// Airpod case 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.76532 3.75C6.79564 3.75 5.19824 5.34665 5.19824 7.31708V7.93961H7.19544C7.49953 7.12443 8.28542 6.54476 9.20613 6.54476H15.2921C16.2128 6.54476 16.9987 7.12443 17.3028 7.93961H19.3008V7.31708C19.3008 5.34665 17.7034 3.75 15.7338 3.75H8.76532ZM20.8008 8.65138V7.31708C20.8008 4.518 18.5316 2.25 15.7338 2.25H8.76532C5.96744 2.25 3.69824 4.518 3.69824 7.31708V16.6819C3.69824 19.4808 5.96722 21.75 8.76532 21.75H15.7338C18.5319 21.75 20.8008 19.4808 20.8008 16.6819V8.72784C20.8015 8.71518 20.8018 8.70243 20.8018 8.68961C20.8018 8.67679 20.8015 8.66404 20.8008 8.65138ZM19.3008 9.43961H17.3024C16.9981 10.2542 16.2128 10.8343 15.2921 10.8343H9.20613C8.28538 10.8343 7.50013 10.2542 7.19585 9.43961H5.19824V16.6819C5.19824 18.6526 6.79586 20.25 8.76532 20.25H15.7338C17.7032 20.25 19.3008 18.6526 19.3008 16.6819V9.43961ZM8.56135 8.7135C8.5742 9.05854 8.85794 9.33428 9.20613 9.33428H15.2921C15.6485 9.33428 15.9373 9.04541 15.9373 8.68903C15.9373 8.33333 15.6491 8.04476 15.2921 8.04476H9.20613C8.85711 8.04476 8.5739 8.32049 8.56133 8.66511C8.56159 8.67325 8.56172 8.68141 8.56172 8.68961C8.56172 8.6976 8.56159 8.70557 8.56135 8.7135Z" fill="black"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 1 — bold style variants.
+class _AirpodAirpodCase1Bold {
+  const _AirpodAirpodCase1Bold();
+
+  /// Airpod case 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.69849 7.31708C3.69849 4.65606 5.85641 2.5 8.51544 2.5H15.4844C18.1445 2.5 20.3015 4.65613 20.3015 7.31708V8.05066H16.8275C16.5656 7.31831 15.8656 6.79492 15.0428 6.79492H8.95679C8.13492 6.79492 7.43432 7.3182 7.17208 8.05066H3.69849V7.31708Z" fill="black"/> <path d="M3.69849 9.32812V16.6819C3.69849 19.3428 5.85626 21.5 8.51544 21.5H15.4844C18.1447 21.5 20.3015 19.3427 20.3015 16.6819V9.32812H16.8274C16.5654 10.0604 15.8658 10.5845 15.0428 10.5845H8.95679C8.13473 10.5845 7.43446 10.0605 7.1722 9.32812H3.69849Z" fill="black"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 2 icon with style variants.
+class _AirpodAirpodCase2Icon {
+  const _AirpodAirpodCase2Icon();
+
+  /// bold style
+  _AirpodAirpodCase2Bold get bold => const _AirpodAirpodCase2Bold();
+  /// bulk style
+  _AirpodAirpodCase2Bulk get bulk => const _AirpodAirpodCase2Bulk();
+  /// outline style
+  _AirpodAirpodCase2Outline get outline => const _AirpodAirpodCase2Outline();
+  /// broken style
+  _AirpodAirpodCase2Broken get broken => const _AirpodAirpodCase2Broken();
+}
+
+/// Airpod case 2 — bulk style variants.
+class _AirpodAirpodCase2Bulk {
+  const _AirpodAirpodCase2Bulk();
+
+  /// Airpod case 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.69873 7.3171C3.69873 4.65608 5.85596 2.5 8.51581 2.5H15.4842C18.1441 2.5 20.3013 4.65608 20.3013 7.3171V7.9375H3.69873V7.3171Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.69873 9.4375V16.6819C3.69873 19.3428 5.85581 21.5 8.51581 21.5H15.4842C18.1442 21.5 20.3013 19.3428 20.3013 16.6819V9.4375H3.69873Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0574 16.7699C11.0574 16.2478 11.4805 15.8242 12.003 15.8242C12.5249 15.8242 12.9487 16.2472 12.9487 16.7699C12.9487 17.2925 12.5249 17.7155 12.003 17.7155C11.4805 17.7155 11.0574 17.2919 11.0574 16.7699Z" fill="black"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 2 — broken style variants.
+class _AirpodAirpodCase2Broken {
+  const _AirpodAirpodCase2Broken();
+
+  /// Airpod case 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.2855 21C17.6693 21 19.6026 19.0667 19.6026 16.6819V7.3171C19.6026 4.9323 17.6693 3 15.2855 3H8.31708C5.9333 3 4 4.9323 4 7.3171V16.6819C4 19.0667 5.9333 21 8.31708 21H11.8013" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4 8.68774H19.6026" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8052 16.7593V16.8073M11.9997 16.7696C11.9997 16.8777 11.9121 16.9653 11.804 16.9653C11.6959 16.9653 11.6084 16.8777 11.6084 16.7696C11.6084 16.6616 11.6959 16.574 11.804 16.574C11.9121 16.574 11.9997 16.6616 11.9997 16.7696Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 2 — outline style variants.
+class _AirpodAirpodCase2Outline {
+  const _AirpodAirpodCase2Outline();
+
+  /// Airpod case 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.76532 3.75C6.79564 3.75 5.19824 5.34665 5.19824 7.31708V7.93771H19.3008V7.31708C19.3008 5.34665 17.7034 3.75 15.7338 3.75H8.76532ZM20.8008 7.31708C20.8008 4.518 18.5316 2.25 15.7338 2.25H8.76532C5.96744 2.25 3.69824 4.518 3.69824 7.31708V16.6819C3.69824 19.4808 5.96722 21.75 8.76532 21.75H15.7338C18.5319 21.75 20.8008 19.4808 20.8008 16.6819V7.31708ZM19.3008 9.43771H5.19824V16.6819C5.19824 18.6526 6.79586 20.25 8.76532 20.25H15.7338C17.7032 20.25 19.3008 18.6526 19.3008 16.6819V9.43771ZM12.249 15.8928C12.6632 15.8928 12.999 16.2286 12.999 16.6428V16.7129C12.999 17.1271 12.6632 17.4629 12.249 17.4629C11.8348 17.4629 11.499 17.1271 11.499 16.7129V16.6428C11.499 16.2286 11.8348 15.8928 12.249 15.8928Z" fill="black"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 2 — bold style variants.
+class _AirpodAirpodCase2Bold {
+  const _AirpodAirpodCase2Bold();
+
+  /// Airpod case 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.69873 7.3171C3.69873 4.65608 5.85596 2.5 8.51581 2.5H15.4842C18.1441 2.5 20.3013 4.65608 20.3013 7.3171V7.9375H3.69873V7.3171Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.69873 9.4375V16.6819C3.69873 19.3428 5.85581 21.5 8.51581 21.5H15.4842C18.1442 21.5 20.3013 19.3428 20.3013 16.6819V9.4375H3.69873ZM11.0574 16.7699C11.0574 16.2478 11.4805 15.8242 12.003 15.8242C12.5249 15.8242 12.9487 16.2472 12.9487 16.7699C12.9487 17.2925 12.5249 17.7155 12.003 17.7155C11.4805 17.7155 11.0574 17.2919 11.0574 16.7699Z" fill="black"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 3 icon with style variants.
+class _AirpodAirpodCase3Icon {
+  const _AirpodAirpodCase3Icon();
+
+  /// bold style
+  _AirpodAirpodCase3Bold get bold => const _AirpodAirpodCase3Bold();
+  /// bulk style
+  _AirpodAirpodCase3Bulk get bulk => const _AirpodAirpodCase3Bulk();
+  /// outline style
+  _AirpodAirpodCase3Outline get outline => const _AirpodAirpodCase3Outline();
+  /// broken style
+  _AirpodAirpodCase3Broken get broken => const _AirpodAirpodCase3Broken();
+}
+
+/// Airpod case 3 — bulk style variants.
+class _AirpodAirpodCase3Bulk {
+  const _AirpodAirpodCase3Bulk();
+
+  /// Airpod case 3 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.69873 7.3171C3.69873 4.65608 5.85596 2.5 8.51582 2.5H15.4842C18.1441 2.5 20.3013 4.65608 20.3013 7.3171V16.6819C20.3013 19.3428 18.1442 21.5 15.4842 21.5H8.51582C5.8558 21.5 3.69873 19.3428 3.69873 16.6819V7.3171Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.23584 8.16406C7.23584 7.74985 7.57163 7.41406 7.98584 7.41406H16.0128C16.4271 7.41406 16.7628 7.74985 16.7628 8.16406C16.7628 8.57828 16.4271 8.91406 16.0128 8.91406H7.98584C7.57163 8.91406 7.23584 8.57828 7.23584 8.16406ZM12.3653 11.3489C12.7292 11.5468 12.8638 12.0022 12.6659 12.3661L11.8724 13.8255H13.3886C13.6533 13.8255 13.8983 13.965 14.0335 14.1925C14.1686 14.42 14.1738 14.7019 14.0472 14.9343L12.65 17.499C12.4519 17.8628 11.9964 17.997 11.6326 17.7988C11.2689 17.6007 11.1347 17.1452 11.3328 16.7814L12.126 15.3255H10.6108C10.3463 15.3255 10.1013 15.1862 9.96617 14.9588C9.83099 14.7314 9.82558 14.4496 9.95195 14.2172L11.3482 11.6495C11.546 11.2856 12.0014 11.1511 12.3653 11.3489Z" fill="black"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 3 — broken style variants.
+class _AirpodAirpodCase3Broken {
+  const _AirpodAirpodCase3Broken();
+
+  /// Airpod case 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.2855 21C17.6693 21 19.6026 19.0667 19.6026 16.6819V7.3171C19.6026 4.9323 17.6693 3 15.2855 3H8.31709C5.93329 3 4 4.9323 4 7.3171V16.6819C4 19.0667 5.93329 21 8.31709 21H11.8013" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.78711 8.16321H15.8141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.7927 17.14L13.1899 14.5753H10.4121L11.8083 12.0076" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 3 — outline style variants.
+class _AirpodAirpodCase3Outline {
+  const _AirpodAirpodCase3Outline();
+
+  /// Airpod case 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.76532 3.75C6.79564 3.75 5.19824 5.34665 5.19824 7.31708V16.6819C5.19824 18.6526 6.79586 20.25 8.76532 20.25H15.7338C17.7032 20.25 19.3008 18.6526 19.3008 16.6819V7.31708C19.3008 5.34665 17.7034 3.75 15.7338 3.75H8.76532ZM3.69824 7.31708C3.69824 4.518 5.96744 2.25 8.76532 2.25H15.7338C18.5316 2.25 20.8008 4.518 20.8008 7.31708V16.6819C20.8008 19.4808 18.5319 21.75 15.7338 21.75H8.76532C5.96722 21.75 3.69824 19.4808 3.69824 16.6819V7.31708ZM7.48562 8.16322C7.48562 7.749 7.8214 7.41322 8.23562 7.41322H16.2626C16.6769 7.41322 17.0126 7.749 17.0126 8.16322C17.0126 8.57743 16.6769 8.91322 16.2626 8.91322H8.23562C7.8214 8.91322 7.48562 8.57743 7.48562 8.16322ZM12.6145 11.3487C12.9784 11.5466 13.113 12.002 12.9151 12.3659L12.1215 13.8253H13.6378C13.9025 13.8253 14.1475 13.9647 14.2826 14.1923C14.4178 14.4198 14.423 14.7017 14.2964 14.9341L12.8992 17.4988C12.7011 17.8626 12.2456 17.9968 11.8818 17.7986C11.5181 17.6005 11.3839 17.145 11.582 16.7812L12.3752 15.3253H10.86C10.5955 15.3253 10.3505 15.1859 10.2153 14.9585C10.0801 14.7312 10.0747 14.4494 10.2011 14.217L11.5973 11.6493C11.7952 11.2854 12.2506 11.1508 12.6145 11.3487Z" fill="black"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 3 — bold style variants.
+class _AirpodAirpodCase3Bold {
+  const _AirpodAirpodCase3Bold();
+
+  /// Airpod case 3 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 3',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.69873 7.3171C3.69873 4.65608 5.85596 2.5 8.51582 2.5H15.4842C18.1441 2.5 20.3013 4.65608 20.3013 7.3171V16.6819C20.3013 19.3428 18.1442 21.5 15.4842 21.5H8.51582C5.8558 21.5 3.69873 19.3428 3.69873 16.6819V7.3171ZM7.23584 8.16406C7.23584 7.74985 7.57163 7.41406 7.98584 7.41406H16.0128C16.4271 7.41406 16.7628 7.74985 16.7628 8.16406C16.7628 8.57828 16.4271 8.91406 16.0128 8.91406H7.98584C7.57163 8.91406 7.23584 8.57828 7.23584 8.16406ZM12.3653 11.3489C12.7292 11.5468 12.8638 12.0022 12.6659 12.3661L11.8724 13.8255H13.3886C13.6533 13.8255 13.8983 13.965 14.0335 14.1925C14.1686 14.42 14.1738 14.7019 14.0472 14.9343L12.65 17.499C12.4519 17.8628 11.9964 17.997 11.6326 17.7988C11.2689 17.6007 11.1347 17.1452 11.3328 16.7814L12.126 15.3255H10.6108C10.3463 15.3255 10.1013 15.1862 9.96617 14.9588C9.83099 14.7314 9.82558 14.4496 9.95195 14.2172L11.3482 11.6495C11.546 11.2856 12.0014 11.1511 12.3653 11.3489Z" fill="black"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 4 icon with style variants.
+class _AirpodAirpodCase4Icon {
+  const _AirpodAirpodCase4Icon();
+
+  /// bold style
+  _AirpodAirpodCase4Bold get bold => const _AirpodAirpodCase4Bold();
+  /// bulk style
+  _AirpodAirpodCase4Bulk get bulk => const _AirpodAirpodCase4Bulk();
+  /// outline style
+  _AirpodAirpodCase4Outline get outline => const _AirpodAirpodCase4Outline();
+  /// broken style
+  _AirpodAirpodCase4Broken get broken => const _AirpodAirpodCase4Broken();
+}
+
+/// Airpod case 4 — bulk style variants.
+class _AirpodAirpodCase4Bulk {
+  const _AirpodAirpodCase4Bulk();
+
+  /// Airpod case 4 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.5 7.3171C3.5 4.65604 5.65798 2.5 8.317 2.5H15.286C17.9461 2.5 20.103 4.65611 20.103 7.3171V16.6819C20.103 19.3427 17.9462 21.5 15.286 21.5H8.317C5.65783 21.5 3.5 19.3428 3.5 16.6819V7.3171Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.03809 8.16406C7.03809 7.74985 7.37387 7.41406 7.78809 7.41406H15.8151C16.2293 7.41406 16.5651 7.74985 16.5651 8.16406C16.5651 8.57828 16.2293 8.91406 15.8151 8.91406H7.78809C7.37387 8.91406 7.03809 8.57828 7.03809 8.16406ZM10.8561 16.2484C10.8561 15.7264 11.2792 15.3027 11.8017 15.3027C12.3236 15.3027 12.7474 15.7258 12.7474 16.2484C12.7474 16.771 12.3236 17.194 11.8017 17.194C11.2792 17.194 10.8561 16.7704 10.8561 16.2484Z" fill="black"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 4 — broken style variants.
+class _AirpodAirpodCase4Broken {
+  const _AirpodAirpodCase4Broken();
+
+  /// Airpod case 4 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.286 21C17.67 21 19.603 19.0667 19.603 16.6819V7.3171C19.603 4.9323 17.67 3 15.286 3H8.317C5.934 3 4 4.9323 4 7.3171V16.6819C4 19.0667 5.934 21 8.317 21H11.8015" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.78809 8.16321H15.8151" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8032 16.2381V16.2861M11.9978 16.2484C11.9978 16.3564 11.9101 16.444 11.8021 16.444C11.694 16.444 11.6064 16.3564 11.6064 16.2484C11.6064 16.1403 11.694 16.0527 11.8021 16.0527C11.9101 16.0527 11.9978 16.1403 11.9978 16.2484Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 4 — outline style variants.
+class _AirpodAirpodCase4Outline {
+  const _AirpodAirpodCase4Outline();
+
+  /// Airpod case 4 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.76532 3.75C6.79564 3.75 5.19824 5.34665 5.19824 7.31708V16.6819C5.19824 18.6526 6.79586 20.25 8.76532 20.25H15.7338C17.7032 20.25 19.3008 18.6526 19.3008 16.6819V7.31708C19.3008 5.34665 17.7034 3.75 15.7338 3.75H8.76532ZM3.69824 7.31708C3.69824 4.518 5.96744 2.25 8.76532 2.25H15.7338C18.5316 2.25 20.8008 4.518 20.8008 7.31708V16.6819C20.8008 19.4808 18.5319 21.75 15.7338 21.75H8.76532C5.96722 21.75 3.69824 19.4808 3.69824 16.6819V7.31708ZM7.4856 8.16321C7.4856 7.74899 7.82138 7.41321 8.2356 7.41321H16.2626C16.6768 7.41321 17.0126 7.74899 17.0126 8.16321C17.0126 8.57742 16.6768 8.91321 16.2626 8.91321H8.2356C7.82138 8.91321 7.4856 8.57742 7.4856 8.16321ZM11.4642 16.3185C11.4642 15.9043 11.7999 15.5685 12.2142 15.5685H12.2842C12.6984 15.5685 13.0342 15.9043 13.0342 16.3185C13.0342 16.7327 12.6984 17.0685 12.2842 17.0685H12.2142C11.7999 17.0685 11.4642 16.7327 11.4642 16.3185Z" fill="black"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 4 — bold style variants.
+class _AirpodAirpodCase4Bold {
+  const _AirpodAirpodCase4Bold();
+
+  /// Airpod case 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod case 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.5 7.3171C3.5 4.65604 5.65798 2.5 8.317 2.5H15.286C17.9461 2.5 20.103 4.65611 20.103 7.3171V16.6819C20.103 19.3427 17.9462 21.5 15.286 21.5H8.317C5.65783 21.5 3.5 19.3428 3.5 16.6819V7.3171ZM7.03809 8.16406C7.03809 7.74985 7.37387 7.41406 7.78809 7.41406H15.8151C16.2293 7.41406 16.5651 7.74985 16.5651 8.16406C16.5651 8.57828 16.2293 8.91406 15.8151 8.91406H7.78809C7.37387 8.91406 7.03809 8.57828 7.03809 8.16406ZM10.8561 16.2484C10.8561 15.7264 11.2792 15.3027 11.8017 15.3027C12.3236 15.3027 12.7474 15.7258 12.7474 16.2484C12.7474 16.771 12.3236 17.194 11.8017 17.194C11.2792 17.194 10.8561 16.7704 10.8561 16.2484Z" fill="black"/> </svg>',
     category: 'Airpod',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -718,12 +908,8 @@ class _AirpodLeftAirpodIcon {
   _AirpodLeftAirpodBold get bold => const _AirpodLeftAirpodBold();
   /// bulk style
   _AirpodLeftAirpodBulk get bulk => const _AirpodLeftAirpodBulk();
-  /// light style
-  _AirpodLeftAirpodLight get light => const _AirpodLeftAirpodLight();
   /// outline style
   _AirpodLeftAirpodOutline get outline => const _AirpodLeftAirpodOutline();
-  /// twoTone style
-  _AirpodLeftAirpodTwotone get twoTone => const _AirpodLeftAirpodTwotone();
   /// broken style
   _AirpodLeftAirpodBroken get broken => const _AirpodLeftAirpodBroken();
 }
@@ -758,21 +944,6 @@ class _AirpodLeftAirpodBroken {
 
 }
 
-/// Left airpod — twoTone style variants.
-class _AirpodLeftAirpodTwotone {
-  const _AirpodLeftAirpodTwotone();
-
-  /// Left airpod — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Left airpod',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M15.729 6.44051V7.80655M12.881 8.22991C12.881 8.67844 13.013 9.12406 13.284 9.48211C14.075 10.528 15.365 11.2013 16.769 11.2013H17.89V17.4555C17.89 18.3175 18.586 19.0161 19.445 19.0161C20.303 19.0161 21 18.3175 21 17.4555V7.32116C21 4.95006 18.708 2.89518 16.344 3.00415C15.1 3.06739 13.996 3.69106 13.285 4.63288C13.015 4.99093 12.881 5.43654 12.881 5.88702V8.22991Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.74246 4.79314C8.36546 4.57422 7.07247 5.51799 6.85547 6.89959" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.298 10.2991C5.372 10.2991 3 12.6789 3 15.6153C3 18.5517 5.372 20.9325 8.298 20.9325C11.223 20.9325 13.596 18.5517 13.596 15.6153C13.596 12.6789 11.223 10.2991 8.298 10.2991Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.38281 13.3567V17.1989H9.69882" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Left airpod — outline style variants.
 class _AirpodLeftAirpodOutline {
   const _AirpodLeftAirpodOutline();
@@ -798,21 +969,6 @@ class _AirpodLeftAirpodBold {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5354 7.27676C21.5354 5.95246 20.8962 4.72966 19.9444 3.85678C18.9928 2.9841 17.7106 2.44405 16.3967 2.50462L16.3955 2.50468C15.0151 2.57485 13.7911 3.26704 13.0036 4.31028C12.6837 4.73448 12.5287 5.25684 12.5287 5.77812V8.22638C12.5287 8.74491 12.6812 9.26764 13.0027 9.69249C13.878 10.8498 15.3028 11.5927 16.8529 11.5927H17.763V17.8669C17.763 18.9111 18.6064 19.759 19.6492 19.759C20.6909 19.759 21.5354 18.9112 21.5354 17.8669V7.27676ZM15.7661 5.5737C16.199 5.5737 16.5498 5.92459 16.5498 6.35744V7.78492C16.5498 8.21776 16.199 8.56865 15.7661 8.56865C15.3333 8.56865 14.9824 8.21776 14.9824 7.78492V6.35744C14.9824 5.92459 15.3333 5.5737 15.7661 5.5737Z" fill="black"/> <path d="M5.46118 6.67441C5.77707 4.66314 7.6614 3.28331 9.67441 3.60335C10.2444 3.69396 10.633 4.22947 10.5424 4.79943C10.4517 5.3694 9.91623 5.75799 9.34626 5.66738C8.48141 5.52988 7.66344 6.12248 7.52582 6.99869C7.43627 7.56883 6.90149 7.95842 6.33136 7.86887C5.76122 7.77933 5.37163 7.24455 5.46118 6.67441Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.4646 15.9437C2.4646 12.8752 4.94329 10.3883 8.00089 10.3883C11.0574 10.3883 13.5372 12.8752 13.5372 15.9437C13.5372 19.0121 11.0574 21.5 8.00089 21.5C4.94329 21.5 2.4646 19.0121 2.4646 15.9437ZM7.82827 13.5845C7.82827 13.1517 7.47738 12.8008 7.04454 12.8008C6.61169 12.8008 6.2608 13.1517 6.2608 13.5845V17.5995C6.2608 18.0324 6.61169 18.3832 7.04454 18.3832H9.46471C9.89755 18.3832 10.2484 18.0324 10.2484 17.5995C10.2484 17.1667 9.89755 16.8158 9.46471 16.8158H7.82827V13.5845Z" fill="black"/> </svg>',
     category: 'Airpod',
     style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Left airpod — light style variants.
-class _AirpodLeftAirpodLight {
-  const _AirpodLeftAirpodLight();
-
-  /// Left airpod — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Left airpod',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.7289 6.44051V7.80655M12.8809 8.22991C12.8809 8.67844 13.0128 9.12406 13.2838 9.48211C14.0748 10.528 15.3649 11.2013 16.7689 11.2013H17.8899V17.4555C17.8899 18.3175 18.5859 19.0161 19.4449 19.0161C20.3029 19.0161 20.9998 18.3175 20.9998 17.4555V7.32116C20.9998 4.95006 18.7078 2.89518 16.3438 3.00415C15.0998 3.06739 13.9959 3.69106 13.2849 4.63288C13.0149 4.99093 12.8809 5.43654 12.8809 5.88702V8.22991Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.74246 4.79314C8.36546 4.57422 7.07247 5.51799 6.85547 6.89959" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.298 10.2991C5.372 10.2991 3 12.6789 3 15.6153C3 18.5517 5.372 20.9325 8.298 20.9325C11.223 20.9325 13.596 18.5517 13.596 15.6153C13.596 12.6789 11.223 10.2991 8.298 10.2991Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.38281 13.3567V17.1989H9.69882" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.light,
     type: IconfyType.regular,
   );
 
@@ -892,6 +1048,80 @@ class _AirpodAirpodProCaseBold {
 
 }
 
+/// Airpod pro case 1 icon with style variants.
+class _AirpodAirpodProCase1Icon {
+  const _AirpodAirpodProCase1Icon();
+
+  /// bold style
+  _AirpodAirpodProCase1Bold get bold => const _AirpodAirpodProCase1Bold();
+  /// bulk style
+  _AirpodAirpodProCase1Bulk get bulk => const _AirpodAirpodProCase1Bulk();
+  /// outline style
+  _AirpodAirpodProCase1Outline get outline => const _AirpodAirpodProCase1Outline();
+  /// broken style
+  _AirpodAirpodProCase1Broken get broken => const _AirpodAirpodProCase1Broken();
+}
+
+/// Airpod pro case 1 — bulk style variants.
+class _AirpodAirpodProCase1Bulk {
+  const _AirpodAirpodProCase1Bulk();
+
+  /// Airpod pro case 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod pro case 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2.5 9.1222C2.5 6.01685 5.01795 3.5 8.12299 3.5H15.876C18.9812 3.5 21.498 6.01698 21.498 9.1222V9.18164H2.5V9.1222Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M2.5 10.6816V15.3213C2.5 18.4265 5.01782 20.9445 8.12299 20.9445H15.876C18.9813 20.9445 21.498 18.4264 21.498 15.3213V10.6816L2.5 10.6816Z" fill="black"/> <path d="M11.0543 14.0902C11.0543 13.5682 11.4774 13.1445 11.9999 13.1445C12.5218 13.1445 12.9457 13.5676 12.9457 14.0902C12.9457 14.6128 12.5218 15.0358 11.9999 15.0358C11.4774 15.0358 11.0543 14.6122 11.0543 14.0902Z" fill="black"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod pro case 1 — broken style variants.
+class _AirpodAirpodProCase1Broken {
+  const _AirpodAirpodProCase1Broken();
+
+  /// Airpod pro case 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod pro case 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.876 20.4445C18.705 20.4445 20.998 18.1504 20.998 15.3213V9.1222C20.998 6.2931 18.705 4 15.876 4H8.12299C5.29399 4 3 6.2931 3 9.1222V15.3213C3 18.1504 5.29399 20.4445 8.12299 20.4445H11.9995" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.99414 9.93127H21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0015 14.0801V14.1281M12.196 14.0904C12.196 14.1985 12.1084 14.2861 12.0003 14.2861C11.8922 14.2861 11.8047 14.1985 11.8047 14.0904C11.8047 13.9824 11.8922 13.8948 12.0003 13.8948C12.1084 13.8948 12.196 13.9824 12.196 14.0904Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod pro case 1 — outline style variants.
+class _AirpodAirpodProCase1Outline {
+  const _AirpodAirpodProCase1Outline();
+
+  /// Airpod pro case 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod pro case 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.37313 4.52783C5.95806 4.52783 4 6.48529 4 8.89999V8.95911H20.4981V8.89999C20.4981 6.4851 18.5408 4.52783 16.1259 4.52783H8.37313ZM21.9981 9.65531V8.89999C21.9981 5.65667 19.3693 3.02783 16.1259 3.02783H8.37313C5.13 3.02783 2.5 5.65649 2.5 8.89999V15.0991C2.5 18.3424 5.12981 20.9723 8.37313 20.9723H16.1259C19.3694 20.9723 21.9981 18.3423 21.9981 15.0991V9.76291C21.9994 9.74514 22 9.7272 22 9.70911C22 9.69102 21.9994 9.67308 21.9981 9.65531ZM20.4981 10.4591H4V15.0991C4 17.514 5.95824 19.4723 8.37313 19.4723H16.1259C18.5406 19.4723 20.4981 17.5142 20.4981 15.0991V10.4591ZM11.4997 13.8894C11.4997 13.4752 11.8355 13.1394 12.2497 13.1394H12.2896C12.7038 13.1394 13.0396 13.4752 13.0396 13.8894C13.0396 14.3036 12.7038 14.6394 12.2896 14.6394H12.2497C11.8355 14.6394 11.4997 14.3036 11.4997 13.8894Z" fill="black"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod pro case 1 — bold style variants.
+class _AirpodAirpodProCase1Bold {
+  const _AirpodAirpodProCase1Bold();
+
+  /// Airpod pro case 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod pro case 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M2.5 9.1222C2.5 6.01685 5.01795 3.5 8.12299 3.5H15.876C18.9812 3.5 21.498 6.01698 21.498 9.1222V9.18164H2.5V9.1222Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.5 10.6816V15.3213C2.5 18.4265 5.01782 20.9445 8.12299 20.9445H15.876C18.9813 20.9445 21.498 18.4264 21.498 15.3213V10.6816L2.5 10.6816ZM11.0543 14.0902C11.0543 13.5682 11.4774 13.1445 11.9999 13.1445C12.5218 13.1445 12.9457 13.5676 12.9457 14.0902C12.9457 14.6128 12.5218 15.0358 11.9999 15.0358C11.4774 15.0358 11.0543 14.6122 11.0543 14.0902Z" fill="black"/> </svg>',
+    category: 'Airpod',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Airpods Charge icon with style variants.
 class _AirpodAirpodsChargeIcon {
   const _AirpodAirpodsChargeIcon();
@@ -900,12 +1130,8 @@ class _AirpodAirpodsChargeIcon {
   _AirpodAirpodsChargeBold get bold => const _AirpodAirpodsChargeBold();
   /// bulk style
   _AirpodAirpodsChargeBulk get bulk => const _AirpodAirpodsChargeBulk();
-  /// light style
-  _AirpodAirpodsChargeLight get light => const _AirpodAirpodsChargeLight();
   /// outline style
   _AirpodAirpodsChargeOutline get outline => const _AirpodAirpodsChargeOutline();
-  /// twoTone style
-  _AirpodAirpodsChargeTwotone get twoTone => const _AirpodAirpodsChargeTwotone();
   /// broken style
   _AirpodAirpodsChargeBroken get broken => const _AirpodAirpodsChargeBroken();
 }
@@ -935,21 +1161,6 @@ class _AirpodAirpodsChargeBroken {
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.789 15.4559V18.9516C10.789 19.7222 10.164 20.3468 9.39301 20.3468C8.62301 20.3468 7.99699 19.7222 7.99699 18.9516V13.4309H6.99001C5.73001 13.4309 4.573 12.8286 3.862 11.8926C3.619 11.5725 3.5 11.1745 3.5 10.7727V8.6769C3.5 8.27409 3.62101 7.87515 3.86301 7.55504C4.50101 6.71244 5.49299 6.15395 6.60899 6.09849C8.73099 6.00022 10.789 7.83819 10.789 9.96029V12.2081" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0303 11.4891V6.86553C14.0303 4.74443 16.0883 2.9055 18.2103 3.00377C19.3263 3.0602 20.3173 3.61772 20.9563 4.46032C21.1993 4.7814 21.3183 5.17935 21.3183 5.58217V7.67796C21.3183 8.0798 21.2003 8.47775 20.9563 8.79786C20.2463 9.73387 19.0883 10.3362 17.8283 10.3362H16.8213" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.05664 9.17139V10.3935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7617 6.07666V7.29872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5706 20.8062C15.3996 20.8062 13.6406 19.047 13.6406 16.8763C13.6406 14.7056 15.3996 12.9465 17.5706 12.9465C19.7416 12.9465 21.5006 14.7056 21.5006 16.8763C21.5006 17.9449 21.0743 18.9138 20.3825 19.6222" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7224 18.4447L18.5764 16.8762H16.5684L17.4214 15.3068" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Airpod',
     style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Airpods Charge — twoTone style variants.
-class _AirpodAirpodsChargeTwotone {
-  const _AirpodAirpodsChargeTwotone();
-
-  /// Airpods Charge — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Airpods Charge',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.53 11.4891V6.86553C13.53 4.74443 15.588 2.9055 17.71 3.00377C18.826 3.0602 19.817 3.61772 20.456 4.46032C20.699 4.7814 20.818 5.17935 20.818 5.58217V7.67796C20.818 8.0798 20.7 8.47775 20.456 8.79786C19.746 9.73387 18.588 10.3362 17.328 10.3362H16.321V10.6845M3 10.7727C3 11.1745 3.119 11.5725 3.362 11.8926C4.073 12.8286 5.23001 13.4309 6.49001 13.4309H7.49699V18.9516C7.49699 19.7222 8.12301 20.3468 8.89301 20.3468C9.66401 20.3468 10.289 19.7222 10.289 18.9516V9.96028C10.289 7.83818 8.23099 6.00022 6.10899 6.09849C4.99299 6.15395 4.00101 6.71244 3.36301 7.55504C3.12101 7.87515 3 8.27408 3 8.67689V10.7727Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.55664 9.17139V10.3935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.2617 6.07666V7.29872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0706 20.8062C19.2416 20.8062 21.0006 19.047 21.0006 16.8763C21.0006 14.7056 19.2416 12.9465 17.0706 12.9465C14.8996 12.9465 13.1406 14.7056 13.1406 16.8763C13.1406 19.047 14.8996 20.8062 17.0706 20.8062Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2224 18.4447L18.0764 16.8762H16.0684L16.9214 15.3068" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -985,21 +1196,6 @@ class _AirpodAirpodsChargeBold {
 
 }
 
-/// Airpods Charge — light style variants.
-class _AirpodAirpodsChargeLight {
-  const _AirpodAirpodsChargeLight();
-
-  /// Airpods Charge — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Airpods Charge',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.53 11.4891V6.86553C13.53 4.74443 15.588 2.9055 17.71 3.00377C18.826 3.0602 19.817 3.61772 20.456 4.46032C20.699 4.7814 20.818 5.17935 20.818 5.58217V7.67796C20.818 8.0798 20.7 8.47775 20.456 8.79786C19.746 9.73387 18.588 10.3362 17.328 10.3362H16.321V10.6845M3 10.7727C3 11.1745 3.119 11.5725 3.362 11.8926C4.073 12.8286 5.23001 13.4309 6.49001 13.4309H7.49699V18.9516C7.49699 19.7222 8.12301 20.3468 8.89301 20.3468C9.66401 20.3468 10.289 19.7222 10.289 18.9516V9.96028C10.289 7.83818 8.23099 6.00022 6.10899 6.09849C4.99299 6.15395 4.00101 6.71244 3.36301 7.55504C3.12101 7.87515 3 8.27408 3 8.67689V10.7727Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.55664 9.17139V10.3935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2617 6.07666V7.29872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0706 20.8062C19.2416 20.8062 21.0006 19.047 21.0006 16.8763C21.0006 14.7056 19.2416 12.9465 17.0706 12.9465C14.8996 12.9465 13.1406 14.7056 13.1406 16.8763C13.1406 19.047 14.8996 20.8062 17.0706 20.8062Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2224 18.4447L18.0764 16.8762H16.0684L16.9214 15.3068" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.light,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Airpods low battery icon with style variants.
 class _AirpodAirpodsLowBatteryIcon {
   const _AirpodAirpodsLowBatteryIcon();
@@ -1008,12 +1204,8 @@ class _AirpodAirpodsLowBatteryIcon {
   _AirpodAirpodsLowBatteryBold get bold => const _AirpodAirpodsLowBatteryBold();
   /// bulk style
   _AirpodAirpodsLowBatteryBulk get bulk => const _AirpodAirpodsLowBatteryBulk();
-  /// light style
-  _AirpodAirpodsLowBatteryLight get light => const _AirpodAirpodsLowBatteryLight();
   /// outline style
   _AirpodAirpodsLowBatteryOutline get outline => const _AirpodAirpodsLowBatteryOutline();
-  /// twoTone style
-  _AirpodAirpodsLowBatteryTwotone get twoTone => const _AirpodAirpodsLowBatteryTwotone();
   /// broken style
   _AirpodAirpodsLowBatteryBroken get broken => const _AirpodAirpodsLowBatteryBroken();
 }
@@ -1043,21 +1235,6 @@ class _AirpodAirpodsLowBatteryBroken {
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.784 15.447V18.9387C10.784 19.7093 10.159 20.3339 9.388 20.3339C8.619 20.3339 7.99399 19.7093 7.99399 18.9387V13.4229H6.98801C5.72901 13.4229 4.572 12.8206 3.862 11.8856C3.619 11.5665 3.5 11.1685 3.5 10.7667V8.6729C3.5 8.27009 3.62101 7.87214 3.86301 7.55106C4.50001 6.70944 5.49099 6.15193 6.60699 6.09549C8.72699 5.9982 10.784 7.83517 10.784 9.95524V12.2011" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.05469 9.16748V10.3885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.5006 16.423V18.2513M15.2466 16.7195V17.9561M14.9786 19.8752H18.0246C19.0806 19.8752 19.7406 19.2846 19.7406 18.1978V16.5077C19.7406 15.4044 19.0806 14.8002 18.0246 14.8002H14.9816C13.9226 14.8002 13.2656 15.3946 13.2656 16.4805V18.1978C13.2626 19.2846 13.9196 19.8752 14.9786 19.8752Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0215 12.6974V6.86348C14.0215 4.74337 16.0785 2.9064 18.1985 3.0037C19.3135 3.06013 20.3045 3.61764 20.9425 4.45926C21.1845 4.78034 21.3055 5.17829 21.3055 5.5811V7.67494C21.3055 8.07678 21.1855 8.47472 20.9435 8.79386C20.2335 9.72889 19.0765 10.3312 17.8175 10.3312H16.8115V11.8938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.75 6.07471V7.2958" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Airpod',
     style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Airpods low battery — twoTone style variants.
-class _AirpodAirpodsLowBatteryTwotone {
-  const _AirpodAirpodsLowBatteryTwotone();
-
-  /// Airpods low battery — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Airpods low battery',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3 10.7668C3 11.1686 3.119 11.5666 3.362 11.8857C4.072 12.8207 5.22901 13.423 6.48801 13.423H7.49399V18.9388C7.49399 19.7094 8.119 20.334 8.888 20.334C9.659 20.334 10.284 19.7094 10.284 18.9388V9.95529C10.284 7.83522 8.22699 5.99825 6.10699 6.09554C4.99099 6.15198 4.00001 6.70949 3.36301 7.55111C3.12101 7.87219 3 8.27014 3 8.67295V10.7668Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.55469 9.16748V10.3885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0006 16.423V18.2513M14.7466 16.7195V17.9561M14.4786 19.8752H17.5246C18.5806 19.8752 19.2406 19.2846 19.2406 18.1978V16.5077C19.2406 15.4044 18.5806 14.8002 17.5246 14.8002H14.4816C13.4226 14.8002 12.7656 15.3946 12.7656 16.4805V18.1978C12.7626 19.2846 13.4196 19.8752 14.4786 19.8752Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.5215 12.6974V6.86348C13.5215 4.74337 15.5785 2.9064 17.6985 3.0037C18.8135 3.06013 19.8045 3.61764 20.4425 4.45926C20.6845 4.78034 20.8055 5.17829 20.8055 5.5811V7.67494C20.8055 8.07678 20.6855 8.47472 20.4435 8.79386C19.7335 9.72889 18.5765 10.3312 17.3175 10.3312H16.3115V11.8938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.25 6.07471V7.2958" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -1093,21 +1270,6 @@ class _AirpodAirpodsLowBatteryBold {
 
 }
 
-/// Airpods low battery — light style variants.
-class _AirpodAirpodsLowBatteryLight {
-  const _AirpodAirpodsLowBatteryLight();
-
-  /// Airpods low battery — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Airpods low battery',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 10.7668C3 11.1686 3.119 11.5666 3.362 11.8857C4.072 12.8207 5.22901 13.423 6.48801 13.423H7.49399V18.9388C7.49399 19.7094 8.119 20.334 8.888 20.334C9.659 20.334 10.284 19.7094 10.284 18.9388V9.95527C10.284 7.8352 8.22699 5.99823 6.10699 6.09552C4.99099 6.15196 4.00001 6.70947 3.36301 7.55109C3.12101 7.87217 3 8.27012 3 8.67293V10.7668Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.55469 9.16748V10.3885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0006 16.423V18.2513M14.7466 16.7195V17.9561M14.4786 19.8752H17.5246C18.5806 19.8752 19.2406 19.2846 19.2406 18.1978V16.5077C19.2406 15.4044 18.5806 14.8002 17.5246 14.8002H14.4816C13.4226 14.8002 12.7656 15.3946 12.7656 16.4805V18.1978C12.7626 19.2846 13.4196 19.8752 14.4786 19.8752Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5215 12.6974V6.86348C13.5215 4.74337 15.5785 2.9064 17.6985 3.0037C18.8135 3.06013 19.8045 3.61764 20.4425 4.45926C20.6845 4.78034 20.8055 5.17829 20.8055 5.5811V7.67494C20.8055 8.07678 20.6855 8.47472 20.4435 8.79386C19.7335 9.72889 18.5765 10.3312 17.3175 10.3312H16.3115V11.8938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.25 6.07471V7.2958" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.light,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Airpod music icon with style variants.
 class _AirpodAirpodMusicIcon {
   const _AirpodAirpodMusicIcon();
@@ -1116,12 +1278,8 @@ class _AirpodAirpodMusicIcon {
   _AirpodAirpodMusicBold get bold => const _AirpodAirpodMusicBold();
   /// bulk style
   _AirpodAirpodMusicBulk get bulk => const _AirpodAirpodMusicBulk();
-  /// light style
-  _AirpodAirpodMusicLight get light => const _AirpodAirpodMusicLight();
   /// outline style
   _AirpodAirpodMusicOutline get outline => const _AirpodAirpodMusicOutline();
-  /// twoTone style
-  _AirpodAirpodMusicTwotone get twoTone => const _AirpodAirpodMusicTwotone();
   /// broken style
   _AirpodAirpodMusicBroken get broken => const _AirpodAirpodMusicBroken();
 }
@@ -1151,21 +1309,6 @@ class _AirpodAirpodMusicBroken {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.2251 12.5306V17.6744C20.2251 18.5492 19.5161 19.2585 18.6411 19.2585C17.7661 19.2585 17.0581 18.5492 17.0581 17.6744V11.3255H15.9151C14.4841 11.3255 13.1711 10.6414 12.3641 9.57988C12.0891 9.21695 11.9541 8.76547 11.9541 8.30912V5.93009C11.9541 5.47375 12.0901 5.0213 12.3661 4.65739C13.0901 3.70091 14.2151 3.06845 15.4821 3.00423C17.8901 2.89331 20.2251 4.97946 20.2251 7.3867V9.02906" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.8564 6.49207V7.87862" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.50757 21C8.04257 21 9.28656 19.7555 9.28656 18.2201C9.28656 16.6847 8.04257 15.4402 6.50757 15.4402C4.97157 15.4402 3.72656 16.6847 3.72656 18.2201C3.72656 19.7555 4.97157 21 6.50757 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.28711 18.22V11.3741C9.28711 11.3741 10.0091 13.254 11.9531 13.649" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.651 11.1286C5.563 11.1286 6.30096 10.3901 6.30096 9.47836C6.30096 8.56664 5.563 7.82715 4.651 7.82715C3.739 7.82715 3 8.56664 3 9.47836C3 10.3901 3.739 11.1286 4.651 11.1286Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.30078 9.47835L6.30182 5.41455C6.30182 5.41455 6.73077 6.52963 7.88477 6.7651" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Airpod',
     style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Airpod music — twoTone style variants.
-class _AirpodAirpodMusicTwotone {
-  const _AirpodAirpodMusicTwotone();
-
-  /// Airpod music — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Airpod music',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M14.856 6.49203V7.87858M11.954 8.30912C11.954 8.76547 12.089 9.21695 12.364 9.57988C13.171 10.6414 14.484 11.3255 15.915 11.3255H17.058V17.6744C17.058 18.5492 17.766 19.2585 18.641 19.2585C19.516 19.2585 20.225 18.5492 20.225 17.6744V7.3867C20.225 4.97946 17.89 2.89331 15.482 3.00423C14.215 3.06845 13.09 3.70091 12.366 4.65739C12.09 5.0213 11.954 5.47375 11.954 5.93009V8.30912Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.50757 20.9999C8.04257 20.9999 9.28656 19.7554 9.28656 18.22C9.28656 16.6846 8.04257 15.4401 6.50757 15.4401C4.97157 15.4401 3.72656 16.6846 3.72656 18.22C3.72656 19.7554 4.97157 20.9999 6.50757 20.9999Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.28711 18.22V11.3741C9.28711 11.3741 10.0091 13.254 11.9531 13.649" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.651 11.1286C5.563 11.1286 6.30096 10.3901 6.30096 9.47835C6.30096 8.56663 5.563 7.82714 4.651 7.82714C3.739 7.82714 3 8.56663 3 9.47835C3 10.3901 3.739 11.1286 4.651 11.1286Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.30078 9.47835L6.30182 5.41455C6.30182 5.41455 6.73077 6.52963 7.88477 6.7651" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -1201,21 +1344,6 @@ class _AirpodAirpodMusicBold {
 
 }
 
-/// Airpod music — light style variants.
-class _AirpodAirpodMusicLight {
-  const _AirpodAirpodMusicLight();
-
-  /// Airpod music — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Airpod music',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.8561 6.49203V7.87858M11.9541 8.30912C11.9541 8.76547 12.0891 9.21695 12.3641 9.57988C13.1711 10.6414 14.4841 11.3255 15.9151 11.3255H17.0581V17.6744C17.0581 18.5492 17.7661 19.2585 18.6411 19.2585C19.5161 19.2585 20.2251 18.5492 20.2251 17.6744V7.3867C20.2251 4.97946 17.8901 2.89331 15.4821 3.00423C14.2151 3.06845 13.0901 3.70091 12.3661 4.65739C12.0901 5.0213 11.9541 5.47375 11.9541 5.93009V8.30912Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.50757 21C8.04257 21 9.28656 19.7555 9.28656 18.2201C9.28656 16.6847 8.04257 15.4402 6.50757 15.4402C4.97157 15.4402 3.72656 16.6847 3.72656 18.2201C3.72656 19.7555 4.97157 21 6.50757 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.28711 18.22V11.3741C9.28711 11.3741 10.0091 13.254 11.9531 13.649" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.651 11.1286C5.563 11.1286 6.30096 10.3901 6.30096 9.47836C6.30096 8.56664 5.563 7.82715 4.651 7.82715C3.739 7.82715 3 8.56664 3 9.47836C3 10.3901 3.739 11.1286 4.651 11.1286Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.30078 9.47835L6.30182 5.41455C6.30182 5.41455 6.73077 6.52963 7.88477 6.7651" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.light,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Right airpod icon with style variants.
 class _AirpodRightAirpodIcon {
   const _AirpodRightAirpodIcon();
@@ -1224,12 +1352,8 @@ class _AirpodRightAirpodIcon {
   _AirpodRightAirpodBold get bold => const _AirpodRightAirpodBold();
   /// bulk style
   _AirpodRightAirpodBulk get bulk => const _AirpodRightAirpodBulk();
-  /// light style
-  _AirpodRightAirpodLight get light => const _AirpodRightAirpodLight();
   /// outline style
   _AirpodRightAirpodOutline get outline => const _AirpodRightAirpodOutline();
-  /// twoTone style
-  _AirpodRightAirpodTwotone get twoTone => const _AirpodRightAirpodTwotone();
   /// broken style
   _AirpodRightAirpodBroken get broken => const _AirpodRightAirpodBroken();
 }
@@ -1259,21 +1383,6 @@ class _AirpodRightAirpodBroken {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 12.3547V17.4032C3 18.2622 3.69699 18.9579 4.55499 18.9579C5.41399 18.9579 6.10901 18.2622 6.10901 17.4032V11.1717H7.23099C8.63499 11.1717 9.924 10.5014 10.715 9.4584C10.987 9.10231 11.119 8.65867 11.119 8.21113V5.87617C11.119 5.42863 10.985 4.98401 10.714 4.62696C10.004 3.68811 8.9 3.0674 7.655 3.00416C5.292 2.89519 3 4.94315 3 7.30633V9.22984" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.27148 6.42798V7.78907" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3508 10.982C15.8168 9.51896 12.5766 10.3871 11.1138 12.9206C9.65105 15.4543 10.5193 18.6944 13.0533 20.1574C15.5864 21.6199 18.8266 20.7518 20.2894 18.2181C20.9948 16.9964 21.1581 15.6103 20.854 14.3385" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6035 17.6851V15.8687M14.6035 15.8687V13.454H16.1035C16.7705 13.454 17.3105 13.9949 17.3105 14.6614C17.3105 15.3278 16.7705 15.8687 16.1035 15.8687H14.6035ZM16.9775 17.6854L15.8255 15.8767" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2598 4.78628C15.6358 4.56835 16.9288 5.50817 17.1458 6.88483" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Airpod',
     style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Right airpod — twoTone style variants.
-class _AirpodRightAirpodTwotone {
-  const _AirpodRightAirpodTwotone();
-
-  /// Right airpod — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Right airpod',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.271 6.42796V7.78905M11.119 8.21113C11.119 8.65867 10.987 9.10231 10.715 9.4584C9.924 10.5014 8.63499 11.1717 7.23099 11.1717H6.10901V17.4032C6.10901 18.2622 5.41399 18.9579 4.55499 18.9579C3.69699 18.9579 3 18.2622 3 17.4032V7.30633C3 4.94315 5.292 2.89519 7.655 3.00416C8.9 3.0674 10.004 3.68811 10.714 4.62696C10.985 4.98401 11.119 5.42863 11.119 5.87617V8.21113Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7023 10.2721C18.6273 10.2721 20.9993 12.644 20.9993 15.5696C20.9993 18.4951 18.6273 20.867 15.7023 20.867C12.7763 20.867 10.4043 18.4951 10.4043 15.5696C10.4043 12.644 12.7763 10.2721 15.7023 10.2721Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9775 17.6854L15.8255 15.8767M14.6035 17.6851V13.454H16.1035C16.7705 13.454 17.3105 13.9949 17.3105 14.6614C17.3105 15.3278 16.7705 15.8687 16.1035 15.8687H14.6035V17.6851Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2598 4.78628C15.6358 4.56835 16.9288 5.50817 17.1458 6.88483" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -1309,21 +1418,6 @@ class _AirpodRightAirpodBold {
 
 }
 
-/// Right airpod — light style variants.
-class _AirpodRightAirpodLight {
-  const _AirpodRightAirpodLight();
-
-  /// Right airpod — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Right airpod',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.271 6.42796V7.78905M11.119 8.21113C11.119 8.65867 10.987 9.10231 10.715 9.4584C9.924 10.5014 8.63499 11.1717 7.23099 11.1717H6.10901V17.4032C6.10901 18.2622 5.41399 18.9579 4.55499 18.9579C3.69699 18.9579 3 18.2622 3 17.4032V7.30633C3 4.94315 5.292 2.89519 7.655 3.00416C8.9 3.0674 10.004 3.68811 10.714 4.62696C10.985 4.98401 11.119 5.42863 11.119 5.87617V8.21113Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7023 10.2721C18.6273 10.2721 20.9993 12.644 20.9993 15.5696C20.9993 18.4951 18.6273 20.867 15.7023 20.867C12.7763 20.867 10.4043 18.4951 10.4043 15.5696C10.4043 12.644 12.7763 10.2721 15.7023 10.2721Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9775 17.6854L15.8255 15.8767M14.6035 17.6851V13.454H16.1035C16.7705 13.454 17.3105 13.9949 17.3105 14.6614C17.3105 15.3278 16.7705 15.8687 16.1035 15.8687H14.6035V17.6851Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2598 4.78628C15.6358 4.56835 16.9288 5.50817 17.1458 6.88483" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.light,
-    type: IconfyType.regular,
-  );
-
-}
-
 /// Airpods full battery icon with style variants.
 class _AirpodAirpodsFullBatteryIcon {
   const _AirpodAirpodsFullBatteryIcon();
@@ -1332,12 +1426,8 @@ class _AirpodAirpodsFullBatteryIcon {
   _AirpodAirpodsFullBatteryBold get bold => const _AirpodAirpodsFullBatteryBold();
   /// bulk style
   _AirpodAirpodsFullBatteryBulk get bulk => const _AirpodAirpodsFullBatteryBulk();
-  /// light style
-  _AirpodAirpodsFullBatteryLight get light => const _AirpodAirpodsFullBatteryLight();
   /// outline style
   _AirpodAirpodsFullBatteryOutline get outline => const _AirpodAirpodsFullBatteryOutline();
-  /// twoTone style
-  _AirpodAirpodsFullBatteryTwotone get twoTone => const _AirpodAirpodsFullBatteryTwotone();
   /// broken style
   _AirpodAirpodsFullBatteryBroken get broken => const _AirpodAirpodsFullBatteryBroken();
 }
@@ -1367,21 +1457,6 @@ class _AirpodAirpodsFullBatteryBroken {
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.784 15.447V18.9387C10.784 19.7093 10.159 20.3339 9.388 20.3339C8.619 20.3339 7.99399 19.7093 7.99399 18.9387V13.4229H6.98801C5.72901 13.4229 4.572 12.8206 3.862 11.8856C3.619 11.5665 3.5 11.1685 3.5 10.7667V8.6729C3.5 8.27009 3.62101 7.87214 3.86301 7.55106C4.50001 6.70944 5.49099 6.15193 6.60699 6.09549C8.72699 5.9982 10.784 7.83517 10.784 9.95524V12.2011" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.05371 9.16748V10.3885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0215 12.6974V6.86348C14.0215 4.74337 16.0785 2.9064 18.1985 3.0037C19.3135 3.06013 20.3045 3.61764 20.9425 4.45926C21.1845 4.78034 21.3055 5.17829 21.3055 5.5811V7.67494C21.3055 8.07678 21.1855 8.47472 20.9435 8.79386C20.2335 9.72889 19.0765 10.3312 17.8175 10.3312H16.8115V11.8938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.75 6.07471V7.2958" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.4997 16.423V18.2513M15.2457 16.7195V17.9561M17.2187 16.7195V17.9561M14.9767 19.8752H18.0227C19.0787 19.8752 19.7387 19.2846 19.7387 18.1978V16.5077C19.7387 15.4044 19.0787 14.8002 18.0227 14.8002H14.9797C13.9207 14.8002 13.2637 15.3946 13.2637 16.4805V18.1978C13.2607 19.2846 13.9177 19.8752 14.9767 19.8752Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Airpod',
     style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Airpods full battery — twoTone style variants.
-class _AirpodAirpodsFullBatteryTwotone {
-  const _AirpodAirpodsFullBatteryTwotone();
-
-  /// Airpods full battery — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Airpods full battery',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3 10.7668C3 11.1686 3.119 11.5666 3.362 11.8857C4.072 12.8207 5.22901 13.423 6.48801 13.423H7.49399V18.9388C7.49399 19.7094 8.119 20.334 8.888 20.334C9.659 20.334 10.284 19.7094 10.284 18.9388V9.95529C10.284 7.83522 8.22699 5.99825 6.10699 6.09554C4.99099 6.15198 4.00001 6.70949 3.36301 7.55111C3.12101 7.87219 3 8.27014 3 8.67295V10.7668Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.55371 9.16748V10.3885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.5215 12.6974V6.86348C13.5215 4.74337 15.5785 2.9064 17.6985 3.0037C18.8135 3.06013 19.8045 3.61764 20.4425 4.45926C20.6845 4.78034 20.8055 5.17829 20.8055 5.5811V7.67494C20.8055 8.07678 20.6855 8.47472 20.4435 8.79386C19.7335 9.72889 18.5765 10.3312 17.3175 10.3312H16.3115V11.8938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.25 6.07471V7.2958" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9997 16.423V18.2513M14.7457 16.7195V17.9561M16.7187 16.7195V17.9561M14.4767 19.8752H17.5227C18.5787 19.8752 19.2387 19.2846 19.2387 18.1978V16.5077C19.2387 15.4044 18.5787 14.8002 17.5227 14.8002H14.4797C13.4207 14.8002 12.7637 15.3946 12.7637 16.4805V18.1978C12.7607 19.2846 13.4177 19.8752 14.4767 19.8752Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Airpod',
-    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
@@ -1417,14 +1492,79 @@ class _AirpodAirpodsFullBatteryBold {
 
 }
 
-/// Airpods full battery — light style variants.
-class _AirpodAirpodsFullBatteryLight {
-  const _AirpodAirpodsFullBatteryLight();
+/// Airpods low battery icon with style variants.
+class _AirpodAirpodsLowBattery1Icon {
+  const _AirpodAirpodsLowBattery1Icon();
 
-  /// Airpods full battery — light / regular
+  /// light style
+  _AirpodAirpodsLowBattery1Light get light => const _AirpodAirpodsLowBattery1Light();
+  /// twoTone style
+  _AirpodAirpodsLowBattery1Twotone get twoTone => const _AirpodAirpodsLowBattery1Twotone();
+}
+
+/// Airpods low battery — twoTone style variants.
+class _AirpodAirpodsLowBattery1Twotone {
+  const _AirpodAirpodsLowBattery1Twotone();
+
+  /// Airpods low battery — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Airpods full battery',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 10.7668C3 11.1686 3.119 11.5666 3.362 11.8857C4.072 12.8207 5.22901 13.423 6.48801 13.423H7.49399V18.9388C7.49399 19.7094 8.119 20.334 8.888 20.334C9.659 20.334 10.284 19.7094 10.284 18.9388V9.95527C10.284 7.8352 8.22699 5.99823 6.10699 6.09552C4.99099 6.15196 4.00001 6.70947 3.36301 7.55109C3.12101 7.87217 3 8.27012 3 8.67293V10.7668Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.55371 9.16748V10.3885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5215 12.6974V6.86348C13.5215 4.74337 15.5785 2.9064 17.6985 3.0037C18.8135 3.06013 19.8045 3.61764 20.4425 4.45926C20.6845 4.78034 20.8055 5.17829 20.8055 5.5811V7.67494C20.8055 8.07678 20.6855 8.47472 20.4435 8.79386C19.7335 9.72889 18.5765 10.3312 17.3175 10.3312H16.3115V11.8938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.25 6.07471V7.2958" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9997 16.423V18.2513M14.7457 16.7195V17.9561M16.7187 16.7195V17.9561M14.4767 19.8752H17.5227C18.5787 19.8752 19.2387 19.2846 19.2387 18.1978V16.5077C19.2387 15.4044 18.5787 14.8002 17.5227 14.8002H14.4797C13.4207 14.8002 12.7637 15.3946 12.7637 16.4805V18.1978C12.7607 19.2846 13.4177 19.8752 14.4767 19.8752Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    name: 'Airpods low battery',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3 10.7668C3 11.1686 3.119 11.5666 3.362 11.8857C4.072 12.8207 5.22901 13.423 6.48801 13.423H7.49399V18.9388C7.49399 19.7094 8.119 20.334 8.888 20.334C9.659 20.334 10.284 19.7094 10.284 18.9388V9.95529C10.284 7.83522 8.22699 5.99825 6.10699 6.09554C4.99099 6.15198 4.00001 6.70949 3.36301 7.55111C3.12101 7.87219 3 8.27014 3 8.67295V10.7668Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.55469 9.16748V10.3885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0006 16.423V18.2513M14.7466 16.7195V17.9561M14.4786 19.8752H17.5246C18.5806 19.8752 19.2406 19.2846 19.2406 18.1978V16.5077C19.2406 15.4044 18.5806 14.8002 17.5246 14.8002H14.4816C13.4226 14.8002 12.7656 15.3946 12.7656 16.4805V18.1978C12.7626 19.2846 13.4196 19.8752 14.4786 19.8752Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.5215 12.6974V6.86348C13.5215 4.74337 15.5785 2.9064 17.6985 3.0037C18.8135 3.06013 19.8045 3.61764 20.4425 4.45926C20.6845 4.78034 20.8055 5.17829 20.8055 5.5811V7.67494C20.8055 8.07678 20.6855 8.47472 20.4435 8.79386C19.7335 9.72889 18.5765 10.3312 17.3175 10.3312H16.3115V11.8938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.25 6.07471V7.2958" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpods low battery — light style variants.
+class _AirpodAirpodsLowBattery1Light {
+  const _AirpodAirpodsLowBattery1Light();
+
+  /// Airpods low battery — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpods low battery',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 10.7668C3 11.1686 3.119 11.5666 3.362 11.8857C4.072 12.8207 5.22901 13.423 6.48801 13.423H7.49399V18.9388C7.49399 19.7094 8.119 20.334 8.888 20.334C9.659 20.334 10.284 19.7094 10.284 18.9388V9.95527C10.284 7.8352 8.22699 5.99823 6.10699 6.09552C4.99099 6.15196 4.00001 6.70947 3.36301 7.55109C3.12101 7.87217 3 8.27012 3 8.67293V10.7668Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.55469 9.16748V10.3885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.0006 16.423V18.2513M14.7466 16.7195V17.9561M14.4786 19.8752H17.5246C18.5806 19.8752 19.2406 19.2846 19.2406 18.1978V16.5077C19.2406 15.4044 18.5806 14.8002 17.5246 14.8002H14.4816C13.4226 14.8002 12.7656 15.3946 12.7656 16.4805V18.1978C12.7626 19.2846 13.4196 19.8752 14.4786 19.8752Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5215 12.6974V6.86348C13.5215 4.74337 15.5785 2.9064 17.6985 3.0037C18.8135 3.06013 19.8045 3.61764 20.4425 4.45926C20.6845 4.78034 20.8055 5.17829 20.8055 5.5811V7.67494C20.8055 8.07678 20.6855 8.47472 20.4435 8.79386C19.7335 9.72889 18.5765 10.3312 17.3175 10.3312H16.3115V11.8938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.25 6.07471V7.2958" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Left airpod icon with style variants.
+class _AirpodLeftAirpod1Icon {
+  const _AirpodLeftAirpod1Icon();
+
+  /// light style
+  _AirpodLeftAirpod1Light get light => const _AirpodLeftAirpod1Light();
+  /// twoTone style
+  _AirpodLeftAirpod1Twotone get twoTone => const _AirpodLeftAirpod1Twotone();
+}
+
+/// Left airpod — twoTone style variants.
+class _AirpodLeftAirpod1Twotone {
+  const _AirpodLeftAirpod1Twotone();
+
+  /// Left airpod — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Left airpod',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M15.729 6.44051V7.80655M12.881 8.22991C12.881 8.67844 13.013 9.12406 13.284 9.48211C14.075 10.528 15.365 11.2013 16.769 11.2013H17.89V17.4555C17.89 18.3175 18.586 19.0161 19.445 19.0161C20.303 19.0161 21 18.3175 21 17.4555V7.32116C21 4.95006 18.708 2.89518 16.344 3.00415C15.1 3.06739 13.996 3.69106 13.285 4.63288C13.015 4.99093 12.881 5.43654 12.881 5.88702V8.22991Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.74246 4.79314C8.36546 4.57422 7.07247 5.51799 6.85547 6.89959" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.298 10.2991C5.372 10.2991 3 12.6789 3 15.6153C3 18.5517 5.372 20.9325 8.298 20.9325C11.223 20.9325 13.596 18.5517 13.596 15.6153C13.596 12.6789 11.223 10.2991 8.298 10.2991Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.38281 13.3567V17.1989H9.69882" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Left airpod — light style variants.
+class _AirpodLeftAirpod1Light {
+  const _AirpodLeftAirpod1Light();
+
+  /// Left airpod — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Left airpod',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.7289 6.44051V7.80655M12.8809 8.22991C12.8809 8.67844 13.0128 9.12406 13.2838 9.48211C14.0748 10.528 15.3649 11.2013 16.7689 11.2013H17.8899V17.4555C17.8899 18.3175 18.5859 19.0161 19.4449 19.0161C20.3029 19.0161 20.9998 18.3175 20.9998 17.4555V7.32116C20.9998 4.95006 18.7078 2.89518 16.3438 3.00415C15.0998 3.06739 13.9959 3.69106 13.2849 4.63288C13.0149 4.99093 12.8809 5.43654 12.8809 5.88702V8.22991Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.74246 4.79314C8.36546 4.57422 7.07247 5.51799 6.85547 6.89959" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.298 10.2991C5.372 10.2991 3 12.6789 3 15.6153C3 18.5517 5.372 20.9325 8.298 20.9325C11.223 20.9325 13.596 18.5517 13.596 15.6153C13.596 12.6789 11.223 10.2991 8.298 10.2991Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.38281 13.3567V17.1989H9.69882" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Airpod',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -1433,18 +1573,18 @@ class _AirpodAirpodsFullBatteryLight {
 }
 
 /// Airpod case 1 icon with style variants.
-class _AirpodAirpodCase1Icon {
-  const _AirpodAirpodCase1Icon();
+class _AirpodAirpodCase11Icon {
+  const _AirpodAirpodCase11Icon();
 
   /// light style
-  _AirpodAirpodCase1Light get light => const _AirpodAirpodCase1Light();
+  _AirpodAirpodCase11Light get light => const _AirpodAirpodCase11Light();
   /// twoTone style
-  _AirpodAirpodCase1Twotone get twoTone => const _AirpodAirpodCase1Twotone();
+  _AirpodAirpodCase11Twotone get twoTone => const _AirpodAirpodCase11Twotone();
 }
 
 /// Airpod case 1 — twoTone style variants.
-class _AirpodAirpodCase1Twotone {
-  const _AirpodAirpodCase1Twotone();
+class _AirpodAirpodCase11Twotone {
+  const _AirpodAirpodCase11Twotone();
 
   /// Airpod case 1 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -1458,13 +1598,93 @@ class _AirpodAirpodCase1Twotone {
 }
 
 /// Airpod case 1 — light style variants.
-class _AirpodAirpodCase1Light {
-  const _AirpodAirpodCase1Light();
+class _AirpodAirpodCase11Light {
+  const _AirpodAirpodCase11Light();
 
   /// Airpod case 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Airpod case 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.684 11.9204C19.684 11.0156 18.95 10.281 18.045 10.281H6.63995C5.73395 10.281 5 11.0156 5 11.9204V16.936C5 19.1806 6.81999 21 9.06299 21H15.621C17.866 21 19.684 19.1806 19.684 16.936V11.9204Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1699 10.2823V5.80863C11.1699 4.27039 9.67594 2.93258 8.12994 3.00263C7.32094 3.04544 6.59989 3.44533 6.13989 4.06218C5.96689 4.29666 5.87891 4.58368 5.87891 4.87848V6.39921C5.87891 6.68526 5.96689 6.97228 6.13989 7.20676C6.65289 7.88491 7.4949 8.3276 8.4079 8.3276H9.13794V10.2823" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.5396 10.2823V8.3276H16.2786C17.1906 8.3276 18.0336 7.88491 18.5456 7.20676C18.7196 6.97228 18.8056 6.68526 18.8056 6.39921V4.87848C18.8056 4.58368 18.7196 4.29666 18.5456 4.06218C18.0846 3.44533 17.3636 3.04544 16.5476 3.00263C15.0096 2.93258 13.5156 4.27039 13.5156 5.80863V10.2823" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.3433 17.3935V17.4415M12.5378 17.4038C12.5378 17.5118 12.4501 17.5994 12.3421 17.5994C12.234 17.5994 12.1465 17.5118 12.1465 17.4038C12.1465 17.2957 12.234 17.2081 12.3421 17.2081C12.4501 17.2081 12.5378 17.2957 12.5378 17.4038Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpods connected icon with style variants.
+class _AirpodAirpodsConnected1Icon {
+  const _AirpodAirpodsConnected1Icon();
+
+  /// light style
+  _AirpodAirpodsConnected1Light get light => const _AirpodAirpodsConnected1Light();
+  /// twoTone style
+  _AirpodAirpodsConnected1Twotone get twoTone => const _AirpodAirpodsConnected1Twotone();
+}
+
+/// Airpods connected — twoTone style variants.
+class _AirpodAirpodsConnected1Twotone {
+  const _AirpodAirpodsConnected1Twotone();
+
+  /// Airpods connected — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpods connected',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3.3619 11.8926C3.1187 11.5725 3 11.1745 3 10.7727V8.67689C3 8.27408 3.1206 7.87515 3.3629 7.55504C4.0012 6.71244 4.9927 6.15395 6.1087 6.09849C8.2307 6.00022 10.2886 7.83818 10.2886 9.96028V18.9516C10.2886 19.7222 9.6639 20.3468 8.8933 20.3468C8.1227 20.3468 7.4971 19.7222 7.4971 18.9516V13.4309H6.4901C5.2301 13.4309 4.0732 12.8286 3.3619 11.8926Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.55664 9.17139V10.3935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.5293 11.4891V6.86553C13.5293 4.74443 15.5872 2.9055 17.7093 3.00377C18.8253 3.0602 19.8167 3.61772 20.455 4.46032C20.6983 4.7814 20.8179 5.17935 20.8179 5.58217V7.67796C20.8179 8.0798 20.6992 8.47775 20.456 8.79786C19.7457 9.73387 18.5879 10.3362 17.3279 10.3362H16.3208V10.6845" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.2607 6.07666V7.29872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0704 20.8062C19.2412 20.8062 21.0003 19.047 21.0003 16.8763C21.0003 14.7056 19.2412 12.9465 17.0704 12.9465C14.8997 12.9465 13.1406 14.7056 13.1406 16.8763C13.1406 19.047 14.8997 20.8062 17.0704 20.8062Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.5605 16.8244L16.4916 17.7566L18.4094 15.8378" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpods connected — light style variants.
+class _AirpodAirpodsConnected1Light {
+  const _AirpodAirpodsConnected1Light();
+
+  /// Airpods connected — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpods connected',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.3619 11.8926C3.1187 11.5725 3 11.1745 3 10.7727V8.6769C3 8.27409 3.1206 7.87515 3.3629 7.55504C4.0012 6.71244 4.9927 6.15395 6.1087 6.09849C8.2307 6.00022 10.2886 7.83819 10.2886 9.96029V18.9516C10.2886 19.7222 9.6639 20.3468 8.8933 20.3468C8.1227 20.3468 7.4971 19.7222 7.4971 18.9516V13.4309H6.4901C5.2301 13.4309 4.0732 12.8286 3.3619 11.8926Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.55664 9.17139V10.3935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5293 11.4891V6.86553C13.5293 4.74443 15.5872 2.9055 17.7093 3.00377C18.8253 3.0602 19.8167 3.61772 20.455 4.46032C20.6983 4.7814 20.8179 5.17935 20.8179 5.58217V7.67796C20.8179 8.0798 20.6992 8.47775 20.456 8.79786C19.7457 9.73387 18.5879 10.3362 17.3279 10.3362H16.3208V10.6845" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2607 6.07666V7.29872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0704 20.8062C19.2412 20.8062 21.0003 19.047 21.0003 16.8763C21.0003 14.7056 19.2412 12.9465 17.0704 12.9465C14.8997 12.9465 13.1406 14.7056 13.1406 16.8763C13.1406 19.047 14.8997 20.8062 17.0704 20.8062Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.5605 16.8244L16.4916 17.7566L18.4094 15.8378" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Right airpod icon with style variants.
+class _AirpodRightAirpod1Icon {
+  const _AirpodRightAirpod1Icon();
+
+  /// light style
+  _AirpodRightAirpod1Light get light => const _AirpodRightAirpod1Light();
+  /// twoTone style
+  _AirpodRightAirpod1Twotone get twoTone => const _AirpodRightAirpod1Twotone();
+}
+
+/// Right airpod — twoTone style variants.
+class _AirpodRightAirpod1Twotone {
+  const _AirpodRightAirpod1Twotone();
+
+  /// Right airpod — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Right airpod',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.271 6.42796V7.78905M11.119 8.21113C11.119 8.65867 10.987 9.10231 10.715 9.4584C9.924 10.5014 8.63499 11.1717 7.23099 11.1717H6.10901V17.4032C6.10901 18.2622 5.41399 18.9579 4.55499 18.9579C3.69699 18.9579 3 18.2622 3 17.4032V7.30633C3 4.94315 5.292 2.89519 7.655 3.00416C8.9 3.0674 10.004 3.68811 10.714 4.62696C10.985 4.98401 11.119 5.42863 11.119 5.87617V8.21113Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7023 10.2721C18.6273 10.2721 20.9993 12.644 20.9993 15.5696C20.9993 18.4951 18.6273 20.867 15.7023 20.867C12.7763 20.867 10.4043 18.4951 10.4043 15.5696C10.4043 12.644 12.7763 10.2721 15.7023 10.2721Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9775 17.6854L15.8255 15.8767M14.6035 17.6851V13.454H16.1035C16.7705 13.454 17.3105 13.9949 17.3105 14.6614C17.3105 15.3278 16.7705 15.8687 16.1035 15.8687H14.6035V17.6851Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2598 4.78628C15.6358 4.56835 16.9288 5.50817 17.1458 6.88483" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Right airpod — light style variants.
+class _AirpodRightAirpod1Light {
+  const _AirpodRightAirpod1Light();
+
+  /// Right airpod — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Right airpod',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.271 6.42796V7.78905M11.119 8.21113C11.119 8.65867 10.987 9.10231 10.715 9.4584C9.924 10.5014 8.63499 11.1717 7.23099 11.1717H6.10901V17.4032C6.10901 18.2622 5.41399 18.9579 4.55499 18.9579C3.69699 18.9579 3 18.2622 3 17.4032V7.30633C3 4.94315 5.292 2.89519 7.655 3.00416C8.9 3.0674 10.004 3.68811 10.714 4.62696C10.985 4.98401 11.119 5.42863 11.119 5.87617V8.21113Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7023 10.2721C18.6273 10.2721 20.9993 12.644 20.9993 15.5696C20.9993 18.4951 18.6273 20.867 15.7023 20.867C12.7763 20.867 10.4043 18.4951 10.4043 15.5696C10.4043 12.644 12.7763 10.2721 15.7023 10.2721Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9775 17.6854L15.8255 15.8767M14.6035 17.6851V13.454H16.1035C16.7705 13.454 17.3105 13.9949 17.3105 14.6614C17.3105 15.3278 16.7705 15.8687 16.1035 15.8687H14.6035V17.6851Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2598 4.78628C15.6358 4.56835 16.9288 5.50817 17.1458 6.88483" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Airpod',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -1505,6 +1725,46 @@ class _AirpodAirpodProCase2Light {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Airpod pro case 2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.876 4H8.12299C5.29399 4 3 6.2931 3 9.1222V15.3213C3 18.1504 5.29399 20.4445 8.12299 20.4445H15.876C18.705 20.4445 20.998 18.1504 20.998 15.3213V9.1222C20.998 6.2931 18.705 4 15.876 4Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.00195 9.93127H20.9999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.001 14.0802V14.1282M12.1955 14.0905C12.1955 14.1985 12.1079 14.2861 11.9998 14.2861C11.8917 14.2861 11.8042 14.1985 11.8042 14.0905C11.8042 13.9824 11.8917 13.8948 11.9998 13.8948C12.1079 13.8948 12.1955 13.9824 12.1955 14.0905Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Left airpod pro icon with style variants.
+class _AirpodLeftAirpodPro1Icon {
+  const _AirpodLeftAirpodPro1Icon();
+
+  /// light style
+  _AirpodLeftAirpodPro1Light get light => const _AirpodLeftAirpodPro1Light();
+  /// twoTone style
+  _AirpodLeftAirpodPro1Twotone get twoTone => const _AirpodLeftAirpodPro1Twotone();
+}
+
+/// Left airpod pro — twoTone style variants.
+class _AirpodLeftAirpodPro1Twotone {
+  const _AirpodLeftAirpodPro1Twotone();
+
+  /// Left airpod pro — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Left airpod pro',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.418 5.01C5.916 4.536 6.86402 3.9 8.28702 4.031C8.97302 4.094 9.51102 4.657 9.51102 5.347V10.844C9.51102 11.533 8.97302 12.097 8.28702 12.16C6.80402 12.296 5.83599 11.599 5.35699 11.121C5.11999 10.885 5 10.556 5 10.221V5.974C5 5.607 5.152 5.263 5.418 5.01Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.2871 7.4541H15.1971" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.24902 11.641C10.342 12.606 11.866 13.199 13.564 13.199C13.726 13.199 13.889 13.199 14.052 13.176L12.606 18.063C12.307 19.291 12.963 20.586 14.204 20.921C15.343 21.228 16.524 20.622 16.941 19.518C17.939 16.876 19.3581 12.579 19.5421 8.931C19.7431 5.458 16.878 3 13.564 3C11.866 3 10.342 3.605 9.24902 4.57" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Left airpod pro — light style variants.
+class _AirpodLeftAirpodPro1Light {
+  const _AirpodLeftAirpodPro1Light();
+
+  /// Left airpod pro — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Left airpod pro',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.418 5.01001C5.916 4.53601 6.86402 3.9 8.28702 4.031C8.97302 4.094 9.51102 4.65701 9.51102 5.34701V10.844C9.51102 11.533 8.97302 12.097 8.28702 12.16C6.80402 12.296 5.83599 11.599 5.35699 11.121C5.11999 10.885 5 10.556 5 10.221V5.97401C5 5.60701 5.152 5.26301 5.418 5.01001Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.2871 7.4541H15.1971" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.24902 11.641C10.342 12.606 11.866 13.199 13.564 13.199C13.726 13.199 13.889 13.199 14.052 13.176L12.606 18.063C12.307 19.291 12.963 20.586 14.204 20.921C15.343 21.228 16.524 20.622 16.941 19.518C17.939 16.876 19.3581 12.579 19.5421 8.931C19.7431 5.458 16.878 3 13.564 3C11.866 3 10.342 3.605 9.24902 4.57" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Airpod',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -1553,18 +1813,18 @@ class _AirpodAirpod1Light {
 }
 
 /// Airpod case 4 icon with style variants.
-class _AirpodAirpodCase4Icon {
-  const _AirpodAirpodCase4Icon();
+class _AirpodAirpodCase41Icon {
+  const _AirpodAirpodCase41Icon();
 
   /// light style
-  _AirpodAirpodCase4Light get light => const _AirpodAirpodCase4Light();
+  _AirpodAirpodCase41Light get light => const _AirpodAirpodCase41Light();
   /// twoTone style
-  _AirpodAirpodCase4Twotone get twoTone => const _AirpodAirpodCase4Twotone();
+  _AirpodAirpodCase41Twotone get twoTone => const _AirpodAirpodCase41Twotone();
 }
 
 /// Airpod case 4 — twoTone style variants.
-class _AirpodAirpodCase4Twotone {
-  const _AirpodAirpodCase4Twotone();
+class _AirpodAirpodCase41Twotone {
+  const _AirpodAirpodCase41Twotone();
 
   /// Airpod case 4 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -1578,8 +1838,8 @@ class _AirpodAirpodCase4Twotone {
 }
 
 /// Airpod case 4 — light style variants.
-class _AirpodAirpodCase4Light {
-  const _AirpodAirpodCase4Light();
+class _AirpodAirpodCase41Light {
+  const _AirpodAirpodCase41Light();
 
   /// Airpod case 4 — light / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -1632,19 +1892,99 @@ class _AirpodAirpodCase5Light {
 
 }
 
-/// Airpod pro case 1 icon with style variants.
-class _AirpodAirpodProCase1Icon {
-  const _AirpodAirpodProCase1Icon();
+/// Airpod music icon with style variants.
+class _AirpodAirpodMusic1Icon {
+  const _AirpodAirpodMusic1Icon();
 
   /// light style
-  _AirpodAirpodProCase1Light get light => const _AirpodAirpodProCase1Light();
+  _AirpodAirpodMusic1Light get light => const _AirpodAirpodMusic1Light();
   /// twoTone style
-  _AirpodAirpodProCase1Twotone get twoTone => const _AirpodAirpodProCase1Twotone();
+  _AirpodAirpodMusic1Twotone get twoTone => const _AirpodAirpodMusic1Twotone();
+}
+
+/// Airpod music — twoTone style variants.
+class _AirpodAirpodMusic1Twotone {
+  const _AirpodAirpodMusic1Twotone();
+
+  /// Airpod music — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod music',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M14.856 6.49203V7.87858M11.954 8.30912C11.954 8.76547 12.089 9.21695 12.364 9.57988C13.171 10.6414 14.484 11.3255 15.915 11.3255H17.058V17.6744C17.058 18.5492 17.766 19.2585 18.641 19.2585C19.516 19.2585 20.225 18.5492 20.225 17.6744V7.3867C20.225 4.97946 17.89 2.89331 15.482 3.00423C14.215 3.06845 13.09 3.70091 12.366 4.65739C12.09 5.0213 11.954 5.47375 11.954 5.93009V8.30912Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.50757 20.9999C8.04257 20.9999 9.28656 19.7554 9.28656 18.22C9.28656 16.6846 8.04257 15.4401 6.50757 15.4401C4.97157 15.4401 3.72656 16.6846 3.72656 18.22C3.72656 19.7554 4.97157 20.9999 6.50757 20.9999Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.28711 18.22V11.3741C9.28711 11.3741 10.0091 13.254 11.9531 13.649" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.651 11.1286C5.563 11.1286 6.30096 10.3901 6.30096 9.47835C6.30096 8.56663 5.563 7.82714 4.651 7.82714C3.739 7.82714 3 8.56663 3 9.47835C3 10.3901 3.739 11.1286 4.651 11.1286Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.30078 9.47835L6.30182 5.41455C6.30182 5.41455 6.73077 6.52963 7.88477 6.7651" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod music — light style variants.
+class _AirpodAirpodMusic1Light {
+  const _AirpodAirpodMusic1Light();
+
+  /// Airpod music — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpod music',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.8561 6.49203V7.87858M11.9541 8.30912C11.9541 8.76547 12.0891 9.21695 12.3641 9.57988C13.1711 10.6414 14.4841 11.3255 15.9151 11.3255H17.0581V17.6744C17.0581 18.5492 17.7661 19.2585 18.6411 19.2585C19.5161 19.2585 20.2251 18.5492 20.2251 17.6744V7.3867C20.2251 4.97946 17.8901 2.89331 15.4821 3.00423C14.2151 3.06845 13.0901 3.70091 12.3661 4.65739C12.0901 5.0213 11.9541 5.47375 11.9541 5.93009V8.30912Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.50757 21C8.04257 21 9.28656 19.7555 9.28656 18.2201C9.28656 16.6847 8.04257 15.4402 6.50757 15.4402C4.97157 15.4402 3.72656 16.6847 3.72656 18.2201C3.72656 19.7555 4.97157 21 6.50757 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.28711 18.22V11.3741C9.28711 11.3741 10.0091 13.254 11.9531 13.649" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.651 11.1286C5.563 11.1286 6.30096 10.3901 6.30096 9.47836C6.30096 8.56664 5.563 7.82715 4.651 7.82715C3.739 7.82715 3 8.56664 3 9.47836C3 10.3901 3.739 11.1286 4.651 11.1286Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.30078 9.47835L6.30182 5.41455C6.30182 5.41455 6.73077 6.52963 7.88477 6.7651" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpods Charge icon with style variants.
+class _AirpodAirpodsCharge1Icon {
+  const _AirpodAirpodsCharge1Icon();
+
+  /// light style
+  _AirpodAirpodsCharge1Light get light => const _AirpodAirpodsCharge1Light();
+  /// twoTone style
+  _AirpodAirpodsCharge1Twotone get twoTone => const _AirpodAirpodsCharge1Twotone();
+}
+
+/// Airpods Charge — twoTone style variants.
+class _AirpodAirpodsCharge1Twotone {
+  const _AirpodAirpodsCharge1Twotone();
+
+  /// Airpods Charge — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpods Charge',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M13.53 11.4891V6.86553C13.53 4.74443 15.588 2.9055 17.71 3.00377C18.826 3.0602 19.817 3.61772 20.456 4.46032C20.699 4.7814 20.818 5.17935 20.818 5.58217V7.67796C20.818 8.0798 20.7 8.47775 20.456 8.79786C19.746 9.73387 18.588 10.3362 17.328 10.3362H16.321V10.6845M3 10.7727C3 11.1745 3.119 11.5725 3.362 11.8926C4.073 12.8286 5.23001 13.4309 6.49001 13.4309H7.49699V18.9516C7.49699 19.7222 8.12301 20.3468 8.89301 20.3468C9.66401 20.3468 10.289 19.7222 10.289 18.9516V9.96028C10.289 7.83818 8.23099 6.00022 6.10899 6.09849C4.99299 6.15395 4.00101 6.71244 3.36301 7.55504C3.12101 7.87515 3 8.27408 3 8.67689V10.7727Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.55664 9.17139V10.3935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.2617 6.07666V7.29872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0706 20.8062C19.2416 20.8062 21.0006 19.047 21.0006 16.8763C21.0006 14.7056 19.2416 12.9465 17.0706 12.9465C14.8996 12.9465 13.1406 14.7056 13.1406 16.8763C13.1406 19.047 14.8996 20.8062 17.0706 20.8062Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2224 18.4447L18.0764 16.8762H16.0684L16.9214 15.3068" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpods Charge — light style variants.
+class _AirpodAirpodsCharge1Light {
+  const _AirpodAirpodsCharge1Light();
+
+  /// Airpods Charge — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpods Charge',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.53 11.4891V6.86553C13.53 4.74443 15.588 2.9055 17.71 3.00377C18.826 3.0602 19.817 3.61772 20.456 4.46032C20.699 4.7814 20.818 5.17935 20.818 5.58217V7.67796C20.818 8.0798 20.7 8.47775 20.456 8.79786C19.746 9.73387 18.588 10.3362 17.328 10.3362H16.321V10.6845M3 10.7727C3 11.1745 3.119 11.5725 3.362 11.8926C4.073 12.8286 5.23001 13.4309 6.49001 13.4309H7.49699V18.9516C7.49699 19.7222 8.12301 20.3468 8.89301 20.3468C9.66401 20.3468 10.289 19.7222 10.289 18.9516V9.96028C10.289 7.83818 8.23099 6.00022 6.10899 6.09849C4.99299 6.15395 4.00101 6.71244 3.36301 7.55504C3.12101 7.87515 3 8.27408 3 8.67689V10.7727Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.55664 9.17139V10.3935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2617 6.07666V7.29872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0706 20.8062C19.2416 20.8062 21.0006 19.047 21.0006 16.8763C21.0006 14.7056 19.2416 12.9465 17.0706 12.9465C14.8996 12.9465 13.1406 14.7056 13.1406 16.8763C13.1406 19.047 14.8996 20.8062 17.0706 20.8062Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2224 18.4447L18.0764 16.8762H16.0684L16.9214 15.3068" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod pro case 1 icon with style variants.
+class _AirpodAirpodProCase11Icon {
+  const _AirpodAirpodProCase11Icon();
+
+  /// light style
+  _AirpodAirpodProCase11Light get light => const _AirpodAirpodProCase11Light();
+  /// twoTone style
+  _AirpodAirpodProCase11Twotone get twoTone => const _AirpodAirpodProCase11Twotone();
 }
 
 /// Airpod pro case 1 — twoTone style variants.
-class _AirpodAirpodProCase1Twotone {
-  const _AirpodAirpodProCase1Twotone();
+class _AirpodAirpodProCase11Twotone {
+  const _AirpodAirpodProCase11Twotone();
 
   /// Airpod pro case 1 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -1658,8 +1998,8 @@ class _AirpodAirpodProCase1Twotone {
 }
 
 /// Airpod pro case 1 — light style variants.
-class _AirpodAirpodProCase1Light {
-  const _AirpodAirpodProCase1Light();
+class _AirpodAirpodProCase11Light {
+  const _AirpodAirpodProCase11Light();
 
   /// Airpod pro case 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -1713,18 +2053,18 @@ class _AirpodAirpodPro1Light {
 }
 
 /// Airpod case 2 icon with style variants.
-class _AirpodAirpodCase2Icon {
-  const _AirpodAirpodCase2Icon();
+class _AirpodAirpodCase21Icon {
+  const _AirpodAirpodCase21Icon();
 
   /// light style
-  _AirpodAirpodCase2Light get light => const _AirpodAirpodCase2Light();
+  _AirpodAirpodCase21Light get light => const _AirpodAirpodCase21Light();
   /// twoTone style
-  _AirpodAirpodCase2Twotone get twoTone => const _AirpodAirpodCase2Twotone();
+  _AirpodAirpodCase21Twotone get twoTone => const _AirpodAirpodCase21Twotone();
 }
 
 /// Airpod case 2 — twoTone style variants.
-class _AirpodAirpodCase2Twotone {
-  const _AirpodAirpodCase2Twotone();
+class _AirpodAirpodCase21Twotone {
+  const _AirpodAirpodCase21Twotone();
 
   /// Airpod case 2 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -1738,8 +2078,8 @@ class _AirpodAirpodCase2Twotone {
 }
 
 /// Airpod case 2 — light style variants.
-class _AirpodAirpodCase2Light {
-  const _AirpodAirpodCase2Light();
+class _AirpodAirpodCase21Light {
+  const _AirpodAirpodCase21Light();
 
   /// Airpod case 2 — light / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -1752,19 +2092,99 @@ class _AirpodAirpodCase2Light {
 
 }
 
-/// Airpod case 3 icon with style variants.
-class _AirpodAirpodCase3Icon {
-  const _AirpodAirpodCase3Icon();
+/// Right airpod pro icon with style variants.
+class _AirpodRightAirpodPro1Icon {
+  const _AirpodRightAirpodPro1Icon();
 
   /// light style
-  _AirpodAirpodCase3Light get light => const _AirpodAirpodCase3Light();
+  _AirpodRightAirpodPro1Light get light => const _AirpodRightAirpodPro1Light();
   /// twoTone style
-  _AirpodAirpodCase3Twotone get twoTone => const _AirpodAirpodCase3Twotone();
+  _AirpodRightAirpodPro1Twotone get twoTone => const _AirpodRightAirpodPro1Twotone();
+}
+
+/// Right airpod pro — twoTone style variants.
+class _AirpodRightAirpodPro1Twotone {
+  const _AirpodRightAirpodPro1Twotone();
+
+  /// Right airpod pro — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Right airpod pro',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.1338 5.00996C18.6358 4.53596 17.6877 3.89996 16.2647 4.03096C15.5787 4.09396 15.0407 4.65696 15.0407 5.34696V10.844C15.0407 11.533 15.5787 12.097 16.2647 12.16C17.7477 12.296 18.7158 11.599 19.1948 11.121C19.4318 10.885 19.5518 10.556 19.5518 10.221V5.97396C19.5518 5.60696 19.3998 5.26296 19.1338 5.00996Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M11.2646 7.4541H9.35464" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.3027 11.641C14.2097 12.606 12.6857 13.199 10.9877 13.199C10.8257 13.199 10.6627 13.199 10.4997 13.176L11.9457 18.063C12.2447 19.291 11.5887 20.586 10.3477 20.921C9.20872 21.228 8.02772 20.622 7.61072 19.518C6.61272 16.876 5.1937 12.579 5.0097 8.931C4.8087 5.458 7.67373 3 10.9877 3C12.6857 3 14.2097 3.605 15.3027 4.57" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Right airpod pro — light style variants.
+class _AirpodRightAirpodPro1Light {
+  const _AirpodRightAirpodPro1Light();
+
+  /// Right airpod pro — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Right airpod pro',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.1338 5.00996C18.6358 4.53596 17.6877 3.89996 16.2647 4.03096C15.5787 4.09396 15.0407 4.65696 15.0407 5.34696V10.844C15.0407 11.533 15.5787 12.097 16.2647 12.16C17.7477 12.296 18.7158 11.599 19.1948 11.121C19.4318 10.885 19.5518 10.556 19.5518 10.221V5.97396C19.5518 5.60696 19.3998 5.26296 19.1338 5.00996Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2646 7.4541H9.35464" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3027 11.641C14.2097 12.606 12.6857 13.199 10.9877 13.199C10.8257 13.199 10.6627 13.199 10.4997 13.176L11.9457 18.063C12.2447 19.291 11.5887 20.586 10.3477 20.921C9.20872 21.228 8.02772 20.622 7.61072 19.518C6.61272 16.876 5.1937 12.579 5.0097 8.931C4.8087 5.458 7.67373 3 10.9877 3C12.6857 3 14.2097 3.605 15.3027 4.57" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpods disconnected icon with style variants.
+class _AirpodAirpodsDisconnected1Icon {
+  const _AirpodAirpodsDisconnected1Icon();
+
+  /// light style
+  _AirpodAirpodsDisconnected1Light get light => const _AirpodAirpodsDisconnected1Light();
+  /// twoTone style
+  _AirpodAirpodsDisconnected1Twotone get twoTone => const _AirpodAirpodsDisconnected1Twotone();
+}
+
+/// Airpods disconnected — twoTone style variants.
+class _AirpodAirpodsDisconnected1Twotone {
+  const _AirpodAirpodsDisconnected1Twotone();
+
+  /// Airpods disconnected — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpods disconnected',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3.362 11.8926C3.119 11.5725 3 11.1745 3 10.7727V8.67689C3 8.27408 3.12101 7.87515 3.36301 7.55504C4.00101 6.71244 4.99299 6.15395 6.10899 6.09849C8.23099 6.00022 10.289 7.83818 10.289 9.96028V18.9516C10.289 19.7222 9.66401 20.3468 8.89301 20.3468C8.12301 20.3468 7.49699 19.7222 7.49699 18.9516V13.4309H6.49001C5.23001 13.4309 4.073 12.8286 3.362 11.8926Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.55664 9.17139V10.3935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0117 17.9351L18.1277 15.8179M18.1277 17.9351L16.0117 15.8179" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0706 20.8062C19.2416 20.8062 21.0006 19.047 21.0006 16.8763C21.0006 14.7056 19.2416 12.9465 17.0706 12.9465C14.8996 12.9465 13.1406 14.7056 13.1406 16.8763C13.1406 19.047 14.8996 20.8062 17.0706 20.8062Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.5293 11.4891V6.86553C13.5293 4.74443 15.5873 2.9055 17.7093 3.00377C18.8253 3.0602 19.8163 3.61772 20.4553 4.46032C20.6983 4.7814 20.8173 5.17935 20.8173 5.58217V7.67796C20.8173 8.0798 20.6993 8.47775 20.4563 8.79786C19.7453 9.73387 18.5873 10.3362 17.3273 10.3362H16.3203V10.6845" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.2627 6.07666V7.29872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpods disconnected — light style variants.
+class _AirpodAirpodsDisconnected1Light {
+  const _AirpodAirpodsDisconnected1Light();
+
+  /// Airpods disconnected — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpods disconnected',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.362 11.8926C3.119 11.5725 3 11.1745 3 10.7727V8.6769C3 8.27409 3.12101 7.87515 3.36301 7.55504C4.00101 6.71244 4.99299 6.15395 6.10899 6.09849C8.23099 6.00022 10.289 7.83819 10.289 9.96029V18.9516C10.289 19.7222 9.66401 20.3468 8.89301 20.3468C8.12301 20.3468 7.49699 19.7222 7.49699 18.9516V13.4309H6.49001C5.23001 13.4309 4.073 12.8286 3.362 11.8926Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.55664 9.17139V10.3935" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0117 17.9351L18.1277 15.8179M18.1277 17.9351L16.0117 15.8179" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0706 20.8062C19.2416 20.8062 21.0006 19.047 21.0006 16.8763C21.0006 14.7056 19.2416 12.9465 17.0706 12.9465C14.8996 12.9465 13.1406 14.7056 13.1406 16.8763C13.1406 19.047 14.8996 20.8062 17.0706 20.8062Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5293 11.4891V6.86553C13.5293 4.74443 15.5873 2.9055 17.7093 3.00377C18.8253 3.0602 19.8163 3.61772 20.4553 4.46032C20.6983 4.7814 20.8173 5.17935 20.8173 5.58217V7.67796C20.8173 8.0798 20.6993 8.47775 20.4563 8.79786C19.7453 9.73387 18.5873 10.3362 17.3273 10.3362H16.3203V10.6845" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2627 6.07666V7.29872" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpod case 3 icon with style variants.
+class _AirpodAirpodCase31Icon {
+  const _AirpodAirpodCase31Icon();
+
+  /// light style
+  _AirpodAirpodCase31Light get light => const _AirpodAirpodCase31Light();
+  /// twoTone style
+  _AirpodAirpodCase31Twotone get twoTone => const _AirpodAirpodCase31Twotone();
 }
 
 /// Airpod case 3 — twoTone style variants.
-class _AirpodAirpodCase3Twotone {
-  const _AirpodAirpodCase3Twotone();
+class _AirpodAirpodCase31Twotone {
+  const _AirpodAirpodCase31Twotone();
 
   /// Airpod case 3 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
@@ -1778,13 +2198,53 @@ class _AirpodAirpodCase3Twotone {
 }
 
 /// Airpod case 3 — light style variants.
-class _AirpodAirpodCase3Light {
-  const _AirpodAirpodCase3Light();
+class _AirpodAirpodCase31Light {
+  const _AirpodAirpodCase31Light();
 
   /// Airpod case 3 — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Airpod case 3',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.6026 16.6819V7.3171C19.6026 4.9323 17.6693 3 15.2855 3H8.31708C5.9333 3 4 4.9323 4 7.3171V16.6819C4 19.0667 5.9333 21 8.31708 21H15.2855C17.6693 21 19.6026 19.0667 19.6026 16.6819Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4 8.68774H19.6026" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8057 16.7593V16.8073M12.0002 16.7696C12.0002 16.8777 11.9125 16.9653 11.8045 16.9653C11.6964 16.9653 11.6089 16.8777 11.6089 16.7696C11.6089 16.6616 11.6964 16.574 11.8045 16.574C11.9125 16.574 12.0002 16.6616 12.0002 16.7696Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpods full battery icon with style variants.
+class _AirpodAirpodsFullBattery1Icon {
+  const _AirpodAirpodsFullBattery1Icon();
+
+  /// light style
+  _AirpodAirpodsFullBattery1Light get light => const _AirpodAirpodsFullBattery1Light();
+  /// twoTone style
+  _AirpodAirpodsFullBattery1Twotone get twoTone => const _AirpodAirpodsFullBattery1Twotone();
+}
+
+/// Airpods full battery — twoTone style variants.
+class _AirpodAirpodsFullBattery1Twotone {
+  const _AirpodAirpodsFullBattery1Twotone();
+
+  /// Airpods full battery — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpods full battery',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3 10.7668C3 11.1686 3.119 11.5666 3.362 11.8857C4.072 12.8207 5.22901 13.423 6.48801 13.423H7.49399V18.9388C7.49399 19.7094 8.119 20.334 8.888 20.334C9.659 20.334 10.284 19.7094 10.284 18.9388V9.95529C10.284 7.83522 8.22699 5.99825 6.10699 6.09554C4.99099 6.15198 4.00001 6.70949 3.36301 7.55111C3.12101 7.87219 3 8.27014 3 8.67295V10.7668Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.55371 9.16748V10.3885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.5215 12.6974V6.86348C13.5215 4.74337 15.5785 2.9064 17.6985 3.0037C18.8135 3.06013 19.8045 3.61764 20.4425 4.45926C20.6845 4.78034 20.8055 5.17829 20.8055 5.5811V7.67494C20.8055 8.07678 20.6855 8.47472 20.4435 8.79386C19.7335 9.72889 18.5765 10.3312 17.3175 10.3312H16.3115V11.8938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.25 6.07471V7.2958" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9997 16.423V18.2513M14.7457 16.7195V17.9561M16.7187 16.7195V17.9561M14.4767 19.8752H17.5227C18.5787 19.8752 19.2387 19.2846 19.2387 18.1978V16.5077C19.2387 15.4044 18.5787 14.8002 17.5227 14.8002H14.4797C13.4207 14.8002 12.7637 15.3946 12.7637 16.4805V18.1978C12.7607 19.2846 13.4177 19.8752 14.4767 19.8752Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Airpod',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Airpods full battery — light style variants.
+class _AirpodAirpodsFullBattery1Light {
+  const _AirpodAirpodsFullBattery1Light();
+
+  /// Airpods full battery — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Airpods full battery',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 10.7668C3 11.1686 3.119 11.5666 3.362 11.8857C4.072 12.8207 5.22901 13.423 6.48801 13.423H7.49399V18.9388C7.49399 19.7094 8.119 20.334 8.888 20.334C9.659 20.334 10.284 19.7094 10.284 18.9388V9.95527C10.284 7.8352 8.22699 5.99823 6.10699 6.09552C4.99099 6.15196 4.00001 6.70947 3.36301 7.55109C3.12101 7.87217 3 8.27012 3 8.67293V10.7668Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.55371 9.16748V10.3885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5215 12.6974V6.86348C13.5215 4.74337 15.5785 2.9064 17.6985 3.0037C18.8135 3.06013 19.8045 3.61764 20.4425 4.45926C20.6845 4.78034 20.8055 5.17829 20.8055 5.5811V7.67494C20.8055 8.07678 20.6855 8.47472 20.4435 8.79386C19.7335 9.72889 18.5765 10.3312 17.3175 10.3312H16.3115V11.8938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.25 6.07471V7.2958" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9997 16.423V18.2513M14.7457 16.7195V17.9561M16.7187 16.7195V17.9561M14.4767 19.8752H17.5227C18.5787 19.8752 19.2387 19.2846 19.2387 18.1978V16.5077C19.2387 15.4044 18.5787 14.8002 17.5227 14.8002H14.4797C13.4207 14.8002 12.7637 15.3946 12.7637 16.4805V18.1978C12.7607 19.2846 13.4177 19.8752 14.4767 19.8752Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Airpod',
     style: IconfyStyle.light,
     type: IconfyType.regular,

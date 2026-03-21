@@ -10,18 +10,112 @@ class _TimeIcons {
 
   /// Circle Clock
   _TimeCircleClockIcon get circleClock => const _TimeCircleClockIcon();
+  /// Circle Clock 1
+  _TimeCircleClock1Icon get circleClock1 => const _TimeCircleClock1Icon();
+  /// Circle Clock 2
+  _TimeCircleClock2Icon get circleClock2 => const _TimeCircleClock2Icon();
+  /// Circle Clock 3
+  _TimeCircleClock3Icon get circleClock3 => const _TimeCircleClock3Icon();
+  /// Circle Clock 4
+  _TimeCircleClock4Icon get circleClock4 => const _TimeCircleClock4Icon();
+  /// Circle Clock 5
+  _TimeCircleClock5Icon get circleClock5 => const _TimeCircleClock5Icon();
+  /// Circle Clock 6
+  _TimeCircleClock6Icon get circleClock6 => const _TimeCircleClock6Icon();
+  /// Circle Clock 7
+  _TimeCircleClock7Icon get circleClock7 => const _TimeCircleClock7Icon();
+  /// Circle Clock 8
+  _TimeCircleClock8Icon get circleClock8 => const _TimeCircleClock8Icon();
+  /// Circle Clock 9
+  _TimeCircleClock9Icon get circleClock9 => const _TimeCircleClock9Icon();
+  /// Circle Clock 10
+  _TimeCircleClock10Icon get circleClock10 => const _TimeCircleClock10Icon();
+  /// Circle Clock 11
+  _TimeCircleClock11Icon get circleClock11 => const _TimeCircleClock11Icon();
+  /// Circle Clock 12
+  _TimeCircleClock12Icon get circleClock12 => const _TimeCircleClock12Icon();
+  /// Circle Clock 13
+  _TimeCircleClock13Icon get circleClock13 => const _TimeCircleClock13Icon();
+  /// Circle Clock 14
+  _TimeCircleClock14Icon get circleClock14 => const _TimeCircleClock14Icon();
+  /// Circle Clock 15
+  _TimeCircleClock15Icon get circleClock15 => const _TimeCircleClock15Icon();
+  /// Circle Clock 16
+  _TimeCircleClock16Icon get circleClock16 => const _TimeCircleClock16Icon();
+  /// Circle Clock 17
+  _TimeCircleClock17Icon get circleClock17 => const _TimeCircleClock17Icon();
+  /// Circle Clock 18
+  _TimeCircleClock18Icon get circleClock18 => const _TimeCircleClock18Icon();
+  /// Circle Clock 19
+  _TimeCircleClock19Icon get circleClock19 => const _TimeCircleClock19Icon();
   /// Forward Clock Timer
   _TimeForwardClockTimerIcon get forwardClockTimer => const _TimeForwardClockTimerIcon();
+  /// Forward Clock Timer 1
+  _TimeForwardClockTimer1Icon get forwardClockTimer1 => const _TimeForwardClockTimer1Icon();
+  /// Forward Clock Timer 2
+  _TimeForwardClockTimer2Icon get forwardClockTimer2 => const _TimeForwardClockTimer2Icon();
   /// Clock dash
   _TimeClockDashIcon get clockDash => const _TimeClockDashIcon();
+  /// Clock dash 1
+  _TimeClockDash1Icon get clockDash1 => const _TimeClockDash1Icon();
+  /// Clock dash 2
+  _TimeClockDash2Icon get clockDash2 => const _TimeClockDash2Icon();
+  /// Clock dash 3
+  _TimeClockDash3Icon get clockDash3 => const _TimeClockDash3Icon();
+  /// Clock dash 4
+  _TimeClockDash4Icon get clockDash4 => const _TimeClockDash4Icon();
+  /// Clock dash 5
+  _TimeClockDash5Icon get clockDash5 => const _TimeClockDash5Icon();
+  /// Clock dash 6
+  _TimeClockDash6Icon get clockDash6 => const _TimeClockDash6Icon();
+  /// Clock dash 7
+  _TimeClockDash7Icon get clockDash7 => const _TimeClockDash7Icon();
+  /// Clock dash 8
+  _TimeClockDash8Icon get clockDash8 => const _TimeClockDash8Icon();
+  /// Clock dash 9
+  _TimeClockDash9Icon get clockDash9 => const _TimeClockDash9Icon();
+  /// Clock dash 10
+  _TimeClockDash10Icon get clockDash10 => const _TimeClockDash10Icon();
+  /// Clock dash 11
+  _TimeClockDash11Icon get clockDash11 => const _TimeClockDash11Icon();
+  /// Clock dash 12
+  _TimeClockDash12Icon get clockDash12 => const _TimeClockDash12Icon();
+  /// Clock dash 13
+  _TimeClockDash13Icon get clockDash13 => const _TimeClockDash13Icon();
+  /// Clock dash 14
+  _TimeClockDash14Icon get clockDash14 => const _TimeClockDash14Icon();
+  /// Clock dash 15
+  _TimeClockDash15Icon get clockDash15 => const _TimeClockDash15Icon();
   /// Timer Plus
   _TimeTimerPlusIcon get timerPlus => const _TimeTimerPlusIcon();
   /// Timer close
   _TimeTimerCloseIcon get timerClose => const _TimeTimerCloseIcon();
   /// Stopwatch play
   _TimeStopwatchPlayIcon get stopwatchPlay => const _TimeStopwatchPlayIcon();
+  /// Stopwatch play 1
+  _TimeStopwatchPlay1Icon get stopwatchPlay1 => const _TimeStopwatchPlay1Icon();
+  /// Stopwatch play 2
+  _TimeStopwatchPlay2Icon get stopwatchPlay2 => const _TimeStopwatchPlay2Icon();
   /// Stopwatch
   _TimeStopwatchIcon get stopwatch => const _TimeStopwatchIcon();
+  /// Stopwatch 1
+  _TimeStopwatch1Icon get stopwatch1 => const _TimeStopwatch1Icon();
+  /// Stopwatch 2
+  _TimeStopwatch2Icon get stopwatch2 => const _TimeStopwatch2Icon();
+  /// Stopwatch 3
+  _TimeStopwatch3Icon get stopwatch3 => const _TimeStopwatch3Icon();
+  /// Stopwatch 4
+  _TimeStopwatch4Icon get stopwatch4 => const _TimeStopwatch4Icon();
+  /// Stopwatch 5
+  _TimeStopwatch5Icon get stopwatch5 => const _TimeStopwatch5Icon();
+  /// Stopwatch 6
+  _TimeStopwatch6Icon get stopwatch6 => const _TimeStopwatch6Icon();
+  /// Stopwatch 7
+  _TimeStopwatch7Icon get stopwatch7 => const _TimeStopwatch7Icon();
+  /// Stopwatch 8
+  _TimeStopwatch8Icon get stopwatch8 => const _TimeStopwatch8Icon();
+  /// Stopwatch 9
+  _TimeStopwatch9Icon get stopwatch9 => const _TimeStopwatch9Icon();
   /// Clock off sleep
   _TimeClockOffSleepIcon get clockOffSleep => const _TimeClockOffSleepIcon();
   /// Timer tick
@@ -30,6 +124,24 @@ class _TimeIcons {
   _TimeClockCloseIcon get clockClose => const _TimeClockCloseIcon();
   /// Square Clock
   _TimeSquareClockIcon get squareClock => const _TimeSquareClockIcon();
+  /// Square Clock 1
+  _TimeSquareClock1Icon get squareClock1 => const _TimeSquareClock1Icon();
+  /// Square Clock 2
+  _TimeSquareClock2Icon get squareClock2 => const _TimeSquareClock2Icon();
+  /// Square Clock 3
+  _TimeSquareClock3Icon get squareClock3 => const _TimeSquareClock3Icon();
+  /// Square Clock 4
+  _TimeSquareClock4Icon get squareClock4 => const _TimeSquareClock4Icon();
+  /// Square Clock 5
+  _TimeSquareClock5Icon get squareClock5 => const _TimeSquareClock5Icon();
+  /// Square Clock 6
+  _TimeSquareClock6Icon get squareClock6 => const _TimeSquareClock6Icon();
+  /// Square Clock 7
+  _TimeSquareClock7Icon get squareClock7 => const _TimeSquareClock7Icon();
+  /// Square Clock 8
+  _TimeSquareClock8Icon get squareClock8 => const _TimeSquareClock8Icon();
+  /// Square Clock 9
+  _TimeSquareClock9Icon get squareClock9 => const _TimeSquareClock9Icon();
   /// Stopwatch Speed
   _TimeStopwatchSpeedIcon get stopwatchSpeed => const _TimeStopwatchSpeedIcon();
   /// counter clockwise undo
@@ -40,6 +152,54 @@ class _TimeIcons {
   _TimeStopwatchPauseIcon get stopwatchPause => const _TimeStopwatchPauseIcon();
   /// Hourglass
   _TimeHourglassIcon get hourglass => const _TimeHourglassIcon();
+  /// Hourglass 1
+  _TimeHourglass1Icon get hourglass1 => const _TimeHourglass1Icon();
+  /// Hourglass 2
+  _TimeHourglass2Icon get hourglass2 => const _TimeHourglass2Icon();
+  /// Hourglass 3
+  _TimeHourglass3Icon get hourglass3 => const _TimeHourglass3Icon();
+  /// Hourglass 4
+  _TimeHourglass4Icon get hourglass4 => const _TimeHourglass4Icon();
+  /// Hourglass 5
+  _TimeHourglass5Icon get hourglass5 => const _TimeHourglass5Icon();
+  /// Hourglass 6
+  _TimeHourglass6Icon get hourglass6 => const _TimeHourglass6Icon();
+  /// Hourglass 7
+  _TimeHourglass7Icon get hourglass7 => const _TimeHourglass7Icon();
+  /// Hourglass 8
+  _TimeHourglass8Icon get hourglass8 => const _TimeHourglass8Icon();
+  /// Hourglass 9
+  _TimeHourglass9Icon get hourglass9 => const _TimeHourglass9Icon();
+  /// Hourglass 10
+  _TimeHourglass10Icon get hourglass10 => const _TimeHourglass10Icon();
+  /// Hourglass 11
+  _TimeHourglass11Icon get hourglass11 => const _TimeHourglass11Icon();
+  /// Hourglass 12
+  _TimeHourglass12Icon get hourglass12 => const _TimeHourglass12Icon();
+  /// Hourglass 13
+  _TimeHourglass13Icon get hourglass13 => const _TimeHourglass13Icon();
+  /// Hourglass 14
+  _TimeHourglass14Icon get hourglass14 => const _TimeHourglass14Icon();
+  /// Hourglass 15
+  _TimeHourglass15Icon get hourglass15 => const _TimeHourglass15Icon();
+  /// Hourglass 16
+  _TimeHourglass16Icon get hourglass16 => const _TimeHourglass16Icon();
+  /// Hourglass 17
+  _TimeHourglass17Icon get hourglass17 => const _TimeHourglass17Icon();
+  /// Hourglass 18
+  _TimeHourglass18Icon get hourglass18 => const _TimeHourglass18Icon();
+  /// Hourglass 19
+  _TimeHourglass19Icon get hourglass19 => const _TimeHourglass19Icon();
+  /// Hourglass 20
+  _TimeHourglass20Icon get hourglass20 => const _TimeHourglass20Icon();
+  /// Hourglass 21
+  _TimeHourglass21Icon get hourglass21 => const _TimeHourglass21Icon();
+  /// Hourglass 22
+  _TimeHourglass22Icon get hourglass22 => const _TimeHourglass22Icon();
+  /// Hourglass 23
+  _TimeHourglass23Icon get hourglass23 => const _TimeHourglass23Icon();
+  /// Hourglass 24
+  _TimeHourglass24Icon get hourglass24 => const _TimeHourglass24Icon();
   /// Stopwatch Stop
   _TimeStopwatchStopIcon get stopwatchStop => const _TimeStopwatchStopIcon();
   /// Clockwise Clock redo
@@ -60,6 +220,8 @@ class _TimeIcons {
   _TimePendulumMotionSingleIcon get pendulumMotionSingle => const _TimePendulumMotionSingleIcon();
   /// Clock exclamation
   _TimeClockExclamationIcon get clockExclamation => const _TimeClockExclamationIcon();
+  /// Clock exclamation 1
+  _TimeClockExclamation1Icon get clockExclamation1 => const _TimeClockExclamation1Icon();
   /// Clock half
   _TimeClockHalfIcon get clockHalf => const _TimeClockHalfIcon();
   /// Clock slice half
@@ -72,6 +234,8 @@ class _TimeIcons {
   _TimeClockShareIcon get clockShare => const _TimeClockShareIcon();
   /// Clock 12h
   _TimeClock12hIcon get clock12h => const _TimeClock12hIcon();
+  /// Clock 12h 1
+  _TimeClock12h1Icon get clock12h1 => const _TimeClock12h1Icon();
   /// Square clock-fill
   _TimeSquareClockFillIcon get squareClockFill => const _TimeSquareClockFillIcon();
   /// Alarm Discount
@@ -80,6 +244,8 @@ class _TimeIcons {
   _TimeWorldTimeIcon get worldTime => const _TimeWorldTimeIcon();
   /// Clock edit
   _TimeClockEditIcon get clockEdit => const _TimeClockEditIcon();
+  /// Clock edit 1
+  _TimeClockEdit1Icon get clockEdit1 => const _TimeClockEdit1Icon();
   /// Timer pendulum
   _TimeTimerPendulumIcon get timerPendulum => const _TimeTimerPendulumIcon();
   /// Digital clock dual
@@ -120,6 +286,22 @@ class _TimeIcons {
   _TimeClockCloudIcon get clockCloud => const _TimeClockCloudIcon();
   /// Clock circle
   _TimeClockCircleIcon get clockCircle => const _TimeClockCircleIcon();
+  /// Clock circle 1
+  _TimeClockCircle1Icon get clockCircle1 => const _TimeClockCircle1Icon();
+  /// Clock circle 2
+  _TimeClockCircle2Icon get clockCircle2 => const _TimeClockCircle2Icon();
+  /// Clock circle 3
+  _TimeClockCircle3Icon get clockCircle3 => const _TimeClockCircle3Icon();
+  /// Clock circle 4
+  _TimeClockCircle4Icon get clockCircle4 => const _TimeClockCircle4Icon();
+  /// Clock circle 5
+  _TimeClockCircle5Icon get clockCircle5 => const _TimeClockCircle5Icon();
+  /// Clock circle 6
+  _TimeClockCircle6Icon get clockCircle6 => const _TimeClockCircle6Icon();
+  /// Clock circle 7
+  _TimeClockCircle7Icon get clockCircle7 => const _TimeClockCircle7Icon();
+  /// Clock circle 8
+  _TimeClockCircle8Icon get clockCircle8 => const _TimeClockCircle8Icon();
   /// Clock arrows-up
   _TimeClockArrowsUpIcon get clockArrowsUp => const _TimeClockArrowsUpIcon();
   /// Stopwatch loop
@@ -162,6 +344,8 @@ class _TimeIcons {
   _TimeSmartwatchSquareIcon get smartwatchSquare => const _TimeSmartwatchSquareIcon();
   /// Clock cancel
   _TimeClockCancelIcon get clockCancel => const _TimeClockCancelIcon();
+  /// Clock cancel 1
+  _TimeClockCancel1Icon get clockCancel1 => const _TimeClockCancel1Icon();
   /// Clock slice
   _TimeClockSliceIcon get clockSlice => const _TimeClockSliceIcon();
   /// Smartwatch classic right
@@ -172,10 +356,14 @@ class _TimeIcons {
   _TimeSmartwatchSleepIcon get smartwatchSleep => const _TimeSmartwatchSleepIcon();
   /// Clock square done
   _TimeClockSquareDoneIcon get clockSquareDone => const _TimeClockSquareDoneIcon();
+  /// Clock square done 1
+  _TimeClockSquareDone1Icon get clockSquareDone1 => const _TimeClockSquareDone1Icon();
   /// Alarm clock bold
   _TimeAlarmClockBoldIcon get alarmClockBold => const _TimeAlarmClockBoldIcon();
   /// Clock square
   _TimeClockSquareIcon get clockSquare => const _TimeClockSquareIcon();
+  /// Clock square 1
+  _TimeClockSquare1Icon get clockSquare1 => const _TimeClockSquare1Icon();
   /// Smartwatch list menu
   _TimeSmartwatchListMenuIcon get smartwatchListMenu => const _TimeSmartwatchListMenuIcon();
   /// Clock square clean
@@ -222,10 +410,14 @@ class _TimeIcons {
   _TimeStopwatchFillIcon get stopwatchFill => const _TimeStopwatchFillIcon();
   /// Clock retro desk
   _TimeClockRetroDeskIcon get clockRetroDesk => const _TimeClockRetroDeskIcon();
+  /// Clock retro desk 1
+  _TimeClockRetroDesk1Icon get clockRetroDesk1 => const _TimeClockRetroDesk1Icon();
   /// Clock analog
   _TimeClockAnalogIcon get clockAnalog => const _TimeClockAnalogIcon();
   /// Clock check
   _TimeClockCheckIcon get clockCheck => const _TimeClockCheckIcon();
+  /// Clock check 1
+  _TimeClockCheck1Icon get clockCheck1 => const _TimeClockCheck1Icon();
   /// Timer add
   _TimeTimerAddIcon get timerAdd => const _TimeTimerAddIcon();
   /// Clock dotted filled
@@ -302,6 +494,8 @@ class _TimeIcons {
   _TimeClockMuteIcon get clockMute => const _TimeClockMuteIcon();
   /// Clock loop
   _TimeClockLoopIcon get clockLoop => const _TimeClockLoopIcon();
+  /// Stopwatch off
+  _TimeStopwatchOff1Icon get stopwatchOff1 => const _TimeStopwatchOff1Icon();
   /// Stopwatch turbo
   _TimeStopwatchTurboIcon get stopwatchTurbo => const _TimeStopwatchTurboIcon();
   /// Alarm minus
@@ -320,6 +514,10 @@ class _TimeIcons {
   _TimeTimer15mIcon get timer15m => const _TimeTimer15mIcon();
   /// Clock sleep
   _TimeClockSleepIcon get clockSleep => const _TimeClockSleepIcon();
+  /// Clock sleep 1
+  _TimeClockSleep1Icon get clockSleep1 => const _TimeClockSleep1Icon();
+  /// Clock sleep 2
+  _TimeClockSleep2Icon get clockSleep2 => const _TimeClockSleep2Icon();
   /// Clock soon
   _TimeClockSoonIcon get clockSoon => const _TimeClockSoonIcon();
   /// Clock soon-alt
@@ -330,8 +528,12 @@ class _TimeIcons {
   _TimeClock45mIcon get clock45m => const _TimeClock45mIcon();
   /// Stopwatch start
   _TimeStopwatchStartIcon get stopwatchStart => const _TimeStopwatchStartIcon();
+  /// Stopwatch start 1
+  _TimeStopwatchStart1Icon get stopwatchStart1 => const _TimeStopwatchStart1Icon();
   /// Clock refresh
   _TimeClockRefreshIcon get clockRefresh => const _TimeClockRefreshIcon();
+  /// Clock refresh 1
+  _TimeClockRefresh1Icon get clockRefresh1 => const _TimeClockRefresh1Icon();
   /// Clock square classic
   _TimeClockSquareClassicIcon get clockSquareClassic => const _TimeClockSquareClassicIcon();
   /// Timer simple
@@ -350,6 +552,8 @@ class _TimeIcons {
   _TimeAlarmClockClassicIcon get alarmClockClassic => const _TimeAlarmClockClassicIcon();
   /// Clock percent
   _TimeClockPercentIcon get clockPercent => const _TimeClockPercentIcon();
+  /// Clock percent 1
+  _TimeClockPercent1Icon get clockPercent1 => const _TimeClockPercent1Icon();
   /// Clock square bold ticks
   _TimeClockSquareBoldTicksIcon get clockSquareBoldTicks => const _TimeClockSquareBoldTicksIcon();
   /// Smartwatch cancel
@@ -376,6 +580,8 @@ class _TimeIcons {
   _TimeSmartwatchRotateRightIcon get smartwatchRotateRight => const _TimeSmartwatchRotateRightIcon();
   /// Clock dotted
   _TimeClockDottedIcon get clockDotted => const _TimeClockDottedIcon();
+  /// Clock dotted 1
+  _TimeClockDotted1Icon get clockDotted1 => const _TimeClockDotted1Icon();
   /// Clock lock
   _TimeClockLockIcon get clockLock => const _TimeClockLockIcon();
   /// Hourglass slim
@@ -400,6 +606,10 @@ class _TimeIcons {
   _TimeStopwatchMinimalIcon get stopwatchMinimal => const _TimeStopwatchMinimalIcon();
   /// Clock hands
   _TimeClockHandsIcon get clockHands => const _TimeClockHandsIcon();
+  /// Clock hands 1
+  _TimeClockHands1Icon get clockHands1 => const _TimeClockHands1Icon();
+  /// Clock hands 2
+  _TimeClockHands2Icon get clockHands2 => const _TimeClockHands2Icon();
   /// Hourglass narrow
   _TimeHourglassNarrowIcon get hourglassNarrow => const _TimeHourglassNarrowIcon();
   /// Smartwatch equalizer
@@ -422,6 +632,8 @@ class _TimeIcons {
   _TimeClockArrowsDownIcon get clockArrowsDown => const _TimeClockArrowsDownIcon();
   /// Stopwatch circle
   _TimeStopwatchCircleIcon get stopwatchCircle => const _TimeStopwatchCircleIcon();
+  /// Stopwatch circle 1
+  _TimeStopwatchCircle1Icon get stopwatchCircle1 => const _TimeStopwatchCircle1Icon();
   /// Timer arrow-up
   _TimeTimerArrowUpIcon get timerArrowUp => const _TimeTimerArrowUpIcon();
   /// Alarm spark
@@ -432,6 +644,8 @@ class _TimeIcons {
   _TimeSmartwatchClockIcon get smartwatchClock => const _TimeSmartwatchClockIcon();
   /// Clock question
   _TimeClockQuestionIcon get clockQuestion => const _TimeClockQuestionIcon();
+  /// Clock question 1
+  _TimeClockQuestion1Icon get clockQuestion1 => const _TimeClockQuestion1Icon();
   /// Forward 15m
   _TimeForward15mIcon get forward15m => const _TimeForward15mIcon();
   /// Hourglass double
@@ -462,8 +676,12 @@ class _TimeIcons {
   _TimeClockDashedEdgeIcon get clockDashedEdge => const _TimeClockDashedEdgeIcon();
   /// Stopwatch check
   _TimeStopwatchCheckIcon get stopwatchCheck => const _TimeStopwatchCheckIcon();
+  /// Stopwatch check 1
+  _TimeStopwatchCheck1Icon get stopwatchCheck1 => const _TimeStopwatchCheck1Icon();
   /// Clock sync
   _TimeClockSyncIcon get clockSync => const _TimeClockSyncIcon();
+  /// Clock sync 1
+  _TimeClockSync1Icon get clockSync1 => const _TimeClockSync1Icon();
   /// Circle clock-line
   _TimeCircleClockLineIcon get circleClockLine => const _TimeCircleClockLineIcon();
   /// Stopwatch info
@@ -476,10 +694,14 @@ class _TimeIcons {
   _TimeTimer30mIcon get timer30m => const _TimeTimer30mIcon();
   /// Clock circle minimal
   _TimeClockCircleMinimalIcon get clockCircleMinimal => const _TimeClockCircleMinimalIcon();
+  /// Clock circle minimal 1
+  _TimeClockCircleMinimal1Icon get clockCircleMinimal1 => const _TimeClockCircleMinimal1Icon();
   /// Clock minus overlay
   _TimeClockMinusOverlayIcon get clockMinusOverlay => const _TimeClockMinusOverlayIcon();
   /// Alarm pill
   _TimeAlarmPillIcon get alarmPill => const _TimeAlarmPillIcon();
+  /// Square clock
+  _TimeSquareClock10Icon get squareClock10 => const _TimeSquareClock10Icon();
   /// Alarm mini
   _TimeAlarmMiniIcon get alarmMini => const _TimeAlarmMiniIcon();
   /// Clock polygon
@@ -500,10 +722,14 @@ class _TimeIcons {
   _TimeClockLikeIcon get clockLike => const _TimeClockLikeIcon();
   /// Clock dashed
   _TimeClockDashedIcon get clockDashed => const _TimeClockDashedIcon();
+  /// Clock dashed 1
+  _TimeClockDashed1Icon get clockDashed1 => const _TimeClockDashed1Icon();
   /// Hourglass alert
   _TimeHourglassAlertIcon get hourglassAlert => const _TimeHourglassAlertIcon();
   /// Timer check
   _TimeTimerCheckIcon get timerCheck => const _TimeTimerCheckIcon();
+  /// Stopwatch stop
+  _TimeStopwatchStop1Icon get stopwatchStop1 => const _TimeStopwatchStop1Icon();
   /// Clock energy
   _TimeClockEnergyIcon get clockEnergy => const _TimeClockEnergyIcon();
   /// Clock glow
@@ -554,6 +780,8 @@ class _TimeIcons {
   _TimeClockPlusOverlayIcon get clockPlusOverlay => const _TimeClockPlusOverlayIcon();
   /// Clock 15m
   _TimeClock15mIcon get clock15m => const _TimeClock15mIcon();
+  /// Circle clock
+  _TimeCircleClock20Icon get circleClock20 => const _TimeCircleClock20Icon();
   /// Clock sparkle
   _TimeClockSparkleIcon get clockSparkle => const _TimeClockSparkleIcon();
   /// Alarm check
@@ -586,48 +814,8 @@ class _TimeIcons {
 class _TimeCircleClockIcon {
   const _TimeCircleClockIcon();
 
-  /// bold style
-  _TimeCircleClockBold get bold => const _TimeCircleClockBold();
-  /// bulk style
-  _TimeCircleClockBulk get bulk => const _TimeCircleClockBulk();
-  /// light style
-  _TimeCircleClockLight get light => const _TimeCircleClockLight();
-  /// outline style
-  _TimeCircleClockOutline get outline => const _TimeCircleClockOutline();
   /// twoTone style
   _TimeCircleClockTwotone get twoTone => const _TimeCircleClockTwotone();
-  /// broken style
-  _TimeCircleClockBroken get broken => const _TimeCircleClockBroken();
-}
-
-/// Circle Clock — bulk style variants.
-class _TimeCircleClockBulk {
-  const _TimeCircleClockBulk();
-
-  /// Circle Clock — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Circle Clock',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.5701 2.5C7.33107 2.5 3.07007 6.762 3.07007 12C3.07007 17.239 7.33107 21.5 12.5701 21.5C17.8081 21.5 22.0701 17.239 22.0701 12C22.0701 6.762 17.8081 2.5 12.5701 2.5Z" fill="black"/> <path d="M15.4152 15.3211C15.6702 15.3211 15.9192 15.1911 16.0602 14.9561C16.2732 14.6011 16.1572 14.1401 15.8012 13.9271L12.9922 12.2451V8.58105C12.9922 8.16605 12.6562 7.83105 12.2422 7.83105C11.8282 7.83105 11.4922 8.16605 11.4922 8.58105V12.6701C11.4922 12.9341 11.6302 13.1791 11.8572 13.3141L15.0322 15.2141C15.1522 15.2871 15.2852 15.3211 15.4152 15.3211Z" fill="black"/> </svg>',
-    category: 'Time',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Circle Clock — broken style variants.
-class _TimeCircleClockBroken {
-  const _TimeCircleClockBroken();
-
-  /// Circle Clock — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Circle Clock',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.2693 12.0419C20.2693 7.80563 16.8358 4.37207 12.5995 4.37207C8.36422 4.37207 4.92969 7.80563 4.92969 12.0419C4.92969 16.2781 8.36422 19.7117 12.5995 19.7117C15.6072 19.7117 18.2102 17.9809 19.4671 15.4609" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.46925 18.5137L7.02344 20.9996" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7305 18.5137L18.1763 20.9996" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.90751 3.00781C5.94331 3.60132 5.08225 4.34271 4.34961 5.19502" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.4082 3C19.3724 3.58377 20.2335 4.3349 20.9661 5.19596" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7831 12.6053H12.3184V9.125" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Time',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Circle Clock — twoTone style variants.
@@ -637,6 +825,75 @@ class _TimeCircleClockTwotone {
   /// Circle Clock — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Circle Clock',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5 21C17.4709 21 21.5 16.9699 21.5 12C21.5 7.02908 17.4709 3 12.5 3C7.52908 3 3.5 7.02908 3.5 12C3.5 16.9699 7.52908 21 12.5 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.5 12H19.879M12.5 21V19.379M3.5 12H5.12195M12.5 3V4.62195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.3467 14.5716L12.1719 12.6743V8.57617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 1 icon with style variants.
+class _TimeCircleClock1Icon {
+  const _TimeCircleClock1Icon();
+
+  /// twoTone style
+  _TimeCircleClock1Twotone get twoTone => const _TimeCircleClock1Twotone();
+}
+
+/// Circle Clock 1 — twoTone style variants.
+class _TimeCircleClock1Twotone {
+  const _TimeCircleClock1Twotone();
+
+  /// Circle Clock 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5995 19.7107C16.8358 19.7107 20.2693 16.2772 20.2693 12.0409C20.2693 7.80466 16.8358 4.37109 12.5995 4.37109C8.36422 4.37109 4.92969 7.80466 4.92969 12.0409C4.92969 16.2772 8.36422 19.7107 12.5995 19.7107Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.46925 18.5137L7.02344 20.9996" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.7305 18.5137L18.1763 20.9996" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.90751 3.00781C5.94331 3.60132 5.08225 4.34271 4.34961 5.19502" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.4082 3C19.3724 3.58377 20.2335 4.3349 20.9661 5.19596" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.7831 12.6053H12.3184V9.125" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 2 icon with style variants.
+class _TimeCircleClock2Icon {
+  const _TimeCircleClock2Icon();
+
+  /// twoTone style
+  _TimeCircleClock2Twotone get twoTone => const _TimeCircleClock2Twotone();
+}
+
+/// Circle Clock 2 — twoTone style variants.
+class _TimeCircleClock2Twotone {
+  const _TimeCircleClock2Twotone();
+
+  /// Circle Clock 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5 21C17.4709 21 21.5 16.9699 21.5 12C21.5 7.02908 17.4709 3 12.5 3C7.52908 3 3.5 7.02908 3.5 12C3.5 16.9699 7.52908 21 12.5 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.5 12H19.879M12.5 21V19.379M3.5 12H5.12195M12.5 3V4.62195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.3467 14.5716L12.1719 12.6743V8.57617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 3 icon with style variants.
+class _TimeCircleClock3Icon {
+  const _TimeCircleClock3Icon();
+
+  /// twoTone style
+  _TimeCircleClock3Twotone get twoTone => const _TimeCircleClock3Twotone();
+}
+
+/// Circle Clock 3 — twoTone style variants.
+class _TimeCircleClock3Twotone {
+  const _TimeCircleClock3Twotone();
+
+  /// Circle Clock 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 3',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.5 21C17.4709 21 21.5 16.9699 21.5 12C21.5 7.02908 17.4709 3 12.5 3C7.52908 3 3.5 7.02908 3.5 12C3.5 16.9699 7.52908 21 12.5 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3467 14.5716L12.1719 12.6743V8.57617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Time',
     style: IconfyStyle.twoTone,
@@ -645,28 +902,136 @@ class _TimeCircleClockTwotone {
 
 }
 
-/// Circle Clock — outline style variants.
-class _TimeCircleClockOutline {
-  const _TimeCircleClockOutline();
+/// Circle Clock 4 icon with style variants.
+class _TimeCircleClock4Icon {
+  const _TimeCircleClock4Icon();
 
-  /// Circle Clock — outline / regular
+  /// broken style
+  _TimeCircleClock4Broken get broken => const _TimeCircleClock4Broken();
+}
+
+/// Circle Clock 4 — broken style variants.
+class _TimeCircleClock4Broken {
+  const _TimeCircleClock4Broken();
+
+  /// Circle Clock 4 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Circle Clock',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5558 7.44335 20.25 12 20.25C16.5567 20.25 20.25 16.5558 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3841 17.3852 21.75 12 21.75C6.61481 21.75 2.25 17.3841 2.25 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6719 7.82617C12.0861 7.82617 12.4219 8.16196 12.4219 8.57617V12.2488L15.2314 13.9278C15.587 14.1403 15.703 14.6008 15.4905 14.9564C15.278 15.3119 14.8175 15.4279 14.4619 15.2154L11.2871 13.3181C11.0606 13.1827 10.9219 12.9383 10.9219 12.6743V8.57617C10.9219 8.16196 11.2577 7.82617 11.6719 7.82617Z" fill="black"/> </svg> ',
+    name: 'Circle Clock 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9611 11.3033C20.9611 15.8894 17.2439 19.6066 12.6578 19.6066C8.07172 19.6066 4.35449 15.8894 4.35449 11.3033C4.35449 6.71723 8.07172 3 12.6578 3C15.9871 3 18.8585 4.95906 20.1823 7.78739" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.18725 18.3086L6.62109 20.9994" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1309 18.3086L18.697 20.9994" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3444 13.1671L12.3535 11.9129V8.14453" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Time',
-    style: IconfyStyle.outline,
+    style: IconfyStyle.broken,
     type: IconfyType.regular,
   );
 
 }
 
-/// Circle Clock — bold style variants.
-class _TimeCircleClockBold {
-  const _TimeCircleClockBold();
+/// Circle Clock 5 icon with style variants.
+class _TimeCircleClock5Icon {
+  const _TimeCircleClock5Icon();
 
-  /// Circle Clock — bold / regular
+  /// broken style
+  _TimeCircleClock5Broken get broken => const _TimeCircleClock5Broken();
+}
+
+/// Circle Clock 5 — broken style variants.
+class _TimeCircleClock5Broken {
+  const _TimeCircleClock5Broken();
+
+  /// Circle Clock 5 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Circle Clock',
+    name: 'Circle Clock 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.2693 12.0419C20.2693 7.80563 16.8358 4.37207 12.5995 4.37207C8.36422 4.37207 4.92969 7.80563 4.92969 12.0419C4.92969 16.2781 8.36422 19.7117 12.5995 19.7117C15.6072 19.7117 18.2102 17.9809 19.4671 15.4609" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.46925 18.5137L7.02344 20.9996" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7305 18.5137L18.1763 20.9996" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.90751 3.00781C5.94331 3.60132 5.08225 4.34271 4.34961 5.19502" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.4082 3C19.3724 3.58377 20.2335 4.3349 20.9661 5.19596" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7831 12.6053H12.3184V9.125" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 6 icon with style variants.
+class _TimeCircleClock6Icon {
+  const _TimeCircleClock6Icon();
+
+  /// broken style
+  _TimeCircleClock6Broken get broken => const _TimeCircleClock6Broken();
+}
+
+/// Circle Clock 6 — broken style variants.
+class _TimeCircleClock6Broken {
+  const _TimeCircleClock6Broken();
+
+  /// Circle Clock 6 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.96754 19.7771C9.29859 20.5545 10.8472 21 12.5 21C17.4709 21 21.5 16.9699 21.5 12C21.5 7.02908 17.4709 3 12.5 3C7.52908 3 3.5 7.02908 3.5 12C3.5 13.7761 4.01459 15.4322 4.90285 16.8273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.5 12H19.879M12.5 21V19.379M3.5 12H5.12195M12.5 3V4.62195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3467 14.5716L12.1719 12.6743V8.57617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 7 icon with style variants.
+class _TimeCircleClock7Icon {
+  const _TimeCircleClock7Icon();
+
+  /// broken style
+  _TimeCircleClock7Broken get broken => const _TimeCircleClock7Broken();
+}
+
+/// Circle Clock 7 — broken style variants.
+class _TimeCircleClock7Broken {
+  const _TimeCircleClock7Broken();
+
+  /// Circle Clock 7 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.5 12C3.5 7.02908 7.52908 3 12.5 3C17.4709 3 21.5 7.02908 21.5 12C21.5 16.9699 17.4709 21 12.5 21C8.90944 21 5.81028 18.8974 4.36595 15.8567" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3467 14.5716L12.1719 12.6743V8.57617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 8 icon with style variants.
+class _TimeCircleClock8Icon {
+  const _TimeCircleClock8Icon();
+
+  /// bold style
+  _TimeCircleClock8Bold get bold => const _TimeCircleClock8Bold();
+}
+
+/// Circle Clock 8 — bold style variants.
+class _TimeCircleClock8Bold {
+  const _TimeCircleClock8Bold();
+
+  /// Circle Clock 8 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 8',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.35474 11.175C3.35474 6.323 7.30474 2.375 12.1597 2.375C17.0137 2.375 20.9617 6.323 20.9617 11.175C20.9617 14.0267 19.6013 16.5663 17.4958 18.1775L18.8458 20.498C19.0548 20.855 18.9338 21.315 18.5758 21.523C18.4568 21.592 18.3268 21.625 18.1988 21.625C17.9408 21.625 17.6898 21.492 17.5508 21.252L16.231 18.9849C15.0129 19.6235 13.6277 19.985 12.1597 19.985C10.6921 19.985 9.30713 19.6238 8.08899 18.9857L6.76964 21.252C6.63064 21.492 6.37964 21.625 6.12164 21.625C5.99364 21.625 5.86364 21.592 5.74464 21.523C5.38664 21.315 5.26564 20.855 5.47464 20.498L6.82393 18.1788C4.71662 16.5677 3.35474 14.0275 3.35474 11.175ZM14.8447 13.795C15.1377 13.795 15.4157 13.623 15.5367 13.336C15.6977 12.955 15.5177 12.515 15.1367 12.354L12.6047 11.287V8.015C12.6047 7.601 12.2687 7.265 11.8547 7.265C11.4407 7.265 11.1047 7.601 11.1047 8.015V11.785C11.1047 12.087 11.2857 12.359 11.5637 12.477L14.5547 13.736C14.6487 13.776 14.7477 13.795 14.8447 13.795Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 9 icon with style variants.
+class _TimeCircleClock9Icon {
+  const _TimeCircleClock9Icon();
+
+  /// bold style
+  _TimeCircleClock9Bold get bold => const _TimeCircleClock9Bold();
+}
+
+/// Circle Clock 9 — bold style variants.
+class _TimeCircleClock9Bold {
+  const _TimeCircleClock9Bold();
+
+  /// Circle Clock 9 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 9',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.491 14.9557C15.35 15.1907 15.102 15.3207 14.847 15.3207C14.716 15.3207 14.583 15.2867 14.462 15.2137L11.287 13.3137C11.061 13.1787 10.923 12.9337 10.923 12.6697V8.58074C10.923 8.16574 11.259 7.83074 11.673 7.83074C12.087 7.83074 12.423 8.16574 12.423 8.58074V12.0747C12.423 12.1802 12.4784 12.2779 12.5689 12.3321L15.233 13.9267C15.588 14.1397 15.704 14.6007 15.491 14.9557ZM19.38 12.7497C18.966 12.7497 18.63 12.4137 18.63 11.9997C18.63 11.5857 18.966 11.2497 19.38 11.2497H21.1375C21.3124 11.2497 21.4507 11.1002 21.431 10.9263C20.9355 6.5467 17.454 3.06519 13.0734 2.56974C12.8996 2.55007 12.75 2.68831 12.75 2.86327V4.62074C12.75 5.03474 12.414 5.37074 12 5.37074C11.586 5.37074 11.25 5.03474 11.25 4.62074V2.86327C11.25 2.68831 11.1005 2.55008 10.9266 2.56975C6.54694 3.06523 3.06454 6.54672 2.56901 10.9263C2.54934 11.1002 2.68758 11.2497 2.86254 11.2497H4.62201C5.03601 11.2497 5.37201 11.5857 5.37201 11.9997C5.37201 12.4137 5.03601 12.7497 4.62201 12.7497H2.86253C2.68758 12.7497 2.54934 12.8993 2.56901 13.0731C3.0645 17.4537 6.54692 20.9353 10.9266 21.4307C11.1005 21.4504 11.25 21.3122 11.25 21.1372V19.3797C11.25 18.9657 11.586 18.6297 12 18.6297C12.414 18.6297 12.75 18.9657 12.75 19.3797V21.1372C12.75 21.3122 12.8996 21.4504 13.0734 21.4307C17.454 20.9353 20.9356 17.4537 21.431 13.0731C21.4507 12.8993 21.3124 12.7497 21.1375 12.7497H19.38Z" fill="black"/> </svg>',
     category: 'Time',
     style: IconfyStyle.bold,
@@ -675,16 +1040,231 @@ class _TimeCircleClockBold {
 
 }
 
-/// Circle Clock — light style variants.
-class _TimeCircleClockLight {
-  const _TimeCircleClockLight();
+/// Circle Clock 10 icon with style variants.
+class _TimeCircleClock10Icon {
+  const _TimeCircleClock10Icon();
 
-  /// Circle Clock — light / regular
+  /// bold style
+  _TimeCircleClock10Bold get bold => const _TimeCircleClock10Bold();
+}
+
+/// Circle Clock 10 — bold style variants.
+class _TimeCircleClock10Bold {
+  const _TimeCircleClock10Bold();
+
+  /// Circle Clock 10 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Circle Clock',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3116 13.9805L12 12.0015V7.72681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 12H19.379M12 21V19.379M3 12H4.62195M12 3V4.62195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    name: 'Circle Clock 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.49 14.956C15.349 15.191 15.1 15.321 14.845 15.321C14.715 15.321 14.582 15.287 14.462 15.214L11.287 13.314C11.06 13.179 10.922 12.934 10.922 12.67V8.581C10.922 8.166 11.258 7.831 11.672 7.831C12.086 7.831 12.422 8.166 12.422 8.581V12.245L15.231 13.927C15.587 14.14 15.703 14.601 15.49 14.956ZM12 2.5C6.761 2.5 2.5 6.762 2.5 12C2.5 17.239 6.761 21.5 12 21.5C17.238 21.5 21.5 17.239 21.5 12C21.5 6.762 17.238 2.5 12 2.5Z" fill="black"/> </svg>',
     category: 'Time',
-    style: IconfyStyle.light,
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 11 icon with style variants.
+class _TimeCircleClock11Icon {
+  const _TimeCircleClock11Icon();
+
+  /// bulk style
+  _TimeCircleClock11Bulk get bulk => const _TimeCircleClock11Bulk();
+}
+
+/// Circle Clock 11 — bulk style variants.
+class _TimeCircleClock11Bulk {
+  const _TimeCircleClock11Bulk();
+
+  /// Circle Clock 11 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 11',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.69183 21.625C6.56383 21.625 6.43383 21.592 6.31483 21.523C5.95683 21.315 5.83583 20.855 6.04483 20.498L7.60983 17.808C7.81883 17.449 8.27883 17.329 8.63583 17.537C8.99383 17.745 9.11483 18.205 8.90583 18.562L7.33983 21.252C7.20083 21.492 6.94983 21.625 6.69183 21.625Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.769 21.625C18.511 21.625 18.26 21.492 18.121 21.252L16.555 18.562C16.346 18.205 16.467 17.745 16.825 17.537C17.182 17.329 17.642 17.449 17.851 17.808L19.416 20.498C19.625 20.855 19.504 21.315 19.146 21.523C19.027 21.592 18.897 21.625 18.769 21.625Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.1068 13.336C15.9858 13.623 15.7078 13.795 15.4148 13.795C15.3178 13.795 15.2188 13.776 15.1248 13.736L12.1338 12.477C11.8558 12.359 11.6748 12.087 11.6748 11.785V8.015C11.6748 7.601 12.0108 7.265 12.4248 7.265C12.8388 7.265 13.1748 7.601 13.1748 8.015V11.287L15.7068 12.354C16.0878 12.515 16.2678 12.955 16.1068 13.336ZM12.7298 2.375C7.8748 2.375 3.9248 6.323 3.9248 11.175C3.9248 16.033 7.8748 19.985 12.7298 19.985C17.5838 19.985 21.5318 16.033 21.5318 11.175C21.5318 6.323 17.5838 2.375 12.7298 2.375Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 12 icon with style variants.
+class _TimeCircleClock12Icon {
+  const _TimeCircleClock12Icon();
+
+  /// bulk style
+  _TimeCircleClock12Bulk get bulk => const _TimeCircleClock12Bulk();
+}
+
+/// Circle Clock 12 — bulk style variants.
+class _TimeCircleClock12Bulk {
+  const _TimeCircleClock12Bulk();
+
+  /// Circle Clock 12 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 12',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.58667 12.0673C4.58667 7.56719 8.25019 3.90552 12.7531 3.90552C17.255 3.90552 20.9167 7.56719 20.9167 12.0673C20.9167 16.573 17.255 20.2383 12.7531 20.2383C8.25019 20.2383 4.58667 16.573 4.58667 12.0673ZM12.412 13.3604C11.998 13.3604 11.662 13.0244 11.662 12.6104V9.12036C11.662 8.70636 11.998 8.37036 12.412 8.37036C12.826 8.37036 13.162 8.70636 13.162 9.12036V11.8604H15.877C16.291 11.8604 16.627 12.1964 16.627 12.6104C16.627 13.0244 16.291 13.3604 15.877 13.3604H12.412Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.39291 3.65009C7.74691 3.43409 7.85791 2.97209 7.64191 2.61909C7.42591 2.26409 6.96291 2.15609 6.61091 2.37009C5.58291 2.99909 4.66191 3.78709 3.87191 4.71309C3.60391 5.02909 3.64191 5.50309 3.95691 5.77109C4.09891 5.89109 4.27091 5.95009 4.44291 5.95009C4.65591 5.95009 4.86691 5.86009 5.01491 5.68609C5.70091 4.88009 6.50091 4.19509 7.39291 3.65009Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.6337 4.71671C20.8317 3.76471 19.9077 2.97071 18.8887 2.35771C18.5327 2.14371 18.0727 2.25771 17.8597 2.61271C17.6457 2.96771 17.7597 3.42871 18.1147 3.64271C18.9927 4.17071 19.7907 4.85771 20.4867 5.68371C20.6347 5.85971 20.8467 5.94971 21.0607 5.94971C21.2307 5.94971 21.4027 5.89171 21.5437 5.77371C21.8597 5.50671 21.9007 5.03371 21.6337 4.71671Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2751 21.7503C18.0171 21.7503 17.7661 21.6173 17.6271 21.3773L16.0611 18.6873C15.8521 18.3303 15.9731 17.8703 16.3311 17.6623C16.6881 17.4543 17.1481 17.5743 17.3571 17.9333L18.9221 20.6233C19.1311 20.9803 19.0101 21.4403 18.6521 21.6483C18.5331 21.7173 18.4031 21.7503 18.2751 21.7503Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.11558 21.7503C7.37358 21.7503 7.62458 21.6173 7.76358 21.3773L9.32958 18.6873C9.53858 18.3303 9.41758 17.8703 9.05958 17.6623C8.70258 17.4543 8.24258 17.5743 8.03358 17.9333L6.46858 20.6233C6.25958 20.9803 6.38058 21.4403 6.73858 21.6483C6.85758 21.7173 6.98758 21.7503 7.11558 21.7503Z" fill="black"/> </g> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 13 icon with style variants.
+class _TimeCircleClock13Icon {
+  const _TimeCircleClock13Icon();
+
+  /// bulk style
+  _TimeCircleClock13Bulk get bulk => const _TimeCircleClock13Bulk();
+}
+
+/// Circle Clock 13 — bulk style variants.
+class _TimeCircleClock13Bulk {
+  const _TimeCircleClock13Bulk();
+
+  /// Circle Clock 13 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 13',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.9501 12.7497C19.5361 12.7497 19.2001 12.4137 19.2001 11.9997C19.2001 11.5857 19.5361 11.2497 19.9501 11.2497H21.7075C21.8825 11.2497 22.0207 11.1002 22.0011 10.9263C21.5056 6.5467 18.024 3.06519 13.6435 2.56974C13.4696 2.55007 13.3201 2.68831 13.3201 2.86327V4.62074C13.3201 5.03474 12.9841 5.37074 12.5701 5.37074C12.1561 5.37074 11.8201 5.03474 11.8201 4.62074V2.86327C11.8201 2.68831 11.6705 2.55008 11.4967 2.56975C7.11701 3.06523 3.63461 6.54672 3.13908 10.9263C3.11941 11.1002 3.25765 11.2497 3.43261 11.2497H5.19208C5.60608 11.2497 5.94208 11.5857 5.94208 11.9997C5.94208 12.4137 5.60608 12.7497 5.19208 12.7497H3.4326C3.25764 12.7497 3.11941 12.8993 3.13907 13.0731C3.63457 17.4537 7.11699 20.9353 11.4967 21.4307C11.6705 21.4504 11.8201 21.3122 11.8201 21.1372V19.3797C11.8201 18.9657 12.1561 18.6297 12.5701 18.6297C12.9841 18.6297 13.3201 18.9657 13.3201 19.3797V21.1372C13.3201 21.3122 13.4696 21.4504 13.6435 21.4307C18.0241 20.9353 21.5056 17.4537 22.0011 13.0731C22.0207 12.8993 21.8825 12.7497 21.7076 12.7497H19.9501Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0612 14.9556C15.9202 15.1906 15.6722 15.3206 15.4172 15.3206C15.2862 15.3206 15.1532 15.2866 15.0322 15.2136L11.8572 13.3136C11.6312 13.1786 11.4932 12.9336 11.4932 12.6696V8.58057C11.4932 8.16557 11.8292 7.83057 12.2432 7.83057C12.6572 7.83057 12.9932 8.16557 12.9932 8.58057V12.0745C12.9932 12.18 13.0486 12.2777 13.1391 12.3319L15.8032 13.9266C16.1582 14.1396 16.2742 14.6006 16.0612 14.9556Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 14 icon with style variants.
+class _TimeCircleClock14Icon {
+  const _TimeCircleClock14Icon();
+
+  /// bulk style
+  _TimeCircleClock14Bulk get bulk => const _TimeCircleClock14Bulk();
+}
+
+/// Circle Clock 14 — bulk style variants.
+class _TimeCircleClock14Bulk {
+  const _TimeCircleClock14Bulk();
+
+  /// Circle Clock 14 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 14',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.5701 2.5C7.33107 2.5 3.07007 6.762 3.07007 12C3.07007 17.239 7.33107 21.5 12.5701 21.5C17.8081 21.5 22.0701 17.239 22.0701 12C22.0701 6.762 17.8081 2.5 12.5701 2.5Z" fill="black"/> <path d="M15.4152 15.3211C15.6702 15.3211 15.9192 15.1911 16.0602 14.9561C16.2732 14.6011 16.1572 14.1401 15.8012 13.9271L12.9922 12.2451V8.58105C12.9922 8.16605 12.6562 7.83105 12.2422 7.83105C11.8282 7.83105 11.4922 8.16605 11.4922 8.58105V12.6701C11.4922 12.9341 11.6302 13.1791 11.8572 13.3141L15.0322 15.2141C15.1522 15.2871 15.2852 15.3211 15.4152 15.3211Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 15 icon with style variants.
+class _TimeCircleClock15Icon {
+  const _TimeCircleClock15Icon();
+
+  /// bold style
+  _TimeCircleClock15Bold get bold => const _TimeCircleClock15Bold();
+}
+
+/// Circle Clock 15 — bold style variants.
+class _TimeCircleClock15Bold {
+  const _TimeCircleClock15Bold();
+
+  /// Circle Clock 15 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 15',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.6412 3.65003C6.9952 3.43403 7.1062 2.97203 6.8902 2.61903C6.6742 2.26403 6.2112 2.15603 5.8592 2.37003C4.8312 2.99903 3.9102 3.78703 3.1202 4.71303C2.8522 5.02903 2.8902 5.50303 3.2052 5.77103C3.3472 5.89103 3.5192 5.95003 3.6912 5.95003C3.9042 5.95003 4.1152 5.86003 4.2632 5.68603C4.9492 4.88003 5.7492 4.19503 6.6412 3.65003Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.882 4.71665C20.08 3.76465 19.156 2.97065 18.137 2.35765C17.781 2.14365 17.321 2.25765 17.108 2.61265C16.894 2.96765 17.008 3.42865 17.363 3.64265C18.241 4.17065 19.039 4.85765 19.735 5.68365C19.883 5.85965 20.095 5.94965 20.309 5.94965C20.479 5.94965 20.651 5.89165 20.792 5.77365C21.108 5.50665 21.149 5.03365 20.882 4.71665Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6603 13.3603C11.2463 13.3603 10.9103 13.0243 10.9103 12.6103V9.1203C10.9103 8.7063 11.2463 8.3703 11.6603 8.3703C12.0743 8.3703 12.4103 8.7063 12.4103 9.1203V11.8603H15.1253C15.5393 11.8603 15.8753 12.1963 15.8753 12.6103C15.8753 13.0243 15.5393 13.3603 15.1253 13.3603H11.6603ZM20.1113 12.0403C20.1113 7.5353 16.4463 3.8703 11.9423 3.8703C7.43734 3.8703 3.77234 7.5353 3.77234 12.0403C3.77234 14.6653 5.02234 16.9993 6.95234 18.4953L5.71634 20.6233C5.50834 20.9813 5.63034 21.4403 5.98834 21.6483C6.10634 21.7173 6.23634 21.7503 6.36434 21.7503C6.62234 21.7503 6.87434 21.6163 7.01334 21.3773L8.21834 19.3033C9.33634 19.8793 10.6003 20.2103 11.9423 20.2103C13.2833 20.2103 14.5473 19.8793 15.6653 19.3033L16.8693 21.3773C17.0093 21.6163 17.2603 21.7503 17.5183 21.7503C17.6463 21.7503 17.7763 21.7173 17.8953 21.6483C18.2533 21.4403 18.3743 20.9813 18.1663 20.6233L16.9303 18.4953C18.8613 16.9993 20.1113 14.6653 20.1113 12.0403Z" fill="black"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 16 icon with style variants.
+class _TimeCircleClock16Icon {
+  const _TimeCircleClock16Icon();
+
+  /// outline style
+  _TimeCircleClock16Outline get outline => const _TimeCircleClock16Outline();
+}
+
+/// Circle Clock 16 — outline style variants.
+class _TimeCircleClock16Outline {
+  const _TimeCircleClock16Outline();
+
+  /// Circle Clock 16 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 16',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5558 7.44335 20.25 12 20.25C16.5567 20.25 20.25 16.5558 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3841 17.3852 21.75 12 21.75C6.61481 21.75 2.25 17.3841 2.25 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6719 7.82617C12.0861 7.82617 12.4219 8.16196 12.4219 8.57617V12.2488L15.2314 13.9278C15.587 14.1403 15.703 14.6008 15.4905 14.9564C15.278 15.3119 14.8175 15.4279 14.4619 15.2154L11.2871 13.3181C11.0606 13.1827 10.9219 12.9383 10.9219 12.6743V8.57617C10.9219 8.16196 11.2577 7.82617 11.6719 7.82617Z" fill="black"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 17 icon with style variants.
+class _TimeCircleClock17Icon {
+  const _TimeCircleClock17Icon();
+
+  /// outline style
+  _TimeCircleClock17Outline get outline => const _TimeCircleClock17Outline();
+}
+
+/// Circle Clock 17 — outline style variants.
+class _TimeCircleClock17Outline {
+  const _TimeCircleClock17Outline();
+
+  /// Circle Clock 17 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 17',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9996 3.75C7.82773 3.75 4.44629 7.13144 4.44629 11.3033C4.44629 15.4752 7.82773 18.8566 11.9996 18.8566C16.1715 18.8566 19.5529 15.4752 19.5529 11.3033C19.5529 7.13144 16.1715 3.75 11.9996 3.75ZM2.94629 11.3033C2.94629 6.30301 6.9993 2.25 11.9996 2.25C16.9999 2.25 21.0529 6.30301 21.0529 11.3033C21.0529 16.3036 16.9999 20.3566 11.9996 20.3566C6.9993 20.3566 2.94629 16.3036 2.94629 11.3033Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.90619 17.6604C8.26419 17.8688 8.38548 18.3279 8.17712 18.6859L6.61097 21.3767C6.40261 21.7347 5.94349 21.856 5.5855 21.6476C5.22751 21.4393 5.10621 20.9802 5.31457 20.6222L6.88072 17.9313C7.08908 17.5733 7.5482 17.452 7.90619 17.6604Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0953 17.6604C16.4533 17.452 16.9124 17.5733 17.1207 17.9313L18.6869 20.6222C18.8953 20.9802 18.774 21.4393 18.416 21.6476C18.058 21.856 17.5988 21.7347 17.3905 21.3767L15.8243 18.6859C15.616 18.3279 15.7373 17.8688 16.0953 17.6604Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6953 7.39453C12.1095 7.39453 12.4453 7.73032 12.4453 8.14453V11.4142L14.9762 12.4754C15.3582 12.6356 15.538 13.0751 15.3778 13.4571C15.2176 13.8391 14.7781 14.0189 14.3961 13.8587L11.4053 12.6046C11.1266 12.4877 10.9453 12.2151 10.9453 11.9129V8.14453C10.9453 7.73032 11.2811 7.39453 11.6953 7.39453Z" fill="black"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 18 icon with style variants.
+class _TimeCircleClock18Icon {
+  const _TimeCircleClock18Icon();
+
+  /// outline style
+  _TimeCircleClock18Outline get outline => const _TimeCircleClock18Outline();
+}
+
+/// Circle Clock 18 — outline style variants.
+class _TimeCircleClock18Outline {
+  const _TimeCircleClock18Outline();
+
+  /// Circle Clock 18 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 18',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9996 3.75C7.82773 3.75 4.44629 7.13144 4.44629 11.3033C4.44629 15.4752 7.82773 18.8566 11.9996 18.8566C16.1715 18.8566 19.5529 15.4752 19.5529 11.3033C19.5529 7.13144 16.1715 3.75 11.9996 3.75ZM2.94629 11.3033C2.94629 6.30301 6.9993 2.25 11.9996 2.25C16.9999 2.25 21.0529 6.30301 21.0529 11.3033C21.0529 16.3036 16.9999 20.3566 11.9996 20.3566C6.9993 20.3566 2.94629 16.3036 2.94629 11.3033Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.90619 17.6604C8.26419 17.8688 8.38548 18.3279 8.17712 18.6859L6.61097 21.3767C6.40261 21.7347 5.94349 21.856 5.5855 21.6476C5.22751 21.4393 5.10621 20.9802 5.31457 20.6222L6.88072 17.9313C7.08908 17.5733 7.5482 17.452 7.90619 17.6604Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0953 17.6604C16.4533 17.452 16.9124 17.5733 17.1207 17.9313L18.6869 20.6222C18.8953 20.9802 18.774 21.4393 18.416 21.6476C18.058 21.856 17.5988 21.7347 17.3905 21.3767L15.8243 18.6859C15.616 18.3279 15.7373 17.8688 16.0953 17.6604Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6953 7.39453C12.1095 7.39453 12.4453 7.73032 12.4453 8.14453V11.4142L14.9762 12.4754C15.3582 12.6356 15.538 13.0751 15.3778 13.4571C15.2176 13.8391 14.7781 14.0189 14.3961 13.8587L11.4053 12.6046C11.1266 12.4877 10.9453 12.2151 10.9453 11.9129V8.14453C10.9453 7.73032 11.2811 7.39453 11.6953 7.39453Z" fill="black"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle Clock 19 icon with style variants.
+class _TimeCircleClock19Icon {
+  const _TimeCircleClock19Icon();
+
+  /// outline style
+  _TimeCircleClock19Outline get outline => const _TimeCircleClock19Outline();
+}
+
+/// Circle Clock 19 — outline style variants.
+class _TimeCircleClock19Outline {
+  const _TimeCircleClock19Outline();
+
+  /// Circle Clock 19 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle Clock 19',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5558 7.44335 20.25 12 20.25C16.5567 20.25 20.25 16.5558 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3841 17.3852 21.75 12 21.75C6.61481 21.75 2.25 17.3841 2.25 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.25C12.4142 2.25 12.75 2.58579 12.75 3V4.62195C12.75 5.03616 12.4142 5.37195 12 5.37195C11.5858 5.37195 11.25 5.03616 11.25 4.62195V3C11.25 2.58579 11.5858 2.25 12 2.25ZM2.25 12C2.25 11.5858 2.58579 11.25 3 11.25H4.62195C5.03616 11.25 5.37195 11.5858 5.37195 12C5.37195 12.4142 5.03616 12.75 4.62195 12.75H3C2.58579 12.75 2.25 12.4142 2.25 12ZM18.629 12C18.629 11.5858 18.9648 11.25 19.379 11.25H21C21.4142 11.25 21.75 11.5858 21.75 12C21.75 12.4142 21.4142 12.75 21 12.75H19.379C18.9648 12.75 18.629 12.4142 18.629 12ZM12 18.629C12.4142 18.629 12.75 18.9648 12.75 19.379V21C12.75 21.4142 12.4142 21.75 12 21.75C11.5858 21.75 11.25 21.4142 11.25 21V19.379C11.25 18.9648 11.5858 18.629 12 18.629Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.6719 7.82617C12.0861 7.82617 12.4219 8.16196 12.4219 8.57617V12.2488L15.2314 13.9278C15.587 14.1403 15.703 14.6008 15.4905 14.9564C15.278 15.3119 14.8175 15.4279 14.4619 15.2154L11.2871 13.3181C11.0606 13.1827 10.9219 12.9383 10.9219 12.6743V8.57617C10.9219 8.16196 11.2577 7.82617 11.6719 7.82617Z" fill="black"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -713,7 +1293,7 @@ class _TimeForwardClockTimerBulk {
   /// Forward Clock Timer — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Forward Clock Timer',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7222 18.4647H21.5322C21.3632 18.1527 21.0322 17.9407 20.6522 17.9407C20.2722 17.9407 19.9422 18.1527 19.7732 18.4647H19.5052L21.4642 15.7377C21.7862 15.2897 21.6842 14.6647 21.2362 14.3427C20.7872 14.0207 20.1632 14.1227 19.8402 14.5707L16.7432 18.8817C16.5242 19.1857 16.4932 19.5877 16.6652 19.9207C16.8362 20.2547 17.1802 20.4647 17.5552 20.4647H19.6522V20.7347C19.6522 21.2867 20.1002 21.7347 20.6522 21.7347C21.2042 21.7347 21.6522 21.2867 21.6522 20.7347V20.4647H21.7222C22.2742 20.4647 22.7222 20.0167 22.7222 19.4647C22.7222 18.9127 22.2742 18.4647 21.7222 18.4647Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7725 19.7148H14.3955C14.5455 19.5958 14.7285 19.4668 14.9445 19.3198C15.7155 18.7948 16.7725 18.0738 16.7725 16.6548C16.7725 15.2868 15.6585 14.1748 14.2885 14.1748C12.9175 14.1748 11.8025 15.2868 11.8025 16.6548C11.8025 17.2068 12.2505 17.6548 12.8025 17.6548C13.3545 17.6548 13.8025 17.2068 13.8025 16.6548C13.8025 16.3898 14.0205 16.1748 14.2885 16.1748C14.5555 16.1748 14.7725 16.3898 14.7725 16.6548C14.7725 16.9668 14.5455 17.1718 13.8185 17.6668C12.9685 18.2468 11.8035 19.0398 11.8035 20.7148C11.8035 21.2668 12.2515 21.7148 12.8035 21.7148H15.7725C16.3245 21.7148 16.7725 21.2668 16.7725 20.7148C16.7725 20.1628 16.3245 19.7148 15.7725 19.7148Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M5.25165 14.8664C5.99965 16.8014 7.46265 18.3384 9.37065 19.1924C9.87465 19.4184 10.1007 20.0094 9.87465 20.5134C9.70865 20.8844 9.34465 21.1054 8.96165 21.1054C8.82565 21.1054 8.68665 21.0774 8.55465 21.0174C6.16065 19.9464 4.32565 18.0174 3.38565 15.5854C1.45165 10.5484 3.97165 4.86438 9.00265 2.91238C12.7087 1.48738 16.8517 2.48638 19.5257 5.21138V4.83538C19.5257 4.28238 19.9737 3.83538 20.5257 3.83538C21.0777 3.83538 21.5257 4.28238 21.5257 4.83538V7.76438C21.5257 8.31738 21.0777 8.76438 20.5257 8.76438H17.6077C17.0557 8.76438 16.6077 8.31738 16.6077 7.76438C16.6077 7.21238 17.0557 6.76438 17.6077 6.76438H18.2387C16.1177 4.48038 12.7387 3.61638 9.72365 4.77838C5.71965 6.33138 3.71265 10.8574 5.25165 14.8664ZM11.5685 11.0548V7.94482C11.5685 7.39282 12.0165 6.94482 12.5685 6.94482C13.1205 6.94482 13.5685 7.39282 13.5685 7.94482V12.0548C13.5685 12.6068 13.1205 13.0548 12.5685 13.0548H9.18555C8.63355 13.0548 8.18555 12.6068 8.18555 12.0548C8.18555 11.5028 8.63355 11.0548 9.18555 11.0548H11.5685Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.8391 8.7278C21.3911 8.7278 21.8391 8.2798 21.8391 7.7278V4.7378C21.8391 4.1858 21.3911 3.7378 20.8391 3.7378C20.2871 3.7378 19.8391 4.1858 19.8391 4.7378V5.1758C17.1191 2.3738 12.8861 1.3438 9.10614 2.8058C3.98814 4.7878 1.42514 10.5658 3.39314 15.6868C4.34214 18.1548 6.20914 20.1158 8.64814 21.2108C8.78114 21.2698 8.92014 21.2988 9.05714 21.2988C9.43914 21.2988 9.80314 21.0788 9.97014 20.7068C10.1961 20.2038 9.97014 19.6118 9.46614 19.3858C7.51214 18.5088 6.01814 16.9398 5.26014 14.9688C3.68614 10.8758 5.73614 6.2558 9.82814 4.6708C12.9181 3.4738 16.3861 4.3678 18.5511 6.7278H17.8661C17.3141 6.7278 16.8661 7.1758 16.8661 7.7278C16.8661 8.2798 17.3141 8.7278 17.8661 8.7278H20.8391Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7321 12.0975V7.91748C13.7321 7.36548 13.2841 6.91748 12.7321 6.91748C12.1801 6.91748 11.7321 7.36548 11.7321 7.91748V11.0975H9.28613C8.73413 11.0975 8.28613 11.5455 8.28613 12.0975C8.28613 12.6495 8.73413 13.0975 9.28613 13.0975H12.7321C13.2841 13.0975 13.7321 12.6495 13.7321 12.0975Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4054 14.4451C15.0584 14.2801 14.6454 14.3281 14.3454 14.5711L12.6554 15.9411C12.2254 16.2891 12.1594 16.9191 12.5074 17.3471C12.8554 17.7771 13.4844 17.8431 13.9134 17.4951L13.9754 17.4451V20.7481C13.9754 21.3001 14.4234 21.7481 14.9754 21.7481C15.5274 21.7481 15.9754 21.3001 15.9754 20.7481V15.3481C15.9754 14.9621 15.7534 14.6111 15.4054 14.4451Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.7262 19.1276C20.7262 19.5306 20.3992 19.8576 19.9972 19.8576C19.5952 19.8576 19.2682 19.5306 19.2682 19.1276V16.7476C19.2682 16.3456 19.5952 16.0176 19.9972 16.0176C20.3992 16.0176 20.7262 16.3456 20.7262 16.7476V19.1276ZM19.9972 14.0176C18.4922 14.0176 17.2682 15.2426 17.2682 16.7476V19.1276C17.2682 20.6326 18.4922 21.8576 19.9972 21.8576C21.5022 21.8576 22.7262 20.6326 22.7262 19.1276V16.7476C22.7262 15.2426 21.5022 14.0176 19.9972 14.0176Z" fill="black"/> </svg>',
     category: 'Time',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -728,7 +1308,7 @@ class _TimeForwardClockTimerBroken {
   /// Forward Clock Timer — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Forward Clock Timer',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.29382 3.8554C13.4283 2.2585 18.0326 4.00295 20.1294 7.77435" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.89191 20.1081C6.83487 19.1868 5.12051 17.4928 4.24779 15.229C2.88308 11.6789 3.9671 7.79219 6.67812 5.42969" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.4552 4.83984V7.77348H17.5371" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4983 7.95312V12.0575H9.11523" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.5821 20.7372V19.4664M20.5821 19.4664H21.6586M20.5821 19.4664H17.4844L20.5821 15.1582V19.4664Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7324 16.663C12.7324 15.8437 13.3974 15.1777 14.2177 15.1777C15.037 15.1777 15.702 15.8437 15.702 16.663C15.702 18.5191 12.7334 18.5191 12.7334 20.7169H15.702" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.39978 3.74168C13.612 2.11476 18.3028 3.89102 20.4391 7.7333" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.99028 20.2996C6.89458 19.362 5.14799 17.6352 4.25888 15.3298C3.028 12.1272 3.75236 8.65628 5.8511 6.23242" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.7718 4.74414V7.73292H17.7988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6654 7.91602V12.0975H9.21875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.908 20.7545V15.3477L13.2168 16.7174" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.93 20.8616C18.9756 20.8616 18.2012 20.0872 18.2012 19.1328V16.7503C18.2012 15.7949 18.9756 15.0215 19.93 15.0215C20.8853 15.0215 21.6587 15.7949 21.6587 16.7503V19.1328C21.6587 20.0872 20.8853 20.8616 19.93 20.8616Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Time',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -743,7 +1323,7 @@ class _TimeForwardClockTimerTwotone {
   /// Forward Clock Timer — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Forward Clock Timer',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.89191 20.1088C6.83487 19.1876 5.12051 17.4936 4.24779 15.2298C2.50431 10.6944 4.75744 5.60956 9.2938 3.8554C13.4283 2.2585 18.0326 4.00295 20.1294 7.77435" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.4552 4.83984V7.77348H17.5371" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4983 7.95312V12.0575H9.11523" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.5821 20.7372V19.4664M20.5821 19.4664H21.6586M20.5821 19.4664H17.4844L20.5821 15.1582V19.4664Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.7324 16.663C12.7324 15.8437 13.3974 15.1777 14.2177 15.1777C15.037 15.1777 15.702 15.8437 15.702 16.663C15.702 18.5191 12.7334 18.5191 12.7334 20.7169H15.702" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.99028 20.2996C6.89458 19.362 5.14799 17.6352 4.25888 15.3299C2.48262 10.7082 4.7781 5.52782 9.39973 3.74168C13.6119 2.11476 18.3028 3.89102 20.439 7.7333" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.7718 4.74414V7.73292H17.7988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6654 7.91602V12.0975H9.21875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.908 20.7545V15.3477L13.2168 16.7174" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.93 20.8616C18.9756 20.8616 18.2012 20.0872 18.2012 19.1328V16.7503C18.2012 15.7949 18.9756 15.0215 19.93 15.0215C20.8853 15.0215 21.6587 15.7949 21.6587 16.7503V19.1328C21.6587 20.0872 20.8853 20.8616 19.93 20.8616Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Time',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -758,7 +1338,7 @@ class _TimeForwardClockTimerOutline {
   /// Forward Clock Timer — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Forward Clock Timer',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.23429 20.8558C8.12843 20.8559 8.02378 20.8334 7.92729 20.7898C6.54392 20.1771 5.32599 19.2444 4.37393 18.0685C3.42188 16.8926 2.76296 15.5073 2.45151 14.0267C2.14006 12.5461 2.18501 11.0127 2.58263 9.55289C2.98025 8.09309 3.71915 6.74871 4.73844 5.63059C5.75772 4.51247 7.02818 3.65265 8.44506 3.12201C9.86193 2.59137 11.3846 2.4051 12.8877 2.57859C14.3907 2.75207 15.8309 3.28033 17.0896 4.1198C18.3484 4.95928 19.3895 6.08593 20.1273 7.40685C20.224 7.58083 20.2476 7.78609 20.1929 7.97747C20.1382 8.16885 20.0098 8.33067 19.8358 8.42734C19.6618 8.52401 19.4566 8.54762 19.2652 8.49295C19.0738 8.43828 18.912 8.30983 18.8153 8.13585C18.1927 7.02337 17.3147 6.07479 16.2535 5.36831C15.1923 4.66183 13.9784 4.21768 12.7119 4.07248C11.4454 3.92728 10.1625 4.08519 8.96894 4.53318C7.77541 4.98117 6.70546 5.70643 5.84728 6.64914C4.9891 7.59186 4.36728 8.72506 4.03307 9.9553C3.69885 11.1855 3.66183 12.4776 3.92504 13.725C4.18825 14.9723 4.74416 16.1393 5.54694 17.1296C6.34972 18.1199 7.37638 18.9052 8.54228 19.4209C8.69932 19.4909 8.82753 19.6127 8.90544 19.766C8.98336 19.9192 9.00626 20.0946 8.97029 20.2628C8.93432 20.4309 8.84168 20.5815 8.70787 20.6895C8.57407 20.7975 8.40723 20.8562 8.23529 20.8558H8.23429Z" fill="black"/> <path d="M19.7979 8.51894H16.8799C16.681 8.51894 16.4902 8.43992 16.3495 8.29927C16.2089 8.15862 16.1299 7.96786 16.1299 7.76894C16.1299 7.57003 16.2089 7.37926 16.3495 7.23861C16.4902 7.09796 16.681 7.01894 16.8799 7.01894H19.0479V4.83594C19.0479 4.63703 19.1269 4.44626 19.2675 4.30561C19.4082 4.16496 19.599 4.08594 19.7979 4.08594C19.9968 4.08594 20.1876 4.16496 20.3282 4.30561C20.4689 4.44626 20.5479 4.63703 20.5479 4.83594V7.76894C20.5479 7.96786 20.4689 8.15862 20.3282 8.29927C20.1876 8.43992 19.9968 8.51894 19.7979 8.51894Z" fill="black"/> <path d="M11.841 12.8042H8.45801C8.2591 12.8042 8.06833 12.7252 7.92767 12.5845C7.78702 12.4439 7.70801 12.2531 7.70801 12.0542C7.70801 11.8553 7.78702 11.6645 7.92767 11.5239C8.06833 11.3832 8.2591 11.3042 8.45801 11.3042H11.091V7.94922C11.091 7.75031 11.17 7.55954 11.3107 7.41888C11.4513 7.27823 11.6421 7.19922 11.841 7.19922C12.0399 7.19922 12.2307 7.27823 12.3713 7.41888C12.512 7.55954 12.591 7.75031 12.591 7.94922V12.0492C12.5917 12.1481 12.5728 12.2462 12.5354 12.3378C12.498 12.4293 12.4428 12.5126 12.3731 12.5828C12.3034 12.653 12.2205 12.7086 12.1292 12.7467C12.0379 12.7847 11.9399 12.8042 11.841 12.8042Z" fill="black"/> <path d="M19.9243 21.4836C19.7254 21.4836 19.5347 21.4045 19.394 21.2639C19.2534 21.1232 19.1743 20.9325 19.1743 20.7336V20.2126H16.8263C16.6882 20.213 16.5526 20.1751 16.4346 20.1032C16.3165 20.0313 16.2207 19.9282 16.1577 19.8052C16.0946 19.6823 16.0668 19.5443 16.0774 19.4065C16.0879 19.2687 16.1364 19.1365 16.2173 19.0246L19.3173 14.7166C19.41 14.5877 19.5411 14.4915 19.6919 14.4419C19.8427 14.3923 20.0053 14.3918 20.1564 14.4405C20.3075 14.4891 20.4392 14.5845 20.5326 14.7128C20.6261 14.8412 20.6764 14.9958 20.6763 15.1546V18.7126H21.0033C21.2022 18.7126 21.393 18.7916 21.5337 18.9322C21.6743 19.0729 21.7533 19.2636 21.7533 19.4626C21.7533 19.6615 21.6743 19.8522 21.5337 19.9929C21.393 20.1335 21.2022 20.2126 21.0033 20.2126H20.6763V20.7336C20.6763 20.8322 20.6569 20.9299 20.6191 21.021C20.5812 21.1122 20.5258 21.1949 20.456 21.2646C20.3861 21.3343 20.3032 21.3895 20.212 21.427C20.1207 21.4646 20.023 21.4838 19.9243 21.4836ZM18.2893 18.7126H19.1743V17.4826L18.2893 18.7126Z" fill="black"/> <path d="M15.0413 21.4628H12.0723C11.8734 21.4628 11.6826 21.3838 11.542 21.2432C11.4013 21.1025 11.3223 20.9117 11.3223 20.7128C11.3608 20.1132 11.5576 19.5344 11.8926 19.0355C12.2276 18.5366 12.6888 18.1355 13.2293 17.8728C13.9673 17.3728 14.2913 17.1038 14.2913 16.6588C14.2913 16.4639 14.2139 16.2769 14.076 16.1391C13.9382 16.0013 13.7512 15.9238 13.5563 15.9238C13.3614 15.9238 13.1744 16.0013 13.0366 16.1391C12.8987 16.2769 12.8213 16.4639 12.8213 16.6588C12.8213 16.8577 12.7423 17.0485 12.6016 17.1892C12.461 17.3298 12.2702 17.4088 12.0713 17.4088C11.8724 17.4088 11.6816 17.3298 11.541 17.1892C11.4003 17.0485 11.3213 16.8577 11.3213 16.6588C11.3213 16.0661 11.5568 15.4976 11.9759 15.0784C12.3951 14.6593 12.9635 14.4238 13.5563 14.4238C14.149 14.4238 14.7175 14.6593 15.1367 15.0784C15.5558 15.4976 15.7913 16.0661 15.7913 16.6588C15.7451 17.1828 15.562 17.6855 15.2603 18.1164C14.9586 18.5473 14.5489 18.8912 14.0723 19.1138C13.69 19.3397 13.3472 19.6265 13.0573 19.9628H15.0413C15.2402 19.9628 15.431 20.0418 15.5716 20.1825C15.7123 20.3231 15.7913 20.5139 15.7913 20.7128C15.7913 20.9117 15.7123 21.1025 15.5716 21.2432C15.431 21.3838 15.2402 21.4628 15.0413 21.4628Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.32903 21.0444C8.22348 21.0446 8.11913 21.0221 8.02303 20.9784C6.61675 20.3542 5.37891 19.4047 4.41152 18.2083C3.44414 17.0119 2.7749 15.6027 2.45893 14.0969C2.14296 12.591 2.18931 11.0317 2.59417 9.54731C2.99903 8.06292 3.75081 6.69598 4.78756 5.55911C5.82431 4.42224 7.11636 3.548 8.55724 3.0084C9.99813 2.4688 11.5466 2.27929 13.0751 2.4555C14.6036 2.6317 16.0683 3.16857 17.3486 4.02188C18.6289 4.87518 19.6882 6.0205 20.439 7.36345C20.5357 7.53743 20.5593 7.74268 20.5046 7.93406C20.45 8.12545 20.3215 8.28728 20.1475 8.38395C19.9735 8.48062 19.7683 8.50421 19.5769 8.44954C19.3855 8.39488 19.2237 8.26643 19.127 8.09244C18.4916 6.95722 17.5955 5.98925 16.5126 5.26831C15.4297 4.54737 14.1909 4.09411 12.8984 3.94587C11.6059 3.79763 10.2967 3.95866 9.0787 4.41569C7.86066 4.87273 6.76868 5.61267 5.89274 6.57455C5.0168 7.53643 4.38198 8.69271 4.04061 9.94808C3.69924 11.2034 3.66108 12.522 3.92928 13.795C4.19749 15.068 4.76439 16.259 5.58325 17.27C6.4021 18.2809 7.44946 19.0827 8.63903 19.6094C8.79607 19.6795 8.92427 19.8013 9.00219 19.9546C9.08011 20.1078 9.10299 20.2832 9.06703 20.4513C9.03106 20.6195 8.93841 20.7701 8.8046 20.8781C8.6708 20.9861 8.50396 21.0448 8.33202 21.0444H8.32903Z" fill="black"/> <path d="M20.1107 8.47826H17.1387C16.9398 8.47826 16.749 8.39924 16.6083 8.25858C16.4677 8.11793 16.3887 7.92717 16.3887 7.72826C16.3887 7.52934 16.4677 7.33857 16.6083 7.19792C16.749 7.05727 16.9398 6.97826 17.1387 6.97826H19.3617V4.73926C19.3617 4.54035 19.4407 4.34958 19.5813 4.20892C19.722 4.06827 19.9128 3.98926 20.1117 3.98926C20.3106 3.98926 20.5013 4.06827 20.642 4.20892C20.7827 4.34958 20.8617 4.54035 20.8617 4.73926V7.72826C20.8617 7.82683 20.8422 7.92444 20.8045 8.0155C20.7667 8.10655 20.7114 8.18928 20.6416 8.25894C20.5719 8.3286 20.4891 8.38382 20.398 8.42145C20.3069 8.45908 20.2092 8.47839 20.1107 8.47826Z" fill="black"/> <path d="M12.0026 12.8431H8.55664C8.35773 12.8431 8.16697 12.7641 8.02632 12.6235C7.88567 12.4828 7.80664 12.292 7.80664 12.0931C7.80664 11.8942 7.88567 11.7035 8.02632 11.5628C8.16697 11.4222 8.35773 11.3431 8.55664 11.3431H11.2567V7.91113C11.2567 7.71222 11.3357 7.52146 11.4763 7.38081C11.617 7.24015 11.8077 7.16113 12.0067 7.16113C12.2056 7.16113 12.3963 7.24015 12.537 7.38081C12.6776 7.52146 12.7567 7.71222 12.7567 7.91113V12.0951C12.7564 12.1938 12.7367 12.2914 12.6986 12.3825C12.6605 12.4735 12.6049 12.5561 12.5349 12.6256C12.4648 12.6951 12.3817 12.7501 12.2904 12.7874C12.1991 12.8247 12.1013 12.8437 12.0026 12.8431Z" fill="black"/> <path d="M14.2478 21.4949C14.0488 21.4949 13.8581 21.4159 13.7174 21.2752C13.5768 21.1346 13.4978 20.9438 13.4978 20.7449V16.9149L13.0287 17.2949C12.8741 17.4201 12.6761 17.4787 12.4783 17.4579C12.2804 17.4371 12.0989 17.3385 11.9738 17.1839C11.8486 17.0293 11.7899 16.8313 11.8108 16.6334C11.8316 16.4356 11.9301 16.2541 12.0847 16.1289L13.7758 14.7599C13.8859 14.6708 14.0189 14.6146 14.1596 14.598C14.3003 14.5813 14.4428 14.6049 14.5707 14.6659C14.6986 14.7269 14.8065 14.8228 14.8821 14.9427C14.9577 15.0625 14.9978 15.2013 14.9978 15.3429V20.7489C14.9967 20.9471 14.9172 21.1369 14.7767 21.2767C14.6361 21.4165 14.446 21.4949 14.2478 21.4949Z" fill="black"/> <path d="M19.27 21.6076C18.6128 21.6068 17.9827 21.3454 17.518 20.8806C17.0532 20.4159 16.7918 19.7858 16.791 19.1286V16.7456C16.791 16.4201 16.8551 16.0977 16.9797 15.7969C17.1043 15.4962 17.2869 15.2229 17.5171 14.9927C17.7473 14.7625 18.0206 14.5799 18.3213 14.4553C18.6221 14.3307 18.9445 14.2666 19.27 14.2666C19.5956 14.2666 19.9179 14.3307 20.2187 14.4553C20.5195 14.5799 20.7927 14.7625 21.0229 14.9927C21.2531 15.2229 21.4357 15.4962 21.5603 15.7969C21.6849 16.0977 21.749 16.4201 21.749 16.7456V19.1286C21.7482 19.7858 21.4868 20.4159 21.022 20.8806C20.5573 21.3454 19.9272 21.6068 19.27 21.6076ZM19.27 15.7666C19.0104 15.7669 18.7616 15.8701 18.578 16.0536C18.3945 16.2372 18.2913 16.486 18.291 16.7456V19.1286C18.291 19.3883 18.3942 19.6373 18.5778 19.8209C18.7614 20.0045 19.0104 20.1076 19.27 20.1076C19.5297 20.1076 19.7787 20.0045 19.9623 19.8209C20.1459 19.6373 20.249 19.3883 20.249 19.1286V16.7456C20.2487 16.486 20.1455 16.2372 19.962 16.0536C19.7784 15.8701 19.5296 15.7669 19.27 15.7666Z" fill="black"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -773,7 +1353,189 @@ class _TimeForwardClockTimerBold {
   /// Forward Clock Timer — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Forward Clock Timer',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.2691 8.7278C20.8211 8.7278 21.2691 8.2798 21.2691 7.7278V4.7378C21.2691 4.1858 20.8211 3.7378 20.2691 3.7378C19.7171 3.7378 19.2691 4.1858 19.2691 4.7378V5.1758C16.5491 2.3738 12.3161 1.3438 8.53607 2.8058C3.41807 4.7878 0.855074 10.5658 2.82307 15.6868C3.77207 18.1548 5.63907 20.1158 8.07807 21.2108C8.21107 21.2698 8.35007 21.2988 8.48707 21.2988C8.86907 21.2988 9.23307 21.0788 9.40007 20.7068C9.62607 20.2038 9.40007 19.6118 8.89607 19.3858C6.94207 18.5088 5.44807 16.9398 4.69007 14.9688C3.11607 10.8758 5.16607 6.2558 9.25807 4.6708C12.3481 3.4738 15.8161 4.3678 17.9811 6.7278H17.2961C16.7441 6.7278 16.2961 7.1758 16.2961 7.7278C16.2961 8.2798 16.7441 8.7278 17.2961 8.7278H20.2691Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1621 12.0975V7.91748C13.1621 7.36548 12.7141 6.91748 12.1621 6.91748C11.6101 6.91748 11.1621 7.36548 11.1621 7.91748V11.0975H8.71606C8.16406 11.0975 7.71606 11.5455 7.71606 12.0975C7.71606 12.6495 8.16406 13.0975 8.71606 13.0975H12.1621C12.7141 13.0975 13.1621 12.6495 13.1621 12.0975Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8355 14.4451C14.4885 14.2801 14.0755 14.3281 13.7755 14.5711L12.0855 15.9411C11.6555 16.2891 11.5895 16.9191 11.9375 17.3471C12.2855 17.7771 12.9145 17.8431 13.3435 17.4951L13.4055 17.4451V20.7481C13.4055 21.3001 13.8535 21.7481 14.4055 21.7481C14.9575 21.7481 15.4055 21.3001 15.4055 20.7481V15.3481C15.4055 14.9621 15.1835 14.6111 14.8355 14.4451Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.1562 19.1276C20.1562 19.5306 19.8292 19.8576 19.4272 19.8576C19.0252 19.8576 18.6982 19.5306 18.6982 19.1276V16.7476C18.6982 16.3456 19.0252 16.0176 19.4272 16.0176C19.8292 16.0176 20.1562 16.3456 20.1562 16.7476V19.1276ZM19.4272 14.0176C17.9222 14.0176 16.6982 15.2426 16.6982 16.7476V19.1276C16.6982 20.6326 17.9222 21.8576 19.4272 21.8576C20.9322 21.8576 22.1562 20.6326 22.1562 19.1276V16.7476C22.1562 15.2426 20.9322 14.0176 19.4272 14.0176Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward Clock Timer 1 icon with style variants.
+class _TimeForwardClockTimer1Icon {
+  const _TimeForwardClockTimer1Icon();
+
+  /// bold style
+  _TimeForwardClockTimer1Bold get bold => const _TimeForwardClockTimer1Bold();
+  /// bulk style
+  _TimeForwardClockTimer1Bulk get bulk => const _TimeForwardClockTimer1Bulk();
+  /// outline style
+  _TimeForwardClockTimer1Outline get outline => const _TimeForwardClockTimer1Outline();
+  /// twoTone style
+  _TimeForwardClockTimer1Twotone get twoTone => const _TimeForwardClockTimer1Twotone();
+  /// broken style
+  _TimeForwardClockTimer1Broken get broken => const _TimeForwardClockTimer1Broken();
+}
+
+/// Forward Clock Timer 1 — bulk style variants.
+class _TimeForwardClockTimer1Bulk {
+  const _TimeForwardClockTimer1Bulk();
+
+  /// Forward Clock Timer 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward Clock Timer 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.7222 18.4647H21.5322C21.3632 18.1527 21.0322 17.9407 20.6522 17.9407C20.2722 17.9407 19.9422 18.1527 19.7732 18.4647H19.5052L21.4642 15.7377C21.7862 15.2897 21.6842 14.6647 21.2362 14.3427C20.7872 14.0207 20.1632 14.1227 19.8402 14.5707L16.7432 18.8817C16.5242 19.1857 16.4932 19.5877 16.6652 19.9207C16.8362 20.2547 17.1802 20.4647 17.5552 20.4647H19.6522V20.7347C19.6522 21.2867 20.1002 21.7347 20.6522 21.7347C21.2042 21.7347 21.6522 21.2867 21.6522 20.7347V20.4647H21.7222C22.2742 20.4647 22.7222 20.0167 22.7222 19.4647C22.7222 18.9127 22.2742 18.4647 21.7222 18.4647Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7725 19.7148H14.3955C14.5455 19.5958 14.7285 19.4668 14.9445 19.3198C15.7155 18.7948 16.7725 18.0738 16.7725 16.6548C16.7725 15.2868 15.6585 14.1748 14.2885 14.1748C12.9175 14.1748 11.8025 15.2868 11.8025 16.6548C11.8025 17.2068 12.2505 17.6548 12.8025 17.6548C13.3545 17.6548 13.8025 17.2068 13.8025 16.6548C13.8025 16.3898 14.0205 16.1748 14.2885 16.1748C14.5555 16.1748 14.7725 16.3898 14.7725 16.6548C14.7725 16.9668 14.5455 17.1718 13.8185 17.6668C12.9685 18.2468 11.8035 19.0398 11.8035 20.7148C11.8035 21.2668 12.2515 21.7148 12.8035 21.7148H15.7725C16.3245 21.7148 16.7725 21.2668 16.7725 20.7148C16.7725 20.1628 16.3245 19.7148 15.7725 19.7148Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M5.25165 14.8664C5.99965 16.8014 7.46265 18.3384 9.37065 19.1924C9.87465 19.4184 10.1007 20.0094 9.87465 20.5134C9.70865 20.8844 9.34465 21.1054 8.96165 21.1054C8.82565 21.1054 8.68665 21.0774 8.55465 21.0174C6.16065 19.9464 4.32565 18.0174 3.38565 15.5854C1.45165 10.5484 3.97165 4.86438 9.00265 2.91238C12.7087 1.48738 16.8517 2.48638 19.5257 5.21138V4.83538C19.5257 4.28238 19.9737 3.83538 20.5257 3.83538C21.0777 3.83538 21.5257 4.28238 21.5257 4.83538V7.76438C21.5257 8.31738 21.0777 8.76438 20.5257 8.76438H17.6077C17.0557 8.76438 16.6077 8.31738 16.6077 7.76438C16.6077 7.21238 17.0557 6.76438 17.6077 6.76438H18.2387C16.1177 4.48038 12.7387 3.61638 9.72365 4.77838C5.71965 6.33138 3.71265 10.8574 5.25165 14.8664ZM11.5685 11.0548V7.94482C11.5685 7.39282 12.0165 6.94482 12.5685 6.94482C13.1205 6.94482 13.5685 7.39282 13.5685 7.94482V12.0548C13.5685 12.6068 13.1205 13.0548 12.5685 13.0548H9.18555C8.63355 13.0548 8.18555 12.6068 8.18555 12.0548C8.18555 11.5028 8.63355 11.0548 9.18555 11.0548H11.5685Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward Clock Timer 1 — broken style variants.
+class _TimeForwardClockTimer1Broken {
+  const _TimeForwardClockTimer1Broken();
+
+  /// Forward Clock Timer 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward Clock Timer 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.29382 3.8554C13.4283 2.2585 18.0326 4.00295 20.1294 7.77435" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.89191 20.1081C6.83487 19.1868 5.12051 17.4928 4.24779 15.229C2.88308 11.6789 3.9671 7.79219 6.67812 5.42969" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.4552 4.83984V7.77348H17.5371" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4983 7.95312V12.0575H9.11523" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.5821 20.7372V19.4664M20.5821 19.4664H21.6586M20.5821 19.4664H17.4844L20.5821 15.1582V19.4664Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7324 16.663C12.7324 15.8437 13.3974 15.1777 14.2177 15.1777C15.037 15.1777 15.702 15.8437 15.702 16.663C15.702 18.5191 12.7334 18.5191 12.7334 20.7169H15.702" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward Clock Timer 1 — twoTone style variants.
+class _TimeForwardClockTimer1Twotone {
+  const _TimeForwardClockTimer1Twotone();
+
+  /// Forward Clock Timer 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward Clock Timer 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.89191 20.1088C6.83487 19.1876 5.12051 17.4936 4.24779 15.2298C2.50431 10.6944 4.75744 5.60956 9.2938 3.8554C13.4283 2.2585 18.0326 4.00295 20.1294 7.77435" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.4552 4.83984V7.77348H17.5371" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4983 7.95312V12.0575H9.11523" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.5821 20.7372V19.4664M20.5821 19.4664H21.6586M20.5821 19.4664H17.4844L20.5821 15.1582V19.4664Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.7324 16.663C12.7324 15.8437 13.3974 15.1777 14.2177 15.1777C15.037 15.1777 15.702 15.8437 15.702 16.663C15.702 18.5191 12.7334 18.5191 12.7334 20.7169H15.702" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward Clock Timer 1 — outline style variants.
+class _TimeForwardClockTimer1Outline {
+  const _TimeForwardClockTimer1Outline();
+
+  /// Forward Clock Timer 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward Clock Timer 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.23429 20.8558C8.12843 20.8559 8.02378 20.8334 7.92729 20.7898C6.54392 20.1771 5.32599 19.2444 4.37393 18.0685C3.42188 16.8926 2.76296 15.5073 2.45151 14.0267C2.14006 12.5461 2.18501 11.0127 2.58263 9.55289C2.98025 8.09309 3.71915 6.74871 4.73844 5.63059C5.75772 4.51247 7.02818 3.65265 8.44506 3.12201C9.86193 2.59137 11.3846 2.4051 12.8877 2.57859C14.3907 2.75207 15.8309 3.28033 17.0896 4.1198C18.3484 4.95928 19.3895 6.08593 20.1273 7.40685C20.224 7.58083 20.2476 7.78609 20.1929 7.97747C20.1382 8.16885 20.0098 8.33067 19.8358 8.42734C19.6618 8.52401 19.4566 8.54762 19.2652 8.49295C19.0738 8.43828 18.912 8.30983 18.8153 8.13585C18.1927 7.02337 17.3147 6.07479 16.2535 5.36831C15.1923 4.66183 13.9784 4.21768 12.7119 4.07248C11.4454 3.92728 10.1625 4.08519 8.96894 4.53318C7.77541 4.98117 6.70546 5.70643 5.84728 6.64914C4.9891 7.59186 4.36728 8.72506 4.03307 9.9553C3.69885 11.1855 3.66183 12.4776 3.92504 13.725C4.18825 14.9723 4.74416 16.1393 5.54694 17.1296C6.34972 18.1199 7.37638 18.9052 8.54228 19.4209C8.69932 19.4909 8.82753 19.6127 8.90544 19.766C8.98336 19.9192 9.00626 20.0946 8.97029 20.2628C8.93432 20.4309 8.84168 20.5815 8.70787 20.6895C8.57407 20.7975 8.40723 20.8562 8.23529 20.8558H8.23429Z" fill="black"/> <path d="M19.7979 8.51894H16.8799C16.681 8.51894 16.4902 8.43992 16.3495 8.29927C16.2089 8.15862 16.1299 7.96786 16.1299 7.76894C16.1299 7.57003 16.2089 7.37926 16.3495 7.23861C16.4902 7.09796 16.681 7.01894 16.8799 7.01894H19.0479V4.83594C19.0479 4.63703 19.1269 4.44626 19.2675 4.30561C19.4082 4.16496 19.599 4.08594 19.7979 4.08594C19.9968 4.08594 20.1876 4.16496 20.3282 4.30561C20.4689 4.44626 20.5479 4.63703 20.5479 4.83594V7.76894C20.5479 7.96786 20.4689 8.15862 20.3282 8.29927C20.1876 8.43992 19.9968 8.51894 19.7979 8.51894Z" fill="black"/> <path d="M11.841 12.8042H8.45801C8.2591 12.8042 8.06833 12.7252 7.92767 12.5845C7.78702 12.4439 7.70801 12.2531 7.70801 12.0542C7.70801 11.8553 7.78702 11.6645 7.92767 11.5239C8.06833 11.3832 8.2591 11.3042 8.45801 11.3042H11.091V7.94922C11.091 7.75031 11.17 7.55954 11.3107 7.41888C11.4513 7.27823 11.6421 7.19922 11.841 7.19922C12.0399 7.19922 12.2307 7.27823 12.3713 7.41888C12.512 7.55954 12.591 7.75031 12.591 7.94922V12.0492C12.5917 12.1481 12.5728 12.2462 12.5354 12.3378C12.498 12.4293 12.4428 12.5126 12.3731 12.5828C12.3034 12.653 12.2205 12.7086 12.1292 12.7467C12.0379 12.7847 11.9399 12.8042 11.841 12.8042Z" fill="black"/> <path d="M19.9243 21.4836C19.7254 21.4836 19.5347 21.4045 19.394 21.2639C19.2534 21.1232 19.1743 20.9325 19.1743 20.7336V20.2126H16.8263C16.6882 20.213 16.5526 20.1751 16.4346 20.1032C16.3165 20.0313 16.2207 19.9282 16.1577 19.8052C16.0946 19.6823 16.0668 19.5443 16.0774 19.4065C16.0879 19.2687 16.1364 19.1365 16.2173 19.0246L19.3173 14.7166C19.41 14.5877 19.5411 14.4915 19.6919 14.4419C19.8427 14.3923 20.0053 14.3918 20.1564 14.4405C20.3075 14.4891 20.4392 14.5845 20.5326 14.7128C20.6261 14.8412 20.6764 14.9958 20.6763 15.1546V18.7126H21.0033C21.2022 18.7126 21.393 18.7916 21.5337 18.9322C21.6743 19.0729 21.7533 19.2636 21.7533 19.4626C21.7533 19.6615 21.6743 19.8522 21.5337 19.9929C21.393 20.1335 21.2022 20.2126 21.0033 20.2126H20.6763V20.7336C20.6763 20.8322 20.6569 20.9299 20.6191 21.021C20.5812 21.1122 20.5258 21.1949 20.456 21.2646C20.3861 21.3343 20.3032 21.3895 20.212 21.427C20.1207 21.4646 20.023 21.4838 19.9243 21.4836ZM18.2893 18.7126H19.1743V17.4826L18.2893 18.7126Z" fill="black"/> <path d="M15.0413 21.4628H12.0723C11.8734 21.4628 11.6826 21.3838 11.542 21.2432C11.4013 21.1025 11.3223 20.9117 11.3223 20.7128C11.3608 20.1132 11.5576 19.5344 11.8926 19.0355C12.2276 18.5366 12.6888 18.1355 13.2293 17.8728C13.9673 17.3728 14.2913 17.1038 14.2913 16.6588C14.2913 16.4639 14.2139 16.2769 14.076 16.1391C13.9382 16.0013 13.7512 15.9238 13.5563 15.9238C13.3614 15.9238 13.1744 16.0013 13.0366 16.1391C12.8987 16.2769 12.8213 16.4639 12.8213 16.6588C12.8213 16.8577 12.7423 17.0485 12.6016 17.1892C12.461 17.3298 12.2702 17.4088 12.0713 17.4088C11.8724 17.4088 11.6816 17.3298 11.541 17.1892C11.4003 17.0485 11.3213 16.8577 11.3213 16.6588C11.3213 16.0661 11.5568 15.4976 11.9759 15.0784C12.3951 14.6593 12.9635 14.4238 13.5563 14.4238C14.149 14.4238 14.7175 14.6593 15.1367 15.0784C15.5558 15.4976 15.7913 16.0661 15.7913 16.6588C15.7451 17.1828 15.562 17.6855 15.2603 18.1164C14.9586 18.5473 14.5489 18.8912 14.0723 19.1138C13.69 19.3397 13.3472 19.6265 13.0573 19.9628H15.0413C15.2402 19.9628 15.431 20.0418 15.5716 20.1825C15.7123 20.3231 15.7913 20.5139 15.7913 20.7128C15.7913 20.9117 15.7123 21.1025 15.5716 21.2432C15.431 21.3838 15.2402 21.4628 15.0413 21.4628Z" fill="black"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward Clock Timer 1 — bold style variants.
+class _TimeForwardClockTimer1Bold {
+  const _TimeForwardClockTimer1Bold();
+
+  /// Forward Clock Timer 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward Clock Timer 1',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.80058 19.1924C6.89258 18.3384 5.42958 16.8014 4.68158 14.8664C3.14258 10.8574 5.14958 6.33138 9.15358 4.77838C12.1686 3.61638 15.5476 4.48038 17.6686 6.76438H17.0376C16.4856 6.76438 16.0376 7.21238 16.0376 7.76438C16.0376 8.31738 16.4856 8.76438 17.0376 8.76438H19.9556C20.5076 8.76438 20.9556 8.31738 20.9556 7.76438V4.83538C20.9556 4.28238 20.5076 3.83538 19.9556 3.83538C19.4036 3.83538 18.9556 4.28238 18.9556 4.83538V5.21138C16.2816 2.48638 12.1386 1.48738 8.43258 2.91238C3.40158 4.86438 0.881585 10.5484 2.81558 15.5854C3.75558 18.0174 5.59058 19.9464 7.98458 21.0174C8.11658 21.0774 8.25558 21.1054 8.39158 21.1054C8.77458 21.1054 9.13858 20.8844 9.30458 20.5134C9.53058 20.0094 9.30458 19.4184 8.80058 19.1924Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9984 7.94482V11.0548H8.61539C8.06339 11.0548 7.61539 11.5028 7.61539 12.0548C7.61539 12.6068 8.06339 13.0548 8.61539 13.0548H11.9984C12.5504 13.0548 12.9984 12.6068 12.9984 12.0548V7.94482C12.9984 7.39282 12.5504 6.94482 11.9984 6.94482C11.4464 6.94482 10.9984 7.39282 10.9984 7.94482Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.1522 18.4647H20.9622C20.7932 18.1527 20.4622 17.9407 20.0822 17.9407C19.7022 17.9407 19.3722 18.1527 19.2032 18.4647H18.9352L20.8942 15.7377C21.2162 15.2897 21.1142 14.6647 20.6662 14.3427C20.2172 14.0207 19.5932 14.1227 19.2702 14.5707L16.1732 18.8817C15.9542 19.1857 15.9232 19.5877 16.0952 19.9207C16.2662 20.2547 16.6102 20.4647 16.9852 20.4647H19.0822V20.7347C19.0822 21.2867 19.5302 21.7347 20.0822 21.7347C20.6342 21.7347 21.0822 21.2867 21.0822 20.7347V20.4647H21.1522C21.7042 20.4647 22.1522 20.0167 22.1522 19.4647C22.1522 18.9127 21.7042 18.4647 21.1522 18.4647Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.2025 19.7148H13.8255C13.9755 19.5958 14.1585 19.4668 14.3745 19.3198C15.1455 18.7948 16.2025 18.0738 16.2025 16.6548C16.2025 15.2868 15.0885 14.1748 13.7185 14.1748C12.3475 14.1748 11.2325 15.2868 11.2325 16.6548C11.2325 17.2068 11.6805 17.6548 12.2325 17.6548C12.7845 17.6548 13.2325 17.2068 13.2325 16.6548C13.2325 16.3898 13.4505 16.1748 13.7185 16.1748C13.9855 16.1748 14.2025 16.3898 14.2025 16.6548C14.2025 16.9668 13.9755 17.1718 13.2485 17.6668C12.3985 18.2468 11.2335 19.0398 11.2335 20.7148C11.2335 21.2668 11.6815 21.7148 12.2335 21.7148H15.2025C15.7545 21.7148 16.2025 21.2668 16.2025 20.7148C16.2025 20.1628 15.7545 19.7148 15.2025 19.7148Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward Clock Timer 2 icon with style variants.
+class _TimeForwardClockTimer2Icon {
+  const _TimeForwardClockTimer2Icon();
+
+  /// bold style
+  _TimeForwardClockTimer2Bold get bold => const _TimeForwardClockTimer2Bold();
+  /// bulk style
+  _TimeForwardClockTimer2Bulk get bulk => const _TimeForwardClockTimer2Bulk();
+  /// outline style
+  _TimeForwardClockTimer2Outline get outline => const _TimeForwardClockTimer2Outline();
+  /// twoTone style
+  _TimeForwardClockTimer2Twotone get twoTone => const _TimeForwardClockTimer2Twotone();
+  /// broken style
+  _TimeForwardClockTimer2Broken get broken => const _TimeForwardClockTimer2Broken();
+}
+
+/// Forward Clock Timer 2 — bulk style variants.
+class _TimeForwardClockTimer2Bulk {
+  const _TimeForwardClockTimer2Bulk();
+
+  /// Forward Clock Timer 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward Clock Timer 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.8391 8.72731C21.3911 8.72731 21.8391 8.27931 21.8391 7.72731V4.73731C21.8391 4.18531 21.3911 3.73731 20.8391 3.73731C20.2871 3.73731 19.8391 4.18531 19.8391 4.73731V5.17531C17.1191 2.37331 12.8871 1.34331 9.10614 2.80531C3.98814 4.78731 1.42514 10.5653 3.39314 15.6863C4.34214 18.1543 6.20914 20.1153 8.64814 21.2103C8.78114 21.2693 8.92014 21.2983 9.05714 21.2983C9.43914 21.2983 9.80314 21.0783 9.97014 20.7063C10.1961 20.2033 9.97014 19.6113 9.46614 19.3853C7.51214 18.5083 6.01814 16.9393 5.26014 14.9683C3.68614 10.8753 5.73614 6.25531 9.82814 4.67031C12.9191 3.47331 16.3861 4.36731 18.5511 6.72731H17.8661C17.3141 6.72731 16.8661 7.17531 16.8661 7.72731C16.8661 8.27931 17.3141 8.72731 17.8661 8.72731H20.8391Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7323 12.097V7.91699C13.7323 7.36499 13.2843 6.91699 12.7323 6.91699C12.1803 6.91699 11.7323 7.36499 11.7323 7.91699V11.097H9.28625C8.73425 11.097 8.28625 11.545 8.28625 12.097C8.28625 12.649 8.73425 13.097 9.28625 13.097H12.7323C13.2843 13.097 13.7323 12.649 13.7323 12.097Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.7264 19.1271C20.7264 19.5301 20.3994 19.8571 19.9974 19.8571C19.5954 19.8571 19.2684 19.5301 19.2684 19.1271V16.7471C19.2684 16.3451 19.5954 16.0171 19.9974 16.0171C20.3994 16.0171 20.7264 16.3451 20.7264 16.7471V19.1271ZM19.9974 14.0171C18.4924 14.0171 17.2684 15.2421 17.2684 16.7471V19.1271C17.2684 20.6321 18.4924 21.8571 19.9974 21.8571C21.5024 21.8571 22.7264 20.6321 22.7264 19.1271V16.7471C22.7264 15.2421 21.5024 14.0171 19.9974 14.0171Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4536 19.8573C14.0866 19.8573 13.7886 19.5613 13.7886 19.1973C13.7886 18.8273 14.0866 18.5273 14.4536 18.5273C14.8216 18.5273 15.1206 18.8273 15.1206 19.1973C15.1206 19.5613 14.8216 19.8573 14.4536 19.8573ZM14.4536 16.5273C14.2496 16.5273 14.0526 16.5553 13.8616 16.5983C13.9156 16.3903 14.0046 16.2653 14.1416 16.1693C14.4326 15.9673 14.8356 15.9873 15.1216 16.2163C15.5526 16.5633 16.1826 16.4943 16.5276 16.0633C16.8726 15.6323 16.8046 15.0033 16.3736 14.6573C15.4016 13.8773 14.0166 13.8243 12.9976 14.5283C11.7886 15.3753 11.7886 16.7163 11.7886 17.5173V19.1973C11.7886 20.6643 12.9836 21.8573 14.4536 21.8573C15.9246 21.8573 17.1206 20.6643 17.1206 19.1973C17.1206 17.7253 15.9246 16.5273 14.4536 16.5273Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward Clock Timer 2 — broken style variants.
+class _TimeForwardClockTimer2Broken {
+  const _TimeForwardClockTimer2Broken();
+
+  /// Forward Clock Timer 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward Clock Timer 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.39978 3.74168C13.612 2.11476 18.3028 3.89102 20.4391 7.7333" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.99028 20.2991C6.89458 19.3615 5.14799 17.6347 4.25888 15.3294C3.03072 12.1338 3.74917 8.67116 5.8372 6.24805" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.93 20.8616C18.9746 20.8616 18.2012 20.0872 18.2012 19.1328V16.7503C18.2012 15.7949 18.9746 15.0215 19.93 15.0215C20.8843 15.0215 21.6587 15.7949 21.6587 16.7503V19.1328C21.6587 20.0872 20.8843 20.8616 19.93 20.8616Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0527 19.1967C16.0527 18.276 15.307 17.5303 14.3862 17.5303C13.4664 17.5303 12.7207 18.276 12.7207 19.1967C12.7207 20.1165 13.4664 20.8622 14.3862 20.8622C15.307 20.8622 16.0527 20.1165 16.0527 19.1967Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7207 19.1963V17.5228C12.7207 16.7029 12.7622 15.8692 13.504 15.3509C14.1686 14.8861 15.0567 14.9445 15.6798 15.4399" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.7718 4.74414V7.73292H17.7988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6654 7.91602V12.0975H9.21875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward Clock Timer 2 — twoTone style variants.
+class _TimeForwardClockTimer2Twotone {
+  const _TimeForwardClockTimer2Twotone();
+
+  /// Forward Clock Timer 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward Clock Timer 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.99028 20.2996C6.89458 19.362 5.14799 17.6352 4.25888 15.3299C2.48262 10.7082 4.7781 5.52782 9.39973 3.74168C13.6119 2.11476 18.3028 3.89102 20.439 7.7333" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M19.93 20.8616C18.9746 20.8616 18.2012 20.0872 18.2012 19.1328V16.7503C18.2012 15.7949 18.9746 15.0215 19.93 15.0215C20.8843 15.0215 21.6587 15.7949 21.6587 16.7503V19.1328C21.6587 20.0872 20.8843 20.8616 19.93 20.8616Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.3862 17.5299C15.307 17.5299 16.0527 18.2756 16.0527 19.1963C16.0527 20.1161 15.307 20.8618 14.3862 20.8618C13.4664 20.8618 12.7207 20.1161 12.7207 19.1963V17.5228C12.7207 16.7029 12.7622 15.8692 13.504 15.3509C14.1686 14.8861 15.0567 14.9445 15.6798 15.4399" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.7718 4.74414V7.73292H17.7988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6654 7.91602V12.0975H9.21875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward Clock Timer 2 — outline style variants.
+class _TimeForwardClockTimer2Outline {
+  const _TimeForwardClockTimer2Outline();
+
+  /// Forward Clock Timer 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward Clock Timer 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.32901 21.0444C8.22346 21.0446 8.11911 21.0221 8.02301 20.9784C6.61673 20.3542 5.37892 19.4047 4.41153 18.2083C3.44415 17.0119 2.77489 15.6027 2.45893 14.0969C2.14296 12.591 2.18932 11.0317 2.59418 9.54731C2.99904 8.06292 3.75082 6.69598 4.78757 5.55911C5.82432 4.42224 7.11634 3.548 8.55722 3.0084C9.99811 2.4688 11.5466 2.27929 13.0751 2.4555C14.6036 2.6317 16.0683 3.16857 17.3486 4.02188C18.6289 4.87518 19.6882 6.0205 20.439 7.36345C20.5357 7.53743 20.5593 7.74268 20.5046 7.93406C20.4499 8.12545 20.3215 8.28728 20.1475 8.38395C19.9735 8.48062 19.7683 8.50421 19.5769 8.44954C19.3855 8.39488 19.2237 8.26643 19.127 8.09244C18.4916 6.95722 17.5955 5.98925 16.5126 5.26831C15.4296 4.54737 14.1909 4.09411 12.8984 3.94587C11.6059 3.79763 10.2967 3.95866 9.07871 4.41569C7.86067 4.87273 6.76867 5.61267 5.89273 6.57455C5.01679 7.53643 4.38196 8.69271 4.04059 9.94808C3.69922 11.2034 3.66109 12.522 3.92929 13.795C4.1975 15.068 4.76437 16.259 5.58322 17.27C6.40208 18.2809 7.44944 19.0827 8.63901 19.6094C8.79604 19.6795 8.92425 19.8013 9.00217 19.9546C9.08009 20.1078 9.10299 20.2832 9.06702 20.4513C9.03105 20.6195 8.9384 20.7701 8.8046 20.8781C8.67079 20.9861 8.50397 21.0448 8.33203 21.0444H8.32901Z" fill="black"/> <path d="M19.27 21.6076C18.6128 21.6068 17.9827 21.3454 17.518 20.8806C17.0532 20.4159 16.7918 19.7858 16.791 19.1286V16.7456C16.791 16.0881 17.0522 15.4576 17.5171 14.9927C17.982 14.5278 18.6125 14.2666 19.27 14.2666C19.9275 14.2666 20.558 14.5278 21.0229 14.9927C21.4879 15.4576 21.749 16.0881 21.749 16.7456V19.1286C21.7482 19.7858 21.4868 20.4159 21.0221 20.8806C20.5573 21.3454 19.9272 21.6068 19.27 21.6076ZM19.27 15.7666C19.0105 15.7669 18.7616 15.8701 18.5781 16.0536C18.3945 16.2372 18.2913 16.486 18.291 16.7456V19.1286C18.291 19.3882 18.3942 19.6373 18.5778 19.8209C18.7614 20.0045 19.0104 20.1076 19.27 20.1076C19.5297 20.1076 19.7787 20.0045 19.9623 19.8209C20.1459 19.6373 20.249 19.3882 20.249 19.1286V16.7456C20.2488 16.486 20.1455 16.2372 19.962 16.0536C19.7785 15.8701 19.5296 15.7669 19.27 15.7666Z" fill="black"/> <path d="M13.7246 21.6064C13.2465 21.6068 12.779 21.4653 12.3813 21.1999C11.9836 20.9344 11.6737 20.5569 11.4906 20.1152C11.3076 19.6735 11.2598 19.1874 11.3532 18.7185C11.4466 18.2495 11.677 17.8189 12.0153 17.481C12.3536 17.1431 12.7846 16.9132 13.2536 16.8204C13.7227 16.7276 14.2087 16.776 14.6502 16.9596C15.0917 17.1431 15.4688 17.4536 15.7337 17.8516C15.9987 18.2496 16.1396 18.7173 16.1386 19.1954C16.137 19.8349 15.8821 20.4477 15.4297 20.8996C14.9772 21.3515 14.3641 21.6056 13.7246 21.6064ZM13.7246 18.2744C13.5435 18.2746 13.3666 18.3285 13.2161 18.4292C13.0656 18.5299 12.9484 18.673 12.8792 18.8403C12.81 19.0077 12.7919 19.1918 12.8273 19.3694C12.8627 19.547 12.9499 19.7101 13.0779 19.8381C13.206 19.9662 13.3691 20.0534 13.5467 20.0888C13.7243 20.1241 13.9084 20.1061 14.0757 20.0369C14.2431 19.9677 14.3861 19.8504 14.4869 19.6999C14.5876 19.5495 14.6414 19.3725 14.6416 19.1914C14.6416 18.9482 14.545 18.715 14.3731 18.543C14.2011 18.371 13.9678 18.2744 13.7246 18.2744Z" fill="black"/> <path d="M12.0587 19.941C11.8598 19.941 11.6691 19.862 11.5284 19.7214C11.3878 19.5807 11.3087 19.39 11.3087 19.191V17.5181C11.2416 16.9984 11.3073 16.4702 11.4997 15.9828C11.692 15.4954 12.0048 15.0648 12.4088 14.731C12.8663 14.4197 13.4115 14.263 13.9645 14.2841C14.5175 14.3052 15.0492 14.5028 15.4818 14.848C15.6374 14.9719 15.7375 15.1525 15.76 15.3502C15.7825 15.5479 15.7256 15.7464 15.6017 15.902C15.4779 16.0577 15.2972 16.1578 15.0996 16.1803C14.9019 16.2028 14.7034 16.1459 14.5477 16.022C14.3692 15.8762 14.1486 15.7916 13.9183 15.7806C13.688 15.7696 13.4603 15.8329 13.2687 15.9611C12.8757 16.2351 12.8057 16.6821 12.8057 17.5181V19.195C12.8047 19.3927 12.7256 19.582 12.5857 19.7217C12.4458 19.8614 12.2564 19.9403 12.0587 19.941Z" fill="black"/> <path d="M20.1107 8.47826H17.1387C16.9398 8.47826 16.749 8.39924 16.6084 8.25858C16.4677 8.11793 16.3887 7.92717 16.3887 7.72826C16.3887 7.52934 16.4677 7.33857 16.6084 7.19792C16.749 7.05727 16.9398 6.97826 17.1387 6.97826H19.3617V4.73926C19.3617 4.54035 19.4407 4.34958 19.5814 4.20892C19.722 4.06827 19.9128 3.98926 20.1117 3.98926C20.3106 3.98926 20.5014 4.06827 20.642 4.20892C20.7827 4.34958 20.8617 4.54035 20.8617 4.73926V7.72826C20.8617 7.82683 20.8423 7.92444 20.8045 8.0155C20.7668 8.10655 20.7114 8.18928 20.6417 8.25894C20.5719 8.3286 20.4891 8.38382 20.398 8.42145C20.3069 8.45908 20.2093 8.47839 20.1107 8.47826Z" fill="black"/> <path d="M12.0027 12.8431H8.55664C8.35773 12.8431 8.16696 12.7641 8.02631 12.6235C7.88565 12.4828 7.80664 12.292 7.80664 12.0931C7.80664 11.8942 7.88565 11.7035 8.02631 11.5628C8.16696 11.4222 8.35773 11.3431 8.55664 11.3431H11.2567V7.91113C11.2567 7.71222 11.3357 7.52146 11.4763 7.38081C11.617 7.24015 11.8077 7.16113 12.0067 7.16113C12.2056 7.16113 12.3963 7.24015 12.537 7.38081C12.6776 7.52146 12.7567 7.71222 12.7567 7.91113V12.0951C12.7564 12.1938 12.7367 12.2914 12.6986 12.3825C12.6605 12.4735 12.6049 12.5561 12.5349 12.6256C12.4648 12.6951 12.3818 12.7501 12.2904 12.7874C12.1991 12.8247 12.1013 12.8437 12.0027 12.8431Z" fill="black"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Forward Clock Timer 2 — bold style variants.
+class _TimeForwardClockTimer2Bold {
+  const _TimeForwardClockTimer2Bold();
+
+  /// Forward Clock Timer 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Forward Clock Timer 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.1562 19.1271C20.1562 19.5301 19.8292 19.8571 19.4272 19.8571C19.0252 19.8571 18.6982 19.5301 18.6982 19.1271V16.7471C18.6982 16.3451 19.0252 16.0171 19.4272 16.0171C19.8292 16.0171 20.1562 16.3451 20.1562 16.7471V19.1271ZM19.4272 14.0171C17.9222 14.0171 16.6982 15.2421 16.6982 16.7471V19.1271C16.6982 20.6321 17.9222 21.8571 19.4272 21.8571C20.9322 21.8571 22.1562 20.6321 22.1562 19.1271V16.7471C22.1562 15.2421 20.9322 14.0171 19.4272 14.0171Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8834 19.8573C13.5164 19.8573 13.2184 19.5613 13.2184 19.1973C13.2184 18.8273 13.5164 18.5273 13.8834 18.5273C14.2514 18.5273 14.5504 18.8273 14.5504 19.1973C14.5504 19.5613 14.2514 19.8573 13.8834 19.8573ZM13.8834 16.5273C13.6794 16.5273 13.4824 16.5553 13.2914 16.5983C13.3454 16.3903 13.4344 16.2653 13.5714 16.1693C13.8624 15.9673 14.2654 15.9873 14.5514 16.2163C14.9824 16.5633 15.6124 16.4943 15.9574 16.0633C16.3024 15.6323 16.2344 15.0033 15.8034 14.6573C14.8314 13.8773 13.4464 13.8243 12.4274 14.5283C11.2184 15.3753 11.2184 16.7163 11.2184 17.5173V19.1973C11.2184 20.6643 12.4134 21.8573 13.8834 21.8573C15.3544 21.8573 16.5504 20.6643 16.5504 19.1973C16.5504 17.7253 15.3544 16.5273 13.8834 16.5273Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.2691 8.72731C20.8211 8.72731 21.2691 8.27931 21.2691 7.72731V4.73731C21.2691 4.18531 20.8211 3.73731 20.2691 3.73731C19.7171 3.73731 19.2691 4.18531 19.2691 4.73731V5.17531C16.5491 2.37331 12.3171 1.34331 8.53607 2.80531C3.41807 4.78731 0.855074 10.5653 2.82307 15.6863C3.77207 18.1543 5.63907 20.1153 8.07807 21.2103C8.21107 21.2693 8.35007 21.2983 8.48707 21.2983C8.86907 21.2983 9.23307 21.0783 9.40007 20.7063C9.62607 20.2033 9.40007 19.6113 8.89607 19.3853C6.94207 18.5083 5.44807 16.9393 4.69007 14.9683C3.11607 10.8753 5.16607 6.25531 9.25807 4.67031C12.3491 3.47331 15.8161 4.36731 17.9811 6.72731H17.2961C16.7441 6.72731 16.2961 7.17531 16.2961 7.72731C16.2961 8.27931 16.7441 8.72731 17.2961 8.72731H20.2691Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.1622 12.097V7.91699C13.1622 7.36499 12.7142 6.91699 12.1622 6.91699C11.6102 6.91699 11.1622 7.36499 11.1622 7.91699V11.097H8.71619C8.16419 11.097 7.71619 11.545 7.71619 12.097C7.71619 12.649 8.16419 13.097 8.71619 13.097H12.1622C12.7142 13.097 13.1622 12.649 13.1622 12.097Z" fill="black"/> </svg>',
     category: 'Time',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -785,46 +1547,8 @@ class _TimeForwardClockTimerBold {
 class _TimeClockDashIcon {
   const _TimeClockDashIcon();
 
-  /// bold style
-  _TimeClockDashBold get bold => const _TimeClockDashBold();
-  /// bulk style
-  _TimeClockDashBulk get bulk => const _TimeClockDashBulk();
-  /// outline style
-  _TimeClockDashOutline get outline => const _TimeClockDashOutline();
   /// twoTone style
   _TimeClockDashTwotone get twoTone => const _TimeClockDashTwotone();
-  /// broken style
-  _TimeClockDashBroken get broken => const _TimeClockDashBroken();
-}
-
-/// Clock dash — bulk style variants.
-class _TimeClockDashBulk {
-  const _TimeClockDashBulk();
-
-  /// Clock dash — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Clock dash',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.50528 7.62849C5.81228 7.62849 6.11528 7.48749 6.31128 7.22149C6.68428 6.71649 7.11828 6.25249 7.60328 5.84249C8.02528 5.48549 8.07728 4.85449 7.72128 4.43349C7.36428 4.01149 6.73328 3.95849 6.31228 4.31549C5.70828 4.82549 5.16628 5.40449 4.70128 6.03549C4.37328 6.48049 4.46828 7.10649 4.91328 7.4335C5.09128 7.5655 5.29928 7.62849 5.50528 7.62849Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6737 18.3013C16.4177 19.2833 14.9187 19.8613 13.3347 19.9723C12.5477 20.0333 11.7567 19.9763 10.9867 19.8033C10.4507 19.6823 9.91271 20.0213 9.79171 20.5603C9.67071 21.0993 10.0097 21.6343 10.5487 21.7553C11.2637 21.9153 11.9927 21.9963 12.7217 21.9963C12.9747 21.9963 13.2287 21.9863 13.4817 21.9673C15.4577 21.8273 17.3337 21.1053 18.9047 19.8773C19.3407 19.5373 19.4177 18.9083 19.0777 18.4733C18.7367 18.0383 18.1087 17.9623 17.6737 18.3013Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.37688 15.1761C5.15388 14.6711 4.56388 14.4431 4.05888 14.6631C3.55288 14.8861 3.32388 15.4761 3.54588 15.9821C4.29088 17.6731 5.48788 19.1251 7.01088 20.1811C7.18488 20.3011 7.38288 20.3591 7.57988 20.3591C7.89688 20.3591 8.20788 20.2091 8.40188 19.9291C8.71688 19.4751 8.60488 18.8521 8.14988 18.5371C6.93188 17.6921 5.97288 16.5301 5.37688 15.1761Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.83145 13.576C4.38245 13.535 4.79545 13.055 4.75445 12.505C4.68745 11.608 4.77745 10.702 5.02045 9.813C5.16645 9.281 4.85245 8.73 4.32045 8.585C3.78645 8.436 3.23745 8.752 3.09145 9.285C2.78845 10.395 2.67645 11.528 2.76045 12.653C2.79945 13.179 3.23745 13.579 3.75645 13.579C3.78145 13.579 3.80645 13.578 3.83145 13.576Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.331 2.00986C11.779 2.03086 11.349 2.49586 11.37 3.04786C11.392 3.59986 11.87 4.03086 12.407 4.00886C16.815 3.82486 20.549 7.28986 20.718 11.6979C20.779 13.2839 20.366 14.8379 19.523 16.1909C19.232 16.6599 19.375 17.2769 19.844 17.5689C20.009 17.6709 20.191 17.7189 20.372 17.7189C20.706 17.7189 21.032 17.5519 21.222 17.2479C22.276 15.5539 22.792 13.6089 22.716 11.6209C22.505 6.11086 17.858 1.81786 12.331 2.00986Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6694 7.62866C12.1174 7.62866 11.6694 8.07666 11.6694 8.62866V12.2387C11.6694 12.5907 11.8544 12.9177 12.1564 13.0977L14.9544 14.7677C15.1154 14.8637 15.2924 14.9087 15.4664 14.9087C15.8064 14.9087 16.1384 14.7347 16.3264 14.4217C16.6084 13.9467 16.4544 13.3337 15.9804 13.0497L13.6694 11.6707V8.62866C13.6694 8.07666 13.2214 7.62866 12.6694 7.62866Z" fill="black"/> </svg>',
-    category: 'Time',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Clock dash — broken style variants.
-class _TimeClockDashBroken {
-  const _TimeClockDashBroken();
-
-  /// Clock dash — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Clock dash',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.4608 14.6061L12.5485 12.4535V8.44434" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.14655 6.09375C5.79048 6.51742 5.47629 6.96203 5.20496 7.43521" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.33494 16.3942C5.02457 15.8858 4.75323 15.3326 4.55139 14.748" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.0795 20.4355L11.089 20.4346C11.7269 20.5717 12.3876 20.6288 13.0531 20.6107" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.91319 3.50781C9.33719 3.70775 8.78213 3.97052 8.26611 4.29136" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4366 19.3252C16.9187 19.6375 16.3656 19.9088 15.7896 20.1087" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.5136 10.2168C21.5983 10.6814 21.6459 11.1441 21.6545 11.604C21.6754 12.279 21.6145 12.9216 21.4764 13.5595L21.4783 13.569C21.2984 14.4878 20.9594 15.3608 20.4939 16.1624C20.233 16.6442 19.9122 17.0983 19.5542 17.5134" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6484 3.00352C13.3139 2.98448 13.9747 3.04256 14.6125 3.18061C15.5322 3.36055 16.4139 3.69758 17.2155 4.16314C17.6982 4.43257 18.1523 4.74485 18.5665 5.10283C19.2691 5.69882 19.8803 6.40716 20.3678 7.2126" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.48433 19.4428C8.01211 19.181 7.55892 18.8678 7.14478 18.5107" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.2237 10.0361C4.0866 10.674 4.02852 11.3348 4.04852 12.0098" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Time',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Clock dash — twoTone style variants.
@@ -834,6 +1558,52 @@ class _TimeClockDashTwotone {
   /// Clock dash — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Clock dash',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.95508 13.7999L12.6358 12.4524V8.43945" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.27398 5.92773C5.90734 6.34333 5.58197 6.78004 5.29883 7.24746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.20486 16.2189C4.90732 15.7016 4.64913 15.1411 4.46197 14.5508" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.8545 20.4096L10.8641 20.4086C11.4985 20.5612 12.1589 20.6351 12.8259 20.6332" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.1056 3.43463C9.52401 3.62083 8.96253 3.86942 8.43848 4.17751" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8564 3.00004C13.5235 2.99812 14.1829 3.07202 14.8183 3.22463C15.7339 3.42811 16.6083 3.78707 17.3992 4.27273C17.8752 4.55491 18.3215 4.87932 18.7275 5.24693C19.4167 5.8612 20.0098 6.58489 20.4782 7.40264C20.7863 7.92765 21.0349 8.48913 21.223 9.07941C21.367 9.51804 21.4764 9.9701 21.5503 10.4375C21.6242 10.9049 21.6597 11.3695 21.6578 11.8302C21.6617 12.5059 21.5839 13.147 21.4313 13.7824L21.4323 13.792C21.2297 14.7067 20.8689 15.5725 20.3832 16.3633C20.1106 16.8384 19.7776 17.2857 19.41 17.6917C18.7947 18.3808 18.0643 18.9845 17.2456 19.4529C16.7196 19.7524 16.1591 20.0096 15.5775 20.1958" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.28265 19.3484C7.81619 19.0739 7.37084 18.7504 6.96484 18.3828" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M4.24999 9.83203C4.09642 10.4674 4.02252 11.1268 4.02636 11.8035" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.6919 20.7543L15.5957 20.1765L16.1869 18.0938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 1 icon with style variants.
+class _TimeClockDash1Icon {
+  const _TimeClockDash1Icon();
+
+  /// twoTone style
+  _TimeClockDash1Twotone get twoTone => const _TimeClockDash1Twotone();
+}
+
+/// Clock dash 1 — twoTone style variants.
+class _TimeClockDash1Twotone {
+  const _TimeClockDash1Twotone();
+
+  /// Clock dash 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.95508 13.7999L12.6358 12.4524V8.43945" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.27398 5.92773C5.90734 6.34333 5.58197 6.78004 5.29883 7.24746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.20486 16.2189C4.90732 15.7016 4.64913 15.1411 4.46197 14.5508" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.8545 20.4096L10.8641 20.4086C11.4985 20.5612 12.1589 20.6351 12.8259 20.6332" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.1056 3.43463C9.52401 3.62083 8.96253 3.86942 8.43848 4.17751" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8564 3.00004C13.5235 2.99812 14.1829 3.07202 14.8183 3.22463C15.7339 3.42811 16.6083 3.78707 17.3992 4.27273C17.8752 4.55491 18.3215 4.87932 18.7275 5.24693C19.4167 5.8612 20.0098 6.58489 20.4782 7.40264C20.7863 7.92765 21.0349 8.48913 21.223 9.07941C21.367 9.51804 21.4764 9.9701 21.5503 10.4375C21.6242 10.9049 21.6597 11.3695 21.6578 11.8302C21.6617 12.5059 21.5839 13.147 21.4313 13.7824L21.4323 13.792C21.2297 14.7067 20.8689 15.5725 20.3832 16.3633C20.1106 16.8384 19.7776 17.2857 19.41 17.6917C18.7947 18.3808 18.0643 18.9845 17.2456 19.4529C16.7196 19.7524 16.1591 20.0096 15.5775 20.1958" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.28265 19.3484C7.81619 19.0739 7.37084 18.7504 6.96484 18.3828" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M4.24999 9.83203C4.09642 10.4674 4.02252 11.1268 4.02636 11.8035" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.6919 20.7543L15.5957 20.1765L16.1869 18.0938" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 2 icon with style variants.
+class _TimeClockDash2Icon {
+  const _TimeClockDash2Icon();
+
+  /// twoTone style
+  _TimeClockDash2Twotone get twoTone => const _TimeClockDash2Twotone();
+}
+
+/// Clock dash 2 — twoTone style variants.
+class _TimeClockDash2Twotone {
+  const _TimeClockDash2Twotone();
+
+  /// Clock dash 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 2',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.4612 14.6071L12.5488 12.4545V8.44531" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6484 3.00352C13.3139 2.98448 13.9747 3.04256 14.6125 3.18061C15.5322 3.36055 16.4139 3.69758 17.2155 4.16314C17.6982 4.43257 18.1523 4.74485 18.5665 5.10283C19.2691 5.69882 19.8803 6.40716 20.3678 7.2126C20.6886 7.72862 20.9505 8.28368 21.1523 8.8692C21.3075 9.30239 21.4274 9.75081 21.5131 10.2164C21.5979 10.681 21.6455 11.1437 21.654 11.6035C21.675 12.2785 21.614 12.9212 21.476 13.5591L21.4779 13.5686C21.298 14.4873 20.959 15.3604 20.4935 16.162C20.2326 16.6438 19.9117 17.0979 19.5538 17.513" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.14703 6.09375C5.79095 6.51742 5.47677 6.96203 5.20543 7.43521" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.33461 16.3942C5.02423 15.8858 4.75289 15.3326 4.55105 14.748" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M11.0791 20.4361L11.0886 20.4352C11.7265 20.5723 12.3872 20.6294 13.0527 20.6113" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.9127 3.50809C9.3367 3.70802 8.78164 3.97079 8.26562 4.29164" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.4371 19.3245C16.9192 19.6368 16.366 19.9081 15.79 20.108" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.48409 19.4421C8.01186 19.1803 7.55868 18.867 7.14453 18.51" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M4.22375 10.0371C4.08665 10.675 4.02857 11.3357 4.04857 12.0107" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Time',
     style: IconfyStyle.twoTone,
@@ -842,14 +1612,282 @@ class _TimeClockDashTwotone {
 
 }
 
-/// Clock dash — outline style variants.
-class _TimeClockDashOutline {
-  const _TimeClockDashOutline();
+/// Clock dash 3 icon with style variants.
+class _TimeClockDash3Icon {
+  const _TimeClockDash3Icon();
 
-  /// Clock dash — outline / regular
+  /// broken style
+  _TimeClockDash3Broken get broken => const _TimeClockDash3Broken();
+}
+
+/// Clock dash 3 — broken style variants.
+class _TimeClockDash3Broken {
+  const _TimeClockDash3Broken();
+
+  /// Clock dash 3 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Clock dash',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8904 7.69464C12.3046 7.69464 12.6404 8.03043 12.6404 8.44464V12.0755L15.2485 14.0033C15.5816 14.2495 15.6521 14.7191 15.4059 15.0522C15.1597 15.3853 14.6901 15.4557 14.357 15.2095L11.4446 13.0569C11.2533 12.9155 11.1404 12.6917 11.1404 12.4538V8.44464C11.1404 8.03043 11.4762 7.69464 11.8904 7.69464Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.9709 5.52007C6.28799 5.78658 6.32901 6.25968 6.0625 6.57677C5.73315 6.96865 5.44505 7.37686 5.19738 7.80878C4.99132 8.1681 4.53299 8.29236 4.17367 8.0863C3.81434 7.88025 3.69009 7.42192 3.89614 7.0626C4.19114 6.54816 4.53141 6.06714 4.9142 5.61168C5.1807 5.29458 5.6538 5.25357 5.9709 5.52007Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.64825 14.0394C4.03978 13.9043 4.46677 14.1121 4.60196 14.5036C4.78397 15.0308 5.03069 15.5352 5.31672 16.0037C5.53255 16.3572 5.42091 16.8188 5.06737 17.0346C4.71383 17.2505 4.25227 17.1388 4.03644 16.7853C3.70171 16.237 3.40576 15.6351 3.1841 14.9932C3.04891 14.6016 3.25672 14.1746 3.64825 14.0394Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3561 19.688C10.4337 19.6802 10.5121 19.6846 10.5883 19.701C11.1642 19.8248 11.765 19.8772 12.3745 19.8607C12.7885 19.8494 13.1333 20.176 13.1446 20.59C13.1558 21.0041 12.8293 21.3489 12.4152 21.3601C11.7143 21.3792 11.0141 21.3214 10.3331 21.1802C9.99097 21.1401 9.71061 20.8667 9.67492 20.5098C9.63371 20.0977 9.93441 19.7302 10.3466 19.6889L10.3561 19.688Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.96337 3.26229C10.0992 3.6536 9.89209 4.08093 9.50078 4.21676C8.97575 4.399 8.47121 4.63807 8.00379 4.9287C7.65203 5.14742 7.18956 5.03956 6.97085 4.6878C6.75213 4.33604 6.85999 3.87358 7.21175 3.65486C7.77636 3.3038 8.38193 3.01733 9.00891 2.7997C9.40022 2.66387 9.82755 2.87098 9.96337 3.26229Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4207 18.9379C17.6345 19.2926 17.5204 19.7536 17.1656 19.9675C16.6109 20.302 16.0105 20.5975 15.3772 20.8173C14.9859 20.9531 14.5586 20.746 14.4228 20.3547C14.287 19.9634 14.4941 19.536 14.8854 19.4002C15.4041 19.2201 15.91 18.973 16.3911 18.6829C16.7458 18.469 17.2068 18.5832 17.4207 18.9379Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7962 3.91364C13.2203 3.789 12.6202 3.73582 12.0122 3.75321C11.5981 3.76506 11.2529 3.43902 11.241 3.02497C11.2292 2.61093 11.5552 2.26567 11.9693 2.25383C12.6898 2.23321 13.4086 2.29568 14.1062 2.446C15.1053 2.64234 16.0608 3.00798 16.9289 3.51136C17.449 3.8021 17.9428 4.14125 18.3965 4.5331C19.1569 5.17856 19.8198 5.94637 20.3494 6.82037C20.6991 7.38359 20.9834 7.98702 21.2022 8.62049C21.3707 9.0918 21.5005 9.57808 21.593 10.0806L21.5932 10.0818C21.6846 10.5826 21.7365 11.0841 21.7461 11.5849C21.7678 12.2959 21.7061 12.9762 21.5658 13.6494C21.5635 13.6706 21.5603 13.6918 21.5562 13.7128C21.36 14.7144 20.9919 15.6623 20.4899 16.529C20.2018 17.0593 19.851 17.5541 19.464 18.0028C19.1935 18.3165 18.7199 18.3515 18.4063 18.081C18.0926 17.8105 18.0576 17.3369 18.3281 17.0232C18.6547 16.6445 18.9437 16.2344 19.1762 15.8049C19.1798 15.7983 19.1834 15.7918 19.1872 15.7854C19.6029 15.0695 19.906 14.2957 20.0719 13.4859C20.0747 13.4572 20.0791 13.4287 20.0853 13.4004C20.2105 12.8216 20.2657 12.2401 20.2467 11.6268L20.2464 11.6175L20.2465 11.6175C20.2387 11.2004 20.1955 10.7783 20.1177 10.3517C20.0391 9.92476 19.9295 9.51576 19.7885 9.12214L19.7855 9.11364L19.7855 9.11362C19.6012 8.57904 19.3632 8.07509 19.0732 7.60862L19.0684 7.60096L19.0684 7.60093C18.6241 6.86666 18.0663 6.21988 17.4236 5.67478L17.4183 5.67026L17.4183 5.67024C17.0461 5.34851 16.6345 5.0649 16.1922 4.81802L16.1811 4.81179L16.1811 4.8117C15.4496 4.38685 14.6464 4.08012 13.8108 3.91665L13.7962 3.91364Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.91853 18.0211C6.18898 17.7074 6.66256 17.6723 6.97629 17.9428C7.35024 18.2651 7.76096 18.5492 8.18981 18.787C8.55207 18.9878 8.68292 19.4443 8.48207 19.8066C8.28122 20.1688 7.82473 20.2997 7.46247 20.0988C6.94687 19.813 6.45123 19.4706 5.99688 19.0789C5.68315 18.8084 5.64807 18.3348 5.91853 18.0211Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.72309 9.30309C4.12805 9.39013 4.38579 9.78898 4.29875 10.1939C4.17492 10.7701 4.1217 11.3704 4.13998 11.9878C4.15225 12.4018 3.82655 12.7474 3.41252 12.7597C2.99849 12.7719 2.6529 12.4462 2.64064 12.0322C2.61894 11.2996 2.68188 10.5784 2.83224 9.87875C2.91927 9.47379 3.31812 9.21606 3.72309 9.30309Z" fill="black"/> </svg> ',
+    name: 'Clock dash 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.7442 14.5793L12.5529 12.6723V8.55273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.84019 3.48145L9.83435 3.49118" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.02439 6.08105L6.01855 6.09078" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.97764 10.2275L3.9718 10.2373" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.22093 14.7959L4.21509 14.8056" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.71043 18.5898L6.70459 18.5986" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.59412 20.4012C10.5934 20.7865 11.6792 20.9977 12.8147 20.9996C16.3445 21.0044 19.4023 18.9772 20.8811 16.0215" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8398 3C17.8108 3.00681 21.834 7.04173 21.8272 12.0126" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 4 icon with style variants.
+class _TimeClockDash4Icon {
+  const _TimeClockDash4Icon();
+
+  /// broken style
+  _TimeClockDash4Broken get broken => const _TimeClockDash4Broken();
+}
+
+/// Clock dash 4 — broken style variants.
+class _TimeClockDash4Broken {
+  const _TimeClockDash4Broken();
+
+  /// Clock dash 4 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.95496 13.8009L12.6357 12.4534V8.44043" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.27362 5.92773C5.90698 6.34333 5.5816 6.78004 5.29846 7.24746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.20504 16.2199C4.90751 15.7026 4.64932 15.142 4.46216 14.5518" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.8549 20.4092L10.8645 20.4082C11.4989 20.5608 12.1592 20.6347 12.8263 20.6328" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.1056 3.43457C9.52401 3.62077 8.96253 3.86936 8.43848 4.17746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.4318 13.7822L21.4328 13.7918C21.2303 14.7065 20.8694 15.5723 20.3837 16.3631C20.1111 16.8382 19.7781 17.2855 19.4105 17.6915C18.7953 18.3806 18.0648 18.9843 17.2461 19.4527C16.7202 19.7522 16.1596 20.0094 15.578 20.1956" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8564 3.00004C13.5235 2.99812 14.1829 3.07202 14.8183 3.22463C15.7339 3.42811 16.6083 3.78707 17.3992 4.27273C17.8752 4.55491 18.3215 4.87932 18.7275 5.24693C19.4167 5.8612 20.0098 6.58489 20.4782 7.40264C20.7863 7.92765 21.0349 8.48913 21.223 9.07941" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.28277 19.3484C7.81631 19.0739 7.37096 18.7504 6.96497 18.3828" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.25002 9.83105C4.09645 10.4664 4.02255 11.1258 4.02639 11.8025" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.6919 20.7553L15.5957 20.1775L16.1869 18.0947" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 5 icon with style variants.
+class _TimeClockDash5Icon {
+  const _TimeClockDash5Icon();
+
+  /// broken style
+  _TimeClockDash5Broken get broken => const _TimeClockDash5Broken();
+}
+
+/// Clock dash 5 — broken style variants.
+class _TimeClockDash5Broken {
+  const _TimeClockDash5Broken();
+
+  /// Clock dash 5 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.4608 14.6061L12.5485 12.4535V8.44434" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.14655 6.09375C5.79048 6.51742 5.47629 6.96203 5.20496 7.43521" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.33494 16.3942C5.02457 15.8858 4.75323 15.3326 4.55139 14.748" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.0795 20.4355L11.089 20.4346C11.7269 20.5717 12.3876 20.6288 13.0531 20.6107" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.91319 3.50781C9.33719 3.70775 8.78213 3.97052 8.26611 4.29136" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4366 19.3252C16.9187 19.6375 16.3656 19.9088 15.7896 20.1087" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.5136 10.2168C21.5983 10.6814 21.6459 11.1441 21.6545 11.604C21.6754 12.279 21.6145 12.9216 21.4764 13.5595L21.4783 13.569C21.2984 14.4878 20.9594 15.3608 20.4939 16.1624C20.233 16.6442 19.9122 17.0983 19.5542 17.5134" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6484 3.00352C13.3139 2.98448 13.9747 3.04256 14.6125 3.18061C15.5322 3.36055 16.4139 3.69758 17.2155 4.16314C17.6982 4.43257 18.1523 4.74485 18.5665 5.10283C19.2691 5.69882 19.8803 6.40716 20.3678 7.2126" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.48433 19.4428C8.01211 19.181 7.55892 18.8678 7.14478 18.5107" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.2237 10.0361C4.0866 10.674 4.02852 11.3348 4.04852 12.0098" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 6 icon with style variants.
+class _TimeClockDash6Icon {
+  const _TimeClockDash6Icon();
+
+  /// bold style
+  _TimeClockDash6Bold get bold => const _TimeClockDash6Bold();
+}
+
+/// Clock dash 6 — bold style variants.
+class _TimeClockDash6Bold {
+  const _TimeClockDash6Bold();
+
+  /// Clock dash 6 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.298 13.5278L14.489 15.4378C14.65 15.5338 14.827 15.5798 15.002 15.5798C15.341 15.5798 15.673 15.4068 15.86 15.0938C16.144 14.6198 15.99 14.0058 15.516 13.7218L12.812 12.1028V8.5498C12.812 7.9978 12.364 7.5498 11.812 7.5498C11.259 7.5498 10.812 7.9978 10.812 8.5498V12.6698C10.812 13.0218 10.996 13.3468 11.298 13.5278Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.566 4.34029C8.73 4.44229 8.912 4.49029 9.091 4.49029C9.426 4.49029 9.753 4.32229 9.942 4.01629L9.949 4.00629C10.24 3.53629 10.091 2.92529 9.622 2.63429C9.151 2.34429 8.533 2.49429 8.242 2.96429C7.951 3.43329 8.096 4.04929 8.566 4.34029Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.18033 6.51998L6.18533 6.50998C6.42233 6.01098 6.20833 5.41998 5.70933 5.18198C5.21233 4.94398 4.61233 5.16198 4.37433 5.66098C4.13733 6.15898 4.34833 6.75598 4.84733 6.99298C4.98633 7.05898 5.13233 7.08998 5.27733 7.08998C5.65033 7.08998 6.00933 6.87998 6.18033 6.51998Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.22964 11.2404C3.57664 11.2404 3.91464 11.0594 4.09864 10.7364L4.10464 10.7264C4.37864 10.2464 4.20864 9.64145 3.72964 9.36645C3.24964 9.09345 2.63564 9.26445 2.36264 9.74445C2.08864 10.2234 2.25464 10.8344 2.73464 11.1084C2.89064 11.1984 3.06164 11.2404 3.22964 11.2404Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.99132 13.9478C3.51732 13.6638 2.90032 13.8228 2.61632 14.2958C2.33232 14.7688 2.48532 15.3838 2.95932 15.6678C3.12032 15.7638 3.29732 15.8098 3.47232 15.8098C3.81232 15.8098 4.14332 15.6368 4.33132 15.3248L4.33732 15.3148C4.62132 14.8418 4.46532 14.2318 3.99132 13.9478Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.41322 17.7005C5.92022 17.4535 5.31622 17.6585 5.06922 18.1525C4.82222 18.6465 5.02222 19.2475 5.51622 19.4945C5.66022 19.5665 5.81222 19.5995 5.96222 19.5995C6.33022 19.5995 6.68322 19.3975 6.85822 19.0475L6.86322 19.0375C7.11022 18.5435 6.90722 17.9475 6.41322 17.7005Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1007 2H12.0987C11.5477 2 11.0997 2.446 11.0987 2.998C11.0977 3.55 11.5447 3.999 12.0967 4C16.5077 4.009 20.0917 7.602 20.0857 12.009C20.0827 14.146 19.2477 16.155 17.7347 17.665C16.2257 19.171 14.2227 20 12.0907 20H12.0737C11.0807 20 10.1197 19.821 9.21673 19.468C8.70073 19.268 8.12173 19.522 7.92073 20.036C7.72073 20.551 7.97473 21.13 8.48873 21.332C9.63173 21.777 10.8027 21.98 12.0927 22C14.7557 22 17.2607 20.963 19.1477 19.081C21.0387 17.193 22.0817 14.683 22.0857 12.012C22.0937 6.502 17.6137 2.011 12.1007 2Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 7 icon with style variants.
+class _TimeClockDash7Icon {
+  const _TimeClockDash7Icon();
+
+  /// bold style
+  _TimeClockDash7Bold get bold => const _TimeClockDash7Bold();
+}
+
+/// Clock dash 7 — bold style variants.
+class _TimeClockDash7Bold {
+  const _TimeClockDash7Bold();
+
+  /// Clock dash 7 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1712 15.6085C14.3502 15.7415 14.5592 15.8055 14.7662 15.8055C15.0722 15.8055 15.3742 15.6655 15.5702 15.4005C15.8992 14.9575 15.8062 14.3315 15.3622 14.0025L12.8542 12.1415V8.63452C12.8542 8.08252 12.4062 7.63452 11.8542 7.63452C11.3022 7.63452 10.8542 8.08252 10.8542 8.63452V12.6455C10.8542 12.9615 11.0042 13.2595 11.2582 13.4485L14.1712 15.6085Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.01925 8.50556C4.17425 8.59356 4.34325 8.63456 4.51025 8.63456C4.85925 8.63456 5.19825 8.45256 5.38125 8.12656C5.60825 7.72656 5.88225 7.33256 6.22225 6.92456C6.57525 6.49956 6.51725 5.86856 6.09225 5.51656C5.66625 5.16356 5.03725 5.22256 4.68425 5.64656C4.26725 6.14756 3.92525 6.63756 3.64025 7.14356C3.36925 7.62456 3.53825 8.23456 4.01925 8.50556Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.48997 16.057C5.21197 15.61 4.97397 15.112 4.80197 14.617C4.61997 14.095 4.05197 13.818 3.52897 14.001C3.00697 14.182 2.73097 14.752 2.91297 15.273C3.13297 15.907 3.43697 16.543 3.79197 17.114C3.98097 17.418 4.30797 17.585 4.64197 17.585C4.82197 17.585 5.00497 17.536 5.16897 17.434C5.63797 17.143 5.78197 16.526 5.48997 16.057Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3297 19.8058C11.7447 19.8208 11.1637 19.7698 10.6097 19.6488C10.2827 19.5758 9.94571 19.6718 9.70571 19.9008L9.69571 19.9108C9.29571 20.2918 9.28471 20.9198 9.66571 21.3198C9.83071 21.4928 10.0437 21.5928 10.2657 21.6198C10.8657 21.7458 11.4857 21.8088 12.1137 21.8088C12.2047 21.8088 12.2967 21.8078 12.3887 21.8048C12.9407 21.7888 13.3747 21.3278 13.3587 20.7758C13.3427 20.2238 12.8937 19.7738 12.3297 19.8058Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.57296 5.48526C7.75296 5.48526 7.93496 5.43726 8.09896 5.33526C8.54296 5.06026 9.03096 4.82926 9.54696 4.65026C10.069 4.46926 10.345 3.89926 10.164 3.37826C9.98296 2.85526 9.41196 2.57826 8.89096 2.76026C8.23596 2.98826 7.61496 3.28226 7.04496 3.63526C6.57596 3.92626 6.43096 4.54226 6.72196 5.01226C6.91096 5.31726 7.23796 5.48526 7.57296 5.48526Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2293 18.6674C15.7383 18.9614 15.2463 19.1944 14.7683 19.3604C14.2463 19.5424 13.9703 20.1124 14.1513 20.6334C14.2943 21.0464 14.6823 21.3064 15.0963 21.3064C15.2053 21.3064 15.3153 21.2884 15.4243 21.2504C16.0313 21.0394 16.6483 20.7474 17.2563 20.3834C17.7303 20.0994 17.8843 19.4854 17.6013 19.0114C17.3173 18.5384 16.7053 18.3844 16.2293 18.6674Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.804 10.2355C21.708 9.71348 21.573 9.20548 21.405 8.74048C21.183 8.09248 20.887 7.46648 20.528 6.88448C19.992 6.00448 19.317 5.21348 18.529 4.54048C18.083 4.15248 17.572 3.79648 17.02 3.48748C16.098 2.95948 15.12 2.59148 14.134 2.39848C13.418 2.24148 12.674 2.17248 11.925 2.19548C11.373 2.21248 10.939 2.67348 10.955 3.22548C10.972 3.77748 11.423 4.22348 11.985 4.19448C12.569 4.17748 13.149 4.22948 13.727 4.35648C14.52 4.51148 15.293 4.80348 16.034 5.22848C16.476 5.47448 16.874 5.75148 17.224 6.05548C17.857 6.59648 18.394 7.22548 18.823 7.92948C19.111 8.39648 19.337 8.87348 19.518 9.40348C19.654 9.77948 19.761 10.1805 19.836 10.5945C19.911 11.0055 19.953 11.4155 19.962 11.8245C19.979 12.4155 19.928 12.9775 19.805 13.5425C19.798 13.5745 19.793 13.6075 19.789 13.6405C19.632 14.4065 19.345 15.1505 18.921 15.8775C18.699 16.2875 18.417 16.6925 18.107 17.0475C17.743 17.4645 17.786 18.0955 18.202 18.4585C18.392 18.6245 18.626 18.7055 18.86 18.7055C19.138 18.7055 19.416 18.5895 19.614 18.3625C20.025 17.8915 20.383 17.3765 20.664 16.8585C21.198 15.9425 21.568 14.9655 21.765 13.9575C21.77 13.9345 21.773 13.9115 21.776 13.8875C21.922 13.1885 21.982 12.4935 21.961 11.7755C21.951 11.2685 21.898 10.7505 21.804 10.2355Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.27219 18.759C7.84719 18.525 7.45519 18.253 7.10619 17.95C6.68919 17.588 6.05819 17.633 5.69619 18.05C5.33419 18.466 5.37819 19.098 5.79519 19.46C6.25019 19.855 6.75819 20.209 7.30819 20.511C7.46119 20.595 7.62619 20.635 7.78919 20.635C8.14219 20.635 8.48419 20.448 8.66619 20.117C8.93319 19.633 8.75619 19.025 8.27219 18.759Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.38445 13.2047C3.93645 13.1887 4.37045 12.7277 4.35445 12.1757C4.33745 11.5767 4.38845 10.9947 4.50745 10.4467C4.62445 9.9077 4.28145 9.3747 3.74145 9.2577C3.20445 9.1417 2.67045 9.4837 2.55245 10.0227C2.39945 10.7287 2.33345 11.4727 2.35545 12.2347C2.37145 12.7767 2.81645 13.2047 3.35445 13.2047C3.36445 13.2047 3.37445 13.2047 3.38445 13.2047Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 8 icon with style variants.
+class _TimeClockDash8Icon {
+  const _TimeClockDash8Icon();
+
+  /// bold style
+  _TimeClockDash8Bold get bold => const _TimeClockDash8Bold();
+}
+
+/// Clock dash 8 — bold style variants.
+class _TimeClockDash8Bold {
+  const _TimeClockDash8Bold();
+
+  /// Clock dash 8 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 8',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1712 15.6085C14.3502 15.7415 14.5592 15.8055 14.7662 15.8055C15.0722 15.8055 15.3742 15.6655 15.5702 15.4005C15.8992 14.9575 15.8062 14.3315 15.3622 14.0025L12.8542 12.1415V8.63452C12.8542 8.08252 12.4062 7.63452 11.8542 7.63452C11.3022 7.63452 10.8542 8.08252 10.8542 8.63452V12.6455C10.8542 12.9615 11.0042 13.2595 11.2582 13.4485L14.1712 15.6085Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.01925 8.50556C4.17425 8.59356 4.34325 8.63456 4.51025 8.63456C4.85925 8.63456 5.19825 8.45256 5.38125 8.12656C5.60825 7.72656 5.88225 7.33256 6.22225 6.92456C6.57525 6.49956 6.51725 5.86856 6.09225 5.51656C5.66625 5.16356 5.03725 5.22256 4.68425 5.64656C4.26725 6.14756 3.92525 6.63756 3.64025 7.14356C3.36925 7.62456 3.53825 8.23456 4.01925 8.50556Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.48997 16.057C5.21197 15.61 4.97397 15.112 4.80197 14.617C4.61997 14.095 4.05197 13.818 3.52897 14.001C3.00697 14.182 2.73097 14.752 2.91297 15.273C3.13297 15.907 3.43697 16.543 3.79197 17.114C3.98097 17.418 4.30797 17.585 4.64197 17.585C4.82197 17.585 5.00497 17.536 5.16897 17.434C5.63797 17.143 5.78197 16.526 5.48997 16.057Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3297 19.8058C11.7447 19.8208 11.1637 19.7698 10.6097 19.6488C10.2827 19.5758 9.94571 19.6718 9.70571 19.9008L9.69571 19.9108C9.29571 20.2918 9.28471 20.9198 9.66571 21.3198C9.83071 21.4928 10.0437 21.5928 10.2657 21.6198C10.8657 21.7458 11.4857 21.8088 12.1137 21.8088C12.2047 21.8088 12.2967 21.8078 12.3887 21.8048C12.9407 21.7888 13.3747 21.3278 13.3587 20.7758C13.3427 20.2238 12.8937 19.7738 12.3297 19.8058Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.57296 5.48526C7.75296 5.48526 7.93496 5.43726 8.09896 5.33526C8.54296 5.06026 9.03096 4.82926 9.54696 4.65026C10.069 4.46926 10.345 3.89926 10.164 3.37826C9.98296 2.85526 9.41196 2.57826 8.89096 2.76026C8.23596 2.98826 7.61496 3.28226 7.04496 3.63526C6.57596 3.92626 6.43096 4.54226 6.72196 5.01226C6.91096 5.31726 7.23796 5.48526 7.57296 5.48526Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2293 18.6674C15.7383 18.9614 15.2463 19.1944 14.7683 19.3604C14.2463 19.5424 13.9703 20.1124 14.1513 20.6334C14.2943 21.0464 14.6823 21.3064 15.0963 21.3064C15.2053 21.3064 15.3153 21.2884 15.4243 21.2504C16.0313 21.0394 16.6483 20.7474 17.2563 20.3834C17.7303 20.0994 17.8843 19.4854 17.6013 19.0114C17.3173 18.5384 16.7053 18.3844 16.2293 18.6674Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.804 10.2355C21.708 9.71348 21.573 9.20548 21.405 8.74048C21.183 8.09248 20.887 7.46648 20.528 6.88448C19.992 6.00448 19.317 5.21348 18.529 4.54048C18.083 4.15248 17.572 3.79648 17.02 3.48748C16.098 2.95948 15.12 2.59148 14.134 2.39848C13.418 2.24148 12.674 2.17248 11.925 2.19548C11.373 2.21248 10.939 2.67348 10.955 3.22548C10.972 3.77748 11.423 4.22348 11.985 4.19448C12.569 4.17748 13.149 4.22948 13.727 4.35648C14.52 4.51148 15.293 4.80348 16.034 5.22848C16.476 5.47448 16.874 5.75148 17.224 6.05548C17.857 6.59648 18.394 7.22548 18.823 7.92948C19.111 8.39648 19.337 8.87348 19.518 9.40348C19.654 9.77948 19.761 10.1805 19.836 10.5945C19.911 11.0055 19.953 11.4155 19.962 11.8245C19.979 12.4155 19.928 12.9775 19.805 13.5425C19.798 13.5745 19.793 13.6075 19.789 13.6405C19.632 14.4065 19.345 15.1505 18.921 15.8775C18.699 16.2875 18.417 16.6925 18.107 17.0475C17.743 17.4645 17.786 18.0955 18.202 18.4585C18.392 18.6245 18.626 18.7055 18.86 18.7055C19.138 18.7055 19.416 18.5895 19.614 18.3625C20.025 17.8915 20.383 17.3765 20.664 16.8585C21.198 15.9425 21.568 14.9655 21.765 13.9575C21.77 13.9345 21.773 13.9115 21.776 13.8875C21.922 13.1885 21.982 12.4935 21.961 11.7755C21.951 11.2685 21.898 10.7505 21.804 10.2355Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.27219 18.759C7.84719 18.525 7.45519 18.253 7.10619 17.95C6.68919 17.588 6.05819 17.633 5.69619 18.05C5.33419 18.466 5.37819 19.098 5.79519 19.46C6.25019 19.855 6.75819 20.209 7.30819 20.511C7.46119 20.595 7.62619 20.635 7.78919 20.635C8.14219 20.635 8.48419 20.448 8.66619 20.117C8.93319 19.633 8.75619 19.025 8.27219 18.759Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.38445 13.2047C3.93645 13.1887 4.37045 12.7277 4.35445 12.1757C4.33745 11.5767 4.38845 10.9947 4.50745 10.4467C4.62445 9.9077 4.28145 9.3747 3.74145 9.2577C3.20445 9.1417 2.67045 9.4837 2.55245 10.0227C2.39945 10.7287 2.33345 11.4727 2.35545 12.2347C2.37145 12.7767 2.81645 13.2047 3.35445 13.2047C3.36445 13.2047 3.37445 13.2047 3.38445 13.2047Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 9 icon with style variants.
+class _TimeClockDash9Icon {
+  const _TimeClockDash9Icon();
+
+  /// bulk style
+  _TimeClockDash9Bulk get bulk => const _TimeClockDash9Bulk();
+}
+
+/// Clock dash 9 — bulk style variants.
+class _TimeClockDash9Bulk {
+  const _TimeClockDash9Bulk();
+
+  /// Clock dash 9 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 9',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.13619 4.34029C9.30019 4.44229 9.48219 4.49029 9.66119 4.49029C9.99619 4.49029 10.3232 4.32229 10.5122 4.01629L10.5192 4.00629C10.8102 3.53629 10.6612 2.92529 10.1922 2.63429C9.72119 2.34429 9.10319 2.49429 8.81219 2.96429C8.52119 3.43329 8.66619 4.04929 9.13619 4.34029Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.75052 6.51998L6.75552 6.50998C6.99252 6.01098 6.77852 5.41998 6.27952 5.18198C5.78252 4.94398 5.18252 5.16198 4.94452 5.66098C4.70752 6.15898 4.91852 6.75598 5.41752 6.99298C5.55652 7.05898 5.70252 7.08998 5.84752 7.08998C6.22052 7.08998 6.57952 6.87998 6.75052 6.51998Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.79983 11.2404C4.14683 11.2404 4.48483 11.0594 4.66883 10.7364L4.67483 10.7264C4.94883 10.2464 4.77883 9.64145 4.29983 9.36645C3.81983 9.09345 3.20583 9.26445 2.93283 9.74445C2.65883 10.2234 2.82483 10.8344 3.30483 11.1084C3.46083 11.1984 3.63183 11.2404 3.79983 11.2404Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.56151 13.9478C4.08751 13.6638 3.47051 13.8228 3.18651 14.2958C2.90251 14.7688 3.05551 15.3838 3.52951 15.6678C3.69051 15.7638 3.86751 15.8098 4.04251 15.8098C4.38251 15.8098 4.71351 15.6368 4.90151 15.3248L4.90751 15.3148C5.19151 14.8418 5.03551 14.2318 4.56151 13.9478Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.98341 17.7005C6.49041 17.4535 5.88641 17.6585 5.63941 18.1525C5.39241 18.6465 5.59241 19.2475 6.08641 19.4945C6.23041 19.5665 6.38241 19.5995 6.53241 19.5995C6.90041 19.5995 7.25341 19.3975 7.42841 19.0475L7.43341 19.0375C7.68041 18.5435 7.47741 17.9475 6.98341 17.7005Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6709 2H12.6689C12.1179 2 11.6699 2.446 11.6689 2.998C11.6679 3.55 12.1149 3.999 12.6669 4C17.0779 4.009 20.6619 7.602 20.6559 12.009C20.6529 14.146 19.8179 16.155 18.3049 17.665C16.7959 19.171 14.7929 20 12.6609 20H12.6439C11.6509 20 10.6899 19.821 9.78692 19.468C9.27092 19.268 8.69192 19.522 8.49092 20.036C8.29092 20.551 8.54492 21.13 9.05892 21.332C10.2019 21.777 11.3729 21.98 12.6629 22C15.3259 22 17.8309 20.963 19.7179 19.081C21.6089 17.193 22.6519 14.683 22.6559 12.012C22.6639 6.502 18.1839 2.011 12.6709 2Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8683 13.5278L15.0593 15.4378C15.2203 15.5338 15.3973 15.5798 15.5723 15.5798C15.9113 15.5798 16.2433 15.4068 16.4303 15.0938C16.7143 14.6198 16.5603 14.0058 16.0863 13.7218L13.3823 12.1028V8.5498C13.3823 7.9978 12.9343 7.5498 12.3823 7.5498C11.8293 7.5498 11.3823 7.9978 11.3823 8.5498V12.6698C11.3823 13.0218 11.5663 13.3468 11.8683 13.5278Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 10 icon with style variants.
+class _TimeClockDash10Icon {
+  const _TimeClockDash10Icon();
+
+  /// bulk style
+  _TimeClockDash10Bulk get bulk => const _TimeClockDash10Bulk();
+}
+
+/// Clock dash 10 — bulk style variants.
+class _TimeClockDash10Bulk {
+  const _TimeClockDash10Bulk();
+
+  /// Clock dash 10 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 10',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.6672 8.23079C4.8292 8.32879 5.0072 8.37479 5.1832 8.37479C5.5222 8.37479 5.8522 8.20279 6.0402 7.89179C6.2912 7.47779 6.5822 7.08379 6.9052 6.72179C7.2732 6.30979 7.2382 5.67779 6.8262 5.30979C6.4142 4.94079 5.7822 4.97779 5.4142 5.38879C5.0082 5.84279 4.6432 6.33679 4.3282 6.85779C4.0422 7.33079 4.1942 7.94479 4.6672 8.23079Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.95976 15.849C5.67576 15.351 5.45376 14.855 5.30176 14.373C5.13576 13.846 4.57076 13.555 4.04676 13.721C3.52076 13.888 3.22876 14.45 3.39476 14.976C3.58976 15.593 3.86876 16.22 4.22276 16.84C4.40676 17.163 4.74476 17.345 5.09176 17.345C5.25976 17.345 5.43076 17.302 5.58676 17.213C6.06676 16.939 6.23276 16.328 5.95976 15.849Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7122 19.7547C12.1052 19.7547 11.5222 19.6897 10.9802 19.5617C10.9042 19.5437 10.8272 19.5347 10.7502 19.5347H10.7412C10.1892 19.5347 9.74615 19.9827 9.74615 20.5347C9.74615 21.0167 10.0892 21.4187 10.5442 21.5137C11.2292 21.6737 11.9592 21.7547 12.7122 21.7547C13.2642 21.7547 13.7122 21.3067 13.7122 20.7547C13.7122 20.2027 13.2642 19.7547 12.7122 19.7547Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.32495 5.30453C8.49795 5.30453 8.67295 5.26053 8.83195 5.16553C9.28695 4.89753 9.78195 4.67553 10.3019 4.50553C10.8269 4.33353 11.1139 3.76953 10.9429 3.24453C10.7719 2.72053 10.2099 2.43253 9.68195 2.60353C9.02295 2.81853 8.39595 3.10053 7.81595 3.44353C7.33995 3.72353 7.18195 4.33753 7.46295 4.81253C7.64895 5.12853 7.98295 5.30453 8.32495 5.30453Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.425 10.4085C22.343 9.89251 22.224 9.39851 22.062 8.89951C21.852 8.24251 21.571 7.61151 21.233 7.02851C20.718 6.12851 20.06 5.32051 19.288 4.63651C18.831 4.21951 18.328 3.84751 17.805 3.53951C16.909 2.99551 15.941 2.60251 14.935 2.37151C14.239 2.20751 13.502 2.12451 12.743 2.12451C12.191 2.12451 11.743 2.57251 11.743 3.12451C11.743 3.67751 12.191 4.12451 12.743 4.12451C13.348 4.12451 13.931 4.18951 14.482 4.31951C15.285 4.50451 16.054 4.81751 16.779 5.25651C17.194 5.50151 17.585 5.78951 17.951 6.12351C18.571 6.67251 19.091 7.31051 19.5 8.02751C19.77 8.49151 19.991 8.99051 20.159 9.51351C20.29 9.91551 20.384 10.3105 20.45 10.7225C20.514 11.1245 20.546 11.5375 20.544 11.9605C20.548 12.5435 20.483 13.1035 20.346 13.6705C20.339 13.6995 20.334 13.7285 20.329 13.7575C20.154 14.5205 19.847 15.2625 19.401 15.9915C19.171 16.3965 18.887 16.7825 18.55 17.1495C18.104 17.6485 17.589 18.0645 17.04 18.4295C17.152 17.9165 16.857 17.3975 16.345 17.2525C15.815 17.1035 15.261 17.4115 15.111 17.9435L14.52 20.0335C14.517 20.0435 14.52 20.0545 14.517 20.0655C14.467 20.2485 14.45 20.4415 14.513 20.6355C14.641 21.0255 14.986 21.2735 15.37 21.3105L17.316 21.8395C17.404 21.8635 17.492 21.8755 17.579 21.8755C18.019 21.8755 18.422 21.5825 18.543 21.1375C18.655 20.7265 18.49 20.3105 18.167 20.0735C18.849 19.6175 19.488 19.1015 20.032 18.4915C20.462 18.0255 20.834 17.5165 21.122 17.0085C21.68 16.1005 22.074 15.1325 22.296 14.1305C22.3 14.1105 22.303 14.0905 22.307 14.0695C22.47 13.3665 22.548 12.6725 22.544 11.9595C22.547 11.4375 22.506 10.9145 22.425 10.4085Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.68332 18.6166C8.24832 18.3556 7.85832 18.0696 7.52532 17.7656C7.11732 17.3936 6.48432 17.4236 6.11232 17.8306C5.74032 18.2386 5.76932 18.8706 6.17732 19.2426C6.60932 19.6366 7.10632 20.0036 7.65532 20.3326C7.81632 20.4286 7.99332 20.4746 8.16832 20.4746C8.50832 20.4746 8.83932 20.3016 9.02732 19.9886C9.31032 19.5146 9.15732 18.9006 8.68332 18.6166Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.91724 12.9248C4.46924 12.9218 4.91524 12.4718 4.91224 11.9198C4.90924 11.3248 4.97524 10.7418 5.10824 10.1878C5.23724 9.65184 4.90624 9.11185 4.36924 8.98284C3.83724 8.85284 3.29224 9.18384 3.16424 9.72084C2.99324 10.4308 2.90824 11.1748 2.91224 11.9298C2.91524 12.4808 3.36224 12.9248 3.91224 12.9248H3.91724Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.94794 14.3745C9.12394 14.7235 9.47594 14.9245 9.84194 14.9245C9.99294 14.9245 10.1469 14.8905 10.2909 14.8175L12.9719 13.4675C13.3089 13.2975 13.5219 12.9525 13.5219 12.5745V8.56445C13.5219 8.01245 13.0739 7.56445 12.5219 7.56445C11.9699 7.56445 11.5219 8.01245 11.5219 8.56445V11.9585L9.39094 13.0315C8.89794 13.2805 8.69894 13.8815 8.94794 14.3745Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 11 icon with style variants.
+class _TimeClockDash11Icon {
+  const _TimeClockDash11Icon();
+
+  /// bulk style
+  _TimeClockDash11Bulk get bulk => const _TimeClockDash11Bulk();
+}
+
+/// Clock dash 11 — bulk style variants.
+class _TimeClockDash11Bulk {
+  const _TimeClockDash11Bulk();
+
+  /// Clock dash 11 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 11',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.58931 8.50556C4.74431 8.59356 4.91331 8.63456 5.08031 8.63456C5.42931 8.63456 5.76831 8.45256 5.95131 8.12656C6.17831 7.72656 6.45231 7.33256 6.79231 6.92456C7.14531 6.49956 7.08731 5.86856 6.66231 5.51656C6.23631 5.16356 5.60731 5.22256 5.25431 5.64656C4.83731 6.14756 4.49531 6.63756 4.21031 7.14356C3.93931 7.62456 4.10831 8.23456 4.58931 8.50556Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.06003 16.057C5.78203 15.61 5.54403 15.112 5.37203 14.617C5.19003 14.095 4.62203 13.818 4.09903 14.001C3.57703 14.182 3.30103 14.752 3.48303 15.273C3.70303 15.907 4.00703 16.543 4.36203 17.114C4.55103 17.418 4.87803 17.585 5.21203 17.585C5.39203 17.585 5.57503 17.536 5.73903 17.434C6.20803 17.143 6.35203 16.526 6.06003 16.057Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8998 19.8058C12.3148 19.8208 11.7338 19.7698 11.1798 19.6488C10.8528 19.5758 10.5158 19.6718 10.2758 19.9008L10.2658 19.9108C9.86578 20.2918 9.85478 20.9198 10.2358 21.3198C10.4008 21.4928 10.6138 21.5928 10.8358 21.6198C11.4358 21.7458 12.0558 21.8088 12.6838 21.8088C12.7748 21.8088 12.8668 21.8078 12.9588 21.8048C13.5108 21.7888 13.9448 21.3278 13.9288 20.7758C13.9128 20.2238 13.4638 19.7738 12.8998 19.8058Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.14303 5.48526C8.32303 5.48526 8.50503 5.43726 8.66903 5.33526C9.11303 5.06026 9.60103 4.82926 10.117 4.65026C10.639 4.46926 10.915 3.89926 10.734 3.37826C10.553 2.85526 9.98203 2.57826 9.46103 2.76026C8.80603 2.98826 8.18503 3.28226 7.61503 3.63526C7.14603 3.92626 7.00103 4.54226 7.29203 5.01226C7.48103 5.31726 7.80803 5.48526 8.14303 5.48526Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.7994 18.6674C16.3084 18.9614 15.8164 19.1944 15.3384 19.3604C14.8164 19.5424 14.5404 20.1124 14.7214 20.6334C14.8644 21.0464 15.2524 21.3064 15.6664 21.3064C15.7754 21.3064 15.8854 21.2884 15.9944 21.2504C16.6014 21.0394 17.2184 20.7474 17.8264 20.3834C18.3004 20.0994 18.4544 19.4854 18.1714 19.0114C17.8874 18.5384 17.2754 18.3844 16.7994 18.6674Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M22.374 10.2355C22.278 9.71348 22.143 9.20548 21.975 8.74048C21.753 8.09248 21.457 7.46648 21.098 6.88448C20.562 6.00448 19.887 5.21348 19.099 4.54048C18.653 4.15248 18.142 3.79648 17.59 3.48748C16.668 2.95948 15.69 2.59148 14.704 2.39848C13.988 2.24148 13.244 2.17248 12.495 2.19548C11.943 2.21248 11.509 2.67348 11.525 3.22548C11.542 3.77748 11.993 4.22348 12.555 4.19448C13.139 4.17748 13.719 4.22948 14.297 4.35648C15.09 4.51148 15.863 4.80348 16.604 5.22848C17.046 5.47448 17.444 5.75148 17.794 6.05548C18.427 6.59648 18.964 7.22548 19.393 7.92948C19.681 8.39648 19.907 8.87348 20.088 9.40348C20.224 9.77948 20.331 10.1805 20.406 10.5945C20.481 11.0055 20.523 11.4155 20.532 11.8245C20.549 12.4155 20.498 12.9775 20.375 13.5425C20.368 13.5745 20.363 13.6075 20.359 13.6405C20.202 14.4065 19.915 15.1505 19.491 15.8775C19.269 16.2875 18.987 16.6925 18.677 17.0475C18.313 17.4645 18.356 18.0955 18.772 18.4585C18.962 18.6245 19.196 18.7055 19.43 18.7055C19.708 18.7055 19.986 18.5895 20.184 18.3625C20.595 17.8915 20.953 17.3765 21.234 16.8585C21.768 15.9425 22.138 14.9655 22.335 13.9575C22.34 13.9345 22.343 13.9115 22.346 13.8875C22.492 13.1885 22.552 12.4935 22.531 11.7755C22.521 11.2685 22.468 10.7505 22.374 10.2355Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.84226 18.759C8.41726 18.525 8.02526 18.253 7.67626 17.95C7.25926 17.588 6.62826 17.633 6.26626 18.05C5.90426 18.466 5.94826 19.098 6.36526 19.46C6.82026 19.855 7.32826 20.209 7.87826 20.511C8.03126 20.595 8.19626 20.635 8.35926 20.635C8.71226 20.635 9.05426 20.448 9.23626 20.117C9.50326 19.633 9.32626 19.025 8.84226 18.759Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.95451 13.2047C4.50651 13.1887 4.94051 12.7277 4.92451 12.1757C4.90751 11.5767 4.95851 10.9947 5.07751 10.4467C5.19451 9.9077 4.85151 9.3747 4.31151 9.2577C3.77451 9.1417 3.24051 9.4837 3.12251 10.0227C2.96951 10.7287 2.90351 11.4727 2.92551 12.2347C2.94151 12.7767 3.38651 13.2047 3.92451 13.2047C3.93451 13.2047 3.94451 13.2047 3.95451 13.2047Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7413 15.6085C14.9203 15.7415 15.1293 15.8055 15.3363 15.8055C15.6423 15.8055 15.9443 15.6655 16.1403 15.4005C16.4693 14.9575 16.3763 14.3315 15.9323 14.0025L13.4243 12.1415V8.63452C13.4243 8.08252 12.9763 7.63452 12.4243 7.63452C11.8723 7.63452 11.4243 8.08252 11.4243 8.63452V12.6455C11.4243 12.9615 11.5743 13.2595 11.8283 13.4485L14.7413 15.6085Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 12 icon with style variants.
+class _TimeClockDash12Icon {
+  const _TimeClockDash12Icon();
+
+  /// bold style
+  _TimeClockDash12Bold get bold => const _TimeClockDash12Bold();
+  /// bulk style
+  _TimeClockDash12Bulk get bulk => const _TimeClockDash12Bulk();
+  /// outline style
+  _TimeClockDash12Outline get outline => const _TimeClockDash12Outline();
+  /// twoTone style
+  _TimeClockDash12Twotone get twoTone => const _TimeClockDash12Twotone();
+  /// broken style
+  _TimeClockDash12Broken get broken => const _TimeClockDash12Broken();
+}
+
+/// Clock dash 12 — bulk style variants.
+class _TimeClockDash12Bulk {
+  const _TimeClockDash12Bulk();
+
+  /// Clock dash 12 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 12',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.50528 7.62849C5.81228 7.62849 6.11528 7.48749 6.31128 7.22149C6.68428 6.71649 7.11828 6.25249 7.60328 5.84249C8.02528 5.48549 8.07728 4.85449 7.72128 4.43349C7.36428 4.01149 6.73328 3.95849 6.31228 4.31549C5.70828 4.82549 5.16628 5.40449 4.70128 6.03549C4.37328 6.48049 4.46828 7.10649 4.91328 7.4335C5.09128 7.5655 5.29928 7.62849 5.50528 7.62849Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6737 18.3013C16.4177 19.2833 14.9187 19.8613 13.3347 19.9723C12.5477 20.0333 11.7567 19.9763 10.9867 19.8033C10.4507 19.6823 9.91271 20.0213 9.79171 20.5603C9.67071 21.0993 10.0097 21.6343 10.5487 21.7553C11.2637 21.9153 11.9927 21.9963 12.7217 21.9963C12.9747 21.9963 13.2287 21.9863 13.4817 21.9673C15.4577 21.8273 17.3337 21.1053 18.9047 19.8773C19.3407 19.5373 19.4177 18.9083 19.0777 18.4733C18.7367 18.0383 18.1087 17.9623 17.6737 18.3013Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.37688 15.1761C5.15388 14.6711 4.56388 14.4431 4.05888 14.6631C3.55288 14.8861 3.32388 15.4761 3.54588 15.9821C4.29088 17.6731 5.48788 19.1251 7.01088 20.1811C7.18488 20.3011 7.38288 20.3591 7.57988 20.3591C7.89688 20.3591 8.20788 20.2091 8.40188 19.9291C8.71688 19.4751 8.60488 18.8521 8.14988 18.5371C6.93188 17.6921 5.97288 16.5301 5.37688 15.1761Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.83145 13.576C4.38245 13.535 4.79545 13.055 4.75445 12.505C4.68745 11.608 4.77745 10.702 5.02045 9.813C5.16645 9.281 4.85245 8.73 4.32045 8.585C3.78645 8.436 3.23745 8.752 3.09145 9.285C2.78845 10.395 2.67645 11.528 2.76045 12.653C2.79945 13.179 3.23745 13.579 3.75645 13.579C3.78145 13.579 3.80645 13.578 3.83145 13.576Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.331 2.00986C11.779 2.03086 11.349 2.49586 11.37 3.04786C11.392 3.59986 11.87 4.03086 12.407 4.00886C16.815 3.82486 20.549 7.28986 20.718 11.6979C20.779 13.2839 20.366 14.8379 19.523 16.1909C19.232 16.6599 19.375 17.2769 19.844 17.5689C20.009 17.6709 20.191 17.7189 20.372 17.7189C20.706 17.7189 21.032 17.5519 21.222 17.2479C22.276 15.5539 22.792 13.6089 22.716 11.6209C22.505 6.11086 17.858 1.81786 12.331 2.00986Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6694 7.62866C12.1174 7.62866 11.6694 8.07666 11.6694 8.62866V12.2387C11.6694 12.5907 11.8544 12.9177 12.1564 13.0977L14.9544 14.7677C15.1154 14.8637 15.2924 14.9087 15.4664 14.9087C15.8064 14.9087 16.1384 14.7347 16.3264 14.4217C16.6084 13.9467 16.4544 13.3337 15.9804 13.0497L13.6694 11.6707V8.62866C13.6694 8.07666 13.2214 7.62866 12.6694 7.62866Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 12 — broken style variants.
+class _TimeClockDash12Broken {
+  const _TimeClockDash12Broken();
+
+  /// Clock dash 12 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 12',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.5592 13.9145L12.7612 12.2431V8.63184" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.59778 6.63473C6.01806 6.06171 6.50546 5.5422 7.0493 5.08301" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3813 19.0869C17.0252 20.1503 15.3509 20.8371 13.5034 20.9752C12.5938 21.0433 11.7055 20.9714 10.8591 20.7816" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.67162 19.3616C6.31545 18.4238 5.2307 17.1182 4.55261 15.5791" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.14782 9.54785C3.88514 10.511 3.77132 11.5296 3.84915 12.5813" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.4639 16.723C21.3735 15.2549 21.8804 13.5183 21.8093 11.6631" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9976 8.25227C19.5216 5.03738 16.216 2.86275 12.4609 3.00675" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 12 — twoTone style variants.
+class _TimeClockDash12Twotone {
+  const _TimeClockDash12Twotone();
+
+  /// Clock dash 12 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 12',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.5597 13.9155L12.7617 12.2441V8.63281" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.59766 6.63375C6.01793 6.06074 6.50534 5.54122 7.04917 5.08203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.3816 19.0859C17.0254 20.1493 15.3511 20.8361 13.5036 20.9743C12.594 21.0424 11.7058 20.9704 10.8594 20.7807" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.67175 19.3606C6.31557 18.4228 5.23082 17.1172 4.55273 15.5781" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M4.14781 9.54688C3.88513 10.51 3.77131 11.5286 3.84914 12.5803" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.4637 16.7232C21.3734 15.2551 21.8802 13.5186 21.8092 11.6633C21.6176 6.69099 17.4333 2.81606 12.4609 3.00675" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 12 — outline style variants.
+class _TimeClockDash12Outline {
+  const _TimeClockDash12Outline();
+
+  /// Clock dash 12 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.7384 14.6648C14.6032 14.6649 14.4705 14.6283 14.3544 14.5588L11.5544 12.8878C11.443 12.8214 11.3507 12.727 11.2867 12.6141C11.2227 12.5012 11.1892 12.3736 11.1895 12.2438V8.63281C11.1895 8.4339 11.2685 8.24315 11.4091 8.10249C11.5498 7.96184 11.7405 7.88281 11.9395 7.88281C12.1384 7.88281 12.3291 7.96184 12.4698 8.10249C12.6104 8.24315 12.6895 8.4339 12.6895 8.63281V11.8178L15.1214 13.2708C15.2624 13.355 15.372 13.4831 15.4331 13.6355C15.4943 13.7879 15.5037 13.9562 15.46 14.1145C15.4163 14.2728 15.3218 14.4123 15.1911 14.5118C15.0604 14.6112 14.9007 14.6649 14.7365 14.6648H14.7384Z" fill="black"/> <path d="M4.77877 7.38323C4.64049 7.38241 4.50513 7.34338 4.38765 7.27046C4.27017 7.19753 4.17514 7.09355 4.11305 6.96999C4.05097 6.84644 4.02425 6.70814 4.03585 6.57035C4.04744 6.43257 4.0969 6.30067 4.17876 6.18923C4.63502 5.56887 5.16301 5.00462 5.75176 4.50823C5.82657 4.44162 5.91398 4.39066 6.00881 4.35838C6.10363 4.32609 6.20396 4.31313 6.30388 4.32026C6.4038 4.32739 6.50128 4.35445 6.59056 4.39987C6.67985 4.44528 6.75912 4.50812 6.82372 4.58468C6.88832 4.66124 6.93694 4.74997 6.96669 4.84562C6.99644 4.94127 7.00672 5.04192 6.99694 5.14161C6.98715 5.2413 6.95749 5.33802 6.90972 5.42606C6.86194 5.51411 6.79702 5.59169 6.71877 5.65423C6.22111 6.07402 5.77498 6.55135 5.38976 7.07623C5.31948 7.1721 5.22745 7.24994 5.12123 7.30331C5.01501 7.35668 4.89764 7.38407 4.77877 7.38323Z" fill="black"/> <path d="M12.0115 21.7494C11.2934 21.749 10.5775 21.6702 9.8765 21.5144C9.68223 21.4712 9.51308 21.3526 9.40628 21.1846C9.29948 21.0167 9.26375 20.8132 9.30698 20.6189C9.35021 20.4246 9.46884 20.2555 9.63678 20.1487C9.80472 20.0419 10.0082 20.0062 10.2025 20.0494C11.3959 20.3173 12.6338 20.3169 13.827 20.0484C15.0202 19.7798 16.139 19.2497 17.1025 18.4964C17.2591 18.3754 17.4572 18.3211 17.6537 18.3456C17.8501 18.37 18.0289 18.4711 18.1511 18.6268C18.2733 18.7826 18.329 18.9803 18.306 19.1769C18.2831 19.3735 18.1833 19.5531 18.0285 19.6764C16.5093 20.8686 14.6693 21.5809 12.7435 21.7224C12.5015 21.7404 12.2575 21.7494 12.0115 21.7494Z" fill="black"/> <path d="M6.85131 20.1106C6.69907 20.1107 6.55044 20.0643 6.42531 19.9776C4.94255 18.9486 3.77314 17.5297 3.04632 15.8776C2.96596 15.6955 2.96121 15.489 3.03313 15.3034C3.10505 15.1179 3.24776 14.9685 3.42983 14.8881C3.6119 14.8078 3.81842 14.803 4.00399 14.8749C4.18956 14.9469 4.33897 15.0895 4.41933 15.2716C5.03409 16.6701 6.02396 17.8711 7.27932 18.7416C7.41054 18.8327 7.50922 18.9634 7.561 19.1145C7.61277 19.2657 7.61493 19.4294 7.56716 19.5819C7.51939 19.7343 7.4242 19.8675 7.29543 19.9621C7.16667 20.0567 7.01107 20.1076 6.85131 20.1076V20.1106Z" fill="black"/> <path d="M3.02841 13.3296C2.83839 13.3293 2.65557 13.2568 2.51691 13.1269C2.37825 12.9969 2.2941 12.8192 2.28143 12.6296C2.20102 11.5238 2.31058 10.4124 2.60541 9.3436C2.65845 9.15172 2.78555 8.98877 2.95874 8.8906C3.13193 8.79242 3.33705 8.76706 3.52893 8.8201C3.72082 8.87315 3.88376 9.00025 3.98193 9.17344C4.08011 9.34663 4.10547 9.55173 4.05243 9.74361C3.80243 10.6477 3.70939 11.588 3.77741 12.5236C3.79089 12.7216 3.7255 12.9169 3.59546 13.0668C3.46542 13.2167 3.28134 13.309 3.08344 13.3236L3.02841 13.3296Z" fill="black"/> <path d="M19.6422 17.4731C19.5029 17.4733 19.3663 17.4342 19.2482 17.3601C19.0792 17.2554 18.9587 17.0879 18.9131 16.8944C18.8675 16.7009 18.9006 16.4972 19.0052 16.3281C19.7912 15.0558 20.2163 13.5937 20.2351 12.0983C20.2539 10.6029 19.8656 9.13059 19.1118 7.83896C18.358 6.54733 17.2671 5.48503 15.9559 4.76582C14.6447 4.04662 13.1626 3.69758 11.6682 3.75609C11.5692 3.76277 11.4698 3.74913 11.3762 3.71599C11.2826 3.68285 11.1968 3.63091 11.124 3.56338C11.0512 3.49585 10.993 3.41415 10.953 3.3233C10.913 3.23245 10.8919 3.13437 10.8912 3.03509C10.8873 2.93668 10.9029 2.83848 10.9371 2.74611C10.9712 2.65374 11.0233 2.56903 11.0903 2.49684C11.1573 2.42465 11.2379 2.36639 11.3275 2.32542C11.417 2.28445 11.5138 2.26156 11.6122 2.25809C13.3794 2.18602 15.1328 2.59676 16.6842 3.44618C18.2355 4.2956 19.5261 5.55162 20.4174 7.0793C21.3087 8.60698 21.767 10.3486 21.743 12.1171C21.719 13.8856 21.2136 15.6142 20.2812 17.1171C20.2139 17.226 20.1199 17.316 20.0081 17.3783C19.8962 17.4406 19.7703 17.4732 19.6422 17.4731Z" fill="black"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -857,16 +1895,85 @@ class _TimeClockDashOutline {
 
 }
 
-/// Clock dash — bold style variants.
-class _TimeClockDashBold {
-  const _TimeClockDashBold();
+/// Clock dash 12 — bold style variants.
+class _TimeClockDash12Bold {
+  const _TimeClockDash12Bold();
 
-  /// Clock dash — bold / regular
+  /// Clock dash 12 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Clock dash',
+    name: 'Clock dash 12',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0992 7.62866C11.5472 7.62866 11.0992 8.07666 11.0992 8.62866V12.2387C11.0992 12.5907 11.2842 12.9177 11.5862 13.0977L14.3842 14.7677C14.5452 14.8637 14.7222 14.9087 14.8962 14.9087C15.2362 14.9087 15.5682 14.7347 15.7562 14.4217C16.0382 13.9467 15.8842 13.3337 15.4102 13.0497L13.0992 11.6707V8.62866C13.0992 8.07666 12.6512 7.62866 12.0992 7.62866Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.93509 7.62849C5.24209 7.62849 5.54509 7.48749 5.74109 7.22149C6.11409 6.71649 6.54809 6.25249 7.03309 5.84249C7.45509 5.48549 7.50709 4.85449 7.15109 4.43349C6.79409 4.01149 6.16309 3.95849 5.74209 4.31549C5.13809 4.82549 4.59609 5.40449 4.13109 6.03549C3.80309 6.48049 3.89809 7.10649 4.34309 7.4335C4.52109 7.5655 4.72909 7.62849 4.93509 7.62849Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1035 18.3013C15.8475 19.2833 14.3485 19.8613 12.7645 19.9723C11.9775 20.0333 11.1865 19.9763 10.4165 19.8033C9.88052 19.6823 9.34252 20.0213 9.22152 20.5603C9.10052 21.0993 9.43952 21.6343 9.97852 21.7553C10.6935 21.9153 11.4225 21.9963 12.1515 21.9963C12.4045 21.9963 12.6585 21.9863 12.9115 21.9673C14.8875 21.8273 16.7635 21.1053 18.3345 19.8773C18.7705 19.5373 18.8475 18.9083 18.5075 18.4733C18.1665 18.0383 17.5385 17.9623 17.1035 18.3013Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.80669 15.1761C4.58369 14.6711 3.99369 14.4431 3.48869 14.6631C2.98269 14.8861 2.75369 15.4761 2.97569 15.9821C3.72069 17.6731 4.91769 19.1251 6.44069 20.1811C6.61469 20.3011 6.81269 20.3591 7.00969 20.3591C7.32669 20.3591 7.63769 20.2091 7.83169 19.9291C8.14669 19.4751 8.03469 18.8521 7.57969 18.5371C6.36169 17.6921 5.40269 16.5301 4.80669 15.1761Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.26126 13.576C3.81226 13.535 4.22526 13.055 4.18426 12.505C4.11726 11.608 4.20726 10.702 4.45026 9.813C4.59626 9.281 4.28226 8.73 3.75026 8.585C3.21626 8.436 2.66726 8.752 2.52126 9.285C2.21826 10.395 2.10626 11.528 2.19026 12.653C2.22926 13.179 2.66726 13.579 3.18626 13.579C3.21126 13.579 3.23626 13.578 3.26126 13.576Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7608 2.00986C11.2088 2.03086 10.7788 2.49586 10.7998 3.04786C10.8218 3.59986 11.2998 4.03086 11.8368 4.00886C16.2448 3.82486 19.9788 7.28986 20.1478 11.6979C20.2088 13.2839 19.7958 14.8379 18.9528 16.1909C18.6618 16.6599 18.8048 17.2769 19.2738 17.5689C19.4388 17.6709 19.6208 17.7189 19.8018 17.7189C20.1358 17.7189 20.4618 17.5519 20.6518 17.2479C21.7058 15.5539 22.2218 13.6089 22.1458 11.6209C21.9348 6.11086 17.2878 1.81786 11.7608 2.00986Z" fill="black"/> </svg>',
     category: 'Time',
     style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 13 icon with style variants.
+class _TimeClockDash13Icon {
+  const _TimeClockDash13Icon();
+
+  /// outline style
+  _TimeClockDash13Outline get outline => const _TimeClockDash13Outline();
+}
+
+/// Clock dash 13 — outline style variants.
+class _TimeClockDash13Outline {
+  const _TimeClockDash13Outline();
+
+  /// Clock dash 13 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 13',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9775 7.69012C12.3917 7.69012 12.7275 8.02591 12.7275 8.44012V12.453C12.7275 12.7365 12.5677 12.9958 12.3144 13.1231L9.63364 14.4707C9.26356 14.6567 8.81273 14.5075 8.62669 14.1375C8.44066 13.7674 8.58986 13.3165 8.95995 13.1305L11.2275 11.9906V8.44012C11.2275 8.02591 11.5633 7.69012 11.9775 7.69012Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.11158 5.36572C6.42219 5.63975 6.45185 6.1137 6.17782 6.42431C5.83825 6.80922 5.53994 7.21018 5.28173 7.63645C5.06713 7.99073 4.60595 8.10396 4.25167 7.88935C3.89738 7.67475 3.78415 7.21357 3.99876 6.85928C4.30683 6.3507 4.65927 5.87825 5.05299 5.43197C5.32702 5.12135 5.80096 5.09169 6.11158 5.36572Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.57723 13.8364C3.97207 13.7112 4.39364 13.9298 4.51884 14.3247C4.68749 14.8566 4.92222 15.3679 5.19694 15.8456C5.40345 16.2046 5.27978 16.6631 4.92072 16.8696C4.56166 17.0761 4.10317 16.9525 3.89666 16.5934C3.5763 16.0364 3.29466 15.4267 3.08899 14.778C2.9638 14.3832 3.18239 13.9616 3.57723 13.8364Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1316 19.6615C10.2153 19.6531 10.2998 19.6589 10.3816 19.6786C10.9547 19.8164 11.5553 19.8841 12.1659 19.8824C12.5801 19.8812 12.9168 20.216 12.918 20.6302C12.9192 21.0444 12.5844 21.3812 12.1702 21.3824C11.4683 21.3844 10.7696 21.309 10.0933 21.1518C9.75808 21.1054 9.48547 20.835 9.45031 20.4834C9.4091 20.0712 9.7098 19.7037 10.122 19.6625L10.1316 19.6615Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1616 3.20598C10.2879 3.60047 10.0705 4.02265 9.67599 4.14894C9.14518 4.31887 8.63471 4.54514 8.16026 4.82408C7.80318 5.03401 7.34354 4.91472 7.13361 4.55765C6.92368 4.20057 7.04296 3.74092 7.40004 3.53099C7.97369 3.19374 8.58619 2.92283 9.21865 2.72036C9.61315 2.59407 10.0353 2.81149 10.1616 3.20598Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.9854 3.95389C13.411 3.81593 12.8113 3.74828 12.2009 3.75003C11.7867 3.75123 11.4499 3.41641 11.4487 3.00219C11.4475 2.58798 11.7824 2.25123 12.1966 2.25004C12.9181 2.24796 13.635 2.32763 14.3295 2.49388C15.3241 2.71566 16.272 3.10509 17.1289 3.63055C17.6422 3.93521 18.1271 4.28734 18.571 4.68898C19.3173 5.35458 19.9607 6.13929 20.4693 7.02646C20.8051 7.59912 21.075 8.20951 21.2789 8.84851C21.435 9.32454 21.5534 9.81467 21.6334 10.3204C21.7133 10.8258 21.752 11.3294 21.7501 11.8296C21.7539 12.5447 21.6737 13.2256 21.5171 13.8972C21.5144 13.9163 21.511 13.9353 21.5068 13.9542C21.286 14.9515 20.8941 15.8913 20.3704 16.7463C20.0697 17.2686 19.7064 17.755 19.31 18.1931C18.6442 18.9385 17.852 19.5938 16.9603 20.1039L16.959 20.1047C16.3952 20.4257 15.787 20.7057 15.1484 20.9101C14.7539 21.0364 14.3318 20.819 14.2055 20.4245C14.0792 20.03 14.2966 19.6078 14.6911 19.4815C15.2155 19.3136 15.7281 19.0793 16.2161 18.8016C16.9608 18.3754 17.6286 17.8241 18.1928 17.1922L18.1963 17.1883L18.1963 17.1883C18.5319 16.8176 18.832 16.4135 19.0749 15.9901C19.0772 15.9862 19.0795 15.9823 19.0818 15.9785C19.0833 15.9759 19.0848 15.9734 19.0864 15.9709C19.5214 15.2625 19.8445 14.4927 20.0301 13.6841C20.0335 13.6583 20.0382 13.6327 20.0443 13.6073C20.1832 13.0289 20.2536 12.448 20.2501 11.8345L20.2501 11.8271H20.2501C20.2519 11.4072 20.2195 10.9828 20.1518 10.5547C20.0841 10.1266 19.9841 9.71359 19.8527 9.3133L19.8507 9.30716L19.8507 9.30715C19.6789 8.76801 19.4527 8.25766 19.1737 7.78223L19.1697 7.77542L19.1697 7.7754C18.7424 7.02933 18.2009 6.36847 17.5708 5.8068L17.5664 5.80291L17.5664 5.80289C17.2004 5.47147 16.7952 5.17642 16.359 4.91791L16.3489 4.91193L16.349 4.91185C15.6273 4.46864 14.8303 4.14176 13.9979 3.95677L13.9854 3.954L13.9854 3.95389Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.75093 17.8797C6.02894 17.5726 6.50323 17.5491 6.81028 17.8271C7.17656 18.1587 7.58033 18.4523 8.00508 18.7022C8.36206 18.9123 8.48116 19.372 8.27108 19.729C8.061 20.086 7.6013 20.2051 7.24431 19.995C6.73614 19.696 6.24921 19.3426 5.8035 18.939C5.49645 18.661 5.47291 18.1867 5.75093 17.8797Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.76789 9.1021C4.17051 9.19941 4.41802 9.60468 4.32071 10.0073C4.18214 10.5806 4.11454 11.1792 4.11805 11.7983C4.1204 12.2125 3.78652 12.5502 3.37232 12.5525C2.95811 12.5549 2.62042 12.221 2.61807 11.8068C2.61391 11.0725 2.69411 10.3524 2.86269 9.65491C2.96 9.25229 3.36527 9.00479 3.76789 9.1021Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7335 17.3729C16.132 17.486 16.3633 17.9007 16.2502 18.2992L15.8654 19.6549L17.233 20.0319C17.6323 20.142 17.8668 20.5549 17.7567 20.9542C17.6467 21.3536 17.2337 21.588 16.8344 21.478L14.7382 20.9002C14.5455 20.8471 14.382 20.7192 14.2839 20.545C14.1859 20.3708 14.1614 20.1646 14.216 19.9723L14.8072 17.8896C14.9204 17.4911 15.3351 17.2598 15.7335 17.3729Z" fill="black"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 14 icon with style variants.
+class _TimeClockDash14Icon {
+  const _TimeClockDash14Icon();
+
+  /// outline style
+  _TimeClockDash14Outline get outline => const _TimeClockDash14Outline();
+}
+
+/// Clock dash 14 — outline style variants.
+class _TimeClockDash14Outline {
+  const _TimeClockDash14Outline();
+
+  /// Clock dash 14 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 14',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8948 7.8028C12.309 7.8028 12.6448 8.13858 12.6448 8.5528V12.2468L15.4708 13.9356C15.8264 14.148 15.9424 14.6085 15.7299 14.9641C15.5175 15.3197 15.057 15.4357 14.7014 15.2232L11.5101 13.3162C11.2835 13.1808 11.1448 12.9363 11.1448 12.6724V8.5528C11.1448 8.13858 11.4806 7.8028 11.8948 7.8028Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.56785 2.8385C9.92303 3.05161 10.0382 3.51231 9.8251 3.86749L9.81926 3.87722C9.60615 4.23241 9.14545 4.34758 8.79027 4.13447C8.43508 3.92136 8.31991 3.46066 8.53302 3.10548L8.53886 3.09575C8.75197 2.74056 9.21266 2.62539 9.56785 2.8385Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.75193 5.43817C6.10712 5.65128 6.22229 6.11198 6.00918 6.46716L6.00334 6.47689C5.79023 6.83208 5.32953 6.94725 4.97435 6.73414C4.61916 6.52103 4.50399 6.06033 4.7171 5.70515L4.72294 5.69542C4.93605 5.34023 5.39675 5.22506 5.75193 5.43817Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.7053 9.58472C4.06049 9.79783 4.17566 10.2585 3.96255 10.6137L3.95671 10.6234C3.7436 10.9786 3.2829 11.0938 2.92772 10.8807C2.57253 10.6676 2.45736 10.2069 2.67047 9.85169L2.67631 9.84196C2.88942 9.48678 3.35012 9.3716 3.7053 9.58472Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.94871 14.1531C4.30389 14.3662 4.41907 14.8269 4.20596 15.1821L4.20012 15.1919C3.98701 15.547 3.52631 15.6622 3.17113 15.4491C2.81594 15.236 2.70077 14.7753 2.91388 14.4201L2.91972 14.4104C3.13283 14.0552 3.59352 13.94 3.94871 14.1531Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.46809 17.9658C6.81273 18.1955 6.90586 18.6612 6.6761 19.0058L6.67026 19.0146C6.44049 19.3592 5.97484 19.4524 5.6302 19.2226C5.28555 18.9928 5.19242 18.5272 5.42219 18.1825L5.42802 18.1738C5.65779 17.8291 6.12344 17.736 6.46809 17.9658Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4316 2.99897C11.4322 2.58476 11.7684 2.24943 12.1826 2.25C17.5678 2.25738 21.9263 6.62861 21.9189 12.0137C21.9116 17.3989 17.5403 21.7574 12.1553 21.75L12.155 21.75C10.9268 21.7479 9.74995 21.5194 8.66592 21.1014C8.27944 20.9524 8.08695 20.5183 8.23597 20.1318C8.38499 19.7453 8.8191 19.5528 9.20558 19.7018C10.12 20.0544 11.1147 20.2482 12.1573 20.25C16.7141 20.2562 20.4127 16.5682 20.4189 12.0116C20.4252 7.45484 16.7372 3.75624 12.1806 3.75C11.7663 3.74943 11.431 3.41319 11.4316 2.99897Z" fill="black"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock dash 15 icon with style variants.
+class _TimeClockDash15Icon {
+  const _TimeClockDash15Icon();
+
+  /// outline style
+  _TimeClockDash15Outline get outline => const _TimeClockDash15Outline();
+}
+
+/// Clock dash 15 — outline style variants.
+class _TimeClockDash15Outline {
+  const _TimeClockDash15Outline();
+
+  /// Clock dash 15 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dash 15',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8904 7.69464C12.3046 7.69464 12.6404 8.03043 12.6404 8.44464V12.0755L15.2485 14.0033C15.5816 14.2495 15.6521 14.7191 15.4059 15.0522C15.1597 15.3853 14.6901 15.4557 14.357 15.2095L11.4446 13.0569C11.2533 12.9155 11.1404 12.6917 11.1404 12.4538V8.44464C11.1404 8.03043 11.4762 7.69464 11.8904 7.69464Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.9709 5.52007C6.28799 5.78658 6.32901 6.25968 6.0625 6.57677C5.73315 6.96865 5.44505 7.37686 5.19738 7.80878C4.99132 8.1681 4.53299 8.29236 4.17367 8.0863C3.81434 7.88025 3.69009 7.42192 3.89614 7.0626C4.19114 6.54816 4.53141 6.06714 4.9142 5.61168C5.1807 5.29458 5.6538 5.25357 5.9709 5.52007Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.64825 14.0394C4.03978 13.9043 4.46677 14.1121 4.60196 14.5036C4.78397 15.0308 5.03069 15.5352 5.31672 16.0037C5.53255 16.3572 5.42091 16.8188 5.06737 17.0346C4.71383 17.2505 4.25227 17.1388 4.03644 16.7853C3.70171 16.237 3.40576 15.6351 3.1841 14.9932C3.04891 14.6016 3.25672 14.1746 3.64825 14.0394Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3561 19.688C10.4337 19.6802 10.5121 19.6846 10.5883 19.701C11.1642 19.8248 11.765 19.8772 12.3745 19.8607C12.7885 19.8494 13.1333 20.176 13.1446 20.59C13.1558 21.0041 12.8293 21.3489 12.4152 21.3601C11.7143 21.3792 11.0141 21.3214 10.3331 21.1802C9.99097 21.1401 9.71061 20.8667 9.67492 20.5098C9.63371 20.0977 9.93441 19.7302 10.3466 19.6889L10.3561 19.688Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.96337 3.26229C10.0992 3.6536 9.89209 4.08093 9.50078 4.21676C8.97575 4.399 8.47121 4.63807 8.00379 4.9287C7.65203 5.14742 7.18956 5.03956 6.97085 4.6878C6.75213 4.33604 6.85999 3.87358 7.21175 3.65486C7.77636 3.3038 8.38193 3.01733 9.00891 2.7997C9.40022 2.66387 9.82755 2.87098 9.96337 3.26229Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4207 18.9379C17.6345 19.2926 17.5204 19.7536 17.1656 19.9675C16.6109 20.302 16.0105 20.5975 15.3772 20.8173C14.9859 20.9531 14.5586 20.746 14.4228 20.3547C14.287 19.9634 14.4941 19.536 14.8854 19.4002C15.4041 19.2201 15.91 18.973 16.3911 18.6829C16.7458 18.469 17.2068 18.5832 17.4207 18.9379Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7962 3.91364C13.2203 3.789 12.6202 3.73582 12.0122 3.75321C11.5981 3.76506 11.2529 3.43902 11.241 3.02497C11.2292 2.61093 11.5552 2.26567 11.9693 2.25383C12.6898 2.23321 13.4086 2.29568 14.1062 2.446C15.1053 2.64234 16.0608 3.00798 16.9289 3.51136C17.449 3.8021 17.9428 4.14125 18.3965 4.5331C19.1569 5.17856 19.8198 5.94637 20.3494 6.82037C20.6991 7.38359 20.9834 7.98702 21.2022 8.62049C21.3707 9.0918 21.5005 9.57808 21.593 10.0806L21.5932 10.0818C21.6846 10.5826 21.7365 11.0841 21.7461 11.5849C21.7678 12.2959 21.7061 12.9762 21.5658 13.6494C21.5635 13.6706 21.5603 13.6918 21.5562 13.7128C21.36 14.7144 20.9919 15.6623 20.4899 16.529C20.2018 17.0593 19.851 17.5541 19.464 18.0028C19.1935 18.3165 18.7199 18.3515 18.4063 18.081C18.0926 17.8105 18.0576 17.3369 18.3281 17.0232C18.6547 16.6445 18.9437 16.2344 19.1762 15.8049C19.1798 15.7983 19.1834 15.7918 19.1872 15.7854C19.6029 15.0695 19.906 14.2957 20.0719 13.4859C20.0747 13.4572 20.0791 13.4287 20.0853 13.4004C20.2105 12.8216 20.2657 12.2401 20.2467 11.6268L20.2464 11.6175L20.2465 11.6175C20.2387 11.2004 20.1955 10.7783 20.1177 10.3517C20.0391 9.92476 19.9295 9.51576 19.7885 9.12214L19.7855 9.11364L19.7855 9.11362C19.6012 8.57904 19.3632 8.07509 19.0732 7.60862L19.0684 7.60096L19.0684 7.60093C18.6241 6.86666 18.0663 6.21988 17.4236 5.67478L17.4183 5.67026L17.4183 5.67024C17.0461 5.34851 16.6345 5.0649 16.1922 4.81802L16.1811 4.81179L16.1811 4.8117C15.4496 4.38685 14.6464 4.08012 13.8108 3.91665L13.7962 3.91364Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.91853 18.0211C6.18898 17.7074 6.66256 17.6723 6.97629 17.9428C7.35024 18.2651 7.76096 18.5492 8.18981 18.787C8.55207 18.9878 8.68292 19.4443 8.48207 19.8066C8.28122 20.1688 7.82473 20.2997 7.46247 20.0988C6.94687 19.813 6.45123 19.4706 5.99688 19.0789C5.68315 18.8084 5.64807 18.3348 5.91853 18.0211Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.72309 9.30309C4.12805 9.39013 4.38579 9.78898 4.29875 10.1939C4.17492 10.7701 4.1217 11.3704 4.13998 11.9878C4.15225 12.4018 3.82655 12.7474 3.41252 12.7597C2.99849 12.7719 2.6529 12.4462 2.64064 12.0322C2.61894 11.2996 2.68188 10.5784 2.83224 9.87875C2.91927 9.47379 3.31812 9.21606 3.72309 9.30309Z" fill="black"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -1062,8 +2169,6 @@ class _TimeStopwatchPlayIcon {
   _TimeStopwatchPlayBold get bold => const _TimeStopwatchPlayBold();
   /// bulk style
   _TimeStopwatchPlayBulk get bulk => const _TimeStopwatchPlayBulk();
-  /// light style
-  _TimeStopwatchPlayLight get light => const _TimeStopwatchPlayLight();
   /// outline style
   _TimeStopwatchPlayOutline get outline => const _TimeStopwatchPlayOutline();
   /// twoTone style
@@ -1147,13 +2252,44 @@ class _TimeStopwatchPlayBold {
 
 }
 
-/// Stopwatch play — light style variants.
-class _TimeStopwatchPlayLight {
-  const _TimeStopwatchPlayLight();
+/// Stopwatch play 1 icon with style variants.
+class _TimeStopwatchPlay1Icon {
+  const _TimeStopwatchPlay1Icon();
 
-  /// Stopwatch play — light / regular
+  /// light style
+  _TimeStopwatchPlay1Light get light => const _TimeStopwatchPlay1Light();
+}
+
+/// Stopwatch play 1 — light style variants.
+class _TimeStopwatchPlay1Light {
+  const _TimeStopwatchPlay1Light();
+
+  /// Stopwatch play 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Stopwatch play',
+    name: 'Stopwatch play 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.9996 21C16.0625 21 19.3553 17.7063 19.3553 13.6443C19.3553 9.58134 16.0625 6.28857 11.9996 6.28857C7.93754 6.28857 4.64478 9.58134 4.64478 13.6443C4.64478 17.7063 7.93754 21 11.9996 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2749 8.49479L18.9123 6.85742" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2969 6.18567L19.5747 7.46338" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0001 15.0019C12.75 15.0019 13.3577 14.394 13.3577 13.6443C13.3577 12.8944 12.75 12.2866 12.0001 12.2866C11.2503 12.2866 10.6426 12.8944 10.6426 13.6443C10.6426 14.394 11.2503 15.0019 12.0001 15.0019Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0003 6.28861C12.9085 6.28861 13.6446 5.55233 13.6446 4.6443C13.6446 3.73607 12.9085 3 12.0003 3C11.0923 3 10.3562 3.73607 10.3562 4.6443C10.3562 5.55233 11.0923 6.28861 12.0003 6.28861Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0002 12.7349L15.2254 10.5095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Stopwatch play 2 icon with style variants.
+class _TimeStopwatchPlay2Icon {
+  const _TimeStopwatchPlay2Icon();
+
+  /// light style
+  _TimeStopwatchPlay2Light get light => const _TimeStopwatchPlay2Light();
+}
+
+/// Stopwatch play 2 — light style variants.
+class _TimeStopwatchPlay2Light {
+  const _TimeStopwatchPlay2Light();
+
+  /// Stopwatch play 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Stopwatch play 2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.9996 21C16.0625 21 19.3553 17.7063 19.3553 13.6443C19.3553 9.58134 16.0625 6.28857 11.9996 6.28857C7.93754 6.28857 4.64478 9.58134 4.64478 13.6443C4.64478 17.7063 7.93754 21 11.9996 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2749 8.49479L18.9123 6.85742" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2969 6.18567L19.5747 7.46338" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0001 15.0019C12.75 15.0019 13.3577 14.394 13.3577 13.6443C13.3577 12.8944 12.75 12.2866 12.0001 12.2866C11.2503 12.2866 10.6426 12.8944 10.6426 13.6443C10.6426 14.394 11.2503 15.0019 12.0001 15.0019Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0003 6.28861C12.9085 6.28861 13.6446 5.55233 13.6446 4.6443C13.6446 3.73607 12.9085 3 12.0003 3C11.0923 3 10.3562 3.73607 10.3562 4.6443C10.3562 5.55233 11.0923 6.28861 12.0003 6.28861Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0002 12.7349L15.2254 10.5095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.light,
@@ -1166,46 +2302,8 @@ class _TimeStopwatchPlayLight {
 class _TimeStopwatchIcon {
   const _TimeStopwatchIcon();
 
-  /// bold style
-  _TimeStopwatchBold get bold => const _TimeStopwatchBold();
-  /// bulk style
-  _TimeStopwatchBulk get bulk => const _TimeStopwatchBulk();
-  /// outline style
-  _TimeStopwatchOutline get outline => const _TimeStopwatchOutline();
   /// twoTone style
   _TimeStopwatchTwotone get twoTone => const _TimeStopwatchTwotone();
-  /// broken style
-  _TimeStopwatchBroken get broken => const _TimeStopwatchBroken();
-}
-
-/// Stopwatch — bulk style variants.
-class _TimeStopwatchBulk {
-  const _TimeStopwatchBulk();
-
-  /// Stopwatch — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Stopwatch',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.7278 2.5C7.49076 2.5 3.22876 6.762 3.22876 12C3.22876 17.238 7.49076 21.5 12.7278 21.5C17.9668 21.5 22.2278 17.238 22.2278 12C22.2278 6.762 17.9668 2.5 12.7278 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.9708 9.03014L14.8478 11.1561C14.9528 11.4181 15.0138 11.7021 15.0138 12.0001C15.0138 13.2581 13.9898 14.2801 12.7298 14.2801C11.4708 14.2801 10.4468 13.2581 10.4468 12.0001C10.4468 10.7431 11.4708 9.72014 12.7298 9.72014C13.1408 9.72014 13.5218 9.83814 13.8548 10.0291L15.9088 7.97014C16.2008 7.67614 16.6758 7.67614 16.9698 7.96914C17.2628 8.26214 17.2628 8.73714 16.9708 9.03014ZM11.947 12.0004C11.947 11.5704 12.298 11.2204 12.73 11.2204C13.163 11.2204 13.514 11.5704 13.514 12.0004C13.514 12.4304 13.163 12.7804 12.73 12.7804C12.298 12.7804 11.947 12.4304 11.947 12.0004Z" fill="black"/> </svg>',
-    category: 'Time',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Stopwatch — broken style variants.
-class _TimeStopwatchBroken {
-  const _TimeStopwatchBroken();
-
-  /// Stopwatch — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Stopwatch',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.65918 12C3.65918 7.02988 7.68804 3 12.6582 3C17.6293 3 21.6582 7.02988 21.6582 12C21.6582 16.9701 17.6293 21 12.6582 21C9.20867 21 6.21259 19.0588 4.70216 16.2094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.194 12.0003C14.194 12.8472 13.5073 13.5339 12.6605 13.5339C11.8137 13.5339 11.127 12.8472 11.127 12.0003C11.127 11.1535 11.8137 10.4668 12.6605 10.4668C13.5073 10.4668 14.194 11.1535 14.194 12.0003Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.8438 11.03L16.3699 8.50391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Time',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Stopwatch — twoTone style variants.
@@ -1223,13 +2321,182 @@ class _TimeStopwatchTwotone {
 
 }
 
-/// Stopwatch — outline style variants.
-class _TimeStopwatchOutline {
-  const _TimeStopwatchOutline();
+/// Stopwatch 1 icon with style variants.
+class _TimeStopwatch1Icon {
+  const _TimeStopwatch1Icon();
 
-  /// Stopwatch — outline / regular
+  /// twoTone style
+  _TimeStopwatch1Twotone get twoTone => const _TimeStopwatch1Twotone();
+}
+
+/// Stopwatch 1 — twoTone style variants.
+class _TimeStopwatch1Twotone {
+  const _TimeStopwatch1Twotone();
+
+  /// Stopwatch 1 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Stopwatch',
+    name: 'Stopwatch 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M12.6582 21C17.6293 21 21.6582 16.9701 21.6582 12C21.6582 7.02988 17.6293 3 12.6582 3C7.68804 3 3.65918 7.02988 3.65918 12C3.65918 16.9701 7.68804 21 12.6582 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.194 12.0003C14.194 12.8472 13.5073 13.5339 12.6605 13.5339C11.8137 13.5339 11.127 12.8472 11.127 12.0003C11.127 11.1535 11.8137 10.4668 12.6605 10.4668C13.5073 10.4668 14.194 11.1535 14.194 12.0003Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.8438 11.03L16.3699 8.50391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Stopwatch 2 icon with style variants.
+class _TimeStopwatch2Icon {
+  const _TimeStopwatch2Icon();
+
+  /// broken style
+  _TimeStopwatch2Broken get broken => const _TimeStopwatch2Broken();
+}
+
+/// Stopwatch 2 — broken style variants.
+class _TimeStopwatch2Broken {
+  const _TimeStopwatch2Broken();
+
+  /// Stopwatch 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Stopwatch 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.65918 12C3.65918 7.02988 7.68804 3 12.6582 3C17.6293 3 21.6582 7.02988 21.6582 12C21.6582 16.9701 17.6293 21 12.6582 21C9.20867 21 6.21259 19.0588 4.70216 16.2094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.194 12.0003C14.194 12.8472 13.5073 13.5339 12.6605 13.5339C11.8137 13.5339 11.127 12.8472 11.127 12.0003C11.127 11.1535 11.8137 10.4668 12.6605 10.4668C13.5073 10.4668 14.194 11.1535 14.194 12.0003Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.8438 11.03L16.3699 8.50391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Stopwatch 3 icon with style variants.
+class _TimeStopwatch3Icon {
+  const _TimeStopwatch3Icon();
+
+  /// broken style
+  _TimeStopwatch3Broken get broken => const _TimeStopwatch3Broken();
+}
+
+/// Stopwatch 3 — broken style variants.
+class _TimeStopwatch3Broken {
+  const _TimeStopwatch3Broken();
+
+  /// Stopwatch 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Stopwatch 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.65918 12C3.65918 7.02988 7.68804 3 12.6582 3C17.6293 3 21.6582 7.02988 21.6582 12C21.6582 16.9701 17.6293 21 12.6582 21C9.20867 21 6.21259 19.0588 4.70216 16.2094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.194 12.0003C14.194 12.8472 13.5073 13.5339 12.6605 13.5339C11.8137 13.5339 11.127 12.8472 11.127 12.0003C11.127 11.1535 11.8137 10.4668 12.6605 10.4668C13.5073 10.4668 14.194 11.1535 14.194 12.0003Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.8438 11.03L16.3699 8.50391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Stopwatch 4 icon with style variants.
+class _TimeStopwatch4Icon {
+  const _TimeStopwatch4Icon();
+
+  /// bold style
+  _TimeStopwatch4Bold get bold => const _TimeStopwatch4Bold();
+}
+
+/// Stopwatch 4 — bold style variants.
+class _TimeStopwatch4Bold {
+  const _TimeStopwatch4Bold();
+
+  /// Stopwatch 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Stopwatch 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.46 11.0252L12.52 13.9652C12.38 14.1152 12.18 14.1852 11.99 14.1852C11.8 14.1852 11.61 14.1152 11.46 13.9652C11.17 13.6752 11.17 13.1952 11.46 12.9052L14.4 9.96518C14.7 9.67518 15.17 9.67518 15.46 9.96518C15.76 10.2552 15.76 10.7352 15.46 11.0252ZM12 5.30518C7.49997 5.30518 3.83997 8.96518 3.83997 13.4652C3.83997 17.9652 7.49997 21.6252 12 21.6252C16.5 21.6252 20.16 17.9652 20.16 13.4652C20.16 8.96518 16.5 5.30518 12 5.30518Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.89786 3.875H14.1059C14.5199 3.875 14.8559 3.539 14.8559 3.125C14.8559 2.711 14.5199 2.375 14.1059 2.375H9.89786C9.48386 2.375 9.14786 2.711 9.14786 3.125C9.14786 3.539 9.48386 3.875 9.89786 3.875Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Stopwatch 5 icon with style variants.
+class _TimeStopwatch5Icon {
+  const _TimeStopwatch5Icon();
+
+  /// bold style
+  _TimeStopwatch5Bold get bold => const _TimeStopwatch5Bold();
+}
+
+/// Stopwatch 5 — bold style variants.
+class _TimeStopwatch5Bold {
+  const _TimeStopwatch5Bold();
+
+  /// Stopwatch 5 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Stopwatch 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.16 11.2202C11.728 11.2202 11.377 11.5702 11.377 12.0002C11.377 12.4302 11.728 12.7802 12.16 12.7802C12.593 12.7802 12.944 12.4302 12.944 12.0002C12.944 11.5702 12.593 11.2202 12.16 11.2202Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4007 9.03L14.2777 11.156C14.3827 11.418 14.4437 11.702 14.4437 12C14.4437 13.258 13.4197 14.28 12.1597 14.28C10.9007 14.28 9.87669 13.258 9.87669 12C9.87669 10.743 10.9007 9.72 12.1597 9.72C12.5707 9.72 12.9517 9.838 13.2847 10.029L15.3387 7.97C15.6307 7.676 16.1057 7.676 16.3997 7.969C16.6927 8.262 16.6927 8.737 16.4007 9.03ZM12.1577 2.5C6.92069 2.5 2.65869 6.762 2.65869 12C2.65869 17.238 6.92069 21.5 12.1577 21.5C17.3967 21.5 21.6577 17.238 21.6577 12C21.6577 6.762 17.3967 2.5 12.1577 2.5Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Stopwatch 6 icon with style variants.
+class _TimeStopwatch6Icon {
+  const _TimeStopwatch6Icon();
+
+  /// bulk style
+  _TimeStopwatch6Bulk get bulk => const _TimeStopwatch6Bulk();
+}
+
+/// Stopwatch 6 — bulk style variants.
+class _TimeStopwatch6Bulk {
+  const _TimeStopwatch6Bulk();
+
+  /// Stopwatch 6 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Stopwatch 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.5702 5.30518C8.07016 5.30518 4.41016 8.96518 4.41016 13.4652C4.41016 17.9652 8.07016 21.6252 12.5702 21.6252C17.0702 21.6252 20.7302 17.9652 20.7302 13.4652C20.7302 8.96518 17.0702 5.30518 12.5702 5.30518Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.676 3.875H10.468C10.054 3.875 9.71802 3.539 9.71802 3.125C9.71802 2.711 10.054 2.375 10.468 2.375H14.676C15.09 2.375 15.426 2.711 15.426 3.125C15.426 3.539 15.09 3.875 14.676 3.875ZM16.0302 11.0251L13.0902 13.9651C12.9502 14.1151 12.7502 14.1851 12.5602 14.1851C12.3702 14.1851 12.1802 14.1151 12.0302 13.9651C11.7402 13.6751 11.7402 13.1951 12.0302 12.9051L14.9702 9.96506C15.2702 9.67506 15.7402 9.67506 16.0302 9.96506C16.3302 10.2551 16.3302 10.7351 16.0302 11.0251Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Stopwatch 7 icon with style variants.
+class _TimeStopwatch7Icon {
+  const _TimeStopwatch7Icon();
+
+  /// bulk style
+  _TimeStopwatch7Bulk get bulk => const _TimeStopwatch7Bulk();
+}
+
+/// Stopwatch 7 — bulk style variants.
+class _TimeStopwatch7Bulk {
+  const _TimeStopwatch7Bulk();
+
+  /// Stopwatch 7 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Stopwatch 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.7278 2.5C7.49076 2.5 3.22876 6.762 3.22876 12C3.22876 17.238 7.49076 21.5 12.7278 21.5C17.9668 21.5 22.2278 17.238 22.2278 12C22.2278 6.762 17.9668 2.5 12.7278 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.9708 9.03014L14.8478 11.1561C14.9528 11.4181 15.0138 11.7021 15.0138 12.0001C15.0138 13.2581 13.9898 14.2801 12.7298 14.2801C11.4708 14.2801 10.4468 13.2581 10.4468 12.0001C10.4468 10.7431 11.4708 9.72014 12.7298 9.72014C13.1408 9.72014 13.5218 9.83814 13.8548 10.0291L15.9088 7.97014C16.2008 7.67614 16.6758 7.67614 16.9698 7.96914C17.2628 8.26214 17.2628 8.73714 16.9708 9.03014ZM11.947 12.0004C11.947 11.5704 12.298 11.2204 12.73 11.2204C13.163 11.2204 13.514 11.5704 13.514 12.0004C13.514 12.4304 13.163 12.7804 12.73 12.7804C12.298 12.7804 11.947 12.4304 11.947 12.0004Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Stopwatch 8 icon with style variants.
+class _TimeStopwatch8Icon {
+  const _TimeStopwatch8Icon();
+
+  /// outline style
+  _TimeStopwatch8Outline get outline => const _TimeStopwatch8Outline();
+}
+
+/// Stopwatch 8 — outline style variants.
+class _TimeStopwatch8Outline {
+  const _TimeStopwatch8Outline();
+
+  /// Stopwatch 8 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Stopwatch 8',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 6.42581C8.18306 6.42581 5.08887 9.51988 5.08887 13.3379C5.08887 17.155 8.18312 20.25 12 20.25C15.8179 20.25 18.9121 17.155 18.9121 13.3379C18.9121 9.51994 15.818 6.42581 12 6.42581ZM3.58887 13.3379C3.58887 8.69158 7.35451 4.92581 12 4.92581C16.6464 4.92581 20.4121 8.69151 20.4121 13.3379C20.4121 17.9833 16.6464 21.75 12 21.75C7.35444 21.75 3.58887 17.9832 3.58887 13.3379Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.14844 3C9.14844 2.58579 9.48422 2.25 9.89844 2.25H14.1062C14.5204 2.25 14.8562 2.58579 14.8562 3C14.8562 3.41421 14.5204 3.75 14.1062 3.75H9.89844C9.48422 3.75 9.14844 3.41421 9.14844 3Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4638 9.83881C15.7567 10.1317 15.7567 10.6066 15.4638 10.8995L12.5225 13.8408C12.2296 14.1337 11.7548 14.1337 11.4619 13.8408C11.169 13.5479 11.169 13.073 11.4619 12.7801L14.4032 9.83881C14.6961 9.54592 15.1709 9.54592 15.4638 9.83881Z" fill="black"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.outline,
@@ -1238,16 +2505,24 @@ class _TimeStopwatchOutline {
 
 }
 
-/// Stopwatch — bold style variants.
-class _TimeStopwatchBold {
-  const _TimeStopwatchBold();
+/// Stopwatch 9 icon with style variants.
+class _TimeStopwatch9Icon {
+  const _TimeStopwatch9Icon();
 
-  /// Stopwatch — bold / regular
+  /// outline style
+  _TimeStopwatch9Outline get outline => const _TimeStopwatch9Outline();
+}
+
+/// Stopwatch 9 — outline style variants.
+class _TimeStopwatch9Outline {
+  const _TimeStopwatch9Outline();
+
+  /// Stopwatch 9 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Stopwatch',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.16 11.2202C11.728 11.2202 11.377 11.5702 11.377 12.0002C11.377 12.4302 11.728 12.7802 12.16 12.7802C12.593 12.7802 12.944 12.4302 12.944 12.0002C12.944 11.5702 12.593 11.2202 12.16 11.2202Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4007 9.03L14.2777 11.156C14.3827 11.418 14.4437 11.702 14.4437 12C14.4437 13.258 13.4197 14.28 12.1597 14.28C10.9007 14.28 9.87669 13.258 9.87669 12C9.87669 10.743 10.9007 9.72 12.1597 9.72C12.5707 9.72 12.9517 9.838 13.2847 10.029L15.3387 7.97C15.6307 7.676 16.1057 7.676 16.3997 7.969C16.6927 8.262 16.6927 8.737 16.4007 9.03ZM12.1577 2.5C6.92069 2.5 2.65869 6.762 2.65869 12C2.65869 17.238 6.92069 21.5 12.1577 21.5C17.3967 21.5 21.6577 17.238 21.6577 12C21.6577 6.762 17.3967 2.5 12.1577 2.5Z" fill="black"/> </svg>',
+    name: 'Stopwatch 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 6.42581C8.18306 6.42581 5.08887 9.51988 5.08887 13.3379C5.08887 17.155 8.18312 20.25 12 20.25C15.8179 20.25 18.9121 17.155 18.9121 13.3379C18.9121 9.51994 15.818 6.42581 12 6.42581ZM3.58887 13.3379C3.58887 8.69158 7.35451 4.92581 12 4.92581C16.6464 4.92581 20.4121 8.69151 20.4121 13.3379C20.4121 17.9833 16.6464 21.75 12 21.75C7.35444 21.75 3.58887 17.9832 3.58887 13.3379Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.14844 3C9.14844 2.58579 9.48422 2.25 9.89844 2.25H14.1062C14.5204 2.25 14.8562 2.58579 14.8562 3C14.8562 3.41421 14.5204 3.75 14.1062 3.75H9.89844C9.48422 3.75 9.14844 3.41421 9.14844 3Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.4638 9.83881C15.7567 10.1317 15.7567 10.6066 15.4638 10.8995L12.5225 13.8408C12.2296 14.1337 11.7548 14.1337 11.4619 13.8408C11.169 13.5479 11.169 13.073 11.4619 12.7801L14.4032 9.83881C14.6961 9.54592 15.1709 9.54592 15.4638 9.83881Z" fill="black"/> </svg> ',
     category: 'Time',
-    style: IconfyStyle.bold,
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -1530,48 +2805,8 @@ class _TimeClockCloseBold {
 class _TimeSquareClockIcon {
   const _TimeSquareClockIcon();
 
-  /// bold style
-  _TimeSquareClockBold get bold => const _TimeSquareClockBold();
-  /// bulk style
-  _TimeSquareClockBulk get bulk => const _TimeSquareClockBulk();
-  /// light style
-  _TimeSquareClockLight get light => const _TimeSquareClockLight();
-  /// outline style
-  _TimeSquareClockOutline get outline => const _TimeSquareClockOutline();
   /// twoTone style
   _TimeSquareClockTwotone get twoTone => const _TimeSquareClockTwotone();
-  /// broken style
-  _TimeSquareClockBroken get broken => const _TimeSquareClockBroken();
-}
-
-/// Square Clock — bulk style variants.
-class _TimeSquareClockBulk {
-  const _TimeSquareClockBulk();
-
-  /// Square Clock — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Square Clock',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.7871 2.5H8.35207C5.19307 2.5 3.07007 4.723 3.07007 8.031V15.97C3.07007 19.278 5.19307 21.5 8.35207 21.5H16.7861C19.9471 21.5 22.0701 19.278 22.0701 15.97V8.031C22.0701 4.723 19.9471 2.5 16.7871 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5151 14.343C16.3751 14.579 16.1251 14.71 15.8691 14.71C15.7391 14.71 15.6071 14.676 15.4871 14.605L12.1871 12.645C11.9601 12.51 11.8201 12.265 11.8201 12V7.75C11.8201 7.336 12.1561 7 12.5701 7C12.9841 7 13.3201 7.336 13.3201 7.75V11.573L16.2531 13.315C16.6091 13.527 16.7261 13.987 16.5151 14.343Z" fill="black"/> </svg>',
-    category: 'Time',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Square Clock — broken style variants.
-class _TimeSquareClockBroken {
-  const _TimeSquareClockBroken();
-
-  /// Square Clock — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Square Clock',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.499 21H8.28216C5.33308 21 3.5 18.9188 3.5 15.9736V8.02638C3.5 5.08119 5.34281 3 8.28216 3H16.7169C19.665 3 21.5 5.08119 21.5 8.02638V15.9736C21.5 18.9188 19.665 21 16.7159 21H16.0954" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7994 13.9634L12.5 11.9951V7.75195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Time',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Square Clock — twoTone style variants.
@@ -1589,28 +2824,90 @@ class _TimeSquareClockTwotone {
 
 }
 
-/// Square Clock — outline style variants.
-class _TimeSquareClockOutline {
-  const _TimeSquareClockOutline();
+/// Square Clock 1 icon with style variants.
+class _TimeSquareClock1Icon {
+  const _TimeSquareClock1Icon();
 
-  /// Square Clock — outline / regular
+  /// twoTone style
+  _TimeSquareClock1Twotone get twoTone => const _TimeSquareClock1Twotone();
+}
+
+/// Square Clock 1 — twoTone style variants.
+class _TimeSquareClock1Twotone {
+  const _TimeSquareClock1Twotone();
+
+  /// Square Clock 1 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Square Clock',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.74017 3.89734C4.72463 2.84116 6.12662 2.25 7.78206 2.25H16.2166C17.8759 2.25 19.2785 2.84083 20.2625 3.89762C21.2409 4.94836 21.7496 6.39881 21.7496 8.02627V15.9733C21.7496 17.6008 21.2409 19.0513 20.2623 20.102C19.2782 21.1588 17.8753 21.7496 16.2156 21.7496H7.78206C6.1223 21.7496 4.71986 21.1588 3.73614 20.1019C2.7581 19.051 2.25 17.6006 2.25 15.9733V8.02627C2.25 6.39798 2.76116 4.94766 3.74017 3.89734ZM4.83743 4.92009C4.16023 5.64662 3.75 6.70943 3.75 8.02627V15.9733C3.75 17.2912 4.15842 18.3539 4.83415 19.0799C5.50421 19.7999 6.4928 20.2496 7.78206 20.2496H16.2156C17.5049 20.2496 18.4941 19.7998 19.1646 19.0798C19.8408 18.3537 20.2496 17.291 20.2496 15.9733V8.02627C20.2496 6.7086 19.8408 5.64592 19.1647 4.91981C18.4942 4.19974 17.5053 3.75 16.2166 3.75H7.78206C6.49821 3.75 5.50917 4.19942 4.83743 4.92009Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9998 2.25C12.414 2.25 12.7498 2.58579 12.7498 3V4.47597C12.7498 4.89018 12.414 5.22597 11.9998 5.22597C11.5856 5.22597 11.2498 4.89018 11.2498 4.47597V3C11.2498 2.58579 11.5856 2.25 11.9998 2.25ZM2.25 11.9998C2.25 11.5856 2.58579 11.2498 3 11.2498H4.47597C4.89018 11.2498 5.22597 11.5856 5.22597 11.9998C5.22597 12.414 4.89018 12.7498 4.47597 12.7498H3C2.58579 12.7498 2.25 12.414 2.25 11.9998ZM18.774 11.9998C18.774 11.5856 19.1098 11.2498 19.524 11.2498H21C21.4142 11.2498 21.75 11.5856 21.75 11.9998C21.75 12.414 21.4142 12.7498 21 12.7498H19.524C19.1098 12.7498 18.774 12.414 18.774 11.9998ZM11.9998 18.774C12.414 18.774 12.7498 19.1098 12.7498 19.524V21C12.7498 21.4142 12.414 21.75 11.9998 21.75C11.5856 21.75 11.2498 21.4142 11.2498 21V19.524C11.2498 19.1098 11.5856 18.774 11.9998 18.774Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.998 7.00195C12.4123 7.00195 12.748 7.33774 12.748 7.75195V11.5691L15.6816 13.3192C16.0373 13.5314 16.1536 13.9918 15.9414 14.3475C15.7292 14.7032 15.2688 14.8196 14.9131 14.6074L11.6138 12.6391C11.387 12.5038 11.248 12.2591 11.248 11.995V7.75195C11.248 7.33774 11.5838 7.00195 11.998 7.00195Z" fill="black"/> </svg> ',
+    name: 'Square Clock 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.28216 3H16.7169C19.665 3 21.5 5.08119 21.5 8.02638V15.9736C21.5 18.9188 19.665 21 16.7159 21H8.28216C5.33308 21 3.5 18.9188 3.5 15.9736V8.02638C3.5 5.08119 5.34281 3 8.28216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7994 13.9634L12.5 11.9951V7.75195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Time',
-    style: IconfyStyle.outline,
+    style: IconfyStyle.twoTone,
     type: IconfyType.regular,
   );
 
 }
 
-/// Square Clock — bold style variants.
-class _TimeSquareClockBold {
-  const _TimeSquareClockBold();
+/// Square Clock 2 icon with style variants.
+class _TimeSquareClock2Icon {
+  const _TimeSquareClock2Icon();
 
-  /// Square Clock — bold / regular
+  /// broken style
+  _TimeSquareClock2Broken get broken => const _TimeSquareClock2Broken();
+}
+
+/// Square Clock 2 — broken style variants.
+class _TimeSquareClock2Broken {
+  const _TimeSquareClock2Broken();
+
+  /// Square Clock 2 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Square Clock',
+    name: 'Square Clock 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.5 9.00046V8.02627C3.5 5.08114 5.34277 3 8.28206 3H16.7166C19.6646 3 21.4996 5.08114 21.4996 8.02627V11.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.5 12V15.9735C3.5 18.9187 5.33304 20.9998 8.28206 20.9998H16.7156C19.6646 20.9998 21.4996 18.9187 21.4996 15.9735V14.7282" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4998 4.47597V3M12.4998 19.524V21M20.024 11.9998H21.5M4.97597 11.9998H3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7973 13.9633L12.498 11.995V7.75195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Square Clock 3 icon with style variants.
+class _TimeSquareClock3Icon {
+  const _TimeSquareClock3Icon();
+
+  /// broken style
+  _TimeSquareClock3Broken get broken => const _TimeSquareClock3Broken();
+}
+
+/// Square Clock 3 — broken style variants.
+class _TimeSquareClock3Broken {
+  const _TimeSquareClock3Broken();
+
+  /// Square Clock 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Square Clock 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.499 21H8.28216C5.33308 21 3.5 18.9188 3.5 15.9736V8.02638C3.5 5.08119 5.34281 3 8.28216 3H16.7169C19.665 3 21.5 5.08119 21.5 8.02638V15.9736C21.5 18.9188 19.665 21 16.7159 21H16.0954" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7994 13.9634L12.5 11.9951V7.75195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Square Clock 4 icon with style variants.
+class _TimeSquareClock4Icon {
+  const _TimeSquareClock4Icon();
+
+  /// bold style
+  _TimeSquareClock4Bold get bold => const _TimeSquareClock4Bold();
+}
+
+/// Square Clock 4 — bold style variants.
+class _TimeSquareClock4Bold {
+  const _TimeSquareClock4Bold();
+
+  /// Square Clock 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Square Clock 4',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.945 14.343C15.805 14.579 15.555 14.71 15.299 14.71C15.169 14.71 15.037 14.676 14.917 14.605L11.617 12.645C11.39 12.51 11.25 12.265 11.25 12V7.75C11.25 7.336 11.586 7 12 7C12.414 7 12.75 7.336 12.75 7.75V11.573L15.683 13.315C16.039 13.527 16.156 13.987 15.945 14.343ZM16.217 2.5H7.782C4.623 2.5 2.5 4.723 2.5 8.031V15.97C2.5 19.278 4.623 21.5 7.782 21.5H16.216C19.377 21.5 21.5 19.278 21.5 15.97V8.031C21.5 4.723 19.377 2.5 16.217 2.5Z" fill="black"/> </svg>',
     category: 'Time',
     style: IconfyStyle.bold,
@@ -1619,16 +2916,116 @@ class _TimeSquareClockBold {
 
 }
 
-/// Square Clock — light style variants.
-class _TimeSquareClockLight {
-  const _TimeSquareClockLight();
+/// Square Clock 5 icon with style variants.
+class _TimeSquareClock5Icon {
+  const _TimeSquareClock5Icon();
 
-  /// Square Clock — light / regular
+  /// bold style
+  _TimeSquareClock5Bold get bold => const _TimeSquareClock5Bold();
+}
+
+/// Square Clock 5 — bold style variants.
+class _TimeSquareClock5Bold {
+  const _TimeSquareClock5Bold();
+
+  /// Square Clock 5 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Square Clock',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78206 3H16.2166C19.1646 3 20.9996 5.08114 20.9996 8.02627V15.9733C20.9996 18.9185 19.1646 20.9996 16.2156 20.9996H7.78206C4.83304 20.9996 3 18.9185 3 15.9733V8.02627C3 5.08114 4.84277 3 7.78206 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9998 4.47597V3M11.9998 19.524V21M19.524 11.9998H21M4.47597 11.9998H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3116 13.9805L12 12.0015V7.72681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    name: 'Square Clock 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.945 14.343C15.805 14.579 15.555 14.71 15.299 14.71C15.169 14.71 15.037 14.676 14.917 14.605L11.617 12.645C11.39 12.51 11.25 12.265 11.25 12V7.75C11.25 7.336 11.586 7 12 7C12.414 7 12.75 7.336 12.75 7.75V11.573L15.683 13.315C16.039 13.527 16.156 13.987 15.945 14.343ZM16.217 2.5H7.782C4.623 2.5 2.5 4.723 2.5 8.031V15.97C2.5 19.278 4.623 21.5 7.782 21.5H16.216C19.377 21.5 21.5 19.278 21.5 15.97V8.031C21.5 4.723 19.377 2.5 16.217 2.5Z" fill="black"/> </svg>',
     category: 'Time',
-    style: IconfyStyle.light,
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Square Clock 6 icon with style variants.
+class _TimeSquareClock6Icon {
+  const _TimeSquareClock6Icon();
+
+  /// bulk style
+  _TimeSquareClock6Bulk get bulk => const _TimeSquareClock6Bulk();
+}
+
+/// Square Clock 6 — bulk style variants.
+class _TimeSquareClock6Bulk {
+  const _TimeSquareClock6Bulk();
+
+  /// Square Clock 6 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Square Clock 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.7871 2.5H8.35207C5.19307 2.5 3.07007 4.723 3.07007 8.031V15.97C3.07007 19.278 5.19307 21.5 8.35207 21.5H16.7861C19.9471 21.5 22.0701 19.278 22.0701 15.97V8.031C22.0701 4.723 19.9471 2.5 16.7871 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5151 14.343C16.3751 14.579 16.1251 14.71 15.8691 14.71C15.7391 14.71 15.6071 14.676 15.4871 14.605L12.1871 12.645C11.9601 12.51 11.8201 12.265 11.8201 12V7.75C11.8201 7.336 12.1561 7 12.5701 7C12.9841 7 13.3201 7.336 13.3201 7.75V11.573L16.2531 13.315C16.6091 13.527 16.7261 13.987 16.5151 14.343Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Square Clock 7 icon with style variants.
+class _TimeSquareClock7Icon {
+  const _TimeSquareClock7Icon();
+
+  /// bulk style
+  _TimeSquareClock7Bulk get bulk => const _TimeSquareClock7Bulk();
+}
+
+/// Square Clock 7 — bulk style variants.
+class _TimeSquareClock7Bulk {
+  const _TimeSquareClock7Bulk();
+
+  /// Square Clock 7 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Square Clock 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M20.0941 12.75C19.6791 12.75 19.3441 12.414 19.3441 12C19.3441 11.586 19.6791 11.25 20.0941 11.25H21.7701C21.9358 11.25 22.0701 11.1157 22.0701 10.95V8.03C22.0701 4.722 19.9471 2.5 16.7861 2.5H13.6201C13.4544 2.5 13.3201 2.63431 13.3201 2.8V4.48C13.3201 4.894 12.9841 5.23 12.5701 5.23C12.1561 5.23 11.8201 4.894 11.8201 4.48V2.8C11.8201 2.63431 11.6858 2.5 11.5201 2.5H8.35207C5.19207 2.5 3.07007 4.722 3.07007 8.03V10.95C3.07007 11.1157 3.20438 11.25 3.37007 11.25H5.04607C5.46007 11.25 5.79607 11.586 5.79607 12C5.79607 12.414 5.46007 12.75 5.04607 12.75H3.37007C3.20438 12.75 3.07007 12.8843 3.07007 13.05V15.97C3.07007 19.278 5.19207 21.5 8.35207 21.5H11.5201C11.6858 21.5 11.8201 21.3657 11.8201 21.2V19.52C11.8201 19.106 12.1561 18.77 12.5701 18.77C12.9841 18.77 13.3201 19.106 13.3201 19.52V21.2C13.3201 21.3657 13.4544 21.5 13.6201 21.5H16.7851C19.9461 21.5 22.0701 19.278 22.0701 15.97V13.05C22.0701 12.8843 21.9358 12.75 21.7701 12.75H20.0941Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5111 14.344C16.3701 14.579 16.1211 14.71 15.8661 14.71C15.7361 14.71 15.6031 14.676 15.4831 14.604L12.1831 12.634C11.9561 12.499 11.8181 12.254 11.8181 11.99V7.75C11.8181 7.336 12.1541 7 12.5681 7C12.9821 7 13.3181 7.336 13.3181 7.75V11.3938C13.3181 11.4993 13.3736 11.5972 13.4643 11.6513L16.2511 13.316C16.6071 13.528 16.7231 13.989 16.5111 14.344Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Square Clock 8 icon with style variants.
+class _TimeSquareClock8Icon {
+  const _TimeSquareClock8Icon();
+
+  /// outline style
+  _TimeSquareClock8Outline get outline => const _TimeSquareClock8Outline();
+}
+
+/// Square Clock 8 — outline style variants.
+class _TimeSquareClock8Outline {
+  const _TimeSquareClock8Outline();
+
+  /// Square Clock 8 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Square Clock 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.7402 3.89737C4.72468 2.84117 6.12669 2.25 7.78216 2.25H16.2169C17.8762 2.25 19.2788 2.84084 20.2629 3.89765C21.2413 4.94841 21.75 6.39889 21.75 8.02638V15.9736C21.75 17.6011 21.2413 19.0516 20.2627 20.1024C19.2785 21.1592 17.8756 21.75 16.2159 21.75H7.78216C6.12237 21.75 4.7199 21.1592 3.73617 20.1022C2.75811 19.0514 2.25 17.6009 2.25 15.9736V8.02638C2.25 6.39806 2.76117 4.94771 3.7402 3.89737ZM4.83745 4.92012C4.16024 5.64666 3.75 6.70951 3.75 8.02638V15.9736C3.75 17.2915 4.15843 18.3542 4.83418 19.0803C5.50426 19.8002 6.49287 20.25 7.78216 20.25H16.2159C17.5052 20.25 18.4944 19.8002 19.165 19.0801C19.8412 18.354 20.25 17.2913 20.25 15.9736V8.02638C20.25 6.70868 19.8412 5.64597 19.1651 4.91984C18.4946 4.19975 17.5056 3.75 16.2169 3.75H7.78216C6.49828 3.75 5.50921 4.19943 4.83745 4.92012Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 7.00195C12.4142 7.00195 12.75 7.33774 12.75 7.75195V11.5692L15.6836 13.3193C16.0393 13.5315 16.1557 13.9919 15.9434 14.3477C15.7312 14.7034 15.2708 14.8197 14.9151 14.6075L11.6157 12.6392C11.3889 12.5039 11.25 12.2592 11.25 11.9951V7.75195C11.25 7.33774 11.5858 7.00195 12 7.00195Z" fill="black"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Square Clock 9 icon with style variants.
+class _TimeSquareClock9Icon {
+  const _TimeSquareClock9Icon();
+
+  /// outline style
+  _TimeSquareClock9Outline get outline => const _TimeSquareClock9Outline();
+}
+
+/// Square Clock 9 — outline style variants.
+class _TimeSquareClock9Outline {
+  const _TimeSquareClock9Outline();
+
+  /// Square Clock 9 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Square Clock 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.74017 3.89734C4.72463 2.84116 6.12662 2.25 7.78206 2.25H16.2166C17.8759 2.25 19.2785 2.84083 20.2625 3.89762C21.2409 4.94836 21.7496 6.39881 21.7496 8.02627V15.9733C21.7496 17.6008 21.2409 19.0513 20.2623 20.102C19.2782 21.1588 17.8753 21.7496 16.2156 21.7496H7.78206C6.1223 21.7496 4.71986 21.1588 3.73614 20.1019C2.7581 19.051 2.25 17.6006 2.25 15.9733V8.02627C2.25 6.39798 2.76116 4.94766 3.74017 3.89734ZM4.83743 4.92009C4.16023 5.64662 3.75 6.70943 3.75 8.02627V15.9733C3.75 17.2912 4.15842 18.3539 4.83415 19.0799C5.50421 19.7999 6.4928 20.2496 7.78206 20.2496H16.2156C17.5049 20.2496 18.4941 19.7998 19.1646 19.0798C19.8408 18.3537 20.2496 17.291 20.2496 15.9733V8.02627C20.2496 6.7086 19.8408 5.64592 19.1647 4.91981C18.4942 4.19974 17.5053 3.75 16.2166 3.75H7.78206C6.49821 3.75 5.50917 4.19942 4.83743 4.92009Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9998 2.25C12.414 2.25 12.7498 2.58579 12.7498 3V4.47597C12.7498 4.89018 12.414 5.22597 11.9998 5.22597C11.5856 5.22597 11.2498 4.89018 11.2498 4.47597V3C11.2498 2.58579 11.5856 2.25 11.9998 2.25ZM2.25 11.9998C2.25 11.5856 2.58579 11.2498 3 11.2498H4.47597C4.89018 11.2498 5.22597 11.5856 5.22597 11.9998C5.22597 12.414 4.89018 12.7498 4.47597 12.7498H3C2.58579 12.7498 2.25 12.414 2.25 11.9998ZM18.774 11.9998C18.774 11.5856 19.1098 11.2498 19.524 11.2498H21C21.4142 11.2498 21.75 11.5856 21.75 11.9998C21.75 12.414 21.4142 12.7498 21 12.7498H19.524C19.1098 12.7498 18.774 12.414 18.774 11.9998ZM11.9998 18.774C12.414 18.774 12.7498 19.1098 12.7498 19.524V21C12.7498 21.4142 12.414 21.75 11.9998 21.75C11.5856 21.75 11.2498 21.4142 11.2498 21V19.524C11.2498 19.1098 11.5856 18.774 11.9998 18.774Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.998 7.00195C12.4123 7.00195 12.748 7.33774 12.748 7.75195V11.5691L15.6816 13.3192C16.0373 13.5314 16.1536 13.9918 15.9414 14.3475C15.7292 14.7032 15.2688 14.8196 14.9131 14.6074L11.6138 12.6391C11.387 12.5038 11.248 12.2591 11.248 11.995V7.75195C11.248 7.33774 11.5838 7.00195 11.998 7.00195Z" fill="black"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -1824,8 +3221,6 @@ class _TimeStopwatchOffIcon {
   _TimeStopwatchOffBold get bold => const _TimeStopwatchOffBold();
   /// bulk style
   _TimeStopwatchOffBulk get bulk => const _TimeStopwatchOffBulk();
-  /// light style
-  _TimeStopwatchOffLight get light => const _TimeStopwatchOffLight();
   /// outline style
   _TimeStopwatchOffOutline get outline => const _TimeStopwatchOffOutline();
   /// twoTone style
@@ -1904,21 +3299,6 @@ class _TimeStopwatchOffBold {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.70923 3.75H13.9532C14.3672 3.75 14.7032 3.414 14.7032 3C14.7032 2.586 14.3672 2.25 13.9532 2.25H9.70923C9.29523 2.25 8.95923 2.586 8.95923 3C8.95923 3.414 9.29523 3.75 9.70923 3.75Z" fill="black"/> <path d="M12.0002 21.4302C7.51616 21.4302 3.86816 17.7832 3.86816 13.3002C3.86816 11.498 4.45263 9.7723 5.52589 8.36587L4.13039 6.97018C3.83739 6.67718 3.83739 6.20318 4.13039 5.91018C4.42339 5.61718 4.89739 5.61718 5.19039 5.91018L19.7484 20.4702C20.0414 20.7632 20.0414 21.2372 19.7484 21.5302C19.6024 21.6772 19.4104 21.7502 19.2184 21.7502C19.0264 21.7502 18.8344 21.6772 18.6884 21.5302L16.9203 19.7619C15.5163 20.8427 13.7953 21.4302 12.0002 21.4302Z" fill="black"/> <path d="M18.9179 15.9739C19.0119 16.0689 19.1399 16.1199 19.2709 16.1199C19.3109 16.1199 19.3499 16.1149 19.3899 16.1059C19.5589 16.0649 19.6949 15.9379 19.7479 15.7709C20.0029 14.9659 20.1319 14.1349 20.1319 13.2999C20.1319 11.0266 19.1935 8.96789 17.6834 7.49088C17.9428 7.23038 18.1649 7.00935 18.4287 6.74667L18.6532 6.52314L18.7662 6.41214C19.0592 6.12014 19.0612 5.64514 18.7692 5.35114C18.4782 5.05714 18.0032 5.05614 17.7092 5.34814L17.529 5.52683C17.1505 5.9023 16.8739 6.17679 16.5129 6.53998C15.2209 5.67492 13.6683 5.16992 11.9999 5.16992C11.1689 5.16992 10.3369 5.29892 9.52895 5.55292C9.36195 5.60592 9.23495 5.74192 9.19295 5.91092C9.15095 6.08092 9.20095 6.25992 9.32495 6.38392L18.9179 15.9739Z" fill="black"/> </svg>',
     category: 'Time',
     style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Stopwatch Off — light style variants.
-class _TimeStopwatchOffLight {
-  const _TimeStopwatchOffLight();
-
-  /// Stopwatch Off — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Stopwatch Off',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.36642 8.14417C5.12639 9.49418 4.36816 11.3075 4.36816 13.296C4.36816 17.5145 7.78165 20.9289 12.0001 20.9289C13.9886 20.9289 15.7932 20.1697 17.1432 18.9209" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.70898 3H13.9527" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.67773 6.02712C10.4087 5.79644 11.1952 5.66602 12.0001 5.66602C16.2088 5.66602 19.6311 9.08047 19.6311 13.2979C19.6311 14.1029 19.5016 14.8893 19.2709 15.6203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7656 7.34863C17.3404 6.77391 17.6626 6.45168 18.2373 5.87695" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.2183 20.9996L4.66016 6.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Time',
-    style: IconfyStyle.light,
     type: IconfyType.regular,
   );
 
@@ -2036,46 +3416,8 @@ class _TimeStopwatchPauseLight {
 class _TimeHourglassIcon {
   const _TimeHourglassIcon();
 
-  /// bold style
-  _TimeHourglassBold get bold => const _TimeHourglassBold();
-  /// bulk style
-  _TimeHourglassBulk get bulk => const _TimeHourglassBulk();
-  /// outline style
-  _TimeHourglassOutline get outline => const _TimeHourglassOutline();
   /// twoTone style
   _TimeHourglassTwotone get twoTone => const _TimeHourglassTwotone();
-  /// broken style
-  _TimeHourglassBroken get broken => const _TimeHourglassBroken();
-}
-
-/// Hourglass — bulk style variants.
-class _TimeHourglassBulk {
-  const _TimeHourglassBulk();
-
-  /// Hourglass — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Hourglass',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.0604 12.692C14.5784 12.194 14.5784 11.805 15.0474 11.32C17.0974 9.354 18.4524 8.054 18.5964 6.549C18.6844 5.433 18.3794 4.412 17.7384 3.676C17.1224 2.969 16.2384 2.563 15.1824 2.501C15.1724 2.5 15.1634 2.5 15.1534 2.5L10.2734 2.501C9.21741 2.563 8.33241 2.969 7.71641 3.677C7.07641 4.413 6.77141 5.433 6.86141 6.558C7.00441 8.054 8.35841 9.353 10.3954 11.308C10.8774 11.805 10.8774 12.193 10.4094 12.679C8.35841 14.646 7.00441 15.946 6.86041 17.45C6.77141 18.567 7.07541 19.587 7.71641 20.322C8.33241 21.03 9.21641 21.437 10.3034 21.5L15.1824 21.499C16.2384 21.437 17.1224 21.03 17.7384 20.323C18.3794 19.587 18.6844 18.567 18.5954 17.442C18.4524 15.946 17.0974 14.646 15.0604 12.692Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6974 12.0095C14.702 12.2269 14.8225 12.4462 15.0604 12.6921C17.0974 14.6461 18.4524 15.9461 18.5954 17.4421C18.6844 18.5671 18.3794 19.5871 17.7384 20.3231C17.1224 21.0301 16.2384 21.4371 15.1824 21.4991L10.3034 21.5001C9.21641 21.4371 8.33241 21.0301 7.71641 20.3221C7.07541 19.5871 6.77141 18.5671 6.86041 17.4501C7.00441 15.9461 8.35841 14.6461 10.4094 12.6791C10.6392 12.4404 10.7562 12.2254 10.7586 12.0095H14.6974Z" fill="black"/> </svg>',
-    category: 'Time',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Hourglass — broken style variants.
-class _TimeHourglassBroken {
-  const _TimeHourglassBroken();
-
-  /// Hourglass — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Hourglass',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.631 3H15.0835C17.1238 3.12162 18.1746 4.65503 18.0277 6.50854C17.9051 7.79481 16.7054 8.96627 14.631 10.9579C13.9636 11.6536 13.9636 12.3464 14.631 13.0411C16.7054 15.0328 17.9051 16.2052 18.0277 17.4915C18.1746 19.345 17.1238 20.8784 15.0835 21H10.2332C8.19188 20.8784 7.14205 19.345 7.28897 17.4915C7.41156 16.2052 8.61124 15.0328 10.6856 13.0411C11.3531 12.3464 11.3521 11.6536 10.6856 10.9579C8.61124 8.96627 7.41156 7.79481 7.28897 6.50854C7.14205 4.65503 8.19188 3.12162 10.2332 3H10.6856" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.3861 18.5217C10.5396 18.5217 10.1271 17.4874 10.741 16.9046C11.4153 16.1155 12.4116 15.5006 12.6578 14.6104C12.9039 15.5006 13.9003 16.1155 14.5745 16.9046C15.1885 17.4874 14.7759 18.5217 13.9294 18.5217" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Time',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Hourglass — twoTone style variants.
@@ -2085,6 +3427,75 @@ class _TimeHourglassTwotone {
   /// Hourglass — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Hourglass',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.1307 12.0254C14.1389 12.3637 14.3057 12.7021 14.631 13.0412C16.7054 15.0329 17.9051 16.2043 18.0277 17.4906C18.1736 19.3441 17.1238 20.8775 15.0835 20.9992H10.2332C8.19188 20.8775 7.14205 19.3441 7.28897 17.4906C7.41156 16.2043 8.61124 15.0329 10.6856 13.0412C11.0105 12.7021 11.1772 12.3637 11.1854 12.0254" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.1307 12.0262C14.1222 11.6705 14.2889 11.315 14.631 10.9589C16.7054 8.96724 17.9051 7.79481 18.0277 6.50854C18.1736 4.65503 17.1238 3.12162 15.0835 3H10.2332C8.19188 3.12162 7.14205 4.65503 7.28897 6.50854C7.41156 7.79481 8.61124 8.96724 10.6846 10.9589C11.0272 11.315 11.194 11.6705 11.1854 12.0262" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 1 icon with style variants.
+class _TimeHourglass1Icon {
+  const _TimeHourglass1Icon();
+
+  /// twoTone style
+  _TimeHourglass1Twotone get twoTone => const _TimeHourglass1Twotone();
+}
+
+/// Hourglass 1 — twoTone style variants.
+class _TimeHourglass1Twotone {
+  const _TimeHourglass1Twotone();
+
+  /// Hourglass 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.13075 17.4915C6.98383 19.345 8.03464 20.8784 10.075 21H14.9252C16.9665 20.8784 18.0164 19.345 17.8695 17.4915C17.7469 16.2052 16.5472 15.0328 14.4728 13.0411C13.8053 12.3464 13.8063 11.6526 14.4728 10.9579C16.5472 8.96627 17.7469 7.79481 17.8695 6.50854C18.0164 4.65503 16.9665 3.12162 14.9252 3H10.075C8.03464 3.12162 6.98383 4.65503 7.13075 6.50854C7.25335 7.79481 8.45302 8.96627 10.5274 10.9579C11.1949 11.6526 11.1949 12.3464 10.5274 13.0411C8.45302 15.0328 7.25335 16.2052 7.13075 17.4915Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.12305 17.9079C7.43829 18.0607 7.82456 18.1599 8.33829 18.1599C10.4166 18.1599 10.4166 16.5039 12.4958 16.5039C14.575 16.5039 14.575 18.1599 16.6543 18.1599C17.167 18.1599 17.5543 18.0607 17.8783 17.9079" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 2 icon with style variants.
+class _TimeHourglass2Icon {
+  const _TimeHourglass2Icon();
+
+  /// twoTone style
+  _TimeHourglass2Twotone get twoTone => const _TimeHourglass2Twotone();
+}
+
+/// Hourglass 2 — twoTone style variants.
+class _TimeHourglass2Twotone {
+  const _TimeHourglass2Twotone();
+
+  /// Hourglass 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.0277 6.50854C18.1746 4.65503 17.1238 3.12162 15.0835 3H10.2332C8.19188 3.12162 7.14205 4.65503 7.28897 6.50854C7.41156 7.79481 8.61124 8.96724 10.6856 10.9589C11.3531 11.6536 11.3521 12.3464 10.6856 13.0421C8.61124 15.0337 7.41156 16.2052 7.28897 17.4915C7.14205 19.345 8.19188 20.8784 10.2332 21H15.0835C17.1238 20.8784 18.1746 19.345 18.0277 17.4915C17.9051 16.2052 16.7054 15.0337 14.631 13.0421C13.9636 12.3464 13.9636 11.6536 14.631 10.9589C16.7054 8.96724 17.9051 7.79481 18.0277 6.50854Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.6578 9.38987C12.4116 8.4996 11.4153 7.88468 10.741 7.0956C10.1271 6.51279 10.5396 5.47852 11.3861 5.47852H13.9294C14.7759 5.47852 15.1885 6.51279 14.5745 7.0956C13.9003 7.88468 12.9039 8.4996 12.6578 9.38987Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 3 icon with style variants.
+class _TimeHourglass3Icon {
+  const _TimeHourglass3Icon();
+
+  /// twoTone style
+  _TimeHourglass3Twotone get twoTone => const _TimeHourglass3Twotone();
+}
+
+/// Hourglass 3 — twoTone style variants.
+class _TimeHourglass3Twotone {
+  const _TimeHourglass3Twotone();
+
+  /// Hourglass 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 3',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.28896 17.4915C7.14204 19.345 8.19285 20.8784 10.2332 21H15.0834C17.1247 20.8784 18.1746 19.345 18.0277 17.4915C17.9051 16.2052 16.7054 15.0328 14.632 13.0411C13.9636 12.3464 13.9645 11.6526 14.631 10.9579C16.7054 8.96627 17.9051 7.79481 18.0277 6.50854C18.1746 4.65503 17.1247 3.12162 15.0834 3H10.2332C8.19285 3.12162 7.14204 4.65503 7.28896 6.50854C7.41155 7.79481 8.61123 8.96627 10.6856 10.9579C11.3531 11.6526 11.3531 12.3464 10.6856 13.0411C8.61123 15.0328 7.41155 16.2052 7.28896 17.4915Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.6575 14.6113C12.9036 15.5016 13.9 16.1165 14.5742 16.9056C15.1882 17.4884 14.7756 18.5227 13.9292 18.5227H11.3858C10.5393 18.5227 10.1268 17.4884 10.7417 16.9056C11.415 16.1165 12.4113 15.5016 12.6575 14.6113Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Time',
     style: IconfyStyle.twoTone,
@@ -2093,13 +3504,389 @@ class _TimeHourglassTwotone {
 
 }
 
-/// Hourglass — outline style variants.
-class _TimeHourglassOutline {
-  const _TimeHourglassOutline();
+/// Hourglass 4 icon with style variants.
+class _TimeHourglass4Icon {
+  const _TimeHourglass4Icon();
 
-  /// Hourglass — outline / regular
+  /// twoTone style
+  _TimeHourglass4Twotone get twoTone => const _TimeHourglass4Twotone();
+}
+
+/// Hourglass 4 — twoTone style variants.
+class _TimeHourglass4Twotone {
+  const _TimeHourglass4Twotone();
+
+  /// Hourglass 4 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Hourglass',
+    name: 'Hourglass 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.3021 19.0078V18.0602C18.3021 17.5026 18.0686 16.9704 17.658 16.5929L12.6579 11.998L7.65778 16.5929C7.24719 16.9704 7.01367 17.5026 7.01367 18.0602V19.0078C7.01367 20.1083 7.90589 21.0005 9.00632 21.0005H16.3095C17.4099 21.0005 18.3021 20.1083 18.3021 19.0078Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.3021 5.93546C18.3021 6.49297 18.0686 7.02519 17.658 7.4027L12.6579 11.9976L7.65778 7.4027C7.24719 7.02519 7.01367 6.49297 7.01367 5.93546V4.99265C7.01367 3.89222 7.90589 3 9.00632 3H16.3095C17.4099 3 18.3021 3.89222 18.3021 4.99265V5.93546Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 5 icon with style variants.
+class _TimeHourglass5Icon {
+  const _TimeHourglass5Icon();
+
+  /// broken style
+  _TimeHourglass5Broken get broken => const _TimeHourglass5Broken();
+}
+
+/// Hourglass 5 — broken style variants.
+class _TimeHourglass5Broken {
+  const _TimeHourglass5Broken();
+
+  /// Hourglass 5 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.6846 21H10.2332C8.19188 20.8784 7.14205 19.345 7.28897 17.4915C7.41156 16.2052 8.61124 15.0328 10.6846 13.0411C11.3531 12.3464 11.3521 11.6536 10.6856 10.9579C8.61124 8.96627 7.41156 7.79481 7.28897 6.50854C7.14205 4.65503 8.19188 3.12162 10.2332 3H15.0835C17.1238 3.12162 18.1736 4.65503 18.0277 6.50854C17.9051 7.79481 16.7054 8.96627 14.631 10.9579C13.9636 11.6536 13.9636 12.3464 14.631 13.0411C16.7054 15.0328 17.9051 16.2052 18.0277 17.4915C18.1736 19.345 17.1238 20.8784 15.0835 21H14.631" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 6 icon with style variants.
+class _TimeHourglass6Icon {
+  const _TimeHourglass6Icon();
+
+  /// broken style
+  _TimeHourglass6Broken get broken => const _TimeHourglass6Broken();
+}
+
+/// Hourglass 6 — broken style variants.
+class _TimeHourglass6Broken {
+  const _TimeHourglass6Broken();
+
+  /// Hourglass 6 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 6',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.12305 17.9079C7.43829 18.0607 7.82456 18.1599 8.33829 18.1599C10.4166 18.1599 10.4166 16.5039 12.4958 16.5039C14.575 16.5039 14.575 18.1599 16.6543 18.1599C17.167 18.1599 17.5543 18.0607 17.8783 17.9079" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4728 3H14.9252C16.9656 3.12162 18.0164 4.65503 17.8695 6.50854C17.7469 7.79481 16.5472 8.96627 14.4728 10.9579C13.8054 11.6536 13.8054 12.3464 14.4728 13.0411C16.5472 15.0328 17.7469 16.2052 17.8695 17.4915C18.0164 19.345 16.9656 20.8784 14.9252 21H10.075C8.03368 20.8784 6.98384 19.345 7.13076 17.4915C7.25336 16.2052 8.45303 15.0328 10.5274 13.0411C11.1949 12.3464 11.1939 11.6536 10.5274 10.9579C8.45303 8.96627 7.25336 7.79481 7.13076 6.50854C6.98384 4.65503 8.03368 3.12162 10.075 3H10.5274" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 7 icon with style variants.
+class _TimeHourglass7Icon {
+  const _TimeHourglass7Icon();
+
+  /// broken style
+  _TimeHourglass7Broken get broken => const _TimeHourglass7Broken();
+}
+
+/// Hourglass 7 — broken style variants.
+class _TimeHourglass7Broken {
+  const _TimeHourglass7Broken();
+
+  /// Hourglass 7 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 7',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.631 21H15.0835C17.1238 20.8784 18.1746 19.345 18.0277 17.4915C17.9051 16.2052 16.7054 15.0337 14.631 13.0421C13.9636 12.3464 13.9636 11.6536 14.631 10.9589C16.7054 8.96724 17.9051 7.79481 18.0277 6.50854C18.1746 4.65503 17.1238 3.12162 15.0835 3H10.2332C8.19188 3.12162 7.14205 4.65503 7.28897 6.50854C7.41156 7.79481 8.61124 8.96724 10.6856 10.9589C11.3531 11.6536 11.3521 12.3464 10.6856 13.0421C8.61124 15.0337 7.41156 16.2052 7.28897 17.4915C7.14205 19.345 8.19188 20.8784 10.2332 21H10.6856" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.3861 5.47852C10.5396 5.47852 10.1271 6.51279 10.741 7.0956C11.4153 7.88468 12.4116 8.4996 12.6578 9.38987C12.9039 8.4996 13.9003 7.88468 14.5745 7.0956C15.1885 6.51279 14.7759 5.47852 13.9294 5.47852" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 8 icon with style variants.
+class _TimeHourglass8Icon {
+  const _TimeHourglass8Icon();
+
+  /// broken style
+  _TimeHourglass8Broken get broken => const _TimeHourglass8Broken();
+}
+
+/// Hourglass 8 — broken style variants.
+class _TimeHourglass8Broken {
+  const _TimeHourglass8Broken();
+
+  /// Hourglass 8 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 8',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.631 3H15.0835C17.1238 3.12162 18.1746 4.65503 18.0277 6.50854C17.9051 7.79481 16.7054 8.96627 14.631 10.9579C13.9636 11.6536 13.9636 12.3464 14.631 13.0411C16.7054 15.0328 17.9051 16.2052 18.0277 17.4915C18.1746 19.345 17.1238 20.8784 15.0835 21H10.2332C8.19188 20.8784 7.14205 19.345 7.28897 17.4915C7.41156 16.2052 8.61124 15.0328 10.6856 13.0411C11.3531 12.3464 11.3521 11.6536 10.6856 10.9579C8.61124 8.96627 7.41156 7.79481 7.28897 6.50854C7.14205 4.65503 8.19188 3.12162 10.2332 3H10.6856" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.3861 18.5217C10.5396 18.5217 10.1271 17.4874 10.741 16.9046C11.4153 16.1155 12.4116 15.5006 12.6578 14.6104C12.9039 15.5006 13.9003 16.1155 14.5745 16.9046C15.1885 17.4874 14.7759 18.5217 13.9294 18.5217" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 9 icon with style variants.
+class _TimeHourglass9Icon {
+  const _TimeHourglass9Icon();
+
+  /// broken style
+  _TimeHourglass9Broken get broken => const _TimeHourglass9Broken();
+}
+
+/// Hourglass 9 — broken style variants.
+class _TimeHourglass9Broken {
+  const _TimeHourglass9Broken();
+
+  /// Hourglass 9 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 9',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.631 3H15.0835C17.1238 3.12162 18.1746 4.65503 18.0277 6.50854C17.9051 7.79481 16.7054 8.96627 14.631 10.9579C13.9636 11.6536 13.9636 12.3464 14.631 13.0411C16.7054 15.0328 17.9051 16.2052 18.0277 17.4915C18.1746 19.345 17.1238 20.8784 15.0835 21H10.2332C8.19188 20.8784 7.14205 19.345 7.28897 17.4915C7.41156 16.2052 8.61124 15.0328 10.6856 13.0411C11.3531 12.3464 11.3521 11.6536 10.6856 10.9579C8.61124 8.96627 7.41156 7.79481 7.28897 6.50854C7.14205 4.65503 8.19188 3.12162 10.2332 3H10.6856" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.3861 18.5217C10.5396 18.5217 10.1271 17.4874 10.741 16.9046C11.4153 16.1155 12.4116 15.5006 12.6578 14.6104C12.9039 15.5006 13.9003 16.1155 14.5745 16.9046C15.1885 17.4874 14.7759 18.5217 13.9294 18.5217" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 10 icon with style variants.
+class _TimeHourglass10Icon {
+  const _TimeHourglass10Icon();
+
+  /// bold style
+  _TimeHourglass10Bold get bold => const _TimeHourglass10Bold();
+}
+
+/// Hourglass 10 — bold style variants.
+class _TimeHourglass10Bold {
+  const _TimeHourglass10Bold();
+
+  /// Hourglass 10 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 10',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7648 18.116C14.5458 18.665 14.0218 19.02 13.4288 19.02H10.8858C10.2928 19.02 9.7678 18.665 9.5498 18.115C9.3318 17.567 9.4698 16.951 9.8988 16.547C10.0928 16.314 10.3598 16.061 10.6248 15.811C11.0688 15.392 11.4888 14.997 11.6458 14.568L11.7658 14.24L12.5068 14.206L12.6678 14.568C12.8258 14.996 13.2458 15.392 13.6908 15.812C13.9558 16.061 14.2228 16.314 14.4538 16.586C14.8468 16.952 14.9828 17.568 14.7648 18.116ZM14.4918 12.693C14.0098 12.195 14.0088 11.806 14.4768 11.321C16.5278 9.354 17.8818 8.054 18.0268 6.55C18.1148 5.434 17.8108 4.414 17.1698 3.678C16.5538 2.97 15.6688 2.563 14.5828 2.5L9.7028 2.501C8.6468 2.563 7.7628 2.97 7.1468 3.678C6.5058 4.414 6.2018 5.434 6.2908 6.558C6.4348 8.056 7.7888 9.355 9.8268 11.308C10.3078 11.806 10.3078 12.195 9.8398 12.679C7.7888 14.646 6.4348 15.946 6.2908 17.443C6.2908 17.446 6.2908 17.448 6.2898 17.451C6.2018 18.567 6.5058 19.587 7.1468 20.323C7.7628 21.031 8.6468 21.437 9.7328 21.5L14.6118 21.499C15.6698 21.437 16.5538 21.031 17.1698 20.323C17.8108 19.587 18.1148 18.567 18.0258 17.443C17.8818 15.948 16.5278 14.648 14.4918 12.693Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 11 icon with style variants.
+class _TimeHourglass11Icon {
+  const _TimeHourglass11Icon();
+
+  /// bold style
+  _TimeHourglass11Bold get bold => const _TimeHourglass11Bold();
+}
+
+/// Hourglass 11 — bold style variants.
+class _TimeHourglass11Bold {
+  const _TimeHourglass11Bold();
+
+  /// Hourglass 11 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.66714 11.3078C10.1491 11.8068 10.1491 12.1938 9.68014 12.6798C7.67014 14.6078 6.33714 15.8958 6.15014 17.3548C6.33814 17.3898 6.53614 17.4108 6.75414 17.4108C7.80114 17.4108 8.28914 17.0208 8.90614 16.5288C9.58114 15.9898 10.4211 15.3188 11.9941 15.3188C13.5671 15.3188 14.4071 15.9898 15.0821 16.5288C15.6991 17.0208 16.1871 17.4108 17.2341 17.4108C17.4561 17.4108 17.6571 17.3898 17.8481 17.3538C17.6611 15.8948 16.3281 14.6078 14.3321 12.6928C13.8501 12.1948 13.8501 11.8068 14.3181 11.3208C16.3691 9.35376 17.7231 8.05476 17.8671 6.54976C17.9551 5.43276 17.6511 4.41276 17.0101 3.67676C16.3951 2.96976 15.5101 2.56276 14.4241 2.49976L9.54514 2.50076C8.48814 2.56276 7.60414 2.96976 6.98914 3.67776C6.34814 4.41376 6.04314 5.43376 6.13314 6.55776C6.27514 8.05476 7.62914 9.35376 9.66714 11.3078Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.234 18.9101C15.662 18.9101 14.821 18.2391 14.147 17.7001C13.529 17.2071 13.042 16.8181 11.994 16.8181C10.947 16.8181 10.459 17.2071 9.84203 17.7001C9.16703 18.2391 8.32703 18.9101 6.75403 18.9101C6.57603 18.9101 6.42003 18.8781 6.25403 18.8611C6.39303 19.4121 6.63303 19.9141 6.98803 20.3231C7.60503 21.0301 8.48803 21.4371 9.57403 21.5001L14.454 21.4991C15.511 21.4371 16.395 21.0301 17.01 20.3231C17.366 19.9151 17.606 19.4131 17.744 18.8601C17.575 18.8781 17.414 18.9101 17.234 18.9101Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 12 icon with style variants.
+class _TimeHourglass12Icon {
+  const _TimeHourglass12Icon();
+
+  /// bold style
+  _TimeHourglass12Bold get bold => const _TimeHourglass12Bold();
+}
+
+/// Hourglass 12 — bold style variants.
+class _TimeHourglass12Bold {
+  const _TimeHourglass12Bold();
+
+  /// Hourglass 12 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 12',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.7648 18.116C14.5458 18.665 14.0218 19.02 13.4288 19.02H10.8858C10.2928 19.02 9.7678 18.665 9.5498 18.115C9.3318 17.567 9.4698 16.951 9.8988 16.547C10.0928 16.314 10.3598 16.061 10.6248 15.811C11.0688 15.392 11.4888 14.997 11.6458 14.568L11.7658 14.24L12.5068 14.206L12.6678 14.568C12.8258 14.996 13.2458 15.392 13.6908 15.812C13.9558 16.061 14.2228 16.314 14.4538 16.586C14.8468 16.952 14.9828 17.568 14.7648 18.116ZM14.4918 12.693C14.0098 12.195 14.0088 11.806 14.4768 11.321C16.5278 9.354 17.8818 8.054 18.0268 6.55C18.1148 5.434 17.8108 4.414 17.1698 3.678C16.5538 2.97 15.6688 2.563 14.5828 2.5L9.7028 2.501C8.6468 2.563 7.7628 2.97 7.1468 3.678C6.5058 4.414 6.2018 5.434 6.2908 6.558C6.4348 8.056 7.7888 9.355 9.8268 11.308C10.3078 11.806 10.3078 12.195 9.8398 12.679C7.7888 14.646 6.4348 15.946 6.2908 17.443C6.2908 17.446 6.2908 17.448 6.2898 17.451C6.2018 18.567 6.5058 19.587 7.1468 20.323C7.7628 21.031 8.6468 21.437 9.7328 21.5L14.6118 21.499C15.6698 21.437 16.5538 21.031 17.1698 20.323C17.8108 19.587 18.1148 18.567 18.0258 17.443C17.8818 15.948 16.5278 14.648 14.4918 12.693Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 13 icon with style variants.
+class _TimeHourglass13Icon {
+  const _TimeHourglass13Icon();
+
+  /// bold style
+  _TimeHourglass13Bold get bold => const _TimeHourglass13Bold();
+}
+
+/// Hourglass 13 — bold style variants.
+class _TimeHourglass13Bold {
+  const _TimeHourglass13Bold();
+
+  /// Hourglass 13 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 13',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.69 8.189C13.246 8.608 12.826 9.004 12.668 9.433L12.547 9.76L12.157 9.794H11.807L11.646 9.433C11.488 9.004 11.069 8.608 10.625 8.189C10.36 7.939 10.093 7.686 9.86104 7.414C9.46904 7.048 9.33304 6.433 9.55004 5.884C9.76904 5.335 10.293 4.98 10.886 4.98H13.429C14.022 4.98 14.546 5.335 14.764 5.884C14.982 6.432 14.846 7.048 14.417 7.453C14.222 7.686 13.955 7.939 13.69 8.189ZM14.491 12.692C14.009 12.193 14.009 11.805 14.478 11.32C16.528 9.353 17.882 8.053 18.026 6.549C18.115 5.434 17.811 4.413 17.17 3.677C16.554 2.969 15.669 2.563 14.583 2.5L9.70404 2.501C8.64704 2.563 7.76304 2.97 7.14704 3.677C6.50604 4.414 6.20204 5.434 6.29004 6.549C6.29104 6.552 6.29104 6.555 6.29104 6.558C6.43504 8.055 7.78904 9.354 9.82604 11.307C10.308 11.805 10.308 12.194 9.83904 12.679C7.78904 14.646 6.43504 15.945 6.29004 17.45C6.20204 18.566 6.50604 19.585 7.14704 20.322C7.76304 21.029 8.64704 21.437 9.73304 21.5L14.612 21.499C15.669 21.437 16.554 21.03 17.17 20.322C17.811 19.586 18.115 18.566 18.025 17.442C17.882 15.946 16.527 14.647 14.491 12.692Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 14 icon with style variants.
+class _TimeHourglass14Icon {
+  const _TimeHourglass14Icon();
+
+  /// bold style
+  _TimeHourglass14Bold get bold => const _TimeHourglass14Bold();
+}
+
+/// Hourglass 14 — bold style variants.
+class _TimeHourglass14Bold {
+  const _TimeHourglass14Bold();
+
+  /// Hourglass 14 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 14',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.3027 5.94V4.99C18.3027 3.617 17.1847 2.5 15.8097 2.5H8.50667C7.13267 2.5 6.01367 3.617 6.01367 4.99V5.94C6.01367 6.641 6.30967 7.308 6.82067 7.768L11.4197 11.995L6.81967 16.223C6.30767 16.697 6.01367 17.366 6.01367 18.06V19.01C6.01367 20.383 7.13267 21.5 8.50667 21.5H15.8097C17.1847 21.5 18.3027 20.383 18.3027 19.01V18.06C18.3027 17.366 18.0097 16.696 17.4967 16.222L12.8977 11.995L17.4927 7.772C18.0077 7.309 18.3027 6.641 18.3027 5.94Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 15 icon with style variants.
+class _TimeHourglass15Icon {
+  const _TimeHourglass15Icon();
+
+  /// bulk style
+  _TimeHourglass15Bulk get bulk => const _TimeHourglass15Bulk();
+}
+
+/// Hourglass 15 — bulk style variants.
+class _TimeHourglass15Bulk {
+  const _TimeHourglass15Bulk();
+
+  /// Hourglass 15 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 15',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.0604 12.692C14.5784 12.194 14.5784 11.805 15.0474 11.32C17.0974 9.354 18.4524 8.054 18.5964 6.549C18.6844 5.433 18.3794 4.412 17.7384 3.676C17.1224 2.969 16.2384 2.563 15.1824 2.501C15.1724 2.5 15.1634 2.5 15.1534 2.5L10.2734 2.501C9.21741 2.563 8.33241 2.969 7.71641 3.677C7.07641 4.413 6.77141 5.433 6.86141 6.558C7.00441 8.054 8.35841 9.353 10.3954 11.308C10.8774 11.805 10.8774 12.193 10.4094 12.679C8.35841 14.646 7.00441 15.946 6.86041 17.45C6.77141 18.567 7.07541 19.587 7.71641 20.322C8.33241 21.03 9.21641 21.437 10.3034 21.5L15.1824 21.499C16.2384 21.437 17.1224 21.03 17.7384 20.323C18.3794 19.587 18.6844 18.567 18.5954 17.442C18.4524 15.946 17.0974 14.646 15.0604 12.692Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6974 12.0095C14.702 12.2269 14.8225 12.4462 15.0604 12.6921C17.0974 14.6461 18.4524 15.9461 18.5954 17.4421C18.6844 18.5671 18.3794 19.5871 17.7384 20.3231C17.1224 21.0301 16.2384 21.4371 15.1824 21.4991L10.3034 21.5001C9.21641 21.4371 8.33241 21.0301 7.71641 20.3221C7.07541 19.5871 6.77141 18.5671 6.86041 17.4501C7.00441 15.9461 8.35841 14.6461 10.4094 12.6791C10.6392 12.4404 10.7562 12.2254 10.7586 12.0095H14.6974Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 16 icon with style variants.
+class _TimeHourglass16Icon {
+  const _TimeHourglass16Icon();
+
+  /// bulk style
+  _TimeHourglass16Bulk get bulk => const _TimeHourglass16Bulk();
+}
+
+/// Hourglass 16 — bulk style variants.
+class _TimeHourglass16Bulk {
+  const _TimeHourglass16Bulk();
+
+  /// Hourglass 16 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 16',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M14.9029 11.308C14.4209 11.807 14.4209 12.195 14.8899 12.68C16.9399 14.647 18.2939 15.947 18.4379 17.451C18.5269 18.566 18.2229 19.587 17.5819 20.323C16.9659 21.031 16.0809 21.437 14.9949 21.5L10.1159 21.499C9.05891 21.437 8.17491 21.03 7.55891 20.323C6.91791 19.586 6.61391 18.566 6.70191 17.451C6.70291 17.448 6.70291 17.445 6.70291 17.442C6.84691 15.945 8.20091 14.646 10.2379 12.693C10.7199 12.195 10.7199 11.806 10.2509 11.321C8.20091 9.354 6.84691 8.055 6.70191 6.55C6.61391 5.434 6.91791 4.415 7.55891 3.678C8.17491 2.971 9.05891 2.563 10.1449 2.5L15.0239 2.501C16.0809 2.563 16.9659 2.97 17.5819 3.678C18.2229 4.414 18.5269 5.434 18.4369 6.558C18.2939 8.054 16.9389 9.353 14.9029 11.308Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5819 20.323C18.2229 19.587 18.5269 18.566 18.4379 17.451L18.4182 17.3538C18.2272 17.3898 18.0262 17.4108 17.8042 17.4108C16.7583 17.4108 16.2702 17.0217 15.6541 16.5304L15.6518 16.5285C14.9769 15.9896 14.1369 15.3188 12.5642 15.3188C10.9915 15.3188 10.1511 15.9899 9.47621 16.5288L9.4743 16.5304C8.8582 17.0217 8.37013 17.4108 7.32421 17.4108C7.10621 17.4108 6.90821 17.3898 6.72021 17.3548L6.70291 17.442C6.70291 17.445 6.70291 17.448 6.70191 17.451C6.61391 18.566 6.91791 19.586 7.55891 20.323C8.17491 21.03 9.05891 21.437 10.1159 21.499L14.9949 21.5C16.0809 21.437 16.9659 21.031 17.5819 20.323Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 17 icon with style variants.
+class _TimeHourglass17Icon {
+  const _TimeHourglass17Icon();
+
+  /// bulk style
+  _TimeHourglass17Bulk get bulk => const _TimeHourglass17Bulk();
+}
+
+/// Hourglass 17 — bulk style variants.
+class _TimeHourglass17Bulk {
+  const _TimeHourglass17Bulk();
+
+  /// Hourglass 17 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 17',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.0611 12.692C14.5791 12.193 14.5791 11.805 15.0481 11.32C17.0981 9.353 18.4521 8.053 18.5961 6.549C18.6851 5.434 18.3811 4.413 17.7401 3.677C17.1241 2.969 16.2391 2.563 15.1531 2.5L10.2741 2.501C9.21711 2.563 8.33311 2.97 7.71711 3.677C7.07611 4.414 6.77211 5.434 6.86011 6.549C6.86111 6.552 6.86111 6.555 6.86111 6.558C7.00511 8.055 8.35911 9.354 10.3961 11.307C10.8781 11.805 10.8781 12.194 10.4091 12.679C8.35911 14.646 7.00511 15.945 6.86011 17.45C6.77211 18.566 7.07611 19.585 7.71711 20.322C8.33311 21.029 9.21711 21.437 10.3031 21.5L15.1821 21.499C16.2391 21.437 17.1241 21.03 17.7401 20.322C18.3811 19.586 18.6851 18.566 18.5951 17.442C18.4521 15.946 17.0971 14.647 15.0611 12.692Z" fill="black"/> <path d="M14.2585 8.19055L14.2601 8.18898C14.5251 7.93898 14.7921 7.68598 14.9871 7.45298C15.4161 7.04798 15.5521 6.43198 15.3341 5.88398C15.1161 5.33498 14.5921 4.97998 13.9991 4.97998H11.4561C10.8631 4.97998 10.3391 5.33498 10.1201 5.88398C9.90315 6.43298 10.0391 7.04798 10.4311 7.41398C10.6631 7.68598 10.9301 7.93898 11.1951 8.18898C11.6391 8.60798 12.0581 9.00398 12.2161 9.43298L12.3771 9.79398H12.7271L13.1171 9.75998L13.2381 9.43298C13.396 9.00452 13.8151 8.60897 14.2585 8.19055Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 18 icon with style variants.
+class _TimeHourglass18Icon {
+  const _TimeHourglass18Icon();
+
+  /// bulk style
+  _TimeHourglass18Bulk get bulk => const _TimeHourglass18Bulk();
+}
+
+/// Hourglass 18 — bulk style variants.
+class _TimeHourglass18Bulk {
+  const _TimeHourglass18Bulk();
+
+  /// Hourglass 18 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 18',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.0611 11.308C14.5791 11.807 14.5791 12.195 15.0481 12.68C17.0981 14.647 18.4521 15.947 18.5961 17.451C18.6851 18.566 18.3811 19.587 17.7401 20.323C17.1241 21.031 16.2391 21.437 15.1531 21.5L10.2741 21.499C9.21711 21.437 8.33311 21.03 7.71711 20.323C7.07611 19.586 6.77211 18.566 6.86011 17.451C6.86111 17.448 6.86111 17.445 6.86111 17.442C7.00511 15.945 8.35911 14.646 10.3961 12.693C10.8781 12.195 10.8781 11.806 10.4091 11.321C8.35911 9.354 7.00511 8.055 6.86011 6.55C6.77211 5.434 7.07611 4.415 7.71711 3.678C8.33311 2.971 9.21711 2.563 10.3031 2.5L15.1821 2.501C16.2391 2.563 17.1241 2.97 17.7401 3.678C18.3811 4.414 18.6851 5.434 18.5951 6.558C18.4521 8.054 17.0971 9.353 15.0611 11.308Z" fill="black"/> <path d="M14.2585 15.8094L14.2601 15.811C14.5251 16.061 14.7921 16.314 14.9871 16.547C15.4161 16.952 15.5521 17.568 15.3341 18.116C15.1161 18.665 14.5921 19.02 13.9991 19.02H11.4561C10.8631 19.02 10.3391 18.665 10.1201 18.116C9.90315 17.567 10.0391 16.952 10.4311 16.586C10.6631 16.314 10.9301 16.061 11.1951 15.811C11.6391 15.392 12.0581 14.996 12.2161 14.567L12.3771 14.206H12.7271L13.1171 14.24L13.2381 14.567C13.396 14.9955 13.8151 15.391 14.2585 15.8094Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 19 icon with style variants.
+class _TimeHourglass19Icon {
+  const _TimeHourglass19Icon();
+
+  /// bulk style
+  _TimeHourglass19Bulk get bulk => const _TimeHourglass19Bulk();
+}
+
+/// Hourglass 19 — bulk style variants.
+class _TimeHourglass19Bulk {
+  const _TimeHourglass19Bulk();
+
+  /// Hourglass 19 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 19',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.9897 11.9951L7.38974 16.2231C6.87774 16.6971 6.58374 17.3661 6.58374 18.0601V19.0101C6.58374 20.3831 7.70274 21.5001 9.07674 21.5001H16.3797C17.7547 21.5001 18.8727 20.3831 18.8727 19.0101V18.0601C18.8727 17.3661 18.5797 16.6961 18.0667 16.2221L13.4677 11.9951H11.9897Z" fill="black"/> <path opacity="0.4" d="M18.8727 4.99V5.94C18.8727 6.641 18.5777 7.309 18.0627 7.772L13.4677 11.995H11.9897L7.39074 7.768C6.87974 7.308 6.58374 6.641 6.58374 5.94V4.99C6.58374 3.617 7.70274 2.5 9.07674 2.5H16.3797C17.7547 2.5 18.8727 3.617 18.8727 4.99Z" fill="black"/> </svg>',
+    category: 'Time',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 20 icon with style variants.
+class _TimeHourglass20Icon {
+  const _TimeHourglass20Icon();
+
+  /// outline style
+  _TimeHourglass20Outline get outline => const _TimeHourglass20Outline();
+}
+
+/// Hourglass 20 — outline style variants.
+class _TimeHourglass20Outline {
+  const _TimeHourglass20Outline();
+
+  /// Hourglass 20 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 20',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.53029 2.25133C9.54514 2.25044 9.56003 2.25 9.57491 2.25H14.4252C14.4401 2.25 14.4549 2.25044 14.4698 2.25133C15.6809 2.32349 16.6605 2.82453 17.3058 3.6391C17.943 4.44358 18.2027 5.48761 18.1171 6.5678L18.1161 6.57971L18.116 6.5797C18.034 7.4403 17.5954 8.1953 16.9836 8.94349C16.3766 9.68575 15.525 10.5073 14.5041 11.4875C14.2609 11.7444 14.2226 11.9118 14.2226 11.9995C14.2226 12.087 14.2607 12.2544 14.5047 12.5112C15.5254 13.4917 16.3769 14.3136 16.9838 15.0562C17.5955 15.8046 18.034 16.5598 18.116 17.4203L18.1171 17.4322L18.1171 17.4322C18.2027 18.5124 17.943 19.5564 17.3058 20.3609C16.6605 21.1755 15.6809 21.6765 14.4698 21.7487C14.4549 21.7496 14.4401 21.75 14.4252 21.75H9.57491C9.56003 21.75 9.54514 21.7496 9.53029 21.7487C8.31957 21.6765 7.34009 21.1754 6.69475 20.361C6.05738 19.5566 5.79741 18.5126 5.88304 17.4322L5.88399 17.4203L5.88408 17.4203C5.9661 16.5598 6.40462 15.8046 7.01642 15.0561C7.62345 14.3135 8.47509 13.4917 9.49619 12.5113C9.73976 12.2545 9.77794 12.0871 9.77794 11.9995C9.77794 11.9119 9.73976 11.7445 9.49619 11.4877C8.47516 10.5074 7.62351 9.6858 7.0165 8.94349C6.40469 8.1953 5.9661 7.4403 5.88408 6.5797L5.88295 6.56781L5.88304 6.5678C5.79741 5.48745 6.05738 4.44343 6.69475 3.63903C7.34009 2.82458 8.31957 2.3235 9.53029 2.25133ZM9.59832 3.75C8.78027 3.80371 8.22082 4.12837 7.87042 4.57059C7.51001 5.02545 7.31811 5.67261 7.37786 6.44301C7.41985 6.86724 7.6428 7.33981 8.1777 7.99395C8.71745 8.65402 9.49863 9.41058 10.5468 10.4169C10.5541 10.4239 10.5612 10.4311 10.5682 10.4383C10.9834 10.8705 11.2779 11.394 11.2779 11.9995C11.2779 12.605 10.9834 13.1285 10.5682 13.5607C10.5612 13.568 10.5541 13.5751 10.5468 13.5821C9.4987 14.5884 8.71751 15.3452 8.17778 16.0055C7.64287 16.6598 7.41986 17.1327 7.37786 17.557C7.31811 18.3274 7.51001 18.9746 7.87042 19.4294C8.22082 19.8716 8.78026 20.1963 9.59831 20.25H14.4018C15.2204 20.1963 15.7798 19.8716 16.13 19.4295C16.4902 18.9747 16.682 18.3275 16.6222 17.557C16.5802 17.1327 16.3572 16.6598 15.8224 16.0054C15.2827 15.3451 14.5018 14.5883 13.4542 13.582C13.4471 13.5751 13.4401 13.5682 13.4333 13.5611C13.0173 13.1288 12.7226 12.6051 12.7226 11.9995C12.7226 11.3941 13.0171 10.8707 13.4315 10.4387C13.4387 10.4313 13.4459 10.4241 13.4533 10.4169C14.5015 9.41058 15.2826 8.65402 15.8224 7.99395C16.3573 7.33982 16.5802 6.86724 16.6222 6.44302C16.682 5.67245 16.4902 5.0253 16.13 4.57052C15.7798 4.12841 15.2204 3.80372 14.4018 3.75H9.59832Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9993 13.8613C12.3365 13.8613 12.6323 14.0864 12.7222 14.4115C12.7902 14.6575 12.9784 14.9175 13.3271 15.2657C13.4196 15.358 13.5326 15.4644 13.6552 15.5798C13.9161 15.8255 14.2206 16.112 14.4629 16.3912C15.5236 17.4453 14.7812 19.2727 13.271 19.2727H10.7276C9.21749 19.2727 8.47487 17.4454 9.53668 16.3912C9.77903 16.1116 10.0835 15.8249 10.3444 15.5791C10.4666 15.464 10.5793 15.358 10.6715 15.2658C11.0202 14.9175 11.2084 14.6576 11.2764 14.4115C11.3663 14.0864 11.6621 13.8613 11.9993 13.8613ZM11.2821 16.7581C11.053 16.9725 10.8509 17.1617 10.6541 17.3924C10.6369 17.4125 10.6187 17.4317 10.5994 17.4499C10.4764 17.5665 10.5592 17.7727 10.7276 17.7727H13.271C13.4395 17.7727 13.5225 17.5661 13.3997 17.4495C13.3808 17.4316 13.3628 17.4127 13.3459 17.3928C13.1488 17.1622 12.9468 16.9732 12.7179 16.7591C12.5791 16.6292 12.4305 16.4902 12.2672 16.3271C12.1795 16.2395 12.0889 16.1459 11.9993 16.0457C11.9098 16.1459 11.8193 16.2395 11.7317 16.327C11.5688 16.4897 11.4205 16.6285 11.2821 16.7581Z" fill="black"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.outline,
@@ -2108,16 +3895,93 @@ class _TimeHourglassOutline {
 
 }
 
-/// Hourglass — bold style variants.
-class _TimeHourglassBold {
-  const _TimeHourglassBold();
+/// Hourglass 21 icon with style variants.
+class _TimeHourglass21Icon {
+  const _TimeHourglass21Icon();
 
-  /// Hourglass — bold / regular
+  /// outline style
+  _TimeHourglass21Outline get outline => const _TimeHourglass21Outline();
+}
+
+/// Hourglass 21 — outline style variants.
+class _TimeHourglass21Outline {
+  const _TimeHourglass21Outline();
+
+  /// Hourglass 21 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Hourglass',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.3027 5.94V4.99C18.3027 3.617 17.1847 2.5 15.8097 2.5H8.50667C7.13267 2.5 6.01367 3.617 6.01367 4.99V5.94C6.01367 6.641 6.30967 7.308 6.82067 7.768L11.4197 11.995L6.81967 16.223C6.30767 16.697 6.01367 17.366 6.01367 18.06V19.01C6.01367 20.383 7.13267 21.5 8.50667 21.5H15.8097C17.1847 21.5 18.3027 20.383 18.3027 19.01V18.06C18.3027 17.366 18.0097 16.696 17.4967 16.222L12.8977 11.995L17.4927 7.772C18.0077 7.309 18.3027 6.641 18.3027 5.94Z" fill="black"/> </svg>',
+    name: 'Hourglass 21',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.53029 2.25133C9.54514 2.25044 9.56003 2.25 9.57491 2.25H14.4252C14.4401 2.25 14.4549 2.25044 14.4698 2.25133C15.6809 2.32349 16.6605 2.82453 17.3058 3.6391C17.943 4.44358 18.2027 5.48761 18.1171 6.5678L18.1161 6.57971L18.116 6.5797C18.034 7.4403 17.5954 8.1953 16.9836 8.94349C16.3766 9.68575 15.525 10.5073 14.5041 11.4875C14.2609 11.7443 14.2226 11.9119 14.2225 11.9998C14.2225 12.0874 14.2605 12.2548 14.5039 12.5113C15.525 13.4917 16.3766 14.3135 16.9837 15.0561C17.5955 15.8046 18.034 16.5598 18.116 17.4203L18.1171 17.4322L18.1171 17.4322C18.2027 18.5124 17.943 19.5564 17.3058 20.3609C16.6605 21.1755 15.6809 21.6765 14.4698 21.7487C14.4549 21.7496 14.4401 21.75 14.4252 21.75H9.57491C9.56003 21.75 9.54514 21.7496 9.53029 21.7487C8.31957 21.6765 7.34009 21.1754 6.69475 20.361C6.05738 19.5566 5.79741 18.5126 5.88304 17.4322L5.88399 17.4203L5.88408 17.4203C5.9661 16.5598 6.40462 15.8046 7.01642 15.0561C7.62345 14.3135 8.47509 13.4917 9.49619 12.5113C9.73976 12.2545 9.77794 12.0871 9.77794 11.9995C9.77794 11.9119 9.73976 11.7445 9.49619 11.4877C8.47516 10.5074 7.62351 9.6858 7.0165 8.94349C6.40469 8.1953 5.9661 7.4403 5.88408 6.5797L5.88295 6.56781L5.88304 6.5678C5.79741 5.48745 6.05738 4.44343 6.69475 3.63903C7.34009 2.82458 8.31957 2.3235 9.53029 2.25133ZM9.59832 3.75C8.78027 3.80371 8.22082 4.12837 7.87042 4.57059C7.51001 5.02545 7.31811 5.67261 7.37786 6.44301C7.41985 6.86724 7.6428 7.33981 8.1777 7.99395C8.71745 8.65402 9.49863 9.41058 10.5468 10.4169C10.5541 10.4239 10.5612 10.4311 10.5682 10.4383C10.9834 10.8705 11.2779 11.394 11.2779 11.9995C11.2779 12.605 10.9834 13.1285 10.5682 13.5607C10.5612 13.568 10.5541 13.5751 10.5468 13.5821C9.4987 14.5884 8.71751 15.3452 8.17778 16.0055C7.64287 16.6598 7.41986 17.1327 7.37786 17.557C7.31811 18.3274 7.51001 18.9746 7.87042 19.4294C8.22082 19.8716 8.78026 20.1963 9.59831 20.25H14.4018C15.2204 20.1963 15.7798 19.8716 16.13 19.4295C16.4902 18.9747 16.682 18.3275 16.6222 17.557C16.5802 17.1327 16.3572 16.6598 15.8223 16.0055C15.2826 15.3452 14.5014 14.5884 13.4533 13.5821C13.446 13.5751 13.4389 13.568 13.4319 13.5607C13.0165 13.1283 12.7223 12.6047 12.7225 11.9993C12.7227 11.3941 13.017 10.8708 13.4315 10.4387C13.4387 10.4313 13.4459 10.4241 13.4533 10.4169C14.5015 9.41058 15.2826 8.65402 15.8224 7.99395C16.3573 7.33982 16.5802 6.86724 16.6222 6.44302C16.682 5.67245 16.4902 5.0253 16.13 4.57052C15.7798 4.12841 15.2204 3.80372 14.4018 3.75H9.59832Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.39569 18.5778C8.96676 18.7829 8.46616 18.9099 7.83822 18.9099C7.22138 18.9099 6.72189 18.7893 6.29592 18.5828C5.92317 18.4022 5.76741 17.9536 5.94804 17.5809C6.12866 17.2081 6.57727 17.0523 6.95003 17.233C7.15454 17.3321 7.4276 17.4099 7.83822 17.4099C8.24941 17.4099 8.52816 17.3299 8.74872 17.2245C8.98517 17.1115 9.18195 16.9583 9.44929 16.7453C9.45572 16.7402 9.46218 16.735 9.4687 16.7298C9.71819 16.531 10.0351 16.2784 10.4378 16.086C10.8669 15.8809 11.3676 15.7539 11.9957 15.7539C12.6239 15.7539 13.1246 15.8809 13.5537 16.086C13.9563 16.2783 14.2732 16.5309 14.5227 16.7297C14.5292 16.7349 14.5358 16.7401 14.5422 16.7452C14.8096 16.9582 15.0065 17.1114 15.243 17.2245C15.4638 17.3299 15.7427 17.4099 16.1542 17.4099C16.5622 17.4099 16.8396 17.3327 17.0584 17.2295C17.433 17.0529 17.88 17.2134 18.0566 17.5881C18.2332 17.9627 18.0727 18.4096 17.6981 18.5863C17.2689 18.7886 16.7717 18.9099 16.1542 18.9099C15.5261 18.9099 15.0253 18.7829 14.5963 18.5779C14.1937 18.3855 13.8768 18.133 13.6273 17.9341C13.6207 17.9289 13.6142 17.9237 13.6077 17.9186C13.3404 17.7056 13.1435 17.5524 12.9069 17.4394C12.6862 17.3339 12.4072 17.2539 11.9957 17.2539C11.5842 17.2539 11.3053 17.3339 11.0846 17.4394C10.848 17.5524 10.6512 17.7056 10.3839 17.9185C10.3774 17.9237 10.3708 17.9289 10.3642 17.9342C10.1148 18.133 9.79807 18.3854 9.39569 18.5778Z" fill="black"/> </svg> ',
     category: 'Time',
-    style: IconfyStyle.bold,
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 22 icon with style variants.
+class _TimeHourglass22Icon {
+  const _TimeHourglass22Icon();
+
+  /// outline style
+  _TimeHourglass22Outline get outline => const _TimeHourglass22Outline();
+}
+
+/// Hourglass 22 — outline style variants.
+class _TimeHourglass22Outline {
+  const _TimeHourglass22Outline();
+
+  /// Hourglass 22 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 22',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.53032 2.25133C9.54517 2.25044 9.56004 2.25 9.57492 2.25H14.4252C14.4401 2.25 14.455 2.25044 14.4698 2.25133C15.6806 2.3235 16.6598 2.82463 17.305 3.6391C17.9422 4.44346 18.2021 5.48732 18.1171 6.56741L18.1161 6.57971L18.116 6.5797C18.034 7.44023 17.5955 8.19544 16.9837 8.94387C16.3767 9.68647 15.525 10.5083 14.5039 11.4887C14.2602 11.7456 14.2222 11.9128 14.2222 12.0001C14.2222 12.0875 14.2603 12.255 14.5041 12.5125C15.5251 13.4928 16.3766 14.3143 16.9836 15.0565C17.5954 15.8047 18.034 16.5597 18.116 17.4203L18.1172 17.4326L18.1171 17.4326C18.2021 18.5127 17.9422 19.5565 17.305 20.3609C16.6598 21.1754 15.6806 21.6765 14.4698 21.7487C14.455 21.7496 14.4401 21.75 14.4252 21.75H9.57492C9.56004 21.75 9.54517 21.7496 9.53032 21.7487C8.31918 21.6765 7.33962 21.1755 6.69434 20.3609C6.05706 19.5564 5.79743 18.5124 5.88305 17.4322L5.884 17.4203L5.88409 17.4203C5.96611 16.5597 6.4047 15.8047 7.01651 15.0565C7.62344 14.3143 8.47495 13.4929 9.49579 12.5127C9.73924 12.2552 9.77746 12.0876 9.77746 12.0001C9.77746 11.9129 9.73953 11.7458 9.49539 11.4888C8.47468 10.5083 7.62319 9.68644 7.01626 8.94381C6.40462 8.19541 5.96611 7.44021 5.88409 6.5797L5.88296 6.56781L5.88305 6.5678C5.79743 5.48761 6.05706 4.44358 6.69434 3.6391C7.33962 2.82453 8.31918 2.32349 9.53032 2.25133ZM9.59832 3.75C8.77971 3.80372 8.22034 4.12841 7.87013 4.57052C7.50987 5.0253 7.3181 5.67245 7.37787 6.44301C7.41987 6.86733 7.64289 7.34019 8.17772 7.99459C8.71736 8.65489 9.49833 9.41171 10.5459 10.418C10.553 10.4249 10.56 10.4318 10.5668 10.4389C10.9826 10.8711 11.2775 11.3945 11.2775 12.0001C11.2775 12.6054 10.983 13.1287 10.5689 13.5609C10.5617 13.5684 10.5543 13.5758 10.5468 13.5831C9.49864 14.5894 8.71746 15.346 8.17771 16.0061C7.64281 16.6602 7.41986 17.1328 7.37787 17.557C7.3181 18.3276 7.50987 18.9747 7.87013 19.4295C8.22034 19.8716 8.77971 20.1963 9.59832 20.25H14.4018C15.2198 20.1963 15.779 19.8717 16.1293 19.4295C16.4896 18.9746 16.6815 18.3274 16.6222 17.5568C16.5802 17.1326 16.3572 16.6601 15.8224 16.0061C15.2827 15.346 14.5015 14.5894 13.4533 13.5831C13.4459 13.576 13.4387 13.5687 13.4316 13.5613C13.0167 13.1289 12.7222 12.6055 12.7222 12.0001C12.7222 11.3946 13.0169 10.8713 13.4319 10.4393C13.4389 10.432 13.4461 10.4249 13.4533 10.4179C14.5014 9.41162 15.2826 8.6548 15.8223 7.99453C16.3572 7.34025 16.5802 6.86744 16.6222 6.44319C16.6815 5.67261 16.4896 5.02538 16.1293 4.57052C15.779 4.12832 15.2198 3.80371 14.4018 3.75H9.59832Z" fill="black"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 23 icon with style variants.
+class _TimeHourglass23Icon {
+  const _TimeHourglass23Icon();
+
+  /// outline style
+  _TimeHourglass23Outline get outline => const _TimeHourglass23Outline();
+}
+
+/// Hourglass 23 — outline style variants.
+class _TimeHourglass23Outline {
+  const _TimeHourglass23Outline();
+
+  /// Hourglass 23 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 23',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.60547 4.99265C5.60547 3.478 6.83347 2.25 8.34812 2.25H15.6513C17.1659 2.25 18.3939 3.478 18.3939 4.99265V5.93546C18.3939 6.70274 18.0725 7.43522 17.5074 7.95481L13.1081 11.9976L17.5073 16.0402C18.0724 16.5598 18.3939 17.2924 18.3939 18.0597V19.0074C18.3939 20.522 17.1659 21.75 15.6513 21.75H8.34812C6.83347 21.75 5.60547 20.522 5.60547 19.0074V18.0597C5.60547 17.2924 5.92684 16.5599 6.49195 16.0403L10.8913 11.9976L6.4921 7.95494C5.92698 7.43535 5.60547 6.70274 5.60547 5.93546V4.99265ZM11.9997 10.979L16.4922 6.8506C16.4921 6.85064 16.4922 6.85055 16.4922 6.8506C16.7482 6.61516 16.8939 6.28314 16.8939 5.93546V4.99265C16.8939 4.30643 16.3375 3.75 15.6513 3.75H8.34812C7.6619 3.75 7.10547 4.30643 7.10547 4.99265V5.93546C7.10547 6.28314 7.25107 6.61503 7.50706 6.85047C7.50701 6.85042 7.5071 6.85051 7.50706 6.85047L11.9997 10.979ZM11.9997 13.0162L7.5072 17.1445C7.50715 17.1446 7.50725 17.1445 7.5072 17.1445C7.25122 17.38 7.10547 17.712 7.10547 18.0597V19.0074C7.10547 19.6936 7.6619 20.25 8.34812 20.25H15.6513C16.3375 20.25 16.8939 19.6936 16.8939 19.0074V18.0597C16.8939 17.712 16.7483 17.3801 16.4923 17.1447C16.4923 17.1446 16.4924 17.1447 16.4923 17.1447L11.9997 13.0162Z" fill="black"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Hourglass 24 icon with style variants.
+class _TimeHourglass24Icon {
+  const _TimeHourglass24Icon();
+
+  /// outline style
+  _TimeHourglass24Outline get outline => const _TimeHourglass24Outline();
+}
+
+/// Hourglass 24 — outline style variants.
+class _TimeHourglass24Outline {
+  const _TimeHourglass24Outline();
+
+  /// Hourglass 24 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Hourglass 24',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.53029 2.25133C9.54514 2.25044 9.56003 2.25 9.57491 2.25H14.4252C14.4401 2.25 14.4549 2.25044 14.4698 2.25133C15.6809 2.32349 16.6605 2.82453 17.3058 3.6391C17.943 4.44358 18.2027 5.48761 18.1171 6.5678L18.1161 6.57971L18.116 6.5797C18.034 7.4403 17.5954 8.1953 16.9836 8.94349C16.3766 9.68575 15.525 10.5073 14.5041 11.4875C14.2609 11.7444 14.2226 11.9118 14.2226 11.9995C14.2226 12.087 14.2607 12.2544 14.5047 12.5112C15.5254 13.4917 16.3769 14.3136 16.9838 15.0562C17.5955 15.8046 18.034 16.5598 18.116 17.4203L18.1171 17.4322L18.1171 17.4322C18.2027 18.5124 17.943 19.5564 17.3058 20.3609C16.6605 21.1755 15.6809 21.6765 14.4698 21.7487C14.4549 21.7496 14.4401 21.75 14.4252 21.75H9.57491C9.56003 21.75 9.54514 21.7496 9.53029 21.7487C8.31957 21.6765 7.34009 21.1754 6.69475 20.361C6.05738 19.5566 5.79741 18.5126 5.88304 17.4322L5.88399 17.4203L5.88408 17.4203C5.9661 16.5598 6.40462 15.8046 7.01642 15.0561C7.62345 14.3135 8.47509 13.4917 9.49619 12.5113C9.73976 12.2545 9.77794 12.0871 9.77794 11.9995C9.77794 11.9119 9.73976 11.7445 9.49619 11.4877C8.47516 10.5074 7.62351 9.6858 7.0165 8.94349C6.40469 8.1953 5.9661 7.4403 5.88408 6.5797L5.88295 6.56781L5.88304 6.5678C5.79741 5.48745 6.05738 4.44343 6.69475 3.63903C7.34009 2.82458 8.31957 2.3235 9.53029 2.25133ZM9.59832 3.75C8.78027 3.80371 8.22082 4.12837 7.87042 4.57059C7.51001 5.02545 7.31811 5.67261 7.37786 6.44301C7.41985 6.86724 7.6428 7.33981 8.1777 7.99395C8.71745 8.65402 9.49863 9.41058 10.5468 10.4169C10.5541 10.4239 10.5612 10.4311 10.5682 10.4383C10.9834 10.8705 11.2779 11.394 11.2779 11.9995C11.2779 12.605 10.9834 13.1285 10.5682 13.5607C10.5612 13.568 10.5541 13.5751 10.5468 13.5821C9.4987 14.5884 8.71751 15.3452 8.17778 16.0055C7.64287 16.6598 7.41986 17.1327 7.37786 17.557C7.31811 18.3274 7.51001 18.9746 7.87042 19.4294C8.22082 19.8716 8.78026 20.1963 9.59831 20.25H14.4018C15.2204 20.1963 15.7798 19.8716 16.13 19.4295C16.4902 18.9747 16.682 18.3275 16.6222 17.557C16.5802 17.1327 16.3572 16.6598 15.8224 16.0054C15.2827 15.3451 14.5018 14.5883 13.4542 13.582C13.4471 13.5751 13.4401 13.5682 13.4333 13.5611C13.0173 13.1288 12.7226 12.6051 12.7226 11.9995C12.7226 11.3941 13.0171 10.8707 13.4315 10.4387C13.4387 10.4313 13.4459 10.4241 13.4533 10.4169C14.5015 9.41058 15.2826 8.65402 15.8224 7.99395C16.3573 7.33982 16.5802 6.86724 16.6222 6.44302C16.682 5.67245 16.4902 5.0253 16.13 4.57052C15.7798 4.12841 15.2204 3.80372 14.4018 3.75H9.59832Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9993 13.8613C12.3365 13.8613 12.6323 14.0864 12.7222 14.4115C12.7902 14.6575 12.9784 14.9175 13.3271 15.2657C13.4196 15.358 13.5326 15.4644 13.6552 15.5798C13.9161 15.8255 14.2206 16.112 14.4629 16.3912C15.5236 17.4453 14.7812 19.2727 13.271 19.2727H10.7276C9.21749 19.2727 8.47487 17.4454 9.53668 16.3912C9.77903 16.1116 10.0835 15.8249 10.3444 15.5791C10.4666 15.464 10.5793 15.358 10.6715 15.2658C11.0202 14.9175 11.2084 14.6576 11.2764 14.4115C11.3663 14.0864 11.6621 13.8613 11.9993 13.8613ZM11.2821 16.7581C11.053 16.9725 10.8509 17.1617 10.6541 17.3924C10.6369 17.4125 10.6187 17.4317 10.5994 17.4499C10.4764 17.5665 10.5592 17.7727 10.7276 17.7727H13.271C13.4395 17.7727 13.5225 17.5661 13.3997 17.4495C13.3808 17.4316 13.3628 17.4127 13.3459 17.3928C13.1488 17.1622 12.9468 16.9732 12.7179 16.7591C12.5791 16.6292 12.4305 16.4902 12.2672 16.3271C12.1795 16.2395 12.0889 16.1459 11.9993 16.0457C11.9098 16.1459 11.8193 16.2395 11.7317 16.327C11.5688 16.4897 11.4205 16.6285 11.2821 16.7581Z" fill="black"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -2131,8 +3995,6 @@ class _TimeStopwatchStopIcon {
   _TimeStopwatchStopBold get bold => const _TimeStopwatchStopBold();
   /// bulk style
   _TimeStopwatchStopBulk get bulk => const _TimeStopwatchStopBulk();
-  /// light style
-  _TimeStopwatchStopLight get light => const _TimeStopwatchStopLight();
   /// outline style
   _TimeStopwatchStopOutline get outline => const _TimeStopwatchStopOutline();
   /// twoTone style
@@ -2211,21 +4073,6 @@ class _TimeStopwatchStopBold {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.2733 10.9666L12.3333 13.9066C12.1933 14.0566 11.9933 14.1266 11.8033 14.1266C11.6133 14.1266 11.4233 14.0566 11.2733 13.9066C10.9833 13.6166 10.9833 13.1366 11.2733 12.8466L14.2133 9.90658C14.5133 9.61658 14.9833 9.61658 15.2733 9.90658C15.5733 10.1966 15.5733 10.6766 15.2733 10.9666ZM11.8133 5.24658C7.31332 5.24658 3.65332 8.90658 3.65332 13.4066C3.65332 17.9066 7.31332 21.5666 11.8133 21.5666C12.3722 21.5666 12.918 21.5075 13.4453 21.4001C13.6344 21.3615 13.7288 21.1522 13.6618 20.9712C13.5271 20.607 13.4533 20.206 13.4533 19.7766V17.9566C13.4533 16.1566 14.7833 14.7966 16.5533 14.7966H18.4933C18.8288 14.7966 19.149 14.8475 19.4466 14.9422C19.6289 15.0001 19.8328 14.9001 19.8648 14.7115C19.9372 14.2856 19.9733 13.8491 19.9733 13.4066C19.9733 8.90658 16.3133 5.24658 11.8133 5.24658Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.70703 3.81494H13.915C14.329 3.81494 14.665 3.47894 14.665 3.06494C14.665 2.65094 14.329 2.31494 13.915 2.31494H9.70703C9.29303 2.31494 8.95703 2.65094 8.95703 3.06494C8.95703 3.47894 9.29303 3.81494 9.70703 3.81494Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5556 17.5449C16.4506 17.5449 16.2056 17.5449 16.2056 17.9549V19.7749C16.2056 20.1849 16.4506 20.1849 16.5556 20.1849H18.4966C18.6006 20.1849 18.8466 20.1849 18.8466 19.7749V17.9549C18.8466 17.5449 18.6006 17.5449 18.4966 17.5449H16.5556ZM18.4966 21.6849H16.5556C15.4836 21.6849 14.7056 20.8819 14.7056 19.7749V17.9549C14.7056 16.8479 15.4836 16.0449 16.5556 16.0449H18.4966C19.5686 16.0449 20.3466 16.8479 20.3466 17.9549V19.7749C20.3466 20.8819 19.5686 21.6849 18.4966 21.6849Z" fill="black"/> </svg>',
     category: 'Time',
     style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Stopwatch Stop — light style variants.
-class _TimeStopwatchStopLight {
-  const _TimeStopwatchStopLight();
-
-  /// Stopwatch Stop — light / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Stopwatch Stop',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C7.76878 21 4.33789 17.5691 4.33789 13.3379C4.33789 9.10667 7.76878 5.67578 12 5.67578C16.2312 5.67578 19.6621 9.10667 19.6621 13.3379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.89648 3H14.1042" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9902 13.3105L14.9316 10.3691" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4238 16.7305H16.4831C15.8069 16.7305 15.3828 17.2093 15.3828 17.8875V19.7148C15.3828 20.393 15.805 20.8718 16.4831 20.8718H18.4238C19.102 20.8718 19.5241 20.393 19.5241 19.7148V17.8875C19.5241 17.2093 19.102 16.7305 18.4238 16.7305Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
-    category: 'Time',
-    style: IconfyStyle.light,
     type: IconfyType.regular,
   );
 
@@ -2727,6 +4574,29 @@ class _TimeClockExclamationLight {
 
 }
 
+/// Clock exclamation 1 icon with style variants.
+class _TimeClockExclamation1Icon {
+  const _TimeClockExclamation1Icon();
+
+  /// light style
+  _TimeClockExclamation1Light get light => const _TimeClockExclamation1Light();
+}
+
+/// Clock exclamation 1 — light style variants.
+class _TimeClockExclamation1Light {
+  const _TimeClockExclamation1Light();
+
+  /// Clock exclamation 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock exclamation 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9834 12.5463C21.2852 7.58459 17.5081 3.31838 12.5463 3.01665C7.58458 2.71491 3.31837 6.492 3.01664 11.4538C2.71497 16.4145 6.492 20.6817 11.4538 20.9835" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.1543 14.5843L12.3291 12.6861V8.58789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4438 20.9834V20.9214M17.4421 18.5503V16.1674" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Clock half icon with style variants.
 class _TimeClockHalfIcon {
   const _TimeClockHalfIcon();
@@ -2857,6 +4727,29 @@ class _TimeClock12hLight {
   /// Clock 12h — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Clock 12h',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 12H19.379M12 21V19.379M3 12H4.62195M12 3V4.62195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8677 10.8815C12.8677 10.1609 13.4526 9.57593 14.1733 9.57593C14.8939 9.57593 15.4788 10.1609 15.4788 10.8815C15.4788 12.5133 12.8686 12.5133 12.8686 14.4451H15.4788" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.52148 10.3402L10.0791 9.58044V14.4405" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock 12h 1 icon with style variants.
+class _TimeClock12h1Icon {
+  const _TimeClock12h1Icon();
+
+  /// light style
+  _TimeClock12h1Light get light => const _TimeClock12h1Light();
+}
+
+/// Clock 12h 1 — light style variants.
+class _TimeClock12h1Light {
+  const _TimeClock12h1Light();
+
+  /// Clock 12h 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock 12h 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 12H19.379M12 21V19.379M3 12H4.62195M12 3V4.62195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3639 18.3639L17.2177 17.2177M5.63599 18.3639L6.7822 17.2177M5.63599 5.63599L6.78288 6.78288M18.3639 5.63599L17.217 6.78288" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8677 10.8815C12.8677 10.1609 13.4526 9.57593 14.1733 9.57593C14.8939 9.57593 15.4788 10.1609 15.4788 10.8815C15.4788 12.5133 12.8686 12.5133 12.8686 14.4451H15.4788" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.52148 10.3402L10.0791 9.58044V14.4405" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.light,
@@ -2949,6 +4842,29 @@ class _TimeClockEditLight {
   /// Clock edit — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Clock edit',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.1543 14.5843L12.3291 12.6861V8.58789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4031 16.4032L19.3512 19.3513M15.3653 20.3888C14.5504 19.574 14.5504 18.2527 15.3653 17.4379L17.4375 15.3657C18.2524 14.5508 19.5736 14.5508 20.3885 15.3657C21.2034 16.1806 21.2034 17.5018 20.3885 18.3167L18.3163 20.3888C17.5014 21.2037 16.1802 21.2037 15.3653 20.3888Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock edit 1 icon with style variants.
+class _TimeClockEdit1Icon {
+  const _TimeClockEdit1Icon();
+
+  /// light style
+  _TimeClockEdit1Light get light => const _TimeClockEdit1Light();
+}
+
+/// Clock edit 1 — light style variants.
+class _TimeClockEdit1Light {
+  const _TimeClockEdit1Light();
+
+  /// Clock edit 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock edit 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.1543 14.5843L12.3291 12.6861V8.58789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5822 20.8667L15.8539 20.9885C15.3215 21.0778 14.8507 20.6336 14.9087 20.0966L14.9898 19.3451C15.0293 18.9821 15.1812 18.6411 15.4236 18.3686L18.5967 14.9055C18.9725 14.4996 19.6046 14.4752 20.0093 14.851L20.6797 15.4703C21.0845 15.8461 21.1088 16.4781 20.7342 16.8829L17.5959 20.3089C17.3314 20.6035 16.9731 20.8006 16.5822 20.8667Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.light,
@@ -3409,7 +5325,191 @@ class _TimeClockCircleLight {
   /// Clock circle — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Clock circle',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.8677 10.8815C12.8677 10.1609 13.4526 9.57593 14.1733 9.57593C14.8939 9.57593 15.4788 10.1609 15.4788 10.8815C15.4788 12.5133 12.8686 12.5133 12.8686 14.4451H15.4788" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.52148 10.3402L10.0791 9.58044V14.4405" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9981 3V3.01359M11.9981 20.9864V21M21.0049 11.9932H20.9913M3.01848 11.9932H3.00488M18.3641 5.63122L18.3545 5.64084M5.64577 18.3495L5.63616 18.3591M18.3737 18.3591L18.3641 18.3495M5.65539 5.64083L5.64577 5.63122" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock circle 1 icon with style variants.
+class _TimeClockCircle1Icon {
+  const _TimeClockCircle1Icon();
+
+  /// light style
+  _TimeClockCircle1Light get light => const _TimeClockCircle1Light();
+}
+
+/// Clock circle 1 — light style variants.
+class _TimeClockCircle1Light {
+  const _TimeClockCircle1Light();
+
+  /// Clock circle 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock circle 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.998 3V3.01359M21.0048 11.9932H20.9912M18.364 5.63122L18.3544 5.64084" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.231 14.5072H14.01C14.7215 14.5072 15.2986 13.9301 15.2986 13.2187C15.2986 12.5072 14.7215 11.931 14.01 11.931H12.231V9.49292H15.0537" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.92578 10.2768L9.53283 9.49292V14.5072" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.47464 3.99231C4.79906 5.55219 3.00098 8.45288 3.00098 11.7732C3.00098 16.7433 7.02983 20.7732 12 20.7732C15.1 20.7732 17.8336 19.206 19.4523 16.8209" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock circle 2 icon with style variants.
+class _TimeClockCircle2Icon {
+  const _TimeClockCircle2Icon();
+
+  /// light style
+  _TimeClockCircle2Light get light => const _TimeClockCircle2Light();
+}
+
+/// Clock circle 2 — light style variants.
+class _TimeClockCircle2Light {
+  const _TimeClockCircle2Light();
+
+  /// Clock circle 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock circle 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.10889 10.8815C8.10889 10.1609 8.69384 9.57593 9.41448 9.57593C10.1351 9.57593 10.72 10.1609 10.72 10.8815C10.72 12.5133 8.10978 12.5133 8.10978 14.4451H10.72" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9477 14.4434V11.9992M15.8909 13.3302H12.2334L14.4663 9.46265" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9981 3V3.01359M11.9981 20.9864V21M21.0049 11.9932H20.9913M3.01848 11.9932H3.00488M18.3641 5.63122L18.3545 5.64084M5.64577 18.3495L5.63616 18.3591M18.3737 18.3591L18.3641 18.3495M5.65539 5.64083L5.64577 5.63122" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock circle 3 icon with style variants.
+class _TimeClockCircle3Icon {
+  const _TimeClockCircle3Icon();
+
+  /// light style
+  _TimeClockCircle3Light get light => const _TimeClockCircle3Light();
+}
+
+/// Clock circle 3 — light style variants.
+class _TimeClockCircle3Light {
+  const _TimeClockCircle3Light();
+
+  /// Clock circle 3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock circle 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.60151 5.62524C3.99979 7.2266 3.00488 9.46549 3.00488 11.9429C3.00488 14.4204 3.99979 16.6593 5.60151 18.2606" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0842 10.9138V13.0863C13.0842 13.871 13.7203 14.5071 14.505 14.5071C15.2897 14.5071 15.9258 13.871 15.9258 13.0863V10.9138C15.9258 10.1291 15.2897 9.49304 14.505 9.49304C13.7203 9.49304 13.0842 10.1291 13.0842 10.9138Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.12708 14.0537C8.40717 14.3338 8.79395 14.5072 9.22158 14.5072C10.076 14.5072 10.7679 13.8153 10.7679 12.9609C10.7679 12.1073 10.076 11.4146 9.22158 11.4146L10.7721 9.49316H8.07373" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.998 3V3.01359M11.998 20.9864V21M21.0048 11.9932H20.9912M18.364 5.63122L18.3544 5.64084M18.3737 18.3591L18.364 18.3495" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock circle 4 icon with style variants.
+class _TimeClockCircle4Icon {
+  const _TimeClockCircle4Icon();
+
+  /// light style
+  _TimeClockCircle4Light get light => const _TimeClockCircle4Light();
+}
+
+/// Clock circle 4 — light style variants.
+class _TimeClockCircle4Light {
+  const _TimeClockCircle4Light();
+
+  /// Clock circle 4 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock circle 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.00488 11.9429C3.00488 9.46549 3.99979 7.2266 5.60151 5.62524" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9933 3V3.01359M11.9933 20.9864V21M21.0001 11.9932H20.9865M18.3593 5.63122L18.3497 5.64084M5.64096 18.3495L5.63135 18.3591M18.3689 18.3591L18.3593 18.3495" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3912 14.5073V13.3654M10.3912 13.3654H11.3586M10.3912 13.3654H7.60693L10.3912 9.49292V13.3654Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5291 14.3409H15.1901C15.8543 14.3409 16.3931 13.8022 16.3931 13.1379C16.3931 12.4737 15.8543 11.9357 15.1901 11.9357H13.5291V9.65942H16.1645" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock circle 5 icon with style variants.
+class _TimeClockCircle5Icon {
+  const _TimeClockCircle5Icon();
+
+  /// light style
+  _TimeClockCircle5Light get light => const _TimeClockCircle5Light();
+}
+
+/// Clock circle 5 — light style variants.
+class _TimeClockCircle5Light {
+  const _TimeClockCircle5Light();
+
+  /// Clock circle 5 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock circle 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.9981 3V3.01359M11.9981 20.9864V21M21.0049 11.9932H20.9913M3.01848 11.9932H3.00488M18.3641 5.63122L18.3545 5.64084M5.64577 18.3495L5.63616 18.3591M18.3737 18.3591L18.3641 18.3495M5.65539 5.64083L5.64577 5.63122" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.1602 10.9139V13.0864C13.1602 13.8711 13.7963 14.5073 14.581 14.5073C15.3657 14.5073 16.0018 13.8711 16.0018 13.0864V10.9139C16.0018 10.1292 15.3657 9.49304 14.581 9.49304C13.7963 9.49304 13.1602 10.1292 13.1602 10.9139Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.4013 9.49292H9.94411C8.86962 9.49292 7.99854 10.364 7.99854 11.4385V12.8536" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.9985 13.0072C10.9985 13.8355 10.327 14.507 9.49863 14.507C8.67029 14.507 7.99878 13.8355 7.99878 13.0072C7.99878 12.1788 8.67029 11.5073 9.49863 11.5073C10.327 11.5073 10.9985 12.1788 10.9985 13.0072Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock circle 6 icon with style variants.
+class _TimeClockCircle6Icon {
+  const _TimeClockCircle6Icon();
+
+  /// light style
+  _TimeClockCircle6Light get light => const _TimeClockCircle6Light();
+}
+
+/// Clock circle 6 — light style variants.
+class _TimeClockCircle6Light {
+  const _TimeClockCircle6Light();
+
+  /// Clock circle 6 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock circle 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0001 17.6017C15.0941 17.6017 17.6018 15.0933 17.6018 12C17.6018 8.90605 15.0941 6.39832 12.0001 6.39832C8.90618 6.39832 6.39844 8.90605 6.39844 12C6.39844 15.0933 8.90618 17.6017 12.0001 17.6017Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.7717 13.6006L11.7957 12.4198V9.86902" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock circle 7 icon with style variants.
+class _TimeClockCircle7Icon {
+  const _TimeClockCircle7Icon();
+
+  /// light style
+  _TimeClockCircle7Light get light => const _TimeClockCircle7Light();
+}
+
+/// Clock circle 7 — light style variants.
+class _TimeClockCircle7Light {
+  const _TimeClockCircle7Light();
+
+  /// Clock circle 7 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock circle 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0841 10.5291C13.6829 11.1279 13.6829 12.099 13.0841 12.6978C12.4853 13.2966 11.5142 13.2966 10.9154 12.6978C10.3166 12.099 10.3166 11.1279 10.9154 10.5291C11.5142 9.93026 12.4853 9.93026 13.0841 10.5291Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0405 12.8134L15.0181 14.7908" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 10.08L12.002 6.50757" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock circle 8 icon with style variants.
+class _TimeClockCircle8Icon {
+  const _TimeClockCircle8Icon();
+
+  /// light style
+  _TimeClockCircle8Light get light => const _TimeClockCircle8Light();
+}
+
+/// Clock circle 8 — light style variants.
+class _TimeClockCircle8Light {
+  const _TimeClockCircle8Light();
+
+  /// Clock circle 8 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock circle 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0841 10.5291C13.6829 11.1279 13.6829 12.099 13.0841 12.6978C12.4853 13.2966 11.5142 13.2966 10.9154 12.6978C10.3166 12.099 10.3166 11.1279 10.9154 10.5291C11.5142 9.93026 12.4853 9.93026 13.0841 10.5291Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0405 12.8134L15.0181 14.7908" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 10.08L12.002 6.50757" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -3900,6 +6000,29 @@ class _TimeClockCancelLight {
 
 }
 
+/// Clock cancel 1 icon with style variants.
+class _TimeClockCancel1Icon {
+  const _TimeClockCancel1Icon();
+
+  /// light style
+  _TimeClockCancel1Light get light => const _TimeClockCancel1Light();
+}
+
+/// Clock cancel 1 — light style variants.
+class _TimeClockCancel1Light {
+  const _TimeClockCancel1Light();
+
+  /// Clock cancel 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock cancel 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.1543 14.5843L12.3291 12.6861V8.58789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0001 17.7926C21.0001 19.564 19.5641 21 17.7919 21C16.0205 21 14.5845 19.564 14.5845 17.7926C14.5845 16.0212 16.0205 14.5844 17.7919 14.5844C19.5641 14.5844 21.0001 16.0212 21.0001 17.7926Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.5662 15.5663L20.0182 20.0181" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Clock slice icon with style variants.
 class _TimeClockSliceIcon {
   const _TimeClockSliceIcon();
@@ -4007,6 +6130,29 @@ class _TimeClockSquareDoneLight {
   /// Clock square done — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Clock square done',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.22021 7.71088L6.22021 4.04797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.8306 7.71088L17.8306 4.04797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2542 16.4943C15.3839 16.4943 14.678 15.7883 14.678 14.918V12.7456C14.678 11.8744 15.3839 11.1685 16.2542 11.1685C17.1245 11.1685 17.8305 11.8744 17.8305 12.7456V14.918C17.8305 15.7883 17.1245 16.4943 16.2542 16.4943Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.74567 16.4943C6.87537 16.4943 6.16943 15.7883 6.16943 14.918V12.7456C6.16943 11.8744 6.87537 11.1685 7.74567 11.1685C8.61597 11.1685 9.32191 11.8744 9.32191 12.7456V14.918C9.32191 15.7883 8.61597 16.4943 7.74567 16.4943Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 12.5243V12.5343" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 15.1284V15.1384" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5366 7.71094H6.46965C4.33345 7.71094 3 8.90051 3 11.087V16.5138C3 18.7349 4.33345 19.952 6.46965 19.952H17.5303C19.6728 19.952 21 18.7561 21 16.5688V11.087C21.0063 8.90051 19.6791 7.71094 17.5366 7.71094Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9999 4.04797H3.00635" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock square done 1 icon with style variants.
+class _TimeClockSquareDone1Icon {
+  const _TimeClockSquareDone1Icon();
+
+  /// light style
+  _TimeClockSquareDone1Light get light => const _TimeClockSquareDone1Light();
+}
+
+/// Clock square done 1 — light style variants.
+class _TimeClockSquareDone1Light {
+  const _TimeClockSquareDone1Light();
+
+  /// Clock square done 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock square done 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.22021 7.711L6.22021 4.0481" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.8306 7.711L17.8306 4.0481" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5366 7.71094H6.46965C4.33345 7.71094 3 8.90051 3 11.087V16.5138C3 18.7349 4.33345 19.952 6.46965 19.952H17.5303C19.6728 19.952 21 18.7561 21 16.5688V11.087C21.0063 8.90051 19.6791 7.71094 17.5366 7.71094Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9999 4.0481H3.00635" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.2097 15.9164L8.8374 13.3921" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2749 16.4388L14.1443 11.2241" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.light,
@@ -4053,6 +6199,29 @@ class _TimeClockSquareLight {
   /// Clock square — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Clock square',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0001 17.6017C15.0941 17.6017 17.6018 15.0933 17.6018 12C17.6018 8.90605 15.0941 6.39832 12.0001 6.39832C8.90618 6.39832 6.39844 8.90605 6.39844 12C6.39844 15.0933 8.90618 17.6017 12.0001 17.6017Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.7717 13.6006L11.7957 12.4198V9.86902" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83308 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock square 1 icon with style variants.
+class _TimeClockSquare1Icon {
+  const _TimeClockSquare1Icon();
+
+  /// light style
+  _TimeClockSquare1Light get light => const _TimeClockSquare1Light();
+}
+
+/// Clock square 1 — light style variants.
+class _TimeClockSquare1Light {
+  const _TimeClockSquare1Light();
+
+  /// Clock square 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock square 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83308 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0844 10.9157C13.6832 11.5145 13.6832 12.4856 13.0844 13.0844C12.4856 13.6832 11.5145 13.6832 10.9157 13.0844C10.3169 12.4856 10.3169 11.5145 10.9157 10.9157C11.5145 10.3169 12.4856 10.3169 13.0844 10.9157Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0405 13.2L15.0181 15.1774" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 10.4665L12.002 6.89404" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.light,
@@ -4590,6 +6759,29 @@ class _TimeClockRetroDeskLight {
 
 }
 
+/// Clock retro desk 1 icon with style variants.
+class _TimeClockRetroDesk1Icon {
+  const _TimeClockRetroDesk1Icon();
+
+  /// light style
+  _TimeClockRetroDesk1Light get light => const _TimeClockRetroDesk1Light();
+}
+
+/// Clock retro desk 1 — light style variants.
+class _TimeClockRetroDesk1Light {
+  const _TimeClockRetroDesk1Light();
+
+  /// Clock retro desk 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock retro desk 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0003 16.8647C14.8319 16.8647 17.127 14.569 17.127 11.7379C17.127 8.90632 14.8319 6.61121 12.0003 6.61121C9.16865 6.61121 6.87354 8.90632 6.87354 11.7379C6.87354 14.569 9.16865 16.8647 12.0003 16.8647Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9999 3C7.17373 3 3.26196 6.91177 3.26196 11.7379V18.75C3.26196 19.9926 4.26932 21 5.51196 21H18.4879C19.7305 21 20.7379 19.9926 20.7379 18.75V11.7379C20.7379 6.91177 16.8261 3 11.9999 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6212 13.2028L11.8127 12.1221V9.7876" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Clock analog icon with style variants.
 class _TimeClockAnalogIcon {
   const _TimeClockAnalogIcon();
@@ -4628,6 +6820,29 @@ class _TimeClockCheckLight {
   /// Clock check — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Clock check',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle cx="16.3839" cy="16.0797" r="4.65387" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5518 16.223L15.7559 17.4291L18.2368 14.9468" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4903 8.54494C16.7768 5.24519 13.8413 2.77319 10.3279 2.77319C6.28053 2.77319 3 6.05372 3 10.1011C3 13.6678 5.54855 16.6399 8.92445 17.2948" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.01099 12.2052L10.596 10.6597V7.32288" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock check 1 icon with style variants.
+class _TimeClockCheck1Icon {
+  const _TimeClockCheck1Icon();
+
+  /// light style
+  _TimeClockCheck1Light get light => const _TimeClockCheck1Light();
+}
+
+/// Clock check 1 — light style variants.
+class _TimeClockCheck1Light {
+  const _TimeClockCheck1Light();
+
+  /// Clock check 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock check 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle cx="16.3839" cy="16.0797" r="4.65387" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5518 16.223L15.7559 17.4291L18.2368 14.9468" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4903 8.54494C16.7768 5.24519 13.8413 2.77319 10.3279 2.77319C6.28053 2.77319 3 6.05372 3 10.1011C3 13.6678 5.54855 16.6399 8.92445 17.2948" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.01099 12.2052L10.596 10.6597V7.32288" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.light,
@@ -5510,6 +7725,29 @@ class _TimeClockLoopLight {
 
 }
 
+/// Stopwatch off icon with style variants.
+class _TimeStopwatchOff1Icon {
+  const _TimeStopwatchOff1Icon();
+
+  /// light style
+  _TimeStopwatchOff1Light get light => const _TimeStopwatchOff1Light();
+}
+
+/// Stopwatch off — light style variants.
+class _TimeStopwatchOff1Light {
+  const _TimeStopwatchOff1Light();
+
+  /// Stopwatch off — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Stopwatch off',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.36642 8.14417C5.12639 9.49418 4.36816 11.3075 4.36816 13.296C4.36816 17.5145 7.78165 20.9289 12.0001 20.9289C13.9886 20.9289 15.7932 20.1697 17.1432 18.9209" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.70898 3H13.9527" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.67773 6.02712C10.4087 5.79644 11.1952 5.66602 12.0001 5.66602C16.2088 5.66602 19.6311 9.08047 19.6311 13.2979C19.6311 14.1029 19.5016 14.8893 19.2709 15.6203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7656 7.34863C17.3404 6.77391 17.6626 6.45168 18.2373 5.87695" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.2183 20.9996L4.66016 6.44141" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Stopwatch turbo icon with style variants.
 class _TimeStopwatchTurboIcon {
   const _TimeStopwatchTurboIcon();
@@ -5717,6 +7955,52 @@ class _TimeClockSleepLight {
 
 }
 
+/// Clock sleep 1 icon with style variants.
+class _TimeClockSleep1Icon {
+  const _TimeClockSleep1Icon();
+
+  /// light style
+  _TimeClockSleep1Light get light => const _TimeClockSleep1Light();
+}
+
+/// Clock sleep 1 — light style variants.
+class _TimeClockSleep1Light {
+  const _TimeClockSleep1Light();
+
+  /// Clock sleep 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock sleep 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9418 13.4497C20.2491 17.7308 16.5352 21 12.0576 21C7.08767 21 3.05762 16.9709 3.05762 12C3.05762 7.02908 7.08767 3 12.0576 3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.9053 14.5716L11.7305 12.6743V8.57617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.6797 4.62109H20.1697L16.6797 8.47018H20.1697" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock sleep 2 icon with style variants.
+class _TimeClockSleep2Icon {
+  const _TimeClockSleep2Icon();
+
+  /// light style
+  _TimeClockSleep2Light get light => const _TimeClockSleep2Light();
+}
+
+/// Clock sleep 2 — light style variants.
+class _TimeClockSleep2Light {
+  const _TimeClockSleep2Light();
+
+  /// Clock sleep 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock sleep 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.9367 20.0631C17.3902 20.0631 20.9999 16.4526 20.9999 12C20.9999 7.54646 17.3902 3.93677 12.9367 3.93677C8.48323 3.93677 4.87354 7.54646 4.87354 12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4872 14.304L12.6428 12.6042V8.93262" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 14.5966H5.87475L3 17.767H5.87475" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.69775 17.1752H10.1773L7.69775 19.9098H10.1773" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Clock soon icon with style variants.
 class _TimeClockSoonIcon {
   const _TimeClockSoonIcon();
@@ -5832,6 +8116,29 @@ class _TimeStopwatchStartLight {
 
 }
 
+/// Stopwatch start 1 icon with style variants.
+class _TimeStopwatchStart1Icon {
+  const _TimeStopwatchStart1Icon();
+
+  /// light style
+  _TimeStopwatchStart1Light get light => const _TimeStopwatchStart1Light();
+}
+
+/// Stopwatch start 1 — light style variants.
+class _TimeStopwatchStart1Light {
+  const _TimeStopwatchStart1Light();
+
+  /// Stopwatch start 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Stopwatch start 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.9996 21C16.0625 21 19.3553 17.7063 19.3553 13.6443C19.3553 9.58134 16.0625 6.28857 11.9996 6.28857C7.93754 6.28857 4.64478 9.58134 4.64478 13.6443C4.64478 17.7063 7.93754 21 11.9996 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2749 8.49479L18.9123 6.85742" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0001 15.0019C12.75 15.0019 13.3577 14.394 13.3577 13.6443C13.3577 12.8944 12.75 12.2866 12.0001 12.2866C11.2503 12.2866 10.6426 12.8944 10.6426 13.6443C10.6426 14.394 11.2503 15.0019 12.0001 15.0019Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0003 6.28861C12.9085 6.28861 13.6446 5.55233 13.6446 4.6443C13.6446 3.73607 12.9085 3 12.0003 3C11.0923 3 10.3562 3.73607 10.3562 4.6443C10.3562 5.55233 11.0923 6.28861 12.0003 6.28861Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0002 12.7349L15.2254 10.5095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.3066 13.5956H17.9905M11.9996 20.9025V19.5865M4.69263 13.5956H6.00946M11.9996 6.28857V7.60541" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Clock refresh icon with style variants.
 class _TimeClockRefreshIcon {
   const _TimeClockRefreshIcon();
@@ -5847,6 +8154,29 @@ class _TimeClockRefreshLight {
   /// Clock refresh — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Clock refresh',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.2641 3.27344L19.4642 6.68091L16.0762 6.8799" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9992 11.9996C20.9992 16.97 16.97 20.9992 11.9996 20.9992C7.02926 20.9992 3 16.97 3 11.9996C3 7.02926 7.02926 3 11.9996 3C14.9722 3 17.6082 4.44119 19.2469 6.66296" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.8467 14.7984L11.6719 12.9011V8.80298" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock refresh 1 icon with style variants.
+class _TimeClockRefresh1Icon {
+  const _TimeClockRefresh1Icon();
+
+  /// light style
+  _TimeClockRefresh1Light get light => const _TimeClockRefresh1Light();
+}
+
+/// Clock refresh 1 — light style variants.
+class _TimeClockRefresh1Light {
+  const _TimeClockRefresh1Light();
+
+  /// Clock refresh 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock refresh 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.3879 12.7877H12.3968V9.09216" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6758 19.9527C13.1338 20.0668 12.5718 20.1269 11.9958 20.1269C11.9958 20.1269 10.7183 20.1733 9.14167 19.7508L8.53052 20.9379L5.56104 16.3225L11.0562 16.0337L10.2971 17.5061C11.5064 17.8254 12.7318 17.8434 13.894 17.6065" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.98835 13.4298C3.19861 9.00479 6.1451 4.77809 10.5701 3.98835C14.9951 3.19861 19.2218 6.1451 20.0115 10.5701C20.8011 14.9942 17.8548 19.2218 13.4298 20.0115" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.light,
@@ -6054,6 +8384,29 @@ class _TimeClockPercentLight {
   /// Clock percent — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Clock percent',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.1543 14.5843L12.3291 12.6861V8.58789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.384 20.8802L20.9311 16.3331" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.8191 20.8083V20.853M21.0001 20.8179C21.0001 20.9185 20.9185 21 20.818 21C20.7174 21 20.636 20.9185 20.636 20.8179C20.636 20.7174 20.7174 20.6359 20.818 20.6359C20.9185 20.6359 21.0001 20.7174 21.0001 20.8179Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3953 16.3845V16.4291M16.5762 16.3941C16.5762 16.4946 16.4947 16.5761 16.3941 16.5761C16.2936 16.5761 16.2122 16.4946 16.2122 16.3941C16.2122 16.2935 16.2936 16.212 16.3941 16.212C16.4947 16.212 16.5762 16.2935 16.5762 16.3941Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock percent 1 icon with style variants.
+class _TimeClockPercent1Icon {
+  const _TimeClockPercent1Icon();
+
+  /// light style
+  _TimeClockPercent1Light get light => const _TimeClockPercent1Light();
+}
+
+/// Clock percent 1 — light style variants.
+class _TimeClockPercent1Light {
+  const _TimeClockPercent1Light();
+
+  /// Clock percent 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock percent 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.1543 14.5843L12.3291 12.6861V8.58789" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.384 20.8802L20.9311 16.3331" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.8191 20.8083V20.853M21.0001 20.8179C21.0001 20.9185 20.9185 21 20.818 21C20.7174 21 20.636 20.9185 20.636 20.8179C20.636 20.7174 20.7174 20.6359 20.818 20.6359C20.9185 20.6359 21.0001 20.7174 21.0001 20.8179Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3953 16.3845V16.4291M16.5762 16.3941C16.5762 16.4946 16.4947 16.5761 16.3941 16.5761C16.2936 16.5761 16.2122 16.4946 16.2122 16.3941C16.2122 16.2935 16.2936 16.212 16.3941 16.212C16.4947 16.212 16.5762 16.2935 16.5762 16.3941Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.light,
@@ -6361,6 +8714,29 @@ class _TimeClockDottedLight {
 
 }
 
+/// Clock dotted 1 icon with style variants.
+class _TimeClockDotted1Icon {
+  const _TimeClockDotted1Icon();
+
+  /// light style
+  _TimeClockDotted1Light get light => const _TimeClockDotted1Light();
+}
+
+/// Clock dotted 1 — light style variants.
+class _TimeClockDotted1Light {
+  const _TimeClockDotted1Light();
+
+  /// Clock dotted 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dotted 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.18203 3.48162L9.17619 3.49135" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.36611 6.08123L5.36028 6.09096" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.31948 10.2278L3.31365 10.2376" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.56265 14.7962L3.55681 14.8059" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.05215 18.5898L6.04631 18.5985" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.1816 3C17.1525 3.00681 21.1758 7.04173 21.169 12.0126C21.1622 16.9836 17.1272 21.0068 12.1563 21C11.0209 20.998 9.93503 20.7869 8.93579 20.4016" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3116 13.9805L12 12.0015V7.72681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Clock lock icon with style variants.
 class _TimeClockLockIcon {
   const _TimeClockLockIcon();
@@ -6637,6 +9013,52 @@ class _TimeClockHandsLight {
 
 }
 
+/// Clock hands 1 icon with style variants.
+class _TimeClockHands1Icon {
+  const _TimeClockHands1Icon();
+
+  /// light style
+  _TimeClockHands1Light get light => const _TimeClockHands1Light();
+}
+
+/// Clock hands 1 — light style variants.
+class _TimeClockHands1Light {
+  const _TimeClockHands1Light();
+
+  /// Clock hands 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock hands 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.9983 3V3.01359M11.9983 20.9864V21M21.0051 11.9932H20.9915M3.01872 11.9932H3.00513M18.3643 5.63122L18.3547 5.64084M5.64601 18.3495L5.6364 18.3591M18.3739 18.3591L18.3643 18.3495M5.65563 5.64083L5.64602 5.63122" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.3324 12.6876L8.64844 9.98328" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2593 13.2471L14.3332 7.66077" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock hands 2 icon with style variants.
+class _TimeClockHands2Icon {
+  const _TimeClockHands2Icon();
+
+  /// light style
+  _TimeClockHands2Light get light => const _TimeClockHands2Light();
+}
+
+/// Clock hands 2 — light style variants.
+class _TimeClockHands2Light {
+  const _TimeClockHands2Light();
+
+  /// Clock hands 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock hands 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.9983 3V3.01359M11.9983 20.9864V21M21.0051 11.9932H20.9915M3.01872 11.9932H3.00513M18.3643 5.63122L18.3547 5.64084M5.64601 18.3495L5.6364 18.3591M18.3739 18.3591L18.3643 18.3495M5.65563 5.64083L5.64602 5.63122" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.1797 13.8949L12.0049 11.9976V7.89941" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Hourglass narrow icon with style variants.
 class _TimeHourglassNarrowIcon {
   const _TimeHourglassNarrowIcon();
@@ -6890,6 +9312,29 @@ class _TimeStopwatchCircleLight {
 
 }
 
+/// Stopwatch circle 1 icon with style variants.
+class _TimeStopwatchCircle1Icon {
+  const _TimeStopwatchCircle1Icon();
+
+  /// light style
+  _TimeStopwatchCircle1Light get light => const _TimeStopwatchCircle1Light();
+}
+
+/// Stopwatch circle 1 — light style variants.
+class _TimeStopwatchCircle1Light {
+  const _TimeStopwatchCircle1Light();
+
+  /// Stopwatch circle 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Stopwatch circle 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.2322 21 19.6621 17.5691 19.6621 13.3379C19.6621 9.1057 16.2322 5.67578 12 5.67578C7.76878 5.67578 4.33887 9.1057 4.33887 13.3379C4.33887 17.5691 7.76878 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.7679 9.69519C15.8659 10.5307 16.5747 11.8514 16.5747 13.3379C16.5747 15.864 14.5269 17.9124 12.0002 17.9124C9.47402 17.9124 7.42627 15.864 7.42627 13.3379C7.42627 11.8514 8.13499 10.5307 9.2329 9.69519" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4951 7.97388L19.2007 6.26831" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0024 13.4307L12.0024 8.76343" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.89844 3H14.1062" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Timer arrow-up icon with style variants.
 class _TimeTimerArrowUpIcon {
   const _TimeTimerArrowUpIcon();
@@ -6997,6 +9442,29 @@ class _TimeClockQuestionLight {
   /// Clock question — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Clock question',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.99536 21C12.5427 21 15.418 18.1241 15.418 14.5774C15.418 11.03 12.5427 8.15479 8.99536 8.15479C5.448 8.15479 2.57275 11.03 2.57275 14.5774C2.57275 18.1241 5.448 21 8.99536 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.3583 15.9908L8.99512 14.5785V11.528" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.9592 10.8557L18.9655 10.8929" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.9598 8.57058C18.9489 7.73586 19.7082 7.38247 20.273 7.05989C20.9609 6.68068 21.4274 6.07612 21.4274 5.23838C21.4274 3.9966 20.4229 3 19.189 3C17.9472 3 16.9507 3.9966 16.9507 5.23838" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock question 1 icon with style variants.
+class _TimeClockQuestion1Icon {
+  const _TimeClockQuestion1Icon();
+
+  /// light style
+  _TimeClockQuestion1Light get light => const _TimeClockQuestion1Light();
+}
+
+/// Clock question 1 — light style variants.
+class _TimeClockQuestion1Light {
+  const _TimeClockQuestion1Light();
+
+  /// Clock question 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock question 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.99536 21C12.5427 21 15.418 18.1241 15.418 14.5774C15.418 11.03 12.5427 8.15479 8.99536 8.15479C5.448 8.15479 2.57275 11.03 2.57275 14.5774C2.57275 18.1241 5.448 21 8.99536 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.3583 15.9908L8.99512 14.5785V11.528" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.9592 10.8557L18.9655 10.8929" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.9598 8.57058C18.9489 7.73586 19.7082 7.38247 20.273 7.05989C20.9609 6.68068 21.4274 6.07612 21.4274 5.23838C21.4274 3.9966 20.4229 3 19.189 3C17.9472 3 16.9507 3.9966 16.9507 5.23838" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.light,
@@ -7350,6 +9818,29 @@ class _TimeStopwatchCheckLight {
 
 }
 
+/// Stopwatch check 1 icon with style variants.
+class _TimeStopwatchCheck1Icon {
+  const _TimeStopwatchCheck1Icon();
+
+  /// light style
+  _TimeStopwatchCheck1Light get light => const _TimeStopwatchCheck1Light();
+}
+
+/// Stopwatch check 1 — light style variants.
+class _TimeStopwatchCheck1Light {
+  const _TimeStopwatchCheck1Light();
+
+  /// Stopwatch check 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Stopwatch check 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.9986 21C16.1159 21 19.4527 17.6622 19.4527 13.5458C19.4527 9.4285 16.1159 6.09167 11.9986 6.09167C7.88223 6.09167 4.54541 9.4285 4.54541 13.5458C4.54541 17.6622 7.88223 21 11.9986 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3447 8.32749L19.004 6.66821" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.65479 8.32749L4.99551 6.66821" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3804 5.98743L19.6753 7.28223" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.61914 5.98743L4.32421 7.28223" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9994 14.9217C12.7594 14.9217 13.3753 14.3056 13.3753 13.5459C13.3753 12.7859 12.7594 12.17 11.9994 12.17C11.2397 12.17 10.6238 12.7859 10.6238 13.5459C10.6238 14.3056 11.2397 14.9217 11.9994 14.9217Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0132 12.6242L15.2681 10.3691" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.69336 3H14.0383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Clock sync icon with style variants.
 class _TimeClockSyncIcon {
   const _TimeClockSyncIcon();
@@ -7365,6 +9856,29 @@ class _TimeClockSyncLight {
   /// Clock sync — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Clock sync',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.00792 19.4389L4.00537 16.502L6.92557 16.4995" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.9921 4.42991L19.9946 7.36676L17.0744 7.36926" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.61719 16.9049C7.25213 20.9624 12.6621 22.1845 16.7936 19.6215C19.3808 18.017 20.8608 15.3033 20.9999 12.4767" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.3828 6.96389C16.7479 2.90639 11.3379 1.68429 7.2064 4.24729C4.6192 5.85179 3.1392 8.56549 3.0001 11.3921" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 16.1047C14.2671 16.1047 16.1047 14.2667 16.1047 12C16.1047 9.73285 14.2671 7.89526 12 7.89526C9.73285 7.89526 7.89526 9.73285 7.89526 12C7.89526 14.2667 9.73285 16.1047 12 16.1047Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.2983 13.1729L11.8503 12.3076V10.4385" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock sync 1 icon with style variants.
+class _TimeClockSync1Icon {
+  const _TimeClockSync1Icon();
+
+  /// light style
+  _TimeClockSync1Light get light => const _TimeClockSync1Light();
+}
+
+/// Clock sync 1 — light style variants.
+class _TimeClockSync1Light {
+  const _TimeClockSync1Light();
+
+  /// Clock sync 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock sync 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.2641 20.7257L19.4642 17.3183L16.0762 17.1193" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9992 11.9996C20.9992 7.0292 16.97 3 11.9996 3C7.02926 3 3 7.0292 3 11.9996C3 16.9699 7.02926 20.9992 11.9996 20.9992C14.9722 20.9992 17.6082 19.558 19.2469 17.3362" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3237 11.9999L12 12V7.18508" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.light,
@@ -7503,6 +10017,29 @@ class _TimeClockCircleMinimalLight {
   /// Clock circle minimal — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Clock circle minimal',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.3324 12.8336L8.64844 10.1293" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2593 13.3931L14.3332 7.80676" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Clock circle minimal 1 icon with style variants.
+class _TimeClockCircleMinimal1Icon {
+  const _TimeClockCircleMinimal1Icon();
+
+  /// light style
+  _TimeClockCircleMinimal1Light get light => const _TimeClockCircleMinimal1Light();
+}
+
+/// Clock circle minimal 1 — light style variants.
+class _TimeClockCircleMinimal1Light {
+  const _TimeClockCircleMinimal1Light();
+
+  /// Clock circle minimal 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock circle minimal 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.8091 12H17.5827M12 18.8091V17.5827M5.19092 12H6.41803M12 5.19092V6.41803" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1726 14.2702L12 12.0767V9.4104" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.light,
@@ -7550,6 +10087,29 @@ class _TimeAlarmPillLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Alarm pill',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.9413 19.7117C16.1776 19.7117 19.6111 16.2781 19.6111 12.0419C19.6111 7.80563 16.1776 4.37207 11.9413 4.37207C7.70602 4.37207 4.27148 7.80563 4.27148 12.0419C4.27148 16.2781 7.70602 19.7117 11.9413 19.7117Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.81105 18.5137L6.36523 20.9996" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0723 18.5137L17.5181 20.9996" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.24931 3.00781L3.69141 5.19502" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.75 3L20.3079 5.19596" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.5261 10.5678L13.4742 13.5158M9.48837 14.5534C8.67347 13.7385 8.67347 12.4173 9.48837 11.6024L11.5605 9.53024C12.3754 8.71534 13.6966 8.71534 14.5115 9.53024C15.3264 10.3451 15.3264 11.6663 14.5115 12.4812L12.4394 14.5534C11.6245 15.3683 10.3033 15.3683 9.48837 14.5534Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Square clock icon with style variants.
+class _TimeSquareClock10Icon {
+  const _TimeSquareClock10Icon();
+
+  /// light style
+  _TimeSquareClock10Light get light => const _TimeSquareClock10Light();
+}
+
+/// Square clock — light style variants.
+class _TimeSquareClock10Light {
+  const _TimeSquareClock10Light();
+
+  /// Square clock — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Square clock',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78206 3H16.2166C19.1646 3 20.9996 5.08114 20.9996 8.02627V15.9733C20.9996 18.9185 19.1646 20.9996 16.2156 20.9996H7.78206C4.83304 20.9996 3 18.9185 3 15.9733V8.02627C3 5.08114 4.84277 3 7.78206 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9998 4.47597V3M11.9998 19.524V21M19.524 11.9998H21M4.47597 11.9998H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3116 13.9805L12 12.0015V7.72681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -7787,6 +10347,29 @@ class _TimeClockDashedLight {
 
 }
 
+/// Clock dashed 1 icon with style variants.
+class _TimeClockDashed1Icon {
+  const _TimeClockDashed1Icon();
+
+  /// light style
+  _TimeClockDashed1Light get light => const _TimeClockDashed1Light();
+}
+
+/// Clock dashed 1 — light style variants.
+class _TimeClockDashed1Light {
+  const _TimeClockDashed1Light();
+
+  /// Clock dashed 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Clock dashed 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.15634 6.15088C4.79126 6.58527 4.46912 7.04114 4.19092 7.52629" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.32434 16.7117C4.00611 16.1904 3.72791 15.6233 3.52096 15.0239" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.2141 20.8547L10.2239 20.8538C10.8779 20.9943 11.5554 21.0529 12.2377 21.0343" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.01835 3.49935C8.42777 3.70435 7.85867 3.97377 7.32959 4.30274" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.55291 19.8374C7.06873 19.5689 6.60407 19.2478 6.17944 18.8817" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.18484 10.1927C3.04427 10.8468 2.98472 11.5242 3.00522 12.2163" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3C16.9709 3 21 7.02908 21 12C21 15.905 18.5126 19.2298 15.0353 20.4753" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6244 12.8336L8.94043 10.1293" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.5513 13.3931L14.6252 7.80676" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Hourglass alert icon with style variants.
 class _TimeHourglassAlertIcon {
   const _TimeHourglassAlertIcon();
@@ -7826,6 +10409,29 @@ class _TimeTimerCheckLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Timer check',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.67969 12.701L11.4875 14.5117L15.2121 10.7852" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.4443 12.6649C20.4443 17.2688 16.712 21.0001 12.1081 21.0001C7.50419 21.0001 3.77295 17.2688 3.77295 12.6649C3.77295 8.06106 7.50419 4.32874 12.1081 4.32874C16.712 4.32874 20.4443 8.06106 20.4443 12.6649Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6515 5.24685C19.767 4.26396 19.2282 3.80909 18.1655 3.13123" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.34824 5.24685C4.23279 4.26396 4.77158 3.80909 5.83423 3.13123" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Stopwatch stop icon with style variants.
+class _TimeStopwatchStop1Icon {
+  const _TimeStopwatchStop1Icon();
+
+  /// light style
+  _TimeStopwatchStop1Light get light => const _TimeStopwatchStop1Light();
+}
+
+/// Stopwatch stop — light style variants.
+class _TimeStopwatchStop1Light {
+  const _TimeStopwatchStop1Light();
+
+  /// Stopwatch stop — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Stopwatch stop',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C7.76878 21 4.33789 17.5691 4.33789 13.3379C4.33789 9.10667 7.76878 5.67578 12 5.67578C16.2312 5.67578 19.6621 9.10667 19.6621 13.3379" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.89648 3H14.1042" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9902 13.3105L14.9316 10.3691" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4238 16.7305H16.4831C15.8069 16.7305 15.3828 17.2093 15.3828 17.8875V19.7148C15.3828 20.393 15.805 20.8718 16.4831 20.8718H18.4238C19.102 20.8718 19.5241 20.393 19.5241 19.7148V17.8875C19.5241 17.2093 19.102 16.7305 18.4238 16.7305Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -8401,6 +11007,29 @@ class _TimeClock15mLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Clock 15m',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12H19.379M12 3V4.62195M18.3642 5.63599L17.2173 6.78288" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6189 14.5072H14.398C15.1095 14.5072 15.6865 13.9301 15.6865 13.2187C15.6865 12.5072 15.1095 11.931 14.398 11.931H12.6189V9.49292H15.4417" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.31372 10.2768L9.92077 9.49292V14.5072" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Time',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Circle clock icon with style variants.
+class _TimeCircleClock20Icon {
+  const _TimeCircleClock20Icon();
+
+  /// light style
+  _TimeCircleClock20Light get light => const _TimeCircleClock20Light();
+}
+
+/// Circle clock — light style variants.
+class _TimeCircleClock20Light {
+  const _TimeCircleClock20Light();
+
+  /// Circle clock — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Circle clock',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3116 13.9805L12 12.0015V7.72681" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 12H19.379M12 21V19.379M3 12H4.62195M12 3V4.62195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Time',
     style: IconfyStyle.light,
     type: IconfyType.regular,

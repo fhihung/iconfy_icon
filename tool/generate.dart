@@ -135,7 +135,15 @@ void main() async {
 
     // Discover all icons in this category
     // Structure: Category/Style/Type/IconName.svg
-    final icons = <String, IconEntry>{}; // dartName -> IconEntry
+    // We keep ALL icons, including those with different numeric IDs.
+    // Duplicates are renamed: Headphone, Headphone_1, Headphone_2, etc.
+
+    // First pass: collect all unique filenames (with IDs) grouped by base name
+    // Key: original filename (with ID stripped) -> List of original filenames
+    final baseNameToOriginals = <String, List<String>>{};
+    // Also track which original filenames appear in which style/type with their SVG content
+    // Key: original filename -> style -> type -> svgContent
+    final fileVariants = <String, Map<String, Map<String, String>>>{};
 
     final styleDirs = categoryDir.listSync().whereType<Directory>().toList();
 
@@ -155,29 +163,75 @@ void main() async {
             .toList();
 
         for (final svgFile in svgFiles) {
-          // Extract icon name from filename (remove .svg and any trailing _ID)
           var fileName = svgFile.path.split('/').last;
           fileName = fileName.replaceAll('.svg', '');
-          // Remove trailing _12345 ID suffix if present
-          fileName = fileName.replaceAll(RegExp(r'_\d+$'), '');
 
-          final dartName = toCamelCase(fileName);
-          final displayName = fileName.replaceAll('_', ' ').trim();
+          // Compute base name (strip trailing _12345 ID suffix)
+          final baseName = fileName.replaceAll(RegExp(r'_\d+$'), '');
 
-          final entry = icons.putIfAbsent(
-            dartName,
-            () => IconEntry(
-              name: displayName,
-              dartName: dartName,
-              category: categoryFolder,
-            ),
-          );
+          // Track this original filename under its base name
+          baseNameToOriginals.putIfAbsent(baseName, () => []);
+          if (!baseNameToOriginals[baseName]!.contains(fileName)) {
+            baseNameToOriginals[baseName]!.add(fileName);
+          }
 
           // Read SVG content
           final svgContent = svgFile.readAsStringSync();
-          entry.variants.putIfAbsent(styleEnum, () => {});
-          entry.variants[styleEnum]![typeEnum] = svgContent;
+          fileVariants.putIfAbsent(fileName, () => {});
+          fileVariants[fileName]!.putIfAbsent(styleEnum, () => {});
+          fileVariants[fileName]![styleEnum]![typeEnum] = svgContent;
         }
+      }
+    }
+
+    // Second pass: assign final names to each icon
+    // For base names with only 1 original: use the base name directly
+    // For base names with multiple originals: first gets base name, rest get base_1, base_2, ...
+    // Also handles dartName collisions from different base names (e.g., Song_ and Song both -> song)
+    final icons = <String, IconEntry>{}; // dartName -> IconEntry
+
+    for (final entry in baseNameToOriginals.entries) {
+      final baseName = entry.key;
+      final originals = entry.value..sort(); // Sort for deterministic ordering
+
+      for (var i = 0; i < originals.length; i++) {
+        final originalFileName = originals[i];
+        String finalName;
+        if (originals.length == 1) {
+          finalName = baseName;
+        } else {
+          finalName = i == 0 ? baseName : '${baseName}_$i';
+        }
+
+        var dartName = toCamelCase(finalName);
+        final displayName = finalName.replaceAll('_', ' ').trim();
+
+        // Handle dartName collision (different base names producing same camelCase)
+        if (icons.containsKey(dartName)) {
+          var suffix = 1;
+          while (icons.containsKey('${dartName}$suffix')) {
+            suffix++;
+          }
+          dartName = '${dartName}$suffix';
+        }
+
+        final iconEntry = IconEntry(
+          name: displayName,
+          dartName: dartName,
+          category: categoryFolder,
+        );
+
+        // Copy variants from fileVariants
+        if (fileVariants.containsKey(originalFileName)) {
+          for (final styleEntry in fileVariants[originalFileName]!.entries) {
+            iconEntry.variants.putIfAbsent(styleEntry.key, () => {});
+            for (final typeEntry in styleEntry.value.entries) {
+              iconEntry.variants[styleEntry.key]![typeEntry.key] = typeEntry.value;
+            }
+          }
+        }
+
+        icons[dartName] = iconEntry;
       }
     }
 

@@ -12,18 +12,68 @@ class _SportIcons {
   _SportBowling1Icon get bowling1 => const _SportBowling1Icon();
   /// Dumbbells
   _SportDumbbellsIcon get dumbbells => const _SportDumbbellsIcon();
+  /// Dumbbells 1
+  _SportDumbbells1Icon get dumbbells1 => const _SportDumbbells1Icon();
   /// Bowling2
   _SportBowling2Icon get bowling2 => const _SportBowling2Icon();
   /// Bowling3
   _SportBowling3Icon get bowling3 => const _SportBowling3Icon();
   /// ball american football
   _SportBallAmericanFootballIcon get ballAmericanFootball => const _SportBallAmericanFootballIcon();
+  /// ball american football 1
+  _SportBallAmericanFootball1Icon get ballAmericanFootball1 => const _SportBallAmericanFootball1Icon();
+  /// ball american football 2
+  _SportBallAmericanFootball2Icon get ballAmericanFootball2 => const _SportBallAmericanFootball2Icon();
+  /// ball american football 3
+  _SportBallAmericanFootball3Icon get ballAmericanFootball3 => const _SportBallAmericanFootball3Icon();
+  /// ball american football 4
+  _SportBallAmericanFootball4Icon get ballAmericanFootball4 => const _SportBallAmericanFootball4Icon();
+  /// ball american football 5
+  _SportBallAmericanFootball5Icon get ballAmericanFootball5 => const _SportBallAmericanFootball5Icon();
+  /// ball american football 6
+  _SportBallAmericanFootball6Icon get ballAmericanFootball6 => const _SportBallAmericanFootball6Icon();
+  /// ball american football 7
+  _SportBallAmericanFootball7Icon get ballAmericanFootball7 => const _SportBallAmericanFootball7Icon();
+  /// ball american football 8
+  _SportBallAmericanFootball8Icon get ballAmericanFootball8 => const _SportBallAmericanFootball8Icon();
+  /// ball american football 9
+  _SportBallAmericanFootball9Icon get ballAmericanFootball9 => const _SportBallAmericanFootball9Icon();
+  /// ball american football 10
+  _SportBallAmericanFootball10Icon get ballAmericanFootball10 => const _SportBallAmericanFootball10Icon();
+  /// ball american football 11
+  _SportBallAmericanFootball11Icon get ballAmericanFootball11 => const _SportBallAmericanFootball11Icon();
   /// Ride Bike
   _SportRideBikeIcon get rideBike => const _SportRideBikeIcon();
   /// ball Basketball
   _SportBallBasketballIcon get ballBasketball => const _SportBallBasketballIcon();
+  /// ball Basketball 1
+  _SportBallBasketball1Icon get ballBasketball1 => const _SportBallBasketball1Icon();
+  /// ball Basketball 2
+  _SportBallBasketball2Icon get ballBasketball2 => const _SportBallBasketball2Icon();
+  /// ball Basketball 3
+  _SportBallBasketball3Icon get ballBasketball3 => const _SportBallBasketball3Icon();
+  /// ball Basketball 4
+  _SportBallBasketball4Icon get ballBasketball4 => const _SportBallBasketball4Icon();
+  /// ball Basketball 5
+  _SportBallBasketball5Icon get ballBasketball5 => const _SportBallBasketball5Icon();
+  /// ball Basketball 6
+  _SportBallBasketball6Icon get ballBasketball6 => const _SportBallBasketball6Icon();
+  /// ball Basketball 7
+  _SportBallBasketball7Icon get ballBasketball7 => const _SportBallBasketball7Icon();
+  /// ball Basketball 8
+  _SportBallBasketball8Icon get ballBasketball8 => const _SportBallBasketball8Icon();
   /// Scale
   _SportScaleIcon get scale => const _SportScaleIcon();
+  /// Scale 1
+  _SportScale1Icon get scale1 => const _SportScale1Icon();
+  /// Scale 2
+  _SportScale2Icon get scale2 => const _SportScale2Icon();
+  /// Scale 3
+  _SportScale3Icon get scale3 => const _SportScale3Icon();
+  /// Scale 4
+  _SportScale4Icon get scale4 => const _SportScale4Icon();
+  /// Scale 5
+  _SportScale5Icon get scale5 => const _SportScale5Icon();
   /// Kettlebell
   _SportKettlebellIcon get kettlebell => const _SportKettlebellIcon();
   /// Weights
@@ -40,16 +90,76 @@ class _SportIcons {
   _SportBallBaseball2Icon get ballBaseball2 => const _SportBallBaseball2Icon();
   /// Kettlebell 1
   _SportKettlebell1Icon get kettlebell1 => const _SportKettlebell1Icon();
+  /// Kettlebell 1 1
+  _SportKettlebell11Icon get kettlebell11 => const _SportKettlebell11Icon();
+  /// Kettlebell 1 2
+  _SportKettlebell12Icon get kettlebell12 => const _SportKettlebell12Icon();
+  /// Kettlebell 1 3
+  _SportKettlebell13Icon get kettlebell13 => const _SportKettlebell13Icon();
+  /// Kettlebell 1 4
+  _SportKettlebell14Icon get kettlebell14 => const _SportKettlebell14Icon();
+  /// Kettlebell 1 5
+  _SportKettlebell15Icon get kettlebell15 => const _SportKettlebell15Icon();
+  /// Kettlebell 1 6
+  _SportKettlebell16Icon get kettlebell16 => const _SportKettlebell16Icon();
+  /// Kettlebell 1 7
+  _SportKettlebell17Icon get kettlebell17 => const _SportKettlebell17Icon();
+  /// Kettlebell 1 8
+  _SportKettlebell18Icon get kettlebell18 => const _SportKettlebell18Icon();
+  /// Kettlebell 1 9
+  _SportKettlebell19Icon get kettlebell19 => const _SportKettlebell19Icon();
+  /// Kettlebell 1 10
+  _SportKettlebell110Icon get kettlebell110 => const _SportKettlebell110Icon();
+  /// Kettlebell 1 11
+  _SportKettlebell111Icon get kettlebell111 => const _SportKettlebell111Icon();
+  /// Kettlebell 1 12
+  _SportKettlebell112Icon get kettlebell112 => const _SportKettlebell112Icon();
+  /// Kettlebell 1 13
+  _SportKettlebell113Icon get kettlebell113 => const _SportKettlebell113Icon();
+  /// Kettlebell 1 14
+  _SportKettlebell114Icon get kettlebell114 => const _SportKettlebell114Icon();
+  /// Kettlebell 1 15
+  _SportKettlebell115Icon get kettlebell115 => const _SportKettlebell115Icon();
+  /// Kettlebell 1 16
+  _SportKettlebell116Icon get kettlebell116 => const _SportKettlebell116Icon();
+  /// Kettlebell 1 17
+  _SportKettlebell117Icon get kettlebell117 => const _SportKettlebell117Icon();
   /// ball Baseball1
   _SportBallBaseball1Icon get ballBaseball1 => const _SportBallBaseball1Icon();
   /// ball volleyball
   _SportBallVolleyballIcon get ballVolleyball => const _SportBallVolleyballIcon();
   /// Walk
   _SportWalkIcon get walk => const _SportWalkIcon();
+  /// Walk 1
+  _SportWalk1Icon get walk1 => const _SportWalk1Icon();
+  /// Walk 2
+  _SportWalk2Icon get walk2 => const _SportWalk2Icon();
+  /// Walk 3
+  _SportWalk3Icon get walk3 => const _SportWalk3Icon();
+  /// Walk 4
+  _SportWalk4Icon get walk4 => const _SportWalk4Icon();
+  /// Walk 5
+  _SportWalk5Icon get walk5 => const _SportWalk5Icon();
+  /// Walk 6
+  _SportWalk6Icon get walk6 => const _SportWalk6Icon();
+  /// Walk 7
+  _SportWalk7Icon get walk7 => const _SportWalk7Icon();
+  /// Walk 8
+  _SportWalk8Icon get walk8 => const _SportWalk8Icon();
+  /// Walk 9
+  _SportWalk9Icon get walk9 => const _SportWalk9Icon();
+  /// Walk 10
+  _SportWalk10Icon get walk10 => const _SportWalk10Icon();
+  /// Walk 11
+  _SportWalk11Icon get walk11 => const _SportWalk11Icon();
   /// ball Football
   _SportBallFootballIcon get ballFootball => const _SportBallFootballIcon();
+  /// ball Football 1
+  _SportBallFootball1Icon get ballFootball1 => const _SportBallFootball1Icon();
   /// Treadmill
   _SportTreadmillIcon get treadmill => const _SportTreadmillIcon();
+  /// Treadmill 1
+  _SportTreadmill1Icon get treadmill1 => const _SportTreadmill1Icon();
   /// ball Tennis
   _SportBallTennisIcon get ballTennis => const _SportBallTennisIcon();
   /// Dumbbell
@@ -58,10 +168,16 @@ class _SportIcons {
   _SportSoccerFieldIcon get soccerField => const _SportSoccerFieldIcon();
   /// Weight
   _SportWeightIcon get weight => const _SportWeightIcon();
+  /// Weight 1
+  _SportWeight1Icon get weight1 => const _SportWeight1Icon();
+  /// Weight 2
+  _SportWeight2Icon get weight2 => const _SportWeight2Icon();
   /// Run
   _SportRunIcon get run => const _SportRunIcon();
   /// Football
   _SportFootballIcon get football => const _SportFootballIcon();
+  /// Football 1
+  _SportFootball1Icon get football1 => const _SportFootball1Icon();
   /// Bowling
   _SportBowlingIcon get bowling => const _SportBowlingIcon();
   /// Tennis
@@ -247,6 +363,114 @@ class _SportDumbbellsLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Dumbbells',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3346 16.0813C10.103 16.0832 9.89968 15.9178 9.86855 15.6882C9.82087 15.3311 9.67007 14.831 9.19917 14.5197C8.57163 14.1033 6.25508 14.1918 5.74526 14.5314C5.38528 14.7483 5.00681 15.1609 5.02821 17.2887C5.05059 19.4174 5.43782 19.8212 5.80169 20.0314C6.31929 20.3602 8.63584 20.4011 9.2556 19.972C9.71969 19.6509 9.85979 19.1479 9.90065 18.7899C9.92692 18.5603 10.1264 18.39 10.3579 18.3881L15.6935 18.3326C15.925 18.3307 16.1274 18.4961 16.1585 18.7257C16.2072 19.0827 16.358 19.5828 16.8279 19.8942C17.4564 20.3106 19.772 20.222 20.2828 19.8825C20.6428 19.6655 21.0213 19.254 20.9999 17.1252C20.9775 14.9964 20.5902 14.5927 20.2264 14.3825C19.7088 14.0537 17.3922 14.0128 16.7725 14.4419C16.3084 14.7629 16.1683 15.2659 16.1274 15.624C16.1011 15.8536 15.9017 16.0239 15.6701 16.0258L10.3346 16.0813Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.54758 6.04083C8.31797 6.00775 8.14284 5.81316 8.14674 5.5816C8.15257 5.22162 8.0796 4.70499 7.66222 4.32555C7.10375 3.81963 4.8018 3.55596 4.24528 3.81476C3.85708 3.9753 3.42024 4.32458 3.1196 6.43195C2.81896 8.53932 3.141 8.99757 3.46986 9.26026C3.93103 9.66403 6.21547 10.0542 6.89263 9.72337C7.39953 9.47625 7.61454 9.00049 7.70892 8.65315C7.77021 8.43035 7.99301 8.29122 8.22165 8.3243L13.5037 9.07735C13.7333 9.10945 13.9084 9.30404 13.9045 9.53657C13.8987 9.89656 13.9726 10.4132 14.39 10.7926C14.9475 11.2986 17.2505 11.5622 17.806 11.3034C18.1952 11.1429 18.632 10.7936 18.9317 8.68623C19.2323 6.57789 18.9103 6.12061 18.5824 5.85889C18.1212 5.45415 15.8368 5.06401 15.1596 5.39383C14.6527 5.64193 14.4377 6.11672 14.3424 6.46503C14.282 6.6888 14.0592 6.82598 13.8296 6.7929L8.54758 6.04083Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dumbbells 1 icon with style variants.
+class _SportDumbbells1Icon {
+  const _SportDumbbells1Icon();
+
+  /// bold style
+  _SportDumbbells1Bold get bold => const _SportDumbbells1Bold();
+  /// bulk style
+  _SportDumbbells1Bulk get bulk => const _SportDumbbells1Bulk();
+  /// light style
+  _SportDumbbells1Light get light => const _SportDumbbells1Light();
+  /// outline style
+  _SportDumbbells1Outline get outline => const _SportDumbbells1Outline();
+  /// twoTone style
+  _SportDumbbells1Twotone get twoTone => const _SportDumbbells1Twotone();
+  /// broken style
+  _SportDumbbells1Broken get broken => const _SportDumbbells1Broken();
+}
+
+/// Dumbbells 1 — bulk style variants.
+class _SportDumbbells1Bulk {
+  const _SportDumbbells1Bulk();
+
+  /// Dumbbells 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dumbbells 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M8.75665 4.5726C6.61365 4.2656 5.91165 4.5496 5.48365 5.0866C4.94865 5.6956 4.53165 8.2126 4.94565 9.0596C5.20265 9.5876 5.68265 9.9606 6.29865 10.0986L5.54965 15.3516H5.54365C4.88965 15.3516 4.34065 15.5766 3.95665 16.0026C3.32265 16.6976 3.01965 19.2306 3.35265 19.9456C3.62365 20.6026 4.22165 21.0706 6.36065 21.3746C6.96565 21.4616 7.45665 21.5006 7.85765 21.5006C8.87865 21.5006 9.32865 21.2456 9.63565 20.8606C10.1686 20.2526 10.5866 17.7356 10.1736 16.8866C9.91365 16.3556 9.43265 15.9826 8.81865 15.8476L9.52865 10.5946C10.2236 10.6036 10.7676 10.3816 11.1636 9.9456C11.7946 9.2486 12.0986 6.7166 11.7656 6.0026C11.4946 5.3456 10.8966 4.8776 8.75665 4.5726Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.3853 14.4594C20.0503 13.9754 19.5193 13.6794 18.8903 13.6374L18.7953 8.33639C19.4623 8.24739 19.9873 7.94039 20.3123 7.44839C20.8333 6.66339 20.7493 4.11239 20.3123 3.45939C19.9473 2.85139 19.3083 2.48639 17.1213 2.50039C14.9603 2.52239 14.3063 2.90839 13.9623 3.50539C13.5283 4.19039 13.4973 6.74039 14.0323 7.51139C14.3693 7.99839 14.9013 8.29439 15.5293 8.33539L15.5823 13.6414C14.9333 13.7384 14.4233 14.0424 14.1053 14.5244C13.5863 15.3074 13.6683 17.8564 14.1053 18.5144C14.4633 19.1054 15.0973 19.4734 17.1163 19.4734C17.1753 19.4734 17.2363 19.4724 17.2973 19.4724C19.4553 19.4494 20.1103 19.0634 20.4553 18.4664C20.8893 17.7844 20.9213 15.2344 20.3853 14.4594Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dumbbells 1 — broken style variants.
+class _SportDumbbells1Broken {
+  const _SportDumbbells1Broken();
+
+  /// Dumbbells 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dumbbells 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.7918 14.1003C19.1499 14.1412 19.6519 14.2813 19.973 14.7454C20.4021 15.3652 20.3622 17.6818 20.0323 18.1994C19.8222 18.5633 19.4184 18.9515 17.2906 18.9729C15.1617 18.9953 14.7502 18.6158 14.5322 18.2558C14.1927 17.745 14.1051 15.4294 14.5206 14.8018C14.8319 14.3309 15.332 14.1801 15.6891 14.1324C15.9187 14.1013 16.0841 13.898 16.0822 13.6664L16.0277 8.33169C16.0247 8.09915 15.8545 7.8997 15.6249 7.87343C15.2668 7.83256 14.7638 7.69246 14.4427 7.22836C14.0136 6.60956 14.0545 4.29198 14.3843 3.77437C14.5935 3.41048 14.9973 3.02325 17.1261 3.00087C19.255 2.97946 19.6665 3.35794 19.8835 3.71794C20.224 4.22874 20.3116 6.54437 19.8952 7.1729C19.5838 7.64284 19.0847 7.79364 18.7276 7.84229C18.498 7.87245 18.3316 8.0758 18.3345 8.30736L18.3618 10.9752" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.46412 9.65827C6.1158 9.56292 5.641 9.34887 5.39387 8.84196C5.06306 8.16381 5.45322 5.87931 5.85797 5.41813C6.11969 5.09025 6.57795 4.7682 8.68537 5.06884C10.7928 5.36851 11.1421 5.80537 11.3026 6.19455C11.5614 6.75011 11.2978 9.05309 10.7918 9.6106C10.4124 10.029 9.89573 10.1019 9.53574 10.0961C9.30417 10.0922 9.10958 10.2673 9.0765 10.497L8.32343 15.7782C8.29133 16.0078 8.42949 16.2306 8.65229 16.2919C9.00061 16.3863 9.47541 16.6013 9.72352 17.1082C10.0533 17.7854 9.66319 20.0708 9.25942 20.532C8.99672 20.8599 8.53846 21.182 6.43104 20.8813C4.32362 20.5816 3.97432 20.1438 3.81379 19.7556C3.55498 19.2 3.81865 16.8971 4.32459 16.3396C4.70404 15.9212 5.22068 15.8482 5.58067 15.854C5.81224 15.8579 6.00683 15.6828 6.03991 15.4532L6.41644 12.8121" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dumbbells 1 — twoTone style variants.
+class _SportDumbbells1Twotone {
+  const _SportDumbbells1Twotone();
+
+  /// Dumbbells 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dumbbells 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5822 13.6664C16.5841 13.898 16.4187 14.1013 16.1891 14.1324C15.832 14.1801 15.3319 14.3309 15.0206 14.8018C14.6051 15.4294 14.6927 17.745 15.0322 18.2558C15.2502 18.6158 15.6617 18.9953 17.7906 18.9729C19.9184 18.9515 20.3222 18.5633 20.5323 18.1994C20.8622 17.6818 20.9021 15.3652 20.473 14.7454C20.1519 14.2813 19.6499 14.1412 19.2918 14.1003C19.0612 14.0731 18.891 13.8736 18.889 13.643L18.8345 8.30736C18.8316 8.0758 18.998 7.87245 19.2276 7.84229C19.5847 7.79364 20.0838 7.64284 20.3952 7.1729C20.8116 6.54437 20.724 4.22874 20.3835 3.71794C20.1665 3.35794 19.755 2.97946 17.6261 3.00087C15.4973 3.02325 15.0935 3.41048 14.8843 3.77437C14.5545 4.29198 14.5136 6.60956 14.9427 7.22836C15.2638 7.69246 15.7668 7.83256 16.1249 7.87343C16.3545 7.8997 16.5247 8.09915 16.5277 8.33169L16.5822 13.6664Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M6.53991 15.4522C6.50683 15.6818 6.31224 15.857 6.08067 15.8531C5.72068 15.8472 5.20404 15.9202 4.82459 16.3386C4.31865 16.8961 4.05498 19.1991 4.31379 19.7546C4.47432 20.1428 4.82362 20.5807 6.93104 20.8803C9.03846 21.181 9.49672 20.8589 9.75942 20.531C10.1632 20.0699 10.5533 17.7844 10.2235 17.1072C9.97541 16.6003 9.50061 16.3853 9.15229 16.2909C8.92949 16.2296 8.79133 16.0068 8.82343 15.7772L9.5765 10.496C9.60958 10.2664 9.80417 10.0912 10.0357 10.0951C10.3957 10.101 10.9124 10.028 11.2918 9.60962C11.7978 9.05212 12.0614 6.74913 11.8026 6.19358C11.6421 5.80439 11.2928 5.36754 9.18537 5.06787C7.07795 4.76722 6.61969 5.08927 6.35797 5.41716C5.95322 5.87834 5.56306 8.16284 5.89387 8.84099C6.141 9.3479 6.6158 9.56195 6.96412 9.6573C7.1879 9.71762 7.32508 9.94043 7.29298 10.17L6.53991 15.4522Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dumbbells 1 — outline style variants.
+class _SportDumbbells1Outline {
+  const _SportDumbbells1Outline();
+
+  /// Dumbbells 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dumbbells 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.3405 19.7133C15.4785 19.7133 14.5995 19.4133 14.1275 18.6333C13.5942 17.2643 13.5963 15.7447 14.1335 14.3773C14.4665 13.8825 14.9823 13.5401 15.5675 13.4253L15.5175 8.56728C14.9303 8.46362 14.4077 8.13225 14.0635 7.64528C13.4959 6.27892 13.4687 4.74792 13.9875 3.36228C14.4425 2.57328 15.3605 2.26228 17.3555 2.24128C19.3505 2.22028 20.2785 2.51428 20.7635 3.32228C21.2978 4.69068 21.2957 6.2104 20.7575 7.57728C20.424 8.07105 19.909 8.41317 19.3245 8.52928L19.3745 13.3863C19.9616 13.4898 20.4839 13.8212 20.8275 14.3083C21.3958 15.6749 21.4226 17.2066 20.9025 18.5923C20.4465 19.3813 19.5305 19.6923 17.5365 19.7123L17.3405 19.7133ZM17.5205 3.74028H17.3715C16.6715 3.74728 15.4615 3.80828 15.2715 4.14028C15.0554 5.01337 15.0654 5.92712 15.3005 6.79528C15.3786 6.89297 15.477 6.97254 15.5889 7.02848C15.7008 7.08442 15.8235 7.1154 15.9485 7.11928C16.2411 7.15492 16.5107 7.29568 16.7072 7.51534C16.9036 7.735 17.0136 8.01859 17.0165 8.31328L17.0705 13.6493C17.074 13.9439 16.9702 14.2297 16.7784 14.4535C16.5867 14.6772 16.3202 14.8236 16.0285 14.8653C15.903 14.8713 15.7804 14.9046 15.6691 14.963C15.5579 15.0214 15.4607 15.1034 15.3845 15.2033C15.1706 16.0718 15.1775 16.9801 15.4045 17.8453C15.6095 18.1833 16.8205 18.2263 17.5215 18.2113C18.2225 18.1963 19.4305 18.1433 19.6215 17.8113C19.8376 16.9382 19.8276 16.0244 19.5925 15.1563C19.5146 15.0586 19.4164 14.979 19.3047 14.9231C19.1929 14.8672 19.0704 14.8362 18.9455 14.8323C18.6519 14.7965 18.3815 14.6549 18.1849 14.434C17.9883 14.213 17.879 13.928 17.8775 13.6323L17.8235 8.29928C17.8186 8.0037 17.9223 7.71658 18.1149 7.49229C18.3074 7.26801 18.5756 7.12213 18.8685 7.08228C18.9934 7.07527 19.1153 7.04123 19.2258 6.98253C19.3363 6.92383 19.4328 6.84186 19.5085 6.74228C19.7234 5.87487 19.7166 4.96732 19.4885 4.10328C19.3005 3.79328 18.2405 3.74028 17.5235 3.74028H17.5205Z" fill="black"/> <path d="M8.10464 21.7414C7.58991 21.7339 7.07632 21.6905 6.56764 21.6114C4.59264 21.3304 3.72364 20.9034 3.36764 20.0304C3.04645 18.5967 3.27823 17.0946 4.01664 15.8244C4.42111 15.3865 4.98211 15.126 5.57765 15.0994L6.26364 10.2894C5.69806 10.0987 5.23078 9.69217 4.96363 9.15842C4.60709 7.72131 4.8124 6.20232 5.53764 4.91142C6.10564 4.20042 7.06064 4.03242 9.03764 4.31142C11.0146 4.59042 11.8826 5.02142 12.2426 5.89342C12.5635 7.32713 12.3318 8.82912 11.5936 10.0994C11.1889 10.537 10.6281 10.7975 10.0326 10.8244L9.34664 15.6324C9.9115 15.8239 10.3784 16.2297 10.6466 16.7624C11.003 18.2002 10.7977 19.7197 10.0726 21.0114C9.82775 21.2827 9.52089 21.4908 9.17822 21.6179C8.83555 21.745 8.46722 21.7874 8.10464 21.7414ZM5.78665 16.5924C5.66558 16.5828 5.54384 16.599 5.42953 16.6401C5.31522 16.6811 5.21094 16.746 5.12364 16.8304C4.77976 17.6568 4.64877 18.5563 4.74264 19.4464C4.89464 19.8114 6.08264 20.0304 6.77864 20.1284C7.47464 20.2264 8.67865 20.3514 8.91365 20.0544C9.26092 19.2237 9.39033 18.3181 9.28964 17.4234C9.22685 17.3153 9.14146 17.2219 9.03929 17.1498C8.93712 17.0776 8.82059 17.0284 8.69764 17.0054C8.41395 16.9257 8.16884 16.7457 8.0079 16.4989C7.84696 16.252 7.78113 15.9552 7.82264 15.6634L8.57563 10.3814C8.60807 10.0857 8.75157 9.81334 8.97711 9.61936C9.20264 9.42538 9.49341 9.32426 9.79065 9.33642C9.91597 9.35035 10.0428 9.33603 10.1619 9.2945C10.2809 9.25296 10.3892 9.18528 10.4786 9.09642C10.8206 8.27093 10.9509 7.37307 10.8576 6.48442C10.7056 6.11942 9.51664 5.90042 8.82164 5.80142C8.12664 5.70242 6.92164 5.57942 6.68464 5.87642C6.33848 6.70705 6.20975 7.61222 6.31063 8.50642C6.37372 8.61464 6.45932 8.70805 6.56163 8.78034C6.66393 8.85262 6.78056 8.9021 6.90364 8.92542C7.18733 9.00434 7.43256 9.18391 7.59343 9.43055C7.75429 9.67719 7.81978 9.97399 7.77764 10.2654L7.02464 15.5484C6.98365 15.8368 6.84044 16.1008 6.6211 16.2924C6.40176 16.4841 6.1209 16.5905 5.82965 16.5924H5.78665Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dumbbells 1 — bold style variants.
+class _SportDumbbells1Bold {
+  const _SportDumbbells1Bold();
+
+  /// Dumbbells 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dumbbells 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.3851 14.4594C20.0501 13.9754 19.5191 13.6794 18.8901 13.6374L18.7951 8.33639C19.4621 8.24739 19.9871 7.94039 20.3121 7.44839C20.8331 6.66339 20.7491 4.11239 20.3121 3.45939C19.9471 2.85139 19.3081 2.48639 17.1211 2.50039C14.9601 2.52239 14.3061 2.90839 13.9621 3.50539C13.5281 4.19039 13.4971 6.74039 14.0321 7.51139C14.3691 7.99839 14.9011 8.29439 15.5291 8.33539L15.5821 13.6414C14.9331 13.7384 14.4231 14.0424 14.1051 14.5244C13.5861 15.3074 13.6681 17.8564 14.1051 18.5144C14.4631 19.1054 15.0971 19.4734 17.1161 19.4734C17.1751 19.4734 17.2361 19.4724 17.2971 19.4724C19.4551 19.4494 20.1101 19.0634 20.4551 18.4664C20.8891 17.7844 20.9211 15.2344 20.3851 14.4594Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.75665 4.57223C6.61365 4.26523 5.91165 4.54923 5.48365 5.08623C4.94865 5.69523 4.53165 8.21223 4.94565 9.05923C5.20265 9.58723 5.68265 9.96023 6.29865 10.0982L5.54965 15.3512H5.54365C4.88965 15.3512 4.34065 15.5762 3.95665 16.0022C3.32265 16.6972 3.01965 19.2302 3.35265 19.9452C3.62365 20.6022 4.22165 21.0702 6.36065 21.3742C6.96565 21.4612 7.45665 21.5002 7.85765 21.5002C8.87865 21.5002 9.32865 21.2452 9.63565 20.8602C10.1686 20.2522 10.5866 17.7352 10.1736 16.8862C9.91365 16.3552 9.43265 15.9822 8.81865 15.8472L9.52865 10.5942C10.2236 10.6032 10.7676 10.3812 11.1636 9.94523C11.7946 9.24823 12.0986 6.71623 11.7656 6.00223C11.4946 5.34523 10.8966 4.87723 8.75665 4.57223Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Dumbbells 1 — light style variants.
+class _SportDumbbells1Light {
+  const _SportDumbbells1Light();
+
+  /// Dumbbells 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Dumbbells 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0822 13.6664C16.0841 13.898 15.9187 14.1013 15.6891 14.1324C15.332 14.1801 14.8319 14.3309 14.5206 14.8018C14.1051 15.4294 14.1927 17.745 14.5322 18.2558C14.7502 18.6158 15.1617 18.9953 17.2906 18.9729C19.4184 18.9515 19.8222 18.5633 20.0323 18.1994C20.3622 17.6818 20.4021 15.3652 19.973 14.7454C19.6519 14.2813 19.1499 14.1412 18.7918 14.1003C18.5612 14.0731 18.391 13.8736 18.389 13.643L18.3345 8.30736C18.3316 8.0758 18.498 7.87245 18.7276 7.84229C19.0847 7.79364 19.5838 7.64284 19.8952 7.1729C20.3116 6.54437 20.224 4.22874 19.8835 3.71794C19.6665 3.35794 19.255 2.97946 17.1261 3.00087C14.9973 3.02325 14.5935 3.41048 14.3843 3.77437C14.0545 4.29198 14.0136 6.60956 14.4427 7.22836C14.7638 7.69246 15.2668 7.83256 15.6249 7.87343C15.8545 7.8997 16.0247 8.09915 16.0277 8.33169L16.0822 13.6664Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.03991 15.4522C6.00683 15.6818 5.81224 15.857 5.58067 15.8531C5.22068 15.8472 4.70404 15.9202 4.32459 16.3386C3.81865 16.8961 3.55498 19.1991 3.81379 19.7546C3.97432 20.1428 4.32362 20.5807 6.43104 20.8803C8.53846 21.181 8.99672 20.8589 9.25942 20.531C9.66319 20.0699 10.0533 17.7844 9.72352 17.1072C9.47541 16.6003 9.00061 16.3853 8.65229 16.2909C8.42949 16.2296 8.29133 16.0068 8.32343 15.7772L9.0765 10.496C9.10958 10.2664 9.30417 10.0912 9.53574 10.0951C9.89573 10.101 10.4124 10.028 10.7918 9.60962C11.2978 9.05212 11.5614 6.74913 11.3026 6.19358C11.1421 5.80439 10.7928 5.36754 8.68537 5.06787C6.57795 4.76722 6.11969 5.08927 5.85797 5.41716C5.45322 5.87834 5.06306 8.16284 5.39387 8.84099C5.641 9.3479 6.1158 9.56195 6.46412 9.6573C6.6879 9.71762 6.82508 9.94043 6.79298 10.17L6.03991 15.4522Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -474,93 +698,8 @@ class _SportBowling3Light {
 class _SportBallAmericanFootballIcon {
   const _SportBallAmericanFootballIcon();
 
-  /// bold style
-  _SportBallAmericanFootballBold get bold => const _SportBallAmericanFootballBold();
-  /// bulk style
-  _SportBallAmericanFootballBulk get bulk => const _SportBallAmericanFootballBulk();
   /// light style
   _SportBallAmericanFootballLight get light => const _SportBallAmericanFootballLight();
-  /// outline style
-  _SportBallAmericanFootballOutline get outline => const _SportBallAmericanFootballOutline();
-  /// twoTone style
-  _SportBallAmericanFootballTwotone get twoTone => const _SportBallAmericanFootballTwotone();
-  /// broken style
-  _SportBallAmericanFootballBroken get broken => const _SportBallAmericanFootballBroken();
-}
-
-/// ball american football — bulk style variants.
-class _SportBallAmericanFootballBulk {
-  const _SportBallAmericanFootballBulk();
-
-  /// ball american football — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'ball american football',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4851 7.61066C21.4751 7.71066 21.4751 7.81066 21.4651 7.90066C21.4351 8.31066 21.3951 8.71066 21.3251 9.10066C20.3551 15.5007 15.1851 20.5707 8.74513 21.3907C8.45513 21.4307 8.15513 21.4607 7.85513 21.4807C7.65513 21.4907 7.45513 21.5007 7.24513 21.5007H7.14513C5.91513 21.5007 4.48513 21.2707 3.59513 20.3707C2.70513 19.4707 2.48513 18.0007 2.50513 16.7607C2.50513 16.5507 2.50513 16.3407 2.52513 16.1407C2.54513 15.8407 2.57513 15.5507 2.61513 15.2607C3.43513 8.81066 8.49513 3.65066 14.8951 2.67066C15.2851 2.60066 15.6851 2.56066 16.0951 2.53066C16.1851 2.52066 16.2851 2.52066 16.3851 2.51066C17.7051 2.45066 19.3651 2.62066 20.3751 3.62066C21.3751 4.62066 21.5451 6.28066 21.4851 7.61066Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.74537 21.3907C8.45537 21.4307 8.15537 21.4607 7.85537 21.4807C7.65537 21.4907 7.45537 21.5007 7.24537 21.5007C6.79537 19.1007 4.90537 17.2107 2.50537 16.7607C2.50537 16.5507 2.50537 16.3407 2.52537 16.1407C2.54537 15.8407 2.57537 15.5507 2.61537 15.2607C5.74537 15.7707 8.23537 18.2507 8.74537 21.3907Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8205 9.11678L12.8215 10.1158L12.0945 9.38878C11.8015 9.09578 11.3275 9.09578 11.0345 9.38878C10.7415 9.68178 10.7415 10.1568 11.0345 10.4498L11.7605 11.1758L10.8205 12.1168L10.0925 11.3888C9.7995 11.0958 9.3255 11.0958 9.0325 11.3888C8.7395 11.6818 8.7395 12.1568 9.0325 12.4498L9.7595 13.1768L8.7615 14.1748C8.4685 14.4678 8.4685 14.9428 8.7615 15.2358C8.9085 15.3818 9.0995 15.4548 9.2925 15.4548C9.4845 15.4548 9.6755 15.3818 9.8225 15.2358L10.8205 14.2378L11.5435 14.9608C11.6895 15.1068 11.8815 15.1798 12.0735 15.1798C12.2655 15.1798 12.4575 15.1068 12.6035 14.9608C12.8965 14.6678 12.8965 14.1928 12.6035 13.8998L11.8805 13.1768L12.8215 12.2368L13.5455 12.9608C13.6915 13.1068 13.8825 13.1798 14.0755 13.1798C14.2675 13.1798 14.4595 13.1068 14.6055 12.9608C14.8985 12.6678 14.8985 12.1928 14.6055 11.8998L13.8815 11.1758L14.8815 10.1778C15.1745 9.88478 15.1745 9.40978 14.8815 9.11678C14.5885 8.82378 14.1135 8.82378 13.8205 9.11678Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4853 7.61074C21.4753 7.71074 21.4753 7.81074 21.4653 7.90074C21.4353 8.31074 21.3953 8.71074 21.3253 9.10074C17.9753 8.68074 15.3153 6.02074 14.8953 2.67074C15.2853 2.60074 15.6853 2.56074 16.0953 2.53074C16.1853 2.52074 16.2853 2.52074 16.3853 2.51074C16.7353 5.16074 18.8353 7.26074 21.4853 7.61074Z" fill="black"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// ball american football — broken style variants.
-class _SportBallAmericanFootballBroken {
-  const _SportBallAmericanFootballBroken();
-
-  /// ball american football — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'ball american football',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.3437 10.6562L10.3076 13.6923" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0469 3.39453L20.6058 9.95341" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.31836 14.123L9.87724 20.6819" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.82555 6.47628C10.0756 4.50993 12.957 3.2466 16.1321 3.02516C17.5537 2.926 19.1463 3.09559 20.0249 3.97492C20.9081 4.85885 21.0733 6.45645 20.9759 7.86362C20.4879 14.908 14.8713 20.5089 7.82555 20.9772C6.4109 21.0712 4.83183 20.8978 3.95745 20.0158C3.09849 19.1493 2.93081 17.5878 3.0255 16.1703C3.19266 13.6678 4.00734 11.3456 5.30421 9.36976" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// ball american football — twoTone style variants.
-class _SportBallAmericanFootballTwotone {
-  const _SportBallAmericanFootballTwotone();
-
-  /// ball american football — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'ball american football',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.3438 10.6572L10.3077 13.6933" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.0469 3.39355L20.6058 9.95244" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.31836 14.123L9.87724 20.6819" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9759 7.86362C21.0733 6.45645 20.9081 4.85885 20.0249 3.97492C19.1463 3.09559 17.5537 2.926 16.1321 3.02516C9.0923 3.51614 3.49582 9.12906 3.0255 16.1703C2.93081 17.5878 3.09849 19.1493 3.95745 20.0158C4.83183 20.8978 6.41089 21.0712 7.82555 20.9772C14.8713 20.5089 20.4879 14.908 20.9759 7.86362Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// ball american football — outline style variants.
-class _SportBallAmericanFootballOutline {
-  const _SportBallAmericanFootballOutline();
-
-  /// ball american football — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'ball american football',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.15588 21.7438C5.80297 21.84 4.46548 21.4076 3.42486 20.5378C2.30686 19.4108 2.18385 17.5108 2.27685 16.1148C2.52834 12.5336 4.06184 9.16294 6.5963 6.62039C9.13077 4.07784 12.4965 2.53366 16.0769 2.27076C17.4869 2.17076 19.4098 2.29576 20.5528 3.43876C21.6958 4.58176 21.8179 6.50076 21.7209 7.90976C21.4612 11.4929 19.9177 14.8621 17.374 17.399C14.8302 19.9358 11.4567 21.4699 7.87286 21.7198C7.64686 21.7348 7.40488 21.7438 7.15588 21.7438ZM16.8309 3.74376C16.6229 3.74376 16.4069 3.75176 16.1849 3.76676C12.9651 4.0024 9.93809 5.3904 7.6585 7.67642C5.37891 9.96243 3.99945 12.9934 3.77288 16.2138C3.56956 17.3546 3.82706 18.5295 4.48888 19.4808C4.95971 19.8172 5.49302 20.0561 6.05749 20.1835C6.62195 20.311 7.20618 20.3243 7.77587 20.2228C10.9983 19.9982 14.0317 18.6189 16.319 16.3379C18.6064 14.057 19.9943 11.0276 20.2279 7.80576C20.3313 7.23348 20.3197 6.64633 20.1939 6.07855C20.0681 5.51078 19.8304 4.97374 19.4949 4.49876C18.7312 3.92552 17.7818 3.65644 16.8309 3.74376Z" fill="black"/> <path d="M8.04279 21.7C7.84387 21.7 7.6531 21.621 7.51245 21.4804C7.3718 21.3397 7.29279 21.1489 7.29279 20.95C7.29173 19.825 6.84438 18.7464 6.04889 17.9509C5.2534 17.1555 4.17479 16.7081 3.0498 16.707C2.85089 16.707 2.66012 16.628 2.51947 16.4874C2.37882 16.3467 2.2998 16.1559 2.2998 15.957C2.2998 15.7581 2.37882 15.5674 2.51947 15.4267C2.66012 15.286 2.85089 15.207 3.0498 15.207C4.57246 15.2086 6.03227 15.8142 7.10895 16.8909C8.18563 17.9675 8.7912 19.4274 8.79279 20.95C8.79279 21.1489 8.71377 21.3397 8.57312 21.4804C8.43247 21.621 8.2417 21.7 8.04279 21.7Z" fill="black"/> <path d="M20.9502 8.7968C19.4261 8.79628 17.9645 8.19065 16.8867 7.11302C15.8088 6.03539 15.2029 4.57393 15.2021 3.0498C15.2021 2.85089 15.2812 2.66013 15.4218 2.51947C15.5625 2.37882 15.7532 2.2998 15.9521 2.2998C16.1511 2.2998 16.3418 2.37882 16.4825 2.51947C16.6231 2.66013 16.7021 2.85089 16.7021 3.0498C16.7024 4.17627 17.1501 5.25651 17.9467 6.05295C18.7433 6.84939 19.8237 7.2968 20.9502 7.2968C21.1491 7.2968 21.3399 7.37582 21.4805 7.51647C21.6212 7.65713 21.7002 7.84789 21.7002 8.0468C21.7002 8.24572 21.6212 8.43648 21.4805 8.57713C21.3399 8.71779 21.1491 8.7968 20.9502 8.7968Z" fill="black"/> <path d="M9.34953 15.4045C9.20129 15.4041 9.05651 15.3598 8.93339 15.2772C8.81027 15.1947 8.7143 15.0776 8.65763 14.9406C8.60096 14.8036 8.5861 14.6529 8.61491 14.5075C8.64371 14.3621 8.71494 14.2285 8.81956 14.1235L13.8775 9.06447C14.0182 8.92377 14.2091 8.84473 14.4081 8.84473C14.607 8.84473 14.7978 8.92377 14.9385 9.06447C15.0792 9.20516 15.1583 9.39599 15.1583 9.59497C15.1583 9.79394 15.0792 9.98477 14.9385 10.1255L9.87955 15.1845C9.81004 15.2542 9.7274 15.3096 9.63645 15.3473C9.5455 15.3851 9.448 15.4045 9.34953 15.4045Z" fill="black"/> <path d="M14.1289 13.128C14.0304 13.128 13.9329 13.1086 13.842 13.0708C13.751 13.033 13.6684 12.9777 13.5989 12.908L11.0879 10.397C11.0182 10.3273 10.9629 10.2446 10.9252 10.1536C10.8875 10.0625 10.8682 9.96497 10.8682 9.86645C10.8682 9.76793 10.8875 9.67037 10.9252 9.57935C10.9629 9.48832 11.0182 9.40562 11.0879 9.33595C11.2286 9.19525 11.4194 9.11621 11.6184 9.11621C11.7169 9.11621 11.8145 9.13562 11.9055 9.17332C11.9965 9.21102 12.0792 9.26628 12.1489 9.33595L14.6589 11.847C14.7635 11.952 14.8347 12.0856 14.8635 12.231C14.8923 12.3764 14.8774 12.5271 14.8207 12.6641C14.7641 12.801 14.6682 12.9182 14.545 13.0007C14.4219 13.0833 14.2771 13.1275 14.1289 13.128Z" fill="black"/> <path d="M12.127 15.128C12.0285 15.128 11.931 15.1086 11.84 15.0708C11.7491 15.033 11.6664 14.9777 11.5969 14.908L9.08594 12.397C8.94524 12.2563 8.86621 12.0654 8.86621 11.8665C8.86621 11.6675 8.94524 11.4766 9.08594 11.336C9.22663 11.1953 9.41748 11.1162 9.61646 11.1162C9.81543 11.1162 10.0063 11.1953 10.147 11.336L12.6569 13.847C12.7615 13.952 12.8328 14.0856 12.8616 14.231C12.8904 14.3764 12.8755 14.5271 12.8188 14.6641C12.7622 14.801 12.6662 14.9182 12.5431 15.0007C12.42 15.0833 12.2752 15.1275 12.127 15.128Z" fill="black"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// ball american football — bold style variants.
-class _SportBallAmericanFootballBold {
-  const _SportBallAmericanFootballBold();
-
-  /// ball american football — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'ball american football',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.12829 14.995C2.95671 14.8234 2.66404 14.9162 2.62965 15.1564C2.58334 15.4799 2.54706 15.8064 2.52503 16.1368C2.43503 17.4818 2.55003 19.3078 3.60003 20.3678C4.49303 21.2678 5.91903 21.4998 7.15103 21.4998C7.39603 21.4998 7.63403 21.4908 7.85803 21.4758C8.19029 21.4537 8.51857 21.4173 8.84387 21.3709C9.08419 21.3366 9.17708 21.0438 9.00543 20.8722L3.12829 14.995Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.8511 9.13861C21.0219 9.30938 21.3134 9.21847 21.3502 8.97979C21.4051 8.62363 21.4484 8.26374 21.4733 7.89872C21.5673 6.54272 21.4543 4.69872 20.3773 3.62172C19.3013 2.54472 17.4593 2.43172 16.0953 2.52672C15.7321 2.55154 15.374 2.59471 15.0197 2.64953C14.7811 2.68645 14.6903 2.97779 14.861 3.1485L20.8511 9.13861Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8727 11.1874L10.8367 14.2234C10.6897 14.3704 10.4987 14.4434 10.3067 14.4434C10.1137 14.4434 9.92272 14.3704 9.77572 14.2234C9.48272 13.9304 9.48272 13.4564 9.77572 13.1634L12.8117 10.1264C13.1047 9.83339 13.5797 9.83339 13.8727 10.1264C14.1657 10.4194 14.1657 10.8944 13.8727 11.1874ZM12.8923 3.30002C12.8133 3.22096 12.6966 3.19223 12.5904 3.2271C8.13465 4.68999 4.61492 8.23837 3.19037 12.7103C3.15673 12.8159 3.18569 12.9314 3.26407 13.0097L10.9914 20.7371C11.0698 20.8154 11.1852 20.8444 11.2908 20.8108C15.7628 19.3872 19.3111 15.8674 20.7731 11.4107C20.8079 11.3045 20.7792 11.1878 20.7002 11.1088L12.8923 3.30002Z" fill="black"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// ball american football — light style variants.
@@ -570,9 +709,262 @@ class _SportBallAmericanFootballLight {
   /// ball american football — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'ball american football',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.3438 10.6572L10.3077 13.6933" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0469 3.39355L20.6058 9.95244" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.31836 14.123L9.87724 20.6819" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9759 7.86362C21.0733 6.45645 20.9081 4.85885 20.0249 3.97492C19.1463 3.09559 17.5537 2.926 16.1321 3.02516C9.0923 3.51614 3.49582 9.12906 3.0255 16.1703C2.93081 17.5878 3.09849 19.1493 3.95745 20.0158C4.83183 20.8978 6.41089 21.0712 7.82555 20.9772C14.8713 20.5089 20.4879 14.908 20.9759 7.86362Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball american football 1 icon with style variants.
+class _SportBallAmericanFootball1Icon {
+  const _SportBallAmericanFootball1Icon();
+
+  /// light style
+  _SportBallAmericanFootball1Light get light => const _SportBallAmericanFootball1Light();
+}
+
+/// ball american football 1 — light style variants.
+class _SportBallAmericanFootball1Light {
+  const _SportBallAmericanFootball1Light();
+
+  /// ball american football 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball american football 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.11378 20.9028C8.11378 18.1455 5.87848 15.9102 3.12109 15.9102" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.9023 3.10449C15.9023 5.86188 18.1376 8.09718 20.895 8.09718" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3555 9.64453L9.29656 14.7034" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0801 12.4277L11.5689 9.91656" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0781 14.4277L9.56693 11.9166" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9759 7.86362C21.0733 6.45645 20.9081 4.85885 20.0249 3.97492C19.1463 3.09559 17.5537 2.926 16.1321 3.02516C9.0923 3.51614 3.49582 9.12906 3.0255 16.1703C2.93081 17.5878 3.09849 19.1493 3.95745 20.0158C4.83183 20.8978 6.41089 21.0712 7.82555 20.9772C14.8713 20.5089 20.4879 14.908 20.9759 7.86362Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball american football 2 icon with style variants.
+class _SportBallAmericanFootball2Icon {
+  const _SportBallAmericanFootball2Icon();
+
+  /// outline style
+  _SportBallAmericanFootball2Outline get outline => const _SportBallAmericanFootball2Outline();
+}
+
+/// ball american football 2 — outline style variants.
+class _SportBallAmericanFootball2Outline {
+  const _SportBallAmericanFootball2Outline();
+
+  /// ball american football 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball american football 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.15588 21.7438C5.80297 21.84 4.46548 21.4076 3.42486 20.5378C2.30686 19.4108 2.18385 17.5108 2.27685 16.1148C2.52834 12.5336 4.06184 9.16294 6.5963 6.62039C9.13077 4.07784 12.4965 2.53366 16.0769 2.27076C17.4869 2.17076 19.4098 2.29576 20.5528 3.43876C21.6958 4.58176 21.8179 6.50076 21.7209 7.90976C21.4612 11.4929 19.9177 14.8621 17.374 17.399C14.8302 19.9358 11.4567 21.4699 7.87286 21.7198C7.64686 21.7348 7.40488 21.7438 7.15588 21.7438ZM16.8309 3.74376C16.6229 3.74376 16.4069 3.75176 16.1849 3.76676C12.9651 4.0024 9.93809 5.3904 7.6585 7.67642C5.37891 9.96243 3.99945 12.9934 3.77288 16.2138C3.56956 17.3546 3.82706 18.5295 4.48888 19.4808C4.95971 19.8172 5.49302 20.0561 6.05749 20.1835C6.62195 20.311 7.20618 20.3243 7.77587 20.2228C10.9983 19.9982 14.0317 18.6189 16.319 16.3379C18.6064 14.057 19.9943 11.0276 20.2279 7.80576C20.3313 7.23348 20.3197 6.64633 20.1939 6.07855C20.0681 5.51078 19.8304 4.97374 19.4949 4.49876C18.7312 3.92552 17.7818 3.65644 16.8309 3.74376Z" fill="black"/> <path d="M8.04279 21.7C7.84387 21.7 7.6531 21.621 7.51245 21.4804C7.3718 21.3397 7.29279 21.1489 7.29279 20.95C7.29173 19.825 6.84438 18.7464 6.04889 17.9509C5.2534 17.1555 4.17479 16.7081 3.0498 16.707C2.85089 16.707 2.66012 16.628 2.51947 16.4874C2.37882 16.3467 2.2998 16.1559 2.2998 15.957C2.2998 15.7581 2.37882 15.5674 2.51947 15.4267C2.66012 15.286 2.85089 15.207 3.0498 15.207C4.57246 15.2086 6.03227 15.8142 7.10895 16.8909C8.18563 17.9675 8.7912 19.4274 8.79279 20.95C8.79279 21.1489 8.71377 21.3397 8.57312 21.4804C8.43247 21.621 8.2417 21.7 8.04279 21.7Z" fill="black"/> <path d="M20.9502 8.7968C19.4261 8.79628 17.9645 8.19065 16.8867 7.11302C15.8088 6.03539 15.2029 4.57393 15.2021 3.0498C15.2021 2.85089 15.2812 2.66013 15.4218 2.51947C15.5625 2.37882 15.7532 2.2998 15.9521 2.2998C16.1511 2.2998 16.3418 2.37882 16.4825 2.51947C16.6231 2.66013 16.7021 2.85089 16.7021 3.0498C16.7024 4.17627 17.1501 5.25651 17.9467 6.05295C18.7433 6.84939 19.8237 7.2968 20.9502 7.2968C21.1491 7.2968 21.3399 7.37582 21.4805 7.51647C21.6212 7.65713 21.7002 7.84789 21.7002 8.0468C21.7002 8.24572 21.6212 8.43648 21.4805 8.57713C21.3399 8.71779 21.1491 8.7968 20.9502 8.7968Z" fill="black"/> <path d="M9.34953 15.4045C9.20129 15.4041 9.05651 15.3598 8.93339 15.2772C8.81027 15.1947 8.7143 15.0776 8.65763 14.9406C8.60096 14.8036 8.5861 14.6529 8.61491 14.5075C8.64371 14.3621 8.71494 14.2285 8.81956 14.1235L13.8775 9.06447C14.0182 8.92377 14.2091 8.84473 14.4081 8.84473C14.607 8.84473 14.7978 8.92377 14.9385 9.06447C15.0792 9.20516 15.1583 9.39599 15.1583 9.59497C15.1583 9.79394 15.0792 9.98477 14.9385 10.1255L9.87955 15.1845C9.81004 15.2542 9.7274 15.3096 9.63645 15.3473C9.5455 15.3851 9.448 15.4045 9.34953 15.4045Z" fill="black"/> <path d="M14.1289 13.128C14.0304 13.128 13.9329 13.1086 13.842 13.0708C13.751 13.033 13.6684 12.9777 13.5989 12.908L11.0879 10.397C11.0182 10.3273 10.9629 10.2446 10.9252 10.1536C10.8875 10.0625 10.8682 9.96497 10.8682 9.86645C10.8682 9.76793 10.8875 9.67037 10.9252 9.57935C10.9629 9.48832 11.0182 9.40562 11.0879 9.33595C11.2286 9.19525 11.4194 9.11621 11.6184 9.11621C11.7169 9.11621 11.8145 9.13562 11.9055 9.17332C11.9965 9.21102 12.0792 9.26628 12.1489 9.33595L14.6589 11.847C14.7635 11.952 14.8347 12.0856 14.8635 12.231C14.8923 12.3764 14.8774 12.5271 14.8207 12.6641C14.7641 12.801 14.6682 12.9182 14.545 13.0007C14.4219 13.0833 14.2771 13.1275 14.1289 13.128Z" fill="black"/> <path d="M12.127 15.128C12.0285 15.128 11.931 15.1086 11.84 15.0708C11.7491 15.033 11.6664 14.9777 11.5969 14.908L9.08594 12.397C8.94524 12.2563 8.86621 12.0654 8.86621 11.8665C8.86621 11.6675 8.94524 11.4766 9.08594 11.336C9.22663 11.1953 9.41748 11.1162 9.61646 11.1162C9.81543 11.1162 10.0063 11.1953 10.147 11.336L12.6569 13.847C12.7615 13.952 12.8328 14.0856 12.8616 14.231C12.8904 14.3764 12.8755 14.5271 12.8188 14.6641C12.7622 14.801 12.6662 14.9182 12.5431 15.0007C12.42 15.0833 12.2752 15.1275 12.127 15.128Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball american football 3 icon with style variants.
+class _SportBallAmericanFootball3Icon {
+  const _SportBallAmericanFootball3Icon();
+
+  /// outline style
+  _SportBallAmericanFootball3Outline get outline => const _SportBallAmericanFootball3Outline();
+}
+
+/// ball american football 3 — outline style variants.
+class _SportBallAmericanFootball3Outline {
+  const _SportBallAmericanFootball3Outline();
+
+  /// ball american football 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball american football 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.15588 21.7438C5.80297 21.84 4.46548 21.4076 3.42486 20.5378C2.30686 19.4108 2.18385 17.5108 2.27685 16.1148C2.52834 12.5336 4.06184 9.16294 6.5963 6.62039C9.13077 4.07784 12.4965 2.53366 16.0769 2.27076C17.4869 2.17076 19.4098 2.29576 20.5528 3.43876C21.6958 4.58176 21.8179 6.50076 21.7209 7.90976C21.4612 11.4929 19.9177 14.8621 17.374 17.399C14.8302 19.9358 11.4567 21.4699 7.87286 21.7198C7.64686 21.7348 7.40488 21.7438 7.15588 21.7438ZM16.8309 3.74376C16.6229 3.74376 16.4069 3.75176 16.1849 3.76676C12.9651 4.0024 9.93809 5.3904 7.6585 7.67642C5.37891 9.96243 3.99945 12.9934 3.77288 16.2138C3.56956 17.3546 3.82706 18.5295 4.48888 19.4808C4.95971 19.8172 5.49302 20.0561 6.05749 20.1835C6.62195 20.311 7.20618 20.3243 7.77587 20.2228C10.9983 19.9982 14.0317 18.6189 16.319 16.3379C18.6064 14.057 19.9943 11.0276 20.2279 7.80576C20.3313 7.23348 20.3197 6.64633 20.1939 6.07855C20.0681 5.51078 19.8304 4.97374 19.4949 4.49876C18.7312 3.92552 17.7818 3.65644 16.8309 3.74376Z" fill="black"/> <path d="M8.04279 21.7C7.84387 21.7 7.6531 21.621 7.51245 21.4804C7.3718 21.3397 7.29279 21.1489 7.29279 20.95C7.29173 19.825 6.84438 18.7464 6.04889 17.9509C5.2534 17.1555 4.17479 16.7081 3.0498 16.707C2.85089 16.707 2.66012 16.628 2.51947 16.4874C2.37882 16.3467 2.2998 16.1559 2.2998 15.957C2.2998 15.7581 2.37882 15.5674 2.51947 15.4267C2.66012 15.286 2.85089 15.207 3.0498 15.207C4.57246 15.2086 6.03227 15.8142 7.10895 16.8909C8.18563 17.9675 8.7912 19.4274 8.79279 20.95C8.79279 21.1489 8.71377 21.3397 8.57312 21.4804C8.43247 21.621 8.2417 21.7 8.04279 21.7Z" fill="black"/> <path d="M20.9502 8.7968C19.4261 8.79628 17.9645 8.19065 16.8867 7.11302C15.8088 6.03539 15.2029 4.57393 15.2021 3.0498C15.2021 2.85089 15.2812 2.66013 15.4218 2.51947C15.5625 2.37882 15.7532 2.2998 15.9521 2.2998C16.1511 2.2998 16.3418 2.37882 16.4825 2.51947C16.6231 2.66013 16.7021 2.85089 16.7021 3.0498C16.7024 4.17627 17.1501 5.25651 17.9467 6.05295C18.7433 6.84939 19.8237 7.2968 20.9502 7.2968C21.1491 7.2968 21.3399 7.37582 21.4805 7.51647C21.6212 7.65713 21.7002 7.84789 21.7002 8.0468C21.7002 8.24572 21.6212 8.43648 21.4805 8.57713C21.3399 8.71779 21.1491 8.7968 20.9502 8.7968Z" fill="black"/> <path d="M9.34953 15.4045C9.20129 15.4041 9.05651 15.3598 8.93339 15.2772C8.81027 15.1947 8.7143 15.0776 8.65763 14.9406C8.60096 14.8036 8.5861 14.6529 8.61491 14.5075C8.64371 14.3621 8.71494 14.2285 8.81956 14.1235L13.8775 9.06447C14.0182 8.92377 14.2091 8.84473 14.4081 8.84473C14.607 8.84473 14.7978 8.92377 14.9385 9.06447C15.0792 9.20516 15.1583 9.39599 15.1583 9.59497C15.1583 9.79394 15.0792 9.98477 14.9385 10.1255L9.87955 15.1845C9.81004 15.2542 9.7274 15.3096 9.63645 15.3473C9.5455 15.3851 9.448 15.4045 9.34953 15.4045Z" fill="black"/> <path d="M14.1289 13.128C14.0304 13.128 13.9329 13.1086 13.842 13.0708C13.751 13.033 13.6684 12.9777 13.5989 12.908L11.0879 10.397C11.0182 10.3273 10.9629 10.2446 10.9252 10.1536C10.8875 10.0625 10.8682 9.96497 10.8682 9.86645C10.8682 9.76793 10.8875 9.67037 10.9252 9.57935C10.9629 9.48832 11.0182 9.40562 11.0879 9.33595C11.2286 9.19525 11.4194 9.11621 11.6184 9.11621C11.7169 9.11621 11.8145 9.13562 11.9055 9.17332C11.9965 9.21102 12.0792 9.26628 12.1489 9.33595L14.6589 11.847C14.7635 11.952 14.8347 12.0856 14.8635 12.231C14.8923 12.3764 14.8774 12.5271 14.8207 12.6641C14.7641 12.801 14.6682 12.9182 14.545 13.0007C14.4219 13.0833 14.2771 13.1275 14.1289 13.128Z" fill="black"/> <path d="M12.127 15.128C12.0285 15.128 11.931 15.1086 11.84 15.0708C11.7491 15.033 11.6664 14.9777 11.5969 14.908L9.08594 12.397C8.94524 12.2563 8.86621 12.0654 8.86621 11.8665C8.86621 11.6675 8.94524 11.4766 9.08594 11.336C9.22663 11.1953 9.41748 11.1162 9.61646 11.1162C9.81543 11.1162 10.0063 11.1953 10.147 11.336L12.6569 13.847C12.7615 13.952 12.8328 14.0856 12.8616 14.231C12.8904 14.3764 12.8755 14.5271 12.8188 14.6641C12.7622 14.801 12.6662 14.9182 12.5431 15.0007C12.42 15.0833 12.2752 15.1275 12.127 15.128Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball american football 4 icon with style variants.
+class _SportBallAmericanFootball4Icon {
+  const _SportBallAmericanFootball4Icon();
+
+  /// twoTone style
+  _SportBallAmericanFootball4Twotone get twoTone => const _SportBallAmericanFootball4Twotone();
+}
+
+/// ball american football 4 — twoTone style variants.
+class _SportBallAmericanFootball4Twotone {
+  const _SportBallAmericanFootball4Twotone();
+
+  /// ball american football 4 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball american football 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.3438 10.6572L10.3077 13.6933" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.0469 3.39355L20.6058 9.95244" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.31836 14.123L9.87724 20.6819" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9759 7.86362C21.0733 6.45645 20.9081 4.85885 20.0249 3.97492C19.1463 3.09559 17.5537 2.926 16.1321 3.02516C9.0923 3.51614 3.49582 9.12906 3.0255 16.1703C2.93081 17.5878 3.09849 19.1493 3.95745 20.0158C4.83183 20.8978 6.41089 21.0712 7.82555 20.9772C14.8713 20.5089 20.4879 14.908 20.9759 7.86362Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball american football 5 icon with style variants.
+class _SportBallAmericanFootball5Icon {
+  const _SportBallAmericanFootball5Icon();
+
+  /// twoTone style
+  _SportBallAmericanFootball5Twotone get twoTone => const _SportBallAmericanFootball5Twotone();
+}
+
+/// ball american football 5 — twoTone style variants.
+class _SportBallAmericanFootball5Twotone {
+  const _SportBallAmericanFootball5Twotone();
+
+  /// ball american football 5 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball american football 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.05128 20.9575C8.05128 18.2001 5.81598 15.9648 3.05859 15.9648" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.9023 3.10449C15.9023 5.86188 18.1376 8.09718 20.895 8.09718" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3555 9.64453L9.29656 14.7034" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.0801 12.4277L11.5689 9.91656" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.0781 14.4277L9.56693 11.9166" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9759 7.86362C21.0733 6.45645 20.9081 4.85885 20.0249 3.97492C19.1463 3.09559 17.5537 2.926 16.1321 3.02516C9.0923 3.51614 3.49582 9.12906 3.0255 16.1703C2.93081 17.5878 3.09849 19.1493 3.95745 20.0158C4.83183 20.8978 6.41089 21.0712 7.82555 20.9772C14.8713 20.5089 20.4879 14.908 20.9759 7.86362Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball american football 6 icon with style variants.
+class _SportBallAmericanFootball6Icon {
+  const _SportBallAmericanFootball6Icon();
+
+  /// broken style
+  _SportBallAmericanFootball6Broken get broken => const _SportBallAmericanFootball6Broken();
+}
+
+/// ball american football 6 — broken style variants.
+class _SportBallAmericanFootball6Broken {
+  const _SportBallAmericanFootball6Broken();
+
+  /// ball american football 6 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball american football 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.3437 10.6562L10.3076 13.6923" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0469 3.39453L20.6058 9.95341" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.31836 14.123L9.87724 20.6819" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.82555 6.47628C10.0756 4.50993 12.957 3.2466 16.1321 3.02516C17.5537 2.926 19.1463 3.09559 20.0249 3.97492C20.9081 4.85885 21.0733 6.45645 20.9759 7.86362C20.4879 14.908 14.8713 20.5089 7.82555 20.9772C6.4109 21.0712 4.83183 20.8978 3.95745 20.0158C3.09849 19.1493 2.93081 17.5878 3.0255 16.1703C3.19266 13.6678 4.00734 11.3456 5.30421 9.36976" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball american football 7 icon with style variants.
+class _SportBallAmericanFootball7Icon {
+  const _SportBallAmericanFootball7Icon();
+
+  /// broken style
+  _SportBallAmericanFootball7Broken get broken => const _SportBallAmericanFootball7Broken();
+}
+
+/// ball american football 7 — broken style variants.
+class _SportBallAmericanFootball7Broken {
+  const _SportBallAmericanFootball7Broken();
+
+  /// ball american football 7 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball american football 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.3437 10.6562L10.3076 13.6923" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0469 3.39453L20.6058 9.95341" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.31836 14.123L9.87724 20.6819" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.82555 6.47628C10.0756 4.50993 12.957 3.2466 16.1321 3.02516C17.5537 2.926 19.1463 3.09559 20.0249 3.97492C20.9081 4.85885 21.0733 6.45645 20.9759 7.86362C20.4879 14.908 14.8713 20.5089 7.82555 20.9772C6.4109 21.0712 4.83183 20.8978 3.95745 20.0158C3.09849 19.1493 2.93081 17.5878 3.0255 16.1703C3.19266 13.6678 4.00734 11.3456 5.30421 9.36976" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball american football 8 icon with style variants.
+class _SportBallAmericanFootball8Icon {
+  const _SportBallAmericanFootball8Icon();
+
+  /// bold style
+  _SportBallAmericanFootball8Bold get bold => const _SportBallAmericanFootball8Bold();
+}
+
+/// ball american football 8 — bold style variants.
+class _SportBallAmericanFootball8Bold {
+  const _SportBallAmericanFootball8Bold();
+
+  /// ball american football 8 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball american football 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.12829 14.995C2.95671 14.8234 2.66404 14.9162 2.62965 15.1564C2.58334 15.4799 2.54706 15.8064 2.52503 16.1368C2.43503 17.4818 2.55003 19.3078 3.60003 20.3678C4.49303 21.2678 5.91903 21.4998 7.15103 21.4998C7.39603 21.4998 7.63403 21.4908 7.85803 21.4758C8.19029 21.4537 8.51857 21.4173 8.84387 21.3709C9.08419 21.3366 9.17708 21.0438 9.00543 20.8722L3.12829 14.995Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.8511 9.13861C21.0219 9.30938 21.3134 9.21847 21.3502 8.97979C21.4051 8.62363 21.4484 8.26374 21.4733 7.89872C21.5673 6.54272 21.4543 4.69872 20.3773 3.62172C19.3013 2.54472 17.4593 2.43172 16.0953 2.52672C15.7321 2.55154 15.374 2.59471 15.0197 2.64953C14.7811 2.68645 14.6903 2.97779 14.861 3.1485L20.8511 9.13861Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8727 11.1874L10.8367 14.2234C10.6897 14.3704 10.4987 14.4434 10.3067 14.4434C10.1137 14.4434 9.92272 14.3704 9.77572 14.2234C9.48272 13.9304 9.48272 13.4564 9.77572 13.1634L12.8117 10.1264C13.1047 9.83339 13.5797 9.83339 13.8727 10.1264C14.1657 10.4194 14.1657 10.8944 13.8727 11.1874ZM12.8923 3.30002C12.8133 3.22096 12.6966 3.19223 12.5904 3.2271C8.13465 4.68999 4.61492 8.23837 3.19037 12.7103C3.15673 12.8159 3.18569 12.9314 3.26407 13.0097L10.9914 20.7371C11.0698 20.8154 11.1852 20.8444 11.2908 20.8108C15.7628 19.3872 19.3111 15.8674 20.7731 11.4107C20.8079 11.3045 20.7792 11.1878 20.7002 11.1088L12.8923 3.30002Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball american football 9 icon with style variants.
+class _SportBallAmericanFootball9Icon {
+  const _SportBallAmericanFootball9Icon();
+
+  /// bold style
+  _SportBallAmericanFootball9Bold get bold => const _SportBallAmericanFootball9Bold();
+}
+
+/// ball american football 9 — bold style variants.
+class _SportBallAmericanFootball9Bold {
+  const _SportBallAmericanFootball9Bold();
+
+  /// ball american football 9 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball american football 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.85121 16.838C2.67022 16.793 2.49983 16.9332 2.505 17.1196C2.53704 18.2764 2.78825 19.5485 3.59874 20.3662C4.49174 21.2662 5.91674 21.4982 7.14974 21.4982C7.20433 21.4982 7.24454 21.4454 7.23343 21.392C6.76979 19.1604 5.05181 17.3855 2.85121 16.838Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.1609 7.55136C21.3341 7.58441 21.4921 7.4523 21.4943 7.27599C21.5099 6.01839 21.2967 4.54146 20.3761 3.61995C19.4561 2.69901 17.9819 2.48597 16.7191 2.50178C16.5428 2.50398 16.4106 2.66198 16.4437 2.83521C16.8985 5.21772 18.7783 7.09668 21.1609 7.55136Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8829 10.1735L14.0961 10.9603C13.9789 11.0775 13.9789 11.2674 14.0961 11.3846L14.6079 11.8965C14.9009 12.1895 14.9009 12.6635 14.6079 12.9565C14.4609 13.1035 14.2699 13.1765 14.0769 13.1765C13.8849 13.1765 13.6939 13.1035 13.5469 12.9565L13.0352 12.4447C12.918 12.3275 12.7279 12.3275 12.6108 12.4448L12.0948 12.9613C11.9778 13.0785 11.9778 13.2684 12.0949 13.3855L12.6059 13.8965C12.8989 14.1895 12.8989 14.6635 12.6059 14.9565C12.4589 15.1035 12.2679 15.1765 12.0749 15.1765C11.8829 15.1765 11.6919 15.1035 11.5449 14.9565L11.0341 14.4456C10.9169 14.3284 10.7269 14.3284 10.6098 14.4456L9.82392 15.2315C9.67792 15.3785 9.48692 15.4515 9.29392 15.4515C9.10192 15.4515 8.90992 15.3785 8.76392 15.2315C8.47092 14.9385 8.47092 14.4645 8.76392 14.1715L9.54979 13.3856C9.66694 13.2684 9.66694 13.0785 9.54979 12.9613L9.03392 12.4455C8.74092 12.1525 8.74092 11.6785 9.03392 11.3855C9.32692 11.0925 9.80192 11.0925 10.0949 11.3855L10.6099 11.9004C10.727 12.0175 10.9169 12.0176 11.0341 11.9005L11.5506 11.3846C11.6678 11.2674 11.6679 11.0774 11.5507 10.9602L11.0359 10.4455C10.7429 10.1525 10.7429 9.67845 11.0359 9.38545C11.3289 9.09245 11.8039 9.09245 12.0969 9.38545L12.6108 9.89932C12.7279 10.0165 12.9179 10.0165 13.0351 9.89932L13.8219 9.11245C14.1149 8.81945 14.5899 8.81945 14.8829 9.11245C15.1759 9.40545 15.1759 9.88045 14.8829 10.1735ZM14.9442 2.96797C14.9159 2.80164 14.7609 2.68437 14.5947 2.71355C8.43406 3.79554 3.58268 8.76621 2.66256 14.9781C2.63889 15.1379 2.74945 15.2855 2.90774 15.3179C5.80808 15.9105 8.096 18.1911 8.69769 21.0884C8.73049 21.2463 8.87811 21.3564 9.03766 21.3326C15.2428 20.4061 20.204 15.5584 21.2829 9.40068C21.3121 9.23451 21.1947 9.0795 21.0284 9.0513C17.9238 8.52485 15.4715 6.07261 14.9442 2.96797Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball american football 10 icon with style variants.
+class _SportBallAmericanFootball10Icon {
+  const _SportBallAmericanFootball10Icon();
+
+  /// bulk style
+  _SportBallAmericanFootball10Bulk get bulk => const _SportBallAmericanFootball10Bulk();
+}
+
+/// ball american football 10 — bulk style variants.
+class _SportBallAmericanFootball10Bulk {
+  const _SportBallAmericanFootball10Bulk();
+
+  /// ball american football 10 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball american football 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4679 7.89935C21.4279 8.45935 21.3579 9.00935 21.2479 9.53935C21.1479 10.1294 21.0079 10.6994 20.8379 11.2494C19.3879 15.8494 15.7279 19.4794 11.1279 20.8794C10.5679 21.0494 9.99785 21.1894 9.41785 21.2894C8.90786 21.3794 8.38785 21.4394 7.85785 21.4794C7.62785 21.4894 7.39785 21.4994 7.14785 21.4994C5.91785 21.4994 4.48785 21.2694 3.59785 20.3694C2.54786 19.3094 2.43785 17.4794 2.52785 16.1394C2.55785 15.6094 2.62785 15.0994 2.71785 14.5894C2.81785 13.9994 2.95785 13.4294 3.11785 12.8694C4.52785 8.26935 8.15786 4.60935 12.7479 3.15935C13.3079 2.98935 13.8779 2.84935 14.4579 2.74935C14.9979 2.63935 15.5379 2.56935 16.0979 2.52935C17.4579 2.42935 19.2979 2.54935 20.3779 3.61935C21.4579 4.69935 21.5679 6.53935 21.4679 7.89935Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8113 10.1274L9.77529 13.1634C9.48229 13.4564 9.48229 13.9314 9.77529 14.2244C9.92129 14.3704 10.1133 14.4434 10.3053 14.4434C10.4983 14.4434 10.6893 14.3704 10.8353 14.2244L13.8723 11.1884C14.1653 10.8954 14.1653 10.4204 13.8723 10.1274C13.5793 9.8344 13.1043 9.8344 12.8113 10.1274Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2478 9.53902C21.1478 10.129 21.0078 10.699 20.8378 11.249L12.7478 3.15902C13.3078 2.98902 13.8778 2.84902 14.4578 2.74902L21.2478 9.53902Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1278 20.8791C10.5678 21.0491 9.99777 21.1891 9.41777 21.2891L2.71777 14.5891C2.81777 13.9991 2.95777 13.4291 3.11777 12.8691L11.1278 20.8791Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball american football 11 icon with style variants.
+class _SportBallAmericanFootball11Icon {
+  const _SportBallAmericanFootball11Icon();
+
+  /// bulk style
+  _SportBallAmericanFootball11Bulk get bulk => const _SportBallAmericanFootball11Bulk();
+}
+
+/// ball american football 11 — bulk style variants.
+class _SportBallAmericanFootball11Bulk {
+  const _SportBallAmericanFootball11Bulk();
+
+  /// ball american football 11 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball american football 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4851 7.61066C21.4751 7.71066 21.4751 7.81066 21.4651 7.90066C21.4351 8.31066 21.3951 8.71066 21.3251 9.10066C20.3551 15.5007 15.1851 20.5707 8.74513 21.3907C8.45513 21.4307 8.15513 21.4607 7.85513 21.4807C7.65513 21.4907 7.45513 21.5007 7.24513 21.5007H7.14513C5.91513 21.5007 4.48513 21.2707 3.59513 20.3707C2.70513 19.4707 2.48513 18.0007 2.50513 16.7607C2.50513 16.5507 2.50513 16.3407 2.52513 16.1407C2.54513 15.8407 2.57513 15.5507 2.61513 15.2607C3.43513 8.81066 8.49513 3.65066 14.8951 2.67066C15.2851 2.60066 15.6851 2.56066 16.0951 2.53066C16.1851 2.52066 16.2851 2.52066 16.3851 2.51066C17.7051 2.45066 19.3651 2.62066 20.3751 3.62066C21.3751 4.62066 21.5451 6.28066 21.4851 7.61066Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.74537 21.3907C8.45537 21.4307 8.15537 21.4607 7.85537 21.4807C7.65537 21.4907 7.45537 21.5007 7.24537 21.5007C6.79537 19.1007 4.90537 17.2107 2.50537 16.7607C2.50537 16.5507 2.50537 16.3407 2.52537 16.1407C2.54537 15.8407 2.57537 15.5507 2.61537 15.2607C5.74537 15.7707 8.23537 18.2507 8.74537 21.3907Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8205 9.11678L12.8215 10.1158L12.0945 9.38878C11.8015 9.09578 11.3275 9.09578 11.0345 9.38878C10.7415 9.68178 10.7415 10.1568 11.0345 10.4498L11.7605 11.1758L10.8205 12.1168L10.0925 11.3888C9.7995 11.0958 9.3255 11.0958 9.0325 11.3888C8.7395 11.6818 8.7395 12.1568 9.0325 12.4498L9.7595 13.1768L8.7615 14.1748C8.4685 14.4678 8.4685 14.9428 8.7615 15.2358C8.9085 15.3818 9.0995 15.4548 9.2925 15.4548C9.4845 15.4548 9.6755 15.3818 9.8225 15.2358L10.8205 14.2378L11.5435 14.9608C11.6895 15.1068 11.8815 15.1798 12.0735 15.1798C12.2655 15.1798 12.4575 15.1068 12.6035 14.9608C12.8965 14.6678 12.8965 14.1928 12.6035 13.8998L11.8805 13.1768L12.8215 12.2368L13.5455 12.9608C13.6915 13.1068 13.8825 13.1798 14.0755 13.1798C14.2675 13.1798 14.4595 13.1068 14.6055 12.9608C14.8985 12.6678 14.8985 12.1928 14.6055 11.8998L13.8815 11.1758L14.8815 10.1778C15.1745 9.88478 15.1745 9.40978 14.8815 9.11678C14.5885 8.82378 14.1135 8.82378 13.8205 9.11678Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4853 7.61074C21.4753 7.71074 21.4753 7.81074 21.4653 7.90074C21.4353 8.31074 21.3953 8.71074 21.3253 9.10074C17.9753 8.68074 15.3153 6.02074 14.8953 2.67074C15.2853 2.60074 15.6853 2.56074 16.0953 2.53074C16.1853 2.52074 16.2853 2.52074 16.3853 2.51074C16.7353 5.16074 18.8353 7.26074 21.4853 7.61074Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
     type: IconfyType.regular,
   );
 
@@ -690,48 +1082,10 @@ class _SportRideBikeLight {
 class _SportBallBasketballIcon {
   const _SportBallBasketballIcon();
 
-  /// bold style
-  _SportBallBasketballBold get bold => const _SportBallBasketballBold();
-  /// bulk style
-  _SportBallBasketballBulk get bulk => const _SportBallBasketballBulk();
-  /// light style
-  _SportBallBasketballLight get light => const _SportBallBasketballLight();
   /// outline style
   _SportBallBasketballOutline get outline => const _SportBallBasketballOutline();
   /// twoTone style
   _SportBallBasketballTwotone get twoTone => const _SportBallBasketballTwotone();
-  /// broken style
-  _SportBallBasketballBroken get broken => const _SportBallBasketballBroken();
-}
-
-/// ball Basketball — bulk style variants.
-class _SportBallBasketballBulk {
-  const _SportBallBasketballBulk();
-
-  /// ball Basketball — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'ball Basketball',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 12C21.5 15.21 19.91 18.05 17.47 19.77C17.02 20.09 16.53 20.37 16.02 20.62C14.8 21.18 13.43 21.5 12 21.5C11.88 21.5 11.76 21.5 11.64 21.49C11.13 21.47 10.63 21.41 10.14 21.32C6.39 20.57 3.43 17.61 2.68 13.86C2.59 13.37 2.53 12.87 2.51 12.36C2.5 12.24 2.5 12.12 2.5 12C2.5 10.54 2.83 9.16 3.41 7.92C3.66 7.41 3.95 6.93 4.27 6.47C6 4.07 8.82 2.5 12 2.5C12.12 2.5 12.24 2.5 12.36 2.51C12.88 2.53 13.38 2.59 13.87 2.68C17.61 3.44 20.56 6.39 21.32 10.13C21.41 10.62 21.47 11.12 21.49 11.64C21.5 11.76 21.5 11.88 21.5 12Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0103 11.6207C18.9203 11.6207 17.0003 12.3207 15.4403 13.4807C16.5703 15.3507 17.3003 17.4807 17.4703 19.7707C17.0203 20.0907 16.5303 20.3707 16.0203 20.6207C15.9703 18.3807 15.3403 16.2907 14.2903 14.4707C12.6503 16.1607 11.6303 18.4607 11.6303 21.0007C11.6303 21.1607 11.6403 21.3307 11.6403 21.4907C11.1303 21.4707 10.6303 21.4107 10.1403 21.3207C10.1303 21.2107 10.1303 21.1107 10.1303 21.0007C10.1303 17.9407 11.4103 15.1707 13.4503 13.2007C12.7003 12.1907 11.8203 11.3007 10.8203 10.5407C8.84025 12.5907 6.07025 13.8707 3.00025 13.8707C2.89025 13.8707 2.78025 13.8707 2.68025 13.8607C2.59025 13.3707 2.53025 12.8707 2.51025 12.3607C2.67025 12.3707 2.84025 12.3707 3.00025 12.3707C5.55025 12.3707 7.86025 11.3507 9.55025 9.70074C7.73025 8.63074 5.65025 7.98074 3.41025 7.92074C3.66025 7.41074 3.95025 6.93074 4.27025 6.47074C6.55025 6.67074 8.68025 7.41074 10.5403 8.55074C11.6903 6.99074 12.3803 5.07074 12.3803 2.99074C12.3803 2.83074 12.3803 2.67074 12.3603 2.51074C12.8803 2.53074 13.3803 2.59074 13.8703 2.68074C13.8803 2.78074 13.8803 2.88074 13.8803 2.99074C13.8803 5.39074 13.1003 7.60074 11.7803 9.39074C12.8503 10.2107 13.7903 11.1607 14.6003 12.2307C16.4003 10.9107 18.6103 10.1207 21.0103 10.1207C21.1103 10.1207 21.2203 10.1207 21.3203 10.1307C21.4103 10.6207 21.4703 11.1207 21.4903 11.6407C21.3303 11.6207 21.1703 11.6207 21.0103 11.6207Z" fill="black"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// ball Basketball — broken style variants.
-class _SportBallBasketballBroken {
-  const _SportBallBasketballBroken();
-
-  /// ball Basketball — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'ball Basketball',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.65039 5.65039L12.0004 12.0004" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1826 14.1836L18.3506 18.3516" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.65039 18.3504L18.3504 5.65039" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4924 5.94336C13.712 9.46816 17.0603 11.9994 20.9999 11.9994" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 12C7.97056 12 12 16.0294 12 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// ball Basketball — twoTone style variants.
@@ -764,13 +1118,113 @@ class _SportBallBasketballOutline {
 
 }
 
-/// ball Basketball — bold style variants.
-class _SportBallBasketballBold {
-  const _SportBallBasketballBold();
+/// ball Basketball 1 icon with style variants.
+class _SportBallBasketball1Icon {
+  const _SportBallBasketball1Icon();
 
-  /// ball Basketball — bold / regular
+  /// light style
+  _SportBallBasketball1Light get light => const _SportBallBasketball1Light();
+}
+
+/// ball Basketball 1 — light style variants.
+class _SportBallBasketball1Light {
+  const _SportBallBasketball1Light();
+
+  /// ball Basketball 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'ball Basketball',
+    name: 'ball Basketball 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12C21 16.9706 16.9706 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2399 19.9398C16.2399 13.2125 10.8126 7.75273 4.09766 7.7002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.9667 3.22266C12.9886 3.47876 12.9998 3.73792 12.9998 3.99969C12.9998 8.97025 8.97036 12.9997 3.99979 12.9997C3.70733 12.9997 3.41813 12.9857 3.13281 12.9585" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.0402 20.8561C11.0136 20.5743 11 20.2887 11 20C11 15.0294 15.0294 11 20 11C20.2475 11 20.4926 11.01 20.7351 11.0296" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball Basketball 2 icon with style variants.
+class _SportBallBasketball2Icon {
+  const _SportBallBasketball2Icon();
+
+  /// light style
+  _SportBallBasketball2Light get light => const _SportBallBasketball2Light();
+}
+
+/// ball Basketball 2 — light style variants.
+class _SportBallBasketball2Light {
+  const _SportBallBasketball2Light();
+
+  /// ball Basketball 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball Basketball 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle cx="12" cy="12" r="9" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.65039 5.65039L18.3504 18.3504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.65039 18.3504L18.3504 5.65039" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3C12 7.97056 16.0294 12 21 12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 12C7.97056 12 12 16.0294 12 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball Basketball 3 icon with style variants.
+class _SportBallBasketball3Icon {
+  const _SportBallBasketball3Icon();
+
+  /// broken style
+  _SportBallBasketball3Broken get broken => const _SportBallBasketball3Broken();
+}
+
+/// ball Basketball 3 — broken style variants.
+class _SportBallBasketball3Broken {
+  const _SportBallBasketball3Broken();
+
+  /// ball Basketball 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball Basketball 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.65039 5.65039L12.0004 12.0004" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1826 14.1836L18.3506 18.3516" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.65039 18.3504L18.3504 5.65039" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4924 5.94336C13.712 9.46816 17.0603 11.9994 20.9999 11.9994" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 12C7.97056 12 12 16.0294 12 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball Basketball 4 icon with style variants.
+class _SportBallBasketball4Icon {
+  const _SportBallBasketball4Icon();
+
+  /// broken style
+  _SportBallBasketball4Broken get broken => const _SportBallBasketball4Broken();
+}
+
+/// ball Basketball 4 — broken style variants.
+class _SportBallBasketball4Broken {
+  const _SportBallBasketball4Broken();
+
+  /// ball Basketball 4 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball Basketball 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.2442 8.38409C20.7302 9.49071 21 10.7139 21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C14.5645 3 16.8784 4.07258 18.5178 5.79362" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2399 19.9398C16.2399 16.8441 15.0907 14.0168 13.1956 11.8613" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.8262 9.77767C8.90125 8.48191 6.58801 7.7187 4.09766 7.69922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.9667 3.22266C12.9886 3.47876 12.9998 3.73792 12.9998 3.99969C12.9998 8.97025 8.97036 12.9997 3.99979 12.9997C3.70733 12.9997 3.41813 12.9857 3.13281 12.9585" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.0402 20.8561C11.0136 20.5743 11 20.2887 11 20C11 15.0294 15.0294 11 20 11C20.2475 11 20.4926 11.01 20.7351 11.0296" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball Basketball 5 icon with style variants.
+class _SportBallBasketball5Icon {
+  const _SportBallBasketball5Icon();
+
+  /// bold style
+  _SportBallBasketball5Bold get bold => const _SportBallBasketball5Bold();
+}
+
+/// ball Basketball 5 — bold style variants.
+class _SportBallBasketball5Bold {
+  const _SportBallBasketball5Bold();
+
+  /// ball Basketball 5 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball Basketball 5',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.1205 10.3335C14.9989 10.2334 14.8206 10.2393 14.7093 10.3507L13.273 11.7878C13.1559 11.9049 13.1559 12.0948 13.273 12.212L18.9896 17.9294C19.1133 18.0531 19.3165 18.0455 19.4255 17.9087C20.5147 16.5426 21.2327 14.871 21.4338 13.0445C21.4525 12.8749 21.3206 12.7284 21.1503 12.7175C18.8688 12.5714 16.784 11.7031 15.1205 10.3335Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7878 10.7269C11.905 10.844 12.095 10.844 12.2121 10.7268L13.6484 9.28976C13.7597 9.17838 13.7656 9.00017 13.6655 8.8786C12.2967 7.216 11.4277 5.13127 11.2823 2.84985C11.2715 2.67949 11.1249 2.54754 10.9552 2.56622C9.12892 2.76729 7.45808 3.4845 6.09136 4.57351C5.95451 4.68255 5.94678 4.88582 6.07051 5.00954L11.7878 10.7269Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.87908 13.6659C9.00067 13.7659 9.17887 13.76 9.29022 13.6487L10.7274 12.2115C10.8446 12.0943 10.8446 11.9043 10.7274 11.7872L5.00999 6.07069C4.88629 5.94701 4.68309 5.95471 4.57404 6.09148C3.4849 7.45745 2.76687 9.12829 2.56573 10.9547C2.54705 11.1243 2.67893 11.2708 2.84923 11.2817C5.13074 11.4279 7.21559 12.297 8.87908 13.6659Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.87678 12.7862C2.69732 12.7724 2.55112 12.9246 2.57192 13.1034C2.78178 14.9069 3.4968 16.5568 4.57422 17.9082C4.68327 18.045 4.8865 18.0527 5.0102 17.929L7.80241 15.1368C7.92645 15.0127 7.91832 14.8088 7.78054 14.7003C6.40835 13.6191 4.71893 12.9284 2.87678 12.7862Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.29916 16.2192C9.19059 16.0815 8.98674 16.0734 8.86273 16.1974L6.07044 18.9897C5.94674 19.1134 5.95444 19.3166 6.09123 19.4256C7.44258 20.5031 9.09248 21.2181 10.8961 21.4279C11.0748 21.4487 11.227 21.3025 11.2132 21.1231C11.071 19.2808 10.3803 17.5907 9.29916 16.2192Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.1974 8.86254C16.0734 8.98655 16.0815 9.1904 16.2192 9.29897C17.5907 10.3801 19.2808 11.0708 21.1231 11.213C21.3025 11.2268 21.4488 11.0746 21.428 10.8959C21.2181 9.09229 20.5031 7.44239 19.4257 6.09104C19.3166 5.95425 19.1134 5.94655 18.9897 6.07025L16.1974 8.86254Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.212 13.2723C12.0949 13.1551 11.9049 13.1551 11.7878 13.2723L10.3506 14.7094C10.2392 14.8208 10.2333 14.999 10.3335 15.1206C11.7031 16.7841 12.5722 18.8689 12.7176 21.1503C12.7284 21.3207 12.875 21.4526 13.0447 21.4339C14.871 21.2328 16.5418 20.5148 17.9086 19.4257C18.0454 19.3166 18.0531 19.1133 17.9294 18.9896L12.212 13.2723Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9291 5.00976C18.0528 4.88606 18.0451 4.68284 17.9083 4.57378C16.557 3.4964 14.9072 2.78139 13.1037 2.5715C12.9248 2.55069 12.7726 2.69699 12.7865 2.8765C12.9294 4.71868 13.6194 6.4088 14.7004 7.78024C14.809 7.91797 15.0128 7.92606 15.1368 7.80205L17.9291 5.00976Z" fill="black"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.bold,
@@ -779,16 +1233,70 @@ class _SportBallBasketballBold {
 
 }
 
-/// ball Basketball — light style variants.
-class _SportBallBasketballLight {
-  const _SportBallBasketballLight();
+/// ball Basketball 6 icon with style variants.
+class _SportBallBasketball6Icon {
+  const _SportBallBasketball6Icon();
 
-  /// ball Basketball — light / regular
+  /// bold style
+  _SportBallBasketball6Bold get bold => const _SportBallBasketball6Bold();
+}
+
+/// ball Basketball 6 — bold style variants.
+class _SportBallBasketball6Bold {
+  const _SportBallBasketball6Bold();
+
+  /// ball Basketball 6 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'ball Basketball',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle cx="12" cy="12" r="9" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.65039 5.65039L18.3504 18.3504" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.65039 18.3504L18.3504 5.65039" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3C12 7.97056 16.0294 12 21 12" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 12C7.97056 12 12 16.0294 12 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    name: 'ball Basketball 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.1205 10.3335C14.9989 10.2334 14.8206 10.2393 14.7093 10.3507L13.273 11.7878C13.1559 11.9049 13.1559 12.0948 13.273 12.212L18.9896 17.9294C19.1133 18.0531 19.3165 18.0455 19.4255 17.9087C20.5147 16.5426 21.2327 14.871 21.4338 13.0445C21.4525 12.8749 21.3206 12.7284 21.1503 12.7175C18.8688 12.5714 16.784 11.7031 15.1205 10.3335Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7878 10.7269C11.905 10.844 12.095 10.844 12.2121 10.7268L13.6484 9.28976C13.7597 9.17838 13.7656 9.00017 13.6655 8.8786C12.2967 7.216 11.4277 5.13127 11.2823 2.84985C11.2715 2.67949 11.1249 2.54754 10.9552 2.56622C9.12892 2.76729 7.45808 3.4845 6.09136 4.57351C5.95451 4.68255 5.94678 4.88582 6.07051 5.00954L11.7878 10.7269Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.87908 13.6659C9.00067 13.7659 9.17887 13.76 9.29022 13.6487L10.7274 12.2115C10.8446 12.0943 10.8446 11.9043 10.7274 11.7872L5.00999 6.07069C4.88629 5.94701 4.68309 5.95471 4.57404 6.09148C3.4849 7.45745 2.76687 9.12829 2.56573 10.9547C2.54705 11.1243 2.67893 11.2708 2.84923 11.2817C5.13074 11.4279 7.21559 12.297 8.87908 13.6659Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.87678 12.7862C2.69732 12.7724 2.55112 12.9246 2.57192 13.1034C2.78178 14.9069 3.4968 16.5568 4.57422 17.9082C4.68327 18.045 4.8865 18.0527 5.0102 17.929L7.80241 15.1368C7.92645 15.0127 7.91832 14.8088 7.78054 14.7003C6.40835 13.6191 4.71893 12.9284 2.87678 12.7862Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.29916 16.2192C9.19059 16.0815 8.98674 16.0734 8.86273 16.1974L6.07044 18.9897C5.94674 19.1134 5.95444 19.3166 6.09123 19.4256C7.44258 20.5031 9.09248 21.2181 10.8961 21.4279C11.0748 21.4487 11.227 21.3025 11.2132 21.1231C11.071 19.2808 10.3803 17.5907 9.29916 16.2192Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.1974 8.86254C16.0734 8.98655 16.0815 9.1904 16.2192 9.29897C17.5907 10.3801 19.2808 11.0708 21.1231 11.213C21.3025 11.2268 21.4488 11.0746 21.428 10.8959C21.2181 9.09229 20.5031 7.44239 19.4257 6.09104C19.3166 5.95425 19.1134 5.94655 18.9897 6.07025L16.1974 8.86254Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.212 13.2723C12.0949 13.1551 11.9049 13.1551 11.7878 13.2723L10.3506 14.7094C10.2392 14.8208 10.2333 14.999 10.3335 15.1206C11.7031 16.7841 12.5722 18.8689 12.7176 21.1503C12.7284 21.3207 12.875 21.4526 13.0447 21.4339C14.871 21.2328 16.5418 20.5148 17.9086 19.4257C18.0454 19.3166 18.0531 19.1133 17.9294 18.9896L12.212 13.2723Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.9291 5.00976C18.0528 4.88606 18.0451 4.68284 17.9083 4.57378C16.557 3.4964 14.9072 2.78139 13.1037 2.5715C12.9248 2.55069 12.7726 2.69699 12.7865 2.8765C12.9294 4.71868 13.6194 6.4088 14.7004 7.78024C14.809 7.91797 15.0128 7.92606 15.1368 7.80205L17.9291 5.00976Z" fill="black"/> </svg>',
     category: 'Sport',
-    style: IconfyStyle.light,
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball Basketball 7 icon with style variants.
+class _SportBallBasketball7Icon {
+  const _SportBallBasketball7Icon();
+
+  /// bulk style
+  _SportBallBasketball7Bulk get bulk => const _SportBallBasketball7Bulk();
+}
+
+/// ball Basketball 7 — bulk style variants.
+class _SportBallBasketball7Bulk {
+  const _SportBallBasketball7Bulk();
+
+  /// ball Basketball 7 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball Basketball 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 12C21.5 15.21 19.91 18.05 17.47 19.77C17.02 20.09 16.53 20.37 16.02 20.62C14.8 21.18 13.43 21.5 12 21.5C11.88 21.5 11.76 21.5 11.64 21.49C11.13 21.47 10.63 21.41 10.14 21.32C6.39 20.57 3.43 17.61 2.68 13.86C2.59 13.37 2.53 12.87 2.51 12.36C2.5 12.24 2.5 12.12 2.5 12C2.5 10.54 2.83 9.16 3.41 7.92C3.66 7.41 3.95 6.93 4.27 6.47C6 4.07 8.82 2.5 12 2.5C12.12 2.5 12.24 2.5 12.36 2.51C12.88 2.53 13.38 2.59 13.87 2.68C17.61 3.44 20.56 6.39 21.32 10.13C21.41 10.62 21.47 11.12 21.49 11.64C21.5 11.76 21.5 11.88 21.5 12Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0103 11.6207C18.9203 11.6207 17.0003 12.3207 15.4403 13.4807C16.5703 15.3507 17.3003 17.4807 17.4703 19.7707C17.0203 20.0907 16.5303 20.3707 16.0203 20.6207C15.9703 18.3807 15.3403 16.2907 14.2903 14.4707C12.6503 16.1607 11.6303 18.4607 11.6303 21.0007C11.6303 21.1607 11.6403 21.3307 11.6403 21.4907C11.1303 21.4707 10.6303 21.4107 10.1403 21.3207C10.1303 21.2107 10.1303 21.1107 10.1303 21.0007C10.1303 17.9407 11.4103 15.1707 13.4503 13.2007C12.7003 12.1907 11.8203 11.3007 10.8203 10.5407C8.84025 12.5907 6.07025 13.8707 3.00025 13.8707C2.89025 13.8707 2.78025 13.8707 2.68025 13.8607C2.59025 13.3707 2.53025 12.8707 2.51025 12.3607C2.67025 12.3707 2.84025 12.3707 3.00025 12.3707C5.55025 12.3707 7.86025 11.3507 9.55025 9.70074C7.73025 8.63074 5.65025 7.98074 3.41025 7.92074C3.66025 7.41074 3.95025 6.93074 4.27025 6.47074C6.55025 6.67074 8.68025 7.41074 10.5403 8.55074C11.6903 6.99074 12.3803 5.07074 12.3803 2.99074C12.3803 2.83074 12.3803 2.67074 12.3603 2.51074C12.8803 2.53074 13.3803 2.59074 13.8703 2.68074C13.8803 2.78074 13.8803 2.88074 13.8803 2.99074C13.8803 5.39074 13.1003 7.60074 11.7803 9.39074C12.8503 10.2107 13.7903 11.1607 14.6003 12.2307C16.4003 10.9107 18.6103 10.1207 21.0103 10.1207C21.1103 10.1207 21.2203 10.1207 21.3203 10.1307C21.4103 10.6207 21.4703 11.1207 21.4903 11.6407C21.3303 11.6207 21.1703 11.6207 21.0103 11.6207Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball Basketball 8 icon with style variants.
+class _SportBallBasketball8Icon {
+  const _SportBallBasketball8Icon();
+
+  /// bulk style
+  _SportBallBasketball8Bulk get bulk => const _SportBallBasketball8Bulk();
+}
+
+/// ball Basketball 8 — bulk style variants.
+class _SportBallBasketball8Bulk {
+  const _SportBallBasketball8Bulk();
+
+  /// ball Basketball 8 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball Basketball 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 12C21.5 15.21 19.91 18.05 17.47 19.77C17.02 20.09 16.53 20.37 16.02 20.62C14.8 21.18 13.43 21.5 12 21.5C11.88 21.5 11.76 21.5 11.64 21.49C11.13 21.47 10.63 21.41 10.14 21.32C6.39 20.57 3.43 17.61 2.68 13.86C2.59 13.37 2.53 12.87 2.51 12.36C2.5 12.24 2.5 12.12 2.5 12C2.5 10.54 2.83 9.16 3.41 7.92C3.66 7.41 3.95 6.93 4.27 6.47C6 4.07 8.82 2.5 12 2.5C12.12 2.5 12.24 2.5 12.36 2.51C12.88 2.53 13.38 2.59 13.87 2.68C17.61 3.44 20.56 6.39 21.32 10.13C21.41 10.62 21.47 11.12 21.49 11.64C21.5 11.76 21.5 11.88 21.5 12Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0103 11.6207C18.9203 11.6207 17.0003 12.3207 15.4403 13.4807C16.5703 15.3507 17.3003 17.4807 17.4703 19.7707C17.0203 20.0907 16.5303 20.3707 16.0203 20.6207C15.9703 18.3807 15.3403 16.2907 14.2903 14.4707C12.6503 16.1607 11.6303 18.4607 11.6303 21.0007C11.6303 21.1607 11.6403 21.3307 11.6403 21.4907C11.1303 21.4707 10.6303 21.4107 10.1403 21.3207C10.1303 21.2107 10.1303 21.1107 10.1303 21.0007C10.1303 17.9407 11.4103 15.1707 13.4503 13.2007C12.7003 12.1907 11.8203 11.3007 10.8203 10.5407C8.84025 12.5907 6.07025 13.8707 3.00025 13.8707C2.89025 13.8707 2.78025 13.8707 2.68025 13.8607C2.59025 13.3707 2.53025 12.8707 2.51025 12.3607C2.67025 12.3707 2.84025 12.3707 3.00025 12.3707C5.55025 12.3707 7.86025 11.3507 9.55025 9.70074C7.73025 8.63074 5.65025 7.98074 3.41025 7.92074C3.66025 7.41074 3.95025 6.93074 4.27025 6.47074C6.55025 6.67074 8.68025 7.41074 10.5403 8.55074C11.6903 6.99074 12.3803 5.07074 12.3803 2.99074C12.3803 2.83074 12.3803 2.67074 12.3603 2.51074C12.8803 2.53074 13.3803 2.59074 13.8703 2.68074C13.8803 2.78074 13.8803 2.88074 13.8803 2.99074C13.8803 5.39074 13.1003 7.60074 11.7803 9.39074C12.8503 10.2107 13.7903 11.1607 14.6003 12.2307C16.4003 10.9107 18.6103 10.1207 21.0103 10.1207C21.1103 10.1207 21.2203 10.1207 21.3203 10.1307C21.4103 10.6207 21.4703 11.1207 21.4903 11.6407C21.3303 11.6207 21.1703 11.6207 21.0103 11.6207Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
     type: IconfyType.regular,
   );
 
@@ -895,6 +1403,546 @@ class _SportScaleLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Scale',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.0927 15.964C19.7015 19.1273 18.9512 20.9783 15.3375 20.9783H8.66246C5.07693 20.9783 4.28101 19.1273 3.88984 15.964L3.04248 8.0358C2.66296 4.81231 4.8731 3.02148 7.8151 3.02148H16.1859C19.1269 3.02148 21.337 4.81231 20.9575 8.0358L20.0927 15.964Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0009 6.81543C9.34231 6.81543 7.1875 8.97024 7.1875 11.6288H16.8143C16.8143 8.97024 14.6595 6.81543 12.0009 6.81543Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.8146 16.9023H4.16797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 11.6283V9.61035" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 1 icon with style variants.
+class _SportScale1Icon {
+  const _SportScale1Icon();
+
+  /// bold style
+  _SportScale1Bold get bold => const _SportScale1Bold();
+  /// bulk style
+  _SportScale1Bulk get bulk => const _SportScale1Bulk();
+  /// light style
+  _SportScale1Light get light => const _SportScale1Light();
+  /// outline style
+  _SportScale1Outline get outline => const _SportScale1Outline();
+  /// twoTone style
+  _SportScale1Twotone get twoTone => const _SportScale1Twotone();
+  /// broken style
+  _SportScale1Broken get broken => const _SportScale1Broken();
+}
+
+/// Scale 1 — bulk style variants.
+class _SportScale1Bulk {
+  const _SportScale1Bulk();
+
+  /// Scale 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M16.217 2.5H7.782C4.623 2.5 2.5 4.721 2.5 8.026V15.974C2.5 19.279 4.623 21.5 7.782 21.5H10.95H13.05H16.216C19.376 21.5 21.5 19.279 21.5 15.974V8.026C21.5 4.721 19.377 2.5 16.217 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.826 12.5008H7.17603C6.76203 12.5008 6.42603 12.1648 6.42603 11.7508C6.42603 8.67678 8.92703 6.17578 12.001 6.17578C15.075 6.17578 17.576 8.67678 17.576 11.7508C17.576 12.1648 17.24 12.5008 16.826 12.5008ZM8.07687 10.6489C8.55858 8.93538 10.1353 7.67556 12.0008 7.67556C13.8663 7.67556 15.443 8.93538 15.9247 10.6489C15.9755 10.8296 15.8333 11.0006 15.6456 11.0006H12.8498C12.7945 11.0006 12.7498 10.9558 12.7498 10.9006V9.72756C12.7498 9.31356 12.4138 8.97756 11.9998 8.97756C11.5858 8.97756 11.2498 9.31356 11.2498 9.72756V10.9006C11.2498 10.9558 11.205 11.0006 11.1498 11.0006H8.356C8.16824 11.0006 8.02606 10.8296 8.07687 10.6489Z" fill="black"/> <path d="M11.25 21.1998V16.4928C11.25 16.0788 11.586 15.7428 12 15.7428C12.414 15.7428 12.75 16.0788 12.75 16.4928V21.1998C12.75 21.3655 12.8843 21.4998 13.05 21.4998H10.95C11.1157 21.4998 11.25 21.3655 11.25 21.1998Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 1 — broken style variants.
+class _SportScale1Broken {
+  const _SportScale1Broken();
+
+  /// Scale 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83405 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V12.5124" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 16.4922V20.8569" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0008 6.92578C14.6657 6.92578 16.8257 9.08578 16.8257 11.7508H7.17578C7.17578 10.3173 7.80069 9.03001 8.79296 8.14631" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 11.7494V9.72656" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 1 — twoTone style variants.
+class _SportScale1Twotone {
+  const _SportScale1Twotone();
+
+  /// Scale 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.28216 3H16.7169C19.665 3 21.5 5.08119 21.5 8.02638V15.9736C21.5 18.9188 19.665 21 16.7159 21H8.28216C5.33405 21 3.5 18.9188 3.5 15.9736V8.02638C3.5 5.08119 5.34281 3 8.28216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5 16.4932V20.8579" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5008 6.92578C15.1657 6.92578 17.3257 9.08578 17.3257 11.7508H7.67578C7.67578 9.08578 9.83578 6.92578 12.5008 6.92578Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5 11.7504V9.72754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 1 — outline style variants.
+class _SportScale1Outline {
+  const _SportScale1Outline();
+
+  /// Scale 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.9902 3.89737C4.97468 2.84117 6.37669 2.25 8.03216 2.25H16.4669C18.1262 2.25 19.5288 2.84084 20.5129 3.89765C21.4913 4.94841 22 6.39889 22 8.02638V15.9736C22 17.6011 21.4913 19.0516 20.5127 20.1024C19.5285 21.1592 18.1256 21.75 16.4659 21.75H8.03216C6.3728 21.75 4.97038 21.1591 3.98657 20.1023C3.00842 19.0515 2.5 17.601 2.5 15.9736V8.02638C2.5 6.39806 3.01117 4.94771 3.9902 3.89737ZM5.08745 4.92012C4.41024 5.64666 4 6.70951 4 8.02638V15.9736C4 17.2914 4.40861 18.3541 5.08451 19.0802C5.75475 19.8003 6.74341 20.25 8.03216 20.25H16.4659C17.7552 20.25 18.7444 19.8002 19.415 19.0801C20.0912 18.354 20.5 17.2913 20.5 15.9736V8.02638C20.5 6.70868 20.0912 5.64597 19.4151 4.91984C18.7446 4.19975 17.7556 3.75 16.4669 3.75H8.03216C6.74828 3.75 5.75921 4.19943 5.08745 4.92012Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 15.7432C12.6642 15.7432 13 16.079 13 16.4932V20.8579C13 21.2721 12.6642 21.6079 12.25 21.6079C11.8358 21.6079 11.5 21.2721 11.5 20.8579V16.4932C11.5 16.079 11.8358 15.7432 12.25 15.7432Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.67578 11.7508C6.67578 8.67157 9.17157 6.17578 12.2508 6.17578C15.3299 6.17578 17.8257 8.67157 17.8257 11.7508C17.8257 12.165 17.4899 12.5008 17.0757 12.5008H7.42578C7.01157 12.5008 6.67578 12.165 6.67578 11.7508ZM8.24464 11.0008H16.2569C15.9049 9.10832 14.2453 7.67578 12.2508 7.67578C10.2562 7.67578 8.59663 9.10832 8.24464 11.0008Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 8.97754C12.6642 8.97754 13 9.31333 13 9.72754V11.7504C13 12.1646 12.6642 12.5004 12.25 12.5004C11.8358 12.5004 11.5 12.1646 11.5 11.7504V9.72754C11.5 9.31333 11.8358 8.97754 12.25 8.97754Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 1 — bold style variants.
+class _SportScale1Bold {
+  const _SportScale1Bold();
+
+  /// Scale 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0008 7.67578C10.1352 7.67578 8.55855 8.9356 8.07685 10.6491C8.02603 10.8298 8.16821 11.0008 8.35597 11.0008H11.1498C11.205 11.0008 11.2498 10.956 11.2498 10.9008V9.72778C11.2498 9.31378 11.5858 8.97778 11.9998 8.97778C12.4138 8.97778 12.7498 9.31378 12.7498 9.72778V10.9008C12.7498 10.956 12.7945 11.0008 12.8498 11.0008H15.6455C15.8333 11.0008 15.9755 10.8298 15.9247 10.6491C15.443 8.9356 13.8663 7.67578 12.0008 7.67578Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.826 12.501H7.176C6.762 12.501 6.426 12.165 6.426 11.751C6.426 8.677 8.927 6.176 12.001 6.176C15.075 6.176 17.576 8.677 17.576 11.751C17.576 12.165 17.24 12.501 16.826 12.501ZM16.217 2.5H7.782C4.623 2.5 2.5 4.721 2.5 8.026V15.974C2.5 19.279 4.623 21.5 7.782 21.5H10.95C11.1157 21.5 11.25 21.3657 11.25 21.2V16.493C11.25 16.079 11.586 15.743 12 15.743C12.414 15.743 12.75 16.079 12.75 16.493V21.2C12.75 21.3657 12.8843 21.5 13.05 21.5H16.216C19.376 21.5 21.5 19.279 21.5 15.974V8.026C21.5 4.721 19.377 2.5 16.217 2.5Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 1 — light style variants.
+class _SportScale1Light {
+  const _SportScale1Light();
+
+  /// Scale 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83405 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 16.4932V20.8579" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0008 6.92578C14.6657 6.92578 16.8257 9.08578 16.8257 11.7508H7.17578C7.17578 9.08578 9.33578 6.92578 12.0008 6.92578Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 11.7504V9.72754" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 2 icon with style variants.
+class _SportScale2Icon {
+  const _SportScale2Icon();
+
+  /// bold style
+  _SportScale2Bold get bold => const _SportScale2Bold();
+  /// bulk style
+  _SportScale2Bulk get bulk => const _SportScale2Bulk();
+  /// light style
+  _SportScale2Light get light => const _SportScale2Light();
+  /// outline style
+  _SportScale2Outline get outline => const _SportScale2Outline();
+  /// twoTone style
+  _SportScale2Twotone get twoTone => const _SportScale2Twotone();
+  /// broken style
+  _SportScale2Broken get broken => const _SportScale2Broken();
+}
+
+/// Scale 2 — bulk style variants.
+class _SportScale2Bulk {
+  const _SportScale2Bulk();
+
+  /// Scale 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.1003 2.82374C17.9143 2.76041 17.728 2.904 17.728 3.10053V6.7049C17.728 8.0269 16.653 9.1029 15.331 9.1029H8.67C7.348 9.1029 6.271 8.0269 6.271 6.7049V3.10058C6.271 2.90403 6.08468 2.76043 5.89862 2.82379C3.81426 3.53355 2.5 5.43688 2.5 8.0259V15.9739C2.5 19.2799 4.623 21.4999 7.782 21.4999H16.216C19.376 21.4999 21.5 19.2799 21.5 15.9739V8.0259C21.5 5.43774 20.1857 3.53354 18.1003 2.82374Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.77169 6.70495C7.77169 7.19995 8.17469 7.60295 8.66969 7.60295H10.8C10.9195 7.60295 11.0275 7.53212 11.0751 7.42262L11.8267 5.69495C11.9907 5.31395 12.4347 5.14295 12.8127 5.30595C13.1927 5.47195 13.3667 5.91295 13.2017 6.29295L12.6926 7.46305C12.6638 7.5291 12.7122 7.60295 12.7843 7.60295H15.3317C15.8267 7.60295 16.2287 7.19995 16.2287 6.70495C16.2287 6.4039 16.2204 3.70595 16.2176 2.7972C16.2171 2.63186 16.086 2.49997 15.9207 2.5C14.7726 2.5002 10.5551 2.50089 8.07106 2.50095C7.90537 2.50095 7.77169 2.63526 7.77169 2.80095V6.70495Z" fill="black"/> <path d="M7.84033 17.541H16.1623C16.5763 17.541 16.9123 17.205 16.9123 16.791C16.9123 16.377 16.5763 16.041 16.1623 16.041H7.84033C7.42633 16.041 7.09033 16.377 7.09033 16.791C7.09033 17.205 7.42633 17.541 7.84033 17.541Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 2 — broken style variants.
+class _SportScale2Broken {
+  const _SportScale2Broken();
+
+  /// Scale 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.2159 21C19.165 21 21 18.9188 21 15.9736V8.02638C21 5.08119 19.165 3 16.2169 3H7.78216C4.84281 3 3 5.08119 3 8.02638V15.9736C3 18.9188 4.83405 21 7.78216 21H12.7094" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.02148 5.58398V6.70622C7.02148 7.61595 7.759 8.35346 8.6697 8.35346H15.3307C16.2404 8.35346 16.9779 7.61595 16.9779 6.70622V5.58398" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5138 5.99414L11.4883 8.35263" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.83984 16.791H16.1617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 2 — twoTone style variants.
+class _SportScale2Twotone {
+  const _SportScale2Twotone();
+
+  /// Scale 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.28216 3H16.7169C19.665 3 21.5 5.08119 21.5 8.02638V15.9736C21.5 18.9188 19.665 21 16.7159 21H8.28216C5.33405 21 3.5 18.9188 3.5 15.9736V8.02638C3.5 5.08119 5.34281 3 8.28216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.52148 3.09863V6.70544C7.52148 7.61517 8.259 8.35269 9.1697 8.35269H15.8307C16.7404 8.35269 17.4779 7.61517 17.4779 6.70544V3.09863" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.0138 5.99414L11.9883 8.35263" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.33984 16.791H16.6617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 2 — outline style variants.
+class _SportScale2Outline {
+  const _SportScale2Outline();
+
+  /// Scale 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.9902 3.89737C4.97468 2.84117 6.37669 2.25 8.03216 2.25H16.4669C18.1262 2.25 19.5288 2.84084 20.5129 3.89765C21.4913 4.94841 22 6.39889 22 8.02638V15.9736C22 17.6011 21.4913 19.0516 20.5127 20.1024C19.5285 21.1592 18.1256 21.75 16.4659 21.75H8.03216C6.3728 21.75 4.97038 21.1591 3.98657 20.1023C3.00842 19.0515 2.5 17.601 2.5 15.9736V8.02638C2.5 6.39806 3.01117 4.94771 3.9902 3.89737ZM5.08745 4.92012C4.41024 5.64666 4 6.70951 4 8.02638V15.9736C4 17.2914 4.40861 18.3541 5.08451 19.0802C5.75475 19.8003 6.74341 20.25 8.03216 20.25H16.4659C17.7552 20.25 18.7444 19.8002 19.415 19.0801C20.0912 18.354 20.5 17.2913 20.5 15.9736V8.02638C20.5 6.70868 20.0912 5.64597 19.4151 4.91984C18.7446 4.19975 17.7556 3.75 16.4669 3.75H8.03216C6.74828 3.75 5.75921 4.19943 5.08745 4.92012Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.27148 2.34863C7.6857 2.34863 8.02148 2.68442 8.02148 3.09863V6.70544C8.02148 7.20067 8.42292 7.60269 8.9197 7.60269H15.5807C16.0762 7.60269 16.4779 7.20096 16.4779 6.70544V3.09863C16.4779 2.68442 16.8137 2.34863 17.2279 2.34863C17.6421 2.34863 17.9779 2.68442 17.9779 3.09863V6.70544C17.9779 8.02939 16.9046 9.10269 15.5807 9.10269H8.9197C7.59507 9.10269 6.52148 8.02968 6.52148 6.70544V3.09863C6.52148 2.68442 6.85727 2.34863 7.27148 2.34863Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0631 5.30654C13.4429 5.47171 13.6169 5.91354 13.4518 6.2934L12.4263 8.65188C12.2611 9.03174 11.8193 9.20578 11.4394 9.04061C11.0595 8.87544 10.8855 8.43361 11.0507 8.05375L12.0762 5.69527C12.2414 5.31541 12.6832 5.14137 13.0631 5.30654Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.33984 16.791C7.33984 16.3768 7.67563 16.041 8.08984 16.041H16.4117C16.8259 16.041 17.1617 16.3768 17.1617 16.791C17.1617 17.2052 16.8259 17.541 16.4117 17.541H8.08984C7.67563 17.541 7.33984 17.2052 7.33984 16.791Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 2 — bold style variants.
+class _SportScale2Bold {
+  const _SportScale2Bold();
+
+  /// Scale 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.77136 6.70495C7.77136 7.19995 8.17436 7.60295 8.66936 7.60295H10.7997C10.9191 7.60295 11.0272 7.53212 11.0748 7.42262L11.8264 5.69495C11.9904 5.31395 12.4344 5.14295 12.8124 5.30595C13.1924 5.47195 13.3664 5.91295 13.2014 6.29295L12.6922 7.46305C12.6635 7.5291 12.7119 7.60295 12.7839 7.60295H15.3314C15.8264 7.60295 16.2284 7.19995 16.2284 6.70495C16.2284 6.4039 16.2201 3.70595 16.2173 2.7972C16.2168 2.63186 16.0857 2.49997 15.9203 2.5C14.7723 2.5002 10.5547 2.50089 8.07073 2.50095C7.90504 2.50095 7.77136 2.63526 7.77136 2.80095V6.70495Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.162 17.541H7.84C7.426 17.541 7.09 17.205 7.09 16.791C7.09 16.377 7.426 16.041 7.84 16.041H16.162C16.576 16.041 16.912 16.377 16.912 16.791C16.912 17.205 16.576 17.541 16.162 17.541ZM18.1003 2.82382C17.9143 2.76049 17.728 2.90408 17.728 3.10061V6.70498C17.728 8.02698 16.653 9.10298 15.331 9.10298H8.67C7.348 9.10298 6.271 8.02698 6.271 6.70498V3.10066C6.271 2.90411 6.08468 2.76051 5.89862 2.82387C3.81426 3.53363 2.5 5.43696 2.5 8.02598V15.974C2.5 19.28 4.623 21.5 7.782 21.5H16.216C19.376 21.5 21.5 19.28 21.5 15.974V8.02598C21.5 5.43782 20.1857 3.53362 18.1003 2.82382Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 2 — light style variants.
+class _SportScale2Light {
+  const _SportScale2Light();
+
+  /// Scale 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83405 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.02148 3.09863V6.70544C7.02148 7.61517 7.759 8.35269 8.6697 8.35269H15.3307C16.2404 8.35269 16.9779 7.61517 16.9779 6.70544V3.09863" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5138 5.99414L11.4883 8.35263" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.83984 16.791H16.1617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 3 icon with style variants.
+class _SportScale3Icon {
+  const _SportScale3Icon();
+
+  /// bold style
+  _SportScale3Bold get bold => const _SportScale3Bold();
+  /// bulk style
+  _SportScale3Bulk get bulk => const _SportScale3Bulk();
+  /// light style
+  _SportScale3Light get light => const _SportScale3Light();
+  /// outline style
+  _SportScale3Outline get outline => const _SportScale3Outline();
+  /// twoTone style
+  _SportScale3Twotone get twoTone => const _SportScale3Twotone();
+  /// broken style
+  _SportScale3Broken get broken => const _SportScale3Broken();
+}
+
+/// Scale 3 — bulk style variants.
+class _SportScale3Bulk {
+  const _SportScale3Bulk();
+
+  /// Scale 3 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.217 2.5H7.782C4.623 2.5 2.5 4.72 2.5 8.026V15.973C2.5 19.279 4.623 21.5 7.782 21.5H16.216C19.376 21.5 21.5 19.279 21.5 15.973V8.026C21.5 4.72 19.377 2.5 16.217 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.746 9.51158L15.624 12.9166C15.507 13.1036 15.313 13.2306 15.095 13.2616C14.879 13.2946 14.654 13.2286 14.489 13.0806C13.067 11.8196 10.929 11.8216 9.51296 13.0806C9.37496 13.2036 9.19696 13.2696 9.01496 13.2696C8.97896 13.2696 8.94296 13.2676 8.90696 13.2616C8.68796 13.2306 8.49496 13.1046 8.37796 12.9166L6.25596 9.51158C6.06196 9.20158 6.12096 8.79758 6.39396 8.55458C9.58996 5.71358 14.412 5.71358 17.607 8.55458C17.881 8.79758 17.939 9.20158 17.746 9.51158ZM9.06162 11.1765L8.0254 9.51482C7.94259 9.38204 7.97541 9.20728 8.10485 9.11933C10.4512 7.52509 13.5503 7.52509 15.8966 9.11933C16.0261 9.20728 16.0589 9.38204 15.9761 9.51482L14.9397 11.1768C14.8519 11.3175 14.667 11.3595 14.5206 11.2817C14.3553 11.1939 14.1859 11.117 14.0138 11.0481C13.8724 10.9914 13.7896 10.8416 13.8239 10.6932L13.9807 10.0147C14.0737 9.61165 13.8217 9.20865 13.4187 9.11465C13.0087 9.02165 12.6117 9.27365 12.5197 9.67765L12.3503 10.4108C12.3176 10.5525 12.1885 10.6422 12.0432 10.6365C12.029 10.636 12.0149 10.6357 12.0007 10.6357C11.1311 10.6357 10.2622 10.85 9.48003 11.2794C9.33455 11.3592 9.14944 11.3173 9.06162 11.1765Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 3 — broken style variants.
+class _SportScale3Broken {
+  const _SportScale3Broken();
+
+  /// Scale 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.2159 21C19.165 21 21 18.9188 21 15.9736V8.02638C21 5.08119 19.165 3 16.2169 3H7.78216C4.84281 3 3 5.08119 3 8.02638V15.9736C3 18.9188 4.83405 21 7.78216 21H12.7556" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.89258 9.11564L9.01463 12.521C10.7173 11.0081 13.284 11.0081 14.9867 12.521L17.1088 9.11564C14.9868 7.22968 12.0812 6.71751 9.53353 7.57912" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.2496 9.84766L12.875 11.4735" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 3 — twoTone style variants.
+class _SportScale3Twotone {
+  const _SportScale3Twotone();
+
+  /// Scale 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.28216 3H16.7169C19.665 3 21.5 5.08119 21.5 8.02638V15.9736C21.5 18.9188 19.665 21 16.7159 21H8.28216C5.33405 21 3.5 18.9188 3.5 15.9736V8.02638C3.5 5.08119 5.34281 3 8.28216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39258 9.11564C10.3057 6.52656 14.6957 6.52656 17.6088 9.11564L15.4867 12.521C13.784 11.0081 11.2173 11.0081 9.51463 12.521L7.39258 9.11564Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.7496 9.84668L13.375 11.4725" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 3 — outline style variants.
+class _SportScale3Outline {
+  const _SportScale3Outline();
+
+  /// Scale 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.9902 3.89737C4.97468 2.84117 6.37669 2.25 8.03216 2.25H16.4669C18.1262 2.25 19.5288 2.84084 20.5129 3.89765C21.4913 4.94841 22 6.39889 22 8.02638V15.9736C22 17.6011 21.4913 19.0516 20.5127 20.1024C19.5285 21.1592 18.1256 21.75 16.4659 21.75H8.03216C6.3728 21.75 4.97038 21.1591 3.98657 20.1023C3.00842 19.0515 2.5 17.601 2.5 15.9736V8.02638C2.5 6.39806 3.01117 4.94771 3.9902 3.89737ZM5.08745 4.92012C4.41024 5.64666 4 6.70951 4 8.02638V15.9736C4 17.2914 4.40861 18.3541 5.08451 19.0802C5.75475 19.8003 6.74341 20.25 8.03216 20.25H16.4659C17.7552 20.25 18.7444 19.8002 19.415 19.0801C20.0912 18.354 20.5 17.2913 20.5 15.9736V8.02638C20.5 6.70868 20.0912 5.64597 19.4151 4.91984C18.7446 4.19975 17.7556 3.75 16.4669 3.75H8.03216C6.74828 3.75 5.75921 4.19943 5.08745 4.92012Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.64437 8.55505C9.8416 5.71342 14.6598 5.71342 17.8571 8.55505C18.1302 8.79782 18.1886 9.20213 17.9954 9.51229L15.8733 12.9177C15.7564 13.1053 15.5628 13.2317 15.344 13.2633C15.1253 13.2949 14.9038 13.2285 14.7386 13.0817C13.32 11.8212 11.1814 11.8212 9.76283 13.0817C9.59763 13.2285 9.3761 13.2949 9.15738 13.2633C8.93865 13.2317 8.74501 13.1053 8.62813 12.9177L6.50608 9.51229C6.3128 9.20213 6.37121 8.79782 6.64437 8.55505ZM8.12883 9.28017L9.47031 11.4329C11.1671 10.3708 13.3343 10.3708 15.0311 11.4329L16.3726 9.28017C13.9272 7.47171 10.5742 7.47171 8.12883 9.28017Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6681 9.11599C14.0718 9.20899 14.3236 9.6116 14.2306 10.0152L13.856 11.6411C13.763 12.0447 13.3604 12.2965 12.9568 12.2035C12.5531 12.1105 12.3013 11.7079 12.3943 11.3043L12.7689 9.67846C12.8619 9.27482 13.2645 9.02299 13.6681 9.11599Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 3 — bold style variants.
+class _SportScale3Bold {
+  const _SportScale3Bold();
+
+  /// Scale 3 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.746 9.512L15.624 12.917C15.507 13.104 15.313 13.231 15.095 13.262C14.879 13.295 14.654 13.229 14.489 13.081C13.067 11.82 10.929 11.822 9.513 13.081C9.375 13.204 9.197 13.27 9.015 13.27C8.979 13.27 8.943 13.268 8.907 13.262C8.688 13.231 8.495 13.105 8.378 12.917L6.256 9.512C6.062 9.202 6.121 8.798 6.394 8.555C9.59 5.714 14.412 5.714 17.607 8.555C17.881 8.798 17.939 9.202 17.746 9.512ZM16.217 2.5H7.782C4.623 2.5 2.5 4.72 2.5 8.026V15.973C2.5 19.279 4.623 21.5 7.782 21.5H16.216C19.376 21.5 21.5 19.279 21.5 15.973V8.026C21.5 4.72 19.377 2.5 16.217 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.10489 9.11975C7.97545 9.2077 7.94263 9.38246 8.02544 9.51524L9.06166 11.1769C9.14948 11.3177 9.33459 11.3597 9.48007 11.2798C10.2623 10.8504 11.1311 10.6361 12.0008 10.6361C12.0988 10.6361 12.1958 10.6511 12.2938 10.6561L12.5198 9.67807C12.6118 9.27407 13.0088 9.02207 13.4188 9.11507C13.8218 9.20907 14.0738 9.61207 13.9808 10.0151L13.7638 10.9541C14.022 11.046 14.2758 11.152 14.5206 11.2821C14.667 11.3599 14.852 11.3179 14.9397 11.1772L15.9761 9.51524C16.0589 9.38246 16.0261 9.2077 15.8967 9.11975C13.5503 7.52551 10.4513 7.52551 8.10489 9.11975Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 3 — light style variants.
+class _SportScale3Light {
+  const _SportScale3Light();
+
+  /// Scale 3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83405 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.89258 9.11564C9.80566 6.52656 14.1957 6.52656 17.1088 9.11564L14.9867 12.521C13.284 11.0081 10.7173 11.0081 9.01463 12.521L6.89258 9.11564Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.2496 9.84668L12.875 11.4725" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 4 icon with style variants.
+class _SportScale4Icon {
+  const _SportScale4Icon();
+
+  /// bold style
+  _SportScale4Bold get bold => const _SportScale4Bold();
+  /// bulk style
+  _SportScale4Bulk get bulk => const _SportScale4Bulk();
+  /// light style
+  _SportScale4Light get light => const _SportScale4Light();
+  /// outline style
+  _SportScale4Outline get outline => const _SportScale4Outline();
+  /// twoTone style
+  _SportScale4Twotone get twoTone => const _SportScale4Twotone();
+  /// broken style
+  _SportScale4Broken get broken => const _SportScale4Broken();
+}
+
+/// Scale 4 — bulk style variants.
+class _SportScale4Bulk {
+  const _SportScale4Bulk();
+
+  /// Scale 4 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.217 2.5H7.782C4.623 2.5 2.5 4.72 2.5 8.026V15.973C2.5 19.279 4.623 21.5 7.782 21.5H10.95C11.5578 21.5 11.7591 21.5 13.05 21.5H16.216C19.376 21.5 21.5 19.279 21.5 15.973V8.026C21.5 4.72 19.377 2.5 16.217 2.5Z" fill="black"/> <path d="M11.208 17.2178C11.208 16.7941 11.5514 16.4507 11.9751 16.4507C12.3987 16.4507 12.7422 16.7941 12.7422 17.2178V21.4995H11.208V17.2178Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.746 9.51158L15.624 12.9166C15.507 13.1036 15.313 13.2306 15.095 13.2616C14.878 13.2946 14.655 13.2286 14.489 13.0806C13.067 11.8196 10.929 11.8216 9.51296 13.0806C9.37496 13.2036 9.19696 13.2696 9.01496 13.2696C8.97896 13.2696 8.94296 13.2676 8.90696 13.2616C8.68796 13.2306 8.49496 13.1046 8.37796 12.9166L6.25596 9.51158C6.06196 9.20158 6.12096 8.79758 6.39396 8.55458C9.58996 5.71358 14.412 5.71358 17.607 8.55458C17.881 8.79758 17.939 9.20158 17.746 9.51158ZM9.06164 11.1765L8.0254 9.51482C7.94259 9.38204 7.97541 9.20728 8.10485 9.11933C10.4512 7.52509 13.5503 7.52509 15.8966 9.11933C16.0261 9.20728 16.0589 9.38204 15.9761 9.51482L14.9397 11.1767C14.852 11.3174 14.667 11.3594 14.5215 11.2797C13.9643 10.9745 13.3634 10.7788 12.7497 10.6907V9.84565C12.7497 9.43165 12.4137 9.09565 11.9997 9.09565C11.5857 9.09565 11.2497 9.43165 11.2497 9.84565V10.6907C10.6372 10.7788 10.0365 10.9744 9.48005 11.2795C9.33453 11.3593 9.14945 11.3173 9.06164 11.1765Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 4 — broken style variants.
+class _SportScale4Broken {
+  const _SportScale4Broken();
+
+  /// Scale 4 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83405 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V12.7784" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.89258 9.11564L9.01463 12.521C10.7173 11.0081 13.284 11.0081 14.9867 12.521L17.1088 9.11564C14.9953 7.23721 12.1043 6.72162 9.56406 7.56887" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 11.3869V9.84766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 17.1992V21.0006" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 4 — twoTone style variants.
+class _SportScale4Twotone {
+  const _SportScale4Twotone();
+
+  /// Scale 4 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.28216 3H16.7169C19.665 3 21.5 5.08119 21.5 8.02638V15.9736C21.5 18.9188 19.665 21 16.7159 21H8.28216C5.33405 21 3.5 18.9188 3.5 15.9736V8.02638C3.5 5.08119 5.34281 3 8.28216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.39258 9.11564C10.3057 6.52656 14.6957 6.52656 17.6088 9.11564L15.4867 12.521C13.784 11.0081 11.2173 11.0081 9.51463 12.521L7.39258 9.11564Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5 11.3859V9.84668" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5 17.1982V20.9996" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 4 — outline style variants.
+class _SportScale4Outline {
+  const _SportScale4Outline();
+
+  /// Scale 4 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.9902 3.89737C4.97468 2.84117 6.37669 2.25 8.03216 2.25H16.4669C18.1262 2.25 19.5288 2.84084 20.5129 3.89765C21.4913 4.94841 22 6.39889 22 8.02638V15.9736C22 17.6011 21.4913 19.0516 20.5127 20.1024C19.5285 21.1592 18.1256 21.75 16.4659 21.75H8.03216C6.3728 21.75 4.97038 21.1591 3.98657 20.1023C3.00842 19.0515 2.5 17.601 2.5 15.9736V8.02638C2.5 6.39806 3.01117 4.94771 3.9902 3.89737ZM5.08745 4.92012C4.41024 5.64666 4 6.70951 4 8.02638V15.9736C4 17.2914 4.40861 18.3541 5.08451 19.0802C5.75475 19.8003 6.74341 20.25 8.03216 20.25H16.4659C17.7552 20.25 18.7444 19.8002 19.415 19.0801C20.0912 18.354 20.5 17.2913 20.5 15.9736V8.02638C20.5 6.70868 20.0912 5.64597 19.4151 4.91984C18.7446 4.19975 17.7556 3.75 16.4669 3.75H8.03216C6.74828 3.75 5.75921 4.19943 5.08745 4.92012Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.64437 8.55505C9.8416 5.71342 14.6598 5.71342 17.8571 8.55505C18.1302 8.79782 18.1886 9.20213 17.9954 9.51229L15.8733 12.9177C15.7564 13.1053 15.5628 13.2317 15.344 13.2633C15.1253 13.2949 14.9038 13.2285 14.7386 13.0817C13.32 11.8212 11.1814 11.8212 9.76283 13.0817C9.59763 13.2285 9.3761 13.2949 9.15738 13.2633C8.93865 13.2317 8.74501 13.1053 8.62813 12.9177L6.50608 9.51229C6.3128 9.20213 6.37121 8.79782 6.64437 8.55505ZM8.12883 9.28017L9.47031 11.4329C11.1671 10.3708 13.3343 10.3708 15.0311 11.4329L16.3726 9.28017C13.9272 7.47171 10.5742 7.47171 8.12883 9.28017Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 9.09668C12.6642 9.09668 13 9.43247 13 9.84668V11.3859C13 11.8001 12.6642 12.1359 12.25 12.1359C11.8358 12.1359 11.5 11.8001 11.5 11.3859V9.84668C11.5 9.43247 11.8358 9.09668 12.25 9.09668Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.25 16.4482C12.6642 16.4482 13 16.784 13 17.1982V20.9996C13 21.4139 12.6642 21.7496 12.25 21.7496C11.8358 21.7496 11.5 21.4139 11.5 20.9996V17.1982C11.5 16.784 11.8358 16.4482 12.25 16.4482Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 4 — bold style variants.
+class _SportScale4Bold {
+  const _SportScale4Bold();
+
+  /// Scale 4 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.10489 9.11975C7.97545 9.2077 7.94263 9.38246 8.02544 9.51524L9.06168 11.1769C9.14949 11.3177 9.33457 11.3597 9.48009 11.2799C10.0365 10.9748 10.6372 10.7792 11.2498 10.6911V9.84607C11.2498 9.43207 11.5858 9.09607 11.9998 9.09607C12.4138 9.09607 12.7498 9.43207 12.7498 9.84607V10.6911C13.3634 10.7792 13.9643 10.9749 14.5216 11.2802C14.6671 11.3598 14.852 11.3179 14.9398 11.1771L15.9761 9.51524C16.0589 9.38246 16.0261 9.2077 15.8967 9.11975C13.5503 7.52551 10.4513 7.52551 8.10489 9.11975Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.746 9.512L15.624 12.917C15.507 13.104 15.313 13.231 15.095 13.262C14.878 13.295 14.655 13.229 14.489 13.081C13.067 11.82 10.929 11.822 9.513 13.081C9.375 13.204 9.197 13.27 9.015 13.27C8.979 13.27 8.943 13.268 8.907 13.262C8.688 13.231 8.495 13.105 8.378 12.917L6.256 9.512C6.062 9.202 6.121 8.798 6.394 8.555C9.59 5.714 14.412 5.714 17.607 8.555C17.881 8.798 17.939 9.202 17.746 9.512ZM16.217 2.5H7.782C4.623 2.5 2.5 4.72 2.5 8.026V15.973C2.5 19.279 4.623 21.5 7.782 21.5H10.95C11.1157 21.5 11.25 21.3657 11.25 21.2V17.198C11.25 16.783 11.586 16.448 12 16.448C12.414 16.448 12.75 16.783 12.75 17.198V21.2C12.75 21.3657 12.8843 21.5 13.05 21.5H16.216C19.376 21.5 21.5 19.279 21.5 15.973V8.026C21.5 4.72 19.377 2.5 16.217 2.5Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 4 — light style variants.
+class _SportScale4Light {
+  const _SportScale4Light();
+
+  /// Scale 4 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83405 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.89258 9.11564C9.80566 6.52656 14.1957 6.52656 17.1088 9.11564L14.9867 12.521C13.284 11.0081 10.7173 11.0081 9.01463 12.521L6.89258 9.11564Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 11.3859V9.84668" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 17.1982V20.9996" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 5 icon with style variants.
+class _SportScale5Icon {
+  const _SportScale5Icon();
+
+  /// bold style
+  _SportScale5Bold get bold => const _SportScale5Bold();
+  /// bulk style
+  _SportScale5Bulk get bulk => const _SportScale5Bulk();
+  /// light style
+  _SportScale5Light get light => const _SportScale5Light();
+  /// outline style
+  _SportScale5Outline get outline => const _SportScale5Outline();
+  /// twoTone style
+  _SportScale5Twotone get twoTone => const _SportScale5Twotone();
+  /// broken style
+  _SportScale5Broken get broken => const _SportScale5Broken();
+}
+
+/// Scale 5 — bulk style variants.
+class _SportScale5Bulk {
+  const _SportScale5Bulk();
+
+  /// Scale 5 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.217 2.5H7.782C4.623 2.5 2.5 4.721 2.5 8.026V15.974C2.5 19.279 4.623 21.5 7.782 21.5H16.216C19.377 21.5 21.5 19.279 21.5 15.974V8.026C21.5 4.721 19.377 2.5 16.217 2.5Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.1361 17.7737H7.86713C7.45313 17.7737 7.11713 17.4377 7.11713 17.0237C7.11713 16.6097 7.45313 16.2737 7.86713 16.2737H16.1361C16.5501 16.2737 16.8861 16.6097 16.8861 17.0237C16.8861 17.4377 16.5501 17.7737 16.1361 17.7737Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.7455 8.99009L15.6235 12.3961C15.5065 12.5841 15.3125 12.7101 15.0945 12.7421C15.0575 12.7471 15.0225 12.7501 14.9865 12.7501C14.8045 12.7501 14.6265 12.6831 14.4885 12.5601C14.1175 12.2301 13.6955 11.9921 13.2515 11.8351L14.2035 9.62209C14.3665 9.24109 14.1905 8.80009 13.8105 8.63609C13.4265 8.47209 12.9885 8.64909 12.8255 9.02909L11.7025 11.6411C10.9145 11.7041 10.1425 12.0011 9.5135 12.5601C9.3485 12.7071 9.1295 12.7761 8.9075 12.7421C8.6885 12.7111 8.4955 12.5841 8.3785 12.3961L6.2565 8.99009C6.0635 8.68009 6.1215 8.27609 6.3945 8.03309C9.5905 5.19209 14.4115 5.19209 17.6065 8.03309C17.8805 8.27609 17.9385 8.68009 17.7455 8.99009Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 5 — broken style variants.
+class _SportScale5Broken {
+  const _SportScale5Broken();
+
+  /// Scale 5 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.999 21H7.78216C4.83405 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H15.605" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.86719 17.0234H16.1365" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.01463 7.25436C8.25618 7.57382 7.53812 8.02042 6.89258 8.59415L9.01463 11.9996C10.7173 10.4866 13.284 10.4866 14.9867 11.9996L17.1088 8.59415C15.5899 7.24419 13.6695 6.59811 11.7662 6.6559" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5138 9.32617L12.748 10.9287" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 5 — twoTone style variants.
+class _SportScale5Twotone {
+  const _SportScale5Twotone();
+
+  /// Scale 5 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.28216 3H16.7169C19.665 3 21.5 5.08119 21.5 8.02638V15.9736C21.5 18.9188 19.665 21 16.7159 21H8.28216C5.33405 21 3.5 18.9188 3.5 15.9736V8.02638C3.5 5.08119 5.34281 3 8.28216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.36621 17.0244H16.6355" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.6088 8.59415C14.6957 6.00507 10.3057 6.00507 7.39258 8.59415L9.51463 11.9996C11.2173 10.4866 13.784 10.4866 15.4867 11.9996L17.6088 8.59415Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0138 9.32617L13.248 10.9287" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 5 — outline style variants.
+class _SportScale5Outline {
+  const _SportScale5Outline();
+
+  /// Scale 5 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.9902 3.89737C4.97468 2.84117 6.37669 2.25 8.03216 2.25H16.4669C18.1262 2.25 19.5288 2.84084 20.5129 3.89765C21.4913 4.94841 22 6.39889 22 8.02638V15.9736C22 17.6011 21.4913 19.0516 20.5127 20.1024C19.5285 21.1592 18.1256 21.75 16.4659 21.75H8.03216C6.3728 21.75 4.97038 21.1591 3.98657 20.1023C3.00842 19.0515 2.5 17.601 2.5 15.9736V8.02638C2.5 6.39806 3.01117 4.94771 3.9902 3.89737ZM5.08745 4.92012C4.41024 5.64666 4 6.70951 4 8.02638V15.9736C4 17.2914 4.40861 18.3541 5.08451 19.0802C5.75475 19.8003 6.74341 20.25 8.03216 20.25H16.4659C17.7552 20.25 18.7444 19.8002 19.415 19.0801C20.0912 18.354 20.5 17.2913 20.5 15.9736V8.02638C20.5 6.70868 20.0912 5.64597 19.4151 4.91984C18.7446 4.19975 17.7556 3.75 16.4669 3.75H8.03216C6.74828 3.75 5.75921 4.19943 5.08745 4.92012Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.36719 17.0244C7.36719 16.6102 7.70297 16.2744 8.11719 16.2744H16.3865C16.8007 16.2744 17.1365 16.6102 17.1365 17.0244C17.1365 17.4386 16.8007 17.7744 16.3865 17.7744H8.11719C7.70297 17.7744 7.36719 17.4386 7.36719 17.0244Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.64437 8.03357C9.8416 5.19194 14.6598 5.19194 17.8571 8.03357C18.1302 8.27634 18.1886 8.68065 17.9954 8.9908L15.8733 12.3962C15.7564 12.5838 15.5628 12.7102 15.344 12.7418C15.1253 12.7735 14.9038 12.707 14.7386 12.5602C13.32 11.2997 11.1814 11.2997 9.76283 12.5602C9.59763 12.707 9.3761 12.7735 9.15738 12.7418C8.93865 12.7102 8.74501 12.5838 8.62813 12.3962L6.50608 8.9908C6.3128 8.68065 6.37121 8.27634 6.64437 8.03357ZM8.12883 8.75869L9.47031 10.9114C11.1671 9.84929 13.3343 9.84929 15.0311 10.9114L16.3726 8.75869C13.9272 6.95023 10.5742 6.95023 8.12883 8.75869Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.0873 8.64963C14.461 8.82822 14.6192 9.27597 14.4407 9.64971L13.6749 11.2522C13.4963 11.6259 13.0486 11.7841 12.6749 11.6055C12.3011 11.427 12.1429 10.9792 12.3215 10.6055L13.0872 9.00299C13.2658 8.62925 13.7136 8.47105 14.0873 8.64963Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 5 — bold style variants.
+class _SportScale5Bold {
+  const _SportScale5Bold();
+
+  /// Scale 5 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.746 8.99L15.624 12.396C15.507 12.584 15.313 12.71 15.095 12.742C15.058 12.747 15.023 12.75 14.987 12.75C14.805 12.75 14.627 12.683 14.489 12.56C14.118 12.23 13.696 11.992 13.252 11.835L14.204 9.622C14.367 9.241 14.191 8.8 13.811 8.636C13.427 8.472 12.989 8.649 12.826 9.029L11.703 11.641C10.915 11.704 10.143 12.001 9.514 12.56C9.349 12.707 9.13 12.776 8.908 12.742C8.689 12.711 8.496 12.584 8.379 12.396L6.257 8.99C6.064 8.68 6.122 8.276 6.395 8.033C9.591 5.192 14.412 5.192 17.607 8.033C17.881 8.276 17.939 8.68 17.746 8.99ZM16.137 17.774H7.868C7.454 17.774 7.118 17.438 7.118 17.024C7.118 16.61 7.454 16.274 7.868 16.274H16.137C16.551 16.274 16.887 16.61 16.887 17.024C16.887 17.438 16.551 17.774 16.137 17.774ZM16.217 2.5H7.783C4.623 2.5 2.5 4.72 2.5 8.026V15.973C2.5 19.279 4.623 21.5 7.783 21.5H16.216C19.377 21.5 21.5 19.279 21.5 15.973V8.026C21.5 4.72 19.377 2.5 16.217 2.5Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Scale 5 — light style variants.
+class _SportScale5Light {
+  const _SportScale5Light();
+
+  /// Scale 5 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Scale 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83405 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.86719 17.0244H16.1365" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1088 8.59415C14.1957 6.00507 9.80566 6.00507 6.89258 8.59415L9.01463 11.9996C10.7173 10.4866 13.284 10.4866 14.9867 11.9996L17.1088 8.59415Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5138 9.32617L12.748 10.9287" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -1662,93 +2710,8 @@ class _SportBallBaseball2Light {
 class _SportKettlebell1Icon {
   const _SportKettlebell1Icon();
 
-  /// bold style
-  _SportKettlebell1Bold get bold => const _SportKettlebell1Bold();
-  /// bulk style
-  _SportKettlebell1Bulk get bulk => const _SportKettlebell1Bulk();
   /// light style
   _SportKettlebell1Light get light => const _SportKettlebell1Light();
-  /// outline style
-  _SportKettlebell1Outline get outline => const _SportKettlebell1Outline();
-  /// twoTone style
-  _SportKettlebell1Twotone get twoTone => const _SportKettlebell1Twotone();
-  /// broken style
-  _SportKettlebell1Broken get broken => const _SportKettlebell1Broken();
-}
-
-/// Kettlebell 1 — bulk style variants.
-class _SportKettlebell1Bulk {
-  const _SportKettlebell1Bulk();
-
-  /// Kettlebell 1 — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Kettlebell 1',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2426 8.97391C14.3516 6.08291 9.64858 6.08291 6.75858 8.97391C3.86758 11.8649 3.86758 16.5679 6.75858 19.4579C8.20358 20.9029 10.1016 21.6249 12.0006 21.6249C13.8986 21.6249 15.7976 20.9029 17.2426 19.4579C20.1316 16.5679 20.1316 11.8649 17.2426 8.97391Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.64668 7.60864C8.40068 7.04064 8.18268 6.14864 8.40868 5.44864C8.56368 4.96764 8.91468 4.62764 9.51668 4.39264C11.0337 3.71064 12.9837 3.70964 14.5247 4.40864C15.0897 4.62764 15.4397 4.96664 15.5947 5.44864C15.8207 6.14764 15.6017 7.04064 15.3557 7.60964C15.8017 7.83564 16.2287 8.10764 16.6307 8.42964C17.0527 7.58164 17.4157 6.20364 17.0227 4.98764C16.7277 4.07464 16.0507 3.39064 15.1047 3.02664C13.2007 2.16064 10.8227 2.16064 8.93868 3.00964C7.95368 3.39064 7.27568 4.07464 6.98068 4.98864C6.58868 6.20464 6.94968 7.58064 7.37168 8.42864C7.77368 8.10664 8.20068 7.83464 8.64668 7.60864Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2927 17.4725H10.4117C9.99774 17.4725 9.66174 17.1365 9.66174 16.7225C9.66174 16.3085 9.99774 15.9725 10.4117 15.9725H12.2927C12.6297 15.9725 12.9047 15.6985 12.9047 15.3605C12.9047 15.0235 12.6297 14.7485 12.2927 14.7485H10.4117C9.99774 14.7485 9.66174 14.4125 9.66174 13.9985V11.4215C9.66174 11.0075 9.99774 10.6715 10.4117 10.6715H13.3957C13.8097 10.6715 14.1457 11.0075 14.1457 11.4215C14.1457 11.8355 13.8097 12.1715 13.3957 12.1715H11.1617V13.2485H12.2927C13.4577 13.2485 14.4047 14.1965 14.4047 15.3605C14.4047 16.5255 13.4577 17.4725 12.2927 17.4725Z" fill="black"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Kettlebell 1 — broken style variants.
-class _SportKettlebell1Broken {
-  const _SportKettlebell1Broken();
-
-  /// Kettlebell 1 — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Kettlebell 1',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.8877 18.9756C19.5875 16.2758 19.5875 11.8985 16.8877 9.19869C14.1879 6.49887 9.81061 6.49887 7.1108 9.19869C4.41098 11.8985 4.41098 16.2758 7.1108 18.9756C8.8666 20.7314 11.3319 21.3453 13.5838 20.8174" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.788 8.27186C16.3249 7.44805 17.3195 4.55697 14.7935 3.5811C13.0818 2.80337 10.922 2.80924 9.20763 3.5811C8.15726 3.98688 7.71562 4.72379 7.59668 5.50553" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.79861 16.5036V11.6875L8.79688 12.5467" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.724 16.5938C12.9069 16.5938 12.2441 15.931 12.2441 15.1139V13.0745C12.2441 12.2565 12.9069 11.5938 13.724 11.5938C14.541 11.5938 15.2038 12.2565 15.2038 13.0745V15.1139C15.2038 15.931 14.541 16.5938 13.724 16.5938Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Kettlebell 1 — twoTone style variants.
-class _SportKettlebell1Twotone {
-  const _SportKettlebell1Twotone();
-
-  /// Kettlebell 1 — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Kettlebell 1',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.8877 18.9756C14.1879 21.6754 9.81061 21.6754 7.1108 18.9756C4.41098 16.2758 4.41098 11.8985 7.1108 9.19869C9.81061 6.49887 14.1879 6.49887 16.8877 9.19869C19.5875 11.8985 19.5875 16.2758 16.8877 18.9756Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.7881 8.27186C16.325 7.44805 17.3196 4.55697 14.7936 3.5811C13.0819 2.80337 10.9222 2.80924 9.20773 3.5811C6.68167 4.55697 7.6763 7.44805 8.21318 8.27186" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.79861 16.5027V11.6865L8.79688 12.5457" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.724 16.5937C12.9069 16.5937 12.2441 15.931 12.2441 15.1139V13.0745C12.2441 12.2565 12.9069 11.5938 13.724 11.5938C14.541 11.5938 15.2038 12.2565 15.2038 13.0745V15.1139C15.2038 15.931 14.541 16.5937 13.724 16.5937Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Kettlebell 1 — outline style variants.
-class _SportKettlebell1Outline {
-  const _SportKettlebell1Outline();
-
-  /// Kettlebell 1 — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Kettlebell 1',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.58047 8.66836C9.57317 5.67565 14.4253 5.67565 17.418 8.66836C20.4107 11.6611 20.4107 16.5132 17.418 19.5059C14.4253 22.4986 9.57317 22.4986 6.58047 19.5059C3.58776 16.5132 3.58776 11.6611 6.58047 8.66836ZM16.3574 9.72902C13.9504 7.3221 10.048 7.3221 7.64113 9.72902C5.23421 12.1359 5.23421 16.0383 7.64113 18.4452C10.048 20.8522 13.9504 20.8522 16.3574 18.4452C18.7643 16.0383 18.7643 12.1359 16.3574 9.72902Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7762 14.6682C16.1652 14.8104 16.3654 15.241 16.2232 15.6301C15.7394 16.9536 14.6525 17.9852 13.2933 18.3928C12.8965 18.5118 12.4784 18.2866 12.3595 17.8898C12.2405 17.493 12.4657 17.075 12.8625 16.956C13.7663 16.685 14.4922 15.9966 14.8143 15.1152C14.9565 14.7261 15.3872 14.526 15.7762 14.6682Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.51563 4.26498C11.0359 3.58052 12.9704 3.57651 14.4833 4.26392C14.4965 4.2699 14.5098 4.2755 14.5233 4.28071C15.0143 4.4704 15.2878 4.73139 15.4476 4.99677C15.6133 5.2718 15.6895 5.60712 15.6895 5.9835C15.6894 6.76349 15.362 7.55211 15.1598 7.86237C14.9336 8.20939 15.0316 8.67405 15.3786 8.90021C15.7257 9.12636 16.1903 9.02838 16.4165 8.68136C16.7512 8.16781 17.1894 7.09898 17.1895 5.98351C17.1895 5.41216 17.0742 4.79025 16.7327 4.22299C16.3884 3.65122 15.8456 3.18804 15.0844 2.8895C13.1833 2.03304 10.8171 2.0408 8.91811 2.88902C8.15627 3.18755 7.61312 3.65091 7.26864 4.22299C6.92707 4.79025 6.81185 5.41216 6.81185 5.98351C6.81186 7.09898 7.25015 8.16781 7.58484 8.68136C7.81099 9.02838 8.27565 9.12636 8.62267 8.90021C8.9697 8.67405 9.06768 8.20939 8.84152 7.86237C8.63933 7.55211 8.31186 6.76349 8.31185 5.9835C8.31185 5.60712 8.38805 5.2718 8.55366 4.99677C8.71346 4.73139 8.98697 4.4704 9.47801 4.28071C9.49069 4.27581 9.50323 4.27056 9.51563 4.26498Z" fill="black"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Kettlebell 1 — bold style variants.
-class _SportKettlebell1Bold {
-  const _SportKettlebell1Bold();
-
-  /// Kettlebell 1 — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Kettlebell 1',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3558 7.60926C13.2538 6.54426 10.7488 6.54326 8.64683 7.60826C8.40083 7.04026 8.18283 6.14826 8.40883 5.44926C8.56383 4.96726 8.91483 4.62726 9.51683 4.39226C11.0328 3.71026 12.9828 3.70926 14.5238 4.40926C15.0888 4.62726 15.4388 4.96726 15.5948 5.44826C15.8208 6.14726 15.6018 7.04026 15.3558 7.60926ZM12.2608 17.4723H10.3798C9.96583 17.4723 9.62983 17.1363 9.62983 16.7223C9.62983 16.3083 9.96583 15.9723 10.3798 15.9723H12.2608C12.5978 15.9723 12.8728 15.6983 12.8728 15.3603C12.8728 15.0233 12.5978 14.7483 12.2608 14.7483H10.3798C9.96583 14.7483 9.62983 14.4123 9.62983 13.9983V11.4213C9.62983 11.0073 9.96583 10.6713 10.3798 10.6713H13.3638C13.7778 10.6713 14.1138 11.0073 14.1138 11.4213C14.1138 11.8353 13.7778 12.1713 13.3638 12.1713H11.1298V13.2483H12.2608C13.4248 13.2483 14.3728 14.1963 14.3728 15.3603C14.3728 16.5253 13.4248 17.4723 12.2608 17.4723ZM17.2428 8.97426C17.0468 8.77826 16.8418 8.59826 16.6298 8.42926C17.0528 7.58126 17.4148 6.20426 17.0228 4.98726C16.7278 4.07426 16.0508 3.39026 15.1048 3.02626C13.1998 2.16026 10.8228 2.16126 8.93883 3.00926C7.95283 3.39026 7.27583 4.07526 6.98083 4.98826C6.58883 6.20426 6.94983 7.58026 7.37183 8.42826C7.15983 8.59726 6.95383 8.77726 6.75783 8.97426C3.86783 11.8643 3.86783 16.5673 6.75783 19.4573C8.20383 20.9023 10.1018 21.6243 12.0008 21.6243C13.8988 21.6243 15.7968 20.9023 17.2428 19.4573C20.1318 16.5673 20.1318 11.8643 17.2428 8.97426Z" fill="black"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Kettlebell 1 — light style variants.
@@ -1758,9 +2721,400 @@ class _SportKettlebell1Light {
   /// Kettlebell 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Kettlebell 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.8877 18.9756C14.1879 21.6754 9.81061 21.6754 7.1108 18.9756C4.41098 16.2758 4.41098 11.8985 7.1108 9.19869C9.81061 6.49887 14.1879 6.49887 16.8877 9.19869C19.5875 11.8985 19.5875 16.2758 16.8877 18.9756Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7881 8.27186C16.325 7.44805 17.3196 4.55697 14.7936 3.5811C13.0819 2.80337 10.9222 2.80924 9.20773 3.5811C6.68167 4.55697 7.6763 7.44805 8.21318 8.27186" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.79861 16.5027V11.6865L8.79688 12.5457" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.724 16.5937C12.9069 16.5937 12.2441 15.931 12.2441 15.1139V13.0745C12.2441 12.2565 12.9069 11.5938 13.724 11.5938C14.541 11.5938 15.2038 12.2565 15.2038 13.0745V15.1139C15.2038 15.931 14.541 16.5937 13.724 16.5937Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 1 icon with style variants.
+class _SportKettlebell11Icon {
+  const _SportKettlebell11Icon();
+
+  /// light style
+  _SportKettlebell11Light get light => const _SportKettlebell11Light();
+}
+
+/// Kettlebell 1 1 — light style variants.
+class _SportKettlebell11Light {
+  const _SportKettlebell11Light();
+
+  /// Kettlebell 1 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.8877 18.9756C14.1879 21.6754 9.81061 21.6754 7.1108 18.9756C4.41098 16.2758 4.41098 11.8985 7.1108 9.19869C9.81061 6.49887 14.1879 6.49887 16.8877 9.19869C19.5875 11.8985 19.5875 16.2758 16.8877 18.9756Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7881 8.27186C16.325 7.44805 17.3196 4.55697 14.7936 3.5811C13.0819 2.80337 10.9222 2.80924 9.20773 3.5811C6.68167 4.55697 7.6763 7.44805 8.21318 8.27186" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3789 16.5937H12.2597C13.0118 16.5937 13.6218 15.9837 13.6218 15.2316C13.6218 14.4794 13.0118 13.8704 12.2597 13.8704H10.3789V11.293H13.363" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 2 icon with style variants.
+class _SportKettlebell12Icon {
+  const _SportKettlebell12Icon();
+
+  /// light style
+  _SportKettlebell12Light get light => const _SportKettlebell12Light();
+}
+
+/// Kettlebell 1 2 — light style variants.
+class _SportKettlebell12Light {
+  const _SportKettlebell12Light();
+
+  /// Kettlebell 1 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.8877 18.9756C14.1879 21.6754 9.81061 21.6754 7.1108 18.9756C4.41098 16.2758 4.41098 11.8985 7.1108 9.19869C9.81061 6.49887 14.1879 6.49887 16.8877 9.19869C19.5875 11.8985 19.5875 16.2758 16.8877 18.9756Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0779 17.6741C14.2094 17.3348 15.1158 16.4747 15.5188 15.3723" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7881 8.27186C16.325 7.44805 17.3196 4.55697 14.7936 3.5811C13.0819 2.80337 10.9222 2.80924 9.20773 3.5811C6.68167 4.55697 7.6763 7.44805 8.21318 8.27186" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 3 icon with style variants.
+class _SportKettlebell13Icon {
+  const _SportKettlebell13Icon();
+
+  /// outline style
+  _SportKettlebell13Outline get outline => const _SportKettlebell13Outline();
+}
+
+/// Kettlebell 1 3 — outline style variants.
+class _SportKettlebell13Outline {
+  const _SportKettlebell13Outline();
+
+  /// Kettlebell 1 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.58047 8.66836C9.57317 5.67565 14.4253 5.67565 17.418 8.66836C20.4107 11.6611 20.4107 16.5132 17.418 19.5059C14.4253 22.4986 9.57317 22.4986 6.58047 19.5059C3.58776 16.5132 3.58776 11.6611 6.58047 8.66836ZM16.3574 9.72902C13.9504 7.3221 10.048 7.3221 7.64113 9.72902C5.23421 12.1359 5.23421 16.0383 7.64113 18.4452C10.048 20.8522 13.9504 20.8522 16.3574 18.4452C18.7643 16.0383 18.7643 12.1359 16.3574 9.72902Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7762 14.6682C16.1652 14.8104 16.3654 15.241 16.2232 15.6301C15.7394 16.9536 14.6525 17.9852 13.2933 18.3928C12.8965 18.5118 12.4784 18.2866 12.3595 17.8898C12.2405 17.493 12.4657 17.075 12.8625 16.956C13.7663 16.685 14.4922 15.9966 14.8143 15.1152C14.9565 14.7261 15.3872 14.526 15.7762 14.6682Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.51563 4.26498C11.0359 3.58052 12.9704 3.57651 14.4833 4.26392C14.4965 4.2699 14.5098 4.2755 14.5233 4.28071C15.0143 4.4704 15.2878 4.73139 15.4476 4.99677C15.6133 5.2718 15.6895 5.60712 15.6895 5.9835C15.6894 6.76349 15.362 7.55211 15.1598 7.86237C14.9336 8.20939 15.0316 8.67405 15.3786 8.90021C15.7257 9.12636 16.1903 9.02838 16.4165 8.68136C16.7512 8.16781 17.1894 7.09898 17.1895 5.98351C17.1895 5.41216 17.0742 4.79025 16.7327 4.22299C16.3884 3.65122 15.8456 3.18804 15.0844 2.8895C13.1833 2.03304 10.8171 2.0408 8.91811 2.88902C8.15627 3.18755 7.61312 3.65091 7.26864 4.22299C6.92707 4.79025 6.81185 5.41216 6.81185 5.98351C6.81186 7.09898 7.25015 8.16781 7.58484 8.68136C7.81099 9.02838 8.27565 9.12636 8.62267 8.90021C8.9697 8.67405 9.06768 8.20939 8.84152 7.86237C8.63933 7.55211 8.31186 6.76349 8.31185 5.9835C8.31185 5.60712 8.38805 5.2718 8.55366 4.99677C8.71346 4.73139 8.98697 4.4704 9.47801 4.28071C9.49069 4.27581 9.50323 4.27056 9.51563 4.26498Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 4 icon with style variants.
+class _SportKettlebell14Icon {
+  const _SportKettlebell14Icon();
+
+  /// outline style
+  _SportKettlebell14Outline get outline => const _SportKettlebell14Outline();
+}
+
+/// Kettlebell 1 4 — outline style variants.
+class _SportKettlebell14Outline {
+  const _SportKettlebell14Outline();
+
+  /// Kettlebell 1 4 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.58047 8.66836C9.57317 5.67565 14.4253 5.67565 17.418 8.66836C20.4107 11.6611 20.4107 16.5132 17.418 19.5059C14.4253 22.4986 9.57317 22.4986 6.58047 19.5059C3.58776 16.5132 3.58776 11.6611 6.58047 8.66836ZM16.3574 9.72902C13.9504 7.3221 10.048 7.3221 7.64113 9.72902C5.23421 12.1359 5.23421 16.0383 7.64113 18.4452C10.048 20.8522 13.9504 20.8522 16.3574 18.4452C18.7643 16.0383 18.7643 12.1359 16.3574 9.72902Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.51563 4.26498C11.0359 3.58052 12.9704 3.57651 14.4833 4.26392C14.4965 4.2699 14.5098 4.2755 14.5233 4.28071C15.0143 4.4704 15.2878 4.73139 15.4476 4.99677C15.6133 5.2718 15.6895 5.60712 15.6895 5.9835C15.6894 6.76349 15.362 7.55211 15.1598 7.86237C14.9336 8.20939 15.0316 8.67405 15.3786 8.90021C15.7257 9.12636 16.1903 9.02838 16.4165 8.68136C16.7512 8.16781 17.1894 7.09898 17.1895 5.98351C17.1895 5.41216 17.0742 4.79025 16.7327 4.22299C16.3884 3.65122 15.8456 3.18804 15.0844 2.8895C13.1833 2.03304 10.8171 2.0408 8.91811 2.88902C8.15627 3.18755 7.61312 3.65091 7.26864 4.22299C6.92707 4.79025 6.81185 5.41216 6.81185 5.98351C6.81186 7.09898 7.25015 8.16781 7.58484 8.68136C7.81099 9.02838 8.27565 9.12636 8.62267 8.90021C8.9697 8.67405 9.06768 8.20939 8.84152 7.86237C8.63933 7.55211 8.31186 6.76349 8.31185 5.9835C8.31185 5.60712 8.38805 5.2718 8.55366 4.99677C8.71346 4.73139 8.98697 4.4704 9.47801 4.28071C9.49069 4.27581 9.50323 4.27056 9.51563 4.26498Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1119 11.0051C10.3781 11.1275 10.5486 11.3936 10.5486 11.6865V16.5027C10.5486 16.9169 10.2128 17.2527 9.79863 17.2527C9.38441 17.2527 9.04863 16.9169 9.04863 16.5027V13.2524C8.76468 13.3535 8.43554 13.2764 8.2276 13.034C7.95793 12.7196 7.99421 12.2461 8.30862 11.9764L9.31036 11.1172C9.53271 10.9265 9.84575 10.8827 10.1119 11.0051Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.724 12.3438C13.3214 12.3438 12.9941 12.6704 12.9941 13.0745V15.1139C12.9941 15.5168 13.3211 15.8438 13.724 15.8438C14.1268 15.8438 14.4538 15.5168 14.4538 15.1139V13.0745C14.4538 12.6704 14.1265 12.3438 13.724 12.3438ZM11.4941 13.0745C11.4941 11.8426 12.4924 10.8438 13.724 10.8438C14.9555 10.8438 15.9538 11.8426 15.9538 13.0745V15.1139C15.9538 16.3452 14.9552 17.3438 13.724 17.3438C12.4927 17.3438 11.4941 16.3452 11.4941 15.1139V13.0745Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 5 icon with style variants.
+class _SportKettlebell15Icon {
+  const _SportKettlebell15Icon();
+
+  /// outline style
+  _SportKettlebell15Outline get outline => const _SportKettlebell15Outline();
+}
+
+/// Kettlebell 1 5 — outline style variants.
+class _SportKettlebell15Outline {
+  const _SportKettlebell15Outline();
+
+  /// Kettlebell 1 5 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.58047 8.66836C9.57317 5.67565 14.4253 5.67565 17.418 8.66836C20.4107 11.6611 20.4107 16.5132 17.418 19.5059C14.4253 22.4986 9.57317 22.4986 6.58047 19.5059C3.58776 16.5132 3.58776 11.6611 6.58047 8.66836ZM16.3574 9.72902C13.9504 7.3221 10.048 7.3221 7.64113 9.72902C5.23421 12.1359 5.23421 16.0383 7.64113 18.4452C10.048 20.8522 13.9504 20.8522 16.3574 18.4452C18.7643 16.0383 18.7643 12.1359 16.3574 9.72902Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.51563 4.26498C11.0359 3.58052 12.9704 3.57651 14.4833 4.26392C14.4965 4.2699 14.5098 4.2755 14.5233 4.28071C15.0143 4.4704 15.2878 4.73139 15.4476 4.99677C15.6133 5.2718 15.6895 5.60712 15.6895 5.9835C15.6894 6.76349 15.362 7.55211 15.1598 7.86237C14.9336 8.20939 15.0316 8.67405 15.3786 8.90021C15.7257 9.12636 16.1903 9.02838 16.4165 8.68136C16.7512 8.16781 17.1894 7.09898 17.1895 5.98351C17.1895 5.41216 17.0742 4.79025 16.7327 4.22299C16.3884 3.65122 15.8456 3.18804 15.0844 2.8895C13.1833 2.03304 10.8171 2.0408 8.91811 2.88902C8.15627 3.18755 7.61312 3.65091 7.26864 4.22299C6.92707 4.79025 6.81185 5.41216 6.81185 5.98351C6.81186 7.09898 7.25015 8.16781 7.58484 8.68136C7.81099 9.02838 8.27565 9.12636 8.62267 8.90021C8.9697 8.67405 9.06768 8.20939 8.84152 7.86237C8.63933 7.55211 8.31186 6.76349 8.31185 5.9835C8.31185 5.60712 8.38805 5.2718 8.55366 4.99677C8.71346 4.73139 8.98697 4.4704 9.47801 4.28071C9.49069 4.27581 9.50323 4.27056 9.51563 4.26498Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.62891 11.293C9.62891 10.8788 9.96469 10.543 10.3789 10.543H13.363C13.7772 10.543 14.113 10.8788 14.113 11.293C14.113 11.7072 13.7772 12.043 13.363 12.043H11.1289V13.1204H12.2597C13.4253 13.1204 14.3718 14.0645 14.3718 15.2316C14.3718 16.3979 13.426 17.3437 12.2597 17.3437H10.3789C9.96469 17.3437 9.62891 17.0079 9.62891 16.5937C9.62891 16.1795 9.96469 15.8437 10.3789 15.8437H12.2597C12.5976 15.8437 12.8718 15.5694 12.8718 15.2316C12.8718 14.8944 12.5983 14.6204 12.2597 14.6204H10.3789C9.96469 14.6204 9.62891 14.2846 9.62891 13.8704V11.293Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 6 icon with style variants.
+class _SportKettlebell16Icon {
+  const _SportKettlebell16Icon();
+
+  /// twoTone style
+  _SportKettlebell16Twotone get twoTone => const _SportKettlebell16Twotone();
+}
+
+/// Kettlebell 1 6 — twoTone style variants.
+class _SportKettlebell16Twotone {
+  const _SportKettlebell16Twotone();
+
+  /// Kettlebell 1 6 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.8877 18.9756C14.1879 21.6754 9.81061 21.6754 7.1108 18.9756C4.41098 16.2758 4.41098 11.8985 7.1108 9.19869C9.81061 6.49887 14.1879 6.49887 16.8877 9.19869C19.5875 11.8985 19.5875 16.2758 16.8877 18.9756Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.7881 8.27186C16.325 7.44805 17.3196 4.55697 14.7936 3.5811C13.0819 2.80337 10.9222 2.80924 9.20773 3.5811C6.68167 4.55697 7.6763 7.44805 8.21318 8.27186" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.79861 16.5027V11.6865L8.79688 12.5457" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.724 16.5937C12.9069 16.5937 12.2441 15.931 12.2441 15.1139V13.0745C12.2441 12.2565 12.9069 11.5938 13.724 11.5938C14.541 11.5938 15.2038 12.2565 15.2038 13.0745V15.1139C15.2038 15.931 14.541 16.5937 13.724 16.5937Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 7 icon with style variants.
+class _SportKettlebell17Icon {
+  const _SportKettlebell17Icon();
+
+  /// twoTone style
+  _SportKettlebell17Twotone get twoTone => const _SportKettlebell17Twotone();
+}
+
+/// Kettlebell 1 7 — twoTone style variants.
+class _SportKettlebell17Twotone {
+  const _SportKettlebell17Twotone();
+
+  /// Kettlebell 1 7 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.8877 18.9756C14.1879 21.6754 9.81061 21.6754 7.1108 18.9756C4.41098 16.2758 4.41098 11.8985 7.1108 9.19869C9.81061 6.49887 14.1879 6.49887 16.8877 9.19869C19.5875 11.8985 19.5875 16.2758 16.8877 18.9756Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.7881 8.27186C16.325 7.44805 17.3196 4.55697 14.7936 3.5811C13.0819 2.80337 10.9222 2.80924 9.20773 3.5811C6.68167 4.55697 7.6763 7.44805 8.21318 8.27186" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.3789 16.5937H12.2597C13.0118 16.5937 13.6218 15.9837 13.6218 15.2316C13.6218 14.4794 13.0118 13.8704 12.2597 13.8704H10.3789V11.293H13.363" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 8 icon with style variants.
+class _SportKettlebell18Icon {
+  const _SportKettlebell18Icon();
+
+  /// twoTone style
+  _SportKettlebell18Twotone get twoTone => const _SportKettlebell18Twotone();
+}
+
+/// Kettlebell 1 8 — twoTone style variants.
+class _SportKettlebell18Twotone {
+  const _SportKettlebell18Twotone();
+
+  /// Kettlebell 1 8 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.8877 18.9756C14.1879 21.6754 9.81061 21.6754 7.1108 18.9756C4.41098 16.2758 4.41098 11.8985 7.1108 9.19869C9.81061 6.49887 14.1879 6.49887 16.8877 9.19869C19.5875 11.8985 19.5875 16.2758 16.8877 18.9756Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M13.0779 17.6741C14.2094 17.3348 15.1158 16.4747 15.5188 15.3723" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.7881 8.27186C16.325 7.44805 17.3196 4.55697 14.7936 3.5811C13.0819 2.80337 10.9222 2.80924 9.20773 3.5811C6.68167 4.55697 7.6763 7.44805 8.21318 8.27186" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 9 icon with style variants.
+class _SportKettlebell19Icon {
+  const _SportKettlebell19Icon();
+
+  /// broken style
+  _SportKettlebell19Broken get broken => const _SportKettlebell19Broken();
+}
+
+/// Kettlebell 1 9 — broken style variants.
+class _SportKettlebell19Broken {
+  const _SportKettlebell19Broken();
+
+  /// Kettlebell 1 9 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.8877 18.9756C19.5875 16.2758 19.5875 11.8985 16.8877 9.19869C14.1879 6.49887 9.81061 6.49887 7.1108 9.19869C4.41098 11.8985 4.41098 16.2758 7.1108 18.9756C8.8666 20.7314 11.3319 21.3453 13.5838 20.8174" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.788 8.27186C16.3249 7.44805 17.3195 4.55697 14.7935 3.5811C13.0818 2.80337 10.922 2.80924 9.20763 3.5811C8.15726 3.98688 7.71562 4.72379 7.59668 5.50553" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.79861 16.5036V11.6875L8.79688 12.5467" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.724 16.5938C12.9069 16.5938 12.2441 15.931 12.2441 15.1139V13.0745C12.2441 12.2565 12.9069 11.5938 13.724 11.5938C14.541 11.5938 15.2038 12.2565 15.2038 13.0745V15.1139C15.2038 15.931 14.541 16.5938 13.724 16.5938Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 10 icon with style variants.
+class _SportKettlebell110Icon {
+  const _SportKettlebell110Icon();
+
+  /// broken style
+  _SportKettlebell110Broken get broken => const _SportKettlebell110Broken();
+}
+
+/// Kettlebell 1 10 — broken style variants.
+class _SportKettlebell110Broken {
+  const _SportKettlebell110Broken();
+
+  /// Kettlebell 1 10 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.0779 17.6748C14.2094 17.3355 15.1158 16.4755 15.5187 15.373" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.8877 18.9756C19.5875 16.2758 19.5875 11.8985 16.8877 9.19869C14.1879 6.49887 9.81061 6.49887 7.1108 9.19869C4.41098 11.8985 4.41098 16.2758 7.1108 18.9756C8.8666 20.7314 11.3319 21.3453 13.5838 20.8174" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.788 8.27186C16.3249 7.44805 17.3195 4.55697 14.7935 3.5811C13.0818 2.80337 10.922 2.80924 9.20763 3.5811C8.15726 3.98688 7.71562 4.72379 7.59668 5.50553" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 11 icon with style variants.
+class _SportKettlebell111Icon {
+  const _SportKettlebell111Icon();
+
+  /// broken style
+  _SportKettlebell111Broken get broken => const _SportKettlebell111Broken();
+}
+
+/// Kettlebell 1 11 — broken style variants.
+class _SportKettlebell111Broken {
+  const _SportKettlebell111Broken();
+
+  /// Kettlebell 1 11 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.8877 18.9756C19.5875 16.2758 19.5875 11.8985 16.8877 9.19869C14.1879 6.49887 9.81061 6.49887 7.1108 9.19869C4.41098 11.8985 4.41098 16.2758 7.1108 18.9756C8.8666 20.7314 11.3319 21.3453 13.5838 20.8174" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.788 8.27186C16.3249 7.44805 17.3195 4.55697 14.7935 3.5811C13.0818 2.80337 10.922 2.80924 9.20763 3.5811C8.15726 3.98688 7.71562 4.72379 7.59668 5.50553" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.79861 16.5036V11.6875L8.79688 12.5467" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.724 16.5938C12.9069 16.5938 12.2441 15.931 12.2441 15.1139V13.0745C12.2441 12.2565 12.9069 11.5938 13.724 11.5938C14.541 11.5938 15.2038 12.2565 15.2038 13.0745V15.1139C15.2038 15.931 14.541 16.5938 13.724 16.5938Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 12 icon with style variants.
+class _SportKettlebell112Icon {
+  const _SportKettlebell112Icon();
+
+  /// bold style
+  _SportKettlebell112Bold get bold => const _SportKettlebell112Bold();
+}
+
+/// Kettlebell 1 12 — bold style variants.
+class _SportKettlebell112Bold {
+  const _SportKettlebell112Bold();
+
+  /// Kettlebell 1 12 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7249 12.4727C13.3229 12.4727 12.9949 12.8007 12.9949 13.2027V15.2427C12.9949 15.6447 13.3229 15.9727 13.7249 15.9727C14.1269 15.9727 14.4549 15.6447 14.4549 15.2427V13.2027C14.4549 12.8007 14.1269 12.4727 13.7249 12.4727Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9548 15.2426C15.9548 16.4716 14.9548 17.4726 13.7248 17.4726C12.4958 17.4726 11.4948 16.4716 11.4948 15.2426V13.2026C11.4948 11.9726 12.4958 10.9726 13.7248 10.9726C14.9548 10.9726 15.9548 11.9726 15.9548 13.2026V15.2426ZM10.5498 16.6316C10.5498 17.0456 10.2138 17.3816 9.79983 17.3816C9.38583 17.3816 9.04983 17.0456 9.04983 16.6316V13.3816C8.76483 13.4836 8.43583 13.4056 8.22783 13.1626C7.95883 12.8486 7.99483 12.3746 8.30883 12.1056L9.31083 11.2456C9.53383 11.0556 9.84583 11.0126 10.1128 11.1336C10.3788 11.2566 10.5498 11.5226 10.5498 11.8156V16.6316ZM8.40883 5.44964C8.56383 4.96764 8.91383 4.62764 9.51683 4.39264C11.0338 3.71064 12.9828 3.70964 14.5238 4.40964C15.0888 4.62764 15.4388 4.96764 15.5948 5.44864C15.8208 6.14764 15.6018 7.04064 15.3558 7.60964C13.2538 6.54464 10.7488 6.54364 8.64683 7.60864C8.40083 7.04064 8.18283 6.14864 8.40883 5.44964ZM17.2428 8.97364C17.0468 8.77864 16.8418 8.59864 16.6298 8.42964C17.0528 7.58164 17.4148 6.20464 17.0218 4.98764C16.7268 4.07464 16.0508 3.39064 15.1048 3.02664C13.1998 2.16064 10.8218 2.16064 8.93783 3.00964C7.95283 3.39064 7.27583 4.07564 6.98083 4.98864C6.58883 6.20464 6.94983 7.58064 7.37183 8.42864C7.15983 8.59764 6.95383 8.77764 6.75783 8.97364C3.86783 11.8646 3.86783 16.5676 6.75783 19.4576C8.20383 20.9026 10.1018 21.6246 11.9998 21.6246C13.8988 21.6246 15.7968 20.9026 17.2428 19.4576C20.1318 16.5676 20.1318 11.8646 17.2428 8.97364Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 13 icon with style variants.
+class _SportKettlebell113Icon {
+  const _SportKettlebell113Icon();
+
+  /// bold style
+  _SportKettlebell113Bold get bold => const _SportKettlebell113Bold();
+}
+
+/// Kettlebell 1 13 — bold style variants.
+class _SportKettlebell113Bold {
+  const _SportKettlebell113Bold();
+
+  /// Kettlebell 1 13 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 13',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3558 7.60926C13.2538 6.54426 10.7488 6.54326 8.64683 7.60826C8.40083 7.04026 8.18283 6.14826 8.40883 5.44926C8.56383 4.96726 8.91483 4.62726 9.51683 4.39226C11.0328 3.71026 12.9828 3.70926 14.5238 4.40926C15.0888 4.62726 15.4388 4.96726 15.5948 5.44826C15.8208 6.14726 15.6018 7.04026 15.3558 7.60926ZM12.2608 17.4723H10.3798C9.96583 17.4723 9.62983 17.1363 9.62983 16.7223C9.62983 16.3083 9.96583 15.9723 10.3798 15.9723H12.2608C12.5978 15.9723 12.8728 15.6983 12.8728 15.3603C12.8728 15.0233 12.5978 14.7483 12.2608 14.7483H10.3798C9.96583 14.7483 9.62983 14.4123 9.62983 13.9983V11.4213C9.62983 11.0073 9.96583 10.6713 10.3798 10.6713H13.3638C13.7778 10.6713 14.1138 11.0073 14.1138 11.4213C14.1138 11.8353 13.7778 12.1713 13.3638 12.1713H11.1298V13.2483H12.2608C13.4248 13.2483 14.3728 14.1963 14.3728 15.3603C14.3728 16.5253 13.4248 17.4723 12.2608 17.4723ZM17.2428 8.97426C17.0468 8.77826 16.8418 8.59826 16.6298 8.42926C17.0528 7.58126 17.4148 6.20426 17.0228 4.98726C16.7278 4.07426 16.0508 3.39026 15.1048 3.02626C13.1998 2.16026 10.8228 2.16126 8.93883 3.00926C7.95283 3.39026 7.27583 4.07526 6.98083 4.98826C6.58883 6.20426 6.94983 7.58026 7.37183 8.42826C7.15983 8.59726 6.95383 8.77726 6.75783 8.97426C3.86783 11.8643 3.86783 16.5673 6.75783 19.4573C8.20383 20.9023 10.1018 21.6243 12.0008 21.6243C13.8988 21.6243 15.7968 20.9023 17.2428 19.4573C20.1318 16.5673 20.1318 11.8643 17.2428 8.97426Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 14 icon with style variants.
+class _SportKettlebell114Icon {
+  const _SportKettlebell114Icon();
+
+  /// bold style
+  _SportKettlebell114Bold get bold => const _SportKettlebell114Bold();
+}
+
+/// Kettlebell 1 14 — bold style variants.
+class _SportKettlebell114Bold {
+  const _SportKettlebell114Bold();
+
+  /// Kettlebell 1 14 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 14',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.2243 15.7576C15.7403 17.0836 14.6443 18.1166 13.2943 18.5206C13.2223 18.5426 13.1493 18.5526 13.0783 18.5526C12.7563 18.5526 12.4573 18.3426 12.3603 18.0176C12.2413 17.6206 12.4663 17.2026 12.8633 17.0846C13.7633 16.8146 14.4933 16.1266 14.8153 15.2426C14.9573 14.8536 15.3883 14.6546 15.7773 14.7956C16.1663 14.9376 16.3663 15.3686 16.2243 15.7576ZM8.64632 7.60864C8.40032 7.03964 8.18232 6.14864 8.40832 5.44864C8.56332 4.96764 8.91432 4.62764 9.51632 4.39264C11.0333 3.71064 12.9833 3.70964 14.5243 4.40864C15.0893 4.62764 15.4393 4.96664 15.5943 5.44864C15.8203 6.14764 15.6013 7.04064 15.3553 7.60964C13.2533 6.54364 10.7483 6.54364 8.64632 7.60864ZM17.2423 8.97364C17.0463 8.77864 16.8413 8.59864 16.6303 8.42864C17.0523 7.58064 17.4153 6.20464 17.0223 4.98764C16.7273 4.07464 16.0503 3.39064 15.1043 3.02664C13.1993 2.16064 10.8223 2.16064 8.93832 3.00964C7.95332 3.39064 7.27532 4.07464 6.98032 4.98864C6.58832 6.20464 6.94932 7.58064 7.37132 8.42764C7.16032 8.59764 6.95432 8.77764 6.75832 8.97364C3.86832 11.8646 3.86832 16.5676 6.75832 19.4576C8.20332 20.9026 10.1013 21.6246 12.0003 21.6246C13.8983 21.6246 15.7973 20.9026 17.2423 19.4576C20.1313 16.5676 20.1313 11.8646 17.2423 8.97364Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 15 icon with style variants.
+class _SportKettlebell115Icon {
+  const _SportKettlebell115Icon();
+
+  /// bulk style
+  _SportKettlebell115Bulk get bulk => const _SportKettlebell115Bulk();
+}
+
+/// Kettlebell 1 15 — bulk style variants.
+class _SportKettlebell115Bulk {
+  const _SportKettlebell115Bulk();
+
+  /// Kettlebell 1 15 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 15',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2426 8.97391C14.3516 6.08291 9.64858 6.08291 6.75858 8.97391C3.86758 11.8649 3.86758 16.5679 6.75858 19.4579C8.20358 20.9029 10.1016 21.6249 12.0006 21.6249C13.8986 21.6249 15.7976 20.9029 17.2426 19.4579C20.1316 16.5679 20.1316 11.8649 17.2426 8.97391Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.64668 7.60864C8.40068 7.04064 8.18268 6.14864 8.40868 5.44864C8.56368 4.96764 8.91468 4.62764 9.51668 4.39264C11.0337 3.71064 12.9837 3.70964 14.5247 4.40864C15.0897 4.62764 15.4397 4.96664 15.5947 5.44864C15.8207 6.14764 15.6017 7.04064 15.3557 7.60964C15.8017 7.83564 16.2287 8.10764 16.6307 8.42964C17.0527 7.58164 17.4157 6.20364 17.0227 4.98764C16.7277 4.07464 16.0507 3.39064 15.1047 3.02664C13.2007 2.16064 10.8227 2.16064 8.93868 3.00964C7.95368 3.39064 7.27568 4.07464 6.98068 4.98864C6.58868 6.20464 6.94968 7.58064 7.37168 8.42864C7.77368 8.10664 8.20068 7.83464 8.64668 7.60864Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1134 11.1336C9.84642 11.0116 9.53442 11.0546 9.31142 11.2456L8.30942 12.1056C7.99542 12.3746 7.95942 12.8486 8.22842 13.1626C8.43642 13.4046 8.76542 13.4836 9.05042 13.3816V16.6316C9.05042 17.0456 9.38542 17.3816 9.80042 17.3816C10.2144 17.3816 10.5504 17.0456 10.5504 16.6316V11.8156C10.5504 11.5226 10.3794 11.2566 10.1134 11.1336Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4552 15.2425C14.4552 15.6445 14.1272 15.9725 13.7252 15.9725C13.3232 15.9725 12.9952 15.6445 12.9952 15.2425V13.2025C12.9952 12.8005 13.3232 12.4725 13.7252 12.4725C14.1272 12.4725 14.4552 12.8005 14.4552 13.2025V15.2425ZM13.7252 10.9725C12.4962 10.9725 11.4952 11.9725 11.4952 13.2025V15.2425C11.4952 16.4715 12.4962 17.4725 13.7252 17.4725C14.9552 17.4725 15.9552 16.4715 15.9552 15.2425V13.2025C15.9552 11.9725 14.9552 10.9725 13.7252 10.9725Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 16 icon with style variants.
+class _SportKettlebell116Icon {
+  const _SportKettlebell116Icon();
+
+  /// bulk style
+  _SportKettlebell116Bulk get bulk => const _SportKettlebell116Bulk();
+}
+
+/// Kettlebell 1 16 — bulk style variants.
+class _SportKettlebell116Bulk {
+  const _SportKettlebell116Bulk();
+
+  /// Kettlebell 1 16 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 16',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2426 8.97391C14.3516 6.08291 9.64858 6.08291 6.75858 8.97391C3.86758 11.8649 3.86758 16.5679 6.75858 19.4579C8.20358 20.9029 10.1016 21.6249 12.0006 21.6249C13.8986 21.6249 15.7976 20.9029 17.2426 19.4579C20.1316 16.5679 20.1316 11.8649 17.2426 8.97391Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.64668 7.60864C8.40068 7.04064 8.18268 6.14864 8.40868 5.44864C8.56368 4.96764 8.91468 4.62764 9.51668 4.39264C11.0337 3.71064 12.9837 3.70964 14.5247 4.40864C15.0897 4.62764 15.4397 4.96664 15.5947 5.44864C15.8207 6.14764 15.6017 7.04064 15.3557 7.60964C15.8017 7.83564 16.2287 8.10764 16.6307 8.42964C17.0527 7.58164 17.4157 6.20364 17.0227 4.98764C16.7277 4.07464 16.0507 3.39064 15.1047 3.02664C13.2007 2.16064 10.8227 2.16064 8.93868 3.00964C7.95368 3.39064 7.27568 4.07464 6.98068 4.98864C6.58868 6.20464 6.94968 7.58064 7.37168 8.42864C7.77368 8.10664 8.20068 7.83464 8.64668 7.60864Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2927 17.4725H10.4117C9.99774 17.4725 9.66174 17.1365 9.66174 16.7225C9.66174 16.3085 9.99774 15.9725 10.4117 15.9725H12.2927C12.6297 15.9725 12.9047 15.6985 12.9047 15.3605C12.9047 15.0235 12.6297 14.7485 12.2927 14.7485H10.4117C9.99774 14.7485 9.66174 14.4125 9.66174 13.9985V11.4215C9.66174 11.0075 9.99774 10.6715 10.4117 10.6715H13.3957C13.8097 10.6715 14.1457 11.0075 14.1457 11.4215C14.1457 11.8355 13.8097 12.1715 13.3957 12.1715H11.1617V13.2485H12.2927C13.4577 13.2485 14.4047 14.1965 14.4047 15.3605C14.4047 16.5255 13.4577 17.4725 12.2927 17.4725Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Kettlebell 1 17 icon with style variants.
+class _SportKettlebell117Icon {
+  const _SportKettlebell117Icon();
+
+  /// bulk style
+  _SportKettlebell117Bulk get bulk => const _SportKettlebell117Bulk();
+}
+
+/// Kettlebell 1 17 — bulk style variants.
+class _SportKettlebell117Bulk {
+  const _SportKettlebell117Bulk();
+
+  /// Kettlebell 1 17 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Kettlebell 1 17',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2426 8.97391C14.3516 6.08291 9.64858 6.08291 6.75858 8.97391C3.86758 11.8649 3.86758 16.5679 6.75858 19.4579C8.20358 20.9029 10.1016 21.6249 12.0006 21.6249C13.8986 21.6249 15.7976 20.9029 17.2426 19.4579C20.1316 16.5679 20.1316 11.8649 17.2426 8.97391Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.64619 7.60864C8.40019 7.04064 8.18219 6.14864 8.40819 5.44864C8.56319 4.96764 8.91419 4.62764 9.51619 4.39264C11.0332 3.71064 12.9832 3.70964 14.5242 4.40864C15.0892 4.62764 15.4392 4.96664 15.5942 5.44864C15.8202 6.14764 15.6012 7.04064 15.3552 7.60964C15.8012 7.83564 16.2282 8.10764 16.6302 8.42964C17.0522 7.58164 17.4152 6.20364 17.0222 4.98764C16.7272 4.07464 16.0502 3.39064 15.1042 3.02664C13.2002 2.16064 10.8222 2.16064 8.93819 3.00964C7.95319 3.39064 7.27519 4.07464 6.98019 4.98864C6.58819 6.20464 6.94919 7.58064 7.37119 8.42864C7.77319 8.10664 8.20019 7.83464 8.64619 7.60864Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.12 18.5526C12.798 18.5526 12.499 18.3426 12.402 18.0176C12.283 17.6206 12.508 17.2026 12.905 17.0846C13.805 16.8146 14.535 16.1266 14.857 15.2426C14.999 14.8536 15.43 14.6556 15.819 14.7956C16.208 14.9376 16.408 15.3686 16.266 15.7576C15.782 17.0836 14.686 18.1166 13.336 18.5206C13.264 18.5426 13.191 18.5526 13.12 18.5526Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
     type: IconfyType.regular,
   );
 
@@ -1952,93 +3306,8 @@ class _SportBallVolleyballLight {
 class _SportWalkIcon {
   const _SportWalkIcon();
 
-  /// bold style
-  _SportWalkBold get bold => const _SportWalkBold();
-  /// bulk style
-  _SportWalkBulk get bulk => const _SportWalkBulk();
   /// light style
   _SportWalkLight get light => const _SportWalkLight();
-  /// outline style
-  _SportWalkOutline get outline => const _SportWalkOutline();
-  /// twoTone style
-  _SportWalkTwotone get twoTone => const _SportWalkTwotone();
-  /// broken style
-  _SportWalkBroken get broken => const _SportWalkBroken();
-}
-
-/// Walk — bulk style variants.
-class _SportWalkBulk {
-  const _SportWalkBulk();
-
-  /// Walk — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Walk',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2186 12.4196C16.7666 12.3066 16.3446 11.9916 15.9296 11.4566C15.7356 11.2046 15.5586 10.9446 15.3836 10.6876C14.8046 9.83763 14.1476 8.87563 12.9596 8.30163C11.3796 7.54163 9.59864 7.65763 8.30964 8.60863C6.44764 9.98463 6.09164 12.5506 6.02664 13.3046C5.97964 13.8546 6.38664 14.3386 6.93764 14.3856C7.47564 14.4426 7.97164 14.0256 8.01864 13.4756C8.11064 12.4086 8.55264 10.9156 9.49664 10.2176C9.73364 10.0436 10.0186 9.94563 10.3166 9.88163L9.80764 11.9596C9.41064 13.5236 9.76664 15.2186 10.7606 16.4936L14.5416 21.3636C14.7396 21.6176 15.0346 21.7506 15.3326 21.7506C15.5466 21.7506 15.7626 21.6816 15.9456 21.5406C16.3816 21.2016 16.4606 20.5726 16.1216 20.1366L12.3386 15.2656C11.7216 14.4726 11.4996 13.4206 11.7476 12.4436L12.2906 10.2306C12.8766 10.5886 13.2816 11.1556 13.7316 11.8146C13.9286 12.1046 14.1286 12.3966 14.3486 12.6806C15.0496 13.5856 15.8306 14.1346 16.7356 14.3596C16.8166 14.3806 16.8976 14.3896 16.9776 14.3896C17.4266 14.3896 17.8346 14.0866 17.9476 13.6316C18.0806 13.0956 17.7546 12.5526 17.2186 12.4196Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2239 7.18C13.5829 7.18 14.6889 6.074 14.6889 4.714C14.6889 3.356 13.5829 2.25 12.2239 2.25C10.8649 2.25 9.75989 3.356 9.75989 4.714C9.75989 6.074 10.8649 7.18 12.2239 7.18Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.70589 17.4651L6.69489 20.1511C6.36489 20.5931 6.45489 21.2201 6.89689 21.5501C7.07689 21.6851 7.28689 21.7501 7.49489 21.7501C7.79989 21.7501 8.09989 21.6121 8.29689 21.3491L10.3079 18.6631C10.6379 18.2211 10.5479 17.5941 10.1059 17.2631C9.66389 16.9331 9.03789 17.0231 8.70589 17.4651Z" fill="black"/> </g> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Walk — broken style variants.
-class _SportWalkBroken {
-  const _SportWalkBroken();
-
-  /// Walk — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Walk',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.6543 11.9339C6.90263 10.7926 8.07604 9.61922 9.65421 8.93619C10.1242 8.73381 10.6359 8.60538 11.1263 8.691C11.7023 8.78732 12.1402 9.17067 12.289 9.72527C12.4914 10.4832 12.1606 11.1653 11.6274 11.6887C11.0728 12.2326 10.3051 12.5839 10.1135 13.406C10.0171 13.8322 10.1135 14.2915 10.3372 14.6641C10.6681 15.2401 11.2334 15.5923 11.7772 15.966C13.5481 17.1715 14.668 18.9306 15.0941 21.0001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.21713 18.0332C8.47085 19.1745 7.54263 20.2944 6.39062 20.9988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.2363 12.2054C16.3134 12.3416 17.3506 12.1947 18.3469 11.7637" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.549 3.0214C15.7127 2.85599 16.7985 3.66745 16.9649 4.83697C17.1303 6.00552 16.313 7.08747 15.1493 7.2519C13.9856 7.41634 12.8998 6.60487 12.7344 5.43633" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Walk — twoTone style variants.
-class _SportWalkTwotone {
-  const _SportWalkTwotone();
-
-  /// Walk — twoTone / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Walk',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.1543 11.933C7.40263 10.7917 8.57604 9.61824 10.1542 8.93521C10.6242 8.73283 11.1359 8.6044 11.6263 8.69002C12.2023 8.78635 12.6402 9.1697 12.789 9.7243C12.9914 10.4822 12.6606 11.1643 12.1274 11.6878C11.5728 12.2317 10.8051 12.5829 10.6135 13.4051C10.5171 13.8312 10.6135 14.2905 10.8372 14.6631C11.1681 15.2391 11.7334 15.5914 12.2772 15.965C14.0481 17.1705 15.168 18.9296 15.5941 20.9992" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.71713 18.0332C8.97085 19.1745 8.04263 20.2944 6.89062 20.9988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.7363 12.2054C16.8134 12.3416 17.8506 12.1947 18.8469 11.7637" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.6493 7.2519C16.813 7.08747 17.6303 6.00552 17.4649 4.83697C17.2985 3.66745 16.2127 2.85599 15.049 3.0214C13.8863 3.18583 13.068 4.26778 13.2344 5.43633C13.3998 6.60487 14.4856 7.41634 15.6493 7.2519Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.twoTone,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Walk — outline style variants.
-class _SportWalkOutline {
-  const _SportWalkOutline();
-
-  /// Walk — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Walk',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.4718 7.678C11.9351 7.678 11.4104 7.51885 10.9641 7.22068C10.5178 6.92251 10.1699 6.4987 9.9645 6.00284C9.75906 5.50697 9.70525 4.96133 9.80989 4.43489C9.91453 3.90846 10.1729 3.42487 10.5524 3.04527C10.9318 2.66567 11.4153 2.40711 11.9417 2.30227C12.4681 2.19744 13.0138 2.25104 13.5097 2.45631C14.0057 2.66157 14.4296 3.00927 14.7279 3.45546C15.0263 3.90164 15.1856 4.42627 15.1858 4.963C15.185 5.68265 14.8989 6.37261 14.3901 6.88157C13.8813 7.39053 13.1915 7.67694 12.4718 7.678ZM12.4718 3.749C12.2314 3.7488 11.9964 3.81992 11.7964 3.95335C11.5965 4.08678 11.4406 4.27653 11.3485 4.49858C11.2564 4.72063 11.2323 4.96501 11.2791 5.20079C11.326 5.43657 11.4417 5.65315 11.6117 5.82314C11.7817 5.99312 11.9982 6.10885 12.234 6.1557C12.4698 6.20255 12.7142 6.17841 12.9362 6.08632C13.1583 5.99424 13.348 5.83835 13.4815 5.6384C13.6149 5.43844 13.686 5.20339 13.6858 4.963C13.6853 4.64119 13.5572 4.33271 13.3297 4.10516C13.1021 3.8776 12.7936 3.74953 12.4718 3.749Z" fill="black"/> <path d="M17.2272 14.3893C17.1658 14.389 17.1047 14.3812 17.0452 14.3663C16.1343 14.1121 15.3396 13.5502 14.7962 12.7763C14.5802 12.4963 14.3832 12.2093 14.1892 11.9233C13.7829 11.1771 13.1819 10.5551 12.4502 10.1233C12.006 9.88943 11.5072 9.77889 11.0058 9.80316C10.5044 9.82743 10.0187 9.98562 9.59917 10.2613C9.12284 10.7023 8.73824 11.233 8.46745 11.823C8.19666 12.4129 8.04501 13.0506 8.02117 13.6993C8.0042 13.8975 7.90917 14.0809 7.75698 14.2091C7.6048 14.3373 7.40792 14.3997 7.20967 14.3828C7.01142 14.3658 6.82804 14.2708 6.69986 14.1186C6.57168 13.9664 6.5092 13.7695 6.52617 13.5713C6.57411 12.7119 6.79169 11.8705 7.16636 11.0956C7.54102 10.3207 8.06537 9.62757 8.70917 9.05627C9.3461 8.61361 10.0919 8.35337 10.8659 8.30367C11.64 8.25397 12.4129 8.4167 13.1012 8.77427C14.0755 9.30984 14.8813 10.1063 15.4282 11.0743C15.6062 11.3343 15.7852 11.5983 15.9822 11.8533C16.3237 12.3564 16.8268 12.7279 17.4082 12.9063C17.586 12.9503 17.7416 13.058 17.8456 13.2089C17.9495 13.3598 17.9946 13.5436 17.9723 13.7254C17.95 13.9073 17.8619 14.0748 17.7247 14.1961C17.5874 14.3175 17.4104 14.3844 17.2272 14.3843V14.3893Z" fill="black"/> <path d="M15.5822 21.7503C15.4678 21.7504 15.3548 21.7244 15.2521 21.6741C15.1493 21.6238 15.0593 21.5507 14.9892 21.4604L11.2072 16.5893C10.7388 15.9851 10.4138 15.2824 10.2565 14.5343C10.0992 13.7861 10.1138 13.012 10.2992 12.2703L11.0912 9.03835C11.1385 8.84514 11.2607 8.67865 11.4308 8.5755C11.6009 8.47236 11.805 8.44101 11.9982 8.48835C12.1914 8.53569 12.3579 8.65785 12.461 8.82794C12.5642 8.99804 12.5955 9.20214 12.5482 9.39535L11.7552 12.6333C11.6242 13.1543 11.6134 13.6982 11.7234 14.2239C11.8334 14.7497 12.0614 15.2436 12.3902 15.6684L16.1742 20.5403C16.2598 20.6513 16.3127 20.784 16.3269 20.9234C16.3411 21.0629 16.316 21.2035 16.2544 21.3294C16.1928 21.4553 16.0972 21.5615 15.9784 21.6358C15.8596 21.7102 15.7223 21.7499 15.5822 21.7503Z" fill="black"/> <path d="M7.75 21.7505C7.61072 21.7505 7.47418 21.7117 7.3557 21.6384C7.23722 21.5652 7.14147 21.4604 7.07918 21.3359C7.01689 21.2113 6.99052 21.0718 7.00303 20.9331C7.01554 20.7944 7.06643 20.6619 7.15 20.5505L9.161 17.8645C9.28035 17.7053 9.45802 17.6001 9.65493 17.572C9.85185 17.5439 10.0519 17.5951 10.211 17.7145C10.3701 17.8338 10.4753 18.0115 10.5035 18.2084C10.5316 18.4053 10.4803 18.6053 10.361 18.7645L8.35 21.4495C8.28041 21.543 8.1899 21.6189 8.08571 21.6711C7.98153 21.7234 7.86656 21.7506 7.75 21.7505Z" fill="black"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// Walk — bold style variants.
-class _SportWalkBold {
-  const _SportWalkBold();
-
-  /// Walk — bold / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Walk',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3425 14.8913L12.1975 14.7923C11.7655 14.4973 11.3915 14.2423 11.1935 13.8983C11.0925 13.7313 11.0525 13.5313 11.0855 13.3833C11.1425 13.1413 11.3635 12.9563 11.7495 12.6483C11.9475 12.4903 12.1465 12.3293 12.3265 12.1523C13.2005 11.2943 13.5305 10.2513 13.2545 9.21433C13.0055 8.28833 12.2525 7.61433 11.2995 7.45533C10.6725 7.34533 10.0045 7.44633 9.25549 7.76733C7.69149 8.44533 6.51249 9.53133 5.37349 10.5813L4.97849 10.9453C4.57149 11.3173 4.54249 11.9503 4.91449 12.3573C5.28649 12.7653 5.92049 12.7943 6.32749 12.4213L6.72949 12.0523C7.79349 11.0713 8.79749 10.1453 10.0475 9.60433C10.4185 9.44533 10.7225 9.38733 10.9615 9.42733C11.1555 9.45933 11.2765 9.56233 11.3215 9.73233C11.4065 10.0493 11.2735 10.3833 10.9255 10.7253C10.7945 10.8543 10.6475 10.9693 10.5025 11.0843C9.99149 11.4923 9.35549 11.9983 9.13649 12.9363C8.98849 13.5943 9.11349 14.3203 9.46849 14.9113C9.88549 15.6373 10.5155 16.0663 11.0715 16.4453L11.2135 16.5423C12.7295 17.5743 13.7325 19.0983 14.1135 20.9513C14.2105 21.4233 14.6275 21.7493 15.0925 21.7493C15.1585 21.7493 15.2265 21.7433 15.2945 21.7283C15.8355 21.6173 16.1835 21.0883 16.0725 20.5473C15.5845 18.1753 14.2935 16.2193 12.3425 14.8913Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.76281 16.946C9.29981 16.645 8.67981 16.775 8.37881 17.237C7.55681 18.496 6.73581 19.366 5.86781 19.896C5.39681 20.184 5.24881 20.8 5.53681 21.271C5.72581 21.579 6.05481 21.749 6.39081 21.749C6.56881 21.749 6.74881 21.702 6.91181 21.602C8.03781 20.914 9.06581 19.843 10.0538 18.33C10.3548 17.867 10.2248 17.248 9.76281 16.946Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.2638 11.1168C19.0448 10.6098 18.4548 10.3768 17.9488 10.5968C17.1138 10.9588 16.2668 11.0788 15.3618 10.9628C14.8158 10.8968 14.3128 11.2808 14.2428 11.8288C14.1738 12.3768 14.5608 12.8778 15.1088 12.9478C15.4098 12.9858 15.7088 13.0048 16.0058 13.0048C16.9458 13.0048 17.8638 12.8128 18.7438 12.4318C19.2508 12.2128 19.4838 11.6238 19.2638 11.1168Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8487 7.52361C14.9707 7.52361 15.0937 7.51561 15.2177 7.49761C16.6557 7.29361 17.6617 5.95661 17.4587 4.51761C17.2557 3.07861 15.9187 2.07461 14.4777 2.27561C13.7827 2.37461 13.1667 2.73861 12.7427 3.30161C12.3187 3.86561 12.1387 4.55961 12.2377 5.25661C12.4247 6.57061 13.5567 7.52361 14.8487 7.52361Z" fill="black"/> </svg>',
-    category: 'Sport',
-    style: IconfyStyle.bold,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Walk — light style variants.
@@ -2051,6 +3320,259 @@ class _SportWalkLight {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.6543 11.933C6.90263 10.7917 8.07604 9.61824 9.65421 8.93521C10.1242 8.73283 10.6359 8.6044 11.1263 8.69002C11.7023 8.78635 12.1402 9.1697 12.289 9.7243C12.4914 10.4822 12.1606 11.1643 11.6274 11.6878C11.0728 12.2317 10.3051 12.5829 10.1135 13.4051C10.0171 13.8312 10.1135 14.2905 10.3372 14.6631C10.6681 15.2391 11.2334 15.5914 11.7772 15.965C13.5481 17.1705 14.668 18.9296 15.0941 20.9992" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.21713 18.0332C8.47085 19.1745 7.54263 20.2944 6.39062 20.9988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.2363 12.2054C16.3134 12.3416 17.3506 12.1947 18.3469 11.7637" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.1493 7.2519C16.313 7.08747 17.1303 6.00552 16.9649 4.83697C16.7985 3.66745 15.7127 2.85599 14.549 3.0214C13.3863 3.18583 12.568 4.26778 12.7344 5.43633C12.8998 6.60487 13.9856 7.41634 15.1493 7.2519Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Walk 1 icon with style variants.
+class _SportWalk1Icon {
+  const _SportWalk1Icon();
+
+  /// light style
+  _SportWalk1Light get light => const _SportWalk1Light();
+}
+
+/// Walk 1 — light style variants.
+class _SportWalk1Light {
+  const _SportWalk1Light();
+
+  /// Walk 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Walk 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2241 6.92974C13.31 6.92974 14.1885 6.05019 14.1885 4.96438C14.1885 3.87954 13.31 3 12.2241 3C11.1383 3 10.2598 3.87954 10.2598 4.96438C10.2598 6.05019 11.1383 6.92974 12.2241 6.92974Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.02344 13.6403C7.14408 12.2305 7.72104 10.5366 8.90415 9.6629C9.9559 8.88746 11.3774 8.89914 12.5255 9.45275C13.7932 10.0638 14.3196 11.2585 15.1388 12.3181C15.6155 12.934 16.2061 13.4477 16.9767 13.6403" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.571 9.2168L10.7771 12.4557C10.4512 13.7381 10.745 15.0973 11.5496 16.1296L15.3324 21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.50718 18.3145L7.49609 20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Walk 2 icon with style variants.
+class _SportWalk2Icon {
+  const _SportWalk2Icon();
+
+  /// outline style
+  _SportWalk2Outline get outline => const _SportWalk2Outline();
+}
+
+/// Walk 2 — outline style variants.
+class _SportWalk2Outline {
+  const _SportWalk2Outline();
+
+  /// Walk 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Walk 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.3459 21.7532C15.1733 21.7526 15.0061 21.6927 14.8724 21.5834C14.7388 21.4741 14.6468 21.3222 14.6119 21.1532C14.4361 20.2325 14.0807 19.3556 13.5659 18.5723C13.0512 17.789 12.3872 17.1148 11.6119 16.5882L11.4719 16.4882C10.8567 16.1289 10.3336 15.6315 9.94388 15.0352C9.6164 14.496 9.50696 13.8522 9.63788 13.2352C9.8471 12.5309 10.3001 11.924 10.9159 11.5232C11.0698 11.4054 11.2177 11.2799 11.3589 11.1472C11.543 11.0045 11.6837 10.8134 11.7653 10.5953C11.8469 10.3772 11.8662 10.1406 11.8209 9.91217C11.7875 9.78353 11.716 9.66803 11.6156 9.58091C11.5153 9.49378 11.3909 9.43913 11.2589 9.42417C10.8964 9.38988 10.5315 9.45924 10.2069 9.62417C8.93994 10.2586 7.7902 11.104 6.80689 12.1242L6.41188 12.4872C6.33947 12.5552 6.25427 12.6081 6.16123 12.6429C6.06818 12.6777 5.96916 12.6937 5.86989 12.6899C5.77062 12.6861 5.67309 12.6627 5.58297 12.6209C5.49284 12.5791 5.41193 12.5198 5.3449 12.4465C5.27787 12.3732 5.22608 12.2873 5.19252 12.1938C5.15897 12.1003 5.14432 12.0011 5.14943 11.9018C5.15455 11.8026 5.17933 11.7054 5.22232 11.6159C5.26532 11.5263 5.32568 11.4462 5.39989 11.3802L5.78989 11.0222C6.89375 9.88477 8.1853 8.94605 9.60788 8.24717C10.1983 7.96381 10.8589 7.85952 11.5079 7.94717C11.9225 8.01106 12.3095 8.19432 12.6217 8.47454C12.9339 8.75476 13.1577 9.11983 13.2659 9.52517C13.3836 10.01 13.3656 10.5179 13.2137 10.9931C13.0618 11.4683 12.782 11.8925 12.4049 12.2192C12.2276 12.388 12.0417 12.5475 11.8479 12.6972C11.4309 13.0302 11.1709 13.2502 11.0959 13.5722C11.0537 13.8143 11.1021 14.0635 11.2319 14.2722C11.5154 14.6729 11.8847 15.0053 12.3129 15.2452L12.4549 15.3452C14.3445 16.6257 15.6487 18.6038 16.0809 20.8452C16.1211 21.04 16.0822 21.2427 15.9729 21.4089C15.8635 21.5751 15.6927 21.691 15.4979 21.7312C15.4481 21.7439 15.3972 21.7513 15.3459 21.7532Z" fill="black"/> <path d="M6.64491 21.7527C6.48071 21.7537 6.32075 21.7007 6.18956 21.6019C6.05837 21.5032 5.96321 21.3641 5.9187 21.2061C5.87419 21.048 5.88279 20.8797 5.94316 20.727C6.00354 20.5743 6.11235 20.4456 6.25292 20.3607C7.30661 19.6502 8.19062 18.716 8.84192 17.6247C8.95117 17.4593 9.12144 17.3439 9.31554 17.3037C9.50963 17.2635 9.71175 17.3017 9.87773 17.4101C10.0437 17.5184 10.16 17.6881 10.2013 17.882C10.2426 18.0759 10.2054 18.2782 10.0979 18.4447C9.32697 19.7238 8.28102 20.8151 7.03592 21.6397C6.91852 21.7128 6.78318 21.7519 6.64491 21.7527Z" fill="black"/> <path d="M16.2519 13.0081C15.964 13.0081 15.6764 12.9897 15.3909 12.9531C15.1959 12.9255 15.0196 12.8223 14.9 12.6657C14.7805 12.5092 14.7273 12.3119 14.752 12.1165C14.7767 11.9211 14.8773 11.7433 15.032 11.6214C15.1867 11.4995 15.3831 11.4434 15.5789 11.4651C16.5034 11.5849 17.4432 11.4515 18.2979 11.0791C18.3883 11.0397 18.4856 11.0185 18.5842 11.0167C18.6828 11.0149 18.7808 11.0326 18.8726 11.0686C18.9644 11.1047 19.0482 11.1585 19.1192 11.227C19.1902 11.2954 19.247 11.3772 19.2864 11.4676C19.3258 11.558 19.347 11.6553 19.3488 11.7539C19.3506 11.8525 19.3329 11.9505 19.2968 12.0423C19.2608 12.1341 19.207 12.2179 19.1385 12.2889C19.0701 12.3599 18.9883 12.4167 18.8979 12.4561C18.0633 12.8203 17.1625 13.0083 16.2519 13.0081Z" fill="black"/> <path d="M15.0994 8.02708C14.3506 8.0277 13.6307 7.73762 13.0915 7.21796C12.5524 6.69831 12.2359 5.98965 12.2089 5.24129C12.1819 4.49293 12.4464 3.76331 12.9468 3.20614C13.4471 2.64898 14.1442 2.30777 14.8911 2.25442C15.6381 2.20107 16.3766 2.43973 16.951 2.92013C17.5255 3.40052 17.891 4.08514 17.9706 4.82974C18.0503 5.57434 17.8378 6.32078 17.3779 6.91179C16.9181 7.50281 16.2468 7.89225 15.5054 7.99808C15.3709 8.01711 15.2353 8.0268 15.0994 8.02708ZM15.0994 3.75407C15.0325 3.75364 14.9656 3.75832 14.8994 3.76807C14.5354 3.81979 14.2069 4.01399 13.986 4.30796C13.7652 4.60192 13.6702 4.97157 13.7219 5.33557C13.7736 5.69958 13.9678 6.02814 14.2618 6.24896C14.5558 6.46979 14.9254 6.56479 15.2894 6.51307C15.6376 6.46506 15.9545 6.28655 16.1761 6.01368C16.3976 5.74082 16.5072 5.39397 16.4827 5.04335C16.4582 4.69273 16.3014 4.36452 16.044 4.12516C15.7866 3.88579 15.4479 3.75315 15.0964 3.75407H15.0994Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Walk 3 icon with style variants.
+class _SportWalk3Icon {
+  const _SportWalk3Icon();
+
+  /// outline style
+  _SportWalk3Outline get outline => const _SportWalk3Outline();
+}
+
+/// Walk 3 — outline style variants.
+class _SportWalk3Outline {
+  const _SportWalk3Outline();
+
+  /// Walk 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Walk 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.4718 7.678C11.9351 7.678 11.4104 7.51885 10.9641 7.22068C10.5178 6.92251 10.1699 6.4987 9.9645 6.00284C9.75906 5.50697 9.70525 4.96133 9.80989 4.43489C9.91453 3.90846 10.1729 3.42487 10.5524 3.04527C10.9318 2.66567 11.4153 2.40711 11.9417 2.30227C12.4681 2.19744 13.0138 2.25104 13.5097 2.45631C14.0057 2.66157 14.4296 3.00927 14.7279 3.45546C15.0263 3.90164 15.1856 4.42627 15.1858 4.963C15.185 5.68265 14.8989 6.37261 14.3901 6.88157C13.8813 7.39053 13.1915 7.67694 12.4718 7.678ZM12.4718 3.749C12.2314 3.7488 11.9964 3.81992 11.7964 3.95335C11.5965 4.08678 11.4406 4.27653 11.3485 4.49858C11.2564 4.72063 11.2323 4.96501 11.2791 5.20079C11.326 5.43657 11.4417 5.65315 11.6117 5.82314C11.7817 5.99312 11.9982 6.10885 12.234 6.1557C12.4698 6.20255 12.7142 6.17841 12.9362 6.08632C13.1583 5.99424 13.348 5.83835 13.4815 5.6384C13.6149 5.43844 13.686 5.20339 13.6858 4.963C13.6853 4.64119 13.5572 4.33271 13.3297 4.10516C13.1021 3.8776 12.7936 3.74953 12.4718 3.749Z" fill="black"/> <path d="M17.2272 14.3893C17.1658 14.389 17.1047 14.3812 17.0452 14.3663C16.1343 14.1121 15.3396 13.5502 14.7962 12.7763C14.5802 12.4963 14.3832 12.2093 14.1892 11.9233C13.7829 11.1771 13.1819 10.5551 12.4502 10.1233C12.006 9.88943 11.5072 9.77889 11.0058 9.80316C10.5044 9.82743 10.0187 9.98562 9.59917 10.2613C9.12284 10.7023 8.73824 11.233 8.46745 11.823C8.19666 12.4129 8.04501 13.0506 8.02117 13.6993C8.0042 13.8975 7.90917 14.0809 7.75698 14.2091C7.6048 14.3373 7.40792 14.3997 7.20967 14.3828C7.01142 14.3658 6.82804 14.2708 6.69986 14.1186C6.57168 13.9664 6.5092 13.7695 6.52617 13.5713C6.57411 12.7119 6.79169 11.8705 7.16636 11.0956C7.54102 10.3207 8.06537 9.62757 8.70917 9.05627C9.3461 8.61361 10.0919 8.35337 10.8659 8.30367C11.64 8.25397 12.4129 8.4167 13.1012 8.77427C14.0755 9.30984 14.8813 10.1063 15.4282 11.0743C15.6062 11.3343 15.7852 11.5983 15.9822 11.8533C16.3237 12.3564 16.8268 12.7279 17.4082 12.9063C17.586 12.9503 17.7416 13.058 17.8456 13.2089C17.9495 13.3598 17.9946 13.5436 17.9723 13.7254C17.95 13.9073 17.8619 14.0748 17.7247 14.1961C17.5874 14.3175 17.4104 14.3844 17.2272 14.3843V14.3893Z" fill="black"/> <path d="M15.5822 21.7503C15.4678 21.7504 15.3548 21.7244 15.2521 21.6741C15.1493 21.6238 15.0593 21.5507 14.9892 21.4604L11.2072 16.5893C10.7388 15.9851 10.4138 15.2824 10.2565 14.5343C10.0992 13.7861 10.1138 13.012 10.2992 12.2703L11.0912 9.03835C11.1385 8.84514 11.2607 8.67865 11.4308 8.5755C11.6009 8.47236 11.805 8.44101 11.9982 8.48835C12.1914 8.53569 12.3579 8.65785 12.461 8.82794C12.5642 8.99804 12.5955 9.20214 12.5482 9.39535L11.7552 12.6333C11.6242 13.1543 11.6134 13.6982 11.7234 14.2239C11.8334 14.7497 12.0614 15.2436 12.3902 15.6684L16.1742 20.5403C16.2598 20.6513 16.3127 20.784 16.3269 20.9234C16.3411 21.0629 16.316 21.2035 16.2544 21.3294C16.1928 21.4553 16.0972 21.5615 15.9784 21.6358C15.8596 21.7102 15.7223 21.7499 15.5822 21.7503Z" fill="black"/> <path d="M7.75 21.7505C7.61072 21.7505 7.47418 21.7117 7.3557 21.6384C7.23722 21.5652 7.14147 21.4604 7.07918 21.3359C7.01689 21.2113 6.99052 21.0718 7.00303 20.9331C7.01554 20.7944 7.06643 20.6619 7.15 20.5505L9.161 17.8645C9.28035 17.7053 9.45802 17.6001 9.65493 17.572C9.85185 17.5439 10.0519 17.5951 10.211 17.7145C10.3701 17.8338 10.4753 18.0115 10.5035 18.2084C10.5316 18.4053 10.4803 18.6053 10.361 18.7645L8.35 21.4495C8.28041 21.543 8.1899 21.6189 8.08571 21.6711C7.98153 21.7234 7.86656 21.7506 7.75 21.7505Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Walk 4 icon with style variants.
+class _SportWalk4Icon {
+  const _SportWalk4Icon();
+
+  /// twoTone style
+  _SportWalk4Twotone get twoTone => const _SportWalk4Twotone();
+}
+
+/// Walk 4 — twoTone style variants.
+class _SportWalk4Twotone {
+  const _SportWalk4Twotone();
+
+  /// Walk 4 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Walk 4',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.1543 11.933C7.40263 10.7917 8.57604 9.61824 10.1542 8.93521C10.6242 8.73283 11.1359 8.6044 11.6263 8.69002C12.2023 8.78635 12.6402 9.1697 12.789 9.7243C12.9914 10.4822 12.6606 11.1643 12.1274 11.6878C11.5728 12.2317 10.8051 12.5829 10.6135 13.4051C10.5171 13.8312 10.6135 14.2905 10.8372 14.6631C11.1681 15.2391 11.7334 15.5914 12.2772 15.965C14.0481 17.1705 15.168 18.9296 15.5941 20.9992" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.71713 18.0332C8.97085 19.1745 8.04263 20.2944 6.89062 20.9988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.7363 12.2054C16.8134 12.3416 17.8506 12.1947 18.8469 11.7637" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M15.6493 7.2519C16.813 7.08747 17.6303 6.00552 17.4649 4.83697C17.2985 3.66745 16.2127 2.85599 15.049 3.0214C13.8863 3.18583 13.068 4.26778 13.2344 5.43633C13.3998 6.60487 14.4856 7.41634 15.6493 7.2519Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Walk 5 icon with style variants.
+class _SportWalk5Icon {
+  const _SportWalk5Icon();
+
+  /// twoTone style
+  _SportWalk5Twotone get twoTone => const _SportWalk5Twotone();
+}
+
+/// Walk 5 — twoTone style variants.
+class _SportWalk5Twotone {
+  const _SportWalk5Twotone();
+
+  /// Walk 5 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Walk 5',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.7251 6.92974C13.8109 6.92974 14.6895 6.05019 14.6895 4.96438C14.6895 3.87954 13.8109 3 12.7251 3C11.6393 3 10.7607 3.87954 10.7607 4.96438C10.7607 6.05019 11.6393 6.92974 12.7251 6.92974Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.52344 13.6403C7.64408 12.2305 8.22104 10.5366 9.40415 9.6629C10.4559 8.88746 11.8774 8.89914 13.0255 9.45275C14.2932 10.0638 14.8196 11.2585 15.6388 12.3181C16.1155 12.934 16.7061 13.4477 17.4767 13.6403" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.071 9.2168L11.2771 12.4557C10.9512 13.7381 11.245 15.0973 12.0496 16.1296L15.8324 21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.0072 18.3145L7.99609 20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Walk 6 icon with style variants.
+class _SportWalk6Icon {
+  const _SportWalk6Icon();
+
+  /// broken style
+  _SportWalk6Broken get broken => const _SportWalk6Broken();
+}
+
+/// Walk 6 — broken style variants.
+class _SportWalk6Broken {
+  const _SportWalk6Broken();
+
+  /// Walk 6 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Walk 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.6543 11.9339C6.90263 10.7926 8.07604 9.61922 9.65421 8.93619C10.1242 8.73381 10.6359 8.60538 11.1263 8.691C11.7023 8.78732 12.1402 9.17067 12.289 9.72527C12.4914 10.4832 12.1606 11.1653 11.6274 11.6887C11.0728 12.2326 10.3051 12.5839 10.1135 13.406C10.0171 13.8322 10.1135 14.2915 10.3372 14.6641C10.6681 15.2401 11.2334 15.5923 11.7772 15.966C13.5481 17.1715 14.668 18.9306 15.0941 21.0001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.21713 18.0332C8.47085 19.1745 7.54263 20.2944 6.39062 20.9988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.2363 12.2054C16.3134 12.3416 17.3506 12.1947 18.3469 11.7637" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.549 3.0214C15.7127 2.85599 16.7985 3.66745 16.9649 4.83697C17.1303 6.00552 16.313 7.08747 15.1493 7.2519C13.9856 7.41634 12.8998 6.60487 12.7344 5.43633" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Walk 7 icon with style variants.
+class _SportWalk7Icon {
+  const _SportWalk7Icon();
+
+  /// broken style
+  _SportWalk7Broken get broken => const _SportWalk7Broken();
+}
+
+/// Walk 7 — broken style variants.
+class _SportWalk7Broken {
+  const _SportWalk7Broken();
+
+  /// Walk 7 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Walk 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.6543 11.9339C6.90263 10.7926 8.07604 9.61922 9.65421 8.93619C10.1242 8.73381 10.6359 8.60538 11.1263 8.691C11.7023 8.78732 12.1402 9.17067 12.289 9.72527C12.4914 10.4832 12.1606 11.1653 11.6274 11.6887C11.0728 12.2326 10.3051 12.5839 10.1135 13.406C10.0171 13.8322 10.1135 14.2915 10.3372 14.6641C10.6681 15.2401 11.2334 15.5923 11.7772 15.966C13.5481 17.1715 14.668 18.9306 15.0941 21.0001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.21713 18.0332C8.47085 19.1745 7.54263 20.2944 6.39062 20.9988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.2363 12.2054C16.3134 12.3416 17.3506 12.1947 18.3469 11.7637" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.549 3.0214C15.7127 2.85599 16.7985 3.66745 16.9649 4.83697C17.1303 6.00552 16.313 7.08747 15.1493 7.2519C13.9856 7.41634 12.8998 6.60487 12.7344 5.43633" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Walk 8 icon with style variants.
+class _SportWalk8Icon {
+  const _SportWalk8Icon();
+
+  /// bold style
+  _SportWalk8Bold get bold => const _SportWalk8Bold();
+}
+
+/// Walk 8 — bold style variants.
+class _SportWalk8Bold {
+  const _SportWalk8Bold();
+
+  /// Walk 8 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Walk 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3425 14.8913L12.1975 14.7923C11.7655 14.4973 11.3915 14.2423 11.1935 13.8983C11.0925 13.7313 11.0525 13.5313 11.0855 13.3833C11.1425 13.1413 11.3635 12.9563 11.7495 12.6483C11.9475 12.4903 12.1465 12.3293 12.3265 12.1523C13.2005 11.2943 13.5305 10.2513 13.2545 9.21433C13.0055 8.28833 12.2525 7.61433 11.2995 7.45533C10.6725 7.34533 10.0045 7.44633 9.25549 7.76733C7.69149 8.44533 6.51249 9.53133 5.37349 10.5813L4.97849 10.9453C4.57149 11.3173 4.54249 11.9503 4.91449 12.3573C5.28649 12.7653 5.92049 12.7943 6.32749 12.4213L6.72949 12.0523C7.79349 11.0713 8.79749 10.1453 10.0475 9.60433C10.4185 9.44533 10.7225 9.38733 10.9615 9.42733C11.1555 9.45933 11.2765 9.56233 11.3215 9.73233C11.4065 10.0493 11.2735 10.3833 10.9255 10.7253C10.7945 10.8543 10.6475 10.9693 10.5025 11.0843C9.99149 11.4923 9.35549 11.9983 9.13649 12.9363C8.98849 13.5943 9.11349 14.3203 9.46849 14.9113C9.88549 15.6373 10.5155 16.0663 11.0715 16.4453L11.2135 16.5423C12.7295 17.5743 13.7325 19.0983 14.1135 20.9513C14.2105 21.4233 14.6275 21.7493 15.0925 21.7493C15.1585 21.7493 15.2265 21.7433 15.2945 21.7283C15.8355 21.6173 16.1835 21.0883 16.0725 20.5473C15.5845 18.1753 14.2935 16.2193 12.3425 14.8913Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.76281 16.946C9.29981 16.645 8.67981 16.775 8.37881 17.237C7.55681 18.496 6.73581 19.366 5.86781 19.896C5.39681 20.184 5.24881 20.8 5.53681 21.271C5.72581 21.579 6.05481 21.749 6.39081 21.749C6.56881 21.749 6.74881 21.702 6.91181 21.602C8.03781 20.914 9.06581 19.843 10.0538 18.33C10.3548 17.867 10.2248 17.248 9.76281 16.946Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.2638 11.1168C19.0448 10.6098 18.4548 10.3768 17.9488 10.5968C17.1138 10.9588 16.2668 11.0788 15.3618 10.9628C14.8158 10.8968 14.3128 11.2808 14.2428 11.8288C14.1738 12.3768 14.5608 12.8778 15.1088 12.9478C15.4098 12.9858 15.7088 13.0048 16.0058 13.0048C16.9458 13.0048 17.8638 12.8128 18.7438 12.4318C19.2508 12.2128 19.4838 11.6238 19.2638 11.1168Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8487 7.52361C14.9707 7.52361 15.0937 7.51561 15.2177 7.49761C16.6557 7.29361 17.6617 5.95661 17.4587 4.51761C17.2557 3.07861 15.9187 2.07461 14.4777 2.27561C13.7827 2.37461 13.1667 2.73861 12.7427 3.30161C12.3187 3.86561 12.1387 4.55961 12.2377 5.25661C12.4247 6.57061 13.5567 7.52361 14.8487 7.52361Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Walk 9 icon with style variants.
+class _SportWalk9Icon {
+  const _SportWalk9Icon();
+
+  /// bold style
+  _SportWalk9Bold get bold => const _SportWalk9Bold();
+}
+
+/// Walk 9 — bold style variants.
+class _SportWalk9Bold {
+  const _SportWalk9Bold();
+
+  /// Walk 9 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Walk 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3425 14.8913L12.1975 14.7923C11.7655 14.4973 11.3915 14.2423 11.1935 13.8983C11.0925 13.7313 11.0525 13.5313 11.0855 13.3833C11.1425 13.1413 11.3635 12.9563 11.7495 12.6483C11.9475 12.4903 12.1465 12.3293 12.3265 12.1523C13.2005 11.2943 13.5305 10.2513 13.2545 9.21433C13.0055 8.28833 12.2525 7.61433 11.2995 7.45533C10.6725 7.34533 10.0045 7.44633 9.25549 7.76733C7.69149 8.44533 6.51249 9.53133 5.37349 10.5813L4.97849 10.9453C4.57149 11.3173 4.54249 11.9503 4.91449 12.3573C5.28649 12.7653 5.92049 12.7943 6.32749 12.4213L6.72949 12.0523C7.79349 11.0713 8.79749 10.1453 10.0475 9.60433C10.4185 9.44533 10.7225 9.38733 10.9615 9.42733C11.1555 9.45933 11.2765 9.56233 11.3215 9.73233C11.4065 10.0493 11.2735 10.3833 10.9255 10.7253C10.7945 10.8543 10.6475 10.9693 10.5025 11.0843C9.99149 11.4923 9.35549 11.9983 9.13649 12.9363C8.98849 13.5943 9.11349 14.3203 9.46849 14.9113C9.88549 15.6373 10.5155 16.0663 11.0715 16.4453L11.2135 16.5423C12.7295 17.5743 13.7325 19.0983 14.1135 20.9513C14.2105 21.4233 14.6275 21.7493 15.0925 21.7493C15.1585 21.7493 15.2265 21.7433 15.2945 21.7283C15.8355 21.6173 16.1835 21.0883 16.0725 20.5473C15.5845 18.1753 14.2935 16.2193 12.3425 14.8913Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.76281 16.946C9.29981 16.645 8.67981 16.775 8.37881 17.237C7.55681 18.496 6.73581 19.366 5.86781 19.896C5.39681 20.184 5.24881 20.8 5.53681 21.271C5.72581 21.579 6.05481 21.749 6.39081 21.749C6.56881 21.749 6.74881 21.702 6.91181 21.602C8.03781 20.914 9.06581 19.843 10.0538 18.33C10.3548 17.867 10.2248 17.248 9.76281 16.946Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.2638 11.1168C19.0448 10.6098 18.4548 10.3768 17.9488 10.5968C17.1138 10.9588 16.2668 11.0788 15.3618 10.9628C14.8158 10.8968 14.3128 11.2808 14.2428 11.8288C14.1738 12.3768 14.5608 12.8778 15.1088 12.9478C15.4098 12.9858 15.7088 13.0048 16.0058 13.0048C16.9458 13.0048 17.8638 12.8128 18.7438 12.4318C19.2508 12.2128 19.4838 11.6238 19.2638 11.1168Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8487 7.52361C14.9707 7.52361 15.0937 7.51561 15.2177 7.49761C16.6557 7.29361 17.6617 5.95661 17.4587 4.51761C17.2557 3.07861 15.9187 2.07461 14.4777 2.27561C13.7827 2.37461 13.1667 2.73861 12.7427 3.30161C12.3187 3.86561 12.1387 4.55961 12.2377 5.25661C12.4247 6.57061 13.5567 7.52361 14.8487 7.52361Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Walk 10 icon with style variants.
+class _SportWalk10Icon {
+  const _SportWalk10Icon();
+
+  /// bulk style
+  _SportWalk10Bulk get bulk => const _SportWalk10Bulk();
+}
+
+/// Walk 10 — bulk style variants.
+class _SportWalk10Bulk {
+  const _SportWalk10Bulk();
+
+  /// Walk 10 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Walk 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2186 12.4196C16.7666 12.3066 16.3446 11.9916 15.9296 11.4566C15.7356 11.2046 15.5586 10.9446 15.3836 10.6876C14.8046 9.83763 14.1476 8.87563 12.9596 8.30163C11.3796 7.54163 9.59864 7.65763 8.30964 8.60863C6.44764 9.98463 6.09164 12.5506 6.02664 13.3046C5.97964 13.8546 6.38664 14.3386 6.93764 14.3856C7.47564 14.4426 7.97164 14.0256 8.01864 13.4756C8.11064 12.4086 8.55264 10.9156 9.49664 10.2176C9.73364 10.0436 10.0186 9.94563 10.3166 9.88163L9.80764 11.9596C9.41064 13.5236 9.76664 15.2186 10.7606 16.4936L14.5416 21.3636C14.7396 21.6176 15.0346 21.7506 15.3326 21.7506C15.5466 21.7506 15.7626 21.6816 15.9456 21.5406C16.3816 21.2016 16.4606 20.5726 16.1216 20.1366L12.3386 15.2656C11.7216 14.4726 11.4996 13.4206 11.7476 12.4436L12.2906 10.2306C12.8766 10.5886 13.2816 11.1556 13.7316 11.8146C13.9286 12.1046 14.1286 12.3966 14.3486 12.6806C15.0496 13.5856 15.8306 14.1346 16.7356 14.3596C16.8166 14.3806 16.8976 14.3896 16.9776 14.3896C17.4266 14.3896 17.8346 14.0866 17.9476 13.6316C18.0806 13.0956 17.7546 12.5526 17.2186 12.4196Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2239 7.18C13.5829 7.18 14.6889 6.074 14.6889 4.714C14.6889 3.356 13.5829 2.25 12.2239 2.25C10.8649 2.25 9.75989 3.356 9.75989 4.714C9.75989 6.074 10.8649 7.18 12.2239 7.18Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.70589 17.4651L6.69489 20.1511C6.36489 20.5931 6.45489 21.2201 6.89689 21.5501C7.07689 21.6851 7.28689 21.7501 7.49489 21.7501C7.79989 21.7501 8.09989 21.6121 8.29689 21.3491L10.3079 18.6631C10.6379 18.2211 10.5479 17.5941 10.1059 17.2631C9.66389 16.9331 9.03789 17.0231 8.70589 17.4651Z" fill="black"/> </g> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Walk 11 icon with style variants.
+class _SportWalk11Icon {
+  const _SportWalk11Icon();
+
+  /// bulk style
+  _SportWalk11Bulk get bulk => const _SportWalk11Bulk();
+}
+
+/// Walk 11 — bulk style variants.
+class _SportWalk11Bulk {
+  const _SportWalk11Bulk();
+
+  /// Walk 11 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Walk 11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2186 12.4196C16.7666 12.3066 16.3446 11.9916 15.9296 11.4566C15.7356 11.2046 15.5586 10.9446 15.3836 10.6876C14.8046 9.83763 14.1476 8.87563 12.9596 8.30163C11.3796 7.54163 9.59864 7.65763 8.30964 8.60863C6.44764 9.98463 6.09164 12.5506 6.02664 13.3046C5.97964 13.8546 6.38664 14.3386 6.93764 14.3856C7.47564 14.4426 7.97164 14.0256 8.01864 13.4756C8.11064 12.4086 8.55264 10.9156 9.49664 10.2176C9.73364 10.0436 10.0186 9.94563 10.3166 9.88163L9.80764 11.9596C9.41064 13.5236 9.76664 15.2186 10.7606 16.4936L14.5416 21.3636C14.7396 21.6176 15.0346 21.7506 15.3326 21.7506C15.5466 21.7506 15.7626 21.6816 15.9456 21.5406C16.3816 21.2016 16.4606 20.5726 16.1216 20.1366L12.3386 15.2656C11.7216 14.4726 11.4996 13.4206 11.7476 12.4436L12.2906 10.2306C12.8766 10.5886 13.2816 11.1556 13.7316 11.8146C13.9286 12.1046 14.1286 12.3966 14.3486 12.6806C15.0496 13.5856 15.8306 14.1346 16.7356 14.3596C16.8166 14.3806 16.8976 14.3896 16.9776 14.3896C17.4266 14.3896 17.8346 14.0866 17.9476 13.6316C18.0806 13.0956 17.7546 12.5526 17.2186 12.4196Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2239 7.18C13.5829 7.18 14.6889 6.074 14.6889 4.714C14.6889 3.356 13.5829 2.25 12.2239 2.25C10.8649 2.25 9.75989 3.356 9.75989 4.714C9.75989 6.074 10.8649 7.18 12.2239 7.18Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.70589 17.4651L6.69489 20.1511C6.36489 20.5931 6.45489 21.2201 6.89689 21.5501C7.07689 21.6851 7.28689 21.7501 7.49489 21.7501C7.79989 21.7501 8.09989 21.6121 8.29689 21.3491L10.3079 18.6631C10.6379 18.2211 10.5479 17.5941 10.1059 17.2631C9.66389 16.9331 9.03789 17.0231 8.70589 17.4651Z" fill="black"/> </g> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
     type: IconfyType.regular,
   );
 
@@ -2077,7 +3599,7 @@ class _SportBallFootballBulk {
   /// ball Football — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'ball Football',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 12C21.5 12.51 21.46 13.01 21.38 13.5C21.2 14.63 20.82 15.7 20.28 16.67C19.96 17.23 19.59 17.75 19.16 18.23C18.2 19.35 16.98 20.23 15.59 20.8H15.58C15.04 21.02 14.47 21.2 13.88 21.32C13.27 21.44 12.64 21.5 12 21.5C11.4 21.5 10.82 21.44 10.25 21.34C9.67 21.23 9.1 21.07 8.56 20.86C7.11 20.29 5.84 19.38 4.83 18.23C4.41 17.76 4.05 17.24 3.73 16.69C3.18 15.72 2.8 14.65 2.62 13.51C2.54 13.02 2.5 12.51 2.5 12C2.5 11.87 2.5 11.74 2.51 11.61C2.57 10.07 3 8.62 3.71 7.35C4 6.84 4.34 6.35 4.72 5.9C5.66 4.78 6.87 3.87 8.23 3.27C8.81 3.02 9.42 2.83 10.06 2.7H10.07C10.69 2.57 11.33 2.5 12 2.5C12.67 2.5 13.31 2.57 13.93 2.7H13.94C14.58 2.83 15.19 3.02 15.77 3.27C17.14 3.87 18.35 4.79 19.29 5.92C19.68 6.37 20.02 6.86 20.31 7.38C21 8.64 21.43 10.07 21.49 11.59C21.5 11.73 21.5 11.86 21.5 12Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.06 10.4201L2.72 13.4401C2.69 13.4701 2.66 13.4901 2.62 13.5101C2.54 13.0201 2.5 12.5101 2.5 12.0001C2.5 11.8701 2.5 11.7401 2.51 11.6101L4.66 9.66009L3.71 7.35009C4 6.84009 4.34 6.35009 4.72 5.90009C4.73 5.91009 4.73 5.93009 4.74 5.94009L6.25 9.58009C6.37 9.87009 6.29 10.2101 6.06 10.4201Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.77 3.2702C15.75 3.2902 15.72 3.3102 15.69 3.3302L12.42 5.5202C12.29 5.6002 12.14 5.6402 12 5.6402C11.85 5.6402 11.71 5.6002 11.58 5.5202L8.30998 3.3302C8.27998 3.3102 8.24998 3.2902 8.22998 3.2702C8.80998 3.0202 9.41998 2.8302 10.06 2.7002H10.07L12 3.9902L13.93 2.7002H13.94C14.58 2.8302 15.19 3.0202 15.77 3.2702Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.25 21.3403C9.66998 21.2303 9.09998 21.0703 8.55998 20.8603L7.83998 18.4003L4.82998 18.2303C4.40998 17.7603 4.04998 17.2403 3.72998 16.6903C3.79998 16.6703 3.86998 16.6603 3.94998 16.6703L8.44998 16.9303C8.76998 16.9503 9.03998 17.1603 9.12998 17.4703L10.24 21.2503C10.25 21.2803 10.26 21.3103 10.25 21.3403Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.28 16.6701C19.96 17.2301 19.59 17.7501 19.16 18.2301L16.29 18.4001L15.59 20.8001H15.58C15.04 21.0201 14.47 21.2001 13.88 21.3201C13.88 21.3001 13.88 21.2701 13.89 21.2501L15 17.4701C15.09 17.1601 15.36 16.9501 15.67 16.9301L20.17 16.6701H20.28Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4999 12.0002C21.4999 12.5102 21.4599 13.0102 21.3799 13.5002C21.3599 13.4802 21.3299 13.4602 21.3099 13.4402L17.9699 10.4202C17.7299 10.2102 17.6499 9.87023 17.7799 9.58023L19.2799 5.94023C19.2799 5.93023 19.2899 5.93023 19.2899 5.92023C19.6799 6.37023 20.0199 6.86023 20.3099 7.38023L19.3599 9.66023L21.4899 11.5902C21.4999 11.7302 21.4999 11.8602 21.4999 12.0002Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6001 14.5202H10.4001L9.58006 11.2302L12.0001 9.62021L14.4201 11.2302L13.6001 14.5202ZM15.6901 10.2802L12.4201 8.09021C12.1601 7.92021 11.8301 7.92021 11.5801 8.09021L8.31006 10.2802C8.04006 10.4502 7.92006 10.7802 7.99006 11.0802L9.09006 15.4502C9.17006 15.7902 9.47006 16.0202 9.81006 16.0202H14.1801C14.5301 16.0202 14.8301 15.7902 14.9101 15.4502L16.0001 11.0802C16.0801 10.7802 15.9601 10.4502 15.6901 10.2802Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 12C21.5 12.51 21.46 13.01 21.38 13.5C21.2 14.63 20.82 15.7 20.28 16.67C19.96 17.23 19.59 17.75 19.17 18.23H19.16C18.2 19.35 16.97 20.23 15.58 20.8V20.81C15.04 21.02 14.47 21.2 13.88 21.32C13.27 21.44 12.64 21.5 12 21.5C11.4 21.5 10.81 21.44 10.24 21.34C9.66 21.23 9.1 21.07 8.56 20.86C7.11 20.29 5.84 19.38 4.83 18.23C4.41 17.76 4.05 17.24 3.73 16.69C3.18 15.72 2.8 14.65 2.62 13.51C2.54 13.02 2.5 12.51 2.5 12C2.5 11.87 2.5 11.74 2.51 11.61C2.57 10.07 3 8.63 3.7 7.36C4 6.84 4.33 6.35 4.72 5.9C5.66 4.78 6.87 3.87 8.23 3.27C8.81 3.02 9.42 2.83 10.06 2.7C10.68 2.57 11.33 2.5 12 2.5C12.67 2.5 13.32 2.57 13.94 2.7C14.58 2.83 15.19 3.02 15.77 3.27C17.14 3.87 18.35 4.79 19.29 5.92C19.68 6.37 20.02 6.86 20.31 7.38C21 8.64 21.43 10.07 21.49 11.59C21.5 11.73 21.5 11.86 21.5 12Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6 14.5202H10.4L9.58 11.2302L12 9.6202L14.42 11.2302L13.6 14.5202ZM21.49 11.5902L19.37 9.6602L20.31 7.3802C20.02 6.8602 19.68 6.3702 19.29 5.9202C19.29 5.9302 19.28 5.9302 19.28 5.9402L17.91 9.2602L15.39 10.0802L12.75 8.3102V5.2902L15.69 3.3302C15.72 3.3102 15.75 3.2902 15.77 3.2702C15.19 3.0202 14.58 2.8302 13.94 2.7002L12 3.9902L10.06 2.7002C9.42 2.8302 8.81 3.0202 8.23 3.2702C8.25 3.2902 8.27 3.3102 8.3 3.3302L11.25 5.2902V8.3202L8.6 10.0802L6.14 9.3202L4.74 5.9402C4.73 5.9302 4.73 5.9102 4.72 5.9002C4.33 6.3502 4 6.8402 3.7 7.3602L4.66 9.6602L2.51 11.6102C2.5 11.7402 2.5 11.8702 2.5 12.0002C2.5 12.5102 2.54 13.0202 2.62 13.5102C2.65 13.4902 2.68 13.4702 2.71 13.4402L5.69 10.7502L8.1 11.4902L9.01 15.1602L7.98 16.9002L3.95 16.6702C3.87 16.6702 3.8 16.6702 3.73 16.6902C4.05 17.2402 4.41 17.7602 4.83 18.2302L7.84 18.4002L8.56 20.8602C9.1 21.0702 9.66 21.2302 10.24 21.3402C10.24 21.3102 10.24 21.2802 10.23 21.2502L9.21 17.7702L10.24 16.0202H13.77L14.9 17.7902L13.89 21.2502C13.88 21.2702 13.88 21.3002 13.88 21.3202C14.47 21.2002 15.04 21.0202 15.58 20.8102V20.8002L16.29 18.4002L19.16 18.2302H19.17C19.59 17.7502 19.96 17.2302 20.28 16.6702H20.17L16.12 16.9102L14.99 15.1502L15.9 11.4902L18.29 10.7102L21.31 13.4402C21.33 13.4602 21.36 13.4802 21.38 13.5002C21.46 13.0102 21.5 12.5102 21.5 12.0002C21.5 11.8602 21.5 11.7302 21.49 11.5902Z" fill="black"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -2092,7 +3614,7 @@ class _SportBallFootballBroken {
   /// ball Football — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'ball Football',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.08076 3.89589C9.26551 3.32187 10.5952 3 12 3C16.9706 3 21 7.02944 21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 9.51545 4.00677 7.26604 5.6346 5.63748" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.723 6.7207L6.10105 10.0525L3.04297 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9 3.5L12 5.5L15 3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.72687 20.6623L8.71195 17.2025L4.5957 16.9648" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3867 20.6623L15.4016 17.2025L19.5179 16.9648" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.2999 6.7207L17.9219 10.0525L20.98 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14 15L15 11L12 9L9 11L10 15H11.5772" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12C21 16.9706 16.9706 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10 15L9 11L12 9L15 11L14.5296 12.8313" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0001 15H12.3218" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.99901 15L8.70508 17.203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.998 15.0098L15.4124 17.203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.998 6.95454V5.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.99969 10.9997L8.2771 10.7773" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15 11L17.922 10.0527" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.723 6.7207L6.10105 10.0525L3.04297 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9 3.5L12 5.5L15 3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.2999 6.7207L17.9219 10.0525L20.98 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4016 17.2031L14.3867 20.6629" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.5178 16.9648L17.4597 17.0837" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.29102 19.2148L9.72693 20.6626" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.5957 16.9648L8.71195 17.2025" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -2107,7 +3629,7 @@ class _SportBallFootballBold {
   /// ball Football — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'ball Football',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.5874 7.94616C20.4802 7.71922 20.1623 7.73588 20.0664 7.96783L19.4464 9.4676C19.398 9.58477 19.4284 9.71974 19.5225 9.80476L20.947 11.0924C21.1446 11.2711 21.4529 11.1229 21.4214 10.8584C21.299 9.82834 21.0135 8.84827 20.5874 7.94616Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.50331 9.8046C4.5973 9.71957 4.62772 9.58465 4.5793 9.46752L3.94928 7.94336C3.85357 7.71182 3.53637 7.69465 3.42855 7.92081C2.99162 8.83726 2.7003 9.83426 2.57831 10.8833C2.54757 11.1476 2.85564 11.2951 3.05297 11.1166L4.50331 9.8046Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.89665 18.599C7.86097 18.4774 7.7527 18.3913 7.62618 18.384L5.5515 18.2635C5.28635 18.2481 5.1386 18.5551 5.32732 18.742C6.09847 19.5057 6.99861 20.1371 7.9934 20.6023C8.21921 20.7079 8.45322 20.4958 8.38303 20.2566L7.89665 18.599Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8338 3.87806C11.9346 3.94524 12.0659 3.94524 12.1667 3.87806L13.3391 3.09643C13.5606 2.94879 13.4929 2.61405 13.229 2.57962C12.8271 2.5272 12.4175 2.5 12.0012 2.5C11.5847 2.5 11.1745 2.52723 10.7719 2.57972C10.5079 2.61412 10.4402 2.94894 10.6617 3.0966L11.8338 3.87806Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.81531 16.0197C9.47131 16.0197 9.17131 15.7857 9.08731 15.4517L7.99531 11.0817C7.91831 10.7737 8.04331 10.4507 8.30631 10.2747L11.5843 8.08974C11.8363 7.92174 12.1643 7.92174 12.4163 8.08974L15.6943 10.2747C15.9583 10.4507 16.0833 10.7737 16.0053 11.0817L14.9133 15.4517C14.8293 15.7857 14.5293 16.0197 14.1853 16.0197H9.81531ZM13.8883 21.2457L14.9973 17.4667C15.0863 17.1627 15.3573 16.9477 15.6733 16.9297L20.1703 16.6687C20.2247 16.6652 20.2755 16.6507 20.3019 16.6031C20.8195 15.672 21.1815 14.6458 21.3621 13.5573C21.3698 13.5108 21.3435 13.4742 21.3093 13.4417L17.9673 10.4207C17.7323 10.2077 17.6563 9.87074 17.7773 9.57774L19.2833 5.93774C19.2871 5.9265 19.2894 5.91586 19.2818 5.90678C18.3482 4.79344 17.1662 3.89775 15.8208 3.30491C15.7771 3.28565 15.7343 3.30264 15.6943 3.32874L12.4163 5.51474C12.2903 5.59874 12.1453 5.64074 12.0003 5.64074C11.8553 5.64074 11.7103 5.59874 11.5843 5.51474L8.30631 3.32874C8.26721 3.30208 8.22476 3.28555 8.18146 3.30465C6.84731 3.89302 5.67507 4.77901 4.74615 5.87842C4.73147 5.89579 4.73356 5.91675 4.74231 5.93774L6.24831 9.57774C6.36931 9.87074 6.29331 10.2077 6.05831 10.4207L2.71731 13.4417C2.67164 13.4839 2.6365 13.5343 2.64694 13.5955C2.82421 14.6359 3.16727 15.6197 3.65427 16.5169C3.71212 16.6235 3.83347 16.6585 3.95431 16.6687L8.45131 16.9297C8.76831 16.9477 9.03831 17.1627 9.12831 17.4667L10.2363 21.2457C10.2519 21.2942 10.2774 21.336 10.3276 21.345C10.8713 21.4427 11.4295 21.4997 12.0013 21.4997C12.6227 21.4997 13.2302 21.4383 13.8192 21.3235C13.8579 21.3159 13.8779 21.2838 13.8883 21.2457Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1667 9.72652C12.066 9.65932 11.9347 9.65932 11.8339 9.72652L9.75418 11.1133C9.64871 11.1836 9.59883 11.3126 9.62956 11.4356L10.3435 14.2923C10.3769 14.4258 10.4969 14.5195 10.6346 14.5195H13.3661C13.5037 14.5195 13.6237 14.4258 13.6571 14.2923L14.3711 11.4356C14.4018 11.3126 14.3519 11.1836 14.2464 11.1133L12.1667 9.72652Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4989 18.384C16.3724 18.3913 16.2641 18.4774 16.2284 18.599L15.7604 20.1942C15.6896 20.4354 15.9277 20.6477 16.1536 20.5373C17.0877 20.0807 17.9351 19.4744 18.6673 18.7504C18.8563 18.5635 18.7086 18.2561 18.4433 18.2715L16.4989 18.384Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8337 3.87707C11.9345 3.94424 12.0658 3.94422 12.1666 3.87701L13.3373 3.09611C13.5589 2.94834 13.4909 2.61341 13.2268 2.57917C12.8255 2.52713 12.4163 2.5 12.0012 2.5C11.5848 2.5 11.1748 2.52721 10.7726 2.57965C10.5086 2.61405 10.441 2.9488 10.6625 3.09642L11.8337 3.87707Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.3098 13.4421L18.4185 10.8275C18.3388 10.7555 18.2268 10.7315 18.1247 10.7646L16.0639 11.4328C15.9655 11.4647 15.8905 11.5451 15.8654 11.6454L15.0213 15.021C15.0012 15.1015 15.0153 15.1867 15.0602 15.2564L16.028 16.7571C16.0866 16.848 16.1895 16.9003 16.2974 16.894L20.1718 16.6701C20.2251 16.6667 20.2744 16.6521 20.3004 16.6054C20.8196 15.6733 21.1811 14.6451 21.3618 13.5553C21.3693 13.5099 21.3441 13.4728 21.3098 13.4421Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.75376 11.1129C9.6483 11.1832 9.59841 11.3123 9.62914 11.4352L10.3431 14.2929C10.3765 14.4265 10.4965 14.5202 10.6342 14.5202H13.3657C13.5033 14.5202 13.6233 14.4265 13.6567 14.293L14.3716 11.4353C14.4024 11.3123 14.3525 11.1832 14.2469 11.1129L12.1663 9.7261C12.0655 9.65893 11.9343 9.65894 11.8335 9.72613L9.75376 11.1129Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6946 3.32793L12.8812 5.20386C12.7977 5.25951 12.7476 5.35317 12.7476 5.45347V8.15035C12.7476 8.25067 12.7977 8.34435 12.8812 8.39998L15.2718 9.99342C15.3481 10.0443 15.4434 10.0574 15.5307 10.0292L17.7788 9.30063C17.8624 9.27353 17.9299 9.21114 17.9635 9.12993L19.2846 5.93693C19.2881 5.92649 19.29 5.91646 19.283 5.90803C18.3489 4.79382 17.1661 3.89752 15.8188 3.3045C15.7757 3.28551 15.7335 3.30138 15.6946 3.32793Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.4473 9.46748C19.3988 9.58464 19.4292 9.7196 19.5233 9.80464L20.9467 11.092C21.1443 11.2707 21.4527 11.1226 21.4212 10.858C21.2989 9.82863 21.014 8.84885 20.5881 7.94693C20.481 7.71999 20.1631 7.73662 20.0672 7.96853L19.4473 9.46748Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.95034 15.2596C8.99019 15.1918 9.00182 15.111 8.98274 15.0348L8.13756 11.6559C8.11208 11.554 8.03521 11.4729 7.93486 11.442L5.85454 10.801C5.75346 10.7699 5.64344 10.7943 5.56499 10.8652L2.71552 13.4418C2.67072 13.4831 2.63652 13.5323 2.64673 13.5924C2.82416 14.6376 3.16892 15.6245 3.65823 16.5235C3.71518 16.6282 3.83349 16.6647 3.95252 16.6698L7.80148 16.8922C7.91384 16.8987 8.02039 16.8418 8.07742 16.7447L8.95034 15.2596Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.889 21.2473L14.8663 17.915C14.8909 17.8314 14.8778 17.7412 14.8306 17.668L13.8566 16.1577C13.8013 16.0721 13.7064 16.0203 13.6045 16.0203H10.4147C10.3083 16.0203 10.2099 16.0766 10.156 16.1684L9.28169 17.6565C9.23975 17.7278 9.22918 17.8134 9.25247 17.8928L10.236 21.2473C10.2498 21.2957 10.2756 21.3365 10.3251 21.3454C10.8701 21.4431 11.4287 21.4993 12.001 21.4993C12.6237 21.4993 13.2315 21.4387 13.8208 21.3239C13.859 21.3164 13.8783 21.2847 13.889 21.2473Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4994 18.3845C16.3728 18.3918 16.2645 18.4779 16.2288 18.5995L15.761 20.1942C15.6902 20.4355 15.9284 20.6478 16.1543 20.5372C17.088 20.0802 17.9345 19.4742 18.6658 18.7509C18.8548 18.564 18.7071 18.2566 18.4418 18.272L16.4994 18.3845Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.89626 18.5995C7.86055 18.4779 7.75225 18.3918 7.6257 18.3845L5.5522 18.2648C5.28703 18.2495 5.13938 18.5565 5.32818 18.7434C6.09919 19.5063 6.99905 20.1374 7.99309 20.602C8.21889 20.7075 8.45279 20.4955 8.38259 20.2563L7.89626 18.5995Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.74146 5.93674L6.08649 9.18923C6.12067 9.27189 6.18995 9.33498 6.27544 9.3613L8.46628 10.0358C8.55245 10.0623 8.64599 10.0487 8.721 9.99868L11.1139 8.40281C11.1973 8.34716 11.2475 8.25351 11.2475 8.15322V5.44931C11.2475 5.349 11.1973 5.25532 11.1138 5.19968L8.30546 3.32774C8.26707 3.30157 8.22541 3.28533 8.18289 3.30408C6.84791 3.89257 5.67406 4.77902 4.74474 5.87908C4.73048 5.89596 4.73232 5.91663 4.74146 5.93674Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.50226 9.8046C4.59626 9.71957 4.62668 9.58465 4.57826 9.46751L3.94843 7.9438C3.85268 7.71218 3.53534 7.6951 3.4276 7.92139C2.99139 8.83755 2.70029 9.83412 2.57831 10.8823C2.54755 11.1466 2.85561 11.2941 3.05294 11.1156L4.50226 9.8046Z" fill="black"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -2122,6 +3644,80 @@ class _SportBallFootballLight {
   /// ball Football — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'ball Football',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12C21 16.9706 16.9706 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 9L9 11L10 15H14L15 11L12 9Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.99901 15L8.70508 17.203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.998 15.0098L15.4124 17.203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.998 9V5.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.99974 10.9997L6.10938 10.1104" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15 11L17.922 10.0527" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.723 6.7207L6.10105 10.0525L3.04297 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9 3.5L12 5.5L15 3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.2999 6.7207L17.9219 10.0525L20.98 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3867 20.6633L15.4016 17.2035L19.5179 16.9658" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.72687 20.6633L8.71195 17.2035L4.5957 16.9658" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball Football 1 icon with style variants.
+class _SportBallFootball1Icon {
+  const _SportBallFootball1Icon();
+
+  /// bold style
+  _SportBallFootball1Bold get bold => const _SportBallFootball1Bold();
+  /// bulk style
+  _SportBallFootball1Bulk get bulk => const _SportBallFootball1Bulk();
+  /// light style
+  _SportBallFootball1Light get light => const _SportBallFootball1Light();
+  /// broken style
+  _SportBallFootball1Broken get broken => const _SportBallFootball1Broken();
+}
+
+/// ball Football 1 — bulk style variants.
+class _SportBallFootball1Bulk {
+  const _SportBallFootball1Bulk();
+
+  /// ball Football 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball Football 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 12C21.5 12.51 21.46 13.01 21.38 13.5C21.2 14.63 20.82 15.7 20.28 16.67C19.96 17.23 19.59 17.75 19.16 18.23C18.2 19.35 16.98 20.23 15.59 20.8H15.58C15.04 21.02 14.47 21.2 13.88 21.32C13.27 21.44 12.64 21.5 12 21.5C11.4 21.5 10.82 21.44 10.25 21.34C9.67 21.23 9.1 21.07 8.56 20.86C7.11 20.29 5.84 19.38 4.83 18.23C4.41 17.76 4.05 17.24 3.73 16.69C3.18 15.72 2.8 14.65 2.62 13.51C2.54 13.02 2.5 12.51 2.5 12C2.5 11.87 2.5 11.74 2.51 11.61C2.57 10.07 3 8.62 3.71 7.35C4 6.84 4.34 6.35 4.72 5.9C5.66 4.78 6.87 3.87 8.23 3.27C8.81 3.02 9.42 2.83 10.06 2.7H10.07C10.69 2.57 11.33 2.5 12 2.5C12.67 2.5 13.31 2.57 13.93 2.7H13.94C14.58 2.83 15.19 3.02 15.77 3.27C17.14 3.87 18.35 4.79 19.29 5.92C19.68 6.37 20.02 6.86 20.31 7.38C21 8.64 21.43 10.07 21.49 11.59C21.5 11.73 21.5 11.86 21.5 12Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.06 10.4201L2.72 13.4401C2.69 13.4701 2.66 13.4901 2.62 13.5101C2.54 13.0201 2.5 12.5101 2.5 12.0001C2.5 11.8701 2.5 11.7401 2.51 11.6101L4.66 9.66009L3.71 7.35009C4 6.84009 4.34 6.35009 4.72 5.90009C4.73 5.91009 4.73 5.93009 4.74 5.94009L6.25 9.58009C6.37 9.87009 6.29 10.2101 6.06 10.4201Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.77 3.2702C15.75 3.2902 15.72 3.3102 15.69 3.3302L12.42 5.5202C12.29 5.6002 12.14 5.6402 12 5.6402C11.85 5.6402 11.71 5.6002 11.58 5.5202L8.30998 3.3302C8.27998 3.3102 8.24998 3.2902 8.22998 3.2702C8.80998 3.0202 9.41998 2.8302 10.06 2.7002H10.07L12 3.9902L13.93 2.7002H13.94C14.58 2.8302 15.19 3.0202 15.77 3.2702Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.25 21.3403C9.66998 21.2303 9.09998 21.0703 8.55998 20.8603L7.83998 18.4003L4.82998 18.2303C4.40998 17.7603 4.04998 17.2403 3.72998 16.6903C3.79998 16.6703 3.86998 16.6603 3.94998 16.6703L8.44998 16.9303C8.76998 16.9503 9.03998 17.1603 9.12998 17.4703L10.24 21.2503C10.25 21.2803 10.26 21.3103 10.25 21.3403Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.28 16.6701C19.96 17.2301 19.59 17.7501 19.16 18.2301L16.29 18.4001L15.59 20.8001H15.58C15.04 21.0201 14.47 21.2001 13.88 21.3201C13.88 21.3001 13.88 21.2701 13.89 21.2501L15 17.4701C15.09 17.1601 15.36 16.9501 15.67 16.9301L20.17 16.6701H20.28Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4999 12.0002C21.4999 12.5102 21.4599 13.0102 21.3799 13.5002C21.3599 13.4802 21.3299 13.4602 21.3099 13.4402L17.9699 10.4202C17.7299 10.2102 17.6499 9.87023 17.7799 9.58023L19.2799 5.94023C19.2799 5.93023 19.2899 5.93023 19.2899 5.92023C19.6799 6.37023 20.0199 6.86023 20.3099 7.38023L19.3599 9.66023L21.4899 11.5902C21.4999 11.7302 21.4999 11.8602 21.4999 12.0002Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6001 14.5202H10.4001L9.58006 11.2302L12.0001 9.62021L14.4201 11.2302L13.6001 14.5202ZM15.6901 10.2802L12.4201 8.09021C12.1601 7.92021 11.8301 7.92021 11.5801 8.09021L8.31006 10.2802C8.04006 10.4502 7.92006 10.7802 7.99006 11.0802L9.09006 15.4502C9.17006 15.7902 9.47006 16.0202 9.81006 16.0202H14.1801C14.5301 16.0202 14.8301 15.7902 14.9101 15.4502L16.0001 11.0802C16.0801 10.7802 15.9601 10.4502 15.6901 10.2802Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball Football 1 — broken style variants.
+class _SportBallFootball1Broken {
+  const _SportBallFootball1Broken();
+
+  /// ball Football 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball Football 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.08076 3.89589C9.26551 3.32187 10.5952 3 12 3C16.9706 3 21 7.02944 21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 9.51545 4.00677 7.26604 5.6346 5.63748" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.723 6.7207L6.10105 10.0525L3.04297 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9 3.5L12 5.5L15 3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.72687 20.6623L8.71195 17.2025L4.5957 16.9648" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3867 20.6623L15.4016 17.2025L19.5179 16.9648" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.2999 6.7207L17.9219 10.0525L20.98 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14 15L15 11L12 9L9 11L10 15H11.5772" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball Football 1 — bold style variants.
+class _SportBallFootball1Bold {
+  const _SportBallFootball1Bold();
+
+  /// ball Football 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball Football 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.5874 7.94616C20.4802 7.71922 20.1623 7.73588 20.0664 7.96783L19.4464 9.4676C19.398 9.58477 19.4284 9.71974 19.5225 9.80476L20.947 11.0924C21.1446 11.2711 21.4529 11.1229 21.4214 10.8584C21.299 9.82834 21.0135 8.84827 20.5874 7.94616Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.50331 9.8046C4.5973 9.71957 4.62772 9.58465 4.5793 9.46752L3.94928 7.94336C3.85357 7.71182 3.53637 7.69465 3.42855 7.92081C2.99162 8.83726 2.7003 9.83426 2.57831 10.8833C2.54757 11.1476 2.85564 11.2951 3.05297 11.1166L4.50331 9.8046Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.89665 18.599C7.86097 18.4774 7.7527 18.3913 7.62618 18.384L5.5515 18.2635C5.28635 18.2481 5.1386 18.5551 5.32732 18.742C6.09847 19.5057 6.99861 20.1371 7.9934 20.6023C8.21921 20.7079 8.45322 20.4958 8.38303 20.2566L7.89665 18.599Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.8338 3.87806C11.9346 3.94524 12.0659 3.94524 12.1667 3.87806L13.3391 3.09643C13.5606 2.94879 13.4929 2.61405 13.229 2.57962C12.8271 2.5272 12.4175 2.5 12.0012 2.5C11.5847 2.5 11.1745 2.52723 10.7719 2.57972C10.5079 2.61412 10.4402 2.94894 10.6617 3.0966L11.8338 3.87806Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.81531 16.0197C9.47131 16.0197 9.17131 15.7857 9.08731 15.4517L7.99531 11.0817C7.91831 10.7737 8.04331 10.4507 8.30631 10.2747L11.5843 8.08974C11.8363 7.92174 12.1643 7.92174 12.4163 8.08974L15.6943 10.2747C15.9583 10.4507 16.0833 10.7737 16.0053 11.0817L14.9133 15.4517C14.8293 15.7857 14.5293 16.0197 14.1853 16.0197H9.81531ZM13.8883 21.2457L14.9973 17.4667C15.0863 17.1627 15.3573 16.9477 15.6733 16.9297L20.1703 16.6687C20.2247 16.6652 20.2755 16.6507 20.3019 16.6031C20.8195 15.672 21.1815 14.6458 21.3621 13.5573C21.3698 13.5108 21.3435 13.4742 21.3093 13.4417L17.9673 10.4207C17.7323 10.2077 17.6563 9.87074 17.7773 9.57774L19.2833 5.93774C19.2871 5.9265 19.2894 5.91586 19.2818 5.90678C18.3482 4.79344 17.1662 3.89775 15.8208 3.30491C15.7771 3.28565 15.7343 3.30264 15.6943 3.32874L12.4163 5.51474C12.2903 5.59874 12.1453 5.64074 12.0003 5.64074C11.8553 5.64074 11.7103 5.59874 11.5843 5.51474L8.30631 3.32874C8.26721 3.30208 8.22476 3.28555 8.18146 3.30465C6.84731 3.89302 5.67507 4.77901 4.74615 5.87842C4.73147 5.89579 4.73356 5.91675 4.74231 5.93774L6.24831 9.57774C6.36931 9.87074 6.29331 10.2077 6.05831 10.4207L2.71731 13.4417C2.67164 13.4839 2.6365 13.5343 2.64694 13.5955C2.82421 14.6359 3.16727 15.6197 3.65427 16.5169C3.71212 16.6235 3.83347 16.6585 3.95431 16.6687L8.45131 16.9297C8.76831 16.9477 9.03831 17.1627 9.12831 17.4667L10.2363 21.2457C10.2519 21.2942 10.2774 21.336 10.3276 21.345C10.8713 21.4427 11.4295 21.4997 12.0013 21.4997C12.6227 21.4997 13.2302 21.4383 13.8192 21.3235C13.8579 21.3159 13.8779 21.2838 13.8883 21.2457Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.1667 9.72652C12.066 9.65932 11.9347 9.65932 11.8339 9.72652L9.75418 11.1133C9.64871 11.1836 9.59883 11.3126 9.62956 11.4356L10.3435 14.2923C10.3769 14.4258 10.4969 14.5195 10.6346 14.5195H13.3661C13.5037 14.5195 13.6237 14.4258 13.6571 14.2923L14.3711 11.4356C14.4018 11.3126 14.3519 11.1836 14.2464 11.1133L12.1667 9.72652Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4989 18.384C16.3724 18.3913 16.2641 18.4774 16.2284 18.599L15.7604 20.1942C15.6896 20.4354 15.9277 20.6477 16.1536 20.5373C17.0877 20.0807 17.9351 19.4744 18.6673 18.7504C18.8563 18.5635 18.7086 18.2561 18.4433 18.2715L16.4989 18.384Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// ball Football 1 — light style variants.
+class _SportBallFootball1Light {
+  const _SportBallFootball1Light();
+
+  /// ball Football 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'ball Football 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12C21 16.9706 16.9706 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.723 6.7207L6.10105 10.0525L3.04297 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9 3.5L12 5.5L15 3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.72687 20.6633L8.71195 17.2035L4.5957 16.9658" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.3867 20.6633L15.4016 17.2035L19.5179 16.9658" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.2999 6.7207L17.9219 10.0525L20.98 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 9L9 11L10 15H14L15 11L12 9Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.light,
@@ -2155,7 +3751,7 @@ class _SportTreadmillBulk {
   /// Treadmill — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Treadmill',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2288 14.4898C16.8578 13.7368 16.1828 13.1678 15.3768 12.9298L8.48178 10.8978C6.60878 10.3448 4.62478 11.2148 3.76178 12.9648C3.14178 14.2228 3.23078 15.7358 4.02678 16.9648C4.78878 18.1368 6.07678 18.8368 7.47478 18.8368H14.5238C15.7598 18.8368 16.8908 18.0628 17.3368 16.9098C17.6398 16.1258 17.6008 15.2438 17.2288 14.4898Z" fill="black" fill-opacity="0.4"/> <path d="M19.1867 2.65307C19.3247 2.26307 19.7517 2.05507 20.1427 2.19307C20.5337 2.33007 20.7397 2.75807 20.6027 3.14907C19.4877 6.33507 18.1737 7.01807 16.2557 6.81807L14.7931 12.7577L13.3524 12.3331L14.9627 5.79707C15.0587 5.41007 15.4367 5.16507 15.8297 5.23807C17.2147 5.50107 18.1307 5.67107 19.1867 2.65307Z" fill="black"/> <path d="M8.50973 10.906L7.60391 7.27403L8.88391 7.43503C8.91491 7.43903 8.94691 7.44103 8.97791 7.44103C9.35091 7.44103 9.67391 7.16403 9.72091 6.78503C9.77291 6.37403 9.48191 5.99903 9.07091 5.94703L4.63991 5.38803C4.23191 5.34103 3.85391 5.62803 3.80191 6.03803C3.74991 6.44903 4.04091 6.82403 4.45191 6.87603L6.00791 7.07203L6.92611 10.7541C7.43569 10.7005 7.96293 10.7445 8.48165 10.8977L8.50973 10.906Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.02502 19.3918C4.34702 19.3918 3.79602 19.9428 3.79602 20.6208C3.79602 21.2988 4.34702 21.8498 5.02502 21.8498C5.70302 21.8498 6.25402 21.2988 6.25402 20.6208C6.25402 19.9428 5.70302 19.3918 5.02502 19.3918Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0382 19.3918C16.3612 19.3918 15.8102 19.9428 15.8102 20.6208C15.8102 21.2988 16.3612 21.8498 17.0382 21.8498C17.7162 21.8498 18.2672 21.2988 18.2672 20.6208C18.2672 19.9428 17.7162 19.3918 17.0382 19.3918Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.86621 15.7217H7.81921C7.40521 15.7217 7.06921 15.3857 7.06921 14.9717C7.06921 14.5577 7.40521 14.2217 7.81921 14.2217H9.86621C10.2802 14.2217 10.6162 14.5577 10.6162 14.9717C10.6162 15.3857 10.2802 15.7217 9.86621 15.7217Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4634 9.51288C13.5244 9.51288 12.9674 8.94588 12.1384 8.01988C11.4004 7.19488 10.5634 6.26088 9.20739 6.03888C7.36039 5.73588 5.68239 6.87888 4.84039 8.14588C4.61139 8.49088 4.70539 8.95588 5.05039 9.18488C5.39539 9.41488 5.86039 9.32088 6.08939 8.97588C6.64639 8.13888 7.78339 7.32488 8.96539 7.51888C9.16539 7.55188 9.34839 7.61588 9.52239 7.70088C8.53539 9.02888 7.55339 10.7369 8.79639 12.7249C8.90739 12.9029 9.02339 13.0749 9.13839 13.2459C9.55539 13.8659 9.91539 14.4009 9.92239 15.0509C9.93339 16.0399 9.36439 17.0559 8.90739 17.8729C8.70539 18.2349 8.83539 18.6919 9.19639 18.8939C9.31239 18.9579 9.43839 18.9889 9.56239 18.9889C9.82439 18.9889 10.0794 18.8509 10.2174 18.6049C10.7324 17.6839 11.4374 16.4239 11.4224 15.0339C11.4094 13.9349 10.8644 13.1249 10.3834 12.4089C10.2774 12.2519 10.1704 12.0939 10.0684 11.9299C9.36739 10.8089 9.78139 9.88688 10.6854 8.65488C10.7964 8.77388 10.9074 8.89288 11.0214 9.02088C11.8584 9.95388 12.8064 11.0129 14.4634 11.0129C14.8774 11.0129 15.2134 10.6769 15.2134 10.2629C15.2134 9.84888 14.8774 9.51288 14.4634 9.51288Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.06389 13.1189C6.68989 13.3899 6.13089 13.5729 5.44789 13.6479C4.87289 13.7129 4.28089 13.6889 3.72389 13.6599C3.29589 13.6379 2.95689 13.9559 2.93589 14.3689C2.91389 14.7839 3.23089 15.1359 3.64489 15.1579C3.95289 15.1739 4.28589 15.1889 4.63089 15.1889C4.95189 15.1889 5.28289 15.1759 5.61289 15.1399C6.56689 15.0349 7.35189 14.7629 7.94489 14.3329C8.27989 14.0899 8.35489 13.6209 8.11089 13.2859C7.86889 12.9509 7.39989 12.8759 7.06389 13.1189Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4425 6.737C14.6445 6.737 15.6225 5.758 15.6225 4.555C15.6225 3.353 14.6445 2.375 13.4425 2.375C12.2405 2.375 11.2625 3.353 11.2625 4.555C11.2625 5.758 12.2405 6.737 13.4425 6.737Z" fill="black" fill-opacity="0.4"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0039 6.2352C20.8389 5.8552 20.3999 5.6792 20.0179 5.8442L17.6519 6.8682C17.4089 6.9742 17.2389 7.1992 17.2059 7.4622L16.0309 16.6292L4.40992 18.1262C3.72292 18.2152 3.16492 18.7062 2.98992 19.3752C2.85692 19.8842 2.96292 20.4152 3.28192 20.8322C3.60092 21.2502 4.08592 21.4922 4.61092 21.4972L17.4389 21.6252H17.4619C18.2219 21.6252 18.9379 21.2942 19.4309 20.7142C19.9279 20.1292 20.1369 19.3602 20.0059 18.6022C19.7929 17.3832 18.7629 16.5162 17.5639 16.4732L18.6389 8.0752L20.6129 7.2212C20.9939 7.0572 21.1689 6.6152 21.0039 6.2352Z" fill="black"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -2170,7 +3766,7 @@ class _SportTreadmillBroken {
   /// Treadmill — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Treadmill',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.67383 6.13086L9.10533 6.68995" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.084 13.0177L15.8194 5.97486C17.6387 6.31717 18.8658 6.20562 20.0226 2.90039" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.75 6.4375L7.94617 11.2327" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.94727 14.9707H9.99424" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6523 18.3361C15.6911 18.3361 16.6231 17.6974 16.9979 16.7285C17.5284 15.3569 16.7741 13.8247 15.3635 13.4088L8.46766 11.3758C6.83427 10.8942 5.09128 11.6578 4.33787 13.185C3.79183 14.2918 3.86889 15.6043 4.54068 16.6396L4.57423 16.6913C5.23979 17.7171 6.3794 18.3361 7.60213 18.3361H11.4485" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.15558 20.5943V20.7118M5.63178 20.6196C5.63178 20.8841 5.41718 21.0985 5.15266 21.0985C4.88814 21.0985 4.67383 20.8841 4.67383 20.6196C4.67383 20.3551 4.88814 20.1406 5.15266 20.1406C5.41718 20.1406 5.63178 20.3551 5.63178 20.6196Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1693 20.5943V20.7118M17.6455 20.6196C17.6455 20.8841 17.4308 21.0985 17.1663 21.0985C16.9018 21.0985 16.6875 20.8841 16.6875 20.6196C16.6875 20.3551 16.9018 20.1406 17.1663 20.1406C17.4308 20.1406 17.6455 20.3551 17.6455 20.6196Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.0337 20.936L4.62007 20.8723C4.00517 20.8665 3.56054 20.2846 3.71718 19.6902C3.81447 19.3195 4.12776 19.0441 4.50818 18.9945L17.2314 17.3551C18.2033 17.2296 19.1004 17.8912 19.2687 18.8564C19.4643 19.9821 18.5906 21.0105 17.4474 20.9998L14.2405 20.9679" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.4668 8.68731C6.23542 7.53048 7.67441 6.67429 9.0881 6.90488C11.4105 7.2853 11.9651 10.389 14.4646 10.389" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.5269 7.75C9.40899 9.19093 8.31832 10.6688 9.43429 12.4542C9.98011 13.3279 10.6612 14.0829 10.6738 15.1687C10.6865 16.3187 10.1095 17.389 9.56369 18.3648" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.5063 13.8516C6.94588 14.2583 6.21131 14.4451 5.5322 14.52C4.91924 14.5881 4.30045 14.5667 3.68555 14.5346" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.4439 3C14.3682 3 15.1242 3.75209 15.1242 4.68027C15.1242 5.60944 14.3682 6.36152 13.4439 6.36152C12.5196 6.36152 11.7637 5.60944 11.7637 4.68027" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7031 17.4238L17.9514 7.68174L20.3166 6.6582" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -2185,7 +3781,7 @@ class _SportTreadmillTwotone {
   /// Treadmill — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Treadmill',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.67383 6.13086L9.10533 6.68995" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.084 13.0177L15.8194 5.97486C17.6387 6.31717 18.8658 6.20562 20.0226 2.90039" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.75 6.43652L7.94617 11.2317" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.94727 14.9707H9.99424" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3635 13.4088L8.46766 11.3758C6.83427 10.8942 5.09128 11.6578 4.33787 13.185C3.79183 14.2918 3.86889 15.6043 4.54068 16.6396L4.57423 16.6913C5.23979 17.7171 6.3794 18.3361 7.60213 18.3361H14.6523C15.6911 18.3361 16.6231 17.6974 16.9979 16.7285C17.5284 15.3569 16.7741 13.8247 15.3635 13.4088Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.15558 20.5943V20.7118M5.63178 20.6196C5.63178 20.8841 5.41718 21.0985 5.15266 21.0985C4.88814 21.0985 4.67383 20.8841 4.67383 20.6196C4.67383 20.3551 4.88814 20.1406 5.15266 20.1406C5.41718 20.1406 5.63178 20.3551 5.63178 20.6196Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.1693 20.5943V20.7118M17.6455 20.6196C17.6455 20.8841 17.4308 21.0985 17.1663 21.0985C16.9018 21.0985 16.6875 20.8841 16.6875 20.6196C16.6875 20.3551 16.9018 20.1406 17.1663 20.1406C17.4308 20.1406 17.6455 20.3551 17.6455 20.6196Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.2162 19.6902C4.3135 19.3195 4.62679 19.0441 5.00721 18.9945L17.7304 17.3551C18.7024 17.2296 19.5994 17.8912 19.7677 18.8564C19.9633 19.9821 19.0896 21.0105 17.9464 20.9998L5.1191 20.8723C4.50419 20.8665 4.05956 20.2846 4.2162 19.6902Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.9668 8.68634C6.73542 7.5295 8.17441 6.67331 9.5881 6.9039C11.9105 7.28432 12.4651 10.388 14.9646 10.388" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.0269 7.74902C9.90899 9.18995 8.81832 10.6679 9.93429 12.4532C10.4801 13.3269 11.1612 14.0819 11.1738 15.1677C11.1865 16.3177 10.6095 17.388 10.0637 18.3638" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.0063 13.8506C7.44588 14.2573 6.71131 14.4441 6.0322 14.519C5.41924 14.5871 4.80045 14.5657 4.18555 14.5336" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M13.9439 6.36152C14.8682 6.36152 15.6242 5.60944 15.6242 4.68027C15.6242 3.75209 14.8682 3 13.9439 3C13.0196 3 12.2637 3.75209 12.2637 4.68027C12.2637 5.60944 13.0196 6.36152 13.9439 6.36152Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.2031 17.4238L18.4514 7.68174L20.8166 6.6582" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -2200,7 +3796,7 @@ class _SportTreadmillOutline {
   /// Treadmill — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Treadmill',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.10348 7.4403C9.07248 7.4403 9.0405 7.4403 9.0035 7.4353L4.5725 6.8753C4.47367 6.86432 4.378 6.8338 4.29107 6.78551C4.20414 6.73722 4.12766 6.67213 4.06612 6.59401C4.00459 6.5159 3.95921 6.42632 3.93261 6.3305C3.90601 6.23468 3.89872 6.13453 3.91119 6.03587C3.92365 5.93721 3.95561 5.84202 4.00521 5.75582C4.05481 5.66963 4.12103 5.59416 4.20007 5.53381C4.2791 5.47345 4.36936 5.42942 4.46557 5.40427C4.56178 5.37912 4.66203 5.37335 4.76049 5.3873L9.19149 5.9463C9.38053 5.97035 9.55332 6.06546 9.67477 6.2123C9.79622 6.35914 9.85723 6.5467 9.84539 6.7369C9.83355 6.92709 9.74974 7.10564 9.61102 7.23628C9.47229 7.36693 9.28906 7.43988 9.0985 7.4403H9.10348Z" fill="black"/> <path d="M14.0827 13.7682C13.9688 13.7683 13.8564 13.7425 13.7539 13.6927C13.6514 13.6429 13.5617 13.5705 13.4913 13.4809C13.421 13.3913 13.3719 13.2869 13.3479 13.1755C13.3239 13.0642 13.3256 12.9488 13.3527 12.8382L15.0887 5.79521C15.1347 5.60912 15.2501 5.44767 15.4113 5.34392C15.5725 5.24018 15.7673 5.202 15.9557 5.23721C17.3407 5.50221 18.2557 5.67321 19.3127 2.65221C19.3455 2.55923 19.3964 2.47364 19.4623 2.4003C19.5282 2.32697 19.6079 2.26733 19.6969 2.2248C19.7858 2.18228 19.8823 2.15768 19.9807 2.15243C20.0792 2.14718 20.1777 2.16138 20.2707 2.19421C20.3637 2.22704 20.4493 2.27787 20.5226 2.34378C20.5959 2.40969 20.6556 2.4894 20.6981 2.57836C20.7406 2.66732 20.7652 2.76378 20.7705 2.86224C20.7757 2.9607 20.7615 3.05923 20.7287 3.15221C19.6137 6.33821 18.3117 7.02621 16.3817 6.82121L14.8097 13.2012C14.769 13.3632 14.6753 13.5069 14.5436 13.6096C14.4119 13.7123 14.2497 13.7681 14.0827 13.7682Z" fill="black"/> <path d="M7.94246 11.9814C7.77531 11.9813 7.61299 11.9253 7.48127 11.8224C7.34956 11.7195 7.256 11.5756 7.21544 11.4134L6.01545 6.61343C5.96732 6.42035 5.99784 6.21606 6.10032 6.0455C6.20281 5.87493 6.36889 5.75206 6.56196 5.70393C6.75504 5.65579 6.95933 5.68632 7.1299 5.78881C7.30046 5.8913 7.42331 6.05735 7.47145 6.25043L8.67146 11.0504C8.6954 11.146 8.70026 11.2453 8.68577 11.3427C8.67128 11.4401 8.6377 11.5337 8.58699 11.6182C8.53627 11.7026 8.46941 11.7762 8.39021 11.8348C8.31101 11.8933 8.22103 11.9357 8.12544 11.9594C8.06565 11.9746 8.00415 11.982 7.94246 11.9814Z" fill="black"/> <path d="M9.99133 15.7207H7.94434C7.74542 15.7207 7.55465 15.6417 7.414 15.501C7.27335 15.3604 7.19434 15.1696 7.19434 14.9707C7.19434 14.7718 7.27335 14.581 7.414 14.4404C7.55465 14.2997 7.74542 14.2207 7.94434 14.2207H9.99133C10.1902 14.2207 10.381 14.2997 10.5217 14.4404C10.6623 14.581 10.7413 14.7718 10.7413 14.9707C10.7413 15.1696 10.6623 15.3604 10.5217 15.501C10.381 15.6417 10.1902 15.7207 9.99133 15.7207Z" fill="black"/> <path d="M14.6482 19.0859H7.59617C6.86912 19.0873 6.15336 18.9062 5.51444 18.5592C4.87553 18.2123 4.33389 17.7105 3.93916 17.0999C3.52797 16.4772 3.28595 15.7582 3.23686 15.0135C3.18776 14.2689 3.33329 13.5243 3.65916 12.8529C4.10082 11.9532 4.84661 11.2388 5.76447 10.8361C6.68233 10.4335 7.71306 10.3686 8.67417 10.6529L15.5742 12.6859C16.3299 12.9058 16.9808 13.3913 17.407 14.053C17.8332 14.7146 18.006 15.508 17.8937 16.287C17.7813 17.066 17.3913 17.7782 16.7955 18.2925C16.1997 18.8068 15.4382 19.0886 14.6512 19.0859H14.6482ZM7.47016 11.9859C6.97583 11.9876 6.49109 12.1224 6.06684 12.3761C5.6426 12.6298 5.2945 12.9932 5.05918 13.4279C4.82386 13.8626 4.71 14.3527 4.72953 14.8466C4.74906 15.3406 4.90127 15.8202 5.17017 16.2349C5.42776 16.6482 5.78599 16.9892 6.21134 17.2262C6.6367 17.4632 7.11524 17.5883 7.60215 17.5899H14.6522C15.0771 17.5911 15.4881 17.4388 15.8096 17.1611C16.1312 16.8834 16.3418 16.499 16.4026 16.0785C16.4634 15.658 16.3704 15.2296 16.1407 14.8722C15.911 14.5148 15.56 14.2523 15.1522 14.133L8.25218 12.0999C7.99855 12.0232 7.73515 11.9834 7.47016 11.9819V11.9859Z" fill="black"/> <path d="M5.14992 21.8486C4.90689 21.8486 4.6693 21.7766 4.46721 21.6416C4.26512 21.5066 4.10759 21.3147 4.01454 21.0902C3.92149 20.8657 3.8971 20.6186 3.94444 20.3802C3.99178 20.1419 4.10872 19.9229 4.2805 19.7509C4.45228 19.579 4.67119 19.4619 4.90953 19.4144C5.14787 19.3668 5.39493 19.391 5.61952 19.4839C5.84411 19.5768 6.03612 19.7341 6.17128 19.9361C6.30644 20.1381 6.37869 20.3756 6.37889 20.6186C6.37863 20.9446 6.24909 21.2571 6.01869 21.4877C5.7883 21.7183 5.47588 21.8481 5.14992 21.8486Z" fill="black"/> <path d="M17.1636 21.8486C16.9205 21.8486 16.683 21.7766 16.4809 21.6416C16.2788 21.5066 16.1213 21.3147 16.0282 21.0902C15.9352 20.8657 15.9108 20.6186 15.9581 20.3802C16.0055 20.1419 16.1224 19.9229 16.2942 19.7509C16.466 19.579 16.6849 19.4619 16.9232 19.4144C17.1615 19.3668 17.4086 19.391 17.6332 19.4839C17.8578 19.5768 18.0498 19.7341 18.185 19.9361C18.3201 20.1381 18.3924 20.3756 18.3926 20.6186C18.3923 20.9446 18.2628 21.2571 18.0324 21.4877C17.802 21.7183 17.4895 21.8481 17.1636 21.8486Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.7161 21.7498H17.6921L4.86507 21.6228C4.60745 21.6206 4.35374 21.5596 4.12328 21.4445C3.89281 21.3294 3.69169 21.1631 3.53523 20.9584C3.37878 20.7537 3.27114 20.516 3.22051 20.2634C3.16987 20.0108 3.17758 19.75 3.24306 19.5008C3.32751 19.1744 3.50802 18.8809 3.76119 18.6582C4.01435 18.4355 4.32854 18.2939 4.66307 18.2518L17.3871 16.6118C17.7374 16.5658 18.0934 16.5922 18.433 16.6894C18.7727 16.7866 19.0888 16.9525 19.3617 17.1769C19.6346 17.4013 19.8585 17.6793 20.0195 17.9938C20.1806 18.3082 20.2754 18.6524 20.2979 19.005C20.3205 19.3576 20.2704 19.711 20.1508 20.0434C20.0312 20.3759 19.8445 20.6802 19.6025 20.9375C19.3604 21.1949 19.0681 21.3998 18.7436 21.5395C18.4191 21.6792 18.0693 21.7508 17.7161 21.7498ZM17.7161 18.0898C17.6692 18.0899 17.6225 18.0929 17.5761 18.0988L4.85207 19.7388C4.81433 19.7446 4.77903 19.761 4.75032 19.7862C4.72162 19.8113 4.70069 19.8442 4.69005 19.8808C4.68257 19.9093 4.68171 19.9392 4.68755 19.968C4.69338 19.9969 4.70575 20.0241 4.72371 20.0474C4.74166 20.0708 4.76475 20.0897 4.79115 20.1028C4.81756 20.1159 4.84659 20.1227 4.87605 20.1228L17.7021 20.2498C17.8616 20.2576 18.0206 20.2271 18.1658 20.1608C18.3111 20.0945 18.4384 19.9944 18.5371 19.8688C18.6704 19.7118 18.756 19.5199 18.7839 19.3158C18.8117 19.1117 18.7806 18.9038 18.6942 18.7168C18.6078 18.5298 18.4697 18.3714 18.2962 18.2603C18.1227 18.1492 17.9211 18.0901 17.7151 18.0898H17.7161Z" fill="black"/> <path d="M14.7162 11.139C13.0582 11.139 12.1102 10.08 11.2742 9.14604C10.7826 8.42371 10.0561 7.89373 9.21822 7.64604C8.65165 7.6033 8.08418 7.71649 7.57738 7.97334C7.07057 8.23018 6.64377 8.62086 6.34322 9.10303C6.23229 9.26646 6.06137 9.37953 5.86757 9.4177C5.67377 9.45586 5.47273 9.41603 5.30812 9.30686C5.14351 9.1977 5.02863 9.028 4.98839 8.83463C4.94815 8.64125 4.98582 8.43981 5.09322 8.27404C5.54966 7.54816 6.20118 6.96541 6.97328 6.59245C7.74538 6.21949 8.60688 6.07137 9.45921 6.16504C10.6421 6.45389 11.6823 7.15706 12.3912 8.14703C13.2202 9.07203 13.7762 9.64003 14.7162 9.64003C14.9151 9.64003 15.1059 9.71905 15.2465 9.8597C15.3872 10.0004 15.4662 10.1911 15.4662 10.39C15.4662 10.5889 15.3872 10.7797 15.2465 10.9204C15.1059 11.061 14.9151 11.14 14.7162 11.14V11.139Z" fill="black"/> <path d="M9.81373 19.1138C9.68545 19.1126 9.55968 19.0782 9.44874 19.0138C9.36268 18.9657 9.28694 18.9012 9.22587 18.8239C9.16479 18.7465 9.11959 18.6579 9.09284 18.563C9.06609 18.4682 9.0583 18.369 9.06995 18.2711C9.08161 18.1733 9.11246 18.0787 9.16074 17.9928C9.73309 17.1536 10.0821 16.1823 10.1747 15.1708C10.0972 14.5064 9.82433 13.88 9.39075 13.3708C9.27575 13.1988 9.15974 13.0258 9.04874 12.8488C7.63074 10.5808 9.10673 8.67777 10.1847 7.28777C10.3066 7.13049 10.4859 7.02807 10.6833 7.00304C10.8807 6.978 11.08 7.0324 11.2372 7.15427C11.3945 7.27613 11.4969 7.45548 11.522 7.65287C11.547 7.85025 11.4926 8.04949 11.3707 8.20677C10.1797 9.74177 9.51575 10.7658 10.3207 12.0538C10.4207 12.2168 10.5297 12.3758 10.6357 12.5328C11.2422 13.2806 11.6048 14.1964 11.6747 15.1568C11.5893 16.4319 11.1737 17.6628 10.4687 18.7288C10.4038 18.8455 10.3088 18.9428 10.1937 19.0105C10.0785 19.0782 9.94732 19.1138 9.81373 19.1138Z" fill="black"/> <path d="M4.88652 15.3149C4.54052 15.3149 4.2065 15.2989 3.8975 15.2829C3.69903 15.2723 3.51289 15.1833 3.37996 15.0356C3.24702 14.8878 3.17817 14.6934 3.18852 14.4949C3.19258 14.3961 3.21632 14.2991 3.2584 14.2096C3.30049 14.1201 3.36004 14.0399 3.43354 13.9738C3.50705 13.9076 3.59303 13.8569 3.68644 13.8244C3.77986 13.792 3.87884 13.7785 3.97752 13.7849C4.55153 13.8282 5.12811 13.8245 5.70152 13.7739C6.27592 13.7361 6.83145 13.5538 7.31651 13.2439C7.39622 13.186 7.48657 13.1443 7.58238 13.1213C7.67819 13.0983 7.77757 13.0944 7.87489 13.1098C7.97221 13.1252 8.06554 13.1597 8.14955 13.2112C8.23356 13.2626 8.3066 13.3302 8.36451 13.4099C8.42243 13.4896 8.46407 13.5799 8.48707 13.6757C8.51007 13.7715 8.51396 13.8709 8.49855 13.9683C8.48313 14.0656 8.44871 14.1589 8.39723 14.2429C8.34575 14.3269 8.27821 14.4 8.1985 14.4579C7.50386 14.9244 6.69996 15.2025 5.86552 15.2649C5.54033 15.2993 5.21352 15.3159 4.88652 15.3149Z" fill="black"/> <path d="M13.6937 7.112C13.2129 7.1122 12.7428 6.96979 12.3429 6.70279C11.943 6.43579 11.6312 6.05619 11.447 5.612C11.2629 5.16781 11.2146 4.67898 11.3083 4.20735C11.402 3.73572 11.6334 3.30246 11.9734 2.96238C12.3133 2.6223 12.7465 2.39067 13.2181 2.29679C13.6897 2.2029 14.1785 2.25099 14.6228 2.43495C15.0671 2.61892 15.4468 2.93051 15.714 3.33031C15.9811 3.7301 16.1237 4.20015 16.1237 4.681C16.1232 5.32541 15.867 5.94328 15.4115 6.39904C14.9559 6.8548 14.3381 7.11121 13.6937 7.112ZM13.6937 3.751C13.5095 3.7508 13.3294 3.80526 13.1761 3.90749C13.0229 4.00971 12.9034 4.1551 12.8328 4.32526C12.7622 4.49542 12.7437 4.6827 12.7796 4.86338C12.8155 5.04407 12.9042 5.21005 13.0344 5.34032C13.1647 5.47058 13.3307 5.55927 13.5113 5.59516C13.692 5.63105 13.8793 5.61253 14.0495 5.54194C14.2196 5.47135 14.365 5.35187 14.4672 5.19861C14.5695 5.04536 14.6239 4.86522 14.6237 4.681C14.6234 4.43443 14.5254 4.19804 14.351 4.02368C14.1767 3.84933 13.9403 3.75127 13.6937 3.751Z" fill="black"/> <path d="M16.9504 18.1746C16.9184 18.1746 16.8864 18.1746 16.8504 18.1746C16.653 18.1492 16.4737 18.0464 16.352 17.8889C16.2303 17.7314 16.1761 17.532 16.2014 17.3346L17.4494 7.59261C17.4661 7.46364 17.516 7.3412 17.5942 7.23727C17.6723 7.13333 17.7761 7.05145 17.8954 6.99961L20.2614 5.97561C20.444 5.89604 20.6507 5.89227 20.8361 5.96513C21.0215 6.03799 21.1703 6.18151 21.2499 6.36411C21.3295 6.54671 21.3332 6.75344 21.2604 6.93882C21.1875 7.1242 21.044 7.27304 20.8614 7.35261L18.8874 8.20661L17.6934 17.5256C17.6689 17.7053 17.5802 17.8701 17.4436 17.9895C17.307 18.1088 17.1318 18.1746 16.9504 18.1746Z" fill="black"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -2215,7 +3811,7 @@ class _SportTreadmillBold {
   /// Treadmill — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Treadmill',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.86187 15.7248H7.82187C7.40187 15.7248 7.07187 15.3848 7.07187 14.9748C7.07187 14.5548 7.40187 14.2248 7.82187 14.2248H9.86187C10.2819 14.2248 10.6119 14.5548 10.6119 14.9748C10.6119 15.3848 10.2819 15.7248 9.86187 15.7248ZM20.1419 2.19484C19.7519 2.05484 19.3219 2.26484 19.1819 2.65484C18.1319 5.66484 17.2119 5.49484 15.8319 5.23484C15.4319 5.16484 15.0619 5.40484 14.9619 5.79484L13.3519 12.3348L8.51187 10.9048L7.60187 7.27484L8.88187 7.43484H8.98187C9.35187 7.43484 9.67187 7.16484 9.72187 6.78484C9.77187 6.37484 9.48187 5.99484 9.07187 5.94484L4.64187 5.38484C4.23187 5.33484 3.85187 5.62484 3.80187 6.03484C3.75187 6.44484 4.04187 6.82484 4.45187 6.87484L6.01187 7.07484L6.93187 10.7648C5.60187 10.9048 4.38187 11.6948 3.76187 12.9648C3.14187 14.2248 3.23187 15.7348 4.02187 16.9648C4.79187 18.1348 6.07187 18.8348 7.47187 18.8348H14.5219C15.7619 18.8348 16.8919 18.0648 17.3319 16.9048C17.6419 16.1248 17.6019 15.2448 17.2319 14.4848C16.8619 13.7348 16.1819 13.1648 15.3719 12.9248L14.7919 12.7548L16.2519 6.81484C18.1719 7.01484 19.4919 6.33484 20.6019 3.14484C20.7419 2.75484 20.5319 2.32484 20.1419 2.19484Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.02465 19.3901C4.34665 19.3901 3.79565 19.9411 3.79565 20.6191C3.79565 21.2971 4.34665 21.8481 5.02465 21.8481C5.70265 21.8481 6.25365 21.2971 6.25365 20.6191C6.25365 19.9411 5.70265 19.3901 5.02465 19.3901Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0378 19.3901C16.3608 19.3901 15.8098 19.9411 15.8098 20.6191C15.8098 21.2971 16.3608 21.8481 17.0378 21.8481C17.7158 21.8481 18.2668 21.2971 18.2668 20.6191C18.2668 19.9411 17.7158 19.3901 17.0378 19.3901Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.64526 15.158C3.95326 15.174 4.28626 15.189 4.63126 15.189C4.95226 15.189 5.28326 15.176 5.61326 15.139C6.56726 15.034 7.35226 14.763 7.94526 14.333C8.28026 14.09 8.35426 13.621 8.11126 13.285C7.86926 12.95 7.40026 12.876 7.06426 13.119C6.69026 13.39 6.13126 13.573 5.44826 13.648C4.87326 13.713 4.28126 13.689 3.72426 13.66C3.29626 13.637 2.95726 13.956 2.93626 14.369C2.91426 14.783 3.23126 15.136 3.64526 15.158Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4427 6.737C14.6447 6.737 15.6227 5.758 15.6227 4.555C15.6227 3.353 14.6447 2.375 13.4427 2.375C12.2407 2.375 11.2627 3.353 11.2627 4.555C11.2627 5.758 12.2407 6.737 13.4427 6.737Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0042 6.2352C20.8392 5.8552 20.4002 5.6792 20.0182 5.8442L17.6522 6.8682C17.4092 6.9742 17.2392 7.1992 17.2062 7.4622L16.0312 16.6292L10.8912 17.2912C11.1922 16.6102 11.4312 15.8452 11.4222 15.0342C11.4102 13.9352 10.8642 13.1252 10.3832 12.4092C10.2772 12.2522 10.1712 12.0932 10.0682 11.9302C9.36817 10.8092 9.78217 9.8872 10.6862 8.6542C10.7972 8.7742 10.9072 8.8932 11.0222 9.0212C11.8582 9.9542 12.8062 11.0132 14.4632 11.0132C14.8782 11.0132 15.2132 10.6772 15.2132 10.2632C15.2132 9.8492 14.8782 9.5132 14.4632 9.5132C13.5242 9.5132 12.9682 8.9452 12.1392 8.0202C11.4002 7.1952 10.5632 6.2602 9.20816 6.0392C7.36016 5.7362 5.68216 6.8792 4.84116 8.1462C4.61116 8.4902 4.70516 8.9562 5.05016 9.1852C5.39516 9.4152 5.86016 9.3212 6.09016 8.9762C6.64716 8.1392 7.78416 7.3252 8.96516 7.5192C9.16516 7.5522 9.34916 7.6162 9.52316 7.7012C8.53516 9.0292 7.55316 10.7372 8.79616 12.7252C8.90716 12.9022 9.02316 13.0752 9.13816 13.2462C9.55516 13.8662 9.91516 14.4012 9.92216 15.0512C9.93216 15.9062 9.51016 16.7732 9.09916 17.5222L4.41016 18.1262C3.72316 18.2152 3.16516 18.7062 2.99016 19.3752C2.85716 19.8842 2.96316 20.4152 3.28216 20.8322C3.60116 21.2502 4.08616 21.4922 4.61116 21.4972L17.4392 21.6252H17.4622C18.2222 21.6252 18.9382 21.2942 19.4312 20.7142C19.9282 20.1292 20.1372 19.3602 20.0062 18.6022C19.7932 17.3832 18.7632 16.5162 17.5642 16.4732L18.6392 8.0752L20.6132 7.2212C20.9942 7.0572 21.1692 6.6152 21.0042 6.2352Z" fill="black"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -2230,6 +3826,114 @@ class _SportTreadmillLight {
   /// Treadmill — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Treadmill',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.71718 19.6902C3.81447 19.3195 4.12776 19.0441 4.50818 18.9945L17.2314 17.3551C18.2033 17.2296 19.1004 17.8912 19.2687 18.8564C19.4643 19.9821 18.5906 21.0105 17.4474 20.9998L4.62007 20.8723C4.00517 20.8665 3.56054 20.2846 3.71718 19.6902Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.4668 8.68634C6.23542 7.5295 7.67441 6.67331 9.0881 6.9039C11.4105 7.28432 11.9651 10.388 14.4646 10.388" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.5269 7.74902C9.40899 9.18995 8.31832 10.6679 9.43429 12.4532C9.98011 13.3269 10.6612 14.0819 10.6738 15.1677C10.6865 16.3177 10.1095 17.388 9.56369 18.3638" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.5063 13.8506C6.94588 14.2573 6.21131 14.4441 5.5322 14.519C4.91924 14.5871 4.30045 14.5657 3.68555 14.5336" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4439 6.36152C14.3682 6.36152 15.1242 5.60944 15.1242 4.68027C15.1242 3.75209 14.3682 3 13.4439 3C12.5196 3 11.7637 3.75209 11.7637 4.68027C11.7637 5.60944 12.5196 6.36152 13.4439 6.36152Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7031 17.4238L17.9514 7.68174L20.3166 6.6582" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Treadmill 1 icon with style variants.
+class _SportTreadmill1Icon {
+  const _SportTreadmill1Icon();
+
+  /// bold style
+  _SportTreadmill1Bold get bold => const _SportTreadmill1Bold();
+  /// bulk style
+  _SportTreadmill1Bulk get bulk => const _SportTreadmill1Bulk();
+  /// light style
+  _SportTreadmill1Light get light => const _SportTreadmill1Light();
+  /// outline style
+  _SportTreadmill1Outline get outline => const _SportTreadmill1Outline();
+  /// twoTone style
+  _SportTreadmill1Twotone get twoTone => const _SportTreadmill1Twotone();
+  /// broken style
+  _SportTreadmill1Broken get broken => const _SportTreadmill1Broken();
+}
+
+/// Treadmill 1 — bulk style variants.
+class _SportTreadmill1Bulk {
+  const _SportTreadmill1Bulk();
+
+  /// Treadmill 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Treadmill 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.2288 14.4898C16.8578 13.7368 16.1828 13.1678 15.3768 12.9298L8.48178 10.8978C6.60878 10.3448 4.62478 11.2148 3.76178 12.9648C3.14178 14.2228 3.23078 15.7358 4.02678 16.9648C4.78878 18.1368 6.07678 18.8368 7.47478 18.8368H14.5238C15.7598 18.8368 16.8908 18.0628 17.3368 16.9098C17.6398 16.1258 17.6008 15.2438 17.2288 14.4898Z" fill="black" fill-opacity="0.4"/> <path d="M19.1867 2.65307C19.3247 2.26307 19.7517 2.05507 20.1427 2.19307C20.5337 2.33007 20.7397 2.75807 20.6027 3.14907C19.4877 6.33507 18.1737 7.01807 16.2557 6.81807L14.7931 12.7577L13.3524 12.3331L14.9627 5.79707C15.0587 5.41007 15.4367 5.16507 15.8297 5.23807C17.2147 5.50107 18.1307 5.67107 19.1867 2.65307Z" fill="black"/> <path d="M8.50973 10.906L7.60391 7.27403L8.88391 7.43503C8.91491 7.43903 8.94691 7.44103 8.97791 7.44103C9.35091 7.44103 9.67391 7.16403 9.72091 6.78503C9.77291 6.37403 9.48191 5.99903 9.07091 5.94703L4.63991 5.38803C4.23191 5.34103 3.85391 5.62803 3.80191 6.03803C3.74991 6.44903 4.04091 6.82403 4.45191 6.87603L6.00791 7.07203L6.92611 10.7541C7.43569 10.7005 7.96293 10.7445 8.48165 10.8977L8.50973 10.906Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.02502 19.3918C4.34702 19.3918 3.79602 19.9428 3.79602 20.6208C3.79602 21.2988 4.34702 21.8498 5.02502 21.8498C5.70302 21.8498 6.25402 21.2988 6.25402 20.6208C6.25402 19.9428 5.70302 19.3918 5.02502 19.3918Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0382 19.3918C16.3612 19.3918 15.8102 19.9428 15.8102 20.6208C15.8102 21.2988 16.3612 21.8498 17.0382 21.8498C17.7162 21.8498 18.2672 21.2988 18.2672 20.6208C18.2672 19.9428 17.7162 19.3918 17.0382 19.3918Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.86621 15.7217H7.81921C7.40521 15.7217 7.06921 15.3857 7.06921 14.9717C7.06921 14.5577 7.40521 14.2217 7.81921 14.2217H9.86621C10.2802 14.2217 10.6162 14.5577 10.6162 14.9717C10.6162 15.3857 10.2802 15.7217 9.86621 15.7217Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Treadmill 1 — broken style variants.
+class _SportTreadmill1Broken {
+  const _SportTreadmill1Broken();
+
+  /// Treadmill 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Treadmill 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.67383 6.13086L9.10533 6.68995" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.084 13.0177L15.8194 5.97486C17.6387 6.31717 18.8658 6.20562 20.0226 2.90039" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.75 6.4375L7.94617 11.2327" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.94727 14.9707H9.99424" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6523 18.3361C15.6911 18.3361 16.6231 17.6974 16.9979 16.7285C17.5284 15.3569 16.7741 13.8247 15.3635 13.4088L8.46766 11.3758C6.83427 10.8942 5.09128 11.6578 4.33787 13.185C3.79183 14.2918 3.86889 15.6043 4.54068 16.6396L4.57423 16.6913C5.23979 17.7171 6.3794 18.3361 7.60213 18.3361H11.4485" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.15558 20.5943V20.7118M5.63178 20.6196C5.63178 20.8841 5.41718 21.0985 5.15266 21.0985C4.88814 21.0985 4.67383 20.8841 4.67383 20.6196C4.67383 20.3551 4.88814 20.1406 5.15266 20.1406C5.41718 20.1406 5.63178 20.3551 5.63178 20.6196Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1693 20.5943V20.7118M17.6455 20.6196C17.6455 20.8841 17.4308 21.0985 17.1663 21.0985C16.9018 21.0985 16.6875 20.8841 16.6875 20.6196C16.6875 20.3551 16.9018 20.1406 17.1663 20.1406C17.4308 20.1406 17.6455 20.3551 17.6455 20.6196Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Treadmill 1 — twoTone style variants.
+class _SportTreadmill1Twotone {
+  const _SportTreadmill1Twotone();
+
+  /// Treadmill 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Treadmill 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.67383 6.13086L9.10533 6.68995" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.084 13.0177L15.8194 5.97486C17.6387 6.31717 18.8658 6.20562 20.0226 2.90039" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.75 6.43652L7.94617 11.2317" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.94727 14.9707H9.99424" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3635 13.4088L8.46766 11.3758C6.83427 10.8942 5.09128 11.6578 4.33787 13.185C3.79183 14.2918 3.86889 15.6043 4.54068 16.6396L4.57423 16.6913C5.23979 17.7171 6.3794 18.3361 7.60213 18.3361H14.6523C15.6911 18.3361 16.6231 17.6974 16.9979 16.7285C17.5284 15.3569 16.7741 13.8247 15.3635 13.4088Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.15558 20.5943V20.7118M5.63178 20.6196C5.63178 20.8841 5.41718 21.0985 5.15266 21.0985C4.88814 21.0985 4.67383 20.8841 4.67383 20.6196C4.67383 20.3551 4.88814 20.1406 5.15266 20.1406C5.41718 20.1406 5.63178 20.3551 5.63178 20.6196Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.1693 20.5943V20.7118M17.6455 20.6196C17.6455 20.8841 17.4308 21.0985 17.1663 21.0985C16.9018 21.0985 16.6875 20.8841 16.6875 20.6196C16.6875 20.3551 16.9018 20.1406 17.1663 20.1406C17.4308 20.1406 17.6455 20.3551 17.6455 20.6196Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Treadmill 1 — outline style variants.
+class _SportTreadmill1Outline {
+  const _SportTreadmill1Outline();
+
+  /// Treadmill 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Treadmill 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.10348 7.4403C9.07248 7.4403 9.0405 7.4403 9.0035 7.4353L4.5725 6.8753C4.47367 6.86432 4.378 6.8338 4.29107 6.78551C4.20414 6.73722 4.12766 6.67213 4.06612 6.59401C4.00459 6.5159 3.95921 6.42632 3.93261 6.3305C3.90601 6.23468 3.89872 6.13453 3.91119 6.03587C3.92365 5.93721 3.95561 5.84202 4.00521 5.75582C4.05481 5.66963 4.12103 5.59416 4.20007 5.53381C4.2791 5.47345 4.36936 5.42942 4.46557 5.40427C4.56178 5.37912 4.66203 5.37335 4.76049 5.3873L9.19149 5.9463C9.38053 5.97035 9.55332 6.06546 9.67477 6.2123C9.79622 6.35914 9.85723 6.5467 9.84539 6.7369C9.83355 6.92709 9.74974 7.10564 9.61102 7.23628C9.47229 7.36693 9.28906 7.43988 9.0985 7.4403H9.10348Z" fill="black"/> <path d="M14.0827 13.7682C13.9688 13.7683 13.8564 13.7425 13.7539 13.6927C13.6514 13.6429 13.5617 13.5705 13.4913 13.4809C13.421 13.3913 13.3719 13.2869 13.3479 13.1755C13.3239 13.0642 13.3256 12.9488 13.3527 12.8382L15.0887 5.79521C15.1347 5.60912 15.2501 5.44767 15.4113 5.34392C15.5725 5.24018 15.7673 5.202 15.9557 5.23721C17.3407 5.50221 18.2557 5.67321 19.3127 2.65221C19.3455 2.55923 19.3964 2.47364 19.4623 2.4003C19.5282 2.32697 19.6079 2.26733 19.6969 2.2248C19.7858 2.18228 19.8823 2.15768 19.9807 2.15243C20.0792 2.14718 20.1777 2.16138 20.2707 2.19421C20.3637 2.22704 20.4493 2.27787 20.5226 2.34378C20.5959 2.40969 20.6556 2.4894 20.6981 2.57836C20.7406 2.66732 20.7652 2.76378 20.7705 2.86224C20.7757 2.9607 20.7615 3.05923 20.7287 3.15221C19.6137 6.33821 18.3117 7.02621 16.3817 6.82121L14.8097 13.2012C14.769 13.3632 14.6753 13.5069 14.5436 13.6096C14.4119 13.7123 14.2497 13.7681 14.0827 13.7682Z" fill="black"/> <path d="M7.94246 11.9814C7.77531 11.9813 7.61299 11.9253 7.48127 11.8224C7.34956 11.7195 7.256 11.5756 7.21544 11.4134L6.01545 6.61343C5.96732 6.42035 5.99784 6.21606 6.10032 6.0455C6.20281 5.87493 6.36889 5.75206 6.56196 5.70393C6.75504 5.65579 6.95933 5.68632 7.1299 5.78881C7.30046 5.8913 7.42331 6.05735 7.47145 6.25043L8.67146 11.0504C8.6954 11.146 8.70026 11.2453 8.68577 11.3427C8.67128 11.4401 8.6377 11.5337 8.58699 11.6182C8.53627 11.7026 8.46941 11.7762 8.39021 11.8348C8.31101 11.8933 8.22103 11.9357 8.12544 11.9594C8.06565 11.9746 8.00415 11.982 7.94246 11.9814Z" fill="black"/> <path d="M9.99133 15.7207H7.94434C7.74542 15.7207 7.55465 15.6417 7.414 15.501C7.27335 15.3604 7.19434 15.1696 7.19434 14.9707C7.19434 14.7718 7.27335 14.581 7.414 14.4404C7.55465 14.2997 7.74542 14.2207 7.94434 14.2207H9.99133C10.1902 14.2207 10.381 14.2997 10.5217 14.4404C10.6623 14.581 10.7413 14.7718 10.7413 14.9707C10.7413 15.1696 10.6623 15.3604 10.5217 15.501C10.381 15.6417 10.1902 15.7207 9.99133 15.7207Z" fill="black"/> <path d="M14.6482 19.0859H7.59617C6.86912 19.0873 6.15336 18.9062 5.51444 18.5592C4.87553 18.2123 4.33389 17.7105 3.93916 17.0999C3.52797 16.4772 3.28595 15.7582 3.23686 15.0135C3.18776 14.2689 3.33329 13.5243 3.65916 12.8529C4.10082 11.9532 4.84661 11.2388 5.76447 10.8361C6.68233 10.4335 7.71306 10.3686 8.67417 10.6529L15.5742 12.6859C16.3299 12.9058 16.9808 13.3913 17.407 14.053C17.8332 14.7146 18.006 15.508 17.8937 16.287C17.7813 17.066 17.3913 17.7782 16.7955 18.2925C16.1997 18.8068 15.4382 19.0886 14.6512 19.0859H14.6482ZM7.47016 11.9859C6.97583 11.9876 6.49109 12.1224 6.06684 12.3761C5.6426 12.6298 5.2945 12.9932 5.05918 13.4279C4.82386 13.8626 4.71 14.3527 4.72953 14.8466C4.74906 15.3406 4.90127 15.8202 5.17017 16.2349C5.42776 16.6482 5.78599 16.9892 6.21134 17.2262C6.6367 17.4632 7.11524 17.5883 7.60215 17.5899H14.6522C15.0771 17.5911 15.4881 17.4388 15.8096 17.1611C16.1312 16.8834 16.3418 16.499 16.4026 16.0785C16.4634 15.658 16.3704 15.2296 16.1407 14.8722C15.911 14.5148 15.56 14.2523 15.1522 14.133L8.25218 12.0999C7.99855 12.0232 7.73515 11.9834 7.47016 11.9819V11.9859Z" fill="black"/> <path d="M5.14992 21.8486C4.90689 21.8486 4.6693 21.7766 4.46721 21.6416C4.26512 21.5066 4.10759 21.3147 4.01454 21.0902C3.92149 20.8657 3.8971 20.6186 3.94444 20.3802C3.99178 20.1419 4.10872 19.9229 4.2805 19.7509C4.45228 19.579 4.67119 19.4619 4.90953 19.4144C5.14787 19.3668 5.39493 19.391 5.61952 19.4839C5.84411 19.5768 6.03612 19.7341 6.17128 19.9361C6.30644 20.1381 6.37869 20.3756 6.37889 20.6186C6.37863 20.9446 6.24909 21.2571 6.01869 21.4877C5.7883 21.7183 5.47588 21.8481 5.14992 21.8486Z" fill="black"/> <path d="M17.1636 21.8486C16.9205 21.8486 16.683 21.7766 16.4809 21.6416C16.2788 21.5066 16.1213 21.3147 16.0282 21.0902C15.9352 20.8657 15.9108 20.6186 15.9581 20.3802C16.0055 20.1419 16.1224 19.9229 16.2942 19.7509C16.466 19.579 16.6849 19.4619 16.9232 19.4144C17.1615 19.3668 17.4086 19.391 17.6332 19.4839C17.8578 19.5768 18.0498 19.7341 18.185 19.9361C18.3201 20.1381 18.3924 20.3756 18.3926 20.6186C18.3923 20.9446 18.2628 21.2571 18.0324 21.4877C17.802 21.7183 17.4895 21.8481 17.1636 21.8486Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Treadmill 1 — bold style variants.
+class _SportTreadmill1Bold {
+  const _SportTreadmill1Bold();
+
+  /// Treadmill 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Treadmill 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.86187 15.7248H7.82187C7.40187 15.7248 7.07187 15.3848 7.07187 14.9748C7.07187 14.5548 7.40187 14.2248 7.82187 14.2248H9.86187C10.2819 14.2248 10.6119 14.5548 10.6119 14.9748C10.6119 15.3848 10.2819 15.7248 9.86187 15.7248ZM20.1419 2.19484C19.7519 2.05484 19.3219 2.26484 19.1819 2.65484C18.1319 5.66484 17.2119 5.49484 15.8319 5.23484C15.4319 5.16484 15.0619 5.40484 14.9619 5.79484L13.3519 12.3348L8.51187 10.9048L7.60187 7.27484L8.88187 7.43484H8.98187C9.35187 7.43484 9.67187 7.16484 9.72187 6.78484C9.77187 6.37484 9.48187 5.99484 9.07187 5.94484L4.64187 5.38484C4.23187 5.33484 3.85187 5.62484 3.80187 6.03484C3.75187 6.44484 4.04187 6.82484 4.45187 6.87484L6.01187 7.07484L6.93187 10.7648C5.60187 10.9048 4.38187 11.6948 3.76187 12.9648C3.14187 14.2248 3.23187 15.7348 4.02187 16.9648C4.79187 18.1348 6.07187 18.8348 7.47187 18.8348H14.5219C15.7619 18.8348 16.8919 18.0648 17.3319 16.9048C17.6419 16.1248 17.6019 15.2448 17.2319 14.4848C16.8619 13.7348 16.1819 13.1648 15.3719 12.9248L14.7919 12.7548L16.2519 6.81484C18.1719 7.01484 19.4919 6.33484 20.6019 3.14484C20.7419 2.75484 20.5319 2.32484 20.1419 2.19484Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.02465 19.3901C4.34665 19.3901 3.79565 19.9411 3.79565 20.6191C3.79565 21.2971 4.34665 21.8481 5.02465 21.8481C5.70265 21.8481 6.25365 21.2971 6.25365 20.6191C6.25365 19.9411 5.70265 19.3901 5.02465 19.3901Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0378 19.3901C16.3608 19.3901 15.8098 19.9411 15.8098 20.6191C15.8098 21.2971 16.3608 21.8481 17.0378 21.8481C17.7158 21.8481 18.2668 21.2971 18.2668 20.6191C18.2668 19.9411 17.7158 19.3901 17.0378 19.3901Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Treadmill 1 — light style variants.
+class _SportTreadmill1Light {
+  const _SportTreadmill1Light();
+
+  /// Treadmill 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Treadmill 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.67383 6.13086L9.10533 6.68995" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.084 13.0177L15.8194 5.97486C17.6387 6.31717 18.8658 6.20562 20.0226 2.90039" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.75 6.43652L7.94617 11.2317" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.94727 14.9707H9.99424" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3635 13.4088L8.46766 11.3758C6.83427 10.8942 5.09128 11.6578 4.33787 13.185C3.79183 14.2918 3.86889 15.6043 4.54068 16.6396L4.57423 16.6913C5.23979 17.7171 6.3794 18.3361 7.60213 18.3361H14.6523C15.6911 18.3361 16.6231 17.6974 16.9979 16.7285C17.5284 15.3569 16.7741 13.8247 15.3635 13.4088Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.15558 20.5943V20.7118M5.63178 20.6196C5.63178 20.8841 5.41718 21.0985 5.15266 21.0985C4.88814 21.0985 4.67383 20.8841 4.67383 20.6196C4.67383 20.3551 4.88814 20.1406 5.15266 20.1406C5.41718 20.1406 5.63178 20.3551 5.63178 20.6196Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1693 20.5943V20.7118M17.6455 20.6196C17.6455 20.8841 17.4308 21.0985 17.1663 21.0985C16.9018 21.0985 16.6875 20.8841 16.6875 20.6196C16.6875 20.3551 16.9018 20.1406 17.1663 20.1406C17.4308 20.1406 17.6455 20.3551 17.6455 20.6196Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.light,
@@ -2636,6 +4340,222 @@ class _SportWeightLight {
 
 }
 
+/// Weight 1 icon with style variants.
+class _SportWeight1Icon {
+  const _SportWeight1Icon();
+
+  /// bold style
+  _SportWeight1Bold get bold => const _SportWeight1Bold();
+  /// bulk style
+  _SportWeight1Bulk get bulk => const _SportWeight1Bulk();
+  /// light style
+  _SportWeight1Light get light => const _SportWeight1Light();
+  /// outline style
+  _SportWeight1Outline get outline => const _SportWeight1Outline();
+  /// twoTone style
+  _SportWeight1Twotone get twoTone => const _SportWeight1Twotone();
+  /// broken style
+  _SportWeight1Broken get broken => const _SportWeight1Broken();
+}
+
+/// Weight 1 — bulk style variants.
+class _SportWeight1Bulk {
+  const _SportWeight1Bulk();
+
+  /// Weight 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Weight 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.8468 8.78461C20.5978 8.53261 15.4928 3.42161 15.1518 3.09161C14.3468 2.31161 13.2198 2.30061 12.4108 3.06461C12.0178 3.43461 11.6368 3.81961 11.2638 4.20961C10.5148 4.98961 10.5268 6.24661 11.2888 7.01261C13.1788 8.90861 15.0718 10.7996 16.9678 12.6916C17.3618 13.0846 17.8778 13.2826 18.3958 13.2826C18.8808 13.2826 19.3678 13.1086 19.7548 12.7576C20.1678 12.3826 20.5628 11.9876 20.9298 11.5836C21.7208 10.7126 21.6888 9.63961 20.8468 8.78461Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.0114 11.2906C6.2454 10.5266 4.9894 10.5146 4.2094 11.2646C3.8194 11.6376 3.4344 12.0186 3.0634 12.4106C2.2994 13.2206 2.3104 14.3476 3.0964 15.1576L8.7834 20.8476C9.2264 21.2826 9.7264 21.5006 10.2274 21.5006C10.6954 21.5006 11.1624 21.3116 11.5834 20.9306C11.9914 20.5596 12.3864 20.1636 12.7574 19.7546C13.4814 18.9556 13.4504 17.7306 12.6894 16.9686C10.7994 15.0726 8.9074 13.1806 7.0114 11.2906Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.85472 17.6279C3.56172 17.3349 3.08672 17.3349 2.79372 17.6279C2.50072 17.9209 2.50072 18.3959 2.79372 18.6889L5.31272 21.2069C5.45872 21.3529 5.65072 21.4259 5.84272 21.4259C6.03472 21.4259 6.22672 21.3529 6.37272 21.2069C6.66572 20.9139 6.66572 20.4389 6.37272 20.1459L3.85472 17.6279Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.1447 6.37395C20.2907 6.51995 20.4827 6.59395 20.6747 6.59395C20.8667 6.59395 21.0587 6.51995 21.2057 6.37395C21.4987 6.08095 21.4987 5.60595 21.2057 5.31295L18.6867 2.79495C18.3947 2.50195 17.9197 2.50195 17.6267 2.79495C17.3337 3.08795 17.3337 3.56295 17.6267 3.85595L20.1447 6.37395Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7737 9.30996C12.7697 9.30596 12.7647 9.30096 12.7597 9.29696C12.5647 9.11496 12.2577 9.11896 12.0667 9.30996L9.38966 11.987C9.19466 12.182 9.19466 12.498 9.38966 12.694C9.39466 12.698 9.39866 12.703 9.40366 12.707L11.3067 14.61C11.4007 14.704 11.5277 14.757 11.6607 14.757C11.7937 14.757 11.9197 14.704 12.0137 14.61L14.6907 11.934C14.7847 11.84 14.8367 11.713 14.8367 11.581C14.8367 11.448 14.7847 11.321 14.6907 11.227L12.7737 9.30996Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Weight 1 — broken style variants.
+class _SportWeight1Broken {
+  const _SportWeight1Broken();
+
+  /// Weight 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Weight 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.8071 3.45201C14.1951 2.85951 13.375 2.84687 12.7572 3.42964C12.3709 3.79448 11.9964 4.17294 11.6276 4.55723C11.0624 5.14682 11.0702 6.08178 11.6471 6.66066C13.5365 8.55588 15.4288 10.4482 17.324 12.3385C17.897 12.9096 18.8213 12.933 19.4216 12.3891C19.8195 12.0282 20.2019 11.6468 20.5628 11.2489C21.1738 10.5756 21.1388 9.79244 20.4937 9.1367C20.3077 8.9477 18.311 6.94839 16.7321 5.37035" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.13743 20.4918C9.79317 21.1368 10.5764 21.1718 11.2496 20.5609C11.6466 20.1999 12.0289 19.8176 12.3899 19.4196C12.9327 18.8194 12.9104 17.8951 12.3383 17.3221C10.4489 15.4268 8.55661 13.5345 6.66139 11.6451C6.08251 11.0682 5.14755 11.0604 4.55796 11.6257C4.17367 11.9944 3.79521 12.369 3.43037 12.7552C2.84662 13.373 2.85927 14.1932 3.45274 14.8051L7.15038 18.5041" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.32812 18.1602L5.84601 20.678" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1602 3.32812L20.678 5.84601" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7024 10.8721C14.0903 12.4843 12.4811 14.0934 10.8398 15.7347M10.8731 15.7024C12.4852 14.0894 14.0944 12.4811 15.7347 10.8398" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.27148 13.1674C9.89332 11.5455 11.5025 9.93635 13.1331 8.30479M13.1654 8.27344C11.5436 9.89527 9.9344 11.5035 8.30284 13.136" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Weight 1 — twoTone style variants.
+class _SportWeight1Twotone {
+  const _SportWeight1Twotone();
+
+  /// Weight 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Weight 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9937 9.13768C21.6388 9.79342 21.6738 10.5766 21.0628 11.2499C20.7019 11.6478 20.3195 12.0292 19.9216 12.3901C19.3213 12.934 18.397 12.9106 17.824 12.3395C15.9288 10.4492 14.0365 8.55686 12.1471 6.66163C11.5702 6.08276 11.5624 5.14779 12.1276 4.55821C12.4964 4.17391 12.8709 3.79545 13.2572 3.43061C13.875 2.84784 14.6951 2.86049 15.3071 3.45299C15.6301 3.76529 20.6921 8.83122 20.9937 9.13768Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.63743 20.4928C10.2932 21.1378 11.0764 21.1728 11.7496 20.5618C12.1466 20.2009 12.5289 19.8185 12.8899 19.4206C13.4327 18.8203 13.4104 17.8961 12.8383 17.323C10.9489 15.4278 9.05661 13.5355 7.16139 11.6461C6.58251 11.0692 5.64755 11.0614 5.05796 11.6267C4.67367 11.9954 4.29521 12.37 3.93037 12.7562C3.34662 13.374 3.35927 14.1942 3.95274 14.8061L9.63743 20.4928Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.82812 18.1611L6.34601 20.679" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M18.6602 3.32812L21.178 5.84601" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.2024 10.8721C14.5903 12.4843 12.9811 14.0934 11.3398 15.7347M11.3731 15.7024C12.9852 14.0894 14.5944 12.4811 16.2347 10.8398" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.77148 13.1664C10.3933 11.5446 12.0025 9.93538 13.6331 8.30381M13.6654 8.27246C12.0436 9.8943 10.4344 11.5025 8.80284 13.135" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Weight 1 — outline style variants.
+class _SportWeight1Outline {
+  const _SportWeight1Outline();
+
+  /// Weight 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Weight 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.6458 13.5348C18.0459 13.5337 17.4707 13.2954 17.0458 12.8718C15.1485 10.9811 13.2555 9.08745 11.3668 7.19078C10.9541 6.77197 10.7204 6.20912 10.7149 5.62115C10.7095 5.03318 10.9329 4.46613 11.3378 4.03978C11.7138 3.64678 12.0978 3.25878 12.4928 2.88578C12.6955 2.68158 12.9371 2.52005 13.2032 2.4107C13.4694 2.30135 13.7547 2.24642 14.0425 2.24912C14.3302 2.25182 14.6144 2.31211 14.8785 2.42644C15.1425 2.54077 15.381 2.70681 15.5798 2.91478C15.9228 3.24678 21.0308 8.35979 21.2798 8.61479C21.4991 8.81089 21.6761 9.04963 21.8001 9.31646C21.924 9.58328 21.9922 9.87256 22.0005 10.1666C22.0088 10.4607 21.9571 10.7534 21.8485 11.0268C21.7399 11.3002 21.5767 11.5486 21.3688 11.7568C20.9914 12.1742 20.5932 12.5724 20.1758 12.9498C19.7564 13.3284 19.2109 13.537 18.6458 13.5348ZM14.0148 3.74978C13.825 3.7577 13.6457 3.83911 13.5148 3.97679C13.1398 4.33279 12.7728 4.70179 12.4148 5.07679C12.2792 5.21948 12.2044 5.40927 12.2061 5.60611C12.2077 5.80294 12.2858 5.99143 12.4238 6.13179C14.3118 8.02579 16.2038 9.91778 18.0998 11.8078C18.2402 11.9474 18.4287 12.0279 18.6267 12.0327C18.8246 12.0375 19.0168 11.9663 19.1638 11.8338C19.5448 11.4888 19.9108 11.1238 20.2528 10.7458C20.3328 10.6782 20.3962 10.5933 20.4382 10.4974C20.4803 10.4015 20.4998 10.2973 20.4952 10.1927C20.4907 10.0882 20.4622 9.98603 20.4121 9.89416C20.3619 9.80229 20.2913 9.72314 20.2058 9.66278C19.8208 9.27278 14.8248 4.27479 14.5318 3.99179C14.3979 3.84639 14.2123 3.75947 14.0148 3.74978Z" fill="black"/> <path d="M10.4779 21.7513C10.1736 21.7434 9.87373 21.6755 9.59559 21.5517C9.31745 21.4278 9.06644 21.2503 8.85694 21.0293L3.17295 15.3423C2.96304 15.144 2.79512 14.9056 2.67921 14.6411C2.56329 14.3767 2.50175 14.0916 2.49821 13.8029C2.49466 13.5141 2.54919 13.2276 2.65858 12.9604C2.76797 12.6932 2.92998 12.4507 3.13496 12.2473C3.50796 11.8473 3.89595 11.4683 4.28895 11.0913C4.71559 10.6865 5.28288 10.4633 5.87101 10.4689C6.45915 10.4745 7.0221 10.7084 7.44096 11.1213C9.33696 13.01 11.2296 14.903 13.1189 16.8003C13.5306 17.2125 13.7682 17.7671 13.7826 18.3494C13.7969 18.9318 13.5869 19.4974 13.196 19.9293C12.814 20.3503 12.4139 20.7513 12.0039 21.1233C11.5925 21.5173 11.0475 21.7416 10.4779 21.7513ZM9.91096 19.9613C9.97163 20.0462 10.0509 20.1161 10.1426 20.1657C10.2344 20.2154 10.3362 20.2434 10.4405 20.2477C10.5447 20.2521 10.6486 20.2326 10.7441 20.1908C10.8397 20.1489 10.9244 20.0858 10.992 20.0063C11.366 19.6683 11.7319 19.3003 12.0809 18.9173C12.2134 18.7703 12.2844 18.578 12.2792 18.3802C12.2739 18.1824 12.193 17.9942 12.053 17.8543C10.1636 15.959 8.27194 14.067 6.37794 12.1783C6.23746 12.0405 6.04904 11.9626 5.85227 11.9609C5.65551 11.9593 5.46576 12.0339 5.32295 12.1693C4.94795 12.5293 4.57794 12.8953 4.22294 13.2693C4.15055 13.3328 4.09285 13.4113 4.05381 13.4993C4.01477 13.5873 3.99534 13.6827 3.99687 13.779C3.99839 13.8753 4.02083 13.9701 4.06263 14.0568C4.10443 14.1435 4.16461 14.2201 4.23896 14.2813L9.91096 19.9613Z" fill="black"/> <path d="M6.09274 21.4292C5.99432 21.4294 5.89683 21.4102 5.80587 21.3726C5.71492 21.335 5.6323 21.2798 5.56274 21.2102L3.04672 18.6922C2.91003 18.5508 2.83435 18.3614 2.83596 18.1647C2.83758 17.9681 2.91636 17.7799 3.05535 17.6408C3.19434 17.5017 3.38242 17.4227 3.57907 17.4209C3.77571 17.4191 3.9652 17.4946 4.10671 17.6312L6.62472 20.1492C6.72948 20.2541 6.80082 20.3877 6.82971 20.5331C6.85859 20.6785 6.84372 20.8292 6.78701 20.9661C6.7303 21.1031 6.63429 21.2202 6.51107 21.3026C6.38786 21.385 6.24296 21.4291 6.09472 21.4292H6.09274Z" fill="black"/> <path d="M20.9248 6.59721C20.8261 6.59747 20.7284 6.57816 20.6373 6.5404C20.5461 6.50264 20.4634 6.44717 20.3938 6.37721L17.8768 3.85821C17.7401 3.71682 17.6644 3.52741 17.666 3.33076C17.6677 3.13411 17.7464 2.94596 17.8854 2.80684C18.0244 2.66772 18.2125 2.58875 18.4091 2.58695C18.6058 2.58514 18.7953 2.66066 18.9368 2.79721L21.4548 5.31521C21.5594 5.42023 21.6306 5.55386 21.6594 5.69927C21.6882 5.84467 21.6733 5.99535 21.6167 6.13233C21.56 6.2693 21.4641 6.38644 21.3409 6.46899C21.2178 6.55154 21.073 6.5958 20.9248 6.59621V6.59721Z" fill="black"/> <path d="M11.0853 16.4856C10.937 16.4854 10.7922 16.4414 10.669 16.3589C10.5457 16.2765 10.4497 16.1594 10.393 16.0225C10.3363 15.8855 10.3214 15.7348 10.3503 15.5894C10.3792 15.444 10.4505 15.3104 10.5553 15.2056L15.4173 10.3426L15.4403 10.3206L15.4503 10.3106C15.5199 10.2409 15.6026 10.1856 15.6937 10.1479C15.7847 10.1102 15.8823 10.0908 15.9808 10.0908C16.0793 10.0908 16.1769 10.1102 16.2679 10.1479C16.3589 10.1856 16.4416 10.2409 16.5113 10.3106C16.5809 10.3802 16.6362 10.4629 16.6739 10.554C16.7116 10.645 16.731 10.7425 16.731 10.8411C16.731 10.9396 16.7116 11.0371 16.6739 11.1282C16.6362 11.2192 16.5809 11.3019 16.5113 11.3716L11.6453 16.2336L11.6213 16.2556L11.6113 16.2656C11.5424 16.335 11.4604 16.3902 11.3702 16.4279C11.2799 16.4657 11.1831 16.4853 11.0853 16.4856Z" fill="black"/> <path d="M8.51651 13.9173C8.36828 13.9169 8.22349 13.8726 8.10037 13.7901C7.97725 13.7075 7.88132 13.5904 7.82465 13.4534C7.76797 13.3164 7.75308 13.1657 7.78189 13.0203C7.8107 12.8749 7.8819 12.7413 7.98651 12.6363L12.8485 7.77529L12.8715 7.75228L12.8805 7.74329C13.0227 7.61081 13.2107 7.53868 13.405 7.54211C13.5993 7.54554 13.7847 7.62425 13.9221 7.76167C14.0596 7.89908 14.1383 8.08446 14.1417 8.27877C14.1451 8.47307 14.073 8.66111 13.9405 8.80329L9.07953 13.6663L9.05551 13.6883L9.04651 13.6973C8.977 13.767 8.89439 13.8224 8.80344 13.8601C8.71248 13.8979 8.61498 13.9173 8.51651 13.9173Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Weight 1 — bold style variants.
+class _SportWeight1Bold {
+  const _SportWeight1Bold();
+
+  /// Weight 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Weight 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.8468 8.78461C20.5978 8.53261 15.4928 3.42161 15.1518 3.09161C14.3468 2.31161 13.2198 2.30061 12.4108 3.06461C12.0178 3.43461 11.6368 3.81961 11.2638 4.20961C10.5148 4.98961 10.5268 6.24661 11.2888 7.01261C13.1788 8.90861 15.0718 10.7996 16.9678 12.6916C17.3618 13.0846 17.8778 13.2826 18.3958 13.2826C18.8808 13.2826 19.3678 13.1086 19.7548 12.7576C20.1678 12.3826 20.5628 11.9876 20.9298 11.5836C21.7208 10.7126 21.6888 9.63961 20.8468 8.78461Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.0114 11.2906C6.2454 10.5266 4.9894 10.5146 4.2094 11.2646C3.8194 11.6376 3.4344 12.0186 3.0634 12.4106C2.2994 13.2206 2.3104 14.3476 3.0964 15.1576L8.7834 20.8476C9.2264 21.2826 9.7264 21.5006 10.2274 21.5006C10.6954 21.5006 11.1624 21.3116 11.5834 20.9306C11.9914 20.5596 12.3864 20.1636 12.7574 19.7546C13.4814 18.9556 13.4504 17.7306 12.6894 16.9686C10.7994 15.0726 8.9074 13.1806 7.0114 11.2906Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.8546 17.628C3.5616 17.335 3.0866 17.335 2.7936 17.628C2.5006 17.921 2.5006 18.396 2.7936 18.689L5.3126 21.207C5.4586 21.353 5.6506 21.426 5.8426 21.426C6.0346 21.426 6.2266 21.353 6.3726 21.207C6.6656 20.914 6.6656 20.439 6.3726 20.146L3.8546 17.628Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.1446 6.37401C20.2906 6.52001 20.4826 6.59401 20.6746 6.59401C20.8666 6.59401 21.0586 6.52001 21.2056 6.37401C21.4986 6.08101 21.4986 5.60601 21.2056 5.31301L18.6866 2.79501C18.3946 2.50201 17.9196 2.50201 17.6266 2.79501C17.3336 3.08801 17.3336 3.56301 17.6266 3.85601L20.1446 6.37401Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7735 9.31002C12.7695 9.30602 12.7645 9.30102 12.7595 9.29702C12.5645 9.11502 12.2575 9.11902 12.0665 9.31002L9.38954 11.987C9.19454 12.182 9.19454 12.498 9.38954 12.694C9.39454 12.698 9.39854 12.703 9.40354 12.707L11.3065 14.61C11.4005 14.704 11.5275 14.757 11.6605 14.757C11.7935 14.757 11.9195 14.704 12.0135 14.61L14.6905 11.934C14.7845 11.84 14.8365 11.713 14.8365 11.581C14.8365 11.448 14.7845 11.321 14.6905 11.227L12.7735 9.31002Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Weight 1 — light style variants.
+class _SportWeight1Light {
+  const _SportWeight1Light();
+
+  /// Weight 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Weight 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.4937 9.13768C21.1388 9.79342 21.1738 10.5766 20.5628 11.2499C20.2019 11.6478 19.8195 12.0292 19.4216 12.3901C18.8213 12.934 17.897 12.9106 17.324 12.3395C15.4288 10.4492 13.5365 8.55686 11.6471 6.66163C11.0702 6.08276 11.0624 5.14779 11.6276 4.55821C11.9964 4.17391 12.3709 3.79545 12.7572 3.43061C13.375 2.84784 14.1951 2.86049 14.8071 3.45299C15.1301 3.76529 20.1921 8.83122 20.4937 9.13768Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.13743 20.4928C9.79317 21.1378 10.5764 21.1728 11.2496 20.5618C11.6466 20.2009 12.0289 19.8185 12.3899 19.4206C12.9327 18.8203 12.9104 17.8961 12.3383 17.323C10.4489 15.4278 8.55661 13.5355 6.66139 11.6461C6.08251 11.0692 5.14755 11.0614 4.55796 11.6267C4.17367 11.9954 3.79521 12.37 3.43037 12.7562C2.84662 13.374 2.85927 14.1942 3.45274 14.8061L9.13743 20.4928Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.32812 18.1611L5.84601 20.679" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.1602 3.32812L20.678 5.84601" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7024 10.8721C14.0903 12.4843 12.4811 14.0934 10.8398 15.7347M10.8731 15.7024C12.4852 14.0894 14.0944 12.4811 15.7347 10.8398" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.27148 13.1664C9.89332 11.5446 11.5025 9.93538 13.1331 8.30381M13.1654 8.27246C11.5436 9.8943 9.9344 11.5025 8.30284 13.135" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Weight 2 icon with style variants.
+class _SportWeight2Icon {
+  const _SportWeight2Icon();
+
+  /// bold style
+  _SportWeight2Bold get bold => const _SportWeight2Bold();
+  /// bulk style
+  _SportWeight2Bulk get bulk => const _SportWeight2Bulk();
+  /// light style
+  _SportWeight2Light get light => const _SportWeight2Light();
+  /// outline style
+  _SportWeight2Outline get outline => const _SportWeight2Outline();
+  /// twoTone style
+  _SportWeight2Twotone get twoTone => const _SportWeight2Twotone();
+  /// broken style
+  _SportWeight2Broken get broken => const _SportWeight2Broken();
+}
+
+/// Weight 2 — bulk style variants.
+class _SportWeight2Bulk {
+  const _SportWeight2Bulk();
+
+  /// Weight 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Weight 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.36362 11.6279C5.75362 11.0189 4.76562 11.0089 4.14262 11.6069C3.73862 11.9959 3.33862 12.3909 2.95262 12.7989C2.33762 13.4519 2.35162 14.3169 2.97662 14.9629C3.19103 15.1851 3.57067 15.5632 3.8091 15.7996C3.92729 15.9168 3.92787 16.1077 3.81025 16.2255L3.17662 16.8599C2.63062 17.4049 2.63062 18.2899 3.17662 18.8359L5.16362 20.8229C5.70762 21.3679 6.59362 21.3679 7.13962 20.8229L7.77285 20.1881C7.89022 20.0705 8.08064 20.0704 8.19792 20.1882C8.42179 20.4129 8.7702 20.762 8.97762 20.9669C9.66962 21.6459 10.4966 21.6829 11.2066 21.0379C11.6266 20.6569 12.0296 20.2549 12.4116 19.8349C12.9856 19.2009 12.9596 18.2249 12.3576 17.6199C10.3626 15.6189 8.36462 13.6219 6.36362 11.6279Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9655 8.97798C20.7613 8.77058 20.4125 8.42263 20.1878 8.19906C20.0701 8.08187 20.07 7.89152 20.1874 7.77405L20.8215 7.13998C21.3675 6.59398 21.3675 5.70898 20.8215 5.16398L18.8355 3.17698C18.2905 2.63098 17.4045 2.63098 16.8595 3.17698L16.226 3.8105C16.1083 3.92818 15.9174 3.92772 15.8001 3.80962C15.5634 3.57119 15.1848 3.19144 14.9625 2.97698C14.3165 2.35198 13.4505 2.33798 12.7985 2.95398C12.3905 3.33898 11.9955 3.73798 11.6065 4.14298C11.0095 4.76598 11.0175 5.75298 11.6265 6.36398C13.6215 8.36498 15.6185 10.363 17.6195 12.357C18.2255 12.961 19.2005 12.986 19.8335 12.412C20.2545 12.031 20.6585 11.626 21.0385 11.207C21.6845 10.497 21.6465 9.66998 20.9655 8.97798Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6846 9.13791C12.5366 8.99291 12.2946 8.99891 12.1486 9.14491C10.7626 10.5309 10.4916 10.8029 9.11763 12.1769C8.96863 12.3259 8.96663 12.5719 9.11763 12.7189L11.3196 14.8679C11.4676 15.0129 11.7046 15.0119 11.8516 14.8649C13.0866 13.6299 14.3556 12.3619 14.8946 11.8229C15.0436 11.6739 15.0386 11.4339 14.8876 11.2869L12.6846 9.13791Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Weight 2 — broken style variants.
+class _SportWeight2Broken {
+  const _SportWeight2Broken();
+
+  /// Weight 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Weight 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.366 17.7238L4.43951 15.7973M5.52351 20.3566C6.04016 20.8733 6.87887 20.8733 7.39552 20.3566L8.19822 19.5539C8.19822 19.5539 8.82969 20.1902 9.13715 20.4928C9.79293 21.1369 10.5762 21.172 11.2495 20.5609C11.6474 20.2 12.0288 19.8185 12.3898 19.4206C12.9337 18.8203 12.9103 17.8959 12.3392 17.3229C10.4487 15.4275 8.55725 13.5351 6.66092 11.6455C6.08297 11.0686 5.14697 11.0598 4.55735 11.6261C4.17399 11.9948 3.79453 12.3694 3.42967 12.7557C2.84685 13.3735 2.8595 14.1938 3.45205 14.8058C3.76437 15.1278 4.44448 15.7992 4.44448 15.7992L3.64178 16.6029C3.12513 17.1195 3.12513 17.9572 3.64178 18.4749L5.52351 20.3566Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7277 6.36743L15.8012 4.44094M20.3582 5.52351C20.8748 6.04016 20.8748 6.87887 20.3582 7.39552L19.5555 8.19822C19.5555 8.19822 20.1918 8.82969 20.4944 9.13715C21.1385 9.79293 21.1745 10.5762 20.5635 11.2495C20.2025 11.6465 19.8201 12.0288 19.4222 12.3898C18.8219 12.9337 17.8975 12.9104 17.3244 12.3382C15.4291 10.4487 13.5366 8.55628 11.6471 6.66092C11.0702 6.082 11.0624 5.14697 11.6277 4.55735C11.9964 4.17302 12.371 3.79453 12.7573 3.42967C13.3751 2.84685 14.1954 2.8595 14.8074 3.45205C15.1304 3.76437 15.8017 4.44448 15.8017 4.44448L16.6044 3.64178C17.1211 3.12415 17.9598 3.12415 18.4764 3.64178L20.3582 5.52351Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.27344 13.1658C9.08282 12.3564 9.8888 11.5502 10.696 10.7427L10.8371 10.6016" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7038 10.8721C14.0915 12.4844 12.4822 14.0937 10.8418 15.7351M10.8732 15.7028C12.4854 14.0896 14.0947 12.4813 15.7361 10.8398" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Weight 2 — twoTone style variants.
+class _SportWeight2Twotone {
+  const _SportWeight2Twotone();
+
+  /// Weight 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Weight 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.866 17.7248L4.93951 15.7983M6.02351 20.3576C6.54016 20.8742 7.37887 20.8742 7.89552 20.3576L8.69822 19.5549C8.69822 19.5549 9.32969 20.1912 9.63715 20.4938C10.2929 21.1379 11.0762 21.1729 11.7495 20.5619C12.1474 20.2009 12.5288 19.8195 12.8898 19.4216C13.4337 18.8213 13.4103 17.8969 12.8392 17.3238C10.9487 15.4285 9.05725 13.536 7.16092 11.6465C6.58297 11.0695 5.64697 11.0608 5.05735 11.6271C4.67399 11.9958 4.29453 12.3704 3.92967 12.7567C3.34685 13.3745 3.3595 14.1947 3.95205 14.8067C4.26437 15.1288 4.94448 15.8002 4.94448 15.8002L4.14178 16.6038C3.62513 17.1205 3.62513 17.9582 4.14178 18.4758L6.02351 20.3576Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2277 6.36743L16.3012 4.44094M20.8582 5.52351C21.3748 6.04016 21.3748 6.87887 20.8582 7.39552L20.0555 8.19822C20.0555 8.19822 20.6918 8.82969 20.9944 9.13715C21.6385 9.79293 21.6745 10.5762 21.0635 11.2495C20.7025 11.6465 20.3201 12.0288 19.9222 12.3898C19.3219 12.9337 18.3975 12.9104 17.8244 12.3382C15.9291 10.4487 14.0366 8.55628 12.1471 6.66092C11.5702 6.082 11.5624 5.14697 12.1277 4.55735C12.4964 4.17302 12.871 3.79453 13.2573 3.42967C13.8751 2.84685 14.6954 2.8595 15.3074 3.45205C15.6304 3.76437 16.3017 4.44448 16.3017 4.44448L17.1044 3.64178C17.6211 3.12415 18.4598 3.12415 18.9764 3.64178L20.8582 5.52351Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.77344 13.1657C10.3954 11.5437 12.0037 9.93442 13.6354 8.30273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.2038 10.8721C14.5915 12.4844 12.9822 14.0937 11.3418 15.7351M11.3732 15.7028C12.9854 14.0896 14.5947 12.4813 16.2361 10.8398" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Weight 2 — outline style variants.
+class _SportWeight2Outline {
+  const _SportWeight2Outline();
+
+  /// Weight 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Weight 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.4832 21.7509C9.86931 21.7344 9.28709 21.4751 8.86416 21.0299C8.75316 20.9209 8.60015 20.7679 8.44915 20.6169L8.17816 20.8879C7.78322 21.265 7.25818 21.4753 6.71216 21.4753C6.16613 21.4753 5.64109 21.265 5.24615 20.8879L3.36416 19.0059C3.17138 18.8135 3.01842 18.585 2.91406 18.3335C2.8097 18.0819 2.75601 17.8123 2.75601 17.5399C2.75601 17.2676 2.8097 16.9979 2.91406 16.7463C3.01842 16.4948 3.17138 16.2663 3.36416 16.0739L3.63415 15.8019C3.46315 15.6309 3.28716 15.4549 3.16516 15.3289C2.95728 15.1301 2.79135 14.8917 2.67712 14.6277C2.56289 14.3637 2.5027 14.0795 2.50009 13.7918C2.49748 13.5042 2.5525 13.2189 2.66192 12.9529C2.77134 12.6869 2.93294 12.4455 3.13717 12.2429C3.51017 11.8429 3.89715 11.4639 4.28915 11.0869C4.71576 10.6813 5.28342 10.4576 5.87204 10.463C6.46065 10.4684 7.02409 10.7026 7.44317 11.1159C9.33917 13.0059 11.2322 14.8993 13.1222 16.7959C13.5342 17.2081 13.772 17.763 13.7861 18.3457C13.8003 18.9284 13.5898 19.4942 13.1982 19.9259C12.8182 20.3439 12.4172 20.7449 12.0042 21.1179C11.5954 21.5135 11.0519 21.7397 10.4832 21.7509ZM8.45218 18.8049C8.55082 18.805 8.64846 18.8247 8.73944 18.8628C8.83042 18.9009 8.91293 18.9567 8.98217 19.0269C8.98217 19.0269 9.61017 19.6599 9.91617 19.9609C9.97639 20.0463 10.0554 20.1168 10.1472 20.1669C10.2389 20.217 10.3409 20.2453 10.4453 20.2498C10.5498 20.2542 10.6538 20.2346 10.7495 20.1925C10.8452 20.1504 10.9299 20.0869 10.9972 20.0069C11.3742 19.6659 11.7412 19.2989 12.0872 18.9179C12.22 18.7711 12.2912 18.5789 12.2862 18.381C12.2812 18.1831 12.2003 17.9948 12.0602 17.8549C10.1702 15.9596 8.27815 14.0672 6.38415 12.1779C6.24363 12.0398 6.05497 11.9617 5.85797 11.96C5.66097 11.9584 5.47101 12.0332 5.32815 12.1689C4.95515 12.5279 4.58418 12.8939 4.22818 13.2689C4.15569 13.3325 4.09788 13.4111 4.05874 13.4992C4.01961 13.5874 4.00007 13.683 4.00149 13.7794C4.00292 13.8758 4.02526 13.9708 4.06698 14.0577C4.10871 14.1446 4.16882 14.2215 4.24316 14.2829C4.55116 14.6009 5.22317 15.2629 5.22317 15.2629L5.25717 15.2999L7.14816 17.1919C7.22185 17.2606 7.28097 17.3434 7.32196 17.4354C7.36295 17.5274 7.38497 17.6267 7.38675 17.7274C7.38852 17.8281 7.36999 17.9281 7.33227 18.0215C7.29455 18.1149 7.23842 18.1997 7.1672 18.271C7.09598 18.3422 7.01114 18.3983 6.91775 18.436C6.82436 18.4738 6.72436 18.4923 6.62365 18.4905C6.52295 18.4887 6.42363 18.4667 6.33163 18.4257C6.23963 18.3847 6.15682 18.3256 6.08816 18.2519L4.69516 16.8579L4.42517 17.1279C4.37156 17.1812 4.32902 17.2445 4.29998 17.3143C4.27095 17.384 4.25601 17.4588 4.25601 17.5344C4.25601 17.61 4.27095 17.6848 4.29998 17.7546C4.32902 17.8243 4.37156 17.8877 4.42517 17.9409L6.30615 19.8229C6.41525 19.9275 6.56054 19.9859 6.71167 19.9859C6.86279 19.9859 7.00806 19.9275 7.11715 19.8229L7.91717 19.0229C7.98751 18.953 8.07101 18.8978 8.16284 18.8603C8.25467 18.8229 8.35302 18.8041 8.45218 18.8049Z" fill="black"/> <path d="M18.6519 13.5348C18.3536 13.535 18.0582 13.4764 17.7827 13.3623C17.5071 13.2482 17.2567 13.0808 17.0459 12.8698C15.1499 10.9798 13.2569 9.08681 11.3669 7.19081C10.9541 6.77182 10.7204 6.20881 10.7149 5.62067C10.7095 5.03253 10.9329 4.46532 11.3379 4.03881C11.7139 3.64581 12.0979 3.25781 12.4929 2.88481C12.6956 2.68061 12.9372 2.51907 13.2033 2.40972C13.4695 2.30038 13.7548 2.24544 14.0425 2.24814C14.3302 2.25084 14.6145 2.31114 14.8785 2.42546C15.1426 2.53979 15.3811 2.70584 15.5799 2.91381C15.7049 3.03481 15.8799 3.21381 16.0539 3.38181L16.3249 3.1118C16.517 2.91835 16.7455 2.76498 16.9974 2.66061C17.2492 2.55624 17.5193 2.50294 17.7919 2.50381C18.0642 2.50304 18.3339 2.55639 18.5854 2.66076C18.8369 2.76514 19.0652 2.91846 19.2569 3.1118L21.1379 4.99381C21.3306 5.18633 21.4834 5.41494 21.5877 5.66657C21.692 5.9182 21.7457 6.18792 21.7457 6.46031C21.7457 6.7327 21.692 7.00242 21.5877 7.25405C21.4834 7.50568 21.3306 7.73429 21.1379 7.92681L20.8669 8.1978C21.0179 8.3478 21.1669 8.4978 21.2789 8.6118C21.4983 8.80782 21.6755 9.04655 21.7994 9.31338C21.9234 9.58021 21.9917 9.86953 22 10.1636C22.0083 10.4578 21.9566 10.7505 21.8479 11.0239C21.7392 11.2973 21.5759 11.5457 21.3679 11.7538C20.9959 12.1648 20.5949 12.5658 20.1759 12.9458C19.7588 13.3247 19.2154 13.5347 18.6519 13.5348ZM14.0199 3.74981C13.8302 3.75736 13.6509 3.8384 13.5199 3.9758C13.1449 4.3318 12.7779 4.70081 12.4199 5.07581C12.2843 5.2185 12.2094 5.40829 12.2111 5.60513C12.2128 5.80197 12.2909 5.99045 12.4289 6.13081C14.3189 8.02481 16.2109 9.9168 18.1049 11.8068C18.2453 11.9463 18.4337 12.0268 18.6315 12.0318C18.8294 12.0369 19.0216 11.966 19.1689 11.8338C19.5519 11.4858 19.9179 11.1198 20.2579 10.7448C20.338 10.6774 20.4015 10.5925 20.4435 10.4966C20.4856 10.4008 20.5051 10.2966 20.5004 10.192C20.4958 10.0874 20.4672 9.98531 20.4168 9.89356C20.3664 9.8018 20.2956 9.72285 20.2099 9.66281C19.9099 9.35681 19.2789 8.73081 19.2779 8.73081C19.2079 8.66112 19.1524 8.5783 19.1145 8.48709C19.0766 8.39588 19.057 8.29808 19.057 8.19931C19.057 8.10054 19.0766 8.00274 19.1145 7.91153C19.1524 7.82032 19.2079 7.73749 19.2779 7.6678L20.0779 6.86781C20.1312 6.81459 20.1735 6.75138 20.2023 6.6818C20.2312 6.61222 20.2461 6.53763 20.2461 6.46231C20.2461 6.38698 20.2312 6.3124 20.2023 6.24282C20.1735 6.17324 20.1312 6.11002 20.0779 6.0568L18.1959 4.17481C18.1428 4.1215 18.0797 4.07921 18.0102 4.05038C17.9407 4.02155 17.8661 4.00675 17.7909 4.00681C17.7155 4.00656 17.6407 4.02128 17.571 4.05011C17.5014 4.07895 17.4381 4.12134 17.3849 4.17481L17.1139 4.4458L18.5079 5.83981C18.6446 5.9812 18.7203 6.17061 18.7187 6.36726C18.717 6.56391 18.6383 6.75206 18.4993 6.89118C18.3603 7.0303 18.1722 7.10926 17.9756 7.11106C17.7789 7.11287 17.5894 7.03736 17.4479 6.90081L15.5589 5.01281L15.5179 4.9748C15.5179 4.9748 14.8539 4.30281 14.5359 3.99481C14.4033 3.84842 14.2182 3.76036 14.0209 3.74981H14.0199Z" fill="black"/> <path d="M8.52433 13.9184C8.3761 13.918 8.23128 13.8738 8.10816 13.7912C7.98504 13.7087 7.88911 13.5915 7.83244 13.4545C7.77576 13.3176 7.7609 13.1669 7.78971 13.0215C7.81852 12.8761 7.88972 12.7424 7.99433 12.6374L12.8553 7.77443C12.996 7.63373 13.1868 7.55469 13.3858 7.55469C13.5848 7.55469 13.7756 7.63373 13.9163 7.77443C14.057 7.91513 14.1361 8.10596 14.1361 8.30493C14.1361 8.50391 14.057 8.69473 13.9163 8.83543L9.05131 13.6984C8.91165 13.8386 8.72218 13.9177 8.52433 13.9184Z" fill="black"/> <path d="M11.0946 16.4859C10.9465 16.4855 10.8018 16.4413 10.6788 16.3589C10.5557 16.2765 10.4598 16.1595 10.403 16.0227C10.3463 15.8859 10.3312 15.7353 10.3598 15.59C10.3884 15.4447 10.4593 15.311 10.5636 15.2059L10.5726 15.1969L10.5946 15.1729L15.4586 10.3099C15.6001 10.1734 15.7896 10.0978 15.9863 10.0996C16.1829 10.1014 16.371 10.1804 16.51 10.3195C16.649 10.4587 16.7278 10.6468 16.7294 10.8435C16.731 11.0401 16.6553 11.2295 16.5186 11.3709L16.5026 11.3869L16.4866 11.4029L11.6256 16.2659C11.556 16.3358 11.4733 16.3912 11.3821 16.4289C11.291 16.4667 11.1933 16.4861 11.0946 16.4859Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Weight 2 — bold style variants.
+class _SportWeight2Bold {
+  const _SportWeight2Bold();
+
+  /// Weight 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Weight 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.36362 11.6279C5.75362 11.0189 4.76562 11.0089 4.14262 11.6069C3.73862 11.9959 3.33862 12.3909 2.95262 12.7989C2.33762 13.4519 2.35162 14.3169 2.97662 14.9629C3.19103 15.1851 3.57067 15.5632 3.8091 15.7996C3.92729 15.9168 3.92787 16.1077 3.81025 16.2255L3.17662 16.8599C2.63062 17.4049 2.63062 18.2899 3.17662 18.8359L5.16362 20.8229C5.70762 21.3679 6.59362 21.3679 7.13962 20.8229L7.77285 20.1881C7.89022 20.0705 8.08064 20.0704 8.19792 20.1882C8.42179 20.4129 8.7702 20.762 8.97762 20.9669C9.66962 21.6459 10.4966 21.6829 11.2066 21.0379C11.6266 20.6569 12.0296 20.2549 12.4116 19.8349C12.9856 19.2009 12.9596 18.2249 12.3576 17.6199C10.3626 15.6189 8.36462 13.6219 6.36362 11.6279Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.9655 8.97798C20.7613 8.77058 20.4125 8.42263 20.1878 8.19906C20.0701 8.08187 20.07 7.89152 20.1874 7.77405L20.8215 7.13998C21.3675 6.59398 21.3675 5.70898 20.8215 5.16398L18.8355 3.17698C18.2905 2.63098 17.4045 2.63098 16.8595 3.17698L16.226 3.8105C16.1083 3.92818 15.9174 3.92772 15.8001 3.80962C15.5634 3.57119 15.1848 3.19144 14.9625 2.97698C14.3165 2.35198 13.4505 2.33798 12.7985 2.95398C12.3905 3.33898 11.9955 3.73798 11.6065 4.14298C11.0095 4.76598 11.0175 5.75298 11.6265 6.36398C13.6215 8.36498 15.6185 10.363 17.6195 12.357C18.2255 12.961 19.2005 12.986 19.8335 12.412C20.2545 12.031 20.6585 11.626 21.0385 11.207C21.6845 10.497 21.6465 9.66998 20.9655 8.97798Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6848 9.13809C12.5368 8.99309 12.2948 8.99909 12.1488 9.14509C10.7628 10.5311 10.4918 10.8031 9.11775 12.1771C8.96875 12.3261 8.96675 12.5721 9.11775 12.7191L11.3197 14.8681C11.4677 15.0131 11.7048 15.0121 11.8518 14.8651C13.0868 13.6301 14.3557 12.3621 14.8947 11.8231C15.0437 11.6741 15.0387 11.4341 14.8877 11.2871L12.6848 9.13809Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Weight 2 — light style variants.
+class _SportWeight2Light {
+  const _SportWeight2Light();
+
+  /// Weight 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Weight 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.366 17.7248L4.43951 15.7983M5.52351 20.3576C6.04016 20.8742 6.87887 20.8742 7.39552 20.3576L8.19822 19.5549C8.19822 19.5549 8.82969 20.1912 9.13715 20.4938C9.79293 21.1379 10.5762 21.1729 11.2495 20.5619C11.6474 20.2009 12.0288 19.8195 12.3898 19.4216C12.9337 18.8213 12.9103 17.8969 12.3392 17.3238C10.4487 15.4285 8.55725 13.536 6.66092 11.6465C6.08297 11.0695 5.14697 11.0608 4.55735 11.6271C4.17399 11.9958 3.79453 12.3704 3.42967 12.7567C2.84685 13.3745 2.8595 14.1947 3.45205 14.8067C3.76437 15.1288 4.44448 15.8002 4.44448 15.8002L3.64178 16.6038C3.12513 17.1205 3.12513 17.9582 3.64178 18.4758L5.52351 20.3576Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7277 6.36743L15.8012 4.44094M20.3582 5.52351C20.8748 6.04016 20.8748 6.87887 20.3582 7.39552L19.5555 8.19822C19.5555 8.19822 20.1918 8.82969 20.4944 9.13715C21.1385 9.79293 21.1745 10.5762 20.5635 11.2495C20.2025 11.6465 19.8201 12.0288 19.4222 12.3898C18.8219 12.9337 17.8975 12.9104 17.3244 12.3382C15.4291 10.4487 13.5366 8.55628 11.6471 6.66092C11.0702 6.082 11.0624 5.14697 11.6277 4.55735C11.9964 4.17302 12.371 3.79453 12.7573 3.42967C13.3751 2.84685 14.1954 2.8595 14.8074 3.45205C15.1304 3.76437 15.8017 4.44448 15.8017 4.44448L16.6044 3.64178C17.1211 3.12415 17.9598 3.12415 18.4764 3.64178L20.3582 5.52351Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.27344 13.1657C9.89539 11.5437 11.5037 9.93442 13.1354 8.30273" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7038 10.8721C14.0915 12.4844 12.4822 14.0937 10.8418 15.7351M10.8732 15.7028C12.4854 14.0896 14.0947 12.4813 15.7361 10.8398" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
 /// Run icon with style variants.
 class _SportRunIcon {
   const _SportRunIcon();
@@ -2761,7 +4681,7 @@ class _SportFootballTwotone {
   /// Football — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Football',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5 21C7.52944 21 3.5 16.9706 3.5 12C3.5 7.02944 7.52944 3 12.5 3C17.4706 3 21.5 7.02944 21.5 12C21.5 16.9706 17.4706 21 12.5 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.223 6.7207L6.60105 10.0525L3.54297 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.5 3.5L12.5 5.5L15.5 3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.2269 20.6633L9.21195 17.2035L5.0957 16.9658" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.8867 20.6633L15.9016 17.2035L20.0179 16.9658" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.7999 6.7207L18.4219 10.0525L21.48 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 9L9.5 11L10.5 15H14.5L15.5 11L12.5 9Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5 21C7.52944 21 3.5 16.9706 3.5 12C3.5 7.02944 7.52944 3 12.5 3C17.4706 3 21.5 7.02944 21.5 12C21.5 16.9706 17.4706 21 12.5 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.5 9L9.5 11L10.5 15H14.5L15.5 11L12.5 9Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.5 15L9.20605 17.203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.498 15.0098L15.9124 17.203" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.498 9V5.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.49974 10.9997L6.60938 10.1104" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.5 11L18.422 10.0527" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.223 6.7207L6.60105 10.0525L3.54297 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.5 3.5L12.5 5.5L15.5 3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.7999 6.7207L18.4219 10.0525L21.48 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.8867 20.6633L15.9016 17.2035L20.0179 16.9658" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.2269 20.6633L9.21195 17.2035L5.0957 16.9658" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -2776,6 +4696,46 @@ class _SportFootballOutline {
   /// Football — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Football',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.5 12C2.5 6.61522 6.86522 2.25 12.25 2.25C17.6348 2.25 22 6.61522 22 12C22 17.3848 17.6348 21.75 12.25 21.75C6.86522 21.75 2.5 17.3848 2.5 12ZM12.25 3.75C7.69365 3.75 4 7.44365 4 12C4 16.5563 7.69365 20.25 12.25 20.25C16.8063 20.25 20.5 16.5563 20.5 12C20.5 7.44365 16.8063 3.75 12.25 3.75Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.834 8.37596C12.0859 8.20801 12.4141 8.20801 12.6661 8.37596L15.6661 10.376C15.9298 10.5518 16.0545 10.8744 15.9777 11.1819L14.9777 15.1819C14.8942 15.5158 14.5942 15.75 14.25 15.75H10.25C9.9059 15.75 9.60591 15.5158 9.52244 15.1819L8.52244 11.1819C8.44557 10.8744 8.57029 10.5518 8.83402 10.376L11.834 8.37596ZM10.1058 11.3309L10.8356 14.25H13.6645L14.3942 11.3309L12.25 9.90139L10.1058 11.3309Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.629 14.3534C10.9861 14.5632 11.1056 15.0228 10.8958 15.38L9.6019 17.583C9.39212 17.9401 8.93253 18.0596 8.57536 17.8498C8.2182 17.6401 8.09872 17.1805 8.3085 16.8233L9.60243 14.6203C9.81221 14.2631 10.2718 14.1436 10.629 14.3534Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8417 14.3796C14.1898 14.1551 14.654 14.2553 14.8784 14.6034L16.2928 16.7966C16.5173 17.1447 16.4171 17.6089 16.069 17.8334C15.7209 18.0579 15.2567 17.9577 15.0322 17.6096L13.6178 15.4163C13.3933 15.0682 13.4936 14.604 13.8417 14.3796Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.248 4.75C12.6623 4.75 12.998 5.08579 12.998 5.5V9C12.998 9.41421 12.6623 9.75 12.248 9.75C11.8338 9.75 11.498 9.41421 11.498 9V5.5C11.498 5.08579 11.8338 4.75 12.248 4.75Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.64274 9.88999C5.76455 9.49409 6.18424 9.2719 6.58014 9.39372L9.4705 10.2831C9.8664 10.4049 10.0886 10.8246 9.96677 11.2205C9.84496 11.6164 9.42527 11.8385 9.02938 11.7167L6.13901 10.8274C5.74311 10.7056 5.52093 10.2859 5.64274 9.88999Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.8856 9.82165C19.0134 10.2157 18.7975 10.6387 18.4035 10.7664L15.4815 11.7136C15.0875 11.8414 14.6645 11.6255 14.5368 11.2315C14.409 10.8374 14.6249 10.4145 15.0189 10.2867L17.9409 9.33949C18.3349 9.21175 18.7579 9.42763 18.8856 9.82165Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.68635 6.02784C5.06912 5.86953 5.50775 6.05148 5.66606 6.43425L7.04412 9.76606C7.16526 10.059 7.0892 10.3964 6.85411 10.609L3.79603 13.3745C3.48881 13.6523 3.01453 13.6285 2.7367 13.3213C2.45888 13.0141 2.4827 12.5398 2.78992 12.262L5.45599 9.85095L4.27995 7.00755C4.12163 6.62479 4.30359 6.18615 4.68635 6.02784Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.62604 3.08405C8.85581 2.73941 9.32146 2.64628 9.6661 2.87604L12.2501 4.59869L14.8341 2.87604C15.1787 2.64628 15.6444 2.73941 15.8741 3.08405C16.1039 3.4287 16.0108 3.89435 15.6661 4.12412L12.6661 6.12412C12.4142 6.29207 12.086 6.29207 11.8341 6.12412L8.83405 4.12412C8.48941 3.89435 8.39628 3.4287 8.62604 3.08405Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.8366 6.02784C20.2194 6.18615 20.4013 6.62479 20.243 7.00755L19.067 9.85095L21.733 12.262C22.0403 12.5398 22.0641 13.0141 21.7863 13.3213C21.5084 13.6285 21.0342 13.6523 20.7269 13.3745L17.6689 10.609C17.4338 10.3964 17.3577 10.059 17.4788 9.76606L18.8569 6.43425C19.0152 6.05148 19.4538 5.86953 19.8366 6.02784Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.5168 16.9226C20.5407 17.3361 20.2248 17.6907 19.8113 17.7146L16.2227 17.9218L15.3566 20.8744C15.24 21.2719 14.8233 21.4996 14.4258 21.383C14.0283 21.2664 13.8006 20.8496 13.9172 20.4522L14.9322 16.9924C15.0214 16.6883 15.2922 16.473 15.6086 16.4548L19.7248 16.2171C20.1384 16.1932 20.493 16.5091 20.5168 16.9226Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.09697 16.9226C4.12085 16.5091 4.47544 16.1932 4.88896 16.2171L9.00521 16.4548C9.32164 16.473 9.59243 16.6883 9.68165 16.9924L10.6966 20.4522C10.8132 20.8496 10.5855 21.2664 10.188 21.383C9.79055 21.4996 9.37382 21.2719 9.25722 20.8744L8.39108 17.9218L4.80249 17.7146C4.38897 17.6907 4.07309 17.3361 4.09697 16.9226Z" fill="black"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Football 1 icon with style variants.
+class _SportFootball1Icon {
+  const _SportFootball1Icon();
+
+  /// outline style
+  _SportFootball1Outline get outline => const _SportFootball1Outline();
+  /// twoTone style
+  _SportFootball1Twotone get twoTone => const _SportFootball1Twotone();
+}
+
+/// Football 1 — twoTone style variants.
+class _SportFootball1Twotone {
+  const _SportFootball1Twotone();
+
+  /// Football 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Football 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5 21C7.52944 21 3.5 16.9706 3.5 12C3.5 7.02944 7.52944 3 12.5 3C17.4706 3 21.5 7.02944 21.5 12C21.5 16.9706 17.4706 21 12.5 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.223 6.7207L6.60105 10.0525L3.54297 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.5 3.5L12.5 5.5L15.5 3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.2269 20.6633L9.21195 17.2035L5.0957 16.9658" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.8867 20.6633L15.9016 17.2035L20.0179 16.9658" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M19.7999 6.7207L18.4219 10.0525L21.48 12.818" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 9L9.5 11L10.5 15H14.5L15.5 11L12.5 9Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Sport',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Football 1 — outline style variants.
+class _SportFootball1Outline {
+  const _SportFootball1Outline();
+
+  /// Football 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Football 1',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.5 12C2.5 6.61522 6.86522 2.25 12.25 2.25C17.6348 2.25 22 6.61522 22 12C22 17.3848 17.6348 21.75 12.25 21.75C6.86522 21.75 2.5 17.3848 2.5 12ZM12.25 3.75C7.69365 3.75 4 7.44365 4 12C4 16.5563 7.69365 20.25 12.25 20.25C16.8063 20.25 20.5 16.5563 20.5 12C20.5 7.44365 16.8063 3.75 12.25 3.75Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.68635 6.02784C5.06912 5.86953 5.50775 6.05148 5.66606 6.43425L7.04412 9.76606C7.16526 10.059 7.0892 10.3964 6.85411 10.609L3.79603 13.3745C3.48881 13.6523 3.01453 13.6285 2.7367 13.3213C2.45888 13.0141 2.4827 12.5398 2.78992 12.262L5.45599 9.85095L4.27995 7.00755C4.12163 6.62479 4.30359 6.18615 4.68635 6.02784Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.62604 3.08405C8.85581 2.73941 9.32146 2.64628 9.6661 2.87604L12.2501 4.59869L14.8341 2.87604C15.1787 2.64628 15.6444 2.73941 15.8741 3.08405C16.1039 3.4287 16.0108 3.89435 15.6661 4.12412L12.6661 6.12412C12.4142 6.29207 12.086 6.29207 11.8341 6.12412L8.83405 4.12412C8.48941 3.89435 8.39628 3.4287 8.62604 3.08405Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.09697 16.9226C4.12085 16.5091 4.47544 16.1932 4.88896 16.2171L9.00521 16.4548C9.32164 16.473 9.59243 16.6883 9.68165 16.9924L10.6966 20.4522C10.8132 20.8496 10.5855 21.2664 10.188 21.383C9.79055 21.4996 9.37382 21.2719 9.25722 20.8744L8.39108 17.9218L4.80249 17.7146C4.38897 17.6907 4.07309 17.3361 4.09697 16.9226Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.5168 16.9226C20.5407 17.3361 20.2248 17.6907 19.8113 17.7146L16.2227 17.9218L15.3566 20.8744C15.24 21.2719 14.8233 21.4996 14.4258 21.383C14.0283 21.2664 13.8006 20.8496 13.9172 20.4522L14.9322 16.9924C15.0214 16.6883 15.2922 16.473 15.6086 16.4548L19.7248 16.2171C20.1384 16.1932 20.493 16.5091 20.5168 16.9226Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.8366 6.02784C20.2194 6.18615 20.4013 6.62479 20.243 7.00755L19.067 9.85095L21.733 12.262C22.0403 12.5398 22.0641 13.0141 21.7863 13.3213C21.5084 13.6285 21.0342 13.6523 20.7269 13.3745L17.6689 10.609C17.4338 10.3964 17.3577 10.059 17.4788 9.76606L18.8569 6.43425C19.0152 6.05148 19.4538 5.86953 19.8366 6.02784Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.834 8.37596C12.0859 8.20801 12.4141 8.20801 12.6661 8.37596L15.6661 10.376C15.9298 10.5518 16.0545 10.8744 15.9777 11.1819L14.9777 15.1819C14.8942 15.5158 14.5942 15.75 14.25 15.75H10.25C9.9059 15.75 9.60591 15.5158 9.52244 15.1819L8.52244 11.1819C8.44557 10.8744 8.57029 10.5518 8.83402 10.376L11.834 8.37596ZM10.1058 11.3309L10.8356 14.25H13.6645L14.3942 11.3309L12.25 9.90139L10.1058 11.3309Z" fill="black"/> </svg>',
     category: 'Sport',
     style: IconfyStyle.outline,

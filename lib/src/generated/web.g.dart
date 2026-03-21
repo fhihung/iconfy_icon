@@ -14,6 +14,10 @@ class _WebIcons {
   _WebWorldNetworkEditIcon get worldNetworkEdit => const _WebWorldNetworkEditIcon();
   /// Web page refresh
   _WebWebPageRefreshIcon get webPageRefresh => const _WebWebPageRefreshIcon();
+  /// Web page refresh 1
+  _WebWebPageRefresh1Icon get webPageRefresh1 => const _WebWebPageRefresh1Icon();
+  /// Web page refresh 2
+  _WebWebPageRefresh2Icon get webPageRefresh2 => const _WebWebPageRefresh2Icon();
   /// World Network star
   _WebWorldNetworkStarIcon get worldNetworkStar => const _WebWorldNetworkStarIcon();
   /// World Network location
@@ -32,6 +36,12 @@ class _WebIcons {
   _WebWorldNetworkRefreshIcon get worldNetworkRefresh => const _WebWorldNetworkRefreshIcon();
   /// Web page
   _WebWebPageIcon get webPage => const _WebWebPageIcon();
+  /// Web page 1
+  _WebWebPage1Icon get webPage1 => const _WebWebPage1Icon();
+  /// Web page 2
+  _WebWebPage2Icon get webPage2 => const _WebWebPage2Icon();
+  /// Web page 3
+  _WebWebPage3Icon get webPage3 => const _WebWebPage3Icon();
   /// Web page Sort
   _WebWebPageSortIcon get webPageSort => const _WebWebPageSortIcon();
   /// Web page block
@@ -48,6 +58,36 @@ class _WebIcons {
   _WebWebPageGridIcon get webPageGrid => const _WebWebPageGridIcon();
   /// World Network
   _WebWorldNetworkIcon get worldNetwork => const _WebWorldNetworkIcon();
+  /// World Network 1
+  _WebWorldNetwork1Icon get worldNetwork1 => const _WebWorldNetwork1Icon();
+  /// World Network 2
+  _WebWorldNetwork2Icon get worldNetwork2 => const _WebWorldNetwork2Icon();
+  /// World Network 3
+  _WebWorldNetwork3Icon get worldNetwork3 => const _WebWorldNetwork3Icon();
+  /// World Network 4
+  _WebWorldNetwork4Icon get worldNetwork4 => const _WebWorldNetwork4Icon();
+  /// World Network 5
+  _WebWorldNetwork5Icon get worldNetwork5 => const _WebWorldNetwork5Icon();
+  /// World Network 6
+  _WebWorldNetwork6Icon get worldNetwork6 => const _WebWorldNetwork6Icon();
+  /// World Network 7
+  _WebWorldNetwork7Icon get worldNetwork7 => const _WebWorldNetwork7Icon();
+  /// World Network 8
+  _WebWorldNetwork8Icon get worldNetwork8 => const _WebWorldNetwork8Icon();
+  /// World Network 9
+  _WebWorldNetwork9Icon get worldNetwork9 => const _WebWorldNetwork9Icon();
+  /// World Network 10
+  _WebWorldNetwork10Icon get worldNetwork10 => const _WebWorldNetwork10Icon();
+  /// World Network 11
+  _WebWorldNetwork11Icon get worldNetwork11 => const _WebWorldNetwork11Icon();
+  /// World Network 12
+  _WebWorldNetwork12Icon get worldNetwork12 => const _WebWorldNetwork12Icon();
+  /// World Network 13
+  _WebWorldNetwork13Icon get worldNetwork13 => const _WebWorldNetwork13Icon();
+  /// World Network 14
+  _WebWorldNetwork14Icon get worldNetwork14 => const _WebWorldNetwork14Icon();
+  /// World Network 15
+  _WebWorldNetwork15Icon get worldNetwork15 => const _WebWorldNetwork15Icon();
   /// Web page close remove
   _WebWebPageCloseRemoveIcon get webPageCloseRemove => const _WebWebPageCloseRemoveIcon();
   /// Web page loading
@@ -58,6 +98,8 @@ class _WebIcons {
   _WebWebPageSearchIcon get webPageSearch => const _WebWebPageSearchIcon();
   /// Web page analyze
   _WebWebPageAnalyzeIcon get webPageAnalyze => const _WebWebPageAnalyzeIcon();
+  /// Web page analyze 1
+  _WebWebPageAnalyze1Icon get webPageAnalyze1 => const _WebWebPageAnalyze1Icon();
   /// World Network time
   _WebWorldNetworkTimeIcon get worldNetworkTime => const _WebWorldNetworkTimeIcon();
   /// Web page check
@@ -70,12 +112,54 @@ class _WebIcons {
   _WebNetworkSearchIcon get networkSearch => const _WebNetworkSearchIcon();
   /// Network
   _WebNetworkIcon get network => const _WebNetworkIcon();
+  /// Network  1
+  _WebNetwork1Icon get network1 => const _WebNetwork1Icon();
+  /// Network  2
+  _WebNetwork2Icon get network2 => const _WebNetwork2Icon();
+  /// Network  3
+  _WebNetwork3Icon get network3 => const _WebNetwork3Icon();
   /// Network refresh
   _WebNetworkRefreshIcon get networkRefresh => const _WebNetworkRefreshIcon();
   /// Network world
   _WebNetworkWorldIcon get networkWorld => const _WebNetworkWorldIcon();
+  /// Network world  1
+  _WebNetworkWorld1Icon get networkWorld1 => const _WebNetworkWorld1Icon();
+  /// Network world  2
+  _WebNetworkWorld2Icon get networkWorld2 => const _WebNetworkWorld2Icon();
+  /// Network world  3
+  _WebNetworkWorld3Icon get networkWorld3 => const _WebNetworkWorld3Icon();
+  /// Network world  4
+  _WebNetworkWorld4Icon get networkWorld4 => const _WebNetworkWorld4Icon();
+  /// Network world  5
+  _WebNetworkWorld5Icon get networkWorld5 => const _WebNetworkWorld5Icon();
+  /// Network world  6
+  _WebNetworkWorld6Icon get networkWorld6 => const _WebNetworkWorld6Icon();
+  /// Network world  7
+  _WebNetworkWorld7Icon get networkWorld7 => const _WebNetworkWorld7Icon();
+  /// Network world  8
+  _WebNetworkWorld8Icon get networkWorld8 => const _WebNetworkWorld8Icon();
+  /// Network world  9
+  _WebNetworkWorld9Icon get networkWorld9 => const _WebNetworkWorld9Icon();
+  /// Network world  10
+  _WebNetworkWorld10Icon get networkWorld10 => const _WebNetworkWorld10Icon();
+  /// Network world  11
+  _WebNetworkWorld11Icon get networkWorld11 => const _WebNetworkWorld11Icon();
+  /// Network world  12
+  _WebNetworkWorld12Icon get networkWorld12 => const _WebNetworkWorld12Icon();
+  /// Network world  13
+  _WebNetworkWorld13Icon get networkWorld13 => const _WebNetworkWorld13Icon();
+  /// Network world  14
+  _WebNetworkWorld14Icon get networkWorld14 => const _WebNetworkWorld14Icon();
+  /// Network world  15
+  _WebNetworkWorld15Icon get networkWorld15 => const _WebNetworkWorld15Icon();
   /// Cloud Network
   _WebCloudNetworkIcon get cloudNetwork => const _WebCloudNetworkIcon();
+  /// Cloud Network  1
+  _WebCloudNetwork1Icon get cloudNetwork1 => const _WebCloudNetwork1Icon();
+  /// Cloud Network  2
+  _WebCloudNetwork2Icon get cloudNetwork2 => const _WebCloudNetwork2Icon();
+  /// Cloud Network  3
+  _WebCloudNetwork3Icon get cloudNetwork3 => const _WebCloudNetwork3Icon();
   /// World time
   _WebWorldTimeIcon get worldTime => const _WebWorldTimeIcon();
   /// Favourite Network
@@ -367,6 +451,222 @@ class _WebWebPageRefreshLight {
   IconfyIconData get regular => const IconfyIconData(
     name: 'Web page refresh',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.7488 12.7733V7.88616C20.7488 5.02219 18.966 3 16.1001 3H7.89973C5.04238 3 3.25098 5.02219 3.25098 7.88616V15.6108C3.25098 18.4747 5.03387 20.4979 7.89973 20.4979H9.60128" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.1255 16.0831H13.248V14.2161" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.3767 19.3638C13.9716 20.3446 15.0489 21.0001 16.2794 21.0001C18.1531 21.0001 19.6721 19.482 19.6721 17.6083C19.6721 15.7346 18.1531 14.2166 16.2794 14.2166C14.9543 14.2166 13.8061 14.9761 13.248 16.0846" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.50313 6.45044H6.44922M8.91943 6.45044H8.86552M11.3367 6.45044H11.2827" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.7498 9.31006H3.25195" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page refresh 1 icon with style variants.
+class _WebWebPageRefresh1Icon {
+  const _WebWebPageRefresh1Icon();
+
+  /// bold style
+  _WebWebPageRefresh1Bold get bold => const _WebWebPageRefresh1Bold();
+  /// bulk style
+  _WebWebPageRefresh1Bulk get bulk => const _WebWebPageRefresh1Bulk();
+  /// light style
+  _WebWebPageRefresh1Light get light => const _WebWebPageRefresh1Light();
+  /// outline style
+  _WebWebPageRefresh1Outline get outline => const _WebWebPageRefresh1Outline();
+  /// twoTone style
+  _WebWebPageRefresh1Twotone get twoTone => const _WebWebPageRefresh1Twotone();
+  /// broken style
+  _WebWebPageRefresh1Broken get broken => const _WebWebPageRefresh1Broken();
+}
+
+/// Web page refresh 1 — bulk style variants.
+class _WebWebPageRefresh1Bulk {
+  const _WebWebPageRefresh1Bulk();
+
+  /// Web page refresh 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.78337 2.5C6.18992 2.5 4.85658 3.06751 3.92403 4.0677C2.99509 5.06401 2.50049 6.44971 2.50049 8.02611V8.74219H21.4995V8.02611C21.4995 6.4504 21.0078 5.06463 20.08 4.06799C19.1485 3.06731 17.8151 2.5 16.2176 2.5H7.78337Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.50049 15.9729V10.2422H21.4995V15.9729C21.4995 17.5486 21.0078 18.9344 20.0799 19.9311C19.1483 20.9318 17.8146 21.4991 16.2167 21.4991H7.78337C6.18587 21.4991 4.85226 20.9317 3.92052 19.9311C2.99253 18.9345 2.50049 17.5487 2.50049 15.9729Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.28955 5.80078C5.87534 5.80078 5.53955 6.13657 5.53955 6.55078C5.53955 6.96499 5.87534 7.30078 6.28955 7.30078H6.34501C6.75922 7.30078 7.09501 6.96499 7.09501 6.55078C7.09501 6.13657 6.75922 5.80078 6.34501 5.80078H6.28955ZM8.77506 5.80078C8.36085 5.80078 8.02506 6.13657 8.02506 6.55078C8.02506 6.96499 8.36085 7.30078 8.77506 7.30078H8.83052C9.24473 7.30078 9.58052 6.96499 9.58052 6.55078C9.58052 6.13657 9.24473 5.80078 8.83052 5.80078H8.77506ZM11.2615 5.80078C10.8473 5.80078 10.5115 6.13657 10.5115 6.55078C10.5115 6.96499 10.8473 7.30078 11.2615 7.30078H11.317C11.7312 7.30078 12.067 6.96499 12.067 6.55078C12.067 6.13657 11.7312 5.80078 11.317 5.80078H11.2615Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.6624 12.248C15.0766 12.248 15.4124 12.5838 15.4124 12.998V14.712C15.4226 14.9768 15.2918 15.2389 15.0485 15.3848C14.8922 15.4785 14.7155 15.5087 14.5485 15.4829H12.9275C12.5133 15.4829 12.1775 15.1471 12.1775 14.7329C12.1775 14.4305 12.3565 14.1699 12.6143 14.0512C12.3848 13.9761 12.1281 13.9299 11.8435 13.9299C11.07 13.9299 10.4039 14.3432 10.0474 14.9662C9.84163 15.3256 9.38341 15.4503 9.02391 15.2445C8.66441 15.0388 8.53978 14.5806 8.74553 14.2211C9.36134 13.1451 10.5162 12.4299 11.8435 12.4299C12.6907 12.4299 13.3817 12.6876 13.9124 13.0086V12.998C13.9124 12.5838 14.2482 12.248 14.6624 12.248ZM8.58704 17.2404C8.58704 16.8262 8.92282 16.4904 9.33704 16.4904H11.0719C11.4861 16.4904 11.8219 16.8262 11.8219 17.2404C11.8219 17.5799 11.5963 17.8667 11.2869 17.9591C11.4627 18.023 11.649 18.0602 11.8442 18.0602C12.6079 18.0602 13.2762 17.6476 13.6329 17.0302C13.8401 16.6716 14.2988 16.5489 14.6575 16.7561C15.0161 16.9633 15.1389 17.4221 14.9316 17.7807C14.316 18.8462 13.1615 19.5602 11.8442 19.5602C11.1352 19.5602 10.5373 19.3169 10.0691 19.0178C9.99447 19.3533 9.69504 19.6041 9.33704 19.6041C8.92282 19.6041 8.58704 19.2683 8.58704 18.8541V17.2404Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page refresh 1 — broken style variants.
+class _WebWebPageRefresh1Broken {
+  const _WebWebPageRefresh1Broken();
+
+  /// Web page refresh 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9998 12.0816V8.0273C20.9998 5.08117 19.1658 3 16.2177 3H7.78212C4.84279 3 3 5.08117 3 8.0273V12.6391" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 15.9727C3 18.9188 4.83404 20.999 7.78212 20.999H9.53248" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.34452 6.55078H6.28906M8.83014 6.55078H8.77468M11.3158 6.55078H11.2603" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.2917 9.49219H2.99976" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4141 16.3791C14.9414 15.4577 15.929 14.8457 17.0683 14.8457C19.1106 14.8457 20.1263 16.5396 20.1263 16.5396" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.7136 19.4291C19.1862 20.3417 18.1977 20.9527 17.069 20.9527C15.3848 20.9527 14.3496 19.2598 14.3496 19.2598" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2313 19.25H14.3496V21.0004" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.1259 14.6484V16.5302H18.2441" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page refresh 1 — twoTone style variants.
+class _WebWebPageRefresh1Twotone {
+  const _WebWebPageRefresh1Twotone();
+
+  /// Web page refresh 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page refresh 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.4998 12.0816V8.0273C21.4998 5.08117 19.6658 3 16.7177 3H8.28212C5.34279 3 3.5 5.08117 3.5 8.0273V15.9735C3.5 18.9196 5.33404 20.9998 8.28212 20.9998H10.0325" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7313 19.25H14.8496V21.0004" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6259 14.6479V16.5297H18.7441" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.84452 6.5498H6.78906M9.33014 6.5498H9.27468M11.8158 6.5498H11.7603" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.4998 9.49121H3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.9141 16.3791C15.4414 15.4577 16.429 14.8457 17.5683 14.8457C19.6106 14.8457 20.6263 16.5396 20.6263 16.5396" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M20.2136 19.4281C19.6862 20.3407 18.6977 20.9517 17.569 20.9517C15.8848 20.9517 14.8496 19.2588 14.8496 19.2588" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page refresh 1 — outline style variants.
+class _WebWebPageRefresh1Outline {
+  const _WebWebPageRefresh1Outline();
+
+  /// Web page refresh 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.09375 6.5498C7.09375 6.95996 6.75781 7.2998 6.34375 7.2998H6.28809C5.87402 7.2998 5.53809 6.95996 5.53809 6.5498C5.53809 6.4248 5.56934 6.30615 5.62451 6.20166C5.75049 5.96387 6.00049 5.7998 6.28809 5.7998H6.34375C6.75781 5.7998 7.09375 6.14014 7.09375 6.5498Z" fill="black"/> <path d="M9.57959 6.5498C9.57959 6.95996 9.24365 7.2998 8.82959 7.2998H8.77393C8.5498 7.2998 8.34863 7.20068 8.21143 7.04443C8.09473 6.91162 8.02393 6.73828 8.02393 6.5498C8.02393 6.29248 8.15625 6.0625 8.35791 5.92676C8.47705 5.84668 8.62012 5.7998 8.77393 5.7998H8.82959C9.24365 5.7998 9.57959 6.14014 9.57959 6.5498Z" fill="black"/> <path d="M12.0649 6.5498C12.0649 6.95996 11.729 7.2998 11.3149 7.2998H11.2598C10.8452 7.2998 10.5098 6.95996 10.5098 6.5498C10.5098 6.14014 10.8452 5.7998 11.2598 5.7998H11.3149C11.729 5.7998 12.0649 6.14014 12.0649 6.5498Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21 12.8301C20.5854 12.8301 20.25 12.5 20.25 12.0801V10.2402H3.75V15.9697C3.75 17.29 4.15869 18.3501 4.83447 19.0801C5.50488 19.8003 6.49316 20.25 7.78223 20.25H9.53271C9.94678 20.25 10.2827 20.5898 10.2827 21C10.2827 21.4102 9.94678 21.75 9.53271 21.75H7.78223C6.12305 21.75 4.72021 21.1602 3.73682 20.1001C2.7583 19.0503 2.25 17.6001 2.25 15.9697V8.03027C2.25 6.3999 2.76123 4.94971 3.74023 3.8999C4.72461 2.83984 6.12646 2.25 7.78223 2.25H16.2178C17.877 2.25 19.2793 2.83984 20.2632 3.8999C21.2417 4.94971 21.75 6.3999 21.75 8.03027V12.0801C21.75 12.5 21.4141 12.8301 21 12.8301ZM3.75 8.74023H20.25V8.03027C20.25 6.70996 19.8413 5.6499 19.1655 4.91992C18.4951 4.19971 17.5063 3.75 16.2178 3.75H7.78223C6.49805 3.75 5.50928 4.19971 4.8374 4.91992C4.16016 5.6499 3.75 6.70996 3.75 8.03027V8.74023Z" fill="black"/> <path d="M16.9805 19.25C16.9805 19.6602 16.6445 20 16.2305 20C16.4858 20.1235 16.7686 20.2002 17.0679 20.2002C17.9199 20.2002 18.6655 19.7402 19.0635 19.0498C19.2705 18.6899 19.729 18.5698 20.0879 18.7803C20.4463 18.9902 20.5693 19.4502 20.3618 19.7998C19.7051 20.9399 18.4736 21.7002 17.0679 21.7002C16.2725 21.7002 15.6069 21.4131 15.0952 21.0693C15.0601 21.4478 14.7393 21.75 14.3486 21.75C13.9346 21.75 13.5986 21.4102 13.5986 21V19.2705C13.5986 19.2651 13.5986 19.2593 13.5986 19.2539V19.25C13.5986 18.8398 13.9346 18.5 14.3486 18.5H16.2305C16.6445 18.5 16.9805 18.8398 16.9805 19.25Z" fill="black"/> <path d="M20.126 13.8999C20.5405 13.8999 20.876 14.23 20.876 14.6499V16.502C20.8887 16.77 20.7578 17.0347 20.5122 17.1797C20.3525 17.2788 20.1709 17.3091 20.0005 17.2803H18.2446C17.8301 17.2803 17.4946 16.9399 17.4946 16.5303C17.4946 16.1699 17.7539 15.8638 18.0981 15.7949C17.8013 15.6763 17.4585 15.6001 17.0684 15.6001C16.2061 15.6001 15.4629 16.0601 15.0654 16.75C14.8594 17.1099 14.4014 17.2402 14.0415 17.0303C13.6821 16.8198 13.5576 16.3701 13.7632 16.0098C14.4204 14.8599 15.6523 14.1001 17.0684 14.1001C18.0259 14.1001 18.7969 14.4028 19.376 14.7749V14.6499C19.376 14.23 19.7119 13.8999 20.126 13.8999Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page refresh 1 — bold style variants.
+class _WebWebPageRefresh1Bold {
+  const _WebWebPageRefresh1Bold();
+
+  /// Web page refresh 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.78288 2.5C6.18943 2.5 4.85609 3.06751 3.92354 4.0677C2.99461 5.06401 2.5 6.44971 2.5 8.02611V8.74219H21.4991V8.02611C21.4991 6.4504 21.0073 5.06463 20.0796 4.06799C19.1481 3.06731 17.8147 2.5 16.2171 2.5H7.78288ZM6.28906 5.80078C5.87485 5.80078 5.53906 6.13657 5.53906 6.55078C5.53906 6.96499 5.87485 7.30078 6.28906 7.30078H6.34452C6.75873 7.30078 7.09452 6.96499 7.09452 6.55078C7.09452 6.13657 6.75873 5.80078 6.34452 5.80078H6.28906ZM8.77457 5.80078C8.36036 5.80078 8.02457 6.13657 8.02457 6.55078C8.02457 6.96499 8.36036 7.30078 8.77457 7.30078H8.83003C9.24424 7.30078 9.58003 6.96499 9.58003 6.55078C9.58003 6.13657 9.24424 5.80078 8.83003 5.80078H8.77457ZM11.261 5.80078C10.8468 5.80078 10.511 6.13657 10.511 6.55078C10.511 6.96499 10.8468 7.30078 11.261 7.30078H11.3165C11.7307 7.30078 12.0665 6.96499 12.0665 6.55078C12.0665 6.13657 11.7307 5.80078 11.3165 5.80078H11.261Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.5 15.9729V10.2422H21.4991V15.9729C21.4991 17.5486 21.0073 18.9344 20.0794 19.9311C19.1478 20.9318 17.8141 21.4991 16.2162 21.4991H7.78288C6.18538 21.4991 4.85177 20.9317 3.92003 19.9311C2.99204 18.9345 2.5 17.5487 2.5 15.9729ZM14.6619 12.248C15.0761 12.248 15.4119 12.5838 15.4119 12.998V14.712C15.4221 14.9768 15.2913 15.2389 15.048 15.3848C14.8917 15.4785 14.715 15.5087 14.548 15.4829H12.9271C12.5128 15.4829 12.1771 15.1471 12.1771 14.7329C12.1771 14.4305 12.356 14.1699 12.6138 14.0512C12.3843 13.9761 12.1276 13.9299 11.843 13.9299C11.0695 13.9299 10.4035 14.3432 10.0469 14.9662C9.84115 15.3256 9.38292 15.4503 9.02342 15.2445C8.66392 15.0388 8.53929 14.5806 8.74504 14.2211C9.36085 13.1451 10.5157 12.4299 11.843 12.4299C12.6902 12.4299 13.3812 12.6876 13.9119 13.0086V12.998C13.9119 12.5838 14.2477 12.248 14.6619 12.248ZM8.58655 17.2404C8.58655 16.8262 8.92233 16.4904 9.33655 16.4904H11.0714C11.4856 16.4904 11.8214 16.8262 11.8214 17.2404C11.8214 17.5799 11.5958 17.8667 11.2864 17.9591C11.4622 18.023 11.6485 18.0602 11.8437 18.0602C12.6074 18.0602 13.2757 17.6476 13.6324 17.0302C13.8396 16.6716 14.2984 16.5489 14.657 16.7561C15.0156 16.9633 15.1384 17.4221 14.9312 17.7807C14.3155 18.8462 13.161 19.5602 11.8437 19.5602C11.1347 19.5602 10.5368 19.3169 10.0686 19.0178C9.99398 19.3533 9.69456 19.6041 9.33655 19.6041C8.92233 19.6041 8.58655 19.2683 8.58655 18.8541V17.2404Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page refresh 1 — light style variants.
+class _WebWebPageRefresh1Light {
+  const _WebWebPageRefresh1Light();
+
+  /// Web page refresh 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page refresh 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9998 12.0816V8.0273C20.9998 5.08117 19.1658 3 16.2177 3H7.78212C4.84279 3 3 5.08117 3 8.0273V15.9735C3 18.9196 4.83404 20.9998 7.78212 20.9998H9.53248" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2313 19.2498H14.3496V21.0001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.1259 14.6479V16.5297H18.2441" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.34452 6.5498H6.28906M8.83014 6.5498H8.77468M11.3158 6.5498H11.2603" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9998 9.49146H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.4141 16.3791C14.9414 15.4577 15.929 14.8457 17.0683 14.8457C19.1106 14.8457 20.1263 16.5396 20.1263 16.5396" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.7136 19.4283C19.1862 20.341 18.1977 20.952 17.069 20.952C15.3848 20.952 14.3496 19.259 14.3496 19.259" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page refresh 2 icon with style variants.
+class _WebWebPageRefresh2Icon {
+  const _WebWebPageRefresh2Icon();
+
+  /// bold style
+  _WebWebPageRefresh2Bold get bold => const _WebWebPageRefresh2Bold();
+  /// bulk style
+  _WebWebPageRefresh2Bulk get bulk => const _WebWebPageRefresh2Bulk();
+  /// light style
+  _WebWebPageRefresh2Light get light => const _WebWebPageRefresh2Light();
+  /// outline style
+  _WebWebPageRefresh2Outline get outline => const _WebWebPageRefresh2Outline();
+  /// twoTone style
+  _WebWebPageRefresh2Twotone get twoTone => const _WebWebPageRefresh2Twotone();
+  /// broken style
+  _WebWebPageRefresh2Broken get broken => const _WebWebPageRefresh2Broken();
+}
+
+/// Web page refresh 2 — bulk style variants.
+class _WebWebPageRefresh2Bulk {
+  const _WebWebPageRefresh2Bulk();
+
+  /// Web page refresh 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page refresh 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.82634 2.5C6.23289 2.5 4.89955 3.06751 3.967 4.0677C3.03806 5.06401 2.54346 6.44971 2.54346 8.02611V8.74219H21.5425V8.02611C21.5425 6.4504 21.0507 5.06463 20.123 4.06799C19.1915 3.06731 17.8581 2.5 16.2606 2.5H7.82634Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.54346 15.9729V10.2422H21.5425V15.9729C21.5425 17.5486 21.0507 18.9344 20.1229 19.9311C19.1912 20.9318 17.8576 21.4991 16.2596 21.4991H7.82634C6.22884 21.4991 4.89523 20.9317 3.96349 19.9311C3.0355 18.9345 2.54346 17.5487 2.54346 15.9729Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.33252 5.80078C5.91831 5.80078 5.58252 6.13657 5.58252 6.55078C5.58252 6.96499 5.91831 7.30078 6.33252 7.30078H6.38798C6.80219 7.30078 7.13798 6.96499 7.13798 6.55078C7.13798 6.13657 6.80219 5.80078 6.38798 5.80078H6.33252ZM8.81803 5.80078C8.40382 5.80078 8.06803 6.13657 8.06803 6.55078C8.06803 6.96499 8.40382 7.30078 8.81803 7.30078H8.87349C9.2877 7.30078 9.62349 6.96499 9.62349 6.55078C9.62349 6.13657 9.2877 5.80078 8.87349 5.80078H8.81803ZM11.3045 5.80078C10.8903 5.80078 10.5545 6.13657 10.5545 6.55078C10.5545 6.96499 10.8903 7.30078 11.3045 7.30078H11.3599C11.7742 7.30078 12.1099 6.96499 12.1099 6.55078C12.1099 6.13657 11.7742 5.80078 11.3599 5.80078H11.3045Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7841 13.5149C11.8689 13.505 11.9553 13.5 12.0428 13.5C13.2662 13.5 14.2578 14.4916 14.2578 15.7149C14.2578 16.1292 14.5936 16.4649 15.0078 16.4649C15.422 16.4649 15.7578 16.1292 15.7578 15.7149C15.7578 13.6632 14.0946 12 12.0428 12C11.1005 12 10.2391 12.3514 9.58482 12.929C9.39853 13.0934 9.30579 13.3395 9.33719 13.586C9.36858 13.8325 9.52003 14.0474 9.74158 14.16L11.2012 14.9012C11.5705 15.0887 12.022 14.9414 12.2095 14.5721C12.3971 14.2027 12.2497 13.7513 11.8804 13.5638L11.7841 13.5149ZM9.07812 14.9648C9.49234 14.9648 9.82812 15.3006 9.82812 15.7148C9.82812 16.9382 10.8197 17.9298 12.0431 17.9298C12.1306 17.9298 12.2169 17.9247 12.3018 17.9149L12.2055 17.866C11.8362 17.6785 11.6889 17.227 11.8764 16.8577C12.064 16.4884 12.5154 16.3411 12.8847 16.5286L14.3443 17.2698C14.5659 17.3824 14.7173 17.5973 14.7487 17.8438C14.7801 18.0903 14.6874 18.3363 14.5011 18.5008C13.8467 19.0785 12.9845 19.4298 12.0431 19.4298C9.99128 19.4298 8.32812 17.7666 8.32812 15.7148C8.32812 15.3006 8.66391 14.9648 9.07812 14.9648Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page refresh 2 — broken style variants.
+class _WebWebPageRefresh2Broken {
+  const _WebWebPageRefresh2Broken();
+
+  /// Web page refresh 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page refresh 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.7319 12.7072V7.85266C20.7319 5.00926 18.9612 3 16.115 3H7.97089C5.13312 3 3.354 5.00926 3.354 7.85266V11.6889" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.35449 15.5254C3.35449 18.3688 5.12516 20.3781 7.97138 20.3781H9.66126" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0265 19.2937L18.7061 20.1467C18.1049 20.6774 17.314 20.9996 16.4488 20.9996C14.5645 20.9996 13.0371 19.4722 13.0371 17.5879" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.871 15.8816L14.1914 15.0287C14.7926 14.498 15.5826 14.1758 16.4487 14.1758C18.333 14.1758 19.8604 15.7032 19.8604 17.5875" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.58089 6.42773H6.52734M8.98154 6.42773H8.928M11.3813 6.42773H11.3277" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.7039 9.26758H3.35352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page refresh 2 — twoTone style variants.
+class _WebWebPageRefresh2Twotone {
+  const _WebWebPageRefresh2Twotone();
+
+  /// Web page refresh 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page refresh 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.2324 12.7072V7.85266C21.2324 5.00926 19.4617 3 16.6155 3H8.47138C5.63361 3 3.85449 5.00926 3.85449 7.85266V15.5252C3.85449 18.3686 5.62516 20.3779 8.47138 20.3779H10.1613" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.5265 19.2942L19.2061 20.1472C18.6049 20.6779 17.814 21.0001 16.9488 21.0001C15.0645 21.0001 13.5371 19.4727 13.5371 17.5884" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.371 15.8826L14.6914 15.0297C15.2926 14.499 16.0826 14.1768 16.9487 14.1768C18.833 14.1768 20.3604 15.7041 20.3604 17.5885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M7.08089 6.42725H7.02734M9.48154 6.42725H9.428M11.8813 6.42725H11.8277" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.2314 9.26758H3.85352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page refresh 2 — outline style variants.
+class _WebWebPageRefresh2Outline {
+  const _WebWebPageRefresh2Outline();
+
+  /// Web page refresh 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page refresh 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.00669 3.84868C4.96255 2.82319 6.32325 2.25 7.92792 2.25H16.072C17.6805 2.25 19.0416 2.82288 19.9968 3.84904C20.9464 4.86913 21.4389 6.27617 21.4389 7.85266V12.7072C21.4389 13.1214 21.1031 13.4572 20.6889 13.4572C20.2747 13.4572 19.9389 13.1214 19.9389 12.7072V10.0177H4.06104V15.5252C4.06104 16.7921 4.4538 17.8114 5.10111 18.5068C5.74278 19.1961 6.69011 19.6279 7.92792 19.6279H9.6178C10.032 19.6279 10.3678 19.9637 10.3678 20.3779C10.3678 20.7921 10.032 21.1279 9.6178 21.1279H7.92792C6.31951 21.1279 4.9584 20.555 4.00318 19.5289C3.05361 18.5088 2.56104 17.1017 2.56104 15.5252V7.85266C2.56104 6.27523 3.05628 4.86832 4.00669 3.84868ZM4.06104 8.51766H19.9389V7.85266C19.9389 6.58575 19.5462 5.56646 18.8989 4.87107C18.2572 4.18175 17.3099 3.75 16.072 3.75H7.92792C6.69483 3.75 5.74708 4.18144 5.10394 4.87143C4.45535 5.56727 4.06104 6.58669 4.06104 7.85266V8.51766ZM5.73574 6.42714C5.73574 6.01293 6.07153 5.67714 6.48574 5.67714H6.53929C6.9535 5.67714 7.28929 6.01293 7.28929 6.42714C7.28929 6.84136 6.9535 7.17714 6.53929 7.17714H6.48574C6.07153 7.17714 5.73574 6.84136 5.73574 6.42714ZM8.1364 6.42714C8.1364 6.01293 8.47218 5.67714 8.8864 5.67714H8.93994C9.35415 5.67714 9.68994 6.01293 9.68994 6.42714C9.68994 6.84136 9.35415 7.17714 8.93994 7.17714H8.8864C8.47218 7.17714 8.1364 6.84136 8.1364 6.42714ZM10.5361 6.42714C10.5361 6.01293 10.8719 5.67714 11.2861 5.67714H11.3397C11.7539 5.67714 12.0897 6.01293 12.0897 6.42714C12.0897 6.84136 11.7539 7.17714 11.3397 7.17714H11.2861C10.8719 7.17714 10.5361 6.84136 10.5361 6.42714ZM15.7588 15.0058C15.9659 14.9542 16.1829 14.9267 16.4065 14.9267C17.8766 14.9267 19.0682 16.1183 19.0682 17.5884C19.0682 18.0027 19.404 18.3384 19.8182 18.3384C20.2325 18.3384 20.5682 18.0027 20.5682 17.5884C20.5682 15.2899 18.7051 13.4267 16.4065 13.4267C15.3508 13.4267 14.3859 13.8203 13.6529 14.4674C13.4666 14.6319 13.3739 14.8779 13.4053 15.1244C13.4367 15.3709 13.5881 15.5859 13.8097 15.6984L15.4892 16.5513C15.8586 16.7389 16.31 16.5915 16.4976 16.2222C16.6851 15.8529 16.5377 15.4014 16.1684 15.2139L15.7588 15.0058ZM12.9944 16.8383C13.4086 16.8383 13.7444 17.1741 13.7444 17.5883C13.7444 19.0584 14.936 20.25 16.4061 20.25C16.6295 20.25 16.8464 20.2226 17.0537 20.1708L16.6442 19.9629C16.2749 19.7753 16.1275 19.3239 16.3151 18.9546C16.5026 18.5852 16.954 18.4379 17.3234 18.6254L19.0029 19.4784C19.2245 19.5909 19.3759 19.8058 19.4073 20.0523C19.4387 20.2988 19.346 20.5449 19.1597 20.7093C18.4266 21.3565 17.4607 21.75 16.4061 21.75C14.1075 21.75 12.2444 19.8868 12.2444 17.5883C12.2444 17.1741 12.5802 16.8383 12.9944 16.8383Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page refresh 2 — bold style variants.
+class _WebWebPageRefresh2Bold {
+  const _WebWebPageRefresh2Bold();
+
+  /// Web page refresh 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page refresh 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.78288 2.5C6.18943 2.5 4.85609 3.06751 3.92354 4.0677C2.99461 5.06401 2.5 6.44971 2.5 8.02611V8.74219H21.4991V8.02611C21.4991 6.4504 21.0073 5.06463 20.0796 4.06799C19.1481 3.06731 17.8147 2.5 16.2171 2.5H7.78288ZM6.28906 5.80078C5.87485 5.80078 5.53906 6.13657 5.53906 6.55078C5.53906 6.96499 5.87485 7.30078 6.28906 7.30078H6.34452C6.75873 7.30078 7.09452 6.96499 7.09452 6.55078C7.09452 6.13657 6.75873 5.80078 6.34452 5.80078H6.28906ZM8.77457 5.80078C8.36036 5.80078 8.02457 6.13657 8.02457 6.55078C8.02457 6.96499 8.36036 7.30078 8.77457 7.30078H8.83003C9.24424 7.30078 9.58003 6.96499 9.58003 6.55078C9.58003 6.13657 9.24424 5.80078 8.83003 5.80078H8.77457ZM11.261 5.80078C10.8468 5.80078 10.511 6.13657 10.511 6.55078C10.511 6.96499 10.8468 7.30078 11.261 7.30078H11.3165C11.7307 7.30078 12.0665 6.96499 12.0665 6.55078C12.0665 6.13657 11.7307 5.80078 11.3165 5.80078H11.261Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.5 15.9729V10.2422H21.4991V15.9729C21.4991 17.5486 21.0073 18.9344 20.0794 19.9311C19.1478 20.9318 17.8141 21.4991 16.2162 21.4991H7.78288C6.18538 21.4991 4.85177 20.9317 3.92003 19.9311C2.99204 18.9345 2.5 17.5487 2.5 15.9729ZM11.7407 13.5149C11.8255 13.505 11.9118 13.5 11.9994 13.5C13.2228 13.5 14.2143 14.4916 14.2143 15.7149C14.2143 16.1292 14.5501 16.4649 14.9643 16.4649C15.3785 16.4649 15.7143 16.1292 15.7143 15.7149C15.7143 13.6632 14.0512 12 11.9994 12C11.0571 12 10.1957 12.3514 9.54136 12.929C9.35507 13.0934 9.26234 13.3395 9.29373 13.586C9.32512 13.8325 9.47657 14.0474 9.69813 14.16L11.1577 14.9012C11.5271 15.0887 11.9785 14.9414 12.166 14.5721C12.3536 14.2027 12.2062 13.7513 11.8369 13.5638L11.7407 13.5149ZM9.03467 14.9648C9.44888 14.9648 9.78467 15.3006 9.78467 15.7148C9.78467 16.9382 10.7763 17.9298 11.9996 17.9298C12.0871 17.9298 12.1735 17.9247 12.2583 17.9149L12.1621 17.866C11.7928 17.6785 11.6454 17.227 11.833 16.8577C12.0205 16.4884 12.4719 16.3411 12.8413 16.5286L14.3009 17.2698C14.5224 17.3824 14.6739 17.5973 14.7053 17.8438C14.7367 18.0903 14.6439 18.3363 14.4576 18.5008C13.8033 19.0785 12.941 19.4298 11.9996 19.4298C9.94782 19.4298 8.28467 17.7666 8.28467 15.7148C8.28467 15.3006 8.62045 14.9648 9.03467 14.9648Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page refresh 2 — light style variants.
+class _WebWebPageRefresh2Light {
+  const _WebWebPageRefresh2Light();
+
+  /// Web page refresh 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page refresh 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.6889 12.7072V7.85266C20.6889 5.00926 18.9183 3 16.072 3H7.92792C5.09016 3 3.31104 5.00926 3.31104 7.85266V15.5252C3.31104 18.3686 5.0817 20.3779 7.92792 20.3779H9.6178" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9835 19.2942L18.6631 20.1472C18.0619 20.6779 17.271 21.0001 16.4058 21.0001C14.5215 21.0001 12.9941 19.4727 12.9941 17.5884" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.828 15.8826L14.1484 15.0297C14.7496 14.499 15.5396 14.1768 16.4057 14.1768C18.29 14.1768 19.8174 15.7041 19.8174 17.5885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.53792 6.42725H6.48438M8.93857 6.42725H8.88503M11.3383 6.42725H11.2848" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6884 9.26758H3.31055" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Web',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -1127,7 +1427,7 @@ class _WebWebPageBulk {
   /// Web page — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Web page',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.60173 2.5C7.00828 2.5 5.67494 3.06751 4.74239 4.0677C3.81345 5.06401 3.31885 6.44971 3.31885 8.02611V8.74219H22.3179V8.02611C22.3179 6.4504 21.8261 5.06463 20.8984 4.06799C19.9669 3.06731 18.6335 2.5 17.036 2.5H8.60173Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.31885 15.9729V10.2422H22.3179V15.9729C22.3179 17.5486 21.8261 18.9344 20.8983 19.9311C19.9666 20.9318 18.633 21.4991 17.035 21.4991H8.60173C7.00423 21.4991 5.67062 20.9317 4.73888 19.9311C3.81089 18.9345 3.31885 17.5487 3.31885 15.9729Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.10791 5.80078C6.6937 5.80078 6.35791 6.13657 6.35791 6.55078C6.35791 6.96499 6.6937 7.30078 7.10791 7.30078H7.16337C7.57758 7.30078 7.91337 6.96499 7.91337 6.55078C7.91337 6.13657 7.57758 5.80078 7.16337 5.80078H7.10791ZM9.59342 5.80078C9.17921 5.80078 8.84342 6.13657 8.84342 6.55078C8.84342 6.96499 9.17921 7.30078 9.59342 7.30078H9.64888C10.0631 7.30078 10.3989 6.96499 10.3989 6.55078C10.3989 6.13657 10.0631 5.80078 9.64888 5.80078H9.59342ZM12.0799 5.80078C11.6657 5.80078 11.3299 6.13657 11.3299 6.55078C11.3299 6.96499 11.6657 7.30078 12.0799 7.30078H12.1353C12.5496 7.30078 12.8853 6.96499 12.8853 6.55078C12.8853 6.13657 12.5496 5.80078 12.1353 5.80078H12.0799Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.43555 12.7401C8.02133 12.7401 7.68555 13.0759 7.68555 13.4901C7.68555 13.9044 8.02133 14.2401 8.43555 14.2401H12.1562C12.5704 14.2401 12.9062 13.9044 12.9062 13.4901C12.9062 13.0759 12.5704 12.7401 12.1562 12.7401H8.43555ZM8.43555 16.1855C8.02133 16.1855 7.68555 16.5212 7.68555 16.9355C7.68555 17.3497 8.02133 17.6855 8.43555 17.6855H15.2571C15.6713 17.6855 16.0071 17.3497 16.0071 16.9355C16.0071 16.5212 15.6713 16.1855 15.2571 16.1855H8.43555Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.78337 2.5C6.18992 2.5 4.85658 3.06751 3.92403 4.0677C2.99509 5.06401 2.50049 6.44971 2.50049 8.02611V8.74219H21.4995V8.02611C21.4995 6.4504 21.0078 5.06463 20.08 4.06799C19.1485 3.06731 17.8151 2.5 16.2176 2.5H7.78337Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.50049 15.9729V10.2422H21.4995V15.9729C21.4995 17.5486 21.0078 18.9344 20.0799 19.9311C19.1483 20.9318 17.8146 21.4991 16.2167 21.4991H7.78337C6.18587 21.4991 4.85226 20.9317 3.92052 19.9311C2.99253 18.9345 2.50049 17.5487 2.50049 15.9729Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.28955 5.80078C5.87534 5.80078 5.53955 6.13657 5.53955 6.55078C5.53955 6.96499 5.87534 7.30078 6.28955 7.30078H6.34501C6.75922 7.30078 7.09501 6.96499 7.09501 6.55078C7.09501 6.13657 6.75922 5.80078 6.34501 5.80078H6.28955ZM8.77506 5.80078C8.36085 5.80078 8.02506 6.13657 8.02506 6.55078C8.02506 6.96499 8.36085 7.30078 8.77506 7.30078H8.83052C9.24473 7.30078 9.58052 6.96499 9.58052 6.55078C9.58052 6.13657 9.24473 5.80078 8.83052 5.80078H8.77506ZM11.2615 5.80078C10.8473 5.80078 10.5115 6.13657 10.5115 6.55078C10.5115 6.96499 10.8473 7.30078 11.2615 7.30078H11.317C11.7312 7.30078 12.067 6.96499 12.067 6.55078C12.067 6.13657 11.7312 5.80078 11.317 5.80078H11.2615Z" fill="black"/> </svg>',
     category: 'Web',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -1142,7 +1442,7 @@ class _WebWebPageBroken {
   /// Web page — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Web page',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.16288 6.55078H7.10742M9.64947 6.55078H9.59401M12.1361 6.55078H12.0806" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.43555 13.2461H12.1562M8.43555 16.6914H15.2571" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8179 20.9991H17.0345C19.9835 20.9991 21.8174 18.918 21.8174 15.9729V8.02611C21.8174 5.08108 19.9835 3 17.0355 3H8.60124C5.66205 3 3.81836 5.08108 3.81836 8.02611V15.9729C3.81836 18.918 5.65329 20.9991 8.60124 20.9991H9.28579" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.8657 9.49219H3.81836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.34452 6.55078H6.28906M8.83003 6.55078H8.77457M11.3165 6.55078H11.261" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8179 20.9991H16.0345C18.9835 20.9991 20.8174 18.918 20.8174 15.9729V8.02611C20.8174 5.08108 18.9835 3 16.0355 3H7.60124C4.66205 3 2.81836 5.08108 2.81836 8.02611V15.9729C2.81836 18.918 4.65329 20.9991 7.60124 20.9991H8.28579" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.8657 9.49219H2.81836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Web',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -1157,7 +1457,7 @@ class _WebWebPageTwotone {
   /// Web page — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Web page',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.10149 3H16.5362C19.4843 3 21.3184 5.08119 21.3184 8.02638V15.9736C21.3184 18.9188 19.4843 21 16.5352 21H8.10149C5.15339 21 3.31836 18.9188 3.31836 15.9736V8.02638C3.31836 5.08119 5.16214 3 8.10149 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.93555 13.2471H11.6562M7.93555 16.6924H14.7571" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.66288 6.5498H6.60742M9.14947 6.5498H9.09401M11.6361 6.5498H11.5806" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.3184 9.49121H3.31836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.28288 3.00049H16.7171C19.6651 3.00049 21.4991 5.08157 21.4991 8.0266V15.9734C21.4991 18.9185 19.6651 20.9995 16.7162 20.9995H8.28288C5.33493 20.9995 3.5 18.9185 3.5 15.9734V8.0266C3.5 5.08157 5.34369 3.00049 8.28288 3.00049Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.84452 6.5498H6.78906M9.33003 6.5498H9.27457M11.8165 6.5498H11.761" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.4991 9.4917H3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Web',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -1172,7 +1472,7 @@ class _WebWebPageOutline {
   /// Web page — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Web page',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.74076 3.89729C4.72547 2.84115 6.12768 2.25 7.78313 2.25H16.2178C17.8772 2.25 19.2796 2.84086 20.2634 3.89773C21.2416 4.94853 21.75 6.39899 21.75 8.02638V15.9736C21.75 17.601 21.2416 19.0515 20.2633 20.1023C19.2793 21.1592 17.8766 21.75 16.2169 21.75H7.78313C6.12379 21.75 4.72117 21.1592 3.73714 20.1024C2.75872 19.0516 2.25 17.6011 2.25 15.9736V8.02638C2.25 6.39795 2.76147 4.9476 3.74076 3.89729ZM3.75 10.2416V15.9736C3.75 17.2913 4.15879 18.354 4.83492 19.0802C5.50542 19.8003 6.49437 20.25 7.78313 20.25H16.2169C17.5062 20.25 18.4951 19.8002 19.1654 19.0802C19.8414 18.3541 20.25 17.2914 20.25 15.9736V10.2416H3.75ZM20.25 8.74155H3.75V8.02638C3.75 6.70962 4.16042 5.64678 4.83786 4.9202C5.50988 4.19944 6.49924 3.75 7.78313 3.75H16.2178C17.5066 3.75 18.4952 4.19973 19.1655 4.91976C19.8414 5.64585 20.25 6.70857 20.25 8.02638V8.74155ZM5.53836 6.54983C5.53836 6.13562 5.87415 5.79983 6.28836 5.79983H6.34382C6.75803 5.79983 7.09382 6.13562 7.09382 6.54983C7.09382 6.96405 6.75803 7.29983 6.34382 7.29983H6.28836C5.87415 7.29983 5.53836 6.96405 5.53836 6.54983ZM8.02495 6.54983C8.02495 6.13562 8.36074 5.79983 8.77495 5.79983H8.83041C9.24463 5.79983 9.58041 6.13562 9.58041 6.54983C9.58041 6.96405 9.24463 7.29983 8.83041 7.29983H8.77495C8.36074 7.29983 8.02495 6.96405 8.02495 6.54983ZM10.5115 6.54983C10.5115 6.13562 10.8473 5.79983 11.2615 5.79983H11.317C11.7312 5.79983 12.067 6.13562 12.067 6.54983C12.067 6.96405 11.7312 7.29983 11.317 7.29983H11.2615C10.8473 7.29983 10.5115 6.96405 10.5115 6.54983ZM6.86687 13.2471C6.86687 12.8329 7.20266 12.4971 7.61687 12.4971H11.3375C11.7517 12.4971 12.0875 12.8329 12.0875 13.2471C12.0875 13.6613 11.7517 13.9971 11.3375 13.9971H7.61687C7.20266 13.9971 6.86687 13.6613 6.86687 13.2471ZM6.86687 16.6924C6.86687 16.2782 7.20266 15.9424 7.61687 15.9424H14.4384C14.8526 15.9424 15.1884 16.2782 15.1884 16.6924C15.1884 17.1066 14.8526 17.4424 14.4384 17.4424H7.61687C7.20266 17.4424 6.86687 17.1066 6.86687 16.6924Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.74069 3.8977C4.72536 2.84161 6.12751 2.25049 7.78288 2.25049H16.2171C17.8764 2.25049 19.2788 2.84132 20.2625 3.89814C21.2407 4.9489 21.7491 6.39929 21.7491 8.0266V9.45362C21.7497 9.46623 21.75 9.47893 21.75 9.4917C21.75 9.50447 21.7497 9.51716 21.7491 9.52978V15.9734C21.7491 17.6007 21.2407 19.0512 20.2624 20.1019C19.2785 21.1588 17.8759 21.7495 16.2162 21.7495H7.78288C6.12362 21.7495 4.72106 21.1587 3.73707 20.102C2.7587 19.0512 2.25 17.6008 2.25 15.9734V8.0266C2.25 6.39825 2.76145 4.94796 3.74069 3.8977ZM20.2491 8.7417V8.0266C20.2491 6.70887 19.8405 5.64622 19.1646 4.92017C18.4944 4.2002 17.5058 3.75049 16.2171 3.75049H7.78288C6.49906 3.75049 5.50977 4.1999 4.8378 4.92061C4.16039 5.64715 3.75 6.70992 3.75 8.0266V8.7417H20.2491ZM3.75 10.2417H20.2491V15.9734C20.2491 17.2912 19.8405 18.3538 19.1645 19.0798C18.4942 19.7998 17.5054 20.2495 16.2162 20.2495H7.78288C6.49419 20.2495 5.50531 19.7998 4.83485 19.0798C4.15876 18.3537 3.75 17.291 3.75 15.9734V10.2417ZM5.53914 6.55013C5.53914 6.13592 5.87492 5.80013 6.28914 5.80013H6.34459C6.75881 5.80013 7.09459 6.13592 7.09459 6.55013C7.09459 6.96434 6.75881 7.30013 6.34459 7.30013H6.28914C5.87492 7.30013 5.53914 6.96434 5.53914 6.55013ZM8.02465 6.55013C8.02465 6.13592 8.36043 5.80013 8.77465 5.80013H8.8301C9.24432 5.80013 9.5801 6.13592 9.5801 6.55013C9.5801 6.96434 9.24432 7.30013 8.8301 7.30013H8.77465C8.36043 7.30013 8.02465 6.96434 8.02465 6.55013ZM10.5111 6.55013C10.5111 6.13592 10.8469 5.80013 11.2611 5.80013H11.3166C11.7308 5.80013 12.0666 6.13592 12.0666 6.55013C12.0666 6.96434 11.7308 7.30013 11.3166 7.30013H11.2611C10.8469 7.30013 10.5111 6.96434 10.5111 6.55013Z" fill="black"/> </svg> ',
     category: 'Web',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -1187,7 +1487,7 @@ class _WebWebPageBold {
   /// Web page — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Web page',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.60173 2.5C7.00828 2.5 5.67494 3.06751 4.74239 4.0677C3.81345 5.06401 3.31885 6.44971 3.31885 8.02611V8.74219H22.3179V8.02611C22.3179 6.4504 21.8261 5.06463 20.8984 4.06799C19.9669 3.06731 18.6335 2.5 17.036 2.5H8.60173ZM7.10791 5.80078C6.6937 5.80078 6.35791 6.13657 6.35791 6.55078C6.35791 6.96499 6.6937 7.30078 7.10791 7.30078H7.16337C7.57758 7.30078 7.91337 6.96499 7.91337 6.55078C7.91337 6.13657 7.57758 5.80078 7.16337 5.80078H7.10791ZM9.59342 5.80078C9.17921 5.80078 8.84342 6.13657 8.84342 6.55078C8.84342 6.96499 9.17921 7.30078 9.59342 7.30078H9.64888C10.0631 7.30078 10.3989 6.96499 10.3989 6.55078C10.3989 6.13657 10.0631 5.80078 9.64888 5.80078H9.59342ZM12.0799 5.80078C11.6657 5.80078 11.3299 6.13657 11.3299 6.55078C11.3299 6.96499 11.6657 7.30078 12.0799 7.30078H12.1353C12.5496 7.30078 12.8853 6.96499 12.8853 6.55078C12.8853 6.13657 12.5496 5.80078 12.1353 5.80078H12.0799Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.31885 15.9729V10.2422H22.3179V15.9729C22.3179 17.5486 21.8261 18.9344 20.8983 19.9311C19.9666 20.9318 18.633 21.4991 17.035 21.4991H8.60173C7.00423 21.4991 5.67062 20.9317 4.73888 19.9311C3.81089 18.9345 3.31885 17.5487 3.31885 15.9729ZM8.43555 12.7401C8.02133 12.7401 7.68555 13.0759 7.68555 13.4901C7.68555 13.9044 8.02133 14.2401 8.43555 14.2401H12.1562C12.5704 14.2401 12.9062 13.9044 12.9062 13.4901C12.9062 13.0759 12.5704 12.7401 12.1562 12.7401H8.43555ZM8.43555 16.1855C8.02133 16.1855 7.68555 16.5212 7.68555 16.9355C7.68555 17.3497 8.02133 17.6855 8.43555 17.6855H15.2571C15.6713 17.6855 16.0071 17.3497 16.0071 16.9355C16.0071 16.5212 15.6713 16.1855 15.2571 16.1855H8.43555Z" fill="black"/> </svg>',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.92354 4.0677C4.85609 3.06751 6.18943 2.5 7.78288 2.5H16.2171C17.8147 2.5 19.1481 3.06731 20.0796 4.06799C21.0073 5.06463 21.4991 6.4504 21.4991 8.02611V8.74219H2.5V8.02611C2.5 6.44971 2.99461 5.06401 3.92354 4.0677ZM5.53906 6.55078C5.53906 6.13657 5.87485 5.80078 6.28906 5.80078H6.34452C6.75873 5.80078 7.09452 6.13657 7.09452 6.55078C7.09452 6.96499 6.75873 7.30078 6.34452 7.30078H6.28906C5.87485 7.30078 5.53906 6.96499 5.53906 6.55078ZM8.02457 6.55078C8.02457 6.13657 8.36036 5.80078 8.77457 5.80078H8.83003C9.24424 5.80078 9.58003 6.13657 9.58003 6.55078C9.58003 6.96499 9.24424 7.30078 8.83003 7.30078H8.77457C8.36036 7.30078 8.02457 6.96499 8.02457 6.55078ZM10.511 6.55078C10.511 6.13657 10.8468 5.80078 11.261 5.80078H11.3165C11.7307 5.80078 12.0665 6.13657 12.0665 6.55078C12.0665 6.96499 11.7307 7.30078 11.3165 7.30078H11.261C10.8468 7.30078 10.511 6.96499 10.511 6.55078Z" fill="black"/> <path d="M2.5 10.2422V15.9729C2.5 17.5487 2.99204 18.9345 3.92003 19.9311C4.85177 20.9317 6.18538 21.4991 7.78288 21.4991H16.2162C17.8141 21.4991 19.1478 20.9318 20.0794 19.9311C21.0073 18.9344 21.4991 17.5486 21.4991 15.9729V10.2422H2.5Z" fill="black"/> </svg>',
     category: 'Web',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -1202,7 +1502,331 @@ class _WebWebPageLight {
   /// Web page — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Web page',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78288 3.00049H16.2171C19.1651 3.00049 20.9991 5.08157 20.9991 8.0266V15.9734C20.9991 18.9185 19.1651 20.9995 16.2162 20.9995H7.78288C4.83493 20.9995 3 18.9185 3 15.9734V8.0266C3 5.08157 4.84369 3.00049 7.78288 3.00049Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.34452 6.55005H6.28906M8.83003 6.55005H8.77457M11.3165 6.55005H11.261" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9991 9.4917H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 1 icon with style variants.
+class _WebWebPage1Icon {
+  const _WebWebPage1Icon();
+
+  /// bold style
+  _WebWebPage1Bold get bold => const _WebWebPage1Bold();
+  /// bulk style
+  _WebWebPage1Bulk get bulk => const _WebWebPage1Bulk();
+  /// light style
+  _WebWebPage1Light get light => const _WebWebPage1Light();
+  /// outline style
+  _WebWebPage1Outline get outline => const _WebWebPage1Outline();
+  /// twoTone style
+  _WebWebPage1Twotone get twoTone => const _WebWebPage1Twotone();
+  /// broken style
+  _WebWebPage1Broken get broken => const _WebWebPage1Broken();
+}
+
+/// Web page 1 — bulk style variants.
+class _WebWebPage1Bulk {
+  const _WebWebPage1Bulk();
+
+  /// Web page 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.60173 2.5C7.00828 2.5 5.67494 3.06751 4.74239 4.0677C3.81345 5.06401 3.31885 6.44971 3.31885 8.02611V8.74219H22.3179V8.02611C22.3179 6.4504 21.8261 5.06463 20.8984 4.06799C19.9669 3.06731 18.6335 2.5 17.036 2.5H8.60173Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.31885 15.9729V10.2422H22.3179V15.9729C22.3179 17.5486 21.8261 18.9344 20.8983 19.9311C19.9666 20.9318 18.633 21.4991 17.035 21.4991H8.60173C7.00423 21.4991 5.67062 20.9317 4.73888 19.9311C3.81089 18.9345 3.31885 17.5487 3.31885 15.9729Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.10791 5.80078C6.6937 5.80078 6.35791 6.13657 6.35791 6.55078C6.35791 6.96499 6.6937 7.30078 7.10791 7.30078H7.16337C7.57758 7.30078 7.91337 6.96499 7.91337 6.55078C7.91337 6.13657 7.57758 5.80078 7.16337 5.80078H7.10791ZM9.59342 5.80078C9.17921 5.80078 8.84342 6.13657 8.84342 6.55078C8.84342 6.96499 9.17921 7.30078 9.59342 7.30078H9.64888C10.0631 7.30078 10.3989 6.96499 10.3989 6.55078C10.3989 6.13657 10.0631 5.80078 9.64888 5.80078H9.59342ZM12.0799 5.80078C11.6657 5.80078 11.3299 6.13657 11.3299 6.55078C11.3299 6.96499 11.6657 7.30078 12.0799 7.30078H12.1353C12.5496 7.30078 12.8853 6.96499 12.8853 6.55078C12.8853 6.13657 12.5496 5.80078 12.1353 5.80078H12.0799Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.43555 12.7401C8.02133 12.7401 7.68555 13.0759 7.68555 13.4901C7.68555 13.9044 8.02133 14.2401 8.43555 14.2401H12.1562C12.5704 14.2401 12.9062 13.9044 12.9062 13.4901C12.9062 13.0759 12.5704 12.7401 12.1562 12.7401H8.43555ZM8.43555 16.1855C8.02133 16.1855 7.68555 16.5212 7.68555 16.9355C7.68555 17.3497 8.02133 17.6855 8.43555 17.6855H15.2571C15.6713 17.6855 16.0071 17.3497 16.0071 16.9355C16.0071 16.5212 15.6713 16.1855 15.2571 16.1855H8.43555Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 1 — broken style variants.
+class _WebWebPage1Broken {
+  const _WebWebPage1Broken();
+
+  /// Web page 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.16288 6.55078H7.10742M9.64947 6.55078H9.59401M12.1361 6.55078H12.0806" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.43555 13.2461H12.1562M8.43555 16.6914H15.2571" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8179 20.9991H17.0345C19.9835 20.9991 21.8174 18.918 21.8174 15.9729V8.02611C21.8174 5.08108 19.9835 3 17.0355 3H8.60124C5.66205 3 3.81836 5.08108 3.81836 8.02611V15.9729C3.81836 18.918 5.65329 20.9991 8.60124 20.9991H9.28579" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.8657 9.49219H3.81836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 1 — twoTone style variants.
+class _WebWebPage1Twotone {
+  const _WebWebPage1Twotone();
+
+  /// Web page 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.10149 3H16.5362C19.4843 3 21.3184 5.08119 21.3184 8.02638V15.9736C21.3184 18.9188 19.4843 21 16.5352 21H8.10149C5.15339 21 3.31836 18.9188 3.31836 15.9736V8.02638C3.31836 5.08119 5.16214 3 8.10149 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.93555 13.2471H11.6562M7.93555 16.6924H14.7571" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.66288 6.5498H6.60742M9.14947 6.5498H9.09401M11.6361 6.5498H11.5806" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.3184 9.49121H3.31836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 1 — outline style variants.
+class _WebWebPage1Outline {
+  const _WebWebPage1Outline();
+
+  /// Web page 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.74076 3.89729C4.72547 2.84115 6.12768 2.25 7.78313 2.25H16.2178C17.8772 2.25 19.2796 2.84086 20.2634 3.89773C21.2416 4.94853 21.75 6.39899 21.75 8.02638V15.9736C21.75 17.601 21.2416 19.0515 20.2633 20.1023C19.2793 21.1592 17.8766 21.75 16.2169 21.75H7.78313C6.12379 21.75 4.72117 21.1592 3.73714 20.1024C2.75872 19.0516 2.25 17.6011 2.25 15.9736V8.02638C2.25 6.39795 2.76147 4.9476 3.74076 3.89729ZM3.75 10.2416V15.9736C3.75 17.2913 4.15879 18.354 4.83492 19.0802C5.50542 19.8003 6.49437 20.25 7.78313 20.25H16.2169C17.5062 20.25 18.4951 19.8002 19.1654 19.0802C19.8414 18.3541 20.25 17.2914 20.25 15.9736V10.2416H3.75ZM20.25 8.74155H3.75V8.02638C3.75 6.70962 4.16042 5.64678 4.83786 4.9202C5.50988 4.19944 6.49924 3.75 7.78313 3.75H16.2178C17.5066 3.75 18.4952 4.19973 19.1655 4.91976C19.8414 5.64585 20.25 6.70857 20.25 8.02638V8.74155ZM5.53836 6.54983C5.53836 6.13562 5.87415 5.79983 6.28836 5.79983H6.34382C6.75803 5.79983 7.09382 6.13562 7.09382 6.54983C7.09382 6.96405 6.75803 7.29983 6.34382 7.29983H6.28836C5.87415 7.29983 5.53836 6.96405 5.53836 6.54983ZM8.02495 6.54983C8.02495 6.13562 8.36074 5.79983 8.77495 5.79983H8.83041C9.24463 5.79983 9.58041 6.13562 9.58041 6.54983C9.58041 6.96405 9.24463 7.29983 8.83041 7.29983H8.77495C8.36074 7.29983 8.02495 6.96405 8.02495 6.54983ZM10.5115 6.54983C10.5115 6.13562 10.8473 5.79983 11.2615 5.79983H11.317C11.7312 5.79983 12.067 6.13562 12.067 6.54983C12.067 6.96405 11.7312 7.29983 11.317 7.29983H11.2615C10.8473 7.29983 10.5115 6.96405 10.5115 6.54983ZM6.86687 13.2471C6.86687 12.8329 7.20266 12.4971 7.61687 12.4971H11.3375C11.7517 12.4971 12.0875 12.8329 12.0875 13.2471C12.0875 13.6613 11.7517 13.9971 11.3375 13.9971H7.61687C7.20266 13.9971 6.86687 13.6613 6.86687 13.2471ZM6.86687 16.6924C6.86687 16.2782 7.20266 15.9424 7.61687 15.9424H14.4384C14.8526 15.9424 15.1884 16.2782 15.1884 16.6924C15.1884 17.1066 14.8526 17.4424 14.4384 17.4424H7.61687C7.20266 17.4424 6.86687 17.1066 6.86687 16.6924Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 1 — bold style variants.
+class _WebWebPage1Bold {
+  const _WebWebPage1Bold();
+
+  /// Web page 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.60173 2.5C7.00828 2.5 5.67494 3.06751 4.74239 4.0677C3.81345 5.06401 3.31885 6.44971 3.31885 8.02611V8.74219H22.3179V8.02611C22.3179 6.4504 21.8261 5.06463 20.8984 4.06799C19.9669 3.06731 18.6335 2.5 17.036 2.5H8.60173ZM7.10791 5.80078C6.6937 5.80078 6.35791 6.13657 6.35791 6.55078C6.35791 6.96499 6.6937 7.30078 7.10791 7.30078H7.16337C7.57758 7.30078 7.91337 6.96499 7.91337 6.55078C7.91337 6.13657 7.57758 5.80078 7.16337 5.80078H7.10791ZM9.59342 5.80078C9.17921 5.80078 8.84342 6.13657 8.84342 6.55078C8.84342 6.96499 9.17921 7.30078 9.59342 7.30078H9.64888C10.0631 7.30078 10.3989 6.96499 10.3989 6.55078C10.3989 6.13657 10.0631 5.80078 9.64888 5.80078H9.59342ZM12.0799 5.80078C11.6657 5.80078 11.3299 6.13657 11.3299 6.55078C11.3299 6.96499 11.6657 7.30078 12.0799 7.30078H12.1353C12.5496 7.30078 12.8853 6.96499 12.8853 6.55078C12.8853 6.13657 12.5496 5.80078 12.1353 5.80078H12.0799Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.31885 15.9729V10.2422H22.3179V15.9729C22.3179 17.5486 21.8261 18.9344 20.8983 19.9311C19.9666 20.9318 18.633 21.4991 17.035 21.4991H8.60173C7.00423 21.4991 5.67062 20.9317 4.73888 19.9311C3.81089 18.9345 3.31885 17.5487 3.31885 15.9729ZM8.43555 12.7401C8.02133 12.7401 7.68555 13.0759 7.68555 13.4901C7.68555 13.9044 8.02133 14.2401 8.43555 14.2401H12.1562C12.5704 14.2401 12.9062 13.9044 12.9062 13.4901C12.9062 13.0759 12.5704 12.7401 12.1562 12.7401H8.43555ZM8.43555 16.1855C8.02133 16.1855 7.68555 16.5212 7.68555 16.9355C7.68555 17.3497 8.02133 17.6855 8.43555 17.6855H15.2571C15.6713 17.6855 16.0071 17.3497 16.0071 16.9355C16.0071 16.5212 15.6713 16.1855 15.2571 16.1855H8.43555Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 1 — light style variants.
+class _WebWebPage1Light {
+  const _WebWebPage1Light();
+
+  /// Web page 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78313 3H16.2178C19.1659 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.1659 21 16.2169 21H7.78313C4.83503 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84378 3 7.78313 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.34452 6.5498H6.28906M8.83111 6.5498H8.77565M11.3177 6.5498H11.2622" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.61719 13.2471H11.3378M7.61719 16.6924H14.4387" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 9.49146H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 2 icon with style variants.
+class _WebWebPage2Icon {
+  const _WebWebPage2Icon();
+
+  /// bold style
+  _WebWebPage2Bold get bold => const _WebWebPage2Bold();
+  /// bulk style
+  _WebWebPage2Bulk get bulk => const _WebWebPage2Bulk();
+  /// light style
+  _WebWebPage2Light get light => const _WebWebPage2Light();
+  /// outline style
+  _WebWebPage2Outline get outline => const _WebWebPage2Outline();
+  /// twoTone style
+  _WebWebPage2Twotone get twoTone => const _WebWebPage2Twotone();
+  /// broken style
+  _WebWebPage2Broken get broken => const _WebWebPage2Broken();
+}
+
+/// Web page 2 — bulk style variants.
+class _WebWebPage2Bulk {
+  const _WebWebPage2Bulk();
+
+  /// Web page 2 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.60173 2.5C7.00828 2.5 5.67494 3.06751 4.74239 4.0677C3.81345 5.06401 3.31885 6.44971 3.31885 8.02611V8.74219H22.3179V8.02611C22.3179 6.4504 21.8261 5.06463 20.8984 4.06799C19.9669 3.06731 18.6335 2.5 17.036 2.5H8.60173Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.31885 15.9729V10.2422H22.3179V15.9729C22.3179 17.5486 21.8261 18.9344 20.8983 19.9311C19.9666 20.9318 18.633 21.4991 17.035 21.4991H8.60173C7.00423 21.4991 5.67062 20.9317 4.73888 19.9311C3.81089 18.9345 3.31885 17.5487 3.31885 15.9729Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.10791 5.80078C6.6937 5.80078 6.35791 6.13657 6.35791 6.55078C6.35791 6.965 6.6937 7.30078 7.10791 7.30078H7.16337C7.57758 7.30078 7.91337 6.965 7.91337 6.55078C7.91337 6.13657 7.57758 5.80078 7.16337 5.80078H7.10791ZM9.59342 5.80078C9.17921 5.80078 8.84342 6.13657 8.84342 6.55078C8.84342 6.965 9.17921 7.30078 9.59342 7.30078H9.64888C10.0631 7.30078 10.3989 6.965 10.3989 6.55078C10.3989 6.13657 10.0631 5.80078 9.64888 5.80078H9.59342ZM12.0799 5.80078C11.6657 5.80078 11.3299 6.13657 11.3299 6.55078C11.3299 6.965 11.6657 7.30078 12.0799 7.30078H12.1353C12.5496 7.30078 12.8853 6.965 12.8853 6.55078C12.8853 6.13657 12.5496 5.80078 12.1353 5.80078H12.0799Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.55817 13.1675C8.8649 11.8608 10.9822 11.8608 12.2889 13.1675C13.5956 14.4743 13.5956 16.5915 12.2889 17.8983C10.9822 19.205 8.8649 19.205 7.55817 17.8983C6.25144 16.5915 6.25144 14.4743 7.55817 13.1675ZM14.3613 14.0879C14.3613 13.6737 14.6971 13.3379 15.1113 13.3379H18.3085C18.7227 13.3379 19.0585 13.6737 19.0585 14.0879C19.0585 14.5021 18.7227 14.8379 18.3085 14.8379H15.1113C14.6971 14.8379 14.3613 14.5021 14.3613 14.0879ZM14.3613 16.9175C14.3613 16.5033 14.6971 16.1675 15.1113 16.1675H17.5671C17.9813 16.1675 18.3171 16.5033 18.3171 16.9175C18.3171 17.3317 17.9813 17.6675 17.5671 17.6675H15.1113C14.6971 17.6675 14.3613 17.3317 14.3613 16.9175ZM8.61883 14.2282C8.78376 14.0633 8.97206 13.9361 9.17304 13.8466V15.5329C9.17304 15.7318 9.25208 15.9226 9.39278 16.0633L10.5856 17.2558C9.92612 17.5091 9.15088 17.3696 8.61883 16.8376C7.89789 16.1167 7.89789 14.9492 8.61883 14.2282ZM10.673 13.8462V15.2222L11.6464 16.1952C11.8997 15.5357 11.7603 14.7603 11.2282 14.2282C11.063 14.063 10.8744 13.9357 10.673 13.8462Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 2 — broken style variants.
+class _WebWebPage2Broken {
+  const _WebWebPage2Broken();
+
+  /// Web page 2 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.7586 16.7781C10.7447 17.7919 9.10234 17.7919 8.0885 16.7781C7.07467 15.7643 7.07467 14.1219 8.0885 13.108C9.10234 12.0942 10.7447 12.0942 11.7586 13.108C12.7724 14.1219 12.7724 15.7643 11.7586 16.7781ZM11.7586 16.7781L9.92304 14.9431V12.3481" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.1113 13.498H18.3085M15.1113 16.3277H17.5671" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.16288 6.55078H7.10742M9.64852 6.55078H9.59306M12.1351 6.55078H12.0797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8179 20.9991H17.0345C19.9835 20.9991 21.8174 18.918 21.8174 15.9729V8.02611C21.8174 5.08108 19.9835 3 17.0355 3H8.60124C5.66205 3 3.81836 5.08108 3.81836 8.02611V15.9729C3.81836 18.918 5.65329 20.9991 8.60124 20.9991H9.28579" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.8657 9.49219H3.81836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 2 — twoTone style variants.
+class _WebWebPage2Twotone {
+  const _WebWebPage2Twotone();
+
+  /// Web page 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.10149 3H16.5362C19.4843 3 21.3184 5.08119 21.3184 8.02638V15.9736C21.3184 18.9188 19.4843 21 16.5352 21H8.10149C5.15339 21 3.31836 18.9188 3.31836 15.9736V8.02638C3.31836 5.08119 5.16214 3 8.10149 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.5885 16.7781C8.60234 17.7919 10.2447 17.7919 11.2586 16.7781C12.2724 15.7643 12.2724 14.1219 11.2586 13.108C10.2447 12.0942 8.60234 12.0942 7.5885 13.108C6.57467 14.1219 6.57467 15.7643 7.5885 16.7781Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M11.2584 16.7781L9.42285 14.9431V12.3481" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.6113 13.4985H17.8085M14.6113 16.3281H17.0671" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.3184 9.49121H3.31836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.66288 6.5498H6.60742M9.14852 6.5498H9.09306M11.6351 6.5498H11.5797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 2 — outline style variants.
+class _WebWebPage2Outline {
+  const _WebWebPage2Outline();
+
+  /// Web page 2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.74076 3.89729C4.72547 2.84115 6.12768 2.25 7.78313 2.25H16.2178C17.8772 2.25 19.2796 2.84086 20.2634 3.89773C21.2416 4.94853 21.75 6.39899 21.75 8.02638V15.9736C21.75 17.601 21.2416 19.0515 20.2633 20.1023C19.2793 21.1592 17.8766 21.75 16.2169 21.75H7.78313C6.12379 21.75 4.72117 21.1592 3.73714 20.1024C2.75872 19.0516 2.25 17.6011 2.25 15.9736V8.02638C2.25 6.39795 2.76147 4.9476 3.74076 3.89729ZM3.75 10.2416V15.9736C3.75 17.2913 4.15879 18.354 4.83492 19.0802C5.50542 19.8003 6.49437 20.25 7.78313 20.25H16.2169C17.5062 20.25 18.4951 19.8002 19.1654 19.0802C19.8414 18.3541 20.25 17.2914 20.25 15.9736V10.2416H3.75ZM20.25 8.74155H3.75V8.02638C3.75 6.70962 4.16042 5.64678 4.83786 4.9202C5.50988 4.19944 6.49924 3.75 7.78313 3.75H16.2178C17.5066 3.75 18.4952 4.19973 19.1655 4.91976C19.8414 5.64585 20.25 6.70857 20.25 8.02638V8.74155ZM5.53836 6.54983C5.53836 6.13562 5.87415 5.79983 6.28836 5.79983H6.34382C6.75803 5.79983 7.09382 6.13562 7.09382 6.54983C7.09382 6.96405 6.75803 7.29983 6.34382 7.29983H6.28836C5.87415 7.29983 5.53836 6.96405 5.53836 6.54983ZM8.024 6.54983C8.024 6.13562 8.35979 5.79983 8.774 5.79983H8.82946C9.24367 5.79983 9.57946 6.13562 9.57946 6.54983C9.57946 6.96405 9.24367 7.29983 8.82946 7.29983H8.774C8.35979 7.29983 8.024 6.96405 8.024 6.54983ZM10.5106 6.54983C10.5106 6.13562 10.8464 5.79983 11.2606 5.79983H11.3161C11.7303 5.79983 12.0661 6.13562 12.0661 6.54983C12.0661 6.96405 11.7303 7.29983 11.3161 7.29983H11.2606C10.8464 7.29983 10.5106 6.96405 10.5106 6.54983ZM8.35484 13.2569C8.15386 13.3463 7.96556 13.4735 7.80063 13.6385C7.07969 14.3594 7.07969 15.5269 7.80063 16.2479C8.33268 16.7799 9.10792 16.9193 9.76741 16.6661L8.57457 15.4736C8.43388 15.3329 8.35484 15.1421 8.35484 14.9432V13.2569ZM9.85484 13.2564V14.6324L10.8281 15.6055C11.0815 14.946 10.9421 14.1706 10.41 13.6385C10.2448 13.4733 10.0562 13.3459 9.85484 13.2564ZM6.73997 12.5778C8.0467 11.2711 10.164 11.2711 11.4707 12.5778C12.7774 13.8845 12.7774 16.0018 11.4707 17.3085C10.164 18.6153 8.0467 18.6153 6.73997 17.3085C5.43324 16.0018 5.43324 13.8845 6.73997 12.5778ZM13.5428 13.4984C13.5428 13.0842 13.8785 12.7484 14.2928 12.7484H17.4899C17.9042 12.7484 18.2399 13.0842 18.2399 13.4984C18.2399 13.9126 17.9042 14.2484 17.4899 14.2484H14.2928C13.8785 14.2484 13.5428 13.9126 13.5428 13.4984ZM13.5428 16.328C13.5428 15.9138 13.8785 15.578 14.2928 15.578H16.7485C17.1628 15.578 17.4985 15.9138 17.4985 16.328C17.4985 16.7422 17.1628 17.078 16.7485 17.078H14.2928C13.8785 17.078 13.5428 16.7422 13.5428 16.328Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 2 — bold style variants.
+class _WebWebPage2Bold {
+  const _WebWebPage2Bold();
+
+  /// Web page 2 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.60173 2.5C7.00828 2.5 5.67494 3.06751 4.74239 4.0677C3.81345 5.06401 3.31885 6.44971 3.31885 8.02611V8.74219H22.3179V8.02611C22.3179 6.4504 21.8261 5.06463 20.8984 4.06799C19.9669 3.06731 18.6335 2.5 17.036 2.5H8.60173ZM7.10791 5.80078C6.6937 5.80078 6.35791 6.13657 6.35791 6.55078C6.35791 6.96499 6.6937 7.30078 7.10791 7.30078H7.16337C7.57758 7.30078 7.91337 6.96499 7.91337 6.55078C7.91337 6.13657 7.57758 5.80078 7.16337 5.80078H7.10791ZM9.59342 5.80078C9.17921 5.80078 8.84342 6.13657 8.84342 6.55078C8.84342 6.96499 9.17921 7.30078 9.59342 7.30078H9.64888C10.0631 7.30078 10.3989 6.96499 10.3989 6.55078C10.3989 6.13657 10.0631 5.80078 9.64888 5.80078H9.59342ZM12.0799 5.80078C11.6657 5.80078 11.3299 6.13657 11.3299 6.55078C11.3299 6.96499 11.6657 7.30078 12.0799 7.30078H12.1353C12.5496 7.30078 12.8853 6.96499 12.8853 6.55078C12.8853 6.13657 12.5496 5.80078 12.1353 5.80078H12.0799Z" fill="black"/> <path d="M9.17304 13.8466C8.97206 13.9361 8.78376 14.0633 8.61883 14.2282C7.89789 14.9492 7.89789 16.1167 8.61883 16.8376C9.15088 17.3696 9.92612 17.5091 10.5856 17.2558L9.39278 16.0633C9.25208 15.9226 9.17304 15.7318 9.17304 15.5329V13.8466Z" fill="black"/> <path d="M10.673 13.8462V15.2222L11.6464 16.1952C11.8997 15.5357 11.7603 14.7603 11.2282 14.2282C11.063 14.063 10.8744 13.9357 10.673 13.8462Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.31885 15.9729V10.2422H22.3179V15.9729C22.3179 17.5486 21.8261 18.9344 20.8983 19.9311C19.9666 20.9318 18.633 21.4991 17.035 21.4991H8.60173C7.00423 21.4991 5.67062 20.9317 4.73888 19.9311C3.81089 18.9345 3.31885 17.5487 3.31885 15.9729ZM7.55817 13.1675C8.8649 11.8608 10.9822 11.8608 12.2889 13.1675C13.5956 14.4743 13.5956 16.5915 12.2889 17.8983C10.9822 19.205 8.8649 19.205 7.55817 17.8983C6.25144 16.5915 6.25144 14.4743 7.55817 13.1675ZM14.3613 14.0879C14.3613 13.6737 14.6971 13.3379 15.1113 13.3379H18.3085C18.7227 13.3379 19.0585 13.6737 19.0585 14.0879C19.0585 14.5021 18.7227 14.8379 18.3085 14.8379H15.1113C14.6971 14.8379 14.3613 14.5021 14.3613 14.0879ZM14.3613 16.9175C14.3613 16.5033 14.6971 16.1675 15.1113 16.1675H17.5671C17.9813 16.1675 18.3171 16.5033 18.3171 16.9175C18.3171 17.3317 17.9813 17.6675 17.5671 17.6675H15.1113C14.6971 17.6675 14.3613 17.3317 14.3613 16.9175Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 2 — light style variants.
+class _WebWebPage2Light {
+  const _WebWebPage2Light();
+
+  /// Web page 2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78313 3H16.2178C19.1659 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.1659 21 16.2169 21H7.78313C4.83503 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84378 3 7.78313 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.9402 16.7781C9.92636 17.7919 8.28398 17.7919 7.27014 16.7781C6.25631 15.7643 6.25631 14.1219 7.27014 13.108C8.28398 12.0942 9.92636 12.0942 10.9402 13.108C11.954 14.1219 11.954 15.7643 10.9402 16.7781ZM10.9402 16.7781L9.10468 14.9431V12.3481" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.293 13.4985H17.4902M14.293 16.3281H16.7488" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 9.49146H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.34452 6.5498H6.28906M8.83016 6.5498H8.7747M11.3168 6.5498H11.2613" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 3 icon with style variants.
+class _WebWebPage3Icon {
+  const _WebWebPage3Icon();
+
+  /// bold style
+  _WebWebPage3Bold get bold => const _WebWebPage3Bold();
+  /// bulk style
+  _WebWebPage3Bulk get bulk => const _WebWebPage3Bulk();
+  /// light style
+  _WebWebPage3Light get light => const _WebWebPage3Light();
+  /// outline style
+  _WebWebPage3Outline get outline => const _WebWebPage3Outline();
+  /// twoTone style
+  _WebWebPage3Twotone get twoTone => const _WebWebPage3Twotone();
+  /// broken style
+  _WebWebPage3Broken get broken => const _WebWebPage3Broken();
+}
+
+/// Web page 3 — bulk style variants.
+class _WebWebPage3Bulk {
+  const _WebWebPage3Bulk();
+
+  /// Web page 3 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.60173 2.5C7.00828 2.5 5.67494 3.06751 4.74239 4.0677C3.81345 5.06401 3.31885 6.44971 3.31885 8.02611V8.74219H22.3179V8.02611C22.3179 6.4504 21.8261 5.06463 20.8984 4.06799C19.9669 3.06731 18.6335 2.5 17.036 2.5H8.60173Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.31885 15.9729V10.2422H22.3179V15.9729C22.3179 17.5486 21.8261 18.9344 20.8983 19.9311C19.9666 20.9318 18.633 21.4991 17.035 21.4991H8.60173C7.00423 21.4991 5.67062 20.9317 4.73888 19.9311C3.81089 18.9345 3.31885 17.5487 3.31885 15.9729Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.35791 6.55078C6.35791 6.13657 6.6937 5.80078 7.10791 5.80078H7.16337C7.57758 5.80078 7.91337 6.13657 7.91337 6.55078C7.91337 6.96499 7.57758 7.30078 7.16337 7.30078H7.10791C6.6937 7.30078 6.35791 6.96499 6.35791 6.55078ZM8.84342 6.55078C8.84342 6.13657 9.17921 5.80078 9.59342 5.80078H9.64888C10.0631 5.80078 10.3989 6.13657 10.3989 6.55078C10.3989 6.96499 10.0631 7.30078 9.64888 7.30078H9.59342C9.17921 7.30078 8.84342 6.96499 8.84342 6.55078ZM11.3299 6.55078C11.3299 6.13657 11.6657 5.80078 12.0799 5.80078H12.1353C12.5496 5.80078 12.8853 6.13657 12.8853 6.55078C12.8853 6.96499 12.5496 7.30078 12.1353 7.30078H12.0799C11.6657 7.30078 11.3299 6.96499 11.3299 6.55078Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5117 12.9156C14.0975 12.9156 13.7617 13.2514 13.7617 13.6656C13.7617 14.0798 14.0975 14.4156 14.5117 14.4156H18.0415C18.4557 14.4156 18.7915 14.0798 18.7915 13.6656C18.7915 13.2514 18.4557 12.9156 18.0415 12.9156H14.5117ZM14.5117 16.2216C14.0975 16.2216 13.7617 16.5574 13.7617 16.9716C13.7617 17.3858 14.0975 17.7216 14.5117 17.7216H18.0415C18.4557 17.7216 18.7915 17.3858 18.7915 16.9716C18.7915 16.5574 18.4557 16.2216 18.0415 16.2216H14.5117ZM6.8457 14.5725C6.8457 13.5215 7.69755 12.6715 8.74667 12.6715H10.2372C11.2863 12.6715 12.1382 13.5215 12.1382 14.5725V16.062C12.1382 17.1129 11.2863 17.963 10.2372 17.963H8.74667C7.69755 17.963 6.8457 17.1129 6.8457 16.062V14.5725ZM8.3457 14.5725C8.3457 14.3508 8.52515 14.1715 8.74667 14.1715H10.2372C10.4587 14.1715 10.6382 14.3508 10.6382 14.5725V16.062C10.6382 16.2837 10.4587 16.463 10.2372 16.463H8.74667C8.52515 16.463 8.3457 16.2837 8.3457 16.062V14.5725Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 3 — broken style variants.
+class _WebWebPage3Broken {
+  const _WebWebPage3Broken();
+
+  /// Web page 3 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.8179 20.9991H17.0345C19.9835 20.9991 21.8174 18.918 21.8174 15.9729V8.02611C21.8174 5.08108 19.9835 3 17.0355 3H8.60124C5.66205 3 3.81836 5.08108 3.81836 8.02611V15.9729C3.81836 18.918 5.65329 20.9991 8.60124 20.9991H9.28579" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5117 13.1895H18.0415M14.5117 16.4954H18.0415" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.2372 16.7368H8.74667C8.11135 16.7368 7.5957 16.2221 7.5957 15.5858V14.0963C7.5957 13.46 8.11135 12.9453 8.74667 12.9453H10.2372C10.8725 12.9453 11.3882 13.46 11.3882 14.0963V15.5858C11.3882 16.2221 10.8725 16.7368 10.2372 16.7368Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.16288 6.55078H7.10742M9.64839 6.55078H9.59293M12.1339 6.55078H12.0784" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.8657 9.49219H3.81836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 3 — twoTone style variants.
+class _WebWebPage3Twotone {
+  const _WebWebPage3Twotone();
+
+  /// Web page 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.10124 3.00049H16.5355C19.4835 3.00049 21.3174 5.08157 21.3174 8.0266V15.9734C21.3174 18.9185 19.4835 20.9995 16.5345 20.9995H8.10124C5.15329 20.9995 3.31836 18.9185 3.31836 15.9734V8.0266C3.31836 5.08157 5.16205 3.00049 8.10124 3.00049Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.0117 13.189H17.5415M14.0117 16.4949H17.5415" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.73719 16.7378H8.24667C7.61135 16.7378 7.0957 16.2231 7.0957 15.5868V14.0973C7.0957 13.461 7.61135 12.9463 8.24667 12.9463H9.73719C10.3725 12.9463 10.8882 13.461 10.8882 14.0973V15.5868C10.8882 16.2231 10.3725 16.7378 9.73719 16.7378Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.66288 6.5498H6.60742M9.14839 6.5498H9.09293M11.6339 6.5498H11.5784" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.3174 9.4917H3.31836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 3 — outline style variants.
+class _WebWebPage3Outline {
+  const _WebWebPage3Outline();
+
+  /// Web page 3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.74069 3.8977C4.72536 2.84161 6.12751 2.25049 7.78288 2.25049H16.2171C17.8764 2.25049 19.2788 2.84132 20.2625 3.89814C21.2407 4.9489 21.7491 6.39929 21.7491 8.0266V9.45362C21.7497 9.46623 21.75 9.47893 21.75 9.4917C21.75 9.50447 21.7497 9.51716 21.7491 9.52978V15.9734C21.7491 17.6007 21.2407 19.0512 20.2624 20.1019C19.2785 21.1588 17.8759 21.7495 16.2162 21.7495H7.78288C6.12362 21.7495 4.72106 21.1587 3.73707 20.102C2.7587 19.0512 2.25 17.6008 2.25 15.9734V8.0266C2.25 6.39825 2.76145 4.94796 3.74069 3.8977ZM20.2491 8.7417V8.0266C20.2491 6.70887 19.8405 5.64622 19.1646 4.92017C18.4944 4.2002 17.5058 3.75049 16.2171 3.75049H7.78288C6.49906 3.75049 5.50977 4.1999 4.8378 4.92061C4.16039 5.64715 3.75 6.70992 3.75 8.0266V8.7417H20.2491ZM3.75 10.2417H20.2491V15.9734C20.2491 17.2912 19.8405 18.3538 19.1645 19.0798C18.4942 19.7998 17.5054 20.2495 16.2162 20.2495H7.78288C6.49419 20.2495 5.50531 19.7998 4.83485 19.0798C4.15876 18.3537 3.75 17.291 3.75 15.9734V10.2417ZM5.53914 6.55013C5.53914 6.13592 5.87492 5.80013 6.28914 5.80013H6.34459C6.75881 5.80013 7.09459 6.13592 7.09459 6.55013C7.09459 6.96434 6.75881 7.30013 6.34459 7.30013H6.28914C5.87492 7.30013 5.53914 6.96434 5.53914 6.55013ZM8.02465 6.55013C8.02465 6.13592 8.36043 5.80013 8.77465 5.80013H8.8301C9.24432 5.80013 9.5801 6.13592 9.5801 6.55013C9.5801 6.96434 9.24432 7.30013 8.8301 7.30013H8.77465C8.36043 7.30013 8.02465 6.96434 8.02465 6.55013ZM10.5102 6.55013C10.5102 6.13592 10.8459 5.80013 11.2602 5.80013H11.3156C11.7298 5.80013 12.0656 6.13592 12.0656 6.55013C12.0656 6.96434 11.7298 7.30013 11.3156 7.30013H11.2602C10.8459 7.30013 10.5102 6.96434 10.5102 6.55013ZM7.92769 13.6963C7.70617 13.6963 7.52672 13.8756 7.52672 14.0973V15.5868C7.52672 15.8085 7.70617 15.9878 7.92769 15.9878H9.4182C9.63972 15.9878 9.81917 15.8085 9.81917 15.5868V14.0973C9.81917 13.8756 9.63972 13.6963 9.4182 13.6963H7.92769ZM6.02672 14.0973C6.02672 13.0464 6.87857 12.1963 7.92769 12.1963H9.4182C10.4673 12.1963 11.3192 13.0464 11.3192 14.0973V15.5868C11.3192 16.6378 10.4673 17.4878 9.4182 17.4878H7.92769C6.87857 17.4878 6.02672 16.6378 6.02672 15.5868V14.0973ZM12.9436 13.1891C12.9436 12.7749 13.2794 12.4391 13.6936 12.4391H17.2233C17.6376 12.4391 17.9733 12.7749 17.9733 13.1891C17.9733 13.6033 17.6376 13.9391 17.2233 13.9391H13.6936C13.2794 13.9391 12.9436 13.6033 12.9436 13.1891ZM12.9436 16.495C12.9436 16.0808 13.2794 15.745 13.6936 15.745H17.2233C17.6376 15.745 17.9733 16.0808 17.9733 16.495C17.9733 16.9092 17.6376 17.245 17.2233 17.245H13.6936C13.2794 17.245 12.9436 16.9092 12.9436 16.495Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 3 — bold style variants.
+class _WebWebPage3Bold {
+  const _WebWebPage3Bold();
+
+  /// Web page 3 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 3',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.74239 4.0677C5.67494 3.06751 7.00828 2.5 8.60173 2.5H17.036C18.6335 2.5 19.9669 3.06731 20.8984 4.06799C21.8261 5.06463 22.3179 6.4504 22.3179 8.02611V8.74219H3.31885V8.02611C3.31885 6.44971 3.81345 5.06401 4.74239 4.0677ZM6.35791 6.55078C6.35791 6.13657 6.6937 5.80078 7.10791 5.80078H7.16337C7.57758 5.80078 7.91337 6.13657 7.91337 6.55078C7.91337 6.96499 7.57758 7.30078 7.16337 7.30078H7.10791C6.6937 7.30078 6.35791 6.96499 6.35791 6.55078ZM8.84342 6.55078C8.84342 6.13657 9.17921 5.80078 9.59342 5.80078H9.64888C10.0631 5.80078 10.3989 6.13657 10.3989 6.55078C10.3989 6.96499 10.0631 7.30078 9.64888 7.30078H9.59342C9.17921 7.30078 8.84342 6.96499 8.84342 6.55078ZM11.3299 6.55078C11.3299 6.13657 11.6657 5.80078 12.0799 5.80078H12.1353C12.5496 5.80078 12.8853 6.13657 12.8853 6.55078C12.8853 6.96499 12.5496 7.30078 12.1353 7.30078H12.0799C11.6657 7.30078 11.3299 6.96499 11.3299 6.55078Z" fill="black"/> <path d="M8.3457 14.5725C8.3457 14.3508 8.52515 14.1715 8.74667 14.1715H10.2372C10.4587 14.1715 10.6382 14.3508 10.6382 14.5725V16.062C10.6382 16.2837 10.4587 16.463 10.2372 16.463H8.74667C8.52515 16.463 8.3457 16.2837 8.3457 16.062V14.5725Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.31885 10.2422V15.9729C3.31885 17.5487 3.81089 18.9345 4.73888 19.9311C5.67062 20.9317 7.00423 21.4991 8.60173 21.4991H17.035C18.633 21.4991 19.9666 20.9318 20.8983 19.9311C21.8261 18.9344 22.3179 17.5486 22.3179 15.9729V10.2422H3.31885ZM13.7617 13.6656C13.7617 13.2514 14.0975 12.9156 14.5117 12.9156H18.0415C18.4557 12.9156 18.7915 13.2514 18.7915 13.6656C18.7915 14.0798 18.4557 14.4156 18.0415 14.4156H14.5117C14.0975 14.4156 13.7617 14.0798 13.7617 13.6656ZM13.7617 16.9716C13.7617 16.5574 14.0975 16.2216 14.5117 16.2216H18.0415C18.4557 16.2216 18.7915 16.5574 18.7915 16.9716C18.7915 17.3858 18.4557 17.7216 18.0415 17.7216H14.5117C14.0975 17.7216 13.7617 17.3858 13.7617 16.9716ZM8.74667 12.6715C7.69755 12.6715 6.8457 13.5215 6.8457 14.5725V16.062C6.8457 17.1129 7.69755 17.963 8.74667 17.963H10.2372C11.2863 17.963 12.1382 17.1129 12.1382 16.062V14.5725C12.1382 13.5215 11.2863 12.6715 10.2372 12.6715H8.74667Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page 3 — light style variants.
+class _WebWebPage3Light {
+  const _WebWebPage3Light();
+
+  /// Web page 3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page 3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78288 3.00049H16.2171C19.1651 3.00049 20.9991 5.08157 20.9991 8.0266V15.9734C20.9991 18.9185 19.1651 20.9995 16.2162 20.9995H7.78288C4.83493 20.9995 3 18.9185 3 15.9734V8.0266C3 5.08157 4.84369 3.00049 7.78288 3.00049Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6934 13.189H17.2231M13.6934 16.4949H17.2231" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.41883 16.7378H7.92831C7.29299 16.7378 6.77734 16.2231 6.77734 15.5868V14.0973C6.77734 13.461 7.29299 12.9463 7.92831 12.9463H9.41883C10.0541 12.9463 10.5698 13.461 10.5698 14.0973V15.5868C10.5698 16.2231 10.0541 16.7378 9.41883 16.7378Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.34452 6.55005H6.28906M8.83003 6.55005H8.77457M11.3155 6.55005H11.2601" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.9991 9.4917H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Web',
     style: IconfyStyle.light,
     type: IconfyType.regular,
@@ -1936,44 +2560,8 @@ class _WebWebPageGridLight {
 class _WebWorldNetworkIcon {
   const _WebWorldNetworkIcon();
 
-  /// bold style
-  _WebWorldNetworkBold get bold => const _WebWorldNetworkBold();
-  /// bulk style
-  _WebWorldNetworkBulk get bulk => const _WebWorldNetworkBulk();
   /// twoTone style
   _WebWorldNetworkTwotone get twoTone => const _WebWorldNetworkTwotone();
-  /// broken style
-  _WebWorldNetworkBroken get broken => const _WebWorldNetworkBroken();
-}
-
-/// World Network — bulk style variants.
-class _WebWorldNetworkBulk {
-  const _WebWorldNetworkBulk();
-
-  /// World Network — bulk / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'World Network',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.90024 12.0007C7.90024 11.0247 7.96024 10.0477 8.07324 9.10766C6.38024 8.91266 4.78424 8.60066 3.30824 8.18066C2.79224 9.35066 2.50024 10.6417 2.50024 12.0007C2.50024 13.3597 2.79124 14.6497 3.30724 15.8197C4.78724 15.3977 6.38424 15.0847 8.07324 14.8907C7.96024 13.9517 7.90024 12.9757 7.90024 12.0007Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9267 9.10809C16.0397 10.0481 16.0997 11.0251 16.0997 12.0011C16.0997 12.9761 16.0397 13.9511 15.9267 14.8901C17.6157 15.0841 19.2127 15.3971 20.6927 15.8181C21.2087 14.6491 21.4997 13.3591 21.4997 12.0011C21.4997 10.6421 21.2077 9.35209 20.6917 8.18109C19.2157 8.60209 17.6187 8.91409 15.9267 9.10809Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.56709 9.24017C9.46209 10.0832 9.40009 11.0042 9.40009 12.0002C9.40009 12.9952 9.46209 13.9162 9.56709 14.7582C11.1841 14.6442 12.8111 14.6442 14.4331 14.7582C14.5381 13.9162 14.6001 12.9952 14.6001 12.0002C14.6001 11.0042 14.5381 10.0832 14.4331 9.24017C13.6221 9.29717 12.8101 9.33617 11.9981 9.33617C11.1861 9.33617 10.3751 9.29717 9.56709 9.24017Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1876 7.75439C13.6576 5.23139 12.7186 3.74939 11.9996 3.74939C11.2806 3.74939 10.3426 5.23139 9.81262 7.75439C11.2656 7.85039 12.7286 7.85039 14.1876 7.75439Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.81152 16.2418C10.3415 18.7668 11.2805 20.2498 11.9995 20.2498C12.7195 20.2498 13.6585 18.7668 14.1885 16.2418C12.7295 16.1448 11.2665 16.1448 9.81152 16.2418Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6974 16.3723C15.2314 18.7573 14.3614 20.6983 13.1124 21.4283C15.9784 21.0923 18.4544 19.4773 19.9594 17.1693C18.6304 16.8103 17.2044 16.5413 15.6974 16.3723Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.30277 16.3729C6.79577 16.5429 5.36977 16.8119 4.04077 17.1709C5.54577 19.4789 8.02177 21.0929 10.8878 21.4289C9.63877 20.6979 8.76877 18.7579 8.30277 16.3729Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.30324 7.62356C8.76924 5.24056 9.63924 3.30056 10.8872 2.57056C8.02224 2.90656 5.54724 4.52056 4.04224 6.82656C5.36724 7.18456 6.79324 7.45356 8.30324 7.62356Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6969 7.62431C17.2069 7.45431 18.6329 7.18531 19.9579 6.82831C18.4539 4.52131 15.9779 2.90731 13.1119 2.57031C14.3609 3.30131 15.2309 5.24031 15.6969 7.62431Z" fill="black"/> </g> </svg>',
-    category: 'Web',
-    style: IconfyStyle.bulk,
-    type: IconfyType.regular,
-  );
-
-}
-
-/// World Network — broken style variants.
-class _WebWorldNetworkBroken {
-  const _WebWorldNetworkBroken();
-
-  /// World Network — broken / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'World Network',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 3C17.2209 3 21.25 7.02908 21.25 12C21.25 16.9709 17.2209 21 12.25 21C7.27908 21 3.25 16.9709 3.25 12C3.25 8.58793 5.14831 5.61962 7.94651 4.09347" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2497 21C14.1003 21 15.5996 16.9709 15.5996 12C15.5996 7.02908 14.1003 3 12.2497 3C10.3991 3 8.89972 7.02908 8.89972 12C8.89972 14.329 9.22886 16.4513 9.76905 18.0493" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.25 11.9974C21.25 13.848 17.2209 15.3474 12.25 15.3474C7.27908 15.3474 3.25 13.848 3.25 11.9974C3.25 10.1468 7.27908 8.64746 12.25 8.64746C14.5915 8.64746 16.7241 8.98014 18.325 9.5255" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
-    category: 'Web',
-    style: IconfyStyle.broken,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// World Network — twoTone style variants.
@@ -1983,6 +2571,75 @@ class _WebWorldNetworkTwotone {
   /// World Network — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'World Network',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5 3C17.4709 3 21.5 7.02908 21.5 12C21.5 16.9709 17.4709 21 12.5 21C7.52908 21 3.5 16.9709 3.5 12C3.5 7.02908 7.52908 3 12.5 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.4994 3C14.35 3 15.8493 7.02908 15.8493 12C15.8493 16.9709 14.35 21 12.4994 21C10.6488 21 9.14941 16.9709 9.14941 12C9.14941 7.02908 10.6488 3 12.4994 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 11.9984C21.5 13.849 17.4709 15.3483 12.5 15.3483C7.52908 15.3483 3.5 13.849 3.5 11.9984C3.5 10.1478 7.52908 8.64844 12.5 8.64844C17.4709 8.64844 21.5 10.1478 21.5 11.9984Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// World Network 1 icon with style variants.
+class _WebWorldNetwork1Icon {
+  const _WebWorldNetwork1Icon();
+
+  /// twoTone style
+  _WebWorldNetwork1Twotone get twoTone => const _WebWorldNetwork1Twotone();
+}
+
+/// World Network 1 — twoTone style variants.
+class _WebWorldNetwork1Twotone {
+  const _WebWorldNetwork1Twotone();
+
+  /// World Network 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'World Network 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5 3C17.4709 3 21.5 7.02908 21.5 12C21.5 16.9709 17.4709 21 12.5 21C7.52908 21 3.5 16.9709 3.5 12C3.5 7.02908 7.52908 3 12.5 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.4994 3C14.35 3 15.8493 7.02908 15.8493 12C15.8493 16.9709 14.35 21 12.4994 21C10.6488 21 9.14941 16.9709 9.14941 12C9.14941 7.02908 10.6488 3 12.4994 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.5 11.9984C21.5 13.849 17.4709 15.3483 12.5 15.3483C7.52908 15.3483 3.5 13.849 3.5 11.9984C3.5 10.1478 7.52908 8.64844 12.5 8.64844C17.4709 8.64844 21.5 10.1478 21.5 11.9984Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// World Network 2 icon with style variants.
+class _WebWorldNetwork2Icon {
+  const _WebWorldNetwork2Icon();
+
+  /// twoTone style
+  _WebWorldNetwork2Twotone get twoTone => const _WebWorldNetwork2Twotone();
+}
+
+/// World Network 2 — twoTone style variants.
+class _WebWorldNetwork2Twotone {
+  const _WebWorldNetwork2Twotone();
+
+  /// World Network 2 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'World Network 2',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8633 3C17.8342 3 21.8633 7.02908 21.8633 12C21.8633 16.9709 17.8342 21 12.8633 21C7.89236 21 3.86328 16.9709 3.86328 12C3.86328 7.02908 7.89236 3 12.8633 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.8626 3C14.7132 3 16.2126 7.02908 16.2126 12C16.2126 16.9709 14.7132 21 12.8626 21C11.012 21 9.5127 16.9709 9.5127 12C9.5127 7.02908 11.012 3 12.8626 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.87793 7.84375C6.39479 8.31175 8.04301 8.62991 9.73793 8.80797C11.7977 9.02397 13.9237 9.02397 15.9932 8.80797C17.6881 8.62991 19.3363 8.31175 20.8532 7.84375" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.8532 16.1536C19.3363 15.6856 17.6881 15.3674 15.9932 15.1893C13.9237 14.9733 11.7977 14.9733 9.73793 15.1893C8.04301 15.3674 6.39479 15.6856 4.87793 16.1536" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// World Network 3 icon with style variants.
+class _WebWorldNetwork3Icon {
+  const _WebWorldNetwork3Icon();
+
+  /// twoTone style
+  _WebWorldNetwork3Twotone get twoTone => const _WebWorldNetwork3Twotone();
+}
+
+/// World Network 3 — twoTone style variants.
+class _WebWorldNetwork3Twotone {
+  const _WebWorldNetwork3Twotone();
+
+  /// World Network 3 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'World Network 3',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.5 3C17.4709 3 21.5 7.02908 21.5 12C21.5 16.9709 17.4709 21 12.5 21C7.52908 21 3.5 16.9709 3.5 12C3.5 7.02908 7.52908 3 12.5 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.4994 3C14.35 3 15.8493 7.02908 15.8493 12C15.8493 16.9709 14.35 21 12.4994 21C10.6488 21 9.14941 16.9709 9.14941 12C9.14941 7.02908 10.6488 3 12.4994 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.5 11.9982H21.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Web',
     style: IconfyStyle.twoTone,
@@ -1991,16 +2648,277 @@ class _WebWorldNetworkTwotone {
 
 }
 
-/// World Network — bold style variants.
-class _WebWorldNetworkBold {
-  const _WebWorldNetworkBold();
+/// World Network 4 icon with style variants.
+class _WebWorldNetwork4Icon {
+  const _WebWorldNetwork4Icon();
 
-  /// World Network — bold / regular
+  /// bulk style
+  _WebWorldNetwork4Bulk get bulk => const _WebWorldNetwork4Bulk();
+}
+
+/// World Network 4 — bulk style variants.
+class _WebWorldNetwork4Bulk {
+  const _WebWorldNetwork4Bulk();
+
+  /// World Network 4 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'World Network',
+    name: 'World Network 4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7968 8.19831C18.4378 8.63231 20.6398 9.53531 21.4288 10.8833C20.9168 6.53531 17.4608 3.08031 13.1118 2.57031C14.4588 3.35831 15.3628 5.55831 15.7968 8.19831Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.20207 15.7937C5.56007 15.3597 3.35807 14.4557 2.57007 13.1077C3.07907 17.4587 6.53707 20.9177 10.8881 21.4287C9.54007 20.6397 8.63607 18.4367 8.20207 15.7937Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7979 15.7937C15.3639 18.4367 14.4599 20.6397 13.1119 21.4287C17.4629 20.9177 20.9209 17.4587 21.4299 13.1077C20.6419 14.4557 18.4399 15.3597 15.7979 15.7937Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.20317 8.19831C8.63717 5.55831 9.54117 3.35831 10.8882 2.57031C6.53917 3.08031 3.08317 6.53531 2.57117 10.8833C3.36017 9.53531 5.56217 8.63231 8.20317 8.19831Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4661 9.529C13.7031 9.445 12.8821 9.396 12.0001 9.396C11.1181 9.396 10.2961 9.445 9.53415 9.529C9.45015 10.293 9.40015 11.116 9.40015 11.999C9.40015 12.88 9.45015 13.701 9.53315 14.463C10.2961 14.546 11.1181 14.596 12.0001 14.596C12.8821 14.596 13.7041 14.546 14.4671 14.463C14.5501 13.701 14.5991 12.88 14.5991 11.999C14.5991 11.116 14.5501 10.293 14.4661 9.529Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 16.0957C11.249 16.0957 10.498 16.0577 9.76196 15.9907C10.281 18.6667 11.258 20.2487 12 20.2487C12.742 20.2487 13.719 18.6667 14.238 15.9907C13.502 16.0577 12.751 16.0957 12 16.0957Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9999 7.89602C12.7509 7.89602 13.5009 7.93402 14.2369 8.00102C13.7169 5.32802 12.7419 3.74902 11.9999 3.74902C11.2579 3.74902 10.2829 5.32802 9.76294 8.00102C10.4989 7.93402 11.2489 7.89602 11.9999 7.89602Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.75 11.9961C3.75 12.7381 5.331 13.7141 8.005 14.2331C7.938 13.4991 7.9 12.7491 7.9 11.9991C7.9 11.2471 7.938 10.4951 8.006 9.75806C5.331 10.2771 3.75 11.2541 3.75 11.9961Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.25 11.9961C20.25 11.2541 18.669 10.2771 15.994 9.75806C16.062 10.4951 16.1 11.2471 16.1 11.9991C16.1 12.7491 16.062 13.4991 15.995 14.2331C18.669 13.7141 20.25 12.7381 20.25 11.9961Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// World Network 5 icon with style variants.
+class _WebWorldNetwork5Icon {
+  const _WebWorldNetwork5Icon();
+
+  /// bulk style
+  _WebWorldNetwork5Bulk get bulk => const _WebWorldNetwork5Bulk();
+}
+
+/// World Network 5 — bulk style variants.
+class _WebWorldNetwork5Bulk {
+  const _WebWorldNetwork5Bulk();
+
+  /// World Network 5 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'World Network 5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.2372 15.2436C15.3622 14.2056 15.4382 13.1246 15.4382 11.9926C15.4382 10.8656 15.3622 9.78663 15.2382 8.75463C13.1452 8.50463 10.8412 8.50563 8.75918 8.75363C8.63618 9.78563 8.56018 10.8626 8.56018 11.9926C8.56018 13.1316 8.63618 14.2126 8.76018 15.2436C10.8422 15.4916 13.1672 15.4906 15.2372 15.2436Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.3708 10.5058C21.3428 10.4928 21.3128 10.4908 21.2858 10.4748C20.2248 9.82284 18.6418 9.29784 16.7678 8.96484C16.8698 9.93884 16.9388 10.9438 16.9388 11.9928C16.9388 13.0458 16.8698 14.0538 16.7668 15.0318C18.6528 14.6968 20.2318 14.1658 21.2788 13.5058C21.3088 13.4868 21.3428 13.4838 21.3748 13.4698C21.4498 12.9888 21.4998 12.5008 21.4998 11.9998C21.4998 11.4898 21.4488 10.9938 21.3708 10.5058Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.06024 11.9926C7.06024 10.9416 7.12824 9.93858 7.23024 8.96558C5.35324 9.29958 3.77324 9.82758 2.71324 10.4846C2.68624 10.5016 2.65624 10.5096 2.62724 10.5226C2.55124 11.0056 2.50024 11.4966 2.50024 11.9996C2.50024 12.5016 2.55124 12.9896 2.62624 13.4706C2.65624 13.4846 2.68824 13.4866 2.71724 13.5046C3.77124 14.1666 5.35324 14.6976 7.23024 15.0326C7.12824 14.0586 7.06024 13.0506 7.06024 11.9926Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5766 7.41465C18.2046 7.67265 19.6716 8.06965 20.8516 8.57465C19.8856 6.08665 17.9046 4.10865 15.4156 3.14465C15.9196 4.31565 16.3176 5.77965 16.5766 7.41465Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.42079 7.41458C7.68079 5.78358 8.08079 4.31858 8.59079 3.14258C6.09779 4.10558 4.11279 6.08758 3.14679 8.58058C4.32479 8.07258 5.79079 7.67358 7.42079 7.41458Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5089 21.2838C14.1629 20.2408 14.6909 18.6598 15.0259 16.7738C14.0539 16.8758 13.0489 16.9438 11.9979 16.9438C10.9489 16.9438 9.94486 16.8758 8.97186 16.7738C9.30786 18.6538 9.83886 20.2328 10.4979 21.2838C10.5159 21.3128 10.5189 21.3448 10.5319 21.3748C11.0119 21.4488 11.4999 21.4998 11.9999 21.4998C12.5029 21.4998 12.9929 21.4488 13.4749 21.3728C13.4889 21.3438 13.4909 21.3118 13.5089 21.2838Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.498 2.71C9.83801 3.763 9.30701 5.345 8.97101 7.224C10.936 7.02 13.053 7.019 15.026 7.225C14.691 5.334 14.163 3.753 13.509 2.71C13.492 2.684 13.49 2.654 13.477 2.626C12.995 2.55 12.504 2.5 12 2.5C11.499 2.5 11.01 2.55 10.53 2.625C10.517 2.653 10.515 2.683 10.498 2.71Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.576 16.5828C16.317 18.2178 15.919 19.6838 15.413 20.8548C17.906 19.8908 19.89 17.9078 20.855 15.4148C19.684 15.9268 18.233 16.3208 16.576 16.5828Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.42104 16.5828C5.78904 16.3238 4.32104 15.9228 3.14404 15.4108C4.10904 17.9078 6.09604 19.8928 8.59304 20.8578C8.08304 19.6828 7.68204 18.2168 7.42104 16.5828Z" fill="black"/> </g> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// World Network 6 icon with style variants.
+class _WebWorldNetwork6Icon {
+  const _WebWorldNetwork6Icon();
+
+  /// bulk style
+  _WebWorldNetwork6Bulk get bulk => const _WebWorldNetwork6Bulk();
+}
+
+/// World Network 6 — bulk style variants.
+class _WebWorldNetwork6Bulk {
+  const _WebWorldNetwork6Bulk();
+
+  /// World Network 6 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'World Network 6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.90024 12.0007C7.90024 11.0247 7.96024 10.0477 8.07324 9.10766C6.38024 8.91266 4.78424 8.60066 3.30824 8.18066C2.79224 9.35066 2.50024 10.6417 2.50024 12.0007C2.50024 13.3597 2.79124 14.6497 3.30724 15.8197C4.78724 15.3977 6.38424 15.0847 8.07324 14.8907C7.96024 13.9517 7.90024 12.9757 7.90024 12.0007Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9267 9.10809C16.0397 10.0481 16.0997 11.0251 16.0997 12.0011C16.0997 12.9761 16.0397 13.9511 15.9267 14.8901C17.6157 15.0841 19.2127 15.3971 20.6927 15.8181C21.2087 14.6491 21.4997 13.3591 21.4997 12.0011C21.4997 10.6421 21.2077 9.35209 20.6917 8.18109C19.2157 8.60209 17.6187 8.91409 15.9267 9.10809Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.56709 9.24017C9.46209 10.0832 9.40009 11.0042 9.40009 12.0002C9.40009 12.9952 9.46209 13.9162 9.56709 14.7582C11.1841 14.6442 12.8111 14.6442 14.4331 14.7582C14.5381 13.9162 14.6001 12.9952 14.6001 12.0002C14.6001 11.0042 14.5381 10.0832 14.4331 9.24017C13.6221 9.29717 12.8101 9.33617 11.9981 9.33617C11.1861 9.33617 10.3751 9.29717 9.56709 9.24017Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1876 7.75439C13.6576 5.23139 12.7186 3.74939 11.9996 3.74939C11.2806 3.74939 10.3426 5.23139 9.81262 7.75439C11.2656 7.85039 12.7286 7.85039 14.1876 7.75439Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.81152 16.2418C10.3415 18.7668 11.2805 20.2498 11.9995 20.2498C12.7195 20.2498 13.6585 18.7668 14.1885 16.2418C12.7295 16.1448 11.2665 16.1448 9.81152 16.2418Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6974 16.3723C15.2314 18.7573 14.3614 20.6983 13.1124 21.4283C15.9784 21.0923 18.4544 19.4773 19.9594 17.1693C18.6304 16.8103 17.2044 16.5413 15.6974 16.3723Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.30277 16.3729C6.79577 16.5429 5.36977 16.8119 4.04077 17.1709C5.54577 19.4789 8.02177 21.0929 10.8878 21.4289C9.63877 20.6979 8.76877 18.7579 8.30277 16.3729Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.30324 7.62356C8.76924 5.24056 9.63924 3.30056 10.8872 2.57056C8.02224 2.90656 5.54724 4.52056 4.04224 6.82656C5.36724 7.18456 6.79324 7.45356 8.30324 7.62356Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6969 7.62431C17.2069 7.45431 18.6329 7.18531 19.9579 6.82831C18.4539 4.52131 15.9779 2.90731 13.1119 2.57031C14.3609 3.30131 15.2309 5.24031 15.6969 7.62431Z" fill="black"/> </g> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// World Network 7 icon with style variants.
+class _WebWorldNetwork7Icon {
+  const _WebWorldNetwork7Icon();
+
+  /// bulk style
+  _WebWorldNetwork7Bulk get bulk => const _WebWorldNetwork7Bulk();
+}
+
+/// World Network 7 — bulk style variants.
+class _WebWorldNetwork7Bulk {
+  const _WebWorldNetwork7Bulk();
+
+  /// World Network 7 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'World Network 7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.41412 12.75C9.55812 17.351 10.9941 20.25 12.0001 20.25C13.0061 20.25 14.4421 17.351 14.5861 12.75H9.41412Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0865 12.75C15.9705 16.618 14.9575 20.35 13.1125 21.429C17.5825 20.904 21.1065 17.268 21.4625 12.75H16.0865Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.91348 12.75H2.53748C2.89348 17.268 6.41748 20.904 10.8875 21.429C9.04248 20.35 8.02948 16.618 7.91348 12.75Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9999 3.74933C10.9939 3.74933 9.55794 6.64833 9.41394 11.2493H14.5859C14.4419 6.64833 13.0059 3.74933 11.9999 3.74933Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0865 11.2493H21.4625C21.1065 6.73131 17.5825 3.09531 13.1125 2.57031C14.9575 3.64931 15.9705 7.38131 16.0865 11.2493Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.91348 11.2493C8.02948 7.38131 9.04248 3.64931 10.8875 2.57031C6.41748 3.09531 2.89348 6.73131 2.53748 11.2493H7.91348Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// World Network 8 icon with style variants.
+class _WebWorldNetwork8Icon {
+  const _WebWorldNetwork8Icon();
+
+  /// bold style
+  _WebWorldNetwork8Bold get bold => const _WebWorldNetwork8Bold();
+}
+
+/// World Network 8 — bold style variants.
+class _WebWorldNetwork8Bold {
+  const _WebWorldNetwork8Bold();
+
+  /// World Network 8 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'World Network 8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.4661 9.52924C13.7031 9.44524 12.8821 9.39624 12.0001 9.39624C11.1181 9.39624 10.2961 9.44524 9.53415 9.52924C9.45015 10.2932 9.40015 11.1162 9.40015 11.9992C9.40015 12.8802 9.45015 13.7012 9.53315 14.4632C10.2961 14.5462 11.1181 14.5962 12.0001 14.5962C12.8821 14.5962 13.7041 14.5462 14.4671 14.4632C14.5501 13.7012 14.5991 12.8802 14.5991 11.9992C14.5991 11.1162 14.5501 10.2932 14.4661 9.52924Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 16.096C11.249 16.096 10.498 16.058 9.76196 15.991C10.281 18.667 11.258 20.249 12 20.249C12.742 20.249 13.719 18.667 14.238 15.991C13.502 16.058 12.751 16.096 12 16.096Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7968 8.19831C18.4378 8.63231 20.6398 9.53531 21.4288 10.8833C20.9168 6.53531 17.4608 3.08031 13.1118 2.57031C14.4588 3.35831 15.3628 5.55831 15.7968 8.19831Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9999 7.89627C12.7509 7.89627 13.5009 7.93427 14.2369 8.00127C13.7169 5.32827 12.7419 3.74927 11.9999 3.74927C11.2579 3.74927 10.2829 5.32827 9.76294 8.00127C10.4989 7.93427 11.2489 7.89627 11.9999 7.89627Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.75 11.9963C3.75 12.7383 5.331 13.7143 8.005 14.2333C7.938 13.4993 7.9 12.7493 7.9 11.9993C7.9 11.2473 7.938 10.4953 8.006 9.7583C5.331 10.2773 3.75 11.2543 3.75 11.9963Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.25 11.9963C20.25 11.2543 18.669 10.2773 15.994 9.7583C16.062 10.4953 16.1 11.2473 16.1 11.9993C16.1 12.7493 16.062 13.4993 15.995 14.2333C18.669 13.7143 20.25 12.7383 20.25 11.9963Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.20207 15.7937C5.56007 15.3597 3.35807 14.4557 2.57007 13.1077C3.07907 17.4587 6.53707 20.9177 10.8881 21.4287C9.54007 20.6397 8.63607 18.4367 8.20207 15.7937Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7979 15.7937C15.3639 18.4367 14.4599 20.6397 13.1119 21.4287C17.4629 20.9177 20.9209 17.4587 21.4299 13.1077C20.6419 14.4557 18.4399 15.3597 15.7979 15.7937Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.20317 8.19831C8.63717 5.55831 9.54117 3.35831 10.8882 2.57031C6.53917 3.08031 3.08317 6.53531 2.57117 10.8833C3.36017 9.53531 5.56217 8.63231 8.20317 8.19831Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// World Network 9 icon with style variants.
+class _WebWorldNetwork9Icon {
+  const _WebWorldNetwork9Icon();
+
+  /// bold style
+  _WebWorldNetwork9Bold get bold => const _WebWorldNetwork9Bold();
+}
+
+/// World Network 9 — bold style variants.
+class _WebWorldNetwork9Bold {
+  const _WebWorldNetwork9Bold();
+
+  /// World Network 9 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'World Network 9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.2371 15.2434C15.3621 14.2054 15.4381 13.1244 15.4381 11.9924C15.4381 10.8654 15.3621 9.78639 15.2381 8.75439C13.1451 8.50439 10.8411 8.50539 8.75912 8.75339C8.63612 9.78539 8.56012 10.8624 8.56012 11.9924C8.56012 13.1314 8.63612 14.2124 8.76012 15.2434C10.8421 15.4914 13.1671 15.4904 15.2371 15.2434Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.3708 10.5056C21.3428 10.4926 21.3128 10.4906 21.2858 10.4746C20.2248 9.8226 18.6418 9.2976 16.7678 8.9646C16.8698 9.9386 16.9388 10.9436 16.9388 11.9926C16.9388 13.0456 16.8698 14.0536 16.7668 15.0316C18.6528 14.6966 20.2318 14.1656 21.2788 13.5056C21.3088 13.4866 21.3428 13.4836 21.3748 13.4696C21.4498 12.9886 21.4998 12.5006 21.4998 11.9996C21.4998 11.4896 21.4488 10.9936 21.3708 10.5056Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5766 7.41465C18.2046 7.67265 19.6716 8.06965 20.8516 8.57465C19.8856 6.08665 17.9046 4.10865 15.4156 3.14465C15.9196 4.31565 16.3176 5.77965 16.5766 7.41465Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.06018 11.9923C7.06018 10.9413 7.12818 9.93833 7.23018 8.96533C5.35318 9.29933 3.77318 9.82733 2.71318 10.4843C2.68618 10.5013 2.65618 10.5093 2.62718 10.5223C2.55118 11.0053 2.50018 11.4963 2.50018 11.9993C2.50018 12.5013 2.55118 12.9893 2.62618 13.4703C2.65618 13.4843 2.68818 13.4863 2.71718 13.5043C3.77118 14.1663 5.35318 14.6973 7.23018 15.0323C7.12818 14.0583 7.06018 13.0503 7.06018 11.9923Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.42079 7.41458C7.68079 5.78358 8.08079 4.31858 8.59079 3.14258C6.09779 4.10558 4.11279 6.08758 3.14679 8.58058C4.32479 8.07258 5.79079 7.67358 7.42079 7.41458Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5089 21.2838C14.1629 20.2408 14.6909 18.6598 15.0259 16.7738C14.0539 16.8758 13.0489 16.9438 11.9979 16.9438C10.9489 16.9438 9.94486 16.8758 8.97186 16.7738C9.30786 18.6538 9.83886 20.2328 10.4979 21.2838C10.5159 21.3128 10.5189 21.3448 10.5319 21.3748C11.0119 21.4488 11.4999 21.4998 11.9999 21.4998C12.5029 21.4998 12.9929 21.4488 13.4749 21.3728C13.4889 21.3438 13.4909 21.3118 13.5089 21.2838Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.498 2.71C9.83801 3.763 9.30701 5.345 8.97101 7.224C10.936 7.02 13.053 7.019 15.026 7.225C14.691 5.334 14.163 3.753 13.509 2.71C13.492 2.684 13.49 2.654 13.477 2.626C12.995 2.55 12.504 2.5 12 2.5C11.499 2.5 11.01 2.55 10.53 2.625C10.517 2.653 10.515 2.683 10.498 2.71Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.576 16.5828C16.317 18.2178 15.919 19.6838 15.413 20.8548C17.906 19.8908 19.89 17.9078 20.855 15.4148C19.684 15.9268 18.233 16.3208 16.576 16.5828Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.42104 16.5828C5.78904 16.3238 4.32104 15.9228 3.14404 15.4108C4.10904 17.9078 6.09604 19.8928 8.59304 20.8578C8.08304 19.6828 7.68204 18.2168 7.42104 16.5828Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// World Network 10 icon with style variants.
+class _WebWorldNetwork10Icon {
+  const _WebWorldNetwork10Icon();
+
+  /// bold style
+  _WebWorldNetwork10Bold get bold => const _WebWorldNetwork10Bold();
+}
+
+/// World Network 10 — bold style variants.
+class _WebWorldNetwork10Bold {
+  const _WebWorldNetwork10Bold();
+
+  /// World Network 10 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'World Network 10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.2371 15.2434C15.3621 14.2054 15.4381 13.1244 15.4381 11.9924C15.4381 10.8654 15.3621 9.78639 15.2381 8.75439C13.1451 8.50439 10.8411 8.50539 8.75912 8.75339C8.63612 9.78539 8.56012 10.8624 8.56012 11.9924C8.56012 13.1314 8.63612 14.2124 8.76012 15.2434C10.8421 15.4914 13.1671 15.4904 15.2371 15.2434Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.3708 10.5056C21.3428 10.4926 21.3128 10.4906 21.2858 10.4746C20.2248 9.8226 18.6418 9.2976 16.7678 8.9646C16.8698 9.9386 16.9388 10.9436 16.9388 11.9926C16.9388 13.0456 16.8698 14.0536 16.7668 15.0316C18.6528 14.6966 20.2318 14.1656 21.2788 13.5056C21.3088 13.4866 21.3428 13.4836 21.3748 13.4696C21.4498 12.9886 21.4998 12.5006 21.4998 11.9996C21.4998 11.4896 21.4488 10.9936 21.3708 10.5056Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5766 7.41465C18.2046 7.67265 19.6716 8.06965 20.8516 8.57465C19.8856 6.08665 17.9046 4.10865 15.4156 3.14465C15.9196 4.31565 16.3176 5.77965 16.5766 7.41465Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.06018 11.9923C7.06018 10.9413 7.12818 9.93833 7.23018 8.96533C5.35318 9.29933 3.77318 9.82733 2.71318 10.4843C2.68618 10.5013 2.65618 10.5093 2.62718 10.5223C2.55118 11.0053 2.50018 11.4963 2.50018 11.9993C2.50018 12.5013 2.55118 12.9893 2.62618 13.4703C2.65618 13.4843 2.68818 13.4863 2.71718 13.5043C3.77118 14.1663 5.35318 14.6973 7.23018 15.0323C7.12818 14.0583 7.06018 13.0503 7.06018 11.9923Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.42079 7.41458C7.68079 5.78358 8.08079 4.31858 8.59079 3.14258C6.09779 4.10558 4.11279 6.08758 3.14679 8.58058C4.32479 8.07258 5.79079 7.67358 7.42079 7.41458Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5089 21.2838C14.1629 20.2408 14.6909 18.6598 15.0259 16.7738C14.0539 16.8758 13.0489 16.9438 11.9979 16.9438C10.9489 16.9438 9.94486 16.8758 8.97186 16.7738C9.30786 18.6538 9.83886 20.2328 10.4979 21.2838C10.5159 21.3128 10.5189 21.3448 10.5319 21.3748C11.0119 21.4488 11.4999 21.4998 11.9999 21.4998C12.5029 21.4998 12.9929 21.4488 13.4749 21.3728C13.4889 21.3438 13.4909 21.3118 13.5089 21.2838Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.498 2.71C9.83801 3.763 9.30701 5.345 8.97101 7.224C10.936 7.02 13.053 7.019 15.026 7.225C14.691 5.334 14.163 3.753 13.509 2.71C13.492 2.684 13.49 2.654 13.477 2.626C12.995 2.55 12.504 2.5 12 2.5C11.499 2.5 11.01 2.55 10.53 2.625C10.517 2.653 10.515 2.683 10.498 2.71Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.576 16.5828C16.317 18.2178 15.919 19.6838 15.413 20.8548C17.906 19.8908 19.89 17.9078 20.855 15.4148C19.684 15.9268 18.233 16.3208 16.576 16.5828Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.42104 16.5828C5.78904 16.3238 4.32104 15.9228 3.14404 15.4108C4.10904 17.9078 6.09604 19.8928 8.59304 20.8578C8.08304 19.6828 7.68204 18.2168 7.42104 16.5828Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// World Network 11 icon with style variants.
+class _WebWorldNetwork11Icon {
+  const _WebWorldNetwork11Icon();
+
+  /// bold style
+  _WebWorldNetwork11Bold get bold => const _WebWorldNetwork11Bold();
+}
+
+/// World Network 11 — bold style variants.
+class _WebWorldNetwork11Bold {
+  const _WebWorldNetwork11Bold();
+
+  /// World Network 11 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'World Network 11',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9999 3.74933C10.9939 3.74933 9.55794 6.64833 9.41394 11.2493H14.5859C14.4419 6.64833 13.0059 3.74933 11.9999 3.74933Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.41412 12.7493C9.55812 17.3503 10.9941 20.2493 12.0001 20.2493C13.0061 20.2493 14.4421 17.3503 14.5861 12.7493H9.41412Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0865 11.2493H21.4625C21.1065 6.73131 17.5825 3.09531 13.1125 2.57031C14.9575 3.64931 15.9705 7.38131 16.0865 11.2493Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.91348 11.2493C8.02948 7.38131 9.04248 3.64931 10.8875 2.57031C6.41748 3.09531 2.89348 6.73131 2.53748 11.2493H7.91348Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0865 12.7493C15.9705 16.6173 14.9575 20.3493 13.1125 21.4283C17.5825 20.9033 21.1065 17.2673 21.4625 12.7493H16.0865Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.91348 12.7493H2.53748C2.89348 17.2673 6.41748 20.9033 10.8875 21.4283C9.04248 20.3493 8.02948 16.6173 7.91348 12.7493Z" fill="black"/> </svg>',
     category: 'Web',
     style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// World Network 12 icon with style variants.
+class _WebWorldNetwork12Icon {
+  const _WebWorldNetwork12Icon();
+
+  /// broken style
+  _WebWorldNetwork12Broken get broken => const _WebWorldNetwork12Broken();
+}
+
+/// World Network 12 — broken style variants.
+class _WebWorldNetwork12Broken {
+  const _WebWorldNetwork12Broken();
+
+  /// World Network 12 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'World Network 12',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 3C17.2209 3 21.25 7.02908 21.25 12C21.25 16.9709 17.2209 21 12.25 21C7.27908 21 3.25 16.9709 3.25 12C3.25 8.58793 5.14831 5.61962 7.94651 4.09347" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2497 21C14.1003 21 15.5996 16.9709 15.5996 12C15.5996 7.02908 14.1003 3 12.2497 3C10.3991 3 8.89972 7.02908 8.89972 12C8.89972 14.329 9.22886 16.4513 9.76905 18.0493" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.25 11.9974C21.25 13.848 17.2209 15.3474 12.25 15.3474C7.27908 15.3474 3.25 13.848 3.25 11.9974C3.25 10.1468 7.27908 8.64746 12.25 8.64746C14.5915 8.64746 16.7241 8.98014 18.325 9.5255" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// World Network 13 icon with style variants.
+class _WebWorldNetwork13Icon {
+  const _WebWorldNetwork13Icon();
+
+  /// broken style
+  _WebWorldNetwork13Broken get broken => const _WebWorldNetwork13Broken();
+}
+
+/// World Network 13 — broken style variants.
+class _WebWorldNetwork13Broken {
+  const _WebWorldNetwork13Broken();
+
+  /// World Network 13 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'World Network 13',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M19.47 6.92916C20.4564 8.37311 21.0332 10.1191 21.0332 12C21.0332 16.9709 17.0041 21 12.0332 21C7.06228 21 3.0332 16.9709 3.0332 12C3.0332 7.02908 7.06228 3 12.0332 3C14.0698 3 15.9483 3.67629 17.4564 4.81657" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.9791 3.20898C14.7186 4.3892 15.2897 6.23396 15.5894 8.43385C15.749 9.53915 15.8336 10.7378 15.8336 11.993C15.8336 13.2471 15.749 14.4556 15.5894 15.5609C15.2897 17.7608 14.7186 19.6055 13.9791 20.7857" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.0938 20.7857C9.35437 19.6055 8.77351 17.7608 8.47383 15.5609C8.31427 14.4556 8.23059 13.2471 8.23059 11.993C8.23059 10.7378 8.31427 9.53915 8.47383 8.43385C8.77351 6.23396 9.35437 4.3892 10.0938 3.20898" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.815 10.0362C19.626 9.30643 17.791 8.7353 15.5901 8.43562C14.4848 8.27605 13.2861 8.19141 12.032 8.19141C10.7768 8.19141 9.57812 8.27605 8.47283 8.43562C7.77985 8.53002 7.12211 8.65223 6.50928 8.79819" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.24792 13.9424C4.42717 14.6818 6.27192 15.2627 8.47279 15.5624C9.57809 15.722 10.7768 15.8056 12.031 15.8056C13.2861 15.8056 14.4848 15.722 15.5901 15.5624C16.3361 15.4608 17.0403 15.3279 17.6916 15.1675" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// World Network 14 icon with style variants.
+class _WebWorldNetwork14Icon {
+  const _WebWorldNetwork14Icon();
+
+  /// broken style
+  _WebWorldNetwork14Broken get broken => const _WebWorldNetwork14Broken();
+}
+
+/// World Network 14 — broken style variants.
+class _WebWorldNetwork14Broken {
+  const _WebWorldNetwork14Broken();
+
+  /// World Network 14 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'World Network 14',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.6133 3C17.5842 3 21.6133 7.02908 21.6133 12C21.6133 16.9709 17.5842 21 12.6133 21C7.64236 21 3.61328 16.9709 3.61328 12C3.61328 8.81318 5.26924 6.01345 7.76769 4.41427" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.6129 21C10.7623 21 9.26294 16.9709 9.26294 12C9.26294 7.02908 10.7623 3 12.6129 3C14.4635 3 15.9628 7.02908 15.9628 12C15.9628 14.4075 15.6111 16.5941 15.0382 18.209" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.62805 7.8418C6.14492 8.3098 7.79313 8.62796 9.48805 8.80601C10.3506 8.89647 11.2248 8.94904 12.1015 8.96374" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7432 8.80797C17.4381 8.62991 19.0863 8.31175 20.6032 7.84375" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6033 16.1555C19.0864 15.6875 17.4382 15.3694 15.7433 15.1913C13.6738 14.9753 11.5478 14.9753 9.48805 15.1913C7.79313 15.3694 6.14492 15.6875 4.62805 16.1555" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// World Network 15 icon with style variants.
+class _WebWorldNetwork15Icon {
+  const _WebWorldNetwork15Icon();
+
+  /// broken style
+  _WebWorldNetwork15Broken get broken => const _WebWorldNetwork15Broken();
+}
+
+/// World Network 15 — broken style variants.
+class _WebWorldNetwork15Broken {
+  const _WebWorldNetwork15Broken();
+
+  /// World Network 15 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'World Network 15',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.25 3C17.2209 3 21.25 7.02908 21.25 12C21.25 16.9709 17.2209 21 12.25 21C7.27908 21 3.25 16.9709 3.25 12C3.25 8.58793 5.14831 5.61962 7.94651 4.09347" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2497 21C14.1003 21 15.5996 16.9709 15.5996 12C15.5996 7.02908 14.1003 3 12.2497 3C10.3991 3 8.89972 7.02908 8.89972 12C8.89972 14.329 9.22886 16.4513 9.76905 18.0493" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21.25 11.9974C21.25 13.848 17.2209 15.3474 12.25 15.3474C7.27908 15.3474 3.25 13.848 3.25 11.9974C3.25 10.1468 7.27908 8.64746 12.25 8.64746C14.5915 8.64746 16.7241 8.98014 18.325 9.5255" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.broken,
     type: IconfyType.regular,
   );
 
@@ -2463,7 +3381,7 @@ class _WebWebPageAnalyzeBulk {
   /// Web page analyze — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Web page analyze',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.60173 2.5C7.00828 2.5 5.67494 3.06751 4.74239 4.0677C3.81345 5.06401 3.31885 6.44971 3.31885 8.02611V8.74219H22.3179V8.02611C22.3179 6.4504 21.8261 5.06463 20.8984 4.06799C19.9669 3.06731 18.6335 2.5 17.036 2.5H8.60173Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.31885 15.9729V10.2422H22.3179V15.9729C22.3179 17.5486 21.8261 18.9344 20.8983 19.9311C19.9666 20.9318 18.633 21.4991 17.035 21.4991H8.60173C7.00423 21.4991 5.67062 20.9317 4.73888 19.9311C3.81089 18.9345 3.31885 17.5487 3.31885 15.9729Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.10791 5.80078C6.6937 5.80078 6.35791 6.13657 6.35791 6.55078C6.35791 6.965 6.6937 7.30078 7.10791 7.30078H7.16337C7.57758 7.30078 7.91337 6.965 7.91337 6.55078C7.91337 6.13657 7.57758 5.80078 7.16337 5.80078H7.10791ZM9.59342 5.80078C9.17921 5.80078 8.84342 6.13657 8.84342 6.55078C8.84342 6.965 9.17921 7.30078 9.59342 7.30078H9.64888C10.0631 7.30078 10.3989 6.965 10.3989 6.55078C10.3989 6.13657 10.0631 5.80078 9.64888 5.80078H9.59342ZM12.0799 5.80078C11.6657 5.80078 11.3299 6.13657 11.3299 6.55078C11.3299 6.965 11.6657 7.30078 12.0799 7.30078H12.1353C12.5496 7.30078 12.8853 6.965 12.8853 6.55078C12.8853 6.13657 12.5496 5.80078 12.1353 5.80078H12.0799Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17 14.1449C17.2537 13.8174 17.1939 13.3463 16.8664 13.0926C16.539 12.839 16.0679 12.8988 15.8142 13.2262L14.0251 15.5357L11.9948 13.9412C11.8373 13.8176 11.637 13.762 11.4384 13.7869C11.2397 13.8117 11.0593 13.915 10.9372 14.0736L8.63611 17.0636C8.38348 17.3918 8.44479 17.8627 8.77305 18.1154C9.1013 18.368 9.5722 18.3067 9.82483 17.9784L11.664 15.5887L13.6924 17.1817C13.8496 17.3051 14.0494 17.3607 14.2477 17.3362C14.4459 17.3116 14.6262 17.2091 14.7486 17.0511L17 14.1449Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.60173 2.5C7.00828 2.5 5.67494 3.06751 4.74239 4.0677C3.81345 5.06401 3.31885 6.44971 3.31885 8.02611V8.74219H22.3179V8.02611C22.3179 6.4504 21.8261 5.06463 20.8984 4.06799C19.9669 3.06731 18.6335 2.5 17.036 2.5H8.60173Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.31885 15.9729V10.2422H22.3179V15.9729C22.3179 17.5486 21.8261 18.9344 20.8983 19.9311C19.9666 20.9318 18.633 21.4991 17.035 21.4991H8.60173C7.00423 21.4991 5.67062 20.9317 4.73888 19.9311C3.81089 18.9345 3.31885 17.5487 3.31885 15.9729Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.10791 5.80078C6.6937 5.80078 6.35791 6.13657 6.35791 6.55078C6.35791 6.96499 6.6937 7.30078 7.10791 7.30078H7.16337C7.57758 7.30078 7.91337 6.96499 7.91337 6.55078C7.91337 6.13657 7.57758 5.80078 7.16337 5.80078H7.10791ZM9.59342 5.80078C9.17921 5.80078 8.84342 6.13657 8.84342 6.55078C8.84342 6.96499 9.17921 7.30078 9.59342 7.30078H9.64888C10.0631 7.30078 10.3989 6.96499 10.3989 6.55078C10.3989 6.13657 10.0631 5.80078 9.64888 5.80078H9.59342ZM12.0799 5.80078C11.6657 5.80078 11.3299 6.13657 11.3299 6.55078C11.3299 6.96499 11.6657 7.30078 12.0799 7.30078H12.1353C12.5496 7.30078 12.8853 6.96499 12.8853 6.55078C12.8853 6.13657 12.5496 5.80078 12.1353 5.80078H12.0799Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5683 13.716C13.5683 13.3017 13.2325 12.966 12.8183 12.966C12.4041 12.966 12.0683 13.3017 12.0683 13.716V17.493C12.0683 17.9073 12.4041 18.243 12.8183 18.243C13.2325 18.243 13.5683 17.9073 13.5683 17.493V13.716ZM10.2617 15.1327C10.2617 14.7185 9.92593 14.3827 9.51172 14.3827C9.09751 14.3827 8.76172 14.7185 8.76172 15.1327V17.4931C8.76172 17.9073 9.09751 18.2431 9.51172 18.2431C9.92593 18.2431 10.2617 17.9073 10.2617 17.4931V15.1327ZM16.8758 16.3845C16.8758 15.9703 16.5401 15.6345 16.1258 15.6345C15.7116 15.6345 15.3758 15.9703 15.3758 16.3845V17.4927C15.3758 17.9069 15.7116 18.2427 16.1258 18.2427C16.5401 18.2427 16.8758 17.9069 16.8758 17.4927V16.3845Z" fill="black"/> </svg>',
     category: 'Web',
     style: IconfyStyle.bulk,
     type: IconfyType.regular,
@@ -2478,7 +3396,7 @@ class _WebWebPageAnalyzeBroken {
   /// Web page analyze — broken / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Web page analyze',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.16288 6.55078H7.10742M9.64852 6.55078H9.59306M12.1351 6.55078H12.0797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.23047 16.9019L11.5315 13.9119L14.1557 15.9727L16.4071 13.0664" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8179 20.9991H17.0345C19.9835 20.9991 21.8174 18.918 21.8174 15.9729V8.02611C21.8174 5.08108 19.9835 3 17.0355 3H8.60124C5.66205 3 3.81836 5.08108 3.81836 8.02611V15.9729C3.81836 18.918 5.65329 20.9991 8.60124 20.9991H9.28579" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.8657 9.49219H3.81836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.51172 16.9978V14.6374M12.8183 16.9978V13.2207M16.1258 16.9975V15.8893" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.16288 6.55078H7.10742M9.64947 6.55078H9.59401M12.1351 6.55078H12.0797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8179 20.9991H17.0345C19.9835 20.9991 21.8174 18.918 21.8174 15.9729V8.02611C21.8174 5.08108 19.9835 3 17.0355 3H8.60124C5.66205 3 3.81836 5.08108 3.81836 8.02611V15.9729C3.81836 18.918 5.65329 20.9991 8.60124 20.9991H9.28579" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.8657 9.49219H3.81836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Web',
     style: IconfyStyle.broken,
     type: IconfyType.regular,
@@ -2493,7 +3411,7 @@ class _WebWebPageAnalyzeTwotone {
   /// Web page analyze — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Web page analyze',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.10149 3H16.5362C19.4843 3 21.3184 5.08119 21.3184 8.02638V15.9736C21.3184 18.9188 19.4843 21 16.5352 21H8.10149C5.15339 21 3.31836 18.9188 3.31836 15.9736V8.02638C3.31836 5.08119 5.16214 3 8.10149 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.73047 16.9019L11.0315 13.9119L13.6557 15.9727L15.9071 13.0664" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.66288 6.5498H6.60742M9.14852 6.5498H9.09306M11.6351 6.5498H11.5797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.3184 9.49121H3.31836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.10149 3H16.5362C19.4843 3 21.3184 5.08119 21.3184 8.02638V15.9736C21.3184 18.9188 19.4843 21 16.5352 21H8.10149C5.15339 21 3.31836 18.9188 3.31836 15.9736V8.02638C3.31836 5.08119 5.16214 3 8.10149 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.01172 16.9969V14.6364M12.3183 16.9968V13.2197M15.6258 16.9965V15.8883" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.3184 9.49121H3.31836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.66288 6.5498H6.60742M9.14947 6.5498H9.09401M11.6351 6.5498H11.5797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: 'Web',
     style: IconfyStyle.twoTone,
     type: IconfyType.regular,
@@ -2508,7 +3426,7 @@ class _WebWebPageAnalyzeOutline {
   /// Web page analyze — outline / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Web page analyze',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.74076 3.89729C4.72547 2.84115 6.12768 2.25 7.78313 2.25H16.2178C17.8772 2.25 19.2796 2.84086 20.2634 3.89773C21.2416 4.94853 21.75 6.39899 21.75 8.02638V15.9736C21.75 17.601 21.2416 19.0515 20.2633 20.1023C19.2793 21.1592 17.8766 21.75 16.2169 21.75H7.78313C6.12379 21.75 4.72117 21.1592 3.73714 20.1024C2.75872 19.0516 2.25 17.6011 2.25 15.9736V8.02638C2.25 6.39795 2.76147 4.9476 3.74076 3.89729ZM3.75 10.2416V15.9736C3.75 17.2913 4.15879 18.354 4.83492 19.0802C5.50542 19.8003 6.49437 20.25 7.78313 20.25H16.2169C17.5062 20.25 18.4951 19.8002 19.1654 19.0802C19.8414 18.3541 20.25 17.2914 20.25 15.9736V10.2416H3.75ZM20.25 8.74155H3.75V8.02638C3.75 6.70962 4.16042 5.64678 4.83786 4.9202C5.50988 4.19944 6.49924 3.75 7.78313 3.75H16.2178C17.5066 3.75 18.4952 4.19973 19.1655 4.91976C19.8414 5.64585 20.25 6.70857 20.25 8.02638V8.74155ZM5.53836 6.54983C5.53836 6.13562 5.87415 5.79983 6.28836 5.79983H6.34382C6.75803 5.79983 7.09382 6.13562 7.09382 6.54983C7.09382 6.96405 6.75803 7.29983 6.34382 7.29983H6.28836C5.87415 7.29983 5.53836 6.96405 5.53836 6.54983ZM8.024 6.54983C8.024 6.13562 8.35979 5.79983 8.774 5.79983H8.82946C9.24367 5.79983 9.57946 6.13562 9.57946 6.54983C9.57946 6.96405 9.24367 7.29983 8.82946 7.29983H8.774C8.35979 7.29983 8.024 6.96405 8.024 6.54983ZM10.5106 6.54983C10.5106 6.13562 10.8464 5.79983 11.2606 5.79983H11.3161C11.7303 5.79983 12.0661 6.13562 12.0661 6.54983C12.0661 6.96405 11.7303 7.29983 11.3161 7.29983H11.2606C10.8464 7.29983 10.5106 6.96405 10.5106 6.54983ZM16.0481 12.4737C16.3756 12.7273 16.4354 13.1984 16.1817 13.5259L13.9303 16.4321C13.8079 16.5901 13.6276 16.6927 13.4294 16.7172C13.2311 16.7417 13.0312 16.6861 12.8741 16.5627L10.8457 14.9697L9.00652 17.3594C8.75389 17.6877 8.28299 17.749 7.95474 17.4964C7.62648 17.2438 7.56517 16.7729 7.8178 16.4446L10.1189 13.4547C10.241 13.296 10.4214 13.1928 10.6201 13.1679C10.8187 13.143 11.019 13.1986 11.1765 13.3222L13.2068 14.9167L14.9959 12.6073C15.2496 12.2798 15.7207 12.22 16.0481 12.4737Z" fill="black"/> </svg> ',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.74076 3.89729C4.72547 2.84115 6.12768 2.25 7.78313 2.25H16.2178C17.8772 2.25 19.2796 2.84086 20.2634 3.89773C21.2416 4.94853 21.75 6.39899 21.75 8.02638V15.9736C21.75 17.601 21.2416 19.0515 20.2633 20.1023C19.2793 21.1592 17.8766 21.75 16.2169 21.75H7.78313C6.12379 21.75 4.72117 21.1592 3.73714 20.1024C2.75872 19.0516 2.25 17.6011 2.25 15.9736V8.02638C2.25 6.39795 2.76147 4.9476 3.74076 3.89729ZM3.75 10.2416V15.9736C3.75 17.2913 4.15879 18.354 4.83492 19.0802C5.50542 19.8003 6.49437 20.25 7.78313 20.25H16.2169C17.5062 20.25 18.4951 19.8002 19.1654 19.0802C19.8414 18.3541 20.25 17.2914 20.25 15.9736V10.2416H3.75ZM20.25 8.74155H3.75V8.02638C3.75 6.70962 4.16042 5.64678 4.83786 4.9202C5.50988 4.19944 6.49924 3.75 7.78313 3.75H16.2178C17.5066 3.75 18.4952 4.19973 19.1655 4.91976C19.8414 5.64585 20.25 6.70857 20.25 8.02638V8.74155ZM5.53836 6.54983C5.53836 6.13562 5.87415 5.79983 6.28836 5.79983H6.34382C6.75803 5.79983 7.09382 6.13562 7.09382 6.54983C7.09382 6.96405 6.75803 7.29983 6.34382 7.29983H6.28836C5.87415 7.29983 5.53836 6.96405 5.53836 6.54983ZM8.02495 6.54983C8.02495 6.13562 8.36074 5.79983 8.77495 5.79983H8.83041C9.24463 5.79983 9.58041 6.13562 9.58041 6.54983C9.58041 6.96405 9.24463 7.29983 8.83041 7.29983H8.77495C8.36074 7.29983 8.02495 6.96405 8.02495 6.54983ZM10.5106 6.54983C10.5106 6.13562 10.8464 5.79983 11.2606 5.79983H11.3161C11.7303 5.79983 12.0661 6.13562 12.0661 6.54983C12.0661 6.96405 11.7303 7.29983 11.3161 7.29983H11.2606C10.8464 7.29983 10.5106 6.96405 10.5106 6.54983ZM12 12.47C12.4142 12.47 12.75 12.8058 12.75 13.22V16.9971C12.75 17.4113 12.4142 17.7471 12 17.7471C11.5858 17.7471 11.25 17.4113 11.25 16.9971V13.22C11.25 12.8058 11.5858 12.47 12 12.47ZM8.69341 13.8867C9.10763 13.8867 9.44341 14.2225 9.44341 14.6367V16.9972C9.44341 17.4114 9.10763 17.7472 8.69341 17.7472C8.2792 17.7472 7.94341 17.4114 7.94341 16.9972V14.6367C7.94341 14.2225 8.2792 13.8867 8.69341 13.8867ZM15.3075 15.1386C15.7218 15.1386 16.0575 15.4744 16.0575 15.8886V16.9968C16.0575 17.411 15.7218 17.7468 15.3075 17.7468C14.8933 17.7468 14.5575 17.411 14.5575 16.9968V15.8886C14.5575 15.4744 14.8933 15.1386 15.3075 15.1386Z" fill="black"/> </svg> ',
     category: 'Web',
     style: IconfyStyle.outline,
     type: IconfyType.regular,
@@ -2523,7 +3441,7 @@ class _WebWebPageAnalyzeBold {
   /// Web page analyze — bold / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Web page analyze',
-    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.60173 2.5C7.00828 2.5 5.67494 3.06751 4.74239 4.0677C3.81345 5.06401 3.31885 6.44971 3.31885 8.02611V8.74219H22.3179V8.02611C22.3179 6.4504 21.8261 5.06463 20.8984 4.06799C19.9669 3.06731 18.6335 2.5 17.036 2.5H8.60173ZM7.10791 5.80078C6.6937 5.80078 6.35791 6.13657 6.35791 6.55078C6.35791 6.96499 6.6937 7.30078 7.10791 7.30078H7.16337C7.57758 7.30078 7.91337 6.96499 7.91337 6.55078C7.91337 6.13657 7.57758 5.80078 7.16337 5.80078H7.10791ZM9.59342 5.80078C9.17921 5.80078 8.84342 6.13657 8.84342 6.55078C8.84342 6.96499 9.17921 7.30078 9.59342 7.30078H9.64888C10.0631 7.30078 10.3989 6.96499 10.3989 6.55078C10.3989 6.13657 10.0631 5.80078 9.64888 5.80078H9.59342ZM12.0799 5.80078C11.6657 5.80078 11.3299 6.13657 11.3299 6.55078C11.3299 6.96499 11.6657 7.30078 12.0799 7.30078H12.1353C12.5496 7.30078 12.8853 6.96499 12.8853 6.55078C12.8853 6.13657 12.5496 5.80078 12.1353 5.80078H12.0799Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.31885 15.9729V10.2422H22.3179V15.9729C22.3179 17.5486 21.8261 18.9344 20.8983 19.9311C19.9666 20.9318 18.633 21.4991 17.035 21.4991H8.60173C7.00423 21.4991 5.67062 20.9317 4.73888 19.9311C3.81089 18.9345 3.31885 17.5487 3.31885 15.9729ZM17 14.1449C17.2537 13.8174 17.1939 13.3463 16.8664 13.0926C16.539 12.839 16.0679 12.8988 15.8142 13.2262L14.0251 15.5357L11.9948 13.9412C11.8373 13.8176 11.637 13.762 11.4384 13.7869C11.2397 13.8117 11.0593 13.915 10.9372 14.0736L8.63611 17.0636C8.38348 17.3918 8.44479 17.8627 8.77305 18.1154C9.1013 18.368 9.5722 18.3067 9.82483 17.9784L11.664 15.5887L13.6924 17.1817C13.8496 17.3051 14.0494 17.3607 14.2477 17.3362C14.4459 17.3116 14.6262 17.2091 14.7486 17.0511L17 14.1449Z" fill="black"/> </svg>',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.60173 2.5C7.00828 2.5 5.67494 3.06751 4.74239 4.0677C3.81345 5.06401 3.31885 6.44971 3.31885 8.02611V8.74219H22.3179V8.02611C22.3179 6.4504 21.8261 5.06463 20.8984 4.06799C19.9669 3.06731 18.6335 2.5 17.036 2.5H8.60173ZM7.10791 5.80078C6.6937 5.80078 6.35791 6.13657 6.35791 6.55078C6.35791 6.96499 6.6937 7.30078 7.10791 7.30078H7.16337C7.57758 7.30078 7.91337 6.96499 7.91337 6.55078C7.91337 6.13657 7.57758 5.80078 7.16337 5.80078H7.10791ZM9.59342 5.80078C9.17921 5.80078 8.84342 6.13657 8.84342 6.55078C8.84342 6.96499 9.17921 7.30078 9.59342 7.30078H9.64888C10.0631 7.30078 10.3989 6.96499 10.3989 6.55078C10.3989 6.13657 10.0631 5.80078 9.64888 5.80078H9.59342ZM12.0799 5.80078C11.6657 5.80078 11.3299 6.13657 11.3299 6.55078C11.3299 6.96499 11.6657 7.30078 12.0799 7.30078H12.1353C12.5496 7.30078 12.8853 6.96499 12.8853 6.55078C12.8853 6.13657 12.5496 5.80078 12.1353 5.80078H12.0799Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.31885 15.9729V10.2422H22.3179V15.9729C22.3179 17.5486 21.8261 18.9344 20.8983 19.9311C19.9666 20.9318 18.633 21.4991 17.035 21.4991H8.60173C7.00423 21.4991 5.67062 20.9317 4.73888 19.9311C3.81089 18.9345 3.31885 17.5487 3.31885 15.9729ZM13.5683 13.716C13.5683 13.3017 13.2325 12.966 12.8183 12.966C12.4041 12.966 12.0683 13.3017 12.0683 13.716V17.493C12.0683 17.9073 12.4041 18.243 12.8183 18.243C13.2325 18.243 13.5683 17.9073 13.5683 17.493V13.716ZM10.2617 15.1327C10.2617 14.7185 9.92593 14.3827 9.51172 14.3827C9.09751 14.3827 8.76172 14.7185 8.76172 15.1327V17.4931C8.76172 17.9073 9.09751 18.2431 9.51172 18.2431C9.92593 18.2431 10.2617 17.9073 10.2617 17.4931V15.1327ZM16.8758 16.3845C16.8758 15.9703 16.5401 15.6345 16.1258 15.6345C15.7116 15.6345 15.3758 15.9703 15.3758 16.3845V17.4927C15.3758 17.9069 15.7116 18.2427 16.1258 18.2427C16.5401 18.2427 16.8758 17.9069 16.8758 17.4927V16.3845Z" fill="black"/> </svg>',
     category: 'Web',
     style: IconfyStyle.bold,
     type: IconfyType.regular,
@@ -2538,6 +3456,114 @@ class _WebWebPageAnalyzeLight {
   /// Web page analyze — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Web page analyze',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78313 3H16.2178C19.1659 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.1659 21 16.2169 21H7.78313C4.83503 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84378 3 7.78313 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.69336 16.9971V14.6367M11.9999 16.9971V13.22M15.3075 16.9967V15.8885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 9.49146H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.34452 6.5498H6.28906M8.83111 6.5498H8.77565M11.3168 6.5498H11.2613" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page analyze 1 icon with style variants.
+class _WebWebPageAnalyze1Icon {
+  const _WebWebPageAnalyze1Icon();
+
+  /// bold style
+  _WebWebPageAnalyze1Bold get bold => const _WebWebPageAnalyze1Bold();
+  /// bulk style
+  _WebWebPageAnalyze1Bulk get bulk => const _WebWebPageAnalyze1Bulk();
+  /// light style
+  _WebWebPageAnalyze1Light get light => const _WebWebPageAnalyze1Light();
+  /// outline style
+  _WebWebPageAnalyze1Outline get outline => const _WebWebPageAnalyze1Outline();
+  /// twoTone style
+  _WebWebPageAnalyze1Twotone get twoTone => const _WebWebPageAnalyze1Twotone();
+  /// broken style
+  _WebWebPageAnalyze1Broken get broken => const _WebWebPageAnalyze1Broken();
+}
+
+/// Web page analyze 1 — bulk style variants.
+class _WebWebPageAnalyze1Bulk {
+  const _WebWebPageAnalyze1Bulk();
+
+  /// Web page analyze 1 — bulk / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page analyze 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.60173 2.5C7.00828 2.5 5.67494 3.06751 4.74239 4.0677C3.81345 5.06401 3.31885 6.44971 3.31885 8.02611V8.74219H22.3179V8.02611C22.3179 6.4504 21.8261 5.06463 20.8984 4.06799C19.9669 3.06731 18.6335 2.5 17.036 2.5H8.60173Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.31885 15.9729V10.2422H22.3179V15.9729C22.3179 17.5486 21.8261 18.9344 20.8983 19.9311C19.9666 20.9318 18.633 21.4991 17.035 21.4991H8.60173C7.00423 21.4991 5.67062 20.9317 4.73888 19.9311C3.81089 18.9345 3.31885 17.5487 3.31885 15.9729Z" fill="black"/> </g> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.10791 5.80078C6.6937 5.80078 6.35791 6.13657 6.35791 6.55078C6.35791 6.965 6.6937 7.30078 7.10791 7.30078H7.16337C7.57758 7.30078 7.91337 6.965 7.91337 6.55078C7.91337 6.13657 7.57758 5.80078 7.16337 5.80078H7.10791ZM9.59342 5.80078C9.17921 5.80078 8.84342 6.13657 8.84342 6.55078C8.84342 6.965 9.17921 7.30078 9.59342 7.30078H9.64888C10.0631 7.30078 10.3989 6.965 10.3989 6.55078C10.3989 6.13657 10.0631 5.80078 9.64888 5.80078H9.59342ZM12.0799 5.80078C11.6657 5.80078 11.3299 6.13657 11.3299 6.55078C11.3299 6.965 11.6657 7.30078 12.0799 7.30078H12.1353C12.5496 7.30078 12.8853 6.965 12.8853 6.55078C12.8853 6.13657 12.5496 5.80078 12.1353 5.80078H12.0799Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17 14.1449C17.2537 13.8174 17.1939 13.3463 16.8664 13.0926C16.539 12.839 16.0679 12.8988 15.8142 13.2262L14.0251 15.5357L11.9948 13.9412C11.8373 13.8176 11.637 13.762 11.4384 13.7869C11.2397 13.8117 11.0593 13.915 10.9372 14.0736L8.63611 17.0636C8.38348 17.3918 8.44479 17.8627 8.77305 18.1154C9.1013 18.368 9.5722 18.3067 9.82483 17.9784L11.664 15.5887L13.6924 17.1817C13.8496 17.3051 14.0494 17.3607 14.2477 17.3362C14.4459 17.3116 14.6262 17.2091 14.7486 17.0511L17 14.1449Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bulk,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page analyze 1 — broken style variants.
+class _WebWebPageAnalyze1Broken {
+  const _WebWebPageAnalyze1Broken();
+
+  /// Web page analyze 1 — broken / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page analyze 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.16288 6.55078H7.10742M9.64852 6.55078H9.59306M12.1351 6.55078H12.0797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.23047 16.9019L11.5315 13.9119L14.1557 15.9727L16.4071 13.0664" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.8179 20.9991H17.0345C19.9835 20.9991 21.8174 18.918 21.8174 15.9729V8.02611C21.8174 5.08108 19.9835 3 17.0355 3H8.60124C5.66205 3 3.81836 5.08108 3.81836 8.02611V15.9729C3.81836 18.918 5.65329 20.9991 8.60124 20.9991H9.28579" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.8657 9.49219H3.81836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.broken,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page analyze 1 — twoTone style variants.
+class _WebWebPageAnalyze1Twotone {
+  const _WebWebPageAnalyze1Twotone();
+
+  /// Web page analyze 1 — twoTone / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page analyze 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.10149 3H16.5362C19.4843 3 21.3184 5.08119 21.3184 8.02638V15.9736C21.3184 18.9188 19.4843 21 16.5352 21H8.10149C5.15339 21 3.31836 18.9188 3.31836 15.9736V8.02638C3.31836 5.08119 5.16214 3 8.10149 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.73047 16.9019L11.0315 13.9119L13.6557 15.9727L15.9071 13.0664" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M6.66288 6.5498H6.60742M9.14852 6.5498H9.09306M11.6351 6.5498H11.5797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M21.3184 9.49121H3.31836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.twoTone,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page analyze 1 — outline style variants.
+class _WebWebPageAnalyze1Outline {
+  const _WebWebPageAnalyze1Outline();
+
+  /// Web page analyze 1 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page analyze 1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.74076 3.89729C4.72547 2.84115 6.12768 2.25 7.78313 2.25H16.2178C17.8772 2.25 19.2796 2.84086 20.2634 3.89773C21.2416 4.94853 21.75 6.39899 21.75 8.02638V15.9736C21.75 17.601 21.2416 19.0515 20.2633 20.1023C19.2793 21.1592 17.8766 21.75 16.2169 21.75H7.78313C6.12379 21.75 4.72117 21.1592 3.73714 20.1024C2.75872 19.0516 2.25 17.6011 2.25 15.9736V8.02638C2.25 6.39795 2.76147 4.9476 3.74076 3.89729ZM3.75 10.2416V15.9736C3.75 17.2913 4.15879 18.354 4.83492 19.0802C5.50542 19.8003 6.49437 20.25 7.78313 20.25H16.2169C17.5062 20.25 18.4951 19.8002 19.1654 19.0802C19.8414 18.3541 20.25 17.2914 20.25 15.9736V10.2416H3.75ZM20.25 8.74155H3.75V8.02638C3.75 6.70962 4.16042 5.64678 4.83786 4.9202C5.50988 4.19944 6.49924 3.75 7.78313 3.75H16.2178C17.5066 3.75 18.4952 4.19973 19.1655 4.91976C19.8414 5.64585 20.25 6.70857 20.25 8.02638V8.74155ZM5.53836 6.54983C5.53836 6.13562 5.87415 5.79983 6.28836 5.79983H6.34382C6.75803 5.79983 7.09382 6.13562 7.09382 6.54983C7.09382 6.96405 6.75803 7.29983 6.34382 7.29983H6.28836C5.87415 7.29983 5.53836 6.96405 5.53836 6.54983ZM8.024 6.54983C8.024 6.13562 8.35979 5.79983 8.774 5.79983H8.82946C9.24367 5.79983 9.57946 6.13562 9.57946 6.54983C9.57946 6.96405 9.24367 7.29983 8.82946 7.29983H8.774C8.35979 7.29983 8.024 6.96405 8.024 6.54983ZM10.5106 6.54983C10.5106 6.13562 10.8464 5.79983 11.2606 5.79983H11.3161C11.7303 5.79983 12.0661 6.13562 12.0661 6.54983C12.0661 6.96405 11.7303 7.29983 11.3161 7.29983H11.2606C10.8464 7.29983 10.5106 6.96405 10.5106 6.54983ZM16.0481 12.4737C16.3756 12.7273 16.4354 13.1984 16.1817 13.5259L13.9303 16.4321C13.8079 16.5901 13.6276 16.6927 13.4294 16.7172C13.2311 16.7417 13.0312 16.6861 12.8741 16.5627L10.8457 14.9697L9.00652 17.3594C8.75389 17.6877 8.28299 17.749 7.95474 17.4964C7.62648 17.2438 7.56517 16.7729 7.8178 16.4446L10.1189 13.4547C10.241 13.296 10.4214 13.1928 10.6201 13.1679C10.8187 13.143 11.019 13.1986 11.1765 13.3222L13.2068 14.9167L14.9959 12.6073C15.2496 12.2798 15.7207 12.22 16.0481 12.4737Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page analyze 1 — bold style variants.
+class _WebWebPageAnalyze1Bold {
+  const _WebWebPageAnalyze1Bold();
+
+  /// Web page analyze 1 — bold / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page analyze 1',
+    svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.60173 2.5C7.00828 2.5 5.67494 3.06751 4.74239 4.0677C3.81345 5.06401 3.31885 6.44971 3.31885 8.02611V8.74219H22.3179V8.02611C22.3179 6.4504 21.8261 5.06463 20.8984 4.06799C19.9669 3.06731 18.6335 2.5 17.036 2.5H8.60173ZM7.10791 5.80078C6.6937 5.80078 6.35791 6.13657 6.35791 6.55078C6.35791 6.96499 6.6937 7.30078 7.10791 7.30078H7.16337C7.57758 7.30078 7.91337 6.96499 7.91337 6.55078C7.91337 6.13657 7.57758 5.80078 7.16337 5.80078H7.10791ZM9.59342 5.80078C9.17921 5.80078 8.84342 6.13657 8.84342 6.55078C8.84342 6.96499 9.17921 7.30078 9.59342 7.30078H9.64888C10.0631 7.30078 10.3989 6.96499 10.3989 6.55078C10.3989 6.13657 10.0631 5.80078 9.64888 5.80078H9.59342ZM12.0799 5.80078C11.6657 5.80078 11.3299 6.13657 11.3299 6.55078C11.3299 6.96499 11.6657 7.30078 12.0799 7.30078H12.1353C12.5496 7.30078 12.8853 6.96499 12.8853 6.55078C12.8853 6.13657 12.5496 5.80078 12.1353 5.80078H12.0799Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.31885 15.9729V10.2422H22.3179V15.9729C22.3179 17.5486 21.8261 18.9344 20.8983 19.9311C19.9666 20.9318 18.633 21.4991 17.035 21.4991H8.60173C7.00423 21.4991 5.67062 20.9317 4.73888 19.9311C3.81089 18.9345 3.31885 17.5487 3.31885 15.9729ZM17 14.1449C17.2537 13.8174 17.1939 13.3463 16.8664 13.0926C16.539 12.839 16.0679 12.8988 15.8142 13.2262L14.0251 15.5357L11.9948 13.9412C11.8373 13.8176 11.637 13.762 11.4384 13.7869C11.2397 13.8117 11.0593 13.915 10.9372 14.0736L8.63611 17.0636C8.38348 17.3918 8.44479 17.8627 8.77305 18.1154C9.1013 18.368 9.5722 18.3067 9.82483 17.9784L11.664 15.5887L13.6924 17.1817C13.8496 17.3051 14.0494 17.3607 14.2477 17.3362C14.4459 17.3116 14.6262 17.2091 14.7486 17.0511L17 14.1449Z" fill="black"/> </svg>',
+    category: 'Web',
+    style: IconfyStyle.bold,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Web page analyze 1 — light style variants.
+class _WebWebPageAnalyze1Light {
+  const _WebWebPageAnalyze1Light();
+
+  /// Web page analyze 1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Web page analyze 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78313 3H16.2178C19.1659 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.1659 21 16.2169 21H7.78313C4.83503 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84378 3 7.78313 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.34452 6.5498H6.28906M8.83016 6.5498H8.7747M11.3168 6.5498H11.2613" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.41211 16.9021L10.7132 13.9122L13.3373 15.9729L15.5888 13.0667" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 9.49146H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Web',
     style: IconfyStyle.light,
@@ -2854,23 +3880,6 @@ class _WebNetworkIcon {
 
   /// light style
   _WebNetworkLight get light => const _WebNetworkLight();
-  /// outline style
-  _WebNetworkOutline get outline => const _WebNetworkOutline();
-}
-
-/// Network — outline style variants.
-class _WebNetworkOutline {
-  const _WebNetworkOutline();
-
-  /// Network — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Network',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0013 5.67773C10.9952 5.67773 10.1797 6.49328 10.1797 7.4993C10.1797 8.50532 10.9952 9.32086 12.0013 9.32086C13.0073 9.32086 13.8228 8.50532 13.8228 7.4993C13.8228 6.49328 13.0073 5.67773 12.0013 5.67773ZM8.67969 7.4993C8.67969 5.66485 10.1668 4.17773 12.0013 4.17773C13.8357 4.17773 15.3228 5.66485 15.3228 7.4993C15.3228 9.33375 13.8357 10.8209 12.0013 10.8209C10.1668 10.8209 8.67969 9.33375 8.67969 7.4993Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.57156 14.6777C4.56554 14.6777 3.75 15.4933 3.75 16.4993C3.75 17.5053 4.56554 18.3209 5.57156 18.3209C6.57758 18.3209 7.39313 17.5053 7.39313 16.4993C7.39313 15.4933 6.57758 14.6777 5.57156 14.6777ZM2.25 16.4993C2.25 14.6648 3.73711 13.1777 5.57156 13.1777C7.40601 13.1777 8.89313 14.6648 8.89313 16.4993C8.89313 18.3337 7.40601 19.8209 5.57156 19.8209C3.73711 19.8209 2.25 18.3337 2.25 16.4993Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4287 14.6777C17.4227 14.6777 16.6072 15.4933 16.6072 16.4993C16.6072 17.5053 17.4227 18.3209 18.4287 18.3209C19.4348 18.3209 20.2503 17.5053 20.2503 16.4993C20.2503 15.4933 19.4348 14.6777 18.4287 14.6777ZM15.1072 16.4993C15.1072 14.6648 16.5943 13.1777 18.4287 13.1777C20.2632 13.1777 21.7503 14.6648 21.7503 16.4993C21.7503 18.3337 20.2632 19.8209 18.4287 19.8209C16.5943 19.8209 15.1072 18.3337 15.1072 16.4993Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5064 8.81749C10.8435 9.05825 10.9215 9.52666 10.6808 9.86372L7.46632 14.364C7.22556 14.701 6.75715 14.7791 6.42009 14.5383C6.08303 14.2976 6.00496 13.8292 6.24572 13.4921L9.46017 8.99186C9.70093 8.6548 10.1693 8.57674 10.5064 8.81749ZM13.4919 8.81749C13.8289 8.57674 14.2974 8.6548 14.5381 8.99186L17.7526 13.4921C17.9933 13.8292 17.9153 14.2976 17.5782 14.5383C17.2411 14.7791 16.7727 14.701 16.532 14.364L13.3175 9.86372C13.0768 9.52666 13.1548 9.05825 13.4919 8.81749Z" fill="black"/> </svg> ',
-    category: 'Web',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Network — light style variants.
@@ -2883,6 +3892,75 @@ class _WebNetworkLight {
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.71924 9.14319V7.86726C4.71924 6.12849 6.12898 4.71875 7.86853 4.71875H8.91148" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.2811 14.8555V16.1314C19.2811 17.8702 17.8714 19.2799 16.1318 19.2799H15.0889" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="10.6302" cy="4.71911" r="1.71911" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="13.37" cy="19.2816" r="1.71911" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.8563 4.71875L16.1323 4.71875C17.871 4.71875 19.2808 6.12849 19.2808 7.86805L19.2808 8.91099" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.14307 19.2821L7.86713 19.2821C6.12837 19.2821 4.71862 17.8723 4.71862 16.1328L4.71862 15.0898" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="19.2809" cy="10.6293" r="1.71911" transform="rotate(90 19.2809 10.6293)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="4.71888" cy="13.3695" r="1.71911" transform="rotate(90 4.71888 13.3695)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Web',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network  1 icon with style variants.
+class _WebNetwork1Icon {
+  const _WebNetwork1Icon();
+
+  /// light style
+  _WebNetwork1Light get light => const _WebNetwork1Light();
+}
+
+/// Network  1 — light style variants.
+class _WebNetwork1Light {
+  const _WebNetwork1Light();
+
+  /// Network  1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network  1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.71924 9.14319V7.86726C4.71924 6.12849 6.12898 4.71875 7.86853 4.71875H8.91148" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.2811 14.8555V16.1314C19.2811 17.8702 17.8714 19.2799 16.1318 19.2799H15.0889" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="10.6302" cy="4.71911" r="1.71911" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="13.37" cy="19.2816" r="1.71911" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.8563 4.71875L16.1323 4.71875C17.871 4.71875 19.2808 6.12849 19.2808 7.86805L19.2808 8.91099" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.14307 19.2821L7.86713 19.2821C6.12837 19.2821 4.71862 17.8723 4.71862 16.1328L4.71862 15.0898" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="19.2809" cy="10.6293" r="1.71911" transform="rotate(90 19.2809 10.6293)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="4.71888" cy="13.3695" r="1.71911" transform="rotate(90 4.71888 13.3695)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network  2 icon with style variants.
+class _WebNetwork2Icon {
+  const _WebNetwork2Icon();
+
+  /// outline style
+  _WebNetwork2Outline get outline => const _WebNetwork2Outline();
+}
+
+/// Network  2 — outline style variants.
+class _WebNetwork2Outline {
+  const _WebNetwork2Outline();
+
+  /// Network  2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network  2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.86829 5.46875C6.54283 5.46875 5.46899 6.54283 5.46899 7.86726V9.14319C5.46899 9.55741 5.13321 9.89319 4.71899 9.89319C4.30478 9.89319 3.96899 9.55741 3.96899 9.14319V7.86726C3.96899 5.71416 5.71465 3.96875 7.86829 3.96875H8.91123C9.32545 3.96875 9.66123 4.30454 9.66123 4.71875C9.66123 5.13296 9.32545 5.46875 8.91123 5.46875H7.86829Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.2814 14.1055C19.6956 14.1055 20.0314 14.4413 20.0314 14.8555V16.1314C20.0314 18.2845 18.2857 20.0299 16.1321 20.0299H15.0891C14.6749 20.0299 14.3391 19.6941 14.3391 19.2799C14.3391 18.8657 14.6749 18.5299 15.0891 18.5299H16.1321C17.4575 18.5299 18.5314 17.4558 18.5314 16.1314V14.8555C18.5314 14.4413 18.8671 14.1055 19.2814 14.1055Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.6302 3.75C10.095 3.75 9.66113 4.18389 9.66113 4.71911C9.66113 5.25434 10.095 5.68822 10.6302 5.68822C11.1655 5.68822 11.5994 5.25434 11.5994 4.71911C11.5994 4.18389 11.1655 3.75 10.6302 3.75ZM8.16113 4.71911C8.16113 3.35546 9.26659 2.25 10.6302 2.25C11.9939 2.25 13.0994 3.35546 13.0994 4.71911C13.0994 6.08276 11.9939 7.18822 10.6302 7.18822C9.26659 7.18822 8.16113 6.08276 8.16113 4.71911Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.37 18.3125C12.8348 18.3125 12.4009 18.7464 12.4009 19.2816C12.4009 19.8168 12.8348 20.2507 13.37 20.2507C13.9052 20.2507 14.3391 19.8168 14.3391 19.2816C14.3391 18.7464 13.9052 18.3125 13.37 18.3125ZM10.9009 19.2816C10.9009 17.918 12.0063 16.8125 13.37 16.8125C14.7336 16.8125 15.8391 17.918 15.8391 19.2816C15.8391 20.6453 14.7336 21.7507 13.37 21.7507C12.0063 21.7507 10.9009 20.6453 10.9009 19.2816Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.531 7.86805C18.531 6.54259 17.4569 5.46875 16.1325 5.46875L14.8566 5.46875C14.4424 5.46875 14.1066 5.13296 14.1066 4.71875C14.1066 4.30454 14.4424 3.96875 14.8566 3.96875L16.1325 3.96875C18.2856 3.96875 20.031 5.7144 20.031 7.86805L20.031 8.91099C20.031 9.3252 19.6952 9.66099 19.281 9.66099C18.8668 9.66099 18.531 9.3252 18.531 8.91099L18.531 7.86805Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.89331 19.2821C9.89331 19.6963 9.55752 20.0321 9.14331 20.0321L7.86738 20.0321C5.71428 20.0321 3.96887 18.2864 3.96887 16.1328L3.96887 15.0898C3.96887 14.6756 4.30465 14.3398 4.71887 14.3398C5.13308 14.3398 5.46887 14.6756 5.46887 15.0898L5.46887 16.1328C5.46887 17.4582 6.54295 18.5321 7.86738 18.5321L9.14331 18.5321C9.55752 18.5321 9.89331 18.8679 9.89331 19.2821Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.25 10.6293C20.25 10.094 19.8161 9.66016 19.2809 9.66016C18.7457 9.66016 18.3118 10.094 18.3118 10.6293C18.3118 11.1645 18.7457 11.5984 19.2809 11.5984C19.8161 11.5984 20.25 11.1645 20.25 10.6293ZM19.2809 8.16016C20.6445 8.16016 21.75 9.26561 21.75 10.6293C21.75 11.9929 20.6445 13.0984 19.2809 13.0984C17.9172 13.0984 16.8118 11.9929 16.8118 10.6293C16.8118 9.26561 17.9172 8.16016 19.2809 8.16016Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.68823 13.3695C5.68823 12.8343 5.25435 12.4004 4.71912 12.4004C4.1839 12.4004 3.75001 12.8343 3.75001 13.3695C3.75001 13.9047 4.1839 14.3386 4.71912 14.3386C5.25435 14.3386 5.68823 13.9047 5.68823 13.3695ZM4.71912 10.9004C6.08277 10.9004 7.18823 12.0058 7.18823 13.3695C7.18823 14.7332 6.08277 15.8386 4.71912 15.8386C3.35547 15.8386 2.25001 14.7332 2.25001 13.3695C2.25001 12.0058 3.35547 10.9004 4.71912 10.9004Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network  3 icon with style variants.
+class _WebNetwork3Icon {
+  const _WebNetwork3Icon();
+
+  /// outline style
+  _WebNetwork3Outline get outline => const _WebNetwork3Outline();
+}
+
+/// Network  3 — outline style variants.
+class _WebNetwork3Outline {
+  const _WebNetwork3Outline();
+
+  /// Network  3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network  3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0013 5.67773C10.9952 5.67773 10.1797 6.49328 10.1797 7.4993C10.1797 8.50532 10.9952 9.32086 12.0013 9.32086C13.0073 9.32086 13.8228 8.50532 13.8228 7.4993C13.8228 6.49328 13.0073 5.67773 12.0013 5.67773ZM8.67969 7.4993C8.67969 5.66485 10.1668 4.17773 12.0013 4.17773C13.8357 4.17773 15.3228 5.66485 15.3228 7.4993C15.3228 9.33375 13.8357 10.8209 12.0013 10.8209C10.1668 10.8209 8.67969 9.33375 8.67969 7.4993Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.57156 14.6777C4.56554 14.6777 3.75 15.4933 3.75 16.4993C3.75 17.5053 4.56554 18.3209 5.57156 18.3209C6.57758 18.3209 7.39313 17.5053 7.39313 16.4993C7.39313 15.4933 6.57758 14.6777 5.57156 14.6777ZM2.25 16.4993C2.25 14.6648 3.73711 13.1777 5.57156 13.1777C7.40601 13.1777 8.89313 14.6648 8.89313 16.4993C8.89313 18.3337 7.40601 19.8209 5.57156 19.8209C3.73711 19.8209 2.25 18.3337 2.25 16.4993Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.4287 14.6777C17.4227 14.6777 16.6072 15.4933 16.6072 16.4993C16.6072 17.5053 17.4227 18.3209 18.4287 18.3209C19.4348 18.3209 20.2503 17.5053 20.2503 16.4993C20.2503 15.4933 19.4348 14.6777 18.4287 14.6777ZM15.1072 16.4993C15.1072 14.6648 16.5943 13.1777 18.4287 13.1777C20.2632 13.1777 21.7503 14.6648 21.7503 16.4993C21.7503 18.3337 20.2632 19.8209 18.4287 19.8209C16.5943 19.8209 15.1072 18.3337 15.1072 16.4993Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5064 8.81749C10.8435 9.05825 10.9215 9.52666 10.6808 9.86372L7.46632 14.364C7.22556 14.701 6.75715 14.7791 6.42009 14.5383C6.08303 14.2976 6.00496 13.8292 6.24572 13.4921L9.46017 8.99186C9.70093 8.6548 10.1693 8.57674 10.5064 8.81749ZM13.4919 8.81749C13.8289 8.57674 14.2974 8.6548 14.5381 8.99186L17.7526 13.4921C17.9933 13.8292 17.9153 14.2976 17.5782 14.5383C17.2411 14.7791 16.7727 14.701 16.532 14.364L13.3175 9.86372C13.0768 9.52666 13.1548 9.05825 13.4919 8.81749Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -2934,23 +4012,6 @@ class _WebNetworkWorldIcon {
 
   /// light style
   _WebNetworkWorldLight get light => const _WebNetworkWorldLight();
-  /// outline style
-  _WebNetworkWorldOutline get outline => const _WebNetworkWorldOutline();
-}
-
-/// Network world — outline style variants.
-class _WebNetworkWorldOutline {
-  const _WebNetworkWorldOutline();
-
-  /// Network world — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Network world',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5567 7.44329 20.25 12 20.25C16.5567 20.25 20.25 16.5567 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3851 17.3851 21.75 12 21.75C6.61487 21.75 2.25 17.3851 2.25 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.92817 5.93428C9.2717 7.44821 8.84717 9.59215 8.84717 12C8.84717 14.4078 9.2717 16.5518 9.92817 18.0657C10.2569 18.8239 10.6291 19.39 11.0043 19.7559C11.376 20.1184 11.7114 20.25 12 20.25C12.2886 20.25 12.624 20.1184 12.9957 19.7559C13.3709 19.39 13.7431 18.8239 14.0718 18.0657C14.7283 16.5518 15.1528 14.4078 15.1528 12C15.1528 9.59215 14.7283 7.44821 14.0718 5.93428C13.7431 5.17611 13.3709 4.61003 12.9957 4.24415C12.624 3.88165 12.2886 3.75 12 3.75C11.7114 3.75 11.376 3.88165 11.0043 4.24415C10.6291 4.61003 10.2569 5.17611 9.92817 5.93428ZM9.95697 3.17028C10.5192 2.62199 11.2106 2.25 12 2.25C12.7894 2.25 13.4808 2.62199 14.043 3.17028C14.6018 3.71519 15.0706 4.46707 15.448 5.33753C16.204 7.08088 16.6528 9.43693 16.6528 12C16.6528 14.5631 16.204 16.9191 15.448 18.6625C15.0706 19.5329 14.6018 20.2848 14.043 20.8297C13.4808 21.378 12.7894 21.75 12 21.75C11.2106 21.75 10.5192 21.378 9.95697 20.8297C9.39823 20.2848 8.92943 19.5329 8.55198 18.6625C7.79604 16.9191 7.34717 14.5631 7.34717 12C7.34717 9.43693 7.79604 7.08088 8.55198 5.33753C8.92943 4.46707 9.39823 3.71519 9.95697 3.17028Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75732 9.26367C2.75732 8.84946 3.09311 8.51367 3.50732 8.51367H20.4927C20.9069 8.51367 21.2427 8.84946 21.2427 9.26367C21.2427 9.67789 20.9069 10.0137 20.4927 10.0137H3.50732C3.09311 10.0137 2.75732 9.67789 2.75732 9.26367Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75732 14.7363C2.75732 14.3221 3.09311 13.9863 3.50732 13.9863H20.4927C20.9069 13.9863 21.2427 14.3221 21.2427 14.7363C21.2427 15.1505 20.9069 15.4863 20.4927 15.4863H3.50732C3.09311 15.4863 2.75732 15.1505 2.75732 14.7363Z" fill="black"/> </svg> ',
-    category: 'Web',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Network world — light style variants.
@@ -2960,9 +4021,354 @@ class _WebNetworkWorldLight {
   /// Network world — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Network world',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3C16.9709 3 21 7.02908 21 12C21 16.9709 16.9709 21 12 21C7.02908 21 3 16.9709 3 12C3 7.02908 7.02908 3 12 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.50732 9.26367H14.6465" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3L12 20.999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.63623 14.7363H20.4925" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7239 11.1074C16.7391 11.401 16.7469 11.6988 16.7469 12C16.7469 16.9709 14.6222 21 11.9998 21C10.1537 21 8.55419 19.0031 7.76904 16.0865" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="16.4889" cy="9.26428" r="1.78967" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="7.52734" cy="13.7041" r="2.31934" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1013 7.4638C15.278 4.79358 13.7499 3 12.0002 3C9.49451 3 7.44322 6.67849 7.26562 11.3423" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network world  1 icon with style variants.
+class _WebNetworkWorld1Icon {
+  const _WebNetworkWorld1Icon();
+
+  /// light style
+  _WebNetworkWorld1Light get light => const _WebNetworkWorld1Light();
+}
+
+/// Network world  1 — light style variants.
+class _WebNetworkWorld1Light {
+  const _WebNetworkWorld1Light();
+
+  /// Network world  1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network world  1',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 16.9709 16.9709 21 12 21C7.02908 21 3 16.9709 3 12C3 7.02908 7.02908 3 12 3C15.7259 3 18.9227 5.2636 20.2903 8.49076" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.5791 9.26392L14.6469 9.26392" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3L12 18.2213" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.63623 14.7363H20.4925" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9998 20.9994C10.1537 20.9994 8.55419 19.0025 7.76904 16.0859" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="16.4889" cy="9.26428" r="1.78967" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="7.52734" cy="13.7041" r="2.31934" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3C13.7497 3 15.2778 4.79358 16.1011 7.4638" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.26562 11.343C7.33399 9.54776 7.67999 7.89849 8.22268 6.54883" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 21C14.4288 21 16.4307 17.5438 16.713 13.0841" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network world  2 icon with style variants.
+class _WebNetworkWorld2Icon {
+  const _WebNetworkWorld2Icon();
+
+  /// light style
+  _WebNetworkWorld2Light get light => const _WebNetworkWorld2Light();
+}
+
+/// Network world  2 — light style variants.
+class _WebNetworkWorld2Light {
+  const _WebNetworkWorld2Light();
+
+  /// Network world  2 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network world  2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3C16.9709 3 21 7.02908 21 12C21 16.9709 16.9709 21 12 21C7.02908 21 3 16.9709 3 12C3 7.02908 7.02908 3 12 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3C14.156 3 15.9028 7.02908 15.9028 12C15.9028 16.9709 14.156 21 12 21C9.84398 21 8.09717 16.9709 8.09717 12C8.09717 7.02908 9.84398 3 12 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.50732 9.26367H20.4927" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.50732 14.7363H20.4927" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Web',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network world  3 icon with style variants.
+class _WebNetworkWorld3Icon {
+  const _WebNetworkWorld3Icon();
+
+  /// light style
+  _WebNetworkWorld3Light get light => const _WebNetworkWorld3Light();
+}
+
+/// Network world  3 — light style variants.
+class _WebNetworkWorld3Light {
+  const _WebNetworkWorld3Light();
+
+  /// Network world  3 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network world  3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3C16.9709 3 21 7.02908 21 12C21 16.9709 16.9709 21 12 21C7.02908 21 3 16.9709 3 12C3 7.02908 7.02908 3 12 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9998 3C13.8504 3 15.3498 7.02908 15.3498 12C15.3498 16.9709 13.8504 21 11.9998 21C10.1493 21 8.6499 16.9709 8.6499 12C8.6499 7.02908 10.1493 3 11.9998 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 12H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network world  4 icon with style variants.
+class _WebNetworkWorld4Icon {
+  const _WebNetworkWorld4Icon();
+
+  /// light style
+  _WebNetworkWorld4Light get light => const _WebNetworkWorld4Light();
+}
+
+/// Network world  4 — light style variants.
+class _WebNetworkWorld4Light {
+  const _WebNetworkWorld4Light();
+
+  /// Network world  4 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network world  4',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3633 3C17.3342 3 21.3633 7.02908 21.3633 12C21.3633 16.9709 17.3342 21 12.3633 21C7.39236 21 3.36328 16.9709 3.36328 12C3.36328 7.02908 7.39236 3 12.3633 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.3631 3C14.2137 3 15.7131 7.02908 15.7131 12C15.7131 16.9709 14.2137 21 12.3631 21C10.5125 21 9.01318 16.9709 9.01318 12C9.01318 7.02908 10.5125 3 12.3631 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.37793 7.8418C5.89479 8.3098 7.54301 8.62796 9.23793 8.80601C11.2977 9.02201 13.4237 9.02201 15.4932 8.80601C17.1881 8.62796 18.8363 8.3098 20.3532 7.8418" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.3532 16.1554C18.8363 15.6874 17.1881 15.3692 15.4932 15.1912C13.4237 14.9752 11.2977 14.9752 9.23793 15.1912C7.54301 15.3692 5.89479 15.6874 4.37793 16.1554" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network world  5 icon with style variants.
+class _WebNetworkWorld5Icon {
+  const _WebNetworkWorld5Icon();
+
+  /// light style
+  _WebNetworkWorld5Light get light => const _WebNetworkWorld5Light();
+}
+
+/// Network world  5 — light style variants.
+class _WebNetworkWorld5Light {
+  const _WebNetworkWorld5Light();
+
+  /// Network world  5 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network world  5',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7832 3C16.7541 3 20.7832 7.02908 20.7832 12C20.7832 16.9709 16.7541 21 11.7832 21C6.81228 21 2.7832 16.9709 2.7832 12C2.7832 7.02908 6.81228 3 11.7832 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.729 3.20898C14.4685 4.3892 15.0396 6.23396 15.3393 8.43385C15.4988 9.53915 15.5835 10.7378 15.5835 11.993C15.5835 13.2471 15.4988 14.4556 15.3393 15.5609C15.0396 17.7608 14.4685 19.6055 13.729 20.7857" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.84371 20.7857C9.10425 19.6055 8.52339 17.7608 8.22371 15.5609C8.06414 14.4556 7.98047 13.2471 7.98047 11.993C7.98047 10.7378 8.06414 9.53915 8.22371 8.43385C8.52339 6.23396 9.10425 4.3892 9.84371 3.20898" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M2.99805 10.0459C4.17826 9.31519 6.02302 8.7353 8.22291 8.43562C9.32821 8.27605 10.5269 8.19141 11.782 8.19141C13.0362 8.19141 14.2349 8.27605 15.3402 8.43562C17.5411 8.7353 19.3761 9.30643 20.5651 10.0362" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.5651 13.9414C19.3761 14.6906 17.5401 15.2617 15.3402 15.5614C14.2349 15.721 13.0362 15.8046 11.7811 15.8046C10.5269 15.8046 9.32821 15.721 8.22291 15.5614C6.02205 15.2617 4.17729 14.6809 2.99805 13.9414" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network world  6 icon with style variants.
+class _WebNetworkWorld6Icon {
+  const _WebNetworkWorld6Icon();
+
+  /// light style
+  _WebNetworkWorld6Light get light => const _WebNetworkWorld6Light();
+}
+
+/// Network world  6 — light style variants.
+class _WebNetworkWorld6Light {
+  const _WebNetworkWorld6Light();
+
+  /// Network world  6 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network world  6',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3C16.9709 3 21 7.02908 21 12C21 16.9709 16.9709 21 12 21C7.02908 21 3 16.9709 3 12C3 7.02908 7.02908 3 12 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9998 3C13.8504 3 15.3498 7.02908 15.3498 12C15.3498 16.9709 13.8504 21 11.9998 21C10.1493 21 8.6499 16.9709 8.6499 12C8.6499 7.02908 10.1493 3 11.9998 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21 11.9984C21 13.849 16.9709 15.3483 12 15.3483C7.02908 15.3483 3 13.849 3 11.9984C3 10.1478 7.02908 8.64844 12 8.64844C16.9709 8.64844 21 10.1478 21 11.9984Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network world  7 icon with style variants.
+class _WebNetworkWorld7Icon {
+  const _WebNetworkWorld7Icon();
+
+  /// light style
+  _WebNetworkWorld7Light get light => const _WebNetworkWorld7Light();
+}
+
+/// Network world  7 — light style variants.
+class _WebNetworkWorld7Light {
+  const _WebNetworkWorld7Light();
+
+  /// Network world  7 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network world  7',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3C16.9709 3 21 7.02908 21 12C21 16.9709 16.9709 21 12 21C7.02908 21 3 16.9709 3 12C3 7.02908 7.02908 3 12 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.50732 9.26367H20.4927" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3L12 20.999" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.50732 14.7363H20.4927" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3C14.6224 3 16.7471 7.02908 16.7471 12C16.7471 16.9709 14.6224 21 12 21C9.3776 21 7.25293 16.9709 7.25293 12C7.25293 7.02908 9.3776 3 12 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network world  8 icon with style variants.
+class _WebNetworkWorld8Icon {
+  const _WebNetworkWorld8Icon();
+
+  /// outline style
+  _WebNetworkWorld8Outline get outline => const _WebNetworkWorld8Outline();
+}
+
+/// Network world  8 — outline style variants.
+class _WebNetworkWorld8Outline {
+  const _WebNetworkWorld8Outline();
+
+  /// Network world  8 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network world  8',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5567 7.44329 20.25 12 20.25C16.5567 20.25 20.25 16.5567 20.25 12C20.25 11.5858 20.5858 11.25 21 11.25C21.4142 11.25 21.75 11.5858 21.75 12C21.75 17.3851 17.3851 21.75 12 21.75C6.61487 21.75 2.25 17.3851 2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C16.0375 2.25 19.4999 4.70349 20.9808 8.19812C21.1425 8.5795 20.9643 9.01969 20.5829 9.18131C20.2015 9.34293 19.7614 9.16478 19.5997 8.78339C18.3455 5.82372 15.4143 3.75 12 3.75Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.8291 9.26392C4.8291 8.8497 5.16489 8.51392 5.5791 8.51392L14.6469 8.51392C15.0612 8.51392 15.3969 8.8497 15.3969 9.26392C15.3969 9.67813 15.0612 10.0139 14.6469 10.0139L5.5791 10.0139C5.16489 10.0139 4.8291 9.67813 4.8291 9.26392Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.25C12.4142 2.25 12.75 2.58579 12.75 3L12.75 18.2213C12.75 18.6355 12.4142 18.9713 12 18.9713C11.5858 18.9713 11.25 18.6355 11.25 18.2213L11.25 3C11.25 2.58579 11.5858 2.25 12 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.88647 14.7363C8.88647 14.3221 9.22226 13.9863 9.63647 13.9863H20.4927C20.9069 13.9863 21.2427 14.3221 21.2427 14.7363C21.2427 15.1505 20.9069 15.4863 20.4927 15.4863H9.63647C9.22226 15.4863 8.88647 15.1505 8.88647 14.7363Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.57427 15.3619C7.97424 15.2542 8.38577 15.4912 8.49345 15.8912C8.86628 17.2761 9.42111 18.3957 10.06 19.1529C10.6991 19.9105 11.3685 20.2496 12 20.2496C12.4142 20.2496 12.75 20.5854 12.75 20.9996C12.75 21.4138 12.4142 21.7496 12 21.7496C10.7853 21.7496 9.73193 21.0902 8.91351 20.1202C8.0948 19.1498 7.45732 17.8127 7.04501 16.2811C6.93734 15.8811 7.1743 15.4696 7.57427 15.3619Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4889 8.22461C15.9147 8.22461 15.4492 8.69009 15.4492 9.26428C15.4492 9.83848 15.9147 10.304 16.4889 10.304C17.0631 10.304 17.5286 9.83848 17.5286 9.26428C17.5286 8.69009 17.0631 8.22461 16.4889 8.22461ZM13.9492 9.26428C13.9492 7.86166 15.0863 6.72461 16.4889 6.72461C17.8915 6.72461 19.0286 7.86166 19.0286 9.26428C19.0286 10.6669 17.8915 11.804 16.4889 11.804C15.0863 11.804 13.9492 10.6669 13.9492 9.26428Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.52734 12.1348C6.66062 12.1348 5.95801 12.8374 5.95801 13.7041C5.95801 14.5708 6.66062 15.2734 7.52734 15.2734C8.39406 15.2734 9.09668 14.5708 9.09668 13.7041C9.09668 12.8374 8.39406 12.1348 7.52734 12.1348ZM4.45801 13.7041C4.45801 12.009 5.8322 10.6348 7.52734 10.6348C9.22249 10.6348 10.5967 12.009 10.5967 13.7041C10.5967 15.3992 9.22249 16.7734 7.52734 16.7734C5.8322 16.7734 4.45801 15.3992 4.45801 13.7041Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.2502 3C11.2502 2.58579 11.586 2.25 12.0002 2.25C13.1507 2.25 14.1583 2.8425 14.9558 3.72897C15.7519 4.61397 16.3843 5.83621 16.818 7.24282C16.9401 7.63865 16.7181 8.05846 16.3223 8.18051C15.9265 8.30256 15.5067 8.08061 15.3846 7.68479C14.995 6.42118 14.4517 5.41152 13.8406 4.73217C13.2308 4.05429 12.5994 3.75 12.0002 3.75C11.586 3.75 11.2502 3.41421 11.2502 3Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.50249 5.85317C8.8868 6.0077 9.07307 6.44452 8.91854 6.82883C8.41195 8.08872 8.0806 9.65158 8.01509 11.3718C7.99933 11.7857 7.65101 12.1085 7.2371 12.0927C6.82318 12.0769 6.50042 11.7286 6.51618 11.3147C6.5874 9.44434 6.94805 7.70865 7.52684 6.26923C7.68136 5.88492 8.11818 5.69864 8.50249 5.85317Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.7604 12.3356C17.1738 12.3618 17.4877 12.7181 17.4615 13.1315C17.3147 15.4508 16.7196 17.5506 15.8073 19.0958C14.9083 20.6182 13.6003 21.75 12 21.75C11.5858 21.75 11.25 21.4142 11.25 21C11.25 20.5858 11.5858 20.25 12 20.25C12.8285 20.25 13.7359 19.6537 14.5156 18.3331C15.282 17.0353 15.829 15.1772 15.9645 13.0368C15.9907 12.6234 16.347 12.3095 16.7604 12.3356Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network world  9 icon with style variants.
+class _WebNetworkWorld9Icon {
+  const _WebNetworkWorld9Icon();
+
+  /// outline style
+  _WebNetworkWorld9Outline get outline => const _WebNetworkWorld9Outline();
+}
+
+/// Network world  9 — outline style variants.
+class _WebNetworkWorld9Outline {
+  const _WebNetworkWorld9Outline();
+
+  /// Network world  9 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network world  9',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5567 7.44329 20.25 12 20.25C16.5567 20.25 20.25 16.5567 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3851 17.3851 21.75 12 21.75C6.61487 21.75 2.25 17.3851 2.25 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75732 9.26367C2.75732 8.84946 3.09311 8.51367 3.50732 8.51367H14.6465C15.0607 8.51367 15.3965 8.84946 15.3965 9.26367C15.3965 9.67789 15.0607 10.0137 14.6465 10.0137H3.50732C3.09311 10.0137 2.75732 9.67789 2.75732 9.26367Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.25C12.4142 2.25 12.75 2.58579 12.75 3L12.75 20.999C12.75 21.4132 12.4142 21.749 12 21.749C11.5858 21.749 11.25 21.4132 11.25 20.999L11.25 3C11.25 2.58579 11.5858 2.25 12 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.88623 14.7363C8.88623 14.3221 9.22202 13.9863 9.63623 13.9863H20.4925C20.9067 13.9863 21.2425 14.3221 21.2425 14.7363C21.2425 15.1505 20.9067 15.4863 20.4925 15.4863H9.63623C9.22202 15.4863 8.88623 15.1505 8.88623 14.7363Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.6852 10.3584C17.0988 10.337 17.4516 10.6549 17.473 11.0686C17.489 11.3751 17.4971 11.6858 17.4971 12C17.4971 14.5823 16.9468 16.9573 16.0204 18.714C15.1119 20.4364 13.7273 21.75 12 21.75C10.7853 21.75 9.73193 21.0906 8.91351 20.1206C8.0948 19.1502 7.45732 17.8131 7.04501 16.2815C6.93734 15.8815 7.1743 15.47 7.57427 15.3623C7.97424 15.2546 8.38577 15.4916 8.49345 15.8916C8.86628 17.2765 9.42111 18.3961 10.06 19.1533C10.6991 19.9109 11.3685 20.25 12 20.25C12.8951 20.25 13.8841 19.549 14.6936 18.0142C15.485 16.5136 15.9971 14.3885 15.9971 12C15.9971 11.7117 15.9896 11.4269 15.9751 11.1463C15.9536 10.7327 16.2715 10.3799 16.6852 10.3584Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4889 8.22461C15.9147 8.22461 15.4492 8.69009 15.4492 9.26428C15.4492 9.83848 15.9147 10.304 16.4889 10.304C17.0631 10.304 17.5286 9.83848 17.5286 9.26428C17.5286 8.69009 17.0631 8.22461 16.4889 8.22461ZM13.9492 9.26428C13.9492 7.86166 15.0863 6.72461 16.4889 6.72461C17.8915 6.72461 19.0286 7.86166 19.0286 9.26428C19.0286 10.6669 17.8915 11.804 16.4889 11.804C15.0863 11.804 13.9492 10.6669 13.9492 9.26428Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.52734 12.1348C6.66062 12.1348 5.95801 12.8374 5.95801 13.7041C5.95801 14.5708 6.66062 15.2734 7.52734 15.2734C8.39406 15.2734 9.09668 14.5708 9.09668 13.7041C9.09668 12.8374 8.39406 12.1348 7.52734 12.1348ZM4.45801 13.7041C4.45801 12.009 5.8322 10.6348 7.52734 10.6348C9.22249 10.6348 10.5967 12.009 10.5967 13.7041C10.5967 15.3992 9.22249 16.7734 7.52734 16.7734C5.8322 16.7734 4.45801 15.3992 4.45801 13.7041Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.41301 5.79091C8.63558 7.16807 8.10038 9.13119 8.01509 11.3708C7.99933 11.7847 7.65101 12.1075 7.2371 12.0917C6.82318 12.076 6.50042 11.7277 6.51618 11.3137C6.60849 8.88959 7.18772 6.68156 8.10677 5.05352C9.01055 3.45253 10.3494 2.25 12.0002 2.25C13.1507 2.25 14.1583 2.8425 14.9557 3.72897C15.7519 4.61397 16.3843 5.83621 16.818 7.24282C16.9401 7.63865 16.7181 8.05846 16.3223 8.18051C15.9265 8.30256 15.5067 8.08061 15.3846 7.68479C14.995 6.42118 14.4517 5.41152 13.8406 4.73217C13.2308 4.05429 12.5994 3.75 12.0002 3.75C11.1453 3.75 10.2057 4.38671 9.41301 5.79091Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network world  10 icon with style variants.
+class _WebNetworkWorld10Icon {
+  const _WebNetworkWorld10Icon();
+
+  /// outline style
+  _WebNetworkWorld10Outline get outline => const _WebNetworkWorld10Outline();
+}
+
+/// Network world  10 — outline style variants.
+class _WebNetworkWorld10Outline {
+  const _WebNetworkWorld10Outline();
+
+  /// Network world  10 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network world  10',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5567 7.44329 20.25 12 20.25C16.5567 20.25 20.25 16.5567 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3851 17.3851 21.75 12 21.75C6.61487 21.75 2.25 17.3851 2.25 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3336 5.89752C9.76588 7.42275 9.39966 9.58009 9.39966 12C9.39966 14.4199 9.76588 16.5773 10.3336 18.1025C10.6184 18.8679 10.9397 19.4351 11.2585 19.7973C11.5783 20.1607 11.8306 20.25 11.9996 20.25C12.1686 20.25 12.4209 20.1607 12.7408 19.7973C13.0595 19.4351 13.3808 18.8679 13.6657 18.1025C14.2333 16.5773 14.5996 14.4199 14.5996 12C14.5996 9.58009 14.2333 7.42275 13.6657 5.89752C13.3808 5.13206 13.0595 4.5649 12.7408 4.20272C12.4209 3.83935 12.1686 3.75 11.9996 3.75C11.8306 3.75 11.5783 3.83935 11.2585 4.20272C10.9397 4.5649 10.6184 5.13206 10.3336 5.89752ZM10.1325 3.21171C10.6142 2.66429 11.2433 2.25 11.9996 2.25C12.7559 2.25 13.385 2.66429 13.8668 3.21171C14.3496 3.76032 14.7502 4.51112 15.0714 5.37429C15.7161 7.10633 16.0996 9.44899 16.0996 12C16.0996 14.551 15.7161 16.8937 15.0714 18.6257C14.7502 19.4889 14.3496 20.2397 13.8668 20.7883C13.385 21.3357 12.7559 21.75 11.9996 21.75C11.2433 21.75 10.6142 21.3357 10.1325 20.7883C9.64961 20.2397 9.24903 19.4889 8.92776 18.6257C8.28312 16.8937 7.89966 14.551 7.89966 12C7.89966 9.44899 8.28312 7.10633 8.92776 5.37429C9.24903 4.51112 9.64961 3.76032 10.1325 3.21171Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 12C2.25 11.5858 2.58579 11.25 3 11.25H21C21.4142 11.25 21.75 11.5858 21.75 12C21.75 12.4142 21.4142 12.75 21 12.75H3C2.58579 12.75 2.25 12.4142 2.25 12Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network world  11 icon with style variants.
+class _WebNetworkWorld11Icon {
+  const _WebNetworkWorld11Icon();
+
+  /// outline style
+  _WebNetworkWorld11Outline get outline => const _WebNetworkWorld11Outline();
+}
+
+/// Network world  11 — outline style variants.
+class _WebNetworkWorld11Outline {
+  const _WebNetworkWorld11Outline();
+
+  /// Network world  11 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network world  11',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5567 7.44329 20.25 12 20.25C16.5567 20.25 20.25 16.5567 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3851 17.3851 21.75 12 21.75C6.61487 21.75 2.25 17.3851 2.25 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.92817 5.93428C9.2717 7.44821 8.84717 9.59215 8.84717 12C8.84717 14.4078 9.2717 16.5518 9.92817 18.0657C10.2569 18.8239 10.6291 19.39 11.0043 19.7559C11.376 20.1184 11.7114 20.25 12 20.25C12.2886 20.25 12.624 20.1184 12.9957 19.7559C13.3709 19.39 13.7431 18.8239 14.0718 18.0657C14.7283 16.5518 15.1528 14.4078 15.1528 12C15.1528 9.59215 14.7283 7.44821 14.0718 5.93428C13.7431 5.17611 13.3709 4.61003 12.9957 4.24415C12.624 3.88165 12.2886 3.75 12 3.75C11.7114 3.75 11.376 3.88165 11.0043 4.24415C10.6291 4.61003 10.2569 5.17611 9.92817 5.93428ZM9.95697 3.17028C10.5192 2.62199 11.2106 2.25 12 2.25C12.7894 2.25 13.4808 2.62199 14.043 3.17028C14.6018 3.71519 15.0706 4.46707 15.448 5.33753C16.204 7.08088 16.6528 9.43693 16.6528 12C16.6528 14.5631 16.204 16.9191 15.448 18.6625C15.0706 19.5329 14.6018 20.2848 14.043 20.8297C13.4808 21.378 12.7894 21.75 12 21.75C11.2106 21.75 10.5192 21.378 9.95697 20.8297C9.39823 20.2848 8.92943 19.5329 8.55198 18.6625C7.79604 16.9191 7.34717 14.5631 7.34717 12C7.34717 9.43693 7.79604 7.08088 8.55198 5.33753C8.92943 4.46707 9.39823 3.71519 9.95697 3.17028Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75732 9.26367C2.75732 8.84946 3.09311 8.51367 3.50732 8.51367H20.4927C20.9069 8.51367 21.2427 8.84946 21.2427 9.26367C21.2427 9.67789 20.9069 10.0137 20.4927 10.0137H3.50732C3.09311 10.0137 2.75732 9.67789 2.75732 9.26367Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75732 14.7363C2.75732 14.3221 3.09311 13.9863 3.50732 13.9863H20.4927C20.9069 13.9863 21.2427 14.3221 21.2427 14.7363C21.2427 15.1505 20.9069 15.4863 20.4927 15.4863H3.50732C3.09311 15.4863 2.75732 15.1505 2.75732 14.7363Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network world  12 icon with style variants.
+class _WebNetworkWorld12Icon {
+  const _WebNetworkWorld12Icon();
+
+  /// outline style
+  _WebNetworkWorld12Outline get outline => const _WebNetworkWorld12Outline();
+}
+
+/// Network world  12 — outline style variants.
+class _WebNetworkWorld12Outline {
+  const _WebNetworkWorld12Outline();
+
+  /// Network world  12 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network world  12',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21.75C6.62 21.75 2.25 17.38 2.25 12C2.25 6.62 6.62 2.25 12 2.25C17.38 2.25 21.75 6.62 21.75 12C21.75 17.38 17.38 21.75 12 21.75ZM12 3.75C7.45 3.75 3.75 7.45 3.75 12C3.75 16.55 7.45 20.25 12 20.25C16.55 20.25 20.25 16.55 20.25 12C20.25 7.45 16.55 3.75 12 3.75Z" fill="black"/> <path d="M11.9999 21.75C9.3099 21.75 7.8999 16.84 7.8999 12C7.8999 7.16 9.3099 2.25 11.9999 2.25C14.6899 2.25 16.0999 7.15 16.0999 12C16.0999 16.85 14.6899 21.75 11.9999 21.75ZM11.9999 3.75C10.9399 3.75 9.3999 6.96 9.3999 12C9.3999 17.04 10.9399 20.25 11.9999 20.25C13.0599 20.25 14.5999 17.04 14.5999 12C14.5999 6.96 13.0599 3.75 11.9999 3.75Z" fill="black"/> <path d="M12 9.71998C10.93 9.71998 9.86004 9.65998 8.80004 9.54998C7.01004 9.35998 5.32004 9.02998 3.80004 8.55998C3.40004 8.43998 3.18004 8.01998 3.30004 7.61998C3.42004 7.22998 3.84004 6.99998 4.24004 7.11998C5.67004 7.55998 7.26004 7.87998 8.96004 8.05998C10.98 8.26998 13.03 8.26998 15.06 8.05998C16.76 7.87998 18.34 7.56998 19.78 7.11998C20.18 6.99998 20.6 7.21998 20.72 7.61998C20.84 8.01998 20.62 8.43998 20.22 8.55998C18.69 9.02998 17.01 9.36998 15.22 9.54998C14.15 9.65998 13.08 9.71998 12.01 9.71998H12Z" fill="black"/> <path d="M4.01003 16.91C3.69003 16.91 3.39003 16.7 3.29003 16.38C3.17003 15.98 3.39003 15.56 3.79003 15.44C5.32003 14.97 7.00003 14.64 8.79003 14.45C10.91 14.23 13.07 14.23 15.2 14.45C16.99 14.64 18.67 14.97 20.2 15.44C20.6 15.56 20.82 15.98 20.7 16.38C20.58 16.78 20.16 17 19.76 16.88C18.32 16.44 16.74 16.12 15.04 15.95C13.01 15.74 10.96 15.74 8.94003 15.95C7.25003 16.13 5.66003 16.44 4.22003 16.88C4.15003 16.9 4.07003 16.91 4.00003 16.91H4.01003Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network world  13 icon with style variants.
+class _WebNetworkWorld13Icon {
+  const _WebNetworkWorld13Icon();
+
+  /// outline style
+  _WebNetworkWorld13Outline get outline => const _WebNetworkWorld13Outline();
+}
+
+/// Network world  13 — outline style variants.
+class _WebNetworkWorld13Outline {
+  const _WebNetworkWorld13Outline();
+
+  /// Network world  13 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network world  13',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7832 3.75C7.2265 3.75 3.5332 7.44329 3.5332 12C3.5332 16.5567 7.2265 20.25 11.7832 20.25C16.3399 20.25 20.0332 16.5567 20.0332 12C20.0332 7.44329 16.3399 3.75 11.7832 3.75ZM2.0332 12C2.0332 6.61487 6.39807 2.25 11.7832 2.25C17.1683 2.25 21.5332 6.61487 21.5332 12C21.5332 17.3851 17.1683 21.75 11.7832 21.75C6.39807 21.75 2.0332 17.3851 2.0332 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3309 2.57353C13.6819 2.3536 14.1447 2.45987 14.3647 2.81088C15.1836 4.11789 15.7754 6.07998 16.0821 8.32978C16.2469 9.47233 16.3336 10.7059 16.3336 11.9931C16.3336 13.279 16.2469 14.5223 16.0821 15.6652C15.7754 17.9149 15.1836 19.877 14.3647 21.184C14.1447 21.5351 13.6819 21.6413 13.3309 21.4214C12.9799 21.2015 12.8736 20.7386 13.0935 20.3876C13.7532 19.3348 14.3035 17.6085 14.5962 15.4597L14.597 15.4538L14.5971 15.4538C14.7511 14.3869 14.8336 13.2144 14.8336 11.9931C14.8336 10.7711 14.7511 9.60831 14.5971 8.54111L14.5962 8.53518L14.5962 8.53518C14.3035 6.38642 13.7532 4.66014 13.0935 3.60729C12.8736 3.25628 12.9799 2.79345 13.3309 2.57353Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.2422 2.57353C10.5932 2.79345 10.6994 3.25628 10.4795 3.60729C9.81879 4.66184 9.25938 6.38952 8.96709 8.53518L8.96628 8.54112L8.96626 8.54111C8.81225 9.60792 8.73071 10.7706 8.73071 11.9931C8.73071 13.2148 8.81229 14.3873 8.96626 15.4538L8.96712 15.4597L8.96709 15.4597C9.25938 17.6054 9.81879 19.3331 10.4795 20.3876C10.6994 20.7386 10.5932 21.2015 10.2422 21.4214C9.89115 21.6413 9.42832 21.5351 9.2084 21.184C8.39057 19.8787 7.78841 17.9181 7.48122 15.6652C7.31634 14.522 7.23071 13.2786 7.23071 11.9931C7.23071 10.7064 7.31638 9.4727 7.48122 8.32975C7.78841 6.07687 8.39056 4.11619 9.2084 2.81088C9.42832 2.45987 9.89115 2.3536 10.2422 2.57353Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7819 8.94141C10.5599 8.94141 9.39713 9.02386 8.32993 9.17793L8.32401 9.17878L8.324 9.17876C6.17855 9.47102 4.44895 10.0296 3.39271 10.6836C3.04053 10.9016 2.57827 10.7929 2.36023 10.4407C2.14219 10.0885 2.25093 9.62626 2.6031 9.40822C3.90672 8.60111 5.86549 8.0001 8.11857 7.69289C9.26114 7.5281 10.4948 7.44141 11.7819 7.44141C13.0681 7.44141 14.3017 7.5281 15.4443 7.69289C17.6973 7.99996 19.6454 8.59184 20.9572 9.39695C21.3103 9.61362 21.4208 10.0755 21.2041 10.4285C20.9875 10.7815 20.5256 10.892 20.1726 10.6754C19.1071 10.0214 17.3863 9.47117 15.2389 9.17877L15.2329 9.17795L15.2329 9.17793C14.1657 9.02386 13.0029 8.94141 11.7819 8.94141Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.36249 13.5431C2.58255 13.1921 3.04542 13.086 3.39634 13.3061C4.44975 13.9666 6.17724 14.5261 8.32396 14.8184L8.32993 14.8192L8.32993 14.8192C9.39676 14.9732 10.5595 15.0547 11.7809 15.0547C13.0034 15.0547 14.1661 14.9732 15.2329 14.8192L15.2388 14.8183L15.2388 14.8184C17.3865 14.5258 19.1037 13.9758 20.1651 13.307C20.5155 13.0861 20.9786 13.1912 21.1995 13.5417C21.4203 13.8921 21.3152 14.3552 20.9648 14.576C19.6488 15.4052 17.6951 15.9973 15.4443 16.3042C14.3013 16.4691 13.0677 16.5547 11.7809 16.5547C10.4952 16.5547 9.26151 16.4691 8.11858 16.3042C5.86482 15.9971 3.90396 15.3949 2.59946 14.5769C2.24853 14.3569 2.14244 13.894 2.36249 13.5431Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network world  14 icon with style variants.
+class _WebNetworkWorld14Icon {
+  const _WebNetworkWorld14Icon();
+
+  /// outline style
+  _WebNetworkWorld14Outline get outline => const _WebNetworkWorld14Outline();
+}
+
+/// Network world  14 — outline style variants.
+class _WebNetworkWorld14Outline {
+  const _WebNetworkWorld14Outline();
+
+  /// Network world  14 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network world  14',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5567 7.44329 20.25 12 20.25C16.5567 20.25 20.25 16.5567 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3851 17.3851 21.75 12 21.75C6.61487 21.75 2.25 17.3851 2.25 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3336 5.89752C9.76588 7.42275 9.39966 9.58009 9.39966 12C9.39966 14.4199 9.76588 16.5773 10.3336 18.1025C10.6184 18.8679 10.9397 19.4351 11.2585 19.7973C11.5783 20.1607 11.8306 20.25 11.9996 20.25C12.1686 20.25 12.4209 20.1607 12.7408 19.7973C13.0595 19.4351 13.3808 18.8679 13.6657 18.1025C14.2333 16.5773 14.5996 14.4199 14.5996 12C14.5996 9.58009 14.2333 7.42275 13.6657 5.89752C13.3808 5.13206 13.0595 4.5649 12.7408 4.20272C12.4209 3.83935 12.1686 3.75 11.9996 3.75C11.8306 3.75 11.5783 3.83935 11.2585 4.20272C10.9397 4.5649 10.6184 5.13206 10.3336 5.89752ZM10.1325 3.21171C10.6142 2.66429 11.2433 2.25 11.9996 2.25C12.7559 2.25 13.385 2.66429 13.8668 3.21171C14.3496 3.76032 14.7502 4.51112 15.0714 5.37429C15.7161 7.10633 16.0996 9.44899 16.0996 12C16.0996 14.551 15.7161 16.8937 15.0714 18.6257C14.7502 19.4889 14.3496 20.2397 13.8668 20.7883C13.385 21.3357 12.7559 21.75 11.9996 21.75C11.2433 21.75 10.6142 21.3357 10.1325 20.7883C9.64961 20.2397 9.24903 19.4889 8.92776 18.6257C8.28312 16.8937 7.89966 14.551 7.89966 12C7.89966 9.44899 8.28312 7.10633 8.92776 5.37429C9.24903 4.51112 9.64961 3.76032 10.1325 3.21171Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.20272 11.2572C3.83935 11.5771 3.75 11.8294 3.75 11.9984C3.75 12.1674 3.83935 12.4197 4.20272 12.7395C4.5649 13.0583 5.13206 13.3795 5.89752 13.6644C7.42275 14.2321 9.58009 14.5983 12 14.5983C14.4199 14.5983 16.5773 14.2321 18.1025 13.6644C18.8679 13.3795 19.4351 13.0583 19.7973 12.7395C20.1607 12.4197 20.25 12.1674 20.25 11.9984C20.25 11.8294 20.1607 11.5771 19.7973 11.2572C19.4351 10.9385 18.8679 10.6172 18.1025 10.3323C16.5773 9.76465 14.4199 9.39844 12 9.39844C9.58009 9.39844 7.42275 9.76465 5.89752 10.3323C5.13206 10.6172 4.5649 10.9385 4.20272 11.2572ZM5.37429 8.92654C7.10633 8.2819 9.44899 7.89844 12 7.89844C14.551 7.89844 16.8937 8.2819 18.6257 8.92654C19.4889 9.24781 20.2397 9.64839 20.7883 10.1312C21.3357 10.613 21.75 11.2421 21.75 11.9984C21.75 12.7547 21.3357 13.3837 20.7883 13.8655C20.2397 14.3484 19.4889 14.749 18.6257 15.0702C16.8937 15.7149 14.551 16.0983 12 16.0983C9.44899 16.0983 7.10633 15.7149 5.37429 15.0702C4.51112 14.749 3.76032 14.3484 3.21171 13.8655C2.66429 13.3837 2.25 12.7547 2.25 11.9984C2.25 11.2421 2.66429 10.613 3.21171 10.1312C3.76032 9.64839 4.51112 9.24781 5.37429 8.92654Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Network world  15 icon with style variants.
+class _WebNetworkWorld15Icon {
+  const _WebNetworkWorld15Icon();
+
+  /// outline style
+  _WebNetworkWorld15Outline get outline => const _WebNetworkWorld15Outline();
+}
+
+/// Network world  15 — outline style variants.
+class _WebNetworkWorld15Outline {
+  const _WebNetworkWorld15Outline();
+
+  /// Network world  15 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Network world  15',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5567 7.44329 20.25 12 20.25C16.5567 20.25 20.25 16.5567 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3851 17.3851 21.75 12 21.75C6.61487 21.75 2.25 17.3851 2.25 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75732 9.26367C2.75732 8.84946 3.09311 8.51367 3.50732 8.51367H20.4927C20.9069 8.51367 21.2427 8.84946 21.2427 9.26367C21.2427 9.67789 20.9069 10.0137 20.4927 10.0137H3.50732C3.09311 10.0137 2.75732 9.67789 2.75732 9.26367Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.25C12.4142 2.25 12.75 2.58579 12.75 3L12.75 20.999C12.75 21.4132 12.4142 21.749 12 21.749C11.5858 21.749 11.25 21.4132 11.25 20.999L11.25 3C11.25 2.58579 11.5858 2.25 12 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.75732 14.7363C2.75732 14.3221 3.09311 13.9863 3.50732 13.9863H20.4927C20.9069 13.9863 21.2427 14.3221 21.2427 14.7363C21.2427 15.1505 20.9069 15.4863 20.4927 15.4863H3.50732C3.09311 15.4863 2.75732 15.1505 2.75732 14.7363Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.30645 5.98579C8.515 7.4864 8.00293 9.61143 8.00293 12C8.00293 14.3886 8.515 16.5136 9.30645 18.0142C10.1159 19.549 11.1049 20.25 12 20.25C12.8951 20.25 13.8841 19.549 14.6935 18.0142C15.485 16.5136 15.9971 14.3886 15.9971 12C15.9971 9.61143 15.485 7.4864 14.6935 5.98579C13.8841 4.451 12.8951 3.75 12 3.75C11.1049 3.75 10.1159 4.451 9.30645 5.98579ZM7.97968 5.28602C8.88814 3.56354 10.2727 2.25 12 2.25C13.7273 2.25 15.1119 3.56354 16.0203 5.28602C16.9468 7.04268 17.4971 9.41765 17.4971 12C17.4971 14.5824 16.9468 16.9573 16.0203 18.714C15.1119 20.4365 13.7273 21.75 12 21.75C10.2727 21.75 8.88814 20.4365 7.97968 18.714C7.05319 16.9573 6.50293 14.5824 6.50293 12C6.50293 9.41765 7.05319 7.04268 7.97968 5.28602Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
@@ -2974,23 +4380,6 @@ class _WebCloudNetworkIcon {
 
   /// light style
   _WebCloudNetworkLight get light => const _WebCloudNetworkLight();
-  /// outline style
-  _WebCloudNetworkOutline get outline => const _WebCloudNetworkOutline();
-}
-
-/// Cloud Network — outline style variants.
-class _WebCloudNetworkOutline {
-  const _WebCloudNetworkOutline();
-
-  /// Cloud Network — outline / regular
-  IconfyIconData get regular => const IconfyIconData(
-    name: 'Cloud Network',
-    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.5 16.3828C18.0858 16.3828 17.75 16.7186 17.75 17.1328C17.75 17.547 18.0858 17.8828 18.5 17.8828C18.9142 17.8828 19.25 17.547 19.25 17.1328C19.25 16.7186 18.9142 16.3828 18.5 16.3828ZM16.25 17.1328C16.25 15.8902 17.2574 14.8828 18.5 14.8828C19.7426 14.8828 20.75 15.8902 20.75 17.1328C20.75 18.3755 19.7426 19.3828 18.5 19.3828C17.2574 19.3828 16.25 18.3755 16.25 17.1328Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.5 16.3828C5.91421 16.3828 6.25 16.7186 6.25 17.1328C6.25 17.547 5.91421 17.8828 5.5 17.8828C5.08579 17.8828 4.75 17.547 4.75 17.1328C4.75 16.7186 5.08579 16.3828 5.5 16.3828ZM7.75 17.1328C7.75 15.8902 6.74264 14.8828 5.5 14.8828C4.25736 14.8828 3.25 15.8902 3.25 17.1328C3.25 18.3755 4.25736 19.3828 5.5 19.3828C6.74264 19.3828 7.75 18.3755 7.75 17.1328Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 18.3828C11.5858 18.3828 11.25 18.7186 11.25 19.1328C11.25 19.547 11.5858 19.8828 12 19.8828C12.4142 19.8828 12.75 19.547 12.75 19.1328C12.75 18.7186 12.4142 18.3828 12 18.3828ZM9.75 19.1328C9.75 17.8902 10.7574 16.8828 12 16.8828C13.2426 16.8828 14.25 17.8902 14.25 19.1328C14.25 20.3755 13.2426 21.3828 12 21.3828C10.7574 21.3828 9.75 20.3755 9.75 19.1328Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.5254 12.832C15.9396 12.832 16.2754 13.1678 16.2754 13.582V14.7675L17.6454 15.5194C18.0085 15.7186 18.1413 16.1746 17.942 16.5377C17.7427 16.9008 17.2868 17.0336 16.9237 16.8343L15.1645 15.8689C14.9245 15.7371 14.7754 15.4851 14.7754 15.2114L14.7754 13.582C14.7754 13.1678 15.1112 12.832 15.5254 12.832Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.47461 12.832C8.0604 12.832 7.72461 13.1678 7.72461 13.582V14.7675L6.35463 15.5194C5.99151 15.7186 5.8587 16.1746 6.058 16.5377C6.25729 16.9008 6.71321 17.0336 7.07633 16.8343L8.83546 15.8689C9.07545 15.7371 9.22461 15.4851 9.22461 15.2114L9.22461 13.582C9.22461 13.1678 8.88882 12.832 8.47461 12.832Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 12.8457C12.4142 12.8457 12.75 13.1815 12.75 13.5957L12.75 17.6344C12.75 18.0486 12.4142 18.3844 12 18.3844C11.5858 18.3844 11.25 18.0486 11.25 17.6344L11.25 13.5957C11.25 13.1815 11.5858 12.8457 12 12.8457Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.44259 4.34313C9.16846 3.38406 10.3325 2.61719 12 2.61719C13.6675 2.61719 14.8315 3.38406 15.5574 4.34313C16.0724 5.02354 16.3705 5.80274 16.493 6.4823C17.2838 6.60849 18.0121 6.94665 18.584 7.49242C19.3225 8.19722 19.75 9.2008 19.75 10.3962C19.75 12.0064 18.7938 13.3953 17.4167 14.0192C17.4065 14.0238 17.3962 14.0282 17.3858 14.0324C16.8149 14.2608 16.2505 14.3454 15.8063 14.3454H8.18821C7.73942 14.3454 7.1759 14.255 6.61281 14.0271C6.60358 14.0234 6.59442 14.0195 6.58534 14.0154C5.20876 13.3934 4.25 12.0076 4.25 10.3962C4.25 9.2008 4.67745 8.19722 5.41602 7.49242C5.98792 6.94666 6.71621 6.60849 7.50698 6.4823C7.62952 5.80274 7.92763 5.02354 8.44259 4.34313ZM9.63865 5.24836C9.14009 5.90709 8.94097 6.69916 8.94097 7.17621C8.94097 7.58791 8.6091 7.92264 8.19742 7.92619C7.48075 7.93235 6.87377 8.17471 6.45159 8.57759C6.03579 8.97438 5.75 9.57318 5.75 10.3962C5.75 11.3924 6.33842 12.2515 7.18949 12.6423C7.56247 12.7909 7.92839 12.8454 8.18821 12.8454H15.8063C16.0702 12.8454 16.4373 12.7936 16.8129 12.646C17.6626 12.254 18.25 11.3929 18.25 10.3962C18.25 9.57318 17.9642 8.97438 17.5484 8.57759C17.1262 8.17471 16.5193 7.93235 15.8026 7.92619C15.3909 7.92264 15.059 7.58791 15.059 7.17621C15.059 6.69916 14.8599 5.90709 14.3613 5.24836C13.8859 4.62022 13.1455 4.11719 12 4.11719C10.8545 4.11719 10.1141 4.62022 9.63865 5.24836Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.25 10.418C18.25 10.0038 18.5858 9.66797 19 9.66797H21C21.4142 9.66797 21.75 10.0038 21.75 10.418C21.75 10.8322 21.4142 11.168 21 11.168H19C18.5858 11.168 18.25 10.8322 18.25 10.418Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 10.418C2.25 10.0038 2.58579 9.66797 3 9.66797H5C5.41421 9.66797 5.75 10.0038 5.75 10.418C5.75 10.8322 5.41421 11.168 5 11.168H3C2.58579 11.168 2.25 10.8322 2.25 10.418Z" fill="black"/> </svg> ',
-    category: 'Web',
-    style: IconfyStyle.outline,
-    type: IconfyType.regular,
-  );
-
 }
 
 /// Cloud Network — light style variants.
@@ -3000,9 +4389,78 @@ class _WebCloudNetworkLight {
   /// Cloud Network — light / regular
   IconfyIconData get regular => const IconfyIconData(
     name: 'Cloud Network',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.5073 9.13789C8.29528 9.14831 7.31543 9.96327 7.31543 11.3497C7.31543 12.2471 7.84894 13.0194 8.61653 13.3662C8.93967 13.497 9.26091 13.5472 9.5054 13.5472H14.7382C14.9827 13.5472 15.3049 13.4998 15.6318 13.3691C16.3994 13.0213 16.932 12.2471 16.932 11.3497C16.932 9.96327 15.9521 9.14831 14.7401 9.13789C14.7401 8.26607 14.0559 6.52148 12.1237 6.52148C10.1915 6.52148 9.5073 8.26607 9.5073 9.13789Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="13.0677" cy="19.0681" r="1.93137" transform="rotate(90 13.0677 19.0681)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="18.3838" cy="4.76072" r="1.76072" transform="rotate(90 18.3838 4.76072)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="5.61669" cy="17.0249" r="1.30616" transform="rotate(90 5.61669 17.0249)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="4.31005" cy="5.95069" r="1.30616" transform="rotate(90 4.31005 5.95069)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="19.6899" cy="16.0015" r="1.30616" transform="rotate(90 19.6899 16.0015)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0205 5.94727L14.4922 8.10913" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.47852 6.72266L8.37402 9.37354" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.45703 15.9392L8.49609 13.4512" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.6632 15.1217L16.2861 13.002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.7499 17.1379L12.1553 13.5742" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Cloud Network  1 icon with style variants.
+class _WebCloudNetwork1Icon {
+  const _WebCloudNetwork1Icon();
+
+  /// light style
+  _WebCloudNetwork1Light get light => const _WebCloudNetwork1Light();
+}
+
+/// Cloud Network  1 — light style variants.
+class _WebCloudNetwork1Light {
+  const _WebCloudNetwork1Light();
+
+  /// Cloud Network  1 — light / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Cloud Network  1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <circle cx="18.5" cy="17.1328" r="1.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="1.5" cy="1.5" r="1.5" transform="matrix(-1 0 0 1 7 15.6328)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <circle cx="12" cy="19.1328" r="1.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.5254 13.582L15.5254 15.2114L17.2845 16.1768" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.47461 13.582L8.47461 15.2114L6.71548 16.1768" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 13.5957L12 17.6344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.19097 7.17621C6.42649 7.19139 5 8.37783 5 10.3962C5 11.7026 5.7767 12.827 6.89417 13.3319C7.3646 13.5223 7.83228 13.5954 8.18821 13.5954H15.8063C16.1622 13.5954 16.6313 13.5264 17.1072 13.336C18.2247 12.8297 19 11.7026 19 10.3962C19 8.37783 17.5735 7.19139 15.809 7.17621C15.809 5.907 14.813 3.36719 12 3.36719C9.18703 3.36719 8.19097 5.907 8.19097 7.17621Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19 10.418H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 10.418H5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: 'Web',
     style: IconfyStyle.light,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Cloud Network  2 icon with style variants.
+class _WebCloudNetwork2Icon {
+  const _WebCloudNetwork2Icon();
+
+  /// outline style
+  _WebCloudNetwork2Outline get outline => const _WebCloudNetwork2Outline();
+}
+
+/// Cloud Network  2 — outline style variants.
+class _WebCloudNetwork2Outline {
+  const _WebCloudNetwork2Outline();
+
+  /// Cloud Network  2 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Cloud Network  2',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.49289 7.05014C10.0307 6.33955 10.8966 5.77148 12.1237 5.77148C13.3508 5.77148 14.2167 6.33955 14.7545 7.05014C15.0916 7.49552 15.3027 7.99852 15.4082 8.45934C15.9324 8.57067 16.4174 8.81214 16.8083 9.1852C17.3662 9.71755 17.682 10.4703 17.682 11.3497C17.682 12.5509 16.9685 13.5868 15.9414 14.0522C15.9311 14.0568 15.9208 14.0612 15.9104 14.0654C15.4885 14.2342 15.071 14.2972 14.7382 14.2972H9.5054C9.16805 14.2972 8.75096 14.2297 8.33517 14.0614C8.32594 14.0577 8.31678 14.0538 8.3077 14.0497C7.281 13.5858 6.56543 12.552 6.56543 11.3497C6.56543 10.4703 6.88122 9.71755 7.43907 9.1852C7.83001 8.81214 8.31505 8.57067 8.83919 8.45934C8.94472 7.99852 9.1558 7.49552 9.49289 7.05014ZM10.6889 7.95537C10.3785 8.36562 10.2573 8.85954 10.2573 9.13789C10.2573 9.54959 9.92543 9.88432 9.51375 9.88786C9.0733 9.89165 8.7161 10.04 8.47464 10.2704C8.23956 10.4947 8.06543 10.8427 8.06543 11.3497C8.06543 11.9369 8.41072 12.444 8.91194 12.6766C9.13752 12.7656 9.35686 12.7972 9.5054 12.7972H14.7382C14.8908 12.7972 15.111 12.7669 15.3374 12.679C15.8373 12.4455 16.182 11.9374 16.182 11.3497C16.182 10.8427 16.0078 10.4947 15.7728 10.2704C15.5313 10.04 15.1741 9.89165 14.7337 9.88786C14.322 9.88432 13.9901 9.54959 13.9901 9.13789C13.9901 8.85954 13.869 8.36562 13.5585 7.95537C13.2711 7.57571 12.8288 7.27148 12.1237 7.27148C11.4186 7.27148 10.9763 7.57571 10.6889 7.95537Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.249 19.0681C14.249 18.4156 13.7201 17.8867 13.0677 17.8867C12.4152 17.8867 11.8863 18.4156 11.8863 19.0681C11.8863 19.7205 12.4152 20.2495 13.0677 20.2495C13.7201 20.2495 14.249 19.7205 14.249 19.0681ZM13.0677 16.3867C14.5485 16.3867 15.749 17.5872 15.749 19.0681C15.749 20.549 14.5485 21.7495 13.0677 21.7495C11.5868 21.7495 10.3863 20.549 10.3863 19.0681C10.3863 17.5872 11.5868 16.3867 13.0677 16.3867Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.3945 4.76072C19.3945 4.20251 18.942 3.75 18.3838 3.75C17.8256 3.75 17.3731 4.20251 17.3731 4.76072C17.3731 5.31892 17.8256 5.77144 18.3838 5.77144C18.942 5.77144 19.3945 5.31892 19.3945 4.76072ZM18.3838 2.25C19.7704 2.25 20.8945 3.37409 20.8945 4.76072C20.8945 6.14735 19.7704 7.27144 18.3838 7.27144C16.9972 7.27144 15.8731 6.14735 15.8731 4.76072C15.8731 3.37409 16.9972 2.25 18.3838 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.17285 17.0249C6.17285 16.7178 5.92385 16.4687 5.61669 16.4687C5.30953 16.4687 5.06053 16.7178 5.06053 17.0249C5.06053 17.3321 5.30953 17.5811 5.61669 17.5811C5.92385 17.5811 6.17285 17.3321 6.17285 17.0249ZM5.61669 14.9687C6.75228 14.9687 7.67285 15.8893 7.67285 17.0249C7.67285 18.1605 6.75228 19.0811 5.61669 19.0811C4.48111 19.0811 3.56053 18.1605 3.56053 17.0249C3.56053 15.8893 4.48111 14.9687 5.61669 14.9687Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.86621 5.95069C4.86621 5.64353 4.61721 5.39453 4.31005 5.39453C4.00289 5.39453 3.75389 5.64353 3.75389 5.95069C3.75389 6.25785 4.00289 6.50685 4.31005 6.50685C4.61721 6.50685 4.86621 6.25785 4.86621 5.95069ZM4.31005 3.89453C5.44564 3.89453 6.36621 4.81511 6.36621 5.95069C6.36621 7.08628 5.44564 8.00685 4.31005 8.00685C3.17447 8.00685 2.25389 7.08628 2.25389 5.95069C2.25389 4.81511 3.17447 3.89453 4.31005 3.89453Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M20.2461 16.0015C20.2461 15.6943 19.9971 15.4453 19.6899 15.4453C19.3828 15.4453 19.1338 15.6943 19.1338 16.0015C19.1338 16.3086 19.3828 16.5576 19.6899 16.5576C19.9971 16.5576 20.2461 16.3086 20.2461 16.0015ZM19.6899 13.9453C20.8255 13.9453 21.7461 14.8659 21.7461 16.0015C21.7461 17.1371 20.8255 18.0576 19.6899 18.0576C18.5543 18.0576 17.6338 17.1371 17.6338 16.0015C17.6338 14.8659 18.5543 13.9453 19.6899 13.9453Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5906 5.45987C17.8597 5.77469 17.8227 6.24812 17.5079 6.51731L14.9796 8.67917C14.6648 8.94836 14.1914 8.91137 13.9222 8.59655C13.653 8.28174 13.69 7.8083 14.0048 7.53912L16.5331 5.37725C16.8479 5.10806 17.3214 5.14505 17.5906 5.45987Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.92534 6.21426C5.20504 5.90875 5.67945 5.88782 5.98497 6.16752L8.88048 8.8184C9.18599 9.09811 9.20691 9.57252 8.92721 9.87803C8.64751 10.1835 8.1731 10.2045 7.86758 9.92477L4.97207 7.27389C4.66656 6.99419 4.64563 6.51978 4.92534 6.21426Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.97152 12.8711C9.29189 13.1337 9.33875 13.6062 9.0762 13.9266L7.03713 16.4146C6.77458 16.735 6.30202 16.7819 5.98165 16.5193C5.66128 16.2568 5.61442 15.7842 5.87697 15.4638L7.91604 12.9758C8.17859 12.6554 8.65115 12.6086 8.97152 12.8711Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7264 12.5028C16.0021 12.1936 16.4762 12.1665 16.7853 12.4422L19.1624 14.562C19.4716 14.8377 19.4987 15.3118 19.223 15.6209C18.9473 15.9301 18.4732 15.9572 18.1641 15.6815L15.787 13.5617C15.4778 13.286 15.4507 12.8119 15.7264 12.5028Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.032 12.8346C12.4405 12.7664 12.827 13.0423 12.8952 13.4509L13.4898 17.0146C13.558 17.4232 13.282 17.8097 12.8734 17.8778C12.4649 17.946 12.0784 17.6701 12.0102 17.2615L11.4156 13.6978C11.3474 13.2892 11.6234 12.9027 12.032 12.8346Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
+    type: IconfyType.regular,
+  );
+
+}
+
+/// Cloud Network  3 icon with style variants.
+class _WebCloudNetwork3Icon {
+  const _WebCloudNetwork3Icon();
+
+  /// outline style
+  _WebCloudNetwork3Outline get outline => const _WebCloudNetwork3Outline();
+}
+
+/// Cloud Network  3 — outline style variants.
+class _WebCloudNetwork3Outline {
+  const _WebCloudNetwork3Outline();
+
+  /// Cloud Network  3 — outline / regular
+  IconfyIconData get regular => const IconfyIconData(
+    name: 'Cloud Network  3',
+    svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.5 16.3828C18.0858 16.3828 17.75 16.7186 17.75 17.1328C17.75 17.547 18.0858 17.8828 18.5 17.8828C18.9142 17.8828 19.25 17.547 19.25 17.1328C19.25 16.7186 18.9142 16.3828 18.5 16.3828ZM16.25 17.1328C16.25 15.8902 17.2574 14.8828 18.5 14.8828C19.7426 14.8828 20.75 15.8902 20.75 17.1328C20.75 18.3755 19.7426 19.3828 18.5 19.3828C17.2574 19.3828 16.25 18.3755 16.25 17.1328Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.5 16.3828C5.91421 16.3828 6.25 16.7186 6.25 17.1328C6.25 17.547 5.91421 17.8828 5.5 17.8828C5.08579 17.8828 4.75 17.547 4.75 17.1328C4.75 16.7186 5.08579 16.3828 5.5 16.3828ZM7.75 17.1328C7.75 15.8902 6.74264 14.8828 5.5 14.8828C4.25736 14.8828 3.25 15.8902 3.25 17.1328C3.25 18.3755 4.25736 19.3828 5.5 19.3828C6.74264 19.3828 7.75 18.3755 7.75 17.1328Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 18.3828C11.5858 18.3828 11.25 18.7186 11.25 19.1328C11.25 19.547 11.5858 19.8828 12 19.8828C12.4142 19.8828 12.75 19.547 12.75 19.1328C12.75 18.7186 12.4142 18.3828 12 18.3828ZM9.75 19.1328C9.75 17.8902 10.7574 16.8828 12 16.8828C13.2426 16.8828 14.25 17.8902 14.25 19.1328C14.25 20.3755 13.2426 21.3828 12 21.3828C10.7574 21.3828 9.75 20.3755 9.75 19.1328Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.5254 12.832C15.9396 12.832 16.2754 13.1678 16.2754 13.582V14.7675L17.6454 15.5194C18.0085 15.7186 18.1413 16.1746 17.942 16.5377C17.7427 16.9008 17.2868 17.0336 16.9237 16.8343L15.1645 15.8689C14.9245 15.7371 14.7754 15.4851 14.7754 15.2114L14.7754 13.582C14.7754 13.1678 15.1112 12.832 15.5254 12.832Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.47461 12.832C8.0604 12.832 7.72461 13.1678 7.72461 13.582V14.7675L6.35463 15.5194C5.99151 15.7186 5.8587 16.1746 6.058 16.5377C6.25729 16.9008 6.71321 17.0336 7.07633 16.8343L8.83546 15.8689C9.07545 15.7371 9.22461 15.4851 9.22461 15.2114L9.22461 13.582C9.22461 13.1678 8.88882 12.832 8.47461 12.832Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 12.8457C12.4142 12.8457 12.75 13.1815 12.75 13.5957L12.75 17.6344C12.75 18.0486 12.4142 18.3844 12 18.3844C11.5858 18.3844 11.25 18.0486 11.25 17.6344L11.25 13.5957C11.25 13.1815 11.5858 12.8457 12 12.8457Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.44259 4.34313C9.16846 3.38406 10.3325 2.61719 12 2.61719C13.6675 2.61719 14.8315 3.38406 15.5574 4.34313C16.0724 5.02354 16.3705 5.80274 16.493 6.4823C17.2838 6.60849 18.0121 6.94665 18.584 7.49242C19.3225 8.19722 19.75 9.2008 19.75 10.3962C19.75 12.0064 18.7938 13.3953 17.4167 14.0192C17.4065 14.0238 17.3962 14.0282 17.3858 14.0324C16.8149 14.2608 16.2505 14.3454 15.8063 14.3454H8.18821C7.73942 14.3454 7.1759 14.255 6.61281 14.0271C6.60358 14.0234 6.59442 14.0195 6.58534 14.0154C5.20876 13.3934 4.25 12.0076 4.25 10.3962C4.25 9.2008 4.67745 8.19722 5.41602 7.49242C5.98792 6.94666 6.71621 6.60849 7.50698 6.4823C7.62952 5.80274 7.92763 5.02354 8.44259 4.34313ZM9.63865 5.24836C9.14009 5.90709 8.94097 6.69916 8.94097 7.17621C8.94097 7.58791 8.6091 7.92264 8.19742 7.92619C7.48075 7.93235 6.87377 8.17471 6.45159 8.57759C6.03579 8.97438 5.75 9.57318 5.75 10.3962C5.75 11.3924 6.33842 12.2515 7.18949 12.6423C7.56247 12.7909 7.92839 12.8454 8.18821 12.8454H15.8063C16.0702 12.8454 16.4373 12.7936 16.8129 12.646C17.6626 12.254 18.25 11.3929 18.25 10.3962C18.25 9.57318 17.9642 8.97438 17.5484 8.57759C17.1262 8.17471 16.5193 7.93235 15.8026 7.92619C15.3909 7.92264 15.059 7.58791 15.059 7.17621C15.059 6.69916 14.8599 5.90709 14.3613 5.24836C13.8859 4.62022 13.1455 4.11719 12 4.11719C10.8545 4.11719 10.1141 4.62022 9.63865 5.24836Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.25 10.418C18.25 10.0038 18.5858 9.66797 19 9.66797H21C21.4142 9.66797 21.75 10.0038 21.75 10.418C21.75 10.8322 21.4142 11.168 21 11.168H19C18.5858 11.168 18.25 10.8322 18.25 10.418Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.25 10.418C2.25 10.0038 2.58579 9.66797 3 9.66797H5C5.41421 9.66797 5.75 10.0038 5.75 10.418C5.75 10.8322 5.41421 11.168 5 11.168H3C2.58579 11.168 2.25 10.8322 2.25 10.418Z" fill="black"/> </svg> ',
+    category: 'Web',
+    style: IconfyStyle.outline,
     type: IconfyType.regular,
   );
 
