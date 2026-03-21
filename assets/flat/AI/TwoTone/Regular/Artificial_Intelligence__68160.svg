@@ -1,0 +1,13 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.4" d="M15.4607 9.8029C17.064 9.8029 18.3637 8.51213 18.3637 6.91989" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.52444 4.03708C9.12769 4.03708 10.4274 5.32785 10.4274 6.92009C10.4274 7.42593 10.2962 7.90134 10.0658 8.31461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.4" d="M10.5208 7.05547C11.1817 7.23135 11.7573 7.5657 12.2171 8.00633" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.90691 12.2617C3.66137 12.2617 2.65176 11.2588 2.65176 10.0219C2.65176 8.83548 3.58047 7.86476 4.75517 7.78735C4.66836 7.51336 4.6215 7.22197 4.6215 6.92014C4.6215 5.3275 5.92123 4.0367 7.52443 4.0367C8.25181 4.0367 8.91656 4.30199 9.42596 4.74125C9.70875 3.88187 10.5223 3.26169 11.4819 3.26169C12.4468 3.26169 13.2641 3.8897 13.5424 4.75603C14.0538 4.30808 14.7254 4.0367 15.4606 4.0367C17.0638 4.0367 18.3636 5.32751 18.3636 6.92014C18.3636 7.22023 18.3173 7.50988 18.2314 7.78213C19.4609 7.8004 20.4518 8.79634 20.4518 10.0219C20.4518 11.2588 19.4422 12.2617 18.1966 12.2617L4.90691 12.2617Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.4" d="M6.35254 9.76973C6.84925 9.90191 7.35969 9.60923 7.49275 9.11606C7.55311 8.89231 7.52555 8.66581 7.43083 8.47266" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.4" d="M16.9004 15.6738L16.9004 12.2617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1.1" cy="1.1" r="1.1" transform="matrix(1 8.74228e-08 8.74228e-08 -1 15.9131 17.873)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.4" d="M6.34473 15.6738L6.34473 12.2617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1.1" cy="1.1" r="1.1" transform="matrix(1 8.74228e-08 8.74228e-08 -1 5.35742 17.873)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.4" d="M11.7354 18.418L11.7355 12.3157" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1.1" cy="1.1" r="1.1" transform="matrix(1 0 0 -1 10.6354 20.7383)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.23779 14.1147C7.23779 15.6764 8.21517 16.7834 9.78238 16.7834H14.2659C15.8338 16.7834 16.8057 15.6764 16.8057 14.1147V9.88904C16.8057 8.32183 15.8338 7.21484 14.2659 7.21484H9.78238C8.21997 7.21484 7.23779 8.32183 7.23779 9.88904V14.1147Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.1666 10.0645C10.535 10.0645 10.0873 10.4597 10.0873 11.0935L10.0873 12.9068C10.0873 13.5409 10.535 13.9339 11.1666 13.9339L12.8755 13.9339C13.5093 13.9339 13.957 13.5409 13.957 12.9068L13.957 11.0935C13.957 10.4617 13.5093 10.0645 12.8755 10.0645L11.1666 10.0645Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.0444 7.21701L10.0444 5.30859" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13.9575 7.21655V4.1543" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="10.0444" cy="4.15475" r="1.15385" transform="rotate(-180 10.0444 4.15475)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13.9565 16.783L13.9565 18.6914" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.0435 16.7834V19.8457" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="13.9566" cy="19.8453" r="1.15385" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.784 10.043L18.6924 10.043" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.7839 13.957L19.8462 13.957" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="19.8462" cy="10.0434" r="1.15385" transform="rotate(-90 19.8462 10.0434)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.21603 13.957L5.30762 13.957" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.21606 10.043L4.15381 10.043" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="4.15377" cy="13.9566" r="1.15385" transform="rotate(90 4.15377 13.9566)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

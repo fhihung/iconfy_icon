@@ -1,0 +1,15 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.49177 4.53711H15.5137C17.9569 4.53711 19.4699 5.86328 19.4631 8.29961V15.6952C19.4631 18.1315 17.9491 19.4645 15.506 19.4645H8.49177C6.05641 19.4645 4.53564 18.1082 4.53564 15.6329V8.29961C4.53564 5.86328 6.05641 4.53711 8.49177 4.53711Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.0485 4.5373V3M11.9989 4.5373V3M7.94922 4.5373V3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.94922 19.4629V21.0002M11.9989 19.4629V21.0002M16.0485 19.4629V21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.5373 7.94922H3M4.5373 11.9989H3M4.5373 16.0485H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.4629 16.0485H21.0002M19.4629 11.9989H21.0002M19.4629 7.94922H21.0002" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.95215 16.1914L7.95215 19.427" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="7.95205" cy="15.0414" r="1.15" transform="rotate(180 7.95205 15.0414)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.95214 4.56649L7.95214 7.3037L9.52539 8.87695" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="10.4098" cy="9.65781" r="1.15" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.0483 7.80273L16.0483 4.56714" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="16.0484" cy="8.95273" r="1.15" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.0483 19.4257L16.0483 16.6885L14.4751 15.1152" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="13.5902" cy="14.3344" r="1.15" transform="rotate(180 13.5902 14.3344)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
