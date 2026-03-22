@@ -1,3 +1,82 @@
+/// Category groupings for flat SVG icons.
+enum IconfyCategory {
+  ai,
+  airpod,
+  alert,
+  arrow,
+  arrowActions,
+  audio,
+  banking,
+  bathWc,
+  bookmark,
+  brands,
+  building,
+  calendarDate,
+  call,
+  chartAnalytics,
+  christmas,
+  cloud,
+  computerTv,
+  cryptocurrency,
+  database,
+  delivery,
+  design,
+  development,
+  devices,
+  documentation,
+  eCommerce,
+  editor,
+  electricity,
+  email,
+  emoji,
+  essential,
+  fashion,
+  files,
+  filterSetting,
+  financial,
+  food,
+  fruitVegetables,
+  game,
+  gridsLayout,
+  halloween,
+  handGesture,
+  health,
+  heartLove,
+  home,
+  homeAppliances,
+  kitchen,
+  laundry,
+  location,
+  math,
+  message,
+  mobile,
+  nature,
+  network,
+  numbers,
+  petsAnimal,
+  photo,
+  reward,
+  schoolLearning,
+  search,
+  security,
+  server,
+  shape,
+  shopping,
+  spaceGalaxy,
+  sport,
+  star,
+  symbols,
+  ticketTag,
+  time,
+  transport,
+  travel,
+  user,
+  videoMovie,
+  weather,
+  web,
+  wifi,
+}
+
 /// Style variants for flat SVG icons.
 enum IconfyStyle {
   bold,
@@ -26,8 +105,8 @@ class IconfyIconData {
   /// Inline SVG content (tree-shakeable).
   final String svgContent;
 
-  /// Category the icon belongs to (e.g., 'Essential', 'Arrow').
-  final String category;
+  /// Category the icon belongs to.
+  final IconfyCategory category;
 
   /// Visual style of the icon.
   final IconfyStyle style;
