@@ -1,6 +1,6 @@
 name: iconfy_icon
 description: Iconly Pro flat SVG icons for Flutter. Tree-shakeable — only icons you use get bundled.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/user/iconfy_icon
 
 environment:
