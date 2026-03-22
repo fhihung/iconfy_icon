@@ -134,7 +134,7 @@ class _ArrowActionsHugContentHorizontalLight {
 
   /// Hug content Horizontal — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Hug content Horizontal',
+    name: 'Hug Content Horizontal',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 18.4883C3 19.8755 4.11879 21 5.49889 21L18.5011 21C19.8812 21 21 19.8755 21 18.4884V17.5117C21 16.1245 19.8812 15 18.5011 15L5.49889 15C4.11879 15 3 16.1245 3 17.5116V18.4883Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7 9L10 6M10 6L7 3M10 6H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17 9L14 6M14 6L17 3M14 6H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -157,7 +157,7 @@ class _ArrowActionsHugContentHorizontal1Light {
 
   /// Hug content Horizontal 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Hug content Horizontal 1',
+    name: 'Hug Content Horizontal 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 18.4883C3 19.8755 4.11879 21 5.49889 21L18.5011 21C19.8812 21 21 19.8755 21 18.4884V17.5117C21 16.1245 19.8812 15 18.5011 15L5.49889 15C4.11879 15 3 16.1245 3 17.5116V18.4883Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7 9L10 6M10 6L7 3M10 6H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17 9L14 6M14 6L17 3M14 6H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -525,7 +525,7 @@ class _ArrowActionsLogInLight {
 
   /// Log in — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Log in',
+    name: 'Log In',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.25781 7.75C5.71891 5.20934 8.4498 3.5 11.5776 3.5C16.2446 3.5 20.0279 7.30558 20.0279 12C20.0279 16.6944 16.2446 20.5 11.5776 20.5C8.4498 20.5 5.71891 18.7907 4.25781 16.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.5779 8.6001L13.958 12.0001M13.958 12.0001L10.5779 15.4001M13.958 12.0001H2.97266" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -548,7 +548,7 @@ class _ArrowActionsExternalLinkLight {
 
   /// External link — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'External link',
+    name: 'External Link',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.2311 5H7.25067C4.63822 5 3 6.84978 3 9.46756V16.5324C3 19.1502 4.63022 21 7.25067 21H14.7476C17.3689 21 19 19.1502 19 16.5324V13.9849" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M21 8.13166V3M21 3H15.8684M21 3L13 11" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -617,7 +617,7 @@ class _ArrowActionsAutofitContentHorizontalLight {
 
   /// autofit content Horizontal — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'autofit content Horizontal',
+    name: 'Autofit Content Horizontal',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 18.4883C3 19.8755 4.11879 21 5.49889 21L18.5011 21C19.8812 21 21 19.8755 21 18.4884V17.5117C21 16.1245 19.8812 15 18.5011 15L5.49889 15C4.11879 15 3 16.1245 3 17.5116V18.4883Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6 9L3 6M3 6L6 3M3 6H10" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18 9L21 6M21 6L18 3M21 6H14" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -640,7 +640,7 @@ class _ArrowActionsAutofitContentHorizontal1Light {
 
   /// autofit content Horizontal 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'autofit content Horizontal 1',
+    name: 'Autofit Content Horizontal 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 18.4883C3 19.8755 4.11879 21 5.49889 21L18.5011 21C19.8812 21 21 19.8755 21 18.4884V17.5117C21 16.1245 19.8812 15 18.5011 15L5.49889 15C4.11879 15 3 16.1245 3 17.5116V18.4883Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6 9L3 6M3 6L6 3M3 6H10" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18 9L21 6M21 6L18 3M21 6H14" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -663,7 +663,7 @@ class _ArrowActionsMenuOpenRightLight {
 
   /// Menu open right — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Menu open right',
+    name: 'Menu Open Right',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3L16.2169 3C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83405 21 3 18.9188 3 15.9736L3 8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17 12.0018L14 9M17 12.0018L14 15M17 12.0018H9.07897" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9 3.06641L9 20.9414" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -686,7 +686,7 @@ class _ArrowActionsMenuOpenRight1Light {
 
   /// Menu open right  1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Menu open right  1',
+    name: 'Menu Open Right  1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3L16.2169 3C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83405 21 3 18.9188 3 15.9736L3 8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14 9L17 12.0018L14 15" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9 3.06641L9 20.9414" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -732,7 +732,7 @@ class _ArrowActionsHugContentVerticalLight {
 
   /// Hug content Vertical — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Hug content Vertical',
+    name: 'Hug Content Vertical',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.51166 3C4.12452 3 3.00003 4.11879 3.00003 5.49889L3 18.5011C3 19.8812 4.1245 21 5.51163 21H6.48834C7.87548 21 8.99997 19.8812 8.99997 18.5011L9 5.49889C9 4.11879 7.8755 3 6.48837 3L5.51166 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15 7L18 10M18 10L21 7M18 10L18 3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15 17L18 14M18 14L21 17M18 14L18 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -755,7 +755,7 @@ class _ArrowActionsAutofitContentVerticalLight {
 
   /// autofit content Vertical — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'autofit content Vertical',
+    name: 'Autofit Content Vertical',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.51166 3C4.12452 3 3.00003 4.11879 3.00003 5.49889L3 18.5011C3 19.8812 4.1245 21 5.51163 21H6.48834C7.87548 21 8.99997 19.8812 8.99997 18.5011L9 5.49889C9 4.11879 7.8755 3 6.48837 3L5.51166 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15 6L18 3M18 3L21 6M18 3L18 10" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15 18L18 21M18 21L21 18M18 21L18 14" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -939,7 +939,7 @@ class _ArrowActionsSidebarCloseLight {
 
   /// Sidebar close — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Sidebar close',
+    name: 'Sidebar Close',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.4883 3C19.8755 3 21 4.11879 21 5.49889L21 18.5011C21 19.8812 19.8755 21 18.4884 21H17.5117C16.1245 21 15 19.8812 15 18.5011L15 5.49889C15 4.11879 16.1245 3 17.5116 3L18.4883 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 12.0003L6.48891 15.5M3 12.0003L6.48891 8.5M3 12.0003L11 12.0001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -962,7 +962,7 @@ class _ArrowActionsSidebarClose1Light {
 
   /// Sidebar close 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Sidebar close 1',
+    name: 'Sidebar Close 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.4883 3C19.8755 3 21 4.11879 21 5.49889L21 18.5011C21 19.8812 19.8755 21 18.4884 21H17.5117C16.1245 21 15 19.8812 15 18.5011L15 5.49889C15 4.11879 16.1245 3 17.5116 3L18.4883 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 12.0003L6.48891 15.5M3 12.0003L6.48891 8.5M3 12.0003L11 12.0001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -1008,7 +1008,7 @@ class _ArrowActionsRightEnterLight {
 
   /// Right enter — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Right enter',
+    name: 'Right Enter',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.6055 20.0957L17.4055 20.0957C19.3955 20.0957 21.0055 18.4827 21.0055 16.4957L21.0055 7.4957C21.0055 5.5077 19.3955 3.89569 17.4055 3.89569L15.6055 3.89569" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.125 14.2754L17.405 11.9964L15.125 9.7164" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.49609 20.0957C4.11538 20.0957 2.99609 18.9764 2.99609 17.5957L2.99609 6.39648C2.99609 5.01577 4.11538 3.89648 5.49609 3.89648L7.66662 3.89648C9.04733 3.89648 10.1666 5.01577 10.1666 6.39648L10.1666 17.5957C10.1666 18.9764 9.04733 20.0957 7.66662 20.0957L5.49609 20.0957Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.1758 11.9961L17.4015 11.9961" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -1123,7 +1123,7 @@ class _ArrowActionsBottomSheetCloseLight {
 
   /// Bottom sheet close — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Bottom sheet close',
+    name: 'Bottom Sheet Close',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 5.51166C3 4.12452 4.11879 3.00003 5.49889 3.00003L18.5011 3C19.8812 3 21 4.1245 21 5.51163L21 6.48834C21 7.87548 19.8812 8.99997 18.5011 8.99997L5.49889 9C4.11879 9 3 7.8755 3 6.48837L3 5.51166Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0003 21L15.5 17.5111M12.0003 21L8.5 17.5111M12.0003 21L12.0001 13" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -1146,7 +1146,7 @@ class _ArrowActionsBottomSheetClose1Light {
 
   /// Bottom sheet close 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Bottom sheet close 1',
+    name: 'Bottom Sheet Close 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 5.51166C3 4.12452 4.11879 3.00003 5.49889 3.00003L18.5011 3C19.8812 3 21 4.1245 21 5.51163L21 6.48834C21 7.87548 19.8812 8.99997 18.5011 8.99997L5.49889 9C4.11879 9 3 7.8755 3 6.48837L3 5.51166Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0003 21L15.5 17.5111M12.0003 21L8.5 17.5111M12.0003 21L12.0001 13" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -1169,7 +1169,7 @@ class _ArrowActionsBottomSheetOpenLight {
 
   /// Bottom sheet Open — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Bottom sheet Open',
+    name: 'Bottom Sheet Open',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 18.4883C3 19.8755 4.11879 21 5.49889 21L18.5011 21C19.8812 21 21 19.8755 21 18.4884L21 17.5117C21 16.1245 19.8812 15 18.5011 15L5.49889 15C4.11879 15 3 16.1245 3 17.5116L3 18.4883Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.5 6.50048L12.0003 3L8.5 6.50048" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -1192,7 +1192,7 @@ class _ArrowActionsBottomSheetOpen1Light {
 
   /// Bottom sheet Open 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Bottom sheet Open 1',
+    name: 'Bottom Sheet Open 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 18.4883C3 19.8755 4.11879 21 5.49889 21L18.5011 21C19.8812 21 21 19.8755 21 18.4884L21 17.5117C21 16.1245 19.8812 15 18.5011 15L5.49889 15C4.11879 15 3 16.1245 3 17.5116L3 18.4883Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.5 6.50048L12.0003 3L8.5 6.50048" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -1307,7 +1307,7 @@ class _ArrowActionsMenuCloseLeftLight {
 
   /// Menu close left — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Menu close left',
+    name: 'Menu Close Left',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.2178 3L7.78313 3C4.83503 3 3 5.08119 3 8.02638V15.9736C3 18.9188 4.83503 21 7.78411 21H16.2178C19.1659 21 21 18.9188 21 15.9736V8.02638C21 5.08119 19.1572 3 16.2178 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7 12.0018L10 9M7 12.0018L10 15M7 12.0018H14.9211" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15 3.06641L15 20.9414" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -1330,7 +1330,7 @@ class _ArrowActionsMenuCloseLeft1Light {
 
   /// Menu close left  1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Menu close left  1',
+    name: 'Menu Close Left  1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.2178 3L7.78313 3C4.83503 3 3 5.08119 3 8.02638V15.9736C3 18.9188 4.83503 21 7.78411 21H16.2178C19.1659 21 21 18.9188 21 15.9736V8.02638C21 5.08119 19.1572 3 16.2178 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10 9L7 12.0018L10 15" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15 3.06641L15 20.9414" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,
@@ -1376,7 +1376,7 @@ class _ArrowActionsLogOutLight {
 
   /// Log out — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Log out',
+    name: 'Log Out',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.9403 4.68959C13.7449 3.97152 12.3571 3.56055 10.8769 3.56055C6.38852 3.56055 2.75 7.33901 2.75 12C2.75 16.6609 6.38852 20.4394 10.8769 20.4394C12.3571 20.4394 13.7449 20.0284 14.9403 19.3104" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.5078 8.24902L21.2509 11.9921M21.2509 11.9921L17.5078 15.7351M21.2509 11.9921H9.08594" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.arrowActions,
     style: IconfyStyle.light,

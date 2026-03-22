@@ -1314,7 +1314,7 @@ class _FilesFolderFileCloseBulk {
 
   /// Folder File close — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File close',
+    name: 'Folder File Close',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.395 5.3637H13.743C13.229 5.3617 12.738 5.1167 12.43 4.7067L11.574 3.5677C11.077 2.9077 10.288 2.5127 9.463 2.5127H7.588C4.164 2.5127 2.5 4.4197 2.5 8.3417V15.6537C2.5 19.3057 4.685 21.4867 8.345 21.4867H15.641C19.293 21.4867 21.474 19.3057 21.474 15.6567L21.5 10.9987C21.5 7.1537 19.878 5.3637 16.395 5.3637Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.32 14.4546C14.613 14.7476 14.613 15.2226 14.32 15.5156C14.027 15.8086 13.552 15.8086 13.259 15.5156L12 14.2556L10.741 15.5156C10.594 15.6616 10.403 15.7346 10.211 15.7346C10.019 15.7346 9.82698 15.6616 9.67998 15.5156C9.38698 15.2226 9.38698 14.7476 9.67998 14.4546L10.94 13.1946L9.67898 11.9336C9.38598 11.6416 9.38598 11.1666 9.67898 10.8736C9.97198 10.5806 10.447 10.5806 10.74 10.8736L12.001 12.1346L13.26 10.8746C13.553 10.5816 14.028 10.5816 14.321 10.8746C14.614 11.1676 14.614 11.6416 14.321 11.9346L13.061 13.1946L14.32 14.4546Z" fill="black"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.bulk,
@@ -1329,7 +1329,7 @@ class _FilesFolderFileCloseBroken {
 
   /// Folder File close — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File close',
+    name: 'Folder File Close',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M14.2892 14.9845L10.709 11.4043M10.7099 14.9854L14.2901 11.4052" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2191 20.9874H8.84452C5.481 20.9874 3.5 19.0094 3.5 15.6546V8.34168C3.5 4.99079 4.73193 3.01367 8.08768 3.01367H9.96278C10.6361 3.01367 11.2695 3.33137 11.6737 3.86961L12.5296 5.00827C12.9348 5.54554 13.5682 5.86227 14.2415 5.86421H16.8948C20.2584 5.86421 21.5 7.57609 21.5 10.9989L21.4738 15.6546C21.4738 19.0094 19.4967 20.9874 16.1409 20.9874H15.5344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.broken,
@@ -1344,7 +1344,7 @@ class _FilesFolderFileCloseTwotone {
 
   /// Folder File close — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File close',
+    name: 'Folder File Close',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.1409 20.9874C19.4967 20.9874 21.4738 19.0094 21.4738 15.6546L21.5 10.9989C21.5 7.57609 20.2584 5.86421 16.8948 5.86421H14.2415C13.5682 5.86227 12.9348 5.54554 12.5296 5.00827L11.6737 3.86961C11.2695 3.33137 10.6361 3.01367 9.96278 3.01367H8.08768C4.73193 3.01367 3.5 4.99079 3.5 8.34168V15.6546C3.5 19.0094 5.481 20.9874 8.84452 20.9874H16.1409Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.2892 14.9845L10.709 11.4043M10.7099 14.9854L14.2901 11.4052" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.twoTone,
@@ -1359,7 +1359,7 @@ class _FilesFolderFileCloseOutline {
 
   /// Folder File close — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File close',
+    name: 'Folder File Close',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.62204 4.88786C4.05008 5.60582 3.75 6.73333 3.75 8.34112V15.654C3.75 17.184 4.19889 18.3073 4.94074 19.0476C5.68279 19.7882 6.80928 20.2369 8.34452 20.2369H15.6409C17.1718 20.2369 18.2952 19.7885 19.0354 19.0482C19.7756 18.3079 20.2238 17.1845 20.2238 15.654L20.2238 15.6498L20.25 10.9983C20.25 10.9976 20.25 10.9969 20.25 10.9962C20.2497 9.34911 19.9454 8.28668 19.3884 7.6345C18.8544 7.00923 17.9577 6.61366 16.3948 6.61366H13.7415L13.7393 6.61365C12.8316 6.61103 11.9773 6.184 11.4308 5.45928L11.4301 5.45837L10.5742 4.31971C10.3111 3.96942 9.89928 3.76311 9.46278 3.76311H7.58768C6.06183 3.76311 5.16559 4.20556 4.62204 4.88786ZM3.44883 3.95321C4.36018 2.80923 5.75778 2.26311 7.58768 2.26311H9.46278C10.3727 2.26311 11.2279 2.6924 11.7732 3.4184C11.7731 3.4183 11.7733 3.4185 11.7732 3.4184L12.6285 4.55616C12.6283 4.55597 12.6286 4.55635 12.6285 4.55616C12.8921 4.90537 13.3045 5.11209 13.7427 5.11366H16.3948C18.1955 5.11366 19.6013 5.57403 20.5291 6.66039C21.4336 7.71957 21.75 9.22382 21.75 10.9983L21.75 11.0026L21.7238 15.654C21.7238 15.6548 21.7238 15.6555 21.7238 15.6563C21.7233 17.4796 21.1829 19.0218 20.0961 20.1088C19.0088 21.1962 17.4658 21.7369 15.6409 21.7369H8.34452C6.51624 21.7369 4.97048 21.1965 3.88114 20.1094C2.79161 19.022 2.25 17.4788 2.25 15.654V8.34112C2.25 6.59803 2.56589 5.06152 3.44883 3.95321Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.67865 10.874C9.97155 10.5811 10.4464 10.5811 10.7393 10.874L12 12.1347L13.2598 10.8749C13.5527 10.582 14.0275 10.582 14.3204 10.8749C14.6133 11.1678 14.6133 11.6427 14.3204 11.9356L13.0607 13.1953L14.3195 14.4541C14.6124 14.747 14.6124 15.2219 14.3195 15.5148C14.0266 15.8077 13.5517 15.8077 13.2588 15.5148L12 14.256L10.7403 15.5158C10.4474 15.8086 9.9725 15.8086 9.6796 15.5158C9.38671 15.2229 9.38671 14.748 9.6796 14.4551L10.9394 13.1953L9.67865 11.9346C9.38576 11.6417 9.38576 11.1669 9.67865 10.874Z" fill="black"/> </svg> ',
     category: IconfyCategory.files,
     style: IconfyStyle.outline,
@@ -1374,7 +1374,7 @@ class _FilesFolderFileCloseBold {
 
   /// Folder File close — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File close',
+    name: 'Folder File Close',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.32 14.4547C14.613 14.7477 14.613 15.2227 14.32 15.5157C14.027 15.8087 13.552 15.8087 13.259 15.5157L12 14.2557L10.741 15.5157C10.594 15.6617 10.403 15.7347 10.211 15.7347C10.019 15.7347 9.827 15.6617 9.68 15.5157C9.387 15.2227 9.387 14.7477 9.68 14.4547L10.94 13.1947L9.679 11.9337C9.386 11.6417 9.386 11.1667 9.679 10.8737C9.972 10.5807 10.447 10.5807 10.74 10.8737L12.001 12.1347L13.26 10.8747C13.553 10.5817 14.028 10.5817 14.321 10.8747C14.614 11.1677 14.614 11.6417 14.321 11.9347L13.061 13.1947L14.32 14.4547ZM16.395 5.36367H13.744C13.23 5.36167 12.738 5.11667 12.43 4.70667L11.574 3.56867C11.078 2.90767 10.289 2.51367 9.463 2.51367H7.588C4.164 2.51367 2.5 4.41967 2.5 8.34167V15.6537C2.5 19.3067 4.685 21.4867 8.345 21.4867H15.641C19.294 21.4867 21.474 19.3067 21.474 15.6567L21.5 10.9987C21.5 7.15367 19.878 5.36367 16.395 5.36367Z" fill="black"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.bold,
@@ -1389,7 +1389,7 @@ class _FilesFolderFileCloseLight {
 
   /// Folder File close — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File close',
+    name: 'Folder File Close',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.6409 20.9869C18.9967 20.9869 20.9738 19.0088 20.9738 15.654L21 10.9983C21 7.57554 19.7584 5.86366 16.3948 5.86366H13.7415C13.0682 5.86171 12.4348 5.54499 12.0296 5.00772L11.1737 3.86905C10.7695 3.33081 10.1361 3.01311 9.46278 3.01311H7.58768C4.23193 3.01311 3 4.99023 3 8.34112V15.654C3 19.0088 4.981 20.9869 8.34452 20.9869H15.6409Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.7892 14.9845L10.209 11.4043M10.2099 14.9854L13.7901 11.4052" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.files,
     style: IconfyStyle.light,
@@ -3144,7 +3144,7 @@ class _FilesFolderFileSwapBulk {
 
   /// Folder File swap — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File swap',
+    name: 'Folder File Swap',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.6196 5.3637H13.9676C13.4536 5.3617 12.9626 5.1167 12.6546 4.7067L11.7986 3.5677C11.3016 2.9077 10.5126 2.5127 9.68761 2.5127H7.81261C4.38861 2.5127 2.72461 4.4197 2.72461 8.3417V15.6537C2.72461 19.3057 4.90961 21.4867 8.56961 21.4867H15.8656C19.5176 21.4867 21.6986 19.3057 21.6986 15.6567L21.7246 10.9987C21.7246 7.1537 20.1026 5.3637 16.6196 5.3637Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8367 15.0023L14.1487 16.6983C14.0047 16.8423 13.8127 16.9193 13.6167 16.9193C13.5207 16.9193 13.4237 16.9003 13.3307 16.8623C13.0507 16.7463 12.8667 16.4733 12.8667 16.1693V10.5303C12.8667 10.1163 13.2027 9.78027 13.6167 9.78027C14.0307 9.78027 14.3667 10.1163 14.3667 10.5303V14.3533L14.7747 13.9433C15.0657 13.6493 15.5407 13.6493 15.8347 13.9413C16.1277 14.2333 16.1297 14.7083 15.8367 15.0023ZM11.5827 16.1683C11.5827 16.5823 11.2467 16.9183 10.8327 16.9183C10.4187 16.9183 10.0827 16.5823 10.0827 16.1683V12.3493L9.67665 12.7573C9.38465 13.0513 8.90965 13.0533 8.61565 12.7613C8.32265 12.4693 8.32065 11.9933 8.61265 11.7003L10.3007 10.0023C10.5147 9.78627 10.8367 9.72127 11.1187 9.83727C11.3997 9.95327 11.5827 10.2273 11.5827 10.5303V16.1683Z" fill="black"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.bulk,
@@ -3159,7 +3159,7 @@ class _FilesFolderFileSwapBroken {
 
   /// Folder File swap — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File swap',
+    name: 'Folder File Swap',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.64453 12.2286L11.3331 10.5312V16.1692" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.8058 14.4728L14.1172 16.1702V10.5312" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4437 20.9855H9.06913C5.70561 20.9855 3.72461 19.0074 3.72461 15.6526V8.33973C3.72461 4.98883 4.95654 3.01172 8.31229 3.01172H10.1874C10.8607 3.01172 11.4941 3.32942 11.8983 3.86766L12.7542 5.00632C13.1594 5.54359 13.7928 5.86032 14.4661 5.86226H17.1194C20.483 5.86226 21.7246 7.57414 21.7246 10.9969L21.6984 15.6526C21.6984 19.0074 19.7213 20.9855 16.3655 20.9855H15.759" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.broken,
@@ -3174,7 +3174,7 @@ class _FilesFolderFileSwapTwotone {
 
   /// Folder File swap — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File swap',
+    name: 'Folder File Swap',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.3655 20.9874C19.7213 20.9874 21.6984 19.0094 21.6984 15.6546L21.7246 10.9989C21.7246 7.57609 20.483 5.86421 17.1194 5.86421H14.4661C13.7928 5.86227 13.1594 5.54554 12.7542 5.00827L11.8983 3.86961C11.4941 3.33137 10.8607 3.01367 10.1874 3.01367H8.31229C4.95654 3.01367 3.72461 4.99079 3.72461 8.34168V15.6546C3.72461 19.0094 5.70561 20.9874 9.06913 20.9874H16.3655Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.64453 12.2286L11.3331 10.5312V16.1692" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.8058 14.4728L14.1172 16.1702V10.5312" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.twoTone,
@@ -3189,7 +3189,7 @@ class _FilesFolderFileSwapOutline {
 
   /// Folder File swap — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File swap',
+    name: 'Folder File Swap',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.62204 4.88786C4.05008 5.60582 3.75 6.73333 3.75 8.34112V15.654C3.75 17.184 4.19889 18.3073 4.94074 19.0476C5.68279 19.7882 6.80928 20.2369 8.34452 20.2369H15.6409C17.1718 20.2369 18.2952 19.7885 19.0354 19.0482C19.7756 18.3079 20.2238 17.1845 20.2238 15.654L20.2238 15.6498L20.25 10.9983C20.25 10.9976 20.25 10.9969 20.25 10.9962C20.2497 9.34911 19.9454 8.28668 19.3884 7.6345C18.8544 7.00923 17.9577 6.61366 16.3948 6.61366H13.7415L13.7393 6.61365C12.8316 6.61103 11.9773 6.184 11.4308 5.45928L11.4301 5.45837L10.5742 4.31971C10.3111 3.96942 9.89928 3.76311 9.46278 3.76311H7.58768C6.06183 3.76311 5.16559 4.20556 4.62204 4.88786ZM3.44883 3.95321C4.36018 2.80923 5.75778 2.26311 7.58768 2.26311H9.46278C10.3727 2.26311 11.2279 2.6924 11.7732 3.4184C11.7731 3.4183 11.7733 3.4185 11.7732 3.4184L12.6285 4.55616C12.6283 4.55597 12.6286 4.55635 12.6285 4.55616C12.8921 4.90537 13.3045 5.11209 13.7427 5.11366H16.3948C18.1955 5.11366 19.6013 5.57403 20.5291 6.66039C21.4336 7.71957 21.75 9.22382 21.75 10.9983L21.75 11.0026L21.7238 15.654C21.7238 15.6548 21.7238 15.6555 21.7238 15.6563C21.7233 17.4796 21.1829 19.0218 20.0961 20.1088C19.0088 21.1962 17.4658 21.7369 15.6409 21.7369H8.34452C6.51624 21.7369 4.97048 21.1965 3.88114 20.1094C2.79161 19.022 2.25 17.4788 2.25 15.654V8.34112C2.25 6.59803 2.56589 5.06152 3.44883 3.95321Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.8946 9.83797C11.1753 9.95383 11.3585 10.2276 11.3585 10.5312V16.1692C11.3585 16.5834 11.0227 16.9192 10.6085 16.9192C10.1943 16.9192 9.85848 16.5834 9.85848 16.1692V12.3485L9.45162 12.7575C9.15948 13.0512 8.68461 13.0524 8.39096 12.7603C8.09731 12.4681 8.09609 11.9932 8.38822 11.6996L10.0768 10.0023C10.291 9.78699 10.6139 9.72211 10.8946 9.83797Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.3926 9.78125C13.8068 9.78125 14.1426 10.117 14.1426 10.5312V14.3529L14.5494 13.9439C14.8416 13.6502 15.3165 13.649 15.6101 13.9412C15.9037 14.2333 15.905 14.7082 15.6128 15.0018L13.9243 16.6991C13.7101 16.9144 13.3872 16.9793 13.1065 16.8634C12.8257 16.7476 12.6426 16.4739 12.6426 16.1702V10.5312C12.6426 10.117 12.9784 9.78125 13.3926 9.78125Z" fill="black"/> </svg> ',
     category: IconfyCategory.files,
     style: IconfyStyle.outline,
@@ -3204,7 +3204,7 @@ class _FilesFolderFileSwapBold {
 
   /// Folder File swap — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File swap',
+    name: 'Folder File Swap',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.8366 15.0027L14.1486 16.6987C14.0046 16.8427 13.8126 16.9197 13.6166 16.9197C13.5206 16.9197 13.4236 16.9007 13.3306 16.8627C13.0506 16.7467 12.8666 16.4737 12.8666 16.1697V10.5307C12.8666 10.1167 13.2026 9.78067 13.6166 9.78067C14.0306 9.78067 14.3666 10.1167 14.3666 10.5307V14.3537L14.7746 13.9437C15.0656 13.6497 15.5406 13.6497 15.8346 13.9417C16.1276 14.2337 16.1296 14.7087 15.8366 15.0027ZM11.5826 16.1687C11.5826 16.5827 11.2466 16.9187 10.8326 16.9187C10.4186 16.9187 10.0826 16.5827 10.0826 16.1687V12.3497L9.67661 12.7577C9.38461 13.0517 8.90961 13.0537 8.61561 12.7617C8.32261 12.4697 8.32061 11.9937 8.61261 11.7007L10.3006 10.0027C10.5146 9.78667 10.8366 9.72167 11.1186 9.83767C11.3996 9.95367 11.5826 10.2277 11.5826 10.5307V16.1687ZM16.6186 5.36367H13.9666C13.4536 5.36167 12.9626 5.11667 12.6526 4.70867L11.7976 3.56867C11.3016 2.90767 10.5126 2.51367 9.68661 2.51367H7.81161C4.38861 2.51367 2.72461 4.41967 2.72461 8.34167V15.6537C2.72461 19.3067 4.90961 21.4867 8.56861 21.4867H15.8656C19.5176 21.4867 21.6976 19.3067 21.6976 15.6567L21.7246 10.9977C21.7246 7.15367 20.1026 5.36367 16.6186 5.36367Z" fill="black"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.bold,
@@ -3219,7 +3219,7 @@ class _FilesFolderFileSwapLight {
 
   /// Folder File swap — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File swap',
+    name: 'Folder File Swap',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.6409 20.9869C18.9967 20.9869 20.9738 19.0088 20.9738 15.654L21 10.9983C21 7.57554 19.7584 5.86366 16.3948 5.86366H13.7415C13.0682 5.86171 12.4348 5.54499 12.0296 5.00772L11.1737 3.86905C10.7695 3.33081 10.1361 3.01311 9.46278 3.01311H7.58768C4.23193 3.01311 3 4.99023 3 8.34112V15.654C3 19.0088 4.981 20.9869 8.34452 20.9869H15.6409Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.91992 12.2286L10.6085 10.5312V16.1692" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.0811 14.4728L13.3926 16.1702V10.5312" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.files,
     style: IconfyStyle.light,
@@ -3852,7 +3852,7 @@ class _FilesFolderFileTickBulk {
 
   /// Folder File tick — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File tick',
+    name: 'Folder File Tick',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.395 5.3637H13.743C13.229 5.3617 12.738 5.1167 12.43 4.7067L11.574 3.5677C11.077 2.9077 10.288 2.5127 9.463 2.5127H7.588C4.164 2.5127 2.5 4.4197 2.5 8.3417V15.6537C2.5 19.3057 4.685 21.4867 8.345 21.4867H15.641C19.293 21.4867 21.474 19.3057 21.474 15.6567L21.5 10.9987C21.5 7.1537 19.878 5.3637 16.395 5.3637Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.612 11.6725L11.472 15.8155C11.331 15.9555 11.141 16.0345 10.942 16.0345C10.743 16.0345 10.552 15.9555 10.411 15.8155L8.38699 13.7905C8.09399 13.4975 8.09399 13.0235 8.38699 12.7305C8.67999 12.4375 9.15499 12.4375 9.44799 12.7305L10.942 14.2245L14.551 10.6115C14.844 10.3195 15.318 10.3185 15.612 10.6115C15.905 10.9045 15.905 11.3795 15.612 11.6725Z" fill="black"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.bulk,
@@ -3867,7 +3867,7 @@ class _FilesFolderFileTickBroken {
 
   /// Folder File tick — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File tick',
+    name: 'Folder File Tick',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.41797 13.2606L11.4417 15.2843L15.5825 11.1426" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2191 20.9874H8.84452C5.481 20.9874 3.5 19.0094 3.5 15.6546V8.34168C3.5 4.99079 4.73193 3.01367 8.08768 3.01367H9.96278C10.6361 3.01367 11.2695 3.33137 11.6737 3.86961L12.5296 5.00827C12.9348 5.54554 13.5682 5.86227 14.2415 5.86421H16.8948C20.2584 5.86421 21.5 7.57609 21.5 10.9989L21.4738 15.6546C21.4738 19.0094 19.4967 20.9874 16.1409 20.9874H15.5344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.broken,
@@ -3882,7 +3882,7 @@ class _FilesFolderFileTickTwotone {
 
   /// Folder File tick — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File tick',
+    name: 'Folder File Tick',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.1409 20.9874C19.4967 20.9874 21.4738 19.0094 21.4738 15.6546L21.5 10.9989C21.5 7.57609 20.2584 5.86421 16.8948 5.86421H14.2415C13.5682 5.86227 12.9348 5.54554 12.5296 5.00827L11.6737 3.86961C11.2695 3.33137 10.6361 3.01367 9.96278 3.01367H8.08768C4.73193 3.01367 3.5 4.99079 3.5 8.34168V15.6546C3.5 19.0094 5.481 20.9874 8.84452 20.9874H16.1409Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.41797 13.2606L11.4417 15.2843L15.5825 11.1426" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.twoTone,
@@ -3897,7 +3897,7 @@ class _FilesFolderFileTickOutline {
 
   /// Folder File tick — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File tick',
+    name: 'Folder File Tick',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.62204 4.88786C4.05008 5.60582 3.75 6.73333 3.75 8.34112V15.654C3.75 17.184 4.19889 18.3073 4.94074 19.0476C5.68279 19.7882 6.80928 20.2369 8.34452 20.2369H15.6409C17.1718 20.2369 18.2952 19.7885 19.0354 19.0482C19.7756 18.3079 20.2238 17.1845 20.2238 15.654L20.2238 15.6498L20.25 10.9983C20.25 10.9976 20.25 10.9969 20.25 10.9962C20.2497 9.34911 19.9454 8.28668 19.3884 7.6345C18.8544 7.00923 17.9577 6.61366 16.3948 6.61366H13.7415L13.7393 6.61365C12.8316 6.61103 11.9773 6.184 11.4308 5.45928L11.4301 5.45837L10.5742 4.31971C10.3111 3.96942 9.89928 3.76311 9.46278 3.76311H7.58768C6.06183 3.76311 5.16559 4.20556 4.62204 4.88786ZM3.44883 3.95321C4.36018 2.80923 5.75778 2.26311 7.58768 2.26311H9.46278C10.3727 2.26311 11.2279 2.6924 11.7732 3.4184C11.7731 3.4183 11.7733 3.4185 11.7732 3.4184L12.6285 4.55616C12.6283 4.55597 12.6286 4.55635 12.6285 4.55616C12.8921 4.90537 13.3045 5.11209 13.7427 5.11366H16.3948C18.1955 5.11366 19.6013 5.57403 20.5291 6.66039C21.4336 7.71957 21.75 9.22382 21.75 10.9983L21.75 11.0026L21.7238 15.654C21.7238 15.6548 21.7238 15.6555 21.7238 15.6563C21.7233 17.4796 21.1829 19.0218 20.0961 20.1088C19.0088 21.1962 17.4658 21.7369 15.6409 21.7369H8.34452C6.51624 21.7369 4.97048 21.1965 3.88114 20.1094C2.79161 19.022 2.25 17.4788 2.25 15.654V8.34112C2.25 6.59803 2.56589 5.06152 3.44883 3.95321Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6128 10.6122C15.9057 10.905 15.9057 11.3799 15.6129 11.6728L11.4721 15.8146C11.3315 15.9553 11.1407 16.0343 10.9418 16.0343C10.7428 16.0343 10.5521 15.9553 10.4114 15.8146L8.38764 13.7909C8.09475 13.498 8.09475 13.0231 8.38764 12.7302C8.68053 12.4373 9.15541 12.4373 9.4483 12.7302L10.9417 14.2236L14.5521 10.6123C14.845 10.3194 15.3198 10.3193 15.6128 10.6122Z" fill="black"/> </svg> ',
     category: IconfyCategory.files,
     style: IconfyStyle.outline,
@@ -3912,7 +3912,7 @@ class _FilesFolderFileTickBold {
 
   /// Folder File tick — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File tick',
+    name: 'Folder File Tick',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.612 11.6727L11.472 15.8157C11.331 15.9557 11.141 16.0347 10.942 16.0347C10.743 16.0347 10.552 15.9557 10.411 15.8157L8.387 13.7907C8.094 13.4977 8.094 13.0237 8.387 12.7307C8.68 12.4377 9.155 12.4377 9.448 12.7307L10.942 14.2247L14.551 10.6117C14.844 10.3197 15.318 10.3187 15.612 10.6117C15.905 10.9047 15.905 11.3797 15.612 11.6727ZM16.394 5.36367H13.743C13.229 5.36167 12.738 5.11667 12.429 4.70667L11.573 3.56867C11.077 2.90767 10.288 2.51367 9.463 2.51367H7.588C4.164 2.51367 2.5 4.41967 2.5 8.34167V15.6537C2.5 19.3067 4.685 21.4867 8.345 21.4867H15.64C19.293 21.4867 21.473 19.3067 21.473 15.6567L21.5 10.9987C21.5 7.15367 19.878 5.36367 16.394 5.36367Z" fill="black"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.bold,
@@ -3927,7 +3927,7 @@ class _FilesFolderFileTickLight {
 
   /// Folder File tick — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File tick',
+    name: 'Folder File Tick',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.6409 20.9869C18.9967 20.9869 20.9738 19.0088 20.9738 15.654L21 10.9983C21 7.57554 19.7584 5.86366 16.3948 5.86366H13.7415C13.0682 5.86171 12.4348 5.54499 12.0296 5.00772L11.1737 3.86905C10.7695 3.33081 10.1361 3.01311 9.46278 3.01311H7.58768C4.23193 3.01311 3 4.99023 3 8.34112V15.654C3 19.0088 4.981 20.9869 8.34452 20.9869H15.6409Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.91797 13.2606L10.9417 15.2843L15.0825 11.1426" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.files,
     style: IconfyStyle.light,
@@ -3950,7 +3950,7 @@ class _FilesFolderFileZipBold {
 
   /// Folder File zip — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File zip',
+    name: 'Folder File Zip',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.25 9.20067C16.25 9.61467 15.914 9.95067 15.5 9.95067C15.086 9.95067 14.75 9.61467 14.75 9.20067V9.09667C14.75 8.68267 15.086 8.34667 15.5 8.34667C15.914 8.34667 16.25 8.68267 16.25 9.09667V9.20067ZM16.25 12.1227C16.25 12.5367 15.914 12.8727 15.5 12.8727C15.086 12.8727 14.75 12.5367 14.75 12.1227V12.0197C14.75 11.6057 15.086 11.2697 15.5 11.2697C15.914 11.2697 16.25 11.6057 16.25 12.0197V12.1227ZM16.25 15.0467C16.25 15.4607 15.914 15.7967 15.5 15.7967C15.086 15.7967 14.75 15.4607 14.75 15.0467V14.9427C14.75 14.5287 15.086 14.1927 15.5 14.1927C15.914 14.1927 16.25 14.5287 16.25 14.9427V15.0467ZM16.25 17.9687C16.25 18.3827 15.914 18.7187 15.5 18.7187C15.086 18.7187 14.75 18.3827 14.75 17.9687V17.8657C14.75 17.4517 15.086 17.1157 15.5 17.1157C15.914 17.1157 16.25 17.4517 16.25 17.8657V17.9687ZM16.395 5.36367H13.743C13.229 5.36167 12.738 5.11667 12.43 4.70667L11.573 3.56767C11.077 2.90767 10.288 2.51367 9.463 2.51367H7.588C4.164 2.51367 2.5 4.41967 2.5 8.34167V15.6537C2.5 19.3057 4.685 21.4867 8.345 21.4867H15.641C19.293 21.4867 21.474 19.3057 21.474 15.6567L21.5 10.9987C21.5 7.15367 19.878 5.36367 16.395 5.36367Z" fill="black"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.bold,
@@ -3973,7 +3973,7 @@ class _FilesFolderFileZip1Bold {
 
   /// Folder File zip 1 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File zip 1',
+    name: 'Folder File Zip 1',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.3226 11.9237C16.3226 12.3377 15.9866 12.6737 15.5726 12.6737C15.1586 12.6737 14.8226 12.3377 14.8226 11.9237V10.3987C14.8226 9.98467 15.1586 9.64867 15.5726 9.64867C15.9866 9.64867 16.3226 9.98467 16.3226 10.3987V11.9237ZM16.3226 16.4557C16.3226 16.8697 15.9866 17.2057 15.5726 17.2057C15.1586 17.2057 14.8226 16.8697 14.8226 16.4557V14.9307C14.8226 14.5167 15.1586 14.1807 15.5726 14.1807C15.9866 14.1807 16.3226 14.5167 16.3226 14.9307V16.4557ZM16.6196 5.36367H16.5226C16.4122 5.36367 16.3226 5.45321 16.3226 5.56367V7.39267C16.3226 7.80667 15.9866 8.14267 15.5726 8.14267C15.1586 8.14267 14.8226 7.80667 14.8226 7.39267V5.56367C14.8226 5.45321 14.7331 5.36367 14.6226 5.36367H13.9686C13.4536 5.36167 12.9636 5.11667 12.6546 4.70667L11.7986 3.56867C11.3016 2.90767 10.5126 2.51367 9.68761 2.51367H7.81261C4.38861 2.51367 2.72461 4.41967 2.72461 8.34167V15.6537C2.72461 19.3067 4.90961 21.4867 8.56961 21.4867H14.6226C14.7331 21.4867 14.8226 21.3971 14.8226 21.2867V19.4617C14.8226 19.0477 15.1586 18.7117 15.5726 18.7117C15.9866 18.7117 16.3226 19.0477 16.3226 19.4617V21.2406C16.3226 21.3553 16.4197 21.4467 16.534 21.4376C19.7735 21.1794 21.6986 19.072 21.6986 15.6567L21.7246 10.9987C21.7246 7.15367 20.1026 5.36367 16.6196 5.36367Z" fill="black"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.bold,
@@ -3996,7 +3996,7 @@ class _FilesFolderFileZip2Bulk {
 
   /// Folder File zip 2 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File zip 2',
+    name: 'Folder File Zip 2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.395 5.3637H13.743C13.229 5.3617 12.738 5.1167 12.43 4.7067L11.574 3.5677C11.077 2.9077 10.288 2.5127 9.463 2.5127H7.588C4.164 2.5127 2.5 4.4197 2.5 8.3417V15.6537C2.5 19.3057 4.685 21.4867 8.345 21.4867H15.641C19.293 21.4867 21.474 19.3057 21.474 15.6567L21.5 10.9987C21.5 7.1537 19.878 5.3637 16.395 5.3637Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.25 9.20019C16.25 9.61419 15.914 9.95019 15.5 9.95019C15.086 9.95019 14.75 9.61419 14.75 9.20019V9.09619C14.75 8.68219 15.086 8.34619 15.5 8.34619C15.914 8.34619 16.25 8.68219 16.25 9.09619V9.20019ZM16.25 12.1222C16.25 12.5362 15.914 12.8722 15.5 12.8722C15.086 12.8722 14.75 12.5362 14.75 12.1222V12.0192C14.75 11.6052 15.086 11.2692 15.5 11.2692C15.914 11.2692 16.25 11.6052 16.25 12.0192V12.1222ZM16.25 15.0462C16.25 15.4602 15.914 15.7962 15.5 15.7962C15.086 15.7962 14.75 15.4602 14.75 15.0462V14.9422C14.75 14.5282 15.086 14.1922 15.5 14.1922C15.914 14.1922 16.25 14.5282 16.25 14.9422V15.0462ZM16.25 17.9682C16.25 18.3822 15.914 18.7182 15.5 18.7182C15.086 18.7182 14.75 18.3822 14.75 17.9682V17.8652C14.75 17.4512 15.086 17.1152 15.5 17.1152C15.914 17.1152 16.25 17.4512 16.25 17.8652V17.9682Z" fill="black"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.bulk,
@@ -4019,7 +4019,7 @@ class _FilesFolderFileZip3Bulk {
 
   /// Folder File zip 3 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File zip 3',
+    name: 'Folder File Zip 3',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.6196 5.3637H13.9676C13.4536 5.3617 12.9626 5.1167 12.6546 4.7067L11.7986 3.5677C11.3016 2.9077 10.5126 2.5127 9.68761 2.5127H7.81261C4.38861 2.5127 2.72461 4.4197 2.72461 8.3417V15.6537C2.72461 19.3057 4.90961 21.4867 8.56961 21.4867H15.8656C19.5176 21.4867 21.6986 19.3057 21.6986 15.6567L21.7246 10.9987C21.7246 7.1537 20.1026 5.3637 16.6196 5.3637Z" fill="black"/> <path d="M16.3055 21.4759V19.4614C16.3055 19.0472 15.9698 18.7114 15.5555 18.7114C15.1413 18.7114 14.8055 19.0472 14.8055 19.4614V21.4868H15.8656C16.0147 21.4868 16.1614 21.4831 16.3055 21.4759Z" fill="black"/> <path d="M14.8055 5.36377V7.3926C14.8055 7.80682 15.1413 8.1426 15.5555 8.1426C15.9698 8.1426 16.3055 7.80682 16.3055 7.3926V5.36377H14.8055Z" fill="black"/> <path d="M16.3055 10.3977C16.3055 9.98349 15.9698 9.64771 15.5555 9.64771C15.1413 9.64771 14.8055 9.98349 14.8055 10.3977V11.924C14.8055 12.3382 15.1413 12.674 15.5555 12.674C15.9698 12.674 16.3055 12.3382 16.3055 11.924V10.3977Z" fill="black"/> <path d="M16.3055 14.93C16.3055 14.5158 15.9698 14.18 15.5555 14.18C15.1413 14.18 14.8055 14.5158 14.8055 14.93V16.4554C14.8055 16.8696 15.1413 17.2054 15.5555 17.2054C15.9698 17.2054 16.3055 16.8696 16.3055 16.4554V14.93Z" fill="black"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.bulk,
@@ -4042,7 +4042,7 @@ class _FilesFolderFileZip4Twotone {
 
   /// Folder File zip 4 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File zip 4',
+    name: 'Folder File Zip 4',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.1409 20.9874C19.4967 20.9874 21.4738 19.0094 21.4738 15.6546L21.5 10.9989C21.5 7.57609 20.2584 5.86421 16.8948 5.86421H14.2415C13.5682 5.86227 12.9348 5.54554 12.5296 5.00827L11.6737 3.86961C11.2695 3.33137 10.6361 3.01367 9.96278 3.01367H8.08768C4.73193 3.01367 3.5 4.99079 3.5 8.34168V15.6546C3.5 19.0094 5.481 20.9874 8.84452 20.9874H16.1409Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.8477 19.4614V20.9867M15.8477 14.93V16.4553M15.8477 10.3976V11.9239M15.8477 5.86719V7.39253" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.twoTone,
@@ -4065,7 +4065,7 @@ class _FilesFolderFileZip5Twotone {
 
   /// Folder File zip 5 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File zip 5',
+    name: 'Folder File Zip 5',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.1409 20.9874C19.4967 20.9874 21.4738 19.0094 21.4738 15.6546L21.5 10.9989C21.5 7.57609 20.2584 5.86421 16.8948 5.86421H14.2415C13.5682 5.86227 12.9348 5.54554 12.5296 5.00827L11.6737 3.86961C11.2695 3.33137 10.6361 3.01367 9.96278 3.01367H8.08768C4.73193 3.01367 3.5 4.99079 3.5 8.34168V15.6546C3.5 19.0094 5.481 20.9874 8.84452 20.9874H16.1409Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.8477 19.4614V20.9867M15.8477 14.93V16.4553M15.8477 10.3976V11.9239M15.8477 5.86719V7.39253" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.twoTone,
@@ -4088,7 +4088,7 @@ class _FilesFolderFileZip6Broken {
 
   /// Folder File zip 6 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File zip 6',
+    name: 'Folder File Zip 6',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16 17.9684V17.8654M16 15.0461V14.9431M16 12.1229V12.0199M16 9.20064V9.09766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2191 20.9865H8.84452C5.481 20.9865 3.5 19.0084 3.5 15.6536V8.3407C3.5 4.98981 4.73193 3.0127 8.08768 3.0127H9.96278C10.6361 3.0127 11.2695 3.33039 11.6737 3.86864L12.5296 5.0073C12.9348 5.54457 13.5682 5.86129 14.2415 5.86324H16.8948C20.2584 5.86324 21.5 7.57512 21.5 10.9979L21.4738 15.6536C21.4738 19.0084 19.4967 20.9865 16.1409 20.9865H15.5344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.broken,
@@ -4111,7 +4111,7 @@ class _FilesFolderFileZip7Broken {
 
   /// Folder File zip 7 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File zip 7',
+    name: 'Folder File Zip 7',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16 17.9684V17.8654M16 15.0461V14.9431M16 12.1229V12.0199M16 9.20064V9.09766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.2191 20.9865H8.84452C5.481 20.9865 3.5 19.0084 3.5 15.6536V8.3407C3.5 4.98981 4.73193 3.0127 8.08768 3.0127H9.96278C10.6361 3.0127 11.2695 3.33039 11.6737 3.86864L12.5296 5.0073C12.9348 5.54457 13.5682 5.86129 14.2415 5.86324H16.8948C20.2584 5.86324 21.5 7.57512 21.5 10.9979L21.4738 15.6536C21.4738 19.0084 19.4967 20.9865 16.1409 20.9865H15.5344" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.files,
     style: IconfyStyle.broken,
@@ -4134,7 +4134,7 @@ class _FilesFolderFileZip8Light {
 
   /// Folder File zip 8 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File zip 8',
+    name: 'Folder File Zip 8',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.6409 20.9869C18.9967 20.9869 20.9738 19.0088 20.9738 15.654L21 10.9983C21 7.57554 19.7584 5.86366 16.3948 5.86366H13.7415C13.0682 5.86171 12.4348 5.54499 12.0296 5.00772L11.1737 3.86905C10.7695 3.33081 10.1361 3.01311 9.46278 3.01311H7.58768C4.23193 3.01311 3 4.99023 3 8.34112V15.654C3 19.0088 4.981 20.9869 8.34452 20.9869H15.6409Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.5 17.9684V17.8654M15.5 15.0461V14.9431M15.5 12.1229V12.0199M15.5 9.20064V9.09766" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.files,
     style: IconfyStyle.light,
@@ -4157,7 +4157,7 @@ class _FilesFolderFileZip9Light {
 
   /// Folder File zip 9 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File zip 9',
+    name: 'Folder File Zip 9',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.6409 20.9869C18.9967 20.9869 20.9738 19.0088 20.9738 15.654L21 10.9983C21 7.57554 19.7584 5.86366 16.3948 5.86366H13.7415C13.0682 5.86171 12.4348 5.54499 12.0296 5.00772L11.1737 3.86905C10.7695 3.33081 10.1361 3.01311 9.46278 3.01311H7.58768C4.23193 3.01311 3 4.99023 3 8.34112V15.654C3 19.0088 4.981 20.9869 8.34452 20.9869H15.6409Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.3477 19.4614V20.9867M15.3477 14.93V16.4553M15.3477 10.3976V11.9239M15.3477 5.86719V7.39253" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.files,
     style: IconfyStyle.light,
@@ -4180,7 +4180,7 @@ class _FilesFolderFileZip10Outline {
 
   /// Folder File zip 10 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File zip 10',
+    name: 'Folder File Zip 10',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.62204 4.88786C4.05008 5.60582 3.75 6.73333 3.75 8.34112V15.654C3.75 17.184 4.19889 18.3073 4.94074 19.0476C5.68279 19.7882 6.80928 20.2369 8.34452 20.2369H15.6409C17.1718 20.2369 18.2952 19.7885 19.0354 19.0482C19.7756 18.3079 20.2238 17.1845 20.2238 15.654L20.2238 15.6498L20.25 10.9983C20.25 10.9976 20.25 10.9969 20.25 10.9962C20.2497 9.34911 19.9454 8.28668 19.3884 7.6345C18.8544 7.00923 17.9577 6.61366 16.3948 6.61366H13.7415L13.7393 6.61365C12.8316 6.61103 11.9773 6.184 11.4308 5.45928L11.4301 5.45837L10.5742 4.31971C10.3111 3.96942 9.89928 3.76311 9.46278 3.76311H7.58768C6.06183 3.76311 5.16559 4.20556 4.62204 4.88786ZM3.44883 3.95321C4.36018 2.80923 5.75778 2.26311 7.58768 2.26311H9.46278C10.3727 2.26311 11.2279 2.6924 11.7732 3.4184C11.7731 3.4183 11.7733 3.4185 11.7732 3.4184L12.6285 4.55616C12.6283 4.55597 12.6286 4.55635 12.6285 4.55616C12.8921 4.90537 13.3045 5.11209 13.7427 5.11366H16.3948C18.1955 5.11366 19.6013 5.57403 20.5291 6.66039C21.4336 7.71957 21.75 9.22382 21.75 10.9983L21.75 11.0026L21.7238 15.654C21.7238 15.6548 21.7238 15.6555 21.7238 15.6563C21.7233 17.4796 21.1829 19.0218 20.0961 20.1088C19.0088 21.1962 17.4658 21.7369 15.6409 21.7369H8.34452C6.51624 21.7369 4.97048 21.1965 3.88114 20.1094C2.79161 19.022 2.25 17.4788 2.25 15.654V8.34112C2.25 6.59803 2.56589 5.06152 3.44883 3.95321Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.5 8.34766C15.9142 8.34766 16.25 8.68344 16.25 9.09766V9.20064C16.25 9.61485 15.9142 9.95064 15.5 9.95064C15.0858 9.95064 14.75 9.61485 14.75 9.20064V9.09766C14.75 8.68344 15.0858 8.34766 15.5 8.34766ZM15.5 11.2699C15.9142 11.2699 16.25 11.6057 16.25 12.0199V12.1229C16.25 12.5371 15.9142 12.8729 15.5 12.8729C15.0858 12.8729 14.75 12.5371 14.75 12.1229V12.0199C14.75 11.6057 15.0858 11.2699 15.5 11.2699ZM15.5 14.1931C15.9142 14.1931 16.25 14.5289 16.25 14.9431V15.0461C16.25 15.4603 15.9142 15.7961 15.5 15.7961C15.0858 15.7961 14.75 15.4603 14.75 15.0461V14.9431C14.75 14.5289 15.0858 14.1931 15.5 14.1931ZM15.5 17.1154C15.9142 17.1154 16.25 17.4512 16.25 17.8654V17.9684C16.25 18.3826 15.9142 18.7184 15.5 18.7184C15.0858 18.7184 14.75 18.3826 14.75 17.9684V17.8654C14.75 17.4512 15.0858 17.1154 15.5 17.1154Z" fill="black"/> </svg> ',
     category: IconfyCategory.files,
     style: IconfyStyle.outline,
@@ -4203,7 +4203,7 @@ class _FilesFolderFileZip11Outline {
 
   /// Folder File zip 11 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Folder File zip 11',
+    name: 'Folder File Zip 11',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.62204 4.88786C4.05008 5.60582 3.75 6.73333 3.75 8.34112V15.654C3.75 17.184 4.19889 18.3073 4.94074 19.0476C5.68279 19.7882 6.80928 20.2369 8.34452 20.2369H15.6409C17.1718 20.2369 18.2952 19.7885 19.0354 19.0482C19.7756 18.3079 20.2238 17.1845 20.2238 15.654L20.2238 15.6498L20.25 10.9983C20.25 10.9976 20.25 10.9969 20.25 10.9962C20.2497 9.34911 19.9454 8.28668 19.3884 7.6345C18.8544 7.00923 17.9577 6.61366 16.3948 6.61366H13.7415L13.7393 6.61365C12.8316 6.61103 11.9773 6.184 11.4308 5.45928L11.4301 5.45837L10.5742 4.31971C10.3111 3.96942 9.89928 3.76311 9.46278 3.76311H7.58768C6.06183 3.76311 5.16559 4.20556 4.62204 4.88786ZM3.44883 3.95321C4.36018 2.80923 5.75778 2.26311 7.58768 2.26311H9.46278C10.3727 2.26311 11.2279 2.6924 11.7732 3.4184C11.7731 3.4183 11.7733 3.4185 11.7732 3.4184L12.6285 4.55616C12.6283 4.55597 12.6286 4.55635 12.6285 4.55616C12.8921 4.90537 13.3045 5.11209 13.7427 5.11366H16.3948C18.1955 5.11366 19.6013 5.57403 20.5291 6.66039C21.4336 7.71957 21.75 9.22382 21.75 10.9983L21.75 11.0026L21.7238 15.654C21.7238 15.6548 21.7238 15.6555 21.7238 15.6563C21.7233 17.4796 21.1829 19.0218 20.0961 20.1088C19.0088 21.1962 17.4658 21.7369 15.6409 21.7369H8.34452C6.51624 21.7369 4.97048 21.1965 3.88114 20.1094C2.79161 19.022 2.25 17.4788 2.25 15.654V8.34112C2.25 6.59803 2.56589 5.06152 3.44883 3.95321Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3477 5.11719C15.7619 5.11719 16.0977 5.45297 16.0977 5.86719V7.39253C16.0977 7.80674 15.7619 8.14253 15.3477 8.14253C14.9334 8.14253 14.5977 7.80674 14.5977 7.39253V5.86719C14.5977 5.45297 14.9334 5.11719 15.3477 5.11719ZM15.3477 9.64763C15.7619 9.64763 16.0977 9.98342 16.0977 10.3976V11.9239C16.0977 12.3382 15.7619 12.6739 15.3477 12.6739C14.9334 12.6739 14.5977 12.3382 14.5977 11.9239V10.3976C14.5977 9.98342 14.9334 9.64763 15.3477 9.64763ZM15.3477 14.18C15.7619 14.18 16.0977 14.5158 16.0977 14.93V16.4553C16.0977 16.8695 15.7619 17.2053 15.3477 17.2053C14.9334 17.2053 14.5977 16.8695 14.5977 16.4553V14.93C14.5977 14.5158 14.9334 14.18 15.3477 14.18ZM15.3477 18.7114C15.7619 18.7114 16.0977 19.0472 16.0977 19.4614V20.9867C16.0977 21.4009 15.7619 21.7367 15.3477 21.7367C14.9334 21.7367 14.5977 21.4009 14.5977 20.9867V19.4614C14.5977 19.0472 14.9334 18.7114 15.3477 18.7114Z" fill="black"/> </svg> ',
     category: IconfyCategory.files,
     style: IconfyStyle.outline,

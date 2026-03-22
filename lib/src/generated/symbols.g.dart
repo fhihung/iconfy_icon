@@ -828,7 +828,7 @@ class _SymbolsRegisteredTrademarkLight {
 
   /// Registered trademark — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Registered trademark',
+    name: 'Registered Trademark',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21C16.9709 21 21 16.9699 21 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.89258 12.8901H12.756C13.9839 12.8901 14.9803 11.8938 14.9803 10.6668C14.9803 9.43993 13.9839 8.4436 12.756 8.4436H9.89258V15.558M14.1567 15.5578L13.0319 12.8704" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -851,7 +851,7 @@ class _SymbolsRegisteredTrademark1Light {
 
   /// Registered trademark 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Registered trademark 1',
+    name: 'Registered Trademark 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83405 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.3877 12.9137H12.329C13.589 12.9137 14.6126 11.8911 14.6126 10.6301C14.6126 9.37013 13.589 8.34753 12.329 8.34753H9.3877V15.6536M13.7675 15.6534L12.6116 12.8941" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -874,7 +874,7 @@ class _SymbolsRegisteredTrademark2Twotone {
 
   /// Registered trademark 2 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Registered trademark 2',
+    name: 'Registered Trademark 2',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.28216 3H16.7169C19.665 3 21.5 5.08119 21.5 8.02638V15.9736C21.5 18.9188 19.665 21 16.7159 21H8.28216C5.33405 21 3.5 18.9188 3.5 15.9736V8.02638C3.5 5.08119 5.34281 3 8.28216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.8877 12.9137H12.829C14.089 12.9137 15.1126 11.8911 15.1126 10.6301C15.1126 9.37013 14.089 8.34753 12.829 8.34753H9.8877V15.6536M14.2675 15.6534L13.1116 12.8941" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -897,7 +897,7 @@ class _SymbolsRegisteredTrademark3Twotone {
 
   /// Registered trademark 3 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Registered trademark 3',
+    name: 'Registered Trademark 3',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.28216 3H16.7169C19.665 3 21.5 5.08119 21.5 8.02638V15.9736C21.5 18.9188 19.665 21 16.7159 21H8.28216C5.33405 21 3.5 18.9188 3.5 15.9736V8.02638C3.5 5.08119 5.34281 3 8.28216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.8877 12.9137H12.829C14.089 12.9137 15.1126 11.8911 15.1126 10.6301C15.1126 9.37013 14.089 8.34753 12.829 8.34753H9.8877V15.6536M14.2675 15.6534L13.1116 12.8941" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -920,7 +920,7 @@ class _SymbolsRegisteredTrademark4Bold {
 
   /// Registered trademark 4 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Registered trademark 4',
+    name: 'Registered Trademark 4',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.756 12.14H10.6425V9.19354H12.756C13.5699 9.19354 14.2302 9.85429 14.2302 10.6668C14.2302 11.3992 13.6937 12.0083 12.9917 12.1213C12.9571 12.1231 12.9224 12.1274 12.8877 12.1342C12.8443 12.1381 12.8004 12.14 12.756 12.14Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.5 12C2.5 6.75294 6.75294 2.5 12 2.5C17.2471 2.5 21.5 6.75294 21.5 12C21.5 17.2461 17.2471 21.5 12 21.5C6.7529 21.5 2.5 17.2461 2.5 12ZM9.89253 7.69354C9.47832 7.69354 9.14253 8.02933 9.14253 8.44354V15.5579C9.14253 15.9721 9.47832 16.3079 9.89253 16.3079C10.3067 16.3079 10.6425 15.9721 10.6425 15.5579V13.64H12.541L13.4648 15.8473C13.6247 16.2294 14.0641 16.4095 14.4462 16.2496C14.8283 16.0897 15.0084 15.6503 14.8485 15.2682L14.0444 13.347C15.0416 12.8668 15.7302 11.8468 15.7302 10.6668C15.7302 9.02544 14.3979 7.69354 12.756 7.69354H9.89253Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -943,7 +943,7 @@ class _SymbolsRegisteredTrademark5Bold {
 
   /// Registered trademark 5 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Registered trademark 5',
+    name: 'Registered Trademark 5',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.3293 12.1637H10.138V9.09753H12.3293C13.1755 9.09753 13.8629 9.78476 13.8629 10.6301C13.8629 11.3954 13.301 12.0303 12.5681 12.1452C12.536 12.147 12.5038 12.151 12.4718 12.1571C12.4249 12.1615 12.3773 12.1637 12.3293 12.1637Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.92307 4.06782C4.85544 3.06754 6.18863 2.5 7.78216 2.5H16.2169C17.8144 2.5 19.1481 3.06733 20.0799 4.06801C21.0079 5.06467 21.5 6.45052 21.5 8.02638V15.9736C21.5 17.5495 21.0079 18.9353 20.0798 19.932C19.1478 20.9327 17.8139 21.5 16.2159 21.5H7.78216C6.18457 21.5 4.85111 20.9327 3.91956 19.9319C2.99178 18.9353 2.5 17.5494 2.5 15.9736V8.02638C2.5 6.44997 2.99434 5.06421 3.92307 4.06782ZM9.388 7.59753C8.97379 7.59753 8.638 7.93332 8.638 8.34753V15.6536C8.638 16.0678 8.97379 16.4036 9.388 16.4036C9.80221 16.4036 10.138 16.0678 10.138 15.6536V13.6637H12.1212L13.0761 15.9432C13.2361 16.3253 13.6755 16.5052 14.0576 16.3452C14.4396 16.1852 14.6196 15.7457 14.4596 15.3637L13.6258 13.3732C14.6522 12.887 15.3629 11.8415 15.3629 10.6301C15.3629 8.9555 14.0031 7.59753 12.3293 7.59753H9.388Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -966,7 +966,7 @@ class _SymbolsRegisteredTrademark6Bulk {
 
   /// Registered trademark 6 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Registered trademark 6',
+    name: 'Registered Trademark 6',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M2.5 12C2.5 6.75294 6.75294 2.5 12 2.5C17.2471 2.5 21.5 6.75294 21.5 12C21.5 17.2461 17.2471 21.5 12 21.5C6.7529 21.5 2.5 17.2461 2.5 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9 8.34766C9 7.93344 9.33579 7.59766 9.75 7.59766H12.6913C14.3651 7.59766 15.7249 8.95562 15.7249 10.6303C15.7249 11.8416 15.0142 12.8871 13.9878 13.3733L14.8216 15.3638C14.9816 15.7458 14.8016 16.1853 14.4196 16.3453C14.0375 16.5054 13.5981 16.3254 13.4381 15.9433L12.4832 13.6638H10.5V15.6537C10.5 16.0679 10.1642 16.4037 9.75 16.4037C9.33579 16.4037 9 16.0679 9 15.6537V8.34766ZM10.5 12.1638H12.6913C12.7393 12.1638 12.7869 12.1616 12.8338 12.1573C12.8658 12.1511 12.898 12.1472 12.9301 12.1453C13.663 12.0305 14.2249 11.3955 14.2249 10.6303C14.2249 9.78488 13.5375 9.09766 12.6913 9.09766H10.5V12.1638Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -989,7 +989,7 @@ class _SymbolsRegisteredTrademark7Bulk {
 
   /// Registered trademark 7 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Registered trademark 7',
+    name: 'Registered Trademark 7',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M3.92307 4.06782C4.85544 3.06754 6.18863 2.5 7.78216 2.5H16.2169C17.8144 2.5 19.1481 3.06733 20.0799 4.06801C21.0079 5.06467 21.5 6.45052 21.5 8.02638V15.9736C21.5 17.5495 21.0079 18.9353 20.0798 19.932C19.1478 20.9327 17.8139 21.5 16.2159 21.5H7.78216C6.18457 21.5 4.85111 20.9327 3.91956 19.9319C2.99178 18.9353 2.5 17.5494 2.5 15.9736V8.02638C2.5 6.44997 2.99434 5.06421 3.92307 4.06782Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.638 8.34766C8.638 7.93344 8.97379 7.59766 9.388 7.59766H12.3293C14.0031 7.59766 15.3629 8.95562 15.3629 10.6303C15.3629 11.8416 14.6522 12.8871 13.6258 13.3733L14.4596 15.3638C14.6196 15.7458 14.4396 16.1853 14.0576 16.3453C13.6755 16.5054 13.2361 16.3254 13.0761 15.9433L12.1212 13.6638H10.138V15.6537C10.138 16.0679 9.80221 16.4037 9.388 16.4037C8.97379 16.4037 8.638 16.0679 8.638 15.6537V8.34766ZM10.138 12.1638H12.3293C12.3773 12.1638 12.4249 12.1616 12.4718 12.1573C12.5038 12.1511 12.536 12.1472 12.5681 12.1453C13.301 12.0305 13.8629 11.3955 13.8629 10.6303C13.8629 9.78488 13.1755 9.09766 12.3293 9.09766H10.138V12.1638Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -1012,7 +1012,7 @@ class _SymbolsRegisteredTrademark8Broken {
 
   /// Registered trademark 8 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Registered trademark 8',
+    name: 'Registered Trademark 8',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.89258 12.8918H12.756C13.9839 12.8918 14.9803 11.8955 14.9803 10.6686C14.9803 9.44164 13.9839 8.44531 12.756 8.44531H9.89258V15.5597M14.1567 15.5595L13.0319 12.8721" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 21C7.02908 21 3 16.9709 3 12C3 7.03005 7.02908 3 12 3C16.9709 3 21 7.03005 21 12C21 15.3619 19.1571 18.293 16.4263 19.8383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -1035,7 +1035,7 @@ class _SymbolsRegisteredTrademark9Broken {
 
   /// Registered trademark 9 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Registered trademark 9',
+    name: 'Registered Trademark 9',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.89258 12.8918H12.756C13.9839 12.8918 14.9803 11.8955 14.9803 10.6686C14.9803 9.44164 13.9839 8.44531 12.756 8.44531H9.89258V15.5597M14.1567 15.5595L13.0319 12.8721" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 21C7.02908 21 3 16.9709 3 12C3 7.03005 7.02908 3 12 3C16.9709 3 21 7.03005 21 12C21 15.3619 19.1571 18.293 16.4263 19.8383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -1058,7 +1058,7 @@ class _SymbolsRegisteredTrademark10Outline {
 
   /// Registered trademark 10 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Registered trademark 10',
+    name: 'Registered Trademark 10',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3926 13.39V15.308C10.3926 15.722 10.0566 16.058 9.64258 16.058C9.22852 16.058 8.89258 15.722 8.89258 15.308V8.19397C8.89258 7.77899 9.22852 7.44397 9.64258 7.44397H12.5059C14.1479 7.44397 15.48 8.77496 15.48 10.417C15.48 11.5967 14.7915 12.6168 13.7944 13.097L14.5986 15.018C14.7583 15.4 14.5781 15.84 14.1963 16C13.814 16.159 13.3745 15.979 13.2148 15.597L12.291 13.39H10.3926ZM12.6421 11.8838C12.6738 11.8778 12.7056 11.8738 12.7373 11.8719C13.4414 11.7608 13.98 11.1505 13.98 10.417C13.98 9.604 13.3198 8.94397 12.5059 8.94397H10.3926V11.89H12.5059C12.5518 11.89 12.5972 11.8879 12.6421 11.8838Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.75 2C17.1353 2 21.5 6.36499 21.5 11.75C21.5 17.134 17.1353 21.5 11.75 21.5C6.36475 21.5 2 17.134 2 11.75C2 6.36499 6.36475 2 11.75 2ZM20 11.75C20 7.19299 16.3066 3.5 11.75 3.5C7.19336 3.5 3.5 7.19299 3.5 11.75C3.5 16.306 7.19336 20 11.75 20C16.3066 20 20 16.306 20 11.75Z" fill="black"/> </svg> ',
     category: IconfyCategory.symbols,
     style: IconfyStyle.outline,
@@ -1081,7 +1081,7 @@ class _SymbolsRegisteredTrademark11Outline {
 
   /// Registered trademark 11 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Registered trademark 11',
+    name: 'Registered Trademark 11',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.88818 13.414V15.404C9.88818 15.818 9.55225 16.154 9.13818 16.154C8.72363 16.154 8.38818 15.818 8.38818 15.404V8.09802C8.38818 7.68304 8.72363 7.34802 9.13818 7.34802H12.0791C13.7529 7.34802 15.1128 8.70599 15.1128 10.38C15.1128 11.5917 14.4023 12.6372 13.376 13.1235L14.2095 15.114C14.3696 15.496 14.1895 15.935 13.8076 16.095C13.4253 16.2549 12.9863 16.075 12.8262 15.693L11.8716 13.414H9.88818ZM12.2173 11.9077C12.2539 11.9005 12.291 11.8961 12.3276 11.8944C13.0562 11.7759 13.6128 11.1426 13.6128 10.38C13.6128 9.53503 12.9253 8.84802 12.0791 8.84802H9.88818V11.914H12.0791C12.1255 11.914 12.1719 11.9117 12.2173 11.9077Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.49023 3.64697C4.47461 2.59094 5.87646 2 7.53223 2H15.9668C17.626 2 19.0288 2.591 20.0127 3.64801C20.9912 4.698 21.5 6.14899 21.5 7.776V15.724C21.5 17.351 20.9912 18.802 20.0127 19.852C19.0283 20.909 17.6255 21.5 15.9658 21.5H7.53223C5.87256 21.5 4.47021 20.909 3.48633 19.852C2.5083 18.801 2 17.351 2 15.724V7.776C2 6.14801 2.51123 4.698 3.49023 3.64697ZM4.5874 4.66998C3.91016 5.39697 3.5 6.46002 3.5 7.776V15.724C3.5 17.041 3.90869 18.104 4.58447 18.83C5.25488 19.55 6.24365 20 7.53223 20H15.9658C17.2554 20 18.2446 19.55 18.915 18.83C19.5913 18.104 20 17.041 20 15.724V7.776C20 6.45898 19.5913 5.396 18.915 4.66998C18.2446 3.95001 17.2554 3.5 15.9668 3.5H7.53223C6.24805 3.5 5.25928 3.94897 4.5874 4.66998Z" fill="black"/> </svg> ',
     category: IconfyCategory.symbols,
     style: IconfyStyle.outline,
@@ -2920,7 +2920,7 @@ class _SymbolsOffBulk {
 
   /// OFF — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'OFF',
+    name: 'Off',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M2.81151 4.72362C3.67224 3.80001 4.90206 3.27734 6.36865 3.27734H17.6303C19.1003 3.27734 20.3306 3.79981 21.1909 4.72379C22.0475 5.64374 22.5 6.92109 22.5 8.36978V15.6292C22.5 17.0779 22.0475 18.3553 21.1908 19.2753C20.3303 20.1992 19.0997 20.7217 17.6292 20.7217H6.36865C4.89858 20.7217 3.6685 20.1992 2.80846 19.2752C1.95219 18.3552 1.5 17.0778 1.5 15.6292V8.36978C1.5 6.92059 1.95443 5.64332 2.81151 4.72362Z" fill="black"/> <path d="M11.6685 8.75781C11.2543 8.75781 10.9185 9.0936 10.9185 9.50781V14.5521C10.9185 14.9664 11.2543 15.3021 11.6685 15.3021C12.0827 15.3021 12.4185 14.9664 12.4185 14.5521V12.78H13.8296C14.2438 12.78 14.5796 12.4442 14.5796 12.03C14.5796 11.6158 14.2438 11.28 13.8296 11.28H12.4185V10.2578H14.1907C14.6049 10.2578 14.9407 9.92203 14.9407 9.50781C14.9407 9.0936 14.6049 8.75781 14.1907 8.75781H11.6685Z" fill="black"/> <path d="M16.2684 8.75781C15.8542 8.75781 15.5184 9.0936 15.5184 9.50781V14.5521C15.5184 14.9664 15.8542 15.3021 16.2684 15.3021C16.6826 15.3021 17.0184 14.9664 17.0184 14.5521V12.78H18.4284C18.8426 12.78 19.1784 12.4442 19.1784 12.03C19.1784 11.6158 18.8426 11.28 18.4284 11.28H17.0184V10.2578H18.7905C19.2048 10.2578 19.5405 9.92203 19.5405 9.50781C19.5405 9.0936 19.2048 8.75781 18.7905 8.75781H16.2684Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.45947 12.0019C4.45947 10.3469 5.65984 8.84649 7.33488 8.84649C9.00991 8.84649 10.2103 10.3469 10.2103 12.0019C10.2103 13.6569 9.00991 15.1573 7.33488 15.1573C5.65984 15.1573 4.45947 13.6569 4.45947 12.0019ZM7.33488 10.3465C6.65748 10.3465 5.95947 10.9953 5.95947 12.0019C5.95947 13.0085 6.65748 13.6573 7.33488 13.6573C8.01227 13.6573 8.71028 13.0085 8.71028 12.0019C8.71028 10.9953 8.01227 10.3465 7.33488 10.3465Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -2943,7 +2943,7 @@ class _SymbolsCcEmailLight {
 
   /// cc email — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'cc email',
+    name: 'Cc Email',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 12C3 16.968 7.032 21 12 21C16.968 21 21 16.968 21 12C21 7.032 16.968 3 12 3C7.032 3 3 7.032 3 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.7992 14.0167C9.78731 14.7756 8.33758 14.6978 7.42298 13.7832C6.41109 12.7713 6.41109 11.1367 7.42298 10.1346C8.33758 9.21023 9.78731 9.13239 10.7992 9.90104" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0687 14.0167C16.0568 14.7756 14.6071 14.6978 13.6925 13.7832C12.6806 12.7713 12.6806 11.1367 13.6925 10.1346C14.6071 9.21023 16.0568 9.13239 17.0687 9.90104" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -2966,7 +2966,7 @@ class _SymbolsCcEmail1Light {
 
   /// cc email 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'cc email 1',
+    name: 'Cc Email 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.31351 3.08105H16.6854C19.9611 3.08105 22 5.39349 22 8.66592V15.334C22 18.6065 19.9611 20.9189 16.6843 20.9189H7.31351C4.03784 20.9189 2 18.6065 2 15.334V8.66592C2 5.39349 4.04757 3.08105 7.31351 3.08105Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.663 14.2904C9.53863 15.1336 7.92782 15.0471 6.9116 14.0309C5.78728 12.9066 5.78728 11.0904 6.9116 9.97684C7.92782 8.94981 9.53863 8.86333 10.663 9.71738" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9264 9.97395C16.8075 8.85504 14.9924 8.85504 13.8724 9.97395C12.7535 11.0929 12.7535 12.908 13.8724 14.028C14.9924 15.1469 16.8075 15.1469 17.9264 14.028" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -2989,7 +2989,7 @@ class _SymbolsCcEmail2Twotone {
 
   /// cc email 2 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'cc email 2',
+    name: 'Cc Email 2',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3 12C3 16.968 7.032 21 12 21C16.968 21 21 16.968 21 12C21 7.032 16.968 3 12 3C7.032 3 3 7.032 3 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.7992 14.0167C9.78731 14.7756 8.33758 14.6978 7.42298 13.7832C6.41109 12.7713 6.41109 11.1367 7.42298 10.1346C8.33758 9.21023 9.78731 9.13239 10.7992 9.90104" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0687 14.0167C16.0568 14.7756 14.6071 14.6978 13.6925 13.7832C12.6806 12.7713 12.6806 11.1367 13.6925 10.1346C14.6071 9.21023 16.0568 9.13239 17.0687 9.90104" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -3012,7 +3012,7 @@ class _SymbolsCcEmail3Twotone {
 
   /// cc email 3 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'cc email 3',
+    name: 'Cc Email 3',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M7.31351 3.08105H16.6854C19.9611 3.08105 22 5.39349 22 8.66592V15.334C22 18.6065 19.9611 20.9189 16.6843 20.9189H7.31351C4.03784 20.9189 2 18.6065 2 15.334V8.66592C2 5.39349 4.04757 3.08105 7.31351 3.08105Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.663 14.2904C9.53863 15.1336 7.92782 15.0471 6.9116 14.0309C5.78728 12.9066 5.78728 11.0904 6.9116 9.97684C7.92782 8.94981 9.53863 8.86333 10.663 9.71738" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9264 9.97395C16.8075 8.85504 14.9924 8.85504 13.8724 9.97395C12.7535 11.0929 12.7535 12.908 13.8724 14.028C14.9924 15.1469 16.8075 15.1469 17.9264 14.028" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -3035,7 +3035,7 @@ class _SymbolsCcEmail4Bold {
 
   /// cc email 4 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'cc email 4',
+    name: 'Cc Email 4',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.5 12C2.5 6.75586 6.75586 2.5 12 2.5C17.2441 2.5 21.5 6.75586 21.5 12C21.5 17.2441 17.2441 21.5 12 21.5C6.75586 21.5 2.5 17.2441 2.5 12ZM7.9559 10.6621C8.59999 10.0111 9.62674 9.95243 10.3453 10.4983C10.6752 10.7488 11.1457 10.6845 11.3962 10.3547C11.6468 10.0249 11.5825 9.55436 11.2527 9.3038C9.94842 8.31309 8.07755 8.40919 6.89231 9.60434C5.58538 10.9016 5.58997 13.0111 6.89244 14.3135C8.07703 15.4981 9.94543 15.5944 11.249 14.6167C11.5804 14.3682 11.6475 13.8981 11.399 13.5667C11.1505 13.2353 10.6804 13.1682 10.349 13.4167C9.62875 13.9569 8.59769 13.8975 7.9531 13.2529C7.23268 12.5324 7.23638 11.3747 7.95053 10.6674L7.9559 10.6621ZM14.2198 10.6621C14.8638 10.0111 15.8906 9.95243 16.6092 10.4983C16.939 10.7488 17.4095 10.6845 17.6601 10.3547C17.9106 10.0249 17.8463 9.55436 17.5165 9.3038C16.2123 8.31309 14.3414 8.40919 13.1562 9.60435C11.8492 10.9016 11.8538 13.0111 13.1563 14.3135C14.3409 15.4981 16.2093 15.5944 17.5128 14.6167C17.8442 14.3682 17.9114 13.8981 17.6628 13.5667C17.4143 13.2353 16.9442 13.1682 16.6128 13.4167C15.8926 13.9569 14.8615 13.8975 14.217 13.2529C13.4965 12.5324 13.5002 11.3747 14.2144 10.6674L14.2198 10.6621Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -3058,7 +3058,7 @@ class _SymbolsCcEmail5Bold {
 
   /// cc email 5 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'cc email 5',
+    name: 'Cc Email 5',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.06627 4.30638C4.09065 3.20739 5.55668 2.58203 7.31351 2.58203H16.6854C18.4468 2.58203 19.9133 3.20717 20.937 4.30657C21.957 5.40194 22.5 6.92742 22.5 8.6669V15.335C22.5 17.0745 21.957 18.6 20.9368 19.6954C19.913 20.7948 18.4462 21.4199 16.6843 21.4199H7.31351C5.55214 21.4199 4.08584 20.7947 3.0624 19.6953C2.04273 18.5999 1.5 17.0744 1.5 15.335V8.6669C1.5 6.92686 2.04553 5.40148 3.06627 4.30638ZM18.4582 9.44454C17.0463 8.03259 14.7564 8.03295 13.3438 9.44428C11.9318 10.8562 11.9319 13.1463 13.3432 14.559C14.7559 15.9703 17.0463 15.9712 18.4582 14.5593C18.7511 14.2664 18.7511 13.7915 18.4582 13.4986C18.1653 13.2057 17.6904 13.2057 17.3976 13.4986C16.5718 14.3244 15.2315 14.3248 14.4042 13.4986C13.578 12.6714 13.5784 11.3313 14.4039 10.5055C15.2312 9.67895 16.5717 9.67932 17.3976 10.5052C17.6904 10.7981 18.1653 10.7981 18.4582 10.5052C18.7511 10.2123 18.7511 9.73743 18.4582 9.44454ZM7.44522 10.5054C8.19094 9.7517 9.37877 9.68436 10.2098 10.3156C10.5396 10.5662 11.0101 10.5019 11.2607 10.172C11.5112 9.8422 11.447 9.3717 11.1171 9.12114C9.70045 8.04503 7.66849 8.14977 6.38163 9.44762C4.96227 10.8562 4.96686 13.1473 6.38176 14.5622C7.66798 15.8484 9.69746 15.9533 11.1134 14.8913C11.4448 14.6428 11.512 14.1727 11.2634 13.8414C11.0149 13.51 10.5448 13.4428 10.2134 13.6913C9.38078 14.3158 8.18864 14.2478 7.44242 13.5016C6.60957 12.6687 6.61327 11.3294 7.43985 10.5107L7.44522 10.5054Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -3081,7 +3081,7 @@ class _SymbolsCcEmail6Bulk {
 
   /// cc email 6 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'cc email 6',
+    name: 'Cc Email 6',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M2.5 12C2.5 6.75586 6.75586 2.5 12 2.5C17.2441 2.5 21.5 6.75586 21.5 12C21.5 17.2441 17.2441 21.5 12 21.5C6.75586 21.5 2.5 17.2441 2.5 12Z" fill="black"/> <path d="M7.95587 10.6614C8.59996 10.0104 9.62671 9.95176 10.3453 10.4976C10.6751 10.7482 11.1456 10.6839 11.3962 10.354C11.6467 10.0242 11.5825 9.55369 11.2526 9.30313C9.94839 8.31242 8.07752 8.40851 6.89228 9.60367C5.58535 10.9009 5.58994 13.0104 6.89241 14.3129C8.077 15.4975 9.9454 15.5937 11.249 14.616C11.5803 14.3675 11.6475 13.8974 11.399 13.566C11.1504 13.2347 10.6803 13.1675 10.349 13.416C9.62872 13.9562 8.59766 13.8968 7.95307 13.2522C7.23265 12.5318 7.23635 11.374 7.9505 10.6668L7.95587 10.6614Z" fill="black"/> <path d="M14.2197 10.6614C14.8638 10.0104 15.8906 9.95176 16.6091 10.4976C16.939 10.7482 17.4095 10.6839 17.66 10.354C17.9106 10.0242 17.8463 9.55369 17.5165 9.30313C16.2122 8.31242 14.3414 8.40852 13.1561 9.60367C11.8492 10.9009 11.8538 13.0104 13.1563 14.3129C14.3409 15.4975 16.2093 15.5937 17.5128 14.616C17.8442 14.3675 17.9113 13.8974 17.6628 13.566C17.4143 13.2347 16.9442 13.1675 16.6128 13.416C15.8926 13.9562 14.8615 13.8968 14.2169 13.2522C13.4965 12.5318 13.5002 11.374 14.2144 10.6668L14.2197 10.6614Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -3104,7 +3104,7 @@ class _SymbolsCcEmail7Bulk {
 
   /// cc email 7 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'cc email 7',
+    name: 'Cc Email 7',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3.06627 4.30638C4.09065 3.20739 5.55668 2.58203 7.31351 2.58203H16.6854C18.4468 2.58203 19.9133 3.20717 20.937 4.30657C21.957 5.40194 22.5 6.92742 22.5 8.6669V15.335C22.5 17.0745 21.957 18.6 20.9368 19.6954C19.913 20.7948 18.4462 21.4199 16.6843 21.4199H7.31351C5.55214 21.4199 4.08584 20.7947 3.0624 19.6953C2.04273 18.5999 1.5 17.0744 1.5 15.335V8.6669C1.5 6.92686 2.04553 5.40148 3.06627 4.30638Z" fill="black"/> <path d="M18.4582 9.44362C17.0463 8.03167 14.7564 8.03204 13.3438 9.44337C11.9318 10.8553 11.9319 13.1454 13.3432 14.5581C14.7559 15.9694 17.0463 15.9703 18.4582 14.5583C18.7511 14.2654 18.7511 13.7906 18.4582 13.4977C18.1653 13.2048 17.6904 13.2048 17.3976 13.4977C16.5718 14.3235 15.2315 14.3239 14.4042 13.4977C13.578 12.6704 13.5784 11.3304 14.4039 10.5045C15.2312 9.67803 16.5717 9.6784 17.3976 10.5043C17.6904 10.7972 18.1653 10.7972 18.4582 10.5043C18.7511 10.2114 18.7511 9.73652 18.4582 9.44362Z" fill="black"/> <path d="M7.44522 10.5044C8.19094 9.75079 9.37877 9.68345 10.2098 10.3147C10.5396 10.5652 11.0101 10.501 11.2607 10.1711C11.5112 9.84129 11.447 9.37078 11.1171 9.12023C9.70045 8.04411 7.66849 8.14885 6.38163 9.44671C4.96227 10.8553 4.96686 13.1464 6.38176 14.5613C7.66798 15.8475 9.69746 15.9524 11.1134 14.8904C11.4448 14.6419 11.512 14.1718 11.2634 13.8404C11.0149 13.5091 10.5448 13.4419 10.2134 13.6904C9.38078 14.3149 8.18864 14.2469 7.44242 13.5006C6.60957 12.6678 6.61327 11.3284 7.43985 10.5098L7.44522 10.5044Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -3127,7 +3127,7 @@ class _SymbolsCcEmail8Broken {
 
   /// cc email 8 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'cc email 8',
+    name: 'Cc Email 8',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.7992 14.0181C9.78731 14.777 8.33758 14.6991 7.42298 13.7845C6.41109 12.7727 6.41109 11.1381 7.42298 10.1359C8.33758 9.21157 9.78731 9.13373 10.7992 9.90238" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0687 14.0181C16.0568 14.777 14.6071 14.6991 13.6925 13.7845C12.6806 12.7727 12.6806 11.1381 13.6925 10.1359C14.6071 9.21157 16.0568 9.13373 17.0687 9.90238" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 21C7.02908 21 3 16.9709 3 12C3 7.03005 7.02908 3 12 3C16.9709 3 21 7.03005 21 12C21 15.3619 19.1571 18.293 16.4263 19.8383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -3150,7 +3150,7 @@ class _SymbolsCcEmail9Broken {
 
   /// cc email 9 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'cc email 9',
+    name: 'Cc Email 9',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.4788 20.9199H7.31351C4.03784 20.9199 2 18.6074 2 15.335V8.6669C2 5.39446 4.04757 3.08203 7.31351 3.08203H16.6854C19.9611 3.08203 22 5.39446 22 8.6669V15.335C22 18.6074 19.9611 20.9199 16.6843 20.9199H15.452" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6634 14.2913C9.53912 15.1346 7.92831 15.0481 6.91209 14.0319C5.78777 12.9075 5.78777 11.0913 6.91209 9.97782C7.92831 8.95079 9.53912 8.8643 10.6634 9.71836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9264 9.972C16.8075 8.85308 14.9924 8.85308 13.8724 9.972C12.7535 11.0909 12.7535 12.9061 13.8724 14.0261C14.9924 15.145 16.8075 15.145 17.9264 14.0261" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -3173,7 +3173,7 @@ class _SymbolsCcEmail10Outline {
 
   /// cc email 10 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'cc email 10',
+    name: 'Cc Email 10',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.1489 13.3173C11.3979 13.6483 11.3301 14.1182 10.999 14.3672C9.69482 15.3442 7.82715 15.2483 6.64209 14.0643C5.33887 12.7603 5.33496 10.6492 6.64502 9.35223C7.83057 8.15894 9.69873 8.0636 11.0029 9.05426C11.332 9.30426 11.397 9.77521 11.146 10.1052C10.896 10.4352 10.4248 10.4992 10.0947 10.2482C9.37695 9.70221 8.3501 9.76123 7.70605 10.4122L7.70117 10.4172C6.98584 11.1252 6.98291 12.2822 7.70312 13.0032C8.34814 13.6472 9.37891 13.7072 10.0991 13.1672C10.4302 12.9182 10.8999 12.9853 11.1489 13.3173Z" fill="black"/> <path d="M17.6172 10.4133C17.3242 10.7063 16.8501 10.7063 16.5571 10.4133C15.8428 9.69928 14.6841 9.69928 13.9678 10.4133C13.2549 11.1273 13.2539 12.2862 13.9688 13.0012C14.6841 13.7152 15.8428 13.7152 16.5571 13.0012C16.8501 12.7082 17.3242 12.7082 17.6172 13.0012C17.9102 13.2943 17.9102 13.7692 17.6172 14.0623C16.3169 15.3622 14.209 15.3613 12.9082 14.0623C11.6079 12.7612 11.6079 10.6533 12.9082 9.35223C14.209 8.05322 16.3169 8.05225 17.6172 9.35223C17.9102 9.64526 17.9102 10.1202 17.6172 10.4133Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.75 21.5002C6.36816 21.5002 2 17.1323 2 11.7502C2 6.36823 6.36816 2.00024 11.75 2.00024C17.1318 2.00024 21.5 6.36823 21.5 11.7502C21.5 17.1323 17.1318 21.5002 11.75 21.5002ZM3.5 11.7502C3.5 16.3043 7.1958 20.0002 11.75 20.0002C16.3042 20.0002 20 16.3043 20 11.7502C20 7.19623 16.3042 3.50024 11.75 3.50024C7.1958 3.50024 3.5 7.19623 3.5 11.7502Z" fill="black"/> </svg> ',
     category: IconfyCategory.symbols,
     style: IconfyStyle.outline,
@@ -3196,7 +3196,7 @@ class _SymbolsCcEmail11Outline {
 
   /// cc email 11 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'cc email 11',
+    name: 'Cc Email 11',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.0132 13.5903C11.2622 13.9222 11.1948 14.3923 10.8628 14.6403C9.44678 15.7023 7.41797 15.5972 6.13184 14.3112C4.71582 12.8952 4.71191 10.6022 6.13379 9.19421C7.42139 7.89893 9.45117 7.79456 10.8672 8.87024C11.1968 9.12122 11.2607 9.59125 11.0107 9.92126C10.7598 10.2513 10.29 10.3152 9.95996 10.0652C9.12891 9.43323 7.94092 9.50128 7.19482 10.2543L7.18994 10.2603C6.36279 11.0782 6.35986 12.4182 7.19189 13.2512C7.93896 13.9972 9.13086 14.0652 9.96289 13.4402C10.2949 13.1923 10.7651 13.2593 11.0132 13.5903Z" fill="black"/> <path d="M18.208 10.2543C17.915 10.5473 17.4399 10.5473 17.1479 10.2543C16.3218 9.42828 14.981 9.42828 14.1538 10.2543C13.3281 11.0803 13.3281 12.4212 14.1538 13.2482C14.981 14.0743 16.3218 14.0732 17.1479 13.2482C17.4399 12.9552 17.915 12.9552 18.208 13.2482C18.501 13.5402 18.501 14.0152 18.208 14.3082C16.7959 15.7202 14.5059 15.7203 13.0938 14.3093L13.5664 13.8356L13.0928 14.3082C11.6821 12.8952 11.6821 10.6052 13.0928 9.19421L13.624 9.72424L13.0938 9.19324C14.5059 7.78223 16.7959 7.78223 18.208 9.19421C18.501 9.48621 18.501 9.96124 18.208 10.2543Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.63281 3.88525C3.70996 2.73022 5.24512 2.08124 7.06396 2.08124H16.4351C18.2588 2.08124 19.7939 2.73022 20.8701 3.88525C21.9399 5.03528 22.5 6.62524 22.5 8.41626V15.0842C22.5 16.8752 21.9399 18.4652 20.8701 19.6152C19.7939 20.7703 18.2578 21.4193 16.4341 21.4193H7.06396C5.24023 21.4193 3.70508 20.7703 2.62891 19.6152C1.55908 18.4652 1 16.8752 1 15.0842V8.41626C1 6.62427 1.56201 5.03424 2.63281 3.88525ZM3.73096 4.90826C2.96094 5.73328 2.5 6.93524 2.5 8.41626V15.0842C2.5 16.5652 2.95996 17.7682 3.72705 18.5933C4.48877 19.4113 5.61084 19.9193 7.06396 19.9193H16.4341C17.8872 19.9193 19.0098 19.4112 19.772 18.5922C20.54 17.7682 21 16.5652 21 15.0842V8.41626C21 6.93524 20.54 5.73224 19.772 4.90723C19.0098 4.08923 17.8882 3.58124 16.4351 3.58124H7.06396C5.61621 3.58124 4.49414 4.08826 3.73096 4.90826Z" fill="black"/> </svg> ',
     category: IconfyCategory.symbols,
     style: IconfyStyle.outline,
@@ -3495,7 +3495,7 @@ class _SymbolsManWomanLight {
 
   /// Man woman — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Man woman',
+    name: 'Man Woman',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.08367 20.4215V15.5788M6.10152 18.5795H10.0432M4.47267 14.1061C2.50911 12.1426 2.50911 8.95882 4.47267 6.99526C6.43624 5.03169 9.61997 5.03169 11.5835 6.99526C13.5471 8.95882 13.5471 12.1426 11.5835 14.1061C9.61997 16.0707 6.43624 16.0707 4.47267 14.1061Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.0005 3.57849H21.0003M21.0003 3.57849V6.57833M21.0003 3.57849L17.6014 6.97921M9 10.5508C9 7.77374 11.2516 5.52217 14.0286 5.52217C16.8056 5.52217 19.0562 7.77374 19.0562 10.5508C19.0562 13.3278 16.8056 15.5784 14.0286 15.5784C11.2516 15.5784 9 13.3278 9 10.5508Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -3518,7 +3518,7 @@ class _SymbolsManWoman1Light {
 
   /// Man woman 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Man woman 1',
+    name: 'Man Woman 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M8.08367 20.4215V15.5788M6.10152 18.5795H10.0432M4.47267 14.1061C2.50911 12.1426 2.50911 8.95882 4.47267 6.99526C6.43624 5.03169 9.61997 5.03169 11.5835 6.99526C13.5471 8.95882 13.5471 12.1426 11.5835 14.1061C9.61997 16.0707 6.43624 16.0707 4.47267 14.1061Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.0005 3.57849H21.0003M21.0003 3.57849V6.57833M21.0003 3.57849L17.6014 6.97921M9 10.5508C9 7.77374 11.2516 5.52217 14.0286 5.52217C16.8056 5.52217 19.0562 7.77374 19.0562 10.5508C19.0562 13.3278 16.8056 15.5784 14.0286 15.5784C11.2516 15.5784 9 13.3278 9 10.5508Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -3541,7 +3541,7 @@ class _SymbolsManWoman2Twotone {
 
   /// Man woman 2 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Man woman 2',
+    name: 'Man Woman 2',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.42581 11.26C9.59352 11.26 11.3506 13.0171 11.3506 15.1848C11.3506 17.3525 9.59352 19.1096 7.42581 19.1096C5.25713 19.1096 3.5 17.3525 3.5 15.1848C3.5 13.0171 5.25713 11.26 7.42581 11.26ZM7.42581 11.26L7.42596 4.89026M9.89128 7.36639L7.42488 4.89026L4.95751 7.36639" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.5735 18.8682V12.8486M19.5363 16.7023H15.6105M21.5001 8.92435C21.5001 6.75664 19.7429 4.99951 17.5752 4.99951C15.4065 4.99951 13.6494 6.75664 13.6494 8.92435C13.6494 11.0921 15.4065 12.8492 17.5752 12.8492C19.7429 12.8492 21.5001 11.0921 21.5001 8.92435Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -3564,7 +3564,7 @@ class _SymbolsManWoman3Twotone {
 
   /// Man woman 3 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Man woman 3',
+    name: 'Man Woman 3',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.58367 20.4215V15.5788M6.60152 18.5795H10.5432M4.97267 14.1061C3.00911 12.1426 3.00911 8.95882 4.97267 6.99526C6.93624 5.03169 10.12 5.03169 12.0835 6.99526C14.0471 8.95882 14.0471 12.1426 12.0835 14.1061C10.12 16.0707 6.93624 16.0707 4.97267 14.1061Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.5005 3.57849H21.5003M21.5003 3.57849V6.57833M21.5003 3.57849L18.1014 6.97921M9.5 10.5508C9.5 7.77374 11.7516 5.52217 14.5286 5.52217C17.3056 5.52217 19.5562 7.77374 19.5562 10.5508C19.5562 13.3278 17.3056 15.5784 14.5286 15.5784C11.7516 15.5784 9.5 13.3278 9.5 10.5508Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -3587,7 +3587,7 @@ class _SymbolsManWoman4Bold {
 
   /// Man woman 4 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Man woman 4',
+    name: 'Man Woman 4',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.63338 4.18491C7.44576 3.99655 7.19085 3.89065 6.92498 3.89063C6.65912 3.8906 6.40419 3.99644 6.21652 4.18477L3.74915 6.6609C3.35932 7.05212 3.36044 7.68528 3.75166 8.07511C4.14287 8.46495 4.77603 8.46382 5.16587 8.07261L5.9259 7.30987L5.92583 10.3619C3.68462 10.8238 2 12.8076 2 15.1852C2 17.9053 4.20501 20.11 6.92581 20.11C9.6458 20.11 11.8506 17.9052 11.8506 15.1852C11.8506 12.8078 10.1663 10.824 7.92583 10.3619L7.9259 7.3126L8.68279 8.07247C9.07254 8.46376 9.7057 8.46501 10.097 8.07525C10.4883 7.6855 10.4895 7.05233 10.0998 6.66104L7.63338 4.18491ZM12.1494 8.92473C12.1494 6.20457 14.3544 3.99989 17.0752 3.99989C19.7952 3.99989 22 6.20473 22 8.92473C22 11.3027 20.3148 13.2869 18.0734 13.7483V15.7027H19.0362C19.5885 15.7027 20.0362 16.1504 20.0362 16.7027C20.0362 17.255 19.5885 17.7027 19.0362 17.7027H18.0734V18.8685C18.0734 19.4208 17.6257 19.8685 17.0734 19.8685C16.5211 19.8685 16.0734 19.4208 16.0734 18.8685V17.7027H15.1104C14.5581 17.7027 14.1104 17.255 14.1104 16.7027C14.1104 16.1504 14.5581 15.7027 15.1104 15.7027H16.0734V13.7477C13.8331 13.2851 12.1494 11.3017 12.1494 8.92473ZM17.1041 11.8494C17.0939 11.8491 17.0837 11.849 17.0734 11.849C17.0635 11.849 17.0535 11.8491 17.0437 11.8494C15.4416 11.8325 14.1494 10.5295 14.1494 8.92473C14.1494 7.30947 15.4586 5.99989 17.0752 5.99989C18.6906 5.99989 20 7.3093 20 8.92473C20 10.5305 18.7062 11.8339 17.1041 11.8494ZM6.92581 12.2603C5.30925 12.2603 4 13.5699 4 15.1852C4 16.8004 5.30925 18.11 6.92581 18.11C8.54123 18.11 9.85065 16.8006 9.85065 15.1852C9.85065 13.5698 8.54123 12.2603 6.92581 12.2603Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -3610,7 +3610,7 @@ class _SymbolsManWoman5Bold {
 
   /// Man woman 5 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Man woman 5',
+    name: 'Man Woman 5',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.08739 17.5814C7.08739 17.253 7.08739 16.9445 7.08739 16.6359C7.08739 16.5969 7.0826 16.5574 7.0826 16.5592C6.58046 16.395 6.07892 16.2823 5.62173 16.072C3.58682 15.136 2.36982 13.5529 2.06183 11.3293C1.81076 9.51787 2.32848 7.906 3.53888 6.53921C4.53656 5.4127 5.80089 4.75776 7.29831 4.5738C8.58601 4.41561 9.79941 4.6565 10.9409 5.27128C10.9864 5.29585 11.0673 5.29645 11.1141 5.27308C13.2964 4.16215 15.414 4.2712 17.4687 5.60324C17.4848 5.61403 17.5028 5.62242 17.4992 5.62002C17.8504 5.26949 18.1931 4.92614 18.5407 4.5792C18.3717 4.5792 18.1943 4.5792 18.0169 4.5792C17.4591 4.5768 17.0253 4.17054 17.0031 3.62945C16.9803 3.07578 17.3776 2.61559 17.939 2.59043C18.4675 2.56646 18.9972 2.58024 19.5263 2.57904C19.9907 2.57784 20.4551 2.57545 20.9195 2.57964C21.4618 2.58443 21.8477 2.86606 21.9669 3.34243C21.9897 3.43351 21.9975 3.52998 21.9975 3.62406C21.9999 4.59298 22.0017 5.5613 21.9975 6.53022C21.9945 7.24268 21.4001 7.71845 20.7373 7.54648C20.3221 7.43862 20.0159 7.06052 20.0027 6.63148C19.9967 6.43435 20.0015 6.23661 20.0015 6.04965C19.657 6.3942 19.316 6.73395 18.9679 7.08209C19.0769 7.26425 19.2094 7.46918 19.325 7.68309C21.2527 11.2502 19.192 15.6633 15.2174 16.4621C13.7871 16.7497 12.4197 16.5364 11.1308 15.8431C11.0811 15.8161 10.9936 15.8102 10.9457 15.8359C10.3926 16.1337 9.80959 16.3446 9.1954 16.4741C9.15346 16.4831 9.09054 16.5406 9.08994 16.5771C9.08155 16.9061 9.08515 17.2351 9.08515 17.5826C9.41471 17.5826 9.73289 17.5772 10.0505 17.5838C10.4166 17.591 10.706 17.7498 10.8966 18.0638C11.304 18.7361 10.8324 19.5678 10.0361 19.584C9.7275 19.59 9.41831 19.5852 9.09354 19.5852C9.08994 19.6475 9.08515 19.7002 9.08455 19.7529C9.08155 20.0076 9.09294 20.2629 9.07376 20.5163C9.03362 21.0538 8.58481 21.4379 8.03534 21.4205C7.51822 21.4044 7.09877 20.9777 7.08799 20.4498C7.0826 20.1706 7.08679 19.8914 7.08679 19.593C7.02148 19.59 6.96455 19.5864 6.90703 19.5852C6.58286 19.578 6.25569 19.5983 5.93571 19.5594C5.4126 19.4959 5.06986 19.0297 5.1088 18.4886C5.14416 17.9937 5.57079 17.5916 6.07593 17.5838C6.40489 17.5784 6.73446 17.5826 7.08559 17.5826L7.08739 17.5814ZM12.7421 14.3643C14.3414 14.9347 16.3452 14.393 17.4219 12.7236C18.4717 11.0956 18.2099 8.98637 16.7742 7.60999C15.5051 6.393 13.7062 6.33308 12.7529 6.75672C14.5086 9.29317 14.5074 11.82 12.7421 14.3649V14.3643ZM9.31285 6.74713C7.96942 6.23481 5.98365 6.5482 4.78823 8.16186C3.63295 9.7204 3.7516 11.9159 5.13157 13.3522C6.3941 14.6669 8.24266 14.8047 9.30865 14.3523C7.54578 11.8134 7.54818 9.28358 9.31285 6.74713ZM11.0308 7.87664C9.52856 9.50289 9.79401 11.9932 11.0422 13.2204C12.4137 11.7002 12.376 9.3471 11.0308 7.87664Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -3633,7 +3633,7 @@ class _SymbolsManWoman6Bulk {
 
   /// Man woman 6 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Man woman 6',
+    name: 'Man Woman 6',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.63338 4.18491C7.44576 3.99655 7.19085 3.89065 6.92498 3.89063C6.65912 3.8906 6.40419 3.99644 6.21653 4.18477L3.74915 6.6609C3.35932 7.05212 3.36044 7.68528 3.75166 8.07511C4.14287 8.46495 4.77603 8.46382 5.16587 8.07261L5.9259 7.30987L5.92583 10.3619C3.68462 10.8238 2 12.8076 2 15.1852C2 17.9053 4.20501 20.11 6.92581 20.11C9.6458 20.11 11.8506 17.9052 11.8506 15.1852C11.8506 12.8078 10.1663 10.824 7.92583 10.3619L7.9259 7.3126L8.68279 8.07247C9.07254 8.46376 9.7057 8.46501 10.097 8.07525C10.4883 7.6855 10.4895 7.05233 10.0998 6.66104L7.63338 4.18491ZM6.92581 12.2603C5.30925 12.2603 4 13.5699 4 15.1852C4 16.8004 5.30925 18.11 6.92581 18.11C8.54123 18.11 9.85065 16.8006 9.85065 15.1852C9.85065 13.5698 8.54123 12.2603 6.92581 12.2603Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12.1494 8.92484C12.1494 6.20468 14.3544 4 17.0752 4C19.7952 4 22 6.20484 22 8.92484C22 11.3028 20.3148 13.2871 18.0734 13.7485V15.7028H19.0362C19.5885 15.7028 20.0362 16.1505 20.0362 16.7028C20.0362 17.2551 19.5885 17.7028 19.0362 17.7028H18.0734V18.8687C18.0734 19.4209 17.6257 19.8687 17.0734 19.8687C16.5211 19.8687 16.0734 19.4209 16.0734 18.8687V17.7028H15.1104C14.5581 17.7028 14.1104 17.2551 14.1104 16.7028C14.1104 16.1505 14.5581 15.7028 15.1104 15.7028H16.0734V13.7478C13.8331 13.2852 12.1494 11.3018 12.1494 8.92484ZM17.1041 11.8495C17.0939 11.8492 17.0837 11.8491 17.0734 11.8491C17.0635 11.8491 17.0535 11.8492 17.0437 11.8495C15.4416 11.8326 14.1494 10.5296 14.1494 8.92484C14.1494 7.30957 15.4586 6 17.0752 6C18.6906 6 20 7.30941 20 8.92484C20 10.5306 18.7062 11.834 17.1041 11.8495Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -3656,7 +3656,7 @@ class _SymbolsManWoman7Bulk {
 
   /// Man woman 7 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Man woman 7',
+    name: 'Man Woman 7',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M8 4.51953C4.68629 4.51953 2 7.20582 2 10.5195C2 13.5217 4.20489 16.0088 7.08366 16.45V17.5791H6.1015C5.54922 17.5791 5.1015 18.0268 5.1015 18.5791C5.1015 19.1314 5.54922 19.5791 6.1015 19.5791H7.08366V20.4211C7.08366 20.9733 7.53137 21.4211 8.08366 21.4211C8.63594 21.4211 9.08366 20.9733 9.08366 20.4211V19.5791H10.0432C10.5955 19.5791 11.0432 19.1314 11.0432 18.5791C11.0432 18.0268 10.5955 17.5791 10.0432 17.5791H9.08366V16.4219C11.8801 15.9118 14 13.4632 14 10.5195C14 7.20582 11.3137 4.51953 8 4.51953ZM4 10.5195C4 8.31039 5.79086 6.51953 8 6.51953C10.2091 6.51953 12 8.31039 12 10.5195C12 12.7287 10.2091 14.5195 8 14.5195C5.79086 14.5195 4 12.7287 4 10.5195Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.0002 3.57812C17.0002 3.02584 17.4479 2.57812 18.0002 2.57812H21C21.5523 2.57812 22 3.02584 22 3.57812V6.57796C22 7.13025 21.5523 7.57796 21 7.57796C20.4477 7.57796 20 7.13025 20 6.57796V5.99324L18.9395 7.05434C19.6424 8.04043 20.0559 9.24718 20.0559 10.5504C20.0559 13.8797 17.3576 16.578 14.0283 16.578C10.6992 16.578 7.99969 13.8799 7.99969 10.5504C7.99969 7.22109 10.699 4.5218 14.0283 4.5218C15.3323 4.5218 16.5395 4.9359 17.5257 5.63973L18.5867 4.57812H18.0002C17.4479 4.57812 17.0002 4.13041 17.0002 3.57812ZM14.0283 6.5218C11.8036 6.5218 9.99969 8.32566 9.99969 10.5504C9.99969 12.7749 11.8033 14.578 14.0283 14.578C16.253 14.578 18.0559 12.7751 18.0559 10.5504C18.0559 8.32541 16.2528 6.5218 14.0283 6.5218Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -3679,7 +3679,7 @@ class _SymbolsManWoman8Broken {
 
   /// Man woman 8 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Man woman 8',
+    name: 'Man Woman 8',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.92581 19.1114C9.09352 19.1114 10.8506 17.3543 10.8506 15.1866C10.8506 13.0188 9.09352 11.2617 6.92581 11.2617C4.75713 11.2617 3 13.0188 3 15.1866C3 16.4303 3.57849 17.539 4.48129 18.258" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.92533 11.2603L6.92548 4.89062M9.39081 7.36676L6.92441 4.89062L4.45703 7.36676" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0752 5C14.9065 5 13.1494 6.75713 13.1494 8.92484C13.1494 11.0925 14.9065 12.8497 17.0752 12.8497C19.2429 12.8497 21.0001 11.0925 21.0001 8.92484C21.0001 7.77492 20.5056 6.74054 19.7177 6.02271" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0733 18.8672V12.8477M19.0362 16.7014H15.1104" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -3702,7 +3702,7 @@ class _SymbolsManWoman9Broken {
 
   /// Man woman 9 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Man woman 9',
+    name: 'Man Woman 9',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.47267 6.99611C6.43624 5.03255 9.61997 5.03255 11.5835 6.99611C13.5471 8.95967 13.5471 12.1434 11.5835 14.107C9.61997 16.0715 6.43624 16.0715 4.47267 14.107C3.40372 13.038 2.9167 11.6074 3.01161 10.209" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.08372 20.4209V15.5781M6.10156 18.5789H10.0433" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.056 10.552C19.056 7.77502 16.8054 5.52344 14.0283 5.52344C11.2513 5.52344 8.99976 7.77502 8.99976 10.552C8.99976 13.329 11.2513 15.5796 14.0283 15.5796C15.4258 15.5796 16.69 15.0097 17.6011 14.0895" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.0007 3.57812H21.0005M21.0005 3.57812V6.57796M21.0005 3.57812L17.6016 6.97885" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -3725,7 +3725,7 @@ class _SymbolsForbiddenSignLight {
 
   /// Forbidden sign — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Forbidden sign',
+    name: 'Forbidden Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.63574 5.63599L18.3637 18.3639" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.63604 5.63604C9.15076 2.12132 14.8492 2.12132 18.364 5.63604C21.8787 9.15076 21.8787 14.8492 18.364 18.364C14.8492 21.8787 9.15076 21.8787 5.63604 18.364C2.12132 14.8492 2.12132 9.15076 5.63604 5.63604Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -3748,7 +3748,7 @@ class _SymbolsForbiddenSign1Light {
 
   /// Forbidden sign 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Forbidden sign 1',
+    name: 'Forbidden Sign 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.63574 5.63599L18.3637 18.3639" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.63604 5.63604C9.15076 2.12132 14.8492 2.12132 18.364 5.63604C21.8787 9.15076 21.8787 14.8492 18.364 18.364C14.8492 21.8787 9.15076 21.8787 5.63604 18.364C2.12132 14.8492 2.12132 9.15076 5.63604 5.63604Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -3771,7 +3771,7 @@ class _SymbolsForbiddenSign2Twotone {
 
   /// Forbidden sign 2 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Forbidden sign 2',
+    name: 'Forbidden Sign 2',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M18.8643 5.63605L6.13634 18.364" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.864 5.63604C15.3492 2.12132 9.65076 2.12132 6.13604 5.63604C2.62132 9.15076 2.62132 14.8492 6.13604 18.364C9.65076 21.8787 15.3492 21.8787 18.864 18.364C22.3787 14.8492 22.3787 9.15076 18.864 5.63604Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -3794,7 +3794,7 @@ class _SymbolsForbiddenSign3Twotone {
 
   /// Forbidden sign 3 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Forbidden sign 3',
+    name: 'Forbidden Sign 3',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M18.8643 5.63605L6.13634 18.364" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.864 5.63604C15.3492 2.12132 9.65076 2.12132 6.13604 5.63604C2.62132 9.15076 2.62132 14.8492 6.13604 18.364C9.65076 21.8787 15.3492 21.8787 18.864 18.364C22.3787 14.8492 22.3787 9.15076 18.864 5.63604Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -3817,7 +3817,7 @@ class _SymbolsForbiddenSign4Bold {
 
   /// Forbidden sign 4 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Forbidden sign 4',
+    name: 'Forbidden Sign 4',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.5C17.2467 2.5 21.5 6.75329 21.5 12C21.5 17.2467 17.2467 21.5 12 21.5C6.7533 21.5 2.5 17.2467 2.5 12C2.5 6.75329 6.7533 2.5 12 2.5ZM17.335 6.66441C17.7139 7.04329 17.7139 7.65759 17.335 8.03647L8.03588 17.3356C7.657 17.7144 7.04271 17.7144 6.66383 17.3356C6.28494 16.9567 6.28494 16.3424 6.66383 15.9635L15.9629 6.66441C16.3418 6.28553 16.9561 6.28553 17.335 6.66441Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -3840,7 +3840,7 @@ class _SymbolsForbiddenSign5Bold {
 
   /// Forbidden sign 5 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Forbidden sign 5',
+    name: 'Forbidden Sign 5',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.5C6.75329 2.5 2.5 6.75329 2.5 12C2.5 17.2467 6.75329 21.5 12 21.5C17.2467 21.5 21.5 17.2467 21.5 12C21.5 6.75329 17.2467 2.5 12 2.5ZM6.66502 6.66441C6.28614 7.04329 6.28614 7.65759 6.66502 8.03647L15.9641 17.3356C16.343 17.7144 16.9573 17.7144 17.3362 17.3356C17.7151 16.9567 17.7151 16.3424 17.3362 15.9635L8.03708 6.66441C7.6582 6.28553 7.0439 6.28553 6.66502 6.66441Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -3863,7 +3863,7 @@ class _SymbolsForbiddenSign6Bulk {
 
   /// Forbidden sign 6 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Forbidden sign 6',
+    name: 'Forbidden Sign 6',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.5 12C21.5 6.75329 17.2467 2.5 12 2.5C6.7533 2.5 2.5 6.75329 2.5 12C2.5 17.2467 6.7533 21.5 12 21.5C17.2467 21.5 21.5 17.2467 21.5 12Z" fill="black"/> <path d="M17.335 8.03708C17.7139 7.6582 17.7139 7.04391 17.335 6.66502C16.9561 6.28614 16.3418 6.28614 15.9629 6.66502L6.66383 15.9641C6.28494 16.343 6.28494 16.9573 6.66383 17.3362C7.04271 17.7151 7.657 17.7151 8.03588 17.3362L17.335 8.03708Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -3886,7 +3886,7 @@ class _SymbolsForbiddenSign7Bulk {
 
   /// Forbidden sign 7 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Forbidden sign 7',
+    name: 'Forbidden Sign 7',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M21.5 12C21.5 6.75329 17.2467 2.5 12 2.5C6.7533 2.5 2.5 6.75329 2.5 12C2.5 17.2467 6.7533 21.5 12 21.5C17.2467 21.5 21.5 17.2467 21.5 12Z" fill="black"/> <path d="M17.335 8.03708C17.7139 7.6582 17.7139 7.04391 17.335 6.66502C16.9561 6.28614 16.3418 6.28614 15.9629 6.66502L6.66383 15.9641C6.28494 16.343 6.28494 16.9573 6.66383 17.3362C7.04271 17.7151 7.657 17.7151 8.03588 17.3362L17.335 8.03708Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -3909,7 +3909,7 @@ class _SymbolsForbiddenSign8Broken {
 
   /// Forbidden sign 8 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Forbidden sign 8',
+    name: 'Forbidden Sign 8',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C7.02908 21 3 16.9709 3 12C3 7.03005 7.02908 3 12 3C16.9709 3 21 7.03005 21 12C21 15.3619 19.1571 18.293 16.4263 19.8383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.364 5.63672L5.63609 18.3646" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -3932,7 +3932,7 @@ class _SymbolsForbiddenSign9Broken {
 
   /// Forbidden sign 9 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Forbidden sign 9',
+    name: 'Forbidden Sign 9',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9709 21 12C21 7.03005 16.9709 3 12 3C7.02908 3 3 7.03005 3 12C3 15.3619 4.84292 18.293 7.57373 19.8383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.63599 5.63672L18.3639 18.3646" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -3955,7 +3955,7 @@ class _SymbolsForbiddenSign10Outline {
 
   /// Forbidden sign 10 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Forbidden sign 10',
+    name: 'Forbidden Sign 10',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.6439 4.85603C14.8368 1.04799 8.66296 1.04799 4.85583 4.85603C1.04773 8.66304 1.04773 14.837 4.85583 18.644C8.66296 22.452 14.8368 22.452 18.6439 18.644C22.452 14.837 22.452 8.66304 18.6439 4.85603ZM18.0902 6.46986C20.7953 9.71126 20.6263 14.5407 17.5839 17.584C14.5404 20.6264 9.7113 20.7951 6.4696 18.0902L18.0902 6.46986ZM5.40955 17.0302C2.70447 13.7887 2.87341 8.9593 5.91589 5.91603C8.95935 2.87367 13.7885 2.70491 17.0302 5.40987L5.40955 17.0302Z" fill="black"/> </svg> ',
     category: IconfyCategory.symbols,
     style: IconfyStyle.outline,
@@ -3978,7 +3978,7 @@ class _SymbolsForbiddenSign11Outline {
 
   /// Forbidden sign 11 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Forbidden sign 11',
+    name: 'Forbidden Sign 11',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.85608 4.85603C8.66321 1.04799 14.837 1.04799 18.6442 4.85603C22.4523 8.66304 22.4523 14.837 18.6442 18.644C14.837 22.452 8.66321 22.452 4.85608 18.644C1.04797 14.837 1.04797 8.66304 4.85608 4.85603ZM5.40979 6.46986C2.70471 9.71126 2.87366 14.5407 5.91614 17.584C8.95959 20.6264 13.7887 20.7951 17.0304 18.0902L5.40979 6.46986ZM18.0905 17.0302C20.7955 13.7887 20.6266 8.9593 17.5841 5.91603C14.5406 2.87367 9.71155 2.70491 6.46985 5.40987L18.0905 17.0302Z" fill="black"/> </svg> ',
     category: IconfyCategory.symbols,
     style: IconfyStyle.outline,
@@ -4011,7 +4011,7 @@ class _SymbolsHelpSignBulk {
 
   /// Help sign — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Help sign',
+    name: 'Help Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path d="M17.4014 5.5381C17.8139 5.12573 17.7894 4.44474 17.3058 4.11858C15.7907 3.09661 13.965 2.5 12 2.5C10.0349 2.5 8.20916 3.09665 6.69405 4.11868C6.21051 4.44485 6.18599 5.12583 6.59849 5.5382L8.49671 7.43582C8.50498 7.44409 8.51303 7.45251 8.52083 7.46107L9.13989 8.08013C9.48 8.42024 10.0101 8.45654 10.4543 8.27217C10.9303 8.07462 11.4523 7.96558 11.9998 7.96558C12.5473 7.96558 13.0693 8.07464 13.5453 8.27222C13.9896 8.45662 14.5197 8.42033 14.8598 8.08021L15.4789 7.46109C15.4867 7.45253 15.4948 7.4441 15.5031 7.43582L17.4014 5.5381Z" fill="black"/> <path d="M17.6341 19.6498C17.9291 19.4321 17.9448 19.0053 17.6856 18.7461L17.6768 18.7374L14.8594 15.92C14.5193 15.5799 13.9892 15.5436 13.545 15.7279C13.0691 15.9254 12.5471 16.0344 11.9998 16.0344C11.4526 16.0344 10.9309 15.9255 10.4551 15.7282C10.011 15.5439 9.48102 15.5803 9.14098 15.9203L8.50675 16.5546L8.49803 16.5634L6.59909 18.4624C6.18668 18.8748 6.21128 19.5557 6.69483 19.8818C8.20979 20.9036 10.0352 21.5 12 21.5C14.1091 21.5 16.0578 20.8127 17.6341 19.6498Z" fill="black"/> </g> <path d="M18.5503 17.3133C18.9627 17.7258 19.6437 17.7013 19.9699 17.2178C20.9918 15.7027 21.5884 13.877 21.5884 11.912C21.5884 9.94686 20.9918 8.12111 19.9698 6.606C19.6436 6.12247 18.9626 6.09795 18.5502 6.51044L16.6526 8.40866C16.6443 8.41694 16.6359 8.42498 16.6274 8.43279L16.0083 9.05185C15.6682 9.39196 15.6319 9.92204 15.8163 10.3663C16.0138 10.8423 16.1229 11.3643 16.1229 11.9117C16.1229 12.4592 16.0138 12.9813 15.8162 13.4573C15.6318 13.9015 15.6681 14.4316 16.0082 14.7718L16.6274 15.3909C16.6359 15.3987 16.6443 15.4067 16.6526 15.415L18.5503 17.3133Z" fill="black"/> <path d="M4.43866 17.546C4.65631 17.841 5.08314 17.8568 5.34238 17.5976L5.35104 17.5888L8.16847 14.7713C8.50856 14.4312 8.54487 13.9012 8.36053 13.457C8.16303 12.981 8.05402 12.4591 8.05402 11.9117C8.05402 11.3646 8.16293 10.8429 8.36027 10.3671C8.5445 9.92291 8.50814 9.39298 8.1681 9.05294L7.53387 8.41871L7.525 8.40998L5.62606 6.51105C5.21365 6.09863 4.5327 6.12323 4.20659 6.60679C3.18488 8.12174 2.58844 9.9472 2.58844 11.912C2.58844 14.0211 3.27577 15.9697 4.43866 17.546Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -4026,7 +4026,7 @@ class _SymbolsHelpSignBroken {
 
   /// Help sign — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Help sign',
+    name: 'Help Sign',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.75 21C7.77908 21 3.75 16.9699 3.75 12C3.75 7.02908 7.77908 3 12.75 3C17.7209 3 21.75 7.02908 21.75 12C21.75 15.7093 19.5056 18.8951 16.3004 20.2726" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.4627 8.17578C9.86533 8.7126 8.71484 10.222 8.71484 12.0004C8.71484 14.2285 10.5207 16.0344 12.7488 16.0344C14.9769 16.0344 16.7837 14.2285 16.7837 12.0004C16.7837 10.2955 15.7257 8.83777 14.2306 8.24724" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.6477 15.1027L8.09581 16.6546M18.9575 18.2065L15.8537 15.1027M9.64675 8.89578L6.54297 5.79297M15.8537 8.89578L18.9575 5.79297" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -4041,7 +4041,7 @@ class _SymbolsHelpSignTwotone {
 
   /// Help sign — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Help sign',
+    name: 'Help Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0337 11.9995C16.0337 14.2276 14.2269 16.0335 11.9988 16.0335C9.77068 16.0335 7.96484 14.2276 7.96484 11.9995C7.96484 9.77141 9.77068 7.96558 11.9988 7.96558C14.2269 7.96558 16.0337 9.77141 16.0337 11.9995Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M5.79392 18.2071L8.8977 15.1033M18.2075 18.2071L15.1037 15.1033M8.89675 8.89633L5.79297 5.79352M15.1037 8.89633L18.2075 5.79352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -4056,7 +4056,7 @@ class _SymbolsHelpSignOutline {
 
   /// Help sign — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Help sign',
+    name: 'Help Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5558 7.44335 20.25 12 20.25C16.5567 20.25 20.25 16.5558 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3841 17.3852 21.75 12 21.75C6.61481 21.75 2.25 17.3841 2.25 12Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9988 8.71558C10.1849 8.71558 8.71484 10.1856 8.71484 11.9995C8.71484 13.8134 10.1849 15.2835 11.9988 15.2835C13.8129 15.2835 15.2837 13.8132 15.2837 11.9995C15.2837 10.1859 13.8129 8.71558 11.9988 8.71558ZM7.21484 11.9995C7.21484 9.3572 9.35647 7.21558 11.9988 7.21558C14.6409 7.21558 16.7837 9.35697 16.7837 11.9995C16.7837 14.6421 14.6409 16.7835 11.9988 16.7835C9.35647 16.7835 7.21484 14.6418 7.21484 11.9995Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.26256 5.26327C5.5554 4.97033 6.03028 4.97026 6.32322 5.2631L9.427 8.36592C9.71994 8.65876 9.72001 9.13364 9.42717 9.42658C9.13432 9.71952 8.65944 9.71959 8.36651 9.42674L5.26272 6.32393C4.96978 6.03108 4.96971 5.55621 5.26256 5.26327ZM18.7379 5.26327C19.0307 5.55621 19.0306 6.03108 18.7377 6.32393L15.6339 9.42674C15.341 9.71959 14.8661 9.71952 14.5733 9.42658C14.2804 9.13364 14.2805 8.65876 14.5734 8.36592L17.6772 5.2631C17.9702 4.97026 18.445 4.97033 18.7379 5.26327ZM9.42803 14.5729C9.72093 14.8658 9.72093 15.3407 9.42803 15.6336L6.32425 18.7374C6.03136 19.0303 5.55648 19.0303 5.26359 18.7374C4.9707 18.4445 4.9707 17.9696 5.26359 17.6767L8.36737 14.5729C8.66027 14.2801 9.13514 14.2801 9.42803 14.5729ZM14.5733 14.5729C14.8662 14.2801 15.3411 14.2801 15.634 14.5729L18.7378 17.6767C19.0307 17.9696 19.0307 18.4445 18.7378 18.7374C18.4449 19.0303 17.97 19.0303 17.6771 18.7374L14.5733 15.6336C14.2805 15.3407 14.2805 14.8658 14.5733 14.5729Z" fill="black"/> </svg> ',
     category: IconfyCategory.symbols,
     style: IconfyStyle.outline,
@@ -4071,7 +4071,7 @@ class _SymbolsHelpSignBold {
 
   /// Help sign — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Help sign',
+    name: 'Help Sign',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.8057 4.11858C18.2892 4.44474 18.3137 5.12573 17.9012 5.5381L16.0029 7.43582C15.9946 7.4441 15.9866 7.45253 15.9788 7.46109L15.3596 8.08021C15.0195 8.42033 14.4894 8.45662 14.0452 8.27222C13.5691 8.07464 13.0471 7.96558 12.4996 7.96558C11.9521 7.96558 11.4302 8.07462 10.9542 8.27217C10.5099 8.45654 9.97985 8.42024 9.63974 8.08013L9.02068 7.46107C9.01287 7.45251 9.00483 7.44409 8.99655 7.43582L7.09834 5.5382C6.68584 5.12583 6.71036 4.44485 7.19389 4.11868C8.70901 3.09665 10.5347 2.5 12.4998 2.5C14.4649 2.5 16.2906 3.09661 17.8057 4.11858Z" fill="black"/> <path d="M18.1854 18.7461C18.4447 19.0053 18.4289 19.4321 18.1339 19.6498C16.5576 20.8127 14.609 21.5 12.4998 21.5C10.5351 21.5 8.70964 20.9036 7.19468 19.8818C6.71113 19.5557 6.68652 18.8748 7.09894 18.4624L8.99787 16.5634L9.0066 16.5546L9.64083 15.9203C9.98087 15.5803 10.5108 15.5439 10.955 15.7282C11.4308 15.9255 11.9525 16.0344 12.4996 16.0344C13.047 16.0344 13.5689 15.9254 14.0448 15.7279C14.4891 15.5436 15.0191 15.5799 15.3592 15.92L18.1766 18.7374L18.1854 18.7461Z" fill="black"/> <path d="M20.4703 17.2172C20.1441 17.7008 19.4631 17.7253 19.0508 17.3128L17.153 15.4145C17.1448 15.4062 17.1363 15.3981 17.1278 15.3903L16.5087 14.7712C16.1685 14.4311 16.1322 13.901 16.3166 13.4567C16.5142 12.9807 16.6233 12.4587 16.6233 11.9112C16.6233 11.3637 16.5142 10.8417 16.3167 10.3657C16.1323 9.92149 16.1686 9.39141 16.5087 9.0513L17.1278 8.43224C17.1364 8.42443 17.1448 8.41639 17.153 8.40811L19.0507 6.5099C19.463 6.0974 20.144 6.12192 20.4702 6.60545C21.4922 8.12057 22.0889 9.94631 22.0889 11.9114C22.0889 13.8764 21.4923 15.7021 20.4703 17.2172Z" fill="black"/> <path d="M5.84281 17.597C5.58357 17.8562 5.15674 17.8405 4.93909 17.5455C3.7762 15.9692 3.08887 14.0206 3.08887 11.9114C3.08887 9.94665 3.68531 8.12119 4.70702 6.60624C5.03313 6.12269 5.71408 6.09808 6.12649 6.5105L8.02543 8.40943L8.0343 8.41816L8.66853 9.05239C9.00857 9.39243 9.04493 9.92236 8.86069 10.3666C8.66336 10.8423 8.55444 11.364 8.55444 11.9112C8.55444 12.4585 8.66346 12.9805 8.86096 13.4564C9.0453 13.9006 9.00898 14.4307 8.66889 14.7708L5.85146 17.5882L5.84281 17.597Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -4086,7 +4086,7 @@ class _SymbolsHelpSignLight {
 
   /// Help sign — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Help sign',
+    name: 'Help Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C16.9709 21 21 16.9699 21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.0337 11.9995C16.0337 14.2276 14.2269 16.0335 11.9988 16.0335C9.77068 16.0335 7.96484 14.2276 7.96484 11.9995C7.96484 9.77141 9.77068 7.96558 11.9988 7.96558C14.2269 7.96558 16.0337 9.77141 16.0337 11.9995Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.79392 18.2071L8.8977 15.1033M18.2075 18.2071L15.1037 15.1033M8.89675 8.89633L5.79297 5.79352M15.1037 8.89633L18.2075 5.79352" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -4109,7 +4109,7 @@ class _SymbolsOnBulk {
 
   /// ON — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'ON',
+    name: 'On',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M2.81151 4.72362C3.67224 3.80001 4.90206 3.27734 6.36865 3.27734H17.6303C19.1003 3.27734 20.3306 3.79981 21.1909 4.72379C22.0475 5.64374 22.5 6.92109 22.5 8.36978V15.6292C22.5 17.0779 22.0475 18.3553 21.1908 19.2753C20.3303 20.1992 19.0997 20.7217 17.6292 20.7217H6.36865C4.89858 20.7217 3.6685 20.1992 2.80846 19.2752C1.95219 18.3552 1.5 17.0778 1.5 15.6292V8.36978C1.5 6.92059 1.95443 5.64332 2.81151 4.72362Z" fill="black"/> <path d="M17.1664 8.8418C17.5807 8.8418 17.9164 9.17758 17.9164 9.5918V14.2123C17.9164 14.5344 17.7108 14.8206 17.4055 14.9232C17.1002 15.0259 16.7635 14.9222 16.5688 14.6655L14.511 11.9518V14.3464C14.511 14.7606 14.1753 15.0964 13.761 15.0964C13.3468 15.0964 13.011 14.7606 13.011 14.3464V9.72153C13.011 9.39943 13.2167 9.11331 13.522 9.01064C13.8273 8.90798 14.164 9.01171 14.3586 9.26836L16.4164 11.982V9.5918C16.4164 9.17758 16.7522 8.8418 17.1664 8.8418Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.08325 12.0025C6.08325 10.3475 7.28362 8.84708 8.95866 8.84708C10.6337 8.84708 11.8341 10.3475 11.8341 12.0025C11.8341 13.6575 10.6337 15.1579 8.95866 15.1579C7.28362 15.1579 6.08325 13.6575 6.08325 12.0025ZM8.95866 10.347C8.28126 10.347 7.58325 10.9959 7.58325 12.0025C7.58325 13.009 8.28126 13.6579 8.95866 13.6579C9.63605 13.6579 10.3341 13.009 10.3341 12.0025C10.3341 10.9959 9.63605 10.347 8.95866 10.347Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -4140,7 +4140,7 @@ class _SymbolsFemaleWomanBulk {
 
   /// Female woman — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Female woman',
+    name: 'Female Woman',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.1767 10.9722C6.1767 7.15563 9.27091 4.06055 13.0883 4.06055C16.9058 4.06055 20 7.15563 20 10.9722C20 14.7896 16.9058 17.8838 13.0883 17.8838C9.27091 17.8838 6.1767 14.7896 6.1767 10.9722Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M8.84964 15.0898C9.24012 15.4804 9.24006 16.1136 8.84949 16.5041L6.98415 18.369L7.7432 19.1283C8.13367 19.5189 8.13357 20.152 7.74299 20.5425C7.35241 20.933 6.71925 20.9329 6.32878 20.5423L5.56978 19.7831L4.70703 20.6456C4.31647 21.0361 3.6833 21.0361 3.29282 20.6455C2.90234 20.2549 2.9024 19.6218 3.29297 19.2313L4.15578 18.3686L3.3949 17.6075C3.00443 17.217 3.00453 16.5838 3.39511 16.1933C3.78569 15.8029 4.41886 15.803 4.80932 16.1935L5.57014 16.9546L7.43542 15.0897C7.82599 14.6992 8.45916 14.6993 8.84964 15.0898Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -4155,7 +4155,7 @@ class _SymbolsFemaleWomanBroken {
 
   /// Female woman — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Female woman',
+    name: 'Female Woman',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.0884 4.0625C9.27097 4.0625 6.17676 7.15758 6.17676 10.9741C6.17676 14.7916 9.27097 17.8858 13.0884 17.8858C16.9058 17.8858 20.0001 14.7916 20.0001 10.9741C20.0001 8.53822 18.7396 6.3962 16.8351 5.16523" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4 19.9385L8.14246 15.7969M4.10211 16.9005L7.03599 19.8353" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -4170,7 +4170,7 @@ class _SymbolsFemaleWomanTwotone {
 
   /// Female woman — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Female woman',
+    name: 'Female Woman',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M6.67676 10.9723C6.67676 7.15575 9.77097 4.06067 13.5884 4.06067C17.4058 4.06067 20.5001 7.15575 20.5001 10.9723C20.5001 14.7898 17.4058 17.884 13.5884 17.884C9.77097 17.884 6.67676 14.7898 6.67676 10.9723Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.5 19.9392L8.64246 15.7976M4.60211 16.9013L7.53599 19.836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -4185,7 +4185,7 @@ class _SymbolsFemaleWomanBold {
 
   /// Female woman — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Female woman',
+    name: 'Female Woman',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0884 5.06055C9.82328 5.06055 7.1767 7.70783 7.1767 10.9722C7.1767 12.5578 7.80078 13.9975 8.81673 15.0591C8.82788 15.0692 8.83885 15.0797 8.84964 15.0905C8.86631 15.1072 8.88227 15.1243 8.89752 15.1419C9.96812 16.2178 11.4504 16.8838 13.0884 16.8838C16.3535 16.8838 19 14.2373 19 10.9722C19 7.70783 16.3534 5.06055 13.0884 5.06055ZM8.17795 17.1761C9.52705 18.2454 11.2331 18.8838 13.0884 18.8838C17.4581 18.8838 21 15.3419 21 10.9722C21 6.60342 17.4582 3.06055 13.0884 3.06055C8.71855 3.06055 5.1767 6.60342 5.1767 10.9722C5.1767 12.7657 5.77336 14.4197 6.77902 15.7466L5.57014 16.9553L4.80932 16.1942C4.41886 15.8036 3.78569 15.8036 3.39511 16.194C3.00453 16.5845 3.00443 17.2177 3.3949 17.6082L4.15578 18.3693L3.29297 19.232C2.9024 19.6225 2.90234 20.2556 3.29282 20.6462C3.6833 21.0367 4.31647 21.0368 4.70703 20.6463L5.56978 19.7838L6.32878 20.543C6.71924 20.9336 7.35241 20.9337 7.74299 20.5432C8.13357 20.1527 8.13367 19.5196 7.7432 19.129L6.98415 18.3697L8.17795 17.1761Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -4200,7 +4200,7 @@ class _SymbolsFemaleWomanLight {
 
   /// Female woman — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Female woman',
+    name: 'Female Woman',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.17676 10.9723C6.17676 7.15575 9.27097 4.06067 13.0884 4.06067C16.9058 4.06067 20.0001 7.15575 20.0001 10.9723C20.0001 14.7898 16.9058 17.884 13.0884 17.884C9.27097 17.884 6.17676 14.7898 6.17676 10.9723Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4 19.9392L8.14246 15.7976M4.10211 16.9013L7.03599 19.836" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -4223,7 +4223,7 @@ class _SymbolsStairsAscendLight {
 
   /// Stairs ascend — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Stairs ascend',
+    name: 'Stairs Ascend',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 5.25024L16.9552 5.25024C16.6961 5.25024 16.4861 5.46026 16.4861 5.71933V9.25612C16.4861 9.51518 16.2761 9.7252 16.017 9.7252H12.4412C12.1822 9.7252 11.9721 9.93522 11.9721 10.1943V13.8802C11.9721 14.1393 11.7621 14.3493 11.5031 14.3493H7.92729C7.66822 14.3493 7.4582 14.5593 7.4582 14.8184L7.45821 18.2806C7.45821 18.5397 7.24819 18.7497 6.98912 18.7497H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.92066 5.25024L3 10.1696M7.92066 5.25024L7.91584 8.36702M7.92066 5.25024L4.80558 5.25677" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -4246,7 +4246,7 @@ class _SymbolsStairsAscend1Light {
 
   /// Stairs ascend 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Stairs ascend 1',
+    name: 'Stairs Ascend 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 5.25024L16.9552 5.25024C16.6961 5.25024 16.4861 5.46026 16.4861 5.71933V9.25612C16.4861 9.51518 16.2761 9.7252 16.017 9.7252H12.4412C12.1822 9.7252 11.9721 9.93522 11.9721 10.1943V13.8802C11.9721 14.1393 11.7621 14.3493 11.5031 14.3493H7.92729C7.66822 14.3493 7.4582 14.5593 7.4582 14.8184L7.45821 18.2806C7.45821 18.5397 7.24819 18.7497 6.98912 18.7497H3" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.92066 5.25024L3 10.1696M7.92066 5.25024L7.91584 8.36702M7.92066 5.25024L4.80558 5.25677" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -4269,7 +4269,7 @@ class _SymbolsStairsAscend2Twotone {
 
   /// Stairs ascend 2 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Stairs ascend 2',
+    name: 'Stairs Ascend 2',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 5.25024L17.4552 5.25024C17.1961 5.25024 16.9861 5.46026 16.9861 5.71933V9.25612C16.9861 9.51518 16.7761 9.7252 16.517 9.7252H12.9412C12.6822 9.7252 12.4721 9.93522 12.4721 10.1943V13.8802C12.4721 14.1393 12.2621 14.3493 12.0031 14.3493H8.42729C8.16822 14.3493 7.9582 14.5593 7.9582 14.8184L7.95821 18.2806C7.95821 18.5397 7.74819 18.7497 7.48912 18.7497H3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.42066 5.25024L3.5 10.1696M8.42066 5.25024L8.41584 8.36702M8.42066 5.25024L5.30558 5.25677" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -4292,7 +4292,7 @@ class _SymbolsStairsAscend3Twotone {
 
   /// Stairs ascend 3 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Stairs ascend 3',
+    name: 'Stairs Ascend 3',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 5.25024L17.4552 5.25024C17.1961 5.25024 16.9861 5.46026 16.9861 5.71933V9.25612C16.9861 9.51518 16.7761 9.7252 16.517 9.7252H12.9412C12.6822 9.7252 12.4721 9.93522 12.4721 10.1943V13.8802C12.4721 14.1393 12.2621 14.3493 12.0031 14.3493H8.42729C8.16822 14.3493 7.9582 14.5593 7.9582 14.8184L7.95821 18.2806C7.95821 18.5397 7.74819 18.7497 7.48912 18.7497H3.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.42066 5.25024L3.5 10.1696M8.42066 5.25024L8.41584 8.36702M8.42066 5.25024L5.30558 5.25677" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -4315,7 +4315,7 @@ class _SymbolsStairsAscend4Bold {
 
   /// Stairs ascend 4 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Stairs ascend 4',
+    name: 'Stairs Ascend 4',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.04485 19.4995C7.71813 19.4995 8.26393 18.9536 8.26393 18.2804V16.0245H11.5588C12.2321 16.0245 12.7779 15.4787 12.7779 14.8054V12.4004H16.0727C16.746 12.4004 17.2918 11.8546 17.2918 11.1813V9H20.5C21.1904 9 21.75 8.44036 21.75 7.75V5.75C21.75 5.05964 21.1904 4.5 20.5 4.5H4.5C3.80964 4.5 3.25 5.05964 3.25 5.75V18.2495C3.25 18.9398 3.80964 19.4995 4.5 19.4995H7.04485ZM15.5492 19.2799C15.4081 19.139 15.329 18.9477 15.3293 18.7483L15.3342 15.6315C15.3348 15.2173 15.6711 14.882 16.0853 14.8827C16.4995 14.8833 16.8348 15.2196 16.8342 15.6338L16.8321 16.9363L20.4697 13.2997C20.7627 13.0068 21.2375 13.0069 21.5304 13.2998C21.8233 13.5927 21.8232 14.0676 21.5303 14.3605L17.8941 17.9956L19.1928 17.9929C19.6071 17.9921 19.9435 18.3271 19.9444 18.7414C19.9453 19.1556 19.6102 19.4921 19.196 19.4929L16.0809 19.4994C15.8815 19.4999 15.6902 19.4209 15.5492 19.2799Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -4338,7 +4338,7 @@ class _SymbolsStairsAscend5Bold {
 
   /// Stairs ascend 5 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Stairs ascend 5',
+    name: 'Stairs Ascend 5',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.04485 19.4995C7.71813 19.4995 8.26393 18.9536 8.26393 18.2804V16.0245H11.5588C12.2321 16.0245 12.7779 15.4787 12.7779 14.8054V12.4004H16.0727C16.746 12.4004 17.2918 11.8546 17.2918 11.1813V9H20.5C21.1904 9 21.75 8.44036 21.75 7.75V5.75C21.75 5.05964 21.1904 4.5 20.5 4.5H4.5C3.80964 4.5 3.25 5.05964 3.25 5.75V18.2495C3.25 18.9398 3.80964 19.4995 4.5 19.4995H7.04485ZM15.5492 19.2799C15.4081 19.139 15.329 18.9477 15.3293 18.7483L15.3342 15.6315C15.3348 15.2173 15.6711 14.882 16.0853 14.8827C16.4995 14.8833 16.8348 15.2196 16.8342 15.6338L16.8321 16.9363L20.4697 13.2997C20.7627 13.0068 21.2375 13.0069 21.5304 13.2998C21.8233 13.5927 21.8232 14.0676 21.5303 14.3605L17.8941 17.9956L19.1928 17.9929C19.6071 17.9921 19.9435 18.3271 19.9444 18.7414C19.9453 19.1556 19.6102 19.4921 19.196 19.4929L16.0809 19.4994C15.8815 19.4999 15.6902 19.4209 15.5492 19.2799Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -4361,7 +4361,7 @@ class _SymbolsStairsAscend6Bulk {
 
   /// Stairs ascend 6 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Stairs ascend 6',
+    name: 'Stairs Ascend 6',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M15.7361 5.71909C15.7361 5.04581 16.2819 4.5 16.9552 4.5H19.5C20.1904 4.5 20.75 5.05964 20.75 5.75V18.2495C20.75 18.9398 20.1904 19.4995 19.5 19.4995H3.5C2.80964 19.4995 2.25 18.9398 2.25 18.2495V16.2495C2.25 15.5591 2.80964 14.9995 3.5 14.9995H6.7082L6.7082 12.8182C6.7082 12.1449 7.25401 11.5991 7.92729 11.5991H11.2221V9.19404C11.2221 8.52076 11.7679 7.97496 12.4412 7.97496H15.7361V5.71909Z" fill="black"/> <path d="M8.67066 5.25116C8.67097 5.05178 8.59187 4.86047 8.45084 4.71953C8.30982 4.57858 8.11847 4.49959 7.91909 4.5L4.80401 4.50653C4.3898 4.5074 4.05472 4.84388 4.05558 5.2581C4.05645 5.67231 4.39294 6.00739 4.80715 6.00652L6.10587 6.0038L2.46974 9.63899C2.17681 9.93185 2.17675 10.4067 2.4696 10.6997C2.76246 10.9926 3.23733 10.9926 3.53026 10.6998L7.16785 7.06314L7.16584 8.36562C7.1652 8.77983 7.50046 9.11614 7.91468 9.11678C8.32889 9.11742 8.6652 8.78216 8.66584 8.36794L8.67066 5.25116Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -4384,7 +4384,7 @@ class _SymbolsStairsAscend7Bulk {
 
   /// Stairs ascend 7 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Stairs ascend 7',
+    name: 'Stairs Ascend 7',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.26393 18.2804C8.26393 18.9536 7.71813 19.4995 7.04485 19.4995H4.5C3.80964 19.4995 3.25 18.9398 3.25 18.2495V5.75C3.25 5.05964 3.80964 4.5 4.5 4.5H20.5C21.1904 4.5 21.75 5.05964 21.75 5.75V7.75C21.75 8.44036 21.1904 9 20.5 9H17.2918V11.1813C17.2918 11.8546 16.746 12.4004 16.0727 12.4004H12.7779V14.8054C12.7779 15.4787 12.2321 16.0245 11.5588 16.0245H8.26393V18.2804Z" fill="black"/> <path d="M15.3293 18.7488C15.329 18.9482 15.4081 19.1395 15.5492 19.2805C15.6902 19.4214 15.8815 19.5004 16.0809 19.5L19.196 19.4935C19.6102 19.4926 19.9453 19.1561 19.9444 18.7419C19.9435 18.3277 19.6071 17.9926 19.1928 17.9935L17.8941 17.9962L21.5303 14.361C21.8232 14.0682 21.8233 13.5933 21.5304 13.3003C21.2375 13.0074 20.7627 13.0074 20.4697 13.3002L16.8321 16.9369L16.8342 15.6344C16.8348 15.2202 16.4995 14.8839 16.0853 14.8832C15.6711 14.8826 15.3348 15.2178 15.3342 15.6321L15.3293 18.7488Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -4407,7 +4407,7 @@ class _SymbolsStairsAscend8Broken {
 
   /// Stairs ascend 8 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Stairs ascend 8',
+    name: 'Stairs Ascend 8',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0298 9.65H16.0698C16.3298 9.65 16.5398 9.44 16.5398 9.18V5.72C16.5398 5.46 16.7498 5.25 17.0098 5.25H20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 18.7481H7.04C7.3 18.7481 7.51 18.5381 7.51 18.2781V14.7381C7.51 14.4781 7.72 14.2681 7.98 14.2681H11.56C11.82 14.2681 12.03 14.0581 12.03 13.7981V12.5781" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0801 18.7481L21.0001 13.8281M16.0801 18.7481V15.6281M16.0801 18.7481H19.2001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -4430,7 +4430,7 @@ class _SymbolsStairsAscend9Broken {
 
   /// Stairs ascend 9 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Stairs ascend 9',
+    name: 'Stairs Ascend 9',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0298 9.65H16.0698C16.3298 9.65 16.5398 9.44 16.5398 9.18V5.72C16.5398 5.46 16.7498 5.25 17.0098 5.25H20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 18.7481H7.04C7.3 18.7481 7.51 18.5381 7.51 18.2781V14.7381C7.51 14.4781 7.72 14.2681 7.98 14.2681H11.56C11.82 14.2681 12.03 14.0581 12.03 13.7981V12.5781" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0801 18.7481L21.0001 13.8281M16.0801 18.7481V15.6281M16.0801 18.7481H19.2001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -4453,7 +4453,7 @@ class _SymbolsStairsAscend10Outline {
 
   /// Stairs ascend 10 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Stairs ascend 10',
+    name: 'Stairs Ascend 10',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.4453 4.94299C21.4453 5.35699 21.1094 5.69299 20.6953 5.69299H16.9448V8.93597C16.9448 9.60895 16.3999 10.154 15.7275 10.154H12.4448V13.546C12.4448 14.219 11.8994 14.764 11.2271 14.764H7.94482V17.933C7.94482 18.606 7.39941 19.151 6.72705 19.151H2.75C2.33594 19.151 2 18.815 2 18.401C2 18.1248 2.14941 17.8834 2.37207 17.7532C2.48291 17.6882 2.6123 17.651 2.75 17.651H6.44482V14.482C6.44482 13.809 6.98975 13.264 7.66211 13.264H10.9448V9.87201C10.9448 9.19904 11.4897 8.65399 12.1626 8.65399H15.4448V5.40997C15.4448 4.73798 15.9902 4.19299 16.6626 4.19299H20.6953C21.1094 4.19299 21.4453 4.52899 21.4453 4.94299Z" fill="black"/> <path d="M15.314 18.795C15.1729 18.654 15.0938 18.463 15.0942 18.264L15.0991 15.156C15.0996 14.742 15.436 14.407 15.8501 14.408C16.2642 14.408 16.5996 14.745 16.5991 15.159L16.5972 16.4521L20.2197 12.83C20.5127 12.537 20.9873 12.537 21.2803 12.83C21.5732 13.123 21.5732 13.598 21.2803 13.891L17.6592 17.5109L18.9482 17.508C19.2207 17.508 19.46 17.6531 19.5918 17.8703C19.6602 17.9832 19.6997 18.1155 19.6997 18.257C19.7007 18.671 19.3657 19.008 18.9512 19.008L15.8457 19.015C15.6465 19.015 15.4551 18.936 15.314 18.795Z" fill="black"/> </svg> ',
     category: IconfyCategory.symbols,
     style: IconfyStyle.outline,
@@ -4476,7 +4476,7 @@ class _SymbolsStairsAscend11Outline {
 
   /// Stairs ascend 11 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Stairs ascend 11',
+    name: 'Stairs Ascend 11',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21.4453 4.94299C21.4453 5.35699 21.1094 5.69299 20.6953 5.69299H16.9448V8.93597C16.9448 9.60895 16.3999 10.154 15.7275 10.154H12.4448V13.546C12.4448 14.219 11.8994 14.764 11.2271 14.764H7.94482V17.933C7.94482 18.606 7.39941 19.151 6.72705 19.151H2.75C2.33594 19.151 2 18.815 2 18.401C2 18.1248 2.14941 17.8834 2.37207 17.7532C2.48291 17.6882 2.6123 17.651 2.75 17.651H6.44482V14.482C6.44482 13.809 6.98975 13.264 7.66211 13.264H10.9448V9.87201C10.9448 9.19904 11.4897 8.65399 12.1626 8.65399H15.4448V5.40997C15.4448 4.73798 15.9902 4.19299 16.6626 4.19299H20.6953C21.1094 4.19299 21.4453 4.52899 21.4453 4.94299Z" fill="black"/> <path d="M15.314 18.795C15.1729 18.654 15.0938 18.463 15.0942 18.264L15.0991 15.156C15.0996 14.742 15.436 14.407 15.8501 14.408C16.2642 14.408 16.5996 14.745 16.5991 15.159L16.5972 16.4521L20.2197 12.83C20.5127 12.537 20.9873 12.537 21.2803 12.83C21.5732 13.123 21.5732 13.598 21.2803 13.891L17.6592 17.5109L18.9482 17.508C19.2207 17.508 19.46 17.6531 19.5918 17.8703C19.6602 17.9832 19.6997 18.1155 19.6997 18.257C19.7007 18.671 19.3657 19.008 18.9512 19.008L15.8457 19.015C15.6465 19.015 15.4551 18.936 15.314 18.795Z" fill="black"/> </svg> ',
     category: IconfyCategory.symbols,
     style: IconfyStyle.outline,
@@ -4783,7 +4783,7 @@ class _SymbolsMaleManBulk {
 
   /// Male man — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Male man',
+    name: 'Male Man',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1964 13.3439C17.1964 16.9882 14.2422 19.9425 10.5978 19.9425C6.95425 19.9425 4 16.9882 4 13.3439C4 9.70035 6.95425 6.74609 10.5978 6.74609C14.2422 6.74609 17.1964 9.70035 17.1964 13.3439Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M18.9917 6.48274L18.9881 8.23624C18.987 8.78852 19.4338 9.23716 19.986 9.2383C20.5383 9.23945 20.987 8.79266 20.9881 8.24038L20.9966 4.14295C21.0199 3.86023 20.9234 3.56948 20.7071 3.35318C20.6148 3.26084 20.5089 3.19034 20.3958 3.14167C20.2705 3.08712 20.1341 3.05831 19.9947 3.0586L15.815 3.06724C15.2627 3.06839 14.8159 3.51703 14.8171 4.06931C14.8182 4.62159 15.2668 5.06838 15.8191 5.06724L17.5825 5.06359L14.615 8.03103C14.2245 8.42155 14.2245 9.05472 14.615 9.44524C15.0056 9.83577 15.6387 9.83577 16.0293 9.44524L18.9917 6.48274Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -4798,7 +4798,7 @@ class _SymbolsMaleManBroken {
 
   /// Male man — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Male man',
+    name: 'Male Man',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.5978 19.9425C14.2422 19.9425 17.1964 16.9882 17.1964 13.3439C17.1964 9.70035 14.2422 6.74609 10.5978 6.74609C6.95425 6.74609 4 9.70035 4 13.3439C4 15.6835 5.21757 17.7387 7.05342 18.9104" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.0001 4.06028L15.3223 8.73814M19.9882 8.23831L19.9969 4.05859L15.8172 4.06724" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -4813,7 +4813,7 @@ class _SymbolsMaleManTwotone {
 
   /// Male man — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Male man',
+    name: 'Male Man',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.6964 13.3435C17.6964 16.9879 14.7422 19.9421 11.0978 19.9421C7.45425 19.9421 4.5 16.9879 4.5 13.3435C4.5 9.69998 7.45425 6.74573 11.0978 6.74573C14.7422 6.74573 17.6964 9.69998 17.6964 13.3435Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.5001 4.05955L15.8223 8.7374M20.4882 8.23757L20.4969 4.05786L16.3172 4.06651" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -4828,7 +4828,7 @@ class _SymbolsMaleManBold {
 
   /// Male man — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Male man',
+    name: 'Male Man',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.9918 6.48274L18.9881 8.23624C18.987 8.78852 19.4338 9.23716 19.9861 9.2383C20.5383 9.23945 20.987 8.79266 20.9881 8.24037L20.9966 4.14297C21.0199 3.86024 20.9234 3.56949 20.7071 3.35318C20.6148 3.26085 20.5089 3.19035 20.3959 3.14168C20.2705 3.08712 20.1341 3.05831 19.9947 3.0586L15.815 3.06724C15.2627 3.06839 14.8159 3.51703 14.8171 4.06931C14.8182 4.62159 15.2668 5.06838 15.8191 5.06724L17.5825 5.06359L15.2835 7.36259C13.9925 6.35012 12.3657 5.7464 10.5978 5.7464C6.40197 5.7464 3 9.14837 3 13.3442C3 17.5408 6.40188 20.9428 10.5978 20.9428C14.7944 20.9428 18.1964 17.5408 18.1964 13.3442C18.1964 11.6368 17.6331 10.061 16.6822 8.79227L18.9918 6.48274ZM14.6023 9.43232C13.5858 8.39215 12.1672 7.7464 10.5978 7.7464C7.50654 7.7464 5 10.2529 5 13.3442C5 16.4364 7.50662 18.9428 10.5978 18.9428C13.6899 18.9428 16.1964 16.4363 16.1964 13.3442C16.1964 11.822 15.5886 10.4415 14.6023 9.43232Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -4843,7 +4843,7 @@ class _SymbolsMaleManLight {
 
   /// Male man — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Male man',
+    name: 'Male Man',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1964 13.3435C17.1964 16.9879 14.2422 19.9421 10.5978 19.9421C6.95425 19.9421 4 16.9879 4 13.3435C4 9.69998 6.95425 6.74573 10.5978 6.74573C14.2422 6.74573 17.1964 9.69998 17.1964 13.3435Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.0001 4.05955L15.3223 8.7374M19.9882 8.23757L19.9969 4.05786L15.8172 4.06651" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -4876,7 +4876,7 @@ class _SymbolsCopyrightInfringementBulk {
 
   /// Copyright infringement — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Copyright infringement',
+    name: 'Copyright Infringement',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <g opacity="0.4"> <path d="M5.27299 5.33365C3.85573 6.99312 3 9.14663 3 11.5C3 16.7467 7.25329 21 12.5 21C14.8534 21 17.0069 20.1443 18.6663 18.727C14.2019 14.2626 9.73744 9.7981 5.27299 5.33365Z" fill="black"/> <path d="M6.33365 4.27299C10.7981 8.73744 15.2626 13.2019 19.727 17.6663C21.1443 16.0069 22 13.8534 22 11.5C22 6.25329 17.7467 2 12.5 2C10.1466 2 7.99312 2.85573 6.33365 4.27299Z" fill="black"/> </g> <path d="M10.8681 8.80745C12.0727 8.24183 13.5528 8.45665 14.5481 9.4519C14.841 9.7448 15.3159 9.7448 15.6088 9.4519C15.9016 9.15901 15.9016 8.68414 15.6088 8.39124C14.0224 6.8049 11.5932 6.57516 9.76269 7.70203L10.8681 8.80745Z" fill="black"/> <path d="M15.3169 15.3776C13.4506 16.9589 10.6518 16.8693 8.89124 15.1088C7.13066 13.3482 7.04106 10.5494 8.62244 8.68311L9.6885 9.74916C8.68979 11.0244 8.7776 12.8738 9.9519 14.0481C11.1262 15.2224 12.9756 15.3102 14.2508 14.3115L15.3169 15.3776Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -4891,7 +4891,7 @@ class _SymbolsCopyrightInfringementBroken {
 
   /// Copyright infringement — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Copyright infringement',
+    name: 'Copyright Infringement',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12 21C7.02908 21 3 16.9709 3 12C3 7.03005 7.02908 3 12 3C16.9709 3 21 7.03005 21 12C21 15.3619 19.1571 18.293 16.4263 19.8383" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.2283 9.17149C13.6663 7.6095 11.1334 7.6095 9.57139 9.17149C8.00941 10.7335 8.00941 13.2664 9.57139 14.8274C11.0625 16.3195 13.4384 16.3872 15.0098 15.0306" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.0623 11.9961L18.369 18.3028" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.69482 5.62891L9.40249 9.33657" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -4906,7 +4906,7 @@ class _SymbolsCopyrightInfringementTwotone {
 
   /// Copyright infringement — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Copyright infringement',
+    name: 'Copyright Infringement',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.13604 5.63604C9.65076 2.12132 15.3492 2.12132 18.864 5.63604C22.3787 9.15076 22.3787 14.8492 18.864 18.364M6.13604 5.63604C2.62132 9.15076 2.62132 14.8492 6.13604 18.364C9.65076 21.8787 15.3492 21.8787 18.864 18.364M6.13604 5.63604L18.864 18.364" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7288 14.8353C14.1667 16.3974 11.6341 16.3974 10.072 14.8353C8.50987 13.2732 8.50987 10.7405 10.072 9.17841C11.6341 7.61631 14.1667 7.61631 15.7288 9.17841" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -4921,7 +4921,7 @@ class _SymbolsCopyrightInfringementOutline {
 
   /// Copyright infringement — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Copyright infringement',
+    name: 'Copyright Infringement',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.85608 4.85603C8.66321 1.04799 14.837 1.04799 18.6442 4.85603C22.4523 8.66304 22.4523 14.837 18.6442 18.644C14.837 22.452 8.66321 22.452 4.85608 18.644C1.04797 14.837 1.04797 8.66304 4.85608 4.85603ZM14.7037 15.7637C12.8658 16.9375 10.3966 16.7216 8.79114 15.116C7.18567 13.5105 6.96936 11.0412 8.14319 9.20332L5.40979 6.46986C2.70471 9.71126 2.87366 14.5407 5.91614 17.584C8.95959 20.6264 13.7887 20.7951 17.0304 18.0902L14.7037 15.7637ZM18.0905 17.0302C20.7955 13.7887 20.6266 8.9593 17.5841 5.91603C14.5406 2.87367 9.71155 2.70491 6.46985 5.40987L9.14075 8.08089C11.0065 6.54982 13.7662 6.65553 15.5089 8.39803C15.8024 8.69099 15.8024 9.16597 15.5089 9.459C15.2159 9.75197 14.7413 9.75197 14.4484 9.459C13.2926 8.30324 11.4821 8.20009 10.2096 9.14955L14.8995 13.8394C15.1168 13.8164 15.3424 13.8883 15.5089 14.055C15.6759 14.2216 15.7477 14.4472 15.7247 14.6647L18.0905 17.0302ZM13.6046 14.6643C12.3873 15.2731 10.8673 15.0701 9.85217 14.055C8.83704 13.0399 8.63391 11.5199 9.2428 10.3028L13.6046 14.6643Z" fill="black"/> </svg> ',
     category: IconfyCategory.symbols,
     style: IconfyStyle.outline,
@@ -4936,7 +4936,7 @@ class _SymbolsCopyrightInfringementBold {
 
   /// Copyright infringement — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Copyright infringement',
+    name: 'Copyright Infringement',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.77299 5.83365C3.35573 7.49312 2.5 9.64663 2.5 12C2.5 17.2467 6.75329 21.5 12 21.5C14.3534 21.5 16.5069 20.6443 18.1663 19.227L14.7908 15.8514C12.9332 17.2033 10.317 17.0413 8.64124 15.3656C6.96552 13.6899 6.80358 11.0736 8.15542 9.21608L4.77299 5.83365Z" fill="black"/> <path d="M5.83365 4.77299L9.21717 8.15651C11.0742 6.81088 13.6854 6.97473 15.3588 8.64808C15.6517 8.94097 15.6517 9.41585 15.3588 9.70874C15.0659 10.0016 14.591 10.0016 14.2981 9.70874C13.2126 8.62329 11.5504 8.46614 10.298 9.2373L19.227 18.1663C20.6443 16.5069 21.5 14.3534 21.5 12C21.5 6.75329 17.2467 2.5 12 2.5C9.64663 2.5 7.49312 3.35573 5.83365 4.77299Z" fill="black"/> <path d="M9.23568 10.2963C8.4586 11.5498 8.61401 13.217 9.7019 14.3049C10.7898 15.3928 12.4571 15.5482 13.7105 14.7712L9.23568 10.2963Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -4951,7 +4951,7 @@ class _SymbolsCopyrightInfringementLight {
 
   /// Copyright infringement — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Copyright infringement',
+    name: 'Copyright Infringement',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.63604 5.63604C9.15076 2.12132 14.8492 2.12132 18.364 5.63604C21.8787 9.15076 21.8787 14.8492 18.364 18.364M5.63604 5.63604C2.12132 9.15076 2.12132 14.8492 5.63604 18.364C9.15076 21.8787 14.8492 21.8787 18.364 18.364M5.63604 5.63604L18.364 18.364" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.2288 14.8353C13.6667 16.3974 11.1341 16.3974 9.57196 14.8353C8.00987 13.2732 8.00987 10.7405 9.57196 9.17841C11.1341 7.61631 13.6667 7.61631 15.2288 9.17841" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -4984,7 +4984,7 @@ class _SymbolsOpenSignBulk {
 
   /// open sign — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'open sign',
+    name: 'Open Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M10.262 4.40451C10.262 3.28255 11.1712 2.375 12.2915 2.375C13.4123 2.375 14.322 3.28218 14.322 4.40451C14.322 4.65265 14.2774 4.89038 14.1959 5.11015L17.4486 8.56076C17.7327 8.86216 17.7187 9.33683 17.4173 9.62095C17.1159 9.90508 16.6412 9.89106 16.3571 9.58965L13.1869 6.22654C12.9168 6.3594 12.6128 6.43403 12.2915 6.43403C11.9711 6.43403 11.668 6.35974 11.3986 6.22745L8.22091 9.59031C7.93643 9.89138 7.46175 9.90482 7.16068 9.62033C6.85961 9.33585 6.84617 8.86117 7.13065 8.5601L10.3888 5.11206C10.3068 4.89174 10.262 4.65335 10.262 4.40451ZM11.9224 4.78402C11.9018 4.75559 11.8789 4.7283 11.8538 4.7024C11.7959 4.6175 11.762 4.51493 11.762 4.40451C11.762 4.11172 11.9989 3.875 12.2915 3.875C12.5854 3.875 12.822 4.11209 12.822 4.40451C12.822 4.52138 12.784 4.62957 12.7196 4.71728C12.704 4.73417 12.6894 4.75162 12.6757 4.76955C12.5792 4.87081 12.4429 4.93403 12.2915 4.93403C12.148 4.93403 12.0178 4.87683 11.9224 4.78402Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.08049 8.57617C5.92078 8.57617 4.94071 8.9903 4.25304 9.72843C3.56904 10.4626 3.21094 11.4774 3.21094 12.6189V17.5823C3.21094 18.7236 3.5672 19.7385 4.25068 20.4729C4.93793 21.2114 5.91827 21.625 7.08049 21.625H16.9157C18.0783 21.625 19.0593 21.2115 19.7472 20.4731C20.4313 19.7388 20.7882 18.7238 20.7882 17.5823V12.6189C20.7882 11.4778 20.4313 10.4629 19.7474 9.7285C19.0597 8.99007 18.079 8.57617 16.9167 8.57617H7.08049ZM10.1797 13.0432C10.1797 12.6289 9.8439 12.2932 9.42969 12.2932C9.01547 12.2932 8.67969 12.6289 8.67969 13.0432V13.0532C8.67969 13.4674 9.01547 13.8032 9.42969 13.8032C9.8439 13.8032 10.1797 13.4674 10.1797 13.0532V13.0432ZM15.3203 13.0432C15.3203 12.6289 14.9845 12.2932 14.5703 12.2932C14.1561 12.2932 13.8203 12.6289 13.8203 13.0432V13.0532C13.8203 13.4674 14.1561 13.8032 14.5703 13.8032C14.9845 13.8032 15.3203 13.4674 15.3203 13.0532V13.0432ZM9.81795 15.768C10.1376 15.5046 10.6103 15.5501 10.8737 15.8698C11.1423 16.1957 11.5466 16.4014 11.9996 16.4014C12.4526 16.4014 12.8569 16.1957 13.1255 15.8698C13.3889 15.5501 13.8616 15.5046 14.1813 15.768C14.5009 16.0314 14.5465 16.5041 14.283 16.8238C13.7417 17.4806 12.9195 17.9014 11.9996 17.9014C11.0797 17.9014 10.2575 17.4806 9.71617 16.8238C9.45273 16.5041 9.4983 16.0314 9.81795 15.768Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -4999,7 +4999,7 @@ class _SymbolsOpenSignBroken {
 
   /// open sign — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'open sign',
+    name: 'Open Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.9032 8.95115L13.2729 5.09996M11.3152 5.09901L7.67616 8.9502M11.9991 21H16.9167C18.995 21 20.2892 19.5337 20.2892 17.4573V12.4939C20.2892 10.4185 18.995 8.95116 16.9177 8.95116H7.08146C5.00991 8.95116 3.71094 10.4185 3.71094 12.4939V17.4573C3.71094 19.5337 5.00407 21 7.08146 21H8.54027M11.0133 4.27951C11.0133 4.9869 11.5864 5.55903 12.2928 5.55903C13.0002 5.55903 13.5733 4.9869 13.5733 4.27951C13.5733 3.57311 13.0002 3 12.2928 3C11.5864 3 11.0133 3.57311 11.0133 4.27951Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.42969 13.043V13.053" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5703 13.043V13.053" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.7042 16.6562C13.2993 17.1476 12.686 17.4609 11.9996 17.4609C11.3131 17.4609 10.6999 17.1476 10.2949 16.6562" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -5014,7 +5014,7 @@ class _SymbolsOpenSignTwotone {
 
   /// open sign — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'open sign',
+    name: 'Open Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M16.9032 8.95115L13.2729 5.09996M11.3152 5.09901L7.67616 8.9502M16.9177 8.95116H7.08146C5.00991 8.95116 3.71094 10.4185 3.71094 12.4939V17.4573C3.71094 19.5337 5.00407 21 7.08146 21H16.9167C18.995 21 20.2892 19.5337 20.2892 17.4573V12.4939C20.2892 10.4185 18.995 8.95116 16.9177 8.95116ZM11.0133 4.27951C11.0133 4.9869 11.5864 5.55903 12.2928 5.55903C13.0002 5.55903 13.5733 4.9869 13.5733 4.27951C13.5733 3.57311 13.0002 3 12.2928 3C11.5864 3 11.0133 3.57311 11.0133 4.27951Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.42969 13.0432V13.0532" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5703 13.0432V13.0532" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6623 16.6544C13.2573 17.1457 12.644 17.459 11.9576 17.459C11.2712 17.459 10.6579 17.1457 10.2529 16.6544" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -5029,7 +5029,7 @@ class _SymbolsOpenSignOutline {
 
   /// open sign — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'open sign',
+    name: 'Open Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.2633 4.27951C10.2633 3.15889 11.1722 2.25 12.2928 2.25C13.414 2.25 14.3233 3.15852 14.3233 4.27951C14.3233 4.52832 14.2786 4.76655 14.1968 4.98667L17.2364 8.21126C18.324 8.28086 19.2565 8.70847 19.9313 9.43312C20.6656 10.2216 21.0392 11.3012 21.0392 12.4939V17.4573C21.0392 18.6504 20.6656 19.7301 19.9311 20.5185C19.1909 21.313 18.141 21.75 16.9167 21.75H7.08146C5.8575 21.75 4.80801 21.3129 4.06826 20.5183C3.33414 19.7299 2.96094 18.6503 2.96094 17.4573V12.4939C2.96094 11.3004 3.33617 10.221 4.07072 9.43289C4.81072 8.63892 5.85981 8.20116 7.08146 8.20116H7.35208L10.3897 4.98646C10.308 4.76638 10.2633 4.52822 10.2633 4.27951ZM11.9213 4.65704C11.9017 4.63019 11.8801 4.60438 11.8565 4.5798C11.7977 4.49451 11.7633 4.39108 11.7633 4.27951C11.7633 3.98732 12.0006 3.75 12.2928 3.75C12.5864 3.75 12.8233 3.98769 12.8233 4.27951C12.8233 4.39565 12.786 4.50306 12.7226 4.59036C12.7055 4.60876 12.6895 4.62783 12.6746 4.64748C12.5783 4.74709 12.443 4.80903 12.2928 4.80903C12.148 4.80903 12.0169 4.75107 11.9213 4.65704ZM11.3991 6.10224L9.41581 8.20116H15.1655L13.187 6.10227C12.9172 6.2347 12.6136 6.30903 12.2928 6.30903C11.9722 6.30903 11.6688 6.23468 11.3991 6.10224ZM5.16802 10.4556C4.73519 10.92 4.46094 11.612 4.46094 12.4939V17.4573C4.46094 18.3406 4.7343 19.0324 5.1661 19.4962C5.59227 19.9539 6.22803 20.25 7.08146 20.25H16.9167C17.7707 20.25 18.407 19.9539 18.8335 19.496C19.2656 19.0322 19.5392 18.3405 19.5392 17.4573V12.4939C19.5392 11.6112 19.2657 10.9194 18.8336 10.4554C18.4071 9.99737 17.771 9.70116 16.9177 9.70116H7.08146C6.23156 9.70116 5.59539 9.99706 5.16802 10.4556Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.42969 12.2932C9.8439 12.2932 10.1797 12.6289 10.1797 13.0432V13.0532C10.1797 13.4674 9.8439 13.8032 9.42969 13.8032C9.01547 13.8032 8.67969 13.4674 8.67969 13.0532V13.0432C8.67969 12.6289 9.01547 12.2932 9.42969 12.2932Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5703 12.2932C14.9845 12.2932 15.3203 12.6289 15.3203 13.0432V13.0532C15.3203 13.4674 14.9845 13.8032 14.5703 13.8032C14.1561 13.8032 13.8203 13.4674 13.8203 13.0532V13.0432C13.8203 12.6289 14.1561 12.2932 14.5703 12.2932Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.77595 16.0756C10.0956 15.8122 10.5683 15.8577 10.8317 16.1774C11.1003 16.5033 11.5046 16.709 11.9576 16.709C12.4106 16.709 12.8149 16.5033 13.0835 16.1774C13.3469 15.8577 13.8196 15.8122 14.1393 16.0756C14.4589 16.339 14.5045 16.8117 14.241 17.1314C13.6997 17.7882 12.8775 18.209 11.9576 18.209C11.0377 18.209 10.2155 17.7882 9.67418 17.1314C9.41074 16.8117 9.45631 16.339 9.77595 16.0756Z" fill="black"/> </svg> ',
     category: IconfyCategory.symbols,
     style: IconfyStyle.outline,
@@ -5044,7 +5044,7 @@ class _SymbolsOpenSignBold {
 
   /// open sign — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'open sign',
+    name: 'Open Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2915 2.375C11.1712 2.375 10.262 3.28255 10.262 4.40451C10.262 4.65335 10.3068 4.89174 10.3888 5.11206L7.13065 8.5601C7.12564 8.5654 7.12072 8.57076 7.11589 8.57617H7.08049C5.92078 8.57617 4.94071 8.9903 4.25304 9.72843C3.56904 10.4626 3.21094 11.4774 3.21094 12.6189V17.5823C3.21094 18.7236 3.5672 19.7385 4.25068 20.4729C4.93793 21.2114 5.91827 21.625 7.08049 21.625H16.9157C18.0783 21.625 19.0593 21.2115 19.7472 20.4731C20.4313 19.7388 20.7882 18.7238 20.7882 17.5823V12.6189C20.7882 11.4778 20.4313 10.4629 19.7474 9.7285C19.1764 9.11543 18.4035 8.72605 17.4924 8.61152C17.4787 8.59412 17.4641 8.57718 17.4486 8.56076L14.1959 5.11015C14.2774 4.89038 14.322 4.65265 14.322 4.40451C14.322 3.28218 13.4123 2.375 12.2915 2.375ZM15.4017 8.57617L13.1869 6.22654C12.9168 6.3594 12.6128 6.43403 12.2915 6.43403C11.9711 6.43403 11.668 6.35974 11.3986 6.22745L9.17919 8.57617H15.4017ZM11.8538 4.7024C11.8789 4.7283 11.9018 4.75559 11.9224 4.78402C12.0178 4.87683 12.148 4.93403 12.2915 4.93403C12.4429 4.93403 12.5792 4.87081 12.6757 4.76955C12.6894 4.75162 12.704 4.73417 12.7196 4.71728C12.784 4.62957 12.822 4.52138 12.822 4.40451C12.822 4.11209 12.5854 3.875 12.2915 3.875C11.9989 3.875 11.762 4.11172 11.762 4.40451C11.762 4.51493 11.7959 4.6175 11.8538 4.7024ZM9.42969 12.2932C9.8439 12.2932 10.1797 12.6289 10.1797 13.0432V13.0532C10.1797 13.4674 9.8439 13.8032 9.42969 13.8032C9.01547 13.8032 8.67969 13.4674 8.67969 13.0532V13.0432C8.67969 12.6289 9.01547 12.2932 9.42969 12.2932ZM14.5703 12.2932C14.9845 12.2932 15.3203 12.6289 15.3203 13.0432V13.0532C15.3203 13.4674 14.9845 13.8032 14.5703 13.8032C14.1561 13.8032 13.8203 13.4674 13.8203 13.0532V13.0432C13.8203 12.6289 14.1561 12.2932 14.5703 12.2932ZM10.8737 15.8698C10.6103 15.5501 10.1376 15.5046 9.81795 15.768C9.4983 16.0314 9.45273 16.5041 9.71617 16.8238C10.2575 17.4806 11.0797 17.9014 11.9996 17.9014C12.9195 17.9014 13.7417 17.4806 14.283 16.8238C14.5465 16.5041 14.5009 16.0314 14.1813 15.768C13.8616 15.5046 13.3889 15.5501 13.1255 15.8698C12.8569 16.1957 12.4526 16.4014 11.9996 16.4014C11.5466 16.4014 11.1423 16.1957 10.8737 15.8698Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -5059,7 +5059,7 @@ class _SymbolsOpenSignLight {
 
   /// open sign — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'open sign',
+    name: 'Open Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.9032 8.95115L13.2729 5.09996M11.3152 5.09901L7.67616 8.9502M16.9177 8.95116H7.08146C5.00991 8.95116 3.71094 10.4185 3.71094 12.4939V17.4573C3.71094 19.5337 5.00407 21 7.08146 21H16.9167C18.995 21 20.2892 19.5337 20.2892 17.4573V12.4939C20.2892 10.4185 18.995 8.95116 16.9177 8.95116ZM11.0133 4.27951C11.0133 4.9869 11.5864 5.55903 12.2928 5.55903C13.0002 5.55903 13.5733 4.9869 13.5733 4.27951C13.5733 3.57311 13.0002 3 12.2928 3C11.5864 3 11.0133 3.57311 11.0133 4.27951Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.42969 13.0432V13.0532" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5703 13.0432V13.0532" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6623 16.6544C13.2573 17.1457 12.644 17.459 11.9576 17.459C11.2712 17.459 10.6579 17.1457 10.2529 16.6544" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -5183,7 +5183,7 @@ class _SymbolsCloseSignBulk {
 
   /// Close sign — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Close sign',
+    name: 'Close Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M10.262 4.40451C10.262 3.28255 11.1712 2.375 12.2915 2.375C13.4123 2.375 14.322 3.28218 14.322 4.40451C14.322 4.65265 14.2774 4.89038 14.1959 5.11015L17.4486 8.56076C17.7327 8.86216 17.7187 9.33683 17.4173 9.62095C17.1159 9.90508 16.6412 9.89106 16.3571 9.58965L13.1869 6.22654C12.9168 6.3594 12.6128 6.43403 12.2915 6.43403C11.9711 6.43403 11.668 6.35974 11.3986 6.22745L8.22091 9.59031C7.93643 9.89138 7.46175 9.90482 7.16068 9.62033C6.85961 9.33585 6.84617 8.86117 7.13065 8.5601L10.3888 5.11206C10.3068 4.89174 10.262 4.65335 10.262 4.40451ZM11.9224 4.78402C11.9018 4.75559 11.8789 4.7283 11.8538 4.7024C11.7959 4.6175 11.762 4.51493 11.762 4.40451C11.762 4.11172 11.9989 3.875 12.2915 3.875C12.5854 3.875 12.822 4.11209 12.822 4.40451C12.822 4.52138 12.784 4.62957 12.7196 4.71728C12.704 4.73417 12.6894 4.75162 12.6757 4.76955C12.5792 4.87081 12.4429 4.93403 12.2915 4.93403C12.148 4.93403 12.0178 4.87683 11.9224 4.78402Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.08049 8.57617C5.92078 8.57617 4.94071 8.9903 4.25304 9.72843C3.56904 10.4626 3.21094 11.4774 3.21094 12.6189V17.5823C3.21094 18.7236 3.5672 19.7385 4.25068 20.4729C4.93793 21.2114 5.91827 21.625 7.08049 21.625H16.9157C18.0783 21.625 19.0593 21.2115 19.7472 20.4731C20.4313 19.7388 20.7882 18.7238 20.7882 17.5823V12.6189C20.7882 11.4778 20.4313 10.4629 19.7474 9.7285C19.0597 8.99007 18.079 8.57617 16.9167 8.57617H7.08049ZM9.42969 12.2932C9.8439 12.2932 10.1797 12.6289 10.1797 13.0432V13.0532C10.1797 13.4674 9.8439 13.8032 9.42969 13.8032C9.01547 13.8032 8.67969 13.4674 8.67969 13.0532V13.0432C8.67969 12.6289 9.01547 12.2932 9.42969 12.2932ZM14.5703 12.2932C14.9845 12.2932 15.3203 12.6289 15.3203 13.0432V13.0532C15.3203 13.4674 14.9845 13.8032 14.5703 13.8032C14.1561 13.8032 13.8203 13.4674 13.8203 13.0532V13.0432C13.8203 12.6289 14.1561 12.2932 14.5703 12.2932ZM9.81795 17.7301C10.1376 17.9936 10.6103 17.948 10.8737 17.6283C11.1423 17.3024 11.5466 17.0967 11.9996 17.0967C12.4526 17.0967 12.8569 17.3024 13.1255 17.6283C13.3889 17.948 13.8616 17.9936 14.1813 17.7301C14.5009 17.4667 14.5465 16.994 14.283 16.6744C13.7417 16.0175 12.9195 15.5967 11.9996 15.5967C11.0797 15.5967 10.2575 16.0175 9.71617 16.6744C9.45273 16.994 9.4983 17.4667 9.81795 17.7301Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bulk,
@@ -5198,7 +5198,7 @@ class _SymbolsCloseSignBroken {
 
   /// Close sign — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Close sign',
+    name: 'Close Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.9032 8.95115L13.2738 5.09996M11.3152 5.09901L7.67616 8.9502M11.9991 21H7.08146C5.00407 21 3.71094 19.5337 3.71094 17.4573V12.4939C3.71094 10.4185 5.00991 8.95116 7.08146 8.95116H16.9177C18.995 8.95116 20.2892 10.4185 20.2892 12.4939V17.4573C20.2892 19.5337 18.995 21 16.9167 21H15.4579M11.0133 4.27951C11.0133 4.9869 11.5864 5.55903 12.2928 5.55903C13.0002 5.55903 13.5733 4.9869 13.5733 4.27951C13.5733 3.57311 13.0002 3 12.2928 3C11.5864 3 11.0133 3.57311 11.0133 4.27951Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.42969 13.043V13.053" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5703 13.043V13.053" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.7042 17.4609C13.2993 16.9695 12.686 16.6562 11.9996 16.6562C11.3131 16.6562 10.6999 16.9695 10.2949 17.4609" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.broken,
@@ -5213,7 +5213,7 @@ class _SymbolsCloseSignTwotone {
 
   /// Close sign — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Close sign',
+    name: 'Close Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M16.9032 8.95115L13.2738 5.09996M11.3152 5.09901L7.67616 8.9502M16.9177 8.95116H7.08146C5.00991 8.95116 3.71094 10.4185 3.71094 12.4939V17.4573C3.71094 19.5337 5.00407 21 7.08146 21H16.9167C18.995 21 20.2892 19.5337 20.2892 17.4573V12.4939C20.2892 10.4185 18.995 8.95116 16.9177 8.95116ZM11.0133 4.27951C11.0133 4.9869 11.5864 5.55903 12.2928 5.55903C13.0002 5.55903 13.5733 4.9869 13.5733 4.27951C13.5733 3.57311 13.0002 3 12.2928 3C11.5864 3 11.0133 3.57311 11.0133 4.27951Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.42969 13.0432V13.0532" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5703 13.0432V13.0532" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.6623 17.459C13.2573 16.9676 12.644 16.6544 11.9576 16.6544C11.2712 16.6544 10.6579 16.9676 10.2529 17.459" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.twoTone,
@@ -5228,7 +5228,7 @@ class _SymbolsCloseSignOutline {
 
   /// Close sign — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Close sign',
+    name: 'Close Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.2633 4.27951C10.2633 3.15889 11.1722 2.25 12.2928 2.25C13.414 2.25 14.3233 3.15852 14.3233 4.27951C14.3233 4.52808 14.2787 4.76609 14.197 4.98603L17.2365 8.21126C18.324 8.28086 19.2565 8.70848 19.9313 9.43312C20.6656 10.2216 21.0392 11.3012 21.0392 12.4939V17.4573C21.0392 18.6504 20.6656 19.7301 19.9311 20.5185C19.1909 21.313 18.141 21.75 16.9167 21.75H7.08146C5.8575 21.75 4.80801 21.3129 4.06826 20.5183C3.33414 19.7299 2.96094 18.6503 2.96094 17.4573V12.4939C2.96094 11.3004 3.33617 10.221 4.07072 9.43289C4.81072 8.63892 5.85981 8.20116 7.08146 8.20116H7.35208L10.3897 4.98646C10.308 4.76638 10.2633 4.52822 10.2633 4.27951ZM11.9213 4.65704C11.9017 4.63019 11.8801 4.60438 11.8565 4.5798C11.7977 4.49451 11.7633 4.39108 11.7633 4.27951C11.7633 3.98732 12.0006 3.75 12.2928 3.75C12.5864 3.75 12.8233 3.98769 12.8233 4.27951C12.8233 4.39796 12.7845 4.50733 12.7188 4.59554C12.7049 4.61075 12.6918 4.62642 12.6794 4.64247C12.5828 4.74501 12.4455 4.80903 12.2928 4.80903C12.148 4.80903 12.0169 4.75107 11.9213 4.65704ZM11.3991 6.10224L9.41581 8.20116H15.1658L13.1876 6.10199C12.9176 6.23459 12.6139 6.30903 12.2928 6.30903C11.9722 6.30903 11.6688 6.23468 11.3991 6.10224ZM5.16802 10.4556C4.73519 10.92 4.46094 11.612 4.46094 12.4939V17.4573C4.46094 18.3406 4.7343 19.0324 5.1661 19.4962C5.59227 19.9539 6.22803 20.25 7.08146 20.25H16.9167C17.7707 20.25 18.407 19.9539 18.8335 19.496C19.2656 19.0322 19.5392 18.3405 19.5392 17.4573V12.4939C19.5392 11.6112 19.2657 10.9194 18.8336 10.4554C18.4071 9.99737 17.771 9.70116 16.9177 9.70116H7.08146C6.23156 9.70116 5.59539 9.99706 5.16802 10.4556Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.42969 12.2932C9.8439 12.2932 10.1797 12.6289 10.1797 13.0432V13.0532C10.1797 13.4674 9.8439 13.8032 9.42969 13.8032C9.01547 13.8032 8.67969 13.4674 8.67969 13.0532V13.0432C8.67969 12.6289 9.01547 12.2932 9.42969 12.2932Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.5703 12.2932C14.9845 12.2932 15.3203 12.6289 15.3203 13.0432V13.0532C15.3203 13.4674 14.9845 13.8032 14.5703 13.8032C14.1561 13.8032 13.8203 13.4674 13.8203 13.0532V13.0432C13.8203 12.6289 14.1561 12.2932 14.5703 12.2932Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1401 18.0377C13.8204 18.3012 13.3477 18.2556 13.0843 17.936C12.8157 17.6101 12.4114 17.4044 11.9584 17.4044C11.5054 17.4044 11.1011 17.6101 10.8325 17.936C10.5691 18.2556 10.0964 18.3012 9.77674 18.0377C9.4571 17.7743 9.41153 17.3016 9.67497 16.982C10.2163 16.3252 11.0385 15.9044 11.9584 15.9044C12.8783 15.9044 13.7005 16.3252 14.2418 16.982C14.5053 17.3016 14.4597 17.7743 14.1401 18.0377Z" fill="black"/> </svg> ',
     category: IconfyCategory.symbols,
     style: IconfyStyle.outline,
@@ -5243,7 +5243,7 @@ class _SymbolsCloseSignBold {
 
   /// Close sign — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Close sign',
+    name: 'Close Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.2915 2.375C11.1712 2.375 10.262 3.28255 10.262 4.40451C10.262 4.65335 10.3068 4.89174 10.3888 5.11206L7.13065 8.5601C7.12564 8.5654 7.12072 8.57076 7.11589 8.57617H7.08049C5.92078 8.57617 4.94071 8.9903 4.25304 9.72843C3.56904 10.4626 3.21094 11.4774 3.21094 12.6189V17.5823C3.21094 18.7236 3.5672 19.7385 4.25068 20.4729C4.93793 21.2114 5.91827 21.625 7.08049 21.625H16.9157C18.0783 21.625 19.0593 21.2115 19.7472 20.4731C20.4313 19.7388 20.7882 18.7238 20.7882 17.5823V12.6189C20.7882 11.4778 20.4313 10.4629 19.7474 9.7285C19.1764 9.11543 18.4035 8.72605 17.4924 8.61152C17.4787 8.59412 17.4641 8.57718 17.4486 8.56076L14.1959 5.11015C14.2774 4.89038 14.322 4.65265 14.322 4.40451C14.322 3.28218 13.4123 2.375 12.2915 2.375ZM15.4017 8.57617L13.1869 6.22654C12.9168 6.3594 12.6128 6.43403 12.2915 6.43403C11.9711 6.43403 11.668 6.35974 11.3986 6.22745L9.17919 8.57617H15.4017ZM11.8538 4.7024C11.8789 4.7283 11.9018 4.75559 11.9224 4.78402C12.0178 4.87683 12.148 4.93403 12.2915 4.93403C12.4429 4.93403 12.5792 4.87081 12.6757 4.76955C12.6894 4.75162 12.704 4.73417 12.7196 4.71728C12.784 4.62957 12.822 4.52138 12.822 4.40451C12.822 4.11209 12.5854 3.875 12.2915 3.875C11.9989 3.875 11.762 4.11172 11.762 4.40451C11.762 4.51493 11.7959 4.6175 11.8538 4.7024ZM10.1797 13.0432C10.1797 12.6289 9.8439 12.2932 9.42969 12.2932C9.01547 12.2932 8.67969 12.6289 8.67969 13.0432V13.0532C8.67969 13.4674 9.01547 13.8032 9.42969 13.8032C9.8439 13.8032 10.1797 13.4674 10.1797 13.0532V13.0432ZM15.3203 13.0432C15.3203 12.6289 14.9845 12.2932 14.5703 12.2932C14.1561 12.2932 13.8203 12.6289 13.8203 13.0432V13.0532C13.8203 13.4674 14.1561 13.8032 14.5703 13.8032C14.9845 13.8032 15.3203 13.4674 15.3203 13.0532V13.0432ZM10.8737 17.6283C10.6103 17.948 10.1376 17.9936 9.81795 17.7301C9.4983 17.4667 9.45273 16.994 9.71617 16.6744C10.2575 16.0175 11.0797 15.5967 11.9996 15.5967C12.9195 15.5967 13.7417 16.0175 14.283 16.6744C14.5465 16.994 14.5009 17.4667 14.1813 17.7301C13.8616 17.9936 13.3889 17.948 13.1255 17.6283C12.8569 17.3024 12.4526 17.0967 11.9996 17.0967C11.5466 17.0967 11.1423 17.3024 10.8737 17.6283Z" fill="black"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.bold,
@@ -5258,7 +5258,7 @@ class _SymbolsCloseSignLight {
 
   /// Close sign — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Close sign',
+    name: 'Close Sign',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.9032 8.95115L13.2738 5.09996M11.3152 5.09901L7.67616 8.9502M16.9177 8.95116H7.08146C5.00991 8.95116 3.71094 10.4185 3.71094 12.4939V17.4573C3.71094 19.5337 5.00407 21 7.08146 21H16.9167C18.995 21 20.2892 19.5337 20.2892 17.4573V12.4939C20.2892 10.4185 18.995 8.95116 16.9177 8.95116ZM11.0133 4.27951C11.0133 4.9869 11.5864 5.55903 12.2928 5.55903C13.0002 5.55903 13.5733 4.9869 13.5733 4.27951C13.5733 3.57311 13.0002 3 12.2928 3C11.5864 3 11.0133 3.57311 11.0133 4.27951Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.42969 13.0432V13.0532" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.5703 13.0432V13.0532" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.2538 17.459C10.6587 16.9676 11.272 16.6544 11.9584 16.6544C12.6449 16.6544 13.2581 16.9676 13.6631 17.459" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.symbols,
     style: IconfyStyle.light,
@@ -5578,7 +5578,7 @@ class _SymbolsManWomanAltOutline {
 
   /// Man Woman alt — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Man Woman alt',
+    name: 'Man Woman Alt',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.7598 18.8014C15.3777 18.8014 15.0675 18.4913 15.0675 18.1091V16.8021H13.948C13.5658 16.8021 13.2557 16.4928 13.2557 16.1098C13.2557 15.7277 13.5658 15.4175 13.948 15.4175H15.0675V13.1899C13.0136 12.8581 11.4456 11.0773 11.4456 8.93008C11.4456 6.54672 13.3774 4.6156 15.7617 4.6156C18.1451 4.6156 20.0769 6.54762 20.0769 8.93008C20.0769 11.0784 18.5075 12.86 16.4521 13.1905V15.4175H17.5717C17.9544 15.4175 18.2641 15.7277 18.2641 16.1098C18.2641 16.4928 17.9544 16.8021 17.5717 16.8021H16.4521V18.1091C16.4521 18.4913 16.1425 18.8014 15.7598 18.8014ZM15.7598 11.8608C17.3802 11.8608 18.6923 10.5492 18.6923 8.93008C18.6923 7.31193 17.3802 6.00022 15.7617 6.00022C14.1422 6.00022 12.8302 7.31193 12.8302 8.93008C12.8302 10.5492 14.1422 11.8608 15.7598 11.8608Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M7.08532 6.88388L8.17831 7.98116C8.4483 8.25165 8.8864 8.25255 9.15728 7.98301C9.4282 7.71348 9.42903 7.27499 9.15954 7.0036L6.90819 4.74402C6.90007 4.73478 6.89151 4.7269 6.88249 4.71811C6.7644 4.60019 6.6044 4.52339 6.42636 4.51488C6.4151 4.51438 6.40428 4.5141 6.39301 4.5141C6.2019 4.5141 6.02703 4.5928 5.90172 4.71811L3.62423 7.0036C3.35425 7.27409 3.35515 7.71252 3.62603 7.98301C3.71888 8.07519 3.83111 8.13575 3.9492 8.16471C4.17681 8.22044 4.42742 8.15914 4.605 7.98116L5.7007 6.88157V10.4493C3.64587 10.7804 2.0769 12.5617 2.0769 14.7094C2.0769 17.0928 4.00869 19.0248 6.39301 19.0248C8.77642 19.0248 10.7082 17.0928 10.7082 14.7094C10.7082 12.5618 9.13971 10.7805 7.08532 10.4493V6.88388ZM3.46152 14.7094C3.46152 16.3276 4.77357 17.6402 6.39301 17.6402C8.01155 17.6402 9.32361 16.3276 9.32361 14.7094C9.32361 13.0904 8.01155 11.7788 6.39301 11.7788C4.77357 11.7788 3.46152 13.0904 3.46152 14.7094Z" fill="black"/> </svg> ',
     category: IconfyCategory.symbols,
     style: IconfyStyle.outline,
@@ -5601,7 +5601,7 @@ class _SymbolsPersonAltOutline {
 
   /// Person alt — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Person alt',
+    name: 'Person Alt',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.19753 9.29076C4.39645 9.29076 2.93701 7.83139 2.93701 6.03048C2.93701 4.22956 4.39645 2.76923 6.19753 2.76923C7.99816 2.76923 9.45851 4.22956 9.45851 6.03048C9.45851 7.83139 7.99816 9.29076 6.19753 9.29076ZM4.32163 6.03048C4.32163 7.06618 5.16177 7.90615 6.19753 7.90615C7.23374 7.90615 8.07388 7.06618 8.07388 6.03048C8.07388 4.99387 7.23374 4.15384 6.19753 4.15384C5.16177 4.15384 4.32163 4.99387 4.32163 6.03048Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.74929 13.7252L10.0843 16.9256L10.0951 16.9507C10.2466 17.3162 10.3742 17.6217 10.4597 17.8745C10.5485 18.132 10.6175 18.3997 10.6103 18.6794C10.5873 19.5037 10.0951 20.2422 9.34382 20.58C9.08822 20.6954 8.81508 20.7342 8.5424 20.7517C8.27016 20.7692 7.93077 20.7692 7.52241 20.7692H5.28684C4.29255 20.7692 3.69535 20.0492 3.38795 19.2905C3.07876 18.5299 2.97194 17.5569 3.00123 16.5942C3.03098 15.6212 3.2018 14.5948 3.49702 13.7012C3.78414 12.8299 4.22359 11.9843 4.85776 11.4831C5.63975 10.8656 6.74447 10.8665 7.52557 11.4859C7.80141 11.7056 7.99161 12.0314 8.15298 12.3582C8.24627 12.5473 8.34588 12.7713 8.45676 13.0297C8.54646 13.2392 8.64336 13.4711 8.74929 13.7252ZM8.80562 17.4591L7.47104 14.2579C7.2272 13.6726 7.05637 13.2646 6.91259 12.972C6.76025 12.6646 6.68182 12.5852 6.66425 12.5705C6.38615 12.3508 5.99402 12.3499 5.71503 12.5696C5.39862 12.8197 5.06914 13.356 4.81133 14.1351C4.56253 14.8911 4.41109 15.7846 4.38495 16.6357C4.35926 17.4979 4.46247 18.2566 4.67116 18.7699C4.87984 19.2859 5.107 19.3846 5.28684 19.3846H7.52241C7.94925 19.3846 8.23546 19.3846 8.45226 19.3699C8.66815 19.356 8.74568 19.3311 8.77543 19.3172C9.04316 19.1972 9.21848 18.9342 9.22569 18.6416C9.2266 18.6092 9.22028 18.5271 9.14997 18.3222C9.07966 18.1172 8.97013 17.8523 8.80562 17.4591Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.7497 6.03048C19.7497 7.83139 18.2903 9.29076 16.4897 9.29076C14.6877 9.29076 13.2283 7.83139 13.2283 6.03048C13.2283 4.22956 14.6877 2.76923 16.4897 2.76923C18.2903 2.76923 19.7497 4.22956 19.7497 6.03048ZM16.4897 7.90615C17.5254 7.90615 18.3651 7.06618 18.3651 6.03048C18.3651 4.99387 17.5254 4.15384 16.4897 4.15384C15.453 4.15384 14.6129 4.99387 14.6129 6.03048C14.6129 7.06618 15.453 7.90615 16.4897 7.90615Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.6026 16.9256L13.9372 13.7252C14.1734 13.1576 14.3636 12.7006 14.5335 12.3582C14.6949 12.0314 14.8851 11.7056 15.1614 11.4859C15.942 10.8665 17.0472 10.8656 17.8288 11.4831C18.463 11.9843 18.9015 12.8299 19.1895 13.7012C19.4847 14.5948 19.6556 15.6212 19.6853 16.5942C19.7136 17.5569 19.6078 18.5299 19.2985 19.2905C18.9912 20.0492 18.394 20.7692 17.3997 20.7692H15.1641C14.7562 20.7692 14.4164 20.7692 14.1442 20.7517C13.8719 20.7342 13.5983 20.6954 13.3428 20.58C12.5914 20.2422 12.0992 19.5037 12.0762 18.6794C12.069 18.3997 12.138 18.132 12.2258 17.8745C12.3146 17.616 12.4453 17.3022 12.6026 16.9256ZM15.216 14.2579L13.8809 17.4591C13.7169 17.8523 13.6068 18.1172 13.5366 18.3222C13.4667 18.5271 13.4591 18.6092 13.4599 18.6416C13.4685 18.9342 13.6439 19.1972 13.9116 19.3172C13.9408 19.3311 14.0184 19.356 14.2343 19.3699C14.4516 19.3846 14.7377 19.3846 15.1641 19.3846H17.3997C17.5787 19.3846 17.8058 19.2859 18.0154 18.7699C18.2241 18.2566 18.3273 17.4979 18.3007 16.6357C18.275 15.7846 18.1245 14.8911 17.8752 14.1351C17.6173 13.356 17.2879 12.8197 16.9706 12.5696C16.6925 12.3499 16.2995 12.3508 16.0223 12.5705C16.0038 12.5852 15.9263 12.6646 15.7744 12.972C15.6301 13.2646 15.4594 13.6726 15.216 14.2579Z" fill="black"/> </svg> ',
     category: IconfyCategory.symbols,
     style: IconfyStyle.outline,

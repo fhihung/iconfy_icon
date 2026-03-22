@@ -2937,7 +2937,7 @@ class _NetworkI3gSquareBulk {
 
   /// 3G square — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '3G square',
+    name: '3g Square',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.217 2.5H7.782C4.623 2.5 2.5 4.723 2.5 8.031V15.97C2.5 19.278 4.623 21.5 7.782 21.5H16.216C19.377 21.5 21.5 19.278 21.5 15.97V8.031C21.5 4.723 19.377 2.5 16.217 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.354 13.47C17.354 14.698 16.502 15.43 15.074 15.43C14.191 15.43 13.378 15.089 12.785 14.471C12.133 13.791 11.797 12.854 11.839 11.829C11.877 10.913 12.289 10.031 12.969 9.40901C13.606 8.82801 14.418 8.52301 15.247 8.57201C15.718 8.59601 16.173 8.71601 16.599 8.92901C16.969 9.11501 17.119 9.56501 16.934 9.93501C16.75 10.308 16.299 10.456 15.928 10.271C15.688 10.151 15.433 10.083 15.17 10.07C14.732 10.045 14.32 10.207 13.98 10.518C13.593 10.87 13.359 11.371 13.338 11.891C13.313 12.494 13.506 13.056 13.867 13.433C14.18 13.758 14.597 13.93 15.074 13.93C15.854 13.93 15.854 13.686 15.854 13.47V12.75H15.074C14.66 12.75 14.324 12.414 14.324 12C14.324 11.586 14.66 11.25 15.074 11.25H16.604C17.018 11.25 17.354 11.586 17.354 12V13.47ZM8.62 15.42C7.975 15.42 7.372 15.171 6.922 14.718C6.63 14.424 6.632 13.949 6.925 13.657C7.22 13.365 7.694 13.368 7.986 13.661C8.152 13.828 8.377 13.92 8.62 13.92C9.124 13.92 9.519 13.525 9.519 13.02C9.519 12.53 9.116 12.13 8.62 12.13C8.331 12.13 8.068 11.964 7.943 11.703C7.819 11.444 7.855 11.134 8.036 10.909L8.705 10.08H7.396C6.982 10.08 6.646 9.74401 6.646 9.33001C6.646 8.91601 6.982 8.58001 7.396 8.58001H10.273C10.562 8.58001 10.825 8.74601 10.95 9.00701C11.074 9.26701 11.038 9.57601 10.857 9.80101L9.894 10.995C10.569 11.418 11.019 12.168 11.019 13.02C11.019 14.343 9.943 15.42 8.62 15.42Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -2952,7 +2952,7 @@ class _NetworkI3gSquareBroken {
 
   /// 3G square — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '3G square',
+    name: '3g Square',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.7627 9.59759C16.4426 9.439 16.0865 9.34267 15.709 9.32321C14.3079 9.25316 13.1462 10.4616 13.0888 11.8636C13.0246 13.4058 14.0481 14.6804 15.5738 14.6804C16.4679 14.6804 17.1043 14.3613 17.1043 13.4681V11.9999H15.5738" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.95389 14.1891C8.25259 14.4878 8.66513 14.6727 9.12048 14.6727C10.0312 14.6727 10.7687 13.9352 10.7687 13.0244C10.7687 12.1147 10.0312 11.3762 9.12048 11.3762L10.7726 9.32812H7.89648" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7159 21C19.665 21 21.5 18.9188 21.5 15.9736V8.02638C21.5 5.08119 19.665 3 16.7169 3H8.28216C5.34281 3 3.5 5.08119 3.5 8.02638V15.9736C3.5 18.9188 5.33308 21 8.28216 21H13.003" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -2967,7 +2967,7 @@ class _NetworkI3gSquareTwotone {
 
   /// 3G square — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '3G square',
+    name: '3g Square',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.28216 3H16.7169C19.665 3 21.5 5.08119 21.5 8.02638V15.9736C21.5 18.9188 19.665 21 16.7159 21H8.28216C5.33308 21 3.5 18.9188 3.5 15.9736V8.02638C3.5 5.08119 5.34281 3 8.28216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7627 9.59759C16.4426 9.439 16.0865 9.34267 15.709 9.32321C14.3079 9.25316 13.1462 10.4616 13.0888 11.8636C13.0246 13.4058 14.0481 14.6804 15.5738 14.6804C16.4679 14.6804 17.1043 14.3613 17.1043 13.4681V11.9999H15.5738" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.95389 14.1891C8.25259 14.4878 8.66513 14.6727 9.12048 14.6727C10.0312 14.6727 10.7687 13.9352 10.7687 13.0244C10.7687 12.1147 10.0312 11.3762 9.12048 11.3762L10.7726 9.32812H7.89648" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -2982,7 +2982,7 @@ class _NetworkI3gSquareOutline {
 
   /// 3G square — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '3G square',
+    name: '3g Square',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.7402 3.89737C4.72468 2.84117 6.12669 2.25 7.78216 2.25H16.2169C17.8762 2.25 19.2788 2.84084 20.2629 3.89765C21.2413 4.94841 21.75 6.39889 21.75 8.02638V15.9736C21.75 17.6011 21.2413 19.0516 20.2627 20.1024C19.2785 21.1592 17.8757 21.75 16.2159 21.75H7.78216C6.12237 21.75 4.7199 21.1592 3.73617 20.1022C2.75811 19.0514 2.25 17.6009 2.25 15.9736V8.02638C2.25 6.39806 2.76117 4.94771 3.7402 3.89737ZM4.83745 4.92012C4.16024 5.64666 3.75 6.70951 3.75 8.02638V15.9736C3.75 17.2915 4.15843 18.3542 4.83418 19.0803C5.50426 19.8002 6.49287 20.25 7.78216 20.25H16.2159C17.5052 20.25 18.4944 19.8002 19.165 19.0801C19.8412 18.354 20.25 17.2913 20.25 15.9736V8.02638C20.25 6.70868 19.8412 5.64597 19.1651 4.91984C18.4946 4.19975 17.5056 3.75 16.2169 3.75H7.78216C6.49828 3.75 5.50921 4.19943 4.83745 4.92012ZM11.8388 11.8322C11.9108 10.0731 13.3714 8.47969 15.2458 8.57341L15.247 8.57347C15.7282 8.59828 16.1844 8.72135 16.5951 8.92481C16.9662 9.1087 17.118 9.55865 16.9342 9.92981C16.7503 10.301 16.3003 10.4528 15.9292 10.2689C15.6998 10.1553 15.4439 10.0857 15.1703 10.0715C14.2429 10.0255 13.3803 10.8488 13.3375 11.8936L13.3375 11.8941C13.2876 13.0927 14.0523 13.9297 15.0731 13.9297C15.4534 13.9297 15.6534 13.8578 15.7408 13.796C15.776 13.7711 15.7966 13.746 15.8124 13.7127C15.8299 13.6756 15.8536 13.6017 15.8536 13.4673V12.7491H15.0731C14.6589 12.7491 14.3231 12.4133 14.3231 11.9991C14.3231 11.5849 14.6589 11.2491 15.0731 11.2491H16.6036C17.0178 11.2491 17.3536 11.5849 17.3536 11.9991V13.4673C17.3536 14.116 17.1079 14.6666 16.6066 15.0209C16.1523 15.342 15.587 15.4297 15.0731 15.4297C13.0429 15.4297 11.7605 13.7177 11.8388 11.8322ZM6.64738 9.32718C6.64738 8.91296 6.98317 8.57718 7.39738 8.57718H10.2735C10.5623 8.57718 10.8255 8.74306 10.9501 9.00365C11.0747 9.26425 11.0386 9.57324 10.8572 9.79806L9.89494 10.991C10.5707 11.4154 11.0196 12.1673 11.0196 13.0235C11.0196 14.3484 9.9463 15.4217 8.62138 15.4217C7.95884 15.4217 7.35785 15.1519 6.92446 14.7185C6.63156 14.4256 6.63156 13.9507 6.92446 13.6578C7.21735 13.3649 7.69222 13.3649 7.98512 13.6578C8.14913 13.8218 8.37322 13.9217 8.62138 13.9217C9.11787 13.9217 9.5196 13.52 9.5196 13.0235C9.5196 12.5277 9.11758 12.1253 8.62138 12.1253C8.33253 12.1253 8.06935 11.9594 7.94475 11.6988C7.82015 11.4382 7.85627 11.1292 8.03763 10.9044L8.70491 10.0772H7.39738C6.98317 10.0772 6.64738 9.74139 6.64738 9.32718Z" fill="black"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.outline,
@@ -2997,7 +2997,7 @@ class _NetworkI3gSquareBold {
 
   /// 3G square — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '3G square',
+    name: '3g Square',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.354 13.47C17.354 14.698 16.502 15.43 15.074 15.43C14.191 15.43 13.378 15.089 12.785 14.471C12.133 13.791 11.797 12.854 11.839 11.829C11.877 10.913 12.289 10.031 12.969 9.409C13.606 8.828 14.418 8.523 15.247 8.572C15.718 8.596 16.173 8.716 16.599 8.929C16.969 9.115 17.119 9.565 16.934 9.935C16.75 10.308 16.299 10.456 15.928 10.271C15.688 10.151 15.433 10.083 15.17 10.07C14.732 10.045 14.32 10.207 13.98 10.518C13.593 10.87 13.359 11.371 13.338 11.891C13.313 12.494 13.506 13.056 13.867 13.433C14.18 13.758 14.597 13.93 15.074 13.93C15.854 13.93 15.854 13.686 15.854 13.47V12.75H15.074C14.66 12.75 14.324 12.414 14.324 12C14.324 11.586 14.66 11.25 15.074 11.25H16.604C17.018 11.25 17.354 11.586 17.354 12V13.47ZM8.62 15.42C7.975 15.42 7.372 15.171 6.922 14.718C6.63 14.424 6.632 13.949 6.925 13.657C7.22 13.365 7.694 13.368 7.986 13.661C8.152 13.828 8.377 13.92 8.62 13.92C9.124 13.92 9.519 13.525 9.519 13.02C9.519 12.53 9.116 12.13 8.62 12.13C8.331 12.13 8.068 11.964 7.943 11.703C7.819 11.444 7.855 11.134 8.036 10.909L8.705 10.08H7.396C6.982 10.08 6.646 9.744 6.646 9.33C6.646 8.916 6.982 8.58 7.396 8.58H10.273C10.562 8.58 10.825 8.746 10.95 9.007C11.074 9.267 11.038 9.576 10.857 9.801L9.894 10.995C10.569 11.418 11.019 12.168 11.019 13.02C11.019 14.343 9.943 15.42 8.62 15.42ZM16.217 2.5H7.782C4.623 2.5 2.5 4.723 2.5 8.031V15.97C2.5 19.278 4.623 21.5 7.782 21.5H16.216C19.376 21.5 21.5 19.278 21.5 15.97V8.031C21.5 4.723 19.377 2.5 16.217 2.5Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -3012,7 +3012,7 @@ class _NetworkI3gSquareLight {
 
   /// 3G square — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '3G square',
+    name: '3g Square',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83308 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2627 9.59759C15.9426 9.439 15.5865 9.34267 15.209 9.32321C13.8079 9.25316 12.6462 10.4616 12.5888 11.8636C12.5246 13.4058 13.5481 14.6804 15.0738 14.6804C15.9679 14.6804 16.6043 14.3613 16.6043 13.4681V11.9999H15.0738" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.45389 14.1891C7.75259 14.4878 8.16513 14.6727 8.62048 14.6727C9.53119 14.6727 10.2687 13.9352 10.2687 13.0244C10.2687 12.1147 9.53119 11.3762 8.62048 11.3762L10.2726 9.32812H7.39648" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.light,
@@ -3429,7 +3429,7 @@ class _NetworkI2gCircleBulk {
 
   /// 2G Circle — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '2G Circle',
+    name: '2g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12 2.5C6.762 2.5 2.5 6.762 2.5 12C2.5 17.238 6.762 21.5 12 21.5C17.238 21.5 21.5 17.238 21.5 12C21.5 6.762 17.238 2.5 12 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.795 11.25C13.209 11.25 13.545 11.586 13.545 12C13.545 12.414 13.209 12.75 12.795 12.75H11.428V13.96H13.324C13.738 13.96 14.074 14.296 14.074 14.71C14.074 15.124 13.738 15.46 13.324 15.46H10.678C10.264 15.46 9.92798 15.124 9.92798 14.71V9.29004C9.92798 8.87604 10.264 8.54004 10.678 8.54004H13.324C13.738 8.54004 14.074 8.87604 14.074 9.29004C14.074 9.70404 13.738 10.04 13.324 10.04H11.428V11.25H12.795Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -3444,7 +3444,7 @@ class _NetworkI2gCircleBroken {
 
   /// 2G Circle — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '2G Circle',
+    name: '2g Circle',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.8242 9.28711H11.1777V14.7144H13.8242" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1797 11.998H13.2949" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 21C7.52908 21 3.5 16.9699 3.5 12C3.5 7.03005 7.52908 3 12.5 3C17.4709 3 21.5 7.03005 21.5 12C21.5 15.5457 19.4492 18.6131 16.4688 20.0799" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -3459,7 +3459,7 @@ class _NetworkI2gCircleTwotone {
 
   /// 2G Circle — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '2G Circle',
+    name: '2g Circle',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 12C21.5 7.02908 17.4709 3 12.5 3C7.52908 3 3.5 7.02908 3.5 12C3.5 16.9699 7.52908 21 12.5 21C17.4709 21 21.5 16.9699 21.5 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.8242 9.28711H11.1777V14.7144H13.8242" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1797 11.998H13.2949" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -3474,7 +3474,7 @@ class _NetworkI2gCircleOutline {
 
   /// 2G Circle — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '2G Circle',
+    name: '2g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5558 7.44335 20.25 12 20.25C16.5567 20.25 20.25 16.5558 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3841 17.3852 21.75 12 21.75C6.61481 21.75 2.25 17.3841 2.25 12ZM9.92736 9.28632C9.92736 8.8721 10.2632 8.53632 10.6774 8.53632H13.3239C13.7381 8.53632 14.0739 8.8721 14.0739 9.28632C14.0739 9.70053 13.7381 10.0363 13.3239 10.0363H11.4274V11.2476H12.7945C13.2087 11.2476 13.5445 11.5834 13.5445 11.9976C13.5445 12.4118 13.2087 12.7476 12.7945 12.7476H11.4274V13.9636H13.3239C13.7381 13.9636 14.0739 14.2993 14.0739 14.7136C14.0739 15.1278 13.7381 15.4636 13.3239 15.4636H10.6774C10.2632 15.4636 9.92736 15.1278 9.92736 14.7136V9.28632Z" fill="black"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.outline,
@@ -3489,7 +3489,7 @@ class _NetworkI2gCircleBold {
 
   /// 2G Circle — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '2G Circle',
+    name: '2g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.795 11.25C13.209 11.25 13.545 11.586 13.545 12C13.545 12.414 13.209 12.75 12.795 12.75H11.428V13.96H13.324C13.738 13.96 14.074 14.296 14.074 14.71C14.074 15.124 13.738 15.46 13.324 15.46H10.678C10.264 15.46 9.928 15.124 9.928 14.71V9.29C9.928 8.876 10.264 8.54 10.678 8.54H13.324C13.738 8.54 14.074 8.876 14.074 9.29C14.074 9.704 13.738 10.04 13.324 10.04H11.428V11.25H12.795ZM12 2.5C6.762 2.5 2.5 6.762 2.5 12C2.5 17.238 6.762 21.5 12 21.5C17.238 21.5 21.5 17.238 21.5 12C21.5 6.762 17.238 2.5 12 2.5Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -3504,7 +3504,7 @@ class _NetworkI2gCircleLight {
 
   /// 2G Circle — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '2G Circle',
+    name: '2g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21C16.9709 21 21 16.9699 21 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.3242 9.28711H10.6777V14.7144H13.3242" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6797 11.998H12.7949" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.light,
@@ -3527,7 +3527,7 @@ class _NetworkVpnTwotone {
 
   /// Vpn — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn',
+    name: 'VPN',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3.5 20.457H21.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.5 3.54297H21.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.9883 12.6757H12.5587C13.518 12.6757 14.2964 11.8973 14.2964 10.9369C14.2964 9.97857 13.518 9.19922 12.5587 9.19922H10.9883V14.7617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.6113 14.6948V9.41449L21.4984 14.5421V9.26562" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.5 9.19922L5.72519 14.7987L7.95038 9.19922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -3550,7 +3550,7 @@ class _NetworkVpn1Twotone {
 
   /// Vpn 1 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 1',
+    name: 'VPN 1',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M6.56703 4.17383H18.433C20.94 4.17383 22.5 5.94356 22.5 8.44842V15.5511C22.5 18.0549 20.94 19.8257 18.4319 19.8257H6.56703C4.06 19.8257 2.5 18.0549 2.5 15.5511V8.44842C2.5 5.94356 4.06757 4.17383 6.56703 4.17383Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1191 14.6355V10.0106L19.5245 14.5014V9.88086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2148 12.8677H12.59C13.4311 12.8677 14.1132 12.1855 14.1132 11.3455C14.1132 10.5044 13.4311 9.82227 12.59 9.82227H11.2148V14.6947" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.17188 9.91797L7.12106 14.6001L9.07025 9.91797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -3573,7 +3573,7 @@ class _NetworkVpn2Twotone {
 
   /// Vpn 2 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 2',
+    name: 'VPN 2',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M3.5 20.457H21.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M3.5 3.54297H21.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.9883 12.6757H12.5587C13.518 12.6757 14.2964 11.8973 14.2964 10.9369C14.2964 9.97857 13.518 9.19922 12.5587 9.19922H10.9883V14.7617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.6113 14.6948V9.41449L21.4984 14.5421V9.26562" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.5 9.19922L5.72519 14.7987L7.95038 9.19922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -3596,7 +3596,7 @@ class _NetworkVpn3Bold {
 
   /// Vpn 3 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 3',
+    name: 'VPN 3',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.1135 17H4.88951C4.69951 17 4.52651 17.107 4.44151 17.278C4.35751 17.449 4.37751 17.652 4.49251 17.804C4.76251 18.156 5.02151 18.455 5.28351 18.714C7.07751 20.51 9.46251 21.5 11.9995 21.5H12.0015C14.5385 21.5 16.9245 20.511 18.7175 18.716C18.9755 18.461 19.2275 18.172 19.5095 17.805C19.6255 17.654 19.6465 17.45 19.5625 17.279C19.4785 17.108 19.3035 17 19.1135 17Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.89081 7H19.1148C19.3048 7 19.4788 6.892 19.5628 6.721C19.6468 6.551 19.6268 6.347 19.5108 6.195C19.2328 5.833 18.9808 5.544 18.7208 5.286C16.9258 3.489 14.5398 2.5 12.0018 2.5C9.46481 2.5 7.07881 3.489 5.28781 5.283C5.02981 5.538 4.77781 5.828 4.49481 6.195C4.37881 6.346 4.35781 6.55 4.44181 6.721C4.52581 6.892 4.70081 7 4.89081 7Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.06569 15.2899C6.37269 15.2899 6.64869 15.1029 6.76269 14.8169L8.71169 9.91693C8.86469 9.53193 8.67669 9.09593 8.2927 8.94194C7.90569 8.79094 7.4707 8.97794 7.31769 9.36194L6.06569 12.5109L4.81369 9.36194C4.66069 8.97794 4.22569 8.79094 3.83969 8.94194C3.45469 9.09593 3.26669 9.53193 3.41969 9.91693L5.36869 14.8169C5.48269 15.1029 5.75869 15.2899 6.06569 15.2899Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8225 11.1602C12.8225 11.5852 12.4765 11.9302 12.0505 11.9302H11.4255V10.3892H12.0505C12.4765 10.3892 12.8225 10.7352 12.8225 11.1602ZM10.6755 8.88916C10.2615 8.88916 9.92554 9.22516 9.92554 9.63916V14.5102C9.92554 14.9242 10.2615 15.2602 10.6755 15.2602C11.0895 15.2602 11.4255 14.9242 11.4255 14.5102V13.4302H12.0505C13.3035 13.4302 14.3225 12.4112 14.3225 11.1602C14.3225 9.90816 13.3035 8.88916 12.0505 8.88916H10.6755Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.8835 8.9502C19.4695 8.9502 19.1335 9.2862 19.1335 9.7002V12.0902L17.0765 9.3772C16.8815 9.1202 16.5435 9.0152 16.2395 9.1192C15.9345 9.2212 15.7285 9.5082 15.7285 9.8302V14.4502C15.7285 14.8642 16.0645 15.2002 16.4785 15.2002C16.8925 15.2002 17.2285 14.8642 17.2285 14.4502V12.0602L19.2855 14.7732C19.4805 15.0302 19.8175 15.1322 20.1225 15.0312C20.4275 14.9292 20.6335 14.6422 20.6335 14.3202V9.7002C20.6335 9.2862 20.2975 8.9502 19.8835 8.9502Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -3619,7 +3619,7 @@ class _NetworkVpn4Bold {
 
   /// Vpn 4 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 4',
+    name: 'VPN 4',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.1135 17H4.88951C4.69951 17 4.52651 17.107 4.44151 17.278C4.35751 17.449 4.37751 17.652 4.49251 17.804C4.76251 18.156 5.02151 18.455 5.28351 18.714C7.07751 20.51 9.46251 21.5 11.9995 21.5H12.0015C14.5385 21.5 16.9245 20.511 18.7175 18.716C18.9755 18.461 19.2275 18.172 19.5095 17.805C19.6255 17.654 19.6465 17.45 19.5625 17.279C19.4785 17.108 19.3035 17 19.1135 17Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.89081 7H19.1148C19.3048 7 19.4788 6.892 19.5628 6.721C19.6468 6.551 19.6268 6.347 19.5108 6.195C19.2328 5.833 18.9808 5.544 18.7208 5.286C16.9258 3.489 14.5398 2.5 12.0018 2.5C9.46481 2.5 7.07881 3.489 5.28781 5.283C5.02981 5.538 4.77781 5.828 4.49481 6.195C4.37881 6.346 4.35781 6.55 4.44181 6.721C4.52581 6.892 4.70081 7 4.89081 7Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.06569 15.2899C6.37269 15.2899 6.64869 15.1029 6.76269 14.8169L8.71169 9.91693C8.86469 9.53193 8.67669 9.09593 8.2927 8.94194C7.90569 8.79094 7.4707 8.97794 7.31769 9.36194L6.06569 12.5109L4.81369 9.36194C4.66069 8.97794 4.22569 8.79094 3.83969 8.94194C3.45469 9.09593 3.26669 9.53193 3.41969 9.91693L5.36869 14.8169C5.48269 15.1029 5.75869 15.2899 6.06569 15.2899Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8225 11.1602C12.8225 11.5852 12.4765 11.9302 12.0505 11.9302H11.4255V10.3892H12.0505C12.4765 10.3892 12.8225 10.7352 12.8225 11.1602ZM10.6755 8.88916C10.2615 8.88916 9.92554 9.22516 9.92554 9.63916V14.5102C9.92554 14.9242 10.2615 15.2602 10.6755 15.2602C11.0895 15.2602 11.4255 14.9242 11.4255 14.5102V13.4302H12.0505C13.3035 13.4302 14.3225 12.4112 14.3225 11.1602C14.3225 9.90816 13.3035 8.88916 12.0505 8.88916H10.6755Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.8835 8.9502C19.4695 8.9502 19.1335 9.2862 19.1335 9.7002V12.0902L17.0765 9.3772C16.8815 9.1202 16.5435 9.0152 16.2395 9.1192C15.9345 9.2212 15.7285 9.5082 15.7285 9.8302V14.4502C15.7285 14.8642 16.0645 15.2002 16.4785 15.2002C16.8925 15.2002 17.2285 14.8642 17.2285 14.4502V12.0602L19.2855 14.7732C19.4805 15.0302 19.8175 15.1322 20.1225 15.0312C20.4275 14.9292 20.6335 14.6422 20.6335 14.3202V9.7002C20.6335 9.2862 20.2975 8.9502 19.8835 8.9502Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -3642,7 +3642,7 @@ class _NetworkVpn5Bold {
 
   /// Vpn 5 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 5',
+    name: 'VPN 5',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0001 2.79004H3.00006C2.58606 2.79004 2.25006 3.12604 2.25006 3.54004V4.90504C2.25006 5.31904 2.58606 5.65504 3.00006 5.65504H21.0001C21.4141 5.65504 21.7501 5.31904 21.7501 4.90504V3.54004C21.7501 3.12604 21.4141 2.79004 21.0001 2.79004Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.2379 9.9502H12.0589C12.6029 9.9502 13.0459 10.3932 13.0459 10.9392C13.0459 11.4852 12.6029 11.9292 12.0589 11.9292H11.2379V9.9502ZM11.2379 14.7602V13.4292H12.0589C13.4299 13.4292 14.5459 12.3122 14.5459 10.9392C14.5459 9.5662 13.4299 8.4502 12.0589 8.4502H10.4879C10.0739 8.4502 9.73785 8.7862 9.73785 9.2002V14.7602C9.73785 15.1742 10.0739 15.5102 10.4879 15.5102C10.9019 15.5102 11.2379 15.1742 11.2379 14.7602Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.8609 14.6895V11.6415L20.4009 14.9935C20.5949 15.2505 20.9319 15.3525 21.2369 15.2515C21.5429 15.1485 21.7479 14.8625 21.7479 14.5405V9.26953C21.7479 8.85553 21.4119 8.51953 20.9979 8.51953C20.5839 8.51953 20.2479 8.85553 20.2479 9.26953V12.3085L17.7089 8.95753C17.5139 8.70153 17.1759 8.59753 16.8719 8.69953C16.5669 8.80153 16.3609 9.08753 16.3609 9.41053V14.6895C16.3609 15.1035 16.6969 15.4395 17.1109 15.4395C17.5249 15.4395 17.8609 15.1035 17.8609 14.6895Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.22518 15.5498C5.53218 15.5498 5.80818 15.3628 5.92218 15.0768L8.14718 9.47778C8.30018 9.09178 8.11218 8.65578 7.72718 8.50278C7.34418 8.35078 6.90618 8.53778 6.75318 8.92278L5.22518 12.7688L3.69718 8.92278C3.54418 8.53778 3.10618 8.35078 2.72318 8.50278C2.33818 8.65578 2.15018 9.09178 2.30318 9.47778L4.52818 15.0768C4.64218 15.3628 4.91818 15.5498 5.22518 15.5498Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0001 18.3447H3.00006C2.58606 18.3447 2.25006 18.6807 2.25006 19.0947V20.4597C2.25006 20.8737 2.58606 21.2097 3.00006 21.2097H21.0001C21.4141 21.2097 21.7501 20.8737 21.7501 20.4597V19.0947C21.7501 18.6807 21.4141 18.3447 21.0001 18.3447Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -3665,7 +3665,7 @@ class _NetworkVpn6Bulk {
 
   /// Vpn 6 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 6',
+    name: 'VPN 6',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M17.932 3.66992H6.067C3.335 3.66992 1.5 5.59092 1.5 8.44992V15.5499C1.5 18.4089 3.335 20.3299 6.067 20.3299H17.931C20.664 20.3299 22.5 18.4089 22.5 15.5499V8.44992C22.5 5.59092 20.664 3.66992 17.932 3.66992Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.2639 15.2108C19.5689 15.1078 19.775 14.8218 19.775 14.4998V9.87982C19.775 9.46582 19.439 9.12982 19.025 9.12982C18.611 9.12982 18.2749 9.46582 18.2749 9.87982V12.2708L16.216 9.55682C16.021 9.29982 15.686 9.19382 15.379 9.29882C15.075 9.40082 14.8689 9.68782 14.8689 10.0098V14.6398C14.8689 15.0538 15.205 15.3898 15.6189 15.3898C16.0329 15.3898 16.3689 15.0538 16.3689 14.6398V12.2388L18.4269 14.9528C18.6219 15.2088 18.9559 15.3118 19.2639 15.2108ZM11.4639 13.6198H12.0889C13.3429 13.6198 14.3629 12.6018 14.3629 11.3498C14.3629 10.0928 13.3429 9.06982 12.0889 9.06982H10.7139C10.2999 9.06982 9.96395 9.40582 9.96395 9.81982V14.6888C9.96395 15.1038 10.2999 15.4388 10.7139 15.4388C11.1289 15.4388 11.4639 15.1038 11.4639 14.6888V13.6198ZM7.31295 14.8878L9.26195 10.2078C9.42095 9.82582 9.23995 9.38682 8.85795 9.22782C8.47295 9.06882 8.03595 9.24982 7.87695 9.63182L6.62095 12.6478L5.36395 9.63182C5.20495 9.24982 4.76795 9.06882 4.38295 9.22782C4.00095 9.38682 3.81995 9.82582 3.97895 10.2078L5.92795 14.8878C6.04495 15.1678 6.31795 15.3498 6.62095 15.3498C6.92295 15.3498 7.19695 15.1668 7.31295 14.8878ZM11.4645 10.5703H12.0895C12.5155 10.5703 12.8625 10.9203 12.8625 11.3493C12.8625 11.7743 12.5155 12.1203 12.0895 12.1203H11.4645V10.5703Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -3688,7 +3688,7 @@ class _NetworkVpn7Bulk {
 
   /// Vpn 7 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 7',
+    name: 'VPN 7',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.2379 9.95044H12.0589C12.6029 9.95044 13.0459 10.3934 13.0459 10.9394C13.0459 11.4854 12.6029 11.9294 12.0589 11.9294H11.2379V9.95044ZM11.2379 14.7604V13.4294H12.0589C13.4299 13.4294 14.5459 12.3124 14.5459 10.9394C14.5459 9.56644 13.4299 8.45044 12.0589 8.45044H10.4879C10.0739 8.45044 9.73792 8.78644 9.73792 9.20044V14.7604C9.73792 15.1744 10.0739 15.5104 10.4879 15.5104C10.9019 15.5104 11.2379 15.1744 11.2379 14.7604Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.861 14.6898V11.6418L20.401 14.9938C20.595 15.2508 20.932 15.3528 21.237 15.2518C21.543 15.1488 21.748 14.8628 21.748 14.5408V9.26978C21.748 8.85578 21.412 8.51978 20.998 8.51978C20.584 8.51978 20.248 8.85578 20.248 9.26978V12.3088L17.709 8.95778C17.514 8.70178 17.176 8.59778 16.872 8.69978C16.567 8.80178 16.361 9.08778 16.361 9.41078V14.6898C16.361 15.1038 16.697 15.4398 17.111 15.4398C17.525 15.4398 17.861 15.1038 17.861 14.6898Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.22524 15.55C5.53224 15.55 5.80824 15.363 5.92224 15.077L8.14724 9.47802C8.30024 9.09202 8.11224 8.65602 7.72724 8.50302C7.34424 8.35102 6.90624 8.53802 6.75324 8.92302L5.22524 12.769L3.69724 8.92302C3.54424 8.53802 3.10624 8.35102 2.72324 8.50302C2.33824 8.65602 2.15024 9.09202 2.30324 9.47802L4.52824 15.077C4.64224 15.363 4.91824 15.55 5.22524 15.55Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0001 2.79004H3.00012C2.58612 2.79004 2.25012 3.12604 2.25012 3.54004V4.90504C2.25012 5.31904 2.58612 5.65504 3.00012 5.65504H21.0001C21.4141 5.65504 21.7501 5.31904 21.7501 4.90504V3.54004C21.7501 3.12604 21.4141 2.79004 21.0001 2.79004Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.0001 18.3447H3.00012C2.58612 18.3447 2.25012 18.6807 2.25012 19.0947V20.4597C2.25012 20.8737 2.58612 21.2097 3.00012 21.2097H21.0001C21.4141 21.2097 21.7501 20.8737 21.7501 20.4597V19.0947C21.7501 18.6807 21.4141 18.3447 21.0001 18.3447Z" fill="black"/> </g> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -3711,7 +3711,7 @@ class _NetworkVpn8Bulk {
 
   /// Vpn 8 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 8',
+    name: 'VPN 8',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.06569 15.2899C6.37269 15.2899 6.64869 15.1029 6.76269 14.8169L8.71169 9.91693C8.86469 9.53193 8.67669 9.09594 8.2927 8.94194C7.90569 8.79094 7.4707 8.97794 7.31769 9.36194L6.06569 12.5109L4.81369 9.36194C4.66069 8.97794 4.22569 8.79094 3.83969 8.94194C3.45469 9.09594 3.26669 9.53193 3.41969 9.91693L5.36869 14.8169C5.48269 15.1029 5.75869 15.2899 6.06569 15.2899Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8225 11.1602C12.8225 11.5852 12.4765 11.9302 12.0505 11.9302H11.4255V10.3892H12.0505C12.4765 10.3892 12.8225 10.7352 12.8225 11.1602ZM10.6755 8.88916C10.2615 8.88916 9.92554 9.22516 9.92554 9.63916V14.5102C9.92554 14.9242 10.2615 15.2602 10.6755 15.2602C11.0895 15.2602 11.4255 14.9242 11.4255 14.5102V13.4302H12.0505C13.3035 13.4302 14.3225 12.4112 14.3225 11.1602C14.3225 9.90816 13.3035 8.88916 12.0505 8.88916H10.6755Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.8835 8.9502C19.4695 8.9502 19.1335 9.2862 19.1335 9.7002V12.0902L17.0765 9.3772C16.8815 9.1202 16.5435 9.0152 16.2395 9.1192C15.9345 9.2212 15.7285 9.5082 15.7285 9.8302V14.4502C15.7285 14.8642 16.0645 15.2002 16.4785 15.2002C16.8925 15.2002 17.2285 14.8642 17.2285 14.4502V12.0602L19.2855 14.7732C19.4805 15.0302 19.8175 15.1322 20.1225 15.0312C20.4275 14.9292 20.6335 14.6422 20.6335 14.3202V9.7002C20.6335 9.2862 20.2975 8.9502 19.8835 8.9502Z" fill="black"/> <g opacity="0.4"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.1135 17H4.88951C4.69951 17 4.52651 17.107 4.44151 17.278C4.35751 17.449 4.37751 17.652 4.49251 17.804C4.76251 18.156 5.02151 18.455 5.28351 18.714C7.07751 20.51 9.46251 21.5 11.9995 21.5H12.0015C14.5385 21.5 16.9245 20.511 18.7175 18.716C18.9755 18.461 19.2275 18.172 19.5095 17.805C19.6255 17.654 19.6465 17.45 19.5625 17.279C19.4785 17.108 19.3035 17 19.1135 17Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M4.89081 7H19.1148C19.3048 7 19.4788 6.892 19.5628 6.721C19.6468 6.551 19.6268 6.347 19.5108 6.195C19.2328 5.833 18.9808 5.544 18.7208 5.286C16.9258 3.489 14.5398 2.5 12.0018 2.5C9.46481 2.5 7.07881 3.489 5.28781 5.283C5.02981 5.538 4.77781 5.828 4.49481 6.195C4.37881 6.346 4.35781 6.55 4.44181 6.721C4.52581 6.892 4.70081 7 4.89081 7Z" fill="black"/> </g> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -3734,7 +3734,7 @@ class _NetworkVpn9Broken {
 
   /// Vpn 9 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 9',
+    name: 'VPN 9',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M5.3877 17.5C7.64508 20.4365 11.4297 21.4601 14.7742 20.6223" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2842 19.5772C18.1597 19.0442 18.9526 18.3513 19.6125 17.5" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.613 6.49991C19.3834 6.20119 19.1392 5.91027 18.8648 5.63588C16.462 3.23315 13.0388 2.47307 9.99011 3.35564" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.67938 4.39844C6.79409 4.96104 6.02994 5.67294 5.38867 6.50012" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.61523 9.63672L6.56417 14.5416L8.5131 9.63672" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1738 12.6822H12.5487C13.3894 12.6822 14.0714 12.0002 14.0714 11.1595C14.0714 10.3188 13.3894 9.63672 12.5487 9.63672H11.1738V12.6822ZM11.1738 12.6822V14.5095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.9766 14.4504V9.8257L20.3821 14.3161V9.69531" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -3757,7 +3757,7 @@ class _NetworkVpn10Broken {
 
   /// Vpn 10 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 10',
+    name: 'VPN 10',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.4995 19.826H6.56703C4.06 19.826 2.5 18.0552 2.5 15.5514V8.44867C2.5 5.9438 4.06757 4.17407 6.56703 4.17407H18.433C20.94 4.17407 22.5 5.9438 22.5 8.44867V15.5514C22.5 18.0552 20.94 19.826 18.4319 19.826H16.0412" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1191 14.6354V10.0105L19.5245 14.5013" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.5244 11.0777V9.88086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2148 12.8677H12.59C13.4311 12.8677 14.1132 12.1855 14.1132 11.3455C14.1132 10.5044 13.4311 9.82227 12.59 9.82227H11.2148V12.8677ZM11.2148 12.8677V14.6947" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.17188 9.91797L7.12106 14.6001L9.07025 9.91797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -3780,7 +3780,7 @@ class _NetworkVpn11Broken {
 
   /// Vpn 11 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 11',
+    name: 'VPN 11',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.4995 19.826H6.56703C4.06 19.826 2.5 18.0552 2.5 15.5514V8.44867C2.5 5.9438 4.06757 4.17407 6.56703 4.17407H18.433C20.94 4.17407 22.5 5.9438 22.5 8.44867V15.5514C22.5 18.0552 20.94 19.826 18.4319 19.826H16.0412" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1191 14.6354V10.0105L19.5245 14.5013" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.5244 11.0777V9.88086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.2148 12.8677H12.59C13.4311 12.8677 14.1132 12.1855 14.1132 11.3455C14.1132 10.5044 13.4311 9.82227 12.59 9.82227H11.2148V12.8677ZM11.2148 12.8677V14.6947" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.17188 9.91797L7.12106 14.6001L9.07025 9.91797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -3803,7 +3803,7 @@ class _NetworkVpn12Light {
 
   /// Vpn 12 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 12',
+    name: 'VPN 12',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.8877 17.5001C5.11733 17.7988 5.36155 18.0898 5.63594 18.3642C9.15044 21.8787 14.8484 21.8787 18.3638 18.3642C18.6382 18.0898 18.8805 17.7988 19.1121 17.5001" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M19.1131 6.49991C18.8834 6.20119 18.6392 5.91027 18.3648 5.63588C14.8503 2.12137 9.15239 2.12137 5.63691 5.63588C5.36253 5.91027 5.12025 6.20119 4.88867 6.49991" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.11523 9.63672L6.06417 14.5416L8.0131 9.63672" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6738 12.6822H12.0487C12.8894 12.6822 13.5714 12.0002 13.5714 11.1595C13.5714 10.3188 12.8894 9.63672 12.0487 9.63672H10.6738V14.5095" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.4766 14.4504V9.8257L19.8821 14.3161V9.69531" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.light,
@@ -3826,7 +3826,7 @@ class _NetworkVpn13Light {
 
   /// Vpn 13 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 13',
+    name: 'VPN 13',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.06703 4.17407H17.933C20.44 4.17407 22 5.9438 22 8.44867V15.5514C22 18.0552 20.44 19.826 17.9319 19.826H6.06703C3.56 19.826 2 18.0552 2 15.5514V8.44867C2 5.9438 3.56757 4.17407 6.06703 4.17407Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.6191 14.6355V10.0106L19.0245 14.5014V9.88086" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.7148 12.8677H12.09C12.9311 12.8677 13.6132 12.1855 13.6132 11.3455C13.6132 10.5044 12.9311 9.82227 12.09 9.82227H10.7148V14.6947" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.67188 9.91797L6.62106 14.6001L8.57025 9.91797" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.light,
@@ -3849,7 +3849,7 @@ class _NetworkVpn14Light {
 
   /// Vpn 14 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 14',
+    name: 'VPN 14',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 20.457H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 3.54297H21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.4883 12.6757H12.0587C13.018 12.6757 13.7964 11.8973 13.7964 10.9369C13.7964 9.97857 13.018 9.19922 12.0587 9.19922H10.4883V14.7617" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.1113 14.6948V9.41449L20.9984 14.5421V9.26562" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3 9.19922L5.22519 14.7987L7.45038 9.19922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.light,
@@ -3872,7 +3872,7 @@ class _NetworkVpn15Outline {
 
   /// Vpn 15 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 15',
+    name: 'VPN 15',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.10572 5.10547C8.91403 1.29822 15.0868 1.29811 18.8942 5.10555C19.1984 5.40978 19.4642 5.72735 19.7067 6.04281C19.9592 6.37121 19.8976 6.84207 19.5692 7.09452C19.2408 7.34697 18.77 7.2854 18.5175 6.957C18.3008 6.67504 18.0781 6.41075 17.8336 6.16621C14.612 2.94464 9.38887 2.94453 6.16623 6.16628C5.9227 6.40982 5.70192 6.67377 5.48047 6.95943C5.22669 7.28679 4.75557 7.34643 4.42821 7.09265C4.10085 6.83886 4.0412 6.36775 4.29499 6.04039C4.53667 5.72864 4.8005 5.41069 5.10572 5.10547ZM3.83922 8.93922C4.22416 8.78627 4.66021 8.97433 4.81316 9.35927L6.0651 12.5101L7.31704 9.35927C7.46999 8.97433 7.90604 8.78627 8.29098 8.93922C8.67592 9.09217 8.86398 9.52822 8.71103 9.91316L6.7621 14.8181C6.64862 15.1037 6.37241 15.2911 6.0651 15.2911C5.75779 15.2911 5.48158 15.1037 5.36811 14.8181L3.41917 9.91316C3.26622 9.52822 3.45428 9.09217 3.83922 8.93922ZM9.92446 9.63622C9.92446 9.222 10.2603 8.88622 10.6745 8.88622H12.0493C13.3042 8.88622 14.3221 9.90408 14.3221 11.159C14.3221 12.4139 13.3042 13.4317 12.0493 13.4317H11.4245V14.509C11.4245 14.9233 11.0887 15.259 10.6745 15.259C10.2603 15.259 9.92446 14.9233 9.92446 14.509V9.63622ZM11.4245 11.9317H12.0493C12.4758 11.9317 12.8221 11.5854 12.8221 11.159C12.8221 10.7325 12.4758 10.3862 12.0493 10.3862H11.4245V11.9317ZM19.8838 8.94513C20.298 8.94513 20.6338 9.28091 20.6338 9.69513V14.3159C20.6338 14.638 20.4282 14.9241 20.1229 15.0268C19.8176 15.1295 19.4809 15.0258 19.2862 14.7691L17.2283 12.0556V14.4502C17.2283 14.8644 16.8925 15.2002 16.4783 15.2002C16.0641 15.2002 15.7283 14.8644 15.7283 14.4502V9.82551C15.7283 9.50343 15.9339 9.2173 16.2392 9.11464C16.5445 9.01197 16.8813 9.11568 17.0759 9.37231L19.1338 12.0859V9.69513C19.1338 9.28091 19.4696 8.94513 19.8838 8.94513ZM4.43064 16.9055C4.75903 16.653 5.2299 16.7146 5.48234 17.043C5.6991 17.325 5.92176 17.5892 6.1663 17.8338C9.38785 21.0553 14.6109 21.0555 17.8336 17.8338C17.8336 17.8338 17.8335 17.8338 17.8336 17.8338M17.8336 17.8338C18.0771 17.5902 18.2979 17.3262 18.5194 17.0406C18.7732 16.7132 19.2443 16.6536 19.5716 16.9074C19.899 17.1611 19.9587 17.6322 19.7049 17.9596C19.4632 18.2714 19.1994 18.5892 18.8942 18.8945C15.0859 22.7017 8.91308 22.7019 5.10564 18.8945C4.80141 18.5902 4.53563 18.2727 4.29312 17.9572C4.04067 17.6288 4.10224 17.1579 4.43064 16.9055" fill="black"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.outline,
@@ -3895,7 +3895,7 @@ class _NetworkVpn16Outline {
 
   /// Vpn 16 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 16',
+    name: 'VPN 16',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.54762 4.8606C3.4083 3.93734 4.63151 3.42404 6.06703 3.42404H17.933C19.3718 3.42404 20.5954 3.93702 21.4556 4.86097C22.3101 5.77886 22.75 7.04139 22.75 8.44864V15.5513C22.75 16.9581 22.31 18.2206 21.4554 19.1386C20.5952 20.0626 19.3713 20.5759 17.9319 20.5759H6.06703C4.62809 20.5759 3.40448 20.0626 2.54439 19.1385C1.68995 18.2206 1.25 16.9581 1.25 15.5513V8.44864C1.25 7.04044 1.69238 5.77804 2.54762 4.8606ZM3.64481 5.88342C3.09141 6.47707 2.75 7.35197 2.75 8.44864V15.5513C2.75 16.6484 3.09005 17.5232 3.64236 18.1166C4.18903 18.7039 4.99894 19.0759 6.06703 19.0759H17.9319C19.0006 19.0759 19.8108 18.7038 20.3575 18.1165C20.91 17.5231 21.25 16.6484 21.25 15.5513V8.44864C21.25 7.35102 20.9099 6.47625 20.3577 5.88306C19.8111 5.29592 19.0012 4.92404 17.933 4.92404H6.06703C5.00308 4.92404 4.19278 5.29561 3.64481 5.88342ZM9.9641 9.82227C9.9641 9.40805 10.2999 9.07227 10.7141 9.07227H12.0892C13.3445 9.07227 14.3625 10.0902 14.3625 11.3455C14.3625 12.6001 13.3442 13.6177 12.0892 13.6177H11.4641V14.6947C11.4641 15.1089 11.1283 15.4447 10.7141 15.4447C10.2999 15.4447 9.9641 15.1089 9.9641 14.6947V9.82227ZM11.4641 12.1177H12.0892C12.5165 12.1177 12.8625 11.771 12.8625 11.3455C12.8625 10.9186 12.5161 10.5723 12.0892 10.5723H11.4641V12.1177ZM19.0245 9.13139C19.4387 9.13139 19.7745 9.46718 19.7745 9.88139V14.5019C19.7745 14.824 19.5688 15.1101 19.2635 15.2128C18.9583 15.3155 18.6215 15.2117 18.4269 14.9551L16.3691 12.2414V14.636C16.3691 15.0502 16.0333 15.386 15.6191 15.386C15.2049 15.386 14.8691 15.0502 14.8691 14.636V10.0111C14.8691 9.68903 15.0747 9.4029 15.38 9.30024C15.6853 9.19757 16.0221 9.3013 16.2167 9.55795L18.2745 12.2716V9.88139C18.2745 9.46718 18.6103 9.13139 19.0245 9.13139ZM4.38278 9.22489C4.76519 9.06569 5.20423 9.24664 5.36343 9.62904L6.62022 12.648L7.87701 9.62904C8.0362 9.24664 8.47525 9.06569 8.85765 9.22489C9.24006 9.38408 9.421 9.82313 9.26181 10.2055L7.31262 14.8877C7.19622 15.1673 6.92308 15.3494 6.62022 15.3494C6.31736 15.3494 6.04422 15.1673 5.92782 14.8877L3.97863 10.2055C3.81944 9.82313 4.00038 9.38408 4.38278 9.22489Z" fill="black"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.outline,
@@ -3918,7 +3918,7 @@ class _NetworkVpn17Outline {
 
   /// Vpn 17 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Vpn 17',
+    name: 'VPN 17',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M5.10572 5.10547C8.91403 1.29822 15.0868 1.29811 18.8942 5.10555C19.1984 5.40978 19.4642 5.72735 19.7067 6.04281C19.9592 6.37121 19.8976 6.84207 19.5692 7.09452C19.2408 7.34697 18.77 7.2854 18.5175 6.957C18.3008 6.67504 18.0781 6.41075 17.8336 6.16621C14.612 2.94464 9.38887 2.94453 6.16623 6.16628C5.9227 6.40982 5.70192 6.67377 5.48047 6.95943C5.22669 7.28679 4.75557 7.34643 4.42821 7.09265C4.10085 6.83886 4.0412 6.36775 4.29499 6.04039C4.53667 5.72864 4.8005 5.41069 5.10572 5.10547ZM3.83922 8.93922C4.22416 8.78627 4.66021 8.97433 4.81316 9.35927L6.0651 12.5101L7.31704 9.35927C7.46999 8.97433 7.90604 8.78627 8.29098 8.93922C8.67592 9.09217 8.86398 9.52822 8.71103 9.91316L6.7621 14.8181C6.64862 15.1037 6.37241 15.2911 6.0651 15.2911C5.75779 15.2911 5.48158 15.1037 5.36811 14.8181L3.41917 9.91316C3.26622 9.52822 3.45428 9.09217 3.83922 8.93922ZM9.92446 9.63622C9.92446 9.222 10.2603 8.88622 10.6745 8.88622H12.0493C13.3042 8.88622 14.3221 9.90408 14.3221 11.159C14.3221 12.4139 13.3042 13.4317 12.0493 13.4317H11.4245V14.509C11.4245 14.9233 11.0887 15.259 10.6745 15.259C10.2603 15.259 9.92446 14.9233 9.92446 14.509V9.63622ZM11.4245 11.9317H12.0493C12.4758 11.9317 12.8221 11.5854 12.8221 11.159C12.8221 10.7325 12.4758 10.3862 12.0493 10.3862H11.4245V11.9317ZM19.8838 8.94513C20.298 8.94513 20.6338 9.28091 20.6338 9.69513V14.3159C20.6338 14.638 20.4282 14.9241 20.1229 15.0268C19.8176 15.1295 19.4809 15.0258 19.2862 14.7691L17.2283 12.0556V14.4502C17.2283 14.8644 16.8925 15.2002 16.4783 15.2002C16.0641 15.2002 15.7283 14.8644 15.7283 14.4502V9.82551C15.7283 9.50343 15.9339 9.2173 16.2392 9.11464C16.5445 9.01197 16.8813 9.11568 17.0759 9.37231L19.1338 12.0859V9.69513C19.1338 9.28091 19.4696 8.94513 19.8838 8.94513ZM4.43064 16.9055C4.75903 16.653 5.2299 16.7146 5.48234 17.043C5.6991 17.325 5.92176 17.5892 6.1663 17.8338C9.38785 21.0553 14.6109 21.0555 17.8336 17.8338C17.8336 17.8338 17.8335 17.8338 17.8336 17.8338M17.8336 17.8338C18.0771 17.5902 18.2979 17.3262 18.5194 17.0406C18.7732 16.7132 19.2443 16.6536 19.5716 16.9074C19.899 17.1611 19.9587 17.6322 19.7049 17.9596C19.4632 18.2714 19.1994 18.5892 18.8942 18.8945C15.0859 22.7017 8.91308 22.7019 5.10564 18.8945C4.80141 18.5902 4.53563 18.2727 4.29312 17.9572C4.04067 17.6288 4.10224 17.1579 4.43064 16.9055" fill="black"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.outline,
@@ -4059,7 +4059,7 @@ class _NetworkSimcardDualBulk {
 
   /// Simcard dual — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Simcard dual',
+    name: 'Simcard Dual',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.7324 14.875C18.7324 16.0227 17.8829 16.9682 16.7792 17.139V17.9657C16.7792 18.1978 16.7579 18.4252 16.7171 18.6458C18.6779 18.4945 20.2324 16.8711 20.2324 14.875V8.064C20.2324 7.421 19.9894 6.818 19.5544 6.376L16.4364 3.122C15.9684 2.641 15.3454 2.375 14.6804 2.375H10.5124C8.50243 2.375 6.87113 3.942 6.72913 5.915C6.92331 5.88389 7.12238 5.86773 7.32514 5.86773H8.23485C8.39685 4.75073 9.35043 3.875 10.5124 3.875H14.6804C14.9364 3.875 15.1774 3.979 15.3574 4.163L18.4784 7.42C18.6424 7.587 18.7324 7.815 18.7324 8.064V14.875Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.7725 17.1402V11.2752C16.7725 10.7152 16.5495 10.1652 16.1635 9.77023L13.0535 6.52823C12.6405 6.10123 12.0675 5.85523 11.4795 5.85523H8.23673L7.32514 5.86796C7.12238 5.86796 6.92164 5.88412 6.72746 5.91523C5.05046 6.20023 3.76746 7.65123 3.76746 9.40523V18.0752C3.76746 20.0322 5.36146 21.6252 7.32146 21.6252H13.2185C14.9835 21.6252 16.4395 20.3312 16.7145 18.6462L16.7171 18.646C16.7579 18.4254 16.7792 18.1981 16.7792 17.9659L16.7725 17.1402Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8544 16.5643C13.8544 17.8223 12.9694 18.7353 11.7514 18.7353H8.7904C7.5714 18.7353 6.6864 17.8223 6.6864 16.5643V14.8653C6.6864 13.6073 7.5714 12.6953 8.7904 12.6953H11.7514C12.9694 12.6953 13.8544 13.6073 13.8544 14.8653V16.5643ZM8.78984 14.1956H11.7508C12.2498 14.1956 12.3548 14.5596 12.3548 14.8656V16.5646C12.3548 16.8706 12.2498 17.2356 11.7508 17.2356H8.78984C8.29084 17.2356 8.18684 16.8706 8.18684 16.5646V14.8656C8.18684 14.5596 8.29084 14.1956 8.78984 14.1956Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -4074,7 +4074,7 @@ class _NetworkSimcardDualBroken {
 
   /// Simcard dual — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Simcard dual',
+    name: 'Simcard Dual',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.94678 20.999C6.2606 20.999 4.89355 19.633 4.89355 17.9468V9.28431C4.89355 7.5991 6.2606 6.23206 7.94678 6.23206H12.1053C12.5636 6.23206 13.0014 6.41887 13.3186 6.74871L16.4293 9.98972C16.7299 10.3021 16.8982 10.7204 16.8982 11.1534V17.9478C16.8982 19.6339 15.5312 21 13.845 21L10.8959 20.9995" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.3767 13.3184H9.41592C8.5811 13.3184 8.0625 13.907 8.0625 14.7409V16.4397C8.0625 17.2726 8.5811 17.8622 9.41592 17.8622H12.3767C13.2115 17.8622 13.7301 17.2726 13.7301 16.4397V14.7409C13.7301 13.907 13.2086 13.3184 12.3767 13.3184Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.1081 7.93984C20.1081 7.50395 19.9437 7.08264 19.6401 6.77129L16.5236 3.52152C16.2035 3.18681 15.7676 3 15.3074 3H11.1391C9.44808 3 8.07617 4.37094 8.07617 6.06198V6.20988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.8975 17.8053H17.0531C18.7364 17.8053 20.1083 16.4344 20.1083 14.7511V11.3457" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -4089,7 +4089,7 @@ class _NetworkSimcardDualTwotone {
 
   /// Simcard dual — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Simcard dual',
+    name: 'Simcard Dual',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.1053 6.23242C12.5636 6.23242 13.0014 6.41924 13.3186 6.74908L16.4293 9.99009C16.7299 10.3024 16.8982 10.7208 16.8982 11.1538V17.9481C16.8982 19.6343 15.5312 21.0004 13.845 21.0004L7.94678 20.9994C6.2606 20.9994 4.89355 19.6333 4.89355 17.9472V9.28467C4.89355 7.59947 6.2606 6.23242 7.94678 6.23242H12.1053Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.3767 13.3184H9.41592C8.5811 13.3184 8.0625 13.907 8.0625 14.7409V16.4397C8.0625 17.2726 8.5811 17.8622 9.41592 17.8622H12.3767C13.2115 17.8622 13.7301 17.2726 13.7301 16.4397V14.7409C13.7301 13.907 13.2086 13.3184 12.3767 13.3184Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M16.8973 17.8049H17.0529C18.7362 17.8049 20.1081 16.434 20.1081 14.7507V7.93984C20.1081 7.50395 19.9437 7.08264 19.6401 6.77129L16.5236 3.52152C16.2035 3.18681 15.7676 3 15.3074 3H11.1391C9.44808 3 8.07617 4.37094 8.07617 6.06198V6.20988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -4104,7 +4104,7 @@ class _NetworkSimcardDualOutline {
 
   /// Simcard dual — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Simcard dual',
+    name: 'Simcard Dual',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4131 13.2031C13.7979 13.6172 13.979 14.168 13.979 14.7402V16.4375C13.979 17.0098 13.7998 17.5586 13.415 17.9727C13.1538 18.252 12.8242 18.4434 12.4546 18.5391C12.2705 18.5879 12.0767 18.6113 11.876 18.6113H8.91504C8.31201 18.6113 7.76709 18.3926 7.37598 17.9727C6.99121 17.5586 6.81104 17.0098 6.81104 16.4375V14.7402C6.81104 14.168 6.99121 13.6191 7.37598 13.2051C7.76709 12.7852 8.31201 12.5664 8.91504 12.5664H11.876C12.4771 12.5664 13.022 12.7852 13.4131 13.2031ZM12.3159 14.2266C12.2383 14.1426 12.106 14.0664 11.876 14.0664H8.91504C8.68311 14.0664 8.55127 14.1445 8.47412 14.2266C8.39111 14.3164 8.31104 14.4766 8.31104 14.7402V16.4375C8.31104 16.6992 8.39111 16.8613 8.47412 16.9512C8.55127 17.0332 8.68311 17.1113 8.91504 17.1113H11.876C12.1079 17.1113 12.2393 17.0332 12.3159 16.9512C12.3398 16.9258 12.3638 16.8926 12.3853 16.8535C12.3926 16.8398 12.3994 16.8281 12.4062 16.8125C12.4487 16.7207 12.479 16.5977 12.479 16.4375V14.7402C12.479 14.4785 12.3989 14.3164 12.3159 14.2266Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.106 18.5137C16.832 20.3457 15.2524 21.75 13.3452 21.75L7.44727 21.748C5.34717 21.748 3.64404 20.0469 3.64404 17.9473V9.2832C3.64404 7.38477 5.03955 5.80859 6.8623 5.52734C6.93408 5.01562 7.10791 4.53711 7.36182 4.11133C8.02783 2.99609 9.24609 2.25 10.6382 2.25H14.8062C15.4722 2.25 16.104 2.52148 16.564 3.00195L19.6758 6.24805C20.1221 6.70508 20.3569 7.31641 20.3569 7.93945V14.752C20.3569 16.6621 18.9414 18.2441 17.106 18.5137ZM15.646 17.8047C15.646 17.7871 15.6465 17.7676 15.6479 17.75V11.1523C15.6479 10.9141 15.5552 10.6816 15.3882 10.5098L12.2778 7.26953C12.1021 7.08594 11.8589 6.98242 11.605 6.98242H7.44727C6.1748 6.98242 5.14404 8.01367 5.14404 9.2832V17.9473C5.14404 18.6934 5.49854 19.3555 6.04883 19.7754C6.43652 20.0723 6.92139 20.248 7.44727 20.248L13.3452 20.25C14.6172 20.25 15.6479 19.2188 15.6479 17.9473V17.8594C15.6465 17.8418 15.646 17.8223 15.646 17.8047ZM8.39844 5.48242H11.605C12.2681 5.48242 12.9009 5.75195 13.3599 6.22852L16.4702 9.4707C16.9053 9.92188 17.1479 10.5273 17.1479 11.1523V16.9766C18.1299 16.7129 18.8569 15.8145 18.8569 14.752V7.93945C18.8569 7.69141 18.7632 7.46094 18.6021 7.29492L18.5972 7.28906L15.481 4.04102L15.48 4.03906C15.3013 3.85156 15.0601 3.75 14.8062 3.75H10.6382C9.56104 3.75 8.65576 4.48633 8.39844 5.48242Z" fill="black"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.outline,
@@ -4119,7 +4119,7 @@ class _NetworkSimcardDualBold {
 
   /// Simcard dual — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Simcard dual',
+    name: 'Simcard Dual',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7509 14.1953H8.78989C8.29089 14.1953 8.18689 14.5593 8.18689 14.8653V16.5643C8.18689 16.8703 8.29089 17.2353 8.78989 17.2353H11.7509C12.2499 17.2353 12.3549 16.8703 12.3549 16.5643V14.8653C12.3549 14.5593 12.2499 14.1953 11.7509 14.1953Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7325 14.875C18.7325 16.025 17.8795 16.972 16.7725 17.14V11.275C16.7725 10.715 16.5495 10.165 16.1635 9.77L13.0535 6.528C12.6405 6.101 12.0675 5.855 11.4795 5.855H8.23346C8.39546 4.738 9.35046 3.875 10.5125 3.875H14.6805C14.9365 3.875 15.1775 3.979 15.3575 4.163L18.4785 7.42C18.6425 7.587 18.7325 7.815 18.7325 8.064V14.875ZM13.8545 16.564C13.8545 17.822 12.9695 18.735 11.7515 18.735H8.79046C7.57146 18.735 6.68646 17.822 6.68646 16.564V14.865C6.68646 13.607 7.57146 12.695 8.79046 12.695H11.7515C12.9695 12.695 13.8545 13.607 13.8545 14.865V16.564ZM19.5545 6.376L16.4365 3.122C15.9685 2.641 15.3455 2.375 14.6805 2.375H10.5125C8.50246 2.375 6.86946 3.942 6.72746 5.915C5.05046 6.2 3.76746 7.651 3.76746 9.405V18.075C3.76746 20.032 5.36146 21.625 7.32146 21.625H13.2185C14.9835 21.625 16.4395 20.331 16.7145 18.646C18.6765 18.496 20.2325 16.872 20.2325 14.875V8.064C20.2325 7.421 19.9895 6.818 19.5545 6.376Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -4134,7 +4134,7 @@ class _NetworkSimcardDualLight {
 
   /// Simcard dual — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Simcard dual',
+    name: 'Simcard Dual',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M11.6053 6.23242C12.0636 6.23242 12.5014 6.41924 12.8186 6.74908L15.9293 9.99009C16.2299 10.3024 16.3982 10.7208 16.3982 11.1538V17.9481C16.3982 19.6343 15.0312 21.0004 13.345 21.0004L7.44678 20.9994C5.7606 20.9994 4.39355 19.6333 4.39355 17.9472V9.28467C4.39355 7.59947 5.7606 6.23242 7.44678 6.23242H11.6053Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8767 13.3184H8.91592C8.0811 13.3184 7.5625 13.907 7.5625 14.7409V16.4397C7.5625 17.2726 8.0811 17.8622 8.91592 17.8622H11.8767C12.7115 17.8622 13.2301 17.2726 13.2301 16.4397V14.7409C13.2301 13.907 12.7086 13.3184 11.8767 13.3184Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3973 17.8049H16.5529C18.2362 17.8049 19.6081 16.434 19.6081 14.7507V7.93984C19.6081 7.50395 19.4437 7.08264 19.1401 6.77129L16.0236 3.52152C15.7035 3.18681 15.2676 3 14.8074 3H10.6391C8.94808 3 7.57617 4.37094 7.57617 6.06198V6.20988" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.light,
@@ -4857,7 +4857,7 @@ class _NetworkLteCircleBulk {
 
   /// LTE Circle — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'LTE Circle',
+    name: 'Lte Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12 2.5C6.762 2.5 2.5 6.762 2.5 12C2.5 17.238 6.762 21.5 12 21.5C17.238 21.5 21.5 17.238 21.5 12C21.5 6.762 17.238 2.5 12 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.9169 11.1402C17.3309 11.1402 17.6669 11.4762 17.6669 11.8902C17.6669 12.3042 17.3309 12.6402 16.9169 12.6402H15.9409V13.3612H17.3489C17.7629 13.3612 18.0989 13.6972 18.0989 14.1112C18.0989 14.5252 17.7629 14.8612 17.3489 14.8612H15.1909C14.7769 14.8612 14.4409 14.5252 14.4409 14.1112V9.68018C14.4409 9.26618 14.7769 8.93018 15.1909 8.93018H17.3489C17.7629 8.93018 18.0989 9.26618 18.0989 9.68018C18.0989 10.0942 17.7629 10.4302 17.3489 10.4302H15.9409V11.1402H16.9169ZM12.9779 10.4302H12.2519V14.1112C12.2519 14.5252 11.9159 14.8612 11.5019 14.8612C11.0879 14.8612 10.7519 14.5252 10.7519 14.1112V10.4302H10.0249C9.61094 10.4302 9.27494 10.0942 9.27494 9.68018C9.27494 9.26618 9.61094 8.93018 10.0249 8.93018H12.9779C13.3919 8.93018 13.7279 9.26618 13.7279 9.68018C13.7279 10.0942 13.3919 10.4302 12.9779 10.4302ZM8.82494 14.8612H7.03894C6.62494 14.8612 6.28894 14.5252 6.28894 14.1112V9.68018C6.28894 9.26618 6.62494 8.93018 7.03894 8.93018C7.45294 8.93018 7.78894 9.26618 7.78894 9.68018V13.3612H8.82494C9.23894 13.3612 9.57494 13.6972 9.57494 14.1112C9.57494 14.5252 9.23894 14.8612 8.82494 14.8612Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -4872,7 +4872,7 @@ class _NetworkLteCircleBroken {
 
   /// LTE Circle — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'LTE Circle',
+    name: 'Lte Circle',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.8495 9.68152H15.6914V14.1066H17.8495" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.32544 14.1067H7.53906V9.67773" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.4784 9.68164H10.5254" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 9.67773V14.1067" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.6934 11.8926H17.4175" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 21C7.52908 21 3.5 16.9699 3.5 12C3.5 7.03005 7.52908 3 12.5 3C17.4709 3 21.5 7.03005 21.5 12C21.5 15.5457 19.4492 18.6131 16.4688 20.0799" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -4887,7 +4887,7 @@ class _NetworkLteCircleTwotone {
 
   /// LTE Circle — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'LTE Circle',
+    name: 'Lte Circle',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 12C21.5 7.02908 17.4709 3 12.5 3C7.52908 3 3.5 7.02908 3.5 12C3.5 16.9699 7.52908 21 12.5 21C17.4709 21 21.5 16.9699 21.5 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.8495 9.68164H15.6914V14.1067H17.8495" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.32544 14.1067H7.53906V9.67773" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.4784 9.68164H10.5254" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.002 9.67773V14.1067" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.6934 11.8926H17.4175" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -4902,7 +4902,7 @@ class _NetworkLteCircleOutline {
 
   /// LTE Circle — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'LTE Circle',
+    name: 'Lte Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5558 7.44335 20.25 12 20.25C16.5567 20.25 20.25 16.5558 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3841 17.3852 21.75 12 21.75C6.61481 21.75 2.25 17.3841 2.25 12ZM7.03822 8.92779C7.45243 8.92779 7.78822 9.26357 7.78822 9.67779V13.3568H8.8246C9.23881 13.3568 9.5746 13.6925 9.5746 14.1068C9.5746 14.521 9.23881 14.8568 8.8246 14.8568H7.03822C6.624 14.8568 6.28822 14.521 6.28822 14.1068V9.67779C6.28822 9.26357 6.624 8.92779 7.03822 8.92779ZM10.7502 10.4316V14.1068C10.7502 14.521 11.086 14.8568 11.5002 14.8568C11.9144 14.8568 12.2502 14.521 12.2502 14.1068V10.4316H12.9766C13.3908 10.4316 13.7266 10.0958 13.7266 9.68159C13.7266 9.26737 13.3908 8.93159 12.9766 8.93159H11.5762C11.5512 8.92907 11.5259 8.92779 11.5002 8.92779C11.4746 8.92779 11.4492 8.92907 11.4242 8.93159H10.0236C9.60944 8.93159 9.27365 9.26737 9.27365 9.68159C9.27365 10.0958 9.60944 10.4316 10.0236 10.4316H10.7502ZM14.4407 9.68159C14.4407 9.26737 14.7765 8.93159 15.1907 8.93159H17.3487C17.7629 8.93159 18.0987 9.26737 18.0987 9.68159C18.0987 10.0958 17.7629 10.4316 17.3487 10.4316H15.9407V11.1426H16.9167C17.3309 11.1426 17.6667 11.4784 17.6667 11.8926C17.6667 12.3068 17.3309 12.6426 16.9167 12.6426H15.9407V13.3567H17.3487C17.7629 13.3567 18.0987 13.6925 18.0987 14.1067C18.0987 14.5209 17.7629 14.8567 17.3487 14.8567H15.1907C14.7765 14.8567 14.4407 14.5209 14.4407 14.1067V9.68159Z" fill="black"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.outline,
@@ -4917,7 +4917,7 @@ class _NetworkLteCircleBold {
 
   /// LTE Circle — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'LTE Circle',
+    name: 'Lte Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.917 11.14C17.331 11.14 17.667 11.476 17.667 11.89C17.667 12.304 17.331 12.64 16.917 12.64H15.941V13.361H17.349C17.763 13.361 18.099 13.697 18.099 14.111C18.099 14.525 17.763 14.861 17.349 14.861H15.191C14.777 14.861 14.441 14.525 14.441 14.111V9.68C14.441 9.266 14.777 8.93 15.191 8.93H17.349C17.763 8.93 18.099 9.266 18.099 9.68C18.099 10.094 17.763 10.43 17.349 10.43H15.941V11.14H16.917ZM12.978 10.43H12.252V14.111C12.252 14.525 11.916 14.861 11.502 14.861C11.088 14.861 10.752 14.525 10.752 14.111V10.43H10.025C9.611 10.43 9.275 10.094 9.275 9.68C9.275 9.266 9.611 8.93 10.025 8.93H12.978C13.392 8.93 13.728 9.266 13.728 9.68C13.728 10.094 13.392 10.43 12.978 10.43ZM8.825 14.861H7.039C6.625 14.861 6.289 14.525 6.289 14.111V9.68C6.289 9.266 6.625 8.93 7.039 8.93C7.453 8.93 7.789 9.266 7.789 9.68V13.361H8.825C9.239 13.361 9.575 13.697 9.575 14.111C9.575 14.525 9.239 14.861 8.825 14.861ZM12 2.5C6.762 2.5 2.5 6.762 2.5 12C2.5 17.239 6.762 21.5 12 21.5C17.238 21.5 21.5 17.239 21.5 12C21.5 6.762 17.238 2.5 12 2.5Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -4932,7 +4932,7 @@ class _NetworkLteCircleLight {
 
   /// LTE Circle — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'LTE Circle',
+    name: 'Lte Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21C16.9709 21 21 16.9699 21 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.3495 9.68152H15.1914V14.1066H17.3495" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.82544 14.1067H7.03906V9.67773" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.9784 9.68164H10.0254" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.502 9.67773V14.1067" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.1934 11.8926H16.9175" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.light,
@@ -4965,7 +4965,7 @@ class _NetworkI4gSqaureBulk {
 
   /// 4G sqaure — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '4G sqaure',
+    name: '4g Sqaure',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.217 2.5H7.782C4.623 2.5 2.5 4.723 2.5 8.031V15.97C2.5 19.278 4.623 21.5 7.782 21.5H16.216C19.377 21.5 21.5 19.278 21.5 15.97V8.031C21.5 4.723 19.377 2.5 16.217 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.519 15.4302C16.947 15.4302 17.8 14.6982 17.8 13.4702V12.0002C17.8 11.5862 17.464 11.2502 17.05 11.2502H15.519C15.105 11.2502 14.769 11.5862 14.769 12.0002C14.769 12.4142 15.105 12.7502 15.519 12.7502H16.3V13.4702C16.3 13.6862 16.3 13.9302 15.519 13.9302C15.042 13.9302 14.625 13.7582 14.313 13.4322C13.951 13.0562 13.758 12.4942 13.784 11.8912C13.805 11.3712 14.039 10.8702 14.425 10.5182C14.765 10.2072 15.182 10.0452 15.616 10.0702C15.878 10.0832 16.133 10.1512 16.373 10.2712C16.744 10.4562 17.194 10.3082 17.379 9.93517C17.564 9.56517 17.414 9.11517 17.044 8.92917C16.618 8.71617 16.164 8.59617 15.692 8.57217C14.869 8.52317 14.052 8.82817 13.414 9.40917C12.734 10.0312 12.322 10.9132 12.285 11.8292C12.242 12.8532 12.578 13.7912 13.23 14.4712C13.823 15.0892 14.636 15.4302 15.519 15.4302ZM10.681 14.2102H10.968C11.382 14.2102 11.718 13.8742 11.718 13.4602C11.718 13.0462 11.382 12.7102 10.968 12.7102H10.681V9.31117C10.681 8.98617 10.471 8.69717 10.161 8.59717C9.852 8.49617 9.512 8.60917 9.322 8.87317L6.341 13.0232C6.176 13.2512 6.154 13.5522 6.282 13.8022C6.41 14.0532 6.668 14.2102 6.949 14.2102H9.181V14.6902C9.181 15.1042 9.517 15.4402 9.931 15.4402C10.345 15.4402 10.681 15.1042 10.681 14.6902V14.2102ZM9.18138 11.6406V12.7106H8.41138L9.18138 11.6406Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -4980,7 +4980,7 @@ class _NetworkI4gSqaureBroken {
 
   /// 4G sqaure — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '4G sqaure',
+    name: '4g Sqaure',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.7159 21C19.665 21 21.5 18.9188 21.5 15.9736V8.02638C21.5 5.08119 19.665 3 16.7169 3H8.28216C5.34281 3 3.5 5.08119 3.5 8.02638V15.9736C3.5 18.9188 5.33308 21 8.28216 21H13.003" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.4314 14.6853V13.4622M10.4314 13.4622H11.4676M10.4314 13.4622H7.44922L10.4314 9.31445V13.4622Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2081 9.59759C16.8879 9.439 16.5318 9.34267 16.1543 9.32321C14.7532 9.25316 13.5915 10.4616 13.5341 11.8636C13.4699 13.4058 14.4935 14.6804 16.0191 14.6804C16.9132 14.6804 17.5496 14.3613 17.5496 13.4681V11.9999H16.0191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -4995,7 +4995,7 @@ class _NetworkI4gSqaureTwotone {
 
   /// 4G sqaure — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '4G sqaure',
+    name: '4g Sqaure',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.28216 3H16.7169C19.665 3 21.5 5.08119 21.5 8.02638V15.9736C21.5 18.9188 19.665 21 16.7159 21H8.28216C5.33308 21 3.5 18.9188 3.5 15.9736V8.02638C3.5 5.08119 5.34281 3 8.28216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.4314 14.6853V13.4622M10.4314 13.4622H11.4676M10.4314 13.4622H7.44922L10.4314 9.31445V13.4622Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.2081 9.59759C16.8879 9.439 16.5318 9.34267 16.1543 9.32321C14.7532 9.25316 13.5915 10.4616 13.5341 11.8636C13.4699 13.4058 14.4935 14.6804 16.0191 14.6804C16.9132 14.6804 17.5496 14.3613 17.5496 13.4681V11.9999H16.0191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -5010,7 +5010,7 @@ class _NetworkI4gSqaureOutline {
 
   /// 4G sqaure — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '4G sqaure',
+    name: '4g Sqaure',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.7402 3.89737C4.72468 2.84117 6.12669 2.25 7.78216 2.25H16.2169C17.8762 2.25 19.2788 2.84084 20.2629 3.89765C21.2413 4.94841 21.75 6.39889 21.75 8.02638V15.9736C21.75 17.6011 21.2413 19.0516 20.2627 20.1024C19.2785 21.1592 17.8757 21.75 16.2159 21.75H7.78216C6.12237 21.75 4.7199 21.1592 3.73617 20.1022C2.75811 19.0514 2.25 17.6009 2.25 15.9736V8.02638C2.25 6.39806 2.76117 4.94771 3.7402 3.89737ZM4.83745 4.92012C4.16024 5.64666 3.75 6.70951 3.75 8.02638V15.9736C3.75 17.2915 4.15843 18.3542 4.83418 19.0803C5.50426 19.8002 6.49287 20.25 7.78216 20.25H16.2159C17.5052 20.25 18.4944 19.8002 19.165 19.0801C19.8412 18.354 20.25 17.2913 20.25 15.9736V8.02638C20.25 6.70868 19.8412 5.64597 19.1651 4.91984C18.4946 4.19975 17.5056 3.75 16.2169 3.75H7.78216C6.49828 3.75 5.50921 4.19943 4.83745 4.92012ZM10.1611 8.60096C10.471 8.7008 10.6811 8.98922 10.6811 9.31482V12.7126H10.9673C11.3815 12.7126 11.7173 13.0484 11.7173 13.4626C11.7173 13.8768 11.3815 14.2126 10.9673 14.2126H10.6811V14.6856C10.6811 15.0998 10.3453 15.4356 9.93106 15.4356C9.51685 15.4356 9.18106 15.0998 9.18106 14.6856V14.2126H6.9489C6.66754 14.2126 6.40985 14.0551 6.2815 13.8048C6.15314 13.5544 6.17571 13.2532 6.33996 13.0248L9.32212 8.877C9.51219 8.61264 9.85113 8.50111 10.1611 8.60096ZM9.18106 12.7126V11.6428L8.41186 12.7126H9.18106ZM12.2854 11.8322C12.3574 10.0731 13.8179 8.47969 15.6924 8.57341L15.6936 8.57347C16.1748 8.59828 16.631 8.72135 17.0416 8.92481C17.4128 9.1087 17.5646 9.55865 17.3807 9.92981C17.1968 10.301 16.7469 10.4528 16.3757 10.2689C16.1464 10.1553 15.8905 10.0857 15.6169 10.0715C14.6895 10.0255 13.8269 10.8488 13.7841 11.8936L13.7841 11.8941C13.7342 13.0927 14.4989 13.9297 15.5197 13.9297C15.9 13.9297 16.0999 13.8578 16.1874 13.796C16.2225 13.7711 16.2431 13.746 16.2589 13.7127C16.2765 13.6756 16.3002 13.6017 16.3002 13.4673V12.7491H15.5197C15.1055 12.7491 14.7697 12.4133 14.7697 11.9991C14.7697 11.5849 15.1055 11.2491 15.5197 11.2491H17.0502C17.4644 11.2491 17.8002 11.5849 17.8002 11.9991V13.4673C17.8002 14.116 17.5545 14.6666 17.0531 15.0209C16.5989 15.342 16.0336 15.4297 15.5197 15.4297C13.4895 15.4297 12.2071 13.7177 12.2854 11.8322Z" fill="black"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.outline,
@@ -5025,7 +5025,7 @@ class _NetworkI4gSqaureBold {
 
   /// 4G sqaure — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '4G sqaure',
+    name: '4g Sqaure',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.18139 12.7106V11.6406L8.41139 12.7106H9.18139Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.8 13.47C17.8 14.698 16.947 15.43 15.519 15.43C14.636 15.43 13.823 15.089 13.23 14.471C12.578 13.791 12.242 12.853 12.285 11.829C12.322 10.913 12.734 10.031 13.414 9.409C14.052 8.828 14.869 8.523 15.692 8.572C16.164 8.596 16.618 8.716 17.044 8.929C17.414 9.115 17.564 9.565 17.379 9.935C17.194 10.308 16.744 10.456 16.373 10.271C16.133 10.151 15.878 10.083 15.616 10.07C15.182 10.045 14.765 10.207 14.425 10.518C14.039 10.87 13.805 11.371 13.784 11.891C13.758 12.494 13.951 13.056 14.313 13.432C14.625 13.758 15.042 13.93 15.519 13.93C16.3 13.93 16.3 13.686 16.3 13.47V12.75H15.519C15.105 12.75 14.769 12.414 14.769 12C14.769 11.586 15.105 11.25 15.519 11.25H17.05C17.464 11.25 17.8 11.586 17.8 12V13.47ZM10.968 14.21H10.681V14.69C10.681 15.104 10.345 15.44 9.931 15.44C9.517 15.44 9.181 15.104 9.181 14.69V14.21H6.949C6.668 14.21 6.41 14.053 6.282 13.802C6.154 13.552 6.176 13.251 6.341 13.023L9.322 8.873C9.512 8.609 9.852 8.496 10.161 8.597C10.471 8.697 10.681 8.986 10.681 9.311V12.71H10.968C11.382 12.71 11.718 13.046 11.718 13.46C11.718 13.874 11.382 14.21 10.968 14.21ZM16.217 2.5H7.782C4.623 2.5 2.5 4.723 2.5 8.031V15.97C2.5 19.278 4.623 21.5 7.782 21.5H16.216C19.377 21.5 21.5 19.278 21.5 15.97V8.031C21.5 4.723 19.377 2.5 16.217 2.5Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -5040,7 +5040,7 @@ class _NetworkI4gSqaureLight {
 
   /// 4G sqaure — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '4G sqaure',
+    name: '4g Sqaure',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83308 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.93138 14.6853V13.4622M9.93138 13.4622H10.9676M9.93138 13.4622H6.94922L9.93138 9.31445V13.4622Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7081 9.59759C16.3879 9.439 16.0318 9.34267 15.6543 9.32321C14.2532 9.25316 13.0915 10.4616 13.0341 11.8636C12.9699 13.4058 13.9935 14.6804 15.5191 14.6804C16.4132 14.6804 17.0496 14.3613 17.0496 13.4681V11.9999H15.5191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.light,
@@ -5073,7 +5073,7 @@ class _NetworkI5gSquareBulk {
 
   /// 5G square — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '5G square',
+    name: '5g Square',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.217 2.5H7.782C4.623 2.5 2.5 4.723 2.5 8.031V15.97C2.5 19.278 4.623 21.5 7.782 21.5H16.216C19.377 21.5 21.5 19.278 21.5 15.97V8.031C21.5 4.723 19.377 2.5 16.217 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4739 13.4698C17.4739 14.6978 16.6209 15.4298 15.1949 15.4298C14.3119 15.4298 13.4979 15.0888 12.9049 14.4708C12.2529 13.7908 11.9169 12.8528 11.9599 11.8288C11.9969 10.9128 12.4089 10.0318 13.0879 9.4098C13.7259 8.8278 14.5419 8.5268 15.3669 8.5718C15.8379 8.5958 16.2919 8.7158 16.7179 8.9288C17.0889 9.1148 17.2399 9.5648 17.0539 9.9348C16.8689 10.3058 16.4199 10.4568 16.0479 10.2708C15.8079 10.1508 15.5529 10.0828 15.2899 10.0698C14.8629 10.0538 14.4399 10.2068 14.0999 10.5178C13.7129 10.8698 13.4799 11.3708 13.4579 11.8908C13.4339 12.4938 13.6259 13.0558 13.9879 13.4318C14.2999 13.7578 14.7169 13.9298 15.1949 13.9298C15.9739 13.9298 15.9739 13.6858 15.9739 13.4698V12.7498H15.1949C14.7809 12.7498 14.4449 12.4138 14.4449 11.9998C14.4449 11.5858 14.7809 11.2498 15.1949 11.2498H16.7239C17.1379 11.2498 17.4739 11.5858 17.4739 11.9998V13.4698ZM8.63991 15.4498C7.84691 15.4498 7.10591 15.0488 6.65891 14.3748C6.42891 14.0308 6.52191 13.5648 6.86791 13.3358C7.21091 13.1058 7.67891 13.1988 7.90691 13.5448C8.07791 13.8028 8.34591 13.9498 8.63991 13.9498C9.14691 13.9498 9.55891 13.5368 9.55891 13.0308C9.55891 12.6988 9.28991 12.4298 8.95991 12.4298H7.47591C7.26191 12.4298 7.05891 12.3388 6.91591 12.1798C6.77391 12.0198 6.70591 11.8078 6.73091 11.5958L6.99991 9.2158C7.04291 8.8358 7.36391 8.5498 7.74491 8.5498H10.0779C10.4929 8.5498 10.8279 8.8858 10.8279 9.2998C10.8279 9.7138 10.4929 10.0498 10.0779 10.0498H8.41491L8.31591 10.9298H8.95991C10.1179 10.9298 11.0589 11.8718 11.0589 13.0308C11.0589 14.3648 9.97391 15.4498 8.63991 15.4498Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -5088,7 +5088,7 @@ class _NetworkI5gSquareBroken {
 
   /// 5G square — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '5G square',
+    name: '5g Square',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78223 13.9555C8.07509 14.4011 8.5645 14.6998 9.1405 14.6998C10.0619 14.6998 10.8091 13.9526 10.8091 13.0321C10.8091 12.2868 10.204 11.6826 9.45963 11.6826H7.97585L8.24536 9.30273H10.5776" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.8829 9.59759C16.5628 9.439 16.2066 9.34267 15.8291 9.32321C14.428 9.25316 13.2663 10.4616 13.2089 11.8636C13.1447 13.4058 14.1683 14.6804 15.6939 14.6804C16.588 14.6804 17.2244 14.3613 17.2244 13.4681V11.9999H15.6939" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7188 21C19.6679 21 21.5029 18.9188 21.5029 15.9736V8.02638C21.5029 5.08119 19.6679 3 16.7198 3H8.28509C5.34574 3 3.50293 5.08119 3.50293 8.02638V15.9736C3.50293 18.9188 5.33601 21 8.28509 21H13.006" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -5103,7 +5103,7 @@ class _NetworkI5gSquareTwotone {
 
   /// 5G square — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '5G square',
+    name: '5g Square',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.28216 3H16.7169C19.665 3 21.5 5.08119 21.5 8.02638V15.9736C21.5 18.9188 19.665 21 16.7159 21H8.28216C5.33308 21 3.5 18.9188 3.5 15.9736V8.02638C3.5 5.08119 5.34281 3 8.28216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.7793 13.9555C8.07216 14.4011 8.56157 14.6998 9.13757 14.6998C10.059 14.6998 10.8062 13.9526 10.8062 13.0321C10.8062 12.2868 10.201 11.6826 9.4567 11.6826H7.97292L8.24243 9.30273H10.5746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.8799 9.59759C16.5598 9.439 16.2037 9.34267 15.8262 9.32321C14.4251 9.25316 13.2634 10.4616 13.206 11.8636C13.1418 13.4058 14.1653 14.6804 15.691 14.6804C16.5851 14.6804 17.2214 14.3613 17.2214 13.4681V11.9999H15.691" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -5118,7 +5118,7 @@ class _NetworkI5gSquareOutline {
 
   /// 5G square — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '5G square',
+    name: '5g Square',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.7402 3.89737C4.72468 2.84117 6.12669 2.25 7.78216 2.25H16.2169C17.8762 2.25 19.2788 2.84084 20.2629 3.89765C21.2413 4.94841 21.75 6.39889 21.75 8.02638V15.9736C21.75 17.6011 21.2413 19.0516 20.2627 20.1024C19.2785 21.1592 17.8757 21.75 16.2159 21.75H7.78216C6.12237 21.75 4.7199 21.1592 3.73617 20.1022C2.75811 19.0514 2.25 17.6009 2.25 15.9736V8.02638C2.25 6.39806 2.76117 4.94771 3.7402 3.89737ZM4.83745 4.92012C4.16024 5.64666 3.75 6.70951 3.75 8.02638V15.9736C3.75 17.2915 4.15843 18.3542 4.83418 19.0803C5.50426 19.8002 6.49287 20.25 7.78216 20.25H16.2159C17.5052 20.25 18.4944 19.8002 19.165 19.0801C19.8412 18.354 20.25 17.2913 20.25 15.9736V8.02638C20.25 6.70868 19.8412 5.64597 19.1651 4.91984C18.4946 4.19975 17.5056 3.75 16.2169 3.75H7.78216C6.49828 3.75 5.50921 4.19943 4.83745 4.92012ZM6.99746 9.2176C7.04039 8.83847 7.36114 8.552 7.7427 8.552H10.0749C10.4891 8.552 10.8249 8.88778 10.8249 9.302C10.8249 9.71621 10.4891 10.052 10.0749 10.052H8.41256L8.31291 10.9319H8.95697C10.1152 10.9319 11.0565 11.8715 11.0565 13.0314C11.0565 14.3663 9.97317 15.4491 8.63783 15.4491C7.78786 15.4491 7.07214 15.0047 6.6528 14.3667C6.42531 14.0205 6.5215 13.5555 6.86765 13.328C7.2138 13.1005 7.67883 13.1967 7.90632 13.5428C8.07271 13.796 8.3358 13.9491 8.63783 13.9491C9.14531 13.9491 9.55648 13.5373 9.55648 13.0314C9.55648 12.7007 9.28743 12.4319 8.95697 12.4319H7.47318C7.25957 12.4319 7.0561 12.3408 6.91381 12.1815C6.77152 12.0222 6.70391 11.8097 6.72795 11.5975L6.99746 9.2176ZM11.9566 11.8322C12.0286 10.0731 13.4892 8.47969 15.3637 8.57341L15.3648 8.57347C15.8461 8.59828 16.3022 8.72135 16.7129 8.92481C17.084 9.1087 17.2359 9.55865 17.052 9.92981C16.8681 10.301 16.4181 10.4528 16.047 10.2689C15.8176 10.1553 15.5617 10.0857 15.2882 10.0715C14.3607 10.0255 13.4981 10.8488 13.4554 11.8936L13.4553 11.8941C13.4054 13.0927 14.1701 13.9297 15.191 13.9297C15.5712 13.9297 15.7712 13.8578 15.8586 13.796C15.8938 13.7711 15.9144 13.746 15.9302 13.7127C15.9477 13.6756 15.9714 13.6017 15.9714 13.4673V12.7491H15.191C14.7767 12.7491 14.441 12.4133 14.441 11.9991C14.441 11.5849 14.7767 11.2491 15.191 11.2491H16.7214C17.1357 11.2491 17.4714 11.5849 17.4714 11.9991V13.4673C17.4714 14.116 17.2257 14.6666 16.7244 15.0209C16.2701 15.342 15.7048 15.4297 15.191 15.4297C13.1608 15.4297 11.8783 13.7177 11.9566 11.8322Z" fill="black"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.outline,
@@ -5133,7 +5133,7 @@ class _NetworkI5gSquareBold {
 
   /// 5G square — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '5G square',
+    name: '5g Square',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.4739 13.47C17.4739 14.698 16.6209 15.43 15.1949 15.43C14.3119 15.43 13.4979 15.089 12.9049 14.471C12.2529 13.791 11.9169 12.853 11.9599 11.829C11.9969 10.913 12.4089 10.032 13.0879 9.41C13.7259 8.828 14.5419 8.527 15.3669 8.572C15.8379 8.596 16.2919 8.716 16.7179 8.929C17.0889 9.115 17.2399 9.565 17.0539 9.935C16.8689 10.306 16.4199 10.457 16.0479 10.271C15.8079 10.151 15.5529 10.083 15.2899 10.07C14.8629 10.054 14.4399 10.207 14.0999 10.518C13.7129 10.87 13.4799 11.371 13.4579 11.891C13.4339 12.494 13.6259 13.056 13.9879 13.432C14.2999 13.758 14.7169 13.93 15.1949 13.93C15.9739 13.93 15.9739 13.686 15.9739 13.47V12.75H15.1949C14.7809 12.75 14.4449 12.414 14.4449 12C14.4449 11.586 14.7809 11.25 15.1949 11.25H16.7239C17.1379 11.25 17.4739 11.586 17.4739 12V13.47ZM8.63993 15.45C7.84693 15.45 7.10593 15.049 6.65893 14.375C6.42893 14.031 6.52193 13.565 6.86793 13.336C7.21093 13.106 7.67893 13.199 7.90693 13.545C8.07793 13.803 8.34593 13.95 8.63993 13.95C9.14693 13.95 9.55893 13.537 9.55893 13.031C9.55893 12.699 9.28993 12.43 8.95993 12.43H7.47593C7.26193 12.43 7.05893 12.339 6.91593 12.18C6.77393 12.02 6.70593 11.808 6.73093 11.596L6.99993 9.216C7.04293 8.836 7.36393 8.55 7.74493 8.55H10.0779C10.4929 8.55 10.8279 8.886 10.8279 9.3C10.8279 9.714 10.4929 10.05 10.0779 10.05H8.41493L8.31593 10.93H8.95993C10.1179 10.93 11.0589 11.872 11.0589 13.031C11.0589 14.365 9.97393 15.45 8.63993 15.45ZM16.2199 2.5H7.78593C4.62593 2.5 2.50293 4.723 2.50293 8.031V15.97C2.50293 19.278 4.62593 21.5 7.78593 21.5H16.2189C19.3789 21.5 21.5029 19.278 21.5029 15.97V8.031C21.5029 4.723 19.3799 2.5 16.2199 2.5Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -5148,7 +5148,7 @@ class _NetworkI5gSquareLight {
 
   /// 5G square — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '5G square',
+    name: '5g Square',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83308 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.2793 13.9555C7.57216 14.4011 8.06157 14.6998 8.63757 14.6998C9.55897 14.6998 10.3062 13.9526 10.3062 13.0321C10.3062 12.2868 9.70103 11.6826 8.9567 11.6826H7.47292L7.74243 9.30273H10.0746" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.3799 9.59759C16.0598 9.439 15.7037 9.34267 15.3262 9.32321C13.9251 9.25316 12.7634 10.4616 12.706 11.8636C12.6418 13.4058 13.6653 14.6804 15.191 14.6804C16.0851 14.6804 16.7214 14.3613 16.7214 13.4681V11.9999H15.191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.light,
@@ -5289,7 +5289,7 @@ class _NetworkLteSqaureBulk {
 
   /// LTE sqaure — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'LTE sqaure',
+    name: 'Lte Sqaure',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.7111 2.5H8.27614C5.11714 2.5 2.99414 4.723 2.99414 8.031V15.97C2.99414 19.278 5.11714 21.5 8.27614 21.5H16.7101C19.8711 21.5 21.9941 19.278 21.9941 15.97V8.031C21.9941 4.723 19.8711 2.5 16.7111 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5441 11.2502C17.9581 11.2502 18.2941 11.5862 18.2941 12.0002C18.2941 12.4142 17.9581 12.7502 17.5441 12.7502H16.5201V13.5302H17.9861C18.4001 13.5302 18.7361 13.8662 18.7361 14.2802C18.7361 14.6942 18.4001 15.0302 17.9861 15.0302H15.7701C15.3561 15.0302 15.0201 14.6942 15.0201 14.2802V9.73022C15.0201 9.31622 15.3561 8.98022 15.7701 8.98022H17.9861C18.4001 8.98022 18.7361 9.31622 18.7361 9.73022C18.7361 10.1452 18.4001 10.4802 17.9861 10.4802H16.5201V11.2502H17.5441ZM13.4981 10.4802H12.7301V14.2702C12.7301 14.6842 12.3941 15.0202 11.9801 15.0202C11.5661 15.0202 11.2301 14.6842 11.2301 14.2702V10.4802H10.4651C10.0511 10.4802 9.71512 10.1452 9.71512 9.73021C9.71512 9.31621 10.0511 8.98022 10.4651 8.98022H11.9271C11.9451 8.97922 11.9611 8.97021 11.9801 8.97021C11.9991 8.97021 12.0151 8.97922 12.0331 8.98022H13.4981C13.9121 8.98022 14.2481 9.31621 14.2481 9.73021C14.2481 10.1452 13.9121 10.4802 13.4981 10.4802ZM9.23212 15.0302H7.39612C6.98212 15.0302 6.64612 14.6942 6.64612 14.2802V9.73022C6.64612 9.31622 6.98212 8.98022 7.39612 8.98022C7.81012 8.98022 8.14612 9.31622 8.14612 9.73022V13.5302H9.23212C9.64612 13.5302 9.98212 13.8662 9.98212 14.2802C9.98212 14.6942 9.64612 15.0302 9.23212 15.0302Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -5304,7 +5304,7 @@ class _NetworkLteSqaureBroken {
 
   /// LTE sqaure — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'LTE sqaure',
+    name: 'Lte Sqaure',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M18.486 9.73047H16.2695V14.2752H18.486" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2734 12H18.0442" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.9976 9.73047H10.9648" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.4805 9.72461V14.2733" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.73151 14.2752H7.89648V9.72656" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.21 21C20.1591 21 21.9941 18.9188 21.9941 15.9736V8.02638C21.9941 5.08119 20.1591 3 17.211 3H8.7763C5.83695 3 3.99414 5.08119 3.99414 8.02638V15.9736C3.99414 18.9188 5.82722 21 8.7763 21H13.4972" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -5319,7 +5319,7 @@ class _NetworkLteSqaureTwotone {
 
   /// LTE sqaure — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'LTE sqaure',
+    name: 'Lte Sqaure',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.28216 3H16.7169C19.665 3 21.5 5.08119 21.5 8.02638V15.9736C21.5 18.9188 19.665 21 16.7159 21H8.28216C5.33308 21 3.5 18.9188 3.5 15.9736V8.02638C3.5 5.08119 5.34281 3 8.28216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9918 9.73047H15.7754V14.2752H17.9918" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7793 12H17.5501" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.5035 9.73047H10.4707" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.9863 9.72461V14.2733" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.23737 14.2752H7.40234V9.72656" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -5334,7 +5334,7 @@ class _NetworkLteSqaureOutline {
 
   /// LTE sqaure — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'LTE sqaure',
+    name: 'Lte Sqaure',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.7402 3.89737C4.72468 2.84117 6.12669 2.25 7.78216 2.25H16.2169C17.8762 2.25 19.2788 2.84084 20.2629 3.89765C21.2413 4.94841 21.75 6.39889 21.75 8.02638V15.9736C21.75 17.6011 21.2413 19.0516 20.2627 20.1024C19.2785 21.1592 17.8757 21.75 16.2159 21.75H7.78216C6.12237 21.75 4.7199 21.1592 3.73617 20.1022C2.75811 19.0514 2.25 17.6009 2.25 15.9736V8.02638C2.25 6.39806 2.76117 4.94771 3.7402 3.89737ZM4.83745 4.92012C4.16024 5.64666 3.75 6.70951 3.75 8.02638V15.9736C3.75 17.2915 4.15843 18.3542 4.83418 19.0803C5.50426 19.8002 6.49287 20.25 7.78216 20.25H16.2159C17.5052 20.25 18.4944 19.8002 19.165 19.0801C19.8412 18.354 20.25 17.2913 20.25 15.9736V8.02638C20.25 6.70868 19.8412 5.64597 19.1651 4.91984C18.4946 4.19975 17.5056 3.75 16.2169 3.75H7.78216C6.49828 3.75 5.50921 4.19943 4.83745 4.92012ZM10.7369 10.48V14.2739C10.7369 14.6882 11.0727 15.0239 11.4869 15.0239C11.9011 15.0239 12.2369 14.6882 12.2369 14.2739V10.48H13.0032C13.4174 10.48 13.7532 10.1443 13.7532 9.73005C13.7532 9.31583 13.4174 8.98005 13.0032 8.98005H11.5718C11.5439 8.97691 11.5156 8.9753 11.4869 8.9753C11.4582 8.9753 11.4299 8.97691 11.402 8.98005H9.97044C9.55623 8.98005 9.22044 9.31583 9.22044 9.73005C9.22044 10.1443 9.55623 10.48 9.97044 10.48H10.7369ZM6.90329 8.97577C7.31751 8.97577 7.65329 9.31156 7.65329 9.72577V13.5244H8.73832C9.15253 13.5244 9.48832 13.8602 9.48832 14.2744C9.48832 14.6886 9.15253 15.0244 8.73832 15.0244H6.90329C6.48908 15.0244 6.15329 14.6886 6.15329 14.2744V9.72577C6.15329 9.31156 6.48908 8.97577 6.90329 8.97577ZM14.5262 9.73005C14.5262 9.31583 14.862 8.98005 15.2762 8.98005H17.4926C17.9068 8.98005 18.2426 9.31583 18.2426 9.73005C18.2426 10.1443 17.9068 10.48 17.4926 10.48H16.0262V11.25H17.0508C17.465 11.25 17.8008 11.5858 17.8008 12C17.8008 12.4142 17.465 12.75 17.0508 12.75H16.0262V13.5248H17.4926C17.9068 13.5248 18.2426 13.8606 18.2426 14.2748C18.2426 14.689 17.9068 15.0248 17.4926 15.0248H15.2762C14.862 15.0248 14.5262 14.689 14.5262 14.2748V9.73005Z" fill="black"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.outline,
@@ -5349,7 +5349,7 @@ class _NetworkLteSqaureBold {
 
   /// LTE sqaure — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'LTE sqaure',
+    name: 'Lte Sqaure',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5441 11.25C17.9581 11.25 18.2941 11.586 18.2941 12C18.2941 12.414 17.9581 12.75 17.5441 12.75H16.5201V13.53H17.9861C18.4001 13.53 18.7361 13.866 18.7361 14.28C18.7361 14.694 18.4001 15.03 17.9861 15.03H15.7701C15.3561 15.03 15.0201 14.694 15.0201 14.28V9.73C15.0201 9.316 15.3561 8.98 15.7701 8.98H17.9861C18.4001 8.98 18.7361 9.316 18.7361 9.73C18.7361 10.145 18.4001 10.48 17.9861 10.48H16.5201V11.25H17.5441ZM13.4981 10.48H12.7301V14.27C12.7301 14.684 12.3941 15.02 11.9801 15.02C11.5661 15.02 11.2301 14.684 11.2301 14.27V10.48H10.4651C10.0511 10.48 9.71514 10.145 9.71514 9.73C9.71514 9.316 10.0511 8.98 10.4651 8.98H11.9271C11.9451 8.979 11.9611 8.97 11.9801 8.97C11.9991 8.97 12.0151 8.979 12.0331 8.98H13.4981C13.9121 8.98 14.2481 9.316 14.2481 9.73C14.2481 10.145 13.9121 10.48 13.4981 10.48ZM9.23214 15.03H7.39614C6.98214 15.03 6.64614 14.694 6.64614 14.28V9.73C6.64614 9.316 6.98214 8.98 7.39614 8.98C7.81014 8.98 8.14614 9.316 8.14614 9.73V13.53H9.23214C9.64614 13.53 9.98214 13.866 9.98214 14.28C9.98214 14.694 9.64614 15.03 9.23214 15.03ZM16.7111 2.5H8.27614C5.11714 2.5 2.99414 4.723 2.99414 8.03V15.97C2.99414 19.277 5.11714 21.5 8.27614 21.5H16.7101C19.8711 21.5 21.9941 19.277 21.9941 15.97V8.03C21.9941 4.723 19.8711 2.5 16.7111 2.5Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -5364,7 +5364,7 @@ class _NetworkLteSqaureLight {
 
   /// LTE sqaure — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'LTE sqaure',
+    name: 'Lte Sqaure',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83308 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.4918 9.73047H15.2754V14.2752H17.4918" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.2793 12H17.0501" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.0035 9.73047H9.9707" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.4863 9.72461V14.2733" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.73737 14.2752H6.90234V9.72656" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.light,
@@ -5397,7 +5397,7 @@ class _NetworkI4gCircleBulk {
 
   /// 4G Circle — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '4G Circle',
+    name: '4g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12 2.5C6.762 2.5 2.5 6.761 2.5 12C2.5 17.238 6.762 21.5 12 21.5C17.238 21.5 21.5 17.238 21.5 12C21.5 6.761 17.238 2.5 12 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.426 15.3299C16.829 15.3299 17.667 14.6079 17.667 13.3999V11.9689C17.667 11.5549 17.331 11.2189 16.917 11.2189H15.426C15.012 11.2189 14.676 11.5549 14.676 11.9689C14.676 12.3829 15.012 12.7189 15.426 12.7189H16.167V13.3999C16.167 13.6009 16.167 13.8299 15.426 13.8299C14.968 13.8299 14.566 13.6639 14.266 13.3499C13.918 12.9869 13.732 12.4479 13.756 11.8699C13.776 11.3649 14.003 10.8789 14.377 10.5379C14.704 10.2399 15.128 10.0939 15.519 10.1089C15.784 10.1229 16.026 10.1859 16.24 10.2959C16.61 10.4879 17.062 10.3389 17.251 9.97289C17.44 9.60489 17.296 9.15289 16.928 8.96289C16.524 8.75389 16.077 8.63589 15.598 8.61089C14.788 8.57189 13.992 8.85989 13.366 9.42889C12.698 10.0389 12.294 10.9059 12.257 11.8079C12.216 12.7919 12.554 13.7319 13.183 14.3879C13.766 14.9959 14.562 15.3299 15.426 15.3299ZM10.735 14.1389H10.994C11.408 14.1389 11.744 13.8029 11.744 13.3889C11.744 12.9749 11.408 12.6389 10.994 12.6389H10.735V9.34889C10.735 9.02389 10.525 8.73489 10.215 8.63489C9.906 8.53589 9.566 8.64689 9.376 8.91189L6.473 12.9519C6.309 13.1799 6.286 13.4809 6.415 13.7309C6.543 13.9819 6.801 14.1389 7.082 14.1389H9.235V14.5799C9.235 14.9939 9.571 15.3299 9.985 15.3299C10.399 15.3299 10.735 14.9939 10.735 14.5799V14.1389ZM9.23489 11.6782V12.6392H8.54489L9.23489 11.6782Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -5412,7 +5412,7 @@ class _NetworkI4gCircleBroken {
 
   /// 4G Circle — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '4G Circle',
+    name: '4g Circle',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.4854 14.5823V13.3914M10.4854 13.3914H11.4944M10.4854 13.3914H7.58203L10.4854 9.35352V13.3914Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0843 9.62879C16.7729 9.47408 16.4256 9.38068 16.0588 9.36219C14.6937 9.29408 13.5631 10.4704 13.5067 11.8355C13.4444 13.3368 14.4417 14.5773 15.9264 14.5773C16.7963 14.5773 17.417 14.267 17.417 13.3971V11.9678H15.9264" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 21C7.52908 21 3.5 16.9699 3.5 12C3.5 7.03005 7.52908 3 12.5 3C17.4709 3 21.5 7.03005 21.5 12C21.5 15.5457 19.4492 18.6131 16.4688 20.0799" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -5427,7 +5427,7 @@ class _NetworkI4gCircleTwotone {
 
   /// 4G Circle — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '4G Circle',
+    name: '4g Circle',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 12C21.5 7.02908 17.4709 3 12.5 3C7.52908 3 3.5 7.02908 3.5 12C3.5 16.9699 7.52908 21 12.5 21C17.4709 21 21.5 16.9699 21.5 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.4854 14.5823V13.3914M10.4854 13.3914H11.4944M10.4854 13.3914H7.58203L10.4854 9.35352V13.3914Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0843 9.62879C16.7729 9.47408 16.4256 9.38068 16.0588 9.36219C14.6937 9.29408 13.5631 10.4704 13.5067 11.8355C13.4444 13.3368 14.4417 14.5773 15.9264 14.5773C16.7963 14.5773 17.417 14.267 17.417 13.3971V11.9678H15.9264" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -5442,7 +5442,7 @@ class _NetworkI4gCircleOutline {
 
   /// 4G Circle — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '4G Circle',
+    name: '4g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5558 7.44335 20.25 12 20.25C16.5567 20.25 20.25 16.5558 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3841 17.3852 21.75 12 21.75C6.61481 21.75 2.25 17.3841 2.25 12ZM10.2153 8.63992C10.5252 8.73977 10.7353 9.02818 10.7353 9.35378V12.6416H10.9942C11.4085 12.6416 11.7443 12.9774 11.7443 13.3916C11.7443 13.8058 11.4085 14.1416 10.9942 14.1416H10.7353V14.5825C10.7353 14.9968 10.3995 15.3325 9.98528 15.3325C9.57106 15.3325 9.23528 14.9968 9.23528 14.5825V14.1416H7.08193C6.80056 14.1416 6.54287 13.9841 6.41451 13.7338C6.28616 13.4834 6.30874 13.1822 6.473 12.9538L9.37635 8.91594C9.56643 8.65158 9.90537 8.54007 10.2153 8.63992ZM9.23528 12.6416V11.6816L8.54496 12.6416H9.23528ZM12.2568 11.8046C12.328 10.0826 13.7573 8.52151 15.5956 8.61323L15.596 8.61325C16.0665 8.63696 16.5145 8.75699 16.9175 8.95724C17.2884 9.14155 17.4397 9.59168 17.2554 9.96262C17.0711 10.3336 16.621 10.4849 16.25 10.3006C16.0303 10.1914 15.7837 10.1246 15.5205 10.1113C14.6288 10.0671 13.7972 10.8585 13.7555 11.8666L13.7555 11.8667C13.7075 13.0242 14.4456 13.8274 15.4259 13.8274C15.794 13.8274 15.9842 13.7578 16.0649 13.7008C16.0966 13.6784 16.1144 13.6565 16.1282 13.6273C16.1438 13.5945 16.1665 13.5256 16.1665 13.3972V12.7179H15.4259C15.0117 12.7179 14.6759 12.3821 14.6759 11.9679C14.6759 11.5537 15.0117 11.2179 15.4259 11.2179H16.9165C17.3307 11.2179 17.6665 11.5537 17.6665 11.9679V13.3972C17.6665 14.0347 17.4243 14.5772 16.93 14.9262C16.4828 15.2419 15.9276 15.3274 15.4259 15.3274C13.4368 15.3274 12.1803 13.6497 12.2568 11.8046Z" fill="black"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.outline,
@@ -5457,7 +5457,7 @@ class _NetworkI4gCircleBold {
 
   /// 4G Circle — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '4G Circle',
+    name: '4g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.667 13.4C17.667 14.608 16.829 15.33 15.426 15.33C14.562 15.33 13.766 14.996 13.183 14.388C12.554 13.732 12.216 12.792 12.257 11.808C12.294 10.906 12.698 10.039 13.366 9.429C13.992 8.86 14.788 8.572 15.598 8.611C16.077 8.636 16.524 8.754 16.928 8.963C17.296 9.153 17.44 9.605 17.251 9.973C17.062 10.339 16.61 10.488 16.24 10.296C16.026 10.186 15.784 10.123 15.519 10.109C15.128 10.094 14.704 10.24 14.377 10.538C14.003 10.879 13.776 11.365 13.756 11.87C13.732 12.448 13.918 12.987 14.266 13.35C14.566 13.664 14.968 13.83 15.426 13.83C16.167 13.83 16.167 13.601 16.167 13.4V12.719H15.426C15.012 12.719 14.676 12.383 14.676 11.969C14.676 11.555 15.012 11.219 15.426 11.219H16.917C17.331 11.219 17.667 11.555 17.667 11.969V13.4ZM10.994 14.139H10.735V14.58C10.735 14.994 10.399 15.33 9.985 15.33C9.571 15.33 9.235 14.994 9.235 14.58V14.139H7.082C6.801 14.139 6.543 13.982 6.415 13.731C6.286 13.481 6.309 13.18 6.473 12.952L9.376 8.912C9.566 8.647 9.906 8.536 10.215 8.635C10.525 8.735 10.735 9.024 10.735 9.349V12.639H10.994C11.408 12.639 11.744 12.975 11.744 13.389C11.744 13.803 11.408 14.139 10.994 14.139ZM12 2.5C6.762 2.5 2.5 6.761 2.5 12C2.5 17.238 6.762 21.5 12 21.5C17.238 21.5 21.5 17.238 21.5 12C21.5 6.761 17.238 2.5 12 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.23489 12.6392V11.6782L8.54489 12.6392H9.23489Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -5472,7 +5472,7 @@ class _NetworkI4gCircleLight {
 
   /// 4G Circle — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '4G Circle',
+    name: '4g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21C16.9709 21 21 16.9699 21 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.98538 14.5823V13.3914M9.98538 13.3914H10.9944M9.98538 13.3914H7.08203L9.98538 9.35352V13.3914Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.5843 9.62879C16.2729 9.47408 15.9256 9.38068 15.5588 9.36219C14.1937 9.29408 13.0631 10.4704 13.0067 11.8355C12.9444 13.3368 13.9417 14.5773 15.4264 14.5773C16.2963 14.5773 16.917 14.267 16.917 13.3971V11.9678H15.4264" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.light,
@@ -5993,7 +5993,7 @@ class _NetworkPublicShareBulk {
 
   /// Public share — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Public share',
+    name: 'Public Share',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.7042 6.46753C18.7142 6.46753 17.9082 7.27553 17.9082 8.26753C17.9082 8.59953 18.0052 8.90653 18.1642 9.17253L16.7542 10.6985C16.4732 11.0035 16.4922 11.4775 16.7962 11.7585C16.9402 11.8925 17.1232 11.9575 17.3052 11.9575C17.5072 11.9575 17.7082 11.8765 17.8562 11.7165L19.4152 10.0285C19.5102 10.0435 19.6052 10.0575 19.7042 10.0575C20.6942 10.0575 21.5002 9.25453 21.5002 8.26753C21.5002 7.27553 20.6942 6.46753 19.7042 6.46753Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.482 6.25764V9.74764C13.482 10.1616 13.818 10.4976 14.232 10.4976C14.646 10.4976 14.982 10.1616 14.982 9.74764V6.25764C15.597 5.97164 16.028 5.35064 16.028 4.62764C16.028 3.63564 15.222 2.82764 14.232 2.82764C13.242 2.82764 12.436 3.63564 12.436 4.62764C12.436 5.35064 12.867 5.97164 13.482 6.25764Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.13822 7.66764C8.23722 7.66764 8.33222 7.65364 8.42722 7.63864L9.45122 8.76764V10.3166C9.45122 10.7306 9.78722 11.0666 10.2012 11.0666C10.6152 11.0666 10.9512 10.7306 10.9512 10.3166V8.47764C10.9512 8.29064 10.8822 8.11064 10.7562 7.97364L9.67722 6.78564C9.83622 6.51864 9.93422 6.21064 9.93422 5.87764C9.93422 4.88564 9.12822 4.07764 8.13822 4.07764C7.14722 4.07764 6.34222 4.88564 6.34222 5.87764C6.34222 6.86464 7.14722 7.66764 8.13822 7.66764Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.09182 9.5378C6.09182 8.5508 5.28582 7.7478 4.29582 7.7478C3.30582 7.7478 2.49982 8.5508 2.49982 9.5378C2.49982 10.5298 3.30582 11.3378 4.29582 11.3378C5.28582 11.3378 6.09182 10.5298 6.09182 9.5378Z" fill="black"/> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.8521 13.7292C16.6051 13.9162 16.3561 14.1202 16.1031 14.3272C15.7481 14.6182 15.3881 14.9122 15.0201 15.1642C15.0261 15.0952 15.0411 15.0292 15.0411 14.9582C15.0411 13.8312 14.2881 12.8872 13.1721 12.6112C12.1641 12.3542 10.9631 12.1042 9.62111 12.1182C7.58211 12.1732 5.25711 13.2692 3.76211 14.2752C3.41811 14.5052 3.32711 14.9722 3.55811 15.3162C3.78911 15.6592 4.25511 15.7512 4.59911 15.5192C5.85911 14.6712 7.94211 13.6652 9.65411 13.6182C10.8071 13.5822 11.8901 13.8322 12.8061 14.0652C13.2591 14.1772 13.5411 14.5202 13.5411 14.9582C13.5411 15.4732 13.1321 15.8472 12.5681 15.8472H12.5381C12.2491 15.8362 11.9491 15.8352 11.6441 15.8472H11.2321C10.8831 15.8472 10.6031 16.0912 10.5191 16.4132C10.5121 16.4382 10.5091 16.4622 10.5041 16.4882C10.4981 16.5252 10.4821 16.5582 10.4821 16.5972C10.4821 16.6202 10.4931 16.6392 10.4951 16.6612C10.4961 16.6872 10.4871 16.7112 10.4911 16.7372C10.4971 16.7812 10.5211 16.8172 10.5351 16.8582C10.5401 16.8742 10.5451 16.8902 10.5521 16.9052C10.6801 17.2152 10.9951 17.4142 11.3421 17.3702C11.4501 17.3542 11.5651 17.3532 11.6771 17.3472H12.5511C12.8011 17.3552 13.0511 17.3652 13.2971 17.3582C14.8221 17.3182 16.0081 16.3452 17.0551 15.4872C17.2911 15.2922 17.5251 15.1012 17.7531 14.9282C18.0701 14.6932 18.5191 14.7222 18.7921 14.9952C19.1041 15.3102 19.1041 15.8252 18.7951 16.1372L18.5621 16.3712C17.3751 17.5592 16.3511 18.5862 14.8411 19.1682C12.6141 20.0332 10.5281 19.6192 8.06511 19.1322C7.10712 18.9422 5.48611 18.9172 4.18011 18.9172C3.76611 18.9172 3.43011 19.2532 3.43011 19.6672C3.43011 20.0822 3.76611 20.4172 4.18011 20.4172C4.90711 20.4172 6.83711 20.4172 7.82311 20.6132C9.25711 20.8972 10.6461 21.1722 12.0601 21.1722C13.1431 21.1722 14.2411 21.0102 15.3831 20.5682C17.1881 19.8722 18.3711 18.6852 19.6241 17.4292L19.8581 17.1952C20.7471 16.2972 20.7471 14.8372 19.8531 13.9352C19.0511 13.1372 17.7601 13.0502 16.8521 13.7292Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -6008,7 +6008,7 @@ class _NetworkPublicShareBroken {
 
   /// Public share — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Public share',
+    name: 'Public Share',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.908 8.38634C18.908 9.10147 19.4879 9.68234 20.204 9.68234C20.9191 9.68234 21.5 9.10147 21.5 8.38634C21.5 7.6712 20.9191 7.09033 20.204 7.09033C19.4879 7.09033 18.908 7.6712 18.908 8.38634Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.0276 4.74913C16.0276 5.46524 15.4467 6.04513 14.7316 6.04513C14.0154 6.04513 13.4355 5.46524 13.4355 4.74913C13.4355 4.03399 14.0154 3.45312 14.7316 3.45312" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.93381 5.99522C9.93381 6.71036 9.35391 7.29123 8.6378 7.29123C7.92266 7.29123 7.3418 6.71036 7.3418 5.99522C7.3418 5.28009 7.92266 4.69922 8.6378 4.69922C9.35391 4.69922 9.93381 5.28009 9.93381 5.99522Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.5 9.66319C3.5 10.3783 4.08087 10.9592 4.796 10.9592C5.51212 10.9592 6.09201 10.3783 6.09201 9.66319C6.09201 8.94708 5.51212 8.36719 4.796 8.36719" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.701 10.4398V8.60379L9.33008 7.08984" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.7324 6.04492L14.7325 9.86878" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.8047 11.332L19.5132 9.48047" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.7328 16.7461C12.408 16.6469 13.0959 16.7471 13.778 16.7306C15.36 16.6926 16.5996 15.3558 17.8042 14.4489C18.4191 13.9858 19.2811 14.0471 19.825 14.5929C20.4292 15.1991 20.4292 16.1818 19.825 16.788C19.1958 17.4201 18.602 18.0299 17.9572 18.5685" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.613 19.9914C13.166 20.943 10.896 20.4818 8.41884 19.9914C7.46045 19.8017 5.64974 19.791 4.67969 19.791" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.7318 16.7161H13.0677C14.0212 16.7161 14.7909 16.0302 14.7909 15.0767C14.7909 14.2847 14.2547 13.6513 13.4871 13.4576C12.3866 13.1823 11.2891 12.9653 10.141 12.9925C8.32154 13.0373 6.12164 14.0511 4.67969 15.0163" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -6023,7 +6023,7 @@ class _NetworkPublicShareTwotone {
 
   /// Public share — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Public share',
+    name: 'Public Share',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.9082 8.38585C18.9082 9.10099 19.4881 9.68185 20.2042 9.68185C20.9193 9.68185 21.5002 9.10099 21.5002 8.38585C21.5002 7.67071 20.9193 7.08984 20.2042 7.08984C19.4881 7.08984 18.9082 7.67071 18.9082 8.38585Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4355 4.74913C13.4355 5.46524 14.0154 6.04513 14.7316 6.04513C15.4467 6.04513 16.0276 5.46524 16.0276 4.74913C16.0276 4.03399 15.4467 3.45312 14.7316 3.45312C14.0154 3.45312 13.4355 4.03399 13.4355 4.74913Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.93381 5.99522C9.93381 6.71036 9.35391 7.29123 8.6378 7.29123C7.92266 7.29123 7.3418 6.71036 7.3418 5.99522C7.3418 5.28009 7.92266 4.69922 8.6378 4.69922C9.35391 4.69922 9.93381 5.28009 9.93381 5.99522Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.09201 9.66319C6.09201 10.3783 5.51211 10.9592 4.796 10.9592C4.08087 10.9592 3.5 10.3783 3.5 9.66319C3.5 8.94708 4.08087 8.36719 4.796 8.36719C5.51211 8.36719 6.09201 8.94708 6.09201 9.66319Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M10.701 10.4398V8.60379L9.33008 7.08984" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.7324 6.04492L14.7325 9.86878" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M17.8047 11.332L19.5132 9.48047" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.7328 16.7461C12.408 16.6469 13.0959 16.7471 13.778 16.7306C15.36 16.6926 16.5996 15.3558 17.8042 14.4489C18.4191 13.9858 19.2811 14.0471 19.825 14.5929C20.4293 15.1991 20.4293 16.1818 19.825 16.788C18.5242 18.0947 17.3751 19.306 15.613 19.991C13.166 20.9426 10.896 20.4814 8.41884 19.991C7.46045 19.8013 5.64974 19.7906 4.67969 19.7906" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.7318 16.7161H13.0677C14.0212 16.7161 14.7909 16.0302 14.7909 15.0767C14.7909 14.2847 14.2547 13.6513 13.4871 13.4576C12.3866 13.1823 11.2891 12.9653 10.141 12.9925C8.32154 13.0373 6.12164 14.0511 4.67969 15.0163" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -6038,7 +6038,7 @@ class _NetworkPublicShareBold {
 
   /// Public share — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Public share',
+    name: 'Public Share',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M19.7041 6.46753C18.7141 6.46753 17.9081 7.27553 17.9081 8.26753C17.9081 8.59953 18.0051 8.90653 18.1641 9.17253L16.7541 10.6985C16.4731 11.0035 16.4921 11.4775 16.7961 11.7585C16.9401 11.8925 17.1231 11.9575 17.3051 11.9575C17.5071 11.9575 17.7081 11.8765 17.8561 11.7165L19.4151 10.0285C19.5101 10.0435 19.6051 10.0575 19.7041 10.0575C20.6941 10.0575 21.5001 9.25453 21.5001 8.26753C21.5001 7.27553 20.6941 6.46753 19.7041 6.46753Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M13.4819 6.25764V9.74764C13.4819 10.1616 13.8179 10.4976 14.2319 10.4976C14.6459 10.4976 14.9819 10.1616 14.9819 9.74764V6.25764C15.5969 5.97164 16.0279 5.35064 16.0279 4.62764C16.0279 3.63564 15.2219 2.82764 14.2319 2.82764C13.2419 2.82764 12.4359 3.63564 12.4359 4.62764C12.4359 5.35064 12.8669 5.97164 13.4819 6.25764Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.13816 7.66764C8.23716 7.66764 8.33216 7.65364 8.42716 7.63864L9.45116 8.76764V10.3166C9.45116 10.7306 9.78716 11.0666 10.2012 11.0666C10.6152 11.0666 10.9512 10.7306 10.9512 10.3166V8.47764C10.9512 8.29064 10.8822 8.11064 10.7562 7.97364L9.67716 6.78564C9.83616 6.51864 9.93416 6.21064 9.93416 5.87764C9.93416 4.88564 9.12816 4.07764 8.13816 4.07764C7.14716 4.07764 6.34216 4.88564 6.34216 5.87764C6.34216 6.86464 7.14716 7.66764 8.13816 7.66764Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M6.09176 9.5378C6.09176 8.5508 5.28576 7.7478 4.29576 7.7478C3.30576 7.7478 2.49976 8.5508 2.49976 9.5378C2.49976 10.5298 3.30576 11.3378 4.29576 11.3378C5.28576 11.3378 6.09176 10.5298 6.09176 9.5378Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.8521 13.7292C16.6051 13.9162 16.3561 14.1202 16.1031 14.3272C15.7481 14.6182 15.3881 14.9122 15.0201 15.1642C15.0261 15.0952 15.0411 15.0292 15.0411 14.9582C15.0411 13.8312 14.2881 12.8872 13.1721 12.6112C12.1641 12.3542 10.9631 12.1042 9.62105 12.1182C7.58205 12.1732 5.25705 13.2692 3.76205 14.2752C3.41805 14.5052 3.32705 14.9722 3.55805 15.3162C3.78905 15.6592 4.25505 15.7512 4.59905 15.5192C5.85905 14.6712 7.94205 13.6652 9.65405 13.6182C10.8071 13.5822 11.8901 13.8322 12.8061 14.0652C13.2591 14.1772 13.5411 14.5202 13.5411 14.9582C13.5411 15.4732 13.1321 15.8472 12.5681 15.8472H12.5381C12.2491 15.8362 11.9491 15.8352 11.6441 15.8472H11.2321C10.8831 15.8472 10.6031 16.0912 10.5191 16.4132C10.5121 16.4382 10.5091 16.4622 10.5041 16.4882C10.4981 16.5252 10.4821 16.5582 10.4821 16.5972C10.4821 16.6202 10.4931 16.6392 10.4951 16.6612C10.4961 16.6872 10.4871 16.7112 10.4911 16.7372C10.4971 16.7812 10.5211 16.8172 10.5351 16.8582C10.5401 16.8742 10.5451 16.8902 10.5521 16.9052C10.6801 17.2152 10.9951 17.4142 11.3421 17.3702C11.4501 17.3542 11.5651 17.3532 11.6771 17.3472H12.5511C12.8011 17.3552 13.0511 17.3652 13.2971 17.3582C14.8221 17.3182 16.0081 16.3452 17.0551 15.4872C17.2911 15.2922 17.5251 15.1012 17.7531 14.9282C18.0701 14.6932 18.5191 14.7222 18.7921 14.9952C19.1041 15.3102 19.1041 15.8252 18.7951 16.1372L18.5621 16.3712C17.3751 17.5592 16.3511 18.5862 14.8411 19.1682C12.6141 20.0332 10.5281 19.6192 8.06505 19.1322C7.10705 18.9422 5.48605 18.9172 4.18005 18.9172C3.76605 18.9172 3.43005 19.2532 3.43005 19.6672C3.43005 20.0822 3.76605 20.4172 4.18005 20.4172C4.90705 20.4172 6.83705 20.4172 7.82305 20.6132C9.25705 20.8972 10.6461 21.1722 12.0601 21.1722C13.1431 21.1722 14.2411 21.0102 15.3831 20.5682C17.1881 19.8722 18.3711 18.6852 19.6241 17.4292L19.8581 17.1952C20.7471 16.2972 20.7471 14.8372 19.8531 13.9352C19.0511 13.1372 17.7601 13.0502 16.8521 13.7292Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -6071,7 +6071,7 @@ class _NetworkI3gCircleBulk {
 
   /// 3G Circle — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '3G Circle',
+    name: '3g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12 2.5C6.762 2.5 2.5 6.762 2.5 12C2.5 17.238 6.762 21.5 12 21.5C17.238 21.5 21.5 17.238 21.5 12C21.5 6.762 17.238 2.5 12 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.233 13.4301C17.233 14.6391 16.395 15.3611 14.993 15.3611C14.129 15.3611 13.332 15.0271 12.75 14.4191C12.12 13.7631 11.783 12.8231 11.824 11.8391C11.861 10.9391 12.263 10.0761 12.928 9.46909C13.553 8.90009 14.337 8.60109 15.164 8.65209C15.592 8.66209 16.041 8.77509 16.476 8.98509C16.849 9.16409 17.006 9.61309 16.827 9.98609C16.648 10.3591 16.199 10.5181 15.826 10.3361C15.583 10.2191 15.339 10.1571 15.105 10.1511C14.641 10.1221 14.264 10.2811 13.939 10.5771C13.568 10.9161 13.343 11.3991 13.322 11.9021C13.298 12.4791 13.484 13.0181 13.832 13.3811C14.132 13.6951 14.534 13.8611 14.993 13.8611C15.733 13.8611 15.733 13.6421 15.733 13.4301V12.7501H14.993C14.579 12.7501 14.243 12.4141 14.243 12.0001C14.243 11.5861 14.579 11.2501 14.993 11.2501H16.483C16.897 11.2501 17.233 11.5861 17.233 12.0001V13.4301ZM8.71004 15.3501C8.08204 15.3501 7.49104 15.1061 7.04504 14.6611C6.75204 14.3691 6.75204 13.8941 7.04404 13.6011C7.33604 13.3071 7.81004 13.3071 8.10404 13.5991C8.26604 13.7611 8.48204 13.8501 8.71004 13.8501C9.18204 13.8501 9.56604 13.4691 9.56604 13.0001C9.56604 12.5261 9.18204 12.1401 8.71004 12.1401C8.42004 12.1401 8.15704 11.9741 8.03304 11.7131C7.90804 11.4521 7.94504 11.1431 8.12704 10.9181L8.74804 10.1511H7.51904C7.10504 10.1511 6.76904 9.81509 6.76904 9.40109C6.76904 8.98709 7.10504 8.65109 7.51904 8.65109H10.32C10.609 8.65109 10.873 8.81709 10.997 9.07709C11.122 9.33809 11.085 9.64809 10.903 9.87209L9.98004 11.0131C10.632 11.4331 11.066 12.1671 11.066 13.0001C11.066 14.2961 10.009 15.3501 8.71004 15.3501Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -6086,7 +6086,7 @@ class _NetworkI3gCircleBroken {
 
   /// 3G Circle — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '3G Circle',
+    name: '3g Circle',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.6507 9.66199C16.3393 9.50729 15.992 9.41291 15.6252 9.3954C14.2601 9.32729 13.1295 10.5026 13.0731 11.8687C13.0108 13.37 14.0081 14.6105 15.4929 14.6105C16.3637 14.6105 16.9834 14.3002 16.9834 13.4303V12.001H15.4929" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.07499 14.131C8.36591 14.4219 8.76677 14.6019 9.21045 14.6019C10.0968 14.6019 10.8159 13.8838 10.8159 12.9965C10.8159 12.1111 10.0968 11.3921 9.21045 11.3921L10.8197 9.39844H8.01953" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 21C7.52908 21 3.5 16.9699 3.5 12C3.5 7.03005 7.52908 3 12.5 3C17.4709 3 21.5 7.03005 21.5 12C21.5 15.5457 19.4492 18.6131 16.4688 20.0799" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -6101,7 +6101,7 @@ class _NetworkI3gCircleTwotone {
 
   /// 3G Circle — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '3G Circle',
+    name: '3g Circle',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 12C21.5 7.02908 17.4709 3 12.5 3C7.52908 3 3.5 7.02908 3.5 12C3.5 16.9699 7.52908 21 12.5 21C17.4709 21 21.5 16.9699 21.5 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.6507 9.66199C16.3393 9.50729 15.992 9.41291 15.6252 9.3954C14.2601 9.32729 13.1295 10.5026 13.0731 11.8687C13.0108 13.37 14.0081 14.6105 15.4929 14.6105C16.3637 14.6105 16.9834 14.3002 16.9834 13.4303V12.001H15.4929" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.07499 14.131C8.36591 14.4219 8.76677 14.6019 9.21045 14.6019C10.0968 14.6019 10.8159 13.8838 10.8159 12.9965C10.8159 12.1111 10.0968 11.3921 9.21045 11.3921L10.8197 9.39844H8.01953" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -6116,7 +6116,7 @@ class _NetworkI3gCircleOutline {
 
   /// 3G Circle — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '3G Circle',
+    name: '3g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5558 7.44335 20.25 12 20.25C16.5567 20.25 20.25 16.5558 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3841 17.3852 21.75 12 21.75C6.61481 21.75 2.25 17.3841 2.25 12ZM11.8235 11.8368C11.8947 10.1139 13.3238 8.55428 15.1615 8.6455C15.6344 8.66819 16.0827 8.79003 16.4842 8.98954C16.8552 9.17386 17.0065 9.62398 16.8221 9.99493C16.6378 10.3659 16.1877 10.5172 15.8168 10.3329C15.5958 10.2231 15.3497 10.1562 15.0892 10.1438L15.0876 10.1437C14.1956 10.0992 13.3639 10.8899 13.3222 11.8989L13.3222 11.899C13.2742 13.0565 14.0123 13.8597 14.9926 13.8597C15.3614 13.8597 15.5514 13.79 15.6318 13.7332C15.6634 13.7109 15.6811 13.6891 15.695 13.6599C15.7105 13.627 15.7332 13.558 15.7332 13.4295V12.7502H14.9926C14.5784 12.7502 14.2426 12.4144 14.2426 12.0002C14.2426 11.586 14.5784 11.2502 14.9926 11.2502H16.4832C16.8975 11.2502 17.2332 11.586 17.2332 12.0002V13.4295C17.2332 14.0666 16.9916 14.6092 16.4972 14.9584C16.05 15.2743 15.4947 15.3597 14.9926 15.3597C13.0035 15.3597 11.747 13.6819 11.8235 11.8368ZM6.769 9.39844C6.769 8.98422 7.10479 8.64844 7.519 8.64844H10.3192C10.6081 8.64844 10.8713 8.81437 10.9959 9.07503C11.1205 9.33569 11.0843 9.64473 10.9028 9.86952L9.97954 11.0133C10.6325 11.4319 11.0653 12.1639 11.0653 12.9965C11.0653 14.2984 10.0102 15.3519 8.70992 15.3519C8.0587 15.3519 7.46948 15.0867 7.04413 14.6613C6.75124 14.3684 6.75124 13.8935 7.04413 13.6006C7.33703 13.3078 7.8119 13.3078 8.10479 13.6006C8.26129 13.7571 8.4738 13.8519 8.70992 13.8519C9.18238 13.8519 9.56533 13.4693 9.56533 12.9965C9.56533 12.5256 9.18238 12.1421 8.70992 12.1421C8.42102 12.1421 8.15781 11.9761 8.03323 11.7155C7.90866 11.4548 7.94487 11.1458 8.12633 10.921L8.74994 10.1484H7.519C7.10479 10.1484 6.769 9.81265 6.769 9.39844Z" fill="black"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.outline,
@@ -6131,7 +6131,7 @@ class _NetworkI3gCircleBold {
 
   /// 3G Circle — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '3G Circle',
+    name: '3g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.233 13.43C17.233 14.639 16.395 15.361 14.993 15.361C14.129 15.361 13.332 15.027 12.75 14.419C12.12 13.763 11.783 12.823 11.824 11.839C11.861 10.939 12.263 10.076 12.928 9.469C13.553 8.9 14.337 8.601 15.164 8.652C15.592 8.662 16.041 8.775 16.476 8.985C16.849 9.164 17.006 9.613 16.827 9.986C16.648 10.359 16.199 10.518 15.826 10.336C15.583 10.219 15.339 10.157 15.105 10.151C14.641 10.122 14.264 10.281 13.939 10.577C13.568 10.916 13.343 11.399 13.322 11.902C13.298 12.479 13.484 13.018 13.832 13.381C14.132 13.695 14.534 13.861 14.993 13.861C15.733 13.861 15.733 13.642 15.733 13.43V12.75H14.993C14.579 12.75 14.243 12.414 14.243 12C14.243 11.586 14.579 11.25 14.993 11.25H16.483C16.897 11.25 17.233 11.586 17.233 12V13.43ZM8.71 15.35C8.082 15.35 7.491 15.106 7.045 14.661C6.752 14.369 6.752 13.894 7.044 13.601C7.336 13.307 7.81 13.307 8.104 13.599C8.266 13.761 8.482 13.85 8.71 13.85C9.182 13.85 9.566 13.469 9.566 13C9.566 12.526 9.182 12.14 8.71 12.14C8.42 12.14 8.157 11.974 8.033 11.713C7.908 11.452 7.945 11.143 8.127 10.918L8.748 10.151H7.519C7.105 10.151 6.769 9.815 6.769 9.401C6.769 8.987 7.105 8.651 7.519 8.651H10.32C10.609 8.651 10.873 8.817 10.997 9.077C11.122 9.338 11.085 9.648 10.903 9.872L9.98 11.013C10.632 11.433 11.066 12.167 11.066 13C11.066 14.296 10.009 15.35 8.71 15.35ZM12 2.5C6.761 2.5 2.5 6.762 2.5 12C2.5 17.239 6.761 21.5 12 21.5C17.238 21.5 21.5 17.239 21.5 12C21.5 6.762 17.238 2.5 12 2.5Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -6146,7 +6146,7 @@ class _NetworkI3gCircleLight {
 
   /// 3G Circle — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '3G Circle',
+    name: '3g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21C16.9709 21 21 16.9699 21 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.1507 9.66199C15.8393 9.50729 15.492 9.41291 15.1252 9.3954C13.7601 9.32729 12.6295 10.5026 12.5731 11.8687C12.5108 13.37 13.5081 14.6105 14.9929 14.6105C15.8637 14.6105 16.4834 14.3002 16.4834 13.4303V12.001H14.9929" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.57499 14.131C7.86591 14.4219 8.26677 14.6019 8.71045 14.6019C9.59683 14.6019 10.3159 13.8838 10.3159 12.9965C10.3159 12.1111 9.59683 11.3921 8.71045 11.3921L10.3197 9.39844H7.51953" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.light,
@@ -6179,7 +6179,7 @@ class _NetworkI2gSquareBulk {
 
   /// 2G square — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '2G square',
+    name: '2g Square',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M16.217 2.5H7.782C4.623 2.5 2.5 4.723 2.5 8.031V15.97C2.5 19.278 4.623 21.5 7.782 21.5H16.216C19.377 21.5 21.5 19.278 21.5 15.97V8.031C21.5 4.723 19.377 2.5 16.217 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.795 11.25C13.209 11.25 13.545 11.586 13.545 12C13.545 12.414 13.209 12.75 12.795 12.75H11.426V13.96H13.322C13.736 13.96 14.072 14.296 14.072 14.71C14.072 15.124 13.736 15.46 13.322 15.46H10.676C10.262 15.46 9.92603 15.124 9.92603 14.71V9.29004C9.92603 8.87604 10.262 8.54004 10.676 8.54004H13.322C13.736 8.54004 14.072 8.87604 14.072 9.29004C14.072 9.70404 13.736 10.04 13.322 10.04H11.426V11.25H12.795Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -6194,7 +6194,7 @@ class _NetworkI2gSquareBroken {
 
   /// 2G square — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '2G square',
+    name: '2g Square',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.8223 9.28711H11.1758V14.7144H13.8223" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1797 11.998H13.2949" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.7159 21C19.665 21 21.5 18.9188 21.5 15.9736V8.02638C21.5 5.08119 19.665 3 16.7169 3H8.28216C5.34281 3 3.5 5.08119 3.5 8.02638V15.9736C3.5 18.9188 5.33308 21 8.28216 21H13.003" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -6209,7 +6209,7 @@ class _NetworkI2gSquareTwotone {
 
   /// 2G square — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '2G square',
+    name: '2g Square',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M8.28216 3H16.7169C19.665 3 21.5 5.08119 21.5 8.02638V15.9736C21.5 18.9188 19.665 21 16.7159 21H8.28216C5.33308 21 3.5 18.9188 3.5 15.9736V8.02638C3.5 5.08119 5.34281 3 8.28216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.8223 9.28711H11.1758V14.7144H13.8223" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.1797 11.998H13.2949" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -6224,7 +6224,7 @@ class _NetworkI2gSquareOutline {
 
   /// 2G square — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '2G square',
+    name: '2g Square',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.7402 3.89737C4.72468 2.84117 6.12669 2.25 7.78216 2.25H16.2169C17.8762 2.25 19.2788 2.84084 20.2629 3.89765C21.2413 4.94841 21.75 6.39889 21.75 8.02638V15.9736C21.75 17.6011 21.2413 19.0516 20.2627 20.1024C19.2785 21.1592 17.8757 21.75 16.2159 21.75H7.78216C6.12237 21.75 4.7199 21.1592 3.73617 20.1022C2.75811 19.0514 2.25 17.6009 2.25 15.9736V8.02638C2.25 6.39806 2.76117 4.94771 3.7402 3.89737ZM4.83745 4.92012C4.16024 5.64666 3.75 6.70951 3.75 8.02638V15.9736C3.75 17.2915 4.15843 18.3542 4.83418 19.0803C5.50426 19.8002 6.49287 20.25 7.78216 20.25H16.2159C17.5052 20.25 18.4944 19.8002 19.165 19.0801C19.8412 18.354 20.25 17.2913 20.25 15.9736V8.02638C20.25 6.70868 19.8412 5.64597 19.1651 4.91984C18.4946 4.19975 17.5056 3.75 16.2169 3.75H7.78216C6.49828 3.75 5.50921 4.19943 4.83745 4.92012ZM9.92546 9.28679C9.92546 8.87258 10.2613 8.53679 10.6755 8.53679H13.322C13.7362 8.53679 14.072 8.87258 14.072 9.28679C14.072 9.70101 13.7362 10.0368 13.322 10.0368H11.4255V11.2476H12.7945C13.2087 11.2476 13.5445 11.5834 13.5445 11.9976C13.5445 12.4118 13.2087 12.7476 12.7945 12.7476H11.4255V13.964H13.322C13.7362 13.964 14.072 14.2998 14.072 14.714C14.072 15.1283 13.7362 15.464 13.322 15.464H10.6755C10.2613 15.464 9.92546 15.1283 9.92546 14.714V9.28679Z" fill="black"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.outline,
@@ -6239,7 +6239,7 @@ class _NetworkI2gSquareBold {
 
   /// 2G square — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '2G square',
+    name: '2g Square',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.795 11.25C13.209 11.25 13.545 11.586 13.545 12C13.545 12.414 13.209 12.75 12.795 12.75H11.426V13.96H13.322C13.736 13.96 14.072 14.296 14.072 14.71C14.072 15.124 13.736 15.46 13.322 15.46H10.676C10.262 15.46 9.926 15.124 9.926 14.71V9.29C9.926 8.876 10.262 8.54 10.676 8.54H13.322C13.736 8.54 14.072 8.876 14.072 9.29C14.072 9.704 13.736 10.04 13.322 10.04H11.426V11.25H12.795ZM16.217 2.5H7.782C4.623 2.5 2.5 4.723 2.5 8.03V15.97C2.5 19.277 4.623 21.5 7.782 21.5H16.216C19.377 21.5 21.5 19.277 21.5 15.97V8.03C21.5 4.723 19.377 2.5 16.217 2.5Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -6254,7 +6254,7 @@ class _NetworkI2gSquareLight {
 
   /// 2G square — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '2G square',
+    name: '2g Square',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.78216 3H16.2169C19.165 3 21 5.08119 21 8.02638V15.9736C21 18.9188 19.165 21 16.2159 21H7.78216C4.83308 21 3 18.9188 3 15.9736V8.02638C3 5.08119 4.84281 3 7.78216 3Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.3223 9.28711H10.6758V14.7144H13.3223" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.6797 11.998H12.7949" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.light,
@@ -6287,7 +6287,7 @@ class _NetworkBluetoothCloseBulk {
 
   /// Bluetooth close — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Bluetooth close',
+    name: 'Bluetooth Close',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M10.6049 14.0859L13.6249 16.4999L10.6049 18.9169V14.0859ZM16.1939 16.3059C16.1819 16.2479 16.1629 16.1939 16.1409 16.1379C16.1149 16.0719 16.0849 16.0099 16.0439 15.9499C16.0279 15.9259 16.0239 15.8979 16.0049 15.8749C15.9819 15.8449 15.9489 15.8309 15.9229 15.8049C15.8959 15.7779 15.8809 15.7429 15.8499 15.7179L11.2319 12.0259L12.5289 11.0479C12.9689 10.7149 13.0569 10.0879 12.7249 9.64686C12.3929 9.20786 11.7669 9.11886 11.3239 9.45086L10.6049 9.99286V5.02086L11.3949 5.62486C11.8339 5.96086 12.4609 5.87386 12.7959 5.43586C13.1309 4.99786 13.0469 4.36986 12.6079 4.03486L10.2109 2.20486C9.90994 1.97386 9.50194 1.93586 9.16194 2.10286C8.82094 2.27186 8.60494 2.61986 8.60494 2.99986V9.92586L5.54294 7.47786C5.10994 7.13186 4.48194 7.20586 4.13594 7.63386C3.79194 8.06586 3.86194 8.69486 4.29294 9.04086L8.00494 12.0079L4.29294 14.9679C3.86194 15.3119 3.79194 15.9409 4.13594 16.3739C4.33394 16.6209 4.62494 16.7499 4.91794 16.7499C5.13694 16.7499 5.35694 16.6779 5.54194 16.5309L8.60494 14.0869V20.9999C8.60494 21.3839 8.82594 21.7349 9.17194 21.9009C9.30994 21.9669 9.45794 21.9999 9.60494 21.9999C9.82794 21.9999 10.0489 21.9249 10.2299 21.7799L15.8499 17.2799C15.8829 17.2529 15.8999 17.2149 15.9289 17.1859C15.9529 17.1609 15.9859 17.1509 16.0069 17.1239C16.0269 17.0979 16.0319 17.0679 16.0499 17.0409C16.0859 16.9859 16.1129 16.9309 16.1369 16.8709C16.1629 16.8079 16.1839 16.7479 16.1959 16.6829C16.2069 16.6229 16.2099 16.5659 16.2099 16.5059C16.2109 16.4369 16.2069 16.3729 16.1939 16.3059Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.5669 7.52913L19.7899 6.30513C20.1799 5.91513 20.1799 5.28213 19.7899 4.89113C19.3989 4.50113 18.7659 4.50113 18.3759 4.89113L17.1539 6.11413L15.9309 4.89113C15.5409 4.50113 14.9079 4.50113 14.5169 4.89113C14.1269 5.28213 14.1269 5.91513 14.5169 6.30513L15.7399 7.52913L14.5169 8.75213C14.1269 9.14213 14.1269 9.77513 14.5169 10.1661C14.9079 10.5561 15.5409 10.5561 15.9309 10.1661L17.1539 8.94313L18.3759 10.1661C18.5709 10.3611 18.8269 10.4591 19.0829 10.4591C19.3379 10.4591 19.5939 10.3611 19.7899 10.1661C20.1799 9.77513 20.1799 9.14213 19.7899 8.75213L18.5669 7.52913Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -6302,7 +6302,7 @@ class _NetworkBluetoothCloseBroken {
 
   /// Bluetooth close — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Bluetooth close',
+    name: 'Bluetooth Close',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5021 4.83016L10.1047 3V16.5047M15.7256 16.5049L10.1047 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7266 16.5047L5.41797 8.25586" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.41797 15.7541L10.1058 12.0091M10.1058 12.0004L12.4273 10.2461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7246 5.60352L19.5834 9.46233M19.5834 5.60352L15.7246 9.46233" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -6317,7 +6317,7 @@ class _NetworkBluetoothCloseTwotone {
 
   /// Bluetooth close — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Bluetooth close',
+    name: 'Bluetooth Close',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.5019 4.83016L10.1045 3V12.0007V12.0095V21L15.7254 16.5049" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.7266 16.5047L10.1058 12.0094L5.41797 8.25586" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.41797 15.7541L10.1058 12.0091M10.1058 12.0004L12.4273 10.2461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.7246 5.60352L19.5834 9.46233M19.5834 5.60352L15.7246 9.46233" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -6332,7 +6332,7 @@ class _NetworkBluetoothCloseOutline {
 
   /// Bluetooth close — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Bluetooth close',
+    name: 'Bluetooth Close',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.27225 2.32776C9.52791 2.20129 9.83318 2.23078 10.0599 2.40386L12.4573 4.23402C12.7865 4.48536 12.8497 4.95602 12.5984 5.28526C12.347 5.6145 11.8764 5.67765 11.5471 5.42631L10.3548 4.51611V10.4939L11.4742 9.6481C11.8046 9.39837 12.275 9.46383 12.5247 9.7943C12.7744 10.1248 12.709 10.5951 12.3785 10.8448L10.821 12.0218L15.6941 15.9192C15.8721 16.0615 15.9757 16.277 15.9757 16.5049C15.9757 16.7328 15.8721 16.9483 15.6941 17.0906L10.0732 21.5857C9.84809 21.7658 9.53967 21.8009 9.27986 21.676C9.02004 21.5511 8.8548 21.2883 8.8548 21V13.5686L5.38514 16.3404C5.06152 16.599 4.58958 16.5462 4.33105 16.2226C4.07251 15.899 4.12528 15.427 4.4489 15.1685L8.40402 12.0088L4.44825 8.84146C4.12491 8.58256 4.07267 8.11057 4.33157 7.78723C4.59046 7.4639 5.06245 7.41166 5.38579 7.67055L8.8548 10.4482V3.00001C8.8548 2.71478 9.01659 2.45423 9.27225 2.32776ZM10.3548 13.5697V19.4399L14.0248 16.5049L10.3548 13.5697ZM14.6941 5.07266C14.987 4.77977 15.4619 4.77977 15.7548 5.07266L17.1539 6.47174L18.5529 5.07266C18.8458 4.77977 19.3207 4.77977 19.6136 5.07266C19.9065 5.36556 19.9065 5.84043 19.6136 6.13332L18.2145 7.5324L19.6136 8.93147C19.9065 9.22437 19.9065 9.69924 19.6136 9.99213C19.3207 10.285 18.8458 10.285 18.5529 9.99213L17.1539 8.59306L15.7548 9.99213C15.4619 10.285 14.987 10.285 14.6941 9.99213C14.4012 9.69924 14.4012 9.22437 14.6941 8.93147L16.0932 7.5324L14.6941 6.13332C14.4012 5.84043 14.4012 5.36556 14.6941 5.07266Z" fill="black"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.outline,
@@ -6347,7 +6347,7 @@ class _NetworkBluetoothCloseBold {
 
   /// Bluetooth close — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Bluetooth close',
+    name: 'Bluetooth Close',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.6049 14.0859L13.6249 16.4999L10.6049 18.9169V14.0859ZM16.1939 16.3059C16.1819 16.2479 16.1629 16.1939 16.1409 16.1379C16.1149 16.0719 16.0849 16.0099 16.0439 15.9499C16.0279 15.9259 16.0239 15.8979 16.0049 15.8749C15.9819 15.8449 15.9489 15.8309 15.9229 15.8049C15.8959 15.7779 15.8809 15.7429 15.8499 15.7179L11.2319 12.0259L12.5289 11.0479C12.9689 10.7149 13.0569 10.0879 12.7249 9.64686C12.3929 9.20786 11.7669 9.11886 11.3239 9.45086L10.6049 9.99286V5.02086L11.3949 5.62486C11.8339 5.96086 12.4609 5.87386 12.7959 5.43586C13.1309 4.99786 13.0469 4.36986 12.6079 4.03486L10.2109 2.20486C9.90994 1.97386 9.50194 1.93586 9.16194 2.10286C8.82094 2.27186 8.60494 2.61986 8.60494 2.99986V9.92586L5.54294 7.47786C5.10994 7.13186 4.48194 7.20586 4.13594 7.63386C3.79194 8.06586 3.86194 8.69486 4.29294 9.04086L8.00494 12.0079L4.29294 14.9679C3.86194 15.3119 3.79194 15.9409 4.13594 16.3739C4.33394 16.6209 4.62494 16.7499 4.91794 16.7499C5.13694 16.7499 5.35694 16.6779 5.54194 16.5309L8.60494 14.0869V20.9999C8.60494 21.3839 8.82594 21.7349 9.17194 21.9009C9.30994 21.9669 9.45794 21.9999 9.60494 21.9999C9.82794 21.9999 10.0489 21.9249 10.2299 21.7799L15.8499 17.2799C15.8829 17.2529 15.8999 17.2149 15.9289 17.1859C15.9529 17.1609 15.9859 17.1509 16.0069 17.1239C16.0269 17.0979 16.0319 17.0679 16.0499 17.0409C16.0859 16.9859 16.1129 16.9309 16.1369 16.8709C16.1629 16.8079 16.1839 16.7479 16.1959 16.6829C16.2069 16.6229 16.2099 16.5659 16.2099 16.5059C16.2109 16.4369 16.2069 16.3729 16.1939 16.3059Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.5669 7.52913L19.7899 6.30513C20.1799 5.91513 20.1799 5.28213 19.7899 4.89113C19.3989 4.50113 18.7659 4.50113 18.3759 4.89113L17.1539 6.11413L15.9309 4.89113C15.5409 4.50113 14.9079 4.50113 14.5169 4.89113C14.1269 5.28213 14.1269 5.91513 14.5169 6.30513L15.7399 7.52913L14.5169 8.75213C14.1269 9.14213 14.1269 9.77513 14.5169 10.1661C14.9079 10.5561 15.5409 10.5561 15.9309 10.1661L17.1539 8.94313L18.3759 10.1661C18.5709 10.3611 18.8269 10.4591 19.0829 10.4591C19.3379 10.4591 19.5939 10.3611 19.7899 10.1661C20.1799 9.77513 20.1799 9.14213 19.7899 8.75213L18.5669 7.52913Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -6362,7 +6362,7 @@ class _NetworkBluetoothCloseLight {
 
   /// Bluetooth close — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Bluetooth close',
+    name: 'Bluetooth Close',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0024 4.83016L9.60498 3V12.0007V12.0095V21L15.2258 16.5049" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.2266 16.5047L9.60575 12.0094L4.91797 8.25586" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M4.91797 15.7541L9.60575 12.0091M9.60575 12.0004L11.9273 10.2461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.2246 5.60352L19.0834 9.46233M19.0834 5.60352L15.2246 9.46233" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.light,
@@ -6917,7 +6917,7 @@ class _NetworkI5gCircleBulk {
 
   /// 5G Circle — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '5G Circle',
+    name: '5g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" fill-rule="evenodd" clip-rule="evenodd" d="M12 2.5C6.762 2.5 2.5 6.762 2.5 12C2.5 17.238 6.762 21.5 12 21.5C17.238 21.5 21.5 17.238 21.5 12C21.5 6.762 17.238 2.5 12 2.5Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.306 13.4099C17.306 14.6179 16.468 15.3399 15.065 15.3399C14.201 15.3399 13.404 15.0059 12.822 14.3989C12.193 13.7429 11.855 12.8029 11.895 11.8179C11.933 10.9209 12.337 10.0569 13.004 9.44986C13.629 8.87986 14.427 8.58486 15.235 8.63086C15.702 8.65686 16.142 8.76786 16.548 8.96386C16.921 9.14186 17.078 9.59086 16.899 9.96486C16.72 10.3379 16.271 10.4969 15.898 10.3149C15.671 10.2059 15.421 10.1429 15.155 10.1289C14.746 10.1199 14.341 10.2609 14.014 10.5579C13.641 10.8979 13.415 11.3809 13.394 11.8809C13.37 12.4579 13.556 12.9979 13.905 13.3599C14.205 13.6739 14.607 13.8399 15.065 13.8399C15.806 13.8399 15.806 13.6209 15.806 13.4099V12.7299H15.065C14.651 12.7299 14.315 12.3939 14.315 11.9799C14.315 11.5659 14.651 11.2299 15.065 11.2299H16.556C16.97 11.2299 17.306 11.5659 17.306 11.9799V13.4099ZM8.68398 15.3599C7.90198 15.3599 7.17298 14.9659 6.73498 14.3039C6.50698 13.9579 6.60098 13.4929 6.94698 13.2639C7.29098 13.0339 7.75698 13.1299 7.98598 13.4749C8.14798 13.7199 8.40198 13.8599 8.68398 13.8599C9.16598 13.8599 9.55798 13.4699 9.55798 12.9899C9.55798 12.6759 9.31098 12.4299 8.99498 12.4299H7.54898C7.33498 12.4299 7.13198 12.3389 6.98898 12.1799C6.84698 12.0189 6.77898 11.8069 6.80398 11.5949L7.06698 9.27486C7.10998 8.89586 7.43098 8.60986 7.81198 8.60986H10.084C10.498 8.60986 10.834 8.94586 10.834 9.35986C10.834 9.77386 10.498 10.1099 10.084 10.1099H8.48198L8.38898 10.9299H8.99498C10.133 10.9299 11.058 11.8539 11.058 12.9899C11.058 14.2969 9.99298 15.3599 8.68398 15.3599Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bulk,
@@ -6932,7 +6932,7 @@ class _NetworkI5gCircleBroken {
 
   /// 5G Circle — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '5G Circle',
+    name: '5g Circle',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.86133 13.8886C8.14641 14.3225 8.62317 14.6124 9.1836 14.6124C10.0807 14.6124 10.8085 13.8856 10.8085 12.9886C10.8085 12.2637 10.2198 11.675 9.49495 11.675H8.04911L8.31181 9.35742H10.5837" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.723 9.64441C16.4116 9.48971 16.0643 9.3963 15.6974 9.37782C14.3324 9.30971 13.2018 10.486 13.1453 11.8511C13.0831 13.3524 14.0804 14.593 15.5651 14.593C16.435 14.593 17.0557 14.2826 17.0557 13.4127V11.9834H15.5651" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5 21C7.52908 21 3.5 16.9699 3.5 12C3.5 7.03005 7.52908 3 12.5 3C17.4709 3 21.5 7.03005 21.5 12C21.5 15.5457 19.4492 18.6131 16.4688 20.0799" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.broken,
@@ -6947,7 +6947,7 @@ class _NetworkI5gCircleTwotone {
 
   /// 5G Circle — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '5G Circle',
+    name: '5g Circle',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M21.5 12C21.5 7.02908 17.4709 3 12.5 3C7.52908 3 3.5 7.02908 3.5 12C3.5 16.9699 7.52908 21 12.5 21C17.4709 21 21.5 16.9699 21.5 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.86133 13.8886C8.14641 14.3225 8.62317 14.6124 9.1836 14.6124C10.0807 14.6124 10.8085 13.8856 10.8085 12.9886C10.8085 12.2637 10.2198 11.675 9.49495 11.675H8.04911L8.31181 9.35742H10.5837" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.723 9.64441C16.4116 9.48971 16.0643 9.3963 15.6974 9.37782C14.3324 9.30971 13.2018 10.486 13.1453 11.8511C13.0831 13.3524 14.0804 14.593 15.5651 14.593C16.435 14.593 17.0557 14.2826 17.0557 13.4127V11.9834H15.5651" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.twoTone,
@@ -6962,7 +6962,7 @@ class _NetworkI5gCircleOutline {
 
   /// 5G Circle — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '5G Circle',
+    name: '5g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 3.75C7.44329 3.75 3.75 7.44329 3.75 12C3.75 16.5558 7.44335 20.25 12 20.25C16.5567 20.25 20.25 16.5558 20.25 12C20.25 7.44329 16.5567 3.75 12 3.75ZM2.25 12C2.25 6.61487 6.61487 2.25 12 2.25C17.3851 2.25 21.75 6.61487 21.75 12C21.75 17.3841 17.3852 21.75 12 21.75C6.61481 21.75 2.25 17.3841 2.25 12ZM7.06653 9.27216C7.10951 8.89306 7.43023 8.60663 7.81176 8.60663H10.0837C10.4979 8.60663 10.8337 8.94242 10.8337 9.35663C10.8337 9.77084 10.4979 10.1066 10.0837 10.1066H8.48155L8.38887 10.9243H8.9949C10.134 10.9243 11.0584 11.8487 11.0584 12.9878C11.0584 14.2996 9.99426 15.3617 8.68355 15.3617C7.84999 15.3617 7.14651 14.9268 6.73444 14.2996C6.50701 13.9534 6.60329 13.4884 6.94948 13.2609C7.29567 13.0335 7.76068 13.1298 7.98811 13.476C8.1462 13.7166 8.39624 13.8617 8.68355 13.8617C9.167 13.8617 9.55841 13.47 9.55841 12.9878C9.55841 12.6771 9.30555 12.4243 8.9949 12.4243H7.54906C7.33544 12.4243 7.13195 12.3332 6.98966 12.1738C6.84737 12.0145 6.77977 11.802 6.80383 11.5898L7.06653 9.27216ZM11.8957 11.8208C11.9669 10.0988 13.3962 8.53766 15.2346 8.62938L15.2349 8.6294C15.7054 8.65311 16.1534 8.77315 16.5564 8.97339C16.9274 9.1577 17.0787 9.60783 16.8944 9.97878C16.71 10.3497 16.2599 10.501 15.889 10.3167C15.6693 10.2075 15.4226 10.1408 15.1594 10.1275C14.2678 10.0832 13.4361 10.8747 13.3944 11.8827L13.3944 11.8828C13.3464 13.0403 14.0845 13.8436 15.0649 13.8436C15.433 13.8436 15.6231 13.7739 15.7038 13.717C15.7355 13.6946 15.7533 13.6726 15.7672 13.6434C15.7827 13.6106 15.8055 13.5417 15.8055 13.4134V12.7341H15.0649C14.6506 12.7341 14.3149 12.3983 14.3149 11.9841C14.3149 11.5699 14.6506 11.2341 15.0649 11.2341H16.5555C16.9697 11.2341 17.3055 11.5699 17.3055 11.9841V13.4134C17.3055 14.0508 17.0633 14.5933 16.5689 14.9424C16.1217 15.2581 15.5666 15.3436 15.0649 15.3436C13.0757 15.3436 11.8192 13.6658 11.8957 11.8208Z" fill="black"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.outline,
@@ -6977,7 +6977,7 @@ class _NetworkI5gCircleBold {
 
   /// 5G Circle — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '5G Circle',
+    name: '5g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.306 13.41C17.306 14.618 16.468 15.34 15.065 15.34C14.201 15.34 13.404 15.006 12.822 14.399C12.193 13.743 11.855 12.803 11.895 11.818C11.933 10.921 12.337 10.057 13.004 9.45C13.629 8.88 14.427 8.585 15.235 8.631C15.702 8.657 16.142 8.768 16.548 8.964C16.921 9.142 17.078 9.591 16.899 9.965C16.72 10.338 16.271 10.497 15.898 10.315C15.671 10.206 15.421 10.143 15.155 10.129C14.746 10.12 14.341 10.261 14.014 10.558C13.641 10.898 13.415 11.381 13.394 11.881C13.37 12.458 13.556 12.998 13.905 13.36C14.205 13.674 14.607 13.84 15.065 13.84C15.806 13.84 15.806 13.621 15.806 13.41V12.73H15.065C14.651 12.73 14.315 12.394 14.315 11.98C14.315 11.566 14.651 11.23 15.065 11.23H16.556C16.97 11.23 17.306 11.566 17.306 11.98V13.41ZM8.684 15.36C7.902 15.36 7.173 14.966 6.735 14.304C6.507 13.958 6.601 13.493 6.947 13.264C7.291 13.034 7.757 13.13 7.986 13.475C8.148 13.72 8.402 13.86 8.684 13.86C9.166 13.86 9.558 13.47 9.558 12.99C9.558 12.676 9.311 12.43 8.995 12.43H7.549C7.335 12.43 7.132 12.339 6.989 12.18C6.847 12.019 6.779 11.807 6.804 11.595L7.067 9.275C7.11 8.896 7.431 8.61 7.812 8.61H10.084C10.498 8.61 10.834 8.946 10.834 9.36C10.834 9.774 10.498 10.11 10.084 10.11H8.482L8.389 10.93H8.995C10.133 10.93 11.058 11.854 11.058 12.99C11.058 14.297 9.993 15.36 8.684 15.36ZM12 2.5C6.762 2.5 2.5 6.762 2.5 12C2.5 17.238 6.762 21.5 12 21.5C17.238 21.5 21.5 17.238 21.5 12C21.5 6.762 17.238 2.5 12 2.5Z" fill="black"/> </svg>',
     category: IconfyCategory.network,
     style: IconfyStyle.bold,
@@ -6992,7 +6992,7 @@ class _NetworkI5gCircleLight {
 
   /// 5G Circle — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '5G Circle',
+    name: '5g Circle',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M21 12C21 7.02908 16.9709 3 12 3C7.02908 3 3 7.02908 3 12C3 16.9699 7.02908 21 12 21C16.9709 21 21 16.9699 21 12Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.36133 13.8886C7.64641 14.3225 8.12317 14.6124 8.6836 14.6124C9.58068 14.6124 10.3085 13.8856 10.3085 12.9886C10.3085 12.2637 9.71981 11.675 8.99495 11.675H7.54911L7.81181 9.35742H10.0837" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.223 9.64441C15.9116 9.48971 15.5643 9.3963 15.1974 9.37782C13.8324 9.30971 12.7018 10.486 12.6453 11.8511C12.5831 13.3524 13.5804 14.593 15.0651 14.593C15.935 14.593 16.5557 14.2826 16.5557 13.4127V11.9834H15.0651" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.network,
     style: IconfyStyle.light,

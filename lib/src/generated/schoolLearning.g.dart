@@ -2626,7 +2626,7 @@ class _SchoolLearningTextFieldTwotone {
 
   /// Text field — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Text field',
+    name: 'Text Field',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.2373 20.0781H13.4208" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.2363 3.91406H13.4199" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8281 3.91406V20.0847" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.3853 17.3743H6.91613C5.18524 17.3743 3.7832 15.9722 3.7832 14.2413V9.75696C3.7832 8.02703 5.18524 6.625 6.91613 6.625H8.3853" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.9824 6.625H18.6515C20.3814 6.625 21.7834 8.02703 21.7834 9.75793V14.2326C21.7834 15.9605 20.3697 17.3743 18.6407 17.3743H14.9824" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.twoTone,
@@ -2649,7 +2649,7 @@ class _SchoolLearningTextField1Twotone {
 
   /// Text field 1 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Text field 1',
+    name: 'Text Field 1',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.2373 20.0781H13.4208" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.2363 3.91406H13.4199" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8281 3.91406V20.0847" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M8.3853 17.3743H6.91613C5.18524 17.3743 3.7832 15.9722 3.7832 14.2413V9.75696C3.7832 8.02703 5.18524 6.625 6.91613 6.625H8.3853" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M14.9824 6.625H18.6515C20.3814 6.625 21.7834 8.02703 21.7834 9.75793V14.2326C21.7834 15.9605 20.3697 17.3743 18.6407 17.3743H14.9824" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.twoTone,
@@ -2672,7 +2672,7 @@ class _SchoolLearningTextField2Bold {
 
   /// Text field 2 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Text field 2',
+    name: 'Text Field 2',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M6.9093 8.35H17.6583C18.0723 8.35 18.4083 8.014 18.4083 7.6V6.13C18.4083 3.991 16.6673 2.25 14.5263 2.25H10.0423C7.9013 2.25 6.1593 3.991 6.1593 6.13V7.6C6.1593 8.014 6.4953 8.35 6.9093 8.35Z" fill="black"/> <path d="M4.2052 13.3902C3.7912 13.3902 3.4552 13.0542 3.4552 12.6402V11.1528C3.45061 11.1193 3.44824 11.0851 3.44824 11.0503C3.44824 11.0155 3.45061 10.9813 3.4552 10.9478V9.45117C3.4552 9.03617 3.7912 8.70117 4.2052 8.70117C4.6192 8.70117 4.9552 9.03617 4.9552 9.45117V10.3003H19.6183V9.46008C19.6183 9.04608 19.9543 8.71008 20.3683 8.71008C20.7823 8.71008 21.1183 9.04608 21.1183 9.46008V12.6401C21.1183 13.0541 20.7823 13.3901 20.3683 13.3901C19.9543 13.3901 19.6183 13.0541 19.6183 12.6401V11.8003H4.9552V12.6402C4.9552 13.0542 4.6192 13.3902 4.2052 13.3902Z" fill="black"/> <path d="M10.0513 21.7507H14.5253C16.6663 21.7507 18.4083 20.0107 18.4083 17.8707V14.2007C18.4083 13.7867 18.0723 13.4507 17.6583 13.4507H6.9093C6.4953 13.4507 6.1593 13.7867 6.1593 14.2007V17.8607C6.1593 20.0057 7.9053 21.7507 10.0513 21.7507Z" fill="black"/> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.bold,
@@ -2695,7 +2695,7 @@ class _SchoolLearningTextField3Bold {
 
   /// Text field 3 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Text field 3',
+    name: 'Text Field 3',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M10.5781 19.3351V4.66516H9.7359C9.3219 4.66516 8.9859 4.32916 8.9859 3.91516C8.9859 3.50116 9.3219 3.16516 9.7359 3.16516H11.3145L11.3281 3.16504L11.3418 3.16516H12.9199C13.3339 3.16516 13.6699 3.50116 13.6699 3.91516C13.6699 4.32916 13.3339 4.66516 12.9199 4.66516H12.0781V19.3351H12.9209C13.3349 19.3351 13.6709 19.6711 13.6709 20.0851C13.6709 20.4991 13.3349 20.8351 12.9209 20.8351H9.73694C9.32294 20.8351 8.98694 20.4991 8.98694 20.0851C8.98694 19.6711 9.32294 19.3351 9.73694 19.3351H10.5781Z" fill="black"/> <path d="M6.41596 18.125H7.88496C8.29896 18.125 8.63496 17.789 8.63496 17.375V6.625C8.63496 6.211 8.29896 5.875 7.88496 5.875H6.41596C4.27496 5.875 2.53296 7.62 2.53296 9.765V14.245C2.53296 16.385 4.27496 18.125 6.41596 18.125Z" fill="black"/> <path d="M14.4824 18.125H18.1404C20.2874 18.125 22.0334 16.38 22.0334 14.235V9.765C22.0334 7.62 20.2924 5.875 18.1514 5.875H14.4824C14.0684 5.875 13.7324 6.211 13.7324 6.625V17.375C13.7324 17.789 14.0684 18.125 14.4824 18.125Z" fill="black"/> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.bold,
@@ -2718,7 +2718,7 @@ class _SchoolLearningTextField4Bulk {
 
   /// Text field 4 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Text field 4',
+    name: 'Text Field 4',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0786 19.3351H12.9214C13.3354 19.3351 13.6714 19.6711 13.6714 20.0851C13.6714 20.4991 13.3354 20.8351 12.9214 20.8351H9.73737C9.32337 20.8351 8.98737 20.4991 8.98737 20.0851C8.98737 19.6711 9.32337 19.3351 9.73737 19.3351H10.5786V4.66516H9.73633C9.32233 4.66516 8.98633 4.32916 8.98633 3.91516C8.98633 3.50116 9.32233 3.16516 9.73633 3.16516H11.3149C11.3194 3.16508 11.324 3.16504 11.3286 3.16504C11.3331 3.16504 11.3377 3.16508 11.3422 3.16516H12.9203C13.3343 3.16516 13.6703 3.50116 13.6703 3.91516C13.6703 4.32916 13.3343 4.66516 12.9203 4.66516H12.0786V19.3351Z" fill="black"/> <g opacity="0.4"> <path d="M6.4162 18.125H7.8852C8.2992 18.125 8.6352 17.789 8.6352 17.375V6.625C8.6352 6.211 8.2992 5.875 7.8852 5.875H6.4162C4.2752 5.875 2.5332 7.62 2.5332 9.765V14.245C2.5332 16.385 4.2752 18.125 6.4162 18.125Z" fill="black"/> <path d="M14.4827 18.125H18.1407C20.2877 18.125 22.0337 16.38 22.0337 14.235V9.765C22.0337 7.62 20.2927 5.875 18.1517 5.875H14.4827C14.0687 5.875 13.7327 6.211 13.7327 6.625V17.375C13.7327 17.789 14.0687 18.125 14.4827 18.125Z" fill="black"/> </g> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.bulk,
@@ -2741,7 +2741,7 @@ class _SchoolLearningTextField5Bulk {
 
   /// Text field 5 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Text field 5',
+    name: 'Text Field 5',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M12.0786 19.3351H12.9214C13.3354 19.3351 13.6714 19.6711 13.6714 20.0851C13.6714 20.4991 13.3354 20.8351 12.9214 20.8351H9.73737C9.32337 20.8351 8.98737 20.4991 8.98737 20.0851C8.98737 19.6711 9.32337 19.3351 9.73737 19.3351H10.5786V4.66516H9.73633C9.32233 4.66516 8.98633 4.32916 8.98633 3.91516C8.98633 3.50116 9.32233 3.16516 9.73633 3.16516H11.3149C11.3194 3.16508 11.324 3.16504 11.3286 3.16504C11.3331 3.16504 11.3377 3.16508 11.3422 3.16516H12.9203C13.3343 3.16516 13.6703 3.50116 13.6703 3.91516C13.6703 4.32916 13.3343 4.66516 12.9203 4.66516H12.0786V19.3351Z" fill="black"/> <g opacity="0.4"> <path d="M6.4162 18.125H7.8852C8.2992 18.125 8.6352 17.789 8.6352 17.375V6.625C8.6352 6.211 8.2992 5.875 7.8852 5.875H6.4162C4.2752 5.875 2.5332 7.62 2.5332 9.765V14.245C2.5332 16.385 4.2752 18.125 6.4162 18.125Z" fill="black"/> <path d="M14.4827 18.125H18.1407C20.2877 18.125 22.0337 16.38 22.0337 14.235V9.765C22.0337 7.62 20.2927 5.875 18.1517 5.875H14.4827C14.0687 5.875 13.7327 6.211 13.7327 6.625V17.375C13.7327 17.789 14.0687 18.125 14.4827 18.125Z" fill="black"/> </g> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.bulk,
@@ -2764,7 +2764,7 @@ class _SchoolLearningTextField6Broken {
 
   /// Text field 6 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Text field 6',
+    name: 'Text Field 6',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.4563 9.45422V12.6377" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6191 9.45508V12.6385" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6194 11.0469H4.44922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.16016 7.60198V6.13285C7.16016 4.402 8.56313 3 10.293 3H14.7773C16.5071 3 17.9091 4.402 17.9091 6.13285V7.60198" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3018 21C8.57383 21 7.16016 19.5864 7.16016 17.8575V14.1992" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9092 14.1992V17.8672C17.9092 19.598 16.5072 21 14.7764 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.broken,
@@ -2787,7 +2787,7 @@ class _SchoolLearningTextField7Broken {
 
   /// Text field 7 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Text field 7',
+    name: 'Text Field 7',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.4563 9.45422V12.6377" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6191 9.45508V12.6385" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6194 11.0469H4.44922" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.16016 7.60198V6.13285C7.16016 4.402 8.56313 3 10.293 3H14.7773C16.5071 3 17.9091 4.402 17.9091 6.13285V7.60198" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M10.3018 21C8.57383 21 7.16016 19.5864 7.16016 17.8575V14.1992" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.9092 14.1992V17.8672C17.9092 19.598 16.5072 21 14.7764 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.broken,
@@ -2810,7 +2810,7 @@ class _SchoolLearningTextField8Light {
 
   /// Text field 8 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Text field 8',
+    name: 'Text Field 8',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.4541 20.0781H12.6376" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.45312 3.91406H12.6366" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.0449 3.91406V20.0847" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.6021 17.3743H6.13293C4.40203 17.3743 3 15.9722 3 14.2413V9.75696C3 8.02703 4.40203 6.625 6.13293 6.625H7.6021" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1992 6.625H17.8682C19.5982 6.625 21.0002 8.02703 21.0002 9.75793V14.2326C21.0002 15.9605 19.5865 17.3743 17.8575 17.3743H14.1992" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.light,
@@ -2833,7 +2833,7 @@ class _SchoolLearningTextField9Light {
 
   /// Text field 9 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Text field 9',
+    name: 'Text Field 9',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.4541 20.0781H12.6376" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.45312 3.91406H12.6366" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.0449 3.91406V20.0847" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.6021 17.3743H6.13293C4.40203 17.3743 3 15.9722 3 14.2413V9.75696C3 8.02703 4.40203 6.625 6.13293 6.625H7.6021" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1992 6.625H17.8682C19.5982 6.625 21.0002 8.02703 21.0002 9.75793V14.2326C21.0002 15.9605 19.5865 17.3743 17.8575 17.3743H14.1992" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.light,
@@ -2856,7 +2856,7 @@ class _SchoolLearningTextField10Outline {
 
   /// Text field 10 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Text field 10',
+    name: 'Text Field 10',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.75813 3.75C8.44232 3.75 7.37529 4.81636 7.37529 6.13285V7.60198C7.37529 8.01619 7.0395 8.35198 6.62529 8.35198C6.21107 8.35198 5.87529 8.01619 5.87529 7.60198V6.13285C5.87529 3.98763 7.6142 2.25 9.75813 2.25H14.2424C16.3866 2.25 18.1243 3.98794 18.1243 6.13285V7.60198C18.1243 8.01619 17.7885 8.35198 17.3743 8.35198C16.96 8.35198 16.6243 8.01619 16.6243 7.60198V6.13285C16.6243 4.81606 15.5579 3.75 14.2424 3.75H9.75813ZM3.92312 8.70424C4.33733 8.70424 4.67312 9.04003 4.67312 9.45424V10.2957H19.3348V9.45424C19.3348 9.04003 19.6706 8.70424 20.0848 8.70424C20.4991 8.70424 20.8348 9.04003 20.8348 9.45424V11.0222C20.8351 11.03 20.8352 11.0378 20.8352 11.0457C20.8352 11.0536 20.8351 11.0614 20.8348 11.0692V12.6377C20.8348 13.0519 20.4991 13.3877 20.0848 13.3877C19.6706 13.3877 19.3348 13.0519 19.3348 12.6377V11.7957H4.67312V12.6377C4.67312 13.0519 4.33733 13.3877 3.92312 13.3877C3.5089 13.3877 3.17312 13.0519 3.17312 12.6377V11.1562C3.16779 11.1201 3.16504 11.0832 3.16504 11.0457C3.16504 11.0082 3.16779 10.9713 3.17312 10.9353V9.45424C3.17312 9.04003 3.5089 8.70424 3.92312 8.70424ZM6.62576 13.4492C7.03998 13.4492 7.37576 13.785 7.37576 14.1992V17.8574C7.37576 19.1723 8.4538 20.25 9.76737 20.25H14.2419C15.5585 20.25 16.6247 19.1838 16.6247 17.8672V14.1992C16.6247 13.785 16.9605 13.4492 17.3747 13.4492C17.7889 13.4492 18.1247 13.785 18.1247 14.1992V17.8672C18.1247 20.0122 16.387 21.75 14.2419 21.75H9.76737C7.62507 21.75 5.87576 20.0004 5.87576 17.8574V14.1992C5.87576 13.785 6.21155 13.4492 6.62576 13.4492Z" fill="black"/> </svg> ',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.outline,
@@ -2879,7 +2879,7 @@ class _SchoolLearningTextField11Outline {
 
   /// Text field 11 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Text field 11',
+    name: 'Text Field 11',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.70393 3.91406C8.70393 3.49985 9.03972 3.16406 9.45393 3.16406H12.6375C13.0517 3.16406 13.3875 3.49985 13.3875 3.91406C13.3875 4.32828 13.0517 4.66406 12.6375 4.66406H11.7959V19.3272H12.6375C13.0517 19.3272 13.3875 19.6629 13.3875 20.0772C13.3875 20.4914 13.0517 20.8272 12.6375 20.8272H11.1523C11.1176 20.8321 11.082 20.8347 11.0459 20.8347C11.0098 20.8347 10.9743 20.8321 10.9395 20.8272H9.45393C9.03972 20.8272 8.70393 20.4914 8.70393 20.0772C8.70393 19.6629 9.03972 19.3272 9.45393 19.3272H10.2959V4.66406H9.45393C9.03972 4.66406 8.70393 4.32828 8.70393 3.91406ZM6.13293 7.37486C4.8161 7.37486 3.75 8.44126 3.75 9.75681V14.2412C3.75 15.5579 4.81625 16.6241 6.13293 16.6241H7.6021C8.01631 16.6241 8.3521 16.9599 8.3521 17.3741C8.3521 17.7883 8.01631 18.1241 7.6021 18.1241H6.13293C3.98782 18.1241 2.25 16.3863 2.25 14.2412V9.75681C2.25 7.61253 3.98797 5.87486 6.13293 5.87486H7.6021C8.01631 5.87486 8.3521 6.21064 8.3521 6.62486C8.3521 7.03907 8.01631 7.37486 7.6021 7.37486H6.13293ZM13.449 6.62486C13.449 6.21064 13.7848 5.87486 14.199 5.87486H17.868C20.0123 5.87486 21.75 7.61283 21.75 9.75779V14.2324C21.75 16.3748 20.0004 18.1241 17.8573 18.1241H14.199C13.7848 18.1241 13.449 17.7883 13.449 17.3741C13.449 16.9599 13.7848 16.6241 14.199 16.6241H17.8573C19.1722 16.6241 20.25 15.546 20.25 14.2324V9.75779C20.25 8.44095 19.1836 7.37486 17.868 7.37486H14.199C13.7848 7.37486 13.449 7.03907 13.449 6.62486Z" fill="black"/> </svg> ',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.outline,
@@ -3464,7 +3464,7 @@ class _SchoolLearningWhiteBoardBulk {
 
   /// white board — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'white board',
+    name: 'White Board',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M7.64281 17.7301H16.9228C19.2728 17.7301 21.1838 15.8191 21.1838 13.4701V8.38012C21.1838 6.03112 19.2728 4.12012 16.9228 4.12012H7.64281C5.29381 4.12012 3.38281 6.03112 3.38281 8.38012V13.4701C3.38281 15.8191 5.29381 17.7301 7.64281 17.7301Z" fill="black"/> <path d="M11.5332 4.12012H13.0332V3C13.0332 2.586 12.6972 2.25 12.2832 2.25C11.8692 2.25 11.5332 2.586 11.5332 3V4.12012Z" fill="black"/> <path d="M10.7712 17.7301L8.07611 20.4751C7.78611 20.7711 7.79011 21.2451 8.08611 21.5351C8.38211 21.8261 8.85611 21.8211 9.14611 21.5251L12.2841 18.3301L15.4211 21.5251C15.5681 21.6751 15.7621 21.7501 15.9561 21.7501C16.1451 21.7501 16.3351 21.6791 16.4811 21.5351C16.7771 21.2451 16.7811 20.7711 16.4911 20.4751L13.7967 17.7301H10.7712Z" fill="black"/> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.bulk,
@@ -3479,7 +3479,7 @@ class _SchoolLearningWhiteBoardBroken {
 
   /// white board — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'white board',
+    name: 'White Board',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M20.9338 13.473C20.9338 15.5503 19.2505 17.2335 17.1733 17.2335H7.89318C5.81591 17.2335 4.13269 15.5503 4.13269 13.473V8.37957C4.13269 6.3023 5.81591 4.61908 7.89318 4.61908H17.1733C19.2505 4.61908 20.9338 6.3023 20.9338 8.37957V10.0933" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.5332 3V4.62873" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2062 20.9998L12.5343 17.2598L8.86133 20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.broken,
@@ -3494,7 +3494,7 @@ class _SchoolLearningWhiteBoardTwotone {
 
   /// white board — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'white board',
+    name: 'White Board',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.9234 4.61719H7.6433C5.56603 4.61719 3.88281 6.30041 3.88281 8.37768V13.4711C3.88281 15.5484 5.56603 17.2316 7.6433 17.2316H16.9234C19.0007 17.2316 20.6839 15.5484 20.6839 13.4711V8.37768C20.6839 6.30041 19.0007 4.61719 16.9234 4.61719Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12.2832 3V4.62873" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.9562 20.9979L12.2843 17.2578L8.61133 20.9979" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.twoTone,
@@ -3509,7 +3509,7 @@ class _SchoolLearningWhiteBoardOutline {
 
   /// white board — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'white board',
+    name: 'White Board',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.84949 8.37957C2.84949 5.88809 4.86849 3.86908 7.35998 3.86908H16.6401C19.1316 3.86908 21.1506 5.88809 21.1506 8.37957V13.473C21.1506 15.9645 19.1316 17.9835 16.6401 17.9835H7.35998C4.86849 17.9835 2.84949 15.9645 2.84949 13.473V8.37957ZM7.35998 5.36908C5.69692 5.36908 4.34949 6.71651 4.34949 8.37957V13.473C4.34949 15.1361 5.69692 16.4835 7.35998 16.4835H16.6401C18.3031 16.4835 19.6506 15.1361 19.6506 13.473V8.37957C19.6506 6.71651 18.3031 5.36908 16.6401 5.36908H7.35998Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.25C12.4142 2.25 12.75 2.58579 12.75 3V4.62873C12.75 5.04295 12.4142 5.37873 12 5.37873C11.5858 5.37873 11.25 5.04295 11.25 4.62873V3C11.25 2.58579 11.5858 2.25 12 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0011 16.5098C12.2024 16.5098 12.3952 16.5907 12.5362 16.7343L16.2082 20.4744C16.4984 20.77 16.494 21.2448 16.1984 21.535C15.9029 21.8252 15.428 21.8208 15.1378 21.5253L12.001 18.3302L8.86324 21.5253C8.57301 21.8209 8.09815 21.8252 7.80262 21.5349C7.50709 21.2447 7.50279 20.7699 7.79301 20.4743L11.4659 16.7343C11.607 16.5906 11.7998 16.5098 12.0011 16.5098Z" fill="black"/> </svg> ',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.outline,
@@ -3524,7 +3524,7 @@ class _SchoolLearningWhiteBoardBold {
 
   /// white board — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'white board',
+    name: 'White Board',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.0328 3V4.12012H16.9227C19.2727 4.12012 21.1837 6.03112 21.1837 8.38012V13.4701C21.1837 15.8191 19.2727 17.7301 16.9227 17.7301H13.7963L16.4907 20.4751C16.7807 20.7711 16.7767 21.2451 16.4807 21.5351C16.3347 21.6791 16.1447 21.7501 15.9557 21.7501C15.7617 21.7501 15.5677 21.6751 15.4207 21.5251L12.2837 18.3301L9.14568 21.5251C8.85568 21.8211 8.38168 21.8261 8.08568 21.5351C7.78968 21.2451 7.78568 20.7711 8.07568 20.4751L10.7708 17.7301H7.64269C5.29369 17.7301 3.38269 15.8191 3.38269 13.4701V8.38012C3.38269 6.03112 5.29369 4.12012 7.64269 4.12012H11.5328V3C11.5328 2.586 11.8688 2.25 12.2828 2.25C12.6968 2.25 13.0328 2.586 13.0328 3Z" fill="black"/> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.bold,
@@ -3539,7 +3539,7 @@ class _SchoolLearningWhiteBoardLight {
 
   /// white board — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'white board',
+    name: 'White Board',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.6399 4.61907H7.35985C5.28259 4.61907 3.59937 6.30229 3.59937 8.37956V13.473C3.59937 15.5503 5.28259 17.2335 7.35985 17.2335H16.6399C18.7172 17.2335 20.4004 15.5503 20.4004 13.473V8.37956C20.4004 6.30229 18.7172 4.61907 16.6399 4.61907Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3V4.62873" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.673 20.9998L12.001 17.2598L8.32812 20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.light,
@@ -5000,7 +5000,7 @@ class _SchoolLearningBoardBulk {
 
   /// board — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'board',
+    name: 'Board',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M7.35961 17.7301H16.6396C18.9896 17.7301 20.9006 15.8191 20.9006 13.4701V8.38012C20.9006 6.03112 18.9896 4.12012 16.6396 4.12012H7.35961C5.01061 4.12012 3.09961 6.03112 3.09961 8.38012V13.4701C3.09961 15.8191 5.01061 17.7301 7.35961 17.7301Z" fill="black"/> <path d="M12.75 3V4.12012H11.25V3C11.25 2.586 11.586 2.25 12 2.25C12.414 2.25 12.75 2.586 12.75 3Z" fill="black"/> <path d="M7.79291 20.4751L10.488 17.7301H13.5135L16.2079 20.4751C16.4979 20.7711 16.4939 21.2451 16.1979 21.5351C16.0519 21.6791 15.8619 21.7501 15.6729 21.7501C15.4789 21.7501 15.2849 21.6751 15.1379 21.5251L12.0009 18.3301L8.86291 21.5251C8.57291 21.8211 8.09891 21.8261 7.80291 21.5351C7.50691 21.2451 7.50291 20.7711 7.79291 20.4751Z" fill="black"/> <path d="M9.08612 9.79004H14.9141C15.3281 9.79004 15.6641 9.45404 15.6641 9.04004C15.6641 8.62604 15.3281 8.29004 14.9141 8.29004H9.08612C8.67212 8.29004 8.33612 8.62604 8.33612 9.04004C8.33612 9.45404 8.67212 9.79004 9.08612 9.79004Z" fill="black"/> <path d="M9.08612 13.269H12.1031C12.5171 13.269 12.8531 12.934 12.8531 12.519C12.8531 12.105 12.5171 11.769 12.1031 11.769H9.08612C8.67212 11.769 8.33612 12.105 8.33612 12.519C8.33612 12.934 8.67212 13.269 9.08612 13.269Z" fill="black"/> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.bulk,
@@ -5015,7 +5015,7 @@ class _SchoolLearningBoardBroken {
 
   /// board — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'board',
+    name: 'Board',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.33594 9.04492H15.164M9.33594 12.5187H12.3531" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.6507 8.37963C20.6507 6.30236 18.9675 4.61914 16.8902 4.61914H7.6101C5.53283 4.61914 3.84961 6.30236 3.84961 8.37963V13.4731C3.84961 15.5503 5.53283 17.2336 7.6101 17.2336H16.8902C18.9675 17.2336 20.6507 15.5503 20.6507 13.4731V11.5973" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12.25 3V4.62873" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.923 20.9998L12.251 17.2598L8.57812 20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.broken,
@@ -5030,7 +5030,7 @@ class _SchoolLearningBoardTwotone {
 
   /// board — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'board',
+    name: 'Board',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M9.08594 9.04688H14.914M9.08594 12.5207H12.1031" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.6402 4.61719H7.3601C5.28283 4.61719 3.59961 6.30041 3.59961 8.37768V13.4711C3.59961 15.5484 5.28283 17.2316 7.3601 17.2316H16.6402C18.7175 17.2316 20.4007 15.5484 20.4007 13.4711V8.37768C20.4007 6.30041 18.7175 4.61719 16.6402 4.61719Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M12 3V4.62873" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M15.673 20.9979L12.001 17.2578L8.32812 20.9979" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.twoTone,
@@ -5045,7 +5045,7 @@ class _SchoolLearningBoardOutline {
 
   /// board — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'board',
+    name: 'Board',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M8.33594 9.04492C8.33594 8.63071 8.67172 8.29492 9.08594 8.29492H14.914C15.3282 8.29492 15.664 8.63071 15.664 9.04492C15.664 9.45914 15.3282 9.79492 14.914 9.79492H9.08594C8.67172 9.79492 8.33594 9.45914 8.33594 9.04492ZM8.33594 12.5187C8.33594 12.1045 8.67172 11.7687 9.08594 11.7687H12.1031C12.5173 11.7687 12.8531 12.1045 12.8531 12.5187C12.8531 12.9329 12.5173 13.2687 12.1031 13.2687H9.08594C8.67172 13.2687 8.33594 12.9329 8.33594 12.5187Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M2.84961 8.37963C2.84961 5.88815 4.86862 3.86914 7.3601 3.86914H16.6402C19.1317 3.86914 21.1507 5.88815 21.1507 8.37963V13.4731C21.1507 15.9646 19.1317 17.9836 16.6402 17.9836H7.3601C4.86862 17.9836 2.84961 15.9646 2.84961 13.4731V8.37963ZM7.3601 5.36914C5.69704 5.36914 4.34961 6.71657 4.34961 8.37963V13.4731C4.34961 15.1361 5.69704 16.4836 7.3601 16.4836H16.6402C18.3032 16.4836 19.6507 15.1361 19.6507 13.4731V8.37963C19.6507 6.71657 18.3032 5.36914 16.6402 5.36914H7.3601Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.25C12.4142 2.25 12.75 2.58579 12.75 3V4.62873C12.75 5.04295 12.4142 5.37873 12 5.37873C11.5858 5.37873 11.25 5.04295 11.25 4.62873V3C11.25 2.58579 11.5858 2.25 12 2.25Z" fill="black"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0011 16.5098C12.2024 16.5098 12.3952 16.5907 12.5362 16.7343L16.2082 20.4744C16.4984 20.77 16.494 21.2448 16.1984 21.535C15.9029 21.8252 15.428 21.8208 15.1378 21.5253L12.001 18.3302L8.86324 21.5253C8.57301 21.8209 8.09815 21.8252 7.80262 21.5349C7.50709 21.2447 7.50279 20.7699 7.79301 20.4743L11.4659 16.7343C11.607 16.5906 11.7998 16.5098 12.0011 16.5098Z" fill="black"/> </svg> ',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.outline,
@@ -5060,7 +5060,7 @@ class _SchoolLearningBoardBold {
 
   /// board — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'board',
+    name: 'Board',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7496 4.12012V3C12.7496 2.586 12.4136 2.25 11.9996 2.25C11.5856 2.25 11.2496 2.586 11.2496 3V4.12012H7.35949C5.01049 4.12012 3.09949 6.03112 3.09949 8.38012V13.4701C3.09949 15.8191 5.01049 17.7301 7.35949 17.7301H10.4876L7.79248 20.4751C7.50248 20.7711 7.50648 21.2451 7.80248 21.5351C8.09848 21.8261 8.57248 21.8211 8.86248 21.5251L12.0005 18.3301L15.1375 21.5251C15.2845 21.6751 15.4785 21.7501 15.6725 21.7501C15.8615 21.7501 16.0515 21.6791 16.1975 21.5351C16.4935 21.2451 16.4975 20.7711 16.2075 20.4751L13.5131 17.7301H16.6395C18.9895 17.7301 20.9005 15.8191 20.9005 13.4701V8.38012C20.9005 6.03112 18.9895 4.12012 16.6395 4.12012H12.7496ZM9.08569 9.79004H14.9137C15.3277 9.79004 15.6637 9.45404 15.6637 9.04004C15.6637 8.62604 15.3277 8.29004 14.9137 8.29004H9.08569C8.67169 8.29004 8.33569 8.62604 8.33569 9.04004C8.33569 9.45404 8.67169 9.79004 9.08569 9.79004ZM9.08569 13.269H12.1027C12.5167 13.269 12.8527 12.934 12.8527 12.519C12.8527 12.105 12.5167 11.769 12.1027 11.769H9.08569C8.67169 11.769 8.33569 12.105 8.33569 12.519C8.33569 12.934 8.67169 13.269 9.08569 13.269Z" fill="black"/> </svg>',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.bold,
@@ -5075,7 +5075,7 @@ class _SchoolLearningBoardLight {
 
   /// board — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'board',
+    name: 'Board',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.08594 9.04492H14.914M9.08594 12.5187H12.1031" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M16.6402 4.61914H7.3601C5.28283 4.61914 3.59961 6.30236 3.59961 8.37963V13.4731C3.59961 15.5503 5.28283 17.2336 7.3601 17.2336H16.6402C18.7175 17.2336 20.4007 15.5503 20.4007 13.4731V8.37963C20.4007 6.30236 18.7175 4.61914 16.6402 4.61914Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M12 3V4.62873" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.673 20.9998L12.001 17.2598L8.32812 20.9998" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.schoolLearning,
     style: IconfyStyle.light,

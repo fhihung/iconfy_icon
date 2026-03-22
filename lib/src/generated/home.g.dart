@@ -987,7 +987,7 @@ class _HomeHomehomeLight {
 
   /// HomeHome — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'HomeHome',
+    name: 'Homehome',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.44085 19.8937V17.1294C9.44474 16.424 10.0169 15.8538 10.7223 15.8529H13.3201C14.0285 15.849 14.6064 16.4211 14.6093 17.1294V19.8985C14.6103 20.4979 15.09 20.9873 15.6893 21H17.4213C19.1386 21.0097 20.5397 19.6251 20.5494 17.9078C20.5494 17.9068 20.5494 17.9059 20.5494 17.9059V10.0539C20.5377 9.38156 20.2186 8.75106 19.6834 8.34435L13.7619 3.61663C12.7218 2.79446 11.2525 2.79446 10.2124 3.61663L4.31517 8.34825C3.77711 8.75495 3.457 9.38739 3.44922 10.0626V17.9049C3.45798 19.6222 4.85713 21.0087 6.57541 21H8.30927C8.92322 21.0029 9.42334 20.5076 9.42626 19.8937" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.home,
     style: IconfyStyle.light,
@@ -1010,7 +1010,7 @@ class _HomeHomehome1Light {
 
   /// HomeHome 1 — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'HomeHome 1',
+    name: 'Homehome 1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.3661 21C19.5716 21 20.5495 20.0221 20.5495 18.8166V10.0539C20.5378 9.38157 20.2186 8.75108 19.6835 8.34437L13.7609 3.61663C12.7208 2.79446 11.2526 2.79446 10.2115 3.61663L4.31518 8.34826C3.77614 8.75497 3.457 9.38741 3.44922 10.0627V18.8166C3.44922 20.0221 4.42707 21 5.6326 21H7.4696C8.55837 21 9.44087 20.1175 9.44087 19.0297V14.95C9.44087 13.9575 10.2446 13.1529 11.237 13.1529H12.8123C13.8047 13.1529 14.6094 13.9575 14.6094 14.95V19.0297C14.6094 20.1175 15.4919 21 16.5797 21H18.3661Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.home,
     style: IconfyStyle.light,
@@ -1033,7 +1033,7 @@ class _HomeHomehome2Twotone {
 
   /// HomeHome 2 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'HomeHome 2',
+    name: 'Homehome 2',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.9213 21C19.6386 21.0097 21.0397 19.6251 21.0494 17.9078V17.9059V10.0539C21.0377 9.38156 20.7186 8.75106 20.1834 8.34435L14.2619 3.61663C13.2218 2.79446 11.7525 2.79446 10.7124 3.61663L4.81517 8.34825C4.27711 8.75495 3.957 9.38739 3.94922 10.0626V17.9049C3.95798 19.6222 5.35713 21.0087 7.07541 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.94063 19.8943V17.1301C9.94452 16.4247 10.5166 15.8545 11.222 15.8535H13.8199C14.5282 15.8496 15.1062 16.4218 15.1091 17.1301V19.8992C15.1101 20.4986 15.5898 20.988 16.1891 21.0006H17.921M7.0752 21.0006H8.80905C9.423 21.0035 9.92312 20.5083 9.92604 19.8943" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.home,
     style: IconfyStyle.twoTone,
@@ -1056,7 +1056,7 @@ class _HomeHomehome3Twotone {
 
   /// HomeHome 3 — twoTone / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'HomeHome 3',
+    name: 'Homehome 3',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.9213 21C19.6386 21.0097 21.0397 19.6251 21.0494 17.9078V17.9059V10.0539C21.0377 9.38156 20.7186 8.75106 20.1834 8.34435L14.2619 3.61663C13.2218 2.79446 11.7525 2.79446 10.7124 3.61663L4.81517 8.34825C4.27711 8.75495 3.957 9.38739 3.94922 10.0626V17.9049C3.95798 19.6222 5.35713 21.0087 7.07541 21" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path opacity="0.4" d="M9.94063 19.8943V17.1301C9.94452 16.4247 10.5166 15.8545 11.222 15.8535H13.8199C14.5282 15.8496 15.1062 16.4218 15.1091 17.1301V19.8992C15.1101 20.4986 15.5898 20.988 16.1891 21.0006H17.921M7.0752 21.0006H8.80905C9.423 21.0035 9.92312 20.5083 9.92604 19.8943" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.home,
     style: IconfyStyle.twoTone,
@@ -1079,7 +1079,7 @@ class _HomeHomehome4Broken {
 
   /// HomeHome 4 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'HomeHome 4',
+    name: 'Homehome 4',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.94134 19.8937V17.1294C9.94523 16.424 10.5173 15.8538 11.2228 15.8529H13.8206C14.529 15.849 15.1069 16.4211 15.1098 17.1294V19.8985C15.1108 20.4979 15.5905 20.9873 16.1898 21H17.9217C19.6391 21.0097 21.0402 19.6251 21.0499 17.9078V10.0539C21.0382 9.38156 20.7191 8.75106 20.1839 8.34435L14.2624 3.61663C13.2222 2.79446 11.753 2.79446 10.7129 3.61663L4.81566 8.34825C4.2776 8.75495 3.95749 9.38739 3.94971 10.0626V12.5856M9.92674 19.8937C9.92383 20.5076 9.42371 21.0029 8.80976 21H7.0759C5.35761 21.0087 3.95846 19.6222 3.94971 17.9049V15.9443" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.home,
     style: IconfyStyle.broken,
@@ -1102,7 +1102,7 @@ class _HomeHomehome5Broken {
 
   /// HomeHome 5 — broken / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'HomeHome 5',
+    name: 'Homehome 5',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.94134 19.8937V17.1294C9.94523 16.424 10.5173 15.8538 11.2228 15.8529H13.8206C14.529 15.849 15.1069 16.4211 15.1098 17.1294V19.8985C15.1108 20.4979 15.5905 20.9873 16.1898 21H17.9217C19.6391 21.0097 21.0402 19.6251 21.0499 17.9078V10.0539C21.0382 9.38156 20.7191 8.75106 20.1839 8.34435L14.2624 3.61663C13.2222 2.79446 11.753 2.79446 10.7129 3.61663L4.81566 8.34825C4.2776 8.75495 3.95749 9.38739 3.94971 10.0626V12.5856M9.92674 19.8937C9.92383 20.5076 9.42371 21.0029 8.80976 21H7.0759C5.35761 21.0087 3.95846 19.6222 3.94971 17.9049V15.9443" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg>',
     category: IconfyCategory.home,
     style: IconfyStyle.broken,
@@ -1125,7 +1125,7 @@ class _HomeHomehome6Bold {
 
   /// HomeHome 6 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'HomeHome 6',
+    name: 'Homehome 6',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.29995 20.329V17.416C9.30395 16.666 9.90795 16.065 10.653 16.065H13.394C14.142 16.065 14.752 16.666 14.755 17.416V20.339C14.756 20.973 15.262 21.49 15.895 21.5H17.723C19.535 21.511 21.014 20.054 21.024 18.239V9.943C21.012 9.236 20.675 8.572 20.11 8.139L13.861 3.157C12.763 2.281 11.212 2.281 10.114 3.157L3.88995 8.15C3.32195 8.572 2.98495 9.247 2.97595 9.954V18.228C2.98595 20.044 4.46195 21.511 6.27595 21.5H8.10595C8.75395 21.5 9.28195 20.983 9.28495 20.329" fill="black"/> </svg>',
     category: IconfyCategory.home,
     style: IconfyStyle.bold,
@@ -1148,7 +1148,7 @@ class _HomeHomehome7Bold {
 
   /// HomeHome 7 — bold / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'HomeHome 7',
+    name: 'Homehome 7',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M18.7194 21.5C19.9914 21.5 21.0234 20.466 21.0234 19.199V9.943C21.0114 9.236 20.6744 8.571 20.1094 8.138L13.8594 3.157C12.7614 2.281 11.2114 2.281 10.1134 3.157L3.89044 8.149C3.32144 8.571 2.98444 9.247 2.97644 9.954V19.199C2.97644 20.466 4.00844 21.5 5.28044 21.5H7.21944C8.36844 21.5 9.29944 20.571 9.29944 19.421V15.115C9.29944 14.07 10.1474 13.215 11.1954 13.215H12.8574C13.9054 13.215 14.7544 14.07 14.7544 15.115V19.421C14.7544 20.571 15.6864 21.5 16.8344 21.5H18.7194Z" fill="black"/> </svg>',
     category: IconfyCategory.home,
     style: IconfyStyle.bold,
@@ -1171,7 +1171,7 @@ class _HomeHomehome8Bulk {
 
   /// HomeHome 8 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'HomeHome 8',
+    name: 'Homehome 8',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M19.2896 21.5C20.5616 21.5 21.5936 20.466 21.5936 19.199V9.943C21.5816 9.236 21.2446 8.571 20.6796 8.138L14.4296 3.157C13.3316 2.281 11.7816 2.281 10.6836 3.157L4.46063 8.149C3.89163 8.571 3.55463 9.247 3.54663 9.954V19.199C3.54663 20.466 4.57863 21.5 5.85063 21.5H7.78963H17.4046H19.2896Z" fill="black"/> <path d="M9.86963 19.421C9.86963 20.571 9.86963 21.5 9.86963 21.5H15.3246C15.3246 21.5 15.3246 20.571 15.3246 19.421V15.115C15.3246 14.07 14.4756 13.215 13.4276 13.215H11.7656C10.7176 13.215 9.86963 14.07 9.86963 15.115V19.421Z" fill="black"/> </svg>',
     category: IconfyCategory.home,
     style: IconfyStyle.bulk,
@@ -1194,7 +1194,7 @@ class _HomeHomehome9Bulk {
 
   /// HomeHome 9 — bulk / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'HomeHome 9',
+    name: 'Homehome 9',
     svgContent: '<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path opacity="0.4" d="M16.4651 21.5H18.2931C20.1051 21.511 21.5841 20.054 21.5941 18.239V9.943C21.5821 9.236 21.2451 8.572 20.6801 8.139L14.4311 3.157C13.3331 2.281 11.7821 2.281 10.6841 3.157L4.46014 8.15C3.89214 8.572 3.55514 9.247 3.54614 9.954V18.228C3.55614 20.044 5.03214 21.511 6.84614 21.5H8.67614H16.4651Z" fill="black"/> <path d="M9.86999 20.3289V17.4159C9.87399 16.6659 10.478 16.0649 11.223 16.0649H13.964C14.712 16.0649 15.322 16.6659 15.325 17.4159V20.3389C15.326 20.9729 15.325 21.4999 15.325 21.4999H9.86999C9.86999 21.4999 9.86699 20.9829 9.86999 20.3289Z" fill="black"/> </svg>',
     category: IconfyCategory.home,
     style: IconfyStyle.bulk,
@@ -7854,7 +7854,7 @@ class _HomeHomehome10Outline {
 
   /// HomeHome — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'HomeHome',
+    name: 'Homehome',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.74714 3.02804C11.0606 1.99075 12.9136 1.99048 14.2265 3.02825L14.2293 3.03047L20.1454 7.75305C20.8592 8.29923 21.2842 9.14235 21.2998 10.0409L21.3001 10.0539L21.2999 18.8166C21.2999 20.4364 19.9863 21.75 18.3666 21.75H16.5802C15.0781 21.75 13.8599 20.5317 13.8599 19.0297V14.95C13.8599 14.3717 13.391 13.9029 12.8128 13.9029H11.2375C10.6598 13.9029 10.1914 14.3712 10.1914 14.95V19.0297C10.1914 20.532 8.97283 21.75 7.47009 21.75H5.63309C4.01334 21.75 2.69971 20.4364 2.69971 18.8166V10.054C2.71012 9.1509 3.1354 8.30391 3.85436 7.75682L9.74714 3.02804ZM10.6789 4.20354L4.78507 8.93321C4.77924 8.93788 4.77335 8.94246 4.76739 8.94696C4.41511 9.21276 4.20599 9.62551 4.19971 10.0674V18.8166C4.19971 19.6079 4.84177 20.25 5.63309 20.25H7.47009C8.14488 20.25 8.69136 19.703 8.69136 19.0297V14.95C8.69136 13.5438 9.8303 12.4029 11.2375 12.4029H12.8128C14.2194 12.4029 15.3599 13.5433 15.3599 14.95V19.0297C15.3599 19.7033 15.9066 20.25 16.5802 20.25H18.3666C19.1579 20.25 19.7999 19.6079 19.7999 18.8166V10.0611C19.7905 9.62035 19.5805 9.20774 19.2302 8.94149L19.2161 8.93052L13.2963 4.20501C13.2959 4.20467 13.2955 4.20433 13.295 4.20398C12.5284 3.59899 11.4471 3.5985 10.6789 4.20354Z" fill="black"/> </svg> ',
     category: IconfyCategory.home,
     style: IconfyStyle.outline,
@@ -7877,7 +7877,7 @@ class _HomeHomehome11Outline {
 
   /// HomeHome  1 — outline / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'HomeHome  1',
+    name: 'Homehome  1',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M9.74714 3.02804C11.0606 1.99075 12.9136 1.99048 14.2265 3.02825L14.2293 3.03047L20.1454 7.75305C20.8592 8.29923 21.2842 9.14235 21.2998 10.0409L21.3001 10.0539L21.2999 18.8166C21.2999 20.4364 19.9863 21.75 18.3666 21.75H16.5802C15.0781 21.75 13.8599 20.5317 13.8599 19.0297V14.95C13.8599 14.3717 13.391 13.9029 12.8128 13.9029H11.2375C10.6598 13.9029 10.1914 14.3712 10.1914 14.95V19.0297C10.1914 20.532 8.97283 21.75 7.47009 21.75H5.63309C4.01334 21.75 2.69971 20.4364 2.69971 18.8166V10.054C2.71012 9.1509 3.1354 8.30391 3.85436 7.75682L9.74714 3.02804ZM10.6789 4.20354L4.78507 8.93321C4.77924 8.93788 4.77335 8.94246 4.76739 8.94696C4.41511 9.21276 4.20599 9.62551 4.19971 10.0674V18.8166C4.19971 19.6079 4.84177 20.25 5.63309 20.25H7.47009C8.14488 20.25 8.69136 19.703 8.69136 19.0297V14.95C8.69136 13.5438 9.8303 12.4029 11.2375 12.4029H12.8128C14.2194 12.4029 15.3599 13.5433 15.3599 14.95V19.0297C15.3599 19.7033 15.9066 20.25 16.5802 20.25H18.3666C19.1579 20.25 19.7999 19.6079 19.7999 18.8166V10.0611C19.7905 9.62035 19.5805 9.20774 19.2302 8.94149L19.2161 8.93052L13.2963 4.20501C13.2959 4.20467 13.2955 4.20433 13.295 4.20398C12.5284 3.59899 11.4471 3.5985 10.6789 4.20354Z" fill="black"/> </svg> ',
     category: IconfyCategory.home,
     style: IconfyStyle.outline,

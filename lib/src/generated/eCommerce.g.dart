@@ -383,7 +383,7 @@ class _ECommerceDiscountbagLight {
 
   /// DiscountBag — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'DiscountBag',
+    name: 'Discountbag',
     svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M7.26953 8.94835V6.3209C7.26953 4.68826 8.59305 3.36475 10.2257 3.36475C11.8583 3.36475 13.1818 4.68826 13.1818 6.3209V8.94835" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M10.4102 7.01275V6.70505C10.4102 5.52098 11.0563 4.48783 12.0152 3.93896" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M16.7792 7.02842V6.70523C16.7792 5.32374 15.8996 4.14769 14.6699 3.70654" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M17.7034 7.0376H5.92344C5.13859 7.0376 4.48643 7.64262 4.42765 8.42527L3.53945 20.2524C3.4741 21.1226 4.16256 21.8647 5.03524 21.8647H18.965C19.8564 21.8647 20.5511 21.092 20.4565 20.2056L19.1949 8.37849C19.1136 7.61598 18.4702 7.0376 17.7034 7.0376Z" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M12.3535 7.0376H14.4819C15.2668 7.0376 15.9189 7.64262 15.9777 8.42527L16.8659 20.2524C16.9313 21.1226 16.2428 21.8647 15.3701 21.8647H12.3535" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M12.189 13.0508L8.26642 16.9731" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M12.1829 16.959L12.1894 16.9656" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M8.26044 13.0508H8.26641" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </svg>',
     category: IconfyCategory.eCommerce,
     style: IconfyStyle.light,
@@ -406,7 +406,7 @@ class _ECommerceShoppingBagLight {
 
   /// Shopping bag — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Shopping bag',
+    name: 'Shopping Bag',
     svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M13.4142 6.53986V6.06501C13.4171 4.65114 12.2738 3.50292 10.8599 3.50001C9.44606 3.49709 8.29784 4.64044 8.29492 6.05333V6.53986" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.15956 20.8859C5.5686 20.8869 4.27734 19.5976 4.27734 18.0057V9.41934C4.27734 7.82838 5.56763 6.53906 7.15859 6.53906H14.55C16.1419 6.53809 17.4322 7.8274 17.4332 9.41934" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M17.0447 14.3165V13.5741C17.0466 12.5047 16.1816 11.6357 15.1122 11.6328C14.0428 11.6309 13.1738 12.4959 13.1719 13.5653V14.3165" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5421 21.5006H12.6845C11.4809 21.5015 10.5039 20.5255 10.5039 19.3219V19.3209V16.4961C10.5039 15.2924 11.4799 14.3164 12.6836 14.3164H12.6845H17.5421C18.7458 14.3164 19.7227 15.2914 19.7227 16.4951V16.4961V19.3209C19.7227 20.5255 18.7467 21.5006 17.5421 21.5006V21.5006Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.eCommerce,
     style: IconfyStyle.light,
@@ -452,7 +452,7 @@ class _ECommerceStarMedalLight {
 
   /// star medal — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'star medal',
+    name: 'Star Medal',
     svgContent: '<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1642 3.64538L12.8984 5.36173C13.1684 5.53052 13.5045 5.55553 13.797 5.42954L16.8007 4.14814C17.2842 3.93471 17.8489 4.15464 18.0623 4.63808C18.1493 4.83586 18.167 5.05817 18.1119 5.26736L17.2812 8.40093C17.1984 8.70745 17.274 9.0342 17.4839 9.27288L19.6037 11.6947C19.9517 12.1028 19.9024 12.7155 19.4943 13.0635C19.3333 13.2002 19.1325 13.2807 18.9218 13.2932L15.6767 13.5143C15.3573 13.5365 15.0689 13.7118 14.9022 13.9852L13.2359 17.8541C12.962 18.3148 12.3666 18.4658 11.906 18.192C11.7243 18.0832 11.5831 17.9194 11.5037 17.7235L10.3042 13.6378C10.1887 13.3428 9.9334 13.1252 9.62385 13.0572L6.45754 12.3537C5.94223 12.2378 5.61762 11.7267 5.73307 11.2107C5.7805 10.9997 5.89853 10.8105 6.06741 10.6745L8.58754 8.5976C8.83399 8.39597 8.96649 8.08604 8.9416 7.76822L8.6779 4.549C8.64101 4.00911 9.04883 3.54198 9.58872 3.50508C9.79005 3.49089 9.99093 3.53987 10.1642 3.64538Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.836 21.7767V19.0221C16.836 18.7483 16.614 18.5264 16.3402 18.5264H9.16322C8.88943 18.5264 8.66748 18.7483 8.66748 19.0221V21.7767" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M6.93604 21.7764H18.5618" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.3613 16.4343L18.633 16.7324" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M7.1377 16.4343L6.866 16.7324" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.eCommerce,
     style: IconfyStyle.light,
@@ -475,7 +475,7 @@ class _ECommerceShoppingcartremoveLight {
 
   /// ShoppingCartRemove — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'ShoppingCartRemove',
+    name: 'Shoppingcartremove',
     svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3 3.24609L5.02379 3.59636L5.96076 14.7593C6.03568 15.67 6.79849 16.3705 7.71211 16.3676H18.3263C19.199 16.3696 19.9395 15.7274 20.063 14.8634L20.9864 8.48264C21.0895 7.76945 20.5953 7.10783 19.8821 7.00469C19.8198 6.99593 5.34876 6.99107 5.34876 6.99107" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M14.6271 11.549H11.4863" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M7.23825 20.2452V20.3633M7.71701 20.2706C7.71701 20.5365 7.50125 20.7521 7.23531 20.7521C6.96937 20.7521 6.75391 20.5365 6.75391 20.2706C6.75391 20.0046 6.96937 19.7891 7.23531 19.7891C7.50125 19.7891 7.71701 20.0046 7.71701 20.2706Z" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M18.2617 20.2452V20.3633M18.7405 20.2706C18.7405 20.5365 18.5247 20.7521 18.2588 20.7521C17.9928 20.7521 17.7773 20.5365 17.7773 20.2706C17.7773 20.0046 17.9928 19.7891 18.2588 19.7891C18.5247 19.7891 18.7405 20.0046 18.7405 20.2706Z" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </svg>',
     category: IconfyCategory.eCommerce,
     style: IconfyStyle.light,
@@ -498,7 +498,7 @@ class _ECommerceI7DaysWarrantyLight {
 
   /// 7 days warranty — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '7 days warranty',
+    name: '7 Days Warranty',
     svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.99021 7.69035C4.99021 6.47564 5.97443 5.49142 7.18913 5.49045H8.18988C8.77049 5.49045 9.32679 5.25996 9.73914 4.85149L10.4384 4.15126C11.2952 3.28959 12.6879 3.28472 13.5496 4.14153L13.5505 4.14251L13.5593 4.15029L14.2595 4.85052C14.6709 5.25996 15.2282 5.48948 15.8088 5.48948H16.8115C18.0262 5.48948 19.0114 6.47467 19.0114 7.68937V8.68915C19.0114 9.26976 19.2409 9.82703 19.6503 10.2394L20.3506 10.9396C21.2122 11.7955 21.2171 13.1881 20.3613 14.0508L20.3603 14.0518L20.3515 14.0605L19.6513 14.7607C19.2419 15.1721 19.0124 15.7284 19.0124 16.309V17.3127C19.0104 18.5264 18.0252 19.5097 16.8115 19.5087H15.8068C15.2262 19.5087 14.669 19.7392 14.2576 20.1486L13.5574 20.8479C12.7025 21.7105 11.3098 21.7164 10.4472 20.8615C10.4472 20.8615 10.4462 20.8605 10.4452 20.8596L10.4365 20.8508L9.7372 20.1516C9.32581 19.7421 8.76855 19.5126 8.18794 19.5116H7.18913C5.97443 19.5116 4.99021 18.5274 4.99021 17.3127V16.3071C4.99021 15.7265 4.75972 15.1702 4.35028 14.7588L3.65102 14.0586C2.78837 13.2047 2.78254 11.813 3.63643 10.9503C3.6374 10.9493 3.63935 10.9474 3.64032 10.9464L3.64907 10.9377L4.34833 10.2374C4.75777 9.82508 4.98827 9.26781 4.98827 8.6872V7.69035" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.7316 15.7778L13.5279 9.99023H9.87891" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.eCommerce,
     style: IconfyStyle.light,
@@ -521,7 +521,7 @@ class _ECommerceAddTagLight {
 
   /// Add tag — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Add tag',
+    name: 'Add Tag',
     svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M17.3882 18.4848C16.6701 19.2029 15.9492 19.917 15.2282 20.6321C14.0032 21.8396 12.1332 21.8211 10.9073 20.6049C8.82806 18.5257 6.74009 16.4562 4.6706 14.3682C3.8718 13.5597 3.39991 12.5887 3.29094 11.4454C3.20921 10.5377 3.25494 7.15079 3.25494 6.36172C3.2637 4.94509 4.33493 3.66564 5.73307 3.42046C6.02301 3.37473 9.38167 3.38348 10.7798 3.38348C12.1507 3.38348 13.3309 3.87386 14.3019 4.84584C14.5179 5.06087 15.5181 6.07372 15.7332 6.28874" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path fill-rule="evenodd" clip-rule="evenodd" d="M10.2117 8.73907C10.2078 9.61668 9.47418 10.3386 8.58782 10.3367C7.70631 10.3347 6.97367 9.60014 6.97854 8.72448C6.9834 7.81184 7.70729 7.10061 8.62576 7.10352C9.49753 7.10644 10.2156 7.84687 10.2117 8.73907Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.2461 11.8717H21.2422" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M18.7428 9.3726V14.3688" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.eCommerce,
     style: IconfyStyle.light,
@@ -590,7 +590,7 @@ class _ECommerceReceiptBillCheckLight {
 
   /// Receipt bill check — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Receipt bill check',
+    name: 'Receipt Bill Check',
     svgContent: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M16.9357 19.9023L17.6956 20.2661C18.4944 20.6485 19.4187 20.0657 19.4177 19.1793L19.408 6.92492C19.408 4.50225 18.0604 3 15.6417 3H8.34252C5.91791 3 4.59955 4.50225 4.59955 6.92492L4.58203 19.1774C4.58106 20.0638 5.50537 20.6475 6.30514 20.2642L7.05919 19.9032C7.51259 19.6853 8.03701 19.6697 8.50306 19.8604L10.6494 20.7351C11.5144 21.0883 12.4844 21.0883 13.3494 20.7351L15.4918 19.8604C15.9579 19.6697 16.4823 19.6853 16.9357 19.9023Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.25586 14.4531H14.3639" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.66602 9.83875L11.2082 11.3809L14.3644 8.22461" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.eCommerce,
     style: IconfyStyle.light,
@@ -613,7 +613,7 @@ class _ECommerceDiscountBadgeLight {
 
   /// Discount badge — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Discount badge',
+    name: 'Discount Badge',
     svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M3.48828 7.84863C3.78426 5.73054 5.19015 4.23215 7.32674 3.98242" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.48828 17.1641C3.78426 19.2822 5.19015 20.7713 7.32674 21.021" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.6406 3.98242C18.7772 4.23215 20.1739 5.73054 20.4698 7.84863" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M16.6406 21.021C18.7772 20.7713 20.1739 19.2822 20.4698 17.1641" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.8781 21.0367H10.1191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M13.8781 3.96246H10.1191" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M3.46246 14.38V10.6211" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M20.5367 14.38V10.6211" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.72461 14.8312L14.38 10.1758" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.2656 14.7566V14.8023M14.4509 14.7664C14.4509 14.8694 14.3674 14.9528 14.2645 14.9528C14.1615 14.9528 14.0781 14.8694 14.0781 14.7664C14.0781 14.6635 14.1615 14.5801 14.2645 14.5801C14.3674 14.5801 14.4509 14.6635 14.4509 14.7664Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.73629 10.2254V10.2711M9.92159 10.2352C9.92159 10.3381 9.83808 10.4216 9.73515 10.4216C9.63222 10.4216 9.54883 10.3381 9.54883 10.2352C9.54883 10.1323 9.63222 10.0488 9.73515 10.0488C9.83808 10.0488 9.92159 10.1323 9.92159 10.2352Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.eCommerce,
     style: IconfyStyle.light,
@@ -636,7 +636,7 @@ class _ECommerceDiscountTagLight {
 
   /// Discount tag — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Discount tag',
+    name: 'Discount Tag',
     svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M3.01582 6.34928C3.01874 4.93751 4.08608 3.67169 5.47158 3.43331C5.75568 3.38369 9.08808 3.3905 10.4668 3.39148C11.8309 3.39245 12.9936 3.88282 13.9568 4.84411C16.002 6.88539 18.0452 8.92861 20.0855 10.9738C21.2929 12.1832 21.3095 14.0396 20.1069 15.2529C18.3721 17.0042 16.6285 18.7468 14.8782 20.4816C13.6659 21.6832 11.8095 21.6676 10.5991 20.4602C8.53544 18.4023 6.47178 16.3445 4.41688 14.278C3.62197 13.4782 3.15301 12.512 3.0489 11.3824C2.96522 10.4795 3.01387 7.12279 3.01582 6.34928Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M11.8991 15.5442V9.00586" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.72189 12.2546V12.203M8.71522 12.05C8.59122 12.05 8.49022 12.151 8.49122 12.275C8.49122 12.399 8.59222 12.5 8.71622 12.5C8.84022 12.5 8.94122 12.399 8.94122 12.275C8.94122 12.15 8.84022 12.05 8.71522 12.05Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.0842 12.2546V12.203M15.0775 12.05C14.9535 12.05 14.8525 12.151 14.8535 12.275C14.8535 12.399 14.9545 12.5 15.0785 12.5C15.2025 12.5 15.3035 12.399 15.3035 12.275C15.3035 12.15 15.2025 12.05 15.0775 12.05Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.eCommerce,
     style: IconfyStyle.light,
@@ -659,7 +659,7 @@ class _ECommerceDiscountTicketLight {
 
   /// Discount ticket — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'Discount ticket',
+    name: 'Discount Ticket',
     svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M9.82324 14.6128L14.2788 10.1573" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M14.1692 14.541V14.5848M14.3465 14.5504C14.3465 14.6489 14.2666 14.7288 14.1681 14.7288C14.0696 14.7288 13.9897 14.6489 13.9897 14.5504C13.9897 14.4519 14.0696 14.3721 14.1681 14.3721C14.2666 14.3721 14.3465 14.4519 14.3465 14.5504Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M9.83322 10.2051V10.2489M10.0106 10.2145C10.0106 10.313 9.93064 10.3929 9.83213 10.3929C9.73362 10.3929 9.65381 10.313 9.65381 10.2145C9.65381 10.116 9.73362 10.0361 9.83213 10.0361C9.93064 10.0361 10.0106 10.116 10.0106 10.2145Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M5.75182 18.945L6.31004 18.8706C6.82855 18.8014 7.08781 18.7669 7.34649 18.7359C10.4378 18.3655 13.5622 18.3655 16.6535 18.7359C16.9122 18.7669 17.1714 18.8014 17.69 18.8706L18.2482 18.945C18.5528 18.9856 18.8235 18.7486 18.8235 18.4413V18.3044C18.8235 17.3696 19.5813 16.6119 20.516 16.6119H20.5873C20.8501 16.6119 21.0459 16.3695 20.9906 16.1127C20.4617 13.654 20.4617 11.111 20.9906 8.65231C21.0459 8.39544 20.8501 8.15307 20.5873 8.15307H20.516C19.5813 8.15307 18.8235 7.39532 18.8235 6.46059V6.32368C18.8235 6.01635 18.5528 5.77935 18.2482 5.81997L17.69 5.8944C17.1714 5.96354 16.9122 5.9981 16.6535 6.02909C13.5622 6.39943 10.4378 6.39943 7.34649 6.02909C7.08782 5.99811 6.82851 5.96353 6.31004 5.8944L5.75182 5.81997C5.44718 5.77935 5.17649 6.01635 5.17649 6.32368V6.46059C5.17649 7.39532 4.41874 8.15307 3.48401 8.15307H3.41265C3.14991 8.15307 2.95413 8.39544 3.00938 8.65231C3.53827 11.111 3.53827 13.654 3.00938 16.1127C2.95413 16.3695 3.14991 16.6119 3.41265 16.6119H3.48401C4.41874 16.6119 5.17649 17.3696 5.17649 18.3044V18.4413C5.17649 18.7486 5.44718 18.9856 5.75182 18.945Z" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.eCommerce,
     style: IconfyStyle.light,
@@ -682,7 +682,7 @@ class _ECommerceShoppingbagLight {
 
   /// ShoppingBag — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: 'ShoppingBag',
+    name: 'Shoppingbag',
     svgContent: '<?xml version="1.0" encoding="UTF-8"?> <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9036 20.9973H8.08722C5.21712 20.9973 3.0125 19.9602 3.63808 15.7864L4.3668 10.1298C4.74818 8.04682 6.08107 7.25 7.24663 7.25H16.7773C17.9604 7.25 19.2115 8.10617 19.6571 10.1298L20.3858 15.7864C20.9171 19.4893 18.7747 20.9973 15.9036 20.9973Z" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M16.0536 7.04542C16.0536 4.81161 14.243 3.00004 12.0082 3.00004C9.77439 2.99031 7.95504 4.79312 7.94531 7.02791C7.94531 7.03375 7.94531 7.03958 7.94531 7.04542" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M14.7179 11.6797C14.7179 13.178 13.5037 14.3922 12.0054 14.3922C10.5081 14.399 9.28806 13.1897 9.28125 11.6914V11.6797" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </svg>',
     category: IconfyCategory.eCommerce,
     style: IconfyStyle.light,
@@ -751,7 +751,7 @@ class _ECommerceI24DaysWarrantyLight {
 
   /// 24 days warranty — light / regular
   IconfyIconData get regular => const IconfyIconData(
-    name: '24 days warranty',
+    name: '24 Days Warranty',
     svgContent: '<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M4.99021 7.69035C4.99021 6.47564 5.97443 5.49142 7.18913 5.49045H8.18988C8.77049 5.49045 9.32679 5.25996 9.73914 4.85149L10.4384 4.15126C11.2952 3.28959 12.6879 3.28472 13.5496 4.14153L13.5505 4.14251L13.5593 4.15029L14.2595 4.85052C14.6709 5.25996 15.2282 5.48948 15.8088 5.48948H16.8115C18.0262 5.48948 19.0114 6.47467 19.0114 7.68937V8.68915C19.0114 9.26976 19.2409 9.82703 19.6503 10.2394L20.3506 10.9396C21.2122 11.7955 21.2171 13.1881 20.3613 14.0508L20.3603 14.0518L20.3515 14.0605L19.6513 14.7607C19.2419 15.1721 19.0124 15.7284 19.0124 16.309V17.3127C19.0104 18.5264 18.0252 19.5097 16.8115 19.5087H15.8068C15.2262 19.5087 14.669 19.7392 14.2576 20.1486L13.5574 20.8479C12.7025 21.7105 11.3098 21.7164 10.4481 20.8615C10.4472 20.8615 10.4462 20.8605 10.4452 20.8596L10.4365 20.8508L9.7372 20.1516C9.32581 19.7421 8.76855 19.5126 8.18794 19.5116H7.18913C5.97443 19.5116 4.99021 18.5274 4.99021 17.3127V16.3071C4.99021 15.7265 4.75972 15.1702 4.35028 14.7588L3.65102 14.0586C2.78837 13.2047 2.78254 11.813 3.63643 10.9503C3.6374 10.9493 3.63935 10.9474 3.64032 10.9464L3.64907 10.9377L4.34833 10.2374C4.75777 9.82508 4.98827 9.26781 4.98827 8.6872V7.69035" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M15.4981 14.9045V13.695H16.5226H15.4981H12.5488L15.4981 9.59375V13.695" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> <path d="M8.02539 11.0271C8.02539 10.2467 8.65883 9.61328 9.43919 9.61328C10.2196 9.61328 10.853 10.2467 10.853 11.0271C10.853 12.7941 8.02636 12.7941 8.02636 14.8861H10.853" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/> </svg> ',
     category: IconfyCategory.eCommerce,
     style: IconfyStyle.light,
